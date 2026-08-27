@@ -1,0 +1,31 @@
+---
+id: a2a220ad-ac7f-5c0d-9d77-0edc6e9995c1
+page-type-slug: story-chapter-royal-road
+title: "Not a Chapter. Announcement – Book 3 Live on Amazon!"
+slug: 0017-not-a-chapter-announcement-book-3-live-on-amazon
+partOf: hell-difficulty-tutorial
+position: 17
+ownLength: 193
+unit: words
+publishedAt: 2024-12-04
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/1939628/not-a-chapter-announcement-book-3-live-on-amazon"
+royalRoadId: "1939628"
+---
+
+It’s here again! Book 3 is live and even longer than the previous one—this time it is around 780 Amazon pages!
+
+The audiobook isn’t ready yet, but I’ll let you know as soon as it’s available!
+
+As before, I’d be really thankful if you find time to rate the book or leave a review with your thoughts. You can (most of the time) rate and review even if you didn’t buy the book. If you have KU, you can download the book—just downloading it helps, as it counts as a sale!
+
+Book 3 starts around the time of the creation of Angry Kittens, a Group 4 guild formed during the 4th floor in Virelia. The book includes the rest of the 4th floor and part of the 5th, introducing Nathaniel Gwyn’s very first disciple—a little half-demon. Some call her minion.
+
+There are no big changes to the story, but the book went through professional editing with a few smaller changes.
+
+Amazon: https://www.royalroad.com/amazon/B0DD4BQ9PC
+
+I also made Reddit posts, so if you have a Reddit account, upvoting them helps as well!
+
+r/litrpg: https://www.reddit.com/r/litrpg/comments/1h6k93r/hell_difficulty_tutorial_book_3_is_out//r/ProgressionFantasy: https://www.reddit.com/r/ProgressionFantasy/comments/1h6k7go/hell_difficulty_tutorial_book_3_is_out/
+
+Thank you all so much for being a part of this!

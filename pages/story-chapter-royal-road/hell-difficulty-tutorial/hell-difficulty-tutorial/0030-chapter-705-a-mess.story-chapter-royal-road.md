@@ -1,0 +1,153 @@
+---
+id: 1976c180-db4d-51a3-9e61-16b9535a4816
+page-type-slug: story-chapter-royal-road
+title: "Chapter 705 - A mess"
+slug: 0030-chapter-705-a-mess
+partOf: hell-difficulty-tutorial
+position: 30
+ownLength: 2227
+unit: words
+publishedAt: 2025-12-04
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2819463/chapter-705-a-mess"
+royalRoadId: "2819463"
+---
+
+The deep male voice speaks, resonating from nowhere I can place. It echoes from every direction while seeming to come from nowhere at all.
+
+A female voice answers, “Don’t kill him yet. He belongs to Nyssa, and the Wraith doesn’t seem to be taking him over.”
+
+This one I can follow. I see her standing far away. A pretty blonde woman with green eyes, a bow, and a mantle woven of mana. I recognize her immediately, even though I’ve only ever met her once, in passing, on the Entrance Floor, when I first stepped into beyond.
+
+Next to her, the air wavers, and a vyssari man appears. Inscriptions glow in a circle beneath him, and white lightning crackles around his body. It takes me no time at all to know that this guy is very bad news. That lightning feels anything but normal, and damn, I’ve seen enough of Tess’ primordial lightning to say as much with confidence.
+
+And why in the hell is that vyssari guy floating?
+
+“He’s an A rank at most, so why isn’t the Wraith taking over?” the vyssari asks, looking at me like I’m some sort of interesting animal he’s found in a zoo.
+
+The archer woman studies me as well. “The Wraith isn’t a mind mage. It can only destroy the minds of the people it enters and make use of the remaining fragments of memory while seizing control of their body. If there isn’t any compatibility with the host, the Wraith just destroys them, leaves and…”
+
+“Save that explanation for someone else, Kaari, we should...” the vyssari interrupts her, but I cut him off as well.
+
+“Are you assholes looking for that lumoran Bitch?”
+
+“His name is Brich,” the woman says, trying to correct me.
+
+“He could just as well be named Bitch,” the vyssari snorts, then addresses me. “Is he still alive?”
+
+“The last time I saw him, I’d pierced a hole through his head. But I didn’t get a notification, so I would guess he was dead before we met him, and it was just that Wraith, as you call it, controlling him,” I answer.
+
+“So quite likely he is still alive,” Kaari says as she sits down at a distance and continues to watch me. The vyssari seems to agree with her, just nodding once.
+
+The entire time Kaari keeps using her senses to track the presence, the Wraith. Maybe it’s just me, but she seems to be getting better at it, quickly. At the start, she almost couldn't do it, but now her eyes linger longer on the places where it hovers around me, transparent and untouchable.
+
+“Brich is very hard to kill. He has multiple mind imprints stored inside his body at all times, ready to replace his mind if it gets destroyed. The Crimson Forge really did a number on him.” Kaari says.
+
+“Oh?” I ask, perking up at the interesting story and plop down on the ground. “Please, tell me more.”
+
+Noticing my curiosity, she smiles and gestures at the vyssari to calm down, but he ignores her and just floats there, likely preparing to kill the Wraith and me in one go, while keeping an eye out for anything that might be approaching.
+
+“Curious one, aren’t you?” Kaari says. “Alright, why don’t we talk for a while? Crimson Forge is a relatively new guild, but it’s likely already ranked among the richest because of how many exceptional crafters they have. Their best always wanted to test their items, but as it tends to be, they either tend to be cowards or simply turn out not to be combat oriented. So they’re always searching for the right person to test their items and crazy creations on. They never force these people into anything against their will, though, they had at least that much sense. They always offered promises of power and incredible riches.”
+
+I want to say that riches are useless if you’re dead, but then I remember where we are and keep quiet. Beyonders aren't exactly the smartest sort of people, and most of them have a screw loose.
+
+As if noticing my hesitation, Kaari smiles. “Dozens of A ranks died during that experimentation, but even hearing that, more kept coming. They often died in accidents, whether from misuse of the powerful items or from simple incompatibility. Then one day, Brich barged into the headquarters of Crimson Forge, unchanging as ever, full of energy and determined to become their greatest work for reasons of his own.”
+
+She pauses, thinking. “He isn’t exactly a bad guy, I think. He’s just insane like all of us here, maybe a bit more than the rest. Thanks to his physique, skills, and exceptional mind, he became everything Crimson Forge wanted, and in the process, they turned him into an S rank capable of handling items like no one else. Among those items are dozens of ways to restore his body, even if his brain is destroyed. There are so many thaumic protocols inscribed into his gear he’s likely forgotten about half of them, many acting as life support systems that sustain his body and regenerate it from nearly any injury.”
+
+“That’s fucking cool,” I can’t help but blurt out, thinking that I might have judged that guy too harshly.
+
+“He’s a lost cause,” the vyssari says, making Kaari glance at him and nod.
+
+“We all put up our own defenses, but we were also counting on him to keep the defensive array steady in case our first strike on the Wraith didn’t work,” she says. “Paranoia comes with things like that, so of course, we kept an eye on the array. Even then, we missed it. He slipped a hole into it without us noticing, and that let the presence get through to him.”
+
+I put the pieces together. “He let it in so it would bring him to the sword?”
+
+Kaari nods. “Likely. To get him to the sword and either use his body to claim it or, having made his way there, allow the Wraith to jump into someone else while Brich made use of one of his imprints and items to restart his body and continue on whatever chaotic plan he pulled out of his ass.”
+
+“Wouldn’t being replaced by an imprint be in some way considered just a copy of his mind? Someone else, perhaps even missing a few hours, having been created earlier in the day?” I ask.
+
+“Brich never gave a damn. He just wakes up and keeps moving, that’s enough for him. And you know what’s amusing? In some ways, he could be considered one of the most talented out of all of us.” She says, looking over at the vyssari.
+
+I even expect him to snort or respond, since she clearly meant it as a poke at him, but he doesn’t bother. He radiates that quiet confidence the powerful always carry. Or maybe I’m wrong, and he’s just holding himself back to maintain that cool aura he puts off.
+
+“And who is this guy who keeps preparing that attack to shoot at me the entire time we talk?” I ask, gesturing at the vyssari.
+
+“Will you introduce yourself?” she asks him.
+
+“I’m Lyraen, and I am retuning the resonance matrices and realigning the vectors so the pattern harmonizes against the Wraith’s essence,” he says simply and turns to Kaari, “Nyssa is coming, by the way, along with someone else from the direction this guy came from.”
+
+"Maybe someone from this man’s party? And no sign of Morwag with Nyssa? If he came too, it would be harder to kill Nathaniel if we decided it was necessary,” Kaari asks, and with an apologetic smile looks at me. “Nothing personal."
+
+"No offence taken, you just told me a lot of cool stuff, if it comes to it, I will try to ensure that the Wraith enters the vyssari guy instead of you."
+
+"How nice of you."
+
+“Morwag isn’t with her,” the vyssari says, entirely ignoring our short conversation.
+
+“I’m not surprised they got split. With her blood, who knows where the array took her.” Kaari shakes her head, and as Nyssa appears in view, she calls out, “Hey, you better keep your distance and…”
+
+Ignoring all of that, Nyssa steps forward and appears right at my side. At first, I think she’s looking at me, but her eyes are locked on the presence still hovering near me. The Wraith shifts slightly, as if considering jumping toward her, then halts.
+
+“Have they been bullying you, Nathaniel?” Nyssa asks, finally taking her eyes off the presence.
+
+“These two?”
+
+“Yes. Kaari and Lyraen.”
+
+“Not really. They’ve been pretty reasonable about the situation.”
+
+“I see. That’s good.”
+
+“Yeah. By the way, even they haven’t been getting close. Are you sure you should be standing here? It might jump into you.”
+
+“It is fine. I want it to,” she says, handing me what I guess are her shoes, socks, and long-sleeve shirt, all folded neatly. “Guard them with your life,” she adds, serious.
+
+I freeze. “Huh.”
+
+Nyssa nods, “Yes, I failed before. Brich tricked me, and it escaped.” She seems blind to the fact that I was surprised by something else.
+
+“He tricked everyone,” Kaari calls from a distance. “Can you kill it, Nyssa? Lyraen and I modified our attacks, so this time we might succeed. Thankfully, it is still weak and has yet to reach its weapon. The other group saved us there.”
+
+“Morwag asked me not to kill it so he could try fighting it,” Nyssa says flatly.
+
+This time, Kaari doesn’t stop herself. She lets out a quiet, long groan and says in a soft voice, “Nyssa…”
+
+“He seemed really excited after that short clash with Brich, when he tried to stop him from escaping. It had been a long time since anyone gave him such a deep wound.” Nyssa says, almost innocent in her tone.
+
+I keep looking between these S ranks, not even surprised that this has turned into such a mess. A cyborg made by a guild full of maniacal crafters, a weirdo albino demon with a look of complete innocence and calm on her face, while still being someone I really, really don’t want to see angry. Or maybe I do. Who the hell am I lying to?
+
+Then we have this floating vyssari with an extremely, disgustingly powerful attack he’s still charging and preparing, and the archer woman who seems so normal so far, that I’m starting to have a feeling that she’s the worst out of all of them. And of course Morwag, the most demon demon to ever demon. We do not want that guy here to further add to this fucked up situation.
+
+The other guy coming to join our little party here might be even worse for the current situation. Slowing the speed of his mana signature’s approach, Christoph reduces his pace to a walk, stopping just outside the Wraith’s reach.
+
+His face is nothing like his usual calm confidence, the one that makes it seem like he’s making fun of you in his mind, like you’re just a silly child jumping in a mud hole. Even though he stays composed and isn’t showing much, I can see it, I can feel it in the way he moves.
+
+Right now, Christoph seems like he’s very, very annoyed.
+
+"Yo, everything good back there?" I ask before anyone else here can.
+
+He shakes his head, takes the smallest step closer, and Kaari reacts instantly, with incredible speed, she draws an arrow to her bow.
+
+"It would be better if you stayed a bit further back. We do not want to give the Wraith a potentially compatible body," Kaari calls toward him. For some reason, she doesn’t attack right away.
+
+It doesn’t fit with the way they’ve behaved up til now. I would’ve expected them to destroy any possible host immediately, but instead, they hesitate. Like me, they feel it, the pressure now radiating from Christoph.
+
+The man doesn’t even react to Kaari’s warning. He keeps his eyes on me. "I’ve been careless. I was having too much fun, I grew overconfident, and that led to the lumoran escaping with the sword."
+
+"You did? Well, that does suck," I say to him.
+
+He nods. "It does. I’m not used to it." His words are cold, and for some reason, they feel dangerous, even if he doesn’t exactly mean them as a threat.
+
+Then, all at once, multiple things happen.
+
+Nyssa lets out a small sneeze as a speck of dust tickles her nose, the quick twitch of her nose making her look unexpectedly cute.
+
+Christoph takes a step forward, his mana expanding to create a bridge that the Wraith uses to leap at him.
+
+Kaari shoots several arrows, each of a different color and purpose, one for me, one for Nyssa, one for Christoph.
+
+Lyraen unleashes his white lightning. What I had sensed him preparing was not even close to the full extent, just a fraction of it. The rest appears suddenly, hidden until now by the field surrounding the floating vyssari.
+
+But fastest of all, the pale red humanoid form of the Wraith crashes against Christoph’s figure, which grabs the Wraith in the air and then begins absorbing it.
+
+The figure that usually floats over Christoph now starts to turn a pale shade of red.

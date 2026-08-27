@@ -1,0 +1,111 @@
+---
+id: 9df848ed-6aa5-57fa-983b-045abe72953f
+page-type-slug: story-chapter-royal-road
+title: "214. One More Second"
+slug: 0214-214-one-more-second
+partOf: god-of-trash
+position: 214
+ownLength: 2358
+unit: words
+publishedAt: 2025-10-12
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2671451/214-one-more-second"
+royalRoadId: "2671451"
+---
+
+Rhys cracked his brains. Come on, come on, something…! Fighting was a losing game. Talking wasn’t working. He needed to stall for just another second before he escaped. What did he have left?
+
+His eyes widened. That’s it! He threw out his hand, summoning the rat swarm—not on the Sword Saint, but on Virgil. Rats swarmed up from the earth and rushed Virgil, their eyes glittering in the bright white room. Virgil shrieked and threw up his hand. A blast of purple energy knocked the rats away from his immediate feet, but Rhys simply snapped his fingers and summoned more rats. The rats scrabbled over the floor. Their claws pattered over Virgil’s feet, and they leaped for the man’s robes, biting at their hems.
+
+“Luc!” Virgil shouted. The Sword Saint turned. He slashed, and cut the rats apart, then turned back around, but that was all the time Rhys needed. He glanced over his shoulder. Laurent was gone. It was time for him to book it, too. And here he was, standing in a room that had held the Empress’s refuse. Sure, she had treasured her cores, and locked them away, but the cores that had been held here were the ones that she couldn’t put anywhere useful. They were treasured, but forgotten; treasured trash. Which made this room a garbage heap, and therefore, gave him domain over the room. Which meant—
+
+Rhys gripped at the air and tore it open. The void shimmered, dark and beckoning. A strong call emanated from the darkness, one he hadn’t felt before. Discomfort crept over his skin, and Rhys shivered subconsciously, but there was no time for regrets or hesitations. He was public enemy number one in Virgil’s eyes. If he didn’t leave in a way that even the Sword Saint wouldn’t be able to follow him, he’d never rest again.
+
+Virgil looked up. His eyes narrowed. “Stop him!”
+
+“Too late.” Rhys hopped into the void and sealed the passage behind him. He floated in the darkness, surrounded by a layer of protective mana. For a moment, he floated in place. He stuck his tongue out at the place he’d just closed the void behind him. “See ya, wouldn’t wanna be ya.”
+
+The dangerous sensation grew stronger. Rhys looked around him, his high spirits dampening and his hackles raising. Nothing. Nothing but void, all around him. He drifted backward as quickly as he could, reaching out with his mana senses. He was relatively close to his base in the void, the stolen secret realm, and the gauntlet he had sensed before, but the gauntlet was in the opposite direction from his base, and right now, now was not the time to quest further. He fled toward his base, picking up speed as the danger continued to spike.
+
+Abruptly, the void burst open where he’d torn it open seconds ago. Gold sword light surged through, chasing after Rhys. Rhys flew to the side, but the gold light twisted to chase after him. The gold light would kill him if it touched him. Every instinct he had was telling him that. He couldn’t let it make contact. Gritting his teeth, he pulled out a piece of trash and threw it in front of the light, empowering the trash intent as high as he could. The light impacted the trash and cleaved right through it like a hot knife through butter.
+
+Rhys scowled. He threw piece after piece of trash out behind him, using his strongest trash intent to take the light’s blow, all while fleeing at top speed. One after another, the trash was slashed apart, and the backlash of the broken trash intent struck him over and over, weakening his already-bruised body, but there was nothing he could do but keep tossing out trash behind him. The gold light weakened, slowly but surely, and Rhys’s trash star burned lower and lower as he was forced to continue to throw out garbage behind him.
+
+The pale bubble of the secret realm glowed in the darkness behind him. Rhys beelined toward it. If he could get behind it, the light would strike the barrier, and maybe even the land, but it wouldn’t sever the entire realm… probably.
+
+The sense of danger that had tickled the back of his neck the whole time suddenly spiked. He glanced behind him to see a huge limb hurtling through the darkness behind him, from the opposite direction as the secret realm. From one direction, the gold light; from the other, the enormous limb. The sensation of looming death emanated from both of them. If either of them struck him, that would be it for him. He’d be destroyed in body and soul.
+
+Rhys looked from one to the other, then gritted his teeth. He turned and flew toward the giant tentacle with all his might. The tentacle hurtled toward him. Whatever it was attached to was so far away in the void that even his extended mana senses and mage vision couldn’t see it, something so vast that it could reach all the way across the void to here. The gold light continued to give chase, and Rhys kept throwing out trash behind him, barely buying himself the time to fly toward the tentacle.
+
+The tentacle filled his entire vision. It was as wide across as the secret realm, even this slender part close to its tip. He rushed closer and closer, and then flew to the side with all his might. The gold light cornered, but slowly, and the tentacle didn’t react at all. It crushed down on him and the gold light as one. The top edge of the gold light began to slice into the tentacle, and the light slowed, but the tentacle didn’t. Rhys fled, taking a new angle to avoid the tentacle alone as the gold light continued to sear into the falling tentacle.
+
+The last of the gold light vanished into the bulk of the tentacle, and the tentacle bore down on Rhys. Its fleshy bulk closed in ahead of him. He flew down as he flew across it, moving diagonally, but he couldn’t fly fast enough to escape the bulk of the tentacle. Not down, nor across; it was too large, and too fast.
+
+And then, abruptly, the tentacle flinched. There was a distant roar of pain, as if the massive, distant being had only just felt the pain of the gold light. Rhys hurtled along, flying with all his might, and burst out from under it. There was only a short distance left between him and the secret realm. He threw himself into the bubble and crashed down into the land of the secret realm on the other side, digging a furrow in the earth of the realm where he landed. For a few seconds, he just laid there, face down in the dirt, and then, with some effort, he rolled over and faced the false sky. For just a moment, he caught sight of the tentacle, looming somewhere beyond the blue, and then it faded away, retreating. The sense of danger diminished, too, and for the first time since he’d headed to battle, he felt… if not at peace, then at least closer to safety than danger.
+
+He breathed out. Closed his eyes. Then, slowly, opened them.
+
+He wasn’t done. Not even close. The Empress was gone, and her cores had been sent home, but that was only the Empress resolved. This Virgil character seemed like a bad apple, and there was something wrong with the Sword Saint, whether it was Virgil’s fault or not. Bast had that mark, and since he was the Sword Saint’s apprentice, if there was something wrong with the Sword Saint, then there was probably some kind of trickle-down damage to Bast, as well. He hadn’t seen Mouse since the beginning of the battle, and he was starting to feel like that wasn’t an effect of her power. Laurent, Sable, Lira, and his new friends Mirai and Grave, were in danger, and he really wanted to corner Mirai and ask her a few…pointed questions about her origins and how she knew about certain poses he hadn’t seen in this world yet. There was so much left to do, and here he was, hiding away in the void, far away from being able to do anything about them.
+
+He sighed. “Can I just take a break for a little while?”
+
+“I’d even recommend it. You’ve made an enemy of the Alliance. They aren’t going to let you get away that easily.”
+
+Rhys turned, still lying in the hole he’d dug with his landing. Daran stood over him, gazing down at him with something like grudging approval. He snorted. “You have any advice for taking down the Alliance, Demon King?”
+
+“I thought you’d never ask. If you’re taking down the Alliance, then there’s no need to bandy about with your answers. You have my full cooperation.”
+
+Why do I feel like I’m on the wrong side? Rhys snorted under his breath. He sat up, propping himself up on his elbows. “Then… where’s Straw? Surely you see the advantage we’d have in gathering your Remnant Weapons.”
+
+Daran chuckled. “If you’re taking down the Alliance, then I couldn’t agree more. There are more of my weapons remaining than only Straw. I can teach you how to discover all of them, and gladly. It’s high time those Alliance fools take a beating.”
+
+He looked at Daran. “Were you rooting for the Empress?”
+
+“Not at all. I don’t want the Alliance to be conquered. I want it to be overthrown. There’s a difference.”
+
+“One is more personal?” Rhys guessed.
+
+Daran wiggled his finger. “A conquering can happen to anyone, a successful kingdom or a failing one alike. An overthrowing implies that the Alliance itself has failed and is collapsing under its own weight. That is what I want.”
+
+“Well, it looks like you’re getting what you’re after,” Rhys said.
+
+“But of course, there’s a yet more reliable ally you could acquire.” Daran posed casually, stroking his chin as if he’d just happened to rest his hand there.
+
+“Oh yeah? Like what?” Rhys asked, being deliberately obtuse.
+
+Daran arced his brow. “Wouldn’t you like to have the former Demon King at your side?”
+
+“Oh…?” Rhys looked at Daran. It was a classic trashy move to have the Demon King in his head, or whispering in his ear, or locked inside him, and it was equally a trashy move to revive the Demon King—though it tended to be a move that belonged to bit villains rather than to heroes. Still, Rhys had never claimed to be a trashy hero, just trashy. He was allowed to play the part of the trash villain if he had to.
+
+The real question was if he wanted this incredibly obnoxious man to be real and physical. It was bad enough when he was immaterial, but what if he could be physically in Rhys’s face and being annoying? Could Rhys hold back from punching him? And not only that, but sure, having the Demon King on his side sounded good… so long as the Demon King stayed on his side. He didn’t think the guy was likely to take off and go to the Alliance’s side—the Alliance had literally been formed to take him down, after all—but the real question was whether Daran would attempt the classic thing-that-happened-after-the-bit-villain-revived-the-Demon-King, which was… the Demon King took over, and the bit villain became the Demon King’s lackey. Rhys was willing to be lots of things, but this particular annoying-ass Demon King’s lackey was not one of them.
+
+And, of course, there was the second question of: how powerful was the Demon King? Rhys was Tier 4 now, but the Demon King had once dominated the realm, and the current Tier 5 Sword Saint was considered weaker than the Sword Saint who had killed the Demon King. True, hundreds of years had passed, and the current Sword Saint had grown since those days, but even so, Rhys lost against the current Sword Saint. If the Demon King was considered stronger than the current Sword Saint, then he had to be… to have been at least Tier 6. If he revived at that level, there was no way Rhys could act as a counter or even an equivalent to Demon King. The power balance was simply tilted in the Demon King’s favor, and there was no counterbalancing that. That was assuming that the Demon King could revive at his full power level, but… he twisted his lips. It wasn’t an instant yes. It was… something to think about. And think long and hard about, at that.
+
+“…I mean, it’s not out of the question,” Rhys allowed at last.
+
+Daran harrumphed. “Why did that take so long to think about? You should be overjoyed to have my help!”
+
+“I’ve certainly felt many things about having your help, but joy is not typically one of them.”
+
+“Why not?”
+
+“Do you seriously not know?”
+
+Daran scowled. “It wasn’t that bad.”
+
+“Mmm.”
+
+“You’ll come around.”
+
+“Will I?”
+
+Daran grumbled something under his breath and walked away. Rhys watched him go, then sat up, leaning forward. His lighthearted, teasing expression vanished, replaced by a dark gaze. All of his friends were in danger—some more than others. He’d taken down the Empress, but he now faced an equally dangerous, if not more dangerous foe: The Alliance. And there were always other regions outside of their regions… regions which had been eying theirs for some time.
+
+Rhys sighed and ran a hand through his hair. “I fix one problem, and a dozen more pop up.” How trashy of this world, to keep heaping problems on him.
+
+And then he clapped and hopped to his feet. “Alright, then. Back at it!”
+
+Daran was right: he should let the search for him and his friends cool off a bit before he went looking for them. Which meant one thing: it was time to go suck up to the Demon King.
+
+“Daran. Daraaaaan! Hey! Stop sulking. Come on, I was just joking. Let’s go take down the Alliance, okay?”
+
+END BOOK FOUR

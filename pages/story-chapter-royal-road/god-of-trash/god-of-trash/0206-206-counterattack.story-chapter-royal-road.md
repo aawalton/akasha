@@ -1,0 +1,81 @@
+---
+id: 10b840a1-299f-5158-9d0f-fb18a6890949
+page-type-slug: story-chapter-royal-road
+title: "206. Counterattack"
+slug: 0206-206-counterattack
+partOf: god-of-trash
+position: 206
+ownLength: 2052
+unit: words
+publishedAt: 2025-10-04
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2651803/206-counterattack"
+royalRoadId: "2651803"
+---
+
+Dawn rose on a new day, and as it broke, fire lit at the borders of the Empire. The Alliance’s mages poured over the Empire’s borders, overwhelming the Empire’s guards before they could send the alarm. They sprinted inward, pushing toward the Empire’s outermost cities.
+
+Rhys watched it quietly from the edge of a camp he hadn’t detonated his garbage can teleportation on; one of the ones he’d surveyed, but not attacked. Not all the Empire’s camps were full of political prisoners and prisoners of war. Some were full of, as far as Rhys could tell, ordinary prisoners who’d done ordinary crimes. He wasn’t above breaking them out for a little chaos—gods knew he wasn’t against working with criminals—but they hadn’t been a priority. And now, it was too late.
+
+The Alliance poured over the border, lit up with the glow of their own flying machines, fireballs, and magical attacks. As he watched, a wolf made of glittery starlight ran overhead, chased by a woman who held a sword at least a dozen meters long in one hand as if it weighed as much as a toothpick. The Empire’s guards fled, instantly recognizable in their bright white uniforms, the white cloth stark against the darkness of breaking dawn. These were not the border guards, but prison guards, camp guards, and they had had time to raise the alarm. Even now, white ships sped toward the Alliance, whose own warships sped along behind the frontrunners. The Alliance’s ships were far more colorful and eclectic than the Empire’s uniform white ships, but the Empire’s ships were larger. The Empire, in turn, had more, but uniformly Tiered soldiers, whereas the variance in the Alliance’s soldiers was higher. Some were extremely strong, many were extremely weak. If he had to put it to ratios, the Empire had primarily Tier 2 soldiers, probably at the seventy percent point, with some weaker, and a few very much stronger. He knew the Empire was rife with Tier 1s (and that they enjoyed a good potato chip), but wisely, the Empress had chosen not to field them. On the other hand, the Alliance had no such compunctions. Most of their soldiers were Tier 1, but in return, they had more Tier 3s than the Empire. As for higher-Tier mages, there were so few that they were about equivalent in number, and if there were more on either side, Rhys couldn’t say which, for sure, had more.
+
+He snorted under his breath. Once upon a time, he’d estimated the Empress at Tier 4, foolishly. There wasn’t a chance in this world. The Empress and the Sword Saint had to at least be Tier 5. Maybe even Tier 6. Above him right now, he could sense multiple Tier 4s; now that his Tier was higher, he could sense the tier of more powerful mages more clearly, whereas at Tier 2, anyone at Tier 4 or higher felt the same level of immensely powerful to him. But he was now strong enough to feel the strength of stronger mages more clearly, and not only that, but he’d enhanced his mana senses. His ability to sense was infinitely finer and more powerful than before, and by having a higher strength level, he had a better baseline to compare other mages to.
+
+Foolish of me to underestimate her. He took a deep breath. He could fight Tier 4s, at least low level ones. A Tier 5, though?
+
+Rhys glanced at the Alliance. Good thing I brought some friends.
+
+He extended his mana senses, scything over the Alliance’s men, searching for a Tier 5 or better of their own. If the Sword Saint was here, he should be able to sense him.
+
+Nothing.
+
+Rhys furrowed his brows. No… no Sword Saint? Was this a diversion? Some kind of false attack? But… why? Why had Bast told him…?
+
+The mark. If Bast wanted to, he couldn’t have. Rhys twisted his lips. On one hand, not sensing the Sword Saint was bad news. On the other hand, it wasn’t necessarily bad news. He himself had just acquired a secret realm. He’d recently experienced a teleportation node. They might be faking that the Sword Saint wasn’t going to appear, and then materialize him later when the Empire’s guard was down. He didn’t know.
+
+He finished his scan and retracted his senses, not that worried that someone else would’ve noticed his scan; right now, everyone was scanning everything with their mana senses. He’d been scanned a half-dozen times himself, and a few people had even cast him a curious glance, but the flight was in the sky, and if they could sense him, they could sense that he had no flying device. He was no party to this fight.
+
+That’s what they think, anyways. Rhys smiled to himself. He knew why he was here. And when the time was right, they’d all know.
+
+He hadn’t sensed Bast among the Alliance, either. If this was a feint, then Bast wasn’t here, either. At least Bast is safe, unless there’s a teleport, and if there’s a teleport, then the Sword Saint is on his way, and I don’t need to worry either way. He nodded to himself, pleased. With the mark, he couldn’t trust Bast; but if this was a feint, then he didn’t need to launch his attack. He would sit back, watch the battle, and see.
+
+Somewhere in the near distance, Sable took to the sky with a roar. He didn’t know where she’d sourced her broom from, and he didn’t really want to know. When she’d heard his plan, the look on her face had been pure mutiny…up until the point that he told her she was free to act and fight as she pleased, at which point she’d been all butterflies and rainbows. He’d told the same to Lira, and to Mouse, who he hadn’t been able to see, but who was probably there somewhere, but Lira hadn’t been as interested as Sable had been at throwing herself at the carnage. As for Mouse… he wasn’t a hundred percent sure she was present. He hadn’t seen her for a while. It could just be because she was scared and reflexively hiding, or she could’ve booked it. He really didn’t know.
+
+The two forces clashed. Magic splashed across the sky. Enormous magical constructs slammed into one another. Sable tore into a platoon of Empire soldiers, and the Empire fought back, though it wasn’t much of a fight. Sable was hungry for blood, and she’d found her source in the Empire’s forces. The Alliance fought hard, and the Empire was still scattered. For now, the Alliance dictated the pace of battle, and they pressed deep into the Empire, the battle line a blazing line of light across the sky.
+
+Rhys stood, running to keep pace with the battle. He wanted to keep an eye on things, and this seemed as good a way as any. One of the Empire’s Tier 2s noticed him and made a beeline toward him, only for Sable to swoop out of the sky and take his head. Rhys raised his hand in thanks, but she didn’t even respond, already on the way to her next kill. He snorted. Did she even mean to ‘save’ me, or did that poor guy just walk into Sable’s kill zone? He couldn’t tell. Either way, he appreciated the assist. He hadn’t needed it, per se, but was he about to complain that someone else saved him some effort? Nope, not him.
+
+The battle continued. The Empire’s warships arrived, and reinforcements spilled out. From far below, Rhys made out a familiar figure on the ship. Laurent looked a bit distraught, but at least his ponytail was back in fine form, which he took to mean that the man was good enough. Well, not that I care too much about his emotional state when we’re in active battle with his country, but still. He would’ve felt really bad if he’d left the guy on some kind of alcoholic bender while… while… the battle raged…
+
+Rhys scowled and slapped his leg. “Dammit! What was I thinking? I should’ve leaned in!” Sure, he’d fucked up Laurent’s life by becoming a bit of a troublesome emotional scar for the rest of his life, but what if he’d done that to all the Empire’s promising young officers? He could’ve had the Empire’s entire force on its knees with a wink!
+
+Okay, Rhys, calm down. Let’s be realistic here. Laurent’s predilections and questionable taste in men and women aside, it wasn’t as if all the officers on the force would fall in love with him. He’d taken advantage of Laurent’s attraction to Rina, but it wasn’t as if the entire Empire contingent was begging for Rina’s attention. He could’ve become the ultimate honey trap, true, but that would’ve required way more clothes and makeup than he was interested in dealing with. Besides, it wasn’t like he could time their realization that he was the wrong gender… well, for half of them, there wouldn’t even be a realization, since there were plenty of female officers. Okay, for them, it would have to be the betrayal that I was ‘dating’ the entire cadre… He shook his head. It was falling apart in his mind, even as he thought it out. It was a fun idea, but ultimately a silly one with no future.
+
+But maybe in the future, when I’m an even stronger mage with a shapeshifting skill even more convenient than Lira’s watershaping… wait, why am I making this a goal? But it does kind of sound fun, to become the love of an entire nation and sabotage an entire region. He considered, then sighed. First, he had to work on his sparkling personality. Second, he had to reassess his goals and pick something slightly less trash…trashy…
+
+Rhys’s eyes sparkled. Wait, hold on. Maybe there is something to this! A harem was trashy. What was trashier than a harem? A big harem. What was trashier than a big harem? Making an entire country into his harem!
+
+A fireball hurtled toward him, and he lifted his hand, calling forth a scrap of a table. A etherial table of pure intent manifested, and the fireball bounced off harmlessly. He dismissed it and slapped his face with his other hand. Come on, Rhys. Focus. You’re in an active battlefield.
+
+It was a dumb idea, anyways. There wasn’t enough time in the day to haremize an entire country.
+
+A Tier 3 hurtled his way, blazing past Sable as she fought with some other soldiers. Her eyes narrowed as she saw Rhys. “You… do I know you?”
+
+“Not yet, but… would you like to get to know me better?” Rhys asked, totally ignoring that she knew him from the coffee stand. She was a big fan of the stuff. Let’s try out my mad rizz skills, and see if I can rizz a whole country. Come on. It’s worth a shot, right?
+
+“You’re from the coffee stand!” she realized, snapping her fingers.
+
+Rhys sighed. “And that’s a fail. Alright, alright.” He snapped his fingers back at her.
+
+She frowned, confused, and then her eyes widened. Black veins spread over her face and body, streaking her eyes with black. Her neck swelled as her jugular blackened, and her heartrate slowed as the impurities dug deep into her tissues.
+
+“Wh-what have you…” she stuttered, staggering to a halt.
+
+“I failed the charisma check, so I had to erase all the evidence,” Rhys said. She fell to her knees, and he put his hand on her head. “This might have been a real fight, but I laid the groundwork for your defeat months ago. I’m sorry. I was unfair.”
+
+“Wh…what…”
+
+He pressed down. All the impurities in her body burst out of her, breaking her veins, her muscles, tearing her skin, bursting her eyes. She collapsed into a puddle of flesh and filth, and her impurities, then her whole ruined body, flowed into his core.
+
+He looked up. No one had noticed. She was just another death in a thousand, another clash on the battlefields. He dusted off his hands and ran on, keeping pace with the fight. It wasn’t time yet. Not yet. But soon. Very, very soon.
+
+Just waiting for that pivotal moment.

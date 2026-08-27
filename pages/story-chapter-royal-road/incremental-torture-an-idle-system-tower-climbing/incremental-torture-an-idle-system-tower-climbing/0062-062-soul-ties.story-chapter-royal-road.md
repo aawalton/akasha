@@ -1,0 +1,119 @@
+---
+id: bd517da0-1d94-5143-81aa-f5b252266a4d
+page-type-slug: story-chapter-royal-road
+title: "062: Soul Ties"
+slug: 0062-062-soul-ties
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 62
+ownLength: 1934
+unit: words
+publishedAt: 2024-06-27
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1694990/062-soul-ties"
+royalRoadId: "1694990"
+---
+
+Evelyn was drenched in sweat, more of her own blood than should be outside of her body given that she had remained standing, and a grimy mix of dust and stone.
+
+Her chest rose and fell, each breath a gasping clutch at recovery. Spinebreaker hung to her side, held in one hand and still as resplendent as the moment she had obtained it from the Ascension Shop.
+
+She tried to shift into a more comfortable position, regretting the move as soon as she attempted it.
+
+Hot, burning pain shot up her crippled leg and it refused to budge. Across the arena, Dazurmagon stood firm, opting to observe rather than engage. She had proven far deadlier a foe than it had expected. Its beady black eyes were trained on her, watching for any slip-up or errors it could exploit.
+
+One of its arms was a stump, ending just above where the elbow should’ve been. The same arm it had tried to slap her into paste with.
+
+Even now, Evelyn still wasn’t sure what had taken hold of her in the heat of the moment. A deep power, emanating from somewhere within had filled her and given her the strength to beat back Dazurmagon. And not just defend, but deal true, lasting damage to the beast.
+
+The fact its arm wasn’t healing, given the previous speed of recovery it had shown, was proof she could do so. Now she just had to figure out if it was possible to tap into that same source of power once more.
+
+Using her mana sense, Evelyn tried to take stock of her foe. The Worldshaker flared like a star, overloading her sixth sense to the point she had to stop using it immediately. That perhaps meant it no longer had a core. Her guess was that there would’ve been more of a gathered source of mana if it still had a core, but there was no way to be certain.
+
+In fact, she wasn’t sure it mattered. Provided she kept blowing pieces of it apart, she would eventually find its hidden core, or defeat it outright.
+
+What she thought of as her soul, the core of her being which seemed to hold her mana circuits and had been the link to her stars, before the ascension, ached with pain after she had overdrawn it. Thinking back, it had been at the moment she tried to pull more mana than she had that the mysterious power had flooded her.
+
+As a test, Evelyn tried to pull from her mana reserves, despite the fact they were still empty. Pain exploded through her entire body, like a million hot needles being thrust into her every cell all at once.
+
+For a moment though, she pushed through the agony and tried to ignore it. She had grown used to pain, and was able to push it to one side for a brief time, instead focusing her attention on what was happening within her as she pulled.
+
+And then she saw it.
+
+A flickering thread, so tiny that it would’ve been impossible to notice unless you specifically went seeking it. There were three of them, leading somewhere deep inside her being. Three.
+
+AH! Of course.
+
+Having realised what the source of the threads must be, Evelyn navigated to her menu and opened up her Inventory, after stopping the draw on her mana and wincing at the aftermath. She had been put under for a surgery once, and upon waking up her entire body hurt. That was how she felt at that moment, but there would be time to recuperate after she had won.
+
+** Inventory **
+
+〖2/15〗
+
+〖Reality Node ⦽〗
+
+〖Reality Node ⛜〗
+
+One of the threads continued beyond, towards her hand. A link to Spinebreaker. The tower had mentioned some strange symbols, which at the time had been undecipherable.
+
+She still wasn’t sure of the translation, but at the very least had grasped the meaning. They must denote some sort of link with the soul.
+
+The Reality Nodes then, were a power source of some kind. If she was able to figure out how to harness them, perhaps defeating Dazurmagon the Worldshaker would be far easier than she had thought. Even the tower had been impressed that Evelyn had managed to acquire two of them before her first ascension, which meant they must be an extraordinary artifact.
+
+Evelyn took one out of her inventory, running her thumb over the glossy black surface of the sphere. It was inert, like a dull and lifeless rock.
+
+Though she knew it held a deep secret, all that remained was figuring out how to unlock it. Unfortunately, she wasn’t a scientist in a lab, and her foe was not content to sit on the sidelines while she researched how to defeat him. The hyper boss had discarded whatever hesitation it had towards her and was gathering its mana, a red glow that twinkled around its fist.
+
+A big strike was coming next, and Evelyn would be able to do little to escape it. With just one working leg, movement was out of the question. Her bones and ligaments were healing, but with only Soul of the Unstoppable Conqueror and no attributes on her side, the process was too slow.
+
+The hyper boss had reached a climax, a heavy red aura surrounding its fist as it leapt from the spot and charged towards her. She would need to take a gamble here, if she wanted any chance of victory.
+
+Despite the torturous pain that grew in intensity the more she tried to push beyond what should have been a hard limit on her mana, Evelyn continued. There wasn’t actually any mana coming from inside, obviously, but she figured it was just a way to manipulate the soul. Here, she focused all her attention on the Reality Node, keeping a sliver of attention on the incoming hyper boss.
+
+And she finally discovered what the source of that mysterious power was. After passing a certain threshold, a strange energy started to be sucked from the glossy black stone into her mana pathways. It felt similar to mana, but heavier.
+
+Pain continued to burn at her, but Evelyn was unrelenting. She had cultivated an iron will in the tower, and that let her ignore what would have crippled most other people, while pulling more and more of the mysterious energy into herself. Attempts to manipulate the energy were tricky. It responded to her touch, but it felt like trying to use glue as a sword.
+
+Unlike her mana, which she could manipulate freely by now, this would take time. Time which she didn’t have, because Dazurmagon’s stony fist was fast approaching.
+
+However, Evelyn had managed to draw enough of the energy inside her that it filled her mana pathways two-thirds full.
+
+Considering that it was a denser energy, more powerful than mana - or so she suspected - that meant a huge well of strength to draw on. With no time for any finesse, she simply chose to split the energy in half, using a portion to strengthen her physical body and the rest she converted into ice that coated the spiked head of Spinebreaker.
+
+Staying on her feet when the immense blow smashed into her warhammer was a titanic struggle, but Evelyn just about managed.
+
+Dazurmagon’s fist was still coated in red mana, and that strike was just the first of many. A flurry of punches flew her way, and she did her best to defend against them, her hammer twirling in her hands.
+
+Here, the raw and overwhelming might of the Reality Node was laid bare.
+
+Using her own mana, Evelyn had struggled to block a single punch from the hyper boss, and yet now she was engaged in a furious melee with no sign of letting up. And she was barely breaking a sweat.
+
+In fact, it was the Worldshaker who was now on the back foot, struggling to defend against her heavy blows.
+
+The mana it had gathered for this assault had faded, and when Spinebreaker struck true, its other fist exploded in a shower of stone. The monster let loose a furious roar, but Evelyn wasn’t finished.
+
+During the static clash, her ankle had managed to heal. Her shin was still not quite mended, but she could put a little weight on it. Enough to step into range of the hyper boss and smash Spinebreaker into its leg, returning the favour tenfold as ice bit deep and a hole was carved in its flesh.
+
+Not wanting to lose the momentum that had been so hard won, she pushed forward, seeking to deal another heavy blow before the monster had a chance to recover its footing.
+
+At that moment however, something inside her snapped. Like a bowstring twanging into place after an arrow was loosed, Evelyn lost control of her body for a second.
+
+That second was enough to interrupt her flow and give Dazurmagon the time it needed to retreat outside the range of her warhammer. Though it wouldn’t be in a position to counter attack any time soon, given the injuries it had suffered at her hand.
+
+Looking down, Evelyn saw that the Reality Node in her hand had begun melting. Deep black goop, like crude oil, flowed down the glossy surface. It didn’t drip onto the floor, though, instead being absorbed into her body.
+
+Once inside, it entered her mana pathways, filling them to the brim and stretching them. Even with her mental fortitude, staying conscious through the level of pain she was experiencing was a herculean effort.She bore the burden however, knowing that whatever was happening should be over soon, and there would be a great benefit waiting for her on the other side.
+
+A few seconds later, it had disappeared, running through her mana circuits three times, widening them and increasing their capacity a little before settling down just above her stomach. It hung there, a source of power that Evelyn knew she could draw on.
+
+And this time, without the drawback of needing to push beyond her limits. At some point during the process she had let go of the draw on her mana, and while the pain still clung on, it was lessening.
+
+There was another, deeper sensation that had come with the completed process, but it would take even more analysis to figure out what that was. Right now, she had the upper hand and nothing left to lose. It was time to beat down the boss.
+
+Her leg was crippled no longer, and though it felt odd to put her full weight on it, she would have enough range of motion to do what needed to be done. Hefting Spinebreaker, Evelyn prepared to cast Flashfreeze Flamecharge, or what equated to it without the actual skill. Using this new source of power rather than mana, its effects were sure to be far more destructive.
+
+This time, she would not beat around the bush. She had no need to dance around, weakening Dazurmagon piece by piece.
+
+Her target was clear, a killing blow to the head. If that failed, then she would strike again. And again, until the monster was dead and defeated.
+
+When she launched from the ground this time, the stone of the arena, which had remained unbroken all this time, cracked and broke around her feet, ice filling the crevices left behind. In the beady black eyes of the hyper boss, Evelyn could’ve sworn she saw a hint of fear.
+
+You better be scared, you big lug of lava. I’ve waited far too long for this moment.

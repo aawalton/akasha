@@ -1,0 +1,191 @@
+---
+id: 01f2a905-b1fc-529d-8014-3fce5d598fb5
+page-type-slug: story-chapter-royal-road
+title: "022: Synthesis"
+slug: 0022-022-synthesis
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 22
+ownLength: 2094
+unit: words
+publishedAt: 2024-04-21
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1604692/022-synthesis"
+royalRoadId: "1604692"
+---
+
+Evelyn figured it was best to get all the boring bits out of the way first, so she fused all the skills which she had acquired duplicates of, starting with the skill the tower seemed to favour giving her most often.
+
+Bulwark (Common) has fused with Bulwark (Common)! You have received the following skill:
+
+Bulwark (Uncommon) - Take less damage from physical attacks.
+
+You are attempting to fuse two Uncommon skills, please select 1 Uncommon, or 3 Common skills to use as catalysts. Their effects will not be synthesised.
+
+Goodbye, Opportunist, you will be missed. I prefer using my fists anyway.
+
+Bulwark (Uncommon) has fused with Bulwark (Uncommon)! You have received the following skill:
+
+Bulwark (Rare) - Take far less damage from physical attacks.
+
+Backlash (Common) has fused with Backlash (Common)! You have received the following skill:
+
+Backlash (Uncommon) - Every time you are struck, charge increases by 1. When the charge reaches 7, unleashes a shockwave that stuns nearby enemies briefly.
+
+Bargain Hunter (Common) has fused with Bargain Hunter (Common)! You have received the following skill:
+
+Bargain Hunter (Uncommon) - Reduces all essence costs by 1.5%.
+
+Pugilism (Common) has fused with Pugilism (Common)! You have received the following skill:
+
+Pugilism (Uncommon) - Deal more damage with your fists.
+
+Stargazing (Common) has fused with Stargazing (Common)! You have received the following skill:
+
+Stargazing (Uncommon) - Reduce timer for all stars by 0.2 seconds per star owned.
+
+Mana Plate (Common) has fused with Mana Plate (Common)! You have received the following skill:
+
+Mana Plate (Uncommon) - Form a sturdy barrier of mana around yourself. (Variable Mana Cost)
+
+Impregnable (Common) has fused with Impregnable (Common)! You have received the following skill:
+
+Impregnable (Uncommon) - Every 8 points of fortitude give you +1 to the attribute.
+
+Stellar Body (Common) has fused with Stellar Body (Common)! You have received the following skill:
+
+Stellar Body (Uncommon) - Fortitude +1 for every 20 star value.
+
+Ambush (Common) has fused with Ambush (Common)! You have received the following skill:
+
+Ambush (Uncommon) - Increases your damage when striking from concealment.
+
+No physical or mental changes accompanied the changes to her skills, besides a minor surge of vigour from Impregnable, Surging Blood and Stellar Body increasing her attributes. Her eyes stung. Constant battle and vigilance over the previous twenty-four hours was taking its toll, and despite one wonderful side effect of her bolstered stamina and vitality being that she could stay awake far longer without detriment, there still came a point at which her body would revolt.
+
+However, Evelyn wanted to make sure that she prepared herself for the next floor before resting. If the patterns the tower had shown so far held true, their next challenge would be a big one, and stumbling into it with anything less than her full potential would feel wrong. The first skill she wanted to try and synthesise was out of a nostalgic desire, rather than a well thought out theory.
+
+Synthesising Mana Bolt (Common) and Rock Affinity (Common)! You have received the following skill:
+
+Conjure Rock (Uncommon) - Summon a rock to launch at your foes from afar or wield by hand. (Variable Mana Cost)
+
+Wow, that’s far more than I had hoped for. Even just having the option to fire rocks at my opponents as a distraction or to weaken them would have been amazing. My natural desire to hunt interesting rocks was only stoked on the first few floors. I wonder what the limits of the skill are?
+
+Evelyn put her new skill to use right after acquiring it, starting slow as a barely noticeable drip of mana was fed from her internal reserves into the rock she had in mind. After just a couple of seconds, she held in her hand a perfect replica of the very first weapon she’d acquired in the tower, back on the 1st Floor when a horde of rats had her fighting for her life.
+
+Jagged, weighty. Oh, you’re a beautiful thing, little rock. I’m going to have so much fun with this skill, I know it.
+
+Next, Evelyn was going to attempt to synthesise three skills at once for the first time. She had seen the option to do so from the moment she unlocked the skill synthesis system, but hadn’t felt any of the combinations available to her were worth it. This particular one was risky, since there was a chance she would lose the beneficial effect of Renewed Vigour, her only self-healing skill, but there was no reward without risk.
+
+Synthesising Battle Cry (Common), Renewed Vigour (Common) and Outnumbered (Common)!
+
+You have achieved perfect skill synergy! Please select 1 Uncommon, or 3 Common skills to use as catalysts. Their effects will not be synthesised.
+
+I like the skills I have, so this sucks. I think Ambush is the skill I’m least likely to use beyond this floor, so I guess it’s goodbye for now.
+
+Perfect skill synthesis complete! You have received the following skill:
+
+Overpowering Spirit (Rare) - Fighting against the odds fills you with strength, bolstering your attributes and providing unyielding courage. The more damage you receive, the faster your wounds regenerate and the stronger you strike back. With your last breath, unleash vengeance upon your foes. (24 hour cooldown)
+
+So, the skill synthesis system had a hidden feature. Why am I not surprised the tower offered zero hints about this. I’ll have to make sure I do some serious thinking before attempting to put together higher rated skills in future. I should also keep some useless skills around to use as fuel, this is starting to get expensive and I don’t want to burn any beneficial skills. I could always throw a Bulwark away, I’m sure to get plenty more!
+
+Synthesising Flame Affinity (Common) and Ice Affinity (Common)! You have received the following skill:
+
+Thermal Affinity (Uncommon) - Frost and Flame empower your touch.
+
+Here we go, the last big combination, then I can finally catch some Z’s. I have no idea how this will turn out, I just hope I don’t ruin the original skill.
+
+You are attempting to synthesise two Uncommon skills, please select 1 Uncommon, or 3 Common skills to use as catalysts. Their effects will not be synthesised.
+
+Synthesising Flash Charge (Uncommon) and Thermal Affinity (Uncommon)!
+
+Flashfreeze Flamecharge (Rare) - Tear through terrain like a blazing inferno, leaving fields of burning ice in your wake and chilling your foes to the bone before exploding against your target.
+
+Enhanced Sight, Reflect and Stealth were the unfortunate victims to this final synthesis, but their sacrifice had not been in vain as the resulting skill completed Evelyn’s advanced arsenal. She was now akin to a minor force of nature, able to smash through all obstacles in her path and stand up against her enemies with nothing but her tough body and mighty fists. Her status was now a far cry from the simple description of her pitiful self back on the 1st Floor.
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+|Attributes|
+
+Power: 7
+
+Speed: 4
+
+Stamina: 6
+
+Vitality: 12 (13)
+
+Mana: 8
+
+Fortitude: 16 (23)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Rare), Bulwark (Uncommon), Bulwark (Common), Stargazing (Uncommon), Assassin’s Eye (Uncommon), Bargain Hunter (Uncommon), Backlash (Uncommon), Stellar Body (Uncommon), Capital Gains (Common), Pugilism (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Arcane Shield (Common), Spendthrift (Common), Solar Fusion (Common), Salvo (Common), Corruption Resistance (Common)
+
+~Active~
+
+Fists of Frost (Uncommon), Mana Plate (Uncommon), Conjure Rock (Uncommon), Flashfreeze Flamecharge (Rare)
+
+~Hybrid~
+
+Overpowering Spirit (Rare)
+
+Now that was a status worthy of her ambitions. Not only had her combat skills seen a surge in quality and quantity, but a few new skills had improved her star’s essence production and reduced the timer. Along with the shop related skills, Evelyn was on her way to becoming the tower’s first unkillable millionaire. Having a hobby made life worth living, after all, and she had always loved a spending spree.
+
+Essence: 9『+212 / 5:59:39.6 hours』
+
+~~ Stars ~~
+
+Grey: 101
+
+White: 1
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+【KILL】
+
+With all of the pending upgrades complete, Evelyn could hold off the pull of sleep no longer and drifted off, dreaming of rocks and the schrodinger’s pastries Lily had conjured up for her in the past - a deep, unsatisfied craving which had been building while in the tower.
+
+~~~
+
+“Hey people, something’s happening to the portal,” said Anthea.
+
+“Oh crap, she’s right. I think it’s closing,” said Anna.
+
+“I guess twenty-four hours is the hard limit for staying on a completed floor. Someone grab Evelyn and pull her through, she’s a heavy sleeper, that one,” Kayla quipped.
+
+Evelyn was briefly aware of a pair of firm hands grabbing her under the shoulders and dragging her across the mossy ground, but her mind stubbornly refused to cooperate and sank back into slumber. She remembered Kayla shouting something right before a weightlessness took hold, but the specifics eluded her unconscious mind.
+
+Her eyes snapped open as a titanic weight smashed into her stomach and sent her flying into a wall where she crashed through a few metres of stone and left a cracked indent. She gasped for a breath but her lungs refused to cooperate for a tense moment, until the daze of the impact subsided, leaving her spluttering and wheezing.
+
+You have been forcefully removed from your Party, due to the limitations of the 10th Floor.
+
+All challengers have arrived on the 10th Floor, instance will now trigger.
+
+❰ Solo Instance - Boss Raid ❱
+
+Face down the boss alone and emerge victorious to clear the instance.
+
+Not a great time to oversleep, Evelyn. I suppose it could be worse, there could be a furious teacher waiting to hand out a mind numbing detention for being a few minutes past punctual. Instead, there’s just a boss able to break through three tiers of Bulwark and still wind me! Oh, this is going to be fun.
+
+A brief prayer for the rest of her party was all she could spare them before a primal, rumbling growl alerted her to the resident boss of the 10th Floor preparing to charge at her. Her overflowing vitality had returned and she all but threw herself out of the wall, flying through the air and denting the ground where she landed, sending dust and shards of stone flying.
+
+In front of her towered the boss, a ten-metre tall humanoid, with grey scales covering its entire body and four arms bursting with sinewy muscle, two of them with two-metre spikes of bone protruding from the end in place of hands, and the other two were adorned with jagged, dull grey crystals. It had the head of a lizard, or maybe given its size, dinosaur would be more accurate, furnished with razor sharp teeth and golden eyes that had slits for pupils, which were glaring at Evelyn with uncontained rage. Its legs were even more muscled than its arms, double jointed and ending in knife-like claws.
+
+The abomination unleashed a guttural roar as the crystals on its arms thrummed to life, shining a brilliant carmine hue as Evelyn’s mana quivered a little in response. Overpowering Spirit flared in response and she could feel unmatched strength flooding her body as she poured half of her reserves into Mana Plate in preparation for the incoming attack.
+
+Glowing beams of light shot from both crystals, joining into a single, focused blast that seared into her, shattering apart her Mana Plate after just a second of contact and searing into her unprotected chest. Tears streamed from her eyes as the laser cooked her flesh, but Evelyn was not one to give in just because her foe held the upper hand. Her track record proved it, and she even had an aptly named skill to match.
+
+As her body sustained more and more damage, her cells revolted against the destructive beam, repairing and reproducing at a shocking rate that brought the battle to an evenly matched tug of war between the monster’s laser and her rapid regeneration, which was healing destroyed fat and muscle at a visible rate.
+
+After holding out for what seemed like an eternity of burning pain and blinding light, the crystals on the boss’ arms fizzled out and the laser dissipated, following which her wounds vanished, leaving behind just a faint red mark on her sternum to serve as a reminder of the beast’s lethal capabilities. Evelyn blinked away the last of her tears and grinned at her foe.
+
+“Looks like your big laser wasn’t enough to take me down. Now it’s my turn, you crappy godzilla knockoff.”

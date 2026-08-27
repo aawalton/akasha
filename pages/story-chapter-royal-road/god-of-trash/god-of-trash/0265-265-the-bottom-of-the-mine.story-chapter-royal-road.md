@@ -1,0 +1,83 @@
+---
+id: 1ea64bca-7e63-5a82-a506-678b50138aca
+page-type-slug: story-chapter-royal-road
+title: "265. The Bottom of the Mine"
+slug: 0265-265-the-bottom-of-the-mine
+partOf: god-of-trash
+position: 265
+ownLength: 2138
+unit: words
+publishedAt: 2026-01-23
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2972614/265-the-bottom-of-the-mine"
+royalRoadId: "2972614"
+---
+
+They walked slowly into the depths. There wasn’t much to say; they proceeded downward, and the mine remained pretty much the same. The same hand-carved walls, the same timber beams rotting under the weight of the impurities. No matter how far he went, there was no indication of magely intervention in the construction of the mine; it was all mortal construction.
+
+The impurities were so strong that he proceeded at a crawl. The Hunger had eaten its fill and gone back to sleep, which apparently kept it from being bothered by any further impurities. It was a being made of impurities, after all, so there wasn’t anything to corrupt, as opposed to Rhys, who despite his suffering, his skin hammered by tiny impure particles, his eyes dusty and gummy with the stuff, his nose and lips caked with it, carried on, constantly battling corruption from the impurities and using them to fuel his trash star.
+
+Deeper and deeper, down into the depths. Despite his slow motion, he did eventually reach the end of the mine. The hand-crafted shaft gave way to a natural cave, which continued downward. Immediately, he came face-to-face with the source of all the impurities: black gunk, the same black gunk that coated the underside of his floating island. The natural cave’s walls, ceiling, and even floor were all coated with it. Was it all a big lump of the black gunk, and this ‘cave’ a carved out passage through it, or was the cave a normal cave coated in gunk? He wasn’t sure, and he didn’t know how he’d tell the difference. Not without absorbing the gunk, anyways.
+
+Hmm. He pinched his chin. Well, there was always one way to find out. He had the trashifying beam, and he could absorb small quantities of the black gunk. It’d take a while, but he could dig a narrow hole toward the wall, and see if he hit rock, eventually, or if it was gunk all the way down.
+
+So let’s get to it.
+
+It was dark in the cave, and the air quality was horrible. He kept breathing it anyways, mostly because it was a great way to absorb impurities, but it didn’t mean that it felt good. His lungs hurt in a way that told him he’d probably have cancer in twenty years if he were still mortal, and not a mage who could just tear down and regenerate his lungs if they started to break down. The black gunk was more resistant to the trashifying beam here, in the depths of the earth where it belonged, which only made the process last even longer.
+
+“Hey, The Hunger.”
+
+Silence. The Hunger’s aura continued at a steady state, telling him that it was still snoozing away.
+
+“Daran?”
+
+Silence. He got the faint sense that Daran was still sulking after he’d lectured him about not treating his kids like extensions of himself. It was an important lesson, and one Rhys had watched ruin the lives of several of his friends throughout middle and high school—especially high school—so he didn’t regret it, but as ever, actions had consequences, and lecturing Daran meant the man would sulk, which meant that now, he had to stand alone in the darkness all on his own and talk to no one.
+
+“Man, this sucks,” he said aloud. What was he supposed to do, get lost in his own thoughts and have a hundred side-track thoughts for the next half hour?
+
+…He’d do that anyways, but it didn’t mean he was in the mood to do that right now. He didn’t even have a topic to get him started! All he was doing right now was the mage equivalent of staring at a wall and watching paint dry. There wasn’t anything to rant about. “Oh man, guys, paint dries so slow!” He wasn’t a streamer. He didn’t have that ability to infinitely patter about anything. And he didn’t even have a chat to get him started! He was just staring at a wall, slowly absorbing gunk, with no one to talk to and nothing to talk about.
+
+“What’s the point of a talking sword and a ring grandpa when neither of them will talk to me?” Rhys asked aloud.
+
+“A ring grandpa?” Daran asked, confused.
+
+“Yeah, you know. An old guy in—it’s usually a ring, but any artifact, coin, or stone will do—who gives me tips and tricks. That’s you.” Rhys paused, then beamed. “You even had me get a ring so you could truly be my ring grandpa!”
+
+Silence was his only reply as Daran went back to sulking.
+
+“Daran. Daraaaan. Daran!” He tried a few more times, but this time, even childish complaining couldn’t bring Daran out of his sulk.
+
+Rhys sighed. There was nothing for it. He just wouldn’t have a conversation partner for this. He turned his focus back to the spot on the wall and kept drilling down, deeper into the gunk.
+
+Due to the corruptive nature of the gunk, he couldn’t stand on it without losing his feet or continuously fighting off the corruption—or both. To drill into the darkness, he stood on the stone just outside and leaned into the gunk, reaching far enough that he could be confident he was in the gunk itself, and not in the gunk at the very edge of the cave, where it would naturally be backed by stone. To be very sure that it wouldn’t be backed by stone, he pointed at the wall opposite him rather than the wall beside him, which meant he was absorbing at a distance. Fortunately, the gunk resonated enough with his skills that Trash Manipulation had no problem dragging it toward him, once the trashifying beam trashified it enough for him to absorb it.
+
+He could have hovered out into the middle of the cave, but all his reluctance to fly was biting him in the ass now, and he simply wasn’t confident enough in his flying skills to be sure he could hover in the middle of the gunk without bumping into some part of it. If he’d practiced earlier and flown around rather than stubbornly bouncing along the ground, it wouldn’t have been a problem, but he had, and now he was reaping what he’d sowed.
+
+He dug down and down, and kept finding more gunk. Eventually, the thought popped up in his head: if I keep going, and it never ends, when do I stop? After all, if his null hypothesis was correct, and it was all gunk, then he’d never hit ‘rock’ or anything else; it would just be gunk, gunk, gunk. There would be an infinite depth of darkness, with nothing to run into.
+
+As far as I can reach, he decided. He’d keep piercing into this one spot until he couldn’t reach any further. If there was still gunk, then he would assume that it was either all gunk, or it was layered with so much gunk that it might as well all be gunk.
+
+I can’t absorb all this, he realized; or rather, he’d already realized it. The gunk was hard to absorb in any quantity. Even this finger’s width beam of gunk fought him as he absorbed it, and clunked up the trash star, making it hard for it to continue burning. Under the immense heat and pressure of the trash star, it did eventually ignite, but it was like diesel fuel; it would much rather extinguish the star than light aflame itself. This wasn’t even great training, since it was so extreme that he had to weaken the gunk to absorb it. At this point, this was just an experiment in how far the gunk stretched underground.
+
+“Hey, Daran. You know a lot about this stuff. Is it just gunk all the way down?”
+
+There was a long pause. Rhys expected to get met with silence, but after a few beats, Daran spoke.
+
+“I can’t stand in such close proximity to it as you can. This isn’t my path. But as far as I could determine… yes. The entire heart of the world is rotten.”
+
+Rhys raised his brows. Huh. That might be why I was called here. A rotten world seems like exactly the kind of trash problem absolutexistence might summon me here for. Or… might have tried to summon a god of trash here for, anyways.
+
+Still, was the problem something that simple? Not that the gunk was simple, or that ‘the world’s rotten heart’ was a small quantity—he could chip away at his current rate for the rest of his extended Tier 4 life of hundreds of years and not succeed at absorbing it all—but something this physical seemed like something a god could deal with. Maybe he was wrong, and gods’ scopes were more limited in this world, so that unless the god was the god of that specific path, they couldn’t do much about it—but it just seemed so… un-metaphysical. It was so very literal that he just had a hard time believing that it could be the answer. In a few more tiers, he would probably be able to absorb gunk at this level. Hell, he was pretty sure he’d be able to absorb the gunk steadily at Tier 5, and probably quickly at Tier 6, if things continued progressing at the pace they had been.
+
+Which was exactly the problem. If the problem absolutexistence had had could be resolved by a Tier 5 or 6, why had he—it, she, they—asked for a god? Maybe absolutexistence had known about the difference in powerscaling between their worlds and knew that only what his world considered a god—which, to be fair, in some religions, a Tier 4 would totally qualify as a god, let alone a 5 or 6—could solve the problem, but then again, if absolutexistence was that perceptive and aware of Rhys’s world, he probably wouldn’t have picked Rhys, chronically-online memelord, as his god of trash, so that couldn’t be it.
+
+It wasn’t like absolutexistence had picked someone who could grow into a god of trash, or had said something like ‘you can eventually fix my world’s problem.’ Absolutexistence had absolutely expected Rhys to show up, be a god, do god stuff, and solve its problem. If absolutexistence knew anything about Rhys or his world, Rhys made no sense as a pick; it only made sense if there was some massive barrier of understanding or perception between the two of them.
+
+Though, for that matter, there was also Mirai, and if Mirai was right, the Empress. He wasn’t the first Earthling absolutexistence had grabbed and tried to use to fix this problem. And that was also enough to tell him that this gunk couldn’t be the be-all, end-all of the issue at hand here, because neither the Empress, nor Mirai, would be capable of eventually clearing this gunk as surely as he was. Sure, Mirai was the one who’d originated the cutefiying beam that he’d copied in order to absorb the gunk at all, and he was sure the Empress would have some purifying technique or another which she could use to weaken or destroy it, but their paths weren’t as directly gunk-directed as Rhys’s was.
+
+One, that meant that the rotten core of this world couldn’t be the main objective, or else they all would’ve had it as their primary goal. Two, the fact that they all had different paths with the same general thrust meant that absolutexistence was fishing; it didn’t know exactly what it needed, or it couldn’t read them well enough back on their homeworld to grab the right person. If the problem was the gunk, surely it would’ve brought all gunk specialists, but the closest it had gotten was Rhys, and even Rhys wasn’t an ideal gunk-sucker. The gunk was part of the problem. He didn’t at all think that it wasn’t. But if it was the end of the problem, he’d be the one who was the most shocked.
+
+His finger-width drill reached the end. He’d drilled as far as he could, and there was still gunk waiting beyond the limits of his reach. Rhys stepped back, retracting his hand. It really was as Daran said, then. The world’s core—or at least the outer mantle of the core—was rotten. It needed to be cleaned. He couldn’t do it today, but he’d experienced it. He’d learned what it was like. Now, he could ruminate on it, experiment with it, and learn. And when he came back, he’d slurp it all up.
+
+His trash star was all filled up. He hadn’t tiered up, but he could feel it: he was close to the limit. That same sensation he’d felt earlier blocked his way, but this wouldn’t be the place he broke through. He could feel that instinctively. He needed something else.
+
+But what?

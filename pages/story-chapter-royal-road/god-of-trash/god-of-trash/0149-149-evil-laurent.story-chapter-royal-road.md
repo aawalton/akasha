@@ -1,0 +1,85 @@
+---
+id: d22f6e1a-05a1-5f86-b2c6-800141fdc855
+page-type-slug: story-chapter-royal-road
+title: "149. Evil Laurent"
+slug: 0149-149-evil-laurent
+partOf: god-of-trash
+position: 149
+ownLength: 2202
+unit: words
+publishedAt: 2025-08-02
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2487284/149-evil-laurent"
+royalRoadId: "2487284"
+---
+
+Snake Robes reached into one of his sleeves and withdrew a long, coiled whip. He released it, and the coils smacked the ground one after another with more weight and heft than a whip that size should have. Rhys faced him in an approximation of the Empire’s stiff sword form, based on foggy three-year-old memories of the one time he and Laurent had fought. Hopefully Laurent’s form was standard, because if he’d made any variations, then Rhys would be making them too. Not that Laurent struck him as the type to do anything but standard form. He probably worshipped standard form, to be honest. The guy was a little too upright and uptight for his own good. It was something Laurent would have to grow past, though the Empress wasn’t likely to let him.
+
+Not that I care what happens to my enemies.
+
+“This whip is the Thousand Poisons Steel Whip. It’s made of a thousand strands of steel wire, and each strand has been imbued with a unique poison. You will die screaming in pain, covered in boils, burning and freezing at the same time, and that’s only a few of the milder poisons,” Snake Robes told Rhys.
+
+“Really?” Rhys asked, his attention suddenly piqued. The whip was doused in new and interesting impurities and filth? Had Snake Robes made it just for him?
+
+“Truly. If you still wish to flee…”
+
+“Huh?” Rhys blinked, then realized: Snake Robes was still trying to bluff him off. The guy really thought he was a dumb kid with a death wish. Which… from a certain perspective, he was, but from another perspective, he definitely wasn’t. For one, this Thousand Poisons Death Rope posed no danger to him, except in that he might spend too much time studying it after he stole it from Snake Robes’s cold, dead hands. For another, he wasn’t actually one of the Empire’s military school students on a righteousness kick. He had far more tools up his sleeves than any of them.
+
+A thought suddenly whispered at the back of his mind: This might actually be too easy. If these guys were used to fighting rejects from the Empress’ school, who were all taught to fight in the same stiff way that only made sense in formations, then he was about to blow through this camp like a hurricane. The only people he’d really have to look out for were those with enough raw power to ignore his cheap tricks.
+
+It did make sense. It wasn’t like the Empire’s nobility was going to up and quit military school one day to decide to take on some low-level criminals in the woods that the nobility was probably busy deliberately overlooking for some internal politics reason or another. It’d only be the kids like Laurent. The common, low-rank kids with no social standing and therefore no unique magics or skills, who split from the herd and decided they had had enough with the criminals, to the point they’d actually try to take them on. Only the low-ranking kids, who actually fell hook, line, and sinker for the Empire’s righteousness brainwashing (like Laurent), rather than the noble kids who could look around them as they grew up and see the Empire’s ‘righteousness’ for what it was: corrupt, full of holes, poorly patched up by the nobles, whose existence didn’t fit in the Empress’s world order at all, except that they were too powerful for her to eject, kill, or ignore.
+
+It was strange that it was the privileged who were more likely to see the inequality of this world, but then, when Rhys thought about it, that would have been standard even in his world until more recently, wouldn’t it have been? It wasn’t as if serfs, eking a living out of their lord’s dry earth, had the time to think about whether it was fair or not that the King took ten percent of their food for the winter. They had no rights in the matter. All they could do was keep their heads down and survive. Knowledge was for the lofty thinkers. In his world, historically, the lords and nobles. In this world, mages. And in the Empire, which was tilted by the Empress such that the mages were no longer given universal access to knowledge, knowledge was once more locked in the hands of nobility.
+
+Snake Robes snapped his whip, dragging Rhys back to reality. “If you won’t back down, then—”
+
+“Have at you!” Rhys replied, loudly but not-quite-shouting, and charged Snake Robes. It wouldn’t do if the whole camp came out this early, after all. He was confident in his ability to take down the low-rank fighters, but he didn’t want to be mobbed, either.
+
+He was currently burning his trash fire at about a Tier 2 level, which was why Snake Robes, a ‘fellow’ Tier 2, hadn’t gone to fetch any backup. It did mean, unlike other suppression techniques, that Rhys was ‘actually’ a Tier 2 right now, but with the option to instantly become a Tier 3 at any moment he needed. He didn’t anticipate needing to against Snake Robes’s Delicious Whip of Strange and Tasty New Poisons, but it was an option.
+
+The whip snaked forth. Snake Robes had a bored look on his face, and the whip, commensurate with that expression, twisted in the air to strike exactly where Rhys’s next step would have been, if he’d been better at copying Laurent’s technique. Instead, Trash Step sped his feet and enlengthened his step a little, and the whip struck under his foot as his foot came down.
+
+Wow. Didn’t even know I could use weapons as ‘trash’ for Trash Step, Rhys thought, as he propelled himself at Snake Robes. It wasn’t just the usual passive level of boosting his footing on bad footing. Instead, maybe because of the strong aura of filth and impurities radiating from the whip, his step had drifted toward the whip, and the whip had drifted toward the ground. As though he wasn’t just coincidentally boosted by stepping on trash, but instead, the trash appeared under his foot to support him.
+
+In his mind’s eye, he saw protagonists supported on lotus flowers as they stepped down from the heavens. Was it like that, but trash? Would he spawn crumpled chip bags behind him as he walked? It was kind of disgusting, but since he could also absorb the chip bags afterward…
+
+Hmm. While I wasn’t looking, my abilities got stronger. Is this because I haven’t really tested them out since I hit Tier 3? Rhys made a mental note to test all his skills, one he knew he’d immediately forget and ignore, and looked down at his foot. He still had Snake Robes’s whip pinned. Both he and Snake Robes looked a little nonplussed by the whole event, both of them startled into simply freezing and staring at his foot. At last, he cleared his throat.
+
+“If you’re going to look at my feet that hard, I’m going to have to charge.”
+
+Snake Robes snarled and yanked his whip hard enough that the knitted steel wires ate into the sole of Rhys’s shoe. Rhys felt the poisons enter his bloodstream, and hopped back to take a moment to investigate them. They were—
+
+Disappointing, honestly? The Impure Wells were far more virulent and dangerous, and his various Resist skills were more than capable of handling this level of poison. Even without him consciously thinking about it, his body and mana system quickly redirected the poisons to his core, where they were unceremoniously deposited on the trash star. Rhys sighed in disappointment. So much for studying the whip. He might as well just absorb the poisons now for the power boost. His trash star was getting a little low, after all.
+
+Snake Robes narrowed his eyes. “Now that you’ve had a taste—”
+
+Rhys waved his fingers. A multitude of colorful liquids lifted off the whip, whirled around in midair, and swirled into him. Snake Robes’s eyes bulged. He looked at Rhys in shock.
+
+Rhys sighed again, then met Snake Robes’s eyes. Realization flashed through Rhys’s. “Oh… huh. I guess I could’ve poisoned you with that… but surely you were immune to the poisons? I mean, you kept that thing in your robes.”
+
+“Surely,” Snake Robes said, in a tone that told Rhys he was definitely not immune to the poisons.
+
+“Well, um… en garde?” Rhys tried again, lifting his sword once more.
+
+Snake Robes threw aside his no-longer-poisoned whip and fled for the hills.
+
+Rhys watched him go, a little mystified. He hadn’t even gotten the chance to announce himself and whip his hat off to reveal the dramatic face paint. He was planning to do that halfway through the battle at a moment of maximum tension, but instead… I guess I keep wearing the hat for now? He shrugged, picked up the whip, and walked on.
+
+Snake Robes had outright fled, vanishing into the forest, so Rhys walked on without any particular hurry to his motions. Snake Robes was smart enough to figure out what Rhys was here to do and know he wanted no part in it. He expected the guy would be back in a few hours, after everything blew over, probably with some convenient excuse or another, but given that he didn’t start screaming or run directly into camp? He didn’t think there was a need to chase him down right now. Eventually, sure. The farm needed able bodies. But right now?
+
+Right now, he had worse prey to hunt.
+
+Rhys stalked forward, keeping up his persona as the edgy student who’d finally snapped with a few glares, a rigid back, and nicely spaced steps, moving like the kids he saw coming to get chips between classes. He adjusted his grip a few times, trying to perfectly emulate Laurent, though his memories of that encounter were a bit fuzzy by now. It was probably fine. No way had these criminals memorized the exact sword grip the Empire favored.
+
+Then again, where did the Water Syndicate come from, if not military school dropouts? It wasn’t like there was a great number of mages running around at random in the Empire. The Water Syndicate was either a fallen noble family—which he highly doubted, but who knew? He hadn’t met the patriarchs—a bunch of military dropouts, or foreign mages… or some mix of all three. The most likely to him was a mix of the last two, with the main family pegged as military dropouts, and the recruits like Snake Robes and his Big Poison String as foreign mages who’d overstayed their welcome.
+
+There were no more guards before he came to the outskirts of the camp. Why would there be? That was Snake Robes’s job, and presumably, he did it well enough when someone didn’t come along and slurp the poison off his poison whip like they were sucking sour dust off a sour straw. At its very edges, the camp looked about how he’d expected it to. A few tents were built into lean-tos, something a little bit temporary and reconstructable about all the structures out here. Fire pits smoked gently in the midday sun, waiting to be stoked for some purpose or another, and from the medicinal smell in the air, they likely had a pill cooker or potion brewer out here.
+
+It made enough sense. Magic consumables were volatile, so it didn’t make sense to brew them in the heart of anything, let alone criminal camp. He didn’t know if the magic consumables they were brewing were legal or recreational, but whichever they were, they’d be brewing soda soon enough. He stalked by, waiting for someone to challenge him. The mages in this part of camp were scrawny, with calloused hands, arms, and faces from stirring the aforementioned volatile potions, and while they gave him strange looks, no one bothered to intercept him. He deliberately walked a little closer to one of the potion brewers than absolutely necessary, and the woman stepped away from him. “Go bother the fighters. I’m just trying to study adhesives.”
+
+Rhys raised his brows. He hadn’t really thought about that, but the Empire suppressed everything, didn’t it? These potion brewers probably didn’t want to make drugs, but what else could they do? If their research didn’t align with the Empire’s goals, did they have another option but to become criminals to pursue it?
+
+Interesting. So he wasn’t just obtaining a logistics network, he was also obtaining an entire research department, too? The more he thought about it, the better taking over the Water Syndicate sounded to him. Sure, they might not be too excited about their new assignment as soda and chip flavor investigators, but from what he knew of the sciencey types, they’d happily go along with it as long as he also gave them time to work on their hearts’ desires.
+
+He didn’t have any quarrel with the scientists-slash-drug-makers, so he walked on. There was a narrow segment full of trees between the potionmaking section of the camp and the next, and Rhys headed for that. He was barely a few steps into the forest before a voice called out:
+
+“Stop.”

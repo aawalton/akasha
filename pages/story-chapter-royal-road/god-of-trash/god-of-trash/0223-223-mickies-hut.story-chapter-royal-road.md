@@ -1,0 +1,123 @@
+---
+id: c61d60af-ea20-5ff7-808f-f5de5f27da65
+page-type-slug: story-chapter-royal-road
+title: "223. Mickie's Hut"
+slug: 0223-223-mickies-hut
+partOf: god-of-trash
+position: 223
+ownLength: 2183
+unit: words
+publishedAt: 2025-10-27
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2710288/223-mickies-hut"
+royalRoadId: "2710288"
+---
+
+The sun rose late. Rhys emerged from the trash heap before it rose, wearing his new duds. They were a bit patchwork, and the fur cuffs were made of a dozen different kinds of fur each, but it worked well enough, and he fit in with the other mages way better than he would have otherwise. Honestly, it was kind of a good look, and he put all the scraps of leather and fur in the garbage to use; it was a win-win all around. The icy pre-dawn cold, on the other hand, he was less fond of. His breath crystalized on the air, and the darkness was oppressive. There wasn’t even a glimmer of light on the horizon, even though every instinct he had told him it was morning. Rhys wrinkled his nose in distaste and shook his head, then pressed on. Now wasn’t the time to complain about how much he hated mornings. He had a hut to locate, and a man to question.
+
+He didn’t understand why the large people had prevented Paul from saying any more about the Sword Saint. Had the Sword Saint’s downfall made them look bad, somehow? Had they been involved in whatever plot had happened? Was it some kind of attempt by the northern nation, or was it just that they didn’t want to intervene with another country’s politics? He’d been under the impression that the northern continent and the Alliance were at odds, but come to think of it, that was only because of the beasts flooding over the border. If the northern continent had nothing to do with those beasts, if this was just a sort of natural migration, then there was no reason for the Alliance and the continent to be at odds.
+
+Rubbing his hands together out of habit, he set off for the hut.
+
+It was a bit of a walk, and not only that, but he had to wander a bit in the white wasteland to find the hut itself. With nothing better to do, Rhys finally pulled up his stats for the first time in what felt like years.
+
+Rhys Foundling | Tier 4
+
+Title: Trash-born
+
+Skills:
+
+Survivalist 33
+
+Pain Resist 79
+
+Scavenging 38
+
+Less is More 75
+
+Sewing 18
+
+Blow Mitigation 37
+
+Self-Regeneration 60
+
+Mana Manipulation 30
+
+Improvised Weapon Proficiency 25
+
+General Resist 52
+
+Alchemy 16
+
+Herbalism 11
+
+Speed Reading 35
+
+Bluff 48
+
+Enlightenment 7
+
+Speed Picking 32
+
+Forging 27
+
+Crafting 56
+
+Disguise 36
+
+Aura Obscuration 31
+
+Body Transformation 5
+
+Path:
+
+Trash Intent 50
+
+Trash Body 46
+
+Trash Aura 38
+
+Trash Step 52
+
+Trash Manipulation 75
+
+Trash Enchanting 56
+
+Trash Talk 15
+
+He stared at the numbers for a second, then frowned. Some of them felt way off, like Sewing. Why was it so low? Had it not been tracking while he was coreless? He didn’t do a ton of sewing, but it wasn’t like he hadn’t sewn at all. And then there was Trash Manipulation, which was wildly higher than the rest of his path skills, though he felt like all his path skills had advanced at about the same rate. Did it level faster, or had it somehow tracked better on his semi-functional System? Trash Talk was definitely too low, too. He’d had some bangers. For sure. He… he couldn’t recall them, but he was sure they’d happened. Definitely. Body Transformation was very low… but then, he’d just learned it, so maybe that made sense?
+
+It just felt wrong. All the numbers felt wrong. They were bigger, but not bigger enough, or too much bigger, or bigger at the wrong proportion. It was like he’d been connected to the System over a bad connection, and some of the skills had registered growth, but some hadn’t.
+
+He pinched his chin. If it’s bad connection, I wonder if it’s my location that determined whether they leveled or not, like with bad cell signal? Or something else? Either way, it was valuable to figure out. Anything that he could use to gain more information about the System was valuable. He didn’t know anything about it, or how it worked. It didn’t give them power—obvious from the fact that he’d gained levels, strength, and a Tier without it—but it did track it. In that case, what was its purpose? Its objective? Why track everyone in this world’s power levels?
+
+Come to think of it, the System is a massive invasion of privacy, Rhys thought to himself. He hadn’t consented to have his strength monitored. He hadn’t signed any terms and conditions. This was completely illegal and nonsense. When he’d thought the System gave power, it was no big deal. Now that he knew otherwise… it was a problem.
+
+If it’s monitoring our power… why? For who? He looked upward, at the dark sky and the stars overhead, up, up, into infinity—then away. Just like how the void beast was a big problem, so big a problem that he couldn’t possibly handle it yet, whatever had set up the System was also a big problem, too large for him to meaningfully consider. Sure, they were both death and maybe existential threats, but it was like being afraid of a giant asteroid smacking the world back home. He couldn’t do anything about it, so there was no point worrying too much about it.
+
+In another few Tiers, though… Then he’d have to confront them. Both the void beast, and whoever controlled the System, if his suppositions were true and there was someone in charge, and the whole System nothing but a giant monitoring system. It was also possible that it was just something that existed in this world, the way the sun and the ground beneath his feet existed, but he couldn’t help but be suspicious. In his world, everyone and their dog had been trying to steal everyone else’s data; what was to say the System wasn’t this world’s equivalent, or worse?
+
+But it was a later problem. For now, he could be happy that he had his System back, and go find that hut Paul had pointed him at.
+
+Daran had vanished when he’d reached town, and hadn’t reappeared. He didn’t mind. They were both sick of each other’s company after spending those weeks isolated in the void while Rhys healed up and waited for his five-star crime rating to vanish. He could go interact with other people now, but Daran was still tied to him; the best the guy could do was not appear. Speaking of invasions of privacy, he had no idea how Daran’s tie to him worked. Was Daran’s consciousness tied to his? Did Daran always see everything he saw, and hear everything he heard, even if his ghost appeared far away from Rhys? Or was he his own being, contained in the ghost, who saw and experienced whatever his ghostly form appeared to experience? Rhys leaned toward the latter, but it could very well be the former; he just didn’t know.
+
+He couldn’t look to trashy literature, either. Ghostly grandpas appeared all the time as badvisors and mentors for protagonists, usually tied to rings or other useful gear, and sometimes even tied to a manual, the way Daran seemed to be, but they were a pretty even split between true omniscient, consciousness centered on protagonist, ghostly forms, and beings-elsewhere-who-had-a-limited-fly-on-the-wall-omnsicient-protagonist-centered-perspective. He could at least confidently narrow Daran down to consciousness-centered or ghostly form, but he couldn’t narrow him down any further. He could ask, but he wasn’t sure he’d believe anything Daran said when it came to ‘how do you work,’ so there wasn’t much point in asking, since he already knew he’d just throw it away.
+
+He did some more light reading as he walked, and fed the Straw doll more cursed energy. The little guy seemed to really like it when he did, and it released its hold and climbed up to sit on his shoulder for a while, watching the world with little soot-button eyes. It wasn’t attached to his actual functional sword right now; all his swords lived in his storage ring currently, so it would be boring for the poor guy to be attached to any of them. Instead, he’d turned him into a belt decoration, and whenever little Straw came to life, he could watch the world instead of the inside of a storage ring.
+
+Not that there was too much to see right now, just a rolling, soft-edged expanse of sparkling white. It was pretty, but also a little monotone and repetitive. He had marveled at it, as the sun rose and limned the silver ice in a golden glitter, but then the sun drew higher, and it just got bright. He wasn’t interested in going snow-blind, so he fished out some wood and a few panes of glass from his trash star. Using Trash Manipulation and Aura together, he fashioned them into a pair of glasses, then took a deep breath in and breathed out, channeling the smoke from the trash star out through his mouth instead of recycling it back into the trash star for once. The smoke darkened the glasses, and Rhys put on his makeshift sunglasses with a smile. The world dimmed to a manageable level. Perfect.
+
+Like true cheapskate glasses—the pure trash kind handed out at theme parks and that provided 3-D effects at theaters—they didn’t fold, but that was okay. He could just store them in his storage ring. He walked on through the snow, Straw perched on his shoulder, occasionally glancing over the rim of his book to look for the hut. Since he only had a general direction, he’d made his own waypoint—the top of a nearby hill, where he could climb a tree and get a look at the entire expanse around him. He could run, or otherwise speed up the journey, but he didn’t really mind a slow trek so much. After the constant rush-rush-rush of the Empire, he needed a little bit of a break, and a hike through a peaceful, snowy valley was just the ticket.
+
+He kept thinking back to his stats as he walked, and the strange discrepencies in the numbers. He didn’t know what he’d expected. Bigger numbers? More consistently larger numbers? It’d been so long since he’d seen them that he could barely remember how they used to track. They didn’t go up very quickly, which was probably because he was trash and could only gain trash levels, but it just… it didn’t feel right. Maybe it was right. Maybe it’d just been too long since he’d seen them. But it didn’t change that it felt wrong.
+
+A second later, he startled. Wait. Is this an advantage? If he was right, if the System was to monitor growth, not handle growth, then didn’t that mean that whoever was monitoring the growth of everyone on this world wasn’t tracking him correctly? If they were tracking people for nefarious purposes—and is there a non-nefarious purpose to track people? The best option is advertising, and that was already hella annoying back home, and definitely not happening over here—then they had the wrong numbers for Rhys and Rhys alone. He alone possessed the power to surprise that person, or group of people.
+
+It's not really relevant until I encounter that group of people… probably when, or if, I ascend this world, if that’s a thing that happens, or at worst, when-slash-if I reach the heights of power for this realm. But… that being said… maybe I should decouple myself from the System more aggressively. They were still tracking his Tier, after all. If he could unlink that, he’d have a massive advantage over those people that he imagined existed and also imagined were tracking him via the System on no evidence except that he’d grown stronger with no System, and the System, upon reappearing for him at last, was somewhat wonky.
+
+He considered for a second, then shrugged. Kinda trashy logic, but I can roll with it. He’d tuck that idea in the back of his head for later, and see if he saw any hints in that direction as he continued to explore. It really wasn’t relevant for him yet, even if it was true, so he had plenty of time to figure things out. To go full paranoia, it was probably better if he pretended not to notice it for a while, in case they were monitoring people figuring out that the System was a tracking device, too… but he’d left his tinfoil hat at home, so there was nothing he could do about that.
+
+At some point in his walk, he’d found a path, and as it wound through the snow, it entered a forest. He turned a corner, and at last saw a hut appearing out of a hollow in the woods. The hut was very large, with a large door, so he squared his shoulders and approached, ready to meet another large person from the northern continent.
+
+The door swung open. A normal-sized person, comically small against the massive door, stepped outside, an axe over his shoulder.
+
+O-oh. Rhys stared, taken aback.

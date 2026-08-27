@@ -1,0 +1,117 @@
+---
+id: 07b642ed-b9ad-5c2b-8c50-0926c534713a
+page-type-slug: story-chapter-royal-road
+title: "145. Trash for the Trash God"
+slug: 0145-145-trash-for-the-trash-god
+partOf: god-of-trash
+position: 145
+ownLength: 2143
+unit: words
+publishedAt: 2025-07-29
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2476667/145-trash-for-the-trash-god"
+royalRoadId: "2476667"
+---
+
+Rhys wandered through the sewers, absorbing trash as he went. This was close enough that he could return in a flash, but not so far that he had to worry about the others handling a member of the Water Syndicate alone. He sighed, a little frustrated. He wanted to go search for the Syndicate himself, but now that he had an establishment, he had to protect it, too.
+
+This is annoying. I need a better solution.
+
+He lifted his head, looking at the filth he sucked in. The sewers were pretty clean nowadays, with his constant efforts, but he was still just one guy, and he wasn’t walking the sewers on the daily. There was enough filth to make it worth it. Still, it was diminishing each time, while his needs for trash grew greater.
+
+I need a way to get more trash.
+
+Two problems. He sighed again, frustrated. What could he do? Something to gather more trash… to move instantaneously.
+
+“The garbage truck!” he said aloud, then laughed at his own joke. As funny as a garbage truck would be, they didn’t exactly move instantaneously, or even quickly—since it wasn’t as though he truly needed instantaneous movement. Rapid movement would be fine.
+
+Still, maybe there was something to that? Back at Infinite Constellation, he’d gone around collecting trash. In this city, let alone the Empire, that couldn’t possibly be a solution. It was too large. If he spent all his time gathering trash, he wouldn’t gain enough to make his efforts worth it. He needed something else. Something that congregated the trash, but more consistently than ‘whenever someone got annoyed enough to haul their junk to the garbage heap.’ That was far too slow. It was a good way for him to suck up historical trash, and—speaking of historical trash—he did fully intend to investigate the Empire for wherever it’d thrown out those valuable artifacts that were inconvenient to its rule, but it was somewhat useless when it came to ongoing trash, or a constant rate of trash absorption. Especially with his trash fire, he was currently insatiable when it came to trash, or at least, close enough that it felt that way. He needed more. More and more trash!
+
+The Empire produced more than enough trash. It was absolutely filthy with garbage. Filth everywhere, piled up by every door. If he gathered it all, he’d have more than enough. Enough, even, to advance once more, if he was lucky.
+
+But how? That was the thing. How could he acquire all the trash produced in the Empire? The Empire was a vast thing, absolutely enormous. There was no way for him to manually gather all the trash in one place. Like he’d just thought, it would take way too long.
+
+He paused, the knee-deep water sloshing around him. Wait. There was something else. Something associated with the trash truck. Those ubiquitous bins, whether silver, black, green, or blue, and sometimes even exotic colors like yellow or purple: the humble, long-serving rubbish bin. The big kind, the kind kept outside and rolled to the street every Sunday, or whenever the trash truck came by. What about those?
+
+Not a literal set of garbage bins. That would still require manual pickup, and though he could cobble together a trash service with his underlings, it wouldn’t be worth it. They wouldn’t be able to expand his chip empire, and since that was his real Empire-toppling enterprise, that was more important than strengthening himself right now. After all, once the Empire ate it, he could go back to happily levelling his own core, rather than his trash star, with no intercession by some bullshit repressive government. Thus, Empire toppling took precedence over seeking strength. That didn’t mean that he couldn’t seek strength, or that he didn’t intend to seek strength—no, he did, absolutely—but that he couldn’t dismantle his current efforts to realign his people to something as selfish as strengthening himself.
+
+“Then, what if they all just teleport garbage to me?” Rhys said aloud. He walked on, continuing to absorb trash as he walked. He didn’t have a teleportation technique, but he did have something like it, didn’t he? Rhys touched his chest, where the little red book sat. The void. The hole in his core that led to the void let him store trash and mana on its far side, then absorb it back into himself. What if he connected all the trash cans to the part of the void near him, then absorbed the trash into his core from there?
+
+He was close to a breakthrough on the void. Connecting cans to the void should… probably be possible. He pursed his lips, then turned and walked back toward his base. He had to give this a try. It was too good an idea to ignore!
+
+Rhys took the sewers back to their old base. It was easier than heading to the shop, then routing around from the tunnel’s exit to the base, and kept the two from being too obviously connected, too. New trash had been dropped off since he’d built the base, and he headed there now, in search of some raw materials. There wasn’t anything in the trash as convenient as plastic, but there was plenty of pottery, wood, and scrap metal. Not enough metal, unfortunately, to forge metal trash cans, but wood and pottery… Dirt and trees, in other words, if he thought about it that way. The wood scraps he considered closely, then brought together. Using his trash-to-vitality technique, he poured vitality into them, then urged the scraps to grow together. Some refused to respond, too far gone to ever come back, but others burst into life. They grew together, knitting into a big, woven bowl of sorts, almost like a basket, but sturdier, built of wood rather than scraps of grass and reeds. It wasn’t ideal, somewhat misshapen and strange-looking, but right now, he didn’t need a perfect basket, just a good-enough receptacle to test his void-teleport technique on. Once he nailed that down, he could go back and start perfecting baskets, but given how this technique might even rip the basket directly into pieces, he wasn’t going to spend too long forming it perfectly.
+
+He called the void to mind, diving into the depths of his core to come face to face with that gap once more. It was a slippery concept to hold in his head, but with some effort, he pinned it down. The void was emptiness. He couldn’t grip emptiness any more than he could grip water, but he could hold it in a bucket, and he had a bucket right in front of him. He took the sensation of the void and poured it out, into the basket in front of him.
+
+Nothing happened.
+
+Rhys pursed his lips. He looked at his woven wood basket, then at his hands, then considered the void within himself once more.
+
+This isn’t going to be easy, is it.
+
+--
+
+Lira glanced over her shoulder. “Come on, Mouse. We’re almost there.”
+
+Mouse hung back, cringing in on herself. “I don’t know. This doesn’t feel right.”
+
+She lifted her head, glimpsing the world around her before she looked back down. It didn’t feel right. Any of it. There was nothing wrong with the scenery. They stood at the mouth of a peaceful-looking ravine. A few deer stood nearby in the forest, chewing on the undergrowth, and birds sang from the trees. By all accounts, there was nothing wrong with this place. But something about it made Mouse’s heart race, the same as standing in front of a crowd of people, or considering entering a busy party. It felt like a thousand eyes would lock onto her the second she took another step.
+
+“We’re going to go up and around, anyways. Don’t worry about it,” Lira assured her, lifting her skirts to hop up the wall of the ravine.
+
+Mouse looked after her. She hesitated another moment, then followed, but skirted around wide, wandering through the woods rather than walking on the edge of the ravine, as Lira so boldly did. There were no mana signatures from within the ravine, but that in of itself was suspicious, since the ravine should be as full of life as the rest of the forest. The ravine being devoid of life was enough for Mouse to want to call it good enough and turn tail, run back to Rhys and tell him their findings, but no, Lira had to know for sure what was within.
+
+Even Mouse knew that Lira was right, and that this was their actual objective, but she instinctively didn’t want to get any closer. Every fiber of her body screamed for her to back away and escape. Any closer, and they’d see, they’d see her… but this was their goal. Lira was right. She couldn’t turn away yet.
+
+Mouse crept closer, sneaking from tree to tree, while Lira wandered along, walking the edge. She glanced at Mouse and laughed. “There’s nothing to hide from, silly mouse. You can walk in the sun.”
+
+Mouse shook her head resolutely.
+
+“You look like prey right now,” Lira warned her, shaking her head.
+
+Mouse froze, hesitating behind her chosen tree.
+
+Lira sighed. “That’s not making you look less like prey. Come on out.”
+
+No motion.
+
+Lira tilted her head. “Mouse?”
+
+“Who are you talking to, little water sprite?”
+
+Lira whipped around. A huge form loomed over her, cast to a silhouette by the sun beaming directly over their shoulder. They crossed their arms and shook their head. “What are you doing, sneaking around out here?”
+
+“What? Is a water sprite not allowed to wander in the woods? It’s like you’ve never seen a water sprite before,” Lira snapped, immediately going on the offensive. From where she stood, hunkered behind her tree, Mouse didn’t miss the way Lira’s hand tightened on her umbrella’s handle. She was scared, as she should be. Mouse couldn’t sense the figure’s power level, which meant they were at least a Tier stronger than her, if not two. All she knew, was that they felt immensely powerful. Even more powerful than Rhys.
+
+“Not in the Empire.”
+
+“Are you a soldier, then?” she challenged them.
+
+A laugh. “I’m not going to report you, no. I’m no cop.”
+
+Lira went to shove past them. “Then good day.”
+
+A hand clasped her shoulder. “But I have to know. Why are you sniffing around our base?”
+
+“Sniffing? I was just walking through the forest. You’re the one who jumped out of nowhere and grabbed my shoulder. You’re being very rude, you know.”
+
+There was a long pause. The shadowy figure looked down at Lira, and Lira stared defiantly back. After a moment, they lifted a hand to their chin. “I suppose… are you really just a wild water sprite who happened to take the wrong path?”
+
+“Wrong path? I wasn’t aware there was a ‘wrong way’ through the forest. Isn’t this land uninhabited? It belongs to no one,” Lira asserted.
+
+The voice scoffed. “Or that’s what you thought I’d say.” It kicked off the forest floor, and their enormous body blurred out of sight.
+
+Behind her tree, Mouse hunkered. She clasped her hands over her head and squeezed her eyes shut, desperately wishing to not exist at all. I’m not here, I’m not here, I’m not here!
+
+A massive paw wrapped around the trunk. A shadow fell over Mouse. She froze, crouched down, holding completely, utterly still, as if she were a statue. Mana rushed through the space in a wave, far greater than she could ever overcome, and washed right through her. She wasn’t a leaf on the wind, she was the wind. Something so insignificant that no one should ever even think to look for her.
+
+“…Was I mistaken?” a low voice rumbled to itself. The shadow retreated. A large form approached Lira once more.
+
+Lira harrumphed haughtily, though, perhaps in recognition of what was to come, she spun her hand, transforming her umbrella back into its bracelet state. “Then? Am I free to go, o’ lord of the forest?”
+
+“No. Whether it’s merely your misfortune or intentional, you’ve grown too close. You’re one of us now.” The figure swooped Lira up. She struggled, but to no avail. It couldn’t be overthrown.
+
+“Let me go! My father will—”
+
+“What father? Where’s your colony, hmm? Your partner? Water sprites never wander alone. Haven’t you been expelled, you pitiful thing? What, grow too interested in humans? Foolish child. Come along. This is better than being alone, isn’t it?”
+
+Lira struggled harder, but the figure carried her off with ease. Behind the tree, Mouse remained hunkered for a long, long, long time, until the sun set again. Only then did she dare to jump up and run off, fleeing into the forest with silent footsteps.

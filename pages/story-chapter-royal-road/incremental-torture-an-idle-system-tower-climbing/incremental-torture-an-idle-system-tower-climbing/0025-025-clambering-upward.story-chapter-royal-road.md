@@ -1,0 +1,173 @@
+---
+id: 5cda8d9c-f1fc-5fb6-bc67-112e514c5f64
+page-type-slug: story-chapter-royal-road
+title: "025: Clambering Upward"
+slug: 0025-025-clambering-upward
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 25
+ownLength: 2125
+unit: words
+publishedAt: 2024-04-25
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1610175/025-clambering-upward"
+royalRoadId: "1610175"
+---
+
+~ Lily POV ~
+
+“Cheers Lil, you’re an angel. I honestly don’t know if we would’ve made it this far without you,” said Dwayne, wiping sweat from his brow as she healed the cuts and bruises he’d accumulated during the intense battle they’d just won.
+
+Her mana reserves were almost drained. Her party required constant healing as they weathered the challenges of the tower, which she was more than happy to provide, given that her combat skills were of limited utility, but even with almost all her attribute points going into mana it was a struggle to keep up with the demand.
+
+Not that it was wasted effort. Every floor they cleared meant collective growth and as the melee focused members of the party invested more into fortitude and vitality, they weren’t demanding her attention for every minor wound. They had been five, but Felicity fucked up on the 5th Floor and lost her life to the mini boss. That thing had been terrifying - an abomination that seemed plucked straight from the mind of H.P. Lovecraft or Thomas Ligotti. In the end, Dwayne had managed to shatter the crystal which fueled it while she had over exerted herself healing the damage he sustained in his charge.
+
+The 6th and 7th Floors had seemed easy in comparison, but the numbers were overwhelming. Dwayne and Jack couldn’t block all of the rampaging monsters, which meant she was stretched thin healing the both of them and keeping Marc, their archer, healthy enough to duck and weave about as he peppered arrows into the fray.
+
+When she had first received Mend, Lily had been furious at the injustice of the tower. A healing skill wasn’t useless for battling alone, but a combat skill would have seen far more use. However, since being thrown into a party, it had made her the single most valuable member of the group. The guy’s collective praises did raise her spirits, but no matter how far they pushed, one lingering cloud was a constant damper.
+
+Mend (Common) - Infuse your touch with the glow of healing, slowly repairing wounds. (Variable Mana Cost)
+
+All of this will be for nothing if I never get to see Marvin and Evelyn again. They always did complain about my pastries, but never once did they refuse to try them. I wonder if the animals were brought to the tower too. I hope Gazpacho hasn’t starved, but he always was a self sufficient cat. I lost count of the amount of dead rats and birds I had to throw out over the years.
+
+Lily had three skills in total, and even though she hadn’t initially wanted to follow the path of a healer, it had been a necessity to invest in her mana just to keep up with the demands of her party. She had begun to suspect the skills from the crystals weren’t random, since all of them had been somewhat arcane in nature thus far.
+
+Mana Bolt (Common) - Fire a projectile of raw mana, slightly damaging your target. (5 sec cooldown)
+
+Dense Mana (Common) - Your mana goes slightly further than before.
+
+Everything in the tower was like a video game, which had been a thrill once she managed to fight past the terror and confusion of having to fight for her life in an unfamiliar place. There was the menu, the shop, essence - all of it was very rpg-esque. Thanks to plenty of wasted afternoons with Marvin, she had come to love the genre. At least they didn’t seem as wasted now.
+
+Congratulations Challengers, you have cleared the 8th Floor! You may purchase one reward from the following:
+
+〖Full Recovery〗- 15 Essence
+
+〖Random Common Equipment〗- 50 Essence
+
+〖1 Attribute Point〗- 60 Essence
+
+〖Grey Star〗- 40 Essence
+
+〖Common Skill Crystal〗- 85 Essence
+
+She had wasted her essence on a full recovery on the 2nd Floor. At the time it had felt so necessary, but looking back she regretted using a valuable chance to develop her strength just to heal some minor cuts and scrapes. Failure was the greatest teacher after all. She had ignored the grey stars until now, since she had needed every attribute point she could get and skills had far more utility.
+
+Along with the common loot chest from the mini boss, Lily had acquired two useful pieces of gear; a ring which stored a small amount of mana, letting her push beyond her body’s limits when there was no time to rest and recover, and a bracelet which claimed to improve the effectiveness of healing spells. She hadn’t been able to judge if it was making a difference yet, but there was no harm in keeping it on.
+
+She took another attribute point as her reward, putting it straight into mana like all the others. One day she might have the freedom to actually consider her build, but for now survival took precedence. She took a quick glance at her status before following the rest of the party to the next floor, assuming they would stay together. The whims of the tower were impossible to predict.
+
+~~ Status ~~
+
+Lily Demos
+
+Race: Human
+
+|Attributes|
+
+Power: 0
+
+Speed: 0
+
+Stamina: 0
+
+Vitality: 0
+
+Mana: 6
+
+Fortitude: 0
+
+|Skills|
+
+~Passive~
+
+Dense Mana (Common)
+
+~Active~
+
+Mend (Common), Mana Bolt (Common)
+
+A gasp escaped her lips at what lay beyond the portal. Nothing but an empty sky as far as the eye could see, and when she looked around she discovered herself on a floating island, barren of life save for a few withered saplings.
+
+~ Marvin POV ~
+
+Marvin wiped the blood from his sword using his filthy shirt. It was so caked in gore and the crusted remains of the hundreds of dogs that he’d slain already that a little extra made no difference. Keeping his weapon clean however, was essential. It had cost him 35 essence, a costly investment which his former party members had said wasn’t justifiable. They had all fallen on the 5th Floor, to that fearsome creature - the mini boss.
+
+A lifetime of holing himself up in his bedroom had turned him into a well oiled min maxing machine. He’d been a legend in World of Warcraft and had consistently broken raid records, along with the guild he had built up over the years. When the tower had stolen them from Earth, it had been shocking, but for a shut-in like him, this new world was a dream come true.
+
+I just wish I was able to share it with those two. With my guidance, Lily’s deft hands and Evelyn’s athletic prowess, we could probably clear this tower in record time. Instead I was stuck with a bunch of egotistical idiots who refused to adapt to their new surroundings. Now I’m taking on floors alone that I was supposed to have a party for. More essence for me, I guess.
+
+Congratulations Challenger, you have cleared the 7th Floor! You may purchase one reward from the following:
+
+〖Full Recovery〗- 10 Essence
+
+〖Random Common Equipment〗- 50 Essence
+
+〖1 Attribute Point〗- 40 Essence
+
+〖Grey Star〗- 68 Essence
+
+〖Common Skill Crystal〗- 144 Essence
+
+Marvin opted for another attribute point. He had been doing something that his party had called him insane for when they were discussing each person’s specialties. Attempting to brute force his way through the tower with just his own strength and skill, investing as little essence into his attributes as he could. The stars reminded him somewhat of idle games, and he worked out early on that they would be essential the further he climbed.
+
+Most of his essence had gone to grey stars and skill crystals after he had lucked out receiving the steel sword from his random common equipment. The way the tower distributed skills had been the biggest difference to how games worked back on Earth, with it being almost random. Some of them were geared to his attributes or his actions, but not enough to make him think it was anything but a happy coincidence.
+
+His most used skill was one he had received two copies of, discovering the skill synthesis menu in the process after it fused into a higher rarity - Double Strike. It was a nifty little skill that allowed him to strike an opponent twice in a single instant, even when using his weapon. Most of the riffraff that populated the tower fell to it like wheat to a scythe, but he had a little trouble against the mini boss.
+
+He’d also obtained a few magic skills, but had held off on investing any points into mana just yet, even though the thrill of trying real magic was hard to ignore. He just needed to be certain of how every facet of the tower’s system functioned before he decided how to spread his attributes. Besides, as long as he kept buying stars, he would have tons of essence to invest into attributes later on. His favourite skill after Double Strike was one that boosted the grey stars’ income and also hinted at more powerful stars down the line as well as a set of similar skills he might hope to obtain in future - Star of Power.
+
+Star of Power (Common) - Multiplies your stars’ production for every point in your power attribute. Base multiplier is 1.00x , increasing by 0.02 per point in power.
+
+I probably wouldn’t have even bought a single attribute point if not for this skill. Not that the benefits are that incredible at the moment, but since my own strength is boosted when I invest in power, it's just something to look forward to. Right, hopefully the next floor is more interesting than these fodder monsters. The mini boss was exciting, but still too simple once I figured out its attack patterns.
+
+When he stepped through the portal to the 8th Floor, he found himself in a sandstone tunnel leading to a portcullis that was currently lowered. Beyond the wrought iron bars, he saw white sands and blinding sunlight as well as a few worn stone structures dotted about. He traced a finger along the walls, the soft stone crumbling to dust under his touch as he walked towards the gate.
+
+❰ Multi-Challenger Instance ❱
+
+1/?? Challengers have arrived on the 8th Floor
+
+Floor instance will not trigger until challenger requirements have been met
+
+Another one of these floors, eh. I have to say, I thought taking another life with my own two hands would be more… meaningful, but I feel little remorse for those I’ve slain already. It was me or them, and I chose me. I’m not so selfless that I would give up my own life to let someone else cling onto theirs for a little longer. I have friends to reunite with, and I’m having too much fun to stop.
+
+While he waited for his opponent, or opponents to arrive - the challenge description had been vague, and he’d discovered the tower seemed to enjoy making each description or message as infuriatingly bland as possible - Marvin checked out his status, running through each skill’s purpose in his mind. It was a little habit he’d started to build to make the activation of them somewhat subconscious. Every millisecond counted in battle and he wanted to make sure he was saving them where possible.
+
+~~ Status ~~
+
+Marvin Haines
+
+Race: Human
+
+|Attributes|
+
+Power: 3
+
+Speed: 0
+
+Stamina: 0
+
+Vitality: 0
+
+Mana: 0
+
+Fortitude: 0
+
+|Skills|
+
+~Passive~
+
+Star of Power (Common), Swordsmanship (Common)
+
+~Active~
+
+Double Strike (Uncommon), Wind Blade (Common)
+
+Another message from the tower pulled him from his status, and he was somewhat surprised at the contents. Despite him being alone, he was counted as a party, which hinted that he would be facing multiple foes. It would be challenging, but the rewards would be worth the trouble. He doubted there were many who would pose a threat at this point in time. Facing the tower was still fresh for most people, and unless they were like him, they wouldn’t have a clue what they were doing yet.
+
+❰ Multi-Challenger Instance ❱
+
+All Challengers have arrived on the 8th Floor, instance will now trigger
+
+❰ Instance - Party Warfare ❱
+
+Defeat the opposing party to claim victory
+
+The portcullis began to rise and the moment there was enough space, Marvin dashed underneath and emerged out into a colosseum, complete with ruins that provided cover and vantage points as well as a realistic sun that made the air blisteringly hot. He closed his eyes and let the light wash over him. After spending so much time in the darkness of caverns that seemed to be a repeating setting in the tower, he was grateful for the change. This would be a fun floor.

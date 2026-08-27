@@ -1,0 +1,145 @@
+---
+id: c10bb50f-a5d1-5039-b2e6-6d3a960ac62b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 812 - A bunch of drunken losers"
+slug: 0139-chapter-812-a-bunch-of-drunken-losers
+partOf: hell-difficulty-tutorial
+position: 139
+ownLength: 2358
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3446057/chapter-812-a-bunch-of-drunken-losers"
+royalRoadId: "3446057"
+---
+
+I stop by Lily, who’s hanging out with Maya. Before joining them, I watch as Izzy carries Noodle over to Dennis, where the two of them quickly get into a quiet conversation.
+
+Lily asks me to play with my heart for a moment so she can make further observations. She wants to make changes to her own setup that’ll improve the output of her [Disintegration].
+
+That earns us a few silly noises from Maya, who is currently busy with her Lesser Evil Orb training.
+
+The way Lily talks about it makes me feel nostalgic for my first proper construct. The 3rd floor Nathaniel was truly something else. Did that jerk not realize how dangerous that was? What a badass.
+
+It also reminds me once again that while I have many constructs, I haven’t been giving them much time, other than the odd improvement every once in a while. Even so, they mess up my body in ways similar to my stat imbalance. They’re just there, constantly running in the background and making so many things simple, like the knock off combination of a trait and a passive.
+
+Maybe one day I will actually fix them. I mean, I probably should do something about them, seeing how many people are predicting my death in five to ten years. I don’t know, these predictions are always changing anyway.
+
+But as I listen to Lily talk about how much she learned from observing Biscuit while working on that special healing mark for Grumpy, I can’t help but see a small connection. It all reminds me of what Ruby once told me, about a kind woman on a forgotten planet who found a certain very special bear. By observing him and his body, and through her own talents, she became one of the most incredible beings in the System. Cinderbear was ancient even before Kindness, then a mere Champion, found him. The question stands, is Biscuit special like that? Is Lily?
+
+Lily waves her hand, bringing my attention back to her as she tilts her head and smiles. “All good?”
+
+“Yup,” I say, pushing the distracting thoughts away.
+
+“Good. I’ll keep a few vials of your blood along with the wyvern’s blood so I can experiment on them. I’m sure I can come up with something cool.”
+
+“I don’t think I’m an adequate host for wyvern blood,” I say.
+
+She agrees. “Nope, you’re not. Noodle seems to be the most compatible, but he’s already absorbing the blood from when he bit the hatchling. There isn’t enough blood to do anything like giving any of you guys a bloodline similar to what some vyssari have, but I think I could probably observe it enough to come up with a way to force your Ichor to bolster itself.”
+
+My interest peaks as I lean closer. Looking into her brown eyes, I ask, “How?”
+
+“I think I can concentrate it a bit further and get a few droplets of really pure wyvern blood. Then we would develop a process and let it into your body. It’ll either hurt a lot and do basically nothing, or force your body to react and fight against it. Your Ichor is also very powerful, even if it’s not comparable to a wyvern bloodline.”
+
+“Not yet, and shouldn’t that be a crazy difficult thing to do?”
+
+“I don’t know? Maybe? I think I can do it, though,” she says and thinks. “Maybe it would work with Izzy too, with her Burning Blood trait, but-”
+
+I interrupt. “But there’s a chance her bond with Noodle changes something once he adapts to it.”
+
+“Yup! So, if there is leftover concentrated wyvern blood, we could sell it, probably for a few million shards. Or keep it for Tess, in case she gets some sort of blood trait at level 400.”
+
+“I don’t think she’ll want it.”
+
+Lily lifts her eyebrows. “Are you sure?”
+
+“Yup. I know her that much.” I lean back and think about it a bit more, though no better ideas occur to me. “Let’s go with your plan for now. Save any blood we don’t use to torture my poor body.”
+
+“I will!”
+
+“And how is Noodle, actually?”
+
+“I healed him quite a bit and helped to ease some of the pain and did some things to aid the changes. I don’t think he’ll develop a wyvern bloodline, but his own will be enhanced. That’s where I got the idea to strengthen your trait.”
+
+“If you think about it, didn't Noodle cost just a few shards back then?” Maya finally asks from the side.
+
+“I think we were quite lucky that Noodle came out the way he is. Dennis spoke to Lootenant and Brainiac, and they’ve heard of people who just got some insects or really weak pets they couldn’t even bond with. They said it’s sort of like a gacha.” Lily says.
+
+“Or maybe we weren’t lucky.” Maya pokes one of her Lesser Evil Orbs. “Nat and Sophie bought it, right? It was probably influenced by that. I wouldn’t be surprised if it was influenced by Biscuit as well, somehow. That corgi and his damn scary primordial energy and whatever achievements this lunatic-”
+
+“Who do you mean?”
+
+“-this lunatic and Sophie had at that point influenced it,” Maya finishes.
+
+“Sure,” I decide not to argue. “But it seems like it’s going to be you, Dennis, Min-Jae, Izzy, and Noodle here alone for a while, and then Dennis might truly go for Beyond.”
+
+“We’ve kind of gotten used to it,” Maya waves it off. “And I’m sure we’ll come up with some sort of rotation. And don’t forget Blackie, though he’ll probably cause more trouble than he helps.”
+
+“Still not wanting to try Beyond?” I ask.
+
+“Not really. I was never that ambitious, and what would my poor little guys here do without me? Plus, I can just train with you guys and maybe, some time later in life, become a Champion.”
+
+“You can do it!” Lily jumps in quickly. “You’re plenty strong. I don’t think there are many people from Earth who could actually face you.”
+
+“Sure,” Maya smiles at our petite healer, “if you say so. You guys just be careful. You know, at first, I thought five years would be a very long time. But the longer we spend in this tutorial, the more I realize how little it actually is. All these things and opportunities on the floors... all these things you guys get to do in Beyond.”
+
+“Honestly,” I say, “I don’t think there’ll be much left for me to do in Beyond after the next few weeks, and I’ll be spending more time in the tutorial. I won’t need to prepare for any fights there, I won’t need to be there as much for crafting, and by then, I’ll likely have explored most of what I want. I'll just do an event or a quest once in a while.”
+
+“The ‘most normal’ Guild Master,” Maya chuckles. “The most responsible, even.”
+
+“Maya, if you think about it, and the sort of bunch the Primordial Lunat- I mean, Knights, are, you must agree that I’m quite reasonable.”
+
+I get an undeserved look from her, but I really mean it. There are things to gain in Beyond, but it seems like fewer and fewer. Thanks to the most ignored floor of the tutorial, the 9th one, I had almost a year for such explorations.
+
+Before leaving for Beyond, I move toward the pile of items we’ve gathered, specifically the ones we got from the auction house. There are things there like a set of armor, a small flower in a glass jelly-filled case, a necklace made of human teeth, a shield, and an abundance of materials. One of them is even a Pristine item, though it’s just a sort of thread and bone, so not immediately useful, but it should sell well or serve for being commissioned into items.
+
+What interests me the most is a small orb made of water, held in a small glass vial. It isn’t an item, as there’s no description for it, which also means it isn’t a material. It reminds me of how the remains of the wyvern didn't have a description. So it likely is... well, something.
+
+A rare liquid? Strangely colored blood? The drool of a dragon?
+
+Who knows. Still, I decide to take it to the Crimson Forge, maybe the three mora there will know.
+
+I then listen to Maya as she plans out some duels with Lily. Min-Jae quickly joins us as well, done with the studying he’s been doing in the corner of the cave. For a while, the four of us argue about two things.
+
+Firstly, we debate what the fragments are, with our winning conclusion being that they are fragments of something, of one whole.
+
+We are truly a smart bunch.
+
+The second, longer argument is about what influences your lifespan the most.
+
+We come to the conclusion that while there are things like passives, active skills, rare fragments, traits, and items, the main factor for most people is likely the number of body upgrades and their Constitution stat. We also agree that Candidate titles, the rank of Champion, and bonding with a Sovereign Spark and thus becoming an Absolute probably influence it as well.
+
+There are so many variables that we argue about for so long that it actually angers Maya. She starts making annoyed, angry, and rude jokes, saying that at this point, simply inhaling Kindness’s farts would probably give you a few extra years.
+
+As always, there are too many exceptions and no single simple answer, but our human brains still try to simplify everything. I think we’re just built that way, trying to make things easy to understand, if only to avoid the unknown.
+
+Eventually, we come up with a very rough formula, 1 Constitution = 1 year. Min-Jae fights to make it 1 Constitution = 0.824 years for some reason, likely out of a love for the game and a desire to tease Maya, who looks ready to kick his ass.
+
+That leads us to the conclusion that Lily would live the longest out of all of us, given that her Constitution is well over 1,000. It brings up an interesting comparison to mine, which is only around 100.
+
+Seeing the conversation, Dennis pulls Izzy and Noodle over to join us. Sophie returns from Beyond with water, alcohol, and other supplies, bringing Tess in from her guard duty. Even Blackie sits nearby, looking as if he’s actually listening to the conversation.
+
+The bottles of alcohol are open, and we go over the same points again. This time, Sophie fights us and joins Min-Jae’s side. She says if you have more body upgrades, it’s possible 1 Constitution equals 1 year, but if you picked the Potency variation of the Constitution attribute upgrade, it could be 3 or more years for 1 Constitution.
+
+Min-Jae then argues that being bonded to a Sovereign Spark and becoming an Absolute possibly ties your life to that planet, making you nearly immortal in regards to any cause other than being killed.
+
+I push back against that strongly. Tess and Dennis join me, agreeing it feels too much like bullshit since we haven't heard of anything even hinting at that sort of longevity, though we agree it likely extends your life significantly.
+
+Maya brings the conversation back to Lily. For an hour, we use all our formulas to try to calculate how long our petite bulldozer is going to live. In the middle of it, Min-Jae changes his mind, saying 0.824 is too long and it's likely that 1 Constitution = 0.5 years. He argues that, so far, he’s seen Champions who are thousands of years old, maybe tens of thousands, and only Absolutes live longer.
+
+Still, everyone agrees that Lily, with her healing, will likely live much longer, even using these new formulas.
+
+At the end of the talk, Lily drunkenly promises that she’ll make all of us nearly impossible to kill as she sips on the wine Sophie bought, the expensive sort that can make even people with bodies like ours drunk. In her speech, Lily shouts that she’ll kick the ass of anyone from our group who comes to her hundreds of years from now, sobbing that they’ve had enough of living and want to die.
+
+Tess pulls the drunk healer into a hug and gently caresses her head while laughing, teasing her, and pulling her cheek. She tells us that Lily recently watched a show that had a few episodes delving into those themes, so it’s likely been on her mind.
+
+Lily hiccups and nods seriously. She breaks from Tess’s arms to almost squeeze the life out of Dennis, speaking to him and Aaron through his eyes, promising she will help them and repeating ten times over that they are her friends.
+
+By the tenth time, Dennis, acting brave, pushes her away and passes on a few messages from Aaron, who calls us a bunch of "drunken losers."
+
+I think that if someone attacked us right now, we would end up in a terrible state. But at the same time, I’m sure I could clear my mind and face it, as I keep Notdrunkthaniel scanning the area.
+
+For some reason, at some point, I end up dancing with both Tess and Lily while Maya starts playing her instrument. Izzy plays some songs on one of the speakers I brought back from Earth. Dennis, who apparently took some dance lessons, gently shows Izzy a few classical moves before later performing a nice routine with the athletic Maya, who seems to be good at these sorts of things.
+
+When Blackie joins in, the cave almost collapses under the blasts of kinetic energy, but no one gets angry. With a laugh, Tess dances in front of Sophie´s bond, gesturing for him to mirror her movements.
+
+Still, before I can use the chance to escape into my corner, Lily seizes me by force, and there we stay, swaying to the slow rhythm of the music, and the voices of the half drunk members of group 4.

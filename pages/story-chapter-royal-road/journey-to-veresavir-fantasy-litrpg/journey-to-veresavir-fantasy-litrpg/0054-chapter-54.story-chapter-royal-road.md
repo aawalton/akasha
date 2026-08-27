@@ -1,0 +1,261 @@
+---
+id: 204b6b5f-94d7-57bd-a611-9459c7b09beb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54"
+slug: 0054-chapter-54
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 54
+ownLength: 3068
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3427454/chapter-54"
+royalRoadId: "3427454"
+---
+
+Chapter 54
+
+Wooden double doors led into the large hall marked with C14 on the dungeon map of the Guild.
+
+It hadn’t been marked with anything special but any larger halls could potentially hold more creatures, and more treasure as well. As far as Veron understood, at least in the Crypts, teams tended to set these rooms as goal posts, or rooms to check along a prepared route before they made their way back out.
+
+They had rested up and he had a fresh torch burning near his left shoulder, the previous one burnt out.
+
+“We open and check, and we try to lure out anything that could be waiting inside,” Veron said. “If it’s too much, we shut the gates and make a run for it.”
+
+“Ready when you are,” Ailis said.
+
+Isaac raised his crossbow, positioning himself at the back of their formation. Elke had her rope and stone in her hands, slowly starting to spin it.
+
+“Alright, let’s see what we’re dealing with,” Veron said and pushed on the right side of the gate.
+
+It was dark inside, the light of his torch swaying slightly as it tried to pierce into the gloom. He pushed the gate open halfway, the hinges creaking slightly. Nothing moved. Veron pushed further, and saw something glinting on the floor.
+
+A large sword.
+
+He could see bones now too. Large ones. A few skulls, all of it on the floor, unmoving.
+
+Skeletons? There are weapons.
+
+Did someone destroy them already?
+
+He heard a slight step, then nothing.
+
+I don’t like this. Something is in here.
+
+Veron started pulling the gate back when he saw a shadow land somewhere in the darkness. “Get ready,” he said, hearing fast and soft steps from ahead. He let go of the gate to hold his mace right when a creature came into view.
+
+Four legged and moving fast, claws and teeth crashing into his shield and throwing him back. Veron stayed upright, sliding slightly on the ground right outside the entrance. He jumped aside when something red flashed his way. Something made of blood lashing out in his direction. Stone came flying in from his right, the heavy ball connected to Elke’s rope striking something hard right beyond the door.
+
+Veron heard a whine and then a growl.
+
+He connected to one of his blades and waited, then shot it out when the creature rushed from the half open gate and towards Elke. It was large as a horse, white furred and resembling a lion. Blood and cuts showed on its flank, its entire face covered in red. It glanced over with yellow eyes and jumped aside with a mad rush when Veron shot his blade, the creature dodging it, only to be struck by a crossbow bolt in its side in the next moment.
+
+It growled again and seemed to consider them for a moment.
+
+Too fast. Too smart.
+
+“Behind me!” Veron called out. “We retreat, keep it at a dista-” He watched it rush forward and towards him. This time, Veron held on to the projectile in his right hand, focusing on his shield as he ducked under some kind of blood whip that lashed out from the creature’s back. Its right paw crashed into his shield but he held, just barely. Its right paw struck his arm, claws cutting into and through stone, ripping into flesh before it opened its maw above him.
+
+Veron grit his teeth and raised his shield as arrow and bolt struck the monster’s sides. He had his own projectile charged and aimed at its face. I’ll stand right here.
+
+Just before he loosed it, the monster jumped back, ripping itself free from his arm as he heard his teammates joining in behind him.
+
+Veron breathed heavier, gritting his teeth against the pain. He was bleeding, a lot, and he got the feeling that the creature understood that too. “Slowly move back, keep your weapons ready,” Veron said as he kept himself looking at their foe. It prowled now, with a very slight limp, eyes still focused as it watched their group. “I’ll need a bandage. We want a door between us and that thing. Elke, shoot it if it moves closer. Isaac, you hold and shoot second, once it dodges. Aim for its face.”
+
+It moved, quickly. The creature dodged an arrow and was close but Veron had his next projectile ready, and a bolt rushed out from Isaac, this one piercing near its neck. Veron aimed and watched the creature take a step back. He saw something move on its back and raised his shield, a tendril of blood slashing through his rock and into his helmet, near his cheek. It didn’t penetrate fully and Elke had another arrow nocked, the creature jumping away as the team slowly retreated back the way they’d come, through the open space before the entrance now and into a smaller corridor.
+
+It should’ve flanked us. But it didn’t.
+
+Veron glanced left and right. Now, the only approach for the monster was straight at them.
+
+It was still prowling but no longer as aggressively, watching them as it followed slowly.
+
+“Stay focused,” Ailis said. “Not far to a door.”
+
+Veron could hear the blood dripping from his arm. He felt a bit light-headed but not out of it yet, and he could still hold his mace and one of his projectiles.
+
+“At the door, I’ll open it,” Ailis called out.
+
+“Shoot it and then rush in,” Veron said. “On three.”
+
+He counted, watching the growling creature stepping low. It almost filled the arched stone corridor. “Three!” An arrow rushed out, the creature dodging right and crashing into the wall, then a bolt pierced fur, low and near its chest. Veron kept his projectile charged as he stepped through the doorway last, waiting and watching the creature, but it simply looked back at him. And then the door was shut, Isaac holding it closed.
+
+The door was made of wood and not too thick. Not enough to hold that thing back if it decided to push through. Veron fumbled slightly with his shield and mace, then connected to the rock right beside the door. He molded the rock, moving it over to cover the edges of the door, locking it in place as he heard a prayer spoken to his right.
+
+“Away from the door, now,” Elke called.
+
+Veron stumbled left and hit the wall of the small room, his vision was blurry but he could feel the pain in his arm lessening. Glancing over, he saw Ailis with glowing hands, Both Isaac and Elke stood with their weapons ready and aiming at the entrance.
+
+“What the hell was that?” Veron asked.
+
+“A blood beast,” Elke said.
+
+“It was using the hall as bait,” Isaac said.
+
+“Back away from the door first,” Elke said. “Into the hallway we came from.”
+
+They did just that, watching the door as Veron held his shield high. He expected a blood whip to slash through the wood or the creature to charge through straight ahead. Neither happened.
+
+“Will it follow?” Ailis asked.
+
+“I’m not sure. We injured it, and pushed it back. Though I don’t think it’s a good idea to try and kill it,” Isaac said.
+
+“Yeah,” Veron said. “Let’s hope it thinks the same way about us. We got to C14, let’s call it a day here. Anyone opposed?”
+
+“No,” Elke and Isaac confirmed.
+
+“No,” Ailis said. “I stopped the bleeding but I’ll have to look at your arm after. You were lucky it didn’t cut through anything too important.”
+
+“I was bleeding out,” Veron said. “But you’re right. I could still move my arm.” He sighed, the group slowly retreating and catching their breaths. The adrenaline from the fight was slowly fading. “Are blood beasts like that common in the Crypts?”
+
+“Very rare,” Isaac said. “As far as I know. Though they would be good at avoiding stronger adventurers passing through. And many deaths are unaccounted for.”
+
+“Great. But we’re still alive. Let’s slowly retreat and shut every door on the way,” Veron said. He felt a bit more present again, keeping his shield held high as he walked backwards. The beast didn’t follow.
+
+“What are the chances that it tracks us and ambushes us on the way back?” he asked when they had reached the next room with a door, Veron shutting it in the same manner. He assumed his Focus was at around half by now. At least shaping like this didn’t drain him as quickly as back when his Path was Feeble.
+
+“The tunnels here are reasonably straightforward. It would have to travel quite far, and it would have to know where to go, and where we would end up,” Isaac said.
+
+“It could track Veron, through his blood,” Elke said.
+
+“That’s possible?” Ailis asked. She sounded more interested than afraid.
+
+“I’ve not heard of an ability like that,” Isaac said.
+
+“It’s possible,” Elke said. “Maybe not with this blood beast.”
+
+“Why not?” Veron asked.
+
+“It may be too weak.”
+
+“It would’ve killed us had it not focused so much on Veron,” Isaac said.
+
+“Durable perhaps, and Blood Path beasts tend to be proud,” Elke said. “That is known.”
+
+“You suggest it understood that Veron was the most difficult to kill from our group?” Ailis asked. “A mere beast?”
+
+“Maybe,” Elke said. “Or because it first attacked him. Or because its attacks failed. This area will be very dangerous for a while.”
+
+“You seem to know a lot about blood beasts,” Veron said.
+
+She glanced at him. “I’ve learned from more experienced hunters than I.”
+
+“Good. Tell us what you know about them while we retreat,” he said.
+
+Elke glanced at the others. She seemed hesitant.
+
+“I’d like to know more too,” Ailis said. “People here tend to just categorize the monsters of the dungeon in terms of danger and abilities. This is the first time I’ve heard about characteristics like that.”
+
+“Then you’ve not talked to high-level adventurers,” Isaac said.
+
+She gave him a look but he waved her off.
+
+“Blood Path beasts do not like being challenged. And they will avoid a battle they don’t think they can win, except when you find and enter their lairs, sometimes their territory. Devotion Shield Bearers, Bruisers, and armor experts, as well as Blood Paths with various Ancestries of Potential, Body, Beast, are best to first engage them. They tend to stay focused on that person, though it’s not a rule,” Elke continued.
+
+They kept on walking.
+
+“We don’t have any of those aspects, nor relics,” Isaac said.
+
+“We do have a Stone Elemental,” Ailis said. “It seems like that’s enough.”
+
+Veron smiled slightly. Ivera had mentioned some of that before, though she hadn’t gone into details. “Does that mean it judged us too dangerous to pursue further?”
+
+“We may have convinced it,” Elke said. “Either way, I believe the injuries will have wounded its pride. It will be angry, more direct, at least against other foes. This is when a Blood Beast is most predictable, and easiest to hunt.”
+
+“Would you want to hunt it now?” Veron asked.
+
+She considered for only a moment, but he didn’t miss that she did. “No. Another injury like that and you wouldn’t be standing,” Elke said. “And once you would’ve fallen, it would’ve likely cut down the rest of us.”
+
+Veron nodded slowly. She’s right of course. Overwhelmed again by some creature bigger than me. Aaron was the last. But I’ll get there.
+
+“You don’t agree?” Ailis asked, giving him a glance.
+
+“Oh no, I agree. That thing was too dangerous,” Veron said, then he shrugged slightly. “I suppose my pride was wounded too.”
+
+Ailis gave him a smile. “No healing magic for that.”
+
+“Blood Paths,” Elke murmured.
+
+“I’m an Elemental,” Veron said.
+
+She narrowed her eyes.
+
+He winked at her, then focused back up. “We should probably stop joking around while we’re in the Crypts. It’s a long way back.”
+
+They passed a few more rooms and corridors, looking out for any signs of the large lion-like creature hunting them, but they didn’t catch a glimpse. They closed every door they passed, Veron locking some of them with stone shaping. Around halfway back, they finally took a break, assuming they’d gotten enough distance to the creature by now.
+
+It was a small damp room with two wooden doors and no light, like many others down here in the first layer of the dungeon. It was cold too and Veron could tell that the lack of warmth was slowly getting to both Ailis and Isaac. They had flint and steel but nothing to burn.
+
+No furniture like down in the Gutter.
+
+Veron sat down and leaned against the wall. He was starting to feel tired, both from the encounters and the healing.
+
+Isaac was careful not to sit on all the weapons he had dangling from his pack.
+
+“Let me look at your arm now,” Ailis said, kneeling down next to him and setting down her pack. “Can you move away the damaged bits of your bracer?”
+
+Veron did as she asked, looking at the three wounds left from the claws that had gotten through his armor. One looked a lot worse than the other two, and another claw had failed to penetrate based on the gash in the stone. Ailis had stopped the bleeding but only just barely. Now that he was settling down again, the pain was getting worse.
+
+“Rock and dirt got in there,” Ailis murmured.
+
+“Should I try to move it out?”
+
+“And rip them all open again? No. I’ll apply some balm and bandage it up for now. Let’s hope there won’t be an infection this quickly. We’ll check at the Healer Station once we’re back. Your skin doesn’t feel particularly hot, any heat or pulsing sensation from the wounds?”
+
+“No, I think it’s good for now, thanks Ailis,” Veron said and then watched her work quietly. She was moving deliberately and with care, something he realized he noticed more consciously with various Devotion Paths he had encountered.
+
+He thought back to Silvie, and Hayden’s inability to do more than stabilize her. He’d experienced his healing too, and wondered how well he could treat him now if he was here. Could they have beaten the lion? Perhaps the blood beast wouldn’t have approached the Wolves in the first place.
+
+“How are you two holding up?” Veron asked, glancing over at Isaac and then looking at Ailis who was just finishing up his bandage. Their torches were burning low, but they had a few more.
+
+“It’s dark and wet and cold,” Isaac said. “But that’s nothing new. I’m looking forward to a hot drink.”
+
+Veron smiled.
+
+“We’re in the dungeon,” was all that Ailis said.
+
+“Could you track the beast?” Elke asked. She was looking at Isaac. “With your Way, I mean.”
+
+Isaac smiled slightly.
+
+There was something there, Veron thought; Apprehension? Or melancholy?
+
+“I could try, but it wouldn’t be easy,” Isaac said. “Blood beasts are difficult to track.”
+
+“They are,” Elke said.
+
+“You shared some things about them, Elke,” Ailis said. She sat next to Veron now. “It got me thinking. The creatures down here that have always seemed the most straightforward to me were Chaos beasts. They are the most aggressive, the most direct, the most like… monsters in the dark, like the creatures in children’s tales. You can’t extract them into vessels, so all you can do is kill them and take their essence for yourself.” She paused for a moment. “What do you know of them? What do the hunters from your village say of them?”
+
+Elke blinked her eyes. She sat hugging her knees, neither her blood spattered furs nor the cold and damp seemingly bothering her. “Those of chaos… it is said that they hunger, but are never sated. That they fear the light of fire but seek it nonetheless. It is said that they wander, though nobody knows where to, nor why.”
+
+“Lost and malnourished,” Isaac said. “That almost makes me pity them.”
+
+“You should never pity a Chaos beast. It will cost your life,” Elke said. “They relish in carnage and death. They are uncaring, frenzied monsters stemming from the coldest, darkest places of this world. They-” Her voice grew more heated before she cut herself off and looked away.
+
+“Are there humans with that Path?” Veron asked.
+
+The others looked at him. Elke with disgust, Isaac with a thoughtful look, and Ailis as if she’d never considered the question.
+
+“I’ve not heard of any,” Isaac said. “But the same can be said about the Fae Path.”
+
+“We are not of Fae origin, nor of Chaos,” Elke said. “It is not our nature.”
+
+Veron blinked his eyes. He wondered if that was true.
+
+“Devotion and Runic are the most common for humans,” Ailis said. “There are Elemental Paths here and there, and some rare Blood Paths. I’ve not heard of any Fae or Chaos Path humans.”
+
+Veron nodded. As far as he understood, one’s Path manifested sometime in early adulthood. Perhaps it had to do with one’s identity. Hayden believed it manifested once a person found their calling. Veron could also imagine that it simply had to do with some organ related to magic finishing its growth, or with him gaining access to his Path upon arrival here in Renavor, it could be something external; The magic of the world, something more spiritual or god-like, or even some kind of parasite or symbiote mushroom or bacteria that spread from person to person.
+
+He wondered if there had been more Elemental Paths when the people of this world had less technology. “Are Elemental Paths more common in villages and tribes? Compared to the big cities.”
+
+“Not much, I don’t think. But there are more Runics coming out of the big cities, that much is sure,” Ailis said.
+
+“We should probably continue this discussion when we’re out of the dungeon,” Isaac said. He rubbed his arms and shivered slightly.
+
+“You’re right,” Veron said. “And before you two freeze to death.”
+
+“It’s not that cold,” Ailis said.
+
+“It’s pretty cold,” Isaac countered.
+
+“Then let’s get moving. Same formation, ready for another fight,” Veron said and then stood up. He checked his blades, projectiles, shield, and mace. Some of it was damaged or blood covered. He would repair it back in town. “Ready?”

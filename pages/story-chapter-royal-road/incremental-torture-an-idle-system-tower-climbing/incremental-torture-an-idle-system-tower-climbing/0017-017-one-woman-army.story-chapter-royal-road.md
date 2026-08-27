@@ -1,0 +1,199 @@
+---
+id: 9206f30b-800c-5337-b394-1814f0bfd62c
+page-type-slug: story-chapter-royal-road
+title: "017: One Woman Army"
+slug: 0017-017-one-woman-army
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 17
+ownLength: 2246
+unit: words
+publishedAt: 2024-04-15
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1596077/017-one-woman-army"
+royalRoadId: "1596077"
+---
+
+With the remainder of her essence, Evelyn purchased four common skill crystals. Evelyn had briefly checked out the skill synthesis system, and figured out that not only would it allow her to merge copies of the same skill into a more powerful version of themselves, but also combine different skills into entirely new ones.
+
+It was possible all four crystals would give her skills she would want to keep, but she also wanted to test out creating a completely new skill through her own influence. She crushed all four crystals at once and was barraged by notifications from the tower.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Freezing Fists (Common) - Each hit you land on an opponent with your bare hands slows their movements by a fraction.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Enhanced Sight (Common) - Slightly improves your eyesight.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Bargain Hunter (Common) - Reduces all essence costs by 0.5%.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Backlash (Common) - Every time you are struck, charge increases by 1. When the charge reaches 8, unleashes a shockwave that stuns nearby enemies very briefly.
+
+Well, so much for my hypothesis. Then again, the skills I did get seem somewhat related to my actions so far in the tower and my attributes. I’m definitely on the right track, but maybe I just need to invest more into mana, or just collect more skills to have a chance at a magic related one. Or maybe the tower is just playing a prank on me. I wouldn’t be shocked. I think Bargain Hunter might be the best skill ever though. I could really kiss someone right now.
+
+Evelyn was satisfied with her new skills, but somewhat disappointed she wouldn’t have a chance to try out skill synthesis. She had received even more essence from the rest of the group taking down the party defending the second zone, but figured it was wise to save at least a little in case things went wrong with no backup nearby. It was possible she would need a rapid injection of attributes to get herself out of a bad situation.
+
+Of her four new skills, there was one which provided an immediate difference. Enhanced Sight. The tower’s elusive descriptions aside, Evelyn found herself being able to see in detail the scenery on the neighbouring island, which just a few minutes before had been nothing but a greenish blur. It was far smaller than her island, but with similar forest terrain. Beyond the trees she could sort of make out a lake, but then things started to blend into a haze as she reached the upper limit of the skill’s improvement.
+
+Something moved in the trees across the bridge. A huge man stepped out and approached the bridge with slow, heavy strides. No, a woman. Her chest was too big to be a man’s. Two more people left the treeline and followed after their companion.
+
+Looks like it’s time for some action. I should probably tell the others, but a really dangerous part of my mind is telling me to see how long I can hold out alone, to test myself. Eh, I’m sure it will be fine. If push comes to shove I can just yell for Kayla.
+
+Having lost her shield during the last battle, Evelyn was left with just her body and the ‘Wrathful Wrists’ to take on her approaching opponents. Despite that, she was confident. A more cautious person might have taken some steps to prepare for the fight ahead, but Evelyn was in a strange mood. She’d not exactly been timid or shy in her old life, but she never would’ve been the type to throw herself into new challenges or unfamiliar environments. It was a welcome change of pace, even if it had taken the uprooting of her entire world and some seriously traumatising situations to get there.
+
+Evelyn had climbed a nearby tree, the tallest she could find, in order to track the group of three as they approached. Was this a party who had already lost two of their number, looking for a way to regain a foothold in this insane battle royale, or were they an advance group trying to gain control of another zone? Either way, she would hold nothing back from the start.
+
+~~~
+
+Unlike the first zone they had conquered, this one wasn’t even visible without the assistance of the map telling her where it was. The presence of so many trees would make it rather tricky for her to fight as she typically did, up close and personal, though it also depended on how her enemies decided to engage her. The first of them, the barbarian looking woman, stepped across the boundary of the zone, and Evelyn took a deep breath.
+
+One step. Two steps. The second of the group entered the zone, and it started to shift from blue to red on her map. If they were being vigilant, they should know at least one person was inside the zone with them, but it didn’t really matter.
+
+Three steps. The third and final opponent crossed the border and the shift to red sped up. Evelyn exhaled, the huge woman now right below her perch in the trees. With an unholy yell, she announced her presence and dropped onto her prey from above like a hawk.
+
+For all her bulk, the barbarian woman offered little resistance to Evelyn’s ambush and crumpled like wet tissue under her weight. A few weighty blows to her head finished her off before her allies even knew what had happened. The closest of them, a gaunt man with shoulder length salt and pepper hair and emerald green eyes, yelled something at her in a language she couldn’t understand, before waving his arms and launching two balls of fire at her.
+
+Not to say that she hadn’t expected to encounter enemies with magic skills, but based on her limited experience, which consisted of watching Anna, a fireball was not in her realm of consideration. Regardless, Evelyn didn’t let it break her stride, easily dodging to the side of the first. The second exploded on her shoulder in a burst of heat and light that momentarily stunned her.
+
+Searing pain flared at the impact site, and she smelled the sizzling flesh before she saw it. Despite her injury, Evelyn barreled onwards, much to the shock and horror of the two men. She couldn’t have known, but until that point in time, the man’s fireballs had practically incinerated every person he had managed to hit and they usually gave up on struggling after their first taste of the flames.
+
+He raised his arms to cast another fireball and his ally pulled out a shortsword, the first bladed weapon she had seen that wasn’t a dagger her entire time in the tower. The mage was skinny and Evelyn guessed most of his attribute points were invested into mana, which turned out to be correct when he was unable to stop her from grabbing him and throwing him into the path of his ally’s sword, piercing straight through his gut. It only took her a few more well placed strikes to finish the both of them off, after which she helped herself to the weapon and returned to her perch in the trees.
+
+I’m beginning to understand why Kayla is always so frustrated at how weak everybody seems to be. The tower’s system is fairly easy to understand, so why do none of our opponents pose even a little challenge? We’ve all been through the same challenges and had the same rewards offered to us, yet they don’t last more than a few blows each time. At this rate I’m going to fight Kayla just to feel something.
+
+K: We’ve taken over the last zone, but someone managed to sneak in and take back the third while we were busy. The others are doubling back to deal with them but you might end up with a fight on your hands, watch your back, Evelyn.
+
+Eve: Slackers.
+
+Anna: Don’t complain, you’re getting plenty of free essence from all those weaklings we took out.
+
+Eve: …
+
+~~~
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Bulwark (Common) - Take slightly less damage from physical attacks.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Stellar Body (Common) - Fortitude +1 for every 25 star value.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Capital Gains (Common) - Receive 1% interest on your total essence upon clearing a challenge from the tower.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Pugilism (Common) - Deal slightly more damage with your fists.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Mana Plate (Common) - Form a barrier of mana around yourself. (Variable Mana Cost)
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Lethal Precision (Common) - Striking vital areas does slightly more damage.
+
+I can’t believe it. My first magical skill, and it’s one that makes me tankier. This goddamned tower. Though I suppose that means I was right. While there is an element of randomness when it comes to the skills you receive, it is definitely influenced by your actions and attributes. I should totally abuse this. Ultimate Bulwark, here I come!
+
+On top of a mass of new skills, Evelyn had also purchased a few more grey stars. She still didn’t have enough for Stellar Body to give her even a single extra point of fortitude, but it was close. Even with its rather middling 0.5% discount, Bargain Hunter had already shown its effects with that last deluge of purchases.
+
+Her next step was to finally use the skill synthesis system. There were only two combinations that she felt made sense right now, since she actually liked the majority of skills the tower had provided thus far and felt that combining them might just lead to a worse outcome.
+
+Essence: 26『+17 / 5:59:58.3 hours』
+
+~~ Stars ~~
+
+Grey: 17
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+【KILL】
+
+She selected skill synthesis from the menu and immediately a new window opened in her vision.
+
+Would you like to Fuse or Synthesise skills?
+
+Fuse | Synthesise
+
+I think fusion is what happened with the duplicate copies of Bulwark, so I doubt I can do that again. I guess if I get it one more time I can reach the third tier of the skill? I’ll find out soon enough. Synthesis it is.
+
+Please select the skills you wish to synthesise.Bulwark (Uncommon)
+
+Bulwark (Common)
+
+Stargazing (Common)
+
+Battle Cry (Common)
+
+Freezing Fists (Common)
+
+Enhanced Sight (Common)
+
+Bargain Hunter (Common)
+
+Backlash (Common)
+
+Stellar Body (Common)
+
+Capital Gains (Common)
+
+Pugilism (Common)
+
+Mana Plate (Common)
+
+Lethal Precision (Common)
+
+Synthesising Freezing Fists (Common) and Pugilism (Common)! You have received the following skill:
+
+Fists of Frost (Uncommon) - Infuse your blows with ice, with each hit slowing enemy movements by a fraction and inflicting cold damage. (Variable Mana Cost)
+
+Not exactly the result I was looking for. Losing the permanent damage bonus from Pugilism sucks, but knowing the tower I’ll get another copy of it soon enough. Looks like I really need to start investing in mana, now that I have two magic skills. Truly spoilt for choice, aren’t I? Hopefully this next combination turns out better.
+
+Synthesising Enhanced Sight (Common) and Lethal Precision (Common)! You have received the following skill:
+
+Assassin’s Eye (Uncommon) - Detect weak points on your enemies slightly easier and deal slightly more damage when striking their vitals.
+
+Evelyn was far more pleased with the second skill, Assassin’s Eye, than the first. Rather than just combining the previous effects and adding a mana cost like Fists of Frost had done, it had created an entirely new ability. Even better than all of that was the fact that both of her new skills had absolutely nothing to do with soaking up damage, which brought a beaming smile to her face.
+
+A rustle in the trees to the north alerted her to an approaching enemy. It seemed like the others had been unable to catch the party which had slipped behind them and they had pushed all the way into the island to reach Evelyn. Rather than send a scathing message to the others in the party chat, Evelyn gave a brief glance at her status before silencing her movements and preparing herself for another fight.
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+|Attributes|
+
+Power: 3
+
+Speed: 2
+
+Stamina: 2
+
+Vitality: 7
+
+Mana: 1
+
+Fortitude: 8
+
+|Skills|
+
+~Passive~
+
+Bulwark (Uncommon), Bulwark (Common), Stargazing (Common), Assassin’s Eye (Uncommon), Bargain Hunter (Common), Backlash (Common), Stellar Body (Common), Capital Gains (Common)
+
+~Active~
+
+Battle Cry (Common), Fists of Frost (Uncommon), Mana Plate (Common)
+
+The time to test out her new skills had come far sooner than she thought, and oh boy did she have a lot of them now. Given the rate she was accumulating essence and the fact that cheap skill crystals kept finding their way into the Local Shop, Evelyn didn’t see her progress slowing any time soon. In her impatience, she simply dropped onto the first enemy to reach her, without waiting for his allies to show themselves.

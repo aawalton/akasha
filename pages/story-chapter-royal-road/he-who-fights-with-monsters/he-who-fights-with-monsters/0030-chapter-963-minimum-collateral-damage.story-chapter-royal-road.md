@@ -1,0 +1,225 @@
+---
+id: d9fbf04d-92e5-5cd2-8771-f5fe0052a899
+page-type-slug: story-chapter-royal-road
+title: "Chapter 963: Minimum Collateral Damage"
+slug: 0030-chapter-963-minimum-collateral-damage
+partOf: he-who-fights-with-monsters
+position: 30
+ownLength: 2597
+unit: words
+ownProgress: 2597
+publishedAt: 2025-02-14
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2067628/chapter-963-minimum-collateral-damage"
+royalRoadId: "2067628"
+markedReadAt: "2026-06-29T19:04:49.553Z"
+---
+
+Jason and Gary sat, side by side, on a porch swing. Mist wetted the trees growing from the sides of the gorge, filling the air with the scent of the leaves. Jason was still, gathering his thoughts, while Gary shifted in anticipation of long-awaited answers. The leonid was not tall for his kind, yet he loomed over Jason. Even so, it was the smaller man’s presence that seemed overwhelming. This was Jason’s world, and on an instinctive level, Gary could feel it.
+
+“I must be a strange figure to you,” Jason said. “I’m still coming to grips with it myself, to be honest, but my perspective is less important. It’s easy to deal with power when you’re the one that has it.”
+
+He glanced up at the leonid.
+
+“I’ve been watching you your entire life. You didn’t feel it, but I was there. When you were born. When the Karadeniz brothers were chasing you through the park and got caught in that thorn bush you could have sworn wasn’t there when you passed through.”
+
+Gary blinked, and his eyebrows shot up.
+
+“Was that…?”
+
+“Me? Yes, it was. I’ve seen every moment of your life, Gary.”
+
+“Even when I was taking a dump?”
+
+“I wasn’t actually watching that. I was, on some level, aware that it was happening. For everyone in my domains. It takes some getting used to, being what I am.”
+
+“People talk about you like you’re a god sometimes. Are you?”
+
+“That’s complicated. The short answer is no. The long answer is… kind of. A bit.”
+
+“That doesn’t make things clear.”
+
+Jason laughed.
+
+“Something I am unfortunately very aware of. But we’re not here to talk about me, even if I can’t seem to help myself. You want to know what makes you special. Different.”
+
+“Yes,” Gary said, his voice half a whisper.
+
+“Everyone is special, within their own context. A precious child, a loving friend. The short answer is that you’re not any more special than anyone else. But you’re here for the long answer. For the parts of your particular context that you’ve glimpsed, but never really seen.”
+
+“Yes.”
+
+“Okay. The first thing you should know is that I’m not, strictly speaking, meant to tell you what I’m about to. But the rules, as they relate to you, have been bent pretty far already. I’ll explain how and why as we go. But first, I want you to understand that you shouldn’t tell anyone else what I’m going to tell you. You’ll want to talk about it later, once you’ve thought things over. You can find me again, or Rufus. A couple of others. You met my friends at the party, and I know that Emi had told you about Farrah. You don’t really know her yet, but she might be someone you want to talk to. Also, your mother’s obstetrician.”
+
+“What?”
+
+“I’ll get there. Probably best if I go all the way back, and come at this in order. I’ve been told I’m not the best at explaining things, but it begins, as you know doubt suspect, with my friend Gary…”
+
+***
+
+Some of the homes in Asano village were set on a clifftop, digging into the rock to emerge from the cliff face itself, with window walls looking out over the Pacific. Anna sat in a lounge room, in one of two chairs angled between facing the other and looking out to sea. In the other seat was Claire Davney, United States Secretary of State.
+
+“Asano wants to explain it all,” Anna said. “What he was doing the last time he was here, and why. How that leads into what lies ahead for our planet.”
+
+“Your concern is that he won’t be believed.”
+
+“To put it mildly, yes. I’ve heard the full explanation, Claire, and with the full context, it reads like a holy text. If Jason goes before Congress and his first sentence is ‘I know who created the universe and it’s not who your book says,’ no one is going to hear his second sentence.”
+
+“Can the problematic parts be excised?”
+
+“Not if you want the actual truth. The actual reasons. Not if you want to understand what the last twenty years have been about, and what’s coming next. The Network doesn’t know, Claire. Not even yours, in the United States. They’ve been looking at the big picture through a tiny hole, punched in the wall. I’ve heard the full thing, and you need that context.”
+
+“A private briefing, then?”
+
+“That gets political very fast. Religion has been more volatile than ever in the face of magic coming out in the open. If we start having secret briefings where the most religious members of political bodies are excluded, I don’t have to tell you what happens then. That’s true in every country, not just yours, but the United States will be an especially loud voice in the reaction.”
+
+“Then what do you want to do?”
+
+“That’s what we’ve been considering for months. Every broad solution leads to pointlessness. If we redact enough information to make it palatable to everyone, there’s not enough left to have value to anyone. If we reveal everything, it creates a political storm that inundates everything. If we try it half and half, we get the worst of both worlds.”
+
+“Every broad solution.”
+
+“Secrets are dangerous. When revealed, they can do more damage than if they were put into the open in the first place. But we couldn’t come up with anything better. Magic was governed by secret societies for centuries.”
+
+“And you want to make a new one?”
+
+“Yes. Crucial people, all around the world. We start by telling them everything.”
+
+“And then you tell them what to do next.”
+
+“No. If Asano wanted to tell the Earth what to do, he’d conquer it. He wants the people of Earth to make their own choices, but informed ones.”
+
+“You’re claiming he has no agenda of his own?”
+
+“He has interests. He’s been impressed with the humanitarian programs the Cabal have instigated since the reveal of magic, and wants to support them. For programs instituted by himself and his clan, he sees magical education as the way forward. He believes that magitech is the pathway for Earth to catch up to worlds with more inherent magic than we have. Earth’s knowledge of technology outstrips that of magic, to the point of stunting the development of magitech. He wants to change that.”
+
+“And who will receive this enhanced magical education?”
+
+“That’s up for discussion, but in short: everyone. The details…”
+
+Anna stopped at a knock on the door.
+
+“Enter,” she said, and one of the Secretary’s aids came in.
+
+“Secretary. Mrs Tilden. Director Barstow has asked you both to attend a briefing on an emerging situation.”
+
+“The CIA wants me to attend?” Anna asked as she and Davney got to their feet.
+
+“Uh…” the aid said, her eyes darting back and forth uncomfortably. “The director said that, uh if that slippery little shadow so-and-so is just going to listen in anyway, we might as well have a human being attend. He didn’t actually say so-and-so, but he meant Mr Asano’s—”
+
+“We’re all familiar with Shade, thank you Courtney,” the secretary said. “Where is the briefing?”
+
+“There’s a conference centre, Madam Secretary. It was refurbished from a spa centre, apparently.”
+
+“Meaning that there isn’t a spa centre anymore?”
+
+“Not that I’m aware, Madam Secretary.”
+
+“I won’t lie: that’s disappointing. Shall we, Anna?”
+
+***
+
+“…it normally doesn’t work that way,” Jason explained. “Souls usually reappear so far removed from their previous incarnations that they will never encounter someone that knew them.”
+
+“Reincarnation,” Gary repeated for the eighth time. It was after the fifth that Jason had decided to just push on.
+
+“In this case, the Reaper decided to go a different way. Bend his own rules, one last time, before the rules were locked in once more. The cosmic throne thing I told you about, but the details of that don’t matter.”
+
+“Reincarnation.”
+
+“Yep.”
+
+Gary’s face creased in a confused squint.
+
+“You said a gift?”
+
+“I did.”
+
+“The grim reaper gives people gifts?”
+
+“No, the Reaper just… passed it on. The gift was from my friend Gary. And the gift he gave us was you.”
+
+“How can he give me when he is me?”
+
+“He isn’t you. And you aren’t him. I know you better than anyone, Gary. Better than you know yourself, and you are not the friend I lost. Rufus isn’t seeing our friend when he looks at you. He’s just remembering. You are your own man. Think of the other Gary as an ancestor. Someone who died before you were born, but has an undeniable impact on who you are. You’re not him. You’re his legacy, but you also have to make your own way. To be your own person. If you want to know more about him, that’s okay. If you never want to hear another thing, and carve a path entirely your own making, that’s great too.”
+
+“But can I? Am I just some copy of a dead guy?”
+
+“Not at all. You’re different people. There are similarities. People like you, the way they liked him. You both have a talent for making things, albeit very different things. He was bigger than you. You’re smarter than he was. But those are the little things. You’re young, and none of us know the man you’re going to become. The other Gary isn’t going to determine that. He just gave us, his friends, the honour of seeing it. Helping you along the way, from time to time.”
+
+Jason stood up and put a hand on Gary’s shoulder.
+
+“You have a lot to think about. There’s no rush. I’ll leave you be, for now. If you need anything, just ask. Anything. Lunch. A drink. Nineteen left snow skis. A jet pack.”
+
+“I can’t tell my parents?”
+
+“Rufus is telling your parents right now. We would never put this on you and make you keep it from them.”
+
+Relief spilled across Gary’s face.
+
+“I’d like to see them.”
+
+Jason nodded and a portal opened. Jason went through to where Rufus was with Gary’s parents on the cloud ship. They looked as shaken as their son, and Jason’s sudden arrival didn’t alleviate that. They scrambled to their feet, standing nervous as green fresh soldiers on inspection. Rufus made introductions.
+
+“It’s lovely to meet you,” Jason said. “I know you’ve just heard a lot of strange things.”
+
+“Well,” Gary’s father said. “This one time, we got turned into lion people. I think we figured about then that life would have some strange turns.”
+
+Jason laughed and shook his hand.
+
+“That’s a good attitude to have,” Jason said, “and one I think Gary could use right now. He’s asked to see you, and he’s right through there.”
+
+Gary’s mother wasted no time, grabbing her husband by the arm on her way to the portal.
+
+“How did it go?” Rufus asked.
+
+“Not sure. A bit shell-shocked. It’ll take some time. And some love. I like his parents.”
+
+“I’ve known them a long time,” Rufus said.
+
+“You should go through as well. Just go in the house if they need some space, but be there if they need you. I’m going to go poke my head into a CIA briefing. There’s something going on in Pakistan.”
+
+***
+
+“…gold-rank manifestation has reached the state of being visible to the naked eye.” The woman onscreen reported from a Network grid station. “We anticipate full manifestation in forty-two to forty-seven minutes.”
+
+“And why is it happening in Pakistan an issue?” Jason asked, stepping out of a shadow in the corner. The people in the room turned in surprise, except for Anna, who rolled her eyes. Jason held out his hand for Claire Davney to shake.
+
+“Madam Secretary.”
+
+Claire made quick introductions. There were several CIA agents in the room, along with Anna, Natalie Park of ASIS, the secretary herself, and Courtney, her staffer. The woman onscreen was Juliet Crowne, of the US Network.
+
+“Sorry to just jump in,” Jason said, “but the situation seemed urgent. You’ll have to forgive my ignorance of contemporary geopolitics, but I’ve been away for some time. Why does being in Pakistan make it a larger problem?”
+
+“Pakistan was always an Islamic state,” Anna explained, “but it doubled down heavily in the time you’ve been away. It has embraced magitech, but has outlawed any personal magical abilities as a religious affront. It ousted all magical factions and has grown increasingly isolationist.”
+
+“How do they deal with high-rank monsters?” Jason asked. “Or even mid-ranked ones? If all they have is normal people with magically enhanced rifles, even a bronze-rank monster would give them trouble, right?”
+
+“The Pakistani government secretly maintains a small number of essence users to deal with high-rank issues,” Claire said. “The US helps them maintain the group, in return for certain very quiet concessions. They are not up to the task of handling a gold-rank manifestation, though.”
+
+She gave Jason a pointed look.
+
+“What we could use is someone outside of existing government and magical faction structures, with the ability to deploy rapidly and the strength to handle gold-rank monsters.”
+
+“With minimum collateral damage,” added Juliet, still onscreen. “The manifestation is over the Indus River, close the Sukkur Barrage.”
+
+“That’s a dam?” Jason asked.
+
+“Yes,” Juliet said. “One that regulates the largest irrigation system on the planet. Even ignoring the political ramifications of its destruction, the humanitarian and economic impact would be devastating.”
+
+“I can step in,” Jason said. “Can you smooth my intervention over with the locals?”
+
+“We have contacts within the Pakistani government,” Claire said. “Privately, they’ll be grateful. Publicly, they’ll denounce you. ‘Uninvited incursion onto sovereign lands,’ that kind of thing.”
+
+“Behind closed doors, this might help us handle the religious issues we’re looking at,” Anna said. “I know that’s not why you’re going to help them, Jason, but if you do good here, it can help us, too.”
+
+“We should get started,” Claire said. “Mr Asano, if you could prepare, that would be appreciated, but wait for my signal. I need to contact the Pakistani Minister for Foreign Affairs first, and this is a time to ask for permission, not forgiveness. If you all could clear the room, please, and Courtney, please reach out to the Ministry of Foreign Affairs for a call with the minister. I suspect he is waiting for us to do so.”
+
+Jason left, alongside Anna and the others. The main area of Asano village still maintained a holiday feel, if one under occupation with vans and security teams everywhere.
+
+“Jason, I know this isn’t the time,” Anna said, “but do you remember our conversations about major government officials and the importance of using doors?”
+
+“I understand, Anna,” his voice casual and friendly. “But a conversation we never had was about how I helped build this place with my own hands, for my family. My patience is largely occupied with keeping my desire to kill everyone here and turn this place into a crater out of my demeanour. So, I hear you, but you were extremely right about this not being the time. Now, if you’ll excuse me, I need to go tell my friends it’s time to fight some evil.”
+
+“Try and play up the superhero theme,” she said. “Colourful, flashy; keep people and the dam safe. You’re the world’s first superhero, and we want people to remember that.”
+
+“I’d tell you there are more important things to be thinking about,” Jason said, “but flashy is kind of my thing.”

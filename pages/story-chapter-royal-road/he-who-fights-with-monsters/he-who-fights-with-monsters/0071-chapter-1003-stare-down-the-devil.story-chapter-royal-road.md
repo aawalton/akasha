@@ -1,0 +1,217 @@
+---
+id: 6c95e1d5-6cd8-5194-8bcb-80891d25a0b2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1003: Stare Down the Devil"
+slug: 0071-chapter-1003-stare-down-the-devil
+partOf: he-who-fights-with-monsters
+position: 71
+ownLength: 2945
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3498789/chapter-1003-stare-down-the-devil"
+royalRoadId: "3498789"
+---
+
+Jason’s cloud palace was configured for war.  It floated through French airspace in the shape of an inverted pyramid, the flat top serving as the deck of a flying aircraft carrier. Deep within the structure was a conference room with cloud-stuff walls and a round table, with a projection of Europe floating over it. Standing around the table was Team Biscuit and some of their closest allies, including Farrah, Rufus’ parents and Nik Asano. Others were observing remotely from Emir Bahadir’s cloud ship. They included Emir himself, Prince Valdis, Rick Geller and other adventurers from Pallimustus.  There were also messengers watching on, both Jali and Tera, as well as Boris Ket Lundi. Leading the meeting was General Michael Mills.
+
+“You want to go after McKean alone?” Michael asked Jason. “Someone please tell me that I’m not the only one who thinks that is a bad idea.”
+
+“You’re not,” Humphrey agreed. “Jason, we agreed to go after McKean together.”
+
+Michael had been holding tactical planning meetings for two days. Most of the operation was now in the final preparation stages, with forces mobilising to staging points around Europe and beyond. Many of the staging points were mobile, using the new magitech airships.
+
+Michael had left organising the most powerful weapons in his arsenal until last. Gold-rankers from Earth and Pallimustus would be flexible assets deployed in response to vampire lords and other extreme threats as they emerged in real time. The key would be teleporters and portal users, able to deploy gold-rankers across the continent in moments.
+
+He had been expecting Team Biscuit to be difficult to work with, given Asano’s reputation, but they had been remarkably accommodating. Michael’s real problem with Asano’s team was there were more ways to use them than there were members to use. They had two portal users and a teleporter, along with some of the best magic experts in two worlds. They were also the strongest concentration of combat ability on the planet, including an extradimensional princess who could conjure up hurricanes.
+
+“I’ll admit that I like the idea of being able to use your team piecemeal,” Michael said. “Together you represent what is arguably an excessive concentration of force. There’s no question that it would be more effective to spread you out. That being said, an excessive concentration of force may end up being exactly what we need. I don’t know of any power on Earth that can stop you, but my ignorance doesn’t mean there isn’t something out there. Simon McKean baited us into this fight, and we still don’t know why. He knows something we don’t, and he thinks it’s enough to take on not just you, but what amounts to the whole planet.”
+
+He fixed his gaze on Jason.
+
+“In the face of that, confronting an unknown threat by yourself seems like a bad idea.”
+
+“Agreed,” Farrah said. “Jason, is this about what Jamis Fran Muskar said to you?”
+
+“Yeah,” Jason admitted.
+
+“This is the cosmic messenger king you’re talking about?” Michael asked.
+
+“That’s the guy,” Neil said. “Jason, would you care to share what he said with the rest of us?”
+
+“He gave me some advice,” Jason said. “A suggestion on how to approach the confrontation with McKean.”
+
+“Which was?” Humphrey asked.
+
+“Basically, to lord it over humanity as an invincible, untouchable god.”
+
+“So, act normal, then,” Neil said.
+
+“Not now, Neil,” Humphrey scolded.
+
+“I would also point out,” Farrah said, “that Muskar also brought up the potential for your prime avatar to be used against you.”
+
+“I’m confident that was a warning about our next enemy,” Jason told her.
+
+“What makes you so sure?” Farrah asked.
+
+“He doesn’t respect McKean enough to feel that he warrants being warned about. He as much as told me to slap the man down and move on. The warning was for an enemy he thinks is worthy of respect.”
+
+“Muskar might not think McKean is dangerous,” Farrah said, “but just because he said it doesn’t make him right.”
+
+“I know,” Jason agreed. “I’m not dismissing McKean as a threat. I don’t think Muskar is wrong as much as he is misguided. He doesn’t see danger because he doesn’t care about anyone on this planet but me and possibly Boris.”
+
+“He’s right,” Boris said through the comms system. “Jamis Fran Muskar doesn’t see collateral damage as any kind of threat at all. He only cares about the powerful, and I mean the fantastically powerful. If sacrificing millions of his own people gets him what he wants, he’ll do it without blinking. He’s done it before and will again. If he doesn’t think that McKean is a threat to Jason, he’s probably right. Jason is immortal, after all. But that doesn’t stop McKean from being a dire threat to everyone else on this planet.”
+
+“Farrah,” Arabelle Remore said. “Clearly, you and Jason have discussed this already. He does not seem to have convinced you, however.”
+
+“No,” Farrah said. “I still don’t want him going alone.”
+
+“I think most of us share your sentiment,” Humphrey said. “Jason, why do you feel the need to leave us behind yet again?”
+
+“I’m not talking about leaving anyone behind,” Jason said. “And yes, Farrah and I have discussed this. She’s the only one of us who knows McKean personally. They worked together repairing the grid after the Engineers of Ascension sabotaged it. Something else Muskar said makes her think that what McKean is doing is about me, somehow. Or, more accurately, what I represent.”
+
+“Otherworldly interference,” Farrah clarified. “Back in the day, Simon was very vocal about Jason and the threat he represented. Outside interference in Earth affairs. To him, Jason’s return was the catalyst that changed everything.”
+
+“Is he wrong?” Michael asked.
+
+“It’s more complicated than that,” Jason said. “A lot more. But no, he’s not entirely off base.”
+
+“He may not be off base,” Farrah said, “but he is off kilter. In Simon’s mind, Jason might be from Earth, but he’s irrevocably tainted by foreign influence. You can imagine what he thought of me, then. Passive aggressive doesn’t begin to cover it. I would have kicked him off the grid repair team if he wasn’t so brilliant. But as much as he hated me, I wasn’t who he saw as the problem. Jason was the collaborator, giving people like me a gateway to Earth.”
+
+“And now I’ve built a literal gateway to Earth,” Jason said. “I imagine he knows that it’s going to open sooner, rather than later. It may be why he’s making his move now.”
+
+“Which explains why he’ll probably be delighted if you march into his lair all alone,” Emir’s voice came through the speaker. “It does not explain why you actually would.”
+
+“Like you said, he’d be delighted,” Jason replied. “If he’s got something special planned just for me, we give him the chance to use it. To let him stare down the devil.”
+
+“Why?” Gabriel Remore asked.
+
+“Because he’ll have something prepared for everyone else, too. He’s been tooling around with vampires and blood magic for a long time. He knows that the combined forces of Earth are coming for him, and I promise you he has something waiting for them. It won’t be just the vampires and ghouls we’ve seen in the past. At the very least, the blood oaks will be stronger than the versions we encountered in the past.”
+
+“What does that have to do with you strolling in to face him alone?” Rufus asked.
+
+“Because what McKean wants is a shot at me. We give him that, and while he’s taking it, Clive, Belinda and Farrah can sneak in and figure out what he’s got planned for everyone else. And, hopefully, shut it down.”
+
+“So,” Farrah said. “You’re suggesting that we infiltrate a base we know nothing about, decipher decades of work by arguably the greatest magical mind born on Earth and then figure out how to undo all of that work. In the space of what? Minutes?”
+
+“Uh, yep,” Jason said. “I’m sure Clive will have it covered.”
+
+“He’ll do great,” Belinda said. “He can do the figuring it all out and I can do the breaking.”
+
+“What exactly is my part?” Farrah asked.
+
+“It’s likely that whatever McKean is up to will involve the grid, given that he’s about as expert in it as anyone but you,” Belinda said. “Even if it’s not, your ritual expertise will be very useful when it comes time to mess up what he does have going on.”
+
+“Do I get a say in any of this?” Clive asked. Jason put a hand on his shoulder and gave a commiserating shake of the head.
+
+“No,” he informed Clive sadly.
+
+“That doesn’t seem fair.”
+
+“I know, buddy. I know.”
+
+“We’ll also have you around to hit things, Farrah,” Belinda said. “Clive and I fight better when we have a large group to work with. We’re going to need you when it all goes wrong.”
+
+“Which it definitely will,” Neil said. “There’s only about forty ways for that extremely vague plan to fall right off a cliff.”
+
+“Lord Davone is right,” Michael said. “We have almost no information on McKean’s base or his plans. Half of what we do have comes from a supposed turncoat who was definitely sent by McKean himself. That is far from reliable intelligence. If McKean has really been planning to confront you for more than a decade, Asano, what makes you so sure he can’t actually take you down?”
+
+“Because no one can. The best anyone could do is somehow trap my prime avatar. The only person on this planet who could potentially know that kind of magic is Boris.”
+
+“I know of it,” Boris said. “Enough to know better than to have anything to do with it. That’s soul engineering, which is not something to be approached lightly. It’s the kind of power transcendents use.”
+
+“Transcendents?” Michael asked.
+
+“God-level magic,” Clive said. “It’s honestly unusual that we’ve even heard of it at our rank, let alone, seen it. The odds of McKean even knowing about it are slight, although not impossible. Even if he somehow discovered enough to try and use it, it wouldn’t work. If he did astonishingly well, it still wouldn’t work and it would kill him. You need to be more than mortal to wield that kind of power without it destroying you. When I called it god-level magic, I was not exaggerating.”
+
+“Then how do you all know about it?” Michael asked.
+
+“Jason’s used it,” Clive said.
+
+Michael looked at Jason, who returned the stare with a neutral expression.
+
+“You’ve employed this soul engineering?” Michael asked.
+
+“I have.”
+
+“And you didn’t die?”
+
+“Not from that.”
+
+“What did you even do with it? Bind a prime avatar like yours?”
+
+“He created me,” Nik said.
+
+Michael turned to the rabbit man, startled.
+
+“Created you?”
+
+“Yep. He still hasn’t made me a girlfriend out of my rib yet.”
+
+“Nik, you said you didn’t want that,” Jason said.
+
+“It gets lonely, okay? I might be the last of my kind, but Superman just looked like a buff dude, so he had no problems getting—”
+
+“Nik,” Jason cut him off. “We’re in an important meeting, being observed by important people. This is not the time for you to start talking about Lois Lane again.”
+
+“Thank you, Mr Asano,” Michael said. “And you, young Mr Asano. He genuinely created you with magic?”
+
+“Where did you think I came from? You thought he got busy with a rabbit?”
+
+“Nik,” Jason warned. “Decorum.”
+
+“Sorry, Dad.”
+
+Jason glared at Nik from under raised eyebrows for a moment before turning back the Michael.
+
+“To answer your question, General, I did indeed create Nik with magic. By accident, if I’m being honest, but yes. And, as Clive said, it was god-level magic. Taught to me by a god. Neil and Arabelle’s god, as it happens.”
+
+“More than mortal,” Michael said. “That’s what Mr Standish claimed magic like that requires.”
+
+“Yeah, but it’s Jason,” Neil said. “You can’t use him as your standard for anything. He’ll always pull out some nonsense and say he’s got a magic gate in his soul, or some great astral being gave him a relic. Which he then broke, by the way, almost killing himself in the process.”
+
+“It’s true that I am more than mortal,” Jason said, ignoring Neil. “I’m immortal. Not ageless, not hard to kill. Truly immortal. I’ve been clear about that from the moment I returned to Earth.
+
+“No kidding,” Neil said. “He crams it into any conversation he can. He’s worse than Rufus and his family running a school.”
+
+“Neil,” Humphrey scolded. “Nik is not the only one of us required to demonstrate decorum. That being said, you do bring it up quite a lot, Jason.”
+
+“The point is,” Jason said, “that there’s a reason I can go after McKean alone. He doesn’t have the power to entrap this body. The most he can do is kill it, and I’ve got another one ready to go. I’ve spent the last decade sucking the reality core energy out of vampire lords and using it to build a backup avatar. That’s why I can confront McKean, not safely, exactly, but in a way that won’t cost us anything we can’t afford.”
+
+“So you say,” Farrah told him, “but it’s the thing you don’t know that gets you. McKean is already working with the vampires. What if he’s made a deal with a larger devil? Found himself some cosmic ally who does have the power to genuinely harm you?”
+
+“Then we have much bigger problems than McKean,” Jason said. “Farrah, if you’re preparing for a sword duel, it doesn’t make sense to plan around the other guy having a friend with a rocket launcher. We know more or less what magic McKean has access to. Is he going to surprise us with something we aren’t ready for? Yes, but we shouldn’t plan around him pulling a god out of his pocket. Not without a reason to think he has one.”
+
+“With you, there’s always a reason,” Farrah said, but her tone was concessional and Jason gave her a nod.
+
+“My plan,” he said, “is to let McKean slap me in the face with whatever he’s been cooking up. While I’m going in loud and grabbing his attention, the second team goes in quiet. The idea is to grab as much of McKean’s attention as I can. Give him the big movie showdown. But walking the immortal guy into the trap doesn’t work as well if it’s the immortal guy and his friends who absolutely can die.”
+
+“I don’t like it, but he’s right,” Humphrey said. “If our approach is to let Jason take the brunt of whatever McKean has planned for us, then sending anyone with him is simply asking for casualties. The question, then, becomes whether we take this approach at all. We might be better served making a concentrated assault as a team. Hit him hard and fast, before he can react.”
+
+“As much as I think walking alone into a trap is a terrible plan,” Neil said, “I think we have to recognise something. We’ve been running around this planet for a decade, fighting monsters right out in the open. All McKean had to do to learn about us was turn on the TV. He won’t know everything we can do, but he’ll know enough to have some idea of what’s coming for him. If he started this fight, he thinks he’s ready for us to come knocking on his door. So, if someone is going to be helplessly smacked around by whatever McKean has waiting for us, we should send in the guy who can take it. The rest of us can put our efforts where the operation will be better served. We let Jason fight harder while we fight smarter.”
+
+“I say yes to sneaking in,” Lindy said. “I like the idea of finding whatever crazy magic McKean has and making it go poot.”
+
+“Poot?” Sophie asked, looking at her friend from under raised eyebrows.
+
+“Poot,” Belinda confirmed with a serious nod. Sophie chuckled and slung an arm around her friend’s shoulder.
+
+“I agree,” Clive said. “Although I suggest expanding our little squad beyond Farrah, Lindy and myself. As has been pointed out, something will inevitably go wrong. Sophie would be excellent in a fight, and has more practical experience at illicit intrusion than any of us.”
+
+“I’m in,” Sophie said.
+
+“I would also like to take Lindy’s wife,” Clive added.
+
+“Hold on,” Belinda said. “Stella isn’t a fighter at all.”
+
+“No,” Sophie said, “but she’s got sharper senses than anyone on the team, and is an experienced infiltrator. She’ll help us avoid conflict. We’ll keep her safe, Lindy.”
+
+Belinda let out a reluctant grumble.
+
+“I’ll ask her,” she said, although her tone held the threat of rebellion. “If she says no, and I’ll strongly recommend that she does, then that’s that.”
+
+“That’s all we can ask for,” Humphrey said.
+
+“What about the rest of us?” Taika asked. “Standby in case you need help?”
+
+“I can make sure you have access to rapid transport, should you need to offer support,” Michael said. “In the meantime, it would be a criminal waste to have you waiting around when your considerable talents could be put to use. If you aren’t going to be involved in the attack on McKean’s castle, I have more than enough for all of you to do. I’ve received dossiers on your various abilities, but I would like to confirm certain details. Unlike our enemy, I’d rather not learn what you can do from watching television.”

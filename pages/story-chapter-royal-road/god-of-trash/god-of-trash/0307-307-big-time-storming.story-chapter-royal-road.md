@@ -1,0 +1,89 @@
+---
+id: ebe718d9-7e20-55e3-bff4-e5facddb5d90
+page-type-slug: story-chapter-royal-road
+title: "307. Big Time Storming"
+slug: 0307-307-big-time-storming
+partOf: god-of-trash
+position: 307
+ownLength: 1958
+unit: words
+publishedAt: 2026-05-06
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3363744/307-big-time-storming"
+royalRoadId: "3363744"
+---
+
+While he was still the one on top in his and Daran’s perpetual, if insanely petty, duel of wits, Rhys closed in on the storm. Up close, the scale of it truly became staggering. To the left and right, all he could see was endless rain and storm. Wind howled at hurricane speeds, hurtling so rapidly over the surface of the ocean that it whipped up the sea into great churning waves. He hadn’t stepped past the edge of the wall yet, and the sheer force of the storm meant he was still soaked in the wayward rain and sea spray whipped up by the winds, and forced to fly higher than usual above the ocean so a rogue wave didn’t grab him.
+
+Damn, he thought, and really had nothing else to say, just: damn.
+
+Lightning flashed, so bright it whited out his vision. The thunder that followed was a visceral thing, so forceful that he felt it slam into him, so powerful that the rumbles rattled through his chest on their way out.
+
+The storm was immense, a thing that didn’t need to demand respect because there was no way to avoid respecting it. Standing this close, he got a sense for the phrase ‘spit into the wind’ in a way he never had before. Just standing here, just brazenly facing the storm and fighting the wind to hold his spot in the air, he felt like a little glob of spit, hopelessly fighting that wind.
+
+And then a thought struck him, and he looked down. Rhys raised his eyebrows. “Damn. And the girls go crazy for grey sweatpants… I’m about to start a new trend.” No, bro, trust me. Wear these silk robes and stand in a strong wind. It’ll be amazing, trust me. The girls will love it. He’d never considered his mage quality of not feeling anything but the most severe cold as an asset before; honestly, he hadn’t thought much of it at all. But now… now he was seeing the value.
+
+Daran yawned. “Are you going to brave the storm or turn back? We don’t have all day.”
+
+“I’m going to do it. Just give me a minute.”
+
+“There are a great number of regions on this side of the storm. You don’t need to cross the storm wall.”
+
+“If I turned back now, how could I ever call myself a man?” Rhys planted his hands on his hips firmly, jutting out his chest and setting his jaw.
+
+“Have you ever worried about your masculinity before?”
+
+Rhys snorted. “You didn’t even see me at my femboy crossdressing peak.”
+
+“Your… what?”
+
+He craned his neck, gazing at the storm. No going over it. No going around it. Time to find out if he could go under it. It certainly seemed preferable to going through it, anyways. Taking a deep breath, he dove into the ocean.
+
+He didn’t need to breathe, but even so, he couldn’t help but instinctively take a big breath before he went underwater. It just didn’t feel right, otherwise. All his instincts were already screaming at him that he’d need to breathe soon, even if he felt none of the discomfort, so it was the least he could do to quiet them.
+
+Water rushed around him. Powerful currents almost instantly gripped him, dragging him toward the stormy, tumultuous waters. On the surface of the water, the wind had lashed him, tugging him forward, but here, the water gripped him, sucking him in. Compared to the force of the water, the wind was nothing. The currents were almost inescapable, its power far beyond his own. He was a leaf on the wind, helpless before its might.
+
+I’ve made a mistake.
+
+There had been a river near where he’d grown up where people drowned all the time, even in the modern era with all the modern support and equipment to save and rescue people. He’d known why the river killed—it had a powerful undercurrent that sucked careless swimmers under and pinned them there—but he had never experienced it, since he’d simply stayed away from the dangerous river. Now that he’d experienced it, he truly understood how the river killed.
+
+Water was a force. It was physical, powerful, destructive. Simply standing on the edge and knowing that the river had dangerous, deadly currents and experiencing the true energy of a powerful current were very different things. And now, being gripped by the currents that were just spun off from the storm, that weren’t even part of the storm proper, the true terror of water was struck into his heart.
+
+Rhys fought the current with all his might, having to exert great energy to ‘fly’ against the current and hold his ground. He gazed at the tumultuous water ahead and pursed his lips, then raised his eyes, gazing past the surface to the storm overhead. The writhing currents, which would drag him wherever they pleased, or the storm, with deadly lightning and wild wind, waves, and precipitation of all description? Which was better?
+
+I feel like I’m choosing between Scylla and Charybdis. Either I lose half my men for sure, or have a chance of losing everything, but also a chance of getting through safely. He’d always thought the guy made the trashy choice there, picking the guaranteed half-men-loss over the chance at everyone getting through, but that was only because he was so brainrotted by modern literature.
+
+After all, in modern literature, the hero would chose the fifty-fifty total oblivion and hit, through guts, grit, and determination; but actually, if you thought it through rationally and put yourself in his feet as a real person without plot armor or protagonist powers, as if you were staking real lives and the fate of your entire ship on the choice between ‘for sure half of us die, but for sure we get through’ or ‘we might all die here, lose the mission, and no one even knows where our bodies are,’ then it was actually completely rational to lose half the crew for the guarantee of eventual success. It was a moment where the legend was meant to teach as much as to tell a grand tale: it was better to be sure your mission would survive, than to risk total oblivion for the chance of a slightly better situation in the case everything went right.
+
+In other words, it was choosing the anti-climax rather than the climactic battle. No modern action hero would ever pick the anti-climax, because modern literature was meant to entertain, but in the real world, the anti-climax was almost always the better choice. And, in fact, wisely choosing the anti-climax was a climax in of itself; it was just his trash-literature-pilled brain that saw it as a ‘failure.’
+
+If this was Scylla and Charybdis, then the sky was Charybdis, where he had a chance of getting through safely, but if lightning hit him, he was cooked (literally), whereas the sea was Scylla; he was sure to get beaten up, but he would almost certainly survive.
+
+So the question is: do I take the hint from classic literature and do the trash move of the anticlimax, or do I listen to my trash-literature brain and take to the sky, blazing through the climax at the risk of my life?
+
+He pinched his chin, thinking. Either way, it qualified as trash, so he had a buff to getting through in both directions. His trash stores were still kind of low, so he didn’t have enough mana to activate the ‘force a trash scenario to occur’ technique; he couldn’t take the fifty-fifty and guarantee the hit like a true protagonist. He would truly, deeply, be risking his life. Meanwhile, he didn’t like pain, but he could tolerate it, and he did like the idea of not dying. Not dying was always pog.
+
+He sighed. Am I really leaning toward Scylla? After an entire lifetime of raging against picking Scylla? But it was just the better idea. It really was. And if it got too tough, or he decided to change his pick, he could always fly into the sky, but if he got roasted by a bolt of lightning, that was it. There was no changing his choice if he was dead; he was just dead. That was it. Game over.
+
+Hypocrisy is pretty trash, he considered, nodding to himself. He turned his eyes ahead to the raging currents. Scylla it was.
+
+Life was precious. You only got one shot at it, and then it was over. He wasn’t going to throw away his life on a chance, when he had a sure, if still dangerous in its own way, shot ahead of him. For once, just this once, he was going to learn the lesson classic literature was trying to teach him, and go with the sure bet. It was still trashy enough to pass the sniff test—or fail it, as it were—and that was what mattered.
+
+He stopped fighting the currents and let them drag him into the maelstrom.
+
+A heartbeat before the water fully swallowed him, it occurred to him: wasn’t Charybdis a whirlpool? Then, did I… maybe… get which is which here, backwards?
+
+No, no, no, I’m not a ship. A whirlpool won’t kill me! It’s the lightning that kills me. The lightning!
+
+And yet, a great sense of trepidation still welled up in his gut as he fell into the massive wall of currents.
+
+Water slammed into him. He recalled, in that moment, that falling into water from a sufficient height was the same as falling onto concrete. It felt about the same, falling into this water. He was in a grinder, in the depths of a blender, where walls of rough-edges concrete bore down on him from all directions. He was squeezed, squished, and ground down.
+
+The entire weight of the water bore down on his shoulders, pincered his head, and twisted at his limbs. He felt like he was the rotisserie chicken at the end of the meal, where someone was twisting the thigh bones out of the thigh joints, except it wasn’t a succulent grocery store rotisserie chicken, but his body, and it hurt like hell. He tried to yank his limbs in, but the currents had ahold of them.
+
+Not just his limbs, but his whole body. He was buffeted and thrown about by the currents, tossed at the whims at the ocean. He had absolutely no control over which way he went, whether up or down, left or right. The ocean had him, and he was the ocean’s. The ocean was a big dog, and he was the ocean’s chew toy. The ocean was a toddler, and he was that toddler’s plastic doll. He was at its mercy, and it was not feeling merciful.
+
+How foolish he’d been, thinking he could choose to leave the ocean. Thinking he was the one with power in this world. Not at all! The ocean was the one in the driver’s seat. The ocean was the one in control. He was a passenger, a leaf on its wind. If he wanted to leave the waters and brave the skies, well, all he could do was pray that the ocean spat him out. He no longer knew which way was up and which way was down. Even if he wanted to escape—and dear gods, did he—he simply didn’t know which way to move to escape.
+
+I might die here, crept through his brain, and Rhys swallowed—or tried to, anyways. The massive forces on his entire body meant he couldn’t even do that much.
+
+And then a second thought crept in, and a grin spread across his face. Which is to say… this is a great opportunity for training!

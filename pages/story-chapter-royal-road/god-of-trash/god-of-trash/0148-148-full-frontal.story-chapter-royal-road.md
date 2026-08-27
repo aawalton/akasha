@@ -1,0 +1,85 @@
+---
+id: 05563020-620b-5d4e-b70c-0322265ff1d9
+page-type-slug: story-chapter-royal-road
+title: "148. Full Frontal"
+slug: 0148-148-full-frontal
+partOf: god-of-trash
+position: 148
+ownLength: 2446
+unit: words
+publishedAt: 2025-08-01
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2484923/148-full-frontal"
+royalRoadId: "2484923"
+---
+
+Mouse had given him a map and a very detailed rundown on how to reach the Water Syndicate, and it wasn’t hard for him to locate it with her map and description. He wasn’t directionally gifted himself, but he wasn’t challenged either, so he only got lost once or twice before he encountered one of her landmarks and knew to adjust his path. Her notes included a bunch of circles around the particular ravine and an extra set of red lines around the upper edges of the ravine along with the words EXTREME DANGER!!!, which would have been funny if Lira’s life wasn’t on the line. As it was, he took her words to heart and did exactly what the Water Syndicate wanted him to do. Without hesitation, he marched directly into the ravine’s mouth, throwing himself to the belly of the stone beast.
+
+This was not going to be subtle or stealthy. He was charging in, and he was doing it head-on. They were getting the full frontal, whether they wanted it or not.
+
+I should’ve worn a trench coat, he noted amusedly, not that this world had something like that. The secondary implications of that thought hit him like a train, and he laughed again, more darkly. Oh, yeah. This was definitely trench coat territory.
+
+Since he was in his villain era, he had decided to dress the part. He’d borrowed some black robes and red face paint, smearing the latter across his forehead and letting it drip all the way down his face and dry in globs. It ran down his face in rivulets, collecting in his eyelids, then dripping down again, as though he was crying blood. His fingers had been dyed crimson by the effort, and he left them that way. A wide-brimmed, dark hat with hanging veils finished the look. It obscured the facepaint for now, but sometimes, the most important part of a costume was the moment of reveal. Being able to easily remove some small component to show someone a surprise, even in a passing moment where someone called his character’s name in a hallway, was something he’d done a few times to great effect back in his cosplay days, and when he was going for dramatic effect, there was nothing wrong with leaning on those days a little more than usual. It wasn’t as though he thought the surprise would make anyone pause in battle—though he wouldn’t mind if they did—but rather, his character motive today was the battle-frenzied madman.
+
+It wasn’t his actual motive, but since he’d realized he had dangerous levers, he’d also realized he needed to hide them. If he came here as Lira’s vengeful boss and failed, lost, or otherwise had to retreat before he found Lira, Lira would be in danger, and far more danger than she’d been when he’d started, at that. No. Especially if the Water Syndicate was larger than he’d thought, he wanted to rescue her while giving the minimal information about himself away. Therefore, he was a battle-crazed madman who’d come here to test his skills. His sword skills were enough, from his days with Bast and Straw, to manage to appear that way against the low-level members of their group, and if he started pulling out esoteric skills later, then the Water Syndicate would simply assume he’d gotten serious and been forced to actually fight with all he had, including his dirty tricks, when in reality Rhys was nothing but a box of dirty tricks.
+
+He was using this world’s philosophy of ‘hold some skills back to disguise your true strength until you’re pushed to your limits’ against it, and he wasn’t afraid to admit it. Besides, it really made more sense than a lot of armchair fighters thought it did. Sure, in a world with guns, why worry about ‘concealing skills’ when one bullet ended the conversation regardless? But in a world with magic, if he one-shot every low-tier mage with his highest-power skill, not only did he waste mana and trash, but he also revealed his strongest attack right out the gate. Other mages could watch him fight and learn how to counter his strongest move. When he fought those mages, who were at his power level, later, their ability to counter his strongest move, his ace, without revealing or using their own ace, would leave him at a significant disadvantage, and could even be the difference between life and death.
+
+Now, a slow battle of escalation was ridiculous, too; there was no reason for every battle between Tier 3 mages to start with Tier 1 swordplay and a slow escalation through the ranks of Tier 2 before finally hitting Tier 3. Although Rhys did enjoy reading those battles, he had to admit, yeah, real battles didn’t work like that; unless there was an extreme need to conserve mana, they’d simply start by striking one another with their Tier 3 moves and escalate from there, and even in a situation where they needed to conserve mana, it might earnestly be cheaper in mana to start from Tier 3 skills. But still; spells weren’t bullets, and magic wasn’t a gun. There was a reason aces were left in the hole, rather than being fired off right off the bat.
+
+Of course, if he saw an opportunity to decapitate the head of the Water Syndicate with a quickshot from his ace skill, would he hold back? Probably not, but it really would depend on the situation. If there were a dozen other powerful mages around who he’d have to fight afterwards, it would depend on whether he could defeat all of them without his ace, too, since they’d have seen it and have a chance to counter it.
+
+Not that Rhys was going to complain too loudly. If most people thought it was a trashy way to fight, then who was he to argue it wasn’t? He wasn’t a hundred percent sure how his trash path interacted with abstract concepts like that, but if he could eke a boost out of it, he wouldn’t complain. Of course, he was talking about a complex, abstract concept that had mostly been perceived as trash back on his homeworld, while it was generally accepted as a fact of life here, so who knew if he could boost it with his path or not?
+
+Future considerations. For now, he’d rescue Lira, crush the Water Syndicate, then subsume it, then go ponder the void until he could make his trash cans.
+
+Rhys almost laughed, then let himself laugh aloud. What a ridiculously easy set of goals he had before him. Certainly, certainly, he could complete them with no problem, right?
+
+“Hello there, young man. You seem a jolly fellow. I wonder what a jolly fellow such as yourself is doing in this neck of the woods?”
+
+Rhys looked up, keeping his head slightly bent so the veils hid his facepaint completely, while angling his chin so the gap in the veils aligned with one of his eyes. His lone visible eye locked onto the other man’s, and the two of them gazed at each other for a beat.
+
+He’d known the man was following him for some time now, though he’d pretended to be ignorant. This man, whoever he was, hadn’t felt particularly powerful to Rhys, so he wasn’t surprised that he wasn’t facing the terrifying giant Mouse had described, but rather a wiry figure in green robes with a snake swirling over them. The wiry man perched in a nearby tree, leaning against its trunk lazily, one leg dangling down, the other propped on the branch. From his pose, Rhys would’ve thought he’d been sitting there all along if he hadn’t been tracking the man’s mana signature for the last half hour.
+
+It turned out that hanging around Mouse was a great way to train his passive detection abilities. It wasn’t as though he’d been actively trying to sense Mouse all the time, but he did sometimes try to find or sense her, and even when he didn’t actively seek her out, the same part of his mana sense that passively kept track of everyone and everything magical around him had been passively tracking Mouse, to the extent it could. On top of that, he’d had every single mage under his leadership learn a mana-signature suppressing or disguising skill. There wasn’t a single person around him that wasn’t suppressing their aura to some extent or another at all times, and yet, Rhys had been casually using his mana signature to detect them this whole time, subconsciously straining a little harder than usual without realizing it. As a result, even though he hadn’t noticed, his mana senses had become extraordinarily sensitive to low-grade, disguised, and hidden signatures, and the man in the tree now was no great talent, so he’d stood out to Rhys like a beacon.
+
+It was honestly a little embarrassing how easily he’d picked the guy out. If he told the man, he imagined Mr. Snake Robes would be mortified. Still, he wasn’t here to brag about his mana senses, so Rhys arched a single brow, as if he was trying to suppress a reaction, when really it was the opposite: he was trying to express a reaction.
+
+The effect of arching one brow was diminished by the veiled hat, but that was the price he had to pay for fashion.
+
+At last, it registered that the man had asked him a question and expected an answer. Rhys knew why he was here, and he knew what he was going to do, but to the man and the rest of the Water Syndicate, he was just someone wandering in the woods in gloomy robes. He was so laser focused that he’d forgotten that from outside, there was nothing at all to indicate anything special about him.
+
+He cleared his throat. “I’m merely a jolly fellow wandering through the woods. Is there a problem with that?”
+
+Knowing what they’d done to Lira, he knew the answer, but why not play along?
+
+Snake Robes clicked his tongue. “Really. A stray merchant, lost from his caravan? Or are you a student from one of those military academies, full of righteousness, who just happened to get lost down this ravine by total happenstance?”
+
+Rhys raised his brows. A certain tampon-looking white-haired student with far too much righteousness for someone who scooped the cores out of people with all the dexterity of a drunken monkey came to mind, and he gave Snake Robes a look. “What if I was?”
+
+Snake Robes snorted. “Then I would advise you to find another route. You aren’t ready for this one yet, child. The Empire doesn’t care as much about your bones as you think it does. You’ll rot here with all the rest, and there will not be a military force that comes down upon our heads to eradicate us. The Empress has her hands full with the war. That Sword Saint of theirs was more powerful than she expected, apparently.”
+
+“Oh?” Rhys quickly repressed the excitement that welled up at hearing that the Sword Saint was still alive. It wasn’t as if he’d doubted it. If the Sword Saint died, he was pretty sure the rest of their region would go belly-up pretty quick, and there’d be no war, no more work camps, no more fighting. The Empress wouldn’t be distracted by the fighting, and she’d focus on consolidating the territory she’d taken instead. Rhys would suddenly find his little chips and fries operation far more scrutinized than it was during wartime, and his dreams of taking down the Empire from the inside would grow far more distant, without the external pressure of a war to cause damage from the outside at the same time that he damaged the inside.
+
+Why am I pretending? I’m just glad that Bast is still alive. If the Sword Saint was alive, then his apprentice was almost certainly alive as well. If the Sword Saint was dead, then Bast was definitely dead as well. It wasn’t as if the Sword Saint being alive guaranteed his friend was, too, but the odds went up. Way up. Way, way, way up.
+
+It was very like him to get analytic when faced with something so emotional. His and Bast’s relationship was… weird, to say the least, and he hadn’t been lying when he’d explained it to Az, but to say it wasn’t as genuine as it was calculated was…
+
+No, or rather, the calculation is how I explain it being genuine?
+
+The end result was, he didn’t want Bast to die. And he really would do everything in his power to keep it that way.
+
+“Why are you smiling?” Snake Robes asked.
+
+Rhys touched the edge of his hat. “You really wouldn’t believe me.”
+
+“Try me.”
+
+Instead, Rhys drew his sword. An unbroken one. The broken one stayed close at hand, hidden in his robes, but that was for later. For now, he was going to commit to the bit. A wandering swordsman who’d stumbled upon the ravine and decided to dispense a little justice. And since Snake Robes had so kindly reminded him that ‘wandering swordsman’ wasn’t really a thing that happened in the Empire, it was time for a little improv on his backstory. He wasn’t just a wandering swordsman, but a dissatisfied military student who was here to impose his righteousness on this ravine by dressing up as a wandering swordsman.
+
+To himself, Rhys thought, Who would’ve expected all my time roleplaying and playing DnD would come in handy? As a chronic lazy asshole who couldn’t be assed to make a character ahead of time, he was the number one most skilled at adapting his backstory on the fly—a truly trashy skillset that had most DMs suspicious of him not putting in the effort, if they didn’t figure it out and become outright enraged instead. So today… today, he was Evil Laurent, and Evil Laurent was here to impose Lawful Good upon all the evildoers, and probably suck their cores out, too, while he was at it. In the name of the law, of course. And righteousness, or whatever.
+
+I promise I’ll do it more gently than the real Laurent. Not that anyone here will survive the experience.
+
+Snake Robes raised his brows. He unwound from the tree and dropped soundlessly to the ground, almost like a snake uncoiling from a branch. “You’ll regret this, kid.”
+
+He waggled the sword in a really vague approximation of the way Laurent had opened his volley in their duel and grinned, knowing Snake Robes couldn’t see it past all the veils. “En garde.”

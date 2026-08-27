@@ -1,0 +1,199 @@
+---
+id: 70930d76-0eef-587a-9bfd-ff197e16a82c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24"
+slug: 0024-chapter-24
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 24
+ownLength: 3334
+unit: words
+publishedAt: 2025-11-24
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2789449/chapter-24"
+royalRoadId: "2789449"
+---
+
+Chapter 24
+
+Veron shivered in the mess hall of the Willard inn. Breakfast was oatmeal with dried fruits and some honey. That and freshly baked sourdough bread. He felt as if he could flow into the warmth and smell of his food.
+
+“You look like a happy child,” Silvie said.
+
+“Let the man enjoy his breakfast,” Hayden said. He had gone with bread, butter, and sausage.
+
+Veron waited for the others near the entrance after they were done with breakfast and preparations. His armor was in good condition, his shield and spear at the ready. Six stone knives were half-embedded in his armor. He wore his torn Greyr cloak and his backpack. Additionally, he carried five smooth rocks he had shaped into something akin to arrowheads. His accuracy wasn't as good as with a round and more solid chunk of rock but considering he didn't have the kind of magical power to turn a smooth sphere of rock into a cannonball quite yet, he thought them his best option.
+
+The others joined him armed and armored, helmets on for the first time since they had arrived in Anvakar. Hayden’s armor looked a lot smoother than back on the trail to Perrion and Silvie had a new leather piece protecting her arm.
+
+“Veron, as we will be traveling through the Crypts, I got you something to deal with the skeletons. Should work better than your spear, at least until we get to the Gutter,” Hayden said and revealed a steel mace with a dark wooden handle. “Simple and easy to use. Considering how you’ve fought with a spear, I thought it a good addition.”
+
+Veron looked at the weapon. “Really? Just like that?” He took the mace and felt its weight. It felt smooth and comfortable and yet he couldn't help but miss the connection he felt to the stone of his spear. But if they were going to face actual moving skeletons made of bones, he saw how a mace would be useful compared to a spear. “I appreciate the thought. How much do I owe you?”
+
+Hayden waved him off. “Consider it an investment in the team. Wouldn't want you being ineffective.”
+
+“He's just happy to finally have another warrior fighting next to him,” Silvie said.
+
+Hayden didn’t comment.
+
+“Everyone ready then?” Reka asked.
+
+Veron nodded and they stepped out into the morning.
+
+It was cold. Snowing. Windy. And he wore a torn leather cloak with barely any padding over his cold stone armor and simple clothes. “Are you sure it's going to be warmer down there?”
+
+Silvie laughed and even Reka smiled. They looked to be cold too, wearing the same armor they’d worn throughout their journey without any additional layers to protect against the cold wind and snow.
+
+“Let's move quickly before someone gets a cold,” Reka said.
+
+Silvie cackled and Veron rolled his eyes.
+
+Adventures not taking colds seriously. Maybe I overestimated their experience, he thought with some sarcasm.
+
+The brisk walk helped, the Silver Wolves quickly moving through the city and soon reaching the big hole, the big asshole, the abyss of Anvakar, the grand dungeon.
+
+Veron looked down the side of it as they waited in line for one of the simple elevators, a few adventuring teams going down before them. It was easy to spot which of them were the more experienced, even without the clearly visible gold badges they wore on a necklace or on their armor. Five people, all of them human. Two of them wore dark red scale armor, one heavy white plate, another mere leather, and the last wore light blue, near white robes and a reasonably large hat of the same color.
+
+He wondered if the robes had some magical property that would help protect its wearer. The five were engaged in quiet conversation and then their elevator arrived, taking them down into the darkness.
+
+The next group was considerably more antsy, one of the four men talking excitedly while another one listened, the third stared into the distance, and the last looked down into the hole. They all wore iron badges and had simple leather armor that showed damage and use. Veron was pretty sure he had seen them earlier at the Willard Inn. Or a few other teams that looked exactly like this one. They too were soon sent down into the dark.
+
+And then it was their turn, Veron grabbing on to the steel chains holding the simple metal platform. It was moving quite a bit at his weight and he nearly got woozy when he looked down. The tiny railings slightly caging them in didn’t help all that much.
+
+What am I doing?
+
+He breathed consciously.
+
+You’re going down into the hole.
+
+That’s a wonderful idea.
+
+The others joined and both their calm and amusement at his obvious discomfort helped him relax a little.
+
+Reka handed a few silver coins to the two people operating the lift. “Lowest floor.”
+
+“Gotcha, miss,” the man looking like an adventurer himself said and kicked the mechanism that held the chain.
+
+Veron held on as they descended, faster than he would have liked. They went past torches and broad stone archways leading into dark corridors. It felt both longer and shorter than while they were waiting, but they arrived at the very bottom of the pit without the lift breaking or anyone falling.
+
+The others jumped off and so did Veron, Lanterns strapped to Reka’s and Hayden’s packs illuminating the surroundings. Reka pulled on the elevator platform twice to signal that they had arrived. It started pulling up a few seconds later.
+
+Veron had to take a moment to steady himself, confused when he saw the many bones on the stone floor. There were glass shards too, splattered rotten food, and other trash. He narrowed his eyes when he saw the shape of a person between everything else. “Is that?”
+
+“The Guild cleans up from time to time. Maybe he fell from the chains,” Hayden said. “Many who can’t afford the lifts have no choice but to climb down instead.”
+
+Veron had seen the chains fastened to the railings at the top. He glanced back at the shape in the dark.
+
+“Or he stole from the wrong people,” Reka suggested. “Let’s get moving, before anything lands on us.”
+
+It didn't sound like she was making a joke. Veron looked up and saw the gray sky at the top of the spherical tube. It was warmer here already. The snow didn't reach.
+
+There were a few light sources from other adventurers moving in the dark but as soon as they reached an arched entrance leading to a corridor into the depths, they were on their own.
+
+“Hayden and Veron at the front. Steady now, and stay focused. Monsters in the dark,” Reka said, taking out her wand and unsheathing her sword.
+
+Veron gripped his shield and mace and walked with Hayden, his lantern piercing a few meters into the dark. Then they were off, the only sound their steps. There was dust on the stone floor, cobwebs visible on the arched ceiling of the broad hallway. Burnt out torches remained in the metal holders affixed to the walls. They reached a simple wooden door at the end of the corridor which Hayden checked. It wasn't locked and beyond was a stone stairwell leading down. Veron heard quick scraping noises from below and looked at the others.
+
+“Dogs or rats,” Reka whispered. “We’ll use the door as a choke point.”
+
+“On three,” Hayden said and counted down, then he struck the door with his hammer.
+
+Immediately, a few screeches came from below and the scraping sounds changed to that of scuttling feet. The first rat rushed up the stairs a moment later, as large as a dog. Hayden brought down his hammer and squashed the jumping creature. Four more had reached the stairs, rushing up without concern for safety. They looked starved, missing patches of their fur, cuts and wounds visible when they reached the light of their lanterns.
+
+Veron lowered his round shield to block a jumping rat, striking low with his mace to catch another one. He stunned it with the strike, another one jumping over, caught by an appearing chain. Veron aimed and struck, his mace crushing the creature’s head. He finished the dazed one with another hit. More rats kept coming.
+
+Veron killed more of them. Sweat rolled down his back. His arms felt heavy, his strikes no longer as quick or as brutal, the rats climbing over each other to get to them.
+
+“Switch,” Silvie called and tapped his back.
+
+Veron gratefully stepped back and she took over, stabbing into the slowly advancing and stumbling creatures with her two swords. It stank of blood and sweat, wet sounds coming from the steel hitting or cutting fur and flesh. Veron tried to catch his breath, wondering if he should switch to his spear to support the others but there was not enough room in the doorway anyways. A minute later, the sounds died down.
+
+Hayden and Silvie waited in silence for another few minutes, catching their breaths before Reka spoke up. “Pull the dead back. Then we shut the door to lay them to rest.”
+
+Silvie covered Hayden as he pulled and threw the corpses back. A few were too low on the stairwell or had fallen down. He left them there and closed the door.
+
+“Sixteen,” Reka said. “Another four below. Hayden, your call. I keep watch for you three, then do mine.”
+
+Hayden looked over the dead creatures. “Even split.”
+
+“Works for me,” Silvie said. “Four each, let’s get moving. It stinks.”
+
+Veron didn't complain either. He supposed these rats couldn't be holding a lot of essence. They had won decidedly, but the choke point was what had really made the fight easy. If they had been surrounded and nervous, he could see there being a few injuries or worse. Veron thought about the iron team he had seen up at the elevator, wondering who or what they were facing down here. He carefully moved his four rats and set them down next to each other. He had no idea what exactly he was supposed to do with them. Veron wanted to bury them but that wasn't exactly possible here. Instead, he closed their eyes and moved them into positions that seemed as if they were resting. Then he took some pebbles, connected to them and grinded them down into fine powder with his magic. He felt the depth then, the depth of the dungeon. The weight of it. As if they were closer to the center of Renavor. Gently, he marked the dead with the stone powder, rubbing it into the fur near their brows with care.
+
+He felt a pulse and closed his eyes for a moment and then he opened them again to look at the stone corridor bathed in faint warm light. The corpses were just that, their life and essence gone.
+
+Silvie wiped away the runes she had drawn into the dust around the rats, and Hayden got up from his kneeling position, touching his lantern that he had dimmed to speak his prayers. Veron realized he hadn’t heard them.
+
+That’s why Reka kept watch.
+
+She now started to draw runes around her rats as well.
+
+I guess there's always a consideration of when and where to do this. I doubt everyone is as levelheaded as Reka. Especially if they’re excited after a tough fight.
+
+When Reka was done, they carefully advanced down the stairs. Nothing else was waiting for them and so they pulled the other four rats up and laid them to rest as well. Then they moved on. The stone ceiling on the floor below was low and they had to crouch. Veron spotted what looked like sewer grates. There were forking paths but Hayden and Reka led the way without pause. They waited in front of a passage so low, they would have to crawl through it. The floor was slightly moist.
+
+Silvie went first, her leather and metal armor not making as much sound as Hayden’s or Veron’s would. She called to them with a whisper and they followed, reaching a dark hall with stone pillars rising to a high ceiling that the light of their lanterns barely managed to reach. There were nooks in the walls here where mummified remains lay covered in dust.
+
+“Quiet now,” Reka whispered and they moved on.
+
+Veron tried to build a mental map of the dark corridors and silent halls that they passed but he wasn't confident in his ability to retract their steps entirely. When they passed into another hall, something whistled out from the dark, an arrow glancing off Hayden’s armor. Movement erupted around them, skeletal figures coming out of the dark corners of the hall.
+
+“Together! Retreat slow!” Reka called out.
+
+Her call took him out of his frozen state, Veron staring at the dark and hollow eyes of a fractured human skull. No heart beat within the empty rib cage of the dead, and yet it moved. Stilted as if animated, and then smooth as if alive. It held a spear much like his own and struck forward. Veron raised his shield on reflex as he had so many times before, the weapon scratching past. He retreated the way they’d come, the ambush and attempt to surround them pushed back as materializing chains stopped a few of the skeletons, a charging one pushed back with a shield bash from Hayden.
+
+“Through to the last hall and then right,” Reka said, her voice calm.
+
+They retreated and the skeletons followed. Veron realized they retreated to the previous hall to break line of sight from the archer, himself standing next to Hayden as Silvie started summoning her wolves from the dry stone floors of the crypt. He tried to reign in his fast breaths and grit his teeth when the first skeletons came through the doorway, wielding rusted and chipped short swords and simple spears.
+
+“Hit them center mass,” Hayden said and advanced, parrying a fast sword strike before his hammer shattered into the rib cage of one of the monsters, its bones exploding outwards with the strike. He struck again as wolves rushed in to bite the legs of the skeletons, a blood lance rushing past.
+
+Veron went to the first one in front of him, its empty eye sockets looking towards the wolf pulling at its leg. He swung his mace and struck what felt like some kind of force. The skull turned his way in a fast motion and he found himself face to face with it.
+
+“Hit it!” Silvie called out.
+
+And he did, bone breaking as his mace struck the strange creature. This time, the force gave and a strange and barely visible wave flowed through the bones before it fell, bones falling apart with nothing holding them together anymore.
+
+A sword struck his left arm but it failed to cut through his stone. Veron took a step back and raised his shield. The next strike, he blocked, not parried as expertly as Hayden had, but it did create an opening. He hit back with a wide swing and then walked forward, striking with his heavy shield to push the skeleton back. Another two hits and it fell like the one before.
+
+Hayden was facing three of them, on the backfoot as he kept them at bay with his shield and hammer. Veron was about to help when chains caught the legs of two of them and Hayden moved, his shield arm glowing with white light before he slammed it into the restrained enemy. Bones exploded outwards, falling in the hall with clattering sounds. He brought his hammer down on the next.
+
+Veron joined Silvie instead, coming in with his mace when she deflected a spear. They moved in and out, her focusing on defense and parrying, him on delivering heavy blows.
+
+When two archers finally walked through the arched doorway, Hayden charged them with his shield raised, sending one of them sprawling to the floor and ending the other with a single heavy strike of his hammer. He walked over to the second one and killed it too, returning the hall to silence.
+
+Veron caught his breath again. That was the main thing he noticed between himself and the others. They looked tense but ready, their strikes deliberate and heavy. All the while, he felt like he was barely keeping up, feeling spent already. His weighty stone armor and his shield kept him in the fight, as did the small call outs by the others and Reka’s experienced lead.
+
+“Claim and lay to rest. Hayden and Silvie first, then me and Veron,” Reka said.
+
+They claimed without arguments and Veron watched the dark entrances to their hall as Hayden spoke his prayer and Silvie whispered quiet incantations. Then it was his turn. Three of them, which he arranged, arms across their chests, small rocks placed on their skeletal hands. He went down on his knees and touched the stone floor with his palms, closing his eyes as he connected to the earth below. He breathed deep. The air was stuffy, cool, and moist. It smelled of bone and sweat and yet he felt as if he truly breathed in for the first time in his life.
+
+Was it the essence? Or the dungeon?
+
+Veron blinked his eyes. It was done. And this time, he felt different.
+
+Elemental Path [Modest]- Harmony of Earth [Novice II]- Harmony of Wind [Faint III]- Hidden Harmony [Faint I]
+
+- Relic slot [Empty]
+
+Standing up, Veron felt calm and rested. The shield and mace in his hands felt lighter, the stone armor he wore still cumbersome, but less so than before. His Focus had changed too. Or it was changing still. He could feel it. As if he could feel the depths of the stone he wore and held, and stood on. He breathed in deep, and smiled. “I’ve advanced to Modest.”
+
+“That’s my guy,” Hayden said and tapped his arm with his hammer. “Now you’ve earned that iron plate.”
+
+“Good,” Reka said. “We celebrate when we’re back out of the dungeon and still alive. Drink and eat, then we move on.”
+
+“I’ve got a relic slot now?” he asked.
+
+“Comes with being at Modest,” Silvie said. “Now you can save up for something, but don’t get your hopes up yet. They’re expensive.”
+
+He nodded along, and he could already think of a few questions. Either way, he wouldn’t even want a relic. He wanted to focus on his own Harmonies, and even with that, he had to split his available Focus two ways.
+
+Veron drank deep from his canteen, and he ate some bread and cheese. Then they went on, through more dark halls and corridors, crouching and crawling where necessary. By now, he was pretty sure he wouldn’t find his way back through the Crypts. He had seen the map at the Guild, but now with all the stairwells, decrepit ladders, and small climbing sections over rock that they passed, it slowly sunk in how massive this place really was. When they were back, he decided he would have to study.
+
+They faced another small swarm of rats, and they fought two greatsword wielding skeletons, though this time it was them who surprised the creatures, making the fights quick and simple. Veron didn’t exhaust as quickly either, feeling as if his strikes were more deliberate, and stronger. More so in the second fight.
+
+Slowly, it got warmer too, sweat dripping down his face and back when they reached what looked like a massive metal pipe large enough to walk through. Murky water flowed lazily downwards into the dark.
+
+“We reached our transition,” Reka said. “Three hours is my estimate. Hayden? Silvie?”
+
+“A little less, but close enough I think,” Hayden said.
+
+“Yep,” Silvie said and glanced over at Veron. “Training is over. Let’s go to the Gutter.”

@@ -1,0 +1,107 @@
+---
+id: 9173baf3-3d24-5640-b867-176e84f0f518
+page-type-slug: story-chapter-royal-road
+title: "239. Not Today"
+slug: 0239-239-not-today
+partOf: god-of-trash
+position: 239
+ownLength: 2059
+unit: words
+publishedAt: 2025-11-24
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2789987/239-not-today"
+royalRoadId: "2789987"
+---
+
+For reasons that Rhys thought were entirely reasonable, he didn’t take the insane bug monster several realms higher than him through his secret teleport escape holes, but instead took him the long way back, through the ice and the snow. It wasn’t as bad going back as it had been coming out, thanks in part to him knowing the route and how long it was between places, and in part to his much higher cold resistance thanks to his training on the way out. For Sid’s part, the bug man didn’t seem ruffled at all, even though his form-fitting robes looked like they were made of silk or some equally fine fabric, so thin they danced on the wind. Then again, he was significantly stronger than Rhys to the point that Rhys couldn’t tell what realm he was, so that wasn’t exactly shocking.
+
+Sid drew ahead of Rhys, walking across the snowy wasteland with an odd, gliding gait that almost made it look like he was floating… or walking with a thousand tiny legs, one or the other. With a significant distance between them, Rhys glanced at the empty air. “Hey, Daran.”
+
+“Yes?”
+
+“The Remnant Weapons are your… you know, leftover products, right? Defective and such. What were the non-Remnant Weapons like?”
+
+Sid was terrifying. Straw, in his full form, had been terrifying. If they were the defects, what were the real things like? The thought had been floating around Rhys’s head, and now that Sid had created a little space between them, he was free to ask it.
+
+“Defective? Who said that?”
+
+Rhys looked at him. “Huh?”
+
+Daran shook his head. “The Remnant Weapons aren’t defects or ‘leftovers,’ whatever that means. I didn’t make that many living weapons. Even one is a significant investment of my mana, research efforts, materials, and so on. ‘Remnant’ just refers to the fact that these are the ones who survived my fall. The ones who remained alive after the end of the battle.”
+
+“The Alliance said they were defects,” Rhys commented.
+
+“Typical propaganda. They don’t want the peons to panic about my full-powered, strongest living weapons walking around the Alliance. And… think about it.” Daran leaned in conspiratorially. “If they survived the grand showdown with the entire Alliance and the Sword Saint—the real one, from back then—they’re not the weak ones.”
+
+Rhys raised his brows. He hadn’t thought about it from that perspective, but now that Daran had brought it up, it made a lot of sense. If they’d survived the Alliance, the entire war, they were either ridiculously lucky, or ridiculously powerful, so strong the Alliance couldn’t rout them. Or, most likely, some combination of both.
+
+“They probably fled after I lost to the Sword Saint,” Daran mused. “I took her down with me, at least. I wasn’t sure at the time, but now that I can look back, I’m glad. If she’d survived, she would have easily routed the remaining weapons. With her dead, they had a chance to escape.”
+
+Huh. If the Sword Saint had survived, Bast would be stronger, because the current Sword Saint would have the teachings of the previous Sword Saint, but if she had survived, she would have killed Straw, and Bast would never have had the opportunity he did to meet the Sword Saint and learn directly from their strongest swordsman. Thus, due to her death, Bast was weaker; but due to her death, Bast was able to grow strong. If she hadn’t died, he would have never met the Sword Saint; because she died, he was unable to learn the true teachings meant to be passed down by the Sword Saints. It felt important, somehow, but Rhys couldn’t quite put his finger on why. It’s karma? An ouroboros? Fate?
+
+He sighed aloud. “What a twisted situation.”
+
+“You’re telling me. Damned Alliance.”
+
+Rhys glanced at him. “Sid feels strong, though. At least at the same realm as the current Sword Saint. The previous Sword Saint was that much more powerful, that she could easily crush Sid and Straw?” Straw hadn’t been any slacker, from what little he remembered of the few moments he saw Straw’s full-powered form. It was the nature of higher-realm mages to crush lower-realm mages, but if they were at the same realm, then surely that wouldn’t be a one-sided rout.
+
+Daran gave Rhys a deadpan stare. “It’s been hundreds of years.”
+
+Rhys nodded, suddenly feeling stupid. Right. Of course. Everyone in this world could grow and become more powerful. If he’d achieved Tier 4 in under a decade, surely Sid could climb from… whatever tier he’d been back then, to whatever tier he was now. He could have been weak enough for the old Sword Saint (another figure he didn’t have a strong understanding of the power level of) to rout him back then, and also powerful enough that he could oneshot her (or at least the present Sword Saint) now.
+
+Time had passed. Sid had doubtlessly trained, or at least slaughtered, since then, and consequently grown in strength. It didn’t take a genius to figure that out.
+
+They continued over the ice. Rhys left Sid a respectful distance, and Sid seemed to appreciate that. The bug man never drew too far ahead, nor waited for Rhys to arrive. The two of them existed within eyeshot of one another, and that was good enough. It wasn’t like Sid was worried about Rhys, or vice versa; it was an escort quest, but what if the escort could wipe the floor with you and also moved at twice your speed.
+
+You know, that would make escort quests not suck. Video games should do that, Rhys thought, nodding to himself. Though then it might be less of an escort quest, and more of a chase scene. After all, there was no tension here, and nothing really for him to do but to follow along after Sid and make sure he went to the right place. If it was a video game, and he was ‘escorting’ Sid, he’d just be in an elaborate walking sim; if enemies attacked, Sid would have an easier time fighting them than he would.
+
+Then again, it’s not so bad to have a chill game with chill quests every now and again. It wasn’t really his thing, but even an rpg/action/strategy games fan like himself could appreciate a good sim or cozy game every now and again.
+
+Up ahead, Sid stopped. He had done it a few times before, pausing for no apparent reason that Rhys could discern, but he always moved again before Rhys caught up. This time, though, he remained frozen, gazing off into the distance until Rhys drew level with him. He glanced over and nodded, then lifted a pale hand and pointed a black-painted finger into the distance. “The beasts gather.”
+
+Rhys turned, following where he pointed. Off in the distance, so far they were almost backdrop, rolling white hills dominated the landscape. He squinted, struggling to see the beasts Sid indicated, but even his mage vision struggled to make anything out. He shook his head. “I don’t see them.”
+
+Sid glanced at him and continued pointing. Rhys kept looking. What am I supposed to see? Sid thinks it’s obvious, but what does that mean? Maybe my eyes aren’t good enough, or—
+
+And then the hills moved.
+
+Rhys stared, suddenly comprehending. The hills—all of them—were the beasts. That line of rolling hills that split the world in half, completely dominating the horizon, was made up of some kind of large, furry creature. From this distance, that was about all he could make out: large and furry, huge mounds of flesh covered in thick white fur akin to the snow itself. Their bodies melded together, and melded into the snow in equal measure. Whether they were thick or thin, tall or squat, round or angular, that was all lost in the distance; but they were immense, and immensely powerful. These were the things the Sword Saint had been summoned to put down.
+
+“Are we in danger?” Rhys asked.
+
+“I’m not.” Sid paused. “We should hurry.”
+
+Rhys nodded and sped up, taking off at a run. Sid stood there for another few moments, watching the beasts, then followed him at what appeared to be a leisurely glide, though he easily kept pace with Rhys.
+
+They ran. The tundra whirled by, passing so quickly that it all became a white blur. The hills on the horizon slowly crept forward, encroaching their rear view. They were moving fast, but so were the beasts. The beasts were slowly but steadily gaining on them, and over the course of a few hours, the hills drifted forward.
+
+As the beasts grew closer, the earth began to tremble beneath them. Cracks split the ice, thin at first, but quickly widening. From paper-thin lines to the span of Rhys’s palm, to nearly as wide as his forearm was long, to wider than he was, they cracked open deeper and deeper. The ice thrummed rhythmically to the beat of the beast’s footsteps, the vibrations growing stronger and stronger until they resonated through his very bones.
+
+A thought came to Rhys, a few hours into them running, and he looked around for Sid. Sid had drawn slightly ahead, and Rhys sprinted forward to catch up with him. “Lord Ravin is hiding in the ice worm caves. Will he be safe down there?”
+
+“The beasts don’t burrow,” Sid said, as if it were obvious.
+
+“No, I mean… will the ice cave in? Crack?” Rhys gestured at the ice all around them, trembling and riddled with holes. As if to prove his point, a great chunk of ice suddenly broke free and tumbled into the darkness of the deep ice below.
+
+Sid stared, then shrugged. “If Lord Ravin did not reinforce his ice caves, I cannot be blamed for his sudden demise.”
+
+I need his information, dammit! Rhys thought, but didn’t speak it aloud. Lord Ravin seemed like a scumbag on a personal level, what with him running around on both his lovers, and also a scumbag on an inter-regional level, since he’d been plotting to invade the Alliance. It might not be such a bad thing if he died, and it wasn’t like Rhys was that desperate to hear this information… it had just been the best lead he’d had. He could always find another, though he’d be super annoyed if this all came to nothing.
+
+Eh. At least if he’s giving me the runaround, I can sic Sid on him. The only dissatisfying way this ends is if the beasts kill him without me ever seeing his face again.
+
+With both of them running, they crossed the ice in record speed. They’d already been walking for several days, so before long, the snow drifts and ice crags began to look familiar. Rhys glanced back. The beasts were close, but still far enough away that he couldn’t make much out, aside from them being large, muscular, and covered in white fur. Their body shape was akin to elephants or wooly mammoths, but he couldn’t confidently say that they were mammoths, since he still couldn’t make out their faces or any features of their bodies.
+
+“Over there—he’s down there,” Rhys called, pointing out the hidden hatch into the ice.
+
+Sid looked at him. “You want us to test if his tunnels are reinforced with our bodies?”
+
+“You’re strong. Surely you can reinforce the small bit we’ll be standing in?”
+
+“I could.”
+
+“Will you?”
+
+Sid looked at Rhys. “I will survive.”
+
+Not the answer I want to hear. Rhys took a deep breath. They couldn’t stay in front of the mammoths; eventually the beasts would catch up to them. He could fly over them, but he didn’t know if that would provoke them. The herd gave off a high-tier aura, high enough that any human mage would be able to fly, and he didn’t know if they had magical or ranged attacks, either. If the herd attacked him, he wasn’t at all confident that he’d survive. Better to avoid provoking them.
+
+I’ll just have to do my best. Worst case, he could escape into the void, but… He grinned, a little of his excitement to train his magic welling up once more. This seemed like a prime opportunity to train, and he knew just the skill to practice with.

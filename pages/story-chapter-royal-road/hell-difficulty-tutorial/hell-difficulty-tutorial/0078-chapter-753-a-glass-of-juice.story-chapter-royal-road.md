@@ -1,0 +1,187 @@
+---
+id: bb8277e6-9d7f-5f86-9a86-7ebad084e751
+page-type-slug: story-chapter-royal-road
+title: "Chapter 753 - A glass of juice"
+slug: 0078-chapter-753-a-glass-of-juice
+partOf: hell-difficulty-tutorial
+position: 78
+ownLength: 3059
+unit: words
+publishedAt: 2026-02-17
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3066076/chapter-753-a-glass-of-juice"
+royalRoadId: "3066076"
+---
+
+Another piece of metal ore gets pulled into Jean's hand, and he throws it. It breaks through the barriers, slowing down a little with each one, and even then, the fire shield melts it into glowing liquid metal, which begins to drop and fall across Sophie's body, burning through her skin.
+
+The same happens with another, bigger piece, and liquid metal splashes across Sophie's face, burning her lips and chin.
+
+Jean throws Blackie away again, and while pulling at the piece of stone Sophie’s standing on, he continues to throw anything that comes into his hand her way.
+
+And when it looks like the last piece will blow off her head, she disappears, only to be replaced with Blackie.
+
+Jean turns around, pulling Sophie towards him at the same moment stone spears pierce the ground under him. It almost looks like he will shrug it off, but I notice how different they are, much denser and more durable, likely having been prepared over the duration of the fight.
+
+They skewer Jean, a few of them piercing through his body, and yet even that doesn't stop him. Once again, he holds Sophie up by the throat.
+
+“I could have killed you instead of doing this, but I want to tell you one thing. Don't step in my way. You are only alive because of the deal I made with your friend.” He holds her throat as he continues to squeeze.
+
+“Yeah? Then come on and try to get me outside. I’ll take you down with me every time, you bitch” she hisses and puts her hand on his.
+
+Jean squeezes, and Sophie’s head pops from her body and falls down, followed by the body.
+
+Standing there, his expression turns blank. Then his hands start moving. He starts tearing off pieces of his body, revealing his rib cage, tearing out his organs, and throwing away one of his legs. In the end, he grabs his beating heart, which seems bigger than it has any right to be, and squishes it, disappearing from the event at the same time.
+
+Another challenger appears. The thylarin woman who just stares at where Jean was with a confused expression.
+
+The challenges renew with the rest of the group finally participating.
+
+Izzy wins against multiple Hell difficulty guys before she ends up facing Min-Jae, who exploits his longer range and spends the fight fleeing from Noodle while sniping both of them with a particular focus on Izzy. It ends up being one of the longer fights, but he does win in the end. He then goes on to win against another Hell difficulty thylarin before beating both Dennis and Aaron, one after another.
+
+When Maya gets her turn, though, he loses, even though he can throw bus-sized boulders at her like it’s nothing. He still can’t break through her dark blue armor, and by using Boost, she moves herself through the air as if she were leaping off the air itself. Then, at close range, he has no chance, even as he puts up a truly impressive fight.
+
+Maya gets to face Klara, the redheaded king of the 2nd round of Earth's tutorial. Both of them are nearly equal and seem to have a lot of fun before Maya just barely squeaks out loss in the end. Klara then gets defeated immediately by one of the stronger thylarin guys because of her wounds.
+
+For a few rounds, some other people get to have some fun. Gareth, Brainiac, Yama, and a few of the more powerful thylarin before Tess joins in.
+
+Then it is twenty wins for her in a row.
+
+The moment someone appears, she shamelessly puts a five-mile distance in between them, using her flight and speed to do so. And from that distance, she just snipes them down, either by just using Endurium javelins or, for the more dangerous opponents, her railgun-like attack. With impressive single-target piercing damage, barely anyone endures more than a few attacks, and with her talents, Tess saves a lot of her resources.
+
+There are fewer and fewer people as time goes on, and it becomes obvious the event is coming to a close when finally Savant participates as well.
+
+The moment he appears, he pulls out his Sword of Aeons and absorbs the movement of some of the floating pieces of the island and uses that kinetic energy to charge Tess, who continues to put more and more distance between them.
+
+Red and white lightning crackles around her hair and body as she moves from side to side, avoiding something I can't see from my place outside the event, and her projectiles often get their kinetic energy absorbed or deflected by his sword. Orange light starts ramping up around Savant, often shooting and expanding far into the distance in a single direction, which Tess is straining to avoid at all cost.
+
+And though she is trying to put distance between them, Savant proves himself just as fast, not allowing her to do so.
+
+“My power answers to me alone,” Tess declares, and multiple attacks shoot from her.
+
+This time, the man fails to absorb any of them. A javelin stabs into his side, and the one about to pierce his chest he deflects with his left arm, which he absorbed so long ago, along with its durable bones.
+
+Finally, Tess charges him with all the lightning pulled close to her body, her blonde hair flowing around her head. Her movements are fast and explosive, like a mix of Maya's trained martial arts and Lily's unpredictable brutality. In her arms, a spear made entirely of red and white lightning forms, and it continues to shrink and elongate as she needs to confuse her opponent.
+
+Meanwhile, Savant moves as little as possible and always does so as sharply as he can. His eyes don't seem to even blink as he wields his weapon and continues attempting to pressure Tess with his [Dawn].
+
+I continue to watch their fight as I stand up and gently set Biscuit back on the ground. I wave at the others and start walking towards my room.
+
+The door into the house opens with a creak, and I grab some snacks left on the table as I pass by.
+
+[Mana Manipulation - lvl 74 > Mana Manipulation - lvl 75]
+
+Reaching the stairs, I start walking up with the wood creaking under my feet just as Savant avoids another stab from Tess, dropping his sword in the process, only for the orange light to cover his arm. He swings at her, resulting in a splash of her blood pouring from the wound he’s caused.
+
+Lightning around Tess sizzles, burning off the blood and stopping the bleeding, and from ten miles away, a javelin comes flying. The one she’d been setting up even as they fought. It comes flying with high speed from behind Savant just as her hand touches his shoulder, and lightning stuns him for a moment.
+
+The javelin bores a hole through his chest and barely misses Tess, who immediately goes in for the kill.
+
+I open the door into my room, take the blanket off the two boxes on the ground, and sit on one of them. The conical metallic shape of the warheads always seems so eerie, especially now.
+
+On the screen, the second heart Savant absorbed finally beats. The one he hadn't been using until now, in an attempt to hide it from me. Thinking I wouldn't notice, though I saw through him the very moment he showed up here.
+
+That heart sends void energy through his body and reaches out towards Tess, tearing her lightning apart to her sheer surprise. Her hand slams against his neck, wounding it, but not killing him, as it now lacks any mana.
+
+The next moment, Savant moves his more durable left arm, finally killing her in the end.
+
+As she disappears, he stands there calmly and touches his neck while moving his head from side to side and checking his state.
+
+The next moment, Tacita appears inside, and all of that goes out of the window as he goes into full panic mode. His body turns to a blur as he damages his ligaments and muscles with the movement, and he barely dodges a slash through the air where he just stood. He doesn't even get a moment to breathe as she disappears, with just a glowing line tracing the air around her dagger coated in mana.
+
+Orange light explodes towards her, but this time her field doesn't seem to activate. She just steps through it as if it wasn’t there and totally outspeeds her opponent with a series of attacks ending with a dagger stabbed into his chest.
+
+Savant moves back, pulling it out and throwing it on the ground, and in the next moment, much more mana blasts out of him, all pulled from the sword he holds. And he pours all of it into powering his domain skill.
+
+Unfortunately, Tacita’s already vanished, nowhere to be seen.
+
+Like a stable light, that orange color of his [Dawn] fills the area when he locates Tacita. She is now two miles away, sitting on one of the smaller floating boulders and just watching him.
+
+Everyone must realize how crazy her movement is, especially as she uses no mana. It is different to use your Dexterity or mana for sudden bursts of high speed, but to keep it up for a longer period of time? And with such ease and no wounds at that? She’s the only person I have met so far who can do that.
+
+I don't even watch all that closely, as I'm sure of her victory, especially against her wounded opponent. Instead, I carefully pick up the warheads and set them both on the ground next to each other while I sit in front of them.
+
+The body upgrade, though still ongoing, isn’t as dangerous as it was at the start, and I push it into the background as I feed my mana into the batteries that have been placed in the metal cones and activate the logic cores, one after another. The entire setup around the warheads lights up and starts letting out a deep, barely audible hum.
+
+Savant, as expected, dies to Tacita’s dagger, and a new challenger appears inside after ten seconds of waiting, as no one else remains or seems willing to enter and face her.
+
+My sister in her full glory.
+
+A blink. A cut.
+
+Victoria’s head is sent flying, cleanly separated from her neck.
+
+The span of a heartbeat passes.
+
+A new body regrows from her severed head. A new head grows from her neck, too. Both Victorias move at high speed, forcing Tacita to dance around with her incredible movement speed to avoid both of the attackers. The pressure of that high speed causes the Victorias to break apart across the ground.
+
+From these pieces, five duplicates stand up, only for Tacita to turn into a blur. When she stops, all five duplicates break into cut off pieces.
+
+One Victoria regrows and smashes into the ground, causing a huge explosion, and the use of such a surge of strength breaks the body. From it, two duplicates reform, moving like a blur in between the falling pieces and running at Tacita.
+
+I force myself to take my eyes off the screen and continue launching the protocols and gathering more of the mana in my body. I continue to do my checkups and partially trigger my preparations, lastly performing one last test to see if what I have planned will work out.
+
+[Manifestation - lvl 29 > Manifestation - lvl 30]
+
+[Manifestation - lvl 30 > Manifestation - lvl 31]
+
+[Ley Line - lvl 69 > Ley Line - lvl 70]
+
+All seems well, and I allow myself to watch the rest of the fight, already knowing the result.
+
+As stubborn as she can be, Victoria is also a very logical person. If it’s not a life or death situation, she will never show her full capabilities, even when doing so might let her win. When we fought Lissandra, she must have noticed and understood how much Victoria was holding back. In the end, Lissandra called Victoria an Absolute candidate, and that says plenty.
+
+It is likely that Victoria didn't go into this fight with the thought of winning, so much as to gather more data on one of the most deadly attendees currently in any round of the tutorial. A future S rank, feeling like it should be nearly impossible for her not to become one.
+
+And Tacita just doesn't slow down, quite the opposite. The longer the fight goes on, the more she seems to be getting warmed up, increasing her speed even now as she supports her Dexterity with a small moment of mana use.
+
+Ten Victorias, all tearing their bodies as they overclock themselves to their fullest capacity and generate incredible speed and strength, barely cause her any trouble as she dances in between them. She throws daggers with perfect timing. She avoids attacks like she can sense them through her instincts, and she just does not slow down.
+
+One more Victoria regrows from one of the pieces, and for a moment, she stands there, looking at her opponent. Then Victoria nods.
+
+"I have lost," she says and leaves the event.
+
+The next moment, a final challenger appears. Adrian stands there, facing Tacita, who, for the first time, enters her camouflage and disappears from all senses and sight.
+
+Taking it as a signal, I go all in and activate the trigger I made. Once it is activated, it cannot be stopped, and it will cause the warheads to explode.
+
+Tacita's blurry movement comes to a halt just as she reaches Adrian. The field around her becomes visible and flickers out as she’s held in the air by that transparent red half-figure behind the man. She throws her daggers at him, but both of them stop mid-air as if they’ve just hit a wall and fall to the ground. Tacita almost hisses as she struggles to get away from the firm grip. It all seems almost dreamlike for her to get caught seemingly so easily after all of that.
+
+She swings with another dagger she pulls from her clothes, but it doesn't damage the figure at all. Her field fails to activate again.
+
+Adrian lets go of her, and she stands there, shocked, as her feet touch the ground again.
+
+No one can follow her as she bursts into motion at high speed and grabs the two daggers she threw at Adrian before. The transparent red figure disappears, and the man takes on a battle stance.
+
+It looks like time slowed down on the screen as I watch her reach him while swinging her dagger in a movement that’s hard to even perceive.
+
+Adrian moves his hand ahead and strikes her forearm, redirecting her attack. His other hand moves to the other side as he does the same with her other attack. Then, while she is thrown off balance, he moves at a burst of speed higher than hers. He moves in front of her and slams his fist into her belly.
+
+As Tacita staggers back, she seems to be falling down, but it’s more like she’s using the momentum of that to redirect her body to explode into another burst of movement.
+
+Before she can do that, Adrian reaches her again. One of his hands strikes her wrist again, causing her to release one of her daggers; which he then grabs and thrusts the blade into her chest in another burst of speed. Then the transparent red figure forms over him again and slams down with both hands with fingers woven together, and crushes the woman.
+
+I turn back to the warheads and fully release the trigger, and start counting down the seconds as the lights of the inscriptions start shining brightly and the hum intensifies. A high pitch starts ringing through the space in a constantly repeating rhythm that almost feels like a heartbeat.
+
+"Nathaniel, I'm here, waiting for you," I hear from the screen, the same as everyone else.
+
+I stand up and move towards the table from which I take a bottle of the juice they left here for me, pour it into a glass, and take a sip.
+
+Then, taking another sip, I look towards the screen and glance at the warheads. The light is now very bright, and the pitch might start to damage my ears soon. People outside begin noticing it too, and the rising temperature starts setting the room on fire.
+
+The glass in my hand cracks from the heat and breaks, spilling the juice on the ground, and I watch as the blanket burns while licking my fingers.
+
+I say towards the air, "Ruby, I know you’re probably watching, so just one thing. I have seen many people bring precharged attacks into the 4th event. For example, that thylarin guy who charged up his sword with oscillating mana or Maya pre-compressing her mana, and plenty of others. I can give you every example as I made sure to remember them. So, I count these two warheads as the same thing. You guys better keep it that way and make sure Diligence doesn’t try to say it’s against the rules and leave it outside."
+
+I take a step forward and come to a stop in front of the warheads as I say, "Otherwise, if they stay here, quite a few people will be blown to bits."
+
+Then I challenge the man standing in the arena through the tournament system notification.
+
+I appear in front of Chris, who smiles at me and then twists his head in confusion at the two brightly glowing warheads in between us.
+
+"What..." he doesn't get to finish as I manifest what looks like a transparent avatar behind me.
+
+It’s dark blue, but in places it is brightly light blue, with all the scars I now have showing on it. All my scars and all my constructs as well. My physique, my circuits, the pathways too. It’s densely covered in them.
+
+My manifested vessel through which I can channel all the mana I have, instead of forcing it through my weak body.
+
+Then, both of the warheads explode at the same time.

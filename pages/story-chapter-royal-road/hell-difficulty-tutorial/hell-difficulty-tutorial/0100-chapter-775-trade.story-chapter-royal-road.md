@@ -1,0 +1,135 @@
+---
+id: 0b859b0e-2722-5107-84b3-7bfbdcf07e64
+page-type-slug: story-chapter-royal-road
+title: "Chapter 775 - Trade"
+slug: 0100-chapter-775-trade
+partOf: hell-difficulty-tutorial
+position: 100
+ownLength: 2252
+unit: words
+publishedAt: 2026-03-19
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3170879/chapter-775-trade"
+royalRoadId: "3170879"
+---
+
+I gesture to Maya, and we start walking away, but a few seconds later, the burst of movement returns, and that ferret spawn of Satan appears at our side. It stands on its hind legs, golden fur matted with blood, and looks at us in confusion before letting out a cute squeak.
+
+“Yeah, he’s nearby,” I say.
+
+The evil little thing doesn’t even try to shake the blood off itself, it just seems happy. There are still bits of brain stuck to it as well, which it ignores. With its front paws, it stands on the eye of the boar it dragged here as a trophy. I watch the dead pupil as the ferret’s tiny nails carve deep lines into it.
+
+Then it squeaks a few more times.
+
+“No idea,” I say.
+
+When the ferret moves again, most of the blood slides off its fur, and it disappears into the distance, leaving the eye behind.
+
+“What did it ask?” Maya asks curiously while watching where it went with a furrowed brow.
+
+“How would I know? It always wants to find Biscuit, so I guessed that was the first question. The other is usually a request to kill something, or some statement of its desire to bathe in the blood of a hundred starving children or something similarly vile.”
+
+Maya shudders. “I swear I’ve never seen such an evil being.”
+
+“Yeah, vegans tend to be that way.”
+
+She almost bursts into a laugh, but holds it back. “Veganism doesn’t have anything to do with it. I have trouble trying to estimate its strength. Do you think I could deal with it?”
+
+I give it a thought before shrugging. “Probably? 50/50? It’s worse than that T-Rex, at least that guy seems to like mana.”
+
+Both me and Maya get messages through [Connection] and adjust our course.
+
+Though I take a bit of a detour and move closer to one of the dangerous areas than I should. I shield both Maya and myself from mana radiation over the next ten minutes as we approach one of the areas that most of the demons we’ve met tend to avoid as much as possible.
+
+We recognize it by the way the trees start getting shorter and shorter until, on our right, a view of the wasteland opens up. It’s an area in the shape of a perfect circle that no greenery will touch, and it’s, at least by Tess’s estimations, somewhere around 100 miles wide.
+
+I can’t see it all that well, but Tess scouted it out with her [Farsight]. According to her, the exact center of the area is what seems like the corpse of a monster no bigger than a mouse. Not some giant building sized mouse from the tutorial, but an actual earth sized rodent. From her description, the thing is blue and lizard like, entirely covered in scales, with four legs and a single eye in the middle of its head, which is now closed.
+
+It is also one of the few zones that even I’ve decided not to enter. By my estimation, that thing was at the level of a powerful Champion, approaching Absolute level, and it might actually be one of the “freshest” additions to this place. The problem is that within that huge area, everything seems to break down sooner or later, and all healing slows down massively. It might be one of the monster's more powerful traits causing the effect, or maybe even a fragment similar to Luan’s.
+
+I want to go there to check it out very much, but the one time I went in, it didn’t end very well. It ate part of my head and damaged my eyes for days after just a few seconds of trying to push deeper into the area, and that was still miles away from the body.
+
+Though even the sight of this area is interesting, and while I’d like to compare that tiny body to what remains of Septa on Earth´s moon. Both of them are powerful Champion grade beings, especially Septa, who served as the Ruler of Envy’s vessel and bond. Yet, that blue scaly corpse is something I could hold in my hand, while Septa is bigger than a country.
+
+“Why didn’t they chuck the body into a star?” I ask Maya, as she stands by my side, likely having similar thoughts as she looks into the area. “If they just wanted to get rid of the body, wouldn’t that have been easier?”
+
+“Maybe it’s simpler to create a portal to throw a body through or move it onto this planet rather than trying to get it to the sun? I mean, back on earth, there are plenty of trash cans and yet people will still just throw their trash on the ground because it’s easier,” she says.
+
+Not taking my eyes off it, I nod in agreement with her logic while I continue to think of it. Maybe this floor really is a show they’ve put on to teach us not to litter, the work of one of the more environmentally conscious Rulers. Yet I don’t think that’s the point. There’s something more fucked up going on here, that’s for sure.
+
+The Spawn of Satan himself picks that time to appear again. In swift, jumping movements, the ferret comes to a stop in front of Maya while standing on its hind legs. It tilts its head, and its big, black, beady eyes look up at Maya in the very picture of cuteness.
+
+For a while, I compare it to All Berries Fen’Thin Veal Corn Del Velveeta en Rice Pasta Val Carb Marinade and wonder how long it would take for this vile spawn of a creature to murder that spoiled noble lady's pet. Probably between one and two seconds. In a way, this thing is more fitting for the role the Cockroach likes to babble on about so often.
+
+"What do you want?" I ask, and its attention shifts from Maya to me. In two jumps, it reaches my feet and puts its front paws on my shoes while looking up at me.
+
+Of course, it doesn't answer, but it starts gently scratching the tips of my shoes. I know it can tear them apart, but it doesn't do that, instead, it just tries to get my attention.
+
+I sigh and say, "Same trade as before. And you first this time."
+
+It squeaks in joy and bounces away at high speed.
+
+"That thing creeps me out," Maya says, something I have heard her say many times before.
+
+"Wanna bet it’s one of the current Rulers?" I joke and start walking again. Soon, we’re back in the forest and out of view of the area that holds the last remains of that lizard.
+
+"What a disturbing thought," Maya shudders in reaction, but she doesn't have time to do more as she finally notices the three presences I’ve been feeling for a while.
+
+She steps ahead, her armor surrounding her, and faces down all three boars, each one as big as a truck, all on her own.
+
+When she is back, she says similarly to what I said before. "Wanna bet these are the babies of that colossal boar the ferret killed?"
+
+"Seems that way," I nod.
+
+The golden ferret returns ten minutes later and stops in front of me straight away while entirely ignoring Maya. In its tiny paws, it holds a shard of metal ore and drops it near my feet, but continues to hold it with one of its paws.
+
+Even as I bend down and start picking it up, the ferret excitedly moves around and helps me, even pushing the piece of metal into my hand. When I straighten up, surprised how light the ore is, it starts jumping excitedly in circles around me while I check the description.
+
+Volarite (Arcane) - A pale blue, porous ore that’s lighter than air when exposed to light or heat. Volarite also generates lift as it absorbs heat. Veins of this ore are often found on the ceilings of sunlit caverns, and if a piece is broken off outdoors during the day, it will simply float away into the atmosphere.
+
+"Interesting, but not really all that useful for me. Though it should be useful for Min-Jae´s floating island. Next time, try harder if you want more," I say. Then, under the impatient eyes of the ferret, I cut off my left thumb and throw it to the ground.
+
+In a flash of golden fur, the ferret grabs it. I watch it for a while, even as Maya says something behind me.
+
+The ferret presses the still warm finger against its face and rubs its snot against it. It spreads bits of blood over its face as much as it can before it starts stripping the skin off the finger. It snuggles against the bare flesh and then, after stripping the flesh down as well, against the bones. When it’s finally done, it leaves a mess on the ground, at which point it flops back and starts twisting its golden furred body to rub itself against the gore.
+
+Meanwhile, my finger nearly fully regrows in that time, even with the slightest bit of thermal energy combusting under my skin. My left arm always healed faster.
+
+Maya says something, but I gesture for her to stop and face the ferret, who’s finally stopped moving. Those tiny eyes glow excitedly in a deep state of happiness, but then it looks at what remains of my finger, and sadness mixes in. It jumps around a few times and, with tiny paws, scratches at the ground and the pieces of bone.
+
+Then, very slowly, it sniffs and turns to me.
+
+It stands on its hind legs, tilting its head slightly as its tiny tongue flicks out, then drops back onto all fours.
+
+The creature explodes forward like a railgun, barely more than a blur of golden fur, but I’m prepared, having gone through the same thing once before.
+
+[Redistribution] encompasses the area and then narrows to affect its tiny body only. A good chunk of the mana I gathered after "the trade" channels through me and powers the skill. The small golden body appears frozen in the air, just an arm's reach away from me, just a fraction of a moment away from burrowing into my stomach.
+
+The amount of gathered kinetic energy I absorb from its attempts to move is comparable to nearly any A rank I have met so far, and its speed is easily on par with most S ranks.
+
+Slowly, I say to Maya, "If it ever offers you a trade like this, reject it. Never take anything it brings you, even if it’s just a piece of wood, or a leaf, or something seemingly small."
+
+Taking a step, I move over to the ferret while I continue to restrain its movements. I do so until I feel no more attempts to move, and only then do I let go.
+
+The ferret drops to the ground in an almost comical way and squeaks in surprise. It jumps around a few times in what seems like a distressed manner and even lies on its back, cutely showing me its belly and squeaking.
+
+Then it jumps away again, rushing off into the forest, just like before, as if nothing ever happened.
+
+Watching it go, I wonder if I should kill it. But just like many times before, I decide to continue placing my trust in Biscuit.
+
+The old demon whose house we’ve finally reached lives in a small cottage that stands under an especially old-looking tree with white bark. The said tree is shorter than most, and its branches are twisted in ways that look almost creepy, extending far away. There are no leaves on these branches at all.
+
+The air here smells weird, and we haven’t seen any monsters in the last five miles. Even the T-Rex and the ferret stayed out of the area and refused to follow us in. My theory is that there’s some sort of domain here that isn't mana-based, or perhaps there’s some sort of item responsible. Maybe it is even one of the demon’s active skills. Honestly, there are just too many options.
+
+As we were told by the Dusk Horizon tribe, only the two of us move ahead while the rest stay behind. Me and Tess walk side by side until we come to a stop near the house at a place marked by a pile of rocks, where we take our seats on the ground. Tess puts a few items on a metal slate nearby. She sets out some food from Earth, clothes from Earth, a few miscellaneous items, and even some books and mana stones. Nothing too powerful, just interesting things that the old demon might not have seen yet.
+
+Then, after a few moments, the inscriptions on the metal plate start to shine, and all of the items are teleported away. Then we wait.
+
+"He’ll make us wait for somewhere around one hour," Tess says.
+
+"Nah, he’s never seen stuff from Earth. He even teleported them instantly instead of waiting. I give him ten minutes at most," I give my counter-bet.
+
+"If you win, I’ll join the Primordial Knights and deal with all the people stuff in your place. If I win, you will have to wear that gecko shirt for the rest of this floor."
+
+"Deal."
+
+Almost exactly an hour later, the old demon steps out of the house.

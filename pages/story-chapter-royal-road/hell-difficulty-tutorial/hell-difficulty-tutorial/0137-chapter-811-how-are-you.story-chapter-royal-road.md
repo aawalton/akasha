@@ -1,0 +1,187 @@
+---
+id: c94eaef0-8fec-5471-a329-eea039337634
+page-type-slug: story-chapter-royal-road
+title: "Chapter 811 - How are you?"
+slug: 0137-chapter-811-how-are-you
+partOf: hell-difficulty-tutorial
+position: 137
+ownLength: 2171
+unit: words
+publishedAt: 2026-05-24
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3441244/chapter-811-how-are-you"
+royalRoadId: "3441244"
+---
+
+“So, how are you, really?” I ask Dennis.
+
+“You aren’t going to ask about Aaron?”
+
+“I have a feeling everyone already did, multiple times, so I’m asking how you feel. And if you just smile, I will smack you. You know very well I mean it.”
+
+He scratches the back of his head as if remembering the 6th floor and the time we spent there with the twins, Lily, and Biscuit.
+
+“I think I want to go to Beyond. Sophie had some information on that, and I think I can trigger a personalized quest and get there,” he says.
+
+“Why?”
+
+“So I can actually feel like I’m doing something about the current situation? Aaron feels the same. Dennis still smiles and looks up. “You know what’s weird? It doesn't even feel that different from the usual. Even before, we were connected this way and spoke a lot. It’s just that I can't see his ugly mug anymore.”
+
+“It makes sense in a way,” I agree.
+
+“Right? We’ve already started working on our illusions. I think with some work, I can create an illusion of Aaron and let him control it.”
+
+“You could probably make him even more ugly than you are.”
+
+“Was that a joke, Nat? Damn,” he chuckles and then sighs. “Yes, it sucks a lot, and we’re both scared, but… with all that weird stuff we’ve seen, why couldn’t it be fixed? Yes, not even Kindness and that guy everyone wants to kill were able to recreate a Mana Heart, but why couldn't we just steal one? Your master Lissandra did. And I bet you’d kill a guy for me if I asked you to get one.”
+
+“I would.”
+
+“It is scary if you say it with such a serious face, and without any hesitation.”
+
+I just shrug, and Dennis shakes his head, letting out a long sigh. “The only thing I worry about is him disappearing, or changing now that he no longer has a body, or something like that,” he taps on the gem on his forehead. “This helps, but also brings a new problem of having to hide it. Aren't low Pristine items usually owned by rookie Champions?”
+
+“Something like that.”
+
+“Well, I’ll have to be careful then, and maybe I’ll have to figure out how much stronger I am at the moment.”
+
+That makes even me curious as I observe him. “How different is it from your usual stat sharing?”
+
+Dennis thinks, then gestures with his hands wildly before putting them down. “A lot? I mean, we never shared all of our stats, that would probably have left the one doing the sharing immobile on the ground, unable to move. But now I just have all of them, plus more computational power thanks to the resulting increase in memory.”
+
+He looks like he is listening to something and chuckles. “Aaron says it’s possible that he truly died, and I just couldn't get over it and broke, and now I'm hallucinating, and making voices in my head.”
+
+“Well, fuck, if that isn’t dark.”
+
+“Right?” He pauses and then nods. “He also says that he’s sorry about what happened to Biscuit.”
+
+“It’s okay, we will get him back sooner or later. Is there anything else I can do for you?”
+
+“Smack the others around a bit. Some of them are acting brave, but damn, I don't have to be Izzy to see their emotions. It makes me feel depressed. Oh, and that drink you bought. Green, yellow sparks, all sparkly. Do you have more?”
+
+“Just that one bottle. Did you already drink it all?”
+
+“Most of it went to me,” he chuckles. “It felt weirdly calming, making me numb, and it seemed to affect Aaron, too. In a good way. Was it expensive?”
+
+“According to the greediest person to ever exist, around 10 million shards for a bottle.”
+
+“Nat… is she by any chance your sugar-”
+
+“No more bullshit.” I cut him off.
+
+“Thank you for your sacrifice.”
+
+“Screw off.”
+
+Taking another sip from the water bottle, I move to Tess, who’s currently sitting near the entrance, looking up at the sky. Lily is already done with her, even though Tess is still missing about half the muscle in her left arm, it’s better than before. That arm is now covered in what looks like black bandages.
+
+When I sit next to her, I take her hand and hold it while looking over her arm, poking the bandage. I nod a few times, seriously, before beginning to draw on it with the tip of my fingers. Where I move, lines of pale blue mana remain. None of the lines make an inscription, nor does it hold any effect, it is just for the visuals.
+
+“We have to strengthen the seal so the Black Dragon won’t escape,” I mutter and look up at her questioningly.
+
+Tess snorts, but then she smiles a bit and nods. “Yeah.”
+
+“No, Tess. You have to say, ‘Aye.’”
+
+“Nat.”
+
+“Yes?”
+
+“You are such an annoying little gremlin sometimes.”
+
+“Aye.”
+
+She pokes my side, and I let go of her arm to look out at the sky together with her. “Left arms are overrated.”
+
+“You probably spent more time without one than with it, so obviously you would say that,” Tess says.
+
+“And look, what a fine young man I grew up to be.”
+
+“You’re almost twenty-five, Nat. You aren’t that young anymore.”
+
+“Yeah, as if. Everyone knows that years in the tutorial don’t count.”
+
+“Is that how it works?”
+
+“I heard it from one of the Rulers. Diligence. It must be true.”
+
+“The Ancient Armory Destroyer?”
+
+“Yes, that guy.”
+
+“It must be true then,” she agrees.
+
+“Aye, aye.”
+
+She smacks my shoulder, not taking her eyes off the sky. “You know, I saw your fight up there.”
+
+That gets my attention, and I turn to look at her while she stares upward. “I was able to see the line connecting us, so I tracked it, and it led toward the sky. And then, when I concentrated hard enough, I found I was able to see that far.”
+
+“Your eyes are getting annoyingly good, Tess.”
+
+“I know, right? After what I did with my [Declaration], one of them doesn't see that well, and my normal spatial perception is a bit twisted, so I started to rely on mana for that. But in exchange, I can see further and a bit more. And this,” she touches her eyepatch, “when I want, I can see through it.”
+
+“Why do you even have it? Your eye should be fine.”
+
+“It makes it easier to make the other one stronger. It’s a combination of my [Farsight] and one of my traits. I’m even thinking of commissioning an eyepatch to restrict that eye even further. But if I really wanted to, I could probably destroy that eye to make the other one even more powerful.”
+
+She says it calmly and simply, then thinks it over, “More and more, these skills and traits are changing our bodies, and we do it even further and scar them on our own.”
+
+“I think the eyepatch fits you, but keep the eye for now. Don’t just destroy it.”
+
+Tess looks away from the sky and chuckles. “Aye.”
+
+“There you go.”
+
+“Yes, yes. Are you returning to Beyond soon?”
+
+“It seems like I can. Morwag and Weslin are both ending their tutorials soon, so we might try something while our guild has three S-ranks. I also want to visit Doc and see Lochi and Duncan, if possible. It would also probably be fun to see Spark and Marble again. And then there’s that mysterious thing about the center of the 1st floor and the surface of Beyond.”
+
+“You have it pretty planned out.”
+
+“I’ve done a lot of thinking about what I want to do. Though I would probably have to fit it all into a few days or up to a week, so I’m not away for too long.”
+
+“And the next Beyond floor?”
+
+“Hmm, later. I’ll probably sell my key and work on earning it on my own.”
+
+“How out of left field this is, and how simply you’ve said something so crazy. But would you believe me if I said I thought you would do that?”
+
+“Yup. You probably knew it before me,” I joke, and look at my right forearm where the key to the 6th floor is. “Do you want it?” I ask her.
+
+She looks at it as well, pausing for a moment before shaking her head. “I’m going with Lyraen and his handpicked group to the fifth. He’ll likely kill the Champion with enough support and preparation, but he said he isn’t that interested in the Key. By the way, I think you’re being dense. You could use the key to explore the floor with Nyssa. It won’t stop you from hunting the Champion on your own later. If you're up for it, you could probably hunt all of them just to sell the keys. I heard they go for an incredible amount.”
+
+“Maybe you truly are a genius, Tess. I’ll think about it. But what about Lyraen? Doesn’t he want to enter the next floor?”
+
+“I think he did most of that as a competition between him and Nyssa, and once she did it all alone and went down to the sixth floor, he just let it be. He can be surprisingly mature and reasonable. He isn’t as bad as you seem to think.”
+
+“That vyssari is worse, Tess. He’s probably nice to you because you’re a woman. He is a well-known womanizer, that guy. I heard he has like fifty wives. Do you hope he’ll leave the key behind for you?”
+
+“I don't think he will do that. But I don’t think anyone in his group is ambitious enough to head to the next floor either. They all realize they wouldn’t be able to even attempt a Champion without him. So, it’s possible they’ll just try to sell it and share the shards. I might be able to sneak in somehow.”
+
+“Well, you still have the five million shards I got as my salary for being a Guild Master.”
+
+“And I still think you could have gotten more if you’d negotiated properly.”
+
+“I’ll just rob the treasury if I need to. And honestly, I felt a bit bad about stealing from them, as I don't have any plans to really do much. They’re like kids, Tess.”
+
+“Of course. How could you not call the demons ‘kids’?” She sighs and shakes her head with a smile. I notice she’s playing with a Low Pristine ring on her right hand as she speaks. “After fighting the Champion, I think I’ll form our own group to attempt to kill one again. I was already able to get bits of information and will likely have to offer a lot of shards for more, but I think it’s possible.”
+
+“Ambitious. Is it for the key or the ‘achievement’?”
+
+“Mostly the achievement, for the better 3rd trait and later for a better primary class at 450. Obviously, me, Lily, Sophie, and probably Dennis if he’s strong enough for it. We still have to test that. Victoria would probably join. Then I think Lily can get Tacita to join, and I can probably make a deal with Savant, and then spend a bunch of time keeping those two from killing each other.”
+
+She taps her lip with the tip of her finger.
+
+“Then there are Jean, Lucien, Leticia, and Luna, who I know would be willing to join. If you think about it, don’t people from Earth tend to be rather powerful, Nat?”
+
+“Huh. Kind of?”
+
+Tess shakes her head. “Not ‘kind of.’ Like, too strong. Victoria, Tacita, Savant, the three of them will become S-ranks for sure, and likely very soon, too. Not to mention that a few of the others have a good chance at it as well. Jean, Lily, for example.”
+
+“Not bad at all.”
+
+She chuckles, looks at me, and pokes the middle of my forehead with her finger. “There is not a single currently running tutorial, not a single planet, with as many prospective S-ranks as Earth. And people have begun to notice. Tens of thousands of Beyond attendees, and out of all of them, usually only ten or so can place themselves amongst the most powerful, with probably two dozen more A-ranks who have similar strength but for some reason don’t become S-rank. Yet Earth has this many? Then there is also Nythis blabbering everywhere about what happened during the 3rd tournament.”
+
+It takes me a moment to remember that Nythis is the name of the thylarin planet we faced. Tess watches with cheeky amusement as my face shifts from confusion to concentration, searching my memories until it finally clicks.
+
+A smile flickers on her lips as she says, “I wouldn’t be surprised at all if Maya turns out to be correct and the 4th tournament results in the other nine planets joining together against us.”

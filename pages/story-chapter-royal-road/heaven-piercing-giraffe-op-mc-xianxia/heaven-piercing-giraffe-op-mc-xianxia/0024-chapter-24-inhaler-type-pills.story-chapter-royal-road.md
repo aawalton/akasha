@@ -1,0 +1,199 @@
+---
+id: eec18e7b-5e99-5a4d-8c15-f046825aa0f2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24: Inhaler Type Pills"
+slug: 0024-chapter-24-inhaler-type-pills
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 24
+ownLength: 1636
+unit: words
+publishedAt: 2026-08-08
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3786780/chapter-24-inhaler-type-pills"
+royalRoadId: "3786780"
+---
+
+Chapter 24: Inhaler Type Pills
+
+The fire crackled. No one dared to speak.
+
+White sighed, the sound cutting easily through the silence. "Fine. I'll go first."
+
+Her hand disappeared into a fold of her robe and came back out holding three small black stones, laid flat across her palm for everyone to see. One was smooth, unmarked, the same stone I'd watched drop from the creature that had fled my glowing neck. The other two were cracked straight through the middle, deep enough that firelight caught in the fractures and made them glow orange for a moment before she closed her fingers slightly.
+
+"The cracked ones came from the creatures I defeated." She held them up a little higher, turning her wrist so the whole gathering could see. "If my theory's right, the stone inside is the actual creature. Destroy the stone, and you destroy it. Whatever it looks like from the outside is just… " she gestured vaguely, searching for the word, "...packaging. And however many stones one of them is carrying, that's how many pieces it splits into if you don't finish it properly."
+
+A murmur moved through the crowd, uneasy.
+
+Heads bowed.
+
+"But not all of us can swing a hammer the size of a house like you can," one of the Human Ts said, not quite meeting her eyes.
+
+"Then start working your muscles. Act like real men, for once."
+
+The Jades, scattered throughout the gathering, immediately took her side.
+
+"Yeah! She's right!"
+
+"Stop being lazy!"
+
+I watched her handle the whole exchange: decisive, confident, cutting straight to the practical heart of it without wasting anyone's time. I felt something close to genuine admiration settle into place.
+
+Yes. She should be leading this herd. Not me.
+
+I closed my eyes, satisfied that I arrived at such a clear and obviously correct conclusion, and nodded to myself.
+
+When I opened them again, the entire clearing had dissolved into chaos. Someone arguing about muscle-building schedules, someone else demanding to know why the Jades got an opinion on Human T fitness routines, a small child crying somewhere near the back for reasons unrelated to any of it.
+
+I had concluded too early.
+
+***
+
+The next morning, I discovered that the housing we'd all worked an entire day to build hadn't mattered much after all. Every single human appeared to have fallen asleep exactly where the celebration had ended: sprawled across open grass, half-in and half-out of blankets, several humans using each other as pillows without apparent consent.
+
+I noted that humans did not strictly require houses in order to survive the night. This seemed like useful information.
+
+I tried to sit up.
+
+Something was clinging to my neck.
+
+I turned my head. White. Draped half across my shoulder, one arm hooked loosely around my throat. Her breath came in slow, uneven waves that carried a smell sharp enough to make my eyes water slightly.
+
+Her lips were close enough to mine that I could feel the warmth of her breath.
+
+"I can drink more," she mumbled. Her eyes still closed, entirely unaware of the geography of the situation.
+
+I unhooked her arm gently from around my neck and set it down beside her. I looked around for a solution.
+
+A wooden bucket sat a short distance away. It had water in it. I walked next to it. Then I also noticed on closer inspection that it had a fish in it. Circling in slow, unbothered laps as though the bucket were simply a small pond.
+
+I picked it up and moved back beside White.
+
+I was not so foolish as to simply dump the whole bucket over her. That would waste most of the water, and possibly the fish, and neither seemed necessary. I crouched beside her instead and tilted the bucket carefully. Just enough that a thin, controlled stream found her mouth without disturbing the rest of it.
+
+The fish, unimpressed by the sudden change in water level, leapt.
+
+I set the bucket back down, stood, and turned.
+
+A hand closed around my shoulder.
+
+I turned back.
+
+White spat the fish out of her mouth, onto the grass, where it flopped indignantly.
+
+She smiled at me.
+
+I smiled back, since I genuinely had no better response available.
+
+She face-slapped me.
+
+***
+
+The rest of the day passed the way most days here had started passing lately: me sitting properly on my chair, everyone else arranged cross-legged around me. The whole ritual was now familiar enough that no one questioned it out loud anymore.
+
+It was well into the afternoon, and the tribes had just begun shifting toward actual labor for the day, when a Human T came sprinting into the clearing.
+
+He stopped in front of me, doubled over, hands braced on his knees, chest heaving. It took him a full ten seconds to get any words out at all.
+
+"An army," he gasped, "coming this way!"
+
+"The creatures of the abyss?" White asked beside me, already rising.
+
+He shook his head, still catching his breath. "From the capital!"
+
+"I thought there were only tribes out here?"
+
+"They raid, sometimes. Take women. Children. Kill the—"
+
+Whatever he'd been about to say was cut off by the sound of many feet arriving at once, heavy and deliberate.
+
+More humans emerged from the treeline.
+
+Each of them carried something. Not a weapon I recognized. No blade, no point, no obvious edge. Just a long, dark shape held loosely at their sides.
+
+Whatever it was, the Human Ts and Jades behind me took an involuntary step back at the sight of it.
+
+The man at the center of the group had a thin stick clenched between his teeth, one end glowing faintly, a curl of smoke rising from it into the afternoon air. He raised his own dark object, pointing it at us.
+
+I decided to call him Smoky.
+
+"Give us your women and children," he said, around the stick still in his mouth, "or you'll be courting death."
+
+I considered this phrase for a moment. "Mating season with death?"
+
+White covered her mouth with one hand, shoulders shaking. "You really do love making jokes at the worst possible times."
+
+Smoky's face went red.
+
+Then came a sound like thunder. Someone shouted behind me. I turned. One of the Human Ts dropped to the ground without a sound of his own.
+
+"Do you think this is a joke?" Smoky's voice had lost whatever patience it started with. "Women. Children. Now."
+
+White was already moving, a giant sword was already forming in her hand mid-stride. Silver rose up from the ground to meet her palm before she'd fully closed the distance.
+
+Smoky raised his weapon that could summon thunder as it turned into something I was familiar with, a shield. It caught White's blade with a clang.
+
+"Heh." White pushed, and Smoky's boots skidded backward through the dirt. "I thought ground dwellers couldn't cultivate?"
+
+"Could say the same about you, lass." He inhaled, the glowing end of the stick flaring bright red, and exhaled a long stream of smoke directly into her face.
+
+White jumped back, coughing once, eyes narrowing. "What was that?"
+
+"New product. From Pusher." Smoky grinned around the stick, unbothered. "An inhaler-type pill. Don't get comfortable thinking you're the only one who can cultivate out here."
+
+Behind him, one by one, the rest of his men lifted identical smoking sticks to their own mouths.
+
+"I don't know how your lot managed to get your hands on pills from Pusher, but you'll be handing them over as well." Smoky's shield shifted. The shape of it collapsed back down into the same thin, dark shaft he'd been carrying before. A thunder-summoning weapon, aimed and ready.
+
+Every one of his men mirrored the motion in unison, raising their own weapons and pointing them squarely at White.
+
+White didn't move.
+
+I did.
+
+I stepped in front of her before I'd fully decided to, raising both hands to cover my face.
+
+The men in front of us laughed. A ripple of it, moving through the whole assembled line.
+
+"What's this girl doing?"
+
+"No need to be shy, sweetheart. Pretty face like that'll sell for plenty."
+
+More laughter, louder this time, several of them elbowing each other over the joke.
+
+Behind me, White's voice cut through it. "Everyone, get behind her!"
+
+Hyena was already there before she'd finished the sentence. Buffalo gave a single nod to the assembled Human Ts, and they moved as one, folding in behind me without a word of protest.
+
+White leaned close, lips near my ear. "Raffea. Run."
+
+I didn't know what she had planned. I trusted her anyway, without needing to.
+
+I ran.
+
+"Is this girl serious?" Smoky's aim swung to track me. "You courting death too, lass?"
+
+The crack of thunder split the air again, close and immediate.
+
+I kept running.
+
+"...What?" Smoky's eyes went wide. "Everyone, shoot! Now!"
+
+Thunder answered, a whole cascade of it this time, overlapping so fast the individual cracks blurred into one continuous roar.
+
+It didn't matter.
+
+White broke right the instant the sound of thunder stopped. Hyena and Buffalo went left. The rest of the human T scattered wherever instinct carried them, everyone finding their own human to fight with.
+
+Smoky watched the chaos unfold and clicked his tongue. He shifted his aim toward White, tracking her.
+
+His weapon was gone from his hands before he'd finished the motion.
+
+He blinked down at his own empty grip, fingers still curled around nothing.
+
+"What?" His head snapped left, then right, searching. "What is it now?"
+
+In a single, unhurried motion, whoever had taken it reversed the weapon in their grip and leveled it back at him. The smoking end now pointed squarely at Smoky's own chest.
+
+Smoky's hands went up. "Who the hell are you, boy?"
+
+It was Fish.

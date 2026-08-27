@@ -1,0 +1,197 @@
+---
+id: f673be87-109a-5c11-ab98-bcf674bbbaee
+page-type-slug: story-chapter-royal-road
+title: "256. A Complete Joke"
+slug: 0256-256-a-complete-joke
+partOf: god-of-trash
+position: 256
+ownLength: 2033
+unit: words
+publishedAt: 2026-01-02
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2906379/256-a-complete-joke"
+royalRoadId: "2906379"
+---
+
+Soma listened, one perfect brow cocked curiously. In Rhys’s hand, The Hunger trembled hungrily, its eyes… or whatever part of it saw, locked on the partially-formed filth pillar. Rhys ignored it for the time being. The adults were talking. The child would have to wait.
+
+“I like the way you think, but I’ve got this icky mark on me,” Soma said, lowering his robes in a way that Rhys chose not to interpret as flirtatious.
+
+“I can take care of that.”
+
+“Really?” He pursed his lips in disbelief.
+
+“Yeah. And stop looking at me like that.”
+
+“Like what?”
+
+Rhys raised his brows. Soma blinked back at him, then giggled. “Oh, fine. I’ll be good.”
+
+Soma was tickling something in the back of Rhys’s mind. His otherworldly beauty, his overly flirtatious manner… he recognized these traits. They usually weren’t directed at other men (or, he suspected, at whoever was nearest and also in possession of a beating heart), but he did recognize the traits nonetheless. “Do you have a harem?” Rhys asked.
+
+Soma gasped. “How rude! A harem? I would never. I’m a fine, upstanding, modern citizen.”
+
+“Oh, sorry. You just gave me those vibes…”
+
+“Do I have a harem? No. I have several consenting live-in partners who are all aware of one another, yes, but a harem? Honestly, a harem? Ridiculous. It’s a polycule. We’re modern.”
+
+Rhys opened his mouth, feeling like Soma had deeply insulted several non-traditional romance enjoyers (as the term was originally defined, and not the way it was perverted in its later round as NTR), then shut it. I’ll just let him have that one.
+
+“In any case, I am contractually bound to battle you and bring you in, or else die. If the mark is removed, Virgil will know. Virgil knows everything about the marks.” Soma looked at Rhys meaningfully. “And he trusts them.”
+
+Rhys widened his eyes, instantly understanding. If he could edit, instead of remove, Soma’s mark so that the man was no longer obligated to fight him, without removing the mark, then Virgil would believe that Soma had not yet encountered him. That would blind Virgil to the actual truth, whether Rhys was there or not.
+
+Virgil didn’t believe his men. He didn’t trust his underlings. The only person he trusted was himself, and by extension, the marks he’d inflicted on everyone under him. But that meant that if Rhys was able to undermine those marks, Virgil would continue to trust whoever he’d marked, because he believed in his marks, and he believed that they could not be overcome.
+
+“Interesting,” Rhys said thoughtfully. It was a fascinating concept. If he could exploit that, he’d be able to essentially turn all Virgil’s men against him.
+
+“So?”
+
+“I can remove it, but edit it… that’s a little beyond my capabilities,” Rhys said.
+
+Soma sighed. “That’s unfortunate.”
+
+“Unless you’d be willing to let me experiment with it?”
+
+Soma looked at Rhys. “Do you think that’s a good idea?”
+
+Rhys shrugged. “I dunno. Do you have some underlings you don’t particularly like? Some ex-lovers you’re well and truly sick of?”
+
+“When you put it like that.” Soma went to walk away, then froze. “I don’t think I can leave here without fighting you.”
+
+“The compulsion is that strong?” It was always good to learn more about how the mark functioned, so that he knew what he could do around Bast… and how much he could trust his friend.
+
+Soma shrugged and smiled mysteriously.
+
+Can’t tell me, huh. Rhys nodded. “What if we go get your underling while fighting?”
+
+Soma blinked at him.
+
+“Right? You don’t have to fight to kill. We can just fight to fight.”
+
+The sword in Rhys’s hand shuddered particularly hard. “Hungry…”
+
+“Shh. The adults are negotiating,” Rhys whispered.
+
+“Well, that’s… true,” Soma said slowly. “But a high-tier fight is… splashy and attention-grabbing. If we fought, and I didn’t kill you, then Virgil would know, and know that I failed. I’d be in poor standing either way, whether he suspected me or not, and your plan wouldn’t work anymore.”
+
+“What if we don’t fight splashily, but just spar enough to satisfy the mark?”
+
+Another mysterious smile.
+
+That’s a no-go, too? Unfortunate. He frowned for a moment, then snapped his fingers. “We’re talking now, right?”
+
+“I’m not compelled to fight you the second I see you, no.”
+
+“What if we keep talking, all the way over to your disposable manpower?”
+
+At that, Soma finally raised his brows and thought for a moment. Slowly, he said, “I think I can do that.”
+
+“Can you do it without flirting with me?”
+
+A deep sigh. “That’s a big ask.”
+
+“That’s fine, that’s fine. You can flirt a little.”
+
+“Oh?”
+
+“That’s not permission.”
+
+“I heard permission.”
+
+“You heard wrong.”
+
+Soma laughed lightly. He pointed at The Hunger. “What about the little one?”
+
+“HUNGRY!” The Hunger bellowed.
+
+Rhys gave him an embarrassed glance. “Oh, he’s… an experiment I was trying out. He wants to eat the impure pillar.”
+
+“Eat?” Soma asked, startled.
+
+“Yeah. You want to see?” Rhys offered.
+
+Soma gestured for him to go ahead.
+
+Rhys stepped forward. The Hunger bucked in his hand, excited to get to the pillar. He set the sword on the pillar and stepped away.
+
+Before he’d stepped away, before he’d done much more than putting it on the pillar, The Hunger surged into the pillar, greedily sucking in the impurities. A few sprayed around it, which Rhys quietly absorbed as the sword rushed on ahead. In the space of a handful of seconds, the sword had buried deep into the pillar, then sucked it in, leaving no hint of its existence but a hole in the ground. Rhys held out his hand, and The Hunger leapt back to it. It thrummed faintly with excitement from having had such an excellent meal.
+
+“Oh my. What a curious creature,” Soma said, peering closer at The Hunger. He glanced at Rhys. “May I?”
+
+Rhys held The Hunger out, then hesitated. “He’s basically made of impurities. He will impurify you. It’s not an attack, it’s just his very being.”
+
+Soma blinked at him, slowly. For the space of a single heartbeat, Rhys caught a glimpse of a horrifying monster made of filth and everything hideous in the world, and then it was gone again, replaced with the extraordinarily beautiful Soma.
+
+“Right. Yes. I don’t know who I thought I was talking to,” Rhys said, and handed the sword over.
+
+“I appreciate your gentlemanly instincts, though. Much better than that ruffian Virgil.” Soma took The Hunger in both hands, holding it out flat, carefully, as if it was a priceless artifact. His hands darkened, but only for a split second. He narrowed his eyes, and veins stood out on his perfect skin; the impurities vanished, and Rhys got the strange sensation that The Hunger had backed down, as if it were cringing away in fear—as if it had caught a glimpse of an older, stronger version of itself. It was almost like it was a small dog, barking loudly, who ran into a big dog off the leash and suddenly became very quiet.
+
+“How curious. It’s almost like a prototype of myself,” Soma murmured to himself, turning it over in his hands.
+
+Sensing the opportunity to use another of his favorite stock lines, Rhys quickly jumped in, “I wouldn’t dare compare it to your esteemed radiance.”
+
+Soma chuckled and waved his hand at Rhys in an “oh, you” sort of way. He looked Rhys up and down. “And you can handle it without taking any damage?”
+
+“Yeah.” Rhys didn’t say any more. He didn’t want to give too much away to the one man who could probably guess his path.
+
+Soma looked him up and down again and bit his lip, and Rhys realized, suddenly, that the man’s mind was going in a very different direction. “I mean… no.”
+
+“Mmm-hmm-hmm. Rhys, dear. You know, there are shapeshifting techniques out there…”
+
+“Oh, I know.”
+
+“I mean, you and me… whatever you like, no? Whoever you like…?”
+
+“What did I say about flirting?”
+
+“This isn’t flirting. This is business.”
+
+Rhys sighed. “Business is closed.”
+
+“What a pity. You know, I have to be very careful usually. I’m a dangerous person to touch.” He offered Rhys his hand.
+
+Rhys hesitated, a little worried it was a trap, then delicately touched Soma’s palm. Immediately, he understood. Impurities slammed into him, blackening his flesh as bad, no, worse than The Hunger. Rhys desperately sucked in, barely able to maintain a zero-point against the influx of impurities from Soma.
+
+And then Soma took a deep breath. Veins stood out on his forehead for a second, then vanished, and the impurities stopped flowing.
+
+Rhys retracted his hand. “Wow.”
+
+“Do you know how many years it took for me to reach that point?”
+
+He shook his head. “I can’t imagine.”
+
+“Centuries.” Soma looked at his own hand. “Centuries before I was able to touch another living being without killing it. Before I was able to hold something beautiful without making it hideous. I spend every waking moment desperately withholding my strength in the hopes that I don’t harm the things and people I care for.”
+
+Rhys looked at him, and for the first time, he felt like he was seeing the real man behind the beautiful exterior and the flirty demeanor. There was sorrow in his eyes, mixed with a quiet, desperate longing, and he realized what it meant, at last, for Soma to have a taste for the finer things in life. Soma was an impure golem, a being made of filth and impurities, who exuded filth everywhere he went whether he wanted to or not. ‘The finer things in life’ were contrary to his very being.
+
+It wasn’t just that he wanted what Daran didn’t want him to have, or that he hand a mind of his own. Deeply, desperately, he wanted to be able to do what Rhys could do without thinking—to touch someone else, to admire a gem without shattering it, to eat a delicious meal without turning it to filth in his mouth. It wasn’t an unreasonable or ridiculous thing to want; it was a simple, pure desire, one that Rhys could understand without having to think hard about it. At his core, Soma wanted a good life. A normal life. A life where he could enjoy the things that everyone else in the world could enjoy, without having to constantly remain aware of himself and restrain himself to avoid destroying them.
+
+To live an entire life like that, standing in the trash while gazing at all that was good and pure, and knowing that you could never have it—a painful, empty, hollow life. His heart ached for Soma, but then he realized: this wasn’t a tragedy. It was a story of conquest. Soma had overcome that. It might be hard for him, but he had become able to enjoy the fine things in life. Even if it took constant effort, he had still overcome his weakness, and he could continue to fight and overcome it into the future.
+
+“You can touch your lovers now, though, so don’t act like I’m your only refuge,” Rhys said, crossing his arms in mock-crossness.
+
+“Yes, but there’s a difference between holding back and truly letting yourself go, you know?” Soma said, fluttering his lashes.
+
+Rhys nodded blankly. Yes. I, Rhys, sex-haver, understand this statement.
+
+Soma paused, and his eyes lit up. “Rhys… don’t tell me.”
+
+“I haven’t told you anything.”
+
+“Oh dear. Oh my pure, sweet child. I didn’t know. You are a treat.”
+
+“You don’t know anything.”
+
+Soma chuckled. “It’s okay, darling. We can take it slow.” Gesturing, he indicated for Rhys to follow him. “Let’s get back to my hare… my men before you tempt me too much.”
+
+Rhys snapped his head around. “It is a harem!”
+
+“You don’t know anything.” Soma chuckled, and Rhys felt like he had a different meaning than Rhys had had.
+
+“I take back all the pity I felt toward you.”
+
+“That’s okay. I don’t want you feeling pity. There’s lots of other things we can feel. Together.”
+
+“Stop waggling those eyebrows.”
+
+“I don’t know what you’re talking about.”

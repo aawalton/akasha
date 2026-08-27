@@ -1,0 +1,159 @@
+---
+id: 30e1be1c-87cd-5bbf-96ba-94ce665c1ebd
+page-type-slug: story-chapter-royal-road
+title: "042: Breaking Point"
+slug: 0042-042-breaking-point
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 42
+ownLength: 2190
+unit: words
+publishedAt: 2024-05-17
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1639625/042-breaking-point"
+royalRoadId: "1639625"
+---
+
+Just like the one before it, this elemental had the ability to fire a stream of flames at her. However, now that she was prepared for its attack Evelyn had no problem jumping to the side to avoid it. This one was a little quicker and whipped the stream in her new direction, however it was still just a matter of bobbing and weaving to avoid the searing fire.
+
+After about ten seconds of constant flame, the stream sputtered out and died. It seemed they couldn’t maintain it forever. Unfortunately for the poor magma elemental, that meant Evelyn was free to attack. Her fist smashed through its head and sent lava and stone flying in every direction as it exploded. The rest of its body collapsed into a puddle of bubbling magma on the path. And she continued her descent.
+
+The rest of the journey down followed a similar pattern. Every so often the lake of lava would spit a ball of flames at her that formed into a little magma monster. They attacked the moment they noticed Evelyn but having learnt their movement patterns she was able to avoid most of the damage - except the melting of her knuckles each time her fist blew them apart.
+
+A trail of burnt stone and puddles of lava were left in her wake as she advanced towards the lake’s edge. However, it wasn’t until she reached the bottom of the winding path down the cliff that Evelyn received another level in her class.
+
+Your class has advanced!
+
+Unyielding Warrior Lv.8 > Lv.9
+
+Despite the magma elementals being a little stronger than the magma ‘slimes’, taking down a similar number of them had netted her just a third of the levels. It was a clear sign that reaching the required level of 15 in her class wouldn’t be easy. However, she was determined to achieve it.
+
+And she wouldn’t stop there. Evelyn knew that this was just the first of many ascensions. The tower had told her as much. But there was no point looking too far into the future when she still had a floor to beat. No more magma elementals spawned once she exited the path. The lake was even more impressive up close. The sheer heat it emanated was enough to make her uncomfortable in her armour - but she couldn’t take it off.
+
+That would be suicidal.
+
+Or perhaps not, given that her body was tougher than her equipment. But she felt more secure with an added layer of protection between her and whatever was trying to kill her. Despite making it to the edge of the lake, she was stumped.
+
+There didn’t seem to be a path forward - at least not an obvious one. Unless she was supposed to swim through the lake of lava. Which seemed ridiculous, though it would explain why everyone said the 16th Floor was impossible to clear. However Evelyn hadn’t been pushed anywhere near her limits yet, which made her suspect there was something she was missing.
+
+However, she didn’t need to wait long to find out what it was. As she took another step down the shore of the lake, the world around her began to rumble. Rocks tumbled from the cliff behind her and the ones surrounding the lake, causing huge splashes of lava which threatened to boil her alive if she strayed too close. And that was just the beginning.
+
+The lake began to bubble and broil, then the magma in the centre started to sink. Evelyn felt a surge of mana from the lake and took a few steps back from the edge. The last thing she needed now was to fall in or lose her footing. Something was coming.
+
+Something huge.
+
+Waves of lava had begun to ripple across the lake at this point, and Evelyn beat a hasty retreat to keep herself away from the edge. They weren’t large yet, but each successive wave was bigger than the last and she had no desire to be drowned in fire. Mana had continued to pool in the centre of the lake, however it was slowing now and approaching a climax.
+
+A mound of magma and crimson stone broke the surface of the lava and rose from the depths. A metre, then two, then four and still it continued to rise. Finally she saw what it was - a colossal flaming head of red stone. Just like the miniature magma elementals but on a far grander scale. And still it was emerging from the lake.
+
+It took another ten seconds for the thing’s full body to climb from the lava, and it utterly dwarfed everything around them. Evelyn stared up at the thirty metre magma giant and cracked a grin. This was exactly the kind of battle she had been waiting for. And it wasn’t just going to be a one on one.
+
+No - the creature had roared as it appeared and spewed out tens of flaming meteors that fell all around Evelyn. Each one unfurled into a magma elemental. However, these were not the two foot tall cuties she had been obliterating on the way down the cliff. These new enemies were around eight feet tall and gave off a far more intense heat. But she welcomed the challenge.
+
+And a challenge it was - the tower confirmed it with a message that appeared as she and the colossal flame giant locked eyes. Its beady, emotionless gaze clashed with her passionate fury and both refused to back down.
+
+❰ Instance - Mini Boss Raid ❱
+
+Defeat the Mini Boss ‘Anathalan the Hellbringer’
+
+The message was rather sparse, as most of the tower’s communications tended to be. That didn’t bother her. In fact, even without the motivation that there might be an extra reward waiting upon her victory, Evelyn would have charged into battle without a second thought.
+
+Treading the knife’s edge between life and death was reward enough. It was something she had still been hesitant to admit to herself until recently, but she could deny it no longer.
+
+Evelyn was born to be a warrior.
+
+Never had she felt more alive - more real - than in the tower. It was something that had been lost in the modern age. While Earth had been far from perfect, a large portion of the population lived fairly struggle free.
+
+Yes - there had been suffering and death in many parts of the world - but for her and many others daily life was a tedious blur of screens and inane drudgery. Her realisation brought a serenity to her mind.
+
+And as the first magma elemental unleashed a burning beam of flames in her direction Evelyn didn’t even have to think about her reaction. Her body moved of its own accord, directed by her instincts.
+
+She darted between the elementals, dodging streams of flame and dishing out blows as she went. However, it took more than just a single strike to bring down these monsters. And every time she stopped to attack one, the others turned on her. And they didn’t have just one move.
+
+As well as being able to spit lava at her, the bigger elementals were able to toss fireballs which they conjured from their bodies. Combined with the bubbling lake that occasionally spat lava across the shoreline, Evelyn was running an obstacle course for her life. However, she was managing to stay safe while whittling down the number of monsters. Until Anathalan made a move.
+
+The Hellbringer unleashed a guttural roar that shook the land. He smashed his fists into the cliffs surrounding the lake, sending huge boulders flying towards Evelyn and his thralls. Just one more obstacle in her path. But he didn’t stop there.
+
+He raised both fists high into the air before slamming them down into the lake. That unleashed a colossal wave of lava that rippled out towards the shore. If she couldn’t figure out a way to avoid it then Evelyn was about to be submerged into the boiling magma. There was a chance that Soul of the Unstoppable Conqueror would be able to keep her alive - but the prospect of being boiled and melted in an endless cycle was not appealing in the slightest. So she redoubled her efforts.
+
+However, the only way she could think to escape the ten metre wave of fire was to return up the path which she had used to descend the cliff. However, at least five of the magma elementals blocked her route.
+
+Which wasn’t an issue for Evelyn - it would just take a little finesse. And a lot of mana. She began to pull on the ephemeral energy that suffused her body and guide it down the familiar pathways that would form her skill.
+
+Usually she used Flashfreeze Flamecharge to cover short distances. Most of the power was directed towards the damaging effects of the skill in order to bring her foes to their knees. She wanted to try and tweak that outcome.
+
+So she continued to draw on her mana well beyond the limits of what the skill could typically handle. Having used it so often she had grown accustomed to how it wanted to move through her. And she tended to just let it do its own thing, only helping it along when necessary. This time she tried something new.
+
+From her observations she noticed that certain paths created each of the skill’s effects. The flames that flickered across her body were formed from the mana circulating just below her skin, while the frost that marked her path erupted from the soles of her feet and the tips of her fingers. Neither of those were what she sought, however.
+
+At the moment which she let the skill loose - the climax - there was a point near the small of her back where a decent chunk of the mana it used was jettisoned out in a single burst. It was this effect that she now intended to bolster. And not just by a little.
+
+Evelyn needed to cover about thirty metres of distance. And that was just to reach the base of the cliff. She estimated that the wave would hit the shore in just under ten seconds and she had only gathered about half the mana she required. So she pulled even harder.
+
+It was right before the wave struck her that she finally had enough mana. She directed the majority of it towards that point in her back and let the skill loose. There was a sharp pain in her spine as she was rocketed forth, leaving a trail of glittering frost and dancing flames in her wake. The burst of momentum was so incredible that she utterly failed to stop herself from smashing face first into the cliff.
+
+There was no time to marvel at her success however, because after peeling herself from the hole she had formed in the stone the wave was hot on her heels. She had bought herself some time but she still needed to gain some height to save herself from a searing fate. But Evelyn had plenty of mana left.
+
+So she repeated the exact same process of gathering her mana and then unleashing it from her spine. It sent her flying up the path and well clear of the wave. However, the pain in her back was far more intense the second time around. Brute forcing the skill in this manner was having a severe backlash on her body. It was a good thing she wouldn’t need to repeat it a third time - her spine may have fallen to pieces.
+
+Despite getting to safety, the battle was far from over. Anathalan didn’t let up. Seeing that she had avoided the wave the flame giant started tossing balls of flame towards her and then opened up his burning maw. Having seen what the smaller elementals were capable of, Evelyn could guess what was coming next.
+
+That didn’t stop her from being shocked when a jet of lava thicker than her body erupted from Anathalan’s mouth and spurted towards her. She had a difficult decision to make. Staying on the cliff path and avoiding the waves of magma that rippled below meant she would have to take the magma blast head on. However, if she wanted to avoid the stream of flames then she would need to dive into the lake. And that would be excruciating.
+
+Which was why Evelyn chose to do neither.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.9
+
+|Attributes|
+
+Power: 16 (17)
+
+Speed: 4
+
+Stamina: 8
+
+Vitality: 26 (31)
+
+Mana: 25
+
+Fortitude: 52 (88)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Galactic Expansion (Unusual), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Salvo (Common)
+
+~Active~
+
+Flashfreeze Flamecharge (Rare)
+
+~Hybrid~
+
+Soul of the Unstoppable Conqueror (Unusual)
+
+Essence: 1157『+1021784 / 5:54:24 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】

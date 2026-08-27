@@ -1,0 +1,181 @@
+---
+id: 3c52cb76-ee8b-5edf-b031-6a3d2e9765d4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25"
+slug: 0025-chapter-25
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 25
+ownLength: 3067
+unit: words
+publishedAt: 2025-11-29
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2803743/chapter-25"
+royalRoadId: "2803743"
+---
+
+Chapter 25
+
+“Drainage pipes?” Veron asked. They were at least two meters high and made of dark metal. “Who built this place?”
+
+Silvie looked at Hayden with a grin. “Should we tell him what’s beyond?”
+
+“Where would be the fun in that?” Hayden replied. “Focus now.”
+
+Hayden led them into and through the pipe. It sloped downwards, the water thankfully only a trickle. The air was downright humid by now and the smell was strange to Veron, he couldn't place it. A few minutes of walking and they reached a steep section. Too steep to walk. There were metal chains fastened to the walls and Hayden grabbed one. “Veron, take one too and descend slowly. Make sure to hold on, there's a big drop coming. Once it goes straight down, wrap your legs around the chain like this and no matter what you see, stay focused on holding on.”
+
+What are they trying to get at?
+
+Veron strapped his gear to his pack and grabbed one of the linked metal chains, finding that he had a good grip on it. Maybe it was the recent Path advancement but he felt confident.
+
+Hayden gave him a nod and then started descending, Veron following, Silvie and Reka behind him. The metal floor was sloped and slippery. He moved slowly to make up for that, stopping when he found Hayden standing at the edge of the now open pipe, light coming in from beyond. He advanced and stopped next to him, looking down the several hundred meter drop to a small stone town right below.
+
+Oh?
+
+He couldn't see particularly far beyond the town with the still sloped angle of the pipe but what he could see was a landscape lit as if it was an overcast day outside, marsh with sickly yellowish ponds, a wide forest with dark gnarly trees, and crumbling stone structures in the distance. He looked at Hayden with wide eyes. “We’re going down?”
+
+“Yes,” Hayden said. “Hold on tight.”
+
+Veron steadied himself and then nodded, slowly letting himself descend on the steel chain before he wrapped his legs around it like Hayden had shown him. Lowering himself a little more, he felt secure on the slightly swaying chain and looked around. He had to focus to hold himself there, pulling himself close to the chain as he took in the swamps and marshes that spread far and wide, far enough he couldn’t even see the end of them, at least not in the direction he was looking. Broken and crumbling stone structures protruded out of the yellowish waters. Towers, walls, and domed roofs that may have once been part of temples or government buildings. He could see occasional flashes of faraway lights, unsure if they were natural phenomena, or magic conjured by monsters or adventurers.
+
+A few hundred meters out from the stone buildings below, he saw a forest of gnarled trees, the light from above not reaching deep into the dense tree lines. Far beyond, he saw a forest covered in mist, and to the left of that, he saw what looked like city walls and vast ruins.
+
+He hung there for a minute, the chain slowly rotating as he took in the second layer of the Anvakar dungeon. No, he realized it wasn’t exactly like that, was it? This wasn’t just a dungeon below Anvakar. Veron got it now, seeing the vastness of the second layer. And there are at least five of those?
+
+The only reason Anvakar exists at all, is to access this place.
+
+He looked up, finding strange glistening lines of something on the ceiling. Whatever it was, it provided the illusion of a gray sky. He was pretty sure that they were inside of an enormously expansive cavern, because anything else just didn't make sense, and still, he doubted his reasoning.
+
+At least he could see high reaching rock walls a few hundred meters behind him as the chain slowly turned, reaching all the way up to the ceiling of the supposed cavern. The town below was built with stone, protected by a wall a few meters high that looked far better maintained than the many ruins he could see in the distance. Various campfires were lit and he could see people walking around. Some went in and out of very simple stone houses while others had set up tents.
+
+Ian would love to hear about this place.
+
+And I wonder if Ivera has been here before.
+
+“Welcome to the Gutter,” Silvie said as she descended on her chain near him.
+
+Veron huffed in amusement, and he wanted to tell her that her jokes were getting repetitive. But looking out onto the expansive landscape of steaming yellow ponds, he couldn’t help but nod.
+
+“Below us is the base camp,” Hayden said and descended, both him and Silvie sliding down on their chains with what looked like practiced ease.
+
+Veron went slower, not used to the feeling and very much aware that a drop from here would kill him. After a long and careful descent, he joined the others on the ground. Any notion of it being winter was gone. It was comfortably warm and humid here. Other adventurers had set up tents and cooking stations, a few of them discussing or laughing. Compared to above, everyone here was a fighter or mage of some kind.
+
+A buzzing noise made him swat at something. Mosquitos. Down here?
+
+“This is the base camp of the Gutter,” Reka told him, then gestured for them to follow.
+
+Veron looked around. All kinds of adventurers glanced their way. Some of them looked tense, others nursed their injuries, others yet looking at them as if to gauge their power, perhaps considering if it was worth to try and rob them or to figure out if they were dangerous themselves.
+
+There were a few dozen teams he saw here, most of them in comparable gear to the Silver Wolves. He saw a few lonesome figures too but most everyone who wasn't eating or resting was walking around with purpose. There were no gates in the stone walls surrounding the base camp. Instead, there were steps leading onto the walls and ropes hanging off of partial railings to the other side.
+
+Beyond, Veron saw the forest of gnarled trees to the right and marshland in front. A few hundred meters to the left, he saw the cavern walls rise high. He was glad for the aerial view he’d gotten before.
+
+“If anything bad happens or you're separated somehow, try to return here. There are usually a few healers around,” Reka said and pointed up. “The pipes are visible from a long distance.”
+
+“Better to switch back to your spear as well now,” Hayden said.
+
+Veron nodded and followed the others as they climbed down the encampment walls, landing in the mud beyond and at the beginning of the marshland. There were patches of muddy earth with grasses growing high, reaching out of the mud and puddles. He could spot larger ponds of sickly looking water. Veron realized the strange smell in the pipes above came from the ponds. Something almost sulfury. It reminded him of eggs going off.
+
+“We will be going north and west, along the southern edges of the Old Forest,” Reka said and pointed to the gnarled trees. “Anything we come across, we try and take down but we’re looking for Vereltir specifically.”
+
+Hayden stepped next to him. “Careful with your footing. You don’t want to fall into deep waters. Vereltir can move quickly in the mud. They’re armored, of the Blood Path, have large teeth and can move faster than they look. Especially their tail that is often hidden still in the water is fast and dangerous. They wait to ambush but if you don’t stray too close to deep sections, you should be able to react in time.”
+
+Veron listened, trying to commit everything to memory. “And why are we hunting them?”
+
+“Because we can take them down. And because their essence fetches a good price,” Silvie said.
+
+“Right, lead on then,” Veron said.
+
+“And be wary of mosquitoes. Let them come close and then stab them,” Hayden added.
+
+Stab them? Mosquitos?
+
+He slapped his neck when he heard another buzzing sound. I should probably try and ignore those. Otherwise something worse catches me off guard.
+
+Veron followed the others, noting that now that they were traversing the wet ground, his teammates moved slower than before in the Crypts, often glancing around at the yellowish puddles. He made sure to focus on his footing, not planning to live up to his nickname of mud dweller now that they were down here.
+
+Veron nearly jumped when a bubble of air popped in a pond near him. The smell was foul. Perhaps it was the novelty of this location or the fact that he felt the tension of the others that made him a little jumpy.
+
+The paths on which they could walk became more and more narrow, mud and pools of yellowish water on either side as they progressed. To his surprise, Veron felt the wind here, connecting with it easily despite the likely fact that they were underground. On the other hand, he found it difficult to feel the earth through the muddy and wet ground they trudged on.
+
+“We've got incoming. Three mosquitoes from the forest,” Reka called out.
+
+Veron looked around and found three flying black dots, moving closer towards them at a leisurely pace. Those are mosquitoes?
+
+He opened his eyes wide and then laughed as he saw the flying creatures, fat and bloated. They definitely were mosquitoes and if he didn't find the situation so absurd, he would have been terrified. Gripping his shield and spear, he breathed out and focused, checking the ground around him to make sure he had a few steps before he would fall into deeper waters. Hayden was close.
+
+“You could try one of your rocks,” Silvie said from behind. “Reka doesn’t let me use my blood lances on them because it takes too much of my Focus, but killing them is really fucking gross, and it only gets worse the closer they are.”
+
+“I wouldn’t mind either,” Reka said. “You should have more Focus now with your Path advancement too. Just don’t use all of it.”
+
+Veron glanced at them and then back to the mosquitoes. They were at least as large as cats.
+
+Okay.
+
+Veron got one of his arrowhead rocks and waited until he was reasonably sure he would hit his mark. The three monsters were around fifteen meters away, their loudly buzzing wings barely able to carry their weight. It reminded him of the kind of mosquitoes he hadn't managed to kill before going to sleep, finding them the next day all bloated and slow. He connected to the rock in his left hand, charged it with Focus and aimed.
+
+The rock flashed out with speed and impacted the closest mosquito, its body convulsing and then exploding in a splatter of blood.
+
+“Ew! Fuck that!” Silvie called out from behind. “I fucking hate those things.”
+
+Veron killed the other two in the same manner, before they even reached them.
+
+“I still have no idea how you can manage that normally, Hayden,” Silvie said and glanced at Veron. “The blood usually covers his shield and armor whenever they reach us.”
+
+“You could carry a crossbow, you know?” Hayden said.
+
+“Pack’s heavy as it is,” Silvie said. “Good aim Veron, thanks for that.”
+
+“Sure. So, how do we get their essence?” Veron asked. “That was almost half my Focus by the way.”
+
+“Well worth it. And no essence from them, not worth going into the water to find their corpses,” Silvie said.
+
+“They’re good bait,” Reka said. “This place may work. Let’s find a broader area to fight in and then we wait.”
+
+The others moved and Veron followed, the group soon finding a reasonably large area without deep water or any large ponds, and with view of the area where the mosquitos had fallen.
+
+Hayden and Reka watched the water and Silvie watched their backs, their weapons sheathed or resting on the ground. Veron stood next to Silvie and crouched after a while, resting his hands on his knees. He didn't want to sit down in the mud.
+
+Occasionally, he glanced at the others but they seemed focused. “So, we’re hunting?”
+
+“Yes,” Reka said. “Rest now and prepare, it won’t be an easy fight.”
+
+He nodded. They were the experts. And still, as he felt the winds around him, Veron felt a little strange just sitting here and waiting for some monster to show up. It did seem effective in terms of risk and reward, but he had seen so much interesting stuff on this layer alone, and right in front of him was a dark forest likely teeming with strange critters. He wanted to go and explore, wanted to find out what was hidden in this place, not wait here to lure out and kill a single thing just to make gold.
+
+Probably good that I'm with them.
+
+He smiled to himself, well aware of his lacking experience and magical power. Veron reminded himself that there was no rush. He breathed slowly and occasionally focused on the wind, calming himself down, slowly rolling his shoulders, and feeling the weight of his stone armor. If it wasn't for the smell, this place would be quite charming. It definitely felt more intriguing because it was underground.
+
+I wonder what the mist is about.
+
+The forest behind them wasn't covered in it.
+
+“Vereltir,” Hayden said.
+
+Veron stood up and turned, following the man's gaze. It took him a moment to find it. Brown and green scales rippling as it moved within the waters, smooth and then gone entirely.
+
+Hayden struck his shield as the others got into position behind him. “Warriors, stand your ground! With me!” A pulse went out, Veron feeling some of his tension leave his body. He went to join Hayden but Silvie caught his arm and pulled him back and next to her. She knelt down and drew into the mud with her wand.
+
+Veron saw the slight movement in the water before them, closer now and rapidly approaching, then the beast burst out and came straight for Hayden, fast enough to crush him. It was large, taller than Hayden and thrice as broad, scales covering its back, its form reminding him of a cross between a turtle and a crocodile, its maw not near as long but lined with sharp teeth as it crashed into the raised and slightly glowing shield of Hayden.
+
+Hayden was pushed back, boots digging into the mud and sliding before ethereal chains wrapped around the large monster, a bear rising out of the mud before it tackled the Vereltir from the side, pulling it onto the ground.
+
+Silvie rushed forward, and Veron followed. Hayden brought his hammer down, the strike glancing off the monster’s head.
+
+Veron went right, next to the bear and angling his spear to try and stab the creature. He saw something move in his peripheral vision, a long tail covered in bone scales lashing out from the water and striking his chest, punching all the air out of him as he was raised up. He fell and heaved for air, hearing stabs and a roar from his left, his ears ringing. Something was stuck in his chest, wedged into the stone. He looked down and saw the spikes connected to the tail. He still held his shield and spear, trying to get up when the tail moved and pulled on him.
+
+He held on instead when the monster rolled and moved back into the water, pulling him with it. Oh.
+
+Veron connected to his chest piece and molded the stone, opening it up enough for the tail spikes to rip out. Stumbling forward, he watched the creature swim and turn, then jump up straight at him. Chains slowed it down but it crashed into him nonetheless, his shield and arm raised high to stop the jaws from crushing him. Stone cracked and crumbled as the creature bit down, its tail lashing out somewhere behind him before the bear came and tackled it again.
+
+Silvie stabbed with her sword from the side, cutting past its yellowish right eye and then digging deeper with the second hit. This time, the bear locked the monster down, more chains catching it and pulling it up from the water and into the mud, Veron still pushing against the strong jaws, his shield the only thing that kept his arms and head from being crushed. He focused on a chunk that was about to break off and charged it, sending it straight into the mouth of the monster.
+
+It gurgled in response, and bit down harder.
+
+Veron used his connection to the stone on his arm to get rid of the shield, stumbling back when he saw the monster crush the remaining rock. He looked for his spear when Hayden rushed past him, his shield glowing before he crashed into the charging creature with a shout, their momentum canceling each other out. More chains caught its tail, Silvie piercing into the flesh near its neck and shooting a blood lance into it while the bear punched and clawed its left side.
+
+Hayden raised his shield and hammer, striking at the monster as its movements slowed.
+
+Veron found his spear, holding it with both hands before he approached, aimed, and stabbed, the three of them and the bear cutting and slicing into the struggling Vereltir, blood soaking the mud and their weapons, their attacks slowing, all of them breathing hard while the monster still tried to bite at them, wheezing as it pulled and pushed against the chains, breaking a few with a strong motion before another two stopped it again.
+
+Veron’s spear pierced into the flesh but even the unarmored skin was tough, his weapon and strength just enough to inflict shallow wounds. Another few cuts and strikes from them and the massive monster finally slumped down, its tail twitching a few times before it stilled.
+
+They held their blood and mud covered weapons at the ready, facing the now dead creature. Flies buzzed around them, a bubble of putrid gas popping in the nearby pool as the three of them caught their breaths.

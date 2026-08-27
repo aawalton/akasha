@@ -1,0 +1,335 @@
+---
+id: f0f8e3e7-2c65-57a8-8a2e-164b5d22d1fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2"
+slug: 0002-chapter-2
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 2
+ownLength: 3630
+unit: words
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2703895/chapter-2"
+royalRoadId: "2703895"
+---
+
+Chapter 2
+
+The very likely magical robot looked at Veron for a long moment before it spoke.
+
+“My name is Envolon. And I'm sure that you have a lot of questions. I won't be able to answer all of them but maybe a few. Yes, magic is real. It's simply very weak still on your world. In less than three hours, if you agree, I will send you to Renavor. It is a world where magic is far more present and developed, a world where humans have not conquered the world as they have where you have come from.”
+
+Magic is real? Like what? Fireballs and flight? Was that bird magic? The gates surely were.
+
+Veron gathered his thoughts.
+
+“Envolon. It's good to make your acquaintance. This is my first time talking to a magical robot. You will send me to this other world. May I ask why?”
+
+“To have an adventure,” the being said.
+
+“To have an adventure. That's it?”
+
+Envolon nodded slowly. “That's it.”
+
+“Why me specifically?”
+
+“Because I chose you. And because you came.”
+
+“You’re not going to elaborate?” Veron asked.
+
+“No,” Envolon answered.
+
+Veron breathed in deep and then nodded to himself. It was ridiculous. All of this. But it felt real, and he couldn't help but enjoy it as well. He liked the idea of this surely powerful being calling him here just to have an adventure, but he got the feeling there was more to it. Not that it had to but something about this room, something about how Envolon spoke gave him the impression that its choices and actions were very deliberate and not those of someone who willy nilly sent people on adventures just for the fun of it or to get some amusement out of it.
+
+No, there was purpose here, in this place and in this being, he just didn't understand it yet.
+
+“What if I wish to go back?”
+
+“Then I will send you back.”
+
+Veron paused. “You will?”
+
+“Yes. Do you wish to refuse my offer?”
+
+“No,” Veron said. He was quiet for a moment.
+
+“So, I'll be able to learn magic?”
+
+“Maybe, you'll see, and you'll learn.”
+
+“That's it?”
+
+“That's it.”
+
+Deliberately obtuse. Of course he knows if I'll be able to use magic or not. I'm sure he knows a great deal more than that too.
+
+“What about you? You just hang out in this room and call for people to have an adventure?”
+
+“That is a question that I will not answer.”
+
+“What's the nature of this adventure? Do I have to defeat some great evil? Become a God? Kill a God?” He paused and narrowed his eyes. “Collect some seventeen rare fruits?”
+
+“I already told you what I can tell you.”
+
+Can? So there are rules? Or he's limited in some way.
+
+Just an adventure. An undefined adventure. It was worrying in some ways but Veron found that at the same time, he really really liked the idea. Especially after all this time where everything had felt so complicated. This felt simple, focused.
+
+And a lot of things could be an adventure. Slaying monsters, building a team, traveling to a distant place, opening a shop, or exploring the ways of magic.
+
+“Can I ask for clothes and weapons? And directions?”
+
+“You can ask, but I won’t be able to offer any.”
+
+“I see. And no specifics on the magic either?”
+
+Envolon didn’t answer.
+
+“Can I ask how you conjured that bird and how you moved me from Earth to wherever we are now?”
+
+Envolon tapped the table with one of his fingers. “With magic.”
+
+Veron sighed, and then smiled a little. “Yeah, of course.”
+
+He looked at the being. “You're not very forthcoming with your information.”
+
+“Does that change your answer?”
+
+He thought about it. He expected there to be a catch of some kind, but so far, it all felt very straight forward. And there was an opportunity to learn magic. He felt a draw to that like nothing he had felt before.
+
+“Do you have tea here?”
+
+Envolon seemed amused, smiling as he slid his hand over the table. “I'm afraid not. But I would offer you tea if I could.”
+
+“No magical way to summon some?”
+
+Envolon remained silent.
+
+So maybe there is but it's not worth the energy? Or he's not allowed to?
+
+Am I going to do this? Trust this strange being?
+
+Veron leaned back in his chair. They were both quiet for a while.
+
+“No further questions?” Envolon asked.
+
+He thought about it. Of course there were questions. Dozens of them, but he got the feeling that Envolon wouldn’t answer a whole lot of them.
+
+“How dangerous is this world you will send me to?”
+
+“There are monsters, but there are people too, and some might be willing to help. I think you will do well enough.”
+
+“You will send me there with magic?”
+
+“Yes.”
+
+“Where exactly?”
+
+“I won’t say.”
+
+“Any other important questions I should ask?”
+
+“Clever. And no. I suggest we move on, our time is limited and there is a lot for you to learn.”
+
+“I assume I won’t be able to change my mind?”
+
+“Not once you’ve agreed.”
+
+He nodded to himself. This being could wield magic. If it wished for his death, he was sure it wouldn’t sit here and have a conversation with him. It needed him for something, or it chose him for some reason. It could be lying, but how would he know? He had jumped into the pond. He was here now. He wanted to see this world. And he wanted to wield magic. And that was that. He made his choice.
+
+Maybe I already made it when I quit.
+
+“Then let’s move on,” he said. “You said learning, you're not planning to teach me magic, are you?”
+
+“No. But I will teach you something equal or perhaps even more powerful,” Envolon said, moving two of his hands before he made a series of shapes with his fingers. Out of thin air, a stack of papers appeared before him, accompanied by a quickly fading hue of blue and the smell of iron. “What you will learn, is language.”
+
+“You mean the people of Renavor don’t speak French?” he asked in a dry tone.
+
+“Amusing. You’re free to try. But most of them will likely understand Lavirian. And that is what I will attempt to teach you,” Envolon said.
+
+Veron wondered if he should ask why there wasn't a magical way to beam the knowledge into his head but he decided not to.
+
+“How long do we have?”
+
+“Around two hours and forty six minutes,” Envolon said.
+
+“We better get started then.”
+
+“We better,” the strange magical being made of wires and metal said, handing the first sheet of paper to Veron.
+
+At first, it was difficult to focus, what with his circumstances, the strange machine like being before him, and the existence of magic being real! But soon he got into a flow. It would be quite embarrassing if he appeared in this new world and was thrown into jail or attacked immediately because he didn't know how to say hi.
+
+He did occasionally ask another question that came to mind, but he learned nothing new.
+
+Two hours and forty-six minutes were not a long time. Barely enough to cover some of the grammatical and pronunciation basics, let alone more than some starting vocabulary. A crash course if you will, though granted, Veron did consider his teacher quite adept.
+
+“Our time is almost up,” Envolon said, ripping Veron out of his focus.
+
+“That was quick. I don't think I'm exactly fluent yet. I don’t suppose I can take that stack of papers with me?”
+
+“If you hold them tight, I may be able to get them through.” Envolon sat back, shoving over the remainder of the stack.
+
+“I didn't expect you to say yes. Thanks, for the lessons and the grammar notes,” Veron said, grabbing the papers and holding them close to his chest. “I'll protect them with my life.”
+
+“You better. I learned French just to teach you.”
+
+Veron breathed in deep. He wanted to make a joke about English being worse, but he didn’t. He felt nervous.
+
+Envolon watched him with the small lights at the center of his eyes. He stood up gingerly and walked over with his cane, extending one of his four hands to Veron. His arm glowed with a golden hue. “Veron, son of Brouwer, I offer you this pact. You agree, here and now, to go on an adventure on Renavor. Take my hand, and if such is your wish, then repeat the terms to me and agree to form this pact.”
+
+Veron could feel the intensity in Envolon’s eyes. A magical pact. It felt official. Weighty. And yet the terms seemed so simple. There was no great evil to defeat, no treasure to find, no calamity to stop. The great quest that was offered, was to go on an adventure.
+
+I wanted to know what was next.
+
+There doesn’t seem to be a deadline either.
+
+Time to make it official then.
+
+He grabbed Envolon’s hand. It was cool to the touch.
+
+Suppose I’ll find out what the catch is when I do.
+
+Then he spoke. “I agree to go on an adventure on Renavor.”
+
+A strange sensation flowed through him in the same moment, the golden light expanding around their arms before wisps of light floated out and away. Veron held on as searing runes burned into his forearm. He grit his teeth and breathed out. The smell of iron was in the air.
+
+“The pact, is sealed. Rise now, Bestowed, and forge your path, to the end of the world,” Envolon said, his tone carrying weight beyond what he had displayed so far. He stood straight and let go of Veron’s hand. He raised his four arms and started moving his fingers into vaguely geometrical shapes, deep blue light appearing as a strange energy thrummed to life between his hands.
+
+The end of the world? I hope that’s just a figure of speech.
+
+“Any last advice?” Veron asked.
+
+“Be wary of monsters, be wary of those not of your kind, and be wary of the night, when the moon is brightest.”
+
+“That’s all very vague, Envolon.”
+
+“I suppose it is.”
+
+He smiled despite it all. He felt nervous and scared, and at the same time, he couldn’t wait to see this world for himself. “You practiced that line, didn’t you?”
+
+Envolon looked at him and shrugged ever so slightly. The small gesture made him seem more human than anything he had shown so far. “Maybe I did.”
+
+“Funny that,” Veron said, gesturing with his stack of papers. “I appreciate the lessons, Envolon. Until next time.”
+
+The edges of Envolon’s mouth, line as it was, twitched slightly upwards. “Good luck, Veron.”
+
+A flash of light followed, Envolon’s eyes glowing bright before Veron was enveloped in bright shining light, and a split second later, he stood somewhere else. Not a metal room or in sand, but on solid ground without any mist in the vicinity.
+
+He stood amidst a meadow, hearing chirping birds and the faint sound of flowing water. He smelled grass and fir trees, quickly replacing the lingering smell of iron. The sun was bright and high on the horizon, distant clouds clinging to high reaching mountain sides.
+
+Veron closed his eyes and breathed in. He felt the grass and the soft earth below his feet, could feel the wind in his hair and the sun on his skin.
+
+He opened his eyes and breathed out.
+
+This is nuts.
+
+Renavor. Where should I go then?
+
+He focused on the now, on the fact that he was in a distant place supposedly full of monsters and magic, without any clothes and armed only with a few sheets of notes about the language.
+
+“I'd better get started before I get hungry and thirsty,” Veron said to himself. There was danger here, if only because he had no idea where he was, and he had none of the basics, but he felt great despite that. Already, this felt like an adventure like none he’d had before. I wonder if I've already fulfilled the quest I was sent on.
+
+He was amused by the thought as he started walking through the knee-high grass, checking his surroundings for any dangers or anything that could be useful. He soon reached the shade of some trees. Beeches or something similar by the looks of it. The leaves were a deep green but he could spot what looked like fir trees some thirty meters away that seemed to have both green and blue colored needles.
+
+It felt strange and alien for a moment but also calming on a deep reaching level. He realized why in the same moment.
+
+There was nothing here that suggested the presence of humans. No roads, no blinking lights, no planes, no cars, no houses, nor any fields, at least none that he could see or hear. The landscape looked untouched.
+
+The distant mountains were snow topped and he had no idea how far away they were. The water sounded more like a creek than a river.
+
+And there was something else. A strange connection that he felt here. It wasn't new entirely.
+
+It was the feeling of a warm fire, sitting with friends and listening to one of them tell a story full of heart. It was the feeling of grass and earth, lying there, next to a person you love, and watching a train drive by in the distance. He felt his chest constrict at the memories that welled up. The choices he had made.
+
+But he was here now.
+
+His thoughts were interrupted when he heard a distant shrieking sound. He pushed closer to the tree before him and glanced around but it had sounded quite far away. When was the last time I was actually scared in a forest?
+
+He decided that getting excited about that was not going to be particularly helpful, so instead he listened for the creek and walked in that direction. He could feel the sharp edges of stones and branches on his feet, wishing that Envolon could have sent him here with shoes and clothes.
+
+Guess that is my first quest. Find clothing.
+
+He soon found the creek he’d heard in a section of forest. It flowed slightly downhill and so he followed it, trying not to step on any particularly sharp rocks. After a bit of deliberation, he also grabbed a sizable chunk of rock. To defend himself.
+
+It felt silly for a moment. He imagined finding Charlotte on a nearby path, worried that he had lost his mind. But if magic is real here, then I’m sure she’d be a pretty badass mage in this world.
+
+What did I get myself into?
+
+He breathed slowly.
+
+An adventure. Naked and with a rock, in some forest I don’t know.
+
+He heard scuttling noises here and there, and saw the occasional fast moving creature running off into the underbrush.
+
+Soon he came out of the forest and onto a large field of high growing grass. It was warm. He closed his eyes for a moment and breathed in, hearing the wind flowing through the grass.
+
+He breathed out, and opened his eyes.
+
+Either way. I’m here now.
+
+He went on, following the water as it cut through the field. He saw more forest to the right and an overgrown hill to the left.
+
+Time passed as Veron followed the creek, the sun moving on the horizon. More fields and sections of forest, some overgrown parts he had to avoid without better shoes and clothes, and maybe even a blade to cut his way through.
+
+He noticed that he was getting thirsty when he saw movement to his left. He hid behind a tree and glanced past. Faint sunlight shone down on a small clearing in the forest, illuminating several carcasses of animals, one of them as large as a horse and winged, its head a blend of a bird and a stag. Kneeling before it was a woman. She wore a dark red cape whose color seemed to be fading. Below, he could see what looked like medieval or Roman armor made of leather, parts of it steel. She had long brown hair, partially obscured by the large scabbard fastened to her back. The handle of a large sword peaked out at the top of it.
+
+She had stopped moving.
+
+She's human. Or at least she looks like it. And she's already heard me. I shouldn't delay.
+
+He had prepared for this moment. Had hoped for it. But now, it did feel slightly awkward after all. More so because he barely knew the language. He peeked out from behind the tree and waved at her before he could consider that she didn't speak Lavirian at all.
+
+“Hello. I am Veron, an adventurer, and I think I need help.” He had no idea how much he butchered the pronunciation, but the main words were there. A greeting, his name, the adventuring bit that would hopefully kind of explain his state of nakedness, and a plea for help.
+
+The woman stood up and looked at him. It looked as if her eyes had a glint of red in them. Her skin was tanned. She sighed and glanced around, slowly reaching for her sword before she unsheathed it from her back. The handle looked golden, the blade itself reflecting the sunlight. She looked calm and not particularly focused on him.
+
+He waited.
+
+When she glanced his way again, she seemed slightly confused. Then she gestured for him to come closer.
+
+Veron forced himself to move slowly. By the way she casually held the sword almost as large and half as broad as herself, he wondered if she had been the one to kill the beasts. What he knew for sure though, was that if she decided that he was a threat, he would very likely be dead.
+
+He slowly stepped out from the tree, covering his privates with the sheets of paper. And he was ready to make a run for it.
+
+He tried to smile in a friendly way and waved again. “Hello. I'm Veron. My speak is bad.”
+
+She stared at him for a long moment and then lowered her sword, starting to laugh right after. She said a few words then and a sentence that sounded like a question.
+
+He shook his head in a confused manner. “Help?”
+
+The woman shook her head In disbelief. She seemed slightly amused and then nodded. “Help.” It was all she said before she sheathed her sword and walked up to him. She stopped a few meters in front of him and crossed her arms.
+
+He saw now that the red in her eyes was really there. She looked to be in her forties. He saw a few small scars near her left temple and it looked like her gear had seen better days. There were dents and scratches but it looked reasonably well polished.
+
+She said something. It sounded accusatory. But she seemed amused at the same time.
+
+Staring? Or because I’m naked?
+
+Veron tilted his head to the right slightly and smiled. Then he shrugged. He was naked in what he assumed to be another world, and barely spoke the language. It was bound to be a little awkward.
+
+She pointed at the sheets of paper.
+
+He kept one and handed her the rest.
+
+Her slight amusement changed to a more serious expression as soon as she started reading. She murmured to herself, slightly confused it seemed. Then she glanced at him with interest. As if she was looking at a strange exotic animal.
+
+“Veron,” he said again.
+
+She nodded slowly, lost in thought for a moment before she focused back on him. “Veron. I’m Ivera.” She said and handed back the papers. She said a few words and then walked off and back towards the carcasses.
+
+Wait here, Veron translated. He sat down and watched her.
+
+Ivera didn't speak another word for a while. She first checked all the carcasses. The large winged one and three smaller ones that looked a bit like starved dogs but it was difficult to tell at the distance.
+
+She moved the bodies, changed the position of their legs and closed their eyes. Then she stepped in front of them and grabbed something out of a pouch on her belt. A candle that she lit and set down on the forest floor. She slowly unsheathed her blade and rammed it into the ground, then knelt down before the candle. She kept one hand on her left thigh and the other one touching the handle of the sword and then she started speaking. Quiet words that sounded like a poem.
+
+A prayer? Veron could almost feel the heavy atmosphere around him. He didn't raise his sheets to try and translate the words she was speaking. It felt wrong, to interrupt this moment. Instead, he closed his eyes and listened.
+
+He breathed in and felt the forest floor below him, the earth that lay deeper still. He felt a pulse go through him, through everything he was.
+
+And then it was gone, leaving only goosebumps behind. He opened his eyes and saw that Ivera was rising. She put away her sword and glanced his way with an unreadable expression. She walked towards the thicket and said a word.
+
+Follow, he translated.
+
+Veron gave her a nod and followed, glancing back at the dead creatures one last time. The scene before him felt lighter, more serene, the violence and death fading with the strands of sunlight reaching down.
+
+He wondered what he had felt.

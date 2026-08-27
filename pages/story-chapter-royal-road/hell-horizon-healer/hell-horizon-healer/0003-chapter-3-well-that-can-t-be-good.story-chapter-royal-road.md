@@ -1,0 +1,129 @@
+---
+id: 845b6c97-0488-50d9-902f-515f82418351
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3 - Well, That Can't Be Good"
+slug: 0003-chapter-3-well-that-can-t-be-good
+partOf: hell-horizon-healer
+position: 3
+ownLength: 1356
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3519744/chapter-3-well-that-cant-be-good"
+royalRoadId: "3519744"
+---
+
+Jake rushed out of the room, snapping his attention to where the noise was coming from. Everyone was frozen. Jerry—one of his neighbours—had a hammer in hand. He had smashed the window leading to the outside.
+
+That wasn’t the cause for concern. The culprit was an enormous… man, if he could be called that. Eight feet tall wearing greasy overalls, his forearms revealed thick, wiry muscles that looked more like steel cables, veins so thick they were raised like snakes under his flesh. A welding mask covered his face.
+
+The thing grabbed Jerry’s head and squeezed, popping it like a zit. Blood and brain and viscera splattered all up the wall. His wife, Susan, screamed and by instinct, started wailing on the monster of a man.
+
+He didn’t respond. He only raised his hand once more, this time to the window, and without any sign, the glass repaired in an instant. He turned, his steps thumping in the hall, then stepped into the wall, vanishing.
+
+Susan broke down, sobbing uncontrollably, cradling what was left of her husband. Chloe was there to cradle her in her arms. Arthur didn’t know what to do, he just stood there awkwardly holding his shield—it was becoming a habit, it seemed.
+
+Someone had pissed themselves, the stench wafting through the hallway. Make that two.
+
+Jake’s lips twitched.
+
+He could handle the strange reality of being able to use magic, the sight of monsters, or the fact his bow appeared out of thin air. This entirely warped his entire understanding of… everything. He appeared from the walls, killed someone with a pinch, restored a window like he was manipulating time, then walked through a solid wall, disappearing.
+
+Well that can't be good.
+
+But also…
+
+How do I become strong like that?
+
+***
+
+Everyone was crying, and for Jake, there was nothing worse in the world. Even that monster didn’t make the top five list of things he hated.
+
+It was the uncomfortable awkwardness of it all. What to say? Do? Nothing? Something?
+
+Just as he was about to enter his room, he heard hushed snippets of Arthur and a bunch of other people’s conversation. He didn’t mean to, and frankly, wished he hadn’t—he had his enhanced hearing to thank for that.
+
+They were talking about food and water. Apparently there was none on the entire floor. Arthur had checked every single room and there wasn’t a single granola bar or piece of meat at all. Even his own apartment that he had remained the day prior—all of it was gone.
+
+There were murmurs about forming a team to head to the other floors, though that suggestion was shut down pretty quickly as they remembered what was in the stairwell. Jake wondered if they’d shoot it down when they were hungry and thirsty and desperate.
+
+He entered the room.
+
+Whatever they were planning had nothing to do with him as he got back onto the floor, and pushed.
+
+***
+
+Strength +1
+
+Jake pushed once more, healing through the pain and suffering as he experimented with his healing ability. He couldn’t heal the muscle, not directly, as the skill only healed shallow cuts. But it soothed it somewhat, and the mastery was increasing slowly but surely.
+
+His arms, chest, and his core felt like they were going to burst open from how tight they were.
+
+Four hours had passed since the arrival of the Janitor. That’s what he dubbed him. Four hours of constantly healing his sore muscles to power through exercise, and it was working wonders.
+
+Taking his top off, he flexed in the mirror. Before he had a rotund belly; skinny-fat, he liked to call it. Now he was still… a little fat. Damn it. But he noticed that his love-handles were a little smaller, and he’d put on a bit of muscle.
+
+However, as time passed, he could tell the results he was getting were diminishing rapidly.
+
+Was that because he was only doing one form of exercise? Should he start working on his legs now?
+
+So that’s what he did.
+
+He started doing squats. Up. Down. Shake it all around… He stopped shaking immediately seeing how stupid he looked in the mirror. Back to his original spot in the middle of the living room, he started his squats for real. He did it for an hour, gaining one more point in Strength before realising that it was going even slower now.
+
+Wondering what he could do to quicken the pace a little, he opened the door of his apartment and peeked out. A lot of people had vacated the halls, going into their own rooms. He could hear at least six or seven… people in the next room.
+
+He saw Arthur’s shield leaning against the wall near room 304. Arthur was nearby discussing things; food and water, just as before, but enough time had passed now where they were seriously contemplating it.
+
+Jake snuck out of his room, grabbed the shield as quietly as he could, then hot-tailed it back before anyone saw him.
+
+He started doing squats now with the added weight of the kite-shield. It was heavy. Good.
+
+Strength +1
+
+Nine points of Strength now coursed through his body, and he felt like a completely different person. Strong. Confidence. Ready to talk to everyone and become a politician… Okay, maybe not, but he was definitely strong.
+
+Arthur’s shield was no longer sufficient.
+
+What now? He thought to himself. Pull-ups would most likely gain me the most points in Strength, increasing my back and shoulder muscles further. Then there were pike push-ups. How do you do them again?
+
+Shaking his head, his eyes widened as he heard someone near his room. He quickly put his shirt and hoodie back on, relishing in the comfort, before quickly remembering that doom was coming. People. He grabbed the shield as if it would protect him from the inevitable conversation.
+
+Before there was even a knock, the door swung open. Arthur was angry. Why?
+
+The man stormed up to Jake. Was he going to give him an angry hug? Thank him for warning him about the monsters in the stair-well?
+
+Nope, just a fist. A big one.
+
+Arthur’s fist slammed into his jaw, sending him to the floor as the shield was ripped out of his grasp.
+
+“What the hell are you doing with my shield?”
+
+He stood over him with five others by his side. He knew most of them, neighbours on the other floors. He didn’t know their names. Chloe was behind them, a nosy look shining in her eyes.
+
+Jake held his jaw, pain blossoming through his teeth. “I was just borrowing it,” he said, tasting blood.
+
+Arthur trembled. Was he scared? Jake stood up tall, meeting the man’s gaze only for a moment before he glanced away.
+
+He punched Arthur back, hard. He heard something crack in the man’s face, felt it too against his knuckles. Oh, that was his own knuckles. A translucent barrier made of that same static crumbled in front of Arthur.
+
+Jake fell to his knees, seething in pain. God, it hurt. His hand was broken. He glared up at Arthur, and this time he didn’t avoid eye contact.
+
+Arthur blinked in confusion, watching as the static drifted to the ground. He shook his head, scowling. “Don’t take my stuff again,” he said. “Got that?”
+
+Jake didn’t respond.
+
+Only after Arthur had left the room did he finally find the words he was looking for.
+
+“Asshole.”
+
+He activated Minor Heal, pressing the golden flame straight into his mangled knuckles. It couldn't fix the broken bone itself, but the skin fused shut, the swelling stopped. He waited for until he could use another heal, then focused deeper, trying to target the muscle underneath.
+
+The muscle tightened up a little to support the fracture like a makeshift splint.
+
+He closed his fist, ignoring the dull, internal grind of the bone. He was out of mana, but his fingers still worked.
+
+Good enough.
+
+And note to self: Arthur has a magical shield. Do not punch his face with bare knuckles again.
+
+Ouch. Why does he need two shields?

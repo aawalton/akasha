@@ -1,0 +1,81 @@
+---
+id: 407a4ff4-dd26-581a-a83f-a487d4d806f7
+page-type-slug: story-chapter-royal-road
+title: "Halloween Special (non-canon) - Nibble to Remember: part 2"
+slug: 0013-halloween-special-non-canon-nibble-to-remember
+partOf: hell-difficulty-tutorial
+position: 13
+ownLength: 1449
+unit: words
+publishedAt: 2023-10-31
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/1391375/halloween-special-non-canon-nibble-to-remember"
+royalRoadId: "1391375"
+---
+
+Item #: SCP-3127
+
+Object Class: Absolute Unit
+
+Special Containment Procedures: SCP-3127, informally known as "Biscuit", is to be contained in a 100m x 100m chamber made of reinforced endurium walls interwoven with epic-graded mana circuits. These measures ensure resistance against the force of its mana tentacles and other abilities. The chamber is to be anchored with anti-magical runes and SCP-3127 must always be supplied with a high amount of food to prevent Biscuit's agitation. Access is restricted to Level 9 personnel, the highest level. Prolonged direct visual contact with SCP-3127 is strictly prohibited.
+
+Personnel assigned to SCP-3127 are required to undergo advanced psychic resistance training and must possess defensive items specifically designed to resist Biscuit's telepathic abilities. Telepathic communication should be approached with extreme caution and only by individuals of Champion rank.
+
+Under NO CIRCUMSTANCES is direct physical contact with SCP-3127 permitted.
+
+Description: SCP-3127, or "Biscuit", is a mysterious entity. It resembles a dog and though it appears externally like a Corgi, its true nature is far from ordinary. A dark purple aura surrounds it, and tentacle-like mana constructs eerily emerge from this shroud. These tentacles, both solid and intangible, have been observed stretching up to 10 miles during Biscuit's return to Earth, moving in patterns that defy all known physical laws.
+
+SCP-3127 has highly potent telepathic abilities. Those who attempt communication often suffer psychological disturbances, including paranoia, vivid nightmares, and episodes of catatonia. Following communication attempts, five personnel members took their own lives, their last word being: “Asshole”. The meaning of this message remains a mystery.
+
+Despite SCP-3127's tendency to hover slowly, it can exhibit surprising speed and agility, especially when threatened or seeking its favorite sustenance: food. It has an insatiable hunger, particularly for foods that were once alive. In past containment breaches, SCP-3127 sought live prey and displayed a horrifying method of consumption termed [Devour] by researchers. The aftermath of this method is a void where nothing exists.
+
+Tests indicate that its preferred food is dried deer meat, which is used sparingly to pacify SCP-3127. Large quantities have been secured.
+
+Addendum 3127-S: SCP-3127 returned to Earth from a realm named the "Hell difficulty tutorial", which seemingly consisted of nightmarish challenges. Out of over 3,000 individuals who entered the fifth round of this "tutorial", only SCP-3127 returned. The fate of the others remains undetermined.
+
+Addendum 3127-P: A research team, aiming to comprehend SCP-3127's capabilities, listed potential sub-classes based on observed behaviors. Leading theories suggest it might be a [Master of Gluttony] or an even higher rank. The exact nature and full extent of its power are shrouded in terrifying mystery.
+
+Addendum 3127-O: On October 31, SCP-3127 sent a psychic message to all personnel within its containment facility, stating, (I require sustenance.) Immediate effects included severe nosebleeds among exposed staff. Enhanced security measures were enacted, and deer jerky was provided. The motives behind SCP-3127's message are being probed.
+
+Addendum 3127-O: During a maintenance inspection of SCP-3127's chamber, previously unseen symbols were found inscribed on the floor directly beneath SCP-3127's hovering position. Efforts to interpret the symbols have been unsuccessful as extended exposure leads to severe gastric distress in researchers.
+
+Addendum 3127-K: Surveillance footage revealed SCP-3127 emitting a low-frequency hum in its rest phase. Analysis shows the hum contains multi-layered tones. Listening induces intense hunger and a profound sense of existential dread. All recordings are archived and restricted to those with appropriate clearance. All other copies have been carefully destroyed.
+
+Addendum 3127-Y: Interviews with returnees, individuals who experienced "the tutorial", suggest that participants were subjected to escalating challenges designed to "elevate" or "transform" them. SCP-3127's unique abilities and its emergence as the sole survivor of the fifth round have prompted researchers to theorize that these rounds were designed to grant participants eldritch abilities. Efforts to find the entrance or remnants of "the tutorial" continue.
+
+Addendum 3127-B: A recent incident involving SCP-3127 led to Dr. ██████'s disappearance. While presenting a live sample for SCP-3127's consumption, the entity's tentacles enveloped and drew the doctor to itself. Before on-site security could intervene, both SCP-3127 and Dr. ██████ vanished from the visible spectrum. They reappeared minutes later with Dr. ██████ in shock and SCP-3127 appearing satisfied. Dr. ██████ is now under quarantine and receiving a psychological assessment. He repeatedly murmurs the word, (Asshole.)" Further investigation is required.
+
+Addendum 3127-I: After the incident with Dr. ██████, SCP-3127 began to display new behaviors. It intermittently projects images of a young man with heterochromia onto its containment chamber walls. Observing this projection, SCP-3127 becomes extremely calm, momentarily resembling an ordinary corgi. The intent or meaning of these projections is yet to be deciphered.
+
+Addendum 3127-S: SCP-3127 appears capable of "marking" select individuals. Marked individuals describe hearing whispers labeling them "Asshole" and recount dreams of infinite banquets where they play both the diner and the meal. Attempts to neutralize or reverse this marking have been unsuccessful. Subsequently, three staff members took their own lives a few days later.
+
+Addendum 3127-C: A minor containment breach transpired on [REDACTED]. Surveillance revealed SCP-3127 producing an unusually large tentacle, which effortlessly breached the chamber's door. The entity lingered in the corridor for exactly three minutes and seventeen seconds. During this time, nearby personnel experienced paralyzing hunger and fear. SCP-3127 then retreated to its chamber, and the tentacle retracted. While no fatalities occurred, affected staff needed medical and psychological treatment. Containment measures have been revised to stop similar incidents, and several Champion disciples have been dispatched to monitor the entity.
+
+Addendum 3127-U: Over a five-day span, from [REDACTED] to [REDACTED], SCP-3127 demonstrated an uncharacteristic calm. Its signature purple aura faded notably, and the entity remained motionless, without any tentacle manifestations. Throughout this interval, researchers felt a serene atmosphere near its chamber. Psychic members of the SCP team sensed profound sorrow radiating from SCP-3127. The rationale behind this demeanor is undetermined.
+
+Addendum 3127-I: On [REDACTED], SCP-3127 breached its containment. Cameras caught SCP-3127 turning a deep black shade, followed by a rapid, forceful tentacle expansion that damaged the chamber and incapacitated adjacent staff. The facility was immediately locked down. During the breach, SCP-3127 navigated the facility, seemingly in search of something or someone. A disturbing telepathic message was relayed to every mind within a 50-mile radius: (I require sustenance.) The entity subsequently disappeared, having eliminated most of the guards. All SCP installations are on maximum alert, and re-containment of SCP-3127 is the highest priority.
+
+All Earth's Champions have been notified.
+
+Addendum 3127-T: On [REDACTED], a synchronized psychic transmission from SCP-3127, more powerful than any preceding message, was sent through the Earth. The communication, unsettling in its simplicity, declared a mysterious message:
+
+(Food Food.)
+
+In the immediate aftermath of this message, SCP-3127 materialized outside its last known containment location, radiating a more potent purple aura. Global anomalies occurred almost immediately. Satellites captured the terrifying scene from space: vast, swirling vortices of purple energy manifested in every major city worldwide. When these vortices touched the ground, they started consuming buildings, nature, and life itself. SCP-3127 began releasing unprecedented amounts of mana, which started altering physical laws.
+
+Major world governments, in collaboration with the SCP Foundation, launched emergency procedures to tackle this escalating threat. However, conventional weapons were ineffective against SCP-3127-1. More concerning, one of Earth's Champions, the leading candidate for the title of Earth's Absolute, Victoria Gwyn, confronted SCP-3127. Absolute candidate Victoria Gwyn displayed an intense hatred towards the entity. This seems to be linked to the disappearance of her brother during the 5th round of the tutorial, where Biscuit also participated.
+
+The ensuing battle between SCP-3127 and Champion Victoria Gwyn destroyed most of Europe. Two other Absolute candidates died when they tried to intervene, along with dozens of other tutorial returnees.
+
+It's impossible to determine the exact toll on civilian lives, but estimates suggest hundreds of millions died within hours of the conflict, with many more dying due to the Mana Radiation resulting from the two beings clashing.
+
+Champion Victoria Gwyn ultimately retreated, gravely injured with her mana depleted. Her left arm was lost, and no known skill could restore it.
+
+As the days turned into weeks, the world descended into chaos. Biscuit gently hovers and moves across the globe. Satellite images now show our once-blue planet filled with vast patches of purple mana that devour everything.
+
+Foundation researchers, operating from secret locations, are urgently seeking a solution. SCP-3127, or Biscuit, remains mysterious and unbeaten. Its goals, while devastating on a global scale, are still not entirely clear.
+
+The world is on the edge of annihilation, yet unified against a common, extremely strong enemy.
+
+We will fight until our last breaths, we won't stop and we won´t become (Food.), yet we are worried, the fight in front of us seems impossible.
+
+Someone, please, help us.

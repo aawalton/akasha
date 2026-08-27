@@ -1,0 +1,279 @@
+---
+id: eb359ced-8c2f-5e13-9daf-f13ed62e33a9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 833 - The ****pocalypse"
+slug: 0160-chapter-833-the-pocalypse
+partOf: hell-difficulty-tutorial
+position: 160
+ownLength: 2960
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3581563/chapter-833-the-pocalypse"
+royalRoadId: "3581563"
+---
+
+We rush through a tube that appears to be a vein, its surface constantly pulsating, stretching, and expanding. More lurkers continue to appear. The nature of the place we’ve found ourselves in prevents me from being able to send my senses too far out, but I’m sure they aren't just being teleported in by the lynthari lurker. This area just seems to have a huge density of them, and those we encounter tend to be especially strong as well.
+
+It would seem that we’ve really gotten to the center of the 1st floor by hitchhiking.
+
+Sending my mana bouncing through the vein we’re moving through disrupts a few of the lurkers ahead of us, while Morwag grabs one of the more melee oriented lurkers that keeps getting into fistfights with him and squeezes his skull.
+
+A blaze of thermal energy fills the vein from some place ahead of us, entirely careless of the fact that the attack is going to kill some of the lurkers as well. Before these golden flames even reach me, I absorb the heat until they’ve weakened to the point of a warm breeze pressing against us, then I launch a blaze of my own, rushing ahead in a torrential wave.
+
+[You have defeated Reanimated Corpse - lvl 399]
+
+Something flies past me that I recognize as part of a weapon one of the lurkers was using, which Morwag then tore into pieces to throw as projectiles. The fragment flies with enough force to evaporate the head of one of the incoming lurkers.
+
+More attacks rain in from the back, and even without using binding energy, Morwag just lazily tanks it with the sheer power of his body. Snickering, he drops the hammer and pins it to the ground with his boot. Using his one remaining arm, he tears a chunk of metal from the item and flings it toward the source of the attack. The attacks stop right away.
+
+The ambushes continue all the way through, with many more lurkers appearing as we go. Sometimes there are big groups numbering in the dozens. In other cases, it’s just a few of them, but their levels are all over 400. I continue to channel mana and my primordial energies while Morwag moves tirelessly, taking the weapons they leave behind, even as the lurkers die and either using them directly or tearing them into projectiles.
+
+Moving on from the vein, we walk across what almost looks like a wide bridge with a never ending pool of darkness below, but closer inspection reveals it to be an enormous bone, and the ceiling is covered in what looks like nerves, constantly pulsing with the electric impulses being passed between them. Within this huge open space, some lurkers have even begun to fly, attacking us from whatever distance they feel is safe, only to be finished by our own ranged attacks.
+
+In the middle of that bridge, a female velnar lurker stands.
+
+[Reanimated Corpse - lvl 441]
+
+She meets Morwag in a direct clash just as the demon charges and punches her. Part of her body explodes but regenerates every bit as quickly as Lily’s would as she uses healing mana to repair herself. Her attack meets Morwag’s face, causing him to stumble back, and then, with both hands fusing into something resembling a hammer, she smashes down at him. He’s sent crashing down with a crack into the bone bridge, which cracks under the force, and the resulting shockwave pushes me back.
+
+Even then, the demon, bleeding from his mouth, pushes himself back to his feet only to grab her hand, stopping her next punch. He gets pushed a bit less this time, and tears begin to appear across his body that he entirely ignores, along with the broken bone poking through his forearm. He pulls the velnar woman closer to bite into her neck and tear out her throat.
+
+But before he even fully pulls back, the wound is restored, and straightening her fingers, she stabs her hand fingers first into his body and jerks it back out. She pulls Morwag’s guts out of his body as she does, and blood floods from his mouth, yet he still begins to laugh, causing even more blood to flow.
+
+He pushes himself closer, causing her arm to stab deeper as she begins to search for his heart so she can crush it. His hand shoots ahead, fingers first, in a similar manner, but his strike goes through the bottom of her chin. He breaks a few bones but pushes deeper and pierces through to reach her brain, at which point he starts to wriggle his fingers.
+
+The velnar woman begins to uncontrollably twitch, attacking him more aggressively and bleeding him out while he watches her almost curiously. But she’s the one who stops moving first, and drops to her knees, held upright only by his hand until he pulls it out and lets her fall.
+
+Then, he stops and looks at his hand with its broken fingers covered in brain matter. He snorts as if in surprise and lazily kicks her body off the bridge.
+
+An attack crashes into his shoulder, flinging him back, but he observes the trajectory of the other incoming strikes and twists his body just enough to avoid them. While stepping to the side, he shoves his guts back into the huge hole in his stomach, relying on his high natural regeneration to take care of the rest. Like an unstoppable machine, he continues to march ahead, meeting the attack of two demons using kinetic energy to boost their movements.
+
+Meanwhile, I press against the combined effort of some lumoran triplets to set up a domain within which they would be able to turn all mana to their own efforts. It is an interesting attempt, yet still so silly against someone like me.
+
+I break it down into pieces, changing parts of it and adding something of my own in the process, and using the remains of their barriers, I [Weave] my own. In addition to my [Mana Manipulation], I then use that [Weave] to absorb ambient mana and further strengthen my disruption efforts.
+
+There are a few invisible lynthari moving under the bridge on all fours to attack us from the sides. I cancel out their invisibility as well, and my projectiles fly through the air like guided missiles as they track the markers I placed on them.
+
+One of the attackers blocking the last stretch of the bone bridge is a lurker entirely covered in fur with a bear-like face, standing even taller than Morwag. Almost as tall as a velnar, though he is much wider. Each movement of his body carries an incredible strength behind it as I track its momentum with my kinetic senses.
+
+I gather enough mana high in the air, and use part of my [Weave] to strike out with dozens of projectiles while I launch an [Empyrean Lance] that I [Weave] with my blood.
+
+While under the barrage of projectiles, the lurker moves to attack and slams its arms down, breaking the end of the bridge. With a loud crack, it begins to fall, pulling us down into the darkness as I watch the ceiling with its nerves and flickering electricity.
+
+Both Morwag and I jump. I fly to avoid a few ranged attacks while Morwag simply flicks them away. The wounded bear lurker charges to attack the demon, and my [Redistribution] expands, further strengthened by my [Weave], and all movement halts.
+
+Morwag reaches him first, tearing his head off and throwing it to the side. A rain of my own projectiles shoots out, homing in on the marks I’ve placed on the remaining lurkers, as I land on the walkway next to the demon.
+
+There’s a wall in front of us that I simply blast away with all the kinetic energy I’ve been absorbing, resulting in a shower of flesh and bone that once formed the wall. All of it halts in the air, held there by kinetic energy as we pass through.
+
+Almost ignoring our presence, the Dhampir is there waiting within what seems to be the inside of an organ, maybe a lung, for which this place is just the tiniest part. On a table made of bones lies Calvorn, whom the Dhampir seems to be endlessly fascinated with.
+
+Next to him stand two lurkers. A human with a golden third eye in the middle of his forehead, and a demon without any horns. They weren’t pulled off or broken, they’re just missing.
+
+[Reanimated Corpse - lvl ????]
+
+[Reanimated Corpse - lvl ????]
+
+The Dhampir turns to us, again with a smile sounding in his voice, though it is impossible to see. "Oh yes, you will make beautiful puppets."
+
+I walk slightly to the left while Morwag goes to the right, and both lurkers begin to move along with us. The human with the third eye, turning to face me, and the demon without horns, doing the same for Morwag.
+
+"You don't seem to be too annoyed by us destroying so many of them," I note, gathering more and more mana, ready to push it further.
+
+"And why would I be? Within a year, all of them will return to me. Back under my control," he says and tilts his head. "And there are so many more, I can hear them all."
+
+"That sounds like a lot," I stop just a few steps away from the human, who watches me with the golden eye in the middle of his forehead, while the other two track Morwag. "So this is all your work?"
+
+For the first time, the Dhampir laughs, it is a broken, high-pitched sound ending in a snort. "I am just a vessel. A puppet master using just a fragment of the power of the Great One." He spreads his arms wide and shouts, "The Great One whose body we are walking through like mere insects! Though some insects are more annoying than others. Kill them so they can join you in service to me. They will be useful in my quest to return the Great One to life."
+
+A slight push and my mana compresses, turning black. The upper part of the vessel, manifesting behind my back, grows two more arms and puts two around me in defense while using the others to attack the human lurker.
+
+[Eclipse], powered by the black mana, expands into the area as I swing my hand and fling dozens of droplets of my own blood ahead of me. Some of them flying towards the Dhampir, others towards the human and demon lurkers. Each carries a hint of that gold and white light as I break apart [Empyrean Lance] to empower them further.
+
+The human lurker avoids some, while the Dhampir ignores them entirely as they simply rain against his body. A mouth appears on his entirely black face, like a half moon made of blood, as he smiles. Two long, fang-like teeth make themselves known.
+
+However, the demon gets most of them, staggering back, and Morwag uses the opportunity to throw the container. Watching it fly through the air, I hold the syringe I got from Doc, ready to stab it into my heart.
+
+Everyone in the room turns their attention to the reinforced glass container. The Dhampir arrogantly watches it sail through the air toward him, his smile widening. "Why don't I show you how useless all of this is against someone like me, my precious?" he says.
+
+He lets the glass case break against his body as all of the measures we built into it unwind. Morwag’s arm is still there, sickly gray with black, green, and with a tracery of gray veins and missing pieces of flesh. The arm doesn't even smash against the Dhampir. It just splashes and breaks apart the moment it touches him, as if it barely held its shape. It is just pieces of wet, weak flesh and jellied bones.
+
+It all washes over the Dhampir, and I realize where all of Morwag’s binding energy has been going this whole time, as it binds the arm to the Dhampir and then does something else. Something much more exotic.
+
+Morwag chuckles shortly, and I watch him standing there looking at the Dhampir like he can only see a fool.
+
+Taking a deep breath, the Dhampir flicks the gore from his clothes. "Even after all those years, nothing feels better than putting the overconfident in their place. I am a vampire. One of the first sired by my master, you lowly trash! I am one who has fed on the blood of a god! Something like this-"
+
+He doesn't finish the word as he throws up. Not a little bit. He projectile vomits for three seconds straight. A stream of dried blood, chunks of bone, and shriveled flesh, and a foul pus-like liquid.
+
+After finishing, he coughs and stands tall. "This is-"
+
+Once again, he projectile vomits, heaving in between and then projectile vomiting again. His body sways, and he almost falls, resting his arm against the bone table, confused. "Just what-"
+
+Another round of vomiting follows, and even the lurkers in the room with us begin to sway. The human and the demon don’t vomit, but they falter as pieces of their bodies begin to break away.
+
+Morwag chuckles again. Standing there tall, the demon then begins to laugh, with the laughter gradually growing in intensity. He laughs louder the more the Dhampir vomits and the more he begins to break apart.
+
+The Dhampir even tries to use a skill but fails to activate it. One of his black arms falls off, and a hole big enough to see through appears in his chest.
+
+The human and demon lurkers make a sound for the first time and groan in pain, breaking apart even faster.
+
+"It can’t-" The Dhampir doesn't get to finish his last words as he breaks apart completely and without ceremony.
+
+[You have defeated Dhampir Lord - lvl 549]
+
+[Lvl 423 > Lvl 424]
+
+[Lvl 424 > Lvl 425]
+
+[Lvl 425 > Lvl 426]
+
+[Lvl 426 > Lvl 427]
+
+"Morwag, what have you done?" I ask, turning to my right.
+
+That demon guildmate of mine smiles and lifts one of his fingers, telling me to wait.
+
+And then, it all begins.
+
+[You have defeated Reanimated Corpse - lvl 466]
+
+[You have defeated Reanimated Corpse - lvl 471]
+
+Two of the lurkers in the room with us break fully and die. But it doesn't stop there.
+
+[You have defeated Reanimated Corpse - lvl 333]
+
+[You have defeated Reanimated Corpse - lvl 341]
+
+[You have defeated Reanimated Corpse - lvl 278]
+
+[You have defeated Reanimated Corpse - lvl 401]
+
+[You have defeated Reanimated Corpse - lvl 355]
+
+[You have defeated Reanimated Corpse - lvl 189]
+
+[You have defeated Reanimated Corpse - lvl 174]
+
+[You have defeated Reanimated Corpse - lvl 199]
+
+[You have defeated Reanimated Corpse - lvl 298]
+
+[You have defeated Reanimated Corpse - lvl 363]
+
+[You have defeated Reanimated Corpse - lvl 358]
+
+[You have defeated Reanimated Corpse - lvl 402]
+
+[You have defeated Reanimated Corpse - lvl 233]
+
+[You have defeated Reanimated Corpse - lvl 211]
+
+...
+
+[Lvl 427 > Lvl 428]
+
+And it continues.
+
+[You have defeated Reanimated Corpse - lvl 233]
+
+[You have defeated Reanimated Corpse - lvl 431]
+
+[You have defeated Reanimated Corpse - lvl 211]
+
+[You have defeated Reanimated Corpse - lvl 201]
+
+[You have defeated Reanimated Corpse - lvl 111]
+
+[You have defeated Reanimated Corpse - lvl 15]
+
+[You have defeated Reanimated Corpse - lvl 19]
+
+[You have defeated Reanimated Corpse - lvl 99]
+
+[You have defeated Reanimated Corpse - lvl 134]
+
+[You have defeated Reanimated Corpse - lvl 75]
+
+[You have defeated Reanimated Corpse - lvl 44]
+
+[You have defeated Reanimated Corpse - lvl 211]
+
+[You have defeated Reanimated Corpse - lvl 233]
+
+[You have defeated Reanimated Corpse - lvl 236]
+
+...
+
+[Lvl 428 > Lvl 429]
+
+The dingpocalypse.
+
+Hundreds, thousands, tens of thousands, and even more notifications filling my view. Lurkers are dying all over the 1st floor in amounts that feel like... all of them?
+
+[You have defeated Reanimated Corpse - lvl 265]
+
+[You have defeated Reanimated Corpse - lvl 291]
+
+[You have defeated Reanimated Corpse - lvl 21]
+
+[You have defeated Reanimated Corpse - lvl 12]
+
+[You have defeated Reanimated Corpse - lvl 66]
+
+[You have defeated Reanimated Corpse - lvl 420]
+
+[You have defeated Reanimated Corpse - lvl 69]
+
+[You have defeated Reanimated Corpse - lvl 67]
+
+[You have defeated Reanimated Corpse - lvl 134]
+
+[You have defeated Reanimated Corpse - lvl 399]
+
+[You have defeated Reanimated Corpse - lvl 351]
+
+[You have defeated Reanimated Corpse - lvl 213]
+
+[You have defeated Reanimated Corpse - lvl 285]
+
+[You have defeated Reanimated Corpse - lvl 200]
+
+...
+
+[Lvl 429 > Lvl 430]
+
+...
+
+...
+
+...
+
+[Lvl 432 > Lvl 433]
+
+...
+
+...
+
+...
+
+[Lvl 436 > Lvl 437]
+
+...
+
+...
+
+...
+
+It all stops only minutes later as the breaks between notifications rise to over a second long, stretching to seconds, and then a moment of silence stretching on for over a minute before the last one dings.
+
+And I can only stare at my level.
+
+Lvl 440
+
+When I look at Morwag with a question in my eyes, he seems to get what I want to see.
+
+As he turns to me, there’s a wildness in his eyes, like he wants to challenge me right here. But Morwag despises people who lack control, along with anyone he considers to be stupid. He pulls that inborn aggression under control, judging that now is not the time, and allows me to see the text over his head.
+
+[??? - lvl 456]

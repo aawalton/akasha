@@ -1,0 +1,139 @@
+---
+id: 05912028-a463-542e-be2f-f76d5c1e9185
+page-type-slug: story-chapter-royal-road
+title: "Chapter 839 - System War"
+slug: 0166-chapter-839-system-war
+partOf: hell-difficulty-tutorial
+position: 166
+ownLength: 2796
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3682400/chapter-839-system-war"
+royalRoadId: "3682400"
+---
+
+“There are six races native to this universe, though there might be more drifting on the undiscovered edges. Our universe is incredibly vast, and yet we still know that it is finite. Among these six races, the most powerful were the gods. Only a handful of dragons were able to match their Godkings, though most dragons stood on the same level as the average god. Then, there were elves, mora, fae, and humans, just like you and me. Usually, they were much weaker than the others, left to their wit, effort, and willpower to find their place.”
+
+“That must have sucked for them.”
+
+“Certainly. Yet, it was all those other mighty races that failed to notice the invader and fell, while humans remained.”
+
+“And the winner is the one standing at the end.”
+
+“Yes. As for the gods, they were of many shapes and forms, born of concepts, energies, and collective thoughts. We simply no longer know how exactly they came to be. Like much of our history, even this was erased from the collective memories of the people by the system. Most remain ignorant, and the few who know dare not speak of it, lest they bring unwanted attention upon themselves.”
+
+I glance at the wyvern resting its head on the ground near Lissandra. He’s also listening to her tell me the things he must have told her himself. Lissandra continues to talk, but while she repeats the information given to her, her own thoughts bleed into her retelling.
+
+“Every god possessed their own Elysian Framework, though many also called it a Divine Framework. It was something tied to their very being and the universe itself, and it made them near immortal.”
+
+She reaches to her belt and draws the cracked black mana dagger. “But there was one god who was not fully a god. They came to be without an Elysian Framework, they were born with a Divine Heart instead. A heart pumping blood, just as the lesser races did. Unlike other gods, they weren’t quite so powerful, though they possessed authority over an energy that was almost non-existent in our universe.”
+
+Lissandra taps the black dagger, causing it to let out a clear ring. The wyvern in the background lets out a deep, rumbly noise that lifts the dust from the ground.
+
+“That god found their place among humans. From them came descendants that were later known as the Empyreans. Some of them even possessed weaker Divine Hearts just like their god, and they remained a weak clan. But that was about to change.”
+
+It seems like she is offering me a chance to speak, but I stay quiet and listen.
+
+She ignores the loud rumble behind her as she says, “I was told that god made an honest mistake. That they were kind and beloved and had been tricked just like everyone else. But in my opinion, they were a failure, just like the other gods and races of this universe.”
+
+Lissandra’s voice for a moment rumbles louder than the wyvern trying to interrupt her, as she declares, “They have deservedly lost everything.”
+
+At that, the wyvern stops, its huge eye looking at her with powerful intent, a deep sound shaking the air.
+
+Lissandra turns to face it. “I do not care for the source of my power nor that it comes from something unnatural to this universe. But call me a slave to the system one more time, and I will end you.”
+
+An area outside of her protective field explodes. Hundreds of mountains shake and burst outward. Chunks of stone as big as entire cities and islands lift high into the air as far as I can see. A mile, ten, even more as I strengthen my sight.
+
+A shockwave continues to explode outwards, and more and more of them shatter, lifting and floating high up under an immense force I cannot comprehend.
+
+“I am slave to no one, and my life belongs to me alone,” she declares to the gigantic wyvern facing her.
+
+She’s just a tiny, silver-haired human, many times smaller than the wyvern, many times smaller than its smallest fang. Yet, inside that tiny body, in that tiny brain, is a dangerous level of incredible talent and control.
+
+The wyvern lets out a short rumble, and only then do the debris begin to float down, sending out clouds of dust that cover the entire area as it hits the ground.
+
+Lissandra turns back to me as if nothing happened. “That god, on one of their journeys, came to the very centre of our universe, where they found the invader. At first, they didn’t know what it was. Even later, as it began to spread and others took notice, they also failed to think much of it. After all, in something as big as the universe, new powers appear daily, and no one was aware of its true nature.”
+
+Her words halt for a few moments, as if a word brought back another memory, until she shakes her head. “The system at its core strengthens what already exists and evolves it. One of its main functions is to spread. It made a contract with that god, and parts of that contract still lie at the core of the system, even if it has been trying to remove them. That might be one of the only reasons it cannot simply take away what it has given. What I am telling you is everything the god shared with the dragons and wyverns after they realized the true nature of what they had found.”
+
+Moving even closer, the wyvern carefully touches the tip of its lip to the dagger Lissandra holds, and lets out a quiet noise.
+
+She nods. "In the beginning, the black mana god served as protector and Champion of the system alongside their descendants, the Empyreans. By simplifying and adapting, the system copied the nature of black mana to create a version of its own. It modeled Mana Hearts after the god’s own Divine Heart to awaken system mana. Together, the god and the Empyreans protected the system while it was at its weakest and as it began to spread."
+
+“What did the black mana god get out of the deal?” I ask.
+
+“Try using that brain of yours, little pup,” she challenges me, and stops talking to wait for my answer.
+
+I give it a few seconds, looking at the black dagger and sensing the heart beating in my chest before saying, “Were the gods more powerful the more their concept and power was spread throughout the universe?”
+
+Lissandra agrees in satisfaction. “They were, indeed. And though system mana was not exactly the same as black mana, the god grew far more powerful because of it. Perhaps it was part of their precautions, a small seed of distrust they held for the power they found. Maybe they wrote it into the contract so the system couldn’t just copy black mana, ensuring they would always retain control over it. Maybe the system never had enough data to fully monitor or restrict it, whereas the more powerful gods provided plenty of data for the system to work with.”
+
+“And maybe it allows people to control black mana now so it can gather data in a controlled manner,” I note, “rather than placing eradication quests on them.”
+
+“It could be, but at this point, black mana poses no threat to it, nor do the powers of gods, dragons, or primordial energies. The system has observed it all and adapted. Eons after the system first appeared, it began to seem a bit too threatening, and the universe finally took notice. The then Godking of black mana and the Empyreans ceased to be its protectors and became its enemies, but the system simply found new ones. One hundred Rulers came to be, and many humans joined their side. Entire galaxies fought to keep the power that the gods, dragons, and elves of old tried to take from them, while the mora joined the war and fought on both sides, and fae disappeared entirely.”
+
+In surprise, I feel my eyes widen. I glance at the wyvern and then back to Lissandra.
+
+“Of course, it wasn’t easy,” she continues. “The black mana Godking, with the help of other godkings, the Empyreans, the Emperor of Dragons, the Queen of Elves, and the Primordial Orders, led the attack, damaging the very structure of the system. They forced it to change and slowed the system's spread, but it was already too late. The System War was lost. The name of the black mana Godking was erased from living memory. As for the black mana you now control? It is merely the remains of that god still present within the system, a shadow you can touch if you reach deep enough. It’s something I have tried to seize as well, though I seem incapable of reaching it. It seems to recognize me as a creation of the system.”
+
+A small smile appears on her lips, as if she finds the fact amusing. “But that is all it is. Black mana is all that remains of that pitiful god. The Empyreans are nearly erased, and their power is greatly diminished. Like all the others, they were and are just a part of the system. Powerful, yes, but not special. The system is gradually making Empyrean Skills more common, just as it did with Primordial Energies and the fragments of gods. You playing with black mana is like a child poking a corpse they found on a battlefield.”
+
+She gestures for me to come closer, and I listen. She pushes me down onto a small stone and walks behind me. Her hand moves over my head, and my hair falls away, cut clean to reveal bare skin. She begins to draw inscriptions, drawing a bit of my blood to create a dense web that spreads into a fine, drawn crown and a series of lines across my scalp.
+
+“Thought acceleration is usually the purview of mind mages, though if one is capable enough, they can somewhat mimic what they do,” Lissandra says.
+
+Before I can think to ask a question, she taps the top of my head.
+
+I feel myself forcefully pulled into my mind, finding myself in that never-ending white space. Suddenly, the pain, the strain of trait strengthening, and the pressure of my constructs are all gone.
+
+My hand moves across my hairless skull. “Was shaving my head truly necessary?”
+
+“Little pup, do not tell me you care so much for your appearance,” she says, changing before my eyes. Her body grows taller, her silver hair dims slightly, and wrinkles crease her face as her clothes transform into a black suit more suited for a man. “But perhaps I am being too harsh. Many of the young care for such things, and it is only later that they cease to matter.”
+
+Lissandra now looks exactly like the version of her I met on the second floor.
+
+After walking for a bit, she comes to a stop in front of me. “There are, and always will be, disadvantages to thought acceleration. Your status will not update, your muscle memory and mind will not be able to fully adapt to your training, and you will not ingrain these new instincts into your physical form. Lastly, you will never be able to sleep properly in this space. A few days isn’t a problem, but gradually your mind will grow tired, weak, and muddled, if it doesn’t outright break. That is why I warn you, after we are finished here, you should avoid such high level thought acceleration for at least several months. I have seen even the most talented people die after abusing this, and I have seen many gain nothing from their training, no matter how hard they tried.”
+
+“That is my problem to manage, is it not?” I answer her. “You simply do what you think is best, and I’ll deal with the rest.”
+
+“Very well. We will start by testing you against my released presence, the version of me you encountered on Eladore,” she says. “We will start with ten percent.”
+
+The moment she finishes speaking, a monstrous amount of mana radiates from her. Though perhaps 'monstrous' is not the right word, it is not about the volume, but the sheer, crushing power of it. I try to resist, but it presses against me until I feel my body explode.
+
+In the next blink, I am standing exactly where I was before. I’m healed, but the memory of the death is fresh in my mind.
+
+“I will continue until you can handle at least fifty percent of it,” she speaks coolly. “Even if it takes months, we will not move on to anything else.”
+
+Once again, I don’t have time to respond. In the presence of her uncontrolled power, my body explodes, and I find myself reappearing in the same spot.
+
+All other thoughts vanish from my mind as I focus on this alone.
+
+Let’s make this a matter of days, not weeks or months.
+
+POV Vice Guild Master of Primordial Knights
+
+The door to my office in the Megacity bangs open, but before I even have time to shout at the demon barging in, I notice who it is.
+
+Taking a few calm steps on her bare feet, Nyssa Volare reaches my table. Wearing white shorts that barely reach her knees and a light blue tank top, she stands there. There are wounds covering her body, but her clothes remain perfect, and her eyes are sharp.
+
+"Vice Guild Master, tell me where MorMor, Nathaniel, and Weslin are."
+
+Every time I speak with her, it is impossible not to understand why everyone keeps referring to her as one of the most talented attendees Beyond has had in millennia. If it weren't for Christoph, she would be even more praised.
+
+But even then, even though there's a hint of fear I still can’t help but feel despite knowing her true personality, I can't help but complain. "The new Guild Master took them on an expedition," I say through my teeth.
+
+"Where?"
+
+The words come out of me as if I'd left them suppressed for too long. "They took another S rank and future S rank as well, and the five of them have been making a mess ever since! When I requested the name of the expedition for our files, do you know what the Guild Master told me? 'The Boys.' Would you believe that?!"
+
+"I see, but-"
+
+"Since then, I keep getting messages from the other guilds asking if they did something wrong! The kings are getting worried about so many S ranks in one place, and a few guilds have made defense pacts with each other and have been paying their A ranks extra to stay in Beyond while hiring mercenary guilds for defense! There is a new zone devoid of mana on the 3rd floor, and people say it’s a location where Diligence himself manifested. On the second floor in the third city, Morwag destroyed the headquarters of a mid sized guild and got banned from the city for 100 years, and we had to pay an enormous fine! In the first city, there are rumors that Primordial Knights erased a branch of the Healing Guild, but the Champion King ruling it was so scared of our S ranks that he just let them go. All the fish from Lake City are gone! Such blatant overfishing is against the rules, and it’s going to take decades for the lake to repopulate. Apparently, some guide named Duncan is now holding all the stock and saying that if anyone touches any of it, our Guild Master will declare guild war on them. Oh, and yes, all the lurkers from the 1st floor disappeared for a few minutes. ALL OF THEM. People were picking up arcane weapons from the ground. There was later a floor-wide message from Diligence, so there are new rumors that he lost control of his emotions again, just as he did with the Ancient Armory. And since then, we’ve lost sight of them, and they were apparently headed to the surface."
+
+I take a few long breaths, feeling relieved, but that relief begins to fade as I look at Nyssa, who stands there patiently.
+
+"I apologize," I say, standing to bow, and keeping my head in that position.
+
+"It is okay, Vice Guild Master. I’m not Guild Master anymore, and I didn't return to retake the position." Her eyes narrow. "But I have seen the rankings, and I guess I’m still a demon after all."
+
+She doesn't smile, but a cold, predatory focus settles over her face. "I will be testing myself against... The Boys."

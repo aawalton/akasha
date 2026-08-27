@@ -1,0 +1,161 @@
+---
+id: 62c26e95-47d8-5be3-b71b-e65f548192b8
+page-type-slug: story-chapter-royal-road
+title: "012: Steady Progress"
+slug: 0012-012-steady-progress
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 12
+ownLength: 2354
+unit: words
+publishedAt: 2024-04-10
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1588694/012-steady-progress"
+royalRoadId: "1588694"
+---
+
+It was a surprise to her, but apparently not Kayla, that the teddybears were actually the trickiest of the three kinds of monsters they had to face on the past two floors. The rats were relatively easy kills, given that all they needed was a heavy smack to smash bone or brain, and the spiders just a little tougher since their sharp envenomed fangs were a constant risk - none of them wanted to waste the challenge clear reward on a full recovery.
+
+However, the softer bodies of the teddies were surprisingly difficult to deal with, the heavy blows of fist or her trusty rocks not having much of an impact as the blows were absorbed to little effect and Anthea’s arrows doing little to halt their advance even when struck between their beady little eyes. With just the twenty she had received along with the bow, it was a better use of her resources to take out the spiders and rats, though the small rodents were difficult targets for the novice archer.
+
+Eventually, through a frenzied assault from Kayla, who charged into the midst of her worst nightmares and tore them to shreds in a flurry of stuffing and fur alongside Evelyn who helped to guard her from the sneak attacks they attempted from behind, they finally completed another floor.
+
+Congratulations Challengers, you have cleared the 7th Floor! You may purchase one reward from the following:
+
+〖Full Recovery〗- 10 Essence
+
+〖Random Common Equipment〗- 35 Essence
+
+〖1 Attribute Point〗- 40 Essence
+
+〖Grey Star〗- 68 Essence
+
+〖Common Skill Crystal〗- 85 Essence
+
+I have quite a lot of essence saved up from these last two floors. I can’t help but feel like they were just a little too easy compared with some of the earlier challenges however, though perhaps that’s just due to our amazing teamwork? It still makes me uneasy. I guess I’ll pick up another skill for now and a fourth grey star in the Local Shop.
+
+Her purchases made, Evelyn crushed the grey crystal to dust in her hands, the feeling of the soft debris slipping away was grounding in an odd way. It reminded her of being on the beach and the feeling of sand running through her fingers.
+
+“I wonder if this place has any beaches?” She muttered.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Battle Cry (Common) - Receive +1 to your Fortitude for 1 minute. (5 min cooldown)
+
+“I’ll have you know that’s a mighty rude thing to say to a fellow woman, darlin’” Kayla retorted.
+
+“That’s- Never mind. Let’s keep going, I don’t see a reason to stop until we actually get hurt or the tower throws something more interesting our way,” said Evelyn, making her way to the glowing portal in the centre of the cavern.
+
+As she was about to cross the threshold of the portal, Anthea on her tail having collected and cleaned her arrows from the bodies of the monsters littered about, Kayla placed a hand on both their shoulders and stopped them.
+
+“It shouldn’t be an issue for us, seeing as we’re getting along just fine as a team,” she said, waving an arm around at the bloody remains of their enemies to prove her point, “but I think the tower is following a pattern. The next floor will probably put us against other people again. I might be wrong, but I think it’s best if the two of you steel yourselves.”
+
+Huh, I guess she has a point. The 1st and 2nd Floors were both one person against a horde of monsters, followed by a one on one duel on the 3rd. 4th Floor was a single stronger enemy followed by the mini boss on the 5th. We just had to face a combined version of the first two floors back to back, so it does track that the 8th Floor would be another duel, though perhaps one party against another.
+
+“It sucks, but I’m ready to do whatever I need to in order to stay alive and get through this damned place,” Evelyn replied.
+
+Anthea, however, looked a little troubled at the thought. They had never spoken about it in so many words, but the experience of the 3rd Floor would probably have been far more traumatic for a child than an adult with a developed mind, not that killing another person was an easy thing for anyone to handle. In fact, it was what came after that really sucked. Despite that, the girl wore a determined look in her eyes and nodded at the two women.
+
+“That’s my girls, let’s kick some ass and grab some more essence,” said Kayla with a grin, strolling confidently through the portal.
+
+Evelyn had one quick glance at her status before following. Despite all the horrible, messed up crap the tower had put her through in just one short week or so, she couldn’t deny that the feeling of her strength increasing through her own efforts and hard work was a satisfying one.
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+|Attributes|
+
+Power: 1
+
+Speed: 1
+
+Stamina: 0
+
+Vitality: 2
+
+Mana: 0
+
+Fortitude: 2
+
+|Skills|
+
+~Passive~
+
+Bulwark (Common), Stargazing (Common)
+
+~Active~
+
+Battle Cry (Common)
+
+It sure would’ve been better to get some kind of combat skill instead of another tanking one. Not that I hate being on the frontlines. It can be exhilarating. I just get a little jealous when I see Kayla weaving through her opponents and smacking the crap out of them. Maybe my fortunes will change one day. Whatever divine power rules this tower, I’m sorry for talking so much smack about you, so pretty please give me some cooler skills next time.
+
+After her brief delay, Evelyn was the last to step out of the portal onto the next floor and judging from where the three had found themselves, it looked like Kayla’s guess was right on the money. It was a narrow hallway, every surface made of beige tiles, likely sandstone, the portal taking up all the space behind them and ahead was a metal portcullis blocking any path forward, the light of the sun blazing through and giving them a peek at what lay beyond - a wide expanse of sand littered with various stone ruins.
+
+❰ Multi-Challenger Instance ❱
+
+All Challengers have arrived on the 8th Floor, instance will now trigger
+
+❰ Instance - Party Warfare ❱
+
+Defeat the opposing party to claim victory
+
+“Huh, seems like we weren’t the first to arrive this time. I wonder if that means our enemies are gonna be a little stronger this time,” said Kayla, though she seemed rather excited at the prospect of a challenge.
+
+I guessed the first time I saw her, but she really isn’t so bothered by the goriness and horror of this place. If anything, she seems to be enjoying herself. As long as her psychopathic tendencies are directed away from me, I’ll just have to turn a blind eye for now.
+
+The portcullis began to rise, creaking and groaning as it did, and the group made their way towards the arena. The first thing Evelyn noticed once her eyes had adjusted to the dazzling light of the sun was the familiarity of the place. It was nearly identical in structure to the colosseum of the 3rd Floor, with just one difference. Those stone ruins which they had spotted before were clearly there to use as cover from which to launch ambushes or to provide a vantage point for ranged attacks like Anthea to pick off their opponents.
+
+“Here’s the plan, Evelyn you’ll have to be the vanguard. I know it sucks and there’s a risk of being hit hard, especially when we have no clue about the skills of our opponents, but neither of us are fit for the task. I’ll stick close and counter attack if anyone strikes while Anthea finds some high ground to cover us. I trust both of your abilities,” said Kayla, pointing out a staircase of sorts that Anthea could use to get a bird’s eye view of the arena.
+
+In order to take control of the space in the arena, they would need to cross the open sand and head to the central ring, walled off by sturdy white marble rather than the worn sandstone that most of the ruins had been built of. After a deep breath, Evelyn activated her new skill, Battle Cry, to bolster herself for the battle to come and sprinted towards the next bit of cover, a crumbling wall that they would have to crouch behind as they advanced.
+
+Halfway to her destination, she spotted movement in the far distance, a few heads that popped out from behind a wall - their enemies. Rather than speak out loud while running and waste her breath, they swapped to the party chat. It also meant they could stay in contact with Anthea even while leaving her behind to cover them from above.
+
+Party Chat
+
+Eve: I see at least two of them straight ahead of me, heading towards the centre as well.
+
+ANThea: I see them too, but I can’t really get a clear shot yet. Try to draw them into the open and I’ll do my best to hit one.
+
+Kayla made it to the wall in one piece and without delay Evelyn rushed towards a pillar ahead, blood racing as she prepared for action. As soon as the woman caught up she advanced to the marble wall, stepping through an archway into the open space in the centre of the arena, sturdy buckler at the ready and eyes on a swivel.
+
+“Fu-” she exclaimed as a huge brute of a man slammed into her side, not even giving her a chance to slip her shield up to block the force of the blow.
+
+Her vision went blurry for a brief moment, but the adrenaline coursing through her system snapped her back to sharp focus and immediately she raised her shield, just about staying on her feet and getting a first look at her attacker, right as Kayla drop kicked him right in the head with both feet, splattering blood and what looked like a tooth onto the sandy ground.
+
+With a twist of her body that seemed unnatural, Kayla somehow landed on both feet and immediately charged forth, unleashing a devastating barrage of punches and knee strikes to the man who was almost twice her size but utterly unable to defend himself against the fierce woman. Evelyn spied the second of their enemies shuffling around the edge of the space, about to ambush Kayla from behind while she was focused on the first of their opponents.
+
+A metallic glint flashed from inside the woman’s cloak as she dashed forth and Evelyn mustered as much speed as she could to match her pace, diving into a roll and coming up just on the other side of Kayla right in time to block the attempted assassination. Her enemy, a middle aged woman with greying strawberry blonde hair and a hooked nose, growled at the interruption to her strike, getting knocked a few paces back from the force of the impact with Evelyn’s shield.
+
+With dexterity one wouldn’t expect from someone of her age, the woman tossed the dagger forwards, darting in and grabbing it from the air with her other hand before ducking down to strike at Evelyn from under her shield, but halted in her charge halfway, whipping her head back right as an arrow pierced the space her head would have been, grazing the tip of her nose and drawing a trickle of blood.
+
+Eve: Nice one, Anthea
+
+ANThea: I’ll hit her next time.
+
+The woman glanced towards Anthea’s position with a scowl painted on her weathered visage, before her eyes glossed over for a moment.
+
+Is that what it looks like when someone uses the party chat? I guess any tool we have our opponents have too, but it’s strange seeing someone interact with the tower from the outside.
+
+With a cunning smile, Evelyn’s enemy advanced once more, slowly pacing out her steps until she was within striking distance once more. This time she didn’t attempt anything fancy, simply striking at her shield, perhaps aiming to knock her off balance. However, right before the dagger made contact, the woman’s body flashed a light blue and her strike sped up massively, smashing into Evelyn’s shield with far greater force than before and sending her tumbling backwards to the ground.
+
+She raised her shield to block as the woman followed up with a strike towards her gut, the clang of metal on metal ringing out through the arena. With a grunt, the woman booted Evelyn’s arm and while she managed to keep hold of her shield, it was smacked to the side, leaving her completely exposed. The sunlight reflected off the dagger as her opponent raised it into the air, ready to bring it down and end it all, grim satisfaction on her face.
+
+A gust of wind whistled through the ruins and the woman froze, dagger inches from Evelyn’s heart. Looking up, she saw a bloody arrow sticking out of the side of her head and had to raise her shield to deflect the woman’s body to the side as she crumpled to the floor.
+
+ANThea: GOTTEM!
+
+Eve: I owe you one, kid.
+
+K: These fools are nothing to get excited about, all show and no substance
+
+Evelyn glanced over to where Kayla had been, only to see the woman grinding her boot into the pulverised face of the hulking fellow who’d made the first move earlier. His body was a mess of bruises and dents, blood flowing onto the sand below after the brutal southerner had gone to work.
+
+“Well, that’s two down, hopefully one to go,” Evelyn said as Kayla hauled her up from the ground.
+
+“I’d say that’s a little optimistic. Given that we had five people to start, it’s possible we could be facing that many now. I wouldn’t put it past this tricky tower,” she replied.
+
+ANThea: I hear something near me
+
+ANThea: FU-

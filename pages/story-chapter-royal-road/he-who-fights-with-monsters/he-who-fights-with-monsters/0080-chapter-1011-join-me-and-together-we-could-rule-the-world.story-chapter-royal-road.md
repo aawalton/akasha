@@ -1,0 +1,219 @@
+---
+id: b9ff20e0-1e2a-5a21-a529-ca9a923492ba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1011: Join Me, and Together We Could Rule the World!"
+slug: 0080-chapter-1011-join-me-and-together-we-could-rule-the-world
+partOf: he-who-fights-with-monsters
+position: 80
+ownLength: 2537
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3596447/chapter-1011-join-me-and-together-we-could-rule"
+royalRoadId: "3596447"
+---
+
+Both of Colin’s bodies sniffed at the air.
+
+“You’ve been killing vampires in here,” one of them accused Jason.
+
+“I have.”
+
+“You didn’t wait for me?”
+
+“You’ll have your fill before we’re done.”
+
+“I’ve never been full in my entire life.”
+
+“Then today’s going to be interesting.”
+
+The Colins gave a pair of mirrored sceptical snorts, but didn’t push it further.
+
+“Did you find that they tasted funny?” one of them asked instead.
+
+“I don’t eat them, Colin. Or actually drink blood. But I think I know what you mean.”
+
+“I don’t know what…” Colin began, but trailed off as Jason put a finger to his lips.
+
+Jason reached out to the other group infiltrating the complex through his voice chat ability.
+
+“Clive? How’s it going?”
+
+“This may have been a mistake,” Clive replied.
+
+“Did something go wrong?”
+
+“Yes. I’m running around with four women bonding over places they’ve broken into. They’re talking about using burglary as a girls’ night activity.”
+
+“He’s exaggerating,” Belinda said. “Farrah does have some surprisingly impressive intrusion magic, though. We probably should spend more time stealing things.”
+
+“See, this is what I’m talking about,” Clive said.
+
+“This is why I prefer working alone,” Estella said. “No professionalism whatsoever.”
+
+“Except for me, obviously,” Belinda said.
+
+“You’re the worst of all,” Estella told her wife.
+
+“I don’t suppose you could give me an actual update on what you’re doing?”
+
+“We’re having a surprisingly easy time of it,” Farrah said. “Nik has helped us stay off the cameras. Sophie has been scouting out some of the other wards McKean has in place, for Lindy and I to disable. Stella has kept us clear of the locals, but something drew off all the vamps, so we’ve had a clear run for a while now.”
+
+“These rooms have been cleared out, so we haven’t found much,” Clive said. “We just found a broken laptop someone left behind that Lindy was able to fix with a repair spell.”
+
+“Found anything useful on it?”
+
+“It’s not very helpful,” Farrah said. “Some lunatic set it up to run on Linux.”
+
+“There’s nothing wrong with Linux,” Clive insisted.
+
+“Linux is for people who love fiddling around with very specific details when ‘good enough’ will do,” Farrah said.
+
+“Specific details are important,” Clive said.
+
+“To fastidious nitpickers who think they’re smarter than everyone else,” Farrah said.
+
+“I don’t think I’m smarter than everyone else,” Clive said. “There’s Lindy, and Emi, and… look, it’s not my fault the world is full of people asking stupid questions.”
+
+“You’re too judgemental,” Jason told him. “You dismissed drawing ritual circles with toothpaste out of hand, and I still think there’s some potential there. How handy would it be just squeezing it out of the tube?”
+
+“In Clive’s defence,” Belinda said, “that would take a lot of toothpaste tubes.”
+
+“You could make a dimensional bag toothpaste tube,” Jason said.
+
+“I don’t suppose there’s any chance we could go back to fighting evil?” Estella asked.
+
+“There was something I wanted to tell you,” Jason said. “Colin and I just drained a bunch of vampires, and there was something strange in the power we sucked out of them. Like the reality core energy from back in the day, but this was something else.”
+
+“We know that McKean has been linking them to the blood root vine with a power that almost has to come from the astral somehow,” Clive said. “I assume that’s what you’re picking up on.”
+
+“It’s definitely cosmic,” Jason said. “I know what that power feels like. There’s something familiar to it, though. Almost like the power belongs to me, and these vampires have somehow stolen some of it.”
+
+“General Mills floated the idea of McKean siphoning power from your spiritual domains,” Farrah said. “We dismissed it out of hand, but maybe we shouldn’t have.”
+
+“That’s not it,” Jason said. “That power is too intimately connected to me. I’d know if it was being taken and I’d recognise it if I sucked it out of a vampire. This power isn’t as closely connected. It didn’t come from my spiritual domains or from my astral kingdom.”
+
+“Interesting,” Clive said. “That does leave one candidate. Farrah, have you gotten anything from that computer?”
+
+“Nothing useful,” she told him. “I’ve gotten into the research files and it looks to be all about grafting vampire flesh onto the blood oaks. Nothing about the magic fuelling it all.”
+
+“Makes sense,” Belinda said. “This looks like some kind of alchemy biolab, based on the equipment they left behind.”
+
+“We’ll need to find something more concrete before we can confirm any hypothesis,” Clive said.
+
+“I don’t suppose you’d like to share that hypothesis with the group,” Jason said.
+
+“I hesitate to voice what is little more than speculation at this stage,” Clive said. “I’ll let you know if we find something more as we continue on.”
+
+“We’re making our way down through the levels of the complex,” Estella said. “I assume you sensed all the people gathered below?”
+
+“Yeah,” Jason confirmed. “We’re thinking either bunker or hostage deathtrap.”
+
+“I don’t care either way,” Farrah said. “But it’s probably where they took everything when they cleared these labs out, so that’s where we’re heading.”
+
+“Okay, I’ll go and make some noise, try to keep McKean’s eyes on me,” Jason said. “He’s fed me a bunch of vampires to fatten me up, so let’s see how he’ll bring me to slaughter.”
+
+“Do we know where McKean is?” Lindy asked. “If I was him, I’d have snuck off long before we showed up.”
+
+“Not sure,” Jason said. “I’ve never met the man, so I wouldn’t recognise his aura if I saw it. He could be blended in with the other people in that bunker, but I’m sensing some kind of dimensional anomaly down there. My guess is that’s where we’ll find him.”
+
+***
+
+“Why is he just standing there?” Magdalyn asked as they watched Asano on the monitor bank.
+
+“He’s communicating with his team,” Simon told her. “I imagine they’re on standby in the flying vessel outside in case things go wrong. He knows I can’t eavesdrop while they speak through his power.”
+
+They watched as Jason started moving again.
+
+“I think we’re ready,” Simon said. “If Asano is happy to walk into whatever I have waiting for him, let’s go ahead and show him the way.”
+
+***
+
+Jason and his familiars paused as the lights in the hallway dimmed. A moment later, the lights started shining in sequence, this time in yellow, leading off down the hall.
+
+“I think McKean is ready for the big finale,” Jason said. “He’s even being kind enough to show us the way.”
+
+“I know your whole plan is ‘walk into the trap and be such a boss it doesn’t work,’” Nik said through the drone, “but could you maybe show any kind of caution whatsoever?”
+
+“I mean, yeah, but nah, but yeah, but… nah.”
+
+“Dad, could you please stop being Australian long enough to not die?”
+
+“I’m afraid, Young Master Nik,” Shade said, “that anecdotal evidence suggests not.”
+
+***
+
+Jack Gerling stood in a chamber the size of a basketball arena. It was a massive steel dome, with everywhere but the floor filled with holes large enough for a car to pass through. Through each hole grew thick roots that jutted into the cavernous chamber. The roots were deep red and slick with blood.
+
+There were no lights, but Gerling did not need to see. He could feel the air and taste the spores that floated on it. He could smell the coppery tang of the blood dripping from the vine roots onto the steel floor. His mind was still and calm. It had taken a long time and a lot of work to restore his sanity after years of having his soul chained by the vampire queen. Now he was no longer a slave trapped in a cage of blood, but a true undead being, unique and flush with cosmic power.
+
+Was this how Asano felt? Jack had long ago accepted that, as an essence user, he had been at the bottom of a pile. Back then, Jason Asano sat at the top, with a strength relative to his rank that Jack could only have imagined. Now, Jack was the one with the power. His new body all but hummed with it, every iota of his being saturated with a power beyond anything on Earth. A power that would replenish just as fast as he could use it.
+
+Jack frowned as he noticed something wrong. Something in the way the spores stirred in the air, as if they were moving around something. Some object his senses had failed to notice.
+
+“Hello Gerling.”
+
+Asano opened his eyes, their orange and blue light arresting in the darkness. Then his cloak lit up with stars that shot out, filling the vast chamber with dancing silver light. It sparkled off the blood vine spores.
+
+Asano held a hand out to his side and blood gushed from his palm. It coalesced into a strange, mummified creature as bloody as the roots growing out of the walls. Another entity manifested out of nothing, a floating cloak with a massive eye inside it that mimicked Asano’s own. The last familiar, a creature of shadows, was hard to spot and may even have been there all along.
+
+“You look surprisingly sane, Gerling,” Jason said. “I assume that McKean turning you into whatever it is you are has given your soul an actual body, not just a trap to stop your soul from moving on.”
+
+“I have trouble recalling my time under the vampire queen. I have memories of torment. Of wanting nothing but release and being denied it.”
+
+“I apologise for that. I wanted you dead, quick and clean, but Elizabeth outplayed me. I never imagined that she could do that to a person. I would have freed you, if I’d captured her before McKean got to you.”
+
+“I thought you would have enjoyed my suffering, after what I took from you.”
+
+“I’ve killed a lot of people, and not all of them deserved it, if I’m being honest. I don’t recall what I convinced myself of when I was trying to kill you. Probably something about stopping the damage you’d do in the future. The truth is: I wanted to kill you just to see you dead. But some things I wouldn’t wish on my worst enemy, Jack, and you’re not even close to that. I know what it is to have your soul tortured, and no one deserves that. I am genuinely sorry that happened to you.”
+
+“I’d say that I appreciate it, but I don’t really care.”
+
+“Fair enough. I have to say, I’m curious about what McKean has done to you. I mean, look at you, so overcharged with power you’re practically throwing off sparks. I’m not going to lie, mate: the idea of fighting you again never especially worried me. The last time we went at it you were gold rank while my friend and I were silver. You won, but it shouldn’t have even been a fight. It should take an army of silvers to drop a gold. You were, without question, the single most underwhelming gold-ranker I’ve ever heard of. And since you started popping up under McKean’s flag, you’ve been bowled over a few times.”
+
+“McKean has been holding back most of my power.”
+
+“Right, so we wouldn’t figure out what he had going on.”
+
+“So you wouldn’t be scared off.”
+
+Jason burst out laughing.
+
+“Mate, are you giving the old leg a tug?”
+
+“What?”
+
+“Are you having a go? Bloke, do you seriously think that you would scare me off? You? I’ll grant you that the cosmic roids you’re on have juiced you up proper, but I’ve faced a lot bigger than you.”
+
+Gerling smiled.
+
+“You have nothing to worry about then. I’ve heard that you like the sound of your own voice, but do you ever shut up? Or are you stalling to buy time?”
+
+“Actually, I’m kind of waiting for your boss. He’s got a whole bunch of cameras in here and he’s setting up a livestream, my kid tells me. Wouldn’t want folks to miss the start. They already missed my big monologue. Should I do it again?”
+
+“No!” Nik’s voice came from a drone floating down from above. “He started streaming a while ago. The whole world is watching, and you’re starting to sound like an idiot.”
+
+“Well, you saying that isn’t going to help! Hey, McKean! You want to have some villain banter before it all kicks off?”
+
+Simon’s voice was broadcast from speakers hidden around the room.
+
+“Showing the world that it is possible to fight you is the only statement you need to make.”
+
+“That’s seriously why you’re doing this? You sold out to the vampires for that? People are dying fighting your army of crazy monsters over that? Am I really worth all that effort? All that time, all that death?”
+
+“You are the greatest threat this world has ever faced. You have transformed our civilisation and the world has knelt before you because they think you cannot be fought. If no one else will do what must be done, then I will, even if it costs me my very humanity.”
+
+Jason looked up, although there was nothing to look at. He pulled back the hood of his cloak to reveal his face.
+
+“Holy crap,” he said. “I get it. Bloody hell, I actually get it. You’re me.”
+
+“What?”
+
+McKean’s voice had a strain of anger, breaking his calm for the first time.
+
+“No, I get it,” Jason continued. “You see a threat, an existential threat to the world, and the people who should be doing something about it just aren’t. On the contrary, they see it as something to exploit, a way to get power for themselves. So, you do what you have to do, because no one else will. Even if you have to go it alone. To sacrifice your principles. To become something you never thought you would. Mate, I know that story. It was my story, the last time I came to Earth, and I know what living it does to you.”
+
+“You don’t know me.”
+
+“I didn’t. But now I know exactly who you are, and I respect that. I know how isolated you are. How it feels to have the very world you’re trying to save be against you. Simon, we don’t have to fight. Let’s talk this out, you and me. You’ve gone this far because no one would listen to you. You warned them and they did nothing. I’ll listen to you. There has to be some common ground we can find. Let me tell you about why I’ve done the things I’ve done. Maybe you can help me find a way to do them better. All I hear about is how brilliant you are. And now I know the lengths you’re willing to go to protect this world. We could do that together, Simon. Just talk to me. We can sit down like adults instead of fighting like children.”
+
+“Gerling,” Simon said, his voice tight with restrained fury. “Kill him.”

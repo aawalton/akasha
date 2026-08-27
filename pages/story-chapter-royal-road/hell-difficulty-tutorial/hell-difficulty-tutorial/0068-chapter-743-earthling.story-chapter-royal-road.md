@@ -1,0 +1,111 @@
+---
+id: fc842476-2d77-5006-8632-aff2fe09ad79
+page-type-slug: story-chapter-royal-road
+title: "Chapter 743 - Earthling"
+slug: 0068-chapter-743-earthling
+partOf: hell-difficulty-tutorial
+position: 68
+ownLength: 2388
+unit: words
+publishedAt: 2026-02-03
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3010083/chapter-743-earthling"
+royalRoadId: "3010083"
+---
+
+I watch as the back of that transparent figure over him splits, and two more arms grow from the shoulders. Both reach toward me, pushing through the torrent of my mana and thermal energy, until they touch my shoulders. Just like the Hornless Demon, Adrian calms my raging mana and helps me circulate it, easing the pressure so we can talk.
+
+“I’ve always liked meeting people capable of pushing themselves this far,” he says with a calm smile, “what you’ve done is impressive. Truly impressive. The sheer fact you can channel it all is a rare sight to behold in someone as young as you.”
+
+“But?” I ask, not bothering to hide my mood. From my conversations with Lioren and from the memories he showed me, I already know what kind of abilities this man has.
+
+Adrian is an empath, among many other things. Someone like Izzy, but unlike her, he’s extremely capable of using his empathy in the ways that benefit him most.
+
+“I can sense such anger from you,” he says, “I’ve heard about your challenge against Lioren’s lurker, so I guess that’s where your knowledge about me comes from.” He pauses again as if thinking and looks up at the red barrier surrounding us. “As I said, I admire people who push themselves as you do, but being so young often causes you to make mistakes we older ones have already made and learned from. Yet you young ones never listen. Not that I mind, it’s just how things are, and some lessons can only be learned by experiencing them in your own skin.”
+
+I use the chance to observe the way he’s helping me ease the pressure while I continue making the changes I need, taking into account my lower than planned Constitution, my low pristine passive, and the lack of a healing aura. All while he reads my emotions without me being able to sense it at all.
+
+“I would prefer to learn from the mistakes of others and laugh at them, but once in a while I can make my own,” I say, “And also yes, I spent some time with Lioren. Betraying him and arranging his death on the first floor because you were busy shitting your pants rather than challenging him directly was kind of a dick move.”
+
+Adrian stays calm. “I would agree with that, and quite strongly. It’s something I would’ve done very differently nowadays, and in the end, I truly regret my decisions and behavior from that time, even if you might not believe that. Sometimes I wonder what would have become of Lioren if he’d had the opportunity to complete the tutorial, heal his body, and improve his skills further. Maybe he would have become a Ruler by now, or maybe he would have challenged Pride as many others before and fallen against him.”
+
+Sensing my mix of emotions, Adrian watches me, then sighs and sits down on the ground, gesturing for me to do the same.
+
+For a moment, I stand there, facing him, but the pale red arms lift up from me, releasing an avalanche of my own mana and thermal energy. So I sit down with him, and right away the pale red arms touch me again, and he continues to ease the pressure.
+
+And he speaks. “I entered the tutorial as a really nasty seventeen year old boy. All the danger and constant betrayals in Hell difficulty didn’t help either, but I will not make excuses. Simply said, I used to be a real piece of work. I killed people, I cheated them, and I betrayed them.”
+
+“Let me guess, but you changed?”
+
+“I would hope so. After all, all of that was a thousand years ago. During that time, I returned to my planet, I became a Champion, I traveled to other planets, and I even served as a Handler in Beyond for a while. I met many people before returning to my planet, where I got married, founded my own clan, and later became an Absolute. Those few years in the tutorial were impactful, but so were the many others outside of it. I am not saying this so you’ll forgive me for betraying someone you clearly viewed as a friend, even though he died so long ago. I am simply giving you my point of view.”
+
+As I look at him, I think that from a certain point of view, this must be amusing. Adrian now likely knows more about my emotions than I do, and I’m not stupid enough to miss how much he could take advantage of that if he wanted to.
+
+I’ve thought about Izzy’s abilities, and in some ways, they’re just as scary as her sister’s. While you can detect and defend against Sophie’s Manipulation, Izzy can do something similar much more quietly. She can take her time and slowly nudge you toward whatever she wants by reading your emotions and reacting in ways that guide you into acting as she wishes.
+
+Adrian must know I am thinking that. He must know I didn’t know about him or his abilities when we met, not that long ago, and have only now begun to understand them for some reason.
+
+I’m not sure if he’s realized that Sneakythaniel exists, but his empathy was the reason I chose to hide my knowledge, so he wouldn’t instantly discover that I know who he is.
+
+From the moment I saw him the first time, I recognized the way he moved, the tiny shifts in his body, the deep rooted gestures. All things Lioren knew to watch for and use to better identify people.
+
+But now I wonder, will he kill me the way I thought he would when I first met him, before I hid my knowledge as I learned just how brutal the Adrian from the tutorial used to be? Or did I eventually come to the conclusion he wouldn’t, after seeing a tiny glimpse of who he’s become?
+
+As if I needed another fucked up situation to add on top of everything else.
+
+“So how did you do it?” I ask.
+
+He looks at me in a way that seems like he is considering the answer before he shakes his head. “I am still not sure if you will go against me or if we’ll end up working together. So I’ll keep most of that to myself.”
+
+“What are you more inclined to think?”
+
+After looking at me like I am a puzzle, he scratches his beard. “I would say there is a ninety percent chance that you’ll go against me once you think you are strong enough.”
+
+“And the ten percent?”
+
+“That is either you serving as my Champion or both of us racing to see who becomes the Absolute. If I win, it will weaken your pride a little, but it will not break it. You will grow stronger and challenge me again in the future because you dislike the idea of having an "alien" as Earth’s Absolute. That would keep me on edge and force me to stay strong. But over time, I would prove through my behavior that I have Earth’s best interests in mind. And both of us know that’s the only thing that matters compared to cheap words.”
+
+“I do not think the others would like the idea of you being Earth’s Absolute, "alien" or not.”
+
+Adrian takes a breath, as if he expected that statement. “If you think about it for a moment, am I not the most Earthlike out of all of you? I lived seventy five years on Earth, and I even have children there. I am likely the oldest person in Earth’s tutorial.”
+
+The words hang in the air as I stare at him. “Is the early Pairing your fault?”
+
+“Yes,” he answers honestly, and he cannot help it, as he explains more and tells me how. “I was born on Earth, I went through those years as a baby, and trust me, it was anything but pleasant to live trapped in a weak body with no bowel control.” He shivers at the memory. “I thought since I was born into a world without mana, had no heart, no status, and none of my powers, that it wouldn’t matter that I used to be an Absolute. But apparently it did. The system, somewhere in its background subsystems, must have partially classified me as an Absolute. And since Earth had no Absolute, it treated the challenge as accepted the moment the tutorial began. The Pairing began at that point as well, even though that doesn’t seem like it should make sense, because if I had kept any status in the system, I wouldn’t have been able to become a native of Earth or repeat the tutorial.”
+
+I rest my elbows on my knees. “So in the end, we’re fighting against the planet you were Absolute on. Sorry, but this sounds a little bit like an invasion, and why the hell would you even do all that?”
+
+“It does look like it, does it not?” He laughs shortly, and that laugh feels like the most honest part of him so far, as if he got tricked by the system and only now sees it, even though in hindsight it makes perfect sense. “Do you know why I’m telling you all of this?”
+
+“Possibly as an olive branch or as a ploy to make me trust you.”
+
+“Exactly. I am sharing this with you alone, and I don’t want anyone else to know, not even your sister. I will reveal my identity only when I choose. What I can promise is simple, I will never reveal myself as Adrian to my planet. I will act with Earth’s best interests in mind, even if that puts me at odds with my own world.”
+
+“I will trust it when I see it.”
+
+“I know,” he nods with a smile, “as for why I’ve done all of this, it’s simple. I wanted to enter the tutorial again.”
+
+Adrian pauses and glances at the red barrier with a weak smile. “Your healer friend has some seriously dangerous skill.” When he looks away, his expression shifts into something almost embarrassed. “It is awkward to say, but after a thousand years, I became stuck. An Absolute, yes, a very powerful one, but nowhere near legends like The Ancient Monster, The Magi, Pale Titan, or the Void Caller, even if many thought I had that potential. And nowhere near strong enough to challenge Rulers. I made many mistakes that limited my potential in the end. So I told myself, why not start over, and since then, I dedicated many years to making it possible, and sacrificed all I had for that single goal. Thankfully, one of my skills helped with that.”
+
+As before, I sit and listen, watching the mess inside my body, watching the pale red arms of the figure floating behind him with their hands still on my shoulders, gathering every piece of information I can. All the things he gives so willingly. I’m not stupid enough to think he’s giving all this away for free. He might want me to join him, or he might want to amuse himself with another puzzle. But if I ruin it and tell anyone, someone will pay for it, and it won’t be me.
+
+“Do you think it is pathetic to want to start over?” Adrian asks seriously.
+
+I think about it and shrug. “Not really. If the system is so easy to abuse, why not?”
+
+He laughs. “Easy… you would not believe how difficult it truly was. I had to give up everything I had, and I only got to keep my memories. I calculated that the Earth's tutorial would start about 20 years after I was born there. With all my knowledge I trained, I prepared, and never in the history of Earth was there anyone with a body as fast and strong as mine back then. But then the time came, and nothing happened. So, did I miscalculate, and Earth would awaken later? Did something else change? I did not know. I waited because there was nothing else I could have done. Years turned into decades, and I became an old man, trapped in a breaking body, on the brink of accepting that I’d failed.”
+
+His mood shifts, and he reveals more emotion, a flicker of anger. “Was it a Ruler messing with me, delaying Earth’s awakening? Did I make a mistake running the formula? Did I calculate wrong? None of it mattered except for that feeling I had. Never before have I felt so small and pathetic as I did in those last few years on Earth.”
+
+“But it doesn’t matter anymore,” I say.
+
+He slips back into that confident calm and breathes out. “It matters not. I succeeded. I gained everything I ever wanted in the tutorial and built a foundation I could never have dreamed of previously. There’s just one more thing I need in this tournament, and then I can continue down my path. I will become Absolute again, I will protect Earth during the Pairing as well as my old planet, and then one day I will go after the man no one seems capable of defeating.” He reaches toward the sky with hazy eyes as he speaks.
+
+“I still don’t like it,” I tell him.
+
+His eyes return to me, and he nods. “I know. I can feel it. So watch me. Watch my actions rather than my words and grow strong enough to challenge me. But of course, only if you survive this great test you’ve put yourself through.”
+
+The two pale red hands lift from my shoulders, and the presence helping me control my mana vanishes. A torrent of mana explodes from inside me. The effort I used to keep my thermal energy in check has to be split again to stop my mana from tearing me apart, causing both mana and thermal energy to spill from my body.
+
+“In my opinion, it is fifty fifty whether you survive what you’ve done to your body, so please do your best,” he says as the barrier around us breaks.
+
+Adrian then steps forth and disappears with a red blur just as Lily crashes into the spot where he stood.

@@ -1,0 +1,139 @@
+---
+id: e0c03425-2fb2-58b2-a45c-32f196dd2e9d
+page-type-slug: story-chapter-royal-road
+title: "208. She Means Me?"
+slug: 0208-208-she-means-me
+partOf: god-of-trash
+position: 208
+ownLength: 2660
+unit: words
+publishedAt: 2025-10-07
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2658954/208-she-means-me"
+royalRoadId: "2658954"
+---
+
+Rhys fled. Internally, he screamed, Why? Why me? What did I do? I’m just a lowly Tier 3 mage who just disrupted the entire flow of the battle and turned a battle favorable to the Empire into one they’re now losing! Why would she target little old me?
+
+…Okay, maybe she’s justified in attacking me.
+
+The Empress caught up with him in a step. Her hand wrapped around his shoulder.
+
+Rhys spun. He instantly lashed out with his blade.
+
+He didn’t see her move, but the Empress’s lance intercepted his blade. She’d twisted it in such a way that his flexible sword whirled harmlessly around the lance rather than striking her. This close, he could sense her power, her strength. Ther 5, he thought. She was Tier 5. Two tiers above him.
+
+Uh oh.
+
+Her red eyes bored into his. White hair draped over pale skin. Her uniform shone, pure white under the sun, all the medals and braids glittering gold. Rhys tensed, expecting death.
+
+“Join me.”
+
+“H-huh?”
+
+The Empress nodded. She released his shoulder, taking a small step back. “Your power is truly incredible. I could use soldiers like you in my army. Leave that foolish Alliance behind and join me instead. With techniques like yours, we could conquer this entire region… no, this entire continent.”
+
+Rhys glanced around. For the second time in a few moments, he pointed at himself. “Me?”
+
+She nodded. “You.”
+
+“Er… can I consider? I, uh, didn’t exactly expect a job offer,” Rhys said, taken aback more than anything. This was so unforeseen that he simply wasn’t prepared at all to handle it, and as a result, his mind, emotions, and everything else inside him was screaming at one another, a thousand contradictory desires warring it out in his mind.
+
+She’s the Empress! She stole my core and imprisoned me and my friends! I want her dead!
+
+She can kill me with her pinky finger. I should take the offer so I can survive! I can backstab her later when I’m stronger!
+
+The Alliance has been kind of a bag of dicks to me, especially if this whole attack Bast was press-ganged into telling me about is a feint. It’s not like I’m loyal to them.
+
+Yeah, but fuck the Empress! I hate her!
+
+But life! Life is precious!
+
+She held up her hand. “Five.”
+
+“Five… hours? Minutes? Days?” Rhys tried.
+
+“Four.”
+
+Hoooooly shit. Come on. Think, think, think. Where do I go here? How do I survive this?
+
+“Three.”
+
+I can’t do it. I can’t take the Empress’s hand. I only have supposition that the Alliance might be fucking with me in particular; I have cold, hard proof that the Empress is a mad psychopath who needs to be put down. The camps, the de-coring—
+
+“Two.”
+
+He dashed in, striking with the poison sword in the same moment. He knew it wouldn’t hit. There was no way it would hit. But that wasn’t his objective.
+
+A mildly disappointed expression crossed the Empress’s face. She swept her lance faster than Rhys’s eyes could track. He leaned to the side, but the lance still pierced him, slicing through his chest. It severed his ribs and his collarbone—thump thump thump—and scrape past his face. His ear went flying, along with a good chunk of hair.
+
+I survived, he thought. All according to plan. Just another second, and—
+
+And then the aftershock hit him.
+
+A vibrating power hammered into him, pounding through his body. Where it passed, his mana went haywire, then left his control entirely, no longer his. The now-foreign mana tore into his body, piercing his own mana passages and biting his muscles. The vibrating power rushed toward his core, twisting all the mana it touched out of order, pulling it to the Empress… then stopped.
+
+The Empress’s brows furrowed slightly. “Your core… I can’t take it.”
+
+Rhys grinned. “That’s because…” he paused to spit blood, “…it’s not a core.”
+
+She frowned. A moment later, dismissal flashed across her face. She lifted her lance again. “It matters not. Your mana is mine. Die.”
+
+“No.” Rhys wheezed in a breath, fighting past the pain with Trash Body and Pain Resist, and pulled. Pulled on all the impurities he’d seeded over the last few months. On all the bodies he’d filled with filth. On—all of them, because they were all trash, every last one of them, all of the Empire’s soldiers.
+
+This was the purpose of his attack earlier. To trick the Empress into attacking him, so that she underestimated him, so that he had these few moments to act freely, where she wouldn’t pay too much attention even if his power surged. She’d just assume it was a last-ditch attempt to save his life.
+
+It couldn’t be further from reality.
+
+He wasn’t gentle. He tore the impurities directly out of the soldier’s bodies, straight through their veins, their mana passages, their bones and muscles. The Empire’s soldiers screamed, faltering even further. The Alliance surged in and slaughtered them, and their bodies flew toward Rhys as well. The Empress was forced to step back as bodies flew past her, hurtling toward Rhys. She charged, but Rhys lined up her own soldiers’ bodies between him and the Empress, forcing her to cut down her own men to reach him. At the same time, he pulled the impurities into his core more fiercely than he’d ever pulled impurities before. These impurities had once been subtle, but they’d had time to dwell in mages’ bodies and mingle with their mana and their bodies. They’d corrupted the mages and grown, secretly breeding more impurities within the mages’ bodies. Not only grown in quantity, but in power as well. The impurities he had put out in the chips were subtle, low-level impurities, meant to pass below the attention of the mages who ate them, but now, they were powerful, dangerous things. They’d gathered in lumps in their hosts’ bodies, and they punched holes in them on the way out. It didn’t hurt that Rhys wasn’t exactly trying to preserve their bodies or lives in any way.
+
+The bodies simply kept flying. He’d infected so many people with his impurities, that half the fallen soldiers had impurities of some sort in them. The weaker living ones couldn’t resist his pull, either, and either died as he punched holes in them with impurities, then hurtled toward him dead, or flew toward him directly, only to die in the crush of bodies around him.
+
+Rhys played it cool, but internally, even he was a little shocked. He’d known this would be a big attack, but not this big. Damn. I was wasting time earlier just activating the impurities, he realized. He’d underestimated them. Or rather, he simply hadn’t expected them to give him so much power over the soldiers he’d sunk them into. Not that he was complaining. He sucked them into him, and felt the trash star burn hotter and hotter. His body crumbled under the heat of the trash star, but he welcomed the loss, the pain, the failure. It was only an opportunity to reforge himself yet again. The wound on his torso closed. His body strengthened, over and over again, and the trash star grew larger, denser, larger, denser, in a harmonious cycle that only grew faster as more and more soldiers and impurities poured into him.
+
+The Empress growled and slashed, cutting through all the men in between her and Rhys. The ball split open, but Rhys was nowhere to be seen. The slashed bodies abruptly rushed toward the Empress. She slashed again, cutting the ball into tiny pieces, and those tiny pieces flew past her and vanished into Rhys’s core. She turned.
+
+He stood behind her, glowing from the inside out, his skin continuously blackening, cracking, falling away, then reappearing, regrowing, strengthening. As she watched, his tier surged upward, from mid-3, to peak 3, to the very verge of 4. A nation’s-worth of impurities. Months of scheming, sinking impurities into thousands of lives, turning an entire Empire into a furnace for his impurities, and now it had come to fruition. His eyes flickered, glowing blue, then molten red, then darkening as he consolidated his power into a filthy green-brown. His body pulsed with power, the trash star burning hot, yet unable to burn through him. Impurities flowed through his veins without harming him, his entire body cycling trash rather than proper mana.
+
+He looked at his hand, then slowly curled it, feeling the power in every finger.
+
+Tier 4. He was no longer a pitiful Tier 3, but a powerful Tier 4.
+
+Someone worthy of challenging the Empress.
+
+The Empress growled. “You might’ve grown stronger, but you’re still weaker than me!” She charged and slashed him with her lance.
+
+Rhys let it happen. The blade cut his flesh, sliced his bones, and again, that power pierced into him, that twisting, pounding sensation. It sought to control his mana, to twist it out of his control, only to find no mana.
+
+Rhys laughed darkly. “Foolish.” Why would he circulate mana? Why convert his pure trash energy, his precious impurities, into something fundamentally weaker? He was a mage, but not an ordinary mage. A trash mage. What had he been doing all this time, circulating mana, when he had trash so close at hand? What was he doing, giving the enemy an advantage? No more. Now he was purely trash. Filth inside and out, with no exceptions.
+
+He reached out toward the Empress. His impure blood flew forth, twisting around her lance. She sliced it free and jumped back, suddenly wary of him.
+
+Rhys snorted. “Where’s that high and mighty attitude?”
+
+Not that he minded. It was nice to be domineering for once. He didn’t get a whole lot of opportunities to lord it over his opponents, so he was going to enjoy this while it lasted.
+
+The Empress scowled. She jabbed a finger at him. “That twisted, dark cultivation… it will be your ruin.”
+
+“Yeah? I am rubber, you are glue, alright? You’re the one running around yoinking cores. Did you not think someone was going to figure out a way around your OP technique? The meta is always moving, man. If you keep playing the old meta, you’re destined to lose.”
+
+She squinted at him. “What?”
+
+“Play more MMORPGs, loser,” Rhys said, and charged. He lashed out with his poison sword, mostly out of curiosity. It was far less dangerous than his body and blood right now, given how laden he was with impurities. He was constantly regulating them, cleaning them from his flesh, then allowing them to soak back in, getting his flesh accustomed to holding vastly powerful impurities without dying. If the Empress realized he still hadn’t stabilized his new technique fully, he was sure she’d try to exploit it, so he fought as if everything was secure and fully established. What she didn’t know, couldn’t hurt him. Probably.
+
+The Empress parried his sword. The two of them exchanged a dozen blows in the blink of an eye, almost too fast for the eye to track, their weapons little more than blurs in the air. As Rhys attacked, he threw impurities at the Empress with his other hand, riddling her with darts, bad breath, and even mental attacks, while she hammered him repeatedly with her mana-disrupting energy. It wasn’t entirely ineffective. His impurities still had magic of a sort in them, even if Rhys couldn’t quite put to words what it was—curse power? Some kind of anti-mana? Or maybe mana, but a different shape and color than what he was used to? In any case, she could still disrupt him a little, but nowhere near as strongly as she could interrupt the flow of his mana earlier. Now, it was little more than an annoyance.
+
+Rhys jumped back, creating distance. He snapped his fingers, and a swarm of rats materialized around the Empress, instantly climbing up her legs and chewing at her flesh. She spun her lance, materializing a whirlwind, and sucked the rats off her body, dispelling them with a slash. He manifested the cursed hands to grab her, but she dodged rather than break them; more the pity, because he would’ve taken more impurities. With a flick of his hand, he summoned his skeletal steed and had the man charge the Empress. She cut him down with a flash of blinding light, and that backlash struck Rhys. He staggered for a second, still forced to take a moment to process the influx of impurities and curse power, and the Empress charged, only for him to step into her charge and open his arms, hugging her close to him. Filth poured out of his every pore, soaking into her pure white uniform. For the first time, the Empress grunted in pain.
+
+“No!” A familiar figure flashed down from the heavens: Laurent. Rhys backhanded him out of the air and sent him rolling over the ground. He deliberately didn’t kill him. He’d already done enough. Laurent didn’t deserve to die. It wasn’t a fair battle, when Rhys was an entire Tier over him and fully empowered by all the dead soldiers on the battlefield. He was at the peak of his power, and Laurent was still confused on the inside. If they were going to fight, it would be after Laurent had made his mind up about whose side he was on.
+
+He wasn’t really sure how the man had survived his impurity-sucking, given that he knew that Laurent was one of the original fans of the potato chips, but on the other hand, he wasn’t sure Laurent had ever eaten any of the potato chips so much as worshipped them in some secret Rina shrine in his room, so he couldn’t say he was surprised either that the man had survived. A part of him was glad; he’d done enough to Laurent already. Another part felt as though maybe it would’ve been for the best, for Laurent to die here. A clean end. A sharp cut. No hanging threads.
+
+He's not a hanging thread. He’s a person, Rhys admonished himself.
+
+He thought all this in the blinking of an eye, and then the Empress was upon him again, and there was no more time for thinking. A beam of blinding, disruptive light burst from the tip of her lance. He dodged to the side and hurtled a dozen impurity darts at her. She dodged most of them, but one or two hit; in response, she spread her fingers and fired five smaller beams, closing her hand and closing them in around him. Rhys reached out and slashed the air open with his fingertips. This battlefield was a trash pit, riddled with discarded bodies and filth; and so, he easily slit the air open and invited the void in, if only for a split second. The beams flew into the void, and the gap closed.
+
+The longer they fought, the more advantage the Empress had. She was experienced in battle, moreso than Rhys, and the more she learned about his abilities, the less he was able to survive her. On the other hand, the longer they fought, the more advantage Rhys had. The few impurities he’d managed to land on the Empress bit into her, eroding her strength and growing. They were as virulent as Rhys could make them using his own body, and they were bad enough that the Empress couldn’t simply ignore them. The longer this fight lasted, the more impurities Rhys landed on her, the worse the problem got, and the fact that she was forced to run her mana at its top speed and pull the impurities forcibly through her whole body didn’t make things better.
+
+He saw it in her eye, and she saw it in his. This would be it. The next blow would decide everything.
+
+Holy shit, this is awesome, a tiny voice in the back of Rhys’s head whispered.

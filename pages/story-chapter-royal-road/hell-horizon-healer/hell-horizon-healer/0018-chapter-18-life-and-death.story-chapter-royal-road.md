@@ -1,0 +1,193 @@
+---
+id: aa06ab15-b0c7-5dc3-b99b-4974ce5dc71b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18 - Life and Death"
+slug: 0018-chapter-18-life-and-death
+partOf: hell-horizon-healer
+position: 18
+ownLength: 1996
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3548737/chapter-18-life-and-death"
+royalRoadId: "3548737"
+---
+
+Two attacks. One breath.
+
+Jake and Glenn acted at the same moment. Glenn's target dropped without a sound, shaft finding throat with clean, ugly efficiency.
+
+The heavy weight at the end of Jake's chain snapped into its forehead with enough force to drop it where it stood, skull caved above the eye socket.
+
+The third sentry turned at the noise and Edwin's knife crossed the clearing in a flat, spinning line, burying itself to the hilt beneath its ear.
+
+The fourth ran for the entrance.
+
+Chloe was ready.
+
+She covered the ground from behind a bush in four steps and hit it from behind, driving her spear through the creature and into the limestone. It didn't get back up.
+
+Was she holding back strength?
+
+"Now," Edwin said. The hastily formed plan was in everyone's minds.
+
+Lyle stepped forward and cupped both hands. The small, flickering ball of flame from his practice sessions was gone. What replaced it was something wider, something that breathed.
+
+The fireball left his palms in a heavy, rolling burst and hit the vine curtain at the cave entrance. The dry moss caught immediately, spreading up the rock face and across the crude timber frame in a fast, hungry crawl.
+
+Black smoke poured inward.
+
+Sloane planted her feet wide, drew her arm back, and pushed. The wind that left her palm wasn't the jacket-flapping effort she'd managed on Floor 7. This was focused, narrow, fast, and it hit the fire at the entrance like a bellows. The smoke column bent inward, pouring down the cave throat in a churning black wave.
+
+From inside came coughing. Then screaming. Then the sound of many feet.
+
+"Back," Edwin barked.
+
+They spread wide on either side of the entrance, pressing flat against the limestone. The first goblins came out blind, eyes streaming, stumbling into open air. Edwin and Susan worked through them methodically. Jake stayed at the edge of the firelight with Gutter-Tooth loose in his grip, watching the entrance.
+
+One way in. One way out.
+
+Then the screaming inside changed pitch.
+
+It went lower.
+
+The ground moved.
+
+A single, deliberate footstep that transmitted up through the rock and into Jake's spine.
+
+The chieftain filled the cave entrance completely.
+
+Jake had been building a picture of it since they'd spotted the cave. He had assumed large. He had budgeted for twice the size of the horned skulker from the flooded corridor. He had prepared for something Edwin and Arthur would need to hold together.
+
+Arthur took one look at it and stepped backward without seeming to realise he'd moved. Susan went still. Even Edwin, who had not reacted to anything with visible fear since Floor 7, said nothing for a full second.
+
+Jake had underprepared.
+
+It stood nearly nine feet, hunched under its own mass, its shoulders wider than Arthur's kite shield held horizontal. Three horns—the third jutting straight up from the crown of its skull. Its skin was the grey-green of old bruising, pulled drum-tight over bones that looked wrong, too dense, pressing against the surface like they wanted out. It carried a length of iron pipe with a splitting axe head welded to one end, roughly the length of a man.
+
+It walked through the fire like the fire had no opinion about it.
+
+"Lyle," Jake said.
+
+Lyle threw everything he had at the chieftain's face.
+
+The fireball hit it directly in the eyes and the chieftain stopped, one massive hand coming up to claw at its own face. The flash had blinded it. It stood there for two full seconds, swinging the iron pipe in a wide preventative arc that took out a section of burning vine and a chunk of limestone and would have taken Sloane's head off if she hadn't dropped flat.
+
+The goblin chief swung its pipe at Arthur. In a panic, he braced for impact. His barrier held for half a second, then gave. Arthur left the ground entirely, hitting the limestone wall six feet up before sliding down it. He didn't move.
+
+Jake went for the back of its knee with Gutter-Tooth.
+
+The scythe blade landed clean, edge biting into the joint with everything he had behind it.
+
+The blade skimmed off.
+
+A shallow black line opened in the skin and that was all. The chieftain turned and looked down at him like he was some sort of pesky ant.
+
+A cold sweat drenched his back as Jake put distance between them and ran the problem through his head. He needed another approach entirely.
+
+Edwin reappeared on the chieftain's back, his knife working into the junction between neck and shoulder, finding nerve clusters, soft points. At least he tried to. The chieftain reached back, grabbed him by the ankle, and threw him into the tree line. Edwin hit a trunk and stayed there.
+
+"Edwin!"
+
+Sloane sent a wind blade into the chieftain's face. The compressed air split its cheek open. She lunged in with her sword, driving it two inches into the chieftain's shoulder before the return swing caught her across the forearm. The bone snapped with a sound like green wood. She went down clutching the arm against her chest.
+
+He watched Susan drag her cleaver across the back of the chieftain's thigh. The wound was shallow. The chieftain barely reacted.
+
+Chloe was there to help a beat later. She drove her spear upwards. Jake noticed a spark of mana trigger as she drove it into the monsters neck. It bit deep.
+
+Annoyed, the chief swung a fist at Chloe. Mana activated again as she pushed against, trying to get away. She was too slow.
+
+The fist caught her, sending her tumbling across the ground.
+
+Something had to change.
+
+Jake threw Gutter-Tooth in a wide lateral arc around the chieftain's ankle, letting the chain wrap twice before the blade caught and locked. He pulled the free end tight and used Tension to read the load in every link—the exact point where the chain was bearing maximum stress, where the iron was pulling against the joint, where the ankle was weakest.
+
+He found the angle and redirected the pull, not straight back but diagonally down and sideways, following the line of least resistance. The chieftain took a step, full weight loading onto that leg, and the chain wrenched the joint.
+
+It stumbled.
+
+Lyle drove another fireball into its face before it could recover.
+
+Susan buried her cleaver into the meat of its calf and wrenched sideways.
+
+Jake retrieved the chain, circled, and threw again, this time around the opposite knee, wrapping tight and reading the tension before the chieftain could plant its weight.
+
+The ligament.
+
+He could feel it through the chain like a wire pulled too far.
+
+He snapped it taut at the exact moment the chieftain tried to pivot toward Susan. The knee buckled inward and the chieftain dropped to one knee with a crack that rolled across the clearing.
+
+Glenn put an arrow into the gap below its ear.
+
+It wavered but didn't fall.
+
+Chloe was out of the right, cradling her ankle.
+
+Jake pulled even more, fighting against the monstrous strength the beast had. The beast roared so loud Jake winced. His hands were too busy to block the sound from destroying his eardrums, and when the chief stopped, a high-pitched ringing was the only thing he could make out.
+
+In a sudden burst of power, the chief stood. The chain of Gutter-Tooth dug deeper into its hide-like flesh, biting through. Blood seeped, splashing down its leg. It didn't care.
+
+The monster grabbed the chain and yanked it, sending Jake flying towards the beast. Caught unaware, Jake quickly let go of his weapon, the chains falling limp, but it was too late.
+
+With a harsh backhand, Jake was sent hurtling through the air, crashing through a thorn bush, rolling to a stop after the world had turned upside down. He crashed against a tree.
+
+He saw stars, and if not for Pain Resistance, he'd have probably lost consciousness—he wished he had. The pain was blinding and it was all over. His left arm, which was already broken, was now laying crooked at his side. White, creamy bone peeked out of flesh.
+
+He heard the panicked screams and shouts of his neighbours. The ringing in his ears buried most of it, leaving only the chieftain's footsteps coming through clearly, each impact transmitting up through the soil.
+
+Jake tried getting himself up, but it felt like everything was broken. Check for injuries, he thought to himself, trying to regain composure.
+
+His legs were fine. Sore, but fine. His foot was twisted, dislocated, not broken. He forced it back into position with a pained grunt. His ribs were broken, at least two of them. There was nothing he could do about that.
+
+With one heal left, he healed the worst of it, before entering Meditation. Now wasn't the best time, but it was the only time he had. He needed more mana.
+
+More. Give me more.
+
+He started breathing it in, gulps at a time, regardless of what it did to his throat and insides. It felt like millions of needles shooting down without remorse.
+
+He stopped when his container was half full and complaining under the strain.
+
+Jake forced himself onto his feet.
+
+He breathed in again, focusing on his muscles. He rolled his shoulders, willing Tension to tighten his muscles. He stretched, and with every movement, his muscles heated up and popped like compressed rubber bands. He tightened them further, more, until his body screamed in protest.
+
+Better, he thought, feeling the strength surge within him.
+
+He strengthened the ligaments around his compromised ankle and bolted ahead, ignoring the pain wreaking havoc on him. Then, he used heal two more times, repairing the damaged muscles and flesh the best he could manage.
+
+The chieftain had its back to him.
+
+It was standing over Lyle, the iron pipe raised, and Lyle had nothing left to give. From the tree line Edwin's voice cut through the ringing, hoarse and ragged, barking angles and positions despite the blood running down his face. Susan was on the ground, trying to get up. Glenn was trying to pelt it with arrows, but it wasn't doing much as the massive creature shielded its eyes.
+
+The chain was already wrapped around its wrist from Jake's last throw, trailing loose across the dirt.
+
+Jake grabbed the free end with his good hand and pulled, dragging the chieftain's arm backward before the pipe could drop.
+
+The chieftain swung its free arm in a wide backhand without looking, the iron pipe cutting a low horizontal arc directly at Jake's head.
+
+He dropped flat, felt the displaced air across the back of his neck, and kept moving, crawling forward under the swing and coming up inside the chieftain's guard.
+
+He looped the chain around its forearm once more, clamping the free end under his boot to hold the tension his broken arm couldn't, then drove his shoulder into the back of its elbow joint and wrenched sideways with everything his legs had.
+
+He used Tension to find the stress in every link, in the joint, in the angle of the locked arm, then pushed the load against the elbow's natural hinge. The chieftain heaved against it. Jake held the angle, teeth locked, body screaming, keeping the arm pinned through his legs and his shoulder rather than his hands.
+
+"Glenn," he said.
+
+The arrow crossed the clearing and buried itself to the fletching in the chieftain's eye.
+
+The chieftain went rigid.
+
+Jake released the chain, stepped onto its knee as it buckled, and climbed the collapsing body as it dropped. When it hit the ground he was already standing on its skull. He raised his heel and drove it down hard onto the arrow's shaft.
+
+Once.
+
+The shaft disappeared into the socket with a disgusting squelch.
+
+The chieftain stopped moving.
+
+(Lvl 11) Goblin Chief defeated Rewards: Two Levels, Pendant of Might (Jake)
+
+Exit condition met.
+
+Reward: 100 Credits.

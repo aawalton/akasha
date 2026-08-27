@@ -1,0 +1,81 @@
+---
+id: e1bf9767-351e-50cf-9588-8dc96b9528e1
+page-type-slug: story-chapter-royal-road
+title: "187. New Sword, Who Dis?"
+slug: 0187-187-new-sword-who-dis
+partOf: god-of-trash
+position: 187
+ownLength: 1928
+unit: words
+publishedAt: 2025-09-15
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2603029/187-new-sword-who-dis"
+royalRoadId: "2603029"
+---
+
+They’d been in the woods all morning, waiting in their predetermined spots for the ambushees to show up. Most of them had thought it was somewhat stupid to try and enact an ambush, with no ability to disguise their auras, but when Madame Quast asked for an ambush, you complied, you didn’t ask why or tell her she had a bad idea. Since she’d started following that sketchy alchemical manual, her power had skyrocketed, but her brainpower and sanity had plummeted. She’d transformed from the largely-rational, if somewhat unnecessarily cruel Shinko Quast, to the aggressive and a little bit cuckoo Madame Quast. They all knew she was destined for a bad end, but until that day came, all they could do was grin and bear it.
+
+“Hey, is Gus back yet? Didn’t he say he was going to go deal with that kid?” Tiana asked.
+
+“No… I lost track of his signature a while back,” Anders responded.
+
+“That isn’t good,” Tiana muttered, looking around her.
+
+A dark shadow materialized behind her, holding a strange sword that wobbled on the wind.
+
+“Tiana!”
+
+He only had enough time to scream before the boy struck home, slamming the sword through Tiana’s chest. Anders rushed forward, only for the sword to surge through her chest and seek him out, as though with a mind of its own. He threw himself backward and managed to dodge a center-mass hit, though the sword scraped by his arm, leaving a purple-black mark behind it. The mark expanded, chewing a hole into his bicep. The young man flicked his sword, cutting it through Tiana’s decaying body as much as sliding her off of it, and darted after Anders. He had enough time to raise his sword with his good hand before the blow landed, but to no avail. The young man’s flexible sword bent around his blade and sought out his heart nonetheless. He felt the pain of corruption, and then nothing at all.
+
+Rhys looked at his new sword appraisingly, constantly amazed at how good it was. It was making these battles with Tier 3s downright laughable. He knelt, absorbing the two newest victims before their energy could dissipate. The upside of an easy battle was that their bodies had more energy, since they had no time to expend their mana. He could easily re-core half the mages back home with this kind of energy, and maybe even look at upgrading a few of them, too… though he knew he’d be better off expanding his low-level mage base and training them a little, so he could offload more of his work. Rather than getting a few more Tier 2s, he needed to get Mouse and Lira up to Tier 3, and maybe work on raising himself to Tier 4.
+
+Two signatures closed in on him. Rhys kicked off, dashing into the woods. Even if the new sword made things trivial, he wasn’t going to stand around for other people to get an opening shot off on him. He had no illusions about his chances if the opponent got a shot off in whatever their path was; it would turn a trivial battle into a real battle and might even seriously wound him, neither of which he wanted to deal with when he had a battle with a Tier 4 on the horizon. That signature hadn’t moved, for some reason; he wasn’t sure whether to be worried, or laugh it off.
+
+On one hand, he didn’t need to worry about her (he assumed the boss was the woman on the magical walkie-talkie) attacking while he was dealing with a bunch of Tier 3s at the same time, but on the other hand, she could very well be preparing a dangerous technique that took some time to activate, but which would oko him when it hit. He’d read enough trashy manga to know just how serious the boss not entering the battle until the very end could be. Let’s finish this up quickly and go fight the boss. One way or another, the sooner he fought the boss, the better it would be for him, and for everyone else (on his side, anyways).
+
+Fire raced through the trees. He jumped to the side, but it turned and chased after him, revealing the form of a rabbit composed of flames. The rabbit leaped at his chest, and he slashed into it, cutting it apart.
+
+The trash gas compressed into blade-form on his sword ignited, exploding right in his face. He staggered back, surprised by his own attack, and the hilt fell to pieces in his hand.
+
+Rhys wiped his face free of soot and grimaced. If only fire could truly be something he could perfect-counter. Gods, he wished. He was a perfect counter to some fire attacks, but that didn’t mean that every fire in the universe bowed before his trash. And if he was doing something stupid, like compressing gas and then cutting fire with it… Well, physics takes over. If he’d thought about it and smothered the rabbit with non-flammable poison gas, that would’ve been different, but he hadn’t. Nor had he selected the gases in his sword for their flammability. He’d selected them their virility and corrupting properties, but more active and dangerous gasses (poison) were often also highly flammable. Not always, and he definitely could’ve chosen dangerous non-flammable poisons… but he hadn’t been fighting a flame-user, so why would he think about it?
+
+With every passing day, I regret more that I once claimed myself a perfect counter to flame. It was like all the fire users of the world were coordinating to show him just how much of a perfect counter he wasn’t, except half the time he was gotcha-ing himself.
+
+“He’s over there!” someone shouted.
+
+“Yeah, yeah,” Rhys muttered. He reached into his storage ring and withdrew a new broken sword, then recreated his sword, this time carefully selecting non-combustible gases that were still nice and poisonous. This version of his sword wouldn’t be as disgustingly corruptive as the first, which was sad, but it still had the flexible and flowing properties of the first sword.
+
+Oh, well. I can always make a dangerous version for non-fire-based-battles.
+
+The sky darkened overhead as a rock hurtled down on his position, chased by a dozen shining silvery blades. Rhys took off through the forest. That was enough sitting still. He had no desire to be a sitting duck for them to unleash all their fancy attacks onto.
+
+The rock smashed down behind him, throwing the earth up all around him. Trees toppled. The knives flew an uncanny path toward him, but even so, most of them were intercepted by the falling trees. Rhys deflected the rest, but he was forced to stand his ground and focus on the blades, and in that time, the three remaining Tier 3s arrived on his position.
+
+“Kill him!” a burly woman shouted, yanking another unrealistically large chunk out of the earth and tossing it at Rhys.
+
+The second, a slender man in black, flicked his fingers, and the knives whirled to his side, flashing almost like fish in a school. He spun his hand, and they gathered into a dangerous group and flew at Rhys.
+
+The final of the three, a girl with flaming bunny ears, made a bunny pose, and another fire rabbit leaped forth and charged at him.
+
+Welp. Rhys looked at the three of them. Time seemed to slow. Which to target first?
+
+Knives guy was the most annoying, but also kind of the least problematic. He could take a few cuts without dying, and while he was locked down mobility-wise if he chose to deflect… he could also dodge. Fire-rabbit girl was kind of weakened now that he had his less-flammable sword, and he could always use some carbon dioxide to stifle her rabbits. Earth-girl was super strong, and would definitely be a pain to deal with… but right now, both of her hands were full.
+
+Snap decision. He charged at the earth-wielder, dashing past the rabbit. The rain of knives slashed toward him, and he dropped low, skidding over the mossy ground, then hopped back up. The knives gave chase, but he was already too close. He struck home, piercing through the burly woman’s ribs before she could throw the earthen chunk at him.
+
+The corruption and decay was slower, but it was still fast enough. She crumpled, and Rhys fled past her, letting the earth chunk fall down and pin a good number of knives to the ground. The rabbit leaped over the chunk of earth, but he had already reached the rabbit’s caster.
+
+“You’re a ranged fighter. What are you doing in melee range?” he asked her.
+
+Her expression turned fierce. She leaped up and kicked him in the face, and for a second, the world went fuzzy.
+
+Rhys shook his head. Question answered.
+
+She leaped again, preparing to kick a second time, but this time he was wise to her true power, and blocked with his blade instead. The edge nicked her skin, and corruption began to spread. She gritted her teeth and kicked again.
+
+This time, Rhys ducked away, dodging to the side. He grabbed a table fragment from his core and threw it behind him, activating Trash Intent just in time for the fire rabbit to bonk its head on the manifestation. Knives, too, struck into the manifested table. The rabbit girl pivoted and kicked again. He caught her leg and pushed impurities directly into it through skin-on-skin contact. She yelped and retreated, and the second she gave him room, he took her head with the sword.
+
+Knives’ guy’s face crinkled in distaste. He swept his hand again, and a hail of blades chased after Rhys. Rhys ran, kiting the knives, and summoned a scrap of what had once been a tarp from his core. He stopped dead and held out the scrap. Seconds before the knives impacted him, he called forth the manifestation of the tarp and stretched it out. The knives slammed into the fabric and pierced half-through it, but not all the way through with his magical reinforcement. He wrapped the tarp around the knives and spun it around, then slammed the lump of tarp-wrapped metal into the man’s face. The man blinked, but took no real damage, since he still controlled the knives on the inside of the tarp—but that was fine. Rhys released the tarp and dashed in. His flexible sword lashed like a snake and cut the man’s chest open. It wasn’t enough to pierce him through, but the man must have had a weak constitution, because the poison immediately spread, darkening his veins and corrupting his body. He fell back, coughing a dark liquid, and went limp.
+
+Rhys flicked his sword and looked around. Seeing, and sensing, no one else, he slurped up all the bodies and power around him, and ran for the strongest signal in the distance, the one that hadn’t moved since the start. I hope Mouse and Lira are still okay. And still waiting, and not panicking that I haven’t called back, he thought, as he closed in on the Tier 4. He’d really thought walkie-talkie lady would be closer to the portal, but wisely, she’d been quite some distance from it.
+
+But now he’d cleared out the forest, and, from the familiar Tier 3 signature closing in on him from behind, Sable had dealt with her men, too. He turned his eyes ahead. One left. One last powerful core to add to his stores of power.

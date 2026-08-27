@@ -1,0 +1,145 @@
+---
+id: 63e105cd-8cce-58a2-870b-97b3df3daf94
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10 - Verdant Expanse"
+slug: 0010-chapter-10-verdant-expanse
+partOf: hell-horizon-healer
+position: 10
+ownLength: 1644
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3521610/chapter-10-verdant-expanse"
+royalRoadId: "3521610"
+---
+
+Jake ripped his gaze from the portal, his eyes trying to adjust back to the darkness. A Skulker even larger than the one Jake had faced crashed into the wall. It stomped down the hallway, all muscle, hefting a ship’s anchor. It wore an assortment of scrap metal armour, with a helmet that entirely covered its face.
+
+It smashed through a television, rupturing dry wall and everything in between. He’d never seen Edwin so scared.
+
+He took a single second to glance behind him. It was a long corridor down with no promise of safety. His mana container was half empty, but what was worse was how exhausted he was. His arms felt like lead, his legs like they had weights tied to them.
+
+“In here,” he said, pulling Sloane by the back of her shirt, and throwing her in. She squeeled, and before she could mutter a word of complaint, he had already joined her.
+
+The others filtered, eyes widening in complete shock at the scenery they found themselves in. The lumbering monster appeared in the doorway.
+
+Jake instantly placed both of the points he had gained from his reward of levelling up into strength, then with everything he had left, snapped a kick to the Skulker’s chest. It did little but make it stumble, but that’s all he needed.
+
+He slammed the door shut.
+
+Could it open it?
+
+He asked himself that question a beat later, but the door simply vanished.
+
+Uh oh.
+
+“Jake,” Sloane asked, staring into the woodland. “What did you do?”
+
+“Are you asking if I’m responsible for opening a portal to another world? Then no.”
+
+Edwin glanced down at his crossbow. One of the limbs had snapped. He tossed it to the floor with a click of his tongue, then scanned his surroundings. “Where the hell are we?”
+
+“The door said Verdant Expanse,” Jake said, looking at the crossbow on the floor. It was a sour reminder that he had left his own bow behind somewhere lurking in the disgusting water.
+
+He scraped at his tongue as the memory of what the water tasted like resurfaced.
+
+Not doing the trick, he ripped a handful of grass and chomped on it. It was bitter, but anything was better than that water.
+
+Susan limped over. “Hey, Jake,” she asked, the madness gone. “Can you spare a heal?”
+
+Jake first checked his mana container. He had enough for one more use, but he wagered that if he didn’t heal her right now, she’d bleed out in the next few minutes. In fact, she probably should have already bled out by now.
+
+How much Vitality does she have? I wonder if, like me, her Trait (whatever it is), gave her a big boost?
+
+“Sure,” he said but first assessed her wounds.
+
+She had a massive gash from her chest to her shoulder, a gouge in her thigh, and a new set of nail trails across her face. He had her sit down.
+
+It was obvious the system rewarded mastery. Because of that, Jake didn’t want to just heal the wound without a further thought. If he did that, then would he only be able to restore surface wounds for the rest of his life?
+
+This time, he pressed his hand against the worst of her wounds—her thigh. Blood was gushing out; had it hit an artery? If it did, then it wasn’t as bad as he thought it was. She grimaced at the pain, a faint bite of her lip. She was way more brave than he was.
+
+Must be her Vitality. Maybe something to do with pain resistance? That would be handy to have…
+
+He studied the wound and a full minute later, came up with the best way to focus his Minor Heal to make sure that it healed quicker and more effectively.
+
+He healed it, trying to press the ability deeper than usual. With how strong the monsters were getting, a stronger healing skill was a necessity.
+
+Feeling that faint bout of weakness that usually arrived when he overtaxed his mana, Jake checked in on his Minor Heal Mastery progress as Susan thanked him and started tying up her other wounds.
+
+It had just hit the 10% mark; it was as he had thought, using a skill with meaning, not just going through the motions, increased the mastery gain considerably.
+
+You have entered the Verdant Expanse.
+
+Exit condition: Slay the Goblin Chief.
+
+Reward: 100 Credits.
+
+Glenn wandered to where the door had just vanished. He looked around. “Where the hell is the door?”
+
+“Wait,” Chloe breathed heavily from the sudden sprint in the hallway. “Does this mean we’re stuck here? What about the others?”
+
+“If we don’t get back soon, the others will begin to have problems with thirst,” said Lyle. “We need to find that Goblin Chief and fast.”
+
+Edwin crouched down and felt the grass, rubbing it through his fingers. “Hold your horses,” he said. “We don’t even know how strong the chief is. This place obviously isn’t normal.”
+
+Woah, Edwin is quite smart. I wonder how he came to that conclusion?
+
+“Instead of running through the forest like a bunch of tired, headless chickens,” Edwin added, standing up with his hand resting on the hilt of his knife. “We need to first find somewhere to rest. Somewhere that’s easy to defend that we can return to.”
+
+Jake agreed with him. “There’s no way of knowing how long we will be here. It’s better to take it slow. I’m out of mana and need time to recharge. If any of you get wounded, I can’t heal it.”
+
+“But—” Lyle struggled with the situation, letting out a heavy breath a moment later. “Shit. Fine. Then where do we go? It’s nothing but forest.”
+
+Jake pointed into the forest. “Where else?”
+
+***
+
+Along the way, Jake couldn’t shake the feeling that they were being watched. It was the exact same prickling sensation he’d felt when looking down into the thick darkness of the stairwell.
+
+He mentioned it to Edwin, but the older man shrugged it off, telling him he was probably just seeing or hearing things because his nerves were shot.
+
+Why the hell would he want to imagine something stalking them? He’d much rather there be nothing out here; his mana was still dangerously low, his limbs felt heavy, and he desperately needed a rest.
+
+Eventually, Edwin found a shallow cave entrance. They hadn't run into a single monster on the trek over. There had been the odd bird chirping—though Jake hadn’t actually spotted any yet, only heard them—and a strange horned squirrel that scurried up a trunk, but none of the local wildlife seemed aggressive.
+
+Jake refused to believe it.
+
+The shelter wasn’t really a proper cave. It was more like a deep recess in a limestone wall, heavily shielded by a dense thicket of sharp, thorny bushes. Edwin nodded at it, muttering that it was good enough and gave them solid protection on their flanks.
+
+Jake didn’t argue with him. Before all of this started, he’d just been a regular office worker for a company he didn't care about. He knew when to defer to an expert.
+
+A deep prang of pain stabbed into his head. Edwin was quick to note that it was most likely due to severe dehydration, and he’d be right. Jake’s tongue was practically on fire. He had no saliva left. Jake wasn’t the only one suffering; everyone was.
+
+“We need to put up with it,” Edwin said. “We’ve got a lot of work to do to make this place secure before nightfall. We’ll search for water tomorrow.”
+
+He was most likely right. But Jake was way past his limits.
+
+He stood up from the rock he was resting on and stretched his tired, dehydrated muscles. “I’m not waiting,” he said. “Who’s coming with me to search for water?”
+
+Edwin frowned. “Jake, this is serious. We don’t know what’s out there lurking.”
+
+“He’s right,” Arthur butted in, back against the cool cave. He was pale as a sheet of paper. “Besides, we don’t have the energy to move.”
+
+“And if we wait any longer, we definitely won’t have the energy to move,” Jake said, casting his eyes around the small recess.
+
+Chloe was too busy staring at the ceiling in an attempt to forget how thirsty she was. Susan was completely spent. The wound on her leg, though healed, would slow her down if they had to run. Arthur simply shook his head, agreeing with Edwin. Glenn was sprawled spread-eagle in the dirt, face down. He mumbled something into the soil, but even with Jake's enhanced hearing, the words were completely unintelligible.
+
+Lyle forced himself up. “I’ll go with you.” He looked at Edwin. “I don’t think we can go another day without water.”
+
+No, they couldn’t. It was obvious their enhanced bodies required more fuel than before. Was it three days a human could go without water before? Now it was probably two. They might not die from it immediately, but without the energy to fight or run, they might as well dig their graves now.
+
+Edwin only nodded, but he made no move to join them.
+
+Jake thought he’d be the first to come along. Did he have a way to get water if he was truly desperate?
+
+“This sucks,” Sloane groaned, pushing herself up to stand alongside Jake and Lyle. “If we bring back water, you all owe us big time. I’m serious; I’m taking at least five credits in payment from everyone.”
+
+“If you bring back water,” Edwin said with a faint smile, “I’ll give you ten.”
+
+That seemed to do the trick. Sloane stood up straighter, the lethargy vanishing from her posture.
+
+“Let’s go then,” she said, pointing into the thicket and mimicking Jake’s exact gesture from earlier. “To water!”
+
+Jake grit his teeth.
+
+I hate her.

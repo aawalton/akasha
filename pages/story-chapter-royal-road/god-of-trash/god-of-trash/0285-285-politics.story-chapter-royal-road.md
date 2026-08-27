@@ -1,0 +1,145 @@
+---
+id: c29b49c3-5b17-51eb-95ea-739947148643
+page-type-slug: story-chapter-royal-road
+title: "285. Politics"
+slug: 0285-285-politics
+partOf: god-of-trash
+position: 285
+ownLength: 2473
+unit: words
+publishedAt: 2026-03-11
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3141387/285-politics"
+royalRoadId: "3141387"
+---
+
+“Why, Norton, dear, how good of you to invite me to dinner,” Madame Tunk said, leaning in to fake-kiss his cheeks.
+
+“Of course, mother,” Rhys replied with a smile, indulging her.
+
+When she was done, he stepped back, and she clapped his arms and leaned back as well, taking him in. “You look healthy. I’m glad to see you finally taking your practice seriously!”
+
+“I simply came to my senses. Wasting away my life was such a… well, a waste,” Rhys said, shaking his head regrettably. He offered her his arm. “The maid has been busy cooking up a storm. Shall we sample her hard work?”
+
+Madame Tunk nodded and let him lead her into the dining room. He let her take the lead in the dining room, where she chose her seat and stood beside it, waiting for him to pull it out for her, then push her in. Ever the dutiful son, Rhys obeyed. For his part, he took the seat at the head of the table, and Lily naturally took the seat to his right. His ‘mother’ sat to his left.
+
+The maid appeared a few seconds after they were all seated with their first course. They set to, eating a few bites before Rhys cleared his throat. “Mother, I was thinking; social season is almost upon us. I know I have my lovely wife—” he offered Lily his hand, and she took it, and he gave it a little squeeze because that was what happy couples did in sitcom dinners, “—but I was thinking that it’s time for me to make my re-debut as a changed man and devoted husband. I’ve been remiss in not taking part in social season for the last few years, but this year is the year to change all of that.”
+
+“Darling! I thought you’d never ask. Have you made arrangements?”
+
+“I was thinking of attending the Anqui’s ball—”
+
+“That piddling thing? No, no, no. Not my son. No. There’s a far more… fitting ball for someone of your stature going on at the same time. Have you ever heard of Illya Traje?”
+
+Rhys blinked. The name was familiar, in a distant, deeply distant way. Somehow, he associated it with Straw, and Bast… He leaned forward, then snapped his fingers. “Roses? She uses roses, right?”
+
+“Yes! That’s her. She’s the leader of one of the strongest schools in the region, with mages who number in the hundreds and two Tier 4 powerhouses under her.”
+
+And a habit of bullying a master and his two harmless disciples for no reason, Rhys added silently. She’d been the one to lead the attack on Straw that had separated Rhys, Bast, and Straw in the first place. She’d fought and captured Straw.
+
+How connected is she with Ernesto? How much does she know about Straw’s capture? Is she still related to his present condition, or did she simply capture him, then forget about it? A thousand questions ran through Rhys’s mind, and he tensed subtly. This could very much be walking into the jaws of the lion… or it could be marching to the one person who knew the most about Straw, yet was uninvolved in the following conspiracy. She could be the key to unlocking the final secrets around Straw… or she could know nothing at all. He just didn’t know.
+
+Unaware of the thousand thoughts running through Rhys’s mind, Madame Tunk pressed on. “Lady Illya is holding a ball at the end of the week. I have already secured an invitation for myself, and if I reached out, I’m sure I could secure an invitation for you and Lily, of course, Lily darling.” Madame Tunk turned and smiled at Lily, who smiled back. “I’m quite pleased my son is finally stepping into his future role as the head of the Tunk family. I can’t wait to see how you blossom in the future.”
+
+Rhys fake-smiled back, squinting his eyes almost shut. You and I both know that’s not gonna happen. You’re just reminding me that I’m going to owe the Tunk family later. I get it. Hey, as long as you don’t mind a trashy solution to your problem, I’m happy to provide!
+
+Madame Tunk patted Rhys’s hand. “You leave it to mother, hmm? I’ll get everything figured out for you.”
+
+“Thank you. Of course. I knew I could count on you.” He patted her hand back, and they shared a smile.
+
+With that settled, the trio went back to dinner. For a while, they dined in comfortable silence, until Rhys sat up and looked at Madame Tunk. “Mother, I have something private to ask you.”
+
+Madame Tunk nodded. Dabbing her lips with her napkin, she waved her hand almost distractedly. A bubble of energy formed around her and Rhys alone, leaving out the rest of the world—including Lily.
+
+Rhys breathed out quietly. He hadn’t been sure what he’d say if she included Lily. He didn’t dislike Lily, but he didn’t trust her either; he simply didn’t know her well enough to know if he could trust her or not. He wasn’t sure he could trust Madame Tunk either, but he needed her to know what he was going to say, if he was going to kick this thing off the way he wanted to. Besides, she hadn’t revealed his secret so far, so at the bare minimum, he knew she was the kind of person who kept her mouth shut.
+
+True, Lily hadn’t shared his secret either, but firstly, he was pretty sure Lily didn’t have as good a hold on his secret as Madame Tunk did, and secondly, Lily was involved in trying to poison Norton; he would be a fool to trust a woman who would poison her husband, even if he totally deserved it. Nothing against Lily, to be honest. There was nothing wrong with being selfish and protecting yourself first. But knowing that she was that kind of person, meant she would definitely spit out any secrets she heard if she was put in a place of danger.
+
+Not that Madame Tunk wouldn’t, but Madame Tunk was stronger and politically connected—in other words, less likely to land herself in danger. She had the smarts, strength, and connections to keep herself safe, whereas Lily was just a low-level noble who was relatively secluded from the world of mage nobility thanks to her shitbag of a husband. If things went sideways, Madame Tunk could fight her way out, or, better yet, socially pressure and threaten the attacker into backing out. Lily couldn’t do either of those things. Her option was basically to cry and die. It was safer for everyone, Rhys and Lily alike, to leave her out of it.
+
+He prodded the bubble with his mana. When he was satisfied that it was complete, he reached out to Madame Tunk instead, inspecting her mana and body with his mana senses. He sensed no sign of Virgil’s mark, so he nodded at Madame Tunk. “What is your opinion on the current state of the Alliance?”
+
+If she was a die-hard Virgil fan, it wouldn’t matter what he said; she’d ignore it all. If his first wouldn’t hadn’t taught him that, it hadn’t taught him anything at all.
+
+She chuckled. “Ah. So that’s why you inspected me.”
+
+Rhys sat there silently, giving no indication one way or another.
+
+“I consider myself neutral. Getting deeply involved in politics is a way to ruin. I’m more interested in strengthening myself and my family.” She knitted her fingers and gave him a look.
+
+Rhys nodded. Excellent. That was the best answer he could have gotten. He understood that she was trying to tell him: I don’t care, I don’t want to get involved, but as someone who deeply needed to get people involved whether they wanted to or not, a skeptic-neutral-outsider was the ideal co-conspirator. It meant people likely considered her a rational mind rather than a biased radical, someone they could trust to have an even-handed take on things.
+
+He leaned forward. “What if I told you Virgil had a plan to attack the Alliance as a false flag in order to consolidate power and force the Alliance into a war that would cement his power in the long term?”
+
+She raised her brows. “Those are serious accusations. Do you have any proof?”
+
+“Nothing you would believe. But I’m working on it. The question is: would that change anything about Virgil’s rule? Would proof be enough to force him out of power?”
+
+Madame Tunk raised her brows, then chuckled. “You are the curious one, aren’t you? Yes, of course it would.”
+
+Well, I came from a world where this much proof wouldn’t do shit to the correct person. Rhys smiled back. “Wonderful.”
+
+And then her smile vanished, and she looked him in the eye. “…As long as you took care of Luc. With the Sword Saint on his side, he holds the true center of strength in the Alliance. So long as he controls Luc, his word is law and truth, regardless of whatever may actually happen.”
+
+And that’s more what I expected. In my world, it’s money; in this world, it’s mana. As long as there’s power, there will be those who abuse it. And so long as there’s people willing to abuse their power, the ‘truth’ will never be anything more than a farce. Only by eliminating power can we discover reality. Rhys took a deep breath and nodded. Well, it didn’t matter. He’d already known that, and he’d already planned around it. “Of course.”
+
+“Just leave me out of it,” she sighed, sitting back.
+
+“I’m afraid I can’t do that,” Rhys replied.
+
+Madame Tunk raised her brows. “Even when I could blow your current situation wide open?”
+
+“That’s fine. Go ahead. I’ll simply find another face,” Rhys replied evenly. He sat forward. “Madame Tunk. I understand that you don’t want me to involve you. Deeply and sincerely, I would also not like to be involved in this. However… for the good of the Alliance…”
+
+He went silent. Madame Tunk waited. After a second, he looked up again, smiling. “Well, we both know that’s bullshit, right?”
+
+She snorted. “Rightly so.”
+
+“You’re a smart lady, so let me give it to you straight. Virgil harmed my friends, so I’m going to fuck him up. This is a personal vendetta. Coincidentally, it also helps the Alliance. Knowing that I’m that kind of person, Madame Tunk… would you like to be on my side, or against me?”
+
+She sat up straight, adjusting her posture. “The threats are unnecessary. I believe I’ve already made my preference clear.”
+
+“Then let us become allies, Madame Tunk. I like you, and I don’t mind assisting you or your family in the future. I have no intention of involving you more than I have to, but I don’t have access to the town’s rumor mill, and you do. If you sow the seeds of doubt, I will take responsibility for them and capitalize on them, without involving you more than the bare minimum. I do not want you to fight for me, nor take the blame for me. Is that acceptable?”
+
+Madame Tunk nodded. “That… is acceptable, on one condition.”
+
+Rhys waited.
+
+“You must not wear my son’s face when you make your move.”
+
+He grinned, then laughed, unable to stop himself. “Don’t worry, Madame Tunk. When I come for Virgil, I want him to know who’s killing him. I want him to understand the mistakes he’s made, and regret them in the moments before he dies.”
+
+“So confident?”
+
+He said nothing. He simply looked her in the eye.
+
+Madame Tunk shifted in her seat, then chuckled. “Well. The Tunks have always preferred to back the winning horse. If you’re the Alliance’s next ruler—”
+
+“No.”
+
+“No?”
+
+“I have no interest in ruling. Like I said, this is a personal vendetta, plain and clear. I truly have no other interest but killing Virgil.” He leaned forward. “But if you would like me to hand the Alliance over to a person of your chosing, say the word.”
+
+“That easily?” she asked, shocked.
+
+“Why not?”
+
+“In my experience, those who grasp power never let go of it so easily.”
+
+Rhys sat back. He spread his hands. “I’m just a piece of trash, Madame. I’m a lazy asshole. Controlling the Alliance would be a waste of my time and effort when I could be lazing around enjoying life instead. I deeply, earnestly, from the bottom of my heart, not only do not want to run the Alliance, but the very idea disgusts me. When I say you can name your man, I really mean it, but I really, really mean it. Think deeply and choose someone who makes sense, aligns with your values, whom you trust, and who can maintain control without me, because once I finish here, I intend to leave and never return.”
+
+Honestly, Madame Tunk was solving a problem for him. She was negotiating for control of the Alliance, but Rhys couldn’t be more happy to shove that problem off on someone else. He didn’t mind leaving a trashy power vacuum behind him, but he’d seen that go wrong as many times as he’d seen it happen. He’d rather leave the country with a stable leader, regardless of what ‘stability’ meant.
+
+After all, he really was not doing this for the sake of the Alliance. He couldn’t stress that enough. The Alliance’s continued success was immaterial to his actions. He didn’t mind that the Alliance benefitted, but if Virgil hadn’t stolen Mouse and harmed Bast, he could have happily walked away and left him to it. Instead, Virgil had harmed his friends, so now he had to get revenge, but the fact that getting revenge also meant kicking the Alliance into a dark age was a mild annoyance at the back of his mind. If Madame Tunk could solve that problem, then he’d just checked all the boxes, and he no longer had to worry about anything anymore.
+
+He leaned forward. “So. What do you say?”
+
+She took a deep breath, looking down, then met his eyes. “This is quite the tempting proposition, if it’s true. I’ll think about it.”
+
+“Please. I wouldn’t want it any other way.” Rhys met her eyes, momentarily flaring his trash star to deliberately give her a glimpse of his true power before hiding it once again. “Just understand that I am deadly serious about everything I said today… and about it remaining between us.”
+
+“Of course, darling. I wouldn’t have it any other way.” Her motherly smile returned, and she patted his hand. The bubble vanished.
+
+“Thank you, mother. I’m so glad you understand,” Rhys replied, as if they were speaking of a totally different subject.
+
+The maid approached with their next course, and the dinner resumed.

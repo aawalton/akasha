@@ -1,0 +1,137 @@
+---
+id: 38224825-e3e6-5ba5-823f-61423c8f245b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 821 - Our responsibility"
+slug: 0148-chapter-821-our-responsibility
+partOf: hell-difficulty-tutorial
+position: 148
+ownLength: 1918
+unit: words
+publishedAt: 2026-06-07
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3507058/chapter-821-our-responsibility"
+royalRoadId: "3507058"
+---
+
+For a while, I watch the powerful presence disappear entirely from my sight, and with the first light of the starting day, I track the black orb as it falls somewhere far away. Once there, it begins to absorb the ambient mana and, to my remaining eye’s surprise, it stays fairly stable. It doesn’t pull too much, and it doesn't show signs of breaking and releasing all it’s absorbed. It just sits there in the distance, sipping on all the mana in the area it can reach, and that reach then begins to grow, very slowly.
+
+I might be too much of an optimist at hearts, but at this point, doesn’t that mean it could stick around for years? Is it the lance I fed it? Did the orb like it that much? Or was it something I did afterwards, led by my instinct and will? A combination of both?
+
+In any case, this doesn’t look too good. I begin to worry it’ll explode one day, long after my tutorial ends. As one of the S ranks, I feel a bit responsible, so there is only one thing I can do.
+
+"I can’t believe the Ruler of Diligence just did that."
+
+Multiple heads turn toward me, and the way Weslin drags me changes, becoming much less comfortable.
+
+"I can’t believe the Ruler of Diligence got so angry again, not even a year after the Ancient Armory incident, when he destroyed that-" I don’t get to finish as Weslin drops me on my ass.
+
+With my still weakened body, I lie on my back, and my head catches the first light of the day from the brightening ceiling.
+
+Still lying there and looking up, I say, "We’re almost all S ranks here. It is our responsibility to warn people of that dangerous zone with that mysterious evil orb as black as the First One’s carapace and heart. Coincidence? I don’t think so."
+
+Letting my words trail off, I let the others absorb what I said as we rest and lick our wounds.
+
+Only an hour later, as likely the first group in who knows how long, we see the day break fully. The monsters have long since stopped appearing, and even that powerful, ghostly stalker that had been tracking us all night seems to vanish entirely, not even giving a hint of returning.
+
+A part of me wonders what it is about the day that makes the monsters hate it so much, to the point they never appear before dusk. The silence now feels unreal after so many hours of chaos. No enemy presences surrounding us, and no heightened senses waiting for another freeze mid fight just to find ourselves threatened with being torn apart by a Skreth.
+
+“LET ME GO, YOU MOTHERFUCKER! YOU UNCULTURED BUFFOON. MY BELOVED MASTER WILL-” Calvorn begins to scream as Brich lays the sword on the ground. The blade somehow slides out of its sealing sheath.
+
+The lumoran, clad in half destroyed armor with nearly half of his consumable items used up, lets the sword scream for a moment before tiredly shoving it back into place and applying another seal. Morwag remains standing near Brich, staring in the direction where that powerful presence disappeared, while Savant also remains on his feet. Weslin just sits next to me. For a bit longer, we simply sit there and rest.
+
+Looking at my graying hand, marked by the Necrotic Rot, I finally speak. “I have a plan.”
+
+I hear Weslin groan, having heard about my plan earlier, Savant looks away, and Morwag doesn't react. Meanwhile, Brich excitedly sits up and crosses his legs, listening patiently.
+
+Slowly, I lift my grayed hand. “How about we let this thing spread? We make it stronger and…” I pause. “Then throw it at whatever fucker is waiting at the center of the 1st floor.”
+
+“Absolutely not!” The new voice belongs to Zant, who once again appears out of nowhere beside us.
+
+I force my best gentle smile onto my face and gesture for him to come closer. The tiny vyssari looks at me suspiciously but approaches and sits down nearby. I fish a broken bar of milk chocolate out of my bag and, after unwrapping it, hand it to him.
+
+The bar is a normal size, but the broken pieces seem massive in his hands as he starts nibbling on it.
+
+“So, I have a theory that the rot spreads very quickly, but isn't that difficult to remove, at least not for us here. The only problem is that I remove it from myself, and in the next instant, I get it back from that asshole Savant,” I begin to explain.
+
+As I talk, I pull Zant closer and pet his tiny head. He almost doesn't notice as he bites into the chocolate, which he seems to like very much.
+
+“It’s possible that we could get rid of it if we removed it all at once in a very short window,” I say.
+
+Brich lifts his hand, “I have a question.”
+
+“Go on,” I gesture.
+
+“How does it spread from that asshole Savant to you, when before we needed to be wounded with the bones those monsters here seem to like?”
+
+“That is a good question,” I nod. “I think once you’re already infected, it becomes possible for you to be infected wirelessly. It’s possible that it waits dormant inside of you to be reactivated. I don't know for sure, I'm not a healer.”
+
+Brich lifts his hand again.
+
+“Go on.”
+
+“Why can't we be let into the outpost then, if it only spreads through being wounded by these monsters before it can be transmitted wirelessly?”
+
+“That’s a very good question.”
+
+“Is it?”
+
+“Yup.”
+
+“So what is the answer?”
+
+“I have no idea.”
+
+I can almost hear Savant groan as he stops standing and plops down on the ground. “It spreads from the monsters' attacks initially, but once it’s taken root in any other race, they can spread it through the air as they become carriers.”
+
+"Isn't that a bit too dangerous though?" I ask.
+
+"It would’ve already killed most people below level 300. We have the advantage that we’re the only five people here, so we can all remove it at the same time and get rid of it if your theory is correct. Imagine if it spread to a bigger group. Someone there would surely find themselves unable to remove it and continue to reactivate it in the others. It is possible that even if we remove it, something dormant will stay behind waiting to be reanimated for days if not longer."
+
+"I bet Lily could deal with it."
+
+"I think if she’d wanted to, your healer could’ve created something even worse than Necrotic Rot by now."
+
+"I guess," I nod. "So cool. So, what have you picked up on?"
+
+Instead of answering right away, Savant takes something out of his bag and begins to eat as well. Some sort of cookie or something wrapped in a leaf. For a moment, I can smell the scent of oranges and butter.
+
+He notices my look but doesn’t even offer to share as he talks. "I was observing how it spreads and letting it progress a bit further. If you want, I can give you the exact formula for how much it strengthens, after how long, and to what point my body’s stats and passives influence it. You would need to adapt it to yourself and-" he pauses, seeing my expression. "Never mind. What I’ve managed to learn is that, constantly and immediately after it appears, erasing it slows its spread. If you let it grow further, even if you erase it, the next time it appears, it becomes more powerful at the start and spreads faster."
+
+I pet Zant on his tiny head, turning it so he can see the cookie Savant is eating. The little vyssari stops eating the chocolate and looks at the cowardly guy, who stares back intently for a moment before handing a whole cookie wrapped in its giant leaf to Zant.
+
+"I baked it, by the way," he says. "So it might not be very good."
+
+"Thank you, Sir Savant!" Zant takes a few swift steps and grabs it. Then, once he returns to me, I watch him break the cookie in half and offer one half to me with a serious expression.
+
+My sour mood over him not thanking me for the chocolate, as he did to Savant, is immediately gone. I take the cookie and start eating while turning back to Savant.
+
+"So, what do you think?" I ask while silently cursing him. Not good? The cookie is delicious.
+
+He nods. "I have a few ideas that could help."
+
+Nodding just once, my eyes move back to Zant, who’s continuing to eat while we talk. I ask, "But you won’t let us, right?"
+
+He doesn’t even answer right away, but instead slowly finishes his cookie. I notice that not a single crumb of it landed on his suit. Then, only once he’s done, he fixes up that already perfect suit and nods. "It’s too dangerous."
+
+"How come? There is no way we’re the first people ever to get Necrotic Rot. I bet there’ve been cases of people coming to outposts with it, or moving between floors," I say.
+
+Weslin and Savant both listen curiously while Morwag seems to be doing his meditation on the side.
+
+Zant looks at each of us before answering, "All the big outpost leaders have items that warn them when someone who’s infected with Necrotic Rot is approaching and are able to deal with them in most cases. Sometimes, smaller outposts fall to it, causing the surrounding outposts to create their own units to deal with it. Before, I was worried about what would happen if the Black Tower leader attacked you, and what would happen if you fought against him. There was no need for that, so I interfered. After all, I am empowered to make these kinds of decisions."
+
+Unable to help myself, I ask, "What does it mean to be Diligence’s vessel?"
+
+The tiny guy doesn’t even seem to be surprised by the change of subject. "It means he and I are connected, and if he wills it, he can manifest his power through my body, as much as I can endure. Or, if it should be required, I can give up my life to allow him to manifest here in his full power."
+
+"That sounds like a bad deal for you."
+
+"Is it? I am a Vessel for one of the most revered Rulers. Even if I’m different from the others, I am a member of the Colony, and as our leader’s vessel, I am able to call upon him. I can ask for assistance, power, or advice. Many people would wish for that."
+
+"Does he watch through your eyes?"
+
+"He can, but he never does that without my knowledge. Also, one of our rules is to tell the others when he is."
+
+"Well, in that way, you’re already doing better than the twins and Min-Jae," I mutter. "Well, anyway. So, how about we set some rules about our use of Necrotic Rot and make a deal? You can’t take it away from us and can’t stop us either, until it seems like it might hurt a large number of people, right?"
+
+Zant furrows his brows. "That is correct, Sir Gwyn."
+
+"Good." I stand up and call upon Morwag. "Hey, we’re gonna need your arm."

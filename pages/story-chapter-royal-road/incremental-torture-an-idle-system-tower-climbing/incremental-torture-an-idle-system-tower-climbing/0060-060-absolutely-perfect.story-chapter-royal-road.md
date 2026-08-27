@@ -1,0 +1,239 @@
+---
+id: e344a052-b964-5b22-a003-321bc4e24385
+page-type-slug: story-chapter-royal-road
+title: "060: Absolutely Perfect"
+slug: 0060-060-absolutely-perfect
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 60
+ownLength: 2085
+unit: words
+publishedAt: 2024-06-25
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1692421/060-absolutely-perfect"
+royalRoadId: "1692421"
+---
+
+Lava was dripping onto the arena floor and the first parts of the hyper boss’ body were forming from its core. Evelyn had limited time, and so she started to speed read.
+
+Her priorities were anything that was obviously overpowered, and a trump card to use against Dazurmagon in place of the lost Celestial Resonance. Losing that particular skill so soon after acquiring it was disastrous, given how central it was to her victory.
+
+After about thirty seconds of exploration, during which time Dazurmagon had grown a full torso, Evelyn narrowed the huge list down to four options which she thought suited her best, given the limited timeframe.
+
+~~**Ascension**~~
+
+Ascensions | >AP Shop<
+
+Celestial Furnace [1 AP]
+
+Converts all essence gain (excluding star income) into star value at a proportional rate.
+
+Spinebreaker [2 AP]
+
+A mythical warhammer forged from the core of a dead star, legends say Karathul Voidsplitter shattered a planet in a single blow using this weapon.
+
+Arcane Impact Converter [3 AP]
+
+Transforms a portion of the energy from blows you receive into mana.
+
+Mu’ranor’s Attunement Art [5 AP]
+
+Unlock the secrets of the First Galactic Emperor.
+
+It was very possible that she was missing some kind of buff or item that might suit her better, but Dazurmagon would be ready to strike any moment and Evelyn needed to prepare herself. Which left her with one final choice to make.
+
+She had three ways of spending her ascension points, even after narrowing down her options.
+
+Two of those involved purchasing Celestial Furnace, which to her seemed to have the greatest long term utility of any of the available upgrades. The only downside being it would provide no immediate help in the battle against the Worldshaker.
+
+From her understanding the modifier would allow her to earn stars without having to purchase them. That meant that even without access to the local shop or floor completion rewards she would be able to rebuild her income and strength over time, just by battling monsters or slaying her other foes.
+
+It assuaged one of the major worries Evelyn had been having since her ascension, and gave her a sturdy foundation to build towards the second.
+
+If she decided to go with Celestial Furnace, which seemed likely given how incredible it was and the fact that taking an income based upgrade on her first ascension seemed prudent, then she could opt for the expensive Mu’ranor’s Attunement Art. It was a mirror to the way she had focused on the stars over her own personal strength back on the early floors, which had paid off in a major way.
+
+While that particular option was shrouded in mystery, Evelyn felt some kind of connection to it. An invisible tug that was telling her that whatever secrets lay within would be of cosmic importance to her. However, in her current situation immediate utility was a far more suitable choice than unlocking a tantric set of techniques that may or may not benefit her.
+
+Having talked herself out of taking it meant that her two other options had been condensed into just one.
+
+So without delay she purchased the first three upgrades, spending all 6 of her [AP] and acquiring three new tools that would take her to victory over the 16th Floor or at the very least lay the groundwork for her to do so in future.
+
+The latter option she hoped to not face, but it was best to prepare for the worst outcome, even knowing how much despair it would bring.
+
+After making her purchases, Evelyn received another message from the tower. Here she paused, even with the little time she had available.
+
+All items purchased from the Ascension Shop will be [❍❖░𝀉] to you.
+
+The strange collection of symbols had appeared quite a few times during the ascension process. First, in relation to the two mystery objects - which she now knew as ‘reality nodes’ - and then to a few other items and also stars.
+
+Her mind flashed back to the puzzle, where she had to decrypt a similar set of symbols. Was this a language of the tower, or its creators?
+
+Once she was clear of her current challenge she might dedicate some time to figuring it out, and unlocking more of the tower’s mysteries.
+
+It took a little exploration of the menus to find where Celestial Furnace and Arcane Impact Converter were listed, but she found them in her status listed under a new section - mutations.
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.15
+
+|Attributes|
+
+Power: 15
+
+Speed: 0
+
+Stamina: 0
+
+Vitality: 0
+
+Mana: 0
+
+Fortitude(I): 15
+
+|Mutations|
+
+Celestial Furnace
+
+Arcane Impact Converter
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Galactic Expansion (Unusual), Master of Combat (Rare)
+
+~Hybrid~
+
+Soul of the Unstoppable Conqueror (Unusual)
+
+If I had known more about the ascension process before going in, I definitely would’ve synthesised more skills up to the unusual tier. Burning through rares to make better skills wouldn’t have felt so difficult knowing they were going to be stolen from me anyway. At least I’ll know better the next time. And I’ll have to tell Kayla and the others before they make a similar error.
+
+Celestial Furnace was perhaps her favourite purchase. Even though it wouldn’t help her in her current predicament, it had the greatest overall utility. And Evelyn had a soft spot for stars. Her shopping addiction at play, no doubt.
+
+Having gathered her bearings and completed her ascension, a rather confusing and overwhelming process that had shocked, terrified, disappointed and amazed her in equal measure, she had just two last things to do before she would be ready to engage the hyper boss.
+
+Not that it would wait for her, if its transformation finished before she did.
+
+It was unfortunate however, that one of the experiments she had in mind required her to have access to mana. Given the 0 that her attribute was sitting at right now, that would be difficult.
+
+She had some hope that Arcane Impact Converter would change that, and allow her some use of the familiar tool during the course of the battle. If not, then her new weapon would have to make the difference.
+
+Evelyn opened her rather sparse inventory, lamenting the loss of the many crafting ingredients she had gathered during her climb as well as a few stolen weapons and other assorted trinkets. All that greeted her were the two reality nodes and the aptly named Spinebreaker.
+
+** Inventory **
+
+〖3/15〗
+
+〖Reality Node ⦽〗
+
+〖Reality Node ⛜〗
+
+〖Spinebreaker〗
+
+Before, there had only been 10 slots in her inventory, yet now it had expanded to 15. A hidden function of the ascension, she guessed. Though not all that useful, given that she hadn’t even reached the capacity before.
+
+Maybe in the future she would have more things to carry around.
+
+Evelyn froze.
+
+Browsing her inventory had reminded her of the fabulous earpiece that she had obtained from Farion. Her hand shot up to her cartilage and her breath caught in her throat. Fearing the worst, she probed at it with her fingertips.
+
+When they touched cold metal relief flooded her. It took a moment for her panicked breaths to slow, after which she took stock of the hyper boss.
+
+Without any mana, the magic item was a little unhelpful but losing it would have felt horrible after the deep resonance she had felt with the earpiece.
+
+Dazurmagon had almost fully formed anew. Tough rocky flesh that pulsed with the intense heat of magmatic blood and arcane flame had condensed itself into a twenty metre tall humanoid. All that remained was for the monster’s head to finish forming.
+
+Evelyn summoned her new warhammer into her hands. It was magnificent.
+
+Her previous weapon had held some sentimental value, given that Kayla had gifted it to her and it had carried her during her previous attempt at the 16th Floor. It paled in comparison to Spinebreaker.
+
+The shaft was around ninety centimetres long, and four centimetres in diameter. A little wide for her, but after shifting her hands a little Evelyn managed a comfortable grip. It was one solid piece of metal - she assumed it was metal, given that it had been forged from the core of a star - that had been worked into a masterpiece.
+
+At the end of the shaft sat the head of the hammer, imposing and beautiful. The business end of the hammer was a perfect square, polished and smooth. The metal was a deep crimson, the kind of colour that blood had when someone was just a little dehydrated. Staring too long at it caused it to shift and writhe, with new patterns forming in the flickering light of the hyper boss’ flames.
+
+The geometric shape continued across the handle, until it tapered evenly into a pyramid shaped spike at the other end of the hammer’s head.
+
+Impossibly sharp, the weapon seemed to have been prepared for battle by a master blacksmith right before the tower had granted it to her. Which was impossible, given what she knew of the tower and its system, so maybe the weapon itself had a self repair function.
+
+It would take some time spent with her new partner to come to grips with its abilities, and it was about to receive a baptism of fire.
+
+Dazurmagon the Worldshaker had formed, the last piece of its body that came into existence being its beady black eyes, which locked onto her the moment they appeared. She gave the hammer a test swing, discovering that it was weighted perfectly for her height and strength.
+
+A pulse of mana reverberated in her mana sense, and knowing what came next she raised her hammer to guard herself before the hyper boss flickered from her view and reappeared before her.
+
+Last time, she had fled before experiencing a blow from this improved form, which meant she was far from ready when its fist smashed into her, bypassing her raised weapon and cracking two of her ribs after burning through her skin and muscle from the sheer heat it emanated. Evelyn flew backwards and tumbled head over heels for a few metres before crumpling into a heap.
+
+Frick, that hurt.
+
+Somehow she had kept hold of Spinebreaker through all the chaos, though only one of her hands hung loosely onto the shaft.
+
+Already her foe was on the move, rushing towards her with near untrackable speed to deliver a follow up strike. However, her new mutation was already paying dividends.
+
+Upon receiving Dazurmagon’s blow, mana had flooded her circuits from the point of impact. If she had to give a rough estimate, she would say that it equated to five percent of her previous reserves - or around 1.5 points of mana.
+
+Not a huge amount, but enough to start experimenting with and perhaps turn the tides of battle in her favour.
+
+Evelyn had grown accustomed to casting Flashfreeze Flamecharge without the skill’s assistance, even adjusting the effects to her needs. She had grown confident in guiding her mana without the blueprint provided by a skill. Now, she wanted to repeat that feat, but without even having the skill in her status.
+
+Perhaps her endeavour would end in failure, but she suspected that with enough practice and dedication it should work.
+
+The tower favoured those who sought growth and greater strength. The system seemed to be a way of fostering that growth, but there were times she had done things beyond its bounds and not had repercussions imposed on her.
+
+So, when the hyper boss’ fist fell on her for the second time, she channelled what little mana she had obtained towards the small of her back and right before the monster’s blow made contact ejected it, giving her a burst of speed and strength that sent Spinebreaker flying towards the stony fist.
+
+She winced in pain as her half healed ribs twisted unnaturally, but pushed through it and delivered her first counter attack.
+
+Spinebreaker sang as it sailed through the air, and a mighty boom echoed through the arena as it smashed into Dazurmagon’s stony fist.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.15
+
+|Attributes|
+
+Power: 15
+
+Speed: 0
+
+Stamina: 0
+
+Vitality: 0
+
+Mana: 0
+
+Fortitude(I): 15
+
+|Mutations|
+
+Celestial Furnace
+
+Arcane Impact Converter
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Galactic Expansion (Unusual), Master of Combat (Rare)
+
+~Hybrid~
+
+Soul of the Unstoppable Conqueror (Unusual)
+
+Essence: 0『+0 / 6 hours』
+
+~~ Stars ~~
+
+Grey: 0White: 0
+
+** Inventory ****Skill Synthesis****Class****Crafting****Guilds****Property**
+
+【OVERCOME】

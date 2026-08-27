@@ -1,0 +1,71 @@
+---
+id: 419e7b52-7a6f-5756-b59c-84ae1207acee
+page-type-slug: story-chapter-royal-road
+title: "202. Secret Time"
+slug: 0202-202-secret-time
+partOf: god-of-trash
+position: 202
+ownLength: 1764
+unit: words
+publishedAt: 2025-09-30
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2639458/202-secret-time"
+royalRoadId: "2639458"
+---
+
+Rhys poured his mana into the small secret realm. It had been used as a trash heap for so many years that it bore the essence of trash, that it had, itself, acknowledged that it was a place for trash, a place trash belonged, and therefore, by being so worthless as to be a home for trash, had become trash itself. It spread from his feet outward, staining the earth with a filthy green-brown tinge as it passed, quickly at first, but slowing as it stretched further and further—not only because of the laws of geometry and how the ring’s diameter and circumference grew as it expanded from Rhys’s feet, but also because of the enormity of the feat. Rhys felt his mana falter at the immense task, and poured more trash into it, burning his trash star so hot that it could be seen from outside his body, a red-hot pit raging in his stomach. Every vein and mana passage within his body lit up with red-hot mana, so bright it shone through his skin. His eyes glowed, and would have burned out if not for the modifications he’d just made. Since he’d become a Tier 3 mage, he’d held back consciously, but also subconsciously, not wanting to extend himself to his absolute limits with a threat like the Empress on the horizon. Now, though, he held nothing back. Now was the time to push his limits. Now was the time to obtain his final weapons and defenses, so that he could fight the Empress with the utmost of his power. And this—this was both a weapon, and an essential defense.
+
+“Madness,” Daran muttered.
+
+If not for his new ears, Rhys wouldn’t have heard him. The realm creaked and shuddered. Mana screeched, and reality itself hummed as the baseline of the world resisted Rhys’s efforts to carve out a chunk of it and make it part of himself. Even though this realm had already been taken from the base world and made into a secret realm, and all he was doing was rehoming it, it still fought back, still resisted, just from the bulk of it, if not with any intent to resist.
+
+This was the single most extreme thing he had never done. Absorbing a secret realm with no technique, no theory, just a raw, brute-force takeover, no quarter given, all war crimes committed. The world resisted. The realm resisted. Everything resisted. This wasn’t possible. It wasn’t supposed to be possible.
+
+Fuck possible. Do what I want! Rhys shouted silently, and forced his will outward. His mana had slowed, but it resurged. The realm was trash. He was trash. Therefore, the realm belonged to him, and he didn’t care what anyone or anything said—it was his. His realm. He wasn’t going to bow to it, to some measly lump of land—no. It needed to bow and accept him. He was its ruler now, its controller, and it, some inert, filthy clump of unwanted land—it was his. It didn’t have the right to refuse.
+
+The green-brown mana infused the land, covering every inch of the rocky turf, the surface, the heart, the air and the sky. He could feel it, every contour, every pebble, every tiny creature that crawled in the dirt. It all belonged to Rhys. His trash star burned so hot that his body blackened, the mana flowing through him bright as the sun, like veins of molten lava, but he kept pushing, holding onto his grip of the realm. It was his. It all belonged to him. And now—now it was time to put it where it belonged.
+
+He reached out and pulled. The realm trembled, then moved as according to his will. Not into the void; it was already there. Instead, he pulled it across the void, toward himself—toward his tiny hole into the void. Something fought back, a tether that sought to hold it in place. He narrowed his eyes and kept pushing, flaring the trash star to its absolute limit. His eyes glowed from within. His blackened flesh began flaking away. Still he persisted, pushing and pulling with all his might.
+
+From beside him, Daran watched with a mildly concerned expression.
+
+The thing holding this realm in place snapped. The realm hurtled across the void once it was freed, blasting through the empty space. Rhys closed his eyes, guiding it home to him. Just a little further. A little further.
+
+And then he felt it, right outside his void. He didn’t know how it had moved there, if it had taken him months to move it or minutes, if he had pulled it a long distance or no distance at all. All he knew, was that it was where it belonged, where he wanted it to be: right outside his core.
+
+He clenched down on his trash star, cutting down on the burn rate. As he cut back on the burn rate, he also focused on his body, rejuvenating his blackened cells with his mana as he cut back, and effectively healing his ravaged body with empowered cells capable of handling his overclocked trash star. Further and further, cutting back over and over until the trash star was outputting energy at its usual rate, then all the way down to its idle state. He smiled at Daran. “Just that easy.”
+
+“Oh, was it,” Daran deadpanned.
+
+Rhys blinked. “How’d you get so tall? And why are you sideways?”
+
+Daran knelt. He put a transparent hand over Rhys’s eyes. “Sleep, you fool. You massively overreached your powers.”
+
+“I feel fine,” Rhys said, then blinked. Why was there grass in front of his eyes? Why was his face so cold on one side? It felt so comfortable, though. He closed his eyes and breathed out, and all the energy left his body. He curled up a little, and immediately began to snore.
+
+Daran waited for a moment, watching Rhys to make sure he was truly asleep. When he was sure, he walked ahead, putting his hands behind his back and gazing up at the sky. On and on, over hill and dale, feet brushing through the uncut grass. For a long, long time, he wandered, walking without looking down, as if he’d walked this land a thousand times before. The sky reflected in his blood-colored eyes, washing them out to a dark, purplish shade, and for a moment, a gentler expression passed over his face.
+
+“I thought I’d never walk this land again. That it would be lost to me forever.” He paused. He stood at the high point of the land, atop the low hills that formed the foothills of mountains that were nowhere to be seen. This land had been yanked out of the side of a valley, but whatever foul force had taken the land had not taken the mountain. It ended abruptly before the mountain would begin, a sharp, sudden dropoff that fell into the void, if he could fall. Daran’s eyes traveled the land, lingering on the nooks, on the rise and fall of the earth, on the soft curves of the foothills, revealed without the trash pile to hide them. To think he’d found this here, in this place, being used as a trash ground for a would-be tyrant. Did she know what she used? What she besmirched? What she defiled?
+
+No… she couldn’t know. Nor would she care, had she known. He had once been in her shoes. He had once thought himself the most powerful, the only one worth caring about or for, the only one whose story deserved to be told. The history only weighed people down. The world was a detail, and one he hadn’t cared to learn. It would simply slow him down, he’d thought. It would get in the way.
+
+But he was wrong. He’d been wrong. He was… wrong. The boy had mocked him for seeking the counsel of philosophers, but that wasn’t it. That wasn’t the truth; he’d lied to the boy, or rather, let him assume what he wished, and not bothered to correct it. He hadn’t sought them for conversation, or their perspective, but to spit in their faces and show them how wrong they were. Show them that the present, that force was the only thing that mattered, and all their high and mighty ideas naught but chaff falling by the side of progress.
+
+Wrong. Wrong. He’d been so wrong. If only he’d known. If only he’d sought out the truths he’d blinded himself to. The Empress was making the same mistakes, though she wouldn’t reach as far as he; she had not solidified her holdings the way she ought to have, and so she would fall low to the boy and his scheming long before she came up against the wall that had barred his progress. The wall that had been his downfall.
+
+The Sword Saint, the Alliance, they had laid him low, but his downfall had come before that. His downfall had come the second he had ignored the past, only for the past to rise up and block his progress.
+
+He stepped over the edge of the block of earth and walked down the sharp edge that marked the end of this realm. All the way to the bottom, where he stepped over the edge once more to stand upside down, facing the evidence of his mistake.
+
+Some things should be left untouched. Some depths should be left un-delved.
+
+If only he’d looked back. If only he’d paused. Slowed down, in his pursuit of strength and power, and considered why no one else pursued this route any further.
+
+This land was trash. Not for the reasons the boy thought it was; or rather, not only for those reasons. No: it was trash for a far more vital reason, one that he couldn’t hope to comprehend for some time yet.
+
+He gazed at it, then turned away and walked on. Maybe the boy would come to comprehend it. Maybe, with that incomprehensible path of his, he would even understand how to destroy it. Already, the boy could touch him. That was promising. That gave him the hope he thought he wouldn’t feel ever again. Maybe the boy could deal with it, after all.
+
+And if he didn’t… then this whole world was doomed.
+
+He came out on the other side of the chunk’s underside and walked back to its topside. A problem for later. For now, the boy had to defeat what laid before him. After that… perhaps he might introduce him to it.
+
+If he stopped mouthing off, that was.

@@ -1,0 +1,243 @@
+---
+id: 9d28fbdc-d319-57df-873d-174658e42dbe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15"
+slug: 0015-chapter-15
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 15
+ownLength: 3358
+unit: words
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2704649/chapter-15"
+royalRoadId: "2704649"
+---
+
+Chapter 15
+
+Silvie didn't chitchat while she showed him the wagons and horses. She explained to him how to get the horses to walk and how to stop. “You're not expected to do any crazy maneuvers so don't even think about that. Just make sure they stay on the road and stop if anything gets in the way. Call out if any creatures come to attack and if possible, try to protect the horses too. Any chaos or blood beasts that aren't particularly wary will go for the horses immediately. That's pretty much it.”
+
+“Do I need to know what's in the wagons?”
+
+“Not important. If you're interested, ask Reymond.”
+
+“Is he driving in the carriage?”
+
+“No, he is driving the carriage. Got himself a passenger who seems to prioritize privacy. I can respect it and if Reymond agreed to it, it's his business. We are tasked to protect the full caravan either way. Obviously don't enter the carriage or bother whoever is inside, but that goes without saying, right?”
+
+“Of course.”
+
+“Perfect, then we’re ready to go.”
+
+A mystery passenger. Or more than one?
+
+Veron shelved the information. He would have his hands full with new things to learn and figure out, let alone fight off monsters on the road. His first real job as an adventurer. He would have to lie if he said that he wasn't nervous. And yet he couldn't help but feel excited. A feeling of freedom and promise, though perhaps slightly tempered by the real experiences he’d had venturing out with Ivera and the few battles he’d had.
+
+The others soon joined, checking the wagons and making ready to leave.
+
+“We stop and make camp before nightfall,” Reymond said and looked out towards the horizon. “I think it may rain more in the coming days so let's get as far as we can today.”
+
+“You can stash your gear in the back of the wagon. Keep your weapons on you,” Silvie said.
+
+Veron did just that and then sat next to her on the box seat where she handed him the reins. They were in the wagon at the back, and he was supposed to just follow the carriage.
+
+Aren, Ian, Neva, and Warren stood nearby. Tenya was watching from the doorway of the inn.
+
+“Safe journey, Veron!” Ian shouted, the others joining in with their farewells, waving as he signaled the horses to go. He waved back at them and smiled.
+
+I’ll miss this place.
+
+He sighed and then they were off, on the dirt road leading away from Eyra, northwards through the valley and towards Perrion.
+
+Just like that. And I’m on the road to a new place. Strange that.
+
+He glanced back, the Willard Inn now gone behind the foliage.
+
+Silvie glanced back behind herself and smiled. “They seemed to really like you here. Did you stay for long?”
+
+He thought about how to phrase his answer. “Pretty much since Ivera found me in the wilderness. Or maybe I found her,” he said and smiled. I do owe them a lot. My start here in this place could’ve been a lot rougher if I hadn’t found them, and if they hadn’t welcomed me like that.
+
+“An orphan then, or something like that. Well, it always seemed like a good place.”
+
+“It is,” Veron said and was quiet for some time. Then he spoke up again. “Where do you hail from?”
+
+“I was born and raised in Lyrie, south of the Teriam range.”
+
+“Closer to Leiveen then. I've never been, do you like it there? Or did you become an adventurer to get away?”
+
+Silvie laughed. The wagon shook as one of the wheels must have hit a sizable rock. “No, I like it there. It's not quite Leiveen, and it feels a little less competitive, lots of stores and interesting things to discover and trade. In Leiveen, It feels like everything really interesting is already sold before it even hits the stores and if you don't have the connections or the wealth, you're out of luck. I can even get work as an Inscriber or Alchemist in Lyrie. In Leiveen, I wouldn't even get a second look, let alone employment. Snobs, I tell you.”
+
+She's an alchemist?
+
+He wondered what an Inscriber did but it seemed like an ignorant question to ask. Maybe he could figure it out once he got to a town.
+
+“What about Anvakar?”
+
+She groaned. “Oh, don't get me started. There's a fight or party happening twice every day while treasures are sold on the street by desperate or ignorant adventurers. Problem is, half the time people try to swindle you, and the other half, you get some opportunist waiting around the corner to steal whatever you acquired. It's quite a tense city, always have to have your eyes open. It's fun for a while but it does get tiring. I really enjoyed it when I first went there.” She had a wistful smile on her face as she seemed to recall some memories.
+
+It does sound interesting. Also intense, but that’s kind of what I expected.
+
+Veron noted that he was now farther away from Eyra than he had ever been, except for maybe the first day. He breathed in deep and could feel the wind brush against his skin not covered in armor. It felt almost like the winds were dancing, excited that he was journeying out into the wild.
+
+“You don't like it anymore now? Any particular reason for the journey then?”
+
+“Oh, we go most winters. Not a lot of adventuring work going around in Lyrie when the snow is thick and the air is freezing. People like to stay inside where it's warm, and I think that goes for most creatures too. Of course most chaos beasts don't care but who really wants to be out there in a frozen forest hunting?”
+
+“And the dungeon Is better?”
+
+“Yeah. Well, it's more dangerous, arguably. But it’s always there and you're going in expecting trouble, as prepared, rested, and well fed as you can be. And there's always the knowledge that if you make it back out, there are healers, a warm bed, and food right around the corner. It's a lot more intense, but once you're out, you're safe. Venturing into the wilderness in the winter is something else entirely. Even if you're hunting something specific with a general location, you need to make camp, warm up constantly, and you never really know when a fight is going to happen. And then if anyone gets injured and you don't have a healer who can take care of it, you gotta hope you can make it back to whatever village is closest.”
+
+“Yeah, I take it you don't like winter much.”
+
+Silvie laughed. “No, as an adventurer, I don't. It's very pretty in Lyrie. The markets are something else. If our progress this year is good, maybe next year we can stay there during the winter. Anvakar is alright, well, if you have enough coin to pay for what you need, but then that's pretty much true anywhere. Winter in Anvakar is just business as usual, only that it's cold outside, there's snow, and you’re charged more because an elevator is supposedly frozen and needs repairs.”
+
+Veron laughed. He didn’t have anything to add. He just wanted to see it for himself.
+
+They were moving deeper into the forest now, much of the leaves still clinging to the trees but their color had turned into shades of brown and yellow. An earthy and wet smell of leaves lay in the air.
+
+“The first time there is quite an intense experience,” she said and leaned back a little. It seemed like she trusted his ability to keep the horses on the road for the time being, though Veron assumed the horses could do that without him too.
+
+“You think I'll survive my first week?” Veron asked with some sarcasm.
+
+“Yeah, sure. You have an advantage with your Path. Don't have to worry about merchants and craftspeople swindling you out of your coin for repairs and basic equipment. You'll still have to worry about paying for food and accommodation, but you'll be fighting beasts in the dungeon, and that's why most everyone goes to Anvakar.”
+
+“You too?”
+
+“Well, kind of. Reka likes an adventure.” She made to continue but then closed her mouth, the look on her face becoming more thoughtful.
+
+Silvie didn't speak up anymore for around half an hour, Veron taking the time to appreciate the mostly untouched nature all around them. He could see glimpses of mountain tops and cliffs, of steep mountainsides leading into valleys, much of it hidden by clouds and mist. The path they were driving on was uneven and they often had to navigate around a large rock or a tree stump to continue on. A lot of sections were quite steep as well and considering how much the wagon was rocking, he wondered if the wheels or the frame were enchanted.
+
+“There's a way from Lyrie to Anvakar that goes around these mountains, right?” he spoke up after a while.
+
+“There is, yeah. Different ones too. Some will board a ship in Lyrie to cross the Terrom lake, others will take the road around it. Takes longer but it’s easier to travel, in theory at least. I think it’s quite a bit more dangerous too. Though maybe if there really is a dungeon branch up here, it could be a toss-up.”
+
+“More monsters down there usually?”
+
+“No, fewer monsters but a lot more people looking to rob a merchant. And it goes through the western parts of Felrak, which at the moment I think is best avoided entirely. It's a lot more unpredictable than fighting the occasional beast up here. My opinion only. It doesn’t take a lot longer either, if you know what you’re doing and don’t get stuck.”
+
+Veron nodded along.
+
+“Hey, you seem to be handling yourself well. Mind if I get in the back and catch a bit of sleep? Just shout if anything comes up,” Silvie said and yawned.
+
+“Sure,” Veron said.
+
+“Perfect, thanks champ.”
+
+She smiled and jumped off, waiting for the wagon to pass before she climbed on in the back.
+
+An hour in and I’m already taking over the wagon.
+
+He felt good about it. Either Silvie really didn't feel like steering the wagon or she trusted him to handle himself already. Maybe both.
+
+The next few hours were quiet. Veron wondered how Silvie would manage to sleep with how much the wagon was rocking. The road wasn't exactly a road, and more just a noticeable lack of trees and scree compared to their surroundings. He wondered who maintained it and how.
+
+He stretched his back and shoulders and soon, he noticed that the gray overcast sky was growing darker. Already, it became more difficult to see, the thicket growing closer and more foreboding.
+
+It didn't take long until he heard Reka’s voice call out from the front of their small caravan. “Halt!”
+
+Silvie joined his side right when he managed to stop the horses. A few minutes later, they navigated the wagons to the left of the road and out onto a small clearing. Veron felt a little out of place as everyone else got moving, taking care of the horses and securing the wagons. He decided to stick close to Silvie and watch what she was doing. It would be just the first night of many.
+
+“You could search for a bunch of sizeable rocks for a fireplace,” Silvie said.
+
+“I will do just that,” Veron said and looked around. It was getting dark and the foliage was quite thick, fir and larch trees bordering their little camp on all sides except for the road. He went past the wagons and breathed in deep, focusing on the earth around him, for once not looking for the highest quality rocks around but for the biggest. Most of them were below ground and he wondered if he could connect to them and pull them up but he knew immediately that neither his Harmony nor his Focus were up to the task.
+
+He did find enough rocks on the surface or just below to gather up a sizable amount, carrying them to the center of their camp, between the two wagons and the carriage. Hayden was feeding the horses and checking them over while Reka walked around the camp with a dagger in hand, stopping in front of a tree before she moved aside some of the branches to etch something into the bark.
+
+“Already done?” Silvie asked.
+
+“Never traveled with an earth path?” Reymond asked, delivering a bundle of sticks and branches before he left again with an axe in his hand.
+
+“Been a while. I suppose you do have your uses,” Silvie said.
+
+Veron kept looking at Reka, the woman having moved on to another tree.
+
+“And I suppose you've not traveled with a trapper before. Well, let's hope we don't see it in action tonight,” Silvie said and looked up at the sky. “Think I'll get the fire started, it's looking like rain.”
+
+Reymond soon brought more wood, large pieces too.
+
+He cut those just now?
+
+Veron's attention was drawn to Reka again when he felt a strange tension in the air. As if an invisible force was drawn and stretched, and then snapped into place, like the string of an instrument, thrumming not with sound, but with Focus. It was a strange feeling and the first time he truly felt the effects of magic outside of his own Path.
+
+It seemed like the others relaxed a little bit now that whatever magic Reka had set up was in place.
+
+Silvie called her a trapper. Some kind of alarm? Or something that would catch a monster coming too close?
+
+It was amusing to him to see Silvie use flint and steel to start the fire. He wondered how common Elemental Paths with a fire Harmony were. Maybe the hidden harmony was just that but while he felt comfortable and serene while watching the dancing flames of a fire, it lacked the same depth of connection he felt to the ground and the wind. But maybe it was just a matter of time.
+
+“Help me cut vegetables,” Hayden said, the armored man offering him a knife before he hesitated, looking at the handles sticking out of Veron’s armor.
+
+“I don't think the blades are sharp enough to cut vegetables,” Veron said and took the knife, showing one of his stone ones to Hayden. The man looked it over and handed it back with a grunt.
+
+Silvie meanwhile focused on building the fire and Reymond arrived with a box containing spices. And soon, they had a stew going.
+
+“You want to use one of the rabbits from yesterday?” Reka asked.
+
+“For sure, after the little fuckers woke us up,” Silvie said.
+
+Hayden huffed in amusement and Reka smiled.
+
+Silvie went to one of the wagons and returned with a skinned and gutted rabbit, cutting chunks into the stew to simmer.
+
+Veron recognized the fresh Niram leaves Silvie added, a hearty smell of various spices soon making its way through their makeshift camp. He smelled something citrussy and a kind of pepper. Slowly, he relaxed whilst sitting on the floor. He felt colder now and moved a little closer to the fire, enjoying the heat that it brought. Reymond sat on a small wooden chair, carving a piece of wood with a hunting knife whose blade reflected the light of the fire. The others had gathered around the fire too, quietly enjoying the warmth it provided. Silvie occasionally stirred and tried the stew, making various grunts of disapproval and as she added more spices, grunts of approval.
+
+“The ward should wake us up if anything tries to sneak in, but we still keep watch in case something manages to get past the spell. With you here, I'm looking forward to a little more sleep throughout the rest of the journey but I think it's better if you take your first shift tomorrow night,” Reka explained.
+
+“Sure,” Veron said. He wondered if it was due to lacking trust. She probably wanted to get to know him a little better to feel comfortable sleeping while he was on guard duty.
+
+It made sense, he would probably do the same.
+
+“I think it's done,” Silvie said, excitement in her voice as she got a bowl out of her pack.
+
+Veron got his own but Hayden stopped him with a gesture.
+
+“It needs another five minutes,” the armored man explained.
+
+Silvie tried again and frowned. “He’s right.”
+
+“He’s always right,” Reka said.
+
+Reymond glanced between them with amusement, his eyes going back to the carving again. An elk-like creature, including delicate antlers he carefully carved free.
+
+He's really good at that.
+
+It felt cozy, like an outdoor adventure with a bunch of interesting strangers. He wanted to get to know them better but he didn't want to disrupt the atmosphere with a conversation. Silvie soon served the food, Reymond taking an extra portion which he brought to the carriage. Veron would’ve glanced over to see if he could catch a glimpse of the stranger in their caravan but the carriage was situated behind him and he thought it rude to turn around to look.
+
+The thought was quickly forgotten when he started digging in. The only thing that would have improved the dish was if he had walked all this way instead of sitting on a wagon.
+
+Two portions later, he pulled his Greyr cloak closer, feeling the cooling winds. For once, it didn't feel as if the winds called him to adventure but instead warned him to find warmth and shelter. He pulled up his hood and shivered slightly.
+
+He thought about starting a conversation when he felt a drop of rain land on his hand. More soon followed, sizzling in the moving flames of their campfire.
+
+“I thought we'd have a bit longer. Oh well. Alright if I take first shift?” Silvie asked.
+
+“I can take second,” Hayden said.
+
+“You sleep, I take second,” Reka said.
+
+Veron felt tension between them for a moment, just based on their body language. And then it passed with an acknowledging grunt from Hayden. He felt that they must have had this conversation many times before.
+
+The others packed everything up and put out the fire. Silvie showed him to the back of their wagon and pointed to a crate. “Blankets in there, leave two for me or I'll kill you.”
+
+He looked at her and she looked back.
+
+Then she smiled. “I like this guy.”
+
+“I have another question.”
+
+“What is it?”
+
+“Think I should leave my armor on?”
+
+“Would help, but not easy to sleep with that kind of gear. Your call.”
+
+“Right. Thanks.”
+
+Yeah, I’d be uncomfortable. But maybe worth it too.
+
+And it was uncomfortable. He took off the chest piece and helmet. Then he tried to situate himself in the limited space with two of the four blankets, finally getting out again and grabbing a few of the large rocks from the fireplace. Silvie gave him a glance but he was back in the wagon a moment later, focusing on the rocks and molding them into something akin to a headrest. He emptied his pack and set it onto the molded rock before he lay down again. It wasn't a bed but it was better than before.
+
+And while both his headrest and the armor pieces he was still wearing were quite rigid and hard, the proximity of the stone felt comforting.
+
+He thought of Eyra, of Ian and the others. He felt a bit of grief at the fact that he was leaving. That was okay. He simply felt it, and soon, it lessened.
+
+Veron pulled the blankets closer and sighed. This lifestyle would take some time to get used to, but he was fine with that. He listened to the winds, hearing the patter of the rain against the canvas of the wagon. And slowly, he drifted off.

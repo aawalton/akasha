@@ -1,0 +1,251 @@
+---
+id: c4377f48-ec40-5cb6-9c1a-d11c16b94444
+page-type-slug: story-chapter-royal-road
+title: "Chapter 759 - Just one day"
+slug: 0084-chapter-759-just-one-day
+partOf: hell-difficulty-tutorial
+position: 84
+ownLength: 2488
+unit: words
+publishedAt: 2026-02-25
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3092854/chapter-759-just-one-day"
+royalRoadId: "3092854"
+---
+
+Even hours later, we still sit there, back after two more rounds of making pancakes and getting some drinks to go with them. Chocolate milk, for example, or fancy brands of freshly pressed fruit juices whose names I can’t even read.
+
+At some point, we take off our shoes and walk into the sea to let the waves wash over us as we wade there. My mom shows me her favorite places and the places where she’s seen whales far in the distance. She talks about taking a sailing trip on a small boat and how they tried to teach her to fish and snorkel.
+
+For a while, she even cries.
+
+She tells me how she still misses my father. Not who he became, but who he used to be. A young, dreamy boy, sometimes a silly one, full of his own goals and hopes. She talks about how it felt like the whole world had turned against him, slowly shaping him into a bitter shell of the man he once was. Searching for relief in alcohol, hiding, and lashing out like a cornered animal.
+
+She says she doesn’t deserve any of the things she has now because of what she did, and how awful she feels for enjoying these pieces of the life she always dreamed of.
+
+She tells me how empty it all feels in the end, with me and Vic in danger.
+
+Just silly things like that. She’s someone who, when she loves, gives everything she has.
+
+My silly little human.
+
+The more time we spend together, the easier it is to talk, and the more confirmation I get that I was never truly angry at her, not even once. Even as she breaks the unsaid rule and talks about her feelings regarding what happened after Dad died, and Victoria was taken to prison. She lays out all her thoughts for me as she stands knee-deep in the sea with the sun shining over the waves behind her.
+
+I listen to her as she does and tell her some stories of my own. What happened after we split, about the tutorial, and the people I’ve met.
+
+That’s when she asks, “You keep talking about your group, your team, and things like that. But what you really mean is that they’re your friends, right?”
+
+I open and close my mouth a few times before saying. “Yes, that’s what I mean.”
+
+“I’m glad.” Her face turns a bit sad as she grabs my hand. “You know it is okay. No one’s going to shout at you or hit you for getting close to people anymore.”
+
+“I know.”
+
+She squeezes as strongly as she can before smiling, “Your hand is so strong.”
+
+“Actually, my body is one of the weakest out of my gr… out of all of my friends. Probably the weakest.”
+
+“Really?”
+
+“It’s a feature,” I smile at her. “Some of the others could probably catch a bullet just with their baseline senses and the speed of their bodies alone. Others could probably get hit by a rocket and not even get a scratch.”
+
+“That sounds scary. So much is changing and so quickly.”
+
+“There’s nothing we can do but adapt,” I say, and then, while looking at her, I pull my foot out of the water and set it on the surface. I pull out the second one and stand on water. I cheat a bit, not standing on the wavy surface so much as using kinetic energy to float there, but I don’t need to say it out loud.
+
+“Show-off,” she keeps smiling at me and even splashes some water towards me, which halts in the air.
+
+She starts walking again, wading through the water, and I follow, pretending to walk on the surface.
+
+“You can’t stay long?” she asks.
+
+“I only have a day before I get pulled back, but before that, I want to check on the families of all my friends and meet a few more people. Usually, I would’ve just ignored it all and stayed with you, but I think it’s important for me to do this.”
+
+"Yes," she agrees with me with a little smile she tries to hide.
+
+After that, I allow myself to stay a few hours longer while taking a moment to release everyone I held when my mom asks me to. Some of these people run in panic, there is a bit of screaming, and a few pass out. Though no one’s been hurt, I know because I checked. All the machines restart, and animals start moving again, too.
+
+To avoid all that commotion, we step into a garden I’ve blocked off for us and talk about silly things while watching some cooking competition show that my mom lets play in the background on TV.
+
+Only when it feels like it is as good a time as any, we say our goodbyes, and I get another long hug.
+
+Once again flying high into the air, I look down, miles below, using my strengthened sight to watch my mother, who can’t see me at this distance. She starts shaking and even crying again, but also smiling with joy.
+
+After a minute, she calms down, fixes herself, and heads to the front of the house, at which point she starts talking to the gardener and apologizing deeply, and then continues to move from person to person and apologize to each person in turn.
+
+I remember her face one more time and force myself to look away as I grab the smartphone hanging in the air where I left it. There are multiple missed calls from the same censored number, a few from Channeler, and some other messages as well. I ignore most and find only the ones with the locations of my friends’ families. I don’t bother to hold my flight back much and travel all over the country, checking in on everyone.
+
+Min-Jae’s family has been moved to a nice house. I see his parents and siblings for the first time, it’s afternoon, and they’ve gathered in the home. His dad especially reminds me of Min-Jae and is quite tall as well, likely hinting that his son can look forward to reaching a similar height one day. I remember who I should see, the number of members, and confirm everyone is there and safe. Then, as promised, I do some mischief.
+
+I destroy homework. I damage the plumbing. I teleport to the bathroom and pour all the expensive perfumes into the sink, and leave all the toilet seats up. I even pierce all the wheels on both cars.
+
+Next, I check on Tess’ mother. I find her at home, alone, absorbed in her work at her computer in the luxurious apartment where Tess once lived, near the top of one of the smaller skyscrapers. One side opens onto a huge terrace overlooking the nearby park, while floor to ceiling windows face the city. Her mother looks fairly similar to Tess, tall, blonde hair, and a slim figure, though her expression is much more closed off, especially as she works.
+
+I watch her for a minute longer before I fly away, waving at a kid I notice staring at me out of the window of his room as I was floating there.
+
+As promised, I don’t check on the twins and the sisters’ adoptive families, though I really want to give the twins’ aunt a little visit, having heard about the things she’s done. But, in the end, it is up to them to deal with.
+
+Both Maya’s mother and father and Lily’s father seem to be doing well. Channeler took care of most things, and they’ve been getting a steady stream of money. Almost as if out of nowhere, their luck has turned, and our country and the system itself seems to be helping them out with everything. It’s nice to see.
+
+Lastly, guided by flashes of shared memories, I find the place Biscuit used to live as a young puppy. The house of the girl who starved him so often, using him as a prop for all those cruel videos.
+
+Sitting on a nearby roof, I watch the heat signatures moving inside, and through the window, I see their faces, and confirm that they’re the right people.
+
+It takes a good effort for me not to burn them to ashes where they stand, and memories and feelings from the tiny corgi linger in the foreground. In the end, I follow Biscuit’s wishes and let them live. I tie Ley Lines to them and teleport them far away from the house, and with that, I don’t care about them anymore.
+
+Then I lift my hand into the air with a palm pointing downward and slowly start to move it down.
+
+The house begins to collapse under an invisible force as if a huge, unstoppable press had begun to press down on it. It bends inward with a deep, hollow sound. Tiles crack, sliding over each other before shattering as the pressure keeps coming, steady and indifferent.
+
+The walls follow soon after. Windows burst outward, crushing the glass into glittering clouds that twinkle briefly in the light and before vanishing. Beams snap deep inside, one after another, in a sequence of muted thuds that travel through the air loud enough for me to feel.
+
+The smell of old wood, mold, and cheap paint spreads through the air. Somewhere inside, a doorframe twists and finally breaks, the sound sharp like a crack of a whip.
+
+I keep my hand steady.
+
+The walls cave inward completely now. What was once a house now becomes a shrinking shape, then a pile, then something flatter. The slow press continues until nothing remains but crushed material forced into the ground beneath it.
+
+When I finally lower my hand fully, there is no house.
+
+I turn away and leave before I can reconsider and search for the heat signatures I teleported away.
+
+The sky is already darkening, colors deepening as the sun begins to set. I rise into the air again, faster this time and higher. Almost as high as I can before I allow my mana to spread and radiate into the area. Then I wait to be noticed.
+
+It doesn’t take long, and a mana signal directed at me answers, and I twist in the air and fly in that direction.
+
+Absentmindedly, I open my status and glance it over.
+
+Name: Nathaniel Gwyn
+
+Title: Absolute Candidate
+
+Difficulty: Hell
+
+Rank: A, Shimmering Silver
+
+Guild: Primordial Knights
+
+Floor: 9 - The Pit
+
+Time left until forced return: 1y 353d 20h 9m 16s
+
+Traits (2/3): Preeminence Eyes 1/4, Mana Physique 2/4
+
+Lvl 367
+
+Strength: 355
+
+Dexterity: 333
+
+Constitution: 102
+
+Mana (Stage 1/3 - Vast Mana): 1807 + 1807
+
+Primary Class: Mana Weaver (Unique Arcane)
+
+Sub-class: [Adept of Pride]
+
+Active skills (9/10):
+
+Focus - Lvl 75
+
+Perception - Lvl 71
+
+Redistribution - Lvl 73
+
+Mana Manipulation - Lvl 75
+
+Ley Line - Lvl 70
+
+Eclipse (Pride) - Lvl 63
+
+Empyrean Lance - Lvl 35
+
+Manifestation - Lvl 32
+
+Current - Lvl 24
+
+Constructs:
+
+Physical Fortification Matrix
+
+Mana Flow Control
+
+Mana Sovereignty Field
+
+Kinetic Mana Heart
+
+Sealed Ignition Heart (Partially Sealed, 1/3)
+
+Combat Cognition Frame
+
+High-Density Thought Network
+
+Thermal Flux Controller
+
+Passive skills (5/5):
+
+Mana Kinetic Conversion Reservoir (Unique Epic)
+
+Mana Wavelength Tyrant (Mid Arcane)
+
+Subdermal Combustion Weave (Mid Arcane)
+
+Mana Wave Predation (Unique Arcane)
+
+Cognitive Hyperprocessing Vector (Low Pristine)
+
+Tokens:
+
+Send a single item to your disciple (up to epic rarity)
+
+Passive skill combination token (low arcane)
+
+Beyond visitor token - 1 year (unlocked after tutorial)
+
+Beyond 7 day stay token
+
+Beyond 30 day stay token
+
+Beyond 14 day stay token (x 26)
+
+Shards: 4,449,606
+
+And then there’s a set of notifications from before.
+
+Your trait, Mana Wavelength Iris, has undergone successful evolution!
+
+This evolution was influenced by a cumulative assessment of your performance up until now and by your Primary Class: Mana Weaver (Unique Arcane).
+
+Additional influence was derived from your passive skill, Cognitive Hyperprocessing Vector (Low Pristine), which has contributed to the adaptive refinement parameters.
+
+Your designation as an Absolute Candidate has been recognized as a qualifying factor in this process.
+
+The evolution has been influenced by Mana Wavelength Iris and Mana Physique, being greatly integrated into your body.
+
+The evolution has been influenced by your Constitution stat.
+
+Individual Enhancements resulting from prior body upgrades have been accounted for and incorporated.
+
+Your total mana capacity and circulation efficiency were evaluated and influenced the evolution.
+
+Due to the quality, complexity, and grade of your evolved trait and other influencing factors, the number of strengthenings has been reduced to 1.
+
+Preeminence Eyes - The user’s eyes resonate with the purest form of their mana, channeling it directly through their gaze and turning their very sight into a conduit of raw mana. The eyes grant complete awareness of all mana currents, while every fiber of the body aligns with the user’s gaze, further deepening their insight into mana itself.
+
+I wave it off and reach the skyscraper from which I can sense Adrian’s mana signature. The doors on the terrace are open, so I use them to fly inside, where I find him standing near the bar and mixing some sort of alcoholic drink. The penthouse I find him in is huge and luxurious in a sort of old-school way. With lots of leather, wood, and ornaments, while somehow avoiding feeling tacky or overdone.
+
+On one side of the room, a huge fireplace dominates the space with some wood already burning inside. The other wall is dominated by an enormous TV that plays news, where I notice a few short clips of way too big animals.
+
+“Honestly, I didn’t expect to see you here. It’s a surprise, but not the sort I’d mind,” Adrian says, and I watch as the other presence behind him moves. The spider, about the size of a small dog, climbs from behind the bar to set atop it, carefully and slowly. There it stops and, with one of its front legs, taps on Adrian’s hand holding the glass.
+
+“Yes, don’t worry,” he answers with a smile to the spider, and turns back to me. “Did you have the chance to meet Septa on the eighth floor?”
+
+“Briefly. She used to be smaller, though.”
+
+“Yes, yes she did,” he says and shortly rubs her head, which the spider seems to enjoy.
+
+“You seem to be settling in,” I say as I look around the place.
+
+Instead of answering right away, he pours another glass, mixes in some liquor, and adds a few pieces of ice. He then walks towards me and offers me the drink, which I take. Meanwhile, Septa moves back to the floor and settles in front of the fireplace, where she sits watching the flames.
+
+Gesturing for me to sit, Adrian sits down first. “Settling in... I suppose I am. After all, unlike you, I will be staying here."

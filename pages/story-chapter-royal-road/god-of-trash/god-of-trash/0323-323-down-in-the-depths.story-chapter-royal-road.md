@@ -1,0 +1,111 @@
+---
+id: f634caa1-bdcd-57f6-8051-726d13a384cd
+page-type-slug: story-chapter-royal-road
+title: "323. Down in the Depths"
+slug: 0323-323-down-in-the-depths
+partOf: god-of-trash
+position: 323
+ownLength: 1770
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3530932/323-down-in-the-depths"
+royalRoadId: "3530932"
+---
+
+At long last, Rhys’s shovel plunged into the earth and cracked. Rhys swung the blade anyways, sending another mass of earth into the void island, but when he retracted the shovel, the Trash Intent blade was cracked, its end corrupted and quickly fading. He dismissed the intent before the corruption could crawl all the way up to the stub of wood that was all that remained of the original shovel and closed his hand, dismissing the bit of wood back to his good-trash collection.
+
+The final stroke had revealed pitch-black looming out of the earth. This time, he wasn’t within a natural cavern or floating in the void, looking up. He was on the outside looking in, and so, the black filth just appeared as a wall of black rock underlying the earth.
+
+“It’s here, too?”
+
+Rhys turned, not entirely shocked to find Daran standing just behind him, the looming man with his mane of black hair just as unsettling as always. “Hello, Daran.”
+
+“Yes, yes. I had no idea the filth would stretch this far… what does this mean?” Daran stared at the filth, then fell into silence, lost in thought.
+
+“It means I’m about to fill up.” Just as he hadn’t been shocked to see Daran, neither had Rhys been shocked to find filth here, under this continent. If he had to guess, it laid beneath the entire world. After all, a god beyond even what this world considered gods had called him here to fix it. The problem couldn’t be on the mere continental scale, or else something as powerful as absolutexistence wouldn’t have needed him at all.
+
+Although, now that I’m thinking about it… He lifted his head, gazing up into the sky above. The sky appeared dark from down here, as the well effect put him in perpetual night even with the sun bright overhead. Was the filth limited to only this planet? Or did it reach further than he’d ever imagined?
+
+Rhys shivered and looked down. I hope not. That would be a big job, even for him. But then again… absolutexistence wouldn’t have called in help unless it was a big job, right?
+
+Maybe they just need a specialist! Yeah, maybe that’s it. Like when a handyman who can fix almost anything in their house calls a plumber because the toilet’s really fucked this time. Right?
+
+A sinking feeling fell over him, and he sighed. It’s probably not that, is it.
+
+But those were problems for later. For now, he was just a tiny Tier 5, still no more than a small-time, earthbound mage. He lifted his hand and imagined the filth falling into a trash can, and the trashifying beam leaped out, weakening the filth to the point he could absorb it.
+
+Actually, I’m Tier 5 now. I wonder if I can absorb it straight? He eyed the filth, then shook his head. Right now, he needed to fill up. Once he had enough mana to use the trash reality-warping spell, he could worry about pushing his limits and experimenting with new filth.
+
+Step one: ensure the backup plan was ready. Step two: fuck around. Sure, he’d still find out, but he’d at least have accomplished his original goal before he inevitably found out.
+
+Remember, kids, make sure everything else is nice and tidy before you fuck around and find out!
+
+“You don’t seem surprised.”
+
+Rhys turned again, looking at Daran. He paused a moment, then shook his head. “No, I’m not.”
+
+“Do you know something about this filth that I don’t?”
+
+“Sure do. You wanna give me a question for it?”
+
+Daran sighed. “You know, we could simply collaborate without this meaningless back-and-forth battle of wits.”
+
+“We sure could. So, Daran, why don’t you go first? Share some secrets with me. Doesn’t even have to be something big. Just give me something.”
+
+Daran shut his mouth and crossed his arms. “It’s this distrust of yours that’s truly unpalatable.”
+
+“Interesting. I find pretty much all of you unpalatable.”
+
+“How on earth did I end up bound to you?”
+
+“Wish I knew. You were pretty mysterious about that, too, ring grandpa.” He had a pretty good guess that it had to do with the little red book that had followed him around for a while. According to Daran, he’d picked the guy up at an Impure Well, but he hadn’t acquired absolute truth from Daran before the admission, so odds were good that Daran was lying, at least based on past experience. The man wasn’t a pathological liar, but he sure didn’t like telling the truth, either. Not unless it truly benefitted him.
+
+In some ways, he and Daran shared that trait, but he mostly applied it to enemies and targets of deception, while Daran seemed to see it as free game to apply to anyone as he saw fit.
+
+It was one of the reasons they’d never get along. No… that was the root of it. In many ways, he and Daran were very similar, but It was precisely because they were similar that they ended up disliking one another. If they’d been entirely different, they probably could have respected one another, but because they could both see shadows of their own behavior in the other, they despised one another. If only Daran could do this properly, a little more like me… and surely Daran thought the same things about Rhys.
+
+“What foolishness are you thinking of now?” Daran asked, as Rhys’s absorption of the impurities slowed.
+
+Rhys sighed. “Oh, not much. Just that I really, truly despise you.”
+
+“The feeling is mutual.”
+
+“I know.”
+
+And then Rhys froze. Did I really just hit Daran up with the classic ‘I know?’ That thing I swore never to do, relegating it to the pile of hot garbage too trashy even for me? Oh no, oh lord. Hopefully it doesn’t end the same way it did with that other ‘I know’ situation… though if I recall (and I do) those two weren’t confirming their hatred for one another.
+
+“What is it now?”
+
+Rhys shook his head. “Oh, you really don’t want to know. It’s exquisitely stupid.”
+
+“And how’s that different from usual?”
+
+Pausing, Rhys looked at Daran, then nodded approvingly. “I really set you up for that one, and I appreciate the slam dunk. You know? You can’t count on everyone out there to land that final blow. Some people would rather be ‘polite.’”
+
+Daran scoffed derisively. “They sound like boring people.”
+
+“You don’t know the half of it.”
+
+Ignoring Daran once again, he focused on absorbing impurities, occasionally glancing into his portals to keep an eye on Ryota. Well… ‘glancing.’ Due to the convoluted shape of the portal, leaping through the void and back out again at two arbitrary points, it was more like extending his senses into the void, through the void, and out into the forest in the distance. Most of the time, he could simply extend his mana- or trash-senses and sense Ryota; it was only when Ryota went beyond the limits of his senses that he had to rely on the portal. He could sense at a significant distance by now, but the forest was truly vast, and even this small segment he was trapping Ryota in was beyond the span of his mana senses.
+
+Ryota was still fleeing the gorillas, and the gorillas were still heartily giving chase. By now, it had become something of a game for the beasts, and the little gorilla kids and the old gorillas were even getting involved, hanging back and throwing stones and nuts at Ryota. Their attacks were completely unthreatening to Ryota, and he didn’t so much as glorify them with a response, but they seemed to be enjoying it, so Rhys let it be. He focused in on the impurities again, pouring them into his trash hole.
+
+Trash hole sounds… not ideal. Trash black hole? Trash… pit? Trash pit. I can live with that. It kind of lost the ‘black hole’ aspect, but wasn’t underselling his abilities kind of trashy, too? He’d rather have everyone else think he had a feeble pit in his core, then unleash the full strength of the black hole, than oversell it and underwhelm everyone with his pitiful ‘full power.’
+
+Never done that. I should really let ‘er rip at some point. Maybe, once Ryota breaks through this mental block he’s battling, I’ll go deeper into the forest and fight some of the truly monstrous gorillas… monsters. They might not all be gorillas. Could just be gorillas in this band.
+
+His core filled steadily, but the thing about tiering up was that his core was just that much bigger and slower to fill. It was like swapping from a hybrid sedan to a big fat van. One of them had a bigger tank that was slower to fill, and that was simply the way things were. Fortunately, tiering up also meant he had more power than previously, unlike the van, which was unlikely to out-power a sedan of any description, but the basics of the analogy still stood.
+
+At least I can take comfort in the thought that one shot of the reality-warping technique probably isn’t going to wipe me out? It was a small comfort, but better small comforts than no comfort at all.
+
+On the other hand, what was he planning to do with more than one shot of the reality-warp technique? It was a hugely situational technique. He couldn’t just pop it anywhere. If the first shot didn’t work, there was almost no chance the second one would, if he could even activate it a second time.
+
+Rhys thought for a second, then shrugged to himself. He could do one shot of reality warping and one fireball, or whatever his sad, non-fiery substitute was. Trash-fire ball. Trash ball. Whatever.
+
+Distantly, someone screamed, as if in agony, and a bare millisecond later, a wave of overwhelming power blasted through his trash portals. Rhys jolted, shocked. Had Ryota antagonized something or someone he shouldn’t?
+
+The power wasn’t abating. It blasted through his portals and through the air, so fierce it beat back his mana senses, restricting them to a much more limited span. There was no time to think. He leaped into action, instantly hopping through the nearest portal to Ryota.
+
+“Ryota!” he shouted, and then stared. His jaw dropped. Fear whirled through him, then excitement, then elation. His heart raced, beating almost out of his chest from sheer joy alone.
+
+No way. I never thought I’d see it. But here it is. Undeniably, here it is! One of my favorite kinds of trash!

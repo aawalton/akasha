@@ -1,0 +1,225 @@
+---
+id: 69e138b1-9c74-55d7-aba8-745c1fefcb13
+page-type-slug: story-chapter-royal-road
+title: "Chapter 82"
+slug: 0006-chapter-82
+partOf: hell-hound-evolution-litrpg
+position: 6
+ownLength: 3474
+unit: words
+publishedAt: 2026-02-04
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3012017/chapter-82"
+royalRoadId: "3012017"
+---
+
+The giant fox looked between us suspiciously. As her gaze settled on Lily and me, she seemed curious more than anything. When she set her sights on Grick, her eyes narrowed in disgust. Then she turned her attention back on me, and I heard a feminine voice inside my head. “You can speak?”
+
+My drooping tail perked instantly. She definitely didn’t sound like she wanted to fight. I looked around, not sure how to answer. I eventually settled on shaking my head and placing my paw on the world I had written in the dirt, indicating that’s the best I could do.
+
+“I see…” She sat back on her haunches, still towering over us, but no longer coiled to strike. Her fluffy orange tail curled around her side. She wasn’t as big as Mom, and nowhere near as big as Dad, but she was at least three times our size. The giant fox could look a human in the eyes while standing, Mom was way bigger than a human, and Dad was just a plain giant. But I was glad she didn’t want to fight because I honestly wasn’t sure how good our chances would be.
+
+“What are two Hell Hounds doing out here… and why would they be traveling with a goblin?”
+
+I looked over to Grick, who was still cowering on the ground between Lily and me, and used Pack Bond to tell him to explain.
+
+“Ah…” Grick cautiously picked himself up from the ground. “Puppies Grick’s friends! Meets Grick in cave. Defeat nasty humans! We stay together. Travel to good place!”
+
+Her eyes narrowed at Grick. “As if I would believe that. You are manipulating them, aren’t you?”
+
+“Grick not liar!” the goblin insisted. He reached over and gently patted the top of Lily’s head. “Smart puppies. Help Grick and Grick help puppies! Good friends to Grick!”
+
+As he was explaining himself, I started dragging my paw through the dirt, spelling out, “Human?” I then looked back up to the fox for her answer. I also wanted to take her attention off of Grick because I didn’t like the way she was looking at him.
+
+“Me? No, I’m what’s called a Vulpyr. That humanlike form you saw is thanks to a skill. I’ve been traveling in that way in order to level it up.”
+
+I tilted my head. I also wanted to know if she was from another world like me, but Genzo’s warning about the Umarii made me worried. If there was one people who knew about transmigrators, and that I should avoid them, maybe that was information I needed to keep to myself. There was no way I could ask this giant fox about it without giving a strong indication that I was, in fact, from another world myself.
+
+“Hmmm… It’s strange you can understand language, but it doesn’t seem to be the case for that one…” Her gaze lingered on Lily, who looked over to me uncertainly, with her ears twitching slightly.
+
+Maybe if I can keep her talking, she’ll reveal she’s from another world some other way?
+
+I dragged my paw in the dirt. Under human, I wrote, “Why speak?” Then looked at the fox as I placed my paw on the word.
+
+Her lip curled slightly. “It’s useful to be able to interact as a human.” Her tail flicked. “Obtaining their currency allows easy access to useful supplies. And their food is extraordinary.” She licked her chops, then she looked down at the tattered pair of pants she had kicked off a short time ago. “Though it comes with some inconveniences… Without wearing these things, you receive even worse attention than as a monster. Supposedly, my human form is considered desirable, which created other annoying problems.”
+
+Well, she was quite pretty as a human, I couldn’t deny that, but I thought she was beautiful as a fox as well. But if she had gone around nude in her first attempts at trying to pass for a human, I could see how that would result in some very unwanted attention. Though that hinted that she was, in fact, a native of this world and only knew her fox life. If she were ever human, or humanlike from another world, clothing is something she would have already understood without having to learn the hard way.
+
+I looked at the tattered pants with a grimace. Our interruption caused her to not finish undressing before changing her form. I turned an apologetic grin her way.
+
+“Don’t worry, I have others.” She stood from her haunches and padded over to her bag with the rest of her discarded clothing lying about. She carefully picked up each with her teeth and returned them to her bag. She then held it down with a massive paw as she drew it closed. She did it easily, as if she had done this many times before. She then pulled on one of the straps, extending it, and slipped her nose through the loop before hitching the bag back to droop around her neck.
+
+“Your group doesn’t have the air of randomly wandering without a destination,” she said and looked back at us. “And I’m not sure I’ve ever encountered anything as strange as you three… Yet, I’ve heard an interesting rumor recently…” Her lip suddenly curled into something a bit more predatory.
+
+My ear’s folded back, and Lily instantly reacted to my tension, lowering with her hackles puffing slightly. The fox kept her golden eyes on us as she explained. “Supposedly, a certain tribe had sold a couple of Hell Hound pups recently and brought an older one to the fighting pits. Its no surprise if a couple of you escaped that they would keep that information to themselves…” She prowled forward a step, her eyes never leaving us.
+
+I barred my fangs, once again assessing our chances against her. She already indicated that she understood currency. Did that look in her eyes mean she was eyeing us up like winnings after hitting a jackpot?
+
+A growl rumbled in my chest. She’d have to kill me before I let her take us alive! There’s no way we were going down without a fight after everything we’ve been through!
+
+Even Grick jumped to our defense. Holding his dagger out in front of him, though he did remain behind us, and it was notably shaking in his hand. “Don’t hurt puppies!”
+
+She snorted and turned her gaze away, amused. “I’m only stating a truth. I don’t plan to do anything about it. Enslaving others is a very human trait, and though I find benefit in learning to blend in with them, that’s one way I wish not to mimic them.”
+
+I still wasn’t so sure I trusted her, though I let some of the tension drain out of my stance. Information alone could be valuable and traded for currency, and I realized crossing paths with this giant fox might have just been a huge stroke of bad luck.
+
+Grick’s ears drooped as he lowered his dagger, looking between us uncertainly. Lily gave me a look that asked what we should do.
+
+“Apologies, but I used your reaction to confirm my suspicion. You are certainly related to those other Hell Hounds.”
+
+My hackles lowered completely as I realized, threat or not, the giant fox actually gave me some critical information. Though I worried greatly for my mother being sent to these fighting pits. Genzo’s warning about that place echoed in my mind, but I had to force it away. I could not allow myself to even consider it was already too late to save Mom.
+
+I stepped forward, no longer with any aggression in my stance, as I gave her a yip. She turned her golden eyes back to me, and I instantly started dragging my paw through the dirt, spelling, “Where?”
+
+“Hmmmm…” She looked upward, considering the question. “The Burning Steeps. On the other side of the Umarii lands.”
+
+I looked past her, over the beginnings of the desolate lands we had planned to travel away from.
+
+“I do wish you could speak yourself. It’d be quite interesting to hear what else you have to say… I can’t even begin to imagine how you’ve learned to understand speech. It doesn’t seem likely that it would be thanks to that goblin of yours.”“Puppy smart!” Grick said, coming to my defense. “Very smart puppy. Knows human thing!” He nodded in self-assurance as he pointed at my word in the dirt.
+
+I gave him a soft growl. I appreciated his intention, but didn’t want him to give the fox any more information.
+
+“Yes, I see that, little goblin…” She said ‘goblin’ with disgust, and her lip raised enough to show a fang. Grick instantly retreated back a few steps with his pointy ears going down. “But intelligence doesn’t explain that.” Her tail swished as she regarded me again. “You’re young, and I know better than anyone how hard it is for a monster to learn to speak as a human. There are some, such as goblins, who have an easier time of it, but even they fail mastery of language… Even the smart ones.” She smirked slightly. She must have meant it as a jab at Grick… I really didn’t like her.
+
+“Well, it’s hard to say how masterful you really are with your limited communication. But, whatever your level of mastery, it is still beyond what you should be capable of.” Her tail swished again. “You appear to be on a predator path, as any monsters of your type should… So that shouldn’t explain it. Even I’m an unusual case with an Epic path. Most Vulpyr can not do as I do, and it took many years for me to act convincingly as a human. The Path and the skills felt downright useless at the time. I’m weaker as a human so I thought I’d made a foolish mistake by evolving in this way.” She let out a low growl as she shook her head, seeming more frustrated with herself than anything else. “So for you to understand my words truly makes no sense.”
+
+She locked her eyes on me, and I felt that she was assessing how much I understood of her little speech. She must have given that long monologue partly to test my comprehension. I could see in her gaze that she saw right into me and knew that I understood every single word clearly.
+
+“Might you have an explanation?” she prodded.
+
+I looked down at my messages in the dirt and shrugged.
+
+“I suppose it would be too complicated to explain by dragging out each word.” She gave a resigned huff, then turned away, padding around the church with her tail swaying as if the conversation had already reached its end. “In any case, it’s not truly of any consequence to me beyond a curiosity. I’ve learned the hard way that curiosity gets you killed faster than hunger. I don’t need to risk involving myself with something human hunters might be interested in.”
+
+With that, she continued on her way, traveling down the river, back the way we had come. My companions looked at me questioningly, but I couldn’t tear my eyes away from her as she padded her way out of our lives. I suppose I should be glad, but I also figured we ought to find our way to the Verdant Empire as fast as possible now. Though she said she wasn’t interested in doing anything about the knowledge we were being pursued, I wasn’t sure I could trust her at face value. She seemed smart enough to know she could earn some quick coin by telling a story about the pair of Hell Hounds and their goblin companion.
+
+No, I definitely didn’t trust her. She had a self-serving air about her and made no attempt to convince us otherwise.
+
+But with the immediate threat walking away. I decided to check on the evolution hint. I opened up the available path screen and instantly saw that the new hint was not for either Hellborne Firewitch or Aberrant Triune. It had opened up a new one entirely.
+
+Rare - Veiledfang Stalker
+
+A path meant for cunning predators who wish to blend in with their prey and catch them at their most vulnerable.
+
+Hint 1: A wolf in sheep’s clothes is more dangerous than one that stalks the woods, but it must first understand the flock.
+
+Hint 2: Locked
+
+Requirements
+
+Stage 5 development
+
+Strength: 65
+
+Dexterity: 85
+
+Vigor: 70
+
+Sense: 90
+
+Attunement: 70
+
+Prerequisite Paths: Veinseer Nightstalker
+
+Required Achievements: 1 (Unknown)
+
+Well, this path was Rare, which meant that it was below the Epic Path I already had—Whisperfang Juvenile. On the bright side, this one looked way easier to obtain than some of my other hinted evolutions. I only needed one more hint, and as for requirements…
+
+Stage five development? I’m already there! So—CHECK! And my attributes were well above the requirements as well.
+
+There’s a prerequisite path, but it’s Veinseer Nightstalker! I already have that! I was just a scared pup in the woods back when I had that evolution! And since between that being a prerequisite and having stalker in the name, maybe I didn’t need to worry about losing my stealth skills… Could it cause me to lose Soul Rend and Death Mark, though? Well, I’d have to worry about that when the time came. The question was, what would this Path grant me?
+
+I reread the hint.
+
+A wolf in sheep’s clothing, huh?
+
+I glanced back upriver, where the giant fox was still padding away. I got the hint from seeing her transform. Did that mean… this Path would allow me to do something like that?
+
+My brow lowered as I thought about it. Taking a human form… It certainly would have its conveniences, but would it be worth losing the skills I obtained from Whisperfang Juvenile? I mean, I was planning on heading for an empire made up of a presumably humanoid population, so being able to communicate with them would be massively beneficial…
+
+But I don’t want to stop being a Hell Hound… I like my doggy body!
+
+I sighed, feeling quite conflicted. I guess if it were like Miss Vulpyr over there, and the human form was only a skill that changed temporarily, that wouldn’t be so bad.
+
+Speaking of the Vulpyr, I noticed the giant fox stopped walking. She was staring at something. I prepared to lead my pack across the bridge, wondering if something else was coming. But no… she was staring off into space. Checking her stats, maybe?
+
+The Vulpyr suddenly flinched, pounded a single paw on the ground in frustration, and then started coming back towards us.
+
+Great, what does she want now?
+
+I stared her down as she approached. But her entire demeanor had changed. Instead of that cool expression that was somewhere between sly, nonchalant, and vaguely hostile, she was giving a warm, foxy smile.
+
+“So… Hey there!”
+
+I narrowed my eyes. What’s with the friendly greeting?
+
+She circled a paw in the dirt as she looked away sheepishly. “So I was thinking, it’d be terribly cold of me to just abandon you pups.” She turned her golden eyes back to us, and her foxy smile spread. “So I was thinking I ought to stick with you for a while. Just until I know you’re safe!”
+
+I heard Lily’s voice. “I don’t like it.”
+
+I nodded to my sister. “Yeah, me neither.”
+
+“You want stay with puppies?” Grick asked, turning his head curiously.
+
+“Yes! Yes! Of course I do! You know, I was young and without my family once too, so I know how harsh it can be for those so young.”
+
+I turned my nose away in a gesture that said, “Thanks, but we’ll be fine.” I then started padding towards the bridge. Then used Pack Bond to tell Lily and Grick, “Let’s go.”
+
+I heard an audible “tsk” from the fox as we prepared to leave her behind. However, just as we were approaching the bridge, she bounded up alongside us and got in our way.
+
+“Really! I was just in a bad mood earlier over my pants getting ripped! I’m really quite nice!”
+
+I fixed her with another narrow stare. What was with her? This was a complete 180 on her attitude.
+
+“So I’ll just stick around until you get to where you’re trying to go. And once I know you’re safe…”
+
+I let a single fang bare as I let a growl rise to a bark. “Leave us alone!”
+
+She flinched. But then her expression dropped into a dry stare as she focused her golden eyes on me. “Alright listen, pup. I’m just going to stick around for a while. It’s no big deal, alright?”
+
+I raised a brow.
+
+She had been ready to leave us when she presumably started checking her stat screen… or was it another kind of system message?
+
+Then, I thought of what she had said, ‘So I’ll just stick around until you get to where you’re trying to go.’
+
+She could have surmised we had a particular destination in mind, but the way she had phrased that… Didn’t it sound like she knew we were going somewhere? She also said, ‘Just until I know you are safe.’
+
+Then it hit me. Back when I got my quest to kill the red masks who were hunting us, a nice unintended consequence was that the quest also revealed how many of them were hunting us. Though I was, of course, increasingly suspicious that everything the System did was in fact intentional.
+
+I’d bet that Miss Vulpyr just got a quest and that’s what this sudden change in attitude was all about! Still, that gave me no reason to trust her without knowing what exactly the quest was. It could have been something like, Stop the Hell Hounds before they make it to the Verdant Empire.
+
+Well, maybe that wouldn’t quite be it… If it were about stopping us, she’d just attack. Still, I didn’t trust her!
+
+I turned my nose up at her and walked past, stepping onto the bridge.
+
+“Wait! It’s much faster to go this way along the river!” she insisted as Grick and Lily followed me.
+
+That double confirmed it. She definitely knew we were going somewhere. But I had every intention of following Genzo’s advice and staying far away from the Umarii lands. I now knew where at least two of my brothers were, but knew I likely couldn’t save them myself, so I had to trust that Genzo’s people would help me and I could make my way to the Burning Steeps later.
+
+“Come on! I know you understand me, so why don’t you listen! It’s this way!” the fox insisted.
+
+Maybe her quest was, ‘Lead the Hell Hounds into the Umarii’s clutches before they make it to the Verdant Empire.’
+
+It was certainly a possibility, so I wasn’t taking any chances with this sly fox.
+
+The bridge was weathered and broken in some spots. I had to hop over some missing boards, but we crossed easily enough and were soon on the other side. The fox followed behind much more cautiously, each of her heavy steps creaking the bridge, and she watched her paws carefully as she went. “You little brats! You should learn to listen to your elders!” she grumbled.
+
+Huh, so much for the nice fox routine.
+
+Lily and Grick looked between the fox and me uncertainly once we were on the other side, and she was still carefully making her way across.
+
+“Just ignore her,” I told them.
+
+When she was near the bridge's end, she took one last leap to finish her way across, then she bounded up next to us once again. “Listen, I’m going to help you get there, then I’ll be on my way. You’re going in the wrong direction, and I’d like to get this over with as soon as possible! If you don’t mind!” She let a growl rumble in her chest.
+
+I trotted ahead and flicked my tail at her. I would have liked to say, “Not my problem!” but I think the gesture did the trick anyway.
+
+The fox pounded both paws on the ground in frustration. “Aaah! Such a damn pain in the tail!”
+
+I looked over my shoulder with a dry expression, thinking, “Come on, don’t resort to stupid puns.”
+
+Grick used a finger to pull down one eyelid and blew a raspberry at her. “Stupid fox lady!”
+
+Lily and Grick continued alongside me while the fox skulked behind us. I didn’t really have a way of getting rid of her, and she was probably faster than us, so I supposed we’d just have to put up with her presence for now.
+
+Read Next Chapter Now!

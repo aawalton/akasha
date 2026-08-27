@@ -1,0 +1,193 @@
+---
+id: a94478a1-3337-5e4a-aa9d-53316146a998
+page-type-slug: story-chapter-royal-road
+title: "Chapter 964: Expanding His Influence"
+slug: 0031-chapter-964-expanding-his-influence
+partOf: he-who-fights-with-monsters
+position: 31
+ownLength: 2193
+unit: words
+ownProgress: 2193
+publishedAt: 2025-02-17
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2073269/chapter-964-expanding-his-influence"
+royalRoadId: "2073269"
+markedReadAt: "2026-06-29T19:04:51.719Z"
+---
+
+In Zermatt, Switzerland, it was the early hours of the morning. In a chalet of largely glass walls, Marie Finnegan sipped at a mug of hot chocolate. On the coffee table, her phone beeped a notification. She picked it up and saw a text message consisting of only the letter C. She sat down her phone and her drink, then pulled out a second phone and dialled a number not saved in the contacts. Her call was answered, but the person on the other hand said nothing.
+
+“Confirmation,” Marie said. “You have a go to initiate the grid intervention.”
+
+She ended the call without waiting for reply, then activated her lighting fist ability, ignoring the heat as the phone caught fire and melted over her hand. Several minutes later, the remains of the phone were in the bin and she’d washed her hands. As she returned from the bathroom, the phone still on the table rang. The caller was listed as the Network Communications office in Zurich.
+
+“Finnegan,” she said, on answering the call.
+
+“Director, there is an incident in Pakistan we need to brief you on.”
+
+***
+
+The Network had fragmented itself into four, well over a decade ago. The Chinese and US governments had absorbed, or been absorbed by, their respective branches. The Global Defence Network was made up of many lower-ranking Network operatives, along with remnants of the Engineers of Ascension and members of the Cabal who schismed off during the rise of the vampire lords. The last faction was the largest, born from the leadership of branches everywhere but the US and China, and possessing most of the Network’s old assets. This was the group that operated with the approval of the Australian government, managing the local sections of the grid and intercepting monsters.
+
+A large contingent from Asano Village was airlifted to the Network’s Sydney office. This included Anna, Claire Davney and members of various intelligence agencies. They were all shuffled into an amphitheatre-style briefing room with a large projection screen. From there, they watched live footage from Pakistan, with multiple perspectives displayed side by side.
+
+“Whose drones are providing this footage?” Claire asked. “The Pakistanis?”
+
+“The Pakistani military have refused to share their feeds, Madam Secretary,” said the Network liaison, Bryce. “We’ve tapped other drones deployed to the area, by local civilians and foreign media.”
+
+“That was fast,” Anna observed.
+
+“We are not able to disclose any assets we may or may not have in the area,” Bryce said.
+
+Little was happening on the projections screen so far. It showed the Indus River, with a mass of rainbow light swirling over it, but no other activity.
+
+“The current estimate is full manifestation in twelve to seventeen minutes,” Bryce announced. “Mrs Tilden, the operation room is requesting an ETA on the arrival of the Asano group.”
+
+Anna checked the time on her phone.
+
+“Any moment now,” she said.
+
+Around a minute later, a portal opened onscreen. A black stone ring, filled with swirling darkness, appeared in the air. It was aligned horizontally, high over the water, and was large enough for a bus to pass through. What did drop from the portal was a massive tortoise shell. The top and bottom halves were separated, connected only at the corners while the sides were left open. The shell segments on top each had a colourful, glowing rune etched into it.
+
+Inside was a veritable crowd of adventurers, who immediately started flying out into the air. Some had wings, others flew on clouds that shrouded their feet. Some flew through no visible means at all, like superheroes. They were a wild and eclectic group, looking variously like wizards, or heroes and monsters of ancient myth. Or even modern myth, with a few that would have passed as Jedi or Sith. One man had armour and wings of rainbow scales, matching those of the rainbow dragon on whose back he stood. Another man was part bird, like an eagle version of a werewolf.
+
+“Asano isn’t in command,” Claire observed quietly. “That woman on a flying carpet seems to be directing the others.”
+
+“Jason is not the leader of his adventuring team,” Anna said. “The man standing on the dragon is Humphrey Geller. His mother is serving as strategic commander for the larger group.”
+
+“I was led to believe they would move at Asano’s command.”
+
+“They will move at Jason’s request. He values earnest friendship over political alliance, which is one of the reasons he has trouble with diplomacy. His friends are fiercely loyal, Madam Secretary. Forged in fire loyal. This group is strong, and united.”
+
+“And large. This is more people than was revealed on their arrival. All gold rankers?”
+
+“Yes.”
+
+“And they each possess the strength of Asano and his team?”
+
+“There’s a rough parity there, yes.”
+
+“Mrs Tilden, statements by you and Rufus Remore regarding the combat potential at Asano’s command have largely been considered hyperbolic. Are we about to see a demonstration that they were not?”
+
+“I imagine that depends on what comes out of that manifestation, but I doubt it. That many Earth gold rankers would make short work of one manifestation, let alone this group. Barring something very unusual, I don’t see it posing enough of a threat to draw out their full power.”
+
+“Let’s not rule out the unexpected,” Claire said. “Have you noticed Bryce nervously touching his earpiece?”
+
+“I have. He doesn’t seem to like what he’s hearing.”
+
+Claire stood up and took out her phone.
+
+“It might be time for a call to my own Network operatives, back home.”
+
+***
+
+Marie Finnegan had one of the bedrooms in her chalet rearranged for dedicated video conferencing. Four monitors were set up, each displaying a different feed. Two were showing drone footage from Pakistan, one was showing a grid systems analyst in Zurich and the last was showing data taken from the grid. The grid data showed the Sindh Province in Pakistan, with moving lines that ranged from purple to an alarming red.
+
+“To be clear,” the analyst said, “these are not anomalies detected by the grid, but within the grid itself.”
+
+“Are you saying that someone is attempting to collapse the grid again? Weren’t failsafes put in place to prevent, or at least detect that?”
+
+“That’s what we’re looking at, Director. We’re uncertain as to what this is, but the Engineers of Ascension attack on the grid was unsophisticated. A blunt force. This is more nuanced, showing a superior understanding of how the grid functions.”
+
+“And what is it doing?”
+
+“Our best guess thus far is that it is channelling additional magic into the Pakistan manifestation. We don’t know if the intention is to disable the grid, create a greater manifestation or trigger a transformation zone event, like those in 2020. Or something else entirely. To be honest, Director, we’re working off educated guesses at best.”
+
+“What do you recommend?”
+
+“At this point? Hope the people from the other world know what to do. Should we warn them?”
+
+“No. If they are our best chance, we can’t risk them deciding to pull out. We need them to face it, whatever it is?”
+
+“And if it blows up and kills them?”
+
+“Then at least the new problem will have solved the old one.”
+
+***
+
+Anna followed Courtney out of the briefing room to where Claire was waiting in the hallway.
+
+“Can you reach your people in Pakistan?” Claire asked without preamble.
+
+Anna tapped a brooch on her jacket and the air shimmered around them.
+
+“Privacy magic from the other world,” she explained. “Shade, are you here?”
+
+“I am, Mrs Tilden,” Shade’s voice came from her shadow.
+
+“Then anything you say here will reach Asano,” Anna told Claire.
+
+“Someone is sabotaging the grid. Feeding magic into the Pakistan manifestation. We don’t know why, how, what they want, or how likely they are to get it. Anything more than that is going to take time we don’t have to figure out.”
+
+“Thank you, Madam Secretary,” Jason’s voice came from Anna’s shadow. “We’ll do our best to keep a lid on things.”
+
+***
+
+Most of the gold rankers were moving into position around the manifestation, taking formation team by team. Jason’s team were the furthest away, positioned to protect the Sukkar Barrage as Clive, Farrah and Belinda placed it under a protection ritual. Jason floated over to the trio.
+
+“Can you spare Farrah?” Jason asked. “There may be an issue with the grid, and she’s the closest thing we have to an expert.”
+
+“Can’t it wait?” Farrah asked. “We’re in the middle of something here.”
+
+“The grid is feeding extra magic into the manifestation,” Jason told her.
+
+“Oh,” Farrah said. “Clive, do you have it from here?”
+
+“We’ve got it,” Clive said.
+
+“Do you have a dimensional verge spectrum analyser?” Farrah asked him.
+
+Clive took a device from his storage space that looked like a cluster of crystals connected by straws for a school science project, and tossed it to Farrah. She and Jason then shot towards the main group, Farrah’s fiery wings blazing on her back. They reached Danielle, Jason explaining the situation while Farrah used the device to take readings of the manifestation.
+
+“Thoughts?” Jason asked.
+
+“Depends. If this is intended to detonate like one of Travis’ big bombs, we should leave. A gold-rank explosion on that scale isn’t something all of us could survive.”
+
+“I don’t think that’s what we’re looking at,” Farrah said, peering at a mess of light swirling over the device. “Back in the day, when the grid was taken offline, undetected proto-spaces broke down and turned into monster waves. I think we’re looking at that process being artificially forced and accelerated.”
+
+“You’re saying that thousands of monsters are going to pour out of this?” Jason asked.
+
+“Even with this group, we can’t handle thousands of gold-rank monsters,” Danielle said.
+
+“They would mostly be silver rank,” Jason said. “There would still be enough golds to make it a rough day, though. Maybe we’ll get lucky and it’ll spawn a really big essence instead of monsters.”
+
+“That would be nice,” Danielle said, “but I find things like this don’t often go nicely.”
+
+“Jason,” Farrah asked. “Do you still have that instinctive sense for dimensional forces? The one Clive says is cheating?”
+
+“I do. I don’t know how much I’ll be able to tell you, but I’ll have a rummage.”
+
+He drifted onto Danielle’s flying carpet, so he didn’t have to concentrate on keeping himself aloft. He tapped his foot on the carpet.
+
+“Is this new?”
+
+“I have a lot of flying devices,” Danielle told him.
+
+He closed his eyes and projected his senses towards the manifestation.
+
+“I’m kind of getting a proto-space feel off of this,” he said. “Not exactly, though; I have to squint to see it. There’s a definite sense of energy pouring in, though. I’m not sure this manifestation can hold it together. It feels like it’s being overloaded.”
+
+“I’m seeing a lot of instability as well,” Farrah said. “It might be time to run for the hills.”
+
+Jason opened his eyes to look at the device Farrah was still using. The light shining over it was roiling like water in a washing machine.
+
+“Let my try something,” Jason said. “I’ve been trying to limit my influence on the reality around me because it’s kind of rude, but it might be time to go the other way.”
+
+Jason floated into the air, up and over the manifestation. A portal of white stone, appeared high above his head, filled with gold, silver and blue transcendent light. The portal was flat, like a halo over the manifestation, and wide enough to fit a house through. Jason floated between the portal and the manifestation, arms held out to his sides. The light of the portal grew brighter and brighter, until it was hard to look at.
+
+An aura emerged from the portal, swift as a tsunami but heavy as treacle, weighing down on everyone. It was domineering and otherworldly, claiming dominion over everything it touched. It kept pouring out, spreading over the whole region. After a minute it had gone ten kilometres, with no sign of stopping. Everywhere it went, every person of age to accept essences received a message.
+
+System Alert: Unstable Reality
+
+Danielle and Farrah watched as Jason vanished in a pillar of transcendent light. It descended from the portal like a divine visitation, inundating the manifestation until it was barely visible.
+
+“Did Jason mention anything to you about being flashy?” Farrah asked.
+
+“He did say something,” Danielle said. “I prefer things clean and efficient, but he claimed it was Anna Tilden’s idea.”
+
+“She’s normally quite sensible. Are you sure it wasn’t Jason wanting to show off?”
+
+“No, but I suppose it doesn’t really matter, at this stage.”
+
+“No, I suppose not.”
+
+While Jason’s enhanced aura was a hammering cacophony to supernatural senses, the area was eerily quiet to normal hearing. That changed with a ripping sound that filled the air like thunder. It was an alien, nails-on-chalkboard screech, somewhere between shearing metal and shattering stone. As the excruciating noise continued to ring out, the first monsters emerged from the light.

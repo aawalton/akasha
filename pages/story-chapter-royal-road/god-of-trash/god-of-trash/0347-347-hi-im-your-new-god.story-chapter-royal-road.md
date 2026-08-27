@@ -1,0 +1,131 @@
+---
+id: a5e6cc76-c0d9-57c6-ad58-1f82c8c01dc6
+page-type-slug: story-chapter-royal-road
+title: "347. Hi, I'm Your New God"
+slug: 0347-347-hi-im-your-new-god
+partOf: god-of-trash
+position: 347
+ownLength: 1987
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3783933/347-hi-im-your-new-god"
+royalRoadId: "3783933"
+---
+
+Rhys hopped back onto the ship with a thump, having stopped by a lake to revert to his usual appearance and clothes. Ryota stood as he landed. “Did you learn what we were doing wrong?”
+
+“Sure did. Also, I might’ve kicked off our godhood. Don’t worry about it.”
+
+Ryota gave him a look that suggested he was very worried about it and crossed his arms. “What happened?”
+
+Rhys quickly explained what’d happened in the bar, and Ryota put his face in his hands. He took a deep breath. “That’s one way to start things off.”
+
+Rhys grinned. At least he’s not in his post-Aran funk anymore. “Hey, we needed to start things off one way or another. The on-high approach wasn’t working, so I went to the people.”
+
+“I thought you were doing market research.”
+
+“I was, and then a drunkard started causing problems, and I got pissed off. What would you have done, huh? Come on, Ryota. You wouldn’t have put up with it, either.”
+
+Ryota sighed. “I wouldn’t have put up with as much as you did,” he admitted, albeit reluctantly.
+
+“Yeah, see? I was deeply tolerant. I put up with so much. And I didn’t do anything! It was that man’s decision to punch me. I can’t help that he broke his hand on my face.”
+
+“That’s the part I don’t get. How’d you get him to punch you so hard he broke his hand?”
+
+Rhys crossed his arms, taking a step back thoughtfully. “That is the weird part. He had a tiny bit of mana. Not enough to be a mage, but enough to lord it over mortals. I don’t know if he intentionally or instinctively used it, but he used it to make his punch stronger than it should’ve been. He wasn’t good at it, because he didn’t make his fist strong enough to survive impact too, but he would’ve been a brutal hitter if I was a mortal. Would’ve been my face that broke instead.”
+
+“Really? He could use mana?” Ryota frowned, gazing at the floor as he thought. “That… shouldn’t be possible. Either he’s a true prodigy…”
+
+“Didn’t seem like it.”
+
+“…a truly crippled washed up mage…”
+
+“Possible, guy was pretty drunk.”
+
+“…or someone’s been teaching these townsfolk just enough magic for them to be dangerous to themselves.”
+
+“Intriguing. Why would they do that?” Rhys wondered aloud.
+
+“Why are we acting like gods?”
+
+Rhys gave him a look. “Don’t equate those two. We’re founding a religion for the short and long term benefits, including a massive tax break, free money, and the highest tier of soft power. It doesn’t get more lucrative than that. People found religions all the time for money alone, let alone the rest.”
+
+“They do?”
+
+“But just handing out random mana lessons… that’s pretty strange. We’ve either got an altruist on our hands or some kind of plot, and I don’t like the idea of someone else moving in on our turf.”
+
+“Isn’t it their turf we’re moving in on?” Ryota pointed out.
+
+“Irrelevant. The point is, the turf is contested. That’s not ideal for becoming gods.” Rhys thought for a second, brows furrowing.
+
+“Should we leave and start over? You kind of messed up, and like you said, contested turf isn’t ideal for our religion plans.”
+
+Right. But what’s better for me? The perfect fertile ground, full of brainless mortals who’ve never seen mages before and are ready to worship us the moment we land, or a trashy piece of contested land with skeptics and non-believers, not to mention some hidden factor messing up all our best laid plans? Rhys swept his hand, wiping away Ryota’s misgivings. “No. We hold the line. This is where we’re going to build our religion. I’ve decided it, and I’m sticking to it. If there’s some unknown factor, we make it known and deal with it. Who knows? It could prove to be an opportunity.”
+
+“Or a roadblock.”
+
+“If it’s insurmountable, we leave and go elsewhere. But I’m not going to give up because one guy broke his fist on my face.”
+
+Ryota paused for a moment, then nodded. “It does sound ridiculous when you put it like that.”
+
+“Right? We stick it out. Now isn’t the time to call it quits—not yet. Not for a long time yet.” He ran a hand over his face thoughtfully. “Plus, I didn’t get the vibe that he was a particularly popular guy. Taking him down a peg might just be the entry point we needed to really start gaining credit amongst the mortals.”
+
+“You’re just saying that because you lost your temper and gave up the secret.”
+
+“You don’t know that. You weren’t there.”
+
+Ryota fixed him with a look. Rhys grinned. He gestured. “Come on. You wanna go figure this puzzle out?”
+
+“I don’t know that I’m equipped for that… I’m, uh. Not exactly good at stealth and finesse.”
+
+Says the berserker? Yeah, I believe it. Rhys pinched his chin, peering at him. “Are you equipped for healing?”
+
+“Uh… sure, I know a few basic healing spells.”
+
+“Excellent. You start healing people, and I’ll investigate.” Man, why didn’t I think of that? That’s the basics of the basics! Healing is holiness 101! It’s not intimidating, and no one’s going to run in fear. True, he had been deliberately attempting shock and awe, but that’d been stupid of him. These people knew about mages! Shock and awe didn’t work with a known factor.
+
+“Er… how do I find people who need healing?”
+
+Rhys shrugged. “Stand in the center of town with a sign that says ‘free heals?’ It usually works.”
+
+“Does it?”
+
+“I mean, there’s also a complicated system of sprays and emotes, if you really want to get into healslutting.”
+
+“Heal… whatting? Sprays? Huh?”
+
+“Don’t worry about it. Look, just offer people services for free. Someone will eventually take you up on it, and your reputation can spread from there. If it doesn’t work, let me know, but let’s give it a day or two first. I’m going to go chase down some loose ends and try to unravel this mystery while you’re busy getting godly.”
+
+“I… sure. Healslutting? Is that what you said…?”
+
+“You can be a healdom if you’d rather, but I don’t think it’s quite so godly. Well… I don’t know. The whole demanding reverence and forcing others to prove themselves part could be. Depends on your religion, really.”
+
+Ryota squinted at him. “What on earth are you talking about? Explain yourself.”
+
+“Ooh, demanding, I like that. That’s a good vibe. The DPSluts are already shivering. Hey, I’ll see you in a bit, okay?” Rhys hopped off the ship and took off into the forest. He had no desire to explain internet culture, gaming culture, or BDSM to Ryota, let alone that particular strange little niche intersection, so he was literally running away like a slacker dad backed into a corner on the birds and bees. Some jokes were just for him, and this was definitely one of those.
+
+He headed back toward the village he’d been in the tavern of earlier, changing his face along the way to something yet more nondescript and unattractive. A quick pit stop at the village’s trash heap later, he had robes that more-or-less matched and definitely matched the generic-villager vibe. The village’s heap mysteriously vanished, too. No word on what happened there.
+
+Secure in his fresh disguise, Rhys sat in a corner to ‘sleep’ until morning, then got up and started walking around, scanning all the villagers as he’d went. He hadn’t noticed Akio’s mana until the man was about to punch him, even though he’d been generically extending his senses the whole time. It was like it was sleeping in the man’s body, only to be stirred when his emotions peaked. Now, he walked the village slowly, drawing close to every villager he could. Rather than generically scanning their bodies, he carefully and slowly searched each one, taking his time to really pay attention to their cores and any mana within them.
+
+To his surprise, a good number of villagers had a hidden spark of mana not unlike Akio’s. It wasn’t all of them; maybe twenty, thirty percent. Still, given the extremely low percentage of the population that could become mages, it was a good chunk of the village’s population.
+
+Is this a village full of potential mages, or is something more nefarious going on? It was possible, but highly unlikely, that there was just a high level of super-low-tier mages in this village. For some reason, Rhys doubted that. Mages were just so rare, and for them all to have the same tiny hidden spark of mana? It was truly beyond belief.
+
+It didn’t mean it was impossible. People had thought black swans and blue people were impossible until they encountered them. But it did mean it was worth looking further into… and deeply concerning, if it is nefarious. For this high a percentage of ordinary mortals to be afflicted with something… someone’s planning something big. I don’t know who or what, but I know enough to be worried.
+
+Although there wasn’t exactly a mage police force going around punishing evildoers, there were still plenty of powerful righteous mages who took a do-it-yourself attitude toward punishing evil. When it came to mortals, again, although there was no law or at least no enforcement about involving them, it was generally frowned upon to interfere with them. If he had to say, interfering with mortals in a negative way was probably the number one thing that would get you targeted by wanna-be vigilantes.
+
+Luckily, me and Ryota are being good, righteous, non-evil gods who are interfering with mortals in a positive way! Haha… He glanced up. They’d definitely have to keep their eyes to the sky for righteous mage vigilantes.
+
+Though, on the other hand, we’ve got the perfect cover story. If one of those vigilantes showed up, he’d just have to point at the previous tampering to have the perfect explanation for why he’d stepped in. No sir, Mr. Vigilante, I am not interfering with these mortals! I’m merely a fellow vigilante, doing vigilante things!
+
+Of course, the fact that the tampering was so widespread implied that vigilantes weren’t common in this area at all. If they were, then someone would’ve already noticed the interference and done something about it. It was simply more proof that a vigilante-based justice system was less than ideal, though Rhys was pretty sure that was an easy sell. No one was going around seriously trying to sell vigilantes as the embodiment of actual, practical justice. It was simply so obviously infeasible.
+
+He finished his circuit and returned to the corner he’d ‘slept’ on to think. He’d verified the presence of the mana and confirmed that it was a problem in this area, not just a problem with Akio. What he wanted now was a closer look at the mana, but how? He couldn’t exactly just kidnap one of the villagers and force them to show him their mana. That was highly unethical. Still, he needed to get one alone in a room with him, and preferably at some minimum level of consent going on at that.
+
+What if I seduced one? he thought, then instantly dismissed it. With what CHA score? Plus, he was in a relationship, sort of. That was simply untenable.
+
+What else? He twisted his lips, thinking. There had to be something. Some way to coerce or trick mortals into spending time alone with him. Something that wouldn’t violate all morals and rationality. Something…
+
+Akio walked by, and Rhys perked up. You know, if I capture and examine the village bully, I’m doing everyone a favor! He’s a violent drunk. I’m in the moral right for committing a little vigilante justice-slash-examination! Beaming with pride at his perfect solution, Rhys pushed off the wall and followed Akio away from the village.

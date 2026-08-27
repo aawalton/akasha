@@ -1,0 +1,165 @@
+---
+id: f6a62b00-5522-5ba5-8812-7f6ab6764169
+page-type-slug: story-chapter-royal-road
+title: "257. Home Sweet Palace"
+slug: 0257-257-home-sweet-palace
+partOf: god-of-trash
+position: 257
+ownLength: 1890
+unit: words
+publishedAt: 2026-01-05
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2915099/257-home-sweet-palace"
+royalRoadId: "2915099"
+---
+
+Soma led him down the mountain. Rhys followed him, hanging The Hunger from his belt. After its latest meal of impurities, The Hunger took a nap, just like a well-fed infant, and it was silent and dormant, not giving off impurities nor actively holding them back. That wasn’t dangerous for Rhys, but anyone else who touched The Hunger—bar Soma—would not have an easy time carrying it away, if they survived the initial encounter at all.
+
+There was a small but fine flying boat waiting for them at the base of the mountain. The two of them boarded the boat, and Soma flew it off toward the horizon. Not too far off, he angled the boat down and landed on the peak of a mountain, where one of the nicest houses Rhys had ever seen awaited them. It was more complex than house, with tall, delicate pagoda towers and steep-angled roofs topped with gold dragons. All the roofs were red, for some reason, while the houses had thick, gorgeous beams lacquered to a shining black. Big red double doors had bright gold fittings, big round ring pulls, and a detailed inlaid dragon pattern. All the dragons were eastern-style, to match the style of the building.
+
+Come to think of it, I’ve seen no dragons, eastern, western, or otherwise, in this world. Not real or fictional, either. He eyed the inlay. Was this what dragons looked like in this world? Did this world even have dragons? Hell, aside from animal spirits, he’d only seen monsters at the northern border, and even then briefly.
+
+It occurred to him, as they landed at the front of the palace (because that was what it was, really; calling it a house was a joke), that he had just allowed Soma, a powerful Remnant Weapon, to take him back to his home-slash-compound, where Soma had doubtlessly made infinite preparations to fight and also had all his flunkies and underlings there to join in. If Soma was just making a play to defeat Rhys as maximally as possible, then he’d certainly gotten Rhys in a good place to do just that.
+
+He had seemed to legitimately want the mark off him, though. No… I think that’s it, actually. I’m right in both cases. Or rather, Soma has created a win-win for him. Soma either got the mark off of him (or edited, anyways), and if Rhys failed, then Soma had changed the battlefield to create the best possible surroundings for him. No wonder the guy had been so agreeable. It was only a positive for him.
+
+I’m in it now, Rhys thought, a little nervous. He honestly wasn’t sure if Soma was a good matchup for him or not. They both had the same path, largely, but different expressions of the same thing. Soma had had more time to explore it, but he wasn’t much interested in it, and preferred to enjoy the finer things in life (and the finer people). Rhys was probably more focused than Soma, but he’d had relatively little time to pursue his path. He’d reached Tier 4, but he wasn’t sure what tier Soma was. He felt about as powerful as Rhys, but, well, Rhys suppressed his tier almost instinctively by now. Soma definitely did the same; if he felt anything about the man, it was that he was definitely a tier suppressor. In other words, he couldn’t trust his instincts when it came to Soma’s power level.
+
+Well, let’s just hope things go well.
+
+Soma hopped off the ship with a skip in his step, totally unaware of Rhys’s internal struggles. Rhys followed at his heel. Soma skipped right up to the double doors and threw them wide, planting his fists on his hips and greeting the room with a full-throated, “He-llo, kittens! Daddy’s home!”
+
+Rhys jolted, dumbstruck by the most tacky greeting he’d ever heard in his life. Oh no.
+
+Men and women in various states of undress came forward to greet him as Soma entered the room. Rhys hung back a bit, not wanting to get caught up in the rather handsy crowd. Soma greeted each of them individually, whether that was a sloppy kiss, a peck on the cheek, a hug, or even a pat on the head.
+
+“Who’s that?” a doe-eyed woman in her lingere asked, looking at Rhys.
+
+“A friend, just a friend,” Soma said brightly, moving on.
+
+She gave Rhys an evaluating once-over, then snorted dismissively. “He’ll forget about you within the week.”
+
+“I… really am just a friend,” Rhys protested, though he could already feel that he’d lost that battle. Do you bring anyone home that isn’t destined for your bed, Soma?
+
+At last, the kittens—people! Rhys forcibly corrected himself—retreated, and Soma was free to proceed. He gestured Rhys onward, and Rhys followed.
+
+“Well, well, well. Look who the cat dragged in.”
+
+Rhys froze mid-step. He turned.
+
+“Lira! What have I told you? In this house, I’m daddy and you’re kitten,” Soma insisted.
+
+Lira lounged on the stairs, draped over the railing, her usual umbrella tucked into the nook of her arm. She looked down at Rhys and smiled mysteriously, something vicious in the smile. “Hello again.”
+
+Rhys swallowed, ignoring Soma’s interjection. “Hello.”
+
+“I’m glad to see you survived after abandoning us.”
+
+“I… had to retreat, or else the Sword Saint would’ve killed me.”
+
+She hummed, deep in her throat. “And no thought for us?”
+
+“No, no! I thought about you guys a lot! I—I thought that if I stuck around, they’d grab you guys too. That distancing myself from you would put you below their notice.”
+
+“You didn’t think that we were, in of ourselves, valuable targets from the resistance against the Empress?”
+
+“I…” Rhys swallowed. His mouth was dry, and the pit of his stomach felt hollow. No, she’s right. I did abandon them. That’s on me. He looked down. “I’m sorry.”
+
+Lira harrumphed. She ran a hand through her wet hair. “I’m fortunate to have been picked up by Soma. He’s kept me nicely while I’m on house arrest.”
+
+Soma gave her an apologetic look. “Boss’s orders. I really don’t care if you leave or not, it’s this icky mark making me keep you here.”
+
+“Oh, I know.” Lira looked at Rhys. “At least you showed back up, at last.”
+
+“What—what about Sable and Mouse?” Rhys asked.
+
+“They sent Sable to Ernesto, but she was stronger than him. I’m not sure what happened after that. I think she got marked, though.”
+
+“And you…?”
+
+She lifted her hand, limply hooking her loose neckline and drawing it back to reveal the mark.
+
+Soma grimaced. “It’s inescapable, these days. Honestly, it’s not even because she’s a prisoner. Almost everyone Virgil encounters gets marked.”
+
+“That’s disgusting,” Rhys murmured to himself.
+
+“Oh, I agree,” Soma purred, something dangerous and sensual in his voice, which Rhys did not understand at all.
+
+“And Mouse?” he prompted Lira a second time.
+
+Lira’s brows furrowed. “All the assistants got away fine. No one was rounding up animals.”
+
+“Not the animals, the woman! Mouse! Remember? Glasses, loves books…”
+
+She squinted at him and shook her head. “No…? Was she working on the soda? A chip-maker?”
+
+Rhys swallowed, his throat suddenly dry. Mouse had deleted herself from Lira’s memories. This was worse than he’d thought.
+
+“Who?” Soma asked, suddenly curious.
+
+“Don’t worry about it. I was mistaken,” Rhys said. He nodded at Soma. “You were going to show me someone…?”
+
+Soma looked at him. “I have, haven’t I?”
+
+Rhys stiffened. He stared at Soma in disbelief, then hardened his gaze in anger. “No. Find someone else.”
+
+“You’ll be motivated, won’t you?”
+
+“I refuse.”
+
+Lira looked from one to the other. “What’s this about?”
+
+Soma and Rhys stared one another down. Rhys released a tiny bit of his aura, pointed at Soma, and Soma did the same. Their auras clashed. The tension between them went taut, sparks all but flying. Rhys reached to The Hunger, preparing to wake the sword. It might be time for your first real combat.
+
+And then Soma let out a little noise and rolled his eyes back, dropping a little where he stood. He regained his composure and smiled. “Oh, my. That was something. Just a joke, a joke, Rhys dear! Come on, I’ll show you the real one.”
+
+Rhys narrowed his eyes. “I didn’t appreciate the joke.”
+
+“That’s okay. It was good for me. Come on, this way. I’ve been keeping this one special, just trying to think up something to do with him. You’ve really solved my problem quite neatly.”
+
+“Glad I could help,” Rhys deadpanned, still a bit sore after the unfunny joke.
+
+Lira crossed her arms. “I don’t appreciate being the butt of the joke, Soma.”
+
+“Kitten didn’t like that? I’m sorry, kitten. Daddy won’t do it again,” Soma said, making baby-doll eyes at her.
+
+She rolled her eyes back at him. “I can’t wait for you to be over this phase.”
+
+“He’s not always like this?” Rhys asked.
+
+“Depends what you mean. Horny as hell? Yes, always. But the daddy-kitten thing in particular just started a month or so ago.”
+
+“I like to keep things fresh around the house,” Soma explained, as if it was perfectly normal.
+
+“Did I just miss his leather-gimp phase?” Rhys joked.
+
+Lira gave him a long-suffering look.
+
+…Did I actually? Rhys wondered.
+
+“Would kitten like that? Daddy has lots of outfits,” Soma said.
+
+“Kitten would not like that,” Rhys blurted flatly, before his brain had time to catch up with his mouth. Don’t play along! You’re only feeding him! He loves it! It doesn’t matter how deadpan you do it, he’s still going to enjoy it!
+
+But it was too late, the words had escaped his mouth. Soma brightened up, beaming. “Then Daddy won’t do that. Just for kitten.”
+
+Lira sighed loudly. She turned and ascended the stairs, vanishing back to the second floor. “When you figure out how to break me free, you know where to find me.”
+
+“How did you—”
+
+She paused. Looking over her shoulder, she snorted at him. “I know you.” With that, she turned back around and climbed on.
+
+Rhys shook his head at her back and sighed.
+
+“She’s a good friend, you know,” Soma informed him, as he led him on through the house. Rhys followed, not wanting to be left behind. “Even when Virgil threatened her with the worst, she refused to give up anything.”
+
+Rhys stiffened. “He tortured her?”
+
+“No. In the end, someone else told him everything he needed to know, and he only kept your companions around, marked, as hostages.”
+
+That sinking sensation began again in the pit of Rhys’s stomach. It was Mouse, wasn’t it? Mouse had told him everything. But why? To save the other girls? He would understand that. He would. And of course Mouse would do that. She was a good person. She cared about others.
+
+But if that’s why she caved, why delete herself from Lira’s memories? Was she embarrassed? Was it something else?
+
+Soma opened a door in his palace that was just as ornate as all the others to reveal an unfinished tunnel descending into raw earth. “Shall we?”
+
+Rhys gave the tunnel an uncertain look. Extremely horny man invites you to his unfinished basement, do you go? Knowing he was making mistakes, he took a deep breath. “I suppose we shall.”

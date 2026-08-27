@@ -1,0 +1,157 @@
+---
+id: 378a632b-9d23-5f81-89f2-be6c29419106
+page-type-slug: story-chapter-royal-road
+title: "Chapter 847 - Trailing The Boys"
+slug: 0174-chapter-847-trailing-the-boys
+partOf: hell-difficulty-tutorial
+position: 174
+ownLength: 2311
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3734714/chapter-847-trailing-the-boys"
+royalRoadId: "3734714"
+---
+
+Flashback Nyssa Volare
+
+After conversing with the Vice Guild Master of the Primordial Knights, the guild’s former leader leaves the Megacity and makes her way to the third floor of the First Dungeon. It is the middle of the day by the time she reaches the Black Tower outpost. From there, she heads out and encounters a small group of people perched on top of a hill. They have an array of devices set up nearby and are observing an area off in the distance.
+
+“What is that?” she asks curiously, coming up behind one of a lumoran scientists after passing the guards unnoticed.
+
+The scientist, buried in his work, doesn’t even seem surprised by the new voice and doesn’t bother to turn around.
+
+“Amazing, isn't it!” he calls out excitedly. “You must be one of the new interns here, right? Don't laze around! Hand me the mapping glass from the table.” Still not turning, he waves his hand toward the table while looking through what appears to be a heavily inscribed telescope.
+
+Nyssa tilts her head curiously but quickly scurries toward the table. Looking it over, she finds the glass, picks it up, and moves back to place it into the waiting hand of the lumoran.
+
+As he grabs it, he fits it onto the front of the telescope and talks excitedly, “So fascinating! The region has begun to exhibit a near absolute mana vacuum, and the dead zone is currently maintaining a steady outward expansion. However, based on my early projections, the tension will eventually reach a critical threshold and undergo a localized collapse. Given the current density, I estimate a total stabilization period of 192 days, assuming no external interference as the expansion rate decelerates.”
+
+The telescope blinks out, and he hurriedly takes a mana battery from his pocket and slides it in to replace the emptied one so he can continue his observations. “What I wouldn’t pay to know what angered the Ruler of Diligence so much! If left alone, the collapse of this orb will create a massive crater, and the shockwave of this explosion will possibly even reach the Black Tower outpost! I know this isn't even close to the limit of his powers, but in a way, it’s calming to see that even the Rulers can be carried away by such petty emotions as anger.”
+
+“Won't you destroy it?” Nyssa asks him.
+
+“How would I do something ridiculous like that? That thing eats any mana that gets close. We could probably get the help of the Primordial Knights to test primordial energies against it, but it is rumored their S ranks were around when Diligence created the mana dead zone, so I would rather not.”
+
+“I can destroy it if you want,” Nyssa says.
+
+At that, the lumoran bursts into a loud laugh. “Oh, how nice it must be to be so naive.” Then his voice turns joking. “Okay, so even if you can, please don't. We want to observe it for a while longer.”
+
+He turns around to laugh at her further, but no one is standing there, leaving him looking around in confusion. His bewilderment only increases when the actual intern arrives five minutes later.
+
+(Nyssa! I never thought I would not see you again!)
+
+(Hello, Spark. I thought so as well, but it seems like I’m still a demon after all.)
+
+(You are! A beautiful, perfect demon, Nyssa!)
+
+(Thank you, Spark. Can you tell me why there are so many guards following me?)
+
+(Hehe, I told them not to worry and to leave you alone, but they called me naive! They’re still a bit nervous after the last time people from your guild came by!)
+
+(I heard from the Vice Guild Master that Mormor played around a bit.)
+
+(Nyssa… I’m not sure if "playing around" fits the description. After the attack, the poor guild disbanded, but not before they paid for all the damage Morwag caused. They were very scared. I think Nathaniel threatened them with a guild war, and they wanted nothing to do with that!)
+
+(Should I apologize for the trouble they caused?)
+
+(You don't have to! The punishment was already given, so at least in this case, there is no reason for you to apologise. Besides, you did nothing wrong.)
+
+(I see. I will be leaving then. Can you tell them to stop pointing their weapons at me? You shouldn’t be pointing a weapon at anyone you aren’t ready to fight, or die facing.)
+
+(They took out their weapons?! I will teleport them away right now. There! They’re gone. Sorry, Nyssa!)
+
+(Thank you, Spark. I will be leaving then.)
+
+(Bye! Tell Nathaniel I said hello!)
+
+In the 1st city of the second floor, Nyssa finds a velnar in a suit bowing deeply before her.
+
+There is desperation obvious in his voice as he cries out, “Please, I thought Sir Nathaniel Gwyn represented the Primordial Knights when I made a deal with him in the name of our company! We kept our promise and took care of Mister Duncan.”
+
+“Why are you telling me this?” Nyssa asks.
+
+That only causes the massive velnar to sweat more and bow even deeper. Out of the corner of his eye, he sees an empty plot of land that once belonged to the branch of a certain healing guild, now entirely erased. Even the city's Champion opted not to punish the crazy S ranks of the Primordial Knights, choosing instead to simply send them away. And now, the demon, considered one of the greatest talents in a thousand years, stands there. This is someone who singlehandedly defeated a Champion.
+
+“I apologize!” he shouts again as he makes a quick decision. “I will triple our commitments toward Mister Duncan.”
+
+“Triple what?”
+
+“F-five. Five times! Any more than that will ruin us!”
+
+“If you really want to, but you don't have to tell me that. Instead, please just tell me where I can find Duncan.”
+
+"Of course I will!"
+
+Duncan stands opposite Nyssa with a young lynthari boy called Lochi at his side. Though he is nervous, he maintains a slight smile to keep up his outgoing, professional expression. Meanwhile, Lochi stares at the pretty demon with eyes wide open. She isn’t even that much taller than him.
+
+“So that’s what happened,” Duncan says after explaining the situation in Lake City.
+
+“All the fish are gone?” Nyssa asks.
+
+“Most of them. But something similar has happened a few times throughout history, so the lake should repopulate. Honestly, people are a bit angry, but Lake City gets a cut from each fish, so they’re not complaining too much because of the ridiculous amount of shards they’re due to get. However, I’m going to have to reduce the speed at which we’ve been selling the cores and materials so we don't flood the market and reduce their value. I already hired a few merchants to help with that, and I hope you don't mind me using your guild's name to fend off some of the people trying to shamelessly take a cut. I am nowhere near powerful enough to fend them off on my own.”
+
+“It’s okay. Nathaniel is the Guild Master now, so it’s up to him.”
+
+“I see. Thank you.” Duncan smiles at her. “And as to your question about what happened, they followed a lynthari Lurker that appeared out of that Leviathan Fish to get the core back. Then, from what I heard, all of the lurkers died, and a bunch of people got their hands on arcane weapons. Later, according to some, the Ruler of Diligence was so angered that he seized all these weapons, along with all the shards people received. Some say Nathaniel and the others fought the Ruler at the center of the first floor, and as punishment, he sent them to the twelfth floor to die. Though I am sure most of that is just people exaggerating.”
+
+“The Ruler of Diligence is actually quite nice, at least according to my handler.”
+
+“Oh? Thank you for such firsthand information. I will take your word for it! May I make a shameless request of you, Lady Nyssa?”
+
+“Just Nyssa. And I will listen to it.”
+
+“If possible, please help Nathaniel if you find him in trouble. I owe him a lot, and I know I might not have anything to offer someone like you, but I am willing to give everything I own.”
+
+“I am not sure I can promise that. I’ve returned to fight him and the others after all. But he shouldn’t be in any danger for the moment.”
+
+“You want to kill them?”
+
+“I don't think I have ever truly wanted to kill someone, not even once in my life.”
+
+As Nyssa heads toward the entrance floor to reach the surface of Beyond, she notices a presence approaching her.
+
+A skillfully teleporting lynthari lurker with two tails cuts the distance to close in on her, and with a final step, it enters her strike zone. Her hand moves to destroy him, but at the last moment, she remembers what the guide, Duncan, told her about the lurker emerging from the belly of the Leviathan Fish and how the boys followed him.
+
+Whether it is out of curiosity or a desire to follow in the tracks of the boys and face the same dangers they did, she decides in that moment to leave it be. She allows her natural barrier to be pierced and permits herself to be teleported over huge distances multiple times in a row until she finds herself in a massive, fleshy cave that looks like it’s inside a gargantuan being.
+
+The lurker rushes away from her, joining many others nearby, but what catches her interest is a black figure with entirely red eyes. Its shape is that of a sickly thin human body with no defining details other than its pure blackness.
+
+The text over its head identifies it as a Dhampir Lord.
+
+Though it has no mouth, the Dhampir speaks. "Ahh, I thought my last death was unfortunate, but this very much compensates for it. Indeed, the Great One has delivered a royal gift to me!"
+
+The surrounding lurkers don’t move while the Dhampir laughs maniacally. Nyssa watches him calmly and wordlessly.
+
+Looking at her with hunger in his eyes, the Dhampir speaks, "I still remember the smell of your delicious blood when you entered the first floor for the first time. I smelled it all the way from here! Oh, how much I regretted being unable to get to you before you made your way deeper into the Dungeon!"
+
+In a show of incredible speed, he appears behind her, but Nyssa doesn’t flinch even as he looms at her back. Despite his speed, her pale red eyes easily tracked his movement.
+
+"Are you scared of me? Has your fear immobilized you?" the Dhampir asks, moving a stray lock of her black hair to reveal her slim, pale neck.
+
+"I am not scared," Nyssa says, then asks, "You want my blood?"
+
+"Ah, yes, your blood... so vibrant. At once so lethal and yet still so full of life. The blood of the Great One is magnificent, of course, but as he is yet to be revived by my hand, his essence lacks a certain richness of flavor." The Dhampir chuckles, and on the featureless black void of his face, a mouth tears open to reveal two long, gleaming white fangs.
+
+Nyssa thinks for a moment before she turns her head to face him. A tiny, hopeful smile appears on her face. "Take it, then."
+
+With the same incredibly fast movement, the Dhampir buries his fangs in her neck, drinking deeply of her Primordial Blood without wasting so much as a drop. And the albino demon doesn’t even try to stop him.
+
+After only a few seconds, the Dhampir stops and takes a step back, the shape of his mouth curving into a full crescent. "It is so much better than I thought. Such power and-" He pauses and takes a deep breath, his red eyes widening and his tongue flickering as he licks his fangs. "Oh yes, it packs a punch-"
+
+He doesn’t get to finish as he bends over and projectile vomits for several seconds.
+
+"What, not aga-" He doesn’t get to finish the sentence and vomits once again, a long stream that mixes blood with remnants of his breaking body.
+
+Affected by his pain, the closest lurkers twist and collapse as well, spasming on the ground while Nyssa watches him sadly and says, "I’m sorry."
+
+"Don't be ridi-" Another groan of pain and more projectile vomiting follows until he fully collapses and stops moving.
+
+Watching this, Nyssa checks her notifications and waves them away, moving slowly across the cave to kill the lurkers still twitching on the ground. After that, she leaves to continue her trip to the surface.
+
+Taking all the shortcuts she can, using arrays and guild resources to access them, she reaches the portal and moves to the surface of Beyond.
+
+She checks a compass-like item meant to lead her to the coordinates given by her handler and closes it once she finds she’s in the right place. No monsters attack her during that time, and it doesn’t take long for the people she is waiting for to appear.
+
+Calmly, she takes off her jacket and folds it neatly to place it on a boulder, which she dusts off carefully. She rolls up her pants to reach over her knees and then clumsily jumps on one foot as she takes off her shoes and socks, which she also carefully folds and places near her jacket.
+
+Nyssa moves several steps away, and once she is sure the dust from her launch won't dirty her shoes, she lets her kinetic energy explode and flies toward the five signatures in the distance.

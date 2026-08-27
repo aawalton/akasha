@@ -1,0 +1,149 @@
+---
+id: ef54ce18-d97e-5a2e-9e9c-bbd2c6eb840e
+page-type-slug: story-chapter-royal-road
+title: "304. And So, It Ends"
+slug: 0304-304-and-so-it-ends
+partOf: god-of-trash
+position: 304
+ownLength: 2082
+unit: words
+publishedAt: 2026-04-24
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3314568/304-and-so-it-ends"
+royalRoadId: "3314568"
+---
+
+Rhys watched as Bast and Virgil battled back and forth. Bast clearly had the upper hand in technique and sword skill, but Virgil had the advantage in tier and raw power. Virgil hopped back and raised his hand, throwing a fireball at Bast, and Bast cut it out of the air. He charged in, whirling his sword, closing the distance faster than Virgil could compensate for.
+
+Overhead, the marks faded from the generals. Their attacks on the Weapons slowed, and they started to retreat… for the most part, anyways. Sid and a very large, brutal-looking man continued to battle, lost in their individual bloodlust. Illya Traje and her team, freed of their marks, immediately tried to corner Straw, only for Soma to charge in and battle them back, a big, amused smile on his face. The army milled about, a little confused; some soldiers continued to fight, while others backed away or simply gave up.
+
+Rhys watched over all of it, making sure no one made any money moves that he didn’t like. It was one-sided and tyrannical, sure, but hey! He'd been getting one-sidedly reamed by the Alliance for a while now. Turnabout was fair play, right? Everyone got their turn on top eventually. He only let the Illya Traje/Soma battle continue because Soma was handedly winning and enjoying himself at the same time; otherwise, he would’ve shut down such a transparent attempt to re-contain Straw. He’d just gotten the man out of containment, for goodness’ sakes. If Straw was an SCP, his entry would say something like “instantly contained again, impossible to release.”
+
+Wild how a misunderstanding of secure copy protocol went so far, huh.
+
+The battle was kind of falling apart, honestly. It had split into a dozen spars between interested parties that wasn’t even split along the initial lines anymore. Aside from the Bast-Virgil battle and Traje-Straw conflict, there was Sid, who was indiscriminately taking on all comers, a pair of men Rhys didn’t recognize who were duking it out with all the intensity of a hero-rival battle at the end of the first serious arc, a few lovers’ spats, a woman who seemed to be one-sidedly beating down anyone who got within ten feet of her, and Sable, who was… well, more or less doing the same as that previous woman. The two of them were sort-of orbiting one another, and he got distracted watching them slowly approach one another with the random inevitability as the screensaver logo hitting the exact corner of the monitor. Come on… come on! A little closer! You can do it!
+
+The two finally entered one another’s spheres of destruction. The two women locked eyes, then dashed toward one another. In a split second, they clashed, sparks flying as the first woman’s sword danced, easily matched by Sable’s spidery bone limbs and tail. Sable, on the other hand, struggled to get a hit in past the woman’s sword and formidable armor. He leaned back and forth to keep an eye on the struggle, his body still facing Bast and Virgil’s fight, but his eyes and mind elsewhere.
+
+“This not interesting enough for you?” Bast joked.
+
+“Hey, man. What can I say? There’s infinite more titties in that direction,” Rhys replied with a laugh. Though, if he was being entirely honest? Bast and Virgil’s fight just wasn’t that interesting. Bast had the upper hand, but not so much that he was dominating the battle, and so it was just dragging out, with Virgil doing everything he could to prolong it and make it last longer, while Bast just didn’t have that je ne sais quoi to finish it out.
+
+It was the difference between watching a close sports match where all the sparks were flying and the two teams were right at the wire, where either team could win with the right play, and a slow, grinding sports match where one team was clearly going to win, but the whole game still had to play out for the inevitable victory to occur.
+
+“I’m working my ass off over here, and you’re—” Bast dodged a slash, “—enjoying the view?”
+
+“Hey, if you want me to step in, just say the word. Then we can both enjoy the view.”
+
+Bast grunted, pressing the attack with a series of heavy slashes. Virgil was forced back, but couldn’t move quite fast enough. One of the slashes drew blood, staining the arm of his fine robes. “No. He’s mine.”
+
+“Yeah, I figured.”
+
+Virgil scowled. “You arrogant fool. You think you can merely stand back and enjoy the view? You—”
+
+Rhys extended his Tier 5 aura, using just enough that Virgil felt the oppressive weight without absolutely crushing the man to the ground. “Shut up. The Sword Saint is dead. Without your puppet, you’re nothing but a shadow. No one was ever afraid of you, idiot.”
+
+Virgil grimaced, bowing slightly under the weight of Rhys’s aura, and failed to dodge one of Bast’s attacks. Once again, blood ran down his robes. He no longer looked pompously regal. His purple robes were no longer resplendent, but stained with blood, his hair loose and falling around his face, his eyes wild. He was being pushed to his limit, and he was failing, and he knew it. No… it was the end all of Rhys’s opponents faced. They opened their eyes and realized they’d already lost, then had nowhere to go but down.
+
+Rhys snorted. It was all well and good to feel pleased with himself, but the inevitability of his victory was a carefully crafted illusion in of itself. There were ways to break out, escape routes Virgil could’ve taken, counterplays he could have made and weapons he wasn’t using correctly. Virgil was an anti-impurities specialist, to give an example; many of his long-term storage units or prisons were built to counter impurities, thanks to Soma. If he’d been a fighter, too, and able to use his anti-impurity techniques in combat with great precision, Rhys would’ve faced a much more uphill battle.
+
+No, his plan wasn’t perfect. But those were just things to correct for next time, to build a more and more perfect trap, until eventually, there truly wasn’t any way out of the box.
+
+The battle wore on. Soma beat back Illya Traje’s team, and she and her men retreated wholesale from the fight. Sable defeated her opponent and went back to ranging randomly. Sid continued to rampage wildly, punching, biting, and kicking anything that wandered within arm’s reach. People were slowly starting to clear out around him, whether from experience, being defeated, or simply noticing the bad vibes. Most of the groups whose generals had been freed had withdrawn from battle, either by teleport or by simply walking away. The only serious fight still continuing was Bast’s.
+
+After all, from the beginning, he’d never been battling the Alliance. He’d only been battling Virgil, which meant that as soon as Virgil was disabled, the battle was over.
+
+Soma walked up beside Rhys, trailing the faint form of Straw. “Things going well?”
+
+“Yes. It shouldn’t be much longer.”
+
+Soma nodded, looking around, then tipped his head to Rhys. “Well, I don’t get my kicks from beating people up quite the same way Sid does, so if you don’t mind, I’m off to get some kicks another way.”
+
+“I do, actually. Could you stick around for just a little while longer? Until Bast wins,” Rhys requested.
+
+Soma raised his brows. “Is there going to be a victory orgy, or…? ‘Cuz I’ll stick around for that, but I have to confess, darling, I have a busy schedule.”
+
+“Not quite.” Rhys looked him in the eyes. “Please, Soma. It’s important.”
+
+Soma sighed. “Well, if the savior of the Alliance is begging me like that, then what can I say? I guess I’ll just have to wait around and let the anticipation build.”
+
+“Savior of the Alliance?” Rhys scoffed.
+
+“Hmph. And if they don’t accept it, I’ll spread it among the girlies until they have no choice. Don’t underestimate the girlies, Rhys.”
+
+Rhys chuckled. “You’re too kind, Soma.”
+
+“Keep going, it’s good for me.”
+
+Rhys turned to the faint outline that was Straw. “You too, Straw… though I won’t keep you if you need to rest. You’ve been in bad shape for a long time now. I don’t know how close you are to death, but it doesn’t look good from here.”
+
+Soma glanced over, then nodded. “He’s… more or less fine. I don’t know how much you know about Straw’s physique, but his straw doll form is more analogous to a difficult technique he likes to use at all times rather than his body. This is a weak state for him, but it’s not as if his life is in danger.”
+
+“Ohhh. So he isn’t using kaioken times ten right now, but he’s still a perfectly healthy human…er, saiyan being, except for that one season where he had a heart attack.” Rhys added the last bit at a mutter.
+
+“I’m don’t know what any of that meant, but sure.”
+
+“That’s the right reaction.” Rhys looked over at Bast. “How’s it going, champ?”
+
+“You know, I really expected this to feel more tense and exciting,” Bast replied, panting heavily. He kicked Virgil, who hopped back and countered with some kind of mana pulse, only for Bast to cut it down with a wave of sword energy.
+
+“Yeah, well. Things don’t tend to go the way people expect around me.”
+
+“I’ve noticed.”
+
+“It’s still pretty—” he charged, forcing Virgil back with a flurry of sword strikes, “—cathartic, though.”
+
+“Looks it.”
+
+“You need a bite?”
+
+“Nah, I already mind-fucked him. Mind… mind-crushed,” he quickly amended, casting a side glance at Soma.
+
+“Nothing feels quite as refreshing as a good mind fuck, but I think I can still provide an improvement to an interested party,” Soma offered, with a sly glance at Rhys.
+
+“If I encounter one, I’ll send them your way,” Rhys promised, tipping Soma a salute.
+
+Bast snorted. “Your friend is funny.”
+
+“I’m more than a friend to a handsome fellow like you,” Soma purred.
+
+Rhys sighed. “Bast, ignore him. He’s like this with everyone.” And then he paused. “You two never encountered one another on the job?”
+
+Soma shrugged. “Virgil didn’t like letting me around the boys, for some reason. Or the girls. Or anyone, really.”
+
+“I wonder why,” Rhys deadpanned.
+
+“Too handsome, I suppose.” Soma sighed, resting his cheek on his hand.
+
+“Oh, was that it?” Virgil snarled.
+
+“Dictator says what?” Rhys countered instantly. He nodded at Bast. “Come on, man. Quit playing with your food.”
+
+Virgil laughed. “As if! The child lacks the power to overcome—”
+
+Bast darted forward, moving faster than Rhys had seen him move this whole time. Virgil’s head went flying. Blood spilled, trailing down his robes and pooling on the floor.
+
+Rhys swallowed, not sure whether to be terrified or excited. Holy shit, I’m officially the baddie now. That’s a top-ten-baddie-line everyone wants to say, but it’s sure not a goodie line. If he’d just ignored it, it’d be whatever, but he fuckin’… just… went execution style on Virgil, huh? I’m the fuckin’ demon king now, hoooo-leeeee.
+
+Slicing the blood off his sword, Bast nodded at Rhys. “As you like.”
+
+“Hot damn, Bast. You scare me sometimes, bro.”
+
+Bast grinned. “It can’t all be the other way around, you know?”
+
+“What… I scare you?”
+
+Bast’s expression turned serious. He rested a hand on Rhys’s shoulder. “Constantly.”
+
+“Uh… sorry?”
+
+“Don’t worry about it. So, what’s the big gathering for? Straw, this guy Soma…?”
+
+Rhys turned. “We should get Sid over here… Hey, Sid!”
+
+Sid didn’t so much as indicate he’d heard Rhys, he was so engrossed in ripping another man’s entrails out. The man’s screams echoed across the battlefield, and Sid’s bright smile only grew brighter as more blood splattered over his face.
+
+Rhys froze, startled into stillness. I take it all back. It’s not a joke. I really am the demon king, and the Remnant Weapons and Bast are my four demon generals. I am the bad guy. It’s me, no question.
+
+Soma gently turned Rhys away. “Sweetie, it’s not nice to stare without consent, hmm? We can fill him in on the details later. So, tell us. What’s so important you needed all of us here for?”
+
+“Right.” Rhys clapped his cheeks, trying to dismiss the image from his brain. “So, listen. I just wanted to ask a small favor of you guys, if you don’t mind.”

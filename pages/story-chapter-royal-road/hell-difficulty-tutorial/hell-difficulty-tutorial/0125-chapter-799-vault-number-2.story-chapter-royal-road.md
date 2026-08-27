@@ -1,0 +1,131 @@
+---
+id: 1c0e3756-7107-554e-ab2f-cd76103c47f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 799 - Vault number 2"
+slug: 0125-chapter-799-vault-number-2
+partOf: hell-difficulty-tutorial
+position: 125
+ownLength: 2173
+unit: words
+publishedAt: 2026-05-06
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3364086/chapter-799-vault-number-2"
+royalRoadId: "3364086"
+---
+
+It seems we need to hurry even more than I’d expected.
+
+“Izzy, who is the most important person here?” I ask, fully dropping my act and speaking the question aloud. A few people turn toward me, but Izzy seems to understand.
+
+“Bowen,” she says.
+
+I nod and take a step. I’ve been testing it, but for the time being it’s somewhat difficult to materialize and control mana outside of my body. Some things, like detection or others that don’t require much in the way of mana, are possible, but others are nearly impossible. I still think I could do it if I tried, but there is a quicker way.
+
+Right under the eyes of the people down here, I cut my hand deeply on the decorative brooch I’m wearing, and my blood floods out in strong pulses. My blood full of hyper condensed mana.
+
+Under my will, it shoots forth, elongating into the shape of a nail and piercing the head of one of the feyliths I consider the most dangerous out of the group.
+
+They shout, with nobles pushing to escape behind them and even some feyliths scrambling to do so. Two of them, though, step ahead, moving quickly with clearly powerful bodies.
+
+My kinetic energy takes me to the side and then back in a confusing set of movements. My blood shoots at the man’s head as he dodges, just before I bury the dagger I’m holding in my left hand in his chest. That dagger is made of wood grown from my fragment. It continues to grow quickly and pierces through the man’s chest from the inside as I let go of the handle and kick him away.
+
+Another man reaches my side, but Izzy’s flames blaze just for a moment before they can be disrupted and melt off half of his face. Even then, the feylith targets me with determination. His fist crashes against my chest, but I absorb all that kinetic energy within my body.
+
+More blood drips from my cut hand, and a nail stabs through his chest where his heart beats. Strengthening my body with kinetic energy, I throw him against the wall, causing his bones to audibly crack.
+
+Another blast of Izzy’s fragment blazes, setting the man entirely on fire and quickly reducing him to a simple skeleton with bits of flesh falling to the ground.
+
+Ignoring the twitching body of the man from whose chest cavity a small tree begins to grow, I boost my body to follow the people who ran away and swiftly kill all of them while ignoring all they have to say. Even as I reach Bowen, my mind is using my fragment as a node as I begin to set up a way to teleport to one of the marks I left outside, hopefully even through the defensive walls and arrays they’ve set down here.
+
+“Where is the egg? Your auction house would have gotten it not long ago.” I ask as I come to a stop in front of Bowen, who, with entirely green hair and eyes, tries to push away from me. Behind his back, there’s something like prison bars set over rows and rows of smaller rooms, each with its own doors.
+
+“What?! I... I don’t know! What are you doing? Do you even know...”
+
+“Izzy?”
+
+“He’s lying.”
+
+With my body strengthened with kinetic energy, I grab and twist his arm to break it fully. “The egg,” I repeat.
+
+He shouts in pain, grasping the bars, but only a part of me watches that. The other communicates with Biscuit, another forms the dripping blood from my hand into the shape of a dagger, I make as sharp as possible, and the last uses the Nameless Tree to continue to set up a way to teleport us out.
+
+“V-vault number 2,” the feylith finally gets out with a groan.
+
+“Izzy?”
+
+“He’s not lying.”
+
+I nod and grab him by the back of the neck, pulling him with me as we make our way past the vaults and walk through the hallway lit only by a glowing orb, which Izzy now holds. At the end of it, we find Biscuit and Noodle. Both of them have been stopped by what seems like a block of metal, into which they were able to make deep carvings, but still failed to break through.
+
+“Is it behind there?” I ask Bowen.
+
+“Y... yes! Please... my arm.”
+
+“Open the door,” I order him.
+
+In reaction to that, he almost sobs. “I can’t... no one can.”
+
+“It’s true,” Izzy confirms.
+
+I look at him. I had hoped he would be able to, or that someone down here would. I don't think the implants the employees have can open it alone. Each implant is tied to their living signatures and doesn't seem to work when extracted. At least that’s what I’ve come to suspect after observing them, and it’s also what makes the most sense. Maybe the man with the white brooch would’ve been able to. Or maybe he truly could not. But it’s too late for that now.
+
+I swing the dagger in my hand, separating his head from his body, and take a step toward the metal plate.
+
+My blood is filled with so much mana that I can partially affect the way it moves. Right now, I force it out of my body, it flows out of the cut in my hand, flowing down the dagger I’ve already made and extending the blade. I make it long, thin, and as sharp as possible. There are two skills that are good for that, which I can still use to an extent, even within the field being generated down here.
+
+[Manifestation - lvl 40 > Manifestation - lvl 41]
+
+[Manifestation - lvl 41 > Manifestation - lvl 42]
+
+[Ley Line - lvl 74 > Ley Line - lvl 75]
+
+After all of that, I feel lightheaded. Since my body upgrade and my new trait, I’ve been noticing that my healing passive isn't as effective as it used to be. I’m beginning to think that even if I bought a more powerful one, it wouldn't change much. It’s just that, right now, my blood is nearly impossible for a normal healer to restore, and my body is likely taking on a similar quality. Lily can still do it, but she’s far from what I’d consider to be a normal healer.
+
+But it doesn't matter now. It’s a problem for the future, and one I expected.
+
+I reach back and stab the long, slim sword into the metal plate. It goes through like the wall is made of sand. All the defensive arrays fail to disrupt it, and the same goes for the field. Moving the sword down, I put my weight into it and begin to cut a circular hole large enough for us to pass through. Even though it seems like it should be easy, it isn't. It takes the effort of my body, strengthened by mana and kinetic energy, to pull it off.
+
+Sweat begins to bead on my forehead just as I finish and pull the sword back. Lightheadedness catches me again.
+
+I don’t even have to ask. Biscuit expands in size and rams himself against the shape, pressing his head against it and making it slide in. It likely weighs multiple tons, but the corgi just continues, jumping, pushing, and using his paws, not caring for the damage it causes.
+
+Eventually, with a long ringing noise, the metal cutout falls free and slams into the ground on the other side with a heavy thud. It doesn’t even bounce, it just slams against the floor and stays there as if it were welded in place.
+
+We climb inside, finding the field even more powerful here. We find ourselves in a circular room with five doors, each marked with numbers and each with what looks to be prison bars over them. Every one of these doors is very different.
+
+One is pitch black and made of wood. Another is made of glass with some unknown liquid inside. Then there’s a set of red doors that have been polished to an extremely smooth surface. The fourth is made from a myriad arrangement of small scales. The door to vault number two is wooden, with inscriptions inlaid into it with metal wire.
+
+My sword cuts through the bars and then through the door while Biscuit’s primordial energy surrounds me as he turns into a puppy and jumps up on my shoulder. Hanging there by his front paws, he devours every defensive attack thrown my way while I work. A constant barrage of them continues to shoot towards me, and at some point, they cause the lighting orb Izzy holds to crack, leaving us in pitch-black darkness.
+
+Just as I finish cutting through, another earthquake shakes the entire structure. In the distance, I hear a wall cracking, and part of the field suppressing mana, set in place by the Champion, weakens for a moment.
+
+The door I’ve been cutting through falls with a sound that suggests it’s much heavier than it should be, revealing a small room with multiple showcases. In the center, there is one containing an egg about as big as my head. It is almost unassuming, though it is covered in what looks to be scales.
+
+I cut the showcase, grab the egg, and throw it to Noodle, who expands in size and eats it. Even after holding it just for a moment, my hands feel numb, but I do the same with multiple other cases, grabbing all the items I can and throwing them to the white snake.
+
+Biscuit pulls several large chests from the room, and the snake eats them too. Only once everything from this vault is gone do we head out.
+
+I almost move toward another vault when the next earthquake shakes us, and the field cracks further. I notice scans washing over us and sense the signatures of people high above heading down. A number of them are exceeding me in strength.
+
+“We are leaving,” I say.
+
+Noodle shrinks in size and climbs into Izzy’s sleeve, though he does so much slower than usual. Biscuit follows, and I pick him up.
+
+I force mana from inside my body. Now, even through the cracked field, I manage to pull out enough to compress it until it turns pitch black. I pull it into three pieces. The first one I leave in the room with the five vaults. As we climb through the hole, I leave one just outside. Then the last one I throw into the hallway, where most of the bodies are.
+
+All of the orbs begin to devour any bits of mana that remain in the air, just as we reach the Nameless Tree, which has grown to a size where it is pressing against the ceiling. At its roots, the torn pieces of the body of the feylith still remain.
+
+Before I teleport us out, Izzy lets a flame orb drop from her hands, and it crashes onto the ground. Pouring through the space like a liquid, it begins to spread through the flooring, burning anything it reaches that isn't able to resist and continuously growing stronger with the weakening of the field.
+
+All of us teleport along with the fragment, which I pull with us at the last moment. We appear next to Tess, who’s been wearing one of my marks this whole time.
+
+We are still on the streets of Hadon, though they look very different now. Many of the buildings have crumbled to the ground, the streets are cracked, and people carrying all they can are moving to run away. There’s also quite a bit of looting going on as well. The earthquakes continue to strike from outside the city, and the sky, as far as I can see, is blood red with a sickening amount of mana radiation I can feel coming from the west.
+
+Tess doesn’t even seem surprised by our appearance at her side. "I thought you would use the mark you placed on me. Is everyone okay?"
+
+"Yes," I confirm, still taking in the area. Maybe I didn't even need to bother clearing our tracks back there.
+
+"The egg is with you, I guess. If you check the status, the three day counter has already started." Even as she talks, she doesn't stop, and we follow behind her. "We’ll be taking one of the airships. They told Min-Jae they’re going to be leaving immediately and offered him a spot, so he is there already and sharing info with us. We’ll be using Lily to get the rest of us onto the deck."
+
+"Sounds like a plan," I agree.
+
+Tess doesn’t seem too happy. "Likely the best option we have at the moment. We need to get as far away from here as possible. Let’s hurry then. I already let the others know you’re safe, but we will need the twins or Soph to add you into the link."

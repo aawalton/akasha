@@ -1,0 +1,75 @@
+---
+id: e0ca2fc6-f9a3-595a-98d4-f96279c4650f
+page-type-slug: story-chapter-royal-road
+title: "142. Going on the Offensive"
+slug: 0142-142-going-on-the-offensive
+partOf: god-of-trash
+position: 142
+ownLength: 2278
+unit: words
+publishedAt: 2025-07-26
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2468835/142-going-on-the-offensive"
+royalRoadId: "2468835"
+---
+
+The more he watched, the more he understood. Less is More could reach outside of his body, but not far; only a five-foot radius or so, at best. He couldn’t target its abilities; in other words, he couldn’t make the impurities worse without making the potion better an equal amount. On the other hand, he could push more mana into the skill to make it activate more strongly, though Less is More was always kind of funky with receiving more of anything, and at the end of the day, he wasn’t sure if he’d actually activated it more strongly by giving it more mana, or if it was simply that the mage in question had sipped it more gently, meaning that Less is More had activated stronger as a result, and the mana he’d input was meaningless. A little voice in his mind whispered, that one’s probably more correct.
+
+Still, he could rein it in or even turn it off entirely. Not for himself, but for the outside his body effect. He didn’t have to go around making sure he only used a little bit of poison on someone for it to be most effective, but if he only had a little poison, he could turn it on to make it more effective. It was a somewhat irrelevant ability, since he could also take a single step back and remove his target from the skill’s pitiful external range, but it was worth noting anyways. Better to know the limitations of his skill than to be in the dark.
+
+Though, now that he was thinking about it, Less is More was both his first skill, and the skill he knew the least about. For the most part, it was intuitive; the less he took of something, the more effect it had. But what did it mean? What were its limits? How did it play into trash? These were all things he hadn’t really investigated.
+
+Rhys pinched his chin. He’d been too busy using it to survive to investigate it thoroughly at first. Later on, he’d focused more on his trash aspects and other parts of his path, and neglected his first skill. Sure, it still came in handy every now and again, but it was a minor passive buff, the kind easily disregarded in any game system.
+
+Is there something more to it? It was his first skill. In a certain way, if he allowed a tiny amount of religious fervor to settle over him, he could see it as absolutexistance’s only hint, though a part of him considered that absolutely ridiculous. It was equally likely that it was simply a random skill he’d gathered thanks to licking up drops of potion, and it being his first was because he’d been acting strange, not because it was some kind of cosmic hint. Was it vitally important, or the result of fucking around and finding out—finding out a positive thing, for once?
+
+Given my tendencies… more likely the latter than the former. A god wouldn’t give trash like him a special ultimate skill. Cheat skills were the property of heroes, not talentless trash. Bast probably had one, but him? Nah. Less is More was just some trash skill, but it was a nice trash skill, and he was proud of it for being wonderful, useful, delicious trash. Still, it never hurt to learn more about trash. He’d certainly never hesitated to dive into a big, steaming pile of trash, literal or literary. Why stop now?
+
+He was running low on coffee when a quiet ping of mana caught his attention. The first haggard mage he’d served was still lingering around, perhaps seeking another sip like his first hit. Rhys handed the guy the rest of the vat and ran. “Give it to the fry shop when you’re done.”
+
+The haggard man blinked after Rhys. He stared after Rhys for a long second with his dead eyes, then slowly raised the vat to his lips and slurped.
+
+Rhys ran through the streets. Like the trash skill it was, Trash Step activated intermittently, surging him ahead when he stepped on uneven ground or ran past a pile of trash. Rhys appeared to race ahead smoothly, then stutter back to an ordinary run every time the footing changed. He was used to it, but to the outside eye, it appeared as if his movement technique were fragile, and only worked occasionally. Not that Rhys minded; better if people thought he was a weak mage with a pathetic, semi-operational movement skill, rather than a Tier 3 mage. For all that, he made it back to the shop in record speed, rushing inside to throw himself down the trap door, then sprint all out in the trashy dirt footing to close in on the battle. He could already hear it, the distinctive sound of steel on bone resonating down the tunnel. The muddy footing told him Lira was down in the tunnel, too, and yet they’d still called for his help. Whoever they were fighting, had to be quite powerful. Was the next sibling that much of a jump in power? Or was it that more than one had showed up this time?
+
+They had already killed two siblings, after all. If it was Rhys’s battle, he’d send two next time, if only so one could escape and tell everyone where all their fighters were vanishing off to. Of course, he had no intention of letting anyone escape… but it was how he’d play it, if he were on the offensive side of this battle.
+
+A white blur rushed toward him, hurtling down the tunnel. Rhys reached out his arms and snatched Lira out of the air, catching her in a sodden lump. In his mind’s eye, she swooned in his arms, touched his chin, and desperately gasped for help… but in real life, she did a flip turn and kicked off of him, directly back into battle. Rhys blinked, watching her go. She spun around the corner in a column of water, and the sound of fierce battling came from the other side.
+
+“You’re welcome…?”
+
+Shaking his head, he ran after her, drawing his broken sword as he ran. He turned the corner and found a melee. Dozens of underlings, far more than ever before, poured down the tunnel, pushing even Sable with her extra limbs to the limit. Lira assisted with crowd control, sending columns of water hurtling into the underlings to push them back. Honestly, the two of them struggled, but they held the line.
+
+The problem was the stronger mages, the two men who had the same kind of face as Logan and Lloyd. One was slender, with a narrow chin and thin shoulders, while the other had broad shoulders and huge muscles, plus a squared chin, but the rest of their faces were very similar. The muscular one stood at the front of the mess of underlings, hammering at Sable’s limbs at this very moment, while the slender one stood at the back, waving a fan that emitted strange light. Every time it emitted a new light, the underlings changed, whether they grew stronger, weaker, enraged, or calm. They moved with unusual coordination for a mob of criminals, too, as if someone were controlling them with a fan that emitted multicolored light.
+
+Rhys snorted. He charged toward the battle, and the muscular man shoved away from Sable and barreled toward him. A mad grin stretched across his face. “You look strong!”
+
+Rhys hopped the man’s bear hug, leaving a handprint of impurities on the man’s shoulder in return. The big guy stumbled, and Rhys hopped over the underlings to close in on the slender man with the fan. The slender man widened his eyes and jumped back, lifting the fan high. As he waved it, sending a beam of light hurtling at Rhys, he shouted, “Larry, you fool! You’re supposed to keep him pinned down!”
+
+“He’s too fast, Leonard!” Larry shouted back.
+
+“Your family had a theme, huh,” Rhys muttered. One was meaningless, two was a theme, three was a pattern and four was an obsession. It was strange how their family had known these siblings would all be taking the L, but hey, Rhys had to respect the hustle. At least they knew what they were about, and he certainly couldn’t agree more that they were all big Ls.
+
+He ducked, but Leonard shifted his fan lazily, and the beam fell on him. Instantly, rage filled Rhys’s heart. He wanted nothing more than to beat Larry’s face in—with his bare hands, if possible. So he rushed forward, and punched Leonard in the face.
+
+Leonard staggered back, clutching a broken, bleeding nose. “W-why? The spell affected you!”
+
+“The fastest way to fight him is to beat you first,” Rhys told him, closing the distance and hooking a leg behind Leonard’s. Leonard stumbled, and Rhys swept his feet. The skinny man hit the ground hard, but clung onto the fan.
+
+Rhys chased him down, tossing the sword aside to beat the man with his bare fists. Leonard smacked him with the fan, and the rage left him, replaced with a serene calm. In his calmer state, Rhys realized two things: one, that Leonard was not very strong on his own, and two, that the man was a bit of a coward, crying through his broken nose even now, and that he’d probably break pretty easily if he threatened violence. Instead of continuing to beat the man, he jumped up and instantly kicked the man’s hand, kicking and stomping until Leonard released the fan. He kicked the fan across the tunnel. Leonard whirled and threw himself after the fan, only for Rhys to make a grabbing gesture. As Leonard reached out, two bony hands pushed through the earth to form a cage of bone around him. He threw himself against the bars of the bones, reaching as far as he could. His fingertips scraped the fan.
+
+Rhys picked the fan up. He wafted it a bit, fanning himself, then turned to face Larry, who was still facing off against Sable while Lira played crowd control. He waved the fan, willing it to weaken Larry. A beam of dark purple light shot out and fell on Larry.
+
+Instantly, Rhys felt a strong pull on his mana. He raised his brows, shocked at how much mana the tool took. Did Leonard have a huge mana pool, or was his talent with tools just that bad, that he had to use serious quantities of mana to keep up the skill? Either way, it wasn’t something he could casually use the way Leonard did.
+
+On the other side of the room, Larry stumbled as he suddenly weakened. Sable instantly crawled over him, climbing up his chest and onto his back with her blade-tipped limbs. With each step, her limbs plunged into his flesh, leaving bloody wounds behind. Larry reached for her, but sluggishly, unable to keep up with her quick movements now that Rhys had weakened him. Sable’s tail darted forth a dozen times, stabbing his thick back over and over. Purple fluid leaked out behind it, and his body instantly began to shrivel from the poison in her tail. Lira blasted all the unempowered underlings with water, knocking them to the ground.
+
+Larry roared. He reached over his shoulder and threw Sable off, tossing her into the wall. She struck with a meaty thump and tumbled to the ground. His body swelled, changing shape. Fur pushed out of his skin, he leaned forward, and his muscles bulged further, threaded with thick veins. He charged like a gorilla, running on his knuckles, and pushed directly through his underlings, sending them flying. Rhys barely had time to look up before a monstrous wall of flesh closed in on him, thu-thu-thumping over the wet ground.
+
+Oh, shit! He threw himself back and away, but he wasn’t fast enough to completely dodge. Larry ducked his shoulder and smashed Rhys into the wall, pinning him there with his muscular body. Blow Mitigation took some of the hit, but not enough. Pain slammed through Rhys, and he felt the sickening sensation of at least one broken bone. His vision flickered, and only Trash Body activating kept him awake. The gorillaified Larry roared in his face, opening his mouth wide.
+
+Rhys giggled. “Oh no, you squeezed the burps out of me.” He spat a ball of compressed trash gas directly into Larry’s roaring mouth.
+
+Larry pulled back his arm, ignoring Rhys—then gagged. He staggered backward, clutching his throat. His eyes widened, and he opened his mouth, trying to scream, only to find that his throat was already melting away. Down into the lungs, the heart, the chest cavity; Rhys could trace the corrosive gas as it passed through Larry’s body by the strong lump of impurities within it. Larry gagged a few more times, then fell back, no longer moving.
+
+Rhys stumbled over, giving Larry a kick. He turned toward the rest of the fight, barely staying on his feet. His mana was low from the fan, and now he was badly injured, thanks to Larry. His whole body wanted to sleep and rejuvenate. Even now, he was only standing thanks to Trash Body. He could feel a bone grinding in his leg, but somehow he could stand on it; at Tier 3, Trash Body was truly an impressive skill. The underlings stared in abject horror at Rhys, who’d just beaten their two bosses and looked like a zombie, yet still stood, while Lira and Sable just stared.
+
+“Make sure you don’t let Leonard get away,” Rhys told them, and passed out.

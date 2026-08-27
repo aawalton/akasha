@@ -1,0 +1,277 @@
+---
+id: 9b18d7f7-f4d3-59fd-9f09-cd3a692f6390
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53"
+slug: 0053-chapter-53
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 53
+ownLength: 3113
+unit: words
+publishedAt: 2026-05-17
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3408747/chapter-53"
+royalRoadId: "3408747"
+---
+
+Chapter 53
+
+They moved on after the short break, Veron feeling a little lighter on his feet now. He no longer had his shield raised but felt ready for another fight.
+
+The next corridor didn’t offer one, and after they’d passed through a forking path, they came out into a far broader section of tunnel. The ceiling was arched as well, and the walls were made up of dark stone bricks. Faint torchlight added a dim gloomy hue to the surroundings. Water dripped from somewhere, the stone floor slick in places.
+
+Compared to the tunnels before, where two people could comfortably walk alongside one another, this one was a lot broader. On each side were slightly elevated platforms of stone, perhaps half a meter high. The center looked like some kind of canal, though there was no water flowing. It was broad enough for their entire group to walk next to each other.
+
+Exactly like on the map. Of course it is, still cool to see it now.
+
+“To the right?” Veron asked to confirm.
+
+Isaac nodded.
+
+It didn’t smell great, but not like a sewer either. It was warmer too than in the corridors before. They followed the tunnel for a while, Veron recontextualizing the size of the dungeon in relation to the map. This section was just a small bit he had copied down, but it took them more than ten minutes to traverse. It ended in a broad stone stairwell leading down and into another tunnel that looked almost the same.
+
+This one had branching paths to the left and right. Arched and open doorways. One had a metal ladder leading down into darkness, the other had more stairs leading down.
+
+“We go straight forward?” Ailis asked.
+
+“Yes. The left branch leads to the B section, and the right one goes down. Deep, I think it ends somewhere in the F caverns,” Isaac said. “We’ve got quite a bit more ground to cover before we reach C14.”
+
+The next section of tunnel continued in a similar vein, though the ground became more slippery, and sloped slightly downwards and to the right. Torches burned every few hundred meters, illuminating a small section before they had to rely on their own light sources again.
+
+“Do you hear that?” Elke said after they had walked for a while.
+
+“Tapping?” Ailis asked.
+
+“It’s coming closer,” Isaac said.
+
+They stopped, Veron watching the torchlight some fifty meters ahead. Something moved, then more. Small and close to the floor.
+
+“Rats…” he murmured. Large ones, like the ones he’d fought with the Silver Wolves. There were a few at first, then more, dozens. And they had only one way to go. “Back up. Run.”
+
+When he turned around, he could see more of them there, spilling out from somewhere in the walls. “Shit.”
+
+“What do we do?” Ailis asked.
+
+“Try to get behind me, we move up while we fight, hope the ones up there aren’t as many.”
+
+The first ones reached the visibility of their torches, as large as small dogs. An arrow pierced one, a bolt another, then they were there.
+
+Veron swung his mace low, catching the first rat with stone biting into meat. It slid to a halt but there were three more there. He struck again, another arrow flying into the mass. Something hit his shin but he kept his cool, simply striking one rat after the other. He hoped the bodies would slow the others down. He struck more, then something bit into the back of his knee, where his armor didn’t cover him. He kicked out, then let go of his shield to grab the critter. He ripped it away and threw it aside, more of them jumping up at his legs.
+
+Veron swung his mace with one hand, grabbing a knife with his other as he staggered back, trying to get away from the moving swarm. He saw someone move in his peripheral vision, Elke stabbing down with her spear, running to the side with a swarm of rats following her.
+
+“There are too many!” Ailis called out from behind him.
+
+Veron struck another one, then stabbed a second. He kicked away at a third and then rushed towards Isaac and Ailis, the man waving his torch to keep the critters back while Ailis swung her hammer. More rats were coming from behind them and Veron joined.
+
+He kicked and swung his weapons, feeling the impacts in his arms and shoulders, another rat getting at his legs. He went down to one knee, swinging once before he let go of the mace. He grabbed another knife instead, letting the rats jump onto him before he stabbed. Some bit into his arms and legs, where his armor didn’t reach, but most of them failed against his rock. He rolled around to try and get out of the swarm, then stabbed more of them.
+
+His torch was gone, so he went towards Isaac and Ailis, both of them with rats clinging to their legs, more of them jumping up. He saw Elke joining his side, the woman stabbing her spear into the critters with quick and practiced stabs, killing them quickly.
+
+“I help Isaac!” he called out and sheathed his left dagger, kicking at the rats that moved between the corpses and their legs. He reached the man, grabbing a rat that had climbed his back, then stabbed it with his dagger. He took another one and killed it, then another. Veron grabbed a few of his projectiles and charged one, shooting it into a rat, another one into the next. Three more before he went back to stabbing.
+
+Isaac now had his knife out, the two of them standing back to back with Ailis joining them a moment later. They kicked at or stabbed the approaching rats, fewer now than before. And they watched Elke moving around them with quick steps, at the edge of the torchlight’s vision. She stabbed the critters one after the other while she stayed just ahead of them.
+
+The tide was slowing, more dead rats now littering the ground than living ones. When no rats were right there, Veron charged another rock, found a target, and shot it. Isaac had picked up his crossbow again and Elke joined them too, spear on her back as she shot at the rats with her bow.
+
+The remaining rats now skittered away from the group, leaving them standing around a single torch and surrounded by gray and black furred corpses.
+
+They were breathing hard, Veron back on one knee as the pain in his legs and arms made him grit his teeth.
+
+“Does anyone feel okay?” Ailis asked through grit teeth.
+
+“I’m fine,” Elke said.
+
+“Then you protect us while we extract and heal,” Ailis said.
+
+Veron grabbed the first rat he saw and shut its small eyes, touching its head as the smell of sweat and blood came to his nose. The torchlight seemed brighter and flickered. He was losing blood, the pain from the bite wounds dulled slightly as he extracted what remained of the creature’s essence. He moved on to the next one, and then the next, slowly growing more present again as the pain lessened.
+
+How many of them did we kill?
+
+There were dozens of corpses around them. He could see Ailis and Isaac saying prayers as they lined up the dead, the man with shaking hands and barely contained pain on his face.
+
+“Ailis, check on Isaac to make sure he doesn’t pass out,” Veron said.
+
+Elke stood between them with a torch held high, her spear in her other hand. Blood had marred her furs but she seemed calm and focused.
+
+“I’ll find my mace and torch, then you can get to extracting,” Veron said, extending his Earth Harmony to find his weapon and shield. The torch was still burning, lying between a few dead rats.
+
+Those things are massive. Good thing they can’t get through rock like those ravens.
+
+Or the cursed.
+
+Veron breathed deep a few times, grounded himself with his magic, and then refocused on the now.
+
+He set the torch back into the holder on his back, and went to the others. Ailis was now checking on Isaac.
+
+“How is he looking?”
+
+“A lot of bites that got through his leather. He lost quite a bit of blood. Extracting will do him more good than my healing.”
+
+“Good, then keep on extracting. Elke, gather the corpses and start your extracting too, you killed most of them.”
+
+The woman nodded and got to work, gathering the bodies before she started putting them to rest.
+
+It felt bizarre, the constant flashes of increased sensation. The growing heat and smells, only for the massive corridor to return to wet smells and slightly swaying torchlight.
+
+That could’ve been it, if not for my armor and Elke’s skill with the spear.
+
+Veron felt like he hadn’t underestimated the Crypts, but he hadn’t expected an onslaught of dozens of dog sized rats. Not out of nowhere.
+
+Should we have reacted differently? We could’ve maybe ran back, past the group above us, and into the pathway we passed, though we hadn’t checked it, so there could’ve been creatures in there too. And we would’ve had to fight and run our way through the group above.
+
+Had they triggered a trap somehow? Or was it just bad luck?
+
+“Feeling a little better?” he asked Isaac, the man now sitting down and drinking from his flask.
+
+“Yeah,” he said, though he was obviously shaken.
+
+“I’ll extract a few more too, then we switch again, Veron,” Ailis said.
+
+“Sure.”
+
+A calm now settled over the broad hallway, the group slowly working through the many rats they had killed, extracting every shred of essence they had to offer. It felt less like laying them to rest and more like an exchange. Essence for the blood they had taken.
+
+Veron felt fresh again after, at least physically. He had used more than half of his Focus in the fight and the experience had shaken him a little. They were a group of modest adventurers, and a single ambush like this almost wiped them out.
+
+“We should take a break and rest up, then discuss how we should proceed,” Veron said. “I think there should be a fork ahead with smaller tunnels.”
+
+“Yes, another hundred meters and to the left,” Isaac said.
+
+“The corpses will attract more,” Elke said. “We should move.”
+
+“Then let’s go,” Veron said, leading the group through the remaining section in the broad corridor and then to a wooden door on the left side of the tunnel. This one was locked. “This is our way. Anyone has a skill in lockpicking?”
+
+“I have a hammer,” Ailis said.
+
+Isaac shook his head, and Elke didn’t have another idea either.
+
+On the third hammer strike, the lock broke.
+
+Nothing rushed at them from the other side.
+
+It was quiet.
+
+Elke and Isaac had their bow and crossbow ready. Veron stood left of the door, and Ailis right behind him. “I go left, you go right, and you two wait for our signal.” He waited for them to confirm, feeling the weight of his shield and mace. Then he moved.
+
+“Go.” He opened the door and went in with his shield raised. Nothing waited for them, so he went in and then left. This room was broader. And empty. “Left side clear!”
+
+“Right side clear!” Ailis called out.
+
+“You can join us,” Veron said and looked around. The ceiling was lower here, the walls made of the same stone bricks. It was dry compared to the broad corridor outside, and a lot cooler.
+
+“Let’s close the door,” he said when the others had joined them. There was an exit just ahead. It was the way they had planned to take. A third exit was located on the left side of the room, a simple wooden door that remained shut.
+
+Torchlight swayed slightly as they gathered up in the small area, Isaac closing the door behind them as well as he could.
+
+“Food and water?” Veron asked, receiving a few nods in return. Ailis sat down and rested against a wall. He did the same, finally setting down his shield and mace. The latter was covered in blood and bits of rat, he now noticed. His pack had a few bite marks too, the leather torn in some places.
+
+He felt more on edge than at any point before in the Crypts, even when they had carried back the injured Silvie.
+
+That’s alright. It’ll take time. Eat and drink, he reminded himself.
+
+They ate and drank in silence, then slowly settled down.
+
+“Those were, a lot of rats,” Isaac said.
+
+“Never seen anything like it,” Ailis said. “Maybe we should avoid the big tunnels.”
+
+“I thought maybe we should’ve ran back the way we came,” Veron said.
+
+“Yeah, next time we make an instant run for it,” Isaac said. “I don’t want to end up with a dozen rats around me ever again.”
+
+Veron nodded, chewing some jerky before he swallowed. He looked at Elke. She leaned against the wall on the other side of the room. “You said you can fight some,” he said, seeing her look up. “That was more than some.”
+
+“Yeah,” Ailis said. “You danced around those rats with no issues. I could barely keep track of them.”
+
+“They weren’t very fast,” Elke said.
+
+“Well fought either way,” Veron said. “I’m glad you were there.”
+
+“Me too,” Isaac said.
+
+“Speaking of fighting some, you were stabbing them like a madman,” Ailis said with a snicker. “Rolling around on the floor.”
+
+“Well, what else should I have done?” Veron asked.
+
+“I’m not complaining,” Ailis said.
+
+The room returned to silence. Veron was still chewing.
+
+“So,” Veron said after he had closed his pack again. “Return back up, or onward to our target room? I’m fine with either.”
+
+“I’m okay going on,” Ailis said. “I don’t think we could’ve done a lot different with those rats.”
+
+“We can go on,” Elke said.
+
+“Isaac?” Veron asked.
+
+The man sat with his legs crossed and eyes closed. He whispered something and then opened his eyes. “Yes. We can continue. I really want to avoid more rats, but I think that’s my issue. Unrelated to that however, I just checked this room, and there is something hidden in here.”
+
+“Something?” Veron asked.
+
+“Treasure probably, or a trap,” Isaac said. “Though I don’t know where exactly.”
+
+“Right. We can search for a bit? Any idea what we’re looking for?” Veron asked.
+
+Isaac shook his head. “A loose brick maybe?”
+
+“A loose brick,” Ailis said and smiled. She stood up and stretched, then started checking the walls.
+
+The others did the same.
+
+“Hmm,” Veron murmured. “Your magic lets you check for hidden things?”
+
+“Yes, though it’s pretty vague, and takes some time to cast,” Isaac said. “I need to be reasonably calm to do it too. But maybe my Path and Way are just not high enough yet for more.”
+
+“That’s what we’re here to work on,” Ailis said.
+
+It didn’t take them long.
+
+“This one is loose,” Elke said, pointing to a brick.
+
+“Should I check? I have armor,” Veron said. “In case it’s a trap.”
+
+The others stepped aside before he went to the loose brick and raised his shield. He moved the brick with one of his knives, then pulled it out a little. Nothing happened. He waited for a moment, then took it out entirely. “There’s a satchel behind it.” He checked it with his knife too but there was no trap, so he pulled it out of the niche in the wall. “Hundreds of gold pieces, come on,” he said and opened it.
+
+Inside were iron coins.
+
+“Fifty or so, I think,” Isaac said. “A nice find.”
+
+“Does that cover what you spent on food and torches?”
+
+“It’s a start.”
+
+“Well, there you go then,” Veron said and handed it to the man. “Now we just have to find a few more of these, then pay for Ailis’ purchases, and we’ll break even.”
+
+“Was that a joke?” Elke asked.
+
+“Yes,” Veron said.
+
+She smiled slightly.
+
+“I’m sure we’ll find a few more rusty swords,” Ailis said.
+
+“It’s really the experience we’re here for,” Isaac said. “I’m not joking by the way.”
+
+“Yeah, I agree,” Veron said. “Just kind of funny to find hidden treasure worth fifty iron after we just survived an onslaught of what, just as many rats?”
+
+“I fail to find the humor in that,” Ailis said. “Five silver is five silver.”
+
+“It is. So, ready to move on? We’re about a fourth of the way there,” Veron said.
+
+This time, Elke visibly smiled.
+
+I’m not even sure if I meant that as a joke. But we did just survive a bunch of rats. I guess I’m still a bit on edge. Knowing that I would return if I got eaten by rats kind of makes it feel even worse. I’d have to live with that memory.
+
+Yeah. No thanks.
+
+They checked their maps quickly, adjusting the route they planned to take to almost entirely avoid the sections leading through the broader tunnels. This way, even if they encountered another large group of rats, they would have a better chance of funneling them through one of the smaller entrances or doorways.
+
+And on they went, Veron at the front as they checked through rooms and corridors, most of them decidedly empty, and dark. Only the broad hallways had torches, and he was pretty sure no other adventurers had put them up either. They had their next encounter in another small room, their approach far more efficient this time. Five skeletons were waiting for them, Veron and Ailis taking care of the two next to the doorway, and the others joining in right after to help clear the remaining three. It was a quick affair.
+
+They laid the creatures to rest, and took two more rusty shortswords with them, and an old battle-axe. Isaac checked some of the rooms but they didn’t come across any other hidden stashes.
+
+They found a group of dead rats in the next section of broad tunnel, already extracted. Another team must’ve passed through. The next door they found that led towards their goal was locked again, so they assumed whoever had passed through before them had not chosen the same route.
+
+They fought three more groups of skeletons, none numbering more than four, none managing to injure any of their group. Three more rusty swords and one axe joined the dangling collection that Isaac carried.
+
+And then they reached their goal.

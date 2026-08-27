@@ -1,0 +1,175 @@
+---
+id: 22f7fa8a-32fe-5a3c-a045-23fc0d55b8c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 984: What Slumbers Under the Mountain"
+slug: 0051-chapter-984-what-slumbers-under-the-mountain
+partOf: he-who-fights-with-monsters
+position: 51
+ownLength: 2292
+unit: words
+ownProgress: 2292
+publishedAt: 2026-02-20
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3075942/chapter-984-what-slumbers-under-the-mountain"
+royalRoadId: "3075942"
+markedReadAt: "2026-06-29T19:05:38.374Z"
+---
+
+“The slab I put over the door is reinforced with my magic,” Marie said. “It would take a significant force to—”
+
+A sword plunged through the slab like a bunker-busting missile, filling the room with stone dust. A tall man with dark hair, pale skin and startling blue eyes walked through the dust cloud, appearing before Elizabeth and Marie.
+
+“Well,” Elizabeth said. “Aren’t you quite the handsome—”
+
+The sword that had broken open the slab launched out of the dust to impale Elizabeth, hurling her across the room and pinning her to the wall. He body became indistinct, shifting into a mist form, drifting off the sword and blending into the dust. An arc of lightning shot out, dancing through the dust to trace out the shape of a woman’s body. A rending scream filled the air and Elizabeth became solid again, falling to the floor.
+
+“Where I come from, we know how do deal with vampires. Even the strong ones.”
+
+Standing at the back of the room, against the wall Elizabeth had been pinned to, Marie watched as a woman appeared, her eyes and hair sparkling like sapphires under sunlight. She stood over Elizabeth’s crumpled form.
+
+“I know it will take more than that to keep you down, leech, but you would be wise to stay on the floor. Speak without being spoken to, or fail to do as you are told, when you are told, and you will be reduced to a state where we have to carry you around in a sack. Bring them, Trenchant.”
+
+“Yes, your highness.” The man said as she turned and strode away, vanishing once more into the dust.
+
+***
+
+“It seems that we have a consensus that there are too many variables at play to take decisive action at this stage,” CIA Director Barstow said. “The threat of the nuclear devices acquired by the vampires remains, and we have yet to map out the contention within their ranks. We know that Elizabeth, known as the vampire queen, has lost much, if not all of her influence over them. Until we have a handle on their new power structure, we should refrain from blindly moving against them.”
+
+Most people, including the director, were attending remotely via magitech hologram. Jason and a few others were looking at heads floating over the table in front of the seats.
+
+“The next step needs to be taking the intelligence we’ve gathered thus far and using it to narrow our focus,” she continued. “That way, we can target the information we need to make more effective decisions. Before we take bold actions, we have to make sure they are also informed actions.”
+
+Jason got the distinct impression that the attending members of the intelligence community were handholding him through the basic principles of their craft. He didn’t complain, as he’d learned long ago that acting like you knew what you were doing would only take you so far before you fell in a heap. He had his areas of expertise, and they had theirs. He would be a fool to give up the chance to learn.
+
+“Mr Asano,” Barstow said. “I am aware that you are extremely passionate about the reality core issue. I would respectfully point out that, as our next step is a deep dive into the operations of the Swiss Network branches, the Earth-based contingent of this taskforce is best equipped to tackle that.”
+
+A lot of faces turned nervously in Jason’s direction.
+
+“I agree,” he said.
+
+“If you’ll forgive me for hesitating to take yes for an answer,” Barstow said, “I think a lot of us were expecting more pushback on this. I understand that your initial reaction to the discovery of reality core farming was heated.”
+
+“It was,” Jason said. “One of several reasons that it is better for me to step back. At the cost of abandoning humility, I am egregiously powerful. Combining that with strong emotional reactions is not a recipe for good judgement. Further, as I was intending to inform Mrs Macrossan before the latest incident, it is time for me to put my money where my mouth is.”
+
+He sipped at the glass of water on the table in front of him before continuing.
+
+“It is no secret that I have some trust issues regarding the powers of this world and their responsibility to it. But now, I’ve given you all as much information as I can. I don’t know how many of you have chosen to believe what I’ve told you, or to what degree, but I’ve laid my cards on the table. Now it’s time to show some trust. The stakes we’re playing for are there for you to see. What I need to see is what you do with that information.”
+
+“And if you don’t like what you see?” asked Chief Collier of the United Kingdom Secret Intelligence Service.
+
+“I’ve made a number of threats about not taking over the world unless I have to,” Jason said. “Looking back, that was childish and self-indulgent. I was revelling in the power I have, compared to the power I had on my last trip to Earth. The truth is, I’m not going to conquer the Earth, regardless of what you do. But if I’m unwilling to tolerate how the people who rule this world do so, I’m going to take my people, leave, and never come back.”
+
+“That sounds more like an incentive that a threat,” said Director-General Macmillan, of ASIS. The Australian intelligence leader was one of the few present at Asano Village in person.
+
+“Take it how you like,” Jason said. “But also think about the degree to which the world was shaped by my last visit, starting with the fact that it’s still here. A generation of essence users raised using Farrah Hurin and Roland Remore’s training programs. The magical knowledge we disseminated.”
+
+“That knowledge,” Macmillan pointed out, “is the very thing we’re pursuing Simon McKean over. He learned how to do what he is doing from Farrah Hurin.”
+
+“Yes,” Jason said. “Knowledge is power, and power can be misused. I’m not trying to debate if humanity would be better off never having learned to create fire because it burns. You asked, in quite a rude manner, what the Earth loses should I depart and take my clan with me. The answer to that is all the things I intend to bring to this world. All the things the clan has been preparing, ready to share.”
+
+“Would you like to be more specific?” Macmillan asked. “Or are you going to stick to vague promises.”
+
+“What I would like is to tear your head off and shove it up your arse, but you already seem to have it up there. So, vague promises, I guess.”
+
+Jason got to his feet.
+
+“Since I seem to have lost my ability to be civil, I think I’ll end my participation in this meeting here. Please keep me updated on what your investigations produce, and don’t hesitate to ask should my assistance be germane. I will do the same with my interrogation of the vampire queen.”
+
+“You have her?” Barstow asked.
+
+“We do,” Jason said. “Also, Marie Finnegan, who I’m sure you will wish to speak with. I’ll hand her over when I’m done with her.”
+
+“And the vampire queen?”
+
+“She belongs to me. If I require assistance, I’ll ask.”
+
+“And what of the portal specialist working with Finnegan?” a Network official named Gates asked. “He was taken from our custody by your associates.”
+
+“Once I understand his role in all this, I’ll decide what to do with him. He’ll be returned to you, if appropriate. Once this taskforce has determined how much of the Network has been acting against the interests of the planet.”
+
+Gates got to his feet as well.
+
+“You can’t blame the entire Network for the actions of a rogue element.”
+
+Around the room, most of the attendees winced. Sitting next to Jason, Anna rose from her seat, but Jason made a halting gesture.
+
+“It’s fine,” he said. “I’m going assume that Mr Gates failed to read the background briefing, and wasn’t deliberately trying to provoke me into murdering him and scouring every vestige of the Network from the face of the Earth. I am, however, going to go before I find myself doing or saying something I can’t take back.”
+
+Jason walked out of the room and Gates awkwardly sat back down. Anna also took her seat, her gaze lingering on the Network official.
+
+“I understand, Mr Gates,” she said. “I’ve been where you are. Explaining to Jason Asano that it wasn’t the whole Network that tried to kidnap him. Or kill him. Or hold and torture his friend for weeks. But Asano was right in that you should have seen this particular trigger in the profile on him we’ve all been provided. Which means that either you just made a very bad decision, or you didn’t do the reading. Either way, I don’t feel it is appropriate for you to be the Network’s representative to this body, and I put forward a motion that we ask the Network for an alternative. Will anyone second the motion?”
+
+***
+
+Danielle followed Jason out of his shadow portal. They arrived on his private level of the Asano Clan’s admin tower in Slovakia. Away from prying eyes, he released a growl of frustration through clenched teeth.
+
+“I can’t stop myself,” he said. “I think I’m just not built for diplomacy.”
+
+“I thought you did very well.”
+
+“Because I didn’t kill that idiot on the spot for deliberately provoking me?”
+
+“Because you offered a measured response.”
+
+“Measured? I threatened to murder him and eliminate the centuries-old organisation he belongs to.”
+
+“On Earth, institutional power has always held sway. That is changing as individuals gain the ability to sway nations. Hierarchies of personal strength represent a fundamental shift in the power dynamics of Earth society. I’m not telling you anything you don’t know, only what you seem to have trouble accepting. But you do have to accept it if you want to have any relevancy. And what you’re forgetting is that you’re not the only one learning this. The people who rule the Earth are still figuring out how to navigate a new paradigm of what it means to be powerful. And you, like it or not, are their most pointed lesson in this.”
+
+“You’re saying that Gates failed to shift with the times.”
+
+“I’m saying that sometimes the dragon needs to remind people what slumbers under the mountain.”
+
+***
+
+A small crowd of people marched into the Asano Clan’s admin building in Slovakia. The Storm Kingdom gold rankers surrounded three people, shuffling them through the lobby. Everyone stopped to watch the group, radiating power and clad in extravagant weapons and armour. The trio being escorted were clearly prisoners, despite themselves possessing gold-rank auras. Several members of the group had sapphire hair, including the leader who signalled the group to pause before walking over to the lobby desk.
+
+The receptionist, Tony, gulped nervously.
+
+“What can I do for you, Princess?”
+
+“Where is the astral space gate?”
+
+“Third mezzanine level. Just past the teppanyaki stand.”
+
+“Thank you.”
+
+She returned to the group, who used an elevating platform to move up through the levels of the grand atrium. They continued to draw stares and whispers, finally arriving in front of a black stone archway, filled with roiling darkness. Zara sent two of her people in first, then commanded the prisoners to follow.
+
+“In,” she told them.
+
+“You can’t force us through a portal,” Marie said.
+
+“No,” Jason agreed, his voice coming from behind them. No one had noticed his arrival, but all turned to look when he spoke. He was in his blood robes, the star-filled void of his cloak drifting on a breeze that didn’t exist.
+
+“We can’t force you through the portal,” he said. “I can tell you that if you don’t go through, I’m going to take you out of sight of my clan members and…”
+
+He glanced over at a family, sitting at a table. The parents were frozen, food held in their still hands. The kids were watching with wide-eyed glee.
+
+“…do something quite thorough final to you.”
+
+“It’s been a long time, Jason,” Elizabeth said. “I’ve been preparing for this since we—”
+
+Silence.
+
+Jason hadn’t spoken the word. He had brought it into being, the command resonating like a divine edict. The entire atrium went still, the tinkling of the water features the only sound.
+
+“Make your choice,” Jason said. “Go in or not. If you speak, the assumption is that you will have chosen not.”
+
+Liquid stained Remy’s already filthy pants and he scrambled through the portal. Elizabeth and Marie followed.
+
+“Give them a shower, clean clothes and something to eat,” Jason instructed.
+
+“What do we feed the vampire?” Zara asked.
+
+“There’s already a vampire population in there. There is food that will sustain them. Sadly, I can’t export it. It requires my influence, so only works inside my domains.”
+
+Zara sent the rest of her people through, then moved closer to Jason, standing right up in his space. She pushed the hood back from his head, revealing his face, then slipped her arms around his neck. His eyes turned from blue and orange nebulas to dark brown.
+
+“No, keep them,” she said. “I like your real eyes.”
+
+“You know that a bunch of people are watching us, right?”
+
+“Let them,” she said, and planted a gentle kiss on his lips.
+
+“You know that you’re undermining my imposing façade here, right?” he asked her.
+
+With a mischievous smile, she gracefully backed off and went through the portal. He shook his head, chuckling with amused exasperation, then followed.

@@ -1,0 +1,271 @@
+---
+id: c98b2bcd-cacc-5f3f-b253-95b167e749e6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47"
+slug: 0047-chapter-47
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 47
+ownLength: 3267
+unit: words
+publishedAt: 2026-02-27
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3099242/chapter-47"
+royalRoadId: "3099242"
+---
+
+Chapter 47
+
+The cook raised an eyebrow in question.
+
+“Are you sure?”
+
+“Might as well try,” Veron said. He knew he didn't stand a chance, but when would he have another safe way to face a Greater Path? “You'll probably have to heal me after though.”
+
+He glanced over at their healer. She glanced at Cat and received a nod.
+
+“You’ll be healed. Just try not to die,” Cat said.
+
+“I’ll do my best,” Veron answered in a dry tone.
+
+“Let's see what the Elemental can do then,” Jayce said and laughed as both Aaron and Veron stepped forward.
+
+“You don’t go for the kill. You don’t try to sever limbs,” Cat said.
+
+“What’s your path level?” Aaron asked. He stood casually, greatsword resting on his armored shoulder.
+
+Doesn't look like he even feels the weight of that thing.
+
+This is a stupid fucking idea.
+
+But let’s see how I do anyways.
+
+Veron felt the weight of his armor. He hadn’t fought anything since that bird had gotten to the deer carcass. He thought of Perrion, and the cursed, the soldiers in the forest, the yellow eyes of the tall creature that killed him in the end. He breathed, slowly, and gripped his shield and mace.
+
+Remember what you learned. From Hayden and Ivera.
+
+Veron got into a slight crouch and focused on the man before him. “Come and find out.”
+
+Aaron lowered his sword, his body tensing up slightly as he held the blade to the side. His eyes were focused under his helmet and then he ran forward.
+
+Veron aimed and shot a rock, watching Aaron twirl into a low spin that hardly slowed him down, dodging the projectile and swinging in the same motion. The attack was too quick, slicing into and past rock.
+
+Aaron followed up with a shoulder charge that crashed into Veron’s shield.
+
+Veron gained actual air, blinding pain coming from his left shoulder. He landed on his feet and in a crouch, his right arm warm with blood and his mace lost somewhere along the way. He grit his teeth and crouched slightly, testing the weight of his shield and hissing at the pain. He locked his eyes on Aaron as he unsheathed one of his stone knives. His head was pounding, and he was faintly aware of the deep gash in the armor protecting his right arm.
+
+Aaron watched him and threw his sword into the earth a few meters away. He made a questioning motion with his head and Veron started moving towards him in answer. Aaron raised his hands and charged as well, the two of them meeting three steps later, Veron slashing at Aaron with his knife, watching the quickly dodging warrior take step after step to avoid the blade before he caught his hand. Veron charged and shot the knife at the man’s upper arm, getting a glancing strike and a cut. A kick to Veron’s knee sent him to the ground.
+
+He unsheathed another blade and angled it which made Aaron step aside. Veron stood up, stumbling before he caught himself, just in time to block a punch with his shield. The impact felt like one of Hayden’s hammer strikes. He grit his teeth at the pain from his shoulder, then he felt Aaron tug at his defense and charged his blade, shooting it out right when Aaron pulled aside his shield. It pierced through the leather of his chest piece and stuck there, which left Veron stunned and open for a punch right at his helmet.
+
+Veron lost his footing and orientation, feeling himself hitting the ground and rolling on instinct. He got up panting, looking at Aaron as he glanced down at the stone blade stuck in his chest.
+
+“I think that’s enough,” Cat called out.
+
+Aaron gave him a questioning head tilt.
+
+Veron considered. His left shoulder was pretty much out. His right arm felt hot and blood dripped from his fingers. His ears were ringing slightly and he had a hard time standing upright. Aaron had him beat.
+
+“Yeah. You got me.”
+
+“What the fuck was that?” Jayce called out as Noelle rushed over to check on him, gently helping him sit down as she started murmuring her incantations. “Veron, what’s your Path level?”
+
+“Who cares? He held his own,” Aaron said and walked over. “A bit more punch and that knife could’ve been something. Almost as annoying as that Light magic. Your technique is not too shabby for an Elemental Path. We should try that again.”
+
+“And use up all my Focus to get him back in shape? No, I don’t think so,” Noelle said. “Both of your armors are damaged too. Again, Aaron.”
+
+Veron saw the brown strands of hair now, the healer with one knee on the ground as she looked him over. She had olive skin and smelled of flowers. She wore golden rings and necklaces, the metal dangling as she checked his broken shoulder. “Fucking shit, it’s splintered to a hundred pieces. Aaron.”
+
+“Hey, he seemed to be able to take the hits.”
+
+“You cut through his stone armor with the first slash,” Jayce said as she joined them.
+
+“That’s why I stopped using the sword,” Aaron said and nodded.
+
+Jayce smiled. “You can’t be higher than Adequate with those movements and magic. Pretty ballsy to take that fight. I can’t believe you weren’t out after those first hits.”
+
+“He’s got an Earth Harmony. They’re notoriously hard to take down,” Estelle said from the side. She hadn’t seemed to talk all that much. Now she was looking at Veron with her black eyes narrowed. Her armor looked to be the highest quality out of all of them, but maybe she just didn’t want to get it dirty. “He’s a Modest Path.”
+
+“Modest? Really?” Aaron asked, seemingly annoyed, impressed, and confused at the same time. “Nice.”
+
+“Let me stop the bleeding first. Veron, can you open up the rock here?” Noelle said and pointed at a part of his armor on his arm.
+
+Veron connected to the part and opened it up, then felt the warm sensation from her healing. It felt different to Hayden’s. More potent, more concentrated. These people were a lot stronger than the Wolves. He knew it from what Stewart had said, and he’d seen it from the previous fight, but now, after facing Aaron and feeling Noelle’s healing magic, he started to really understand the difference.
+
+“Food is ready, everyone,” Stewart said, giving Veron a slight nod when he looked over.
+
+“Good. Made me hungry to see you get cut up,” Jayce said.
+
+“Me and you after?” Estelle asked.
+
+“Sure,” Jayce answered.
+
+“Just stay in the trees, I don’t want a stray arrow in my eye,” Stewart said.
+
+Despite the answering laughs, Veron couldn’t confidently say that it had been a joke.
+
+“You should’ve shared your Path level. Taking risks like that will get you killed,” Noelle said in a lower tone.
+
+“Guess I trusted him not to kill me,” he said.
+
+She shook her head.
+
+“Thanks for healing me up, and sorry for the splintered shoulder. I’ll try not to let that happen again.”
+
+She gave him a glare. “You better, Elemental Man. A fucking modest path, trying to fight Aaron.”
+
+Veron sat there and let Noelle take care of his injuries. The pain was present but he found that he felt a lot better than before either way. The movement, real stress, and danger, and the adrenaline from such a ridiculous challenge. Most of all, he felt elated to have taken a few hits before he lost, despite the injuries that would’ve left him unable to use his arms at best, if there was no capable healer present.
+
+Noelle is right. Of course she is.
+
+My perception of risk is already changing. I would have been interested in that fight before I knew about the time magic, but I wouldn't have joined in so quickly, let alone without telling him about my Path level.
+
+There was more to it as well, but he left that for later consideration.
+
+It took several sessions for Noelle to reconstruct his shoulder in the coming days. They didn't talk a lot during, and while it felt like Veron and the others were more comfortable around each other by now, he didn't try to deepen that connection. Except maybe with Aaron who came up to him once his shoulder was good, to offer some lighter sparring and some pointers.
+
+It felt like a lot of what Aaron said was similar to Hayden but compared to more general advice and assumptions, he gave Veron specialized feedback and exercises for his size, current strength, the weight of his armor, and his choice weapons and tools. Veron found it puzzling to compare their teaching but after a while, he realized it was a simple difference in experience. Aaron wasn't really making any assumptions. He watched Veron practice and offered a few choice words that perfectly explained what was wrong or inefficient. And when he couldn't put it into words, they would try something in practice and he would be able to explain after.
+
+By the time they reached the Palewoods, Veron felt pretty comfortable around Aaron, despite the fact that they hardly knew anything about each other. He was still somewhat keeping the others at a distance, but it seemed both parties were fine with that by now.
+
+His attention shifted now that he saw the birches again, blooming and very much alive. He felt on edge, as if the curse would light up the distant skies and turn everything to ash at any moment.
+
+But nothing happened. No curse and no Herasar attack. Just a forest of birches on a sunny spring day. It felt surreal. And then he could see it in the distance. The Terrom lake and before it, the walls of Perrion.
+
+Veron was quiet on the rest of the trip, simply watching the town slowly coming closer. It looked almost the same as the first time he had visited. There were more wagons and riders on the road to the north, and people were working on the farms in the outskirts of the city. There were swine and cows and horses.
+
+It’s still here. The forest is alive and the city is still here.
+
+Ivera, Warren, and Eyra. Veron had told himself that his assumptions were right, but a small part of him still doubted it. But he was here, in the Palewoods, and he saw Perrion standing before him, untouched and uncursed.
+
+“When was the last time that any Herasar made it this far south?” Veron asked absentmindedly, his mind grasping at any and all straws to reject the reality before him.
+
+“Never?” Aaron asked.
+
+“You’d have to check the history books for that one. There were some wars in the past but it’s been a while since I learned about that,” Stewart added. “Why do you ask?”
+
+“Just a strange feeling,” Veron said. He had gone back in time. It was the only thing that made sense.
+
+Shit. Envolon. This is real.
+
+He was quiet as they entered the city, the guards only giving the crew a cursory glance. Veron didn’t even notice the smell once they were inside.
+
+It was the same city. The same streets. He could see the dead piled up, the overcast and greenish sky, the quiet. But the streets were bustling instead, people calling out here and there, others looking out from balconies and windows, and more yet hurrying along on some important business.
+
+He felt like in a daze, and then they stopped on some square, Aaron tapping his arm to indicate that they were getting off.
+
+Veron snapped back to reality, breathing deep and grounding himself with his earth harmony for a moment.
+
+“You alright?” Aaron asked.
+
+“No,” Veron said. “There’s a lot going on here.”
+
+Aaron laughed. “And you want to go to Anvakar?”
+
+Veron smiled. “Yeah.”
+
+“Finally back,” Jayce said. “I'll see you guys this evening then. Good luck out there, Veron.” She waved and moved into the crowd a moment later.
+
+Right, they probably live here.
+
+“This is where we split ways then,” Stewart said.
+
+“Seems like, yeah.” Veron said and glanced over at Cat. “Thank you for the ride. I'm still open to pay you as well. It’s not like you needed my help.”
+
+She waved him off. “It's not like you were a burden either. Good luck on the rest of your travels.”
+
+“Thanks, and to you.” He gave Stewart a look and nodded before Aaron offered his hand.
+
+Veron grabbed it.
+
+“Don't forget the drills, Earth man. Would be a shame for you to die in the dungeon after all that time I spent on you,” Aaron said.
+
+“I'll try to be careful. Thanks Aaron,” he said. “Hey, any clue how much a boat ride is to Anvakar?”
+
+“A boat ride? Been a while. At least fifty silver I’d say, more if there’s a lot of demand. And there usually is.”
+
+“Right, thanks. I’ll figure it out,” he said.
+
+“Sure you will, good luck, Veron.”
+
+Veron gave the man a nod and left into the city. Slowly, he started hearing a ringing in his ears. His chest felt tight and he had to stop in a random alley to lean against the wall. Then he sat down and closed his eyes.
+
+It took a moment for his body to calm down. Nobody even stopped to look at him.
+
+Then he opened his eyes and sighed.
+
+He was back in Perrion. And back in time.
+
+In late autumn, Herasar would attack the city, and a few weeks later, the curse would wipe it out entirely. At least if everything happened the same as last time.
+
+It felt overwhelming. What was he supposed to do with that?
+
+Veron simply sat there for a while, then heard his stomach rumbling. Food would be a start.
+
+But then?
+
+I find a way to Anvakar? A boat, some merchant caravan, other adventurers, or I go alone?
+
+A boat would be fastest, and easiest. I think I’d like that. Getting out of here as fast as possible.
+
+Veron looked up to see a sliver of sky between the roofs above.
+
+Back in Perrion.
+
+A part of him wanted to curl up and sleep. But doing that would likely not help his situation all that much. Maybe it would.
+
+He considered. And then decided to plan instead.
+
+It felt silly, knowing what he knew. And yet it was what he could do. Sure, there wasn’t much he could affect in the world right now, not with his current power and knowledge, but if he sat here and wallowed in self-pity, nothing would change at all.
+
+And I really do like it when things move. Going to Anvakar feels like a good step.
+
+I’ll have to think about money more as well. If I spend fifty silver to get on a boat, I'd be left with thirty five. I’ll need a Guild badge too. That’s another six silver, which leaves twenty nine.
+
+Veron briefly considered finding work in Perrion but he didn't want to stay here for even a single night if he could help it. Joining some merchant caravan as protection or as a cart driver seemed like the safest bet, but it would take another eight to ten days of travel in that case, instead of one or two days by boat.
+
+It’s not like I really have to save up, right?
+
+He looked at his hands.
+
+Is that really how I’m thinking about my life at this point?
+
+Veron shook his head.
+
+Either way. A boat would be nice.
+
+How much was a room at the Willard Inn? Not more than three or four silvers a night, I think, which would get me at least six or seven days with my current funds.
+
+And I’d have to find a crew to go into the dungeon with.
+
+Or I could go alone?
+
+He sighed, and got up.
+
+It was early afternoon, which meant he had some time to figure something out. I really was lucky with the Wolves and Reymond last time around. Well, it wasn’t luck exactly, was it? They’re good people, and I got to know them thanks to Warren. And thanks to all the time I spent in Eyra, and the connections I formed there.
+
+He even helped me out this time around.
+
+Veron smiled to himself, and rolled his shoulders. Now. I already died twice. Let’s try to stay alive for a little longer this time around.
+
+He thought a good way to start was figuring out if there was a local branch of the Hunter’s Guild. They had been pretty helpful last time around, and considering how they ran Anvakar, he felt some trust in their institution.
+
+Maybe getting an iron badge would be the first thing on his list after all. He had to ask a few passersby and guards but eventually found the building somewhere in the center of the city and bordering the Karrian river. It looked like an old structure, with thick walls and grated windows, standing alone and with some distance to the nearest other buildings. An oddity compared to the surrounding structures.
+
+Its roof resembled the battlements of a burg more than the tiled or flat roofs on the nearby houses.
+
+It's more like a military fort, or a prison. Do they have a lot of enemies? Or anything valuable in there?
+
+There were people going in and out, two people wore full plate armor, their faces covered with steel helmets. They carried large weapons and packs that seemed heavier than his entire set of gear. Someone else he saw wore a bright red vest embroidered with gold, a wand on their hip as they whistled a tune to themselves. Another man he saw had disheveled black hair, torn and tattered shirt and pants.
+
+Now that he got closer, Veron could spot some supposed guards as well. Half plate and gambesons, not marked with the green color of the guards he’d seen in Perrion but instead wearing iron and silver badges of the Guild.
+
+Veron went past the heavy wooden gates and found a spacious common room inside, with stone floor and walls, red and golden banners adding color and lanterns adding light. He heard laughter and conversation from the upper floor, the smells suggesting they served food and drink as well. On the ground floor, people were lining up before a counter at the back, another group stood gathered in front of a few notice boards to the left.
+
+Veron joined one of the queues and watched the people around him. He hadn't been to all that many places and establishments in this world but he would’ve been surprised to find any with this much diversity in people.
+
+There were two old men in battered half-plate armor, talking in warm and quiet voices. They seemed calm and confident. A woman he saw had dark skin and armor that looked somewhat similar to Ivera’s. She glanced around, her right hand gripped around the shaft of her glaive. Some of the people had heavy packs, others came here with just the clothes on their back. He understood some of the conversations. Others were speaking in languages he didn’t know.
+
+And all of them had found their way into the Hunter’s Guild in Perrion.
+
+Maybe this is where I would’ve gone instead of Anaville. If I’d been born on Renavor instead of Earth.
+
+Veron exhaled, feeling a lot calmer than he had this morning.

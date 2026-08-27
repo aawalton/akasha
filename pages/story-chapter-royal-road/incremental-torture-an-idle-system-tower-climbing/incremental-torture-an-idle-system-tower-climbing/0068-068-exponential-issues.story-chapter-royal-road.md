@@ -1,0 +1,115 @@
+---
+id: b34f34d4-e297-5796-98c9-421b3a42fd2b
+page-type-slug: story-chapter-royal-road
+title: "068: Exponential Issues"
+slug: 0068-068-exponential-issues
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 68
+ownLength: 2354
+unit: words
+publishedAt: 2024-07-10
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1712320/068-exponential-issues"
+royalRoadId: "1712320"
+---
+
+More and more messages had appeared following the founding of the guild. Various new systems had been made available to them. Of those, there was one which made Evelyn ecstatic to see.Having lost her attributes and skills, she had planned to head to the bazaar that afternoon to replenish them, but it looked like she would no longer need to deal with the stress of haggling with other challengers.What would be her new best friend was tucked away between other messages the tower deemed more important. Clearly, it had no clue about her priorities. So, before even bothering to explore some of the bigger things which the others wanted to, Evelyn opened up the guild shop and started to browse.
+
+** Guild Shop **〖Common Guild Chest〗- 1 Guild Point〖Uncommon Guild Chest〗- 3 Guild Points〖Rare Guild Chest〗- 7 Guild Points〖Unusual Guild Chest〗- 25 Guild PointsIncrease your Guild Rank, or build production facilities to unlock further offerings.
+
+Unfortunately for her, it didn’t seem to be a direct replacement for the local shop. It was disappointing on two fronts, the first being that things like skill crystals and attribute points weren’t available, though there was a chance that the guild chests could contain them if they functioned like loot chests.However Evelyn didn’t even have a way to test that theory because the chests didn’t cost essence to purchase, but rather a new form of currency called guild points. And she had no idea how to earn them.There was a small ray of hope in the form of the final sentence. It seemed that the guild shop would grow and start to offer them a wider variety of things to purchase in the future, but that would take some effort. Growing the guild would be difficult. There were a few people who she could reach out to, like Reece or Anna, and some who she hoped would join the moment they reconnected, like Lily and Marvin.When it came to inviting strangers, Evelyn was hesitant. It wasn’t as big a deal now, since they wouldn’t hold a position of power like they would have as a founding member of Defiance, but was worried about betrayal and espionage.People like Kyron or Alice Steelweaver would be sure to hear about the founding of their guild and try any underhanded means possible to stifle their development, or at the very least ensure that they knew what was going on inside Defiance at all times.Those kinds of complex political games that had burgeoned in Haven over the past few weeks were exactly why Evelyn hadn’t wanted to be the leader of a guild. It was fabulous then, that she would be able to run off and leave the stressful parts of management to Kayla and her father. That had been the underlying implication when Kayla had suggested she found the guild, at least.With the guild shop being a bust, and with a few days left until she could afford to purchase the building for the bank, Evelyn had little to do.Her mother would figure out the interior design of their new headquarters, Kayla would do… whatever it was that the woman got up to when she was by herself. She checked her menu.
+
+Essence: 356960『+476160 / 5:56:40 hours』
+
+~~ Stars ~~
+
+Grey: 0
+
+White: 20
+
+** Inventory **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+**Guilds**
+
+**Property**
+
+【OVERCOME】
+
+A little over 300,000 essence was all that she had to her name after investing the bulk of her savings into founding Defiance. That was fine. It was a worthwhile spend. Evelyn wasn’t sure if the economy of the city had remained stable, but with that much left she could begin to rebuild her rather empty status, and perhaps snag herself a few more stars from the bazaar.The sun was at its zenith, which meant there was still plenty of time left in the day. Not that it mattered much, given that the commercial district of Haven stayed active throughout the night as well, but something about having a regular routine appealed to her.Maybe it was just an attempt to salvage what little control over her life she could after the tower had thrown everything into disarray. It probably wasn’t even a real sun, but the warmth on her skin and the golden light that bathed the cobbles were close enough that it didn’t matter.“Hey, where are you going?” asked Anthea when she had made it to the bottom of the steps.“I was thinking of browsing the bazaar, to try and find some cheap skill crystals and attribute points. The ascension left me drained,” she replied.“Ooh, I want to see the bazaar. Kayla said it was amazing, like a mall but livelier. Can I come with you?”“Yeah, I don’t see why not. We can catch up while we walk, it’s been a little while and I want to hear all about how you made it through the last few floors alone. The way we parted was a little sudden, what with me being asleep and all.”“It was quite funny watching Kayla smack you and shout in your ear as we went through the portal. I was worried that you might be in danger, but she told me you’d be fine no matter what happened. And she was right.”“Smack me? I don’t remember that. I’ll have to have some stern words with that woman.”“It was a light smack,” said Anthea with wide eyes. It seemed she had revealed something she wasn’t supposed to.
+
+~~~
+
+Evelyn smiled as she watched the young girl skip ahead. The fact that Anthea had managed to retain a decent measure of her innocence in the face of everything the tower had thrown at her was inspiring. It was a reminder that even in the worst of times, people were resilient.She had been flagging a little on that front, at least prior to her successful second attempt at the 16th Floor. Defiance weren’t the friends she had hoped to find in the tower, but they were more than enough for now.Her haul from the bazaar had been brilliant. Last time she went, Evelyn had kept her purchasing power under wraps and left without sweeping up everything she could have. This time, there was little need for such subterfuge.Everybody in there had crowded the two of them, wanting to hawk their wares to the ‘Hero of Haven’ and her companion. It was a little over the top, but she couldn’t fault people for employing a persuasive sales strategy.While it was rather suffocating to have so many people crowd her, there was a silver lining. Given the competition they had, all of the sellers tried to undercut each other and she had ended up securing a lot of skill crystals, attribute points, stars, and even a random selection of crafting resources at a bargain price.Unauthorized duplication: this tale has been taken without consent. Report sightings.Everything had been more expensive than her last trip though, even after the discounts she had been offered. As the market settled, and challengers began to realise the true value of things like stars, essence costs were shifting to match.That wasn’t an issue for Evelyn as she had plenty of essence to spare, but she missed the days of being able to scoop up ultra cheap power-ups from the local shop. Inflation was a real killer.Anthea had also had a little essence to spend and while the girl hadn’t received as much attention as Evelyn herself, simply being her associate had meant many sellers who hadn’t been able to win Evelyn’s attention in the free for all opted for the next best thing and she had also obtained a decent selection of resources.
+
+In the end, Evelyn managed to acquire 14 common skill crystals, 7 uncommon skill crystals, 1 rare skill crystal - it had taken some persuasion to get that one, as they were hot commodities - 18 attribute points, 12 grey stars and 2 white stars.On top of that was the crafting materials, but she was waiting to get back to the guild headquarters to have a proper look at them. It had been something of an impulse purchase. She wanted to take the time to work on her crafting again, but didn’t think she would have the time to do so with everything else on her plate.While they walked back, Evelyn pondered how to best invest her attribute points. Shoring up all of them would have to happen over time, but now that she knew there were evolution thresholds it felt more worthwhile to specialise even more intensely than she had been.A fortitude focused build, with minor investment across the board had suited her solo climbing style, but now that she had a dedicated home base and a group of trusted friends and family to work with, perhaps throwing herself fully into the role of a tanky frontline fighter and putting things like her speed and magic to the side.With the power of the reality node now in her grasp along with the new domain attribute, which she assumed was related to the reality nodes in some way, Evelyn would be able to utilise her magical skills without such a heavy investment in mana.Though the feeling of the two energies was a little different, in ways that she couldn’t quite put into words but would no doubt discover the more she experimented with them.The difference between having 0 and 1 or 2 points in speed, stamina and vitality was rather insignificant. It didn’t make sense to her to invest in them when the return would be so minor. She didn’t know what to expect from the 17th Floor, but focusing on the attributes that complemented her class and fighting style seemed to be the smartest course of action. And after its evolution, fortitude offered the single greatest impact-per-point of any of her attributes.As a test Evelyn tried to assign one of her points to domain, but the tower refused to allow it. Frustrating, but she supposed it made sense if the attribute was tied to her grasp over the reality node and how much of its power she had absorbed. The attribute then, was a marker of said control rather than a way to bolster it.She decided on a rough even split between fortitude and power, with a few points going towards mana and vitality as they helped to tie her build together. Next, she would need to see what the skill crystal lottery had in store for her.The cobblestone road behind them glittered in the evening sun, a trail of crushed skill crystals marking their passage and slowly fading to nothing as the time passed. As predicted, most of the crystals offered little in the way of new skills. However, duplicates of skills she had received before weren’t necessarily a bad thing. The ascension had wiped even the more common skills like Arcane Shield and Stellar Body from her repertoire. In fact, only one uncommon skill crystal gave her a fresh option.
+
+Uncommon Skill Crystal has been consumed! You have received the following skill:Crushing Blow (Uncommon) - Consume a large amount of mana to deal a devastating strike to an opponent. (Variable mana cost)
+
+Either through divine intervention or sheer dumb luck, the rare skill crystal gave Evelyn the one skill that she had been most upset to lose from her ascension.
+
+Rare Skill Crystal has been consumed! You have received the following skill:Blowbreaker (Rare) - When receiving critical damage, transfers a large portion of it to the surroundings instead, as long as the user has mana remaining. (Variable Mana Cost)
+
+Blowbreaker wasn’t a battle shifting skill, but the ability to transfer damage away was by and far the greatest tool for a tank to have. And providing it worked with the reality node energy, or domain as the tower called it, the effects would be tremendous.She did a few quick fusions of the skills she considered most important, using the less valuable ones as fuel when the system required it. Evelyn had a few of her skills back, but it would take more time and work to regain all of the skills she had lost. Though perhaps she would pick up some better ones along the way. When it came to synthesising, she didn’t want to rush. An interesting idea might come to her when she least expected, and for now she was confident with what she had.After completing all her ‘admin’ work, she had a brief glance at her updated status and then gave her menu a look to see how much her income had increased.
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.15
+
+|Attributes|
+
+Power: 20
+
+Speed: 0
+
+Stamina: 0
+
+Vitality: 3
+
+Mana: 4
+
+Fortitude(I): 22 (37)Domain: 1
+
+|Mutations|
+
+Celestial Furnace
+
+Arcane Impact Converter
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Galactic Expansion (Unusual), Master of Combat (Rare), Blowbreaker (Rare), Arcane Shield (Rare), Stellar Body (Uncommon), Impregnable (Uncommon), Pugilism (Uncommon), Blunt Force (Uncommon), Bulwark (Uncommon), Bargain Hunter (Uncommon), Hammer Affinity (Common), Impregnable (Common), Surging Blood (Common), Flame Affinity (Common), Frost Affinity (Common)~Active~Celestial Resonance (Uncommon), Crushing Blow (Uncommon)~Hybrid~Soul of the Unstoppable Conqueror (Unusual)Essence: 261049『+3809280 / 5:56:08 hours』
+
+~~ Stars ~~
+
+Grey: 12
+
+White: 22
+
+** Inventory **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+**Guilds**
+
+**Property**
+
+【OVERCOME】
+
+Her income had shot up. Galactic Expansion worked wonders when it came to the synergy between white and grey stars, and the more her attributes increased the more her income would increase too. Everything fed into everything else thanks to her fabulous skills.She turned to Anthea to check on how the girl was getting on with her own purchases, when a passing stranger caught her gaze. She froze on the spot, jaw agape when she recognised who it was. He was a shell of his former self, but Marvin’s mug would have caught her eye anywhere. Oddly, he didn’t react upon seeing her. Evelyn reached out a hand and started to speak when a message from the tower interrupted them both.
+
+A New World Event has begun! All challengers in Haven have been enrolled automatically. Progress will be tracked and rewarded appropriately. Please see the next message for details of the event.

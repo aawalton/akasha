@@ -1,0 +1,153 @@
+---
+id: db2dd325-9f53-557c-8583-00b4541c33f5
+page-type-slug: story-chapter-royal-road
+title: "330. Beyond the Forest"
+slug: 0330-330-beyond-the-forest
+partOf: god-of-trash
+position: 330
+ownLength: 2185
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3609130/330-beyond-the-forest"
+royalRoadId: "3609130"
+---
+
+Rhys and Ryota exited the forest to find an unfamiliar ship hanging overhead, as if waiting for them. For a second, Rhys squinted at it, trying to determine if it was Ryota’s ship, but then he remembered: Ryota had recalled his ship into his sleeve, or somewhere on his person. A storage ring, a dimensional pouch, something. That couldn’t be Ryota’s ship, since Ryota had Ryota’s ship.
+
+He glanced at Ryota. “This place popular?”
+
+Ryota frowned. “Not that popular.”
+
+A group of people descended from the ship. Ryota subtly braced himself.
+
+“Looks like we’ve got a welcoming party. Should we prepare for combat?” Rhys asked, looking to Ryota.
+
+“I wouldn’t… not prepare,” Ryota said, a little hesitant. He stepped forward, pushing Rhys behind him. “Let me take the lead.”
+
+“You got it, boss.” Rhys pulled out The Hunger as quietly as it was possible to manifest a sword out of thin air. He held it loosely in one hand, trying his best to emanate ‘this is just a tennis racket’ energy.
+
+A man in opulent gold descended toward them, backed by five mages in loose, deep-hooded yellow robes that obscured their faces and figures alike. He sneered at Rhys and Ryota—mostly Ryota—and exuded a slimy aura even though he didn’t even wear his hair slicked back or his facial hair in a nasty little under-nose smudge of a mustache. His hair was loose and his face was clean-shaven, but the slimy aura was so strong that Rhys could just about see the hair gel and bad mustache anyways.
+
+After all his time hiding in the Alliance and Empire, Rhys restrained his aura by default, and now, he tidily restricted it to be less than Ryota’s and no particular threat to any of the approaching mages. They looked like trouble, and he didn’t expect not to fight, but just in case… it was always good to get underestimated. Basic trash tactics: act like trash, get treated like trash ( tone note: positive). Sure, he had a sword and therefore posed some kind of threat, but honestly? It was kind of crazy that the Third Prince was wandering around without a bodyguard, or at least an escort. Someone had to stop him from putting his nine inches in Shrine Maidens.
+
+All that to say that he could basically fade into the background as the token NPC bodyguard who didn’t speak and wasn’t important, while Ryota could play the part of the mob boss/supervillain/young master. It was like watching a Mr. double-oh movie. The big guy was the only one who mattered. It didn’t matter how many scimitar-wielding or machine-gun-clutching henchmen he had. Mr. double-oh would take care of those without blinking. Only the big guy mattered. That was the vibe Rhys was going for.
+
+Of course, the reality was that if these guys decided to find out, then unless Rhys force-berserked Ryota, it’d be Rhys they found out about. And there were only five of them, so it seemed like a waste to pop Ryota’s berserk for them. If they all turned out to be tier 5, maybe that would change, but he was pretty sure he could take them himself.
+
+“Third Prince,” the gold-clad man greeted them.
+
+“Fifteenth,” Ryota replied with a nod.
+
+Rhys jerked. He looked at Ryota. Hold on a second. Isn’t that the prince who’s really shooting for the top? The one who’s killing his way to number one? The one who probably already sent dudes after you a few times? Are we really being casual about this?
+
+“Did you hear about our brothers? It was very unfortunate,” the Fifteenth Prince said.
+
+Ryota scowled. He tensed, one hand reaching for his sword. “How many have you killed now?”
+
+The Fifteenth Prince dropped his jaw in shock. “Killed? Me? Never. Ah, but the circumstances were very unfortunate.”
+
+“How many are left between you and the top now?”
+
+The Fifteenth Prince smiled unpleasantly. “Not too many. Not many at all. And there’s about to be one fewer.”
+
+Ryota drew his sword and stepped back, shocked. Rhys didn’t move, just like a faithfully oblivious henchman… though he wasn’t just playing a role. It was his earnest reaction to not react. None of the mages’ auras changed. They didn’t emit killing intent, stir their mana, or reach for weapons. Either the Fifteenth Prince was making an empty threat, or he had other plans that didn’t involve directly attacking with his henchmen.
+
+Or he’s having his henchmen attack another Prince right now, which isn’t my problem. I only have a problem if he’s attacking my future religious icon.
+
+Ryota seemed to have noticed the same thing, because he narrowed his eyes at the Fifteenth Prince. “What do you mean by that?”
+
+The Fifteenth Prince chuckled unpleasantly. He stroked his face as if he were petting that invisible slimeball moustache that only Rhys could see. “I wonder. Oh, that’s right. Which brother was it that Third was particularly fond of again? Seventh… Hmm, it’d be a pity if he were having a hard time right now…”
+
+Rhys nodded. And there we go. All’s good.
+
+Ryota, on the other hand, lunged forward, barely stopping himself from attacking. “You wouldn’t!”
+
+“Why wouldn’t I?”
+
+“He backed out of contention!”
+
+The Fifteenth Prince shook his head. “Words are merely words! He could retract his retraction at any moment. There’s only one way to ensure he’s truly backed out of the race.”
+
+Ryota bared his teeth and lunged again, and this time, Rhys stopped him. Not because he thought Ryota wouldn’t stop himself, but because he badly needed context. So far, Ryota had been relatively cool-headed, even cowardly, and wasn’t at all the type to lunge into battle; in fact, he’d outright avoided it for so long that Rhys had started to worry he’d never fight. And now he was champing at the bit? It was a bit of an extreme turnaround.
+
+I should’ve just threatened this Seventh Prince, dammit. I wasted so much time…
+
+As he pushed Ryota back, he murmured, “Hey. Who’s this Seventh Prince? You guys buddies or something? Why’s this getting under your skin so bad?”
+
+Ryota kept his eyes locked on Fifteen. “He’s crippled. He can barely move, let alone cultivate. He withdrew as soon as he was eligible because he poses no real threat to anyone, or the throne. Threatening him is underhanded. It’s plainly unfair.”
+
+“Whoa, whoa. First off, he ‘has disabilities.’ He’s a person with disabilities, not a cripple. People-first language… or something. I’m not completely up with the times, things might’ve changed. Maybe we’re back to disabled person, I don’t know. Point is, don’t use ‘cripple,’ okay? It’s not the Australia word, but it is a bad ‘c’ word, so let’s be civil here and avoid all the naughty words just to be safe. Second off, is that the only reason you care? Because it’s unfair? Or do you like him on a personal level?”
+
+Ryota took a deep breath. He glanced at Rhys. “We were friends. He and I both knew we weren’t really in the running, and we bonded over that. He was probably the only person I truly considered a confidant and friend in the palace.”
+
+Rhys nodded. “Thank you. That’s all I wanted, continue.” He stepped back, releasing Ryota.
+
+Ryota frowned at him, a little confused, then nodded and turned back to Fifteen. He lifted his finger and pointed. “You—”
+
+But Fifteen wasn’t looking at him anymore. His eyes were locked on Rhys, and he drifted closer, lowering in the sky almost subconsciously. He looked Rhys up and down. “Who’s this?”
+
+“He’s…” Ryota looked at Rhys, at a loss for words.
+
+Rhys stepped forward. He bowed. “I’m Rhys, a retainer of Ryota’s.”
+
+Fifteenth looked at him expectantly, but Rhys simply straightened up and stepped back. He didn’t feel like bullshitting any more than he had to right now. Strange for him, the world’s number one bullshitter who loved telling tales, but sometimes, he just couldn’t be assed, and this was definitely one of those times.
+
+At last, Fifteenth picked up that Rhys was done and harrumphed. He flicked his sleeve at Rhys. “How would you like to join the winning team?”
+
+Rhys blinked at him cluelessly and tipped his head. “Huh? But I’m already on the winning team.”
+
+Behind Fifteenth, one of the mages snorted in amusement, quickly choking their voice back before Rhys could determine which one had laughed.
+
+A vein throbbed on Fifteenth’s head, and he narrowed his eyes. “Is that how it’s going to be, then.”
+
+“Yep!” Rhys said, resisting the urge to flash him the heart hand sign. He was being cute right now, and deeply enjoying it. If Mirai was here, she’d probably be cheering. Cheering, crying, giggling, posing right next to me… we’d be having a great time.
+
+Ryota, on the other hand, was sweating visibly. He kept cutting looks at Rhys and shaking his head in not-very-subtle ways. Rhys snorted. Yeah, that’s… well, it’s the not-so-subtle and less-butlery version of what Grave would be doing.
+
+Gods, I miss those guys.
+
+“I hope you continue to back the winning horse,” Fifteenth said ominously, and swept away, his henchmen following after him.
+
+Rhys nudged Ryota. At a stage whisper, he said, “He called you a horse! Are you going to stand for that?”
+
+Fifteenth jolted, coming to a halt for half a step, then forcibly pushed himself to fly on. Rhys raised his brows, a little surprised at the guy’s restraint. Their goals were different, so apart from Ryota probably wanting to rescue Seven, he didn’t really care if they fought or not, but he’d really pegged Fifteenth as the jump-into-battle type. They could’ve all compared dicks, Fifteenth could’ve come up short, Rhys could’ve thrashed him, and they all could’ve put this little tiff behind them and never interacted again. Instead, they hadn’t fought, so Fifteenth was still deluded into thinking he could beat the two of them. It was mildly annoying, but there was nothing Rhys could do about it, so he shrugged and watched Fifteenth retreat.
+
+Ryota stood beside him, tense as a live wire, until Fifteenth vanished. The second his half-brother took off in his opulent, much nicer ship, he turned to Rhys. “We need to go to Seventh.”
+
+Rhys sighed. “You realize that it’s one-hundred-percent a trap, right? Seventh probably isn’t even actually in danger. If I had to guess, he’s trying to kill two birds with one stone, and by birds I mean two brothers.”
+
+Ryota ground his jaw. “It doesn’t matter. I owe Seventh my life.”
+
+Rhys opened his mouth to argue again, then shrugged. He was still mentally formulating Ryota’s religion, and what the hell, miraculously saving a sibling was a good early myth. It could even serve as a foundational myth, as in Greek mythology. Worst case, he had to fight his way out and earn valuable new battle experience. It was a good deal no matter how he looked at it. “Alright. Let’s do it.”
+
+Startled, Ryota stared at him. “That easily?”
+
+“Sure, why not? I’ve got nothing better to do.”
+
+“Don’t talk about saving Seventh like it’s—like it’s—”
+
+“Bro, chill. I agreed. Come on, pull out your junk and let’s go.” Rhys paused. “Remove your ship from your storage device and let us fly off.”
+
+“Why did you repeat yourself?”
+
+“No reason. I don’t want to talk about it.”
+
+Ryota stared at him for a beat, then remembered he was in a rush. He waved his sleeve, and the ship shot out as a bolt of light, quickly materializing overhead. He kicked off and flew up to it, and Rhys flew after him.
+
+“Where’s Seventh live?” Rhys asked conversationally, as Ryota began plotting a course. It seemed like a complicated thing, but it just looked like Ryota staring at nothing and occasionally moving his fingers, so it wasn’t the most engaging event to watch.
+
+“On the coast. The sea air helps his health.”
+
+“Oh, even here that’s still a thing? Neat,” Rhys commented.
+
+“The sea air here is thick with mana, and he lives near a natural underwater upspring,” Ryota explained.
+
+“Yeah, I mean, when magic’s real it makes more sense. Back home, people just do it for the benefits of saltwater.”
+
+Ryota lowered his hands, and the ship began to move. He frowned at Rhys. “Huh? They don’t have magic where you’re from? Then how…”
+
+“Ah… it’s different,” Rhys said, and smiled.
+
+Ryota twisted his lips, but rather than press Rhys on it, he marched off to the front of the ship to impatiently stare at the horizon. Remaining at the back of the ship, Rhys leaned back and sat on the air, watching Ryota. He’s clearly bothered by this. Fifteenth did this deliberately. But why? It’s a trap, obviously… but what form does that trap take?
+
+There was no way of knowing until they got there. With a shrug, he laid back and closed his eyes. After all that levelling up, he could use a little time to consolidate his mana and filth levels. He focused internally, and the ship sped off around him.

@@ -1,0 +1,323 @@
+---
+id: 080e6c88-1b73-5d41-9809-a657624598f9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 55"
+slug: 0055-chapter-55
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 55
+ownLength: 2893
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3464619/chapter-55"
+royalRoadId: "3464619"
+---
+
+Chapter 55
+
+Tunnel after tunnel, the group went back, Isaac leading them towards the pit. They took a few detours in case the Blood beast tracked them through smell. Shortly before they reached the pit, they encountered another group of skeletons. Just four of them but with Veron’s injury and the constant vigilance sapping at their energy, it was a hard fought battle.
+
+Ailis even received a cut to her shoulder.
+
+“How is it?” Veron asked afterwards. He could tell that at least one of the wounds on his arm had opened or partially opened up again.
+
+Ailis used her healing and then sighed. “Pretty shallow. I’m more annoyed about the damage to my armor.”
+
+Veron nodded. “How long to the exit? I think one of my wounds opened up again.”
+
+She checked him quickly and added some healing.
+
+“Not far. A few more tunnels,” Isaac said. “Let’s hope there are no more battles.”
+
+“Yeah,” Veron said. He was getting more tired. Not just from the gloom and darkness, battles, and danger, but from the healing too. At this point, he was looking forward to a lot of food and a warm bed. It was difficult to focus, and he used his magic to bring him back to the now, to the rock beneath his feet. “We keep going. Not far now. Stay vigilant.” He could tell his words lacked vigor. The others were tired too, except for maybe Elke.
+
+Funny how people likely dismissed her because of her Ice Harmony. I didn’t mind but still thought it a disadvantage. Turns out she’s the most experienced fighter here by far.
+
+Veron focused back, the team covering the last tunnels and rooms, Veron’s thoughts drifting whenever they had entered another room and found no enemies inside. By now, he could feel heat from the wounds on his arm, and he was more and more glad that they were getting close. And he was glad they had Isaac in the team, otherwise it would’ve been more of a challenge to find the way back. Being stuck down here for longer could’ve meant more encounters, more injuries, more healing.
+
+He yawned.
+
+When they opened another door and found the same open hallway they’d entered through, Veron felt immediate relief flood through him. One last stretch and then he could see the open pit. Now it was just a climb up and they were out.
+
+“Nothing behind us,” Elke said and shut the door. She sounded slightly on edge.
+
+Veron gave the others a glance. Isaac was shivering slightly and looked tired, still carrying most of their loot. Ailis looked okay, but she’d grown more quiet in the last hour. Elke looked tired too, but decidedly less so than the others.
+
+They walked the rest of the distance and reached the abyss, and their way out. The rope they had used to secure themselves on the way down was gone, as expected. Light came in from above and at an angle, illuminating a part of the cylindrical descent, though he had no idea what time exactly it would be.
+
+“We still have rope?” Veron asked.
+
+Isaac nodded and got it out from his pack.
+
+“Who feels confident in making the first ascent?” Veron asked. “We can secure from here but it will be more dangerous.”
+
+“I can do it,” Elke said.
+
+“Great, thank you,” Veron said. They secured her and she was on her way, past the first chain and up the larger one a few minutes later. She called down some time later, having secured the rope above.
+
+“I can go last as the leader,” Veron said.
+
+“With your injuries and exhaustion? That’s stupid,” Ailis said.
+
+Veron blinked his eyes. “Right. Yeah, you’re right,” he said and went next, careful to focus on his steps. His right arm strained and hurt as he grabbed the chains and moved up. He was glad he had learned from the Silver Wolves down in the Gutter, otherwise he would’ve likely put a lot more weight on his arms. This time, it didn’t feel like the wounds opened up again at least. A few minutes of climbing later, he reached the sunlit part of the pit.
+
+Veron sighed and breathed out, pausing for just a few seconds before he refocused and continued, steady breaths as he used mostly his legs to pull him up the chain. Without the strength granted from his Path, he didn’t think he could’ve made the climb. Elke helped him up and over the railing when he reached the top.
+
+He sat on the ground and closed his eyes for a moment, Elke removing the rope before she threw it back down to the others.
+
+Veron took off his helmet and finally relaxed, feeling the sunlight and the winds.
+
+“You’re okay?” Elke asked.
+
+Veron opened his eyes and looked at her.
+
+“Tired. I want food. What about you?”
+
+She tensed up slightly, the sunlight illuminating her hair and furs. The blood and dirt speckles were hard to miss. Her hair was greasy, and they probably both smelled like death.
+
+Veron didn’t mind the people walking by, many of them fellow adventurers, some looking worse off than they, others giving them amused or even encouraging looks.
+
+“I’m okay,” she said.
+
+“You sound on edge,” Veron said. He wondered about what to say. He couldn’t imagine her being scared of the Crypts. Maybe the fights got to her?
+
+No. No, I don’t think so. I think she’s annoyed about our lack of skill, compared to her own, or the people she usually works with.
+
+“Not what you’re used to, hmm?” he asked.
+
+She looked at him with her yellow eyes. “No.”
+
+“We’ll improve,” he said.
+
+She watched him for a long moment.
+
+“You took the hits. You’re not bad at this, Veron.”
+
+“I try.”
+
+They were quiet for a moment, now hearing the strained breaths of Isaac as he came closer to the railings.
+
+“I was thinking about the rats, how you fought them,” Veron said.
+
+Elke gave him a quick glance, then looked away.
+
+“Any chance you could teach me how to move like that?”
+
+“You don’t use a spear.”
+
+“Does it matter?”
+
+“It does,” she answered, then went to help Isaac.
+
+Veron forced himself to get up too and welcome the man. “Our loot has arrived.”
+
+Isaac gave him an amused look and then sat down. “Sunlight, praise be Sor. All for some rusty swords.”
+
+“We also got essence,” Veron said. “And fifty iron coins.”
+
+“That’s true,” Isaac said with a tired smile.
+
+Ailis joined them some ten minutes later, relief washing over her as she climbed over the railings and caught her breath on the other side. “We made it back in one piece.”
+
+“We did,” Veron said. The sunlight helped tremendously. He imagined it’d be so much worse to delve in winter.
+
+We’ll get more used to it too.
+
+And I suppose the Gutter is warm at least. I wonder about the deeper layers and their temperatures. The higher Paths that are likely required would help with that too though, probably even with non-Elementals.
+
+“What now then?” Isaac asked. “Late lunch? It’s three already.”
+
+“We were down there for nearly seven hours?” Veron asked, then scratched the back of his head. “It did kind of feel that way.”
+
+“Time can pass quickly when there is danger all around,” Elke said.
+
+Veron nodded.
+
+“We have to have his arm checked,” Ailis said.
+
+“Can we join?” Isaac asked.
+
+Elke considered, then nodded.
+
+“You don’t have to,” Veron said. “Though I suppose it’s good for team building.”
+
+Isaac gave Elke a look, then nodded with a tired smile. “We will join, then we get food.”
+
+“I feel touched,” Veron said, and he did.
+
+Funny that. I guess there’s something about surviving the dungeon together. It was similar with the Wolves, but I did feel a lot more like a fourth wheel there.
+
+My knowledge of the time magic affects things of course but I’d rather not think about that too much.
+
+They went to the central healer station as Veron started removing his half-repaired bracer. The line was quite long but Ailis simply passed it.
+
+She turned and waved them closer. “It’s alright, come on.”
+
+Veron glanced at the others, receiving a shrug from Isaac.
+
+“She’s the healer,” Isaac said.
+
+They followed her to a side hallway, a few of the staff acknowledging or even greeting Ailis. “Do you work here?” Veron asked when Ailis had entered an empty patient room and told Veron to sit down on a chair.
+
+“Sometimes, yes,” Ailis said, though she avoided his eyes. “Wait here, I’ll get a few things and see if someone is available.”
+
+The others waited. Veron breathed in and closed his eyes for a moment.
+
+Indirect sunlight came in through the window. It was a clean but simple room.
+
+I’ll probably end up here a lot more in the future. But I guess that’ll be the best outcome compared to alternatives.
+
+He felt grateful that the station was here, and that it was free for members of the Guild. Things really could be very different here. And I do like Anvakar a lot because of it. Once I’m some super powerful elemental, I’ll have to find who runs this place and thank them.
+
+It felt both like a funny and sobering thought after today’s run.
+
+“This place feels strange,” Elke said.
+
+“How so?” Veron asked.
+
+“It’s… very clean, and cold.”
+
+“It’s efficient,” Isaac said. “They get a lot of people with injuries here every day.”
+
+“Hmm.”
+
+“I get what you mean,” Veron said. It almost feels industrialized, like a modern hospital on Earth. So many patients and people working there that it’s sometimes hard to find the humanity in it all.
+
+But it’s there, like with the surgeon that took care of Silvie. They’re probably just overworked and tired.
+
+Ailis returned with a few supplies. Cloth, a bandage, a bowl with water, and more salve.
+
+“You can just take all that?” Elke asked.
+
+“He’s a member of the Guild, and he’s here at the station to get treated, so yes, I can,” she said and started working, taking off Veron’s used bandage and starting to clean out the wounds. They weren’t open but there was pus coming out, and a few sections looked decidedly infected. “Let me know if you need something against the pain, but I assumed you wouldn’t care all that much.”
+
+Veron focused on his breathing, and he moved a piece of rock into his hand to grip it. “I’ll let you know.”
+
+“Someone else will be coming to check on you soon. An actual healer,” Ailis said.
+
+“You’re an actual healer,” Veron said.
+
+She gave him a look but didn’t comment.
+
+The wounds looked a lot cleaner but also a lot more open when the other healer arrived. A man who looked to be in his forties, black hair slicked back and black eyes taking them in.
+
+“So this is the group,” he said and gave them all a glance. It didn’t feel like a doctor was looking at them, rather it was an adventurer inspecting their capabilities.
+
+Veron didn’t miss the silver badge dangling on a necklace he wore.
+
+“You’re the leader?” the healer asked.
+
+“Yes. I can offer my left hand in greeting,” Veron said and did just that.
+
+The man shook it with his left. “Stefan, healer at the station. Those don’t look too bad. What happened?”
+
+Veron quickly gave him a breakdown.
+
+“Another Blood beast. It feels like they are getting more common,” Stefan said with both concern and interest in his voice. “Good thing you wear heavy armor. Most irons in the Crypts get sliced up when they encounter something like that. How tired do you feel?”
+
+“Exhausted,” Veron said.
+
+“But you can still stand and walk, and think clearly,” Stefan said. “Do you feel hungry at all?”
+
+“I do.”
+
+“Good, Modest Path?”
+
+“Last I checked, yes,” Veron said. He did check quickly.
+
+Elemental Path [Modest]- Harmony of Earth [Novice III]- Harmony of Wind [Beginner II]- Hidden Harmony [Faint I]
+
+- Relic slot [Empty]
+
+No change from our venture today.
+
+“Then you’ll be fine. You’ll get very tired though. I advise you to eat a good meal first and then sleep, you’ll likely be out for ten to fifteen hours. Can I proceed?”
+
+“Sounds good, thanks Stefan,” Veron said.
+
+Stefan didn’t wait any longer. He joined Veron’s side, spoke a quiet prayer, and moved his hands along the wounds, glowing light emanating from them as tissue reformed quickly. He twitched or moved his fingers here and there, slowing the process for a moment and then speeding it back up.
+
+Veron had no clue about the intricacies, but he saw that Ailis was engrossed.
+
+Stefan finished up and blinked his eyes, as if he was back in the now. “That should be good. Try to move your fingers gently.”
+
+They went through a few tests but Veron found his arm was good as new. He did feel even more tired however. “I should lie down for a while. Thanks for the healing, Stefan.”
+
+“Food first,” Stefan said. “You three, make sure he eats. Any other injuries?” He glanced at Elke with raised eyebrows.
+
+“None,” Elke said.
+
+“Your shoulder?” Stefan asked, looking at Ailis.
+
+“I took care of it.”
+
+“Good, then rest up well. And be careful out there,” Stefan said and left after he gave Ailis another glance.
+
+“Gods, I’m tired,” Veron said. He could hardly get himself to stand up.
+
+Ailis was there, supporting him under his arm. “Let’s eat at one of the restaurants nearby, I don’t want to eat at the station.”
+
+“That works. I’m hungry too, kind of,” Veron said.
+
+They went and found a place with some sunlight, looking out towards the pit. A large inn that served various stews and pies. Isaac went to get some for the group.
+
+“More silver spent,” Elke murmured. Her stomach rumbled.
+
+“We’ll make a ton from all those rusty swords,” Veron said and yawned. “Any idea where we could sell them? You knew about the prices, right?”
+
+“The shop I work at should take them,” Elke said.
+
+“Great. We’ll do that tomorrow then.”
+
+Isaac came back with various plates. “More in there. Can you help me quickly, Ailis?”
+
+They came back with more, and drinks.
+
+“Two silver for all that, can you believe that?” Isaac said.
+
+“That’s a night at the Willard Inn, with breakfast,” Veron murmured.
+
+“Or one rusty iron sword,” Isaac said.
+
+“Trade is a funny thing, huh,” Veron said, lost in hazy thoughts for a moment before he shook his head slightly. “Let’s eat. Well done everyone. I think we did a pretty good job today.”
+
+“To surviving,” Isaac said and raised his mug.
+
+Ailis smiled and shook her head, but she did join in her mug.
+
+Elke looked at them with some confusion, then glanced at Veron.
+
+He raised his mug and joined in too. “To the Elemental Path, and to the sun.” Then he nodded her way.
+
+Elke took her mug and looked at it with some suspicion, then joined it with the others. She blushed slightly when everyone looked at her with expectation. “To… food?”
+
+“To food,” Veron said and then drank deep. No alcohol. He didn’t want to worsen his recovery, and he could do without a hangover.
+
+They ate, and as he started to digest, Veron felt like a hammer of exhaustion had hit him. They had gone in, had killed some creatures, had recovered some loot, and they’d come back out. It had felt thrilling, and the food tasted all the better for it.
+
+“Should we meet up tomorrow? For selling everything and preparing for our next delve? I think it’d be good to discuss this one too, see where we can improve, see how everyone feels about the team,” Veron said.
+
+“Sounds good to me,” Isaac said.
+
+“I want to help out at the station in the morning, but we can meet up in the afternoon,” Ailis said.
+
+Elke nodded.
+
+“Great. Any recommendations for where? I’d prefer something a little less busy than the Spindle,” Veron said.
+
+“I know a place in the Circles. It’s small, cozy. There’s cake too,” Isaac said.
+
+“Perfect,” Veron said. “Then we meet up at the steps to the Adevian Fort, one hour past noon?”
+
+They all confirmed.
+
+“Awesome, then let’s finish this food and then I go sleep.”
+
+Veron barely remembered the rest of the day. He ate more, said his goodbyes, somehow made his way back to the Willard Inn, and found his bed. He woke up at some point with a slightly sore back and took off a few pieces of his armor. Then he woke up again to pee, and then a few times when people were loud. He started dreaming sometime in the morning, but it all felt hazy. At least he thought it was morning. It had been dark at some point, and now it was brightening up again.
+
+Veron sighed and pulled his blanket closer, looking at the slightly snoring man that was sleeping on the bed next to his. He could just barely make him out in the gloom.
+
+Some people were talking near the door. A little too loudly.
+
+I should get my own room.
+
+He stretched and yawned. What time is it?

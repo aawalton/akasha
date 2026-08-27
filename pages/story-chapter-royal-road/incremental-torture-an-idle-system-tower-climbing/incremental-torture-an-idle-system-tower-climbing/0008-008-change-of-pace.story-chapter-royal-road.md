@@ -1,0 +1,99 @@
+---
+id: debc5673-5784-524a-8eb0-3fb921b02954
+page-type-slug: story-chapter-royal-road
+title: "008: Change of Pace"
+slug: 0008-008-change-of-pace
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 8
+ownLength: 2044
+unit: words
+publishedAt: 2024-04-05
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1581552/008-change-of-pace"
+royalRoadId: "1581552"
+---
+
+Along with the fantastically clumsy entry of the fifth and final person came a message from the tower announcing the challenge they would need to clear to move beyond the 5th Floor. Evelyn immediately ignored the floundering girl in the fountain behind her to see if her worst fears about the instance would prove correct. Both her and the gaunt young man breathed a heavy sigh of relief when they read the notification and saw the challenge they would be facing, however Kayla simply smirked.
+
+❰ Multi-Challenger Instance ❱
+
+All Challengers have arrived on the 5th Floor, instance will now trigger
+
+❰ Instance - Mini Boss Raid ❱
+
+Cooperate with the other challengers to defeat the Mini Boss. Raid will begin automatically in 7:59:58, but can be initiated early by exiting the gates.
+
+“Well now, that’s mighty curious,” said Kayla, breaking the silence, “I wonder just how strong this mini boss will be, given that the five of us need to work together to take it on.”
+
+I’m pretty interested to find out as well, though I think we should make the most of the eight hours we have to prepare and rest. The unconscious guy certainly needs it. I’d thought that giant rat would be considered something of a boss monster but I guess not. It’s quite terrifying to think about the kind of monstrosity that the tower would consider a true ‘boss’.
+
+“I guess we’ll have to wait until the timer runs out, or at least give this poor bastard a chance to wake up before we attempt the challenge,” the young man chimed in.
+
+“I agree, I also think it would be a good idea to get to know each other a little and share any pertinent information about our fighting styles, even if all you can offer is what you’ve had to learn to survive the first few floors. I’m sure that teamwork will be key here,” said Evelyn.
+
+The girl in the fountain finally managed to get some stable footing and shot out of the water, showering them all with a gentle mist. She shook her head wildly, hair flapping in all directions like a wet dog before spitting out a mouthful of water before turning to see the group of people staring at her with half disgusted expressions, at which point her face flushed bright red and she started waving her arms about while stuttering.
+
+Eventually she was able to form a somewhat coherent sentence and mumbled, “I didn’t expect there to be other people here, sorry about that. You’re all adults too, this is so weird.”
+
+Evelyn hadn’t realised given the speed at which the girl had run directly into the fountain, but their final member was actually a child who perhaps barely qualified as a teenager. The girl seemed rather embarrassed about her previous actions and clearly they were making her a little uncomfortable.
+
+“Don’t worry about it, I’m sure you’ve been through hell to get here. What’s your name?” She asked.
+
+“Uhhh, yeah this whole tower place is insane! Like I thought dealing with the mean girls at school was bad enough but then I had to fight these giant spiders with my bare hands and then there was that one floor-” The girl started babbling but then promptly turned pale and threw up into the fountain at the mention of what was probably the 3rd Floor’s challenge.
+
+Rather than scold her for introducing yet another contaminant to their source of clean water, Evelyn placed a hand on the girl’s back and gently rubbed up and down until she had retched up the last of the watery vomit.
+
+“It’s okay, we all had to go through the same things. I’m sure it will get easier to deal with as time goes on. Why don’t we get you out of the water so you can have a little rest,” she said while helping the girl out.
+
+~~~
+
+“So just to make sure we’re all on the same page let’s run over the plan one last time,” said Kayla, having taken on a role as the group’s de facto leader due to her bold personality and southern charm.
+
+“We won’t have any information about the mini boss before we start the raid, but we can basically guess that it will be some kind of monster or mutated animal, similar to the ones we’ve faced on the previous floors but just far more powerful. Evelyn is the only person with a defensive skill, so she’ll be taking on the role of our tank, with Graham acting as a secondary tank if it’s necessary.”
+
+Graham was the wounded man who’d stumbled in and collapsed at their feet, who’d woken up around three hours into the time they had to prepare and joined the group as they were discussing strategy and getting to know each other. After she’d calmed down a little, the girl had introduced herself as Anthea which just left the ghoulish youth who never actually gave Evelyn his name. It was Zacharias, a fact which Kayla had practically needed to squeeze from him due to his rather reticent nature.
+
+“Fighting as a group is completely different to the gruelling solo crawl we’ve all been on to get this far. We have to not only think about defeating the boss, but covering each other’s backs and making sure no one is caught out of position. There’s also the risk that all of our planning is completely wrong and we need to think of a new strategy on the fly, but as long as everyone knows their role we should be fine,” continued Kayla.
+
+Only Evelyn and Kayla had acquired a skill, with the other three opting to spend their essence on a mix of attribute points and rusty daggers. Her attributes and defensive skill meant that Evelyn was basically forced into the vanguard, since none of the others were suited for it at all apart from Graham, but given the fact that he was still injured they decided it wasn’t worth the risk of putting him out in front.
+
+Zacharias had invested in two attribute points and decided to put them both into mana, which meant apart from his natural talent with a knife he was basically useless. Though he’d managed to make it to this floor just like the rest of them, so it was clear he could at least handle himself. Whether that ability would translate into being effective against the mini boss remained to be seen. Graham had also purchased two attribute points but had put them in vitality and power, making him a sort of heavy brawler and possibly backup tank if Evelyn ended up struggling.
+
+Kayla had gone for a similar set of rewards to Evelyn, having two attribute points and a skill, however she admitted to purchasing the full recovery after the 3rd Floor so that meant she’d had to skip out on taking the third attribute point she had wanted. Her two points were split between power and speed and given her obvious physical prowess it made her the prime choice for the group’s main damage dealer. Her skill was called Momentum and it increased the damage of her strikes proportional to her speed attribute.
+
+“My skill doesn’t really make that much of a difference at the moment. I had wanted to get a second point in speed, but without the full recovery I probably would’ve died on the 4th Floor,” she said with a dangerous smile, “Not to worry though, I can still smack the hell out of whatever we end up against.”
+
+I’m glad Kayla’s on our side. Her outward persona is all smiles and laughter but I can tell she’s seriously dangerous. I just hope we don’t end up having to fight each other further up the tower.
+
+Last but not least was Anthea, who had just one attribute point which she’d put into power along with a rusty dagger. She was also the only other person apart from Evelyn to have opted for a grey star, which the rest of the group thought was a waste of essence but before she could even argue for the long term gains, the young girl’s response dumbfounded the entire group.
+
+“To be honest I chose it because it sounded pretty. I bet my mum would be so mad if she knew I had a tattoo now, but I love it! I really miss her. I’m sure she’s doing fine, she could probably beat the mini boss on her own given how scary she was with a rolling pin.”
+
+I really hope my mum’s okay too. I don’t even know how they’d deal with all this crap. I guess everyone is different when they’re thrown into the mixer though, so maybe her and dad will turn out alright. All I can do is keep smashing through whatever this damned tower throws at me and hope I get a chance to see them, Lily and Marvin again some day.
+
+“Anthea, just do your best to help everyone out and distract the boss. Me and Zach, do you mind if I call you Zach?” Asked Kayla.
+
+“Sure.”
+
+“Me and Zach-”
+
+“Zach and I,” interrupted Graham with a cough.
+
+“Darlin, if you don’t want me to give you a new cut on that beefy chest to match the one on your back I’d suggest you don’t interrupt me when I’m talkin,” Kayla said with a fierce glare that left no doubt in everyone’s mind that she meant what she said.
+
+“Keep talking dirty, I love a dangerous woman,” he retorted.
+
+Evelyn didn’t even see Kayla move and only realised what had happened when Graham cried out in pain and when she looked over she gasped. Anthea was staring at her empty hands in confusion and Zacharias had leapt between Kayla and Graham, perhaps just in time to prevent her from killing the man. While Evelyn honestly couldn’t fault her given the disgusting comment, they needed every single person alive to deal with the mini boss before sorting out personal grudges.
+
+Kayla had stolen Anthea’s dagger from under her nose and buried it in Graham’s stomach and was prepared to rip it out and go again when Zach had gripped firmly onto her arm and refused to let go. Honestly the most surprising part of the whole ordeal was the fact that the skinny young man was strong enough to hold Kayla back.
+
+“Jesus christ, did you really have to do that? We only have half an hour left until the mini boss raid starts and now we’re going to be down a person. If we die in this godforsaken tower I’m gonna find you in hell and make sure to kill you again,” said Evelyn.
+
+“All of y’all need to relax. I know this slimy bastard can still take a full recovery for the 4th Floor reward. I’m sure he wanted to get something nicer but that’s too bad. I’m gonna pull this dagger out, you should probably spend that essence if you don’t want to bleed out,” Kayla said, rolling her eyes.
+
+“You got me,” said Graham, straining to speak with a knife in his gut, “I just couldn’t help myself.”
+
+Without even giving him the chance to apologise, though he didn’t really seem like the type who would, Kayla ripped the rusty dagger from his stomach and the accompanying spurt of blood made her look like the main character in a slasher movie. Thankfully for all of them, it seemed her guess was right on the money and Graham tapped on the air in front of him, following which his body was enveloped in glowing white light that healed all of his visible wounds and left him with a spring in his step.
+
+“Tread carefully, Graham. Just because you don’t have another one of those to spare doesn’t mean I won’t let you off if you make another remark like that,” Kayla warned the man before returning the dagger to Anthea.
+
+“Well, it looks like our teamwork needs a bit of polishing but I guess we’ll never be more ready than we are now, why don’t we get this raid started,” said Evelyn, placing a comforting hand on the young girl’s shoulders.

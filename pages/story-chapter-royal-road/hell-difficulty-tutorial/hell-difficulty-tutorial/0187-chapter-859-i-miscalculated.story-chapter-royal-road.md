@@ -1,0 +1,181 @@
+---
+id: 09907ee1-1490-5387-b133-457534c0149d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 859 - I miscalculated"
+slug: 0187-chapter-859-i-miscalculated
+partOf: hell-difficulty-tutorial
+position: 187
+ownLength: 2704
+unit: words
+publishedAt: 2026-08-12
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3806101/chapter-859-i-miscalculated"
+royalRoadId: "3806101"
+---
+
+I have a hard time deciding if I like Griffins or not.
+
+On one side, they seem almost like these cute, murderous machines ready to kill a person for even a bit of mana, and I can respect that. They are cruel, but looking at it another way, aren't cats the same? Probably even worse. I’ve seen cats do terrible things to other living beings, like squirrels and rats, just for the love of the game, not because of a need for food. The Griffin at least went for the kill before it started eating.
+
+On the other side, Griffins also seem to like mana, and that creates a possibility of them being mana thieves. And we don't like that.
+
+I stop swiftly and hold my hand out in front of my sister, who stops on the platform next to me. We watch as one of the participants approaches the clouds, which have lightning going through them, and the moment he comes close, a lash of lightning hits him, damaging him enough that he’s teleported outside.
+
+Victoria moves first, and I follow her as she breaks a window leading into a skyscraper and then shifts to a slow, calm walk through the hallways.
+
+This event requires us to get one of 1000 mana stones. That means it will likely continue until all of them are taken. According to what I have learned, that means up to three days, even if it could be much shorter. After all, it might be possible for one person to gather up hundreds of the mana stones and, in so doing, block the way forward for many participants.
+
+While I mull that over, both of us stop and listen to the sound of cracking glass as someone steps over it, and walking out from behind the corner is a man entirely cloaked in shadows and holding a glowing, red-bladed dagger. And over his head floats a similar shadowy crown.
+
+He glances our way and, confirming that we don't seem inclined to attack, walks away, finding a staircase heading down.
+
+Me and Vic follow along behind him as the skyscraper seems not to be affected by the lightning storm outside. I think it is a way to force participants into smaller, narrower places, allowing for a higher variety of battlefields.
+
+The man covered in shadows must know we’re walking behind him, but even now, he doesn't seem to mind and heads down, and the lower we go, the fewer lights there are.
+
+No one here needs it, but at some point, I create a thermal cube to light the way. I just feel more comfortable having a bit of cozy light nearby. The cube floats and slowly spins over my shoulder, throwing a gentle golden light over the walls while also creating shadows of the railings and our own bodies.
+
+My perception is raised as I observe the man. I wait for an attack or anything, really. Yet, he doesn't bother. Instead, he just continues down.
+
+"Any idea who he is?" I ask my sister, not caring if he hears us.
+
+"Absolute Candidate Euris, said to have been declared by a wyvern," Victoria says.
+
+"Damn, a wyvern? I thought all those guys hated the system? How can they even declare people?"
+
+"I do not think there are a lot of details available about that, Nathaniel."
+
+"I see. Do you think he’ll tell me if I ask him nicely?"
+
+"He doesn't seem the type," she says, her eyes watching the man the same way I do, ready for any sign of attack.
+
+Yet even now, it doesn't come.
+
+A few participants find their way into this skyscraper as well and begin their rush down the stairs. When they notice us, they begin attacking immediately. Throwing explosive projectiles down after us, using their presences for intimidation, or straight up charging into melee.
+
+For the most part, a few lances are enough, and Victoria takes care of the melee-range ones. Interestingly, this place has very durable walls. Not one of them takes any damage, not from my projectiles, nor from explosions, nor from Victoria slamming some poor participant into them.
+
+It's not like they’re indestructible, but they require some amount of effort to break. My lance can pierce through when I try, but any more would require more than 30 percent of my abilities.
+
+Maybe I should hire these guys to build my future moon base.
+
+When the stairs finally end, we enter a long hallway framed on both sides by big windows through which I can see the storm clouds which are now above us. The hallway itself is at ground level, which radiates heat, like a lot of it. Like "the floor is lava" level of heat. That part of the ground is red, and there’s an array of narrow, twisting blue pathways that don't radiate heat, tracing routes over it.
+
+The sky is still filled with that nasty lightning, and there are big clouds of green mist moving about like a living being. Throughout the space are tall, round towers, like the sort some fantasy wizard would have.
+
+There are also lakes, a few mountain peaks capped with snow, and mysterious pits whose bottoms I can't reach even with my senses, nor can my eyes pierce the darkness within.
+
+And of course, participants are battling all over. I can sense a few really nasty arrays and domains that I suspect somebody must have set before the other participants came down. I think these people went through the second layer as quickly as possible to make their preparations here. Some of the arrays are impressive, and they’re not all that different from mine, to the point that I don't think I could remove them easily.
+
+Euris, whom we’d been following, is already gone, disappearing who knows where, when Melek's voice carries through this layer.
+
+"With great pleasure, I want to announce yet another special spectator! The guest isn't here just yet, but I am far too excited not to share the news right away! He contacted us directly, and after a brief discussion, we agreed to arrange his transport here!"
+
+His voice cuts off as if he wants us to muse it over, though I suspect this pause is mostly meant for the viewers and spectators to theorise with each other.
+
+Then Melek shouts again in a gleeful voice, "For now, I will keep their identity to myself so you guys will have something to think over! Please don’t hate me too much for that!"
+
+Me and Vic look at each other, but neither of us says anything. I highly suspect the invisible cameras are currently zooming in on participants’ faces to fish for a reaction, but they won't be getting any from me.
+
+I shield the two of us, and we begin to run through the blue path, heading towards one of the towers nearby, or well, at least one that hasn't exploded yet.
+
+Even an hour later, we have no mana stones, nor have we seen any sign of one. Once in a while, Melek announces some famous participant finding his mana stone and using it to "pass" through this event.
+
+There are no ridiculous audience votes like summoning another Griffin, but there are a few fun ones. For example, increasing gravity fivefold for five minutes. Another one is to plunge this whole place into total darkness, but that one is quickly canceled as it seems a number of people in the audience threw up because of the night vision cameras.
+
+Some of them are straight up ridiculous.
+
+Like having to do a short dance every time you kill someone to avoid being kicked out. That one lasts surprisingly for half an hour, and the audience doesn't seem to get bored of it. And the participants continue to fight, not seeming to mind the new "rule".
+
+There are probably many more, but the area of effect is usually much smaller, often targeting certain participants. Mostly the more famous ones. Some of them get harassed by the audience, while others get powerful single-use items and such.
+
+Many of these participants are clearly taking advantage of that, putting their best side forward. Others are trying to promote some company or other when they think the camera is on them.
+
+And the longer this goes on, the deeper the contempt forming inside of me grows for all of this.
+
+This is a joke.
+
+It takes the act of competing against each other, the test of skill, mind, and body that I enjoy so much, and twists it. It feels like they aren’t even taking the effort people have put in to get here seriously, treating them like simple puppets thrown into an arena for a laugh.
+
+With Vic, I search through the area, sometimes getting into smaller, quick fights, but never seeking them out. There are a few times when I think the camera focuses on us. After all, we’re both likely to be the newest additions to the system out of everyone here. Bums from a newly awakened rural planet. Still attendees of the tutorial, even if talented enough to become S-rank.
+
+I don't think any of it matters to the organizers or the audience. We’re just siblings. A Chekhov's gun waiting for one of us to die or lose so they can see the reaction of the other, or so they can pit us against each other.
+
+But meanwhile, there are many more famous names people are interested in.
+
+So we don't do anything outrageous, and after a few more boring hours that only serve to make me more frustrated, both of us have our mana stones.
+
+Unlike many of the others, we don't remain behind to find more of them, but crush them right away to appear back inside that small room where we were before the event started.
+
+With our appearance here announced, Selene and her two colleagues rush in, congratulating the two of us while dragging us through the hallway, where we meet more participants who’ve advanced in similar fashion.
+
+"So far, the audience seems to like you! You did brilliantly on the second layer, which shocked quite a few people. But they got a bit bored by your performance on the third, honey," Selene says. "It wasn't bad, but it lacked any sort of extravagant flair, if you know what I mean!"
+
+"I am well aware of that, Selene," Victoria replies calmly.
+
+The five of us step onto a platform that functions like a high-speed horizontal elevator, hurtling us through the desert toward a cluster of towering buildings in the distance.
+
+"I'm glad you are!" Selene continues. "To be honest, if you do well, it benefits me too! We have a bit of downtime now, probably a day or so, which gives me enough time to commission some proper clothes for the two of you and book another interview with Melek. Just keep in mind that since you passed, the organizers will be paying a premium for any dirt on you, and the amount of money they’ll be able to spend will only skyrocket if you clear the second game. They love digging up nasty little secrets to provoke a reaction or rile up the audience. Though I'm still not sure what narrative they’re looking to build around you."
+
+She taps her chin thoughtfully as the platform accelerates, narrowly missing another platform a few times.
+
+"Of course, they love the sibling dynamic," Selene muses. "But I don't know if they'll try to cast you as villains or heroes. Perhaps one of each? Nathaniel, sweetie, after your stunt with the Griffin, they could easily paint you as an arrogant, villainous type. Or maybe a rebel against the system? Who knows. Melek is entirely unpredictable, and he's the one calling the shots. That ridiculous man is the only one capable of keeping track of it all in that creepy head of his."
+
+The platform finally grinds to a halt in front of a towering metallic skyscraper surrounded by lush, vibrant gardens that feel entirely unnatural here in the bone dry desert. We’re led along a cobbled pathway running through the oasis. It’s clearly just one of many such compounds, which makes sense. Organizations with the resources to construct entire layers for the first game wouldn't struggle to build a few buildings like these.
+
+Once inside, Selene takes my measurements and departs, leaving me with barely enough time to settle into my quarters or take a shower before a sharp knock sounds at the door.
+
+A sudden burst of suspicion makes me want to fire a lance straight through the door, a blood and empyrean mana lance powered by up to thirty percent of my total capacity and reinforced by up to thirty percent of my kinetic energy capabilities.
+
+Suppressing the urge, I take a few steps forward and pull the door open.
+
+I give it a fifty-fifty chance of being Envy or Adrian. And the opening door reveals the latter.
+
+I almost slam it shut the moment I see his infuriatingly honest smile. To make it worse, he looks even younger than before. Where he previously resembled a well-maintained man in his mid-forties, he now looks as though he is barely pushing his late thirties.
+
+"I can leave if you prefer," Adrian says smoothly.
+
+Instead of answering, I step aside, and he walks into the room, looking around curiously.
+
+"They didn't invite you to the game, so you decided to show up and cause trouble anyway?" I ask, shutting the door behind him.
+
+"Oh no, I was invited. I simply turned it down. While it looked entertaining, it felt a bit too shameless to pit myself against these people."
+
+"As if you wouldn't join the moment there was something to gain."
+
+"Possibly," he agrees.
+
+"Then what are you doing here?"
+
+"Your handler is likely too preoccupied preparing for whatever is brewing on the twelfth floor of Beyond, so she doesn’t know. But this Game is about to become very interesting too."
+
+"Envy?"
+
+"Envy, and a few others," he confirms.
+
+"So the two of you are best friends now, sharing secrets?"
+
+"I wouldn't put it quite like that," Adrian replies, his grin widening as he clearly savors my frustration at being left out of the loop.
+
+So I lock eyes with him and ask. "Have you seen Beyond's Individual Rankings lately?"
+
+For a fraction of a second, and only thanks to my thought acceleration, I see his smile falter just that tiny little bit.
+
+POV Ruby
+
+Maybe choosing the Game as a place to let Nathaniel "rest" was a mistake. I know him at least a little after all this time, and I can see it on his face. That growing, dark frustration, waiting for the moment he decides to snap and release it all.
+
+I expected him to get annoyed, but I probably miscalculated, and he seems to look down on these people even more than I thought he would. At least his sister is there to rein him in a little.
+
+In a way, he seems similar to Master Lissandra. She would also have utterly despised the Game.
+
+But even if there is something I’ve missed, there isn't much I can do to help him, and I’m beginning to worry that we may have been tricked. Both me and Diligence.
+
+Maybe the Beyond’s main defensive array was purposefully handed over to the imitation so she could get into what she is doing now. Maybe there are people who are now relying on me and Diligence to be distracted by her to put their own plans into motion.
+
+There isn't much I can do about that now, other than send in a few of my available Masters of Greed and notify a few Rulers who might be willing to help.
+
+For now, I have to focus on keeping the tutorial stable and not allowing Diligence’s near panicked emotions to affect me.
+
+The Imitation of Master Lissandra is advancing something she’s been sneakily doing for a while, and she’s been ramping it up now that she has that ridiculous dagger.
+
+There’s no stopping her now, but we still have to do our best to keep the tutorial from breaking.

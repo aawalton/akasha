@@ -1,0 +1,293 @@
+---
+id: 522e3550-efd0-583c-bed7-d605e4bfd2cb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36"
+slug: 0036-chapter-36
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 36
+ownLength: 4179
+unit: words
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2921753/chapter-36"
+royalRoadId: "2921753"
+---
+
+Chapter 36
+
+It took almost two hours for the group to reach some sort of official. They were registered and assigned to the third ship, the Serena, and put under the command of one Tenea Velkir, a family name from Lyrie as the others informed Veron.
+
+She waited for them near the ship, taking them in with a piercing glance as they approached.
+
+Tenea looked to be in her late thirties, wearing half-plate armor and a large sword on her back. She had a few scars on her face and short black hair.
+
+“Names, Paths, aspects, and reason for joining,” Tenea said, and Reka answered.
+
+“Iron. You’ll be focusing on support. We’re leaving at eight. You’ll stay at the Falken Inn for the night, room thirty eight, paid for including breakfast. You are expected to bring your own supplies. Enough for potentially several weeks of travel.
+
+“The expedition force is organized into divisions related to the ships we will be traveling on, with command flying in the airship above. Hallond Pierce is the leader of our ship and division. He’s a Platinum adventurer from Anvakar.
+
+“Tomorrow, we will make for Perrion, though Lady Mera informed us that we’ll stop and disembark well before the city walls. The goal of this expedition is reconnaissance and threat extermination. Prepare for battle, for unknown threats, and for an unknown duration.” She finished and nodded, giving them a smile. “It’s good to have more people from Lyrie with us.”
+
+“Agreed,” Silvie said.
+
+“Move on then, plenty more to join,” Tenea said and glanced at the next group waiting behind them. “And I’ll see you tomorrow.”
+
+They left the throng of people afterwards, finding their inn and getting their room.
+
+“Let’s go out for supplies, and then we have dinner and catch some early sleep,” Reka said.
+
+Veron woke up a few times in the night, dreaming of magic lights and creatures in dead forests. He woke up early and found breakfast in the common room, joining many other armed and armored men and women who would travel with them on the boats. Experienced fighters, by the looks of them, for once not just more teams going into the dungeon but people he would fight with side by side.
+
+The others joined him and soon Veron was back in their room and checking his gear. They would leave in half an hour.
+
+He looked over the stone armor he had made himself, now with the strength of his Modest Path and his Earth Harmony at a newly advanced Novice III. The six blades within, the small arrowheads, and his new blades to throw. They had bought new and bigger packs, spare clothes, rope, food, and water, using much of their remaining funds. He wore his new coat and put on his helmet, readying his shield and mace before he went out into the cold and windy morning to wait for the others.
+
+Veron raised his coat against the drizzle of icy rain coming from the dark clouds above. Connecting to the winds, he felt them pulling him up and towards the dungeon town, not a strand pulling southwards.
+
+I hope it won’t affect my ability to wield my magic at the very least.
+
+Adventurers clad in all kinds of armor and winter clothing walked past and left the inn. They carried large and heavy packs with weapons, pots, and tools strapped to them.
+
+Hayden and the others joined him, the group armed and armored.
+
+“Carrying a pack with one arm fucking sucks,” Silvie said.
+
+“Hayden is carrying most of your part,” Reka said.
+
+Silvie grunted and nodded towards the harbor.
+
+“Everyone ready?” Reka asked.
+
+“Yeah,” Veron said.
+
+Silvie saluted.
+
+“Yes,” said Hayden.
+
+“Then let’s board the Serena.”
+
+They walked over frozen puddles, ice cracking below their boots as the morning rain muddied the streets. Bright lamps hung on the two stories of the ships, lines of armored adventures waiting to board.
+
+They joined the queue to the Serena, soon walking into the ship and led into what looked like a cargo hold.
+
+The large hall now harbored over a hundred adventurers and their gear, sitting down in cramped and somewhat organized lines, packs between their legs and someone else in front of them. There were no windows, a few magical lanterns adding some warm light to the space. A few bells tolled as people talked and laughed.
+
+“Departure in fifteen!” someone shouted from outside.
+
+Veron felt warm in his coat, sitting close to the others of his team. He was ready to doze off again.
+
+Conversation came from near the entrance before a man walked inside. He was tall, two meters at least, heavy black scale armor covering him from head to toe. Veron couldn't see his eyes as he moved his head, taking in the adventurers. He didn't speak but the room went entirely silent a few moments later. The man made a single grunting sound, carrying both what Veron felt was disappointment and a challenge into the hall.
+
+“Mera will speak. You will listen,” he said and stepped aside.
+
+Next came in a woman a head and a half shorter than the man, blonde, almost white hair going down her back in a complex braid as she took in the room with a measured glance. She wore intricate armor made of silver and black metals, glints of gold visible when she moved. Under her right arm, she carried a helmet that would cover all but her eyes. Her gear was polished but even at a distance, there was a blunt quality to it that couldn’t quite be hidden.
+
+“Thank you, Hallond. You may leave.” She spoke easy, and yet her voice carried.
+
+The tall man seemed to look at her for a few seconds and then left without a sound.
+
+“A grand and unknown spell has spread out from near Leiveen,” she said. “It has devastated the Palewoods, and likely much more. Thank you for heeding the call, healers, mages, and warriors of Anvakar and beyond. I am Silea Fiore Mera, your expedition leader. It’s good to see you armed and ready.” She paused.
+
+“I expect you to follow orders when they make sense, and to support your fellow brothers and sisters in whatever battles lay ahead.”
+
+Lady Mera looked around slowly, then breathed in, and smiled. “Rest now, share in food and story, and get to know those you will fight beside. We will stop and disembark in around eleven hours. And then we find out what the fuck is going on.”
+
+A few people chuckled at that.
+
+She stayed for another few seconds, and then turned and left. “I’ll see you out there.”
+
+A few conversations started nearby and then more. “She doesn't seem too bad,” Veron said.
+
+“Yeah. I trust her reputation more than her words here,” Reka said. “Nobility like her speak with words chosen for the occasion.”
+
+Interesting take. I kind of want to talk to her, if the opportunity ever presents itself.
+
+“You're smitten by her,” Silvie teased.
+
+“She does seem very interesting. She looks your age but there was something about the way she looked at us all.”
+
+“Yeah. It’s uncanny,” Silvie said. “It’s obvious she’s a lot older.”
+
+“What can you tell me about the Mera? Do you know your history?”
+
+She closed her eyes and rested her head on Hayden’s pack behind her, imitating a snoring sound.
+
+“Thought so,” Veron said with a smile and rested his head.
+
+He closed his eyes and opened them again when the boat rocked, magic thrumming to life before a monotone mechanical sound came from below. They had started to move.
+
+The atmosphere was exciting at first but soon, people started to share food, games, and stories. A few even took out instruments. Most of the adventurers were asked to remain in the hall but every few hours, a large section could go outside and get some fresh air.
+
+When it was their turn, Veron followed the others out through the simple corridor leading upstairs and to the top of the armored trading vessel, glad to be moving his legs.
+
+The wind felt strange when they came out into the open, and Veron immediately smelled iron. Behind them, the Karrian river carved its way through the landscape, surrounded by white trees and leading to the mountains of Anvakar. Ahead, slowly, the landscape shifted. The trees lost their color, and no snow remained on their branches. The few dark red and brown leaves yet to yield to the winter cold all remained to the north, no specs of color or life visible along the shores that led towards Perrion.
+
+Veron blinked his eyes. Black storm clouds covered the skies as far as he could see, and the air itself seemed to take on a sickly tint of green as they traveled southwards. A few minutes up on top of the ship and he started to feel a slight headache, pressure in his chest and stomach. He wasn't sure if it was the magic or simply his reaction to seeing a dead world.
+
+White light emanated from someone at the center of the viewing deck, the nausea and headache lessening immediately.
+
+“It really is true,” Reka said. “Could Lyrie have countered or survived the same magic that did this?”
+
+“We will find out,” Hayden said.
+
+Veron connected to the wind. It was still possible but it felt disturbed, in a way he could neither point to nor explain. The atmosphere had shifted in the hall, the conversations more subdued, people checking their gear and provisions.
+
+The second time they went outside, the forests were dark, and dead, not a single leaf or speck of snow visible. The Karrian river snaked forward through the land, moving their vessels ever southwards.
+
+It was dark already, when they made landfall, boots stepping onto dry earth as they left the ramps of the trade vessels, bright magical lamps illuminating the surroundings as their group joined the many lantern lights moving into the dead and silent forest. No stars were visible above. No rain nor snow was falling. There was almost no sign of wind and the air was cold. A dark gray mist-like tapestry moved above, only visible due to their many lights.
+
+Veron could feel the pressure of the residual magic, as if the air here was heavier, and poisoned. He connected to the earth and felt that it too was sickly, though in what way, he could not discern. They moved with their assigned group, a devotion caster spreading warm light with an incantation, the weight and pressure lessening for a few moments but slowly closing in again with every step they took.
+
+Shouts came from ahead but no sounds of battle. Movement in the forest but they were yet to be attacked. It all returned to silence. It was difficult to see in the gloom, but soon they found a road, one he may have traveled just a few weeks prior. Riders moved past, the dark shape and thrumming sound of the airship passing above, disturbing mist-like clouds as if a whale pushing through the resting sand of ocean floors.
+
+“Halt!” a voice called from ahead. Tenea Velkir. She joined the twenty five or so adventurers of her unit, the Silver Wolves among them. Half-plate armor, a sword on her back, much like Ivera’s, and heavy steps. “We have been assigned the area to the right. We will make camp until first light. Runics, set up alarms and protections, one out of four will be on guard duty, rotate within your parties. Devotion healers and anyone with the ability to stave off this damn curse, make sure to keep an eye on the group.”
+
+Veron kept watch while Hayden and Silvie set up their tents, Reka joining the Runics to set up their protections. He couldn't see far, hearing the subdued voices of the many other adventurers, the sounds of metal hitting cold earth as tent stakes were hammered down into the ground, axes striking wood for fuel, and flint hitting steel to spark fires.
+
+The conversations were few and quiet, a tension present in everyone, iron ranks and gold alike. It was just as much the pressure of the magic in the air and ground as it was the unknown beasts lurking just beyond the fog, or so he thought.
+
+“Those under Velkir, gather,” Tenea Velkir called out after they had settled down.
+
+They joined their unit, Veron looking at the others. Two gold teams, two silver teams, and two iron teams.
+
+“I’m Tenea, captain of this unit. This is my team, Frederick, our Devotion healer,” she said and nodded to the man.
+
+He was tall, broad, and covered in plate armor, giving a nod to the gathered adventurers.
+
+“Heva, our runic mage, trapper, and much more,” Tenea continued.
+
+The runic mage gave them a slight bow. “It’s good to work with you all.” She wore a thick gambeson covered in a cuirass and had a kite shield strapped to her back.
+
+“Unea and Ivar, Devotion warriors,” she said, the two greeting the others. One held a battle axe and a shield, the other wielded a spear, both in half-plate armor.
+
+“John, why don’t you introduce your team, then we continue with the silvers,” Tenea said. “I think it’s good to know who you’ll be fighting besides.”
+
+“Agreed. I’m John,” a man in heavy armor said as he stepped forward. He wore a gold badge like Tenea and her team. “Pleasure to meet you all. These are the Honored Few,” he said and pointed. “Gerrard, crossbow expert and good at hiding.”
+
+The man grunted and smiled. He wore a mix of plate and leather armor.
+
+“Silvan. Elemental Path and fire user,” John continued.
+
+Silvan gave them all a nod.
+
+“Alice, our healer,” John said.
+
+Alice crossed her arms. “More than just that.”
+
+John winked at her.
+
+“Next, the silver teams,” Tenea said.
+
+The others introduced themselves quickly, Veron doing the same when it was their turn. He felt better, knowing their names and some of their specializations. He’d only seen one silver team fight so far, and they’d already been impressive. He wondered what the golds could do.
+
+Two teams of people as high leveled as the doctor who did Silvie’s surgery. And she seemed like a big deal.
+
+They cooked and shared food, though nobody seemed up for much of a conversation, the many Devotion Paths often murmuring what sounded like prayers or incantations to cast their spells, helping them all deal with the constant pressure of the residual curse.
+
+Veron didn't sleep much in their tent, the lack of sounds and wind feeling strange to him. He was woken by Silvie, and was glad that some light had returned. It still looked like a particularly gloomy morning with a tinge of green, but at least he could see a little farther than the lantern light.
+
+He got ready, now seeing the many other adventurers and the lights in the stark remains of the forest. And he felt nervous.
+
+“Some of the scouts and forward teams have spotted and engaged creatures in the night. Chaos beasts, fast and dangerous. Humanoid and more intelligent than most. Only a few teams managed to kill any. Most of the creatures have disengaged and fled once it was obvious they were outnumbered,” Tenea reported to them during breakfast, bowls of stew shared among their unit. “There were deaths, and disappearances. Stay close to your teams and to your unit, it will serve everyone, including yourself.”
+
+“Are they known variants?” John asked. He didn’t wear his helmet this morning. He looked middle aged, his brown beard mostly covered by plate armor. The gold badge glinted, embedded in his shoulder piece.
+
+“No. Some resemble Engur and Herasar but they do not share the fur or pale skin. I'm sure a lot of the higher ups have theories but nobody has shared anything definitive with me. They are as tall as humans but move faster and apply simple tactics.”
+
+“Abilities? And what’s the rank of those who faced them, and those who died.”
+
+“No magic or abilities mentioned. Gold ranks took a few down, one silver team succeeded too. The deaths were silver and iron ranks but there were injuries among gold ranks too, so don’t underestimate them. Iron teams especially should focus on support, and on ranged attacks.”
+
+John nodded.
+
+Veron glanced at Reka.
+
+“Chaos beasts that retreat when outnumbered?” Jina asked, one of the silver adventurers, clad in light armor and wearing a hood, a bow strapped to her back.
+
+“Rare, but not unheard of, especially in more dangerous areas,” Tenea said.
+
+A few of them murmured amongst each other.
+
+“How will we proceed?” John asked.
+
+“We will meet any resistance before the walls, then we will enter the city, and clear out its streets and houses piece by piece. The Serena division is to clear the market district, advancing through the east and meeting up with the other divisions by the harbor.”
+
+“What about the city gates?” Reka asked.
+
+Tenea smiled. “If they’re shut, the alchemists of the Ancire will have that covered, apparently. We’ll see how that looks.”
+
+John gave her a slight nod.
+
+“We are less than two hours away from Perrion. The scouting teams have already left and we will join them in half an hour. Pack up and get ready.”
+
+The walls of Perrion looked strange. That was all that Veron could tell. Maybe it was the quiet. The lack of movement, lack of smoke. Even the Terrom lake beyond looked still, the part that was visible at least. He felt the weight of his shield and mace, turning the weapon in his hand. They had moved in formation, now standing with their unit between two others of the Serena division, facing the drab city walls of Perrion.
+
+Tenea Velkir stood before them, blue eyes glancing back at them before she faced the city once more, head protected with a steel helmet. The airship floated above, the hum of its magic the only sound in the vicinity. Left and right of them, the expedition forces stood, many hundreds of adventurers, weapons and spells at the ready, some holding banners with crests and sigils of cities or families that Veron didn’t know. Scouts returned from the city walls and riders moved in front of the formation.
+
+“No resistance in front of the walls,” John said. He didn’t sound relieved exactly.
+
+Tenea looked up when someone jumped from the airship, landing front and center of their entire formation.
+
+Silea Fiore Mera stood from her crouch, a red plume adorning her helmet. Her silver and black armor glinted with bits of gold as she took in the expedition force. She reached her hand out to the side and a glaive appeared, black metal inscribed with golden runes, taller than she.
+
+“Adventurers. Today, we retake Perrion! Chaos beasts lurk in the dark. Let's go and hunt them down!”
+
+She turned around and raised her glaive, explosions ringing from the airship as spheres of steel rushed down towards the city gates. They impacted with bright light and a deafening crash, the field quieting as dust spread and splinters of wood and steel slowly fell onto the dry earth before Perrion.
+
+Veron breathed in, glancing left and right. He focused forward and towards the figure of Silea Mera. He had fought monsters, but now he stood beside silver and gold ranks, and he was part of an expedition. It felt both exciting and terrifying. He slowed his breathing.
+
+Focus on what you can do. Support the higher ranks, and don’t take unnecessary risks.
+
+Movement on the walls got Veron’s attention. He squinted and saw rope ladders thrown over the sides.
+
+From the scouts? They got onto the walls?
+
+Tenea Velkir unsheathed the large sword on her back, setting it down onto her shoulder. “We move to the gates.”
+
+Veron followed as he saw the entire expedition start to advance. Not like a well-structured military formation but in loose groups of adventurers, some shouting, some brandishing their weapons. Lady Mera walked ahead, glaive in hand as she approached the splintered and broken city gates alone. The airship advanced above. Some adventurers had rushed forward, climbing the ladders now as the airship crested the city walls, more people descending from it on ropes.
+
+Nothing attacked them as they joined the throng of people making for the city gates. Veron now saw the first of the dead, a rotten smell joining the constant pressure and weight of residual magic in the air.
+
+There were dozens on the square beyond, corpses drained of life with faces frozen in pain and screams. Someone bumped into his back and he realized he had stopped walking.
+
+Veron forced himself to move, seeing the adventurers setting up small blockades as the units spread out and got into position, some climbing up buildings, others kicking in doors. Magic emanated from Devotion casters as the curse was pushed back. Lady Mera stood atop a central building, looking out onto the city.
+
+Hallond Pierce called for the Serena division, sending his units into the many alleys and streets of Perrion. He walked between them and shouted. “Clear every house, check every gutter, every hiding spot, rid this city of corruption and chaos.”
+
+His voice carried, his eyes vigilant as he watched the streets and adventurers alike. Veron felt himself grip his shield and mace.
+
+The others were next to Veron. Reka, Silvie, Hayden, their team following the higher ranked groups and people of their unit as they advanced through a side street, stepping past and over the many corpses covering the ground.
+
+Tenea pointed at three teams and then to a house on the left, then three more and to the right. Veron followed John’s gold and Estlan’s silver teams, their groups spreading out in a loose formation in front of the entrance, John and Gerrard at the front, glancing back and checking if everyone was ready.
+
+A moment later, John kicked in the door and went inside, lantern illuminating the common room of an inn as fifteen men and women followed him. The silver wolves went in last, the lowest ranked and support of the other groups.
+
+It was quiet inside, corpses slumped on wooden chairs, dim light coming in through the murky windows of the old inn. Ten lanterns illuminated the space. The air was stuffy, and it reeked of death and iron.
+
+Slowly, they spread out and advanced, checking every corner.
+
+“Behind the counter. Something moved,” Gerrard said, raising his crossbow. Veron got one of his blades ready.
+
+They were quiet and waited. Then something rushed out. Magic flared up and fire exploded, Veron trying to aim at the dark figure rushing between them, he saw something impacting John’s shield twice before it glowed and he struck back. One of the silvers threw a spear, skewering the creature and pinning it to the wall of the inn.
+
+It wasn’t dead, squirming on the wall and trying to grasp at the spear.
+
+It looked almost human, patches of clothes covered parts of its sickly skin. Long oily hair draped from its head. Splatters of blood covered its one remaining arm and what little clothes it wore. Long claws extended from its one hand and yellow eyes took them in with frantic motions of its head. There was no fear in them, but consideration. Its mouth opened, a slithering tongue moving over human teeth before it ripped itself from the wall with the spear still in its side. A bolt slammed into its head and chains caught its moving form, pinning it down again.
+
+Veron aimed one of his blades when he saw John rush forward with insane speed, wisps of white golden magic dissipating from him before his sword burst into golden flame, cutting down and through the neck of the creature with a single strike. Wood splintered and cracked for a few meters beyond the strike.
+
+The room quieted as John stepped back, all eyes on the dead creature. And then its body moved again, pulling on the chains and ripping itself free.
+
+Another swipe from John took its remaining arm before Silvan walked forward, a glinting flame above his hand. The only Elemental Path here besides Veron.
+
+The others stepped aside as he reached out his hand, flames erupting and burning what remained of the creature. The heat felt like they were standing in a forge. Quickly, its skin blackened and its movements stopped. All the flames clinging to the wood vanished a moment later.
+
+John looked at his shield, three clean lines showing where the claws had cut through steel.
+
+“We clear the rest. Stay vigilant,” he said.
+
+Veron looked at the burnt up corpse. The smell had spread through the room and the heat of the flames lingered.
+
+“That’s not a chaos beast,” one of the others said, Allison, if Veron remembered right, moving the body with her foot. “That was a human.”
+
+“Was,” Gerrard said. “Let’s keep moving.”

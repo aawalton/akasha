@@ -1,0 +1,125 @@
+---
+id: 16f0657c-090b-5e15-8464-f758e650e1c2
+page-type-slug: story-chapter-royal-road
+title: "303. The Final Battle"
+slug: 0303-303-the-final-battle
+partOf: god-of-trash
+position: 303
+ownLength: 2281
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3306416/303-the-final-battle"
+royalRoadId: "3306416"
+---
+
+Even before he’d finished his shout, his line was already charging. Sid took the lead, barreling into the enemy soldiers and generals. Sable followed close behind, almost as excited as her father. Soma giggled gleefully as he ran past, and Straw drifted off. Rhys wasn’t sure where to, but the man seemed to know what he was doing, so he left him to it. Bast went to charge Virgil, but Rhys raised his hand.
+
+“Let me have the first pass. I’ve got something really important to do with him.”
+
+“It better be really fuckin’ important,” Bast gritted out, frustrated. He glared at Virgil with what could only be described as sheer bloodlust.
+
+Rhys smiled. He felt a little bad about preventing Bast from killing Virgil off the kick, but this was necessary. He didn’t know how long it would take Bast to duel Virgil, and there was something he really had to get done ASAP if they wanted to leave the Alliance in anything but shambles. “It is. Don’t worry. You’ll have plenty of Virgil to kick around when I’m done with him.”
+
+“I’ll be right behind you.”
+
+For a moment, Rhys felt as if he was dangling a squeaky toy inches above the nose of a very large dog. It didn’t want to bite him, but it really wanted that squeaky toy, and if he wasn’t fast about it, he might end up as collateral damage.
+
+I’ll have to do this quickly, then.
+
+He dashed toward Virgil, closing the distance in a flash. To tell the truth, at Tier 5, there were very few people on this battlefield who posed any kind of threat to him, let alone could stand on even footing against him or give him pause. He’d been a big fish in a small pond; now, he was in a fishbowl. It was time to leave, no, past time. But before he left, he wanted to make sure he set things right. And that meant not just winning this battle, but winning it right.
+
+The Alliance had been neutral to shitty to him, and he wasn’t going to deny that. Still, he’d been reborn here, and it wasn’t like he hated the place. In fact, he liked plenty of the people who lived here. It was just the leadership that needed a change.
+
+Plus, if he wiped out all the Alliance’s strength here, he’d create a power vacuum, and that would go even worse, if such a thing were possible, than power vacuums back home. Not only would there be political infighting, but the surrounding regions would all tear into this place and rip it to shreds. There wouldn’t be a single resource left standing afterward. The ordinary citizens didn’t deserve that.
+
+To put it simply, I’ve got beef with Virgil, not the whole region. This was a surgical removal, not all-out destruction. Not that that’d ever gone well back home, but… He looked at the backs racing into battle ahead of him and smiled. He had his own insurance against internal maneuvers. Maybe it was trashy, but it was nonetheless true that a little fear was a great motivator.
+
+But let’s not get too ahead of ourselves. First, he had to deal with Virgil.
+
+The man stared at him in shock, not prepared for Rhys to dash in, somehow. I was teleporting, I guess. But in combat, it was way handier to run around. Better micro control for his method of teleportation.
+
+Not that he was going to explain any of that to Virgil. Rhys grabbed him by the collar and checked his neck. It was kind of a stupid idea, but what if he had a master mark? One mark to control them all?
+
+His skin was clean. Rhys wrinkled his nose.
+
+Virgil laughed. “What, did you think I had a master?”
+
+“No, I just wished it a little. And that the master was Soma. And that I could watch.”
+
+“I can make some of that come true!” Soma shouted from the other side of the battlefield.
+
+“For clarification, that was a joke!” Rhys shouted back. He turned to Virgil. “Guess we’re doing this the hard way.”
+
+“That’s right. Draw your weapon,” Virgil snarled, trying to twist away.
+
+“Not that hard of a way,” Rhys said, glad that Soma was once more not paying attention to this conversation. He put his hand on Virgil’s head and pushed.
+
+Bast had let him into his mental space. This time, he was invading. Virgil instantly counterattacked by stabbing Rhys in real life, as well as by jabbing him with a spike of mental energy. Before Rhys could even react to the sword hurtling toward his gut, The Hunger leapt forth and met it, wrapping around it in a sort-of parry, sort-of constrictor attack. A sloppy sucking sound came from The Hunger as it chewed on the sword like it was a popsicle. Virgil made a face and tried to retract his weapon, but he was fighting two battles. Rhys had already corrupted his mental spike, then reversed it, plunging a spike of impurities into Virgil’s mental space. Virgil staggered, instantly stunned, and threw himself into his mental space to launch a full-on internal defense.
+
+As he retreated into his mind, he shouted one last command to his generals: “Protect me!”
+
+Rhys clicked his tongue. “Yeah, about that.” He was still half aware of the real world, as he hadn’t yet fully plunged himself into Virgil’s mental space, and that made this so much easier to deal with. He dropped a hoop behind him and pulled himself and Virgil into it, stepping out into a random forest somewhere in the Alliance.
+
+Even if Virgil’s generals knew where he was at all times and could rapidly chase after him, they’d still waste a few seconds, if not minutes, finding him. He’d confirmed they could teleport, but he had no idea what the restrictions on that were; still, from the fact that Virgil had arrived first, and then the others had appeared, he had to assume it was a technique Virgil knew, and that as long as he kept up the mental assault, Virgil wouldn’t be able to teleport anyone in.
+
+That’s my theory, anyways. My game theory… Well, regardless, it’s what I’m going to go with, and if I get hammered while I’m mind-killing Virgil, I guess that’s the risk I took teleporting out here all on my own.
+
+Speaking of, Bast is probably super-pissed right now, since he wants to personally kill Virgil. I’ll have to make sure I finish up fast and take him right back there.
+
+The whole time, Virgil had been attacking him with every mental spire and jab he could muster, but Rhys simply absorbed his mana with impurities and kept pressing inward. He was a higher tier than Virgil, now. There was nothing Virgil could do about him.
+
+Inward, onward. He stepped into Virgil’s mental space and was immediately surrounded on all sides by an attack far fiercer than any he’d faced so far. If the previous ones had been ignorable, these were decidedly not. Any one of these could destroy his mental projection. It wasn’t like he’d trained in mental projection, not even the slightest; he was brute-forcing this whole thing with great power and impurities. And it seemed like his trust in his own greater power was his blunder. Virgil was clearly well-trained in mental attacks.
+
+The mental blades closed in on him from all directions. Rhys hunkered, summoning an orb of impurities around himself. The blades struck it and pierced right through, shredding the projection within. Thrown back into his body, Rhys stumbled, almost losing his grip on Virgil’s head. His nose bled, and his head ached.
+
+“You fool. I put Soma in line. I’m prepared for you! I’m the strongest mental—”
+
+Rhys shook his head, wiped the blood from his nose, and dove back in. Mid-brag, Virgil squawked and fell silent, concentrating again.
+
+This time, Rhys was ready for the all-sides attack. He rolled to the side predictively like a soulslike player on their seventieth run against the same boss, and the blades closed in on nothing. Instantly, they whirled and chased after him instead, and he ran, fleeing across the mental landscape. More blades popped up out of the earth ahead of him, and he dodged again, only to dodge into a waiting blade. Once more, his projection burst apart, and he snapped back into his body.
+
+“—mental mage to grace the Alliance! You can’t—”
+
+Rhys ignored him. He dove into Virgil’s mind again. Once again, he dove to the side as soon as he appeared, and the blades closed in around him. He sprinted off in a different direction. The blades chased after him again. Rhys kept running, dodging as well as he could. A blade leaped out of the ground in front of him and pierced through his mental projection, and he opened his eyes back in his own body. His headache was awful, and his nosebleed was bleeding over his lips, but he kept his grip on Virgil’s head and narrowed his eyes as he focused, forcing himself to materialize another mental projection.
+
+“You madman. I’ll kill you!” Virgil shrieked.
+
+“Nah. I win these,” Rhys replied, and plunged into his mental scape again.
+
+Once again, he rolled, then sprinted in a new direction. Once again, Virgil chased him, throwing swords at him from all directions—and then he stopped. Rhys, too, slowed, then turned back, beaming.
+
+“Realized it at last?”
+
+This whole time, he hadn’t just been running around willy-nilly in Virgil’s mental space. He’d been using it as training, yes, to form a more and more perfect mental projection, but that was only part of it. With every step he took, with every breath he exhaled, he pushed impurities into Virgil’s mental space. By now, the place was as much his domain as Virgil’s.
+
+He grabbed all the impurities and thrust, piercing past the mental space and into Virgil’s mind itself. He wasn’t interested in anything there, except for one thing: the marks, and how he controlled them.
+
+The space beyond Virgil’s mental space was dark, with little dots of light here and there. Rhys swept his attention past all of them, searching for the only one he cared about: the mark. Images appeared momentarily before him: sword techniques, books, moments in Virgil’s life, faces and places. Mouse appeared, but he didn’t fixate on it. It didn’t matter. Right now, he had to find that mark thought, memory, mental representation… whatever this space indicated.
+
+Round shapes, complicated… there! He charged forward, grabbing the representation of the mark. He pushed impurities into it, darkening it deeper and deeper until it winked out altogether. Distantly, he heard Virgil scream, and smiled. It worked!
+
+He paused, then, looking at the image of Mouse. She was younger, barely twelve, in the memory—just a kid. For a second, he drifted toward it, then shook his head and retreated instead. They were in the middle of battle. He needed to find out if his attempt had actually worked, deliver Virgil to Bast, and check in on the rest of them. Now wasn’t the time to self-indulgently look at the creepiest version of a parent’s picture book he could imagine.
+
+He leaped out of Virgil’s mental space. The man was panicking, his eyes wide. “The marks… the marks. How do I control them? How did you—how did you—my marks! My technique! You destroyed it!”
+
+Well, not really. I disabled it temporarily. Someone like Virgil, who’d figured out all kinds of anti-impurity techniques to combat Soma, could definitely figure out a way past his crude destruction of the man’s memory of the mark technique. But he didn’t intend to give Virgil the time. Still gripping him by the head, he backed into the hoop and teleported back to the battleground.
+
+Bast stood nearby, as tense as Rhys had ever seen him. Rhys smiled and tossed Virgil his way. “He’s all yours.”
+
+“I’m so ready.” Bast charged, rushing toward Virgil.
+
+Virgil tensed, pushing his panic away. He drew his sword, sneering. “Ha! I’ve been weakened, and you’ve been strengthened, all at the hands of your friend here. Even if you strike me down, is it you who did it, or him?”
+
+“It’s Bast, obviously,” Rhys said, before Bast could reply. “Stop spouting bullshit, asshole. I didn’t do shit. That potential was his to begin with, and corrupting your mark technique doesn’t stop you from swinging a sword. This battle is all Bast’s.”
+
+Bast snorted. “I knew that without you saying it.”
+
+“Yeah, but man. Fuck this guy. He can only get his kicks when he’s in someone else’s head, huh? Talk about a different kind of skull-fucking.”
+
+“Couldn’t agree more.” Bast closed in. Virgil yelped and raised his blade. Their swords clashed, and Bast immediately began forcing Virgil back.
+
+Rhys watched from the sidelines, eyes narrowed. This was Bast’s fight. He’d only interfere if Virgil used some nasty trick that Bast couldn’t handle. He was playing referee; he wanted to see a good, fair fight. However, it was true that there was no such thing as a good, fair fight in the real world, and Rhys more than anyone knew how true that was. By demanding a good, fair fight with his overwhelming presence and punishing Virgil if he crossed the line, he was fundamentally throwing the fight in Bast’s favor.
+
+Not that he was afraid of that. Not in the least. If anything, it made him pleased that he had that effect on Virgil. Fuck that guy. He deserved to lose.
+
+Let’s go, Bast. Crossing his arms, he settled in to watch the fight.

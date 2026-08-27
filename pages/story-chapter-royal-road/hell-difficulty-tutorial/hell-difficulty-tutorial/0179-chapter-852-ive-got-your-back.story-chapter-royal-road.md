@@ -1,0 +1,211 @@
+---
+id: 8ebc75e8-0dde-5fa4-85d2-4d98f0cce81a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 852 - I've got your back"
+slug: 0179-chapter-852-ive-got-your-back
+partOf: hell-difficulty-tutorial
+position: 179
+ownLength: 2946
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3765605/chapter-852-ive-got-your-back"
+royalRoadId: "3765605"
+---
+
+I watch as Zant jumps off the stacked pillows and also leaves without offering to split the bill. And this sort of exact behavior is the reason why I will always try to get the best possible stuff during negotiations with that huge household pest.
+
+When the waitress comes, I pay for everything with my hard earned shards. Then I start talking out loud to seemingly myself, not caring about the looks I get from the attendees around me.
+
+“Ruby, if you’re listening, I would like to invite myself to your fancy I-don't-know-what-it's-called space.”
+
+I almost don't finish the sentence before I appear there, sitting on a wooden chair opposite of her beyond her trusty old table.
+
+“Do Rulers always have so much free time?” I ask.
+
+“Perhaps.”
+
+“I won't ruffle your hair, you are nowhere as cute as Zant.”
+
+“Tsk. What do you want?”
+
+“You’ve trained under Lissandra, haven't you? I want to ask why I feel so weird. My body is close to fully healed, if you exclude the evolutions and such, but I’ve dealt with worse, and I’ll deal with them too. But my mind. It is like I have to concentrate just to keep being me. If I stop, I feel myself losing all the emotions, and… I don't know, it's all weird.”
+
+“Well, do you know how long you spent in her thought acceleration?”
+
+“Probably a bit over a year, right?”
+
+Ruby chuckles and taps on the table where I put my hand. She touches the back of it, examining me. “By my estimations, five hundred ninety-nine days.”
+
+“Oh…”
+
+“Nathaniel.”
+
+“Yes, Ruby?”
+
+“I know you a little bit, so I'm confident I’m on the right track, but are you annoyed about not having lasted one more day?”
+
+“Perhaps.”
+
+She flings my hand away, resting back in her chair. “Simply said, you’re mentally exhausted and tired. Don't try to find anything else in that. You possess a concentration type skill, so you have a great predisposition to maintaining a powerful mind. That's why you never experienced it before. But this time, you’ve pushed yourself a bit too much, and of course, that imitation allowed it. You know she wouldn't mind pushing you to the point of breaking, right?”
+
+“I mean… yeah. I agreed to it, and it was my decision. Why would I blame her for that?”
+
+“… Of course you would think like that. So, my recommendation is for you to take it easy for a few days at least. I mean, you can fight, train a bit, and it will probably help you to absorb what you have experienced, but just keep it at… thirty to fifty percent effort for about a week. And actually, I have just the right kind of quest for that. It’s ten days long, and the start of it will give you the time you need for all of that.”
+
+“That sounds interesting, tell me more, and I'll decide.”
+
+“It’s the thousand year quest I mentioned before.”
+
+“Meaning a quest that no attendee has successfully completed in a thousand years. That does indeed sound relaxing, just as the doctor ordered.”
+
+“It can be a bit less, 970 years or so, but a thousand years does sound better. And yes, relaxing, so are you interested? I think you will enjoy it.”
+
+“I'm getting more and more suspicious of you.”
+
+She smiles at that, but a moment later that smile weakens, and she says, this time with a more serious tone of voice, “I think it will be good for you, and you’ll want to go anyway. Of course, it is dangerous, and if you let yourself get careless, you will die. Actually, it is very dangerous. You won't be able to trust the people there that much, and some will actively try to kill you, take advantage of you, scam you, and so on and so forth. Others will hope to watch you burn and die.”
+
+“But?”
+
+“But as I said, I think it’ll actually be good for you. And one more piece of info that might make you more interested: the last person who completed this exact quest almost 1000 years ago was Adrian.”
+
+I don't say anything, but Ruby smiles once again. “I see that’s made you a bit more interested. To explain it in the way you like best: ten days. You and another attendee, a fresh S rank. The objective is to win the Game organized by the Halcyon Trust Corporation, which includes people from within the galaxy where the quest takes place. Mostly talents on the brink of becoming a Champion, Champion and Absolute candidates or disciples of Champions and Absolutes, and others. Even though the Halcyon Trust is nowhere close to the Aurate Consortium, they are quite rich, so the rewards should be decent enough.”
+
+“So what you’re saying is that in order to get an extra week or so of rest, I should go jump into a deadly game against a bunch of soon-to-be Champions and other assholes who, as you said, might try to kill me, scam me, and take advantage of me?”
+
+“It’ll make more sense once you are there. I'm hiding something so I can see your surprised expression later. If you don't agree, they’ll just call in some other S-ranks. At this point, taking talents from the Beyond is kind of a tradition of the games, and you got lucky with the timing.”
+
+“Sure. Well, I agree then.”
+
+“Is it because I told you Adrian won it?”
+
+“Just send me there.”
+
+“Good luck then! I might even come to watch!”
+
+Then, as always, I feel a pull on myself and try to observe. Even now, I am unable to do anything about the way her forced teleportation entirely ignores all my defenses and natural barriers. Sometimes she uses a portal in the shape of a door, and sometimes she just moves me, and I don’t think it even matters. She’s doing this all on a whim. I suspect there’s always some sort of stable portal, like the door, that sometimes she just teleports me through it without me seeing it, making it feel like she just teleported me. Or something like that.
+
+But musing over all that she told me, I think I already know who the attendee, the fresh S-rank joining me, will be.
+
+Ruby is indeed a very shrewd woman. And that’s only confirmed as I appear in a luxurious room with a huge glass window open to the desert beyond, with a beautiful green oasis tucked between the dunes. Beyond that oasis, I see a number of huge towers that seem to be made of metal and glass, and the air is full of floating islands, airships, and spaceships.
+
+The person I find waiting for me is my sister, Victoria. Judging by the micro-changes of her expression, which I know better than my own face, she was already informed about my state. My suspicion grows more as she greets me through all this with a smile and a long hug, then gestures for me to sit and join her near a small table.
+
+“I’ve heard about your state, Natty, so you’re going to be taking things easy for a week and letting me take care of most things. I want to hear no objections.”
+
+And the only answer I can come up with is, “Yes, Vic.”
+
+POV Tess Hansen
+
+One of the Champions on the fifth floor is dead, and Lyraen killed it. I don't think any of us had a chance to do it without him, not even with all of us combined. Even though most of us served as distractions just to gain an extra few seconds so Lyraen would have time to attack, two people died in the front ranks, and more, like Lily and Jean, got hurt pretty badly.
+
+But the plan was too good, and everything went accordingly. Though it got a bit expensive because of the single-use items the Silent Veil brought.
+
+My attacks and lightning still aren’t comparable to what Lyraen did, and even if I do realize there is a difference between the two of us, I don't like it. But my likes and dislikes don’t matter right now as I move from person to person, answering any questions that might come up, blaming me, us, the people from Earth.
+
+As if what happened after the Champion died was my fault.
+
+As if it were me who told Tacita when we were planning the attack, so she could steal the key right out from under us.
+
+POV Dennis Dalton
+
+(Wow! I've never seen a mind like yours! It seems kind of similar to mine, but so different at the same time!)
+
+(Huh? Who is talking to me?)
+
+(Hi! I'm Spark! Marble wants to join the conversation. Can I let him in?)
+
+(What? Why? Look, Spark, you shouldn't just barge into people's minds, it is rude. And scary. I think you could probably kill me if you wanted.)
+
+(I could! But I just talk and make friends. I wouldn't hurt you for no reason, nor will I invade your privacy. If you think so, I'm sorry!)
+
+(I think it is okay, I’ve heard a bit about you. And about Marble.)
+
+(That's good! He is a bit grumpy, but he’s still a decent guy. I’ll let him in. Marble, say hello to…)
+
+(Dennis and Aaron.)
+
+(To Dennis and Aaron!)
+
+(I apologize for Spark and his behavior, so please ignore him for now. I would like to know the skill you used to do whatever you’ve done to your mind. In exchange for that, I offer three possible rewards.)
+
+(Eh, go on?)
+
+(The first one is the number of people who...)
+
+POV Kim Min-Jae
+
+The Adjudicator crashes into Maya, who surrounds herself in her tricolored [Armament] while forming a dagger. Seeing that she’s preparing to go all out, I do so as well, twisting the gravitational energy around her and attempting to squeeze the Adjudicator. My mana drains quickly, and my eye throbs painfully, but their body is ridiculously powerful.
+
+Maya gets thrown away, and the Adjudicator turns to rush at me, but with moving a [Boost], Maya barely reaches her and sends them both rolling. Finally, my attack pierces through, and one of the Adjudicator's arms explodes, only to regrow before the pieces of flesh and blood can even fall to the sand. As Maya switches to gauntlets, they fight, and the hot air of this floor evaporates the blood before it makes contact.
+
+Swiftly, I switch to slowing our opponent down instead, giving Maya an opportunity to compound more of her attacks, which start stacking as each subsequent one does more and more damage.
+
+Meanwhile, I lift tons of sand and spin it around both of them, increasing the speed further and further and sending streams of it at the Adjudicator every time she starts to press Maya too hard. The sand moves with such force and speed that it throws her off balance and even causes her to take a slight bit of damage, almost like sandpaper.
+
+But I know we have no chance. Izzy, Noodle, Sophie, and Blackie are still in the cave, far away from here, and everyone else is off in Beyond. I already severed our connection, using the method Sophie developed to make it impossible for anyone to track us. With the Adjudicator here, the Corporation controlling her should have more people around. And both Maya and I are of the same mind: we can't allow that.
+
+I have no illusions that we would be able to defeat what seems like a distant clone of one of the Rulers. Sophie could escape to Beyond, but Izzy? I owe her too much to be that kind of person.
+
+"This way!" Maya shouts, and her voice sounds cold from the level of [Focus] she’s operating under.
+
+She’s already running in one direction, and the Adjudicator follows behind her. They exchange a few attacks, and I pull down one of the huge rocks I always try to keep floating high in the air, with a mix of inscriptions, special crystals, and my energy. It mostly consists of metal, with a core made of something akin to tungsten that I’ve specially implanted within.
+
+I do a quick calculation and pull as hard as I can, allowing it to pick up a lot of speed. Then, when it's almost there, I make it so it's pulled directly towards the Adjudicator.
+
+Maya, hearing the sound of it, boosts herself further, and the rock slams against our opponent, hitting her directly and squashing her to a pulp, while sending a huge shockwave outwards that blows away tons of sand.
+
+In the next second, another shockwave ripples through it, and the Adjudicator is out, her body fully restored.
+
+I increase my flight speed even further, seeing the cave Maya is heading towards, making a last ditch attempt to ensure that gravity doesn't act on the woman in the torn, black, one piece suit. I pass by her as her legs fail to find purchase and she levitates a little, but I know it's just a question of time before she’s free.
+
+"I can fly us," I quickly tell Maya as I reach her.
+
+"It won't work, they already placed marks on us," she answers, grabbing my hand and pulling me as we head into the cave. The sword in her hand grows in size as she swings it to destroy the ceiling, burying us inside.
+
+"What-" I don't get to finish as we reach what looks like a long shaft, the bottom of which I can't even sense, but I recognize that feeling instantly.
+
+It is one of the many entrances to the Labyrinth of Xyphos. And then it all makes sense.
+
+"Are you crazy?" I manage to get out. A wave of fear washes over me as I remember all the information we gathered about it.
+
+"There is no way any of us can defeat that thing outside. Not even if the entire group goes against her. Maybe Nathaniel, if he were here. But the best we can do is run." Maya's face is calm, and I know she made a decision with that cold logic of concentration skill users, but still...
+
+"I already sent a message in the Community chat, so the others will know. We will get separated, so try looking for an exit, after which we will find each other through the Community, or find a good place to spend the rest of the tutorial. In the worst case scenario, try to see if you can get a quest and enter the Beyond," she says.
+
+For a moment after she says it, her eyes turn to look towards where the Adjudicator is, already bulldozing through the fallen rock. It might just be me, but Maya seems angry.
+
+"If only we were a bit stronger, right? Good luck to both of us." Maya smiles at me and then rushes forward. Grabbing my hand, she leaps into the shaft, pulling me with her. I let myself fall just as the rocks behind us explode and the Adjudicator lunges.
+
+The fall isn't even that long, and just a few seconds later, I find myself at the bottom. Alone.
+
+Just like the Labyrinth during the tournament, this one also has a ceiling made of smooth red rock imbued with white crystals that emit light. The walls are made of a pure, stunningly smooth gray stone, as is the floor.
+
+The place where I find myself seems to be half a mile wide and multiple miles long, with multiple entrances to tunnels in the distance. The light here is calm, like the last light of the day, and grass covers the floor alongside multiple small lakes and many trees. It looks as unearthly as it is pretty.
+
+Something moves at the edge of my vision, and I turn around, gathering mana to fight it. My heartbeat can be felt somewhere in my throat, and sweat gathers on my forehead.
+
+That something is blurry, as if I'm looking at it through wild water, and it emits a gentle light itself.
+
+I try to read the text floating over it.
+
+[F∞e - lvl ███]
+
+An instant later, my body plummets, slamming into the ground. My head spins so fiercely that I can't make out a thing. Trembling, I lift a hand and press it to my eyes, trying to force the dizziness away.
+
+Then a voice speaks to me, "All good, Kim?"
+
+"I don't know," I answer.
+
+When I look up, he’s standing there, his brown hair messy as always, grinning down at me.
+
+"Kim, my bud, I swear if it weren't for me, this tutorial would’ve eaten you alive. Well, assuming that burrito-ass corgi didn't do it first. You guys might find him cute, but I’m telling you, he looks at us like we're just snacks he’s saving for later. Honestly? I think Nathaniel is worrying for nothing. That corgi is probably eating the Rulers right now and solving all our problems for us."
+
+"Sure," I chuckle and take his offered hand as he pulls me up to stand. "Come on, let's look for a way to get back to Maya."
+
+I pause, my eyes drawn to the empty air ahead.
+
+"A bit longer and I’ll have to hold out a few fingers and ask you to count them for me," he says, stepping up to my side.
+
+"I just thought I saw something," I say with a shake of my head. "Sorry, Kevin. I shouldn't be letting myself get distracted. Not here."
+
+"It's okay, buddy. I've got your back."

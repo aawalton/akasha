@@ -1,0 +1,115 @@
+---
+id: 3b9d8b08-11ac-56b3-a2dc-3467fe772860
+page-type-slug: story-chapter-royal-road
+title: "Chapter 735 - Instrument"
+slug: 0060-chapter-735-instrument
+partOf: hell-difficulty-tutorial
+position: 60
+ownLength: 2154
+unit: words
+publishedAt: 2026-01-22
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2969389/chapter-735-instrument"
+royalRoadId: "2969389"
+---
+
+POV Nathaniel
+
+It’s already been a few days since our short mission to the hideout of what remained of the Eternal Clowns, and my wound still hasn’t healed. Everything else did, but where that white lightning pierced through my side, where sparks hit my face and body, the wounds remain. They don’t heal, in fact, they’ve been causing me to slowly bleed out, even forcing me to use my thermal healing passive just to keep up. And Morwag still doesn’t have his leg back, even though he’s healing faster, and a big part of it has regrown, his powerful body resisting the effects better.
+
+That’s also when I find myself in one of the guild lounges, waiting for someone to step out of the vice guild master’s office and call us in. Morwag just lies here, sprawled on the couch next to me.
+
+I continue our conversation, “So I asked you, and you said you never licked a wall, right?”
+
+“Listen, why the fuck would I lick a wall?”
+
+“Of course you didn’t, and I expected that. So, what I want you to do is imagine licking it now.”
+
+“I will throw you…”
+
+“Oh shut up, just imagine it for a second. Weslin did it and was surprised. Trust me, you’ll like it,” I prod, interrupting him.
+
+He stares at me like he wants to leap off the couch, grab it, and slam it over my head, but he holds himself back. Instead, he squints and pauses while looking at the wall behind me.
+
+A second later, surprise crosses his face as it twists itself into an odd expression, “Holy fuck.”
+
+“I know, right!” I say, excited, and straighten up in my armchair, “Now imagine licking your shirt!”
+
+Morwag opens his mouth to object, then stops and glances down at his clothes. Another surprised expression blooms as he looks at me, clearly confused as to what kind of sorcery this could be.
+
+Right then, the door opens, and one of the vice guild master’s assistants tells us, “You can go in.”
+
+I stand while Morwag hops on one leg, somewhat awkwardly. From what I heard, he refused any prosthesis and decided to wait it out this way until his body deals with the effects.
+
+As we pass the assistant, I watch Morwag scanning the room, looking from item to item. Furry carpet, mirror, book, and wooden furniture. Once in a while, he twists his face and shakes his head in disgust, vividly imagining himself licking different objects and feeling their texture and taste.
+
+The door closes, and we are left in a small, almost ancient-looking office with a single man. The oldest demon I’ve ever seen. His horns coil back long and proud, his eyes a paler shade of red than usual. But even so, I can sense his void heart beating strongly.
+
+“Please sit,” he gestures, not even looking up from the documents he’s reading.
+
+The vice guild master is rumored to be the one person holding this guild together. Sort of like that IT guy always rolling in late, wearing a Hawaiian shirt and crocs even to meetings with the execs. He then raids the company fridge, empties it without a hint of shame, and disappears soon after. Yet everyone still treats him like royalty, because deep down they all know one thing: without him, there wouldn’t even be a guild left to mismanage.
+
+The only difference is that this old demon, from what I’ve heard, seems to be the only truly responsible adult in the guild.
+
+Both Morwag and I sit and wait a few moments while he finishes reading. He then tears the paper apart and tosses it into the air, at which point it catches fire. Only then does he look at us with an intent gaze.
+
+“Morwag, since this whole shitshow with the Eternal Court is over, I want to ask you why did you kill one of the triplets when I told you not to do so unless absolutely necessary, and why would you ever put a handkerchief stained with her blood and flesh into one of her brothers’ mouths?”
+
+Morwag opens his mouth, but the vice guild master raises a hand. “You know what, I don’t want to hear it. Just know that their handler, Gabele, was furious and has spoken to a great many people, causing our guild to lose a number of lucrative contracts on the third floor, resulting in a loss of five million shards and multiple mid arcane items.”
+
+He flips another sheet and scans his notes. “Then of course there’s the matter of the unofficial rules you broke during the war, attacks within safe zones, and things I won’t even bother naming since you don’t seem to care. There’s the debacle with the Ancient Armory event, but thankfully, most of those consequences are falling on Crimson Forge and that human man.”
+
+His eyes turn to me, “And you, you are lucky that Nyssa seems to need you.”
+
+Because he does not expand on it, I breathe a sigh of relief. After all, I would not want him to question why the Ruler of Diligence decided to bury the Ancient Armory, not in front of MorMor.
+
+“Is it time to finally tell me about the fifth floor?” I ask the vice guild master while glancing at Morwag, who is staring at the old demon’s horns and twisting his face.
+
+The vice guild master nods, “We expected you would be moving there in a week or two, but the circumstances have changed. We suffered heavy casualties on the fifth floor, and so did the other guilds present there. After participating in an attempt to deal with that unexpected situation, Nyssa nearly died, but she is currently stabilized and expected to make a full recovery in a few days, thankfully.”
+
+Morwag stops whatever he was doing, his face turning serious. “I will go there right away,” he says.
+
+“Yes, you can, she even asked for you,” the old demon says, “But all that forces changes to our schedule and requires changes to our preparations.” He looks back at me, “The fifth floor’s quest is fairly simple, at least on paper: there are always ten reanimated beings, and you need to kill one of them for the portal to the sixth floor to open. That portal is for one person only. Before you ask, no, locals cannot enter the fifth floor.”
+
+“I smell a big problem. How strong is one of those reanimated beings?” I ask.
+
+“Each is Champion grade, a true Champion, not a weakened one,” the old demon says.
+
+Thoughts start spiraling through my mind as I begin to put things together. “Let me guess, the one Nyssa wants killed is the mana specialized one?”
+
+The vice guild master smiles, “Correct. A highly mana specialized Champion, a reanimated thylarin. We do not know who it used to be or how long it’s been since they died on that floor. Most of the ten reanimated, well, nine of them have been there longer than a thousand years. Only the tenth has been replaced, and only after a man named Adrian cleared the quest and reached the sixth floor nearly a thousand years ago.”
+
+I gesture for him to continue, and he does. “As you can imagine, challenging someone powerful like that is not easy. There were many attempts, where hundreds of attendees fought against one of them, but there have been very few successes in the long history of Beyond. After all, a lot of these people would end up dead, and only one person would get to enter the next floor. And these are Champions they’d be fighting. These attempts tend to end with a great many dead attendees. So in the past few cycles, the strategy has changed. Slowly, painfully, information has been gathered on each of the reanimated beings. That information has also become extremely valuable because of the difficulty in acquiring it.”
+
+As he says it, I can picture it. Even I can extend my senses for miles, so how far can a Champion sense? How would you spy on a Champion without them noticing? You blink, and they are there, killing you, or maybe you never even locate them and die without ever realizing. And how do you test them to find out about their abilities? You send an attendee near level 400 to fight them? The fight would be over in a second, and that’s with one of the reanimated Champion’s weakest attacks, you wouldn’t even learn anything useful.
+
+The vice guild master continues, “Every guild usually focuses on the being they think they are most suited to face, or whichever one they’ve bought or gathered the most information on, so they can make adequate preparations. All information on one of the reanimated beings is valuable. Specializations, skills, perception range, reaction time, attack range, mana reserves, and many other factors are put into consideration. Our guild focuses mostly on the mana specialist because our primordial energies can counter a great many mana based abilities. Frontier, on the other hand, identified a weakness to the mind magic in one of the others, and that is why they’re currently working with your friend and other mind mages.”
+
+He shares that information with me without hesitation, and it makes me wonder how much more they know about me or my group.The old demon seems to be aware of my thoughts, judging by his sharp gaze, “You going to the fifth floor for now would be a waste. You have to consider that if you leave it and then want to enter again, you will have to sacrifice 15 stat points at the Quiet Circle again. I am aware of your tournament coming up in a few months. Due to system censorship, I can’t tell you much, but it won’t take too long. For now, Nyssa plans to return to her tutorial for more training. Use this time to improve whatever abilities you might need, finish your tournament, and then decide if you want to take part on the fifth floor. Either way, I am sure Nyssa will do this with or without you.”
+
+Flashback Nyssa Volare
+
+A young, barely five year old girl is quietly led through a grand chamber of polished wood and toward the demon seated on the throne. The sides of the hall are lined with dozens of nobles in beautiful clothing, their colors marking their rank. A select few of the high nobles wear gold and black, while lower ranks wear red and yellow. Every demon present is styled and groomed with almost artistic care. Servants, attendants, and bodyguards move between them, tending to every need.
+
+All of them serve one dominion, the most powerful force on the central continent.
+
+The High Lord on the throne wears a single color, white, and he alone is permitted that hue. His eyes track the young girl as she advances, and the chamber quiets when she bows in the ceremonial way she was taught.
+
+“I greet the High Lord,” she says, her voice sounding oddly mature for a child her age, even as nearly everyone watches her with clear disgust written on their faces. She alone stands out in the hall, skin pale as milk, eyes a faint red edged with white rings around the pupils, short, uneven horns. Then there is the black hair falling over her shoulders, so striking in contrast with the white possessed by everyone else.
+
+“Nyssa, your mother is dead.”
+
+“I have been told, my High Lord.”
+
+“I kept my word. I swore she and her kin would be spared while she served my dominion, and I have not broken that promise. But she failed, and she died too soon, not even by an enemy’s hand, but because of the same bloodline that runs through your veins.”
+
+“Yes, my High Lord.”
+
+“Then tell me, Nyssa,” he says, his gaze steady, “what is the purpose of your bloodline, and what colors do you wear?”
+
+“Our only purpose is to be an instrument in the High Lord’s hands. We do not think, we do not question. We wear the blue of the abandoned ones with a touch of white, the High Lord has allowed us to mark us as his.”
+
+“That is correct. You have proven yourself talented, and I have been told your clan’s bloodline runs strong in you. From this day forth, you’ll train to take your mother’s place. You’ll serve as my instrument, and in return, your clan will remain untouched. I will keep that promise, as I did before.”
+
+The albino girl with black hair bows deeply. “I obey. I do not question.”
+
+She does not see the High Lord’s faint smile, nor the slow sweep of his gaze as it moves across the chamber, daring anyone in the room to challenge him, the man whom the strongest warriors of their world serve.

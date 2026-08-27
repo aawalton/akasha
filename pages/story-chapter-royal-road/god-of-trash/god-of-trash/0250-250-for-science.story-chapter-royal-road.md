@@ -1,0 +1,129 @@
+---
+id: 26cab6e4-4e18-5024-b9be-ac33c46a5202
+page-type-slug: story-chapter-royal-road
+title: "250. For Science!"
+slug: 0250-250-for-science
+partOf: god-of-trash
+position: 250
+ownLength: 1993
+unit: words
+publishedAt: 2025-12-19
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2863001/250-for-science"
+royalRoadId: "2863001"
+---
+
+Rhys deliberately tripped his impurities over a line of the mana circuit, killing it. He held his breath, waiting for the dead man’s switch to activate.
+
+Nothing happened. The mark remained the same as ever.
+
+He frowned. Huh. I guess it’s got a bit of tolerance for breakages. Then again, if it didn’t, with circuitry this fine, it’d be blowing up mages left and right whenever they got in a battle and took a blow to the neck. Still, it was interesting that it did have a tolerance. It meant that he wouldn’t be fighting all these mages quite as fast as he initially thought he was going to be.
+
+Okay. Now that I know I can play around a little, let’s try not to blow this girl’s neck up right out the bat. It wasn’t like he wanted to kill her, and certainly, he wanted to respect her bravery by volunteering to be his guinea pig. He didn’t necessarily think it was realistic for him to one-try disarm this bomb, but he wasn’t going to blow this shot, either. He was going to give it his very best take. Sure, he’d been a bit blasé from the beginning, but that was when he’d thought he didn’t stand a single chance at disarming it without a big boom. Now that he knew, might as well use his chance properly.
+
+He immersed himself into the mana circuits, taking them in one at a time. He didn’t know what any of them did, but by eroding them with impurities, he could at least get a feeling for which ones were vital, and which ones weren’t. When occluding a circuit made the mark start gathering mana and heating up, he pulled back, noting it down in his mental map. At the same time, he tried to pinpoint which ones were triggering first to start the heat-up and mana-gathering, but it was difficult. Not only did the gathering start subtly, but the mark was parasitic; it constantly drew on the host’s mana to power itself. It was always a little hot, and always gathering a little mana, and the places it started heating up from changed each time. Still, if he marked all of them, maybe he’d eventually be able to figure out what to cut off. That was his hope, anyways, even if he had no proof that it would work.
+
+That’s what experimentation is all about! Or something. I didn’t pay that much attention in science class after they stopped showing the Magical School Bus videos.
+
+If the mark was parasitic, though, that implied that it needed to be connected to the person’s mana supply to survive, and that gave him an idea. He reached out, encapsulating the entire mark and cutting off its mana supply. Instantly, the mark tried to go supernova, drawing all the energy it could and heating up wildly.
+
+All around him, all the mages jumped to their feet. The leader extended his sword and put the blade at Rhys’s neck.
+
+“Hold on. I’m about to succeed here, idiots.” Rhys ignored the threat, focusing on the mark. The mark sucked at the woman’s mana, but it could only draw on the mana immediately around it. When it tried to pull the host’s mana, it instead latched onto his impurities and drew them into itself, simultaneously canceling the self-destruct and clogging the entire mark’s workings. The mark cooled, and Rhys drew a knife and decisively cut it free of the woman’s neck.
+
+She jumped away, then blinked. She paused for a moment, working her jaw, then said, “That fucking snake Virgil put a mark on me.”
+
+“It’s off?” the leader asked, shocked.
+
+“Yep.” Rhys fully corrupted the mark, turning it to dust, then absorbed it. More trash for the trash star. “And… sorry about your sword.”
+
+The man frowned. He tilted his blade to examine it better, only for the part that had touched Rhys’s neck to crumble away, impurified to be so weak it broke on its own.
+
+Rhys dusted off his hands. “So, who’s next?”
+
+The leader gestured for his men to step forward, while offering Rhys his hand. “I apologize for doubting you. My name is Magnus Icthan, and I am deeply in your debt. Please remove the marks from my students. I alone will atone for my rude actions.”
+
+“That’s right. You owe me a big fat favor!”
+
+Magnus blinked. “Er, you don’t want to take my head?”
+
+“No. I don’t gain anything from killing you, and I’m not that mad at you. Your actions were pretty reasonable for how high-tension the situation was.” And I never actually felt threatened by you, he added silently. That didn’t need to be said, though. They both understood the difference in their power levels. “Do you want me to remove your mark, too?”
+
+Magnus hesitated. He touched the mark. “I’m not sure. Mine is more complex than the rest of them. He might notice if you removed it.”
+
+Oh? There’s different types of marks? And some have a notification option? Interesting, interesting. Rhys nodded. “I understand. I won’t force you. It’s your decision.”
+
+Magnus nodded, stepping back with a thoughtful expression on his face. Rhys removed the mark of one student after another, corrupting and absorbing them afterwards. The students fell back when he was done, healing the small wound from him cutting it off with magic, skills, or salves. The rare mage who lacked a healing technique simply borrowed some salve from another student, or were healed by one of the mages with healing techniques. Rhys felt warmth in his heart, just seeing the scene, and he sighed. I’m glad we didn’t fight. That would’ve been such a waste. This is much better. Plus, it adds to my manpower for my attack on the Alliance.
+
+He removed the final mark and stepped back. “There we go. That’s all the marks, right?”
+
+“Yes. I’ll… keep mine, for now,” Magnus said.
+
+“Sure. Whatever you want. Hey, is there a pillar of filth on your peak?”
+
+Magnus pressed his lips shut. He looked at one of his un-marked students, who stepped forward. “Yes. I can show you where, if you want.”
+
+“Hmm… I think I can find it on my own. It’ll be good training, anyways. I take it Virgil left it?”
+
+The student hesitated, then shook her head. “No. There was someone else with him. Some…thing else?”
+
+Rhys raised his brows. Something else? Why do I feel like I might know what kind of ‘thing’ that is? “A Remnant Weapon?”
+
+She jumped, then froze. “P-probably?”
+
+That looks like a yes. It wasn’t Sid. He doubted the mark would work on Straw, since it was parasitic and Straw was nothing but a bundle of cursed energy, but maybe Virgil had a cursed energy version of his mark. And of course, it could be another Remnant Weapon entirely. If Sid was associated with raw violence, and Straw was cursed energy, then he could totally believe that Daran would build another weapon that was associated with filth and impurities. After all, as Rhys himself had discovered, impurities and curses were closely related.
+
+He glanced to the side. Daran wasn’t visible right now, but he fully intended to ask the man when he found him again. He did have the Demon King right here, so he might as well use the resources he had. If anyone would know if there was a filth Remnant Weapon, it was the Demon King.
+
+I’ve got the whole walk to the peak to take things nice and slow and ask him lots of questions, Rhys thought, nodding. He’d even use one of his three questions, if he had to, though he was pretty sure Daran had forgotten about them… which only made him want to save them even longer to blindside the man with them as a face-slap when Daran was least expecting it, and absolutely thought he was going to leave Rhys hanging and not answer his questions. Still, if that moment was now, then so be it.
+
+He nodded at the mages. “Are you all the students? Or should I expect to encounter others on my way up the peak?”
+
+“No. We’re all there is,” Magnus said. “If you encounter anyone else, they’re unaffiliated with us. Come this way, and I’ll open the barrier for you.”
+
+Rhys nodded graciously, not mentioning that he could open the barrier by himself, thanks very much. It was the polite thing to do. Even though he could Kids-Drink-Man through the wall, it was still good manners to use the door if it was opened for him.
+
+It wasn’t a long walk to the edge of the barrier. Magnus had been waiting just outside its boundaries, presumably to ward off friends and fight off foes before the barrier came into the picture. He drew a token out of his robes and flashed it, and the barrier lit up gold, then faded. “There. I’ve registered you with the barrier. You should be able to proceed through at will now.”
+
+Rhys nodded in thanks and did just that. Before long, Magnus and his students faded from view behind him, and there was nothing but the peaceful sway of leaves and the chirp of contented birds all around him.
+
+From this far out, he couldn’t sense the filth pillar, but he pointed his feet towards the top of the peak. If it wasn’t up there, then he’d have a better vantage point to sense it from atop the mountain.
+
+He turned to the air beside him. “Hey, Daran.”
+
+No reply.
+
+“Daraaaaan. Daran. Daran. Daaaaran. Dara—”
+
+“What? Gods, you’re insufferable,” Daran snapped, appearing beside him.
+
+Rhys laughed. “You were an only child, weren’t you.”
+
+“What’s that got to do with anything?”
+
+“If you weren’t an only child, you’d know. Hey, Daran. Did you build a Remnant Weapon themed around filth?”
+
+Daran harrumphed, drawing himself up to his full height. “I didn’t build any ‘Remnant Weapons.’ That is a label attached after my untimely—”
+
+“Yeah, yeah. You know what I mean. So… filth? Yeah?”
+
+There was a long pause. Daran stared at him, deeply irritated.
+
+For his part, Rhys knew what he’d done, so he put all his effort into walking, pretending that the moderate terrain took all his magely concentration. It was a nice peak, or at least, nicer than the West school. The paths were well-kept despite being dirt, all the roots trimmed back and the underbrush kept free of the walkway. The few buildings were nice and neat, prim white buildings with square windows and open entrances. When he looked at the West peak, it had been run down and poorly kept; there were signs of disuse and the negative effects of the squatters suppressing the peak’s actual students. Here, though, it was all neat and shiny, clean and well-kept, the peak clearly kept up. Rhys nodded, happy to see it. He didn’t want to disbelieve Magnus’s story, but he wasn’t just going to believe someone who told him ‘oh yeah, we own this place, for sure’ with no proof. Sure, Magnus had opened the barrier, but Rhys could open the barrier, so that wasn’t much proof.
+
+At last, Daran sighed. “Yes. I did.”
+
+“Knew it. What’s his name?”
+
+“You assume it’s a ‘he?’”
+
+“All the rest of ‘em have been, man. That’s on you, not me.”
+
+“I didn’t choose their genders. They did. You’re acting like I control what a sack of bugs or stick of wheat thinks its reproductive organs are. If I had that much fine control, do you think I would’ve made Sid half as crazy, or Straw half as nurturing? I wanted weapons, not uncontrollable weirdos. I did my best, but I got what I got.”
+
+Rhys sighed. He looked at Daran. “Alright, fine. What is his, her, or their name?”
+
+“He calls himself Soma.”
+
+“I fuckin’ knew it! You made them all boys!”
+
+“It’s not my fault! Shut up!”

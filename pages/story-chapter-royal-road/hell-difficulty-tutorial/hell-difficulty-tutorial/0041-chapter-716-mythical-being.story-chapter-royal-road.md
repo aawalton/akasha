@@ -1,0 +1,173 @@
+---
+id: fe9ff55e-504b-52b5-9d9b-b352d6d9c408
+page-type-slug: story-chapter-royal-road
+title: "Chapter 716 - Mythical being"
+slug: 0041-chapter-716-mythical-being
+partOf: hell-difficulty-tutorial
+position: 41
+ownLength: 2131
+unit: words
+publishedAt: 2025-12-21
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2868425/chapter-716-mythical-being"
+royalRoadId: "2868425"
+---
+
+“Your attention, please,” the other person waiting in the room calls out. An older woman, sitting on the sofa with some sort of drink on the small table nearby.
+
+She’s dressed herself up very well, in the kind of clothes that surely must take half an hour to put on, even with the help of two or three maidservants. Her gray hair is carefully styled up into a sort of bun with wavy hair by her sides, and she has plenty of jewelry as well.
+
+Oh, and she’s also a Champion.
+
+I don’t even factor in my Handler’s advice that the people giving Beyond Quests tend to be Champions, Absolutes, and the scions of powerful families, but also because of the strength I can feel radiating from her.
+
+Lastly, I take note of a red velvet pillow on the sofa next to her. Woven through with golden threads that look softer than a cloud on a sunny day. And on said pillow lounges an animal, observing us with an intelligent gleam in its eyes.
+
+It looks a bit like a fennec fox, but it has six long legs and demonic looking horns growing from its forehead that bend toward the back of its head. Its fur is pure white and well groomed, and the animal looks the very picture of slim elegance.
+
+The fox wears an embroidered red vest tailored for its six legs to fit through. And damn if that fox wouldn’t be insanely cute if not for the look it’s been giving me. For some reason, it pisses me off. Extremely.
+
+Wait a moment. This place, this woman, it looks like a noble woman and her manor, plus a pet.
+
+Is... is this maybe one of the mythical noble ladies’ pets I have heard so much about? During all these days of training under Lissandra, only to be compared to the pets noble ladies of Eladore used to have?
+
+Will this cute fox become my teacher, allowing for yet another breakthrough in my mana? Surely it’s one of my betters, after all, noble ladies’ pets usually tend to be more talented than Absolutes nowadays, at least according to Lissandra.
+
+The woman, after getting our attention, begins to speak, “Good, now that I have your attention, I will inform you about what will happen next.” The way she talks makes it obvious she is used to having all the authority in a given room.
+
+“Firstly, I'm glad there are no demons among you. I specifically requested humans, but sometimes Handlers forget ‘details’ like these and send whatever brute they happen to have on hand. Secondly, each of you should be quite capable in your own right, and at first glance, it would seem that, in this regard, I have not been lied to.”
+
+The fox quietly turns to her, to which the woman reaches her hand and absentmindedly starts scratching its head, causing the fox to let out a deep purr-like noise I can feel in my chest, even from where I’m standing.
+
+“I’m Magistra Elaren Corin of the Thornehall,” the woman says, “and this is Albaris Fen’Thane Vel Corin Del Vassel en Lys Aster Valcour Miradine. I realize that for people like you, his name might be a handful, so just Fen will suffice.” She pauses as if looking for a reaction, and I nod, with Lily looking at me for the reaction before copying me and quickly nodding.
+
+Only Savant speaks in a polite voice, “Understood, we will keep that in mind.”
+
+“Very well,” Magistra Elaren says, “I’m sure you have been informed by your Handlers, so I won’t repeat myself. Miss Lily can start with her job tomorrow, and the two of you will be guarding her, as was required by her Handler. I expect a job well-done, and if I’m satisfied with the result, I won’t hold back from showing my satisfaction through improved rewards and-”
+
+She pauses as Fen stands up and stretches his six legs before yawning and showing a set of needle-sharp teeth. Then he moves playfully, jumping onto the floor. Suddenly, his movements shift, and he darts forward in a burst of speed. Before I realize it, he has climbed his way onto my back, with his front paws over my shoulder and his head next to my right ear.
+
+I stop myself from reacting as I hear him sniff at me while letting out a series of cute squeaky barks. I feel his cold, tiny nose touch my ear and neck as the little animal examines me.
+
+But out of nowhere, Fen freezes, whimpers once, and jumps off before moving, just as quickly as before, to hide behind his owner with only his head poking out. His ears are flattened in full airplane mode, and he bares his teeth, growling at me.
+
+“Albaris Fen’Thane Vel Corin Del Vassel en Lys Aster Valcour Miradine, what are you doing?” she asks in a measured voice.
+
+That makes Fen turn from me to her, barking a few times in a drawn-out, whining tone, like he’s airing a list of injustices only she could possibly fix. Elaren listens for a moment, unimpressed, before shrugging it off.
+
+“So what if he’s been marked? Have you forgotten your education? What is this unpleasant behaviour?”
+
+Fen lets out a few more longer barks, which makes her look at me. Seeing his owner look at me, the little fennec fox barks a few more quick times before she turns back to him and very gently taps him on the head. It shuts him up in an instant, and a blank expression of shock appears on his face as if he’d never experienced something like this in his life.
+
+“I apologize for him. He is still very young and temperamental, which shows in his inelegant behavior toward new people.” Elaren looks at all of us before locking her eyes on me. “You have been marked by a truly great beast, it would seem, and it has frightened my dear Fen, but that is no excuse. As his bond, I’m responsible for his behavior.”
+
+“It’s fine,” I say.
+
+“Thank you for your understanding. Now then, everything has been said, and the three of you can leave. My butler will wait for you outside and lead you to your residence.” She gestures while taking a cup from the table and sipping from it as if this whole thing never happened.
+
+Savant says something polite in response before we head toward the door. Before exiting, I turn around and see Fen still looking at me with a furrowed brow and his teeth slightly bared.
+
+How shameless, after talking shit about me to his owner.
+
+Just before leaving and after making sure Elaren isn’t looking, I show the little fox a middle finger.
+
+The noble lady’s pet doesn’t know the gesture, of course, but he seems to understand what it means. He narrows his eyes, his ears flatten, and he watches me like a spoiled, angry brat until the door closes.
+
+The butler is waiting outside and greets us politely, but I let Savant talk while I immediately start working. A halo forms over my head, and all my overflowing mana starts to flow into it. I feel like it’s not enough, so I reach toward my Ignition Heart to add to it, then realize where we are and decide to wait until we reach our rooms to continue.
+
+I end up waiting longer than I expect, because instead of getting rooms, we find ourselves exiting the manor and taking a walk half a mile through a beautiful garden with paths framed by fruit trees and delicate flowers until we reach a smaller manor.
+
+Our “residence.” The entire place has apparently been set aside just for the three of us.
+
+Well, I’ve seen better for sure, phe. This is nothing.
+
+I start gathering mana right away, converting my thermal energy in the process. Though I don’t push it too far since part of my mind needs to keep scanning the area and the countless defensive arrays surrounding the place, but I keep it within my limits. Not enough to seem threatening, and not too little either. There’s a part of my newest quest I think I should be able to complete during this Beyond Quest.
+
+I’m not going to lie, I’m really excited to see how much mana I can channel in one second. I bet it’s much more than that lame quest requires.
+
+Plus.
+
+I have Earth’s best healer with me right now. The system couldn’t make it fucking easier even if it tried.
+
+“Nat, you have that creepy expression you always get before you start blowing things up,” Lily says, tugging on my sleeve.
+
+Savant is already heading upstairs, probably to reserve the best room for himself. What a jerk.
+
+“Lily, I must assure you that’s not true.”
+
+“It’s not?”
+
+“I always want to blow up something, most of the time myself as well, so that would logically mean I should have the same expression all the time. And yet, as you yourself said, the expression just formed on my face.”
+
+“Oh! That makes sense somehow!”
+
+“Right? I think an apology is in order... Lady Healer Lily,” I tease her.
+
+Not going down without a fight, she snickers. “I apologize for coming to such a terrible conclusion. You’ve never given me reason to doubt you over the nine floors of the tutorial in these nearly three years here.”
+
+“Good. How are the others?” I ask.
+
+Lily jumps onto the couch nearby and lies down, stretching her legs across it, while I plop into the armchair beside her.
+
+“Tess, Leticia, Luna, Jean, Spacepup, and I have been making pretty good progress on the third floor. We just started with some basic information gathering, you know, Tess, but soon we might start work on the outpost. It’s a bit more difficult without a guild, but we should still manage to get to the fourth floor fairly soon.”
+
+“Want me to pull some strings?”
+
+“Sure! I don’t think the others would mind. We were also joined by Tacita for a bit before she left, as she always does.”
+
+“No sightings of the other Earth attendees?” I ask.
+
+“Not so far. Tess said we’re lucky that all of us have already met and that the third floor is so huge. Did you know that a guild called Silent Veil tried to hire Tess? They have a guy by the name of Lyraen working for them, he’s apparently one of the strongest people in the tutorial!”
+
+“Lily, this isn’t a competition, and Lyraen is a ladies’ man if you must know. Real creep, he already has like twenty wives or something like that. Anyway, I doubt Silent Veil’s the only one offering you positions. What about you?”
+
+“Oh, not at all, but that’s the one she took the most interest in! I think Frontier, the one Soph joined, gave Tess an offer too, and so did Astral Brotherhood. They all seem to like that she can snipe monsters stronger than herself across half a country or something.”
+
+“Such an inelegant way to fight, right?” I mimic Magistra’s tone. “Close-range battles are much more enjoyable, aren’t they?”
+
+“Yup!” she says with a cheerful nod. “I think every guild in the top twenty has sent me an offer since I got that Healer certification Tess told me to pick up.”
+
+“Lily, why are you looking so smug?”
+
+“I’m not smug.”
+
+“You’re the smuggest little jerk I’ve ever seen.”
+
+“I’m not smug. Anyway, Bloodline wants Jean, and Crimson Forge gave Leticia and Luna an offer. Apparently, they want to start making items for bonds and pets.”
+
+“Yeah, Luna should read Crimson Forge’s contract very carefully. I wouldn’t leave that up to Leticia.”
+
+“I’ll pass that on to her for sure.”
+
+“Good. Lastly, just in case, if it turns out to be necessary, we’ll be throwing this quest into the crapper.”
+
+“We will?”
+
+“Yup, this is my minion’s planet.”
+
+“Minion!”
+
+“Yes, yes, and Lily, I’m desperate. I’ve heard she’s gotten herself caught up in some bad company, running around with a gang of delinquents that have surely been having a bad influence on her, and going on some sort of suspicious adventures. Fighting demon lords, taking out old rivals, talking daggers, that kind of stuff. And she used to be so cute...”
+
+“She always was a bit of a delinquent.”
+
+“...when she was younger. I don’t know what happened to her and...”
+
+“I think you made it worse.”
+
+“...what’ll I do about that? Wait what?”
+
+“What?”
+
+“What?”
+
+“Do you think she’s watching us?” Lily asks, changing the subject, as I remain victorious.
+
+“The Magistra?” I ask.
+
+“Or maybe the fox.”
+
+“Likely both. One’s judging, the other’s plotting.”
+
+“Which is which?”
+
+“Yes.”

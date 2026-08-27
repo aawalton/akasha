@@ -1,0 +1,189 @@
+---
+id: 870f61cb-5152-599b-9551-fb316e01e2a9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 966: A Cultural Experience"
+slug: 0033-chapter-966-a-cultural-experience
+partOf: he-who-fights-with-monsters
+position: 33
+ownLength: 2232
+unit: words
+ownProgress: 2232
+publishedAt: 2025-02-21
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2081671/chapter-966-a-cultural-experience"
+royalRoadId: "2081671"
+markedReadAt: "2026-06-29T19:04:59.924Z"
+---
+
+Onslow’s shell had expanded to the size of a house. It was serving as combination command centre, rest area and triage tent, always hosting one or two healers. As powerful as the adventurers were, no gold-rank monster was to be dismissed, and even silvers were a threat with numbers so high.
+
+Jason landed inside Onslow’s shell in a half crash, tumbling on the floor. Arabelle was kneeling next to him a moment later as he rolled onto his back and pushed himself into a sitting position. Dripping sweat, he took heaving breaths.
+
+“I’m fine,” he panted. “No injuries. None that didn’t heal already. Just exhausted.”
+
+“How?” Arabelle asked. “It’s extremely difficult for gold-rankers to get tired.”
+
+“And all that breathing won’t help you,” Clive pointed out. “You don’t need to breathe.”
+
+“It might help,” Arabelle said. “A recent study suggests that high-rankers imitating biological processes can accelerate the magical replication of those effects. Mind over body, as it were.”
+
+“Interesting,” Clive said. “That sounds familiar, now that you say it. Did my association do the study?”
+
+“It did.”
+
+While they were talking, Onslow, in baby ninja turtle form, waddled over to Jason and held out a lettuce leaf.
+
+“Thanks, buddy,” Jason said, taking the leaf. He crunched down on it and patted Onslow on the head. The tortoise-boy grinned and tottered back to Clive’s side.
+
+“How exactly did you manage to exhaust yourself?” Arabelle asked. “Do the gold-rank monsters have some kind of stamina drain power?”
+
+“No,” Jason said, pointing outside as the massive column of light, still pouting out of the giant portal. “I know I make clamping a hole in the universe shut with a giant god beam look easy, but it’s actually quite a strain. If I don’t let it go, my avatar will eventually break down. I don’t know exactly what will happen then.”
+
+“Probably a transformation zone,” Farrah said. “Now that I know what I’m looking for, I’m working on stopping the magic being fed into the manifestation. The grid, while artificial, works on the principals of a natural array. I’m working up a ritual that will look for incongruities in its operation that will let me identify divergences, indicating interference points from traditional ritual magic. That will let us pinpoint the physical locations where the grid is being interfered with and go stop it.”
+
+“That makes sense,” Jason said.
+
+“You understood that?” Clive asked.
+
+“Of course I did,” Jason said. “You’re the one who always hammered me about studying magical theory. She said ‘something something, deflector dish,’ and then we go break some stuff.”
+
+Clive let out a sobbing breath as he continued firing magic blasts from his rod and staff. Onslow gave him a comforting pat on the thigh.
+
+“I’m going to need Nik,” Farrah said.
+
+“I don’t like bringing him out into this,” Jason said. “He’d be the only silver-ranker in the field.
+
+“We’ve both faced off against much worse.”
+
+“And we’ve both died!”
+
+“You can’t shield him from everything Jason. Not if you want him to grow. And sitting inside Onslow’s shell coordinating things is hardly throwing him into the clutches of a gold-ranker.”
+
+“She’s right,” Clive said. “If you don’t let him face danger he can see coming, how will he fare against danger you can’t? I’d say you know that’s coming, but it already came. Unless you missed it, Jason, he’s spent more years adventuring than you have. He didn’t deal with the crazy stuff you get us involved in, but he’s going to now, and you know it.”
+
+“Your absence denied him the only validation he truly cared about,” Arabelle added. “If you deny him the chance to prove himself to you, you’re going to further damage a relationship in which you have already left deep wounds.”
+
+“Fine,” Jason said. “But can you portal him in please, Clive? I’m kind of wrecked. I’m going to coast the rest of this battle and let my familiars do all the work.”
+
+***
+
+Marie pointed out one of the feeds on the four monitors in front of her and Elizabeth. On it, the desiccated husk of a gold-rank monster fell from the sky, covered in leeches. The leeches melted and flowed together, taking the form of Jason Asano, but made from glistening red liquid. The blood clone flew into the air, reached another monster and broke down into a leech swarm once more, rapidly coating the monster’s body.
+
+“Are you seeing this?” Marie asked. “That’s happening in multiple places at once.”
+
+“I noticed.”
+
+“This is the guy you picked a fight with?”
+
+“I never picked that fight. My kind have instincts that are extremely hard to resist. They made him, and humanity at large, an inevitable foe. You are the one who picked a fight. It is far from a secret that he is extremely opposed to the harvesting of reality cores. He cut himself off from the magical factions over it, and spent months preventing the transformation zones from forming. He won’t react well to learning that your secret little group within the Network has secretly been triggering new ones. Which he will discover, following this event.”
+
+“The attempt wasn’t my choice. I didn’t like the potential exposure, although I didn’t fight the idea as hard as I could have. On paper, it seemed sound. If we take him out, problem solved. If not, we at least show the world that he’s not invincible.”
+
+“I see. You didn’t account for him actually being invincible.”
+
+“He’s not.”
+
+“For practical purposes, it seems that he is.”
+
+“I could hardly expect an army of otherworldly gold-rankers, all with power exceeding any of our native ones. Or that he could shut a rupture in the universe with what looks suspiciously like the divine light of heaven.”
+
+“Didn’t Rufus Remore warn the world of this? And Anna Tillman?”
+
+“No one thought they were telling the truth!”
+
+“I did. I warned your co-conspirators myself, after what he did to the vampires in France and Slovenia. And now, you have a choice. Cut your losses and try to cover your tracks, or double down.”
+
+“Double down?”
+
+“You’ve resisted providing reality cores to enhance my blood oaks.”
+
+“You think enhancing them will be enough to defeat all of this?” Marie asked as she gestured at the monitors.”
+
+“No. But they will be dangerous enough to get concessions for leaving them in the box.”
+
+“You’re talking about your exit plan. Pinning your hopes on Asano wanting to protect the world from you more than he wants to see you dead.”
+
+“Yes.”
+
+“How does that help me?”
+
+“It could be our exit plan.”
+
+“I’m not you, Elizabeth. I can’t so easily cast off everyone I’m tied to.”
+
+“You think they will stand by you? This entire operation is structured to leave you holding the bag. Everyone involved in the reality core harvesting will hurl you to the wolves. They will put all of it on you. Unless you think I’m wrong. Or, we work on the blood oaks together. Get ourselves passage to the other world and a fresh beginning. Let the vampires and the Network and whoever else deal with Asano and clean up the mess.”
+
+Marie stood up and opened a liquor cabinet.
+
+“Drink?” she asked.
+
+“Do you have blood?”
+
+Marie reached down to the bottom door of the cabinet. Inside was a single decanter of red liquid, sitting in the middle of a small ritual circle. She took it out, filled a wine glass with blood and put it back. She poured her own drink, a Japanese whisky, and returned to her seat. She handed over the wine glass and Elizabeth took a sip. Her eyebrows rose in surprise and appreciation.
+
+“Marie, if all I wanted was some extra reality cores on the quiet, I have the means to take them from you. I’m not just asking to make our alliance more personal. Or, perhaps I am. I’m asking you to leave this world with me.”
+
+Marie stared at Elizabeth, searching her expression for a long moment before responding.
+
+“You said that vampiric instincts are hard to resist.”
+
+“Extremely.”
+
+“It’s the magic in the sunlight, right?”
+
+“Avoiding the sun slows the process down, but even the most nocturnal will feel it eventually. We grow territorial. Unempathetic. We lose access to most of the emotional spectrum.”
+
+“I heard that it is not difficult to resist, but impossible.”
+
+“I find that impossible is a word that sees excessive use. Do I strike you as incapable of anything but rage and fear, Marie?”
+
+They met eyes.
+
+“No, you do not.”
+
+***
+
+There was an adventurer on Varus’ team with earth-shaping powers, but Farrah hadn’t bother to recruit him. Needing speed over finesse, she used her Lava Cannon power to blast the ground. Like a hose spraying a pool, lava splashed everywhere, but she ignored it as it landed on her.
+
+The other adventurer present, Dustin Kettering, extinguished the resulting fires in the dry grass with his ice powers. He was pointing a simple handheld device with blue and red LEDs at the ground. The red light went out and the blue one lit up.
+
+“You got it,” he said.
+
+“Nik, can I get the map please?” Farrah asked the drone floating in air, out of lava range.
+
+The drone floated down and created a holographic map projection. Nik’s mapping powers were more precise than Jason’s tactical map. Nik’s abilities could also integrate powers and devices to relay their effects remotely. Dustin’s handheld device had been created by Nik, connected to a much larger device still sitting in Onslow’s shell.
+
+“Seven more to go,” Farrah announced in the group chat. “You should already be seeing fewer monsters produced.”
+
+“We are,” Danielle said, “but there’s no shortage of them out here already. Even gold rankers can’t fight forever. It’s time to wrap this up.”
+
+***
+
+While Jason’s presence on the battlefield was gone, his influence remained, in the form of his afflictions. Gordon used monsters as butterfly farms, continuing to spread Jason’s array of hideous maledictions. The butterflies carried Jason’s plagues and curses from the exiting monsters to new ones as they emerged, Jason himself no longer necessary. Maintaining the butterflies was critical in handling monsters in such number, but that was far from the limit of Gordon’s contribution.
+
+The familiar repositioned himself by snaking through the battlefield as a nebulous cluster of lights. When he resumed his normal form, he used the spheres orbiting him to full effect. They could generate sustained force beams that massacred silver-rank monsters, or turn into shields, deflecting attacks away from exposed adventurers. When monsters clustered, he shot off orbs in pairs that collided into massive explosions.
+
+To replenish his orbs, Gordon absorbed the butterflies that were now painting the sky in orange and blue, allowing him to maintain his aggressive pace. He was far from the only familiar making a big impact, however. Stash unquestionably stood out the most, taking shape after shape to attack the gold-rank monsters.
+
+Stash moving through forms was more than just playfulness. The gold-rank monsters were more intelligent than the silvers, and could adapt to attack patterns they had already encountered. That was less of an issue to adventurers, whose power versatility was one of their greatest advantages against more one-note monsters. By mixing up the monsters whose form he assumed, Stash became much harder to predict.
+
+The opposite to Stash was Shimmer, Belinda’s astral lantern familiar. The strange little creature was a living lantern, usually keeping itself invisible. While it had some surprisingly effective force attacks, its most useful ability was to quietly accelerate the mana recovery of its allies. As of gold-rank, the tiny lantern could output massive bursts of mana replenishment, across an entire battlefield. In the massive and lengthy battle, Shimmer didn’t get the glory, but was critical in clinching the victory.
+
+The battle didn’t climax in a massive face off; no final boss monster emerged, unlike the monster waves of years past. The numbers slowly diminished until there were no more to kill, only adventurers in dire need of rest. When the manifestation finally faded, so did the pillar of light coming from Jason’s giant portal. Most of the adventurers then went through it to Jason’s astral kingdom. Danielle kept a handful around to handle the aftermath and further investigate the cause of what had happened. To Jason’s regret, this included him, although he remained inside Onslow’s shell while Danielle briefed the others outside. The spiritual damage to Jason’s avatar would take a day or so to recover from. After designating the adventurers their various tasks, Danielle entered the shell with Clive.
+
+“What is this?” she asked.
+
+“It’s a TV,” Taika said, from where he sat on a corner couch with Travis, Jason and Nik. Gordon was floating next to a beanbag chair. “It’s what they have on Earth instead of crystal recording projectors.”
+
+“I did not put any of this in here,” Clive said. “Who said you could bring all this in here?”
+
+Onslow sat up from where he’d been buried, unseen, in the beanbag. He gave an enthusiastic wave.
+
+“Jason, I will not have you corrupting my familiar.”
+
+“GOOD LUCK WITH THAT,” Humphrey’s voice yelled from a distance.
+
+“It’s not corruption,” Taika said. “We’re going to watch a film from my homeland. It’s a cultural experience.”
+
+“What’s it called?” Clive asked with suspicion.
+
+“Tongan Ninja.”

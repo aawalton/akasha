@@ -1,0 +1,221 @@
+---
+id: 232f5107-af04-583c-89c2-baf2fc486eb6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18: Rained on by Swords"
+slug: 0018-chapter-18-rained-on-by-swords
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 18
+ownLength: 1739
+unit: words
+publishedAt: 2026-07-18
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3691679/chapter-18-rained-on-by-swords"
+royalRoadId: "3691679"
+---
+
+Chapter 18: Rained on by Swords
+
+We ran.
+
+The grass gave way to a wider clearing near the treeline, and I heard the argument before I saw it — voices pitched high and hard-edged.
+
+Zebra and White were there, spears held loose but ready. Facing them, arranged in a rough line, was the other tribe.
+
+They had markings, the same way the Human Ts did. Dark lines against skin, deliberate, patterned. But where the Human Ts wore stripes, these markings were different. I looked closer, narrowing my eyes against the afternoon glare.
+
+A pattern of irregular blocks running down from shoulder to wrist.
+
+Giraffe markings.
+
+"Are you gentlemen lost?" White offered, tilting her head at the assembled men. "Interested in applying as our pets, perhaps? We do feed them well."
+
+Zebra looked at her. "Please, stop talking for one moment."
+
+"But my intentions were clear as water."
+
+"Which is to escalate things. So — shut up."
+
+"Ehh?" White gestured at the line of armed men with her free hand, entirely unbothered. "But things have already escalated. There was nothing left to escalate."
+
+I looked at the men she was gesturing at. Faces set, weight forward, hands loose around their weapons. I nodded to myself. Predators. I had catalogued enough of them across two lifetimes now to recognize the shape without needing to think about it.
+
+Human E's stick struck the ground once, sharp.
+
+White and Zebra stopped arguing mid-sentence. Human E stepped forward, and the tallest man on the opposite side stepped forward to match her, close enough that the two of them stood at the center of the clearing.
+
+He was tall, tanned, muscle laid over a frame clearly meant for hard use, wearing black leather rather than going bare-chested, and on his head, worn like a crown, sat the bleached skull of a buffalo, horns curving forward over his brow.
+
+I decided immediately: Buffalo.
+
+"Aren't you Warriors supposed to be proud of your place?" Human E asked. "Near the pillar of light, of all locations."
+
+Buffalo's jaw tightened. "What pillar of light? The pillar of light abandoned us long ago."
+
+"But it is still your land. What your ancestors entrusted—"
+
+"The creatures of the abyss." He cut her off flatly.
+
+"...What?"
+
+"As the tribe nearest the pillar of light, we were also nearest the abyss. We have known those creatures for millennia. They used to simply hang there, on the wall of the abyss. Watching. Staring up at anyone who dared look down." His grip tightened on his sword, knuckles going pale. "That was the arrangement, until the pillar of light vanished. Now they crawl out every night." He raised the blade, leveling it at Human E's chest. "So. Give us your land."
+
+I felt something small and specific settle in my stomach, hearing that. Was this perhaps my fault?
+
+[Yes.]
+
+Oh, good afternoon system.
+
+[Good afternoon Raffea.]
+
+I continued watching. I don't feel like arguing with the system right now.
+
+Human E did not step back.
+
+"I see. No wonder your numbers came to less than half of what I'd expected from the largest tribe."
+
+"Die."
+
+Buffalo's sword came down.
+
+Zebra's spear was already there, catching the blow at an angle that sent sparks skittering off into the grass. White had Human E by the arm and was already three steps back before the clang had finished ringing.
+
+"Careful with your elder," Human E scolded her, straightening her robe with as much dignity as the situation allowed.
+
+"Sure, sure." White moved back to the chaos before Human E could hit her with the stick.
+
+An arrow struck the ground in front of her feet.
+
+She stopped mid-step, spear pulled into a guard position out of pure reflex, and looked up toward where the shaft had come from. High in a tree at the clearing's edge, crouched on a branch was a monkey. Wait. It has a bow already drawn. It was a human.
+
+Before White could decide whether to advance on him instead, an enemy's spear-user closed the gap she'd just opened.
+
+He came in fast, low, aiming for her ribs. White brought her own spear down and across, catching the thrust and turning it aside with a small, economical twist of her wrists.
+
+"That's a rude way to greet a lady."
+
+"Everything is fair in war, my lady." He grinned, wide and unhinged, and laughed. A high, delighted sound that didn't match the violence he'd just attempted. "Fair, fair, fair!"
+
+He came again immediately, spear flickering in short, testing jabs, forcing White to give ground a half-step at a time.
+
+She raised her spear to counter, only to have to twist it upward instead. Another arrow, this one aimed higher, close enough to her ear that a strand of silver hair drifted loose from wherever it clipped past.
+
+"Argh." She didn't look at the tree. Too busy tracking the spear in front of her, but her irritation carried clearly enough. "That archer is annoying."
+
+The spear-user pressed the advantage, forcing her into a rhythm that left no room to do anything but block. A jab, a slash, a jab, a kick, each one a fraction faster than the one before, herding her backward. His grin hadn't slipped once.
+
+Then the rhythm broke.
+
+Not because White found an opening. He was already full of it. A single beat where his spear overextended by a hand's width more than it should have, and she took it, snapping her own weapon sideways into his ribs hard enough that the crack of it carried over the surrounding noise.
+
+He staggered back, three steps, four, and pressed a hand to his side. When he pulled it away there was blood on his fingers, and his grin had finally gone somewhere else entirely.
+
+He looked up at the tree.
+
+"What are you doing?! Where's my support, you asshole?!"
+
+No one answered from the branches, but Fish was also there. He and the Archer were not moving and were staring at each other, probably having eye communication.
+
+"Who the hell are you?" the spear user asked, but White's spear was already coming in low, and he barely turned in time to block it.
+
+"Didn't you just say everything was fair in war, mister?" White pressed forward, driving him back another step.
+
+Meanwhile, Buffalo had turned his attention to Zebra.
+
+He slashed, once, twice, three times in quick succession, each blow aimed at a different angle — shoulder, hip, throat — and each one met by the flat of Zebra's spear-shaft with a precision that looked almost bored. Sparks. A grunt of effort from Buffalo that Zebra didn't bother matching.
+
+Then Zebra lunged.
+
+It was fast enough that I saw it happen in two separate pieces: Buffalo present in front of him, and then Buffalo three meters back, sword raised defensively, boots skidding twin trenches through the grass where he'd planted them to stop his own retreat.
+
+Buffalo was breathing hard as he stayed in place.
+
+Zebra pointed his own spear at Buffalo. "Leave. There's no way someone who needs spirit energy beats me here."
+
+The Human Ts around us found their voices at the same moment, raising fists, raising whatever was in their hands.
+
+"Yeah! Go home!"
+
+"Get out of here already!"
+
+"Ugly!"
+
+"Idiot!"
+
+"Stupid!"
+
+I noted, with some interest, that the insults had degraded from full sentences into single, blunt words the longer the chanting went on. As though outrage, given enough time to build, eventually distilled itself down to its simplest possible form. Very human.
+
+Beside me, Donkey cupped both hands around her mouth. "Go, Lukor!"
+
+But Buffalo grinned anyway unbothered. He straightened.
+
+"And what if there are more than just me?"
+
+Four more men stepped out from the treeline behind him, swords already drawn, moving to flank him on either side.
+
+The chanting stopped.
+
+Zebra's stance didn't change.
+
+They came at him together.
+
+Zebra blocked, and dodged, and blocked again, spearing a blur describing the shape of every gap he could find. But five blades moving in coordination left fewer gaps than one, and some of them found him anyway. A line opened across his shoulder. Another at his side, deeper, dark against his skin before I'd even registered the sword that made it.
+
+"Lukor!"
+
+Donkey lunged forward. A woman beside her caught her by both arms and held on. Donkey strained against the grip with her whole body, shouting something that had stopped being words.
+
+I watched him take another cut. Then another.
+
+Rained on by swords.
+
+Rained on by swords.
+
+The phrase arrived and then it wouldn't leave, looping itself in my head, and something underneath it that had been quiet for a while now was suddenly not quiet at all.
+
+An image. Unbidden. A man, tall, broad-shouldered, beard like a goat's, looking down at me from somewhere very far above while I fell and fell and the distance between us only grew—
+
+Donkey yelled again, louder this time. "LUKOR!"
+
+Zebra didn't flinch away from Buffalo's next swing before he answered her. He turned his head and smiled.
+
+"Don't cry, Mei."
+
+Ah.
+
+I see.
+
+So that was why he smiled.
+
+Dad had probably said the same thing. Somewhere above me, falling away, swords converging on him from every direction, he had looked down and found room to smile anyway.
+
+Something wet ran down my face.
+
+I raised a hand to it, slow, almost clinical, the way you'd check a wound you weren't sure was actually there.
+
+I was crying too.
+
+I moved forward.
+
+The enemy spear-user disengaged from White mid-exchange, sidestepping her guard and breaking into a dead run toward me instead.
+
+"Don't follow me, or I'll kill this girl!" He planted his feet a body's length away and aimed the tip squarely at my chest.
+
+But White smiled and kept walking toward us, unhurried.
+
+"I told you I'll kill her!" His voice cracked upward.
+
+White kept walking. Her spear dragged behind her.
+
+He snapped, driving the spear forward with his whole weight behind it.
+
+The tip met my skin and stopped there.
+
+"...Eh?" He looked at me.
+
+I looked at him in return.
+
+Whatever he saw in my face made him take an involuntary step back, spear still lodged uselessly against me, his mouth already opening. Maybe another threat, maybe another insult, maybe another attempt to salvage whatever version of this encounter he'd expected to be having.
+
+I didn't have time for it.
+
+I face-slapped him.

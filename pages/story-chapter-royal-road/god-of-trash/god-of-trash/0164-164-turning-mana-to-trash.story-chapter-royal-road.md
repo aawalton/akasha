@@ -1,0 +1,85 @@
+---
+id: 3a51ed80-c2f7-512c-b44b-18f39f6f254b
+page-type-slug: story-chapter-royal-road
+title: "164. Turning Mana to Trash"
+slug: 0164-164-turning-mana-to-trash
+partOf: god-of-trash
+position: 164
+ownLength: 1974
+unit: words
+publishedAt: 2025-08-23
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2542097/164-turning-mana-to-trash"
+royalRoadId: "2542097"
+---
+
+“Come here, you!”
+
+The curse scudded away from him, as if it knew what he was going to do to it. He chased it down, refusing to let it escape. Gripping the lump of trash and impurities that surrounded the skeleton hands curse in one hand, Rhys grabbed the free energy in his other and forcibly poured it into the curse. He didn’t let the curse activate, but simply forced the energy through it.
+
+He wasn’t converting the mana to curse power; not all of it, anyways. The nature of curses was to taint what they touched, to impurify it and lace it with curse power. By forcing the energy through without giving it time to fully convert to curse power, he created filthy, tainted, useless energy… in other words: he trashed it. Took perfectly good energy and deliberately smeared it in garbage, until even he could barely find a use for it. And then, when it was all disgusting and gross, then he fed it into the trash star.
+
+This time, the trash star greedily sucked it up. Rhys cheered, pumping his fist, and kept pouring more in. This was exactly what he needed. It was way better than some temporary plug. He’d been locked into one thought, since until now, compressing mana had been the path forward, but he was Tier 3 now, not some baby Tier 1 or 2, and he didn’t even have a real core anymore. He’d been a fool to keep thinking of it the same way all this time. That was his failing. Luckily, he was flexible enough to keep working and think up a better technique, like filthing up the energy and trashing it up. It poured into his core and surged deep into the trash star’s heart, mingling with the most powerful impurities in the depths of his trash star core. The energy was already powerful before he absorbed it, and it remained strong after he made it filthy. It did weaken a little, just due to the nature of decaying it through the curse energy, but the mass of energy and the impurities and filth smeared on it made it worth just as much to him.
+
+Two masses of Tier 3 energy vanished into his core. Rhys looked at the final bundles of energy, then shrugged and sent them into his trash star, too. The energy only lasted so long around the trash star before the trash star ate it, anyways, and most of the lower-tier energy was already well on its way to decaying. He was planning to go to a camp soon and free himself more underlings, but if the energy was filthy and decaying, he couldn’t use it for new cores anyways. He'd get plenty of energy from the guards there, especially if they had added more guards or more powerful guards while he was wandering around, fighting the criminal cabal.
+
+He wanted to take down the whole criminal syndicate all at once, but that simply wasn’t realistic. He didn’t have the manpower, since he couldn’t count on the former criminals to fight the current criminals. But if he freed some more mages from the camp, he could have trustable manpower to put against the criminals, and with trustable manpower, he could absorb more criminals into his enterprise, which gave him more manpower to put against the potato chip business, which got him more gold for equipment and spread impurities around the Empire, which…
+
+Well, suffice to say, it was a great idea. A cascade of goodness climbing up into more and more goodness. He’d satisfied his anger, and now that he was coming down from that high, he had to admit that Leonard wasn’t really worth him being this rash. Sure, taking down one criminal base was totally worthwhile. It warned the criminals that there was a price for fucking with him. But going after all of them at once, without any more preparation? No, no. That was a foolish moment of foolish pride. He needed to take down bases and strengthen himself, and then, when he had men, money, and power, he’d sweep the criminal syndicate, and after that… the Empire.
+
+He paused, then chuckled to himself. Making a grabbing gesture at nothing, he repeated, “And after that… the Empire.”
+
+It wasn’t every day he got to say final boss lines like that. He might as well relish it. It was a shame that there was no one in his core to see him looking cool, but such was life. Everything couldn’t always work out in his favor.
+
+He had everything in place to raid the camps now. He still had to work on actual teleportation through the void trashcans, but he was pretty sure he could figure it out with a few days of hard work. Everything was there. He could send mana through the void, so why not himself?
+
+And if I can’t send myself… a clone, perhaps? He pursed his lips, thoughtful. That was a right now solution to his problem: create a clone from mana and local materials, say, the trash in the trash can, and then he could ‘teleport’ to anywhere with a trash can right now, in this moment. Of course, he was the team’s lone Tier 3 fighter. He had no idea if he could make Tier 3 clones, but it seemed like a future thing, rather than a baby’s first clone thing.
+
+Rhys considered for a moment, then frowned and shook his head. It was a nice thought, but it wasn’t good enough. No, I still want true teleportation. True teleportation was better than clone-based semi-teleportation, in a lot of ways, but most importantly, in terms of combat prowess. Plus, true teleportation could be used on many people at once, instead of just him. He would truly become a difficult man to track down once he had true teleportation, and equally, a difficult man to constrain. It might even be too powerful for a mere Tier 3.
+
+He chuckled under his breath. That was perfectly fine by him. He might only be a trash talent, but as long as he used his skills judiciously, he could even qualify as overpowered for his tier. Now that was a trashy goal worth striving for.
+
+The last of the energy finished processing into the trash star. Rhys turned to the void once more. The trash bag was large enough for him to fit through, though he had the sneaking suspicion that any hole would be big enough, given the way the tiny pinprick core-to-void hole was enough for him to easily fit through when he needed to. The primary remaining problem was that the hole to the void was within his body, and short of turning himself inside out in the process, he had no idea how to pull himself, body and all, through the void and out into the other side of reality.
+
+He reached the edge of the void bag hole and stared out it. Mouse had it mostly pinched closed right now, but he could still see her face as she ran alongside him, slightly sweaty and panting hard. POV: you’re a trash bag on the way to the garbage bin, Rhys thought, then laughed at his own joke. He’d been doing a lot of that lately. It was lonely, here in his core. He needed more human interaction.
+
+Needing more human interaction. What a wild thought for a man who’d once spent his entire life locked in a small room, shouting at strangers at the internet. That had been a form of human interaction, but it didn’t feel the same. It wasn’t as real as walking through a forest with a quiet glasses girl, a water sprite, and a child of darkness, or whatever Sable thought of herself as. Still, he found himself smiling at the thought of it. He’d made real friends. Built companions in this world. He wasn’t alone, an island, anymore. He’d put down roots. Developed and grown as a human, and in power.
+
+And now, it was time to take the next step.
+
+He pushed his hand through the trash bag hole. As he pushed his hand through the hole, it changed in composition, or at least in the way he perceived it; it was no longer ‘his hand,’ but a lump of mana. He could manipulate it freely, but it no longer felt or reacted like a hand.
+
+Hmm. He retracted his hand and looked at it, wiggling his fingers around. There was something different between the hand in here, and the mass of mana out there. Something had fundamentally changed. Not just his perception, but something had gone missing, that he could easily hold onto in here. What was it? Why was he here, in his core, anyways? What was this avatar of him that moved around in the core?
+
+Wait, hold on. Is this my soul? Am I my soul right now? Rhys blinked. It couldn’t be, or… was it? It felt right, and it made a lot of sense. Almost too much sense.
+
+He turned his hands over, then looked over himself. This was him. Or rather, Rhys. This wasn’t his body from back home, but the body he had here. He raised his brows, slightly surprised, but the sensation passed quickly. He’d been Rhys for almost a decade now. It would be stranger if he still clung to appearing like his old self in his soul. He’d come to see Rhys as himself, and himself as Rhys, so his soul had changed to match his body… or something like that. He wasn’t a soul expect, he was a trash expert. All he could do was guess when it came to the soul.
+
+Calling a piece of trash out of the star, he tossed it out of the bag. Mouse startled as a crumpled ball of foil burst out of the bag and bounced behind her. She looked around, trying to find out where it had come from, but there was no seeing Rhys inside the bag.
+
+He crossed his arms. He could put physical objects through the hole, and he could send spells and mana constructs through the hole. It wasn’t a problem of figuring out how to use the hole, but instead, trying to figure out how to get through it.
+
+Just like in my homeworld! I could never figure out how to get in hole there, too, Rhys thought to himself, then shook his head. Honestly, why was he only funny when he was alone? All these bangers and no one to hear them.
+
+Fundamentally, unlike back home where he had no idea what the problem was or how to correct it, here, fundamentally, the problem was that the ‘door’ to the void was inside him. He couldn’t just turn himself inside out. If he wanted to go to the void, then—
+
+Rhys snapped. “Holy shit, I’m stupid.” He popped out of his core and woke up in the real world. “Mouse!”
+
+“W-what? Did you throw something at me?”
+
+“Yeah… not at you. It was just a test.” Rhys hopped off the skeleton and dismissed it back to his core. He walked toward Mouse with intention.
+
+“What do you want?” she squeaked, backing up.
+
+“Open the trash bag,” Rhys said.
+
+“Why?” Still, she opened it.
+
+Rhys grinned and tossed her a salute. “See you on the other side.” With that, he hopped into the open bag.
+
+“Wait, hold on, didn’t you tell me to use this to kill people?” Mouse squealed as quickly as she could, even as he closed in on the bag.
+
+“Yep. But it’s me! I’ll be fine.” He vanished into the bag.
+
+Darkness closed in over his head. For a second, there was nothing. Just darkness and a vague sensation of floating.
+
+And then, agony.

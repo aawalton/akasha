@@ -1,0 +1,256 @@
+---
+id: 6524e929-8150-5707-ab87-f61e28717d17
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Mock Battle"
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 4
+ownLength: 1908
+unit: words
+publishedAt: 2026-06-27
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3596713/chapter-4-mock-battle"
+royalRoadId: "3596713"
+---
+
+Chapter 4: Mock Battle
+
+The other Human Ds laughed.
+
+Not all of them, but enough of them that the sound filled the room. The kind of laughter that is less about finding something funny and more about establishing which side of the herd you are on.
+
+Porcupine's jaw tightened. "Let's just start."
+
+I tilted my head. Mock battles were not serious affairs. The tutors had been clear about this during the lessons. The worst realistic outcome was a face slap: a burst of emotions at close range, enough to sting and humiliate, designed to establish hierarchy without causing much damage.
+
+I raised my hand and tapped my cheek experimentally, testing the surface area involved. It felt like a normal cheek. Soft. Presumably capable of being slapped.
+
+I was still considering this when someone stepped in front of me.
+
+She had silver hair, and she was the first to finish yesterday. Now that I looked at her properly, she was so white she reminded me of a swan — robes, braids, skin — except swans did not have crimson eyes, and something about those eyes made the swan comparison feel inaccurate. She was definitely not a swan.
+
+I decided to call her White.
+
+I nodded to myself on the excellence of my naming sense.
+
+"Given how she answered just now," White said, to the room rather than to anyone specifically, "I don't think this is a fair fight."
+
+Porcupine's foot came down on the stone floor. "Who are you, and why are you standing up for a young master?"
+
+"The name is Gwyn. Daughter of the blacksmith at the Southern District. Please visit if you need some new weapons or repair." White waved to no one in particular meaning to everyone.
+
+"You just want to advertise!"
+
+"What could you be talking about?" She tilted her head. "Also..." She glanced at Human Dad.
+
+Porcupine followed her gaze, and went still.
+
+Human Dad looked at him with his normal stare for a while which was already intimidating, then leaned slightly toward Akasha and said something low enough that I could not catch at this distance. Akasha nodded.
+
+"Change of format," she announced. "The sect leader has decided: two versus two."
+
+"Wait." Duam looked at Gwyn. "What element are you?"
+
+Gwyn smiled. "Metal."
+
+The murmur that moved through the watching Human Ds had a different quality than the laughing one from before. More textured. More interested.
+
+"He's done."
+
+"Metal counters Wood. And she was first yesterday."
+
+"He's going to back out. Has to."
+
+Duam said nothing. His jaw was doing the tight thing again, but he held his ground.
+
+"Any volunteers?" Akasha asked.
+
+A hand landed on Porcupine's shoulder.
+
+The owner of the hand was smaller than Porcupine, but his expression was sharper. He had arrived quietly, slotting into position beside Porcupine. Black hair threaded with white strands, black robes, nothing decorative about any of it. He reminded me of a honey badger: smaller than most things that should concern it, afraid of none of them, wearing an expression that suggested anger was not a state he entered so much as a place he lived.
+
+"Fridd, fire cultivator," he said, by way of introduction. Then, specifically to White, with a quality in his voice that sharpened noticeably at one particular word: "I was second to finish yesterday."
+
+White looked at him and shrugged.
+
+Badger's glare intensified. White's expression did not change.
+
+The mood in the room shifted again. The disappointed murmuring pivoting into something more animated.
+
+"Now that's interesting."
+
+"First against second, but second has the elemental edge."
+
+"Are both teams ready?" Akasha asked.
+
+No one said anything. I had no particular response prepared, so I did what I had been doing since I arrived: watched what the others did and matched it.
+
+"Begin," Human Dad said.
+
+Badger moved first.
+
+He did not ease into it. He went from stillness to a full charge in the space between one heartbeat and the next, and his fist, when he drew it back, was already burning. A concentrated wrap of flame that moved with him like it belonged there.
+
+He was heading toward White.
+
+"Support me," he said, without looking back.
+
+"S-sure," Porcupine answered.
+
+Vines erupted from his hands and wound toward Badger's burning arm. Where they touched flame, the flame grew. The vines fed it the way dry timber feeds a campfire, and Badger's burning fist became larger and more committed to its purpose.
+
+He swung.
+
+It did not connect.
+
+A giant sword appeared beneath White's feet.
+
+That was the only way to describe it: one moment she was standing on stone, and the next a blade had materialized under her — enormous, impractical by any conventional measure, clearly not designed for anyone's hand — and it lifted. Smoothly. Without drama. White rose with it the way something floats on water, unbothered by the transition from standing to airborne.
+
+She closed her eyes.
+
+"You're kidding me." Porcupine's mouth was open. "She can already fly?"
+
+Badger didn't answer. He was already hurling condensed spheres of fire upward, one after another, tracing arcs toward the sword and the human balanced on it.
+
+The sword moved, almost lazy, a series of redirections that managed to be in the right place slightly before each fireball arrived.
+
+"Go help him!" Porcupine pointed at White.
+
+The eagle flew toward her with clear intent to distract.
+
+A cleaver appeared beside White, hovering with the same patient weightlessness as the sword beneath her feet. The eagle pulled up short, reconsidered the arithmetic of the situation, and settled into a holding pattern at a careful distance.
+
+It did its best with yelling alone.
+
+White's eyes remained closed behind her glasses.
+
+"Looks like we have a prodigy." Instructor Akasha was smiling.
+
+Human Dad stroked his beard and nodded. "Watch her. She will be a great asset for the upcoming war."
+
+"Of course. That's my job."
+
+I raised my hand.
+
+She looked at me. "You're in this fight you know?"
+
+I decided a question can be answered by another question. "Why did you call her a prodigy?"
+
+Akasha sighed. "Fine. Since I'm an instructor." She raised her voice slightly so the watching Human Ds could hear. "Everyone knows that altitude produces denser spirit energy. Higher position means more to draw from. This is the foundation of how cultivators actually fight. You don't just exchange strikes on the ground. You ascend, you establish the higher position, you gather from that advantage, and you use the accumulation for the finishing move." She nodded toward White, still circling above the room on her impossible sword. "That is what a cultivator who understands combat looks like."
+
+White opened her eyes.
+
+Something gathered around her. Not visible exactly, more a quality of the air, a density that hadn't been there before. It moved from her into the sword, traveled down the blade like light through water, and then she dove.
+
+The sword dropped toward Badger in a straight, committed line, and where she passed through the air she left a brief trail of brightness. The sword hit the ground in front of Badger. Dust burst outward in a curtain that briefly obscured the whole center of the room.
+
+When it settled:
+
+White was standing in front of Badger with the sword extended one-handed, its tip a few inches from his chest. Her hair had moved in the dive and not entirely settled back.
+
+"Looks like we won."
+
+"No you don't."
+
+The voice came from behind me.
+
+Something sharp pressed against my neck.
+
+I identified it, from the slight give of it, as wood. A piece of it, shaped into a point, held by Porcupine, who had apparently decided to exit the main engagement and take a more direct approach.
+
+"How about we consider this as a draw?" Porcupine pressed the wood closer.
+
+The wood shattered.
+
+I turned around to face him.
+
+Porcupine stumbled backward and sat down hard on the stone floor, holding the remains of what had been his weapon and staring at them with wide eyes.
+
+"How did you..."
+
+He looked up at me.
+
+I extended my hand.
+
+He raised his hands to cover his face.
+
+"Sure, I accept the draw," I said.
+
+"Why are you accepting like you did most of the work?" White complained, but the sword she was holding was already dissolving back to the ground.
+
+Porcupine lowered his hands slowly. "Aren't you going to face slap me?"
+
+"What are you talking about?" I tilted my head.
+
+Porcupine accepted my hand. I pulled him up with slightly more effort than I anticipated.
+
+"I always thought young masters loved face slapping," he said, once he was standing.
+
+"I find it hard to believe anyone would enjoy something so pointless."
+
+He looked at me for a moment with the expression of someone recalibrating. Then he glanced down at the remains of the wood on the floor, and back up, and seemed to decide not to pursue that particular line of inquiry any further.
+
+Human Dad observed this exchange from across the room. He nodded once in my direction, and walked out.
+
+The room let out a breath it had been collectively holding.
+
+Akasha moved closer, her eyes sharpening as she looked at my scarf before shifting to neutral.
+
+"And that's the end of that. We continue training now."
+
+The sound that came from the assembled Human Ds contained no motivation whatsoever. It was the sound of people who had been promised spectacle and were now being returned to curriculum.
+
+I raised my hand.
+
+Akasha looked at me. "What is it?"
+
+"Can I go home now?"
+
+"What are you talking about? The deal was if you win."
+
+"I won."
+
+"You accepted a draw."
+
+My shoulder dropped.
+
+Behind me, White made a sound. Small, controlled, unsuccessful at being fully suppressed.
+
+"Regretting accepting the draw now?" She poked my neck... repeatedly. "By the way, what are you hiding in the scarf?"
+
+"Human Dad told me not to show anyone."
+
+The poking stopped. "Fair enough. I don't want my head to roll so we'll leave it for now."
+
+I watched her walk away.
+
+My stomach produced a sound of its own, which added its opinion to the matter.
+
+I looked at Akasha with what I hoped was a communicative expression.
+
+She looked back at me.
+
+"Sit down. We're starting."
+
+I sat down.
+
+Porcupine settled nearby, at a distance that was not quite close and not quite far with the eagle on his shoulder. Badger was back on his side of the room, arms crossed, not looking at White. White was seated next to him, examining the still burning ceiling with serene detachment. She leaned closer to him. "Maybe turn off the fire?"
+
+Badger answered with a shoulder shrug.
+
+A Human D behind them shot out water from his hand to the ceiling. I'll call him Fish from now on.
+
+I looked at the high windows. The quality of light coming through them suggested it was still morning.
+
+Several more hours until anyone would consider letting me eat.
+
+My stomach offered another comment.
+
+I resolved to think about leaves as little as possible, which meant I would be thinking about leaves continuously.
+
+I sat cross-legged, put my hands on my knees.
+
+"Can I go home later even if I didn't level up?"
+
+Akasha walked behind me and corrected my posture.
+
+"I would like to say no, but I also need to eat." Her stomach also grumbled, but more modest than mine.

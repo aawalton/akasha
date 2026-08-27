@@ -1,0 +1,213 @@
+---
+id: 5375a5ba-480d-5826-b35a-4b6e9480a91f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38"
+slug: 0038-chapter-38
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 38
+ownLength: 2489
+unit: words
+publishedAt: 2026-01-12
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2935548/chapter-38"
+royalRoadId: "2935548"
+---
+
+Chapter 38
+
+The winds had picked up slightly in the hours they had spent on the ship, though Veron still found the lake eerily calm. Visibility had dropped, as if a green tinged mist slowly encroached on them from the south.
+
+John approached them. “We will make landfall before dusk, but we do want to get as much distance between ourselves and Perrion.”
+
+Reka nodded.
+
+The others were quiet. It had generally quieted on the ship, the atmosphere shifting from tense shock to exhaustion.
+
+“If not even a Mera could stop this,” Hayden murmured.
+
+Nobody replied. Veron thought about Eyra. The hull of the trade ship had protected them somewhat from the residual magic back on the river. He didn't know if any spells were involved but there was a possibility that the mountains protected the village.
+
+He chose to believe that for the time being. Because he didn't want to think about the alternative.
+
+Am I in denial? I guess it’s fine if I am.
+
+He looked at his hands.
+
+What do we do now?
+
+They were still within the curse’s effect, which meant they had to get out of it. And back to Anvakar. It was the best bet and really the only one they had right now. He felt for the others.
+
+What would cause something like this? Was it deliberate? An attack on Leiveen and Lyrie?
+
+He was wholly uninformed. Veron knew there was a Kingdom called Felrak, and a Nation of Sor, both of which were currently at war. He had no idea how Leiveen would have been connected to that and if either of those countries had an interest in deploying a weapon like this, if that's even what it was.
+
+His brain was trying to make sense of it, to try and process what had happened, to get some control back. He balled his hand into a fist and sighed.
+
+There is no control over events like this one. I have to accept what happened and focus on what I can do.
+
+The thought was sobering, and difficult to accept. A single one of those creatures or turned humans or whatever they were could take him out. They were violent monsters, so anything other than fighting wasn't really an option. The only reason he even thought about fighting them again was to find out what happened to Eyra.
+
+I'll just… I’ll just keep working on my magic. And take my time to process all of this. Once we're safe.
+
+He was glad they had gotten on the ship. He was glad a few healers had made it too.
+
+And here I’d been excited to one day visit Leiveen.
+
+Well, who knows. Maybe I'll manage to visit a curse infested version one day.
+
+He blinked his eyes, thinking back to the dead, the creatures ripping through their unit. The burnt smell.
+
+“Veron?” Silvie said. She grabbed his hand and he held it. They were quiet, the boat rocking slightly. More time passed before someone shouted.
+
+“We're making for land!” It was the gold rank leader. “Get your things together and prepare to disembark.”
+
+Veron saw the others get up. He found it difficult to do the same. Why were they getting back out there? The boat was safe, wasn't it?
+
+Silvie talked to Hayden, and the large man knelt down next to him. He touched his shoulder. “Do not fall to despair. Do not give up hope, brother. We are here and tomorrow will yet come.” His eyes glowed white for a split second and Veron could feel the magic take hold, pushing back the curse and thoughts.
+
+Veron gasped, closing his eyes for a moment as he felt again. The exhaustion, the fear, the anger, the grief. He stood up and shouldered his pack. It was what he could do.
+
+They held on to wooden masts and railings as they watched the shore come closer. The ship rocked and groaned when they hit the dusty earth, coming to a slow halt. The trees beyond looked as dead as those of the Palewoods, though they had once been different. Not birches, but pines. The sky was a gloom of green and gray.
+
+They landed in the dusty earth and checked the surroundings. It was quiet, empty. There were about fifty of them left.
+
+Veron felt the weight of his mace, following the other adventurers away from their stranded boat and up towards the dead forests. It was a long and silent march, Veron's own breath the only thing he heard.
+
+Slowly, the sky darkened even further.
+
+“Halt!” their leader shouted.
+
+Veron stopped and looked up, following the gaze of the others before his eyes landed on the campfires that were visible in the distance.
+
+“What are we thinking?” the leader asked.
+
+John and another gold rank joined his side. “Strength in numbers?” John suggested.
+
+“We will run out of water soon,” the other one said. “And I doubt that chaos beasts build campfires.”
+
+“They could be involved in the war,” one of the adventures said.
+
+“So what? We are adventurers of Anvakar, I hold no stake in this war, does anybody else here?” another one of them said.
+
+“We may learn more, knowledge to bring back to the north,” their leader said. “And if there are chaos beasts in this forest, I'll side with any other fighters, as long as they're human or Eskir.”
+
+A few approving grunts came from some of the others.
+
+“If our estimates are right, we will have to endure the curse for a few more days of marching. I suggest we find out who we're dealing with here. Voice your objections now.”
+
+Glances were exchanged but nobody complained.
+
+“Then we walk. Do prepare for a fight, we don't know who or what we'll find.”
+
+They were going uphill and the campfires were slowly getting closer. When they were a few hundred meters away, someone called out to them. “Who goes there in the dark!”
+
+“Adventures from Anvakar!” their leader shouted. “An expedition sent into the cursed lands!”
+
+It was quiet for a long moment, accompanied by the sound of shifting gear.
+
+“Approach slowly!”
+
+The adventurers nearby looked around and seemed to relax slightly.
+
+Veron just looked at the fires. He was tired.
+
+They made their way towards the camp, finding pitched up tents and weary looking warriors. They wore plate armor, chainmail, and gambesons. Most of them wore sashes or had sections of their armor colored in blue. Soldiers of an army. Flags bearing the sigil of what looked like a white stag on blue hung without wind to carry them.
+
+They gathered and watched the adventurers approach. They looked to be a few hundred strong.
+
+“Soldiers of Felrak,” Hayden said in a quiet voice.
+
+A few men and women with more decorated armor met the gold ranks of their own crew.
+
+“Captain Davis of the second battalion,” the center one greeted, offering his hand. He wore steel plate armor. His black hair was oily, a thick moustache adorning his face as he shook their hands and took them in with a scrutinizing glance.
+
+“Rogier Malron, gold rank adventurer based in Anvakar. It's good to find other humans out here.”
+
+“It is indeed.” The captain breathed in deep and shook his head. “Do you bring news from the north? Has this curse reached Anvakar?”
+
+“Not as far as we know. An expedition was formed to find answers. We have failed, in Perrion. Human-like chaos beasts decimated our numbers. We are what is left and intend to bring back what we learned to Anvakar. What is your purpose here?”
+
+“I’m sorry. These lands are no longer safe,” the Captain said. “We hail from Honfell, to the east. After the flash of light from the south, we have lost contact with Karlsbrugg and were sent to investigate. We believe the city has fallen to the curse and have encountered similar creatures in the Alron forest.”
+
+He paused and seemed to consider, then nodded. “Master adventurer, I'm afraid those are not the only dark creatures now haunting these lands.” The captain paused for a moment and looked at his officers, though none met his gaze. He steadied himself. “You may join our camp for the night. We shall discuss the next days, though you should know that the forests, even beyond the curse, are no longer safe.”
+
+“What do you mean, Captain?”
+
+He bit his lip. “This is what I will share. Chaos beasts now roam the Alron forests, and hooded figures of dark magics. We have lost many, in the past month.”
+
+“Not beasts like the others?”
+
+“No. We do not know their nature. But I suggest we work together.”
+
+“Will you accompany us northwards then?” Rogier asked.
+
+“We shall discuss. Let us first find room for you and your expedition, and see what needs we can meet. We have plenty of water and food, though our soldiers are exhausted. Perhaps some of yours could cover their watch, for them to get some sleep. And if you’ve higher level Devotion Paths, some relief from the curse would do my women and men well.”
+
+“Of course. I doubt that all of us will be able to sleep tonight,” Rogier said.
+
+Veron glanced over at Reka but couldn't gleam any of her thoughts. The remaining gold ranks left with the captain and a few of the Felrak officers showed them where they could set up their tents. Soldiers came and brought water, food, and more tents.
+
+Soon, they were sitting by a fire, some short distance away from the other teams that were now isolating more as well. Soldiers passed from time to time, glancing at them with obvious suspicion.
+
+“What are you thinking?” Silvie asked in a quiet tone.
+
+Veron was exhausted, but he didn’t want to think of sleep right now. The smell of the fire bothered him.
+
+Reka focused on Silvie. “He's not telling us everything he knows. I suppose it shouldn't matter, as long as we both want to get out of the cursed area.”
+
+“What about the warnings he shared?” Hayden asked.
+
+“The forests remain dangerous. As to the hooded figures he mentioned, perhaps they are soldiers of Sor and he wishes to use us against them. If he doesn't share more, we won't know more.”
+
+“He seemed both scared and tired as well,” Silvie said. “I don't think it changes our situation a lot.”
+
+Reka nodded. “I suppose we'll have to be vigilant all the way to Anvakar. Who takes first watch?”
+
+Night came quickly and the only new thing they learned was that tomorrow, they would be marching together.
+
+Veron couldn’t see the stars and he kept seeing the gambling hall and the streets of Perrion. He meditated, focusing on his body and occasionally connecting to the earth. It took a while but eventually, he fell into a light sleep. He dreamed of the warm bed in the Willard inn and the burning city he had seen in the dungeon. Then of shouts and monsters running in the night. He turned on his bedroll and sighed, half-awake but still hearing the shouts and screams. It took him a few seconds to realize he was no longer dreaming.
+
+“We're under attack!” someone shouted nearby. “Together!”
+
+A loud crash resounded and Veron grabbed for his mace, scrambling out of the tent and trying to find his team. He stumbled and caught himself, breathing in deep to get his bearings. Magic lit up here and there in the forest. He finally spotted Reka and felt the magical tension of her Runic magic snap in the air before a growl came from his right. The fire and lantern light in the vicinity wasn't much against the darkness but it reflected off the yellow eyes of one of the beasts they had fought in Perrion.
+
+Did they follow us?
+
+Veron was barely able to form the thought and raise his mace when the beast was upon him, crashing into his stone armor and digging its claws into it with the sound of crumbling rock. He stood his ground and skidded back on the dry earth but couldn't push it off, connecting to his armor and sending out a few chunks of it into the creature. The impacts were loud and shredded through flesh, pushing back the monster, enough for him to rip himself free. He felt pain in both his arms, scrambling to a tree he saw, away from the creature.
+
+Again? Shit.
+
+His breaths were quick and came out ragged, his ears starting to ring as he heard the shouts and screaming all around, light and fire flaring up where spells were cast in the chaos, briefly showing the monsters running in the dark of night. There were dozens of them.
+
+I have to find-
+
+Veron felt the wind, pushed aside by something heavy. He ducked and rolled, hearing a loud thud impacting the tree he had hidden behind. He turned around and saw the outline of a hulking figure, Veron staggering back when he saw the yellow eyes more than three meters up in the air. The creature took one step and swatted at him with a massive arm he barely saw. He raised his shield arm on instinct, just barely registering that there was no shield at all.
+
+The hit knocked all the air out of him. He couldn't tell up from down before he came to a violent stop. He groaned as he tried to move, a dull pain coming from his back and stomach. Veron saw the campfires now, the spells and fighting people, soldiers and adventurers alike overrun by the cursed creatures of chaos.
+
+They're so far away.
+
+He coughed, fingers slick with blood as he found something hard protruding out of his stomach. It hurt. He could barely move. And he knew that he was dying.
+
+Veron didn't even have the strength to call for help, and the glimpses that he saw below suggested nobody would come. He was alone, bleeding out and hanging from a tree.
+
+Damn.
+
+He breathed.
+
+I think this is it.
+
+He closed his eyes. Everything felt hazy.
+
+I hope the others can make it out.
+
+Slowly, he breathed, trying to push away the pain with the consciousness he could still muster.
+
+I would have loved to see more of the dungeon.
+
+His vision darkened, even the pain fading now that his awareness slipped.
+
+Death was bright and flowing with gold. It felt soothing, stripping away all the pain that he had felt. He thought of Silvie, Hayden, and of Reka. And he thought of Ian.
+
+Veron opened his eyes and coughed. The floor was cold, as was his back. Golden metal was all around him. The tree was gone, and so was the forest. He breathed fast, a ringing in his ears as he started pushing both his hands against the murky glass before him.
+
+What is happening?

@@ -1,0 +1,191 @@
+---
+id: af61a414-ea6f-56f4-a2e0-bc6eb4dde68a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20 - Rent is Due"
+slug: 0020-chapter-20-rent-is-due
+partOf: hell-horizon-healer
+position: 20
+ownLength: 1495
+unit: words
+publishedAt: 2026-06-18
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3557788/chapter-20-rent-is-due"
+royalRoadId: "3557788"
+---
+
+Jake's feet once more sank into the murky, oily water. He listened for monsters. Nothing.
+
+Everyone helped each other back to the exit, dragging themselves along the corridor. Jake and Edwin scavenged on the way—tins of food, bottles of water, whatever wasn't nailed down. Surprisingly there was a lot of it once they started looking. They didn't get to fill the bags before they hit the stairwell.
+
+The door to Floor 7 was locked shut.
+
+Edwin banged on it. "Open up. It's us." He peered down into the darkness below while he waited, jaw tight.
+
+Murmuring on the other side. Scuffling. Then the door swung open to gasps and noise and people grabbing at the bags before anyone had fully stepped through.
+
+The others filtered in and collapsed against the walls or straight onto the floor. Jake ground his teeth against the exhaustion gnawing at him and kept moving, heading down the hall toward his room that has been theieved.
+
+He gave Sloane a look of victory as he opened the door. Sloane grinned.
+
+Inside was a mess. Clothing everywhere. Nothing in it's place. Bed not made.
+
+He shivered. She... She was a monster.
+
+Jake took the key. He'd worry about the mess for later.
+
+He locked the door then headed straight for the System machine.
+
+Hanna sat beside it, rolling the bolt in her palm. Startled at his footsteps, she scrambled up when she saw who it was. She was skinnier than before. Visibly so.
+
+Three days since he'd left. Five days total without food.
+
+He was surprised they were still breathing.
+
+"You're alive!" She hugged her pink plush bear and stared at his arm. "...Barely."
+
+"Says you." He set the bag down. "I can hear your stomach from down the hall."
+
+She reached for the bag then stopped herself. Looked up at him. "May I?"
+
+"I got them for—"
+
+"Me?" She lit up.
+
+Everyone.
+
+He didn't answer and turned his attention to the machine. She dove in immediately, pulling out a tin of ravioli, a caramel chocolate bar—he heard her mutter that it was her favourite—and a bottle of water she drained in one go. Then she wrestled with the tin lid.
+
+She thrust it up at him. When he ignored her she started jumping, the tin bouncing in front of his face with every hop.
+
+He took it and opened it without looking at her.
+
+Was this what owning a dog felt like?
+
+"How are you still alive?" he asked. "Where did you get water?"
+
+Her entire hand plunged into the tomato sauce. "Someone found a leaking pipe in the utility closet." She shoved a fistful of pasta into her face. "We took turns. Doesn't taste very good."
+
+He could only imagine, given what the building had become.
+
+"We didn't eat anything," she said, still chewing. "Someone joked they'd eat me first if you didn't come back."
+
+"That's not good."
+
+"It was a joke."
+
+"Are you sure?"
+
+She paused mid-ravioli. Shrugged.
+
+"If that happens," he said, already regretting it, "shout for me."
+
+She grinned. "Like a hero."
+
+"No. Like a begrudging dog owner."
+
+"What does begrudging mean?"
+
+He shook his head and turned back to the machine.
+
+He'd already made his decision before he got here. The permanent mana expansion was the obvious long-term choice, but at 250 credits he'd need to save. The Elite Growth Stimulants were finite—three remaining—and he had 153 credits after everything. The stimulants wouldn't wait. The mana expansion wasn't going anywhere.
+
+He bought all three Elite Stimulants without hesitating, and with a click and a thud, the stimulants arrived into the bottom drawer. He took them out.
+
+They were in crystal containers, clearly not glass as they seemed magical. Or maybe an enchantment? Was that possible?
+
+He stuffed them into his pocket, already thinking about how he was going to use them.
+
+Strength was obvious. Working out under the effect of the elite stimulants would take his power to a new height, and fast.
+
+Vitality was whatever. If he got his healing to a certain point, couldn't he just heal through any damage he took?
+
+Perception was another obvious one. From allowing him to detect mana, to detecting danger, to enhancing his healing spell as he was more aware of what was going on in his body.
+
+Agility was also important, but he had yet to really fully understand it.
+
+Then there was mana, most likely the most important stat, and the one he'd focus on. But the problem with that was training it using the stimulants.
+
+Yes, it was the most cost effective choice. He had trouble improving it on his own, so putting points from levels made the most sense.
+
+However, the strength he could gain to protect himself was of utmost importance.
+
+He decided to split them equally for now, and then focus on Mana in the future.
+
+Something poked his broken arm.
+
+The pain cut straight through Pain Resistance and he jumped, spinning round to find Hanna staring up at him, eyes wide and red-rimmed.
+
+"Does it hurt?"
+
+"Obviously, when you poke it!"
+
+She sniffled. "How are you going to fix it?"
+
+He looked at his arm. The bone still peeked through the skin. He'd been doing a reasonable job of ignoring it until now.
+
+"Slam it against the wall."
+
+"Absolutely not." A voice from down the hall. He turned. The nurse. Claire, he barely remembered, was already walking toward him, eyes fixed on the arm. She pointed at it. "May I?"
+
+"I thought you were a nurse, not a surgeon."
+
+She sighed. "Surgeons don't mend broken arms unless it's serious structural damage, Jake. You'd be surprised what nurses actually do." She pulled a pen from her scrub pocket. "I get that assumption constantly."
+
+"You know my name?"
+
+She gave him a slightly guilty look. "A lot of people are talking about you."
+
+"Like?"
+
+"People call you a monster in human skin," Hanna supplied, licking tomato sauce off her fingers. "And someone who calls himself Father says you're possessed by the devil. Why do people call themselves Father?"
+
+"Go eat your pasta." He nudged her away with his foot and raised his arm toward Claire. "Do it."
+
+"Don't you care what people think of you?"
+
+Jake considered that. "Should I?"
+
+She opened her mouth, closed it, and let it go. She pressed two fingers gently around the exposed bone. "Does that hurt?"
+
+"Yes."
+
+"The fact you're not screaming tells me the nerve damage isn't catastrophic. I'll need to set it. I have nothing for the pain."
+
+"That's fine."
+
+***
+
+He screamed.
+
+Claire stood over him and dropped her full weight down onto the arm like she was trying to break through a floor. The bone snapped back under the skin with a crack that made Hanna cover her ears from across the room.
+
+Jake cast two heals right away, pushing both as deep as they'd go. The tissue closed. The swelling pulled back. He flexed his fingers slowly.
+
+Claire watched him do it. "I wish I had something like that," she said quietly. Then, "Actually—I do. In a way." She took bandages from the cupboard and held them out. Jake noticed it immediately, the faint static buried in the fibres, the same as the door on Floor 7.
+
+He took one, felt it properly. Mana woven directly into the material.
+
+Awesome, he thought. Can I learn how to make these?
+
+"Any bandage I make carries healing properties," she said. She hesitated. "The same ones I wrapped Jonathan in."
+
+He handed them back. "And he still died."
+
+Her jaw tightened. "He must have torn the wounds open. Scratched at them in his sleep, or fell. I don't know." A pause. "I wish I did."
+
+Hanna picked up a glass jar from the shelf. Jake watched it slip straight through her fingers and shatter across the floor. She retreated immediately into the corner. Claire swept it up without a word and started wrapping his arm, fitting it into a sling.
+
+When she was done, a warm sensation spread throughout his arm.
+
+Jake stared at the ceiling and thought about Minor Heal. He had no good answer for why he had it. Lyle’s made sense: he was a fireman with constant close contact with flames. Edwin gained a skill to do with shooting because he was a soldier.
+
+Minor Heal didn't fit his life before any of this. No medical training, no first aid background, no particular instinct toward keeping people alive. He wasn't responsible for anyone.
+
+So why?
+
+He didn't get to finish the thought.
+
+A scream tore down the hallway.
+
+They ran out. At the far end of the corridor, something emerged from the wall itself—an old woman, wearing a tattered white dress, hovering inches off the floor, black toenails dragging across the carpet. Long white hair hanging over a sagging face pulled into a grin that was too wide for anything human.
+
+"Rent is due," she croaked. "And the payment is in blood."

@@ -1,0 +1,253 @@
+---
+id: 6e2290a2-f9c2-513a-bacf-2b36dee590bb
+page-type-slug: story-chapter-royal-road
+title: "021: Shopaholic"
+slug: 0021-021-shopaholic
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 21
+ownLength: 2370
+unit: words
+publishedAt: 2024-04-20
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1603409/021-shopaholic"
+royalRoadId: "1603409"
+---
+
+Five grey chests sat on the ground in front of Evelyn in a neat row. The last time she had opened a common loot chest, it had given her the sturdy buckler which, while now broken and buried, had saved her ass quite a few times. The level of strength displayed by the toughest challengers on the 9th Floor had perhaps been near the pinnacle of what the tower considered ‘Common,’ but the correct piece of gear could still prove to be useful.
+
+It was also possible the loot chests didn’t just drop equipment, seeing as she had only opened one so far. Evelyn was holding out on opening them for just one reason, she hadn’t decided whether to take it chest by chest or to simply fling them all open at once and see what they spewed out.
+
+In the end, her monkey brain won out. Evelyn ripped off five lids in rapid succession and sat back to watch the light show. The chests vanished, leaving behind only her rewards, three pieces of equipment, a common skill crystal and a perfectly spherical obsidian stone, that drank in the light around in and seemed to contort the very space it occupied. It appeared to be of a far superior quality than anything she would expect from the first tier of reward chests. In fact, when she placed it into her inventory, even the tower’s system either was not able, or refused to tell her what it was.
+
+** Inventory **
+
+〖7/10〗
+
+〖Common Skill Crystal〗
+
+〖Uncommon Skill Crystal (2)〗
+
+〖Unbalanced Shortsword〗
+
+〖?????〗
+
+〖Iron Half-Axe〗
+
+〖Arcane Band〗
+
+〖Brittle Shoulder Blades〗
+
+She could see herself using all of the gear at some point, but she had come to enjoy the feeling of battling using just her raw power, without any hindrance. It would take a well crafted piece of equipment that truly enhanced Evelyn’s unique combat style for her to consider using it all the time. The ‘Wrathful Wrists’ had been a wonderful example of that, but their lifespan had run its course.
+
+Iron Half-Axe (Common) - The standard fare of lumberjacks and poverty-stricken bandits. Strike fear into the hearts of travelling merchants!
+
+Arcane Band (Common) - This magical bracelet was enchanted by a beginner and barely meets the requirements for a magic item. May make channelling mana slightly easier.
+
+Brittle Shoulder Blades (Common) - Menacing spiked pauldrons that protect you from damage when you charge your foes. Likely to break on impact.
+
+The Arcane Band might be useful, but as with all of the tower’s descriptions, it lacked any hint as to the real function of the item. Evelyn slipped it onto her wrist anyway. The shoulder-guards were a little too… goth for her tastes, but even if they shattered after a single clash, more damage was never a bad thing. And the axe. She sold it to the Local Shop, despite the pathetic price.
+
+“Very 70’s, I like it,” Kayla quipped from across the island after seeing her new shoulder guards.
+
+“I’m just doing my best ABBA impression,” she replied.
+
+Evelyn opened the shop, hoping that there might be another white star or two for her to add to her collection, but to no avail. Anyone who had managed to clear the 9th Floor was no idiot and if they had decided to take a white star as their reward, they knew what they were doing. One thing she did notice, however, was that quite a few people had decided to sell the uncommon skill crystals.
+
+She didn’t know why people would turn down a free skill, but their loss was her gain. Maybe it was the randomness of the selection that turned them away? With just over six thousand essence to splurge, Evelyn was about to buff the crap out of herself.
+
+The Local Shop had perhaps never been purged quite so thoroughly, and it had taken Evelyn nearly thirty minutes to just scroll through and tap every single item she wanted to buy. It wasn’t even a long wishlist, consisting of just grey stars, attribute points and common skill crystals at the lowest price, pushed even further down thanks to her Bargain Hunter skill, but the sheer quantity she was picking up made it an arduous task. The uncommon skill crystal had cost 1,800 essence in the Local Shop, which meant the 2nd place reward had been rather generous.
+
+I wonder when the stocks will start to run dry. Eight billion people is a lot, and judging from how our party compares to the others we’ve encountered, I’d say we’re among the forerunners of Earth when it comes to advancing through the tower. I doubt common skills and grey stars will continue to prove as effective the further we climb, but I’ll keep buying them until they’re no longer useful.
+
+At the end of her furious shopping spree, Evelyn had managed to amass 35 more grey stars, 28 attribute points, 28 common skill crystals and 1 uncommon skill crystal. She had utterly drained her hoard, but what came next was the fun part.
+
+It’s just like coming home and putting on a fashion show for Dad after you’ve been shopping all day with Mum. Man, I really hope they’re both okay.
+
+During the intense clashes towards the end of the challenge, she had come to realise the importance of mana in combat, even for someone like her who was far more focused on being a durable, hard hitting melee combatant. It powered all of her strongest skills, with the exception of Bulwark, and even after she had pushed her mana attribute to 3, her reserves had drained rapidly from extended use of Fists of Frost and Mana Plate.
+
+With that in mind, she spread the 28 attribute points evenly, but with the bulk going into vitality, mana and of course, fortitude. Stellar Body was really starting to shine now, with all her stars giving her an extra 4 points of fortitude.
+
+After she confirmed the distribution, a rush of energy and raw life force flooded her, pushing her mind into a euphoric state of suspension where the only thing it was able to focus on with any level of scrutiny was her own body and the changes occurring within. Where before, her mana had felt distant and intangible, a power she could call on to charge her skills but nothing more, it now filled her, cycling through tiny pathways in her body, a network not dissimilar to the nervous system but magical in nature.
+
+Evelyn tried to call on her mana, not through a skill, but the energy itself. It was like trying to move a mountain. It’s response was sluggish and without the direction of one of her skills, she couldn’t quite wrap her mind around how to manipulate it.
+
+Even with just 6 or 7 points in vitality, her muscles and heart had thrummed with vigour, but at 10 points and beyond, there had been a qualitative change. It was as though her body was being renewed from the ground up, with each damaged or deficient cell cast aside and healthier, more powerful ones replacing them. She couldn’t know for sure just how much tougher she was now, but asking Kayla to test it out was a dangerous prospect.
+
+What came next was perhaps the part Evelyn looked forward to the most. With so many common skills, there were bound to be some exciting combinations for her to think up and it was also possible she would be able to push her way to a skill beyond uncommon. Skills made the difference in battle, as she’d discovered, so having the best ones in her arsenal was only logical. A high tier combat skill would let her fight beyond what her attributes allowed, though her fortitude already made most battles a matter of attrition.
+
+Who am I kidding, it’s going to be Bulwark. In fact, I would bet all my essence and stars right now on the fact that I will be the owner of the highest tiered Bulwark in the entire damn tower, however infinite it seems to be.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Mana Bolt (Common) - Fire a projectile of raw mana, slightly damaging your target. (5 sec cooldown)
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Backlash (Common) - Every time you are struck, charge increases by 1. When the charge reaches 8, unleashes a shockwave that stuns nearby enemies very briefly.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Bargain Hunter (Common) - Reduces all essence costs by 0.5%.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Pugilism (Common) - Deal slightly more damage with your fists.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Bulwark (Common) - Take slightly less damage from physical attacks.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Surging Blood (Common) - Every 10 points of vitality give you +1 to the attribute.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Ice Affinity (Common) - A gentle chill permeates your bones.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Outnumbered (Common) - Receive a slight buff when facing more opponents.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Pugilism (Common) - Deal slightly more damage with your fists.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Impregnable (Common) - Every 10 points of fortitude give you +1 to the attribute.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Stargazing (Common) - Reduce timer for all stars by 0.1 seconds per star owned.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Stealth (Common) - Slightly reduces your presence.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Ambush (Common) - Slightly increases your damage when striking from concealment.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Renewed Vigour (Common) - Spend your mana to slightly increase your body’s natural healing process. (Variable Mana Cost)
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Bulwark (Common) - Take slightly less damage from physical attacks.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Ambush (Common) - Slightly increases your damage when striking from concealment.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Mana Plate (Common) - Form a barrier of mana around yourself. (Variable Mana Cost)
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Impregnable (Common) - Every 10 points of fortitude give you +1 to the attribute.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Stellar Body (Common) - Fortitude +1 for every 25 star value.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Arcane Shield (Common) - Take slightly less damage from magical attacks.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Flame Affinity (Common) - A flickering ember burns within.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Rock Affinity (Common) - You are slightly rough around the edges.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Spendthrift (Common) - For every 10,000 essence you spend, receive 1 attribute point.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Solar Fusion (Common) - For every 75 stars of one type, increases their essence production by 100%.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Salvo (Common) - Very slightly increases your damage for every consecutive hit landed on an opponent without interruption.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Corruption Resistance (Common) - Slightly reduces the effect of corrupting agents on your body.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Reflect (Common) - Return a minor amount of damage back to an attacker when they strike you. (Variable Mana Cost)
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Enhanced Sight (Common) - Slightly improves your eyesight.
+
+After consuming all of the common skill crystals, Evelyn was wholly convinced that they were far less random than they seemed. She had acquired quite a few new skills, but even those were tangentially related to her existing talents and her previous actions, while many of the crystals had given her duplicates of skills she already had. It wasn’t an issue, since she could fuse them, thereby increasing their tier and potency, but having unusual skills might let her get a bit more creative in the synthesis menu. The uncommon skill crystals were her last hope at obtaining more stimulating fuel for her experiments.
+
+Uncommon Skill Crystal has been consumed! You have received the following skill:
+
+Opportunist (Uncommon) - Slightly increases your proficiency with all tools.
+
+Uncommon Skill Crystal has been consumed! You have received the following skill:
+
+Bulwark (Uncommon) - Take less damage from physical attacks.
+
+Uncommon Skill Crystal has been consumed! You have received the following skill:
+
+Flash Charge (Uncommon) - Empower yourself with mana to charge at a distant enemy with increased speed. (45 sec cooldown)
+
+Oh, screw you, tower. I know I called it, but you could at least subvert my expectations of you and stay a little interesting. Flash Charge seems really nifty, though, and general purpose skills like Opportunist are always useful. Right, time to get mixing.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+|Attributes|
+
+Power: 7
+
+Speed: 4
+
+Stamina: 6
+
+Vitality: 12 (13)
+
+Mana: 8
+
+Fortitude: 16 (21)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Uncommon), Bulwark (Common), Stargazing (Common), Assassin’s Eye (Uncommon), Bargain Hunter (Common), Backlash (Common), Stellar Body (Common), Capital Gains (Common), Pugilism (Common), Surging Blood (Common), Impregnable (Common), Arcane Shield (Common), Spendthrift (Common), Solar Fusion (Common), Salvo (Common), Corruption Resistance (Common)
+
+~Active~
+
+Fists of Frost (Uncommon), Mana Plate (Common)
+
+Essence: 9『+212 / 5:59:39.6 hours』
+
+~~ Stars ~~
+
+Grey: 101
+
+White: 1
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+【KILL】

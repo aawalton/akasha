@@ -1,0 +1,99 @@
+---
+id: fe54104b-ab13-5130-be15-dcbf72adc2ed
+page-type-slug: story-chapter-royal-road
+title: "324. Favorite Trash"
+slug: 0324-324-favorite-trash
+partOf: god-of-trash
+position: 324
+ownLength: 2134
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3544388/324-favorite-trash"
+royalRoadId: "3544388"
+---
+
+It was an old trope, but a good one. Somewhat out of style, just like all the best trash was, yet simultaneously evergreen. A guilty pleasure, one that he was always happy to see pop up no matter how overdone or mediocrely executed it was. And now it laid right before his eyes.
+
+Ryota burned bright with mana. His body exuded blue wisps of it, the ephemeral energy whirling around him in agitation. Like Rhys’s had during his earliest days, Ryota’s eyes glowed bright blue, but not just the irises; the entire eye, edge to edge, blazed so fiercely that his eyes tracked bright blue trails behind them. The mana rushed so wildly around him that it sent his robes and hair into a flurry. His hands curled into claws, and he bared his teeth like a wild beast.
+
+Hell yeah! A transforming berserker type! Can I talk to the nine-tails in you? Oh, or what about the ancient tattooed cursed monster that likes eating fingers? There were too many examples to list, at least one for every generation, and he couldn’t be happier to see it play out here as well.
+
+And then Ryota leaped at a gorilla with deadly intent, and Rhys snapped back to reality. Right. These kinds are a menace to everyone around them. It’s time to be the white-haired mentor who hides his mouth and red eye… or the white-haired mentor who hides his eyes? Damn, do I need white hair to play this role? Someone grab the bleach!
+
+Thinking ridiculous thoughts, Rhys leaped into the fray. Even in this berserker state, he was still faster than Ryota, but while before it had been simplicity to overpower or outspeed him, now Rhys had to seriously try to keep up. He reached the gorilla miliseconds before Ryota did and whipped it out of his way. Ryota’s clawed hand slammed down and smashed into the tree behind it, and the blue mana burst out of his strike. The entire tree broke into splinters and rained down on them like sawdust. A moment later, a mile-long and several-meters-wide swathe of forest shuddered, then toppled all at once.
+
+“Hot damn, this is so cool!” Rhys cheered, then sobered and turned to the gorilla. “Gather everyone. Get them away. The strong ones carry off the weak ones. No one is to come within a mile of me or this man. Understood?”
+
+The gorilla grunted assent and ran off, waving at all the other gorillas to flee. Some of the wiser ones had already turned to run, but at the gorilla Rhys had spoken to’s grunted commands, they turned back and snatched up the young or elderly gorillas who couldn’t flee so easily.
+
+Damn. They actually understood that? Now I feel even worse about our original plan to fight them.
+
+After a moment’s reflection, he realized he really shouldn’t have been that surprised. Gorillas were already intelligent animals, and these were high-tier gorillas. He’d raised raccoons and rats to communicable intelligence back in the trash heap outside of Purple Dawn, and he, and those animals, had both been much lower realm than these gorillas. Of course they’d be able to understand him.
+
+In any case, now that Ryota had gone berserk, it was going to take something stronger than these gorillas to calm him down. Rhys could throw him at some yet stronger monster, but then he’d have to worry about that stronger monster killing Ryota. Besides, as trash-kaiju-movie-logic as ‘that’s a scary monster! Let’s throw another monster at him!’ was, Rhys wasn’t a kaiju movie protagonist, and he could tell that bringing another monster into this equation would end with him fighting two monsters without having to go get another monster, throw it at his first monster, and then get surprised when one plus one equaled two. No, better to keep it simple and handle Ryota himself.
+
+“Is this why you were so afraid to fight back?” Rhys muttered, mostly to himself.
+
+Ryota didn’t look with it enough to respond, nor did he react at all to Rhys’s voice. He stared down the mile of ruined forest, panting heavily, his chest heaving. The blue mana floating around him dimmed a little, and for a moment, Rhys expected it to fade, but in the next instant, it resurged, brighter than ever. He whipped around with a growl. His eyes locked onto Rhys.
+
+“That’s right. Right here,” Rhys invited him, swapping the whip sword for The Hunger. Right now, he didn’t need to hold back. Rather, if he did hold back, he might be the one in danger.
+
+“Hungry…” The Hunger moaned.
+
+“I know, I know. I’ve got some real spicy impurities for you, but first, we’ve gotta subdue this guy.”
+
+“Okay.”
+
+Rhys glanced at his sword. “Subdue. You know what that means, right? As opposed to kill?”
+
+“So hungry…” the sword complained.
+
+Yeah… it has no idea what I mean. Rhys steeled himself, preparing to hold back on the sword’s part too.
+
+Ryota growled once more, the sound feral and guttural in equal parts. He dashed forward, temporarily vanishing even from Rhys’s vision, though his trash senses and his trash senses alone could keep up. Rhys lifted The Hunger, swayed back, and barely blocked Ryota’s claw strike in time. Instead of sweeping his head off, Ryota’s claws scraped over The Hunger. The Hunger screeched in pain and rage, and Ryota screamed back.
+
+Rhys raised his brows. Looks like those two are on the same level right now. It might be kindergarten, but at least they’re matched…?
+
+He hopped back, putting space between him and Ryota. Ryota glared at him, baring his teeth. Rather than immediately rushing in as Rhys had expected him to, he hung back and paced. They circled one another, watching for an opening.
+
+He isn’t a full berserker? He can still strategize? Rhys wondered. And then blue streams of mana began wafting off Ryota like smoke, and he realized: this wasn’t strategy. This was a recharge cycle.
+
+He chuckled under his breath, spinning his sword as he continued to circle Ryota. He took the opportunity to gather his own trash sludge. He condensed a few trash darts and sent them hovering around him, ready to block Ryota’s attacks.
+
+This was not his kind of battle. His ideal scenario was to either surprise someone and kill them too rapidly for them to react, or impurify them slowly, turn it into a battle of attrition, and win. Either way, his usual battles were to the death, and all his techniques were built to kill as effectively as possible. Using them nonlethally was a true handicap.
+
+But that just meant that nonlethal battles were a weakness, and this was an opportunity to overcome that weakness! Rhys narrowed his eyes, smiling slightly to himself. This was all about growing stronger, no matter what that ‘stronger’ looked like. He’ welcomed the challenge.
+
+Not only that, but Ryota was legitimately a powerful opponent in this form, someone he could barely stand up against. It was possible he’d even be able to grow stronger in general, and not just with nonlethal attacks.
+
+Ryota dashed in. He moved even faster than before, and a claw smashed into Rhys’s side before he saw it coming. He went tumbling, smashing through a tree and thumping to a halt against the next. Ryota darted to his side and lifted a foot to stomp, but Rhys rolled out of under his foot. His foot smashed into the dirt instead, sending a veritable wave of topsoil over Rhys and everything in the vicinity as it smashed down a meter and out a meter-radius circle. Rhys used the blast to hop to his feet and stumbled back, lifting The Hunger blindly, unable to see through the flying earth—but able to sense Ryota approaching. Claws struck the sword again, throwing him back once more. Rhys landed and dug in his heels, digging furrows into the forest floor.
+
+This time, Ryota didn’t let up. He hammered Rhys, slashing left and right over and over again. The Hunger growled in anger and pain as Rhys blocked claw strike after claw strike. Some slipped past, slicing his shoulders and chest, and blood ran down his arms and body.
+
+I can’t keep playing defense only. I have to go on the offence. Rhys slammed The Hunger out, pushing Ryota back. The Hunger snarled, leaping in his hand to chase after Ryota. He could feel its emotions as if they were one; it was angry not at him, but at Ryota for giving it no chance to fight back. Rhys immediately charged, striking at Ryota with both his and The Hunger’s full strength.
+
+Ryota raised his arms to block. Blue light formed around his forearms, cladding him in ephemeral mana armor, and The Hunger bounced off.
+
+But Rhys wasn’t done. He focused, and the darts floating in the air shot forth. Ryota’s armor was focused on his forearms. The rest of his body was unarmored in that blue mana. The darts slashed his shoulders and legs, drawing blood. Rhys aimed for important muscles and tendons to the best of his ability, but held back the impurities.
+
+Usually, just landing a blow would have been enough to tip the scales in his favor thanks to his impurities and poisons, but he didn’t want to permanently harm Ryota. He could withdraw his impurities, but that still caused pain and did some damage. Besides, there was always the chance of secondary effects while the impurities were active, that continued to exist after he retracted the impurities. It really was better to not impurify Ryota in the first place.
+
+Of course, under ordinary circumstances, he probably would have still used his impurities and just retracted them afterwards, but he was also training impurity control right now. If Ryota seriously threatened his life, things would be different, but while he was just getting thrown around a little, he’d continue to hold back for training. After all, dropping the training weights to fight seriously was almost as trashy as a power-up berserker.
+
+Ryota roared in pain and threw his arms out. A wave of force burst from the gesture, knocking the darts out of the air and scattering them around the forest. Rhys could still feel them in his trash senses, but he would have to focus to draw them out again—and Ryota had no intention of letting him do that. The man immediately closed the distance and clawed at Rhys with both hands. Rhys flashed The Hunger left and right, deflecting one hand, then the other, and bit back a grunt.
+
+Ryota snagged The Hunger in one hand and held it there, the blade cutting into his palm until it bled. Hauling back his other hand, he pummeled Rhys again and again. Rhys summoned a trashed piece of metal pole to his offhand and fended off the blows, but pinned as he was, Ryota kept landing hits past his somewhat rusty sword skills. Bruises bloomed and blood ran, quickly beaten back by his regenerative skills and techniques, but the more the damage accumulated, the slower his skills cleared it. Before long, he found himself on the losing end of that equation.
+
+This is actually getting dangerous. I’m going to have to stop holding back soon. And I don’t know if Ryota will survive that.
+
+Even as he thought it, he threw his all into examining his regenerative skills the same way he’d examined his body before. He paid close attention to the mana flows and the shape of the skill. Anywhere he found a deficiency or a slow flow, he tore into it. He broke it down with his impurities, then built it back, enhancing it. He shortened flows. Widened mana paths. Reshaped the basic form of the spell until it was more efficient, stronger, more effective. And in the end, he was rewarded, and surprised, by the pop of two messages:
+
+Trash Body > Form of Filth
+
+Self Regeneration > From Ash (reclassified to Path skill)
+
+He raised his brows, a bit surprised. The last time he’d seen his status sheet, it had basically let him know it’d given up on tracking anything after its long absence, his loss (and subsequent retrieval) of his core, and his general filthing around and problems-causing. The System had totally lost the numbers, but it’d nonetheless acknowledged his growth by evolving the base skill.
+
+He wasn’t sure what either of the evolutions meant, but it was gratifying to see the messages after so long without. And a skill getting reclassified as a Path skill meant it belonged to his Trash skillset, right? Which meant he could look forward to his Self Regeneration growing stronger, faster, in the future.
+
+Not bad, not bad. Ryota, you’re a hell of a practice partner!

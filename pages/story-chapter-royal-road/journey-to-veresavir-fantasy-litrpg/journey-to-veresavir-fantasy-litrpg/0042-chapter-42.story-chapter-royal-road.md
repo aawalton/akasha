@@ -1,0 +1,173 @@
+---
+id: c35c0b33-a775-508a-aea7-7c215a69b25d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42"
+slug: 0042-chapter-42
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 42
+ownLength: 2944
+unit: words
+publishedAt: 2026-01-28
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2989282/chapter-42"
+royalRoadId: "2989282"
+---
+
+Chapter 42
+
+Veron shaped one of his projectiles into a small serrated knife, then got to work, trying to employ more of the lessons from Ivera.
+
+He gutted the deer, gagging a few times, but he pushed through.
+
+Blood covered and panting, he looked at the deer and then raised it up above his shoulders with a heave. It was heavy, but not as much as he had expected. He secured it and held its legs, feeling warm blood dripping down his back.
+
+Veron thanked his Path, both for the strength it gave him, and even more so for his magic. Now then. Let’s bring it back.
+
+He rested a few times, and it took a while. Longer than it should have, but the distant mountains guided him and soon, he heard the river once again. Veron came out farther south than where he had claimed his spot, but he didn't go back and instead set down the carcass, then gathered wood nearby.
+
+A somewhat flat rock with a hole he shaped into its center and two sticks let him spark a flame in reasonable time, and soon, he had a fire going somewhere in the thicket. He cut out some random chunks of meat with his serrated knife and started grilling them over the glowing embers, careful to make sure his construction of sticks didn't fall over.
+
+Veron froze when he smelled it.
+
+And he was back in Perrion. Monsters cut through the adventurers with them. Gold ranks. His team was there. They too would die, and there was nothing he could do.
+
+He felt his chest tightening and stumbled up, away from the meat, the smell of burning flesh, of fire magic, of burnt up corpses, of the curse. He fell to his knees, then stumbled to the river, retching up bile and the berries he had eaten.
+
+Shit.
+
+Veron cleaned his mouth and breathed, quick at first, heart pounding in his chest and ears ringing. There was little else to do but wait. And so he waited, grounding himself with his Focus from time to time.
+
+He looked up at the sky and sighed. His stomach rumbled. He needed to eat.
+
+And he had food right there, a deer he had killed and carried here.
+
+“Come on, Veron. I know that it’s scary, but we need to eat. We’re not in Perrion. There is no curse here. It’s not happening right now.” He sobbed, shaking as tears came to his eyes. “It’s okay.” He breathed, and calmed down. “It’s okay. You’re here.”
+
+“I’m here.”
+
+He wasn’t sure he believed it fully. There was a part of him that didn’t, terror locked in his body. At least this wasn’t new to him, not entirely at least. He would’ve preferred professional help, someone to guide him through this, but there was nobody here. Just him.
+
+Veron stood up and rubbed his arms to ground himself. He felt the earth below his feet, and he focused on his breathing. The smell is an issue.
+
+He grabbed a small rock and connected to it, then shaped some makeshift nose clamps. It would have to do.
+
+His entire being didn’t want to go back to that fire. What made him take the first step after a while was not will or intellect, but hunger. The fire and the burning meat was dangerous, his body knew that, even if a part of his mind disagreed. But hunger pushed him to find food, and there was food right there.
+
+He didn’t rush. What had happened in Perrion was quick, instant and overwhelming danger, and death, and so he now had to approach slowly, ever so slightly letting himself feel and experience that this was safe. He was terrified all the same, the little thoughts of reason and scraps of knowledge the only thing that kept him tethered.
+
+He took a few steps, then stopped, very slowly moved his body in whatever way felt right, showing to himself that he was not in danger, then he continued, ever onward, now seeing the fear, more separated from himself. He stayed patient, knowing that he could retreat whenever he needed to, but his hunger urged him onward. His hunger and his mind. Perrion and all those monsters, the curse, and the fear of the people he cared about, the fear of losing them, the fear of facing something so overwhelming. There was no danger here, just fear. All he had to do, was feel.
+
+He blinked his eyes when he had reached the fire, slowly crouching down. Next to the meat. Next to his food. He smelled it through the clamp, and it made him want to run as far as he could. But he didn’t.
+
+Slowly, Veron reached for the food he had hunted, and then he bit down, and chewed. Piece after piece, sweat covered, and crying. Because it was fear, and grief, and hunger, and relief that permeated who he was.
+
+The meat was tough and bloody, and it tasted bland, but that didn't matter to his hunger and he kept on eating, devouring everything that he had cooked before he sat down, exhausted. The smell was gone, but now he wanted more.
+
+He wouldn’t be able to conserve the carcass, so he had to eat now. He gave himself time, breathed, and then he got back up. He cut more pieces and let them cook, then went to the river to drink and wash his face.
+
+Fucking hell.
+
+“Come on, Veron. You know you can do this.”
+
+And he knew he could, washing his hands and trying to get off the blood. It was difficult, but he got most of it off.
+
+When he walked back to his fire, he saw a bird of prey standing atop the carcass, beak covered in blood and wings spreading wide when it saw him approach.
+
+They stared at each other.
+
+“I hunted that deer. I carried it here.” The nasal tone due to his nose clamp gave the situation a flair of dark humor he appreciated, though he didn’t laugh.
+
+The bird hadn't touched the meat cooking on the fire. It was large, had grey feathers, and yellow eyes, its wingspan easily broader than the length of the deer.
+
+Veron hesitated, seeing the talons of the bird, longer than his fingers and already cutting deep into the carcass. He shifted his weight, making an amused sound when he realized the bird felt a lot less threatening than the meat above his fire.
+
+“You will leave.” He aimed and shot one of his rocks, watching the bird fly up with a burst of speed to dodge the projectile. He held his spear with both hands and followed its movements, dodging aside when the bird flew down and past him, something sharp nicking his arm. He winced but kept his eyes on the critter, and when it charged again, he didn't dodge, trusting his aim and punching his spear through the chest of the bird, halting its momentum before he pinned it down on the forest floor. He held it there and shot another sharpened rock through its neck.
+
+He was panting now, hearing the sound of the river and the crackling of flames.
+
+“Fucking wilderness. Fucking curse shit. Fuck you. Hunt your own.”
+
+He lay the bird to rest, its essence healing the cut it had dealt. Then he ate more of the deer, the act more difficult than the fight with the predator. Veron remained patient with himself, and accepted that grilling meat would simply not be something easy, at least not for the foreseeable future.
+
+He kept the fire going and ate as much as his stomach and stress could handle, then tried to skin the deer as well, to maybe get some usable pieces of fur or leather. Not that he had any idea how to treat it. It was rough and draining work, but he kept at it and improved as he got to know the feel and resistance of the material.
+
+For now, Veron was just glad to have found something softer than sticks, and he would throw it out if it started to smell bad. He tried to scrape off what he could and clean it in the river, emerging finally with four sizable pieces of fur. He started to understand, not just intellectually, why humans built settlements near rivers.
+
+Veron wondered what he could do with the bones of the animals, but any tools they could become, he could easily and far better shape with stone. So instead, he went for the bird, and plucked all of its feathers. It was easier than skinning the deer. They weren't particularly soft, but he considered wrapping them up between two pieces of fur to make some kind of forest ghetto pillow. He really wanted a pillow.
+
+Veron was very much aware that his efforts would potentially result in rot and disease, but now that he had eaten his full, he wanted to try and use what he could from the creatures he had killed. The largest piece of fur was big enough for him to wrap up the rest and use as a makeshift bag. He left the carcasses and considered going back the next day to see what was left, then made to find his boulder.
+
+It was a decent walk away and he felt both joy and pride when he climbed back up with his stomach full and some materials to work with. It was past noon already, and he used his magic to finish up the cover for his sleeping spot, then he smoothed it out and added a stone handle to more easily move it. He smoothed out his bed situation as well, to hopefully not injure himself again if he woke up with a start.
+
+Between recovering his Focus, Veron made a really shitty stone brush, not wanting to invest more of his magic for now, and then he scrubbed and scrubbed the fur in the river. He cut off as much as he could from the skin and muscle without having the whole thing disintegrate, in an effort to reduce potential rot. He decided to focus on cleaning today and have it dry overnight and tomorrow. It meant he would sleep on his sticks again but if that meant he could maybe have a shitty pillow tomorrow, he deemed it worth it.
+
+The evening came faster than Veron would have liked. He squeezed out as much water as he could from the furs and laid them out on top of his boulder. They would potentially attract creatures but with his stone cover ready, he wasn't near as worried about the night.
+
+When he was done, he sat atop his boulder and watched the valley, the blooming trees and clouds slowly moving past the mountain sides. He even spotted the occasional critter drinking from the river.
+
+Now that he had some basics, he felt a lot more calm. It had been a long day, and he knew that he would have to hunt again tomorrow. He would see if he got quite as lucky again, and he wasn’t looking forward to cooking anything. Maybe he could try his hand at fishing. Not with a spear but maybe with small rock needles or something of the like.
+
+He sighed and leaned back, smiling as he watched the nature all around. For the first time in a while, Veron used some of his Focus to connect to the wind, and to feel it for a while. It was strong and pulled him north, then west. No longer did it feel disturbed as it had felt after the curse’s light had reached into the skies.
+
+Calm again.
+
+He sat there for some time, letting his thoughts drift past. He sighed, deeply, and rolled his neck.
+
+Time magic.
+
+If it’s true, then what does it mean? For me. For what I want to do here?
+
+He drew a blank, looking down at his hands. He was here. With his Path, his magic.
+
+He wanted to visit Leiveen. He wanted to study and explore his magic. Hell, he hadn’t even figured out what his third Harmony was. Veron laughed at that, and calmed down again.
+
+He wanted to see more of the dungeon too.
+
+So it’s the same as before? He asked himself with some amusement. But of course it wasn’t. No. If true, then the people he had gotten to know, no longer remembered him, and even if he talked to them, or others, once he died, if he died, then they would forget again.
+
+He didn’t know yet how he felt about that. Not great. It felt like he had lost them, or at least a part of them, though at the same time, he was glad they were alive. And maybe he could figure out ways to help them out, to prevent bad stuff from happening.
+
+Not to get ahead of myself. I’m a Modest Elemental Path with zero coin to my name and no influence at all. There’s only so much I can do, and right now, I can just about manage to survive out here.
+
+And yet he couldn’t help but wonder. If death truly no longer presented an ultimate end, and he returned, with both his Path and knowledge, what could he achieve? Or perhaps the better question was, what could he not?
+
+But for now, he was here, here out in the valleys of the Teriam range, and the sun was setting.
+
+Veron sat and enjoyed the fading light, and then he went back into his niche, this time pulling the stone cover over himself and connecting it to the surrounding stone. If he had been a Blood Path, he could see himself making a joke about vampires by now.
+
+It was dark in his coffin, and he felt safe, almost cradled by the stone around him. The day had taken a lot out of him and he fell asleep quickly, already dreaming of a more comfortable headrest. At least he didn't feel particularly cold, very likely thanks to his Path.
+
+Veron woke up a few times, the dreams still present but he assumed that wouldn't change, not for a while.
+
+The stone cover didn't just provide security. When Veron pushed the heavy ceiling aside, he found that the day was already in full swing. He laughed at that, feeling as if he was defying nature already. He blinked his eyes as he adjusted to the light.
+
+Sitting up, he stretched slightly and yawned.
+
+But then, I'm an Elemental Path, should I really be defying nature? I guess I can look at things with some nuance. Being able to sleep whenever I’m tired seems like a pretty good thing to have.
+
+He rubbed his sore neck and back, and then he did some stretches atop his rock. He felt like he should be more sore, but by now he understood that his Path made his body more resilient to a whole lot of things.
+
+The furs were still there and still drying. He had his niche and a spear.
+
+Is it already time to remake my armor?
+
+Veron thought of Eyra, and pushed the thought aside.
+
+He looked down at his sleeping spot and felt like some shelves and a little more space to stretch out would come in handy too. And the rock he would carve out for that could become a helmet and a set of chest armor.
+
+And all the while, I can be on the lookout for critters to shoot.
+
+He breathed in deep, and got to work.
+
+Veron used half of his Focus, then went and checked the river, to see where there were shallow sections and areas where the current was weak. He found a good spot and waited for a while with thin stone projectiles in his hand. The water was cool and the sun was warm. Something glittered, and a fish swam past. He shot his rock and missed. Another one followed soon after, and this one, he hit.
+
+Goddamn. I love my stone magic. How is this not the best and most sought after Path around?
+
+He got the fish out and looked at its silver scales, then he waited a little longer, and killed a second one. Catching them with his spear may have been possible, mainly due to his increased strength and dexterity from his Modest Path, but shooting them almost point blank with thick rock needles was just so much easier. Hayden really did have some good ideas. Veron wondered how people would counter this style of fighting, though he assumed the answer was good armor or various magic of their own.
+
+He took his fish and went to the fireplace he had built, gulping not at the fact that both deer and bird had been picked clean of flesh and sinew, but because he had to cook something again.
+
+Veron took a while to prepare himself, to ground himself, and to remind himself that he was no longer in Perrion. He hoped that grilling fish would smell different enough not to bring back memories.
+
+It seemed to work, the smell of grilled fish apparently distinct enough for him not to be reminded. He sighed in relief, deciding that his diet would include a lot more fish from now on. He ate, then stomped out the fire with his stone boots, and then he got back to shaping, giving a side glance to the bloodied bones of the deer and bird.
+
+He knew he wanted to think about the future soon. But for now, he was here.

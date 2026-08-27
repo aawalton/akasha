@@ -1,0 +1,133 @@
+---
+id: 1aa8a652-0b46-5581-be83-0555a848a1f3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 832 - Lurker After Lurker"
+slug: 0159-chapter-832-lurker-after-lurker
+partOf: hell-difficulty-tutorial
+position: 159
+ownLength: 2169
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3577047/chapter-832-lurker-after-lurker"
+royalRoadId: "3577047"
+---
+
+"Hey, you trash, how dare you put your nasty hands on me?" The sword says as it suddenly stops chuckling.
+
+The Dhampir doesn't seem to be affected in the least and smiles gently. "As harsh as always when you don't try to trick people. Have you given up on that already?"
+
+"A fucking traitor like you should just keep your mouth shut. Do you want me to use your brother's voice? Will you cry again when I do? So, how’s your life, you bitch? Do you enjoy reviving every few hundred years anytime someone kills you? Has so many revives already left you demented? I can sense that you’ve been greatly weakened." Calvorn chuckles, a wet tongue flicking as he changes his voice. This time, reminding me of a certain nonchalant Wraith, the being Adrian now possesses within the half formed figure constantly floating behind him. "Are you even still a Champion, Alistair, or just a leech on this body? Just how low have you fallen?" The sword’s voice switches back to harsh. "You fucking..."
+
+Calvorn doesn't get to finish as the blade shuts, closing the mouth, and the Dhampir turns around. "Take care of our guests," he says, and simply turns to leave.
+
+Before I can blink, the lynthari uses that teleportation of his to get in front of me. Some sort of spatial skill presses against me in an attempt to block my own teleportation, and the kinetic blast I throw at him disappears, teleported away, to hit Morwag instead, who is thrown to the side.
+
+Out of the darkness, a dozen more lurkers appear, teleported here by the lynthari.
+
+I swap into my kinetic stance as I turn to face the lynthari, who, upon seeing that, teleports away. At the same time, he continues to hold the core, using its mana to strengthen his skills as more and more lurkers begin to appear within this place, with them gradually rising to higher and higher levels.
+
+Morwag and Weslin are already fighting them. I see Weslin’s void cancel out a lurker's flight to reach him quickly as he uses the palm of his hand to cut off its head. Morwag face tanks a kick from a huge velnar, using his own horns to stab the lurker and, with a twist, throws him against the ground, as the demon's speed increases and he stomps on the velnar's head.
+
+"I’ll take care of the lynthari!" Savant shouts at me as he absorbs multiple attacks and, with a swing of his wing, follows the teleporting guy.
+
+"Got it," I call back to him and watch Brich’s body twist and crack and snap back to life as he takes a deep breath. For a moment, he looks around in confusion, but quickly moves, avoids an attack, and begins to fight the multiple lurkers grouping up against him.
+
+My [Empyrean Lance] stabs through a tanky looking velnar, preparing to attack me, with all his defenses failing to put up a fight. The lance just tears through his field, the barrier he places over his skin, his natural barrier, and continues on through his body.
+
+[You have defeated Reanimated Corpse - lvl 382]
+
+Another lurker lifts what feels like a mid arcane bow, nocking a glowing mana projectile to the string. I observe it, my eyes decipher the structure, and I pull on a string that destabilizes it, causing it to explode and throw the lurker away. Another of my projectiles follows, piercing through his head.
+
+[You have defeated Reanimated Corpse - lvl 397]
+
+A huge mace crashes against my body, but I absorb all of its kinetic energy, and it barely feels like a push. My body doesn't even move.
+
+I move that kinetic energy, narrow it, and feed more into it. The air shakes as the lurker’s head explodes like a watermelon.
+
+[You have defeated Reanimated Corpse - lvl 275]
+
+Another barrage of mana projectiles crashes against my back, and I don’t even bother putting up a barrier against them. I don't even have to turn around as they turn into a cloud of particles that the maelstrom of my Mana Crown quickly absorbs.
+
+In quick succession, I send multiple tricolored orbs through the lines I’ve woven throughout this place, and they explode one after another.
+
+[You have defeated Reanimated Corpse - lvl 249]
+
+[You have defeated Reanimated Corpse - lvl 266]
+
+[You have defeated Reanimated Corpse - lvl 210]
+
+...
+
+I use the structure of my [Weave] to teleport away, even as the lynthari lurker tries to suppress our spatial skills, even as he’s fighting with Savant. Rising high into the air, I locate more powerful signatures.
+
+Sensing danger, I push myself to the side, and a projectile I instantly recognize brushes past me, disrupting my mana as it does so. It stabs into the fleshy wall and continues to fly far away, carrying that familiar golden and white core.
+
+My attention quickly snaps to the lurker who shot the Empyrean bolt. I locate him, a mora, as tall as they come, wearing old, tattered robes and lifting a staff as tall as he is. The staff is almost akin to a small tree with branches and a glowing crystal floating between them.
+
+Another Empyrean bolt shoots at me just as I teleport away, and then start moving toward the lurker.
+
+He expects it. The place where I appear is suddenly surrounded by a field that makes me feel like I’m moving through molasses.
+
+My own [Empyrean Lance] shoots ahead to deflect another Empyrean bolt. It misses me, just as my lance misses him. But it buys me enough time to comprehend the field. My [Eclipse] flashes, the hold on me disappears, and this time I move toward him with Wraith Dance while keeping my domain close to my skin, disrupting any attempt to stop me.
+
+When I notice the lurker shooting a few Empyrean bolts toward Morwag, I use my own lance to deflect them. Before I reach the lurker, a sword as long as I am tall manifests in my hands. My body creaks as I momentarily boost it with both kinetic energy and mana, swinging into the mora lurker.
+
+The sword cuts through multiple barriers and fields. All of his disruptions fail as the blade pierces deep into his body.
+
+In reaction, he shifts the staff like a weapon and swings it at me. I let go of the sword and launch dozens of kinetic blasts at him, channeling them quickly one after another. He stops half of them, but the latter ones break through his barriers, riddling his body with holes and causing him to stumble back. Another sword manifests in my hand, and I boost myself up to take off his head.
+
+[You have defeated Reanimated Corpse - lvl 401]
+
+Before he can fall, I grab the tall staff. Through my eyes, I observe its function. In a split second, my mana cycles through it to learn how it operates before I lift it and slam the bottom against the ground.
+
+A huge portion of my mana flows in and pouring out from the staff, and a field like a cloud of molasses begins to spread. It is not unlike a kinetic hold, but it is mana based and much more effective, requiring less effort even if it can’t fully halt enemy movement. The advantage is that it slows both mana and kinetic based attacks.
+
+I twist around, activating another function. My mana flows toward the top, into the crystal between the branches, where it bounces around within, strengthening with each rebound and narrowing. Like a laser, a beam of cutting mana shoots out. I spin it around, tracking and cutting through dozens of lurkers.
+
+[You have defeated Reanimated Corpse - lvl 346]
+
+[You have defeated Reanimated Corpse - lvl 278]
+
+...
+
+[Lvl 423 > Lvl 424]
+
+The power contained in the crystal dies off, requiring another dose of mana, but instead, I lift it quickly to fend off an attack from a blue glowing axe that bites into the staff with the swing. I note that it’s being held by a vyssari woman, a lurker who turns into red and white lightning, zigzagging around me to attack me from behind.
+
+I let go of the huge, cumbersome staff and switch to kinetic movement as I jump over the next swing of her axe. I boost myself, flying to the side to avoid a primordial lightning projectile and then shift back into the same space. With my palm covered in oscillating mana, I swing at her, but she simply turns into lightning, swiftly avoiding me once again.
+
+I track her movement, and when she reappears, a blast of kinetic energy reverberates through the air, only for her to avoid that as well.
+
+She’s about to charge me again when Weslin’s void disrupts her primordial energy, and the half demon lands beside her with a slam. As she swings her axe at him, he disrupts whatever energy surrounds it and grabs the blade of the axe with his bare hands before his kick caves in her chest and throws her against the wall.
+
+A dozen of my projectiles pierce through a human lurker about to attack him, and I teleport away just as an explosion lands where I once stood.
+
+More and more lurkers continue to be teleported by the lynthari lurker Savant is still hunting, though I don’t see any of them as I focus on gathering more mana and continue charging out of the vicinity to avoid more projectiles.
+
+My domain expands as I choke off another explosion, preparing to drown the battlefield, and I track its source. Two weird domains press against mine, trying to destroy my [Weave], but I just feed it more mana to strengthen the ley lines it’s composed of and weave it tighter into this space.
+
+Another of my lances shoots at the lurker, preparing a wide range bombardment, before I duck to the side as Savant flies past me, his wing flickering to stop his momentum. Right after, leaving the air shaking, kinetic energy vibrates through the space in a familiar set of movements.
+
+I feel sick as I lift my eyes to see the lynthari lurker standing there in the distance. And next to him is a tall male demon with long white hair and short black horns. Even dead and reduced to a lurker, his face is handsome, and his eyes retain a hint of the demon’s red.
+
+In a fast, twitchy movement, the demon lurker avoids Morwag’s attack and, in a burst of speed, hits my guildmate multiple times, dancing away as Morwag returns the attack.
+
+I watch as all the kinetic energy he absorbed slams into the ground, exploding a crater into this space of flesh and oversized organs, which then all freeze in the air. Droplets of blood, pieces of flesh, and even some nearby lurkers are suspended as if frozen in time.
+
+He is about to attack Morwag again when Savant charges at him, swinging his sword, only for the lurker to tilt to the side and avoid the sword.
+
+Savant’s movements are much faster and much more powerful. The lurker can’t even hope to absorb it all. Yet, when it comes to melee, something like raw power won’t work against him. Even if he is a hundred or so levels lower.
+
+The demon lurker uses dozens of bursts of kinetic energy, each feeding on the last as they bounce within his body. Some move him, some are feints against Savant’s kinetic senses, and some are meant to deal with the sheer momentum he’s generating.
+
+Once again, he avoids Savant’s attacks in twitchy, unpredictable movements, and when Morwag moves to attack him, a Needle Point, this one truly as narrow as a needle, pierces through the muscular demon's body in multiple places. These attacks are incredibly small, yet all are directed at the ligaments, causing Morwag to slow down and falter until he almost falls to his knees.
+
+Even then, Morwag refuses to use his primordial binding, and the demon lurker slams a fist into his face before avoiding Savant and jumping away as Savant uses his domain.
+
+"Morwag, with me!" I shout as I slide deeper into [Focus] to force my eyes off the lurker.
+
+Meanwhile, another lurker that I recognize as the one known as Specter reappears from somewhere behind my back, about to stab a dagger through me, but I already knew about him. Before he even materializes fully, a spike made of mana stabs through the entirety of his body, causing him to die and drop the dagger.
+
+A notification dings, and I stand there with clenched teeth as Morwag, annoyed, turns toward me. Seeing my expression, his eyes narrow further, and he leaves the fight, letting Savant, Weslin, and Brich deal with the lurkers here.
+
+When he lands near me, we rush after the Dhampir and Calvorn, with Morwag still holding the glass container containing the rot.

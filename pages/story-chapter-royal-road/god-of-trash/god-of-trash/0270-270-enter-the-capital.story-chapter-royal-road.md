@@ -1,0 +1,89 @@
+---
+id: 230b78e5-da7a-5aa3-9898-3ffef5874e6f
+page-type-slug: story-chapter-royal-road
+title: "270. Enter the Capital"
+slug: 0270-270-enter-the-capital
+partOf: god-of-trash
+position: 270
+ownLength: 1867
+unit: words
+publishedAt: 2026-02-04
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3013116/270-enter-the-capital"
+royalRoadId: "3013116"
+---
+
+Rhys entered the capital quietly, mingling with the long line of mages heading through the gates. The capital had impressive walls and a powerful barrier bristling with detection mechanisms. He wasn’t sure he could sneak through without being noticed, and he really didn’t want to be the equivalent of that shitty criminal who got stuck in the window and had to be pulled out by cops. Sneaking too hard, too early was a good way to get caught, and Rhys didn’t want to be caught.
+
+There were guards at the door, checking everyone on their way in. Rhys quietly killed his trash star down to the minimum, about Tier 2, and prepared a story in the back of his head. When he stepped up, he smiled serenely at the guard.
+
+“Good morning.”
+
+“Good morning. Do you have an entry permit?”
+
+“No, I’m afraid not… do we need entry permits? I don’t recall needing one the last time I was here.”
+
+The guard let out a long-suffering sigh. “It’s a recent requirement, sir.”
+
+Rhys wrinkled his nose. “Oof. I imagine you’ve been running into people like me all day, then?”
+
+“You have no idea. No one has a permit, and everyone wants in.”
+
+Rhys shook his head sympathetically. “I’m so sorry. I hate to be a part of the problem.”
+
+“No, no, it’s fine. There’s still a grace period, so you can go in for today. Honestly, you can only get the permits in here, so I have no idea how it’s going to work long term… it’s a bunch of bullshit coming down from the top again. Just make sure you get an entry permit for the next time you arrive.”
+
+“Of course.” Rhys nodded and went to walk in, only for the guard to extend his arm. Rhys paused and looked back, raising his brows, not sure whether to channel his inner Karen or his inner mass murderer.
+
+“Sorry, but… are you bringing any goods in today? Or just sightseeing?”
+
+“Just sightseeing.”
+
+“But you’ve been to the capital before?”
+
+Rhys blinked at him. “Yes? I love visiting cities every decade or so to see how everything is changed. Would you begrudge an old man his hobbies?”
+
+The guard looked him up and down. “You look remarkable for a Tier 2 with decades under your belt.”
+
+Rhys smiled. “That’s very kind of you. I have several skills and techniques related to my appearance… It’s my vanity. Probably why I haven’t advanced.”
+
+“That’s unfortunate,” the guard said, suddenly sympathetic. “You know, I’ve also been struggling to advance. I understand the struggle. What you’re good at and what you like don’t always line up, you know?”
+
+“Isn’t that the truth,” said Rhys, the man who loved trash and was also good at exclusively trash.
+
+At last, the guard stepped aside, barking for the next mage to step forward. Rhys passed by smoothly, a neutral smile on his face. Damn, that guy was chatty. A couple times, I thought he was going to break my cover, but he just wanted to chat at the end of the day. I ended up giving him more of my cover story than I meant to, but whatever works, at the end of the day.
+
+If he had to guess, the entry permits were his fault. He could be wrong, but he was the cause of Virgil’s most recent paranoid freakout, so he felt like he had a strong line on being the reason… or at least part of the reason.
+
+As he walked into the capital, he took care to swap between scanning with his mage senses and scanning with his cursed sense. It spiked his own anxiety and paranoia, which was annoying, but it was better than getting backstabbed by Mouse. Not that he thought she was necessarily going to, but better safe than sorry, and all that. Even if he believed in Mouse, he wasn’t going to pretend like she wasn’t a potential threat and/or problem. She was on Virgil’s team right now, and he knew she was susceptible to listening ot orders, so even if Mouse wouldn’t do something like stab him in the back, It was very possible that Virgil would order her to do it, and she’d cave.
+
+Thus, he didn’t let up on his senses, and kept himself on high alert, even if it did mean that he plunged into anxiety hell, or, whatever happened whenever he had to deal with his dumbass coworkers and a deadline at the same time back home. Honestly, it was kind of a nostalgic feeling, even if it was nostalgic in a bad way. No one said, ‘aw man, do you remember that one time I had a nervous breakdown? Wasn’t that awesome?’, but at the same time, it was something he hadn’t felt in a while. It reminded him of home. In a bad way.
+
+Rhys ran his hands down his face. Fuck, man. I was fucked up back home, and I didn’t even realize it. Even over here, in this new world, he still found himself tripping over the scars of his first life every now and again. It wasn’t often, but it was enough to say: holy fuck, that life sucked. The person he’d been back then… well, he’d been miserable, and locked up in his room all day, he hadn’t had any outlet except for the internet. It wasn’t an excuse for anything he’d done or said, but it had been a horrible way to live, and he didn’t want to ever go back to it. He’d been a bad person, because he’d been in a bad situation, one that was half his fault, and half capitalism’s fault, because gods damn he wouldn’t have been tearing his soul apart at a dead-end job full of idiots and half-wits if he hadn’t needed to pay rent.
+
+And then he brightened up. But now I’m on the winning side of capitalism. I’m rich as fuck, boyyyyy! And I don’t need to eat, drink, shit, or take shelter. Gods, I’m such a winner.
+
+He laughed aloud at himself. It sounded ridiculous even when he thought it, but he really did feel that way. Just being able to escape the rat race was such an immense positive that it was hard to believe. If he’d lived out a long, happy life and died as a Tier 2 mage, who had almost no advantages over humans but the ability to rot away without food, drink, or shelter and not engage in capitalism, he would’ve died happy. That was how much of a relief escaping from his old life had been.
+
+Even his anxiety couldn’t bring him down after that realization, so he bounced through the crowds with a spring in his step and enjoyed all the scenery around him. The capital was gorgeous. The buildings were immense, and took full advantage of the opportunities of fantasy architecture. He passed by one building that had, as its first floor, an enormous golden birdcage full of moss, flowers, and birds, atop which an entire shopping mall sprawled. To his other side, living trees formed the walls of the building, shaping themselves around doors and windows as if they’d always dreamed of being a building instead of trees. All around him,  buildings perched on improbable stilts, hung off the edge of platforms, or even straight-up floated.
+
+And in the center of the city, an inverted pyramid floated just over the impossible architecture, ponderously impossible, impressively large. It cast a shadow over the center of the city, but nonetheless, the finest houses proliferated there, in its shadow. Rhys gazed up at it, then snorted. Some things never changed. No matter how bad the environment was, those who sought power would always seek to be close to those with power. That was true whether it was magical, political, or both.
+
+After all, that ostentatious building that threw a middle finger at logic, physics, and practicality was surely the seat of the government. What else would it be? No leader would ever allow anyone to sit higher than them, and that inverted triangle was what sat at the top of it all.
+
+Abruptly, Rhys widened his eyes. “They’re everywhere. The Illuminati…!”
+
+There was no eye on the triangle, and it was upside down, but it was a triangle! Everyone knew triangles meant Illuminati, and not anything else, like, for example, being a convenient and sturdy shape that was relatively easy to construct. No… it had to be Illuminati.
+
+I just need a hypnotoad and I’m all set for an early-2000’s-era meme.
+
+Chuckling to himself, Rhys walked on. The anxiety was probably making him a little giggly, but at least he was enjoying himself.
+
+He was wearing his usual trash robes, but he didn’t really stand out. Mages in the capital had a stronger sense of style than they did elsewhere, and he saw all kinds of styles, from ornate robes to very formal, 15th-century suits, and everything in between. His robes were a bit plain, but the patchwork was stylized enough that it just looked like an intentional feature of their design. It was, so that tracked, but usually he stood out anyways for having color-blocked robes in a world where color-blocking wasn’t invented yet. Here, he just looked like he wasn’t quite at the top of the avant-garde fashion world.
+
+It was a city, so naturally there were street vendors selling potions, accessories, regional delicacies, and other roadside endeavors. With a note of pride, he noticed at least one, if not two potato chip stalls selling his proud re-invention. One of the two was even manned by ex-rebels from his campaign against the Empire. Rhys hadn’t been particularly close to any of the people in the stall, but he still tossed them a coin and walked off with a folded paper cone of chips—without him, they couldn’t create the bags, after all. The chips were delicious, though, rather unfortunately for him, not tainted with impurities any more than the usual extent to which potatoes were covered in dirt and therefore impure.
+
+He continued his tour of the capital at a lazy place. There were high-end fashion shops, alchemists’ workshops, artisanal device makers, and even expensive magical restaurants whose food, or so the signs claimed, was beneficial to mages and would have positive effects even beyond that of a potion. Rhys believed it. He’d done the same, just in the other direction. It would’ve been a potent potion that could’ve poisoned the Empire the way he had. There was something about the slow release of energy and impurities from food that just worked, whether for poisoning people or strengthening them.
+
+As he idly ate chips and wandered the capital, it occurred to him that no one would believe him if he told them that he, the Alliance’s most wanted, had simply strolled into the capital and had a nice little walkabout.
+
+If no one would believe it, then doesn’t that put me in the safest place I could be? He chuckled to himself and kept walking, well and truly pleased with himself. Today had been a good day. Nice and productive. Tomorrow… tomorrow, he’d actually begin his battle.

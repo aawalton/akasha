@@ -1,0 +1,145 @@
+---
+id: ea56086f-c9ec-52f3-928e-720eee7bf495
+page-type-slug: story-chapter-royal-road
+title: "313. Bragging is Asking the Universe to Punish You"
+slug: 0313-313-bragging-is-asking-the-universe-to-punish-you
+partOf: god-of-trash
+position: 313
+ownLength: 1977
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3424182/313-bragging-is-asking-the-universe-to-punish"
+royalRoadId: "3424182"
+---
+
+“So… you’re the Third Prince’s underling, are you?” one of the men growled.
+
+“I’m really not,” Rhys said, dangling in the man’s grasp and already regretting his shit-talking ways. He wasn’t usually that much of a shit-talker, but he’d been feeling fiery. Something about Ryota’s pessimism and defeatist attitude that’d just pissed him off enough to really get him going. And now the universe was punishing him for running his big mouth. That part was as usual, at least.
+
+“You look like him.” The man held up a translucent crystal. An image played within it. If Rhys wasn’t a mage, it would’ve been almost too small to see, but as it was, he could clearly see the image of himself killing one man, then rushing toward the crystal. His blade loomed large, and then the image winked out.
+
+“I sure do. Man, that’s crazy. Wild how that guy looks just like me. Too bad it isn’t me, though. Must just be some dude with a similar face.”
+
+“And the same robes?”
+
+Rhys grabbed his patchwork trash robes and pulled them away from his body with a shocked face, as if it was the first time he’d ever seen them. “What? Who put these robes on me?”
+
+The first man crossed his arms and opened his mouth to argue more, but one of the others put his hand on his shoulder. “He’s fucking with you.”
+
+“Me? Would I do that?”
+
+Ryota turned around on his barstool. Putting on a domineering sneer, he flung out his arm and pointed at the men. “That’s right. You tell them, my underling. Defeat those no-good minions of the Fifteenth Prince and defend my honor!”
+
+Rhys looked at him over his shoulder. “You know, I can just fly away. You can’t stop me.”
+
+Instantly, Ryota’s domineering attitude evaporated, and he bowed respectfully to Rhys. “Please, Elder Brother?”
+
+“Yeah, yeah. I gotta pay you back for the drink, anyways.” Rhys exerted his strength for the first time since he’d been grabbed and broke free of the man’s grip on his collar. He backed up a step and cracked his knuckles, eyeing the men. “I’ll go ahead and warn you, I don’t really care about this whole situation, but if you force me to fight you, I might kill you. My techniques aren’t really built for incapacitation.”
+
+“Hah, you think you can kill us?”
+
+“Isn’t that what it means to be a mage?”
+
+“Underestimating us to that degree?”
+
+Rhys looked at the last man, who hadn’t said anything. The man simply drew his sword without a word.
+
+“Alright, then. Shall we take this outside, gentlemen?” Rhys asked.
+
+“Please do,” the bartender interjected.
+
+The leader of the men grunted. Two of them stepped in front of Rhys, and two filled in behind. He glanced at them, a smirk on his lips, and casually dropped a few hoops as they walked outside. If he really wanted, this whole encircling would be nothing. He could just warp out and say no, and there was nothing they could do. But something told him that warping out here would only prolong the inevitable. Whether he decided to stick around and get involved in Ryota’s mess or not, these men were determined to kill him. Better to put an end to it than vanish and prolong this stupid situation.
+
+Besides, these men were technically his mess. He hadn’t known what was going on, and he’d earnestly killed those guys thinking they were keeping him from saving someone’s life—and they were—but he couldn’t blame Ryota for something he’d willfully done before he’d even known who Ryota was.
+
+He’d taken the initiative to stick his nose in this situation, so it was his job to see it to the end. And maybe he was a little bored, and wanted to run wild after his long, boring trip across the sea. Who was to say.
+
+Still, he didn’t like the idea of being sandwiched between a bunch of goons to start a fight.
+
+He scattered a few more hoops the second he stepped outside. There was a split second where they all kept walking forward as if nothing was happening, and then Rhys heard the grind of a sword leaving a sheathe. He watched closely with his impurities-vision while the thug directly behind him slashed out, the sword leaving the sheathe millimeter by millimeter in his heightened senses. The second the swing was flying forth, inevitable, he hopped away through the void, coming out behind the rearmost thug.
+
+The thug-formerly-behind-him had enough time to yelp in surprise before he slashed his buddy in front of him. His buddy stumbled, hurt but far from dead. A black flame rose up in the wound, searing over the man’s back. It quickly rose, expanding over his shoulder blades and eating up its robes. The first man made a hand sign, and the flame vanished, but the man who’d been burned looked drained, his skin wan and his expression haggard, as if something vital had turned to ash instead of merely his clothes and flesh.
+
+Not to say flesh isn’t vital, but for mages at our tier, that much damage shouldn’t harm us that severely. He eyed the sword of the man who’d tried to slash his back warily. These guys had some nasty tricks hidden up their sleeves. He didn’t know what that black flame did, but it looked like it wasn’t something to trashily throw himself into for training. Instinctively, he felt that getting struck by that flame was an irreversible… or at least highly-dangerous thing.
+
+On my own time, somewhere safe, where I can play around with it, then maybe… but here, in the midst of battle? Getting hit by that is foolish. I’d be suicidal to deliberately allow myself to take a blow from their swords.
+
+He backed away, putting some distance between himself and the men. The four drew their blades, forming an arc to try and close him in. Rhys continued to back away, spreading impurities on the ground behind him as he went.
+
+They stood on a random street, on a cobbled road. All the passersby had cleared out the second the men drew their swords, though some of them stood at a safe distance to watch the fight. There were no civilians on this island; the entire thing was populated by battle-hardened mages of some description or another. Unlike his home Alliance, there were no students wandering around or civilian, inherited-nobility mages who’d scooted upward on their parents’ money; everyone wore a weapon and had a body and aura like they knew how to use it.
+
+It was refreshing, in a certain way, but he wasn’t sure how he felt about it long-term. Was this place really so cutthroat that every mage had to fight for their life? Then again, on the other hand, wasn’t an egalitarian, dog-eat-dog meritocracy better than inherited nobility and all the problems that came along with feudalism?
+
+They were the kind of considerations that philosophers would think about, so Rhys banished them for now. He’d poke around and make up his own mind on his own time. But first… it was time to fight.
+
+The four spread out, trying to entrap him. The injured one sagged a little, but he still gripped his sword, and his eyes shone with a grim light. Looking at him, he was definitely the formation’s ‘weak point,’ but he also had the determination to land one final blow on Rhys. Charging him was the obvious play, and he knew it, so he had already prepared himself to do whatever damage he could on the way out.
+
+Rhys called forth a handful of impurity darts and threw them at the four men. They blocked or dodged, and in that split second where they were busy, he darted in, racing for the injured one. The injured one’s eyes blazed, and he raised his sword high, accepting death in return for one last lash.
+
+Rhys vanished, hopping into a hoop. He came out behind the man who’d injured the injured man and shoved him forward with all his might, right into the path of the injured man’s final blow. The injured man slashed down, and once more, blood flowed.
+
+“Internal conflict? Hmm, what a lack of discipline the Fifteenth Prince’s forces have,” Rhys said, and thrust through both of them with The Hunger. “Here, let me take care of that for you.”
+
+This time, he prompted The Hunger to push impurities into them. These men were more-or-less on his level. If he pulled their impurities out, he might just actually make them stronger. Better to impurify them, kill them, and then harvest their impurities, in that order.
+
+The Hunger grumbled in annoyance, but reluctantly obeyed his orders. The men’s skin and veins darkened, and they fell to the ground, dead.
+
+The other two men startled. “He’s… one of those?”
+
+“No one mentioned he was with that faction.”
+
+Rhys blinked. He looked from one to the other. “Fellas? Care to clue a friend in?”
+
+The other two men backed away, lowering their swords. “We didn’t realize. Please forgive us.”
+
+“No, no, no, come on. What am I a part of?” Rhys asked, stepping forward.
+
+The two men shied back, flinching away. “We didn’t mean to insult you. Can you look aside, just this time?”
+
+No, really. What’s happening? Rhys wondered. These men weren’t going to explain, so he crouched, absorbing the two corpses, then stood and folded his arms, striking a domineering pose. If they weren’t going to listen, then he might as well take advantage of this situation. “That’s right. If you don’t want to die a horrible death, then get out of here. Next time, I won’t be so kind!”
+
+“Thank you! We’ll… we’ll let the Captain know. It was our men’s foolish fault for getting involved in your affairs!” The two men scurried away, bowing and scraping the whole way.
+
+Well, that was weird. He glanced around him, but all the people who’d been watching the fight had dematerialized, gone as if they’d never been. He turned back to the bar, only to find Ryota quietly sneaking out the door.
+
+“Oy.”
+
+Ryota jumped. He bowed fearfully. “Y-yes? Sir? Yes, sir?”
+
+“Hey. What’s all this business about?”
+
+“I… I’m sure I don’t know. What business?”
+
+Rhys crossed his arms. “Come on. You were acting so pompous a moment ago. Now you’re all supplicant. What’s up with that, Third Pr—”
+
+“Shhh!”
+
+Oh? Weakness? Rhys grinned. “I’ll stand here and shout your title unless you agree to tell me why everyone’s afraid of me.”
+
+Ryota winced. He glanced around, then bit his lip and gestured. “Come on. I’ll… take you back to my private quarters.”
+
+“We can just go in the bar.”
+
+Ryota shook his head. “There’s no chance the bartender will let us in after that display.”
+
+Rhys glanced at the door, then shrugged. “Okay. Your private quarters it is, then. The Shrine Maiden better not be there, though.”
+
+“Oh no, no. She wouldn’t—I go to her quarters,” Ryota assured him.
+
+“Really? Even though you’re the prince?”
+
+“I’m only one of twenty-six. She is the Shrine Maiden.”
+
+“Eh?” Weren’t there shrine maidens at every shrine? But then… there was the implied capitalization of her title. Maybe she was special.
+
+I kinda wanna see this Shrine Maiden now, Rhys thought, pinching his chin. Beautiful enough that the Third Prince risked his life for her, powerful enough that she commanded men to give up their lives for her. Compared to a bunch of piddling dime-a-dozen princes, she sounded far more compelling.
+
+Ryota glanced at him. “You aren’t from around here, are you?”
+
+“Nah.”
+
+“No… that’s becoming obvious. Since you didn’t know… then I guess you aren’t one of them.”
+
+“Nope. Unless it’s beneficial, and then yes.”
+
+Ryota shook his head. “Come on. I’ll explain everything.”

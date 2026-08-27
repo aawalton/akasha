@@ -1,0 +1,223 @@
+---
+id: 1af8acce-7743-5796-bc9a-eec6145e6128
+page-type-slug: story-chapter-royal-road
+title: "045: Flames of Mystery"
+slug: 0045-045-flames-of-mystery
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 45
+ownLength: 2175
+unit: words
+publishedAt: 2024-05-23
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1647453/045-flames-of-mystery"
+royalRoadId: "1647453"
+---
+
+Evelyn panted like a dog. Heavy, laboured breaths made her chest rise and fall as sweat dripped from her forehead.
+
+As she wiped it from her brow - a useless action considering her arms were sticky and wet, too - she winced in pain as her cracked and bent spine slowly rearranged itself.
+
+As it turned out, she had severely underestimated the difficulty of the crossing. After the fifth charge her spine had cracked for the first time, and each subsequent use of her skill only made the damage worse.
+
+However, her determination had allowed her to push past the agony and make it to the shoreline on the other side of the lake of lava. Though she had collapsed into a quivering heap the moment she arrived.
+
+It had taken a monumental amount of effort to stay conscious, however she refused to allow herself to be undefended when potential enemies could be waiting to strike.
+
+Despite her fears, nothing attacked during the two hours it took for her body to regain some semblance of normality. Her mana reserves were close to empty, but they would refill gradually as she made her way to the round gate of red stone and what lay beyond.
+
+The only lasting impact was a heavy strain on her mind. It was fatigued beyond anything she had experienced in the tower. It seemed that there was a definite cost to her recovery when aided by her skills - one she hadn’t noticed before due to not being pushed far enough beyond her limits.
+
+Her first chunk of essence had arrived while she was recovering. It had been satisfying to see the massive jump in the number displayed on her menu. However, knowing she had little to spend it on was upsetting.
+
+Essence: 1026953『+1021784 / 5:54:24 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】
+
+Then again, every amount she gained was now focused towards her upcoming Ascension. Something Evelyn was equal parts excited and nervous about. The tower offered little clue about what it consisted of, and while it was definitely some kind of power-up, the form it would take was a mystery.
+
+There was nothing that would stop her from achieving it, though.
+
+Well, there were a few barriers, but she had been making steady progress on breaking them. Her class advancing had meant she only needed four more levels and the essence just needed time.
+
+Passing through the second gate was much like the first. There was no fanfare accompanying it, nor any visible effects.
+
+That didn’t stop her from feeling a little worried about the form her next trial would take. It would be easiest if it was just another battle. From her time in the tower though, Evelyn knew that its challenges were varied and tested those within in more ways than just their ability to beat up a monster.
+
+After a few minutes of walking the rocky path started to ascend, taking her into the mountains that had seemed so lofty and distant when she first entered the 16th Floor.
+
+It soon brought her to a plateau, with five entrances leading into the depths of the crimson mountain. An idle thought made her wonder why the stone was red. A quirk of the tower’s construction - or something more sinister?
+
+Her first thought was that this particular trial was designed to split apart any parties who were challenging the floor. The five paths could all be part of one larger cave system. Yet there was every chance they would each take challengers to a vastly different location.
+
+For Evelyn however, there wasn’t much of a decision to make. A quick pulse of her mana sense revealed little. The five paths descended at a small gradient but were just plain tunnels as far as she could sense. So, rather than waste time she picked one at random by doing ‘eenie meenie minie mo’ with the fingers of her left hand.
+
+The result was that she entered the fourth tunnel. There was no trepidation in her step as she began to walk down, though what little light there had been was soon left behind. Evelyn made the journey in darkness.
+
+With her mana sense however, she could still see clear as day.
+
+Which was why she wasn’t surprised when the tunnel ended abruptly and widened into a large cavern, around ten metres high and twenty by twenty metres large.
+
+A blinding flash lit up her world a few seconds after she entered. It took her a little longer to adjust back to using her eyesight rather than her mana to view the world around her. And what she saw was incredible.
+
+Across every spare centimetre of stone, glowing vermillion inscriptions were carved. There must have been hundreds of differing symbols arranged in seemingly random patterns.
+
+There was little structure to the script, just innumerable quantities of it. Even the floor was covered in the writing, save for a dais of polished stone in the centre of the cavern.
+
+Approaching the few steps leading up to the large slab of polished stone, Evelyn attempted to read the inscriptions. The language - if it was a language - however, was alien to her. She couldn’t understand a single symbol.
+
+And that was going to be a problem.
+
+For at the centre of the dais was a podium. On top of that podium was a red stone tablet and a small pen. The tip of the pen started to glow white hot when she picked it up, yet there no was no heat being emitted.
+
+Her challenge this time was academic in nature. Far from the intense battle she had been expecting, Evelyn looked at the complex runes around her with some worry. This was not her strong suit.
+
+However, she was rather stubborn. And she would do her utmost to complete this challenge even if it took her days. Though she may succumb to starvation if it came to that. There was a little food in her inventory courtesy of Kayla’s kindness, but it wouldn’t last forever.
+
+So she walked over to the walls of the cavern and began to study. Rather aimlessly at first, as her goal was simply to try and gain an appreciation of the symbols. Their form. Whether they made up sentences or were simply scrawled at random.
+
+Evelyn was no linguist, however. And she soon realised that the task set out before her was near impossible to fulfil. There was no direction given.
+
+All she had was a tablet, a pen and an uncountable number of symbols.
+
+Was she supposed to simply copy them down? If so, was there a specific order she had to do it in? It was all rather mind boggling.
+
+In fact, Evelyn decided to take the path of least resistance. Rather than waste god knows how many days figuring out this stupid puzzle, she turned around and walked back to the tunnel which she had entered it through.
+
+To her shock and annoyance however, she found that the tunnel had vanished. The wall of the cavern had smoothed it over and in its place was now more of the symbols scrawled onto reddish stone.
+
+Mother always said I was terrible at studying. I guess I’ll have to prove her wrong if I want to clear the 16th Floor. Then again, proving her wrong was always my favourite hobby.
+
+~~~
+
+Four hours later, Evelyn was sitting on the floor of the cavern tapping her fingers against the stone floor. She hadn’t given up on trying to decipher the meaning of the symbols - or the nature of her task - but she needed a break.
+
+Her finger paused in the middle of its descent as a loud humming sound was emitted from every direction. The inscriptions on the cavern walls stopped glowing, fading to a dull grey colour, then all at once they started to move.
+
+It was a writhing mass of carved lines. And the symbols weren’t just shifting position. They split apart and reformed. Sometimes joining with other symbols or sometimes splitting apart to form two new ones. Not all of them, though.
+
+Evelyn took note of the fact that ten symbols, dotted around the cavern, remained still. Neither their form, nor their position changed.
+
+Each of the ten was different, and they were not repeated anywhere else in the cavern. She made sure to check once the rest of the shifting symbols had settled and started to glow bright vermillion once more.
+
+Though it was possible that prior to the change they had been repeated, she suspected that wasn’t the case.
+
+As a test, she wrote the ten symbols down on the tablet, copying them to the best of her ability. They weren’t exact replications but they were close enough. Around the dais, ten dull grey gems were encrusted into the floor.
+
+They were about twenty five centimetres in diameter and perfectly spherical. When she copied the ten symbols down onto the tablet, one of the gems lit up. It was the same colour as the inscriptions on the wall. Following that, the symbols on the tablet vanished.
+
+However, the gem remained lit.
+
+Evelyn had gained her first clue. Those ten symbols were important, but she didn’t know why.
+
+Her first thought was to try and correlate some meaning between them and English. It was the only language she knew, after all.
+
+⛛⥁☗⚰␥⟐⧢⫱𝞷𝉁
+
+That was a bust. Yet it wasn’t futile. Many of the symbols were fairly geometric in nature. A few resembled classic shapes from the maths of Earth. Though that wasn’t true for all of the inscriptions.
+
+Even knowing that didn’t help much. The tower wasn’t entirely merciless. While it liked to thrust the challengers into trials of incredible difficulty and test their resolve - it never made them impossible to clear.
+
+Perhaps she didn’t even need to figure out the meaning of the symbols in order to beat the puzzle. Her next idea was to trace lines between the ten symbols on the walls and floor of the cavern. It was a little difficult given the shape of the cavern changed the flow of the connecting lines, but she managed eventually.
+
+I hate this damn tower.
+
+?
+
+The ten symbols formed a question mark.
+
+Not quite, but close enough. The dot was a triangle formed of three of the symbols and the curved head was a little more like a three sided square, but the intent was clear.
+
+Her frustrations aside, Evelyn copied the symbols back onto the tablet. This time though, she wrote them in the shape they were positioned in the cavern. They vanished soon after, but her guess had been correct.
+
+Two more of the dull gems lit up. Had she skipped a step? Regardless, more progress wasn’t something to look down on.
+
+However, she was now utterly stumped. In ironic fashion, her thoughts mirrored the shape of the symbols. Evelyn had no clue about how to proceed.
+
+What exactly was the tower looking for here?
+
+Every challenge, every floor, served to hone the skills of the challengers in some way, shape or form. Mostly through battle, but even the greatest warriors needed a sharp mind. And hers was clearly lacking.
+
+Two hours later, her essence increased once again. However, she barely registered that fact as she was so engrossed in studying the symbols that surrounded her.
+
+Evelyn hadn’t committed the layout of the inscriptions to memory. While her mental capacity had improved with her increased attributes, it didn’t make her a machine. However, she had remembered enough to know that a few patterns had remained in the symbols. Beyond the ten that stayed still.
+
+Each of those patterns began or ended with one of the ten, however. Lines of symbols trailed off or into them. Sort of like a sentence, but there was no discernible grammar.
+
+And she wasn’t even sure they held meaning in the way her language did. Perhaps it was all just gibberish.
+
+Regardless, she would try anything to solve this problem. So she wrote down the ten lines on the tablet and once again one of the gems lit up as the text vanished. Her progress was slow, but she was making steady work of this trial.
+
+Just six more steps before she could advance.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.11
+
+|Attributes|
+
+Power: 18 (19)
+
+Speed: 5
+
+Stamina: 9
+
+Vitality: 26 (31)
+
+Mana: 26
+
+Fortitude: 54 (90)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Galactic Expansion (Unusual), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Salvo (Common), Mana Wielder (Rare), Master of Combat (Rare)
+
+~Active~
+
+Flashfreeze Flamecharge (Rare)
+
+~Hybrid~
+
+Soul of the Unstoppable Conqueror (Unusual)
+
+Essence: 2048737『+1021784 / 5:54:24 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】

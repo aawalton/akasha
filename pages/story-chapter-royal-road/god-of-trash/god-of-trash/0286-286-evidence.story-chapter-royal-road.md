@@ -1,0 +1,109 @@
+---
+id: fac51ca9-f54f-52c4-9ca5-bc5928eb86e8
+page-type-slug: story-chapter-royal-road
+title: "286. Evidence"
+slug: 0286-286-evidence
+partOf: god-of-trash
+position: 286
+ownLength: 2199
+unit: words
+publishedAt: 2026-03-13
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3148857/286-evidence"
+royalRoadId: "3148857"
+---
+
+Dinner ended, and Rhys saw Madame Tunk out. She continued the act of the doting mother all the way out the door, never once breaking it, and neither did Rhys act outside of the role of the turnabout son. It wasn’t necessary. They’d said what needed to be said. He closed the door and stepped back.
+
+Evidence, huh.
+
+He did need proof. He hadn’t ever imagined that just saying “Hey guys! By the way, Virgil’s about to use The Strawman to attack the Alliance and blame it on an outside force to wrap you guys in a long war so that he can consolidate power!” was going to get him very far. He was just some sketchy dude. He needed hard, concrete proof if he was actually going to convince anyone.
+
+But what the hell is that proof going to be? It wasn’t like this world had video recorders. He couldn’t film Virgil confessing parts of his plan and hope it was enough to convince the world. He needed something physical. Something undeniable.
+
+He pinched his chin. As a guy who did these sprawling plans, who had previously done basically this except not false flag, this kind of plan took some setting up. There should be some evidence out there in the world right now, if he knew what to look for.
+
+But that’s the question. Do I know what to look for? It could be anything. Potato chips, for example.
+
+Though, looking at Virgil, he wasn’t the kind of entrepreneurial sort to set up an entire business and fakeout plan in order to flip the tables at the last second. His plans were probably a bit more obvious than Rhys’s. Less subtle and, if Rhys had to guess, less cool, too. What could be cooler than setting up an entire potato chip empire, after all?
+
+Probably a lot of things. But Virgil isn’t that cool of a dude, so I doubt he succeeded at beating my coolness benchmark.
+
+He chuckled to himself, then waved his hand. The point was, there should be physical evidence somewhere in the Alliance. The problem was the ‘somewhere in the Alliance’ part. There was a lot of Alliance, and when all he had to go on was ‘cursed energy,’ that was a lot of the Alliance to deal with.
+
+But it’s not like I have to walk the whole thing. I have my cursed energy sense, and I have my trash teleports, too. He grinned. From right here in the smoking room, he could already survey a good chunk of the Alliance. If he found nothing, he could at least ignore that part of the Alliance; if he found something, then he was good. He only needed one, after all. He wasn’t trying to provide incontrovertible proof. That was the job of lawyers and investigators, long after anything was actually relevant. He was just trying to find enough proof to cause problems for Virgil and cause rifts among the nobles, so that he could later have the advantage when he made his move.
+
+It also wouldn’t hurt if it caused enough of a rift amongst the Alliance’s nobles that his fight with Virgil was a one-on-one duel, as opposed to all the Alliance’s might hammering him at the same time. He was strong enough to fight Virgil once he stripped away the Sword Saint. He wasn’t strong enough to take on all the Alliance’s Tier 4s at the same time, and also kill Virgil dead, and also ensure the Sword Saint was out of the picture.
+
+He snorted a little. It was a grim thought, but now that he knew the Sword Saint was just a puppet Virgil controlled, he was honestly in a better spot than he’d been before. Before, the Sword Saint might’ve been a force on his own, whether he was loyal to Virgil or simply thought Virgil didn’t deserve to get put down like the rabid dog he was. Now, all Rhys had to do was yoink the mark, and the Sword Saint was kaput. Nothing. Ruined.
+
+Ruined like Virgil had ruined Bast trying to prop the Sword Saint up.
+
+Rhys rubbed his face. Fuck, man. I can’t keep thinking like this. He’d figure something out with Bast. He would.
+
+He had to.
+
+It was really fucking with his head more than he wanted to let on. That was the worst. The worst thing he could imagine. Having your potential and mana stripped away and fed into someone else… fuck! It put his hair on end. It made his skin crawl. It was the sound of fingernails on blackboard, and the more he dwelled on it, the worse it made him feel.
+
+Push it back. Push the thoughts back. It’s okay. I’m going to fix it. I am.
+
+Fucking Virgil. I’m gonna turn him into a human stick.
+
+He wasn’t really the type to want to torture his enemies, or kill them in some horrific way, but for the first time, Virgil had awakened that desire in him. Thinking about Virgil made him understand those medieval punishments where they drew and quartered people, or put them on wheels and stretched them to death, or… a thousand other disgusting things.
+
+Well, I think Virgil’s the first person I’ve encountered to deserve it. Or at least the first person I’ve encountered where I personally feel he deserves it.
+
+He was pretty sure there were people who felt very strongly that the Empress deserved that kind of death, but he wasn’t those people, so he didn’t feel that way. It was the trashy, selfish part of him that saw Virgil as worse than the Empress; objectively, the Empress had caused more harm to more people. But Virgil had caused more harm to the people he personally cared about, so he wanted Virgil to meet a bad end far more than he’d cared about the Empress meeting a bad end.
+
+Focus, Rhys. Let’s get this done with and move on. He settled into a cross-legged sit and reached out through a hoop, into the void, and out through all his various hoops, teleport points, trash cans, and so on, scanning for any spikes of cursed energy. After all, if he was right and Virgil was planning to use Straw for an attack, the attack would have to be cursed-energy based. Then again, maybe not? But the point was, Straw was basically just a big sponge for cursed energy. Whatever Virgil was planning to do with Straw, whether the attack was made of cursed energy or not, as long as it involved Straw, it would also involve cursed energy.
+
+An early spike caught his attention, and he reached out further through that hoop, curious, but it was the ruins of Purple Dawn, and the location of Ernesto’s old laboratory. He prodded at it as far as he could from the hoop, but didn’t sense a smoking gun; just the residue of old cursed energy research. Putting it into the back of his mind for later, he moved on.
+
+Another spike caught his attention. He sent all his mana senses toward that one direction, only to find an untapped Impure Well. That was worth pausing for, so he leaped into the portals and slurped it up real quick, then jumped back into the smoking room, another piece of his skeleton mount richer. A lake caught his attention next, but after a close examination, it seemed to just be a place where many drownings had occurred, where cursed energy naturally gathered. He gathered it in passing, but the natural flow of currents and the way the water collected at that spot meant drownings would continue to occur, and cursed energy would gather soon once more. At the end of the day, he wasn’t a civil engineer, and he couldn’t possibly predict what would happen downstream if he adjusted the flow of the river to make cursed energy no longer gather there, so he left it be.
+
+Not for nothing, but some rivers just drown people, after all. Back in my world, there’s a few rivers that they’ve rerouted all they want, built bridges and redirected them, but they still keep drowning people because that’s just what they are: killing rivers. Foolishly meddling with natural things is a good way to keep killing people. Even, potentially, killing more people, because when you change things, you’ll expose new people to those things, and those new people won’t know what to expect, therefore, they’ll die learning their lesson, whereas the old people used to those things know it kills people.
+
+Thus, he left it. Also, maybe, moving thousands of tons of earth and water was no small feat and would draw attention, and also sounded like a lot of hard work he didn’t care to deal with. But who was to say.
+
+Who’s to say.
+
+Aside from getting distracted by the river, he also ran into another dozen cursed energy spots that had nothing to do with him, Virgil, or anyone. At last, he was scanning the trash cans left scattered around the Empire in vain hope that one of them would give him joy. His brows furrowed. Was he wrong? Was this not the right direction to go in? But Virgil had Straw, and he was using him for something, right…? Maybe I reached too far. Just because he brought Ernesto and Straw here, doesn’t mean that’s what he’s using for his attack. Maybe he’s just massed up some loyalist soldiers.
+
+Though that didn’t make sense. If Virgil had a large enough quantity of loyalist soldiers to seriously threaten the Alliance, he wouldn’t need to cling so hard to the Sword Saint; he could just call on them.
+
+Well… maybe that’s not it. Maybe… maybe it’s the northern territories that he’s going to incite to attack.
+
+But that didn’t make sense either. The northern territories’ attack, in the first place, had been the last thrashing of a sore loser, aka Lord Ravin, and all his armies, retainers, and allies were dead. Hell, Lord Ravin might be dead at this point, given that Rhys had last seen him with a mildly bored Sid at his side. Obsidian, Sable’s father, wasn’t the most stable person, as both he and Sable would attest; the chances that Lord Ravin had drawn up a new army under the situation Rhys had left him in were far lower than the chances he was dead. And aside from Lord Ravin… he’d been to the north. There was no real sentiment among those giants that they wanted to attack the Alliance, and though it was far easier to mass forces and move men around than in his world, there still hadn’t been any evidence of the north massing an army to attack the Alliance.
+
+Plus, he was pretty sure Lord Virgil didn’t have any pull on the north.
+
+Which means it’s either something I know absolutely nothing about, or Straw. But if it’s Straw, there’d be cursed energy, and I’m just not sensing any… Rhys slowed. He pinched his chin, thinking. Was that his problem? He was out here assuming that Straw meant there had to be a spike of cursed energy. A spike. But Straw could be separated into… well, straws. It was entirely possible that Straw could be distributed across every farm and stable in the Alliance, separated into such tiny scraps of cursed energy that even Rhys’s cursed energy senses couldn’t detect them.
+
+Rhys licked his lips. Then… that means…
+
+“Figured it out, did you. That’s right. My Weapons are versatile. Straw is terrifying when he’s all in one place, but he’s also ideal for sneak attacks,” Daran bragged, barging into Rhys’s thoughts.
+
+Rhys turned, scowling at Daran. “Yeah, it’s fantastic. How am I going to use him as evidence in that case, huh? ‘If you look closely at this particular strand of straw, you’ll find it’s got a little more cursed energy than the rest…’” He shook his head. “No one’s going to listen to me.”
+
+Daran spread his hands. “That’s not my problem. I’m just happy to see my Weapons used so effectively after all this time. It’s the satisfaction a maestro feels when the symphony perfectly hits all the notes he wrote.”
+
+Rhys flipped him off, and Daran made a rude gesture right back.
+
+Rhys sighed. “This is getting us nowhere.” Maybe I’ll just have to move on without the nobles’ support.
+
+“Is it? Don’t you already have all the evidence you need?” Daran asked.
+
+Rhys looked at him questioningly. Daran pointed, through the wall of the smoking room, outside, at the pyramid overhead… and Straw, hidden away inside its highest chambers.
+
+Rhys clapped. He stood, gazing at the pyramid. “Damn! I can’t believe I didn’t realize. You’re so right, Daran.”
+
+“Yes, yes, praise me more.”
+
+“How do I get him out, though… and the timing is going to be…” Rhys twisted his lips.
+
+“Nothing’s ever perfect,” Daran commented unhelpfully.
+
+“I know. Shut up.”
+
+“Let’s go back to when you were praising me.”
+
+Ignoring Daran, Rhys kept staring at the pyramid, the gears turning in his head. This could work. It could. It wouldn’t be easy… but it could work.

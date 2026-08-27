@@ -1,0 +1,201 @@
+---
+id: fb92694f-ab0d-558b-a626-4c526ce84924
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22"
+slug: 0022-chapter-22
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 22
+ownLength: 3295
+unit: words
+publishedAt: 2025-11-17
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2769439/chapter-22"
+royalRoadId: "2769439"
+---
+
+Chapter 22
+
+Veron was woken up early the next day. He got dressed, cleaned up, and prepped his gear for the journey. Before he left the room with Hayden, he mentally said goodbye to the comfortable bed. He would miss it, and at the same time, as he joined the others in the courtyard of Parr’s Lodgings, he found he was glad to be going out there again.
+
+There was so much in this world to explore. He wanted to spend as little time as possible in towns like this. Perrion had everything one would need for a safe and comfortable life, but he found that he was looking for more. And maybe, he could find some of that in the dungeon city of Anvakar.
+
+All the interested parties had gathered in a large square near the city gates. All kinds of wagons were present, from simple carts to lavishly decorated carriages. He even saw a few armored horses. The people riding on them were as diverse as everything else here. From rough looking knights to leather duster wearing mercenary types to well-dressed dames and gentlemen, though with how the Paths worked, it was difficult for him to say who here were the more powerful fighters. He could imagine that there were those who were both rich and powerful but wanted to seem like neither and of course there would be the opposite too.
+
+They left a few hours after dawn and Veron sighed with contentment when they passed the city walls, out into the wilderness.
+
+“You seem excited to be leaving again,” Reymond said.
+
+“I am,” Veron said. “Anvakar was the goal after all, and I'm glad to be moving towards it. And to become a real adventurer.”
+
+Reymond laughed. “You're already a more accomplished adventurer than many.”
+
+And so they drove into the morning, a patchwork caravan of dozens of wagons and riders. The journey with so many others made the endeavor lose some of its adventurous feel, and at the same time, it did both feel a lot more safe and as if they were part of something grand.
+
+“Are there ever expeditions with this many people and adventurers? Into the dungeon or somewhere else,” Veron asked.
+
+Silvie looked at Reka and smiled.
+
+“Yes, quite often. But they usually leave for weeks or months at a time and results can vary,” Reka said.
+
+“The risk is very high, but so is the chance for potential rewards,” Reymond added.
+
+“I see.” Veron looked out onto the wetlands and wondered what that would feel like, to be part of a massive expedition into the unknown.
+
+I think I would enjoy being part of something like that.
+
+He soon started to work on his stone throwing abilities again. The one time he had used it in the fight with the Herasar may have saved his life. Being able to accelerate a rock to throwing speed without wind up or even having to touch it was a pretty useful ability it turned out, one he planned to improve on.
+
+Veron occasionally connected to the winds as well but with all the other wagons around, it just made him feel like he wanted to leave the road and explore the wilderness.
+
+The camp that night was massive. Trees were felled to build fires, the wagons used to build a dense wall against any potential attackers, with dangerous looking guards taking shifts. He wondered how they would fare against a Herasar attack, but none happened. Not that night or throughout the rest of their journey. He wasn't entirely sure if he liked or disliked that. Perhaps a bit of both. On the one hand, it was less exciting than it could have been, and on the other, he didn't have to fight for his life.
+
+On the fifth day of their journey, he could see the high reaching northern mountain ranges in the distance. Snow topped peaks reaching thousands of meters towards the sky. Slowly, the birch tree forest thinned and made way for rockier terrain, wild green grasses grew here and he spotted more than a few small rivers and lakes. The Karrian river was never far, and at noon of the eighth day since they had departed from Perrion, Veron could see the first signs of a sprawling town almost spilling down from between the mountain peaks and valleys.
+
+“There it is!” a rider called and laughed. “The asshole of the world!”
+
+Silvie smiled, sitting next to him on the box seat.
+
+“Asshole of the world?” Veron asked.
+
+“One of its names. You’ll get used to it,” she said.
+
+Veron watched as the city slowly grew nearer.
+
+Asshole of the world? Sure, why not.
+
+He felt and molded the piece of rock in his hand, looking inward to see the status of his magical ability.
+
+Elemental Path [Weak]- Harmony of Earth [Novice II]- Harmony of Wind [Faint III]- Hidden Harmony [Faint I]
+
+I wonder if that's good enough to survive in the dungeon.
+
+Veron charged the piece of rock and shot it out towards a moss-covered boulder. He hit his mark with a dull sound, the speed of his rocks now decidedly as fast or even faster than if he had thrown them himself.
+
+Soon, he could make out more of the city. For one, there were no city walls as far as he could see. The streets were packed with buildings, no discernible order or code visible to him in terms of their size, shape, color, or even in the materials used. Second and third stories often seemed to meld into other buildings, sometimes reaching over the thin dirt or stone streets below.
+
+No guards checked them as they drove into the city, the shift between rocky plains into packed settlement was almost seamless, the other wagons and carriages of their caravan entering one side alley or another, many of them still driving ahead on what could or could very well not have been a main road. There was barely enough room for their carriage, some drivers ahead of them already shouting at people and merchants in the way.
+
+Veron looked at a stone building to his left with broad cracks visible on its walls, wooden beams connecting its upper floors to the front of the house opposite, a nice looking town home painted in a dark red color. The next house was light blue and had broad glass windows while some others had no windows at all. He heard faint music from the left, a string instrument and a woman singing a gentle tune. Someone shouted to his right, a shop owner it seemed, chewing out an employee. Ahead, a few people looked out at the passing caravan from their windows, laughing and talking to each other. Well-dressed young people and a few adventurers. Their attention shifted as did Veron’s when a few robed and hooded people rushed over the roofs to the right, hounded by what looked like a knight in full plate armor.
+
+“Stop the thieves!” a woman shouted, following behind the knight. She sped up a moment later, Veron unable to follow them as they vanished behind the many roofs and spires of Anvakar.
+
+“Any aspiring alchemists among the travelers?” a middle-aged man in green robes shouted. He wore spectacles and stood in front of a small shop. The metal sign hanging above the door read Hill’s Potions. He watched them as they passed, only giving their carriage a glance before his attention moved to the next.
+
+Veron looked after him when a young lad in leather armor came out from a side alley and briskly walked next to their carriage. He looked shifty, short scruff looking blonde hair and a fake smile. “New adventures here for the dungeon? We can get you geared and ready. Best price in the city, guaranteed!”
+
+“Piss off,” Silvie called out and the man left without another word, repeating his offer to the passengers of the next wagon down the line.
+
+It was getting warmer as they ascended the dirt road towards what Veron assumed to be the center of the city. They reached a plateau of sorts soon after, the road here was paved, cobbled in other parts, their carriage turning into a small square with a few old looking two story houses almost looming down towards them. A statue depicting a large war hammer wielding woman stood at the center, red paint marked her chest. The area smelled of piss and potatoes.
+
+Veron craned his neck to see the three snow-topped mountains rising over Anvakar, the one to the left high reaching and slim, the next broad and massive, and the last elongated, almost cradling the city to the right with its peak somewhere in the distance. The sky was gray and overcast. A child beggar stopped near the window he looked out of and Hayden stopped him when he reached for his silver.
+
+“Don’t. They’ll follow and rob you. Trust me. If you want to do good, I’ll show you where to put your silver.”
+
+The kid grinned, half his teeth missing. Then he ran off into an alley. They were past the square soon and the buildings here looked older, many of them with glass windows and visible metals. Straight up steel doors and sometimes barred windows, both on the ground floor and up. The people that passed were dressed with no discernible consistency. Plate armor, rune covered robes, fur coats, feathered hats, witch hats, broad and flowy silk dresses, and thick wool winter clothes. Almost everyone was armed. Some of them glanced at them with interest, others with disdain, many not looking their way at all.
+
+Veron looked at a figure with dark blue skin, catching a glimpse of long pointed ears before he lost the woman in the crowd.
+
+Their carriage drove and turned through the maze of fine well-built, and crooked old houses alike. “This one looks like a ruin,” Veron said as they passed a building whose front consisted of Ivy covered stone bricks, the roof caved in and crumbling.
+
+“Yeah, looks like something you'd find in the dungeon. Give it a few months and there will likely be something new here,” Silvie said.
+
+Veron heard more music playing when they stopped in front of a small shop, the houses in this area reasonably well-built, a warm glow coming out of restaurant and pub windows, a few people sitting outside at cramped café tables, smoking or drinking.
+
+“Here we are. Home sweet home,” Reymond called out after he had almost jumped out of the carriage. “Come on then, let's get everything inside and you'll get your pay. I hope nobody broke in this time around,” he grumbled the last bit and walked over to the door, fumbling for his keys.
+
+Silvie jumped off from the box seat. “Let's get his stuff inside and then we'll get you registered with the Guild.”
+
+“Straight to business?” Veron asked.
+
+“You don't want to walk around in these streets without a badge showing,” Silvie said and tapped the iron piece visible on her right arm.
+
+Veron glanced at Hayden.
+
+“Hunter’s Guild keeps the peace, or its members do at least. Kind of. We should get you registered. As soon as possible.”
+
+Veron breathed in the cool air and smiled. “Then let's do that.”
+
+They moved Reymond's goods into his store. What looked like a magical lamp illuminated the cramped space of dusty shelves reaching all the way to the ceiling. A counter stood at the back and the wooden floor creaked as they entered.
+
+“Down here,” Reymond called out, standing next to a hatch in the floor and holding a lantern. The cellar was even more packed, Reymond receiving and sorting the crates before he ultimately came back out and shut the hatch. He breathed out and smiled. “And that is that. Well done everyone, let's get to payment and then drinks.”
+
+“We'll get him registered first,” Reka said.
+
+Reymond gave Veron a glance and nodded. “Probably a safe bet. We'll drink at the Guild then.” He counted out silver and handed it out. “Another 120, fifteen per day, eight days,” he said to Veron and gave him the plates. One large one and two small ones.
+
+“Thanks, Reymond.” Veron felt a little strange accepting the additional pay. Nothing had happened after Perrion but he supposed they added the required security to Reymond’s carriage.
+
+Almost 400 silver then in total. Or almost 4 gold coins. I guess that should cover my expenses for a while, though I'm sure there will be additional costs to enter the dungeon.
+
+A pint at Warren’s cost between five and twelve iron, a room for the night between thirty and eighty. Assuming around twenty for food per day, and eighty for lodgings, that means I’ve got enough to last me around forty days. That’s not a whole lot. Maybe there’s a way to rent something?
+
+“Do you guys stay at an inn whenever you're here?” he asked when they were back out in the street.
+
+“There are all kinds of lodgings available. If you're staying for more than two weeks, there are affordable options a little farther from the dungeon entrance,” Silvie supplied. “Twenty to thirty iron a night.”
+
+Alright, that would give me a whole lot more days.
+
+“Know what? I'll stop asking stupid questions. Lead the way.”
+
+Silvie laughed and glanced at the others. “Quick turn at the pit?”
+
+“Sure, it’s his first time here after all,” Reka said.
+
+“Just stick close to us,” Hayden said and positioned himself behind Veron.
+
+I didn't expect to get a personal adventuring team escort when arriving in Anvakar.
+
+Veron decided to trust the others and took in the sights. The streets were bustling, merchants calling out their wares, adventuring teams and others calling out for jobs, drunk people shouting from near a pub.
+
+Veron looked up when he saw a shirtless gray skinned man fly over the street they were on, a set of strange devices strapped to his belt and shoulders. It looked to be propelling him through the air. “That wasn't a Herasar, was it?”
+
+“Eskir. Gray skin instead of white, yellow eyes instead of white. You'll notice when you see them from close up,” Hayden said. “They're from the west.”
+
+From the west? How does that clarify anything?
+
+He couldn't help but smile, at both everything he saw around him, and at Hayden's straight attempt at explaining some of it.
+
+His companions seemed somewhat on edge. Understandable with all the people and potential danger from other adventurers, opportunists, and criminals. I guess I don't know if stealing is even a crime here.
+
+He could see hundreds of people armed and armored and not a single one that looked like an official guard. At the very least it probably explained why the city had no walls. Anything that attacked it would be faced with a population mostly made-up of mages and warriors, and them being adventurers, they'd probably welcome any monsters stupid enough to come close on their own.
+
+His thoughts were interrupted when they came out on what seemed like a large plaza. It was the biggest open space he had seen in the city so far and judging by the mountains around, it was at the very center of the settlement. Dozens of people rushed by, the atmosphere here noticeably more tense and excited.
+
+“Welcome to Anvakar,” Silvie said with a broad smile, a large group of people passing behind her as Veron looked on with some amusement.
+
+She rolled her eyes and gestured him to follow when the people had passed. “Now,” she said as Veron stepped next to her, the view before them opening up to reveal a three-hundred-meter-wide hole in the earth. He could barely make out the people on the other side. Mechanical lifts were set against its side, adventuring teams sent into the depths below while others climbed down on steel chains fastened to the railings that lined the entire circular pit. They carried large packs and weapons slung around their backs.
+
+Looking down into the abyss, Veron saw torches set against the stone, dozens of broad arched entrances leading into the earth at various heights of the descent. Deeper still, all he could see was darkness.
+
+Silvie coughed. “Welcome to Anvakar!”
+
+Veron watched and listened to the people shouting and discussing, the straining metal ropes and the many geared up adventurers ready to enter the dungeon.
+
+Looking down into the darkness, he could almost feel a pull, as if both the earth and winds were calling him there. To the depths, and whatever lay within. “Yeah. That’s a big hole.”
+
+Silvie laughed and slapped his shoulder. “You have no idea, Veron.”
+
+He wondered how it all worked. It excited him, to think about taking one of those lifts and going down there himself.
+
+In due time.
+
+He was also hungry and he assumed there was food at the Guild as well.
+
+Silvie led them along the edge of the massive hole and then onto the broadest road Veron had seen so far in Anvakar. And the only one so far that had any trees, the last golden leaves of autumn hanging on to the high reaching branches. At the end of the road, he could already see a large and towering burg built onto an outcrop of rocks in the middle of the city. He assumed that was the Guild. Three large banners fluttered from the tops of three towers, their red color visible against the gray skies.
+
+Veron looked up when a snowflake fell on his nose. The first of this winter.
+
+The stores here looked both well stocked and well protected, close to the dungeon entrance and most certainly out of his price range. Polished plate armors and fancy weapons were displayed behind broad glass windows. Teams of adventurers excitedly discussed whatever they were looking at but it was clear by most of their gear that few of them could afford what was sold here.
+
+“This is Main Street. Never buy anything here, they're the richest crooks around. I'll happily recommend sellers with reasonable prices for whatever you will need,” Reymond said. He didn't linger on the topic nor seemed to wait for a reply from Veron which made him feel like the old merchant at least believed his own words.
+
+“I don't think I'll be buying anything fancy anytime soon,” Veron said.
+
+They walked along the road, soon reaching stone stairs leading onto a bridge. Below, Veron could see more streets, narrow like all the others he had so far seen in the city, bustling with life and noise. Past the bridge, a broad and arching stairwell to the right led up towards the burg. To the left, he saw a single large oak in the middle of a square.
+
+Up they went, soon reaching a massive open gate, steel grates visible above. Here, there were guards. Two figures in dull and slightly dented full plate armor, one standing with arms crossed and watching the passing crowds, red feathers on his helmet and a massive hammer sitting on the floor next to him. The other supposed guard lounged against the castle gate, a two handed sword leaning against the thick wooden gate much like they did. Neither spoke.
+
+The space within the burg opened up into a courtyard, various torches lit, magical or mundane, Veron wasn't sure. Several gates led deeper into the vertically built structures, some of them shut. A large red banner with five golden swords crossed at its center hung above the largest entrance, and Silvie led them there.
+
+“Time to become an adventurer,” Hayden said.
+
+“Yeah,” Veron said with a smile. He looked at the large banner before he followed.

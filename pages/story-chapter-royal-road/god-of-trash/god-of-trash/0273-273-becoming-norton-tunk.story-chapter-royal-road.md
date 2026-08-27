@@ -1,0 +1,83 @@
+---
+id: 3af2dfea-866b-5039-b040-7cb5104f5cbe
+page-type-slug: story-chapter-royal-road
+title: "273. Becoming Norton Tunk"
+slug: 0273-273-becoming-norton-tunk
+partOf: god-of-trash
+position: 273
+ownLength: 2166
+unit: words
+publishedAt: 2026-02-11
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3037909/273-becoming-norton-tunk"
+royalRoadId: "3037909"
+---
+
+Rhys got dressed and went downstairs. He scanned the building with his mana senses before he descended, so he knew Lily wasn’t around. The only person in the house aside from him was a young new maid who Norton had just hired, whom Lily hated, obviously. The maid glanced at him as he descended the stairs and tucked her hair behind her ear, then licked her lips.
+
+Straightening his robes, Rhys ignored her. He was the Norton who’d turned over a new leaf, and he was not going to sleep with the maid anymore. He had to get on the wife’s good side. Also, the maid wasn’t really his type. She kind of looked like a girl who’d bullied him in his first life, and he still had trauma toward that kind of woman—blonde and conventionally attractive, basically. It wasn’t her fault, but it did mean he found it easy to ignore her advances. From now on, I’m a good person who loves his fake wife and takes care of his household!
+
+He paused for a second, considering his objectives. If he was going to be a good person… how did he spend his day? Studying and cultivating, focusing on the next stages of his magehood?
+
+I do have that bottleneck, he considered, nodding slowly. It wasn’t like he couldn’t use a little time to himself to just think about things and figure out, one, what was stopping him, and two, how to break through that thing. Both he and Norton would benefit from a little hard work and thinking power, so why not?
+
+Rhys looked around. He was in the dining area right now. Around the corner, there was a kitchen, and beyond that, a formal sitting area that gave off the same exact vibes as his mom’s special parlor with its special white furniture that he wasn’t supposed to touch. He extended his mana senses, continuing to scan the rooms. There was a banquet room, though no ballroom; the estate wasn’t large enough for it, and gods knew Norton’s family didn’t want him entertaining anyone. There was a study, but based on the lighting and tastefully-placed houseplants, that didn’t belong to Norton, a smoking room that reeked of impurities even from where he stood, and a few bedrooms and baths on the second floor. The roof was organized into a small garden, and there was a second, small garden out the rear of the house.
+
+The smoking room would be great, Rhys thought, then had to clamp down on his enthusiasm. The smoking room was probably where Norton spent most of his time already. He couldn’t turn over a new leaf hidden away in that musty old place, as much as he’d like that. He gave it a longing look through the walls of the house and sighed. Honestly, he didn’t even want to absorb the impurities, because it was such a nice impure room in the middle of an entire city full of mages who loved cleanliness and purity. Maybe I’ll sneak down here after dark and hang out in the smoking room.
+
+“Excuse me, sir. Would you like breakfast?”
+
+Rhys startled back to reality to find that conventionally attractive blonde face very close to his. He jerked back, hitting his head on the reinforced mage-built wall, then bent forward, clutching his head. Ow… regrets…
+
+“Sir…?”
+
+“Yes. Breakfast would be nice,” Rhys said on reflex. He thought for a second, then snorted. As if he needed to think. Breakfast was delicious, and mage food was delicious and great for levelling up. He could kill two birds with one stone with a delicious breakfast.
+
+The maid nodded. She walked to the table and pulled back the seat at the head of the table, and Rhys sat down. She went to tuck his napkin in, but Rhys held up his hand. “I can do that myself.”
+
+She raised her brows, but nodded and retreated. There was some clattering in the kitchen, and some time passed. Rhys, who had nothing to do and nowhere to be, simply meditated for a bit, extending his mana senses to get a feel for all the households around him. At this time of day, the houses themselves were mostly empty, which meant his prods went unnoticed. Off to the right, his mana senses brushed against another person’s, and he instantly retreated. Whoever that was, he didn’t want them noticing him in particular. His mana signature wasn’t identical to Norton’s, though it would take someone very familiar with Norton to notice; his neighbor might qualify as ‘very familiar,’ but with a momentary brush like that, they’d simply take it as a curious passerby.
+
+Both the houses to either side of him were sumptuous, so much nicer than this house that Rhys slowly realized that Norton was being punished, being ‘made’ to live in this grand manor. Of all the houses he could sense, it was the smallest, and had the fewest rooms, the most standard layout, and the least impressive gardens. Compared to anything Rhys had ever lived in, it was incredibly lavish, with fine fixtures that outshone even the finest his original world had to offer, but clearly, for mage nobility, it was very mid.
+
+I’m sure this Norton brat thought his life sucked, but it’s actually pretty awesome. I have no problem enjoying his ‘shitty life.’ Rhys pinched his chin suddenly, feeling as though he’d had an epiphany. A good life or a bad life, it was all based on personal perspective, wasn’t it? He’d consider this life great, but Norton, and probably many other mage nobles, would consider it bad. In other words, although this was fantastic to him, it was trash to Norton. By taking on Norton’s perspective, he was able to bring this entire house, and, in fact, Norton’s entire life, into his domain.
+
+Suddenly, he felt as though he’d known the house for years. The maid felt familiar, and Lily seemed important. The scuffs on the floor, the slight stains on the wall where furniture had rubbed, all of it made sense to him. He didn’t see what had happened, nor did he instantly know everything about the house and the people in it, but he felt the vibes, so to speak. He went from guessing blind at what was going on in here, to being able to read every hint and detail, and figure out what was going on around him.
+
+He turned, looking at the wall behind him. There was a smudge on the wallpaper even with the back of his chair. Norton had slammed this chair back often. His eyes tracked to the floor, where the boards were slightly more worn than in other places. And he stomped off often, all the way up to his room.
+
+His eyes darted across the room, landing on one set of clues, then another, then another, his eyes glowing faintly with green-brown light. A smile slowly stretched across his face.
+
+This is awesome. I turned on Sherlock Holmes mode!
+
+Rhys leaned back, propping his feet up on the corner of the table where faint impurities indicated Norton often did. In a split second, he’d gone from cringing his way around the house, to the true master of the house, almost as knowledgeable of Norton’s life as the man himself would be. No—more knowledgeable than Norton was of his own life, since Norton doubtlessly did some of the things he did subconsciously, but Rhys was now consciously aware of them all. He nodded to himself, deeply pleased with this new epiphany. It wasn’t the unlock to break through his bottleneck, but it was highly convenient right now.
+
+The maid returned with a plate of fresh eggs, toast, and bacon. Rhys quickly scanned the grease stains on the table to confirm that it was Norton’s favorite breakfast. He smiled and nodded for her to put it on the table, then froze.
+
+Impurities emanated from the meal. He sniffed, then raised his brows. Poison. How considerate of them, to give him some training!
+
+Not. Someone wants Norton dead. Rhys scanned the maid’s fingertips and found them stained with impurities, too. He glanced at her. A jilted lover?
+
+A faint flash of disgust played over her face, and she pivoted on her heel and marched off, hair flowing behind her.
+
+Hmm. Well, it’s common enough, as a motivation for murder. And that’s exactly why I’ve remained relationship-free all these years! Fewer people trying to kill me! Right, without any jilted lovers on my case, the only people who want to kill me are… er, most of the Empire, and the leadership of the Alliance…
+
+Anyways. It’s totally a legitimate and ordinary survival strategy! Definitely not because I’m too socially inept to find a partner, haha!
+
+Rhys quickly dragged Norton’s body out of the pre-processing pile for the trash star and gave it a quick scan. More impurities that matched the ones in his current meal swirled in this man’s body. It seemed he’d been marked for death for some time.
+
+He brightened, tossing the body back toward the trash star. Excellent! It was a slow-working poison, then. He wouldn’t have to ‘discover the poisoner,’ he could just play along, eat his eggs like a good little Norton, and faff about his life as if nothing was wrong, and the maid would think all was going according to plan. Plus, with as shitty a person as Norton was, it was quite possible that his poisoning was a conspiracy that went beyond one maid. No point revealing his hand now when he could enjoy picking apart this mystery while he waited for ball season to arrive.
+
+If it turned out it was just a scheme by the maid to poison him, too, then it was better not to tip his hand at all; the last thing he needed was attention from Norton’s family, which would doubtlessly rush his way the second he revealed he was being poisoned. Norton was still receiving money, after all. He wasn’t completely kicked out of the family. Parents who completely ignored and hated their children would still come running when they heard their children had been harmed.
+
+So, ignoring the poison laced in the food, Rhys gobbled down the otherwise delicious-smelling breakfast. The poison honestly wasn’t bad. It added a bit of peppery spice to the eggs, to Rhys’s enhanced mage tongue, and since he wasn’t harmed by the impurities at all, it was basically nothing but seasonings. He shook his head in mild disapproval. He shouldn’t be able to taste these impurities. What amateur poisoning! True, he’d fully controlled the potato chips so that mages didn’t know what they were supposed to taste like without impurities, but still. This was weak sauce poisoning. He could clearly taste the difference.
+
+The maid stood in the corner of the room, quietly watching him. To his eyes, her expression simmered with quiet satisfaction. He snorted to himself, shaking his head a little. Unfortunately for her, the poison wouldn’t do anything to him. Fortunately for her, Norton was already dead. Whatever reason she had for poisoning him, he’d already been punished as much as he could be.
+
+Rhys paused in the middle of eating his eggs as a thought came to him, a bite of egg an inch from his mouth.
+
+“Is there a problem?” the maid asked, concern—almost earnest-looking—flashing over her face.
+
+“No, no. It’s nothing,” Rhys said, waving his hand. I wasn’t thinking about my exit strategy. Absorbing Norton into the star? That’s a total waste. I should preserve that body and drop it behind me when I leave, full of impurities from this poison. Then the justice system can adequately punish whoever needs to be punished for the poisoning, Norton can die of what he was going to die of anyways before my intervention, and I can smoothly slip away, as if I never existed.
+
+He put the bite of egg in his mouth and chewed, while internally, he moved Norton out of the burnable trash pile, destined for the trash star, into the preserved trash pile. The high-mana, low-everything else setting of his core already preserved Norton’s corpse to a high degree, and now that he’d thought about it, he kept a thin stream of mana flowing to the man’s body to prevent any further deterioration. It had begun to rot a little bit, but that was fine. Whenever he ditched Norton’s body, he’d just have to take care to ditch it somewhere where it wouldn’t be found for a few days, and it would be all the same to the mages in this world, who weren’t exactly forensic experts. They’d be able to tell that he’d died of poison, and that he’d begun to rot, but that was about it. Anything more complicated was out of the question.
+
+Wiping up the spilled yolk with his toast, Rhys hummed happily to himself. I’m mad scientist, so cool, son of a bitch. Forget Sherlock Holmes—I’m Moriarty.

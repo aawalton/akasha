@@ -1,0 +1,265 @@
+---
+id: a6b439af-621d-5087-816f-4838d07044d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 86"
+slug: 0010-chapter-86
+partOf: hell-hound-evolution-litrpg
+position: 10
+ownLength: 2741
+unit: words
+publishedAt: 2026-02-13
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3051593/chapter-86"
+royalRoadId: "3051593"
+---
+
+Jessica ran at the monster, spear tight in her hands as it stumbled back from another of Iris’s attacks. Jessica almost imagined the pup could solo this thing, if not for one critical problem. She was unleashing a lot of skills that required mana, and that couldn’t last forever, and her stamina drained faster while she was airborne. In a fresh fight, Iris was clearly far stronger than Jessica, but without her skills, she had little in the way of basic attacks.
+
+But how am I match for this thing!? Jessica thought in a panic as her steps brought her closer and closer.
+
+It had that bark-like armor—just like the Chardbarks they’ve been hunting. Her spear would glance right off if she hit one of the plates directly. The grooves between plates were the vulnerability, however.
+
+She focused her sight on the back of its leg, saw how it braced itself, and how the muscle coiled beneath.
+
+Jessica aimed right for it and used {Thrust}. She instantly felt a familiar, almost forceful tension in her muscles as the skill guided her movement. Not that it was out of her control; it was like muscle memory, but enhanced, as if the skill were reminding her body how to move while her mana filled her arms with a little extra strength.
+
+The tip of the spear connected, just shy of the groove, but close enough to slide in where she needed. She felt the hardness of the armor replaced by softer flesh beneath, and the monster instantly kicked, roaring in pain.
+
+Jessica leapt away, rolling against the ground, scrambling back to her feet then glancing back just in time to see a clawed fist swatting at her.
+
+She arched her back as she skipped forward, feeling the claw barely graze her armor and rip the clothes that hung over it.
+
+She spun around, spear raised, and locked eyes with the monster—it looked furious. But before it committed to its next movement, Iris dove down like a bullet and slammed into the side of its head, staggering it as its focus whipped back around to the pup, who then used her back paws to spring off its face and just narrowly avoid a swinging fist.
+
+Her wings quickly took her out of range, and as its focus turned back to Jessica, opening its mouth to roar threateningly, she realized something.
+
+It looked a LOT like a Chardbark. The body was completely different, but the short snout, the position of its teeth, and the bark armor itself—was this a higher evolution of one?
+
+But that realization came a moment too late as its eyes began to glow, taking on an amber hue. Did Iris realize the same thing? And when its gaze turned away from Jessica once more, its calculation became clear—Iris was the bigger threat.
+
+“Iris! Look out!” Jessica yelled, forcing herself into motion once again. “It’s got a ranged attack!”
+
+Did Iris know the word ranged?
+
+A blast of fire shot from its mouth, the Hell Hound hovering just outside of arm's reach, and her attempt to fold down her wings and dive low was too slow.
+
+She was struck—her controlled, fluid movements through the air suddenly turned into a violent spin. She spread her wings to stabilize but slammed into a tree then fell.
+
+“{Thrust}!” Jessica screamed, though it wasn’t necessary to vocalize. The leg shifted just enough, and her spear hit a plate dead-center. Before Jessica even had time to curse, the leg shot out, so big it basically scooped her off her feet, but the impact was real—reverberating right through her armor and into the core of her body. For just a few moments, she knew what it was like to be airborne—untethered to anything—then she hit the ground hard.
+
+She managed to keep her hands on her spear at least, but she struggled to draw a breath, and as she tried to pick herself up, a sharp pain shot through her chest—she had broken a rib.
+
+Vitals - Elva Wyrmscar
+
+Health: 130/210
+
+Mana: 110/180
+
+Stamina: 120/200
+
+She checked her vitals as she forced herself up, wincing against the pain and if it were not for the adrenaline coursing through her, she had a feeling she’d be screaming  in agony right now.
+
+I can still fight. But what about Iris?
+
+Vitals - Iris
+
+Health: 120/190
+
+Mana: 230/375
+
+Stamina: 85/220
+
+For extra confirmation, the pup was already on her feet and retreating, her small body disappearing into the underbrush as the monster chased after her. After ripping its claws down at some undergrowth, it seemed to have lost her as it looked confused, but then heaved in as if taking a deep breath.
+
+“Iris! It’s doing it again!” Jessica warned, running in a wide arc, looking for an angle to get behind the monster again.
+
+It breathed fire, tilting left and right as the inferno instantly burned foliage with the crackling pops exploding water molecules. But Jessica saw Iris already coming back out into the clearing, away from the monster’s gaze. She opened her wings and took flight. She only had some singed fur on her side, but otherwise her movements were perfectly normal.
+
+But how can we beat this thing?
+
+For all their efforts, Iris managed to leave some burn marks on its face, and Jessica managed to injure its leg slightly, but not enough to down it.
+
+“Jessica! Attack!” said Iris’s voice in her head.
+
+“But Iris—” Jessica gasped.
+
+“NOW!” Iris demanded, arcing a Lumen Burst across its back, causing it to scream and abandon its scorched earth strategy as it defensively ran a few steps.
+
+Wait… I did hurt its leg.
+
+Jessica saw how one leg dragged a little more than the other. It turned to find Iris zipping over its shoulder, her claw coming out to slash at its eye as she passed. It reflexively grabbed at its face, then turned to chase her, exposing its back to Jessica once again.
+
+Whether this was crazy or just plain impossible, Jessica wouldn’t convince Iris to back down. Not yet. Maybe if the pup realized the odds had become impossible, but maybe that moment would come too late.
+
+No! Don’t think like that! Jessica clenched her teeth as she forced herself to move once again. Don’t plan for failure! Not here, not when our lives are on the line!
+
+When she came into range, she dove forward with her spear once again.
+
+“{THRUST}!” She focused on the crevice between plates of bark; she knew it would be okay if she was just a little off.
+
+This time, her attack landed cleanly, she felt the barest of resistance as the thicker spearhead pushed the adjacent plates aside and sank deep into the monster’s flesh.
+
+“Good! Now retreat!” Iris ordered.
+
+She didn’t have to tell Jessica twice; the Earth girl was already turning tail and running as the monster limped after her, but it lost its footing with the first big step and pitched forward.
+
+Jessica turned hard as she stopped, her heel spraying back dirt in an arc, her shift in momentum snapping her clothes as she faced the grounded monster, reaching a claw towards her—and she looked it dead in the eyes.
+
+The moment took less than a blink to decide. No time for pros, cons, or risk assessment. Like playing a video game, and you just smash that attack button to score the final hit.
+
+She dove forward, running past its claw, holding her spear lower as she dove towards its face. “{Thrust}!” Jessica yelled.
+
+It opened its mouth to scream, but didn’t get a word out before her spear was crashing through its eye, cracking and splitting back the socket, sinking deep. But it wasn’t dead yet, and just like the critical moment it games, sometimes it backfired by leaving you exposed.
+
+A hand swept at her, snatching her, the claws wrapping around her entire upper body as she was lifted off her feet. Her fingers slipped from her spear as it was left embedded in the monster's face, and the next thing she knew, she was being slammed into the ground.
+
+She felt the impact everywhere—splitting across her back, through every single bone, and deep down into her gut. Before she could even let out a strangled cry, she was being lifted again, and again she was slammed down with bone-shattering strength.
+
+She couldn’t fight it.
+
+This is it. I’m going to die.
+
+The thought drifted past her mind as she fell limp in the monster's grasp, and she felt herself being removed from the ground for a third time.
+
+I’m really going to—
+
+“JESSICA!” Iris’s voice screamed in her head. Not an order this time. Not an admonishment. A cry of fear and panic.
+
+A flash of light consumed Jessica’s sight—a Halo Flare. The monster's grip slackened. She hit the ground, but just as dead weight this time, not with a crushing slam. As the light began to diminish, she saw a black blur zipping through the sky.
+
+Iris dove down in a sharp arc, but just as the Hell Hound reached her target, she pivoted herself backwards, going feet first.
+
+Her paws landed cleanly on the blunt end of the spear, driving the blade deeper into the monster's eye. It reared back, let out half a scream that died in its throat, and then it collapsed and hit the ground with a thud.
+
+Iris… did she do it?
+
+Jessica felt her vision fading, unable to believe it. But her body was in agony.
+
+She coughed, or tried to. It came out as a pathetic wheeze and the attempt sent a spike of pain shooting through her body and stealing what little air she had managed to draw. Her vision dimmed at the edges, the world narrowing to a tunnel of light and sound.
+
+“Jessica!” Iris was suddenly there, her paws landing against Jessica’s side as gently as she could manage, wings retracting into her back. “Jessica! Do not sleep!”
+
+“I… think,” she wheezed, then had to stop, her breath hitching. But her lip quirked in a smile anyway. “I think I messed something up.”
+
+But then, blue screens began flashing through her eyes. She couldn’t focus on them, however, because she felt the pain in her body receding. Almost like drinking a healing potion, but not quite so effective.
+
+Great Monster Slain! Level 12 Chardbark Colossus
+
+Experience Gained!
+
+You have leveled up!
+
+You are now level 8
+
++3 Vigor
+
++4 Strength
+
++5 Dexterity
+
++1 Attunement
+
++2 Luck
+
+You have leveled up!
+
+You are now level 9
+
++3 Vigor
+
++5 Strength
+
++5 Dexterity
+
++1 Attunement
+
++2 Luck
+
+You have leveled up!
+
+You are now level 10
+
++4 Vigor
+
++5 Strength
+
++6 Dexterity
+
++1 Attunement
+
++2 Luck
+
+Jessica sat up suddenly, drawing in a deep, clean breath of air. She put a hand over her heart as if she couldn’t believe it. “Holy cow! Three levels!?”
+
+She flicked the screens away with her eyes, and behind them were similar messages for Iris, who had only gone up two levels, but still joining Jessica at level 10 since the Hell Hound was already level 8.
+
+Achievement! Punching Up!
+
+You’ve slain a monster far beyond your current level!
+
+Major bonus to all stats!
+
+Achievement! Stronger Together!
+
+Through the power of teamwork, you have defeated an enemy that otherwise would have been beyond your abilities.
+
+You have deepened you bond with Hell Hound Iris
+
+Your bond with Hell Hound "Iris" has risen to level 3!
+
+Achievement! Great Monster Slayer
+
+You’ve slain a rare, highly evolved monster!
+
+Class upgrade awarded!
+
+Jessica blinked. “Class… Upgrade…?”
+
+As soon as she spoke the words, three new, overlapping screens popped up in front of her face.
+
+[Available Class Upgrades For Spear Fighter]
+
+Uncommon – Spear VanguardYou advance at the front, spear braced and resolve hardened. You endure blows so others can act.Stat Scaling: VigorBonuses: Heavier armor will not slow you down, reduce damage while advancing toward enemies, and improve stability against knockback.“Stand firm. Let the world break before you do.”
+
+Uncommon – Spear Duelist You strike, withdraw, and strike again. You thrive in motion, exploiting openings created by allies' or enemy mistakes to unleash critical damage. Stat Scaling: Dexterity Bonuses: Improved movement and reaction speed after landing a successful hit, reduced stamina cost when chaining attacks. “Win not by force, but by timing.”
+
+Uncommon – Spear AdeptYou refine your technique through mana rather than physical prowess, enhancing your attacks with active skills.Stat Scaling: AttunementBonuses: Reduced mana cost for spear skills, improved accuracy when targeting weak points, faster recovery after skill use. “Channel and strike.”
+
+“No way! Iris! Guess what!” Jessica exclaimed, the blue screens disappearing as she spun away from them and propped up on her hands and knees, almost nose to nose with Iris. The Hell Hound’s ears folded back slightly. “I just got a class upgrade! None of the other trainees have gotten one of those yet! Th-that’s—” Her eyes looked up, thinking back over some of the verbal lessons, and also confirming with Elva’s memories. “That’s supposed to take years!”
+
+“This is good,” Iris agreed, and in a rare show of camaraderie, the pup’s lips curled in a grin.
+
+“What about you? Did you get any rewards?”
+
+“Yes. Extra stats, and evolution path is hinted… But… I must reach stage 4, and there are other unknown requirements.”
+
+“…Stage 4, huh? I bet you’ll get there in no time. And we can definitely figure out those requirements together!” Jessica smiled. Despite her enthusiasm, she was still a little breathless, her head still spinning, and her body sore. She let herself sink back onto the forest floor and lay on her back, staring up through the canopy and willing the blue screens over her eyes once again.
+
+“But which one of these should I choose?” she murmured. “Vanguard, Duelist, or Adept? I guess Duelist would improve on our current strategy, where you lead, and I look for openings… But since you’re ranged, I could go Vanguard and act as a tank.” She shuddered at that thought. “No, I don’t want to do that. I’d get hurt way too often. Adept is also interesting… But attunement is one of my worst stats, and you already are magic-based.”
+
+Her contemplation was cut off as she noticed some movement through the screens, past the forest canopy. She flicked them away and saw something huge soaring through the sky.
+
+The dragon’s wings let out a beat, slowing it down. He was too high up, so Jessica couldn’t see him clearly, but she knew he was up there, looking down at them right now—Valrok.
+
+Iris let a low growl rumble in her throat as the Dragon’s wings folded against its body and it began to descend.
+
+“Damn it… Right on time, I guess… but…” She looked over to the monster they had just killed. If that wasn’t enough to satisfy the great Valrok, she didn’t know what would. But she cared less about that and was more worried about Iris. “Hey Iris… Listen. I think it’d be a good idea not to let anyone know you can talk for now. Just let them think it’s only me who can communicate with you.”
+
+“Why?” Iris questioned, turning a glare towards Jessica. Though, Jessica knew that hate in her eyes wasn’t really for her at the moment.
+
+“I just think… we should be careful, is all. And make sure everyone knows I’m the only one you’ll fight with and…” She grimaced slightly. “And… you will have to let them think I’m the one in charge. You know, like, make them think I’m your master.”
+
+Iris’s glare deepened. It was probably slightly more meant for Jessica this time.
+
+“I follow your orders?”
+
+“No! Well, yes, but not really. Just in front of the tribe! Please, it’s for your safety. We’re not ready to escape yet… so…”
+
+Iris growled. “No escape. Kill!”
+
+“Right… or that…” Jessica exhaled. She then folded her hands, pleading with the Hell Hound. “Plleeease, Iris! You have to trust me on this. If they don’t think I’m in control, they’ll kill you, and… we… we’re not strong enough to stop them. Even after all of this.”
+
+Iris stared her down for a long moment. Jessica held her gaze, not trying to threaten her, not trying to dominate her, just trying to communicate how important this was.
+
+“…Fine.” The Hell Hound looked away. “For now.”
+
+Read Next Chapter Now!

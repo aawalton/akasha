@@ -1,0 +1,246 @@
+---
+id: 17db8690-1e8e-5465-b682-c3cee9386c83
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: The One Who Devoured Half of the Heavens"
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 6
+ownLength: 1980
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3615457/chapter-6-the-one-who-devoured-half-of-the-heavens"
+royalRoadId: "3615457"
+---
+
+Chapter 6: The One Who Devoured Half of the Heavens
+
+Monkey looked at Akasha's blade. "This is what the people wanted. The young master needs to pay for all her misconduct."
+
+I wondered what this body had done before I arrived.
+
+"Does she? She may be a young master, but I don't see her being arrogant about it." Akasha pressed the blade closer. "And I will make sure that the sect leader hears about this."
+
+"Can you put that thing away?" He shifted back half a step. "It's hot." Then, as though something had just occurred to him that he found genuinely amusing, he smiled. "And what should I hear, exactly?"
+
+"What are you talking about?"
+
+"He won't be sect leader much longer." Monkey's voice had changed register. Still conversational, but with something underneath it that had been waiting to come out. "I will. And when I am, I'll lead everyone to a higher floating island." He spread his hands. "The pillar of light is gone. Without it, only little spirit energy reaches the lower islands. All we have now is a hole directly above us. What exactly is the point of staying?"
+
+"What if the pillar of light returned?"
+
+"It won't."
+
+"How could you be so sure?"
+
+Monkey grinned. "Because I say so."
+
+"You're out of your mind."
+
+"People used to say that about anyone with ambition."
+
+A new group of disciples closed around Akasha from the sides.
+
+Badger took a step forward.
+
+"Fridd." Akasha's voice did not raise. "Step back."
+
+"But—"
+
+"I don't need your help."
+
+Red wings erupted from her back, and she was airborne before the circle could tighten, rising straight up and out of it with a single powerful beat. The disciples below scrambled to track her.
+
+Monkey watched her ascend. He took several steps backward, until he was positioned behind two figures who stepped forward to fill the space he had vacated.
+
+I looked at them.
+
+They were large. They moved toward us in a low, rolling way that reminded me of something specific and it took me a moment to place it.
+
+Dogs. Rabid ones. Their eyes were completely white, and their mouths were open, saliva tracking down their chins in thin strings. Whatever was operating their bodies, it was not the same thing that usually operated human bodies.
+
+"Druga and Adrik," Monkey said, chest puffed up. "My most successful experiments. It took considerable work to get the pill formulation right."
+
+"You call that successful?" Akasha's voice had dropped. Her expression had moved past professional and into something more visceral.
+
+She dove.
+
+Wings folded, sword of flame extended. She hit between them with force.
+
+She did not go through.
+
+The Rabid Dogs absorbed the impact the way stone absorbs rain. They did not stumble. They did not flinch. They stood where they were.
+
+Akasha bounced back from them and had to beat her wings hard to recover altitude. Her sword of flame had left nothing on them. No scorch, no mark, as though the fire had simply decided against it.
+
+"Earth cultivators specialized in defense."
+
+"You know your elements." Monkey clapped. "Defense so dense that offensive fire slides right off. Which makes them perfect for stalling, don't you think?" He glanced around at the watching crowd, then back at Akasha. "Also a satisfying use for earth cultivators who would otherwise have spent their lives in the fields. A bit of the right pill and suddenly they're useful."
+
+Akasha's flame sword burned hotter. The air around her hands had gone a different color, white at the center.
+
+But the Human Ds who surrounded her earlier started flying, riding clouds.
+
+She glanced at them. "So they are water cultivators to counter me."
+
+"Ramzan has agreed," Monkey said, loud enough to carry. "If I help them secure a higher island, they give their current island to us. Everyone moves up. Better air. Better spirit density. Better futures for your children." He paused, letting it settle. "All I need is the sect's cooperation."
+
+Fox stepped forward and made a small, precise bow. "I can confirm this arrangement, as ambassador of Ramzan."
+
+The crowd murmured differently now. Calculating. The chant that replaced the old one started low and built quickly.
+
+"Zaku. Zaku. Zaku."
+
+Monkey let it run for a moment. Then he looked at me.
+
+"Tell your old man to surrender, or I'll kill him."
+
+I glared at him.
+
+He flinched. "W-what is it? What are you looking at?"
+
+"You're going to kill Human Dad?"
+
+I said it the way you say a thing you are still processing. The human who had given me shelter and fed me. Monkey said he will kill him?
+
+I moved forward.
+
+"Watch out!" Akasha dove, wings snapping open, flame sword angled toward the space between me and the Rabid Dogs.
+
+She didn't make it. Water projectiles came from three directions, and she had to twist to avoid them, losing her angle, pulling up short.
+
+The Rabid Dogs dropped to all fours. Came at me from both sides simultaneously, and then they leaped with open mouths.
+
+One on each shoulder. Biting down.
+
+They ground their teeth. Monkey watched with a big smile, laughing while waiting for the result.
+
+The result did not arrive.
+
+My shoulder felt the pressure. It registered as information, but the force did not translate into damage.
+
+Monkey's laugh stopped.
+
+The Rabid Dogs kept trying. Their teeth worked at my shoulder with dedicated mechanical effort and achieved nothing. I could feel their frustration in the way you feel a fly walking on your back: present, slightly irritating, ultimately not a meaningful problem.
+
+I looked at Monkey.
+
+"I don't care how many times you face slap me, but I won't let you kill Human Dad."
+
+I moved forward.
+
+My feet did not advance.
+
+The Rabid Dogs, still attached to my shoulders, were simply bigger than me. The mass was not being punctured but it was still present. I pushed. Nothing.
+
+System.
+
+[Divine Neck is a defensive skill. It does not assist you in displacing two objects significantly larger than yourself.]
+
+Do I have anything that would help?
+
+[You haven't learned any offensive or mobility skills yet.]
+
+I pushed again. Still nothing. One of the Rabid Dogs made a sound that might have been satisfaction.
+
+Then what do I do? I need to punch, or face slap, or whatever it is that Monkey.
+
+[Skills are a framework. You could improvise.]
+
+How?
+
+[Consider what you observed in the training room. Gwyn gathered spirit energy at altitude and channeled it into her sword before the finishing move. The principle is transferable, spirit energy channeled into a specific point of contact creates a concentrated output.]
+
+But I can't fly.
+
+[You don't need to. The spirit energy from the heavens has been residing in your neck since before you reincarnated. It did not go anywhere. You are carrying approximately half of heaven's ambient spirit energy in your neck.]
+
+I held very still for a moment, ignoring the grinding at my shoulders.
+
+Half of heaven's spirit energy? I looked up. Floating islands layered above each other, and at the very top, something glowing gold with a large hole in its center.
+
+[Give or take. The exact figure depends on how you define the heavens' total capacity, which is philosophically complex. The point is: you have significantly more than you need for this particular application. The challenge is using as little as possible. The gods will notice if you use too much.]
+
+How little is little?
+
+[That is an excellent question to which I do not have a precise answer. Err toward less.]
+
+I closed my eyes.
+
+The training room came back to me. White standing on her sword with her eyes closed, the quality of concentrated inward attention before she moved the gathered energy down through the blade. That drop of the shoulders. That loosening. I had observed it and filed it without fully understanding what I was filing.
+
+I tried to find it in myself.
+
+My neck was warm. I had never paid attention to this specifically. The warmth had always been a background, like the sound of your own heartbeat. But with attention on it, it was unmistakably there. A deep, settled heat, the kind that has been present so long it has become structural.
+
+I found the edge of it. The place where the warmth was and then wasn't.
+
+I moved a small amount of it — small, the smallest I could identify as a discrete quantity — down through my chest, through my hip, into my left leg. I felt it arrive in my foot.
+
+I raised my foot.
+
+I tried to think about how much force was appropriate. The crater in the training room floor from White's landing had been small. I wanted something comparable. I aimed for comparable. I pressed for comparable.
+
+I stamped.
+
+The gold came first, a flash of it, lasting less than a second. Then the sound, which was less like impact and more like the world briefly disagreeing with itself. Then the crater: a perfect circle of displaced stone radiating outward from my foot, deep enough that I'm now at ground level, wide enough that the Rabid Dogs were no longer on my shoulders because they were no longer in the immediate vicinity.
+
+They hit the walls of the street. Not gently.
+
+The crowd had gone completely silent.
+
+I looked at my foot. Then at the crater. Then up at Monkey.
+
+His mouth was open. The practiced political composure, the crowd management, the careful staging of the whole afternoon — all of it had stopped. He was simply staring at the hole in the street where I was standing, and at me standing in it.
+
+Behind him, Fox took a step forward. A line of flame cut across the ground in front of him. He stopped and looked up.
+
+Akasha was there. Below her, the cloud riders had stopped riding clouds.
+
+He put a hand under his chin. "Looks like I can't help you this time, future sect leader."
+
+"Cut the crap and help me!" Monkey turned to him.
+
+I kept on walking up.
+
+[That was slightly more than I would have recommended.]
+
+How much more?
+
+[The gods are probably looking down right now.]
+
+I resisted the urge to look up.
+
+But I had something to deal with right now.
+
+The crater's edge was uneven. Broken stone at different heights, the closest thing to a slope I was going to get. I climbed out of it. The stone held.
+
+When I reached the top and stepped back onto the level street, Monkey stumbled backward and sat down hard.
+
+He had been backing away while I was climbing. He had not backed away fast enough.
+
+I stood over him.
+
+"Would you be so kind as to let me experience what is so good about face slaps?"
+
+Monkey's eyes went wide. His mouth opened.
+
+"W-what are you talking about?"
+
+I had genuine questions about this. Porcupine had asked if I was going to face slap him after the mock battle. The crowd had chanted for it before Monkey did it to me. Monkey himself had done it expecting — what? Rage? Tears? Some visible confirmation that the hierarchy had been successfully demonstrated?
+
+I had felt a push. I had not felt the significance everyone else apparently felt.
+
+Perhaps the issue was that I had been on the receiving end. Perhaps the experience was different from the other direction. This seemed like the kind of thing worth investigating before forming a conclusion.
+
+I kept my hand raised and waited to see if Monkey was going to cooperate with the experiment.
+
+He did not immediately answer. He was doing something with his face that involved several expressions cycling through in quick succession, none of them settling.
+
+"You—"
+
+"Yes?"
+
+He looked at my raised hand.
+
+"You're not going to actually—"
+
+"I will."

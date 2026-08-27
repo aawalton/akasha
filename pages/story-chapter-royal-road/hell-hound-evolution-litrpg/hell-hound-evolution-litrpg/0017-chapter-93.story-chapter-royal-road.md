@@ -1,0 +1,149 @@
+---
+id: 75583803-93f9-53e0-9fb0-c31b973906b4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 93"
+slug: 0017-chapter-93
+partOf: hell-hound-evolution-litrpg
+position: 17
+ownLength: 2288
+unit: words
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3114861/chapter-93"
+royalRoadId: "3114861"
+---
+
+Valrok watched with approval as his daughter showed a side of herself he had begun to fear she truly did not possess. She did not behave as a warrior. Even before her integration, she’d put forward a bravado he suspected she did not feel in truth.
+
+Those months ago, when he left for his hunts, her integration kicked in, and he had returned to hear even more troubling news. She was not the first young warrior to struggle with some aspects of their training early on. He’d expected better from his daughter, of course, but even the desire to prove herself had vanished. She became meek, uncertain, and acted as though growing into a warrior was the furthest thing from her mind. But now that seemed to have changed.
+
+He watched the battle below, a much stronger warrior now testing her—one Valrok expected her to lose to, but that would be an acceptable loss. She had already proven herself far beyond what he had expected. The condition of the arena spoke to that, the dirt smeared with blood and overturned from skidding heels.
+
+Their spears clashed as the Hellhound swooped high, away from the exchange, only to dive back down towards Elva’s opponent. Terrek kicked forward, knocking Elva away and staggering her backwards as he turned towards Iris. The Hell Hound beat her wings back, slowing her descent, as a ring began to form over her head.
+
+Valrok closed his eyes—it was the flare skill the Hell Hound had learned on their hunt. The insides of his eyelids turned red from the brilliant flash of light. The crowd collectively gasped, snarled, and cheered with awe, some of them shielding their faces too late.
+
+He opened his eyes to see Terrek’s spear wrenching back—the Hell Hound had latched onto his wrist and ripped backwards. He stumbled, trying to yank his arm back, but then Elva’s spear was at his throat.
+
+The audience quieted, some still rubbing their eyes, but when Terrek put up his free hand in surrender, they all erupted in cheers.
+
+Valrok shot forward on his throne, slamming one heavy fist on the armrest as the other shot into the air, and he roared in applause as well.
+
+That was a level 18 warrior his daughter had just defeated! Of course, she would not have stood a chance alone, but it wasn’t that the victory could simply be attributed to the strength of her Hell Hound. No—these two did not fight with brute strength and powerful skills alone. There was a coordination in their movements. It was like a constant, silent conversation passed between them even in the heat of battle. He saw it time and time again, and it was undeniable.
+
+But his daughter—his unusual daughter—she did not cheer or boast. She bowed her head softly to her opponent, almost as if thanking him. The far more seasoned warrior took off his mask and bowed in return before leaving the arena.
+
+The Hell Hound came to Elva’s side. They were both breathing heavily. Blood dripped down Elva’s arm in a thin stream. Her armor was dented and torn, and she leaned on her spear. Her mask pointed towards the remaining challengers. She seemed willing to continue. Valrok wanted her to continue. To see how far she would go.
+
+He looked towards his sister, who seemed to assess Elva’s condition from the sidelines. Then, she looked up towards him and closed a fist—she was calling it off.
+
+There was a stir of disappointment in Valrok’s heart, yet he trusted Helga’s judgment. Elva had been allowed some healing potions between battles, but wounds alone were not the only limiting factor for a warrior, and she had reached that limit.
+
+***
+
+Jessica felt her entire body ease with relief when the fights were finally called off. She glanced down at Iris to see that the pup was faring a bit better than herself, at least outwardly. Iris’s fighting style allowed her to avoid damage for the most part, while Jessica had been trading hits all day. The healing potions helped with any direct wounds she’d sustained, but there was a fatigue settling into her core that was undeniable.
+
+As she walked from the center of the arena, the roars and cheers of the crowd were like a dull buzz in the back of her mind.
+
+“You’ve fought well, Elva,” her aunt said, placing a hand on her back and leading her past the challengers. Not everyone got their chance at her, but each red mask that turned her way nodded in approval, pounded a fist on their chest, or bowed. Most respectful of all were those she had defeated, except for one.
+
+The girl Saelin gave her a somewhat grudging acknowledgment. She seemed among the younger of the challengers, and during their battle, Jessica sensed her frustration over their fighting style. She was quick with her blades. Jessica was on her back foot during most of their exchanges, and she doubted she could have beaten her without Iris’s help. Saelin had absolutely no ability to counter Iris’s ranged attacks and aerial movements, however, and with Iris directing Jessica on when to press an attack and create an opening, it ultimately ended up being the easiest fight.
+
+“No celebration,” her aunt said firmly to Valrok once the three were on the raised plateau together.
+
+Jessica was extremely grateful to hear those words.
+
+“Huh!? But Elva has taken great victories today! And on her hunt! It should be honored.”
+
+“Does she look like she’s up for all of that?” The goofy grinning mask pointed down towards her. Then she shrugged. “Besides, Elva lacks your presence, brother. The tribe will drink regardless, in their own groups, and discuss what they have witnessed. Allowing the stories to grow on their own will do far more for their perception of her than having her sit up here like a half-dead corpse.”
+
+Valrok huffed, the hollow eyes of his mask sweeping out over the Blood Peaks. The crowd was already dispersing, some groups forming along the central plateau. There was a holler of excitement as someone raised a wooden barrel of alcohol.
+
+“Besides, you have a job to do now, brother,” her aunt continued. “As things stand, we still lost twenty warriors on what was meant to be a simple hunt. And this was done on your orders.”
+
+“How was I to know those fools would—”
+
+“You have to make it right,” she said firmly. “Your dragon is far faster than a Direwing. Speak to your people and acknowledge the loss. Tell them it was a great evil that befell the hunting party, but not one that will go unanswered. Then you leave tonight.”
+
+“It has been days,” Valrok argued. “The scout said there is no sign of them, so they must have left the vale. To find them now—”
+
+“Finding them would be ideal,” her aunt interrupted. “But this is about showing you actually give a shit.”
+
+Valrok folded his arms. His fierce mask stared back at his sister’s goofy one, and for a moment Jessica wondered if he might actually strike her.
+
+But he didn’t. He let out a huff and muttered, “Very well,” then turned to Jessica. “Put Iris up and go rest. You have earned it, my daughter.”
+
+“No,” Jessica said.
+
+His mask tilted.
+
+“Iris stays with me,” Jessica said. “I’m not locking her in a cage just to take her out whenever I have something for her to do. Iris fought just as hard, and I couldn’t have done any of this without her.”
+
+She stared back at the giant man that was her father in this world. But, it was her aunt to speak first. “I don’t think it would be appropriate to bring her with you to the cots with the other trainees,” her aunt said.
+
+“Then I’ll sleep with her instead,” Jessica insisted.
+
+“In a cage?” The masks couldn’t move, of course, but Jessica almost thought she saw her aunt’s mask raise an eyebrow.
+
+Valrok laughed. “Ha! No, this is good! This is a true bond! Elva is one with her beast! A true Wyrmscar Descendant!”
+
+Jessica was pretty sure it was lost on him how that sounded.
+
+“No, this is a tired girl being stubborn,” her aunt chided. “The other trainees will be her future warband. If she doesn’t stay with them, they may whisper that she thinks herself above them.” Then she added in a huff, “And they only just stopped whispering that she is beneath them.”
+
+Jessica winced at that. For months, she had felt those whispers. Pathetic. Weak. Wyrmscar in name only. Like she wasn’t living up to something she never even wanted, and still didn’t want.
+
+“I don’t think I’m above anyone,” Jessica said quietly.
+
+“I know you don’t,” her aunt said. “But nobody else can know what is inside your head. And whatever your reasons, keeping yourself like an animal will at the very least be mocked.”
+
+“You are wrong, sister. They will rally behind her strength regardless.” He scratched his neck. “But, daughter. Do not sleep in a cage. We’ll have a tent brought to the plateau. Now, enough of this. I need to address my people.” With that, he stepped forward and raised his spear, drawing all eyes back to him.
+
+***
+
+As her aunt had recommended, Valrok declared that he would go investigate what exactly happened to the hunting party, and vowed to seek vengeance for their deaths. He also threw something in about how they have all now been reminded firsthand the strength of the Wyrmscar Legacy and the value of a Hell Hound, but Jessica was done listening at that point.
+
+On her way to Iris’s plateau, she checked her stats. She hadn’t gained any levels from the fights, as experience points were only rewarded for kills and sometimes for achievements. However, she did level up some of her new skills, and got some attribute rewards. She hadn’t checked specifically during everything because she was more focused on the fighting.
+
+She let the blue screen linger in front of her for a moment as she crossed the rope bridge, Iris padding along beside her.
+
+[Achievement Unlocked: Underdog’s Bite] Defeat an opponent 7 levels above you.+3 Vigor+3 Strength+5 Dexterity
+
+[Achievement Unlocked: Two As One] Execute coordinated combat actions with a bonded monster. Minor Bonus to All stats
+
+[Achievement Unlocked: Unbroken Line] Continue fighting after sustaining multiple direct hits in a single engagement.+4 Strength
+
+[Achievement Unlocked: Mercy Over Glory] Accept surrender without delivering a finishing blow. +1 Luck
+
+There were a couple warriors stationed as guards at the end of the rope bridge, as they’ve been keeping guards around Iris in case the Umarii tried to make another move against them. They both pounded their chests and nodded to Jessica as she passed them, showing a level of respect she had never gotten from any of the tribe before.
+
+When the tent was brought to her along with some bedding, she set it up, but before climbing inside, she stopped and stared up at the stars. Elva Wyrmascar—the real Elva Wyrmscar—would have been ecstatic about the day's events. Jessica wasn’t sure she felt like she necessarily achieved anything. She was just trying to survive.
+
+Then, Iris’s voice spoke inside her head. “What is a warband?”
+
+“Oh! It’s um…” she glanced across the plateau to the guards. They weren’t quite in earshot, but just to be safe, she began pacing to the far end of the plateau. “So I guess it’s like a group you fight with.”
+
+“Like a pack?”
+
+“Uh, yeah. But it’s different because…” She thought about it for a moment. “I’m not sure, really. I guess it’s kind of the same, but… No, I think a pack is just trying to live, and out in the wild, I guess that involves a lot of fighting together. But a warband is… the entire point is the fighting.”“They said others will be your warband. Does that mean you will be above them?”
+
+“Yeah… I guess that’s the idea.” Jessica stopped at the perimeter rope around the edge of the plateau, putting her hand on one of the posts. She stared off into the endless black of night below the Blood Peaks. “Valrok wants to remain leader of the tribe. He doesn’t necessarily want me to replace him. But I guess he wants me to be like, one of the main generals of the tribe—if it’s even called that.”
+
+“General?”
+
+“Leader. When fighting in a group, it’s the person everyone else listens to.”
+
+Iris seemed to be thinking about something deeply. Her white eyes stared off into the darkness beside Jessica. “If Valrok is killed… then you would replace him?”
+
+“Well… yeah. Again, that’s the idea anyway.”
+
+Iris looked up at her. “Then all these people. They will listen to you as they listen to him.”
+
+Jessica blinked. She couldn’t even imagine being in that position. But looking back at Iris, she could see the gears turning in the Hell Hound’s head.
+
+Iris turned her gaze back to the darkness below them. She did not voice whatever she was thinking.
+
+Jessica wasn’t a leader. Not in her last life, not in this life, and not with Iris. When they were fighting, it was Iris calling the shots, leading their way through the battles. They were only playing along with the illusion that Jessica—or rather, Elva Wyrmscar—was the one in control.
+
+Then that would mean, if Jessica were ever to replace Valrok, it would really be Iris directing things from the shadows. Jessica couldn’t help herself from gulping as that potential future entered her mind. And she had a feeling Iris was making the same calculation.
+
+Read Next Chapter Now!

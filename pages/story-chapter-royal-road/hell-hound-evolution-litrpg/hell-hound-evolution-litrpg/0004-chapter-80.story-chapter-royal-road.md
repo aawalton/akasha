@@ -1,0 +1,107 @@
+---
+id: a4a92667-4a39-54c4-b1d0-06209140ba23
+page-type-slug: story-chapter-royal-road
+title: "Chapter 80"
+slug: 0004-chapter-80
+partOf: hell-hound-evolution-litrpg
+position: 4
+ownLength: 2143
+unit: words
+publishedAt: 2026-01-30
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/2995010/chapter-80"
+royalRoadId: "2995010"
+---
+
+I woke the next morning with Lily curled against me, and her back warm and solid beneath my chin, softly moving up and down with her breathing. Grick, in turn, was using her as a pillow, one thin arm draped over her flank while he slept on his back. His pack sat open nearby, its contents scattered across the cave floor. Judging by the neat little piles of trinkets and coins, he had spent a good portion of the night inspecting his new treasures.
+
+I yawned and shifted, about to nudge Lily awake, but her eyes were already open. She looked up at me through her brow, and her tail began beating softly against the stone. Grick, on the other hand, was still fast asleep, letting out soft snores that ended in a long, whistling wheeze. I could almost picture a cartoon bubble inflating and deflating from his nose.
+
+I stood and stretched, working the stiffness from my limbs. Once Lily rose, Grick stirred as well, rubbing one eye with a small fist while his ears drooped along the sides of his head. I flicked my gaze toward the scattered treasures and gave him a short growl, telling him to get ready to hit the road soon. For now, I was going to go find breakfast.
+
+As I moved out of our temporary den, Lily trotted up beside me. “Hunt?”
+
+“Short hunt,” I answered. I just wanted something in my belly before setting out. A proper hunt could wait until later. Using {Pulse Sense}, I instantly spotted a few worthy candidates, their heartbeats blooming through the forest. Most were small rodents and birds, but I didn’t expect much else. I was hoping to find another of those Mossgrazers, but unfortunately, we had no such luck.
+
+Lily watched my gaze and body language for hints of where our next prey would be. I eventually poked my head through a bush to see a rabbit nibbling at some greenery, and I could tell the other nearby heartbeats that were still in hiding were probably rabbits as well.
+
+A few rabbits wouldn’t satisfy me for long, but I supposed it was better than nothing. I dropped low and began to prowl forward, but then something else caught the very edge of my Pulse Sense.
+
+I turned my gaze towards it. There were four of them, and much larger than rabbits, in the direction of the river. I turned away from the rabbit and started heading towards them instead. The little bunny probably had no idea just how close it had just come to being breakfast.
+
+Lily followed without question, matching my pace and keeping low. As we got closer, I used another {Pulse Sense} then eased forward silently to where the brush thinned. I paused to peer through a screen of hanging leaves, and that’s when I saw them.
+
+Four animals were gathered along the riverbank. They were about twice my size and standing on stubby legs. They looked almost like gazelles in terms of face shape, and each with a pair of thin, pointy horns rising from its head, but the proportions of their legs and bodies were all wrong for a gazelle. They had dark brown fur and little in the way of other markings. As one bent down to graze on some reeds by the river, I noticed it had a wide and flat tail, almost like a beaver. Then I noticed, also unlike gazelles, they didn’t have hooves. Instead, they had paws complete with claws on the ends and webbing between their toes.
+
+It was the middle of the day, and they were positioned in such a way that I didn’t have any confidence that we would be able to sneak up on them unnoticed. They seemed like they would be strong swimmers, so chances are the second we broke out of the brush to come after them, they would retreat into the river, where it would be impossible for me and Lily to swim after them. For that matter, it would be dangerous because we would be completely out of our element trying to fight in water. And while these creatures certainly were more prey than predator, those horns on their heads could still be a threat, especially if they were to gang up on us in the water, where mobility wouldn’t be on our side.
+
+So, the question was how to go about snagging one before they retreat? They seemed like they were settled into casually grazing by the riverbank for a while, and I didn’t want to spend too much time hunting breakfast and waiting for a better opportunity to strike. There was also no guarantee that when they were finally ready to move on, they wouldn’t just go into the water anyway.
+
+A sound beside me jerked my attention away from them. It was some kind of distressing cry, and it was so close I was alarmed for the simple fact I had no idea how something got so close to us without me noticing!
+
+But my racing heart calmed as I realized it was just Lily. She let out another cry that had no business coming out of a fanged muzzle. It wasn’t loud or threatening. Just the kind of noise something small and hurt might make when it was scared and alone.
+
+She stayed low as she did it, body tucked in. It was actually really creepy for how wrong it was to come out of her—it wasn’t doglike at all. But I instantly knew what it was. She was using her new skill, Cry For Help.
+
+The gazelle monsters all stopped their grazing, heads coming up in alarm as they looked towards us, then glanced amongst each other uncertainly. One of them batted its beaver-like tail against its thigh as Lily let out another distressed cry.
+
+Then, slowly, cautiously, they started coming towards us. I let a wolfy grin spread across my muzzle. Nice going Lily!
+
+I hunkered down, letting Camouflage take effect, just waiting for them to get close enough that I could snag one before they made their retreat.
+
+The one leading the pack inched closer and closer, and as Lily let out another cry, it suddenly ran right for us. It’s sudden motion motivation the others into action as well as they were right behind him.
+
+I waited.
+
+Almost…
+
+Almost…
+
+As soon as it was in striking distance, I leapt free from cover, landing my jaws right around its neck. It was bigger than me but was surprised from the sudden attack and I had an easy time twisting it down to the ground. It scrambled, kicking and clawing at me, but I kept a difficult angle on its neck as I dragged backwards, not allowing it to get a solid strike in.
+
+One of its friends charged with its horns, but Lily was there to intercept it. She snagged a leg right on the joint and twisted enough to make it cry out as it toppled over. Its cry was alarmingly similar to Lily’s, and it made me wonder just how her skill worked. She hadn’t heard one of these creatures cry out before, so the skill must automatically give her the sounds of whatever she is targeting.
+
+She split off a couple of shadow clones to distract the remaining two and stop them from bombarding us. They turned and retreated, then tried to attack, one of them spearing a clone right through the side, but of course it only disintegrated with no resistance as nothing was really there at all.
+
+I gave one final rip and pull that had my prey flailing its last, and the kill message popped up.
+
+Prey Eliminated! Lvl 7 River Gazellid
+
+No Experience awarded.
+
+Lily was still working on hers, so I went to confront the other two. They seemed to have realized they were outmatched here, so they turned to flee. Lily’s kill let out another cry that once again sounded like the one Lily had lured them with.
+
+I felt Give Chase taking effect, but as I bounded after them a few paces, I slowed down. I trotted down to a slow walk and then just watched as they escaped into the river, proving my theory of them being good swimmers as they made their way to the other side in seconds.
+
+Prey Eliminated! Lvl 6 River Gazellid
+
+No Experience awarded.
+
+I looked back towards Lily, who was panting happily with blood dripping from her muzzle. She turned her head as if asking me why I let them go. The two who were still alive just continued to watch us from the opposite riverbank. One let out a yell that sounded like more of a shout of rage than the cries we have heard from them thus far. The other nudged its neck with the side of its face sadly, then turned and began walking away.
+
+We were not going to be able to eat all four of them, and they were not even giving us any decent experience gains. So I realized I would be killing the other two for no good reason if I decided to pursue them.
+
+Still, I knew all too well how they must have felt. The difference between us is that a creature like that could never evolve and grow its strength enough to get revenge. At least I didn’t think so. But Lily and I were different. We were Hellhounds.
+
+In any case, Lily didn’t seem taken by any moral dilemmas, as she turned back to her kill, sniffed its fresh wounds, considered its limbs, and then finally opted for chomping into its belly. I suppose it was my past life as a human that had me occasionally considering the morality of my kills. Ultimately, I was a predator, and I had to eat, so it wasn’t exactly that I felt guilty. I suppose empathy might be the word, yet it didn’t feel right to delude myself into thinking being empathetic was any kind of virtue when it was over something I had caused and had every intention of doing again.
+
+I joined my sister, eating my kill and finding that it was another new flavor. It was most similar to the Riverling Mauler from the Skylight Cavern, but less oily. But it had a less fatty, more muscular texture. Maybe it was even comparable to Direwing apart from the faint river-tang that sat on the tongue.
+
+Mmmmm… no, I take that back. I reeallly like Direwing, so it wasn’t comparable. If it weren't for them being able to fly and me losing my ranged attacks with my new evolution, I would have eaten a few more of them before leaving the vale.
+
+I licked the blood from my chops, now feeling a little disappointed in my current meal, because I just couldn’t get those rich, meaty Direwing legs out of my head.
+
+Don’t worry! I’m not going to waste food!
+
+I shook off my daydream and started digging back in.
+
+When our bellies were full and muzzles freshly stained with blood, we doubled back to collect Grick. We found the little green goblin was already on his way upriver. He had his pack slung on his back, looking quite oversized for him, but he did not seem bothered by the load. “Puppies find tasties?” Grick asked.
+
+Lily gave an affirmative yip that gave me pause. Could Lily understand Grick now? I looked between the two of them as Grick walked over and patted her nose. “Good Puppy gets full belly! Don’t worry, Grick finds own tasties. Grick catch fishies later!” Lily accepted Grick’s pats with her head low and butt up in the air as her tail wagged. Despite the miasma constantly leaking from her paws and eyes in this current evolution, making her look a little more intimidating, she was still her usual cute self that completely belied her new appearance.
+
+Soon we were on our way again, and now that I had been struck by the idea of how much Lily understood, I watched her interactions with Grick a little more closely. I suppose it shouldn’t surprise me too too much, since she’s been speaking to me with short phrases through our pack bond. However, I had assumed that was more like her intentions being translated.
+
+Either way, Lily learning English would be really cool! My tail wagged at the possibility of us having a proper conversation one day. We understood each other pretty well even without speech, and even more so now with Pack Bond leveled up, but to share complex ideas or even just simple gossip with my little sister in the way only language could provide—that would really be something!
+
+“Puppy smells more tasties?” Grick asked, noticing how my tail wagged.
+
+I gave him a wolfy grin. Oh, it's nothing!

@@ -1,0 +1,127 @@
+---
+id: 86e28952-5ff8-5b1d-82a6-ccecae3d2b75
+page-type-slug: story-chapter-royal-road
+title: "197. Into the Darkness"
+slug: 0197-197-into-the-darkness
+partOf: god-of-trash
+position: 197
+ownLength: 2090
+unit: words
+publishedAt: 2025-09-25
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2628802/197-into-the-darkness"
+royalRoadId: "2628802"
+---
+
+Rhys had to duck to fit through the opening in the hut. His vision went pitch black the second he edged inside. He walked hunched for a few moments, then stood a little and realized there was nothing over his head. Cautiously, he stood, and struck nothing all the way up. The hut had only been about four, maybe five feet tall, but he was able to stand; wherever this was, it wasn’t physically inside the hut anymore. He walked forward, taking one step after another, though he wasn’t sure that he was moving at all. The darkness stretched in all directions, and spread equally in front of and behind him. He could have been walking in place, and he wouldn’t be able to tell.
+
+At last, a light appeared in the distance. He walked toward it, and it grew larger and larger. Experimentally, he stopped moving his feet, and the light stopped growing larger. At least I’ve established that I’m not walking in place. He resumed his approach.
+
+The light grew larger and brighter, until it was blinding. He held his hands over his eyes, shading them from the light. He had the sensation of passing through a door, and then brilliant light flooded the world around him. Rhys closed his eyes, squinting against the light while his eyes adjusted, then blinked, staring. This isn’t inside that stone hut.
+
+Or rather, it wasn’t inside at all.
+
+It was a trash heap, intimately familiar to Rhys. There was a sun, and land, at least a segment of it. The earth cut off sharply. It was a jagged chunk of land, with edges and crags, that appeared to have been yanked out of the ground and placed into this… this secret realm. He didn’t know another term for it. Alternate dimension? A tiny world, that was nothing but a floating chunk of earth swimming in an orb of blue sky.
+
+Beyond the limits of the chunk of land stretched… nothing. The sky, but that was obviously fake. Rhys extended his senses toward it, inspecting the false sky more closely. Mana tingled at the edges of his perception, and beyond that, a familiar mind-twisting empty sensation.
+
+He raised his brows. The void. It wasn’t exactly a surprise, but it was definitely what awaited beyond that vast, false blue. He hadn’t seen worlds floating in the void, but how much of the void had he seen? If the void was even a hundredth the scale of space back home, then the chances that he saw another object from his starting point was miniscule.
+
+And then Rhys froze and whirled. “Lira? Mouse? Sable?”
+
+He stood alone on the edge of the trash heap. There wasn’t another living being in sight. He closed his eyes and extended his senses as far as he could, but he didn’t sense a single person. Whipping around, Rhys turned to face the direction he’d come from, but if there’d been a door before, there wasn’t one now. Nothing but the edge of the chunk of earth waited for him.
+
+“You needn’t worry. Your friends are safe.”
+
+The hairs on the back of Rhys’s neck stood on end. He whirled again to find a handsome man with greasy hair standing behind him. It was the first time he’d seen the man standing, but he recognized him anyways: the man he’d met at the Impure Well. The one he’d questioned in mornings, before he’d vanished as unceremoniously as he’d appeared. The one who knew about the void, and Straw, the man who claimed to have nothing left but knowing.
+
+“You said you know how to find Straw,” Rhys accused him, having suddenly remembered it. The man had associated himself with the void the second time they’d met, and Rhys had been so interested in that he had forgotten one of his most important quests.
+
+“I do.”
+
+Rhys waited, but the man said nothing else. He gritted his teeth, remembering. He hadn’t spoken to the man in some time, for so long that the man had stopped appearing before him, and he’d forgotten why—but now he immediately remembered. It was because the man was an annoying asshole who didn’t know how to give a straight answer to save his life.
+
+“So… I don’t suppose you’re going to be helpful for finding the girls, either?” he said, crossing his arms.
+
+“I could be,” the man allowed.
+
+“I didn’t ask if you could. I asked if you were going to or not.”
+
+“The world rarely proceeds in absolutes.”
+
+“It does more often than you like giving a straight answer.”
+
+The two of them stared at one another.
+
+“If I guess who you are, will you help?” Rhys asked at last.
+
+The man tucked his hands behind his back. “I’ve already told you who I am.”
+
+“Desmond, right? We both know that’s not your real name. I mean who you really are.”
+
+There was a long pause. At last, the man hummed. “I’ll give you one chance. If you get it wrong, then I’ll do nothing, even less than I was planning on doing. If you get it right, then I’ll answer one question without holding anything back, no matter what it is. You can ask me about the void, about Straw… about your missing friends. If it is within my power and knowledge, then I will tell you everything I know.” He lowered his head, looking Rhys in the eyes. “Choose wisely.”
+
+Rhys took a deep breath. He looked over the man, compiling everything he knew into one. The man had first appeared by an Impure Well. He was associated with the void, and knew a lot about it. He was ethereal, likely somehow disembodied or otherwise dead in the physical world—someone who could no longer use their physical body. And he knew—not where Straw was, but how to find Straw. This was a man for whom words meant much. He chose every word and phrase intentionally—to obfuscate, but in such a way that wasn’t untruthful. It wasn’t a lot, but it was enough for him to take a guess.
+
+Plus… it wasn’t like Rhys was afraid of losing his help. If the man was planning to give his usual amount of help, then he’d simply waste more of Rhys’s time with riddles and nonsense than if Rhys were working alone. He’d be better off either way on the other end of this gamble, whether the man simply shut up and stopped doing anything, or actually decided to start helping. It was a win-win.
+
+But he wanted to get it right.
+
+“You’re the Demon King, aren’t you,” Rhys said, looking him in the eye.
+
+A low chuckle. The man eyed Rhys from the corner of his eye. “You’re not afraid of looking the sun in the eye, are you?”
+
+“Well, momma, that’s where the fun is,” Rhys replied.
+
+They stared at one another.
+
+Rhys coughed. “…As my homeland’s famous bards were fond of saying.”
+
+“You’re not from around here, are you,” the man said.
+
+“No, you could say that,” Rhys said, a playful grin spreading across his cheeks. He crossed his arms and gestured at the man. “How about this? Double or nothing. I’ll give you one chance to guess where I’m from. If you get it right, we return to base state. You owe me nothing, and it’s as if these wagers never happened. If you get it wrong… then I get two straight answers. What do you say?”
+
+The man—or rather, the Demon King—looked Rhys up and down. “I’ve been attached to you for longer than you know. I am aware of many of your secrets. Do you still wish to make this wager?”
+
+Confidence crept into Rhys’s grin. If the Demon King was bargaining, then he almost certainly didn’t know… but his pride wouldn’t allow him to turn down Rhys’s offer wholesale, either. He cocked his head back. “Go on. You’re the Demon King, who knows more than I could learn in my pitiful lifespan. Certainly you know what I mean by that question, no? Certainly you can figure it out?”
+
+The Demon King crossed his arms. He looked Rhys over the same way Rhys had just looked him over, and an odd light appeared in his eye. Rhys felt deeply scrutinized in a way he never had before, as if the Demon King weren’t just looking at his body and physical self, not just at his mana and core, but at something deeper, something else. At last, the Demon King spoke.
+
+“You’re not purely of this world. There is a part of you that comes from outside. A different realm. A… higher realm? Are you a child of heaven, perhaps?”
+
+Rhys cracked a smile. “Nope. That means two questions for me.”
+
+The Demon King narrowed his eyes. “Tell me the truth, then. What are you?”
+
+“I’m from a world called Earth. One with no magic. I reincarnated into this world as a child, and I’ve spent this entire life relearning everything I knew. There you go.”
+
+“Hmm.” The Demon King frowned slightly, but said nothing. At last, he nodded at Rhys. “Your questions.”
+
+“How can I rescue the girls?” Rhys asked, careful with his phrasing. He didn’t want to give the man a chance to wriggle out of his full answer. This man was as slippery as a fey or djinn from his legends back home, and though he had no supernatural geas requiring him to be maximally obnoxious to speak to, he seemed to get so much joy out of it that he might as well have.
+
+The Demon King spread his hands. “You don’t have to. They have no karma with this place, so they are unable to find it. They will wander the darkness until they wander their way back out of the stone hut. If they are foolish enough to re-enter it, they will face the same over and over again, until they give up.”
+
+“But I had karma with it?” Rhys asked.
+
+The Demon King gave him a look.
+
+“It is a trash heap,” Rhys allowed, nodding. It wasn’t like he was shocked to find out he had some kind of connection to this place. The place was full of trash, after all. Trash was kind of his thing. A moment later, he tilted his head. “But then, the other criminals who found this place…?”
+
+“Had karma with something within it.”
+
+Rhys nodded. That made sense. They weren’t called by the totality of this place, but by some particular artifact. It wasn’t as if he wasn’t familiar with the concept. There was an entire genre of trashy literature—often short stories, children’s literature, or both—about shops full of mysterious artifacts that chose their owners, and he’d indulged in many of them as a child or an adult. If any of the girls arrived here, then there was an object they needed… or that needed them. If they didn’t, then they simply had no use for this place.
+
+“I will graciously count that information as one question. What else would you like to know?” the Demon King asked.
+
+“I want to bank that question for later. When I’ve had time to think over what I really want to ask.”
+
+The Demon King nodded. “I will graciously allow it.”
+
+“Fantastic. Then… can you tell me your name? I can’t keep thinking of you as ‘the Demon King.’ Can you give me something else? You real name, maybe?”
+
+The Demon King eyed him. “You don’t even know my name?”
+
+Rhys shook his head. “I don’t know anything about you, really, except for what Bast told me as a kid, and what little I read in the libraries. Your name wasn’t really mentioned. They preferred to impress upon me how terrifying you were.”
+
+The Demon King shook his head. “These piddling… this is what I feared. It’s propaganda, not education, nowadays. The world eroded, just as I thought it would. Those fools didn’t understand. They thought they fought for freedom, but they fought for tyranny.” He thought to himself for a few more seconds, then sighed. “Daran. Not so different from what I told you, is it?”
+
+“The first letter’s the same,” Rhys snarked. Desmond, Daran, what’s the difference? Only literally every letter but one. I guess there’s an ‘n’ in both, but that’s really pushing it. Ignoring Daran, he turned to the trash heap. The girls were safe, and the Demon King was out-maneuvered. It was time to get down to his real reason for being here: the trash.

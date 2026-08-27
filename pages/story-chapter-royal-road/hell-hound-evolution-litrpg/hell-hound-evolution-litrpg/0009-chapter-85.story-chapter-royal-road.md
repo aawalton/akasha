@@ -1,0 +1,197 @@
+---
+id: c220691b-e98a-5d21-9e63-38223a2f972e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 85"
+slug: 0009-chapter-85
+partOf: hell-hound-evolution-litrpg
+position: 9
+ownLength: 2326
+unit: words
+publishedAt: 2026-02-11
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3037401/chapter-85"
+royalRoadId: "3037401"
+---
+
+Jessica never owned any pets. Back on Earth, her dad had said they couldn’t afford one. But on one of their trips to Utah to visit family, Jessica got to meet her cousin’s dog Jazzy. Jazzy was an excitable little husky mix, who Jessica had absolutely fallen in love with. Jazzy would bring over toys and goad you into chasing her, loved it when you rubbed her all over, and would go to sleep with her head on your lap.
+
+Iris was nothing like that.
+
+In fact, Iris was so not like that, even the fleeting thought of Iris doing any of those things caused Jessica to snort.
+
+Iris raised her brow as she led the way through the woods. “What is that sound?”
+
+“Oh uh… it’s nothing…” Jessica blushed, not sure how to explain. “I just had a random thought, is all.”
+
+“And that causes you to… make sounds?”
+
+Jessica blinked, still blushing. “Um… sometimes?”
+
+“For what purpose?” Iris pressed.
+
+Jessica sighed. Iris was always quite curious and would get fixated on many different random things, asking Jessica more and more follow-up questions. Why did she have to get fixated on this, though?
+
+“There is no purpose. It’s uh… involuntary.”
+
+“Involuntary?”
+
+Jessica rubbed the back of her neck as her other hand was busy balancing her spear over her shoulder. “You know, like a uh… Like when you flinch or sneeze? It’s something that just kind of happens!”
+
+Iris slowed to a stop, turning fully this time. Her ears twitched as she considered Jessica’s explanation, head tilting just a fraction.
+
+“You make noises without control…” In her eyes, Jessica could see how thoughtfully she was pondering over this. “Does this happen… often?”
+
+“Um, I guess uh… not really?”
+
+Seriously, why is she so focused on this?
+
+“Could it happen while stalking prey?” Iris’s white eyes stared at her seriously.
+
+Ah, that’s why.
+
+Jessica chuckled. “Oh, no! It’s like, that noise was me holding back a laugh. So it came out of my… uh. Anyway. I wouldn’t do that in a serious moment, like during a hunt. It’s just, I thought of something funny, and it made me want to laugh!”
+
+“What thing did you think?”
+
+“Well… I was thinking about a dog I used to know—uh dogs are kind of like Hell Hounds but not fighters, at least, this one wasn’t. She was more like a pet and…” Jessica sighed, feeling lost in the weeds with her explanation already. “Anyway, her name was Jazzy and then I thought of you and… um…” her words trailed off.
+
+Iris stared at her, unblinking. “You were thinking of… comparing me to Jazzy?”
+
+Jessica froze for half a step. “What? No! I mean. Not really. I was just thinking about dogs, and then I thought about you, and then my brain went, ‘Oh, wow! That is very much not the same thing!’ So I just kind of… laughed.” Jessica chuckled nervously.
+
+Iris stared a moment longer.
+
+“Do not think of Jazzy when hunting.”
+
+With that, she turned and continued to lead the way.
+
+Jessica let out a sigh of relief as she was finally let off the hook.
+
+Iris continued sniffing at the ground and searching out their next kill. They had been walking for a while at this point, and usually Iris would manage to track something much sooner than this. Jessica idly checked her mask, which was tied to her waist. She had been less inclined to wear it since being dropped out here in the wilderness. Back at the Bloody Peaks, she liked having it on for the anonymity it provide, but she would still put it on before a hunt since it did provide protection for her face and neck.
+
+In her opinion, the masks weren’t fully designed for defense. If that were the case, some kind of helmet would be better. It was more for intimidation or even symbolic reasons, than totally practical. Still, it had saved her from more than one claw or glancing strike. In this world, injuries could heal much faster even on their own, but without a healing potion, any scars would be permanent, and she really didn’t want to end up with any scars on her face or maybe even permanently losing an eye.
+
+Iris slowed again, this time ears flicked forward, then angled slightly to the side. She seemed focused.
+
+Jessica followed her cue, shifting her weight as she steadied her grip on the spear. She watched Iris closely, trying to read the subtle changes in her posture.
+
+“Large monster. Powerful. Not prey.”
+
+Jessica gulped as her free hand reached for her mask. “Okay, so… we should steer clear, right?”
+
+“We hunt.”
+
+Jessica was afraid Iris would say that. “But if it’s not prey… Um, how strong are we talking?”
+
+“The first night. When we slept. A large monster moved near us.”
+
+“It’s that one?” Jessica asked, thinking back to their pathetic first night out in the wilderness when they crawled into a hollow of vines and roots. Something huge had walked by so closely that Jessica hadn’t even dared to breathe.
+
+“That one,” Iris confirmed.
+
+“But why pick a fight with it if we can avoid it? There are probably safer ways to get food and level up.”
+
+Iris turned enough to look at Jessica. “Your promise. We would get stronger and kill Valrok.”
+
+“It was a half-promise, remember?” Jessica hissed through her teeth.
+
+The look Iris than gave her made her instantly feel guilty. It was somewhere between betrayal and I should have expected as much.
+
+“I didn’t mean that!” Jessica quickly corrected. “I really was being serious before.”
+
+Iris seemed to accept that as she looked forward again. “I do not care for Valrok’s mission,” Iris said. “But to kill stronger monsters, we grow stronger. To level up from weak monsters, there is less strength.”
+
+“Yeah… I know that.”
+
+It was thanks to the System granting achievements. They sometimes seemed rather random, but those rewards only seemed to come when you legitimately did something impressive, or at least something you had never done before.
+
+“Valrok is strong, but fights as a coward.” Her jaw tightened. “My father was stronger… fought with honor. But Valrok is still strong.”
+
+Jessica nodded guiltily.
+
+“To kill. We must become strong.” Iris’s paws tensed against the dirt. “I do not want to wait. Every day, I smell new blood on him. Valrok hunts. He grows stronger. If we are slow, we cannot reach him.”
+
+“That’s… true…” Jessica muttered. It seemed Iris had been thinking deeply on this. While Jessica had agreed to help Iris in her goal of killing Valrok, she couldn’t honestly say she had the same resolve behind her words that Iris possessed. Nowhere close, really.
+
+It was too alien of a scenario for Jessica to even get her head around. She couldn’t even imagine it, let alone plan for it. But Iris had been. She had been considering Valrok’s strength, and realized what she would need to do if she were ever to reach him. Revenge was her sole focus, probably even before she gained the ability to talk to Jessica. She had been thinking about this ever since the day the Bloody Peaks Tribe attacked her pack, and Jessica realized Iris had likely been considering Jessica’s value as an ally in this goal for a while now.
+
+Technically my wish of one day getting a dog has come true, but how could I imagine it would be anything like this?
+
+“You consider Valrok… pack? Family?” Iris questioned.
+
+Jessica instantly shook her head. It wasn’t a lie. “No. He’s not.”
+
+“Yet he sees you this way.”
+
+“He… It's complicated, but he thinks I’m his daughter.”
+
+“Complicated?” Iris’s head turned.
+
+“Complicated… it means, um, something that's…” Jessica waved a hand frustratedly in the air. “Nevermind. Basically, you know how everyone calls me Elva? That’s because they think that’s who I am, but I’m not. I don’t know why, I think Elva died, and for some reason I woke up as her. I had a completely different life before then.”
+
+Iris turned her head, clearly not understanding completely, but she mulled over Jessica’s words. “Valrok sees you as child. But you are not.”
+
+“Elva was his daughter. Ah—that means someone’s female child, girl child. A boy would be called a son.”
+
+Iris seemed less interested in the english lesson at the moment. “So to you, he is nothing.”
+
+“Yeah…”
+
+“To Valrok, you are daughter.”
+
+Jessica nodded, then felt an odd tug at her heart at how Iris’s tail gave a soft wag at the clarification.
+
+“This is good.” With that, the Hell Hound pup turned and continued to lead the way.
+
+Jessica hesitated a moment, feeling her blood pressure rise as she unhooked her mask from her belt and brought it to her face. She stared into its hollow side for a moment before placing it.
+
+She didn’t like Valrok. She abhorred what he had done to Iris’s family, couldn’t stand the expectations he placed on her, and did not see him as a good person in the slightest. Yet, he saw her as his daughter, and though he was harsh, she sensed the love he had for her, though she felt none for him in return. It was one thing to pretend to be Elva—she didn’t really have a choice—but to plan the murder of a person who saw her that way?
+
+Planning a murder in the first place was way too heavy already. Everything about this new life was. But that was on a completely different level. Yet… not doing so would be a betrayal to Iris.
+
+She remembered the vale. The mother Hell Hound bound in ropes, tortured in front of her pups for any sign of defiance. Iris had used her eye beams in defense of her mother, and would have shared in her punishment had Jessica not thrown herself over the cage.
+
+Now Iris was forced to live among the people who had done this. Who had destroyed her entire world. Jessica hadn’t caused any of it, but she still felt responsible.
+
+She placed the mask over her face, tightened the strap, and moved forward, quickening her steps to catch up with Iris.
+
+They pushed deeper into the trees, the air growing thick and damp as the canopy closed overhead. Iris moved easily, nose close to the ground, her gait silent. Jessica followed more carefully, boots crunching softly against dead leaves no matter how hard she tried to step lightly.
+
+After a few minutes, Iris slowed.
+
+“There,” she said, voice low. “Ahead. Near the water.”
+
+Jessica tightened her grip on her spear and crept forward until she could see it too.
+
+The monster stood in a shallow clearing where a stream cut through the earth. It was massive, easily three times Jessica’s size, and vaguely humanoid. Like a monstrous tree man with a hunched back and layered plates of dark, bark-like hide. Thick arms ended in clawed hands that ripped apart something that it had recently killed. Bones snapped between its teeth, not even bothering to pick around them.
+
+“Y-Yeah. That’s… definitely… ummm…” She swallowed hard.
+
+“A worthy hunt,” Iris finished calmly.
+
+Iris’s ears flattened slightly, eyes glowing faintly as heat built behind them. “Stay behind. I will blind. You attack and retreat. When it focuses me, you attack again.”
+
+Jessica nodded, heart pounding. Don’t freeze. Don’t freeze.
+
+She had grown confident in hunting ordinary things, but now with that behemoth of a monster in front of her, she felt like this was a huge mistake. Could she talk Iris out of this? She looked down at Iris who had a calculating gaze as she watched the foe.
+
+Maybe I should try. I mean… this is crazy, right?
+
+Jessica opened her mouth.
+
+Then Iris moved.
+
+Before Jessica could say a single word, the Hell Hound was bounding forward. Wings of light erupted from her back as she took flight, letting out a threatening bark to draw the monster’s attention.
+
+As it turned, Jessica saw its face for the first time. It was a nightmare of jagged angles and layered armor. Plates of bark-like hide framed a wide, blunt snout split by a mouth full of thick, uneven teeth. Moss and clotted blood clung to its jaw, and when it lifted its head fully, Jessica realized its eyes were small, deep-set, and black with a dull yellow glow in the center.
+
+It let out a roar as it tossed a mangled leg of the poor animal it was eating at the ground. But before it could do anything, a halo appeared over Iris’s head. Jessica shut her eyes to avoid getting blinded as well, and a brilliant flash of light erupted from the Hell Hound.
+
+The monster reared back, covering its hands over its face and snarling. Jessica peeked past her fingers as the Halo Flare dissipated to see Iris swooping down and blasting the monster’s face with Lumen Burst. It let out another roar and staggered backward, sweeping a claw at Iris to try and knock her out of the air, but she tucked her wings in and barrelrolled out of its reach before swooping up again and taking angle for another attack.
+
+Jessica was frozen for a moment, watching as Iris came in just close enough to attack again while staying out of its reach. Compared to the pup, the monster was a giant, and it was surely higher level than both of them, but she was holding it back with such skill!
+
+Jessica placed both hands on her spear, tensing, noticing Iris glance her way as if asking, “What are you waiting for!?”
+
+Jessica was scared, but somehow, not as scared as she should be. Seeing how brave Iris was stirred confidence in her. Behind her mask her teeth clenched as if trying to bite off the last of her fear, and she charged forward, raising her spear.
+
+Read Next Chapter Now!

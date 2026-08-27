@@ -1,0 +1,95 @@
+---
+id: 98242cf5-526f-5a49-b8a1-f2b93910bea5
+page-type-slug: story-chapter-royal-road
+title: "247. Get 'em, Boy"
+slug: 0247-247-get-em-boy
+partOf: god-of-trash
+position: 247
+ownLength: 2017
+unit: words
+publishedAt: 2025-12-12
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2842749/247-get-em-boy"
+royalRoadId: "2842749"
+---
+
+“Let’s go get ‘em, boy.”
+
+The men charged, and Rhys… Rhys lounged. From all directions, men raced toward him, drawing swords, axes, hammers, or even firing strange magics toward him and his skelly boy. He lazed in their midst, supremely unconcerned even as the weapons and magics closed in on him. As the first man reached him, Rhys lazily reached out and tapped the flat of the sword hurtling toward him. To the man, it looked like just a tap, but Rhys forcibly imbued the maximum dosage of impurities in that single moment.
+
+The sword shattered. A thousand razor-sharp shards of metal flew in all directions. Rhys flicked his fingers, manipulating them to blast the sword-wielder in the face instead. The impurities he’d forced into the shards squeezed off in the man’s wounds, leaving him with a buckshot blast of his own sword and a body full of impurities. He trembled, then hit the floor, convulsing to his death.
+
+He pointed at the hands, the ones caging in who was presumably the leader, and the hands bore downward, pressing the man to the floor. One of the underlings shrieked in horror and ran to their leader’s rescue, only for the hands to vanish just long enough to capture the underling, too. Both underling and leader were held prone on the ground, unable to break free.
+
+Rhys left them to their struggles and turned back to the battlefield. A man with a hammer swung toward the back of the skeleton’s head, only for the skeleton to spin its skull around a full one hundred and eighty degrees and catch the hammer in its teeth. Rhys imbued it with a surge of Tier 4 power, and the skeleton slammed its teeth shut, shattering the hammer.
+
+A glowing ermine, lit up in bright red, leaped nimbly up the skeleton and went for Rhys’s throat. I know a professor who’d be very excited to see this, Rhys thought, as he caught it out of the air. The construct struggled in his hands, until he injected it with impurities. Then it sagged, on the verge of death. Rhys clenched his hand, meaning to kill the construct, then thought again. He delved into the depths of the spell, which he now owned, thanks to the thick impurities blackening the once-red ermine, and sought out its control mechanisms. Time seemed to slow as he focused all his attention and energy on this one object.
+
+Most of the spell was complicated mana channels, shaping, and intent he didn’t understand, but the control mechanism was clear enough: a powerful tether of mana going back to one of the attackers. Rhys went to cut it off, then had an even better idea. He hijacked it and forced it to flow backward with his superior force of mana, and then, as the mage on the other end stopped in his tracks and spat blood, he forced a glob of impurities through the link. The mage’s eyes widened, and he tried to cut off the link, but Rhys was now fully in control of it, and there was nothing he could do to stop it. Impurities slammed into his body, blackening his veins and corrupting his flesh, and he crumpled slowly as they tore through him.
+
+Now in full control of the ermine projection, Rhys sent it forth. It leaped out just as the man with the axe reached him and clawed its way up the man’s arm to its throat, leaving behind little impure footprints the whole way. The man batted at his body, his eyes wideneing, and Rhys saw exactly why the ermine-user had been using an ermine: the little, lithe body easily whirled around the man’s arm, evading his clumsy strikes, and the tiny thing was on his body, well inside the strike range of his axe, so he couldn’t bring his primary weapon to bear on the now-black ermine.
+
+And then it crawled into the throat it had torn open and kept tearing, all the way inside the man’s body, and Rhys stared on in horror. Holy shit! I didn’t know it would do that! I’m sorry, man. I just hijacked this thing, I didn’t know it was going to eviscerate you from within!
+
+While the ermine wriggled around inside the man, biting and clawing and tearing, and the man screamed in pain and horror, batting at the lump of spell inside him, Rhys turned to the remaining men, only to find them retreating at speed. He frowned. “Hey, hey, hey. Who tried to set a trap on who, huh? Get back here!”
+
+Gesturing, he ordered the skeleton to stop them in their tracks. The skeleton lifted its foot and stomped. A ridge of bones pierced through the earth from its stomp, chasing after the men. When it reached them, it jabbed up through their feet, tearing their feet and ankles to bits. The men screamed and fell over, crawling away, only for the bone spurs to now tear into their entire bodies. The skeleton’s eyes glowed, and the spurs retracted toward Rhys, pulling the men in with them.
+
+Rhys raised his brows. Huh. I’m learning so much right now. He hadn’t known the skeleton could do that, either. He was mostly a physical or impurities fighter, which meant he hadn’t really explored the limits of his curses or spell projections before. But now… he was kind of thinking he wanted to exactly that.
+
+He whirled his hand, recalling the ermine from the ruined body of the axe-wielder. Extending his legs at last, he climbed out of the skeleton’s hold and walked over to the cage of bones and looked down at the leader and underling. The black ermine crouched on his hand, gazing down at them with glittering obsidian button eyes. Smiling pleasantly, he tossed them a nod as though he were a friendly neighbor. “Hello. Would either of you like to tell me who sent you here, what the purpose of the filth pillar was, and why you attacked me when I destroyed it?”
+
+The underling bared his teeth in defiance. “You’ll never hear me—”
+
+Rhys gave a silent command, and the ermine burst forth. It swooped into the underling’s mouth and started doing what it did best. The underling screamed until he couldn’t anymore, and then he just thrashed silently in pain.
+
+He looked at the leader and smiled. “What about you?”
+
+The leader narrowed his eyes and said nothing.
+
+Hmm. There’s potential there, but I bet he won’t speak while his men live. The men were devoted to the leader’s cause, whatever it was, but the leader was the cause. With the leader around, the men were less likely to talk; conversely, with the men around, the leader wouldn’t talk. But without the men, the leader was just a man, and he was pretty sure the leader would buckle to save himself. He hadn’t at all reacted to his underling’s death, after all, even though the underling had thrown himself into a curse to save the leader. Devotion flowed one way in this gang of thieves.
+
+The underling finally struggled his last, and Rhys recalled the ermine. It hopped up his robes and snuggled to his neck, cuddling against his chin. He petted it, very pleased with the little construct. Maybe I’ll just take this. I mean, it’s not like its owner is using it anymore, right? So it’s mine now. I just have to figure out how to keep it around. Magical constructs usually didn’t last more than a few moments. He’d been constantly feeding it mana to keep it from fading, and it wasn’t like he could keep doing that forever. The real answer was to learn the technique that summoned the construct, but he didn’t feel like doing that. He was all about the lazy, trashy way to accomplish things, and actually learning a technique wasn’t lazy or trashy at all.
+
+He walked over to the mages caught in the skeleton’s bone spurs. “Any of you feel like talking?”
+
+“Never! We’ll die first!” one of them shouted.
+
+Rhys freed the ermine, granting that man his wish. The other two men looked a little less certain, as blood and gore splattered over them from the ermine’s hard work, and their fellow man screamed and convulsed beside them. He turned to them. “Well? Do you two also want to die? Or do you feel like talking?”
+
+One of the remaining two men scoffed defiantly. “Your weapon is bound up in him! I’m not going to—”
+
+“Shh. Shhhh.” Rhys crouched, putting a hand over his face. He emitted impure smoke from his hand from the wildly burning trash star and forced it into the man’s eyes, nose, and mouth. The man choked, then coughed and spat, but he couldn’t force the smoke out of his body. It swirled into his mana core and corrupted the mana whirling there, slowing and gunking up his internal workings until they all fell apart. Blood spurted from his orifices, and he choked on the blood and smoke together until he died.
+
+He turned to the final man, shaking his head a little. “You worked hard to reach Tier 3. I know how impressive an achievement that is. Do you really want to throw that all away?”
+
+The man gritted his teeth. He shot a look at their leader, still trapped under the bone claw. “I—I won’t give anything up!”
+
+“Kaaaay.” Rhys snapped his fingers. The ermine burst out of the current man’s stomach and dashed across to the remaining man.
+
+The man screamed in horror. He raised his hands, but to no avail. The ermine dug into his stomach and burrowed inside, leaving a pile of pink gore behind it. He screamed louder, clawing at his stomach and even attacking it with magic in an attempt to rout the ermine, but the ermine dug on, with Rhys’s magical assistance. At last, the man’s eyes rolled back and he went limp. The ermine reappeared out of his mouth, shaking its little head cutely, then hopping over to Rhys’s side. Since it was a magical projection in the first place, it didn’t actually have any fur, so it remained completely clean and gore-free, even if it left black-and-red footprints of impure blood behind it all the way until Rhys picked it up.
+
+“C’mere, cutie.” He petted the ermine’s head as he walked back over to the leader. He crouched down so he was closer to the man’s eye level.
+
+“I’ll never say anything,” the man hissed through gritted teeth, glaring daggers at Rhys.
+
+Rhys sighed. He shook his head. “It’s okay, my friend. You don’t need to pretend any more. None of your men are alive. You can be the coward you know you are. Between you and me, I saw it from the first moment you charged. You’re pretending. Pretending so your men don’t see your weakness. But now they’re all dead, so you and me? We can be our honest selves with each other.”
+
+“Fuck off.”
+
+“Okay.” Rhys held the ermine forward. It leaped down his arm toward the man, its little dark eyes glittering in excitement.
+
+“Wait, wait! I’ll talk!”
+
+Rhys called the ermine back. It chittered in disappointment and climbed back up to nestle on his shoulder.
+
+The man sighed, then opened his mouth. Energy suddenly churned within him as he pointed his energy at itself, trying to self-destruct.
+
+Rhys slammed his hand down. He pushed impurities into the man, clogging up his mana passages and core with thick, gooey gunk. The rioting energy within the man was forced to slow, and the self-destruct aborted.
+
+The man’s eyes widened. True panic appeared on his face. Every escape route had been cut off from him now. It was just him, Rhys, and the ermine.
+
+Rhys lifted his hand off the man’s face and smiled sweetly again. “So… want to cut the bullshit and talk? Or should I just let my friend do what he does best?”
+
+The ermine chittered in excitement, darting back and forth on Rhys’s shoulder.
+
+The man stared. “Uhh… I, uh…”

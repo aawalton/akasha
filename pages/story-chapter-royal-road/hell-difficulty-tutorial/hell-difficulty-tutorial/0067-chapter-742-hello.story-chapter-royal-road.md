@@ -1,0 +1,275 @@
+---
+id: 247e634f-79f9-5dba-ac28-b546a060341f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 742 - Hello"
+slug: 0067-chapter-742-hello
+partOf: hell-difficulty-tutorial
+position: 67
+ownLength: 4108
+unit: words
+publishedAt: 2026-02-02
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3006697/chapter-742-hello"
+royalRoadId: "3006697"
+---
+
+The rest of my time before the tournament, I spend in Beyond, only returning to the ninth floor to go over some things with Lily or to observe the projects Maya and Sophie have been working on with thought acceleration. I take a lot of notes from that, adding everything to my own preparations.
+
+Biscuit moves with me in and out of Beyond as he wishes, and during these weeks, he becomes infamous in the Headquarters of the Primordial Knights. I often sense his primordial energy as he "plays" with yet another one of the countless demons who’ve been throwing themselves at him.
+
+While I notice different, challenging looks from demons turning my way after the Humility event, the looks they give Biscuit are adoring, almost loving. I’m sure these lunatics would die for him if needed. Or try to steal him, but they can make the attempt over my dead, cold manaless body.
+
+As expected from the future overlord, Biscuit is taming these lunatics so easily.
+
+There was an incident when he and I visited the third floor of Beyond, and Doc tried to grab him and sprint into the lab while screaming excitedly, but we don’t talk about that.
+
+After that, I slip into a steady schedule. Training, preparation, experimentation, item crafting, visits from Ruby every now and then, Biscuit time, dueling demons, examining items I acquired from the Ancient Armory, and the low pristine armor from the guild master of the Eternal Clowns.
+
+It all feels comfortably busy, even though at times it feels like it’s a bit too much.
+
+I also sell the named residence I got from the event and manage to get ten million shards. Seven million I get right away, two million coming in a year, and the last million a bit later. All the transfer fees are handled by the buyer, whoever they are. I could probably have gotten better value if I tried, but I chose shards instead of materials or items.
+
+Combined with the many items I sold through the auction, the ones I crafted and sold, even after managing to create a few low arcane items and one mid arcane with help, I’ve gathered a lot of shards.
+
+I mean, it’s really a lot.
+
+Just a few days before the tournament, I spend twenty two million of them and buy a low pristine passive.
+
+These passives are a bit different from previous grades, and there are fewer of them. While I can see thousands of arcane passives, there are only a few dozen pristine ones available. According to the information I purchased, the pristine passive offerings are tailored more specifically to me, and the system provides them based on my performance.
+
+Ruby congratulates me, saying I am one of the few attendees to receive a pristine passive and also one of the youngest, since I achieved it so much earlier than most. Getting such a powerful passive should influence my body upgrade as well.
+
+With that all, my shards now sit at a mere four hundred fifty thousand, but I don’t feel bad about it at all.
+
+The last few days feel longer than before. Where before a week felt like it passed in a blink, it now feels like a single day has stretched into a week. Yet even with that, I have a feeling that I won’t find enough time to do everything I want. So I make the only smart decision.
+
+I take a break for one entire day during which I push everything into the background.
+
+I do not train, I do not experiment, and I even force my curious mind to shut the hell up so it doesn’t drag me into some new construct idea sparked by seeing a random attendee walk past with an interesting mana signature. For the morning of my rest day, I become the laziest creature to ever exist, or at least close to it.
+
+Waking up at what feels like three in the morning, I go right back to sleep to get my eight hours, even though lately I only need two to four hours to function at my best. Biscuit, who syncs to my sleeping schedule, takes advantage of it and climbs into my bed, now the size of a labrador, and we fall into dreamless sleep again.
+
+When the morning finally comes, I spend two more hours in bed, just lazing around, covered under the blanket, closing my eyes until I drift into that comfortable state where I feel like I might fall asleep again, even though I know I won’t.
+
+After that comes breakfast, made from the food I bought the day before. In my gecko pajamas, Biscuit and I leave my room in the guild headquarters and move to the small kitchen nearby, which, even at this time of day, is completely empty.
+
+Here, Biscuit gets his ancient deer jerky with a side of sparkling water. He barks at that water a few times as it “bites” him. Meanwhile, I make a simple omelet from whatever egg this happens to be, it’s as big as two of my fists, but it tastes just like a chicken egg. I add a fresh pastry, and for dessert, I eat one of my last Earth chocolates while Biscuit gets one of the expensive dog treats he enjoys.
+
+I don’t even wash the dishes, I just leave them in the sink.
+
+Then I return to my room and sit on the balcony, enjoying the light on my skin with Biscuit in his puppy form resting on my lap. It is one of the most beautiful days I’ve ever had on the fourth floor. A light breeze presses against me, the air carries a touch of chill, yet the light keeps everything comfortably warm.
+
+Later, during that day, I visit Weslin, where we talk about random stuff. I meet Ruby and Kindness in the city, where they make me buy them a sweet drink from a street vendor. I can’t help myself and try to ask about the third tournament, but everything gets censored again.
+
+I spend a few hours with Tess, Lily, Leticia, Luna, Jean, and Spacepup, who’ve finally reached the fourth floor as well. It is the first time Luna meets Biscuit, who is in puppy form, and she keeps moving around him, speaking in that creepy way where her maw hangs open, and a human woman’s voice comes out without actually moving her mouth.
+
+The golden retriever doesn’t seem to know what to think of the corgi, switching between playful excitement and raising the fur on her neck in fear. Biscuit, in sync with my laziness, ignores it all and just dozes on my lap, burping once in a while with how much deer jerky he ate today.
+
+Jean especially catches my curiosity when I notice the ambient mana reacting in a strange way as it comes into contact with his body. Usually, I would try to estimate his strength since, in my eyes, he is more interesting than many others because he’s a single stat enjoyer, but not today. Still, it is easy to see that he’s gotten much stronger since last time, and his Physique and all the mana around him seem… I force myself to stop.
+
+No one talks about anything tutorial oriented, and instead, we keep the topics casual. Favorite movies and shows, funny situations from Earth, past money problems, countries they visited, what they saw there, and the foods they tasted. They argue about whether Hawaiian pizza should be allowed to exist and which brand of candy is the best.
+
+Sometimes I join the conversation, but most of the time I sit and listen with my hand running down Biscuit’s back.
+
+When I feel like I’ve had enough socialisation, I stand up and say goodbye to all of them, thanking Jean for letting the day pass without a challenge, something that seems to surprise him, but causes him to smile and energetically tap my back with his huge hand. I don't mention that it cracked a few bones.
+
+Back in my room, I pull out the tablet I got from Izzy, connect the external hard drive to it, and play the pirated version of The Lord of the Rings. All three movies, and obviously the extended editions. Biscuit watches with me, his eyes following the screen with curiosity, and once in a while, he reacts to what’s happening on screen. He barks in anger, stares in awe, or makes sad noises.
+
+The day ends, and as the next one begins, I open my status.
+
+Name: Nathaniel GwynTitle: Champion CandidateDifficulty: HellRank: A, Shimmering SilverGuild: Primordial KnightsFloor: 9 - The PitTime left until forced return: 2y 1d 1h 19m 36sTraits (2/3): Mana Wavelength Iris 2/3, Mana Physique 2/3
+
+Lvl 349Strength: 315Dexterity: 293Constitution: 476Mana (Stage 1/3 - Vast Mana): 1753 + 1753
+
+Primary Class: Mana Weaver (Unique Arcane)Sub-class: [Adept of Pride]
+
+Active skills (9/10):Focus - Lvl 74Perception - Lvl 70Redistribution - Lvl 71Mana Manipulation - Lvl 75Ley Line - Lvl 69Eclipse (Pride) - Lvl 59Empyrean Lance - Lvl 35Manifestation - Lvl 25Accumulation - Lvl 49
+
+Constructs:ReinforcementMana RegulatorMana Sovereignty MantleKinetic Mana HeartSealed Ignition Heart (Partially Sealed, 2/3)Mental FrameThought Maze CircuitThermal Flux Regulator
+
+Passive skills (5/5):Mana Kinetic Conversion Reservoir (Unique Epic)Mana Wavelength Tyrant (Mid Arcane)Subdermal Combustion Weave (Mid Arcane)Mana Wave Predation (Unique Arcane)Cognitive Hyperprocessing Vector (Low Pristine)
+
+Tokens:Send a single item to your disciple (up to epic rarity)Passive skill combination token (low arcane)Beyond visitor token - 1 year (unlocked after tutorial)Beyond 14 day stay tokenBeyond 7 day stay tokenBeyond 30 day stay tokenShards: 449,606
+
+As I check my status, I go through the other windows I have access to. In between them, I check all four Beyond rankings, with one of them especially grabbing my attention. The one that only resets once a thousand years, and will reset soon, in probably twenty to thirty years.
+
+Exploration Leaders 1. Christoph (6th Floor) 2. Adrian (6th Floor) 3. Voss (5th Floor) 4. Nyssa Volare (5th Floor) 5. Orion (5th Floor) 6. Zenith (5th Floor)
+
+Closing the window, I move toward the Quiet Circle, whose location I’ve finally been told, and sacrifice fifteen stats in Constitution to enter the fifth floor of Beyond.
+
+I do not stay there, not even for a few seconds, and I head back to the fourth floor of Beyond in Megacity.
+
+Then I return to the Quiet Circle, where I sacrifice another fifteen points in Constitution to step onto the fifth floor, only to leave again.
+
+Instead of sticking to my earlier plan, I push myself much further and keep going back and forth.
+
+In total, I do it 25 times, which lowers my Constitution from 476 to 101, and I gain 100,000 shards from the quest each time I repeat it.
+
+The difference is noticeable right away, but it’s something I expected. The subminds I created for this task activate, taking care of the wildly roaring mana and my body as it weakens even further.
+
+I use a few active skills and observe the process to see if anything feels different, but it’s not as simple as that. It will take time for my body to adapt to my active skills again, even though my body is much weaker now and my skills feel more powerful in comparison.
+
+Just a few hours before the tournament starts, I exit Megacity once again and teleport to a cave where I left a mark after buying information on the enormous number of powerful monsters located there. It is around twenty miles from Megacity, but I am more than capable of long range teleportation when I need to be.
+
+Once there, I pull all the mana accumulated in the crown I’ve manifested over my head, something I have been gathering for over a month, and I watch the time tick down.
+
+Just a few minutes before the moment arrives, I start moving all that mana and create a cube in front of me. I chose that shape because of my recent experimentation. In the shape of an orb, mana can gather and remain stable, but a cube makes it bounce wildly against the inner walls. It becomes more unstable, much harder to control, and the final explosion grows stronger. I suspect that a pyramid would increase the effect further since evil pyramids were always the most difficult shape for training, but I’ll leave that for future testing.
+
+It’s time to level up. I’ve been holding myself back for way too long.
+
+The air around me starts shaking as I channel all that mana and continue to hold it in that shape. The cube is pale blue and transparent, and the mana inside keeps bouncing, spinning, and moving unpredictably. Through the sheer amount of interference it compresses, becoming tricolored, and I push further until small sparks of gold and white appear in the core, glowing more brightly than everything else.
+
+Mana radiation in the area rises, something I can see with my eyes and feel as a sting on my skin. A low shimmer rolls outward as mana bleeds into the air, warping the light and leaving the ground cracked where the pressure hits hardest. The closest trees sag as if under a sudden weight, and the air thins, pushing steady, audible tremors rolling through the area.
+
+This cube is the most powerful attack I’ve made so far without any doubt. And I just chuck it down into a deep, long, dark shaft where it lights up the walls as it falls. Then I teleport back to Megacity and watch from a distance.
+
+I know the shaft is very deep and the monsters occupy caves across a wide area, so I don’t expect to see anything from here. Still, I know what an explosion going off that deep looks like, and I want to be sure.
+
+I count thirty seconds, and then the notifications start appearing.
+
+From twenty miles away, I see a thin tricolored line stab into the sky over the canyon’s ridge, so straight it looks as if it could have been drawn with a ruler. The blue outer glow stretches higher than the nearby clouds, while the gold and white core flickers like a pulse running through a vein.
+
+[You have defeated Deepcore Mauler - lvl 399]
+
+[You have defeated Ironshell Behemoth- lvl 386]
+
+[You have defeated Deepcore Mauler - lvl 403]
+
+[You have defeated Basalt Tyrant - lvl 402]
+
+...
+
+[Lvl 349 > Lvl 350]
+
+[You have defeated Deepcore Mauler - lvl 396]
+
+[You have defeated Ironshell Behemoth - lvl 401]
+
+[You have defeated Deepnight Harrower - lvl 406]
+
+[You have defeated Deepnight Harrower - lvl 399]
+
+...
+
+[Lvl 351 > Lvl 352]
+
+[You have defeated Basalt Tyrant - lvl 389]
+
+[You have defeated Netherbite Colossus - lvl 415]
+
+...
+
+Notifications keep popping up for a while, rapidly one after another, until after a few minutes, they slow down to one every few seconds, then to even longer pauses later on. Finally, they stop with the last one.
+
+[Lvl 366 > Lvl 367]
+
+And a new one appears.
+
+Level 350 status reached. Your body is entering a superior phase of structural refinement.
+
+A necessary body upgrade is pending.
+
+Your body will undergo an upgrade that enhances the density and resilience of its living material. Heat, cold, force, and absence of atmosphere fail to disrupt the cohesion of your body, granting you a body that endures extreme environmental conditions or overwhelming skill release.
+
+This upgrade will also greatly strengthen your natural barrier.
+
+Note: Following the upgrade, your physical structure will become much more dependable regardless of the extremes of your environment.
+
+Individual enhancement: Your Mana Physique becomes more deeply integrated into your body and is affected by the body upgrade, also allowing for further trait strengthening.
+
+Well done!
+
+Just a few seconds remain until the tournament, and I already feel the changes gradually applying to my body, messing with my constructs, unwinding them, and sending them haywire, further influenced by my much lower Constitution and the pressure of mana flowing through my body.
+
+Almost without realizing it, I find myself inside my mental space. Once more in that never ending white room where I can’t tell where the floor ends and the walls begin.
+
+There, only one thing exists. A black drape hanging on a wooden pole that does not seem connected to anything. Something I remember as part of the room I grew up in with Victoria.
+
+I hear a giggle and notice small feet poking out from under it as the person behind the drape tries to hide. For some reason, that person, a child judging by the size of the feet, is missing one sock.
+
+“Can you see me?” a young voice asks.
+
+“A bit,” I answer.
+
+“You truly must be a genius to have such great powers of perception.” The drape shifts, and a young boy walks out. He has black hair, and one eye is brown while the other is gray. Around his shoulders is an old, bleached out red blanket as he smiles at me. “The time has come.”
+
+“Yes?”
+
+“Yes. You don’t remember, but you were here before and asked me to hide the information that I will give you now. Then it is up to you to decide if you want me to keep hiding it or if you want to keep that knowledge for now.”
+
+I stare at him, fragments of old thoughts surfacing. Oh… Sneakythaniel.
+
+He tells me the information, and I fall into deep thought.
+
+Then I make my decision and appear back outside, only to be greeted a few seconds later with another notification.
+
+Congratulations on your 3rd year in the tutorial! The tournament preparations have been concluded.
+
+Throughout the duration of the tournament of Earth’s tutorial, all Floor quests will be put on hold. The tournament will have a five day duration, and you can decide to participate or not.
+
+More information will be given after entering the tournament floor.
+
+Would you like to participate in the 3rd tournament of the Earth’s tutorial?
+
+Yes/No
+
+I accept, and appear inside, and the moment I do, I know I am truly fucked.
+
+The healing aura and impossibility to die that existed here during previous tournaments is gone, and the pending body upgrade continues shifting my body, completely ignoring my careful planning that relied heavily on the tournament’s healing aura.
+
+And that one sentence from the block of the notification I read confirms it further.
+
+It is now impossible to die during the events. You will be healed and moved to the common area the moment your life is considered to be at risk.
+
+Important note: It is now possible to die outside of the events.
+
+A powerful force presses against my body, breaking it further, and I start activating Lily’s healing marks one after another, currently not even having the mental capacity to use thermal energy with all the chaos I’m handling. My mana, my thermal energy, and kinetic energy spread outward, causing people nearby to shout and rush away from the pressure.
+
+My minds keep splitting and combining as needed while I take over and start modifying my preparations, which now feel so useless, and only a bit over half of them remain usable.
+
+It takes only a few seconds, and all the generated mana and thermal energy become more and more unstable. The pathways and the cycling I’ve been using become much more difficult as new problems appear constantly and break just as quickly as I fix them.
+
+I clear my mind and let a small part of it observe the area.
+
+All of Earth’s participants have been placed on a single floating island, and opposite us floats another. The rest of the world is a pitch black void, with no ground below or around us. Just two floating islands in the darkness beneath what feels like a distant starry sky and a small sun above.
+
+The other floating island must belong to the planet we’re about to face in this tournament, and they decided to test our reactions, because multiple attacks rise from their island and head our way.
+
+POV Lily Chen
+
+The area we find ourselves in explodes in a burst of mana, and a transparent red half figure rises into the air, tall as a building. It raises one of its arms high, and a large staff appears in its grip. It waves it swiftly, drawing inscriptions into the air, and a huge barrier forms to block the bombardment of attacks coming from the other floating island.
+
+I look at it only for a moment before I rush toward where Nathaniel is. He is impossible to miss as his mana and thermal energy keep shooting into the air, and a huge circle has cleared around him with a few people from Hell difficulty stacking barriers to keep the pressure from killing the lower difficulty attendees.
+
+I send a burst of [Disintegration] in front of me and carve a hole through the stacked barriers, stepping inside and slowing to a walk as I approach him.
+
+Where I expected him to be in agony and barely alive after seeing that notification about the missing healing aura, he would seem to be the exact opposite. The earth around him is scorched, the air thick with mana so hot and sharp it’s damaging even my body. Most of his clothes are gone, long white scars tear through his body, tracing their way across his skin even as my healing marks close them.
+
+But Nathaniel stands there tall and proud. There is not a single trace of desperation on his face, even as he hangs a step away from death.
+
+The closer I get, the more my body is destroyed as the pressure and heat press against me. I doubt anyone else in Earth’s tutorial could survive this other than me.
+
+His eyes turn toward me, but he doesn’t try to push me away or convince me otherwise, even though he sees my wounds. He trusts my decision and lets me make it. I know he would even if it were the wrong one. It is one of the reasons why… I shake my head and smile. He likes to say it, but all of us, here in the tutorial, have some serious problems.
+
+My skin catches fire, and my hair and eyebrows burn off while my skin sizzles away, only to return in an instant as I heal myself as fast as the damage can form. I cannot even speak as the heat and pressure burn my vocal cords, but I force myself to smile at him, and he shrugs back.
+
+Nathaniel reaches out his hand, and I touch it, sending my healing into him as I examine his body and begin working on the changes we need to make for all of this to serve its function.
+
+I know he won’t let me help much, only enough for him to get a better grasp so he can handle the rest on his own.
+
+We do not get much time. Barely a few minutes later, the red figure with the staff that was defending the floating island turns and towers over the barriers that the other Hell difficulty attendees have stacked here. It flickers and passes through, and with it, a man appears. And from the descriptions, I assume this must be Christoph.
+
+His and Nathaniel’s eyes meet for the briefest moment before Christoph smiles. “Oh, so you know.” Then he turns to me. “Would you mind giving us a moment of privacy, young lady?”
+
+Something presses against me and throws me away from them, placing me outside as Nathaniel and the man are surrounded by an impenetrable red barrier that blocks any view inside.
+
+POV Nathaniel
+
+Once Lily is gone, the difficulty rises, though I keep my composure. I stand here with my mana roaring around me and golden flames devouring the air, while it continues to feel like I’m trying to patch dozens of holes in a boat by stopping the water with my bare hands.
+
+Yet it does not matter. Even if everything turns against me, I will not give up. I will keep moving forward, my focus set firm, and nothing in this world will break me. Nothing and no one.
+
+Then I allow a smart part of my mind to turn to the man in front of me.
+
+A spike of healing from a mark fixes my throat just enough for me to say, "Hello, Adrian."
+
+He scratches his cheek and gives a brief smile. “I prefer being called Christoph, so why don’t we talk about it?”

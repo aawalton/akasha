@@ -1,0 +1,223 @@
+---
+id: cd705879-0f2f-534a-82bc-4ca8ae305437
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19 - The Calm after the Storm"
+slug: 0019-chapter-19-the-calm-after-the-storm
+partOf: hell-horizon-healer
+position: 19
+ownLength: 1867
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3553405/chapter-19-the-calm-after-the-storm"
+royalRoadId: "3553405"
+---
+
+Jake stepped off the skull and sat down in the dirt.
+
+His broken arm hung wrong at his side. His ribs ground together every time he breathed. His ankle was holding, barely, the ligaments he'd forced tight with Tension already starting to slacken as his concentration slipped.
+
+He looked at the Pendant of Might notification and dismissed it. Later.
+
+Around him, nobody spoke. Lyle was face down on the grass. Glenn had his hands on his knees, staring at the chieftain like he expected it to get back up. Susan was sitting against a tree with her eyes closed and blood soaking through the wrap on her shoulder, chest rising and falling in a way that told him she was alive but not much else. Chloe looked like she’d seen a ghost.
+
+Sloane was the first to move. She got herself upright with her good arm and stood there swaying for a moment before she found her footing.
+
+"Edwin," Jake said.
+
+"I'm here." His voice came from the tree line, rough and low. He walked out holding his ribs, one side of his face dark with blood that had dried into the lines around his eye. He scanned the clearing the way he always did. Old habit. Jake doubted he could switch it off if he tried.
+
+The portal opened without ceremony. A rectangle of white light split the air at the edge of the clearing, the familiar smell of stale carpet and fluorescent buzz leaking through it like they'd never left.
+
+The apartments.
+
+Nobody moved toward it.
+
+Jake started with Sloane.
+
+She didn't complain when he crossed over to her, which told him the arm was bad. Sloane always complained. He looked at the break without touching it, only to notice it wasn’t broken at all, only dislocated.
+
+"Don't," she said, when he reached for it.
+
+"I'm not going to touch it."
+
+"You were about to,” she said. “Worry about yourself first. Your blood is dripping on me.”
+
+Jake blinked and drew in a sharp breath as he refocused on himself.
+
+Oh yeah.
+
+He felt sick to his stomach, the pain a throbbing nightmare all the way through him.
+
+He pressed Minor Heal against his own forearm, right above the fracture, and pushed the mana as deep as he could manage. He targeted the tissue surrounding the break rather than the bone itself, using the energy to clamp the muscles tight like an internal splint. The best he could do was take the swelling down and stop the hairline cracks from spreading.
+
+"How is it?" She asked
+
+"Still broken," he replied, seething in pain. It was so bad he was trembling now. Pain Resistance was ticking up in Mastery. "So, terrible." He looked down at it. "Will I be able to use it again, do you think?"
+
+“How the hell would I know? I’m not a doctor.”
+
+He moved to Edwin next. The cut above his eye had bled a lot, the way head wounds did, but it was shallow. Jake healed it in one pass and Edwin sat completely still throughout, watching the tree line.
+
+"Edwin."
+
+"Mm."
+
+"It's done."
+
+A long pause. "I know." His voice was flat in a way that had nothing to do with calm. "I counted six of us going in. I should have planned for something that size. I didn't." He said it the way someone reads from a report. "Won't happen again."
+
+“I think it jumped up in difficulty for the last monster.”
+
+Edwin only nodded, his attention glued to the treeline.
+
+Jake left him to it.
+
+Lyle had rolled onto his back at some point. He was awake, staring straight up at the canopy with both arms flat at his sides. Jake crouched beside him and looked him over. Bruised ribs, a shallow cut across his shoulder, whatever the chieftain had done to his legs when it stood over him. Jake healed the shoulder and stood.
+
+"Thanks," Lyle said, still staring at the sky.
+
+"Can you walk?"
+
+"Yeah." He didn't move. Then, quietly, "I went down."
+
+"You did."
+
+"I'm supposed to—" He stopped. Started again. "I had one job."
+
+"You did well"
+
+Lyle was quiet for a moment. "Did I?"
+
+Jake paused. "Not really.”
+
+Lyle nodded once at the canopy and finally sat up, moving like every part of him hurt, which it probably did.
+
+Jake went to Susan next. She opened her eyes when his shadow crossed her.
+
+The shoulder wrap had soaked through completely. He peeled it back and looked. The original wound from the sentry had torn open again during the fight, deeper now, and she'd reopened the gash across her chest somewhere in the middle of it all without apparently noticing. He used two heals on her once he had enough mana, pushing both as deep as the skill would go, and watched the worst of it close over.
+
+She looked down at his work, then back up at him.
+
+"Jerry would have hated all of this," she said. "He couldn't even watch horror films. Would leave the room with an excuse that he was getting more popcorn. Always took him until after the scary scene was over for him to return." A short sound came out of her that might have been a laugh.
+
+Jake said nothing.
+
+"He wasn't weak, Jake," she said. "If he was here, he’d put us all to shame. That was Jerry. It was meant to be him here, not me."
+
+Jake shifted his weight, keeping his silence, he shifted uncomfortably and moved onto the next person.
+
+Give me more Mastery.
+
+Glenn was sitting against a rock with Jonathan's bow across his lap, picking dried blood from the grip with his thumbnail. He'd taken a deep cut across the cheek at some point that was still leaking, a thin red line running jaw to cheekbone.
+
+Jake reached for it.
+
+Glenn turned his head away sharply. "Don't."
+
+"It needs closing."
+
+"Will it scar?"
+
+Jake looked at it. Minor Heal at its current mastery closed tissue and stopped bleeding. It didn't promise clean. On a wound that deep, probably yes.
+
+"Probably," he said.
+
+Glenn stared at him for a moment, then something in his face just went. He dropped his head back against the rock and looked up at the canopy, jaw tight, blinking too fast.
+
+Nobody said anything. Sloane glanced over and looked away again.
+
+Glenn stayed like that for almost a full minute. Then he held still and turned his cheek toward Jake without a word.
+
+Jake pressed the heal against it and pushed what little mana he had left into it. The wound closed, not perfectly, a thin line remaining where the deepest part had been.
+
+Glenn reached up and touched it with two fingers. He bit his lip hard enough to bleed.
+
+"My return," he said, to nobody in particular. "My group and I were set to return next week." He laughed, short and hollow. "Ridiculous thing to think about right now."
+
+"Probably," Sloane said from across the clearing.
+
+Glenn looked over at her.
+
+"Ridiculous," she said again, but not unkindly.
+
+Glenn looked back down at the bow and started picking at the grip again. "Three," he said quietly. "I killed three of them. The small ones." A pause. "Does it get easier?"
+
+Nobody answered him. That was answer enough.
+
+Chloe had been quiet the entire time, which was the thing Jake noticed first. She was crouched near the cave entrance with her spear across her knees, watching the group with that wide, steady expression she wore when she wanted to look like she was holding herself together for everyone else's sake.
+
+Her heart rate was perfectly even.
+
+She'd watched Glenn fall apart over the scar without blinking. Watched Susan talk about Jerry without moving.
+
+Jake looked at her long enough that she noticed.
+
+He knew he probably should have checked up on her, but he didn’t want to.
+
+His promise still stood, and she wasn’t going to like what happened when they returned.
+
+She met his eyes and held them, her expression shifting into something softer, something that was supposed to read as exhausted relief. "We made it," she said quietly. To the group, not to him.
+
+Several of them nodded. Lyle let out a long breath. "Yeah," he said. "We did."
+
+Jake looked away.
+
+Arthur was last. He was sitting with his back to the chieftain's body, shield propped against the rock beside him, both hands wrapped around his knees. He'd taken the least damage of anyone who'd stayed conscious.
+
+Jake kept that thought to himself.
+
+"Are you hurt?" Jake asked.
+
+"My back. When I hit the wall."
+
+Jake checked. Deep bruising across the shoulder blades, nothing broken. No mana left.
+
+"I can't heal it."
+
+"Right." Arthur nodded slowly. Then he looked up at the chieftain, really looked at it, and whatever composure he'd been holding together came apart quietly. He grabbed at his hair with both hands. "I froze," he said. "When it came out of the cave. I just—I stepped back. Did anyone see that?"
+
+Nobody answered.
+
+"I stepped back," he said again, quieter.
+
+"You hit it with your shield," Sloane said. "The barrier took the hit that would have killed Lyle."
+
+"After I stepped back."
+
+Sloane looked at him for a moment. "Yeah," she said. "After."
+
+Arthur let go of his hair. He stared at his hands.
+
+"We should go through," Lyle said. "The others have been alone for a while now."
+
+Edwin finally turned away from the tree line. Something had settled back behind his eyes, the same flat look he wore on Floor 7. "He's right. On your feet."
+
+One by one they got up. Sloane got there on her own with her broken arm pressed against her stomach. Glenn slung the bow over his shoulder and straightened his back like he was walking onto a stage. Susan moved slowly but she moved.
+
+While everyone was clambering onto their feet, Jake peeked his head into the cave but saw nothing of worth. Not satisfied, he took some of the goblin weapons.
+
+Jake stored Gutter-Tooth and checked the pendant.
+
+Pendant of Might: - Type: Jewelry- Tier: Uncommon- Description: Only the strongest of Goblin’s wear the bones of their victims as their achievements in battle.- Stat Modifications: +4 Strength, +4 Vitality. - Effect: Physical output increased by 15% when below 30% health.
+
+He equipped it. A thin cord around his neck, the pendant made of teeth and bone hard against his sternum. Once he did that, he assigned his points.
+
+Two into Strength and Two into Mana, and then turned inward to think about Tension.
+
+During the end of the fight, though he didn't mean it, felt a large strength push through his muscles.
+
+Had his mind subconsciously went past his limits, or was it something to do with Tension?
+
+How much stronger could it make him?
+
+What if he tore his muscles over and over again, repairing them stronger and stronger using repeated heals?
+
+He'd done it before, just a smaller level. What limits were there?
+
+He looked at the portal. The stale air already reaching through.
+
+He went through last.
+
+It was time to return.
+
+It was time to train.

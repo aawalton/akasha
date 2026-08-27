@@ -1,0 +1,141 @@
+---
+id: 7a73dcc9-a245-55f1-aa96-55f2c64d070c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 794 - New trait"
+slug: 0120-chapter-794-new-trait
+partOf: hell-difficulty-tutorial
+position: 120
+ownLength: 2279
+unit: words
+publishedAt: 2026-04-15
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3278740/chapter-794-new-trait"
+royalRoadId: "3278740"
+---
+
+“It is simple. I’ll be picking the blood,” I say.
+
+Elian doesn't show any reaction, but he gestures for me to continue.
+
+“I think that out of all the traits, it works the best with the ones I already have, so they should sync well. The blood will flow through the entirety of my body, there are veins in my eyes and my brain, too. So, let’s say it isn’t the absolute best of my offers, but it is the second best. And given the high chance that it’ll make my other traits stronger, it is well worth the trade.”
+
+For a moment, he seems disappointed. I guess he really wanted me to pick the parasite so I’d find myself having to constantly fight for my own mana with an intruder in my body, or the stomach, so I could cosplay as Biscuit. Though I really did want to eat the Sword of Aeons.
+
+“That is correct,” Elian says almost unwillingly, fighting between his impulse to be a teacher and his weirdo scientist side. “With Empyrean Ichor, your blood will become something many would pay a high price to obtain. It will likely be more conductive than most mana-conductive paints. Though I would have preferred if you had chosen Mana-Absorbent Gastric Lining, Empyrean Ichor is also interesting. One of my disciples is even attempting to make something akin to a potion that would replenish mana reserves upon consumption. It is an interesting concept.”
+
+“O-okay.”
+
+Elian isn't bothered at all. “As the description mentioned, a constant flow of such mana-rich blood will create a field within you that’ll strengthen your natural barrier. Furthermore, the very same blood will fill your Physique and flow through your eyes. It would be silly not to expect it to influence them in some way. Additional possible strengthenings, forced evolutions, and further options. I wonder, did you plan this out with such synchronization in mind?”
+
+“Not really. The eyes and physique are mostly just what I got, though I did a lot to make them as powerful as possible. Before level 400, I did my best to gain as many achievements as possible to get the best possible trait selections. The System always says that it assigns rewards according to previous performance, so I tried to influence that a bit and then hoped for the best. I learned a bit from the trait grandpa, I forgot his name. He was from the Academy floor. Without the knowledge I gained from him, I would’ve likely picked the Halo.”
+
+“You likely mean Hywel the Tyrant.”
+
+“Yes, that guy.”
+
+“In such a case, it makes sense. Very well, you can proceed with your selection. I will stay here with you to observe the process and offer assistance in case the pain gets to be too much, considering your low Constitution and how powerful this trait may turn out to be.”
+
+I nod and read the notifications again. I hesitate a bit. Once I select the blood, the others will be gone, and I just can’t stop thinking about how powerful each of them could have been. That is my nature. I already have plans regarding how best to abuse each of them to the utmost: black mana orbs to eat, the Halo used with [Manifestation], [Ley Lines], and [Eclipse], or a shift in my combat style that would force the parasite to work for its rent while I constantly lured my opponents into triggering its lashes.
+
+I can probably mimic some of these to an extent, but likely not in a way comparable to a fully strengthened and evolved trait. I just want them all. My greed for them and the arrogant thought that I should still be able to do some of it on my own fight with each other constantly.
+
+Before confirming the option, I look at Elian, who observes me as I do. I question how much I can trust the guy. Then, I select the Empyrean Ichor and close my eyes.
+
+The following 24 hours become a blurry mess as I sit there hunched over, elbows on my knees, and palms pressed against my eyes. My entire body feels as if someone is pulling a red-hot string of razor wire through every inch of me. It feels as if my blood has been set aflame, fire spreading through my veins as the pain rapidly increases.
+
+It’s almost easy to endure. After the hell that was my body upgrade during the tournament, this feels familiar.
+
+So, with my eyes closed, I observe the changes happening to my body. Someone like Lily could probably see much more, but I can still learn a thing or two here. I also begin to work on making changes to my Mana and Thermal Cycling.
+
+I start thinking about how this might affect Lily’s healing mana, Sophie’s Thought Acceleration, or the telepathic link the twins create. I’m sure all those things are going to become more difficult, but at the current strength of my new trait, it shouldn't be too much trouble. Though in the future, it surely will be.
+
+For now, I’m sure I can find a way to allow Lily’s mana or the twins' link through. It will weaken the effect of the trait and require active effort, but I expected as much.
+
+By the second day, the pain has grown dull, but it still carries that burning sensation. I feel as if my brain and eyes are swelling until they might explode, and my hearts are beating violently against my ribs.
+
+Once in a while, I cough up clots of blood, as if my body were trying to get rid of what remains to clear the way for the new supply. Gradually, the coughed-up blood contains bits of the new blood, which I notice right away. It is mostly because of how it looks to my eyes. Empyrean Ichor is so saturated in mana that it even surprises me.
+
+And I’m not the only one.
+
+I sense movement from Magi Elian. As I lift my head from my palms and look at him, he is staring at the bits of blood with eyes glowing in interest, holding his glasses in his hand.
+
+For a faint moment, something akin to a smile twists his lips before he slowly puts his glasses back on and returns to his usual expression.
+
+The third day, though the pain remains and the trait continues putting the finishing touches on its application, I feel like I’m up to about 90% of my normal capabilities, so it shouldn't hinder me that much.
+
+With interest, I watch a drop of my new blood fall from the tip of my finger. It is still a deep red, though in the right light and to the right eyes, there are visible, tiny white and golden particles glowing inside of it. In a strange sort of way, it’s kind of pretty.
+
+Just from the sight of it, I can tell just how saturated it is with mana. It’s incomparable to the way before, even when it was saturated by the effects of my Physique. It’s reached the point now where I have to wonder if it could be put into a vial and used as a mana source overfilled mana stones.
+
+Then, there are notifications I didn’t expect, which I leave hovering in front of me.
+
+Due to the latest enhancements to your body, additional adjustments have been applied to your status to reflect your current state more accurately.
+
+Preeminence Eyes 2/4 > Preeminence Eyes 2/5
+
+Mana Physique 2/4 > Mana Physique 2/5
+
+Insanity. I had hoped for this, but didn’t dare expect it.
+
+Pure, fucking insanity.
+
+Then there is also the Empyrean Ichor itself with five possible strengthenings.
+
+And, for some goddamn reason, this as well.
+
+[Empyrean Lance - lvl 40 > Empyrean Lance - lvl 41]
+
+[Empyrean Lance - lvl 41 > Empyrean Lance - lvl 42]
+
+[Empyrean Lance - lvl 42 > Empyrean Lance - lvl 43]
+
+...
+
+[Empyrean Lance - lvl 48 > Empyrean Lance - lvl 49]
+
+At this point, I don’t know what to think. I just decide to roll with it all.
+
+I look at Elian. "Would you say I fulfilled my part of the deal?"
+
+The Magi takes a moment to look up from the droplets of my blood, finally meeting my gaze. He nods. "More than that. I thought I knew what to expect, yet I have proven myself to be a fool. It seems even after all these years, there is much I can still learn about arrogant confidence, even when it’s rightfully held for the most part."
+
+"I can’t even tell if you’re putting yourself down or bragging."
+
+He ignores me. A simple cube of mana forms over his hand as he speaks. "As for your promised lesson, I have thought on it. Doing something like this properly would take months, which we do not currently have. Instead, I will create a learning tool for you."
+
+As he talks, the cube begins to shift and stretch. I feel a wave of lightheadedness until Elian creates a barrier that blocks some of my Preeminence Eye senses.
+
+"You must be feeling it, your new trait made your eyes more potent even without an evolution. It wasn't that long ago that you strengthened them, either, so for the moment, something like this is too much for you. Here, I’ve made changes to the surrounding wavelengths so as not to overwhelm you."
+
+The cube shrinks and stretches, turning into a pair of round glasses not dissimilar from his own. They have a thin, silver metal frame and glass lenses.
+
+When he hands them to me, I take them. No matter how deeply I observe them, I can’t tell that they weren’t simply made of glass and metal without breaking them. The System doesn't even treat them as an item, so it is likely just his skill, pure mana shaped through either illusion or a surface treatment imitating different materials.
+
+I feel no change, even as I put them on.
+
+"They will help you filter out some of the information and resist the backlash. If you send a bit of your mana into them, it will trigger a training method I have created. As for the Everwood, I will make sure your handler receives it as per our deal. So, I must ask as well: have I fulfilled my part of our deal?"
+
+Something about his tone puts me on edge. My attention shifts to him fully, and I stop paying attention to the glasses.
+
+"Yes, you have," I say slowly.
+
+"Very well then. I like to be upfront, so I want to inform you that I have decided to further study your Empyrean Ichor. Your trait has proved far too fascinating, with impressive potential and many possibilities. I underestimated what it would become within your Mana Physique, much less with such a low-Constitution, highly mana-saturated body."
+
+"And if I say no?" I ask, thinking of the way Kyralon once told me someone called the Magi had tried to kidnap him for his Parallax Eyes.
+
+Elian stands up and fixes his suit. "I do not think you have a choice in this matter. While your Beyond quest is only for a week, I believe I can destroy the connection you have to Beyond and the Tutorial. Of course, the System will notice and continuously attempt to restore it, but I can block those attempts, even if only for a week or two. In any other case, I would probably offer to let you study under me after your Tutorial or any other more peaceful way. But judging by the state of your body, there is a high chance you won't survive, or that you'll die throwing yourself into danger. I won't lose a subject that-"
+
+He stops talking as the entire place shakes violently.
+
+For the first time, Elian moves hurriedly. He removes his glasses and lifts his hand, and a golden spherical barrier surrounds what feels like the entire base we are on.
+
+In the next moment, stones from the asteroid belt I saw before begin to smash against that barrier soundlessly. Many of them are several times larger than the base and move at incredible speeds, yet the base endures without its surface so much as wobbling as the enormous stones break apart.
+
+Elian’s focus fully turns away from me, his movements losing their arrogant, noble grace in exchange for raw, predatory efficiency. He swings out with a flat palm, carving a miles-wide horizontal rift into the cold void of space. The tear opens with a scream audible even though the vacuum, a jagged white scar of pure force that bleeds a light so intense it makes the nearby star look dim in comparison.
+
+For a heartbeat, the sun itself seems to pale. Then, the rift collapses into a single brilliant white orb that continues to scream as it hovers over her palm.
+
+In the sudden shadow of the dimmed star, a single figure remains. She hangs suspended in the void, a mere speck of dust compared to the celestial object behind her, yet she exerts a presence that feels as if she’s physically overwhelming it. The massive flares of the star seem to recoil and bow in her presence, making the gargantuan star look like nothing more than a flickering candle behind her back.
+
+"Elian, how dare you try to take what’s mine." Her voice reverberates as if she is speaking from everywhere and nowhere at once. It is quiet, but audible. And threatening.
+
+"Lady Greed, please exclude yourself from this situation," the Magi answers in a similar fashion.

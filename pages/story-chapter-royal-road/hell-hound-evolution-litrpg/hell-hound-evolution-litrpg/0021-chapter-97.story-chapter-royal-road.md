@@ -1,0 +1,135 @@
+---
+id: a51b1795-bde5-5a81-901f-92a651f12224
+page-type-slug: story-chapter-royal-road
+title: "Chapter 97"
+slug: 0021-chapter-97
+partOf: hell-hound-evolution-litrpg
+position: 21
+ownLength: 1615
+unit: words
+publishedAt: 2026-03-14
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3150904/chapter-97"
+royalRoadId: "3150904"
+---
+
+“So, now that you can explain things without digging words in the mud…” The fox flashed her fangs. “What exactly are you?”
+
+I looked over to Grick sleeping against Lily. Lily’s eyes were half-lidded, as she hadn’t quite drifted off yet, and she was watching the fox and I having a conversation, both of us in human forms.
+
+“I don’t want to thay…” I blew a small raspberry. “Say.”
+
+The fox chuckled. “Keeping that one close to your chest, huh?”
+
+“I’m not thure… sure… it actually matters anyway,” I answered.
+
+“I’d say it matters a lot.”
+
+I shot her a glare. “It doethn’t matter to you.” S’s were my problem consonant right now.
+
+“Gee, you were nicer before you could talk.” The fox snickered.
+
+I frowned and looked up to the sky. Through the canopy of trees overhead, I could see some stars. Despite how the fox was, part of me did trust her. At least, I trusted her enough not to stick a knife in my back or sell me out to the red masks the moment it suited her.
+
+“I remember… another life…” I eventually said.
+
+She canted her head. “Human?”
+
+I nodded.
+
+She let herself fall back, lying with her hands behind her head and knees up as she watched the stars. “Hm… I figured it had to be something like that.”
+
+“You did?”
+
+“Well, there were really only a few possibilities. Either you were some kind of body snatcher that stole a pup’s body, or you were some kind of reincarnation.”
+
+“Body thnatcher?” I grimaced. “S-natch-er?”
+
+“I’ve heard of things like that. Across the sea.” She pointed vaguely ahead of herself. “But I thought some kind of reincarnation was the more likely possibility. The snatcher thing would only make sense if it was a really clever one that thought the long-term benefit of nabbing a Hell Hound pup outweighed the short-term risks, then managed to not only pull it off but also fool the Hell Hound pack. Anyway, that just didn’t seem right at all in your case. Especially with how close you are to those two. You’re not faking that.”
+
+“Why reincarnation, then? Is that thomething common?” I already knew the answer to that. I may have assumed I was the only one if I hadn’t meant Genzo, but he confirmed that there were even more beyond us. But I was curious to hear what the fox knew.
+
+“I’ve heard stories,” she answered. “But even if I hadn’t, nothing else would make sense. If it were just your ability to understand language, I could chalk it up to some powerful skill. But your personality… You act more human than even I do, and I’ve yet to meet another monster who’s as good at it as me. But, you are way too young to have enough exposure to humans for that to make any sense.”
+
+I nodded. It made sense, and it seemed the fox didn’t quite know about the whole transmigrator thing.
+
+She rolled onto her side, head propped on one hand as she smiled.
+
+Was that a real smile, or something she’d practiced to manipulate humans? It wasn’t natural for monsters to express themselves like that, and I got to see firsthand how weird it was whenever I’d see Lily do it, mimicking me.
+
+“So what was your human life like?”
+
+I thought about it for a moment. Whenever I thought deeply of Lisha, her loneliness, her desperation just to have a friend or someone who really cared about her… And then how she died. It just felt…
+
+“Thad,” I answered.
+
+The fox’s ears folded down. “Sad, huh?” When I didn’t elaborate, she pressed on. “So were you poor?”
+
+I shook my head. “I think her family was wealthy. They had a big houthe.”
+
+The fox’s ears perked up. “Royalty?”
+
+“I don’t think so.”
+
+“Well, if you had money, I don’t get why it’d be sad. Humans with money got it the best. I’ve seen how they live. I’d take a wagon of gold coins over being level 100 any day, personally.” She snickered. “You can use those coins to get anyone to do anything you want. Humans are pretty weird, right?”
+
+I didn’t respond to that.
+
+“So what was so sad about it?”
+
+I thought it over, searching through Lisha’s memories. She wasn’t in physical danger, she wasn’t hungry, and she was indeed healthy. There were times when her mother would hit her, but I couldn’t really see that as being all that bad on its own. Even my dog mom in this life would scold us at times and give us a nip for punishment. But it’s what was missing that made Lisha’s life so sad.
+
+“No pack,” I answered.
+
+The fox didn’t frown, or really answer at all. Instead, she rolled onto her back and looked at the sky. “No pack, huh? That’s enough to make a life sad?” She just stared at the stars; she seemed to be thinking deeply on something.
+
+After a while, she continued. “I’d been going it alone for a while now. I'll admit, it's been a fun change of pace with you brats.” Then, considering something else, she asked, “Why do you want to get to the empire anyway?”
+
+“I wath told they could help me.”
+
+“You three seem capable enough of surviving on your own.”
+
+“Not with that.”
+
+“The rest of your pack, then?”
+
+I nodded.
+
+“So that's it. Hmm… What makes you so sure they'll help? And that they're not just gonna kill or cage you on sight?”
+
+Genzo's word is all I had to go by, but in truth, now that we were so close, I was a little nervous about the whole thing. At least, I was worried for Grick and Lily.
+
+I looked over to the fox, who kept her golden eyes focused on the stars, and I almost asked, “How much gold to stay with them?”
+
+My thinking was that I should enter the empire alone and then only come collect Grick and Lily once I confirmed it was safe. It was one thing to put myself in danger, but I couldn’t do it to the others. In the meantime, I could rely on the fox to make sure they were safe until I returned.
+
+However, I still felt cautious of her. She didn’t rob us or try to hurt us, but she also had a quest making her play nice. I didn’t feel there was a great chance of a dramatic betrayal once her quest was complete, but I couldn’t be entirely sure either.
+
+Instead, I asked, “Have you killed many humans?”
+
+“Yeah. When it's suited me. Out in the wilds, humans are not any different than monsters. But it’s not like that inside the empire walls, pup. If you kill someone in there, at least, someone who hadn’t committed a serious crime or… Do you understand crime?
+
+“I know what a crime is,” I answered.
+
+“Good, then don’t do any yourself. Even if you are not the aggressor or have a good reason to do it, do not use violence inside the empire walls. The wilds are pretty much the same no matter where you go, but human cities are… different. Being a monster in a human city… Well, since you’re intelligent, they may allow you to remain, but if it comes to a conflict…” She clicked her teeth in agitation. “They’ll never take your side over another human.”
+
+I watched her for a moment as her golden eyes went distant, the way they did when she seemed to be remembering something she’d rather not.
+
+Eventually, I decided to ask her another question.
+
+“You think gold is better than thtrength?”
+
+“Yeah, obviously…” She shook off her wistful gaze and then smiled. “Say you got something you wanna kill. Even if you’re a high-level, you still have to be the one to go find it and do it. Or, you can toss some of those coins at someone, and they’ll go do it for you. You barely have to lift a finger. Besides, violence only solves violent problems. Gold can do pretty much anything else. Which would you say is better?”
+
+I thought about it. There was some logic there, but there was something she wasn’t considering. I remembered that day when the red masks first arrived. When that bird snatched me up and threw me down into the forest. When I clung to a tree branch as I watched the assault against my family.
+
+How helpless I was.
+
+If I were stronger, maybe I could have helped Dad. Maybe I could have fought side by side with him and held off those damn humans. Maybe I never would have gotten caught by that bird in the first place…
+
+I eventually said, “But if you don’t have power… somebody can just take your gold.”
+
+The fox side-eyed me and muttered, “Well… you can hire bodyguards too, but… yeah, I see your point.”
+
+I pushed my hand against the ground, starting to lift myself up. My walking had improved a lot just from a few minutes of pacing around the camp area earlier, but it was still a bit awkward. Instead, I gave that up and got on all fours as I crawled over to Lily and Grick. I took the fox’s advice of sleeping in the human form, and besides, I didn’t want to have to go through the process of changing my clothes again.
+
+I lay down, snuggling up to Lily and draping my arm over her side while Grick snored softly. Lily looked up at me tiredly through her brow; her tail wagged once, and then she closed her eyes again.

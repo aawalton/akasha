@@ -1,0 +1,91 @@
+---
+id: f8c9a685-6649-52dc-92f8-ce8b8f1a0115
+page-type-slug: story-chapter-royal-road
+title: "221. Into Town"
+slug: 0221-221-into-town
+partOf: god-of-trash
+position: 221
+ownLength: 2163
+unit: words
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2704698/221-into-town"
+royalRoadId: "2704698"
+---
+
+Rhys stepped out of the Black Palace, and immediately, icy winds and heavy snow assaulted his body. He flinched, even though his high Tier meant he barely felt the wind or the cold, then blinked the icy precipitation out of his eyes and squinted around.
+
+White, as far as the eye could see. Ice and snow clad the earth, clinging to the skeletal branches of hibernating trees, piling thick on evergreen boughs. His breath clouded on the air, and ice crystals sparkled high in the atmosphere, forming a pale arc around the sun. Rhys clapped and rubbed his hands together, taking a moment to look around, then looked over his shoulder.
+
+The Black Palace protruded from the earth like a scar, a black mark upon the endless white. It glistened amid the snow, its darkness made more stark by the bright white surroundings. A grand black-and-gold façade was edged in white, heavy piles of snow weighing on its windowsills and roofs. Marble pillars held up a shallow overhang, leaving the remaining stairs slick and unprotected. Rhys’s footsteps alone marred the snow on the steps. If Az had approached from the entrance, there was no mark of his passage—though, if he’d come in cat form, Rhys wasn’t sure he’d see his prints, as the falling snow quickly erased his own.
+
+Daran gazed back at it, but said nothing. Rhys set off, and the two of them headed into the white.
+
+They walked, and walked, and walked, Rhys following the tracks of mana he could sense here and there in the air and ground, all of them pointing the same direction. As he walked, to avoid wasting time, he perused the new books on the void. Daran read over his shoulder and scoffed aggressively from time to time, but Rhys mostly ignored him; this was to get perspectives that weren’t Daran’s, not to hear Daran’s take on these mediocre books. From time to time, he also fed the mini-Straw cursed energy. Now that he’d learned Daran’s technique, he still needed to find a trace of Straw, but on the other hand… he had a trace of Straw right here, didn’t he? A little time and some cursed energy, and maybe it would reach out to the original, and he’d be able to trace it back to Straw.
+
+It was a dim hope, but it was better than randomly wandering the Alliance as a wanted man with no destination in mind, so he kept at it, even though he had no proof it would work.
+
+At last, a large settlement loomed on the horizon, ringed in by a barrier and a wall. Well; large by mortal standards, but relatively small by mage standards. It was more an outpost than a city or academy, ringed by reinforcements and surrounded by high lookout towers. Mana pressed against Rhys’s several times as the lookouts scanned him, but if they noticed anything abnormal, no one raised the alarm.
+
+Not that Rhys expected them to. Unless they were high-ranking members of the Alliance or had spent time at Purple Dawn, they wouldn’t know his mana signature, even if they were looking for him in particular, which meant that he was basically just another mage. He stifled his mana core down to Tier 3 and burned his trash core at its minimum, which made it all but undetectable. He didn’t look like himself, either. There hadn’t been much to work with at the Demon King’s Black Palace, but luckily Rhys brought his own supplies. He still had all his disguise gear from the Empire, and now, he wore a short blond wig under a bucket hat, with heavy black eyeliner and a little bit of dark brown eyeshadow under his cheekbones to sharpen them to transform his face. It was a bit hard to find liquid water in a frozen wasteland, but he made a mental note to buy a room with a bath when he had a moment so he could lock the changes in with a little Body Transformation. Even without the full-on transformation, he kind of looked like a certain Justin-who’d-been-a-child singer on a bender as an adult, but without the thousands of fans lying to him that he was still handsome. It wasn’t his best look, but the important thing was that he didn’t look like himself.
+
+He walked up to the gate. A guard flew down from the wall to greet him, riding on a small metal apparatus. He hopped off, and the apparatus appeared: not an apparatus at all, but a spoon set with small blue gems. Rhys stared, but before he could completely get over the flying spoon, the man spun his hand, and the spoon flew into his back pouch. He looked Rhys up and down, eyes lingering on Rhys’s somewhat heavy-handed eyeliner. At last, he spoke. “We don’t get many visitors, up here on the border. What brings you to this city, stranger?”
+
+“I’m here to trade, and hunt monsters,” Rhys tried, not really sure why people came to the city. ‘I want information on how poor people’s opinion of me, the Alliance’s current public enemy number one, is, and specifics on the fates of my friends who were also branded criminals,’ didn’t seem like the way to go, so he was grasping at threads.
+
+“A trader, eh.” The man eyed him and his visible lack of goods.
+
+Rhys flashed his storage ring. “I carry very little, but what I have is valuable.”
+
+“If that’s the case, you might not find many buyers. There aren’t many rich mages in this city.”
+
+“Consider it more of a scouting endeavor.”
+
+The two of them stared at one another. At last, Rhys cleared his throat. “If you’re going to turn me away, I can find another place to sell my wares. I thought I’d be welcomed up here, but if that’s not the case, I can—”
+
+“If you have no ill intentions, then I have no reason to turn you away,” the man said slowly.
+
+Rhys shook his head and spread his hands. “I can assure you that I possess no ill intentions. I don’t even carry a weapon.”
+
+The man eyed him, deeply unimpressed.
+
+“…Nor am I that good at hand-to-hand combat. Or magery,” Rhys added. He hadn’t really practiced the forms since he was Tier 1, maybe 2. Compared to actual Tier 4 hand-to-hand combat specialist, he was sure he’d be found lacking. Probably even a Tier 3 hand-to-hand combat specialist could wipe the floor with him, given that he was pretending to be Tier 3 right now. As for spells, well… they didn’t need to talk about that. His traditional spells were truthfully somewhat lacking. His magical offense, on the other hand… he’d taken down the Empress, after all.
+
+He hesitated another second, then stepped aside and gestured for Rhys to enter the city. Rhys tipped his hat and wandered inside4. As he passed, then man flared his mana, surging up to the peak of Tier 3. “Don’t make any mistakes.”
+
+Rhys put on a scared face. “Of course not, sir!”
+
+At that, the man gave him an even more suspicious look, but having been given permission to enter the city, Rhys scurried in, leaving the man behind. Damn paranoid-ass gate guards. Just let me in! I’m not anyone dangerous or suspicious! Okay, I am the Alliance’s most wanted, but I’m not going to do anything bad here. There’s no need to get all worried about me!
+
+The city inside was idyllic, in a quiet, cold kind of way. Steep-pitched roofs and A-frame houses clustered close to one another, with snow piling up on their eaves and rimming the edges of shingles. Chimneys poured smoke into the sky and gave the entire city a distinctive wood-smoke smell. The mages that walked around the street wore thick robes with heavy fur ruffs and cuffs along with tall, waterproof boots, which were far more necessary for the Tier 1 and lower mages that followed close at higher-Tier mages’ heels than for the higher-Tier mages, who seemed to be mostly doing it for fashion’s sake—they could wear heavy robes and fur in the north, so they did. Still, it meant Rhys stood out, in his lightweight clothes and cloth shoes. He made a quiet note to visit the local dump and see if he couldn’t muddle together a set of winter clothes later in the day… but first, to launder some money!
+
+He would’ve done the clothes first, but there was no hiding the fact that he was new in town with a few nice threads. Sure, he could go disguise himself as one of the residents, but the story would uncoil fast when he knew nothing about the city or the area, or what that person’s daily life was like. It was a totally unnecessary risk when his rockstar-esque disguise already hid his real identity, and there were no laws against coming to town from afar. He might as well lean in to being new in town instead, rather than trying to disguise it, and use his newness as an excuse to ask the locals the things he wanted to know.
+
+The pawn shop wasn’t hard to locate. The shop itself was cold inside, the owner acknowledging that mages didn’t much worry about changes in temperature at this magnitude, and Rhys directly approached the counter. Magic bits and bobs hung from every surface and piled on every shelf, absolutely lighting up Rhys’s senses to the extent that he had to rein them in, or else go magic-blind from all the items all around him. A pretty, slender lady sat behind the counter, and she sat up as he approached, pasting on her best customer-service smile. “What can I help you with today?”
+
+Rhys paused to go through his inventory mentally, then drew out some of the less-recognizable stuff from the Black Palace, the stuff made of precious metals. “I’d like to sell this.”
+
+“Not pawn it?”
+
+“No, sell. Is that a problem?”
+
+“No, no, not a problem. Let’s see, let’s see.” She drew out a eyeglass and examined them, then clicked her tongue. “I can give you two hundred gold for the lot.”
+
+“Two thousand, at least.”
+
+“Two thousand? You’re mad. We’re flush with loot from the Black Palace, and don’t think I don’t recognize it. Take it down south, and you could get two hundred. Here, fifty’s the best you can get.”
+
+Rhys clicked his tongue. “At least a thousand.”
+
+“You’re driving me broke! Listen…”
+
+The two of them went back and forth for a few rounds, until Rhys finally walked out with seven hundred gold. It wasn’t much, especially for a mage, but he only needed enough gold to make it around the village for a few days and not stand out, so he wasn’t that worried about getting a good price. He was still rich in Empire gold, and as soon as he got a moment to sit down and melt it and recast it, it’d be as good as Alliance gold, but until then, this quick-and-easy solution would have to do. It wasn’t ideal, but it got the job done, and he was all about that kind of solution.
+
+Gold in hand, it didn’t take him long to locate the tavern. Rhys ducked inside, and was immediately overwhelmed by the warmth of the hearth. It even emanated to the space he stood in, a kind of mudroom with a thick rug to absorb the cold and wet, and a heavy hanging curtain to capture the heat inside the tavern. He paused to dust the snow off his hair and shoulders before it could melt into his clothes and stomp the snow off his shoes, then ducked through the curtain and into the tavern proper.
+
+At this time of day, in the early afternoon, the tavern was mostly empty, but there was a man nursing a mug at the counter, and a couple whispering in the corner. The building was very large, and the tables were spaced well away from one another, with big aisles and gaps between them. In no rush, Rhys settled at the counter, ordered a mug, and pulled out a book to wait for someone chatty to spot the new blood and decide to get the first scoop.
+
+For some reason, the bar was tall, tall enough that he had to climb up two steps on the barstool to sit at it. Rhys glanced around, a little confused, but no one else seemed to find it strange, so he shrugged to himself and put it to the back of his mind.
+
+Time passed. Mages flowed in and out of the tavern at a steady trickle, and Rhys kept passing the bartender gold to keep him happy, to avoid having to buy drinks he didn’t need. At last, evening came, and the tavern began to fill. Rhys bided his time, waiting and waiting, until…
+
+“Good evening! New around here?”

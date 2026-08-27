@@ -1,0 +1,145 @@
+---
+id: c8f69a13-d6e3-5337-87c8-d8bc77c93d5c
+page-type-slug: story-chapter-royal-road
+title: "054: Defiance"
+slug: 0054-054-defiance
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 54
+ownLength: 2127
+unit: words
+publishedAt: 2024-06-12
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1673790/054-defiance"
+royalRoadId: "1673790"
+---
+
+The system seemed to be a bit more relaxed when it came to the order of the steps, however. Evelyn was presented with a kind of quest detailing what she had left to finish before the guild was established.
+
+**Guilds**
+
+Guild Establishment Process
+
+Founding Members Confirmed: 0/4
+
+Essence Required: 2,500,000/2,500,000
+
+Oath of Loyalty Sworn: 0/5
+
+Oath of Challenge Sworn: 0/5
+
+Guild Headquarters Demarcated: 0/1
+
+Guild Name: Undecided
+
+Of the remaining steps, there was one she could complete right away. Evelyn had known the name she wanted to use for a while now, and even though it wasn’t required, she spoke the command aloud.
+
+“Designate the guild name as ‘Defiance’.”
+
+Once established, your guild will be known as Defiance. Confirm decision?
+
+Y/N
+
+There was no hesitation when she selected yes.
+
+“Defiance. I like it darlin’, I like it a lot. Refusal to bend, refusal to submit. It suits you. And our goals. Some of them,” said Kayla.
+
+“I agree. Though I’m not so clear on what your goals are, Kayla. You play your cards close to your chest. I’m sure you’ll tell me eventually, though.”
+
+“Perhaps. We’ve arrived at our first destination by the way, so let’s leave the guild talk for afterwards. You’ll be very interested in this place.”
+
+“At least let me invite you to the guild, first. Feels like we should get it done seeing as we’re together.”
+
+“Oh, sure. Fire away, darlin’,” said Kayla, while knocking on a golden gate so intricately shaped that Evelyn wondered if replicating it through human means was even possible.
+
+Invitation to the guild ‘Defiance’ has been extended to the challenger ‘K’.
+
+Challenger ‘K’ has accepted the invitation.
+
+Kayla hadn’t even hesitated to accept. Not that Evelyn thought she would, but it was satisfying to know that the woman’s trust was real and not just a facade she had constructed to manipulate her.
+
+After a brief wait, during which Kayla’s feet tapped on the shiny cobbles - more out of a desire to keep herself moving than impatience, Evelyn suspected - the gilded gates swung open.
+
+A winding path made from the same stones as the road, though far shinier and more whole - if that was even a thing cobblestones could be - than the ones they had been walking on to reach the sprawling house that approached mansion domain without quite breaching it.
+
+It didn’t deviate from the standard architecture of Haven. Tall and thick wooden beams supported the three floors of the building, which themselves were constructed from grey bricks. In a vacuum it would’ve seemed like a dull aesthetic choice, but there was an odd quality about the building that spoke to Evelyn beyond just her sense of sight.
+
+While trying to peek into the wide windows that were almost floor to ceiling, though covered with what looked to be velvet curtains, Evelyn realised what was causing the strange sensation emanating from the building.
+
+Her mana sense.
+
+And as soon as she had that realisation and spread her mana around her in a wide enough area to encompass most of the house, Evelyn got the shock of a lifetime.
+
+Every single screw, brick and wooden beam that made up the building positively shone with mana. It drifted in lazy waves through a defined pattern that took it around the three floors of the house, in a strange mock of her own mana circulatory system.
+
+It reminded her that she had a skill designed to do exactly this. Craft objects while imbuing them with her own mana.
+
+In front of her was clear proof that someone else not only had a similar or identical skill, but was putting it to much more functional use than she was. Magical buildings. What was next, an enchanted toilet?
+
+“It’s magnificent,” she muttered.
+
+“Well, stop gawking. He won’t wait all day, we’re far from his only clients,” replied Kayla.
+
+She followed after the woman as she pushed open the front door - which was just as gaudy and magical as the rest of the place - while considering what the purpose of the mana flowing through the whole building might be.
+
+“Clients? Who have you brought me to meet, exactly? Is he someone shady?”
+
+“While I may have been accused of that on more than one occasion, I only deal in honest business and open transactions,” announced a delicate man with pale skin and hair so indigo it was almost white that hung down to his waist, flowing along a shimmering cerulean robe that reminded Evelyn of a greco-roman deity.
+
+Kayla grinned at the opening remark and placed a hand on the small of Evelyn’s back, making her tense up for a brief moment. She wasn’t sure if Kayla noticed her reaction, but even if she had there was no change in her expression or body movement that indicated as such.
+
+“Evelyn, meet Farion. Farion, Evelyn,” she said before turning to address Evelyn specifically, “Farion wasn’t a fan of getting his hands dirty on the first few floors, so he turned his shrewd mind and rather particular skill set to a unique and useful line of business.”
+
+Here, the ethereal man - who was so delicate that Evelyn would’ve had trouble pinning him as one, without the introduction - raised a hand to silence Kayla and began to speak without waiting to see if she would oblige.
+
+“I think it might be best if I take over here,” he said, before turning to Evelyn and placing an arm around her shoulders, pulling her from Kayla’s gentle hold and leading her deeper into the house.
+
+“There was a rather quaint underground trade in skill crystals and attribute points and the like since the first challengers arrived in Haven. After all, while the routes to strength in the tower are limited, not everyone wants to pursue the same path. Some opt for a wide range of high rarity skills while others seek to push their attributes to insane levels in the hope it will trigger a posthuman metamorphosis of some kind. I personally am curious to see what T and Eleanor have been up to in their self-induced seclusions. I digress.”
+
+While he had been nattering on about the newborn economy of Haven, he had led them down a winding hallway with doors positioned every five or so metres. Most were closed, shining brassy handles that looked as if they had never been touched since installation. One however, was ajar.
+
+Through the miniscule gap Evelyn could just about make out the familiar glimmer of a skill crystal and a faint scratching noise that made her want to itch the inside of her ears. Before she could take a step towards the strange room, Farion pulled her along and they continued their walk, with the man resuming his long winded story.
+
+Evelyn hoped there was a satisfying reason for her to listen to him droning on. Despite his beautiful appearance and measured, alluring tone, something about the way Farion looked through her, rather than at her, made her wary of what he was trying to induce in her with his impassioned speech.
+
+“Anyway, it was rather hard to regulate this blossoming trade. We only had the one way essence payments, and the whole system was far too reliant on trust between the customer and merchant. Often, deals went sour when the stronger or craftier party reneged on their half of the deal and plenty of bloody brawls started from a trade gone wrong. When Ventura cleared the 16th Floor however, that all changed.”
+
+Farion turned to her and pointed a finger toward the ceiling. Not to make her look at anything important, but rather just because the man seemed to enjoy attempting to hold every facet of her attention and engaging more than just her ears was a great way to do it.
+
+Not that Evelyn had anything to do except listen to his rather boring history of essence mercantilism. Kayla had promised it would be interesting, but she was yet to see how. Farion continued as they approached a pure white arch of marble, carved from a single block.
+
+“The tower doesn’t make things easy. A more secure, intricate way of carving out a successful trade was hidden away within the property system. It wasn’t until people started to experiment with the different types of property and what the owners were offered in the way of resources and assistance that secure trading became the norm and getting stabbed over a skill purchase gone wrong wasn’t a legitimate worry for the average person. I’m sure you know all this already, but I feel it’s important to pave the way for the centrepiece of this meeting.”
+
+At that moment, they passed through the archway and the spacious hallway opened up into a tall, domed gallery that had no business fitting inside the building Evelyn had seen from the outside.
+
+Some kind of intricate spatial trickery was happening in the background to make this work, but that was the last thing on her mind when she entered. Most of her thoughts had been drowned out by the loud thrum of mana that suffused the room.
+
+Evelyn had heard it before, from monsters possessing large quantities of magic, or sufficiently powerful items. None of them could hold a candle to the overwhelming symphony that barraged her ears in that room. It was different.
+
+Not a single, droning pulse of mana, but a collection of numerous arcane instruments coming together to sing to those with the means to receive their music.
+
+“It’s magnificent, right darlin’?” said Kayla from behind, breaking the trance that had gripped her.
+
+The humming was still there, but after Evelyn lost the tune it no longer overwhelmed her every sense. Looking around, she took in the space for the first time.
+
+The floors of the room were white marble, the same unblemished stone as the arched entrance, with six pillars of black granite reaching for the sky at regular intervals around the edge of the hexagonal space, topped by slabs of white marble again and the entire room was presided over by a dome of glass that allowed the blinding artificial sun to bathe the contents of the gallery in radiant light.
+
+Sealed glass cases filled the room, securing the orchestra which had been playing for them. Within every cube was a weapon, tool or piece of armour. Some plain and others ornate, yet every single piece was bursting with magic, visible only to her mana sense.
+
+The signature of the mana was a mirror of that which had infused the building, and she guessed that it was all the handiwork of the unsettling fellow beside her.
+
+“I would ask what you think of my craft, but your reaction speaks volumes. Not everyone can appreciate my collection. Most of these pieces are yet to find a suitable owner. I am loath to hand them off to the unskilled and repugnant masses who would soil their beauty with their vile and careless handling. Take a look around, perhaps you will find something that calls to you,” said Farion, his glazed black eyes unshifting.
+
+Evelyn had decided that something was off about the man. His whole vibe made her uneasy. However, she could tell from just the thrum of magic that the quality of his work was on another level compared to the items she had seen thus far.
+
+So, she made her way to the first of the glass cases to inspect the object that lay protected within. Kayla just watched from the doorway, standing a few metres from Farion.
+
+Both people had their gazes trained on her back as she approached it, but they felt radically different. How had he put it? Posthuman… it was certainly a leap but Farion gave her the vibe that he was unlike her in a serious way.
+
+Can the tower do that to a person? Change them so much that what makes them human is stripped away? I am so far removed from what a human was, back on Earth. Yet I don’t feel like I’ve become detached from humanity. In most ways, at least. I wish I didn’t have to keep questioning my own mind. Wondering if the tower is pushing it away from what makes it… me.
+
+She had just finished marvelling at a silver chestplate, with two golden lines carved across the pecs and abdomen, when Farion began to mutter and then call out to her.
+
+“No, no, no… all wrong.”
+
+“You’re trying to take it in with your eyes when you should be using your soul. Don’t force it, just listen,” he said.
+
+The thrum of mana intensified, and Evelyn let herself slip back into a trance as the magic sang to her.

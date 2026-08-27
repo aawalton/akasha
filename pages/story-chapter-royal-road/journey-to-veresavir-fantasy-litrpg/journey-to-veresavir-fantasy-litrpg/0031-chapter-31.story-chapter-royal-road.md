@@ -1,0 +1,325 @@
+---
+id: 768cbdb6-3b97-51d2-9e5e-7e6ed093b2b9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31"
+slug: 0031-chapter-31
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 31
+ownLength: 3819
+unit: words
+publishedAt: 2025-12-20
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2865087/chapter-31"
+royalRoadId: "2865087"
+---
+
+Chapter 31
+
+Veron stood amidst the massive dead Cayaralan, putting on his pack. He held his shield and mace, looking down at Silvie. Her right arm was gone. From a single bite.
+
+“They’re no longer moving into the forest but there are dozens in the marshes,” Reka said, stepping back from the opening in the wall. Her voice was shaking.
+
+“We’re lucky more didn’t come here,” Hayden said in a quiet voice.
+
+Reka gave him a glare but focused. “We have to leave, move to the forest and use the trees for cover.”
+
+“There were more of them in there,” Veron said.
+
+“Yes, but we’re free pickings in the open marshes,” Reka countered. “You can hide here or come with us.”
+
+“Of course I’m with you,” Veron snapped.
+
+“Good. Can you carry her?”
+
+“Yes,” Veron said.
+
+“Then we go…” She fiddled with her necklace, then put it back below her armor. “This should’ve gone differently. Dammit, Silvie.”
+
+“We need to focus on getting out,” Hayden said.
+
+“Yeah. Down to the marsh, then we wait for a good moment,” Reka said.
+
+“How carefully do I have to carry her?”
+
+“The wound is closed and she’s a tough. Carry her over your shoulder if you can. And if we have to run, you run,” Hayden said.
+
+Veron reached below the armored woman. She was out. Her face was pale. He still held his shield and wore his pack, the mace strapped to it as he lifted Silvie onto his right shoulder. He felt the weight was mangeable. It smelled of blood and the foul stench of the Gutter. Veron nearly stumbled when they went into the ancient stairwell. Focus. One step at a time.
+
+He kept himself steady, soon reaching the bottom of the stairs. Hayden helped him get Silvie out of the tower, and they went on from there.
+
+Reka checked around the corner of the tower, then glanced back at them. “Most are still farther west, but some are coming in this direction.” She paused, then gulped. “Cover yourself in mud. Veron, we’ll help you in a second. Keep her steady.”
+
+Hayden nodded, setting down his shield before he went down and rolled in the mud.
+
+Reka did the same, rubbing mud onto her face and armor. They quickly helped Veron too. She then checked around the tower again, waited, and signaled for them to go. “Steady, not too fast.”
+
+Veron breathed in deep. It felt surreal. He was carrying Silvie. She had lost her arm. A few minutes ago, she’d been cooking lunch.
+
+He gulped, following the others as they stepped out from the cover of the ancient stone tower. He heard the buzzing of mosquitos, the clucking sounds of the marsh, and glancing left, he could see the ants in the distance. I really hope they can’t see us.
+
+He felt stiff, remembering the pain in his neck. He hadn’t even seen the attack of the ant. The lance didn’t take it out. Think later. Walk now.
+
+He walked.
+
+Step after step, careful not to slip on the mud. They didn’t take the safest route, Veron noted, but ignored it. The entire marsh wasn’t safe right now, and he knew there were more of the ants in the forest. There were dozens.
+
+Walk.
+
+His heart was pounding in his chest when they reached the tree line, the group entering the dark forest, cool air washing over them. Veron breathed out.
+
+“None of them are following. We go east, stay close to the marsh, tree to tree, don’t move too quickly,” Reka said. Her voice sounded strained but no longer shaky. She led, Veron second, and Hayden having his back. None of their lanterns were on and Veron focused fully on the ground, trying not to stumble and fall while he carried Silvie.
+
+A minute passed, sweat dripping down his brow when he heard a hiss from ahead. Veron looked up and saw a large snake slithering around a branch and towards him. He connected to one of the blades on his pack, made it hover up behind him, and shot it into the creature.
+
+The blade cut cleanly through the snake, thudding into the tree behind. Its head fell and tumbled to the ground. He kept on walking, hearing a grunt from Hayden behind him.
+
+That’s four shots. Or was it five? Less than half my essence left.
+
+Reka stopped behind a tree and signaled him to wait. She went low and joined him, gesturing for Hayden to come as well. “Corpses ahead, Cayaralan eating, at least two that I see.”
+
+Veron listened. Two more ants in their way.
+
+“Can we go around?” Hayden asked.
+
+“I’ll check the marshes,” Reka said and left, returning less than a minute later. She shook her head. “There are more of them out there. Either we go deeper or we go past these two.”
+
+Hayden nodded. “We try to sneak past.”
+
+“Yeah,” Reka said. “Veron, if we're attacked, you set down Silvie and protect her.”
+
+“I will.”
+
+“Good, don’t make a sound,” she whispered and led onward.
+
+Slowly, they crept around the trees, coming out past a dimly lit clearing where two massive ants were digging into several human looking corpses. Veron nearly froze, trying to ignore the sounds as he focused on the earth, stepping as quietly as he could. They made noise, but the ants were louder, and a moment later, they were past, getting a line or two of trees between the critters and them.
+
+Veron breathed out some tension when he saw a rock flying out from the thicket ahead, hitting a nearby tree with a thud.
+
+What?
+
+The ants stopped eating, making clicking sounds before they skittered their way.
+
+Reka gave him a single glance and fished out the necklace below her armor, wrapping her fist around it. Hayden got into position between her and the ants now coming past the trees. Veron carefully set down Silvie, raising his shield and grabbing his mace.
+
+He saw Reka buckle forward, steadying herself before she changed her posture, holding her sword with both hands now. She groaned, then rushed past Hayden and straight at the oncoming ants. She was faster, dodging right to avoid the creature’s leg and mandibles, slashing through its right front leg with a clean swing, twirling and slicing upwards with a grunt, her blade digging deep into the bottom of the monster’s head. She ripped the weapon out and brought it down again, cutting clean through its head.
+
+Hayden blocked the first two strikes of the second ant whilst Veron aimed with a blade of stone, standing between Silvie and both the remaining ant and the area where the rock had come from. He saw Hayden get pushed back, about to shoot his rock when he saw Reka advance from behind the ant, cutting clean through the two back legs of the creature, chains wrapping around it before she ran forward, almost as fast as he had seen Ivera move, she slashed her blade wide and deep into the side of the monster.
+
+The creature winced and staggered before Hayden brought his hammer down onto its head, shattering chitin and flesh below. He struck it a second time, hitting its left eye before Reka finished it with a stab into its right, ripping out the blade in the next moment.
+
+Then they both turned toward the forest.
+
+Veron could see two lines of blood running down from Reka’s eyes, mixing with the mud. She breathed hard now, lowering her blade as she stared into the thicket.
+
+Veron followed her gaze.
+
+“Come out and face us, or are you too cowardly for even that?” she called out, anger and frustration in her voice. She sounded tired.
+
+“Hold,” a male voice called out, a man stepping out from behind a set of trees, half of his face covered by black cloth. His armor looked finely made, and clean. Silver steel covered in a black hooded cloak, two sheathed short swords on his belt. He looked at their group and then motioned with his hand.
+
+Six more figures stepped out from the forest, all in a similar getup. Cloaks and hoods, their faces covered. All of them wore light armor and moved quietly. Veron noted they didn’t have any Guild badges on them.
+
+“You look quite dreadful,” the man said, his voice somewhat subdued. “I suppose I underestimated you. Well done.”
+
+He sounded calm on the surface but Veron felt as if he heard an underlying tension, or excitement.
+
+They tried to get us killed.
+
+“You don’t want this fight,” Hayden said and took a step forward, anger in his voice.
+
+The man looked at him and seemed to smile for a split second. “You’re right. I suppose I don’t.” He glanced at Veron and then at Silvie. “But you want it even less. Having seen that wonderful display of violence just now, I think I’m feeling generous.”
+
+Veron breathed in.
+
+“It would be a shame if you all died here, wouldn’t you say? After you barely made it and hauled that one out with such a grievous injury.” The man paused and looked them over. “So, why don’t we cut a deal? The basecamp isn’t far. We’ll take you halfway, for a generous fee.”
+
+“You-“
+
+“Hayden!” Reka snapped. “Veron, take Silvie. We follow you, to the tree line before the basecamp.”
+
+They’re trying to rob us. After they just tried to get us killed.
+
+“The fee will be higher,” the man said, casually touching the pommels of his swords.
+
+What an absolute pisser.
+
+Veron felt confusion more than anger. To go out here, trying to get people killed. Doesn’t even have the balls to do it himself. He glared at the man and they met eyes.
+
+Veron forced himself to look at Silvie. The man was threatening an injured and exhausted party, flaunting the power he had over them. Insecure. Unstable. Dangerous. We either kill him, run, or play his game.
+
+Reka says we play ball. So we play ball.
+
+Keep it low. Breathe. You’ll get through this.
+
+He tried to prepare for any of the options.
+
+“We both know it won’t matter,” Reka said in a tired voice, to answer his comment.
+
+The man huffed. “Don’t get cocky now, squad leader. You’re walking a fine line.”
+
+Veron saw the six other figures tense up slightly, preparing for a fight.
+
+Reka stayed calm and raised her hand. “We follow.” She looked at Veron and Hayden. “Let’s get out of here alive."
+
+Veron gave her a slight nod, then strapped his mace to his pack and got Silvie. He felt exhausted, but the weight was still manageable. Veron could see that at least some of the people robbing them were tense. He was tense. They don’t think it would be an easy fight.
+
+It pissed him off even more. And it confirmed his thinking. They were afraid to face an actual challenge. Otherwise they wouldn’t be here, doing this. There was challenge and wealth enough in the Gutter, and below. But why even go there when you can just rob people?
+
+Reka and Hayden walked, keeping an eye on the group as they fanned out, all of them moving together in a tense formation. Veron focused on the roots and on Silvie, connecting to the earth from time to time to ground himself. The endless depths and weight helped him focus. Hayden and Reka had his flanks, and he had his armor. If it came to a fight, he was ready.
+
+Ten minutes, they walked, and then the leader of the robber group motioned everyone to stop. Veron could spot the pipes far above and past the gnarled branches of the trees, some dulled shouts reaching them from the direction of the basecamp. The ants must’ve reached the place already.
+
+“Here we are, squad leader,” the man said. “Protected as promised. Now pay up.”
+
+“Veron,” Reka said. “Take off my pack and throw it to them.”
+
+Veron set down Silvie and went over to Reka, removing her pack with slightly shaking hands.
+
+“Scared?” one of the men asked, his voice deep. A few of them chuckled.
+
+Veron looked at him. “Yeah,” he said, and threw the backpack in front of their leader. “I am.”
+
+The leader glanced at him and then motioned to one of his companions. “Check it. I’ll want the other two packs too.”
+
+Reka nodded. “We keep some rope. We’ll need it to transport her.”
+
+The leader waved her off like it was beneath him.
+
+Veron got off his own and looked at it. Aren and Ian gave this to me.
+
+He sighed and threw it, then took off Hayden’s, taking out the rope before he threw it too. Hayden wasn’t moving, glaring at the man barring their way.
+
+The one checking the gear whistled as he took out the vessels. “Not bad, good condition too.”
+
+“What do we have?” the leader asked.
+
+“Three vessels, around adequate, one has an essence in it. Should be a good fifteen to twenty thousand, plus the essence.” He kept looking, taking out the satchels where they kept some of their silver. “Another four thousand in total.”
+
+“Not bad. I knew you were well equipped for an iron team,” the leader said and looked at them. “And I’m sure you can rebuild. I suppose that’s enough for two of you to leave.”
+
+Hayden growled.
+
+Veron breathed in.
+
+“Veron,” Reka said. “Take off Silvie’s bracer.”
+
+“You can’t be serious?” Hayden said with a hiss.
+
+“Hayden, please,” Reka said, the plea in her voice obvious. “Veron.”
+
+Veron knelt down and got the bracer, gently opening the straps and taking it off of her remaining arm. From the outside, it looked just like the ones that Reka wore, but the inside was lined with what looked like bone, and there were small thorns at the front part of it, dried blood still on them.
+
+He threw it to the pile.
+
+The same man inspected it for a long moment, using a wand to draw some runes into the air. “Yeah, that’s a nice piece. Blood lance, around adequate. Higher end.”
+
+“I wonder what else you have,” the leader said.
+
+“We try to rely on our own Paths,” Reka said.
+
+“Smart, I suppose,” he said but the disdain in his voice was obvious. “What about that blood magic I saw before?”
+
+“It’s a last resort,” she said. “We won’t part with more.”
+
+They were both quiet for a drawn out moment. The man seemed to consider. A few shouts came from deeper in the forest that seemed to distract him for a split second, then he looked back at them.
+
+“I see,” he said finally. “I think we could let you go. On account of all the other opportunities around today. Come on guys, grab the stuff and we’re out of here. Good luck on your return, pleasure doing business with you.”
+
+He walked off as his companions collected their loot, walking into the forest as Hayden and Reka kept their eyes on them.
+
+“I’ll see you around,” the leader said with a last glance and smirk below the cloth covering his face.
+
+They didn’t reply.
+
+“Grab Silvie, stay vigilant,” Reka said.
+
+Veron grabbed her and made his way towards the marshes, followed by Hayden and Reka having his back. They were silent for a while, checking for Cayaralan as they made their way towards the basecamp. The shouts had mostly died down by now and other than a few ant corpses in the distant mud, they couldn’t see any critters.
+
+“Those fucking vermin,” Hayden said and walked over when they had walked a reasonable distance from the tree line. “Let me check her.”
+
+They stopped only for a moment and Hayden nodded. “She’s fine.”
+
+Reka had her hands on her knees, then puked.
+
+“The relic?” Hayden asked as he walked over and helped her stand.
+
+She leaned into him slightly, wiping her mouth. “Yeah. Fuck.” She sobbed once. “I should’ve used it earlier… should’ve…”
+
+“None of that. We’re here, she’s alive.”
+
+“She’ll never-“ Reka started, then pinched her nose. “You’re right. Focus. Veron, how are you?”
+
+He kept a hold of Silvie. “Shaken, confused, scared, and angry. So, pretty good I suppose. Walk and I follow.”
+
+She chuckled, the sound hollow. “Alright. Then let’s get out of here. Don’t show more weakness than is obvious. Plenty of vultures around. If we see someone we know… no, the risk is too high.”
+
+Hayden growled. “Yeah. You got a route in mind?”
+
+“I do,” Reka said.
+
+“Then catch your breath, and we leave.”
+
+Hayden helped secure Silvie onto Veron’s back, using the rope to tie her to him. “You’re confident you can carry her?”
+
+“I’m good,” Veron said.
+
+Hayden now carried Reka, the four of them climbing over the basecamp wall before making their way to the chains leading up to the Crypts. There were a few dozen adventurers around, most of them leaving as well. Many looked injured and tired but everyone kept to their own teams, looking around with suspicion.
+
+“Damn fucking ants,” Hayden murmured. “Can you hold on?”
+
+“I can,” Reka reassured him.
+
+He grabbed one of the chains and started climbing.
+
+Veron did the same, checking once again that the rope was secure. He trusted the knot that Hayden made, and started climbing. He was even more thankful now that he had gotten his Path upgrade two days prior. The climb was hard, but doable. Veron took it slow and steady, stepping out from the pipes above and into the Crypts where several teams were waiting.
+
+One of them flashed a Silver Guild badge, a tall man wearing plate armor. “I’m Edward, leader of the Fanged Griffons. We’ll be cutting back through the red tunnels.” One of his companions was supporting another, a robed man with obvious pain on his face, blood marred his abdomen. “Safety in numbers. Anyone who wants to join, join now. We leave in five minutes.”
+
+“Do you know them?” Reka asked. She now stood next to Hayden but he still supported her weight.
+
+Hayden nodded. “I think so. They’ve been around a while. Third layer. Haven’t heard a bad thing. Should we risk it?”
+
+A few other teams seemed to have similar discussions. One of them agreed, then another.
+
+“It would make things easier. Just be vigilant,” Reka said.
+
+They joined the growing group, and left some minutes later, only two teams choosing to remain behind. Around twenty five adventurers now walked through the crypts together. Many were covered in mud, many of them injured. They supported each other, some now walking around and sharing food and water, wet cloths, and bandages.
+
+Their team refused to eat and drink, Reka warning them against it. Others weren’t so cautious, but nobody slumped down or died from obvious poison.
+
+Veron soon felt his tension replaced by exhaustion. It took everything to keep walking, to keep Silvie stable on his shoulder.
+
+Any creatures they encountered were decimated, overwhelmed by spells, bolts, arrows, hammer, and shield. The Silver Wolves didn’t participate in the fighting. And Veron watched the Silver badge team, their movements faster, their blows ripping through the critters of the Crypt with an ease that made him think of Ivera, and his time with her back in the woods around Eyra.
+
+Veron stabilized his hold on Silvie, and kept walking.
+
+Edward wielded a two handed mace but his movements with the large weapon were as quick as Hayden’s, if not faster. A Devotion mace wielder, or something like that. The second silver adventurer that fought by Edward’s side and didn’t support the injured one was a muscular woman with black hair bound in a single braid, wrapped to prevent someone from grabbing it.
+
+She wore black leather armor covered here and there with steel plating, or perhaps bone. Her face was half covered in blood as she cut through the vermin of the first layer with a broad two bladed axe larger than herself.
+
+Veron was glad they were here.
+
+Edward swung wide and steady, grounding the entire lose formation of adventurers around himself as he shouted, enhancing the others with his spells. He charged forward with heavy steps, never far in front or behind those near him.
+
+He’s so aware of the space around him, and everyone there.
+
+The axe wielder by his side fought with a frenzy, jumping above the skeletons and rats that faced them and twirling in the air like some kind of acrobat, her heavy axe swinging in wide arcs and sometimes even finishing entire spins as she used the weight of her axe to counter that of her body. It looked like a dance, her movements speeding up from time to time as she must’ve used her magic. A Blood Path? Or is she using relics like Reka’s?
+
+And the rest of their team isn’t even fighting, he thought, looking at the three robed and armored figures following behind. Two of them looked injured, one of them needing support with walking.
+
+Had they been surprised by the ants as well? Or did they get injured in the third layer or below?
+
+Veron watched some of the others too. There was an elemental path using bursts of fire, some of their spells exploding in bright flashes amongst the monsters they faced. He wondered at what level their Harmony was at, and their Path. Most of the fighters seemed Devotion types, using bows, shields, maces, axes, and swords. Perhaps he would’ve seen more relics and spells in action if they were uninjured, rested, and pushing together through the Gutter, but here in the Crypts, they did not face a true challenge.
+
+The weight of Silvie on his shoulder felt lighter by now. The memory of the ants and robbers nagged on him but what he saw here inspired him instead. To get better with his own magic, to be able to fight like that, to be able to be part of a group like this, or even lead one like Edward.
+
+He wondered what a true expedition was like, one that went deeper, or explored some ruin in distant lands, with people like these, or ones even more experienced. Ian had talked about adventurers like that. The reality that Veron had experienced was a lot more grounded, but seeing the silver team fight made him think that some of the stories may not have been exaggerated.
+
+It was the fastest they had traversed the Crypts so far, the monster groups they encountered entirely overwhelmed.
+
+Veron sighed in relief when they stepped out into the open pit of Anvakar, the afternoon light of the winter sun illuminating the top third of its length.
+
+They’d been robbed of some of their gear and silver. Silvie had lost more. Veron felt tired, spent, and angry.
+
+He kept Silvie stable.
+
+But I’m still alive. Still moving.

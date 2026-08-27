@@ -1,0 +1,149 @@
+---
+id: c0fe0698-73e6-570d-be32-cb27a840ec37
+page-type-slug: story-chapter-royal-road
+title: "182. Why're We All Wearing Masks, Anyways?"
+slug: 0182-182-whyre-we-all-wearing-masks-anyways
+partOf: god-of-trash
+position: 182
+ownLength: 2788
+unit: words
+publishedAt: 2025-09-10
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2590798/182-whyre-we-all-wearing-masks-anyways"
+royalRoadId: "2590798"
+---
+
+A second before he panicked, Rhys took a deep breath and forced himself to calm down. It was okay. He was in disguise and wearing a mask. Laurent hadn’t necessarily recognized him. He was just the average man, looking for a lady to dance with. He’d seen someone on the edge of the ball with no partner, and decided to take his chances… or thought he was offering charity, which honestly seemed more likely to Rhys, given Laurent’s personality and general aura of do-goodyness. There was no way he could recognize Rhys through the bone changes, the veil, and the mask. Hell, no one had even recognized ‘Adelise Infernon’ yet, thanks to his masterful costuming skills (aka a thick, dark veil over his red wig). And based on Laurent’s bearing and expression (what little he could see through the mask), the man hadn’t recognized him as Rhys or Rina. He had nothing to worry about.
+
+In which case, he now had to consider how a woman of his apparent age and Tier would react to getting offered a dance by a handsome stranger. He quietly scanned Laurent, and his brows raised: Tier 3, now, the same as him. Someone had moved up in the world.
+
+But that made it harder to refuse him. A Tier 3 lady refusing a Tier 2 man was simply expected. Two Tier 3s, on the other hand? He wasn’t sure he’d seen any same-tier refusals. He would stand out if he refused Laurent like this, without a good excuse to refuse him. Biting his lip, Rhys thought for a moment, but there really was nothing. The masks meant he couldn’t stand on his supposed-noble status; he wouldn’t know Laurent was a military man if he hadn’t immediately recognized the guy. For that matter, now that he was thinking about it, it wasn’t as if he knew that Laurent wasn’t a noble. Well, he said he was of common birth, I guess, didn’t he? But how common is ‘common?’ Depending on his perspective, he might see himself as ‘common birth’ if he was only a minor noble, as opposed to a Duke or something.
+
+Either way, the masks removed that wrinkle. He didn’t want to stand out, and Mouse wasn’t around to smooth over any social faux pas he made, so he pasted a smile on his face and delicately placed his hand in Laurent’s, the way he’d seen the other ladies do it. It was just one dance, after all. One dance, and then he could scurry back to the pillar and go back to being invisible. “I’d be honored.”
+
+Their hands met. As palm met palm, Rhys suddenly remembered something. At the tournament, they’d shook hands, and in that moment, Laurent had—
+
+Laurent’s grip on his hand tightened. Behind his mask, the man’s eyes flashed.
+
+Too late. Rhys sighed aloud, since there was no reason to keep it internal this time. Why are we all wearing masks, anyways? Everyone knows who everyone is. There’s no point.
+
+Laurent pulled him in close. His grip was like iron, as if he was afraid to let Rhys… or rather, Rina, go. “It’s you. I knew it.”
+
+Well, there’s one last thing to fall back on. The artifice that none of us know who one another is. Rhys blinked, as if in shock. “I’m afraid I don’t recall you. Please release me.”
+
+“It’s me. Laurent,” the man quickly introduced himself.
+
+Gods damn it. Rhys sighed again. He looked at Laurent, a dark look in his eyes. “So what do you want?”
+
+It was Laurent’s turn to blink, as though he didn’t understand why Rhys might be upset. “A dance.”
+
+Wait… are we actually living in the land where Rina escaped the Empire, then happened to chose to come back here to set up a snack shack? But… He looked at his hand. If his suspicions from the tournament were true, then Laurent knew Rhys and Rina were one and the same. He could still be deluding himself about which one was the base form, but he couldn’t be deluding himself about Rina not being in the same exact bad situation Rhys was in. He frowned at Laurent. “Is that really all?”
+
+He remembered the guy as being a pretty formal, rules-following type… who had invited students from another school onto his warship, in violation of all rules and formality. Huh. Maybe he’s not as hung up on rules as I thought… or at least, willing to look aside when there’s pussy on the line. Which meant… if that was true, then he desperately needed to cling to Rina as the true self, because the second Laurent found out there was, in fact, no pussy on the line, he’d be in deep shit. In more ways than one.
+
+In conclusion, Laurent knew he was Rhys, and Rina, and that he was on the run, but maybe didn’t care because he thought Rhys was Rina, rather than the other way around, and wanted to get in Rina’s pants. Who knew what he thought of the snack shack, or even if he’d decided Rina was connected to the shack at all. In other words, he needed to be Rina, but that was all. As long as he succeeded at being Rina, then…
+
+Actually, I don’t know what happens then. He looked Laurent up and down. Laurent had struck him as a planner. He probably had plans for Rina, but who knew what they were. Aside from Laurent himself, no one could guess where he was going with this whole scenario.
+
+Laurent sighed. He looked Rhys over like Rhys had just done to him, though he probably wasn’t thinking the same things Rhys was. “Can it be all, just for tonight?”
+
+Got it. So he’s got some plan, but I guess we’re sticking to the bare minimum of artifice that it’s possible for him to have not identified me at the masquerade ball, and therefore he doesn’t need to proceed to capturing me for the Empire, or whatever else he wants to do. Rhys nodded. He could appreciate Laurent looking aside for a night. It wasn’t quite as romantic as Laurent probably thought it was, but it did make it easier for him to get out of it.
+
+I don’t really get what’s so trashy about all this, but it does seem to be working out for me, so… Wait! Rhys’s eyes widened. This… this romantic line. Laurent being foolish and deliberately looking the other way. A masquerade ball, and of course, a fantasy setting… weren’t these the ingredients for one of the most famously trashy genres, the romantasy? True, they were mostly aimed at women, and not exactly built for Rhys, but he could appreciate a female lead as much as the next guy. It got a bit boring when the female lead had to get saved all the time no matter how strong she was, but there were a few good ones he’d enjoyed, even if the smutty bits were—
+
+Smutty bits. Rhys froze on the spot. Romantasy belonged firmly in the genre known as ‘mommy porn,’ aka, books that looked just legitimate enough that mothers could boldly read them in the open without anyone blinking, but were nonetheless packed cover-to-cover with bodice-ripping, cheek-slapping, heavy-breathing action. If he was really in a romantasy scenario, then… he eyed up Laurent with mild concern. Hopefully the guy didn’t have any intentions about going out on the balcony and getting handsy, or else they’d both be in trouble.
+
+At least it’s not the other variety of mommy porn, Rhys thought to himself, or else we’d have to have some real bold conversations about anatomy and the physical possibilities that exist in this world. He’d made enough whoopsies with poorly tagged fanfiction to know the depths of depravity that existed in the female mind, and he really had no intention of personally discovering if male-male relationships were capable of producing fruit in this world. Not that he wanted a liaison with Laurent in the first place, but hopefully they could avoid any questions of that nature entirely, regardless of what decisions he had to make throughout the night.
+
+“You look troubled. Please, don’t concern yourself. My intentions truly are to dance, and no more, tonight,” Laurent reassured Rhys. He led him onto the dance floor, sweeping past the other couples.
+
+Rhys glanced at him. In ways that Laurent would never know or understand, that did actually help a lot. “That is good to hear.”
+
+Mouse passed by, holding a plate laden with olives and cheese. She blinked at Rhys, shock and confusion on her face.
+
+I’ll explain later. Keep the cheese safe, Rhys mouthed at her.
+
+Mouse blinked again, then nodded and scurried on, pretending they’d never interacted at all.
+
+They made it to the dance floor just as the first notes of a waltz began to play. Laurent clearly knew what he was doing, but Rhys had no idea. He followed Laurent’s lead the best he could, which meant he moved with enough magely grace to look like he knew what he was doing, but lacked the preternatural beauty and grace of the other mages on the dance floor. Still, he’d take it. It was better than what he’d do if he were still mortal, which was trip all over his own feet.
+
+“I’m sure you have nothing but questions, but… tonight, can we simply be two mages, with none of our past between us?”
+
+“You tore my core out,” Rhys pointed out quietly. It was a lot for him to overlook.
+
+“And you seem none the worse for it,” Laurent replied, a note of smugness in his voice.
+
+For some reason, Rhys’s anger spiked. He knew he shouldn’t, but he couldn’t stop himself. Speaking so quietly he could barely hear himself, even with mage hearing, he said, “Three years of my life. Stolen. I watched people die. Mages who should’ve had centuries ahead of them, brought low like mortals under your Empire—”
+
+He took a deep breath. Now was not the time. Besides, it wasn’t as if he was going to convince Laurent, the original brainwashing fan, that the Empire was evil. Plastering a smile on his face, he said, “Forget it. We’re simply here to dance.”
+
+To his surprise, Laurent’s brow creased. He touched a round ruby pin on his chest, and the sounds around them muted, dampening to nothing. Rhys had a mild concern about what Laurent had been intending on doing with such a pin, but he forgot it as the man spoke. “What do you mean? Prisoners are guaranteed rights under the Empire. They must be adequately cared for and—”
+
+Alright. That’s it. Rhys laughed in his face. “Adequately cared for? That’s a real joke. The things I’ve seen the guards do… you’ve never been to a camp, have you?”
+
+“It’s… a penal duty. I’ve never had the misfortune of being disciplined so harshly.”
+
+“Yeah. So what do you think your badly-behaved officers do, huh? We have no recourse. No one we can turn to, to make things right. If someone decides to abuse the prisoners, or do whatever they like, who do you think stops them? Who can we turn to, to ask for things to be made right? There’s no accountability, and all the guards are people who have misbehaved so poorly the Empire puts them on penal duty. Do you think prisoners are treated with respect, under those circumstances? Do you really?”
+
+“I never thought about it,” Laurent said quietly.
+
+Oh, you didn’t, did you, Rhys thought, barely keeping himself from rolling his eyes. Laurent, not considering the downsides of the Empire’s policy? The original brainwashing boy himself, not thinking critically about the Empire? A real shocker, right there.
+
+Rhys sighed. He looked at Laurent. “Tonight is only dancing, but what is your plan for me, long-term? Are you going to chase me? Try to turn me in? Look the other way, and pretend you never saw me?”
+
+“I could never do that,” Laurent said, aghast.
+
+“You definitely could,” Rhys encouraged him.
+
+“You’re too beautiful,” Laurent continued, ignoring Rhys’s practical interjection.
+
+“I’m definitely not too beautiful.”
+
+“Do you not know your own beauty? I could wax poetic—”
+
+“No, that’s fine, thanks,” Rhys said, before he ended up with an earful of nonsense about how his eyes compared to stars, or whatever bullshit people said in romantasy novels. He’d rather hear about how handsome he was, but not from Laurent.
+
+Laurent’s brow was still furrowed, though. “I’ll have to look into your allegations of abuse. If I find them to be true, that changes my next move.”
+
+“I’m glad to hear it.” He didn’t have high hopes, but if it tied Laurent up with chasing down better treatment for prisoners, rather than turning him in, then all the better. He paused. “Don’t do anything stupid like announcing that you’re going to come by for an inspection, either. The guards will clean things up if you do, but only for as long as the inspection lasts. Then they’re right back at their usual behavior, and nothing changes.”
+
+“That is counter to protocol… but I’ll take it into consideration,” Laurent allowed. He sighed and gripped Rhys tighter. “I truly only wanted to dance, and yet you have laden me with more burdens. Is this the way we must always be?”
+
+Rhys pulled away as subtly as he could. “Seems like it.”
+
+The old kicked-puppy look appeared on Laurent’s face. “Why do you hesitate and pull away? Do you find the Empire so hideous that I, too, am undesirable?”
+
+I find you undesirable because you’re a man, bud, and you’ll think the same of me when you find out, Rhys thought. Aloud, he said, “Perhaps.”
+
+“Then… if I make the Empire a shining paragon of truth and righteousness, as it should be…” Laurent trailed off thoughtfully. He looked at Rhys with a thoughtful expression.
+
+Hey, there, what are you thinking about now? On the other hand, this actually benefitted Rhys. It meant Laurent was not only distracted from chasing after Rina or reporting her… him, but was also going to cause a headache for the Empire as he raised all its deficiencies for them to clear. Internal strife while Rhys worked on causing all kinds of external strife? Exactly the puzzle piece his insurgency had been missing.
+
+Rhys said nothing. He was happy to let Laurent’s imagination fill in the gaps. Anything he said would probably get misconstrued by Laurent anyways, so all the more reason to let him be the one to figure out what Rhys meant, now that he was thinking in a helpful direction.
+
+Laurent nodded. “I will put my entire heart into the task. You will find me more than capable of making the Empire everything it should have been all this time, and then…” A little smile appeared on Laurent’s face.
+
+Glad you’re so confident. Rhys didn’t say anything, but let him draw his own conclusions once again. He was being a little less than ideal of a human being for not letting Laurent know clearly that he wasn’t interested, but then, when had he ever claimed to be a perfect person… or even a good one, for that matter? He was trash, and he always had been. No one expected a trashy person to be completely clear about his or her romantic intentions, or lack thereof.
+
+The song came to an end. Rhys pulled away, but Laurent stepped after him, chasing him down. “Are you sure we can’t have one more song?”
+
+“I’m sure.” He had things to do. Pivotal moments to see to. And if Lord Estos moving steadily toward the front of the room was any indication, that pivotal moment was coming up fast.
+
+Reluctantly, Laurent released him. “Then… can I find you…”
+
+“Absolutely not.”
+
+To his surprise, Laurent took it in stride. “Of course.  It would be counter to my intentions were I to risk my reputation openly cavorting with you. How thoughtful. Even I had not yet considered such a risk.”
+
+“Yep.” That was definitely why he’d said no.
+
+Laurent released him at last. “Until we meet again.”
+
+“See ya.” Rhys hurried away. He didn’t go back to the same pillar, but wandered around the outside until he ran into Mouse. She gave him a look, and he waved his hand. “An old friend.”
+
+“You mean that Empire soldier who’s desperately in love with Rina,” Mouse replied. There was something odd about her tone, but Rhys couldn’t place it.
+
+“Yeah, him. Still as confused as ever. Is everything ready for our pivotal moment?”
+
+She nodded. “Ready to go.”
+
+Rhys clapped and nodded. “Then let’s get to it.”

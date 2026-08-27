@@ -1,0 +1,221 @@
+---
+id: 319c9681-5cf2-5d64-929c-07ff5bdc8155
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1000: Cosmic Tyrant Warlord Cult Leader"
+slug: 0067-chapter-1000-cosmic-tyrant-warlord-cult-leader
+partOf: he-who-fights-with-monsters
+position: 67
+ownLength: 2766
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3241061/chapter-1000-cosmic-tyrant-warlord-cult-leader"
+royalRoadId: "3241061"
+---
+
+Jamis Fran Muskar was not the typical image of a messenger, despite the grandiosity and the wings. At seven feet tall he was diminutive for his kind, and his clothes were not the loose, toga-style garb messengers favoured. He wore a brown jacket over a dark green shirt, hiking boots and jeans. With his wings and shroud of amber light, he looked like an angel on a casual hike. Jason, Jali and Tera watched as he floated down and his feet settled on the metal deck of the vast hangar instead of hovering over the floor which was the messenger norm.
+
+Jamis allowed his wings to shrink away, and the light around him vanished as well. He stepped closer, highlighting how much Tera and Jali loomed over their king of kings. The least messenger-like thing about him was the absence of any display of dominance. It was well within his power to expand his size and look his fellow messengers in the eye. Instead, he looked up, fixing them with a curious gaze.
+
+Jason, in turn, looked over Jamis. In his astral kingdom, Jason could perceive far more than the obvious, down to the fundamental nature of anyone in it. The threads of power making up the messenger’s body were an intricate work of art, far beyond what Jason himself could create, even in the heart of his domain.
+
+“Your avatar is impressive,” Jason told his guest.
+
+Jamis turned from the other messengers to focus on Jason.
+
+“You will learn as you gain experience and your power grows.”
+
+“I would hope so, looking at your efforts. Even my prime avatar is crude in comparison, and this is one of your peripherals.”
+
+“No astral king would risk sending their prime avatar to the kingdom of another. You are new to the creation and use of avatars, so I will warn you that there are ways to use your prime avatar against you. No actual danger, of course, as what could endanger the likes of you and I? The true threat to our kind is inconvenience. To be thwarted from whatever our current agenda happens to be. The irony being that when you have forever, timing can be everything.”
+
+“I appreciate the advice, although I doubt you sent an avatar all this way just to give it.”
+
+“No, but I wanted to give it and I suspect you’ll find it timely. I have made no secret of wanting us to be friends. Given the nature of eternity, you might even see it as inevitable. Most things are, if you wait long enough, but you’re still so new to living forever. You’ve stumbled onto the peak of cosmic power with no idea of what you’re doing.”
+
+“So, advice and a warning?”
+
+“Yes, although I won’t speak more on what is waiting for you in the coming days. Even I have to be wary of the enemies I make. Just consider what I have chosen to warn you of, and when. With most astral kings I wouldn’t bother, as only the most extraordinary foes can interfere with a prime avatar. At the risk of self-aggrandisement, however, extraordinary foes are kind of your thing.”
+
+Jason grimaced, not liking those words coming out of the messenger’s mouth.
+
+“One of the reasons I chose to offer this warning,” Jamis continued, “is your awkward position in terms of power level. You are aware that your prime avatar is undercooked by traditional standards. It leaves you more vulnerable than other astral kings.”
+
+“So I’ve been told. Vulnerable how?”
+
+“There is only so much that can be done to a prime avatar, even by those with the knowledge and power to do so. It can be trapped, to a degree. Prevented from self-destructing so you can replace it with a spare. You do have a spare, yes? Surely you must after all the reality core energy you’ve drained from vampire lords in the last decade.”
+
+Jason scowled but didn’t reply. Jamis smiled and continued.
+
+“The specifics vary, but the main effect of locking away your prime avatar is to seal your astral kingdom, restricting your influence to within its boundaries. Your ability to influence your ancillary domains will be significantly diminished. Binding your chief mortal agent arrests your ability to act beyond the seat of your power. Not forever, of course, but as I said, timing can be everything. Inconvenience is the only true threat to an otherwise untouchable entity.”
+
+“Then I suppose I should thank you. Yet, I somehow feel like I’ll only truly understand once I’ve suffered through what you’re warning me off.”
+
+“Quite likely. Experience is how we learn, after all, and none of us are immune to learning the hard way. That’s especially true for the young. You will live forever, but have yet to experience a full mortal lifespan. You still have so many connections, so many vulnerabilities. So much to lose.”
+
+“That sounds less like a warning than a threat.”
+
+“It is not, I assure you. My threat for you will come later in the conversation. This is just a warning, given since the timing seemed apt.”
+
+“Some friendly advice, gifted on a whim?”
+
+“Precisely.”
+
+“You do seem whimsical, for a messenger. Even so, I can’t help but think you do things more deliberately than you like others to realise.”
+
+Jamis grinned.
+
+“We are going to be such good friends, Jason Asano.”
+
+Jamis glanced once again to the other messengers before returning his gaze to Jason and continuing.
+
+“If nothing else, you always find fresh ways to fascinate. I know it must wait for another day, when you don’t have your little vampire war going on, but I would relish the chance to converse at length with your companions. As you know, I’ve made a study of originals like you. It’s a compelling topic with many facets, such as how they choose to engage with ordinary messengers. The effect they have on them. I have found that the messengers surrounding and created by originals differ sharply from ordinary examples of my kind.”
+
+“As do you,” Tera said, finally finding the courage to speak up. “I would never have imagined you, out of all of us, calling any messenger ordinary.”
+
+A delighted smile crossed Jamis’ face.
+
+“Tera Jun Casta,” he said. “I find you especially interesting, but you spend most of your time hidden away in Jason Asano’s astral kingdom. My agents on Earth are quite astonishingly capable, but even they have their limits.”
+
+“Agents on Earth?” Jason asked.
+
+“Oh, yes,” Jamis said. “Private ones, my own people. Not anyone the Council of Kings has access to, but we can discuss that in a moment. To stay on topic, Tera Jun Casta, I find orthodox messengers to be very ordinary indeed. As you are quite pointedly aware, the indoctrination process tends to smother individuality. It’s largely the point, of course, but it makes them so very dull. And messengers like you more interesting by contrast.”
+
+“Yet, your people haven’t declared the originals part of the Unorthodoxy and made war on them,” Jason observed.
+
+“Power trumps all,” Jamis said, “and whatever else you can say about them, the originals are staggering powerful. As you will demonstrate yourself, in time. We have something of a détente with the originals. We avoid them, and those associated with them. They, in turn, do not interfere with us. They’re reclusive enough that we can avoid our hypocrisy being revealed to the messenger masses. The advantage of blind obedience.”
+
+“Surely some have chosen to stand against you,” Jason said.
+
+“Some, but even then, we have something of an arrangement. They don’t highlight that they are anything other than regular astral kings and we don’t escalate. A few rebel astral kings fits within our ideological framework.”
+
+“That can’t be sustainable,” Jason said. “Surely one side or the other will push hard enough that the other has to push back.”
+
+“It happens, but you’d be surprised what a compliant population and a willingness to purge whole sections of it will accomplish.”
+
+“And that, Jamis Fran Muskar, is why we won’t ever be friends.”
+
+Jamis smiled.
+
+“We’ll see. But I can see that I have your ire up, so I suppose it’s time to explain why I’ve actually darkened your door. There is something I would like from you. You surely know, by now, what awaits you on your return to Pallimustus.”
+
+Jason glanced at Tera and Jali.
+
+“It would seem I need to speak with him alone,” he said, and opened a shadowy portal arch.
+
+“Are you sure?” Jali asked.
+
+“What secrets are you keeping?” Tera asked him and Jamis burst out laughing.
+
+“A great many,” Jason told Tera. “Even from myself, in some cases. It’s time to stop hiding this particular secret, but it would take too much time to explain right now. I’ll reveal it all once we’re done with the vampires, I promise. For now, you should return to your respective forces and prepare for the fight.”
+
+Jali inclined her head towards the portal, getting a disgruntled acknowledgement from Tera. The two messengers passed through the arch and it closed behind them.
+
+“You’ve keeping the truth from your prime avatar?” Jamis asked.
+
+“Keeping what I know from the goddess is difficult, even a universe away. I am certain that, like you, apparently, she has agents on Earth. Just because she cannot communicate with them directly does not mean they are unable to send messages of any kind.”
+
+“Why leave her thinking you don’t know?”
+
+“Given my history, I think she would be fair in assuming that I would do something drastic. Given that I won’t be, I don’t want her to anticipate that I will and make things even worse with a pre-emptive response.”
+
+“That doesn’t sound like you. Will you really just roll over?”
+
+“Do you see another option?”
+
+“I was hoping that you would. For my own amusement, if nothing else.”
+
+“There is one, but it’s worse than just letting it happen.”
+
+Jamis raised his eyebrows in surprise.
+
+“There is an alternative, then?”
+
+“Time travel.”
+
+“Ah. Yes, that would be worse. So, you’re going to let her plan play out.”
+
+“Yes. This time, she wins. What comes after is where we fight.”
+
+“And fight you will have to. The Earth is not ready, despite your best efforts. You don’t have enough gold-rankers. Not unless the colony of Unorthodoxy messengers on Earth stands and fights with you.”
+
+Jason’s lips tightened into a thin line.
+
+“So, that’s the threat you mentioned. Revealing the messenger on Earth to the Council of Kings?”
+
+“It is. A blunt tactic, I know, but needs must when the devil drives. I must say, I’ve become rather fond of Earth idioms while observing your quaint little world. I see why Boris likes it. Are you familiar with the saying ‘a frog in a well?’”
+
+Jason let out a sigh.
+
+“Far too familiar. It’s been my life for a long time now.”
+
+“And will continue to be, I suspect. For an immortal, Jason Asano, you are an extremely mortal man. Which, to return to my point, is what makes you so easy to threaten. Earth will need the messengers hidden there very soon. It very much does not need hostile messengers invading from the outside. Which we can freely do.”
+
+“Yeah, I get it. Your war with the Unorthodoxy is older than the Earth itself. Them choosing to hide here means that the laws of intrusion wouldn’t stop you from coming to attack them. Either the Unorthodoxy would have to leave Earth and be unable to help us, or the Orthodoxy would be free to invade.”
+
+“It’s good that you understand. I once handed over to you a significant portion of our forces on Pallimustus so you wouldn’t become a more motivated foe. That time I used the carrot. This time, you don’t want me to become a more dedicated enemy. That is the stick. I have no interest in seeing your world invaded, Jason Asano. All I want is a simple trade.”
+
+“And your end of this trade would be keeping the Unorthodoxy presence here a secret from the Council of Kings.”
+
+“Yes.”
+
+“In return for what?”
+
+“I mentioned my agents on Earth. While they have been careful to avoid your spirit domains, I am not ignorant to the goings on within. What interests me specifically is the work of one Carlos Quilido. In less than a decade, his research has borne far more fruit than even he anticipated.”
+
+“You want his method of purging monster core residue?”
+
+“I do not. While I’m sure I could find a use for it, my interest is in his ability to remove the behavioural effects of sunlight from vampires. My understanding is that he can now negate the condition that turns them into blood-hungry psychopaths. Even greater vampires.”
+
+“That seems even less useful to messengers than cleansing monster cores.”
+
+“To every tool there is a purpose. And, if my estimation of you is correct, you intend to freely disseminate the process in any case. All you would be doing is seeing that it reaches certain places faster than it otherwise would. A small price for keeping Boris Ket Lundi and his messengers available to Earth.”
+
+“That all sounds very reasonable. I imagine sounding reasonable is something you’re very good at.”
+
+“I am, yet you don’t trust what I say because I am the one saying it.”
+
+“I don’t think you’re lying. What concerns me are the consequences I don’t see coming. You have epochs of experience on me. Pitting my cunning against yours would be a fool’s errand.”
+
+“I probably shouldn’t ask this, but I find myself irresistibly curious as to how you’ll answer. If you were to pit something against me, what would it be?”
+
+“Someone like you? The power of friendship.”
+
+Jamis sighed.
+
+“I suppose I should have guessed, although I cannot blame you for the answer. Telling me the truth would be strategically unsound.”
+
+“You think I’m kidding? It’s how I beat the Builder. Twice. And even someone like you has blind spots. I get the feeling that genuine, unconditional trust in another person is one of them.”
+
+Jamis grinned.
+
+“I see. The disadvantage of experience is that we ancient beings have a habit of thinking we’ve seen it all. It is the prerogative of youth to innovate and surprise. To hit us where we don’t see it coming. I must admit, Jason Asano, I’m a little bit looking forward to when you and I clash. Almost as much as I am to our becoming friends. You need some seasoning before you’re ready for either, but I have forever to wait. In the meantime, are you inclined towards my proposal? I know you have a battle on Earth to prepare for.”
+
+Jason took a long breath and let it out slowly. He conjured a recording crystal out of the air and tossed it to Jamis.
+
+“There you go. That, and a good healing magic specialist is all you need to turn vampires sane. We never found a way to turn greater vampires human, though. That’s soul deep.”
+
+Jamis waved the crystal gratefully.
+
+“This is all I need.”
+
+“Also, if they’ve been full-blown murdering people, you might find the trauma too much for them to come back from. We’ve been seeing a lot of that.”
+
+“Not my concern.”
+
+“Another reason you and I can’t be friends. That, and the cosmic tyrant warlord cult leader thing.”
+
+“You say that like you’re not heading in the exact same direction.”
+
+“No, not exactly the same. And the difference matters.”
+
+Jamis smiled.
+
+“We’ll see.”
+
+The messenger tucked the recording crystal into his inside jacket pocket. He floated into the air, then got a thoughtful expression and dropped back down.
+
+“Jason, in Simon McKean you will face a man who has spent the last decade preparing for this fight. To him, battling you is not a means but an end in itself. To stand as your enemy is his very objective, and I do not like that. I am your enemy, and I have no wish to be shamed by some tiny man on a meaningless world who thinks he can stand where I do as your foe. When you confront him, remember who you are. What you are. Put aside modesty and humility to remind the people of Earth that a giant strides across their little rock.”
+
+His wings reappeared, shedding amber light, and suddenly, he was gone. Jason’s avatar stood, watching the empty space for a moment.
+
+“I hope I didn’t just mess up very badly.”

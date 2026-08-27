@@ -1,0 +1,113 @@
+---
+id: fce88968-f54c-5cec-807c-4059f4b5aa3b
+page-type-slug: story-chapter-royal-road
+title: "009: A Matter of Scale"
+slug: 0009-009-a-matter-of-scale
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 9
+ownLength: 2158
+unit: words
+publishedAt: 2024-04-06
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1583146/009-a-matter-of-scale"
+royalRoadId: "1583146"
+---
+
+Another spray of the mucus-like goop showered Evelyn as one of the monstrosity’s tentacles smashed into her raised arms with enough force to rattle every bone in her body. She just about kept her footing stable, but things were already out of control and if someone didn’t deal with the raging octopus-jellyfish hybrid that they had been pitted against soon it seemed they would be failing the 5th Floor.
+
+Graham lay unconscious once more, his arm twisted at an unnatural angle and the left side of his chest was caved in from an errant strike from one of the beast’s tentacles. Zach had managed to avoid injury thanks to his nimble movements, but in the same vein had also failed to deal any real damage to their target.
+
+Anthea was handling herself surprisingly well and had even managed to slice off one of the monster’s tentacles with her rusty dagger, yet she had taken some damage in the process and was now barely avoiding its lethal strikes. Of course the star of the show was Kayla, the only one of the group who was putting Evelyn’s tanking to full use with her hit and run fighting style, darting in close to the creature’s main body and pummelling it before dashing away to run circles around it once more.
+
+Their strategy had been well thought out and against many opponents it would have worked out as they envisioned, with Evelyn taking on the brunt of the damage while her allies worked to wear down the mini boss. However, as was often the case with finely crafted plans, everything went to shit the moment the raid began.
+
+Whatever each of them had been expecting from the mini boss raid, this wasn’t it. Despite Bulwark doing its best to let her absorb the brunt of the impacts, Evelyn knew that another few strikes would be enough to break her. That left them a very limited timeframe in which to figure out how they would kill the mini boss and clear the challenge.
+
+“Kayla, I appreciate you’re doing the best you can, but any chance we can deal some real damage to this thing soon? I’m not sure how much longer I can hold on,” said Evelyn, her voice strained as she threw the soft, slimy tentacle back from where it came.
+
+“I’m tryin’ darlin’! This damn fish is too slippery and I can’t figure out where it’s weak point is to get a solid strike in. Zach, you don’t seem to be doing much in the way of helpin’ out, have you at least been using all that free time to analyse this thing?” She shouted back while rolling under a tentacle that shattered the ground that she had been standing on moments before.
+
+The young man was behind the monster, staring at something on its neck, or at least what passed for the neck of a lovecraftian aquatic horror. His expression hardened at Kayla’s dig but he wasn’t able to free his concentration to craft a suitable response. A moment later he pointed at a part of its body that neither of them were able to see from their position and started to shout.
+
+“There’s some kind of crystal embedded in its body here, I think that should be how we defeat it, can you distract it while I-”
+
+He was cut off as a tentacle swooped in from the side and wrapped around him, squeezing the air from his lungs and lifting him high into the air as Anthea and Evelyn screamed out.
+
+“Crap, we need to help him out, try to cut off the tentacle before it-” Evelyn blurted while starting to dash towards Zach.
+
+“Wait, Evelyn it’s already too late to save him, we need to make the most of his sacrifice and target that crystal he saw in his final moment,” replied Kayla, grasping her arm firmly and pulling her back right as another tentacle whipped through the air in front of them.
+
+A shrill cry rang through the air as the monster dropped Zach from its tentacle into its waiting maw, a circular abyss lined with teeth like razors and needles that snapped shut around his body. A sickening crunch could be heard as it bit into him and he screamed as the last drop of life left his body.
+
+“HELP!”
+
+I knew she was cold hearted but that was too much. If the three of us worked together there was definitely time to save him. I can’t let my guard down an inch, around her or the mini boss. At least he was able to provide us with some help before he died.
+
+Anthea had run around the monster and called out to the two of them who had resumed dodging the mini boss’ strikes while attempting to make their way towards her.
+
+“I think he was right about the crystal,” she called out, “It’s in the most protected part of its body but we should be able to distract it long enough for one of us to reach it.”
+
+“Looks like you’re up darlin’, you said you had a few more hits in you so let’s make them count,” Kayla said as she sprinted in the opposite direction as Anthea to split the monster’s focus.
+
+At the very least I can trust that Kayla knows how to handle herself in a fight. If I ever have to fight another boss like this I’m opting out of the tank role. This sucks hard.
+
+The octojelly creature, as she’d begun calling it in her head, having figured that octopus-jellyfish hybrid was a bit of a mouthful, turned towards Kayla as she ran off and Evelyn took a deep breath, readying herself for the coming action. “Over here you fat lump of jelly!” She yelled at the mini boss.
+
+While some of the tentacles seemed to have a mind of their own, continuing to harass both Anthea and Kayla as they started to weave their way through towards the supposed weak point of the monster, Evelyn’s taunt had worked as intended and the two beady black eyes focused on her as a writhing mass of limbs began to flail and strike in her direction.
+
+Jumping side to side and throwing herself around was enough to avoid the opening blows, though the creature clearly put less effort into targeting them and frankly it didn’t need to given the sheer number of appendages it had available to it, with there being just a momentary delay between one strike and the next, forcing Evelyn’s mind into overdrive as she struggled to judge the trajectory of the tentacles.
+
+One finally found its mark and smashed into her chest, dulled only by a single raised arm which she’d managed to sneak in between at the last moment. That didn’t stop it from hurting like hell and nearly knocking her off balance. However, there was no time to feel sorry for herself as another tentacle immediately sliced through the air and she ducked just in time to avoid it, a few drops of slime splashing onto her hair as it whizzed by.
+
+At least two of my ribs feel broken after that last one, the girls better hurry up and kill this thing or it looks like I might be following in Zach’s footsteps. This damned tower is making me miss Lily’s baking. I’d much rather the confusing taste of her spinach cake than having to brawl with a mutated sea monster.
+
+In the melee, her focus forced as wide as it could go to help her see each new strike as it came for her, Evelyn somehow managed to miss an angle. It was from this blind spot that one of the creature’s limbs struck with prejudice, slamming into her spine and cracking another rib or two as it sent her flying towards Anthea.
+
+The last thing she saw before her mind went blank was Kayla cleaving a tentacle in half with a dagger she’d picked up from the floor and Anthea rushing towards a glowing white crystal embedded in the monster.
+
+~~~
+
+“You need to just forget about her and focus on hitting that crystal again, it’s clearly slower and weaker since you managed to strike it before. Stop wasting time guarding a dead woman,” she heard Kayla scolding Anthea in the distance, though it was hard to tell since she was only getting sound from one ear.
+
+Damn, the octojelly really did a number on me with that hit. I’m pretty sure I’ve only got three ribs left intact and it looks like I’ve gone deaf in my right ear. Freaking Kayla, why does she have to be so cruel. I really wanted to like her with that whole southern charm she has going on. It looks like they’ll be able to defeat the mini boss so I should just go back to sleep and wait it out.
+
+Evelyn had only passed out for a minute or so, right as Anthea was able to land their first real blow against the monster. However, she had celebrated too early and nearly lost her life, only living thanks to timely intervention from Kayla who was now working in tandem with her to find another opportunity to finish off their enemy. The strike hadn’t managed to completely destroy the crystal, however it was now cracked and its lustrous shine had dulled along with the creature’s movements.
+
+The two other girls were doing their best but without Evelyn there to distract the mini boss they struggled to deal with the mass of tentacles that struck at them non-stop. An errant strike hit Kayla and she was blown away, managing to recover her footing but visibly weakened. Anthea made a dash for the crystal, seeking to end the battle before it was too late, but Evelyn could see that she wouldn’t make it.
+
+Damn it Evelyn! Stop being an idiot. Go to sleep? What are you thinking? That kind of poor attitude isn’t going to help you see your friends and family again. Besides, what would they think of you if you lay there like an idiot while a teenage girl was getting her ass beat to save yours?
+
+Forcing herself to her feet, gritting her teeth and ignoring the pain through sheer force of will, Evelyn took a few deep breaths to steady herself and clear her mind before reaching into her pocket for a trusty old friend, fingers finding purchase on the gritty surface of a blood stained rock. Evelyn pulled out her weapon and began to sprint towards the carnage.
+
+Anthea was just a few metres from her target, dagger at the ready, when one of the monster’s tentacles swept her feet out from under her and she face planted into the ground with a heavy thud. Kayla took advantage of the opportunity and made a beeline for the crystal, hoping that a strong enough punch would be enough to shatter it completely and Evelyn was right behind her.
+
+Unfortunately for the lithe southerner, her narrow focus on the mini boss’ vulnerability meant she forgot to keep an eye out for the swinging limbs of the beast, one of which caught her shoulder and sent her flying to the ground with a pop as the joint dislocated. Evelyn however, was running in overdrive, with adrenaline pumping through her system and a healthy dose of rage she spotted every single one of the monster’s attempts to smash or pummel her into the ground and right after Kayla was struck, the same tentacle came at her and she slid underneath it, arriving right before the white crystal.
+
+Evelyn mustered all her strength for a single powerful blow and swung the jagged rock at the crystal, which shattered into dust from the impact. That set off a chain reaction in the mini boss which began to bulge and contort, exploding outwards in a disgusting spray of blood, slimy goop and bits of sea monster. She raised the rock to her mouth and ignoring how disgusting it was, gave it a wet kiss.
+
+“God I love you, my little beauty,” she muttered.
+
+“Well, if that was just a mini boss, I sure can’t wait to see what this place thinks a real boss is,” Kayla chimed in while helping Anthea to her feet.
+
+❰ Mini Boss Raid Clear ❱
+
+Survival Rate: 60%
+
+Time Taken: 23 Minutes, 38 Seconds
+
+Clear Rating: D-
+
+You have received a Common Loot Chest as a clear reward. Essence has been shared between all surviving challengers.
+
+~~~
+
+Congratulations Challengers, you have cleared the 5th Floor! The Party System has been unlocked and can be accessed at any time. The Inventory has been unlocked and can be accessed from the menu. You may purchase one reward from the following:
+
+〖Full Recovery〗- 10 Essence
+
+〖Random Common Equipment〗- 35 Essence
+
+〖1 Attribute Point〗- 40 Essence
+
+〖Grey Star〗- 52 Essence
+
+〖Common Skill Crystal〗- 65 Essence

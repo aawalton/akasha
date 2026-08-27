@@ -1,0 +1,149 @@
+---
+id: 656d4bbf-d84a-5ba8-85a8-ffe5dc8d5d56
+page-type-slug: story-chapter-royal-road
+title: "Chapter 836 - Let's check out the surface!"
+slug: 0163-chapter-836-lets-check-out-the-surface
+partOf: hell-difficulty-tutorial
+position: 163
+ownLength: 2597
+unit: words
+publishedAt: 2026-06-28
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3604634/chapter-836-lets-check-out-the-surface"
+royalRoadId: "3604634"
+---
+
+POV Savant
+
+A comfortable quiet settles over me once I return to the first floor of Beyond. I do not expect the Ruler of Diligence to break his word, but I still check my bag. As expected, within it lies a metal shard with an oval stone imbued inside it, covered in delicate inscriptions.
+
+I close the bag and decide to use the item on the Sword of Aeons later. My goal remains the same, by the end of the tutorial, I want to restore the Sword of Aeons to at least mid-pristine rarity, and this stone will help with that.
+
+The negotiations we took part in were terrifying, but they bore fruit and provided a wealth of information. I have gained knowledge on gods, fragments, and the identity of Nathaniel’s handler, among a number of other things.
+
+Seeing beings as powerful as the Rulers is also a reward in itself. Though they were heavily restricting themselves, getting used to such powerful presences carries its own advantages. After all, freezing mid-combat due to fear is a very real danger.
+
+“Was he always like this?” Weslin asks, appearing at my side.
+
+“Excuse me?”
+
+“Nathaniel, I mean. You knew him before I met him. Did he always talk to the Rulers like they were some sort of back alley merchants?”
+
+I observe him for a moment longer. He still seems a bit shaken, and when I check my own state, I notice similar tension in my own body.
+
+“He might not seem like it, but he can be very calculating. He behaves the way he does because he either thinks he can do so without significant consequences or because he believes they have a preference for it. If you think about it, being a Ruler must mean almost everyone cowering in fear before you. Having someone so straightforward must be refreshing for at least some of them.” I say.
+
+Weslin chuckles. “It’s easier to see than it is to actually behave that way. Well, having a ridiculous amount of mana must also mean he’s more accustomed to the sort of pressure they radiate.”
+
+I nod in agreement. Then, I take a few steps and pick up the Leviathan Fish’s core from the ground, likely left there by the Ruler of Diligence. All of us are now standing outside the god’s corpse and have likely been placed far away from it. I don’t think this was truly meant to stop us, so much as serve as a hint and silent request to leave it alone. I don’t think it would be a bad idea to get on a Ruler’s good side, so I should do my best to prevent the others from returning there.
+
+“Oh, look, Brichant,” Weslin says as Brich approaches, while Morwag sits on the ground to meditate. This time, I take notice of the movements of his binding energy. He’s still heavily drenched in sweat, and heat seems to seep out of his body, which occasionally twists and audibly cracks.
+
+I notice his horns getting thicker and slightly longer, too. The only thing that comes to mind is a Primary Class upgrade, as I figured he already had his third trait before our expedition started. So, does the class upgrade influence the body? Is it his newly allocated stats? Or something else entirely?
+
+Even without this, Morwag is an interesting case. He doesn't have a fifth trait, or even a fourth. According to the information I have, he wasn't even born with a demon heart, so his traits are limited to three, much like a human. It’s a disadvantage for him, and knowing demons, he was likely looked down upon. However, the binding primordial energy he possesses isn’t like anything I’ve seen in anyone else yet.
+
+There is a lot I want to observe regarding him, but it wouldn't be efficient. Not with Weslin here, I can learn much more from someone like him. So, I turn back to him and his conversation with Brich.
+
+“I swear, Isolde will eat me alive... or at least skin me alive! You know, like maybe a hint of Diligence’s presence clinging to my skin for her to detect or something,” Brich says as happily as only he can. “Do you really think he would rename me to Brichant if I became an ant?”
+
+“For sure,” Weslin answers, then calls out toward the demon. “Morwag, do you still want to go to the surface?” His question surprises me, but he seems to have caught onto something I missed.
+
+I listen for whatever answer Morwag might give.
+
+Weslin appears to be correct, as the demon answers while remaining seated with his back to us. “I thought about it, Weslin, and I think I want to compare myself to Nyssa one more time with all that I’ve acquired now. Just a few days remain in my tutorial, and I also want to see how far I can push the thirteenth floor.”
+
+At that moment, Nathaniel appears as well, but noting the demon’s speech, he stays quiet. As always, he brings that unnerving feeling that my own mana is about to betray me to serve him instead. My constant detection, which searches for enemies, breaks around him. Particles of my mana and the ambient mana swirl and stop within his reach, as if happy to obey him. His eyes, glowing with his trait, sweep over us, the area surrounding us, and then toward the location of the god’s body.
+
+Morwag speaks again. “But there’s someone else I want to challenge much more now, and from whom I think I stand to gain much more.” He stands up and, taking a few heavy steps, stops in front of Nathaniel. He is much more muscular, wider, and taller. His eyes are the reddest I’ve ever seen in any demon.
+
+Of course, the guy doesn’t flinch. He just stands there, watching the demon’s suffocating pressure with nothing but calm curiosity. He stays well within striking distance, despite his ridiculously fragile body.
+
+“I’m not saying no, but how about we go to the surface for a day or two. We return to Duncan for the shards, I stop by the Doc, and then we find a good place to fight.” Nathaniel says.
+
+“I agree. To the death,” Morwag declares.
+
+“Honestly, I won’t kill you even if I win. But you won’t mind, right? After all, the winner is correct.”
+
+“That is true,” the demon agrees.
+
+“Well, then, why don’t we leave. It’s time to check out the surface.”
+
+POV Nathaniel
+
+I sadly look toward where the god’s body lies resting far in the distance. I really want to head straight there, but I know it would take longer than currently fits our schedule. Unfortunately, by rough estimation, reaching the body of the god would take over a week. That simply does not fit with Morwag’s deadline, so perhaps next time.
+
+It is truly far away, but at the same time, there are storms, defensive arrays, zones with mana radiation, and many other dangerous areas to consider. My marks are also gone, not specifically erased by Diligence but rather crumbled, as if they could not exist within such a space.
+
+It’s safe to say we only reached that place so easily because we were able to hitchhike on the lynthari lurker’s teleportation, and the experience is still fresh in my mind. I will have to experiment with using the environment to aid my long-range jumps. Something like that should increase range and drastically reduce cost, though it would require a more detailed mapping of the local wavelengths, ambient mana, and what I’ve begun to think of as mana rivers and currents.
+
+We’re fairly close now, but it still takes some time to reach the portal and use it to head to the Entrance Floor. Once there, we enter one of the outposts to find a guide offering information on active teleports to the surface.
+
+I let Weslin and Brich deal with that while I rest with my back against the wall, observing the many attendees appearing there. They’re fresh Beyonders, some of them barely escaping the surface alive. I still remember when I first arrived with my leg missing, and there are many here in a similar state.
+
+One such human stumbles against the wall next to me, clutching a hole in his side. Tattoos appear on his skin, rushing toward the injury and closing the wound while he breathes heavily. His wild eyes then shift to look at me, but his expression freezes.
+
+As I calmly watch him, his aggression vanishes. He opens his mouth to say something, but quickly closes it, gulping and slowly walking away.
+
+In much the same way, I catch the attention of half a dozen more attendees, always making sure to look as impressive and mysterious as possible, and by the 6th one, I’m getting to be quite good at it as I look down at him.
+
+My crown spins over my head, and with my domain skill, I drain some of the color from the area around my face to make my Preeminence Eyes seem even brighter, wearing the mysterious look of a guy staring at a man he’s shared a gym with for years and talked to every day, yet can't for the life of him remember his name.
+
+Honestly, we are attracting quite a bit of attention. With Morwag being taller than most thylarin, almost reaching the size of a velnar, he cuts quite a threatening image. I wonder which one of us scares the attendees more.
+
+But once we have the information, we leave the outpost and head on our way through the tunnel system until we find a simple crack in the wall. It’s pitch black and far from the usual pathways.
+
+I don’t seem to be the only one disappointed by its lack of grandeur as I step in front of it.
+
+“Want to hold hands while we pass through? So we don’t get separated,” Brich offers, only to be rejected by the silence.
+
+Every one of us switches to whatever combat-ready state we’ve been preparing, and then I take a step forward with all of them following right after.
+
+The moment the teleportation activates, I know something is wrong. From deep within me, something burns through my very being. Notifications ring in alarm, and all my mana is gone in a blink, as even more of it is pulled straight out of my veins.
+
+The world around me spins as I materialize and fall to my knees, my hands barely stopping my head from hitting the ground.
+
+When I lift my head, I see a shoe right in front of me, playfully tapping the floor. And as I continue to look up, I hear a voice. “Damn, feral one, falling to my feet the moment you see me? How flattering.”
+
+I let out a groan, not just because of pain, and several other voices from behind me echo the pained sound in turn. The boys.
+
+“Though I wasn’t expecting you to bring company. But the more the merrier!”
+
+Another voice cuts her off. “Little kitten, why don't you continue with your mana shaping exercises instead of being a bother? And you, little pup, get control of yourself, or you will sink even lower in my esteem. Your handling of the transport is, quite frankly, pathetic.”
+
+I open my mouth to say something, but instead, I vomit, barely missing her legs, but as she asked, I push myself to my feet after wiping my mouth with the back of my hand.
+
+What I thought was a mountain acting as a backdrop to Lissandra now moves. A lizard-like head on a long neck twists around. That movement alone disturbs the air and creates a breeze as the head moves behind Lissandra. Just one of the pale golden eyes on said head is many times bigger than Lissandra herself, and I notice pale gray scales with a hint of a purple tint.
+
+The enormous wyvern lets out a long noise that shifts from the sound of cracking rocks to deep vibrations rattling my bones, ending in a longer call reminiscent of a whale. The result is a mix of sounds with an odd sort of rhythm to them, leading me to realize the monster is talking to us.
+
+"I have no idea what it’s saying," Myrra whispers to me when I look at her.
+
+Unlike her, Lissandra listens to it. After the wyvern stops talking, Lissandra lifts her hand and waves in a dismissive gesture, causing the wyvern to display its enormous teeth and slightly open its maw before it turns away to rest as it was doing before.
+
+I don’t get a chance to observe any further before I realize Lissandra is creating a field around us, which doesn’t let my senses through. It seems to be defending us against the pressure from the wyvern and possibly from this place itself. I don't look around any further before I glance towards the boys, who are crawling on the ground and groaning in a similar way to me moments before. Myrra, curious as always, reaches them with a few nimble steps and begins to playfully kick Savant with the tip of her shoe.
+
+"I hope you didn't hurt the vyssari that was with us," I say, not noticing Zant anywhere here.
+
+"I just stopped him when he tried to follow. I don't see a point in antagonizing a Ruler without reason, so I didn't kill his vessel."
+
+For a few long seconds, I stare at her. Then a chuckle escapes me. "Yes, no reason to ant-agonize him," I repeat after her. I chuckle again and almost fall down as Myrra slams into me from behind, rubbing her face against my hair.
+
+Still standing and feeling a bit better, I ignore the lynthari and take a deep breath. "So, what’s the plan?"
+
+Instead of answering, Lissandra asks, "Tell me, little pup. How much do you know about the nature of that 'black mana' of yours?" As she says it, Redacthaniel snaps into existence, and the words "black mana" are spoken in my own, but very monotone voice.
+
+Thinking of where she might be going with this, and whether she just wants me to be a supply of black mana again, I reply, "Not that much, but it's not as if I put too much effort into it."
+
+After my answer, she stands there staring at me. There is a hint of disbelief in her expression. "Little pup."
+
+"Yes."
+
+She lifts her hand slowly and points at a spot under one of the trees. "Go and sit over there. You have one hour. Then, I will ask you the same question again. If you are dumb enough to give me another useless answer, I vow by the power I hold: I will leave you on this floor."
+
+The wyvern behind her shifts again, enormous and terrifying, and not just because of its size but because of the power it holds. It speaks again, a deep growling noise coming from deep within its throat that shifts in frequency and sounds like it spreads for dozens of miles.
+
+Lissandra doesn't even turn toward it as she answers. "I do not care. I will find another way."
+
+Myrra slides off me, and I turn around, walking past the very confused bunch of S ranks and Savi to sit on the ground under the tree.
+
+With an hour of free time, I guess I could also finally use one of my low pristine passive tokens.

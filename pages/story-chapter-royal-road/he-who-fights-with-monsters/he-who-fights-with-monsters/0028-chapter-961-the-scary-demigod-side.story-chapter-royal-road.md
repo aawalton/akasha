@@ -1,0 +1,165 @@
+---
+id: 09b9e381-ef7c-5f54-b93d-1d8ab3bec76c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 961: The Scary Demigod Side"
+slug: 0028-chapter-961-the-scary-demigod-side
+partOf: he-who-fights-with-monsters
+position: 28
+ownLength: 2415
+unit: words
+ownProgress: 2415
+publishedAt: 2025-02-10
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2059766/chapter-961-the-scary-demigod-side"
+royalRoadId: "2059766"
+markedReadAt: "2026-06-29T19:04:45.546Z"
+---
+
+Asano Village had an auditorium for large meetings. Jason sat quietly at the back, watching a presentation by Clive, Audrey and a pair of biologists from the Cabal and the Network. With them were officers from the CIA and their Australian counterpart, ASIS. They were outlining everything that had been discovered about the blood oaks, from the name to confirmation that there were more of them. The results were a combination of experimental records, recovered communications and working with samples. Along with samples from the lab, they had been working with what Colin had left of the blood oak they had killed.
+
+Jason’s instincts were to stick to people he knew and trusted when dealing with the vampires, but he knew that wasn’t practical. He simply didn’t have the bodies for simultaneous strikes, coordinated across the globe. When the main concern had been vampire lords, he would have considered splitting up the visitors from Pallimustus, putting each in charge of a team from the Asano Clan’s impressive roster of silver-rankers. They even had a gold-ranker, although that was staying tightly under wraps for the moment.
+
+The addition of the blood oaks changed the equation considerably. Splitting up teams became much more dangerous, and they would need to rely on the people of Earth a lot more. They lacked the power and experience of Pallimustus adventurers, so making sure they understood the threat was critical. To that end, the auditorium was filled with essence users and operation coordinators. They came from every government and magical faction that could field a gold ranker, or at least a contingent of capable silvers. The training programs initiated by Farrah and refined by Rufus had been taken up around the world. The old guard of monster core users were slowly but surely being superseded.
+
+The initial plan, to alpha-strike the vampire strongholds and seize as many nuclear devices as possible, was no longer viable. There was no doubt that the vampires would have caught wind of it to some degree, but after the Melbourne event, there was no more surprise to be had. The Australian Prime Minister was nailing that coffin shut as he ran a media blitz talking about terrorist vampires. He was desperately attempting to spin the narrative in the face of domestic political pressure and international condemnation.
+
+The new plan was still being talked about as a variant of the old one, still based on coordinated raids across the planet, but with less stealth and more overwhelming force. The reality was, however, that there would be no mass-rush against the vampires while their nuclear arsenal remained an active threat.
+
+An ASIS agent, Natalie Park, has been assigned to Jason as liaison from the Australian security services. A silver-ranker, she had been a young girl at the time of Jason’s last visit. Trained up using on Farrah and Rufus’ methods, she was a silver-ranker with no trace of cores in her system. She entered through the rear of the auditorium and crouched behind Jason’s seat.
+
+“They’re almost ready for you, Mr Asano.”
+
+“Thank you, Natalie.”
+
+Jason got up and left the building for another, nearby. Originally it had been the mayoral residence, combined with some administrative space. It was currently occupied by Lenora Coleman, and served as communication hub for the international forces present. The Americans had installed a magitech conferencing device in, appropriately, the conference room. Jason had been told that it was as secure as remote communication could be, at least for now. Inevitably, the technology would be leaked, copied and cracked, but until then, the largest vulnerability was the human element.
+
+Although it was far from his field of expertise, Jason’s mind had been on magitech since planning his return to Earth. There was no way for his home planet to catch up to the magic of Pallimustus. Even disregarding the millennia of magical history, Earth’s average magic levels were a step or two lower, across the board. Those levels had risen, but high-magic zones were fewer and smaller than on the other world. There were even a handful of magical deserts where gold-rankers had trouble visiting without gulping down spirit coins.
+
+Jason’s hope was that magitech would level the playing field. Pallimustus was starting to adopt more technological principles, but it was slow going, and mostly the work of Travis Noble. He had used the traits of technology to do something magic didn’t excel at: cheap, long-distance communication. On Earth, technology has many bottlenecks, and a planet full of people now turning to magic to overcome them.
+
+Much of the last few decades had been spent using magic to circumvent key chokepoints in technological advancement, such as a lack of efficient superconductors. That research had leapt ahead in the last decade, once the world had gotten used to magic and begun recovering from the monster waves. As a result, technology in multiple fields had rocketed ahead of what Jason had known. Things had advanced so fast that the world was still catching up, socially and politically. The Middle east, always a hotbed, had become more volatile as most of the world abandoned fossil fuels.
+
+As Natalie led Jason into the conference room, he looked to the example of magitech it contained. A conical device had been installed on the centre of the table, with control panels at each end. A man was sitting at the head of the table, with a computer tablet plugged into the panel.
+
+“They’re calibrating it now, Mr Asano,” Natalie told Jason.
+
+“I’m surprised you’re plugged into it,” Jason said. “Shouldn’t everything be wireless, at this point?”
+
+“Sure, as long as you trust the wireless network you’re using,” the tech said, and pointed at the device in the centre of the table. “No one is going to tap into this thing until someone reverse engineers it. My tablet, though, is more vulnerable. A hard connection is more secure.”
+
+“Fair enough.”
+
+“Shouldn’t be more than a moment, Mr Asano” the tech said. “Big fan, by the way. I have a poster from back when you had the silver eyes, not those orange and blue ones you’re rocking now. They’re cool.”
+
+“Thanks.”
+
+The tech was dressed in the standard IT uniform of jeans and a t-shirt with some pop culture refence Jason didn’t understand.
+
+“Damn,” Jason muttered.
+
+“I’m sure he’ll have it set up swiftly, Mr Asano.”
+
+“Not that,” Jason said. “I just realised that there’s fifteen years of popular culture I’m never going to catch up on. And people thought my references were outdated before. Have they rebooted Knight Rider again yet?”
+
+“You mean that show about the car possessed by the ghost of David Hasselhoff?” Natalie asked.
+
+“David Hasselhoff died?”
+
+“Not that I’m aware of.”
+
+“He hit silver rank a couple of months ago,” the technician said.
+
+“Then why would they make a show about his ghost possessing a car?” Jason asked. “Was it his character from the old series?”
+
+“Nope,” the technician said. “He was playing himself. They supposedly killed him off in the show, and he did the voice for the car. Then they revealed in the third season that he was alive the whole time and the car was a magitech AI synthesising his voice. The show dropped off pretty hard after that. Never got a fourth season.”
+
+“I should check that out. Do they have a box set of the series?”
+
+“A box set?” the tech asked. “Like one of those Japanese lunches?”
+
+“Right. They probably don’t do those anymore.”
+
+“No, there’s bento places all over,” the tech said. “It’s a trend right now.”
+
+“Never mind. Shade, remind me to look up the Knight Rider reboot.”
+
+“No.”
+
+Jason burst out laughing as Natalie looked at him askance.
+
+“All done,” the technician said and pointed at one of the chairs. “That one’s yours, Mr Asano.”
+
+“Thank you, Nathan.”
+
+The technician raised his eyebrows.
+
+“You know my name?”
+
+“I’m keeping a close eye on my surroundings, Mr Burnsleigh. Especially these surroundings. Good luck on your date, by the way.”
+
+“Are you kidding? When I tell him I was talking to you about Knight Rider, he’s going to freak out.”
+
+Jason flicked something through the air. Nathan caught it and looked at it in his hand. It was a silver coin with Jason’s face on it.
+
+“Wow,” Nathan said. “That is a huge chin.”
+
+“Seriously?” Jason complained.
+
+Nathan shuffled out the door as two more people arrived. Boris nodded to Jason and took a seat as directed by Natalie. Li Chen, a Chinese gold ranker, stopped in the doorway.
+
+“It’s been a long time,” Jason said.
+
+“Mr Asano—”
+
+“Since you threw a nuke into an astral space because an interdimensional alien told you it would get rid of me.”
+
+Chen visibly swallowed.
+
+“It’s a funny old world,” Jason said. “Shako — that was his name, if he never told you. Shako’s in this weird prison that’s also a chair. It’s all a bit metaphorical, but I actually sat on that chair, briefly. And now, here we are, talking about nuclear weapons all over again.”
+
+“Mr Asano—”
+
+“I’m going to let it go, Mr Li. Dwelling on the past gets us nothing, and you waiting for me to kill you in the night is counterproductive.”
+
+“Mr Asano, Mr Li,” Natalie interjected. “You should take your seats. They’re about to begin.”
+
+The two men moved to their indicated positions and, around thirty seconds later, the device on the table hummed to life. It fell silent after a moment and holographic representations of people started filling the empty seats around the table, one after another.
+
+Jason took a slow, calming breath as high-level government officials, directors of intelligence agencies and heads of magical factions appeared. It was a tight circle, formed to address the vampire threat, and it included Jason and his grandmother. Boris was one of several Cabal representatives. Natalie did not stay, ASIS being represented remotely by her head of agency, Director-General Macmillan.
+
+The meeting began with the CIA director Barstow summarising the altered situation since the group had decided on the previous plan.
+
+“In short, Director-General Macmillan, your Prime Minister has bent us over the table,” she said. “It was already too large an operation to expect information containment, but we at least had a shot at taking most of the nuclear devices off the table. Since the Melbourne incident, your head of government has screamed the words ‘vampire’ and ‘nuclear bomb’ into every microphone that hove into view. That is not what I would describe as an ideal approach to operational security.”
+
+“I would point out,” Macmillan said, “that if the incident in Melbourne had not taken place, we wouldn’t know about the blood creatures at all.”
+
+“And that excuses your being blindsided by an extrajudicial operation your Prime Minister staged by working around you and your organisation, to your apparent obliviousness? How exactly did he manage to bypass his own security service, Director General?”
+
+“If I may,” said Chief Collier of the United Kingdom Secret Intelligence Service.
+
+“Go ahead, Sir Christopher,” Director Barstow told him, to the visible relief of the Australian.
+
+“We are all aware of the unfortunate situation with the Australian Prime Minister,” Chief Collier said. “We have all also been briefed, I assume, on the steps being taken to remedy the local political turmoil. Given the difficulty in assembling this particular group, perhaps we should undertake the discussion of the next steps, for which we have gathered, rather than rehash recriminations. However well-earned they may be.”
+
+Jason watched the hologram of Barstow reach for her glasses, only to find them not there. Essence users didn’t need corrective lenses, but those who had worn them for years still found themselves moving to adjust them out of lifelong habit.
+
+“You’re right, of course, Sir Christopher,” Barstow said. “The question is, what is our next move? We have our people getting ready for heavier strikes, but pulling the trigger on the operation, as it stands, would be a disaster. Nuclear detonations, tree monsters turning people into puppets. My analysts have been gaming out scenarios and everything turns out very ugly.”
+
+“Our people drew the same conclusions,” Barstow said. “Mr Ketland, Mr Asano. I’m hoping that your outside perspectives can offer us options that we fail to see.”
+
+“Regretfully, no,” Jason said. “What we have is essentially the same problem as before, where our best option is negotiation with the vampire lord, Elizabeth. Unfortunately, she now occupies a significantly better position to negotiate from, depending on her ability to negate the blood oaks.”
+
+“Do we have a sense of how much control she has over them?” Li Chen asked.
+
+“Not as of yet,” Macmillan said. “My people and the CIA have been going over every record of communication we retrieved from the Melbourne location. We know that Elizabeth was in control of the program to create the blood oaks, but not how much control she has over the monsters themselves.”
+
+“I can tell you that the vampires on site weren’t able to control it,” Jason said. “It killed and used them, just like it did the humans down there. If Elizabeth claims she can control these things, she’ll need to prove it.”
+
+“I would point out,” Boris said, “that Director General Macmillan did make a valid point earlier. If not for the Melbourne incident, we would be oblivious to the danger posed by the blood oaks. Having that revealed is bad for the vampires as a whole, but good for Elizabeth’s negotiating position. Is there a possibility that the Prime Minister was prodded, perhaps even facilitated in his actions? I have nothing but conjecture on this, but I believe it warrants consideration and, perhaps, investigation.”
+
+Talks continued, but no new conclusions were reached. The various organisations resolved to coordinate further information gathering in hope of improving their outlook, but the events in Melbourne had been a disaster. In the end, the hologram device was shut down, leaving Jason, Li Chen and Boris in a room. Chen looked at Jason, saw the expression that was returned and made himself scarce, after politely excusing himself.
+
+“You did well,” Boris said. “Keep this up and they may actually look at you like a statesman and not the guy who’s at the table because he’s a scary demigod who’ll kill them all if they make him angry.”
+
+“Let’s see, after their reps all get here for the private universe tour.”
+
+“That might get them back on the scary demigod side,” Boris acknowledged.

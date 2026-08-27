@@ -1,0 +1,175 @@
+---
+id: eed8afe2-17b2-5027-9316-091f9fe305e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1009: Kung-Fu Wizard is Not a Verb"
+slug: 0077-chapter-1009-kung-fu-wizard-is-not-a-verb
+partOf: he-who-fights-with-monsters
+position: 77
+ownLength: 2085
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3563772/chapter-1009-kung-fu-wizard-is-not-a-verb"
+royalRoadId: "3563772"
+---
+
+Given the war spilling across Europe, the peaceful, pastoral perfection of the valley seemed a little uncanny. It was a fine day, the warm sun offset by just the right amount of wafting breeze. The air was fresh and clean. The grass was vibrant green and the trees were showing the first hint of autumn colour.
+
+Only two buildings were visible. One had been in this place for centuries, while the other had come from an impossible distance. The castle holding McKean’s lair had begun life as a Cabal stronghold before eventually passing into Network hands. It was unremarkable by French castle standards, which was still remarkable by most others. Round towers were set into walls around a central fortress. Weathered white and brown stone made up most of the construction, with grey conical rooftops.
+
+Where the castle was something out of a fairy tale, the other building came from a different kind of tale. Floating in the air, Jason’s sky vessel was an alien and unsettling thing. Constructed as an inverted pyramid, the underlying cloud material could be seen between the blood red panels covering the surface. Set into each of the pyramid’s sides was a giant, nebulous eye of blue and orange.
+
+The top of the pyramid was a launching platform for Earth’s new airships, mostly high speed troop transports. Those ships had been deployed across Western Europe, and the sky over the quiet valley was otherwise empty. Jason stood at the edge of the roof, looking down at the castle. His team members were all positioned elsewhere, some preparing to sneak into the castle themselves. With Jason were his familiars, arrayed next to him at the edge of the platform.
+
+Colin looked like Jason himself, minus the cloak, and with bloody orbs for eyes. Gordon was the most alien, his floating cloak body containing a mirror of the giant eyes on the sides of the pyramid. More eyes floated around him like oversized marbles, filled with power. Shade was normally the most circumspect, but out in the open on a sunny day, he was easy to spot. The shadow familiar had a lot of control over his exact shape, and today he looked like a tenebrous butler at a formal event, complete with top hat and tails.
+
+“Best foot forward, Shade?” Jason asked.
+
+“Always, Mr Asano. Will the drone be here soon?”
+
+“Should be, but it’s nice just to take a moment. I recognise that what’s happening today is serious. People are fighting and dying as we speak, and I don’t want to make light of that. That being said, I’d also like to acknowledge that I’m about to invade a French castle and kung-fu wizard my way through a vampire army to confront a mad scientist. I’m not saying that’s the most awesome thing that’s ever happened, but it has to be on the shortlist, right?”
+
+“Mr Asano, ‘kung-fu wizard’ is not a verb. If nothing else, it has too many words.”
+
+“Shade, never change.”
+
+“I get to eat the vampires, right?” Colin asked.
+
+“Colin, they may have become twisted and warped, but they’re still people. Or were, in the case of the ghouls.”
+
+“That wasn’t my question.”
+
+Jason sighed.
+
+“Yes. It’ll be good to know if your ability to consume life force will shut down their power to revive.”
+
+“That’s the only reason I was asking,” Colin said unconvincingly.
+
+A drone rose up through one of the elevating platform shafts on the top of the cloud ship and floated over. It was a mostly smooth ovoid with no visible mechanism to aid in flight. From each side protruded a small, round bar.
+
+“Are you ready?” Nik’s voice came from the orb.
+
+“We are,” Jason said. “Are the others in position?”
+
+“Yep. You’re good to go.”
+
+“Okay,” Jason said. “Let’s get to it, cobbers.”
+
+Jason leaped off the roof, his cloak unfurling like dark wings as he glided towards the castle. Shade and Gordon both floated after him. Colin let out a grumbling noise as he looked at the drone.
+
+“I don’t see why we had to do it this way,” he said. “He could have just levitated me down using his aura.”
+
+“But isn’t this way more fun?” Nik asked.
+
+“No.”
+
+Colin moved closer to the drone and gripped the bars on the side as if they were handlebars. The drone lifted him off the platform and started flying after Jason, Colin dangling in the air underneath.
+
+“Hey!” Colin yelled. “Why are you flying backwards?”
+
+“I’m not. You grabbed the drone backwards.”
+
+“Can you make the drone fly backwards, then?”
+
+“Uh… no.”
+
+“That does not sound convincing!”
+
+***
+
+The Principality of Liechtenstein had not done well in the age of magic. Originally evacuated during the monster waves, the vampires had made it home to a network of blood farms. It also became a hub for ghoul creation as the humans in the blood farms were used beyond their limits. The principality had been attacked multiple times in several attempts to end the practice, by the Cabal, the Asano Clan, and various militaries. Each time, the vampires operating the farms scattered, only to return and re-establish operations.
+
+Today was the day it ended. Humphrey descended through the air like a missile, complete with an explosion that reduced the Schaan Town Hall to a crater. The vampires inside were immediately killed, but Humphrey now knew that would not last long. A mushroom cloud of dust, dirt and rubble covered the town.
+
+Humphrey leapt out of the massive crater, a single vault easily getting him clear. He glanced around but couldn’t see far through the dust cloud. He knew from the mission briefing that the town hall had been one of the few structures from the original municipality still intact. It certainly wasn’t anymore, with chunks of shattered brick falling out of the sky.
+
+He found an area that had once been a street, now with long grass growing up through the cracks. He pulled a large, flat wooden square from his dimensional space and set it down. He pulled out a small sack, like a wineskin with a stopper. He opened the stopper and poured white powder out in a circle on the platform. While he was doing that, a small drone appeared, flying through the dust cloud.
+
+“Why do you have a wooden pallet?” Nik asked through the drone.
+
+“It’s a ritual platform. The ground is too rough to lay out a summoning circle.”
+
+“This is why you need to mix some tech into your magic. All this candles-and-chanting business is rubbish.”
+
+Humphrey took out a trio of twelve-sided dice and rolled them on the platform. One of them created an illusion of two more dice that then rolled themselves. One of those did the same thing, after which all the dice finally came to a stop. Humphrey checked the dice faces before picking them up, the illusionary dice vanishing as he did.
+
+“Multi-headed tentacle magma frogs,” he muttered.
+
+“What did you just say?” Nik asked.
+
+“You’ll see.”
+
+Essence ability summoning rituals were quick and simple, with Humphrey’s being no exception. Soon his dragon bone warriors, modified by his summoner dice, were emerging from the circle. As he was summoning a full hundred they hopped out of the way as they emerged to make room for the rest.
+
+Each dragon bone warrior was a giant frog, not skeletal but with solid bone in place of flesh. Each frog had three heads, with each head at the end of a very thick tentacle, like the neck of a bodybuilding giraffe. Each summon was also clad in ornate blue and gold armour from another of Humphrey’s powers.
+
+“They look like an army of overweight knights turned into steroid hydras by an evil witch,” Nik said.
+
+One of the frogs flicked its tongue out at a rock. The tongue was made of segmented bone on a long thread of magma, and when it struck the rock, the rock exploded.
+
+“Okay,” Nik said. “They may be ugly, but I can’t say I’d like to fight one, so good job.”
+
+“Is someone going to come down and make sure the defeated enemies stay defeated?”
+
+“They’re on their way now. Mostly silver-rankers, but we don’t anticipate a large vampire presence here. You should mostly be dealing with ghouls.”
+
+“And if we anticipated wrong?”
+
+“Then you get to be a big hero and raise your online following when I release the footage. Still probably won’t have as many followers as me, though.”
+
+Humphrey turned to give the drone a flat look.
+
+“Not that I care,” Nik said. “I’m just saying.”
+
+***
+
+The main castle entrance was an enormous arch, closed off by a metal-bound wooden door. Jason approached, flanked by Shade and Gordon.
+
+“This thing is begging for a battering ram,” Jason said. “I don’t suppose it has a portcullis that drops down.”
+
+“Unlikely, Mr Asano,” Shade said. “I assume you have noticed that we are being watched.”
+
+“Yeah, which makes me curious. Why install a magic security camera when non-magical ones are harder to detect.”
+
+“Some manner of ruse?”
+
+“Maybe.”
+
+“Perhaps,” Gordon suggested, “there is a need for the camera to do something that a non-magical variant cannot.”
+
+“That makes sense,” Jason said. “A lot of sense, given what I’m sensing underneath us.”
+
+“We could investigate one of the cameras and see what we discover,” Shade suggested.
+
+“We could,” Jason said. “Or we could just punch our way in, find McKean and get it sorted nice and quick.”
+
+He walked right up to the door and, sensing no magic, gave it a kick. Gold-rank strength instantly transformed the door into a cloud of splinters and warped metal, scattering across the courtyard inside. After waiting a moment for the remains of the door to settle, they strode in under the massive arch.
+
+The courtyard looked like an abandoned historical site, nothing like the lair of a mad scientist and his vampire army. It was a large, open space of cracked and weathered stone, with arched doorways leading into the surrounding buildings. The flagstones under their feet had a hardened patina of dirt. There was nothing else to be seen, empty save for the rotted remains of leaf piles that had blown in over the years. At the far end was the largest door, leading into the castle keep.
+
+“You didn’t punch,” Gordon said.
+
+“What?” Jason asked him.
+
+“You said we should punch our way in, but then you kicked our way in.”
+
+“Well, you should always keep them guessing,” Jason said as he looked around. “Not what I’d call ironclad defences,” Jason observed.
+
+“When the world is your enemy,” Shade said, “secrecy is the only effective defence. I imagine the physical protections will be found in the complex below. Shall we search for an entrance?”
+
+“Nah,” Jason said. “You and Gordon are intangible, so just pop right through the ground and I’ll shadow jump to you.”
+
+The familiars sank into the ground right as Colin arrived, legs flailing as he dangled from the drone’s handles. He dropped awkwardly to the ground and looked at the spot his fellow familiars had been standing.
+
+“Where did they go?” he asked.
+
+“Shortcut,” Jason said, then pulled his cloak around him and vanished into it. The empty cloak floated on the air for a moment before disappearing as well.
+
+“Oh, come on,” Colin complained, then looked at the drone. “I don’t suppose that thing has a shovel function?”
+
+***
+
+“Interesting,” Simon McKean murmured as he observed Jason’s entrance to the castle. The only light in the room came from a bank of monitors occupying most of one wall. McKean was seated in a luxurious armchair positioned in the middle of the room, the only piece of furniture. Standing next to it was Magdalyn, one of the strongest surviving vampire lords. She looked every inch the vampire queen, with long dark hair, pale skin and ruby lips.
+
+“Just Asano and his familiars,” she observed. “He seems dismissive of the threat we pose. Do you think that’s why he came alone? He disregards the danger?”
+
+“Never assume things are what they seem with Jason Asano,” Simon told her. “He thinks himself a hero yet drapes himself in terror. He plays the fool, yet that is often when he’s most ruthless. I suspect he is alone because he does recognise the danger, and they have wisely decided to let the immortal man face it alone. I look forward to seeing how immortal he really is.”

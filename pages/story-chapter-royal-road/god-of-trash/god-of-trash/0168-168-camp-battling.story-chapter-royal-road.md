@@ -1,0 +1,155 @@
+---
+id: 6edf1b34-c82a-5084-a80f-1d0d9cb05256
+page-type-slug: story-chapter-royal-road
+title: "168. Camp Battling"
+slug: 0168-168-camp-battling
+partOf: god-of-trash
+position: 168
+ownLength: 2329
+unit: words
+publishedAt: 2025-08-27
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2553383/168-camp-battling"
+royalRoadId: "2553383"
+---
+
+Rhys finished up at that camp, wiping out the Tier 1s and 2s with ease. Several of the mages wanted to join them, though a few only wanted to escape and simply leave the Empire forever. Rhys restored one or two cores, then rushed off to the next battle while the weakest member of their team escorted their new comrades home, and the rest regrouped at the trash can, awaiting teleportation. He told them to stay, and if they ran, to take the trash can, before he left. As long as the trash can was nearby, he could teleport to them and move them to their next location, after all.
+
+He hurried into the battle, rushing by the other fighters to join Sable in fighting the Tier 3. Her opponent was a true-blue Empire soldier in the white uniform and all, fighting with the Empire’s fighting style. From the looks of it, it was the soldier who was on the back foot, while Sable was pressing her advantage to score injury after injury, ever so slightly tearing the Tier 3 down to size while learning a lot herself. She didn’t even notice Rhys approach, so deep in battle was she. Rhys simply stood nearby and watched. If she could beat this man, she’d grow greatly in strength and experience. It was even possible that she’d gain the insights she needed to break through Tier 2 into Tier 3. He didn’t have much time, but he had enough time to stand back and let Sable grow.
+
+The battle was already close to a conclusion before he arrived. The soldier’s uniform was stained with blood, and he gritted his teeth, furious, then made one last furious thrust at Sable. Sable parried the thrust with her clawed hands, grabbed ahold of his hands, and yanked him in. The limbs on her back darted forth, piercing through his chest and out the rear, his throbbing heart clutched in their sharp tips. Rhys stared, his jaw dropped.
+
+Hot.
+
+He coughed. I mean, terrifying! Haha! Scary! Oh no, wouldn’t want that to happen to me.
+
+Energy coiled around Sable. Her core thrummed with power. She curled up, whole body clenching in around itself, and then stood up tall as a new burst of power flew from her body. Her eyes shone with excitement, and she stared at her hands, slowly curling her fingers.
+
+“Did you Tier up?” Rhys asked.
+
+She whirled, startled. “When did you get here?”
+
+“Right before the part where you Kali-ma’d that guy,” Rhys said.
+
+She squinted.
+
+“The, uh. The heart-ripping,” he clarified.
+
+Sable nodded, understanding, then smiled. She nodded again, this time affirmatively rather than personal. “I did. I’m Tier 3 now.”
+
+“Congrats!” Rhys went to pat her on the back, only to find way too many joints back there, then awkwardly offered a high five instead. She stared at his hand, lost, and he put it down. “That’s awesome, though. We badly need more Tier 3s.”
+
+“Aren’t you afraid I’ll outrank you?”
+
+“No? Why would I be afraid of that? That’d be awesome, actually. We sorely lack a Tier 4.”
+
+Sable blinked at him, then laughed. “What if I wanted to take control?”
+
+“As long as you listened to my good advice, I’d be fine with that. Leader is a lot of work, it turns out. I wouldn’t mind letting someone else take the reins for a bit so I could relax.”
+
+She pursed her lips. “I was teasing.”
+
+“Oh. W-well, so was I,” Rhys said quickly. He hurried past her to suck the last of the Tier 3’s energy. He’d need a lot of cores at the end of this. “We about finished here?”
+
+“About, yes. Why?”
+
+“The camp I was going to solo… I found out at the last minute that I’d been vastly underestimating it. We’re going to need all hands on deck for—”
+
+Chirp. Chirp.
+
+Rhys stared around, going still.
+
+“What? It’s just a cricket,” Sable said.
+
+“Where is it? Find it, quickly,” Rhys said. It was unseasonal for crickets. That had to be the messenger cricket that Mouse had taken with her.
+
+She gave him a funny look, but half-closed her eyes anyways. Her body blurred, and a moment later, two bony limbs still stained with blood delicately clutched a cricket between them.
+
+Rhys held out his hands, and she deposited it into his. The cricket hopped once, then went completely still.
+
+Mouse’s voice emerged from the shiny black body. “Rhys, come quickly. The Tier 4 is moving, and he’s moving fast. All the high ranks are moving together. They’re, they’re, I think they’re going to—”
+
+Silence. Rhys’s heart clenched. He looked at Sable who stared back at him, equally tense.
+
+A random mage ran past, and Rhys grabbed his arm. “Gather everyone and get out of here. Take the trash can with you, but run. Just run.”
+
+The man blinked, then nodded and ran off with a salute.
+
+Sable and Rhys ran ahead of him. He grabbed her hand without thinking, and after a second, she grabbed back. The trash can loomed. He leaped into it, taking Sable with him. The two of them pierced through the void. Rhys hurtled through as fast as he could, and they came out at Mouse’s point.
+
+Some time had passed since Mouse’s message. The cricket was enhanced and magically sped up, but it still took time for it to fly from one location to another. The Tier 4 and Tier 3 signatures were all gathered up and hurrying across the camp. Mouse was right next to the trash can, and as they burst through, she startled, almost jumping out of her skin. She clapped her hands over her mouth to keep from yelping, then stepped forward, gesturing at Rhys and Sable, then pointing at the group of high-rank mages passing nearby.
+
+Rhys nodded. He already understood. Beside him, Sable prickled, all her limbs twitching with battle-lust. Mouse glanced at the two of them, then fell back. She went translucent in Rhys’s senses, as if she were fading out of existence. Rhys ran forward, Sable at his side. He nodded at her. “You take the Tier 3, I’ll take the Tier 4. Mouse, hold off the rest of them. Kill them if you can.”
+
+Sable nodded. From behind, there was a whisper that might have been yes. The three of them split. Rhys ran ahead, Sable fell slightly behind them, and Mouse… well, Mouse was somewhere. He wasn’t sure where, but that was what Mouse was all about.
+
+Up ahead, the Tier 4 sensed him coming and slowed. In the darkness, their form wasn’t clear at first, but as they turned, the details of their body came into clear light. Long, bushy red hair, sharp eyes, and a generous figure…
+
+Wait. Generous figure? He blinked, looking up and down. A girl. Undoubtably female. She reminded him of the redhead Lira had mentioned, and the redheaded noble he’d run into at the other camp.
+
+He pointed at her. “A member of the Infernon clan, no doubt.”
+
+“So you know of my family,” she said. She wore a black cloak, held at the shoulder with a large red ruby as a brooch. Reaching to the brooch, she pulled, and threw the whole cloak aside to reveal a shiny, tight-knit mesh of silver armor that looked not unlike the fire-resistant suits of Rhys’s world, except for the fact that in Rhys’s world, the suits were bulky and ugly, and hers was skintight, showing off that generous figure he’d seen even through the cloak, and hugging thick thighs tight. A rapier was strapped to her fantastic hips, the perfect accentuation to her hourglass figure. She snapped her fingers, and the cloud of red hair that had until this moment floated around her shoulders tied itself back into a tight bun.
+
+“Damn, practical and fashionable, werk, queen,” Rhys said, looking appreciatively.
+
+She blinked at him, lost.
+
+“Am I not allowed to compliment fine fashion sense?”
+
+“I’m not used to my enemies commenting on my wardrobe before they burn to ash,” she stated cooly.
+
+Rhys grinned. “That’s ‘cuz I gotta let you know I appreciate the look before I kill you dead.”
+
+She drew her rapier. Fire trailed from the slender blade and burst in a flourish, hot even from where Rhys stood.
+
+“Wait, wait, wait. Before we start, do you have a brother with a submissive streak and a shame kink? Maybe an uncle? He’s repressing it, but it’s there.”
+
+Her eyes narrowed. They were hot blue, like propane flames. She thought for a moment, then inclined her head an inch. “Perhaps you refer to Uncle Haryin?”
+
+“Big guy? Bushy red hair?”
+
+“He is an Infernon.”
+
+“Friendly with the Empress?”
+
+At that, her lip twitched. “He does… receive an unfair amount of her attention.”
+
+Rhys snapped. “That’s the one. I’ve got a bone to pick with him. Do you like him? If not, drop me a hint, and I’ll kill him after you die. Won’t do much for you, but at least you can have the satisfaction of fucking him over.”
+
+She let out a haughty snort. “Why would I betray a fellow Infernon?”
+
+“I dunno, I’ve got… well, I had plenty of family members I would’ve sold off for a dime.” Back home, most of his family had been assholes to him, borderline if not outright abusive. He’d cut off most of them and refused to talk to them anymore, and good riddance, but sometimes they clawed their way back in. Usually at the most inopportune time, like when he was behind deadline on a costume or at work.
+
+She thought for a moment, then laughed aloud and flourished her blade, raising it to a high stance. “Draw your blade, rogue. We’ll see the measure of you first.”
+
+“Oh, I like you. My name is Rend, by the way.”
+
+“Truly?”
+
+“Nah, but it’s cool, isn’t it?”
+
+“You may know me as Adelise Infernon, so that you might know who killed you today.”
+
+“Ah, don’t worry, I’m pretty persistent about that username. If you tell ‘em Rend sent you in the afterlife, they’ll know who sent ya.” Rhys drew his broken sword and swirled it, the flourish less impressive but intentionally trashy enough to mock her actually-impressive flourish.
+
+Fire scorched down her blade and seared over her body. It flared, burning so bright that it scorched Rhys’s vision, and then Adelise was there, upon him. He barely raised his sword in time, not that it mattered; even with Trash Intent to block, her flames surged past his guard and burned his hand, arm, and chest.
+
+Holy shit, big sis ain’t kidding, Rhys thought to himself, and then he thought nothing at all as the two of them exchanged blows faster than thought itself. Fire flared, flashing off her silver suit and splashing over Rhys. Rhys pushed impurities into his sword and sent them flying at her in a pale imitation of her flaming sword, but they were burnt away by the purifying flames or bounced off her silver shell. He grimaced and jumped back, parting for a moment. Trash Body was already active, and he could already tell his impurity daggers and gas attack would do little, unless he found a true, earnest opening. Fire was a worse match for him than he’d expected, especially Adelise’s flames, which seemed to turn his impurities into ash and weaken them, if not outright eliminate them.
+
+A boot slammed into his solar plexus. All the breath left him and intense pain blasted through him as the impact hit his burns, the pain strong enough to break through Trash Body’s numbing effect. He stumbled back, barely holding back the urge to vomit from sheer pain. The pain welled up, rushing large all at once, and it nearly overwhelmed his being for a moment. It was all he could do to hang on and not pass out.
+
+“Not even your parents will recognize your ashes,” Adelise intoned. She lifted her sword high, and a fireball condensed on its tip, growing larger moment by moment. “You will be naught but smoke on the wind.”
+
+“Saying that to the orphan? Can you believe it? Insane,” Rhys shot back. Sweat dripped down his back, and the burns on his chest stung. He gazed at the fireball, his heart pounding. That was a true Tier 4 attack. She was no Warden, held back by her inadequacies, weak to impurities, locked away in a mine to watch useless prisoners for her uselessness. She was powerful. Truly, deeply powerful. He was an ant, and she was the heartless magnifying glass, searing him with the might of the sun.
+
+Something. There has to be something. Some attack, some way out of this situation. Rhys’s brain churned. Every weapon he’d ever had the chance to use passed through his mind, every sword technique, every desperate situation. He’d been cocky. So cocky. To think the Warden was the same as any other Tier 4. To think they could be so easily defeated, with a few neat tricks.
+
+Foolish. Foolish. Foolish.
+
+Landon was already nearly insurmountable as a high Tier 3 who naturally resisted his attacks. What chance did he stand against this Tier 4 who perfectly opposed him?
+
+Feran had been one thing. He could easily counter a weak flame. In fact, he was an ideal counter to a weak flame. But just like a candle could only make garbage more toxic to the one holding the candle, but an incinerator could burn garbage away to ash, Adelise’s strong flames were the counter that Feran had wished he could be. But even if he was battling an incinerator instead of easily snuffing a small campfire, there still had to be a way. The fundamental properties of flame and garbage hadn’t changed, nor had their interactions. Even an incinerator could be overwhelmed.
+
+I can’t give up. There has to be—
+
+Adelise flicked her rapier. The fireball flew forth.

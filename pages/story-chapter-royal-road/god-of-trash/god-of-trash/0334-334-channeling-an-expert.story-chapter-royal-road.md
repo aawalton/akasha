@@ -1,0 +1,117 @@
+---
+id: 93457ddc-1668-53f4-8f08-5fb8d3bc58a2
+page-type-slug: story-chapter-royal-road
+title: "334. Channeling an Expert"
+slug: 0334-334-channeling-an-expert
+partOf: god-of-trash
+position: 334
+ownLength: 2260
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3650202/334-channeling-an-expert"
+royalRoadId: "3650202"
+---
+
+The servants and Ryota fought on. Ryota attacked from a distance, supporting the sprites with flying swords. Gold projections dove through the barrier and hurtled through the water like magical torpedoes, cutting through the distracted attackers.
+
+The servants darted through the water in their sprite forms, with pale, scaly skin, fins, and jutting teeth, their billowy, translucent robes swirling around them. They cut arcs around the attackers, swimming with great grace compared to the attackers’ clumsy motions. The attackers were clearly just flying in water, while the sprites swam, using the water to their advantage. Although the attackers’ auras and the servants’ auras were about matched, in the water, the sprites had the upper hand. One after another, the attackers fell.
+
+But there were more. More shadows plunging into the water. More bodies, slowly muddying the water from crystal clear to a red sludge. The sprites only grew stronger, fighting themselves into a blood frenzy. They darted here and there, scales flashing out of the murky water as yet another attacker met a quick end.
+
+Rhys waited, watching the battle from the ground. He could vaguely sense more powerful auras from above the surface of the water but couldn’t sense the shape of them clearly yet. The other side’s experts still hadn’t taken the field. They were waiting to see Rhys’s side’s experts, just like he was waiting for them.
+
+And now we play chicken until someone flinches. It was super trashy, but it was a classic maneuver. Both of them stare one another down until someone made the first move.
+
+Rhys stood around for a little longer, then tilted his head. Right now, he was playing their game. Sitting back, waiting, just like they were. If he let this stalemate play out, the enemy’s near-endless waves of attackers would rain down on them until the servants got tired out, and then he’d be forced out whether he liked it or not. He wasn’t sure if the servants would get tired, since they seemed to be, what’s the phrase, fueling on the fly, but eventually they’d run out of mana probably, unless they’re eating that too. They were in a battle of attrition, but the enemy had air dominance and could freely call in supplies and reload, and they were…
+
+He looked around him. Under the sea with plentiful fish and ocean greenery, and also lots of human bodies for sprites to eat? Plus we’re mages who don’t need food? And there’s so much water mana I’m choking on it?
+
+Rhys crossed his arms. The point wasn’t that they were lacking in resources. The point was that the enemy had free reign to go get anything they wanted to go attack them so long as they were passively sitting here, waiting for the enemy to strike. He was good at disguising his aura, so why not do a little subterfuge while he was bored?
+
+“I’m going in,” Rhys said abruptly.
+
+Lira and Aran had been chatting, but they looked up as he spoke.
+
+Aran frowned. “Are you sure? You don’t have to push yourself for me.”
+
+“Neat. Have fun,” Lira said.
+
+The siblings looked at one another. Lira shrugged and spoke first. “He’s doing it for his own inane, demented reason. All you can say is ‘have fun,’ because you’ll never understand what or why he’s doing what he’s doing until he’s done with it.”
+
+“I don’t want to see anyone else get hurt because of me.”
+
+“But he’s not doing it because of you. Are you, Rhys?”
+
+Rhys shrugged. “I mean, I’m not not doing it to help Aran, but it’s not like I’m doing it for you or anything.” He looked Aran in the eye and shrugged. “I just don’t know you well enough, man. Sorry.”
+
+“That… is very fair,” Aran said, nodding. “In that case, I suppose I won’t stop you.”
+
+Lira snorted. “You couldn’t if you tried.”
+
+Rhys hopped off the balcony they’d been having lunch on and landed on the ocean floor in a little burst of sand. Water, too, rose up from the nearest of the contained underwater gardens, but it formed droplets and orbs, almost like water in zero gravity, then drifted back to the garden it had been nourishing to begin with. He raised his brows, impressed. They really did think of everything.
+
+He could’ve flown directly up into the battle the same way the servants had, but that wasn’t his play. He didn’t want to actually fight, after all. He stepped through the barrier and into the sea, and water wrapped around him. Closing his eyes, he called up the transformation technique Lira had taught him ages ago and quickly took on a new face. This time, he chose one that would blend in with the general features of Fifteenth’s soldiers, though there wasn’t much he could do about his robes… yet, anyways.
+
+From the far side of the barrier, he could faintly hear Aran remark: “It’s forbidden to teach that technique to outsiders, sister.”
+
+“I don’t understand what you mean, but I do agree, it is quite the coincidence that he knows a similar technique. Besides, what’s Mother going to do, exile me again?”
+
+Aran sighed a long-suffering sigh. “I’m already dreading the day she discovers I allowed you to visit.”
+
+“What she doesn’t know can’t hurt her.”
+
+Shaking his head at the siblings’ banter, Rhys kicked off the ocean floor and swam his way upward. The bloody water loomed, and he swam directly for it. He needed to get a little dirty if he was going to play this off the way he wanted to.
+
+The blood obscured his vision, and the dense mana suspended in it mingled with the water mana and all but blocked his mana senses, but luckily, he had trash senses too. To be fair, they were also fairly trashed up, with all the scraps of dead body and shredded clothes floating around, but they were clearer than anything else he had to go off of. Rhys kicked his way through the melee, dodging sprites and attackers alike. A shredded uniform drifted by, still full of a few chunks of someone’s body. He pushed the chunks out and threw it on, swapping his current clothes into his storage ring.
+
+With that completed, he swam faster, fully aware that he had just put himself in danger. He was now a human in the enemy’s uniform, among a feeding frenzy of sprites who, as far as they knew, were among friendly sprites and enemy humans.
+
+A sprite sensed him passing and darted toward him, intending to kill. Rhys quickly extended his aura in a narrow beam toward them, and they flinched back, hesitating. He used that moment to swim past them toward the surface. Now wasn’t the time for friendly fire.
+
+Well… maybe a little? Rhys hesitated, then turned back. The sprite was still floating there, hesitating, so he gripped their wrist. They struggled, but quickly stilled when he slashed his own chest with their blade—though whether out of confusion or comprehension, he couldn’t say. A low-tier poison seeped into the wound, and it took everything Rhys had not to instantly negate it. He swam upwards, leaving the sprite behind for good this time, and broke through the surface with a splash. There, he paused just a moment to check if other attackers were flying, then kicked out of the water and flew toward the ships hovering overhead.
+
+And what ships they were. Three massive treasured ships floated overhead, each one easily thrice the size of Ryota’s junk, which Rhys already considered massive—holy fuck, that is some unfortunate phrasing. Ryota’s ship, his ship!
+
+The point was, there were three very large ships above him, whether he compared them to Ryota’s… Ryota’s ship or not. If they were packed full, forget any evil schemes, Aran’s refuge would be in danger anyways.
+
+He scanned the ships quickly, retracting his trash senses before anyone else could notice them. From what he could sense, they were full, but not packed. Fifteenth wasn’t going for the tyranny of numbers. He had enough people to not worry about the wholesale slaughter the water sprites were committing, but not enough to overwhelm and win on the merit of human wave tactics alone.
+
+That means he’s got something dirty up his sleeve. Let’s go figure out what it is.
+
+There weren’t any underlings flying back to the ship except for him. There was nothing he could do about that, so he gritted his teeth and chose one of the subordinate ships rather than the big boss’s ship. His cover would only last a handful of seconds, but that would have to be enough.
+
+The ship he chose sported a deck full of stronger mages. Most were high-Tier 4, though two or three were Tier 5. The strongest, a mid-Tier 5 whose mana signature sent shivers down Rhys’s spine even without him exerting it, stood at the bow and watched the battle below. Rhys landed with a squelch behind him, and he snorted, but didn’t turn. “Who gave you permission to return, soldier?”
+
+“Sir! They’re slaughtering us, sir! There’s no hope!”
+
+“I didn’t order you to hope. I ordered you to fight.”
+
+Rhys pushed his trash senses out, scanning the ship in more detail from the deck. The ship itself had an aura, which obscured some of its insides. From outside the ship, he’d been able to get a general idea of its contents, but its aura had prevented him from getting a closer look. Now, he sensed something. Fierce energy, stronger than Tier 5, maybe even beyond Tier 6, emanated from deep within the ship. He wrinkled his nose.
+
+Dammit, not poison. And then: If whatever that is goes off, we’re fucked in a big way.
+
+An artifact? A bomb? It didn’t matter. If they pointed that at Aran and Ryota, there wasn’t much Rhys could do about it except try to teleport them into his inner world and pray.
+
+He pursed his lips. He’d really been hoping it was poison. It made so much sense! They needed to ruin the ocean and the water mana source, so of course they’d dump poison into it. People did it all the time back home, what with their oil tankers and chemical waste and so on. But here they were, not using poison. It was ridiculous.
+
+I guess it can’t always be that easy. He sighed. Shoving his toe hard onto the wood beneath him, he pushed impurities into it. The wood resisted, as a powerful artifact in of itself, but Rhys simply called up the stronger, purer, pitch-black impurities from under the earth. Under their power, even powerful wood couldn’t stand up. The boards cracked and darkened as they began to rot.
+
+“Soldier, get back into the water.”
+
+“You got it, boss!” With a jaunty salute, Rhys stomped on the now-rotten wood and plunged down through the deck and into the boat.
+
+Instantly, the deck was a hive of motion. All the experts jerked into motion, some of them rushing to the hole Rhys had opened, while others ran for the stairs to descend the orthodox way. Rhys landed on a table in the midst of a rousing game of something-like-chess, sending the pieces everywhere. The two players jumped to their feet, startled, and reached for their swords.
+
+“Sorry, gentlemen, as you were,” Rhys said, hopping off the table. He extended his senses on this deck just to be sure, but the fierce mana signature was still deeper within. Another stomp, and he dropped another deck down while his pursuers gave chase.
+
+It seemed like a waste to not booby trap the holes, so he threw his hand up, calling the impurities from the wood around the hole and instead extending them into the hole as spikes. The next mage to jump down shrieked as the spikes carved dark, poisoned gashes in their legs and landed in a slump next to Rhys as Rhys neatly sidestepped.
+
+“That, kids, is why you don’t throw yourself blindly at holes. Practice safe sex!” Rhys said. He snapped his fingers, exploding the impurities inside the mage. Black filth expanded, ruining their legs, then their torso, and they screamed and thrashed, then went completely quiet.
+
+The fierce mana signal wasn’t from this level, either. Drawing the impurities back from the corpse, he pushed his foot down again and dropped another floor. Once again, he left spikes behind him. It’d worked once, so why not? There were a lot of stupid people in the world, and people moving fast and not paying too much attention to what they were moving through, too. It was worth the small impurity loss even on the off chance someone fell for it.
+
+A purple blade shot toward him from staircase-ward. Rhys dodged, whipping around. Some brilliant minds had dodged the previous floors and ran straight here to intercept him, and they rapidly closed in. Rhys called forth The Hunger and raised it as if to block, but just as they reached him, he dropped down yet another floor, leaving the usual booby trap behind him. The mana signature he was looking for was still below him.
+
+How deep is this ship? It was huge, sure, but how many stories could it really fit inside it? Depends on how big the books are. Haha, I’m so funny.
+
+He looked down, then shrugged. The mana signature was still down. There was only one way to find out. He stomped his foot on the floor and dropped down again.

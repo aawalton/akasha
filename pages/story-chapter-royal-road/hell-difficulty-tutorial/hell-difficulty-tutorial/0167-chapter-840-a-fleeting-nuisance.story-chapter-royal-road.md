@@ -1,0 +1,259 @@
+---
+id: 8b7b89e6-a55a-59aa-8155-5c622ccc4453
+page-type-slug: story-chapter-royal-road
+title: "Chapter 840 - A fleeting nuisance"
+slug: 0167-chapter-840-a-fleeting-nuisance
+partOf: hell-difficulty-tutorial
+position: 167
+ownLength: 4676
+unit: words
+publishedAt: 2026-07-16
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3686404/chapter-840-a-fleeting-nuisance"
+royalRoadId: "3686404"
+---
+
+Flashback Biscuit
+
+Pantophagic energy eats the Weredeer’s attack, eats a hole into the 10th floor, into the structure of the tutorial, and all the way out. But it isn't the only force doing so.
+
+After all, this floor does belong to the Ruler of Lust, and she ensures the hole is wide enough, even putting one of her pets to work. Too excited and too worried that someone will take away this new addition to her menagerie, she leaves the Cerulean Parlor in a hurry, swinging her wings and teleporting to appear on the mark her pet placed.
+
+Now she floats in open space, victoriously golden hair, eyes, and wings wide spread. One of her wyverns that helped with the process is there as well. Adult, yet it’s not all that big, barely big enough for the Ruler if she wanted to ride it. Yet, underestimating it would be a grave mistake. The wyvern is pale gold in color with pale red eyes, keeping their target surrounded by a barrier as the Ruler of Lust arrives.
+
+“Good job, my precious,” Lust says lovingly, and the wyvern lets out a deep, happy noise, its red eyes constantly observing the area for danger as well as keeping track of the tear in space.
+
+“And you, poor little thing,” the Ruler whispers as she touches the barrier and watches the corgi pup within. “That must have hurt, didn't it?”
+
+The corgi is missing one of its front paws, and its side has a hole in it with a patch of fur missing around it. With eyes closed, it keeps twitching and whimpering.
+
+“So brave, but oh so imprudent. But don’t worry,” she whispers, “I will make sure to raise you right, just like my other babies.”
+
+A deep growl warns her, and she quickly follows her wyvern’s gaze, tracking it towards a nearby star. There, even at this distance, a noticeable lash of fire is taking shape. From it, a myriad of small orange sparks are shooting forth, pouring into space, spreading further and refusing to be choked out by the cold space around them.
+
+The feylith’s eyes widen in horror as she snaps an order to her wyvern. Just as they start to teleport, a growl spreads through the soundless space, forcing them both to halt and shattering their attempt at escape.
+
+The victorious gold of her eyes, wings, and hair is replaced by ash gray as her eyes tick towards the sparks heading their way and then to the corgi puppy. Her mouth opens and closes a few times as she struggles to make a decision.
+
+And then she finds it’s been made for her. One of the sparks reaches them and dies off, in its place floats a big gray bear with orange eyes.
+
+The wyvern roars, lunging before Lust can so much as flinch.
+
+With a casual swat, the bear deflects the strike, sending white lightning arcing into the distance. A spark flickers, and the bear is suddenly, unstoppably, above the wyvern, slamming a massive paw down upon it with a force that shakes the beast’s entire being and stuns it. It then sinks its teeth into the wing to pin it, shearing through scales thought to be one of the toughest materials in the universe.
+
+The orange eyes watch the Ruler of Lust while a barrage of attacks crash into the bear as the wyvern struggles to get out. White lightning, projectiles, arrays, mental attacks, spatial cuts. Yet nothing damages the bear as it simply continues to bite deeper and shake the wyvern, causing it to roar in pain while the bear watches on calmly.
+
+“We’ll leave! Please!” the Ruler of Lust begs and halts all movement of her mana.
+
+The wyvern stops moving, just hanging there sadly as the bear bites harder and bone cracks, causing it to roar in pain. Even then, no one dares to move.
+
+Only then does the bear let go, and both wyvern and feylith disappear as quickly as possible.
+
+The bear, licking its maw covered in wyvern blood, reaches the puppy sized corgi and shrinks to the size of a normal brown bear. It pokes the place where the corgi is missing a paw with its nose and sniffs a few times. Then it carefully licks the tiny animal.
+
+In the end, it gently bites into the pup’s scruff and lifts it up, and then disappears as the nearby star flares up again.
+
+POV Biscuit´s disciple
+
+It’s on a planet set in one of the long forgotten parts of the universe, those on the edge of one of the biggest battlefields of the System War. It’s a battlefield where many gods died, and the currents of many energies continue to color the galaxies like polar lights where mana still doesn’t function quite as it should.
+
+On one of these planets, a young pitch black wolf with golden eyes stands, overlooking the far stretching plains of one of the oldest planets in the universe. Waiting for his prey, he has his head lifted, parsing the scents the wind carries until he feels something unexpected, but familiar.
+
+The wolf moves quickly, lowering into an incredibly fast sprint, with slight flashes of primordial energy devouring the space ahead of him to make his leaps that much longer.
+
+Tracking the scent, he barges into the quiet, dark forest where many of the trees are older than planets, and halts when he notices a single orange spark. The wolf doesn’t hesitate and follows it over the next few minutes. And there, on the moss beneath a large oak like tree, he finds a tiny corgi pup, and the orange spark disappears.
+
+“Master!” The wolf shouts and jumps closer, poking the tiny animal with his nose repeatedly, but quickly calming as he realizes the corgi has just been rendered unconscious.
+
+After looking around, the wolf sits down and looks around once again, golden eyes narrowing as his primordial energy reaches towards the puppy.
+
+He sighs. ”Oh, master, I told you to be careful about how much you use.”
+
+The wolf shrinks a little and pulls one of the enormous leaves from the tree to lay it out on the ground. Then, very carefully, he pushes his master onto the leaf with his nose, the corgi barely taking up half of the leaf.
+
+“The Elders will be angry, and the Great Elder probably already noticed a change in our primordial energy, but it doesn't matter!” The black wolf begins to shrink further and further. It continues until he is of a size comparable to the corgi pup: a tiny wolf pup with fuzzy fur and a round belly.
+
+“You are very young, master! But powerful. I always thought you could carry our will, be someone to use our energy with a strength none of us could match, and take revenge in our stead!”
+
+The wolf pup grabs the stem of the leaf and begins to pull it, along with the corgi puppy on top.
+
+He still talks, though his voice is muffled because of the stem in his mouth. “Ebwen if your primordibal energy is gone now, you are stwill my mbaster! Bubt don't worry, we will help you gebt it back!”
+
+POV Tess Hansen
+
+Maybe I should declare for myself that the desert is pleasantly cool with a constant breeze. Would something like that even work with this mysterious skill of mine?
+
+I stop to take a break, making sure to keep my mana signature hidden and my body tucked behind one of the nearby rocks. I’m confident that I’ve drunk more water already in my time on the 11th floor than I did in all my previous time in the tutorial combined, even if I drank not long ago, I take out my bottle and take a small sip, stopping myself from drinking more.
+
+Peeking from behind the boulder, I look in the direction I’ve been heading in. My sight strengthens and expands, and my eyes zoom in several times over until I see that structure once again. It is 50 or so miles away. Ambient mana bounces off the structure and the walls, offering shielding that prevents me from seeing the mana signatures within.
+
+I sweep the area again and then dash forward, turning myself into a burst of crackling lightning as I keep myself low, jumping from stone to stone. My speed gradually increases to the point where it’s almost as fast as teleportation would’ve been.
+
+When I stop, I’m still a dozen miles away, but I don’t need to go any closer. I already see everyone outside as if they stood in front of me. As long as I’m just using my senses, they can’t sense any of my probing, and I take full advantage of it.
+
+What I’m looking at, we think, is part of the Aurate Consortium, also called The Corporation, outside of the tutorial.
+
+Even here, during the time the record of this floor was made, they’re one of the most powerful organizations around, and I’m waiting to see their Adjudicator to confirm my suspicions. We’re on the day side of this tidally locked planet, so no matter how long I wait, no cool, refreshing night is coming to contest this heat, nor to hide my signature. Yet all I can do for now is wait and hide.
+
+I calm my breathing too, slowing my heartbeat to just a few beats per minute, and my mana barely moves in the meantime. Even my body is perfectly still as the sand gathers around me. I don’t blink or use my [Psychokinesis] as sand gets into my unblinking eye, while the other remains hidden behind an eyepatch. The entire time, I hold my breath.
+
+And the Adjudicator finally comes. Out of the sky, a bright white plate-shaped flying object descends, stopping near the base. At the base of the object, a hole opens up, allowing multiple figures to drop down to the sand below. Almost all of them are wearing suits with tubes coming out of them, and some even have containers on their backs.
+
+But one of them isn’t wearing a suit. Instead, the Adjudicator is just as they were described to me by one of the talnium extraction teams I met.
+
+The Adjudicator has a womanly figure, and unlike everyone else's pale colors, she wears a black jumpsuit that covers her entire body, even her head, even her eyes are hidden behind a darkly tinted glass visor. But that jumpsuit is now damaged from some fight she must have gotten herself into.
+
+My heartbeat slows even further until it stops fully, and I forcefully keep myself from shaking. A small lizard runs across my skin as I stand there, while they make their way into the building that then leads to tunnels underground. Even then, I stay there for another ten minutes, not daring to move.
+
+Only then do I allow my heart to beat once more, slowly and gradually. The process takes a few minutes before I finally return to normal. It’s not as easy to use as Tacita’s or Lyraen’s fields, but I’m confident it’s something that’ll give me a better chance of hiding from someone with good senses like Nathaniel.
+
+Once everything’s back to normal, I explode into movement and turn myself back into lightning, moving back much faster than before and taking a roundabout way to ensure I’m not tracked.
+
+But my run slows down as, in the hazy burning air of the desert, I spot the figure wearing the black jumpsuit standing on top of one of the dunes. I find my eyes being pulled to her face, confirming that she’s looking straight at me.
+
+The mask of the jumpsuit is half burned and torn, revealing fair skin, golden hair, and violet eyes. Even partially obscured, the face is unbelievingly beautiful.
+
+As quickly as I can, I lift my hand with the Ring of Preserved Status on it, and a thousand red and white lightning projectiles form behind my back. The crown over my head dissolves, and the sunny day grows darker as storm clouds block out the light.
+
+Yet still I hold fast, keeping my hand in the air and ready to swing it down. I giggle when I feel my quickly beating heart and smile, moving a strand of hair from my face as we stand, facing each other. It’s so scary.
+
+The Adjudicator moves first, and half of my projectiles shoot ahead as she begins to weave in between them, breaking some and taking direct hits from others. They splash against her, merely damaging her jumpsuit while leaving her skin untouched.
+
+If I had to compare her movements to anyone, it would be Lily. She’s faster, but she doesn't move like Tacita. Her movements are just like our healer’s, powered by an incredibly powerful body, straining and tearing muscles only to heal them so quickly that the wounds never show.
+
+I shoot the other half of the projectiles and turn around to burst into a dash that turns to lightning as I head forward in a straight line, continuing to pick up speed. The storm clouds twist like a whirlpool, and from them, lightning crackles in a blink, reaching me and hitting the space over my head as my crown reforms.
+
+Before I can even react, she’s behind me, stabbing her hand into the lightning and forcing me to materialize as she pulls back.
+
+My fist, covered with lightning, crashes into her face, but she doesn't even bother avoiding it. She takes the hit expressionlessly, and her hand moves, slamming an open palm against my chest as I drop reinforcement on the rest of my body and focus it all on the area as she strikes me again.
+
+My heart stops beating, and my lightning cracks within me, restarting it as I take a deep breath and activate one of Lily’s healing marks. Lightning surrounds me as I duck under one of her attacks, concentrating on moving faster and slamming my hand against her chest with as much force as I can manage, and breaking my hand.
+
+The Adjudicator just shrugs it off and follows me as I attempt to flee. She grabs my leg to slam me against the ground and stomps on my chest as I defend again with all I have. Under that confusing attack, my heart stops beating again, and my lightning kickstarts it once more, this time slower.
+
+I use another healing mark from Lily. With mana oscillating across my hand, I cut off the leg she’s latched onto, turning into a streak of lightning, white and red, trailed by the further red of my blood.
+
+From the ring, I pull another attack: a small cube that expands quickly, locking her in a cage made of lightning. My crown disappears again, pulling the clouds from the sky just as she pushes through, with all of it failing to damage or stun her in the least, just barely slowing her as she does.
+
+I stop, and my rapid heartbeat calms down as I watch her. There is just a tiny bit of mana in her body, I can tell, as my eyes finally pierce through. She has no heart, and there’s a small box in the middle of her chest instead, a mana battery to power just the tiniest bit of the skill she’s using. Something that’s currently receiving communication from the base.
+
+And that’s all. She’s barely using that mana, the rest is the simple result of the raw power contained within that body. The strength of those muscles and the insane regeneration.
+
+This time, I fly high into the air, and two more healing marks restore my leg as I look down at her. And of course, she jumps up. She then leaps off the air itself towards me. Not with mana, but by stepping against the air itself so fast and powerfully that it solidifies beneath her.
+
+As she heads higher and higher, I reach my hand towards the sky, towards the clouds, and then beyond them. Much further beyond them. Towards a javelin made of endurium, hanging in orbit of this planet. I have declared it to be mine, and so it is an extension of myself.
+
+My lightning crackles and appears around it as I swing my hand down with all the power I can gather. And then I continue to add more. I pull on it with all my force, filling it with more lightning as it travels.
+
+My floating golden hair swims around my head, blocking a portion of my view for a moment, and just as she is about to reach me, the sky screams. The dark clouds are pierced and disappear as a straight line is drawn down from the heavens, attempting to catch up to the javelin. It slams against her. At least, I think it does. Even I can’t track it with my eyes, but the next moment, just before she is about to attack me, she is gone.
+
+The entire sand dune under me explodes outward and then further. All of the sand rises up into the air as a wave, taking more and more dunes with it as a hole is dug into the base of the black rock underneath.
+
+And looking down on it, I see movement.
+
+So I pull another javelin, drawing a straight red and white line that slams into the same spot with the loud crackling of lightning, shredding the silence and sending a burst of sonic waves tearing outward.
+
+Then a third, all of them slamming into a spot the size of a coin, but the movement still doesn’t stop.
+
+I watch her broken arm simply reform, and the hole in her chest close. I don’t even see the process. One moment there is damage, and the next she is healed.
+
+I allow my [Psychokinesis] to feed on my mana, and all that sand and red rock rise into the air to plug the hole in hopes of slowing her down, as I rush away.
+
+Giving it a thought, I decide it’s not enough, I can’t leave a chance that she’ll be able to track me to the others. I will deal with the consequences of using the token this way later.
+
+Sset (Hell, group 4) - I’m going to Beyond.
+
+I send the message in the Community before I use my token, appearing in the headquarters of the Silent Veil. Me leaving should clear the tracks and ensure that the natives forget they were ever tracking someone.
+
+Looking around my clean and spartan room, I check the mirror, clean myself up, and change clothes before heading out. The headquarters isn’t big, as this guild never has too many members, and everyone is A rank at least. But it is cozy, with a lot of red color and dark brown wood.
+
+I’m early, but there are already a few members preparing for the expedition to the 5th floor in a few days, and I greet a few of them with a smile, even as I still feel my hand shaking and heart beating wildly, but I force myself to keep my expression calm.
+
+I wonder how many of them know that the Adjudicator is one of Kindness’s clones, likely grown from the very flesh The Corporation has access to. And I wonder how much goodwill and shards I can get for sharing this information.
+
+Small Talk Only - Live Podcast
+
+19 million concurrent viewers
+
+“Rafael, so here we are again. Is this our fourth time speaking? It’s been almost a month since the last time anyone saw you, and we were getting worried. I’m betting that today is the day when Septa will finally let me pet her. So, how have you been enjoying your role as Christoph’s Herald? You know that's what they’re calling you?” Faye Hard asks, smiling at him while sitting very comfortably in her own chair.
+
+Meanwhile, Channeler, also Rafael by his real name and now the man known as the Herald, sits in a similarly comfortable manner, though he is wearing a black shirt that’s been left unbuttoned to show his collarbone, and his sleeves are rolled up. His golden hair is a bit longer than before, and he continues to smile in that nonchalant, confident manner.
+
+“‘Herald’ has a nice ring to it, even if it’s a bit dramatic. And as for Septa, I’m afraid she’s a bit of a snob when it comes to new friends.” He says while he looks at the spider currently standing on the table in the background of the cozy recording set.
+
+As if listening up until now, one of the spider’s legs, which reaches up to a human’s knee, moves and flicks a vase off the table.
+
+Faye doesn’t even seem surprised and smiles charmingly. It doesn't even seem like she is aware of the viewers from the way she’s acting, though she knows those numbers very well. After all, every word from the man sitting across from her represents another man, a man that some groups have even started to worship and whom many leaders, under pressure or fear, have begged for help.
+
+Still, she doesn’t rush the point she wants to talk about and tries to keep the conversation light. She controls herself by keeping a calming smile on her face, but at times her fear becomes noticeable, at least to the man sitting across from her.
+
+At one point, they play a game where she reads the comments left under videos of individual tutorial attendees. At this point, there are many such videos, and some of the attendees have become quite famous, mostly the ones still in the tutorial, even if those who already returned as superhumans still scare and fascinate many.
+
+“And now to the last set of comments on the young man with two differently colored eyes,” Faye catches up, seeming a bit embarrassed, and her smile becomes a bit more honest as she says, “The first one reads ‘i can fix him’ and is followed by another comment that has a dog licking its lips emote and text saying: ‘I can make him worse.’”
+
+“Faye, seriously, I refuse to answer this one,” he says for the first time, and both of them laugh.
+
+As that laugh slowly dies off, Faye takes a deep breath and says in a quieter voice, “I have to say, what Christoph has done surprised all of us, Rafael.”
+
+“Let’s be honest, Faye. You don't have to be careful with me. That’s why I’m here.”
+
+“It is scary, you know.”
+
+“I get that. I really do,” Rafael nods, his smile turning gentle and reassuring.
+
+“He killed a lot of people that day, Rafael. And-”
+
+“May I?”
+
+“Please.”
+
+Channeler sits a bit more upright, and his smile weakens. “I think a little bit of fear is reasonable. People should be afraid because what is happening to Earth is scary. We are currently caught up in a Pairing with not just one planet, but two. Just yesterday, I shared information with our Vice President that the gravitational pull of Earth will continue to get stronger. The moon will soon be pulled closer, and in the following months, it will continue until it breaks apart.”
+
+“And why did you speak with the Vice President and not the President, Rafael?”
+
+“Because the President was part of the problem Christoph had to deal with. Along with several other leaders who weren't up for what's coming.” He leans closer, holding her gaze with a calm intensity.
+
+The number of viewers jumps up as people continue to join and watch, some out of fear, others out of curiosity.
+
+In the past month, a lot has changed.
+
+“Faye,” Rafael continues in a smooth, confident voice, “Christoph is capable of things you haven't even seen yet. He’s going to handle the moon so it doesn't just rain down on our cities. He’s the one who’s actually going to keep us safe as the Pairing progresses. I know it’s a violent change, and that’s hard to swallow, but…”
+
+He stops and smiles while shaking his head. “Words do not matter. Neither of us is a politician promising one thing while doing another. We will let our actions speak for themselves. But Faye, I’m sure you are aware, what did the people that died have in common?”
+
+“They were widely acknowledged as corrupt.”
+
+“Exactly. And look at the streets. Was anyone else targeted? Were any homes destroyed? Did we hit a single person who was just trying to live their own life?”
+
+Faye shakes her head, and Rafael continues, “The world is better off without those people. They were parasites, leaders who hoarded resources while everyone else struggled, warmongers, people who didn't even see the rest of us as human, and-"
+
+The conversation continues on a bit longer. Rafael answers a long string of questions, including many from an audience that refuses to hold back. Many ask what gives him the right to decide, some ask how confident they are that the people who died were truly bad, and others ask how anyone can be sure some of these people weren't killed simply because they stood in the way.
+
+Rafael answers all of it, calmly and confidently in his own words, with an attitude that keeps him from seeming defeated, or like he’s trying to justify his actions. He is there just to inform.
+
+Once it’s all over, he leaves the set and is driven to the airport, where he boards a private jet.
+
+Just as the doors of the plane close, he freezes, seeing a well-kept man who seems to be in his early 40s sitting there with Septa already beside him. They stare at each other, and Channeler then sits down across from him as the plane begins its preparations for launch.
+
+“I have to thank you, I personally wouldn’t have been so patient,” Christoph smiles, and Rafael answers.
+
+“I hate it.”
+
+“You will get used to it,” the man sitting opposite him says, looking out the window. “Most of these people will remain simple humans, and die in fifty or sixty, maybe even seventy years. Even if some of them get brave enough to level up a few times or if healers spread new medicines throughout the land, most of them will live just over a century or two.”
+
+The plane shakes, and the lights on the launchpad peek through, reflecting inside the cabin.
+
+“It won't take long before everyone on the planet is replaced with people who were born after the Earth’s awakening and grew up under our leadership. All this complaining, all these people talking about democracy, religion, countries... To us, it will be remembered as... a fleeting nuisance.”
+
+POV Warden of the Parallax Eyes, Kyralon
+
+I take my eyes off what’s currently happening on Earth and allow them to deactivate, cutting the power to my tower and the field around it that is strengthening my sight. As the hum continues to weaken without an active power source, I turn to watch Greed, who is sitting nearby, drinking one of the best alchemical wines I’ve been saving for a special occasion.
+
+Greedy as she is, she almost never uses her own when something free is available for her to take.
+
+“What happened?” I ask her, curious about her visit.
+
+Ruby looks at me before taking another long sip and looks at the glass in her hand. “Pride just cleared the 14th floor of Beyond.” She watches the liquid slosh. “And I have learned that the First Dungeon has 20 floors, so at least that’s nice.”
+
+“But that isn’t all?” I ask.
+
+“It is not,” she shakes her head, throws away her glass, and takes long sips straight out of the bottle. “All of the Rulers just got a quest to kill the Ruler of Pride. The rewards are one of his active skills at its current level, awarded even if you already have 10 skills, and an upgrade token.”

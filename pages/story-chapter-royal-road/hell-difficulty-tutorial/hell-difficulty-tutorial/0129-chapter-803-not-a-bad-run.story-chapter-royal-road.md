@@ -1,0 +1,155 @@
+---
+id: bbecdb69-ba76-5dbe-b9c4-985b3614af65
+page-type-slug: story-chapter-royal-road
+title: "Chapter 803 - Not a bad run"
+slug: 0129-chapter-803-not-a-bad-run
+partOf: hell-difficulty-tutorial
+position: 129
+ownLength: 2129
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3388136/chapter-803-not-a-bad-run"
+royalRoadId: "3388136"
+---
+
+I know I do it sometimes. When I’m around the other members of our group when we’re in danger, I hesitate and become less confident in myself. Or at least more careful.
+
+I hate these emotions, but at the same time, they’re precious to me.
+
+The more I gain, the more afraid I am of losing it all.
+
+I’m sure it will repeat in the future, but for now, I suppress the version of myself who, ever since I returned to the 10th floor, has become overly cautious. I allow a part of me to surface that laughs at these thoughts. Even though, in the end, even that is a part of what makes me me.
+
+I swing my arm, and my vessel behind my back mirrors the motion. A wave of raw mana crashes against the hatchling before it can channel another orb of white lightning. The black halo over the vessel’s head expands in size, and the mana inside of it begins to spin wildly to pull in more of the mana in the area. All of my scattered mana, all the ambient mana agitated by the nearby Champions, and the mana from group 4.
+
+Then I crash against the hatchling, fighting it for its own mana as well. The tiny hatchling with its cold eyes observes what I do, mimicking me and improving at an incredible pace. Its mana reserves aren’t as big as mine, but it’s been pulling on the ambient mana from the moment it was born to bend it to its will.
+
+It is like drawing in the ambient mana is laughably easy for it. A lesser resource that’s child’s play to control. Impure and weak in comparison to its lightning. That tiny body, its bloodline, and whatever mutations and capabilities of its mind seemingly allow greater degrees of mastery.
+
+But I won’t lose.
+
+I take a step ahead, my vessel turning pitch black. Two golden rings glow where the eyes should be, and pale blue lines are mirrored on it where many of my scars are. With the body I have, I won’t lose.
+
+Mana bends to my will and flows through my vessel. My mind channels it, and the vessel carries all effects of my traits and passives. The hatchling tries to fight me for it, but it fails.
+
+I steal its mana as well, constantly launching attacks at it that each contain more mana than an average Hell difficulty attendee should ever possess. These attacks send ripples through the sea surrounding us, causing geysers of water to explode into the air.
+
+Then the little creature looks at my black mana vessel and opens its wings wide. For a moment, its mana pull resists mine. It almost looks like the mana allows it to happen. As if it were accepting the hatchling's control over it lovingly. An orb forms in front of it and begins to compress. Tricolored, bright white, back to blue, then to one with a white and golden core. It continuously shifts and channels it all, switching between all levels of compression with such ease that it astounds me.
+
+But it fails every time. No matter how hard it tries, that mana doesn't compress to the point of becoming black.
+
+Those eyes turn even colder, and a dozen projectiles, almost fully mimicking Empyrean Lances, form all around it.
+
+A pulse of my black mana shoots ahead, and the area loses most of its color. Before the projectiles can even launch, they all break into shiny white and golden particles that swirl in the air, spinning and swimming in the currents toward my vessel that takes them all.
+
+When it comes to mana, I don’t think my body and mind really lose that much in comparison to this thing.
+
+[Focus - lvl 78 > Focus - lvl 79]
+
+Signatures of the group around me fade and become just another source of information as my mind estimates how much of the attacks and the pressure the hatchling generates I should block and how much they can deal with.
+
+I find myself capable of focusing on attacking the hatchling quite a bit, only jumping in occasionally to help out the others. I filter the mana my black mana devours to allow them to use their own, and their primordial energies and fragments continue to bombard the hatchling.
+
+Stones are torn from the island and launched high up to fall down like meteors. The flames burst forth, along with the primordial lightning. Somewhere Sophie enters thought acceleration and, within that space, prepares an attack she launches in combination with the twins.
+
+Maya, in her armor, after attacking, moves aside just as Blackie charges in. In a way, he’s pretty similar to this hatchling, quickly improving and now let off the leash, he controls the body of the dead champion much more effectively.
+
+Meanwhile, Biscuit is on the back of the island sniffing the air coming from the west, and amounts of primordial energy I haven't sensed from him before begin to gather as if he’s preparing for something.
+
+A surge of my kinetic energy ripples through the air as I throw it at Blackie, but it rebounds toward me, instantly far more powerful. I grab it and fling it back again, only for the same thing to happen, the force building much higher with each exchange. And as always, I simply channel it.
+
+I narrow it to a needle point, then compress it further until it’s about as thick as my wrist. Then it tears toward the hatchling with a sound like the sky itself is crying out. The sheer friction of so much energy moving at that speed makes it generate heat, as if the air around it were on the verge of igniting.
+
+It almost matches the speed of the railgun attack Tess launches from her ring. Both of these attacks hit one after another, Tess’s making a hole and mine breaking the barrier and barely missing the hatchling. No, rather than missing, it seems like the space around the creature twists and forces it to miss.
+
+The hatchling screams again and flies to the side as Blackie reaches it, shooting white lightning at the dead demon in an attack that throws Blackie away, and every time his body bounces on the ground, more kinetic energy shoots from him.
+
+As with the shout before, there is that feeling like the trembling of an entire planet, as if we were standing on a gigantic glacier crumbling deep under our feet. That feeling continues to become more and more prominent, like it’s about to open and either swallow us or worse, release something that was never meant to wake.
+
+My black mana turns into multiple orbs that float around me, each shooting ahead and stretching into the shape of a barrier segment to block lightning attacks the hatchling continues to shoot. It starts slowly, with one attack every second, but then it begins to speed up. It becomes two lightning attacks per second. Then five. Then ten. The hatchling’s lightning rains down on us at high speed while I channel, concentrate, and move my mana at the same speed. Just a slight miscalculation, and that lightning would pass through, killing someone on the ground.
+
+That fact only makes my mind calmer, and the hatchling is no longer managing to pull on any of the mana in the area. Any mana of its own gets disrupted the moment it leaves the body.
+
+All of it is mine.
+
+[Eclipse - lvl 69 > Eclipse - lvl 70]
+
+[Current - lvl 45 > Current - lvl 46]
+
+[Current - lvl 46 > Current - lvl 47]
+
+Just as Blackie crashes against it, the hatchling calls again. The voice spreads much wider, and the tremors instantly become more powerful.
+
+Then the entirety of the sky changes color from blue to white, while the clouds instead turn a dark blue. Everything becomes painfully clear in that lighting.
+
+Both of my eyes sizzle in their sockets under the overwhelming amount of information, making me realize that the entirety of the sky has become an array, a domain, or something far greater. Something that now surrounds the entire planet.
+
+I use multiple healing marks from Lily, restoring my eyes as I put the glasses back on, just to watch the hatchling under Blackie. He continues to slam at it even as bursts of reflected kinetic energy surround both of them. In one of these, Maya and Aaron are thrown through the sand and boulders of this island.
+
+From the side, Noodle sneaks and shoots ahead, biting into the hatchling and, unlike Blackie, actually piercing the scales. But immediately, he pulls back, jaw wide open, and his body twisting and swirling in pain and spasms. Another kinetic reflection throws him away, where Lily rushes to his side.
+
+Everything turns into a series of explosions, and I use it to channel more mana, preparing projectiles and fighting for mana more actively now that my [Eclipse] is gone.
+
+Then the Weredeer appears.
+
+Out of nowhere, it’s here, bipedal, constantly bleeding, and standing on the calm sea under the white sky and blue clouds. Even the hatchling and Blackie go still. Everyone stands frozen in terror, unable to move.
+
+In the face of how crazy this situation is, I find myself simply exhaling and smiling. It wasn't a bad run, I think, as I sweep my gaze over the place and people around me.
+
+Then I take a step, and only I move through that pressure. My vessel moves closer, putting its hands on my shoulders, and the black halo expands even further. My Empyrean Blood circulates much faster as I force it along, and the movement of such pure mana strengthens that field even further, allowing me to grasp mana inside of my body.
+
+The Weredeer turns away from the hatchling to me.
+
+The sky becomes an even purer shade of white, and somewhere on a distant part of the planet, a roar similar to the hatchling's sounds.
+
+A hint of recognition flashes in the eyes of the Weredeer as it looks at me, and it lifts its clawed arm and swings in an attack that tears rifts into space itself with those claws.
+
+I find myself somewhere else entirely. A small patch of forest. Grass on a small, gently sloped hill with a tree on the top and a few more trees around on the continuing patch of grass. Everything else beyond that and around that is a neverending white space with no clear walls or ceiling or floor.
+
+I sit there, my back resting against the tree with Biscuit on my lap. He looks just as I remember him from the first floor. When I think of it, isn't the forest here the same as well? It makes me remember exactly this moment, one of those quiet ones where I found time to get away from everything, together with this wallet stealing corgi.
+
+Automatically, I reach down and pet Biscuit’s head, enjoying the feeling of his fur under my hand.
+
+"I guess we aren't dead and this isn't the afterlife either, right?" I ask gently.
+
+(Not dead.) The corgi lifts his head, and behind his eyes, I see his primordial energy more clearly than ever before.
+
+"Biscuit, did you copy my lame Thought Acceleration attempts and create this?"
+
+(Can do. Bond.)
+
+"I see."
+
+Even with what must be happening outside, I refuse to panic and instead place my trust in this corgi. But there is that faint tension in my chest that makes it harder to breathe. From his feelings, I begin to understand.
+
+I allow myself a few seconds of silence.
+
+(Will help,) He says.
+
+"You know you don't have to."
+
+(Want.)
+
+"There is no way there won't be consequences."
+
+(Doesn't matter.)
+
+I open my mouth to say something against that, but I can't find anything to say. Instead, I reach down and pull him closer against my chest, wrapping my arms around him for a long moment where he doesn't move at all and just lets me.
+
+After that moment, he turns around and boops my nose with his front paw. I don't recognize my voice as I say, almost begging, "Don't die. Don't leave me."
+
+(Won't die. Will find again. Friend again. Nathaniel.)
+
+Someone sobs, and then the thought acceleration disappears.
+
+Out of nowhere, Biscuit stands in front of me, facing the Weredeer with his primordial energy blazing powerfully as ever before.
+
+It devours the Weredeer's attack.
+
+It devours the space in front of the Weredeer, causing it to reappear somewhere far away.
+
+It devours our bond, cutting it off entirely.
+
+It devours a tiny hole in the structure of the tutorial itself.
+
+And then Biscuit disappears.

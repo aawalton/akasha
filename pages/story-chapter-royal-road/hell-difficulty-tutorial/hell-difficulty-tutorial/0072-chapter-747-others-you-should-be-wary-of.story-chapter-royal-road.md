@@ -1,0 +1,149 @@
+---
+id: 627da497-02fe-551a-8003-eebeeeff8346
+page-type-slug: story-chapter-royal-road
+title: "Chapter 747 - Others you should be wary of"
+slug: 0072-chapter-747-others-you-should-be-wary-of
+partOf: hell-difficulty-tutorial
+position: 72
+ownLength: 2484
+unit: words
+publishedAt: 2026-02-09
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3030384/chapter-747-others-you-should-be-wary-of"
+royalRoadId: "3030384"
+---
+
+POV Lily Chen
+
+When Nathaniel returns to the common area, he immediately sits down.
+
+At first, nothing happens, he simply sits there, dealing with his body upgrade. But after a few seconds, his shoulders begin to shake. A moment later, he coughs, and a bit of blood sprays onto the ground in front of him.
+
+I don’t step in, but I worry that he may have injured himself too much again and that he’s writhing in pain. That thought disappears when I realize what’s actually happening.
+
+Nathaniel starts laughing, his shoulders rising with the effort. He laughs loudly and openly, which only causes him to cough up more blood, staining his lips and chin. None of this stops him in the least. His laughter only grows louder and louder. And for a while, it seems like mana and thermal energy are exploding around him in sync.
+
+He is laughing just like a child who pulled off a trick he’s especially proud of.
+
+The whole time he’s laughing, he curses at the System, himself, the tournament, some random cowardly thylarin with a bow, Savant, and for some reason, the Ruler of Diligence for something that seems to have happened in the Armory and by the end of it he even wishes for Elydor to be resurrected, just so he can kill him again.
+
+When his crashout finally stops, he turns to look at me with that bright smile still on his face. None of his complaints have taken even a speck of happiness out of it. Even as he is now, one second of lost concentration away from death, he looks more lively than ever before.
+
+Seeing that I look at him in surprise, his smile only widens.
+
+Any words I might have said get stuck in my throat as I watch that smile. As it slowly disappears, and he returns to his usual expression, I feel a great loss.
+
+Just how could things have been if his childhood hadn’t been the way it was.
+
+POV Nathaniel
+
+The rest of the second event continues even without me, and both sides fight for control of the bridge. Yet, it quickly becomes super easy for Earth to win. There’s no buildup of defenses or the like, they just rush over the bridge while dealing with deadly green lashes, toxic mist, and the bridge’s mana disrupting material. Then they clash against the thylarin, who are missing a good chunk of their number because of the unexpected explosion that went off in their midst.
+
+Christoph doesn’t participate in the event at all and just sits the whole thing out, which allows the rest of the Hell difficulty groups to do their own thing.
+
+I honestly think Earth would stomp the thylarin planet of Nythis even without me or Christoph. Earth’s talent pool is something truly incredible, even with the advantages some of the more “powerful” races should have. Earth has nothing like the Demon hearts, the Wyvern bloodlines of the vyssari, the integrated mana storage of the lumorans, the high strength and durability of the velnar, or the flying ability of feylith, and the talent they have for mental skills.
+
+Yes, humans just keep chugging along and, through sheer spite and indomitable will, manage to contest all these races. Like cockroaches that do not have these advantages and instead have to come up with all these fucked up ways to stay in the race.
+
+If you think about it, wasn’t that what it was like for humans pre-tutorial as well? Every child in school, every adult at work, every greedy CEO, and everyone did everything they could to come up with a way to game the system and make things easier for themselves or gain an advantage.
+
+I love that cockroach-like spirit. Go, humans, go.
+
+Oh damn, my good mood is showing, isn't it? Though it lasted only a minute or so, I was able to function almost normally for that time, leaving a nice gift for those “blueies.”
+
+Of course, now I’m suffering for it, but it was worth it. That short burst gained me 1st spot in the second event, and I already moved my rewards towards the end of the tournament.
+
+Too bad for the assholes who counted me out or the people in the common area spreading rumors about how I’m washed up or fell off, or whatever Dennis said they’ve been saying. Also, fuck Samuel, who once again seems like he wants to lock me up somewhere and have Biscuit eat the key.
+
+“Lily, participate in the 3rd event,” I tell her.
+
+She’s sitting far enough away to avoid a constant stream of damage, where her durable body can endure the effects of my energies, but close enough to keep an eye on me.
+
+“Are you sure?” she asks.
+
+I confirm, “Yes, I’ve already made some modifications and developed a few specialized subminds to help me. I also have a new plan.”
+
+“Sophie would be scared of anything that could be called a 'new plan' coming from you.”
+
+“Yes, but it’ll be better this way, and it just requires a few modifications. I got a little inspired by our First Beyonder. If you think about it, doesn’t that make me the best thief? I am starting to lose count of how many of my best ideas have come from watching you guys, or some random monster, or the people I fight along the way. Anyway, please don’t tell Sophie.”
+
+“I won’t.”
+
+“Thank you.”
+
+“No problem, Nat.”
+
+“No, Lily, I mean it. Really, thank you. Like a true thank you, not just a word you throw in to be polite. Thank. You.”
+
+“Sure,” she smiles at me. “I guess you owe me at least that much for everything I’ve done if you weren’t entirely shameless. If you think of it, I gave up on two events and what would probably have been some very good rewards. While you get your improved upgrade, new plan, whatever that is, and even get to participate in the events.”
+
+“If you’re going to put it like that, I feel sorry for you.”
+
+“You should.”
+
+“Okay, so what do you want? You know me, I’m not going to come up with anything good by myself.”
+
+“You know very well what I want, but it would be pathetic to force it out of you this way. I remind you, I can be very patient, after all, I even managed to make Grumpy like me. But... for now, I’ll just keep your gratitude to myself and make use of it later.”
+
+I squint my eyes and ignore the goosebumps that statement causes. “I am not a cat, I feel the need to remind you of that, but okay, I guess,” I say in the end.
+
+“Okay,” she says in turn, ending the conversation.
+
+Unfortunately, it seems like Tent Creep will not be returning this tournament. I’m sure people are going to miss him and his great items as well. Yet, I cannot find it in myself to be too disappointed. I don’t think I’d be able to make all too many shards, and even if I didn’t have my body upgrade to deal with, I don’t think it would be the best use of my free time.
+
+Another thing I might miss out on is meeting some of the other people here. Damn, I almost sound like an extroverted lunatic here. But in this case, I actually mean it a little, there are some things I want people to pass on to Channeler outside, messages, items, and such. Then there’s also, for example, Miwa, who could’ve shown me some of her blacksmithing. Now, with improved knowledge, I would like to look over her left arm again, that pink robotic one made by Champion Keiron.
+
+I’m sure I’ll be able to modify my subminds enough to handle the body upgrade to the point that I should still get a few minutes of free time. Even if the difficulty does keep increasing, I’m cocky enough to think I can improve faster, though. I’ll use these minutes to make weapons out of my Manabloc. At this point, they should be capable of lasting over ten years if I focus on it and still be extremely durable and sharp, shields, projectiles, and simpler suits of armor. I can make a lot of things like that.
+
+Then there’s the Manatex, clothes I can make out of woven threads of mana. The same as the weapons, they can be made to stay stable for years, and the thread is more durable than some of the upper-rare armor I’ve examined.
+
+As of late, I’ve even started making multiple threads, and experimenting with the stitching, and the like, to make Manatex better. So it feels softer, stretches a little, making it less bulky, and light enough to let air through. That sort of thing.
+
+The only disadvantage is the color. All Manatex is pale blue, sometimes darker blue if I increase the density of the threads. One day, I might even be able to make them out of Ley Lines, but not anytime soon. Though tricolored Manatex would be nice.
+
+Not long ago, Maya asked me to make chainmail out of Manatex mixed with Manabloc, where the outer layer was rings made of Manabloc, with softer threads of Manatex connected to it underneath.
+
+It took me a long time, and she looked over my shoulder the entire time, but the result was really cool. If I can get items like these to Channeler, it’ll really help him a lot, and I truly do trust the guy, he knows what he’s doing.
+
+I know the others are doing similar things, especially Lily, with her disintegration orbs trapped in boxes made from her bones, weapons crafted from her bones, and even armor grown from her bones.
+
+There is a clear line of thought to follow here.
+
+What excites others the most are the healing marks she’s decided to place on a few different people. She’s even started working on transferable ones, or ways they could work without being modified for each person. Perhaps allowing her to tie them to an item, like a piece of her bone, if we follow her line of thought.
+
+Though there is always a risk with these marks and the way they heal. The ones I get are probably the most advanced ones because she created them by experimenting on me, and we’ve gone through a lot of variations.
+
+Once the barrier flickers, it brings me back to the present, and I watch the flickering red light around Christoph die off as he walks closer to stop beside Lily.
+
+He apologizes to her for sending her away before and then asks if she could leave to let the two of us speak.
+
+Lily looks at me, to which I nod, and she leaves the two of us alone. Once she is gone, that red barrier surrounds us, and Christoph looks at me with a question.
+
+I shrug, which causes him to smile, and two red arms reach out from him to touch my shoulders, after which the mana raging inside me calms to the point it feels like closing a window and cutting off the sound of a blizzard outside entirely.
+
+“I want to congratulate you on your performance during the second event. I expected something like that, but it was great to watch anyway. I would like to offer you advice, or even to take you as a disciple, but I know how you would feel about that,” he says.
+
+He says it even though he knows the emotions it will make me feel, and seems to be doing it for the sole purpose of watching my reaction with amusement. I don’t feel any cruelty in the act or like I’m being looked down upon, just as he said before... he’s someone older and more experienced, taking an opportunity to poke some fun at the younger generation and the mistakes they’ve made.
+
+In a way, I suspect he does it all with a distinct purpose, even showing me parts of him he knows I’ll dislike. It’s like he wants to be honest with me and show me as much of the real him as he thinks will work in his favor. The same as me, he knows no one is perfect, and he likely knows I prefer it that way.
+
+He just needs to look at Group 4. There are many things I dislike about most of the members, and the same goes for them, and yet... it works out somehow.
+
+However, this sort of behavior from him still irks me, but he clearly knows that as well.
+
+“Thanks for the congratulations, and you’re right. So what do you want this time?” I ask.
+
+Christoph seems to give it a thought before he says, “When you return to the Beyond, try asking your Handler, Lady Greed, who Lioren’s Handler was back then. Also, ask her how long she’s known about me and who it was that connected me with the Warden of the Parallax Eyes, when I sought to gain The Chronometric Formula of Planetary System Awakening.”
+
+He offers a weak smile. “You should realize that even if you don’t trust me, there are others you should be wary of, others like me.”
+
+“You seem to have had a lot of help. Are you sure you were a powerful Absolute?” I ask instead, watching to see if my words have the desired effect.
+
+They do not. Christoph only smiles wider, looking at me in a way that makes it obvious he knows exactly what I’m trying to do.
+
+“You know,” he says, “My Handler’s told me about your 'master' and everything she’s done so far, as well as where she is at the moment. It’s obvious you are comparing me to her. It’s even expected of you to look down on me. In the end, in your eyes and your feelings, I seem to have given up, do I not? I chose the easy way to start over, blaming all my failures on an earlier version of me rather than my lack of skill and effort. And now, three years into the tutorial, I finally kill a Champion with all the advantages I had, while her imitation has already defeated the Ruler of Envy. With all that in mind, I’m nothing, am I not? Just a failure.”
+
+“But?”
+
+“But, ask your Handler. She’ll tell you more. You might understand my abilities a bit more then,” his head turns towards the sky, looking to a very specific spot. “She won’t break any rules or agreements by sharing that information if I’m the one allowing it, but please, Lady Greed, don’t share too much. I deserve some privacy as well.”
+
+No matter how long I look at that same spot, unlike him, I can’t see anything at all.

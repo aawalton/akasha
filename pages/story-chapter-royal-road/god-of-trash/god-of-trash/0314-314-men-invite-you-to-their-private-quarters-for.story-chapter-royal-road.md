@@ -1,0 +1,139 @@
+---
+id: 7f3e2c0f-c12b-5d26-bfa2-0019e1dd8211
+page-type-slug: story-chapter-royal-road
+title: "314. Men Invite You to their Private Quarters for One Reason"
+slug: 0314-314-men-invite-you-to-their-private-quarters-for
+partOf: god-of-trash
+position: 314
+ownLength: 1979
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3433429/314-men-invite-you-to-their-private-quarters-for"
+royalRoadId: "3433429"
+---
+
+Ryota gave Rhys a black cloak and donned one himself before he led Rhys back toward his private quarters. Rhys obediently wore the cloak, and mentally acquired a new piece of clothing. If Ryota wanted his cloak back, he’d have to move quick when they arrived.
+
+A street or two down from the bar where Rhys had semi-successfully brawled the men, passersby once again milled about, going about their business. With Rhys cloaked, no one reacted too strongly to their presence, and the two of them passed through the heart of the city and back out into the outskirts on the other side. From tall buildings bustling with businesses and shoppers, to quiet residential blocks, to big, rolling estates with bobbing palm trees, seagrass, and structured gardens, they left the middle-class behind and ascended firmly into the upper class.
+
+Ryota stopped at a broad, sunny estate that looked every bit the part of the prince’s quarters. A long, sun-drenched drive shaded by the occasional palm tree ascended toward the open, airy wooden estate, full of white-linen sails shading the various balconies and compartments of the house. It was unbelievably picturesque, and a long, hot walk away.
+
+“We going up?” Rhys asked, after a few moments just standing there gazing at it.
+
+“One moment…” Ryota fiddled with a stand that Rhys had instinctively taken for a mailbox, even though there wasn’t such a thing as the mail service in this world (that he’d encountered, anyways.) He peeked at Ryota’s hands and saw the man fiddling with a gemstone, and then a hidden panel slid back on the sandy ground. A small sailboat rose out of the hole, bobbing gently on the warm breeze. Ryota stepped in, and Rhys followed behind. Once they were both aboard, the sailboat lifted off and floated up to the estate.
+
+“Luxurious,” Rhys commented.
+
+Ryota shrugged, grinning just a little. “It’s one of the perks of being a prince.”
+
+“That and getting with the Shrine Maiden, huh?”
+
+Ryota coughed. “That’s… not…”
+
+“Look, I’m not saying she’s banging all the princes, but she isn’t hanging with no broke… people, either,” Rhys pointed out.
+
+Ryota considered for a moment, then raised his brows and slowly started nodding. “I never considered, but… no.”
+
+“Well, she is in charge of her shrine, no? It only makes sense that she’d be looking for a highly affluent patron to ensure the shrine’s survival.”
+
+Ryota blinked. “No, that’s not why she… it was love. A moment of love.”
+
+Rhys waved his hand. “Sure. If it makes you sleep better at night.”
+
+People told themselves all kinds of lies to survive. Whether the Shrine Maiden loved Ryota or not, he didn’t doubt that in some, cynical corner of her mind, or maybe even subconsciously, she’d picked him out for value and survival. He didn’t think any worse of her for it. If anything, he admired her practicality. If she’d actually pursued love for love’s sake when she had such a vital position, he’d question her priorities a bit. People in charge needed to consider something other than trite sentimentality when they picked out their mates. Sure, it was good if they liked one another, too, but practicality had to factor in as well.
+
+Of course, if she’d chosen him out of classism or because she saw ordinary people as her lessers, he’d think less of her. He snorted to himself. Love was no good, and ‘isms were no good. Practicality was fine, but too practical was no good, too. The rich and famous constantly walked a tightrope. One millimeter in the wrong direction, and they’d go from beloved to hated. It was worse in his world, where the rich and famous were infinitely visible, but the same basic principles applied here.
+
+“You think she didn’t love me?” Ryota asked, on the verge of having a crisis.
+
+As a kind person, Rhys silently sighed. I went too far. Let’s go for de-escalation mode. “I dunno. How good’s your game?”
+
+“Game…?”
+
+“You know.” He did a little hip thrust.
+
+“Oh! Oh. Well… um. I think she liked it.”
+
+“Think? Not knew? Bad news, man.”
+
+Ryota bit his lip. “I’ll do better next time.”
+
+“Save that for her, not me.” He gave Ryota a look. “Next time?”
+
+“We agreed to meet later this week.”
+
+“Oh, alright then. You did well enough.”
+
+Ryota looked Rhys up and down. “You know, you’re being rather rude to a prince. I’ve never had anyone speak so familiarly to me.”
+
+“Am I? I guess,” Rhys said, shrugging. “Hey, you remember what I said about being strong? You can’t beat me, so why the fuck should I bow and scrape to you, you know? What are you going to do about it?”
+
+“Some of my brothers have retainers who out-tier them. They would have your head.”
+
+“Cool. Then I’ll just train until I get stronger than their retainer and keep mouthing off the same as ever.”
+
+Ryota shook his head. “You’re a brave man. Or foolish.”
+
+“I’m just trash, that’s all. If I wasn’t trash, I’d probably be wise enough to bow my head when I need to, but right now, I’m just in the mood to hold my head high, regardless of what I should do. Basically, I can’t take these things seriously ‘cuz I’m just a trashy dude.”
+
+“It does seem to make things simpler for you,” Ryota allowed.
+
+“Eh. Sometimes. Sometimes it makes things way, way more complicated.” Rhys leaned back against the bench of the ship, gazing up at the brilliant blue sky. “Like right now. I came here because I wanted a vacation, but now I’m mixed up in a succession battle, and everyone seems to treat me like the devil just for using a few little impurities.”
+
+“Well… it is a horrifying technique,” Ryota pointed out.
+
+“It’s what I had to rely on to survive. I’m not good at anything except for trash. Swords, magic, whatever, it’s all useless unless it’s trashy.”
+
+“Impurities aren’t trash.”
+
+“I’m pretty sure they are. Everyone wants to expel theirs, right?”
+
+Ryota considered for a moment, then tilted his head. “But wielding them in battle makes you a terrifying and formidable opponent, not trash.”
+
+“It’s all a matter of perspective. Speaking of, do you want me to extract your impurities? It’ll hurt a bit, but you’ll be stronger afterwards.”
+
+Ryota laughed lightly. “No, no. I’m a prince, remember? I’ve always been brought up with the best materials. I don’t have many impurities in my body… surely not enough for a specialist for yourself to be interested in.”
+
+Rhys scanned his body, then frowned. Ryota was mostly correct, but there was one small blotch on his core. Down in the lowest corner, almost out of sight, there was a patch of hideous black impurities that were all clustered together, almost wrapped into a bundle. The bundle was simultaneously durable and delicate. He gave it a prod, and its delicate membrane shuddered, reacting to his touch. Instantly, Rhys retracted his filth-senses—which were what he was trashily using to secretly probe Ryota’s body, knowing that the man couldn’t sense it. If he tried to remove that bundle, it would instantly burst and flood Ryota’s body with filth, but if he left it be… he watched it flex with Ryota’s body, completely steady. If he left it be, it wouldn’t burst no matter what.
+
+It was covered in a thick layer of Ryota’s own mana and core wall, so well disguised that he was sure Ryota had never noticed it. Of course, he had the ability to sense impurities with impurities, and so, it was plain as day to him.
+
+Isn’t that interesting. He yawned and left it be. Someone had planted a trap in the Third Prince’s body. Rather than immediately risking Ryota’s life to try and remove it, wouldn’t it be more interesting to see who tried to activate it?
+
+Ah, well, if I decide not to get involved in this mess, I’ll deal with it before I go, but for now, let’s pretend I saw nothing and see who takes a peek.
+
+They made small talk as the ship continued up to the base of the manor… or rather, the second floor, where it docked elegantly at the end of an elegant pier that elegantly extended toward it with elegance. It was all so elegant that Rhys couldn’t help but feel completely overwhelmed.
+
+So this… this is how the 1% lives? Everyone else had to walk up to their house with their own two feet, even when it was freezing cold outside and the wind was blowing right through his pants to deal a blow directly to his life points. But not only did Ryota have a cute little sailboat to sail him around, he also had this fine and deeply elegant contraption unfold when he landed. It was excessive, no, beyond excessive. For just his landing pad… what was essentially his garage to be so elegant that it made Rhys want to puke and bleed out of his eyes at the same time… what would the rest of his house look like?
+
+Ryota started to leave the sailboat, but looked back when he realized Rhys wasn’t following. He paused. “Are you alright?”
+
+“I am now, but I think I might die of opulence if I take another step,” Rhys muttered.
+
+Ryota laughed lightly. “It’s not that fine, surely?”
+
+“No, no, not at all. Not even a little bit.” He took a deep breath. Come on, poor ass, get yourself together before this guy realizes how poor you actually are. He shook his head and stepped off the boat, following Ryota into the house.
+
+The inside was just as opulent as the outside, in a quiet luxury kind of way, which made Rhys’s eyes water even more than if it’d been laden with gold and jewels everywhere. If it’d been gaudy, he could at least comfort himself with the knowledge that Ryota was the kind of rich where he had to remind everyone he was rich… in other words, not that rich. But for it to be this quiet, this whisper-tasteful luxury… his skin crawled. Ryota was rich rich. The kind of rich where he didn’t know how much bananas cost, but one of them was probably… twenty dollars?
+
+He is a prince. Even if he was one of twenty-seven or whatever—man, dad was a busy man—he was still the representative of whichever warlord his mother had been the daughter of. He only got a 1/29th share of dad’s wealth, but he got all of mom’s, and given that he was essentially the warlord’s chance to show off his value and influence to the king (and more importantly, the other warlords), it was in the warlord’s best interest to ensure he was well-set in the capital. Though that implied…
+
+“This isn’t the capital, is it?” Rhys asked.
+
+“Huh? No. It’s a pleasure island near the capital, but it isn’t the capital.”
+
+“Pleasure… what are you doing on this island?”
+
+Ryota gave him a look. “Enjoying a nice drink, relaxing in the sun, swimming in the sea… is there something wrong with that?”
+
+“No, no, er, sorry. Reflexive reaction. There was a really bad island back where I was from… no, forget about it. But there were also lots of good islands, so, you know, I uh, I get it.”
+
+Ryota chuckled. “You are a strange one.”
+
+“I get that a lot.” Rhys cleared his throat. “So, um, about this terrifying thing that I apparently remind people of, that I really ought to know about?”
+
+“Right, right. Come on, this way. I shouldn’t mention it where anyone can hear us, in case someone gets the wrong idea.”
+
+“We wouldn’t want anyone getting the wrong idea about the island—sorry, sorry. I’ll stop.”
+
+Shaking his heat at Rhys, Ryota gestured, leading him deeper into the manor.

@@ -1,0 +1,125 @@
+---
+id: f168f787-dc1d-530f-8553-6b9030cdc931
+page-type-slug: story-chapter-royal-road
+title: "262. Let Us Proceed"
+slug: 0262-262-let-us-proceed
+partOf: god-of-trash
+position: 262
+ownLength: 2111
+unit: words
+publishedAt: 2026-01-16
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2950028/262-let-us-proceed"
+royalRoadId: "2950028"
+---
+
+“There is a bit of a hitch,” Rhys warned him.
+
+“Oh?”
+
+“Virgil doesn’t trust you, even with the mark. He knows you corrode it just by existing, and therefore also knows that the mark’s power fades over time. Of course, there is a workaround.”
+
+“Which is?”
+
+Rhys looked him in the eye. “Acknowledge it, and ask Virgil to redo the mark. We can re-corrupt the mark at any time we like, so there’s no harm in asking for a re-mark. I’ve corrupted it in a way that makes it look like your body naturally broke the mark, rather than someone externally intervening. Once you’re re-marked, he’s more likely to trust you, at least for a short period.”
+
+“In other words, we should do this immediately before we make a move,” Soma deduced.
+
+“Precisely.”
+
+Soma nodded. “What do we do until then? Entertain ourselves?”
+
+“You’re free to do whatever you want. I’m going to continue working. I’ve got a lot of setup to do.”
+
+“Anything you need from me?” Lira asked.
+
+Rhys shook his head. “Not right now.”
+
+She nodded and stood, leaving the room.
+
+Soma stood to leave as well. Rhys followed him out, then sighed. “How do you do it?”
+
+“Hmm?”
+
+“I mean… get so many people wanting to be around you. Even if I tried, I couldn’t get this many people to be attracted to me at once. What’s your secret?”
+
+Soma paused, looking at him. “You don’t know?”
+
+“No…? Should I?”
+
+“You also practice the impure arts, right? And you don’t know?”
+
+Rhys crossed his arms. “Come on. Just spit it out already.”
+
+“I’m just earnestly surprised you don’t know. We make excellent furnaces, Rhys.”
+
+“We… what?”
+
+“Do you not know…? I suppose it isn’t a popular technique in this region.” Soma took a deep breath, steadying himself like a teacher. “There are techniques that allow two participants to exchange energy. They can be parasitic or one-way techniques wherein one user strengthens themselves at the other user’s expense, or they can be harmonious techniques wherein both users benefit from an exchange of energy.”
+
+Rhys squinted at him, then nodded slowly. “Ohhh, right. I was stuck in the wrong genre. My bad. Yeah, I do know about that. I was just… yeah. Wrong genre.”
+
+Usually the works that had that kind of mechanic were a little more… bedroom oriented. They were one-handed reading material, with lots of energetic and lovable heroines who got lots of love from the protagonist and the whole audience. He hadn’t known this world had those mechanics too, but then again, why not? It seemed reasonable enough, and it wasn’t out of expectations for there to be multiple routes to the top echelons of power, whether they were predatory techniques or not.
+
+Soma nodded. “Then have you not realized that we are the ideal partners? We benefit from gaining impurities, while our partner can cycle their energy through us and gain it cleaner on the other side. Our very nature makes us harmonious partners for almost every practitioner of these arts. In fact, some of the people I house at my mansion are students of schools of the arts, who send their students to me for education and live practice, since I am such an ideal partner.”
+
+Rhys blinked. He opened his mouth, then slowly shut it. Everything Soma said rang true. In fact, he’d even cleaned people’s bodies and energy of impurities before, so he’d even done it in practice. It was just… “You realize you don’t need to have sex with someone to accomplish that, right?”
+
+“Right, but why not have a little fun, if everyone’s willing and able? I provide therapeutic treatment, and we all enjoy ourselves. It’s a truly harmonious cycle where everyone benefits.”
+
+“I… guess that’s true.”
+
+“You’re asking the wrong questions. It’s not ‘why have sex,’ it’s ‘why not have sex,’” Soma put forth.
+
+Rhys sighed. “You would say that.”
+
+“I would.”
+
+They left the room, and Rhys paused, just thinking about what to do next. There was a lot to do. Absorb all the gunk under the region, beyond the depths of the Impure Wells; go find Sable; figure out what had happened to Mouse; go back to the Empire and figure out how to absorb the gunk coming out of that mine, which he could almost certainly absorb with his cuteifying technique—ahem, trashifying technique. And that was all the things he remembered as being on his to-do list. Who even knew what he’d forgotten.
+
+He'd also left off all the things he still needed to do to enact his plan to take down the Alliance, but honestly, the first step was to get stronger. He’d established a base of operations with Soma, and he’d established that he could free people from their marks, or, alternatively, edit them. It wasn’t so bad to let people know he could remove marks, because of course he could; it was the ability to edit marks, and remove particular elements of them, that was dangerous to allow others to know.
+
+Right now, the biggest obstacle to his progression was the Sword Saint, and the fact that Virgil could wield the man as a weapon. He had a plan to draw out the Sword Saint, of course, but the problem was that once he drew the man out, he still had to immobilize him for long enough to disable or edit his mark, without getting struck down by the very same Sword Saint. He couldn’t instantaneously edit marks, nor could he restrain the Sword Saint. If he didn’t get strong enough to do one or the other, he could kiss his entire plan goodbye.
+
+Sure, he’d survived the Sword Saint once, sure, that spooked Virgil, but that was all he’d done. He legitimately didn’t know how to counter the Sword Saint, nor was he strong enough to right now. Virgil was spooked, and that was great, but he hadn’t accomplished anything other than a jumpscare. He couldn’t make good on the threat Virgil thought he posed, and the second Virgil found out about that, his life was just as over as it should’ve been from the very start.
+
+So: step one, get stronger. Of all the things on his list, the easiest way to progress his magehood was also the safest: return to the ruins of the Empire and head down that filthy mineshaft. There were impurities and filth aplenty down there, and if that wasn’t enough to level him up to the next Tier, he didn’t know what would.
+
+Though… oddly, he felt as though levelling from Tier 4 to 5 wouldn’t be a smooth and straightforward as climbing from 3 to 4 had been. His instincts prickled every time his thoughts returned to that moment, or rather, traveled to that future moment when he would rank up. Something barred his way. Something was going to make it difficult for him to climb over that barrier.
+
+But that was fine. Very few people in the Alliance were Tier 5. He could sometimes fight up a tier, though he suspected the Sword Saint could also fight up a tier or two, neutralizing his advantage—and that assumed the Sword Saint wasn’t Tier 6 or up to begin with. The point was, if he hit high Tier 4, he stood a chance of being able to restrain the Sword Saint for the few moments he’d need to edit the man’s mark, or at least of doing it so fast the man couldn’t fully react… or something.
+
+The point was, at the end of the day, he needed to be stronger. And the first place he needed to go to accomplish that was the mine. It was full of gunk, it was far from the Alliance, and no one should be looking for him in the Empire. At least… not for his new face.
+
+“Hey, Soma. Where’s the bath?”
+
+“I thought you’d never ask.”
+
+“The—the private bath. A bath with just me. You know what? A lake works, too. Any large body of water.”
+
+Soma gasped. “You don’t want to see our luxurious facilities?”
+
+Rhys hesitated. A fantasy mansion belonging to a man with a massive harem was sure to have incredibly luxurious bathing facilities. Their baths were always enormous and gorgeous, with lots of room for… activities. But on the other hand, there was a great risk to his morality, his poor eyes, and his wizard status if he went down there. Not that he’d mind on that third one, but… there was Mouse, and whatever might’ve been between them, and he was pretty sure that it'd be really fucked up of him to just mingle around in a harem bathtub and let whatever happened, happen.
+
+Yeah, he was trash, but some things were inexcusable even to him. There was a difference between trash and cheaters, evidenced by even Soma being unwilling to cross that line… though Rhys wasn’t really sure what qualified as ‘cheating’ in a relationship as open as… whatever Soma had going on. He and Mouse weren’t… official, but there was something there, and pretending like there wasn’t so he could play around in a big fun bathtub was gross. High-school or early-college behavior, and the kind of youthful behavior that had always cost his stupider friends whichever girl they’d been pursuing’s interest. Just because they weren’t formally in a relationship, didn’t mean the girl couldn’t evaluate their behavior and decide on her own if she wanted to continue pursuing that relationship or not. He wasn’t going to throw his first chance at happiness in two lives away for whatever this was.
+
+There was the little problem of Mouse being on Virgil’s team right now, but they could overcome that. Love always won, or whatever, and he was going to defeat Virgil sooner or later, so it wasn’t going to be a problem in the long run. She’d have to explain herself, of course, but there had to be an explanation. Mouse wasn’t the kind of person to swap sides without some kind of coercion… or a really good reason.
+
+“Even a puddle would work,” Rhys said.
+
+“Ooh, outdoors? Spicy. I didn’t have you pegged as an exhibitionist, but I can get behind it.”
+
+Rhys gave him a deadpan look.
+
+Soma waved a hand. “Let me check the second floor. Naturally, we have private baths, but I’ll have to check if they’re occupied or not.”
+
+“Thank you. If they are, don’t worry about it. I can find another body of water,” Rhys assured him.
+
+Soma nodded. He headed upstairs. There was a little bit of shouting, a little bit of giggling, and Soma poked his head around the corner of the stairs again. “The room is open. Last one on the left.”
+
+“Thank you so much,” Rhys said, bidding his current, short-lived face goodbye. Soma had identified him as Rhys publicly, so no matter how short-lived it was, this face was dead. On the upside, Soma’s mansion was full of people who were constantly coming and going, so as long as he chose an attractive new face, he’d blend right in to the constant churn of new faces. If someone was trying to track him, he’d basically walked into Grand Central Station, changed his entire outfit, and walked back out the same door he’d walked into, while his tracker would be lost looking for his old face.
+
+The room was sumptuous, as Rhys expected it to be. There was a big round bed in the middle and a mirror on the ceiling, and a freestanding tub in the middle of the room with a big mirror propped up beside it. Rhys tried not to look at any of the mirrors as he approached the tub. The tub, on its part, auto-drained, then refilled itself with steaming hot water. A few rose petals materialized on the surface of the water, and a gentle rose scent emanated from the tub.
+
+Rhys stared. Damn. I bet the main baths are insane. He hesitated, not sure whether to take his clothes off or not, then decided that even a magically self-cleaning tub wasn’t necessarily self-sterilizing, too, and entered fully dressed. For a few moments, he thought about which face to emulate, then settled on a classic: Mr. Lonely Levelling himself. He had to work a little to reshape the face from manhwa-style to real-life style, but it wasn’t impossible. He rose from the water far more attractive than he’d entered it, with a very toned body to match. Exerting his mana, he dried the steaming water off his clothes and turned to face the door.
+
+It was time to do some solo levelling of his own.

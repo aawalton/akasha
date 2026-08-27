@@ -1,0 +1,267 @@
+---
+id: 3777f8e4-6ee2-52e4-94cf-069a36c3bed4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 79 - Beginning of Book 2"
+slug: 0003-chapter-79-beginning-of-book-2
+partOf: hell-hound-evolution-litrpg
+position: 3
+ownLength: 3299
+unit: words
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/2964708/chapter-79-beginning-of-book-2"
+royalRoadId: "2964708"
+---
+
+I watched from the shadows as Grick paced along a roadway that cut through the forest. It wasn’t a proper road made of bricks or stones or anything like that, more like compacted dirt from years of regular travel turned it into a clear pathway. At the end was the walled city, but inside those walls were apparently not where Grick did his trading.
+
+The goblin certainly looked nervous, wringing his hands together. I had a feeling he was conflicted for more than one reason, but I didn’t intend to back down on my plan.
+
+“Remember… gold and potions.” I sent to him through my new Pack Bond perk.
+
+“Gold…” Grick muttered. “Grick gets gold red human thing. Nice things.” He nodded to himself, pounding one fist into the other. “Grick gets the lovely human things!”
+
+Finally, we heard what sounded like laughter and the clip-clop of hooves from the distance, and Grick tensed, then went over to stand behind the metal box that had the remains of the crystals we had harvested from near his home.
+
+I used {Pulse Sense} to get a better idea of their exact location. Two humans and a horse, moving along the path.
+
+“...So then I said to her, if you want silk that doesn’t itch, you should stop living in rags and learn how to wash yourself.”
+
+The other joined him in laughter, which soon died as they came around the next bend and spotted Grick.
+
+They emerged into view together: one was a broad-shouldered man in a faded blue traveling coat and wide-brimmed hat pulled low over sharp eyes, his posture relaxed in the confident way of someone used to being obeyed. Beside him walked a thinner man in a red-trimmed robe, lips pierced, fingers already twisting a very long, oiled mustache as he smirked.
+
+“Ah—well, look what we got here.”
+
+“Grick comes to make trade with humans!” the goblin said confidently.
+
+The two merchants glanced at each other with knowing sneers, probably already counting the free payday they were expecting. Unfortunately for them, I had other plans. I nudged Lily as she started to stand, signaling her to wait.
+
+“Well Grick, my favorite trading partner!” the man in the blue coat said as he came over. “Let’s see what you got for us this time.”
+
+“Lovely shinies!” Grick said, unlatching the metal box. “Grick brings in box! Trades lots!”
+
+He opened the lid and the merchant instantly dove his greedy hand inside, snatching one up. The one in the red robe leaned against the cart, twirling his mustache with an amused grin that tried my patience. I kind of wanted to skip the theatrics and jump right to teaching him a lesson just because of that smile.
+
+However… these people might be thieves, but that didn’t mean they deserved the death sentence. Nor were they an immediate threat to us. I had to wait and see how they reacted to Grick’s negotiations before inserting myself.
+
+“Not bad Grick, not bad at all.”
+
+“Bringing box smart! Grick smart!” the goblin nodded in self-congratulation.
+
+“Oh yes, of course we’ll have to get a proper reward then if…” his words trailed off and he frowned, putting down the crystal he was examining and picking out another. “Grick, what is this?”
+
+“I-It’s shiny!” Grick said, looking at it.
+
+“This one doesn’t have any mana left in it, you stupid goblin.”
+
+“Yes it does! Grick sees—”
+
+The merchant dropped it back into the box and slammed the lid shut. Even from a distance I could tell the crystal had the same glow as all the other ones. “Oh Grick, well, you did come all this way so let’s see what we might have for you.” He then called over to his companion. “Gerald, get something to trade for the goblin’s crystals.”
+
+The mustache-twirling one let out a boastful laugh. “Oh yes, of course. I got just the perfect thing!”
+
+He climbed up onto the cart with a grunt and flipped open one of the side compartments, rummaging around with exaggerated care, as if he were selecting a treasure rather than digging through refuse. Wood clattered against wood, something glassy rattled, and finally, he straightened with a triumphant flourish.
+
+“Despite the subpar quality you brought this time, we’ll, in recognition of our long and mutually beneficial relationship, be willing to part with something quite special as payment.”
+
+Grick pranced over to the cart giddily, wringing his hands in excitement. “Lovely thing for Grick!?”
+
+“Ohhohohoho yes.” He gave his mustache an extra-exaggerated twirl. “Quite lovely jewelry for the esteemed tradesman indeed.” He then opened his hand to show what they planned to trade for that big box of crystals.
+
+…It was a ring. But calling it jewelry would be quite generous.
+
+The band was dull, scratched, and bent in several places. It wouldn’t surprise me if that thing had gotten caught under their wagon wheel for how poor its condition was in. As for the gem studded in it, I really couldn’t say one way or another, but a sneaking suspicion told me that it wasn’t very valuable either.
+
+However, Grick, of course, sounded absolutely pleased.
+
+“Oooh! Very nice thing! Very nice thing for Grick!”
+
+The small goblin reached up to take it and I instantly sent him a command.
+
+“Grick! Stop! Remember, gold and potions! Gold. And. Potions!”
+
+“Hohohoho, yessss I suspected you would be… mmmm pleased…” the mustache-twirling merchant said—and believe me, he deserved that name. I don’t think he stopped playing with that mustache for more than half a second since I laid eyes on him.
+
+“Ah… Grick…” Grick pulled his hand back before taking the ring. “Grick needs more! Grick brings many shinies!”
+
+“Grick…” the broad-shouldered merchant in the blue coat took on a stern tone as he folded his arms. “You know how this works. We are the experts so we know best how to value things. Believe me, you are getting a good deal, so take it or leave it.”
+
+“Grick wants gold!” the goblin insisted. “And healing potions!”
+
+The blue-coated merchant’s teeth clenched at that declaration. “Gold and potions!? BAH! And why do you think we would take such a trade for those worthless crystals you brought us!?”
+
+“Grick knows shinies worth lots! Grick wants good trade!”
+
+“That’s it.” The blue-coated merchant walked over to his companion and snatched the dented ring. “Since this greedy goblin doesn’t know when he’s being offered such a good deal, let’s not waste our time!” He then set the box of crystals on his cart and stuffed the ring in his pocket.
+
+“Wait! Grick makes trade! You can’t take without trade!”
+
+My teeth clenched as I watched from the shadows. They weren’t just ripping him off at this point, they were flat-out stealing from him!
+
+“Since you’re such a stupid goblin who doesn’t know proper gratitude, I’m keeping these to teach you a lesson. Now next time you come to trade with us, you better fix your attitude, Grick.”
+
+The mustache-twirler shrugged and sighed. “Honestly, and here we were trying to be nice. Mmmm how unfortunate you couldn’t learn proper behavior.”
+
+“Suppose we shouldn’t expect any more from a stupid goblin.”
+
+Once again I wanted to jump in right there and then, but I hadn’t seen quite enough yet, and I wanted Grick to push just a little harder.
+
+I sent him the thought, “Don’t give up, Grick. That ring was worthless. Get in their way and demand they honor a fair trade!”
+
+Grick looked dejected and on the verge of tears, but as my thought transferred to him, he raised his head with a look of determination coming over him.
+
+Before they got the horse going, Grick ran ahead on the road and raised his arms. “Humans stop! Grick is powerful! Grick is master of cave and bringer of shinies! Grick demands respect and fair trade!”
+
+“Bah! Get out of the damn road before we run you over! You damn retarded goblin!”
+
+“Grick not retarded! Grick smart and powerful! Gold now, or else!”
+
+“Or else?” the blue-coated merchant’s eyebrow twitched.
+
+The mustache-twirler chuckled softly through pierced lips.
+
+The broad-shouldered merchant stomped over to Grick, fury in his eyes. “You really don’t understand your place, do you? Well let me remind you. You are a goblin—a monster! You don’t even have a right to live and breathe, and we should have just killed you the second we saw you.”
+
+Grick began backing away a step at a time as the merchant towered over him.
+
+“Yet, we were kind enough to trade for your little rocks, and you show us this kind of disrespect!?”
+
+“G-Grick only wants fair—”
+
+The blue-coated merchant grabbed him by the front of his ragged vest and yanked him close. Grick yelped, feet scrambling uselessly just above the dirt.
+
+“You want fair?” the man snarled. “Fair is you crawling back into whatever hole you crawled out of and thanking us for not putting a blade in your spine. Why, I ought to just throw you under our wagon wheel and— AAAAAAAHHH!”
+
+Grick suddenly stabbed a small knife into his arm, causing the merchant to drop him and back away, leaving the blade embedded in his forearm. “He-he stabbed me! That dirty fucking goblin stabbed me.”
+
+Grick was already disappearing into some nearby bushes as they stomped after him, the mustache-twirler drawing a knife from his sleeve as the other carefully pulled the blade out of his arm.
+
+“Tisk, tisk, such a shame. We had a good thing going with that damn goblin,” the mustache-twirler said. “Now that he’s shown his true nature as a monster, we’ll just have to kill—”
+
+Grick popped back out of the bushes, this time with his red mask over the front of his body. His arms and legs waggled behind the oversized mask, its single-pointed-toothed grin staring up at them as Grick said, “Now you will know the might of the all powerful Grick! Fear me, humans! And give up your lovelies!”
+
+“That little fucking garbage picker actually lost his damn mind,” the blue-coated merchant sneered, clutching his wounded arm. “Gut him slowly.”
+
+“Hmmmm, but where do you suppose he found that mask? It belongs to the Bloody Peaks tribesmen, does it not?” The mustache-twirler backed away a step, looking toward the direction of the mountains. “There were an unusual number of stray Direwings about recently as well…”
+
+“Who cares! Just hurry up and…”
+
+That’s when me and Lily finally decided to make our entrance. We prowled out of the bushes on either side of Grick, both merchants freezing in place as they laid their eyes upon us. Lily’s hackles were raised as she padded forward, baring her fangs. Meanwhile, I sat on my haunches beside Grick, staring down the two merchants.
+
+“W-What the hell are—” the broad-shouldered merchant began to say.
+
+“Puppys Grick’s friends! Fight Grick’s enemies! Kills red masks and hunts lovelies together!” the goblin explained. He then pointed at the merchants. “Now give Grick gold and healing potions.”
+
+“Are you fucking crazy!” the blue-coated merchant said, stumbling back toward the cart and reaching for something. The mustache-twirling merchant was already drawing a sword out of his robe.
+
+I sighed, figuring they would decide on doing it the hard way. I could tell just by looking at them they probably were not very high level, so I opted for starting things off with {Intimidate}.
+
+My jaws snapped open and I let out a roar in their direction, causing both to stop in place and drop their weapons as their eyes widened in sheer terror and they were paralyzed.
+
+I looked over to my sister. “Lily, take a bite. But don’t kill them.”
+
+Lily instantly bounded forward, jumping up and knocking her paws into the mustache-twirler’s stomach, causing him to fall backward. He broke free of the paralysis just as Lily bit the hand that was closest to the knife.
+
+“M-M-Monsters! HELP! Somebody!”
+
+His companion was still paralyzed, so I focused my attention on shutting the mustache-twirler up. I prowled over, put a paw on his chest with my claws close to jabbing his neck, then barked loudly in his face to silence his screams. He lay there quivering in fear underneath me.
+
+“Don’t make puppy mad,” Grick said, peeking at him from around my flank. “Puppy likes tasty human.”
+
+“P-Please! Call them off!” the mustache-twirler cried.
+
+Grick reached one scrawny arm around the oversized mask that still covered him and pointed at the mustache-twirler. “Give Grick gold and healing potions! You keep shinies. Fair trade!”
+
+“O-Of course! Ah-hahha, th-that is a v-very agreeable t-trade!”
+
+Satisfied, I took my paw off of him and nodded for Lily to let go of his arm.
+
+Unfortunately, it was that precise moment his companion broke out of his own paralysis and instantly took off running and screaming.
+
+I sighed, watching him go for a moment before running after him. Whatever distance he managed to gain was cleared in mere seconds thanks to Give Chase. I pounced on his back, knocking him to the ground and then quickly got my jaws around the back of his neck, but not with the intention of killing him.
+
+I simply let out a loud, threatening growl as I held him still with my teeth still right on the sweet spot, then forced him to turn to such an angle I could watch the mustache-twirler’s progress through one eye while keeping him still.
+
+The mustache-twirler finally stopped playing with his mustache as he dug through some drawers along the side of their cart. “Mmmmm potions, yes? M-My apologies, but we recently did business w-with an army general. So our supply is short. But we have gold! Plenty of gold!”
+
+Grick stood there with almost folded arms (they couldn’t quite wrap all the way around the mask). “Show Grick.”
+
+The mustache-twirler placed three healing potions gently on the ground at Grick’s feet, then followed it up with a jangling leather pouch. “There are fifteen gold coins here. A v-very fair price for your mana c-crystals, s-sir.”
+
+Was he being honest about the fair price? Honestly, I had no idea one way or another, but the way I figured it, these two had been ripping Grick off for so long they probably owed him way more than just that.
+
+I sent the thought toward Grick. “It’s not enough.”
+
+“Not enough,” Grick repeated. “Grick wants more gold!”
+
+“B-But this is truly a good—”
+
+“Lily.”
+
+Lily leapt forward, snapping her jaws at his face but coming just short of biting him.
+
+“Ah! Okay, okay! M-More gold for the s-savy customer!”
+
+Mustache fumbled again, hands shaking so badly as he rummaged through his robes the pouch he produced slipped through his fingers and spilled open on the ground, sending gold coins scattering everywhere.
+
+“Ah! M-My apologies, Master Grick! Please let me s-secure your gold properly.” His shaking hands had a hard time of filtering the gold coins back into the bag but when he succeeded, he set it down with all the other offerings. “There, twenty more gold coins! All together that’s thirty five! More than double the going rate for the crystals you’ve provided!” He then bowed his head to the ground. “Th-That’s all we have readily accessible. I pray it satisfies you, Lord Grick.”
+
+From retarded goblin, to savy customer, to Master, to Lord. Little Grick’s really moving up in the world, huh?
+
+I had to hold myself back from grinning, because doing so might cause me to accidentally puncture this other quivering human’s neck.Grick tilted the mask up enough to get a better look at the offerings. He hmmm’d and huuu’d as he thought it over. Then he snapped the mask back into place and declared. “Not enough!”
+
+Oh, Grick! Now you’re just being evil!
+
+This time I couldn’t help the grin and the human under me let out a cry as my teeth jabbed him. He screamed to his partner, “Just give the damn goblin whatever he wants! For heaven’s sake!”
+
+Mustache flinched so hard his hat nearly slid off his head. “Yes! Yes! Of course! Forgive us, Lord Grick. We simply, ah, misjudged the… negotiations.”
+
+He scrambled back to the cart, yanking open compartment after compartment with none of his earlier flourish. Wood clattered, glass rattled, and he started yanking things out. “W-We are truly out of gold and I deeply apologize for coming so i-ill prepared! But p-perhaps we can find something else here that is to your liking? Oh great and powerful Lord Grick!”
+
+Mustache’s hands moved faster and faster as panic took over. He stopped trying to look dignified entirely, just tossing things down in a growing pile at Grick’s feet.
+
+A sheathed dagger, a stuffed toy, a spool of rope, a bottle of wine, a jewlery box that cracked open upon hitting the ground, revealing an assortment of rings and necklaces, and various other random things. When it seemed he had well and truly run out of anything valuable to add to the pile he prostrated himself before his offerings. “Please, take anything you w-wish! Oh, Lord Grick!”
+
+Grick made a show of it, humming and huffing, poking at items with one finger like a noble inspecting tribute. He held up the rope, letting it dangle, then dropped it. He picked up a jar of something, sniffed it, then tossed it over his shoulder in rejection.
+
+Then he pointed at the wine.
+
+“What is this?”
+
+Mustache blinked. “W-Wine. Cheap. It’s, ah, not very good. B-But i’ll be sure to carry the finest bottles of the eastern kingdom should we t-trade again upon—”
+
+Grick kicked the bottle away with his foot. “Grick no want bad human drink.”
+
+“P-Please, if there is anything else we can do for you! Just say it!”
+
+“Grick needs a bag.”
+
+“A-A bag?”
+
+“Grick accepts stupid human’s trade. Grick needs bag to carry lovelies.”
+
+“Y-Yes! Right away, Lord Grick! I have a fine, fine traveling bag that will do you well for your travels!”
+
+Finally, I let go of the other human who whimpered as he quickly crawled away. I prowled over to stand beside Grick as he watched Mustache fill the bag with all of his offerings.
+
+“It was an a-absolute pleasure doing business with you, L-Lord Grick.” Mustache bowed. His companion finally scrambled back to his feet and hurried over to the horse as well.
+
+Grick seemed quite satisfied as he worked on tying his mask to the outside of the bag. He was humming happily, no longer even sparing the humans an acknowledgement.
+
+Both merchants gave one last bow. “Well then, we will just be on our way!” They squeaked in unison.
+
+I barked at them, freezing them in place once again just before they were going to climb back onto their cart.
+
+“I-Is everything alright, Lord Grick?”
+
+Grick hummed, distractedly saying, “Grick doesn’t know. Ask puppy.”
+
+The merchants mirrored each other as they turned their gazes towards me and gulped in unison. I returned a wolfy smile.
+
+They may have been thieves, bullies, and cheats, but I wasn't sure they quite deserved a death sentence. Maybe I was just in a particularly good mood for some reason.
+
+However, there was the chance of them running back to that walled town and reporting us to some kind of hunting party. I had a feeling it wouldn't be as much trouble for us as the red masks, who were likely still days away from realizing their own hunting party had been eliminated, but still… it might be wise to at least slow them down, and that horse did look tasty.
+
+A couple Crippling Bites would do the trick for slowing these merchants to a crawl, and then me and Lily could enjoy a nice midday snack before hitting the road.\
+
+Read Next Chapter Now!

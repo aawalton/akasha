@@ -1,0 +1,321 @@
+---
+id: de8b091a-a29c-5670-9445-7b2eb178b97b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1"
+slug: 0001-chapter-1
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 1
+ownLength: 4023
+unit: words
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2703886/chapter-1"
+royalRoadId: "2703886"
+---
+
+Chapter 1
+
+A soft and warm breeze flowed over the cemetery, faintly rustling through the canopy of leaves above.
+
+Veron breathed in deep, keeping his eyes closed as he enjoyed the serene quiet of the summer afternoon. Everything had led him here.
+
+Performance reviews, deadlines followed by deadlines, meeting after meeting. It had been a long process. A lot of things he had to learn and a lot of things he had to unlearn. But finally, a few months back, he had to admit that he simply wasn't happy.
+
+Quitting was more difficult than he had thought. Harder in some ways than simply staying in the grind.
+
+And now he was here. Anaville, a quaint village in northern France. Population 860. Quite a difference to Paris, and while he had no idea how things would continue, he felt like he could finally breathe again.
+
+He had sold everything in his old apartment and moved into a local holiday inn surrounded by a scenic and quiet countryside. He took long walks through fields and forests, and he journaled. But the longer he stayed, the more he was starting to feel restless.
+
+“You remind me so much of Jean-Luc,” a familiar voice said.
+
+Veron glanced to his left and saw Charlotte standing close to the bench, her gaze focused on the old tombstones before them, many of them half sunken into the ground and covered with bits of moss. Her face showed the wrinkles of a long life, coupled with an easy smile despite everything she’d lived through. She wore black, as she always did when coming to the cemetery. And she hadn’t brought her walking aid, which meant today was a good day.
+
+“I do? Did he like to sit around in cemeteries too?” Veron said as he glanced at her.
+
+The wrinkles on her face shifted as she smiled and looked at him. “Maybe not. But he was often lost in thought, just like you.”
+
+Veron watched her for a moment before he turned his attention back to the countryside stretching beyond the graves.
+
+Charlotte sat down on the bench as well, the two of them sitting for a while in silence. They were in the shade of the leaves above, the wind flowing through the flowers and grass surrounding the tombstones.
+
+“Do you want to tell me about him?” Veron asked.
+
+Charlotte smiled, a joyous spark in her eyes as she glanced his way. “I do. He was just dashing, you know? The prettiest boy in the village, good taste in music, never complained about work and helped out everywhere he could. And he danced, oh how he knew how to dance. Do you dance as well? More men should dance, fewer now than back in my time.”
+
+“I do, though not as often now than I used to.” He felt a spark of sadness when he saw how Charlotte lit up, as if she’d heard his words for the first time. Maybe it felt like that to her. She remembered some things but others she didn't.
+
+And still he told her every time she asked, and he listened to her stories, even though he’d heard most of them already. He wondered what it was. Even though it sometimes made him sad, it was both comforting and sometimes even inspiring to hear her talk.
+
+It felt meaningful, to share those moments with her. Even though he knew she would forget them, and he would too at some point.
+
+Today she told the story where Benoit, one of their bulls broke through their fence and ran off into the woods. How both herself and Jean-Luc had been scared that he would get injured or hurt someone else. Only to find him in a meadow, sitting peacefully before they managed to get him back with the help of their dog.
+
+It wasn't the story itself that was gripping, especially now that Veron already knew what would happen, but it was the emotion that Charlotte showed and incorporated that made it fun to listen still. She laughed and shook her head at the memory.
+
+“So, what's on your mind?” she asked.
+
+She had asked that question quite a few times before. Sometimes his answer was the same, sometimes it was something new. He supposed it was one of the reasons why he enjoyed these conversations. They showed that while some things stayed the same, he was working through others, towards something. He just wasn't entirely sure what that something was.
+
+“I think I came here to get away. To take a break. And now I've done that.” He nodded to himself. “I guess I was looking for what was coming next.”
+
+He was quiet for a moment and thought about his words. Hadn't it always been like that? Always the next thing? The next problem to solve, the next skill to learn, the next deadline.
+
+He looked up at the moving leaves.
+
+The external pressures are gone, but I’m still thinking in the same way.
+
+“But now that I'm sitting here, Charlotte, I'm starting to wonder why I'm in such a rush.”
+
+He blinked his eyes, feeling his breathing slow. Then he smiled slightly.
+
+Veron was quiet for a moment, then glanced over at her. “I think I've learned something again. Thank you.”
+
+“I think that was all you, dear.”
+
+Some of it, sure.
+
+They sat for a while in silence, enjoying the quiet and the winds. He stood up some time later and rolled his shoulders, then his neck.
+
+“Leaving again? Do you have a destination in mind?”
+
+“Not exactly. I think I'll just walk,” he said and pointed in a direction where the sun fell nicely through the trees. “That way.”
+
+“I would join you, but you know my hip is not the same as it was.”
+
+“I know. But this is a good spot too.”
+
+“It is. Enjoy your walk, Veron,”
+
+“I will. It was good seeing you, Charlotte.”
+
+She smiled at him and then he let her be, strolling through the cemetery before he left past the rundown stone wall and onto the overgrown gravel path beyond.
+
+Looking up at the clouds, Veron stopped and consciously noticed how quiet it was. No cars, no trains, no shouting people, no conversations. Just the wind moving through the leaves. It felt nice, felt right.
+
+And then he kept on walking, past the old windmill at the edge of the village, the bright red color it once wore faded and splintering. There were fields of wheat beyond, green and going towards yellow as they grew with the sun, moving with the wind in flowing patterns. He kept on walking, past the well-kept paths and on to the dirt roads that led into the forest. Not the closest forest to the village but the one that felt the fullest.
+
+He stopped at a creek he knew flowed down into a pond, listening to the running water and the sounds of the forest. He felt like sitting down on the grass, and so he did, looking up at the canopy of leaves above, sunlight drifting in through the cracks. It smelled of earth and trees. He shifted to get a rock away from his back, breathing deep and wondering if he should take a nap.
+
+He wondered what his former coworkers and friends would have thought if they saw him here. The more he had started to question things, question his life and his choices, the more he felt alienated from them, the more he felt ostracized. At this point, he knew why, knew that by questioning his own decisions, he was challenging theirs as well. But at the time, he didn't understand, felt hurt and angry that they didn't try to see his points and how he felt.
+
+It was good, to leave it all behind but it had left him lonely too. Less so the personal relationships, as he realized that he cared more about Charlotte than he had cared about most of his coworkers. No, what he missed was belonging to something bigger. A community perhaps.
+
+But now he was here and while in some ways, it felt isolating, it also felt freeing. He could do whatever he wanted, could go wherever he desired, and he could make whatever decision that felt right.
+
+And right now at least, a nap in the grass felt pretty good.
+
+Before he dozed off, he saw something bright fluttering past above. Sitting up, he checked the branches before his eyes landed on a glowing bird. It looked like a sparrow made entirely of hazy golden light.
+
+What?
+
+That doesn't seem right.
+
+Veron rubbed his eyes but the bird was still there, now seeming as if it looked down towards him, its small eyes shining a little brighter than the rest of its body. For some reason, it looked expectant.
+
+What the hell is going on?
+
+“Hello,” he said.
+
+The bird didn’t move.
+
+“Do you want something? I don't know what a glowing bird eats. And I'm not entirely sure if I'm having a mental break or if I'm actually seeing you.”
+
+The bird didn't reply and instead jumped off the branch and flew to another tree a little farther back.
+
+Someone is playing a prank on me, right?
+
+Veron looked around but he was alone here in the forest.
+
+He jumped up and followed the bird. This was strange, and while he felt a bit of unease, he also wanted to find out what this was about.
+
+When he reached the tree where the bird was sitting on, he once again felt as if it was watching him. This time it sat lower, so Veron shook his arms to warm up a little before he started climbing the tree. An oak with plenty of branches to hold on to. He placed his feet with care until he reached the height of the bird, looking over at the little thing that now seemed to buzz ever so slightly, its form not quite even, shifting as if it was made of static.
+
+It hadn’t flown away, so it was certainly not behaving like normal birds would. But then, there was a lot that didn’t add up with this situation.
+
+Veron looked around, to spot a source for the strange light of the bird, but there was nothing. Just trees and foliage.
+
+Now, what exactly are you then?
+
+He held out his hand, making sure his balance was good before he gently touched the wood in front of the bird. He raised one finger and watched as the bird hopped closer and touched it with its beak.
+
+It felt like how he would imagine electricity would feel but without the shock. He would describe it as an almost liquid heat, weightless but with a presence nonetheless. He couldn’t help but enjoy the bizarre experience.
+
+The bird hopped onto his arm and then moved closer before it stopped on his shoulder.
+
+Veron heard the buzzing clearer now and he smelled the faint scent of iron.
+
+Unreal. Is this dangerous?
+
+“Hey there, little guy. What are you?” he asked.
+
+The bird jumped off again and landed on the forest floor, looking up at him.
+
+Veron followed, climbing down with fluid motions before he walked up to the bird with careful steps. He could tell it was watching him before it flew a few meters away. Again, he followed, and again the bird flew further.
+
+Now, should I really follow this strange creature through the forest?
+
+He waited, and the bird waited too.
+
+“You’re not leading me into a trap of some kind, are you?”
+
+The bird simply watched him.
+
+Veron looked back the way he’d come from. This forest wasn’t all that big.
+
+His curiosity won out.
+
+It led him through the undergrowth, past an outcrop of rocks he had to climb over, and finally to a broad pond.
+
+When he stepped out of the tree line, he saw the bird on the edge of a worn down wooden pier. One that had likely not been used in a long time. Beyond, the murky dark green water lay calm, some patches almost glittering with the sunlight. A bright blue dragonfly buzzed past.
+
+Veron focused on the bird. He had to be careful not to slip as he approached. Right before he reached it, the strange being flickered out into nothing.
+
+He looked around, but couldn't find it anymore. But when he looked into the water, he saw a faint glittering light.
+
+Hmm.
+
+He waited, maybe expecting something. But when nothing happened after a minute, then two, he relaxed slightly and wondered if it wanted him to dive in.
+
+On the one hand, it would be a pretty stupid way to walk into some fairy trap. But this is France. And there are no fairies.
+
+And yet there was a glowing bird right here.
+
+And if I ignore this and walk away, I just know it would bug me forever.
+
+He checked his phone, looked through his contacts, then settled on a manager he’d always liked. They weren’t friends exactly, him and Adrien but the man had always been reliable. “Long time no see. Hey, I quit a while ago. In a little village trying to figure out what I want and I just happened upon something strange. Probably nothing, but just in case, I’m sending you my location. If I don’t text again in a few hours, maybe get in touch with the local police. Hope things are well.” He sent it and then added a bit more. “Didn’t mean for this to sound so crazy. I’ll jump into a pond, that’s all. Maybe lunch at some point?”
+
+He sighed at how ridiculous he sounded, then focused.
+
+“Let’s do this then,” he murmured, feeling both embarrassed and excited at the same time.
+
+He took off his shoes, his shirt, and his pants, then looked at the murky water.
+
+If someone lured me here with some hologram thing I’ve not heard about, well, you got me.
+
+Then he jumped.
+
+The water was cold, Veron focusing as he swam deeper, trying to find the light he'd seen before. He could feel the pressure in his ears as he dived deeper. And then he saw it. An arched gate of golden light, at the bottom of the pond. It seemed to sizzle in the water, hazy just like the bird.
+
+He could feel his heart pounding in his chest. This wasn’t just some gimmick or a prank. It looked real, and felt real.
+
+It felt sobering, and intriguing.
+
+He could still hold his breath. What was this?
+
+A gate usually led somewhere.
+
+But why here? Why him? And what was on the other side?
+
+He was intrigued, yes, of course he was. But he also didn’t have a death wish.
+
+But why would someone go through all that trouble? The bird, leading me here, getting me to jump in. Was that a test?
+
+Had someone or something been watching him? Was it that? An invitation? Or a trap, knowing he might bite?
+
+If it’s some creature of myth or whatever and if they’d wanted to eat or kill me, there probably would’ve been less roundabout ways. Right?
+
+I won’t be able to hold my breath for much longer.
+
+A gate leads somewhere. The bird led me here. It’s asking me to go in and find out what this is about.
+
+Do I want to risk it?
+
+He blinked his eyes, and found that yes, he wanted to. All of it was so bizarre, it would bug him a lifetime if he didn’t find out more. Before his fear could convince him otherwise, he pushed on and swam straight into the gate.
+
+And a moment later, the water pressure was gone, and he was enveloped in golden light. He heard the sound it made, the buzzing gone and replaced with the faint sound of something flowing. He saw how the light moved onto his skin, like fluid electricity. It was bright all around him, but not blinding. Soothing in some way but also strange and alien, not the light of candles or any lamps he knew. It looked and felt, almost alive.
+
+He started reaching out towards it, when a moment later, the light was gone, and he landed on something soft. Softer than sand. Around him, everything was grey. An impenetrable mist, the smell of iron in the air. It was colder than back home but not cold enough to make him shiver. His shorts were still soaking wet.
+
+Holy shit! It took me somewhere else.
+
+It actually took me somewhere else. What is going on? What the hell did I stumble into?
+
+His heart was pounding and he slowed his breathing, trying to calm himself down.
+
+Was that magic? Some kind of teleportation?
+
+His surroundings, he found, weren’t entirely dark, but not particularly bright either, nor could he find a source of light in all the mist. His thoughts were all over the place, so he focused on what he saw and felt instead.
+
+Where exactly did this golden door take me?
+
+Wherever he was, he could breathe the air at least. Looking down now, he saw grey.
+
+Ash? Dust? Or fine sand?
+
+He was about to reach down when a distant sound made him freeze in place. A guttural and primal sound, monstrous. Not something that a human would make. He narrowed his eyes, heart pounding faster in his chest. He was scared, but he had chosen to follow the bird, now what?
+
+There was no way back, the gate was gone. And there was some kind of wild animal nearby. He had to get to safety, and find out where he was.
+
+Hide, fight, or run. He saw nothing to hide behind, and he had no clue if this being, if it was a being, could locate him in any way. In no way did he assume that whatever had made that sound was amicable. It didn’t feel right. Another sound came from his right. Far closer. Not a screech but something more akin to a clicking noise. Veron made the decision to start walking slowly to his left and away from the second noise when another golden door fizzled into existence before him.
+
+Without a moment’s hesitation, he rushed into it, his feet sliding in the sand. Right before he reached the gate, he heard a sliding noise from behind him, and a deep, rolling growl.
+
+Golden light enveloped him.
+
+This time, it lasted longer, felt more intense, more present. He woke, or it felt as if he woke. His eyes adjusted, the floor was cold, his back was cold. He breathed fast, checking behind him for the creatures he had heard but there was nothing here. He’d arrived in a different place again. He breathed out with some relief. It seemed at least that he was safe here for the time being.
+
+What did I get myself into?
+
+He was leaning against something. Metal. Gold. There was a lot of golden looking metal all around. His shorts were gone, he noticed. And he was no longer wet.
+
+I’m definitely teleporting around somehow. That already opens up so many questions, and concerns.
+
+He didn't let his thoughts spiral. He didn’t know anything about his situation, so he focused on what he saw instead.
+
+He checked behind himself but found only metal. Before him, he could see murky glass. He was inside of a small, contained space. A tube of sorts. Looking closer, he saw lines and lines of strange letters etched into the metal. Letters he did not know.
+
+What is all this?
+
+Not now.
+
+Let's try and get out of this place first. Pushing his arms both against the back wall of the space and against the murky glass, he pushed, and breathed out when the glass side gave way, slowly sliding up until he could crouch and get out of his newfound confinement.
+
+He found the ground covered in the same golden metal. Around him stretched a spacious square shaped room. The walls were made of different metals, rust having taken over a large part of it all. What looked like dark blue roots were pushing in through cracks in the mostly golden ceiling. There were no windows that he could see, but warm near golden light came from lanterns affixed to the walls. The glow had the same strange quality that he couldn’t quite place.
+
+Near the center of the room was a large wooden table. The kind you didn’t want to ever move, each leg thick and adorned with delicate carvings. The chairs were just as ornately decorated. Covering much of the metal floor was a large dark red carpet.
+
+Fancy. And ominous.
+
+His attention shifted when he saw movement from one of the corners of the room. He saw that a few of the lanterns were off, off or broken. From the dark corner stepped a slightly hunched humanoid figure. Its body was covered in armor, most of it a silvery hue, though rust had taken over here and there. The figure had four arms, a long cape, faded, perhaps once white, hung from its back. Its face was covered in a mask of silver, though rust and wear, it seemed, had taken parts of it, revealing not a face below but metal wiring. A triangular shape of silver extended up and away from the back side of its head, perhaps an ornament of sorts.
+
+Its eyes were black metal except for small white lights at their center, all of it part of the mask-like face more so than covered by it. There were slight arches in the metal mask where it wasn’t damaged by rust and showing wires, perhaps once convincingly suggesting cheek bones and a nose. A tiny slit was visible where a mouth would be.
+
+It walked with a limp, a metal cane in one of its hands as it supported itself. It glanced at Veron, walking a few more steps until it was illuminated in the warm glow of the lanterns. One of its two legs was near entirely eaten through by rust.
+
+Not armor, Veron thought. A robot? Or a machine of sorts. What is this place?
+
+“Welcome, Veron,” the being spoke in perfect French. “I have called you here to offer you an adventure.” The voice was deep but sounded in no way artificial to Veron. The being walked to the table and moved one of the chairs, then sat down with a careful motion, making sure not to hit its damaged leg on the table. It sat back and sighed, then gestured to the other chair.
+
+An adventure?
+
+That’s what this is about?
+
+“My clothes have gone missing,” Veron deadpanned. “I don’t suppose that’s an issue?”
+
+The being chuckled. “If you are not bothered by your own nakedness, then we shall proceed without clothing. I suppose it is only fair, seeing my own fading coverings.”
+
+Veron couldn’t help but laugh at the strange situation, then he refocused and sat down on the other chair. He felt nervous, though surprisingly not afraid. He wanted to know what this was about. Maybe it had been the sparrow, or the demeanor of this strange being, but he didn’t feel in danger, not anymore. “So, it's you who showed me that bird and led me to the gate then.”
+
+The being leaned back slightly, simply looking at him with its small white eyes.
+
+“And you want me to go on an adventure?”
+
+“Yes.”
+
+“Can you elaborate?”
+
+“An adventure in a world of magic and monsters, steel and fire, ruins and long forgotten fates,” the being said and leaned forward ever so slightly. “If you are willing.”
+
+Magic and monsters, ruins and long forgotten fates.
+
+Yeah.
+
+He thought about it for a long moment. Was this what he’d been looking for?
+
+Not exactly.
+
+But he hadn’t known it was an option in the first place. And now that he was here, he couldn’t help but feel intrigued.
+
+A magical adventure.
+
+He looked at the strange being and nodded slowly. “Can I ask some questions?”

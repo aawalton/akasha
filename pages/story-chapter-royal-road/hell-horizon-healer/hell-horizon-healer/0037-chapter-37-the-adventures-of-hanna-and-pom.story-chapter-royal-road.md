@@ -1,0 +1,145 @@
+---
+id: 1947ed0d-5bdf-5284-9b3c-29d1dfa3fe71
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37 - The Adventures of Hanna and Pom"
+slug: 0037-chapter-37-the-adventures-of-hanna-and-pom
+partOf: hell-horizon-healer
+position: 37
+ownLength: 1411
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3783481/chapter-37-the-adventures-of-hanna-and-pom"
+royalRoadId: "3783481"
+---
+
+20 minutes earlier.
+
+“Are you sure about this Pom?” Hanna crept through the doorway leading into Floor 9.
+
+She swept her vision from the long, swaying bridge, to the darkness, then back to the bridge. She gulped and hugged Pom closer to her chest.
+
+“Of course I’m sure!” Pom bounced up and down in her arms. “Those pesky humans want to hold you back because of your tiny form?” Her little bear scoffed. “I won’t let my master be underestimated. And certainly not by weaklings who haven’t even bothered to master their first Skills.”
+
+Hanna stepped closer to the edge. A chill crept up her spine as she stared down into the darkness below.
+
+She gulped again and quickly stepped back.
+
+Pom purred. “Though there is that other human. What was his name?”
+
+Hanna perked up. “Jake?”
+
+“Jake.” He nodded. “I could see it in his eyes,” Pom said. “The willingness to do what it takes to go far in this world, and—” He paused. “You should stay away from him.”
+
+Hanna looked down, meeting Pom’s orange eyes. “Why?”
+
+“Because he is dangerous.”
+
+“Dangerous? He helped me when no one else would,” She shuffled closer to the bridge now, gingerly stretching her big toe to the first plank of wood. “I mean yeah, some people say he’s scary. That he’s a meanie. But I don’t think so at all! I think he’s trying to make our home a little less scarier than it was yesterday.”
+
+“There is something wrong with his fate, Hanna.”
+
+“Fate? What’s that?”
+
+Pom sighed. “Every life has a line. Along that line, there will be events that you can not evade no matter how hard you try. Everyone has events that are absolute. Life. And Death. For others, death will be placed at a certain point on that line, and there is little you can do to stop it. You can not cut the string. There is no path to get around the string. There is only death.”
+
+Hanna took a deep, brave breath, then placed the ball of her foot on the bridge. Then her arch. Then she set her entire foot onto the first plank, stood straight, and smiled victoriously.
+
+Then, her arms dropped to her sides. She lowered her head, her pigtails falling forward to hide her face.
+
+“Like...” her voice turned tiny, cracking around the edges. “Like what happened to mummy and daddy?”
+
+The festive atmosphere vanished. Pom went entirely rigid at her feet. For all his grand talk of cosmic supremacy and burning suns, the primordial entity looked down at his own stubby, velvet paws and realized he had absolutely no protocol for a crying seven-year-old.
+
+“Uh,” Pom stammered, his stitched ears twitching in a panic. “Master? Do not… cry. It is highly inefficient.”
+
+Hanna didn’t answer, her small shoulders giving a quiet, trembling hitch.
+
+Frantic, Pom waddled forward and leaned his entire plush torso against her sneaker, attempting a hug but mostly just looking like a fallen pillow. He forced a low, rumbling purr from his stuffing, the velvet on his chest warming up like a hot water bottle. “Cease the sorrow, child! Your creators merely struck an absolute knot. But you have summoned me. I shall construct a fortress of ash and cinders around you, and no further knots shall dare cross your path. Now... look upon my majestic form and be comforted.”
+
+Hanna sniffled, wiping her nose on her oversized sleeve. She looked down at the stubby bear face-planting against her shoe, his tiny legs kicking slightly for balance. A small, watery giggle escaped her.
+
+She picked him up, squeezing him tightly against her cheek. “Thanks, Pom. You’re a good bear.”
+
+“I am a lord of destruction!” Pom squeaked, his voice muffled by her face. “Not a bear!”
+
+Hanna set him back down on the plank, the sadness completely gone as she put her hands on her hips. “So, why is the big grouch Jake so dangerous then?”
+
+“Because,” Pom said, dusting off his velvet stomach with a paw, “I can smell death, and his stench is all over the place.”
+
+Hanna gasped, her eyes going as wide as dinner plates as she backed up a step. “Because he is death?! Like the grim reaper with the big sharp stick?!”
+
+“What?” Pom struggled free, dropping onto the bridge. A puff of smoke left his nostrils. “No. Because I can smell death, and his stench is all over the place. It is not set in stone like others are.”
+
+“So… Wouldn’t it be smart to stay next to him because even fate doesn’t know when he will die?”
+
+“You… I—” Pom rolled his eyes. “I’m not arguing with a child.”
+
+Hanna put her fists on her hips and scrunched up her nose. She booped Pom’s snout. “Bad Pom. I’m not a child. You said it yourself—” she raised her head, mimicking her bear when he first awakened. She raised her voice, “YOU HAVE SUMMONED GODRIK, HE WHO BREATHS DESTRUCTION. DEVIL OF THE—”
+
+“Okay!” Pom bristled. “Sorry, master.” More smoke left his nostrils in agitated plumes. “Anyway,” he said, putting back on the display of an ancient sage as he confidently took three steps onto the bridge. “It’s exactly because his fate is unpredictable that we must remain vigilant when he is within range. There is no knowing what will happen to those with bastardised fate. They are the scariest of all.”
+
+“Even scary for you?”
+
+“It is not fear I feel, child, but control. Before your… Trait sucked me through the cosmos and into your… bear, I was but a wandering primordial with no control. Fate. Fate decided I was to be here with you.”
+
+“So… Fate isn’t a bad thing?”
+
+“It can be both.”
+
+“Good fate. Bad fate. Those are optimal, because they are known. It is those with fractured fate, the unpredictableness of it—monsters appearing out of nowhere, stumbling upon nightmares—in other words, luck. Or in his case, the lack of it.”
+
+“Right,” she said, taking another step. “But I don’t care about all of that stuff. I like Jake.”
+
+“Then we must be strong enough to face whatever comes next,” Pom said, then stopped. He sniffed. “Danger. We must go round it.”
+
+Hanna nodded seriously.
+
+All of a sudden, Pom grew taller until he was six feet tall and thick as a car. Hanna giggled and latched on his fur, rubbing her face in it. So soft! She climbed up to his back.
+
+“Hold on tight, master.”
+
+“Jump!”
+
+“A cosmic being,” Pom grumbled, his voice barely a whisper. “a primordial. Reduced to a girl’s mount.”
+
+“What did you say?”
+
+“Nothing.”
+
+Pom leaped down. Hanna squealed in excitement, one arm raised in the air like she was on a roller-coaster. They landed with a grace that betrayed Pom’s massive size, then leapt down onto another, before jumping again.
+
+In seconds, they were nowhere near the beginning bridge.
+
+She heard murmurs from somewhere behind. Were they human? She sure hoped so.
+
+“Humans,” Pom confirmed her suspicions.
+
+“Jake?”
+
+“Doesn’t smell like him,” he said. “We better hurry.”
+
+They reached the end of the line.
+
+The concrete platform was completely deserted, choked with dust and the heavy scent of ozone. Embedded in the center of the masonry was a heavy fire door, its surface shimmering with a dense, hyper-concentrated layer of blue static.
+
+“It’s a door,” Hanna said, sliding down Pom’s flank as his mass rapidly shrunk back down into a stubby, handheld toy. She picked him up by his fabric arm, letting him dangle securely by her side. “It feels weird.”
+
+“We are here,” Pom whispered, his button eyes locking onto the glowing threshold.
+
+“What’s inside?”
+
+“Opportunity.”
+
+Hanna stared at the shimmering blue barrier. The light reflected in her wide, red-rimmed eyes, erasing the childish innocence from her face for a single, fleeting second.
+
+“This is how I become stronger?”
+
+“Yes.”
+
+“This is how I make the bad monsters pay for hurting mummy and daddy?”
+
+“Yes.”
+
+Hanna squeezed Pom’s hand, her small fingers locking onto the velvet paw with a sudden, unnatural tightness. She didn't look back at the stairs. She didn't look back at the world she had lost. She reached out her small, soot-stained hand and pushed the door wide open, letting the sickly green light of the tenth floor wash over her face.
+
+“Pom,” she said, her voice dropping all of its playground cheer, ringing with a cold, absolute certainty. “I want to be strong like Jake.”

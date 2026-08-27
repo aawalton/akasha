@@ -1,0 +1,127 @@
+---
+id: 9c53d380-ccac-56a3-a523-eb5b79e79c9e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 846 - Blood on the Mandibles"
+slug: 0173-chapter-846-blood-on-the-mandibles
+partOf: hell-difficulty-tutorial
+position: 173
+ownLength: 2528
+unit: words
+publishedAt: 2026-07-26
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3729965/chapter-846-blood-on-the-mandibles"
+royalRoadId: "3729965"
+---
+
+Those sharp, black mandibles close around my neck as Diligence lifts me into the air, and there’s no question in my mind that he could cut through my throat as if it were nothing. A part of me wonders if I could survive it. I could probably program a bit of my mana to reach toward my head as it gets severed, with another trigger to activate one of Lily’s healing marks. That could work.
+
+Weslin, may the long-dead gods bless him, even rushes closer, slamming his hand into Diligence’s side with all his strength, but the resulting burst of void energy goes nowhere. Morwag is moving his binding energy and rearing up to join the fray, hell, even Savant is pulling his Sword of Aeons, and Brichant is preparing to betray his Colony leader.
+
+All of them find themselves unable to move as the Ruler releases the tiniest bit of his true presence. Though this is just an avatar, a projection, a vessel, or a clone, that power is terrifying. A use of telekinesis then takes hold, pinning everyone in place.
+
+“Maybe I should just destroy you this time,” the black ant says to me. “I am at the point where I’m starting to wonder if bearing the backlash for killing an attendee would really be worse than whatever mess you’re going to make in the future.”
+
+The black mandibles move, cutting into my skin slightly and drawing a bit of blood from my neck. In his large compound eyes, I see hundreds of my reflections. Focusing on specific ones, I can clearly see my blank face as well as a few new scars. One near my ear, and another shorter one, sits at the corner of my lips. There are several more scarring the arm I used to craft that ridiculous dagger Lissandra now carries.
+
+All of them refuse to heal, having formed when I started gathering black mana after the training. It’s just another manifestation of the toll my training took on me, along with all that quick skill levelling. And I’m confident there will be more of them. Still, I’m happy I have a bit of hair on my head, thanks to my healing passive and some help from one of Lily’s healing marks.
+
+Unlike the boys, I endure the Ruler’s presence much better, and my hundreds of reflections smile tiredly.
+
+“Dili, look, I’m tired,” I say. “Never in my life have I been so tired as I am now, but I have a feeling that if I close my eyes to rest, my mind will just burst out in all directions and I won’t be able to gather it back together.”
+
+I reach up with one of my hands and touch the drop of blood on my neck, then the mandible. “Honestly, I feel like laughing manically, I feel like crying, and I feel like maybe I should just curl up and die. You know very well I won’t be able to stop you if you decide to kill me, so what’s making you hesitate?” I ask him curiously.
+
+Instead of answering, the Ruler of Diligence just stares back at me.
+
+The tense moment stretches for four more seconds, but I hardly find the energy to care.
+
+And when I’m finally let go, I don’t even feel relief. Logically, I decide to keep the wound on my neck and not heal it, even stalling my natural regeneration. Against the rules loving Diligence, it should help me with negotiations as a clear reminder of his lack of control.
+
+This time, Ruby doesn’t tease the black ant, and she didn’t even try to stop him before. I mostly believe that if I were in true danger, she would interfere, but who knows?
+
+“Explorer Rankings of Beyond reset once every thousand years,” the black ant begins to talk in that way he always does, without a mouth, yet with a voice sounding as if it’s coming directly from him. “Such a long duration doesn’t allow the system to give rewards after the reset, as a high number of attendees would die long before receiving them, but it can do so based on the deepest First Dungeon floor reached. I don’t worry about the system taking it into consideration when you get a trait or Primary class, as those subsystems are more difficult to confuse. The problem is that at the end of the tutorial, you can receive additional rewards based on your Beyond performance.”
+
+As he stops talking, his words begin to sink in, and I start to understand his worry, and he continues. “People serving as Handlers in Beyond also have an opportunity to enter the First Dungeon, and at the end of their role as they are leaving Beyond, they receive additional rewards based on the performance of their wards, in addition to their own performance in the First Dungeon. There are Absolutes that never managed to reach the floor you currently have in the rankings.”
+
+“Won’t the Beyond system just consider their performance, recognise what happened, and refrain from giving too good of a reward?” Ruby asks him from behind her table.
+
+“It is possible, but it is also possible that it will take their level and the short amount of time since they awakened to the system into consideration and greatly increase the rewards. You know very well that the Beyond subsystem isn’t perfectly connected to the main system, and that because of its structure and the closeness of the First Dungeon, it doesn’t share system calculations very well,” Diligence answers.
+
+“Look, these rewards won’t be an issue until after our tutorials are over, right? Or just as they end. Can’t you just say it’s not your problem anymore at that point?” I suggest.
+
+As the ant turns to me, it becomes obvious that he cannot or really does not want to. I’m no expert on ant expressions, but this much is clear.
+
+Staring at me, he speaks again. “Then there’s the fact that you aided the imitation, and together you made that ridiculous dagger. Another problem is what the imitation has done to that lynthari, and furthermore, there’s what she has done to the replica of the Sword of Aeons.” Diligence twitches and moves quickly in front of me in a way that turns his chitin legs into a blur.
+
+His mandibles are once again dangerously close, as I hear, “There is the matter of Nyssa Volare, too. Because of you and the others here, she has left the sixth floor, where I thought she would spend the rest of her tutorial without making a mess. If you ever wonder, know that it was Kindness who told her where you and your friends might be.”
+
+Confused, I look at Ruby. “What do I have to do with it?”
+
+“She just killed the Dhampir. So Dili is a bit annoyed,” the red-haired woman smiles and waves her hand, finally releasing the boys.
+
+"Being in charge of a Beyond cycle is supposed to be a secondary responsibility. There are rules in place to make everything simple and ensure that things run smoothly, and yet this cycle is anything but," Diligence complains, moving away from me again. "The Absolute’s imitation cut the lynthari’s connection to the tutorial, so she is now being fully treated as an Earth attendee. The system obviously reacted and made it impossible for it to happen again, so the imitation could not do the same for herself, and she is still tied to the tutorial such that she cannot leave. Yet, I have no illusions that she intends to remain in her cage. I haven't fully seen through her and the One Winged’s preparations yet, but I’m starting to get an idea, and I’m seriously thinking of arming Wrath and sending him to face them."
+
+Ruby seems intrigued by this. Leaning back in the chair behind her old wooden table, she asks. "Do you think he would be enough?"
+
+"Likely, especially if I were to give him Materia Armor. The problem remains that the 12th floor is spatially locked. Without the Main Defensive Array, it will be difficult to get there, especially without your help, but you, for some incomprehensible reason, refuse to assist, even though you seem to dislike the idea of this imitation of your master walking free."
+
+"What can I say? Women are mysterious creatures. Am I right, boys?"
+
+As she turns to them, Brichant nods quickly with a big smile. Weslin nods only once she meets his eyes, and Savant follows suit. Meanwhile, Morwag smiles at her and doesn't react at all.
+
+Before the demon can become a splat against the floor, I interject. "That’s beyond our control as mere attendees, isn't it? I think we should be sent away so you guys can think it over and decide. As for me, I refuse any change to my rewards. I've decided that I will gamble. Either the system will recognize me as a fraud, and I’ll receive no rewards for being on the 12th floor in the Explorer Rankings, or I’ll hit it big."
+
+"Maybe we should just let them be, Diligence. It’s as he said, he’ll receive the reward as the tutorial ends, so it’s not our problem. Meanwhile, we can start working on a fix, or hell, we can vote on the full integration of the Beyond subsystem into the main system if you really want to," Ruby says.
+
+I hadn't even noticed it until now, but Morwag is already lying face down on the floor with his arms and legs spread wide, seemingly unable to move at all as something heavy presses him down.
+
+"So, where is Myrra? And Zant?" I ask.
+
+I get no answer. Both of the Rulers ignore me, seemingly having a conversation in their own thought accelerated space.
+
+It must be a long one, as nearly two seconds pass before they seem to finish.
+
+Diligence looks my way one more time and apologizes to the others for holding them so rudely and excluding them from the conversation. Then, he leaves us alone with Ruby.
+
+Morwag continues to lie on the ground as she steps away from her table and walks over him, stepping on his back as she goes. Something cracks, but no one says anything. Smiling, she stops in front of Savant, who looks at her with confusion, especially as she now stands holding the Sword of Aeons that should be in his hand.
+
+Looking at the blade of the beautiful sword, a replica of the greatest mana battery in all of Eladore, she flicks the metal with her nail. It lets out a clear, ringing tone. She observes it for a while longer with longing apparent on her face before handing it back to Savant. As if nothing happened, she passes by him and stops in front of me.
+
+For a few moments, I return her gaze until she puts both of her hands on the sides of my face, holding me there to keep our eyes locked.
+
+Ruby leans closer until our noses are almost touching and whispers, "There are many people taking interest in you, they want to take you, place their marks on you, and imprint themselves as a deep memory on your path. But more than anything, it just makes me greedier."
+
+She isn’t smiling at all, and her yellow eyes glow with a deep, fierce intensity.
+
+"I didn't take you for the jealous type," I say, with a smile, just as she begins to shake my head.
+
+When she lets go of me and begins to walk back toward her table, stepping on Morwag again as she does, she speaks louder, addressing everyone else as well. "I hate to disappoint you, but it seems that there will be no negotiations today. You can blame Diligence for summoning you here over nothing. Please forgive him, though, he has had a rough time lately with a dragon settling near his territory and a great deal of trouble with the corporations."
+
+Once seated, she waves her hand. I feel a sudden pull on my body as she calls out her goodbyes. "I dislike people who spread information that could identify me as Nathaniel’s handler, so keep that in mind, boys. And be careful with our dear, cute Nyssa. She seems to be really fired up, and Kindness gave her the coordinates of the location you’re most likely to appear."
+
+In the next moment, we manifest on what I assume is the surface of Beyond. Morwag shouts something about a wench as I look around.
+
+As I remember from my first visit, the place looks unassuming and normal. I can’t quite tell what provides the light here; the sun’s rays pierce through the clouds and patches of blue sky, making the surrounding area feel ordinary. There is grass, hills, rocks, and even some smaller trees.
+
+The biggest difference is the pull I feel on my mana, currently attempting to drag it beneath my feet and much lower into the First Dungeon. The gravity also feels heavier than when I first arrived, seemingly growing stronger the more mana I leak.
+
+I take a moment to examine this interesting concept, and we rest for a few hours without being interrupted by any monsters, when a burst of kinetic energy finally explodes in the distance. The force is immense enough to make even Morwag shut up, as betrayer of the Colony Brichant, Weslin, and Savant all turn their attention toward it.
+
+The technique is rough, but the power behind it is staggering. Every beat of her heart generates a gargantuan amount of kinetic energy, which she directs like the stream of a jet engine. Her movements are uneven, but each burst carries her a huge distance, perfectly synced with her heartbeat.
+
+She flies high in the air past us and slings around with incredible speed, entirely ignoring the crushing G-force such a turn creates, before crashing into the ground like a meteor. The impact sends up a massive explosion of rock, dirt, and grass.
+
+I hear a soft cough, and Nyssa steps out of the dust cloud, waving her hand to clear the air in front of her.
+
+The state of her clothes puts me on high alert. She isn’t wearing a jacket, just a pale blue tank top, and her white pants are rolled up over her knees. She isn't even wearing boots.
+
+"Nyssa," I say, my voice weary yet steady and confident. "I haven't gotten used to all the changes yet. I don't want to kill you by mistake."
+
+Her pale red eyes seem even lighter than before. Her pale skin, white eyelashes, and short, uneven white horns contrast sharply with the black hair she has combed and tied back.
+
+"I don't intend to kill any of you either, but if you continue to look down on me, you will die," Nyssa says.
+
+Her voice is calm, making it clear she has come to challenge all of us at once.
+
+No one has the chance to complain.
+
+The light falling from the sky intensifies, melting the ground as she turns it into her weapon. Then, she charges.

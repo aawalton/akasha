@@ -1,0 +1,155 @@
+---
+id: cc7db1f2-9ce3-52d3-b58f-1fda58a74ac6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 736 -  When the time comes"
+slug: 0061-chapter-736-when-the-time-comes
+partOf: hell-difficulty-tutorial
+position: 61
+ownLength: 2379
+unit: words
+publishedAt: 2026-01-25
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2978963/chapter-736-when-the-time-comes"
+royalRoadId: "2978963"
+---
+
+It takes a few days, but while I’m stuck dealing with the damn wound, I also take care of some other things. I find out it really is possible to rent out a residence, and get a surprisingly high price too. I do so through the Japanese salary woman look-alike realtor.
+
+Of course, she gets a cut, but this way I don’t have to deal with people, and I would rather not think about what the residence is going to be used for. I just really don’t want to know.
+
+For now, I rent the place for three months, and I’ll figure out what to do later. I also go through the items we looted from the hideout, picking a few to disassemble, a few to sell, and I tell the guild to keep the low pristine armor for me to examine, as is my right per our deal.
+
+Overall, not a bad haul. But I push further and give the guild some items I looted from the Ancient Armory, combined with a few of my own, so they can sell them all at auction. Of course, they get a cut as well, but I’ve gotten used to people stealing from me. That’s just the price I pay for my laziness and for my mind being calm as a lake every time I avoid having to deal with people.
+
+I expect a few million shards to be added to my account before the tournament. The combination of auction earnings, rewards, rent, and my increased guild salary should account for that. One of these days, I need to sit down and seriously think about what to do with all of it, and whether I really want to save for a low pristine passive, with the cheapest one sitting at around twenty million shards. But with my current almost seven… well, damn.
+
+I glance at the scorched wound along my side and sigh. I put on a new bandage so I don’t bleed everywhere, then put on my clothes. A simple white shirt from Earth that I bought from Gloria. Its print says zero, under it shows a picture of a fox, and below it says given. A lovely design.
+
+I exit my room in the guild headquarters and head toward the location written on the note I received not so long ago, signed by someone calling themselves Mountain Man. It leads me to a small restaurant terrace. It is afternoon, but the place is mostly empty. Christoph sits there, sipping what looks like wine and staring out over the Megacity.
+
+Without asking, I take a nearby chair, pull it close, and sit down.
+
+“You seem to have had trouble with Lyraen,” he says with a smile while gesturing at my side.
+
+This man, over seventy now, looks even younger than before, somewhere around forty five, as well kept as ever. And behind him floats that invisible half-figure, its hands on his shoulders. One thing is different, though. It is not pale blue anymore, like it was before, but the same pale red as the Wraith in the Ancient Armory was. But it is also just as hard to notice as before. I bet even some of the S ranks would have trouble seeing it, though some mana-specialized A ranks might.
+
+“Nothing serious, the man has it rough. Having thirty or so wives out of the tutorial, so I understand why he might snap easily.” I say.
+
+Christoph laughs out loud at that and raises his glass high. “Well then, to our poor little friend who has it harder than any of us can imagine.” He takes a long sip, then looks back at me. “But really, thirty?”
+
+“Maybe even more,” I say and thank the server for the glass they’ve brought me, as I pour myself some of Christoph’s wine.
+
+I am about to drink too, but he coughs, making me pause. In his outstretched arm, he holds his glass, waiting for me to clink it against his.
+
+With a shrug, I do it while he asks me, “Do you want me to remove that anti healing effect he left on your body?”
+
+“You can do that?”
+
+He snickers, “I think I might be capable of something like that.”
+
+“Why not then,” I say.
+
+The pale red figure behind him rises, growing a little and stretching one of its arms toward me to touch the wound. I feel a burning sensation for a few seconds and try to observe the process, though not very successfully. Then the pale red arm withdraws, and the figure shrinks, standing where it stood before.
+
+I let thermal energy combust under my skin once more, and this time the wound starts closing almost immediately, even the smaller burns disappearing all at once.
+
+“So, how’d you do it?” I ask.
+
+Christoph looks back at me, “Oh, that? The Wraith I have with me now can handle things like that. So I relied on him.”
+
+“Are you too lazy to do it on your own, or is it that you can’t?”
+
+That amused expression appears on his face, and he playfully raises his glass. “That is something you’ll have to figure out yourself.”
+
+I snort and take a sip as well. I decide to hold back the many questions I have and sit there quietly, replaying the way he removed the anti healing effect. Well, the little bit I was able to observe, so not much.
+
+“I have heard a lot about you and Victoria lately,” he says.
+
+“Anything interesting?”
+
+“People noticed she has a skill not unlike that of the last Elf, and they took note of your black mana, that is what you call it, right?”
+
+“What do you mean, what do I call it? That is its name. Do you expect trouble for us? If so, just give me the address of the people looking try something.”
+
+“Oh, there will always be trouble, so you might as well get used to it. Though not so long ago, I dealt with a group of people I met who wanted to cause problems for you two.”
+
+I try to observe his heartbeat or muscle twitches, but he notices right away, which only seems to amuse him more.
+
+“And you did that because…?” I ask.
+
+He sets his glass on the table and looks at the liquid spiraling under his mana. “You might still doubt me, but I am very fond of you, Gwyn siblings. In a way, you remind me of my children, though I think it is safe to say they would never have done as well as you two have in the tutorial.” Something in his words feels off for the shortest moment.
+
+He looks back at me, as if answering the feeling I had. “Maybe I am just a silly old man, or maybe I simply wish my children were more like you two, even though as a parent I probably shouldn’t be saying such things.”
+
+“You’ll have to tell me what you find so great about the two of us.”
+
+“I think you know,” he says and stands, as if ready to leave.
+
+“Not going to tell me what you called me here for?” I ask.
+
+He pauses for a moment, studying me with a quiet sort of curiosity, “I just wanted to talk with you. If you want, take it as my whim to talk with you that ended up dragging you out of your room.”
+
+“Well, I’m the sort of person who understands doing something on a whim. But thank you for the warning and for healing the wound.”
+
+"You are welcome, Nathaniel. I also want to tell you that if you ever want support, I can help you understand your constructs and the troubles you’re having with them. I’m confident I can help you grow stronger as well. As full of myself as I might seem, I know there is a great deal I can do for you."
+
+“It sounds like there’s a but,” I say, leaning back as I watch him stand there.
+
+Christoph nods, his expression turning serious. His voice takes on a tone like he is giving a vow with the system as witness. “I want to protect Earth as its Absolute, and I am certain I can. I ask you and Victoria to stand beside me as my Champions when the time comes, not as servants but as allies who understand the cost of power."
+
+His words ring through the silence. That serious look remains as he puts his jacket back on and adds only, “Please think about it. There’s no need to hurry.”
+
+With those words, he leaves, and I’m left there deep in thought.
+
+Accept him as Absolute… that didn’t come out of nowhere. There’s intent behind it. I feel that accepting him as someone above me would weaken my pride if I ever had to face him. A kind of acceptance of him as my better, that would make it difficult to change my mind later, because I would have already placed him over me, and thus affect my pride.
+
+The question is whether he’s doing this because he needs a failsafe before deciding to help me, something to make sure I don’t turn against him. Maybe it is something normal among Absolutes and Champions, and even expected.
+
+I take another sip of wine.
+
+Maybe it is a mix of all of that, or maybe it is none of it.
+
+Or maybe I am reading too much into it. I probably am. Christoph is currently stronger than me, and his defenses are insane, to be honest. I saw him endure Lyraen’s lightning during the Armory event, and he handled it many more times than I did.
+
+When I finish my drink, I stand up and walk back toward the guild branch, passing smaller shops. I even visit a few, checking the items they have on offer and buying a few interesting trinkets and tons of food in preparation for my not so distant return to the best doggo of the ninth floor. The true future Absolute, not that hack Christoph.
+
+When I reach the guild branch, I learn something new almost immediately.
+
+Just a few hours ago, a man named Christoph killed two S ranks and stormed into the headquarters of one of the top ten guilds, where he wiped out its leadership and their A rank elites.
+
+The next day, I meet Ruby, or more accurately, she grabs me while I’m walking through the city and drags me onto a bench nearby. After a short conversation, I accept one of the S rank quests she now has the right to assign to me, even though I am only A rank.
+
+The quest has been specifically chosen by her for me, matching my abilities so well that it becomes almost laughably easy. But that doesn’t matter, since her only intent is to stack achievements for my advancement to S rank.
+
+My quest transports me to a planet where one of its Champions introduces me to her child, whom I am supposed to train in creating more durable mana constructs.
+
+Simply and disappointingly put, it is not a dangerous quest.
+
+The Champion needs someone very skilled in mana disruption, the best available for the job, and according to Ruby, with my eyes, [Mana Manipulation], [Eclipse], and if needed, black mana, I am that guy in the Beyond.
+
+Why not find someone on her own planet? I suspect the Champion is ashamed at the thought of others learning that her child struggles so much in this way, as silly as that is.
+
+Why not teach the child herself? Well, simply said, she is a female Jean, so her abilities in this regard are very limited.
+
+There is not much to say about the two weeks I spent on this S rank quest. The Champion is barely around, and her child is, honestly, an asshole. The kind who insults me constantly, slacks off, and cries for his mommy to erase me from the surface of the world.
+
+Still, I do my best, and there is a clear improvement by the end. During the final presentation, I see a happy expression on the Champion’s face, and the boy almost bursts into tears at her praise and hugs me in thanks. His mom hugs me too, and breaks most of my bones in the process. I’m not even joking.
+
+It is a short and efficient quest with nothing worth mentioning.
+
+There is no need to bring up the assassination attempts on the boy, or the haywire mana constructs when the Champion tried to mimic me and shape on a whim during one of the lessons, nearly wiping out the entire city with her impressive level of incompetence in handling mana.
+
+There’s also no need to discuss the noble ladies and their building sized “pets” this world seems to have, or the sudden appearance of that ancient creature everyone insists was only a large bird, even though it swallowed half a tower.
+
+All of that is completely irrelevant. The quest itself was simple, peaceful, and absolutely uneventful.
+
+And after that, the quest ends, and I return to the Beyond.
+
+My reward is a set of techniques from the Champion, and even Ruby says she’s pretty talented when it comes to using her body. I receive training exercises, some martial arts, a few movement techniques, and what Ruby calls a very passable body strengthening method that uses mana.
+
+I also move one step closer to S rank, with my Handler saying that at this pace, it shouldn’t take long. Two or three proper Beyond quests, or a bit of participation on the fifth floor of the Beyond, in whatever Nyssa wants me to do.
+
+With that, I return to the ninth floor of the tutorial for a week before Humility’s Event starts.
+
+When I appear, the first thing I see is Biscuit sitting on Noodles’ head, and I almost step on the huge, pearly white snake. One thing is different about him, though. Noodle now has three eyes on each side of his head.
+
+(Food!) rings in my mind before the corgi launches himself at me like a cannonball, knocking me down, at which point I am brutally assaulted.

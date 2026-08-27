@@ -1,0 +1,115 @@
+---
+id: 05d3ccfd-15b0-51ee-805c-6714a2340851
+page-type-slug: story-chapter-royal-road
+title: "275. I Think I've Been Revealed?"
+slug: 0275-275-i-think-ive-been-revealed
+partOf: god-of-trash
+position: 275
+ownLength: 2185
+unit: words
+publishedAt: 2026-02-16
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3060847/275-i-think-ive-been-revealed"
+royalRoadId: "3060847"
+---
+
+Sitting on the roof of the manor, Rhys sweated. He licked his lips and watched the woman go. She’d noticed. She’d definitely noticed.
+
+And… she hadn’t been angry? Or scared, or sad? She’d seemed… happy?
+
+Well, she was high enough tier that I think she was able to somewhat see through my tier suppression… to at least see that I was suppressing my tier. She basically upgraded her drunk low-tier son with no hope for improvement with a high-rank Tier 4 with none of his unfortunate social habits. And due to the fact that I’m on a stealth mission, she can leverage me to assist her family in ways that she usually would have no option to, especially if she deliberately showers me with gifts to help earn my favor.
+
+He thought for a second, then shrugged. He… didn’t mind? Bribery was hella pog, especially since he was a trashy guy; what was more trashy than accepting bribery? And he himself had taken on a side quest or two in his time. Gods knew the Lord Nors sidequest had achieved little, except for the part where he’d met Sid… and incidentally, hadn’t forgotten any of that. If everything went right, they’d be part of his endgame.
+
+Plus, mage bribery was basically a tradition. No one got anywhere without relying on bribery and connections. He’d avoided it so far by living in the trash, but now that it had presented itself as an option, there was no reason to hold back. Who knew? Maybe all the Tunks wanted was for him to stand around and look pretty, and maybe scare away a rival or two. Or… well, mages were known for taking the long view on things. They could live for hundreds of years. Doing a small favor for him now by overlooking him taking the place of their erstwhile child and presenting him with a few gifts, could pay off enormously later if they were ever in need of a powerful supporter.
+
+I don’t mind having their back later. I’ll accept their kindness now. It’s better than if they reveal me, for sure. Then he’d have to totally throw this plan out the window… or kill and replace many, many more people than he had any confidence in replacing.
+
+Yeah, at that point, I might have to kill them all, retreat, and come back later, Rhys thought with a sigh. Which really made his ‘mom’s’ choice all the more expedient. If she’d protested, he could, and would, have killed her. Between granting a high-Tier mage a favor which they could call in later, and the eradication of her family, Madame Tunk had certainly picked the better option. It wasn’t like a high-Tier 3 could stop him.
+
+Rhys sighed. I really don’t belong in the Alliance anymore. He was rapidly becoming a big fish in a small pond. If he wanted to keep growing, he had to move on and up, where he could continue to be trash and others could continue to pose a serious challenge to him. Stagnating here where he was on top wasn’t the way to accomplish his, or absolutexistance’s, goals.
+
+Still, for now, he would take advantage of his relatively high tier to successfully replace Norton, even though Norton’s mother had immediately seen through Rhys’s disguise. Just because he thought it was distasteful to be the big fish in the small pond, didn’t mean he wouldn’t lord it over the small pond for as long as he still had business there. He didn’t outrank the whole pond, anyways. The Sword Saint, and a few others, still loomed over him, but he did have to admit there were few still above him. Once he got to a nameable list, that was already too few for comfort.
+
+All it meant was that nothing changed. Madame Tunk knew, but wasn’t going to report him. Whether or not his supposed wife knew, he was willing to bet that Madame Tunk’s word would override hers; it no longer mattered whether or not she suspected him. Of course, that was no reason to treat her any differently. He still intended to be ‘the Norton Tunk who turned over a new leaf and has suddenly become a good husband.’ That Norton Tunk was the one who got invited to parties.
+
+Hmm. I suppose I should strive to not involve the Tunks in whatever my eventual reveal plan is. It would be rude to repay their kindness by dropping his false identity in a way that implicated them. It wouldn’t be too hard to accomplish, either, since even if he was caught red-handed with Norton’s face, he could always claim that he’d fooled the Tunks, it was just a matter of remembering not to toss his trash on their lawn. It was, he had to admit, a trashy thing to do, to repay a favor with a giant middle finger, but he wasn’t that trashy. Even he had limits.
+
+Things could change, of course. If the Tunks turned out to be as assholish as the son he’d replaced, then maybe they deserved that kind of underhanded betrayal. He just didn’t know. In some cases, assholes begat assholes; in other cases, the kid was just wired wrong, and perfectly lovely, or at least acceptable, people could end up with a highly troublesome kid. He’d keep his eyes out, but his default was to repay kindness with kindness.
+
+He wasn’t going to play moral police, either. Far be it from him to be that trashy. As long as they weren’t completely deplorable, it was kindness with kindness. Only in the extreme case would he act against them.
+
+That was definitely something he’d run into a lot, especially working for a living in his first life. When he said something like, I need to make sure this isn’t bad, what he meant was, if it was seventy percent okay, it was passing, whereas what others heard was if it’s ten percent bad, I’m destroying it. The most confusing part of communication, as far as Rhys was concerned, wasn’t conveying the general status or information, but instead calibrating the other person’s base assumptions and expectations to match his own. It was so easy to think that you and the person you were speaking with knew exactly what you meant, when they were really so far off base that they might as well be in another universe, just because they started from some strange beginning point.
+
+Rhys sighed aloud. Just more proof that people were annoying and ought to be avoided, writ large. Writ small, people were great—his friends and such. Writ large, yeah, nah.
+
+He went back to focusing on his practice. The bottleneck still loomed, but at this point, the biggest problem was that he didn’t know exactly what the bottleneck was. He could feel it, but what was it? What was blocking his progress? Something, for sure, but whatever it was, it was eluding him.
+
+And the problem was that it could be anything. Trash, the void, the hole in his core wall, the fact that he was effectively cultivating a trash star rather than a core… there was so much strange and weird about his cultivation that he just didn’t know where to start. He ran through each option—or rather, was running through each one, exhaustively, but he still hadn’t found the smoking gun.
+
+And there was always the option that what he needed was brute force. Vast quantities of trash. Immense heaps of rapidly processed filth. True, it hadn’t worked back when he’d been with Soma—he’d been forced to make The Hunger instead, who was currently sleeping in his core. But who knew? Maybe what he needed was time for his core and core space to settle and expand, and then brute force. Order of operations was important.
+
+He expected things to be quiet for a while, but contrary to his expectations, the sun hadn’t set before he sensed the mana signature he now recognized as Madame Tunk at the door again. Lily answered the door, then headed directly up to him. Rhys stood, turning to face the door as she opened it.
+
+She jumped, a little taken aback to find him looking directly at her. Rhys smiled and waited patiently for her to say her piece. After a beat, Lily recovered enough to thrust a ring at him. “Here. Cultivation materials. Madame Tunk brought them.”
+
+Rhys took the ring and quickly went through the materials on the inside. Potions, gems, a few sets of herbs and a full explanation of how to cook them into a powerful potion designed to thrust one’s magehood ahead toward the brink of the next tier. Rhys nodded, then looked at Lily. She was mid-retreat, but paused when their eyes met.
+
+“Do you want any of these?” he asked.
+
+“D-do I… I have no talent as a mage. You know this, husband. Using those high-quality materials on me would be a waste.”
+
+Rhys smiled, not sure how to explain that they’d be even more wasted on someone like him, who needed filth more than he needed high-quality materials. And then his eyes lit up. “Did you say you have no talent?”
+
+“Y-yes?”
+
+“Would you consider yourself trash?”
+
+“Not… that far, but…”
+
+“Have others considered you trash?”
+
+She looked down, then stared him in the eye, tears glittering in her eyes. “Why are you asking these things?”
+
+Rhys gripped her by the shoulders. “I’m going to make you the strongest trash mage who’s ever walked this city.”
+
+“Madame Tunk brought those materials for you. If you use them on me, she’ll—”
+
+“She gave them to me, no? Is it not my choice what I decide to do with them? If she bullies you for it, then send her to me. I’ll tell her directly that it was my willfulness, not anything on your part.”
+
+Lily started to nod, then frowned. “Why?”
+
+“Why what?”
+
+“You said it. I’m—I’m not a very good mage. So why do you want to… to fight uphill?”
+
+Rhys just grinned. “Call it your husband’s love.”
+
+Lily grimaced at that, as if she was a second away from puking. Rhys chuckled and patted her on the shoulder. “Get ready. I’ve never gone all-in on power-leveling someone else before. You’re going to be my guinea pig.”
+
+Lily took an involuntary step back, suddenly much more concerned than she was before. “What’s a guinea pig?”
+
+“Sorry. Let me rephrase. My dear beloved disciple.”
+
+Somehow, that didn’t ease the fearful expression on her face.
+
+Rhys cackled under his breath. He tossed her a potion from the ring. “Here. Drink this and let me see how you circulate it.”
+
+Still deeply uncertain, Lily put the potion to her lips. She took a small sip.
+
+Rhys put a hand on her shoulder, extending his skill Less is More toward her. He felt their mana brush, and then his skill surged over her, accelerating the intensity of the small sip of mana she’d taken. Her eyes widened, and she put a hand to her core, backing away again.
+
+“Don’t back away. Don’t reject it. You can handle that much mana. Hang onto it, and circulate it. Expand your core, and expand the space your core lives in.”
+
+“That’s—not possib—”
+
+“I don’t care if it’s possible or not. You’re doing it, and you’re doing it now!”
+
+Lily jolted. Startled into action, she circulated her mana, obediently trying to absorb the excess mana from the potion into her body. To be honest, Rhys was just copying the garbage advice his high school coaches had shouted in his face, in the hopeless endeavor of attempting to get the fat kid he’d been to succeed at any active event, but it worked shockingly well. When he thought about it, though, it made sense. Not only was it garbage advice and therefore in line with his path, but also, she was a noble who’d been treated with kid gloves and a delicate touch her whole life. No one had ever shouted at her to work harder or get the job done. If she’d said she couldn’t do it, they’d simply backed off and allowed that to be reality.
+
+But Rhys had nothing to fear. Not from her family, who were at best as strong as Madame Tunk, and quite possibly weaker, if they’d agreed to marry her to the obviously-flawed Norton Tunk, and not from Lily herself, who couldn’t do any more harm to him than to throw a tantrum. He wasn’t afraid of a spoiled brat. Not only that, but she was legitimately so much weaker than him that she could qualify as his disciple or student. In fact, if she had enough sense to realize what was happening, she’d get with the system and start cooperating pretty quickly once she realized how fortuitous a situation this was for her.
+
+Then again, I don’t mind if she doesn’t. A bad student is better for me. Rare is the good student who’s considered garbage.
+
+Sweat dripped down Lily’s brow. “I—I can’t!”
+
+“You can, and you will! You’re not allowed to give up!”

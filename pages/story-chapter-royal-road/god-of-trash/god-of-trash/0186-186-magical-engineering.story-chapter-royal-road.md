@@ -1,0 +1,179 @@
+---
+id: a9c403a8-00a2-5649-a986-d322fd2cce13
+page-type-slug: story-chapter-royal-road
+title: "186. Magical Engineering"
+slug: 0186-186-magical-engineering
+partOf: god-of-trash
+position: 186
+ownLength: 2400
+unit: words
+publishedAt: 2025-09-14
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2600448/186-magical-engineering"
+royalRoadId: "2600448"
+---
+
+Mouse knelt at the magical circle, tilting her head left and right as she got a closer look. “It really is a portal… but if you’re asking me if there’s something else attached…”
+
+“Yeah. Or if it goes somewhere bad,” Rhys added.
+
+The female voice was thoughtfully silent.
+
+“Well, I can’t tell you that. A portal is a portal, so unless you’re getting vibes from the portal, there’s no way to say what’s on the other side. But if there’s something that lets her attach her voice…” She leaned in, then pointed. “That, right there. That kind of looks like a voice throwing enchantment, doesn’t it?”
+
+She turned back to a roomful of idiots, who shrugged helplessly at her.
+
+Mouse sighed. “Really? This is from Enchantments Level 1. It’s one of the first enchantments they teach you. I remember the boys in our class kept throwing voice throwers into the girl’s dorms for weeks after they taught us that.”
+
+“I, uh, I’m more of a learn-by-doing kind of guy,” Rhys said.
+
+“I bet you don’t know how to identify the specific kind of water snail needed to turn a skin-melting potion into the best flesh-repairing salve known to water sprite-kind,” Lira challenged her.
+
+Sable looked at the other two, then thought for a moment. At last, she added, “I kill things.”
+
+Rhys glanced at her. We got that the first time… wait, hold on. Was that a joke? Does Sable actually have a sense of humor?
+
+Their eyes met. Sable smiled.
+
+Rhys shook his head, smiling himself. Well, I’ll be damned. I had no idea. I guess even skittering creatures that lurk in the dark enjoy a joke every now and again.
+
+“O-oh… I’m sorry. I didn’t mean to belittle your experiences,” Mouse said, the apology heartfelt.
+
+“I was joking, just joking. We were all useless to figure this thing out, so we’re glad you have some idea of what’s going on.” Rhys reached down and plucked off the piece she’d pointed out.
+
+Mouse jolted. “I—I wasn’t sure…” She looked at the portal, then at the tidbit Rhys held. “Er, hello?”
+
+“You cannot escape your doom! Even now, I—”
+
+Rhys closed his hand around the object, quieting the voice. “Yep. Looks like we were right.” He looked around at the girls, then back at the portal. “Do we wanna risk it, or do we think it’s pointed somewhere dangerous?”
+
+“Yes! It’s pointed directly into a volcano. Use it and burn to ash!” the voice on the line cheered.
+
+Rhys closed his eyes. How stupid is she? “Well, either this is a five thousand IQ play and we’re about to die, or it’s completely safe.”
+
+“There’s probably a bunch of strong dudes on the other side, at least,” Lira pointed out.
+
+Sable’s eyes glittered, and she stepped forward.
+
+“Yeah, probably, but…” Rhys looked around. “I mean… are we scared of that?”
+
+Mouse fumbled around in her storage ring, then withdrew a familiar bag. “If it’s bad, can’t you use this, Rhys?”
+
+Rhys pointed at her. “Excellent point. Hand that over. I’ll go in first. Here,” he tossed Lira the speaking-bauble. “I’ll find that lady and shout for you if it’s safe. Or pop back through, if that’s untenable. Sound good?”
+
+“Sounds good to me,” Lira agreed.
+
+“I want to go,” Sable said, stepping forward. “Even if it’s lava, I should be fine.”
+
+Rhys considered for a moment, then nodded. Sable was pretty hardy. Of everyone here, she was the only person he knew could survive an Impure Well, and on top of that, her battle skills really were top notch. If they came out into any terrain, surrounded by a bunch of beefy men, Sable would have no problem taking on her fair share of the battle.
+
+Of course, if he brought Mouse, she would just vanish, and it wasn’t like Lira wasn’t a force of her own, but of the three of them, Sable had the most raw battle prowess. Not only that, but he’d been leaving her on guard duty far too much. She needed opportunities to level up and get stronger, just like everyone else. If she was volunteering, he wasn’t going to turn her down.
+
+“Alright. You come with me, Sable.” He held out his hand, and she took it.
+
+Mouse scratched the back of her head and looked away.
+
+Rhys turned back and saluted. He and Sable stepped forward into the portal. “If you never hear from me again… you know what happened.”
+
+Lira saluted. “Congratulations on your elopement.”
+
+Rhys only had enough time to roll his eyes at her. There was a bright light, and he and Sable both vanished.
+
+Back in the room, Mouse sighed.
+
+Lira looked at her. “If you want him, you have to make a move, girl. He’s blind. Deaf and blind. And all you do is hide. He’s never going to be the first one to act. It can only be you.”
+
+“But… I…” She sighed again.
+
+Lira rolled her eyes. “Come on. Sable’s in the running, too, and she’s got that savage energy, you know what I mean? If you leave things, she’s gonna jump his bones, and he’s not going to say no. He’s not that kind of guy, to hold out for someone else when he’s got a meal right in front of him.”
+
+Mouse looked at the floor. She kicked the dust. “I know, but…”
+
+“Do you need some help? There’s some water sprite tricks I could share with you. The famous ‘hey, let’s go skinny dipping’ usually works, but there’s always the ‘whoopsie, I spilled some water’ or the somewhat more subtle—”
+
+“I don’t need any tricks! I don’t,” Mouse said, blushing furiously.
+
+Lira blinked. Her mouth opened into an ‘O.’ Slowly, she smiled. “Oh, I see. How cute, Mousie. I didn’t know, I didn’t know.”
+
+Mouse’s entire face, ears, and neck were bright red. “Shut up!”
+
+“You’re doing just fine, girl. Just keep going. Slow and steady wins the race.”
+
+“That’s not what you were saying ten seconds ago.”
+
+“I didn’t know the whole situation ten seconds ago. I didn’t know.”
+
+Mouse scowled. “Aren’t you into him, too?”
+
+“Me? I mean… he’s reasonably attractive, I guess. Wouldn’t say no. He’s kinda trash though. A one-night kind of guy, not forever.”
+
+Mouse gave her a look.
+
+“Well, yeah. Now that I know, it’s hands off, okay? I’m not that desperate.”
+
+Mouse sighed again. Lira patted her shoulder. “You’ll do it, girl. You just have to believe.”
+
+On the other side of the portal, completely unaware of the conversation going on behind them, Rhys and Sable stepped out into a big, open field. Just as Rhys had predicted, they were surrounded by burly men and women. He cracked his knuckles. “You ready, Sable?”
+
+“No volcano,” Sable muttered, sounding a little sad.
+
+The men advanced, cracking their knuckles. A few of them drew weapons. Scanning the crowd, Rhys reached out and quietly scanned their Tiers. Mostly 1s and 2s. A single low 3 at the back of the crowd.
+
+Rhys chuckled. Weak. Honestly, he could probably take them on alone… no, Sable could do it alone, even. “We can go to a volcano after this. But first, let’s bust some heads.”
+
+“I have this crowd. You find the woman,” Sable told him. Her bony limbs unfolded from under her cape, and her eyes glinted with dangerous red light.
+
+So she noticed, too. He nodded. “You’ve got this, then.”
+
+“You think you can get past us, skinny boy?” one of the burly Tier 1s shouted, too low-Tier to be able to sense Rhys’s Tier.
+
+Rhys didn’t turn his way. He lifted his finger and pointed at him. “Three.”
+
+“Oh, you trying to scare me?”
+
+“Two.”
+
+Shaking his head, the man chuckled as he and his fellows closed in. “You’re gonna have to do worse than—”
+
+Using his Tier 3 speed, Rhys kicked off the ground. His hand impacted the man’s face and tore right through it, out the other side. Blood and gore splattered across the ground.
+
+Rhys blinked. I was just trying to knock him to the ground. I guess Tier 1s are just too delicate for me to handle roughly nowadays. Quickly swallowing his surprise, he turned to the group and delivered the quip he’d planned on. “One.”
+
+A few of the other Tier 1s blanched. One of them turned and outright fled, and a few of the others looked like they were considering joining in.
+
+“If anyone else wants to stop me? No?” Rhys smiled. He knelt and sucked the dead criminal into his trash core, then strutted away, waving over his shoulder. “All yours, Sable.”
+
+He’d come here to collect mana for new cores, but these criminals were so low tier it was barely worth it. True, he’d been glad to get Tier 1 and 2 cores not long ago, but up ahead, he could sense lots of meaty, juicy, higher-level cores, so even if he let this group of low-tier men slide, he wouldn’t be seriously missing out on anything. Better that he trained up Sable, than worried overmuch about getting every ounce of mana out of this encounter. He needed more high Tier 2s, or if he was lucky, Tier 3 combatants. And Sable, as his fellow Tier 3, needed to get stronger more than anyone else. She was only low-3 right now, but if she could climb to mid-3, or even high-3, capable of fighting multiple 3s and even 4s, then their power as a team would climb by leaps and bounds.
+
+Clattering, as if dry bone sounded from behind him, followed by hideous screams and horrible squelching noises. Rhys winced, but resolutely didn’t turn. Nope. Whatever’s going on back there, I want none of it.
+
+He extended the range of his mana, searching as far as he could. It wasn’t hard to find the next group of people; they were just up ahead, past the thick forest that walled off the end of the field. At first glance, he sensed a few Tier 3s and at least one Tier 4, though the Tier 4 was off a little ways and somewhat separated from the rest of the group. There was plenty of Tier 1 and 2 chaff, but considering what he’d just accidentally done to a Tier 1, he wasn’t too worried about them.
+
+Reluctantly, he checked behind him to find Sable quite literally taking apart one of the large men. He turned back around and raced for the forest. I can leave her to that with no worries. She’s definitely got it handled.
+
+He dashed toward the forest. The signatures were arrayed in the forest as though they were meant to ambush whoever entered, but he could clearly sense all of them with his mana, so it wasn’t exactly effective. He surged toward the obvious path through the woods as if he meant to run down it, then leaped away at the last moment and flashed behind the closest Tier 3 signature. The man whirled, but too late. Rhys exuded his trash breath into the man’s face, and while he was reeling, he finished him off with his Trash Intent.
+
+Hmm. I wonder… Rhys whirled his hand, calling the trash gas to him. He lifted the broken sword and used Trash Manipulation to form the trash gas into a blade shape, then activated Trash Intent on the trash gas blade. The blade immediately began to dissipate. Quickly, he activated Trash Manipulation again, then held his hand out. Trash Manipulation and Trash Intent as one. Form the blade from the corrupting gas, then hold it there with one skill, not two. Intent and Manipulation as one.
+
+Intent awakened a material, called forth its memories and reminded it of its original shape, or evoked what it wanted to become. Manipulation allowed Rhys to shape the thing the way he wanted to, to determine its new form and desires. Both of them gave form to the formless. Both of them made desires real. The only difference was whose desires it activated on… but what if he merged their desires? What if he made his desires and the trash’s desires one and the same?
+
+To become one with the trash. To merge with the trash’s desires. Rhys shut his eyes, focusing. He felt the trash gas. Its desire to corrode, to fly freely. He felt the sword’s desires, its need to cut, to have a blade. Reaching out to both, he drew them together, pressing one onto another. To the gas, he introduced the sword’s need for form, its need to cut. To the sword, he introduced the gas’s free-flowing nature and its desire to corrupt.
+
+The two desires met.
+
+The sword wanted to cut, yes, but more than that, it wanted to destroy. To kill. However it got there, it was fine with accomplishing the same goal.
+
+The gas wanted to corrode and flow, but the sword could move, too. The sword could corrode.
+
+The two merged, becoming one blade.
+
+Trash Enchanting 8 > 12
+
+Rhys blinked, then raised his brows. Oh, right. I already did that. Whoops. Guess my memory’s a bit trash at times, too. He chuckled under his breath, then turned to the blade, taking a look at its new form. It looked like an ordinary sword, but he could feel the corrosive intent of the gas in the sickly, oil-slick-colored blade. He swung it, and it shifted, stretching out long and swinging around a nearby tree like a thing alive, like a fluid.
+
+“I don’t care what you’re planning, standing still like that. You die here!” a man shouted from behind him.
+
+Rhys flicked his wrist. The blade whipped back on itself and stabbed through the man’s heart. The man’s expression turned serious, and he pressed on, meaning to strike Rhys in the back with his dying blow.
+
+From the small wound on his chest, purple corruption ate into the man’s flesh. It bit deeper and deeper, chewing into his pectorals, his ribs, his heart and lungs. His arteries and veins darkened, becoming black and purple lines in his flesh. His swing faltered as his chest caved in, and he dropped to the ground at Rhys’s heels. The last dying echo of a Tier 3 mana signature wheezed from him as he died.
+
+Rhys turned at last. He looked at the sword, then at the man. “Well, damn.”

@@ -1,0 +1,171 @@
+---
+id: 78451c61-498e-5450-9367-d468b5e0a8fd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 797 - Empathy"
+slug: 0123-chapter-797-empathy
+partOf: hell-difficulty-tutorial
+position: 123
+ownLength: 2531
+unit: words
+publishedAt: 2026-05-04
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3355529/chapter-797-empathy"
+royalRoadId: "3355529"
+---
+
+POV Sophie Martinez
+
+Both of the men are feylith. While our contact shows no reaction and his hair stays brown as well as his eyes, the man hit by the money chain turns his hair and eyes to pale red before they shift to white.
+
+I noticed, but there’s no sense to the color of their hair. For one person, anger could be white, while for someone else, it might be black. It is just that each individual has their own colors and their own range.
+
+Our contact quickly gestures at the new man, who bows and grabs the chain from the ground. I calculate the worth of two upper arcane items on them.
+
+“I apologize for my colleague, Sir Elydor.”
+
+“Let’s not waste my precious time on such annoying things,” Nathaniel steps ahead as if he owns the place, and our contact is forced to follow behind him. “As my servant has informed you, I’m willing to auction off one of the two beasts I bought for my daughter.”
+
+“But I want them both!” Izzy sobs quietly. Through our link, she quickly shares information on the emotions of the people. I meanwhile don’t make any attempts to directly manipulate the feylith man with us, but nudge him, just a tiny bit, gently so none of his potential means of detection spark up.
+
+“How tiresome. Well, if you want them both, maybe you shouldn’t shame me in front of my... business partners.” Nathaniel fixes his glasses and looks at our contact. “I’m not cruel enough to take both the snake and whatever beast the second one is, but it is a lesson she needs to learn. Do you not agree?”
+
+“O-of course, I-”
+
+Nathaniel doesn’t even let the feylith finish and sighs. “Spoiled, that’s what she is. But at least she has some talent for combat. Would you agree that being so close to level 300 at her age is somewhat impressive?”
+
+“Yes, Sir Elydor, I find it very im...”
+
+“Yes, yes. So, which beast do you think would be more interesting for your auction house?”
+
+To that, the feylith pauses our walk and looks at Izzy. It forces Nathaniel to stop, after which he shows his impatience by tapping the tip of a foot on the marble floor. Biscuit is currently dozing off and pretending to sleep. His tiny tail wags a little bit to show how much fun he’s having. Meanwhile, Noodle is coiled around Izzy’s arm and curiously observing the area with his six green eyes.
+
+“Honestly, Sir Elydor. This isn’t how we usually go about things. There are procedures and protocols our auction house must follow.”
+
+“I find it remarkably foolish that you believe me incapable of noting all the ways in which these protocols are quickly forgotten when there is money to be made.” Nathaniel sounds as if he is making fun of him. “Well, my dear friend. I plan to leave as soon as possible with that Weredeer still around. If I sell one of the pets, it will mean less trouble when travelling.”
+
+“But I want them both!”
+
+“Isabella, I have to say I’m disappointed in your lack of decorum. But what would I expect, considering the amount of time you’ve been spending with your mother. I always told her she was spoiling you.” Nathaniel looks at me.
+
+It catches me off guard, but as planned, I stay quiet and give him a very angry look before looking away.
+
+The silence is awkward, and the feylith man steps from foot to foot and laughs a bit nervously, though Nathaniel doesn't seem to mind it at all.
+
+“Feisty, isn’t she? At least I have a few more wives that are nicer to me.”
+
+At this point, I can’t help but send through the link, (The fuck?)
+
+Izzy sends a message as well, (Soph, be careful with your nudging. He seems to have a bit of training.)
+
+I quickly answer, (I know, I’m modifying my strategy.)
+
+Nathaniel doesn’t show the slightest reaction and turns to the feylith. “You have my permission to look at the beast. I’ve already seen how you can’t take your eyes off him.”
+
+“Was I that obvious?” The feylith laughs awkwardly and steps towards Izzy before saying, “May I, little Lady?”
+
+“NO!” Izzy shouts and hides Biscuit in her arms. “My friends will make fun of me if you sell one of them! They’ll call us poor again, and I will never be able to marry!”
+
+(Nat, I want to make him begin to think we are in financial trouble. Try to brag a bit more about how rich you are,) She shares.
+
+I start to think that maybe my sister and Nat are enjoying this too much, as I see him work the act.
+
+“Isabella, we aren’t poor,” Nathaniel says with mild disbelief, like she just announced something deeply inconvenient rather than emotionally dramatic. “We are, in fact, offensively wealthy,” he continues, brushing imaginary dust from his sleeve. “Which makes this display rather confusing.”
+
+The feylith laughs again, thin and unsure, as if he has been accidentally invited into a family argument and doesn’t yet know which side is safer.
+
+(Push a bit, Sophie.) I receive.
+
+“Yes, Sir Elydor, no one of proper standing would ever assume-”
+
+Nathaniel glances at him with his cold, differently colored eyes, his trait constantly shifting behind the glasses. The man immediately stops talking and shifts his attention back to a safer target.
+
+He steps closer, eyes tracing the line of Noodle’s body. “The serpent’s mana structure is unusual,” he murmurs almost involuntarily. “I think I also sense a fragment within it. How curious and exotic. It would attract collectors who value uniqueness.”
+
+Nathaniel does not look at him and instead begins to observe a statue nearby. “And the other one?”
+
+At that, the feylith lowers his head and looks at the nearly sleeping pretend corgi. He observes him very deeply and even puts on an item in the shape of a monocle. Then he reaches out, takes Biscuit from Izzy’s arms, and holds him up in the air by his scruff.
+
+(Stop.)
+
+It takes me a moment to realize that it’s Biscuit saying it. Then another that it is meant for Nat, and not me.
+
+When I look at him, he stands there with his eyes wide open. They are terrifying. Gray and brown, and the golden light trying to push from behind his black pupils.
+
+That gaze isn’t even the worst part. I know that if he willed it, the entirety of his mana would move in an instant to fill this hallway, like a walking nuclear reactor just waiting to explode. I also see how close he was to doing it, too. This lunatic wouldn’t care at all, he would turn this feylith man into a smear of blood on the wall.
+
+Meanwhile, Biscuit doesn’t react much. He just opens his eyes and blinks slowly while the feylith man holds him and talks, unaware of Nathaniel’s expression. "How surprisingly cute, this little beast. I have to say, I’ve never actually seen this specific one. The serpent is rare, yes, but something about this one... its musculature suggests extraordinary compression strength,” he murmurs. “If it were displayed in a controlled demonstration, the bids would be… enthusiastic."
+
+"Did you buy it already?" Nathaniel asks in a cold voice.
+
+The feylith doesn’t seem to be aware of the danger as he continues to curiously observe and probe the corgi. "Sir Elydor, of course, I didn’t buy anything yet. It is not that simple." He even laughs.
+
+"Why are you touching something that is mine, then?" That lunatic’s voice becomes even colder. He takes a step that feels too loud, as if it were bouncing off every wall in the hallway.
+
+"He is not an item, father! He is a living being." Izzy takes Biscuit from the man’s arms and takes a step back.
+
+Only then does Nathaniel’s expression begin to shift back to normal as the feylith says calmly to her, “Everything is an item, young lady. The difference lies in who controls the exchange.”
+
+The feylith laughs softly, trying to ease the atmosphere, though his hair flickers faintly toward pale gold.
+
+(Greed, layered with apprehension. He’s also looking down at you and seems very smug about it. Brag about how rich you are to confirm his feelings. As Nathaniel says something and the man begins to answer, you can push a bit more, Soph,) Izzy sends in the link.
+
+As the feylith turns back to him, Nathaniel finally smiles. “I must say, your comprehension of the purpose of this visit is abysmal,” he says calmly. “I am not here because I need coin. I am here because I dislike crowds.”
+
+In reaction to that, the feylith opens his mouth, and I push. I touch his mind, feel the movements of his thoughts, and then push and pull in all the right places. It is almost all instinctual, something I can feel and modify in accordance with his reactions, changing things even before my conscious mind perceives them.
+
+For a faint moment, he furrows his brow, but it soon smoothes out, and he smiles.
+
+(Arrogance. He is looking down at you. Annoyance at the way you’ve been treating him. Great interest in Biscuit,) Izzy shares right away.
+
+"I’m afraid I need to go now, Sir Elydor, but why don't we meet again tomorrow at the same time? Somewhere more private within our Auction House?"
+
+(Good, this will let him feel like he punished you, and the moved meeting makes him feel he is more in control. Tell him you don’t have time, Nat.)
+
+"Do not take me for some-"
+
+And for the first time, the feylith interrupts Nat. "I said, I have time tomorrow."
+
+As Nat opens and closes his mouth, his words dying before he can spit them out, he clenches his teeth and gives a stiff nod.
+
+I notice a patch of the man’s hair shift to a dark red hue, and then he smiles.
+
+POV Nathaniel
+
+As we leave the auction house, I keep my posture upright and offer Sophie my arm. She hangs onto it as we walk through the street, maintaining the image just in case they’re watching us. To further sell the lie, we’ve even rented a house located a few levels above where Group 4 currently lives. Someone might call it a waste of money, but we have to be sure.
+
+Only once we are back inside the tower and safely within Group 4’s rooms do we drop the act. Sophie pulls away from me, and Biscuit floats into my arms, as I begin to pet him. I don’t have a crown floating over my head, but I am storing mana inside my body. Ruler of Diligence, be my witness, that the auction house will burn to the ground before this floor ends.
+
+"You almost fucking attacked him right there!" Sophie shouts at me.
+
+"I think it would have added to my act of an arrogant noble hiding his identity if I had," I defend myself.
+
+"I don’t think so, Nat," the traitor Izzy says, supporting her sister.
+
+"Want to see something, Izzy?" I ask as I undo my tie, throw it over an armchair, and shrug off my suit jacket. "Feel my emotions now and tell me if I’m lying when I say I would react the same if anyone from our group was treated that way in Biscuit’s place."
+
+Sophie doesn’t even let her sister answer. "I just want to know if you realize what almost happened and to be sure that you won't splat the guy if he decides to be a dick tomorrow."
+
+"I probably won’t do that. Right, Biscuit?" I swing him gently while holding him in my hands, and he woofs a few times.
+
+We make our preparations, and I let Sophie and Izzy talk it out. With part of my mind, I listen to Izzy explaining what the man felt, which hair and eye colors match which emotions, and theorizing over the best way to make him do what we want. We conclude that tomorrow we will return with just Izzy, me, Biscuit, and Noodle.
+
+A part of me finds it scary how easily Izzy talks about the man’s emotions, where to push to get him to do exactly what she wants, all the while making him think it was all his own idea. Unlike what Sophie does, our little empath’s ability leaves no trace. Damn, she even mentions that she can sense when the man suspects something and knows exactly how to make him drop it, making him feel confident and in control instead. She proved as much earlier today.
+
+It all makes me remember Adrian. He’s an empath as well, but unlike Izzy, he’s much more ruthless and never minds using it to his advantage. The memories I saw from Lioren tell me that Adrian started with [Empathy] the same way Izzy did. Considering you usually start with skills you have a talent for, skills that come from within, I find the comparison interesting.
+
+Two people. One of them gained [Empathy] because she had a talent for feeling people’s emotions and wanted to help them. And another with the very same talent, but he used it to exploit people for his own ends.
+
+The skill might not look like much, but combined with the fact that it’s among the most difficult to detect. It can be truly terrifying.
+
+That night, I watch the city from the tower and notice a great deal of movement down there. Encrypted messages are being passed along, people are moving through the darkness. Someone important and very powerful seems to pass by for a moment before heading west, back toward where we entered this floor.
+
+I don’t think we have much time. My mood hardens, and I confirm with myself that I will be ready tomorrow, so I don’t hesitate. If necessary, I will kill everyone in that auction house. With my black mana and Biscuit’s help, I can erase all traces, and Noodle can just eat the egg to transport it out without being detected. It’s something he’s already proved himself capable of pulling off.
+
+Likely sensing these emotions, our empath steps onto the balcony and looks toward the night city with me. She doesn't say a word, only briefly squeezing my hand before going back inside.
+
+And as I gaze down on all these lights alone, I continue to think that it used to be easier to kill people. Even now, I don’t differentiate that much between tutorial natives, attendees, or the locals in Beyond. Yet I find that the more powerful I become and the more options I have, the less I like taking such an easy route.
+
+I still know I can do it. I wouldn’t hesitate to burn this entire, fake, tutorial, city to the ground, and I won’t feel sad if anything like that happened. Still, something in there is changing.
+
+And so I wonder. Maybe, just like that feylith today, I too have been manipulated into what I am by that green-eyed girl.
+
+Or maybe it’s just me.

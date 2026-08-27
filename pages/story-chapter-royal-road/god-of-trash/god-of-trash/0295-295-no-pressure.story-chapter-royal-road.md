@@ -1,0 +1,91 @@
+---
+id: 66f09e15-8377-5069-acf0-44d2b7487201
+page-type-slug: story-chapter-royal-road
+title: "295. No Pressure"
+slug: 0295-295-no-pressure
+partOf: god-of-trash
+position: 295
+ownLength: 2352
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3228396/295-no-pressure"
+royalRoadId: "3228396"
+---
+
+Luc advanced, Bast trailing him at a decent distance. Rhys retreated at pace, eyes darting, his senses extended to their fullest reach. This was the most critical moment. Now that he knew Sid wasn’t going to appear and magically solve all his problems (honestly? Truly trash behavior, right there, dreaming that someone else was going to show up and solve everything for him), he had to fight with all his might just to survive. It still wasn’t game over yet, but the margins were getting tighter.
+
+As much as he’d like to turn this into a battle of attrition and slowly poison the Sword Saint to death with impurities from afar, he only had limited time. His teleport took him to the boundaries of the Alliance, but there were people who could reach the border of the Alliance from the capital in the span of minutes. He had time, but he didn’t have an eternity, and most of the time he had was tied up in the Alliance figuring out where he was, over getting to where he’d gone. With the marked Bast and Luc here, that wouldn’t take very long, either. He had to make his move, and he had to do it quickly and decisively.
+
+Rhys took a deep breath. We’re doing this, then. No way out.
+
+He called The Hunger to his hand, having previously let it hover in front of him; a trivial task at Tier 4, where he was himself capable of flight. Uncharacteristically, the sword was silent. Even it could sense the tension in the air and the immense danger that Luc posed. The Sword Saint was weakened, but he was not out of the equation. One wrong step, and the man would slaughter them both.
+
+Rhys wasn’t sure if he was imagining it, or if he could actually sense it, but there was almost a tether connecting Bast and Luc, a hair-thin path of mana that held the two of them together. It was so thin he could barely hold it in his senses even when it was there, and the filament kept flickering in and out of his awareness, to the point that he had to wonder if it was there at all, or just him projecting what he knew about Luc stealing Bast’s energy and potential into the real world. It was like staring at a mirage and trying to figure out what was on the other side of the heat haze, or trying to make out fine detail of a scene at a great distance. Was it real? Was he only imagining it? He couldn’t tell from here.
+
+If it is real, then I think I have a chance at reversing what Virgil did to Bast.
+
+In a way, he was fortunate. He hated to think that way, but it was true. If Virgil hadn’t taken advantage of Luc’s weakness and tied him to Bast, if instead, Rhys faced a full-power Sword Saint and his apprentice, he wouldn’t stand a chance. The original Luc, or even the one who had inflicted a serious wound upon the void beast, would have already vaporized him. If the strike that had struck Straw’s barrier had been at that same horrifying level of power, Rhys wouldn’t be breathing right now.
+
+But this one had laid a strike on him and failed to harm him at all. True, he had the barrier, which gave him time to weaken the beam, but if the sword strike had been at the same power as the one that had wounded the void beast, he wouldn’t have been able to buy himself any time with the barrier at all. The strike would have cleaved straight through it, barely shedding any power, and cut into Rhys afterward, grievously wounding him at best. It was why he’d treated the barrier as a last-ditch defense; he truly hadn’t expected it to be as effective as it had been.
+
+But it had been that effective. It had stopped, or at least halted, the sword beam for long enough for Rhys to corrupt it. That fact alone showed how much Luc had fallen. Once, he would have qualified as the peak of Tier 5; now, he barely pushed mid-Tier 5. It was still a terrifying gulf of power between them, especially since he was a sword-mage, traditionally considered the most offensively powerful of all mages—but it was now a gulf of power that Rhys could consider bridging with the aid of tools, tricks, and whatever else he had on hand. He didn’t know that he could ‘win,’ or defeat or kill the Sword Saint, but he could definitely slow him down enough to kick off his big plan, so to speak. It was a plan he’d just made up right now, but that was the best kind of plan. If he couldn’t improvise, he never would have made it this far.
+
+He took a deep breath. Here goes nothing.
+
+Rhys turned and retreated with all his might. The Sword Saint chased after him, easily catching up even at Rhys’s true, full speed. The sword energy charged up again, growing powerful and bright behind him. Its overwhelming aura burst out, so intense that he felt stabbing pain all along his back, as if the strike had already hit… though, he supposed, he wouldn’t feel anything at all if it had hit, so that couldn’t be the case. It was just that the energy that the sword strike threw off incidentally as it grew stronger was powerful enough that it generated pain even through his Tier 4 aura. Now that he had nothing to block it—no barrier, nothing at all—it hurt more than it had originally.
+
+The Sword Saint grew closer, so close he could hear the man’s footsteps crunching on the hardpacked snow. Rhys dashed ahead, pushing himself to move as fast as he could, his eyes locked on a faint mana signature in the snow. The sword swung, and Rhys threw himself forward, diving through the mana hoop the instant the energy released. He darted back through another hoop, popping out into a distant patch of snow in the opposite direction. In the distance, a torrent of sword energy slashed through the tundra, rending the hoop to nothingness, and tearing through into the void at the same time. He swallowed. Yep. If that hits me, I’m dead.
+
+But luckily, he’d spread hoops all over the tundra like the litterer he was. Since they were doubly trash, it was very easy for him to teleport from hoop to hoop. He couldn’t teleport from the broken hoops, unfortunately, but he’d left a lot of them. The Sword Saint would have his work cut out for him blasting Rhys with so many loops on the field.
+
+Loop teleportation took almost zero energy. The sword blasts the Sword Saint was doing took lots of energy. He’d entered a battle of attrition that favored him, and there was no way out for the zombie-like Sword Saint except—
+
+The tether flashed before Rhys’s eyes. That thin, maybe-there, maybe-not filament that connected Bast and Luc, slowly draining Bast’s energy and potential. His eyes widened.
+
+Wait, hold on. He’s draining Bast’s energy. I’ll kill my friend before I kill the Sword Saint like this! Shit!
+
+He paused, standing on the loop, and pinched his chin, thinking as hard as he could. Across the icy field, unaware of Rhys’s mental crisis, the Sword Saint pivoted and charged again, taking a straight line toward Rhys. It felt a bit mean, kiting him like this, like trailing a low-level zombie with two broken legs around for fifteen minutes so he could go pack a punch in his weapons or swap for a better gun, but it did give him time to think, so he couldn’t be too disappointed in himself. The most important part was solving the objective, not morality!
+
+The real problem here wasn’t that he had to defeat the Sword Saint. That wasn’t not a problem, but it was incidental to the real problem. The real problem was that he had to defeat the Sword Saint now, before the guy drained Bast dry—oh dear gods, I need a better phrase for that—while his techniques were all battle-of-attrition coded. He didn’t have a big one-hit attack. Or rather, he did, but they were mostly useful on opponents weaker than or equivalent in power to himself. There was no such thing as corroding the Sword Saint to death, killing him with the rats-and-ermines swarm, or striking him down with a filth weapon. His techniques were all about slowly weakening an opponent enough that he could land a fatal strike, but if he faced a powerful opponent at full strength who he couldn’t really weaken, he didn’t have an answer for that.
+
+I mean, I knew that. I’ve known that for a while! But I really thought I’d have someone else fight the Sword Saint. If you can’t beat them, have someone else beat them for you, isn’t that the way the saying goes? But when I tried to summon a monster to fight in battle for me, N*ntendo sued my ass, and all I got out of it was my emulator destroyed and a lawyer’s letter threatening to plunge me into debt! Holy shit! I’m so fucked! Why did I think I could do this?
+
+He closed his eyes for a moment, forcibly calming himself. Breathe, Rhys. Think. You can still get out of this. You still have time and options. Surely there’s some way to escape this battle alive!
+
+His mind went to the thin filament between the Sword Saint and Bast, and his eyes lit up. That was it! All he had to do was sever that! Once it was gone, then—
+
+Then there’s no hope to ever save Bast! What am I thinking? I need that to reverse the transfer. I can’t destroy it all willy-nilly like!
+
+The Sword Saint was almost on top of him. He licked his lips and assumed a fighting stance. He really stood no chance against the Sword Saint. If Sid wasn’t coming to fight, then…
+
+Then… wait, hold on. He lifted his chin, looking past the Sword Saint. Bast dawdled in the background, the same as he always had. He laughed. Ah. I’ve been overlooking the obvious, haven’t I?
+
+He stood there on the hoop, waiting a little longer as the Sword Saint charged toward him. The second the man was about to strike, he leaped in and hopped out again—but this time from a hoop close to Bast. Immediately, Rhys grabbed ahold of his friend and pulled him backward, intending to drag him into the hoop.
+
+“Wait, wait! I can’t be too far from Luc! I’ll die!” Bast shouted.
+
+“Oh. We’ll do it here, then.”
+
+Bast struggled, trying to draw his sword. It was almost embarrassing how easily Rhys could overpower him now, and his heart stung to see his friend drawn so low. He grabbed the man’s hand. “Stop. Let me help.”
+
+Bast cut a glance at him. “I have to fight you. You realize that, right?”
+
+Rhys grimaced. He knew that, but he didn’t like it anyways. Maybe some part of him had been subconsciously hoping that Bast could fight through it like some trashy shounen protagonist around their female lead, but he didn’t make much of a female lead, and Bast was hardly a berserk shounen protagonist. He didn’t have enough energy to meld the world to his favorite tropes, either, nor was any of the setup in place for him to enact that kind of thing. He nodded. “Yeah… it’s fine, though. You can’t stand up to my strength.”
+
+It was one of those phrases everyone wanted to say once in their life, but somehow, it hurt this time.
+
+“Ouch.” Bast winced, agreeing with him.
+
+“But I’m about to fix that!”
+
+“How?”
+
+Rather than use words, Rhys put his hand directly on the mark. He wanted to immediately rid it from Bast’s body, but the second he touched it, he sensed that it was the source of the connection between Bast and Luc. If he broke that, he’d lose the primary route by which to return Bast’s energy and potential back to his body.
+
+This wasn’t like the time he sent everyone’s cores back to them. Then, he was relying on the unbreakable ties between a part of a body and a whole body; the calls between unique mana signatures and the cores that produced those signatures. There was an unbreakable connection between the two. He was restoring a broken piece to a whole. Fundamentally, it was the same thing as using his Trash Intent to piece something back together, or Trash Enchanting to merge pieces into a whole item yet again.
+
+But this was different. This was caging energy back into an emptied thing. This was restoring something as intangible as potential to a physical body. It was similar to restoring an enchantment to an item that had burned out, but with two bodies in the mix, both of which were trying to kill him with varying levels of effectiveness.
+
+A pang of regret hit him. Many times, he’d considered restoring enchantments to disenchanted things. He had even done it once, if memory served; or gotten so close, conceptually, that he might as well have done it, without committing the mana—he really wasn’t sure. His memory was supposed to improve as he ranked up, but it seemed to have flatlined for him. He was just as forgetful as he’d ever been, and struggled to remember the things he’d done or hadn’t with any clarity just as he had when he was mortal. Still, he had some practice, and some conceptual work done, but he wasn’t an old hand at it the way he was with Trash Intent or Trash Enchanting.
+
+Despite all that, Rhys grinned. I’ve never been the kind to shy from challenges… or, at least, from doing all my homework in the last thirty minutes before class starts because I procrastinated way too hard the week before! Let’s do this!

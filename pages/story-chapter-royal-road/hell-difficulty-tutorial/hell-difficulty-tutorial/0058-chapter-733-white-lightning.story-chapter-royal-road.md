@@ -1,0 +1,125 @@
+---
+id: ef9d13e8-49a9-502e-8baa-bc490d2cb837
+page-type-slug: story-chapter-royal-road
+title: "Chapter 733 - White lightning"
+slug: 0058-chapter-733-white-lightning
+partOf: hell-difficulty-tutorial
+position: 58
+ownLength: 2186
+unit: words
+publishedAt: 2026-01-20
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2962670/chapter-733-white-lightning"
+royalRoadId: "2962670"
+---
+
+The sky above us grows darker as heavy clouds gather despite the fact that it’s still midday, and the wind starts to pick up. White lightning crackles between the dark masses of clouds, but the sound it makes is unlike any other I’ve ever heard. To the point that it sounds like it’s tearing through the sky as it courses along its path.
+
+And Lyraen is floating at the center of that storm, and for a moment our eyes meet before he glances back at the armor lying at my feet, thinking.
+
+I don’t like it. Not at all.
+
+In response, my mana bursts out of me like a torrential wave, spinning itself into a halo that I quickly compress, turning the immense amount I’ve gathered a pitch shade of black. In an instant, it starts devouring every bit of mana in the area it can reach, and I take a step to stand between the armor and Lyraen.
+
+“If I had wanted to take it, I would’ve just killed you,” he says, his voice sounding as if it’s coming from behind me.
+
+Then, as he flies off in the direction of the others, his figure fades away into some form of camouflage, whether it be a self generated field, a skill, or some strange item, whatever trick he uses. He disappears so completely that even I can’t sense him. And the most insane part is that all the white lightning he’s gathered vanishes along with him.
+
+I should still be able to sense that disgusting amount of powerful lightning, even if he’s doing everything he can to hide it. Yet I don’t.
+
+A few seconds later, white lightning cracks in the distance where Brich and Morwag flew. Even from here, I can hear Morwag’s laughter echoing through the air, like he’s having the time of his life. Of course, that lunatic survived getting struck by that crazy lightning.
+
+For a while, I stand there, contemplating whether I have any reason to join the fight, especially after my own battle with Morwag was interrupted so suddenly. I’m not even tired, and my reserves are just as full as they were when it started. With black mana, I’m sure I could handle myself well enough, even though none of these three is a fully mana oriented fighter. I could channel it to strengthen my body or amplify my skills.
+
+Yet I hesitate. The moment has passed, and the aggression I felt earlier has cooled. It would feel pathetic to barge into a fight I have no stake in. Maybe I really was hoping that Lyraen would try to take the armor. If he had, I could have used that as an excuse.
+
+I almost leave. I almost grab the armor, teleport the rest of the items to myself, and go.
+
+Almost.
+
+Even while fighting against two opponents, Lyraen somehow finds time to speak, his voice reaching me, talking directly into my ear. “I’ve changed my mind. I wanted to be forgiving, but your eyes... they irritate me so very much. Consider this a mercy, and a warning.”
+
+Before I can react, a thin streak of white lightning shoots from the direction of the fight. It moves faster than I can perceive, faster than even my overclocked senses can follow. It pierces my back, tears through my side, and leaves a burned hole no wider than a thumb before shooting into the ground and vanishing.
+
+The wound doesn’t heal, but I know it wasn’t meant as an attack, so much as it was a message, a warning.
+
+I stand still. Blood flows from the scorched hole in my body, soaking through my shirt and pants beneath it.
+
+Taking a deep breath, I force myself to calm down.
+
+One second. Two seconds. Three. Another deep breath.
+
+And another.
+
+I let go of the armor and turn around, slowly rising into the air and flying toward the battle in the distance. The black mana halo above my head spins faster, wilder, and I feed it more mana. As always, it tries to slip free of my control, but I split my mind into multiple parts, each one acting to hold it in control, like when you are trying to stop water from overflowing with just your hands.
+
+My eyes burn inside my skull as I watch Morwag attack Brich and try to locate Lyraen, while Brich switches between trying to escape and focusing on attacking Lyraen.
+
+The vyssari attacks from what feels like every direction at once, and neither of the two S ranks can locate him. Both are covered in unhealing wounds and bleeding badly. I think Calvorn is the only thing keeping Brich alive, while Morwag is holding himself together through a mix of primordial energy, willpower, and sheer demonic madness.
+
+“I warned you,” that deep voice sounds next to me again.
+
+My eyes open wide, and my concentration sharpens. I notice a flash of white lightning, and a small segment of a barrier composed of dense black mana forms in front of my chest, deflecting the white lightning that bursts on impact. Only the flashes and sparks deflecting from it cause some scars and burns on my body, but the main attack is blocked.
+
+Then I use all of the black mana to power [Eclipse] that expands, covering a mile or two wide area, draining it entirely of its colors. Only the blue flashes of mana from Brich keep their color, and the striking white of Lyraen’s lightning.
+
+Within that area, I find it. I find the structure of Lyraen’s camouflage skill. I observe it, and even though I do not understand it, I find the part holding it together. Then I pull on that thread, destroying the beautiful structure.
+
+Within my [Eclipse], Lyraen appears, floating half a mile away from Brich and Morwag, with multiple circles made of inscriptions around him and the same number of lightning projectiles ready to cast.
+
+Lyraen shows shock for the shortest moment before he moves again and tries to hide himself, but I know what to look for and pull on that thread again as his skill tries to weave itself together and activate, causing it to fail again.
+
+Two more fast lightning projectiles shoot at me, but expecting that, the small dense segment of black mana I compressed moves in front of me. It’s the largest I can form without it weakening. It blocks the attack, causing more sparks and lashes to burn my skin and even my face as I do not break eye contact with the vyssari in the distance. I don't blink at all.
+
+My Ignition Heart thumps, sending golden threads of thermal energy into the area, striking against the black and white around me. They coil around me, twist, and gradually shift into a pale blue spectrum until the thermal energy becomes mana pulled toward the halo starting to reform over my head to replace the black one I used to power my skill. It spins and grows as more mana continues to fill it.
+
+Feeling hot blood dripping from my ears and from the wound he caused, I block three more fast white lightning projectiles and cancel thirty-seven swift attempts to reactivate his camouflage. Each of them is slightly different as he relies on speed and subtle changes, but I read all of them and pull each one apart faster than the last.
+
+Both Brich and Morwag reach him, Brich by growing some sort of mechanical wings from the back of his armor, and Morwag by simply leaping high into the air. After a few clashes, Lyraen is forced to put some distance between them, while shooting more lightning at them and scarring their bodies even further.
+
+A white flash fills the area, and Lyraen cuts through it like lightning given shape, escaping the area of my [Eclipse]. Having gained enough distance, he stops and reactivates his camouflage without a word. The last thing to fade is his dark expression.
+
+Brich opens his eyes in panic and grabs Morwag in what almost feels like a hug, and both of them teleport. A stream of white lightning pierces the area where they stood, as thick as a tree, jagged and cracking, erasing anything in its way with a sound like a power line snapping apart.
+
+I feel the teleportation heading my way, but I let it happen. Brich appears next to me, along with Morwag, punching him. The lumoran puts his hand on me as well, and I sense him trying to teleport me as well.
+
+I have been preparing another barrier of concentrated black mana, denser and more volatile than before, when Brich shouts, "That pompous jerk isn’t posturing and threatening anymore! It was fun until now, but you don’t want to mess with him when he is like this!"
+
+Something in his voice draws more of my attention to him, and I read his expression.
+
+In the end, I allow him to teleport us all away. I observe the way the item or the marks he has do it. He seems to have placed a mark near me without me noticing because of how dormant it was, masked in a mana signature similar to mine. How shrewd.
+
+We teleport, and my shield made of black mana stays behind. When we reappear, I see a continuous stream of thick white lightning stretching toward it, more than two miles long. That distance is crossed in what feels like the blink of an eye, and the lightning crashes into the black barrier. Sparks and wisps of white lightning ricochet off the surface, twisting and flaring as they meet, each arc bursting into light that rips the air apart with a sharp, violent crack.
+
+Then the lightning fades, and the barrier is still there, albeit cracked.
+
+In quick succession, the second stream of white lightning tears through the air, not toward us but once again at the barrier made of black mana. It destroys it completely, the barrier finally breaking apart into fragments that rain from the air.
+
+Brich teleports us again, and as he does, I pull the items I marked with us, even the low pristine armor. Lyraen tries to stop the teleport and almost succeeds before Brich uses another item, and I step in to help keep it stable.
+
+After a long range teleport, we appear as close to the Megacity as its protections allow, and immediately start rushing toward it.
+
+The hair on the back of my neck stands up, and I form another barrier of black mana, putting it in the path of the next lightning stream, expecting it to hold. This time it fails. The lightning feels different, changed to counter my barrier, and before I can strengthen it with more mana or modify it as well, it pierces through and hits Morwag’s leg, completely erasing it.
+
+For a second, it looks like Morwag wants to stop and fight. I can see it on his excited face, but we drag him through the gate and into the city, kicking and shouting.
+
+Just as we cross the threshold, another lightning strike slams into the ground outside. Then there is a short silence before, in a white flash, Lyraen appears in front of the gate, floating just beyond it. He does not attack anymore. He only looks at us, then at Calvorn, then at the pile of items I teleported here, and finally at me, longer than at anything else.
+
+He says nothing. Then he passes through and floats somewhere into the city.
+
+“Lyraen’s a good fella. Out of all the S ranks, he’s tried to kill me the least,” Brich says with a grin while tapping my shoulder. “But when he gets like this, get the hell away unless you happen to be Nyssa fucking Volare. Well, fine gentlemen, I’ll be going on my way before my pal Morwag decides to tear off my head. I had that happen once, and it is not a pleasant memory. Unfortunately, it timed out with my mind backup, so it is still here,” he taps on his head.
+
+I quickly check all the items, and find everything still there. The lumoran walks away, leaving me and the one legged Morwag behind.
+
+The demon stays quiet, but his emotions are clear in his eyes.
+
+“So, mission completed?” I ask, pushing away the same feelings that try to surface. There will be time for that later.
+
+Morwag looks down at me, then at the pile of items, and finally at his bleeding stump before snorting. “It seems so.”
+
+“Good. Try guessing if I managed to repossess a few things from Brich while he was teleporting us away,” I say.
+
+At that, Morwag gives me a confused look, but I catch the flicker of amusement in his eyes.
+
+He can’t hide it from me.
+
+After that, I look at an interesting mana stone and a brooch-like object I took from Brich. Both are mid-arcane. Considering all the loot currently at my feet, they’re not really all that valuable, but still, they make me happier than anything else here.

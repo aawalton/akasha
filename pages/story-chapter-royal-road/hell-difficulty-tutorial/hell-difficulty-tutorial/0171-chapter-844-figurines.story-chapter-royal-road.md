@@ -1,0 +1,131 @@
+---
+id: 317614e5-270f-5bd5-9d17-c65346aa0143
+page-type-slug: story-chapter-royal-road
+title: "Chapter 844 - Figurines"
+slug: 0171-chapter-844-figurines
+partOf: hell-difficulty-tutorial
+position: 171
+ownLength: 2155
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3712711/chapter-844-figurines"
+royalRoadId: "3712711"
+---
+
+I pull myself higher, and lightning crashes down from the sky, slamming into my body. A few more follow, and, unlike before, I don't even try to redirect them with an orb. Instead, they crash against a thin layer of mana spread out across my skin. The charge still causes my hair to rise up before it settles back down, damp under the rain.
+
+Some of the raindrops contain mana, and some don't. If I try to block them all, my mana drains before I even get close to the peak. So now, I use a large number of small sections that light up in turn as they fend off the strikes.
+
+I thought it would be more difficult, but this is something I can do even with my current capabilities. I think it is Lissandra’s intent to make me use my abilities more efficiently and to push me to realize it.
+
+In a way, it doesn't even feel like training. It's just her throwing me into shitty situations and telling me to deal with it and adapt. Even now, she rarely tells me exactly what I need to do, she just gives me a rough idea and leaves the rest up to me.
+
+Another stone avalanche begins to rain down just as the clouds start to deepen the darkness in the sky, forcing me to rely on mana-based perception more. I know that this avalanche isn't something I’ll be able to avoid, as I have tried it many times before. Instead, I change the fluctuation of the mana on my hand and stab it into the mountain, barely managing to drive it into the rock. Most of my remaining mana flickers across my skin as I brace myself to endure the hits, with my face turned toward the falling rocks to at least partially avoid a few strikes before moving higher.
+
+Then, what feels like ten minutes later, the dark clouds around me begin to thin out, and the gravity weakens to the point that I feel extremely light and fast. The lightning stops, and there is no thunder anymore, and no rain to speak of.
+
+Slowly, sunlight pierces the dark clouds, landing around me and making me realize just how cold I’ve been the entire time. More light passes through, allowing me to see more of the area, and my eyes are pulled toward one place.
+
+What I thought was the summit, what I just managed to climb, is just a small false peak, and a bit further beyond it, I can see another slope beginning. Its surface is reminiscent of the old ruins of a city, covered in vines and fauna that are taking over. The air around it wavers under intense heat, and there are zones that seem like they’ve been covered in poisonous clouds.
+
+There’s probably some metaphor I could quote in this situation, something about there always being a higher mountain to climb, but I just wonder if I fall there, does that mean I’ll remanifest at the bottom of this part or of the first mountain.
+
+It’s a silly question, as the answer should be obvious, knowing the personality of… of… oh, yes, it is Lissandra I’m training with.
+
+Still, I find myself feeling giddy and addicted to this feeling. I’ve learned so much about myself, about all the capabilities I have and haven’t even been using fully. It is, truly, addicting.
+
+But I can't allow myself to get lost in that feeling. Here, I really like that muscular demon’s philosophy of looking down at people who let themselves be controlled by their feelings. He always controls himself, only letting loose when he judges the response to be reasonable.
+
+So I wait for a bit. I bathe in the light and take stock of how much Lissandra’s limited my body this time and take a moment to see what I have to work with.
+
+Then, I move to climb again.
+
+The space surrounding me now is a battlefield, the surface of a planet pocked with craters, some of which are city-sized, while others are much smaller. There are giant animals reminiscent of goats, with spikes growing from their backs and burning fur. Resting against a fallen tower nearby, a similarly gigantic figure rests. A massive iron spear pierces a thylarin's chest, skewering his skyscraper-sized body to the ground.
+
+“One of your memories?” I ask the silver haired woman.
+
+Her eyes stay locked on the place for a while longer before she nods, but she doesn't say anything about it and just continues our training.
+
+“You have told me that you don't intend to strengthen your Empyrean Ichor trait beyond the third stage. Putting aside your delusions regarding getting your hands on fourth-stage strengthening, I want to hear what led you to this decision.”
+
+“Before I answer, are the fourth and fifth stages really that rare?”
+
+“They are. Four possible strengthenings are something that becomes possible for your traits as you become a Champion, and the fifth is for when you become an Absolute, with the fifth being the limit. Then there are the possible evolutions which tend to reset your stages, forcing you to strengthen your trait again. Furthermore, there’s a huge difference in the quality of traits. Some third-stage traits can be stronger than a fifth-stage.”
+
+“So, as always, it’s not simple.”
+
+“Indeed.”
+
+I take my eyes off the huge thylarin’s body and start to speak, “I don't like the idea of delving too deeply into Empyrean Ichor or the lance. I worry that it will influence my primary class and other options too much.”
+
+“And why is that a concern?”
+
+“They all failed or went into hiding. The most powerful of the Empyreans were akin to demigods, with what was likely much purer blood than I will ever have, and even their own divine hearts, yet it didn't seem to count for much. You just see skills, hear of them, someone mentions how powerful the Thaumarch was, and that's it. Even their god is dead. All that remains are fragments, a corpse people like me use.”
+
+“Your way of thinking is very arrogant, little pup. Those you speak of were among the most powerful beings this universe ever birthed. Many would be happy to even reach a fragment of the power they carried.”
+
+“I know.”
+
+“So why?”
+
+My head still feels wobbly as I strain to keep myself together. I feel something akin to a tugging on my mind, threatening to unwind what makes me me. To make me lose myself within it all.
+
+But no matter how thin I spread myself. No matter how many parts of me I see manifested in this space. No matter how many months have passed, how deep this thought acceleration goes, or what Lissandra throws at me. A core that is me blazes in the middle of it all, always gathering all my pieces together again.
+
+The main part of me that makes up my personality and the most important things about me. My focus, my ability to channel, all my effort, and the precious memories and bonds I hold.
+
+“I don't think I could give it my all if I knew it was a road someone else already walked, and that was proven to not be enough. Maybe I could walk that road better, yes, push further than they did, or perhaps I’d have a bit more luck. But I think I’ll do better if I do it my way,” I say.
+
+There is a dead human wearing beautiful blue armor with his eyes wide open as he stares at the sky. No wounds are visible on his body, and I move my hand over his eyelids to close his eyes.
+
+“I will see how the strengthening changes my Mana Physique, and then I will focus on getting it to evolve and make it even stronger until it’s the thing influencing my blood instead of the opposite. Though I'm sure I’ll have to make some things up as I go. And what's your plan?"
+
+Her eyes linger on one body in the distance as she answers, "It’s the sort of thing I’d rather not share, there are beings that could be listening in."
+
+"Even here?"
+
+"Even here," she confirms.
+
+"Usually you wouldn't let them, or wouldn't care. What you’re planning must be truly nasty."
+
+A smile appears on her face as the light dances in her eyes. "Something like that."
+
+This time I have to run. What lies in front of me is a stretch of flat, grassy ground. The sky is blue with not a cloud to be seen, and there is a slight breeze. The gravity is similar to that of the eleventh tutorial floor. There are no trees, no rocks, no buildings, or any obstacles. There isn't even a finish line for me to run toward.
+
+My single objective here is to run as fast as possible. Once I start running, I'm not allowed to drop under a certain level of speed, and that limit continues to increase, forcing me to run faster and faster.
+
+I’ve probably failed a few thousand times already.
+
+As I stand there, I shake my head to keep myself from blanking out after a long period of remanifestation, as my body seems like it's about to sway and fail. The edge of my vision is hazed over, and there are several of my manifested subminds all around me. They’re even talking to me, though it sounds somewhat distant.
+
+When I turn to look at them, they disappear, moving to the edge of my vision, and their voices start sounding in my head, louder and louder. Lissandra also says something that I pick up the meaning of, though I don't hear the exact words.
+
+I open my mouth to say something, but no words come out. So I close my mouth, move my chin a bit, and try to talk again, only for some sort of funny noise to escape instead.
+
+I chuckle and smile. The air is nice, and I take a deep breath just as I feel the breeze pressing against me.
+
+My body begins to lean forward and fall, and I let it happen. My vision clears a little, and mana races through my body. Just when it seems like I'm about to faceplant against the ground, I send another burst through my legs and explode into a run. Immediately, the space around me becomes a blur, and the attacks that were shooting my way before do so again, forcing me to dodge them nimbly while attempting to maintain my speed.
+
+A few hours later. Or maybe it’s a few weeks. Possibly centuries? How would I know?
+
+Around me, there are hundreds of figurines, me and them, standing in what looks to be a beautiful meadow full of flowers with trees standing in the distance. Each of these figurines has its own natural barrier, different from all the others, and requires a different method to pierce.
+
+Some of the figurines are made of wood, others are metal or covered in fabric. Some are even a luxurious kind of dark wood, covered in white fabric, like the sort one would see in a high-end dealer of fancy suits. None of the figurines have a face, and all of them are moving. A few steps here and there, a small circle, waving hands, things like that.
+
+My objective is to locate the one that’s preparing to attack me. That charge of that attack is purposefully hidden, and every time, it’s too powerful to stop. It is at the level of an Absolute, so it is nothing I could disrupt.
+
+But if I hit the figurine a short moment before the attack launches, the attack will be canceled out.
+
+It might be because of boredom, but I have also counted the length of this exercise, though I don't know how much time passed during the other ones. I decided not to count again after this exercise is over. I have a reputation to maintain.
+
+There are 417 figurines. The average number of attacks is currently sitting at 11 per minute. The time between each attack averages 5.45 seconds. The total number of attacks that have caused me to remanifest is 1,568,160. The total seconds that have passed is 8,553,601. The estimated number of flowers in the meadow is about 667,213, and I'm still annoyed by the thought that somehow I haven’t counted them all.
+
+It makes for good training, as it allows me, without any danger, an opportunity to observe and react to the charging of an Absolute level attack. Even if it's not currently useful in any real sense.
+
+I think I’ll fail this one, as it’s just too ridiculous, but I also think I'm okay with it.
+
+10,163,222 seconds later, I succeed.
+
+An unknown amount of time later, a notification jumpscares me.
+
+Congratulations, you have acquired a new skill!

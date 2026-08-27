@@ -1,0 +1,125 @@
+---
+id: 162267be-e12d-5ce9-88e4-5eee5836f38c
+page-type-slug: story-chapter-royal-road
+title: "160. Tossing Tension"
+slug: 0160-160-tossing-tension
+partOf: god-of-trash
+position: 160
+ownLength: 2025
+unit: words
+publishedAt: 2025-08-19
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2531525/160-tossing-tension"
+royalRoadId: "2531525"
+---
+
+The place the woman had led them was in the next city, Anabita. It was an old, decrepit-looking two story tavern at the very edge of what could be considered the city proper, and as she pointed it out, she indicated its sign. The severed head of a wolf was painted on the wooden board in gory, graphic detail. “That’s what you look for. That’s their sign.”
+
+Subtle, it isn’t. Rhys looked at it for a moment, then turned toward the woman. “Are they all that obvious?”
+
+She nodded. “Most of them. Headquarters is a bit more subtle. If we get to the capital, I’ll point it out… but if you look for the wolf’s head, you can still find it. It’s just better hidden there.”
+
+“Understood. You should return. I wouldn’t want you getting caught up in all this,” Rhys said. Now that he knew what to look for, he didn’t need her anymore. She’d only slow him down and get in his way, as a Tier 2 of unknown combat proficiency who needed protection.
+
+She hesitated, then nodded and ran off into the forest. As she vanished, her voice echoed out of the forest: “You know where I am, if you need help finding headquarters.”
+
+Rhys nodded. She seemed pretty convinced that they were subtle about it, but he wasn’t sure how subtle a beheaded wolf’s head could get. If that was really their symbol, it couldn’t be that hidden. A wolf’s whole bloody head wouldn’t fit on a tiny postcard. It wasn’t like it was a subtle glyph that could be carved into any old rock, or a mysterious keyword that could hide away on some sign. It was a giant wolf’s head. Even if they miniaturized it, it was still a wolf’s head.
+
+The capital could be huge, he reasoned. Maybe it’d be worth pulling her back out to point out the building among the thousands of buildings in the city. If he had to look for a single beheaded wolf in New York City, he was pretty sure he’d take weeks before he found the right one. And if it was Tokyo? Forget it. He didn’t know. He shouldn’t poo-poo her offer before he fully understood the context. Maybe he’d need to get home.
+
+The whole Empire, he thought suddenly, looking down on this city. So far, he’d been operating in his home region, the part that the Empire had stolen away from his region. He had a pretty good handle on that. But the whole sprawling expanse of the Empire? That was… enormous. Hard to fathom.
+
+Should I just focus on my home section? But he knew that wasn’t a real solution. The Empire was immense, powerful, and expansionist. If he didn’t want them to turn around and expand right back over his region, he’d have to exterminate them. Claiming back only his home region was a dream, a foolish, naïve fantasy. The only way to ensure safety for his region, himself, his friends, and his future, was to completely rout the Empire, down to the last man.
+
+“That’s a war crime,” he muttered to himself.
+
+“W-what?” Mouse asked.
+
+“Nothing. Just thinking it’s so nice there’s no Geneva anywhere around here,” Rhys said pleasantly. He gestured. “Let’s go check out this base. Maybe send them a message of their own.”
+
+“A message?” Lira asked, disappointment in her voice.
+
+“By which I mean, burn this place down and kill everyone in it,” Rhys replied.
+
+Lira bared her teeth in a grin. “I do like that kind of message.”
+
+“I-isn’t that a b-bit of an overreaction?”
+
+Rhys looked at her. “If it was you, would you consider that an overreaction? Me? Lira?”
+
+“Lira wouldn’t die with bloodless teeth,” Lira murmured peacefully, with a note of admonishment, as though she’d be disappointed if anyone here died without blood on their teeth.
+
+Mouse thought for a moment, then shook her head. “No.”
+
+“I know Leonard is… not someone any of us were too attached to. But the thought keeps going through my head. What if it was one of you? I have to treat it like that. Any less reaction than full nuclear, and what people like them will hear, is ‘you’re allowed to stomp all over us.’ And I have no intention of letting them walk on us, even if we are trash.”
+
+Mouse nodded. After a second, she frowned. “Nuclear?”
+
+“Uh… huge. All-in. Full thrott…full power.”
+
+She nodded. Rhys got the impression that she was making a small note so she could use her new vocabulary later. He coughed, embarrassed, and added, “It’s, uh, slang. Very rude. I probably shouldn’t have used it.”
+
+He didn’t know if anyone else had been isekaied, but if they had, the last thing he wanted to do was advertise his presence in the middle of a lengthy Empire-toppling operation because he happened to use a word that shouldn’t exist here. He’d done plenty of it already, but most of it was so boring it wouldn’t be picked up, or so ridiculous that no one would repeat him, and anyways, no one had ever made notes about the words he used before. Mouse looked so serious that he was worried she’d start using it in casual conversation if he didn’t get in her way.
+
+“Oh!” Mouse blushed. She nodded. “Of course.”
+
+Huh? What did that mean to her? Rhys looked at her for another second, then glanced at the other two. “We’re going in loud. Mouse, you head in through the back. Get any civilians out, and come running if you find someone so strong the situation’s about to get completely out of control. Tier 4 or up.” He wasn’t sure he could beat a high-level Tier 3, but he was willing to try. If a Tier 4 showed up, though, he’d turn tail and vanish. He seriously doubted this criminal gang had multiple Tier 4s to the point they tossed them out in all the random outposts in random cities, but he didn’t know. This was the Empire proper, now, not the part the Empire had captured from his region. For all he knew, the Empire handed out Tier 4s like candy.
+
+Given the Empress’s tight controls on cores, he highly doubted that these criminals would possess copious Tier 4 orbs, but it was always possible. There was no such thing as being too cautious.
+
+Of course, there was also such a thing as losing the initiative, which was why he’d rushed here at top speed, and why he wasn’t waiting for Mouse to scout the place out first. Right now, he had the advantage of speed. They wouldn’t be expecting him to rush headlong into the attack, after they gave him a single head as warning. No reasonable, rational person would rush over to enact revenge this quickly. Unfortunately for the criminals, Rhys was neither reasonable nor rational. He was trash, and he was going to act like it. A swift and brutal vengeance for the criminals felt right, so that was what they got. Revenge was best served cold? Ha! He preferred his dessert hot. If he was the one serving just desserts, they’d better prepare to receive it fresh out of the oven, so hot he couldn’t even ice the revenge cake yet.
+
+“Mmm. Cake,” Rhys muttered. He had access to all the ingredients he needed. He nodded to himself. When he got back, he’d make a revenge cake. It’ll have to be white cake, since I don’t have vanilla or chocolate, but I’ll take it.
+
+Mouse glanced at him, then edged up close. “Are you okay?” she whispered.
+
+“No, but it’s fine. We’re about to go set a building on fire. I hear that goes miles to calm the heart,” Rhys said, beaming at her.
+
+“He’s lost it,” Lira muttered to Sable.
+
+Sable scoffed. “What a mild insanity.”
+
+Rhys glanced at her, furrowing his brows just a little. Sure, he was just being a little manic, not jumping completely off the deep end, but seriously, was he being judged for not being insane enough? What kind of insane standards did Sable have?
+
+Then again, she knew I hadn’t met her father when I didn’t return home mauled, so… She’d definitely had a difficult childhood, to say the least. And then she’d spent her youth around Ernesto, his curse-lovers, and Ernesto’s strange experiments… okay, yeah. If anyone has the right to judge me for not being crazy enough, it’s her…though I’m not sure anyone should be measuring anyone else’s crazy. Crazy isn’t a competition. In fact, good mental health should be everyone’s priority! Except for me. I need that trash.
+
+He gestured for the girls to follow him. There was a building to burn and people to kill, whether he was the most crazy person Sable had ever met or not. He didn’t want to compete with her crazy people-eating dad for maximum crazy, anyways. Crazy wasn’t a dick-measuring competition, and ‘more crazy’ wasn’t the way to win, even if it was.
+
+So why do I feel like I lost?
+
+Mouse ran out ahead of the others without Rhys saying anything, and vanished into the building. She reappeared a second later and gave Rhys a thumbs up. Rhys nodded back. Seemed like there was nothing overly dangerous inside. Operation ‘Burn It All Down’ was a go.
+
+“By the way, do either of you have fire magic?” Rhys asked.
+
+Lira blinked at him from under the comforting drizzle of her raining umbrella.
+
+Did I really just ask a water sprite if she had fire? Rhys cleared his throat. “I mean you, Sable.”
+
+“I can start a fire, but it’s no more impressive than what any mage can do by Tier 1,” she said.
+
+Rhys winced a little. Rub it in, why don’t you? He could start fires, but it took way too long to be practical for a live building-burning session. Fire had never been his strong suit. Honestly, if he admitted that he couldn’t cast a proper firestarting spell, let alone a real fireball, he was kind of worried the girls would cast a vote of no-confidence and throw him out of the leader’s chair.
+
+He recovered a moment later. “Good. I’ll be, uh, too busy fighting, so starting the fire is up to you. Wait until we’re on our way out, of course. Don’t want to have to deal with smoke inhalation while we’re still inside.”
+
+Sable nodded. “I’ll wait for your signal.”
+
+They reached the outer edge of the city and walked along the back of it. This city didn’t have a wall, or even a substantial barrier; it was like they didn’t fear for its protection at all. Probably a reasonable stance for a country where the biggest threat came from a small criminal faction that had to be in with the local officials to maintain its small presence, but it was still a little shocking how easy it was to enter. The tavern was on the city’s edge, as well, likely to facilitate the movement of illicit goods. Mouse pushed open the back door, and the four of them walked inside.
+
+“It was unlocked?” Rhys asked her.
+
+Mouse blushed. “Y-yes?”
+
+He looked at her. “Did you unlock it?”
+
+The blush grew deeper. Mouse shook her head, her eyes hidden as her glasses suddenly went opaque. “I-I don’t know what y-you’re talking about!”
+
+Rhys snorted. You know, I did wonder how come the sewers were connected to the library without any sort of locking mechanism. I guess that answers that. “And you say you aren’t an assassin.”
+
+“I’m not!” Mouse insisted.
+
+They weren’t being quiet. This wasn’t going to be a quiet kind of engagement. As they strode forward, a man in a filthy apron walked out of the kitchen, cleaver in hand. He eyed them up and down. “Customers aren’t allowed in the back.”
+
+“We aren’t customers. Are you a criminal?” Rhys asked him pleasantly.
+
+Cleaver-man’s eyes narrowed. He jumped backward and threw his cleaver at Rhys.
+
+“If you weren’t before, you are now!” Rhys backhanded the knife out of the air and charged, leaping into the kitchen.

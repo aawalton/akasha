@@ -1,0 +1,227 @@
+---
+id: 8d097a87-072a-505f-b76f-7f51f797b589
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20"
+slug: 0020-chapter-20
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 20
+ownLength: 3415
+unit: words
+publishedAt: 2025-11-10
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2749406/chapter-20"
+royalRoadId: "2749406"
+---
+
+Chapter 20
+
+They switched drivers a few hours later, Veron and Silvie joining Reymond in the carriage. The inside was clad in red velvet-like cloth. With all the goods they had loaded into the carriage, there wasn’t much space to sit and it proved difficult to fall asleep. Veron found that he wasn’t particularly tired anyways. Maybe because of the essence or everything he’d seen.
+
+He kept thinking back to the eyes of the Herasar. Two for the tall ones, four for the lithe archers, and three for the rider. The rider especially fascinated him. Veron was almost a little disappointed that he didn't get to see what he could do. He smiled to himself, looking out into the moonlit forests.
+
+Even with a full adventuring team, we would have all died in that fight were it not for the stranger.
+
+It all made him feel intrigued. The fact that even Silvie had no idea who he was, and the fact that they were overwhelmed by the Herasar too. Why were they here? So far south. And why was the stranger here? Where did he go now? How long could he fly for? Where had he gotten that relic?
+
+Was that blood path magic?
+
+Were the Herasar looking for him in the first place?
+
+He yawned, looking out into the darkness. This journey north had turned out far more exciting and dangerous than he would’ve expected. Silvie had been right. Had it not been for the stranger traveling with them and choosing to intervene in the end, they would be dead. He would be dead.
+
+It almost felt silly. To think that a potentially random attack from a bunch of creatures he didn't understand could end this adventure before he even reached a major town.
+
+And yet he was still here.
+
+Veron’s Path had yet to advance but he could feel that it was getting closer.
+
+Veron had felt a lot, in the fight and after, but now that things had calmed down again, he simply felt gratitude. For the adventurers by his side, for the strength of the stranger, and that he got to experience more of this world and its magic. More than anything, he was thankful for Hayden's magic, and for the fact that absorbing essence took care of some of the injuries.
+
+Did you plan for any of this when you sent me here, Envolon?
+
+He thought about the robot being, wondered about its magic. Did the stranger know anything about it? Who was the better mage of the two?
+
+Veron had survived another fight. His Path was slowly getting stronger, and he had a lot more questions to find answers to. And as they were driving through the forest, he wondered what they would find in Perrion and Anvakar.
+
+He absentmindedly shaped a piece of rock in his right hand as the trees moved by.
+
+At least he had learned about one thing.
+
+He glanced over to Silvie. “So, the Silver Wolves?”
+
+Silvie just gave him a tired smile and told him to shut up.
+
+They took a break in the morning, to water the horses and to let them rest for a while. Hayden’s magic would let the horses pull through as far as Veron understood but they’d have to rest for a long while after.
+
+“If we keep going at the same pace, we should reach the outskirts of Perrion by late afternoon,” Reymond said.
+
+“Will there be more Herasar?” Veron asked.
+
+“We don’t know,” Reymond said. “They hunt and kill, and we have killed some of theirs, so there’s certainly an incentive to follow a trail. Let’s hope those were the only ones in the immediate area.”
+
+“We deal with whatever comes up,” Reka said.
+
+They were all tired from the fast pace and the battle on the previous day. Veron remembered what Ivera had told him about monsters looking for easy prey. He hoped nothing too dangerous met them on the rest of their journey. But going by their previous luck, he prepared for the worst.
+
+It was Reka who joined him on the driver seat of the carriage this time around. She looked tired but less exhausted than on the previous day. There were droplets and streaks of dried blood on her armor, some in her hair.
+
+Veron was glad that the sun was out again. They were still in an endless sea of white trees, a river coming from the Teriam range showing itself from time to time as the old road weaved through the forest. No monsters had shown themselves in the night and he was glad they had enough people to take shifts.
+
+“How are you feeling?” Reka asked after a while.
+
+“Tired. Looking forward to a warm bed and some walls between myself and the wilderness. Perrion has walls, right?”
+
+She laughed and looked at him for a long moment. “Perrion has walls, yes. And warm beds too.” She paused. “You know, I wasn't thrilled to have you on. Inexperienced adventurers tend to get in the way more than they help. I've had to learn that the hard way many times. You seemed reasonably excited too and claimed to have fought a Navorok.”
+
+Veron shrugged slightly. “It was heavily injured, but I did fight it.”
+
+“Yeah, I believe you now. I guess I just can't figure you out. You're obviously inexperienced but then you stand by our side and face monster, injury, and death without complaint, without running, and you don't seem shaken either. The first few times I ever saw and killed a monster, it took days for me to no longer check my back.”
+
+Veron was quiet for a while. Was he shaken by any of it? He thought about it, and all he felt was calm. Strange.
+
+I used to be so different.
+
+An adventure. Fighting monsters, advancing his magic. He had thought about the why a lot after his fight with the Navorok. The excitement, his curiosity about magic and this world, the fact that he could steadily increase the power of his Path. And the knowledge that given enough essence and magic available, he could recover even from otherwise lethal injuries.
+
+He had been looking for something when he quit his job and moved to Anaville. Purpose, he supposed, something to explore, some kind of meaning.
+
+Veron looked at the reins in his hands. I was ready for something new. Something I chose, no longer clouded by all that haze of expectations, stress. And fear.
+
+Envolon had offered, but he had already chosen this path when he left Paris.
+
+“I used to be scared a lot,” he said. “With work. With people.”
+
+I hardly went outside anymore.
+
+“You don’t strike me as the fearful type.”
+
+He smiled, thinking back to a particular day. He still remembered the bright lamp in his room, the closed blinds, sitting at the edge of his bed after yet another day at the office. It felt lighter now, barely worth remembering, but he knew how he’d felt. Entirely stuck. Frustrated. Angry.
+
+He wasn’t sure why, but the fear had no longer mattered. Enough was enough.
+
+It’s not like everything changed on that day, but he liked the idea of a narrative. And if his recent life had a narrative, that moment had been important. That’s why he stood and fought. Why he agreed to join Reymond, to go into the wilds with Ivera. Because he had decided and slowly learned to face his fears, to face the now, instead of running.
+
+When had it been, that day? Two years ago now? He wasn’t sure. A lot of things had started to come together, had started to make sense. The start of a journey that had led him here.
+
+It could’ve led him somewhere else, he knew. But he found a golden bird in Anaville.
+
+“That is nice to hear.” He felt the wind on his face, felt it pull and tell of distant lands and forgotten secrets.
+
+“You’re a strange one, Veron,” Reka said. “But I’m glad that Reymond picked you up. Not only because of your help with the Herasar.”
+
+“Me too, and that it was the Silver Wolves that accompanied him.”
+
+She gave him a tired grin. “We were young when we chose the name. Turns out it’s pretty expensive to change after registration, and once you’ve worked for a few years, you don’t want to lose the reputation.”
+
+“Yeah. Well, for what it’s worth, I don’t think it’s that bad. And I meant what I said.”
+
+Reka breathed in deep. “Thanks.”
+
+Veron had a thought then. He’d played with the idea but he hadn’t been sure about it until now.
+
+“I was wondering, after Perrion. You're going to the dungeon in Anvakar, right?”
+
+“We are.”
+
+“I planned to sign up with the Hunter’s Guild and maybe find a group. But after this journey, and fighting by your side, well, I don't suppose you could use another set of hands?”
+
+Reka raised her eyebrows. “A weak Path asking to join our group. You know, anyone else I would have laughed at, maybe would’ve had a quick spar with to teach them a lesson.” She seemed to consider. “Your armor is more effective than I thought, and while you are not particularly strong offensively, I think so far, you did a good job supporting Hayden or Silvie. You've got a good feel to be where you need to be. Yeah. I’ll ask the others, see what they think. Once we’re in Perrion.”
+
+“I appreciate it. For what it's worth, I think I'm close to the next stage too. Just need another Herasar attack or two.”
+
+She gave him a glance. “Keep those jokes for Silvie.”
+
+“Right. It’s one way to deal with the fear. I’ll keep it in mind.”
+
+The hours passed, Veron trying to have a nap in the carriage before he took his second shift of the day driving. The river they had followed joined a larger one coming from the north, the Karrian river. A stone bridge led over the broad current. More roads from the north joined here as well and a worn-down signpost showed various locations, Perrion and Anvakar among them.
+
+No more Herasar had shown up.
+
+The forest soon started thinning, bushes and wild grasses taking up more of the vegetation. Veron leaned forward when they passed over a hill, a broad landscape expanding before him. Hills and patches of trees with mountains to the south, the jagged peaks of the high reaching Teriam range barely visible in the gray weather. And straight ahead, the Terrom lake spread far and wide, looking like an ocean.
+
+A few hours away still, he could see the broad river passing between the dark stone walls and buildings of Perrion, sails of ships visible that still looked tiny in the distance. It looked like a cold and dreary place, dark stone and few lights all that he saw. Smoke was rising from the harbor town and an icy wind flowed up the hills to welcome them.
+
+“Reka, smoke rising from Perrion!” Silvie called out from next to him.
+
+Reka looked out from one of the carriage windows. “They may have been under attack. Shouldn't be enough to be concerning. We keep going.”
+
+Silvie nodded and motioned the horses to go on. “A beautiful sight, isn’t it?”
+
+Veron glanced at her.
+
+“Wait until we get close enough for the smell.”
+
+Veron gave her a smile. If he was honest, he was looking forward to the smell. If it meant a comfortable bed and no more monsters, at least for a while.
+
+Seeing their destination on the horizon entirely changed the attitude of the group. Excitement and anticipation replacing tiredness and caution. Hayden reminded them to stay vigilant when himself and Reka took over for the rest of the drive. They did to an extent but with far fewer trees around, it would be a lot more difficult to execute an ambush.
+
+Soon, Veron could hear bells tolling from the city. He looked out from the carriage window, seeing the near ten meter high walls of black stone. Several plumes of dark smoke rose from beyond, a few riders visible on the broad road leading to the high city gate. There was a larger gate some few hundred meters to the right where the river flowed into the city, extending to the very top of the walls to allow ships to pass. The landscape around them was wet earth and jagged rocks. He could see a few buildings outside the walls, farms, he assumed, but he saw no animals or people there.
+
+They reached the city gate some few minutes later, only one of the large wooden doors open. Veron spotted the beginning of iron grates above, suggesting that those could be lowered too. It smelled of earth and fire.
+
+Various men and women clad in studded leather armor or padded gambesons stood around talking, most of them armed with a variety of weapons. A few of them came towards the wagon when they had stopped, Reymond sighing to himself before he exited. “Let's hope they're not too on edge. I'll handle the talking, you try and protect my wares.”
+
+Veron followed the others out, the Silver Wolves glancing at the guards. There was some tension that he felt but it wasn't particularly surprising with their long journey and the recent attack. And if Perrion had been attacked too, he could imagine they were cautious too.
+
+He stood next to Silvie and watched Reymond talk to the guards, seeing now that all of them had at least some dark green color stitched onto or simply part of their armor. After a while, the conversation seemed to become lighter and the main guard even laughed a few times. Reymond returned with a smile on his face that quickly waned. “Everyone back inside, we can enter. I'll take care of your fees.”
+
+“What news of the attacks?” Reka asked.
+
+“Herasar. Hunting parties like the one we encountered, some of them came from the harbor. They caused some chaos in the city for the past week but things are supposedly under control. There is word of more Herasar on the roads to the north.”
+
+So we just happened to run into one of those parties?
+
+The second door was opened and slowly, they drove inside, past the waiting guards and the several meter thick walls. From the dirt road to cobblestone. Veron wondered why the guards hadn't checked the carriage and he wondered why they used cobblestone when Earth Paths could surely make the roads entirely smooth like concrete.
+
+It was warmer inside the walls and joining the smell of fire were those of sweat, shit, damp, and food. The latter was a welcome addition and he felt his stomach rumble, letting go of the vigilance he’d kept up as half the city gates were shut again behind them. Plenty of passing people gave the carriage a glance, many of them wearing simple linen clothes, sweat, soot, and dirt covering their faces. Others wore fine clothing, clean faces, and even makeup.
+
+There were plenty of adventurer-looking people too, their clothing and armor differing greatly in both colors and design. Veron even saw a few sets of scale armor. The quality of the gear seemed to correspond directly with the tension and fear he could see on their faces. Many of the adventurers seemed hardly aware that anything was amiss, at most annoyed about the herds of pigs blocking parts of the streets, likely evacuated into the city.
+
+They stopped at the edges of a busy market square, in front of a gated townhouse built from the same bleak dark stone that seemed to make up most of the city.
+
+“Finally,” Silvie said and opened the carriage door, stretching and looking around with a smile on her face.
+
+“We move the wares first,” Reka said as she joined the woman. “Veron and Hayden stay to protect the carriage while we check in.”
+
+“You take the other side. Make sure to sometimes check below and above as well. Thieves can be very creative,” Hayden told him, taking his warhammer into both hands and closing the carriage door behind him.
+
+Veron gave the man a nod and got into position, spear in hand and his repaired shield in the other. There was some blood still on his gear, though he’d at least repaired all of the damage by now.
+
+Being to the left of the carriage gave him a good view of the townhouse. It had a tiled roof where many others nearby simply had flat stone roofs. Most of the buildings looked to have been exposed to rain for at least a few centuries.
+
+I'm pretty sure I could fix up a lot of these buildings. Maybe nobody wants to pay for that or having a cleaner look will make one a target? Though I’m not sure how well I’d be able to fix wear on the existing stone, seeing how I can’t even get blood off my armor.
+
+He could also imagine that signs of age might lend a certain amount of prestige to whatever establishments were housed in the buildings but his first interpretations felt more likely. Perrion seemed busy but not particularly rich or comfortable. There were a few stone steps leading up to a heavy wooden door on the townhouse, a sign above depicting the head of a ram or a similar animal with letters spelling out Parr’s Lodgings.
+
+Veron occasionally checked below and above the carriage, inside too. With magic at their disposal, he couldn't even begin to imagine what kind of tactics people employed to steal. He looked at the inn and wondered if he could slowly break in through the stone walls given enough time. Maybe Earth Paths aren't welcome or trusted if they can do that? Yeah, I can imagine all kinds of issues. With other magics too. Can't imagine people would be thrilled to have Fire Paths around either. Except maybe during the winter.
+
+Veron wondered how many things were done with the help of enchanted items and where people needed actual mages.
+
+The others returned soon and informed them where to go. They moved the carriage behind the townhouse and brought all the wares into a cellar.
+
+Veron looked at the iron bars in the small windows. “Is there anything else here that prevents people from entering?”
+
+Reymond gave him a slight smile. “Steel grates within the walls. You’d need some Faen magic or relics to get in here without a lot of noise.”
+
+“I heard about metal harmonies too,” Hayden said.
+
+“Bunch of hogwash. Never seen one in my time,” Reymond said. “There’s a reason people have used steel to protect things for as long as history’s been written down.”
+
+“That’s the last one,” Reka said and set the crate down.
+
+“Finally, we can go sleep,” Silvie said with a yawn.
+
+“We share a room, Silvie. Hayden, you share one with Veron. We grab food first, it should be ready in a few minutes.”
+
+“Who’s paying?” Silvie asked.
+
+“I am,” Reymond answered. “And I’d like to discuss your continued employment when we’ve all gotten a good night’s rest.” He gave Veron a slight nod. “And we’ll talk about your payment too.” He ran a hand through his gray hair and sighed. “Lost two wagons, good horses too. But we’ve made it out without deaths,” he grumbled and went upstairs. “Good job out there. Roads’ not what they used to be.”
+
+Veron looked at the crates and then out through one of the small windows, then followed the others upstairs, Reka locking the cellar behind him.
+
+He shivered when he entered the main hall. It was warm, a fire burning in the hearth, lanterns adding to the warm glow illuminating the room. It smelled of spices and potatoes. Silvie already made for the bar while Hayden went to one of the empty tables. There were a few patrons drinking or having dinner, everyone reasonably well dressed and clean. A few people were armed but Veron and his companions were the only group still in their armor.
+
+Veron glanced at the hearth and raised his eyebrows. There was no wood burning inside. In fact, he couldn’t see anything that was burning at all. Just a fire.
+
+“Pretty nice place, this one,” Reka said as she passed him.
+
+He agreed. It was almost as nice as Warren’s.

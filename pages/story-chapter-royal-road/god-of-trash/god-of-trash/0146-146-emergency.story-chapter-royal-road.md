@@ -1,0 +1,69 @@
+---
+id: 9ecd8d46-73ae-59c7-a3d6-5fc7fb60fa9f
+page-type-slug: story-chapter-royal-road
+title: "146. Emergency"
+slug: 0146-146-emergency
+partOf: god-of-trash
+position: 146
+ownLength: 2307
+unit: words
+publishedAt: 2025-07-30
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2479462/146-emergency"
+royalRoadId: "2479462"
+---
+
+Rhys hovered in his core, contemplating the void. He thought he had a good enough comprehension of it to manipulate it, but that clearly wasn’t the case, when it refused to so much as come when he called. He didn’t understand it at all, or maybe, his understanding was so mistaken that he couldn’t correctly call it.
+
+The void was a space that held garbage, and it had been thrown away by the Empire, at least, so it should qualify as garbage or garbage-related, in Rhys’s opinion. Still, the fact that something was trash-related didn’t equate to him instantly having genius-level comprehension in it, and while he didn’t think he’d have to work twice as hard for half the result, he at least had to expend ordinary effort to understand it, or perhaps even something beyond ordinary effort, since the void seemed only tangentially related to trash, but still; it was close enough to qualify as trash, so he wasn’t throwing his effort into an infinite hole, like he did when he tried to learn fireballs. This was a route worth pursuing, and he was confident that he could succeed, but it wouldn’t be easy, or quick.
+
+Still, the end result was a can that could instantly warp trash to Rhys at any point, even during battle or when he desperately needed trash, so it was worth his effort. He focused on the void while recalling the words of the book at the same time. He still hadn’t fully comprehended the book, or to be honest, made much progress on the book, but it seemed worthwhile to attempt understanding it while considering the void at the same time.
+
+Time passed. Rhys sat before his basket, immersed in his contemplation. The words from the book whirled before his eyes; he’d memorized them long ago, with how many times he’d read it. At the same time, the void stood before him. It wasn’t much to look at, just an empty, hollow hole in space. It didn’t whirl or swirl. If he didn’t stare at it, it slipped out of his sight, vanishing into a wrinkle in space once more. If he stared at it too much, it closed in on him, threatening to overwhelm him. He had to look at it without looking at it, which was an exercise in of itself without also thinking about the book, but he insisted on keeping the book in his mind at the same time. There was something to that. Something kept shivering at the back of his mind when he recalled the book’s words and gazed into the void. The two slowly overlapped, like when he crossed his eyes and started to see two images at once, but in reverse, the two comprehensions slowly merging back into one. What he’d thought was nonsense wasn’t nonsense, not before the void. There was a truth to it, a strange echoing truth that only existed in his mind in those brief moments where he held both the book and the void in his perception at the same time. The nonsense began to make sense. The void began to unravel into truth.
+
+A kind of understanding came to him, vague and fuzzy though it was. The void was everywhere, and nowhere. It was everything and nothing. Connected and disconnected. It existed without and within, was a part of the world and completely apart from it. Defining it was impossible, because it was a thing that defied definition, yet it could be defined by its defiance. It was emptiness. It was a lack, not a thing. Trying to hold it wasn’t like trying to hold sand, it was like trying to hold the absence of sand; like trying to cup your hand and insert it into a bucket of sand, letting the sand completely cover your palm, then pull your hand out without taking a single grain of sand with it. Like trying to put your hand in water without getting wet.
+
+Yeah, that’s definitely the cleaner analogy of those two, Rhys thought, chuckling at himself. Either way, the problem remained the same: how did he take ‘nothing’ and attach it to ‘something?’ There wasn’t anything to attach to anything else. Or rather, the basket was sitting there just fine; it was the void that was the problem. Knitting something to nothing was a tall order, and the more he considered it, the harder it seemed to become. If he wanted to knit water to the basket, that would’ve been difficult enough, but to knit the idea of a dry hand underwater to a basket? The absence of not just water—water would’ve been easy enough, he could’ve just waterproofed it—but everything, to knit that sensation into an object… he was starting to wonder if such a thing was even possible. It’s magic. Magic can do anything, he told himself, but this particular kind of magic needed him to understand how to do the anything first, and since he didn’t understand, he couldn’t do it.
+
+Maybe that’s what lessons and tomes do for other people, Rhys realized at last. There were no lessons and no tomes for trash-magic. No one had bothered to put them together, for some reason, and his talent was so trash at non-trash magic that he couldn’t utilize base tomes or lessons the way other people could, but if he wasn’t trash-talent at non-trash magic, then probably, tomes and lessons would explain the understanding part of magic to him, and he wouldn’t have to comprehend it all on his own.
+
+Retreating from his mental space, he drew out the red tome and looked it over again. Was that what this was supposed to do? Read this tome and understand the void, thanks to what it said? He snorted, putting it back away. It felt like the tome had actively made his understanding worse, since he was struggling to figure out how it fit into what he understood the void to be, except that the void made so much more sense when he thought about the tome at the same time, so he couldn’t abandon it. He sighed aloud. Probably the fact that the tome did an absolute trash job at explaining the void only made it better for him, not worse, but it didn’t help him emotionally. It was still frustrating as hell.
+
+“Rhys? Are you—oh, I’m so sorry.”
+
+Rhys glanced over his shoulder. Korii stood there, looking aghast to have interrupted him in the middle of comprehending a topic. It was a rude thing to do, generally, but Rhys didn’t care much about politeness among mages, and it wasn’t like he’d announced he was going to wander off to study the void, so she wasn’t in the wrong at all. Plus, if she’d come here looking for him, it was probably important. In fact, it was probably about the whole reason he was out here, focusing on the void rather than cooking: because he’d needed a distraction from worrying about Mouse and Lira’s quest. It was probably fine. There was no reason to be worried. Mouse was the stealthiest mage he’d ever met. But he knew nothing about their enemy’s strength at their hideout, and he felt guilty for not going himself, so he couldn’t help but worry. He knew his decision made sense. Someone had to protect their home base, so the Water Syndicate couldn’t take it down while he was out scouting the Water Syndicate, and between scouting and protecting the home base, protecting the home base was far more important. What he worried about, was that the Water Syndicate had the same priorities, and their base was consequently full of Tier 3 mages while the weak Tier 2s got sent out to attack him.
+
+It was possible. Unlikely, especially in the Empire, but possible. After all, his tavern was only a small holding. If the Water Syndicate was small, then they were throwing their whole manpower against him to overturn his small holding, which would be a significant portion of their value. If they were big, on the other hand, and this was an insignificant holding which they were putting insignificant strength against—
+
+Rhys shook his head. They’d been sending their children. Surely that meant something.
+
+Logan definitely didn’t mean anything.
+
+He had to stop catastrophizing before he actually heard what news Korii had come with. Maybe she’d just come to ask him where the next vat of oil was. As long as he sat here, thinking about a thousand things and also nothing, he’d never find out. So instead, he smiled and stood.
+
+“No, no. I was just getting frustrated and I needed a break. You’re a welcome distraction. What is it?”
+
+Korii stepped aside. At first, Rhys didn’t understand why, but then he blinked, and Mouse was there. She’d always been there, he realized suddenly; he just hadn’t been perceiving her.
+
+“Oh! You’re back. How’d it go?” Relief flooded his system. Rhys looked around. “Where’s Lira?”
+
+Mouse’s face crumpled, and Rhys’s heart plunged. He stepped forward, feeling the need to do something, anything, though he didn’t know what. “No.”
+
+Mouse held her hand up, choking back tears. “She’s—she’s alive, probably. She bluffed, and I think they—” She took a deep breath. “She’s alive. Last I saw, she’s alive. She got captured.”
+
+“What happened? Specifically. In detail,” Rhys clarified.
+
+Mouse took a deep breath, then began. Rhys listened closely, frowning at parts, like where she described how strong the figure felt, or how suspicious they were of people poking around their edges. They were powerful and vigilant. Large? Small? He’d been considering the children the way he’d consider a mortal family’s mortal children, but that wasn’t right. These were mages. They’d been alive for hundreds of years, potentially. They could easily have dozens, and with a little work, hundreds of children. It was a horrifying concept to him, as someone who didn’t like children and had never wanted to have them, but he was sure there were people to whom that proposition sounded amazing. Probably sex-havers.
+
+…Which wasn’t the point. The point was, he’d thought he was killing five-of-maybe-at-most-ten children. He could have instead killed five-of-five-hundred children. That was a staggering difference in scale, and something he hadn’t taken into account at all. He doubted that they had five hundred children, but still. True, Logan had said he had three more brothers, which should mean one more after Larry and Leonard, but who knew? Maybe he had three brothers and seventy-two sisters. Maybe he was lying. Maybe he had three full-blooded siblings and five hundred half-blooded siblings, or maybe he was thinking too small for the Water Syndicate, and the ’single pair of parents’ he’d been assuming this whole time (for no damn reason, a little voice whispered in his ear) was actually one man and his giant harem, or a dozen pairs of adult siblings and their children, or a multi-generational family with lots of aunts and uncles and one grandparent set of patriarchs over all of them, such that Logan could truly only have three more siblings, and yet still belong to a huge, sprawling Water Syndicate.
+
+Now that I’m thinking, that kind of makes the most sense, if it’s a huge family divided into areas-slash-segments. Then the Water Syndicate could be small enough to invest significant effort against Rhys’s little snack shack (the local crime family, headed by the L-brothers’ parents), yet large enough to involve a large overall territory and powerful mages who had no right being bothered by a small-scale takeover of a single tavern.
+
+What had those thugs said? “The Waters family lead the most powerful crime syndicate in this area.” The most powerful. If it was just one family and their semi-competent Tier 2 siblings, then that made no sense at all. If it was many branches of one large multigenerational family, and this was merely one semi-competent branch of it, then that painted a very different picture.
+
+Rhys licked his lips, trepidatious, and yet also excited. He’d bitten off a lot. Was it more than he could chew? Or had he simply taken on the fastest way to accelerate his plan to rot the Empire from within with trash? If this went well, then he would have made incredible advancements in his ultimate plan.
+
+His excitement was tempered by Lira’s situation. He narrowed his eyes. First, he had to get Lira back. Then… then, the rest of the Waters Syndicate. If he couldn’t take them over, then maybe he could negotiate. And who knew? He wasn’t going to rest on his laurels. He intended to continue growing stronger and stronger, until he could overcome everything. Why not use this Syndicate to initiate his ability to grow stronger?
+
+I’d like my core back before I make a significant advancement… Rhys’s thoughts trailed off. He looked down at the trash star within him. Did he? Was that his route? Did he need a core at all? If he had formed his own version of a core, according to his path, was that not superior to the trash-tier core he’d been born with? The System… didn’t seem to mind? As long as he had a core and some magic, it didn’t protest the source of it. In fact, getting hung up on the core at all was all on his part, and nothing from the System side. Hadn’t Lira said, too, that her internal construction was so different that the Empress couldn’t remove her core? Maybe it was very human of him to care at all. And if the Empress could remove cores but not non-cores, wasn’t his trash star a distinct advantage?
+
+None of that mattered. Not right now. Rhys dusted off his shoulders. “I’m headed to the base. Mouse, you and Sable guard the tavern. I’m going to get Lira back.”

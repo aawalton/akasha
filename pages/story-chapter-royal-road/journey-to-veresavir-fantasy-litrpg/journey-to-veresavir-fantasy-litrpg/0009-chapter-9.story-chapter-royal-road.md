@@ -1,0 +1,251 @@
+---
+id: 86239194-1aa8-5302-a4fe-6e6bd252a011
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9"
+slug: 0009-chapter-9
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 9
+ownLength: 3270
+unit: words
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2704366/chapter-9"
+royalRoadId: "2704366"
+---
+
+Chapter 9
+
+Veron first took off his armor and then went for a bath in the river. He shivered and stretched when he got out and then got dressed. A hearty stew was waiting for them in the large living room of the Holts.
+
+“I'm glad you survived your first day,” Aren said. “I was a little worried she wanted to get rid of you,” he whispered and patted his back.
+
+“I can't tell if you're joking,” Veron answered in a dry tone.
+
+Aren only gave him a smile and went to sit.
+
+“Did you fight anything?” Ian asked.
+
+“I did. It was crazy, let me tell you,” Veron said and leaned in towards the teen.
+
+He didn't miss a detail, occasionally even getting a smile out of Ivera with one of his comments about her. Done with dinner and cleaning up, he went into the garden and found Ian leaning against the stone wall and looking out into the darkening forest.
+
+“How are you doing?” Veron asked as he approached. He turned around and jumped up to sit on the wall.
+
+Ian gave him a look before he returned his attention to the forest. “I don't know. It's good that you survived. I guess.”
+
+Veron smiled to himself and relaxed. He looked at the family home and understood why Ivera did what she did every day. It was a good place to return to. Maybe one day, he would have a place like this too.
+
+“I was both happy and annoyed that you left with her. But I don't know. I was worried that something would happen. It's very risky, going out there, fighting monsters. Isn't it?”
+
+“I suppose it is,” Veron said.
+
+“I thought about it too. Being an adventurer and all that. I'm not sure anymore but it's annoying. I knew what I wanted before and now I'm not sure anymore.”
+
+Veron tapped the teen's shoulder with his fist. “You know that you're not sure. That's the first step to knowing what you want.” He was amused with the teen’s groan that came in response. “Besides, there's no rush, is there?”
+
+“I suppose there isn't,” Ian said after a while. “Did you really fight a chaos beast?”
+
+Veron looked into the teen's eyes. “You don't think I could do it?”
+
+Ian blushed slightly. “That's not what I meant. It's just... you're just, some guy. Not a grand warrior with awesome armor... I mean your armor is great and all.”
+
+Veron laughed. “Ian, every warrior, grand wizard, and king is just some guy. I guess that makes it even more impressive what some of them have accomplished.”
+
+“But you don't just become King. They have families and all that, a lot of gold too.”
+
+“Yeah, that's true. Maybe it would be really difficult for me to become a King but a few months ago, I didn't know magic existed, let alone how to wield a spear or milk a Greyr, and now look at me. Who knows, maybe I'll become an Emperor in a year or two.”
+
+Ian looked at him with shock and then he burst out laughing. Veron joined in.
+
+“Emperor Guy, ruler of the people. I can see it,” Veron said.
+
+Ian shook his head. “I really can't. Maybe you could become a proper farmer in a decade or two. I might give you that.”
+
+“Yeah, maybe. Though I did have quite a lot of fun today.”
+
+“You were bitten by a monster.”
+
+“Exactly. Haven't felt this excited since my first kiss.”
+
+The injury still itched slightly but he was surprised by how well it had healed already. He wondered how much of it was the cream and how much was the essence.
+
+Ian averted his eyes.
+
+“What about your first kiss? Brave adventurer. Hello? I know you can hear me.”
+
+“There's no girls here,” Ian whispered. “Only adventurers and Tenya, and she's weird.”
+
+“Well, some guy fought a monster today. Who's to say you can't kiss an adventurer? I wonder how Ivera met Aren.”
+
+“That's gross! Don't talk about them like that, I'm going to sleep,” Ian said. He gave Veron a look and then left.
+
+Veron watched the teen leave and then looked up at the emerging stars. He really is a good kid.
+
+Though I do wonder how they met. Did she just pass through or does Aren have a mysterious past as well?
+
+“You should go to sleep. Leaving at the same time tomorrow, if you will join again,” Ivera said from one of the windows before she closed the shutters.
+
+Right. Maybe my goal right now should be to get strong enough not to have to rely on a morning person for my continued access to adventuring.
+
+He glanced back at the forest, wondering how it felt out there at night, and then he went to bed. He fell asleep quickly and dreamt of black snakes buried between roots.
+
+Veron joined Ivera on her patrol again. The sky was overcast with gray clouds, light rain pattering on the leaves above. They didn't fight any chaos beasts that day but found a group of Welfur after following a trail. They were wolflike creatures with fur ranging from deep green colors to dark brown and even black, some of their eyes a pale blue while others showed an almost glowing red. Their sizes differed too, some as large as a fox and others closer to the size of a wolf back on earth.
+
+They had hunted down and killed their prey, feasting on the large antlered creature that Ivera later described as a Virya, a white furred elk.
+
+Their two groups had a short standoff, the Welfur growling as they defended their catch. Ivera slowly disengaged, talking quietly to Veron as they retreated away from the predators.
+
+The Welfur hunted in groups, mostly avoided humans and their settlements, and were a good way to keep more troublesome creatures out of one's territory. The males were usually elemental paths with minor wind or earth aspects while the females tended to be blood paths and the more dangerous fighters amongst the species. When he asked more about their behaviors and history, Ivera told him to go study at the Academy.
+
+The Virya was a rare devotion path creature that some groups even considered to be sacred or some type of omen. Ivera on the other hand saw the situation they had encountered as proof that the Virya was just another beast.
+
+The next day, the rain was worse and they didn't come across a single animal. The day after, it poured so much that Ivera decided they would stay home.
+
+On his fourth time out, Veron killed his second beast. A large bird of prey which Ivera couldn't name. They did assume the birds that attacked them were chaos beasts based on their reckless behavior and the blood and injuries their bodies already showed.
+
+It was a quick fight, Veron’s helmet protecting him from the talons before he managed to grab on to the fluttering creature, wrestling it down and killing it with several frantic blows of his shield. He didn't see how Ivera killed the bird that attacked her but he was sure it was a lot less messy than his fight.
+
+The next week passed like this, Veron slowly getting to know the forest around Eyra, learning about some creatures to avoid and others to look out for. He slightly adjusted his armor to make it a little lighter, removing some protection from his chest, thighs, and back to instead add a little more to his neck, arms, and calves. The repairs were quite smooth as well, he sometimes even did them on the fly. His spear and shield went through a few iterations too but in the end, they looked quite similar to how they did at the start.
+
+Ivera taught him some basics about hunting and skinning, and in the evenings, she showed him a few stars and constellations to help him navigate. The Southern Twins, which were the brightest, the Drunken Sailor consisting of seven close stars that Veron felt in no way resembled a drunken sailor, and the White Rose. There were more but Ivera suggested that if you couldn't find your way back with those three, you were fucked anyway.
+
+After his first full week of going into the wilderness, Veron took a break to finally help Warren with the repairs he had mentioned. The rain had finally stopped and the sky had opened up, large clouds still clinging to the distant hills and mountains.
+
+Secured with a rope around the chimney of the Downwater Inn, Veron stood on the roof of the large building with a sack of rocks strapped to his belt. Tenya, the waitress of the establishment was there with him, pointing out sections that needed repairs.
+
+He waited as she scanned the roof facing the river with her green eyes, moving over the tiles with quiet and lithe steps.
+
+“You've been on roofs often?” he asked.
+
+She gave him a glance and grinned slightly. “Now wouldn't you want to know that, farm boy. Yourself? I had expected you to damage as many tiles as you would repair. Found another one,” she said and crouched slightly, leaning into the rope around her midsection, trusting it completely.
+
+He smiled at that and followed her, careful with every step. He was bigger than her and his shoes weren't exactly made for the occasion. “I've tried myself at climbing, but I've never been on a tile roof. Seems a little dangerous, even with the rope.” He saw the damaged section, grabbing a rag and cleaning it out as well as he could before he took a handful of rocks and focused, smoothing them into this section as if he was applying cement. It felt easy with his Harmony now at Beginner III, the delicate repairs and adjustments to his gear having pushed him to the next rank.
+
+His main problem was lack of Focus. And to solve that, he had to advance his Path, which meant more creatures fought and their essence absorbed. Or he could work and buy it, but he got the feeling that it would be much slower that way.
+
+“Dangerous? Don't you go out into the forest now? I saw you leave with Ivera,” Tenya said, a teasing smile on her face. “A proper adventurer now.”
+
+“No need to make fun of me. I know I'm hardly an adventurer but I'm trying to learn,” he said and finished the section.
+
+“You're no fun. Inexperienced adventurers are usually so easy to rile up,” she mused. “So proud of their little achievements, jobs, and weapons. Have you killed anything interesting?”
+
+“A few things, yes. Am I boring you?”
+
+She rolled her eyes. “How could you ever think that? You are so interesting after all, up here on the roof, fixing tiles. What could be more interesting, I ask?” she said in a dry tone.
+
+Veron laughed. “You're fun. Sorry for being an old man. Any more sections?”
+
+“A few. You can't be much older than me though, you're just acting old.”
+
+“I'm past 30.”
+
+She made a disgusted face. “Wow.”
+
+“Yeah.” He refrained from telling her about the benefits, about feeling more settled in himself, calmer. About how he didn't think every little thing was black and white anymore, about seeing and appreciating more subtle things instead of chasing the next high. Some older people he respected had told him the same things when he was younger and he had thought them boring and decrepit. Some things had to be experienced to be truly understood. A secondhand account just wasn't enough.
+
+But then again, I did jump into a pond to find out what all this was about.
+
+“If you're that old, how come you ended up here? And becoming an adventurer at that age? That seems a bit unwise. Your bones must be weaker, and I hear that backs start to deteriorate early.”
+
+“Maybe I'll tell you, if you tell me about your experience with roofing.”
+
+She gave him a sly look and seemed to consider. “How did you convince them? To take you in, I mean. You don't just work there, you show up, and a few days later you eat at their table, work on their farm. And now that weird fucking monster is taking you out into the forest, to teach you?”
+
+Is she envious? Or what's going on here?
+
+He gave it some thought and answered honestly. “I think while it's strange that I came here, I must have seemed so utterly unthreatening and inexperienced that they felt I wasn't a danger. But more so, it has to do with Ian. He wants to move into the big world and I think they felt it would do him well to work with me, help me get a hang of things. A responsibility I suppose. Have you chatted much with him? I've not seen you by the farm.”
+
+She waved him off. “So you were lucky. Figures. And no, Ivera doesn't want me anywhere close to their little sanctuary. And the boy is even more boring than you are. He grew up here, you know? Farming, shooting his bow, being utterly boring.”
+
+Ah, I see. I guess that makes sense.
+
+“Suppose you didn't grow up in a little sanctuary?”
+
+Her mouth became a thin line.
+
+“I'm interested. What's your story? Grew up in a city? Parents, no parents?”
+
+“None to be worth mentioning. In the big shithole that is Anvakar. No major story, got the work that I could get, the skills I could afford to work on, and then I left.”
+
+“Sounds like a pretty interesting story. I'd like to hear more of it someday.” She had shared a lot already and he could tell she wasn't eager to go into details. “My turn then. I wasn't happy anymore with my old work. Pushed so much and tried to achieve and get the things everyone tells you to work towards. But then I realized that wasn’t really what I myself really wanted. Having an adventure seemed like a pretty good idea by then.”
+
+“You had stability? Well-paying work you didn't hate? Pretty stupid to throw all that away to go fight monsters in the wilderness.”
+
+“Yeah, maybe you're right. I suppose I did give up a lot of things but you know what, it felt right. And it still does.”
+
+She grunted but didn’t add anything.
+
+He fixed another tile.
+
+“Where do you think I will learn more about adventuring, Anvakar or Leiveen?”
+
+“As much as I hate the smelling shit streets of the asshole of the world, they'll have a lot more jobs for someone like you. I'm just not sure you're cut out to survive there, no offense.”
+
+He didn't comment on it. He would find out in time. “And Leiveen?”
+
+“As an adventurer? No. They'll refuse you just based on being at such a weak level. Fuckers have money, money to pay for real interesting work, interesting work for high level adventurers, those with proper gear, relics, flaming swords and the like, you know? Maybe you could become a mason or something. Pretty nice path and harmony you have, easy to get low stakes work with that.”
+
+“Yeah. What about you? I don't suppose you're a devotion path waitress?”
+
+She gave him a slight grin. “Why wouldn't I be? Being a waitress is so fun after all. I do a whole lot more too for Warren, you know?”
+
+“Like roofing?”
+
+She laughed. “Nothing wrong with roofing. Honest work, pretty dangerous too. Saw a guy fall to his death once. I guess I'm not sure if he was really a roofer. But he was on a roof.”
+
+“Not sure what else you would do on a roof,” Veron said.
+
+“Nothing improper, I'm sure.”
+
+“Ah I see.”
+
+“What do you see exactly?”
+
+“Who knows. Come on, let's finish the rest. We’re the only two roofers in the area after all.”
+
+“You're a weird one, Veron.”
+
+Weird?
+
+He definitely liked people who were unconventional, different. People with an edge.
+
+And he got the feeling that she did too.
+
+Veron looked at the distant clouds. He took a moment to breathe in deep and enjoy the sights, and then he got back to roofing.
+
+They were done shortly after, the two of them helping each other down to the ladder. Tenya went to inform Warren that the roof was done. “Good to see you, Veron. Until next time.”
+
+“Same to you, Tenya.” He enjoyed the sun whilst sitting out on the terrace, the first sun in what felt like a week.
+
+Warren joined him a few minutes later. “Ale, tea, or some water?”
+
+“Tea would be nice. Something herbal. Can I have it cold?”
+
+“Of course.” Warren left and a few minutes later returned with a dark metal teapot. There were strange runes engraved into the metal. He had two teacups as well. “It will take a while. Waygrass and Lirren. First to boil it up and then to cool down.”
+
+“The pot can do all of that? Enchantments?”
+
+“Indeed. Two separate metal plates inside. Quite intricate and far more expensive than just getting two single pots. Cuts down on time and space though, and I really liked the design when I found it. I enjoy tools with multiple functions.” He paused and gave Veron a long look. “This is the second time you've remarked on enchantments I have at the inn.”
+
+“I'm just fascinated with them. Time and time again. I guess to most people it would be mundane after a while but I do think it's crazy we can just use magic to heat something up or cool it down.”
+
+He wasn't exactly being misleading either. Even back on Earth, he often considered electrical power, cars, or the Internet actual magic. Whenever he mentioned his fascination, people at the office would give him strange looks. Maybe he should have just gotten into engineering or IT.
+
+Warren gave him a smile. “I feel the exact same way. One of the only reasons I regret coming here. It's difficult to find new interesting things. Thank you for the repairs. I can pay in drinks and food but if you want coin, I can do that too.”
+
+“How much would that be for the work I've done?”
+
+“I can do 60 iron, or 6 silver, however you prefer. Rare to get an earth path through here and most adventurers think too highly of themselves to do simple repair jobs.”
+
+“Why? Do they just make way more money adventuring? I’d think some of them would be happy to help.”
+
+Warren nodded, more to himself than to Veron. “I suppose you're right. I did get some help before too, but yeah, the ones who come through here generally don't care much about low paying work. And lower-level adventurers don't tend to travel all that much. Speaking of which, you made your armor, quite the boon from your path. I don't think you would have been able to grab a set of decent gear out here otherwise.” He paused. “You've been going out there, learning the ropes from Ivera?”
+
+“I have.”
+
+Warren looked at him with an intense stare, the edges of his mouth quirking up.
+
+“Well, let me tell you, Veron. I might have a few interesting propositions for a man of your talents.”
+
+“You mean a poor, low-level adventurer with very little experience?”
+
+Warren touched the pot which made a sizzling sound, likely activating the cooling enchantment. He leaned back and smiled. “Exactly.”

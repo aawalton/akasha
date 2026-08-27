@@ -1,0 +1,117 @@
+---
+id: 0bbdc34e-6abc-539e-923b-72b398e66a61
+page-type-slug: story-chapter-royal-road
+title: "Chapter 787 - The Nest"
+slug: 0112-chapter-787-the-nest
+partOf: hell-difficulty-tutorial
+position: 112
+ownLength: 2125
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3240873/chapter-787-the-nest"
+royalRoadId: "3240873"
+---
+
+First, I ignore everything else. The fingers on the ground, the hand, the items, and the notifications. Instead, I expand my senses as far as I can, searching for any danger even though I know the floors tend to be the safest at the beginning. I repeat the scans several times, cycling through each sense, until I am satisfied.
+
+Once done, my eyes are pulled to the hand and the four fingers. Even severed, they radiate a pressure that continues to ramp up as any restrictions that suppressed and hid the velnar’s power cease to exist. The blood from the severed hand melts through the ground. It’s already caused the grass to grow much taller around it, and at a speed visible to the naked eye, the tree nearby has also begun to change and grow.
+
+The mana radiation from the hands is at the point I won't be able to suppress it anymore, and I know we’re going to need to move away soon. I don’t even think we have anything that could hide it, and I’m sure if there is any Champion in the area, they will be able to sense it soon. Possibly even the Absolute from much further away.
+
+I look around one more time. The place looks like the countryside, and as far as my searches go, I can detect no humans, monsters, or animals. It’s dead empty here, just a small valley nestled between a range of unassuming mountains, and the range stretches far beyond our line of sight.
+
+“We have to move,” I tell Tess as I move toward her. “Can you? And how is Lily?”
+
+At this point, her left eye is covered by what seems to be an improvised eyepatch, which is held by a few threads coiled around her head.
+
+“It’ll be fine. I just messed up with my [Declaration], so it might be… a bit more difficult to heal. None of us has any healing worth mentioning, so I don’t know how Lily is.” In a gesture she does when she is frustrated, she moves her hair off her face. “Multiple powerful monsters attacked her at once, and I think the one that caused it used a toxin and sacrificed itself to make it stronger. I don’t think it’ll kill her, but I also have no idea how long it’ll be before she can deal with it. Sophie said it isn’t anything mental and that her mind is okay. How about the hand?”
+
+Tess gestures toward the sizable hand covered in black fur. Right now, it is barely visible through the vibrant grass, flowers, and trees that have begun to grow around it.
+
+I shake my head. “There is no chance we’re taking it with us. In a minute, it’ll get to a point where it’ll kill anyone below level 100 who just happens to get too close, and in a few hours, it may even begin to affect people around our level, and create a danger zone similar to the ones we saw on the previous floor. We need to be gone long before a Champion notices it. If we were still holding it when that happened, it would be valuable enough for them to kill all of us without a moment of hesitation.”
+
+“Got it,” Tess says simply. “I’ll carry Lily and tell the others. Please check on Biscuit.” She is already walking as she says the last words, putting her hand on my shoulder for a moment to emphasize them.
+
+I watch her leave toward the group, and just a few seconds later, they start gathering all our stuff. Izzy is still hurt and having spasms. Tess is missing an eye, wearing an eyepatch. Lily is unconscious. Biscuit is mourning the ferret, even to the point of ignoring the deer he still carried through all of that.
+
+Now I look at that deer's body. It looks majestic, white-furred with grand antlers. Those creepy mouths can’t be seen from this angle. A monster created for the tutorial only to be killed and carried to another floor.
+
+The face of the Lycan also flashes behind my eyes. That short moment of anger as he realized that all his thoughts and everything he thought were the memories of his life were fake. Only to be replaced by a blank expression as the System proceeded to reset it to fit within the constraints of the tutorial. Because this is what all this is. Even if it’s Hell difficulty, we’re still in a tutorial. There are rules we can abuse, things to learn, ways to cheat, and chances to survive where we would’ve died for sure on the outside.
+
+There is no uncertainty in my mind about that, but if we had found the Lycan outside of the tutorial, we would’ve spent the rest of our lives trapped there. A hundred, three hundred, five hundred years, I have no idea how long we could live at our current levels and with our particular abilities, but that’s it.
+
+To someone like that velnar man, who spent over three millennia there, it would be nothing. Not even a bother. For us, though, it would be an entire lifetime, years in which we would grow old and die. All of it, just like that, because of a single wrong decision.
+
+Just how scary something like that is. I wonder what pre tutorial me would’ve thought of that, how terrified he would’ve been.
+
+I pass by the pile of items I took, among which I’m sure there’s at least one ranked at low pristine. Right now, they feel like they’re little more than trash in my way, entirely unimportant as I come to a stop in front of Biscuit and sit down before him. Even now, I’m continuing to suppress the quickly growing pressure from the Lycan’s hand and fingers.
+
+Gently, I reach out my hand and put it on the side of Biscuit’s face. “I’m sorry about what happened to your friend.”
+
+Biscuit stays quiet and, unlike before, when there was a threat to deal with, he allows his emotions to affect him more. I can sense it through the bond we share. I also feel regret for not trusting him more about the ferret and letting my image of it influence me to such a degree.
+
+I’m not someone who trusts easily, and I know how naive Biscuit can be. Unlike me, even after all that happened to him, he tries to see the best in anyone he meets. Where I almost always see a threat in someone who’s equally strong or stronger than me, Biscuit doesn’t care at all. For him, it’s just another possible friend.
+
+Maybe it could have ended differently if I’d allowed his feelings about the ferret to influence me more and if I had trusted him further.
+
+(Friend,) He says quietly.
+
+“Yes,” I answer, carefully caressing him as he presses his face against the palm of my hand.
+
+(Dead.)
+
+“Izzy’s still alive thanks to your friend.”
+
+He lowers his head further and stays quiet. I allow him some privacy as I weaken our bond for a while before I whisper very gently, “We have to go. I’m sorry.”
+
+Biscuit looks up at me and then nods. With his head, he pushes my hand away and turns to head toward the rest of the group. The deer’s body stays behind, now entirely ignored by the corgi.
+
+I rejoin the others as well, and we begin to rush away. The entire time, Sophie and I do our utmost to erase any signs of our presence, but we’re not naive enough to think someone much more powerful than us wouldn't notice or be able to locate us. After a short talk, we leave some new tracks to make it seem like we might have passed by, noticed the severed hand of an Absolute, and fled.
+
+We can only hope no one will notice before the end of the floor. After all, if you were an Absolute, leader of your planet and the most powerful person around, what would you do if you found the hand of someone of your level simply left lying on the ground?
+
+As we move, I also shield the items we’re carrying, the pieces from the Elf’s experiment, along with all the other loot.
+
+In the meantime, a small part of my mind reviews our notifications.
+
+Congratulations! You have cleared the 9th floor of the Hell difficulty tutorial.
+
+Welcome to the 10th floor: Wyvern Nest.
+
+You have acquired:
+
+Trait strengthening token (up to 2nd stage)
+
+Two active skills combination token
+
+The rewards are as expected, given how little time I spent on the floor, they likely could have been much worse. I close that window and open another one.
+
+Floor Quest:
+
+With people unaware of its true nature, the first Wyvern egg to appear in 100,000 years has been found on this planet and is currently located in the city of Hadon. It is set to be gifted to a local Champion in two months as the egg of a rare monster.
+
+While no one knows of its true identity as a Wyvern egg, locate it, steal it, and keep it in your possession for three days.
+
+Rewards:
+
+???
+
+Three active skills combination token
+
+Even now I can tell what a mess this floor will be. I need to stay with the others at least until I’m sure they’ll be somewhat safe, and only then can I return to Beyond to head to the 5th floor and face the Champion. After that, I might have time to go on that Beyond quest to get the Everwood. All that should probably take a week or two, and then I’ll probably return to the 10th floor to help with the quest, which at this point doesn’t seem as forgiving as the 9th floor quest.
+
+As annoying as some parts of it are, I can't bring myself to feel much anger. It all could’ve been much worse.
+
+After two days, we’ve made it hundreds of miles away from where we started. And we’ve seen a bit more of the 10th floor as we passed through a few cities and villages to gather more information, I can say that this floor reminds me of the 2nd floor more than anything when it comes to the average levels of its people, technology, and all that stuff. The main difference is that the natives here are feylith.
+
+They’re a race with small wings, and eyes and hair that change color according to their emotions. They also often have a talent for mental magic, even if not quite to the same level of a true mind mage like Sophie. If you averaged it all out, they would likely have the most mind mages of any other race.
+
+Thankfully, they aren't the only race here, so we don't stick out. We’ve met a lot of humans and selari as well, which makes me wonder if the System hasn’t been making adjustments, and if a thylarin on the same floor would find themselves meeting other thylarin and selari in addition to feylith. It’s a useless question at the moment though, yet I still have to wonder.
+
+Now, according to the information we’ve been given, we find ourselves standing at the top of a mountain. In the green valley below, lies the city of Hadon, nestled right up against the shores of an enormous lake. The city itself holds a million people and features a grand sort of architecture. There are towers on par with skyscrapers, and trees that match them in size. There is a reversed pyramid that doesn’t seem like it should be able to stand. Ships constantly move across the surface of the lake, some of them easily large enough to hold thousands of people, and every once in a while, a ship lifts up and begins to fly into the distance.
+
+There are no walls around Hadon, just hints of an enormous defensive array surrounding the entire city, so intricate and laced with so many rules that it makes my head spin when I look at it too much. It remains mostly dormant now, using a myriad of sensors to gather information and adjust according to the rules stored in various nodes all over the place.
+
+Tess, after moving closer to stand by my side, looks at all of it with a look of intense concentration on her face. I can almost hear her mind spinning as she thinks.
+
+Even now, she still wears the eyepatch over her left eye. Other than that, Izzy seems better now and shows no more signs of further tremors or spasms. Only Lily, though breathing calmly and seeming healthy otherwise, remains unconscious.

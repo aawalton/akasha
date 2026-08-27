@@ -1,0 +1,133 @@
+---
+id: 9066eca9-6de1-5ba9-87c5-052a815af6b6
+page-type-slug: story-chapter-royal-road
+title: "352. Some Alone Time"
+slug: 0352-352-some-alone-time
+partOf: god-of-trash
+position: 352
+ownLength: 1833
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3835977/352-some-alone-time"
+royalRoadId: "3835977"
+---
+
+The two of them (three, counting brown-paper-packaging-plus-string guy) flew away from the scene of the incident at top speed. Rhys felt a bit like he was fleeing a crime, even though he was the victim of said crime. Then again, I am aiding and abetting the escape of a criminal. He looked at his bundle, then pinched his chin. “I wonder if I can claim Stockholm Syndrome?”
+
+“Huh?” Ryota asked, looking back.
+
+“I don’t think it applies when I tie the criminal up and carry him with me,” Rhys mused to himself. “Oh, wait! No, I’m good!”
+
+“Are you? Are you sure?” Ryota interjected.
+
+Rhys nodded. “Citizen’s arrest. I’m safe. This isn’t aiding and abetting a criminal at all, I’m just capturing him to bring him to justice!”
+
+Ryota squinted at him. “Didn’t you capture him to interrogate and then kill him?”
+
+“I mean… maybe. But you know. Until I do that, it’s legal.”
+
+“According to what law? We’re mages.”
+
+“So true.”
+
+Ryota flew on for a few moments, then looked back. “The region you came from must have been very different.”
+
+“Yes and no. I’m weird no matter where I am, so don’t go considering me the standard of any region.” Regardless of whether it was this region, his first region, or his homeworld, he didn’t fit the definition of a normie. He just wasn’t the kind of guy who could be normal.
+
+Well, normal’s hard for some people (me). It’s way easier to be weird.
+
+“Do you know how to torture, by the way?” Rhys asked.
+
+“No?”
+
+“Oh.”
+
+“Wait, you don’t?”
+
+“Nah. I kinda figured it was a figure-it-out-as-you-go kinda endeavor. I mean, I don’t really want to figure it out, but I gotta, right?”
+
+“Do you?”
+
+“Well, he’s not talking, and we need to know who sent him…” Rhys trailed off, and he looked at his friend, the Third Prince, who knew things like who his grandfather was allied with and against, castle politics, who was on top of the current hierarchy, who wanted to backstab who, and so on and so forth. He cleared his throat. “Unless the Third Prince happens to have an opinion?”
+
+Ryota flipped around backward to fly facing Rhys and crossed his arms. “Well, if he’s wearing that white mask, then he’s probably a member of that hidden sect that no one’s supposed to know about. They do a lot of work behind the scenes, transferring information from family to family. They’re unparalleled at stealth and hidden techniques, but they’re supposed to be somewhat weak in direct combat. I’m shocked you captured him alive, honestly. I heard the sect would die before capture.”
+
+“Oh, no, he tried that. I just stopped him. Suicide is bad, you know? Don’t commit it.” A part of him that was totally deepfried from memes thought of a green puppet frog, but he shoved it down.
+
+“You stopped him… really? How?”
+
+“It was a whole thing. I think I got all of his techniques… wait, hold on.” He rested a hand on the man’s head and scanned his body. There was a repository of poison in a false tooth that the man hadn’t activated yet. Rhys tipped his head. Was he waiting for an opportune moment? Waiting for Rhys to let his guard down or set him down for a while, maybe? Either way, it was his now. He called the poison forth, drawing it out of the man’s false tooth and storing it safely in his trash star.
+
+“There we go. One more disabled,” Rhys reported. He might’ve imagined it, but he felt like the man in his grasp trembled.
+
+“Even you missed one? That’s impressive,” Ryota said.
+
+“Is it? I’m not that good at most things.”
+
+Ryota gave him a disbelieving look.
+
+“I’m really not!” Rhys insisted. “I just focus on doing the things I’m good at around you. That’s why you have that mistaken impression. You should see me try… I don’t know, painting or something. I’m not very good at anything that people actually care about.”
+
+“I don’t know about that. You’re powerful in combat.”
+
+“But that’s me focusing on the things I’m very good at. If you pay attention, you’ll notice I have a very strange fighting style. If you forced me to fight toe to toe with a swordsman or fistfighter, I wouldn’t stand a chance. It’s because I can choose to fight in a style that’s favorable to me that I appear strong.”
+
+Ryota frowned at him, clearly disagreeing. “Isn’t that how everyone fights? If you asked a fistfighter to fight in a mage’s style, he’d fail as well. Qualifying your strength by saying you can’t stand toe-to-toe with someone else when they’re using their favored style and you’re forced to use a style you’ve never trained in is insane. You realize that, right?”
+
+Rhys looked at him, then shook his head. “Rejected.”
+
+“You can’t just reject the truth!” Ryota complained, frustrated.
+
+“Someone never met the internet.”
+
+“Inter… what?”
+
+“Don’t worry about it.” Rhys turned to his captive. “Do you have any more of those? It’ll go easier for you if you admit it now.”
+
+As ever, the masked man remained mute.
+
+“I’m starting to wonder if he can talk,” Rhys muttered under his breath.
+
+“He can. They wouldn’t be able to pass on information otherwise.”
+
+Rhys shrugged. “I mean, he could write.”
+
+“I suppose, but that would leave evidence, wouldn’t it? More evidence than the spoken word, anyways,” Ryota pointed out.
+
+“That’s a good point.” Back home in his world, face to face in person communication was one of the few remaining ways people could communicate without leaving any evidence. Even then, they had to be selective about where they communicated with the spoken word, and he was pretty sure someone would figure out how to make all spoken word recorded soon, but as of when he’d left, it was still a way to speak without surveillance.
+
+Here, there were far less worries about it, but someone could still use a listening spell or a clairvoyance technique to listen in on someone in particular (at a relatively high cost, of course), or find bits of writing, or other things. His own trash techniques could recreate destroyed documents as long as he found some scrap of paper.
+
+To summarize, the danger of speaking aloud was in the moment, and there were protections the speakers could take to disguise their conversation—he himself had a technique of his own, the high-static barrier. The danger of writing down information was forever. Someone like Rhys or with some other recovery or recreation technique could find remnants of the writing and recreate it. Unless the communicators destroyed their communication completely and utterly, it could always be recovered. Compared to simply using a barrier in the moment, ensuring that documents were perfectly destroyed was a much higher bar.
+
+Honestly, it was refreshingly primitive that surveillance here was made up of real, physical people and their real, physical ears. Back home, where people could just point agentic AIs at data and let them plug away, it’d truly been getting depressingly impossible to maintain any level of anonymity. Big companies knew whether he liked scratching his left ass cheek or the right one back home, and determined what kind of toothpaste he’d probably buy as a result, to ensure they served him the right ads. At least here, no human would give a shit about which ass cheek he scratched. Even if he was under the epitome of surveillance, some secrets would remain his own!
+
+Then again, I guess they probably have surveillance spells and some form of spell-based automation, so it’s not like it’s people all the way down. But still, there’s a limit to what they’d care to watch and record, unlike back home.
+
+He nodded at Ryota. “What’s the chances an amateur torturer like me who doesn’t really relish the idea of torture will be able to make this guy speak?”
+
+Ryota grimaced. “Almost zero.”
+
+Rhys looked over his shoulder, thinking. His trash portals were based in the void, so hypothetically, they had infinite range, but practically, he couldn’t activate any of the ones on the other side of the storm wall from this side. He didn’t know if it was some kind of interference from the storm wall plus the distance, or just a measure of how far he’d gone. The void was kind of mysterious. He could still enter the same spot in it and reach the island without a problem, but the portals that had worked suddenly no longer worked. He was further in real world distance, but he shouldn’t be any further in void distance. Nonetheless, it seemed the void disagreed.
+
+I could try flying to the storm wall, then teleporting to Soma, because I remember my portals working from closer, but… ugh, that’d be so much time and effort. And I’m not totally confident Soma would get him to speak, or at least to speak truth. Torture was notorious for getting people to say things, but not necessarily true things; just whatever they thought the torturer wanted to hear. Sometimes it worked. Sometimes people just said things. People just saying things was how they got witch hunts, and the last thing Rhys wanted to do was join the Spanish Inquisition.
+
+He paused. Damn, the Spanish Inquisition really does pop up when you least expect it to.
+
+“So… should I just kill him, then?”
+
+Ryota considered. “My grandfather has a man, but…”
+
+“Yeah, I wouldn’t trust him.”
+
+“You don’t even know him,” Ryota protested.
+
+“I know your grandfather doesn’t like you,” Rhys countered. It was an easy claim to make; it was true, but it didn’t reveal the full depths of what he’d come to understand about Ryota’s grandfather and this attack on them and their ship.
+
+At that, Ryota made a face like he’d sucked a sour lemon, but didn’t say anything else to suggest going to his grandfather.
+
+“Alright, well. I hate to do this, but I guess it’s sayonara. Totally wasted all that effort on tying you up,” Rhys grumbled to himself. He wasn’t really all that angry, truth be told. He really hadn’t wanted to try his hand at torture, and the various poisons on the guy had been worth their weight in impurities, if they weren’t particularly dangerous to him or useful to level up his body. He didn’t know the details, but he knew the gist of what was going on, and even if this man had started spouting names, he’d be relying on Ryota to know any of them; they’d just be gibberish to him. Except for Fifteenth, but he’d already figured out that guy was involved.
+
+The man struggled harder as Rhys’s hand descended toward his forehead. A second before he tried the truly trashy move of palm-pressing the man’s head in, Rhys froze as a great idea came to him. He looked at the man, then smiled slowly.
+
+“Wait. I’ve just had a fantastic idea.”

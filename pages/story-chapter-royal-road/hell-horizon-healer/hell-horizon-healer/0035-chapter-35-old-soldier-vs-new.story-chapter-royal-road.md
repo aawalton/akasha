@@ -1,0 +1,185 @@
+---
+id: 4b8e7ce6-8d86-5e52-877f-fa28cd8ce771
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35 - Old Soldier Vs New"
+slug: 0035-chapter-35-old-soldier-vs-new
+partOf: hell-horizon-healer
+position: 35
+ownLength: 1672
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3764737/chapter-35-old-soldier-vs-new"
+royalRoadId: "3764737"
+---
+
+“Come on, Jake,” Edwin shouted. “Think this through. There’s a gulf between us. I’ll riddle you with arrows before you even get close.”
+
+Jake was certain that Edwin was telling the truth: he had no problem shooting to kill. The distance between them was one thing, the other, was Edwin’s aim. The crossbow he had would be fired with pinpoint accuracy, most likely a headshot.
+
+If he aimed at his head, then he could dodge. If he aimed for his chest, it would be difficult to escape in one piece.
+
+But… would Edwin do that?
+
+Jake stared at the man, noticed the glint in his eye that said he was better than him.
+
+He will aim for the head. That’s my only chance.
+
+Sensing that Jake was ready, Edwin sighed. “Fire.”
+
+The men beside him hesitated. Edwin drove his fist into one of their chins, crumbling the man to the floor. “I said fire!”
+
+The remaining archers pulled back their bows and fired. Arthur quickly stepped in front of Jake, shield at the ready. The arrows pelted off the blue mana barrier in front of the shield. The second volley shattered it, and the arrow tips bit into the heavy kiteshield.
+
+Some arrows got through, cutting Arthur’s shoulders and legs. He looked back, as if pleading for Jake to do something.
+
+Jake disregarded him and waited.
+
+Another volley arrived, and then another.
+
+Jake tracked each and every projectile that whipped through the air. There was one missing. Another arrow caught Arthur’s leg, embedding deep into his calf. He fell to one leg, his shield lowering.
+
+There it was.
+
+A bolt slashed through the air, punching right for Jake’s head. If his perception hadn’t been so high, so sensitive, he’d have never seen it.
+
+With a simple turn of his head, the bolt flew by, slamming into the back wall.
+
+Susan, Lyle, Sloane, and Chloe, all looked from the cover of the wall.
+
+Jake shifted from behind Arthur and bolted towards the edge of the platform.
+
+Edwin laughed. “You can’t make it, Jakey!”
+
+Can’t make it? Jake thought, putting all of his strength into his legs. He shifted Tension around, using Meditation to drill his mind into his lower body. He pulled the muscles tight. Says who? You? You have yet to understand something, Edwin.
+
+Magic.
+
+Jake slammed all of the mana downwards, mixing it into his muscles and Tension. He squatted down, then leaped. His body was like a cannonball fired directly upwards.
+
+Edwin’s eyes widened, only to relax, a sneer curling on his lips. Jake was falling.
+
+Jake side-eyed Chloe, saw her hesitation. It lasted not even a second before the girl trembled, more blood spilling from her nose. Jake’s body denied gravity. It felt like an invisible hand had caught him before he could fall.
+
+With a violent push, Jake was brought to the edge of the bridge. His body continued over the handrailings.
+
+He slammed his knee into the closest archer—a man with slicked back hair and wearing nothing but a black vest—sending him flying to the other side in a heap. The handrail barely kept him on.
+
+It was chaos.
+
+Jake moved like a blur. He tried holding back as much strength as he could so as to not break his own body.
+
+One of Edwin’s men had brandished a dagger. Jake moved too fast and snapped a front kick to his sternum, sending him hurtling back. He slammed into another behind him, bringing them both to the floor.
+
+Another person, this time a young woman, quickly unsheathed a machete. She swung it in a wild, crazy arc, cleaving it into Jake’s arm.
+
+He healed it at the same second, the healing stopping the blade from going further. He stepped again, using his forehead like a weapon as he brought it like a battering ram into her face. Her nose exploded, blood spraying everywhere.
+
+Jake crouched down, then lanced his shoulder up to her chin, picking her up off her feet from the impact. She slammed down onto the bridge, causing the entire thing to jostle and rise.
+
+One of the archers fired, but because of the movement of the bridge, missed.
+
+Jake launched himself forward, knee first, driving it into the bald-headed man.
+
+All that time, Jake was listening out for something. He closed his eyes for a fraction of a second, and heard it; the sound of a trigger being squeezed.
+
+Jake lurched his body to the side, standing side-on.
+
+A bolt slammed through the air, missing.
+
+It was only Edwin now. He had twisted his brows, gritting his teeth as he saw his group all on the ground, broken.
+
+It had taken Jake seconds to dismantle his team.
+
+Edwin pulled a large knife from his belt.
+
+“You’re a monster, kid,” Edwin said, his voice a low gravel.
+
+Edwin lunged, thrusting the knife toward Jake’s throat. Jake tilted his head back, letting the edge pass inches from his skin, and drove his knee up toward Edwin's groin. Edwin anticipated the movement, dropping his forearm to block the knee while simultaneously shifting his weight to drive his elbow into Jake's collarbone.
+
+The impact forced Jake to one knee against the stone bridge.
+
+Before Jake could reset, Edwin's heavy boot came up toward his face. Jake rolled his neck, letting the leather scrape his jaw and tear the skin, then used his good leg to sweep Edwin’s remaining ankle.
+
+Edwin fell, but he didn't lose his grip. He used the momentum of the fall to pull Jake down with him, twisting his torso to pin Jake’s useless right arm under his knee. Edwin raised the knife with both hands, aiming directly for Jake's skull. Jake snapped his head forward, delivering a blunt headbutt straight into Edwin's nose.
+
+Bone cracked, spraying blood across Jake's face, but Edwin didn't let go of the knife. He used the pain to fuel a frantic, heavy punch that hit Jake square in the fractured ribs. Three of them snapped.
+
+“Now, Miller!” Edwin screamed, his jaw tight. “Shoot him!”
+
+Jake's Absolute Perception picked up the sudden, sharp spike of mana accompanying the command. The raw intent rippled through the air from the far end of the bridge, giving Jake a fraction of a second of warning before the mechanical click of the trigger echoed through the fog.
+
+Miller stood by the railing, his hands shaking so violently the crossbow rattled against his knuckles. He fired.
+
+Because of the early mana warning, Jake didn't wait to see the bolt. He wrenched his neck and upper torso suddenly to the left, straining against Edwin’s pinning weight.
+
+The bolt hit. It tore through his black hoodie, sliced the pectoral muscle, and grazed the outer wall of his heart. The force pinned him down, burying the steel tip into the bridge floor underneath.
+
+A hot geyser of blood filled Jake’s throat. His vision turned gray at the edges.
+
+Edwin wiped the blood from his own broken nose and raised the knife again, his thumb pressing the back of the blade. “Got you.”
+
+The pain vibrated through Jake's skull. The sound of his own blood pumping out of his chest filled his ears.
+
+He caught sight of a cluster of mana and triggered it, filling his container with immediate reserves. He instantly used three heals all at once to the surprise of Edwin.
+
+Then, Jake stopped trying to move his limbs. He stopped healing his ribs.
+
+He threw all of his remaining mana into his face.
+
+He locked his jaw. He locked his neck. He focused his Tension into the intricate muscles behind his eyes, pulling them back until the pressure built into a white-hot knot.
+
+The blood vessels in both eyes burst simultaneously, turning his vision bright red. One eye popped. Jake screamed in pain.
+
+The air right in front of Jake’s face rippled. A high-pitched, jagged hum vibrated through his teeth.
+
+He immediately cancelled the mana from within.
+
+“What the fuck are you—”
+
+Jake ignored the comment and slammed his head into Edwin’s skull again, this time using more strength than before.
+
+The old soldier stumbled off of him. Jake lurched up, tripping the man onto the bridge.
+
+In one swift motion, he raised his foot, aiming to stomp Edwin’s skull.
+
+Jake, there are things you cannot come back from.
+
+Jake snarled and dropped his foot, missing Edwin’s face by centimetres, his foot cracking through the wooden panel of the bridge.
+
+Edwin looked up, then scoffed. Then he started laughing. It started as light, only to grow into a full belly laugh.
+
+“Why did you hold back, lad?” He asked. “It can’t be… there’s a heart underneath there, is there?”
+
+Jake didn't answer. He slowly withdrew his boot from the splintered hole in the wood.
+
+A heart?
+
+He wanted to laugh. If the old soldier thought this was a moment of moral hesitation, he was stupider than he looked.
+
+Lyle was the one who still cared about things like humanity and ethics. Lyle was the one who thought they needed to stick together because it was the "right thing to do."
+
+Jake didn’t share those feelings. Not even a little bit.
+
+The only reason Edwin’s skull wasn't currently painting the wooden planks was pure mathematics. They were down to nine people. They were injured, trapped on a floor called Hell Horizon, and surrounded by monsters that, for some reason, really wanted them dead. Edwin had combat experience. He knew how to organize a defense. He was a resource.
+
+For now.
+
+Keep laughing, old man, Jake thought, his expression remaining completely dead as he stared down at the soldier. You're alive because you're useful. The exact second you outlive that usefulness, I'll drop you myself.
+
+Jake twitched towards the stairwell.
+
+Monsters. A lot of them.
+
+They were coming straight for the bridge.
+
+Jake bent down and snatched the Mana Nucleus.
+
+Mana Nucleus
+
+- Type: Consumable
+
+- Tier: Rare
+
+- Description: A rare mana nucleus belonging to a Mana Wyrm.
+
+- Effect: When consumed, permanently increase mana by 10.

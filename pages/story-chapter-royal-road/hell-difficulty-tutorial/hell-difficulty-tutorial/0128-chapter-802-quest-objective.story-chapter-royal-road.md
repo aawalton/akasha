@@ -1,0 +1,175 @@
+---
+id: 5475df78-d562-5923-945c-410d7a15b8fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 802 - Quest objective"
+slug: 0128-chapter-802-quest-objective
+partOf: hell-difficulty-tutorial
+position: 128
+ownLength: 2297
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3384182/chapter-802-quest-objective"
+royalRoadId: "3384182"
+---
+
+The moment the screen in the sky disappears, we get a notification.
+
+A new objective has been given.
+
+The Floor Quest: Kill the Reanimated Dusk Weredeer.
+
+Note from the Ruler responsible for the floor setting: When I got called here, I expected something terrible, but what is this? I didn't even get to meet my baby, and the only reason I agreed to create this floor was so I could watch it happen over and over again whenever I willed it. It is truly saddening to see what has happened to my replica. So go ahead and kill that filthy animal. Avenge me.
+
+And before I can process just how insane this is, a new notification appears.
+
+The Floor Quest has been put on hold. The objective of the quest has been deemed inconsistent with the tutorial’s intent and impossible to complete.
+
+The Ruler of Diligence has called for a vote. The Ruler of Greed and the Ruler of Kindness have joined. The Ruler of Wrath and Ruler of Envy have abstained.
+
+A new objective has been chosen.
+
+The Ruler of Lust has voted against the new objective. The Ruler of Diligence, Ruler of Greed, and Ruler of Envy have voted in favor.
+
+The rewards have been increased.
+
+The new Floor Quest objective has been given: Survive for one hour.
+
+The Floor Quest has been put on hold. The objective of the quest has been deemed inadequate by the Ruler of Envy.
+
+The Ruler of Envy votes to increase the duration of the quest to one day.
+
+The Ruler of Lust and Ruler of Envy have voted in favor.
+
+The Ruler of Wrath abstained from the vote.
+
+The Ruler of Diligence, Ruler of Greed, and Ruler of Kindness have voted to maintain the current duration.
+
+Hehe, maybe next time. - The Ruler of Envy.
+
+The Floor Quest has been put on hold. The Ruler of Greed has voted to reduce the duration of the quest. The suggested change is based on the assessment that the difficulty is excessive. The new suggested duration is 1 minute.
+
+You fucking asshole, what do you think you’re trying to do? Fuck off and enter the 12th floor already, and let's see if we end up with a second dead Envy within one year. It would be a record. - Ruler of Greed.
+
+The Ruler of Envy, Ruler of Lust, and Ruler of Diligence have voted against the change in duration. The Ruler of Greed has voted in favor. The Ruler of Kindness and the Ruler of Wrath have abstained from voting.
+
+The duration of the quest remains one hour.
+
+The Floor Quest has been put on hold. The quest has been challenged on the grounds of insufficient difficulty. The Ruler of Envy has suggested a duration of one hour and one minute.
+
+Unlike my master, I won’t shy away from using Beyond’s main defensive array. It’s time for that old legend to die, and I’ll be the one who kills her. - Ruler of Envy.
+
+The Ruler of Envy and the Ruler of Lust have voted for increasing the duration of the floor quest to one hour and one minute.
+
+The Ruler of Greed, the Ruler of Kindness, and the Ruler of Diligence have voted to maintain the current duration.
+
+The Ruler of Wrath abstained from the voting.
+
+And with that, finally, the notifications cease, and a new countdown appears, ticking down from one hour.
+
+As the arrays in the sky begin to die off and the vibrant colors disappear, the ship accelerates to a much higher speed, attempting to head toward the opposite side of the planet from the weredeer. I rush towards... I stop.
+
+Towards where? Towards what? There is no way we can do anything about that monster once it appears nearby. Not a single thing. Even if she were seemingly not combat oriented, the weredeer just killed this planet’s Absolute. Someone bonded with this world’s Sovereign Spark. Here, on this planet, where she was at her most powerful.
+
+Once again, I turn around, looking toward the west, and that suffocating feeling hits me again. Many of the crew seem confused, as if they’d just woken from a spell, but the captain recovers the fastest. He shouts orders while moving through the deck toward the communication mast. I use a step of Wraith Dance to move to his side.
+
+In the current situation, he doesn’t even seem to care that I might be listening, he just acknowledges my presence with a glance before putting his hand on the telecommunication officer’s shoulder.
+
+"What information do you have?" he asks.
+
+The feylith, wearing what looks like a helmet with a visor and headphones, with a multitude of antennae sending threads of mana to connect him to the panel and the mast, lifts his hand, concentrating on listening. Both I and the captain wait, and a few more people move closer to hear.
+
+"Champion Pothas and Champion Qiurass have joined forces and already killed two other champions who haven't been identified yet..."
+
+With a deep sigh, the captain looks toward the sky, somewhat melancholic. "Those two were always the strongest in combat out of all of them. Now, freed from her control, they will likely hunt together, killing all the other Champions before turning on each other and fighting to the death so one of them can become the Absolute."
+
+"W-we should change direction, Captain. I'm immediately sharing the information with the navigation officer! We’re currently heading towards one of the battlefields, it seems like Pothas and Qiurass are fighting another champion, possibly Lukas. He’s the only one who should be able to put up a fight," the man with the helmet says swiftly.
+
+"I’m confirming the change of course," the captain says, sounding defeated.
+
+That melancholic expression remains on his face as he turns to me. "Is this how our world ends?" he asks me, though I think he isn’t really asking me. "Would it be better if I stayed and died in my beloved Hadon? Just maybe-"
+
+(NAT!) I hear Tess shout.
+
+Even before I fully recognize the danger, my body moves in a burst of speed and kinetic energy, which I quickly use to bore a hole into the ship and make my way to the room where the others are. A few notifications pop up as I kill a few passengers and crew members who happen to be in the way, and I throw myself inside.
+
+Though, just before I leave, I catch sight of the captain’s entire chest evaporating in an explosion as an invisible projectile made of wind hits him. I see hundreds of the very same projectiles passing all throughout the area. Their spread makes me realize it wasn't even an attack intended for us.
+
+The ship shakes as its defenses light up, absorbing some of the attacks while the others tear it apart, and I reach our room where everyone has already gathered themselves. My senses expand further as I judge if we should stay or go. I decide quickly.
+
+"We’re leaving."
+
+At the same moment, group 4 lowers their natural fields and defenses. I teleport us all away, along with all the items we’ve gathered, causing us to splash into the water a few miles away.
+
+I glance back at the ship, which is being bombarded by more wind attacks crashing all over the sea. Plenty of people are fleeing the same way we did. One of the larger strikes hits the water next to us, creating a skyscraper sized geyser and sending a wave rippling outward that rocks us wildly.
+
+Far in the distance, the battle between Champions rages on. Constant vibrations, mana eruptions, the sky lighting up, and wind clashing against enormous monsters miles tall and made of water.
+
+I teleport us again, and then again. Channeling my mana and using my skills, I do so repeatedly, dozens of times, as fast as I can place the mark and move us all. Even with their defenses lowered, it isn't easy to move so many people, each with their own traits, mana, and primordial energies. Every one of those factors makes it more difficult.
+
+[Ley Line - lvl 75 > Ley Line - lvl 76]
+
+[Current - lvl 44 > Current - lvl 45]
+
+We travel a thousand miles and then another and another, yet I can still see the flashes and mana eruptions of that fight in the distance. We come to a stop on a small island, barely the width of a city block, made of sand and a few rocks with no trees in sight.
+
+Once there, I slide to my knees, gasping for breath. Beside me, I hear someone throw up, followed by a few others joining them. Lily rushes toward Tess with a shout, quickly healing a hole in her side that she’s had the whole time we were teleporting. As the wound is restored, the blonde stands up and gently pushes the worried Lily aside. With her gray eye, uncovered by her eyepatch, she casts a sweeping look in every direction.
+
+I flick my left hand, dropping my fragment into the sand, and a dose of my mana makes it grow rapidly. In just a minute, it is as tall as I am, then stretches even higher. I force my blood to circulate faster through my veins while forming a mana halo over my head, filling it with mana transformed from thermal energy produced by my Ignition Heart. I am ready to manifest my Vessel and turn my mana black, but I avoid it for now to keep from drawing too much attention.
+
+The weredeer is to the west. Three Champions are fighting to the north, and I sense more battles to the southeast. We are sandwiched between all of it.
+
+Then, a new notification appears.
+
+The Ruler of Greed has called for a vote to change the quest objective, reasoning that the difficulty should be considered too high.
+
+The Ruler of Diligence, Ruler of Kindness, Ruler of Envy, and Ruler of Lust have all voted against.
+
+The Ruler of Wrath has abstained from the vote.
+
+Ruby must know when her vote will pass and when it won't, and she would make Kindness vote with her if she thought it was necessary. This is a clear message and a warning of danger.
+
+My Vessel manifests behind me, and the halo over my head turns pitch black, beginning to pull on the ambient mana and everything else I feed it. I pull the glasses from my face and take a deep breath as I begin to filter the influx of information.
+
+[Focus - lvl 77 > Focus - lvl 78]
+
+[Manifestation - lvl 42 > Manifestation - lvl 43]
+
+A crack sounds, and all of us look in the same direction.
+
+The egg lying on the sand is now wide open, and within, a wyvern stretches from a curled position. It’s white, and the edges of its scales are tinted blue, it’s barely longer than my forearm from its head to the tip of its tail. It has two back legs, and its two wings have claws on the leathery membranes that it uses as front paws.
+
+The baby wyvern shakes and rights itself before shaking a bit and yawning.
+
+Then, it looks at us.
+
+It’s too calm. Its eyes are too smart and too cold. I don't like the way the ambient mana shifts around it, and I don't like the text over its head either.
+
+[Wyvern Hatchling - lvl ???]
+
+Its head turns, focusing solely on me. The creature would look cute if it weren’t for those eyes and that gaze. It shifts its focus from me toward Tess and sniffs. Its brow furrows and, like a child attempting its first step, its mana moves.
+
+Already prepared, my mana rises, moving to defend Tess. Sharp crackles of white lightning form in a small orb in front of it before a bolt shoots toward the blonde. My barriers crack one after another, but slow it down and weaken it just enough so it only burns her arm in its entirety, revealing bone and flesh even as she uses her own lightning to deflect it. The rest of the attack plunges into the water, which explodes a second later into a geyser of foam and white lightning.
+
+The Wyvern Hatchling takes another step. The ambient mana around it shifts to obey as the tiny creature takes control of it, seemingly easier than breathing.
+
+(It won't stop attacking!) Izzy says.
+
+The wyvern snaps its head toward Izzy as if it heard her.
+
+(Stop?) A new voice sounds in our connection. Then it’s gone, along with the link that connects us.
+
+More mana floods into the wyvern as it floats into the air, and an orb of white lightning forms over it, this one as big as a car.
+
+Every bit of mana I can gather shoots toward it as I trigger [Empyrean Lance], funneling a lot of mana into the skill. A projectile of pure mana with a golden and white core screams through the air.
+
+The attack slams against the wyvern, which instinctively lifts barriers that are far too similar to the ones I made to defend Tess.
+
+More attacks follow behind mine, Izzy’s flames, Tess’s lightning and projectiles, mental attacks, and mana bolts. But the creature, in addition, surrounds itself with that white lightning and lifts its head toward the sky with a roar that spreads much further and faster than it should.
+
+Sophie screams in pain and collapses onto the sand, clutching her head. At the same time, bloody tears stream down Izzy’s cheeks.
+
+"It's calling for its mom!" our empath shouts.
+
+Then I remember the name of this floor.
+
+Wyvern's Nest. Of course.

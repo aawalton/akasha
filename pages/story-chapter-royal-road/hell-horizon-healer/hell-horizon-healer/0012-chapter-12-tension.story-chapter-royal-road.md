@@ -1,0 +1,159 @@
+---
+id: 182e1590-1092-51a7-a804-463379fd2ef3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12 - Tension"
+slug: 0012-chapter-12-tension
+partOf: hell-horizon-healer
+position: 12
+ownLength: 1602
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3522023/chapter-12-tension"
+royalRoadId: "3522023"
+---
+
+“Water!”
+
+Chloe shouted as she saw Jake break out from a path in the dense brush. She rushed forwards, smiling. “You guys did it. Good job.”
+
+The others quickly came out of the cave to see what was happening. When they saw Jake, Sloane, and Lyle had returned, their eyes lit up. Susan had even hobbled out of the cave’s mouth.
+
+Edwin took the water from Jake’s hand. “Have you tested it?”
+
+Jake nodded. “All three of us. If it’s poisoned, then it’s slow acting. I… think someone should avoid drinking it for today.”
+
+Edwin seemed to follow along. “You think whatever monster is in this place has laced it with something?”
+
+“Something that puts us to sleep, maybe?”
+
+Edwin nodded along, but he was clicking his tongue, feeling how dry it was. “I’ll go without,” he said, uncapping the bottle. “We don’t have the luxury of filtering and boiling it. Everyone, come get your ration.”
+
+Everyone shared the bottle. Four big mouthfuls were what they were limited to for now, but it wouldn’t be long before they needed to go on another water run.
+
+Maybe the goblins would choose that moment to attack? When they lowered their guard at the water source?
+
+Jake took the bottle and entered the cave, handing it to Susan. Her chest was still badly wounded, blood seeping through the makeshift bandage. He handed the water over, and with her good arm, took sips of it.
+
+“Anything out there?”
+
+Jake noticed a mean look flash through her eye. He shook his head.
+
+“This seems all… fake, doesn’t it?” She asked. “Like none of this is real. I mean, how can it be?”
+
+Glenn and Sloane arrived, sitting down.
+
+Susan took another sip, then continued. “We opened up a door to another world. How ridiculous is that? We can get stronger through killing monsters. We level up, just like a video game, and whatever stats we put into, makes us stronger. Really stronger.”
+
+“And this place,” She handed over the water container to Glenn. “It seems so… peaceful. Jerry… Jerry would have loved it here. The grass, the trees, the way the wind blows so gently.”
+
+“You need to rest,” Jake said bluntly. “Though I’ve healed the surface wounds, it still lingers deeper down. You can’t move for at least a day or two while I experiment with my healing skill.”
+
+Her lips curled into a faint, weak smile. “Is that your way of saying you care about me?”
+
+Jake said nothing and stood, walking deeper into the cave. The others may have started thinking of this place as a safe haven away from the dangers of the apartment, but he didn’t.
+
+He propped a log up in one of the corners of the cave, then walked back, stopping around fifteen feet away from the target. Although he didn’t have a bow to practice his marksmanship with, he had his chain. Both were considered ‘aiming’, right?
+
+He practiced for around three hours, healing through the muscle degradation of trying to hit a far away target with a scythe blade that was rather heavy. Minor Heal had ticked up to 17% mastery. Concentration wasn’t far off, and was in fact catching up at 16%.
+
+That sensation—like he was on the cusp of something—reared its head up again, and just as he was about to get it, his stomach rumbled fiercely and loud.
+
+Jake sighed. Not knowing what the feeling was, all he could do was rub his stomach and not let himself get frustrated.
+
+He pulled Sloane and Glenn, who were both just sitting around milling about, and after a quick explanation to Edwin, and listening to around five minutes of ‘don’t go’, and ‘we should all go together tomorrow’ that they were going hunting, they left into the forest.
+
+It wasn’t that Jake didn’t understand Edwin’s need for slow and steady wins the race, but Jake just wanted to get shit done. If he was thirsty, he wanted water. If he was hungry, he wanted food.
+
+They found a boar around an hour later. It looked mean and it was at least twice the size of any boar Jake had ever seen.
+
+Jake had marked out a spot to lure it to, a spot surrounded by dense trees that would make it difficult for the beast to charge at them and use its ferocity.
+
+With a signal, Glenn shot his bow, the arrow digging deep into its shoulder. It turned with violence, red seeping over the whites of its eyes like blood to water. It charged.
+
+The ground trembled, sending clumps of dirt and grass up with every step.
+
+“Run!”
+
+Glenn yelled, and they darted into the dense home of trees. They scattered, and just when the boar stopped in confusion, another arrow pelted its side. It huffed out in pain and bolted for Glenn like a freight train with no stop.
+
+Before it arrived, Glenn stepped to the side in panic. The boar slammed into the tree with a thunderous crack. Tree bark split off, and when the boar backed up, shaking its head to regain its composure, the devastation in the tree was remarkable.
+
+If that landed…
+
+Jake didn’t bother thinking of the what ifs. They had a plan, and they stuck to it.
+
+It took ten minutes of back and forth whittling down the beast before it died, Jake landed the killing blow.
+
+(Lvl 6) Boar defeatedRewards: One Level
+
+Breathing hard, Jake put both of the points into Mana now.
+
+Sloane and Glenn left their cover. Glenn didn’t have a single arrow left, and most of them were broken, snapped from entering the beast, or if he missed, the arrow-head hit a rock. Sloane’s sword was covered in blood.
+
+Her eyes stopped on Jake’s weapon. “One of those Skulkers dropped it, didn’t they? What’s it called?”
+
+“Never mind that,” Glenn heaved in an attempt to gather his breath. “We just got ourselves dinner!” he smiled happily. His eyes didn’t even scan the surroundings at all.
+
+They’re treating it like this is some sort of damned sanctuary. Take this.
+
+Jake turned. “We’ll take turns dragging it back to camp,” he said, glancing at the duo. “You’re on first haul.”
+
+Glenn looked down at the boar, then back at Jake. “You’ve got to be kidding me.”
+
+“How else are we bringing it back?”
+
+***
+
+They brought it back with great difficulty. Jake could have helped more, but he felt like torturing Sloane and Glenn as payback for not taking their situation as seriously as he’d like.
+
+Edwin was standing in the clearing keeping watch. His eyes widened when he saw what Jake and the others had brought back. Was that a… smile? It was creepy.
+
+He helped them take it into camp where the excitement bubbled over.
+
+Chloe had even tried to hug Jake, or she would have, if he hadn’t palmed her off.
+
+The resulting awkwardness was her fault, not his.
+
+And while Edwin started a fire with nothing but wood, his shoelaces, and friction, Jake took his turn to keep watch early.
+
+He kept on practicing throwing his chain scythe.
+
+He was almost there… he just knew it.
+
+Five hours later, and the sun had already set. Jake was drenched in sweat. He focused on the primal hunger that dug a pit in his stomach, letting it force his mind into a point where all his focus was on the chain and the target.
+
+It was much more difficult than aiming a bow and releasing the string. With a bow, it was just a straight line. The chain was loose and fluid, and it required a lot of technique with his wrist. If his timing was off by even a bit, the links just clumped together or hit the dirt or worse, the scythe-end would threaten to lop his limb off.
+
+In the end, it wasn’t about looking at the target, but feeling the chain itself.
+
+He decided to close his eyes. He used all of his perception on his hands—the way the chain felt, the way it fell, and the exact moment it went completely taut. He stopped trying to see the path and just waited for that specific pull in his grip.
+
+When he felt the slack vanish at the peak of the swing, he snapped his wrist. Nothing happened. He was too late.
+
+Jake clicked his tongue and started again.
+
+Six hours later, just as the sun was about to rise from the horizon…
+
+Thunk.
+
+The scythe blade bit straight into the center of the log.
+
+A chime went off in his head.
+
+[Skill Gained: Tension (Lvl 1)]Effect: Allows the user to perceive and manipulate the physical force of tension, resistance, and structural stress.
+
+Jake opened his eyes and pulled the chain back. It felt a little lighter in his hands now, the movement making more sense than it did hours ago. He didn't care about the system text, but looking at the deep mark in the wood, he couldn't help but feel a tiny bit satisfied.
+
+He finally figured it out.
+
+He opened his hands. The raw friction of the continuous, violent spinning had sliced his palms open, the jagged metal links threatening to fuse into his torn skin. Blood splattered the grass beneath him. He yanked his grip free from the iron and groaned out in pain.
+
+Quickly, he activated Minor Heal, pressing the golden light into his mangled palms. The skin knit back together, leaving fresh pink scars.
+
+He closed his fists, grabbed the chain again, and stepped back into position.
+
+More.
+
+This is not enough.
+
+I want more.

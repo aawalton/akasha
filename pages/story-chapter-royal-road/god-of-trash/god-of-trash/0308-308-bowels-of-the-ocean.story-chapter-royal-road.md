@@ -1,0 +1,55 @@
+---
+id: 7001e539-4829-5740-93a6-b5c5c5330387
+page-type-slug: story-chapter-royal-road
+title: "308. Bowels of the Ocean"
+slug: 0308-308-bowels-of-the-ocean
+partOf: god-of-trash
+position: 308
+ownLength: 1526
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3372198/308-bowels-of-the-ocean"
+royalRoadId: "3372198"
+---
+
+Rhys was churned about by the ocean, totally at the mercy of the massive body of water, his body torn to shreds—and, as he had done many times before, he closely watched his body. Before, he’d strengthened his bones, his muscles, his organs, but this time, it was his tendons and ligaments that were most powerfully tested. Wherever his connective tissue tore, wherever it twisted, whenever a joint bent the wrong way, he instantly attacked it with impurities, broke it down, then rebuilt it from scratch and sent it back into the ocean’s brutal embrace.
+
+Of course, he didn’t waste a moment of this vicious training. The water bruised him, and he rebuilt his muscles and blood vessels. The water tore off his skin, and he regrew it stronger than ever. The punishing weight of the water hammered him, and he let its hammer forge him anew. At his tier, he had begun to fear that there was no such punishment waiting for him. It was no longer so easy to punish himself with impurities, or throw himself into physical terrors, but here, he had found one of the glorious, rare opportunities to strengthen himself yet again.
+
+His eyes gleamed. This just showed he was going in the right direction. On the far side of this storm, surely, things even more difficult and powerful awaited him. Experiences that could help him grow yet stronger, and challenges that would leave even a tier 5 mage struggling.
+
+On the other hand, he felt even more justified in leaving Bast and Mouse behind to grow stronger in their home region before taking them along. Neither of them would have survived the storm, and passing it alone, then teleporting them past it felt like cheating. He wouldn’t deprive either of them of the ability to hone their body or technique by challenging the storm; it would be unfair of him to do so. No, he would go ahead, and await the day they could join him on the far side of this massive storm under their own power, however they accomplished that.
+
+It always kind of bugged him in trashy novels when the main character just swept his underlings along to the highest realms, carrying him in his arms and simply depositing them into regions where they couldn’t hope to overcome any of the challenges they faced. Although he was ‘helping’ his friends on the face of it, he was simply depriving them of the ability to actually reach his level once you examined beneath the surface. Sure, it’d be trashy of him to do that, but he didn’t want to put Mouse, Bast, or anyone else he liked behind the curve like that. Better to leave them for a while, then allow them to catch up on their own.
+
+After all, whenever the side characters got carried in the trashy novels, they always inevitably fell along the wayside and were no longer able to contribute meaningfully to the story or the fights. He didn’t want that at all. Still, leaving them behind didn’t feel good, either.
+
+He pondered. I wonder if I can develop a way to drag my friends along and empower them at the same time. After all, it was quintessential trash to drag friends to high realms. Since the move was so trashy, surely there was a way for him to develop a technique to accomplish the same.
+
+Waving his hand, he put it to the back of his mind, to the graveyard of technique ideas from whence he occasionally plucked the best to put into action. He’d ponder on it, and if anything came of it, he might make it real. But first, he had to overcome this ocean.
+
+Besides, I feel like Bast would stringently disagree with being ‘dragged upward.’ He’s a do-it-myself kind of guy.
+
+The ocean whirled him around, swirling him around like a pair of dirty socks in the washing machine. Rhys constantly rebuilt and repaired himself, and the whole time, pondered how to escape. He couldn’t simply propel himself out, not with the way it was tossing him around. Still, he couldn’t just fall around at the ocean’s whims and hope it eventually spat him out. It was what he was doing, and if it worked out, then awesome, but he wasn’t going to count on it. He’d rather work on something else, so if his Plan A of “Luigi wins by doing nothing” didn’t work out, he had a Plan B to fall back on.
+
+So, as he toughened himself up, he kept his eyes open, learning the currents and experimenting. The currents chewed at him, but as they swirled him around, he began to map their paths; not just with his own body, of course. Like a miniature oil spill, he exuded a low level of impure scum out of his body and let it spin around in the washing machine that was the ocean with him, using his impurity senses to keep track of the filth through the waters.
+
+At the same time, he experimented with moving around. By adjusting his limbs, he could bias himself toward heading down one particular current or another. He tried pushing himself around with his mana, and found himself fighting the currents. Thinking for a moment, he extended his limbs instead, then used mana and filth to reinforce his clothes, holding them stiff between his limbs like sails.
+
+Like that, the little adjustments he made with his limbs became huge adjustments. Rather than getting tossed hopelessly around on the currents, he soared on them, flying like a kite or sailing like a ship. He wasn’t the only arbiter of his destiny, but he now had the power to determine which path he explored and the general heft of which way he went, rather than being completely at the mercy of the currents the way he’d been before.
+
+Flying around on the currents, his body much tougher than before, Rhys found himself enjoying the experience. He’d panicked a bit out the gate, he had to admit it. It’d been a real pucker moment. But now that he’d figured things out and wasn’t in imminent danger of dying or getting sucked into an infinite cycle of churning water, it wasn’t so bad. He was actually kind of enjoying it. It was like being in a wind tunnel with a wingsuit, but water, but also he didn’t need to breath underwater, but also he was kind of being crushed to death, but also he was damage-boosting through it and totally okay.
+
+Rhys snorted. Strengthening myself from damage gives a whole new meaning to ‘damage-boost,’ huh. Usually it just meant you were using the temporary invincibility from getting hit to scurry forward a few blocks, but he’d just damage-boosted his way straight into a powerup. In his mind, the flashing red-capped man snagged himself a mushroom, and the dnnt-dnnt-dnnt of the powerup activating sounded.
+
+There is way too much living in my head rent-free. I need to start charging.
+
+He swooped on the current, flying around in the stormy waters. Some areas had stiffer currents, and some had gentler waters, where he could almost move around freely. Between his free-flying and his impurity-seeding, he had a pretty good feel for the currents in his immediate vicinity, and that left him with a decent mental map of the waters themselves. Reviewing the map, he realized that he was circulating around something. There was some in and out, give and take, but in general, the waters dragged him in a circling arc around some unknown center point. Every now and again, he could swoop closer, but he was always drawn around that center point, never through it.
+
+Well, well, well. Isn’t that curious. If there was something he couldn’t reach, then that only made him want to find out what it was even more! He adjusted his limbs, dancing on the flow of the water. Now that he had a deliberate goal, he put everything he’d learned to the test, choosing one current after another to slide in toward that center point. He grew closer and closer—and then a fierce flow of water pushed him directly backward.
+
+Rhys frowned. That flow hadn’t been there moments ago… was it some periodic thing? Maybe he had to move faster. He shifted his limbs and sailed off again, chasing the flow toward the center point. This time, he closed in twice as fast, only for a blast of water to once again force him back.
+
+Maybe it’s the angle. Backing away, he took a long way around the center point, flying out with the flow, then chasing the currents back in. He closed in—and then a blast of water pushed him back again.
+
+Rhys gritted his teeth, his stubborn spirit welling up inside him. If it refused so extremely, then he had no choice! He was going to throw everything he had at it to absolutely break through, no matter what! Backing up, he gathered his power, preparing to make one last run at it with all he had. This time, he’d break through… or the ocean would break him!

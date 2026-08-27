@@ -1,0 +1,121 @@
+---
+id: c7a7dba5-8bf8-52f4-aa5b-2f70d94f9b0c
+page-type-slug: story-chapter-royal-road
+title: "175. Everything's Softer When It's Wet"
+slug: 0175-175-everythings-softer-when-its-wet
+partOf: god-of-trash
+position: 175
+ownLength: 2435
+unit: words
+publishedAt: 2025-09-03
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2571947/175-everythings-softer-when-its-wet"
+royalRoadId: "2571947"
+---
+
+Lira splashed down into the river, laying back and splaying in the water. Her hair and clothes flowed around her, pitch black hair billowing around the white cloth as it welled up like the water that supported it, her pale skin barely a shade darker, her lips like a smear of lurid blood. Rhys froze where he stood, struck by the urge to freeze the moment, immortalize it somehow, but then she sat up and gave him a look. “What? Get in the water already. Gods know you could use a bath.”
+
+“Should I leave my clothes on?” Rhys asked. Wearing ankle-and-wrist-length clothes seemed likely to impede learning how to transform his body, but maybe that was just him.
+
+“That’s your call.”
+
+He left his clothes on and walked into the water. If it was all the same, then he’d rather not get naked in front of a predator, thanks. The water was cool, and his clothes flowed around him, first floating on the water, then sucking tight to his body, then flowing free again as he moved and parts of him shifted in and out of the water. He didn’t plop down like Lira, but remained standing, waiting for her instruction.
+
+Instead, she ducked underwater. There was swift motion, and she vanished, like a fish in the sun. Rhys blinked, looking around, only for two strong, wet hands to wrap around his shoulders and push him under.
+
+He splashed down and broke the surface with a gasp, and Lira swam back around in front of him, far more pleased. “There. That’s more like it.”
+
+“You could’ve asked.”
+
+She shook her head. Once more, she vanished underwater, and this time, she only resurfaced her eyes, leaving the rest underwater. Her skin took on an even whiter pallor, more akin to fish belly than human skin, and there was a silver sheen to it, to boot. He wasn’t sure, but he thought he saw fins and webbed hands beneath the water.
+
+“Promise not to scream?” Lira asked, lifting her mouth over the water to speak. Her lips were thin, now, like a fish’s, and her teeth needle-like and sharp.
+
+“Yep,” Rhys said, giving her an enthusiastic thumbs-up. This whole time, he’d been deprived of cat-eared girls, and though fish girl wasn’t quite on his top ten mimi-girl list, mermaids were still peak aesthetic. Who didn’t want to see a real-life mermaid? Even if she was a little scary, that only added to the fun, in Rhys’s opinion. Overly polished monster girls with perfect teeth, flawless skin, and perfectly human proportions except for their ears and tails were fine for gooners, but true gentlemen appreciated the raw ferality of a true monster girl, too. There was something about claws and fangs that added just enough edge to really pique one’s interest, and the little details to point out that this wasn’t just some ordinary human always made the flavor a bit stronger. Now, true, vanilla was the most popular flavor for a reason, but Rhys was an expeditionist who had sampled almost every flavor his world had to offer. If ordinary women were vanilla, then ordinary mermaids were like chocolate. Chocolate was classic, but once you got into the stranger chocolate-banana-pistachio-raspberry combinations, that was where the excitement lived. They wouldn’t always work, and sometimes they’d totally flop, but at least he’d gotten to taste something new.
+
+Lira hesitated one more moment, then stood. Her skin was pale and shiny all over—shiny like a fish. Spiky fins poked out of her forearms and her back, the fins spoked like a wheel or a dragon’s wing. They were white, mottled with black spots, and darkened to crimson at the very tips. Her legs were also adorned with fins, and her feet were large, webbed fins, not unlike a pair of flippers. Her face was slightly distorted, her jaw larger and longer, and her teeth protruded from those thinner lips. Gill slits in her neck fluttered, showing dark red underneath.
+
+Rhys nodded. He wasn’t sure it was an improvement over the typical mermaid, but it was neat-looking. Lira pulled it off, for sure. He liked normal-Lira better, but this Lira was good too.
+
+“What do you think?” she asked.
+
+“I think you look cool,” Rhys replied.
+
+She snorted. “At least it’s not some cheesy line about how I look even better like this.”
+
+“What, did you expect that? I can say something like that if you want.”
+
+“Nah. I ate the last guy who tried that bullshit. I know this appearance isn’t to human tastes, so don’t lie to me.”
+
+Rhys shrugged. “Some people like that kind of stuff. You never know. He might’ve just had weird tastes.”
+
+“If that’s the case, then I feel even more justified for eating him,” she declared, grinning evilly.
+
+Rhys tilted his head. “Do you not like this appearance? You seem completely convinced that no one could like it.”
+
+“I don’t feel anything about it, I just know enough about humans to know you fools don’t appreciate good scales. I’m considered attractive among water sprites in this form, so there’s no reason not to like it.”
+
+Fair enough. It wasn’t like Rhys put great emphasis on whether or not he was attractive to fish, so why would Lira care if humans liked her fishy form? If fish loved her and men feared her, that was just part of the water-bound apex predator skillset.
+
+He gave Lira a thumbs-up. “I’ve got an idea for a hat that you’re going to love.”
+
+“I highly doubt that. Listen. This technique requires you to be wet. That’s its greatest strength, and its greatest weakness. You’ll need to find water to change forms.”
+
+“That’s not too bad.” It wasn’t like another series he could think of where it was the temperature of the water that determined the main character’s shape. All he needed was water, and he could be whatever he wanted.
+
+She ducked under the water again, and emerged as the Lira he’d come to know. “Lay back in the water. Your ears have to be submerged, or else you won’t be able to comprehend this skill.”
+
+Rhys raised his brows. That wasn’t what he’d expected to hear, but on the other hand, he had a book that only made sense when he read it in proximity to the void. Maybe he shouldn’t laugh it off.
+
+Obediently, he laid back in the water and spread his arms, floating in the water. Lira lowered into the water, then vanished underneath. He couldn’t see her anymore. Every instinct prickled against his skin, urging him to sit up and look around, to find where the dangerous fish-demon had gone before she pulled him under the water, wrapped her slimy fingers around her neck, and killed him, or simply took a big bite out of the idiot floating stupidly in the water, but he forced himself to lay flat and float placidly, as though he wasn’t thinking about how many different ways Lira could kill him.
+
+A strange sound echoed in his ears. Muffled at first, it slowly grew clearer, until meaning unfolded in his mind. He laid there, letting the water flow over him and listening to Lira’s voice, and slowly, he merged with the water. He was soft, malleable, a flowing substance that could move over, around, past anything. A shapeless thing that took on whatever form it was given. And what form was it given? The form of the container that held it. Like how mana took on the shape of a core, he could use mana to give himself a new shape, then flow into it. The only limitation was that he wasn’t a very good fluid. He had limits. Limits that were so low that he found them deeply disappointing. He couldn’t change his general dimensions, but he could mold parts of himself, change the details of his figure and the finer points of his facial bones. An image welled up in his mind, and he shifted to take on that image. His bones and flesh took on a new shape, then went still, firming in their new locations.
+
+The murmuring in his ear stopped. Rhys blinked. When had it gotten so dark? How long had he been lying here? He sat up, putting his feet on the ground, and looked at his hands, expecting to see pruny fingers, but instead saw long, slender fingers that didn’t belong to him. He turned his hands over, then checked his arms, patting his ribs to feel his new shape. Far narrower than he’d been, with a dynamic hourglass figure…no boobs, and he was definitely still a man, but he was a supermodel of a man, with unrealistically incredible hips and a far more delicate structure than he’d ever had until now.
+
+“Damn, I’m hot,” Rhys said appreciatively, looking himself over.
+
+Lira snorted. She looked the way he was used to her looking again, more human than humanoid, all the teeth and fins put back away. “Do I need to give you a moment?”
+
+“No, no. I’m not that excited about my new face,” he said, then paused. “Is that… normal?”
+
+“No.”
+
+Rhys sighed in relief. “Thank goodness.”
+
+“The upside to this technique is that, unlike illusions or temporary physical distortions, this technique allows you to truly reshape your body. If you’re knocked unconscious or run out of mana, you will maintain this form. The downside is that until you’re proficient, you’ll need to enter the water to use this, and that it takes more mana up-front to change your shape. It’s unpopular among human mages, from what I understand, and even among monsters, it’s fallen out of favor since it’s so slow to activate… and most monsters don’t like water as much as, well… water sprites.”
+
+“Oh. That makes sense,” Rhys said. Explains why I learned it so easily, anyways, if it’s considered a trash technique.
+
+“I wasn’t expecting you to take all day to learn it, but I suppose you aren’t a water sprite.”
+
+Never mind, I guess I didn’t learn it ‘easily.’ It only felt that way because he had gone into a trance and not felt the time pass, not because he’d actually learned it quickly. He glanced up at the sky again. It was dark, truly dark. Not sunset or twilight, but dark. He’d really spent the whole day floating in the water, focusing on learning a single skill.
+
+Speaking of… He eyed the message floating in the corner of his vision. Body Transformation Lvl 1. The skill had an underwhelming name, but he was pleased with the results. The water-based requirement to activate the skill was a little weird, but then, what had he expected from a skill taught by the water sprite? He’d known going in that she required an anti-umbrella at all times just to function comfortably.
+
+Besides, the skill not deactivating when he was knocked unconscious or ran out of mana was nice. It meant he could rely on it even in battle or dangerous circumstances, whereas some kind of illusion magic was far less reliable. Hell, illusion magic could probably be pretty easily detected and dispelled, whereas this… he scanned himself, but sensed no magic aside from his usual trash star and mana flows. It wasn’t magic. Not anymore, anyways. It was a light switch, not a match. He flipped it on, and became… well, not Adelise, but far closer to her bone structure. He flipped it off, and became Rhys again. While it was turned either way, whether the light was on or not, the light switch itself was inert, unlike the match, which would burn the whole time it was providing light. It wasn’t the best metaphor, since electrons would be flowing to the bulb and all that, but as long as he limited his thoughts to the switch itself, it made enough sense.
+
+Though… I might just leave this on all the time. Well, maybe not this, but… He looked himself over again. He’d been going for Adelise, so he was all narrow and slender, but if he went back in the water, made a few fixes, adjusted his flaws into something less… well, flawed, then…
+
+Lira snorted. “I know that look.”
+
+“What look?” Rhys said, quickly schooling his features into something neutral.
+
+“The ‘ooh, if I just fixed this and that…’ look. Don’t worry. I’ve been there. We all have.”
+
+“Right. I should, um, be myself, and—”
+
+Lira’s scathing look interrupted him. “No? Why would I tell you that? Do you think I was born looking like this? You know I wasn’t.”
+
+“True,” Rhys allowed. She doesn’t seem much into that ‘be yourself’ garbage, anyways. More of a ‘be what you want to be’ kind of person. Shouldn’t have expected her to stop me from body modding myself.
+
+“I was going to caution you to take it slow and spend time experimenting with little fixes before you settle into anything extravagant. Every young water sprite spends their adolescence with some kind of ridiculous proportions according to what they find most sexually attractive, and they all look like idiots. I wouldn’t want you to go flaunting around with a python between your legs, tripping over your own length. We water sprites are used to that, and we take that behavior in stride as a part of growing up, but humans might be a little unsettled if you suddenly return with a huge bulge in your robes.”
+
+“A python—” Rhys choked, taken aback. He stumbled back, then caught himself, struggling to put his face back to neutral. His mind hadn’t even gone there, but—but now that she’d pointed it out, it was all he could think about. How big could he go? No, wait. Maybe that was one place he should stick to being himself. Or… well, since he could transform now, why couldn’t he—
+
+“Anything over ten inches, and you might pass out. Fair warning.” With that, Lira flaunted away.
+
+Rhys stared after her. At last, when she was long gone, he shook his head and sighed aloud. He should definitely just be himself when he wasn’t impersonating someone. Just… be himself. Definitely. One hundred percent.
+
+Maybe just one more inch…?
+
+Rhys smacked himself on the cheek and hurried away from the water before he dropped back into it to play around. Now wasn’t the time. He had a resistance to run, a snack shop to operate, and a ball to crash as the ghostly figure of a powerful family’s dead daughter in a twist worthy of the Bard himself. He could mess around with inches later.

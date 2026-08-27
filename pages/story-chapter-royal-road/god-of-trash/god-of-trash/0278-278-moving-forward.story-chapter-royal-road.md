@@ -1,0 +1,113 @@
+---
+id: eb8c2b49-1e76-5d5c-9a08-d5f9f86fae77
+page-type-slug: story-chapter-royal-road
+title: "278. Moving Forward"
+slug: 0278-278-moving-forward
+partOf: god-of-trash
+position: 278
+ownLength: 2071
+unit: words
+publishedAt: 2026-02-23
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3085254/278-moving-forward"
+royalRoadId: "3085254"
+---
+
+For the first time since he’d become Norton, Rhys headed out on the town. Lily followed him to the door, a bit like a lost puppy. There’d been a lot of that lately, ever since he’d requested spicy eggs. He didn’t regret it, per se, but it was kind of annoying to watch the maid and the wife cringe every time he passed by. They’d get over it eventually, he kept telling himself, once they realized he had no intention to harm them, but until then, it was annoying as hell.
+
+“Do you want me to come with you?” she asked nervously.
+
+“You can if you want,” Rhys said evenly, not that worried one way or another. She wasn’t going to see through his plan 2, and if she usually went out with Norton—or even if she didn’t—she’d only serve to help cement him as the new and improved Norton. He knew his mana signature was slightly different from the OG’s, but he could sell that as a change and improvement in technique and a sudden seriousness toward magehood; it just wasn’t the easiest sell when he had to sell that on top of suddenly overcoming addiction and giving up his fascination with brothels.
+
+In trashy novels, that kind of personal one-eighty happened all the time in the blink of an eye. It was bound to happen whenever a character suddenly discovered a particularly special spirit root or got introduced to their ring grandpa, or whatever other miracle they happened to encounter to make them the main character; there was even a high-flyingly proud novel on a certain royal website that he remembered enjoying, where that exact plotline had gone off in chapter one. Mage-noble logic was pretty out there, so it was possible that his fellow mage-nobles would immediately understand he’d been ring-grandpa’d and spirit-rooted to sudden victory, but it was also very possible that they’d have the much more reasonable what the fuck happened to you reaction, to which he had no answer except to bullshit as hard as he could.
+
+What do those protagonists usually do when their old friends confront them? Rhys pondered for a while, but all he could come up with was “deliver a sound face-slapping,” which he was pretty sure wouldn’t fly in reality the same way it flew in trash novels.
+
+I’ll workshop it. Surely he could come up with something better.
+
+In any case, he was just going on a little stroll today. He wasn’t likely to encounter anyone Norton knew, or even anyone at all. There was no purpose to his walk except to take a stroll around town, so there shouldn’t be anyone who encountered him.
+
+He sighed and put his head in his hands.
+
+“Wh-what is it? D-dar…M-masterling?” Lily stammered.
+
+Darmasterling? Couldn’t decide between Darling and Master, so we went for both? Rhys waved his hand. “It’s nothing. I just realized I jinxed myself, and I’m regretting it before it even happens.”
+
+“O-oh.”
+
+He took a deep breath and stood. The past was in the past, so he might as well stride forth and meet whatever horrible encounter awaited him. He flicked his fingers, casually ensconsing them in a tight-knit orb of impurities. It was a play on the silence barrier he’d seen Madame Tunk do earlier, but trash-style. Unlike a neatly-woven spell, his was just the high-static low-resolution mode from the smoking room, but dialed all the way up to opaque. It felt less cool doing it manually like this… but then, who knew? Maybe Madame Tunk’s neat barrier also felt manual and uncool from the inside.
+
+He glanced down at Lily. “While we’re in public, it’s darling, please. Or whatever you usually call N… me.”
+
+“Yes! Yes, Darl…” She froze, and a look of terror crossed her face.
+
+“If it’s derogative, that’s fine too. I’m not going to take offense. But I am trying to rehabilitate my image, so I’d appreciate if it wasn’t too brutal.” He waved his hand again, retracting the impurities.
+
+Lily nodded. She straightened her spine and stood up sharply beside him. “As you wish.”
+
+“And don’t be so stiff. I’m not someone worth being afraid of.”
+
+She looked at him, then at her feet, then back at him, confusion and terror blending on her face. Rhys opened his mouth to comment on it, then closed it. The more I say to her, the more awkwardly she’s going to act. The best thing I can do right now is keep my mouth shut and just let her relax into her natural self.
+
+He walked down the street, and Lily followed, close at his heel. As he walked, he sprinkled little plan 2s along the path behind him, targeting the exact part of sidewalk he’d seen Ernesto walk previously. That was the entire point of this walk, and now that he’d done it, his objective was accomplished, but if he went inside after casually walking a ten-foot stretch of sidewalk just outside his house, people would start wondering why he’d walked that specific stretch, they’d ask questions, and it would just be really suspicious. So, instead, he offered his arm to Lily, and the two of them set off for the shopping district.
+
+To be completely fair, he did need new clothes. He’d had a look at Norton’s closet, and the man’s taste in clothes lined up with who he was as a human being: gaudy colors, shiny silks, lush velvets, and generally over-the-top and flamboyant outfits that would make him stand out at a ball in a bad way. He wanted a subtly attractive outfit, something he could wear at the ball that could completely blend into the background, but also was impressive enough to draw the eye when he needed it to. Something subdued, yet lavish; quiet luxury, not leisure suit.
+
+This was a chore that he needed to do, eventually. Sure, he could’ve not done it personally, sent the maid out with an order, but one, he wasn’t sure how the maid would interpret that, two, he didn’t necessarily want poison-lined clothes, and three, it just seemed like a really complicated social scenario that would be much easier accomplished, and involve less playing telephone, if he just went and bought some clothes himself.
+
+Of course, he probably would’ve just used the maid and suffered through the telephone game if he hadn’t had a secondary motive, but here he was.
+
+“We’re going shopping?” Lily asked, a few minutes into their leisurely journey.
+
+“I need new robes,” Rhys said evenly.
+
+Lily hesitated. “The… the estate can’t afford any more new robes. Your mother said so, remember?”
+
+“Ah, that’s fine. I have alternative streams of income. I’ll fund them myself.”
+
+“A-are you sure?”
+
+Rhys looked at her. How crazy expensive are these robes? Alternative question: how poor is the estate? “Yeah?”
+
+She gulped, then nodded. “Okay.”
+
+“Worst case, I’ll purchase raw fabric and sew my own robes.” Back home in his world, that would be more expensive than just buying prebuilt clothes, thanks to fast fashion and the slush that was the fast fashion industry. But here, that would be cheaper, plus, he’d be able to invest his own mana and personally shape the defenses on the robes.
+
+Not that he intended to wear his super-expensive formal ball robes everywhere; if nothing else, he just wasn’t that interested in attracting muggers. Which was why he’d prefer to invest less time and let someone else build the robes. He didn’t care that much about defenses, since these weren’t fighting clothes—worst case, he’d wear his trash gear underneath and use their defenses if he needed to, or hot swap robes right before battle. If he was going to make them himself, then naturally he’d build defenses into them, but he didn’t need defenses so badly that he'd worry about it and avoid prebuilt clothes on account of defenses.
+
+“You can do that?” Lily asked, shocked.
+
+“Yeah? You can too.”
+
+“I mean, you know how to do that?”
+
+Rhys nodded. “It’s a hobby of mine. You didn’t know?”
+
+She shook her head.
+
+“We still have so much to learn about each other.” Rhys smiled at her.
+
+She cautiously smiled back.
+
+I feel like I’m dealing with a small animal that’s totally traumatized toward humans, like a sugar glider or something that only has fear responses to human contact. He sighed internally and walked on. He was sure some men would find it adorable, but it was just annoying to him. It felt like he was walking a tightrope, where any over-large gesture or slightly mindless comment would cause her to totally freak out. To her credit, the most she’d probably actually do was go stiff and give him that petrified look, but he was kind of tired of it. Honestly, it made him feel like a wife-beater, even though he hadn’t beaten her at all; it was that kind of guilt and self-disgust, except he hadn’t actually done anything, which made it frustrating on top of feeling awful.
+
+The longer I spend with Lily, the less attracted I am to her. This isn’t how trashy romances about two people forced to live together are supposed to go, he thought, and chuckled to himself. Sometimes, people were just incompatible, and he and Lily clearly fell into that bucket. No matter how long they spent around one another, there was just no spark of connection between them. The more time they spent around one another, the more they’d end up disliking one another, until it turned to hatred.
+
+When he was a kid, he’d say things like, ‘hatred and love are the same emotion, just flipped! If you deeply hate, that’s close to deeply loving someone!’ As an adult, though, he understood that hatred and love were not the same emotion at all. There were coworkers he deeply, earnestly despised, whom he would be happiest if he never had to interact with them again in his life, and whom he was very glad were now in an entirely different universe from him, so that he didn’t even stand a ghost of a chance of interacting with them. There was no ‘extreme emotion and fixation can work either way,’ there was only disgust and revulsion. In fact, rather than fixating on them, he’d would prefer to never think about them ever again, if it was at all possible. And it was fantastic that it was now very, very possible.
+
+He didn’t feel that way toward Lily, but he certainly didn’t feel anything like love toward her, either, or the kind of hatred-based fixation that turned into love in the trashy romances that had occasionally been a guilty pleasure for him back home. He felt… neutral, leaning negative, and he’d be quite happy when he no longer had to pretend to be her anything, let alone her husband.
+
+They arrived at the shopping district without incident. Wandering around the district itself, Rhys kept his head on a swivel, but he didn’t see anyone troublesome. He glanced at Lily. “Who’s the best tailor in this district?”
+
+“Your favorite is—”
+
+Rhys raised his hand. “I’m not asking for my favorite. I’m asking which one you honestly think is the best.”
+
+Lily blushed. She hesitated for a moment, flustered, then pointed. “Th-that one.”
+
+Rhys nodded his thanks and headed over, though internally, he couldn’t help but track her reaction. She isn’t… attracted to me, is she? That would be problematic.
+
+Their trip to the tailor itself was largely uneventful. As he expected, Lily’s taste was far more refined than her husband’s had been (which was the whole reason he’d asked for her recommendation, not some kind of soft-heartedness on his part), and he easily acquired a set of quiet-luxury-style robes for daily wear, as well as a more elegant-yet-restrained set for going to balls. Neither set would be finished today; the tailor merely took his measure and cut the roughs, but the actual clothing wouldn’t be done for a few days, which was within his expectations. Greatly pleased with the visit, Rhys stepped out of the shop to head home.
+
+“Well, well, well, if it isn’t Norton! Where have you been lately?” An arm slung around his shoulders, and the sickly-sweet scent of alcohol, mixed with the sharp-herbal scent of this world’s drugs, encased him.
+
+Rhys stiffened, pressing his lips together. Dammit. Just when I thought I might’ve escaped the jinx, there it is!

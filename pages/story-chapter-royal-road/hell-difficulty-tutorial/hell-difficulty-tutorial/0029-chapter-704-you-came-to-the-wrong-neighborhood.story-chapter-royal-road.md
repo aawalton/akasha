@@ -1,0 +1,175 @@
+---
+id: 43030f3f-a44d-5287-baa0-34eb0d558671
+page-type-slug: story-chapter-royal-road
+title: "Chapter 704 - You Came to the Wrong Neighborhood"
+slug: 0029-chapter-704-you-came-to-the-wrong-neighborhood
+partOf: hell-difficulty-tutorial
+position: 29
+ownLength: 2624
+unit: words
+publishedAt: 2025-12-03
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2816527/chapter-704-you-came-to-the-wrong-neighborhood"
+royalRoadId: "2816527"
+---
+
+My kick sends the pale red presence rolling over the ground. With a single step, I reach it again, kicking it and making it slam against another wall that appears behind it.
+
+I had suspected this, but it seems like it might be weaker after being trapped for who knows how long. Or maybe this is just how it is without its sword.
+
+Well, none of that matters right now.
+
+It tries to move to avoid me, but here, manifested in my mental space, I’m strong. This is my mind, my body. My domain, the place where my mana is easiest to reach, where my passives and skills are strongest.
+
+Before it can escape, I reach it, grabbing what almost feels like smoke with a strange firmness to it. I slam it against the wall and punch it several times in the head. I form a pale blue sword in my arm, dangerous, shimmering, and sharp, but above all, just as powerful as anything made with [Manifestation]. I move to pierce the figure with it and cut it apart, but before I can, it expands from the inside and throws me away.
+
+This time, it is me who rolls over the ground as it leaps toward me in a smooth, long motion. As I raise my hands to defend myself, it slams against them and sends me rolling. I bury my feet into the ground, which shifts from an infinite white void to an earthlike surface and slows me down.
+
+I avoid another attack and kick at it, but it dodges and hits me again, sending me rolling once more. A deep wound I hadn’t even noticed runs across my chest, long scratches cutting through its entirety.
+
+While it charges at me, another wall forms in front of it, causing it to crash and come to an abrupt stop. I charge this time and punch through the wall from the other side, detonating it on impact, piercing through, and striking the figure that flies back after the blow.
+
+I shake off the numbness from my arms and legs and jump slightly on the spot, warming up my body. The figure also stops and stands up, growing in size. We face each other, ready to charge at any moment.
+
+Then the sound of a truck siren cuts through the area, louder than it should be. Both the figure and I turn toward it just in time to see a huge tanker truck flying through the air at hypersonic speed.
+
+It feels like the world slows down as I watch the door of the truck open, as a small figure jumps out. I don’t register much except an old, bleached, red blanket tied around its neck like a cape. A childlike laugh echoes as that figure disappears.
+
+What the fuck?
+
+A wall forms behind the figure, and the hypersonic tanker truck slams into it, pinning the presence inside and exploding into a massive fireball that sends heat roiling through the area. The blast ripples outward in a wave of fire and shrapnel, tearing through the air with a deafening sound. For a moment, the entire mental space shakes, drowning in roaring flames.
+
+The following moment, a powerful pulse bursts from the epicenter and blows out all the flames.
+
+A pale red, smoke-like hand throws the remains of the truck aside and climbs out of the debris, larger once again. It charges at me, slamming into the ground and forcing me to step aside to avoid it. I turn and throw a kick at its arm, knocking the figure off balance, then punch at its face as it falls toward me, now nearly twice my height.
+
+When it swings its other arm, I find myself being forced to dodge. A wall forms in front of me, slowing it down as a long spear manifests in my hand. I stab forward and through the presence. The spear extends further and thickens to the width of my wrist.
+
+Taking a few steps back, the presence wrenches the spear out, throwing it away. Even now, it’s still acting the way it has all along: nonchalant, uncaring, as if nothing could have any consequences for it, as if it can’t truly die.
+
+A quick punch crashes into me, throwing me back. As I land on my feet and look at it, the presence no longer seems focused on escape. It floats there, sickly pale red, like smoke mimicking a humanoid form, its black eyes fixed on me.
+
+Looking at it, I point toward where the sky should be. There, something enormous is falling straight toward us, a huge thing made of metal with its surface glowing from friction as it passes through an atmosphere that should not even exist here.
+
+None of it makes sense.
+
+A space shuttle with its signature red tank plummets even faster than the supersonic truck, its surface glowing red with the heat of reentry, still carrying its massive fuel tanks.
+
+None of it makes sense.
+
+The presence looks up at it, then turns to me. Where its mouth should be, a black shape forms for a moment as it speaks for the first time.
+
+“Seriously?” That voice carries the same lack of feeling and indifference.
+
+“Fuck you.”
+
+Out of nowhere, the space shuttle accelerates to an incredible speed with an audible thump and slams into the ground like a gunshot. The shuttle detonates on impact, a blinding sphere of fire swallowing everything in its radius.
+
+A dozen walls, big as houses, rise in front of me, catching the explosions, the shockwave, and the heat. Each wall shatters under the pressure, exploding outward in storms of debris, only for another to rise behind it and take the blow.
+
+The shockwave crashes against the walls, relentless, each crash louder and heavier than the last. By the time the final wall stands, it’s been blackened, cracked through the center, and has started to tremble as if one more breath might break it.
+
+It then bursts into an explosion and throws me back as the presence steps out of the heat and destruction, taller than ever. It keeps growing and expanding, the eerie feeling around it intensifying as my mental space fills with the smell of blood. It grows until it reaches the size of a multi-story building, towering over my much smaller form. Then it moves toward me.
+
+My annoyance rises even higher. Staring at it, I reach into my reservoir, my body, and the halo floating over my head. I know I should leave some mana for the part of me waiting outside, but I grab and channel as much as I have.
+
+Instead of taking a step back, I take one forward, moving toward the presence. It moves to slam down on me when my body starts expanding rapidly. In a mere moment, I grow to match it, then continue further. My form here inside my mind space reaches my opponent’s height and keeps going.
+
+Twice its height.
+
+Thrice.
+
+Five times.
+
+Until I tower over it and it looks tiny beneath me.
+
+In the same way it tried before against me, I slam against it, using my hand to slam it into the ground, and then I do it again and again.
+
+It slithers and tries to escape from under me, but I grab it and throw it into the ground with a satisfying thump, then stomp on it with my feet.
+
+Once.
+
+Twice.
+
+Then I kick it, slamming it into one of the walls. I move closer and kick again, destroying the wall and sending the presence rolling through my mental space.
+
+“Come on, bitch. Go on, try to destroy my brain, do it if you can,” I say as I take another step and a sword manifests along my arm, a colossal blade that could cleave mountains in half.
+
+Instead of facing me like before, the presence stands in place, then turns around and attempts to leave my mind. But I try to hold it this time, moving faster toward it as it begins to retreat.
+
+It keeps shrinking, down to the size of a human, then a golf ball, then a fly, then even smaller. And then it slips through and escapes my mind to my disappointment.
+
+I return outside as quickly as it disappears from my mind and waver as I see now through my eyes again, merging with the two parts of my mind I left behind to take care of my body.
+
+POV Weslin, a few moments prior
+
+When Nathaniel appears in front of his sister, everything goes quiet. That man known as Christoph stares his way before tilting his head and taking a step forward.
+
+Remembering how he killed those demons only moments ago, I move as well, rousing up my void energy even more and feeling my heartbeat strengthen. That strange thing around him I’ve been sensing shifts, and I prepare to throw my void against it.
+
+“Christoph, if you take one more step, I will kill you,” Victoria says out of nowhere in that emotionless voice of hers. As with everything she says, it manages to sound unusually formal.
+
+Multiple duplicates of her appear all over the room, likely grown from the pieces she’s been throwing all over the place. There are soon a dozen of her, some stepping toward the others and burying their hands into their backs just to pull a sword made of white bone from the place her spine should be.
+
+Christoph stops and lifts his arms into the air, a smile dancing on his face. “I wouldn’t have done that, Victoria. The presence until now killed everyone it jumped into right away, but Nathaniel seems to be different for some reason. It’s just so fascinating.”
+
+Then Nathaniel moves as well and smiles wider than I’ve ever seen. His voice is sharp and bratty as he speaks. “Oh wow, the creepy old guy can smile, and he finds this stuff fascinating. Do you want a cookie or a diaper change?”
+
+That causes even Christoph to pause. “Excuse me?”
+
+“Excuse you? Excuse your style, it’s screaming midlife crisis without the life to go with it,” Nathaniel says and starts giggling before turning to Vic with a smile that becomes gentle. “I have a plan, but just in case, I’m going to get away from here so the asshole does not have anywhere to jump to.”
+
+Before he even stops, that feeling around Christoph intensifies as he reaches toward him with words. “It will be better if you stay here.”
+
+Tracking it through the air, I throw my void energy at it again, and fail to affect it. But Nathaniel isn’t there anymore. Where that thing strikes is where he stood, and instead, he moves through the air, avoiding another attempt to slow him.
+
+In that moment, the expression on Christoph’s face grows annoyed, and the pressure around him increases significantly, a wave of mana filling the chamber.
+
+Victoria’s duplicates reach him too, exploding as they strengthen their bodies to their limit and slam against the invisible protection around Christoph. Each strike sends a shockwave through the room. He merely ignores them, but more begin forming from the scattered pieces and continue attacking him.
+
+My void joins in as I throw everything at him as well, and for some reason, Malika attacks too, laughing all the while.
+
+For just a moment, he has to shift his attention to defend himself as Victoria nearly reaches him under all that bombardment, and Nathaniel uses the opportunity to teleport several times and escape through the narrow pathway we entered.
+
+Seeing that, Christoph just sighs, and whatever surrounds him throws everyone nearby away before he faces Victoria, who still stands in his way to the exit. “If it had been needed, I could’ve helped him with that presence,” he says.
+
+Victoria nods. “Possibly, but I trust him more than I trust you.”
+
+Christoph looks like someone unaccustomed to being ignored, if not the sort of person who always believes he’s in the right. Someone who doesn’t like losing control of a situation, and I can see the gears turning in his head.
+
+“I hope you’re ready to kill him in the event that he fails,” he says at last, then turns around, heading back to the barrier.
+
+A part of me relaxes as cold sweat runs down my back. Even though he didn’t say it outright, I know he would likely have tried to kill me if I repeated what I did before, and for some reason, he’s only stepping back because of the Gwyn siblings.
+
+But as that situation ends and we turn back to the barrier, we freeze, with Christoph perhaps the most surprised of us all.
+
+Someone had used the distraction that just occurred as an opportunity.
+
+Brich, once again alive for some reason, is inside the barrier and next to the talking sword. There are multiple cubes attached to the barrier, creating a passage, and another barrier surrounds the sword, blocking out the likely screams of the weapon. I watch the blade move, but cannot hear it. There is also another array seemingly hiding what he was doing.
+
+Looking like a child caught doing something bad, Brich smiles. “Yo, this isn't personal, so I hope we’re cool and stuff.”
+
+Christoph moves faster than before, and a burst of mana from him causes a few of the weaker people nearby to pass out immediately. In less than a second, he’s at the barrier, and for the first time, I clearly see the humanoid half-figure surrounding him, holding the edges of the hole Brich made, then removing cubes to close the entrance and reform the barrier around the two of them.
+
+“Motherfucker, leave, leave, leave me alone! I want to wait here for my master,” Calvorn is shouting as the barrier drops.
+
+Brich grabs the sword and swings it toward something Christoph seems to have attacked him with. The blade devours it all, but the lumoran’s black arm holding it turns pale, his veins clearly visible as blood drips from his palm.
+
+“Holy shit, man! There is no way you aren’t S rank. That attack nearly got me, and you even broke a barrier created by a low pristine item!” Brich groans. “Well, anyway, please don’t kill me the next time we meet!”
+
+He grabs Calvorn with both hands, and instead of facing the human, the armor around the lumoran turns red as if it is about to melt. Brich disappears with Calvorn, leaving the armor and all the items behind.
+
+The crash of heavy armor against the metal floor tears through the chamber, then silence falls. Dozens of checks flare from everyone present, but they all confirm the same thing, both the sword and Brich are gone, leaving Christoph facing the empty air.
+
+His face is hidden, but I am certain of one thing. Whatever expression he’s wearing, it’s not happiness.
+
+POV Nathaniel
+
+My senses snap into place the same moment the presence leaves my body, and I move to stop it again, but I notice it has stopped as well. Both Assholethaniel and Mapthaniel step back now that I don’t need them to maintain control of my body, and I take over the role.
+
+There is simply no one close enough for the presence to jump into now. Instead of leaving me, it just lingers in the area, attached to me but not trying to enter my mind again.
+
+What a little bitch.
+
+Well, my plan was a bit different from whatever happened, so I’d better come up with a solution.
+
+“Don’t move if you don’t want to die,” a deep male voice warns me, but I find myself unable to locate where it’s coming from.

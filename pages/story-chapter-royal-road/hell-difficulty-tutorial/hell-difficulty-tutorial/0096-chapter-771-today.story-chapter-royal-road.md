@@ -1,0 +1,135 @@
+---
+id: 8aeb6884-61a0-5506-b898-ab52cf13be91
+page-type-slug: story-chapter-royal-road
+title: "Chapter 771 - Today"
+slug: 0096-chapter-771-today
+partOf: hell-difficulty-tutorial
+position: 96
+ownLength: 2337
+unit: words
+publishedAt: 2026-03-15
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3155908/chapter-771-today"
+royalRoadId: "3155908"
+---
+
+POV Nathaniel
+
+Raw mana rips outward all at once, flattening the canyon in a single violent surge. Stone vaporizes, trees are uprooted, the air shakes. More stone fractures and is launched hard enough to shatter again midair. The shockwave slams into the cliffs, rebounds, and collides with itself, grinding rock into dust.
+
+I absorb what I can, my boots skidding back through broken stone as the ground peels away beneath me. The pressure drop yanks debris inward, folding dust back toward the blast.
+
+When the dust clears, the canyon is nearly gone.
+
+Morwag is embedded in the far wall, his armor rippling even now.
+
+I step forward, and a blast of my kinetic energy clears the dust in a single shockwave. My mana stabilizes as I continue to charge it.
+
+The red armor with Morwag inside moves, and he slams his hand holding the Spine Chain into the wall.
+
+Once again, the weapon creates a wave of enormous chains.
+
+Multiple layers of spherical barriers surround me as chains made of water, air, and rock coil around me. They move more agitated than before, stretching further and further. The barriers I’ve made start cracking one after another as I make my preparations, ignoring the attack against me.
+
+High in the sky, one of my arrays is already deployed, and I’ve made some last minute changes to it. Ley Lines stretch and draw, nearly invisible to someone like Morwag. They’re entirely mana based and almost too thin to see. And most of all, they’re durable. There isn't a single simple mana thread between them. Through the efforts of my vessel, the whole thing’s been constructed from Ley Lines.
+
+Morwag tries to pull me out, his signature showing him to be somewhere in the area my attack erased. I almost entirely ignore it, absorbing the momentum and holding myself in place, so he starts running up one of the enormous chains to reach me, unbinding every barrier in his path.
+
+Just before he reaches me, more mana floods into me from the vessel, and an orb forms over the palm of my hand. It glows brightly with tricolored mana, with a small core of gold and white. As I watch the demon charging toward me, I tilt my hand and let it drop, falling through the air toward him.
+
+I teleport away as Morwag reaches me and, landing on the ground, I take a few steps, using pulses of kinetic energy like a sonar and my other senses to orient myself. The explosion in the distance washes over me and makes me stumble a little before I raise the barrier and absorb the heat. When the mana disrupting effect washes over me, I barely notice it. Not a speck of my mana escapes my control.
+
+No new wounds tear through me. And though Morwag is mostly protected by his pristine armor, he is wounding himself. Unfortunately for him, these wounds are being taken by my vessel, to which I’ve shifted his binding. And though I’ve already figured out how to erase it fully, I haven’t done so yet, and instead opt to observe it with a different part of me, even as most of me focuses on this fight.
+
+Even now, I don't reach into the mana I have been storing for the last three months, I just continue to use what I generate.
+
+I open my eyes, which have already regenerated, and activate the inscriptions I have drawn in the sky. The circle they create shrinks, and a beam of mana shoots from it. The core of that beam glowing with white and gold, the result of all my experiments designed to mimic what I saw Professor Elian do and my own observations of my Empyrean skill.
+
+The chains of Morwag’s weapon twist through the air and shoot toward it, all three at once, as the beam continues to move, locked onto Morwag, who I’ve tagged with one of my marks, which he still hasn’t figured out how to unbind.
+
+Enormous chains break one after another, even as they try to stack themselves to protect Morwag.
+
+This is where the difference between our reserves begins to show. I’ve also decided not to face him up close anymore, where he is much more dangerous. I’ve already had a lot of fun, and now it’s time to set some clear lines between the two of us.
+
+The beam pierces through all chains and slams against the arm Morwag lifts to protect himself. His binding energy continues to flare up in front of him as he faces it head on.
+
+Then I gather and throw another wave of raw mana at him from the side. I concentrate it more this time, reducing the size of the impact by half, and he’s thrown through the air, crashing through the remains of the canyon into the next.
+
+Ley Lines I set in the air spin around and stretch down towards me, and after a quick teleportation, I send them at Morwag. There are already two more spine chains made of rock moving through the air, but my Ley Lines swirl around them, materialize and pull, slicing through them cleanly.
+
+Morwag dodges the [Empyrean Lance] I send his way, but then my [Redistribution] holds him in place, powered by nearly all of the mana I’m channeling through my vessel. I continue to raise it up more and more, constantly shifting and modifying it as Morwag modifies his unbinding. My mental processing is much faster than his, relying on my split mind and all the training I’ve done, with just a little reliance on my skills.
+
+Ley Lines coil around him, strengthening and concentrating, focusing on his left arm. There, they tighten around his elbow and start cutting into the armor. The surface of his armor ripples as it feeds on Morwag’s Demon Heart, the red tingeing bloodier and rippling more frequently.
+
+The amount of energy my [Redistribution] holds is getting scary at this point, but there isn’t any sign that my vessel is close to being undone. My pristine passive helps me to endure it all, and instead of my usually damaged body, I’m almost fully healed, leaving me just as I was before the fight.
+
+I push myself further, eyes wide and focused on the Ley Lines, and with one final, powerful effort, they finally tighten, and Morwag’s left arm, just below the elbow, is severed.
+
+Flicking my hand, I use one of the Ley Lines there and bring that arm to myself, and I start taking the Obsidian Spine Chain off of it. Once in my hand, I push through the binding he’s placed there and use it. Not as fully as I would like because of the connection to Morwag, but enough.
+
+Just like when he used it, an enormous chain appears, but this one is made of my mana. It coils around me, expands, and grows while I study the item.
+
+I allow my heart to beat more, to generate more thermal energy, which I turn into mana until the spine chain is three times as long and thick as anything Morwag did. Its color is dark blue with purple and light blue swirling inside as I experiment with the low pristine weapon. I’m well aware this isn’t even close to its full capabilities, but it should be enough to send a message.
+
+I let go of Morwag, and he doesn’t charge me right away as I would have expected. He stands there, facing me and the mana spine chain, and fixes his posture. His heartbeat changes once again, and the red armor turns white, transparent, now with red veins flowing through it as if mirroring where his normal veins would usually be.
+
+When I move the Spine Chain to attack him, Morwag steps ahead and meets it in an impact that tears apart the area. For a moment, he endures and even pushes back at me before his legs slide under the force, and he gets pushed into another cliff in an explosion of dust and rock.
+
+A powerful punch from him sends a shockwave through the area and clears out some dust before he appears from within, running around the chain and streaking towards me.
+
+I move it. The chain shrinks, splits into three, and all attack him from different sides.
+
+Morwag deflects one, avoids another, but the third throws him away before they all attack him once more. I focus on him with the chain, layering attack after attack, and never once do I feel my mana falter.
+
+When I feel it’s a good time, I drop the Obsidian Spine chain and pull all that mana back into me. Then I turn it to the Ley Lines, which swirl around me, taking the shape I force them into. They activate one of my oldest arrays, forming an armor around me. The one I still call Regalia.
+
+It is entirely made of materialized Ley Lines. Like a sleek medieval age suit of armor mixed with something more modern and further influenced by my subclass. My Kinetic Mana Heart switches modes as I regulate it, and instead of mana, it generates kinetic energy that flows through the threads of my Ley Lines.
+
+Each of my heartbeats sends more of it through me, and my vessel dissipates just as I reach Morwag. The armor around him is transparent white with barely any signs of red, and I punch through it, my fist crashing against his cheek and sending him crashing through the ground.
+
+Synced with my kinetic energy, Regalia amplifies my movement. After a burst of speed, I come to a stop in front of the demon as he rises from the punch. He lowers himself, aiming to gore me with his horns, but I dodge to the side, grab the nearest horn, and slam his face into my knee, shattering the helmet.
+
+I don’t allow him to get knocked away and absorb his momentum, so he freezes in the air, and I punch him again to send him to the ground.
+
+He rises quickly and takes a battle stance. "Why did you come down here, Nathaniel? I thought the sky was safer," Morwag snickers, spitting blood, before dodging another punch and landing one of his own.
+
+Ripples are sent through my Regalia, but I absorb most of the impact, and his unbinding just cancels out a few threads out of the many, and they quickly weave themselves back together.
+
+"I did fly to tire you out and because I decided not to be stupid. Reasonable, right?" I punch him again and watch him stumble.
+
+His eyes still shine brightly, but it’s his body that’s beginning to give in, not his mind.
+
+"That’s the right choice. I would have done worse," he laughs shamelessly.
+
+Then the ground under my feet bulges, and three spine chains made of rock coil up across my body and hold me there. With a burst of movement, Morwag reaches me and pulls back, gathering as much force as he can into his fist to punch at my face.
+
+His body halts mid-punch in the air, and a burst of kinetic energy tears apart each of the chains holding me. I take a step forward, grab one of his horns, and swing him down, burying his head into the ground, where I hold it in place as I release my kinetic hold on him and further power my armor.
+
+Morwag doesn't move or try to get away. He just twists his head slightly to look up at me, "You are weaker than Nyssa."
+
+I don't let it affect me in the slightest, "But I'm stronger than you."
+
+That answer stops him for a moment, "That doesn’t mean much beyond today."
+
+"That is true. But I'm still stronger, so I want to ask. Do you accept it?"
+
+He stares at me with one eye, unblinking. Not smiling in a demonic way, but not angry either, before he says, "I can accept it. It just wasn't my lucky day."
+
+Instead of letting him go, I release the pressure around me. I lift the third seal on Ignition Heart just a tiny bit and let all the power of my mana flood my body. Unlike when channeled through the vessel, damage starts appearing, but for a while at least, I can channel it.
+
+All that mana blazes around me, suffocating the demon below. The ground trembles violently, cracks racing across the canyon as my mana radiates outward, becoming visible to the naked eye like a living fire. It pulses in sync with my heart, creating arcs of pale blue light that dance across the canyon walls.
+
+Tiny sparks shimmer around us in the currents that surround us, all bending to my will and twisting in patterns changing too fast to see. The air hums with its presence, dense and heavy, pressing against us as if it has physical weight.
+
+And through it all, I ask once again.
+
+"Do you accept it?" I don’t speak loudly, but my words are clear, leaving no doubt about what will happen if he says no.
+
+His gaze narrows, and this time he answers, "I accept it."
+
+Only then do I let go of him, and mana flows back into my body as everything else clicks back together.
+
+"We’ll be heading to the 5th Beyond Floor after I complete the 9th floor of my tutorial. So be ready."
+
+Morwag climbs to his feet, already healing and recovering all the mana and primordial energy he’s lost.
+
+As he nods in agreement, there is still a fire in his eyes, and I begin to more clearly understand why they call him the most demon demon to ever demon. There’s an acknowledgement of me somewhere in there, and the same as me, he knows I wasn't close to going all out. But he also has confidence in himself, and I know the moment I show even a hint of weakness, he will be here to challenge me again.

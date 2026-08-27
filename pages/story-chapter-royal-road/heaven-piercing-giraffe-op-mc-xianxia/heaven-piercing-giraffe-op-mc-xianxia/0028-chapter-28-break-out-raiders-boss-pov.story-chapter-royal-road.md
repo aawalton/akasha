@@ -1,0 +1,201 @@
+---
+id: bb3bad8d-1c98-5392-ab2c-0b3f4cde8e33
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28: Break Out (Raiders Boss' POV)"
+slug: 0028-chapter-28-break-out-raiders-boss-pov
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 28
+ownLength: 1687
+unit: words
+publishedAt: 2026-08-23
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3853988/chapter-28-break-out-raiders-boss-pov"
+royalRoadId: "3853988"
+---
+
+Chapter 28: Break Out (Raiders Boss' POV)
+
+It was a full moon.
+
+I enjoyed it the way I enjoyed most quiet things these days, sitting cross-legged on the watchtower with my rifle broken down across a cloth in front of me, wiping each piece clean. Solitude gave me peace. Peace gave me the kind of stillness that, if you held it long enough, eventually became something close to invisibility. I'd learned it as a boy, hiding from those who beat me up, and ended up being a habit.
+
+Breathe in. Breathe out. They said the quality of air had something to do with it, but I had my doubts. I grew up smelling filth.
+
+"Boss! Our captives are escaping!"
+
+The shout came from below, followed by the scramble of boots on the ladder rungs. One of my men hauled himself up onto the platform, out of breath, eyes too wide for good news.
+
+"How?"
+
+"We don't know, boss, but it seems like they can still use spirit energy without—"
+
+I face-slapped him before he finished it. Not hard. Just enough. Face-slap was always meant to be used that way. "Newbie. What are you talking about?"
+
+He pressed a hand to his cheek, wounded more in principle than anything else. "It seem like they—"
+
+I hit the other cheek this time, for balance. I grabbed his collar.
+
+"Were you all slacking when I told you to check for pills?"
+
+"W-we did, boss. I swear we did."
+
+"Then they just magically learned to cultivate normally. At ground level." I let that sit for a moment, watching his face. "Does that sound funny to you?"
+
+"N-no." He looked away.
+
+I released him and sighed. Losing my temper over this wouldn't fix anything, and I had a mess to solve before Pusher came to collect them himself.
+
+That thought alone was enough to sour whatever remained of my mood. Pusher didn't ask twice about missing merchandise. He simply adjusted the terms of the next shipment to account for the loss, and the terms were never adjusted in my favor.
+
+"Who's leading them?" I assembled my rifle in less than a minute. I bet I could do it blind folded at this point. I lay down into a firing position. One less product to sell, but the fastest way to end this before it spread any further.
+
+"A man. All in black. White hair," he said.
+
+I turned my head back toward him. "Didn't I tell you to only take women and children?"
+
+He waved both hands frantically. "We did, boss! I swear we're not that stupid!"
+
+I turned back to my position. Scolding him further wouldn't solve anything either. "Tell the boys to funnel them into the open street."
+
+"Yes, boss!" He saluted and started climbing back down the ladder.
+
+I settled my aim on the door of the holding building and waited. I breathed slowly, letting the stillness settle over me one more time before whatever came next.
+
+My underling from earlier stepped through the door first.
+
+Then the door burst open from the inside, sending him flying backward into the dirt.
+
+"Heh. So they really did manage to cultivate."
+
+The man stepped out through the wreckage of the door. Pure black, head to toe, white hair catching moonlight. I found his face through my scope and studied it. Pretty boy. I bet you'd fetch a decent price yourself.
+
+I put an inhaler pill between my teeth and drew in hard. Mist bloomed out from my chest and down along the barrel of my rifle, spirit energy settling into both at once.
+
+More of my men opened fire from the ground. The man walked through it without slowing, unbothered by any of it.
+
+Behind him, the girls followed in a loose formation, pushing a huge improvised shield along in front of them for cover.
+
+Every time he passed one of my men, he face-slapped them, calm and unhurried, and they simply went down.
+
+One of the greener recruits broke and ran, boots scrabbling for distance. The man in black sprinted and caught a fistful of the kid's hair. He wrenched the boy's head around to face him directly.
+
+Then the hand connected.
+
+The boy dropped where he stood.
+
+I frowned behind the scope. Is that face-slap actually doing something? I'd always understood it as an insult, a humiliation tactic, not a weapon with any real teeth behind it. And what in the world was that bundle of flowers he kept carrying?
+
+My men continued firing, a ragged volley of shots aimed from all directions. Every shot found him. Not one of them did anything.
+
+I watched through the scope as round after round struck that black suit and simply... stopped there. No ricochet, no spark, no visible dent or fray in the fabric, as though the bullets had simply lost interest the moment they hit.
+
+"Earth cultivator, probably." I tracked him through the scope, settling on his head. "That suit's likely a defensive skill of some kind." A shame. I needed to kill this one. I put my finger against the trigger—
+
+My rifle split cleanly in half.
+
+I rolled sideways before I'd fully processed what had happened. I'd trained to be invisible since I was a child; I knew, without needing to be told, that this was the work of someone equally invisible. I sharpened my hearing, listening for the quietest possible footstep.
+
+What I heard instead was an entirely normal one.
+
+Then another set, from a completely different direction, blending seamlessly into the ambient noise of the street like it had never been separate from it at all.
+
+"What the—"
+
+I jumped back. A thin line opened across my chest a heartbeat later. Blood started dripping, forming thin lines. Good thing it was shallow.
+
+"Who are you?" I asked the man now standing in front of me.
+
+He didn't answer.
+
+I looked at him properly this time, without straining to see something invisible. Then I understood. He was simply unremarkable. A completely normal person, standing in a completely normal way, and I had been looking straight past him for exactly that reason.
+
+He was a natural. I extended a hand. "How about joining us? Good money in this line of work."
+
+"Won't pretend I don't need money."
+
+"Then—"
+
+"But I don't exactly need a lot of it, either."
+
+"Be real, kid. Everything's got a price. You must have a dream somewhere in there. No reason to risk your neck for others."
+
+"Yeah. I've got one. It's not a grand one, but I won't say I'm content with an ordinary life either — that would be an obvious lie." He smiled. "I'm just doing what a decent person would do at this exact moment."
+
+He vanished.
+
+No — my eyes simply slid off him, and by the time I'd blinked he was already gone from where he'd been standing.
+
+I threw myself off the watchtower's edge, landed on a rooftop, absorbed the impact, and dropped again down to the street below.
+
+"Boss?! What are you doing down here?" Henry looked at me with wide eyes.
+
+I pressed a finger to my lips. "Shh. Cover me. Someone's hunting me."
+
+"We're kind of being hunted down here too, boss." Henry jerked his chin toward the man in black, walking slow and steady in our direction. "Is that guy worse than whatever's got you spooked?"
+
+The street had gone empty from the shooting. Most bystanders long since cleared out, but I could still hear it, underneath everything else. The normal footsteps of a busy street.
+
+"Damn it," I cursed.
+
+The man in black charged.
+
+Henry and five others opened fire in a ragged volley, but he didn't slow for any of it.
+
+He face-slapped the first one down.
+
+He walked past the second, a woman with bland, mousy hair, without touching her at all.
+
+He skipped the third too, a woman with a short bob cut, moving past her like she wasn't even a target worth considering.
+
+"Hey." I grabbed Henry's arm. "He's skipping the women."
+
+"Boss, we're both men here, that doesn't improve our situation." Henry kept firing.
+
+I clicked my tongue and cursed how stupid my underlings were. "The women he skipped, get close, aim for his head!"
+
+"What if he face-slaps us instead?!" one of the women complained, already stepping backward instead of forward.
+
+"He's acting like some wannabe gentleman who won't lay a hand on a girl! And it's just a fucking face-slap! Do it!"
+
+"A normal face-slap from some arrogant young master, sure! Not a face-slap from that monster!" She pointed at the row of unconscious men, foaming from their mouths behind her.
+
+"Useless! All of you!" I snatched Henry's rifle out of his hands.
+
+"Boss?"
+
+I ignored him and opened fire directly at the man's head myself. It did nothing.
+
+"Fine! Take the girls hostage instead!"
+
+The two women finally moved, ducking behind the pushed shield, weapons raised toward the group of captive women. "Stop!"
+
+The shield stopped. The man in black stopped too, mid-stride.
+
+"Get that shield out of the way!" I shouted. "If that bastard dares retaliate, I want a clean line to shoot through the hostages!"
+
+"Boss! It's heavy!" one of them complained, already straining against it.
+
+"Then drop it! Just let it fall! My god, is anyone else here actually thinking?!"
+
+They didn't argue back. They shoved it forward and let go.
+
+It hit the ground hard enough to throw up a cloud of dust. When it settled, the captives stood revealed behind it: the girls huddled close together, one of them carrying the white-haired one I'd shot before.
+
+I swung my aim onto them.
+
+"We won." I let myself grin, patting Henry's shoulder. "Go tie him up."
+
+"What if he slaps me?"
+
+"Just do it."
+
+Henry stepped forward, boots scuffing dirt with every step.
+
+I watched him go. Something nagged at the back of my mind, small and persistent.
+
+Tap. Tap. Tap.
+
+"Henry. Do you always walk that clumsily?"
+
+"What are you on about, boss? Even I know how to walk professionally."
+
+Then what, exactly, were these footsteps I was hearing?

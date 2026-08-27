@@ -1,0 +1,207 @@
+---
+id: fb467521-4fef-5d04-8001-c295e8f71650
+page-type-slug: story-chapter-royal-road
+title: "Chapter 969: Good Lord"
+slug: 0036-chapter-969-good-lord
+partOf: he-who-fights-with-monsters
+position: 36
+ownLength: 2535
+unit: words
+ownProgress: 2535
+publishedAt: 2025-03-07
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2112128/chapter-969-good-lord"
+royalRoadId: "2112128"
+markedReadAt: "2026-06-29T19:05:06.509Z"
+---
+
+Moisture from the nearby waterfall took the edge off the bright sunlight, beaming into the gorge from high overhead. Trees and wildflowers grew around the houses carved out of the rocky walls, wooden decks jutting into the gorge. Clean, natural aromas drifted on the gentle breeze. Jason sat in a porch swing, on the deck of the house closest to the waterfall, an arm draped over Zara’s shoulders as she leaned into his body.
+
+“You made this place to be relaxing,” she said. “Given that you feel as taught as a harp string, it does not appear to be working.”
+
+He let out a slow, ragged breath.
+
+“Anger makes you feel strong, when it actually makes you weak,” he said. “It’s a simple lesson, yet one I need to remind myself of, over and over.”
+
+“So does everyone else,” Zara pointed out. “It’s one of the few areas in which you are completely ordinary.”
+
+“But the consequences if I forget are not. My instincts are to go out, tearing the Earth apart to find who is farming reality cores. I know it’s the wrong move, but it feels right.”
+
+“But you made the actually correct choice. The considered choice. To let the appropriate people do the work that will lead to genuine solutions.”
+
+“It was meant to be easy. I have so much power, yet the best choice is to sit here, using none of it.”
+
+“Is that what you think? Take it from someone who grew up surrounded by politics, Jason: the power you don’t use is often greater than the power you do. Would there be whole nations working on this if your power was no greater than that of your last trip to Earth? Your power is working for you Jason. As is your restraint.”
+
+He reached out with his free hand to squeeze hers.
+
+“Thank you,” he said as she felt his body lose some of its tension.
+
+“Do you know what your problem is, Jason?”
+
+A smile teased through his grumpy scowl.
+
+“Too handsome?”
+
+“You know, your sister showed me some pictures of your brother…”
+
+He sat up straight, turning to put on an affronted look.
+
+“Hey…”
+
+She giggled and he found himself smiling, despite himself. He leaned back and she sidled into his side once more.
+
+“What’s wrong with you,” she said, “is that you’re too humble.”
+
+“Shade, you heard her say that right?” Jason asked. “I don’t suppose you recorded it? Wait, this is my domain; I can just make a recording of it. But does it count as a fake if I do it after the fact?”
+
+“Will you let a woman finish?”
+
+“Making sure women finish is kind of my thing,” he said in a husky voice, then giggled at the slap on the arm it earned him.
+
+“What I’m saying,” she continued, “is that you have this idea in your head that you need to be humble.”
+
+“And it’s a good idea,” he said, the amusement gone from his voice. “Once I started getting power, my greatest fear was what I’d do with it if I turned into a prick. I got a taste of how that would play out last time I was on Earth, and it didn’t go well for anyone. And I have so much power, now.”
+
+“I understand that, and I’m not saying you should never be humble. I’m saying that you need to be careful about showing humility.”
+
+“You want me to be more arrogant?”
+
+“No, not more arrogant. Just the same amount you’ve always been. Do you remember when we met?”
+
+“Of course.”
+
+“You swanned into my tent with the arrogance of a king. Even back then, you carried yourself like a diamond ranker who just didn’t have the rank yet. I think, to this day, you don’t realise how much your connections to the Geller and Remore families shielded you from the consequences of your behaviour. Now, you have the power, but you act like you’re still that manic boy back in Greenstone.”
+
+“In fairness, we met while I was on my way to meet a bunch of gods. I think it’s fair to feel a little important when that happens. Especially when it’s to thank you for being generally amazing.”
+
+“That’s not what they were thanking you for.”
+
+“I’m pretty sure it was.”
+
+“There were hundreds of witnesses, Jason.”
+
+“It was twenty years ago, who can remember?”
+
+She let out an exasperated sigh.
+
+“Your diplomatic agenda on Earth, hasn’t gone as well as you’d hoped, has it?” she asked.
+
+“No.”
+
+“And how much of that would you put down to inconsistency in your public persona?”
+
+“More than I’d like,” he admitted.
+
+“You’ve always been erratic. Grounded and laconic one moment, terrifying and murderous the next. It keeps people uncertain and wary, which is an asset when the world is full of people more powerful than you. Now that you’re the one with the power, is uncertainty and wariness what you want to inspire?”
+
+“No,” Jason said with a frown.
+
+“No,” Zara echoed. “You need to project consistency and power. Save the humility for when you’re with friends and family. Let the people closest to you keep you grounded, and everyone else look up to you.”
+
+“You want me to play the stern authoritarian?”
+
+“No, that isn’t you. Projecting authority doesn’t mean you have to be staid and dull. Look at Dominion. Power can be sexy.”
+
+“You think Dominion is sexy?”
+
+“Of course I don’t. Women are never attracted to arrogance and power.”
+
+He twisted to give her a flat stare, to which she responded with a grin. He rolled his eyes and leaned back into the porch swing.
+
+“Jason, I’m not saying that you need to be something that you aren’t. You just need to school your public persona. Be more deliberate. Every person ever chooses which sides of themselves to show in any given situation. Politicians just have to be more conscious of it than most. And, like it or not, you’re a political figure.”
+
+“I don’t like it. But I chose it, so I should take responsibility for that. Luckily, I have a princess to show me how.”
+
+“That is lucky, because you’re a bad leader.”
+
+“That’s a little hurtful.”
+
+“You’re too rash. Too enamoured of flashy plans that make you feel clever but have consequences you didn’t foresee. You and I have that in common, despite my lifetime of political training.”
+
+“You’re saying that my several months of political training won’t overcome that?”
+
+“That is what I’m saying, yes. But while you make a terrible leader, you’re a good lord.”
+
+“Isn’t that the same thing? And I don’t love it being put that way.”
+
+“There is a difference, and you need to understand it if you’re going to stop stumbling around, hurting your own agenda.”
+
+“Alright,” he acknowledged. “What’s the difference?”
+
+“It’s the difference between strategy and tactics. A good leader is careful. Detail-oriented. They know the pieces on the board and can move them appropriately in the moment. A lord sets the agenda, but trusts those around them to enact it. They forge a path that others can’t see, or don’t believe is possible. They understand that the ultimate responsibility falls to them. The good ones do, anyway. Every time you’ve been separated from your friends, why did it happen? Because something needed doing, so you stepped up and did it. You took the responsibility.”
+
+“I have always held that integrity is sexy.”
+
+She put her hands on either side of his face and planted a lingering kiss.
+
+“Very,” she said in a breathy voice, then let him go. “I’m not telling you to make some grand resolution to become the imposing astral king. Just remember to keep silly Jason for friends and family, and show everyone else the other guy.”
+
+“The other guy isn’t very nice.”
+
+“And they need to remember that. Every time you get distracted by sandwiches or start talking about dark rider, it distracts them from that fact.”
+
+“Knight Rider.”
+
+“What?”
+
+“Every time I start talking about Knight Rider, not dark rider.”
+
+She gave him a stern look.
+
+“I’m doing it right now, aren’t I?”
+
+She raised her eyebrows warningly.
+
+“Sorry,” he said meekly.
+
+“I think you shouldn’t keep as tight a reign on your aura when you’re out in public. Especially when you’re around the key players. Let it go a little heavy when you arrive places, then dial it back. And maybe stop masking your real voice. It was Dominion who showed you how to hide the god voice, right?”
+
+“It’s not a god voice.”
+
+She poked him on the forehead.
+
+“Are you listening at all?” she asked. “No more humility for you. You have us for keeping you humbled. Mostly Neil. You have to go out into the world and show everyone that you won’t be trifled with in your domain.”
+
+“My domain is an alternate universe. And a couple bits of Europe. Small bits.”
+
+“Your domain is wherever you happen to be standing. You’ve been treating it that way since the moment we met. You pretend you don’t see it that way, but the only person you’ve ever convinced is yourself. Now, you need to stop being flaky about it. It’s time to accept who you are.”
+
+“You make the person I am sound like kind of a prick.”
+
+“Tough. It’s time to accept that no one tells you what to do; they ask.”
+
+“You do realise that we’re in my actual domain right now and you’re telling me what to do?”
+
+She pointed a finger right in his face.
+
+“No backtalk from you, Asano.”
+
+“I wouldn’t dream of it, your highness.”
+
+***
+
+Michael Aram had done a lot of jobs in the magical community over the last few decades. He’d worked in multiple Network branches in the days before magic went public. After, he’d worked for the United Nations, the Asano Clan and a company that had gone under after he reported on their magical experimentation on homeless people. His broad range of experience in the magical community had led to his recruitment to the Australian Secret Intelligence Service.
+
+One of several hires from the magical community, Michael’s recruitment had been controversial within the organisation. His lack of experience in government intelligence was arguably offset by years inside the world’s largest and most professional secret society. Even so, there had always been pushback against the outside hires brought in to help the service adapt to a world of magic.
+
+Aram was in the Asano Village briefing room with Natalie Park, the junior ASIS officer with the unenviable position of personal liaison to Jason Asano. They sat with agents from the domestic Australian intelligence agency, ASIO, while representatives of other nations filled most of the remaining seats. The absence of the Asano Clan was conspicuous, as was the empty row at the front. Anna Tilden was present, but she had been clear about representing Jason personally, not the clan as a whole. She was standing up front, next to the projector screen, chatting with CIA officer Natalya Winscott.
+
+Michael had encountered Asano several times since his return. In each instance, he’d been much like he was when they had first met; laid back and casual in the face of absurdity and power. There was an edge that hadn’t been there before, but none of the hard-edged mania of Asano’s last days on Earth. It was a contrast with what he’d seen in the footage of battles in Australia and Pakistan. Of the blood-soaked tunnels left behind when he and his team hunted the vampires under Melbourne.
+
+What he sensed from Jason’s arrival was something new. He sensed the portal open outside, as did everyone in the room. They all shot to their feet as an aura moved out like a battle tank though a kindergarten. The double doors to the briefing room opened and Asano strode in like he owned the place. Aram was reminded that Jason’s uncle had owned the place, until the Australian government seized it.
+
+Walking beside Asano was an astounding, alien beauty. Michael knew from his briefing that this was the princess of a magical kingdom, and she looked every inch the part. Hair, like strands of backlit sapphires, draped over caramel skin. Her eyes were gemstone to match, brilliant and entrancing. Aram shook his head o clear it before shifting his gaze to those following Jason and the princess.
+
+The rest of Jason’s team looked like a superhero league assembled by a diversity-oriented focus group. Several looked Middle Eastern, while Taika Williams was a Māori. One man looked like a professional wrestler cosplaying as an elf. He had sharp, swept-back ears, and muscles threatening to bust out of his white t-shirt. Rufus Remore had skin dark as midnight, as did another stunning beauty, this one with silver hair and eyes. The only white person was Farrah Hurin, with her strawberry blonde hair.
+
+Farrah, Taika, Rufus and Jason he all knew relatively well. The rest were more of a mystery, although he’d been briefed as thoroughly as could be managed. The lanky Middle Eastern man was, by all accounts, the greatest expert on magic the Earth had ever seen. The broad-shouldered Arabic Superman was the leader of the group, rather than Jason. How that dynamic worked was yet to be seen. The elf who looked like he could bend a car in half was apparently a healer, and the slight Middle Eastern lady wearing a coat covered in pockets was looking around like she was casing the joint.
+
+The room was silent but for the sound of the group moving to the front of the room, all but Farrah claiming the front row seats. Farrah moved to join Anna and the CIA officer by the projector screen, Asano’s aura dimmed down, and Aram let out a breath. He heard most of the room’s occupants do the same as they took their seats once more.
+
+Up front, the CIA officer, Natalya, stepped forward to address the room.
+
+“We’re here,” she began, “for a briefing on what we have so far regarding potential reality core farming operations. It’s still early days, but we’ve made rapid progress. To make sure everyone is caught up, the aftermath of the Pakistan battle revealed indications that someone was artificially triggering transformation zones. The assumption is that this is being done to harvest reality cores, something our guest Mr Asano assures us is a Very Bad Thing. Planet killer bad, so our intention is to stop it.”
+
+She glanced at Jason in the front row before continuing.
+
+“We believe that whoever is behind this is working with the vampires to carry this out in Europe, unseen by the world. That means, at the very least, access to multiple intelligence agencies to hide satellite surveillance. Further, it would require access to at least one Network faction to manipulate grid detection of such anomalies. As many of you are already aware, our multi-nation intelligence task force has been mole hunting in potentially affected groups. The other main thread of our investigation is who would have the expertise to make this work. For that, I give the floor to Ms Hurin.”

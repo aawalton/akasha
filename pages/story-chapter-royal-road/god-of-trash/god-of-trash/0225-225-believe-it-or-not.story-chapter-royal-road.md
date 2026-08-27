@@ -1,0 +1,109 @@
+---
+id: b0034446-3346-593f-b17d-1ee92e15eb71
+page-type-slug: story-chapter-royal-road
+title: "225. Believe It or Not"
+slug: 0225-225-believe-it-or-not
+partOf: god-of-trash
+position: 225
+ownLength: 1879
+unit: words
+publishedAt: 2025-10-29
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2715156/225-believe-it-or-not"
+royalRoadId: "2715156"
+---
+
+At last, Mickie sighed aloud. “You don’t seem like you’re lyin’.”
+
+“That’s because I’m not.”
+
+“Crazy thing to claim.”
+
+“Sure would be, if it wasn’t true.”
+
+Mickie crossed his arms and stared at Rhys. Rhys smiled back at him, waiting.
+
+“Fine. I believe ya. Or at least, I believe ya ain’t got ill intent toward those two.” Mickie snapped his fingers, and the bear trap’s blue field dissipated.
+
+“Do others have ill intent?” Rhys asked, though he felt like he already knew the answer.
+
+Mickie gave him a look. “If you talked to Paul, you oughta know that.”
+
+Mickie had a point. He hadn’t missed the sudden, pointed silence at the table next to theirs, or the stares. The northern region’s people seemed to have some strong desire against sharing what had happened to the Sword Saint and Bast, he just didn’t understand what it was. That Mickie characterized it as ill intent when Rhys prompted him, though, wasn’t a good sign. If the northern region’s people were just hiding it because it was inconvenient or embarrassing, that was one thing, but if it was ill intent, then he had bigger problems. Literally, since they were larger people.
+
+“What happened? Something with the northern region?” Rhys asked.
+
+Mickie grunted. He gestured for Rhys to keep following him, and they walked on. “Dunno exactly, but aside from those who were there, I probably know best. Saw ‘em shortly after the fact. The Sword Saint was knocked out, and his apprentice was carrying him, running for town… dunno what happened to him, but my guess would be a beast got ‘im, except for…” He touched his head. “There was something going on with his mana flows. Felt aggressive, almost. Like they were eating at him.”
+
+“And his apprentice?” Rhys asked, heart in his throat.
+
+“Kid was fine, more or less. Well… ‘kid.’ At my age, you’re all children. Point is, they hoofed it back to town, and what did I happen to see moments later but a whole herd of those big guys, chasing after them? None of ‘em noticed me, don’t think. I was sittin’ by the lake, crouched in a bush, waitin’ for the ducks to land—this was back in summer, understand. I told Paul about it, and he told me I probably shouldn’t tell anyone else.”
+
+“Can I trust Paul?”
+
+Mickie wrinkled his nose, thinking hard about it, then let out his breath in a great huff. “Dunno, kid. Paul don’t wanna be a part of it, that’s all I know. If you’re gonna stick your nose in things and start pokin’ around, he might well become yer enemy… but I dunno. Paul’s always been a bit of an odd duck. I think he wants to be small, like us.”
+
+“O-oh,” Rhys said, a bit startled. “Why?”
+
+A shrug. “Why do some people wanna be tall? He’s always been into woodworkin’, though—that’s how come we’re friends. Might be he wants the finer control and more delicate handiwork we little folk have. Meanwhile, I’m jealous of the way he can shape boards with his bare hands and split enormous logs like it’s nothin’. Grass is always greener, ‘n all that.”
+
+“We little folk?” Rhys asked, smiling a little. Mickie wasn’t small by his count; the man loomed over him, with broad shoulders and a barrel chest. If not for the literal giants walking around, he would’ve called the man a giant.
+
+“Spend enough time around the big guys and see if you don’t start thinkin’ of yourself as little folk. Now, c’mon. We got trees to fell.”
+
+“That wasn’t just a pretense to get me out here?” Rhys asked. He’d been kind of hoping it was, though all signs had been pointing to ‘Mickie wants free labor.’
+
+“What’s a pretense? All I heard, was a strappin’ young man signin’ up for some good hard labor. C’mon, it’ll do you some good. Put some meat on those bones.” Mickie thumped him on the shoulder and set off once more.
+
+Rhys sighed to himself, then hefted the axe. It’d been a while since he did some serious strength training, and he certainly hadn’t tested his strength earnestly in a long time. Sure, he’d had battles, but fighting a human with wards, barriers, defenses, counterattacks to worry about, and so on wasn’t the same as simply throwing his all against some massive immobile object and shattering it to thousands of tiny bits. Or, in this case, felling a tree.
+
+They didn’t have much further to go. Mickie stopped before a great tree about as wide around as Paul’s shoulders and gave it a thump, then stepped back. He circled around and notched the tree, then gave a cursory swing on this part. “Here. Cut here, and give it your best shot. Let’s see what you can do.”
+
+Rhys stepped forward. Mickie stood nearby, almost hovering, and Rhys looked over his shoulder. “You might want to step back.”
+
+“Oh yeah, skinny boy? I’ll be fine.”
+
+Rhys raised his eyebrows, but said nothing more. If Mickie wanted to stand in the danger zone, that was his call. He drew back the axe Mickie had given him and spun up his trash star, then released his hold on his original core as well. Both of them burned, rushing up to Tier 4.
+
+Mickie’s eyes widened. He stumbled back, shocked, then turned and fled.
+
+Rhys released the strike. The axe slammed into the tree. Splinters flew, wood chips flying past his face. The axe pierced straight through to the notch on the other side, carving a huge wedge out of the tree as it flew forth, and in its wake, and the tree began to topple.
+
+He turned to Mickie. “Got anything bigger?”
+
+Mickie stared, gob smacked. “What the—”
+
+The tree hit the ground with an earth-shaking rattle, drowning out his final word.
+
+After a moment, Mickie recovered from his shock. He chuckled and walked over to the tree, giving it a slap and vanishing it into his storage ring. “Well, if that ain’t the finest thing I ever seen. C’mon. We’re gonna chop a lotta trees today.”
+
+The rest of the day, the two of them wandered through the woods. Mickie would point at a tree, and Rhys would chop it down. It felt good to exert his strength, and he was able to test different strength levels of his two cores and experiment with how much power each could exert on its own. Overall, his trash star was stronger than the mana core, but it took more trash to exert the same amount of strength as it did mana with his mana core. With the trash star, fundamentally, he was burning trash. With his mana core, he did have to expend mana, but he didn’t need to burn it away; it flowed through his body and he used it, but if there was excess, he simply cycled it back into his core. The trash star, on the other hand, once he burned the trash, it was gone. If he burned too much, that was that; he’d wasted that energy. He could capture it into his core if he bothered to translate it into mana, but for the most part, he just used pure trash.
+
+If he used both systems at once, it was lossy, since the mana and trash would mingle in his veins and interrupt one another, but he could use them both at once. Using either one at once, though, was far more efficient; it was only if he wanted maximum power output that he bothered to use both at once. He knew he had to optimize them to work together eventually, but for today, when he was just testing his power, this was enough. He had to be careful when he swapped systems, too, or else his mana-slash-trash would get contaminated on the front end, which led to a weak opening blow into a full-power medium and late part of the attack; all good things to know, things he was glad he’d had a chance to test out here before he ran into them in actual battle.
+
+He felt a little bad about deforesting the area, but Mickie was guiding him, and he was carefully picking out the trees for Rhys to cut down. He didn’t know that the man was following best practices, but limited cutting of select trees could be good for a forest, and while he was pretty sure Mickie didn’t know what “sustainable forestry” meant, he also knew that things like “sustainable forestry” only existed because an industrial society had ruined the local, already-for-the-most-part sustainable practices with wood, so this was probably a safe amount of deforestation. Probably. Maybe.
+
+Oh well. I can always re-forest later with magic and stuff, he thought, shrugging. There were a lot of trees, in any case, and he and Mickie weren’t really making a dent, nor was anyone else out there logging that he could see, so he wasn’t too worried. This was probably healthy for a forest, or something. He didn’t know much about forestry, so it wasn’t like he’d know what he was doing whether he was putting trees up or taking them down.
+
+As the trees came down, bits of leaf and dead branch fell off. It wasn’t the highest-quality trash, but it was trash, and his trash star desperately needed more, especially with him testing out his newly-upgraded cores on trees. He slurped it all up. Mickie raised a brow, but said nothing.
+
+At the end of the day, Mickie headed back toward town, and Rhys continued to follow him, seeing no reason to stop now. Abruptly, Mickie stopped and lifted his hand.
+
+“Down there.”
+
+“Down there?”
+
+“It’s where I saw the Sword Saint comin’ from. Keep goin’ ‘til you hit the lake. They were comin’ at me from this side of the dead tree—the one shaped like a V, with none of the bark left on it—it’ll be stark white, can’t miss it.” Mickie lowered his hand and walked on.
+
+Rhys stared in the direction he’d pointed, locking it in his mind. If there were answers, they would be down there, where Mickie had pointed, somewhere at the end of that long, sloping downhill. “Thank you.”
+
+“Nothing to thank me for. C’mon. I’ll buy you a drink and some stew as thanks, help get that meat on ya.”
+
+Something pinged on Rhys’s radar, and he paused and turned. “Mind if I make a quick stopover?”
+
+“Sure. There’s nothing down that way, though. Just the dump.”
+
+Rhys grinned. “I know. See you at the tavern at sunset?”
+
+“See ya.” Mickie trundled off, and Rhys jogged toward his next garbage intake.
+
+It didn’t take long to slurp up the town’s local garbage dump. He still had plenty of time before the sun set, so he turned back toward the place Mickie had indicated. He didn’t know whether anyone would try to cover up what had happened, or how long ago it had happened, and since he’d expressed interest in what had happened to the Sword Saint, he didn’t want anyone to suddenly decide to double back and revisit it to destroy whatever remained. He took off at a sprint, snow spraying behind him, and left the town behind.

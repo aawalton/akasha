@@ -1,0 +1,143 @@
+---
+id: 3816c56d-67d9-5acb-829b-63ed76447a0a
+page-type-slug: story-chapter-royal-road
+title: "302. Here We Come"
+slug: 0302-302-here-we-come
+partOf: god-of-trash
+position: 302
+ownLength: 1720
+unit: words
+publishedAt: 2026-04-20
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3298030/302-here-we-come"
+royalRoadId: "3298030"
+---
+
+Moments ago, inside Bast’s mental space.
+
+The world authority fought with all its might. It was no longer expending all its effort trying to destroy Rhys, but splitting it between destroying Rhys and retreating, which made it far less effective. Still, despite the decreased rejection from the world, Rhys persisted. Even if he had to take it inch by inch and level up in this dragged-out, garbage-like way, he was still getting every last ounce that he could out of this situation. When would the world reject him again? This was a deeply valuable, path-defining experience for him, and he wasn’t going to let it go a second too soon!
+
+But just like the worn-out platitude, good things couldn’t last forever. Already, he could feel his power hitting its peak. This was as far as he could go with his current enlightenment, body, spells, and so on. Any further training would just be masochism.
+
+He turned his head, looking at Bast. Bast had almost fully integrated his potential, and only had a few seconds left. Even as Rhys looked at him, Bast drew the last of the potential back into himself.
+
+At that, the world authority abruptly and strenuously retreated, escaping with more force than it had ever used before. It broke free of Rhys’s grasp and retreated into the sky, merging with the ceiling of Bast’s inner world, then vanishing altogether. Rhys stared after it for a moment, then turned to Bast. “You good?”
+
+His friend grinned back. “Never been better!”
+
+Rhys grinned back, then retreated, swiftly exiting Bast’s mental space to return to his own body. He landed with the spiritual equivalent of a bump and looked around, then blinked, did a double-take, and looked again.
+
+The Weapons—the three he’d encountered so far who were somewhat complete, anyways—stood in front of him. It took him a moment to recognize Straw, who was barely more than a few drifting sticks of straw in a vaguely humanoid shadow of cursed energy.
+
+Beyond them stood Virgil, who stood at the head of an enormous army of Alliance soldiers. The Weapons and Virgil and his soldiers were glaring at one another, clearly itching to have a go at one another.
+
+He stared at Sid’s back. So you were here, you traitor!
+
+Sid turned, slowly. Their eyes met, madness and bloodthirst leaking out of Sid’s eyes.
+
+Rhys smiled. “Hey, Sid! Good to see you! And you too, Soma. How’d you break out?”
+
+“A beauty has his secrets,” Soma said with a wink.
+
+“Did it involve seducing the guards?”
+
+Soma gasped, mock-shocked. “I would never!”
+
+“Yeah… thought so.”
+
+Bast glanced at him. “Who are these guys? You know one another?”
+
+Oh, right. Bast hasn’t met Sid or Soma yet. “Bast, meet Sid, Soma. They’re Remnant Weapons, like Straw was. Is.”
+
+“Delighted, I’m sure,” Soma purred.
+
+Sid looked Bast up and down. “We should fight.”
+
+Bast looked to Rhys for guidance.
+
+“They’re special. Just ignore them, they’re on our side.”
+
+“I can be more than just on your side, if you like,” Soma offered, fluttering his eyelashes nondiscriminatorily in their direction.
+
+Bast nodded slowly. “Remnant Weapons, huh. They are pretty… unique.”
+
+Rhys turned to the shadowy figure with the few straws floating in it. “Straw. It’s good to see you again, even like this.”
+
+Bast startled. “Wait—that’s Straw?”
+
+Straw nodded. He looked at Bast and Rhys for a second, then bowed. Rhys bowed back, and after a second, Bast did the same. For merely a moment, they were back in a sunny clearing, facing their Master, no more than two children sparring in the dirt with sticks. Before everything went wrong. Before they were separated, and walked their own, very different paths.
+
+How would things have ended up, if we’d kept studying under Straw? Would he have Universal Weapon Intent? Would Bast? Would either of them have grown as strong as they had, if they had stayed under Straw and not faced all the adversity and trials they’d encountered since setting off on their own?
+
+There was no knowing. All they could do was share this moment and reminisce, even if it could only be for a moment.
+
+“If you’re done…?” a very exasperated Virgil asked, annunciating every word one at a time for maximum emphasis.
+
+“Oh, I’m not done yet. Not until I beat your bloody virgin face into the snow,” Rhys said, stepping past the Weapons to stand at the front of the group.
+
+Bast joined him, drawing his sword. “There’s no more mark now, Virgil. You can’t control me anymore.”
+
+Virgil harrumphed. “Even without my generals, I can destroy you. A couple of piddling Tier 3s? You don’t scare me.”
+
+Rhys laughed. “Don’t tell me. Did no one tell him?”
+
+“Did no one tell me what?”
+
+Silently, Rhys unleashed his strength. He’d been suppressing it down to Tier 3 just on habit alone. Beforehand, when he’d been breaking through, the immense power of the world authority had blocked out any indication of his Tier, but now, there was nothing to hide his power. He slowly ramped up his strength, from Tier 3, up toward Tier 4. At Tier 4, he paused for a moment, pretending that was as far as he could go.
+
+Virgil scoffed. He released his aura to match, easily suppressing Rhys’s early-Tier 4 with a high-Tier 4 aura. “Is that all?”
+
+Rhys’s grin turned predatory. He continued to unleash his power steadily. His aura climbed from early Tier 4 to mid Tier 4, from mid to late, from late to the very peak. Virgil steadily paled, but didn’t back down. As Rhys’s power capped out yet again, he laughed. “Just peak Tier 4? I can compel my generals to fight, and you’ll have nothing against—”
+
+Rhys released the rest of his aura, bursting it up over Tier 5, immediately to low-mid-Tier 5. Virgil stumbled back, visibly shocked, his aura totally suppressed. His power couldn’t begin to match Rhys’s. Rhys had completely and utterly overwhelmed him, without having to lift a finger.
+
+Bast glanced at Rhys out of the corner of his eye, smirking just a bit. “You’re enjoying this too much.”
+
+“Call it payback for all the bullshit this guy put us through,” Rhys muttered back, a grin on his face, too.
+
+A moment later, Virgil rallied. He threw his hand out, and a dozen marks appeared on the air before him, rotating and glowing on the air. “Generals! Come to me!”
+
+Nothing happened. The marks continued to rotate.
+
+“No one coming? Maybe you should hold up a treat. Rattle the dog food bag,” Rhys mocked him. Virgil had insisted on treating those beneath him like trained animals, and it had earned him no love and no loyalty. He could compel them, but no one cared about him, and no one wanted to respond to his call. He wasn’t a leader at all. Hell, even if he considered those beneath him beasts to be trained, Rhys could say confidently that he wasn’t even a good trainer.
+
+A vein bulged on Virgil’s forehead. He pushed his hand forward, and the marks glowed brighter and rotated faster. A portal opened what Rhys could only call reluctantly behind him, and a few of the most powerful members of the Alliance stepped out, including Illya Traje, with her rose-thorn whip. She and the other powerful Alliance leaders regarded Virgil with varying levels of distrust and distaste, but the marks on their chests burned bright.
+
+“Kill him!” Virgil spat, throwing his hand forward.
+
+“Wait!” Rhys said, lifting his hand.
+
+The Alliance leaders glanced amongst one another, then shrugged. Virgil ground his teeth. “What now?”
+
+He drew out a hoop and reached into it, using his hoop-pointing-at-hoop network to jump through the void to his island and offer his hand to Mouse and Sable, hidden on his island. Sable instantly grabbed his hand. He waited a few seconds, just to be sure, then started to retract his hand.
+
+At the very last second, he felt the slightest brush against the edge of his hand.
+
+Rhys pulled his hand out of the hoop to reveal Sable and a nervous-looking Mouse. Sable instantly stood up on the tips of her spider-bone limbs, just about shivering in excitement. Mouse glanced at Virgil, then at Rhys, then nodded and shied behind him.
+
+“Okay. Now I’m ready,” Rhys said.
+
+Sid jumped forward. “Baby!”
+
+Sable whirled. “Father?”
+
+“At last, we can fight together!” He was just about vibrating, partially in a happy-toddler kind of way, and partially in a swarm-of-bees kind of way.
+
+Rhys eyed him out of the corner of his eye. I don’t know whether this is heartwarming or disturbing. I guess heartwarming? Even bloodthirsty beasts have their loved ones.
+
+Sable nodded, almost as excited as Sid was. “I can’t wait! It’s been so long!”
+
+Virgil’s eyes narrowed. “So, you’ve betrayed me, Mauve.”
+
+Mouse cowered back. Rhys stepped forward, prepared to defend, but after a moment, she touched his arm. He stood aside, and she stood alone, facing her father. For what felt like infinity, but could only have been a few seconds, she looked at him, just gazing at him.
+
+At last, she shook her head. “No. You betrayed me… Virgil.”
+
+Virgil scowled. “I never should have taken you in. I should’ve let you disappear, the way you wanted to.”
+
+Rhys rolled his eyes. Virgil would say that, selfish asshole that he was. He glanced at Mouse, not sure if she’d take it hard or not. He was her adopted father, after all.
+
+She stared at her feet for a few moments, then snorted, a half-laugh, half-cry kind of sound. “You would say that.”
+
+Yeah. One way or another, she knows him better than any of us. Of course she knew it was coming. His parents hadn’t been awful, but they hadn’t been great, either. By adulthood, he’d known them like the back of his own hand, and could see their barbs coming long before they opened their mouths. It only made sense that Mouse would know what he was likely to say. From experience, he knew it wouldn’t make it hurt any less, but it could at least dull the pain at the moment of impact. He rested a hand on her shoulder reassuringly, then locked eyes with Virgil.
+
+“Alright. Now that’s enough talking. Let’s get fighting!”

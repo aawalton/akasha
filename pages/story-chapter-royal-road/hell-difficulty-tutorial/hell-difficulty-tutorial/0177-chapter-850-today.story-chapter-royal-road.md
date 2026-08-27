@@ -1,0 +1,145 @@
+---
+id: 75dee4de-4ecb-58ef-8e1e-63276d1268cf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 850 - Today"
+slug: 0177-chapter-850-today
+partOf: hell-difficulty-tutorial
+position: 177
+ownLength: 2565
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3748196/chapter-850-today"
+royalRoadId: "3748196"
+---
+
+[Selective Adaptation] allows me to adapt to one thing at a time. It’s an active skill too, so the adaptation isn’t permanent, and there’s a time limit to it as well. At least for now. As I level up, the process of adaptation itself becomes faster and lasts longer. But currently, it’s locked into adapting my body to my movement speed. That’s why I can’t use it against the bits of Nyssa’s blood burning inside my chest.
+
+I allow the shockwave of my explosion to wash over me as I teleport again, just as Nyssa reaches where I once stood.
+
+Before she can follow me, Morwag is on her, boosting his movement by binding his speed to hers. He rushes at her straight through my explosion, and that beautiful lunatic is currently binding part of that explosion to his skin.
+
+I don’t even try to comprehend how it works, but it explains why the explosion wasn't bigger. As the demon runs, the energy lingers on his skin, splashing around him with each movement as he keeps losing parts of it. Destruction follows in his wake as he reaches Nyssa and crashes against her.
+
+I, meanwhile, [Focus] on cycling my Empyrean Ichor through my body. It moves much more aggressively, reacting to the bits of Primordial blood burning inside of me. As I generate more mana, the force of gravity pulling on me increases, but that mana gets absorbed by my blood, strengthening it further in combination with my increasingly boosted circulation.
+
+My finger moves back to my forehead. I let a tiny bit of kinetic energy destabilize to cause a small wound on my fingertip as I swiftly draw more inscriptions across my forehead and the sides of my head, eventually tracing over my ears as well.
+
+The world slows down further, to the point I remember Lissandra’s warning. I begin to feel even emptier and more tired, but my effort has nothing to do with my feelings. I wouldn't have endured Lissandra’s training for so long if my effort was powered by anger or a need to prove something to myself. After all, such feelings die off after a while.
+
+I glance down to watch the two figures move quickly all over the place, destroying mountains. Morwag makes himself a giant as he binds entire forests to himself, throwing unbinding energy all over the place as he attacks Nyssa with his extremely durable body.
+
+Then, I reach for the small bag on the back of my waist and take out a protective case containing a single item: a syringe with a strange liquid sloshing inside, made by an even stranger lynthari.
+
+I think I can take advantage of Nyssa’s blood and my ongoing trait strengthening.
+
+Without hesitation, I stab that syringe right into my heart, using the wound Nyssa caused that refuses to heal. Then I press down and send all the liquid made with Leviathan spinal fluid inside.
+
+All sounds disappear. I don’t even detect my body reflexively raising a barrier to defend against the projectiles shooting toward me. My blood surges even wilder, and so do the droplets of the Primordial Blood. The veins my Ichor passes through burn, and more of my mana gets absorbed into it and hyper-condensed, fighting against the Primordial Blood.
+
+And my Mana Heart begins to slow down as this happens. The thumps become slower and slower and weaker until it fully stops. Without it beating, the silence becomes even deeper, and that silence stretches for a long few seconds.
+
+Then it begins to beat again. Right from the start, it flutters like the heart of a small animal. I stop counting at the estimation that, if it continues to beat at this speed, it will be 300 heartbeats per minute. Each beat surges mana through my body, but unlike my normal mana, it’s been pre-condensed to the point where I’m confident a slight push is all it would take to turn it into black mana. It even clashes against the Empyrean Ichor, further causing it to rage on.
+
+I don’t know how long the effect will last, so I move further into the air with my vessel growing, drawing inscriptions that I then begin to [Weave] into the sky. Through them, the mana I’ve been gathering spreads, pulsating and activating them.
+
+Just in time too, as Nyssa jumps to the top of the highest peak she can find, swinging her hand to rid herself of what must be Morwag’s blood on her fingers. She jumps in a pulse of kinetic energy, her heart now beating only when she wills it to. That one pulse entirely destroys the mountain beneath her, sending cracks rippling out across its entirety, and with a rumble, the rocks start rolling down as it breaks apart.
+
+The sky seems to tear apart as I manifest dozens of human-like arms that almost seem to pierce their way into reality from my [Weave], each one the size of individual buildings shining with a dense blue light. The arms continue to extend, longer and longer, moving almost like snakes as they reach towards Nyssa with open palms to grab her.
+
+With a sword made of her Primordial Blood, she swings and deflects them, causing them to continue down to the ground and pierce into the earth, the forests, and the mountains around.
+
+I even get a few kill notifications and a level up, but I only bother to check my skill notifications.
+
+[Weave - lvl 20 > Weave - lvl 21]
+
+[Weave - lvl 21 > Weave - lvl 22]
+
+[Weave - lvl 22 > Weave - lvl 23]
+
+[Weave - lvl 23 > Weave - lvl 24]
+
+[Manifestation - lvl 48 > Manifestation - lvl 49]
+
+[Manifestation - lvl 49 > Manifestation - lvl 50]
+
+Each time Nyssa swings her sword, I feel a burn in my chest as if in reaction to that, and both my wound and the broken ribs remind me of their refusal to heal.
+
+My quickly beating heart seems like it might be about to explode, but instead of using its entire output to fight Nyssa, I spread a large portion throughout my body, supporting it in its fight against the Primordial Blood and my increasingly wild Empyrean Ichor. One of my eyes is closed as I concentrate inward, aiding that process even further and aligning all that mana just the way I want.
+
+I teleport away just as Nyssa reaches me, and leave a vessel behind that grows two more arms and coils them all around Nyssa. The halo over its head spins faster, pulling in everything I’ve woven in the sky and destabilizing just as a white and golden core starts to blink within.
+
+[Empyrean Lance - lvl 56 > Empyrean Lance - lvl 57]
+
+[Empyrean Lance - lvl 57 > Empyrean Lance - lvl 58]
+
+Another of my longer distance teleports is stopped by a shockwave from the explosion that spreads a mana disruption wave through the area, and I crash against the ground and roll once before I absorb my momentum and jump up to start picking up speed. In a powerful, long leap, I jump over the mountain and boost myself to the ground to pick up even more speed.
+
+The speed at which I move causes a strong wind to blow in my face as I continue to run faster and faster, leaping and jumping like a happy kid enjoying a run probably would. Debris rains all around me, and my explosion has collapsed back inward in a strong implosion, and bursts of mana stream through the area, lashing outward and cutting through everything in their path, destroying the space even further and coloring the sky in hues of white, blue, and gold.
+
+Without looking back, I dodge, avoiding the debris raining down around me and even a few projectiles originating from the albino demon hunting me.
+
+[Perception - lvl 77 > Perception - lvl 78]
+
+The amount of mana I’m spending to deal with the mess inside of my body is insane, so I’ve formed a new vessel behind me to help to deal with it all. But slowly, I start to run out of mana. I don’t want to unseal my Ignition Heart again, as I have no mental capacity to deal with primordial energy and redistribute it, and I don’t want to use black mana, as I don’t want to share and fight with it right now.
+
+So that only leaves me with one option.
+
+My run comes to a stop right in front of Savant, who is, for some reason, almost fully healed, unlike the still bleeding Weslin, and I wonder what this unhealthily patient guy must have absorbed from Nyssa and how much of the asskicking he purposefully endured.
+
+Pushing these thoughts away, I [Weave] my reinforcement and kinetic energy to move at a burst of high speed. Savant begins to react and almost spikes his mana to the point he matches me, but I surprised him. I take the Sword of Aeons out of his hand and boost myself high into the air as Nyssa crashes into the exact spot I stood before, leaping after me.
+
+Using a mark I placed previously, I teleport again before she can stop me, and appear right at the spot where my vessel exploded.
+
+I let mana flood out from the Sword of Aeons, and I release all the locks and seals on it, letting it stream out at full bore, like the entirety of the ocean crashing through a window to fill a room. In these currents, I swim so easily. I bend them to my will, making the mana flow around me and float to the halo spinning over my head, from which I draw in even more and move it through my body.
+
+Both of my eyes are closed now, looking inward as my still-wild heartbeat mixes with the mana I’ve continued to compress. The whirlpool over my head draws in remains from the explosion and then from further away. It roars audibly with a piercing noise, like a maelstrom pulling in air from miles and miles away. I drown my body in it, and as easily as breathing, I use Mana Cycling, moving it all just the way I want.
+
+I think the most ridiculous part about this is that my body hasn't exploded yet. Just a single slip up, a single mistake, and nothing will remain of me, and an area the size of a small country would be destroyed in the explosion.
+
+But finally, a few droplets of Primordial Blood die off, suffocated not by Empyrean Ichor, but by my mana and my body itself.
+
+A notification dings.
+
+Your trait, Mana Physique, has begun forcefully evolving!
+
+This evolution is being influenced by the ongoing external factors, your performance up until now, and is taking place to more accurately reflect your capabilities and the state of your body.
+
+Mana Physique 2/5 > Mana Vessel 1/3
+
+Mana Vessel - The user's physique evolves into a reinforced container that can hold mana at a density far exceeding physical limitations. The integrated network allows for the compression of massive energy volumes into the user’s frame, turning the body into a high-capacity reservoir capable of sustaining immense output and allowing mana to flood through the body with near zero resistance.
+
+This further adds to the strain I’m under, though it fails to dim my excitement as I swiftly read the description.
+
+There are two traits applying, my mind feels like it might just switch off, and then there’s that albino demon currently hunting me like I owe her money.
+
+The Sword of Aeons runs out of mana, and with a boost of kinetic energy, I throw it at Nyssa, who’s finally caught up to me, and somewhere in Savant's general direction.
+
+Obviously, Nyssa avoids the sword easily.
+
+Somewhere in the distance, I notice Morwag, surfing the huge links of his Obsidian Spine Chain in our direction. Even if he seems back in one piece, I don't think he’s healed. I believe he just picked up the severed body parts and bound them back to himself. That maniac must be just as damaged as me, but he just keeps coming. I wonder if, at this point, even Lyraen would be able to damage him, after all people like Nyssa just don’t count.
+
+I also notice Savant scraping bits of Nyssa’s blood from the ground, and storing them in a vial. This almost makes me chuckle even as Nyssa cuts at my body and destroys my attempts to teleport, so I boost myself away with what feels like the last bits of my energy.
+
+This is when I decide I have had my dose of fun, and it’s probably time to dip.
+
+Today, I haven't even forced that goddamn demon to use her third primordial energy.
+
+I use feints for my teleport as I stretch multiple lines, and she fails to find the right one. I teleport away towards where I sense the portal to the Entrance Floor, away from the surface, and this maniac.
+
+Passing through, the world around me spins more than it should, and I almost expect to find myself back with Diligence or Ruby, or back on the 12th Beyond floor. But I just appear back in the Entrance Floor. It is a smaller city with cobbled streets and many fresh Beyonders passing through with eyes wide open at the exciting new area of their tutorial.
+
+Once there, I stumble and lean against a wall, smearing my blood on it before I push myself off and walk through the crowd.
+
+The hairs on the back of my neck rise as, to my left, I notice Nyssa walking there as well, with only the people from the crowd between us. I almost hope for her to be reasonable, but then I realize just how silly that is, just as she shoots projectiles of air at me. These projectiles pass right behind or in front of the attendees. Some even ruffle the hair of a few without them noticing.
+
+I let the attacks slam against the defensive layer I’ve swiftly raised above my skin, modifying it so it ripples and absorbs the impact instead of them detonating and deflecting.
+
+Both of us continue walking in the same direction, while none of the attendees notice a thing. Her projectiles crash against me, and I shoot some near-transparent mana orbs at her that she breaks apart into faint mana particles. We both shoot while avoiding hitting the people between us, sometimes by a hair’s breadth.
+
+Nyssa’s eyes narrow further as she changes direction and starts heading more in my direction, ready to cut off my path. The weapon that was a sword on the surface of Beyond is now a small dagger she holds hidden in her palm.
+
+In my hand, a small [Empyrean Lance] begins to form before I squeeze and break it, turning that mana into a dagger similar to hers.
+
+Finally, some of the other attendees actually seem to sense something, and a few start looking around in panic, and others look like they are suffocating. Meanwhile, Nyssa and I keep our eyes locked. That gaze doesn't break even as the area behind us explodes and people scream while defending themselves.
+
+It seems that Morwag has arrived as well.

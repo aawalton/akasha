@@ -1,0 +1,307 @@
+---
+id: 8e4482db-6a3a-5ce2-8c1a-58793a6b01aa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44"
+slug: 0044-chapter-44
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 44
+ownLength: 3484
+unit: words
+publishedAt: 2026-02-13
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3051648/chapter-44"
+royalRoadId: "3051648"
+---
+
+Chapter 44
+
+The next morning, Veron had the best breakfast he’d had in a while. Porridge, eggs, what tasted like sourdough bread, and dried meat. He appreciated it a whole lot more after living in the wild for a little while. He then went on to learn about a variety of plants, Warren showing him colored illustrations in old books instead of simply sketching things down like last time, explaining where they usually grew, and how to harvest them. Veron took notes on a piece of paper, a cheat sheet he would take with him into the wilderness, along with a few tools that Warren lent him.
+
+He left into the forest to the north, stone armor covering his clothes and weapons at the ready. The weather was good, only a few clouds visible in the skies above the valley. The foliage was lush and there was no path to tread on, but Veron found that he felt confident nonetheless.
+
+He was back in Eyra, this time immediately starting his work for Warren instead of the Holts. If he came across any dangerous critters, he felt as ready as he could be, stone blades and projectiles inserted into various places in his armor, shield and mace ready to meet them.
+
+The lesson had been good too. He wasn’t near as excited about herbs as he was about his magic and the world at large, but Warren’s obvious excitement about the various properties and possibilities that came with some of these plants carried over. It was clear that he cared about the subject deeply.
+
+As Veron started foraging, he imagined it would be a pretty low risk way to make some coin as well, here and elsewhere, and a part of him was thinking about the future too, if and whenever he would return here.
+
+He narrowed his eyes at the thought and kept pushing through the forest, listening to the sounds and looking out for any plants that seemed interesting.
+
+If I do return, then maybe I could memorize the location of the most valuable herbs and flowers here. I could even collect them before going to Eyra, pretending to be some experienced forager looking to sell what I’d found.
+
+There's probably going to be a whole lot of things I'll need to remember. Silvie and the others did talk about treasure in the dungeon too. If I figure out where things are hidden, and what kind of dangers come with them, I could just go there again after I return.
+
+But for now, he was looking for plants, and that turned out to be almost as difficult as tracking monsters. At the very least, most of the flowers he knew of didn't run away.
+
+He had his first find past noon, whistling as he crouched in front of a small patch of pink flowers. Strellbloom, named after a bird of the same color. Each flower had three pellets that seemed to reach towards the sun. The dark, almost black stem made him think of flamingos. Warren hadn't shared its use, but told him to prioritize these above many of the other plants.
+
+The color made them very easy to spot against the generally green and blue hues of these forests, but they were rare most of all, and only bloomed a few days after a full moon.
+
+Veron took care to harvest them the right way, and then went on.
+
+One nice benefit of this job was that he could work on his Wind Harmony, Veron repeatedly spending around half his Focus to connect to and move the wind around him, around his armor, and his weapons, to familiarize himself with the feeling.
+
+Some hour or two later, he found a small patch of Sevan Grass, the twin leaves twisting around each other and pointing downwards made them almost unmistakable from up close, if one could spot them in the sea of green. He harvested them too.
+
+Veron turned back some time later, using glimpses of the surrounding mountains to orient himself within the forest. He found a stream and later shot a squirrel like creature that crossed his path. It had frozen up for just a moment when it had seen him, and that was that.
+
+Veron found the Heran river in the late afternoon, and returned to the Downwater Inn for dinner. Compared to his last few ventures out into the wilderness, he didn’t come back empty handed.
+
+Warren paid him four silvers for the Sevan Grass, and one silver for each of the Strellbloom flowers. One day of foraging had earned him twelve pieces of silver. It felt like a lot, but it all came down to two pretty lucky moments where he had found something valuable.
+
+Veron also realized that he would have almost no chance remembering where exactly he had found a rare flower, even if he could somehow remember the general location months or years down the line.
+
+He had a short conversation with Warren that evening and then was off to bed.
+
+The next day, he only found a patch of Lirren, purple ball-like flowers with a citrussy smell. Warren paid him twenty five iron for them.
+
+The day after that, Veron found nothing of value, but he did manage to increase his Harmony of Wind to Beginner II.
+
+Those were calm days, and Veron was always glad when he found the inn again. Every journey out into the wilderness, he had no idea what he would get, always on the lookout for both critters and valuable plants. He worked on his magic and studied what Warren had taught him whenever he took a break.
+
+On the fourth day, when he returned to the inn, he saw Ivera.
+
+She was sitting with Warren and drinking a pint, glancing back at him when the innkeep gestured towards him.
+
+Veron was glad he wore his helmet, and his armor for that matter, though he knew it couldn't conceal that he felt scared. No other guests were present tonight, the trio of adventurers that had stayed at the inn had left in the morning, south and towards Lyrie.
+
+“Welcome back,” Warren said. “Did you come across some beast or what's going on?”
+
+Ivera drank from her ale, watching him with a somewhat bored expression.
+
+Pretty much exactly that, Veron thought and forced himself to walk closer to their table. “No, didn't come across anything again. But I did find what I think should be White Bristle.”
+
+Warren raised his eyebrows. “That would be quite exciting! But come have dinner first, and maybe you can meet the likely reason why you've not come across any monsters so far. If that's fine with you both?” He eyed Ivera, who gave him a slight nod.
+
+Veron, more than anything, thought it dangerous to decline. If he stayed here for a while, at one point or the other, she would have been interested in finding out who he was, and here at least, they weren't in the wilderness. He sat down next to Warrens' seat, opposite and diagonal from her, then took off his helmet and set it down.
+
+They met eyes. Her long brown hair was bound, the red in her eyes barely visible in the warm light of the common room. Her greatsword rested against the table.
+
+Veron blinked. “I’m Veron,” he said.
+
+“I heard. You're the adventurer looking for herbs. Modest, was that right?”
+
+He could feel his heart pounding in his chest, glancing at her blade.
+
+She raised an eyebrow, drinking from her ale.
+
+“Modest, yes. Elemental Path with an Earth and Wind harmony.” He paused, then breathed in. “Sorry, you seem kind of dangerous. That is armor from Sor, isn’t it?”
+
+“People sometimes think that,” she said. “And yes, it’s from Sor. Were you a soldier?”
+
+“No. But I know the colors.”
+
+She watched him.
+
+Warren set down a plate of steaming food. Veron looked at it, potatoes and grilled meat. The smell came a moment later and he locked up, trying to push himself away from the table before he stumbled and fell to the floor.
+
+“What's going on?” Warren asked. “Ivera, did you do anything?”
+
+Veron felt his vision blur, almost retching as he thought back to the pyromancer, the fire mage, the cursed. He breathed faster, and his heart hammered in his chest. When he saw Ivera crouch down next to him, he tried to move away and hit his head, looking at her eyes. His chest felt tighter.
+
+She’s going to kill me.
+
+“You're not there anymore,” he heard her say instead, her voice less pointed than before.
+
+He looked at her, and held his breath.
+
+“We are in Eyra. There is nothing here that will hurt you. Snap out of it.” She kept her eyes on him. “Warren, get the food away from him. And get some cold water, and a rag.”
+
+Warren was off and Veron simply sat there, watched and gently talked to by the woman that had killed him last. He saw the red in her eyes, and then Warren came with a wet towel. The cold calmed him down a little.
+
+She wasn't just the woman who had killed him, he realized. She had also taken him in, had taught him how to fight, how to survive in the wilderness, and how to make his armor. It was modeled after hers.
+
+She also doesn’t know me.
+
+His breathing slowed. And then he blinked his eyes.
+
+“Back with us?” Ivera asked.
+
+“Yeah.”
+
+“What was that about? Don't freak us out like that,” Warren said.
+
+Ivera glared at Warren, then she looked back at Veron. “Something brought back a memory. A smell? Or something else?”
+
+“Yeah,” Veron said quietly.
+
+She made a grunt and sat back down.
+
+“Was it the food?” Warren asked with some confusion.
+
+Veron rubbed the back of his head as he sat back down. “Should have kept the helmet on.” He glanced at Warren, feeling tired suddenly. “It's the smell of grilled meat. I once... there was someone with a Fire harmony. It wasn't a great day.”
+
+“That's... I'm sorry, I'll get you something else. Or, do you even want food? And is there something else I should know of that brings back memories?”
+
+Veron glanced at Ivera, and then he shook his head. “Anything else is good. I think just some of the potatoes is fine as well. Thanks.” It felt exhausting to explain. He said it and gave Ivera a nod as well.
+
+She drank silently, though the look in her eyes seemed softer than before.
+
+They didn't talk until Warren brought back food, this time without any meat. He sat down and watched Veron eat for a little while and then seemed to relax. “Do you mind if I look at the White Bristle?”
+
+“Go ahead. I found quite a few of them,” Veron said. He looked at Ivera. “What did he mean before? When he said you were the reason there were no monsters here?”
+
+“I'm a tracker. I hunt and kill chaos beasts and Blood Paths that come too close to the village.”
+
+“This is a great find,” Warren interjected. “I told her that you had started working for me. She usually wants to talk to people who stay here for a while, make sure they're not trouble.”
+
+Veron nodded. “Makes sense.”
+
+“How long do you plan to stay?” Ivera asked.
+
+“Not long. I suppose it depends on who comes through. The group that left today went South. I want to go back to Anvakar. I'd prefer a bigger group or a merchant or something, seeing that I'm alone.”
+
+“I was hoping you’d stay for a while longer,” Warren said with a slight sigh. “But well. I do know quite a few people that come through. Maybe I can put in a good word for you.”
+
+Ivera seemed satisfied with that and nodded slightly.
+
+Veron felt pretty drained by now, and his appetite was barely present. “I think I'm going to catch some sleep.”
+
+“Of course. I’ll let you know about the White Bristle tomorrow. Rest well, and let me or Tenya know if you need anything else.”
+
+Veron nodded and stood up. He looked at Ivera. “Good to meet you, Ivera. And let me know if you have any more questions. Happy to talk, just not right now.”
+
+“I will. Goodnight, Veron. And don't forget your helmet,” she said.
+
+“Right,” he said and picked it up.
+
+“Such a useful Path. You made that armor yourself?”
+
+“I did.”
+
+“It's an interesting design,” she said with a slight tug on her lip.
+
+Veron smiled. “Yeah, might have taken some inspiration here and there.”
+
+She smiled and slightly shook her head. “Just be careful if you ever plan to visit Sor. Some people might take offense.”
+
+“That’s good to know. Goodnight,” Veron said and left, closing the door to his room behind himself before he slid down to the floor and closed his eyes.
+
+He got off his armor with the help of his shaping, and then he went to bed with a slight migraine pounding in his head.
+
+Maybe the White Bristle could’ve helped with that.
+
+If I was a Blood Path beast, I would avoid this village too.
+
+A few more days turned into a week and by now, Veron had several pages of notes on rare and valuable herbs and flowers, continued lessons under his belt, and eighty five silver to his name. Ivera hadn’t come to talk to him anymore.
+
+His magic hadn't progressed much further, though he felt a lot more comfortable moving the wind around himself, and he was more confident in the accuracy of his stone projectiles too. Veron still hadn't encountered any other beasts. Nothing dangerous at least.
+
+When he walked down the stairs for breakfast, he saw a few new faces in the common room. Men and women dressed in leather and steel armor, dusters, light packs, and armed with bows and crossbows, wands, and daggers. A few of them glanced his way and he tensed up for a short moment, looking around until he saw Warren talking to one of them. The atmosphere seemed relaxed, so he continued down and greeted the strangers in passing.
+
+Veron got a few nods and words in response, though it was clear the party of seven was tired. It had rained the past night, and they were soaked and dirt covered, the smell of wet earth mingling with that of cooking eggs. He saw neither adventuring badges nor any other identifying crests or colors.
+
+Tenya nodded his way as he approached the counter. “Got breakfast ready for you, Plant Man.”
+
+“Thanks, Tenya,” he answered, ignoring the nickname she had started using a few days ago.
+
+“You're no fun.”
+
+“I’ll try to work on that,” he said. “What about the newcomers?”
+
+“Acting like you're not one yourself?”
+
+He gave her a bored look and raised an eyebrow.
+
+She smiled. “Hunters from Perrion. They tracked down and killed a Kaliam, Apparently it took them three days to finally kill it. Blood beasts are scary things, I tell you. I much prefer to work here, no fucking thanks.”
+
+Perrion?
+
+“A Kaliam?”
+
+She nodded. “They've got its corpse outside, if you wanna go look. It’s pretty nasty.”
+
+“As long as it's not burnt.”
+
+“No elementals with them, I think. Didn’t smell burnt at least.”
+
+Veron took his breakfast outside and set it down on one of the tables in the garden. It was cool and everything was slightly wet.
+
+Out in the middle of the street lay a dead bird twice as long as he was tall and covered in a heap of black and bloodied feathers. He saw a single red tail feather that was another five or six meters long reaching out behind it.
+
+That beak could fit my head at least twice.
+
+Veron sat down and started eating. I’m glad I didn’t come across that one while I was out looking for plants.
+
+“An impressive catch, isn’t it?” a familiar voice said.
+
+Veron blinked and looked up at Aren.
+
+“Nice to meet you. You’re the Elemental Path that is helping out Warren, right? Veron, was it?”
+
+“Yeah.”
+
+“I’m Aren Holt, I run the farm over there. I think you’ve met my wife already?”
+
+“Ivera, yeah,” Veron smiled and bit down on a piece of sausage. He didn’t taste it, chewed too little, and swallowed which elicited a short coughing fit.
+
+“Are you alright?”
+
+He nodded towards Aren and smiled. “Sorry. Just, that’s quite a beast they hunted down.”
+
+“Yeah. I thought it would be smaller too. I’ll better get going, they want to buy a cart, and I think they’re ready to get some sleep as well, don’t want to keep them waiting. Good to meet you, Veron.”
+
+“And you, Aren,” Veron said and sighed when the man had entered the inn. He looked around to make sure he didn't miss Ian hiding behind a tree or something. Then he continued his breakfast.
+
+Hunters from Perrion.
+
+I've got eighty five silver to my name. I think that would be enough to get me started.
+
+Is it time already?
+
+He tapped the table with a finger, and then finished his breakfast. A few of the hunters left with Aren, and Warren soon joined him outside.
+
+“Familiar faces?” Veron asked.
+
+“I've met them twice before. Cat at least.”
+
+Veron looked at him.
+
+Warren smiled. “I know that look on your face. I think it would be a shame to lose you as my personal procurer of things, but I don't want to keep you either. They're staying till tomorrow morning.”
+
+“You trust them?”
+
+“They seem like decent folk. A bit rough around the edges, but you went into the wilderness alone for the entire week, I think you'll feel right at home.”
+
+Veron smiled. One more day in Eyra? It felt strange, but he also wondered what else he was trying to do here. Ivera could teach him things, but she was far less willing to interact with him compared to the first time he had met her. And he felt the same about her.
+
+He appreciated Warren's lessons, but he could work on that on his own, both with his notes and in the wild.
+
+And it hurt. Every time he saw them, it felt like a small stab of grief. So far, he had not run into Ian, and he kind of wanted to keep it that way.
+
+More so, Veron realized that he was starting to feel restless. Learning about herbs was good, earning money was good too, but what he really wanted to do, was to work on his Path. Being in the forest was nice, and he felt like he was getting more familiar with his Wind Harmony, but all in all, it just didn’t feel like all that much of a challenge.
+
+It wasn’t like he was keen on getting back into danger, but he had started to explore the dungeon, had fought Cayaralan and Vereltir. What he was doing here, felt almost too mundane.
+
+I guess I did like parts of it. Not the injuries or safe hunts just to make money, but exploring the unknown, the challenge of facing something dangerous, and overcoming that with skill and magic.
+
+And I want more of that.
+
+Veron thought about it for a moment. Because it felt both unfamiliar, and right.
+
+Yeah. I do want more of it. And not just because it will help me find out more about my situation and the world, but also just because I want it.
+
+He shook his head, a bit amused about himself.
+
+Charlotte, I think I may have figured out another piece.
+
+Going out at night was too dangerous here, because he’d be alone. But in Anvakar, he could find a team, and while the dungeon was dangerous, it was well known and categorized, at least on the layers he could handle. He would know what he would face, at least to an extent.
+
+Which means I’m going back to Anvakar.
+
+But if I do that, I’m not leaving here without a talk.
+
+Veron poked around in his food, and then set aside his fork.
+
+“Do you mind if we skip the lesson today? There was something else I wanted to talk about.”
+
+Warren raised his eyebrows. “That sounded more serious than your usual demeanor. Color me intrigued.”
+
+“Yeah. Maybe we can talk somewhere more private as well.”
+
+“Veron, what is this about?”
+
+Veron wondered how he should start. Warren was interested in herbalism. He had enchantments in his inn, and seemed very interested in those too.
+
+“It has to do with magic. I suppose it's a discussion on hypotheticals. There is something that I've come across a while ago, and I wanted your opinion on it.”
+
+“Hmm, yes. Let’s talk. I'll go set up some tea.”

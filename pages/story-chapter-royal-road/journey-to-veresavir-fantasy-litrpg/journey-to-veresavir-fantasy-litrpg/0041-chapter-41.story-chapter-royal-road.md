@@ -1,0 +1,245 @@
+---
+id: 591c8d3d-94ca-55be-a06a-35837485b542
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41"
+slug: 0041-chapter-41
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 41
+ownLength: 3682
+unit: words
+publishedAt: 2026-01-23
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2972455/chapter-41"
+royalRoadId: "2972455"
+---
+
+Chapter 41
+
+Veron was still alive. And he was back near Eyra.
+
+It really was warm. And as he looked over the valleys before him, Veron knew that it was spring. Of course he'd been worried about other things in his panic. But now that he was here, after his conversation with Envolon, the possibilities of what had happened seemed narrow.
+
+Time magic, or a reset to reality.
+
+Wouldn’t that be the same?
+
+He shook his head and breathed.
+
+Veron didn't want to believe yet that he had stumbled into some kind of time magic situation, but it seemed increasingly more likely.
+
+He sighed.
+
+Intellectually, he knew that there were quite a few upsides to his supposed situation, but at the moment, he didn't exactly feel like celebrating. Why did you choose me for this?
+
+Envolon didn’t answer, but this time at least, he knew the being was somewhere out there, sometimes even watching. He smiled a tired smile, finding that it felt comforting. At least someone hadn’t forgotten him. The one guy I can’t talk to, except if I die again.
+
+Let’s not do that.
+
+So, what's the plan then?
+
+Veron thought about it for a while, feeling the earth and wind. It was good to be back, despite all the warring thoughts and emotions. He was still alive, and there was no sign of the curse here. The valley looked the same, calm and blooming in spring.
+
+The best would be some solid cover story for why I'm naked and in these woods, go to Eyra, and find out if I went back in time.
+
+He tensed up at the thought. It would mean facing Ian and Ivera, and facing the fact that all the relationships he'd built here were gone, at least kind of. It was a whole lot to unpack, and Veron didn't feel ready for that. He would go there, in time. But not yet.
+
+But what then? If I don't go back, I'll have to go somewhere else. Should I try and head for Lyrie?
+
+It didn't sound like a great idea either. He had no idea where to go other than a vague direction. And if the Silver Wolves were there, he would run into the same problem of having to face reality. I’d kind of have confirmation already if the city isn’t cursed. Yeah, that doesn’t sound like something I can handle right now.
+
+He looked down at his hands, finding a pebble with his magic and hovering it into his palm. I could find the Heran river, follow it towards the South to avoid Ivera’s patrols. I could find shelter and try to survive in the wild, remake my armor, think and process, at least for a little while.
+
+That does sound better. It would mean avoiding the next step, at least for a while. But I think I’m okay with that. Anything more feels overwhelming, so let’s take some time off.
+
+A year ago, surviving out in the magical wilderness would have sounded like a ridiculous idea. Even now, he wasn’t sure about it, but he did wonder if he could manage.
+
+I’m naked, but I do still have my Path.
+
+And Ivera taught me quite a bit about these forests.
+
+Veron was no ranger or tracker by any means, but he was familiar now with many of the critters here, the general lay of the land, some of the berries and herbs, and he could orient himself both with the mountains and the stars if he got lost. Most importantly, he could make tools and armor with his Harmony of Earth. That last part made it feel possible.
+
+He slowly breathed out. He found it hard to get himself to stand up. Impossible at first.
+
+So he stayed there for a while, simply breathing. He allowed his body to be tense, and slowly, gradually, he relaxed.
+
+Veron sighed, then stood up and rolled his shoulders.
+
+Surviving in the wild then. What do I need first?
+
+Veron spent some time collecting suitable rocks and then planned out his first creation. He did prefer to fight with a mace now, but he worried that one of his rock creations couldn't quite withstand the blunt force of his strikes. Not yet at least.
+
+He opted instead for a spear. He was familiar with the shape, it was easy to make, and he could at least fight with it a little bit. The range would be helpful without a shield or armor.
+
+He thought of Hayden.
+
+And without a healer.
+
+Veron laid out the rocks and got to work, sweat dripping from his brow when he finished his spear. It felt good to hold it, to feel its weight, the rough texture of the rock. “I really am still alive. And I'm back here.”
+
+Veron closed his eyes for a moment and felt the wind. He had some Focus left, and so he made a few small stone projectiles. In case he came across small critters or something to hunt.
+
+Not having a backpack would make things more difficult, but he planned to add storage to his armor once he managed to remake it.
+
+First things first then.
+
+Again.
+
+Water and shelter.
+
+For a few hours, Veron walked down into the valley, using his recovering Focus to make stone boots, stuffing them with leaves and dried grasses. The boots were rigid and uncomfortable to walk in, but they protected him from cuts and sprains, letting him increase his pace and ignore much of the ground terrain, to focus more around himself.
+
+There were both birds and small critters he could have potentially shot with his projectiles but he didn't want to stop to build a fire or carry a dead animal with him until he had an idea of where he would stay.
+
+The forest was alive with sounds and critters. He found and ate some berries that he knew to be safe. He was glad at least, that it was spring, though the thought was unsettling at the same time.
+
+Veron smiled when he heard the sound of running water, and stepped out of the underbrush to find the Heran river, the same one that flowed through Eyra. It was a middling river, as rivers went, around five meters broad and with a reasonably strong current. He could probably cross it quite easily, as long as it hadn’t rained recently.
+
+He checked his surroundings, then set down his spear and drank deep. The water was cold and crisp, and he thought of the Karrian river, the boats drifting through the cursed and dead forests. There was no sign of a curse here, though he had hoped the mountains would have protected these valleys, so he couldn't be sure if this really was the past.
+
+Would it happen again in the coming winter?
+
+He followed the river bank southwards. He tried to stay aware of his surroundings now that he was in the wild. Like Ivera taught me.
+
+How would she fare against the cursed creatures?
+
+He pushed the thoughts aside but found it difficult. He knew there were predators here but a lifetime of safe forests was difficult to shake. It wasn't just that, he realized. He was armed, and had his magic. Was he getting complacent? Or was it merely confidence?
+
+I already died once.
+
+He stopped in his tracks. The forest buzzed with sounds around him.
+
+Let's not go there.
+
+But why not?
+
+If what Envolon said was true, then death is meaningless to me.
+
+Not now.
+
+Veron focused back on his surroundings as he walked but it was difficult to shake the thought. Obviously, death would likely come with pain, and he wanted to avoid that. But at the same time, if he could really return, then his entire perception of risk would change, wouldn't it? He could go into the dungeon alone, could fight however much he could handle, without any regards for the future. He could make money and spend it all for short term growth or experimentation, or just to experience something exciting.
+
+There's a lot I could do if this is true.
+
+And what did it mean for others? For the people he got to know and cared about? If he really had been given such a boon in terms of magic and knowledge, then what responsibilities came with it? And what did he want to do with it?
+
+He kept on walking along the riverbank, as the sun slowly moved on the horizon. The earth was soft and he often had to push past high growing grasses and bushes. His lack of armor and clothing made it difficult. All the while, the current flowed past him at a soothing constant.
+
+A few hours of walking and Veron added shin guards to his slowly growing outfit, shaping them like he had a few times before. He found more berries, and later spent some time waiting behind a tree when he heard a roar from somewhere to the east. He continued after a little while.
+
+Veron suspected it was late afternoon when he reached a section of the river that broadened up, the stream more shallow and split by islands. Large boulders and pieces of rock, long having made their journey down into the valley from the distant mountain tops. Some were twice as tall as he stood, others even larger.
+
+With the stream split and the abundance of stone, he decided that this would be his spot. A spot to stay for now, though he wasn't entirely sure what he planned to do here, other than survive and think.
+
+It felt like more than enough.
+
+There was plenty of sunlight here, and with the shallow water in the area, he could likely cross to the other side with ease. The trees hadn't fully reclaimed the area, from when the boulders must’ve descended down into the valley, which meant there was pretty good visibility too. He just had to choose one of the many large rocks.
+
+After walking around for a little while, he found there weren't any obvious caves, though perhaps that was a good thing. Caves would mean other animals would have made it their home already. He chose a boulder touching the eastern river bank and climbed up the two meter rock.
+
+Now, how am I going to do this?
+
+The view from up on the rock was pretty good. He wondered if it was good enough for hunting already, simply waiting up here until something showed up to drink. His aim was adequate at this point, and if whatever he shot his projectiles at wasn't too far away, he was confident he could at least injure them.
+
+The more pressing matter was that of sleep. He didn't want to be out here and exposed at night. As he looked at the niches on top of the boulder, he formed an idea. They weren't deep enough for him to hide in, nor did they offer any cover from the wind or rain, or from any animals that would hunt him instead. And so he started shaping rock. First he found and chose a niche he found suitable, and then he started cutting out pieces of rock, as if he was lifting earth from a trench.
+
+The pieces he cut out were deliberate and he aligned them to later form some kind of cover. A cover that he could pull over his niche and connect to the rock on either side. Something only another Earth Path or someone strong enough to break rock could open.
+
+Veron spent the rest of the afternoon and most of the evening on his project, familiarizing himself with the surrounding forest and collecting wood, kindling and branches, while his Focus recharged. He was getting hungry but he decided to prioritize setting up a safe place to sleep first.
+
+To hunt, he needed Focus, and he decided not to try his luck at stabbing fish. All the while, the sun moved on the horizon, its light fractured and reflecting off the flowing streams. It was a peaceful spot, but he felt pressured by the coming night.
+
+His niche was deep enough now for him to lie down in, a bed of slightly shaved off branches set up within. He was still connecting pieces of the cover that should keep him safe, but he knew he wouldn’t be able to finish it before sunset. With the last light he had, Veron pulled the larger pieces he had connected into positions close to the niche, in a way where he could keep working on them in the dark. He wasn't sure if he was hoping for a bright moon or not. At least it didn't rain so far. He was thankful for that.
+
+Soon, it was too dark for him to safely descend from his boulder, and all he could do was lie in his uncomfortable bed of sticks and wait for his Focus to recover.
+
+Veron breathed slowly and looked towards a starlit sky. He saw the same hues of red and green that he had first seen from the guest room of the Holts, the colors mingling far above, in a sky less alien than it once had been.
+
+The closeness of the earth and stone comforted him, and the winds that blew past didn't bother him at all. Silvie had talked about something like that. Before she had lost her arm. Before they had gotten robbed, and before the curse. That his Elemental Path would help with temperature differences and things like sleeping on wooden branches within a dug out ditch atop a boulder in the wilderness.
+
+Veron felt like it worked, or he simply was too tired to care all that much. He would have preferred a pillow all the same.
+
+What would she say to all this?
+
+He breathed in.
+
+Are you all out there?
+
+He heard a distant howl and held his spear close. His stomach rumbled, and he smiled to himself despite all of it. Not the worst set up for a single day.
+
+The fear, confusion, and grief that he had felt had lost some of their edge. It was all still there, but it felt as if there was a little bit of distance now. Filling the gap was exhaustion, and despite the many thoughts and the knowledge that a wild beast could climb up and claim his life, Veron fell asleep.
+
+He dreamed of fire in the night, and yellow eyes, and woke up somewhere in the dark, sweat covered and breathing hard. Tears were rolling down his cheeks and he hit his hand on rock, trying to get his bearings.
+
+Veron grabbed his spear and sat up, ready to fight. But there was no monster waiting. Just the sound of flowing water and the stars above.
+
+He closed his eyes and breathed slowly, trying to calm himself down. It didn't work, and he decided to get out of the ditch and stand for a while. Stone boots and shin guards. And the smell of sweat. He grew colder as he calmed down, then as his eyes adjusted, Veron busied himself by connecting more of the stone cover, all in the light of the near full moon.
+
+It felt good to feel the stone, but his Focus was soon used up and he was left with pieces of his dream and feelings that were hard to digest.
+
+Veron gave himself time and sat with what he felt. He cried and then he sat in silence, his mind and nervous system slowly calming down as he breathed and listened to the river, stars and colored hues reflecting off the moving stream.
+
+Am I going to have to face more of those monsters?
+
+Did the others die in the forest, like I did?
+
+Did someone make it back to Anvakar? Or did the world end when I died and woke back up again in Envolon's chamber?
+
+He simply sat there, for a time. He was hungry, and tired, but neither mattered all that much. Not right now, because one way or the other, he had lost his team.
+
+Veron found sleep again at some point, he wasn't sure when. He woke up a few times and finally at dawn. The dreams and memories were all-present but now his hunger felt more pressing. He felt tired and groggy, and he felt heat from his right hand. He must have hit it in the night. There was a small cut.
+
+Shit. Which plant helped with that again?
+
+He sighed.
+
+Food first.
+
+Carefully, Veron climbed down from his boulder, glad that no monster had killed him in the night. The rock was cool and hard, he was glad for the boots he had made. He stepped into the shallow and cold water, breathed out, then slowly sat down into the edge of the stream.
+
+It was freezing cold, and woke him up instantly. Veron shivered and breathed consciously, then cleaned himself a little. It felt good, despite the cold, as if it washed away the dreams and all the tension that came with them. He tried to cleanse the wound on the back of his hand but he knew he needed more, to make sure the infection didn’t get worse.
+
+Veron stood up and rolled his shoulders, shivered, and breathed in. And then he screamed.
+
+Once because it was cold as fuck. Twice because he felt like shit. He considered a third time because he didn't have a comfortable bed and food, but by now, the energy was spent.
+
+I'm going to kill something.
+
+Veron scanned the water but the light was yet too dim for him to make out any fish. He started walking into the forest and then stopped himself. He needed more light to find berries and helpful plants, and he wasn't some silent and fast moving hunter that could track down and keep up with deer and squirrels. So, he grumbled and climbed back on top of his rock. His screams would have scared away any nearby critters, but there was a river here, and every living thing he knew of needed to drink water.
+
+He spent some of his Focus on the cover for his almost self-made cave, but he kept most of it in case he saw some creature.
+
+Veron noted that made sense anyway. Using only around half his Focus, and doing the same every hour instead of using all of it.
+
+It would always leave some of it to fight, but keeping track of it would be more difficult. He supposed that while he had been safe within an inn or Eyra, there had been little need for such consideration. Always using everything he had at once was both easier and more convenient. A bad habit to form.
+
+Veron blinked his eyes in disbelief sometime later, when a group of deer walked out from the nearby forest to drink from the river. They looked around but didn't seem to spot him. Forty, maybe fifty meters away. He didn't dare make a sound, taking his prepared projectiles and connecting to the stone within one of them.
+
+Veron would have liked to get closer but he didn't trust his ability to move quietly. And so he charged and aimed at the closest of the deer, and shot his rock.
+
+It whistled slightly as he held his breath, connecting to the next one but the deer turned and ran, back and out into the forest.
+
+That was that. A chance and an attempt.
+
+“Shit.”
+
+Veron narrowed his eyes, and then climbed down, projectiles and his spear in hand. He walked over to where the deer had drank. There was no sign of them of course but he checked the ground instead, moving his hand through the grass with careful motions. He was about to give up when he spotted a bit of fresh blood closer to the thicket.
+
+I hit it.
+
+He looked back to his boulder, unsure if he should follow. But then, he could find the river again, and he could find his niche again, he was confident in that and so he went into the forest, slowly and carefully tracking the small droplets of blood in the still dim light.
+
+He walked for a while, losing the track time and time again and cursing to himself. Veron rejoiced when he found some berries, taking a small break to eat and then continuing his search. He attempted to employ what Ivera had tried to teach him, but the only thing he could reasonably track was the blood. Soon, there were more than just a few drops, and after that, there was almost a trail. He felt anticipation, his heart beating faster as he gripped his spear.
+
+Veron found the deer lying below a bush, its body moving with shallow breaths. It was dying.
+
+Veron watched it for just a moment, then steadied himself and moved closer. He charged one of his rocks. “I'm sorry.”
+
+The rock shot out into its head and the deer stopped moving. Veron breathed out, checking around himself before he fell to his knees. Joy, hunger, and guilt was what he felt, and when he had calmed down, he closed the eyes of the living thing that he had killed. He breathed, and felt the wind, then took some of the earth from the ground, and gently rubbed it on its brow. He felt the ground, the trees, the growing sunlight pushing through into the forest, and he felt the cooling blood within the dead.
+
+He touched the still warm fur and closed his eyes. I'm sorry that I killed you. I'm really hungry, and I need to eat.
+
+His right hand was warm and then he felt the hard earth below his knees, his stomach rumbling, though he felt as if he was less hungry than before. The cut on the back of his hand was gone, and he breathed in relief when he saw that.
+
+I killed a deer.
+
+Now what the fuck do I do?

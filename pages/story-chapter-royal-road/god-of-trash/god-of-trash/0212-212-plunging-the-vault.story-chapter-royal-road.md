@@ -1,0 +1,139 @@
+---
+id: 3a7b1ac4-20c3-5525-8dd0-ae49d5a7a893
+page-type-slug: story-chapter-royal-road
+title: "212. Plunging the Vault"
+slug: 0212-212-plunging-the-vault
+partOf: god-of-trash
+position: 212
+ownLength: 2946
+unit: words
+publishedAt: 2025-10-10
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2666772/212-plunging-the-vault"
+royalRoadId: "2666772"
+---
+
+Rhys chased after Grave and Mirai. Gold light lashed against the walls, battering the building. Cracks appeared in the wall and burst through the floor as they ran, and the energy of the sword blasts buffeted the barrier, lighting up the outer walls of the palace in shimmering rainbows. Laurent ran ahead of them, fishing something out from his robes. He looked over his shoulder at Mirai and Grave. “Do you have your keys?”
+
+Both of them held up simple silver keys. Rhys searched through his core, then held up one as well, though his emanated more magic than the others’ keys.
+
+Laurent stared. “That’s… the Empress’s key. How…?”
+
+Rhys gave him a look.
+
+Laurent’s eyes clouded. He looked down.
+
+“Lau-rent, come on. She was stealing people’s cores. You had to know she was headed for a bad end,” Mirai said, shaking her head.
+
+“Mirai, it’s rude to speak ill of the dead,” Grave reminded her gently.
+
+Rhys looked at them. “You’re taking this shockingly well, honestly.”
+
+Mirai shrugged. “I was press-ganged into service. I didn’t like the bitch, Everyone knew it. It was no secret.”
+
+Grave lowered his head. “I have lived three hundred years, long enough to watch the Empire rise, and long enough to see it fall. I served two kingdoms before this Empire, and I will serve many kingdoms after this Empire falls.”
+
+“Is your path something to do with serving? Guarding or assisting others, maybe?” Rhys guessed.
+
+Grave smiled.
+
+“It’s rude to ask people their paths when you first meet them, you know?” Mirai interjected, jumping in between the two of them.
+
+“Yeah, but I’m trash, so.” Rhys leaned around her. “Do you still have your core, then?”
+
+“I was allowed to keep mine, yes, on account of the value my path provided the Empire,” Grave said, nodding.
+
+“You should have offered it anyways, as a sign of your commitment,” Laurent said, annoyed.
+
+Rhys glanced at him from the corner of his eye and sighed to himself a little. I guess he can’t get over his obsession with the Empress in one night. Laurent was just kind of an obsessive person, now that he was thinking about it. The guy obsessed hard. The Empress, Rina, whatever he locked onto, he locked onto it hard and didn’t let it go.
+
+Hmm. Maybe I messed up a little harder than I thought. Laurent had the makings of a stalker, and then on top of that, he had to deal with Mouse, who had the power of invisibility to the infinite power, who, though she didn’t show many stalker tendencies, had some kind of dark history as an informant-slash-assassin and definitely had the ability to go yandere in a big way if her mind ever snapped.
+
+Damn. If these people count as my harem, then I’ve definitely picked wrong, Rhys realized, maybe a little too late. Luckily, he wasn’t building a harem, or else he’d be in big trouble.
+
+“I don’t have mine! I was a mortal, though, so it’s not the same,” Mirai offered.
+
+Rhys looked at her. “You don’t seem to walk the Empress’s path, though.”
+
+She thumped her chest and stood tall. “A path is in your heart, not only your core!”
+
+Grave leaned around her. “She refused to practice the Empire’s techniques in preference for her own techniques. The Empress allowed it when she saw how effective Mirai can be in battle.”
+
+“Tee-hee!”
+
+Grave came to a halt before an empty stretch of hall. He reached out toward it, and gold light flickered on the wall before him, then faded away, revealing a large pair of white double doors. Mirai darted in front of him and went to insert her key into a hole in the front, then paused and looked back. “You’ve got the Empress’s key, right?”
+
+“Right.” Rhys stepped forward and held it out, going to insert the key, but before it could, it lifted off his palm and slotted into the keyhole on its own. The doors opened, and holy white light poured out, so bright Rhys had to raise his arm against the light. It faded, and he found himself in an enormous white room full of pure white cores, radiating pure white light outward. Rhys stopped and just stared for a moment, a little overwhelmed even though he’d known what to expect. So many cores, all of them radiating pure white mana in sync, filling the big, empty room with light.
+
+“So… what now? Stuff our storage rings full of ‘em and book it?” Mirai suggested.
+
+Rhys shook his head. “Nah. I’ve got a better idea.”
+
+He stepped forward, extending his mana senses to fill the whole room. As his mana touched the cores, their mana spilled into him. For a split second, he was an infant, raising pudgy hands to the sun; a prisoner, forced to his knees; an adherent, lowering his head willingly to the knife; a noble, cornered by his peers, with nowhere else to run. A thousand moments spilled through him, a thousand instants, as if the cores were desperately trying to tell him who they belonged to, desperately reciting their last moments with their rightful owners before they were ripped heartlessly into the cold. He let those thoughts flow through him, then took a deep breath and slowly released it. He paced his breathing with the ebb and flow of the information pouring into him from the cores, letting the experiences inform him, but not dictate his life. With each core, he felt its history, acknowledged it, and put it in its slot, until he had encompassed every core in the room.
+
+Dimly, he was aware of the others shutting the door behind him, and the crash of sword energy against the doors of the vault. He pushed it all away and focused on the cores in front of him instead. They’d all been discarded. Locked in this vault. True, the Empress treated them preciously. She didn’t see them as trash. But that was her first misunderstanding. The second she had ripped them out of people, she had discarded—not them, but the people. She’d thrown away the people as worthless. The people were trash, not the cores.
+
+And so Rhys reached out to them. Using their cores to identify them, he spread his mana senses out into the void, reaching as far as he possibly could. When the Empress had taken his core, she’d left behind a tiny, pinprick hole into the void. And so he searched for those pinpricks, those tiny holes into the void.
+
+Sure, there was no guarantee everyone had them, but if they were a byproduct of the Empress’s technique, then there were other people who had them. Once he reached out to them, he could push through the pinprick, out of the void, and into the real world, on a scaled-up (or maybe down?) version of him accidentally activating the impurities through the trash can portals. But first, he had to find the pinpricks.
+
+He searched. And searched. And searched. Pushing further and further into the void. Deeper and deeper into nothingness. Am I the only one? Did she not snag anyone else’s core walls? Is it really just me?
+
+“Rhys, whatever you’re doing, hurry it up,” Laurent said, a nervous tone in his voice.
+
+Come on. There has to be something! He pushed further, questing into the empty dark. His mana senses prickled, picking up every tiny power fluctuation, but finding only void and the low mana levels of the void. Nothingness for miles around, pitch black emptiness that pressed on his consciousness. Maybe he really was the only one. The only…
+
+Mana flows. That’s it! Rhys charged in the direction the small amount of mana was flowing from. The void was empty, bereft of almost everything, so any amount of mana was likely to lead somewhere—and the most likely answer was the outside world. The first thing he reached, as he expanded his mana in all directions, was a gauntlet, floating all alone in the void. Rhys twisted his nose in disapproval, but quietly noted its location. I’ll come back for that later.
+
+Abandoning that direction, he pushed his senses out in the direction of other mana flows. One of them, tiny as a star at night, called out to him; there was something familiar to it, as though he’d seen it before, in passing… or had just communed with the core that matched that mana signature.
+
+And then he found it. One tiny pinprick. A single spark of light in the darkness, pouring light in from the far side of the world. He pushed through, and found himself in a room, a building, surrounded by small-time mages and mortals. He dashed from that first pinprick to the first mage he encountered, and found, inside their body, past their stolen core—another tiny pinprick. From one, to the next, to the next, bouncing from pinprick to pinprick, he spread his mana senses as far as they could reach, and then pushed them further still. The trash star raged, burning hotter than ever before, and Rhys poured every scrap of energy into his search even as his body began to drip with sweat. It was strong enough to withstand this amount of stress from the trash star, after all his reforgings, but the limit would come soon; even so, Rhys was prepared. If he had to burn up to send all these cores home, then so be it. It was a price he was willing to pay.
+
+He stretched his hand backward, sending his mana senses into Grave, Mirai, and Laurent, and into the void past them. Laurent startled, shocked, while Grave barely reacted and Mirai let out a little moan that Rhys didn’t want to think too much about. On the far side of their cores were little clusters of pinpricks, bright as stars in the void, and he leaped through into them, to find more stars on the other side. The pinpricks were clustered together, maybe because the Empress de-cored many people at the same time, in the same place, which meant that every time he jumped through, he found another cluster of stars.
+
+Not quite every time. There were lonely stars. Ones like his, alone for no particular reason he could figure—because Laurent took my core?—and ones that must have been de-cored in solitude, far from anyone. He retracted all but the barest edge of his mana sense from those dead ends, not wanting to waste any energy on them.
+
+A resistance. One of the mages realized that someone was scanning them and fought back, trying to retreat from his gaze. Rhys wrinkled his nose and pushed harder, faster. He only had so much time. These mages were going to start cutting him off, and if he didn’t finish soon, the Sword Saint would break in, and then there’d be nothing he could do. Faster, further, pushing his senses to the absolute limit, he charged deeper into the void, further through their cores. His eyes, nose, and ears all began to bleed, and when he sucked in a breath, he coughed it back out in a splatter of blood. He wasn’t burning up, but his body fell apart all the same, still unable to handle this much mana at once, even if it could bear the heat.
+
+“Rhys!” Laurent exclaimed, startled.
+
+“He’s pounding on the doors! We don’t have long,” Grave reported sharply.
+
+This was it. He could reach no further. But… he’d located homes for a good eighty percent of the cores in the room. He could live with that. He would have to live with that.
+
+Rhys reached out. He made a fist and dragged it toward him, and the cores moved with the grab, pulling slowly toward him, then flying into him. Chasing back the threads of mana to their homes, they flowed through Rhys’s core, into the void, and out through the pinpricks into their home cores.
+
+The pain was unimaginable. A thousand streams of foreign mana, pounding through him and out, tearing straight through his body. He’d basically opened himself up to a thousand sucker-punches, a thousand free hits to his most vulnerable places. His body was never meant to hold any more than its own mana, and now it had to handle a thousand different kinds of mana. More than a thousand—ten thousand, twenty thousand. He coughed up blood and his skin bruised, but he persisted. This was important. This was righting a wrong. Restoring the trash to the perfection it was always meant to be, seeking the trash intent and finding it its rightful home.
+
+Sometimes, his cores slammed into an existing core in the mage’s body. When that happened, Rhys dragged the core out, examined it, and pushed it out to its original owner, if he could find one, or pulled it back to him, if he couldn’t. His head split open as if someone was jabbing a railroad spike into it, his brain barely able to handle the massive overload of information, and his body began to crumble, but still he pushed on. This was important. This was a wrong he couldn’t allow to go on.
+
+A hand landed on his shoulder. He didn’t have the mental space to look over his shoulder, but he didn’t have to. “Let me take some of the load,” Laurent offered, and the weight on Rhys’s mind and core lightened.
+
+Almost immediately, Laurent staggered. The hand almost lifted off his shoulder, and horrific coughing sounded from behind him, but in the next moment, Laurent clasped his shoulder stronger than before. Determination shone in his eyes, even if Rhys couldn’t see it. “We can’t allow these to fall into the hands of the Alliance. Do whatever you have to, but get them out of here. This… is my final duty, as a knight of the Empire.”
+
+“You’re putting them back, aren’t you?” Mirai hesitated for a moment, then put her hand on his shoulder too. “I’ll help while I can.”
+
+Without a sound, Grave joined in.
+
+There was a distant clattering. Outside, Sable fought off the lower-level Alliance soldiers beating at the palace. A great wave of water rushed by, and Lira joined her, though her brows were furrowed in frustration. Gold light flashed, and both of them fled, but they returned a moment later, resolute.
+
+Rhys saw none of this. He barely felt as the others joined in. His entire being was given to the task, to replacing the cores, to giving everyone back their proper cores so that no one was trash anymore, but whole, as they always should have been, before the Empress turned them into garbage. Sometimes, there was nowhere for the second core to go, the original donor dead or otherwise unavailable, and when that happened, Rhys left two cores inside the person. Over and over and over again, while the cores in the room steadily diminished. As the cores passed through him, he subconsciously stole a little of their energy, and used that to help power the operation and feed his trash star, constantly replenishing it with everything he could. Even then, the star burned down, even when he fed it the cores in the vault that no longer had any home and flickered, dimly, on the verge of extinguishing, but it kept it fed for just a little longer, just a little longer, just a little—
+
+Mirai cried out. Her hand left his back.
+
+Laurent grunted. His power weakened for a moment, then strengthened, growing to almost where it had been before.
+
+Grave stood there silently, his dark eyes reflecting the brilliant light.
+
+And then, from the other side of the pinpricks—power. The mortals who suddenly found themselves raised to mages. His friends, the escaped prisoners, and the criminals who had begrudgingly joined him, only to wholeheartedly throw their all behind his technique as their original cores returned. Those who felt wronged by the Empress, or who had always disagreed with her methods, who were willing to give anything to see righteousness restored—all of them, giving just a little of what he’d given them back, just enough to support him, just enough to lighten the load. Rhys’s back unbent, and he stood tall, squaring his shoulders despite the pain and the ragged state of his body. He could do this. No—he had to do this. It was his duty.
+
+Core after core flashed through Rhys and into the void. His body was repeatedly damaged, but he pressed on anyways. Trash Body activated at some point, and he stopped feeling the pain as Pain Mitigation took over; neither were good signs, but they did help him bear the load just a little longer.
+
+And then—it stopped.
+
+Rhys gasped. He staggered and almost fell, except that Laurent was there to catch him. The room was empty, except for a few stragglers. Cores with no recipient. And one, with one final recipient.
+
+He reached out trembling hands toward it, toward that strange, singleton core. It was Tier 3, and small golden cores rolled around at its bottom, unlike any other core that had passed through him or through his network. His core. His original core, the core he’d called trash and reforged so many times, that familiar, terrible, beautiful thing.
+
+It floated into his grip, and he pressed it into his chest, accepting it home. There was a trash star in its place, now, however burned down it was, but that was no problem. The two circulated one another, the smaller core and the larger trash star, and the curses and tiny trash star circulated them in kind.
+
+Home. All of them were home.

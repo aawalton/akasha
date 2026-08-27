@@ -1,0 +1,109 @@
+---
+id: bb0a2ffb-1787-508f-a1f7-577283f9601b
+page-type-slug: story-chapter-royal-road
+title: "293. Transformation"
+slug: 0293-293-transformation
+partOf: god-of-trash
+position: 293
+ownLength: 2249
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3211932/293-transformation"
+royalRoadId: "3211932"
+---
+
+Ina’s body swelled as the transformation shuddered over her entire form, morphing every aspect of her body. As it did, Rhys sensed two opportunities.
+
+One was his path, calling out to him to recognize this trashy trope and play along, stand back and politely watch her transform, to give him the power to asspull a victory at the perfect moment. His trash star quavered even at the thought of powering that attempt, the flames guttering, and Rhys took a deep breath. As much as he’d like to level up that way, he’d probably die if he tried it. Or… something. Suffer a great loss. He could live without a core, and presumably the trash star could go dark without killing him, too, given his years in the mines, but it’d be a considerable setback to get it going again, and Ina would certainly kill him in the meanwhile if he didn’t oko her or if he embarrassingly ran out of energy before the asspull.
+
+The other was his heart, pointing out a very obvious opening to him. And Rhys was nothing if not a man who followed his heart. He charged, closing in in that brief moment where she dragged off her old face and her body was still in the act of transforming.
+
+She saw him coming, and her eyes burned in anger. A blast of energy burst from her, intended to slow him down, if not push him back outright.
+
+Rhys exerted his impurities in front of him, creating an anti-aura of dark filth. The impure energy cut right through Ina’s energy wave, and he chased after it, slicing through like a hot knife through butter. Her eyes widened, and she exerted more energy, but it was pointless. No amount of energy could stop him now. The energy pushed his hair back and sent his robes into a flurry as he closed in. Seeing him come, Ina leaped back, but Rhys just kept charging. He still had time. She wasn’t done transforming yet.
+
+He kicked off the ground with all his strength and surged forward, closing the distance. Again, she went to leap back, but this time, Rhys knew what was coming. He threw a handful of filth caltrops behind her, seeding them in the exact space where she’d land. She hesitated just a beat, but that was enough. Rhys caught up. He summoned The Hunger and sliced at her. The Hunger surged forth, eating up the distance between them, eager for a taste of blood after so long in the dark of Rhys’s storage ring.
+
+Rhys swung with all his strength and speed, and The Hunger swung with him. Together, their power combined, they represented a power that Ina couldn’t hope to match. Her transforming head went flying, leaving behind a lump of half-transformed body and spurting blood. Impurities rushed forth from the cut, corrupting both head and body to ensure she was fully dead, and then Rhys and The Hunger both absorbed their fair share of her body.
+
+Taking a deep breath, he turned and nodded at Mouse. “We should get going. I still have a lot left to accomplish.”
+
+“O-oh… really?” she asked, a little taken aback.
+
+“Yeah. It’s a big day. But it’s going well so far! It really is.” Rhys offered her his hand. “Come on. Let’s leave this place behind.”
+
+Mouse took a deep breath, then nodded and took his hand. “We… need to talk. After this. Promise me.”
+
+Huh? Isn’t that what people say when their relationship is in trouble? How am I already in the doghouse? He nodded, a little baffled but nonetheless willing. Everyone said relationships were work, so maybe this was just part of it. “Sure, I guess.”
+
+Mouse hesitated like she wanted to say something else, but instead, she just nodded again. Rhys waited, just to be sure, but when she said nothing, he stepped into the void rather than keep waiting and quickly flew her over to the void island.
+
+Sable looked up as he arrived, running over so she stood beside him when he landed. Even before he released Mouse’s hand, she demanded, “When do I get to fight?”
+
+“Today. In minutes. I swear. It’s seriously almost time, like, super, super close.” He glanced at Mouse. “Do you want to fight? You’re welcome to, but uh, I am fighting Virgil, so…”
+
+She looked at her feet. “Let me think about it.”
+
+“Sure. Sure thing. Okay.” Rhys slapped his cheeks and shook his head. “Gotta keep moving. They’re sure to have figured out something’s going down by now. I gotta get back and keep the ball rolling. Mouse, stay near Sable if you want to fight. If you don’t, just make yourself scarce. I won’t have time for any quibbles or questions, so make up your mind and prepare yourself.”
+
+“I’m ready,” Sable pledged.
+
+“I know.” Rhys patted her on the shoulder. He jogged across the space to the small pool in the fold of the hills, ducking inside to change his face back to—well, his face. Hopping off the island entirely, he hovered underneath it and used the trashifying beam to slurp up some of the black gunk stuck to the earthen chunk’s underside. It wasn’t an ideal solution to his low trash star, but it was good enough for now. It added some material to the star, and at least got him out of the trouble range where he had to worry about using his ordinary techniques for battle.
+
+It was too slow going to actually fill up his core with the goo alone, and he couldn’t stand here and take his time, the way he really needed to in order to clear the goo. So, reaching out, he pulled on all the hoops he could reach as well, pulling trash through them and into his core. There wasn’t much trash compared to what he was used to, but it was more than what he’d had, and that would have to be enough.
+
+He landed back on the island. Stepping forward, he looked Mouse in the eye. “I just want to be very clear about this. I know he’s your… adopted dad, or something. If you don’t want to fight him, don’t feel pressured to step forward, okay? I’ll understand.”
+
+“No, I… I know.”
+
+Rhys nodded. He hesitated one last moment. “And, um. When I said you’d disappear and we wouldn’t notice, I was, uh, you know, trying to be like, your techniques are super cool! But on second thought, it kind of came off like I won’t remember you, and I wanted to make sure—”
+
+Mouse stepped forward and grabbed his shoulders. Standing on her tiptoes, she hesitated half a moment, then kissed his cheek. “I understood. I did. I really did.”
+
+“Oh—okay. Uh. Okay.” Rhys just stood there, completely and totally stunned. His brain was stunlocked, lost in an endless loop. He touched his cheek. Did she… did she just…?
+
+Sable walked up and punched him in the gut. “Get moving, idiot.”
+
+“Oh! Yes! Right! Uh… right. Right. I’m, uh. Going. See you.” Rhys stumbled back a few steps, then quickly gathered himself. Tossing what he hoped was a cool nod and salute, he leaped off the ground and slipped into one of his void loops, rematerializing in the hallways just outside the ballroom. He looked around, checking to see if anyone had noticed—and jumped, startled. Just to the left of him, A servant stared at him in shock, frozen mid-step, a platter of fancy canapes balanced on his white-gloved fingertips. He stared at Rhys, and Rhys stared at him, both of them frozen just like Rhys had been moments ago, though for a very different reason.
+
+And then Rhys grinned and snagged one of the snacks—some kind of cracker with some goat cheese and fig. He shot finger-guns at the servant and backed away. “No one will believe you.”
+
+That wasn’t for right now. A random mage appearing was every-day business. That was for the future, for when this guy figured out who Rhys was and what he was in the middle of doing when he’d encountered Rhys. That was the part that no one would ever believe.
+
+The servant squinted at him. Rhys just walked away, feeling no need to explain himself. He spun on his heel and ducked through a hanging to step back onto the ballroom floor, swiveling and extending his mana senses at the same time to take a clean sweep of the situation.
+
+Guests danced on the floor, enjoying the ball. Illya Traje, the host, stood near the stage, sipping a flute of some expensive alcohol and occasionally fake-laughing with her guests. Virgil lurked nearby, not a part of the conversation; nonetheless, all the nobles around him were clearly very aware of his presence and disconcerted by him so transparently listening in to their chat. He didn’t look alarmed or concerned yet, which told Rhys that Ina really hadn’t contacted him before their fight, but it was only a matter of time at this point. If he didn’t move soon, he’d lose the initiative.
+
+Here goes nothing.
+
+He strode toward the stage, moving with purpose. He wore his original face now, but no one in particular reacted to it; it wasn’t as though he’d worn it much lately, and on top of that, aside from Virgil and Bast, there were few people in the Alliance who’d recognize his face anyways, and he wasn’t sure about Virgil. Had he been wearing his own face when he’d taken down the Empress, or had he still been Adelise? He couldn’t remember.
+
+Still, it felt right to do this as himself. Wearing someone else’s face to put an end to all this just didn’t hit the same. Besides, he was trying to provoke Bast, not fool him… or anyone else. The time for fooling around was over.
+
+Illya frowned at him as he passed her by, but he didn’t pay her any attention. He was about to poop all over her party, so there was no need to worry about her attention or approval. She’d disapprove of what he was going to do anyways.
+
+He hopped up onto the stage and put his hands on his hips. “Hello, ladies and gentlemen! Hello, hello. Stop the music, please.”
+
+Heads turned. The conversation grew quiet. To Rhys’s surprise, the music did actually stop. He beamed out at the crowd. “You may know me, or you may not, so let me introduce myself. Rhys Foundling, Slayer of the Empress, past hero, current enemy of the state. Oh, entrepreneur, restauranteur, and freedom fighter, too, while we’re at it.”
+
+He really didn’t know if he’d ever been considered a hero, but he wasn’t afraid to claim the title. The rest of them, he was all sure about. They were either true, or self-proclaimed titles to begin with (like freedom fighter and entrepreneur), so no one could deny him the right to call himself by them.
+
+At the back of the crowd, Virgil scowled and pointed, and Bast and the Sword Saint strode forward, pushing their way through the crowd.
+
+“Listen—I don’t actually hate the Alliance, just Virgil. You all know how creepy that fucker is, wanting to spy on all of you and force nasty, gross control marks on you. If you don’t get in my way, I have no intention to harm any of you. Plus, would you consider?”
+
+Rhys reached into the void and pulled out Straw.
+
+“All of you, reach out. Feel this barrier. Is it not Virgil’s? Is it not his mana signature? And within it, the Strawman. Consider: why would he have hidden the Strawman away in his palace, close to his heart? Unless he was going to do something horrible with it… like, say, scattering bits of him all over the Alliance, using them to absorb cursed energy, then creating a fake attack by activating all those cursed energy points at once?”
+
+He didn’t actually have any evidence of this, aside from what he’d overheard under the restaurant and Straw himself, but what he’d learned from his homeworld was that it didn’t matter. Especially if Madame Tunk had spread the rumors, or even if she hadn’t, a wild accusation could still cause everyone to pause and reevaluate, no matter how ridiculous or how little evidence supported it. Even him being opposed to the Alliance at the moment didn’t mean he would simply get ignored; they’d still listen and hesitate, unless they were deeply loyal to Virgil.
+
+Bast and the Sword Saint were getting close, so Rhys stuffed Straw back away. Conflict was inevitable, at this point, so he just had one last thing to say. Lifting his hand, he pointed at Virgil, still mixed into the crowd. “Fight me if you’re a man, Virgil! One on one! If you’re a bitch, then send the Sword Saint after me!”
+
+Virgil’s scowl deepened. A few eyes turned to him, but as expected, he didn’t budge, except to cross his arms. “How crass.”
+
+Rhys grinned happily, totally unbothered. He didn’t expect Virgil to actually respond to such crude provocation. He just wanted to call Virgil a bitch.
+
+Although Bast kept advancing, he snorted under his breath at that, glancing up to meet Rhys’s eye. The two of them shared a glance, but only for a moment. Bast looked away, unable to hold his gaze.
+
+Rhys clenched his fist. Just hold on, Bast. I’m going to get it all back for you.

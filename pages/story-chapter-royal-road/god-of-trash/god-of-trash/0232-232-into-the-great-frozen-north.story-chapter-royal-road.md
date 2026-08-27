@@ -1,0 +1,65 @@
+---
+id: bf60f889-0eff-5352-af05-fc2a1fdff784
+page-type-slug: story-chapter-royal-road
+title: "232. Into the Great Frozen North"
+slug: 0232-232-into-the-great-frozen-north
+partOf: god-of-trash
+position: 232
+ownLength: 1953
+unit: words
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2741583/232-into-the-great-frozen-north"
+royalRoadId: "2741583"
+---
+
+Colder and colder. Rhys dropped a hoop of material on the ground and hopped through it, retreating into the void to warm up, then jumped back out and kept going. Occasionally, he saw the tracks of some truly massive beast—tracks big enough he could lie down in them, and deep enough they could close ever his head—but he never saw the beast itself. He didn’t mind that. Whatever the beast was, he had no quarrel with it. They could both exist in this frozen wasteland without interfering with one another’s lives.
+
+If not for the hoop, he probably would’ve frozen to death, or at least been utterly miserable. Even with the hoop, he was struggling to not feel like shit. It was cold, cold, cold, so utterly cold that his mage body was basically irrelevant, so cold that he was pretty sure mortals simply couldn’t survive.
+
+He walked on and on. A part of him started to wonder if Lord Ravin’s grand plan hadn’t been to just send him up into the great white beyond and have him die in the cold. There were certainly easier ways to kill him at Lord Ravin’s disposal, but funnier ways? That, he wasn’t sure of. He didn’t have enough control over anyone to order them to walk to their death, but if he did… he kind of felt like he might do that. It would be pretty funny. And it wasn’t like Lord Ravin had some dying need to keep him alive. Sure, the guy wanted to contact his retainer, but Rhys was the one who’d killed his previous retainers, so he wasn’t completely sure that Lord Ravin wasn’t trying to kill him. He was of the opinion that it’d be pretty stupid of Lord Ravin to do that, but one, no one said Lord Ravin wasn’t stupid, and two, maybe Lord Ravin didn’t need his retainers as badly as he’d made out. I mean, he looked pretty fucked up down in that hole of his, so there’s no real reason to doubt him except for the fact that I’m suffering now, but who knows? Stupid is always an option.
+
+On and on, through endless white. Rhys closed his eyes while he walked to protect them from the sheen off the ice and snow and navigated by his mana senses alone, using this as an opportunity to train. He pushed himself with the cold as well, walking for longer and longer periods in the cold without retreating into the hoop, training his cold resistance. It took hours for him to get miserably cold, then days, then weeks, and still he walked on. Occasionally, he consulted the map Lord Ravin had given him, only to find himself still on the path. He was going the right way. Eventually, he’d find this place… if it existed at all.
+
+In the middle of the icy nowhere, he paused and drew out trash from his trash star. With numb hands, he fashioned a trash can, then set it on the snow. If he ever needed to retreat to the middle of nowhere, or bin someone in an absolute wasteland, this was the place to use. It wasn’t the most useful teleport point of all time for moving around, but it was a great point for dumping people and items.
+
+Kinda like Point Nemo. But in the arctic instead of the Pacific Ocean.
+
+Trash media, manga, books, everything, tended to obsess over Point Nemo. He got it. It sounded cool. It was where space junk got dumped in real life. It was out in the middle of nowhere in the Pacific Ocean, and it had that mystique. But for all that it sounded really cool, it wasn’t actually cool at all, it was just the place furthest from civilization, so when a random piece of space junk overshot the point by a mile or ten, they still didn’t hit anything important. Building a city on, near, or around Point Nemo was probably the last thing that was going to happen, because it’d ruin the whole point. Where were they supposed to de-orbit space junk then? They’d hit the city!
+
+Then again, logic had never stopped trashy media from putting cities in cool but improbable places. And he supposed consigning people with magic, superpowers, or access to the System to a city that they deorbited space junk on every now and again was probably fine; they seemed like the people best able to handle a hot piece of ex-satellite piercing through their roof.
+
+Still, the logistics must be hell. Internet in Australia was expensive enough. He couldn’t imagine the price of internet in a place literally built as far from civilization as possible. And wood? Concrete? Steel? Housing must cost even more than in the UK. Damn. Truly the worst of all worlds.
+
+He walked on. Even this cold wasteland, there was a kind of beauty to be found. With his eyes shut, he couldn’t see the sparkling tones of the icy lands, but he could see their shapes. The places where craggy spires of ice and rock pierced through the smooth, rounded snow; the deep valleys, where he occasionally peeked his eyes open to see the sapphire tones of the deep ice. Now that he was starting to be able to ignore even this depth of cold, he could appreciate the rare and natural beauty a little better. What he couldn’t appreciate, was how godsdamned far it was from where he’d been to the city Lord Ravin was sending him to, but hey, there were at least some nice things to appreciate along the way.
+
+Maybe I haven’t been on longer fetch quests, he thought, some days in. Walking with his eyes shut meant he wasn’t tracking time real well, but a few days had passed at the very least. This was a long-ass fetch quest. Hopefully it didn’t turn out to be a chain fetch quest. Then he’d… teleport directly there with the trash bin he was definitely leaving at his destination.
+
+Huh. Maybe it isn’t so bad if it’s a chain fetch quest. Teleportation was definitely a hack. Even if his teleportation was a little scuffed, and he had to manually walk there the first time, it was still a hack.
+
+He also had the strangest feeling that having a few teleport points that no one knew about but him—not even his allies or friends—was probably an advantage he wanted to have. After all, Bast was his friend, not Lira, Sable, or Mouse’s. He was turning against the Alliance for Bast’s sake, not Lira, Sable, or Mouse’s. The three of them had been brought up in the Alliance, and had benefitted from it their whole lives. They might not agree with Rhys’s new quest quite so easily as they’d rallied to take down the Empire.
+
+He sighed. When all this is over, I’ve really gotta have that hermit arc. Take off to a mountain and just do fuck-all for a century or two.
+
+By the time the city finally appeared on the horizon, he felt like he was in a late-game MMORPG that was stalling for time so he had to spend more money and buy another monthly subscription to its servers, he’d been walking for so long. He let out an exhausted sigh and braced himself against his upper legs, not physically exhausted, just mentally. “Dear lord,” he muttered under his breath, then heaved himself upright to open his eyes for the first time in a long time and survey the city.
+
+It was gorgeous. All the buildings were built from ice and snow, and shone in the same white and sapphire tones as the ice and snow did all around him. The city was magically reinforced and enhanced on top of that, so all the snow was pristine, and all the ice clear as air. From where he stood, he could see mages moving around inside buildings, the ice panels serving as windows. Some buildings were built entirely from ice, so that he could see straight through them and out the other side.
+
+Those in ice houses should not throw stones and they probably shouldn’t build fires, either, he thought, raising a brow. It was beautiful, but impractical. Still, just like building cities at Point Nemo, mages had never been ones to let practical dictate their lives, so he couldn’t really fault these mages for deviating past the standard. Just more typical magery, really.
+
+They had, however, taken advantage of the ice and snow to build beautiful glittering spires high into the sky. In some places, the ice buildings, towers, or rooms overhung the floor below, and there, they often sported carvings or icicles below them, like beautiful transparent ornaments. They were works of art, and constantly revised and in motion, as a ice-carver mage tore off a chunk of a building and waved her hands, reshaping the building with a wave of ice and water magic.
+
+“That’s pretty cool,” he admitted aloud, despite himself. He was never going to live in an ice house—he liked hot showers too much—but they were nice to look at. And he didn’t mind experiencing what it was like to live in an ice house for a little bit, either.
+
+He didn’t want to be too obvious about teleporting into the ice city, and he had the feeling his trashcan might stand out a bit amongst all the ice and snow, so he found a little nook between two hills and buried it there, out of the ways a little distance, where no one would be able to directly see him pop up. His own personal Point Nemo was, of course, safer, but it was inconvenient as hell, so his lazy ass wanted a closer point. Besides, what if this turned out to be an eight-part chain fetch quest? No way was he hiking all the way in from halfway here. Sure, it cut the time in half, but with a teleport just outside, he could cut it to seconds. It was the same as doing the fetch quest in the postgame, with the entire map’s fast travel unlocked and the ability to warp around wherever he liked, except specifically for Lord Ravin and—
+
+Rhys froze. I didn’t leave a warp point near Lord Ravin. I’m going to have to walk all the way back. Fuck!
+
+A second later, he remembered the hoops he’d dropped back at the crime site, and breathed a sigh of relief. As long as one of those held up, he’d be fine. Sure, they were disposable and probably decaying as he spoke, but surely one of them would last this long. Worst case, he could use Point Arctic Nemo to get halfway there, then rectify his mistake with a permanent trash can near his new quest target when he got back.
+
+Phew. I almost made a big-time whoopsie there. He wiped his brow, relieved. He hadn’t fucked himself, just inconvenienced himself a little. He could recover from this.
+
+And hey, worst case, all the points collapse? I’ve still got Daran’s Black Palace warp point. He didn’t really want to use it, because it meant activating the manual-curse-power-sensing technique, aka the anxiety spiker, but he’d pay any price to not have to run for a week through the arctic wastes again.
+
+Relieved, Rhys stepped forward, excited to see this brand new town. He’d stop in, see the sights, enjoy the frozen wasteland for a bit, then go find Lord Ravin’s retainers and point them in the right direction. How hard could it be?
+
+He looked at the town and sighed. Somehow? I feel like it’s gonna be way, way harder than it has any right to be.

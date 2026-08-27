@@ -1,0 +1,135 @@
+---
+id: 0de66080-37e8-530c-9501-71550446a2dc
+page-type-slug: story-chapter-royal-road
+title: "172. Who Are You?"
+slug: 0172-172-who-are-you
+partOf: god-of-trash
+position: 172
+ownLength: 2182
+unit: words
+publishedAt: 2025-08-31
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2563549/172-who-are-you"
+royalRoadId: "2563549"
+---
+
+Sun filtered in the window. Birdsong filled the air. Rhys opened his eyes and breathed deep, enjoying the pale light of early morning. He felt wildly refreshed, far more comfortable than he had last night. It wasn’t that he’d had no pain, he realized now, it was just that he had gotten so used to being in constant, low-level pain that he’d stopped feeling the pain consciously, and loaded it all onto his subconscious instead. He yawned and shifted a little, considering whether to go back to sleep or bother getting up.
+
+“Good morning.”
+
+Rhys jolted, sitting dead upright. He whirled, instinctively reaching for the broken sword in his robes.
+
+The ghost man raised his hands in mock surrender. “It’s only me. I didn’t kill you in your sleep, either.”
+
+“That… is true,” Rhys allowed. He gave the man a long look, then lowered his hand from his sword. Instead, he crossed his legs. Maybe because he had said he was going to rest, maybe because they were all busy with other things, or maybe because they sensed the old man on some subconscious level and were just as spooked by his unseen presence as Rhys had been, but regardless, there was no one else in the attic. It was just him, all alone, and the old man. Perfect for chatting.
+
+“Why are you following me around?” he asked, cutting to the chase.
+
+“Following you around? What a descriptor. I would say, rather, that you were dragging me around.”
+
+Rhys thought for a second, processing the man’s words, then looked up sharply. “You mean something about me is pulling you after me?”
+
+The old man nodded. “Quite so.”
+
+He frowned. “But… I only saw you for the first time in the forest, by the Impure Well. Were you just hanging out there? Waiting for someone? Or, if I really was dragging you, did I encounter you somewhere else, and only see you for the first time there?”
+
+The old man shrugged. “I can’t say. I was asleep for a long time, and I’m not quite sure where I was while I was sleeping. I woke up there for the first time, but that’s not to say that was the place you encountered me.”
+
+Rhys frowned. It wasn’t the answer he wanted, but it did make sense. He could think of a dozen places he might’ve picked up a scrap of a Remnant Weapon: the mine, Ernesto’s lab, the library, the sewers… There were so many that he couldn’t even start limiting it down. Plus, he’d interacted with all kinds of Impure Wells, where Sable had apparently hidden as a kid—in other words, Remnant Weapon dens, and with lots of curses, cursed people, and curse power, which were all associated with Remnant Weapons, too. If he had to guess, he’d pick Ernesto’s lab as the place he picked this guy up, but he really couldn’t say for sure. He felt like the kid with muddy hands, and the mom scolding him, trying to figure out where he’d gotten them only to realize that the entire world was basically a mud puddle waiting to happen.
+
+I guess I can’t complain too much about playing in the mud and picking up a few bugs along the way, he thought to himself with a shrug. Rather than continue about worry about where he’d picked up the man, it was better to figure out what, and who, he was.
+
+“You’re not Sable’s father,” he guessed point-blank. The man hadn’t mauled him—hadn’t even attempted a casual bite—so he couldn’t be Sable’s father.
+
+The man blinked at him, then laughed. “No. Not quite.”
+
+“Not quite?”
+
+“Not at all, in fact.”
+
+That’s suspicious. Rhys eyed him, then sighed. “There’s no need to be mysterious. I’m already friends with the Strawman and the… Crazy Beast, or whatever Sable’s dad is called—that guy’s daughter. I don’t have a problem with Remnant Weapons. Whoever you are, I won’t be afraid of you or biased against you or anything. Doesn’t matter what you did, what you do, just tell me the truth, and I’ll be okay with it.”
+
+“I wouldn’t be so sure about that.”
+
+“Okay, I take that back. If you keep up this mysterious act, I’m actually going to get pissed at you.”
+
+The man sat back and crossed his arms. “I understand being concerned about my presence, but grilling me on my identity is not the best use of our time.”
+
+“Then enlighten me. What is?”
+
+As far as Rhys was concerned, the man’s identity was pretty important, especially if they were metaphysically connected through some mysterious, unknown method that he couldn’t personally detect—he’d quietly tried while he was questioning the man, but his mana senses had gotten nowhere. But  if the man didn’t feel like sharing, he really had no means to force him to confess. They couldn’t touch one another, as far as Rhys was aware, and he couldn’t otherwise force the man to answer any questions; he didn’t know enough about him to know what he wanted, needed, or otherwise, to know what carrots and sticks he had at hand. He sighed. I need to give it time. He’ll naturally come to trust me, or at worst, I’ll understand him enough to know how to pull his levers and get an answer, It was weird that an immaterial ghost man attached to his body was being so cagey about his identity, but who knew? Maybe it was his one remaining pleasure in life, to be annoyingly mysterious to young mages. After all, he was an immaterial ghost man attached to Rhys. His life had to at least suck a little.
+
+The man nodded. “Now you’re asking the right questions. I possess a great deal of knowledge about this world and my personal path. If you continue to ask the right questions, you might even get some of it out of me.”
+
+“What’s your personal path, that you think it’s worth so much to me?”
+
+“I pursued… the void.”
+
+Rhys reached into his robes and threw the small red book across the room. It passed through the man, hit the wall, and dropped to the ground.
+
+The man sighed and looked at the book. “You should treat books with respect.”
+
+He didn’t disappear. Dammit. It was a decent guess, in Rhys’s opinion. The little red book was a mysterious object that had semi-attached itself to him, that he didn’t fully understand, that contained information about the void. It was only natural to assume that it was the link between him and the man, but if he wasn’t even holding it and the man was still there, then it obviously wasn’t the connector.
+
+Unless… He did say to keep asking the right questions. “Is that the tether between us?”
+
+The man laughed a little. “The tether between us isn’t something so crude and material.”
+
+“But it’s related to the book?”
+
+He lowered his head, acknowledging it.
+
+This guy really likes the mysterious elder bit. If trash was Rhys’s thing, then he wasn’t sure he trusted that this guy’s thing was the void. His thing seemed to be ‘being a mysterious asshole for no reason.’
+
+Rhys sighed. It was bound to happen eventually. He did attract trash, after all, and overly, unnecessarily mysterious elders were peak trash. Plus, the void seemed like the exact right thing to have a mysterious elder attached to it. Not only did he have the mysterious book, but the void itself was mysterious and poorly understood, and then on top of that, he struggled to fully comprehend it, meaning that he could have someone faff about mysteriously, and yet not comprehend everything he needed to even then.
+
+Rhys sighed deeply, rubbing his forehead. Nothing he could do about it. This was going to be his future, for the next little while, locked to this old guy who wanted nothing more than to be a mysterious asshole.
+
+Of course, thinking of it positively, this was exactly what he needed. An expert who knew more about the void. Even as mysterious and annoying as he was being, he could still be massively helpful to Rhys. Rhys shook his head, adjusting his thinking, and sat up straighter. “So, you’re an expert on the void.”
+
+“That is correct.”
+
+“What is it? The void, I mean.”
+
+“A question I continue to ponder.”
+
+Rhys frowned at the man, then rolled his eyes at himself a second later. If this man’s path was the void, then of course he wouldn’t have a straight answer for that. It was the same concept as the fact that when you got closer to a source of light, your shadow got darker; the longer you spent contemplating and coming to understand anything, the less certain it became in your heart. It was even true in the real world. People who knew nothing about math would tell you 1+1=2, and that was all there was to it, but true math majors would argue that one to the death, find the need to prove that it was true, and might even go looking for ways to prove it was false, just to better understand the concept of numbers. Physics, chemistry, any science, really; from far away, it was simple, but from close up, even the simplest concepts became a jumbled mess that was hard to understand, let alone explain. If the old man asked him to explain trash, he didn’t know what he’d say. He had to listen to the old man’s advice, and ask better questions.
+
+“What’s your name? Can I get a name, at least?”
+
+The old man thought for a moment. “You can call me Desmond.”
+
+That is not his name, Rhys thought, but nodded anyways. At least he had something to call the guy, even if it was blatantly a false name. Better than thinking of him as ‘old man’ all the time.
+
+“I’m Rhys,” he introduced himself.
+
+“I know.”
+
+I’m just trying to be friendly. Rhys resisted the urge to roll his eyes for a second time in five minutes. He simply did not get along with this guy. They were completely, totally incompatible, and there was nothing he could do about that. He just had to push through and learn what he could anyways. Just because they didn’t get along, didn’t mean they couldn’t work with one another.
+
+“What do you want? If I understand, I’d be happy to help you.”
+
+“You cannot achieve what I want.”
+
+Another eye-roll urge. Deep breaths, Rhys. You know you don’t like this guy. Fight through it. “Then… is all you want to do, answer my questions?”
+
+“No.”
+
+Rhys’s hand clenched. Would it kill this guy to be slightly helpful? He took a deep breath. “But our relationship can be summarized by an exchange of information?”
+
+“I suppose, in a narrow-minded light.”
+
+Yep, that’s me, narrow-minded trash. He didn’t really know why this guy got under his skin so much, aside from the man being an asshole in general, but boy did he. He shook his head, trying yet again to reset his mentality, then focused on the questions he had about the void. He’d just ask them and get out. If he expected nothing from this man, then he wouldn’t be disappointed when the man gave nothing. From a certain perspective, the man was doing him a favor answering questions at all; after all, Desmond didn’t owe Rhys anything. He knew he should be grateful, and he acknowledged that, but man did Desmond get under his skin regardless.
+
+What could he say? He really was the kind of trashy guy who could resent a professor for having a bad personality, while acknowledging that he was freely benefitting from the class and that the professor owed him nothing, not even answers. He wasn’t trashy enough to take it out on Desmond—that was where he drew the line—but it didn’t mean he’d like the guy, either. He focused on the most important questions he had about the void and asked Desmond question after question, refusing to give up even when Desmond deflected or ignored his queries. It wasn’t easy to undersand the void, and it was equally as hard to understand Desmond, but Rhys pushed through. Slowly, his understanding of the void increased.
+
+At last, Desmond shut his eyes. “That’s enough for today.”
+
+“Are you tired?” Rhys asked, hoping to probe a tiny bit more information on what the man was.
+
+Rather than responding, Desmond vanished.
+
+Rhys stared at the space where he’d been, not angry, not even annoyed, just tired. Typical.
+
+I feel like I need to go right back to bed after that morning, Rhys thought, but reluctantly climbed to his feet anyways. He had work to do, and there was no time like the present. Despite all his frustration, his comprehension of the void had improved, and he was actually grateful for Desmond’s efforts, but he dearly wished the man would deliver his messages in a less annoying format.
+
+Can’t have everything, I guess. With that resolution in his heart, he headed for the door.

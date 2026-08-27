@@ -1,0 +1,229 @@
+---
+id: 478d42ff-e667-50bd-b89c-fe1db4113d48
+page-type-slug: story-chapter-royal-road
+title: "Chapter 957: When the Screaming Began"
+slug: 0024-chapter-957-when-the-screaming-began
+partOf: he-who-fights-with-monsters
+position: 24
+ownLength: 2128
+unit: words
+ownProgress: 2128
+publishedAt: 2025-01-31
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2040952/chapter-957-when-the-screaming-began"
+royalRoadId: "2040952"
+markedReadAt: "2026-06-29T19:04:37.140Z"
+---
+
+Ilyin, Gusev and Orlova moved through the dark concrete tunnels of the abandoned bunker complex. Designed to shelter tens of thousands for as much as a week, it was a sprawling warren, crawling under the city. The exposed construction site on the surface had long since been built right over, courtesy of some sketchy government approvals.
+
+There were large chambers earmarked as dormitories or storage areas. Some did have lighting set into the ceilings, but there was no electricity to power them. The trickier sections were power rooms with half-installed generators and access tunnels for plumbing and electrical infrastructure. The tight spaces, filled with debris and protrusions, were tough to simply navigate, let alone fight in when they ran into vampires.
+
+Two of the three mercenaries had lights attached to their tactical helmets and guns. Orlova had a perception power that, like Jason’s, allowed her to see through darkness. Her perception could penetrate any non-magical shadows, along with magical ones created by anything not too much more powerful than her. If any darkness proved impervious to her senses, she knew it was time to run.
+
+Their destination was the entrance hall at the centre of the complex. A large space designed to organise and filter people to other parts of the bunker network, its incomplete form was that of a massive concrete box. The only features were the doors leading out and a freight-sized elevator shaft with no elevator. It was an open space where they could see enemies coming and open up with their powers, if it came to a fight. It was also their way in and out of the complex, via the shaft, so the fourth team had been left to hold it.
+
+As they moved down a clear tunnel, Ilyin took the time to have the others check in.
+
+“Team Four, still holding the access point. Ilyin, you’re starting to spook me here.”
+
+“Team Two, still on route.”
+
+Ilyin stopped, turning to look at Gusev and Orlova. Their worried expression mirrored his own.
+
+“I’m not hearing things, right?” he asked.
+
+“No,” Orlova said. “Lebedev sounds off, and he’s answering the same way each time. The exact same way each time, like a recording.”
+
+Gusev nodded his agreement and switched his radio to the Team Four’s private channel.
+
+“Team Four. Alekseeva.”
+
+“Ilyin, now you’re really starting to spook me.”
+
+“Be aware, Team Two may be compromised. Shape-shifter, voice mimic, I don’t know. No telling what powers these vampires get from their bloodlines.”
+
+“I’d tell you we’ll stay sharp, but we’re on a knife edge already, Ilyin. We’ll be wary if they turn up.”
+
+“Report anything through this channel. I’ll still do periodic check-ins so they don’t realise we’re onto them.”
+
+“Acknowledged.”
+
+Team Three started moving again, guns up as they examined every side tunnel and dark corner. Orlova signalled to stop, snapping her gun at a corner next to an upcoming door.
+
+“Darkness,” she said. “Can’t see through it.”
+
+The others focused their lights on the spot, but the corner remained shrouded in darkness. A pair of disembodied eyes appeared within the shadows, orange and blue, and three guns opened fire. The bullets stopped in the air, as if caught in an invisible gelatine wall. A dark figure stepped out, the strange eyes inside the hood of a cloak darker than the shadows it emerged from. The figure pushed back his hood to reveal a face they all knew from briefing documents.
+
+Jason Asano plucked a frozen bullet out of the air and examined it briefly. He dropped it to the ground and then the others fell as well, clattering on the concrete. The three mercenaries looked at him, their gun magazines empty.
+
+“Do we try our powers?” Gusev asked.
+
+“Do you want to try your powers?” Ilyin asked.
+
+“Against the man who just Matrixed our guns? I don’t even want to reload.”
+
+“What does ‘Matrixed’ mean?” Orlova asked.
+
+“It’s a movie from about forty years ago,” Ilyin said.
+
+“Who is watching forty-year-old movies?” Orlova asked.
+
+Jason could taste the fear in their auras and waited as they whistled in the graveyard. Their wide eyes and frozen bodies reminded him of animals staring at headlights.
+
+“I take it we’re done fighting?” he asked.
+
+The mercenaries had all heard people using translation magic before. This wasn’t that. Jason didn’t talk in Russian; they could hear him not speaking Russian. But while their ears told them he wasn’t speaking their language, their minds told them he was. It was uncanny; an unsettling fear beneath the straightforward terror instilled by his aura.
+
+“You’re Jason Asano,” Ilyin said in English.
+
+“Have been for a while, now. Makes it easy to remember.”
+
+“Why are you here?”
+
+“Because someone sent you here to make a mess, and it needs cleaning up. I was expecting vampires, but there’s something else down here. It could be a vampire lord with some unusual powers, but I don’t think so. It’s good at masking its presence, but I’ve caught some glimpses of an aura, and it isn’t right for a vampire. It does reek of blood, though. Perhaps a vampire-like monster. I once encountered a spider that could turn people and even other monsters into vampires.”
+
+“I don’t want to fight that,” Gusev said.
+
+“Nor should you. One thing I am certain of is that it’s gold rank. We need to collect your people and get them out.”
+
+“That’s an objective I can get behind,” Ilyin said. “We came in with twelve; four teams of three. We think one team is dead and another compromised somehow. Possibly dead and being mimicked.”
+
+“I sense nine,” Jason said. “The group by the entrance, you and a group I found being fed on by vampires. The last group are likely your compromised people. Maybe dead, but whatever has them may be hiding their presence from me.”
+
+As if to make his point, Ilyin’s radio crackled to life.
+
+“Team Three? This is Four. Jason God Damn Asano dropped in on us, carrying Team One like sacks of potatoes. They’re down but alive, covered in punctures. Looks like a whole swarm of blood bags had their way with them. Asano sucked the vampire curse out of them and then fed them some crazy strong potions. They’re getting some colour back, but they’re still out. I’ve got Volkova healing them as fast as she can spend mana.”
+
+“Their souls were stressed by the vampiric curse,” Jason explained. “Healing magic won’t get them on their feet as quickly as normal.”
+
+Ilyin touched his radio and responded to Team Four.
+
+“Alekseeva, Asano is here, and he says there’s some kind of gold-rank blood monster down here as well. We’re going to rendezvous with you, get out, and leave whatever’s down here to him.”
+
+“I like that plan. Be fast.”
+
+A portal arch rose from the floor, black stone filled with darkness that roiled like black fire.
+
+“This will be fast,” Jason said, and stepped through. The mercenaries shared a look.
+
+“Either of you ever used a portal?” Orlova asked.
+
+“No,” Ilyin said. “I saw a few being used, back in the Network days, but never went through one myself. Leadership was very restrictive about portal users.”
+
+“You don’t think that portal leads to a cell or something, right?” Gusev asked.
+
+“I’ve been hearing chatter, over the last year,” Ilyin said. “People talking about him coming back. Things that I thought were crazy, until I felt his aura. Until I heard his voice.”
+
+“What was that?” Orlova asked. “It felt like hearing Moses coming down off the mountain. And how did he stop those bullets with what looked like his mind? That wasn’t in his listed power set. Some protective item from the other world?”
+
+“If so,” Ilyin said, “he could trade it for island if he has a spare. And I don’t think the portal is a trap. We’re not powerful enough that he needs effort to handle us.”
+
+“Then let’s get going,” Gusev said. “I don’t want to be here when something he does need effort to handle turns up.”
+
+***
+
+Ilyin watched as Asano lifted his people up the empty shaft as if there was an invisible elevator. He sent Team Four up first, to secure the entry point on the surface, and was now lifting Team One, who were shaky but once again conscious.
+
+“That’s really your aura doing all that?” Orlova asked.
+
+“Yes.”
+
+“How does that work? I can levitate myself, but not stably, or quickly.”
+
+“It’s complicated.”
+
+“Is it something I could learn?”
+
+“Unlikely. You have to go through changes to make it possible. There’s no standard process for that, as far as I’m aware.”
+
+“How did you go through them?”
+
+“A cosmic bird needed me to save the world and come back from the dead less often.”
+
+“You know how that sounds, right?” Gusev asked.
+
+“At the risk of sounding immodest, I live an interesting life.”
+
+“You’ve fought things like what’s in this place before?” Orlova asked.
+
+“I won’t know until I find it. Or it finds me. But I’ve fought a lot of things.”
+
+“Did you think about using us as bait?” Gusev asked.
+
+“Even thugs who work for blood money don’t deserve that. I’ll get your other people out alive, if I can. You should not hold your hopes up, however.”
+
+“What about the weapon?” Ilyin asked. “That’s what you came for, right? You’re spending time with us you could use hunting for it.”
+
+“I have someone doing that.”
+
+“And if that someone meets whatever is out there?”
+
+“Then whatever is out there will discover that the cosmos is a large, and sometimes extremely hungry place.”
+
+***
+
+“We should just leave it.”
+
+“If we leave the weapon, Lord Louden will kill us.”
+
+“Then we don’t go back to Lord Louden.”
+
+“And do what? This isn’t the old days. The humans know what we are and have the magic to hunt us. We need shelter, and someone to get us out of the country. Unless you, a vampire, want to hide in the middle of a nation famous for being constantly bombarded by the sun.”
+
+“Maybe we don’t have to go. The blood oak could easily kill them.”
+
+“It could easily kill us. It’s unstable. Uncontrollable. Now that we’ve set it loose, we need to run from it more than we do from the humans.”
+
+The two vampires continued loading the nuclear device into a large crate. They looked up as a third vampire hurried into the room.
+
+“We need to go,” he told the other two.
+
+“We know.”
+
+“No, I mean we really need to go.”
+
+“Where are the others?”
+
+“Gone.”
+
+“Are you telling me that many vampires went down to three humans?”
+
+“No. We were devouring them when Jason Asano arrived.”
+
+The other two went still.
+
+“He can’t be as bad as they say, can he?”
+
+“He’s worse. A shadow that feeds on vampires. You think Lord Louden’s aura is domineering? This was like being looked down on by a god. I was the only one to get away, and only because Asano was focused on saving the humans.”
+
+“You got away?”
+
+“Yes. Obviously.”
+
+“And you came back here alone?”
+
+“Are you dense? Yes, I came back alone. This doesn’t matter, we have to—”
+
+“It matters. Did you really get away, or were you let go?”
+
+“Why would I be let go?”
+
+“So someone could follow you. That’s why you would be let go.”
+
+The sound of footsteps on concrete came into the hall, slow and regular, like the ticking of a clock. The three vampires looked up as a man walked into the room. He wore robes, rather than normal clothes, the colour of dried blood. His features were sharp, his neat beard not quite masking the protrusion of his large chin. His eyes were blood red orbs, glistening like sunlight reflecting off the surface of a red sea.
+
+“Is this Asano?” one of the vampires asked.
+
+“No. The aura is wrong. And the eyes.”
+
+“Hello. My name is Colin, and I am going to eat you now.”
+
+Mist started spilling from an open-ended pipe jutting from the wall near the ceiling. It swiftly coalesced into a person.
+
+“Lord Louden!”
+
+The gold-rank vampire only had eyes for Colin.
+
+“This isn’t Asano,” he said. “It belongs to him, though. Some kind of servant creature. I don’t think you weaklings can sense it, but this thing is filled with delicious, bloody life force.”
+
+Louden vanished in a blur and was suddenly behind Colin, leaning in to sink his fangs into Colin’s neck. That side of Colin’s neck, head and shoulders broke apart like a jigsaw puzzle, into a mass of leeches that crawled over Louden’s head, biting right back. That was when the screaming began.

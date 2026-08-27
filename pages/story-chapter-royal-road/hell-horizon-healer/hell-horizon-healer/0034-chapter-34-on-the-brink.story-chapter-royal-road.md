@@ -1,0 +1,203 @@
+---
+id: a7c49f86-0f8f-51f4-8835-2a3446276d46
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34 - On The Brink"
+slug: 0034-chapter-34-on-the-brink
+partOf: hell-horizon-healer
+position: 34
+ownLength: 1709
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3752105/chapter-34-on-the-brink"
+royalRoadId: "3752105"
+---
+
+Jake didn’t hesitate. He lunged into the gap, his boots splashing through the thick, red puddle left by Lyle’s missing limb.
+
+The Dreadknuck was already moving. Its massive shape loomed over them, the charred crater in its chest pulsing with a dull, sickening heat. It ignored the black smoke pouring from its flesh, raising the massive telegraph pole to finish Lyle off.
+
+"Arthur! Shield!" Sloane roared from somewhere behind, her voice raw.
+
+Arthur stepped into position. He brought his massive, glowing kite shield up, his boots bracing against the rock floor as the faint blue static of his defensive barrier flickered to life. The giant ape swung the pole down with everything it had.
+
+The air pressure dropped.
+
+Arthur looked up at the oncoming mountain of malice in beast form, wood and lightning crackling above him. His eyes widened. The muscles in his face went completely slack, his jaw dropping in pure, unadulterated terror. He didn’t hold.
+
+At the absolute last fraction of a second, Arthur lunged backward, dragging his shield with him to save his own skin.
+
+The barrier vanished.
+
+The path to the wounded neighbors was wide open.
+
+"Get back!" Sloane screamed.
+
+She stepped past Arthur, her short hair whipping across her face as she planted her steel-toed boots into the cement. There was no time to think.
+
+Just like Lyle, Jake felt the mana buzz from within Sloane.
+
+With a frantic, desperate thought, she forced all of it out at once.
+
+Crack.
+
+A sound like shattering porcelain echoed inside her chest. Sloane gasped, her eyes bulging as a thin trickle of blood instantly leaked from the corner of her mouth. Her mana core tore itself to pieces, releasing every ounce of stored energy into a single, volatile surge.
+
+She swept her sword in a wide arc.
+
+A razor-thin crescent of compressed wind tore through the air. It was ten times larger than any she had managed before. The blade of air screamed across the platform, slamming directly into the ape's right shoulder. It sliced clean through the dense muscle and hide, severing the tendons.
+
+The Dreadknuck roared, its arm dropping to the ground with a wet, dense thud as the telegraph pole tilted off course.
+
+The enormous weapon crashed into the wall, raking rock with it until it stopped, embedded.
+
+But it wasn't dead.
+
+The giant beast thrashed, using its remaining good arm to unleash a blind, sweeping backfist right toward Sloane's head. She was completely spent, her core ruined, unable to move an inch.
+
+Susan barged through.
+
+The berserker didn't have her cleaver anymore, but she didn't care. Her heart rate smashed against her broken ribs, each beat like a war drum.
+
+The ape’s backfist caught Susan flush in the chest.
+
+It was a hit that should have turned her ribcage into powder and killed her on the spot. Jake heard the distinct, sickening crush of her sternum collapsing.
+
+Susan refused to fall.
+
+A jagged, crimson aura erupted from her skin, locking her broken limbs into a rigid, terrifying posture. Her eyes were entirely blood-red, devoid of any pupils. The System had triggered something deep inside her—a final, desperate safety net.
+
+What the hell—
+
+Susan stood there, a walking corpse held together by pure, volatile will. She leaned forward, locking her broken fingers into the ape's leg, anchoring the monster to the platform with the raw, unnatural strength of a dying woman.
+
+"Now!" Edwin barked from above.
+
+Jake snapped to attention, seeing Edwin without a scrape with five others all holding ranged weaponry.
+
+Edwin and his team started firing.
+
+He didn't care about saving Susan or protecting Arthur. He wanted the contribution. He wanted the credits. Arrows and crossbow bolts rained down from his position in a rapid, rhythmic sequence, peppering the ape's neck and arms to keep its attention divided.
+
+The monster thrashed, trying to shake Susan off its leg, its heavy head turning wildly.
+
+"Hold it!" Jake yelled, his voice cracking from the strain in his lungs.
+
+He ran forward, his right hand dragging the heavy iron chain of Gutter-Tooth along the stone. His left arm was still a useless, dangling mess of splintered bone held together by the temporary tightness of his Minor Heals and Tension.
+
+He had one shot left. One strike and the bones in his arm would bear the same fate as his other.
+
+Chloe stepped up behind him. Her face was deathly pale, her hands trembling as she extended them toward the thrashing twelve-foot ape.
+
+She used her Psychokinesis with everything she had.
+
+The air around the Dreadknuck turned heavy, pressing down on its shoulders like a vice. The beast's movements slowed to a crawl, its massive muscles straining against the invisible weight.
+
+Blood began to roll down Chloe's nose, dripping onto her lip as her brain redlined from the massive mental feedback. "Jake... hurry!"
+
+Jake reached the monster.
+
+He leaped onto an overturned chunk of rock or stone, launching his body straight at the smoking, charred hole in the ape's chest. He coiled the rusted links of Gutter-Tooth tightly around his right forearm, letting the sharp metal edges cut deep into his skin until the chain was locked tight against his muscle.
+
+He tried to force the Tension snap-movement.
+
+Snap.
+
+Nothing happened. The slack didn't catch. His wrist twisted awkwardly, the blunt end of his sickle skimming uselessly off the beast's ribcage.
+
+The ape snarled, its pale jaws opening to snap at his face.
+
+Jake didn't back down. He braced his boots against the monster's midsection, pulling the chain back for a second attempt. He shut his eyes, tuning out the roaring, tuning out Chloe's ragged breathing and the smell of burnt flesh. He hyper-focused entirely on his right hand.
+
+He reached inside his core and pulled on his mana. He didn’t know how he did it; he only had the singular desire to force that raw energy into his muscle fibers, tightening them from the inside. Like how he used Minor Heal.
+
+He didn’t know it at the moment, but all of his training, all his desire, exploded forth.
+
+[Skill Gained: Mana Control (Active)]
+
+Effect: You have learned the basics of mana control.
+
+He waited for that exact second.
+
+There.
+
+He snapped his wrist.
+
+This time, the calculation landed perfectly. The kinetic force struck out. Boosted by all of his Strength and mana, his right hand became an absolute battering ram.
+
+Jake drove his fingers straight into the open, smoking wound in the center of the ape's chest. His fingers snapped from the impact, his Vitality unable to resist against it. He used two more heals in quick succession, pulling muscle into his fingers to support the fractured bones.
+
+His knuckles tore through the remaining layers of charred hide and muscle. The heat inside the beast's torso was intense, burning his skin as his fingers sank deep into the slick, wet interior.
+
+He closed his grip around something large, heavy, and violently pulsing.
+
+The ape’s eyes went wide. The thrashing stopped instantly.
+
+Jake gritted his teeth, ignoring the boiling blood rushing over his hand, and squeezed. He twisted his wrist with brute force and pulled.
+
+Thump.
+
+The giant heart ruptured inside his fist.
+
+The Dreadknuck let out a hollow, wheezing gasp. The light in its bloodshot eyes flickered once, died, and the massive twelve-foot frame instantly lost all structural integrity. It collapsed forward like a felled tree, crashing heavily onto the stone platform.
+
+A massive rush of system text burned directly behind Jake's eyelids, turning the bleeding crimson back into a bright, triumphant blue.
+
+Floor 7 Guardian Defeated!
+
+(Lvl 19) Dreadknuck Goliath defeated!Rewards: 2 Levels, [Rare] Mana Nucleus (Edwin), [Uncommon] Goliath Mantle (Susan).
+
+Jake tumbled off the falling carcass, landing hard on his side. His right hand was completely drenched in thick, black monster gore, and his left arm was a throbbing, misshapen mess.
+
+He lay flat on his back against the stone, staring up at the dark abyss above the broken bridges. The roaring had finally stopped. The lightning had stopped. He saw Edwin, grabbing hold of something that radiated with pure, unfiltered mana. The veteran stared at it in glee.
+
+The hallway was completely quiet again.
+
+He let out a slow, ragged breath through his nose, watching his chest rise and fall in the dark.
+
+He survived.
+
+He got up, spitting blood on the floor.
+
+“Give that to me,” Jake said, glaring up at Edwin.
+
+Edwin tossed the nucleus in the air and caught it. “I’m afraid I don’t understand? This is just part of my contribution. I earned this.”
+
+Jake’s expression wasn’t angry. It was devoid of any emotion, just like always. But as he stared at the older man up on the bridge, his vision glancing through his blood soaked hair, the soldier turned serious.
+
+“That’s a scary look you’ve got there, lad,” he said. “I’d worry about your team first.”
+
+Jake didn’t have to look; he knew that the other neighbours were broken and for the most part, dying. But he didn’t care. Something deep in him bubbled over, making him shiver.
+
+He tried flexing his broken hand, forcing it to obey.
+
+He placed four attributes all into Mana and felt his container stretch from the added supply.
+
+“I’ll help you,” Chloe whispered.
+
+“Why?” Jake asked, refusing to tear his gaze away from Edwin.
+
+“Because I think I’m starting to understand you.”
+
+Jake paused. “I don’t even understand myself.”
+
+“Not as smart as you think you are then.”
+
+He said nothing.
+
+“I can lift you, I think,” she said.
+
+“I… I will block the first volley of arrows,” Arthur added.
+
+“So finally find your bravery when it’s something you understand,” Sloane said, hunched over. Blood kept on dripping from her lip. “Coward.”
+
+Arthur gritted his teeth. “We can’t let Edwin get stronger.”
+
+Sloane scoffed, coughed, then fell back onto her ass and stayed there. “Now that’s something I agree with.”
+
+“Me too,” Lyle muttered, clutching at his stump. He turned quiet for a moment, then said, “Jake, you are not allowed to kill him.”
+
+Jake finally broke his gaze and looked at Lyle. He blinked. “Why not?”
+
+“There are things you cannot come back from,” he said. “Murder is one of them.”
+
+Jake cracked his neck. “I don’t share your belief.”

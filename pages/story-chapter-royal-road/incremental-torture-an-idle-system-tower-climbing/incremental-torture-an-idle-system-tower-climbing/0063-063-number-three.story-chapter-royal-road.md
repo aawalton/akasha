@@ -1,0 +1,103 @@
+---
+id: b0756f8d-838c-5fe5-bb63-327d538a5dd7
+page-type-slug: story-chapter-royal-road
+title: "063: Number Three"
+slug: 0063-063-number-three
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 63
+ownLength: 2069
+unit: words
+publishedAt: 2024-06-28
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1696500/063-number-three"
+royalRoadId: "1696500"
+---
+
+At her approach, the hyper boss had little in the way of weapons to respond with. Two arms that ended in stumps, useless for a punch. The speed of her charge had taken it by surprise and a kick was out of the question given the close quarters they were now in.
+
+So, it chose to deploy a weapon that it had not yet used. When Evelyn drew near to its head, the Worldshaker opened its mouth wide, and unleashed a jet of searing flame that washed over her in burning waves.
+
+Her skin blistered, then began to melt. Flesh bubbled but Evelyn drew on the power of the Reality Node to reinforce her body, at once slowing the rate of the damage.
+
+It did little to halt her momentum, however. Two hands firmly clamped on the shaft of Spinebreaker, she raised it high above her head and brought it down with every scrap of strength she could muster.
+
+The spikes bit deep, and ice spread from the impact, but at first nothing more happened. Evelyn wondered if she had grown weaker than she thought, but those fears were assuaged when she heard a groan, then saw a crack appear between its beady black eyes.
+
+Dazurmagon’s head exploded, showering the entire arena with magma and shards of black crystal from its eyes. Evelyn landed on the stump of its neck as the giant’s body began to fall backwards.
+
+Not content to wait and see if it would be able to regenerate the grievous wound, she hefted her warhammer once again and brought it down on the monster’s torso.
+
+Another crater was carved out of her foe. Yet she was unrelenting, and hammered at it again and again until there was nothing left of the hyper boss but a pile of broken rubble and rapidly cooling lava. When a message appeared in her vision, Evelyn finally allowed herself to relax.
+
+The moment she stopped focusing on keeping the pain away from the forefront of her focus however, it overwhelmed her.
+
+All the accumulated fatigue and damage of the battle piled on and she collapsed in a heap beside the slain corpse of the Worldshaker.
+
+~~~
+
+The first thing Evelyn saw when she came to was the messages from the tower. Pain suffused every part of her body. Her legs were heavy and stiff, her stomach and lungs burned and her head was ringing with an agonising migraine. Not to mention her hands, which were red and swollen.
+
+None of that could dampen the sheer elation she felt, however. At long last, Evelyn had defeated the hyper boss and cleared the 16th Floor.
+
+Alone
+
+It was a feat that no other had achieved before her, and perhaps no one would be able to match it for a while.
+
+❰ Hyper Boss Raid Clear ❱
+
+Time Taken: 39 Minutes, 27 Seconds
+
+Clear Rating: C
+
+You have received an Unusual Loot Chest as a clear reward. Essence has been shared between surviving challengers.
+
+~~~
+
+Congratulations Challengers, you have cleared the 16th Floor! You may purchase one reward from the following:
+
+〖1 Attribute Point〗- 85 Essence
+
+〖Grey Star〗- 68 Essence
+
+〖Common Skill Crystal〗- 120 Essence
+
+〖Uncommon Skill Crystal〗- 3250 Essence
+
+〖White Star〗- 3750 Essence
+
+There was just one problem. One that Evelyn hadn’t expected to ever deal with again. She had a grand total of 0 essence. Defeating the hyper boss would have granted her enough to choose any of the rewards, except that Celestial Furnace had converted all of it into star value.
+
+Which was fabulous, in the long run, but didn’t help her at that moment. It wasn’t a major issue though. She could just delay selecting her reward until she had enough essence for it.
+
+She wondered how many stars defeating Dazurmagon had granted her, so opened up the menu to have a look.
+
+Essence: 0『+476160 / 5:56:40 hours』
+
+~~ Stars ~~
+
+Grey: 0
+
+White: 20
+
+** Inventory **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+**Guilds**
+
+**Property**
+
+【OVERCOME】
+
+Evelyn had to do a double take when she saw her income. Prior to her ascension she had been making around 3 million essence every 6 or so hours, and that was with almost 250 grey stars and 10 white stars in her possession.Yet now, with just 20 white stars, she was producing almost half a million essence again. It was a blessing she was thankful for, given that she had been worrying about how to come up with 2,500,000 essence to found the guild after losing her only source of it, but it felt like the number was far higher than it should have been.It also didn’t help that she hadn’t been able to see how much essence she had earned for bringing down Dazurmagon the Worldshaker. It made it difficult to extrapolate backwards and figure out the conversion rate of essence into stars. And why had she only earned white stars, and not any grey ones? Maybe it just turned the essence into the highest tier of star possible and worked downwards when that wasn’t an option?There were too many unanswered variables. When she returned to Haven she would need to figure out a way to earn a set amount of essence and see how many stars she gained. That would be a start to working out the system.She also pulled up the description for Galactic Expansion again, just to remind herself. That would explain her income in relation to the stars at least, assuaging one of her worries.
+
+Galactic Expansion (Unusual) - Every 1 star value reduces the cooldown of your stars production by 1 second. Every 25 star value multiplies your stars’ production by 100%. Stars multiply the production of the tier below by their base production for each star you own. Multiply your stars production based on your total attributes - the multiplier begins at 1.00x and increases by 0.3 for each point you have in an attribute.
+
+So, if a white star had a star value of 10 - equivalent to 10 grey stars - then that meant the base income of 200 essence was being doubled eight times over, and then her 15 power and fortitude were adding up to multiply that total by 9, giving the resulting income of 460,800 every five hours, fifty-six minutes and forty seconds.Except that her income was a little more than that. The source of the discrepancy was a mystery. She hoped she would figure it out soon, but wasn’t going to kick up a fuss about free income.Not too shabby. It would take a little explaining if Kayla wanted her to set up the guild as soon as she was back, but now it would only take her a little over a day to earn enough essence back.It also meant that she would be able to pick one of the floor clear rewards much sooner than she had expected and wouldn’t need to jump through any hoops like selling some junk borrowed from Kayla or just loaning the essence directly to do so.A glance down at her arm told Evelyn that her much beloved tattoos had made a comeback. Twenty perfect squares, which twinkled with a faint white glow, trailed down her left arm. Along with that, there was a curious tingle in the earlobe which was adorned with the piece of jewellery from Farion.It might have just been a coincidence but she suspected its function had something to do with the stars. How she could make use of it or trigger it again was a matter for another day, when she had dealt with some of the other pressing matters on her to-do list first.All that remained before she made her way through the exit portal, through which she could already see a huge crowd gathering in the plaza - her achievement of solo clearing the 16th Floor must have made waves - which she wasn’t looking forward to dealing with, was to open up her unusual loot chest and see how much better the rewards were compared with the uncommon ones from before.The chest shimmered purple when she took it from her inventory, leaving just a lone Reality Node sitting there - she would need to figure out if absorbing the second would be dangerous or not. Without delay Evelyn threw open the lid of the wooden chest and was almost blinded by the flash of purple light that burst forth from within.As the planks of the chest faded away, leaving just the prize resting on the ground, Evelyn’s first thought was that it had granted her another Reality Node.While that would’ve been an incredible coincidence, and a huge boon, she was disappointed to find that wasn’t the case when she put the new item inside her inventory to see what its name and function were.Her confusion had stemmed from its appearance, a rounded jewel that was a charcoal grey colour. A cursory look made her mistake it for the glossy black and spherical gems that had turned the course of battle against the hyper boss, however her new item was of a much rougher cut, with many facets, and was cloudy and matte rather than shiny.
+
+Storage Node (Unusual) - Can store a monumental quantity of things within once it has been [❍nc░red] to a challenger. Things can be deposited or withdrawn at will, within a set distance from the storage node. The storage node can be connected to other magical systems.
+
+First, Evelyn had noticed that the previous unintelligible script had changed, and some of the symbols had been replaced with english lettering.She presumed that meant the tower had recognised her own understanding of the phenomenon had increased and did not need to hide as much from her regarding it. Though she might have been off the mark, the tower could be rather inscrutable.Second, her mind had begun exploding with possibilities the moment she saw the function of her new item. Evelyn had thought that with her already having an inventory this was an utter waste of a loot chest, and her mood had sunk, but straight away another idea had sparked into fruition and she started to plot.Which wasn’t the best idea, given that she already had far too much on her plate to deal with back in Haven, but this new idea would be an incredible way to settle some roots and build something lasting.If she was able to resist the temptation to run straight off to the 17th Floor, that is.Given the size of the crowd waiting for her, which by now had almost filled the entire central plaza of the city - something that almost never happened, even when Kyron’s team had beaten the floor for the first time - Evelyn felt she might just do that.Kayla would be furious with her, but she was sure that it wouldn’t be so big a problem. Right?No, I should be responsible. Actually, it makes more sense to figure everything out before I challenge the tower again. If I can get rid of all these finicky tasks then I’ll have nothing left to bother me or hold me back from doing what I want, which means I can just keep grinding the tower until I reach the top, or something more frustrating crops up.Looking down at the pile of rubble, she took a few moments just to bask in the glory of her achievement. She had really done it. Taken down a hyper boss, all by herself.She knew the feat would be repeated by others, but not many. Clenching and unclenching her fist, Evelyn allowed herself to relax and painted an exaggerated smile on her face, in preparation to greet the crowds that awaited her.If she wanted her new idea to be a success, then building a public image as a reliable woman was a must. It wouldn’t do to disappoint any fans.I know Kayla will love this new plan. I’m almost the perfect woman to do it, too. I doubt there’s more than ten candidates in all of Haven who could pull this off, and none of them will have a Storage Node too, let alone an unusual tier one.All her mental preparation was complete, and so with a final glance at the red mountains and the cracked yet still standing arena, Evelyn walked through the portal and started to wave at the citizens of Haven as they erupted into deafening applause and enthusiastic cheering.

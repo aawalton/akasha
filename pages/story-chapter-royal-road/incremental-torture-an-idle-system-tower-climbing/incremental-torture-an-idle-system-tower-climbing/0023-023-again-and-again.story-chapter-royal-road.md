@@ -1,0 +1,167 @@
+---
+id: 00c3c746-6632-523d-9944-ccc26e81e02d
+page-type-slug: story-chapter-royal-road
+title: "023: Again, and Again"
+slug: 0023-023-again-and-again
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 23
+ownLength: 2113
+unit: words
+publishedAt: 2024-04-22
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1605860/023-again-and-again"
+royalRoadId: "1605860"
+---
+
+Her mana surged to fulfil the gluttonous demand of her new skill, Flashfreeze Flamecharge. What began as flickering embers soon blazed into a raging inferno with Evelyn as the source, following which the ground around her feet began to crack and freeze. She could feel the skill guiding her on a path to her enemy, the laser lizard, and she obliged, her calves and thighs in perfect harmony as she exploded forward, leaving a trail of frost and flame in her wake.
+
+In just over a second, she reached her target, smashing into the boss like a blazing comet, the flames and frost ripping into its scales and flesh in a searing blast, the elemental effects digging deep alongside the spikes of her pauldrons. It roared, an ear-rattling, inhuman screech, swiping at Evelyn with its bladed arms and stomping like a child in the throes of a tantrum. She was able to avoid all but one of its haphazard strikes.
+
+The savage blades that decorated its lower pair of arms were jagged, sinister looking natural weapons that were refined for sawing through flesh and bone. However, against the mighty wall that was Evelyn, they failed to find purchase, leaving her skin unbroken. The force of its huge, muscular arms smashing into her was not avoidable, however, and as its arm crashed against her guard, she was sent flying once more.
+
+This time Evelyn managed to stay on her feet and did not find herself buried in any walls, but already a purplish-black welt was forming on her arm where the boss had struck. Just as quickly however, her surging vitality was healing the damage. It would take a coup de grâce of a similar calibre to its destructive laser to deal her any lasting damage.
+
+With three tiers of Bulwark and over twenty points in fortitude, Evelyn was an impregnable bastion. What followed was carnage, as the two charged forth, the boss screeching and her unleashing a primal battle cry. She no longer had the skill, but it had become a habit, one that filled her with vigour and strength as she fought.
+
+Blows were exchanged in a flurry, faster than the eye could see, the boss’ bladed arms and clawed feet slashing and striking at Evelyn as she barraged it with blow after blow, every strike of her fist empowered by Fists of Frost and building on the damage her opening strike had caused.
+
+It was brutal. Even Bulwark could not keep up forever, and the dinosaur’s blades started to find purchase in her skin, the teeth cutting in and leaving nasty wounds across her body which bubbled and writhed as Overpowering Spirit sought to mend them as they were dealt. The boss was not winning the clash however, every single blow of Evelyn’s was slowing its movement and its chest resembled a glacier, a thick layer of ice having formed and biting deep.
+
+Pulling strength from an unseen well, the monster roared and struck her with both blades at once, smacking her to the ground and gaining itself a moment of peace. Evelyn struggled to her feet, the damage wearing on her a little but not yet debilitating. Before she could close on it once more, the crystals on its upper arms flared to life and she barely had time to raise her guard and summon a Mana Plate before the blazing beam sliced through the air and began to burn into her defences.
+
+Unlike the first time it had fired the lasers, it didn’t carve through her Mana Plate without resistance, however she could feel the shimmering barrier straining and falling apart under the power of the beam. It shattered and Evelyn almost collapsed as the attack began to burn and ravage her torso. It was only by sheer force of will that she remained conscious.
+
+However, she hadn’t reached the 10th Floor by giving in when the odds were stacked against her. Faced with her greatest fears, she had overcome them and grown stronger for it. In the tower, she had been through traumatic and devastating challenges, but she had discovered in herself a passion and love for facing those challenges head on and smashing through them with her own raw strength.
+
+I’ll be damned if I let this crappy dino be the hurdle I fall at. I refuse to die until I’ve had a blissful reunion with Lily and Marvin, and my parents. Whoever made this tower, if you’re watching, you better not forget my promise to come and beat your ass. I’ll get there one day.
+
+Dizziness struck her as she fueled a final Flashfreeze Flamecharge with the last dregs of her mana, Overpowering Spirit keeping her clinging to life as the boss’ laser seared into her bones. The arena erupted in a blinding explosion of blinding light, flickering flames and frigid frost as Evelyn smashed through the already frozen boss which shattered in a gory shower of blood and scale. She was unable to halt her own momentum and slammed into the wall behind it, knocking herself unconscious right as the clear notification rang out in her mind.
+
+❰ Solo Boss Raid Clear ❱
+
+Time Taken: 9 Minutes, 49 Seconds
+
+Clear Rating: B
+
+Your rating has granted you a superior reward! You have received a Rare Class Gem as a clear reward.
+
+Congratulations Challenger, you have cleared the 10th Floor! You have unlocked the Class System. You may purchase one reward from the following:
+
+〖Full Recovery〗- 10 Essence
+
+〖1 Attribute Point〗- 60 Essence
+
+〖Grey Star〗- 68 Essence
+
+〖Common Skill Crystal〗- 120 Essence
+
+〖White Star〗- 1250 Essence
+
+Evelyn came to just a few minutes later, her head ringing from colliding with the solid stone walls of the cavernous arena and the flesh and bones of her chest still sewing themselves back together, pulling every scrap of mana she produced and straining the pathways in her body to the limit, adding a metaphysical layer to the cacophony of agony she was experiencing.
+
+Despite the abysmal state of her body, she felt renewed. Defeating the first true boss monster of the tower was a trial, one set out by the tower, but also a personal one. She was an unstoppable force. It felt invigorating to toe the line between life and death. Perhaps it was just the adrenaline talking, but Evelyn suspected this hunger for battle was always hidden underneath the facade she had been wearing back on Earth, without any real outlet in the modern world for such things.
+
+She took her second white star as a reward, gaining another point of fortitude from stellar body as a bonus. A boss monster was far stronger than the regular foes of the tower, but Evelyn still despised the fact it had broken through her defence with such ease. After scouring the Local Shop and cleaning it of attribute points and grey stars, she pumped her fortitude and vitality up even further, along with some minor investment into mana and stamina.
+
+With her skills providing the majority of her offensive prowess, power and speed were at the bottom of her list of priorities when it came to her attributes. If she felt them falling behind, it would be easy enough to rectify.
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+|Attributes|
+
+Power: 7
+
+Speed: 4
+
+Stamina: 8
+
+Vitality: 17 (18)
+
+Mana: 12
+
+Fortitude: 22 (30)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Rare), Bulwark (Uncommon), Bulwark (Common), Stargazing (Uncommon), Assassin’s Eye (Uncommon), Bargain Hunter (Uncommon), Backlash (Uncommon), Stellar Body (Uncommon), Capital Gains (Common), Pugilism (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Arcane Shield (Common), Spendthrift (Common), Solar Fusion (Common), Salvo (Common), Corruption Resistance (Common)
+
+~Active~
+
+Fists of Frost (Uncommon), Mana Plate (Uncommon), Conjure Rock (Uncommon), Flashfreeze Flamecharge (Rare)
+
+~Hybrid~
+
+Overpowering Spirit (Rare)
+
+A Class, huh. I had been wondering if something like that would show up, but since it wasn’t part of the original offerings of the tower I just assumed it wasn’t exactly like the games from Earth. I remember Marvin telling me about whatever rpg he was most into at the time, but it always seemed a little… childish. The boss dropped a rare class gem too as a boosted reward. I suppose that means whatever class I receive will be better than the usual fare. I hope it isn’t random like everything else has been so far, this feels like a decision I want to have some control over.
+
+She found the class system as a new tab on the menu, which meant it wouldn’t be just a one time decision, but something that she would be able to maintain influence over at all times. That was a positive sign. The rare class gem also didn’t crumble when she attempted to break it in the manner that the skill crystals were activated.
+
+Essence: 112『+252 / 5:59:36.4 hours』
+
+~~ Stars ~~
+
+Grey: 116
+
+White: 2
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+【KILL】
+
+Welcome to the Class System! You have taken the first true step on the path of power by defeating a boss of the tower, and now can begin to crystallise your ambition into a single focal point, your Class.
+
+Rare Class Gem detected, challenger will receive significantly better starting classes.
+
+The tower has selected three classes most suitable for you, Evelyn Han. Take your time to decide, because once you have taken the first step down a path, it is difficult to change the destination.
+
+Unstoppable Berserker (Rare)
+
+You are a raging force of nature, savage and wild in battle, bringing death and devastation to your foes and allies who stray too close. None can stop your raging once you charge into battle.
+
++1 Vitality, Power per level
+
+Class Skill:
+
+Unstoppable Rage (Rare) - Release the restraints on your mind, unleashing the full strength of your body and blade upon any who dare stand in your path until you can move no longer. (1 hour cooldown)
+
+Unbreakable Bastion (Rare)
+
+You are a titanic shield against all danger and damage that may come for you or your allies. No blade nor spell can pierce your defences unless you choose to allow it.
+
++2 Fortitude per level
+
+Class Skill:
+
+Unbreakable Shield (Rare) - Focus your strength into a shield that blocks all damage. (Variable Mana Cost)
+
+Unyielding Warrior (Rare)
+
+Your spirit knows no equal, and will not bend or break in the face of any challenge or foe, no matter how mighty or impossible it may seem to overcome them. You are a true warrior.
+
++1 Power, Fortitude per level
+
+Class Skill:
+
+Unyielding Heart (Rare) - Nothing can quell your thirst for battle and challenge, not even death. As long as you still have the will to stand up and fight, even a lethal blow will not bring you down.
+
+Wow. Every single one of those classes sounds overpowered as hell. The rare class gem really put in some work. Unstoppable Berserker does sound rather fun, and I have lost myself in the throes of battle once or twice, but I don’t like the sound of accidentally hurting my friends or allies because of a skill I can’t stop. Looks like it’s between the last two options.
+
+Unbreakable Shield is an incredible skill, and one that would synergise with plenty of my existing skills, like Bulwark, Arcane Shield and Mana Plate. 2 points of fortitude every level is also appealing. I wonder how the levels work? I guess I’ll have to find out once I’ve chosen.
+
+If it wasn’t for the utterly broken class skill of Unyielding Warrior, I would take Unbreakable Bastion in a heartbeat. Unyielding Heart, the clue is in the name, but damn is that one ridiculous effect. Unless I’m interpreting this wrong, that’s a skill that would make me functionally immortal, provided I still have the will to fight back. So far, I haven’t met a challenge or opponent that has broken my spirit, which is presumably why the tower offered me the class in the first place.
+
+It was also a small act of resistance against the path the tower had been nudging her down, that Evelyn ultimately chose Unyielding Warrior as her class. Rather than become the pure tank it seemed to want her to be, she had taken her fate somewhat into her own hands. The moment she chose her class, her mind and body shifted. Not a great, surging boost of power or mental sharpening like what came with increasing her attributes, but rather the solidification of who she was, an act that unified her entire being, giving her a singular purpose.
+
+I am a warrior, and I will not back down until I fight my way through this entire bloody tower.

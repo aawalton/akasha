@@ -1,0 +1,139 @@
+---
+id: fb1a9f4d-a763-5a3d-9c0d-6d2afa137b16
+page-type-slug: story-chapter-royal-road
+title: "216. You've Realized"
+slug: 0216-216-youve-realized
+partOf: god-of-trash
+position: 216
+ownLength: 2043
+unit: words
+publishedAt: 2025-10-20
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2692010/216-youve-realized"
+royalRoadId: "2692010"
+---
+
+Rhys turned. Daran stood slightly behind him, his arms crossed, gazing at the dark filth the same as Rhys did. He nodded at Rhys. “I take it you’ve comprehended the technique, if you’ve come here?”
+
+“I think so, yeah. What is it?”
+
+Daran shook his head. “I don’t know. I was the first to find it… in our region. I tried to use it, taking a tiny portion of its immense power and creating curse power from it, spawning cursed techniques and curses alike, culminating in my ultimate weapons, the beings you now know as the Remnant Weapons.”
+
+Rhys eyed him. “And yet, you seem hesitant about it.”
+
+“What makes you say that?”
+
+“Your demeanor. That… and Straw. He’s basically a sponge for curse power. You felt guilty… or no, probably nervous is a better word, about this power you’d unlocked, and you created Straw to clean up after yourself.”
+
+Daran snorted. He looked at the power again, then lowered his head a tad. “You aren’t wrong. I began to experiment with it, and before I knew it, the entire region was full of curse-wielding dark mages who claimed to be my disciples and soldiers. The dark filth was there before I started, but I unlocked the way to use it for mages… at least for my generation, and our region. And then… and then they began to blame me for creating the darkness at all, and the Alliance was forged to destroy me, and here we are now.”
+
+“Ah, right. You ‘just happened’ to have dark mages spring up around you, by no fault of your own,” Rhys said mockingly.
+
+“I certainly wasn’t recruiting anyone,” Daran insisted indignantly.
+
+“Or turning anyone away.”
+
+“Why would I?”
+
+“No, no, you’re right. Anyone would become a Demon King under those circumstances,” Rhys said, grinning.
+
+“All because I tried to enforce a little law and order among those outlaws, suddenly, everyone’s calling me king and acting as if I was in charge from the beginning,” Daran complained.
+
+“Oh, is that what happened?”
+
+“It is.”
+
+“No… conquering on your part?”
+
+Daran harrumphed and crossed his arms. “Well, what was I supposed to do, sit back and let the states continue warring uselessly? Watch the mage schools waste their resources and their precious students’ lives in meaningless intra-region conflicts? I wasn’t conquering. I was consolidating resources.”
+
+Rhys raised his brows. He gave Daran a look. “It sounds a lot like you were conquering the realm to me.”
+
+“A plebian like yourself wouldn’t understand the intricacies of ruling a region.”
+
+Rhys shook his finger at Daran. “It’s when you say things like that, that I doubt that you were a well-intentioned person who just happened to get labeled a Demon King by the Alliance, and start to wonder if you were exactly the kind of warlord you claim you weren’t.”
+
+“I spent time in the company of philosophers—”
+
+“To your detriment.”
+
+“—what kind of warlord spends his time pondering his morality?”
+
+“You’d be surprised. It’s big in the J-novel sphere. And manga. And in Western novels, shockingly. Not really big in C-novels or K-novels, but nothing’s perfect.”
+
+Daran stared at him. Rhys stared back. Daran was the first to look away, with a heavy sigh. “You shouldn’t constantly remind me that you’re an otherworlder. Just because I can only talk to you now, doesn’t mean I’ll be like this forever.”
+
+“Is that a threat? Does someone not want to be revived?” Rhys asked, putting a hand over his mouth in mock-shock.
+
+“I won’t. But if you ever ran into a situation like this again, you ought to be more careful. Not every immaterial ex-Demon King is as nuanced, moral, and upstanding as myself.”
+
+Rhys nodded slowly, looking Daran dead in the eye. “The next time I encounter an immaterial Demon King and tell him I’m an otherworlder, I’ll keep that in mind.”
+
+Daran narrowed his eyes. “Are you mocking me?”
+
+“Almost constantly. It’s the only way I keep myself from stabbing you, really.”
+
+“Really?”
+
+“Stabbing is a bit of an exaggeration. Beating your ass until you stop being so annoying is definitely on the table, though.” Rhys thought for a second, then beamed. “Actually, I think we should make you material again. I think it could be very cathartic.”
+
+“I would accept a beating if it meant I could be material once more,” Daran accepted gracefully.
+
+Rhys twisted his lips. Somehow, that took all the fun out of it. He waved his hand. “If I bring you back, I’ll do it because I want to, not because I wanna beat your ass. So don’t think being annoying is a route to a body.”
+
+“I did consider it, briefly,” Daran allowed.
+
+“That’s little-sibling behavior, man. No one wants that.”
+
+Daran grumbled something under his breath, but Rhys had already tuned him out. He approached the dark gunk, the filth stuck to the bottom of the secret realm, tilting his head to get a better angle on it. It was pitch black, and completely dull, without so much as a hint of shine. Bits and pieces of gunk struck in it, things that were so overcome by the filth that he couldn’t tell what it had been to begin with. Rhys reached out, extending his hand to touch it.
+
+“I wouldn’t… well, you’ll probably be fine,” Daran said, his voice dying off to a mumble by the end.
+
+Rhys’s hand made contact with the goo. For a second, there was nothing. And then darkness overwhelmed him. Something toxic surged into him, so strong that nothing he’d absorbed before could compare. It moved through him with intention, as if it was trying to destroy him, deliberately breaking down everything it encountered and destroying anything it could reach. His vision returned in time for Rhys to watch his hand turn black, all the way to the wrist, and the black kept growing, climbing further up his arm. He tried his usual trick, but the black goo didn’t respond to his absorption attempts, or to any of his conversion attempts, either. He poured mana into the blackening cells, trying to rebuild them stronger, shore up their weaknesses, but the black wasn’t exploiting weaknesses. It simply charged through, destroying everything in its wake.
+
+There was nothing he could do. Rhys drew out his poison sword and lopped off his own arm at the mid-forearm. He waited a few seconds to make sure the black stain wasn’t still spreading, then put his blade away and flew down to retrieve his severed arm. It was lying on the barrier, and the black goo was still consuming it, devouring it all the way down to the point that it was no longer flesh and bone at all, but a lump of black goo and nothing. He lifted it carefully with his mana, only for the black to infect his mana and leap toward him. Rhys dropped it again and drew out a piece of trash from the trash star, then carefully scooped it up with the Trash Intent. The black goo thrashed, trying to infect the Trash Intent, but couldn’t.
+
+Rhys looked at the barrier. It was a bit dark where the goo had sat, but not infected. Likewise, the Trash Intent wasn’t immune, but it was tanking the blow way better than anything else had so far. Rhys tilted his head. Was this like the Empress, but backward? She’d been unable to deal with formless mana. This stuff seemed able to infect flesh and mana with ease, but struggled with constructs and intent.
+
+“Your arm,” Daran commented, with the tone of someone reminding a friend to complete a boring task.
+
+Rhys glanced down. His arm was still dripping blood, and he still lacked a hand. He pulled trash out of the trash star and mashed it into his severed stump, forcing the cells to regrow with the same technique he usually used to refine them. A new hand regrew, and he flexed it a few times, then turned back to the black lump that had been his old hand. It thrashed around on the Trash Intent, sending out tendrils and crawling around aimlessly as if possessed by a great anger.
+
+“Neat,” Rhys said.
+
+“Neat?” Daran asked, shocked.
+
+“Isn’t that what you thought when you saw it? I mean, I’m just messing around with it for fun. You found this stuff and decided to invent curse energy.”
+
+Daran crossed his arms self-righteously. “I saw a highly dangerous energy with the potential to be misused and decided to attempt to carefully corral it into something usable. You just touched the stuff.”
+
+“Did you not?”
+
+There was a pause. At last, Daran tossed his head. “In the name of experimentation and furthering the body of science, naturally, I… may have given it an experimental prod.”
+
+“So you did.”
+
+“I did it scientifically! In a safe and measured environment, with all due safety precautions and a team of experts standing by! You just touched it. With your filthy hands. Like a monkey.”
+
+“Wow, pulling out the hard m. Hey, man. Let’s not put slurs in chat, okay?”
+
+Daran frowned. “That’s not… is it?”
+
+“Contextually. Not always. Probably not for me.” Rhys turned back to the stuff. Summoning another piece of Trash Intent, he prodded it, moving it around. It was strange. Beyond strange. Kinda reminded him of a certain symbiotic kind of black goo that’d turn into someone’s suit, though his personal experiences told him that this was the kind of goo that would just straight-up eat him, instead.
+
+The goo grabbed at the second piece of Trash Intent, but couldn’t eat it, either. Rhys poked it around, turning it over, pushing it around the other way, and examining it closely. It reacted to stimuli, but if he didn’t stimulate it, it just thrashed randomly. It didn’t seem to have true intelligence, but just some kind of… well, it almost seemed to have intent. Mindless intent, intent without awareness, but intent nonetheless, as if it were an enormous manifestation of intent left behind to rot by some unfathomable being.
+
+Rhys frowned and glanced at Daran. “This is under our entire region?”
+
+Daran nodded. “It is.”
+
+“Huh.” If it was intent, what kind of being could manifest an intent that large? What was the purpose of the intent—the original intent, so to speak, that had rotted into… this?  Something so virulent and destructive that to touch it was to risk his life, even someone who specialized in virulent and destructive substances like Rhys? And… why? Why was there a huge block of rotten intent under their entire region?
+
+Rhys opened his mouth.
+
+“I don’t have any answers, so don’t ask. I don’t want to be accused of being evasive. I truly do not know,” Daran said, before Rhys could speak.
+
+Someone really wants a material body, Rhys thought. Since he’d been able to threaten Daran with not getting him a physical body, the man had been much more cooperative. He waved his hand. “That’s fair. Honestly, I wasn’t expecting you to have answers about this, one way or another. What I was going to ask, is if my resident void expert knows somewhere I can exit the void into a quiet, secluded part of the Alliance, where no one would think to look for me.”
+
+He had his exits, but they were all in the Empire, and in the worst case that the Alliance had threatened or tortured his friends…or the slightly less worse case that they’d asked some member of the fast food crew nicely, and the crew hadn’t known not to trust them, they knew all about them. Even if his exits weren’t compromised, they were still in the Empire, not the Alliance. He’d have to sneak across the border, and they’d be on the lookout for him coming from the direction of the Empire. One way or another, it was risky to use his exits. On the other hand, if Daran, self-proclaimed void expert, had an exit everyone had forgotten about, it would probably be within the Empire, and no one would expect Rhys from one of the Demon King’s old void exits, if they even knew where Daran had hidden them.
+
+Daran smiled. “I thought you’d never ask.”

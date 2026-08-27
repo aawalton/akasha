@@ -1,0 +1,159 @@
+---
+id: db2fc7b9-922f-5470-b002-eb1e68b6dddd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 738 - Seven days"
+slug: 0063-chapter-738-seven-days
+partOf: hell-difficulty-tutorial
+position: 63
+ownLength: 2724
+unit: words
+publishedAt: 2026-01-27
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2985948/chapter-738-seven-days"
+royalRoadId: "2985948"
+---
+
+An hour later, I enter the main room, doing my best to avoid any members of the Dusk Horizon tribe who might want to challenge me to a duel. Walking across the way, too strong, man-eating, skyscraper-like tree, I examine it as always, though not too intrusively. It might notice and try to eat me to fill its daily macros by using me as a protein source.
+
+I try to imagine how much stronger one of the reanimated beings on the fifth floor of Beyond is compared to this tree, but I just don't have enough data to do that.
+
+Reaching the room, I create a mana arm to open the door and step inside as the conversation dies down. Even Lily, who’d greeted me so excitedly, goes quiet.
+
+“Nat, why are you wearing a towel over your head?” Maya asks first, breaking the silence.
+
+I shrug, “Tess put it there to bully me, and because I have to keep holding Biscuit in my arms, I was unable to remove it.”
+
+“He is bullshitting, right?” I sense Maya turning to the others as she talks, “He could easily blow it off, teleport it, use the same mana arm he used to open the door to remove it, anything.”
+
+“I assure you, Maya, there was nothing I could have done,” I repeat.
+
+I hear Lily giggle next to me as she reaches out and pulls the towel down. The light blinds me for a moment before my eyes adjust.
+
+“Here, I saved you,” she says.
+
+“I appreciate that, you literally brought the light back into my life.”
+
+Tess shoots a spark of lightning that twists around me, clearly aimed at my butt, but I create a barrier to block it and quickly reinforce it. That lightning is surprisingly tenacious, which makes me look at her suspiciously. Did she get a new skill, through some combination or improvement or something?
+
+“Welcome back,” Min-Jae calls from my left, and when I look at him, he smiles and waves. Dozens of metal orbs are floating around him in chaotic but intentional patterns.
+
+“I’m back,” I nod and move to sit next to him before I feel a tug on my shirt as Lily pulls me onto the couch and takes a seat beside me.
+
+She puts her legs across mine and smiles, “I deserve this for saving you.”
+
+I look at her while lifting Biscuit carefully and holding him above her legs. She gives me a confused look, then notices Biscuit’s slightly open, tiny mouth and the drool dripping from it right onto her legs.
+
+She jerks back with a very impressive burst speed, which makes me once again worry about my raw physical stats. Once freed, I cross my legs on the couch and hold Biscuit back against my chest.
+
+“If anyone wakes Biscuit, I’ll tell him to expand to horse-sized and drool all over you,” I threaten to make sure no one raises their voice too much. Then I ask, “So what were you talking about?”
+
+“We were theorizing who the Rulers of the floors we visited might’ve been,” Izzy says softly. As always, she sits on the ground, her back resting against Noodle, who is coiled in a way that lets him rest his head on her legs.
+
+At this point, I give up trying to figure out how Izzy is growing so quickly. Is it puberty? Do normal kids grow this fast around thirteen or so? It’s not like she looks like an adult. She still looks like a twelve or thirteen year old girl. It just feels odd since I still remember her as the tiny baby koala I carried around at the start of the third floor. Maybe it’s a problem with my perception.
+
+“Well, my dear misinformed colleagues, I might have more information regarding that than any of you,” I say, and with that, I share all I know.
+
+Then they get into a heated discussion where they start theorizing about the floors we’re still missing, and I listen with one ear while talking to Min-Jae with the other. He excitedly shares his progress toward building his floating city. He also asks for some long-lasting mana projectiles, so while we sit there, I start making some, ensuring that they’re as durable and as stable as possible. I even try to make them as heavy as I can.
+
+If someone asked me how I make mana heavy, I would tell them to ask someone else and never tell me the answer. That’s how I roll, I just feel it. No need to talk about any sort of proto thaumic mass aggregation cycle schema or whatever.
+
+“How are the demons?” I ask him once he’s more or less done with his report.
+
+Min-Jae tilts his head. His hair is a bit shorter now, but he’s still taller than the twins, even though they are older. Probably almost a full head taller, and I am sure it still bothers those little twerps.
+
+“I do mostly what you told me. I just straight-up beat anyone who challenges me, but I don’t kill anyone. I lost a few times too,” he whispers, almost ashamed, “They beat me really hard, and Lily had to heal me, but they didn’t kill me. And with that, they only seemed to like me more.”
+
+“So you didn’t just give up?”
+
+“Of course not,” he answers strongly, “I even bit the finger off a guy when he got careless, smashing my head against the ground.”
+
+“Oh.”
+
+“Yeah,” he says proudly.
+
+I start thinking Min-Jae might be another lost cause, and I suppress the memories trying to surface of me doing similar things.
+
+“Anything else interesting happen while I was gone?” I ask.
+
+“I got rejected by Tess,” he says with a small smile, but he says it much quieter and forms a basic barrier to keep others from hearing. Though it’s not like we’d spy on each other, he’s just warning people to stay out of it.
+
+I blink a few times and dedicate more of my mental focus to replaying exactly what he just said.
+
+Still, I say, “What?”
+
+“Yeah,” he smiles at me again.
+
+The room becomes rowdy then, drowning out our conversation as Maya stands up and starts showing Dennis how to dance while Aaron quickly finds some fitting classical music to play on his phone.
+
+Using the distraction, Izzy escapes and slides between me and Min-Jae, speaking softly so as not wake Biscuit. Though the barriers I stacked around him would probably keep him asleep even if the huge tree we’re sitting on exploded. Maybe the barriers would even handle the explosion as well. Now that I think about it, I am not exactly the efficient type to make a barrier just for sound dampening, I just brute force it.
+
+“I made some new videos, want to see?” she asks while opening her laptop.
+
+“Do I want to?” I ask her, sending her an invitation to read my feelings.
+
+“No, you do not,” she laughs and presses play anyway.
+
+It is not all that different from her older videos. Same heavy bass music, and the main character is me again. But this one’s been edited much better while keeping the raw feeling of the previous ones. I close my eyes a few times to calm myself down and suppress the creeping dread. I only end up noticing that Izzy pauses the video every time I do that and keeps backing it up a few seconds to make sure I don’t miss anything.
+
+She talks about how she started using new software, how hard she worked to match the moments to the music better, and how she added new effects instead of repeating the same ones. Something about composition, lighting, and timing, and other things like that. She also shows me the promotional videos she made for the others.
+
+Maya, with her huge armaments facing off against monsters just as large, is framed in a way that highlights her sheer use of force. Min-Jae appears just as dominant, as building sized boulders break free of the ground while the screen shakes, only to rise into the air around him with what feels like unnatural ease.
+
+It’s torture, and Izzy definitely knows it, yet she keeps laughing and leaning against my shoulder while I sit there and listen, still curious about what Min-Jae just told me. But the longer it goes on, the more I start realizing it might be intentional from Izzy. Min-Jae’s expression slowly shifts into something more relaxed, that stiffness around him fading, and I start thinking that the little empath came here at this exact moment on purpose.
+
+When I reach that conclusion, she nods and smiles at me, and only then does she leave.
+
+So I do not ask Min-Jae anything about what he said earlier, and instead, we talk about combat. Instead, I mention the Champion’s techniques, and together we start examining them. At some point, the information about them spreads through the room, and more people join in, especially Maya, who’s taken on the role of a frontal attacker. Lily joins too, but she’s developed her own combat style and doesn’t seem all that invested in this one.
+
+For the next few days, I move from person to person. I train with Lily, and we examine how her [Disintegration] and its anti-healing interact with me, trying to come up with a way to modify her healing marks to avoid those issues.
+
+Well, she does all of that. Almost immediately, she curses herself for not thinking of it sooner, and a few minutes later decides that modifying her old marks is impossible. So she starts creating a new one specialized in removing anti-healing effects. She wants to combine her healing and [Disintegration] for that. Taking advantage of the two entirely different forces.
+
+If I asked Savant, I bet he would probably tell me it’s insane that she could even attempt to do it.
+
+A few days are also sacrificed to me, Maya, Sophie, and the twins working inside the Level 0 thought accelerated mental space being created by Sophie and improved by Maya’s [Compounding]. I mess around with [Manifestation], which is, in some distant way, a mental skill, and the twins support the whole endeavor using [Connection]. We improve as much as we break, only to discover more gaps in our structure as time goes on.
+
+Just like Tess said, we hunch over the table like primitives, all of us linked into the same small mental space. But honestly, the potential of this is insane enough to make me excited every time.
+
+I also feel the urge to go hunting for a bit, but after the conversation with the vice guild master, I changed my plans. Working with Lily, I’ve already gone over the changes I need to make before the body upgrade and leveling to three hundred fifty. I already talked to Ruby, and I think what I have planned will give me a lot. The system always mentions individual performance and considers many things, and the level 350 body upgrade, even though it’s mostly the same for everyone, has slight individual changes to spice things up. But that’s not even my main focus, though it will likely be really nice.
+
+Sure, I want to survive my constructs and the mana messing with my body, but I can aim far higher. I like to think of it, at least partially, like an Achievement. If the system sees the fucked up things I do during the body upgrade, if I complete my Absolute Candidate quest on my own, Ruby says my third trait at level 400 will be really something else, not even mentioning what it’s liable to do to my Primary class upgrade at 450.
+
+Plus, there is my main intention, to keep my body and constitution weaker so my more powerful active skills can make bigger changes to it, which will, in the end, make them stronger. Of course, it’ll be nowhere close to what [Immortality] did to Kindness, but I’m working with that in mind.
+
+So once again, I just need to channel my inner coward and be patient a little longer. Lily says it best: We’re built to live for hundreds of years now, so what’s wrong with planning things out for years instead of rushing to get everything done in a few weeks?
+
+It’s hard to look at things that way, it truly is, but I think part of me is still getting used to the idea that I am not simply human anymore.
+
+I spar with Izzy multiple times, noticing how her combat capabilities have improved. Her Fragment also proves itself to be especially dangerous. I can make my thermal energy hotter than what she and Noodle can do with their flames, but that’s only because of my output. If we spend the same amount of energy to create the flame, hers is more dangerous.
+
+That brings me back to wondering if it’s just that the Fragment of the Eternal Fire is that powerful, or if it’s that thermal energy isn’t simply a damage type. It is not like my golden flames are weak, so it is hard to say. Maybe there’s still a level above the golden flames I’m currently using, like I just haven’t compressed them enough because I’ve mostly been using them for healing.
+
+Another thing to experiment with.
+
+It’s also fun to watch Min-Jae and Maya spar. While Maya uses [Armament] from her Mana Archive, Min-Jae tears up chunks of earth and trees to form golem-like constructs around himself, then uses his [Telekinesis] to move them. I see it more like training and messing around rather than a real combat strategy he would rely on often.
+
+I’ve noticed this every now and then, but there aren’t really many attendees who use huge suits of armor or the like, not like us, or the lumorans for that matter, such as Champion Feroy and his disciples on the seventh floor.
+
+I think it is a part of us that’s been influenced by Earth’s media, and me, Tess, Maya, and Min-Jae have a really fun conversation about that. In a way, it is safe to assume that other planets might see the use of their abilities being heavily influenced by their own cultures. Just like we are with mechs, kaiju, and the like.
+
+On the last day of my week here, I get some new healing marks from Lily, including the newer ones that should remove any anti-healing effects I encounter. They carry bits of [Disintegration], so they feel a bit dangerous on my skin, but I just have to hope she knows what she’s doing.
+
+Surprisingly, she asks for one of my eyes for an experiment she’s been working on, something about traits. So I do that, and she carefully stores it inside a bottle filled with some sort of liquid. It is a bit creepy to see my gray eye with a faint golden circle around the pupil floating in there, but I’ve honestly seen worse things.
+
+We plan out our future schedules and plan our next meeting in the Megacity, as they should enter the fourth floor sometime after the Humility event I mean to participate in.
+
+And like this, the ninth floor remains the most ignored floor of all.
+
+A part of me wonders if people are expected to start seriously dealing with Beyond around the ninth floor, and if the one-year length was chosen on purpose to allow for that.
+
+Or maybe it is a trap for people who clear Hell difficulty more slowly, locking them in here for so long that they don’t have much time for the rest.
+
+The system is an asshole, and so are the Rulers, so I think it’s probably the second option.
+
+After the goodbyes, I use a Beyond stay token and disappear, finding myself back in the guild lounge of the Primordial Knights. I take a deep breath and look around.
+
+Something shifts near my feet, sudden and quiet, and my whole body snaps back before I can think. I just stare at the spot, caught in that sharp, stunned moment, “What the fuck!”
+
+There, I see a certain little vicious jerk who simply sits back on his butt and barks at me.
+
+(Food!)

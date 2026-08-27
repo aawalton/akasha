@@ -1,0 +1,135 @@
+---
+id: 5b8323f3-78ba-54e7-9efd-c7b861df0471
+page-type-slug: story-chapter-royal-road
+title: "Chapter 795 - Your guys’ fault"
+slug: 0121-chapter-795-your-guys-fault
+partOf: hell-difficulty-tutorial
+position: 121
+ownLength: 2074
+unit: words
+publishedAt: 2026-04-16
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3282957/chapter-795-your-guys-fault"
+royalRoadId: "3282957"
+---
+
+“As if I would.”
+
+“There’s no need to be so emotional, Lady Greed. I’m surprised to see you react this way. I wouldn’t have expected you to come here in your true form over such a minor inconvenience.”
+
+“You always were a bit dim, Elian.”
+
+“How rude.”
+
+The white orb hovering over her hand explodes. A rain of that same light pours down against the base, only to be stopped by that golden barrier. But this time, its surface ripples and wobbles.
+
+Then, a section of the star’s surface stops moving. Flares halt entirely and then begin to move like living beings, throwing themselves into the portal that appears between them. We’re still pretty far away, too, so for me to see it at all, the scale must be beyond comprehension.
+
+Beside Ruby, space itself splits open. A narrow rift tears through the void, and fire pours out of it in never ending waves. Orange and red flames spiral around her, growing higher, wilder. Her red hair lifts with the rising heat, spreading out to either side, striking against the endless black around her.
+
+An attack I cannot see hits the barrier, and cracks appear. A portion of the golden barrier starts to melt, beginning to drip down like liquid.
+
+“You think I won’t attack you seriously, Elian? Either fight me or fuck off.” Ruby’s voice bounces inside the chamber during all that.
+
+I attempt to move but feel my movements halted, along with the flow of my mana. All the while, Elian doesn't even turn my way, “Is he one of your silly weapon projects?” the Magi asks, maintaining his nonchalant behavior.
+
+“Something like that,” Ruby says. She flicks her hand as if brushing away a fly, yet the casual motion knocks aside an attack I cannot even see, let alone follow.
+
+In the next instant, a tiny hole appears in the star, as if something has punched straight through it. It’s a hole large enough for me to see even from this distance. It closes as quickly as it appeared, but the shock remains.
+
+There is no way I saw that correctly, right?
+
+"You seem to have leveled up your skill," Ruby snickers. "I would maybe consider it more impressive if you hadn't used your base to power that attack just now."
+
+"It’s something I’ve been wanting to test for a while now, and your presence just offered a great opportunity. Even so, I have to acknowledge I’m a bit disappointed by the results. Nonetheless, I’ll be working on some improvements." Elian takes a small step closer toward the glass of the dome. "I find it very curious that you would go this far. In the past, you haven't reacted this way. What is your goal with this..."
+
+He doesn't get to finish as the base shakes and a light blinds me entirely for a moment.
+
+When the light clears, Ruby is nowhere to be seen, and the view is reduced to little more than a wall of churning flames, and I realize we, the entire base, have been teleported closer to the star. The star we're currently falling into. The base groans, a deep metallic scream that vibrates through the floor and my bones.
+
+Elian doesn't even flinch. He’s already moving his hands, weaving those white inscriptions of his into the air. He moves swiftly, recreating a golden barrier through which a dense web of white inscriptions begins to spread. The barrier forms in great hexagonal segments, and the parts that connect them glow with a deep golden light.
+
+"To throw a tantrum of this scale requires a lack of efficiency I find highly exhausting." Elian sighs while looking at the star, not me.
+
+He presses his palm against the glass. The inscriptions flare, and the entire base jerks. It shudders again, harder this time. A hairline crack appears on the cupola glass.
+
+I can still feel my mana locked down, but the sheer kinetic energy of the base moving toward the star is overwhelming. We're accelerating, and the golden barrier is starting to char at multiple places.
+
+Then, for the first time in a while, I find that I can move.
+
+Ruby is still gone, but her voice sounds from everywhere at once. "This time I'll let it pass, Elian, and I won't destroy your precious toy. But there is a price you will have to pay for breaking the rules."
+
+"You’ve never cared for them before, Lady Greed," the Magi snorts. Under his will, the base gradually slows down until it stops moving. The fight I cannot hope to observe continues even now.
+
+“But that is incorrect. I’ve always liked the rules, especially when I can use them to my advantage.” Ruby laughs, and next to me, a portal appears.
+
+There’s something about the whole thing that makes me think Ruby has a reason for all of this, so I grab two fur pelts from the bench and step toward the center where the Fragment of The Eternal Fire burns. For a fleeting moment, I think I should try to take it. To endure it for a second and enter the portal where that crazy redheaded woman can take care of it.
+
+But I just know I would die. This flame is made of ten of them combined, and none of them is the tutorial's recreation. All of them are pure fragments, like mine.
+
+So instead, I grab one of the white wood logs.
+
+For the first time, Elian turns around. He looks my way, annoyed, but he is too busy defending his base. Before he can say anything, I shoot an [Empyrean lance] at him. He lets it happen, and the lance doesn't so much as send a ripple across his skin, it breaks against his face, dissolving into mana particles that rain down around him.
+
+The Magi looks at me with utter shock, but as quickly as it appeared, it disappears. "You have attacked me in hopes it would trigger the conflict clause of my vow and erase my knowledge of your trait."
+
+I don’t even wait for him to finish. I step through the portal, but his voice chases me from the other side. “Did you seriously think I would even consider something of that level an attack!?” His voice rises for a short moment. “Mister Gwyn, you have so much to learn. If you survive your tutorial, come and find me. I will share the Coordinates of a place you will be able to find me with your tiresome Handler.”
+
+The portal closes. Instead of the never ending space filled with stars and nebulae that Ruby likes so much, I find myself in a space no bigger than a closet. It is still lit by lights that look like stars, and everything else is black with no visible borders, but I know they’re there by the way they restrict my movements.
+
+I am currently being squeezed in here with Ruby, and the two of us are pressed against each other. Her face is so close I can pick up the fine details of her yellow eyes and her trait, as well as the faint hints of her freckles on her cheeks.
+
+“This is new. Did you have to move out because of the rent?” I say. I try to move, but instead, I only find myself pressing against her, as her forehead hits my nose.
+
+“So fucking funny,” she grumbles. “Elian did that while we were on our way out. It’s all that asshole is good for, being a goddamn nuisance.” She exhales, and I feel her warm breath brushing my cheek. Her shoulder nudges mine, and a strand of hair slips across my face. Suddenly, the space between us feels even smaller.
+
+“Well,” I mutter, “at least he’s consistent.”
+
+“I wonder,” she says after a second and looks up, directly into my eyes. “You’re so annoying that I don’t know why I don’t just burn you down to a concept.”
+
+I blink, caught off guard. “That… sounds extreme. Just a tiny bit.”
+
+Instead of a reaction, something pushes me, and I find myself falling, crashing against the floor in a familiar space. Next to me lie the two fur pelts and the white wood log. I quickly check their descriptions, disappointed to find they are considered materials only.
+
+“Why are they only at pristine rarity?” I ask Ruby, who’s already sitting back behind her wooden table, acting as if nothing happened.
+
+“Most attendees would cry with joy to even get their hands on something of pristine rarity during their tutorial.” She is leaning back in her chair. “But let’s not waste time. Go into the system shop and buy an item called a Tutorial Stay Token. I just unlocked it for you, so it should appear there.”
+
+Her voice is serious, so I access my shop to do so, but the price surprises me. “It costs half a million shards.”
+
+“Yes. You used a two-week Beyond Stay Token to get here, and nine days of it still remain. That’ll be too long. Buy it, return to the tenth floor as soon as possible, and try to complete that floor quest immediately. Don’t ask for more, this is truly the limit of what I can say. You owe me, again.”
+
+I look into her eyes for a few moments before I buy the token.
+
+“What is this all about?” I ask.
+
+From behind her table, she sighs. “As always, it’s all your guys’ fault. I thought there would be more time so you could do your Beyond quest, but your tenth floor is already a huge mess, and it’s going to get much worse. Thankfully, Elian was his typical self, so I was able to improvise and use it as an excuse to get you out.”
+
+“That’s not all, right? I know you better than that,” I say as I stand up and continue to look at her until a small smile appears on her lips.
+
+“It is in my nature to be greedy. I sent you to Elian because I expected him to do what he did. Now, I will use his actions to threaten him with Diligence and the resulting consequences of his actions. In exchange for my silence, I finally have the opportunity to pry a certain item from his collection that I’ve been wanting for a long time. Are you disappointed?”
+
+“As if,” I snort. I gesture at the pelts and logs. “Guard these for me for a while.”
+
+“I will.”
+
+“Oh, and by the way, Ruby?”
+
+“Yes?”
+
+“F-ant-astic job today.”
+
+“Screw off.”
+
+I return to the tenth floor a few moments later. The area I find myself in is empty, and nothing seems amiss other than the communication arrays in the sky, spreading as far as I can see. They also seem to have a detection component to them, though it appears to be aimed at something oddly specific.
+
+I fix the glasses on my nose and quickly move back toward the city. As I get to it, I can see it’s gotten even busier than it was before, but in a way that suggests people are fleeing. Flying ships and airships move constantly, heading in directions away from here. There are no defenses or restrictions against people entering, but the array is supercharged, constantly prepared to deflect an attack.
+
+As I move through the streets, the crowding becomes more noticeable. Large numbers of people are packing their belongings into carriers and arguing with officials. There are flying orbs that seem to be something like security drones that hover low over the streets, sweeping all over the place.
+
+Still, there are plenty of people who don’t seem to care, an amount that seems to account for just over half.
+
+Not wasting time, I hurry toward the tower where we’ve been staying. I reach our floor, where Maya lets me in. She looks surprised, but she lets me in without question.
+
+I don't even have to ask her anything before she hurriedly explains, "One of the Champions died the other day, not that far away from here, and the Absolute is going to be returning to this planet. By the way, what the hell is up with those glasses?"
+
+Before I can answer, Maya shakes her head as if it doesn't matter, her voice jumping a bit when she says, "Everyone says it was a goddamn Weredeer that killed the Champion."

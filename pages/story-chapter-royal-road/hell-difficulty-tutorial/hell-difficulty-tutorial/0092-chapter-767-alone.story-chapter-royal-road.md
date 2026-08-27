@@ -1,0 +1,171 @@
+---
+id: d4a92188-d30f-55a3-877b-67d3bb50cebb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 767 - Alone"
+slug: 0092-chapter-767-alone
+partOf: hell-difficulty-tutorial
+position: 92
+ownLength: 2591
+unit: words
+publishedAt: 2026-03-09
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3134823/chapter-767-alone"
+royalRoadId: "3134823"
+---
+
+When I return to the headquarters, the atmosphere is filled with an aura of pure panic and excitement. Demons are moving frantically in every direction, and alarms are ringing out as waves of primordial energy pulse through the area.
+
+Noticing me, one of the A rank demons rushes over to report something, but I ignore him and take a single step that carries me through the hallways. My senses sweep the area once again, and I shift my direction, entering the training hall where most of the guild has gathered.
+
+Just in time, I step to the side as a massive body flies past me and smashes into the far wall, visibly cracking it.
+
+Unbothered by the impact, Morwag slides to the floor and stands back up, shaking the dust off his frame. Binding energy surrounds him again, making his body much more durable. Yet, even then, there are deep wounds in his side, and all across his arms and legs. All of them bleed profusely, unable to be stopped even by his primordial energy, despite his status as one of the S ranks with the most durable bodies in beyond.
+
+I track his gaze to land on Nyssa, who’s standing on the other side of the training hall. She’s barefoot, dressed in her pale blue tank top, and white pants. Her jacket, socks, and shoes are neatly folded and placed on a nearby bench.
+
+“I have made my decision,” she declares with a calm expression. “Neither you nor anyone else can stop me. But if you try to force your will on me...”
+
+Nyssa takes a short step back and switches into a relaxed combat stance. Her heart beats steadily, and her black hair rises in sharp contrast to her albino skin and pale red eyes.
+
+That feeling of a dagger’s tip resting against your eye, ready to be pushed in, is back. Morwag faces it all, even as most of that pressure is being aimed specifically at him.
+
+“You think I care whether you live or die? That choice is yours alone. I simply find no merit in allowing your death to be so empty. Me? I can afford to die in vain. Anyone else standing here can die in whatever shameful way they wish. But you? I expect more from you.”
+
+“Morwag, since when do you have so little trust in me?” Nyssa asks with the same coldness as before.
+
+They stare each other down before Morwag is the first to step back, acknowledging her strength and her leadership in extension.
+
+“Do whatever you want,” he snorts before walking away, leaving a pool of blood behind him and trailing more of it with every step.
+
+The demons and other members look around, confused, unsure of what to do, and many of them glance at me as if I should have the answers. I simply gesture for them to leave, and they quickly clear out of the training hall, soon leaving me and Nyssa standing there alone.
+
+The Guild Master of the Primordial Knights sits on the bench and begins putting her jacket, socks, and shoes back on. When she finishes, she taps the space beside her, gesturing for me to sit.
+
+"Long time no see," I say as I take a seat.
+
+"That's true," she answers simply, without seeming that she will say more about that.
+
+I let the silence sit for a moment before asking, "I’ve always been curious. Why do you wear white and blue, and why did you make the rest of the guild do the same?"
+
+Nyssa smiles. "There are many reasons, but it is mostly so I don't forget. There’s still something I have to do, and only then will I be able to feel that I can stop wearing these colors."
+
+"Oh, so it was just a whim, and now the rest of the guild has to suffer?"
+
+"Suffering might be too strong a word," she looks up at me. "But yes. Because I am the strongest."
+
+Those words carry a hint of challenge in them, something similar to what I’m sure triggered Morwag into fighting her. For the first time, Nyssa talks to me that way, acknowledging me as someone she needs to prove her superiority over, though there isn't a speck of uncertainty in her voice about who would win.
+
+Without raising my mana or primordial energies, I look down at her. She’s every bit as petite as Lily, and I see the reflection of my evershifting trait in her pale red eyes. Thoughts flash through my mind. Plans, predictions, and combat arrays ready to be triggered. There is a lot I could throw around with all the mana at my disposal.
+
+"I will challenge you when I’m confident I will win," I say eventually.
+
+Nyssa nods and turns around, swinging her legs playfully. "You would lose right now," she answers simply.
+
+"No need to be rude. I think I have a 20 to 40 percent chance of winning, and damn, that's a better chance than I've had in many of my fights," I snort.
+
+Chuckling, she says, "MorMor got angry at me. He thinks I’m throwing my life away because of what I’m planning to do. It’s strange and unexpected… and a little bit cute coming from him."
+
+I look at her, thinking that Morwag might be many things, but "cute" wouldn't be one of them. After all, even now, he is called the most demon demon to ever exist by many people here in the Beyond. However, I don't argue and wait for Nyssa to continue talking instead, and eventually she does.
+
+"Seeing these rankings update and seeing the way that man cleared the 5th floor alone, I’ve changed my mind, Nathaniel. I’ll be going to the 5th floor, and I will be challenging a different champion than the one we’d planned. Alone. The one we planned for will be for you and the guild to handle by yourselves."
+
+She stands up. Her simple pale blue and white clothes are all painfully clean. She carries no weapons, and even her heart beats slowly and with confidence.
+
+Nyssa shows only a tiny bit of her kinetic energy while her Primordial Blood flows through her veins, killing her and making her stronger at the same time, unnoticeable to anyone. Her third primordial energy is something even I don't know yet.
+
+“After all, what worth has a weapon that’s never been truly tested? How can it be trusted, or expected to serve its function, if it has not proven its edge and endurance in battle?” She takes a deep breath. "Please pass that on to the Vice Guild Master and the others. I am leaving and won't be returning. After I clear the 5th floor, I will head to the 6th, where I will remain for the rest of my tutorial."
+
+"I’ll tell the others," I answer simply.
+
+That causes her to smile further, and before she leaves, she says one more sentence. "I hope to see you there."
+
+"Yes, I’ll see you there," I say.
+
+A notification appears when I am barely halfway toward where Ruby’s been staying when she’s here in the Megacity.
+
+You have been invited to meet with your master for 10 minutes. Will you accept?
+
+Yes/No
+
+With a sigh, I sit on a bench nearby, which causes a lynthari sitting there to stop eating. He looks at me and mutters with a full mouth, still chewing, "Hey?"
+
+"Do you also have those days where you feel like a lot is happening and you can't even find a bit of time to sort it all out in your mind? And yet more people keep popping up out of nowhere just for the purpose of ambushing you?"
+
+He finishes chewing and gulps before he says, "I have no fucking idea what you mean."
+
+"I guess you wouldn't. lynthari are highly extroverted anyway, so you guys wouldn't have those sorts of problems."
+
+His tail flickers as he takes another bite of what looks like a baguette with a lot of meat in the middle. "Aren't you the newest S rank from the Primordial Knights?" he asks somewhat carefully.
+
+A notification pops up again.
+
+You have been invited to meet with your master for 10 minutes. Will you accept?
+
+Yes/No
+
+"I guess I am," I answer. "It’s still a bit fresh, though most people already seem to know."
+
+"I was prepared to shut my mouth and just nod politely, but you seem more chill than I expected," the lynthari chuckles.
+
+"I’m the one who invaded your personal space. It would be a dick move to be an asshole without a good reason after that. Though, honestly, if it helped me, I’d probably throw you off a balcony. Don't say anything. Just imagine that throwing you off a balcony would actually hurt you."
+
+The lynthari nods, and I use my mark to teleport to my room in the guild headquarters. Teleportation in the compound is against guild rules, even for guild members, so some alarms begin to ring, but I just shut them off for my room before accepting the invitation.
+
+Then I find myself in that never-ending white space where you have no idea where the floor meets the walls, or the walls meet the ceiling. To my surprise, instead of Lissandra, I find myself facing Myrra, who is smiling brightly with her fangs showing. Meanwhile, my "master" stands somewhere behind her, further away, as if to avoid being a part of it for now.
+
+"Feral one!" Myrra takes a long step closer and then lowers herself so our eyes are at the same level. "How much did you miss me?"
+
+"No."
+
+Her ears twitch, and her tails sway... tails? I look down, and she notices.
+
+"I have two of them now. My body upgrade was kind of special," she answers playfully while already standing straight, walking around me in slow circles, and poking me at times.
+
+"Was it your doing that brought her here?" I ask, immediately blaming Lissandra, but the Absolute doesn't seem bothered at all. Myrra walks in front of me to block my view of the silver haired woman.
+
+"I’ve got only five minutes to play with you, so pay her no mind! I swear, feral one, there hasn't been a lynthari who’s suffered as much as I have on that boring floor with no one to talk to." She gently pokes my scar, stretching from my left cheek through my neck. "I have a similar one," she says, gesturing at the horizontal one going across her nose.
+
+"I’m happy to hear you are doing well and that the person over there kept her promise. I really am," I answer her, which causes the tall lynthari to take a step back.
+
+But it only takes a moment before she smiles and moves back into my personal space. "How cute, feral one. Should I start calling you 'the tamed one' again? By the way, we’re fellow disciples now, you know that, right? Our bond grows ever stronger. And what is that crystal in the back of your left hand? And your eyes? They’re prettier than ever! Now that I look at them, calling you 'tamed one' would be a mistake. They feel very focused and dangerous, as if you’re constantly prepared to bite me. Do you want to bite me, feral one? Do you want to pull on my tails?"
+
+"I want to throw you off a balcony while the Ruler of Kindness and a ridiculously adorable vyssari child help me to get you over the railing."
+
+"Is that some sort of cipher?"
+
+"No, I’m being honest."
+
+"How mysterious!" Her tails sway as she walks around, finger on her chin, as she continues to mumble theories about what my "cipher" might mean.
+
+Seeing her act so overly excited, I start to realize how much she’s actually enjoying this meeting. The lynthari are like cats addicted to new stimuli, whether it’s interesting events or observing interesting people. She’s clearly been suffering from a lack of both on the floor they’ve been staying on.
+
+I don't mind it that much when she moves around like a hyperactive child and keeps asking questions. In a way, I can’t help but be okay with it.
+
+As I said, I’m happy to see she’s doing somewhat well, though I’m sure she’s hiding a lot under that surface. There’s just no way things are really that simple. They never are. She just seems to have too many small wounds that seem to be healing slower than they should. Her Aurora Glass, constantly moving around her, is far too dangerous for there not to be a price attached to becoming that strong.
+
+I try to find out if she’s been declared an Absolute Candidate yet, but then I stop myself. This is Lissandra we are talking about. Of course, she hasn't.
+
+In quick succession, I tell Myrra as much as possible, watching with amusement as she devours every word to muse over later. I tell her about the floors, a brief summary of what happened, some of the interesting people I met, the Ancient Armory buried by a spiteful Ruler, Biscuit’s annoying friends on the 9th floor, how Group 4 is doing, updates on my minion, and some of my future plans.
+
+She also quickly tells me about her months on the 12th floor, though very little, as even here, much of it tends to be censored. She mostly spends the time complaining about Lissandra, who stands nearby, unbothered, as if she’s long since gotten used to it.
+
+After all that, Myrra grabs my hand. She holds her finger over the vein in my wrist, sending her senses through my body to ensure she notices if I lie. "So why such a hard gaze? Why do you feel so cold, feral one?" she asks.
+
+The thought that something so simple would be enough to catch me out almost makes me snicker, yet I don't do anything to stop her. I allow her to sense whatever she wants. Though when I think about it, it might just be her knowing I wouldn't bother trying to hide it from her.
+
+"It’s okay, Myrra. There’s just a person I need to kill to protect some people. Nothing more, nothing less. And if anyone stands in the way of me doing that…" I do not finish the thought.
+
+Her tail and ears freeze the moment I return her gaze. Her ears move back, pinning themselves flat against her head. She stays like this for a moment before her ears return to normal and her tail flickers swiftly. Her tongue sticks out as she licks her lips, her fangs showing entirely.
+
+"Ah... feral one..."
+
+She doesn't get to finish. Lissandra’s mana signature rises from the back, and Myrra swiftly straightens up and moves to the side. "...As if you couldn't turn around and give me a few minutes longer," Myrra mutters, sounding disappointed.
+
+Feeling as though I just escaped a grave danger, I focus on Lissandra.
+
+"Little pup, congratulations on attaining the title of Absolute Candidate. I do believe you must have put in a lot of effort, considering the state of your body, your upgrades, and your trait," she says formally, as if it is something expected of her to say.
+
+Just as formally, I answer, "Thank you."
+
+"We don't have much time, but before we talk, you’ll have to do something about your, honestly pathetic, Mana Cycling."
+
+Expecting nothing less, I just nod and prepare to listen.

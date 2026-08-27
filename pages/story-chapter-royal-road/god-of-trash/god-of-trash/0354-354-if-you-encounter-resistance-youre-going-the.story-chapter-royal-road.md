@@ -1,0 +1,67 @@
+---
+id: 3082a0b3-0763-5bec-8caf-9ebad624bfde
+page-type-slug: story-chapter-royal-road
+title: "354. If You Encounter Resistance, You’re Going The Right Way (to Die)"
+slug: 0354-354-if-you-encounter-resistance-youre-going-the
+partOf: god-of-trash
+position: 354
+ownLength: 2180
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3860447/354-if-you-encounter-resistance-youre-going-the"
+royalRoadId: "3860447"
+---
+
+Rhys and Ryota flew toward the capital. As they went along, Rhys stopped occasionally in the towns they passed. Now that he knew what to look for, it was surprisingly easy to find, and surprisingly, he found a lot of it. Every town was full of mortals who had scraps of fierce mana hidden in their undeveloped mana passages. Not every mortal had the fierce mana, but enough that Rhys couldn’t help but be shocked. And every single town had been ‘enlightened,’ or as Rhys was starting to think of it, contaminated. Someone had embarked on a very thorough effort to infect the mortals of the region with fierce mana. But why?
+
+Some kind of perverse hobby? An evil path that sucks the life out of mortals in exchange for power? Someone attempting our religion ahead of us? He snorted. If it was that last one, they could always hijack it, but he kind of doubted it. Actually, he kind of doubted any of his guesses. None of them really fit. If it was a perverse hobby, no one was around to watch it, so what was the point? And the… whatever it was gave the mortals power, not someone else.
+
+Sure, they could be lining them up for the rugpull later, like any good memecoin, but it didn’t feel like it. He hadn’t sensed any obvious links or dangling threads for anyone else to pull. It didn’t mean they weren’t there, but if they were, they were so powerful he couldn’t sense them, and if they were that powerful, what was the point of farming mortals? Even a million mortals wouldn’t add up to a drop in a Tier 6 bucket.
+
+And yet, the mana had hidden from him, and so had the book. Whoever had left this… this regimen, this scripture behind had even gone so far as to ensure the mana self-destructed if anyone trapped it to get a good look at it, or even examined the mortal’s body with mana. Any direct insertion of mana, and the fierce mana persona’d itself. That wasn’t normal behavior. Nor was it the behavior instilled by a mage who was just earnestly trying to help the mortal population. And all that was with him overlooking the person who’d blown up their ship for looking into it. There was something less than savory going on, but what?
+
+He was obviously missing something, but he didn’t know what it was. That was why he and Ryota were on their way to the capital, him with a very special secret person tucked away in stasis in his core.
+
+They flew on, with Ryota leading the way. The whole time, Rhys kept his senses extended. The last thing he wanted was another surprise from the white-masked men. One explosion had been enough, thanks, and he wasn’t really trying to catch ‘em all. He was a one-monster kind of guy right now. A press-fireball-at-level-99-to-beat-the-last-four kind of guy.
+
+As they flew, they were attacked a few times, once by monsters, and twice by random ragged mages who seemed to be hanging around to jump anyone who passed by. The monsters were quickly dealt with, and the ragged mages all retreated when they got close enough to accurately clock Rhys’s aura. Rhys chased them down and mopped them up anyways on the basis that they were trash and therefore fair game, and secondarily, that they were a public health hazard and he was doing the world a favor. They were only Tier 4 at best, so the attacks were less battles and more one-sided domination.
+
+Ryota stood by, lazily sitting back in the air and perusing some sort of novel while Rhys fought. Rhys never got a good look at it, but he had the strange feeling that Az would approve. A part of him that remembered his sensei-roleplay earlier was full of the urge to kick Ryota’s ass into gear and toss him into battle, but the part of him that screamed that he didn’t know what the fierce-mana people were planning and that it would be foolish to kick Mr. Fierce Mana Key into battle right in the middle of trying to figure out their plot. What if he set it off suddenly? What if Ryota was the big red button to their nuclear program, and forcing him to fight made the whole region go boom?
+
+That would be kind of funny, Rhys reflected, smirking a bit. A second later, he dropped the smirk. But my villain era’s over frfr, so maybe we don’t maybe-accidentally-nuke an entire region worth of unsuspecting mortals? Ryota was probably significantly less volatile than that, but the fact that he was involved in their plot made Rhys less willing to push him. If it was something as simple as Ryota going berserk turned him into a giant beacon, then Rhys still wanted to avoid that.
+
+And now that I’m thinking about it, that’s almost certainly the case. Fifteenth had found Ryota in the forest after Rhys had let Ryota run wild for a while. At the time, he’d thought nothing of it. Now? Now he was thinking a lot about it. He didn’t know anything, but he sure suspected a hell of a lot. He could be wrong, but better safe than sorry when ship-exploding bomber-suiciders (since he’d bombed, and then attempted the self-killing afterward) were out to get them. In all likelihood, the enemy could track Ryota regardless and knew their location at every moment, but in case they were less skilled than the average telecommunications company, Rhys didn’t want to broadcast their location for all to see.
+
+Ryota’s interest in fighting seemed to have waned as well. It had never particularly waxed, but it was certainly waning after his visit to Aran’s place. Not for the same reason, but Rhys agreed that they probably shouldn’t push him, so he didn’t mind going along with it.
+
+Considering everything, he decided to let Ryota rot and fight on his own. He didn’t mind sucking up some bonus trash along the way in the form of these random attackers, either, so it really was a win-win situation.
+
+Aside from a little trash cleanup and the occasional pause for Rhys to confirm that the local mortals were still infected with the fierce mana, they traveled without interruption. No more masked men appeared, nor did any other sudden and unexpected calamities struck them.
+
+It was nice, but honestly? It worried Rhys a little. If whoever was sending the masked men was trying to manipulate them, then they’d either already fallen into their trap and the other side didn’t need to intervene any further, or they were so far off the mark that the other side didn’t need to obstruct them, because they were busy doing their own thing. He was a little fine with falling into a trap, so long as it wasn’t a misdirection trap, but if they were so far off base that the other side wasn’t bothering anymore, then they were truly fucked. And if it was a misdirection trap, then he definitely wanted out of that trap and back on track.
+
+He just didn’t know. He didn’t know, and he didn’t like it. He was strong enough to be worth trapping and misdirecting, and it was bothering him. Things were way easier when he was a nobody that everyone ignored.
+
+And then you started hanging out with princes, idiot, a little voice snarked from the back of his head. Rhys snorted, amused, but dismissed it. The problem wasn’t hanging out with princes, it was being Tier 5. Even if he’d been wandering around quietly, the second he started poking at something, everyone would be on high alert because he was a Tier 5. He could stifle his power level, but that only worked so long as he wasn’t fighting someone seriously. The second the opponent sent someone strong after him, he’d be revealed.
+
+I’m starting to truly see the light of Mouse’s technique. Not only for sneaking around, but for all kinds of interventions and actions. Getting overlooked at lower levels was a real shrug; everyone was overlooked when they were weak. Sure, it was always nice to nothing-personal-kid someone, and stealth builds always had a role in combat, but it wasn’t the obviously-overpowered route of a Sword Saint or anything like that. Getting overlooked at Tier 4, 5, or higher was the kind of mind-blowingly overpowered technique that would definitely get patched out of the game eventually, so use it while you can vibes.
+
+Not to say that he undervalued Mouse’s technique, or had ever underestimated it. For on-level foes, her technique was absolutely terrifying, and he prayed to never end up on the wrong side of it again. It was just now, as a stronger, higher-Tier mage, looking back on it, he had to agree with the past him that Mouse was terrifying, just not for the same reasons he’d thought so when he was weaker.
+
+I’ll have to see if she’s willing to teach me even a smidgeon of that technique. It was rude to ask someone else to teach you their path. Their path was their own, and they’d walked it for years. As a fellow, fully grown mage, it was insulting on two levels. One, it implied that a path was so simple that it was possible to ask someone about it and learn it within a short timespan. Two, a path was composed of hundreds, if not thousands, of secrets. Someone like Rhys, who forged his own path, was free to share those secrets if he liked, but it was still just as rude as asking someone to share their secrets point-blank with no leadup or reason you needed to know them.
+
+Someone like Mouse, who learned her path from someone else, likely had restrictions either in the form of magical shackles or simply in terms of obligation and respect toward the path’s originator that prevented her from freely sharing the secrets of her path with outsiders. After all, to use Bast as an example, the Sword Saint chose one apprentice to be the next Sword Saint; he didn’t want everyone in the region to know how to use his secret techniques and ultimate moves, or else he’d be at such a massive disadvantage against everyone else with secret techniques that he might even lose the title. It was the same with all paths, whether, as in sword fighting, it was obvious, or in Mouse’s case, it was less obvious.
+
+After all, sharing a path, or even a technique, could have deep repercussions. He certainly hoped Aran didn’t mention that he knew the water sprites’ secret transformation technique to the water sprite queen, because it would deeply disadvantage Lira. Honestly, he felt a little bad about using it in front of Aran and regretted his actions. He just hadn’t thought about it in the moment—that it was a secret he wasn’t supposed to know, and that using it would reveal that to the very water sprites who’d be troubled by him knowing their secret technique.
+
+But that was exactly it: someone meaning no harm, who knew a technique they weren’t supposed to know, could still do great harm to their teacher simply by using the technique in front of the wrong people. In Aran’s case, it was probably fine. He liked Lira, and it wasn’t the water sprites’ ultimate secret move or anything; Rhys had thought it very likely that Aran would simply let it go at the time. But if someone could put together that he had a technique he shouldn’t have, and if they’d only given it to very few people, it could be very easy for them to deduce who’d messed up. The responsibility of using a technique that didn’t belong to him was massive, and honestly, Rhys wasn’t ready for that kind of responsibility—very obviously, because he’d already fucked up with Lira’s transformation technique.
+
+I’ll have to be careful about how I ask. Specify that I’m just looking for one technique, and that I’m totally fine with her not teaching me anything if it’s secret at all. He sighed. Or maybe I don’t ask at all, and just try to develop some trash version of it. It seems possible. Roadside litter can be overlooked; it can blend into the background and just become part of the setting. I’m just being lazy because I haven’t invested the time into trying it, and I’d rather take the shortcut, but I shouldn’t. Be lazy, that is. Shortcuts are a-ok.
+
+“We’re almost there,” Ryota said suddenly.
+
+Rhys looked up, breaking out of his thoughts, and scanned the horizon. There wasn’t a mage city, not as far as he could see. It was doubly strange because mage cities were usually grand things, not hidden away, and this was the capital; they should be showing off, not hiding. He frowned. “Are you sure? Wait… is it underground?”
+
+Ryota smiled. He pointed up.
+
+Rhys followed his finger up, up, up, until he finally gaped. “No way.”

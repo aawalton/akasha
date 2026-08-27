@@ -1,0 +1,199 @@
+---
+id: be6b5514-3823-51d7-866c-a728b085f7b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43"
+slug: 0043-chapter-43
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 43
+ownLength: 3317
+unit: words
+publishedAt: 2026-02-02
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3006602/chapter-43"
+royalRoadId: "3006602"
+---
+
+Chapter 43
+
+Slowly, Veron remade his armor, at the same time expanding his sleeping spot, adding a ladder to his boulder, and making a small pillow. Now that he had a source of water, fish, and occasionally berries and fruit, he slowly settled into his lifestyle in the wilderness.
+
+Veron was already longing to venture out and explore, but he decided to first finish his armor, his shield, and a few small stone boxes that he could attach to his waist. Every hour or so, he would plan out what he would do, and then he would use around half of his Focus. In between, he thought about the future, listened to the birds and critters, and tried to spot them from his elevated rock. It was a quiet day, and with his magic, knowledge, and the setup he had built, it felt pretty easy to pass the time.
+
+His ghetto pillow worked, kind of. And coupled with the stone cover, he slept a lot deeper, and a lot longer.
+
+He felt no particular rush now, and taking care of his needs didn't take a whole lot of time. As the days passed, Veron started working out again, moving through the drills that both Hayden and Ivera had shown him. It felt good, and as he added piece after piece to his armor, the weight started to feel comfortable again. By now, he was pretty sure as well that his training carried over too, the muscle he had built, and his endurance, and not just what his Path offered.
+
+What did Envolon say? My body, essence, and path are one? But I didn’t come back without a head…
+
+He discarded the thought for now and used his remaining fur to pad out any sections of his armor that felt uncomfortable, and he dried long grasses that grew along the riverbank to help secure some parts of it. They wouldn't last near as long as leather straps, but he didn't need them to.
+
+He didn't encounter any chaos beasts nor did anything else come to bother him. When he had his armor done, Veron made a stone mace and tested how well it held up. He struck trees and rock, some small bits flinging off his weapon, but it didn't break. He remade the six knives that he sheathed within his armor, and he made a few of the larger blade projectiles.
+
+Veron had an idea about food storage too but with his gear ready, he decided to venture out instead. Not yet towards Eyra, but south and westwards instead. He wanted to get used to his armor again, and he wanted to build some confidence, after everything that had happened. Maybe he could rid the world of one or the other chaos beast in the process.
+
+He felt lonely at this point, but not enough yet to push him towards people. Veron had enjoyed the calm days after the initial set up out here, and he had needed them, but slowly, he was simply getting bored. He had plenty of ideas for his boulder base, but he knew that investing more time and energy into it was just an easy way to avoid going out there.
+
+He wanted to use his magic more, and he wanted to get better at it. That and his want to explore this world had been his initial motivations to become an adventurer after all. The possibility of him being in a time loop didn't really change that. If anything, it empowered him. Improving his Path and his magic would further everything else. More personal power meant that he could slay stronger beasts, make more gold, and have his word carry more weight.
+
+And to get that, he needed both practical experience, and essence.
+
+He chose the direction, crossed the river, and walked into the forest.
+
+When Veron returned in the late afternoon, he had encountered and killed exactly zero creatures, though granted, he didn't leave the forest for the more mountainous terrain west of the river. Even Ivera seemed to avoid the higher elevations, and while he tentatively planned to take a few more risks, he didn't want to get killed immediately.
+
+The next day went in a similar vein, though he did find more berries and some herbs that should help with infections, spending his Focus in the evening to build some storage in his slowly expanding bedroom. Storage for fruit and herbs, within the very rock, somewhat cool and insulated.
+
+Veron started to understand why the dungeon was so sought after. An abundance of creatures that returned after they were killed. Sure, there were plenty of creatures out here too, but Ivera had spent hours tracking down single chaos or blood path beasts while he was just stumbling through the forest, hoping to run into something.
+
+The only creatures that he wouldn’t scare off were chaos beasts, but it seemed they weren't quite as abundant as he had thought.
+
+Probably a good thing too. Reymond and the Silver Wolves did talk about there being more chaos beasts than usual, though that was in autumn. Same with the dungeon branch that had likely formed In the area.
+
+I could probably find trouble if I went out at night, but that just seems ill advised, even if I had a light source and a GPS.
+
+He thought about the bird that he had killed, and wondered how effective bait would be. He could probably catch and kill something, but with his lacking knowledge, it felt like a wildcard.
+
+If he wanted to hunt, to improve his magic and his Path, he wanted to know what he was doing. At best, he would be tracking down the beasts he was looking for, not walk randomly into the forest in the hopes of encountering something, or set bait and lure something here that would kill him.
+
+Veron sat there on his rock and wondered what exactly he was doing, when he knew there were people he could ask for help less than a day's walk away from here. He had his armor now, his gear. He could tell them that he had lost his team, that he had wandered the wilderness for a while, and that he now was looking for work, and for a more comfortable bed. It even was the truth. At least a part of it.
+
+He didn't feel ready, but he didn't feel terrified anymore either. The time and space had helped, as had the work he had done. Veron felt like he had digested most of what had happened. And by now, he was just bumbling around.
+
+I guess I'm still scared after all. But I think it's time to face reality.
+
+There was also the option of going southwards, and towards Lyrie, but that just felt like yet another way to run away. No, his next stop was the village of Eyra.
+
+The sky was clear and Veron had eaten his breakfast of fruit and fish. He wore his armor and carried both his shield and mace. Before he left, he thanked the pillow he had made and hid his sleeping spot below its cover. He looked at the boulder and the section of river he had called his home, or maybe just his temporary base, for a bit more than a week here in Renavor.
+
+He breathed in deep and closed his eyes. The winds called him north. He assumed it was just a coincidence but he still liked that the element seemed to have his back. “All right. Let's play the disheveled adventurer that has been lost in nature for a while.”
+
+He almost smiled, and started walking.
+
+The sky was mostly clear, the early morning sun illuminating the western mountains of the valley. Veron followed the riverbank, knowing that he would eventually reach the dirt road that led through Eyra. Crickets and birds accompanied him as he made his way through the underbrush, pushing past weeds and bushes with his stone armor, eyes and ears open for any potential predators. Veron hoped he wouldn't run into Ivera before reaching the village.
+
+A few hours later, he came across the road. He stopped and looked around. It felt surreal. To be so close to Eyra, after everything. If not for Envolon and the magic that had taken him back, he would simply no longer be around. Another adventurer that died on an expedition. And that would’ve been that.
+
+I didn't even have an impressive last stand or anything like that.
+
+Did Silea Mera die in Perrion? Or did she slowly slaughter her way through those masses?
+
+He had no idea what someone at her level was truly capable of. Could she survive once she ran out of Focus or endurance? Did she have Relics that helped with that? Or potions?
+
+He breathed in deep, realizing that he had stopped walking and was distracting himself.
+
+Veron slightly spun the mace in his hand, and then he continued onwards.
+
+Now remember, you don't know anyone here. If they do know you, great, also, that would open up a lot of questions. If they don't know me, I am who I am. Let’s not lie, but definitely omit a few things.
+
+Not long after, Veron stepped out from a small piece of forest and could see the farmhouse of the Holts on its hill. The path led past it, and towards the inn. Both buildings looked exactly like he remembered them. No damage, no monsters, no curse.
+
+He felt tense as he passed the hill, glancing over to see the white flowers growing all around it. And then he was past, and on his way to the larger building. He saw Warren’s garden, and before he knew it, Veron stood in front of the open door to the Downwater Inn.
+
+He closed his eyes for a brief moment and breathed in deep, then he stepped inside. It was cool thanks to the enchantments that Warren had installed. There were no guests in the common room and nobody stood behind the counter.
+
+“Hello? Anyone there?” Veron called out.
+
+“In the back! I'll be right with you.” It was Warren's voice.
+
+Veron stayed near the entrance and watched as Warren emerged from the kitchens, the man glancing over and then coming out from behind the counter. He wore his apron, his gray hair bound In a knot behind his head. “Welcome to Eyra. You’re an adventurer, I assume?”
+
+Veron blinked at the question. There was no recognition in Warren's eyes. He took off his helmet and Warren simply watched, slightly guarded and expectant, as if he was looking at a stranger.
+
+“Yeah. I... I've been out in the wilderness for a while.” Veron could hear a ringing in his ears.
+
+“Are you okay? You’re not injured, are you?”
+
+Veron was stunned for a moment, then managed to compose himself.
+
+He really doesn't remember me.
+
+“No. No, I'm fine. Just haven't talked to anyone in a while. Do you mind if I sit down?”
+
+“That is sort of the point of this establishment. Let me get you something to drink, first one is on the house. Ale good?”
+
+Veron nodded slightly and sat down at the nearest table. He closed his eyes and breathed. He doesn’t remember me either. Does that mean my assumptions were right? Is this proof? Maybe it’s just Eyra. Maybe there’s some other explanation that I haven’t thought of.
+
+A mug hitting the table got him out of his thoughts.
+
+“Thanks,” he said and collected himself. “Sorry about that. I’m Veron, and yes, I’m an adventurer. I was living in the wild for a little while. You're the first person I've talked to in a while.” He paused. “This is, a nice place.”
+
+Wow, I’m awkward, he thought and smiled to himself.
+
+“It definitely is. I'm Warren, the local innkeep and brewer.”
+
+“Good to meet you, Warren.”
+
+“So, you were living in the wild then? How's that been working out?”
+
+He doesn’t know me, but he’s still the same man.
+
+“I've got an Earth Harmony. That makes things a lot easier out there, though I wouldn't mind some soap.”
+
+“I didn't want to mention it,” Warren said and smiled. “Do you plan on passing through or are you looking for a room? Or maybe just a bath?”
+
+“I'm not sure actually. It's been, a rough couple of... months. I don't have any coin, that's one of the reasons I came here for.” He was making shit up as he went, kind of. “You don't potentially have some not too dangerous work for an Earth Path?”
+
+Warren listened and Veron didn't miss his calculating glare. Of course he knew already that Warren had quite a few things for someone like him to do. “That depends. What Path Level are we talking about, and what kind of pay are you expecting?”
+
+“My rank is low Iron. And as for payment, maybe we can start with soap? And some fresh clothes?”
+
+“Low Iron. I see. I think we could work something out. For more than just soap and clothing as well. Before we continue this talk, can you tell me why you were out there in the first place? We are far from Leiveen, but if someone strolls through and figures out I harbored a wanted man, it could spell trouble for me too, and I'd like to avoid that.”
+
+“That is fair. I'm not a wanted man, at least not to my knowledge. Why I was out there is a bit more difficult to answer.”
+
+How much should I share?
+
+A part of him wanted to tell the man everything, but he knew that was a bad idea. He was a stranger, as much as that didn’t make sense in his head. He went with the truth. A part of it.
+
+“I needed some time to think, to put things back together. Some time ago, my team and I-” Veron slowly closed his mouth, the ringing in his ears increasing. “A lot happened. I was alone after that, and I needed time, to grieve and process.” He paused for a moment. “I suppose I’m not done with that exactly.”
+
+Warren watched him.
+
+“I'm sorry for whatever happened.”
+
+Veron gave him a slight nod. “Thanks. I… this place seemed peaceful, and if I want to go back to Anvakar at some point, I need money. That’s it really.”
+
+He realized that really was the extent of his current plan. The main thing of course was to confirm that Warren had forgotten about him too. He had confirmed that now. And it felt exhausting.
+
+“Yeah. You’ve been in a rough spot it looks like. Well, maybe we can help each other out. You've got yourself a deal, Veron. For now. I'll figure out what you could help me with.” He paused, and then nodded slightly. “Do you have any experience with fixing roofs?”
+
+Veron got a change of clothes and shoes more suitable for standing on a roof. Warren briefly introduced him to Tenya but other than a curious glance and a guarded greeting, she didn’t offer much. Though he confirmed that she too, didn’t seem to know him in the slightest.
+
+Veron went on the roof alone, secured the long rope he had gotten both around the chimney and himself, and got to work. It felt a lot easier this time around, with his increased strength and endurance, both from all the training and fighting he'd done, and from his Path. His experience with and the higher level of his Earth Harmony made the job a lot easier too.
+
+He was pretty sure he could get a pretty cozy thing going for himself with house repairs at this point. He remembered Tenya had suggested something along those lines when they had repaired the roof the first time around.
+
+Neither of them knew me. No sign of a curse or really anything else exciting going on.
+
+And these are the same cracks and broken tiles that I’m fixing.
+
+He tried to remember when the first news from Felrak had arrived, about their King having died or been assassinated, and tensions with Sor increasing. He supposed that would truly confirm that time magic was involved. But maybe he was still just in denial. Working on the roof at least felt nice. It wasn't a massive problem to fix in the grand scheme of things but it was something he could do, and at least for a while, the Downwater Inn wouldn't have to deal with leaks and drafts related to its roof.
+
+Veron finished the job faster than he had expected. The sky was mostly clear and the sunlight felt comfortable, and while he did like his stone armor, it felt nice to walk around in linen clothes. Maybe it was just the fact that here, at least right now, he didn't need to worry about armor.
+
+“I'm done with the roof!” he called down to a surprised Tenya.
+
+She joined him up there and checked for a while, then nodded to herself. “Good work.” It was all she said before she descended the ladder again, but she did give him a longer look this time around.
+
+Warren showed him a few more spots around the inn that needed repairs and then invited him for dinner.
+
+“Good work today, Veron. Adventurers usually don't care much for this kind of work, and there are hardly any craftspeople coming through this village. You can keep the clothes, if you like, and I can pay you six silver for the work you did today. Though I do have an alternative suggestion as well, if you'd like to hear it.”
+
+Veron drank from the ale, and he ate from what seemed to be deer stew. He was glad they hadn't grilled the meat beforehand. He gestured for Warren to continue talking.
+
+“Well, we could talk about doing more small jobs like today, but I'm more interested in some of the things you could get for me in the wilderness. Nothing too dangerous, nothing too far away. Would you be willing to go out there?”
+
+“That depends on what you're looking for,” Veron said.
+
+“Great. Do you have any experience with herbalism?”
+
+Veron smiled ever so slightly. “Just some basics, but it's always good to learn more. What did you have in mind?”
+
+Warren almost grinned. “Instead of your pay for today, you get a room for a few days, breakfast and dinner Included. I'll take an hour or two in the mornings to show you some of the plants and flowers that I'm looking for, and I'll give you a fair price for anything you find and bring back to me. It's not a stable income, but if you do as well a job as you did on the roof today, I'm sure you'll have a good sum of money together in no time. How does that sound?”
+
+Veron found it funny. Collecting herbs again. Yeah. That’s a start.
+
+“It sounds like we have a deal, Warren.”
+
+Veron finished his dinner and retired to the small room that Warren offered him. It was simple and clean. The bed had two comfortable pillows and an actual mattress. He almost cried when he lay down in it.
+
+The sun had set by now and Veron opened the small window to let in some fresh air. It felt strange to be back here, and it hurt to talk to Warren and to Tenya, without them knowing who he was, but all in all, he felt surprisingly okay. Besides the whole time magic business and knowing all the shit that would happen, things were going well. He had a way to make some money, to learn more about herbalism, and a safe place to sleep in. It felt good enough for now. And everything else, he could worry about tomorrow.

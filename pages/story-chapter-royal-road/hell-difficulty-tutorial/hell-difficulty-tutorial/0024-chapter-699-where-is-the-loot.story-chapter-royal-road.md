@@ -1,0 +1,157 @@
+---
+id: 37de1777-9eca-5b35-b2a6-dccbacfa0399
+page-type-slug: story-chapter-royal-road
+title: "Chapter 699 - Where is the loot?"
+slug: 0024-chapter-699-where-is-the-loot
+partOf: hell-difficulty-tutorial
+position: 24
+ownLength: 2472
+unit: words
+publishedAt: 2025-11-26
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2796180/chapter-699-where-is-the-loot"
+royalRoadId: "2796180"
+---
+
+Victoria’s duplicate suddenly stops, coughs up a green liquid, then collapses to her knees, literally falling apart a second later. The head rolls across the floor, the arms tear off the torso, and the legs fall apart as the body crumbles.
+
+Real Victoria shows no reaction. “Some sort of aerosol. It hit me in the face, but I do not know what activated it. It mutated extremely quickly, first breaking down my organs before going after muscles and ligaments.”
+
+“Morwag would’ve survived it,” one of the demons behind mutters, several others nodding eagerly as they slide into the conversation, trying to guess whether they would be able to endure.
+
+I am fairly confident they wouldn’t have. Vic has one of the most durable bodies out of anyone here.
+
+“I noticed it activating. Just give me a minute, and I’ll work out a way around it,” Christoph says simply, still staring in the direction where it happened.
+
+“Do you want me to send in another duplicate?”
+
+“Thank you, Victoria, but there’s no need.”
+
+Hearing that, Vic stops by my side. She glances at the temporary mana halo I’ve formed to help me accumulate energy more easily and asks, “Are you preparing?”
+
+“Obviously. It never hurts to have a bit more mana, Vic. Actually, I think you should invest in the mana stat a bit more. It is not healthy how low your mana levels are. How are you even capable of creating that many duplicates?”
+
+“I had a few members of my party run calculations for me. Based on what we know, we estimated the minimum amount of mana I need for my skill so I can invest the rest of my stat points into making my body as strong and durable as possible.”
+
+“Vic, your party sounds like a bunch of nerds.”
+
+“It worked out to be the most efficient solution for me, Natty,” she smiles just a little. “How’ve you been doing? I thought I would’ve met you on the 4th floor earlier, given your capabilities.”
+
+“A lot happened. And you know me, I always thought it was cooler for the hero to hold back his strength, only to suddenly leap ahead of everyone.”
+
+“That indeed sounds like you. Sometimes. You’re with the Primordial Knights?”
+
+“I was kidnapped and forced to join. It worked out in the end, and I don’t mind. Please don’t kill anyone.”
+
+“I will not.”
+
+“Thanks. What guild were you going to join?”
+
+“I am considering Frontier or Bloodline, but I am waiting for a better offer.”
+
+“Aren’t they really strict with their members in Bloodline? I heard they only take in people with powerful traits?”
+
+“Natty, are you saying your sister has weak traits?”
+
+“Vic, I would rather lose ten points of mana than ever say that.”
+
+“Good. When we have more privacy, I will tell you other things, including the details regarding my traits. For now, I guess we should go.” She gestures at Christoph, who creates an orb over the palm of his hand.
+
+Breathing into it, the orb turns into tiny particles that fly ahead, clinging to the edges of the hallways. When these particles hit a set of specific points, they move erratically and begin to duplicate, they appear to deal with traps before settling down.
+
+I don’t know if it’s the best trigger she could have chosen, but after that, Victoria twists, rips off one of her fingers, and throws it to the ground. From it, her duplicate reforms.
+
+Would she still be able to do that if her constitution were higher than her strength? Probably yes, knowing her. I also know she doesn’t care all that much, but why won't she come up with something cooler? Couldn't she grow a duplicate from a drop of blood, or maybe a single hair? She’s probably tested it, so does that mean the finger is more efficient, since it contains blood, bone, flesh, and skin?
+
+I'm sure there’s a lot of fun to be had in testing the limits of her skill and her mental power. She did tell me that she’s the one controlling the duplicates. I haven't asked yet whether that is because of her decision or some sort of limitation, nor have I asked how difficult it is.
+
+But, as much as I love her and as much as she is my sister, I realize how monstrous this is from a certain point of view. Her mind, controlling multiple bodies, possibly even seeing each one as an original. The strain it puts on you, and the kind of thinking it would require, would be almost like turning yourself into a machine. After testing that kind of stuff myself, I realize that even more.
+
+Simply said, Vic is cool as hell.
+
+Her duplicate starts walking away from us toward the spot where the last one fell apart. Halfway there, it suddenly explodes.
+
+"You have walked exactly the same route as you did before," Christoph says, scratching his chin and thinking.
+
+"I did," Victoria confirms.
+
+"Adaptive defenses? Something that reactivates a dormant trap further back in case someone decides to use methods like ours to progress?" he starts thinking out loud.
+
+"Possibly, or one that activates and deactivates at preset times."
+
+"It wasn't mana-based either, so it was likely a mechanical trigger that activated a shielded inscription powered by a hidden mana battery."
+
+"Or you could both be wrong," I say, and Vic and Christoph turn to me. It almost makes me want to smile seeing them. "What if the traps were set not to stop people from going in, but to stop something inside from getting out?"
+
+I ignore the clear excitement of the demons around us at those words. "The first trap that melted Vic would activate the dormant one further ahead, and from our point of view, that would be further back."
+
+Weslin is one of the first to pick up on it, he shouts at the Primordial Knights, "No one fucking move!"
+
+"Oh my," Christoph smiles, his senses expanding across the area in a way much like my own, though less forceful and using less mana.
+
+If I’m right, Vic’s duplicate may have triggered a trap, and that could have awakened another dormant trap somewhere else. Maybe even right where we're standing, ready to go off with a big, satisfying boom.
+
+It smells like the work of someone who wanted to be mana-efficient. Someone who set these traps up to last for years, often putting them into "sleep mode" to avoid draining batteries.
+
+It’s also quite unfortunate, since we are already quite a ways into the hallway I chose, unable to even see the area we appeared in at the start of the event. We’re also the only ones who selected this path.
+
+A few seconds pass with everyone standing still, in deep silence, as if a single word could trigger one of these insane traps. The entire time, I feel my fingers tingle, and my senses sharpen.
+
+These traps are, simply said, insane. They were made by someone who was clearly very talented, not to mention straight up twisted. It’s to the point where Christoph said that he’s fairly sure that some of them could hurt even someone approaching the rank of Champion if they were careless about it.
+
+I dismantled one of them further back, and its pieces are currently in my bag for later examination. I'm so pleased with it that even if I gained nothing else from this place, I would still consider these scraps a win.
+
+"It seems that we were lucky this time. There might not be as many dormant traps activating each time. Or the one that just activated is further back. That also means you’ll have to reconsider things if you want to return the same way," Christoph says simply before turning to Vic. "Victoria, if you will," he gestures, and we continue.
+
+The Ancient Armory makes for a really cool name, and everyone should agree with me on that. The. Ancient. Armory. It has a great ring to it, it stirs up all kinds of expectations for great loot, and plenty of it. Weapons, armor, and other things left here long ago, just waiting for the brave heroes to come and claim them.
+
+So why the fuck does this feel more like the Ancient Minefield? It is just trap after trap after trap. Did the Elemental Clowns come this way as well? Did they take things slowly, avoiding the traps, or did they brute force it by sacrificing people, and forcing monsters through to trigger them?
+
+Where are the guardian monsters? Where are the statues depicting abominations that come to life whenever someone steps on the wrong cobblestone, revealing it to have been a thin layer of stone hiding a real monster inside?
+
+Or the all time classic, mimic chests. I want to see some random demon, maybe Malika, rush over to open one, only to be eaten as the chest opens into a huge mouth full of teeth.
+
+Where is the romance of it? Where is the adventure? And where is the loot?
+
+At this point, I feel like if Christoph had wanted to, he could’ve cleared this whole place on his own, and faster. But the man just doesn’t seem to be in a hurry. He always takes his time, explaining how the different traps are likely to work and what he’s doing to counter them. Right now, it feels like he either enjoys being the center of attention, with everyone listening to him, or is taking the opportunity to show off.
+
+And there is a lot for him to show off. His senses are amazing, likely some of the best I’ve ever seen. While I can match him when it comes to mana by using my Mana Wavelength Iris, supported by my passives and physique, he seems to possess a different kind of sense, one that’s not so focused on mana.
+
+So, even as my opinion of this place keeps dropping lower, at least I can listen to Christoph and the mana sciency talk that he so obviously enjoys. When I ask a question here or there, he even recommends books and the places in the Megacity where I’ll be most likely to find them. The prices of the most valuable books often climb to half a million shards each.
+
+It’s in these moments that he begins to look like a simple bookworm happily recommending his favorite book to a friend he hasn't seen in years, only to start spamming that friend with messages a few days later, asking if they’ve gotten around to reading it yet.
+
+Still, a whole day has passed in these halls without casualties, though I doubt the other groups have been quite as lucky.
+
+After that, we finally exit the hallway, stepping into a chamber with a single pillar at the center, not unlike the one where we found ourselves at the start of the event. But unlike that chamber, this one has no branching hallways. There is only the one we came through and a wide metal door on the other side.
+
+The doors loom over us, towering twice my height and twice that in width. The surface is darkened metal streaked with green corrosion in the cracks. Despite that, it feels like the kind of metal created to outlast bone, stone, and maybe even time itself.
+
+Up close, I see faint carvings lining the surface, dulled almost to nothing. Whatever they once showed has clearly been lost to decay.
+
+We only take a few minutes to study them, not moving much further, very aware of possible traps hidden here in the chamber.
+
+I start wondering what attack I should use to break through when mana rises around Christoph. For a moment, his face looks bored, almost cold. A half-formed figure grows around him, swelling in size until it matches the door for size.
+
+Once again, I realize the others cannot see it, with the possible exception of two or three of the more perceptive people around us. At most, they can only feel the mana surging around him. Unlike them, I watch that half-figure straighten. The head turns out to be the most unnerving part, providing only the suggestion of a face with features reduced to faint ridges where eyes and a nose should be, and a hollow dip where a mouth might have been.
+
+The arms move with weight behind them, and the fingers drive forward. The first strike lands with a thunderous crack, the sound of steel giving way under the impossible force. The door groans like a submarine under pressure, low and deep.
+
+Again, the figure strikes. Each impact is a brutal hammering noise followed by a grinding shriek as the fingers dig deeper. The door shivers with every blow, sending echoes down the hallway like distant drums.
+
+Then the figure forces its fingers into the punctures. The chamber fills with a roar as the steel bends. The tearing grows louder into a metallic scream.
+
+For a moment, I deactivate my eyes, simply watching Christoph stand there while the unseen figure tears into the door in front of him, twisting and ripping it apart.
+
+Once it is done, I reactivate my eyes just in time to see the figure shrink, move over Christoph, float behind him, and rest on his shoulders.
+
+Without a word, he takes a step inside the breach, not even asking Vic to send out another duplicate, and we follow slowly. As I pass through the torn metal, I think I sense something, so out of curiosity, I touch the door. Any mana that meets the metal starts to unwind, as if the material were actively unraveling my mana. It takes extra effort, but I force my mana to stabilize.
+
+I find a small fragment of the metal on the ground and pocket it for later examination while the room lights up from a single source at the top, a yellow disk embedded in the stone ceiling.
+
+There are two exits from the chamber this time, but something else draws my attention.
+
+Dozens of sealed metal boxes have been stacked against the walls, each one made of the same sickly dark green metal formed into the same size and shape, their edges eaten by a covering of rust that only makes them look meaner.
+
+Even untouched, they radiate a pressure that makes me think twice about standing too close. The seams are too precise, too tight, as if they’d been welded shut, not to protect whatever lies inside but to protect everything outside from the contents. The surfaces are covered with patina, yet the material feels thicker than any weapon crate should ever need to be.
+
+If someone told me these were meant to hold dangerous, radioactive materials, I would certainly believe them.

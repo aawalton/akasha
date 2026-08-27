@@ -1,0 +1,125 @@
+---
+id: c7842b45-4960-56e5-bfde-06a21f1e091c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 768 - Scram"
+slug: 0093-chapter-768-scram
+partOf: hell-difficulty-tutorial
+position: 93
+ownLength: 2234
+unit: words
+publishedAt: 2026-03-10
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3138286/chapter-768-scram"
+royalRoadId: "3138286"
+---
+
+“Just do it like this,” Lissandra says.
+
+While I watch with my Preeminence eyes, she allows a bit of mana with Myrra’s signature to seep from her body, where she circulates it.
+
+At first, it confuses me because of how simple it looks, but then I start getting more information from my trait. Wavelengths shift, each moving in different trajectories at highly calculated speeds. There are spots where the circulation, seemingly without any good reason, starts moving faster only to stop later. All without any sort of rhythm I can currently pick up on.
+
+More information floods my mind, and the longer I stare at it, the more I realize this is likely the way someone at the verge of Champion would move their mana. Well, by Lissandra’s standards, at least.
+
+As with many of the things she does, it feels ancient. Raw and almost primitive. It’s like the way people used an infinitely less powerful computer than a modern smartphone to get to the moon half a century ago. Meanwhile, we have people nowadays who rely on much more computing and computers, or in this metaphor, a system, rather than going through enough calculations to create a head high mound of notes.
+
+Yes, I will do anything in my power to continue with this Cyclist Destroyer metaphor.
+
+Observing what she does, I gather as much as I can, and yet I still decide that I’ll only be taking the parts that I want and modifying the rest so it fits my body. I’m reasonably sure that what she’s shown me would fit me well as it is, but this is simply what I like to do because I know that, through making my own version, I can continue to improve.
+
+Seeing that I am done, the mana pulls back into her body, and I ask her, “Do you need more black mana or any mana in general?”
+
+“I don't, little pup. Honestly, this meeting might’ve been a waste of time, but the little kitten wanted to see you, and her begging was starting to get even on my nerves.”
+
+I glance at Myrra, who just smiles and shamelessly sways her tails. Turning back to Lissandra, I ask, “How many disciple meeting tokens do you even have?”
+
+“I have three more.”
+
+I blink. “Three?”
+
+“Yes, three. I gained them during the 5th floor of the tutorial. But enough idle talk. Do you know how to use the Fragment you now possess?”
+
+“A bit. Some things I came up with on my own, and others I have...”
+
+“Which is to say, next to nothing.”
+
+“It is one of my greatest joys, discovering how things work on my own and finding my own uses for them.”
+
+“Little pup, sometimes it hurts me physically to watch people who behave like you. It is as if you’d rather run face first into the same wall again and again before considering that you could simply turn aside. All the while, someone else keeps telling you to go left, but you just keep screaming like a gray lizard, so you can’t hear it.”
+
+“...I’ve heard quite a bit about these gray lizards. One of these days, I’ll have to find one. Are you in one of your 'pass on knowledge' moods? Go on, tell me about the fragment, but don't expect anything in exchange.”
+
+She stays quiet, and I give her time, yet seconds pass, and her face turns focused instead.
+
+I’m about to speak when her eyes drift past me, and she starts talking again, her voice settling into something colder and filled with power. “I have stood at the summit of one of the most powerful planets in the universe for longer than most of you could endure. My mana blazing like a dragon’s breath, vast and unending as the Dark Oceans of Eladore. Your pathetic bunch was forced to tear pieces from my memory just to keep my shadow confined to the tutorial. I have already faced one of you. When his life ended, he looked at me with nothing left in his eyes but shock and tears he failed to hide.”
+
+The presence around her rises up, and it has nothing to do with mana. It’s as if I can feel the capabilities of the body in front of me. This body holding the brain and memories of a person, only the Ruler of Pride could have faced.
+
+She does not look at me. Even her words are not meant for me. Her gaze rests somewhere beyond my shoulder, fixed on a distant point only she can see.
+
+Lissandra stops after a few steps, staring in that direction with a cold expression. “Even in the state you see me in now, I am more than capable of facing whatever trash dares to call itself a Ruler these days. This is more than enough. If you’re afraid to face me, then stop eavesdropping and scram,” she shouts.
+
+I don’t even realize it at first, but the black dagger is already in her hand. She swings it. The air shudders, and the endless white flickers, swallowed by a cloud of pitch black, before snapping back again. It happens again and again. When it eventually stops, the never-ending white space remains, split by a long black scar stretching into the distance. Slowly, almost reluctantly, the scar begins to close.
+
+Lissandra already has her attention back on me. “There is nothing I want of you, little pup.”
+
+Trying to ignore what just happened, I gesture at the dagger. “You didn't have a problem wanting me to make that.”
+
+That dagger is now slightly different. It is still pitch black, but in some weird, twisted way, it feels more firm and materialized. It is as if it’d been forged from the darkest of metals instead of mana.
+
+Looking at it as well, she lifts it and twists it slightly to observe it. “It is indeed a useful tool. But that’s it: a tool.” Her eyes snap back at me. “Is it a tool for you as well, or is it something you’ve grown over-reliant on and allowed to stifle your growth?”
+
+“Why don’t you tell me?”
+
+She smiles for a faint moment. “Good. Now, back to your fragment, and I don’t want to hear any more of your silly talk. I’ll only tell you a little so you can have your “great joy.”
+
+I lift my left hand where half of the fragment of the Nameless Tree lies embedded. It is a pale green crystal with green, yellow, and blue lights swirling inside. “As far as I’ve been able to observe, it needs time to mature, and it will grow to match my person, while in a way I can influence it.”
+
+Lissandra shakes her head. “If we really must talk about it in such simplistic terms, so be it. If you are able to, try to find someone to teach you about the true nature of the Fragments and how they came to be. We don't have much time left, so I won't start that story, as it is something I would want to give proper time. As for your Fragment, in a way, you’re correct. The Nameless Tree takes its meaning from that very absence of a name. It exists in a state of waiting, without nature, without design, without even a name. Because of that, you may imprint all of those things upon it. The tree that now grows where you planted it can be reabsorbed by you. When you then plant it again, it will begin from the start, but it will grow faster, because it remembers what it once became. You may also feed it to accelerate that growth.”
+
+She taps on the crystal, which is the size of my fingernail in my hand, and makes a circular movement with her finger. This causes the lights inside to swirl in that same motion. “This fragment is capable of granting both great power and leaving you an utter weakness, depending on its owner. In the hands of a true Absolute, a fully matured fragment, raised correctly, can rank among the strongest of the fragments. Some shape it for combat. Others refine it into materials or cultivate extraordinary fruits. Most often, it’s raised up as the heart of a Domain. In that role, it serves as a central node that does not weaken or decay, allowing its owner's influence to extend far beyond their usual limits. Antenna, node, storage, it can also be forged into a weapon, staves, bows and spears.”
+
+“But you seem to have a recommendation for me in particular,” I supply.
+
+“Yes. The path you are walking on is one of constantly doubling down. So, push blindly in one direction and continue to deepen your weaknesses until your strengths grow so overwhelming that those flaws simply cease to matter. Though it’s ridiculously dumb, given your abysmal level of talent, what you have done to your body is absurd. Even so, I admire it. I see the purpose your clumsy constructs serve, and I can feel a hint of what you can materialize to endure your mana in your stead. Continue to do that, because if you have any talent, it is for mana. Do not allow anything to take it from you, and do not rely on something else to bear it in your place. Carry it with you at all times, and train your body and mind to endure what others would require items to survive.”
+
+Lissandra gestures for Myrra to come closer before she turns back to me. “Grow your tree for the sole purpose of enhancing your primordial energies, so you can torture your body and mind to channel even more.”
+
+I give it a bit of thought. It is the sort of thing I’ve been considering myself, as the tree seems to be even more malleable than I’d initially believed. My primordial energies... using it this way... that could work.
+
+“I’ll think about it,” I say, replying to Lissandra.
+
+“Do whatever you want,” the Absolute answers. She turns to Myrra. “You have ten seconds before it moves you out of here.”
+
+With that, Lissandra disappears, leaving me and the lynthari alone. Before I can think of anything else, Myrra crushes me in a surprise hug. The force makes me take several steps back to keep us from falling. Some of the confidence and cheerful mood she’d put on earlier is gone now that Lissandra’s left. Myrra squeezes me strongly but carefully, aware of the limits of my body.
+
+“Is it that bad there?” I ask her in a whisper as I hug her back.
+
+She halts for a second. Without answering, she squeezes me even tighter. This time, I think a few of my bones actually crack, but I don't really care all that much, and I allow it. I somewhat awkwardly pat her back a few times.
+
+When the time is almost up, she lets go and turns around. I don't even get to see her face as she waves with her back toward me, then disappears just as Lissandra did.
+
+Finding myself back in my room, I allow myself to sit for a few moments before I stand up and stretch. Looking through my window, I stare at the Nameless Tree growing there, surrounded by a multitude of barriers. Like lightning, a myriad of ideas flash in my mind, and I take a moment to enjoy going through all of them.
+
+Meanwhile, a powerful presence is heading toward my room. I also observe it with curiosity. The presence doesn’t slow one bit, and as it reaches my door, it just steps through. The visitor pushes right through the metal-reinforced door, which I’d reinforced with inscriptions, mana stones, and other materials.
+
+The most demon demon to ever demon simply walks through, ripping the door from its frame and tearing several large chunks of wall free with it.
+
+Some of the alarms I’d set ring out, warning me of an intruder. One after another, I turn them off while never for a second taking my eyes off Morwag.
+
+I can feel his aggressive heartbeat. Being taller and more muscular than most demons, his presence feels especially overwhelming in the confined space of my room. His steps are long and powerful, and yet quick and agile. After a few more strides, he stops before me, never breaking eye contact for a single moment.
+
+“I broke your door,” he says.
+
+“It seems like it,” I agree.
+
+“What are you going to do about it?”
+
+I open my mouth to say something quippy, but looking at him, I close my mouth back again.
+
+Then, I chuckle and say, "Scram."
+
+My blast of kinetic energy crashes against him with such speed and volume that he doesn't have time to react or gather enough of his own primordial energy to stop it. His body hits the wall and crashes through it. He rolls across the hallway and then through another wall, disappearing from my sight.
+
+Combat subminds activate, and pre-prepared arrays rise to the brink of activation, and I slowly walk toward the hole in the wall, step over the broken bricks, and enter the hallway.
+
+After gesturing for a few nearby demons to get out of the way, I start walking toward where I sense Morwag’s signature and his primordial energy rising at high speed.

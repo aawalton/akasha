@@ -1,0 +1,195 @@
+---
+id: 5a092144-ad98-5bf8-9d26-b4b6ef06f443
+page-type-slug: story-chapter-royal-road
+title: "Side story (non-canon) - A Nya to Remember"
+slug: 0138-side-story-non-canon-a-nya-to-remember
+partOf: hell-difficulty-tutorial
+position: 138
+ownLength: 2474
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3444325/side-story-non-canon-a-nya-to-remember"
+royalRoadId: "3444325"
+---
+
+POV Ruby
+
+Looking at the face that even someone like Diligence felt the urge to punch, I feel the exact same way. It is not like Nathaniel’s face is currently expressive or smug, as always, he carries himself with that neutral, blank expression that continues to make him seem arrogant. The worst of it is that, as always when he is in a good mood, the corner of his lips twitches just a tiny little bit, and his eyes are also a tiny bit squinted in glee.
+
+“If you don't trust me, you can check with Spark. I'm sure he can confirm,” he says, and his bond, whom Nathaniel holds in his arms, looks from me to him, with those ears flopping every time he does.
+
+Acknowledging my loss, I say, “I don't have to, I don't think you would be lying. I just didn't expect-”
+
+“I told you that the number would surprise you, but your sentence is missing something, don't you think so, Ruby?”
+
+I could kill him in a myriad of ways, and most of them wouldn't even require me to use my mana. Just with a thought only. A slight lapse in my control and a release of my presence. The radiation of this Sanctuary itself would disintegrate his feeble body if I switched off some of the protocols.
+
+But through my teeth, I say, “I just didn't expect such a number… nya.”
+
+“Perfect.” He slaps his hands together, and he is able to do it even while holding his bond, who then lets out the weird noise it likes to do and starts playfully biting Nathaniel, who ignores him. “I have to return to Megacity for a short expedition, so as a part of the bet we made and you agreed upon, take care of Biscuit.”
+
+Nathaniel turns to converse with his bond, and I make an effort not to listen so they can have a private conversation.
+
+My mind continues to pick up on the many ways I could exploit the link between them. It would be so easy, and as Master Lissandra would say, this link is really shoddy, though I know it will continue to grow stronger the stronger the two of them become, and at a certain level, it would make it near impossible even for me to listen.
+
+The bond licks Nathaniel’s face, and Nathaniel uses his finger to touch his bond’s nose exactly 100 times while the entire time the bond continues to bite at his finger.
+
+Sometimes I wonder how much Nathaniel truly knows about the Pantophagic primordial energy of his bond. And would he even behave differently if he knew all of it? Probably not. In a way, he is an extremely silly man.
+
+Finally done with whatever the two of them were doing, Nathaniel stops in front of me, reaching out his hands in which he holds his bond. That bond stares at me with its tongue sticking out of that tiny mouth of his.
+
+I stay standing exactly as I am, which causes Nathaniel to shrug and put his bond on the ground instead, where he pats his head. Swiftly, he turns around, heading towards the portal I made.
+
+“See you later then, Ruby,” he says.
+
+“Later… nya.”
+
+The bond lets out a noise, and Nathaniel finally leaves. When I look at the bond near me, he looks up at me, twisting his head.
+
+Ignoring him, I move back to my chair and enter Cognitive Severance to go over the records that have been gathered as of late, as well as the reports from my Masters of Greed.
+
+It all takes just a few seconds, but the bond gets bored already and very floatily levitates to the top of the table, where he steps all over the papers and then finds one big, round mana stone. He grabs it in his mouth and, moving a few steps, drops it in front of me.
+
+“What do you want?”
+
+He lets out that noise again.
+
+“I won't be connecting you to my mind. It could be dangerous to you, and-”
+
+I don't get to finish, as he lets out that barking noise a few times in a row. It sounds slightly angered, so I replay it in my mind, and through the wavelengths of his mind that I observed previously, I translate a meaning.
+
+“You can't be serious.”
+
+He barks again.
+
+“You know what? Maybe I should just throw you to Kindness. We would see how brave you would be then. And here… nya. Happy?”
+
+Finally, he seems to be satisfied and instead pushes the round mana stone with his nose so it rolls towards me, and I grab it before it falls off the table.
+
+“What do you want me to do with it?”
+
+A bark.
+
+“Nya. Dammit,” I grumble, and allow his telepathy to reach my mind while I lower my Thaumic Cognitive Envelope to allow a bit of it to touch my mind, making sure none of it bounces back or that he sees inside.
+
+There, I replay the image he is sending and narrow my eyes to look at him. The entire time, he sits there on the documents, tongue lolling out, and stares at me happily.
+
+“This,” I lift the round mana stone, “was stolen by one of the best in the business. It came from the deepest vault in Domus, right under the Ruler of Diligence’s nose. You have no concept of how impossible a feat that is.”
+
+“That’s right,” I say as I wave the stone from side to side.
+
+Completely oblivious to the context of my words, the tiny creature’s eyes track it like a pendulum.
+
+“This is an organic mana stone, grown using a dragon scale as a frame. Add in a few system exploits, as well as some exotic methods only Diligence is able to use, and you have this stone. In theory, it should be able to contain the heat of an entire star inside of it.”
+
+He barks again, and I move the stone from side to side faster.
+
+“Yes, yes. I forgot, so I will add them all now. Nya. Nya. Happy? It is one of Diligence’s projects against Charity, as that… house pest hates not being prepared for any possibility. Do you, silly little creature, even realize the value of something like this? Nya.”
+
+Three annoyed barks in a row, and he jumps to his feet, tapping them a few times on the table.
+
+So, with a sigh, I just throw the orb and watch as the bond jumps off the table and quickly rushes to follow the round mana stone until he catches up to it.
+
+On his short legs, he bounces victoriously back towards me, and I patiently wait as he, in his extremely slow way, levitates back onto the table where he comes to me.
+
+At first, I reach out my hand to take the stone to throw it again, but he doesn't drop it. So instead, I reach further and grab it while he holds it inside his mouth.
+
+He doesn't let go.
+
+“But you want me to throw it again. Why aren't you dropping it? Nya?” I ask, confused.
+
+Even then, he refuses to let go, and I use a tiny bit more force to get it out. The tiny creature doesn't even seem sad about it and once again jumps up and down excitedly, waiting for me to throw it.
+
+So this time, I throw it much further.
+
+At first, he jumps up and begins to run to follow it, but when he notices how far it is, he slows down until he comes to a full stop. Sitting on the ground, he looks towards where the mana stone continues to roll even now, and then, as if he forgot about it, he twists his body to lick his fur a few times.
+
+Then he turns to run back to me and floats back onto the table, where he lies down, putting his head on his front paws.
+
+For a while, I use the opportunity to continue with my work, but my eyes continue to flick towards him as he lies there unmoving. Gradually, my hand moves almost against my will, and as it approaches his face, he doesn't pull away and instead watches me calmly.
+
+My fingers gently touch his nose, the one that Nathaniel touched 100 times, and then I move higher, gently placing my palm on top of his head. His tail begins to swing from side to side as I carefully pet his head, and I flinch in surprise as he licks my hand. When I stop, he lies there, closing his eyes until his breath slows down and he falls asleep.
+
+After I become confident he is sleeping, I lower my head to stare at him up close and listen to the soft noises he makes.
+
+I flick my hand, and the round mana stone flies into my hand, and I very carefully place it in between his paws.
+
+Diligence continues to share the records with me, asking for my vote on certain things before he goes on to get a vote from Kindness, Envy, and Wrath. We aren't in his Sanctuary, but instead in one of the hidden rooms in the Megacity.
+
+“Is that all, nya?” I ask him.
+
+“I still don't understand why you talk that way. Do you not have a semblance of dignity?”
+
+“I have no idea what you are talking about, nya.”
+
+Then a squeak and a scream, followed by a chuckle, brings my attention.
+
+On the ground, there is Diligence’s vessel, the one he calls Zant, and the tiny creature that is Nathaniel’s bond is currently grabbing Zant's leg and pulling the tiny vyssari across the floor.
+
+Zant doesn't even seem to mind and laughs while fighting back, totally unlike the image he tries to keep up usually.
+
+“Zant…” Diligence only breathes out, but does nothing to stop it.
+
+Lust crosses her arms over her chest, her hair, wings, and eyes currently a pale pink color.
+
+“So you are here because you want to watch some tutorials going through your floor, nya,” I repeat.
+
+“That's it. Oh, how cute my baby used to be back then. I want to watch our fated meeting. And why do you continue to add that word at the end of each sentence? Is it something trendy? Maybe I should start doing it too.”
+
+“No. I lost a bet, nya.”
+
+“So pathetic. And why do you even continue to hide your identity as a Handler? Besides, you should really dress up a bit. Show off some skin for once! You’re gorgeous. Seriously, it's been so long. You can stop behaving like you're still a disciple under that monster and always ready to fight.”
+
+“But I am always ready to jump into combat. And you are the last person I would take advice from, nya.”
+
+"Well, I don't want you hurting my babies, so I’ll agree to whatever you say. There aren't many in the universe who'd dare face you anyway, so there's no shame in it," Lust chuckles. She pushes her chest out, subtly flexing the muscle in her arms, her smile locked on me before her eyes drift to Biscuit. "Give him to me. I want him."
+
+I let a hint of my presence bleed out as I step closer, stopping right within arm's reach. “You want something? Really? Right in front of me? What if I wanted something from you instead? What if I got greedy?”
+
+I ramp up the pressure, directing it straight at her, and her hair, wing, and eye color begin to darken and shift.
+
+Then his bond barks behind me, and I sigh.
+
+“I forgot. Nya. Are you happy now?”
+
+Another bark.
+
+A few hours later, I head to the location where I promised to meet Nathaniel while keeping my identity hidden. And exactly as promised, he is waiting there, but with a few more people with him. Even if saying "he" might be wrong.
+
+“I hope you didn't get greedy,” she says. “Biscuit is mine. And why are you holding him like that?”
+
+I glance down at the bond that I hold hugged in my arms, and Biscuit looks up at me. I feel his body squirm as he stretches up and licks my cheek.
+
+Maybe… After all, why not? Why shouldn't I keep him? There's no one who could stop me.
+
+But I let that thought pass as Biscuit squirms more, and I gently place him on the ground, where he rushes back towards his bond, not caring about Nathaniel’s current looks.
+
+Currently, Nathaniel is a woman.
+
+A pretty young woman. A pale left arm, shoulder-length black wavy hair, his trait shining in his differently colored eyes, and an athletic figure. But the expression is exactly the same as his usual, even if it just feels different seeing it on this face.
+
+“What?” Nathaniel asks, with even the voice sounding similar yet different.
+
+From behind him, a man steps forward. Taller than him, with blonde hair, gray eyes, and an eyepatch. A crown made of primordial lightning floats over his head.
+
+That man puts his arms around Nathaniel’s shoulders and smiles at me while saying, “Excuse our current state, and Nathania as well. There was an expedition we joined to a hidden vault below the Megacity, and one of the traps did this. But Lily said it is only temporary, so in a few hours, we will be back.”
+
+“Fuck off, Tess. I bet Lily could fix it, but refuses to, so she can continue to make me suffer,” Nathaniel says.
+
+“I do not!” another man shouts. He is petite, with black hair, pale skin, and brown eyes. He looks strangely cute and pretty, glancing to the side with a guilty look that completely gives him away.
+
+“Is that true?” Nathaniel, no, Nathania gets out of the arms of the tall blonde man and stops in front of the petite, black-haired one. While holding Biscuit in her right arm, Nathania puts the fingers of her pale left arm on the petite man’s chin and makes him look up at her. “I can sense your heartbeat.”
+
+She leans in closer, her voice turning smoother without her even realizing it as she says, “You're a terrible liar, Lily.”
+
+The black-haired, petite man blushes and pushes her away while mumbling something, and the tall blonde man, with a laugh, hugs Nathania to save him.
+
+The entire time, Biscuit is carried and flung around the place, yet he keeps that extremely happy expression. His eyes look towards me, and his telepathy connects to my mind as he says.
+
+(Food!)
+
+Rolling my eyes, I send back, (Sure, sure.)
+
+Turning away, and right before taking a warp, I send one last word.
+
+(Nya.)

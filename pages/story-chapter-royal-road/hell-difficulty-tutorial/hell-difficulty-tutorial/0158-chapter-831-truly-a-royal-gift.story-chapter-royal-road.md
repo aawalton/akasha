@@ -1,0 +1,133 @@
+---
+id: 4785b4b3-ee4c-5feb-b70a-614163f0e0ce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 831 - Truly, a royal gift"
+slug: 0158-chapter-831-truly-a-royal-gift
+partOf: hell-difficulty-tutorial
+position: 158
+ownLength: 2489
+unit: words
+publishedAt: 2026-06-21
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3571971/chapter-831-truly-a-royal-gift"
+royalRoadId: "3571971"
+---
+
+The Leviathan dodges the beam by diving underwater, and the surface of the lake instantly grows calm.
+
+My vessel, manifested behind me, grows in size as I expand [Eclipse] to fully encompass the beam of mana I now hold frozen in the air. The vessel, now three times my own height and consisting of only a torso, buries its hands within the beam. Using the mana contained within, it manifests a sword and pulls it free. Five colored this time. A dark blue blade with wisps of purple and light blue, and a gold and white core.
+
+I ignore all the fish attacking me as Mapthaniel takes control of the vessel and swings at the enormous fish, cleanly cutting through each of them.
+
+Mana based attacks aimed my way pulse out and weaken, wildly crashing against me and my vessel in a storm of dust-like particles of mana. Meanwhile, I stare down at my feet, tracking the Leviathan’s enormous mana signature.
+
+There are just a few seconds during which I will be able to handle the full output of my heart, even with my vessel taking on most of the strain, so I better make the best out of it.
+
+A pulse of my mana expands over an area several miles wide and then bounces back to me, informing me of the position of each of the boys and all the fish. I share that information with Mapthaniel. Then, the entire frozen beam of mana breaks apart and mixes itself with the mana I’ve redistributed from my heart. All of it, like a torrential wave, crashes into the lake and pierces into it, expanding and attacking the Leviathan swimming below, gathering more and more mana as it goes.
+
+Another of my arrays is prepared, and so while swinging the sword, my vessel frees one of its arms, reaching into the air and drawing an inscription with a glowing bead of mana at the tip of the finger. Continuously, I expand [Weave] over a wider area, growing it in size as my domain devours what remains of the Leviathan’s presence on the surface.
+
+[Weave - lvl 16 > Weave - lvl 17]
+
+[Weave - lvl 17 > Weave - lvl 18]
+
+The Leviathan’s mana clashes against my own once again, just as my vessel finishes drawing and pokes a woven array. It activates just once, flashing, expanding, and influencing just a single wavelength of mana. The one the Leviathan was using to teleport.
+
+My vessel remains on the surface as I push myself underwater with a blast of kinetic energy that sends a geyser of water exploding into the air. All the mana I sent ahead and in my possession redistributes, converting back to golden thermal energy.
+
+The powerfully beating heart in my chest generates more as I go, and I instantly evaporate a wide bubble of water around me, clearing space, leaving me floating in the middle.
+
+Another attack shoots at the charging Leviathan, bouncing off its armored head. Even unable to teleport anymore, it flies as if it swims, and dozens more arms appear around it, these ones made of mana. They clash against the golden flames, which I turn into the shape of arms as well.
+
+The surface of the lake explodes again as my vessel dives in, and Mapthaniel hands control back over to me as it moves behind my back. My output instantly increases, and the strain of everything I was handling before lessens to a great extent. The waterless bubble triples in size, as does the number of flaming golden arms. They begin to tear apart their mana based counterparts, burning them, and the heat continues to rise, causing some of the Leviathan’s scales to crack under the output of the Champion grade thermal heart.
+
+Blood drips from my finger, elongating and taking on a coat of flickering mana and gold and white light as I combine it with [Empyrean Lance].
+
+Another pre-prepared array triggers, sending out a pulse of [Eclipse] that drains the colors from the air and, for a split second, pushes away the monster’s [Mana Domain]. Then, in quick succession, I use [Redistribution] to convert all the flames back to mana and then use that mana to power [Eclipse] once again, turning the whole space around us black and white.
+
+Within this near colorless place, a lance speckled with my blood roars ahead in an explosion of kinetic energy that, because of the sheer amount I injected it with, escapes my control, throwing me to the side and eating a good chunk out of my shoulder.
+
+Neither me nor the Leviathan is able to track the brilliant lance. Just for a moment, there is a light, and then it is gone. A hypersonic boom ripples multiple times in a row, breaking my eardrums and pushing away the water around me and vaporizing it. Then follows the sound of a violent, low frequency thump so deep that it almost feels like a punch.
+
+The maelstrom that is the Leviathan's body comes to a halt as a hole appears through the exact center of its head, where the armored scales are thickest. All of its mana escapes its control as its body begins to twitch, and the human arms start to spasm. The fish opens its mouth in a soundless scream as it twists and coils onto itself.
+
+It stops moving for a second. Then its enormous heart beats again. The head closes its eyes, and something else takes over. Just the impulses and instincts of the body.
+
+Where its control over its mana previously carried a rough beauty and skill, it is now merely crude. The pulsating heart beats louder and stronger, each pulse sending much more mana rushing through it than before, damaging the body and seeping into the area. But that’s all, just a huge amount of mana handled poorly. Gone is the beauty.
+
+The seal over my Ignition falls back into place, and its wild thumping against the inside of my chest weakens as I take the mana that remains and move it to the crown over my head, which starts to calm down as well. My vessel disappears as well, leaving just me and a mindless body throwing itself about like a living nuclear plant simply generating mana.
+
+Regalia surrounds me and grows in size to face the airplane sized monster as I grab hold of it. [Eclipse] stops the mana radiation from touching me, and my eyes break it down into tiny particles that I seize and feed to my crown.
+
+We are thrown through the water at high speed, while the Leviathan doesn’t even try to bite me, simply smashing its head against me while its hands twitch in jerky spasms in an attempt to tear my armor apart. I form a sword in one of Regalia's hands and cut into its head.
+
+My senses break through the natural barrier, and I find a second, smaller brain. Twisting and throwing the body to the side, I reach it, bury Regalia's hand in it, destroying it as well.
+
+[You have defeated Leviathan Fish - lvl 461]
+
+[Lvl 419 > Lvl 420]
+
+[Lvl 420 > Lvl 421]
+
+[Lvl 421 > Lvl 422]
+
+[Lvl 422 > Lvl 423]
+
+Finally, the body slows down, not moving anymore.
+
+For a while, I stay there, breaking apart and taking in all the mana I can get and feeding it to my crown.
+
+When I'm finished, I convert a burst of mana into kinetic energy to launch myself back toward the surface, hauling the body and head with me. I break through the water to land on the surface of the calm lake, walking across the surface as I pull the remains behind me.
+
+Regalia shrinks before disappearing entirely, to be stored in an array by one of my subminds as I look around. There is still some fighting going on, but it mostly seems to be over, while the boys mostly compete over who can get more of the fish. Though some aren’t likely to be usable at all with the amount of damage they’ve caused.
+
+Out of curiosity, I drop a few more droplets of my blood onto the surface, but this time I get no reaction. It seems there are no more fish available, but looking at how many of them are lying around, I won't complain.
+
+When the last one dies, Morwag, Weslin, Savant, and Brich all move in closer. They show hints of the fight we went through, but none have any serious wounds and are still more than combat ready.
+
+"You should tell your guide not to move out yet," Savant says, still holding the Sword of Aeons in his hand with the white wing behind his back. The orange light from his domain continues to flicker about as I track his gaze to the body of the Leviathan Fish.
+
+That huge body begins to twitch, and Savant charges with both kinetic energy and mana. He stabs the sword to the side, but it is already too late as the side of the Leviathan explodes into gore. Scales fly away, and blood and organs are gouged out as something fast escapes, landing against Morwag, who lifts his arm as it bites into his forearm.
+
+It is a lynthari with two tails and a body and face entirely covered in tattoos. Looking at the color of the skin and the look it’s giving us, I immediately identify the lynthari as a lurker.
+
+[Reanimated Corpse - lvl ???]
+
+Morwag flings his arm, and the lynthari flies to the side, moving like an animal and ducking under Weslin’s attack.
+
+A lurker that the Leviathan must have eaten. Now that the fish is dead, the lurker's heart beats out, generating mana once again without the enormous mana pool of the Leviathan Fish to suppress it.
+
+As Savant attacks it again, the lurker teleports away and then does it again. Every time he takes a step to move, the air in front of him wavers as if the space itself were changing, and it teleports. In a way that seems almost similar to Ruby’s. And the more mana the lurker gathers, the farther and faster it teleports and the stronger it becomes.
+
+But it doesn't run away yet. It teleports through my disruption and avoids Morwag’s charge only to crash into the Leviathan’s body, piercing through to the other side. When it appears there, the lynthari holds the core, the most valuable part of the fish.
+
+The thought of observing the way the lynthari teleports escapes my mind as all my effort goes into disruption. This time, I succeed, and the teleport cancels halfway. Savant tracks the exit somehow, already waiting there with a sword he swings at the lurker.
+
+The lynthari bites into the blade, and the core it holds glows, sending a pulse of torrential mana that pours out an enormous amount. Savant tries to attack, but the lynthari steps back, almost pulling the sword out of Savant's hand.
+
+I react slowly as I observe with fascination how the lurker takes control over the mana generated by the core and its own body. I observe the wavelengths, finding an easy means of choking it out. It is a fascinating way of handling mana, and yet weak somehow. The kind that dies off easily, in contrast to a greater mana pool. That’s probably why it ended in the belly of the Leviathan for who knows how many years.
+
+The lynthari uses teleportation powered by the entirety of the mana he gathered, and I track the way it does that.
+
+"Duncan will take care of the fish," I say to the others as I connect to the remains of the teleport. I send more mana through to keep it open, widen it, and prepare to follow through as I turn to the rest. "I want to see where it wants to run. Are you coming?"
+
+Weslin shakes his head and stops by my side with less excitement than Morwag. Even Savant and Brich lower their natural barriers.
+
+Then I teleport us through, tracking the lynthari. The distance is much longer than I would have expected, with a few stops along the way as the lurker needs to pause to gather more mana. However, I have no such need and power it with my reserves alone, the environment around us shifting and shifting. It weaves through ambient mana and sometimes passes through what feel like invisible rivers of mana and many arrays that couldn’t have been set by the locals or attendees.
+
+The ways the lynthari skillfully uses the environment to teleport over such great distances are new and fascinating to me, so I’m learning as much as I can.
+
+At some point, I begin to estimate the direction we head and the lengths of the teleports, and my heartbeat speeds up. Looking at the others, I am not the only one.
+
+When we finally stop, there is the darkness of a cave and a soft male voice that speaks.
+
+"Aahhhhhh, so you have finally returned from your mission. Just how many decades has it been? I thought I had lost you, you, one of my favorite puppets." The voice stops before speaking again. Now, the way it reflects sounds like it speaks in our direction. "And you even brought a guest. A gift. Oh yes. They can come, but they cannot leave. Puppets. Great puppets. Very impressive ones. Shining even more than you did in life. And there’s something else there as well. Truly, a royal gift."
+
+My thermal cube manifests and spins, lifting up into the air and generating more and more of a gentle orange golden light. It fills not a cave, but what seems to be the inside of an enormous body, with huge organs hanging all around that I couldn’t even hope to recognize. Flesh and bones and a wet, fleshy, unmoving surface we find ourselves standing on.
+
+And the lynthari stands next to the dark figure. It has wide open, unblinking eyes that are entirely red, whites, pupils, all of it. And the entire figure is black. It has the proportions of a shriveled human body, but I can't pick up any more details. It’s just entirely black.
+
+[Dhampir Lord - lvl ????]
+
+I can’t see the figure’s mouth, but I can feel the smile in its voice as the red eyes turn to Brich. "Truly a most welcome surprise. My master’s sword, his fragment, his bond, his power manifested."
+
+Before any of us can move, the figure is standing next to Brich. The lumoran can’t even react before his body is flung to the side in an explosion of blood, chunks of armor, and failed automatic defenses. And in the place where Brich stood, the Dhampir Lord stands, holding Calvorn, which begins to chuckle as the blade splits out to reveal teeth and a long tongue.

@@ -1,0 +1,189 @@
+---
+id: 577a8dc6-669b-536c-ad91-8734c02a437f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 951: Messy but Delicious"
+slug: 0018-chapter-951-messy-but-delicious
+partOf: he-who-fights-with-monsters
+position: 18
+ownLength: 2763
+unit: words
+ownProgress: 2763
+publishedAt: 2025-01-17
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2015718/chapter-951-messy-but-delicious"
+royalRoadId: "2015718"
+markedReadAt: "2026-06-29T19:04:23.740Z"
+---
+
+Jason placed a comforting hand on Nik’s shoulder as they walked down a corridor in the cloud ship.
+
+“I won’t say don’t be nervous, because of course you are,” Jason told him. “What I will say is that they’re going to love you.”
+
+“You think?”
+
+“Nik, everyone loves you. Even Neil adores you, and you know how cranky he can get. The whole Adventure Society loves you. That might just be because of your power set, but it counts.”
+
+“You think that maybe I could find a team here on Earth? Maybe I should have joined one of the Geller teams back in Greenstone. I just wanted to see the world a bit, you know?”
+
+“I do.”
+
+“And I wanted to…”
+
+“What?”
+
+“I wanted to talk to you about it. But year after year, you didn’t come back.”
+
+Jason grimaced, feeling the shame. He’d had his reasons for leaving, but he always did. It didn’t stop him from leaving his team behind, time and again. And now he’d done the same to Nik, who had needed him more than anyone.
+
+“I’m sorry I wasn’t there for you. I can give you all the excuses in the world, but it doesn’t change that. I could promise to do better, but what you need isn’t words. I hope that you’ll give me the chance to do better. To give me the time that I didn’t give to you.”
+
+“You once told me that you don’t get along with your mother.”
+
+“That’s true.”
+
+“Would you give her the time? If she asked for it?”
+
+Jason stopped walking, Nik pulling up as well. Jason stood, frowning for a long time.
+
+“That’s a good question,” he said finally. “A hard question. And, if I’m being honest, I don’t know. She’s still here, on Earth. Maybe I should see if she’s ready for what I’m asking you for. Everyone’s circumstances are different. I don’t know, Nik. I don’t know.”
+
+He pushed a smile onto his face and kept walking.
+
+“You know, I don’t think you need a team,” he told Nik. “Your powers just work better in large groups, which is why the Adventure Society keeps setting you up with expeditions. What you need is a guild who can take full advantage of your abilities. We’re looking at setting one up when we get back to Palli. I’m not going to let someone else take care of you. It’s you and me, from here on out.”
+
+“Yeah?”
+
+“Yeah. We’ve been discussing it ever since I had guild issues in Vitesse. Team Biscuit is getting big, and we have some people floating in and out, like me, Rufus and Taika. Probably Zara, too, now she’s back to princessing. It makes sense to have a guild that’s small and works like an extended team. Swapping people in and out, based on availability and need.”
+
+“You don’t have any silver rankers, though. Doing contracts with a bunch of gold-rankers will get me killed.”
+
+“Our guild recruitment would be focused on the lower ranks. Training people up to our standards and helping them rank up. It’s a lot easier than trying to pull in people already gold rank, who have their own ways of doing things anyway. We’d set up pools of people for each rank, base them out of zones with appropriate magic levels. Greenstone for iron rankers and initial training, but we’re looking at setting up headquarters around the world. Clive and that poor woman Lorelei have been working to reverse engineer the Builder cult portal network for almost twenty years now. Our guild houses would be a test bed, before rolling it out commercially.”
+
+“That would cause a bigger stir than the Sky Link network Farrah and Travis built. And that was huge. An actual portal network will throw whole countries and industries into disarray.”
+
+“It’ll be a big deal, yeah, but within reason. It’s not like it’ll be free portal travel, but it’ll be cheaper and more accessible than the current system of finding a portal specialist and paying them a bunch of money.”
+
+Jason stopped them in front of a door to one of the ship lounges.
+
+“You ready, bud?”
+
+“No,” Nik said, rolling his shoulders as if limbering up for a fight. “But let’s do it anyway.”
+
+Jason chuckled and the mist door vanished. There was a squeal, and Nik was hit by a torpedo.
+
+***
+
+New Water was the city Jason created in his astral kingdom for the survivors of Boko. Many had chosen to leave and find new homes on Pallimustus, especially those who didn’t like the civic policies Jason enacted, such as the abolition of both indentured servitude and aristocratic title. Further social development was the purview of the Dominion church.
+
+The clergy in Jason’s astral kingdom had chosen to remain for his journey to Earth. The initial contingent had been from the churches of Hearth, Refuge and Dominion, but as the work expanded, others had joined when Jason took on more people in Rimaros. Members of various priesthoods joined to help establish the new city, mostly due to the logistics required for a population in the tens of thousands.
+
+Although the gods of Pallimustus had no sway in his realm, and could not enact their power through their clergy, it mattered little. The gods had made sure that their followers were experts in their areas of influence, magic or not. The contingent of experts had their own magic, but it was their knowledge that proved more valuable.
+
+Most of the gods represented were minor, concerned with the day to day lives of ordinary people. There was little need for the clergy of major deities like Ocean, Storm or War. The priests Jason took on were mostly those of professional gods useful to a new city, such as Farmer, Mason, and Grocer. Others were deities often overlooked but critical to a city, such as Hygiene. The results of their expertise was on full display as the city of New Water went from a refugee haven to a home and a society.
+
+Farmer’s priests helped establish agriculture in the fertile lands around the city, removing the need for Jason to conjure up large amounts of food. A mix of clergy worked with Jason to refine the city’s design, including Mason, Architect and Gardener. Their expertise in construction and city planning guided Jason in adjusting his hastily erected metropolis.
+
+By necessity, Jason was getting better at hastily knocking up magic cities. Details mattered, however, and professional help turned New Water into a more practical and pleasant place to live and work. The population did just that, establishing farms and businesses. Trade was the major god, alongside Dominion and Knowledge, who did have a role to play. His clergy were critical in helping establish the city’s nascent economy.
+
+Knowledge’s clergy set up schools, along with training programs for the kind of work available in this new city. Many people could rely on previous expertise to find work or open businesses, but others needed alternative skills to find a place in the new society. Where Boko was heavily reliant on exporting the natural resources of the desert, New Water had to find its own equilibrium.
+
+The priests of Dominion served as overseers of the whole operation, as their task was the big-picture organisation of the city. Leadership and administrative structures needed to be put in place. The efforts of the other clergy had to be woven into a cohesive whole, to avoid them working at cross-purposes or falling into pointless redundancy.
+
+Language skills were a critical part of the education programs in New Water, in the adult training halls as well as the schools. Essence users excelled at picking up new languages, especially as they ranked up, so the training hall classes were highly effective. In the schools, where children were yet to obtain essences, a solid foundation of language training would help them to become polyglots when they were older. The training included multiple language options from both Earth and Pallimustus, as Jason anticipated the populace interacting with both.
+
+Jason was glad that Danielle had the foresight to include the higher-ranking priests amongst the first to train in Earth languages. This allowed them to converse with his three guests from the Australian government as they toured the city. Jason had left them with his most loquacious non-prime avatar as a guide, known as the Concierge. Many of his other avatars were rather automaton-like, their energies focused on performing specific tasks. The Concierge was designed to be Jason’s representative when he wasn’t controlling an avatar to do so himself.
+
+While he could concentrate on multiple places at once, Jason sometimes wanted to put his undivided attention elsewhere. In this case, it was on his prime avatar, spending time with his family. There was also the advantage that the Concierge was a dialled-down version of Jason, more adept at the diplomacy that Anna and Danielle wanted from him. Danielle had even suggested bringing the Concierge out to represent Jason in other discussions.
+
+The trio of government officials spent hours touring the city, asking the clergy about how it had come to be and Jason’s involvement. They also had the chance to speak with some of the higher-rank residents who had reached fluency in English during the trip from Pallimustus.
+
+The stories that they heard painted Jason as something between a messiah and outright god. Destroying their old home because someone assassinated him, unleashing his apocalyptic levels of restrained power. Saving almost the entire population by evacuating them with his power, then single-handedly killing an army of angels. Bringing them to a new universe, calling up a massive oasis from the desert, complete with a new city at its heart.
+
+It was a city of magical wonders, from floating platforms that moved between buildings, to public fountains where the water literally danced in the air, performing like a street artist. People flew overhead on flying carpets, personal flight clouds or exotic creatures. There were also larger vehicles, from car-sized right up to buses. These were revealed to be public transport when the Concierge used them to move the group from one neighbourhood to the next. On reaching each location, they walked around, to better take in the city.
+
+Even hours into their trip, Josh was gawping like a country boy on his first visit to the big city. His personal obsession was the flying cloud devices.
+
+“Sol, everyone here is Monkey Magic!”
+
+“What’s Monkey Magic?” Solomon asked.
+
+“How can you not know what Monkey Magic is?” Josh asked. “That’s un-Australian.”
+
+“Josh,” Sue said, “it’s a kids’ TV show from sixty years ago, made in Japan and translated by the British. How is not knowing about it in 2038 un-Australian?”
+
+“You say that, but you do know what it is,” Josh countered.
+
+“Only because my husband made me sit through a retrospective documentary from a box set they released a couple of months ago. The sixtieth anniversary edition, Josh.”
+
+“Wait, he got one of the physical editions? Damn, I got waitlisted.”
+
+“Also, the show was called Monkey, not Monkey Magic. People just think it was because of the theme song.”
+
+“How good was the theme song?” Josh enthused. “Maybe your husband and I should hang out.”
+
+“Can we please move on?” Solomon asked.
+
+“How can you be so calm?” Josh asked him. “We’re on an alien planet, Sol. In a whole other universe, with wizards. Is that a gelato shop? I want alien wizard gelato.”
+
+“It’s not technically gelato,” the Concierge informed him. “It is based on a recipe from your world, but made with local ingredients.”
+
+“Sol isn’t calm,” Sue informed Josh. “The only reason he seems so calm is he’s trying to avoid losing it completely. And I want alien wizard gelato too.”
+
+“We don’t know what the food here will do to us,” Solomon said.
+
+“Sol, Josh and I are bronze rank, and you’re silver. I don’t think anything they’re selling in a take-home cup is going to hurt us.”
+
+***
+
+Jason smothered a laugh as Emi whirled a startled Nik around in circles, clasped in a hug.
+
+“OHMYGODYOU’RESOMUCHCUTERTHANITHOUGHTYOU’DBE!”
+
+The cloud ship was still in Australia, but Jason had brought his family to meet its most unusual member. When portalling between spirit domains, at least within the same universe, Jason could ignore most of the usual restrictions on capacity and cooldown.
+
+Erika and her husband Ian were attempting to peel Nik from Emi’s grip. Jason’s dad and his Uncle Hiro came to stand next to him, Ken slinging a possessive arm over his son’s shoulder. Jason got the distinct impression it was to stop him from running off again. Amy and her daughters were present, caught between nervousness and wonder. Jason’s grandmothers were with them, sticking close to their great granddaughters.
+
+The two matriarchs were starkly different, in almost every regard. Jason’s paternal grandmother, Yumi, was rail thin and looked around forty. Matriarch of the clan, her stern practicality demanded as much from others as she did from herself. Courtesy of her blood, flesh and bone essences, she could alter her appearance at will. In addition to affecting her apparent age, it would allow her to live longer than others of her rank, making it an extremely popular combination.
+
+Jason’s other grandmother did have a name, but she was as insistent on being called Nana as Yumi was averse to it. Nana had been through a lengthy process of recovering from Alzheimer’s, with a lot of magical assistance, but had been fully recovered for years now. She was in the lower reaches of bronze rank, the magic making her look hale and healthy in a way Jason remembered from his youth. Even so, she still had a pillowy physique unusual in an essence user. He wondered absently if she also knew Neil’s aunt.
+
+Where Yumi was cold and hard, Nana was warm and soft. Yumi ran the clan, but the recovered Nana was matriarch of the family. Jason was saddened that her familiar warmth had been absent during his last visit to Earth.
+
+Emi’s parents managed to pry her off Nik without resorting to a crowbar, at which point Hana and Jace could no longer resist the lure of his adorability. Nana and Yumi followed, even the stoic clan matriarch softening in the face of Nik’s cuteness. Nana got the privilege of second hug, wrapping the diminutive rabbit man up like a blanket.
+
+Erika caught Jason’s eye and nodded towards the ship lounge’s outdoor deck area. Jason nodded and followed her out, his father sticking by his side. The rest of the family had gone in to see Nik, who watched Jason leave like he was seeing the last lifeboat sail off. On the deck were Rufus, Taika and Gary, manning the grill and setting up a long picnic table. Jason wasn’t going to introduce his team until after Nik.
+
+“Are you sure I should be here?” Gary asked. “This seems like a family thing.”
+
+“Our being here lets them have their family time,” Rufus said.
+
+“Plus, I made a cake, bro. Just a normal one, though. I’m working on magic ones, but about one in five explode on me. It’s messy but delicious.”
+
+Jason moved over to the railing and leaned on it, using his aura as a privacy screen around himself, his father and his sister.
+
+“You’re still doing that, then,” Erika said.
+
+“Doing what?” Jason asked.
+
+“Finding the nearest balcony, leaning on the rail and staring off into the distance like you’ve got super-important things to contemplate dramatically.”
+
+“I do have a lot of things to contemplate. Dramatically. It’s dramatic stuff. Fighting evil. Building magic cities. Deciding if I can still call it carbonara when Pallimustus doesn’t have guanciale.”
+
+“You could maybe get away with pancetta.”
+
+“They don’t have pork, Eri. There’s a lizard that tastes like pork, so I was wondering if—”
+
+“No,” Erika said firmly. Then she turned her back to the railing and leaned next to him, here eyes on the gathering inside.
+
+“You made him,” she said.
+
+“Yep.”
+
+“Like that first bit of the bible.”
+
+“I did make a universe. Smaller than the bible one. More manageable.”
+
+“And you made a person.”
+
+“Yeah. And then I turned deadbeat dad for fifteen years. I had to, fate of the cosmos and all, but it doesn’t change the fact that I made him and abandoned him. We’re still finding our way. I hope you both can help me with that.”
+
+“Try and stop us,” Ken set, putting a reassuring hand on Jason’s shoulder.

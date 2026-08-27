@@ -1,0 +1,153 @@
+---
+id: a52833ae-c96e-5805-bef4-2fc8437adeb3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8 - Death? "
+slug: 0008-chapter-8-death
+partOf: hell-horizon-healer
+position: 8
+ownLength: 1441
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3521176/chapter-8-death"
+royalRoadId: "3521176"
+---
+
+Nobody moved.
+
+The low, electric hum of the vending machine suddenly felt incredibly loud in the narrow hallway. Claire stood there shaking, her white nurse’s uniform stained with dark, wet smears around the cuffs.
+
+Jonathan was dead? How? Sure, Minor Heal wasn’t exactly perfect, but the wound was mostly stitched together the last time he had checked.
+
+"What do you mean he's dead?" Arthur asked, his voice dropping an octave as he stepped forward. "Jake patched him up yesterday. The bleeding stopped."
+
+"He must have rolled over in his sleep," Claire choked out, wiping her nose with a trembling wrist. "The stitches... whatever Jake did, it just tore right open. He bled out into the mattress, Arthur. By the time I went in to check his fever, he was already cold. There was blood everywhere."
+
+Arthur shook his head, his hands rubbing at his eyes in sheer frustration. "Dammit. I knew I should have stayed with him. When I went down there around three in the morning to check on him, the door was locked. I even asked Chloe if she'd seen Claire around the halls, but she said everyone was already asleep."
+
+"I was in the supply closet looking for clean linens," Claire snuffled.
+
+Something stank, and it was rotten to the core.
+
+"You," Arthur growled.
+
+Jake didn't need his enhanced hearing to know who Arthur was looking at. The big man stepped out of the crowd, his knuckles white as he pointed a finger straight at Jake's face.
+
+"You said you patched him up," Arthur spat, his face flushing a dangerous dark red. "You stood in that water and bargained for a single fucking credit while you could have done more. If you had just gone back to check on him last night instead of… whatever the hell you were doing! I bet you didn’t even heal it properly!"
+
+"It wouldn't have changed the outcome," Jake said, his voice flat, cut entirely from a different fabric than the panic around them.
+
+"The hell it wouldn't!"
+
+"The skill stops surface bleeding, Arthur. I told you that on the stairs," Jake explained calmly, keeping his hands loosely at his sides. "If he rolled over and ruptured an artery in the dark, there’s nothing I can do about that. Going to his room would have just left me with a headache and a wet mattress."
+
+"He was twenty-two, Jake! Our neighbour!" Chloe cried out. "How can you be so cold about it?"
+
+Jake frowned. He hated being the centre of attention.
+
+Everyone started looking at Jake in a new light, and not a good one, either.
+
+“Monster!” Someone shouted from the side.
+
+“Yeah,” another added. “You have magical powers—the power to heal—and you left him to die!”
+
+Jake opened his mouth to tell them he literally hadn't possessed the ability to fix a ruptured artery, but looking at their wide, terrified eyes, he stopped. They didn't want a logical explanation. They were terrified of the dark, and they wanted someone to blame for it.
+
+“Oh god,” Someone else chimed in. “We’re next, aren’t we? What’s really stopping those monsters from pushing open that door and coming in and tearing us apart?”
+
+“Everyone!” Arthur raised his voice. “That’s enough—”
+
+Jake didn't wait for Arthur to finish. He turned on his heel and walked away, getting away from the crowd. He moved quickly, slipping out of the corridor and back toward his apartment before slamming the door behind him.
+
+He thought he saw a faint curl of Chloe’s lips before the hallway vanished.
+
+He locked the door, sliding his back down until he sat on the cold, hard floor.
+
+It’s not my fault. I healed him. I saw with my own eyes the wound shut enough that it wouldn’t be a problem.
+
+His thoughts turned into a raging storm as the unfairness of his neighbors clawed at his mind. He cupped his ears with the palms of his hands, shutting out the phantom noise of their shouting, and cranked Concentration to the max to get rid of the torment from clawing at his mind.
+
+***
+
+Knock knock.
+
+Jake opened the door to see Sloane with her weapon in hand. “What?”
+
+“Why hello there prince charming,” she said with a sly smile, only to drop it the next moment. “We’re going up to the floor again. Joining us?”
+
+Saying nothing, he shut the door in her face, got his bow and quiver and his machete, then opened the door again. She was already a few steps down the hall. She turned, confused.
+
+“I took that as a no.”
+
+It was Jake’s turn to be confused. “Why wouldn’t I go?”
+
+“Uh,” she said. “You just slammed the door in my face when I asked you.”
+
+“I didn’t slam it. I shut it.”
+
+She clicked her tongue. “Whatever,” she said, starting walking towards the stair-well. Jake followed her.
+
+“How… are you feeling?” She looked at him. “I mean with Jonathan.”
+
+He shrugged. “Okay? I didn’t really know him.”
+
+“That’s not… nevermind.”
+
+They stopped in front of the exit. Chloe and everyone else was standing, waiting. Someone new had taken Jonathan’s spot; a tall young man with trimmed facial-hair and black mid length curtains. He wore a black hoodie and sweatpants. He had Jonathan’s bow.
+
+“This is Glenn,” Chloe introduced him. “Apparently he was quite good in archery class. Almost olympic level.”
+
+Glenn smiled sheepishly. “Junior Olympics. Quite a difference, but I’m happy to help in any way that I can.”
+
+Wow, he was handsome. Almost doll-like. Was he a celebrity or something?
+
+Also, was that lipstick? Eyeliner?
+
+“Is everyone set to go?” Edwin asked. “Experiencing your first death is hard to process. But if you can get over it, it gets easier from here on out.”
+
+Everyone nodded.
+
+“Alright,” he said. “Same again. This time don’t leave the formation no matter what. We have roles and we stick to them as if they are law. We’ve shaken the nerves, yes?”
+
+The others nodded again, though Jake doubted whether or not that was actually the truth.
+
+They returned to the next floor. No monster lurked, at least as far as Jake could tell. The three dead Skulker corpses still lay in the murky water. Seeing the monster for the first time, Glenn’s heart rate spiked.
+
+“You said they were ugly,” Glenn grimaced, poking at the corpse with his toe. “But you didn’t say they were this ugly.”
+
+Edwin shouldered past him. “This isn’t a walk in the park,” he snapped. “Get your shit together. Mistakes are how Jonathan died. Do you want to be Jonathan?”
+
+Glenn gulped and shook his head.
+
+“Good,” Edwin said. “Let’s keep going.”
+
+They moved deeper into the flooded corridor, leaving the three rotting corpses behind. The water was colder here, splashing up to their shins as they kept their tight formation.
+
+Jake kept his bow raised, his eyes scanning the rusted pipes lining the ceiling. His perception was humming, picking up the frantic, uneven thumping of Glenn’s heart right behind him.
+
+"Movement," Edwin whispered, raising his hand.
+
+He didn’t have to tell Jake.
+
+Up ahead, the hallway split into a T-junction. From the dark recesses of the left corridor, three distinct splashing sounds echoed. But Jake’s ears twitched. There was a fourth sound—a dry, scraping noise coming from the pipes directly above Edwin’s head.
+
+"Two coming from the left!" Arthur yelled, shield in one hand, one-handed sword in the other as the first Skulker sprinted into view, its pale, hairless flesh glistening in the dim light.
+
+"Glenn, take the shot!" Sloane barked.
+
+Glenn stepped out of the formation smoothly, his posture flawless through countless repetition. He drew Jonathan’s old bow back to his ear, his breathing stopping instantly as he released. It was a textbook, beautiful shot.
+
+Thwack.
+
+The arrow struck the leading Skulker right in the shoulder, but it didn't drop. The monster barely even slowed down, the shaft dangling uselessly from its rubbery hide. Glenn had the technique, but he lacked the killing instinct needed.
+
+"Shit!" Glenn panicked, his flawless form completely breaking as he scrambled backward. "It didn't do anything!"
+
+“Don’t panic,” said Jake, pulling back his bow, arrow at the ready. He released it before the Skulker leaped at them. The arrow bored into its throat. It fell into the water with a splash.
+
+“Aim for anything that will make sure it doesn’t breathe again,” Jake said.
+
+“...Right.”
+
+(Lvl 2) Skulker defeatedNo level-up? How many do I need to kill?
+
+He wouldn’t have to worry for long as three more monsters shot out from a large vent near the ceiling, tearing through the shallow water to rip them apart.

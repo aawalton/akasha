@@ -1,0 +1,189 @@
+---
+id: 37875cfd-0aeb-5c12-a980-39b1e17227e3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 92"
+slug: 0016-chapter-92
+partOf: hell-hound-evolution-litrpg
+position: 16
+ownLength: 2430
+unit: words
+publishedAt: 2026-03-02
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3108375/chapter-92"
+royalRoadId: "3108375"
+---
+
+As we continued traveling the riverside, I found myself lagging behind. Lily walked beside Grick while fox lady remained at the front, as usual.
+
+Kill something that trusts you? The hell kind of an achievement is that! It felt like the System was playing some kind of sick joke on me. How would I even go about doing something like that?
+
+Every scenario I could think of just seemed… wrong.
+
+Hiding in the bushes and ambushing prey is one thing. But if there were a scenario where prey could be comfortable with me, and knowingly turned its back, thinking there is no way I would pounce…
+
+I mean… wouldn’t the end result basically be the same? As the fox had said, when I stalk from the shadows, I’m essentially immersing myself in an illusion of safety. Then, I betray that illusion when I strike. Was this path about doing the same thing but out in the open?
+
+How much trust was required anyway? That was so vague!
+
+Thinking back on my interactions with the System, I was aware of the likelihood it had a consciousness. It had even communicated messages to me before, and not to mention the times it awarded achievements seemingly arbitrarily to help me out of a specific situation. And if the System were a thinking entity, did that mean whether or not I satisfied the achievement was left entirely to its discretion?
+
+In that case, was the System evil?
+
+Or maybe… this was just a test? Did it want to see how far I was willing to go?
+
+Well, the System has given me lots of rewards for killing, but never one for sparing something’s life. I think that said a lot about the System’s moral framework.
+
+I huffed in frustration.
+
+I didn’t want to think about it anymore. But the more I tried to push it away, the more it pressed back, like a thorn lodged somewhere I couldn’t quite reach.
+
+Ahead of us, fox lady placed her hands behind her head, ears flicking as she scanned the trees. She looked relaxed, confident, like this stretch of land posed no threat at all. Grick started humming softly, fingers grasping the straps of his pack as his eyes gazed over the river. Lily looked at him, wagging her tail, probably curious about the sound he was making.
+
+They all felt safe. Relaxed.
+
+I hadn’t trusted the fox before, yet I’d be lying if I said that hadn’t changed. But what had changed exactly? She hadn’t particularly done anything to prove herself loyal to us… But maybe trust didn’t have to be earned that way. It could be built simply out of familiarity or patterns. Out of the simple fact that nothing bad had happened yet.
+
+As we rounded a bend in the path, I noticed a bird hopping along the branches of a bush. Its beak picked at leaves, but as my paw snapped a twig on the ground, it froze and looked directly at me. My steps slowed as I stared back. It was outside of striking distance—not that I was interested in it one way or another. It was too small to even be a worthy meal.
+
+But as my companions continued their leisurely walk down the river, I stopped and just stared at the bird. Eventually, its head tilted curiously, and then it went back to picking at the branches. It could probably tell I wasn’t interested in eating it and knew it could fly away if I made a move.
+
+I took a single step towards it. It froze and watched me suspiciously again, but after a moment, it came to the same conclusion that I was no concern and continued with its business, just flicking its gaze towards me every so often.
+
+If I just stayed here, never making a sudden move or showing my teeth… When would it grow complacent and completely trust that I wouldn’t do anything to it?
+
+I thought back to my past life, when I first met Lisha, and she took a seat on the curb to avoid alarming me.
+
+Ah—I mean, when I was Lisha, and I earned the puppy's trust by just moving slowly, showing I wasn’t a threat. The puppy wouldn’t have ever let someone lay a hand on her if they just suddenly tried to snatch her.
+
+I made another step towards the bush, and this time the bird decided I was too close or maybe just a little too interested. It flapped its wings and darted up into the trees.
+
+The rustling of its movements caused Lily and then Grick to look back, wondering why I had dragged so far behind.
+
+“Puppy sees something?” Grick asked.
+
+“It’s nothing,” I said through Pack Bond and continued walking.
+
+The fox waited for us to catch up, standing still with her hands behind her head. But her golden eyes seemed to focus on me as if making an assessment. Her ear twitched, and she pointed into the forest. “Hey, I think there is some prey over there, if you guys wanted to get in a quick hunt.”
+
+I cocked my head at her. That was unlike her; she was usually the first to complain about any delays.
+
+She started walking back towards us. “You haven’t had any gains recently. Might actually be more efficient to let those two hunt without you for once.”
+
+Without me?
+
+I gave the fox a glare, wondering what she was up to.
+
+“Just saying. You’re always doing most of the work and then just letting them clean up. The System is less likely to give rewards if there isn’t real effort put in.” She shrugged and paced over to the river. “Come on, pup. Take a break with me.” She then slipped off her bag, kicked off her boots, and lay down on the slope, her feet just shy of the water.
+
+“We hunt without puppy?” Grick asked.
+
+The fox wanted something; that much was obvious. I used a quick {Pulse Sense} and scanned the forest. Nothing stood out to me that could be anything other than prey. And we hadn’t come across anything in these last days that even Lily alone couldn’t contend with. I decided to humor the fox and see what this is all about.
+
+“Go on, we’ll wait here,” I told them.
+
+Lily’s tail wagged as she yipped at Grick. “Hunt!”
+
+Grick laughed and patted Lily’s head. “Okay! Grick hunts with little puppy!” He set his pack down by the slope, unsheathed his dagger, and then the two of them went off into the woods together.
+
+I sauntered over to the fox, eyeing her suspiciously. She smirked back.
+
+I turned my head in a way that said, “Okay, so what do you want?”
+
+“You’re walking differently.”
+
+I narrowed my eyes. “What?”
+
+“Tail’s stiff, steps too careful. Got a face like you’re chewing on something ugly. I’m guessing the System showed you something you didn’t like.”
+
+I huffed. “That obvious, huh?”
+
+“I noticed when we stopped earlier.” Her ears flattened on the top of her head as she frowned. “I’m worried about you.”
+
+I turned away. “Worried? Yeah, right…”
+
+Her pointy-toothed smile returned. “Fine. Mostly just curious.”
+
+I snorted softly and kept my eyes on the river.
+
+She shifted, bracing herself on an elbow. “So? What did it say? If it is about the Path we talked about earlier, I might be able to help.”
+
+I really didn’t know what to make of her sometimes. Did she actually care about us or not? But there was no denying she might have some insight that could help.
+
+I padded down to the riverbank, found a spot of soft mud, and started dragging my paw. The fox came over, balancing on her toes with her arms over her knees as her golden eyes took in every letter.
+
+I decided I’d have to write the whole thing this time. Too much nuance would get lost trying to shorthand the achievement. Thankfully, it was only five words.
+
+When I was done, I looked away from the message as if I didn’t want to see it. The fox read the words out loud in a low mutter.
+
+“Kill something that trusts you, huh?” She let out a low whistle. “Yeah, that’s a tough one. Well, there is one simple answer…” She flashed her fangs as her eyes flicked over to the forest where Grick and Lily had disappeared.
+
+I instantly gave her a sharp bark. “Don't even joke about that!"
+
+The fox chuckled, lifting both palms in surrender. “Relax, pup. I’m not actually suggesting you eat your goblin.”
+
+I kept my ears pinned and stared her down anyway.
+
+“Don’t get me wrong, it’s weird that you’re attached to a goblin—really weird. But I’ve been around you three long enough to get it. However it happened, that goblin is one of you. You wouldn’t hurt him any sooner than you’d hurt your little sister.”
+
+She got up and walked back a few steps to sit away from the damp ground.
+
+“Problem is, however you try to go about this achievement, you’re going to run into the same issue. Let’s say you find a different little goblin to adopt, and you decide to keep it around just long enough for it to feel comfortable. Then, when you’re pretty sure it's a kill the System will accept, you make your move. Maybe you’d even do it quick and painless one night when it’s sleeping, so you can at least justify it to yourself somehow…” She sighed. “But you wouldn’t do that either, would you? Because by the time you trick whatever you want to hunt into liking you, you’ll be growing attached yourself. So basically, it’s impossible.”
+
+Yeah, that was the problem, and even imagining a scenario like that made my stomach twist.
+
+The fox watched me in silence for a few moments. Then she let out a slow breath. “You know. Predators wouldn’t normally get stuck here. They’d see an achievement like that and immediately start asking themselves who they can afford to lose. Livestock. Strays. Weaklings. Someone no one will miss.” Her lips curled. “The fact that you’re getting so torn up over it means you’re already failing at thinking like a proper predator.”
+
+That earned her another low growl.
+
+She chuckled. “I’m not saying it like it’s a bad thing.”
+
+My tail flicked in agitation.
+
+She let out another breath and leaned back against her hands. “I’d say, just stop thinking about it so hard. It’s not a choice you have to make in advance, or some big moral puzzle that you can sit down and solve. You can’t trick yourself into this, and you can’t trick the System. If you go looking for a victim, you’ll hate yourself long before the achievement is satisfied. So the way I see it—forget about it for now. Nothing bad is going to happen if you just ignore it, right?”
+
+My ears folded back. That’s… true…
+
+I stared at the ground in front of me. I would have liked to get a human form before making it to the empire… but was it really necessary? Genzo hadn’t said anything about it, he just gave me that marker to prove he’s sent me.
+
+Suddenly, I felt a hand on top of my head. It surprised me so much that I just stared back into her golden eyes and amused smile as she rubbed her fingers through my fur.
+
+I curled my lips back as I growled, then let out a sharp bark.
+
+She laughed. Of course she laughed. But not her normal sly chuckles. She put her hand over her mouth trying to contain it, and as I continued my low growl, she lost it, and her body seized with laughter.
+
+I barked again. “What’s so funny!?”
+
+“Sorry, it’s just—you really are just a child.” She wiped a tear away as she finally calmed herself down.
+
+What the hell is her problem!?
+
+I wanted to snarl at her, but held back because I thought that’d only make her laugh more.
+
+“Really, though, you’re a powerful hunter. You kill efficiently—cleanly. It’s honestly been easy to forget how young you are… but you know, there are these moments.” She flashed her fangs. “Like tying yourself into knots over something that hasn’t even happened yet. Doesn’t even need to happen. That’s the uncertainty that comes with figuring out who you are. But if you want my opinion…” She shrugged. “If you don’t want to do it, then don’t. Just forget about it.”
+
+Just forget about it? That’s your sage advice?
+
+I huffed. A little disappointed, but at the same time, I also felt relieved. Yeah… I guess I didn’t really need to open that Path. It might have been a convenience, but Genzo hadn’t even expected I’d have a human form when he directed me to the empire.
+
+The fox started playing with a blade of grass, mulling over some final words.
+
+“Just live… travel. Fight when you have to. Don’t when you don’t. If that Path is really meant for you, the situation will present itself eventually… It always does.” Her faint smile drooped into a frown as she turned her gaze to the water.
+
+She was acting very out of character all of a sudden. Even when she’d try to be helpful, she’d always do it with that sly persona and a veil of cruelty or indifference. But all of that seemed to have drained away.
+
+I thought back to our first night with her, when I put the Death Mark on her, and she shot awake from a nightmare.
+
+I found myself wondering what exactly was in her past.
+
+An ear flicked, and she shook off the melancholy gaze. “Well, guess the break’s over.”
+
+Before I could question her on what that meant, I heard Grick’s voice.
+
+“Grick returns! Puppy brings tasties!”
+
+I padded up the slope to see Lily emerging from the thickets with Grick at her side, holding his dagger triumphantly in the air, blood still dripping from its blade.
+
+Lily held the severed leg of a Mossgrazer. As she approached, she dropped it on the ground in front of me and let out an inviting yip.
+
+I hadn’t felt very hungry earlier. After seeing that achievement, eating was the last thing on my mind. But as I smelled the aroma of the fresh meat in front of me, and saw the excitement from my pack after their first successful hunt without me, I did feel a little better.
+
+READ NEXT CHAPTER NOW!

@@ -1,0 +1,169 @@
+---
+id: 465dbba7-aad5-58da-8f8a-ba84e64bf7c8
+page-type-slug: story-chapter-royal-road
+title: "033: Double Edged Sword"
+slug: 0033-033-double-edged-sword
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 33
+ownLength: 2242
+unit: words
+publishedAt: 2024-05-04
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1623034/033-double-edged-sword"
+royalRoadId: "1623034"
+---
+
+The next six hours went by in a flash, with Evelyn doing her best to try and throw herself at the cavern walls to see if she would take any damage. It wasn’t a great experiment. Even before she had the unusual tier of Bulwark, this kind of haphazard charge wouldn’t hurt her much. However, it was the best she could do without advancing to the next floor. Then, her essence shot up.
+
+It was strange. She was now earning thousands of essence every time the timer ran down, and yet it felt lacking. The numbers were colossal compared to what she had started with. The rats on the first floor had given just 1 essence each. In just a few weeks - though it had felt far longer - Evelyn’s demand for essence had skyrocketed along with her strength. But, her next purchase was going to go a long way to filling that demand.
+
+As Evelyn opened the local shop to check the stock, her eyes wandered down her arms. The small tattoos hadn’t been so obvious in the beginning. Just a few small grey triangles here and there. Now though, her right arm was plastered in them. And it didn’t end there.
+
+Her left arm now sported a few white squares, courtesy of the white stars. It was the makings of a proper sleeve. Soon, she reckoned she would have full body coverage. If her father could see her now, he would probably blow his top. Honestly though, she didn’t hate them. They were a visible marking of how far she had progressed. Her strength, her durability - they were tangible gains too. But not in the way the stars were.
+
+It hadn’t crossed her mind earlier. She had been too focused on survival. On making it to the next floor. But Evelyn had begun to wonder where the power of the tower came from. Sure, increasing her attributes provided a boost to her various physical, mental or magical talents - but how did that actually happen? What was driving the process?
+
+She had no idea where to even begin answering that question.
+
+But, there were some clues. The biggest of those was mana. Before the tower, Evelyn had never heard of the stuff, let alone considered the possibility that magic was real. Now however, every moment that passed came with the pulsating flow of energy through her body. The feeling was euphoric. Pulling on that power to fuel a skill. To empower herself to do things she never would have dreamed were possible - it was beyond incredible. Yet, everything that had been given by the tower - could it be taken away just as fast?
+
+It was a terrifying prospect.
+
+However, it wasn’t something she could worry about for the moment. At the very least, the tower seemed to want them to progress through the floors. And while it enjoyed torturing the challengers and pushing them above and beyond their limits, it still needed them to be capable of actually succeeding. Perhaps one day Evelyn would discover how to cement these newfound abilities as her own, but that wouldn’t happen right now. No, right now she had stars to buy.
+
+And so she did. Three white stars took around half her essence, then the rest went on grey stars. It was the largest bulk purchase of stars she had ever made. And it had a massive impact. On everything.
+
+First and foremost, her essence production had shot up in a major way. White infusion meant that every white star wasn’t just producing its own essence, but bolstering the production of the grey stars. Solar Fusion had hit a couple more milestones, so it was giving her a huge multiplier to her production on top of that. Ridiculously Huge.
+
+Essence: 12『+230524 / 5:57:59.5 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】
+
+What?! I want to hit myself. Why haven’t I been buying stars all this time? Solar Fusion plus the attribute star abilities combined make for some absolutely colossal multipliers. What do I even spend all this essence on? I’m going to breeze through the next few floors. In fact, I think I need to delay going to the 15th Floor. I can’t waste an opportunity to get this large a power-up before the next mini boss.
+
+She had already received a small powerup. A boost to her fortitude thanks to Stellar Body. It wasn’t nearly as major as the increase to her essence production - but it was still great. Now that she had another six hours to kill, Evelyn decided she would try and figure out the crafting system. There had been some inkling of how it worked as she had messed with her previous materials, but nothing concrete and she hadn’t had the time to further explore it, until now.
+
+Everything she had been creating until that point was functional. Armour, weapons. They served a purpose, and they served it well. The makeshift equipment she’d fashioned from monstrous chitin and hide had not succumbed to the wear and tear of the previous floor. It hadn’t been one where she was involved in most of the fighting however. The next floor would give it a real test.
+
+Instead of making further armour, or a weapon - which wouldn’t see much use given her proclivity for sustained and personal melee combat - Evelyn decided to try her hand at making herself some fashionable new clothes. It was a miracle that her dress had held on this long. It was a mess of threadbare rags, just about covering what it needed to. Though she hadn’t been too worried about upholding any social standards since arriving in the tower, it would still be wonderful to have something pretty to wear.
+
+For that however, she would need better materials to work with. It was time to visit the local shop once more. Perhaps if she dismantled enough common and uncommon equipment using the scrap function of the crafting system she would get what she needed. It was a surprise for her then, when Evelyn went to open the local shop and received an infuriating message from the tower.
+
+You have exceeded the maximum threshold for Local Shop access. Congratulations on your prowess!
+
+It was wholly unexpected.
+
+Evelyn had never even considered the idea that she might one day lose her ability to purchase attribute points, stars and more at the ridiculously low cost that the Local Shop offered. It made sense. She was far beyond the floors where such prices were on offer. Regardless, that didn’t stop her from yelling out in anger and stomping the ground hard enough to crack it and shower the surroundings in dirt and fragments of rock.
+
+It wasn’t all bad. Even without the shop, her stars would still continue to produce essence at an astonishing rate. Instead, it meant her priorities had changed. It might mean she was losing out on some efficiency, but Evelyn would instead need to devote herself to pushing through the floors as fast as possible. After all, her only way to progress now was through the rewards that the tower offered each time she cleared one of its challenges. So, it seemed her strategy to invest in a plethora of new skills and attributes before challenging the mini boss had to be scrapped. Instead, Evelyn steeled her nerves and charged into the portal.
+
+The message from the tower was not a surprise. What was different however, was the form the challenge had taken. Like the previous mini boss floor, where she had been placed into a party with strangers for the first time, this was also a multi-challenger instance. Unlike the 5th Floor, her and the others had not been asked to work together. No - they were her rivals this time around.
+
+❰ Multi-Challenger Instance ❱
+
+All Challengers have arrived on the 15th Floor, instance will now trigger
+
+❰ Instance - Mini Boss Race ❱
+
+Race against the other challengers to be the first to claim the head of the mini boss. Victory goes to whoever claims the killing blow, regardless of prior effort.
+
+Now this is a real challenge. I approve. I wonder if my foes will be a true opposition or simply obstacles to be brushed aside?
+
+To that end, Evelyn stole some furtive glances around the arena they were in, hoping to get an early appraisal of the other challengers. Rather than the cavernous terrain that most of the floors seemed to be set in, this was another sandy colosseum. The tower was rather lacking in creativity, it seemed. At least when it came to the environment. The challenges varied enough to keep her on her toes. What she saw from the two others was striking at first sight.
+
+One was a man wearing full plate armour with feathered plumage sprouting from a visored helmet. It was gaudy, but perhaps effective. Only time would tell. Evelyn found herself wondering if that had been a series of random drops or if the man had crafted the exquisite set himself. She felt it had to be the latter. The tower wouldn’t offer such similar equipment. It didn’t work in the same way as the skill crystals, where there were clear underlying trends to what one received. At least, not yet.
+
+Her other foe was a waif of a woman. Barely five foot tall and dressed in a blue silk robe, she looked the part of a sorcerer. Along with the gnarled wooden staff she wielded in her right hand, it didn’t take a genius to figure out where her skills lay. Evelyn felt it was stupid to make your talents so obvious, but then again her style of combat was simple.
+
+To be honest, it didn’t matter what her enemies could do. Evelyn had the fourth tier of Bulwark along with Arcane Shield under her belt and all but the strongest of challengers would find it impossible to harm her. But, that wasn’t the goal of this floor. Even the weakest of the three could find themselves the victor, all it would take was a well timed blow to claim the boss’ head.
+
+Evelyn wasn’t going to let that happen.
+
+Even if she had to take the two of them out before turning her attention to the real challenge of the 15th Floor. Which judging from the slow rise of a fourth portcullis, was fast approaching. All three of them readied themselves. The armoured man withdrew a brutal warhammer, complete with two sharp spikes and a head that looked like it weighed half a ton. Yet, he swung the weapon with casual ease. More dangerous than his attire made it seem, then.
+
+Meanwhile the robed woman began muttering under her breath and Evelyn could sense the faint glimmer of mana around her. Some kind of self enhancement spell? The way they prepared themselves wasn’t her problem. And then a wave of dizziness struck her.
+
+Her lack of precautions against the others had meant the sorceress’ spell had gone off without a hitch. Only now, as the foreign tendrils of mana snaked their way into her body did Evelyn realise her mistake. But, she wasn’t defenceless.
+
+It was a mystery to her how the strange debuffing spell worked, but she didn’t need to know the specifics to resist its corrupting influence. She had garnered some small degree of control over her mana thanks to her practice with manipulating the draw of her skills and the paths they followed during their activation. That wasn’t all.
+
+Once she had discovered the strange ways her mana circulated her body, Evelyn had tried to manipulate them, nearly killing herself once when she tried to change the course of the flow. She had since learned her lesson and instead of forcing her will on her mana, just tried to help it along. It had been a fruitful endeavour - one that had seen her pathways widen and expand into more of her body. The process was painful, however.
+
+It only took her flaring her full reserves and shunting a portion outwards to dispel the negative effects. It would take her a few minutes to regain the lost energy, but a boss battle was a marathon, not a sprint. Either way, this particular one was certainly a race.
+
+One she intended to win.
+
+However, even the brief delay caused by dealing with the interference of her foe meant that Evelyn failed to notice the lethal predator that had pounced at her from behind.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.5
+
+|Attributes|
+
+Power: 12 (13)
+
+Speed: 4
+
+Stamina: 8
+
+Vitality: 26 (31)
+
+Mana: 25
+
+Fortitude: 48 (83)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Stargazing (Rare), Bargain Hunter (Uncommon), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Uncommon), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Spendthrift (Uncommon), Solar Fusion (Uncommon), Salvo (Common), Corruption Resistance (Common), White Infusion (Common), Star of Fortitude (Uncommon), Star of Vitality (Common), Star of Mana (Common), Star of Stamina (Common)
+
+~Active~
+
+Fists of Frost (Uncommon), Mana Plate (Uncommon), Flashfreeze Flamecharge (Rare), Numb (Common)
+
+~Hybrid~
+
+Overpowering Spirit (Rare)
+
+Essence: 12『+230524 / 5:57:59.5 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】

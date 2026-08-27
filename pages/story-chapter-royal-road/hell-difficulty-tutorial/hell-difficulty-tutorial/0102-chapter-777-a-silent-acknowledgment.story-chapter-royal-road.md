@@ -1,0 +1,117 @@
+---
+id: 8f020b02-a800-56eb-a74f-fd20545aace8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 777 - A silent acknowledgment"
+slug: 0102-chapter-777-a-silent-acknowledgment
+partOf: hell-difficulty-tutorial
+position: 102
+ownLength: 1941
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3185738/chapter-777-a-silent-acknowledgment"
+royalRoadId: "3185738"
+---
+
+We leave the area just a few minutes before reaching the end of his time limit, and once we reach the borders of his domain, we are rejoined by the T-rex that’s been lazing around and biting into a giant snake he’s killed.
+
+The area is trashed and burned in a weird way. Out of curiosity, I touch one of the trees that seems normal from the outside, and my hand goes right through the outer layer and through to the inside, where all is ash.
+
+Quietly and suddenly, that tree collapses under its own weight, and the ash doesn’t even try to drift into the air, collapsing directly into a heap on the ground.
+
+I catch the gaze of the T-rex and, as before, return it while my brain processes the amount of information my Preeminence eyes are gathering.
+
+That amount of information is gradually increasing, and everything in this never-ending jungle seems to awaken as more ambient mana fills the air. But for now, it won’t be a problem for me, not after Beyond and not after managing to handle the amount of information from danger zones on this floor around the bodies of Champions.
+
+I look away from him and flick my hand, and mana crackles across it. It is beginning to form an [Empyrean Lance] which I’ve been learning to control better. Instead, I halt it halfway through. Before the skill can fully turn my mana into a lance, I grab the transformed mana and force it under my control.
+
+Though it was difficult at the start, once I discovered the trick, it became much easier. In the end, it’s far simpler than handling black mana.
+
+So that’s what I’ve been doing. I don’t know if I should call it Empyrean mana, much less if such a thing exists, or if it is just a partially-formed lance, the result of a skill that I’ve bent to my will.
+
+For now, I can force it into cubes or streams of mana to make these attacks that much stronger. And even now, it is just a start. There is so much more that can be done.
+
+That mana flickers across my hand. Pieces of the lance slide over my skin and are trapped inside a cube I form around them, where they continue to bounce within.
+
+A step teleports me through the [Ley Line] I’ve stretched through the area, and a burst of movement carries me further towards a group of wolves the size of planes. There are five of them, the largest of which is a gray-furred individual with an additional eye in the middle of his skull.
+
+Before they can move, I absorb their movement, and another step teleports me onto the head of the gray wolf. The cube in my hand elongates into the shape of a bullet and pierces through the wolf’s skull, where I release my hold over it and allow it to explode.
+
+[You have defeated Skalvyr Wolf - lvl 381]
+
+I release my hold on the other four wolves, and two of them reach me in a burst of powerful wind.
+
+Like the pitch of a jet engine, a stream of thermal energy shoots from me and quickly narrows, cutting off the head of one of these wolves, and as I sweep it at another one horizontally. The wolf jumps over that stream, but it takes pieces out of its legs, and as his limbless body twists on the ground with his maw wide open and biting. An [Empyrean Lance] stabs through his head.
+
+[You have defeated Skalvyr Wolf - lvl 365]
+
+[You have defeated Skalvyr Wolf - lvl 351]
+
+One of the wolves is running away, while the last remaining member of its pack is shooting projectiles made of lightning shaped mana at me. They crack and cut through the air, and the air seems to be seething as they travel through it.
+
+Yet, all of these attacks get disrupted, then dissolve, rendered harmless before they reach me. They dissolve into mana particles, swirling around me as currents of my mana spin around them, grabbing them and forcing them under my control.
+
+Another lightning attack comes, but this one comes from our group. A javelin, nearly impossible to track with the naked eye, surrounded by red and white lightning. It flies in a perfect trajectory from two miles away, not touching a single branch, not disturbing a single leaf until it pierces through the wolf’s head, killing him in a single attack.
+
+I move through Wraith Dance that flares up multiple times in succession. The fleeing wolf forms a barrier at his back. Multi layered, dark blue with streaks of light blue that form the shape of a wolf’s head that opens up as if to roar.
+
+[Empyrean Lance] tears through it as if nothing’s there and pierces through the body of the wolf, who staggers to his feet before more of my projectiles smash through the hole in the barrier and finish it off.
+
+[You have defeated Skalvyr Wolf - lvl 346]
+
+I boost myself up into the air and in between the branches forming the crowns of the trees, and turn the movement into flight as I rise above the tree line.
+
+Even just a few hours here can fill a human with a claustrophobic feeling, never mind a full day. The never-ending forest just barely allowing sunlight to pass through the leaves of the looming trees to reach the ground.
+
+When I try to fly a bit higher, I get that feeling as if something far too vast is becoming aware of me. It’s hard to describe. The higher I fly, the more I feel that my eyes can’t comprehend or can’t process it all at their current level of enhancement. At some point, the forest below me begins to shake, and monsters in a wider area screech, roar, and start running away.
+
+Then I lower myself, and that feeling gradually, almost unwillingly, fades. The entire time I continue to hover down towards the trees, more and more it feels like a trap, as if I’m descending into a wide-open maw of a beast.
+
+Teleporting myself again, I appear at the side of our group and match my movement speed to theirs as we run and jump through the forest. There are multiple monsters following behind us as well. Not to attack, rather they’re currently under Sophie’s control. Each one is well into the 300s as she’s been focusing more on quality and singling out the stronger ones.
+
+Every once in a while, a javelin bursts out from behind Tess, only for it to quickly return covered in blood. It’s interesting to see her still making herself effective even though the dense forest removes one of her biggest advantages in her sight.
+
+I match my speed with Maya, who’s carrying Biscuit in her arms. His flying speed, though impressively high for a burrito-shaped blimp, isn't quite enough for him to follow us, and I guess no one wants to see him moving around on those purple humanoid mana arms.
+
+"You should send your friend home," I tell the corgi.
+
+With his ears flopping up and down as Maya runs, Biscuit gives it a thought before nodding and drifting out of her hands to float to my side.
+
+"We’ll rejoin you later," I tell Maya, and she continues to run behind the others, leaving me and Biscuit behind.
+
+The T-rex stops as well, splitting from the group of monsters Sophie took over. He takes steps that feel slow but are incredibly long, lowering himself slightly to keep his eyes on the same plane as the floating corgi. There is a conversation between them with possibly an entire novel's worth of words being exchanged. Biscuit stays at the size he is now and floats closer, booping his nose against the enormous dinosaur’s, who closes his eyes in response as he does so.
+
+Before leaving, the T-rex moves to the side to stop in front of me. Lowering himself, he tilts his head and turns one of his eyes, bigger than my entire torso, towards me. In it, I see my reflection. I can feel the presence of this enormous body and the quiet hum of mana stored in the crown floating over his head.
+
+The dinosaur feels very old. Maybe ancient even. His body bears many scars, his mind sharpened by years of combat, and I wonder how many Cycles he’s lived through. How many Harvests has he witnessed?
+
+Unexpectedly, he lowers his head in what almost seems like a bow and tilts his head, which causes his floating crown to move and slide off, moving through the air before stopping to float over me and my own crown.
+
+No words are spoken, but his gesture and the look in his eyes make his meaning perfectly clear.
+
+I accept the gift, and my crown starts spinning faster. The mana inside of it bounces off the walls and continues to speed up as the currents gather more and more speed.
+
+[Eclipse - lvl 67 > Eclipse - lvl 68]
+
+[Current - lvl 39 > Current - lvl 40]
+
+The area around us drains of color, turning the darkest black and brightest white, with the dark blue color of the two mana crowns glowing brilliantly. The look of my eternally-active trait pierces through the huge [Mana Crown], and within my [Eclipse], I take over. Like the moon covering the sun, my control over mana overshadows the crown, even though it’s much bigger.
+
+Within my presence, it starts breaking apart as its intense mana rises through the area and piercing through. The currents of my crown spinning at incredible speed create a sort of whirlpool of mana currents, which take it all in, absorbing the mana being released.
+
+I don’t even need black mana. It’s difficult, and yet so easy at the same time. In a way, it’s beginning to feel simpler than breathing.
+
+I take that mana, cycle it, and force it to join my own, and gradually it does so until the big [Mana Crown] is no more and all of that mana is mine. Still bouncing and spinning in my crown, but taken over.
+
+Looking away from it, the colors return to the area, and the color of my crown becomes an even darker shade of blue.
+
+I look up at the T-rex and raise my hand toward him, bits of my mana seeping out as I hold my palm open. There, above it, a tiny orb begins to form, fragile and trembling at first. I focus, pressing it together, squeezing the raw mana tighter and tighter, feeling the weight of it folding in on itself.
+
+The bright white light inside the orb dims as pressure builds until, at last, it becomes pitch black. A perfect, compressed sphere of black mana hovering over my open hand.
+
+The T-rex opens its enormous maw in what seems like a soundless laugh before lowering his head again. This time it feels like a true bow, a silent acknowledgment of respect, during which he closes his eyes.
+
+After standing up again, he glances at Biscuit one more time and then unhurriedly leaves, every movement still feeling regal and full of dignity. Over his head, a new [Mana Crown] begins to form.
+
+(Friend,) Biscuit sends.
+
+"I agree," I answer and open up my arms for Biscuit to shrink into his puppy form and fly into them. I put my arms around him and examine the amount of mana in the crown, which has tripled. "I agree," I repeat and start running to rejoin the others.

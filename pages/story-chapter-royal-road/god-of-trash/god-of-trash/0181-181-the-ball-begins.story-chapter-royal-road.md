@@ -1,0 +1,75 @@
+---
+id: af1809f1-0160-5f76-912a-d7f18636a3f8
+page-type-slug: story-chapter-royal-road
+title: "181. The Ball Begins"
+slug: 0181-181-the-ball-begins
+partOf: god-of-trash
+position: 181
+ownLength: 2152
+unit: words
+publishedAt: 2025-09-09
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2588112/181-the-ball-begins"
+royalRoadId: "2588112"
+---
+
+Rhys yawned, then finally lowered his book. By the volume alone, the ball was well and truly going by now, not to mention the smell of delicious food and the delicate music wafting on the breeze.  He nodded at Mouse. “Shall we?”
+
+“H-huh? N-now? Just like that?” she asked, startled.
+
+Rhys blinked. “Yeah? The ball’s going. We can slide into the guests without being noticed. No need to hold out any longer.”
+
+“Oh! Oh. Yes. Right.” For some reason, a blush crept up her neck and onto her cheeks. She nodded, turning away to hide it. “Let’s get going.”
+
+He frowned at her, then shrugged. Gods only knew what she thought he’d meant. Luckily, he wasn’t the sort of uncouth youth who’d trouble a lady with anything untoward, so there was no need for Mouse to worry.
+
+Rhys glanced out from the edge of the tapestry, then, seeing that the coast was clear, stepped out boldly onto the upper walkway. There were a few couples up here, but they were busy talking or otherwise dallying, and didn’t give him too close of a look. He looked around, then smiled and reached into his sleeve, drawing out a veiled mask.
+
+Lord Estos was so particular about this ball and its security for one simple reason: this was his yearly masquerade, and he refused to compromise on mask-wearing. Instead, he’d installed his over-the-top security system, so that everyone could confidently, comfortably, wear masks and flirt with anyone they pleased, without caring overmuch for their pair’s name, surname, rank, or anything else. There’d been rumors that he might call of the ball, or rescind the masquerade, but Lord Estos refused. It had been his tradition for decades to hold a masquerade, and some make-believe ghost wasn’t going to change that.
+
+And so, Rhys wore midnight blue robes tailored to show off his new(ish) Adelise Infernon figure, with layered, voluminous sleeves, silver chains, and tiny four-pointed-star-shaped silver decorations all over it. If anyone looked too closely, they might realize that the star decorations were just broken pins he’d pulled out of the garbage and folded over to make a cheap staple, or noticed that the chains were actually the kind meant for holding small cauldrons over a fire, stripped of their impurities so that they shone despite being made of cheap metal, but Rhys didn’t think anyone else here had made their own clothes, so he wasn’t too worried. His mask covered his eyes in dark blue with silver detailing and small silver stars, with a gauzy dark blue veil covering his lower face that was itself studded with silver foil stars which he definitely hadn’t cut out of the metal linings he usually used for chip bags. It was a pretty sweet outfit, if he said so himself, and perfectly met his requirements: not so flashy that it stood out or drew the eye, but refined and attractive enough that no one would look twice or consider him out of place.
+
+Mouse wore a new rendition of the servant’s outfit. He changed it up mostly so that people wouldn’t lock on to the same servant showing up everywhere. True, Mouse’s skill probably prevented anyone from noticing, but it didn’t hurt to add a little practical effect to the magic-g-i. Plus, he liked putting Mouse in cute new outfits. It was just like making his female friend back home nice clothes, except Mouse was a little bit cuter, when she wasn’t trying her best to be invisible. It wasn’t his friend’s fault; Mouse was a mage, and mages auto-unlocked attractiveness the higher their rank climbed. Even he was hot, and that was certainly no fault of his.
+
+In any case, he’d dressed Mouse to match. He’d been tempted to put her in all silver, but given that he didn’t have silver lamé and wasn’t interested in making it, either, he’d nixed that idea. It was probably too flashy, anyways, but oh-so-tempting to have a servant who also served as an accentuating accessory. In any case, he’d gone with the same midnight blue for her outfit, with a four-pointed star brooch on her left chest connected to a drapery of chains that dangled over her right arm. For practicality’s sake, he’d constructed it so that the chains would snap off the brooch at the first sign of combat; no matter how loose he made the chains, he knew from experience that anything that draped to the elbow would snag in quick motions, so best for the brooch to break rather than the chains restrict her motion in battle. At Mouse’s request, he’d given her loose robes with a flowing skirt, which would also be easy to move in. His own robes hugged the hips but were loose at the bottom, which meant he was one kick away from having completely free hips and legs.
+
+Aside from that, there wasn’t much to write home about with Mouse’s outfit. Her mask, too, was plain and dark, but that was in line with the other servants. Honestly, even the brooch might have been a bit much for a servant’s uniform if this wasn’t a fancy-dress masquerade. Still, it was a step up from the generic austere-but-nice robes he’d had to make for her until now, so he couldn’t complain too much.
+
+Most of the servants were making themselves scarce along the edges or assisting their noble in particular. It was a bit odd that Rhys… or rather, Adelise’s, servant followed along at her elbow, always by her side. Fortunately, Mouse’s aura of invisibility was enough to mask that, and no one so much as spared her a second glance. The two of them descended the stairs and entered the party, smoothly sliding into the crowd with Mouse’s quiet assistance. Rhys eyed the buffet table, but held himself back for now. Adelise’s ghost was starting to get a reputation as a hungry ghost, and he wasn’t sure if that made a whole lot of sense for the havoc he intended on causing tonight.
+
+He scanned the crowd for white-haired white-uniformed tampon boys, but he didn’t see his adversary. He had to keep his guard up, though. Laurent had recognized him, maybe. Thought he saw Rhys, but couldn’t confirm it, at best. Given that the combined might of the Empire hadn’t yet come down on his head, he was pretty sure Laurent hadn’t reported him.
+
+What was there to report, if he thought about it? That Laurent thought he might have seen someone who had escaped from a camp? If he were Laurent, he’d want to be sure that he’d actually seen an escapee before he went around reporting things. Plus—
+
+Wait. Wait, wait, wait, hold on. He called me Rina. And Rhys. So he… thought I was Rina, maybe? But he knows Rina is Rhys. Or suspects it, anyways. And I was in boy-form, even if I fucked with my bones, so… why…
+
+A horrible possibility occurred to him, and Rhys pressed his lips together, a little scared it was true. Did Laurent, maybe, possibly… think Rina was the real one, and Rhys was the costume? Or… did he live in some mysterious world where Rina and Rhys were separate, but simply shared so many physical characteristics that it was acceptable for him to mistake one for the other? If that was the case, then maybe he didn’t even know for sure that he had to report what he’d seen, since Rina hadn’t been captured and therefore could possibly be visiting the Empire legitimately… but for some reason, had chosen to crossdress. Which was a weird thing to do, but Rhys was doing it right now, so he couldn’t exactly throw stones at any of Laurent’s possible crossdressing-related theories.
+
+His head hurt just thinking about it. Scowling, he rubbed his forehead. Damn you, Laurent. Be confused in a less confusing way.
+
+But it didn’t look like Laurent was here, so he could put that problem to the back of his mind once again and focus on the most important part of the evening.
+
+“Rhys, here,” Mouse whispered, materializing at his side with a plate of food. Rhys gratefully accepted her offering, continuing to watch over the crowd. It was still early in the evening, and while the musicians were doing their best, only a few people were dancing. Most people hung around the periphery, gossiping and chatting about the latest and greatest happenings around the Empire. He listened in, but only half-heartedly. Today, he wasn’t here to listen. He was here to make gossip, in the worst possible way.
+
+No one had paid him any attention while Mouse had made her first snack run, so when Rhys finished off his plate, he handed it back to her. “Could you get some more of those chicken bites? And I think I just saw them bring out a charcuterie platter—I’d kill for an olive and some good cheese.”
+
+Mouse nodded and took his plate.
+
+“Are you sure you don’t want anything? I feel bad making you fetch food for me,” Rhys said, looking at her. A little bad, but not bad enough to not ask her to go get food. It was better than him attracting attention by getting food himself, and he wasn’t the kind of self-sacrificing, too-polite idiot who was afraid to take advantage of an advantage freely offered.
+
+She shook her head. “This is training for me. I want to stay focused.”
+
+Rhys nodded. Made sense to him. He wasn’t about to tell anyone to stop training, least of all Mouse, who he never saw training… though now that he actually thought about that, it made a whole lot of sense. If he saw the stealth mage training, she probably wasn’t a very good stealth mage, huh?
+
+She vanished, leaving him all alone once more. Rhys stood quietly by a pillar, keeping his ears and eyes open. Most of the gossip was useless to him. Doria was having another child, which made her twenty-fourth; apparently this was considered a bit much even for a five-hundred-year-old woman who could continue to have children forever. He wasn’t quite sure, but he got the feeling that some people were jealous of her, since apparently most mages had trouble conceiving past a certain Tier. Joque was on a quest to find a mythical sword which most people considered actual myth and not merely a real and powerful artifact; this wasn’t his first time questing after false myths, and quite a few people were hoping he settled down and started trying for real power soon, so he wouldn’t fall behind the rest of his family. Most myths were considered reasonable to chase, but not this one; something about it being a mortal myth, not a real myth. Tollic was still searching for her path, like always, getting distracted by every new trend that flashed by. Her parents were worried she wouldn’t find it in time to grow to Tier 4, which would weaken her for good, but most of the mages thought that she’d either find it in time, or her parents would force her to take their path—something that would make her weaker in the long run, but wouldn’t lock her out of Tier 5 the way growing to Tier 4 without one would.
+
+Honestly, he was learning a lot about mage society just standing around listening to idle noble gossip. He felt like he maybe should’ve learned some of this by now, but eh. Better late than never. Besides, trash wasn’t well-educated. Being poorly educated was part of his path.
+
+That’s my excuse, anyways. Really, I just couldn’t be assed to sit around in boring classes. He had to admit that it was looking less like a fantastic idea and more like a personal failing these days, but what was he supposed to do? Sit through more required learning? After a lifetime of required learning, required learning, required training, and more required training? He’d rather die. No, he had died. Died for his sins, and had no desire to acquire any more training-related sins for now.
+
+The music swelled, and couples populated the dance floor. Rhys leaned against the pillar, wishing he had something to sip. Servants wandered the hall, holding trays with delicate flutes of champagne atop them. He eyed the cups longingly. I’ll have Mouse grab one of those next. It’ll be good training, grabbing something from someone who’s actively protecting it. Not that they were really ‘protecting’ the drinks, but when it came to training, the principle was the same.
+
+“Excuse me, milady. Could I have this dance?”
+
+This is what I get for sending Mouse away. Sighing internally, Rhys turned to find a tall, handsome man with his hand outstretched. He wore an elaborate costume in red, with a mask that covered most of his face, but the straight white ponytail was a dead giveaway.
+
+He froze. Oh, shit.

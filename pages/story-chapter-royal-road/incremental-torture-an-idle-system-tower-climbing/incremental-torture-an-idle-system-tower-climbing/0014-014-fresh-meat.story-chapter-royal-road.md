@@ -1,0 +1,117 @@
+---
+id: d6da099c-1877-5817-a8e3-3dceb39987df
+page-type-slug: story-chapter-royal-road
+title: "014: Fresh Meat"
+slug: 0014-014-fresh-meat
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 14
+ownLength: 2059
+unit: words
+publishedAt: 2024-04-12
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1591721/014-fresh-meat"
+royalRoadId: "1591721"
+---
+
+Evelyn was buzzing. It was a small victory, but every little counted a lot in a place like the tower. She had managed to spend every single bit of essence gathered from the 8th Floor in the Local Shop, without leaving any to spare. Perhaps it was smarter to save some in case a new reward appeared on the next floor, but she felt that leaving any uninvested was just inviting regrets in case they encountered a challenge they struggled to overcome.
+
+In the end, she had purchased another five grey stars, bringing her to a total of ten. That meant she’d shaved an entire second off the timer, thanks to her ability, Stargazing, and was receiving a whopping 10 essence every five hours, fifty-nine minutes and fifty-nine seconds. That meant in a decade or two she would've nabbed herself a completely free essence.
+
+Besides her growing tattoo collection, which now included a few grey triangles on her fingers and one on the back of her wrist, in no discernible pattern, Evelyn had snagged 3 more attribute points and another common skill crystal. They were spread evenly across power, speed and stamina. Increasing her bulk further had certainly been tempting, but she wouldn’t be able to rely on Kayla and Anthea to deal damage forever. It was almost guaranteed that the tower would throw them into some hellish solo challenges at some point in the future and she had to be ready for anything that may come her way. Plus, who didn’t like running faster and hitting harder?
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Bulwark (Common) - Take slightly less damage from physical attacks.
+
+You’ve got to be kidding me. Why is it possible to get duplicate skills? Do they even stack or have I just wasted my essence on this crap?
+
+Bulwark (Common) has fused with Bulwark (Common)! You have received the following skill:
+
+Bulwark (Uncommon) - Take less damage from physical attacks.
+
+You have reached the requirements to unlock Skill Synthesis! Access it at any time from the menu.
+
+Great. At least I didn’t lose my essence. Seriously though tower, all you changed was a single word? This better make me sturdier than steel.
+
+Last but not least, she had also managed to find herself a suitable second piece of equipment, two leather bracers with a single steel plate on the outside of the forearms, elegantly named ‘Wrathful Wristguards’. The description was sparse, as were most of the descriptions offered by the tower, simply stating that she would be stronger and sturdier when they were worn. As if she hadn’t known that when she bought them.
+
+“Alright, I’m all sorted. Are we ready for the next floor?” Evelyn asked her companions, who had both been figuring out how to spend all that essence.
+
+I doubt that either of them are investing as heavily into the grey stars as I have been. I’m kind of curious what their statuses look like, but it feels like an intrusion on their privacy if I ask to see. And it would probably mean showing them mine, which doesn’t really sound like a good idea, especially not when it comes to Kayla.
+
+The southerner in question had only purchased two things, at least that Evelyn was privy to. The rest of her essence had no doubt been invested into her attributes or new skills. The first was a pair of horrifying knuckle dusters, brassy gold in colour and with razor sharp spikes protruding from each finger. They suited her perfectly, though Evelyn hoped she would never be on the receiving end of one of Kayla’s punches, even more so than before. The second was a dark brown leather chestplate, flexible to allow for manoeuvrability but tough enough to protect her vitals.
+
+“I think I’m as ready as I’ll ever be darlin’,” she replied, looking limber as ever as she did some casual stretches, before shocking both Evelyn and Anthea by leaping nearly three metres straight into the air.
+
+“I guess you put most of your attributes into what? Power? It’s good to know this is having a real impact on our physical abilities but that is still impressive as hell, Kayla,” Evelyn said, still gawking at the woman who was now just smiling back at them and doing more stretches.
+
+“My turn, my turn!” yelled Anthea, before copying suit, not reaching the impressive heights that Kayla had but still managing to match a typical olympic high jumper, just over two metres.
+
+Evelyn didn’t particularly feel like jumping about, so she didn’t show off her own improvements, but her main advantage lay in her tankiness rather than any feats of athleticism or strength. The next floor would be her time to shine.
+
+“Looks like we’re all battle ready then. Any guesses what the tower has in store for us next?” She asked as they stepped through the portal to the 9th Floor.
+
+“I wouldn’t mind a bit more of a challenge,” said Kayla, which made both Anthea and Evelyn glare at her.
+
+“I feel like she just jinxed us,” said Anthea.
+
+“She totally jinxed us,” agreed Evelyn.
+
+Despite the looming threat of karmic retribution from the tower, the three of them didn’t hesitate to stride through, gawking at the incredible sight that awaited them on the other side of the portal. Evelyn took a few steps forward, her feet sinking into a bed of soft moss, which she promptly threw herself down onto, ignoring the fact that enemies could attack at any moment. Kayla scoffed, walking forwards to find that the ground stopped abruptly after seven metres or so, leaving nothing but a sheer drop into empty air below.
+
+“We’re on a goddamned floatin’ island,” she said.
+
+Anthea rushed over to see, almost stumbling over the edge in similar fashion to her glorious entrance back on the 5th Floor, saved only by the quick reactions of Kayla who yanked her back to stable ground by the scruff of her neck. Further marvelling at the extraordinary settings of the tower was interrupted by another portal opening right next to the one they had just come from. A scruffy kid, with spiky brown hair and a bead necklace rushed through, only to almost fall off in the same manner as Anthea, until Evelyn grabbed his arm and threw him onto the ground.
+
+❰ Multi-Challenger Instance ❱
+
+Parties with less than 5 Challengers have been merged to reach the required Challenger count
+
+70/100 Challengers have arrived on the 9th Floor
+
+Floor instance will not trigger until challenger requirements have been met
+
+A young woman charged out after, beelining for Evelyn with a furious glare in her eyes and fists raised, but before she could strike the boy threw himself between the two women and held up his hands.
+
+“Sis it’s okay, she just saved me from my own clumsiness. Look over the edge,” he said, cheeks flushing red as he tried to hide his sheepish smile.
+
+After peeking into the endless abyss they found themselves floating in, the woman calmed down a little and came back over to Evelyn, this time wearing a smile and letting out a deep sigh.
+
+“Sorry about that, I’m just a little protective of Reece after,” she waved her hands at the space around them, “All this crap. Thanks for saving his ass.”
+
+“It’s all good, Kayla literally just had to save Anthea from doing the same thing a second before you two came through. I guess we’re stuck with each other for now. I’m Evelyn and the charming southerner over there is Kayla,” Evelyn replied.
+
+“Nice to meet you all, I’m Anna and you’ve already had the pleasure of meeting Reece. I wonder what this floor’s challenge will be, considering the huge number of people who’ve been dragged in. I have a bad feeling we’re gonna have to fight each other.”
+
+Kayla was practically drooling, a twinkle in her eyes as she re-read the tower’s message. “There has to be at least one person with a bit of skill in the ninety-five others on this floor,” she muttered.
+
+Anthea and Reece had sparked up a fervent discussion thanks to their shared clumsiness breaking the ice and were busy babbling to each other while playing in the bouncy moss.
+
+“It’s nice to see them just being kids, right?” said Anna.
+
+“Totally. This place really sucks the joy out of everything,” replied Evelyn, glancing at her hand, “But I can’t help enjoying some parts of it. It’s satisfying to feel myself growing stronger with every challenge we clear.”
+
+Anna froze, eyes narrowing as she observed Evelyn in silence for a brief moment. “I’m not sure I feel the same way, but given that this seems to be our new normal, perhaps I should try to find some joy among the suffering.”
+
+Kayla noticed the tension in the air and jumped between the two women with the expression of someone severely constipated. “I’m really interested to have a lil’ spar with the two of you to see how our abilities stack up,” she said, “But instead I think it would be mighty beneficial for us to get to know what your specialties are, Anna and Reece. Why don’t we make a circle and have a chat while we wait for the challenge to fill up?”
+
+~~~
+
+It only took a few hours for the last thirty people to arrive on the 9th Floor, or at least this iteration of it. Given the massive population of Earth there had to be thousands of copies of the same floor, or perhaps the tower was advanced enough to create unique challenges for each set of people. A question for the future. After a long and thorough discussion led by Kayla, the group had figured out new roles for each of them to take on.
+
+“So, Evelyn, you’re still the vanguard, given that no one else here has the build or skills to take hits like you,” said Kayla, getting some smug satisfaction from Evelyn’s obvious annoyance at the role the tower was somewhat forcing her into, “I’ll provide close quarters backup and heavy hitting support, with Reece working from the shadows to take out anyone who sneaks up on us. Finally, Anna and Anthea will cover us with their long range skills.”
+
+I still can’t believe Anna got a magic skill first try. Unbelievable. I know this damned tower is watching me and laughing as it sends more tanking skills my way. I wouldn’t be surprised if my next common skill crystal was another damn copy of Bulwark. I nearly fell off the island when she started shooting sparks from her fingers. Maybe I need to put an attribute point into mana before I can get magic skills?
+
+Each member of the group nodded, before spreading out across the island to perform whatever small rituals or warmups they needed to get themselves ready for the approaching challenge. There were just a few people left to arrive before it would begin, and yet there was no sign of what was to come. In every direction around their little island, there was just empty air, with the occasional grey cloud drifting by.
+
+❰ Multi-Challenger Instance ❱
+
+All Challengers have arrived on the 9th Floor, instance will now trigger
+
+❰ Instance - Zone Control Warfare❱
+
+Maintain control of designated zones to accumulate points over time. At regular intervals, parties with a total number of points below the threshold will be eliminated. In order to clear the challenge, survive until the timer runs out.
+
+The moment the announcement was made, the world around them shifted, with hundreds and hundreds of floating islands of various sizes, some similar to their own and others far larger, covered in forests, deserts, ice fields and a myriad of structures. Slung between the various islands were rope bridges, gently buffeting in the wind.
+
+There was no time to stop and gawk, because along with the arrival of new scenery, a map had appeared in Evelyn’s vision, showing the location of around seventy red circles, the designated zones they would need to take and maintain control of. Just above the map was a large red ‘0’, a black ‘100’ and a timer which had begun counting down from twenty-four hours. This was going to be a hell of a day.

@@ -1,0 +1,127 @@
+---
+id: aea40711-70b5-5c56-8e15-7c0a4637747b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 848 - The boys vs the weird albino demon"
+slug: 0175-chapter-848-the-boys-vs-the-weird-albino-demon
+partOf: hell-difficulty-tutorial
+position: 175
+ownLength: 2661
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3739090/chapter-848-the-boys-vs-the-weird-albino-demon"
+royalRoadId: "3739090"
+---
+
+POV Nathaniel
+
+The light Nyssa turned into a weapon now burns all around us, the temperature rising as she further concentrates its heat. Morwag shoots ahead to charge her, followed closely by Weslin and Savant, while Brich stays back to begin setting up his drones and deploying arrays. No one seems to hesitate, they all feel her dangerous presence much more acutely than I do.
+
+Nyssa stops, and the rock in front of her explodes into a spike. She grabs it and pulls it from the ground, shaping it into a sword. Her kinetic output increases even further as she clashes against Morwag, who can’t endure the impact for longer than a second. His body is shot forward at high speed, possibly reaching sonic velocity.
+
+Weslin barely avoids colliding with the demon, boosting himself closer to Nyssa right after. His void energy forms gauntlets up to his elbows, and he attacks Nyssa’s hold on her mana with the power of the void. The stone sword she holds meets the void gauntlets, but the stone doesn’t flicker or crack. Her heart beats, and a massive amount of kinetic energy moves through her body as she circles Weslin at high speed, kicking him and sending him rolling.
+
+Once again, she lifts her stone sword to meet the Sword of Aeons, which is surely now close to or at the mid pristine level, the blade even shining with orange light as Savant surrounds it in his [Dawn]. Yet, the stone sword holds firm, causing Savant’s eyes to widen.
+
+A single wing draws itself from his back, swinging to move him away, but Nyssa closes the distance between them instantly. Her hand clutches the stone sword as she attacks, disarming him and making him drop his weapon. And as she does, it becomes obvious to me that some skill sort of is at play here.
+
+As she is about to pick up the Sword of Aeons, my [Empyrean Lance] shoots forth almost faster than I can track. Nyssa doesn't even look my way, using her stone sword to parry and deflect the attack. She almost grabs the Sword of Aeons, but it releases a burst of energy in a huge explosion of orange light before she can. She moves like she’s being boosted by a jet engine to dodge the blast.
+
+Savant steps out of that orange light, holding his Sword of Aeons once again, just as Morwag slams into the ground beside Nyssa. The demon binds her to a small area while multiple of Brich’s orbs start spinning around her, creating a field that envelops her in a sonic attack of some kind, combined with some sort of mental assault. Multiple links of the Obsidian Spine Chain, the chain weapon Morwag carries, shoot from the ground and coil around the stone sword in Nyssa’s hands.
+
+She doesn't even bother to pull the stone sword free, she simply lets go, and the sword crumbles as if it were returning to its state as a simple rock. Meanwhile, the gravity pulling at me increases as I continue to raise my mana.
+
+Even while she fights the others, Nyssa moves her hand through the air as if she were caressing it. The air itself turns into her [Weapon] and starts shooting projectiles at me.
+
+I raise a barrier to block them only when they’re moments away from stabbing into my face. I watch them crash, detecting the mana within them and analyzing the way she’s using her skill.
+
+As Nyssa takes a battle stance, she almost playfully redirects Morwag’s punch. By tripling her speed, she easily matches him, redirecting a few more attacks before slamming her palm against his chest. Though she doesn't wound him, the demon staggers back. Weslin, Savant, and Brich all move to attack her just as I slide into thought acceleration.
+
+Nyssa’s face remains calm in the middle of the chaos. She shifts her gaze to look at me with pale red eyes, carrying a sense of calm confidence.
+
+With her bare hand, she cuts through Morwag’s bindings. The blood circulating through her veins makes a joke of the mana radiation from Savant’s [Dawn]. Timing her movement with the next beat of her heart, she shoots toward me like a rocket.
+
+Mana surges through me as I reinforce my body. Her fist crashes into my open palm, and I absorb all of the kinetic energy. Both the mana and the influx of kinetic energy serve to increase my movement speed as I launch an attack towards the area where I sense her heart beating, as well as throwing that energy back at her.
+
+Nyssa parries it with the back of her hand, even redirecting it so it partially hits Weslin, who barely manages to defend himself with a burst of void. Her heart beats, and she pushes against me again.
+
+I absorb her kinetic energy once more, this time repelling it as a blast around us that she simply cuts through. My barrier and the defensive layer lining my skin are sliced through as if they aren't even there. Using her own hand as a [Weapon], she leaves a cut across my chest.
+
+I watch the wound with a distant, tired coldness. My trait, the strengthening of Empyrean Ichor, is still applying, and a few hours of rest were far from enough. But that’s just the reality of the situation. My complaints aren’t good for anything in real combat or the difficult situations I keep finding myself in.
+
+Nyssa understands this as well. There’s no way she hasn't noticed my state, yet I don't think it’s unfair in the least. She isn't complaining about facing the five of us at once, after all.
+
+I move faster than before, spinning around her using the movement of our kinetic energy as Lioren taught me and the body reinforcement I learned from Lissandra. And as I do, I weave both techniques together.
+
+[Weave - lvl 18 > Weave - lvl 19]
+
+[Weave - lvl 19 > Weave - lvl 20]
+
+Taking the kinetic energy I generate, I release it in a punch directed at her head and her brain by extension.
+
+At the same time, she gathers her own and sends it to clash against mine, resulting in an explosion that sends us both reeling backward.
+
+Using the momentum of that blast, Nyssa spins and ducks under Weslin’s attack, as well as my lance. As she moves, she touches the ground and pulls another sword from the earth, this one made from simple grass.
+
+She uses it to parry the void gauntlets. Morwag gets close as well and uses the moment to grab her hand, spinning to slam her against the ground, forging what seems to be a binding both of them to move at matching speeds. Scary feeling pulses of his primordial energy wash over her in a powerful unbinding force at the same time in an attempt to damage her. And under its influence, some of Weslin’s void in the area starts to break apart.
+
+Even while airborne, Nyssa flings her sword to parry another of my lances. Her eyes narrow as she swings the grass sword, severing the hand Morwag was using to hold her. Freed from his grasp, she lands gracefully and uses a burst of kinetic energy to shoot away, dodging my projectiles once again.
+
+In that single movement, Nyssa reaches Brich, who begins cursing as he pulls out Calvorn to block her strike. The lumoran’s speed and strength surge as he activates the many arrays inscribed in his armor, draining his mana batteries and the crystals imbued in his body. In rapid succession, he uses dozens of items all at once, activating each with an incredible speed and ease I still find difficult to grasp.
+
+Weslin reaches them as well, and both face the albino demon while Morwag picks up his severed hand to reattach it. He looks on as the hand simply falls away and refuses to reconnect to his body. Seeing this, he tosses it aside like trash. His Obsidian Spine Chain coils around him, this time manifested from his own blood as he rushes back into the fray.
+
+In a mere second, Weslin and Brich are sent flying, with identical cuts across their chests, deep, bleeding, and resisting all forms of healing. Morwag, meanwhile, endures, matching his speed to Nyssa’s with his insane body reinforcement technique.
+
+The binding he made is gone, and any further bindings he tries to create she severs in an instant. When he attempts to bind their life forces together, his body crashes to the ground in agony as he feels the weight of her Primordial Blood. Even wracked with pain, he grabs her leg, giving Savant the opening he needs to release dozens of absorbed attacks, some of which I recognize as my own.
+
+Shockwaves, heat, and debris wash through the area. As the smoke clears, Nyssa stands unwounded, having parried every attack perfectly. Morwag shows only minor damage that is already healing through his natural regeneration.
+
+I lift my hand high into the air, and a short, powerful pulse shakes the battlefield. Both Morwag and Nyssa turn toward me. Multiple air projectiles created by Nyssa crash against me, reflected by the defensive layer across my skin, and I swing my hand down.
+
+The gravity pulling on me increases, nearly breaking my body, but my reinforcement keeps me upright as I release all the mana I’ve gathered. The condensed mana of the entire area around us, combined with my own, crashes down with the weight of a mountain, concentrated exactly where Nyssa and Morwag stand.
+
+The albino demon slides out of Morwag’s grasp and swings her grass sword upward, deflecting the full power of the explosion toward Morwag. His eyes widen just as the earth around him explodes, binding to his skin to create a dense rock armor as he doubles in size, but the force buries him deep into the ground anyway.
+
+With a propulsion of kinetic energy, Nyssa reaches Brich. He lifts Calvorn to defend himself, but she feints with the grass sword. In another boost that ignores all the immense G-forces pushing against her, she moves around him and disarms him with a simple strike to the wrist. She catches Calvorn out of the air and twists, slamming it against Brich. The impact shatters his armor and sends him flying. Moving even faster than he can fall, she throws Calvorn, and it pierces Brich’s chest, pinning him to a tree half a mile away.
+
+Another burst and she disappears, just as I throw another raw mana attack at her previous position that explodes there, creating a crater with smooth, almost mirror-like edges. And I continue to increase my output.
+
+Nyssa reaches Weslin, and they clash in melee combat, with Savant joining in. Through the clouds, light pierces down, melting the ground and blinding my visual senses. She either entirely ignores the void and the orange light or simply parries the attacks with strikes of her own, which seem impossible to disrupt, cancel, or absorb.
+
+Her speed increases until none of them can match her. In a burst of bloody energy, she sends Weslin to the ground with multiple limbs simply missing.
+
+As Savant shoots into the sky to escape her reach, she catches him before he can gain distance, grabbing his feet and pulling him back down. He tanks one of her attacks, and his already massive output increases further as he drains mana from the Sword of Aeons, destroying the area around them. However, she strikes the side of his head, causing him to stumble and fight for consciousness. She breaks his leg with a kick, punches his side and neck, and finishes the assault by turning the air into another sword and stabbing it through his leg as he falls.
+
+Morwag appears behind her again, his arms open to crush her in a big bear hug, but she jumps upward. The top of her head catches him under the chin, nearly knocking him out, before a blast of kinetic energy sends him hurtling toward me. I use another blast to redirect him to the side, where he crashes through the forest.
+
+I boost myself backwards just as she boosts herself toward me. Morwag shakes off the daze and follows as we move to change the battlefield. Without Brich, Weslin, and Savant nearby, Nyssa’s kinetic output increases even further, and so does mine.
+
+I use my new skill and force my body to gradually adapt to the strain that high speed movement is causing.
+
+[Selective Adaptation - lvl 6 > Selective Adaptation - lvl 7]
+
+[Selective Adaptation - lvl 7 > Selective Adaptation - lvl 8]
+
+I sense her shifting her mana and applying it to the environment, so I move to the side just as an attack streaks past, cleaving a nearby mountain in half with a clean, jagged cut.
+
+Emerging from a nearby cave, a monster appears. A creature made of rock and flesh. It has no face and no mouth, and it’s shaped like a fleshy ball from which rocky legs of varying lengths protrude. Despite its uneven legs, it moves with terrifying speed. With every step, the ground around it melts. A domain expands from the creature, setting the area ablaze, while a sonic attack crashes against us like a constant scream.
+
+[Lithoderm - lvl ????]
+
+I reach it first, absorbing a portion of the heat from its domain to fire a concentrated beam at Nyssa. She deflects it toward Morwag, who is already closing in. Without losing a stride, the demon binds the energy to a nearby tree, redirecting the beam away.
+
+The Lithoderm doubles and then triples in size. With each expansion, the heat intensifies, and more legs sprout from its body. A halo of fire forms over its figure, releasing pulsing waves of flames that crash against us before roaring outward to incinerate everything in their path.
+
+This time, I don’t bother to absorb the heat. I let the flames wash over me to test my defensive layer. When they pass through without causing damage, I deploy my Regalia array, growing in size as armor made of mana encases me. I crash into the monster, slamming it against the mountain. The stone begins to melt under the heat it releases, as does some of the mana making up my Regalia.
+
+My senses flare with a warning. Quickly, I pull the Regalia back, shrinking down and boosting to the side just as Nyssa’s attack cleaves through the monster, severing a third of its legs. Then, like a human projectile, Morwag crashes into the beast, binding his body to the ground to amplify his velocity. He slams into it with the force of an incredibly dense, demon shaped meteor, causing the area to shatter and the mountain to collapse entirely.
+
+[You have defeated Lithoderm - lvl 481]
+
+I judge the distance from Weslin and the others to be sufficient and land on a nearby peak while Morwag climbs out of the carcass. His Obsidian Spine Chain bursts from the corpse, now forged from the rock and flesh of the dead Lithoderm. It grows to the thickness of a bus and coils around him in a grotesque display of power.
+
+Meanwhile, Nyssa swings her arm. All the ambient heat is pulled toward her as if the movement had created a massive vacuum. She quickly turns that heat into yet another sword, her [Weapon].
+
+The rock beneath her feet shatters as she digs in, preparing to launch herself at us. I push my mana through my limbs, syncing my breathing with the rhythm of my reinforcement to ensure I don't lag behind her first strike.
+
+I look at the two of them and, after a swift calculation that ultimately ends up decided on a whim, I find myself smiling. I’ve been trying to take this seriously, but it continues to feel like yet another exercise.

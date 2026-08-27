@@ -1,0 +1,145 @@
+---
+id: 2a59ba82-0d53-5cfe-be25-afcf1551d862
+page-type-slug: story-chapter-royal-road
+title: "Chapter 857 - The viewers have voted"
+slug: 0184-chapter-857-the-viewers-have-voted
+partOf: hell-difficulty-tutorial
+position: 184
+ownLength: 2424
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3797407/chapter-857-the-viewers-have-voted"
+royalRoadId: "3797407"
+---
+
+I throw multiple orbs behind us, and each one explodes as projectiles enter the field surrounding them, destroying the projectiles in the process.
+
+Vic continues to fall while occasionally pushing off the side of the skyscraper to speed up her descent as we head towards the clouds. I send my senses out towards and through them to make sure they’re not dangerous. Sensing a few signatures below them, I nod at Vic.
+
+In response, she speeds up. Each step she takes across the side of the metal and glass skyscraper sends ripples through it like a stone cast into a lake without seeming to break anything.
+
+Spinning in the air, I dodge a few more projectiles, and then we pierce the clouds. It takes a few seconds of low visibility while we’re surrounded by the clouds, and then we are on the other side. The area below is entirely different. As far as I can see, there are a myriad of floating platforms. Some of them are just small enough for one person to stand on, while others are as big as entire buildings.
+
+The air here has a yellow haze to it that many would compare to a Mexico filter, and the skyscrapers continue down where there are more clouds, but these ones have lightning cracking through them.
+
+All of this was made by people, by a company, just for these games. Just how cool is that?
+
+I move to the side, dodging more projectiles. Waving my hand, I use my eyes to take control over one of them and send it shooting off into the distance, where it causes a huge explosion. Vic is already jumping across the platforms and heading towards the next attacker, who strikes at her and then begins to panic as nothing manages to slow her down. The vyssari tries to teleport away, but sweeping over him with my gaze, I break the structure of his skill.
+
+My sister crashes into him, grabbing him by both of his hands before tearing him in half. In the middle of that movement, the vyssari disappears thanks to his bracelet, and she stands there calmly looking around.
+
+Boosting myself, I reach the platform and land beside her, tapping on her shoulder and pointing up.
+
+As I do, a man with a bear head pierces the clouds, and around him are floating multiple skyscrapers in an impressive display of [Telekinesis].
+
+Seeing the platforms, the bear man swings his hand, shooting those skyscrapers at Xixi, whom I see in the distance, surrounded by a green suit of armor that makes her as big as a building. That armor grows further in size, as does her mana output, as she breaks through the skyscrapers to head out and attack the bear man while he pulls many of the surrounding platforms towards himself to use them as projectiles.
+
+Placing my hand on my sister, I teleport both of us and then watch as the place where we stood gets blasted away by a dark blue flame. I shoot a lance at the attacker before teleporting us again. Along the way, someone tries to disrupt my teleport, but I push through, so that instead of disrupting it, they find the exit point.
+
+Just where we appear, three lynthari women who seem like they might be triplets are waiting and attack us.
+
+Victoria pushes me away, and through the place where I just stood passes a sword that one of the lynthari holds. Behind that sword, a purple line remains, and she moves to attack me again.
+
+I block her sword with the back of my hand after modifying my defensive layer against the frequency of her attack. A pulse of my kinetic energy hits her, but she tanks it without taking any wounds and switches to another fast attack as I reinforce my body and match her speed.
+
+She rushes at me as I jump back onto another platform, each of her movements trailed by a purple glow, matching the swing of her sword. She gets annoyed when I jump back again instead of meeting her, shouting something at me, but I just jump again and then come to a stop. A field expands from her, a domain to stop my teleportation, and she gathers mana to boost her movement to charge me.
+
+But before she can, she finally senses another presence whose mana signature I’d been hiding and turns around, her eyes widening as she sees Victoria right behind her with the other two lynthari nowhere to be found.
+
+The skin on Victoria's body tears as she increases her speed and slams the attacking sword away. Meanwhile, I take over the field and use its anti-teleportation effects against the lynthari, and after two exchanges, Victoria punches the lynthari woman's face, breaking something.
+
+Victoria follows it by grabbing the lynthari's hair and slamming her head against her knee, causing the bracelet to shine and the woman to disappear. Then, swinging her hand, she gets rid of the blood clinging to it.
+
+More participants begin appearing in the area. Much like me, they must have noticed that there is a ceiling at the top, so the only way forward is to go down.
+
+Out of nowhere, a ping of sound spreads through the whole of the battlefield.
+
+"The viewers have voted, and we have listened, even if it might be early for something of this scale. But no one can say we don't deliver," Melek's excited voice spreads out everywhere, audible even through the explosions.
+
+"A Champion Grade monster, a Griffin, will be summoned in three seconds and will stay for a duration of one minute! This monster selection comes courtesy of our top spectator!" he shouts.
+
+In the sky, a huge circle appears, glowing red and pulsating, its color becoming darker as it starts letting out more and more light. It almost looks divine in a way, though most of it has no real function other than visuals.
+
+"Three!" Melek starts his count.
+
+I let mana shoot out from me and place multiple teleportation markers. Vic grabs my hand and opens it, placing a finger there.
+
+"Could you stop doing that?"
+
+She entirely ignores me. "Do not forget, Natty. Thirty percent. I will take care of the rest."
+
+"Two!" Melek's voice shakes the place, and most of the attacks pause, as most of the participants don't start new fights and instead stare up towards the circle.
+
+"It was up to fifty percent," I complain.
+
+"And I said up to thirty. Okay?"
+
+"Okay," I sigh.
+
+"One!" Melek's voice thunders, and in a flash the circle disappears.
+
+In its place floats a griffin no bigger than a horse, its lion's body suspended in the air by wings. It has the head of an eagle and powerful front legs ending in massive claws.
+
+No one attacks, as everyone seems to be aware of the presence that’s appeared here. Everyone can feel it. Everyone can see the predatory way its eyes sweep the area.
+
+Its wings spread wide open and shake as if ridding itself of some lingering stiffness, and then the monster shrieks.
+
+For a moment, everyone’s skills flicker out and are canceled. Then the monster isn't there, and instead is a mile away on one of the platforms. Its head lowers, and with its beak, it pulls at something, making me realize it's the head from the body of a velnar participant.
+
+The Griffin opens its beak, swallowing the head before pulling off the leg of the guy and swallowing it as well, careful not to soil its fur or feathers.
+
+A dozen attacks rain down on the monster, who just shrieks again in annoyance, disrupting most of them and then finding another target. It disappears, flying and moving with a speed no one has a way of tracking. When it appears again, it holds another velnar in its front legs, with one of its claws stabbed into his heart.
+
+And then I realize that the man was dead before the bracelet could activate. It is possible that it has something to do with the speed, but it is also possible that the creators of the Game simply allowed it.
+
+"50 seconds remain!" Melek announces happily, not bothering to explain anything.
+
+The Griffin hears him, twisting its head as if trying to track that voice, but failing in the end. So instead, in a few seconds, it tears the rest of the body apart and looks around for more prey.
+
+Out of the thousands of people on this platform, the Griffin charges yet another velnar man, which makes me suspect that it’s targeting the biggest prey with the most meat on it.
+
+The velnar this time isn't such an easy target. When the Griffin appears again, its claws are scraping against the velnar's chest, but they haven't pierced through, as the entirety of the man's mana seems to form a defensive layer around him and reinforcement.
+
+That guy screams in pure terror mixed with desperate defiance. He slams against the Griffin, but his arms just pass through the empty air, as the monster isn't there anymore.
+
+Instead, the monster is a mile away, holding a different velnar whose heart it has pierced, and bites off his head. It entirely ignores the velnar it just surprised, as well as a barrage of attacks that weakly make impact against its fur and feathers, causing no damage. Only when a bigger projectile explodes forth and bursts into flames does the monster shriek, disrupting the attack before it reaches it. And the shriek even seems to affect the Primordial Lightning one of the participants has been launching its way, along with the flames of some sort of Fragment.
+
+During this time, none of the participants bother to fight each other. There are some rushing down to pass through the clouds into the lower level in hopes the monster won't follow. But I'm more interested in the participants who remain here and are clearly getting ready to attack the monster. There are hundreds of them.
+
+And I also continue to try to keep my body as stable as possible. All out of fear that I will be teleported out if the bracelet judges me "near dead." I still remember what happened during the last tournament, and I don't want a repeat.
+
+Even so, I'm enjoying the current situation. With each charge the Griffin makes, I learn to observe it a bit more. Amazingly, mana has nothing to do with it, all of it’s just the sheer power and dexterity of that body. The monster barely has any mana at all. Every time someone dies, I observe the movements of its body. I sense the kinetic energy its muscles produce.
+
+With all these observations, the Griffin still terrifies me. It's not only fear for myself, but for my sister next to me. And as the monster moves from participant to participant, some bracelets activate in time, and their wearers survive. It becomes very obvious that the organizers are playing favorites. But everyone already knew this would be a fucked-up Game.
+
+A dozen or more velnar die, and only when ten seconds remain does everyone move as if it were planned out.
+
+The man with the bear head uses his [Telekinesis] and halts the Griffin for the shortest moment. In the next, Xixi rains thousands of green, arrow-like projectiles down on it. A vyssari woman nearby launches a white lightning projectile, and a long-haired human man throws a spear made of green crystal that’s twice as long as he is tall.
+
+One of the remaining velnar teleports through that barrage, steps onto the Griffin’s side, and with pure rage in his eyes, grabs and pulls on a wing, tearing it off entirely.
+
+Finally, the Griffin breaks free of the telekinetic hold and shrieks, causing all the attacks to disappear and the mana around it to disperse. It waves its remaining wing and disappears, appearing in front of the bear-headed man with telekinesis, though the monster moves slower this time.
+
+The bear man slaps his hands together, causing the air to visibly ripple, and the Griffin stops again. It is about to shriek when Xixi crashes against it, and, surrounded by her green armor, holds the monster’s beak closed.
+
+As the bear man starts bleeding from his eye, another participant closes in. A handsome selari man jumps over from one of the nearby platforms, carrying a sword and shield to attack. But his target isn’t the Griffin. With a smile, he coats his weapon in oscillating mana and stabs at the bear man, who roars at him and moves to defend himself.
+
+In the next moment, the Griffin overpowers Xixi and bites off her arm just as the velnar, which tore its wing, teleports there again and punches in a second attack, but the monster charges again.
+
+The entire time, I’m watching this with the [Empyrean Lance] floating by my side, weaving layers of kinetic energy around it. Just as the Griffin reappears, I release the projectile after predicting where it would appear.
+
+My lance shoots ahead with a thunderous crack and reaches the monster in a blink, targeted at its head.
+
+And then I watch as the Griffin flings its head back, but not from getting hit. Instead, it holds the [Empyrean Lance] in its beak, and its eyes find me way too quickly, locking onto me. It bites down on the lance, crushing it, seemingly not caring about the explosion right in its face, instead, all of it gets pulled inside its beak as the monster swallows it.
+
+It then shakes, and with visible speed, its wing grows back.
+
+"Five seconds remaining!" Melek’s voice calls excitedly.
+
+The Griffin lifts its beak upward and screeches, disrupting everyone’s primordial energies, fragments, and all the mana in the area. That screech is long and drawn out, and as it hangs in the air, the monster grows in size, adding two more, smaller wings growing from its back.
+
+"Looks like someone didn't know the rule of not using anything Empyrean-related or hyper condensed mana against the Griffin!" Melek laughs out loud and then calls out even louder, "The Ruler of Envy has been generous and has donated a large sum, and by large, I mean extremely large, for us to twist the rules a little bit."
+
+The Griffin continues to stare at me, ignoring its favorite snack, the velnars in the area.
+
+"The Griffin’s summoning duration has been extended by one minute!" Melek shouts, and the Griffin disappears.

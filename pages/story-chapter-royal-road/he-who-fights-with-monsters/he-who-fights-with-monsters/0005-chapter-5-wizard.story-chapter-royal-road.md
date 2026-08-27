@@ -1,0 +1,109 @@
+---
+id: 8ebd0318-ec74-53cf-8e86-5753813cdd90
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: Wizard"
+slug: 0005-chapter-5-wizard
+partOf: he-who-fights-with-monsters
+position: 5
+ownLength: 1735
+unit: words
+ownProgress: 1735
+publishedAt: 2019-07-30
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387013/chapter-5-wizard"
+royalRoadId: "387013"
+markedReadAt: "2026-06-29T19:03:56.354Z"
+---
+
+“G’day mate,” Jason said. “Looks like you’ve had a spill. Need a hand up?”
+
+Jason offered his hand and helped the wizard-looking man to his feet. Despite a frame as slender as Jason’s own, the wizard was surprisingly heavy. Standing unsteadily of his feet, the wizard looked around at the room in disarray, then at Jason, his expression confused.
+
+“Who are you?” the wizard asked. “How did you get here?”
+
+“I’m Jason, and I have no idea. I went to bed what I think was last night and woke up in some kind of alternate universe.”
+
+The wizard narrowed his eyes as he peered at Jason.
+
+“There’s something off about your aura,” the wizard said. “You’re not human.”
+
+“That’s hurtful. Wait, auras are really a thing?”
+
+“You said something about an alternate universe?” The wizard asked.
+
+“That’s just a guess,” Jason said. “I mean, the continents are different. Could be a crazy-far, time travel thing. Do you know anything about continental drift?”
+
+The wizard’s gaze moved to the magic circle on the floor, then back at Jason.
+
+“It was you,” he said angrily. “You’re what went wrong with the summoning.”
+
+“Yeah, well, at least you did summon something. Do you have any idea how wrong your summon made my night’s sleep go? One of us has a lot more to be grouchy about than the other.”
+
+The wizard looked a combination of confused and angry, but as he was about to retort he went pale and stumbled in place.
+
+“Crap, sorry,” Jason said, moving to support him.
+
+“GET OFF ME!”
+
+The wizard staggered in the direction of a heavy writing desk. It seemed to have escaped major displacement by being the heaviest piece of furniture in the room. He almost tripped, still weak from whatever happened prior to Jason’s arrival. The wizard opened a drawer, took out a small bottle and drained the contents.
+
+“I could use a stiff drink myself, if you’re offering,” Jason said.
+
+“It was a recovery potion, fool,” the wizard said, then winced with pain. “It seems the backlash will take more than a potion to fix.”
+
+He gave Jason a smile that Jason did not like.
+
+“Since I can’t recover mana right now, I’ll have to do things the old fashioned way. I’ve never tasted an outworlder before.”
+
+“Oh no,” Jason said, shoulders slumping. “You’re one of the cannibals.”
+
+As the wizard pulled a knife out of the drawer, Jason looked around the room. There was a set of wooden double doors that were presumably an exit, but the wizard was a lot closer than Jason. Remembering how weakly the wizard staggered over to the table, Jason took a risk and tried barrelling past him. It worked, but when he pulled on the door handles they were locked. He spun around to make back for the cave, only to find the wizard lunging at him.
+
+Jason grabbed at the arm holding the knife. Wrestling back and forth, they tripped on a piece of the overturned furniture and fell to the floor, still struggling. The lamp was lost somewhere along the way and they battled in shadows, each trying to seize control of the weapon. Jason had a grip on the wizard’s arm, trying to keep the knife from digging into him. In spite of his small frame and apparent weakness after being knocked out, the wizard was much stronger than Jason. Taking a lesson from the small, aggressive monsters he had been fighting, Jason bit into the wizard’s hand.
+
+The wizard yelped in surprise more than pain, but it gave Jason a chance to seize the advantage, yanking the knife from the wizard’s grip. Still scrambling on the floor, he shoved the knife out blindly and suddenly the wizard went limp. The knife was sticking out of the wizard’s throat, but the wizard was still alive, looking at Jason with disbelieving eyes. Jason snatched the knife back and blood sprayed over Jason, getting into his eyes and mouth. Recoiling, he spat out blood as he rubbed at his eyes. By the time his panicked flailing came to a halt, the wizard’s body was still.
+
+Jason pushed himself up with bloody hands, tripped on debris and fell back over. His breath came in ragged starts as he just lay where he fell. Eventually he sat up, looking over at where the body had fallen directly into the light beam from the lamp. He pulled his legs up and hugged his knees, rocking slightly as he stared at the body.
+
+He had no sense of how long he stayed like that, but eventually he pushed himself unsteadily to his feet. He walked over to the bloody knife and picked it up.
+
+Item: [Seal Knife] (bronze rank, common)
+
+A dagger with the Vane family seal on the pommel. (weapon, tool).
+
+Jason stared at the bloody knife in his equally bloody hand. After a few moments there was an unusual tingling, slowly rising to become pain. He tightened his grip until the pain became too much and the dagger clattered to the floor.
+
+Finally, he turned to the body. Its eyes were open, face frozen in a final expression of surprise.
+
+The room was still and silent, Jason’s eyes locked on the corpse.
+
+“You did this,” he accused it. “You did this.”
+
+He didn’t sound convincing, even to himself.
+
+Jason’s mind was nothing but white noise as he stood standing over the body. When a new sound broke him out of his trance he didn’t know if it had been seconds, minutes or hours. The sound came from above, a metal ventilation pipe in the ceiling. There was a hollow, echoing timbre to the sound and it took Jason a moment to recognise it as a hissing noise. It was coming from the hole.
+
+He watched the hole, eyes unfocused and disoriented. He watched absently but his mind was still on the knife, He could feel it, even after it fell back to the floor. He could taste the hot blood spilling out of the wizard’s neck. His gaze sharpened when something came out of the hole in the ceiling. It was an enormous, pitch-black snake, head barely small enough to pass through the aperture.
+
+Jason and the snake looked at each other, frozen for a moment. Jason could see intelligence in its eyes, although he may well have been imagining it. Then the snake hissed at Jason and continued emerging from the vent shaft, body dangling down from the ceiling. Jason sprinted for the door back to the cave, snatching up the lamp as he moved.
+
+New Quest: [Time to Run]
+
+The familiar of the Builder cultist sensed its master’s death and has come to investigate.
+
+Jason almost stumbled as the window popped up, flailing wildly at it as he willed it closed. He bolted through the metal door, dropped his lamp and grabbed onto the wheeled handle, hauling back with adrenaline-fuelled strength. The rusty hinges groaned shut and Jason yanked on the wheel to latch the door. There was another wheel on the other side, but snakes didn’t have thumbs.
+
+Jason let out a breath he didn’t realise he’d been holding and reached down to pick up the lamp. He would need to go back up the well, but he’d rather dodge cannibals than fight a giant snake. The danger at least snapped him out of the daze he was left in after killing a man. He was making his way along the pathway when he heard the grinding of metal behind him and had a horrifying thought.
+
+What if monster snakes do have thumbs?
+
+Running along the pathway, forgetting his previous caution turned out to be a mistake. His sandalled foot slipped on a slick section of plank and he tumbled over. He landed hard on the walkway, the sand coating scraping on his naked torso. Lamp still clutched in a death-grip, he ignored the pain to get up and keep moving. Going as quickly as he dared, he reached the end of the walkway and ducked straight into the tunnel, dropping the lamp that would slow his crawl.
+
+His hands and knees hammered into the hard surface of the narrow passage, shoulders and head banging against the side and top. He didn’t let it slow him down, scrambling forward until he saw the dim light at the bottom of the well. Crawling out, he fumbled straight for the rungs set into the side. Hand over hand, he yanked himself upwards. Only after he was a good way up the inside of the well did he let himself pause to look down. The snake shouldn’t be able to climb up, but it shouldn’t have been able to open a door, either.
+
+He was just turning back to resume climbing when he heard the hiss from below. He saw the snake emerged from the tunnel, pausing to look up at Jason before sliding more of its body into the space at the bottom of the well. Jason watched in horror as its body started climbing up and around the outside of the well like the thread of a screw. Despite the wet and slippery surface of the well, the snake started winding its way up, as if adhered to the sides.
+
+Jason resumed his climb, more energetic than ever. The snake was fast, but its circuitous path around the sides was long. Jason clambered up as fast as he could, but panic made him rush and more than once a foot slipped before getting proper purchase. He kept pushing upwards, every hand and foothold a step closer to the outside.
+
+The final rung was set into the brickwork that sat above ground, but just as Jason’s hand gripped it, he felt something slip around his leg. The snake was as thick as Jason’s thigh and he hadn’t even seen the full length of it. The weight of it prevented him from pulling himself any higher and it only got worse as the creature wrapped around his torso.
+
+He couldn’t pull himself any further up but he clenched onto the top rung. Hands clammy and quickly tiring, his fingers threatened to give out at any moment. But in the end it wasn’t his fingers that crumbled. The mortar in the bricks gave out, the whole side of the well collapsing. Jason, the snake and a rain of masonry fell backwards into the dark.

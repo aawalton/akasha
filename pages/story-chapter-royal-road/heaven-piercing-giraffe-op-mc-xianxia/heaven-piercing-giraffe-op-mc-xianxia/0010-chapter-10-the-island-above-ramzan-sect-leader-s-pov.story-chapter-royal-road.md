@@ -1,0 +1,180 @@
+---
+id: 2e22e4f0-e786-5d89-b3c6-ddaaff1a4ce9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: The Island Above (Ramzan Sect Leader's POV)"
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 10
+ownLength: 1810
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3628988/chapter-10-the-island-above-ramzan-sect-leaders"
+royalRoadId: "3628988"
+---
+
+Chapter 10: The Island Above (Ramzan Sect Leader's POV)
+
+The clouds below Ramzan moved the way clouds moved at this altitude: slow, indifferent, carrying weather from one place to another without caring what was built above them or below them. I had watched them from this window for twenty years. They had not changed their opinion of me at that time.
+
+I turned away from the window.
+
+The room was not large. I had other rooms that were larger. The audience hall, the war chamber, the cultivation ground where the senior disciples trained under the open sky. Those rooms were for other purposes. This room was for thinking, which required less space than people assumed.
+
+An oil lamp on the table. Maps, weighted at the corners with smooth stones I had carried up from the ground level years ago for exactly this purpose. The only chair in the room. And the three men who had come when I called them.
+
+"No word from Null?"
+
+"None, sect leader." Burton was kneeling on one knee near the door, his massive frame making the posture look impractical and doing it anyway. His green hair was bound back as it always was. Burton had a face like a mountain: not handsome, not ugly, simply there, and solid, and unlikely to change its position under pressure. "His last communication was the preliminary report from the Eastern District."
+
+"Which told us very little."
+
+I exhaled through my nose.
+
+Null was good at his work. Too good, sometimes, to remember that other people needed information at predictable intervals. He had gone to Xinhaan as an ambassador and a provocation and a measuring instrument, in that order. Whatever he had measured, the measurement had not yet arrived back to me.
+
+"Father." Val came away from the window where he had been standing, weight forward and chin slightly up. His black hair had more jade in it today than yesterday. The jade was this season's expression of something he was still working out. I remembered being twenty-three. I had expressed similar things differently and with equal conviction.
+
+He flickered his hair. "Why play allies with them when we could simply attack them? They clearly did something to Null."
+
+"Sit down, Val."
+
+"There's nowhere to sit."
+
+"Then stand differently."
+
+He paused. Then, with visible effort, he recalibrated his posture into something that was less announcement and more conversation. This was progress. Small, but real.
+
+I looked at him for a moment. He was not wrong that speed had tactical value. He was wrong about the specific application, and more importantly he was wrong in the way that young men who have been right about small things begin to be wrong about large ones.
+
+I wondered sometimes whether I had been this way at his age. I suspected I had been worse.
+
+"We give them one more day."
+
+"But—"
+
+"We need allies for what comes after Xinhaan, not just for Xinhaan itself." I looked at the maps. "Xinhaan was marked on the lower portion but near the Pillar of Light. Since the Pillar of Light disappeared, the power balance shifted."
+
+"Then—"
+
+"But every island we take is watched by every island we haven't taken yet. How we take Xinhaan tells the others what kind of neighbor Ramzan is. We only take islands we really like by force." I looked at the upper part of the maps.
+
+Val's expression moved through several things and settled on the version of attentiveness that meant he was processing rather than agreeing.
+
+"So they're pawns…"
+
+"They're partners with interests we need to continue serving after this is over."
+
+"Which is another way of saying pawns."
+
+I did not argue with this. The distinction mattered and the word did not.
+
+Val looked around the room. His gaze stopped on the tallest figure present, Hugel.
+
+Hugel was standing at the far wall with his back against the stone, arms crossed, and eyes on the ceiling. When Hugel looked relaxed, he was working. When he looked alert, he was performing alertness. I had learned this years ago.
+
+"Hugel comes with me tomorrow. And Burton. The three of us should be more than enough to make the point," Val said.
+
+Hugel did not respond to having his name used. He continued leaning.
+
+Burton on the other hand nodded. "Of course, young master."
+
+I stood up. "I'm coming as well."
+
+"Sect leader," Burton was already moving forward, "your presence on the field is—"
+
+"Necessary." I walked to the center of the room, moving past him.
+
+"The risk—"
+
+"Burton." I turned and looked at him directly. "Think about what you are asking me to do. You are asking me to remain here while my son and my two most capable people descend to a dangerous situation. You are asking me to sit in this room and wait for a report." I let this settle. "I have read enough histories to know what happens to leaders who sit in their rooms while their people die one by one in situations that turned out to be more complicated than expected. The leader always stands up eventually. Usually too late, and always having lost something they could not afford to lose."
+
+Burton was quiet.
+
+"I don't intend to be that story." I patted his thick shoulder. "Tomorrow, we will go together. All of us."
+
+Val's expression became unguarded. Just for a moment. Then the practiced confidence came back, but softer than it usually landed. "Together…"
+
+"Together."
+
+Hugel pushed off from the wall. He unfolded his arms. For Hugel, this was equivalent to standing at attention.
+
+I looked at the maps one more time.
+
+"Get some rest. Tomorrow, if Null doesn't return, we will attack, and the sword of judgment will fall."
+
+***
+
+The morning light over Ramzan was thin, clean, faintly blue at the edges, the kind of light that made distant things look closer than they were and closer things look like they belonged to some other, cruder world.
+
+I stood at the island's edge with my hands loose at my sides, watching Xinhaan turn slowly beneath the drifting cloud cover far below. From this height it looked small enough to hold in one palm.
+
+"Father, it's about time." Val's voice carried behind me. "Null won't come back unless we save him."
+
+I turned.
+
+He stood with his weight forward and his chin already set for a fight that hadn't started yet, jade catching in his hair with every small movement. Burton nodded in agreement, seated astride his pegasus, the animal's wings folding and unfolding with the particular restlessness of something that could sense a battle coming and wanted to get on with it.
+
+Hugel just remained being tall. Arms loose, eyes fixed somewhere on the horizon, saying nothing, which for Hugel was as good as a battle cry.
+
+I turned back toward the open sky, toward the small green shape of Xinhaan hanging in the mist below.
+
+I shook my head slowly.
+
+"Such a pity, Xinhaan, but you bared your fangs against Ramzan."
+
+A shadow moved across the ground beneath us.
+
+It was long before it was wide. A shape unfolding out of the light the way ink unfolds in water, growing edges, growing weight, growing a presence that made the air around it feel thinner by comparison.
+
+"What is that?!" Val's hand had gone to the hilt at his hip on pure reflex.
+
+"It must be your first time seeing it, young master," Burton explained, the pegasus shifting beneath him as the shadow deepened. "But that is your father's sword of judgment. Didn't he say yesterday that the sword of judgment will fall?"
+
+"I thought it was a metaphor…" Val's voice had a hint of awe in it. It made me proud. But now was not the time for that.
+
+I took a step forward and fell.
+
+The others followed. So did the sword of judgment.
+
+The clouds rushed at my face, cold and wet and gone in an instant. I drew the sword from my back and rode it, and it caught my fall the way it always did.
+
+The others did the same, each in their own way. Val's back split open into wings of condensed flame, beating hard against the thin air. Burton's pegasus dove with its wings swept flat and its eyes narrowed. Hugel unfolded two great fans of woven leaves that caught the wind and turned his fall into something closer to gliding.
+
+Only the sword of judgment kept falling.
+
+It struck Xinhaan without ceremony. No warning shockwave, no dramatic flare of light — simply weight, arriving. The island shuddered once beneath the impact and then split, cleanly, a wall of raw iron rising out of the wound in the earth and dividing the compound into two unequal halves, a scar drawn straight through whatever Xinhaan had been that morning before it woke up.
+
+Not even a minute passed before he was there. Riding his absurd flying log: no head on the thing, just old wood and two wings of branch and leaf. Xinhaan's sect leader was here.
+
+"You dare attack my home."
+
+"You dare confine my people."
+
+We regarded each other across the freshly opened wound in the earth. Neither moved first. Somewhere below, the sound of a compound waking up to catastrophe carried faintly upward: shouting, the distant clang of a warning bell, the particular chaos of people discovering that their morning had been rewritten without their consent.
+
+"Val, Burton, go to the side behind me," I ordered.
+
+"But father, I also want to fight their sect leader!" Val protested.
+
+I glared at him. He trembled.
+
+I looked at Burton. Burton nodded, pulled Val, and guided the pegasus down behind me.
+
+I could still hear Val complaining as they descended. Low and insistent, the words blurring together. But it couldn't be helped. He was too young for the harder fights.
+
+Hugel, on the other hand, understood the setup without needing to be told, and descended into position on the side in front of me. He landed on the ground as dust rose up.
+
+Xinhaan's disciples were already there to meet him, closing in fast from three directions. A wall of wood rose to box him in from the east side. Water lashed out from the south. A blade made out of fire came down from above, aimed at where his shoulder should have been.
+
+When the dust settled, Hugel was not there to receive any of it.
+
+In his place stood a giant tree.
+
+I raised my head. I knew Hugel would be fine the moment he finished his transformation. I looked at the man before me.
+
+"Release Null or face annihilation."
+
+"He set up to face slap my daughter."
+
+I understood him. I would have done the same for Val. But I had a position to hold, as sect leader.
+
+"Annihilation it is, then."

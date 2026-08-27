@@ -1,0 +1,149 @@
+---
+id: c9c28fae-06ed-5bc3-8b56-44bba350364b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 727 - Interesting person"
+slug: 0052-chapter-727-interesting-person
+partOf: hell-difficulty-tutorial
+position: 52
+ownLength: 2177
+unit: words
+publishedAt: 2026-01-12
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2937257/chapter-727-interesting-person"
+royalRoadId: "2937257"
+---
+
+A few minutes isn’t that long, but that’s all the time I have before Magistra finds an Enforcer to challenge for her duel, ends her life out of spite, or maybe even tries to throw an attack at the Absolute, who will then kill her.
+
+Not far away, I notice Fen as well, left without his master. The soon-to-be-not-noble lady’s pet lingers there, abandoned by his owner, who clearly thought her goals were more important than him. A tiny part of me almost pities the six-legged rat. That horned, fennec-like fox. But then I hear his yapping, and I change my mind immediately. He sounds just as spoiled and bratty as before.
+
+My minion’s first minion is already eyeing him. Remembering her role as cook for the others, I hope it’s not for the reason I think it is. Still, I have a strong suspicion she’ll be asking Vega if their group can keep him soon, and so Vega won’t try to cook him. Fen might even end up joining the gang or following them from a distance in hopes of scrounging some leftovers.
+
+As amusing as it is to talk trash about that little animal, I doubt anyone in the gang could catch or hurt him anyway. Even though he is spoiled and has been slow in awakening his wild instincts, Fen is strong, especially in terms of speed. He’s already fast enough to rival some of the quickest humans back on Earth.
+
+Lily, in just these few minutes, has already run several checks of the area again. She confirms with fairly high confidence that the virus is now extinct. She also explains that just before I created the black orb, she and Savant deployed some kind of bouncing mana pulse that wiped out the virus throughout the entirety of the quarantined zone. Well, more like purified it. They spread some sort of mana-based healing radiation that targeted the virus specifically, something close to a self-replicating antivirus effect. That effect should even hold for a while longer and target anything that remains of the virus, so likely even after Magistra dies and we get kicked out without the quest giver and forfeit our rewards.
+
+In my opinion, it was worth it.
+
+“Vega,” I say, watching my disciple turn toward me as my tone hardens. “You guys need to leave this area as soon as possible. If anyone tries to stop you, tell them the Absolute told you to fuck off, right after he sent Magistra to die.”
+
+The change in my voice makes her expression sharpen. For the first time in a while, I see that look in her eyes that reminds me she has a skill called [Concentration], though she usually drops it around me.
+
+“Will do, Master,” she says seriously.
+
+I look at the rest of the group. Some of them seem confused, but Tykka, the rude dagger wielder, and the cook both seem to understand the weight behind my words.
+
+“It’s a shame we couldn’t stay longer, but maybe we’ll get another chance soon.” I reach out and ruffle my disciple’s hair, placing a mana stone into her palm. “For your training, okay? And don’t think I didn’t notice, you’ve been ignoring mana again to focus on kinetic energy. That’s fine if that’s what you want, but it’s better to be at least a little bit versatile. Think of it like giving yourself more trump cards.”
+
+Vega furrows her brow, then sighs and nods while squeezing the stone in her hand. “I will,” she replies.
+
+“Good. I don’t know when I’ll disappear, but you’re doing well, so keep it up.”
+
+“Am I really?” Vega asks, unusually shy and quiet, her voice meant only for me.
+
+I crouch down so our faces are on the same level. “I think so,” I say with a small smile. Maybe it’s my low mana reserves making me weak, or maybe it’s how close I came to dying, but I pull her into a hug and whisper words meant only for the two of us. “You know I’m glad you’re safe, right, Vega? I’m thankful to you for so much, and you feel like family to me.”
+
+Her small arms tighten around me, and for a moment, I swear I hear her sob and feel her body shake. But that can’t be true. Minions don’t cry.
+
+When she lets go, her eyes are a little wet, probably from dust in the wind, and she whispers, “It is the same for me.” In the bright light that breaks through the clouds and falls on her in that moment, her smile looks especially radiant.
+
+“Go to your minions and leave now, okay? You guys be careful. And one last thing, Vega, please don’t eat that six-legged animal.”
+
+“The dumb overgrown rat, Master?”
+
+“Yes. He’s got some fight in him, too, so if he decides to stick around, take him in. I don’t think you’ll lose anything by it.”
+
+“I’ll think about it. Later then, Master!” She chirps with one last quick hug and a bright grin as she runs back to her group.
+
+Still smiling, I watch them. I notice Tykka glancing my way, but she quickly looks elsewhere when our eyes meet.
+
+Lily steps closer. “I’ll check on them again and stay with them until we leave, just in case. Savant wanted to talk to you, so go ahead.”
+
+“Thanks again.”
+
+“If you’re really so thankful, I’ll remind you of that later,” she says with a teasing smile. “I’ll see you on the ninth floor, right? According to the schedule?”
+
+“Yes, once I’ve taken care of a few things in Beyond.”
+
+“Then later, Nat.” With that, she turns and heads back over to the kids, who she’s already tricked into liking her somehow. Maybe “tricked” isn’t the right word. She’s always been kind, that’s just how she is.
+
+Savant comes to a stop beside me, watching her as well. Then he says simply, “You should be very, very careful about her. There were already rumors about her in Beyond, and after this quest, even if it’s marked as a failure, there’ll be a lot more.”
+
+“She’s always been a good healer.”
+
+“No.” Savant shakes his head. “You really don’t get it, do you?”
+
+“Then stop being cryptic and tell me,” I answer.
+
+“What she did with that virus is something even some healers over level four hundred wouldn’t have been able to pull off. And she didn’t even realize how difficult it should be. The way she heals others, too… There are plenty of people who can instantly regenerate their own limbs, but she does it for others. Do you understand how much harder that is? You have to sync your healing mana with their body and keep the flow stable while compensating for resistance and fluctuation. That means reading the body’s entire structure in real time, and rebuilding it cell by cell. Even one wrong resonance and the tissue warps, nerves misalign, or the limb grows unevenly. But not her. She makes it look as easy as breathing.”
+
+“I see.”
+
+“No, you fucking don’t.” His tone sharpens, snapping my attention to him. I meet his eyes, caught off guard by the curse, as he continues, “Listen. There are already quite a few rumors about how she’s one of the best healers since Kindness. They get dismissed most of the time, laughed at even, but every few months, there’s another silly person or two saying the same thing.”
+
+I glance at Lily in the distance. She’s laughing as my minion swings a dagger at her because she tried to touch her horns.
+
+Savant’s voice stays steady. “It might not be a big problem during the tutorial, but it sure as hell will be after. We’re not part of any coalition, and Earth has no backers. Someone powerful might try to use her. You probably don’t know much about Kindness, but you should learn. What she could do was beyond what people believed possible. If Lily can do even a tenth of that, or if someone just thinks she can, people will burn entire planets to reach her.”
+
+“Gotcha.”
+
+“You don’t…”
+
+“I said I get it.” I cut him off. After everything that happened and after feeling so powerless in front of the Absolute, I’m sure I don’t sound as confident as usual. Still, I know I’m doing my best, and I’ll keep doing so.
+
+Before I can say anything else, Magistra dies, and I’m pulled away.
+
+As expected, I appear in Greed’s usual space. But this time she isn’t sitting behind her desk. Before I even register it, she’s in front of me, pressing her hand against my chest.
+
+Surprised by what feels like a straight-up assault, I try to push her away, but she doesn’t move an inch, and I stay frozen where I am. After a second, she releases me, and I stumble back.
+
+“At least take me out for coffee first or something,” I manage to say.
+
+“Oh, shut it,” she snaps, her tone sharp. “I just fixed the shitty job that hornless lunatic did with your thermal heart. Who does that bastard think he is, trying to tamper with something Master Lissandra’s imitation created? He ruined her handiwork without even realizing it, and I had to fix it before your heart exploded tomorrow.”
+
+“What the fuck.”
+
+“Yes. Talented as he is, there are things that lunatic’s absolutely shit at without even having the common sense to realize it.” Her voice drops lower as she mutters, “All these idiots running their mouths about my master´s ancient techniques, calling them old-school and pretending to understand even half of what she did. Dumb Fuckers. And you, you’re the same. After the Last Elf debacle, I expected something like this, but holy fuck. Did you really think that was a good idea?”
+
+“Y… yeah.”
+
+Greed slides back behind her table and, in a very unladylike way, props her legs up on it before turning her eyes back to me. “You were lucky this time, more so than you realize. A single twitch of the wrong muscle, an off tone, or a single sentence he didn’t like would have been enough to get you killed.”
+
+“I thought as much.”
+
+“No, you didn’t. Even your disciple uses her brain more than you do.”
+
+“Minions have no thoughts. This is an established fact. Scientists across the entire system have tested it repeatedly, dozens of times in fact, using scans, interviews, puzzles, mirrors, and even clipboards. Researchers attempted long term observation and found the same result every time. Empty head. Perfect silence.”
+
+“Sure.” She rolls her eyes. “Anyway, how did you like the Hornless Lunatic?”
+
+"He was an interesting person. Why do you ask? Are you planning to tell me more?"
+
+She smiles. “Maybe. I told you before, there’s information only I can give you to feed that greedy little hunger for knowledge of yours. And today, thanks to how badly your healer’s handler screwed up, I’ve got a lot more leeway than usual.”
+
+I create a manabloc chair and sit opposite her. “Please continue.”
+
+“Hornless modified your heart, hoping you’d run to your master, who’d get angry and challenge him.”
+
+“I figured as much.”
+
+“Yes, that part’s simple. But did you know that guy almost became the Ruler of Wrath? The current one barely won in the end.”
+
+My thoughts freeze. I stare at her, and she smiles, clearly pleased with my reaction. “I did not know that,” I say.
+
+“Well, now you do. Hornless is one of my candidates for a weapon against Pride, so that’s that. You probably didn’t realize it, but he’s far stronger than he lets on.”
+
+“How strong?”
+
+“You noticed his hearts?”
+
+“Yes.”
+
+“Well, he brute-forced his way into mastering spatial expansion just so he could fit more full-sized hearts into his chest.”
+
+“What?”
+
+“I think it’s partly sentimental," she says, unbothered, "Back when he was still a slave, and the planet was ruled by humans, he and his people fought for freedom. I watched it all from his beginnings as a talented child born into slavery, to when he joined the rebellion. He’s quickly grown stronger over the years, becoming a leader, gathering allies, and building his army. But it wasn’t easy for him. His sister, father, best friend, and daughter all died along the way, each powerful in their own rights, but hunted down nonetheless, because his enemies couldn’t kill him. And that man kept each of their hearts inside his chest, growing them stronger with him so his beloved could keep living that way. At its peak, the war he led was one of the bloodiest in the world’s history, spreading across multiple planets. Dozens of Champions and several Absolutes died in the process.”
+
+“Oh.”
+
+“Yes, oh,” she says. “I’m telling you because there’s a chance you’ll meet him again in the future. Words don’t matter much to him, so always make sure your intentions are true to yourself. There are a few things he hates more than people who put on a mask.”

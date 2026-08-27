@@ -1,0 +1,215 @@
+---
+id: 11b907ee-045a-582a-8343-78dcb9c45bea
+page-type-slug: story-chapter-royal-road
+title: "044: An Impossible Trial?"
+slug: 0044-044-an-impossible-trial
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 44
+ownLength: 2139
+unit: words
+publishedAt: 2024-05-22
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1646081/044-an-impossible-trial"
+royalRoadId: "1646081"
+---
+
+Rare Skill Crystal has been consumed! You have received the following skill:
+
+Mana Wielder (Rare) - Your comprehension of mana is greater than the average person. You can bend it into shapes of your making and it will respond a little quicker to your touch.
+
+Her new skill was perfect. And it also meant Evelyn was now close to one hundred percent certain that while the skill crystals were somewhat random, her own actions influenced what they would offer.
+
+After all she had been adjusting the set pathways of mana for her skills since the very moment her first point was invested in the attribute and her last battle had culminated in a grand manipulation of her favourite skill’s effects.
+
+Further than just combat utility though, Mana Wielder offered hints that her newfound ability to use the ephemeral energy could stretch to other tasks.
+
+The first thing that came to mind was crafting. So far she had only touched on the discipline - but it was a vast profession. And being able to force mana into ‘shapes of her making’ would perhaps enable her to imbue it into any gear she made in future. But that would have to wait.
+
+Right now, she wanted nothing more than to continue clearing the 16th Floor.
+
+And with her body no longer aching, Evelyn felt ready to advance. Her mana was still recovering, but she had enough to make it past the lake of lava.
+
+Before the battle with Anathalan, there had been no feasible way to use the rocky terrain to cross the lake. The catastrophic destruction their clash had wrought had changed that - Evelyn could make it halfway to the other side with some creative climbing.
+
+The imposing cliffs had been shattered and carved apart, creating well placed handholds and ledges which she could leap between. It wouldn’t be easy, though.
+
+One wrong move would send her tumbling into the fiery pit below. And while she suspected her body would hold up, it would be extremely painful.
+
+So with caution in her step, she made the leap to the first jagged stone. It hung at a slightly awkward angle but was large and with plenty of grooves to slot her fingers into. Her arms were a little strained from catching her full weight, but it wasn’t beyond her capability.
+
+The extra points in power from levelling up her class were really pulling their weight. And speaking of her class, Evelyn had completely missed a message from the tower in all the excitement of defeating the mini boss.
+
+Your class has advanced!
+
+Unyielding Warrior Lv.9 > Lv.11
+
+Your class has reached Lv.10! You have received the following rewards:
+
+Master of Combat (Rare) -  Increases proficiency in unarmed combat and with all weapons. Strikes to vital points deal 3.00x more damage. Successful consecutive blows deal more damage, scaling with the number of hits.
+
+Common Attribute Pill x3
+
+She had no clue what an attribute pill was, but she could hazard a guess. The name was self explanatory. However, she had grown used to seeing higher tiers of items on recent floors so it was a surprise to see common rewards once again.
+
+Given it was the first time seeing this particular drop it made sense though.
+
+The new skill was incredible. Essentially Pugilism on steroids, with the effect of Salvo thrown in for good measure.
+
+Perhaps I can synthesise those two with it. That might let it jump up a tier. And I doubt they would change the effects of the skill given how similar they are.
+
+Just to test herself, Evelyn let go of the rock with one arm and let it hang loose by her side. Her left arm tensed and she felt the contraction of the muscle as its load was doubled. She could hang like this for a few minutes.
+
+She opened her inventory and saw the three pills sitting there. They were next to the strange object which only had question marks for a name. Nothing had been revealed about it even now. Evelyn wondered if she would ever uncover the mystery surrounding it - or if it would end up being a wasted reward.
+
+That wasn’t her current priority, however. The pills fell into her hand when she mentally willed it. They were small, round and grey. A quick whiff offered little - they had no scent. At least not one that she was able to discern.
+
+Evelyn doubted there would be any risk involved in consuming them, so popped all three at the same time.
+
+It was a little difficult to swallow them without water, but a few strained gulps did the job. The effect was immediate.
+
+You have consumed a common attribute pill!
+
++1 Stamina
+
+You have consumed a common attribute pill!
+
++1 Mana
+
+You have consumed a common attribute pill!
+
++1 Speed
+
+Evelyn wasn’t going to complain about free attribute points - especially now she was locked out of the local shop - but was shocked none of them had given her a boost to fortitude.
+
+I wonder if the tower is feeling alright? It’s unusual for it not to hardline me into tanking skills and attributes.
+
+Regardless, now that she knew what the pills did Evelyn couldn’t help but want more. With her Mana Wielder skill she wondered if creating them herself would be possible. Her arm was starting to sting however and she resumed a two handed hold to relieve it.
+
+After shaking out the burn of lactic acid, she swung herself up to the next hold - an indent in the cliff. This time she didn’t stay for long. Her next target was a small ledge, but she didn’t find what she was looking for when she reached upwards.
+
+Her fingers gripped onto the two centimetres of rock, but when she let go of the previous hold she heard a loud crack.
+
+It came away in her hands, the stone crumbling apart between her fingers as Evelyn started to fall from the cliff. She hadn’t wanted to use her mana this early, but without it all that awaited her was a superheated magma bath.
+
+This time she had little use for fine tuning her skill. A simple, default activation of Flashfreeze Flamecharge launched her dozens of metres forward on a direct collision course for the rocky cliff face. However, she was prepared for the rough landing.
+
+Rather than rely on the cliff for support, Evelyn chose to use her usual method of advance - brute force. She smashed her fists into the rock as they collided and forged a handhold of her own making.
+
+This time the stone held firm.
+
+A few shaky breaths later, she was ready to continue.
+
+The climb was not difficult. Thanks to her physical prowess, Evelyn had an easy time clambering along the stone and made short work of the journey.
+
+After thirty minutes, she reached the edge of the rocky outcropping. For a moment she simply stood still, looking around to see if she could see any of what lay ahead. However, it was still just as difficult to see beyond the gate as before.
+
+What came next would be far more difficult than the climb. Evelyn had crossed about half of the way to the other side of the lake of magma, but there were no paths remaining.
+
+She was not unprepared, however.
+
+The reason she had been saving her mana the whole time - barring the one accident - was for the second half of the crossing. During the mini boss fight she had experimented with manipulating how her skills activated. There had been some success, but her body had become rather damaged in the process.
+
+Her spine had healed while she was unconscious, but Evelyn suspected it would take even more uses of Flashfreeze Flamecharge to cross the lava lake than it had done to bring down Anathalan the Hellbringer.
+
+Yet there was no other option. She refused to give in now and return to Haven a failure. By her own standards, at least.
+
+Evelyn didn’t have a real reference for how far the top ten on the leaderboard had made it into the 16th Floor, so it was entirely possible she had matched or beaten them already - but that wasn’t enough to satisfy her.
+
+Even if it meant destroying her body - temporarily - in the process. Her skills would ensure it healed, but there may need to be a few rest stops along the way to the end of the 16th Floor.
+
+Judging the height of the cliff, she suspected that she may need to figure out a way to chain activations of the skill with as little delay as possible. Or she would end up falling into the lake regardless.
+
+Here, she wished she had another active skill - one less intense - to practise what she was about to perform. However, Evelyn would make do.
+
+Having already discovered how to separate aspects of a skill, she focused on only channelling the flames of Flashfreeze Flamecharge to flicker around her body. After activation, they simply burned for a moment before sputtering out.
+
+Perfect.
+
+Evelyn repeated her actions, but this time she tried something new.
+
+The moment she activated the skill and the flames started to burn of their own accord, she immediately began gathering mana once more. There was a gap of around one and a half seconds between the flames dying out and her having enough mana to use the skill once again.
+
+Not quick enough.
+
+She would need to stay on this outcropping a while and practise her mana manipulation before she felt confident enough to proceed.
+
+It would be solid practice for the future, so she didn’t mind. The only issue however, was that Evelyn wasn’t sure how to go about improving her speed other than simply repeating the process over and over.
+
+Then again, when it came to brute forcing an issue, she was the expert. It was how she had cleared a large portion of the floors. Except the ones involving torture, or a little more brainpower.
+
+Or teamwork.
+
+If Kayla was here I think the two of us could have cleared this whole floor in no time at all. That would take a lot of the excitement out of the challenge, though.
+
+An hour later, Evelyn finally felt she was ready to proceed. There was still a minor delay between her skill fizzling out and her having enough mana to cast it again, but it was only a fraction of a second - not enough to cause a problem.
+
+So it was without delay that she gathered mana towards the base of her spine, now focusing on the momentum boosting effects of Flashfreeze Flamecharge. A few seconds later she felt a spike of pain in her back as the mana exploded outwards.
+
+However, she ignored it and immediately started to pull her mana towards the same spot on her back. She hoped her body would hold out long enough to cross the lake.
+
+Her first charge carried her around thirty metres forward. A little further than during the battle with Anathalan, but that was to be expected.
+
+Evelyn’s control of her own mana and her ability to pick out singular pieces of a skill had improved even in the short time since defeating the mini boss. In no small part due to her practice over the last hour.
+
+And she had not simply been idle while flying across the lava below. No - she had been gathering her mana once more. Two tenths of a second after her first charge ended and she felt her body starting to fall, Evelyn released a second burst of the skill.
+
+Yet another sharp spike of pain shot through her back and her spine groaned a little under the pressure. It was not a problem, though. She had Soul of the Unstoppable Conqueror to rely on if anything went awry.
+
+Crossing the lake of magma would be a matter of time, rather than difficulty. After her third charge fizzled out she was over halfway to the other side, with plenty of mana to spare.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.11
+
+|Attributes|
+
+Power: 18 (19)
+
+Speed: 5
+
+Stamina: 9
+
+Vitality: 26 (31)
+
+Mana: 26
+
+Fortitude: 54 (90)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Galactic Expansion (Unusual), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Salvo (Common), Mana Wielder (Rare), Master of Combat (Rare)
+
+~Active~
+
+Flashfreeze Flamecharge (Rare)
+
+~Hybrid~
+
+Soul of the Unstoppable Conqueror (Unusual)
+
+Essence: 5157『+1021784 / 5:54:24 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】

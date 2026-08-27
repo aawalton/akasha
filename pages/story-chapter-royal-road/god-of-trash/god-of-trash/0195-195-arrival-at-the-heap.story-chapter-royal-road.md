@@ -1,0 +1,127 @@
+---
+id: 2ed9f2f8-2582-5a1d-9cf6-8c30bd1c8f78
+page-type-slug: story-chapter-royal-road
+title: "195. Arrival at the Heap"
+slug: 0195-195-arrival-at-the-heap
+partOf: god-of-trash
+position: 195
+ownLength: 1941
+unit: words
+publishedAt: 2025-09-23
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2623488/195-arrival-at-the-heap"
+royalRoadId: "2623488"
+---
+
+The forest fell away before them. They paused at the edge of the treeline, all of them gathered around Mouse so that her invisibility aura encapsulated all of them. A hundred meters of nothing stretched before them, a hundred meters of empty land devoid of trees, undergrowth, or anything else. Soldiers patrolled that land, openly walking it even now. There were a hundred meters on all sides of the focal point, the object completely surrounded by empty land patrolled by Empire men. As some would call it, absolute territory, though Rhys preferred to use that term to refer to the region between a short skirt and stockings.
+
+A small stone hut stood at the center of the patrolled region. There was no glorious trash pit, as Rhys had dreamed; just a little hut, unremarkable in all ways except for its being so closely and totally patrolled. He snorted. They could’ve made it completely unnoticeable if they just hadn’t drawn attention to it, but instead, they’d gone to all this trouble, and now it stood out more than anything else around. Of course, he didn’t know the place’s history. Maybe it had once been a quiet unremarkable stone hut, and then people had repeatedly broken in, and the Empire had repeatedly counter-escalated until they grew to this point. He simply didn’t know. It wasn’t as if a place that held deeply valuable artifacts that were worthwhile even in a system that devalued them due to the magics imbued into their very selves would go ignored by thieves, looters, and opportunists. Hell, Rhys himself was an example of that.
+
+However, it did mean that they wouldn’t just be waltzing in. He’d known it from the start, but it was one thing to know it, and another to actually see that they’d have to kill a lot of people to get there.
+
+Kill. He pressed his lips together, frustrated. It would be way better if they could sneak by, but aside from Mouse herself, he was pretty sure no one else could get through such a dense covering of soldiers. Killing them wasn’t exactly a great option, either. There were too many of them. At least one of them would escape and raise the alarm. It wasn’t like with the camps, where they were scattered piecemeal, and they could either take them down one at a time, or overwhelm the groups rapidly and take them down so quickly that no one else could raise the alarm. It was an open field with at least a dozen, if not twenty or more soldiers, and scattered across a hundred-meter-radius circle centered on the hut. It just wasn’t possible for them to kill them all before one of the soldiers reported their attack, or knock them out, or anything like that. Someone would escape. Someone would raise the alarm. He needed something else. A way to put them all out at once.
+
+Put them all out at once.
+
+Rhys raised his eyebrows. Hold on. I can do this. He reached into his core and pulled out the toxic gas that had been accumulating in his core, wrapping it into a tight bundle in his palm. A marble, a billard ball, a softball, the compressed gas ball grew larger and larger, as he continued to deeply compress the gas. It became fully opaque as he continued to add more and more gas. This time, he didn’t worry about whether it was flammable or not; it was irrelevant to his plan. The ball grew to a bowling ball, and then a large balloon. Although it was opaque, swirls of green, brown, and purple-red moved around on its inside, as if they were fluid… or gas, contained within a glass ball… which was essentially what it was, except that the ‘glass ball’ was his will.
+
+He looked up to judge the size of the field and found all three girls staring at him: Mouse in confusion, Sable with the same blank eyes as ever, and Lira with open disgust. He stared back at them, then realized: he hadn’t said anything this entire time. He hadn’t even brought up the situation before them as a problem that needed solving–sure, it was pretty obvious that it was a problem that needed to be solved, but he hadn’t addressed it. From their perspective, he stood there, then suddenly a nasty-looking ball of strange material started forming on his palm in complete silence with no explanation at all.
+
+Rhys coughed. “It’s, um. How I’m going to deal with them. Don’t worry about it.”
+
+“I worry about you all the time. That’s not possible,” Lira said.
+
+Mouse bobbed her head in silence, then realized it looked as if she was agreeing with Lira and blushed, looking away.
+
+“No fighting?” Sable asked, deeply disappointed.
+
+“No… we couldn’t beat them all in time, before someone raised the alarm or got away.”
+
+Sable twisted her lips in displeasure, but didn’t say anything else. She turned away.
+
+Rhys glanced at her. “There’ll be a lot of fighting in the near future. Don’t worry.”
+
+Sable looked up, her eyes shining. She nodded.
+
+Rhys looked at Mouse. She hesitated, then met his eyes, raising her brows hesitantly.
+
+“Is there anything I need to tell you not to worry about?” he asked her.
+
+“H-huh?”
+
+Rhys sighed. “Don’t worry about it.”
+
+“Hey, there it is! You found it!” Lira cheered.
+
+“Plus… I’m not a hundred percent sure there will be no fighting.” Rhys cast his gaze over the field of guards. The criminals had mentioned Tier 3 and 4 guards, but the highest he could sense was Tier 3. Admittedly, there were a few Tier 3 guards, and he wasn’t confident he could smother them all in time, but there were no Tier 4s. Maybe the criminals were exaggerating, or hadn’t had the best gauge on the guards themselves, being too low-tier to accurately sense the guards’ tiers—Rhys was pretty sure there were people who’d swear he was a Tier 4—or maybe it was simply hearsay, but something about only seeing Tier 3 and below guards when he was warned about Tier 4s put him on edge.
+
+Or maybe I’m just on edge in general. I’ve been on edge since I met with Bast and learned about the counterattack, to be fair. He took a deep breath, then looked at Sable. “I’m going to launch this attack. Some people might get away, or might try to run. I’m not completely confident that it will kill everyone. I need you—” he lifted his gaze to encompass Mouse and Lira, “—to finish off anyone who it doesn’t kill. We can’t have anyone get away or raise the alarm, since we’re going to be here for a while. I don’t know what’s in that stone hut, but I suspect it isn’t just a storage room. I would expect traps, attacks, and surprises. We should aim to get in and out as fast as we can, but I think we’ll be in there for hours to days. Expect that, even if everything goes right, we’ll have to fight our way out against a bunch of guys who were trained to do nothing but kill people coming out of that hut.”
+
+“Understood,” Lira said, mock-saluting.
+
+“Do you understand?” Rhys looked around at all of them. “I’m telling you not to overreach. Don’t push yourself. It doesn’t matter how valuable or powerful the artifact is. If you can’t guarantee that you’ll have the energy afterwards to break free of the soldiers, don’t go after it.”
+
+Lira raised her brows. She nodded, slowly.
+
+“O-of course!” Mouse said enthusiastically, nodding.
+
+Sable harrumphed. “As if I wouldn’t be prepared to fight.”
+
+Rhys snorted under his breath. Three very different people. He took a deep breath and looked at the ball in his hands. It had continued to grow the whole time he was talking, and was now almost as big as his torso. He looked at the dark-colored gas, then at Mouse. “Mouse… crazy question.”
+
+“Y-yes?”
+
+He looked at her. “Can you extend your invisibility? Stretch it out to cover an object instead of just you?”
+
+Mouse jumped. She bit her lip and looked at the ground. “Uh…”
+
+“Sorry. Didn’t mean to put you on the spot. It’s fine if you can’t.” He looked out at the field, gauging the distance from soldier to soldier, and grimaced. Yeah, it’s not going to happen. Maybe if I pre-position Sable, Mouse, and Lira, and also attack while I run the gas attack…
+
+“I… I’ve never done it before, but I can try.”
+
+Rhys looked at her. His eyes shone. “Please?”
+
+“U-um, m-maybe? I’ll t-try my best…”
+
+He nodded. Expect nothing, hope for the best. “Sable, I need you on the opposite side. Lira…” Rhys leaned back, getting a better angle on the site. At last, he pointed. “That way. Stand that side. Civilization’s over there.”
+
+“They’ll just touch their notification amulets if this goes wrong,” Lira grumbled.
+
+“In case they go stupid in their panic. Or the amulet doesn’t work. Come on,” Rhys said, giving her a look.
+
+“Fine, fine. I’m going.” Lira waved and started to walk off.
+
+“Wait. Sable, Lira. If this goes wrong and anyone gets past you—we flee. Got it?”
+
+Lira gave him a thumbs up. Sable scrunched her nose, but gave him a curt nod.
+
+With that, the two of them vanished into the forest, and Rhys turned to Mouse. “Let’s try and stretch that invisibility of yours. See how far we can push it.”
+
+“Y-yes!”
+
+He extended the orb of gas, then paused. “Don’t… touch it. It’s probably toxic to the touch. Er. Touch me?”
+
+“Y-you?” Mouse asked, and blushed furiously.
+
+“On the arm! Touch me on the arm,” Rhys quickly clarified. “Touch me on the arm, and channel your invisibility to cover the gas. How about that?”
+
+Mouse nodded, ducking her head to hide her blush. She touched his arm, and for a moment, Rhys lost track of it. For a moment, he didn’t have a right arm, and for some reason, it didn’t even occur to him to wonder where his right arm had been. He’d never had a right arm. What a silly thing to have, two arms.
+
+And then Mouse’s focus shifted, and suddenly he had a right arm again.
+
+Holy shit. Mouse is scary. Rhys glanced at Mouse, raising his brows. She was deeply focusing on her task, and didn’t notice him reappraising her for the billionth time. If she’d meant to vanish his right arm, instead of it being an intermediate step to vanishing the gas, would he have noticed her taking it at all? Or noticed it coming back?
+
+Daily reminder not to piss Mouse off, he noted to himself. Nervously, he fed a little of the excess cursed energy in his core to the little Straw, who shivered in delight, totally unaware of the fact that Rhys had forgotten about him since he was tangentially related to Rhys’s right arm.
+
+At least I only forgot about little Straw. But if her powers kept growing, would she be able to accidentally make him forget about big details like Straw and Bast? Like his old life?
+
+Rhys suppressed a shudder. When Mouse got stronger, she was going to be terrifying. It was a good damn thing she was on his side.
+
+At last, Mouse looked at him. “I can do it. I think.”
+
+“Do what?” Rhys asked.
+
+She jumped. “The gas! Rhys, the gas!”
+
+Rhys jumped too. Right! The gas! How could I forget! He quickly got a hold on the large ball of gas once more, then shook his head.
+
+Terrifying.

@@ -1,0 +1,263 @@
+---
+id: 595d2e31-2b7c-5396-b1b7-a677b565aa33
+page-type-slug: story-chapter-royal-road
+title: "Chapter 983: Something Worse"
+slug: 0050-chapter-983-something-worse
+partOf: he-who-fights-with-monsters
+position: 50
+ownLength: 2534
+unit: words
+ownProgress: 2534
+publishedAt: 2026-02-18
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3069422/chapter-983-something-worse"
+royalRoadId: "3069422"
+markedReadAt: "2026-06-29T19:05:36.272Z"
+---
+
+The submarine’s testing room was the single most secure space on the vessel. Mishaps were best avoided while in a metal tube, deep beneath the ocean surface, and the testing room was designed to contain any that cropped up. At Elizabeth’s direction, Gerling turned the wheel on the heavy bulkhead door, then hauled it open. Inside, the room was almost entirely bare. There was only a light on the ceiling behind reinforced glass, and a cardboard box sitting on the floor.
+
+“I’m still not sure about this,” Marie said.
+
+“Gerling is expendable.” Elizabeth said. “And repairable.”
+
+“He’s also kind of a walking explosion.”
+
+“He doesn’t go off by accident.”
+
+“Oh, sweetie, men will always tell you that.”
+
+Elizabeth gave Marie a wry look, then turned back to Gerling.
+
+“Go in,” she directed. Elizabeth and Marie backed away from the door as Gerling stepped through.
+
+“We could still leave it,” Marie said. “We can seal the room back up and be done with it.”
+
+“Even if whatever is in that box destroys Gerling, I can just reconstitute his body. I’ve done so several times before.”
+
+“Alright, but when we’re talking about this later, remember that I gave you the chance to back out.”
+
+“It will be fine. Gerling, open the box.”
+
+He lifted the unsealed flap and a red tentacle immediately speared out, burying itself in his torso. He trembled, rippling like water, and fell to the ground. Elizabeth’s eyes went wide. She rushed forward to push the bulkhead door shut, then spun the wheel to seal it.
+
+“We need to leave,” she said.
+
+“What is going on?” Marie asked.
+
+“We urgently need to leave.”
+
+“Why?”
+
+“Something has co-opted my connection to Gerling.”
+
+“What does that mean?”
+
+“That we need to leave.”
+
+“Leave to where, exactly? We’re on a runaway submarine.”
+
+“Anywhere that isn’t here,” Elizabeth said, then walked over to the hull and put her fist through it. The pressurised water from outside immediately started shooting in around her arm like a water jet, shredding her clothes. The air was filled with spray and water rapidly pooled on the deck. The sound of rushing water was like thunder in the enclosed space.
+
+“I would just like to remind you,” Marie shouted over the noise.
+
+“You told me so, I know,” Elizabeth said.
+
+She grabbed the edges of the hole she’d punched through the hull and ripped it wider with gold-rank strength. Even the magically reinforced steel gave way and water smashed through the expanded hole like a hammer.
+
+***
+
+Holly and Tim peered out the windows, looking over the wing. A woman with silver hair flowing behind her was flying through the air like a superhero, matching the speed of the plane.
+
+“Look at her hair,” Tim said. “The way it trails behind her, shining in the sun. It’s like the tail of a comet. How does it not go everywhere, or get tangled up in that wind?”
+
+“She’s flying at almost the speed of sound, Tim. I’m going to guess magic.”
+
+Tim reached for his phone and raised it up to take a picture.
+
+“Put that away,” Holly told him.
+
+“Just one photo.”
+
+“Do you want her to hit you?”
+
+Tim stayed silent, his expression turning shifty.
+
+“Tim?”
+
+“I don’t think it’s wrong to be open to new experiences.”
+
+“Tim, do we need to have the talk about personal and professional behaviour again? I know that people in the magical community are expected to be quirky, but you’ve been backsliding since we returned to Australia. If you’re like this when we get back to the UN, I will fire you, do you understand?”
+
+“Yes, ma’am.”
+
+“Good.”
+
+“Do you think she’s single?”
+
+“Tim…”
+
+“We’re not back yet. And dating is hard in the magical community.”
+
+“You should never have been given this job. I hate nepotism hires.”
+
+“But you’re the one who hired me. You’re my aunt.”
+
+“We all have moments of bad judgement, Tim. How long has she been out there?”
+
+“A couple of minutes. Who do you think she is? She has to be gold rank, right? I can’t sense her aura at all.”
+
+“Her name is Sophie Wexler. She’s one of Asano’s companions.”
+
+Tim flashed her a panicked look.
+
+“You don’t think he’s here?”
+
+“I know exactly as much as you do.”
+
+“That’s probably not a good thing,” Tim admitted.
+
+The flying woman looked over at them, then swerved in closer to the plane. When it seemed like she was going to hit them, she vanished.
+
+“Apologies for the intrusion,” Sophie said, and they whirled around to find her standing behind them. “I was asked to make a delivery.”
+
+“Like, a pizza?” Tim asked. The two women turned to look at him.
+
+“He’s my nephew,” Holly said, her voice apologetic.
+
+Sophie’s shadow grew from the floor, turning into a humanoid figure.
+
+“Mrs Macrossan,” Shade said. “It is good to make your acquaintance again. Mr Asano would like to apologise for the unconventional approach, but he can’t portal blindly onto a moving plane. Would you allow him to board?”
+
+“It seems odd to ask when the two of you are already here.”
+
+“Mr Asano recognises that some find his presence imposing in a way that his associates are not. Miss Sophie is often found more welcome.”
+
+Holly looked Sophie up and down, with her wind-tousled hair and body-hugging, aerodynamics-friendly outfit.
+
+“I’m guessing that welcome is most enthusiastic from men,” Holly said.
+
+“Indeed,” Shade said, “although many women approve of her literally militant feminism.”
+
+“Sorry, what?” Tim asked.
+
+“He means I’ve beaten a lot of men to death,” Sophie said.
+
+“What does Asano want?” Holly asked, dragging the conversation back on topic.
+
+“To elucidate his plans for the Swiss Network branches,” Shade said. “As the lead authority in the United Nations on supernatural issues, he felt that you are the closest the Earth has to a neutral representative. Also, Mrs Tilden speaks highly of you.”
+
+“Fine,” Holly said. “But I thought you said he couldn’t portal here.”
+
+“He can shadow jump, using me as a destination,” Shade said. “It only has the range of a silver-rank portal, but that is sufficient for most needs.”
+
+Jason stepped out of Shade’s body. He was dressed in a sharp suit, the sweeping cut and sharp angles flamboyant and a little alien. Holly found herself wondering if it was the other world’s interpretation of an Earth business suit.
+
+“Hello again, Mrs Macrossan,” he said. “I’d like for us to have a…”
+
+He frowned, his gaze turning on Tim.
+
+“Everyone back,” he commanded. Sophie had already skipped back by the time Jason grabbed Holly’s arm and pulled her further down the plane.
+
+“What…?” Tim asked, before his eyes rolled into the back of his head. He collapsed to the floor, limbs flailing in wild spasm. Black mist engulfed Jason for a second, clearing to reveal his combat robe and void cloak.
+
+“Sophie, take her and the pilot and go. Try to stop any pieces of the plane from falling on anyone.”
+
+“Should I avoid breaking it myself?”
+
+Jason looked at Tim, thrashing on the floor. The others could now feel the power emanating from him, bloody and wild.
+
+“Wasted effort,” Jason said.
+
+“Whatever that thing is, it’s only silver rank. It might not break the plane.”
+
+“Best not to take risks. Get Mrs Macrossan and the pilot to safety.”
+
+“You need to save him!” Holly said.
+
+“I’m sorry,” Jason said softly. “He’s already dead. Sophie, go.”
+
+Sophie grabbed Holly around the waist and shot towards the cockpit, bursting through the door. A moment later, the front of the plane burst open, and the cabin lurched. Wind rushed in, whirling through the cabin as the place rocked. Jason was unperturbed, standing as if glued to the floor as he watched Tim.
+
+The unfortunate assistant was now clearly beyond help. Jason could sense the thing inside Tim, feeding on his insides to fuel rapid growth. The man’s body had swollen and bulged, his skin undulating as something writhed beneath. Finally, it erupted, blood and flesh splashing through the cabin. A pulsing red mass was left hanging in the cabin, tentacles adhering to the walls, floor and ceiling.
+
+One tentacle shot directly at Jason’s face, and he snatched it out of the air with his free hand. The end of the appendage was a bulb with a mouth full of jagged teeth that snapped at him, trying to yank itself free of his grip. The other tentacles, clamped to the plane, ripped themselves free, tearing holes in the fuselage.
+
+The tentacle in Jason’s hand melted into acid. Jason’s hand was unharmed, but the liquid burned through the floor where it landed, releasing acrid smoke that was blasted away by the wind rushing through the plane. Shadow arms reached out from Jason’s cloak, warped and angular like the branches of a haunted tree. While they grabbed the central mass of the bulbous red entity, Jason’s real hand pulled a glass box from his inventory.
+
+The container was the size of a large fish tank, bulky enough that Jason had to clutch it to his chest. He had to balance while holding it, shifting his stance to stand on the back of a chair as the plane tilted into a shuddering nosedive. The shadow arms forced the creature into the tank through the open top, its silver rank strength insufficient to resist or break out. Its fleshy mass filled the space like a fluid as Jason’s shadow arms shoved down on it, like closing an overstuffed suitcase. Its tentacles yanked at the arms and flailed at Jason, to no effect in either case. Once the main body was inside, a force barrier snapped into place, severing the tentacles and sealing it shut.
+
+The severed tentacles melted, burning more holes in the beleaguered plane and dripping over Jason. He ignored it and used his shadow arms to tear a wide hole in the fuselage, then pull himself free of the aircraft. Now freefalling, the container still in his arms, his cloak flared out in the shape of black wings against the bright blue sky. The plane continued its drastic descent, plunging towards the ground.
+
+“Shade, would you take this, please? And let Clive know we have something for him to look at.”
+
+Shade emerged from Jason’s cloak and took the container. He then started drifting in the direction of a black plane that looked like a spaceship and was approaching their location. Jason’s cloak snapped tight around his body and he shot down, propelled after the ruined aircraft by a surge of aura.
+
+He shot down, chasing not the main body of the plane but the loose debris that had shorn away. The larger part of the plane was being slowed by a powerful upwards gust, provided by Sophie. Jason used his aura to reach out and snatch up the smaller pieces, collecting them into a ball.
+
+Eventually, the remains of the aircraft were piled on the ground beside a highway, Jason and Sophie standing beside them.
+
+“I don’t know how much I missed,” Jason said. “Fortunately, it seems to be an isolated area.”
+
+“What was that thing?” Sophie asked. “Once it went active, it felt like that blood oak thing we fought. Not quite the same, though.”
+
+“I imagine they were both produced by depraved vampire experimentation.”
+
+“You think it was planted in that guy to target you?”
+
+“No, I doubt this had anything to do with me. It was too weak, and planting it in that man is an unreliable way to target me specifically. I think this is something worse than a poorly executed attempt on my life.”
+
+“What are you thinking?”
+
+“That whatever these things are, a lot of them have been quietly slipped into people. Probably some kind of parasite they didn’t detect. It could have been slipped to them in food or something, only for it to gestate inside them. I barely detected it fully grown, and that’s with perception that’s strong for gold rank.”
+
+“I didn’t sense it at all. The people on Earth would have no chance. But they have security screenings, right? Looking for shape-shifters and illusionists? Asano Village is full of that. Even Lindy was impressed.”
+
+“That’s why it was him and not her. It’s hard to compromise people in critical positions, but the people around them? Assistants, drivers, housecleaners? They get scrutiny, yes, but not with the same rigor. I saw her several times at the village, but most assistant-level staff were excluded. For security reasons. I think we just stumbled onto part of whatever larger plan the vampires have.”
+
+“Then why did it reveal itself and attack?”
+
+“I think this one just activated because I sensed its presence.”
+
+“That all sounds bad.”
+
+“Agreed. And once they know that we’ve found this one, they may accelerate whatever plans they have.”
+
+They looked up as the black jet descended, hovering in vertical-take-off-and-landing mode.
+
+“Let’s go,” he said. “We need to act on this.”
+
+“What are we going to do?”
+
+“No idea. Let’s go ask people smarter than us.”
+
+“That’s a good plan.”
+
+***
+
+The rocky shore was blasted by horizontal rain, the water flying like bullets and the wind howling like a mad beast. Marie trudged out of the water and, with a gesture, used her earth-shaping powers to create a basement shelter. She looked back at the water where Elizabeth emerged, stepping elegantly from the waves. Her soaked clothes and hair somehow draped around her like some perfect siren, ready to lure sailors to their doom. The crashing waves sent spray up behind her, framing her exquisite, predatory beauty. Marie was certain that she, by comparison, looked like a drowned weasel.
+
+“How do you do that?” Marie yelled, but the blasting wind carried off her words. She led Elizbeth into the shelter, which was a stone square with a long stone bench against one wall. There was a fireplace that lit up with a wave of Marie’s hand, despite the lack of fuel to burn. A stone slab moved over the entrance to the chamber, cutting off the wind and rain.
+
+“Not the most luxurious place I’ve stayed, but I’ll take it,” Elizabeth said.
+
+“How do you do that?” Marie asked again.
+
+“Find luxury accommodation? There are a lot of very nice and completely abandoned hotels in Europe. They need a little maintenance, but that is what minions are for.”
+
+“Speaking of which, we need to talk about Gerling, but let’s dry off first. And what I meant was, how do you walk out of a submarine crash, into a hurricane, and come out looking like you’re in an R&B music video?”
+
+“I have no idea what you’re talking about. It does seem odd, though.”
+
+“That’s why I asked.”
+
+“No, I mean we walked out into a hurricane. Where do you think we are?”
+
+“Hard to tell. Scotland, maybe?”
+
+“And how often does Scotland, or anywhere else on the North Sea, get hurricanes?”
+
+“Oh,” Marie said. “Never.”
+
+“Which means that either that submarine was nowhere near where we were told it was, or someone made a hurricane.”
+
+Suddenly the dulled roar of the storm outside stopped, as if someone had flipped a switch.

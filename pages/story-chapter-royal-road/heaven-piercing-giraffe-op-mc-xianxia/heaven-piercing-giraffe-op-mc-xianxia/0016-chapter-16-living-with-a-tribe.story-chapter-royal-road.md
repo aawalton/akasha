@@ -1,0 +1,215 @@
+---
+id: ea6620d0-49fc-509b-99d0-5c95cd0a9371
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16: Living with a Tribe"
+slug: 0016-chapter-16-living-with-a-tribe
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 16
+ownLength: 1806
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3674677/chapter-16-living-with-a-tribe"
+royalRoadId: "3674677"
+---
+
+Chapter 16: Living with a Tribe
+
+The Human Ts had opinions about Zebra's marital status.
+
+They arrived with the fire which had grown considerably since we reached the camp. It was now fed by the lion and several other contributions from the evening's hunt, crackling with warmth. The Human Ts who had appeared from various directions over the course of the past hour circled it, they looked at us, and they formed conclusions.
+
+"Lukor." One of the men settled onto a log across the fire from us. He looked at us with undisguised appreciation. "I thought you weren't the type to take a wife. But look at you. Showing off two beauties."
+
+The laughter that came from the assembled Human Ts was warm.
+
+There were several of them, and they were doing what groups did around fires, which was talk and eat and periodically direct observations at each other that produced more laughter.
+
+Zebra, across the fire, put meat in his mouth and did not respond to this.
+
+I copied the action. Not the meat, I had been offered meat twice already and had declined both times, and the plate in front of me was instead full of greens that one of the women had found for me after a brief and slightly confused conversation about dietary preferences. I put leaves in my mouth.
+
+They were not acacia leaves. They were not as good. But they were leaves.
+
+A woman settled beside me. She looked at my plate, then at the fire, and then back at me.
+
+"Are you alright, dear? There's plenty of meat tonight. A good catch deserves a good meal." She tilted her head toward the lion. "It would be a disrespect to the gods not to be thankful after a kill."
+
+I shook my head and looked at my plate. I was thankful in the general sense that I was eating, and the eating was sustaining me. I was also not the one who had killed the lion, which meant the specific obligation to the gods for that kill was not mine to carry. I was safe.
+
+White, beside me, accepted the plate the woman extended. She took meat without apparent reservation and started eating it.
+
+Donkey's hand moved toward the plate.
+
+White moved the plate up.
+
+I watched them eat and argue about meat, and continued to not understand what was good about it.
+
+The fire grew. The Human Ts moved around it. Some of them danced in the specific loose-limbed way of people who are not performing dancing so much as doing something that looks like dancing because the fire and the food and the company have made them feel like moving.
+
+Humans had interesting rituals.
+
+An old woman appeared before us, moving through the crowd. She walked with a stick and stopped in front of our group. The stick had no leaf.
+
+"Greetings. Mei has informed me that you are Lukor's new wives."
+
+"I did," Donkey confirmed, with her chin up.
+
+Zebra beside us, looked at the sky briefly and put more meat in his mouth.
+
+"I have known Lukor since he was a child." The old woman looked at us. "He has never gone well with women."
+
+White, beside me, tilted her head. "So he's gay?"
+
+The old woman did not answer this.
+
+The silence extended for a moment.
+
+"At least deny it, old hag!" Zebra retorted.
+
+"Call me Elder!" The old woman's stick moved. It connected with Zebra's head. "Ungrateful child!"
+
+I looked at the stick. I don't want to be hit by it so I'll start calling her Human E.
+
+"By the way," White adjusted her glasses, "have you found any other people? Aside from the usual tribes?"
+
+Human E's stick paused mid-hit. "Why do you ask?"
+
+"We're looking for our companions. People we were with before we arrived here."
+
+Human E lowered the stick and looked at White for a moment. Then she looked at me. Then at Fish, who was sitting slightly apart from the group in his customary state of being present without requiring acknowledgment.
+
+"Where did you come from?"
+
+White did not answer.
+
+"Child." Human E's voice was not unkind. "Stop being cautious if you want help. I'm old enough to not care about secrets, and experienced enough to guess anyway." She pointed upward with her stick, toward the sky above the firelight, toward the altitude where floating islands lived. "Up there. Yes?"
+
+White was still for a moment. Then she nodded.
+
+Human E lowered her stick. She sighed.
+
+"Then your companions are most likely dead."
+
+"Stop joking." White's voice had changed to something with an edge. "They're not that weak."
+
+"It's not about weakness." Human E looked at her steadily. "People from above rely too much with spirit energy." She gestured around the camp, at the ground, at the firelit air. "There is no such thing here. Only the tribe near the pillar of light had access to it, and even that is gone now."
+
+White was quiet.
+
+Human E looked at her a moment longer, then turned and walked back toward the fire and the dancing and the tribe, her stick finding the ground at regular intervals.
+
+The fire crackled.
+
+Zebra rose. He looked at us with an expression that was not the same as the hunter's efficient assessment from earlier.
+
+"Take the tent. I'll sleep outside."
+
+"You don't want to join us?" Donkey asked while chewing.
+
+"Don't talk while eating, and don't stay up late," he said, in the cool, unbothered voice he'd clearly been aiming for.
+
+Then Fish was suddenly beside him, and the voice went somewhere else entirely.
+
+"Gah— where did you come from?!"
+
+Fish, walking beside him now as if he'd always been there, did not answer.
+
+Zebra ignored him and walked away into the dark at the edge of the camp, where the firelight did not reach. Fish followed.
+
+I looked at White. She was sitting with her knees pulled up, arms loose around them, staring at some middle distance between the fire and the tent that had nothing in particular in it. Still quiet, the specific quiet of someone doing something with their face that they'd rather not have watched.
+
+I reached for her head.
+
+I patted it. Once, the way it had been done to me, though I was not entirely sure why that felt like the correct amount.
+
+She looked up at me. "What are you doing?"
+
+"I don't know." I withdrew my hand. "But it felt like the right thing to do."
+
+White giggled.
+
+I tilted my head.
+
+"Sorry, sorry." She wiped at the corner of her eye with the back of her wrist. "I was just thinking for a bit."
+
+Donkey butted in without looking up from her plate, still working through a piece of meat. "I thought you were worried about your parents?"
+
+"Pff." White waved the concern away with two fingers. "My father would be the last thing I worry about. Even without spirit energy, Metal cultivators can still fight, as long as we have our weapon." She pushed her glasses up the bridge of her nose. "My father always carries his sword." A small, private smile. "I'd bet he's out there right now, eating a spirit beast for dinner and complaining about the seasoning."
+
+Donkey's eyes went round and bright, the food momentarily forgotten. "Since you said 'we,' does that mean you have a Metal element too? Like Lukor?"
+
+"Yup."
+
+"Then where's your weapon?"
+
+White looked down at her own empty hands, turning one over as if checking that it was, in fact, empty.
+
+"I left it behind."
+
+"...why?"
+
+"It was heavy."
+
+Donkey laughed, loud enough that a couple of heads turned from the fire. She pointed at White. "You're funny."
+
+"Am I?" White grinned.
+
+I ignored both of them and kept eating my leaves.
+
+Donkey pointed at me next. "You're also funny."
+
+I nodded. This seemed accurate, though I was not entirely sure which part of eating leaves had qualified.
+
+She kept laughing, the kind of laugh that didn't need much reason once it had started. The fire and the food and the day finally being over all conspiring to make everything seem a little funnier than it was.
+
+The night continued around us, the tribe still dancing, the flames still climbing, until at some point, without deciding to, I fell asleep.
+
+***
+
+"I thought I told you guys to sleep inside the tent? What was the point of me sleeping outside if you're all going to sleep outside too?"
+
+A voice, apparently scolding us.
+
+I opened my eyes. "It is Zebra."
+
+"Who the hell is Zebra." He was standing over us, arms crossed, morning light doing him no favors around the eyes. "Never mind. Hurry up and wake the others. You need to work if you want to stay here."
+
+I looked around me. Donkey, still asleep, one arm flung over her face. Below me, White. She looked like she was in pain: brow tight, breathing shallow and uneven, the specific stillness of someone caught somewhere unpleasant they couldn't get out of on their own.
+
+"Heavy..." she said, still asleep.
+
+Then I remembered how she'd woken me up the morning before.
+
+I slapped her.
+
+It was effective. She was awake instantly, glaring up at me with her crimson-eyes. She had gone from unconscious to fully hostile in under a second.
+
+"Good morning?" I offered.
+
+Apparently this was not the correct response. Her hand closed around my neck and shook it, with real conviction. Good thing I had Divine Neck. My head simply went along for the ride, unbothered, which seemed to frustrate her more than if it hadn't.
+
+A few minutes later, Donkey woke up too, and immediately started laughing at both of us. "You two really are the best."
+
+"Do that again and I'll kill you." White smiled.
+
+Apparently smiles had more than one meaning.
+
+Zebra came over while she was still smiling and tossed her a spear. She caught it without looking, which seemed to surprise him slightly.
+
+"You're a Metal user, right? Metal users hunt and protect the tribe. Let's see if you're qualified."
+
+"Is this a challenge?" White adjusted her glasses with her free hand, the spear settling against her shoulder like she'd been carrying one her whole life.
+
+The Human Ts around us stopped what they were doing and drifted over, forming a loose ring, the way crowds always seemed to form the moment two people looked like they were about to do something interesting.
+
+"Lovers' quarrel already?"
+
+"I bet she found out he was cheating."
+
+"Idiot, he's got three wives now. Obviously he was cheating."
+
+"Three? I counted four."
+
+Nobody bothered lowering their voice. Zebra's face went a shade of red I hadn't seen before.
+
+I wondered, briefly and without much urgency, if he was going to be okay.

@@ -1,0 +1,139 @@
+---
+id: b6b569d1-45d6-5e1b-b391-787cdf4c9d52
+page-type-slug: story-chapter-royal-road
+title: "Chapter 793 - Four traits"
+slug: 0118-chapter-793-four-traits
+partOf: hell-difficulty-tutorial
+position: 118
+ownLength: 2415
+unit: words
+publishedAt: 2026-04-14
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3274393/chapter-793-four-traits"
+royalRoadId: "3274393"
+---
+
+After listening to their descriptions, Elian leans back and seems to muse about something. I think he is hiding it, but he appears to be very interested in my trait options.
+
+“The wording on all of your traits suggests that each one carries a significant degree of power on its own. That does make sense when I look at your body. It shows how hard you push yourself for your strength, and the System does tend to reward people like that, even if it might not be for too long.”
+
+“I hear that a lot.”
+
+“I’m not surprised. I want you to select Predatory Mana Parasite… no, wait… Mana-Absorbent Gastric Lining. It’s honestly hard to decide. I’ve met someone with an Immutable Halo Frame before, though she’s been dead for a long time, so I can speak about it. I know what it does and what it allows for. As for Empyrean Ichor, I’ve heard of it, but not firsthand, and I’ve never met anyone who had it. Still, I think I can figure out what it does. The Predatory Mana Parasite, though, interests me a great deal. Traits like that are very rare, and the last time I met someone with it, I didn’t have the chance to properly observe them. But the Mana-Absorbent Gastric Lining is something I’ve never heard of at all. It’s very curious. I’d offer you a mid-pristine item for…”
+
+In the middle of that sentence, he furrows his brows. The air dims around us slightly, and the Fragment of Eternal Fire blazes in a way that seems like it is about to die off from the pressure the Magi’s radiating. I, meanwhile, can’t feel anything.
+
+A mere moment later, everything returns to normal, and Elian says, “I have little patience for eavesdropping. I permitted an exception, as you are his handler, yet I will not suffer interference. Should I decide to trade such an item, it will be on my terms alone. I am fully aware of the System limitations governing such dealings.”
+
+There is no answer or reaction to his words, and Elian snorts and looks back at me. “Do you accept my offer?”
+
+“Nope.”
+
+"How tiresome."
+
+"That sucks," I say. "Why don’t we talk them over? You might still make me change my mind, but I would rather you didn’t lie or hide things from me."
+
+“What do you take me for, Mister Gwyn? We made a deal, and I agreed to share my knowledge with you. I regard the passing of that knowledge as a matter of great importance and always strive to do so with the utmost accuracy.”
+
+"Well, you used to be a professor, didn’t you?"
+
+"I did indeed, a long time ago. Did you meet my replica when you were on that floor?"
+
+"I was your assistant. We were the best of friends. It’s kind of weird to think that you got to teach the future Ruler of Envy."
+
+“I highly doubt that. As for young Tyven, he was always talented, ruthless, and driven by an insatiable hunger for knowledge. It carried him to the heights he reached, yet those very gaps in his character also led to his downfall. But enough of that.”
+
+"Fine. So, Mana Parasite. I don’t like it. I don’t want some asshole to live rent-free inside of my body and steal mana from me as well."
+
+"That is a terrible assessment. Parasites, after multiple strengthenings and possibly after going through evolution, can become exceedingly powerful. The wording of your offer suggests it would absorb ambient mana. That could allow you to make use of that mana once it enters your body."
+
+"Are you telling me I would have to fight that thing for mana?"
+
+“That is why it is called a parasite. It simply takes, and any advantage you gain from it is an unexpected side effect. And, to an extent, yes. Some even use their parasites for training. Hyper-condensed mana could prove highly useful, particularly for you as an Amplificator. With a few strengthenings, the condensed mana would likely exceed what your normal mana pool could hold.”
+
+I shake my head. "I can do that on my own."
+
+"It would be shameful if you weren’t able to do at least some of those things," Elian says, and I expect him to snort, but of course he doesn’t. He just says it with that confident, noble air around him.
+
+"And the increase in physical stats?" I ask quickly, before I say something rude.
+
+"At early levels of enhancement, just a simple active reinforcement by using your mana. With further strengthening, you could expect permanent changes to your body, such as more durable bones and possibly a permanent increase in physical stats. In rare cases or with the correct evolutions, the parasite could expand your mana pool."
+
+"To increase its source of food?" I ask.
+
+"Obviously."
+
+"Is this just a normal Fragment of Eternal Fire? And what is that wood?" I ask, changing the subject, and ask what I was curious about since we came here.
+
+The Magi lifts his eyebrow and glances at the flame floating over the white wood in the middle of this cupola.“It is, in fact, ten flames of the Eternal Fire, each on the stronger side, combined into a single one. The wood is mostly just there as decoration.”
+
+"Is it expensive?"
+
+"Very much so, though if you were to attempt to steal it, Mister Gwyn, you would burn to ashes."
+
+"I wouldn’t do that. And the part in the trait description about violent retaliation against anything threatening its food source?" I ask changing the subject back to the traits.
+
+“Weak at first, but with the right evolutions and sufficient strengthenings, it could kill an average Champion and absorb all of their mana in the process.”
+
+It causes me to pause in surprise. "It’s that powerful?"
+
+“Mister Gwyn, I must say, your reading comprehension is abysmal. Allow me to test you: explain your second offer and what you expect from it.”
+
+"Sure, Magi Elian. By the way, isn't 'Magi' plural? Shouldn't you be the Mage or Magus? Well, whatever, you do your own thing. With Mana Stomach..."
+
+“I will stop you here. It is common sense to use the correct names and terms when discussing matters. Such simplifications are unwise and can foster habits that may harm you later. And please, drop that tone with me. It’s not what I’m accustomed to, and I find it highly unpleasant. I afford you a certain measure of respect, and I expect the same in return.”
+
+"You just called my reading comprehension trash."
+
+“I have called it abysmal. I do not consider such an accurate description of your actions a breach of decorum.”
+
+Giving myself some time to think, I lean against the glass wall and look up through the glass cupola with the thin metal frame in between the glass panels. With my hand, I touch the fur pelt I’ve been sitting on and think about the guy in front of me. I wonder if I have ever met anyone truly normal, someone actually kind. So far, everyone’s been twisted in their own way. Liss, Ruby, Kindness, Envy, New Envy, Lycan, Hornless Heartmaxxer, and all the others.
+
+Actually, aren't Diligence and Pride the most normal ones so far? As much as I dislike that thieving Armory destroyer, the ant has acted reasonably so far with understandable objectives in mind. And from what I know about Pride, the guy’s just been chilling while every other asshole keeps trying to challenge and kill him for some reason.
+
+I look back at the Magi. And then there’s this guy. At the uppermost level of power for an Absolute. Someone I’ve heard mentioned alongside Absolutes like the Last Elf and Warden Kyralon.
+
+Indeed, so far, I remain the most normal person I know.
+
+Looking out of the window, I begin to talk. "Mana Absorbent Gastric Lining... I don’t like it very much. I could probably make thousands of mana orbs with highly compressed mana and eat them during fights to get some kind of stat boosts and healing. I can craft items, so I could eat some of those as well. There is one unhealthily patient and cowardly individual whose expression I would love to see if I were to eat his fancy sword. It might be worth picking this trait just for that. In the long run, this trait could be really good for getting myself plenty of stats. If I become a Champion and an Absolute later on, I could just start gathering loads of even more powerful items."
+
+I stop there and think to myself. With the right amount of strengthening, I could possibly eat a black mana orb, even if I had to make it weaker than usual. It’s possible that the trait wouldn't be able to digest it, given the way black mana seems to fuck with the System, but if I could, the gains would likely be quite insane. I imagine just eating an orb or two before and during a fight. I am sure I could experiment a lot with different frequencies and densities to dial in the effects I want. It could even allow me to free up one of my passive slots and get rid of thermal healing, healing by eating orbs instead.
+
+At this point, I am fairly certain that I got this trait offered thanks to Biscuit and possibly thanks to my black mana. So it must be good.
+
+“You are more or less correct,” Elian agrees. “However, while consuming mana is not exceedingly rare, the ability to consume items and materials is, particularly for a human. There are many unknowns and possibilities, and that is what piques my curiosity. As I said before, should you select this trait, I offer you a mid pristine item. I will bear the backlash from your Handler and, to a certain extent, the backlash from the System and Beyond.”
+
+"You can do that?"
+
+“To an extent, I am capable of it, though not to the same level as the Rulers. The peak of the Absolutes often dabble in such matters. For example, the Last Elf is well known for it and may even exert influence beyond some of the Rulers themselves. Now, tell me about the Empyrean Ichor. I want to hear your thought process again.”
+
+"Like a teacher testing a student."
+
+"Indeed."
+
+"Well, anyway... Empyrean Ichor. Is it correct that things with 'Empyrean' in the name usually come from a time when the System was beginning to spread?" I ask him.
+
+“From our observations, yes. The System underwent many changes as it adapted and addressed some of its loopholes, or the ways certain individuals have been known to exploit it. The system is deeply ingrained with a sense of fairness, so it strives to do so automatically. The Empyreans were a race long since extinct. At their peak, they were regarded as someone to be avoided, particularly their Thaumarch, who could easily match any of the Rulers.”
+
+"Let me guess: he also died after challenging Pride."
+
+"How curious. Where did you gain that knowledge?"
+
+"Just a hunch."
+
+“I usually look down on those, but at least this one was accurate. Yes, the Empyrean Thaumarch initiated it and died in a duel against Pride. Before that, he and his people were known for a certain mutation that had not been seen in the universe since. And before you ask, no, it was not their blood. The System is likely just using ‘Empyrean’ as the most fitting term. While the System strives for fairness, it also seeks to evolve and strengthen in a manner consistent with one’s performance or achievements, even if that means bending some of its other rules.”
+
+"So, if you were to think of the most important rule of the System, would it be: To evolve or to strengthen what’s already present?"
+
+“Perhaps to awaken and evolve whatever strength has the highest chance to grow within you. Many think in such a way. I am inclined to as well, but without hard proof, I leave room for other theories. As for the Empyreans, their mutation, which many historians would claim was linked to one of the more powerful gods of the Pantheon, partially resisted the System. This allowed their awakened mana to differ from that of others. It’s been said that the System itself created a system-wide quest with an objective to eradicate all Empyreans and every trace of their bloodline. Since then, the System occasionally borrows the name for skills, traits, passives, or items. The Warden of the Parallax Eyes, Kyralon, theorizes that the System isn’t doing so intentionally, but that as it reabsorbed what remained of the Empyreans, their mutation slightly damaged a small part of the System, allowing more Empyrean phenomena to appear.”
+
+I can't help but think that this may be some of the coolest shit I have ever heard.
+
+Out loud, I just say, "Sure then, Empyrean Ichor sounds interesting. Now on to the Immutable Halo Frame, I have a question. Do you know a skill I have..."
+
+"To gain such a trait offer, and with what I’ve observed, it’s quite possible you possess a skill like [Materialization], [Conjuration], [Ideation], or [Incarnation]. There are many others, though they are rare, and I won't spend much time on them. So you can talk mostly freely. So that you may keep the name of your skill to yourself, let’s say you have [Incarnation].”
+
+I find it curious he didn't mention [Manifestation], but I find no reason to tell him that.
+
+"Okay, so from the Immutable Halo Frame, I would mainly expect my [Incarnation] to become much, much stronger. Any of my incarnations would instantly become more powerful and stable. By using my reading comprehension and thinking of the wording of the trait offer, I really think that boost would be the best part. Not to mention the arrays, anchors, teleportation marks, and other crazy things I could do."
+
+He nods. "Accurate. I also find that part about the trait most appealing. The wording indicates absolute stability against spatial warping, and then it mentions that your abilities can be connected to it, sharing in the Frame’s stability, meaning that the skills' stability likely won't be as absolute as the protections against spatial warping, but it’d likely be very impressive nonetheless. Well, now that we have that out of the way, why don't you tell me what you've chosen?"

@@ -1,0 +1,131 @@
+---
+id: c5ad7a07-8c3b-577a-a864-88808ab7fa61
+page-type-slug: story-chapter-royal-road
+title: "136. No Curses Only Dealers"
+slug: 0136-136-no-curses-only-dealers
+partOf: god-of-trash
+position: 136
+ownLength: 2472
+unit: words
+publishedAt: 2025-07-20
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2452209/136-no-curses-only-dealers"
+royalRoadId: "2452209"
+---
+
+Jay blinked awake, lost. He looked around him, dazed. He’d been in the safehouse, so why was he back in the tunnels? Had he blacked out again? Another digging accident, maybe? He started to stand up. “That fuckin’ overgrown rat—”
+
+A gentle but firm hand pressed him back to the ground. Jay fought against it, but he might as well have fought a steel beam. He jerked back, suddenly far more awake. His vision cleared, revealing that it wasn’t Nant before him, but some kid he’d never seen before with a maniacal grin on his face. The kid smelled a bit funny, but more than that, he exuded an indescribably terrifying aura, something toxic and oppressive and chilling like a curse, that left Jay feeling as though a slimy, filthy piece of trash held his shoulder in place, rather than a clean hand.
+
+His eyes jumped over the boy’s shoulder, to a girl who looked like death itself, clad in the bones of what were doubtlessly her victims. He swallowed. This was no good. No good at all. These two were scarier than anything Jano had in her arsenal… no, they might even be scarier than the boss.
+
+A timid cough came from empty air to the other side of the boy, and he jerked, startling as he realized a second girl was here as well, a tiny, mousy thing that had somehow slipped his notice, despite standing right in front of him. She cringed where she stood, as if she wanted nothing more than to vanish, but he recognized that empty aura around her. That belonged to only the most successful assassins, who learned how to entirely cancel their presence. Of the three people before him, she might be the most terrifying of all.
+
+Jay swallowed yet again. I’m fucked.
+
+Rhys let the man stew in silence for a few beats, then finally opened his mouth. “Good morning, sunshine! If you cooperate, we won’t have to—”
+
+“B-boss, I’ll take you directly to the boss!” the man burst out without hesitating.
+
+Rhys blinked, taken aback. He looked at the man, then over his shoulder at the girls. Were the three of them really so intimidating…? Sable, sure, but him and Mouse?
+
+A moment later, he cleared his throat. No point looking a gift horse in the mouth. Sure, this was probably a trap of some kind, but this man was no higher than Tier 1. He posed no threat to anyone here. His boss was probably the only one who could put up a fight against the three of them, and honestly? Rhys relished the challenge. Still beaming, he thumped the man on the shoulder. “Up and at ‘em! We’ve got a long night ahead of us, and a boss to visit!”
+
+The man jumped to his feet. He looked around, then spotted the other man lying nearby. Without a word, he ran over and slung the man over his shoulders, then gestured for Rhys and his party to follow. “Right this way, sir and ma’ams.”
+
+Rhys didn’t need the man to lead him down the one-way, straight tunnel, but he didn’t stop the man. If he wanted to lead, then Rhys would follow. He kept his hand on a weapon in case the man tried some kind of funny business, ready to attack or defend. Behind him, Mouse scuttled silently, and Sable strutted, her bone armor quietly clattering as it swayed. The man started to jog, and they all took off, easily keeping up with them. If he’d had any thoughts of escaping, they were banished when he peered over his shoulder and saw them following him, not a drop of sweat on their foreheads.
+
+The tunnel came to an end, and they stepped out into the forest. Pale moonlight silvered the leaves and lit the grasses and sleeping flowers in thin white light. The man jogged on, heading confidently into the forest. Now that there were directions they could go, and alternate routes to take, Rhys actively swept his mana senses all around him as he went, searching for anything and everything. A few times, he reached out and absorbed some cache of trash as they passed it, the remains of someone’s picnic or the scraps of a carcass from a hunt.
+
+Ahead, the man took a sharp left turn. Rhys’s senses alerted, and he jumped forward and grabbed the man by the shoulder. “Not that way, friend. Unless you intend to fall into a pit?”
+
+He could sense it, just up ahead. The pit was full of blades, each of them dripping with powerful poison, enough to badly injure, if not harm, a Tier 2 mage. The pit wasn’t trash in any way, but the body in the bottom of it was, and the poison was full of impurities, making it easy for Rhys to sense.
+
+The man paled, and sweat ran even faster down his face. “R-right, I… th-there’s another way…”
+
+“Wonderful. I’d hate to lose such a useful guide,” Rhys said, and left it at that.
+
+The man nodded aggressively and ran on.
+
+Rhys turned toward the pit as they passed it, lifting his hand, palm-up, toward it. The impurities in the poison and the body in the bottom alike lifted free of their holds and flowed toward him, the body breaking down as it flew into him.
+
+The man glanced back and caught a glimpse of the poison vanishing into Rhys, and swallowed visibly. He glanced ahead of them, then gestured for Rhys to follow him to the right. “There’s, ah, there’s a nest of poison badgers straight ahead. We’re better off going around. Wouldn’t want to rile some Impure Beasts.”
+
+Rhys lifted his hand. “Repeat that?”
+
+“There’s—there’s a trap ahead! Please, I’m sorry—”
+
+“No, no. The part about impure…?”
+
+“Im…impure Beasts?” the man asked.
+
+“I thought they were a world-shattering problem. There’s some right here?” Rhys asked, his eyes starting to glitter.
+
+“There’s, well, they’re just like mages. They can become world-shattering problems, but they start as normal beasts with some curse power and impurities,” the man quickly explained, starting to sweat. “They really are on the straight-ahead path… I’m not trying to double-cross you, I swear, please believe me!”
+
+“Excellent.” Rhys set off down the straight-ahead path.
+
+The dealer shuddered. “Sir! I’m, I’m really telling the truth! Once those things bite, they never let go, and the venom in their fangs is enough to seriously injure a Tier 3 mage like yourself! You have to—”
+
+A hand touched his shoulder. The man jumped, startled. Mouse adjusted her glasses and cleared her throat. “He’s an impurities maniac. Just… lead us there.”
+
+“Lead you… to the badgers?”
+
+Mouse nodded.
+
+The man looked at Rhys, then at Mouse, then at Sable, who stood there with a bored expression on her face and cleaned her claws. At last, with a hearty final swallow, he nodded and led them back on the first path he’d been using, toward the poison badgers. They didn’t have far to go before the man stopped. “Their den is just ahead. Any further, and you’ll be attacked.”
+
+Rhys didn’t need to be told; he could already sense a powerful source of impurities emanating from up ahead. Mixed with the impurities was some kind of… anger, vicious and endless. He gestured for the others to stay back and progressed alone. His first encounter with Impure Beasts… he couldn’t help but be excited.
+
+Two pinpricks of red light appeared in the darkness. With a low bark-roar, it rushed out of the ground at Rhys, fangs gleaming white as it darted toward his ankles.
+
+Rhys reached out his hand. He could just absorb the impurities, but he wanted to try something else. This badger was absolutely laden with impurities, filthy with them. Since that was the case, could he, maybe… manipulate them?
+
+He clenched his hand, exerting all his will toward the badger. The impurities within its body froze all at once, and it toppled over, likewise frozen as all the taint laced through its muscles, bones, and blood refused to progress toward Rhys. At the same time, a huge quantity of mana rushed out of his core to fuel his usage of Trash Manipulation. Rhys’s hand shook, and his face went pale. This badger was no joke. It was only Tier 1, but holding at Tier 1 Impure Beast still with his Trash Manipulation took all he had. He didn’t want to think about Tier 2 Impure Beasts, or beasts on his tier or higher. A technique like this simply wouldn’t be possible.
+
+With the badger frozen, Rhys approached cautiously. If the impurities were a part of it, then he wanted to respect that, the way he respected Sable’s curse energy. But if it was infected with impurities, if impurities had been foisted upon it, then there was nothing to hesitate over.
+
+The badger laid under the moonlight, panting heavily. Its face wrinkled in pain, and its whole body was riddled with tainted streaks of discolored fur, its exposed skin strewn with raised, purple veins. It snarled as he approached, struggling against his hold, and Rhys’s mana took another hit. He took a deep breath, then gestured, calling the impurities out of the badger. The animal was clearly unwell and in pain. He could at least relieve its pain.
+
+The badger’s breathing evened. Without any impurities in its body, Rhys could no longer restrain it, but neither did he have to. The badger rose to its feet and shook its head, confused. It looked at Rhys and gave him a grumpy glare, then begrudgingly nodded its head and went to wander off.
+
+“Hey, not so fast. Come on, I saved your life. Don’t you want to repay me?” Rhys pointed out.
+
+The badger growled, clearly unwilling. Rhys sighed and was about to turn away, when a second pair of pinpricks glittered in the gloom. Almost faster than his eyes could catch, a second badger leaped out of the den—and lunged for the other badger, not Rhys.
+
+Rhys widened his eyes. It was trying to reinfect the badger he’d healed, over attacking Rhys? What a strange reaction. And on top of that, it, too, looked to be in pain… so why?
+
+There was no time for thought or questions. The badger closed in. Rhys tossed out a large plank, summoning its full wall self into reality with Trash Intent. The second badger slammed into his hastily-summoned wall and fell back, stunned. Rhys gestured, calling its impurities into him as well.
+
+He hadn’t noticed it with the first badger—or rather, he’d been losing so much mana keeping it restrained that it hadn’t been a huge addition—but drawing the impurities out of the badger took a great deal of mana as well. He still gained more from the impurities than he lost in mana, but it was a close call for once, instead of an easy trade. It was as if the impurities were sticky, or wanted to stay in the badger. They didn’t want to leave.
+
+The second badger’s eyes lost their red sheen, and it slowed, looking around. It nodded at Rhys in gratitude, then, seeing the other badger wander away without doing anything, cuffed it and pointed at Rhys. The first badger grunted in annoyance, but reluctantly nodded.
+
+“Glad to help,” Rhys said. It looked like they didn’t want to help, so there was nothing he could do, even though the farm really could use some new hands, especially with the potential for many new farms in the near future. He sighed. Oh, well. It’s not like every creature I help is going to be grateful. I should be happy to have the impurities, not looking for more.
+
+The second badger turned to Rhys and barked. It started to walk toward its den, then turned around, looking over its shoulder to make sure Rhys was still there.
+
+Rhys nodded. “I’ll wait.”
+
+The badger turned around and ran into its den. A moment later, it emerged, carrying a baby badger, its eyes shut, its jaws toothless… that writhed and raged in its jaws, its tiny body laced with the same veins the adult badgers had sported moments ago.
+
+Rhys stared. “Your children, too…?” He grimaced. It made sense. Impurities were things that could be bioaccumulators in his world—in other words, poisons that were spread through the womb and to the children. It was horrific to see an infant inflicted by impurities like this, but then, it did make sense. At the same time, he couldn’t help but wonder: did this mean there were Impure Beasts who had never known what it was to be clean? These badgers had understood that they were cleaned, but if there were Impure beasts who were born into it the way Sable had been, then in that case, the impurities would be an essential part of them. He couldn’t consider all Impure Beasts the same.
+
+He tucked the thought to the back of his mind and bent, absorbing the impurities from the first infant. The infant stopped writhing and relaxed, instantly falling into a quiet, sound sleep. The mother badger picked it up by the scruff again and carried it back into her den, dragging out a second pup, then a third, then a fourth. By the second, her guard toward Rhys was lowered, and by the fourth, she barely bothered to pick up the third and retreat with it first.
+
+When the last infant was cured, she rounded on the male badger, who was still wandering away. She chased after him and cuffed him with her claws, then bit the back of his neck, scruffed him, and dragged him back to Rhys. Dropping the male badger at his feet, she looked Rhys in the eye and rumbled, smacking the male badger, then nodding at Rhys.
+
+Rhys laughed. “You’re sending him with me? How about it? Are you willing to come?”
+
+The male badger grumbled, but lumbered over to Rhys’s side and stood beside him. The female badger barked, looking at the den, then Rhys.
+
+“You’ll come once the kids are older? I understand. Can you trace my scent?”
+
+She bounced in place, indicating a yes.
+
+“Good. I have some farms that need some powerful overseers,” Rhys said. He looked over his shoulder at the others. “Come on, they’re safe now.”
+
+Mouse nodded, and followed after him. Sable scoffed and walked on. The dealer stared in shock, then shook his head and ran to the front of the line. “Yes, yes, this way, sir! Is there anything else you want to see on the way?”
+
+Rhys snorted. Was he really that intimidating? He waved his hand. “That’s enough. Let’s head straight to your boss.”
+
+“Of course! Right away, sir!” The man rushed on, glancing back to make sure the others were following.

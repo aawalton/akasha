@@ -1,0 +1,171 @@
+---
+id: 7618a44a-d5f9-5426-9725-76bf048411fa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25 - What Use Is A Shield That Can't Defend"
+slug: 0025-chapter-25-what-use-is-a-shield-that-can-t-defend
+partOf: hell-horizon-healer
+position: 25
+ownLength: 1877
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3595445/chapter-25-what-use-is-a-shield-that-cant-defend"
+royalRoadId: "3595445"
+---
+
+The anchor flew through the air. Arthur didn’t want to block it, and instead threw his body to the side, the high speed weapon tearing right for Glenn.
+
+Jake yanked Glenn to the side as the anchor swished through the air, embedding into the wall behind them with an enormous crash.
+
+Then, the Skulker pulled the chain attached to the anchor, almost getting a hold of Susan in the process, and returned it.
+
+“Holy shit!” Glenn shouted.
+
+“Arthur,” Jake said, his voice sharp. “Why did you dodge?”
+
+“Just because I’ve got a shield doesn’t mean I want to take a hit like that!”
+
+Jake tightened the chain of Gutter Tooth around his arm, the thorns biting into his flesh. He ignored the pain “Then what use are you?”
+
+Arthur flinched at the comment.
+
+The monster, having failed its attack, charged. Edwin had replaced his hand-crossbow with a larger sized one from one of the neighbours and fired, the high tensile strength of the strings shooting the bolt at blinding speeds. In a second, the bold lodged into the beast’s eye.
+
+Stumbling, the skulker was quick to shake it off, pulling out the bolt in its eye without hesitation. Its eyeball was pulled out along with the shaft.
+
+Glenn, having restocked his arrows from another quiver, stood like a professional. Days fighting had lessened his panic somewhat. He loosed an arrow, not quite as accurate as Edwin. The arrow narrowly missed its throat, but a bow was quicker to reload. In a second, he fired another arrow, this one finding its mark, biting through flesh and sticking into its neck.
+
+By the time Edwin reloaded his crossbow, the beast was already upon them, swinging its weapon. Arthur once again shirked away from the attack, dodging by a hair's breadth. The anchor slammed into the wall, sending rock and debris splintering off in all directions. One of them cut a line across Jake’s cheek.
+
+Arthur lost his footing and stumbled onto his ass.
+
+Susan rushed the monster with no regard to her own life. She cleaved her blade into the monster’s calf, splitting muscle and tendon. The beast fell to one leg, but with a swing of its anchor, caught Susan. She got up her arms in time to take the strike head-on.
+
+Receiving the attack, she careened through the air, striking a wall. She slid down, but got back up right after, rushing back to her position as blood ran from her nose and mouth.
+
+And Arthur called him psychotic.
+
+He was just scratching the surface compared to the local neighbourhood berserker.
+
+Edwin launched the bolt, hitting a bullseye, pelting the inside of Glenn’s arrow. The bolt pushed through all the way, punching a hole straight through the skulker's neck. Blood spurted like intense rainfall.
+
+Sloane drew in a deep, sharp breath. The mana swirled, and a moment later, she swung her sword, a blade of air cutting through the hallway and landed on the Skulker’s chest. Flesh split.
+
+In a last ditch effort, the skulker forged ahead like a cornered animal.
+
+Jake sidestepped a backhand from the monster, loosening his chain around his arm, and coiling it around its arm and leg. The monster shook its head, horn catching Jake’s chest, raking open skin.
+
+He wrenched the chain back, constricting the monster's throat before a single, heavy swing of his scythe took the head off its shoulders.
+
+(Lvl 11) Skulker defeatedRewards: 1 Level, Nautical Pauldron (Edwin)
+
+Edwin’s eyes hazed over as he stared at the system prompt. A moment later, a pauldron that looked like it was a small window in a ship, appeared on his shoulder. It was made of wood, metal, and leather, all twined together with chains that resembled the tether of a ship's anchor.
+
+I’m not jealous at all.
+
+Though, Jake was left wondering how the system determined who the reward went to. Was it based on merit or participation; whoever did the most received the item? Or was it completely random?
+
+“You got an item just like Jake.” Arthur nervously looked at him. “What is it?”
+
+Edwin only shook his head at the question. Though he didn’t say anything, it was clearly something good. He tried his best, but the slight upturn of his lips as he glanced his fingers across the pauldron betrayed him.
+
+Whatever it was, it was his. For now.
+
+Jake thrust Arthur to the back of the group. He tried to argue, but when Jake glared right through him, his argument died in his throat.
+
+A shield that can’t stand in front is useless. Why does he try to act so brave when he’s the one who’s scared the most?
+
+Not able to understand the posh-boy, Jake checked up on Susan, sending a heal as deep as he could to her ribs. Two were broken. Somehow, to the shock of Jake, her arms were okay. Bruised, but that was a small price to pay for what could have been much worse.
+
+“I’m okay,” she snarled, violence still there in her eyes. “Let’s keep moving.”
+
+It must be a skill. Just how much tougher has it made her body? Is there a way I can get my hands on it? I should pay attention.
+
+With everyone mostly in one piece, they kept on going, treading through the disgusting water. Jake kept most of his attention on what was under the surface. In some areas, there were small pockets of deeper water where the other Skulkers had used as an ambush to leap up.
+
+Besides, he didn’t know if the Skulkers were the only monster here. What about water snakes? He shivered at the thought. He hated snakes; the way they moved, the texture of them that was one part smooth to the touch and one part rough if rubbed the wrong way. It was that dual texture that made his skin crawl.
+
+Like nails scraped across cardboard.
+
+Trying his best to ignore the goosebumps crawling across his arms, they turned the corner to where the Verdant Expanse door was. It was now gone, replaced with just a long hallway.
+
+They walked down it, and turned the only corner there was, revealing another corridor. Empty. Everyone filled their rucksacks if they had them (Edwin and Jake), or plastic carrier bags, with bags of crisps, tinned food, or bottles of water.
+
+It helped that everything they needed floated on the water. There were quite a lot of supplies once they started looking.
+
+No more doors, though, which only made Jake more confused the more halls they waded through.
+
+Three more of the lower levelled Skulkers jumped out at them, but Jake heard them before they moved; their breathing, the trickle of water from a grasping for their weapons.
+
+It didn’t take much to kill them. Edwin and Glenn practically guaranteed that two of the monsters were out of the fight from the very beginning. So that meant one vs the whole gang.
+
+Jake made sure that if he didn’t get the kill outright, he participated the most.
+
+The water began to grow shallower. From just under their knees, to their ankles.
+
+Once more turning a corner, six more Skulkers emerged. Most of them were the weaker variation, though there was one a little larger than the rest.
+
+That one’s mine, Jake thought.
+
+Arrows and bolts swished through the air. The Skulkers had archers of their own, arrows whistling down the corridor. Jake hid behind a couch. The others also sought after cover.
+
+“I’ll take the front!” Arthur rushed ahead, raising his shield. An arrow bounced off the mana layer of his shield, causing the energy to ripple.
+
+Bully the weak, fear the strong. How amazing of you, Arthur.
+
+Glenn snapped out of cover and released an arrow, but his form was hasty and the arrow flew by the archer’s face.
+
+Edwin was about to peek and shoot, when the Skulker’s arrow pelted his cover.
+
+Jake stepped out and launched Gutter Tooth at the archer. It narrowly missed. Listen to the tension of the chain, he thought to himself, feeling the minute changes in the chain itself. With a flick of his wrist, the chain moved like a wave, and the scythe snapped downward into the archer’s shoulder. It screamed. Jake pulled.
+
+He dragged the monster back to him, lifted his shoe, then stomped. Its skull opened like a ripe watermelon.
+
+One down, three to go.
+
+Seeing the brutality, Arthur paled. Glenn tried his best not to empty his stomach. Edwin looked at him with an undiscerning clarity.
+
+With a prepared breath, Edwin lifted himself and fired, bolt snapping through an archer’s skull.
+
+Two more.
+
+“Get ready!” Sloane shouted and drew her blade, drawing a slash in the air as it propelled right for the Skulkers. The Skulkers panicked, ducking under their own cover. The air blade didn’t reach them.
+
+By the time they rose, Edwin had killed one, and Glenn the other.
+
+With the archers dead, Jake rushed ahead. The stronger Skulker threw its dagger at Jake, the tip landing firm in his shoulder. Jake ripped it out and healed the wound in a single moment. The next, he was right in front of them both.
+
+He snapped a front kick to the weaker one, whipping its head back. It crumpled to the floor. The stronger Skulker had brought out another blade, this one serrated, and swiped it at Jake. He raised a chained arm, the dagger biting through the links and ripping into flesh before the chain caught it.
+
+Jake drove the scythe tip into the creature’s heart, and pushed deeper, feeling the tension in his muscles pull tighter. He felt the heat rise in his own body, and with stomp, drove the tip home.
+
+The skulker fell into the water that was only now sole deep with a splash.
+
+Exhaling a deep, adrenaline filled breath, Jake eagerly searched for the notification.
+
+(Lvl 7, 3, 5, 9, 3) Skulker defeatedRewards: None
+
+Jake clicked his tongue. How rare was it to receive an item? Up until now, it was only Jake and Edwin that had received one. In total, that was three. They had killed at least… thirty or so monsters, maybe more?
+
+He thought about it more. Did the stronger the monster, the higher chance it had of dropping an item? If that was true, then it tracked with his experience so far.
+
+They reached the end.
+
+There was no other door.
+
+“That’s it?” Sloane stopped beside Jake, holding her arm.
+
+“Where’s the other doors?” Glenn placed his hand on the wall, as if searching for a hidden entrance.
+
+Jake returned Gutter Tooth. He spotted a cluster of mana in the air, and quickly activated it, offering him a burst of stored mana. He used Minor Heal on himself again, healing his arm.
+
+Edwin looked jealous.
+
+Good. Consider it payback for receiving that pauldron.
+
+Susan rested her back on the wall. Jake healed her twice in quick succession. If he didn’t, she’d probably die. She really was crazy. Did losing a loved one really have that effect on people?
+
+She nodded at Jake in thanks. “So what now?” Her voice came out weak and hoarse from all the screaming.
+
+“Isn’t it obvious?” Jake said. Everyone looked at him.
+
+“We climb.”

@@ -1,0 +1,39 @@
+---
+id: 1ff1c8a5-73e9-5e1f-b579-93d64f2dd129
+page-type-slug: story-chapter-royal-road
+title: "Not a Chapter - Announcement (April Fool's Day)"
+slug: 0014-not-a-chapter-announcement-april-fools-day
+partOf: hell-difficulty-tutorial
+position: 14
+ownLength: 381
+unit: words
+publishedAt: 2024-04-01
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/1576092/not-a-chapter-announcement-april-fools-day"
+royalRoadId: "1576092"
+---
+
+Happy April Fool's Day!!!
+
+So guys, once again I'm dissatisfied with the name of the story. Many of you know that some time ago, it used to be "Weapons of Mass Destruction," but I changed it later to "Hell Difficulty Tutorial." Yet, I still think it's missing something, so I have decided to change it.
+
+I'm happy to announce a new name for my story: "Is It Wrong to Try to Survive in a Hell-Difficulty Tutorial When You're Just a Guy with Excessive Mana and a Corgi?"
+
+The synopsis has also changed a bit:
+
+I Accidentally Became the Most Powerful Mage in a Hell-Difficulty Tutorial Because I Didn't Know When to Stop Adding Mana.
+
+Never underestimate the guy who has so much mana it should kill him...
+
+Nathaniel's bus ride was supposed to be just another boring commute. But now, he, 23 fellow passengers, and a corgi named Biscuit are stuck in a "Hell difficulty" tutorial, battling monsters and leveling up.
+
+Easy difficulty, anyone can handle. Normal difficulty, you've got to put up a fight to get by. Hard difficulty is where only the tough ones last. And Hell? That's where you have to be a bit out of your mind!
+
+With his terrifying talent for mana manipulation, Nathaniel decides to invest every stat point into mana. Attribute imbalance be damned. It will either kill him before the monsters and his enemies can, or turn him into one of the most powerful beings within the system.
+
+I hope you guys will see why I made the decision and like the new name and synopsis as much as I do.
+
+Lastly, to reflect who the true MC of the story is, I have decided to change the cover. Once again. Some of you might recognize the cover from before.
+
+Unfortunately, the story will continue to be told from the perspective of the secondary main character, Nathaniel Gwyn. However, in our hearts, everyone knows who the true MC of "Is It Wrong to Try to Survive in a Hell-Difficulty Tutorial When You're Just a Guy with Excessive Mana and a Corgi?" really is.
+
+I hope you guys will continue to enjoy the story for a long time to come.This is a joke. All changes (cover, name, synopsis) will be reverted after 1 day.

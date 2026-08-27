@@ -1,0 +1,157 @@
+---
+id: 6688a80a-75eb-502e-9889-cad30e07f14d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 754 - Vessel"
+slug: 0079-chapter-754-vessel
+partOf: hell-difficulty-tutorial
+position: 79
+ownLength: 2373
+unit: words
+publishedAt: 2026-02-18
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3069591/chapter-754-vessel"
+royalRoadId: "3069591"
+---
+
+The flash blinds me, and I observe the rest with my other senses. The initial fireball heats up, reaching a temperature I can’t even begin to grasp properly. It quickly grows, surrounding both of us and reaching further. Everything inside it is set ablaze.
+
+I grab currents of heat from the explosion between us. It is the hottest I’ve ever dealt with… until now, and dealt is a strong word. Thankfully, there’s no need to deal with a body upgrade if you may as well not have a body.
+
+All of my muscles turn to ash that is then blown off as my skeleton is thrown through the air at high speed.
+
+The fireball from the explosion spreads much further as the two explosions merge into a single burning sphere. My eyes restore themselves just for a moment, long enough to see the color of the explosion shift from bright white to more of a yellow splotched with white.
+
+Only my absorption of the kinetic energy of the shockwave and the heat of the explosion stops my skeleton from disintegrating right where I am. Everything else around me breaks apart and melts, with the strong winds throwing everything, me included, far into the distance.
+
+There are just two places I bother to protect more than the others, my chest cavity with my hearts and my brain. All the while, I absorb as much of that heat as I can and channel it through the only thing that remains, my bones, which are glowing brightly with the myriad inscriptions I etched into them before and throughout the tournament.
+
+My manifested vessel behind me takes over all that pressure. This vessel has been created thanks to a part of my mind I’ve named Mapthaniel, which, for months, has been using a big part of my mental capacity to map out my body to learn about myself as much as possible. After all, I need all that information for [Manifestation] to work.
+
+The vessel allows me to work in such a way that my mind is left as the only limiting factor. Especially now that I have a low pristine passive, allowing me to push further and further, I realized more and more that it was mostly my body limiting me. All these useful if restricting constructs, these annoying pathways, are all now hosted in the vessel I’ve manifested, with my mana heart connected to it through [Ley Line], [Manifestation], [Redistribution], and [Mana Manipulation].
+
+The arena turns into a burning hell. All the floating islands are destroyed, blasted away, with the heat feeling like it might burn away at reality itself. Just a tiny piece of my skin remains, and under it, my passive activates. It combusts under the skin, powered by all the heat I’ve been redistributing into thermal energy. More skin regrows, the combustion continues, and my body regenerates in mere heartbeats. Much faster than pre-tournament, and not only thanks to that immense heat. It is thanks to my impressively low Constitution.
+
+Then, as my body restores, it burns again to restore again, in unending cycles as the superheated air melts my flesh, face, eyes, everything, only for my passive to restore it so I can suffer again.
+
+And yet, I’m not being counted as dead.
+
+I am not thrown out of the event.
+
+My restored teeth clack against each other on my face, which is mostly just a skull without flesh, as I feel like laughing out loud. I use my vessel to grab all that never-ending heat and thermal energy and start converting it into mana.
+
+I reach towards a halo of spinning mana I’ve placed inside my skull, around my brain, and that I have been feeding mana the entire tournament, whenever I could.
+
+It’s more than enough to make my body explode, to break me even further than it already has. Yet it doesn’t. My vessel takes on all that strain. It perfectly mirrors my movements, slightly transparent dark blue with bright pale blue glowing scars and a myriad of inscriptions of my constructs. Just like Adrian's half-figure, it stands behind me, though mine is only a head taller than I am.
+
+I move my hand, and my vessel copies the movement. Only it has a halo of mana over its head, and that halo quickly turns pitch black. I use it to power [Focus] and slide as far into thought acceleration as I can.
+
+My body regenerates further, flesh and skin regrowing over bones that seem like they’re steps away from melting apart, and I hold on to the heat that’s swimming around me. The destruction is now far-reaching, going so far as to ignite islands several miles away. As my eyes restore again, I can see a bright yellow sphere burning in front of me.
+
+Just three seconds have passed since I entered the event.
+
+My vessel moves according to my will, and it channels all that mana. It then compresses it, and the dark blue of the mana it is made of turns black.
+
+Pitch black, with the light blue scars still mirroring the positions they’ve taken up on my body, and two points of blue and golden light where my hearts glow inside. Though it is just a shape of me and does not see, two golden circles form where the eyes should be.
+
+I move my hand together with the vessel, and a sphere of black mana surrounds us, fully closing us off from the outside world. All the shockwaves, destruction, and heat disappear as if they never existed. Then I feel an impact that ripples through the black liquid like a surface, and we’re being thrown by an explosion. And I continue to count down.
+
+My body restores itself fully, though it feels like my bones are burning inside of my flesh with a kind of pain I’ve never felt before. I transfer the rest of the heat into mana, which my black vessel absorbs and uses to power the sphere.
+
+Another attack crashes against that sphere, and I shoot off like a cannonball into the distance.
+
+Seven seconds.
+
+I allow thermal energy from my Ignition Heart to flood me. I partially lift the last seal, just a little bit, as much as I can handle. Thanks to my connection to the vessel, especially thanks to the ridiculous [Manifestation], that thermal energy and mana can’t burn through my body. It doesn’t even begin to seep into it, instead appearing inside the vessel.
+
+In a way, it is as if the vessel isn’t truly outside me, it’s more like the vessel is inside my body, a true part of me, and what I’m seeing is just a visualization.
+
+I continue to strengthen the barrier further and further, feeling a ridiculous amount of mana crash against it in powerful, but thankfully, mana-based attacks. I’m being thrown through the arena as someone tries to crack me open like a walnut. It once again makes me realize just how ridiculous black mana is and reminds me of Lissandra’s words that there will be no Champion, no mana-based Absolute, not wary of me if I want it.
+
+And it is not just the mana resistance the black sphere has, as it endures it and even absorbs the attacks to make itself stronger. The sphere of black mana is also proving durable against the surrounding heat, as well as whatever aftereffects of the explosion.
+
+Five seconds.
+
+The black mana continues to try to escape my control, a ridiculous amount of it I have never managed before. My minds are all overclocked, thought accelerated, combining and separating into many parts. It all gives me a feeling that I could last as long as I need, and my confidence rises.
+
+Then a crack appears on the sphere, causing me to stare at it.
+
+What a ridiculous alien bastard.
+
+I lift the seal on the Ignition Heart further, flooding my vessel with thermal energy. Those golden flames surround it before I grab it and turn it to mana, but this time, keeping it inside the vessel for use. I gather as much as I can, lifting the seal more and more. Like I’m poking a hole in a dam.
+
+The crack on the sphere spreads further, and the radiation and heat of the surrounding area start flooding in.
+
+Four seconds.
+
+I take a deep breath, and the world around me seems to slow as transparent red fingers slip through the crack and push it wider, while the black mana draws mana from them and leaves them growing steadily paler.
+
+Before the sphere cracks fully, I move all the mana it consists of, and like currents, it floods around me before being pulled to my vessel.
+
+The elongated arm of the red figure pulls back to where Adrian hangs, floating in the air. There is not the slightest mark on his body or his clothes as he floats in front of the fireball, which now burns miles behind him. The colors of that fireball shift from yellow to orange and deep red. From its smoke, a tall mushroom column starts to form. The air itself still feels like it is vibrating, and the heat begins to attack me again.
+
+I move my vessel, and two javelins of black mana shoot ahead, followed by an [Empyrean Lance] that’s longer than a bus. The first black javelin disappears, the second one crashes against the barrier and feeds on it, and the lance pierces the same spot, reaching Adrian before that red figure moves and grabs it. The lance breaks in half under its grip.
+
+Adrian's expression is difficult to read, but so are the emotions I’ve hidden away. Currently, I likely feel like someone wanting to fight, to challenge this man. And he acknowledges it.
+
+The transparent red figure behind him grows in size. At first, it’s the size of a small building, then as two. It grows into the shape of a skyscraper and then further, expanding to fill an area of about half a mile.
+
+Three seconds.
+
+One of its arms lifts high in the air, and a staff appears in it. The second one reaches to the side, and a transparent, crystalline sword forms there, which starts absorbing the heat from the area and trapping it inside. An audible boom expands through the area, and from the tip of the staff, an inscription circle spreads through the sky, multiple miles wide.
+
+I let go of every worry, every useless thought. The seal on the Ignition Heart lifts fully, and for the shortest moment, thermal energy at the level of a powerful Champion floods my vessel from its center, where the shape of my thermal heart is. All my minds combine into a single one as I do my utmost to turn it all into mana with the aid of the black mana itself that powers the effort, and then takes over all of the mana created.
+
+My vessel grows in size, too, but only until it’s about two heads taller than me. The golden circles on the black head look like burning wheels.
+
+Two seconds.
+
+The figure behind Christoph swings down with the staff, and the circle activates. All colors in the area turn red, and from the sky, a single beam of mana shoots from the middle where the inscription was. As thick as my arm, it reaches, aiming at the center of my chest.
+
+All the black mana I’ve gathered moves in front of me, creating a single, just wide enough, angled segment barrier that deflects the beam as it continues to fall on my position in a constant stream of mana. A huge amount of mana continues to feed into the black mana, causing big, pale blue sparks to shoot from the surface like sparks from an angle grinder.
+
+For a few moments, I block it, and Adrian does not do anything other than shoot at that single spot as we push against each other.
+
+The stream of mana eventually pierces through and drills a hole through the middle of my chest, damaging both of my hearts and piercing through my vessel as well before stretching multiple miles into the distance in an unbroken line.
+
+One second.
+
+Flames flood through my body, pouring from my damaged Ignition heart, combusting and closing the wound, but leaving behind my damaged hearts. Both of them falter, weakening and slowing down.
+
+I grab hold of all the black mana around me, move it again back into the vessel as I watch the other hand of the figure moving, the one holding the building-sized sword. It moves slowly like a giant of immense weight, but it continues to speed up, the movement cutting through the aftereffects of the explosion and reverberating through the air. It swings the sword, and a bright light explodes toward me. Bright white and yellow.
+
+Yeah, there is no way I’ll be blocking that. It’s not even mana, just the heat from the explosion gathered together and condensed. Unlike mana, I do not have enough defenses to guard against it.
+
+But do I really need to?
+
+The notification I expected and waited for finally rings.
+
+Congratulations. You have completed all three objectives of your personalized Absolute candidate quest authorized by the system.
+
+- Raise the skill [Mana Manipulation] to Level 75
+
+- Channel 50,000 stat points worth of mana within one second without any external assistance
+
+- Confront a Champion level being without any of its power diminished, alone, for a duration of ten seconds
+
+Congratulations, you have gained the title of Absolute Candidate!
+
+You can now choose 2 of the five personalized rewards.
+
+- low pristine passive
+
+- low pristine item
+
+- three active skills combination token
+
+- trait evolution token
+
+- 1 day Earth visitor token
+
+Undergoing body upgrade has been detected. Your state of an Absolute Candidate will further aid your Individual Enhancement.
+
+Your Mana Physique becomes greatly integrated into your being.
+
+Your Mana Wavelength Iris becomes greatly integrated into your being.
+
+I read that notification in a split second, and a wave of satisfaction washes over me. I love it when things come together.
+
+Then I forfeit the event and get teleported outside to the common area.

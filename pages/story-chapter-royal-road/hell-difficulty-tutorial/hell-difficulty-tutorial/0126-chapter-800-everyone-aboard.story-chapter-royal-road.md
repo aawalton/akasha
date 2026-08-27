@@ -1,0 +1,131 @@
+---
+id: 9d61d4aa-2571-59fe-b94b-361a6493a07c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 800 - Everyone aboard"
+slug: 0126-chapter-800-everyone-aboard
+partOf: hell-difficulty-tutorial
+position: 126
+ownLength: 2531
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3368266/chapter-800-everyone-aboard"
+royalRoadId: "3368266"
+---
+
+I avoid a group of people rushing past and even push one of them aside when they get too close. He looks at me angrily, reaching for his weapon, but Tess’s lightning scorches his shoulder before he even realizes what’s happened, and he runs away, cursing all the while.
+
+Tess holds Izzy’s hand and pulls on it to hasten our movement. We aren’t all that far from the auction house, as Tess likely moved close in case we might need help. And now that I look back, the inverted pyramid has fallen to the ground, resting on one side.
+
+"I don't know if you heard, but two of the local Champions got together to kill the Weredeer, likely in hopes of pleasing The Princess. Now that makes three out of her eleven Champions dead."
+
+We stop for a moment, letting another group pass. This one, made up of a number of people carrying big wooden boxes and two dozen bodyguards with weapons drawn. Once they pass by, we move again, and Tess talks. "We don't know where the Weredeer is at the moment, but it killed the Champions somewhere in the west. The fight either happened close enough to ruin the city with collateral damage alone, or it happened far away, and it was just that destructive."
+
+"The second one," I mutter.
+
+"I think the same. Are you okay? You look really pale."
+
+"I'm fine, Tess."
+
+"Okay."
+
+Hurrying, we reach the docks and push through more people. At a few points, we even fight some of the smaller groups that have been eyeing us for some reason, and at another point, I make a hole in one of the defensive arrays to reach the place where the others have gathered. We barely greet each other, and Sophie hugs her sister as we are forced to hurry over to Min-Jae, who motions us over.
+
+On the docks to the side, he’s standing next to a feylith man wearing a uniform with an array of badges. That man has his hair tied back in a ponytail, and his wings are slightly bigger than the small feylith wings I'm used to.
+
+"That's them?" he asks Min-Jae the moment we appear. "Which one is the healer?"
+
+Instead of answering, Lily steps forward, and the man, without hesitation, lifts his arm and makes a deep, long cut into it.
+
+"Heal," he orders.
+
+Before he can fully finish the word, the wound is closed. Lily doesn't even touch him.
+
+The feylith then nods just once, decisively and without hesitation. "We’re taking everyone aboard."
+
+The flying ship we find ourselves on is entirely made up of a dark brown sort of wood with three masts, each of the same size. The sails are a very pale shade of red bordering on transparent, and they constantly move and shift, though there aren’t any winds strong enough to do so. The ship itself is wider than ships usually are and big. Like very big, probably half the size of a modern cruise vessel.
+
+We are let in as promised and as they send us below deck to be dealt with later Min-Jae talks, "I'm surprised, he said he would take only two people to guard Lily, but must have changed his mind after you healed him," he looks around and points in one direction, "Go this way and use this key when you find the door labelled The Gilded Chamber. I have to go and get to work!" After that, he leaves, hurrying to make his way back on deck.
+
+Once we enter the room, Blackie, very careful not to bump into anything, moves to stand in the corner. He’s currently wearing a black cloak with a hoodie under it and some sort of mask over the entirety of his face with no holes. When the ship begins to lift, I notice him gently swaying from side to side as he matches the swaying of the ship.
+
+"How long can Noodle keep that egg and the items in his stomach?" I ask while still observing Sophie's bond in the body of the deceased Demon Champion.
+
+"Just for an hour or two longer. They’re already causing trouble for him, especially the egg," Izzy says, and pets Noodle, who is spread over the apartment room we got. The snake has now expanded to the point where his body is as thick as a tree trunk, and I find myself thinking that it probably helps him with whatever he’s doing.
+
+I still find that part of his ability to shrink and expand while temporarily storing items in his stomach very interesting, and I’ve been observing it for a while. Unfortunately, I haven't made any progress on figuring out how it works, but I'm sure it is something that I’ll be able to imitate in the future.
+
+Otherwise, The Gilded Chamber is a massive apartment furnished with furniture accented by wood and gold. This sort of decoration looks truly old school, even more so than the usual medieval style. I almost expect some sort of noble cat lady to walk out of the room with piles and piles of plates in showcases, never to be used for dining.
+
+Taking it in, I notice that Tess has the low pristine ring from the end of the 9th floor on her finger. If memory serves me correctly, it allows her to indefinitely store an attack or something like that. For someone like her with powerful, piercing attacks that are held back only by her reserves, it makes sense. If I were her, I would charge and store the most powerful attack I can muster in it, multiple times, if I could. And that's probably what she’s done now.
+
+Being asked, I stop dilly dallying and move to help Sophie, who’s busy setting up a shielded chamber in one of the smaller bathrooms. The sink and bathtub are already gone, having been moved to one of the side rooms, and Noodle is spitting out some materials. A few sheets of metal she fixes to the walls and connects, along with some of the showcases we took from Vault 2.
+
+The ship begins to lift and fly towards the sky at high speed, which, to my surprise, proves to be nearly as fast as me flying at full throttle. Keeping my guard up and senses reaching as far as I can, I place marks on everyone in here, ready to just teleport us away if needed.
+
+In the meantime, I help Sophie. Instead of using mana paint, I let bits of my blood drop from the tip of my finger and use it to draw on the floor and walls while the Mindblender is repairing the showcase I cut to get the egg out.
+
+Pieces of the fake wyvern Dennis and Aaron stole from that Lycan maniac have already been thrown in the corner, and I make a mental note to myself to make sure this place isn't leaking signatures once we are done.
+
+Noodle, meanwhile, waits nearby, with an expression that looks like he’s ready to vomit up all the items he’s been holding. I find myself a few seconds of time to give his head a scratch. As always, Izzy's bond's body is warm, and the scales are nice to touch. So I sacrifice a few more seconds to pet him until Sophie shouts for me to help her.
+
+"You really took everything you could. I can’t even say you stole anything not glued to the floor, some of these things have clearly been pulled up with pieces of said floor still attached," Sophie mutters with her arms crossed, looking at the piles of items laid out in the shielded room we made.
+
+I don't answer as I secretly agree with her. I took a number of showcases, even though they were empty. One of them holds the egg again with the top I cut off glued back on top. That egg is white with a slight hint of pale blue when you look at it under the right light.
+
+It doesn't even look all that impressive now. It's just an egg. If not for the three day system countdown for the time we have to hold it, I could easily believe we were tricked, and that it was just the egg of something like a gray lizard.
+
+I want to see a gray lizard one day.
+
+Otherwise, there are a few chests we still haven’t managed to unlock, an entire set of armor, a shield, a small flower in a glass case filled with some sort of gel, a necklace made of what looks to be human teeth, an orb made of water held in a small glass vial, and some materials, a few of which have a rarity of pristine.
+
+I really want to return to the auction house and check the other vaults. But it's too late for that. I can only hope the black orbs erased our signature enough that no one can track us, or at least that they make it difficult enough that we can be gone before it becomes a problem. Overall, it's not a bad haul, though I would’ve asked for more since our floor is so screwed up already and has been cut so short.
+
+For some reason Blackie stands near us as well, looking into the room curiously until Sophie sends him away, which he carefully does. I can see how much it stresses her out every time he moves. I have heard about some of the accidents he’s already had. Just bumping into one of the buildings caused it to explode, even though the cloak should help to absorb some of that kinetic impact, given that it's already been enchanted for that. Here on the ship, I think most of us feel a bit nervous because of what could happen.
+
+Everyone takes an item that seems like it should be safe for examination, and we lock our shielded bathroom and head into the center of the apartment to the ugly living room, where we wait until Min-Jae joins us as well. The boy, the young man, whatever he is now, seems tired and just slides down into the couch next to Aaron, who taps his back a few times.
+
+With a tired voice, Min-Jae says, "We’ll be orbiting the planet soon. We had to leave fairly quickly, so our mana tanks are only half full, and we lack some defensive personnel capable of using the arrays and devices this ship has. At least we have enough fuel to stay here for a few weeks. If you want, you can go to the deck, it’s shielded, so you can breathe there, and the temperature is controlled. The view really is something else."
+
+"So what the hell is happening down there?" Dennis asks.
+
+“Reanimated Dusk Weredeer killed one Champion, so two of them thought it would be a good idea to take the deer down to please the feylith Princess, who happens to be their Absolute and Lust subclass. By the way, I think all of the Champions are men, and she controls them.”
+
+"Harem..." Dennis whispers.
+
+Maya throws a pillow at him. "Why do you say it with such a creepy tone?"
+
+"Don't throw stuff at me!" he shouts back at her and throws the pillow back. "I bet you admire her and would..."
+
+Their conversation fades into the background as Min-Jae continues, "She was supposed to return in two months or so. There are rumors that she’s on a mission for The Corporation in an effort to get something from them. But now she’s apparently returning even though she will need to deal with, and I quote the captain here: the prohibitive exit penalties triggered by her breach of terms."
+
+"Great, there’s bureaucratic contract bullshit even here in my magical world," Aaron sighs, and Min-Jae nods in agreement.
+
+The Korean boy then continues, "We plan to stay in orbit until she returns and deals with the Weredeer and hope it either doesn’t notice us here or decides it’s too busy destroying cities." He pauses. "This is all our fault, isn't it?"
+
+He doesn't even get an answer as the ship begins to shake, and we stop gaining height. All the conversations stop.
+
+Then the ship begins to plunge towards the ground at a much higher speed than before, and that speed only increases over the next thirty seconds. Blackie loses his balance, and his shoulder strikes one of the inner walls, causing it to explode entirely, even as I absorb some of the kinetic impact. Items flying through the room hit him, sending more explosions like that, and I find myself busy absorbing kinetic energy from the reflections of his trait.
+
+Everyone gathers closer, and Tess halts all the items bouncing in the room mid-air. The airship shifts and begins to descend at an even sharper angle.
+
+Something streaks toward the spot where we were barely a minute ago, a place now miles, and miles behind us. A mana projectile the size of a building, traveling at supersonic speed, tears through that space and continues into the void of outer space. It leaves behind a nauseating mana signature, and even at a distance, its mere presence causes the ship’s defensive arrays to flicker.
+
+No other projectiles or attacks come for us, but I notice multiple more just like that in the distance. Some of them hit other airships far away, entirely annihilating them.
+
+Our speed slows down only once we are about to crash into what seems like the middle of the sea with no land in sight. In the sudden deceleration, the ship slows down, and an entire side of the vessel explodes as Blackie is thrown against it, and I am unable to contain all of the kinetic energy. Harshly, we crash into the sea, with the barrier flickering just for a moment as some field dampens the impact.
+
+Tess doesn't wait for anyone. Turning herself into lightning, she zigzags through the room and out the hole in the side of the step to stand at the ship, using her sight to search for any sign of incoming projectiles. Izzy and Maya move to join her while Sophie and I head over to check on our shielded bathroom.
+
+The moment the door opens, I can only let out a very long and deep sigh.
+
+The showcase with the egg is on the floor and broken, though that should’ve been impossible from a fall like that. The egg itself is out, having rolled across the floor and into one of the corners.
+
+The very same corner where we piled the remains of the fake wyvern. Those very remains are now gone and nowhere to be seen.
+
+Instead, the white egg with the pale blue tint now shows a few small cracks on its surface.
+
+And a notification pops up.
+
+The Floor quest has been reclassified as impossible to complete in its current state due to parameters independent of the floor’s internal architecture.
+
+The Rulers in charge of this cycle of the tutorial have been notified, along with the Ruler responsible for the floor's setting.

@@ -1,0 +1,227 @@
+---
+id: cb518ad7-05f0-5aa1-8067-5cea12a5375a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 776 - Important things"
+slug: 0101-chapter-776-important-things
+partOf: hell-difficulty-tutorial
+position: 101
+ownLength: 2409
+unit: words
+publishedAt: 2026-03-22
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3181575/chapter-776-important-things"
+royalRoadId: "3181575"
+---
+
+[Thorncrown Tyrant - lvl ????]
+
+The old demon doesn't even bother to unwrap the chocolate. He just bites straight through the foil, spitting the shredded plastic onto the ground like trash. There’s something about his expression that irks me. I find myself hoping the chocolate bar missed quality control. I hope it’s loaded with lead or whatever other fancy toxins Earth can cook up.
+
+The demon is exactly as expected: old. He looks even older than the vice guild master of Primordial Knights. His horns are among the longest I’ve ever seen, growing from his forehead and twisting to the sides before curving back. He walks slowly, slightly slouched, while resting against a staff taller than him. His staff is made of white wood, which splits into branches at the top, similar to the tree over his house.
+
+Tess tries to say something, but he smacks her on the head with the staff at a speed that neither of us is able to react to. For a moment, I deeply enjoy the expression she makes. Her gleeful amusement from winning the bet vanishes, replaced by surprise at the action.
+
+"I’m not interested in what you have to say," he says, spitting out a piece of the chocolate wrapper in a disgusted manner while looking at her. "I have nothing to say to the sort of trash that uses Primordial Lightning."
+
+Tess’s expression twists again, and I’m unable to take my eyes off it. She doesn't even look my way, surely knowing the glee I’m feeling.
+
+Then, the staff hits the top of my head as well. "What are you snickering for, boy?" the old demon snorts. "A thief with a heart not his own."
+
+He muses for a second. When I try to speak, he smacks me again, then hits Tess again for no damn reason. While I have my mana crown active, Tess has her [Lightning Crown] out, so he just continues to bash at the sides of our heads.
+
+"No talking from you two," he says, then pointing toward the group. "Send in those twins of yours to tell me what you want. The rest of you, stop being a bother and wait somewhere out of my sight."
+
+Without even waiting for us to react, he hits Tess’s head with his staff one more time, turns around, and retreats back into his house.
+
+Group 4 has a quick, hurried meeting as we gather around the twins.
+
+“Are you sure you don't have some sort of hidden primordial energy? Maybe a fragment?” I ask them, "Maybe that is why he called you two in."
+
+“Maybe he thinks they’re the dumbest and therefore easiest to get answers from?” Maya muses.
+
+“It could be connected to their [Connection] and [Sensory Deception] skills. Maybe it has something to do with his domain?” Min-Jae guesses.
+
+“Maybe we just don’t act like dicks like most of you,” Dennis counters.
+
+“Yeah! Apparently, we have faces that inspire trust,” Aaron adds. “Handsome, too, they said.”
+
+“I didn't feel any ill intent from him,” Izzy says.
+
+“He’s a Champion or something close to it, isn't he?” Sophie asks.
+
+“Probably,” I agree before turning to the twins. “Ask him if he heard about my bet with Tess and decided to wait an hour just to screw me over.”
+
+“He could probably take all of us out without having to resort to these sorts of tricks,” Tess says, ignoring the confused expressions Dennis and Aaron make at my request. “But the risk is still there.”
+
+“Let’s send Biscuit with them,” Maya says, and all the conversation stops before all the heads look down at the corgi in his adult form. Biscuit senses the gazes on him, so he stops sniffing the weird stone on the ground, looks up, and tilts his head.
+
+“Maya, are you some sort of genius?” I ask, looking around at the others. “This should be enough.”
+
+All agree, and soon after, the twins leave with Biscuit floating by their side and knock on the door, which opens on its own. Then all three of them are let in, and the door closes behind them. Only then does the group relax somewhat, but most of us keep an eye on the house and just enough mana flowing through our bodies to burst into action if we need to.
+
+I’ve always found it fascinating how we can be talking and joking one second, yet be combat-ready and prepared to fight for our lives the next. Most of the people from Hell difficulty are like that. Joking, laughing, eating, but if something happens, just a split second is enough for them to burst into a fight. It provides a stark contrast, even compared to people from Hard difficulty.
+
+Turning away from the house, I watch Tess as she rummages through one of the bags. I stay still, just observing her. I continue to stare at her even as she stands up, smiling happily as she holds a t-shirt in her hand. When she turns and notices me looking her way, she flinches in surprise, but then her smile widens even more.
+
+Of course, I know why she is doing that. Plenty of us feel tense because the end of the floor is coming, and the experiences we’ve had with previous endings. So she likes to throw in jokes every now and then to make the others ease up a bit. I think they’re especially effective when it comes to me, and that’s why she does it so often.
+
+As she throws it, I catch the short-sleeved shirt and look it over. It’s black, covered in dozens of light brown geckos. One on the left side is printed to look like it's peeking out from the chest pocket, while the others are scattered around in various funny and cute poses.
+
+I let go of the shirt and absorb its momentum, causing it to halt mid-air while I go and pull my current shirt over the top of my head.
+
+Tess lifts her eyebrow at that. “Still a lot of scars,” she says.
+
+“Yes,” I agree with her and look down. A diagonal one across my chest, some on my side, a crossed one on my shoulder, and some on my forearms as well. Then there is the unnaturally pale left arm starting at my shoulder, and many more. Even my body, while muscular, is slimmer now after the body upgrade. As if it had grown denser.
+
+I move my hand and touch the scar on my chest. “Lily tried, but she couldn't remove them either, so I guess they are part of me now.”
+
+“Maybe it is a mental thing. There are theories that the way you see yourself can affect the way you look. Similar to how my perception of a [Sacrifice] can give me a bigger boost,” Lily says from the side.
+
+“That gives more of an advantage to fucked-up people, right? Just don't perceive things in a logical way, think in the way most advantageous to you,” I say and put on the gecko shirt.
+
+“Well, guess who ended up in the Hell tutorial?” Tess says as she sits down and once again turns to look at the cottage. Her javelins continue to float near her with bits of Primordial Lightning flickering on their blades.
+
+The twins and Biscuit return two hours later, with Biscuit carrying what looks like a big bone, which he chews on happily.
+
+Dennis scratches the top of his head, and as his hair shifts, I catch sight of bruises on his scalp. Meanwhile, Aaron has none and seems quietly pleased about it.
+
+“We haven’t learned that much, but there are a few things you’ll like! Oh, and before we forget, send back a few more chocolates. We told him about light chains that work on solar panels, so include one of those too. And a telescope. He said we have ten minutes to send it in before he comes out and deals with us,” Aaron says.
+
+“I see,” I nod. “And did he say whether he waited an hour just so I’d lose the bet…”
+
+I don’t get to finish as Min-Jae asks, “Whose theory was right about the floor?” while Maya and Sophie move to gather the required items, listening to the twins speak.
+
+“No idea,” Dennis shakes his head and turns to whisper, “That guy’s a dick. Told us we had an hour to leave, but gave us a map marked with interesting places and regions where some of the older Absolutes’ and Champions’ bodies are, so we might be able to gather some stuff.”
+
+“He wasn't that bad,” Aaron disagrees. “He told us a bit about the planet, too. He also knows it as The Pit, and apparently, it’s not even that big, possibly smaller than our moon.”
+
+“What about the gravity?” Min-Jae interrupts. “It should be much weaker than this, but it’s stronger than Earth’s. Though it’s hard to estimate with the stats we’ve got.”
+
+“Nat? What does your hummingbird constitution say?” that asshole Dennis asks.
+
+Knowing why, though, I shrug. “It feels stronger than it did on Earth when I visited.”
+
+Min-Jae turns to me. “I wondered. Your Strength and Dexterity are decent, though, so how much does Constitution even influence the sense of gravity for you?”
+
+“Not much, but sometimes I like to check things like that. I think it changes based on the settings of the floors. Otherwise, I don't think we’d have been able to move very much on the second floor. Eladore was one of the most powerful planets in the system, so I bet even a level 0 baby there was probably physically much stronger than a common adult Earthling.”
+
+“I never thought of that!” Min-Jae says excitedly. “How is it in Beyond, then?”
+
+“Gravity there feels stronger than any of the floors we’ve visited so far, and the lower the floor, the stronger it gets. There’s also a pull on your mana towards the deeper floors, so it forces better control and…”
+
+“Okay, how about we return to the important things?” Sophie says.
+
+"We are talking about important things," Min-Jae says, voicing what I’m thinking.
+
+Aaron then picks up the conversation and shares what they’ve learned. "He didn't tell us what this planet’s here for, so as to 'not ruin the fun of finding out.' He said we’ll get to see her in a week when something called the Cycle ends, and the Harvest begins."
+
+His brother nods. "He warned us to be careful, or we’d all die, though he said we should be safe because that 'creepy eyed asshole' should be able to protect us if we don't stick our noses where we shouldn't."
+
+"It’s a bit rude for him to talk about Nat that way, but he has a point," Izzy says.
+
+I am amazed by the certainty with which she knows it was meant to be me. Meanwhile, I’m fighting between annoyance and the fact that the demon also likely meant it as a compliment. In a strange sort of way.
+
+The others begin to talk and pull more information from the twins while I turn to look toward the cottage. If that guy was just a bit weaker, I’m sure I could do something petty, but it doesn't seem to be an option.
+
+Wrapped in what we’ve learned, there is also a warning, and the danger level’s been emphasized, especially regarding the harvest that’s due to start on our last day here. Harvest... I think of that word. With the connection to what we have seen, it starts to form an idea, though there are still options and some new questions.
+
+I won’t even pretend I already know what it’s all about, I’ll just have to wait it out. That’s what I like to do. Let others run around like headless chickens, slowly put things together, gather mana, and then, as Minion would say, kaboom. So that’s what I’ll continue to do, after all, it’s worked out so far. Gathering more mana while partially listening to the conversation.
+
+It is obvious that the start of the Harvest and the end of the floor coinciding isn't a coincidence either, and then there’s that part about how we should be safe if we don’t stick our noses where we shouldn't. But what if I don't mind some danger? What if I want to get my grubby hands where they shouldn't go? But to do that, I’ll still need to make sure the others are safe. After all, I can steal things and abuse the system for thousands of years to come, but there’s only one group of assholes that’s somehow managed to become my friends.
+
+Slowly, I switch on some combat minds and combine others. The flow of my mana changes as well, and certain constructs ramp up their activity. My emotions cool off a bit, and I suppress them slightly, just enough to avoid being overtaken by my curiosity and tendency to throw myself into danger.
+
+I can go on for over a week without sleeping, so that’s exactly what I’ll do, and just to feel better about myself, I open my status to glance at it before closing it.
+
+Name: Nathaniel Gwyn
+
+Title: Absolute Candidate
+
+Difficulty: Hell
+
+Rank: S, Radiant Gold
+
+Guild: Primordial Knights
+
+Floor: 9 - The Pit
+
+Time left until forced return: 1y 261d 17h 3m 46s
+
+Traits (2/3): Preeminence Eyes 1/4, Mana Physique 2/4
+
+Lvl 388
+
+Strength: 371
+
+Dexterity: 349
+
+Constitution: 115
+
+Mana (Stage 1/3 - Vast Mana): 1870 + 1870
+
+Primary Class: Mana Weaver (Unique Arcane)
+
+Sub-class: [Adept of Pride]
+
+Active skills (9/10):
+
+Focus - Lvl 77
+
+Perception - Lvl 73
+
+Redistribution - Lvl 76
+
+Mana Manipulation - Lvl 78
+
+Ley Line - Lvl 74
+
+Eclipse (Pride) - Lvl 67
+
+Empyrean Lance - Lvl 39
+
+Manifestation - Lvl 39
+
+Current - Lvl 39
+
+Constructs:
+
+Physical Fortification Matrix
+
+Mana Flow Control
+
+Mana Sovereignty Field
+
+Kinetic Mana Heart
+
+Sealed Ignition Heart (Partially Sealed, 1/3)
+
+Combat Cognition Frame
+
+High-Density Thought Network
+
+Thermal Flux Controller
+
+Passive skills (5/5):
+
+Mana Kinetic Conversion Reservoir (Unique Epic)
+
+Mana Wavelength Tyrant (Mid Arcane)
+
+Subdermal Combustion Weave (Mid Arcane)
+
+Mana Wave Predation (Unique Arcane)
+
+Cognitive Hyperprocessing Vector (Low Pristine)
+
+Tokens:
+
+Send a single item to your disciple (up to epic rarity)
+
+Passive skill combination token (low arcane)
+
+Beyond visitor token - 1 year (unlocked after tutorial)
+
+Beyond 7 day stay token
+
+Beyond 14 day stay token (x 24)
+
+Shards: 6,139,706

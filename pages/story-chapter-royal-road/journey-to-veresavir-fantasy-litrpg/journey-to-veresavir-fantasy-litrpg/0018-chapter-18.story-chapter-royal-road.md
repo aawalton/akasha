@@ -1,0 +1,201 @@
+---
+id: 42343cf8-e889-5987-9082-9a2a6c25ac17
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18"
+slug: 0018-chapter-18
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 18
+ownLength: 3191
+unit: words
+publishedAt: 2025-11-03
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2729236/chapter-18"
+royalRoadId: "2729236"
+---
+
+Chapter 18
+
+There was no monster attack in the night. Or in the nights that came after. They sometimes encountered different animals and creatures on the road but more often than not, they only heard their calls or someone found tracks of their passing.
+
+Veron started to understand a little more about the ecosystem in the Teriam range. Ivera had mentioned it but it really clicked now that he was traveling with the small caravan. It wasn't that chaos beasts were all that common but they were the only creatures that wouldn't shy away from approaching a group of humans.
+
+He could feel himself tense up a few times when the forests around them quieted entirely and both Silvie and the others scanned the environment while preparing to fight, only for nothing to come of it. Blood beasts, likely, he learned, stalking them for a while and seeing if they could pick off someone or if they were worth the fight. Apparently, there was easier prey in the area.
+
+On the third day, they encountered another group of chaos beasts. Hound-like creatures. Incredibly aggressive, with torn fur showing their ribs, and wide mouths lined with sharp teeth. Veron was lucky that they couldn't find the gaps in his armor. The fact that he ended up on the ground again, wrestling two of the creatures before he could kill them earned him the nickname of mud dweller. He was just glad neither of them had gotten to his face.
+
+The essence wasn't enough to advance his Path but by now, he had started to work on his magic again, shaping and throwing rocks from his box seat on the wagon. He occasionally listened and connected to the winds, especially when they were picking up again and the clouds were darkening once more. However, he found that working on his aim and regulating the strength of his rock throws was a lot of fun, so he mainly focused on that.
+
+His makeshift projectile shot out and struck the tree he had aimed at with a clunking sound. “Yeah,” he called out with palpable satisfaction.
+
+Silvie smiled. “It’s surprising to see you act like that. Why are you having so much fun throwing around rocks?”
+
+“I'm not throwing around rocks.”
+
+She raised an eyebrow.
+
+“I'm throwing around rocks with magic.”
+
+Veron connected to another chunk almost the size of his palm, forming it to have a point with a bit of an edge. And then he let it hover, just slightly above his hand, like some kind of ominous mage threatening violence on an unknowing warrior. He breathed in deep and then let his focus flow in, charging the spell to a point where he felt a comfortable tension, then he aimed and released it, watching as the rock shot out about as fast as he could throw it with his arm. But already with a better aim. It hit a tree and the point dug into the bark.
+
+“Awesome. It's stuck.”
+
+Silvie sighed. “Yes, I guess that's pretty nice. Just can't believe your caretaker never allowed you to play around with this stuff in your teens.”
+
+Yeah. I guess it would seem a little strange without knowing where I’m from.
+
+“She’s pretty strict. Now that I finally left, it feels like I can do what I want.” He grinned at her reaction. Of course it wasn't exactly true but the emotion was true. It's how he had felt back when he had finally moved out. At least at first. It turned out that it wasn't quite that easy to just let go of old habits and patterns.
+
+And he learned that Silvie likely didn't particularly enjoy the company of teenagers. “I'm just joking around. Just never really had a use for flinging rocks at targets. I used my magic to make tools and repair things. I guess I'm starting to see the appeal, seeing how I'm finding myself on the ground in all of my fights.”
+
+“Well, you do have an Earth Harmony after all. Wait, that was an opportunity to use your nickname.”
+
+“I appreciate it that you didn't. Let's keep that to the next time I find myself wrestling a chaos beast on the ground.”
+
+Eyra was technically located in a valley but it hadn't exactly felt that way to Veron. There were mountains all around but they were distant enough and progressing in height that it hadn't felt oppressive. It had reminded him more of a plateau of sorts. Still surrounded by mountains but not enclosed. They had long left that area behind, first travelling through long sections of forest with neither much of an incline nor decline but soon that changed.
+
+Before them now spread a far reaching valley with distant cliffs and jagged mountain tops above. The dirt road was steeper here and winding down the mountain side, large rocks and boulders occasionally blocking the path, none large enough to pose an impossible problem to overcome but the journey was slower.
+
+The weather had held throughout the week, with occasional short showers and a mostly gray sky. The sun had peeked out here and there but it felt to be lower on the horizon by the day, unable to fully push through the growing cold and mist.
+
+“Once we're down in the valley, it will be a few more days until we're past the Teriam range,” Silvie informed him while they were pushing aside a group of wheel sized rocks that must have fallen onto the road sometime in the past months. Veron found that his ability to throw rocks also extended to large chunks of it, just that he didn't have the power to outright throw them but he could give them a nudge, enough for himself and the others to push and roll them out of the way.
+
+The journey down felt long, their caravan often travelling in the shadow. Veron breathed a sigh of relief when they reached what felt like the base of the valley. A curved stone bridge crossed over a wild river flowing with what looked like freezing water. The dirt road broadened, the wagons no longer constantly threatened to slide off a steer cliff.
+
+Turning around and looking up, Veron gulped at seeing the height they had travelled from. He could see the distant trees touched by sunlight, much of the valley in the dark. Steep mountain sides rose on each side and he could feel the urge to leave this valley as soon as possible. Maybe it was just an instinct but he wondered what kind of creatures were hiding within the mountain cracks and caverns he was sure to be there.
+
+And a part of him wanted to find out, perhaps to face the unknown, to learn whether his fear was justified or not, and then to overcome it either way. But he knew he wasn't ready, not by a long shot. But he also knew that if he wanted to go back to Eyra, he would once again have to travel through this valley.
+
+The next few days, they followed the dirt road that went alongside the river. Despite the much better maintained path, Veron felt a lot more on edge. Maybe it was the tension he could feel in the others, the glances they shot into the dark forest around them, or it was the forest itself, the cold and stark ground and the bare needle trees so close to one another coupled with the lack of sun that reached this far down.
+
+“Is this section of forest more dangerous?” He asked one night when they were readying themselves to sleep.
+
+“It does feel more ominous, doesn't it?” Silvie said. “The Northwoods, though we’re not even that far north all things considered. Rare to hear of caravans being attacked here but it's ill advised to walk these roads alone. I've heard a few stories of people going missing here, maybe more than in other areas but maybe I'm just imagining things because we're here and talking about it.”
+
+“I'm glad we have Reka’s wards.”
+
+“Yeah, that's something I've felt many times before. I'm not sure I could still handle being out here at night without any wards.”
+
+Sleep didn't come particularly easy and tonight, Veron had the second to last shift.
+
+It was pitch black when he stepped out and turned up the lantern. It felt like the light couldn't quite push back the darkness. No stars or nebulae were visible, clouds or mist keeping the dense forest covered. Reka seemed eager to get back into her wagon and towards more sleep when Veron took over.
+
+He felt on edge throughout his entire shift and when he felt like he was nearly done, he spotted something strange in the distant forest. A pale red light, bordering on orange, pulsing in a slow pattern. He squinted his eyes and felt as if the speck of light was moving, and then it vanished somewhere in the trees. He wondered if he should wake the others when Hayden stepped up to him.
+
+Veron jerked back and staggered up.
+
+“You okay?” Hayden asked.
+
+“Yeah, just startled. I saw a strange light somewhere in that direction. A dark orange, and it seemed to be moving.”
+
+“Not the strangest thing I've seen. Best not to worry too much, as long as it stays away from us.”
+
+“You don't know what it is?”
+
+“Piece of advice, there will be a lot of things out there that nobody knows about. And more often than not, you don’t want to go and find out.”
+
+Veron gave the man a slow nod and went to his wagon. He could tell that Hayden meant well and of course he wouldn't storm off in the middle of the night to chase a pulsing light but he couldn't help but question his curiosity. As soon as he had the means, he would try and find information on all kinds of creatures and magic. He wondered if there was a library in Anvakar, with a monster encyclopedia.
+
+It took a while to calm down but he got some more sleep at the very least.
+
+Two days later, the rocky terrain on either side of the forest slowly fell away, bare needle trees replaced with more diverse foliage. Birches with most of their leaves already fallen, bushes, and dead wood overgrown with red, brown, and white mushrooms. The small river had expanded into a roaring current, ice cold water flowing out from the Teriam range, reflecting the pale sunlight that managed to push through the clouds.
+
+Veron breathed a sigh of relief.
+
+“I feel the same, always forget how unpleasant that part of the journey is but we're getting closer to Perrion. Can't wait for a warm bed and the bustling of a small town.” Silvie said as they prepared to make camp on a large clearing near the river.
+
+“Ahh, I love the feeling of arriving in the north before snowfall. Tastes of adventure,” Reka exclaimed, whistling a tune to herself as she went about setting up her runes.
+
+Veron didn't disagree with either of them but he looked back towards the way they'd come from, wondering what all that tension in the Northwoods was about. It seemed like the others were glad it was over and immediately put it out of their minds but he wanted to find out more.
+
+There were a lot of other things he wanted to do first however, and some of those things aligned with what the party of adventurers was looking forward to.
+
+When they left the next morning, Silvie told him that the river flowed northeast towards the Terrom lake.
+
+“A lot of people would take this journey on a boat, either coming directly from Lyrie or from Karlsbrugg. I'm not sure how the war is affecting things but I can't imagine the already outrageous prices would be any cheaper.”
+
+“Have you ever gone by boat?” Veron asked. They were sharing the box seat like on most afternoons. The road here was a lot smoother than on much of their previous journey.
+
+“No. Without cargo or wagons, we could afford it, but it’s generally just not worth it. Besides, it's quite rare but there are monster attacks on the lake too. Flyers usually but sometimes strange swimming things I assume of either the elemental path or rarely seen chaos creatures.”
+
+“How much faster-” Veron started when a whistling sound came from the left and something fast hit Silvie’s helmet.
+
+Her head rocked to the side as the projectile glanced off and vanished into the forest.
+
+“Under attack!” Reka shouted from ahead.
+
+Veron grabbed his shield from behind him when one of the horses was hit. A crash came from ahead and he could see the carriage in front of them coming to a sudden halt while the horses pulling their wagon tried to steer left. He ducked his head when another arrow flew past and then he fell forward when the panicked horses pulled their wagon into the carriage. He landed in a roll and came up on his feet. His ears were ringing and he had to catch his breath.
+
+He saw Silvie staggering up from the ground near where he had landed, himself rushing back to grab his spear.
+
+Arrows. These aren't monsters.
+
+His heart was racing as he scanned the forest around them, moving close to Silvie who was getting her bearings.
+
+“Motherfucker shot me in the head. Veron come on,” she said and started towards the front of their caravan. She had her wand in her left hand and a sword in her right.
+
+Veron followed, shield in his left and spear in his right. One of the horses was dead already, the other one trying to pull the carriage but stuck due to the weight of the other horse. The front wagon was further ahead of theirs and the carriage, and turned on its side. Reka and Hayden were taking shelter behind it.
+
+Reymond lay on the ground between the carriage and wagon, unmoving.
+
+Another arrow zipped past, Veron taking cover behind the carriage. Shit.
+
+He could feel his chest tightening up. His heartbeat was quickening and he could see white spots in his vision. His back against the carriage, he sagged down to the ground, one hand to his chest. He could hear ringing in both of his ears and closed his eyes, ignoring the muffled shouts he heard from Silvie.
+
+Great time. To have a panic attack.
+
+Shit. You idiot.
+
+No. Don't call yourself that. It's fine. You're here. Calm your breathing. You’re under attack. So you need to get up!
+
+I can’t.
+
+Then breathe.
+
+He found that he couldn’t, his heart hammering away in his chest and his lungs unable to get in any air. He opened his eyes and saw Silvie looking out into the forest. More arrows zipped past.
+
+Veron let go of his spear, and touched his hand to the ground. He could feel something. It felt distant. But something was there, and slowly, he tried to pull himself towards it. His Focus snapped into place as he found the earth, found its depth, its weight, as if it pulled him down right back into the moment. He felt a tingling sensation in his fingers.
+
+The ringing in his ears subsided, and he gasped in a lungful of air, coughing as he could feel his heartbeat relax ever so slightly. He stayed focused on the earth for another few seconds, grit his teeth, and got back up.
+
+Silvie slammed the carriage door with the pommel of her sword and called out to the person inside, then cursed and turned to Veron. “Are you back?”
+
+He nodded.
+
+“Great. We need to grab Reymond, move him to the others. Last chance to join us!” she called out again towards the carriage but the door remained shut. “Your armor is better against arrows, let’s move together, you first. And I grab Reymond when we’re there. Can you do that?”
+
+“I can.”
+
+“Reka! Cover!” Silvie shouted and then looked at him. “Let’s go.”
+
+He ran, and Silvie followed close behind.
+
+The forest was quiet and Veron couldn't see a single moving thing among the white trees. He trusted his armor and Reka’s magic, then ran towards Reymond with his shield raised, making himself as small as possible. He could hear Silvie’s steps behind him.
+
+An arrow swooshed towards him and then stopped in the air as if an invisible force had caught it. He reached Reymond, hearing the man murmur to himself. An arrow was stuck in his shoulder.
+
+We need Hayden.
+
+Two more arrows were stopped as he grabbed onto the man. Only to have Silvie grab Reymond and drag him away. “Keep us covered!”
+
+An arrow glanced off his shield before another one was stopped in the air.
+
+Hayden stepped out from behind the wagon and shouted into the forest, slamming his hammer onto his shield. The next two arrows came for him, one he dodged with a quick side step and the other one he blocked with his shield, shouting again.
+
+Silvie and Veron moved past him and saw Reka giving them a nod before she continued carving runes into the downed wagon, blood running down the side of her face.
+
+“Hayden! Check Reymond! Left shoulder.” Silvie called out and went towards Reka.
+
+The armored man came back and knelt down next to the merchant. He checked the arrow and cursed quietly to himself. “Reka.”
+
+“I know,” she said with a focused voice. “Heal him. We make our stand here. They will need a short moment to circle us. And they will focus on killing the horses first.”
+
+Veron looked to the left and saw more arrows hitting the remaining horse trying to pull the carriage.
+
+“Unseen Fate, I call upon you, mend what was torn, heal what was wounded,” Hayden spoke, slowly pulling out the arrow as his right hand started glowing faintly white. He threw the projectile aside. “The poison has already taken root.”
+
+Reka threw him a pack. “There is some white bristle left. Medicine pouch.”
+
+Veron looked ahead and past Silvie where a tall and broad person came out from behind the trees, rushing towards them with a crude hammer wielded in their long arms.
+
+He was scared, heart pounding in his chest. This wasn’t a monster, was it? It was tall, two meters at least, and it looked like it weighed a lot too. White skin like the bark of the birch trees, bloody furs and bits of animal skin covering their waist and shoulders. Two sets of mandibles or jaws opened to reveal sharp teeth as it growled in their direction with white eyes taking them in. And then it ran forward.
+
+He saw Silvie prepare her wand, golden runes glowing. Veron gulped, then focused, slowing his breathing as he moved to join her side. He raised his shield and spear in a defensive stance as he focused on the being. He had no idea how strong this person was, but they couldn't be stronger than Ivera.

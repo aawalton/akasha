@@ -1,0 +1,199 @@
+---
+id: c94f4dea-93e0-5be0-afc1-5ad4a0d95d32
+page-type-slug: story-chapter-royal-road
+title: "Chapter 721 - Fundamental theorem of minions"
+slug: 0046-chapter-721-fundamental-theorem-of-minions
+partOf: hell-difficulty-tutorial
+position: 46
+ownLength: 2448
+unit: words
+publishedAt: 2026-01-04
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2911977/chapter-721-fundamental-theorem-of-minions"
+royalRoadId: "2911977"
+---
+
+“So, Minion, let me get this straight,” I say, grabbing her horn to make her look at me. “Your gang consists of some demon guy, who used to be a noble, and once kicked you when you were still a common street thief, and since then, his grandfather got eaten after trying to challenge what your people have been calling the Undying Dragon, nevermind that it’s not a dragon in the first place, and that guy has joined your gang after meeting you once again, by chance.”
+
+“Yes! Tami said it’s a family tradition to challenge the Dragon, and that his father will challenge the Undying Dragon sometime in the next few decades, and after that, it’ll be Tami’s turn to challenge the Dragon too. Until his father does the challenge, Tami is disowned and sent out on the road to gather experience and become stronger!”
+
+“What a lovely family tradition. And you took him in, despite the fact that he kicked you?”
+
+“I beat him up a lot of times for that, and I still do it once in a while, just so he doesn’t forget that I’m still the leader! We’re also using his money to finance our group. He has a secret bank account his mom set up for him, so he’s very rich.”
+
+“Good job, Minion.”
+
+“Thank you!”
+
+“The blonde half-demon girl with the talking dagger is your cook and healer. You saved her from villagers who tried to throw her to a monster they were worshipping as their deity?”
+
+“Yup! She’s from an old family that went broke, and she found her dagger in a secret room in the ruins of their old house. Master, that dagger has a very nasty personality too, so watch out, but please don’t destroy it. Liira likes it a lot.”
+
+“Yes, yes. The human girl?”
+
+“She was living on the streets like me before, and we caught her trying to steal from us. She’s really good at it, too, and super fast! We probably wouldn’t have caught her if the dagger hadn’t started screaming.”
+
+“And the demon girl?”
+
+“She’s my rival, Tykka! She’s strong and very mysterious, never talks about herself, the only thing we know about her is that she complains about her father sometimes. But she saw my greatness and joined my group of minions. You can be rude to her and call her heart weak, Master. Actually, please do it!”
+
+“Okay. I’m sure I’ll forget their names in a matter of minutes, Minion.”
+
+“It’s fine! They’re my minions, and by extension, yours too. They need to earn their names.” Vega nods seriously, and it makes me remember giving her hers.
+
+"That is true," I agree with her, "minionship is a transitive property as proven by the fundamental theorem of minions."
+
+"I have no idea what that means, but sure!"
+
+After that, she continues to ramble on about her adventures. I look at her and feel a bit sad. It’s a strange feeling, seeing her move about on her own without me, living her own stories and life.
+
+Then she says something outrageous, and I focus back on the conversation. “You did what, Minion?”
+
+“We heard there’s a big weapon under the lake that can blow things up and...”
+
+“Not that.”
+
+“We delved into the cave of a Wolfbear?”
+
+“Not that either.”
+
+“Oh! Our plan to sell the dagger at an auction and then steal it back afterwards?”
+
+“Minion, the last thing you mentioned.”
+
+“The part where we were staying in an inn and the dagger heard, through the wall and a barrier, that someone was talking about a virus that still needed a bit more work before it was ready, and that no demons would survive once it was done?”
+
+“Yes, that. How did the dagger hear it?”
+
+“Oh, the dagger doesn’t have eyes or ears, so it listens to vibrations or something fancy like that, Master. It said it can translate them into speech. It’s very cool but also very dumb. The dagger said people who set privacy barriers aren’t used to its kind of senses. I think it was trying to show off.”
+
+“Seems like it. Do you know what the people talking looked like?”
+
+“We never saw them.”
+
+“So you heard about it and decided to stay here?”
+
+“We wanted to sell the information, but we got sick and…” she pauses, lifting her head from my chest to look at me. “Master, when you came here… was I… weak?”
+
+“What do you mean, you tried to blow off my head.” I ruffle the top of her head and press her back against my chest while I think out loud, feeding her pieces of fruit that she nibbles on. “This Beyond quest stinks.”
+
+“I pwomise it’s not me, I wash a loth,” she mumbles with her mouth full, still chomping on the food I give her.
+
+“Minions do not stink because their master taught them to wash regularly, even though they resisted when they first met him.”
+
+“Yesh!” she chews and talks at the same time.
+
+“What do we do with stinky minions?”
+
+“We throw them into the volcano!”
+
+“Good,” I say, tapping the top of her head. “Don’t forget to drink too. They had some nice things to drink, and I brought some along for you, so don’t let them go to waste. And save some for your group, too.”
+
+“I will. Master, are...” she stops mid-sentence as the doors open and Lily enters awkwardly, a slight smile on her face.
+
+“I’ve been knocking for a while, so I thought you might not have heard,” Lily says apologetically from the doorway.
+
+“It wasn’t the spy guys trying to annoy me while I’m resting with my minion?” I ask.
+
+“Not really. I gathered the information, dealt with them, and sent them away a while ago.”
+
+“Lily, you know you could have come inside any time. This place is my minion’s fortress, and its no suspicious spies are allowed, but you healed her, so you get entrance for life. Right, Minion? Tell her right away.”
+
+“That’s true!” Vega says. “But this place isn’t mine, we’re just renting it from a guy called Randy. I think he’s scamming us, so we’ll steal the money back afterwards, along with everything not glued to the floor, just as you taught me, Master.”
+
+“See, Lily, you’re allowed in.”
+
+“Nat, why do I have a feeling you ignored a big part of what she said?”
+
+“Don’t sweat it. The spies?”
+
+“As you said, they work for Magistra. This place is currently under her jurisdiction and that of two more of the kingdom's Champions. To enter, you need to follow procedures. Even Magistra can’t come in without the others noticing or allowing it.”
+
+“How about the other spies our spies met?”
+
+“It’s likely a Champion from outside this kingdom, stronger than any of the three here, who’s able to enter freely. One and Two think this Champion might be behind the lab and everything connected to it. Or, if you want to be more paranoid, they lied to me, and it is something else.”
+
+“Yeah, I wouldn’t trust them too much. Did you learn anything from the healers?” I ask.
+
+“They... they tried their best, but they aren’t very good at this, Nat. They didn’t even notice they were infected themselves, and they couldn’t heal One and Two, so I cleansed all of them.”
+
+I look at this petite black-haired healer and wish I’d seen the expressions on their faces when she did that. I doubt they expected her to be this capable. At this point, I even suspect she may have removed the illness completely, not just suppressed the symptoms and recharged their bodies.
+
+“Don’t they have any better healers?” I ask her.
+
+Lily shakes her head. “These are some of the best this kingdom has. Most of the stronger healers belong to the Healer Guild, and they’re located in an impartial Kingdom. They work for money, items, and promises, staying neutral to any kingdom, demon, or human. But they don’t even have a Champion healer here. The best one is just under level 400. Demons aren’t great healers, and the humans still haven’t quite recovered since the last world war.”
+
+Turning to Vega, I ask, “Is that true, Minion?”
+
+“I have no idea, Master.”
+
+“As expected, my minion’s mental abilities remain insufficient, proving once again that minions are too weak to think for themselves and must depend on their master.”
+
+“Master?”
+
+“Yes, Minion?”
+
+“You said you came here on a Beyond quest. Did you know what it was about before you came?” the sneaky little devil asks.
+
+Lily giggles from the side, but I keep the same expression and hold Vega’s gaze. Without answering, I pick up another piece of fruit and shove it into her mouth. When she tries to speak, I push in another, then another, until she can’t talk anymore and has only two choices, either spit the food out or chew. But I know her. There’s no way she’ll waste food, so she keeps chewing with determination.
+
+Once again, I turn to Lily. “Still no signs of our most cowardly companion?”
+
+“None.”
+
+“Sounds about right. So, what do we know about the virus?”
+
+“Not that much. They don’t know how it spreads or where exactly it came from, though they suspect the destroyed lab. The process starts slowly, with slightly increased temperature and fatigue. You stop being able to keep anything down, then your body starts getting colder, muscles stiffen, and you lose control over movement. Around that point, hallucinations begin. After the hallucinations, you pass out and might wake up once or twice if you’re strong enough. Then comes the coma, and so far, they haven’t been able to awaken anyone who reached that point.”
+
+“That it?”
+
+“Yes. During the coma, you continue to weaken, probably having a few more hallucinations along the way, and without waking up, you slowly starve or die of dehydration. Higher-level individuals can probably endure it for weeks, maybe months, if someone takes care of them.”
+
+“Are Vega’s friends in a coma?”
+
+“I think so. But if I did it properly, I healed them, so they should wake up soon. Vega’s been really strong, you know. They all seem to have been infected around the same time, and she lasted the longest.” Lily smiles.
+
+As silly as my minion is, I can feel her heartbeat speeding up at the compliment, even though she tries not to show it.
+
+So weak.
+
+An hour later, the kids start to wake up, too. I give up on remembering their names and simplify them for my own sanity. The noble asshole demon boy who kicked Vega so long ago, the little human thief girl, the half-demon girl with the talking dagger, and the mysterious demon girl, Vega’s rival.
+
+How much better the world would be if everyone were named like that.
+
+The first to wake up is the mysterious rival demon girl. Like Vega, she immediately starts scanning and reinforcing her body, but she freezes when she sees Vega sitting on my lap with her ear pressed against my chest.
+
+“I won, Tykka! I beat the illness first!” my disciple lies shamelessly.
+
+The mysterious girl blinks, then glances at Lily before turning her eyes back to me. “Going by the way you look… are you her master?” she asks.
+
+“Yes.” I nod.
+
+“It’s all your fault she’s like this,” she says flatly, leaving me wondering what exactly she means. As far as I know, Vega is perfect the way she is.
+
+“Vega didn’t mention you had any healing skills, so I guess correctly that the one who healed us is this woman?” The mysterious girl gestures toward Lily.
+
+Lily answers before I can. “I’m Lily, and yes, I’m the one who healed you. But please don’t think you owe me anything.”
+
+“In that case, thank you, Lady Healer Lily. My name is Tykka.”
+
+“Nice to meet you, Tykka.”
+
+Before their conversation can continue, the two others start waking up, rolling around on their beds, and groaning from the leftover pain. The noble demon boy and the half-demon girl with the dagger start talking over each other, asking questions nonstop.
+
+The mysterious girl answers some of them, Vega mocks them, I introduce myself, and Lily does the same.
+
+Then the dagger starts shouting. Apparently, it had been asleep along with its owner until now.
+
+“Where are the simpletons who dared to put my wielder in such a state? And who are these two failing to kneel before my presence? Release me against that wretch, my wielder, before I mistake your hand for vermin and curse it to rot! And you…” The blade calls toward Vega, “Loudmouthed brat with the intellect of boiled cabbage. How many times must I endure your screeching before I consider splitting my own edge just to end the misery? Were you not the leader of this band of idiots, I might almost pity you. As for you, my wielder, how could you have fallen into such a state? I’ve met liches with more vitality in their bones than you have in your sickly body. And what is this I see? A healer? You have the presence of one who acts innocent and hides a mischievous mind. Do not feign modesty in front of me, woman! I sense the confidence of one who knows her craft too well to ever be gentle.”
+
+After that long outburst, silence fills the room. When I look down at Vega, she just looks back at me with a shrug. “It always talks like this. We’ve gotten used to it,” she whispers, as if trying not to let the dagger hear.
+
+Then the dagger continues, louder than before. “Now, which of you halfwits wanted to put me up for auction? Speak quickly so I can decide whose tongue to remove first. I’d rather spend eternity buried in mud than tolerate another hour among such a collection of delinquents and fools. Honestly, if this is a company of heroes, as you, who call yourself our leader, have claimed, then the world deserves to burn.”
+
+At that moment, a knocking sounds on the door. This time, I bother to check the signature outside before calling, “Come in.”
+
+The door opens, and Savant enters, his clothes slightly burned and showing signs of damage, probably from a fight. The dagger starts shouting again, even louder.
+
+Looking down at Vega, who’s shouting back at it with clear joy in her eyes, I can’t help but notice how much fun she’s having.
+
+Savant stays near the door, taking it in with the patience of a man too tired to care.

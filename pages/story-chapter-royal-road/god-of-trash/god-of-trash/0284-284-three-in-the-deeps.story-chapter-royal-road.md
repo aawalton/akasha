@@ -1,0 +1,109 @@
+---
+id: 4989be6a-654c-50ee-8328-18ba0a3fab34
+page-type-slug: story-chapter-royal-road
+title: "284. Three in the Deeps"
+slug: 0284-284-three-in-the-deeps
+partOf: god-of-trash
+position: 284
+ownLength: 2002
+unit: words
+publishedAt: 2026-03-09
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3134327/284-three-in-the-deeps"
+royalRoadId: "3134327"
+---
+
+Rhys walked at speed back toward his temporary home, moving on autopilot, most of his attention trained on the trio far below them. Virgil approached Bast and Luc, drawing to a stop not far from them. He looked the duo up and down. “How strange to meet you here again.”
+
+“Quit the crap. Let’s get this over with,” Bast snapped, annoyed.
+
+“Of course. Come.” Virgil delivered it as an order, and without question, Luc stepped forward. Bast stood for a second, crossing his arms, then stepped toward Virgil, though with great reluctance.
+
+“You know, we won’t have to do this for much longer,” Virgil said. Rhys couldn’t’ see clearly what he was doing, but he was setting something up. Mana flowed around him, and he got the impression of some kind of complicated magical equipment. “Soon, the Alliance will have too much on its hands to protest my leadership. I was hoping the war with the Empire could serve as that distraction… once I established my rule, of course.”
+
+Ah… so that’s why they didn’t strike when they told me it was go time! They wanted to drag it out, not take out the Empire in one. And then I fucked it all up by killing the Empress, and Virgil was forced to show his hand, or else look weak, Rhys realized, snapping. He’d figured it was something like that, but it was good to have confirmation. As for why they hadn’t immediately attacked… well, clearly Virgil was too focused on internal politics to worry about an external attack. Hell, for all Rhys knew, Virgil was right in the middle of his plot with taking over the Alliance via Luc when the Empire attacked, and they’d been a great annoyance to his plan.
+
+Actually, that’s… kind of how the timelines line up, he realized. He still didn’t think the Alliance had ever planned to fight back, but had instead planned to cede their land right from the start, but certainly, Virgil wouldn’t have wanted to get involved in a messy war until he’d consolidated his power.
+
+And then the real implication of what Virgil had said struck him, and he gulped. And he’s about to kick something off on the same scale as the Empire’s attack. Uh oh.
+
+His mind instantly went to the dissolved Straw, hidden away in the Alliance’s heart. Ernesto had been a fringe researcher, tucked away in the basement of Purple Dawn. Now, he was part of the core government in the center of the Alliance. Why would Virgil make that change, and involve himself with someone known to study cursed energy, which itself carried a stigma in the Alliance… unless he had something to do with Virgil’s plan?
+
+He raised his brows, then sucked a slow breath. If Straw was part of Virgil’s plan, that might be deeply problematic. Cursed energy was akin to impurities, and impurified mages’ mana. If he planned something like spreading little bits of Straw around, then erupting them into mass explosions of cursed energy, not unlike what Rhys had done with his potato chip impurities, he’d have effectively created the mage equivalent of a bioweapon or dirty bomb—something that didn’t seem that bad in the moment, but which would only get worse and worse as things progressed and time passed.
+
+Ah, shit. I really shouldn’t have done the potato chip thing. It was awesome in the moment, but I only seeded the idea in the world around me. It was too late now for regrets. He couldn’t put that genie back in the bottle. Rhys pressed his lips together, then took a deep breath. Maybe Virgil wasn’t planning that. Maybe it was totally unrelated.
+
+Maybe the sky is red. I dunno.
+
+Either way, events were continuing down below the earth. He reached his house at last and beelined for the smoking room, hiding away in its relative safety. Down with Virgil, Bast watched as Luc stepped into a magic circle.
+
+Virgil turned to him. He gave Bast a tired look and sighed dramatically. “Do we really have to do this every time?”
+
+“I will never willingly throw myself away.”
+
+Virgil snorted. “Isn’t that the truth. If it wasn’t for Luc almost dying to that northern lord, you would have continued to refuse the mark, too, wouldn’t you?”
+
+Bast said nothing.
+
+For a moment, there was silence, and then Virgil did that tired sigh again. “Well. Since you’ve decided to be stubborn, let’s do this the hard way. Step into the circle, please.”
+
+Rhys’s ears perked up. When Virgil said the words, his tone changed, and not only that; he pushed mana into his words, making them a compulsion. Bast shuddered, then stepped forward unwillingly, striding into a circle that nearly matched Luc’s.
+
+“If it wasn’t for those damned rogue nobles, we wouldn’t have to do this, you know. I don’t like this any more than you do, but I need Luc to be the big scary boogeyman, or else they won’t obey me. I hate stripping away your potential, but if Luc shows himself to be the paper tiger he is, I won’t stand a chance… and you’re simply not strong enough to be the boogeyman yet.”
+
+Rhys jolted. He… what? What was he doing to Bast? No. Fuck, no! That’s… that’s literally the worst thing you can do to a mage! Is he serious?
+
+He almost leaped in, but he held himself back. Luc was the boogeyman. Even he couldn’t rightfully say he could defeat the man in all surety, even knowing that the Sword Saint was barely a step above a puppet.
+
+Rhys took a slow breath and forced himself to calm down. It was fine. No… it wasn’t fine, but now wasn’t the time to intervene. He had all his other plans, and they all had to go off if he was going to truly, fully, once and for all, free Bast from the Alliance. Besides… this had clearly been going on for some time. Even if he leaped in here, he wouldn’t undo what had been done; he’d just tip his hand for little gain.
+
+That being said, he wasn’t happy to see it happening, but it was valuable to see exactly what happened. It would make it easier to reverse later, because of course he was going to reverse this. He didn’t know what it was, or how he’d do it, but he was completely sure that he wasn’t going to let his friend’s potential get stripped away. Bast didn’t deserve that. He was a talent, and he deserved to have his talent grow, not watch someone else steal it from him.
+
+The circles at Bast and Luc’s respective feet lit up, and gold light began to pour out. Energy appeared around Bast, swirling around his body and just over his skin. His brows furrowed, and then the energy began to lift off of him, passing over to Luc. Bast grunted in pain, while Luc closed his eyes, a serene expression on his face as though he was bathed in warm water.
+
+Rhys focused on the energy. It wasn’t quite mana, and it definitely wasn’t cursed energy; it was something else, something he’d never sensed before. Was this what Virgil called potential? Whatever it was, he locked the feeling of it into his heart, so he could pull it all back out of Luc later. Every last scrap, and not let an ounce of Bast’s energy go to waste.
+
+The light faded. Bast stepped back, swaying in place, and caught his breath. He looked even more wan than he had before, even more unhealthy than when he’d stepped into the restaurant; his eyes were sunken, and he looked absolutely haggard. Luc, on the other hand, all but glowed, looking even more energetic than when he’d stepped down here.
+
+Yeah, it’s pretty clear what’s going on here. Rhys sighed and withdrew, only leaving a bare scrap of mana sense behind to monitor the scene and make sure nothing else happened, but he was pretty sure he’d caught the bulk of it. Luc was a puppet; Bast was feeding him energy; both of them had marks that basically beheld them to Virgil’s every whim.
+
+Rhys sighed aloud, dragging his hands down his face. It was the worst case scenario all around. Bast was getting fucked… at least not literally, but honestly? This wasn’t much better. Luc was gone. Whatever tiny bit of him had remained during the battle had vanished by now, leaving nothing but a husk. Virgil was in total control, and he had some sketchy ‘big plan’ coming up ‘real soon’ that Rhys should probably ‘not show up to school that day’ for.
+
+“Fuuuuuck,” he complained aloud, just to get it off his chest. Fuck. This was bad. This was real bad. It was way worse than he’d thought.
+
+But it wasn’t hopeless. He sat upright. There were rogue nobles Virgil couldn’t control. He could rally them. He probably didn’t have the time to rebuild Norton’s social capital from scratch and get that moving, but he didn’t have to. He had Madame Tunk.
+
+I have Madame Tunk.
+
+Rhys abruptly stood and barged out of the smoking room. “Lily, darling!”
+
+“W-what?” Lily asked, jumping out of the kitchen. A half-finished meal sizzled on the stove, and he abruptly recalled that she hadn’t eaten at the restaurant. They didn’t need to eat, but as a noble mage used to three meals a day, she probably felt shorted by that.
+
+“Your mother-in-law. Er. My mother.”
+
+“Madame Tunk? What about her?”
+
+“Can you invite her for dinner? Tonight, please.”
+
+“Tonight?” Lily’s brows flew up, and her eyes went as big as dinner plates.
+
+“Yes? Is that too short notice?”
+
+“No, no, I’m, I’m sure she’d be happy to eat with us!” Lily said, suddenly scrambling. “Just… you go back in the smoking room, and I’ll get it all coordinated.”
+
+Rhys hesitated, then shrugged. She had just offered to do all the hard work. Was he going to say no? “Okay. Just let me know if you need any help.”
+
+“I can handle it.” She pushed him out of the kitchen and back toward the smoking room.
+
+“Er… wait.” Rhys took a deep breath, and for the first time since he’d arrived, he drew all the impurities in the house toward him, save the useful ones in the smoking room. All the dust, dirt, and grime flew toward him, then vanished into his core, leaving the entire house sparkling clean.
+
+Lily froze. She stared around them, absolutely shocked, then slowly turned back to Rhys, her jaw still agape.
+
+“There. That should make your job a little easier.” Rhys smiled and walked into the smoking room, getting out of her way to let her do whatever she felt needed to be done.
+
+He spent the afternoon quietly practicing in the smoking room, though he didn’t get much done. The light flowing from Bast to Luc just kept replaying in his head on loop, and the sick sensation of powerlessly watching someone steal his friend’s potential equally looped inside him. He couldn’t do anything, not right now. He would, very soon. But it hurt. It hurt to see Bast in that shitty situation and be unable to help.
+
+And there’s Mouse, too. I can’t imagine she’s in a good situation. He sucked a deep breath, then let it out, slowly. Focus. I won’t win if I get distracted. These horrible things are happening to people I care deeply about, but if I move now, I won’t solve anything. The only way to solve them is to keep going and finish it for once and for all.
+
+A bell rang. Rhys stood, refreshing his robes with a quick touch and steadied himself, putting his problems to the back of his mind. Just outside the door, a well-dressed mage with noble bearing waited for the maid to invite her in. Madame Tunk had arrived.
+
+It was time for the trashiest maneuver of this whole plan: politics.

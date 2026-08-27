@@ -1,0 +1,119 @@
+---
+id: 3e3f7a13-9c23-597c-a72d-1f7794792a1c
+page-type-slug: story-chapter-royal-road
+title: "137. Boss Fight"
+slug: 0137-137-boss-fight
+partOf: god-of-trash
+position: 137
+ownLength: 2019
+unit: words
+publishedAt: 2025-07-21
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2455040/137-boss-fight"
+royalRoadId: "2455040"
+---
+
+As promised, the man led them straight through the woods. They didn’t even grow close enough for Rhys to sense any other booby traps, which was unfortunate; they’d been an empowering experience. The badger walked along at his heel, his earlier hesitation forgotten. Now that they were travelling together, it seemed that he had accepted his fate. Was travelling together his holdup? Rhys laughed quietly, but he got it. Social engagements were hard work. Back in his homeworld, he much preferred to spend all his time in his room. He probably still would here, if not for the fact that he couldn’t get stronger or use magic if all he hid away all the time. That wasn’t the path for him, not in this world, anyways.
+
+Ahead, Rhys sensed life: heat, mana signatures, and lots of trash, thrown thoughtlessly aside and lying all around on the ground. His hand twitched, wanting to absorb it all, but he held himself back. There was no need to alarm the boss. They could have a civilized and convivial meeting, and then Rhys could absorb all the camp’s trash, after they came to an agreement about the dealers ceasing their production of worthless drugs and instead turning to the truly profitable market: potato farming.
+
+He turned to the criminal. “You’ve done enough. You can stay back, now… though if a fight breaks out, and you join it, I won’t—”
+
+“Sir is too gracious! I will never forget my debt to sir!” the criminal exclaimed, backing away. He looked like he wanted to flee, but a glare from Sable, and he instead set down his friend and sat beside him. “I’ll just sit here next to this tree, why don’t I? Wait for your luminous self to be done?”
+
+Rhys snorted. Not knowing what to say, he simply nodded and walked away. He didn’t really care if the criminal stayed or left, but on the other hand, the farm needed good, hardy workers, and this dealer was nothing if not hardy, given how quickly he’d woken up and how fast he moved with his unconscious friend on his shoulders. He wasn’t going to turn the guy away, but if the dealer decided to hoof it, he wouldn’t be too surprised.
+
+He strode forward, putting his hands behind his back and a serene smile on his face. Sable and Mouse followed, Sable at his shoulder, Mouse hanging back and cringing a bit, eyes darting back and forth. The criminals’ base was simple, a series of ramshackle wooden buildings that blended into the woods, mixed with a few semi-permanent canvas tents and a large stable currently occupied by a few horses and a hearty-looking wagon. A few toughs stood up from the campfire and approached Rhys, touching their weapons or cracking their knuckles in anticipation.
+
+“Got lost, kid?” one of them asked.
+
+“Not at all. I heard of an opportunity to acquire a logistics network and put it to much better use. Is your boss around? I’d like to discuss my acquisition of your criminal society in a civil manner,” Rhys said evenly.
+
+Mouse cringed harder. Behind him, Sable let out an amused chuckle. She’d sensed the same thing Rhys had: none of these men were above Tier 1, and the boss’s mana signature wavered somewhere between Tier 2 and 3. They were no threat to her or Rhys alone, let alone the two of them together with Mouse. Mouse wasn’t much of a fighter, but it didn’t matter when her stealth skills were as good as they were; she didn’t need to fight, when all she had to do was sneak up and one-hit ko the enemy. He felt a vague pang of guilt at the memory of Bast doing exactly that repeatedly to poor Mouse, but put it to the back of his mind. That was just proof of how good the technique was!
+
+The thugs met one another’s eyes. The biggest of them chuckled, taking the lead, his smile showing off his missing teeth. “I don’t think ya understand what’s gonna go on ‘ere.”
+
+“Do I not? Illuminate me,” Rhys said, unable to resist the urge to exchange some trashy pre-fight dialogue.
+
+“Nah. I’m gonna crack yer head, then that pretty girl’s head, and if there’s anyone else here, I’m gonna crack their head open, too,” he declared.
+
+“You’re certainly welcome to try. And when you fail, you’re welcome to bring us to your boss.” Rhys drew his broken sword. “If there’s anyone left, that is.”
+
+At the sight of his broken sword, the thugs exchanged a look and chuckled. The lead one shook his head and advanced. “This is gonna be fun.”
+
+“For one of us, certainly,” Rhys agreed. He looked at Sable. “Don’t kill them.”
+
+She nodded.
+
+Dirt burst up behind him as he charged the thugs. White flashed alongside him as Sable lunged in as well. The thugs rushed to meet them, but none of them could match up to his or Sable’s speed. There was a blur of violence, Rhys’s glowing Trash Intent matched by Sable’s shining white bones, and all the thugs were laid out on the floor, bruised, bloodied, and groaning. Rhys had avoided killing any of them; the farm needed workers, after all, and these men looked big and strong, perfect for potato farming. They were probably already farming, so he might as well point them at the right kind of farming, right?
+
+He pointed his sword at the man who’d challenged them in the first place. “I’ll say it again. Where’s your boss?”
+
+The man spat blood defiantly at Rhys. “Kill me. I’m dead anyways, since you beat me.”
+
+Rhys snorted. “Nah. You’re my all-important farm labor. You’re staying alive whether you like it or not.”
+
+Confusion and shock spread over the man’s face. He looked Rhys over, then slowly laid back down, exhausted. “I won’t tell you. Find him yourself.”
+
+Rhys shrugged and turned to the rest of the crowd. “Anyone else wanna help? I won’t leave until I get my answer.”
+
+One of the other guards glanced left and right, then raised his hand. “He’s right over there, in the big building!”
+
+“Fuckin’ Gian. Gods-damned coward,” the defiant man grumbled.
+
+Rhys saluted the man. “Appreciated. All of you, stay healthy. I’ll need my hearty farm workers when I’m done negotiating with my new subordinate.”
+
+The defiant man looked over. He squinted. “Jay? Not you, too.”
+
+Jay laughed. “I want no part of this battle. I’ll pledge allegiance to whoever wins that battle.”
+
+The door to the largest building flew open as Rhys approached. A stringy man with a bulging potbelly swaggered out, hands on the swords bristling from his wide belt. He squinted around at the men on the ground, bruised and battered, then glared at Rhys and Sable. “You the ones beatin’ up my men?”
+
+Rhys smiled. “One and the same.”
+
+“Tryin’ to take over my operation?”
+
+“I sure am, but probably not the way you’re imagining.”
+
+The man drew one of his swords. Jewels encrusted its handle, and a gold dragon curled over its hilt, spread wings acting as a handguard. He brandished the sword at Rhys. “You’ll find me a harder target than you imagined. I am… the Logan Waters.”
+
+With a flourish, he unleashed his aura. A Tier 2 aura struck Rhys and Sable, unusually hot and powerful for Tier 2.
+
+Rhys looked at Sable. “Who’s Logan Waters?”
+
+“Don’t ask me,” she replied.
+
+Logan looked from one to the other, shocked. “You’ve never heard of me? The escapades of the notorious bandit, Logan Waters? The man who stole the Crimson Flare Orb?”
+
+Rhys shook his head. “Sorry, nothing doing. Never heard of you.”
+
+Logan harrumphed. He brandished his sword again. This time, as he spun it, fire sprung up on its blade. “Let me show you the power of the man who’s mastered the Crimson Flare Orb.”
+
+“It doesn’t look very mastered,” Rhys said, eyeing the man’s potbelly. He could sense it, now that the man had drawn attention to it: his potbelly sang with an enormous orb of fire mana, far outcrying his somewhat pitiful core. In fact, Logan was actually only Tier 1, it was just that he could bring out the power of the Crimson Flare Orb to the Tier 2 level, and that was what gave him the illusion of possessing a Tier 2 magehood.
+
+He looked at Sable. “Can you handle this?”
+
+She laughed, stepping forward. An ominous aura burst out around her.
+
+Rhys touched her shoulder, asking her to wait a moment. “His potbelly is actually—”
+
+“I know,” she said dismissively.
+
+Rhys raised his brows, then sighed. If he could sense it, then of course Sable could sense it, too. He was the one who’d forgotten his trash-tier talent in everything that wasn’t trash. Sensing other mages was a valuable skill, so naturally, his ability was lower than average. He released Sable, letting her continue walking forward.
+
+Logan chuckled, shaking his head at the approaching Sable. “Should’ve listened to him. I’m out of your league, girlie.”
+
+Sable flexed her six bony limbs. All the other bones on her body shuddered and shifted bizarrely, moving of their own volition. Her claws flexed, and her eyes narrowed. “That’s my line.”
+
+In the background, Rhys punched the air. Hell yeah! One of the best lines in trashy books! Can’t think of a comeback? Just hit ‘em with the anime equivalent of “I am rubber and you are glue.” It was the ultimate kindergarten argument, upgraded for the coolest of cool guys and the most awesome of dark antiheroes, and he was here for it.
+
+Logan snorted and pointed his sword at Rhys. “You won’t be so jubilant in a moment when I roast this pretty thing on the bone. Now come here, darling. Let’s get this over with.”
+
+Sable needed no more invitation. Her eyes flashed, blazing with a hint of the red light Rhys had seen in the badgers’ eyes. Logan slashed at her, and his sword burned through her head ad into the chest… of her afterimage. He whirled in time to see three bony limbs surging his head, and slashed the air in response. A raging hot fireball spun from the tip of his sword and closed in on Sable’s face. The bones of her headdress trembled, then grew to several times their normal size, closing around her features. The fireball slammed into the bone helmet harmlessly, leaving behind naught but a scorch mark on the bones.
+
+Logan, who’d expected to see Sable retreat, stared in shock as she continued to press the offense instead. Bony limbs whirled at him from the left and right, while she clawed at him with her hands and feet. His sword moved at speed, barely parrying the barrage of blows, but he couldn’t block all of them. One after another, attacks got through, sneaking past his defenses and wearing him down with cuts and slashes.
+
+Logan shouted, and opened his mouth wide. Power built up in his jaws. Rhys expected Sable to jump away, but she stood still instead, continuing to hammer at Logan as though she hadn’t noticed. He frowned, then caught sight of her tail, stuck into the ground behind her. She’d anchored herself? But why?
+
+The power built. Scorching heat radiated off Logan, to the point Rhys could feel it where he stood. He called forth a few pieces of trash and put them between him and the battle, prepared for a cataclysmic blow. Surely Sable was confident in her plan, but… why wasn’t she escaping? Surely she didn’t think she could take this blow? Hell, Rhys was pretty sure it would badly injure him at Tier 3 if he took it head on. I thought Sable was a quick and agile kind of fighter. Why’s she just standing here to take this?
+
+The power in Logan’s mouth built to a fever pitch. He reared back, preparing to launch his fire breath. Rhys held his breath, leaning forward. If he had to jump in, he would, but—surely Sable knew what she was doing…? Surely?

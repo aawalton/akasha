@@ -1,0 +1,193 @@
+---
+id: 4b23ccb1-acc9-588e-9738-909624bafac6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 709 - High Grade residence"
+slug: 0034-chapter-709-high-grade-residence
+partOf: hell-difficulty-tutorial
+position: 34
+ownLength: 2519
+unit: words
+publishedAt: 2025-12-10
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2837184/chapter-709-high-grade-residence"
+royalRoadId: "2837184"
+---
+
+We are joined by a thylarin woman in professional-looking clothes. The kind one might see on a Japanese businesswoman. She has four arms, yellow eyes, and yellow hair that is striking against her blue skin. As we walk through the streets, she just keeps chattering on in rushed tones while pointing at the houses.
+
+“A High Grade residence permit is functionally the highest permit awarded. The only better options are the Ten Named Residences. But there are only two currently available, and I don’t think I’ll meet anyone in my life who’ll get the opportunity to take one of them.” She laughs shortly.
+
+My Handler walks at my side with her hands behind her back, listening while looking around for herself.
+
+“You said you would prefer an entire house over a rooftop apartment?” the thylarin turns to me.
+
+“Something without people around. In the best case, a building further away in the event of explosions,” I answer.
+
+“I understand. So you enjoy experimenting and creating items. If you weren’t aware, or if your Handler hasn’t mentioned it, there are designated workshops available for rent, as well as facilities equipped with safety measures for situations that may carry the risk of causing explosions,” she says.
+
+“Oh, I was talking about my body exploding.”
+
+“…excuse me?”
+
+“You heard what I said.”
+
+My Handler steps in with a smile and puts her hand on the thylarin’s shoulder. “Please ignore my attendee, he likes to joke around.” She lowers her voice closer to the other woman. “I may have heard about a few High Grade residences that were available on Aurelite Heights.”
+
+That makes the woman’s heart skip a beat, and I notice a hint of nervousness in her movement. Only thanks to my senses, because outwardly there’s not a single sign of it.
+
+“I was not aware that such information was so freely available,” the thylarin says. She’s not even trying to lie. I suppose Handlers are the sort of people you should take seriously.
+
+“I have my sources,” my Handler smiles. “His residence permit should be enough for a property just out of the way, with a decent view, an Adaptive Training Hall, Shielded or blast-resistant rooms, A Regeneration Zone, and Variable Gravity Chambers.”
+
+The thylarin gulps. “Lady Handler, do you mean that residence by any chance? There’s only one that fits your requirements exactly,” She asks in a tone that implies this is the sort of thing my Handler shouldn’t have known at all.
+
+It makes my Handler only smile at her without answering.
+
+The thylarin tries to fight back, “I am worried that a certain Ruler showed interest in reserving that residence for their own attendee if they should ever reach the fourth floor. I hope you understand well enough to drop...”
+
+Greed waves her hand, interrupting her. “Don’t try to bullshit me. We are here now, and there is no such thing as a residence reservation, no matter how much some people might wish there were.”
+
+The blue woman turns to look at me with desperation in her eyes, as if I might step in to help, and I just shrug. “My Handler’s a greedy person, isn’t she?”
+
+She doesn’t really pick up on it, but Greed pokes my side. I do not see the movement, but I feel it in my ribs, and the pain tells me enough.
+
+So petty.
+
+Trying again, the woman opens her mouth. “I am sure you’re aware…” She stops mid-sentence when she sees my Handler’s expression, then sighs. “Fine. I can see you’re determined, and I warned you, so it’s going to be up to you to deal with the consequences. With a high-end residence permit, that place can be allocated to your attendee for the rest of his tutorial.”
+
+She starts walking, and we follow behind her.
+
+“Is it some fancy place?” I ask.
+
+My Handler nods and answers in a quieter voice, talking just between the two of us, “Yes. It belonged to an S-rank who ended his tutorial two months ago. Since then, some of the other Handlers have been trying to hide it and save it for their own attendees. It’s probably one of the best residences in the city, outside of the Named Ten.”
+
+“What are you playing at with this?” I lower my voice and squint at her.
+
+“Can’t a girl be just a little greedy, get a distraction from all these big events, and have some fun playing at lower stakes?”
+
+“You know what would make it even lower stakes?”
+
+“I am not giving you shards, fragments, pristine passives, or any other sort of bullshit you might try to ask for.”
+
+I shrug, knowing it wouldn’t have worked anyway. “Now, on to the important stuff. The quest on my minion’s planet?”
+
+We stop as the thylarin stops too, opening her mouth to ask something. But catching my Handler’s gesture to keep moving, she closes it and continues to walk.
+
+Greed once again latches onto my arm. “It’s a simple quest. You and another attendee are set to go there as bodyguards for a third. It’s all set to take place in an area where your cute disciple is wreaking havoc.”
+
+“Wreaking havoc? Must be someone else’s minion.”
+
+“She’s gathering a... a gang she’s taken to calling her minions and going on adventures with them while spreading gospel about her all-powerful master.”
+
+“I... I see. It could still be someone else.”
+
+“She is also searching for a way to stop herself from growing up.”
+
+“Because she wants me to continue carrying her so she can listen to my heart?”
+
+“Because she wants you to keep carrying her so she can listen to your heartbeat and keep hugging you. Get a grip and start noticing social cues.”
+
+I let out a groan. This is going to earn my minion at least a thousand horn pokes. Why is she like Biscuit at times? And what the hell is she doing, gathering a gang of delinquents? I’ll have to look into that. And the hugs as well.
+
+When we finally come to a stop a few minutes later, we find ourselves in front of a copper-colored gate with a panel next to it. The thylarin touches it, and it lights up, along with the identification emblem on the back of her hand, unlike any I’ve seen thus far. She gestures at me, and I activate mine too, depicting a silver letter A. When I touch the panel, a notification appears.
+
+Would you like to claim the High Grade residence using your available residence token?
+
+This residence will remain accessible to you until the conclusion of your tutorial, allowing you to appear inside it rather than in another location on the 4th floor.
+
+Please note that neither the residence nor the city are designated as a safe zone.
+
+I confirm, and the token disappears from my status. I know it’s possible to set my “save point” at the guild headquarters, but appearing in my residence instead will work better. I just need to check the facilities to see if they’re any better than the guild’s.
+
+Left alone, we head inside, opening the copper gate to pass through a smaller garden and enter the two-story house. The plot isn’t all that wide, but I have neighbors on two sides. One across, another on the right. To the left of the house is a huge rock that the house is pressed against, and on the opposite side of that rock, more residences appear.
+
+“The adaptive training hall is in the basement and takes up the whole space. To a lesser extent, you can challenge stored Avatars there. You likely have experience with that from your guild.”
+
+I nod. “I never found them too useful.”
+
+“Because the Avatar cannot kill you?”
+
+“That, and that they just can’t compare to Avatars from the tutorial events.”
+
+“Of course, they can’t. Adaptive training halls are an attempt to copy the system, and they’re still a far cry from reaching that level even after all these years. Though the Corporation does have some really good ones. They’ve invested a shitload of resources after all.”
+
+“Tell me about the Corporation.”
+
+“No.”
+
+“One hundred shards.”
+
+“Two hundred.”
+
+“I will give you three hundred,” I say graciously.
+
+It makes her snicker, but she accepts anyway. “Aren’t you just too nice today?”
+
+“I have decided to put all my prejudices to the side for today. You promised me a quest where I might be able to check on Vega, and I am not such an ass that I don’t appreciate that.”
+
+"How little is enough," she says in a somewhat soft tone.
+
+“It is not a little to me. Now give me the information I just overpaid for.”
+
+She laughs. “The Aurate Consortium is their actual name, but everyone calls them the Corporation. They’re one of the biggest, most influential, and richest groups out there. They don’t fuck with us Rulers, but there are a few among us who owe them a thing or two, and those bastards tend to hold on to those favors, some for thousands of years.”
+
+“You as well?”
+
+“Not at all. Actually, they don’t seem to like me all that much. Their High Director used to be the disciple of the previous Ruler of Greed and now happens to be one of my masters, amusingly enough.”
+
+“Let me guess, the previous Ruler of Greed didn’t exactly die of natural causes.”
+
+“I killed the fucker.”
+
+“Thought so.”
+
+“But that should be enough for now. Don’t worry, you’ll learn a lot about them in the future, outside the tutorial. But just to tease you, I can tell you one more thing.”
+
+She lowers her voice to a whisper, and from where she stands a few steps away, she says, “They have a place called The Black Hole Forge.” As she speaks, her face changes. Her hair turns red, and her eyes turn yellow, becoming laced over with patterns. Her original look, a slightly older version of the Ruby I met on the second floor.
+
+Taking a breath to stop myself, I say, “I could probably say something very rude, and I’m sure you deserve it, because it makes me very angry and annoyed that you give me such a damn fucking cool name for the place and nothing else. BUT. I will be nice today.”
+
+“Good,” she starts walking again and gestures to a metal wall on our right. “If you touch this wall, you will get a menu that’ll let you open the entrance to the blast-resistant room. It is not all that big, but it is quite durable, even with your tendency to blow up everything in the area. Just don't repeat your last spectacle in there, or anything close to it for that matter.”
+
+Passing by it, I follow her over to two huge ceiling-to-floor windows that cover the entire side. One of them slides to the right, opening the way to a terrace with a couch for seating, a fireplace, and a few small trees placed there for shade without taking up too much space. The view opens to reveal the megacity below and the canyon with its huge walls in the distance. I think the view from Greed’s residence is better, but I hold myself back and don’t complain.
+
+Moving a few steps over, I come to a stop at her side, resting against the railing and looking down on the busy city.
+
+“The regeneration zone is on the upper floor. It connects to the city pathways and is maintained by Thane’s healers. Normally, one has to pay a monthly fee to install and keep it running, but High Grade residences don’t need to bother. As with most others, it is usually usable for only one hour per day to not overwhelm them. It is probably slower than your method of healing by burning yourself alive, but it avoids all that pain. And these healers even made a few clever modifications, so the process feels pleasant. It is like a sauna mixed with a bath.”
+
+“No one has time for such slow healing.”
+
+“Just relax once in a while,” she answers, looking down at the city. “Lastly, the Variable Gravity Chamber is the standard type you’d find in your guild. It should be placed off to the left, likely in the house extension carved into that stone.”
+
+I watch her walk away from the railing and move toward the seating. She takes a small pouch from one of her pockets and pulls out a beautifully crafted crystal bottle filled with red liquid, two glasses, and a small box. She opens it, revealing some sort of snacks.
+
+At any other moment, I would ask for a spatial cache for myself, but right now it just doesn’t fit.
+
+Something in her expression stops me. Instead, both of us rest in silence for the rest of the night, sipping a drink that’s probably more expensive than the residence I just claimed and slowly eating cookies with dried pieces of a fruit that might not even exist anymore.
+
+The next day, I stand in the bedroom upstairs in my residence as the night begins to fall. I wear a set of clothes that have been tailored to me. A well-fitting gray suit, a white shirt, and a pale blue tie. It’s different from the version I’m used to from Earth, and even now, I have yet to come up with a better description than that it feels medieval-ish.
+
+My hair is freshly cut, shortened slightly, and styled by visiting the beyond version of a barber. Considering the prices, he could have been a thief. So, it wasn’t really all that different from Earth barbers.
+
+Looking at myself in the mirror, I reread the notification I got not long ago when I finally turned thermal energy into mana.
+
+Congratulations. You have been deemed capable of attaining the status of Absolute through your own efforts, and you have been offered a system quest.
+
+If you choose to accept, no other party will be able to designate you as an Absolute Candidate from this point forward.
+
+This will not affect your eligibility to become an Absolute, even in the event that you fail the quest.
+
+Upon acceptance, you will receive a personalized quest. Rewards will include the title of Absolute Candidate, granted directly by the system, as well as an additional reward to be determined by your progression and performance.
+
+It is obvious what I chose.
+
+My reflection in the mirror grows more serious. Golden circles appear in my irises, and mana floods the space above my head, forming a halo that starts shifting into the shape of a crown not unlike the one I’d been using before.
+
+[Mana Manipulation - lvl 71 > Mana Manipulation - lvl 72]
+
+The crown over my head slowly seeps black mana, turning a pitch black that contrasts strikingly with the golden light in my eyes.
+
+[Manifestation - lvl 18 > Manifestation - lvl 19]
+
+I’m walking in the right direction, but it is still not enough.
+
+I know there’s more I can give.

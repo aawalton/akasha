@@ -1,0 +1,135 @@
+---
+id: 9e049820-5cee-540c-aa72-fd89d8efaa62
+page-type-slug: story-chapter-royal-road
+title: "Chapter 818 - Is that bad?"
+slug: 0145-chapter-818-is-that-bad
+partOf: hell-difficulty-tutorial
+position: 145
+ownLength: 2199
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3484788/chapter-818-is-that-bad"
+royalRoadId: "3484788"
+---
+
+I move further away, positioning myself at Savant’s side just in time to watch Skreth slam Morwag to the ground, only for the demon to climb up entirely unharmed and then be thrown by the monster into one of the smaller mountains nearby, causing its side to explode under the force of the impact.
+
+The monster ignores us entirely, and the huge volume of bone dust swirling around it shoots forth in a street wide stream towards the mountain. It scours the peak, grinding it down. The particles travel at such high speeds that their heat upon impact starts melting through solid rock.
+
+Morwag climbs out of that half-rock, half-lava mess, pushing himself forward even as the particles continue to batter and push against him.
+
+He takes another step, then another. With a massive stomp, the mountain cracks beneath him, and the resulting shockwave scatters the particles, leaving them to hang in the air like falling snow before the Skreth seizes control. Its huge body slams against Morwag’s, who tanks the hit, grabs the monster, and slams it into the ground. He then throws it with such force that it crashes through a neighboring peak and flies into the distance, with Morwag following at high speed.
+
+“Did he get stronger?” Savant asks next to me, done cleaning his sword, which gets absorbed into his body. His wing is gone now, but [Dawn] continues to gather around his right arm, which is now entirely orange.
+
+“It would seem so, his output’s increased. From what Weslin was saying, he’s improved his body strengthening to something that would be straight up suicidal without his binding. New right arm?”
+
+“How does his strenghtening compare to your sister? And yes, from the 9th floor.”
+
+“It is stronger, and he can keep it up too, while Vic’s duplicate would likely explode after a single punch. Still, it would be a hell of a punch, so after seeing this, I’ll have to tell her she needs to try to talk to him. But let’s move closer.”
+
+Both of us move swiftly after glancing once more in Weslin and Brich’s direction. Where before I sensed around 100 monsters, now there’s a swarm of over 300. Still, it doesn’t seem like I need to worry too much. The body strengthening Morwag is using was something he created with Weslin’s help, and he’s one of the best when it comes to such things. Meanwhile, Brich is... well, Brich.
+
+The scale of the fight is immense now, leaving miles and miles of destroyed space and evaporated mountains. And no one here’s even a Champion. Still, as before, I keep most of my mind scouting the area, something I’ve kept up through the fight as well. Out of all of us, my senses reach the furthest, and with my combination of sensing mana, kinetic, and thermal energy, I’m the most reliable scout we have.
+
+“Are you okay?” I ask, glancing at Savant once again. Something about his mana feels off, and when I look closer, there is a wound in his side through which rot seems to be spreading.
+
+“Not everyone has potent enough thermal energy to burn it away,” he says without skipping a beat.
+
+“Yeah, bullshit. I bet your [Dawn] could pull it off. Are you trying to absorb something weird again?”
+
+“Maybe.”
+
+I shake my head and land at the top of the destroyed mountain. I absorb the heat from the molten rocks around me and redistribute it into mana. The blood orb that’s been following me this whole time begins to elongate, and I use [Empyrean Lance], canceling it mid-activation and reusing that mana to build it around the blood, which strengthens it.
+
+[Empyrean Lance - lvl 54 > Empyrean Lance - lvl 55]
+
+[Weave - lvl 12 > Weave - lvl 13]
+
+I will have to find what action level [Weave] the fastest, because it’s currently so low that it’s bringing shame to poor old me.
+
+Looking down the broken mountain, I find myself looking over a small rocky valley where Morwag, still free of wounds, is facing the monster, which is now missing multiple arms and legs. It seems tired, with a deep cut across its chest from Savant’s attack, and my attacks can’t have helped things either. Still, even now, that storm of bone particles continues to grind down the area. Wherever they pass, they leave a mirror smooth surface. Patches of which now dot the field.
+
+Morwag breaks another leg off of the Skreth and stabs it deep into the monster, pulling down and cutting. He then throws a punch, cracking the bone armor, and strikes the same spot again, burrowing his hand inside. His binding seems to have weakened, or the monster finds a way to counter it, and its next attack pierces into Morwag but doesn’t push the rest of the way through.
+
+With a roar, the demon swings his hand and cuts the arm, impaling him free. He leaves it inside, not even bothering to pull it out, as he attacks again, pummeling the monster.
+
+Each exchange is quick, even to my somewhat accelerated mind. If it were me from a year ago, I would be barely able to follow them. My kinetic senses also sense the vibrations coming off each attack and movement, along with the force behind them.
+
+Savant moves to join the fight, but I put my hand in front of him. “Are you crazy? If you try to join now, Morwag will stop fighting the monster and attack you instead.”
+
+He furrows his brow and looks at me, but still decides to listen and stop where he stands. “He’s running out of mana, and it’s about to get dangerous. And we fought together until now.”
+
+“Sure, but now it’s turned into a one on one, and he’s locked into the fight. And what do you mean by dangerous? The monster isn’t even all that strong.”
+
+“It is four question marks.”
+
+“It’s not a Champion.”
+
+“Four question marks mean over level 450, so of course it’s dangerous. This is such a bother, you know. We could have already killed it together.”
+
+“It’s fine. We weakened it, and you got your rot or whatever it is, so let the poor demon have some fun.”
+
+As before, I meet his gaze, and only then does he pull his [Dawn] back.
+
+“I’ll go check on the others,” Savant says and moves away using kinetic energy.
+
+I observe him for a while, judging his use of it to be no better than a speck of sand on Lioren’s boots.
+
+Morwag, meanwhile, continues to have fun, with more and more wounds forming on his body, but with that, his mood continues to improve. The maniac sometimes even uses his horns to attack and even bites into the monster, which has finally begun to run out of steam alongside him.
+
+Holding two of the legs he tore off, the demon continues stabbing the monster with them, with the particles encircling them finally grinding down his skin and revealing his muscles and even his bones in places, but he doesn’t stop until the Skreth finally dies.
+
+[You have defeated Skreth - lvl 461]
+
+[Lvl 412 > Lvl 413]
+
+I watch the demon stand there before he slides down and sits on the ground with his back resting against the monster’s body. When I move closer, he looks up at me, and the aggression from his eyes is already gone, replaced by his usual state of control that uses that aggression as a tool and lets it rage only when it serves him.
+
+Even now, he doesn’t bother to remove the severed limb embedded in his body, which has otherwise slowly begun to heal. It makes me wonder how he deals with that necrosis or rot or whatever it was, but it doesn’t seem to be causing him much trouble. Is it a trait? Is his body just that powerful? Or maybe he’s using his binding energy in some exotic way to get rid of it?
+
+“Not enough,” he mutters.
+
+“Pardon me?” I ask, standing there near him.
+
+“Still not enough to beat you,” Morwag says, his eyes firmly locked onto me. “I’ve developed my body strengthening and use of my primordial energy further than ever before. Day after day, training after training, fight after fight. Yet no matter how much I replay it in my head and compare it to our fight, I do not see myself winning against you as I am now.”
+
+“Is that bad?”
+
+He stares at me for a second or two before he shakes his head. “No,” he says, “it is not.”
+
+Even as wounded as he is, he pushes himself back up, finally pulling the impaling limbs free and throwing them aside. “You are an opponent I respect, along with the effort you put in to stand where you stand now. I am someone who understands what that requires.”
+
+Passing by me, he leaves towards where Savant went, and I’m left behind, musing on it all over. Then I look down at my hand. I open it, observing it, and then close it into a fist.
+
+Shaking these thoughts off, I move towards the body of the Skreth and start looting, and that looting turns into a hurried exercise as, like a gust of powerful wind, a distant presence watches over me. Looking up, I look in its direction, noticing what seems like a burning horizon a dozen miles in the distance, quickly realizing I’m watching the movement of mana. It’s blazing up to the ceiling of this floor.
+
+I don’t have to be a genius to tell that we have no chance against whatever is coming, so I quickly grab a few more pieces and then a bit more, teleporting and using Wraith Dance. I reach our boys’ band sitting tiredly on the ground, surrounded by hundreds of corpses, with only Brich in an excited mood and the others quietly ignoring him.
+
+“We have to get out of here.” Something about my voice grabs their attention right away, so there are no complaints, and we swiftly head straight for the outpost. We should be able to enter easily enough, as there were still two hundred open spots when we left.
+
+The entire time, I keep glancing back, but the presence doesn’t seem to be in a hurry, and so we pick up speed.
+
+Once the outpost appears in sight, we all come to a stop when Zant appears in front of us as if he stepped out of the air. “I am afraid I cannot allow you to enter the outpost,” he says simply.
+
+Right away, I drop all the loot that I took from Skreth’s body.
+
+“That is not it, Sir Gwyn. Unfortunately, each of you carries Necrotic Rot from the wounds you received. It would spread quickly and kill many attendees and locals. This outpost’s leader would almost certainly deny you entry or execute you on sight. So I’d say giving you this warning is me showing you some goodwill while bending the rules of my current position to do so.” He nods seriously, clearly satisfied with himself.
+
+What a good boy.
+
+I pick up the loot again and gesture at the others to follow as we change direction and move away from the outpost, slowly approaching the presence in the distance. Right away, I start checking my body for any sign of Necrotic Rot, the little guy has mentioned, and find none.
+
+None at all.
+
+I see nothing damaging my body or spreading through it, and I thought I had burned it out of all the wounds I’d suffered. I can tell Savant is doing the same, as his gaze is a bit hazy as he looks into himself.
+
+Multiple times, I send a disrupting wave through my body, raise its temperature, and let thermal energy combust under my skin, and a few times I glance at Zant, who runs next to us on his tiny short legs that move very quickly, as he is easily able to keep up. Every time he understands what I want and shakes his head.
+
+I bet Lily would be able to deal with it in a heartbeat, and the fact that Zant did not even mention an option of moving closer for some healer or the outpost’s king to remove it tells me it is not that easy at all.
+
+Maybe I have been underestimating the guy we just killed too much. Still, even then, I do not think it’s something that’ll be impossible to deal with. Not even as that presence changes direction and heads towards us at that same slow speed, and not even as dozens more of weaker presences appear all around us and the night fills with screeching.
+
+My excitement grows slightly, and I feel a smile climb on my lips at the situation. The ever present danger, things going from bad to worse, the night just starting, and we’ll have to survive all of it.
+
+There is no doubt in my mind that it’s something I can deal with as I allow my Ignition Heart to beat wilder and gather more mana.

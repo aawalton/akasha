@@ -1,0 +1,85 @@
+---
+id: 34563ebd-5c97-51f9-a27d-38c53a0e3a41
+page-type-slug: story-chapter-royal-road
+title: "245. Make Trash"
+slug: 0245-245-make-trash
+partOf: god-of-trash
+position: 245
+ownLength: 2077
+unit: words
+publishedAt: 2025-12-08
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2830900/245-make-trash"
+royalRoadId: "2830900"
+---
+
+He sat there before the pillar and absorbed the toxic mist the way other mages sat in a mana well and absorbed mana, soaking it in for hours, then days. No one came by to disturb him, but that wasn’t surprising; even if they knew about this place, even if they’d created it, it would be too toxic for anyone but Rhys to approach. He absorbed nearly all of the mist, but not all, and nearly all of the gunk flowing from the stone pillar, but not all, and plenty of gunk still coated the surroundings, since he couldn’t spare time to suck that up as well, with the mist overwhelming him as it was.
+
+His whole world became the pillar, the mist, and the filth around him. With his eyes closed, he could only see through his magical senses, and slowly, he retracted those, relying on his nascent filth-sense only. The filth stood out in neon, while the rest of the world was empty space. The intricacies of how the filth pattered over the trees’ surfaces was infinitely visible to him, how it settled in droplets on leaves, tracing their shape like a net of mist. There was beauty in the filth, at its smallest size. Although it looked pestilent to his ordinary eyes, the tiny black droplets appeared like dark dew to his filth sense.
+
+He wanted to touch it, but he knew that was a bit of a bad idea. The mist was strong enough, let alone the condensed dew that had been sitting there for a while, getting more and more condensed as it evaporated under the sun. If leaving water in a hole in a ground could create strong acid after long enough, then what was already hideous filth surely wouldn’t get better by getting sun-treated.
+
+I need to make this trash. It isn’t trash right now, but simply filth; what I need, is to transform it into trash. A beam would be super nice, but I’ll take anything, quite honestly. Even if he had to sit there and think about it every time, anything that let him turn things into trash… or at least make them more trashy, would be a massive boon.
+
+Mirai was only Tier 2. A fallen once-Tier 3, but still Tier 2-3. He was Tier 4. There was no power boundary keeping him from accomplishing it, just a barrier of comprehension. If he sat here and put his mind to it, he could accomplish the same thing as Mirai… probably. It wasn’t as if cuteness was more aligned with beams, was it… was it?
+
+No, wait. It totally is! He wasn’t the biggest magical-girl fan, but how could anyone not know about the beams associated with magical girls? And what, he might ask, was cuter than a magical girl? There was hardly a magical girl out there who didn’t shoot beams out of her scepter, her tiara, her bracelet… the list went on. Mirai clearly knew about Japanese media—her name was proof enough—so she would also have the mental association of magical girls, aka the original emissaries of cuteness, with beams. Hell, for all he knew, there was a magical girl who had a cuteify beam.
+
+Well, that’s okay. I don’t need a beam. I just need the ability to make things trashy. A touch, a beam, an aura, it didn’t matter. He was really after the end result, and wasn’t particularly married into how he got there.
+
+He gazed at the pillar. The pillar. It loomed large, growing huge in his eyes. He immersed himself in it, blocking out all else. Trash. It was trash. It was trash.
+
+Rhys broke out of the loop and sighed, a little annoyed. The self-hypnosis wasn’t not working, but it wasn’t working either. He could sit here and do it eventually, but it wasn’t a general-purpose skill. He’d have to convince himself every individual piece of trash was, well, trash, and he kind of could already do that? There were limits, but it was generally possible, if he spent enough time. He didn’t want that, he wanted something more.
+
+That’s the problem. I just want ‘more.’ I need to define the more. Something to turn things into trash. Like a beam, or—
+
+Wait, am I coming at this from the wrong angle? It was easy to make things trash. All he, or anyone, had to do, was throw them away. It didn’t matter if it was in perfect shape or totally destroyed; once it was thrown out, it was dirty and trash. No one would eat food out of the garbage can, even if he showed them himself putting the food in a clean, safe, plastic bag, and he hadn’t touched it at all beforehand. The second it was in the trash can, it was filthy, dirty trash, and there was no more redeeming it. Against all logic and reality, it was untouchable.
+
+He reached into his storage ring and drew out a void trash can. Protecting it with his aura, he approached the pillar. The pillar oozed darkness and filth, trying to corrode everything it touched. Rhys absorbed as much as he could, but even then, he ended up having to spend nearly an equal amount of energy protecting the garbage can as absorbing the filth. He set it down beside the pillar, then pushed the pillar into the garbage can.
+
+Almost instantly, his hands and the can both turned pitch black. He pulled the impurities from his hands with all his might, and managed to draw them powerfully that he didn’t need to sever his hands, but the garbage can was ruined. Even before the pillar had hit the void netting and had a chance to be sucked through into the void, the material of the garbage can crumbled, and the pillar hit the ground.
+
+But it was different. Trashier. There was nothing visually different about it, but in his filth sense and mana senses, he could perceive the difference. It almost felt more like it belonged to him now. He could feel that he had domain over it, whereas before, it had simply been a filthy thing, but not trash. To some extent, he’d been able to clean-slash-save his hands because it had become trash shortly thereafter, and he’d gained a greater ability to influence it.
+
+It was still too dense to absorb immediately, but he could slowly gain ground on it. First the ground, then the mist, then the pillar itself, slowly eroding its control over the area until it all belonged to him. His trash star churned, growing larger and denser, and hotter to match, so hot that Rhys began to sweat and his core walls trembled. He didn’t shy away, though, but welcomed the heat. Whatever burned and scorched away under this heat was never good enough in the first place. At this point, it was a familiar process, and his core walls rapidly reformed stronger and more heat resistant than before.
+
+He sat up straight and slightly adjusted his stance, rubbing his solar plexus. With the heat from within, it felt a little like heartburn after eating particularly greasy food, a sensation he more associated with his first life. His stronger core walls didn’t feel the heat any less strongly, so the sensation persisted, not horribly painful, but not comfortable, either. There were still a few tidbits of filth clinging here and there, lit up in his filth sense, and he had nowhere to be, so he carefully absorbed all of it before pushing himself to his feet. There was a hole where the pillar had been, and from here, he could kind of see something in it. He edged up to the hole and peered inside.
+
+Rectangular yellow papers covered in red script covered a rock, completely coating it from all sides. Only little glimpses of the stone remained. Rhys frowned. Those looked like talismans. And if they were talismans, they were sealing something. But what? And why had the sealer hidden the seal under the pillar of filth?
+
+Well, maybe someone else came and placed the pillar on the stone afterward, he considered. The seal and the pillar weren’t necessarily placed by the same person. Someone could’ve come along afterward and… decided to… corrupt the seal? But the seal was startlingly clean and uncorroded, unlike everything else around it. So…
+
+No, I think someone did place the seal and the pillar. Which takes us back to, why? Protecting the seal made lots of sense, but there were lots of ways to protect a seal without covering it in inaccessible filth. Unless the filth was part of the seal, but how? Why? He just didn’t have the answers.
+
+But what he did have, was a newly-cleaned stream, a bunch of fabric, a filthy body, and a face to change. Rhys hopped into the waters and let them course over him, cleaning his body and clothes alike. He didn’t have to breathe any longer anymore, so while he was under the water, he drew out the cloth he’d acquired earlier and started scrubbing. In no time flat, he’d cleaned himself and his fabric, and he was ready to make new clothes.
+
+But first, let’s change my face. He was tired of being Justin Rockstar. He didn’t really need to be a girl right now, so that was out, but there were plenty of cool men he could be. Like… Water Vapor in the Sky. It was a clunky name, but the guy was super cool, with his spiky blond hair and bigass sword. He wasn’t going to make himself any shorter, but the face and the hair were good enough for him. And the muscle definition. Damn, that muscle definition…
+
+He broke the surface of the water much sexier than he’d entered it, carrying a sheaf of sopping wet fabric in one hand. Running his hair back, he looked around—and locked eyes with an old man, who stared at him. Rhys stared back, not sure what to say. They gazed at each other for a long time. The old man’s white hair and beard stirred as a wind blew, doing little to dry Rhys’s sopping wet clothes.
+
+At last, Rhys coughed. “Uh… can I help you?”
+
+“If I’m correct, you already have,” the old man said, putting his hands behind his back.
+
+Rhys glanced at the place where the pillar had been, then thumbed at it. “That thing? Yeah, I got rid of it. Unless you liked it, and then… wasn’t me?”
+
+The old man chuckled. “No, we did not appreciate the pillar’s presence. Ordinarily, I would be alarmed or enraged to find someone within our school’s barrier whom I did not invite, but since you’ve acted with such benevolence, it would be rude to discharge you. Tell me, stranger. Why have you come here?”
+
+“Uh, your trash heap was inside the barrier, and then the fabric I found in it—”
+
+“In the garbage heap?”
+
+“Yeah. It had a stain that I couldn’t easily remove, so I went to wash it off in the stream, but the stream was polluted, so I followed it upstream to the source and found the pillar, and it seemed like good training, so I absorbed the pillar.” Rhys said it all in one breath, then paused, thought back over his actions, and nodded, then smiled at the man.
+
+The old man raised his brows. “You… did not mean to assist our school?”
+
+“I mean, I didn’t not mean to assist your school, you know? I didn’t think I was harming you guys, but the school was kind of irrelevant to my decision process.”
+
+They stared at one another. The old man’s benevolent smile was starting to twitch a little.
+
+At last, the old man coughed. “I-in any case, our school owes you a great debt. Would you mind coming back to our central square, so that I can share the good news?”
+
+Sounds like loot to me. “Sure! Oh, hey. Do you know what the pillar was doing here?”
+
+“I can explain at the square.”
+
+And now it sounds like a trap. Rhys warily scanned the man, but the man was only Tier 4. Their power was equivalent, and if he had to choose, he felt like he was probably stronger. Eh, who cares. If it’s a trashy sect trying to pop a trap on me, I’ll just absorb them all. He beamed. “Sounds good. Let’s go!”

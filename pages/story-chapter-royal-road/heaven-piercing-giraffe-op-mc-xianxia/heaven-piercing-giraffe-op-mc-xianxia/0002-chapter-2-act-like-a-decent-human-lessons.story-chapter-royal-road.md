@@ -1,0 +1,336 @@
+---
+id: 8348ed08-a7d0-5544-9a3c-c5178c9cb58b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Act Like a Decent Human Lessons"
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 2
+ownLength: 2586
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3582852/chapter-2-act-like-a-decent-human-lessons"
+royalRoadId: "3582852"
+---
+
+Chapter 2: Act Like a Decent Human Lessons
+
+I opened my eyes.
+
+The ceiling was the first thing I registered: stone, high, carved with patterns that someone had clearly spent a great deal of time on. Flowers. Clouds. Small birds with wings spread in permanent frozen flight. A very human ceiling.
+
+Below it were humans.
+
+They were doing what humans did, which, in my limited observational experience from the savanna, appeared to be crying.
+
+"Young master… we won't forget you…"
+
+"Rest in peace, young master…"
+
+They were arranged around the bed I appeared to be lying in. Dozens of them, heads bowed, some pressing white cloth to their faces. A few were gripping each other's arms.
+
+One human pointed. "Hey. Her eyes are—”
+
+The crowd parted, pushing the human aside.
+
+Then someone large came through, the kind of man who occupied space the way a rhinoceros occupied a watering hole. Black beard, long and straight, the kind a goat would be proud of. His shoulders alone eclipsed two of the humans beside him.
+
+He crossed to my bed and pulled me into his chest without asking.
+
+The embrace was tight.
+
+"I'm sorry, Raffea… I'm sorry I wasn't here for your last moment. Those bastards didn't even close your eyes." His wide hand came up and gently pressed my eyelids shut.
+
+I processed this. Raffea was apparently my name.
+
+The large man — let's call him Goat for now, Rhinoceros is too long — smelled like sandalwood and something sharper underneath, some cultivation resources burned over long years.
+
+I opened my eyes and mouth.
+
+"Ahh."
+
+Oh… I can talk?
+
+Goat pulled back and looked at me, holding me at arm's length. Black hair swung across my shoulders when he moved me, a strange sensation. I had always been aware of my mane in a general way but never felt it swing.
+
+"Raffea." His eyes started to look watery. "You're alive."
+
+Then he faced the humans, and his voice changed entirely. The grief fell away and turned cold.
+
+"Find me the physician who examined her. Now."
+
+The crowd, which had been processing its shift from mourning to confused relief, processed one additional shift into collective anxiety. A man in a white coat was gently but firmly pushed to the front of the gathering by the humans standing behind him. He was shaking like a leaf.
+
+Leaf…
+
+The comparison made my stomach produce a sound.
+
+Leaves, my body said, in the language of hunger. Leaves would be good.
+
+"Make the chefs cook!" Goat's voice filled the room. "Fast!"
+
+"Y-yes, sect leader!"
+
+The room emptied with impressive speed, the white-coated human included. Goat turned back to me.
+
+For a moment, we simply looked at each other.
+
+He was the first to break, his gaze dropping to my neck. His expression shifted.
+
+"Raffea. What are those markings on your neck?"
+
+I tilted my head to the other side.
+
+The marking. I didn't know what the markings were. I also did not have a reflective surface to check. I filed this question under investigate later and tilted my head back to center.
+
+Several minutes passed. The room had gotten very quiet. Goat sat across from me, hands folded, watching.
+
+A servant entered carrying a plate. On the plate were three round white objects, steaming gently, with a smell that reached me before the plate did.
+
+"Pork buns. Your favorite." Goat held the plate out to me.
+
+I looked at it. I looked at my hands, two of them, at the ends of two arms, small and soft and pink-palmed and deeply unfamiliar. I was aware, in the abstract, that human hands were for grasping, but the instructions for how had not yet fully transferred from knowledge to practice. My hands shook as I reached out and took a bun.
+
+I stared at it. "What do I do with it?"
+
+The words came out clean and clear, which surprised me more than it seemed to surprise him. I had expected the ahh situation to persist longer.
+
+[Skill Translation was carried over.]
+
+Oh. Good morning, system.
+
+[Good morning, Raffea.]
+
+That was… new. It had never responded to a conversational address before. The mechanical tally-mark voice I remembered from my last decades as a giraffe had never said anything that wasn't a level notification or a skill description.
+
+Goat's voice pulled me back.
+
+"You eat it. Obviously… Don't tell me you've lost your memory?"
+
+Memory. An interesting framing. I still remembered everything. The acacia, the taste of leaves, the hairline fracture I had put in the floor of the heavens, the long centuries of deliberate unbotheredness. None of that had gone anywhere.
+
+I opened my mouth.
+
+[It will be more to your benefit to answer yes.]
+
+The system, apparently, had opinions about my social strategy. I considered this. It was probably right.
+
+"Yes."
+
+Goat's face did something complicated that eventually resolved into grief and relief occupying the same space, poorly. He hugged me again.
+
+"Now then." He finally released me. "Eat."
+
+I bit into the bun.
+
+My mouth registered: warm dough, something sweet, and then—
+
+I spat it out directly onto the plate.
+
+"What?! Is it poisoned?!" He was on his feet instantly, the soft version gone and the thunderous sect leader back, turning toward the door. "Bring water—"
+
+"It has pork in it…"
+
+He stopped. Turned back. "Yes. It's called a pork bun."
+
+"I thought it was a metaphor."
+
+"…A metaphor?"
+
+"It's smaller than actual pigs. I assumed the name was figurative." I accepted the glass of water someone had produced very quickly and drank it, washing the taste away. Then I held the empty glass out. "I want leaves."
+
+"You don't eat leaves, Raffea. You're a picky eater." He took the glass and set it aside.
+
+"What are you talking about? Leaves are my natural diet."
+
+He looked at me for a long moment. Then he looked at the ceiling. "I don't know if I should be happy that you're finally eating greens." Then he pinched the bridge of his nose and turned toward the door. "Tell the chef to prepare some leaves."
+
+The bowl that arrived several minutes later contained a smooth green liquid.
+
+Is that leaves?
+
+I leaned over it. Put my hand above it.
+
+"Spoon." Goat inserted a silver implement into my hand.
+
+I looked at it. The bowl. The spoon. The relationship between them.
+
+I hit the liquid with the spoon.
+
+Green splattered across my face. Some got on Goat's robe. I extended my tongue to reach the drops on my lips.
+
+My eyes went wide.
+
+"It does taste like leaves."
+
+Goat's palm met his face with a sound that echoed slightly in the stone room.
+
+"Send for tutors," he said, to the room in general. "The best ones. Tell them they have one week. Tell them their heads will roll if she isn't functional."
+
+"Y-yes, sect leader!"
+
+I had another spoonful splatter. Smaller this time. The liquid stayed largely in the bowl. I considered this a victory.
+
+***
+
+A week passed. No heads rolled, which I regarded as a positive outcome for everyone.
+
+Human-ness, I had concluded, was primarily a set of habits layered over a framework of social signals. Once I understood the framework, the habits were just practice.
+
+By day one, I had learned that we were on one of the lower floating islands.
+
+By day three, I could walk through a room without examining every piece of furniture with my hands.
+
+By day five, I had learned that my element was earth and the weakest because it was the element that least expected to fly.
+
+By day seven, I had completed what I was privately calling my Act Like a Decent Human curriculum, and the tutors had stopped flinching every time I opened my mouth.
+
+I had also developed a classification system.
+
+Humans, I found, were much easier to track once you stopped trying to learn individual names immediately and instead catalogued by role. The one in the black suit who appeared whenever things needed organizing: Human R. The one near the window who was always cleaning the glass with a cloth: Human S. The cluster of similar-faced humans who appeared in groups and moved together: Human Ds. Goat apparently was my Human Dad, which was both a classification and an actual role.
+
+I was in the sitting room on the morning of my eighth day, wearing a white short robe designed with leaves because the long ones are too determined to trip me, and a golden scarf matching my neck markings color to hide them.
+
+My hair was pulled back. The tutors had called it a ponytail, which I found deeply inaccurate. A ponytail implied a pony. I was not, nor had I ever been, a pony. I had internally reclassified it as a giraffetail and found that this made the sensation of black hair swinging between my shoulder blades tolerable.
+
+Human Dad found me. "Raffea. Are you going outside today?"
+
+I nodded. I had discovered that nodding was a remarkably efficient communication tool. It answered approximately sixty percent of questions without requiring further elaboration.
+
+Human Dad looked at Human R. Human R understood the look and executed a small bow before departing. Shortly afterward, I was surrounded by a group of humans whose classification I settled on as Human As. Attendants, based on their positioning and their habit of walking slightly ahead and to either side of me whenever I moved.
+
+We went into the corridor.
+
+The sect compound was large. Old stone, cultivated gardens, a hierarchy of buildings arranged by prestige in ways I was still mapping. The humans who lived here moved with the specific posture of people who knew exactly where they ranked relative to everyone they passed.
+
+We were approaching the left corridor junction when I heard voices.
+
+I stopped.
+
+The Human As stopped behind me, like a small confused tide.
+
+"—is she actually alive?"
+
+"Yes, but it seems like she's lost her memories. She's been acting completely different. Timid, apparently. Confused about—"
+
+"That's worse. She needs to be the arrogant young master. That image is what justifies what I've planned."
+
+"Shh, someone might—"
+
+I had already walked around the corner. "Don't worry, I heard you."
+
+The two humans froze.
+
+One I recognized as a Human D. The other was new: a middle aged man, cultivator's robes that were more detailed than the Human Ds. He had the particular aura of a monkey that had decided it was handsome and had been receiving no evidence to the contrary. He was gripping the Human D by the collar, which he now released slowly, like an empty banana peel.
+
+"R-Raffea. I didn't realize you were… how is your health? I heard you lost your memories. I'm your cousin, Zaku."
+
+"Young master, I think he is—" One of the Human As started.
+
+Monkey glared at her.
+
+I copied him and glared at Human A thinking it was the human thing to do.
+
+Human A made a small bow and returned to her position.
+
+"As you can see, I'm functional." I looked at them both. Human D was sweating. Monkey was doing a more disciplined version of the same thing. "I just finished my Act Like a Decent Human lessons. I'm going to find leaves."
+
+I walked past them.
+
+The gardens were extensive by human standards and modest by mine. Several carefully maintained trees lined the stone paths: shaped things, pruned to polite sizes, flowers arranged in deliberate clusters. Very human. Very controlled.
+
+I continued walking, then stopped.
+
+A shadow had fallen over the stone path. Large. Moving slowly, the way clouds moved, except clouds did not have edges that precise.
+
+I tilted my head back.
+
+A floating island, passing overhead at a leisurely angle. Its underside dark with old rock and dangling roots. It eclipsed the sun the way a hand blocks a candle.
+
+"Ramzan." One of the Human As appeared at my elbow. "One of our allied floating islands."
+
+I looked at it for another moment, then nodded and continued walking before anyone could ask me what I thought about it, or what I remembered about it, or anything else that would require me to navigate territory I had not yet mapped.
+
+At the garden's edge, where the cultivated section gave way to something older and less attended, there was a tree that I had spotted from my window during the week of lessons. I had been looking for it.
+
+It was there.
+
+An acacia tree. Older than the compound, probably. Its roots had lifted some of the nearby stone paving. Its branches were full and dark and they moved slightly in the morning air in the specific way acacia branches moved.
+
+I moved to stand under it.
+
+I looked up at the highest branches.
+
+I stretched.
+
+My neck did not stretch.
+
+I tried again, reaching for the Long Neck activation.
+
+Nothing.
+
+[Long Neck was not carried over due to elemental incompatibility.]
+
+What do you mean, elemental incompatibility?
+
+[Long Neck is a Wood-element skill. Your current elemental affinity is Earth. The skill cannot be expressed through an incompatible spiritual root.]
+
+I stood very still under the acacia tree.
+
+So I was short now. Human-short. Unable to reach the leaves that were right there, three meters above me.
+
+[On the positive side, Divine Neck was carried over.]
+
+I would have preferred Long Neck.
+
+[Understood, but not having it is better, I think.]
+
+Why?
+
+[Because it’s too flashy. The gods you pissed off will immediately find you.]
+
+What do you think will happen when they find me?
+
+[You know what will happen.]
+
+The image of the well done eagle surfaced in my mind. I learned the word well done from the tutors by the way.
+
+I sighed. The acacia leaves rustled above me, unreachable, smelling faintly of everything I remembered.
+
+The Human As had arranged themselves in a loose perimeter around me, trading glances over my head.
+
+From beyond the garden wall, voices carried on the morning air. Other humans, passing. I could hear them without seeing them.
+
+"I heard the young master is alive after all."
+
+"They said that the pillar of light disappeared the same day she woke up."
+
+"What a bad omen. Good thing we have Zaku."
+
+"Yeah. Trust Zaku... He is not a young master."
+
+"How can you be so sure?"
+
+"...He is old enough to be called young."
+
+I tilted my head and looked up at the acacia leaves again.
+
+Zaku… I think I heard it somewhere… I couldn’t remember so I noted, filing the name for later.
+
+I reached up with one human hand. I couldn't reach it so I touched the trunk instead. Briefly, the way you touch something to confirm it's real.
+
+It was.
+
+I lowered my arm and moved to the island's edge.
+
+Below it, where the earth should have been, there was a hole. Darkness oozed out of it slowly, the way ink spreads in still water.
+
+"Is it always like this?"
+
+"Only since the pillar of light disappeared." One of the Human As came to stand beside me, looking down. "The whole world is in a panic now."
+
+"I see." I watched the darkness spread for a moment. "That pillar of light must have been very selfish. Disappearing without notice like that."
+
+The Human A made no reply.
+
+I turned back toward the compound, the golden scarf swaying against my neck in the morning wind.
+
+I had a lot to figure out, and apparently a short neck to figure it out with.

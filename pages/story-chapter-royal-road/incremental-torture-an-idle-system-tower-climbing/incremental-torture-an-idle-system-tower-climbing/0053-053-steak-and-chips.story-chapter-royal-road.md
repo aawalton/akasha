@@ -1,0 +1,217 @@
+---
+id: 30540b55-46de-5bb8-a021-9ffc7c2753c0
+page-type-slug: story-chapter-royal-road
+title: "053: Steak? and Chips"
+slug: 0053-053-steak-and-chips
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 53
+ownLength: 2281
+unit: words
+publishedAt: 2024-06-10
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1671114/053-steak-and-chips"
+royalRoadId: "1671114"
+---
+
+“Well, even if I agree I’m not sure I want to do it today,” replied Evelyn.
+
+“Why wait? Anthea challenged the 15th Floor yesterday so that makes three. I don’t know much about your father but I’m sure he would join you. Finding one more person won’t be difficult. Being a founding member of a guild comes with fantastic perks, or so I’m told,” Kayla said.
+
+“I guess you’re right. I’ll have a look at how it works, at least. No promises, though. And I want to speak to my father first. And Anthea.”
+
+“Of course, darlin’. Take your time - but not too much. Now, let’s enjoy this delicious meal and forget about all the complicated crap,” Kayla said, rubbing her hands together as a waiter approached with a huge metal platter of what Evelyn hoped was steak, and more fries than she could count.
+
+Kayla didn’t hesitate to shovel a handful of fries straight into her gob and from the mixture of satisfied moaning and the fact she was already reaching for another Evelyn gauged the food was pretty tasty. That didn’t stop her first bite of one of the thick cut fries from being a tentative one.
+
+Do I even want to be a guildmaster? It sounds like a heck of a lot of responsibility. There’s no way I can just hand all the work off to the others like Kayla is suggesting, right?
+
+The moment she bit down into the crisp skin of the fry Evelyn’s mouth exploded with rich flavour. As far as she could tell it was only salt and whatever the potatoes had been fried in, but it felt as though her mouth was being embraced by greasy goodness. A feeling which was only enhanced when her bite continued into the fluffy interior. It was like a cloud on her tongue.
+
+It didn’t take long for her to grab a handful and start shovelling them down just as Kayla had been doing.
+
+Well, I’m sure it will be fine. The benefits of being in a guild seem to be rather amazing and I doubt anyone I know has enough essence to fund the creation given how rare they are. Only Kyron, Alice and a few others have started one up.
+
+“Try the steak, darlin’. It’s to die for. The chef here cooks it to absolute perfection. Just seared brown on the outside and juicy n’ red in the middle,” said Kayla in between mouthfuls of fries and steak.
+
+Taking Kayla’s advice was the best decision she had made all day. Her suspicions about the origin of the meat were shoved into a dark corner of her mind, overshadowed by the delightful texture of the steak. It melted in her mouth like velvet and the flavour was extravagant.
+
+Whatever spices the chef had used didn’t overpower the natural flavour of the meat and instead served to enhance the most potent aspects of it, delivering a gastronomical wonder that left her with an overfull belly and a huge smile on her face.
+
+Between the two women they had cleared an entire platter and it was only after Evelyn talking Kayla down that she stopped the waiter from bringing them another.
+
+That might have actually caused her to burst.
+
+“I have so many questions about this place,” she finally said after they had sat in brief silence upon completing the meal.
+
+“The restaurant?” replied Kayla, “I’m sure Dean would be happy to answer all of them, let me wave him down.”
+
+“Well that too now that you mention it, but I meant about Haven. All the changes. It’s a lot to take in. I wasn’t really focused on what was going on around me the last week beyond admiring the architecture and the scenery. And it was rather… interesting being around my father again.”
+
+“Oh!”
+
+Kayla didn’t expand for a few seconds which left Evelyn wondering if what she had said was too much for their amicable lunchtime chat. The part about her father at least. She was sure Kayla knew plenty about the recent developments in Haven.
+
+“Well, I’m sure you’ll get where you want to be in time. As for the city, why don’t we go for a walk through some of the more interesting parts to aid our digestion. I’m not talking about curious architecture now, but the wonderful people exploring the shiny new parts of the system for our benefit. And there are a damn load of those going around. Most tied to the guilds, which is why you need to start one as soon as possible.”
+
+“No pressure though, darlin’,” she added after a moment’s consideration.
+
+It seemed that she would eventually be pressured into starting the guild, whether she wanted to or not. There were too many people who had become attached to her through various ways in the tower and if she wanted to protect her family, and perhaps friends with any luck, then Evelyn would need to stick with them.
+
+“That’s a fabulous offer Kayla, let’s do it. I’ll try to message my father again. I think he’d like to see the real Haven too,” she answered.
+
+“Don’t. I was thinking it could just be our little private tour,” said Kayla with a commanding firmness.
+
+I sort of forgot we had that vibe going on, since I hadn’t seen her in a while. Maybe she expected more from lunch? I guess I’ll play along. I enjoy her company.
+
+“Sure, it can be the two of us. I’ll probably show him whatever you show me later, though.”
+
+“That’s fine darlin’. Let me just have a little chat with Dean then we can get going,” she said, standing up and making her way over to the owner of the restaurant who had more muscles packed onto his frame than should be humanly possible.
+
+I think I should try to buy some attribute points if that’s an option. I’m just a few from tipping fortitude into 100. Once I’ve achieved that I’ll just need to head back to the 16th Floor in order to complete the ascension requirements. I’m not sure doing it in the middle of the floor is the best idea, but I can’t see how else I’d be able to bring Dazurmagon down.
+
+Alone, at least.
+
+After leaving The Dirty Butcher behind the two women made their way out of the centre of Haven, towards one of the quieter residential districts where some of the city’s more influential challengers had made their homes.
+
+The citizens were calling it Forerunner’s Rest for now, but Evelyn wasn’t sure the name would stick. It was certainly catchy.
+
+Similar areas of town had started to sprout all over, with some dedicated to a purpose - such as living, crafting or eating - while others were just gatherings of like minded individuals or people with a collective taste for particular architectural styles.
+
+One of her favourites was a small neighbourhood composed of brutalist mini skyscrapers that looked utterly out of place among the rustic wood and brick buildings that made up most of Haven.
+
+A small reminder the tower wasn’t infallible. Even if it just came down to aesthetic choices.
+
+“It’s rather difficult to acclimate to this new pace,” Evelyn admitted as they travelled through the clean cobbled streets of Forerunner’s Rest.
+
+“If you consider the jump in difficulty it’s not that unusual. Don’t beat yourself up about it, darlin’. I’m sure you’ll clear the 16th Floor in no time. That loser T had to join a group to beat it, you’re much more impressive” replied Kayla.
+
+Evelyn’s cheeks reddened. “I appreciate the compliment, but it isn’t just that. This whole setup,” she said, waving an arm at their surroundings, “It’s so different to what we’d been put through. I thought the tower just wanted to keep throwing us through the wringer. I’ve been enjoying the peace and quiet, but I just have this strange feeling. A heaviness in my stomach. It’s so…”
+
+“Unsatisfying?” Kayla said, finishing her sentence for her.
+
+“Yes! Exactly that. I had begun to enjoy the thrill of pushing myself, even if it was dangerous at times. Most of the time. And I refuse to accept that the tower dragged us all here to just sit around and enjoy steak and chips, as delicious as they were,” said Evelyn.
+
+“Well, just because most people are content with beating the first 15 floors and sitting around here in Haven, that doesn’t mean you have to be. Whenever you’re ready you can head back into the 16th Floor, and then the 17th. And I know you will. That’s what I find so wonderful about you, darlin’.”
+
+Her cheeks grew even hotter. “You’re right. Thank you for the affirmation. I knew it already, but it’s great to hear it from a second source. I’ve made up my mind,” she declared.
+
+“Oh? About what?”
+
+“Starting a guild. I want to do it. Not just for myself, or the benefits. Even though I prefer challenging the tower alone, it’s important to me that I bring those I care about along with me for the ride. You, Anthea, my father and whoever else makes it here in one piece.”
+
+“Wonderful darlin’, I was wondering if you’d accept. I was considering some gentle torture, or a duel to force your hand if it took any longer.”
+
+Evelyn wasn’t sure if the cheerful southerner was teasing her or not. Sometimes it was hard to tell just what was going on in that strange mind.
+
+She paused in the middle of the road, and Kayla took a few steps before turning back with a curious look on her face.
+
+Essence: 47007133『+1021784 / 5:54:24 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+**Guilds**
+
+**Property**
+
+【KILL】
+
+Of the seven options available to her, Evelyn had explored all but one. Her property menu had just the rustic townhouse listed as hers, though she had some ideas about how to spend some of the excess essence she was gathering beyond the ascension requirements. At this moment in time though, she only cared about one particular option.
+
+**Guilds**
+
+Welcome to the Guild System, Challenger Evelyn!
+
+As this is your first time accessing the system, allow me to briefly explain some of the features available to you and offer a warning about your future, should you choose to join or found a guild of your own.
+
+Unexpected, but let’s see what it has to say.
+
+In order to join an existing guild, you just need to be invited by an existing member with the appropriate authority. Once you are part of a guild, you may challenge floors together and take part in World Events as a party, while sharing in the rewards and gaining access to features not available to challengers unaffiliated with a guild.
+
+To found your own guild, the requirements are a little steeper. First you must gather four willing allies, who want to forge an eternal and unbreakable bond of partnership with you. The five of you must swear an oath of loyalty and challenge in order to found your guild. The founder themselves must also make an offering of 2,500,000 essence to the tower. This is a tribute required to gain access to the deeper features of the guild system which are unavailable to others not in a guild.
+
+Once you have decided on a name, there is one final step before the guild is considered established in the eyes of the tower. You must dedicate a property as the Guild Headquarters. After all these steps are complete, you can explore the Guild System to your heart’s content.
+
+First however, a warning to any seeking the benefits of a guild. Oaths sworn under the officiation of the tower are not to be taken lightly. Breaking them will cause irreparable damage to your being and render you crippled in many ways regarding the system. Tread wisely, and continue advancing.
+
+It was a thorough explanation, but Evelyn was still left with quite a few questions. Most would be answered once she formed the guild, however.
+
+The warning was a little ominous too, but she had no intention of breaking an oath of loyalty to the people she wanted to form a guild with, so after dismissing the message she initiated the process of founding her own guild.
+
+However, there was one obstacle to creating it on the spot. They currently only had two members. Three if she included her father, but he might not want to join her guild. He was the type of man who preferred to lead by example, and she had a suspicion he would have founded his own soon enough.
+
+With nothing holding her back, she initiated the process of founding her own guild and decided that along the tour with Kayla, she would try to find her father and message Anthea. That just left her with one spot to fill. They would figure it out.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.14
+
+|Attributes|
+
+Power: 21 (22)
+
+Speed: 5
+
+Stamina: 9
+
+Vitality: 26 (31)
+
+Mana: 26
+
+Fortitude: 57 (93)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Galactic Expansion (Unusual), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Salvo (Common), Mana Wielder (Rare), Master of Combat (Rare)
+
+~Active~
+
+Flashfreeze Flamecharge (Rare)
+
+~Hybrid~
+
+Soul of the Unstoppable Conqueror (Unusual)
+
+Essence: 47007133『+1021784 / 5:54:24 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+**Guilds**
+
+**Property**
+
+【KILL】

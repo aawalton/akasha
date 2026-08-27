@@ -1,0 +1,99 @@
+---
+id: 7c6ec112-0b80-557d-9e3a-76fe18104122
+page-type-slug: story-chapter-royal-road
+title: "167. The Moment"
+slug: 0167-167-the-moment
+partOf: god-of-trash
+position: 167
+ownLength: 2513
+unit: words
+publishedAt: 2025-08-26
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2550261/167-the-moment"
+royalRoadId: "2550261"
+---
+
+Rhys crouched at the edge of his camp, or rather, the one he’d assigned to himself. It was the most hazardous of all of them: a filthy mine that handled stones that exploded, sometimes, leaving the whole thing cloaked in ash and stone shards. Even where he crouched, he could suck mounds of trash into himself from simply breathing.
+
+He counted down the final seconds, his eyes on the guards. Tier 1. A joke, honestly. The Empire really had forgotten about their attacks, all those months ago. He didn’t mind taking advantage of it, though. After today, they wouldn’t be so lax about their security. He should take advantage of it while it lasted.
+
+Rhys waited for a few moments, quietly surveying the situation. He was the last to get into position, given that he was required to teleport everyone around. That had gone… better than expected? The void was a scary place, and it sucked up his mana, but he’d known where he was going this time, and knew what to expect with the distances between holes. He’d only been able to transport one person at a time, but since each trip only took a few moments, it only took him about fifteen minutes, maybe half an hour to transport everyone into place. A few of them stared in shock as Rhys transported them through the void, or cringed and closed their eyes, but for the most part, they had the attitude of ‘business as usual,’ which he supposed wasn’t beyond the pale for a world of magic where someone might control bees as easily as breathing. It was an attitude he appreciated and worked to cultivate, since the less they talked about what he’d done, or thought about it, the less likely they were to notice how strange it was, or realize that he was dealing with the void. He wasn’t really sure what reputation the void had in this world, but he was pretty sure he didn’t want to know. Better to keep playing around with none of whatever stigma the void had attached to him, rather than get randomly stigmatized for messing around with a power he hadn’t explored fully yet.
+
+But everyone was in place now, and he still had time, since he’d told them all to wait for about the same amount of time so they could have something like a synchronized attack. He had a little time to observe, and make sure everything was as it seemed.
+
+He extended his senses, scanning the field. None of the guards reacted to his senses, and he didn’t sense them as anything but Tier 1. There wasn’t a warden, or a higher-ranked guard, in his vision, though he was sure there were some on the site. It would be insane if there weren’t.
+
+Then again, this is the filthiest, most impure site. Maybe they filled it with losers with no future, and no mage who actually had rank or potential was willing to work here. He considered it for a moment, then shook his head. At the end of the day, the Empire was a military state. In the military, it didn’t matter what rank you were, if you were told to go somewhere, you did. There had to be higher ranked guards somewhere. He just hadn’t seen them yet.
+
+Deliberately hidden to trick foolish insurgents into attacking? Or simply slacking off? Rhys moved around the outside of the camp, continuing to scan with his mana as he moved. He highly doubted it was the first, but just in case, he needed to know now, so he could call it all off instead. If this was some kind of nearly-a-year-old trap, as unlikely as it was, better he caught it and called everyone back than fell into it, however improbable it was.
+
+He approached the large boxy barracks near the edge of the camp, and finally sensed the higher-tier mages. Two Tier 2s, a Tier 3, and a Tier 4. Low Tier 4, but Tier 4 nonetheless.
+
+Rhys tensed. Fuck. There was a Tier 4 Warden at my original camp, but he didn’t show up often, and I was under the impression that he was there as a punishment. None of the other camps we hit up had a Tier 4, which reinforced my belief, but were those camps the fluke, rather than my first camp? If that’s the case, I have to call it off. I should be able to beat a single low-rank Tier 4… and this one doesn’t feel extraordinarily powerful. More powerful than the Warden, but not incredibly over my Tier. The real complicating factor is dealing with a Tier 3 and 4 at the same time. Still, if every camp has a Tier 4, we’re fucked. The Empire reinforced its camps after my first attacks, and we’ll need to recalibrate.
+
+He scurried back to his trash can and teleported to the closest camp. Passing by his men with a quick ‘stay there’ gesture, he hurried to the camp and scanned the barracks. He’d scanned them before; he wasn’t stupid. True, he’d only ever scanned the camps at a distance, so he’d never seen anything but Tier 1s at the camp he’d picked for himself, but he’d never sensed a Tier 4 at base before.
+
+Tier 1s and 2s, a single low-rank 3. Possible to defeat, especially since this was Sable’s team. He gave her a thumbs up and jumped into the trash can, reappearing by Mouse. Mouse squeaked in surprise, but he gestured for her to be silent and ran by. Tier 2s and 1s. Back into the can and on to Korii. Again, Tier 2s and 1s, a low-rank 3. He made a mental note that he’d probably have to help Korii’s men and gestured for them to wait for him, then hopped in one last time. Lira was floating in the nearby stream, and didn’t react at all to him popping up. Like Mouse, her camp only had Tier 1s and 2s. It was only his camp that was problematic.
+
+Rhys considered for a moment, then nodded to himself. He popped back into the teleport. “Mouse, I need you to watch the camp that I was going to lead. I’ll bring Korii here instead. I’m going to lead Korii’s team, and when we finish, I’ll come back with reinforcements to take on that camp. But… if you notice any movement from the barracks, I need you to immediately notify me.”
+
+“Notify how?” she whispered.
+
+One of the other mages stepped forward—the girl with the bees. Rhys couldn’t recall her name, which was embarrassing, but he didn’t have to remember right now. She opened her hand, showing them a cricket in a small cage. “If you whisper a message to him, he’ll fly to Rhys and repeat it.”
+
+Mouse looked at the cage, then nodded and took it, putting it in her robes. “I’ll let you know.”
+
+Rhys nodded. “I’ll be right back. Mouse, come with me.”
+
+A few quick switches later, Rhys crouched at the head of Korii’s old team, Mouse crouched alone in the forest outside Rhys’s camp’s barracks, and Korii led Mouse’s old team. This way, Rhys could fight the Tier 3, Mouse could watch and alert them if the Tier 4 started moving, and once they cleared out all the other camps, if the Tier 4 didn’t move—or especially if he did—they could all close in on the final camp that Rhys had meant to solo before he’d been confronted with at Tier 4, and take it on together. He’d need everyone for that base, it turned out. Honestly, I should’ve thought it was suspicious for only having Tier 1s long before go-time, but I guess sometimes I really am an optimist at heart. Besides, he hadn’t wanted to risk getting caught creeping around the barracks until go-time, in case he gave up the whole attack by getting caught being suspicious. On top of all that, he probably still would’ve tried, if not for the Tier 4, and he was pretty sure the Tier 4 had only showed up today. There was no way he could have predicted a random Tier 4.
+
+I need to get more integrated into the Empire, Rhys realized. He pinched his chin. And why not? He was a successful businessman. He should be making appearances at other merchants’ houses and whatnot, and all that bullshit. He didn’t give a fuck about politics, but politics were useful when his goal wasn’t to get ahead, but was instead to trash everyone else up. Plus, how else was he supposed to get dirt on the Empire’s nobility? Nothing like a bit of gossip at a ball to really toss some filth on another family’s face.
+
+He nodded to himself. We free these camps. We finish taking on the criminals. And then… then, we get invited to a ball. Failing that, we hold one. Failing that… we crash one. Actually, that sounded like way too much effort. He changed his priorities. After this… we crash a ball.
+
+The sun finished setting. The moon burned in the sky. Rhys turned to his men. “It’s time to move.”
+
+They nodded back, and he charged in, the others falling in behind him. Rhys targeted the Tier 3 aura, while the others closed in on the Tier 1 guards. This camp was some kind of farm, which along with mines, was the most common kind of operation; Lira was handling a strange kind of fish farm with her men, which was the only aquatic operation Rhys had seen so far, but then, it did kind of make sense that they’d need to farm water resources, too. If they were going to farm herbs and ores, why not farm shells, scales, fish, and water-based herbs, too?
+
+The Tier 1 guards fell one after another, rapidly taken out by the competent men he’d put under Korii initially. The Tier 3 guard’s aura began moving toward the battlefield, and Rhys rushed to meet him, summoning an impurity blade to his hand as he approached.
+
+A bald man with a huge tattoo over half his face that vanished into his robes rushed at him, and he met that man. Rather than drawing a blade, the man’s tattoo shone with bright red light, and he threw a punch at Rhys.
+
+Rhys tossed his impurity dagger to his offhand and pulled forth his broken sword. With only one hand on the blade, he barely managed to stop the man’s fist. Despite the fact that he’d punched a bare blade, the man’s red-tattooed hand hadn’t taken so much as a scratch. The tattooed man laughed and drew his hand back, winding up to punch again.
+
+“One of the Empire’s nobles, I take it?” Rhys asked. He eyed the man’s un-tattooed side. It didn’t look like there was anything special about it, but surely the man had some kind of technique to prevent someone from stabbing him in his obvious weak spot?
+
+“Indeed. You lay eyes upon the heir to the Jornache family,” the man declared.
+
+“Jornache, more like headache,” Rhys quipped without thinking. He tossed the impurity blade at the same time, sending it whistling toward the man’s unmarked skin. Might as well try. Maybe the man was just an idiot. He doubted it, but he wouldn’t know if he never tried.
+
+Pure white light glowed from the man’s skin, and the dagger bounced off. At the same time, the red light faded from his tattooed skin. He laughed and hammered a punch at Rhys from his other side. “You’ll have to wake up earlier than that to take a Jornache by surprise!”
+
+“Oh goody,” Rhys deadpanned. He kicked the man backward, then hammered at him from the left and right at the same time, impurity blade in one hand, sword in the other.
+
+The man grunted. Light shone from both sides of his body, but at the same time, strain appeared on his face, even before Rhys’s strikes hit. The blades pushed in on him from either side, clenching around him like scissors. He pushed against Rhys’s strikes, his impressive muscles straining.
+
+Rhys took a deep breath, then burped into the man’s face. Corrosive gasses poured over the man’s features. The man held his breath, but the gas seeped into his eyes and ears. He stumbled back, shaking his head. Rhys chased after him, continuing to pour filthy gas on the man and keeping up the pressure at the same time.
+
+Abruptly, the man stopped. He screamed, and an orb of white-and-red light burst off of him, throwing Rhys back. Rhys jumped with the motion, flipping in the air to land on his feet. Before he landed, the man was already rushing him, clearly used to this kind of combo attack.
+
+Rhys raised his brows. He had to give it to the man; he knew his weak points, and he’d definitely covered them all. That left Rhys two options: a battle of attrition, which the man clearly wanted, or to find a way past the man’s defenses to access his weak points anyways, which he was sure the man was also used to.
+
+Or I could just cheat.
+
+He gestured to his forehead, calling forth a black orb. The man, in the act of rushing him, widened his eyes and stumbled back, but too late. Rhys’s orb made contact with his forehead, and he froze. His eyes rolled back in his head, and he trembled.
+
+The light faded from both halves of the man’s body. Not one to wait around while attacks went through, Rhys stabbed him in the chest.
+
+The man’s eyes cleared. “It’ll take more than that to—urk…”
+
+“No, I think it’ll take just that much,” Rhys said. He put a hand to the man’s forehead, and a thought occurred to him. Wasn’t tattoo ink trash to the body it was in? He remembered reading an article back in his homeworld that tattooed people had slightly heightened white blood cell activity and inflammation for the rest of their lives after being tattooed. It wasn’t enough to cause any real problems… but if the body identified it as trash, then…
+
+Rhys pulled. The man’s impurities entered his body, and at the same time, the tattoo ink swirled from under his flesh and poured into Rhys’s core.
+
+In the seconds before he died, while Rhys was sucking away his energy, the man’s eyes locked onto Rhys’s. “Wh-why… if you could, tattoos, then…”
+
+“Oh… I just figured that out right now, actually. Would’ve made fighting you way easier, wouldn’t it have,” Rhys commented to himself. He looked the man up and down. “What was it, Jordache? I’ll have to remember to slurp your tattoos first, next time I face one of you.”
+
+“J… Jornache…” The last of the man’s energy left him, and he died.
+
+Rhys turned to the rest of the battle, then darted forth. There were still some Tier 2s to deal with, and some Tier 1s to suck the energy from. This battle wasn’t over yet.

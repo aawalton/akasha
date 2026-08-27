@@ -1,0 +1,316 @@
+---
+id: b1013db8-b7ea-5e2f-a590-a9d3e98dbdbe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Broken in a Different Way"
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 3
+ownLength: 2622
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3588154/chapter-3-broken-in-a-different-way"
+royalRoadId: "3588154"
+---
+
+Chapter 3: Broken in a Different Way
+
+Every day was the same.
+
+Wake. Eat leaves. Walk the compound. Observe humans doing human things. Return to room. Sit by the window and looked at the abyss. Sleep for an embarrassing length of time.
+
+I had not expected to enjoy sleeping this much. As a giraffe, I had slept in short intervals. Twenty minutes here, half an hour there, always with one ear tracking the savanna. Full, deep, long sleep was an indulgence I associated with prey animals too comfortable for their own good.
+
+Apparently I was now prey, and apparently I was very comfortable.
+
+I was in the middle of my morning sleep extension when the curtains opened.
+
+Sunlight arrived across my face like an opinion I hadn't asked for.
+
+"Up," said Human Dad.
+
+I pulled my arm over my eyes. "What is it?"
+
+"Time to start your training."
+
+"Training for what? I already know how to be human."
+
+"What are you talking about?" The curtains were opened wider. "Get dressed. Go downstairs with the new disciples."
+
+"Why?"
+
+"Because you are at the age to be one." He moved to the door without further elaboration, which was a very Human Dad thing to do. Then he stopped. "And the islands above are already killing each other since the pillar of light disappeared. Who knows when war will break out at the lower ones." He moved past the door.
+
+I lay still for another moment, looking at the ceiling.
+
+Disciple. That made me a Human D.
+
+I had not seen that coming.
+
+I stretched. Full body, arms overhead, spine lengthening as far as a human spine was willing to go, which was not very far and was deeply unsatisfying.
+
+The wardrobe presented no real challenge anymore. Three weeks ago it had been a genuine puzzle; now I navigated it with what I felt was reasonable efficiency. I selected a robe with a green leaf pattern embroidered along the hem and cuffs, because they looked the most appetizing, and shrugged it on with only one false start at the sleeve.
+
+Hair: gathered and tied at the back of my head in a giraffetail style.
+
+Sandals: last, and reluctantly. The compound required footwear in the common areas, which remained one of the more inconvenient human customs I had encountered. My hooves had never needed management. Sandals required active participation.
+
+And before I forgot, the scarf. Human Dad had been firm on this point. The golden markings on my neck were to stay hidden until the scholars finished translating them. I did not fully understand the urgency. I had always had markings on my neck. They were a giraffe thing.
+
+I wrapped the scarf. Unwrapped it. Wrapped it again. The robe had taken one false start at the sleeve; the scarf required four attempts before the result was passable.
+
+I moved into the hallway.
+
+Human R materialized beside me within about thirty minutes. He was one of the better humans I had catalogued: organized, consistent, and he had accepted the leaf I gave him last week with genuine grace, pocketing it carefully rather than making a face.
+
+"Young master. Your father is waiting."
+
+"I know."
+
+He paused. "Do you also know where?"
+
+"That I don't know."
+
+"I see. Follow me, young master."
+
+I followed him through two corridors, then out a side door into open air. Cool morning wind. Stone paths. A second structure, smaller and set apart from the main compound, visible ahead across a courtyard.
+
+"Why did we go out?"
+
+"Because it's in a different building."
+
+"Why?"
+
+"Last time, it exploded. The sect was included in the damage."
+
+I nodded. That sounded like a reasonable answer.
+
+We arrived. Human R offered a small bow and left. I pushed the door open.
+
+Inside was a room I had not been in before: wide, floored with smooth stone, windows high on the walls letting in clean morning light. Human Dad was already there, arms crossed, standing at the front.
+
+And the Human Ds were there. A full group of them. Twelve, maybe fifteen, clustered near the back wall and doing what new groups of humans always did, which was whisper to each other and try to determine the social order without being obvious about it. They ranged from roughly my apparent age to slightly older. Some held their robes carefully, like clothes they weren't used to wearing. Others stood with confidence.
+
+I took a position toward the side. Several Human Ds noticed me and their whispering shifted register, becoming slightly more pointed.
+
+Human Dad's gaze moved across the room and the whispering stopped.
+
+"Now that everyone is here." He uncrossed his arms. "Your training begins today. The woman beside me is Instructor Akasha. She will be your guide through your foundational cultivation."
+
+The woman stepped forward and bowed.
+
+She had red hair, vivid red, the saturated kind that I associated with fire cultivators. It spiked outward at the edges in all directions, the precise shape of a pine tree if a pine tree had decided to be angry about it. Black robes, red at the cuffs and collar. Her posture was precise. Her expression was neutral.
+
+Her name, however, immediately elevated her to the top of my classification hierarchy.
+
+Akasha. Like the acacia tree. Like the leaves. I somehow felt warm toward her in the way I felt warm toward anything that shared a name with something delicious. I decided, I will try my best to memorize this human's name.
+
+"I'm Akasha, a fire cultivator. I'll be your instructor for foundational training."
+
+The neutral had barely settled before a hand went up in the back. Then a voice, not waiting for acknowledgment:
+
+"Why a fire instructor?" The Human D who spoke was tall. "Fire boosts Earth, and most of us here don't have Earth affinity. Only one person here has Earth affinity." The pointed gaze moved to me briefly. "If she's here because of her, that's just the sect leader being biased towards his daughter."
+
+A ripple of agreement moved through the group.
+
+"Yeah."
+
+"Those with Earth affinity should be sent to the fields."
+
+"It's not like they could fly even if they train for years."
+
+Human Dad turned slowly toward the dissenting cluster. The movement alone produced silence.
+
+He looked at them for exactly long enough.
+
+Then he walked out.
+
+The door closed.
+
+Akasha watched it close. When she turned back, her expression sharpened.
+
+"Since some of you have helpfully established that my presence here is a favor to the sect leader's daughter," she said, with a pleasantness that had no warmth in it whatsoever, "let's see what we're actually working with. Everyone sit. Cross-legged. Meditate. Anyone who doesn't level up will stay."
+
+The scramble to sit was immediate.
+
+I looked around at the others, then down at the floor, then sat, legs crossed, hands resting on my knees, in the configuration I had seen the others assume. I was not entirely sure what meditating entailed beyond the physical position, but the social logic of the situation was clear enough: do what the group does, observe, and figure out the mechanism from watching the results.
+
+Silence settled. The kind of silence that is actually full of things. The sound of concentrated effort, of breath deliberately steadied, of a dozen people trying to locate something inside themselves.
+
+Across the room, a Human D with silver hair began to glow.
+
+Just a faint luminescence, a warmth gathering around her form like the air above summer stone. Then it was gone.
+
+Akasha moved in front of her. "You're done. Go."
+
+She rose, and took exactly long enough doing it to let everyone see her push her round glasses up with one finger. Sharp crimson eyes caught mine briefly as she moved toward the door. The kind of eyes that were more noticeable for being framed by all that white. Pure white robes, not a speck of dust on them. Long silver twin braids swaying behind. She walked through the door.
+
+I did the thing the tutors called eyes communication and used my eyes to ask: how did you do it?
+
+She walked through the door.
+
+Apparently, my mastery with eyes communication was not high enough.
+
+Another glow. Another dismissal. Then two more in quick succession, a girl whose light was faintly blue and a stocky boy whose was muddy brown.
+
+I watched each one and tried to identify the pattern: what they were doing, what changed in their posture or breathing before the glow arrived. There was something. A quality of inward focus, a slight dropping of the shoulders, a loosening around the jaw. Like the moment before sleep, when the body finally stops arguing with the mind about whether it's tired.
+
+Cultivating spirit energy, the tutors had called it. The ambient spirit energy present in all living environments, denser at higher altitudes, could be drawn inward and refined into a practitioner's personal reserve. The mechanism sounded straightforward when described. The practice, apparently, was not.
+
+One by one the room emptied. Ten. Eight. Five. Three.
+
+Akasha moved between the remaining students, pausing to observe, occasionally making a small adjustment: a redirected hand, a murmured correction. She reached the Human D beside me, watched him for a moment, and moved on without comment, which seemed to discourage him considerably.
+
+Then she was standing in front of me.
+
+Only the two of us left.
+
+She stared at me.
+
+"Don't tell me… the sect leader's daughter has no talent whatsoever?"
+
+"Is it that difficult to gather spirit energy?"
+
+"You — you're asking me how?"
+
+"I'm asking whether it's meant to be difficult. Conceptually."
+
+Her expression did something brief and difficult to classify. "Most people level up within their first twenty minutes of proper meditation. You've been sitting here for over an hour." She crouched to be at eye level with me, which was an unusual angle to be regarded from. "Have you been trying? Genuinely? Or are you content just being a young master?"
+
+I considered this.
+
+System, how do humans gather spirit energy?
+
+[You are already doing it.]
+
+Then why haven't I leveled up?
+
+[Your current level is substantially incompatible with the spirit energy available in this environment. You spent millennia absorbing them directly from the heavens. The ambient spirit energy present in this compound is not insufficient. It is merely... negligible, relative to your baseline.]
+
+I sat with this.
+
+So I'm not broken?
+
+[You are broken in a different way.]
+
+Does it mean I’m sitting here until she gets tired?
+
+[Apparently.]
+
+***
+
+Fortunately, the floor was also comfortable.
+
+I discovered this when I opened my eyes to find the morning light had shifted to the pale, flat quality of the following morning, and my cheek was pressed against smooth stone that had, at some point in the night, stopped being uncomfortable and simply become where I was. The meditation posture had dissolved somewhere along the way. I was curled sideways, one arm tucked under my head as a pillow, in exactly the position I would have chosen if offered a bed.
+
+Across from me, Akasha was also on the floor.
+
+She was sitting upright, which she had possibly managed to maintain through the night, or possibly had corrected before I woke up. I could not tell. What I could tell was that her arms were crossed, her red hair had escaped its arrangement considerably, and her eyebrows were doing a sustained kind of twitching.
+
+She stared at me.
+
+I looked back at her.
+
+"How did you not level up for an entire day?"
+
+"My level is too high apparently."
+
+The eyebrows twitched again. "Stop lying."
+
+I considered explaining further. Before I could decide, the door opened.
+
+The other disciples filed in. They entered and several of them slowed when they saw me still sitting on the floor. Then the whispers started.
+
+One Human D near the back caught my eye and smirked. He was broad-shouldered for someone our apparent age, with short green hair that spiked in every direction the way a porcupine commits to its spines: forest green, dense, entirely unbothered by gravity. His robe hung open like something mid-molt.
+
+"Loser."
+
+Akasha was quiet for a moment.
+
+She put one hand under her chin. Her eyes moved from me to Porcupine, and back to me.
+
+"You just said your level is too high?"
+
+I nodded.
+
+She looked at the Porcupine. "And you just called her a loser?"
+
+"Because she is." He grinned. "Sat here all day and all night and got nothing. My little sister leveled up faster than her. She shouldn't even be here."
+
+Akasha took a slow breath.
+
+"Mock battle. You two. Center floor."
+
+The shift in the room was immediate. The Human Ds had been drifting toward their positions instead drifted toward the walls, forming a loose ring.
+
+She looked at me. "If you win, you're dismissed for today to rest."
+
+Then she looked at Porcupine.
+
+He didn't wait for her. "And if I win, she quits. Drops out of disciple training. Goes back to being a useless young master with a fancy room."
+
+Her gaze came back to me.
+
+"Given the circumstances, that might not be the worst outcome."
+
+I looked at Porcupine. Then at the circle of watching faces. Then at the door, which was the direction I would prefer to be moving in.
+
+"If I quit, can I leave now?"
+
+She nodded.
+
+"Then I—"
+
+The door opened again.
+
+Human Dad came through it. He stopped.
+
+"Raffea, what happened? Why didn't you come home last night?"
+
+"I fell asleep on the floor."
+
+He turned to Akasha.
+
+"Sect leader." She straightened. "I've been monitoring her cultivation. She didn't level up across a full day of meditation. She claims her level is already high, which I cannot verify, so," she gestured toward the arrangement in the room, "we are in the process of finding another way to assess it."
+
+Human Dad looked at the circle of disciples. Then at my opponent. Then at me.
+
+"She actually just lost some memories, maybe a small fight would return them." He moved to the side of the room and folded his arms.
+
+"I-I see." Akasha moved beside him.
+
+Then he looked directly into my eyes. "Raffea."
+
+"Yes?"
+
+"Don't lose. If you do, I will personally take over your training."
+
+I remembered the Human Ds who had been on the receiving end of Human Dad's personal training.
+
+I turned back to Porcupine.
+
+He was still grinning.
+
+"My name is Duam. Future best wood cultivator on the highest floating island." He rolled his shoulder.
+
+"Since I'm nice," he glanced at Human Dad, "let me educate you on why Earth is the weakest. Water has clouds, Metal has flying swords, Fire has wings of flame, and for Wood," an eagle landed on his arm, "we tame those who can fly. You can only start cultivating effectively once you have the ability to reach where the spirit energy actually is." He pointed above with his other hand.
+
+I thought about this... especially the flying swords part. "How about the floating islands? Aren't they Earth flying?"
+
+"What are you talking about?" Porcupine's face shifted from smugness to confusion.
+
+Akasha snorted.
+
+Human Dad sighed. "I didn't know her memory loss would be this bad." He shook his head.
+
+She tiptoed and patted his shoulder.
+
+"Raffea," Human Dad said.
+
+"Yes?" I turned to face him.
+
+"The floating islands are like Earth cultivators, and they have stronger pull against those with the same element. Like they are competing with the heavens for dominance."
+
+"But I can walk normally?"
+
+"You've only been an Earth cultivator so you wouldn't know the difference."
+
+It sounded like a good argument, so I nodded... Wait, I've been a giraffe. I kept nodding.

@@ -1,0 +1,221 @@
+---
+id: 71b898b9-e3c5-5146-a989-3426cf312923
+page-type-slug: story-chapter-royal-road
+title: "Chapter 807 - I'd better clean it up"
+slug: 0133-chapter-807-id-better-clean-it-up
+partOf: hell-difficulty-tutorial
+position: 133
+ownLength: 2563
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3415849/chapter-807-id-better-clean-it-up"
+royalRoadId: "3415849"
+---
+
+I stand up and dust the sand off my clothes, stopping for a while to look at the shard on the back of my left hand. As half of it splits, I catch it between my index finger and thumb, taking a moment to observe it in the bright light of this floor. Then, I send all of the mana from my crown into it and throw it into the sand.
+
+It begins to rapidly grow, at first just a trunk with a few branches and no leaves, but as it gets bigger, transparent green leaves with lights gently swimming inside grow as well.
+
+It grows to be as tall as me. Using it as a node, I use my new skill to connect lines to it. The Nameless Tree makes them more durable and stable, even as I connect them to the existing ones that lead to everyone in Group 4.
+
+I give myself a few minutes to work with the tree, molding it into the way I want it to work for now. With the tree at the center, a simple domain expands. This one works just as my [Redistribution] does, causing all the wind in the area to weaken as it begins to be absorbed, not all, but about half, of the kinetic energy from everything, from the moving sand to the movement of the wind.
+
+It isn't extremely efficient, and through my connection to it via the half-crystal in my hand, I have to actively keep the absorption working, but it’s not something that takes much of a toll on me. All absorbed kinetic energy is then fed to the tree, making it grow taller, its effects better, its range higher, and my connection to it stronger, along with the powers I can send through it.
+
+Doing as I said I would, I begin moving toward an area where I saw higher levels of mana when I originally flew into the air to get a feel for the area. Still not feeling like getting into too much of a rush, I just walk, occasionally moving over larger distances with Wraith Dance. Sometimes I stop at the top of a dune and just take in the view.
+
+Surprised, I also notice that enduring the heat takes a weirdly high amount of mana. Sure, it is hot here, but it shouldn't be draining me to such a degree. Well, it’s not like I’ll be running out anytime soon. I’m sure I could keep it up for months if I wanted, but for someone at a lower level, the surface would be unlivable. Someone with a powerful body could probably endure it with just that, or possibly with the right passives or items, but if you came here unprepared and didn't find a place with a bit of relief, this planet could kill you fairly quickly.
+
+So far, I haven't detected any monsters or animals. As always, it makes me wonder if it’s just the floor’s settings, the environment of the place the floor’s been based on, something I have no experience with, or a mix of all three.
+
+While moving, I also use the glasses to train my eyes. It only really requires sending bits of my mana through the frame, which activates the lenses and the training regime the Magi designed them with. I suspect the frame tracks my eye movements and their reactions, modifying what I see accordingly.
+
+At times, the ambient mana becomes more visible, either at random or through some system I don’t yet understand, using color to draw my attention. That color becomes brighter and brighter to the point where, if I fail the exercise, it becomes nearly impossible to see. What the glasses do is emphasize the ambient mana, track my eyes, and use the lenses as a shield so the influence of my eyes doesn't expand further than I can handle.
+
+The glasses then require me to look at that ambient mana and understand it.
+
+How the glasses know if I failed or passed the exercise, I have no idea. They also occasionally "zoom in" on certain waves and allow more information through, at first in small areas, and then in larger ones.
+
+A few times, it surprises me how much I can gather. It’s not like the glasses are doing the work, but rather that they focus my sight, making me realize what I’m already capable of seeing.
+
+As annoying as that man is, I must acknowledge his talent. This exercise is exactly what I needed, not to mention the way the glasses filter out some information so my mind doesn’t get overwhelmed.
+
+It also makes me wonder what else Elian put into these glasses. I’m sure I would have added more if I were him.
+
+Can he see through them? Do they gather other information on the tutorial or on me? Do they send him some sort of tutorial coordinates? Could they explode and kill me instantly? Do they contain a tiny part of his mind, and will I eventually have a new intruder in my mental space?
+
+I don’t know, but I wouldn’t be surprised by any of those possibilities, though I don’t really think Diligence or Ruby would be likely to let something that excessive happen. But who knows? They could’ve been tricked, too.
+
+As I reach my destination, I stop using the glasses and take a look around. As far as I can see, there aren’t any signs of any man made structures, so I look down at my feet. Through the sand, from deep below, small amounts of mana reach the surface. When I send my senses down there, I notice defensive and alarm arrays. I work around them, quickly finding a weak link and placing a mark.
+
+Teleporting, I find myself in a tunnel around half a mile below the surface. The temperature difference is incredible. Right now, it feels like a warm autumn day at most, a far cry from the sand melting temperatures outside.
+
+Spotting a group of people nearby, I head their way, listening to their voices.
+
+"Aurate Consortium has taken over the Shades' base number two, the one on the night side. They just found more Talnium there, possibly two packets' worth to harvest. Man, I would slit all their throats myself for even half of that."
+
+"Fuuuck, didn’t the Shades hire some sort of Absolute Candidate not long ago?"
+
+"Two of the arrogant fuckers, you know how those candidates tend to be. Boss said the Consortium’s Adjudicator appeared there, so they’re dead."
+
+"Okay, great. We bail."
+
+"Do not bullshit yourself. They won’t send an Adjudicator after a small group like ours. Just keep your head down, we’ll continue our harvest and ditch the place with the next shipment. There is no way I’m staying here any longer with how things have been going."
+
+Coming closer, I observe them in the light of small shining orbs inside vials that each of them has on their waist. They are all around level 200 to 300. Each of them is wearing a strange sort of clothing that covers their entire body, leaving no skin showing from the neck down. Even their faces can be hidden, as each carries a helmet designed to cover the entire head and connect to the rest of the suit.
+
+The suit itself is white, visible even through the dirt and patches of dried mud and sand clinging to them. It isn’t very thin, rather, it seems like there are dozens of pinkie-width tubes covering most of the surface and connecting to a few reservoirs, each with some sort of liquid inside.
+
+Lastly, each of the suits has a mana battery in the helmet and another in the middle of the chest, which looks to me like it can be switched over to be powered by the mana generated by the heart, given the presence of some sort of structure on that part of the chest. Each of the men here has a weapon. The walls of the tunnels are covered in bits of machinery and ventilation systems, and nearby, there’s a small teleportation array, currently powered by a full mana stone, ready to be used.
+
+Finally, they notice me too, and a dark blue projectile with a hint of purple mana shoots at my head. Covering the back of my hand with oscillating mana, I flick it away, at which point it breaks into a cloud of tiny particles that swirl in the air and get pulled into the crown over my head.
+
+Multiple attacks follow in a similar manner, and I deflect each of them the same way. A few of the men move to run at me and, surprisingly, most of them surround themselves with armor made of mana. Looking with my Preeminence Eyes, I observe the structure of each, find a weakness, and then, through my gaze alone, each suit of armor breaks apart before the men can even reach me. A burst of kinetic energy bounces off the walls and violently pushes them back, sending them sliding until they can bring themselves to a stop.
+
+Even in the comfortably temperatured tunnels, a few of them show beads of sweat on their foreheads, and a few even carefully move back toward the teleportation array, unknowingly to the others who are closer to me.
+
+“So, I have a few questions,” I say in a voice I believe to be polite and calming.
+
+Another attack launches at me, the projectile disrupted just before it touches my head, and particles are pulled to the crown.
+
+The lynthari man who did moves to do it again, but before he even can, [Empyrean Lance] launches from me. It stabs through his chest, carries him over a short distance, and pins him against the wall. The man twitches a few times, attempting to pull the lance away while only wounding his hands, eventually dying.
+
+[You have defeated Hexblade - lvl 295]
+
+The lance disappears, causing his body to slide down the wall and drop to the ground in the silence that ensues.
+
+“I have a few questions,” I repeat.
+
+“Fuck you! You know we can't say anything! Who are you with?” one of them, a velnar man who just barely fits into the tunnel, shouts at me.
+
+“Why can’t you say anything?”
+
+“You... you have no idea?” the velnar stares at me almost unbelievingly, but with even more growing suspicion, the same as the rest of the group. “It’s because of the implant in our brains. Everyone coming to Xyphos has them so they can kill us if we break the rules, and erase the coordinates of this place from our minds!”
+
+I ignore his loud, almost shouting voice and, without caring if he notices, I scan his body, searching for the implant. Just as I find it and locate it in the middle of his head, the velnar groans in pain and falls to his knees while holding his head.
+
+Observing even that, I deflect a few more attacks, wary not to kill the attackers.
+
+How weird, I would have sworn I hadn't disrupted any of the implant’s sensors for triggering that reaction. Either someone very skilled at the level of Champion or higher made them, or they’ve just been made in a way I have no experience with.
+
+One of the men tries to rush through the teleportation array, and one of my lances pierces through his head, causing the body to fall down as I think about what I should do.
+
+I already killed a few, so just letting them go wouldn't make sense, and the result would likely be the same or worse than just getting rid of them. But then there’s the teleportation array, and I don't know if more people will come through, possibly bringing someone powerful, so I can’t just leave it be.
+
+And as much as I would like to ask the men in front of me, I don't think they lied, and the implant probably wouldn't allow it. The result would be the same even if me and Lily were working together to remove it. I confirm as much as I reach toward the implant in the velnar’s head. That causes him to shout in pain again. A few veins in his eyes burst, making his eyes bleed.
+
+I don't think I can destroy it, teleport it away, or anything similar. Well, not before it kills the man. The more I examine the implant, the more I realize it is quite impressive.
+
+The attacks on me intensify in a way that feels desperate. Thrown weapons, some arrays activated, mana batteries powering the suit used to overclock it, and more. Yet I halt all movements and disrupt all the mana.
+
+“Fucker! I swear my brother will kill your ass along with the organisation helping you! I...” The velnar doesn't get to finish as his head explodes in a high pitch of kinetic energy I send his way, carving a deep hole into the wall behind him.
+
+Only a second later, do I realize what happened and furrow my brow.
+
+This could easily turn into a mess and snowball into something more dangerous. So I'd better clean it up.
+
+The rest of the men die in the same way, and, passing by them, I reach the teleportation array. There seems to be a code required to activate it, and as I dig deeper, I deduce it must be something the men here hold, so I begin to search while a part of me continues working to decipher the array.
+
+Meanwhile, I sit down on one of the boxes and another part of me searches for any talnium they might have had, even as I don't know what it should look like. Still, I find no ore or anything that looks like that sort of material, so I go over my status instead.
+
+Name: Nathaniel Gwyn
+
+Title: Absolute Candidate
+
+Difficulty: Hell
+
+Rank: S, Radiant Gold
+
+Guild: Primordial Knights
+
+Floor: 11 - Xyphos
+
+Time left until forced return: 1y 246d 16h 31m 16s
+
+Traits (3/3): Preeminence Eyes 2/5, Mana Physique 2/5, Empyrean Ichor 1/5
+
+Lvl 407
+
+Strength: 371
+
+Dexterity: 349
+
+Constitution: 100
+
+Mana (Stage 1/3 - Vast Mana): 1927 + 1927
+
+Primary Class: Mana Weaver (Unique Arcane)
+
+Sub-class: [Adept of Pride]
+
+Active skills (8/10):
+
+Focus - Lvl 79
+
+Perception - Lvl 77
+
+Redistribution - Lvl 78
+
+Eclipse (Pride) - Lvl 70
+
+Empyrean Lance - Lvl 49
+
+Manifestation - Lvl 45
+
+Weave - Lvl 9
+
+Mana Manipulation - Lvl 80
+
+Constructs:
+
+Physical Fortification Matrix
+
+Mana Flow Control
+
+Mana Sovereignty Field
+
+Kinetic Mana Heart
+
+Sealed Ignition Heart (Partially Sealed, 1/3)
+
+Combat Cognition Frame
+
+High-Density Thought Network
+
+Thermal Flux Controller
+
+Passive skills (5/5):
+
+Mana Kinetic Conversion Reservoir (Unique Epic)
+
+Mana Wavelength Tyrant (Mid Arcane)
+
+Subdermal Combustion Weave (Mid Arcane)
+
+Mana Wave Predation (Unique Arcane)
+
+Cognitive Hyperprocessing Vector (Low Pristine)
+
+Tokens:
+
+Send a single item to your disciple (up to epic rarity)
+
+Passive skill combination token (low arcane)
+
+Beyond visitor token - 1 year (unlocked after tutorial)
+
+Beyond 14 day stay token (x 25)
+
+Two active skills combination token
+
+Trait strengthening token (up to 3rd stage)
+
+Trait strengthening token (up to 2nd stage)
+
+Low Pristine Passive skill
+
+Low Pristine Item
+
+Shards: 5,239,706
+
+A few minutes later, I finish up and step into the array, activating it and teleporting to wherever it leads.

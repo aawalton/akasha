@@ -1,0 +1,273 @@
+---
+id: 21a59c6f-844c-5498-9512-b44925ff2e41
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30"
+slug: 0030-chapter-30
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 30
+ownLength: 3688
+unit: words
+publishedAt: 2025-12-15
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2850994/chapter-30"
+royalRoadId: "2850994"
+---
+
+Chapter 30
+
+Veron left the Guild when he started to lose track of the hallways and rooms depicted on the expansive map of the Crypts. He had tried and failed to find the path that Reka had led them through to the Gutter. He would try again when he had more brain power. He also asked a few random adventurers how much they would pay for a good coat. A few of them ignored him but by the end of it, he felt reasonably confident that while the coat that he liked was on the expensive side, it wasn't exactly a rip-off either.
+
+Veron didn’t leave the burg once he stepped out into the open and instead tried to find a way up to the battlements. He quickly found stairs and saw some other adventurers walking up, so he followed. He found that despite all the training he’d done that day, he barely noticed the ascent.
+
+Veron breathed in deep upon reaching the battlements, looking out over the snow tipped towers and houses of the vast city. He could even see the large pit that led into the dungeon from here. Veron pulled his torn cloak closer to shelter himself against the freezing wind.
+
+I feel like I should be feeling colder.
+
+There were few others up here, and they were all clothed for the weather.
+
+Maybe it’s due to my harmony?
+
+He focused and connected to the wind, breathed in, and then out. It felt fantastic. The height didn’t bother him, nor the cold. It was just him and the cold winds flowing through and over Anvakar, some of it pulling him towards the dungeon, some towards the valleys and mountains in the north, other parts seemed to pull southwards and towards Perrion.
+
+He let go after a short while and looked down at his palms. With his earth magic, it felt simple to connect to just a single rock. It made a whole lot of sense. Connecting however to just a bit of wind? That felt different. Wind wasn’t static. He couldn’t just choose a single spot.
+
+So what would make sense? I just try and feel how it moves?
+
+He tried a few times but couldn’t quite grasp it. How did I get it back in the dungeon?
+
+On the tenth try or so, Veron found some success. He didn’t choose a spot and forced it, instead he listened and felt, then let his perception almost glide into the wind. And for a moment, he could grasp a part of it, could change and shape its flow. He laughed and let it spin in his hand, creating a tiny whirlwind that he then sent upwards, the air quickly dissipating as it flowed away too far for him to control.
+
+“Fuck yeah,” he murmured to himself. “That was awesome.”
+
+A few nearby adventurers distanced themselves a little from him.
+
+Veron tried again. And then again. Until his Focus was used up.
+
+The strain in his mind was nothing compared to the excitement that he felt.
+
+I can shape the wind.
+
+And he had found out a few things.
+
+He couldn’t stop the wind. It refused to be static. He could change its flow, its direction, could center it around his arm or his hand, or even a finger, but it had to be moving always, or he would lose his connection.
+
+He had no idea how this ability would help him in any way, shape, or form. But he loved it. And he was already looking forward to trying it again.
+
+Veron whistled to himself as he descended the stairs, uncaring for the freezing winds that made his Greyr cloak flutter. He had new magic. And now, he would get himself a new coat.
+
+It was getting dark when he made his way back to the Willard Inn, clad in the dark brown coat that now covered his armor. He even left his Greyr cloak at the shop to have it repaired, paying seven hundred Iron in total.
+
+“I see you went shopping,” Silvie said when he joined the group for dinner.
+
+“I also learned a whole lot of stuff about fighting,” Veron said and nodded towards Hayden. “How did things go on your end?”
+
+“We managed to sell the essence,” Reka said. “Here's your cut. Four way split.”
+
+Veron looked at the large pieces of silver she gave him. A little more than seventy, which he knew because he had just paid the same amount for his coat.
+
+“Nice. Thank you,” he said, then looked at the silver. That’s quite a lot. For a single day’s effort? I wonder.
+
+“Out of curiosity. Do you guys have a clue what it would cost for someone to join the Academy of Leiveen?”
+
+“Well that’s unexpected,” Silvie said with a smile. “You plan to join up there? I’m not sure they even have Classes for Elemental Paths.”
+
+“They do,” Reka added. “And last I heard, a year costs you around fifty gold.”
+
+“Fifty!” Silvie blurted out. “Are you kidding me? For what?”
+
+“Education,” Reka said. “And a whole lot more.”
+
+Silvie rolled her eyes. “Yeah yeah, I get it.”
+
+That’s a whole lot of money to save up. But it might be a goal for the future. Or I could buy an interesting relic. Hmm.
+
+I wonder if Ian would like it there. Guess I’ll have to visit the city to find out.
+
+“Done with your shield repairs?” Reka asked.
+
+“Yes, ready to go down there again.”
+
+“Good to hear,” Reka said. “We start at sunrise.”
+
+Veron didn't wear his new coat the next morning, leaving it back in their room to retrieve once they made it back out of the dungeon. He had spent the rest of his evening in the baths and sauna, catching a good night’s rest before he fueled himself with a rich breakfast.
+
+It felt colder than two days prior, freezing winds flowing through the alleys of Anvakar, and yet Veron felt more comfortable this time around. Maybe because he now had a better idea of where they were going, almost looking forward to the humid temperatures of the Gutter.
+
+Silvie shivered next to him as they waited in line for one of the elevators. “Damn elemental path.”
+
+“What do you mean?”
+
+“You’re modest now. Don't you notice a difference? At least you don't seem to be bothered by the cold at all.”
+
+“Wait, that's because of my Path?”
+
+“You really surprise me with how little you know sometimes, for someone who asks so many questions and seems so excited about their training and magic,” Silvie said.
+
+“Yes. Now, can you answer the question?” He smiled at her.
+
+Silvie rolled her eyes. “Every Path has some minor benefit the stronger you get. For elemental paths, you get slightly more resistant to the weather and the elements. As in hot, cold, humidity and the like. Like the way you always seemed to be less annoyed about rain back when we were on the road.”
+
+“I just like rain.”
+
+“Sure you do.”
+
+He did, but he supposed he didn't like being drenched all that much. Guess I wasn’t overly bothered by the summer heat either. Just thought this place wasn’t as hot as Earth.
+
+“How does it work exactly? Do I just feel more comfortable in the elements or am I actually more resistant to something like frostbite?”
+
+“You can endure in the cold far longer than I,” Silvie said.
+
+He whistled. “I didn't know that. That explains why I felt so comfortable with just my cloak yesterday. What do you get as a Runic?”
+
+“More relic slots. But right now, I would gladly trade with you.”
+
+“How many more?”
+
+“Around fifty percent more, at least as far as I know.”
+
+Fifty percent more relic slots. I guess that could make quite a difference depending on how many of them people get with higher levels. And with extraction and infusion and all of that being part of the runic path, I guess they’re kind of incentivized to use relics.
+
+Like the stranger who helped us out on the road. Throwing around fire and chains, probably a runic path.
+
+He looked at Silvie.
+
+“You're going to ask me what all the other paths get?”
+
+“I was going to do that, yes.”
+
+“Ask Hayden.”
+
+Veron turned towards the man.
+
+“You know about Elemental and Runic. Devotion is a little more difficult to pin down. Say you’re a Way of the Spear. When you use your spear, it’ll become easier to forget everything else, to focus fully on the flow of the fight, your footwork, your range, all that. And it’s more difficult for others to break your concentration. Pain may be dulled as well, but the specifics can differ. In general, Devotion Paths will be better and more focused while using their aspects. Blood Paths recover from injuries faster. Don’t know about Chaos and Fae,” Hayden supplied.
+
+Veron thought about all that while they waited. Were those bonuses why Hayden seemed pretty much immovable during a fight? He supposed it was a combination of all of his magic, training, and gear.
+
+He pushed the thoughts aside for now as they stepped onto the metal platform that would take them down to the bottom of the pit.
+
+“You didn't bring your spear,” Silvie said.
+
+“Yeah, trying some new things after the sparring.”
+
+When they reached the bottom, Veron jumped off and looked around. He felt a whole lot more ready than he had two days ago. His shield felt both lighter and more durable, and the mace in his hand felt more comfortable already than his spear.
+
+Once they made it back, he would start improving his armor. But now, he was back in the dungeon, pushing aside both plans and excitement to focus on the now.
+
+The others got in formation and they were off into the Crypts. They took the same path down as far as Veron could tell. The halls they had cleared two days ago housed enemies once more. Reka led them through every battle, the group working together a lot more fluidly now that Veron was familiar with most of the monsters in the Crypts. They moved carefully, retreating and regrouping whenever necessary. Reka chose an alternative path when they came across a group of more than fifteen skeletons. Veron felt intrigued about why this group was larger.
+
+It took a little more than two and a half hours by their estimates to reach the entrance to the Gutter. Veron made sure to remain careful when he climbed down the chains, despite feeling like he could probably keep up with the others. He once again stopped and looked out over the expansive layer, then went down the rest of the way.
+
+They were back out in the marshes afterwards, the smell and mosquitos familiar by now. Veron no longer shot them down, Hayden instead taking care of them.
+
+It took most of the morning to find a Vereltir. The battle was tough, the creature managing to knock down Hayden and break through Veron’s armored shoulder before they disengaged. They took time to heal and repair before they went back and finished off the injured creature. Veron went down to one knee afterwards, catching his breath as Reka extracted the essence of the beast.
+
+They retreated to the same tower they had used two days prior but compared to the returning beasts, the door remained unlocked and the small bonfire they had built was still there.
+
+“I felt more confident going into that fight,” Veron said.
+
+“It kept getting out of my chains,” Reka said. “And it took out Silvie’s summon first. Not much we could have done better. That's just how these fights sometimes go. No bad injuries, so we’re good to continue.”
+
+Veron nodded, leaned back and looked at Hayden and Silvie, the latter focused on cooking.
+
+Veron turned to look out of the broken side of the domed ceiling. He narrowed his eyes when he saw movement in the distance. “Guys, is that normal?”
+
+Several ants were fighting a Vereltir some few hundred meters away, the creatures even larger than the monster he was familiar with. Those things are as big as pickup trucks.
+
+They were still quite far away as the others moved to the broken wall to look out. Veron got closer too, narrowing his eyes when he saw dozens of the ants moving along the edges of the Old Forest.
+
+“Shit,” Silvie said.
+
+“Some of them are moving in our direction,” Hayden said. “Reka, what do we do?”
+
+Reka took an unsteady step back, opening then closing her mouth. “We can’t fight that many,” she murmured, looking between the others. “They shouldn’t be here. Not that many. What’s happening?”
+
+“They’re here. Do we stay or run?” Hayden said, his voice tense.
+
+Veron could feel his breaths getting quicker. He tried to slow them. Don’t panic now. You’ve fought monsters, these are monsters. Focus.
+
+“They’ll spot us out there. Shut the door, and get ready to fight,” Reka said finally, shaking herself out of the shock before she hastily started to etch runes into the floor and walls.
+
+“Get rid of the fire,” Hayden said.
+
+Veron moved over, stomping down on the wood with his rock boot, then smothering what flames and embers remained with his shield. It was quiet for a long moment, then he heard strange clicking sounds from outside.
+
+“Get down,” Silvie whispered, the group stilling, crouched in the angled top floor of the ancient tower. Gray light illuminated the walls.
+
+Veron held his mace and shield, waiting and listening. He had a few of his new stone blades ready but he had never seen nor fought any of those ants.
+
+Skittering impacts came from the side of the tower. Something was climbing it, scraping against the rock. He looked up when the head of an ant peeked into the open dome, its head alone twice the size of his chest, covered in dark red chitin. It moved its two mandibles, massive black eyes taking in the room as it turned to look at them. It reared its head up and made a clicking sound, Silvie raising her hand in response, a lance of blood manifesting and shooting upwards to skewer the creature’s head.
+
+More skittering came from below. One of the creatures running up and entering the open section of wall in seconds, its large legs slamming into the raised shield of Hayden, another leg striking at Silvie, sending her stumbling. It was massive, larger than the Vereltir, its long legs giving it more height and breadth, and yet its movements looked fluid, measured instead of frantic.
+
+Shit.
+
+Veron rushed forward, getting between Silvie and the ant, hearing another one rushing up beyond. He tried striking at one of its legs but the creature moved to the left quickly, three skittering steps before Hayden struck its head with his hammer. The third ant came into view and Veron raised his shield towards the fast moving monster, its mandibles as broad as his arms as it snapped at his head. His shield caught the pincers and held, magical tension snapping into place in the same moment. The ant stopped moving and he struck its head with his mace, leaving a bleeding gash on its right eye.
+
+Not enough.
+
+He could feel the tension in the air still, taking one of his stone blades instead and charging it before he shot it off into the wound. It dug deep and when the tension snapped, the ant twitched and struck his shield and stomach with its legs. Veron stumbled back, gritting his teeth at the dull pain. His armor held and he watched the ant he injured stagger to the right and then collapse, dark blood leaking from its eye. Impacts resounded to his left and he turned to see Hayden fighting an injured ant. A bear now rushed to his aid and chains entangled the monster.
+
+Veron took another one of his blades when something struck him from above. He fell, his ears ringing when he felt something strike his chest and head. He felt himself skid on the floor, stopping with a groan.
+
+A dull pain radiated from his neck. Veron tried to stand up and stumbled. The pain turned sharp but he pushed through it, breathing out as he tried to get his bearings. Hayden and the bear were fighting the same ant. The one from above had dropped down into the chaos. It hadn’t died, though bled from its head.
+
+Silvie and Reka were circling it, cutting at its legs with their swords as it broke through the chains that held it. Veron grabbed another blade fastened to his pack and sent it at the creature’s large back. The projectile glanced off its carapace and hit the dome. Reka cut through one of its back legs when Silvie parried a strike, facing the creature. Another front leg hit her chest and she staggered back.
+
+Veron rushed forward, unable to move his neck as he tried to angle his mace. He saw the ant snap forward with its mandibles, catching Silvie’s right arm as she yelped, her sword clattering to the ground before it bit down. More chains caught the ant and Veron struck one of its front legs, breaking through. Hayden was on the other side, his glowing shield strike smashing into the ant’s head as Reka cut away at its back.
+
+Veron swung his mace into the right eye of the monster, its movements slowing, then stopping entirely. He winced and grabbed at his neck, teeth gritted as he moved over to one of the walls, leaning against it as he tried to push through the pain. Something was wrong with his neck, his back. He could feel numbness in his right leg and arm now, his mace clattering to the ground. His breaths came hasty as he heard sobbing from Silvie, blinking his eyes when he saw her cradling the bleeding stump that remained of her arm.
+
+The ringing in his ears was still there, and now he could hear the pounding of his own heart. Hayden shoved something into Silvie’s mouth and she bit down, her scream dull as Hayden helped her lie down.
+
+“You’re hurt?” Reka asked when she came over. Her voice was shaking.
+
+“My neck,” Veron said through gritted teeth. “Not sure what’s wrong.”
+
+She checked him. “You’re not bleeding at least. Let him… let him stabilize her… and then…”
+
+“Reka,” Hayden called, his voice curt.
+
+She moved over to Silvie’s prone form, kneeling down next to Hayden, the man moving slow and deliberately, pushing a bandage against the bleeding wound, telling Reka to take over when his hands started glowing.
+
+Veron couldn’t hear what they said, all he saw was Silvie’s pale face, the tears rolling down her cheeks. Then she went limp.
+
+Is she?
+
+He wanted to move over and ask but his ears were still ringing and even small movements sent a sharp pain through his neck and back. “Fuck.”
+
+Veron watched as the others worked, Hayden now taking over as he cleaned the stump, then opened his pack, got out a few tools. Scissors first, then needle and thread. Veron looked away, trying to check if there were more ants coming but the three corpses littering the space were the only ones.
+
+Reka came over to him. “You’re still with us?”
+
+“Yeah. Is Silvie?”
+
+“Alive. Come, I’ll help you move to one of them. Lay it to rest,” Reka said and helped him move. “It will help.”
+
+He grit his teeth, the edges of his vision going black as he tried to set aside the pain. Then he was next to one of the dead ants. All he could do was raise his left arm, touching its dented and bleeding head before he closed his eyes.
+
+Veron breathed slower, hearing the sound of threading wire, the breathing of Reka. His own heartbeat moved to the background and he could feel the stone of the tower, the winds caught within the open dome. He felt the hard surface of the dull red chitin, broken and splintered. Why did you have to come here?
+
+He breathed. You nearly killed her.
+
+You nearly killed me.
+
+Veron blinked his eyes, feeling the winds slow around him. The ant had lost its color, ever so slightly. The pain in his neck was only a dull throb, the numbness gone entirely. He breathed deep now, the action no longer hurting.
+
+“Veron, help me here,” Reka said. She glanced his way, hacking away at the ant that had taken Silvie’s arm. She’d cut off the mandibles. “Try to open its mouth.”
+
+He went over and followed her instructions. Slowly, they cut away bits and pieces, opening the jaws before Reka started digging through the flesh and bile. She cursed when she pulled out a mangled piece of Silvie’s arm. Veron let go of the ant and went to his knees, his vision blurring as he tried to control his breathing.
+
+“There are only pieces left… mangled and broken…” Reka murmured.
+
+Someone stepped next to him. “I’ll have a look at Veron,” Hayden said. “She’s stable for now, but we need to get her out as fast as we can.”
+
+“There are more of them out there,” Reka said, her voice sounding flat.
+
+“I take care of him, you think of something,” Hayden snapped.
+
+“Grant me the power to mend his wounds, set his bones,” Hayden murmured.
+
+Veron could feel the magic, something setting into place in his neck. He breathed out. The pain was gone now, but he felt hollow.
+
+“You need to get up, Veron. We’re not done here,” Hayden said.
+
+Veron breathed, and breathed, and focused on the rock below him, the tower built to last eternity. By whom, he did not know. Shelter from the marsh and all the beasts within. He sat there for a moment, focused only on the stone, and the muddy earth below. He breathed out, and opened his eyes, then grabbed his shield.

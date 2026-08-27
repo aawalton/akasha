@@ -1,0 +1,115 @@
+---
+id: 5ba3d32d-e824-57eb-b471-7d20a28140a5
+page-type-slug: story-chapter-royal-road
+title: "238. So Much for That"
+slug: 0238-238-so-much-for-that
+partOf: god-of-trash
+position: 238
+ownLength: 2004
+unit: words
+publishedAt: 2025-11-21
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2781554/238-so-much-for-that"
+royalRoadId: "2781554"
+---
+
+Mirai came barreling down the street toward them, her fluffy skirts flapping around her. She leaped into the air and bounded to a halt right in front of Sid, spreading her arms in a big pose. “Hi! You’re really creepy. I’ve always loved the goth vibe, though! And you’re killing it!”
+
+A vein throbbed in Grave’s forehead, but at the same time, the same expression appeared on his face that Rhys sometimes saw on himself when he faced a difficult puzzle that engaged his path. He raised his brows, suddenly understanding. Oh. Is that why he’s staying with Mirai? Because she constantly challenges him, and therefore forces him to grow in his path of the butler? Or servant, or whatever.
+
+Grave probably liked Mirai, too, as a kind of daughter-friend-annoying-but-funny-colleague kind of situation, but Rhys felt as though in this moment, he’d finally seen through to the true reason.
+
+Sid opened his mouth.
+
+Before he could speak, Grave stepped forward. “I apologize. My colleague has a strange way of speaking, but she means you no insult. In her excitement, she said too much, when what she really meant was to compliment your choice of garb. We would appreciate if you overlooked any misspeaking on her part.”
+
+Sid blinked for a moment, then nodded. “Okay.”
+
+“What? What did I say?” Mirai asked, baffled. She looked at Rhys, who shrugged and shook his head at the same time. He knew what she’d said, but he didn’t want to have to explain it to her… especially not in front of Sid, who might take offense at the idea that he would take offense at something. Rhys wasn’t sure, but Sid definitely gave him that kind of vibe… or at least the ‘unhinged enough to decide it bothered him this time’ vibe. In short, Sid seemed unhinged.
+
+Rhys cleared his throat. “You’ve met all my friends now, Sid. Should we go?”
+
+Sid looked at Rhys, then reached out and gently patted his shoulder. “It’s okay. I don’t have many friends either.”
+
+That’s not what I… never mind. Rhys turned and started to walk off, secretly tracking Sid in his mana senses. Sid lingered a moment, then followed after Rhys.
+
+“Oh! What’s that?” Mirai asked.
+
+Rhys froze. Oh, come on! They’d almost escaped. Almost made it out of here without Sid murdering anyone. Why did she have to ask now?
+
+He and Sid both turned. Mirai pointed at the back of Sid’s trailing garments, where a hunk of dark something clung to the very back of the fabric. Even with Mirai pointing it out, it was so dark, so close to Sid’s robes’ color, that Rhys had to squint for a moment to see it. It was black, dark, kind of oily, and yet, a substance that seemed to draw in the light—he jolted. That—it was the stuff that had been stuck to the bottom of Daran’s floating island that the Empress, and then Rhys, had co-opted. The stuff that even he couldn’t freely absorb.
+
+Sid blinked slowly. “There is nothing,” he said, but his eyes flickered, clearly bothered by it.
+
+“You’re right, it’s super un-cute.” Mirai squinted at it, then pointed her finger at it. “Cuteify!”
+
+Rhys crossed his arms and took a deep breath. “Mirai, there’s nothing—”
+
+Mid-sentence, his voice trailed off. Slowly, his eyes widened.
+
+A pink beam from Mirai’s finger landed on the black clump, and it reshaped itself, growing more sleek. Its color subtly shifted, until it was entirely impossible to tell from Sid’s robes. It exuded filth, but it was weaker filth, as if all the strength had been sucked out of it. Rhys suddenly felt, looking at it, that it was no big deal, no problem at all. It was strong, stronger than the impurities he’d faced so far, bar that mine on the edge of the Empire, but it wasn’t so strong that it was terrifying anymore, or something he couldn’t overcome. He knelt and touched it. Impurities immediately infected him, but they barely blackened his fingertip before they faded away. He pulled them into himself, and easily incorporated them into his trash star.
+
+Without hesitation, Rhys pulled the black clump into himself. Under the effects of the cuteify beam, the impurities rushed into his body, attacking and infecting everything they could… but it was no worse than Rhys was used to. Nothing to write home about, really. They’d been infantilized. Made cute, and therefore unthreatening.
+
+He stood, looking at Mirai in a new light. She was silly, and her path was a bit goofy, but so was his. He absorbed impurities; she weakened them, to make them easier for others to deal with.
+
+His mind flashed to absolutexistence, and their misunderstanding of him as a true god of trash. They’d brought him here for a reason, whether he was what they’d meant to bring or not. But they’d also brought Mirai. He hadn’t thought too deeply about it, but… what if Mirai was also meant to clean up this world? She simply had a different route to accomplish it. As did the Empress, if Mirai was right and she really was also isekaied here from some version of Earth. Mirai made things ‘cuter,’ nicer and easier to look at, cleaning them up by making them pretty. The Empress… had attempted to purify the world’s mages, by forcing them all to align to her vision of what magehood should be. And Rhys was the garbageman, taking out the trash.
+
+Altogether, they made… what? A cute, pure trash-free planet? Rhys frowned. No, I don’t think that’s right. I think absolutexistence is trying to solve one problem, but through as many ways as possible. It was throwing spaghetti at a wall to see what stuck, and Rhys, the Empress, and Mirai were its spaghetti. Three different routes; one problem to solve.
+
+He still wasn’t completely sure what that fundamental problem was. Something to do with trash, or filth, he was pretty sure of that, but what exactly was it? He got the general concept, but what was the object? Was it the black goo under the region? Was it the Impure Wells? Was it something deeper, something he hadn’t encountered yet?
+
+Or maybe it really is just the concept of ‘trash,’ he considered; or filth, or whatever it was that absolutexistence was trying to get rid of. There was some unnecessary object that the higher being clearly did not want around; he just had to figure out what that was yet.
+
+Mirai fluttered her lashes at him, and he realized that he’d been staring for a bit too long. He looked away, a little embarrassed. He hadn’t meant to get lost in his thoughts like that.
+
+Mirai struck a cute pose and giggled. “Gaze upon my cuteness as long as you like. It’s not every day you get to bask in the presence of one as radiant as me!”
+
+Rhys rolled his eyes at her, and she tossed him a wink, clearly joking.
+
+Sid looked over at Mirai, then at Rhys, then back at his trail. He nodded slowly, his gaze shifting back to Mirai. “I like you.”
+
+“Aww! That’s so nice. I like you, too,” Mirai said.
+
+He reached into his robes and handed her a small, pale orb. “Here. This will help, if you’re ever in danger.”
+
+Rhys blinked. That’s… unexpected. Then again, what part of Sid was expected? He extended his mana senses toward the orb, a little curious. People in the northern region liked using orbs, and he hadn’t quite understood the purpose or point yet. Had Sid picked that up? Did he use orbs, too?
+
+Almost instantly, he had to restrain himself from jerking back. A small bug squirmed inside the orb. It wasn’t an orb at all, but an egg!
+
+“Ooh, squishy,” Mirai said.
+
+“Don’t… squish it too hard,” Rhys said, a little worried. He glanced at Sid. Was this okay? Could he really just let this fly? What if that was a parasitic egg or something? He had no idea what was going through Sid’s head.
+
+Quietly, Daran materialized. He leaned toward Rhys’s ear, though it was entirely unnecessary; no one else could hear him. “Don’t worry. Sid is capable of producing eggs on his own, without external intervention. However, these eggs are only capable of hatching into horrific, mindless beasts that rampage over whatever they stand before. Your friend is in no danger; this is an earnest act of goodwill.”
+
+Why the hell did you give your crazy bug man the ability to create an army of bug monsters at will? Rhys gave Daran mad side-eye, but didn’t say anything in the moment. The more he learned about Daran’s past, the more he felt like maybe the man should stay dead. The guy had an insane idea of what was okay and what wasn’t.
+
+As if he could read Rhys’s mind, or maybe in a rare moment of conscience, Daran coughed. “I didn’t know he was crazy when I created him. He would have been a formidable force on the field of battle if he weren’t so damn volatile.”
+
+Still, maybe don’t give your crazy underlings the ability to build their own armies? That’s how you get traitorous mid-bosses. Do you want traitorous mid-bosses, Daran?
+
+Over her shoulder, Grave coughed. “Thank the elder, Mirai.”
+
+“Sorry! Yes, thank you.” She turned to Sid and gave a quick bow.
+
+Sid smiled languidly. “It was nothing.”
+
+With that, he finally turned to go. Rhys found himself running to catch up as the heavy anchor who refused to dislodge suddenly pulled free and rushed ahead of him. As he caught up, Sid glanced at him. He held out an orb. “Do you want one, too?”
+
+“No! Er, no thanks. I’m capable of handling myself in battle,” Rhys assured him. Daran said it was okay, and Grave seemed fine with letting Mirai have it, so it was probably perfectly safe… but he still didn’t like the idea of carrying around a wriggling bug monster egg that might accidentally break at any moment and attack him instead. He had noticed that Daran hadn’t said they wouldn’t attack their casters, just that they’d attack whatever was in front of them. He’d played plenty of mediocre games where he could throw out a monster and have it fight for him, only for the monster to land backward and immediately target the only thing in its vision, aka him.
+
+Sid nodded and put the egg back in his robe. “I’ll find another way to thank you.”
+
+“Huh? Oh! I… appreciate it,” Rhys said. Absorbing the gunk once it’d been cuteified was so easy he hadn’t thought anything of it, but now that Sid brought it up, he had no idea how long that would have been on Sid, or if Sid would have been able to remove it. If the man could’ve, he probably would’ve, so it was probably stuck to him for quite some time. He was fortunate that, as a Remnant Weapon, he was strong against impurities, and Rhys could only assume, stronger against them even than Sable, who could semi-safely hide in an Impure Well. Otherwise, having the gunk attached to him might have been deadly, even for someone at his realm.
+
+He looked at his hand. Still, that’s confirmation that I can absorb that gunk. I just need to weaken it or dilute it enough that I can begin training with it. He glanced over his shoulder, then shook his head. Bringing Mirai to see the filth just seemed like a disaster waiting to happen. He’d have to find another way to weaken it, whether through alchemy or through some twisted application of his path.
+
+“What are you thinking about?” Sid asked, glancing at him.
+
+“A lot.”
+
+“Hmm. You should think less. It feels better.”
+
+“You know, you’re so right.”
+
+The two of them set off across the snow, one of them dark as a blot of ink, the other rapidly fading into the snow in his patchwork fur coat.

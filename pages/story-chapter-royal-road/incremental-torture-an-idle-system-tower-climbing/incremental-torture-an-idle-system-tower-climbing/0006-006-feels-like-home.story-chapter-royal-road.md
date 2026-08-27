@@ -1,0 +1,117 @@
+---
+id: 42bdc886-9386-54bb-88ff-730b7b85a7e0
+page-type-slug: story-chapter-royal-road
+title: "006: Feels like Home"
+slug: 0006-006-feels-like-home
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 6
+ownLength: 2165
+unit: words
+publishedAt: 2024-04-03
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1578728/006-feels-like-home"
+royalRoadId: "1578728"
+---
+
+The enemy which appeared from the familiar and almost comforting darkness of the cavernous floor was yet another rat. This time however, it was not a horde of the frenzied vermin, but a single, colossal specimen. Red eyes oozing with hatred and rage stared intently at her as it took slow and calculated steps forwards, closing the gap between them and judging its prey.
+
+It was taller than Evelyn by nearly half a metre and far bulkier, and while she was confident her hand to hand combat had improved slightly during her time in the tower, it would probably take the beast less than a minute to tear her to shreds.
+
+Luckily, she’d been smart enough to bring a few of the most dangerous rocks from the previous floor along with her and she wasn’t short of weapons, but unlike the regularly sized rats that had populated the 1st and 2nd Floors, it would take far more than one good bash to take this gigantic monster out. Evelyn had wanted to test the effects of her new skill, Bulwark, against some slightly easier opponents to figure out how much it bolstered her resistance to physical damage, but she was less than eager to get a taste of the knife-like claws of her current enemy.
+
+Unfortunately, the cavern wasn’t very large and even if she was able to run for hours, Evelyn had no doubt that the rat would be able to keep up and eventually bring her down. Her best shot at defeating it would be to slowly wear it down by kiting it while using her rocks as throwable ammunition to steadily injure it. The huge rat seemed to be analysing her and she had no desire to give it time to figure out a hunting strategy, so opted to simply grab the sharpest looking rock from her pocket and toss it with all her might at the creature’s head.
+
+It hadn’t expected her to take the initiative, so while it attempted to dodge to the side its reaction wasn’t quick enough and the stone connected with a thunk. Dark crimson blood started to drip from the impact zone and the creature, enraged, tossed aside all thoughts of a calculated and slow assault to charge directly at Evelyn, who having expected such a turn of events was already on the move.
+
+I thought it might be more intelligent than the regular sized rodents on the first two floors, but it seems the only thing that comes with all that size is even more rage and sharper claws. If I just stick to my strategy there shouldn’t be any issues bringing this beast down.
+
+Rancid odours of rot and stale sweat assaulted Evelyn’s nose as the hulking rat charged past the empty space where she’d been standing not a moment before. Thankfully she had become somewhat desensitised to such things after the horrific experiences in the tower, even though it was only the 4th Floor. Her fear of rats had been paralysing back on Earth, but maybe the old adage that the best way to overcome your fears was to face them head on held a grain of truth.
+
+Before the rat could turn to face her once more, Evelyn whipped a couple more of her rocks at its legs and feet, aiming to hinder its mobility as early into the battle as possible. Her first throw was off by an inch and the rock clattered noisily against the floor of the cavern, the sound echoing into the distant dark. For the second rock however, her aim was true and the sharp point of the stone pierced through the pink foot of the overgrown rodent, eliciting a frenzied squeak from the beast.
+
+It threw itself at her once more and she could’ve sworn it was a little faster than before, but perhaps that was just her imagination. Evelyn took a more proactive approach this time, rather than dodging the charge entirely she simply shifted her weight onto her back foot and when it’s body was right beside her, she barged into its ribcage with all her might and the creature went careening headfirst into the hard stone wall of the cave.
+
+Pain flared from her shoulder, the rat having been far denser than she was expecting and the impact of the strike nearly dislocated her shoulder. Not wanting to waste the advantage she’d obtained, Evelyn dashed at the rat while it was still concussed and taking the largest and heaviest of her rocks out, she hefted it above her head with both hands and smashed it down onto the already bloody and bruised skull of the giant rodent.
+
+Her strike connected with lethal accuracy and she heard a crack as the brittle skull of the monster was smashed at the impact point. However she was taken by complete surprise the next moment as it seemingly ignored the injury and snapped out of the daze it had been in, clawing at her with such speed that she barely even saw the attack coming.
+
+Only through her body’s instinctive reaction had she been able to avoid having her bowels carved out, but the razor sharp claws of the rat had left three deep gashes in her stomach. Perhaps without the effects of Bulwark, she may already have lost the battle from that single move. Apparently the rat had some kind of ability to ignore the damage it had received and instead of becoming weaker as the fight dragged on, it was getting faster and more powerful. Perhaps it was the effects of a skill?
+
+Fuck, it really got me there. I was careless. All of the enemies until now would die from a single blow but it seems that won’t be the case the further I climb up the tower. I suppose I need to stay on my guard right up until the moment I get the notification that I’ve cleared that floor’s challenge. There’s no way it hasn’t sustained any damage though, I just need to stick to my plan and hopefully I can bring this stupid rodent down before I bleed out.
+
+Despite being ready for the next charge from the rat, Evelyn found herself unable to dodge in time due to the massive boost it had received to its speed. A swipe of its claw caught her leg as she was leaping to the right and even with the extra resistance from Bulwark, it still cut deep and she stumbled to the ground. Before she had a chance to recover her footing the huge rat was on her and it bit down hard on her torso, lifting her into the air as she struggled to free herself.
+
+Somehow its teeth hadn’t managed to pierce her yet, presumably her newly acquired skill at work, but she could feel them pushing into her skin and it would only be a matter of time before they pierced through and all would be lost. In desperation she reached for her pockets to find a weapon, but the rat was tossing her around and they slipped through her fingers, clattering across the ground.
+
+Fuck, NO! It can’t end here. Stupid fucking tower, stealing me away from my peaceful life with my friends and forcing me to kill hordes of stinking rats and other humans. It hurts. God it hurts so badly.
+
+Finally Evelyn’s fingers closed around what she’d been searching for. Pulling the rock from her pocket she saw that it was already stained with blood, the very same one that she’d killed the poor man with on the 3rd Floor. If she kept climbing it seemed inevitable that she would have to keep killing, not just monsters but also her fellow humans. A searing pain like a hot knife shot through her arm as the rat clawed at her, but the adrenaline pumping through her body dulled the sensation to a background annoyance.
+
+With a roar, she began to smash the stone against the rat’s skull, struggling to find purchase or utilise her strength as she was tossed side to side, but she did manage to strike true. With every blow the rat only seemed to grow more ferocious and frenzied, but Evelyn was relentless in her assault.
+
+WHY WON’T YOU JUST DIE! Stinking, ugly vermin. Die, die, die!
+
+Her calm and collected demeanour which she’d surprisingly been able to maintain until now, even under all the pressures of the first three floors had finally begun to crack in the face of the current situation. With a sickening crunch the skull of the rat completely shattered and Evelyn’s hand smashed through into its brain, continuing to strike even after the huge beast fell to the ground, dead.
+
+It was a twisted scene, the dishevelled and bloody woman sat beside the battered remains of a colossal rat, continuing to pummel its head into a gloopy red paste like some kind of tortured clockwork doll. Tears streamed down her face and she choked back a sob, ignoring the notification that had appeared after her successful kill. Her eyes which once glimmered with life and joy, were now dead, staring into space as the grim reality of her situation truly set in and all the guilt and pain of the past few days overwhelmed her in a dizzying tide.
+
+Evelyn sat there unmoving for a whole six hours, only stopping to strike the rat’s corpse when the muscles in her arm became too heavy to lift. Her grip on the bloodied stone never loosened even after that, the weapon some kind of anchor to sanity. Once she’d managed to claw back some of her focus and squashed the despair and horror into a manageable corner of her mind, she glanced at the notification she’d received upon clearing the floor.
+
+Congratulations Challenger, you have cleared the 4th Floor! You may purchase one reward from the following:
+
+〖Full Recovery〗- 10 Essence
+
+〖1 Attribute Point〗- 25 Essence
+
+〖Grey Star〗- 52 Essence
+
+Strangely, seeing the familiar rewards offered to her was the final push Evelyn needed to put herself together and stand up from the pool of dried, crusty blood and bits of dead rat. After that she checked out the menu to see how much essence she’d earned from killing the damn thing and if she would even be able to afford more than just the full recovery.
+
+Essence: 26 『+1 / 6 hours』
+
+~~ Stars ~~
+
+Grey: 1
+
+** Local Shop **
+
+【KILL】
+
+Huh, I guess the tower isn’t completely psychopathic after all. The reward for defeating that colossal bastard was a lot more essence than any of those regular rats provided. I still can’t afford a second Grey Star, which sucks. I think getting a lot of them early will be very beneficial in the long term. To be honest, I don’t really want to get any of the rewards this time around. I can get an attribute point from the Local Shop for cheaper than the tower’s reward.
+
+However, when Evelyn attempted to open the shop to make the purchase, she couldn’t help but laugh in frustration at the infuriating nature of the tower.
+
+You have pending challenge clear rewards, please make a choice before accessing the Local Shop.
+
+I guess I’m forking out 25 essence for another attribute point then. I’m only missing out on 7 essence worth of savings, so it’s not the end of the world but I can imagine that every little counts in this accursed place. Now to decide what attribute I want to increase. Power would be a great option, I really felt like my strikes were lacking against that thing. If I was a little stronger then maybe my first blow would’ve finished it off and I wouldn’t have had to suffer all this damage.
+
+The cuts on her stomach had clotted over but her dress was torn to rags and there was dried blood all over her bruised body. Without the boost of adrenaline, aches and pains were assaulting her from all over and even standing upright was a bit of a struggle.
+
+However, I really don’t want to get hurt like that ever again. In fact, I’m happy for all my fights to be drawn out because I can’t finish them off quickly as long as I don’t need to get hurt. Vitality would probably increase my regeneration and overall health, but I think fortitude would be the best option for me, especially since it would synergise perfectly with Bulwark.
+
+Her mind made up, Evelyn invested her newly purchased attribute point and felt a little tingle as the skin across her body tightened ever so slightly and her muscles and bones seemed to be jiggling a little. She brought up her status just to confirm the change before striding confidently through the glowing portal to the 5th Floor.
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+|Attributes|
+
+Power: 0
+
+Speed: 1
+
+Stamina: 0
+
+Vitality: 0
+
+Mana: 0
+
+Fortitude: 1
+
+|Skills|
+
+~Passive~
+
+Bulwark (Common)

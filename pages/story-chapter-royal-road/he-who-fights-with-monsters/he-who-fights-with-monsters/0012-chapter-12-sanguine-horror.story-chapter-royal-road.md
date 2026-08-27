@@ -1,0 +1,221 @@
+---
+id: 4b8c076e-707b-582d-938a-a0452b801a2c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12: Sanguine Horror"
+slug: 0012-chapter-12-sanguine-horror
+partOf: he-who-fights-with-monsters
+position: 12
+ownLength: 1643
+unit: words
+ownProgress: 1643
+publishedAt: 2019-08-01
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387706/chapter-12-sanguine-horror"
+royalRoadId: "387706"
+markedReadAt: "2026-06-29T19:04:10.947Z"
+---
+
+“That was amazing!” Gary said, coming up to slap Jason on the back. Jason staggered forward to support himself on the altar at the end of the platform.
+
+“The way you made them disregard you as a threat by appearing weak and harmless,” Gary praised. “Feeble and helpless, even touched in the head a little. It was masterful how impotent you came across. Even after you kept escaping from the cage they had no respect for you as a threat whatsoever.”
+
+“Please stop complimenting me,” Jason said. The strength of the coin was gone, and the backlash of two in quick succession was enervating. His mana and stamina bars had drained to almost empty, and adrenaline was the only thing keeping him awake.
+
+“How did you get down off that wall?” Jason asked.
+
+“The magic died with him,” Rufus said, also approaching. “Which was lucky, because it doesn’t always work that way.”
+
+“You’d have had a right problem getting us down,” Gary said.
+
+“How about someone gets me out of this cage?” a female voice asked, impatiently. It wasn’t the same voice that had been dismissing him back in the cellar. That person must have been the one whose place Jason took.
+
+Jason staggered over to the cage, swiping the stone on top into his inventory as he took the keys out. The woman inside the cage was pretty with strawberry blonde hair and a button nose. She was clearly unhappy, but that just left her looking rather adorable. Jason opened up the cage and let her out.
+
+“Thanks for the rescue,” she said to Jason, tamping down her annoyance, before blasting it full force at Rufus and Gary.
+
+“What the hell were you two doing? I had to get saved by a random homeless man?”
+
+“He only seems like that,” Gary said. “It’s all a cunning ruse.”
+
+Jason left the three of them talking while he wandered back to the altar at the edge of the platform. It was decorated with grotesque carvings that appeared to feature teeth very heavily. On top of the altar was a thick book, left open halfway through. Glancing over the text, he could only understand fragments. Having used the ritual magic skill book he took from Landemere, the knowledge it imbued him with offered some insights, but this new book was still above his head. The contents seemed to involve a more specific field of magic, operating at a higher level than the skill book allowed him to grasp.
+
+“What have you got?” The woman asked, walking up to the altar next to him.
+
+“Not sure,” Jason said, pushing the book in front of her. “Looks like they were trying to make something, but it’s well beyond my expertise. I only found out magic exists today. I’m Jason, by the way.”
+
+She gave him an odd look.
+
+“Farrah. Thanks again for the rescue.”
+
+“No worries. I figured the best way out of wherever we are was to get you three to help me. Can you make anything out from that book?”
+
+She turned her attention back to the pages in front of her.
+
+“You’re right about them making something,” she said, flipping through pages. “Something not very nice.”
+
+“I got that much from context,” he said, waving his hand at the chamber around them, black stone reflecting blood-red light from below.
+
+“Fair point,” Farrah laughed.
+
+While she continued examining the book, Jason looked around some more, noticing Gary and Rufus were gone.
+
+“Where’d the others go?” he asked.
+
+“They went to see if those cultists you led off are coming back.” Farrah said.
+
+“I completely forgot about them,” Jason said.
+
+Looking around some more, he found a small white sack next to the altar. He picked it up and looked inside, seeing a white, crystalline powder. He pinched some between his fingers.
+
+Item: [Salt] (normal, common)
+
+Ordinary salt (crafting material).
+
+“Salt?” he muttered curiously.
+
+“It’s good for making quick and easy magic circles,” Farrah explained, not looking up from the book. “A lot of ritual magicians keep some around. Me included.”
+
+Jason dropping the sack back down next to the altar. There didn’t seem to be anything else of interest, but he noticed that Farrah had the same iron collar as Gary and Rufus.
+
+“I don’t suppose the key to your neck thing is here somewhere,” Jason said.
+
+“Cressida had it,” Farrah said.
+
+Jason glanced at the wall where Cressida had crashed into it before dropping out of sight.
+
+“Oh. Sorry I pushed her into the pit.”
+
+“Things would have gone a lot worse if you hadn’t,” Farrah said.
+
+Jason looked over at the stairs leading down.
+
+“Can I ask you something about Gary?” he asked.
+
+“What’s that?”
+
+“Are there a lot of lion people running around, or was he cursed or something?”
+
+Farrah looked up from the book, again giving Jason a curious gaze.
+
+“You’ve never seen a Leonid before?”
+
+“I’m not local,” Jason said.
+
+“That’s coming across,” she said. “Leonids are a normal race you’d see anywhere in the world.”
+
+“Good to know,” Jason said.
+
+She frowned, curiously, but turned back to the book while Jason continued to look around. He peered over the edge, looking down at the red pit far below. It could have been his imagination, but the room seemed to be getting hotter. The sloshing noise of the pit below seemed louder as well. He spotted Rufus and Gary making their way back up the stairs.
+
+“The others are coming back up,” Jason said to Farrah.
+
+“That’s not good,” Farrah said.
+
+“That seems rude,” Jason said.
+
+“No,” Farrah said, “I mean I figured what the cultists were up to.”
+
+“Bad?”
+
+“Very bad.”
+
+She waited for Gary and Rufus to arrive before explaining.
+
+“No sign of the other cultists,” Gary said, “and one of the wagons was gone. I’m guessing they came back, saw their high priest splattered on the ground and decided to make a run for it.”
+
+Quest: [The Blood Feast]
+
+Jason's eyes lit up at the sight of another essence, but it wasn’t the time to start going over his loot and he closed the window.
+
+“I know what they were doing here,” Farrah told Gary and Rufus.
+
+“I’d assume some kind of summoning ritual,” Rufus said.
+
+“More like trying to create something,” Farrah said. “It’s called a sanguine horror; an artificial creature made from alchemy, blood and things best left unmentioned.”
+
+“Sounds friendly,” Gary said.
+
+“It’s an apocalypse beast,” Farrah said. “A world ender. A hive mind made up of carrion leeches that rot your flesh as they drain you dry. It feeds on blood to multiply itself, growing in mass and power until there’s nothing strong enough to stop it. Then it spreads and spreads until there’s nothing left to consume.”
+
+“Why would anyone create something like that?” Jason asked.
+
+“They presumably had some way to control it,” Rufus said. “Use it as a weapon.”
+
+“That’s a big gamble with an apocalypse beast,” Farrah said. “Maybe that’s possible before it gets too powerful. Until it feeds enough to grow strong it remains vulnerable.”
+
+“Still seems like way too high a chance of going wrong,” Jason said.
+
+“Speaking of which,” Rufus said, “have you noticed it’s getting hotter in here?”
+
+“No,” Farrah said.
+
+“Yes,” Jason said at the same time.
+
+“It’s more noticeable closer to the pool,” Rufus said.
+
+“The smell is stronger down there too,” Gary said.
+
+“They should probably be tossing us into the blood pit by now,” Rufus said. “Is something going wrong because we interrupted them?”
+
+“I think we’re overlooking something,” Jason said.
+
+“What’s that?” Farrah asked.
+
+“Are we sure we interrupted them? They were going to throw the four of us into the pit, right?”
+
+“Right,” Rufus said.
+
+“Well,” Jason said, “how many people did we throw in?”
+
+Farrah’s pretty brown eyes went wide.
+
+“Oh no,” she said, turning back to the altar and started madly flipping through pages of the book.
+
+As the others waited, a screen appeared in front of Jason.
+
+New Quest: [The Sanguine Horror]
+
+Destroy the sanguine horror before it becomes too grave a threat.
+
+“Oh crap,” Jason said.
+
+Farrah snapped the book shut. It was a hefty tome and she tucked it under one arm.
+
+“I’m pretty sure we just finished their job for them,” Farrah said.
+
+“I don’t think they’ll appreciate it,” Rufus said.
+
+“Are we the blood cult now?” Gary asked.
+
+“We have to get down there and stop it while it’s still weak,” Farrah said.
+
+“Will the book help?” Gary asked.
+
+“Not at all,” Farrah said.
+
+“If we have to do it, we have to do it,” Rufus said. “Failing that, we go find someone stronger to deal with it. A lot stronger.”
+
+“Do you think Emir has arrived yet?” Gary asked.
+
+“No,” Rufus said. “He’s weeks away at best.”
+
+“Then we need to handle this ourselves,” Farrah said. “I don’t trust the competence of the locals.”
+
+“This guy’s alright,” Gary said, dropping a hand on Jason’s shoulder that almost knocked him over.
+
+“I’m not local,” Jason said.
+
+“I’m concerned that we don’t have our abilities with these collars,” Rufus said. “You’re sure there’s nothing in the book about how to fight it?”
+
+“No, I’m not,” Farrah snapped. “I’ve had it for about eight minutes and it’s written in a language that you haven’t even heard of. So maybe there’s something in there, but I’m not going to find it by randomly skimming through a few pages.”
+
+“Did you check for an index?” Gary asked.
+
+Farrah’s eyes landed on Gary like attack dogs.
+
+“I guess there’s no time for research,” Gary said, quickly heading for the stairs.
+
+“Let’s go,” Rufus said, following after Gary.
+
+Farrah watched them vanish down the steep staircase, then turned to the back of the book. Jason narrowed his eyes as he watched her.
+
+“Are you checking for an index?”

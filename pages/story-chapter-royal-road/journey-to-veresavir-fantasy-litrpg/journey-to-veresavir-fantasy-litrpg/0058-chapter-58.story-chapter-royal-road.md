@@ -1,0 +1,331 @@
+---
+id: 763d57e8-9ed5-5945-b612-ff402175878e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 58"
+slug: 0058-chapter-58
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 58
+ownLength: 3829
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3720149/chapter-58"
+royalRoadId: "3720149"
+---
+
+Chapter 58
+
+The next day, they met in the map room. This time, they picked a target hall in the B-tunnel, and then made their way back into the Crypts. It was a slightly cloudy day. The wind was cool in the morning but the sun already peeked through.
+
+It was busy too, lifts going up and down around the pit. There were a few people running after someone, shouting after the supposed thief. Merchants were trying to sell them dubious goods and ointments that would help protect them in the depths.
+
+Veron went to the steel chains and climbed down first again, a torch already burning and connected to his armor, the maneuver eliciting some looks from other adventurers. The climb felt slightly easier than the first time around. The others joined him soon after.
+
+Once in the entrance, the team took a moment to prepare, then got into formation, and went into the dark.
+
+It felt calmer, more focused.
+
+They avoided the big tunnels this time around, coming across more skeletons and rats. Ailis healed the small injuries they incurred.
+
+They talked quietly from time to time, mostly after the fights, and mostly to check in on each other. Veron felt that they were all less tense, more focused on the task, now that they felt a little more comfortable with each other.
+
+They took a break right before they reached their target hall.
+
+“I’m getting cold. Should we try the fire?” Isaac asked.
+
+“Sure, let’s try to set it up,” Veron answered.
+
+Isaac started but as soon as Elke saw him try, she took over. Her expressions conveyed enough. Confusion and bafflement, though she refrained from any comments, instead explaining to the other three how to properly prepare and build a fire, even in case the outer parts of the wood was damp.
+
+A spark took with the third scrape on her flint, and a minute later, they had a fire going.
+
+Veron breathed out as the room they were in brightened up. He got used to having only torchlight around, but the small fire really showed how dark this place was. And how it got to him over time. His breathing slowed and he relaxed, Soon trying to find some wind to connect to. He opened the door they’d come from to see if it would help.
+
+There was nothing, though he wondered, then started swaying the door. It creaked and the others glanced at him with some confusion.
+
+It was enough, and he connected to a bit of airflow he himself had created.
+
+Hah. It counts!
+
+It felt a bit like cheating, though he supposed the forces that created wind were somewhat diverse too. Why shouldn’t an improvised fan work?
+
+I should get an actual fan, though would just blowing work as well?
+
+He tried but either there wasn’t enough air moving, or its composition wasn’t right, he wasn’t sure, but it didn’t work. Before Veron lost himself to more testing, he used the airflow created from the door to push some of the smoke back the way they’d come from, trying to circulate the room with air as well as he could.
+
+It worked okay, and he got better at it as he tried, taking breaks between as they warmed up and enjoyed the small and crackling fire.
+
+When Veron reached around half his Focus, he stopped.
+
+The fire was enough for Isaac and Ailis to warm up a little. They ate and drank, checked their gear, then moved on to the hall.
+
+Its doors looked similar to the last one, two heavy wooden gates.
+
+Veron thought back to the blood beast, then steadied himself.
+
+He used the same approach, careful and checking for anything that seemed amiss. This time however, there was no blood beast waiting to ambush them.
+
+They lured out skeleton dogs, then a group of warriors, destroying each in turn. Isaac and Elke destroyed a few archers shooting at them from an open second floor in the large hall. They waited for a while after, and then they entered. Only one enemy remained, a skeleton warrior armored with rust covered half-plate. It had a helmet on too and wielded two curved swords, considering the invading group for a moment before it engaged.
+
+The creature was faster and sturdier than the rest, but by now, it stood alone. They slowly pushed it back while Veron kept its focus on him.
+
+Soon after, it fell like the others.
+
+“Well done, team. Let’s extract in turns, who claims what?” Veron called out.
+
+They took a short break, extracted, then searched and looted the hall. Isaac found a hidden compartment with ten silver coins, but other than that, there was nothing special here. They took some of the weapons with them, and then they started on their way back.
+
+It almost felt too easy, and Veron felt just as vigilant as when they had escaped from the blood beast. He felt as if something dangerous was waiting just around the corner, but by the time he started to feel safer, they’d already reached their exit, the pit of Anvakar visible beyond the tunnel.
+
+This time, he climbed up last, not only because he felt like the leader should be the first to enter and the last to leave, but also because he simply had the most armor on, in case something would ambush them.
+
+“Alright,” Veron murmured and bound the rope below his arms as well as he could without help, then climbed back up on the thick steel chains. The sky had mostly cleared up by now and Veron sighed with relief when he came back out on top. “That’s a dive done,” he said and raised his fists with silent joy.
+
+Slow and steady.
+
+Elke raised her head slightly and gave him a nod, Isaac smiled and raised a single fist, and Ailis clapped twice.
+
+“Solid work today,” she said. “And it’s barely two o’clock.”
+
+“Almost enough time to go in for another round,” Isaac joked.
+
+“I’m drenched and need a shower, no thanks,” Veron said and laughed.
+
+“How are you drenched? It’s so cold down there,” Isaac complained.
+
+“I’m pretty sweaty too,” Ailis said. “Still cold, but also sweaty.”
+
+Elke gave them a strange look, then glanced at Veron.
+
+He shrugged.
+
+She shrugged back.
+
+“Yes, we understand, you elementals don’t care about the cold,” Isaac said. “Lunch? We have ten silver to split up.”
+
+“Then it’s my turn to invite,” Elke said.
+
+“Sounds good, where to?” Isaac asked.
+
+“Showers first? I can get you in at the Healer Station probably,” Ailis suggested.
+
+They showered and then had their lunch. Nobody had gotten injured, and the run had gone well, so they decided to go on to Parker’s already. They sold the swords for an additional twenty silver.
+
+Veron briefly thought about the curse, and about the time magic but he shelved both again quickly. Though he felt like what he was doing here was just not enough, considering the stakes, it was what he could do, and he knew that every run, every extracted beast, and every bit of experience he gained, in his magic, his fighting, and as a leader, would slowly build up.
+
+More importantly, I might soon be making enough to afford a single room.
+
+They went to the Reader’s Hut for a little bit afterwards, and quickly discussed their plans. They would meet at the map room again the day after tomorrow. Veron set up a sparring date with Elke too, this one on their rest day.
+
+He picked up a book after, and read for a bit, wondering what else he would do in his spare time. Wind Harmony training and reading seemed pretty good for now, and if it turned out that Elke and himself could spar efficiently, that would be another great addition.
+
+He thought about what else he could or should do but found himself feeling pretty good about his forming routine. There was only so much Focus he had available each day, and rushing through the dungeon would only get him killed.
+
+The curse happened near the start of winter, and I don’t think any other big events that I know of would warrant any real consideration from me, at least as I am.
+
+Which means I have more than four months with the team. Long months too because of their longer weeks here. About half a year.
+
+Half a year of dungeon runs. If we don’t get killed along the way.
+
+Yeah, I think building a routine is a good idea for sure.
+
+The next day, he met up with Elke at the Willard Inn. For the first time with a new sparring partner, Veron had some things to say and suggest, instead of simply listening to instructions and pointers himself.
+
+It quickly became clear that Elke had been taught a certain way, and she obviously had a lot of experience in what worked for her and what didn’t. The main difference was her lack of heavy armor, and her weapon choices, which she had of course pointed out to him when he had first asked about instructions.
+
+It still turned out to be fun, and challenging. They faced each other with wooden weapons and only light strikes, knowing they didn’t have a healer around, testing their movements and sharing what they’d learned from their previous instructors.
+
+Elke aimed for the gaps in his armor at first, but Veron soon adjusted, mainly making light changes to his armor to remove some obvious weaknesses.
+
+She danced around him, keeping him at a distance but with his shield and armor, he soon managed to hold his own. A tense stalemate that they each tried to break with increasingly bold maneuvers, until one either worked or they overextended and were punished for it.
+
+Their Path was at the same stage, so their overall strength and speed felt similar, at least without armor. What Veron lacked in finesse and dexterity, he made up with his shield and armor, at first at least.
+
+As time went on and Elke adjusted, it became clear that she was a far more experienced fighter. She often got him in the back of a leg, near his hands, and his elbows. When Veron fought a lot more defensively, she simply tired him out due to his heavy armor. He had to close the distance but her footwork and spacing was difficult to counter.
+
+Veron did notice that as he fought more aggressively, Elke had to focus more on getting away, and her strikes became a lot less precise and more aimed at simply keeping him at a distance. Those maneuvers sometimes ended in a stalemate. As soon as she managed to get on the offensive however, the fight was usually over quite quickly.
+
+“Your armor and shield are annoying to deal with,” she said when they took a break.
+
+“Doesn’t stop you from winning.”
+
+“It slows me down, makes me use a lot more energy,” she said. “If you used a weapon with more range, you could probably get in a few strikes too. Your projectiles would change this battle.”
+
+“Maybe, but so would yours if you had any ice around.”
+
+“Well, I don’t. Another round?”
+
+They continued until lunch, which they shared at the inn. By now, Veron recognized some of the other iron adventurers around, and some of the few silvers, greeting them with nods or simple gestures.
+
+Veron spent the rest of his day reading and working on his magic. Though perhaps working was not the right word. He was playing around with it, wishing he had more Focus to spend. He also found a simple fan in the Circles, buying it for a bit more than a silver.
+
+Ellie later added a no wind harmony sign to her shop.
+
+The next dive didn’t go as smooth.
+
+A few hallways in, some twenty minutes after their descent, Veron stepped on some kind of pressure plate. Arrows shot out from the lefthand wall and straight into him and Ailis. He stumbled to the side and checked, one of the projectiles sticking out of his shield but he was otherwise fine. Ailis was hit in the shoulder, the arrow penetrating deep past her leather armor.
+
+She winced and sat down. “Shit.”
+
+“Fuck, I didn’t see that. I’m sorry, Ailis. What should we do?”
+
+“First, you calm down,” Ailis said, breathing slowly. “I need to look at the wound, or you have to describe it to me. Isaac, your blade is pretty sharp, help met get the shoulder piece off, just try not to move it too much.” She got something out of her pack, a piece of wood, and bit down on it.
+
+They worked slowly, Elke checking for any potential monsters approaching them and the others helping Ailis. They cut off the shoulder piece as well as they could, but it was pinned to her with the arrow.
+
+Ailis spit out the wood and breathed in deep. “I’ll check it quickly, see what the damage looks like. This path I have chosen, this path I will follow, knowledge I’ve learned, wisdom I’ve found.” Her hand started glowing and she closed her eyes as she examined herself. “It went pretty deep. A few centimeters higher and that might’ve been it,” she said and touched her neck. She sighed.
+
+“If we leave it in, I won’t be much help in a fight, and I might injure myself worse. If we take it out, I might pass out. You’ll have to stop the bleeding with a bandage, wait for me to wake up, use the smelling salts if you have to, and then I can heal it. It will tire me, and use much of my Focus.”
+
+“Let’s get there first, then we talk more,” Veron said.
+
+They got everything ready. Ailis used the smelling salts and closed her eyes to distract herself. She bit down on the piece of wood again. Veron stabilized her as well as he could, and Isaac slowly pulled out the arrow, including the shoulder piece.
+
+Ailis didn’t pass out, though she shivered and breathed deeper.
+
+“Are you there, don’t pass out. The arrow is out,” Veron said as Isaac pushed the bandage against her wound.
+
+“You have to push harder,” Ailis said. She breathed deep, and shuddered slightly, then winced at the movement. “Training and experience, shape what I can do,” she whispered, her right hand glowing again before she touched her shoulder. “Keep the bandage there. I’m slowly working through it… it’ll… take a while.”
+
+Veron wet a piece of cloth and held it against her brow. “You’re doing great.”
+
+A minute or so, she continued, her breathing gradually calming down. Ailis no longer looked in pain when she stopped, but she looked pale.
+
+Veron gave her water to drink, and some food.
+
+“I don’t want to eat,” she said. “I know I should, but don’t tell me.”
+
+“You should eat,” Veron said. “The healer said so.”
+
+She managed a small smile. “Yeah yeah. So, I’m feeling pretty fucking tired. But we can continue, I just need a bit of a break.”
+
+A bit of a break?
+
+“Of course not. This is it for today,” Veron said.
+
+“What? No no, I’ve been injured worse.”
+
+“Sure. We take a break, rest up for a bit, and then we move back out. Objections?” Veron asked.
+
+Elke shook her head.
+
+“None,” Isaac said.
+
+“I object,” Ailis said.
+
+“Do you?” Veron asked. “To me, you look exhausted, and not in a state to continue. We have nothing to prove, but you’re the healer.” He locked eyes with her for a long moment. “Would you object if it wasn’t you?”
+
+She looked away.
+
+“No. I wouldn’t,” she whispered.
+
+“Good. So we take a break and then leave. And stay focused, we’re still in the dungeon. Breathe out your frustrations if they’re there, or any guilt or shame, or anything else. Nobody died, and we’ll come back again.”
+
+The others were quiet for a while.
+
+Veron felt some frustration too, though he found he could let it go quite quickly. He was glad they hadn’t triggered the trap near the end of a long run, or with Ailis having less of her Focus available.
+
+“What a shit run,” Ailis murmured.
+
+“Yeah,” Veron said. “Sorry for triggering the trap.”
+
+“You’re too heavy,” Elke said. There was some amusement in her voice, though only a hint. He might’ve missed it had he not sparred with her the day before.
+
+“Maybe I should make stone armor for you lot too.”
+
+Elke smiled.
+
+“No way. Never would I wear something so uncomfortable,” Isaac said.
+
+“What? It’s actually quite comfortable. Surprisingly so,” Veron said. “The fact that I have an Earth Harmony doesn’t affect that opinion at all, just saying.”
+
+“Of course it doesn’t,” Isaac said, sarcastically. “So, back up and some cards?”
+
+“Sounds good to me,” Veron said.
+
+“You lot are ridiculous,” Ailis said. She smiled, then covered her face and sobbed.
+
+Veron crouched down, made to touch her, and then decided not to. “It’s alright, you know. If anyone fucked up, it’s me. And now we get to go and play cards.”
+
+She breathed in deep with a shudder, then looked at him with slightly reddish eyes. “I’m supposed to be the healer.”
+
+“And you are,” he said.
+
+“I’m not supposed to hold the party back,” Ailis said.
+
+“You’re not holding anyone back, Ailis. We’re a party. We go in together, and we leave together. Can I touch your hand?”
+
+She looked at him, and breathed in.
+
+He gently grabbed her hand and held it. “I’m glad you didn’t die here. That would’ve been a mess.”
+
+She chuckled slightly. “Yeah. Imagine that. An arrow trap in the Crypts.”
+
+He smiled back. “On our third dive.”
+
+“Guess we should think about buying some better armor,” Isaac said.
+
+“Got to make more silver first,” Veron said. “But we’ll get there. I want to get a lantern too. Torches are annoying.”
+
+“They do add a rustic flair,” Isaac said.
+
+“Like armor too shitty to stop an arrow?” Ailis asked with a tired voice.
+
+“Exactly,” Isaac said and smiled. “Sorry you got hit.”
+
+“It’s fine,” she said.
+
+“Yep, rested up enough?” Veron asked, moving to help her get up.
+
+“I can stand on my own,” she said and did just that, then wobbled slightly. She breathed in and focused.
+
+“Just let us know if you’re about to pass out,” Veron said. “That’s not a joke. You could hit your head.”
+
+Ailis rolled her eyes, then sighed. “Maybe someone can help me walk for a bit.”
+
+“Sure. Isaac?” Veron asked. “I take point, Elke in the back. Focus up.”
+
+The way back was quiet and slow.
+
+Veron was worried about Ailis when she made the climb up and out of the pit, but they all made it. It was still morning and there were plenty of adventurers around who were just starting their dive, a few of them glancing at them with worried expressions.
+
+The first stop for the group today was the Healer Station, checking to see if Ailis needed anything else. But other than sleep, nothing else was prescribed, so she stayed at the station to rest up.
+
+“We could skip the rest day tomorrow,” Ailis said. “Seeing how we didn’t get very far today.”
+
+“If you feel fine by then, I wouldn’t be opposed,” Veron said.
+
+“Me neither,” Isaac said. Elke nodded.
+
+“I already feel fine, just tired,” Ailis said.
+
+“Alright, then we meet up tomorrow, but we can make a final decision then,” Veron said.
+
+They let her sleep and without anything else to do, it was cards, then some more sparring and magic.
+
+Veron didn’t expect anything to happen when he played around with his new fan and the wind later but something did change. Gradually, as if he could better grasp the flows. He smiled to himself and added more airflow with his fan, letting it all move around himself in a circle and then upwards.
+
+He breathed quietly when his Focus reached the halfway point, or somewhere near. Then he looked inward. His Harmony had reached Beginner III. The range of his magic increased, both in terms of how far he could move the wind he connected to, but also how much of it he could affect at once.
+
+One more level and I might be able to do something new with it, he thought, remembering that he’d gotten his ability to shoot rocks once he’d gotten his Earth Harmony to Novice I.
+
+What now then, a bath and dinner?
+
+During the bath, he thought about the experience with the trap earlier. He was glad that Ailis hadn’t been hit worse. They would have to change their approach slightly.
+
+By the time he went to bed, he already had a simple solution.
+
+The next few delves went better. Veron took point with a bit more distance between himself and the others. If he triggered a trap, he had the sturdiest armor to deal with it. And he triggered a few. It was simple, but so far, it worked well enough.
+
+They killed skeletons and rats, sometimes special variants that were bigger, faster, or equipped with different weapons, or some armor. Isaac found them hidden stashes and they sold all the usable loot they could find. It wasn’t much, but slowly, Veron was building up a small sum of silver.
+
+Everyone knew their roles by now, and they were slowly getting more familiar with both the Crypts themselves, and the common enemies they faced there. At least on the upper parts, close to the pit.
+
+And so they started going a little bit deeper, exploring for a little bit longer. Injuries became rarer, and whenever someone did need significant healing, they started making their way back right after. Slow, steady, and cautious, they explored the first layer of the dungeon, extracting every beast that they killed, and getting better with their magic.
+
+A week into their delves, Ailis had a breakthrough with her healing aspect. It could deal with injuries faster but more importantly, she’d gained a new skill.
+
+She stopped them before one of the larger halls, clearing her throat. “There’s… something I want to try.” She seemed a bit flustered and looked away. “We have walked this path for a while now.” She glanced at them, her face beet red. “Warriors of Anvakar. We fight together!” Her eyes glowed white for a moment and Veron felt himself stand a little straighter.
+
+He smiled and breathed in deep, then gave her a nod. His weapons felt just a little lighter, and he knew that hardly anything would faze him now. At least for a little while. She didn’t employ the same kind of flair that Hayden had used in his speeches, but her magic was the same. Weaker still, yes, but it was a start.
+
+He wondered who was next.

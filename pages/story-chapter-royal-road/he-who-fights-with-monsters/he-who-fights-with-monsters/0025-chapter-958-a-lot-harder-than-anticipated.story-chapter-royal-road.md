@@ -1,0 +1,193 @@
+---
+id: e1d1b619-1ab1-599b-bccb-dd224931677d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 958: A Lot Harder Than Anticipated"
+slug: 0025-chapter-958-a-lot-harder-than-anticipated
+partOf: he-who-fights-with-monsters
+position: 25
+ownLength: 3035
+unit: words
+ownProgress: 3035
+publishedAt: 2025-02-03
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2046231/chapter-958-a-lot-harder-than-anticipated"
+royalRoadId: "2046231"
+markedReadAt: "2026-06-29T19:04:39.180Z"
+---
+
+Ilyin found his passage up the elevator shaft discomforting, lifted as if by a disembodied hand. It didn’t help that, to grab him, Asano had suppressed Ilyin’s aura first. Reaching the surface, he passed through the hole his team had jackhammered to access the elevator shaft. It was in a warehouse that had been built right over the bunker system.
+
+They had cleared some space on first arriving in the warehouse, and more room had been made now. Shelves stacked with construction materials meant little to gold-rank strength, and several gold-rankers were present. Normally that would have set Ilyin on edge, but he had bigger issues to deal with today.
+
+If the gold rankers wanted to make Ilyin’s life hard, all they would have to do was push out with their powerful auras. In Ilyin’s experience, gold-rankers liked to throw their weight around, with auras being a favourite way to do that. This group had theirs retracted, leaving just enough to announce their presence. These auras were also smooth in a way he wasn’t used to. Ilyin focused on one gold ranker, kneeling over Team One.
+
+“You a healer?” he asked the man.
+
+“Yeah,” the man said. “You their commander?”
+
+His no-nonsense tone and failure to look up was comforting to Ilyin. He’d met combat medics before, and the sense of familiarity at the attitude was a comfort on a day that had gone to hell eight different ways.
+
+“I am,” Ilyin said.
+
+“Neil Davone,” the man introduced himself. “Your people will be alright, but the vampires left them with a lot of the lesser vampirism curse. Jason cleaned it out before it took hold and turned them, but you’re looking at real recovery time here, whatever magic you use.”
+
+“Thank you.”
+
+***
+
+The concrete storage room lit up as Travis entered, a glow stone floating over his head. His escort, Humphrey, nodded to Jason. Aside from the three men, the only things in the room were a large crate and some ominous stains that glistened in the light. They mostly covered the floor, but also painted sections of the walls and ceiling. Travis gave them a leery glance as he moved to the crate. The wood gave way to his silver-rank strength without resistance as he tore the crate to pieces, casually tossing them aside to look at the contents.
+
+“Yeah, this is a nuke,” he said. “Some minimal magical enhancement, but inexpertly done, and some time ago at that. Too faded to offer any measurable performance increase at this stage.”
+
+“Does that matter?” Jason asked. “We’re talking about a nuclear weapon.”
+
+“It matters,” Travis said. “Setting off a conventional nuke deep underground, in a magically reinforced bunker, will do massive damage with a nasty radioactive aftermath. But a magically enhanced nuke, going off on the surface? It’s the difference between Melbourne being devastated, and Melbourne being gone.”
+
+Jason nodded.
+
+“Neither is a great option, but I take your point. It’s in our hands now, though, so we won’t let either of those scenarios happen.”
+
+“Do you want me to destroy it? Or you could feed it to your cloud flask.” Travis asked.
+
+“Disable it but leave it intact. Anna wants me to hand it over to the Australian government.”
+
+“Aren’t they the ones who sent mercenaries down here in the first place?” Humphrey asked.
+
+“It’s complicated,” Jason said. “Anna thinks that the Prime Minister won’t last after this, and helping the government save face will improve relations with whoever replaces him. So, leave something to hand over, but make sure it isn’t operable, and never will be again.”
+
+“I can do that,” Travis said. “One of my abilities lets me play around with material for creating weapons. I can render the fissile material inert.”
+
+“Thanks. Humphrey, keep an eye on him while…”
+
+They all turned as Colin entered in his blood clone form, looking like a red-eyed Jason. There were four of him. Below diamond rank, he couldn’t permanently expand his biomass, but he could do so temporarily, if he fed on enough life energy. At gold-rank, that that temporary lasted longer than before, and consuming a vampire lord had loaded his reserves nicely.
+
+Jason had sent Colin and his extra bodies on the hunt through the complex. Now they returned, each carrying bodies slumped over their shoulders. Colin lowered them to the ground, setting them out in a line.
+
+“There are people here,” he said. “A lot of people.”
+
+Jason, Travis and Humphrey came over observe the corpses.
+
+“They look homeless,” Jason said. “There are a lot of them down here, you say? I can sense something out there, but it’s unclear. I certainly didn’t pick up on a bunch of homeless people.”
+
+“They had something inside them,” Colin said. “It was controlling them, making them stronger.”
+
+“Sounds like when the Builder shoved clockwork cores in people,” Humphrey said. “Make them stronger and turned them into unwilling slaves.”
+
+“I can feel the thing inside them, if I get close,” Colin said. “I can leech it out of them. Devour it. That’s what I did to these people. They died, but not immediately. If we had a healer, maybe they could save them.”
+
+Jason looked up from the corpses and put a hand on Colin’s shoulder.
+
+“You really are a good boy.”
+
+Colin’s bashful smile looked odd when he had Jason’s face.
+
+“I’ll fetch Neil down here,” Humphrey said.
+
+“I’ll bring the others from the ship,” Jason said. “Just the team is fine if we’re hunting vampires in the dark, but if there’s a bunch of puppeteered victims we can potentially save, we’ll want all hands on deck. Especially the healers.”
+
+***
+
+The bodies had been moved from the storage chamber with the nuclear weapon to the large central chamber of the complex. Three of the corpses had been placed inside ritual circles and complex patterns of light were now floating over them. The patterns meant nothing to Jason, but there was a group of magical healers peering at them, muttering between themselves. Along with Carlos and Neil were Arabelle Remore, Claire Adeah, from Rick Geller’s team, and Sigrid Volaire, who was both Prince Valdis’ team healer and wife.
+
+Their teams were present as well, but not yet moving out. Until they knew if the enemies Colin reported were victims that could potentially be saved, they didn’t want to move into the deeper reaches of the complex. The entrances were being watched by Humphrey’s summons, who looked like human-sized golems made of bone, garbed in ornate blue and gold armour.
+
+At gold rank, Humphrey’s Spartoi power could call up a hundred of the dragon tooth warriors. They weren’t up to the task of defeating an elite adventurer of their rank, but were perfect for battling enemy minions or when a large security force was required. Right now, they were securing the room against potential intrusion and patrolling nearby tunnels and chambers. It allowed the adventurers to gather and discuss without needing to watch the entrances, while waiting for the healers to be done. Once they were, Carlos gathered everyone together.
+
+“It would appear that Colin’s postulation is accurate,” he explained. “It seems we’re dealing with some kind of monster or other entity that can implant victims with organic material that controls them and floods them with power. Think of it like being affected by a spirit coin for an extended period, giving them a temporary false rank.”
+
+“As you’d imagine,” Neil said, picking up the explanation, “that is very bad for you. The good news is, it looks like these are normal-rank people. As with using spirit coins, the less magic you have of your own, the less severe the conflict between it and the introduced magic. Our best estimate is that there are a few more hours before whatever has happened to these people will kill them outright.”
+
+“Our recommendation is to split into four groups,” Carlos said. “We have four teams here, and Colin has four bodies right now. Having Colin extract whatever this is from the victims will be critical to keeping them alive. Colin, how long can you maintain those extra bodies?”
+
+“So long as I can feed on more of the things implanted in these people, then indefinitely.”
+
+“Then let’s get going,” Carlos said. “I’ll set up a triage station here, using the dragon tooth warriors to secure our foothold in the complex.”
+
+“I’ll send a small contingent of them with each team, as well,” Humphrey announced. “If you manage to free and stabilise any victims, the warriors can ferry them back here. Danielle, Farrah; you don’t have teams here, so you hold this area with the warriors in case something they can’t handle slips past us. Whatever we’re up against, it can hide from our senses and let its victims do the same.”
+
+Danielle looked amused at her son, in expedition leader mode, referring to her by name. She said nothing, happy that he was even capable of issuing her orders. She’d been worried, when he was younger, that timidity would prevent his natural charisma from transferring into the potential she saw for him as a leader. That had continued right up until he stalled out in the attempt to reach gold rank, but he had ultimately found his inner dragon.
+
+Jason, Rick Geller and Valdis all had their teams present. On Arabelle’s team was her husband, along with Emir and his wife Constance, who had frequently taken the place of original team member Callum Morse. Constance had trained with Callum on her own path to gold rank, before the full extent of his instability had shown. Now, Cal returned to the team, restoring the full original lineup while keeping Constance as well.
+
+Callum was far more stable than when Jason had known him years earlier, during his obsessive searching for Sophie’s mother. The ability to visit her in Jason’s soul realm, plus years of therapy with Arabelle, had spurred his recovery. As he was the best hunter on any of the teams, he would be a useful presence in the group.
+
+The four teams moved out, linked by Jason’s interface. His abilities enhanced the System to which they now all had access, not only allowing them to communicate, but also create a shared map of the complex as they explored it.
+
+***
+
+“How many homeless people did they bring down here?” Jason muttered. Colin’s leeches fell away from the latest group of victims, who dropped like puppets with cut strings as the force controlled them was removed. Jason caught them with his aura before they slumped to the ground, floating them over to where Neil was already drawing out a healing ritual.
+
+“It does seem strange that this many people could be brought down here unnoticed,” Humphrey said.
+
+“Homeless people might as well be invisible,” Jason said. “We spend so much time deliberately overlooking them that we don’t notice when they go missing.”
+
+“We try to avoid that in Pallimustus,” Zara said. “A large, exploitable population invites vampires, necromancers or something worse to do just that. Your world will need to address this problem as the magic here rises.”
+
+Rick’s voice came through the group chat.
+
+“We just ran into some vampires. They fought like those other homeless people, which makes sense given that Colin said that they were being puppeteered. No skill, just trying to rush us down.”
+
+The normal people were boosted all the way to silver rank, which was nothing to the gold rankers. The challenge was not in winning the fights but in disabling their opponents so that Colin could excise the power controlling them. Some had to be fended off with enough violence that they didn’t survive, while others were too far gone. The magic boosting their rank had done too much damage already.
+
+“Did you manage to take the vampires alive?” Neil asked. “Or what passes for alive for vampires?”
+
+“No,” Rick answered. “Claire says the vamps have too much magic. Whatever is being done to these people kills the vampires outright, the moment Colin takes it out of them.”
+
+“Why are they even controlling vampires?” Gabriel wondered. “Did the vampires not put whatever is down here in place?”
+
+“A question for when we’ve figured out what we’re up against,” Humphrey said. “For now, we keep to the task at hand.”
+
+Neil directed Humphrey’s Spartoi to take the latest batch of victims back to Carlos and his triage centre. At the same time, he sent a voice chat.
+
+“Carlos, take a look at the bodies that didn’t make it. Some of them are dying and I’m not sure why. It tends to be the ones with improved physiques, so I’m thinking maybe they’re blood servants. I don’t have time for a more thorough examination.”
+
+“I’ll take a look,” Carlos answered back.
+
+***
+
+The blood oak had a squirming and moaning body on the end of each limb. It used them as weapons, caustic blood bursting from them in clouds of mist that left gaping wounds. It used them as shields, soaking up attacks from Emir and his team. It even used them as potions, draining the life from them to heal itself.
+
+Gabriel’s sword blazed with fire as it slashed at the tree-like creature. The blood oak intercepted with a dangling body, but it exploded, showing the room in chunks of flesh and viscera. The limb holding it was severed, the stump left burning. Another body shrivelled like a juice box being drained by an aggressively thirsty child. The limb grew back, and the flames were quenched as sticky red liquid coated the bark-like skin.
+
+The blood oak tossed all the bodies it had left. They exploded into red, caustic mist that forced the adventurers back, if only for moment. The creature seized that moment to escape, sliding into a broken pipe like a snake and disappearing into the wall.
+
+Callum dashed forward while conjuring a rat into his hand, then set it loose into the pipe to give chase.
+
+“We just had an encounter,” Emir reported over the group chat. “It slipped away into a pipe.”
+
+“We need a way to pin it down,” Rick said. “It just keeps throwing victims at us. I don’t want to have to kill them all before we can corner it.”
+
+“At least it seems to be contained in this complex,” Jason said. “I think the bunker system is fully contained. With the elevator shaft guarded, the only other way out is the access point the vampires used. If it’s still running around, that means it either hasn’t found that exit, or couldn’t get past the barrier Clive put on it.”
+
+“Callum is tracking the creature,” Emir said, even as Callum conjured more rats and sent them into the pipe. “Hopefully we can hunt the thing down, whatever it is.”
+
+“We may have a line on figuring what it is,” Rick said. “We’ve found some kind of magical laboratory. We’re checking to see if there’s anything we can use to stop it.”
+
+“Only take a quick look,” Humphrey said. “If there’s nothing obvious, get back to the hunt. The what, how and why we can get to later.”
+
+***
+
+The blood oak was no match for four gold-rank adventuring teams in a fight, but proved devilishly elusive. Unable to escape, it resorted to hit-and-run tactics that led to almost a dozen encounters before it was finally slain. It might have managed to whittle down a few members of the teams if they each hadn’t had a powerful healer on hand.
+
+In the end, it was the combination of Callum and Jason that killed it. Callum’s conjured rats mapped out the pipe network and allowed him to start predicting the blood oak’s patterns. He finally had Jason move to anticipate one of its ambushes, allowing him to get enough afflictions on it that it crawled off to die. In the end, Colin in leech swarm mode crawled to where it had died and devoured it, bringing back a small sample.
+
+The teams converged in the laboratory that Rick had found. It was a large space and, unlike anywhere else in the complex, fully outfitted. The walls had been sealed and sterilised, with functional lighting and power installed. A contained plumbing system and multiple large generators were set up in an adjacent utility room.
+
+The lab itself had multiple rooms, looking halfway between an alchemist lab and a medical research centre. One room had heavily reinforced glass with a heavy security door, now open. The inside contained what looked like old vines, tangled around skeletons stripped down to nothing but stained bones. There were a couple of fresh bodies in the main lab area, looking like every drop of moisture had been drained out of them.
+
+“You think the vampires made that thing?” Neil asked.
+
+“Maybe,” Jason said. “Clive, can you and Travis figure out what they were doing here?”
+
+“We can try,” Clive said.
+
+“Try hard,” Jason said. “That one creature took four gold-rank adventuring teams over an hour to hunt down. If this wasn’t a sealed space, it would have escaped, and easily. We need to know if this was the only one, or if the vampires have more of them. If they do, that will make dealing with them a lot harder than anticipated.”
+
+“That’s a nasty thought,” Neil said. “Imagine a whole nest of these things, hidden under a city. Almost impossible to detect, even harder to trap when you do manage it.”
+
+“Emir,” Humphrey said. “Callum is the best tracker here. Have your team sweep the complex for leftover victims, or indications that there was more than one of these things. Rick, go escort Travis to this lab. Jason, this is going to be a huge mess. You should start coordinating with local authorities.”
+
+“On it,” Jason said.
+
+“Jason,” Travis said through voice chat. “See if you can find someone whose computer skills aren’t twenty years out of date to go through the systems in that lab. At this point, I don’t know if we could boot up a laptop between us. Assuming they still have laptops.”
+
+“Good thinking,” Jason said. “I’ll see if I can rustle up someone trustworthy.”

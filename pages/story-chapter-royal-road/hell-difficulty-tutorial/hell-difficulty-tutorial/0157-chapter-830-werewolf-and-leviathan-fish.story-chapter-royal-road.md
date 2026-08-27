@@ -1,0 +1,171 @@
+---
+id: c72bafe5-86a7-56e7-af9b-1f4d399386c8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 830 - Werewolf and Leviathan Fish"
+slug: 0157-chapter-830-werewolf-and-leviathan-fish
+partOf: hell-difficulty-tutorial
+position: 157
+ownLength: 2489
+unit: words
+publishedAt: 2026-06-18
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3558572/chapter-830-werewolf-and-leviathan-fish"
+royalRoadId: "3558572"
+---
+
+POV Dennis
+
+(I move, you attack.) I hear my brother’s voice say in my head, and I squeeze the short sword and dagger I hold.
+
+(Be fast,) I send, and my body moves by itself. [Haste] activates, and [Reinforcement] connects to it, forcing them to work in sync. All the stats I currently possess come together to launch us ahead, and the ruins of enormous buildings that couldn’t have been built by human hands turn into a blur around me as we take on the Beyond trial.
+
+With an explosion tearing outward, only to be followed by an implosion in the next instant, dozens of attacks begin to track our movements. Aaron jumps into the air and twists to avoid more, while I move the weapons in our hands into position to deflect the spears of mana. Aaron connects us to the ground, making us land much faster, and I throw the dagger at our opponent.
+
+The werewolf, though incomprehensibly weaker than the one we met on the 9th floor, dodges under that dagger. However, the mana I wrapped around the blade to sharpen it still cuts several strands of brown fur as it passes by.
+
+Another attack shoots our way, and it is me who uses [Connection] this time. We reappear near the pillar where the dagger landed after missing the werewolf. I grab it, and Aaron lands with our legs against the pillar to push us away, connecting us to the ground to make us land faster, before exploding into another sprint.
+
+Even now, the werewolf roars and moves, twisting and attempting to get out of the hole, a trap we prepared while we observed and tracked it. Now the werewolf is half buried in the hole, which we specifically dug to ensure it wouldn’t be able to get out of that quickly, with only its upper body peeking out. But even then, it is bigger than us. And more orbs and projectiles form around it as it launches them our way.
+
+Another spin and pirouette in the air avoids them all, and using [Connection] to bind us to the wall brings us to it, allowing us to stand on its vertical surface as if it were the ground. Then, as the barrage comes to an end, the werewolf begins to grow, its eyes reddening and muscles bulging as it does.
+
+(Im ready,) I send.
+
+(Let’s go then.)
+
+(Together.)
+
+(Together.)
+
+We leap from the wall and land on the ground. Our muscles bulge only for them to shrink in the next moment as we bury our feet into the earth.
+
+[Haste]
+
+[Haste]
+
+[Haste]
+
+We stack the skill several times until even our reinforced bodies and stats begin to strain, and the werewolf seems to notice. It twists with more strength, even at the cost of taking more damage, and the ground around it explodes outwards just as we charge.
+
+Both of our minds connect just as multiple projectiles fly towards us. We use both of our minds' calculative power to observe the structure, and then, just as Nat taught us, we connect and take control of them all.
+
+The projectiles miss us by barely a hair’s breadth and begin to twist behind our backs. But we’re much faster. We reach the werewolf before it can fully free itself. Mana covers both of the blades, oscillating and sharp, extending their range just as I swing with the dagger.
+
+The werewolf’s hand flies away.
+
+I swing the shortsword.
+
+Another hand flies away, and its blood burns our face.
+
+The werewolf snaps with that huge maw at us and bites into our neck, only to reveal it as an illusion a second later as we move just the tiniest bit to the side. Instead, the maw takes a chunk of our shoulder as it bites down, and our dagger stabs into the beast’s eye, and the sword cuts its side just as we move around.
+
+With a roar, the werewolf twists, the ground exploding out from under it and showering us with the remains of our trap as it then lowers itself to charge and take another bite out of us. That's when the projectiles we connected to and took over slam into its side, piercing through and wounding it even further.
+
+Once again, I connect to the dagger and teleport back, grabbing it even as it remains lodged in the beast’s eye. This time, we have more mana to work with, and I send it through until the oscillating blade pierces the head of the faltering monster.
+
+(Dodge!) Aaron shouts.
+
+I combine my efforts with his, jumping back and connecting to the nearby pillar. I feel an attack cut through our side, and our fall accelerates just as a burst of mana explodes around the werewolf.
+
+Pierced with its own projectiles and a dagger through its head, it roars, and steam rises from the wounds as they attempt to close. The severed limbs begin to regenerate. Bones stretch, and nerves and muscles reach out to twist back into limbs.
+
+(Fucking ridiculous,) Aaron groans. (All out?)
+
+(All out,) I confirm. (Go for the neck.)
+
+Aaron takes control of our body, dropping into a similar stance to before. Our muscles bulge and shrink, tightening like a spring ready to launch, something Lily taught us. I squeeze the shortsword, feeding it more mana until the oscillating pale blue blade becomes darker, lengthening and widening. It isn't much longer, but it is much broader now.
+
+A last deep breath in. A few last calculations. Then, [Haste] stacked five times.
+
+Everything turns into a blur that we can't perceive, not even with our conjoined minds. Our body moves strictly on the orders given to it, hurtling toward a target we hope won’t manage to avoid the strike. We move at the absolute full speed we are capable of.
+
+The view only clears once we find ourselves smashing into a pillar. The impact forces us to slow down, throwing us to the side and through a nearby wall. Even then, we push the pain away, rolling back onto our feet to look toward the werewolf.
+
+In the wake of our movement, the werewolf only manages to catch up now. It turns around, lowering itself to charge, but then remains standing in confusion and unmoving. Slowly, along an incredibly smooth cut, its head slides off its neck. A cut, short strands of fur fly down, flickering in the beams of light covering the ruins. Another cut reveals itself as the body splits diagonally and then vertically, the pieces sliding down and away from each other.
+
+Even then, we continue to move, holding our side as we limp closer from the place we landed. Ignoring efficiency this time, the sword blazes with oscillating mana as we reach the pile of flesh that already seems to be trying to regenerate.
+
+(Mini Lily,) I groan in pain, fully feeling the weight of the wounds.
+
+We apply [Haste] to our arm alone. It begins moving in a blur, cutting further down into the werewolf. We search for the heart and the brain, cutting as many times as we can until the beast finally stops moving.
+
+(Lily would’ve tanked that.) Aaron chuckles weakly, and I join him.
+
+I don’t even know who’s moving the body now as we reach the pillar and slide down, covered in multiple wounds and many broken bones.
+
+(Painful way?) I ask.
+
+(Yeah, why the hell not,) Aaron says. (I swear, I sometimes want to disconnect so I can’t feel this shit.)
+
+(Go on then.)
+
+(Looking for a beating?)
+
+(As if you could ever beat someone as pretty as me. Have you seen this face?)
+
+(Unfortunately,) Aaron says, staying connected as we endure the pain together.
+
+Together, we use [Haste] to speed up our natural regeneration, but it comes with a massive price. Any pain that would usually be spread out over the duration of the healing is inflicted now all at once as the process accelerates. For some reason, it even seems to hurt more than it should.
+
+And in the meantime, I check the most important of the notifications we just got.
+
+Congratulations, you have successfully completed your Beyond Trials and may now enter Beyond.
+
+You can now buy Beyond Stay Tokens from the system shop. They will also be included as rewards for certain floor and side quests. You may also earn Beyond Stay tokens within Beyond itself.
+
+After entering Beyond, you will receive more information and be assigned a handler.
+
+Well done!
+
+POV Nathaniel
+
+Morwag slams into the Leviathan Fish first, using the full force of his body. My thoughts are already accelerated as I take notice of the small tears dotting his skin. His binding seems to have been acting strangely lately. Just what is he planning?
+
+Then I have to dodge. I use a pulse of kinetic energy to push myself underwater just as a beam of tri colored mana passes exactly where I’d been standing.
+
+Once underwater, I boost myself again to evade as the beam twists to follow me, then I surge back onto the surface in a spray of water. With one hand, I comb my wet hair back from my face and remove my glasses.
+
+A blast of kinetic energy tosses one of the weaker fish aside just as it’s about to attack me. Mana rises around me as I face the tri colored beam I’ve been observing. Just before hitting me, it shatters into a rain of mana particles that blast against me and whip behind me, like sand sent flying by a wind turbine.
+
+Behind me, all that mana twists and flies back toward me. A crown forms above my head. Within it, mana begins to spin, pulling in both the ambient mana and the particles I’ve been breaking down. Almost as if my own maelstrom is facing off against the Leviathan’s.
+
+Morwag breaks one of the creature's arms, and then Weslin is there as well. His body reinforcement takes a more technical approach than Morwag’s, the output isn't as high, but it’s more skilled and far less damaging to his own body. Every attack thrown at him disappears. He easily ignores the mana radiation from the Leviathan, even as it continues to ramp up. Occasionally, he uses his void to break the attacks the monster launches at him, stripping them of their intent.
+
+Savant and Brich, meanwhile, move to attack the smaller fish. Each of these proving themselves comparable to an A or B rank, something I remember giving me quite a bit of trouble not even that long ago.
+
+Weslin dodges, but Morwag gets hit and blasted under the wavy surface of the lake. In that same moment, my [Empyrean Lance] stabs through the Leviathan. I fire another, but it gets deflected by the armored scales atop its wide head as the beast twists to block. With the sound and fury of a jet engine on a rocket shooting off to the moon, another tri colored mana blast shoots from its mouth. It splits the wavy lake apart, piercing through one of the weaker fish as it heads straight for me.
+
+Just as before, it breaks apart before me, feeding into my maelstrom. Yet the stream doesn’t stop. It continues to ramp up, changing and widening, even as Weslin pummels the side of the Leviathan and Morwag slams back down onto the surface of its head.
+
+The monster’s domain, which I recognize as a high level [Mana Domain] begins to spread, making all the mana in the area seem brighter without affecting the other colors.
+
+With a last thump of my Ignition Heart, I redistribute all thermal energy into mana. I reach into the crown, and [Eclipse] fans out around me like ink staining paper. All color drains away, making that already vibrant mana even more intense.
+
+The beam breaks apart entirely, and this time, I mimic its structure and create one of my own, powered by the output of both of my hearts. Pale blue, dark blue, and purple combine as it roars ahead, carving the same path as the previous one. Unlike the monster, I continue to narrow it, compressing it until it’s only about as thick as my torso. [Empyrean Lance] forms in front of me and flickers immediately as I pull it apart.
+
+The energy that created it feeds into the beam, causing a faint gold and white core to appear. The sound becomes high pitched as the beam pierces through the side of the Leviathan.
+
+Flailing in distress, it throws both Weslin and Morwag away, and then the creature starts swimming through the air quickly, teleporting a number of times while using droplets of mana filled water as tethers.
+
+My beam shifts, trailing it. I have to stay aware of where I point it as the light reaches more than a mile into the distance. It cuts through the water and three more fish along the way. Savant swings his single white feathered wing to jump above the blast, and I dip the beam below Brich as he stabs Calvorn through yet another fish.
+
+Once again, the beam reaches the Leviathan just as the beast teleports into the distance, leans back, and gathers mana from its incredible reserves. Within our clashing domains, it shoots another beam that crashes directly into my own.
+
+The roar of the jet engine cuts out, replaced by a low, vibrating hum that shakes my bones and creates a myriad of tiny ripples across the surface of the lake. The pressure builds until my vision starts to bleed red at the edges.
+
+Even then, the Leviathan isn't budging. It starts to lean into the blast, its massive mana output growing larger as it forces its way toward me.
+
+In the slowed world of my thought acceleration, I observe it all. The monster, the wavelengths of mana, and the droplets of water splashing into the air, only to be evaporated by the friction between the two beams of mana.
+
+Just the right amount of light lands on the lake and the monster, emphasizing its armored scales and creating contrast to the dark water under the surface.
+
+And I think.
+
+What a beautiful day.
+
+The Leviathan’s beam pushes against mine as I let go for a moment, taking that heartbeat to manifest my vessel behind my back. It appears there, just as scarred as I am.
+
+Then, the beam that seemed about to reach me stops as I pick up the slack. A few lashes of mana still cut into me, causing my Empyrean ichor to drip onto the surface of the lake. And the water ripples once more, and even more fish pierce the surface with almost maniacal expressions as they rush toward me.
+
+My beam shoots ahead again, this time with much more force as I fully open the last seal on my Ignition Heart.
+
+[Redistribution - lvl 79 > Redistribution - lvl 80]

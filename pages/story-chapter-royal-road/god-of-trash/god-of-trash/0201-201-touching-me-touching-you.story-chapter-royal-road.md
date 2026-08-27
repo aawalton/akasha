@@ -1,0 +1,99 @@
+---
+id: 5ec88233-6c20-5c6b-bd33-be2c77e20aa7
+page-type-slug: story-chapter-royal-road
+title: "201. Touching Me (Touching You)"
+slug: 0201-201-touching-me-touching-you
+partOf: god-of-trash
+position: 201
+ownLength: 1820
+unit: words
+publishedAt: 2025-09-29
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2638798/201-touching-me-touching-you"
+royalRoadId: "2638798"
+---
+
+Daran stared at Rhys’s hand, and Rhys stared at Daran. Slowly, he reached out and swiped at Daran’s shoulder. His hand passed right through, as he’d expect. The man was still just as immaterial as ever. Frowning, Rhys looked Daran over. “Why could I touch you?”
+
+“I don’t know. Don’t ask me,” Daran snapped, in what Rhys was learning was Daran’s defensive tone. The man really didn’t like when he didn’t know something, and his first reaction was always to go on the attack. It was kind of funny, and a trashy part of Rhys wanted to keep poking his buttons to see what happened, but he held back. The Demon King was capable of disappearing whenever he liked, and the three straight answers were a gentleman’s agreement, at the end of the day. He didn’t want to piss off Daran so much that the man wouldn’t uphold his end of the agreement.
+
+Rhys frowned. Is it because I think of him as trash? He was able to pull off some crazy stuff when he saw things as trash, but he hadn’t been aware he’d been thinking of Daran as trash. He didn’t like the guy, but he didn’t like a lot of people that weren’t trash. Not liking them didn’t mean they were trash. He turned to Daran. “You’re trash.”
+
+“Excuse me?”
+
+He swiped at Daran’s shoulder, but his hand passed right through. His frown deepened. He wasn’t one-hundred-percent committed to seeing Daran as trash, but he’d tried, and he was pretty sure he’d know if he’d been thinking of Daran as more trash than he was right now, now that he was consciously trying. And, consciously trying to conceive of Daran as trash, he couldn’t touch the man, so it wasn’t that.
+
+“I was just testing something,” Rhys said after a moment, when he realized that Daran was waiting for an explanation for being called trash and then swiped at.
+
+“Let me know when you actually intend to insult me,” Daran deadpanned.
+
+“That’s fair. I mean, that’s most of the time, but I should definitely be clear about when I’m not intending to insult you.” Rhys looked Daran up and down. “Speaking of being clear, this is not one of my questions, but do you know why I could touch you?”
+
+“No.” Daran looked away.
+
+Rhys stared after him. “…But you have an idea.”
+
+“Of course I have an idea. I am ideas. That’s all I have left.”
+
+He considered for another few moments, then tried, “…is it something to do with the void?”
+
+“Do you want to use one of your questions?”
+
+“No.” Rhys pinched his chin thoughtfully. Based Daran’s evasiveness, the man also thought it was something to do with the void, though it wasn’t exactly genius work to put that together. Daran was associated with the void book. Rhys had a hole to the void in his core, and he’d probably messed with the void too much by now. They were in a realm that was encased within the void, with a void trap wrapped around it that rejected people who didn’t belong. The void loomed just behind the false sky, pressing in on the realm from all directions. This realm was about as connected to the void as it could be.
+
+He looked at Daran. “Could I touch you, if we were both in the void?”
+
+“You shouldn’t be able to,” Daran said, but he sounded a little uncertain.
+
+“No?”
+
+Daran shook his head. “I might be considered an expert on the void, but that’s just because no one else knows any more about the void than I do, not because I know everything about the void. I’m your best hope for finding out about the void, but I don’t even understand ten percent of the void.”
+
+“Ah, yeah. I met a few Ph.D.s in my time.”
+
+Daran stared at him. “Are you using jargon from your homeworld because you know I won’t understand it?”
+
+“Aww, you caught on.” He looked at the sky overhead, then at the realm around them. He’d drawn up all the trash. He’d discovered the Empress’s secret, even if he didn’t fully comprehend it, or understand how to use it against her at all. He’d done everything he’d come here to do.
+
+But there are things left to do that I didn’t come here to do. He stared up at the sky and extended his mana senses, pulling the entire realm into his perception.
+
+“Hey, Daran. What happens if I dump you into the void?”
+
+“Not much. From a certain perspective, I’ve never left it.”
+
+Oh? Interesting. Rhys tucked that little tidbit into his mind without commenting on it and continued extending his mana senses. They reached the limits of his perception, and he kept pushing, pumping mana into them to reach as far as he could. It hurt; his mana senses strained, aching somewhere behind his eyes, and his brain ached, a fierce headache instantly sparking the second he pushed past his usual limit, but he shoved all that aside and kept reaching. Further. Just a little further!
+
+Daran eyed him from the corner of his eye. “…Why do you ask?”
+
+“Oh, no reason. I just thought of a classic trashy protagonist trope that I’ve been sadly remiss at not replicating, all this time,” Rhys said. He heard a pop from his face, and warm liquid flowed down from his eyes.
+
+“You’re bleeding from the eyes.”
+
+“Oh, is that what that was?” He wiped his face and kept going. His eyes were that weak? Then he didn’t need them. He burned his trash star overtime, burning down some of that mass he’d just gained, and pushed more mana into his eyes. They overloaded, sizzling and popping, but that was just weakness that the mana sought out and tore into. Weakness that he didn’t need. He used what had been for the blueprint, and regrew new flesh into the holes where the mana blew out his old flesh, reforming his eyes into Tier 3 eyes, capable of seeing further and perceiving more mana than before. Momentarily, his vision winked out in his right eye, then his left, and for a long second, he saw only darkness; in the next, his vision burst back, and he saw so much more than he’d ever seen before. Every blade of grass. Every tiny scrap of trash left behind in the dirt. The granules of dirt, and the empty spaces between them.
+
+Why stop there? Mana senses weren’t tied exclusively to vision. He pushed mana into his ears, his nose, his tongue, burning out, then regrowing each one as he went. He could taste the mana, hear how it sang, smell the composition of the magic flowing all around him, and he realized how much he’d been missing all this time, limiting his mana senses to what his eyes could comprehend. No longer. From this day forth, he sensed every element of the mana that existed all around them, and he would never be blind again.
+
+When all his facial senses were reforged, he turned to the final sensing organ, the biggest of them all: his skin. Rhys shoved mana into it, determined to burn it down and rebuild it. The eldest Waters brother had showed him how inadequate his skin was. He wasn’t going for impenetrable skin, but if he could enhance it, strengthen it, make it harder to break through and more sensitive at the same time, he would have progressed far beyond his ordinary skin as it existed right now.
+
+Tough, but sensitive. Strong, but malleable. Soft, but powerful.
+
+I sound like a toilet paper ad.
+
+And yet, he refused to compromise. If he sounded like a toilet paper ad, so be it! He’d be tough, soft, powerful, and strong. He poured mana into his skin, so much his skin couldn’t bear it, so much that it crinkled and burned like tissue paper, and still he poured more in. Weaknesses. He didn’t need skin that couldn’t bear this much. He was trash, he’d always been trash, and he was still trash; there was no harm in throwing out trash, to make room for what was better. Ruthlessly, he bore the pain and let his skin fall away. Blood ran down him in rivers, his past and future falling from his body in sheets. Big raw patches opened up on his body, only to be rapidly replaced the next second. He burned his trash star just as ruthlessly as he burned his body, holding nothing back. There was plenty of trash in this world. If he needed to visit an Impure Well, a dozen Impure Wells, it didn’t matter. He could find more.
+
+Slowly, his skin stopped burning. Slowly, the self-inflicted wounds closed. He could feel the brush of mana against his skin, now, even when he wasn’t trying, feel it in his clothes, in his shoes, in the earth between his feet. He’d been wrapped up in a warm hug of mana all this time and never realized it, but now he couldn’t escape it. It was somewhat comfortable, nonetheless, like floating in a hot tub.
+
+Rhys opened his eyes. He held the entire realm in his perception, all of it, from the top to bottom, from the tiniest scrap of dirt beneath his feet to the broad expanse of false sky overhead. He let out a slow breath, and tasted his own mana as he exhaled, felt it mix with the realm’s mana against his skin, smelled the strange flavor the two created, heard the song of his own breathing. He snorted to himself, then winced at the volume. I might’ve overdone it a bit.
+
+Daran, who’d been watching in silence this whole time, chipped in at last. “There are more efficient ways of achieving the same goal. Body enhancement techniques remain a popular area of study throughout our realm, you know.”
+
+“Yeah, but are they trashy?” Rhys asked.
+
+Daran stared at him. After a moment, he sighed. “I’m sure at least one could fall within your perverse obsession.”
+
+“There’s nothing perverse about appreciating trash… most of the time. Depends on the trash, really.” He took a deep breath, giving himself a few moments to get acquainted with the realm, then turned to Daran. “Er, I’m going to be very serious right now. Will you suffer if I dump you into the void?”
+
+“Don’t make me repeat myself. No.”
+
+“Excellent.” Rhys flared his trash star hotter than he’d ever flared it before. Mana coursed into him. His body instantly crackled and burned, crumbling under the weight of the mana he drew even with his many modifications. He spun off enough mana to fix the worst points, but poured the rest into his task: grabbing ahold of the entire realm, not just with his mind, but with his body.
+
+It was high time he acquired his own personal secret realm.

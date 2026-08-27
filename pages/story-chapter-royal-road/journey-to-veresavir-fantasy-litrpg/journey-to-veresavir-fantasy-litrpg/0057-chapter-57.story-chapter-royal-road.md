@@ -1,0 +1,303 @@
+---
+id: 01cb3ea3-24ad-5c6d-b8cf-31eb62194882
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57"
+slug: 0057-chapter-57
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 57
+ownLength: 3407
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3596259/chapter-57"
+royalRoadId: "3596259"
+---
+
+Chapter 57
+
+With their loot sold and some arrangements made, Veron and the team started making their way back towards the Stone Circles.
+
+Veron looked up at some point to see the distant castle again, standing atop the western mountain over Anvakar. He narrowed his eyes and pointed. “Ailis, I’ve been wondering, what can you tell me about the place up there?”
+
+She looked up. “Castle Falreach?”
+
+“I assume so?”
+
+“Yeah. It’s… a well talked about place. It’s not officially Guild owned, but it’s said that whenever truly important people visit the city, they go up to Falreach. And that’s pretty much the end of what I know about it. Sadly, I’m not well connected enough to learn more.” She paused, then smiled. “It’s always been one of those places shrouded in all kinds of mystery. I assume most if not all of the rumors are entirely fabricated, though I’m sure the view from up there is really nice.”
+
+“What kind of rumors are we talking about here?” Veron asked.
+
+“Oh you know? Blood rituals, secret guilds, hidden treasure, dragons, a locked up god if you ask some people,” Ailis said and shrugged.
+
+Veron laughed, then looked at the castle. “It does make you wonder. Do you think I could climb up?”
+
+“Good luck with the Verelian Peak. It’s the steepest mountain around, and likely why the castle was built there. It makes it even more impressive. The only way up is an elevator, that or flight, I suppose.”
+
+“Veron does have an Earth Harmony,” Isaac said.
+
+“Maybe, but you’d still have to get past the guards. Are we really talking about this?” Ailis asked.
+
+“Just hypotheticals,” Veron said.
+
+A broad and slightly curved stone stairwell led down into the second layer of the Circles. Veron saw that it went deeper still. They came out on a street with one way leading left and one way right, both curving and likely meeting again on the other side of the hill of the Adevian Fort. They were below ground level now but the sunlight still reached much of the street, though there was certainly more shadow here than up in the city.
+
+It was busy, though not as much as in the Spindle or in the Shops. Veron mostly saw bars, restaurants, and food stalls, each with a somewhat distinct look to them. He took in the sights as Isaac led them left. Veron realized quickly that it wasn’t just the design, lighting, and furniture in the different establishments that felt unique, it was the architecture itself too. Most of the buildings didn’t really have a roof, instead set into the stone almost seamlessly.
+
+Anvakar already felt like a complete mishmash when it came to the make of buildings and streets, and their maintenance, but down here, it felt a lot more prominent.
+
+I does feel very deliberate here. Above, it feels like a more natural chaos.
+
+The second level of the Circles felt somewhat cramped due to the depth and the narrow nature of the street, though it didn’t feel like they were underground exactly either. Sometimes, Veron spotted the third layer below, past a railing or a stairwell leading down. The light down there seemed warmer, and sometimes he saw hues of hazy red or blue.
+
+There were stores here that advertised selling curiosities instead of the stores above that sold relics or enchantments. The restaurants offered culinary experiences instead of straight up menus. Veron assumed there were plenty of places here that sold dangerous goods, drugs, and all kinds of services, and he assumed there were a lot of locked doors one could only enter with a password.
+
+While the main street down here seemed like a somewhat straightforward circle, there were some alleyways too, and with the ladders, stairwells, and general verticality of the Circles, there seemed to be a lot of ways to go, and hide in.
+
+“Are we sure this isn’t another layer of the dungeon?” Veron asked.
+
+Ailis huffed. “You’re not the first one to suggest that. It fits especially at night.”
+
+“I quite like it,” Isaac said. “The stores here tend to be less profit oriented than most of what I’ve seen above. Whatever you think of certain places here, there tends to be a lot of heart and work poured into them. They’re not just here to make gold.”
+
+“The big guilds and families are not allowed to set up shop in the Circles,” Ailis added. “Every store here is owned by the people who run them.”
+
+“At least officially,” Isaac said. “We’re here.”
+
+They stood in front of a small, quaint looking brick house with a green door that was slightly ajar. A flower wreath decorated the entrance and above hung a carved wooden board reading The Reader’s Hut.
+
+Sunlight reached parts of the large windows adjacent to the entrance and Veron could spot a few couches and bookshelves inside.
+
+The Reader’s Hut was wedged between a shop that sold supposedly cursed items and a woodworking place that specialized in carved birds. The former had a few display windows and a metal door. Its walls were painted black. The woodworking place looked entirely made of wood, carvings in the storefront at least as detailed as the birds shown in the display windows. Veron couldn’t quite imagine how long it would’ve taken just to make the door.
+
+Is there a wood harmony?
+
+“It’s a fascinating place too,” Isaac said, following his gaze. “Though the owner is, let’s say, a little bit obsessed.”
+
+“I can imagine,” Veron said.
+
+Isaac laughed, then opened the door to the Reader’s Hut, a jingle sounding from above. Veron followed him inside.
+
+Bookshelves lined the walls floor to ceiling. The sunlight from outside added a warm glow that reached about a third of the room, the rest illuminated by magical lanterns set up here and there. Carpets of dark green and gold covered much of the wooden floor. Comfortable looking couches with somewhat rough looking dark green fabric sat almost wedged between the shelves, with armchairs and small tables where there was space for them.
+
+There were three seating areas in total, and there was a counter on the right, all of it quite close together.
+
+Two cakes in display stands were resting on said counter, and behind it on the wall were shelves full of glass containers, with labeled teas, spices, seeds, and nuts.
+
+It smelled of tea leaves, cake, and old books.
+
+Two women sat on one of the couches on the left, wearing what looked like formal clothing and giving the newcomers a glance before they returned to their quiet conversation.
+
+A third person was behind the counter, a woman who looked to be in her late twenties or early thirties, long brown hair bound in a braid. She had freckles and brown eyes, rising from her slightly slumped position whilst reading a book to look at them. Then she smiled.
+
+“Good afternoon, Isaac,” she said and yawned. “I see that you brought friends.”
+
+“Hi Ellie. Yes, I mentioned I was looking for a team. Here it is. Veron is the leader, an Elemental Path with an Earth Harmony, then Ailis, Way of the Healer, and Elke, a huntress from the north of Felrak, she’s an Elemental Path as well.”
+
+Ellie looked at each of them with interest. “That’s wonderful, Isaac. I’m happy you found a good group. It’s good to meet you all. I’m Ellie.” She waited, though only for a moment. “So, have you been in the dungeon already?”
+
+“Once, yes,” Isaac said.
+
+“Oh. I’ll want to hear about that, but no rush. Make yourselves at home.”
+
+“Thanks. It’s good to meet you, Ellie,” Veron said. “This is a warm place you have here.”
+
+It’s not a library exactly, but it’s a good start. At least I can practice my reading.
+
+She smiled at him and then looked around. “It really is. Let me know if you need anything, I’m around. Oh, and do me a favor and use a blanket if you sit down in your armor and furs.”
+
+“We will,” Ailis said.
+
+“Would you like anything to drink?” Isaac asked the group. “Ellie has pretty much everything you could think of. Hot and cold.”
+
+They decided on a pot of tea, with an herbal blend recommended by Ellie, then sat down on the couches in the back of the small teahouse. There were comfortable pillows and blankets, Elke sitting on an armchair while the rest sat on the couches. An old wooden table stood between them all, as low as the couches.
+
+It was somewhat quiet, some noise from the street outside coming in through the slightly open door, some from the conversation of the two women, and then Ellie making their tea.
+
+She soon brought it with four mugs.
+
+“Should we share some cake as well?” Isaac asked.
+
+“Sure,” Veron said and glanced at the others. “To celebrate our first delve. On me.”
+
+Ailis nodded and Elke seemed unsure.
+
+“Come on, Elke,” Veron said in a whisper. “It’s cake we’re talking about.”
+
+She smiled slightly, then nodded.
+
+“There’s carrot lemon, and raspberry with almond,” Ellie said.
+
+“One of each then, to share,” Veron said.
+
+He grabbed one of the blankets and sighed. Helmet off and his pack on the floor, he undid a few more pieces of his armor and relaxed. The tea was a blend of herbs, bitter and grounding. Veron considered adding sugar, then didn’t. “I could get used to this.”
+
+“I come here to read sometimes,” Isaac said. “Ellie doesn’t expect you to buy anything either.”
+
+They received their cake soon after.
+
+Veron tasted the carrot one, savoring the first bite.
+
+The others tried as well, the group quietly sharing and drinking their tea as they relaxed into the small teahouse atmosphere. There was no music, as there were no radios nor speakers here in Renavor, as far as Veron knew. But the quiet was welcome. It had him speak with a softer tone, and with Ellie and the other patrons being quiet and relaxed, the atmosphere felt the same.
+
+With the last piece of cake eaten, Veron set down the satchel they’d found in the Crypts. “Our spoils, our funds, our future,” he said, not entirely joking. Then he emptied the satchel as quietly as he could. “Thirty five silver. How much was everything you two bought?” He looked at Isaac and Ailis.
+
+“Eight silver for the food, torches, flint and steel, and the ropes,” Isaac said.
+
+“I… borrowed the bandages and salves from the station. Don’t worry about it,” Ailis said.
+
+Veron gave her a look, then nodded. “If that’s not a problem for you or us, then sure.”
+
+“It isn’t.”
+
+He took eight silver and moved them towards Isaac. “That leaves twenty seven. Seven for three of us and six for one.” He thought about it for a moment. “I’ll take the six because I’m the leader.”
+
+“What?” Elke asked. “Shouldn’t you take more if you’re the leader?”
+
+“No,” Veron said, and moved seven silver to the three of them each. “I get the last word, right?”
+
+Ailis smiled. “I’m happy to take the six too, just saying.”
+
+“Me too,” Isaac said. “But I appreciate the sentiment.”
+
+“We’ll make more,” Veron said. “If that is, you three want to continue this little operation. How do you feel about our first run together?”
+
+“Pretty good, other than the close calls. Though maybe that actually makes me feel more confident,” Ailis said.
+
+Veron looked at Elke. Elke looked at Isaac, and Isaac looked back at Elke.
+
+“I…” Elke started. “I’m happy to continue working together.”
+
+“As am I,” Isaac said.
+
+Veron smiled.
+
+“That’s good to hear. I’m pretty happy with the first run too, though maybe we should set a bit of a smaller goal for tomorrow. If that blood beast had shown up later, it could’ve ended badly. I was tired, and had a hard time focusing with my injury and all the healing.”
+
+“I agree, but we really shouldn’t expect to run into a beast like that every time,” Isaac said. “It was really bad luck.”
+
+“But it’s possible, so we’ll expect and plan for it,” Veron said.
+
+Elke nodded.
+
+“Does anyone have an idea to counter the damp and coldness for the non-Elementals?” he asked.
+
+“Other than an enchanted item or taking wood with us for a fire, no,” Isaac said. “I could carry some wood, I suppose, then replace the weight with loot we find on the way as time goes on, and we can build a small fire. Ventilation will be an issue though, so we won’t be able to keep it going for long.”
+
+Veron nodded. “Maybe my wind harmony could help with that.”
+
+“Good idea, yeah. I’ll carry wood for a small fire then,” Isaac said.
+
+“Great, then that’s settled,” Veron said and paused. “I’m not sure how this usually works, but let me know if you level your Path or any of your aspects, so we can incorporate any new abilities.”
+
+None had leveled anything yet, but Veron hadn’t expected them to advance quite that fast.
+
+“To finish up the planning, we’ll get the things we need from Sonny and meet in the map room again tomorrow?”
+
+The others confirmed.
+
+“Thanks for the cake, it was nice,” Ailis said. “I’m looking forward to tomorrow,” she added with a slight smile. “I think I can take a short shift at the station before heading to bed, so I’ll see you at the fort.”
+
+“Sure,” Veron said. “Hope there’s not too much going on.”
+
+“Oh, I hope there is a good amount of work. Otherwise us lower leveled healers don’t get all that much to do.” She got her pack and waved her goodbyes.
+
+“See you tomorrow,” Isaac said.
+
+Elke gave her a nod, and then Ailis was off.
+
+“Should we head for Parker’s then? Or should I call it Sonny’s?” Veron asked.
+
+“I don’t think there’s much of a rush,” Isaac said. “We could stay for a while?”
+
+“Sure,” Veron said.
+
+Elke looked around and seemed unsure.
+
+“Can you read?” Isaac asked.
+
+Veron raised his eyebrows. He thought the question very direct, though literacy was likely a lot less common here than back on Earth.
+
+“N… nothing too complicated,” Elke said.
+
+“I could teach you? If you want to,” Isaac said.
+
+“No, that’s fine,” Elke said immediately, though she didn’t seem so sure a moment later.
+
+“No worries. Think about it, it could be a useful skill to have,” Isaac said. “And stories can be fascinating.”
+
+She narrowed her eyes at him. “Maybe. I’ll go to Parker’s shop now. See you there later?”
+
+“Yes,” Veron said. “We’ll join in an hour or two?” He looked at Isaac.
+
+The man nodded with a smile, then Elke left with a bit of an awkward nod.
+
+Veron sat on the couch and drank a bit more tea before he started looking through the books. There didn’t seem to be all that much of an order to it all, but he found something that looked like a history book on Anvakar and the region. His Lavirian wasn’t all that great either when it came to reading, let alone writing, so he could use the practice too.
+
+“Do you know if there’s a library in the city?” he asked Isaac.
+
+“Hmm. A library. The only thing I can think of is the Gilded Vault. I think they lend out books, for a fee. Anything specific you’re looking for?”
+
+A fee? I can’t afford a fee.
+
+“History books, but it’s fine. Got plenty of stuff here.”
+
+Isaac gave him a long look but he didn’t pry.
+
+The history book he chose was quite dry, and difficult to follow. Partially because of the style, and partially because of his reading skill. Veron didn’t know any of the mentioned names nor most of the places either. He set it aside after a while and found something new. A fable of sorts, it seemed, though with the existence of magic and monsters here, he couldn’t be sure exactly. The first few pages were interesting but then the knightly adventure quickly became more about the author describing people’s bodies, how luscious their forms, how shapely their butts and chests. Then it went straight to sex with strange Fae creatures. He kept reading.
+
+“How’s the book? Should we leave soon?” Isaac asked.
+
+“It’s not bad. There’s a lot of sex. The intrigue and the places described in between add a lot to it all. It’s just starting to get a bit repetitive.”
+
+Isaac narrowed his eyes. “Oh, Kildran, yeah, most of his books are like that. I’m surprised there are so many copies around. He must’ve had a very wealthy patron. Though the thought of scribes copying his books time and time again does amuse me somewhat.”
+
+Veron blinked his eyes, then looked at the book again. Right. This isn’t printed. I just assumed it was.
+
+He gained a new appreciation for this place.
+
+“So, history books?” Isaac asked with a raised eyebrow.
+
+“I got distracted,” Veron said, which elicited a smile and knowing nod.
+
+He paid for the tea and cake, five iron all in all, then they left. He would certainly return, but maybe next time, he would ask Ellie for book recommendations.
+
+They met Elke at Parker’s, learning that Sonny had already left for a round of cards with some friends. Isaac seemed pretty happy about that, grabbing a bunch of wood, and getting to work.
+
+Veron grabbed some rocks from a bag somewhere among the organized chaos and started shaping as to Isaac’s instructions. The man obviously knew what he was doing, and Elke soon joined to watch him work as well.
+
+“You’re using magic, right?” she asked after a while.
+
+Isaac looked up and smiled. “Yes. One of my aspects is that of the carpenter.”
+
+“Was that what you did before coming here?” Veron asked.
+
+Isaac focused back on his work. “Yeah.”
+
+Veron nodded. They’d already finished a bunch of modified arrows for Elke by now. The main difference to the normal arrows they were making as well was the tip not being pointed but broader, heavier, and mostly blunt.
+
+Veron took a break when his Focus was used up, instead looking through the items in the shop. He asked Elke if there was something he could help with but she said no. She’d tried to clean up before but Sonny had a way he wanted things to be, so her shifts here mostly consisted of some cleaning and running the shop itself, selling things to customers and buying from them.
+
+“He trusts you quite a bit,” Veron said when she’d explained it to him.
+
+“I suppose. But he’s got a keen eye. I think he would know if anything was stolen or if I bought or sold something for a bad price. I think he wants to play cards more, and do other things than run the shop all the time.”
+
+“That’s fair. Well, I hope you enjoy going into the dungeon, instead of working more shifts here I mean.”
+
+“Of course. The work here is just to support myself, and to have a place to stay.”
+
+They watched Isaac for a little while, Veron finding a spot to sit after a while and closing his eyes to enjoy the evening sun.
+
+“I thought about your question from yesterday,” Elke said.
+
+He glanced at her.
+
+“If you want to learn from me, about movement, and fighting, we could try.”
+
+Veron smiled slightly. “If you’re fine with it, sure. I’d love to learn from you. Maybe on the next rest day, if we both feel like it?”
+
+She nodded. “Okay.”
+
+They finished more arrows and bolts, both pointed and blunt, then prepared the rest of what they needed for the next day. Elke would check with Sonny once he was back.
+
+Veron said his goodbyes and then left for the Willard inn. He paid his silver both for dinner and for another night in the sleeping quarters, wondering if he might make enough soon to justify an upgrade to a single room.
+
+He thought about his day and slowly drifted off. It’d been nice, meeting both Sonny and Ellie. He’d probably spend more time at both the shop and at the Reader’s Hut in the coming days and weeks. But right now, Veron was looking forward to go back into the dungeon.

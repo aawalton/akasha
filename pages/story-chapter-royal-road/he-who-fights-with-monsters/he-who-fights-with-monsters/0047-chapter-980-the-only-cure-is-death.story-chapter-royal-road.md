@@ -1,0 +1,225 @@
+---
+id: bf2c5950-e7d6-5945-9bb3-51d20ccc0d81
+page-type-slug: story-chapter-royal-road
+title: "Chapter 980: The Only Cure is Death"
+slug: 0047-chapter-980-the-only-cure-is-death
+partOf: he-who-fights-with-monsters
+position: 47
+ownLength: 2549
+unit: words
+ownProgress: 2549
+publishedAt: 2026-02-11
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3038100/chapter-980-the-only-cure-is-death"
+royalRoadId: "3038100"
+markedReadAt: "2026-06-29T19:05:29.843Z"
+---
+
+The ritual room was a large and empty space. The walls and ceiling were plain, smooth plaster, while the floor was polished concrete. The lighting was non-magical fluorescent. Narrow, vertical slots were set at various points around the walls, running floor to ceiling. The only other permanent feature was the single door, the room lacking windows, decorations or furniture.
+
+The ritual diagram Carlos and Farrah had created occupied one corner, with the rooms occupants gathered at the other end. Bussinger looked at the dense web of lines and sigils drawn onto the floor with fine powders of various colours. Set amongst them were piles of spirit coins and other materials, ranging from the seemingly mundane to the exotic. A glass bowl held murky water, and there was a pile of small metal ingots. What looked like a normal apple was radiating magic and a blue candle stub burned with green light. As she watched, the melted wax slowly crawled up the stub to restore the candle, as if moving backwards through time.
+
+Earth was more interested in magitech than ritual magic, but she had seen rituals conducted several times. Compared to what she was now looking at, those ritual circles were the crayon drawings of a child. The only place not filled with intricate lines was an empty circle at the middle of the diagram. It had just enough space for one person to stand.
+
+“Please move to the middle of the ritual diagram,” Carlos told her. “It would be best if you levitate in. I know you have gold-rank coordination, but a stumble should you hop in would cost us quite a bit of work.
+
+She turned to look at him.
+
+“I don’t have a levitation power,” she said, getting odd looks from everyone but Asano and Farrah Hurin.
+
+“I’m largely responsible for the aura-related sections of Farrah’s training programs,” Jason told the others. “I was focused on the people starting from scratch, not the ones who had already reach the mid-ranks using cores. Rufus refined what Farrah had spread to the world but didn’t disseminate the higher-level techniques either. Not after relations between the clan and the rest of the world started to sour.”
+
+He turned to Bussinger.
+
+“You can thank the Australian government seizing my uncle’s land for that one.”
+
+“I don’t know what you’re talking about,” she told him.
+
+“Every silver-ranker can do simple levitation using their aura,” Jason explained. “You can only use your aura on yourself that way, unless you’re a bit odd, like the messengers and—”
+
+“Don’t digress, Jason,” Farrah told him in a schoolteacher voice.
+
+“Sorry. The point is, one of the first lessons of silver-rank aura control is levitation. It’s not very useful, outside of niche circumstances, but it’s very basic. For now, I should probably levitate you in.”
+
+“No,” Carlos said. “The circle is sensitive, and I don’t want your aura contaminating the results. That’s why I asked you all not to use any active powers, and why I had this room lined with magically suppressive materials. Precise ritual work is tricky when the entire building is an expression of your power, Jason.”
+
+“I know, right?” Emi said. “I’ve had to do the same thing every time I—”
+
+“Task at hand,” Farrah told her, in the same tone of mild scolding she’d used on Jason.
+
+“Ms Bussinger,” Carlos said. “Please carefully hop into the circle.”
+
+Bussinger leapt into the circle. It was an easy task with her strength and coordination, yet she found herself almost stumbling out of nervousness.
+
+“That might have been easier if there hadn’t been so much build-up,” she confessed.
+
+Carlos pulled a remote control from his pocket and clear panels slid out of the slots in the wall. They cut off the corner of the room, enclosing Bussinger and the ritual circle. A panicked expression flashed across her face before she smothered it.
+
+“Sorry,” Carlos said. “I should have warned you. The screens are to filter out any extraneous magic during the ritual, as well as display the results.”
+
+“Are you sure this is safe?” Bussinger asked.
+
+“Quite harmless,” Carlos said.
+
+“It’s just that I’ve seen screens like these on TV, when people are setting off explosives.”
+
+“It does look like those,” Emi said enthusiastically. “That’s fun. But don’t worry; new ritual circle designs hardly ever catch fire.”
+
+“Hardly ever?” Bussinger asked.
+
+“New rituals often take some troubleshooting,” Emi explained. “Farrah, have you ever had a newly designed ritual circle catch on fire?”
+
+“Stop teasing the poor woman,” Farrah scolded. “You’re as bad as your uncle. Ms Bussinger, this is a very old ritual, and is not going to have the mistakes an overenthusiastic ritualist…”
+
+She glanced at Emi.
+
+“…would make because they were too enamoured with their own cleverness.”
+
+“Hey…”
+
+“How about we start before she changes her mind?” Jason suggested.
+
+Once the ritual began in earnest, the observers behind the glass quieted down. That helped calm Bussinger’s nerves, but she still felt like a fish in a tank as they all stared at her from the outside. She was about to ask when it would start when she felt a pressure pushing against her. It was like being submerged in liquid, but in a spiritual sense, the pressure flooding over her aura.
+
+The weaknesses in her aura defences were laid bare in short order. The spiritual pressure found every flaw, seeping in like water into a poorly designed submarine. She instinctively pushed back, but it found every gap and crack in her defences.
+
+“Please don’t resist the process,” Carlos said. “Your aura manipulation isn’t up to the task anyway, and you’ll only make the experience more unpleasant.”
+
+Giving up her resistance was like forcing herself to breathe while underwater, knowing that she’d drown. She couldn’t bring herself to do it until a sense of tranquillity passed over her, seemingly out of nowhere. In a single moment, she went from the verge of drowning in a submarine to floating in an isolation tank, peaceful and safe. Her magical perception drifted away, and her other senses followed, everything going black.
+
+***
+
+After Bussinger entered a trance mid-ritual, she had stood, senseless and still, unconscious but still on her feet. When the ritual came to a close she started to fall. Clive used his Juxtaposition ability to switch-teleport with her, and Jason caught her before she hit the floor. He carried her into the middle of the room and a cloud bed floated out of the flask amulet around his neck. He set her down and left Emi to watch over her.
+
+Carlos retracted one of the clear screens for Clive to get out. The other screen was awash with colour, like a flat lava lamp, displaying the results of the ritual. Jason and Carlos peered at it from up close, with Clive and Farrah behind them.
+
+“This make any sense to you?” Farrah asked Clive.
+
+“No,” he said. “I’ve dabbled in more magical fields than I probably should, but this is outside my experience entirely. Well, not entirely. Obviously, it’s a map of physical-spiritual dissonance through an application of resonating—”
+
+“Oh, yeah, obviously,” Farrah said. “Jason, do you understand this?”
+
+“I do,” he said. “I’ve had an avatar working with Carlos all through my absence. It was learning, and I took in that knowledge like a skill book.”
+
+He pointed at a display.
+
+“Are you seeing this?” he asked Carlos.
+
+“I am,” Carlos said, his voice an awed whisper. “Is this what you saw during the fight?”
+
+“I wasn’t sure, but this confirms it, right?”
+
+“We should run more tests,” Carlos said. “A lot more tests, starting with this one again to replicate the results. But it’s a strong indication, yes. You said that an essence ability did this?”
+
+“I did. Have you ever heard of a power that can do this?”
+
+“Never,” Carlos said. “If anyone knew about something like this, it would be me. I’ve never heard of an essence ability or any other kind of power that can do this. The only thing I’ve even heard of suggesting it’s possible would be—”
+
+“The Purity relic everyone on Palli is fighting over.”
+
+“Exactly,” Carlos said with a nod. “I can’t even imagine the ramifications of this, even if the power’s effect is so miniscule to have no practical impact.”
+
+“But she could keep using, right? It’s an essence ability, so she could use it over and over.”
+
+“I think that’s exactly what she has been doing,” Carlos said, pointing at a section of the results. “This isn’t the result of a single use but an accumulation of the effect being repeated. See how miniscule each individual result is.”
+
+Jason moved his face right up to the screen.
+
+“You’re right,” he said. “The individual instances are almost undetectable.”
+
+“Except that you did detect one,” Carlos pointed out. “Not with a ritual but with your aura senses alone. While in the middle of a fight, no less. How sensitive is your spiritual perception, exactly?”
+
+“Um, quite?”
+
+“Quite? Sensing this would be like directly perceiving the dimensional boundary of the universe with just your magical senses.”
+
+“Uh…”
+
+Carlos ran a hand over his face.
+
+“Why are you running around fighting monsters when you have abilities like these? You should be dedicating your life to magic research!”
+
+“Yes!” Clive exclaimed. “I’ve been saying it for years.”
+
+“Can we stop complaining about Jason not living up to his potential long enough for someone to tell me what is going on?” Farrah asked.
+
+“Not living up to my… I made a universe!”
+
+“You already had a spirit realm,” Farrah said dismissively. “It was less making a universe than just renovating.”
+
+Jason stared at her, slack jawed.
+
+“Actually,” Farrah said, looking at Bussinger, “save the explanation for when she wakes up. It sounds like something she deserves to hear first.”
+
+***
+
+Bussinger’s eyes snapped open. She was laid on a cloud bed floating on the floor of the ritual room. Lying in it felt like being in a soft waterbed while on heavy duty painkillers.
+
+“Welcome back,” Emi Asano said with a smile. Bussinger realised that her hand was held in a gently comforting grip. She retrieved her hand and sat up, taking a moment to figure out how in the impossibly plush furniture.
+
+“What happened?” she asked. “Did I pass out?”
+
+“Uncle Jason said that you entered a reflexive meditative state. How do you feel?”
+
+“I feel… I’m not sure.”
+
+Emi sat cross-legged on the floor, waiting patiently for Bussinger to figure out her condition. No, Bussinger realised; Emi was not on the floor but over it, floating just above the polished concrete. She ignored the floating woman, turning her attention to herself. She felt good. Free, almost, but in an oddly specific and familiar way that she couldn’t place. Then she recognised the feeling.
+
+“Have you ever tried to untangle a knot, and it just won’t budge?” she asked Emi. “You tease and you pluck but it just won’t shift. But then, finally, a little piece does. Just a bit, but you know you’ve got it. You’ll still have to work to pull it apart, but that’s the moment you’re on your way. You know what I mean?”
+
+“Uh, I think so? I mean, I understand the thing with the knot, but I’m not sure how that translates to a spiritual condition.”
+
+“I think I might,” Jason said.
+
+Bussinger stood up as the others approached, Emi helping as she lost her balance for a moment.
+
+“I’m dizzy,” Bussinger said. “I haven’t been dizzy in twenty years.”
+
+Jason stood in front of her.
+
+“Are you okay?” he asked.
+
+“I am. Are you finally going to tell me why you brought me here?”
+
+“Yes. I think that sensation you’re feeling is because of the meditative trance you found yourself in. At least, that’s what started it. You were having trouble letting go, so I used my aura to nudge you along a little.”
+
+“You what?” Carlos asked from where he was still looking at the results on the screen. “I told you not to—”
+
+“It was fine,” Jason said. “My control is precise enough to not interfere with your ritual.”
+
+“So you say,” Carlos muttered, but went back to staring at the screen.
+
+“You pushed me into that trance?” Bussinger asked Jason.
+
+“Yes. I suspect that you’ve been using more basic meditation techniques. They work for low rankers, but don’t have the same benefits at high rank. When you’re silver, and especially gold, proper meditation technique involves trance states and guided mana circulation. With some help, you unconsciously fell into a condition like this, and I think it helped you feel the results of something you’ve been doing to yourself for a while now. You just didn’t realise you were doing it.”
+
+“Doing what?”
+
+“That power of yours. Tribulation Lightning. It hurts you, but it also purges anything affecting you, right?”
+
+“That’s right.”
+
+“Carlos, over there, has been researching a related field for a long time. Many curses, deep curses, that normal powers don’t cleanse, work by effectively coating your soul in gunk. He’s been trying to figure out how to remove that gunk without killing people in the process, and he’s found some success.”
+
+“Limited success, in very specific instances,” Carlos called out.
+
+“We have come to suspect that your power can remove some of that spiritual crud from your own soul, in a way normal cleansing powers cannot. It only works on yourself, and the effect is miniscule, but it does seem to be removing a portion of the spiritual muck currently gunking up your soul. We’ve never heard of another power that can do that, even in the other world.”
+
+“Are you saying that there’s gunk on my soul?”
+
+“Yes. A lot of it, and your power has only removed the tiniest amount. What I’m hoping is that your power can help accelerate Carlos’ research. Find a way to undo conditions people suffer under where, currently, the only cure is death.”
+
+“Hang on, go back to the part where my soul is covered in muck. When did this happen? And how?”
+
+“You’ve been doing it to yourself,” Jason said. “Every time you absorb a monster core, you take in the clean, refined magic to advance your abilities. All the leftover stuff, that made the monster what it was, basically sticks to the outside. That’s why monster cores residue is so easy to sense in people’s aura, because the aura has to push through it to be projected.”
+
+“Are you saying that I’m removing the monster core stuff? The residue or whatever that stops people from being able to raise my abilities the way you do?”
+
+“Yes.”
+
+“Does that mean I’ll be able to train like someone from the other world? I just have to use my ability enough to clean it all off?”
+
+“It’ll take more than that, unfortunately,” Jason told her. “You’d have to blast yourself with that power all day every day for around half a millennium to clear enough of it off to have even a partial effect.”
+
+“Then it doesn’t matter.”
+
+“On the contrary, this is an astounding revelation. If you work with Carlos, there might be a way, someday, to purge the monster core residue from not just you, but from everyone.”

@@ -1,0 +1,215 @@
+---
+id: 4777a294-5c0a-52d5-8c0f-d516ebf931a9
+page-type-slug: story-chapter-royal-road
+title: "046: Return to Simplicity"
+slug: 0046-046-return-to-simplicity
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 46
+ownLength: 2152
+unit: words
+publishedAt: 2024-05-24
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1648677/046-return-to-simplicity"
+royalRoadId: "1648677"
+---
+
+Six hours had passed since the fourth gem had lit up, and Evelyn hadn’t managed to make any further progress.
+
+Her essence had increased again, which was satisfying. However, it was frustrating to find one of the tower’s challenges so difficult. Her talents were just so mismatched for it.
+
+It wasn’t all hopeless, though.
+
+She had noticed some patterns emerging. The symbols had shifted twice more, on the four hour mark each time, for a total of three shifts since the original layout.
+
+Evelyn made a mental note of what she had learned so far.
+
+The ten symbols never changed position, or form.
+
+The ten lines, or sentences, or whatever they were, always began or ended with one of the ten symbols - though not always the same one.
+
+However, the ten lines didn’t create any discernible shapes or familiar patterns. Only the ten symbols remained in the same formation. The question mark.
+
+There was one idea she had. So she tried it. On the tablet, she wrote out the ten symbols. However, each of them was repeated twice. Once at the beginning of a line and once at the end. In between she wrote out the ten familiar sentences. The entire paragraph began and ended with the ‘⛛’ symbol.
+
+To her shock, when the writing vanished, three of the gems lit up at once to bring her total to seven. That was the largest singular jump in progress she had made the entire twelve hours. However, she was a little stumped.
+
+It didn’t feel like she had leapt that far ahead from her previous attempt at solving the puzzle - so why had the tower judged it so?
+
+A loud rumbling from her stomach shook her from her thoughts. Even with her massive fortitude and vitality, Evelyn still had to eat. Kayla had packed her some food from one of her favourite restaurants in Haven.
+
+It was rather simple, just some unidentifiable spiced meat that had a texture similar to steak but a flavour unlike any she had experienced before. In that moment however it was like a taste of heaven. After the meat came fluffy bread that melted on her tongue and a bottle of water to wash it all down.
+
+Rather than jump straight back into the puzzle, Evelyn took a moment to sit down and clear her head. It was aching from all the intense thinking it had been through. She felt as though she was back in school, struggling through a class when she would much rather be out exploring the world.
+
+Then again, Evelyn had always been a bit of an outsider. She had wonderful friends, but they were similar to her - outcasts.
+
+I hope I can see them soon. Perhaps when I clear the 16th Floor they might have made it far enough to access the chat room. If my dad can do it, I don’t see why they can’t.
+
+Now that her mind was drifting to the past, Evelyn decided that was enough of a break. She couldn’t afford to be distracted when she had a puzzle to solve. And the brief moment of relaxation had given her a fresh perspective.
+
+She picked up the tablet and wrote out the same ten sentences as she just had, starting and ending with the ten symbols. This time though, she wrote it in the shape of a question mark instead of a standard verse.
+
+And the eighth gem lit up.
+
+Not only that, but she heard a rumbling sound and the entire cavern went dark as the glowing symbols faded to a dull grey once more. On the opposite wall she had entered, there was now an entrance to a similar tunnel. Evelyn was confused, however.
+
+Why had the trial ended when she had only finished eighty percent of it? Then it dawned on her.
+
+In order to advance she didn’t need to solve the entirety of the puzzle. The tower was offering her a choice. Continue without knowing the mystery of the inscriptions, or remain and struggle to figure it out. Evelyn surprised herself with her decision.
+
+Rather than continue onwards as she expected herself to want to, she remained standing on the dais. In her hands she held the stone tablet and the glowing pen. Now that she was so close to the answer, she refused to leave without discovering it.
+
+That was easier said than done, however.
+
+While the symbols were not similar to any language she knew of, the meaning of the puzzle was clear. A question. Or an answer.
+
+The inscriptions held one of them, so perhaps it was down to Evelyn to figure out the other. She couldn’t offer an answer without knowing the question, though.
+
+And without an understanding of what the inscriptions meant she would never figure out if they were asking a question or solving one.
+
+“Why am I stuck in this crappy place?” She moaned.
+
+Maybe she was going crazy from facing so many insane trials alone. It was a wonder her mind hadn’t shattered into pieces already with everything Evelyn had been through. And to add insult to injury, her frustrated complaint resulted in the ninth gem lighting up.
+
+You’ve got to be kidding me. I need to punch something. Why that question? Was it even my question, or just the fact I asked one? There’s too many variables.
+
+However, the cavern had begun to shift. And not the simple movement of symbols that had been happening before. This time the mountain rumbled and shook as the red stone cracked around her. Only the stone dais remained intact as the stone walls of the cavern fell away.
+
+When the dust and debris cleared, Evelyn gasped at the magnificence laid out around her. It was still a cavern, yet far grander than any she had been in thus far. The red stone walls had been carved and painted into an elaborate tapestry that depicted a story.
+
+A story of a tower, and what lay beyond.
+
+It depicted a grand battle that spanned across universes. Between beings far beyond a level of power that was comprehensible to Evelyn. Even staring at the walls for too long made her eyes and mind ache. There was some kind of deep magic weaved into the carvings. A reward for going beyond the limits of the trial?
+
+Or was it a warning for overstepping her limits?
+
+To Evelyn, it didn’t matter which. Not even the creator of the tower itself could stop her from climbing upwards. At least, not her ambition to do so.
+
+She had no doubt that whatever entity had bestowed her skills and attributes on her could snatch them away just as easily. The grand battle lasted centuries, according to the carvings. Whatever magic was at play seemed to imprint the meaning of the art into her mind as she took it all in.
+
+The antagonists were some kind of horrific eldritch creatures that came from beyond the boundaries of the multiverse. Just the realisation that there was a multiverse was enough of a head fry, but the fact that things had invaded from beyond even that was too much for Evelyn to handle.
+
+Just a few months ago she had believed that Earth was perhaps the only planet in their universe that held sentient life. All her notions of truth were being shattered one after another.
+
+However, she continued to take in the story.
+
+Realising that none of the myriad beings in the multiverse had the strength to repel the invaders, they decided to opt for an alternative strategy. A way of developing the various life forms in the multiverse to create a being with the power to do what they could not.
+
+So, ten of the most powerful creatures in the multiverse joined their hands. And with a curse and a promise, they burnt their lifeforce to bind the multiverse in chains along with the eldritch invaders. The result - a grand tower that encompassed quadrillions upon quadrillions of beings.
+
+For many, this new existence wasn’t much of a change from the violence of their old life. However, for some it was too much to bear. There would be no more peace. Every single living thing was to be tested. Their very survival depended on how far they could advance.
+
+It was here that she reached the end of the story.
+
+However, it had only given her more questions. Evelyn was satisfied to learn of the origins of the tower, though. It felt better than being left in the dark.
+
+Yet even after she had viewed the entire tapestry, the tenth gem remained dull and lifeless. It wanted something from her.
+
+She had asked a question, so perhaps now Evelyn would need to give an answer.
+
+“You already know what my answer is, you shitty tower. Just let me move forward,” she roared.
+
+The tenth and final gem lit up and then all of them shone brighter than before. The intensity of the glow increased until it blinded her and she felt a huge weight pushing down on her. It only took a few more seconds for her to succumb and pass out.
+
+~~~
+
+When Evelyn awoke once more, she found herself lying on rough, red stone. She was still on the 16th Floor.
+
+Hovering in her vision was a new message from the tower, and in her hands she tightly gripped a smooth black pearl.
+
+Congratulations Challenger! You have witnessed one of the deep secrets of the tower and survived. You have received the following rewards in recognition of your achievement:
+
+[?????]
+
+Unbelievable…
+
+Evelyn stowed her second mystery item into her inventory alongside the first. Perhaps in time she would find out what they were used for, but for now they would remain gathering dust.
+
+There was one more message, and the contents of the second surprised her.
+
+Your class has advanced!
+
+Unyielding Warrior Lv.11 > Lv.12
+
+The definition of unyielding seemed to be a little loose. Then again, even if she hadn’t been in battle, that puzzle and the subsequent story had truly tested her willpower.
+
+Standing up, she saw that behind her was a sheer cliff face, with no obvious exit. Had the tower teleported her out of the cavern? It seemed strange for it to directly interfere with a trial. However, she had clearly achieved something beyond the norm.
+
+Rather than ponder the implications, she turned forward to see a third round gate. The next challenge was waiting.
+
+Just how many more would she have to complete before defeating the 16th Floor in its entirety? Even if it was a ridiculous number she wouldn’t falter, but the jump in difficulty from the previous floors was intense. If the story she had experienced was real, it would only get worse the further she went.
+
+Although it was rewarding to have a real goal to work towards. Evelyn knew that the powerful beings and the eldritch monstrosities she had witnessed existed on a plane of existence far beyond her own. However, she hoped to one day reach those same heights.
+
+No - that was wrong.
+
+Evelyn would surpass them all. It was what she had learned to love in the tower, and she could think of no better calling.
+
+So it was with a spring in her step that she crossed the threshold of the third gate and made her way to the next challenge. While the puzzle had come to a satisfying conclusion, she would much prefer it if her next trial was a simple one.
+
+Another mini boss would suffice. A little stronger than Anathalan, but not so much that she would face imminent death.
+
+However, Evelyn had learned to temper her expectations in the tower. Things rarely went how she wanted them to.
+
+So when she arrived at a barren, flat plain filled with red grass and flowing streams of lava that advanced at a sedate pace, Evelyn didn’t know what to think.
+
+There was no way the tower was offering her a scenic stroll to take in the sights, but standing still wouldn’t give her any answers. Her mana was full and her body ready for anything when she took her first hesitant step.
+
+And then the screams started.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.12
+
+|Attributes|
+
+Power: 19 (20)
+
+Speed: 5
+
+Stamina: 9
+
+Vitality: 26 (31)
+
+Mana: 26
+
+Fortitude: 55 (91)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Galactic Expansion (Unusual), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Salvo (Common), Mana Wielder (Rare), Master of Combat (Rare)
+
+~Active~
+
+Flashfreeze Flamecharge (Rare)
+
+~Hybrid~
+
+Soul of the Unstoppable Conqueror (Unusual)
+
+Essence: 3070421『+1021784 / 5:54:24 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】

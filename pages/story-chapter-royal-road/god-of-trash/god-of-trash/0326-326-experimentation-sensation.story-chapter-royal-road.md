@@ -1,0 +1,113 @@
+---
+id: 388307a9-22e7-5803-b05f-b247dbf07708
+page-type-slug: story-chapter-royal-road
+title: "326. Experimentation Sensation"
+slug: 0326-326-experimentation-sensation
+partOf: god-of-trash
+position: 326
+ownLength: 1859
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3563127/326-experimentation-sensation"
+royalRoadId: "3563127"
+---
+
+Rhys gazed at the impurities, taking in the little clump on Ryota’s core wall. He’d transformed them into his own flesh before, but transforming them into someone else’s flesh? That was new territory. From his own world, he knew that transforming them into his own flesh was a bad idea. Transplants came with a lifelong commitment to immunosuppressants to keep the body from rejecting the new flesh, and he didn’t know where to start making anything like that in this world. It was essential that whatever plug he made was either Ryota’s, or so inoffensive to Ryota’s body that nothing pitched a fit.
+
+“You’re going to be my debut for a lot of things,” Rhys informed the sleeping man. “Being a miracle healer, founding a religion… it’s kinda crazy, honestly.”
+
+Taking a deep breath to steady out his mana, Rhys plunged back into Ryota’s core. He focused on the plug, recalling his old techniques. Back then, he’d learned the composition of his own flesh, then forcibly transmuted filth into flesh. He should be able to do the same with Ryota, except he didn’t know the composition of Ryota’s flesh.
+
+No time like the present to learn! He turned his attention to Ryota’s cell walls and plunged his mana into them. He tore them apart, built them back up, learned where Ryota’s cells were the same and where they differed. When he was confident, he turned to the plug of impurities and reached out, impressing them with all the information he’d just learned. You’re trash. I’m trash. Ryota’s berserker form is trash. I can do this!
+
+The filth trembled. It bled into the cells around the hole, promoting their growth, then transforming into new cells themselves. The plug formed, and the impurities vanished.
+
+Almost vanished. At the last second, Rhys stopped, leaving tiny impurities in the cells. They were too small to harm Ryota, but they left Rhys with the ability to control Ryota’s hole and open it and close it as he liked.
+
+He paused, feeling the pressure of a thousand people shouting ‘phrasing’ all at once. You know, I think we’re going to have to bookshelf-clause all of this. Just like when you’re making a bookshelf, we can’t laugh every time someone says “screw” or “put it in the hole” or “stick it in… not like that! Yeah, like that… no, harder!” We’ve just got to blanket ‘that’s what she said’ this whole situation, and there’s no two ways about it.
+
+Just standing here, his mana examining Rhys’s core, he could feel the rogue mana pushing against the fresh seal he’d built on the hole. It was like the raging mana was a part of Ryota, or destined to be associated with him. He hadn’t solved the problem, but merely put it off for now.
+
+I wonder how he got that hole? Probably not by having someone yank his core out of his body the way the Empress… well, technically Laurent, did mine, but who knows? I won’t know until I ask. Rhys retreated from Ryota’s core and looked him over, then sighed. Ryota continued to snore away, sleeping peacefully as though nothing had happened at all. He looked fifty percent like an exhausted berserker, with ragged clothes and wild hair, and fifty percent like the prince he was. His ragged clothes were still the finest of silk, and there was somehow something regal about the way he slept. As if he’d been trained to sleep handsomely.
+
+Rhys slung him over his shoulders like the sack of potatoes he was and stomped over to the hole he’d been digging to the impure layer. He set Ryota down against an impurity-free tree and hopped back into the hole to keep sucking in impurities. There wasn’t much else to do while he waited for Ryota to wake up. A few hours passed. Rhys’s core was much more full. He hopped out of the hole to check on Ryota, but the Third Prince was still snoozing.
+
+Back into the hole. His core was mostly full now, full enough to do at least one reality-twist if he really needed it. He was pretty sure he’d still need to set up the circumstances, but since he had already laid the groundwork for the trashy master-disciple reunion slash heartwarming-acceptance scene, he was pretty sure he could make a reality-warp work. And of course, it wasn’t guaranteed that he needed a reality-warp; it was just his plan B. It was just that he was the kind of person who wouldn’t be comfortable until he had a backup plan ready to go.
+
+He continued to grab more impurities in the depths of the hole until he finally sensed Ryota stir. Dusting himself off, he hopped out of the hole and landed at its edge, crouching over Ryota and waiting for him to wake up with a deliberately creepy smile on his face.
+
+Ryota twitched, shifting, then yawned big, stretched, and opened his eyes. Their eyes met. For a second, Ryota froze, completely still, then scowled and rubbed the back of his head. “Gods! Talk about a bad wake-up.”
+
+Rhys laughed and stepped back, dropping the creepy smile. “Spooked you, huh?”
+
+Ryota shook his head. He went to stand, then froze, lifting his hands to look at his ragged robes. “I… didn’t just pass out, did I.”
+
+“Nope. You went berserk. It was awesome, dude. Super cool. I’ve always wanted to see a berserker in real life, and then I got to fight one! It’s the best.”
+
+Ryota blinked, taken aback. “That’s not what I’m used to hearing.”
+
+“I’m a weirdo, we know. I take it you’ve done that before?” Rhys asked.
+
+“Lose control? Yes.”
+
+“No no no. It’s all about image. You didn’t lose control, you went berserk.”
+
+Ryota gave him a baleful look. “What’s the difference?”
+
+“What’s the difference? Are you kidding me? One of them implies weakness on your part. The other is the righteous wrath of a furious god. They couldn’t be more different.”
+
+“But that’s not what it is. It’s—it’s embarrassing. Pathetic. My whole life, I’ve never been able to fight back for fear of—”
+
+“For someone who can’t fight back, you sure fucked someone’s Saintess or whatever.”
+
+Ryota paused for a second, then blinked. “The Shrine Maiden?”
+
+“Yeah, her.” Rhys slung an arm over Ryota’s shoulders and patted his chest. “Listen, kid. This is showbiz. It doesn’t matter what’s real. We’re selling an illusion. A dream. Reality is our enemy. We’re here to give the people their circuses, and they can figure out the bread.”
+
+“Huh?” Ryota asked, lost.
+
+Rhys clicked his tongue. “You better figure out what that means fast if you want to maintain your empire. Nothing like bread and circus to keep the peasants quiet.”
+
+“I’m just… how did we get from me losing control, to the Shrine Maiden, to my supposed future empire?”
+
+“Keep up! Showbiz moves fast, and if you’re not moving with it, you’ll be left behind.”
+
+Ryota shook his head. He took a deep breath, then looked at Rhys. “How did you stop me?”
+
+“Well, I let it ride for a few days, fought you a couple times, then finally figured out that it wasn’t going to stop unless I stopped it, and plugged the hole in your core wall. How did that happen, by the way? The hole.”
+
+Ryota stared at him, startled. “Wait, huh? I feel like you just skimmed over the important part. You… plugged the hole?”
+
+“Yeah. Temporarily. Kind of. It’s not important.”
+
+“It’s very important to me.”
+
+“I understand that, and I respect that, but can we focus on the part that I think is important? We can go back around to that later. So. How’d you get that hole?”
+
+Ryota scowled. “How do you think I got it? It was my grandfather’s bright idea. At the time, I thought he actually decided to believe in me and teach me a serious technique for once. Now? Now I’m pretty sure he was just testing it out on me before he tried it himself.”
+
+“Was it maybe a technique to connect yourself to an infinite plane of mana?”
+
+Ryota stared at him in utter shock. With some effort, he recovered himself. “Did you recognize its signature? Is it common where you’re from? Is there a way to—”
+
+Rhys held up his hand. “Before you get too excited, remember that I plugged up that hole of yours. I kind of saw what was on the other side.”
+
+Ryota drooped. “Oh.”
+
+“Yeah. Sorry to get your hopes up.” He opened his mouth to mention his void hole, but quickly second-guessed it. First off, he didn’t need to go blabbing to everyone about his Inner World (trash version achieved via void hole, void island, and lots of teleport hoops). Second off, he knew where his hole had come from, and if Ryota’s had come from a technique, then their holes definitely did not share an origin.
+
+Gods. If I spend any more time thinking about man holes, I’m going to scream, and then have to explain to Ryota why I’m screaming, and then I’ll have to admit I was screaming because I was thinking about his hole… ugh. To prevent that horrible scenario from coming to pass, Rhys smiled and turned to Ryota. “But what’s important is that I know what’s happening, and I can stop you and maybe long-term teach you how to control your h… control it! So you can still become a religious icon, found your religion, and take over the region without worrying about it, just so long as you train some more and get used to fighting in your berserk state. Hell, if we could get you to control that state, we’d truly have a winning formula.”
+
+It was usually how berserker works went: step one, full berserk. Step two, controlled berserk. True, his most favorite berserker work of all had a true full berserker who never learned to control his berserk state, but since he was one of a very few people who’d watched that series about the C-marked white wearing robot (?)’s sins, he was pretty sure the more prevalent trash trope was for the berserker to learn to control themselves. Which meant there was a good chance he could reality-warp Ryota into figuring it out.
+
+He pinched his chin, pensive. But would it be permanent? I suppose it would depend on the method I used. If I just did something that would make him aware in the present session, it would be a one-time-use, but if I could warp reality enough to force an awakening or epiphany upon him… Damn, but the situation to set that up is insane. That’s usually a post-first-stage-boss kind of upgrade. And I don’t even know who the…
+
+A slow smile stretched across Rhys’s face. He turned, looking at Ryota.
+
+“Good luck. I’ve only been trying my whole life…” Ryota caught the look on Rhys’s face and paused. He narrowed his eyes. “I don’t like that look. What are you thinking? No—do I want to know?”
+
+“Ryota, I’ve changed my mind.”
+
+“Yes…?”
+
+“I’m not beating up your grandpa. You are.”

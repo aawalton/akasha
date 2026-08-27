@@ -1,0 +1,113 @@
+---
+id: 16c4cc62-bee5-5f66-987f-024dac203d25
+page-type-slug: story-chapter-royal-road
+title: "Chapter 997: The Man Who Fought the Monsters"
+slug: 0064-chapter-997-the-man-who-fought-the-monsters
+partOf: he-who-fights-with-monsters
+position: 64
+ownLength: 2803
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3212262/chapter-997-the-man-who-fought-the-monsters"
+royalRoadId: "3212262"
+---
+
+Jason floated over the water of the River Faron, meditating on his progress towards diamond rank. He had not been human for a quarter of a century, yet he had always clung to his humanity. It had been a close thing, a couple of times, but he’d always managed to hold on. Power, destiny, and no few of his own choices seemed determined to make him something more than human, already rendering him immortal. He couldn’t help but think that they would also make him something less.
+
+One day, he would come into the fullness of his power. The System. The full realisation of his astral kingdom. Whatever it was listening to prayers led to. And he had been listening, not that he could do anything about it. What he could do something about was holding onto his humanity.
+
+Dawn had been in Jason’s position once. Looking down the barrel of transcendent power, losing track of who she once was. She’d been sent to Earth to anchor her sense of mortality before she left mortality behind. Jason had been doing the same thing, spending as much of his years on Earth as he could indulging in time with friends and family. They did everything from fighting vampires to learning to kite surf. High-rank agility helped a lot with the latter.
+
+As Europe was slowly but surely reclaimed by humanity, Jason increasingly left that task to the humans. Humphrey continued to participate, but the team at large did not. They moved their combat from Earth to the outer edges of Jason’s astral spaces, where Rufus had done much of his gold-rank training.
+
+The dimensional boundaries of the astral spaces offered fluctuating magical conditions and a plethora of often bizarre gold-rank monsters. Rufus had always acted with caution, never going too close to the outer edge, but things were different with the full team.
+
+The astral spaces were the only place on Earth, or at least Earth adjacent, that could offer genuine challenge to the most powerful adventurers. Jason’s grandmother had started opening these spaces to clan members as they grew more powerful, and even some from outside the clan. The ability to grant such opportunities was a powerful weapon in the clan’s diplomatic armoury.
+
+Having moved into the mid-ranges of gold rank, Jason and his team were past the need for battle to push them to greater heights. Even so, they never slacked off, never allowed themselves to grow complacent or out of practise. Whatever destination he was headed towards, Jason would always be the man who fought the monsters, with his friends by his side.
+
+Earth was proving a surprisingly effective place for Jason and his allies to advance their abilities. For the silver-rankers still rising through the clan ranks, he had the monsters to throw them at while that remained effective. Nik was largely past that point, but Emi was still working her way up.
+
+“I’m sorry that I’m not there yet,” she’d told Jason. They were sitting on a rooftop after Nik’s celebration party for reaching gold rank. Their legs dangled off the edge as they looked up at the stars.
+
+“There’s no rush,” he assured her. “It’s not race, it can’t be. Immortality has no finish line.”
+
+“I’m not immortal, Uncle Jason.”
+
+“Not yet.”
+
+“You know… you know that last time you came back to Earth, I got scared. I thought I wanted to be like you, fighting monsters. Then I saw what that meant. What it did to you, and I got scared.”
+
+“And so you should have.”
+
+“After you left, and we didn’t hear from you, I blamed myself. And Mum. I thought that if we understood what you were going through better, you wouldn’t have stayed away so long. So, I pushed myself to fight monsters. But I forgot what I’d learned watching you. When I got my magic, I felt invincible. Then something happened. We pushed too hard — I pushed too hard — and it all went wrong. After that, I knew for sure that I couldn’t be like you. Like Farrah. I do go out and fight monsters to rank up, but it can’t be my life.”
+
+“It doesn’t have to be. You’re going to be the first archwizard to come from Earth, and that’s more than enough.”
+
+“Archwizard? Is that like a special title from Pallimustus?”
+
+“No, it’s a thing I just made up. Sounds good though, right?”
+
+She slapped him on the arm and he let out maniacal laughter.
+
+***
+
+As the path through gold towards diamond grew more contemplative, there was an array of experienced adventurers to offer guidance to the rising silvers. Nik’s transition to gold was not built on a sudden revelation but the solid accumulation of wisdom and understanding. It was an unremarkable yet unshakable foundation on which to build his future growth.
+
+For Nik and the other adventurers from Pallimustus, Earth presented challenges that they had never experienced at home. On Pallimustus, the job was to kill monsters and walk away. People might be famous, but information could only spread so fast. People might have opinions, but few ways to communicate en masse, let alone, organise. If they did, there was little they could accomplish. Democratic systems were all but unheard of, and the stratification of power was ingrained into every culture, however much they differed.
+
+On Earth, their every action was scrutinised. Interpreted, reinterpreted, misinterpreted. A lie could spread from person to person like a plague, changing the fate of nations. This meant that every time Jason or his friends appeared in public, or what could be made public by anyone with a camera phone, they had to be intensely aware of their actions. Not just what they did, but how those actions could be perceived.
+
+Being under a microscope was frustrating, but also came with one surprising benefit. Advancing essences beyond gold rank required significant amount of self-examination, and the realities of fame were pushing Jason and his team to do so almost reflexively. Advancement towards diamond, so notoriously difficult on Pallimustus, was ironically easier on Earth.
+
+An unconventional ally in their quest for advancement was Terrance Tilden. As well as being Anna’s brother, he was a public relations expert and perennial attendee of mandatory sensitivity training. Over the last few years, he had been instrumental in not just managing the image of Jason’s increasingly famous friends and family but pushing them to drive themselves into new situations. From that came the possibility of new revelations.
+
+Sophie, for example, had pushed her Wind essence in new directions. She had been travelling the world for several years, using her aura to purge whole cities of disease and shut down epidemics before they could take hold.
+
+Even before gaining magic, Sophie was cold and sharp as the swift and cutting wind. That was not a good way to be for someone wandering the world, healing the poor and the sick. Doing so teased out new aspects of herself, at odds with the person she had always been. She needed to become a warm, gentle and cleansing wind. It did not come naturally, but her days of youthful desperation were long behind her.
+
+Years of confidence and camaraderie allowed her to open her once-rigid shell, but Sophie still found herself floundering in her identity. Did she give up who she had been for who she was becoming? She still valued the lessons life had taught her, but the disparate aspects of her personality were at odds with the focus she had always held, whatever objective she was pursuing. The conflict threatened to undo the progress she was making on her path to diamond, and only Humphrey’s solid presence and unwavering faith held her together.
+
+Ultimately, she came to understand the shapeless, ever-shifting nature of the wind. She did not have to be any one thing but could change with the weather, becoming what she needed to be. Learning to reconcile the differing aspects of herself was also a boon to the advancement of her Balance essence. Clive had the same essence, and likewise found a roundabout path to advancing it.
+
+Clive’s magic essence was easy to advance. His curiosity and focus gave him a drive to learn and grow, but singularity of purpose was not helpful for the Balance essence. In the past, he had balanced field research with lab research, but that was too shallow to move the essence any further forward. The solution came with Lorelei and Clive’s fumbling progress through their relationship. Opening up to her gave him an equilibrium he’d never had without compromising his magical studies, as she shared his passion and intelligence.
+
+Belinda and Humphrey had some of the easiest times on the team. Theirs had been the hardest transitions into gold rank, both needing greater personal revelations to break through than the others. Having done so, they could explore those revelations more fully for a smoother advancement.
+
+Humphrey’s revelation had been that forcefully enacting his will did not have to be malevolent. A dragon did as it pleased, for good or ill, and what Humphrey pleased was to help people. Whatever doubts he may have had, his sense of responsibility never wavered, always driving him forward. His essences of Might and Magic were his weapons, his Wing essence carrying him to the fore. More than anyone else on the team, the leader of Team Biscuit was on the frontlines. Be it vampires, monsters or even the occasional rogue essence user, Humphrey was reliable and true.
+
+Belinda’s obstacle to gold rank had been a belief that she was destined to undermine the team. With both her mindset and her abilities built for deception and deceit, she had to find a way to see herself as anything more than a sand timer counting down to failure or betrayal. It was in teaching that she had found a way to make an unambiguously positive contribution, and she continued that on Earth. As magical education centres expanded, both within the Asano Clan and beyond, she was a key participant.
+
+Convincing herself that she could be a positive force for the team was only half of the puzzle for Belinda. There was also the question of how to contribute, given that her powers and proclivities were for trickery and cunning. Spying proved a natural fit, and her wife Stella was a capable instructor and partner.
+
+The others all had their own ways of using their agendas to refine their powers and themselves. Neil’s Growth, Renewal and Prosperity essences found fertile ground in desert reclamation programs in Australia and North Africa. Danielle explored the nature of time and space, gaining a doctorate in theoretical physics. Rufus also took to academia, to explore his Sun and Moon essences. Rather than a hard science approach, he engaged with philosophy and religious study courses.
+
+Taika’s approach to his advancement was more intuitive. To advance his Wing and Garuda essences, he took to the skies, often staying in bird form for days or even weeks as he travelled with migratory birds. He also developed his Swift essence alongside Sophie with hers. The pair occasionally spooked military forces and air traffic controllers as they raced around the planet. Footage of them flying close to commercial aircraft, waving at passengers was not hard to find online.
+
+Not everyone had the same drive to reach diamond rank. Satisfaction with the way things were, or hesitation to engage in the world of immortals could easily undermine the drive to advance. Emir Bahadir knew the world of diamond rankers better than most, and was happy where he was. He had little interest in leaving his place as a notorious man at the peak of the mortal world to foot the lowest rung of immortality’s ladder.
+
+Arabelle Remore had thought herself satisfied, but serving as Jason’s mental healer had slowly shifted her thoughts on her own position. As time passed, Jason’s circumstances went ever further beyond her experience. She had always done her best to help him, even as she felt less equipped to do so. It inspired in her a renewed drive to become more than she was.
+
+Jason was not the only thing pushing Arabelle to grow. Guiding others in the transitions from the peak of silver, into gold and beyond, was something she was increasingly experienced with. Few adventurers, even in her specialty, dealt with so many people reaching such heights of power. Surrounded by golds not just trying but succeeding in making progress to diamond, she found herself making greater advancements herself.
+
+Despite all of that, her greatest challenge was not Jason or the other gold rankers but an increasing number of former vampires. As the vampire war progressed, large sections of Europe were falling back under human control, and a surprising number of vampires were being captured instead of killed.
+
+This had come largely at the instigation of Humphrey. The human leadership had issued dictates of no quarter, but Humphrey disagreed and no one wanted to cross the dragon. He had realised that far more vampires than expected were lesser vampires, forcibly turned but never accepting their new state in their souls.
+
+Once upon a time, this wouldn’t have mattered, since the only cure for their vampirism was death. Now there was the cure developed by Carlos Quilido. It was harsh and didn’t have a hundred-percent survival rate, but it was a better option than decapitation. There were now thousands of former vampires, gathered in medical barracks in Slovakia.
+
+The trauma they had gone through went beyond anything in Arabelle’s previous experience. Not even Jason or the brighthearts could match the personal horror the former vampires had endured. Years, sometimes decades, of being trapped inside their own bodies, watching as they killed and ate anyone in their path. Often, their first victims were their own friends and family.
+
+Most of the lesser vampires had surrendered to the monster. Whether it took months or years, what was left of their mind couldn’t take it and they opened their souls fully, becoming greater vampires. That put them beyond the ability to cure, too far gone for Carlos’ procedure.
+
+Those that held out long enough to be captured and restored to humanity were Arabelle’s to heal. Madness had taken them all in one way or another, and she was tasked with the painstaking process of bringing them back. Magic could only go so far, and she worked as part of a large team of healers and mental health specialists from Earth. None of them had experience with the challenges they were faced with, but they had a lot to learn from each other. Arabelle did have a lot of questions about Freud.
+
+Jason’s progress with his essences was solid. His Doom essence thrived as he loomed over the world like the Sword of Damocles. His Sin essence grew as he explored his transcendent half, listening to prayers he had no power to consciously answer. There had been reports of miraculous recovery from disease and other maledictions, but even Jason doubted their veracity. Miracles weren’t what they used to be when every hospital had at least one magic healer on staff.
+
+His dark essence thrived on his controversial image. His prominence had risen, with his influence on world leaders, the ongoing conspiracy theories and growing cult following. He moved in secret and appeared without warning. His motives and agenda were mysterious, to the world, his allies and, to some degree, even himself. He thrived on melodrama and unpredictability. One day he was slaughtering spider bats in Kuala Lumpur, the monsters less terrifying than he was. The next, his niece was posting a video of him singing ‘Yes Sir, I Can Boogie’ by Baccara while making a risotto.
+
+Jason’s Blood essence was a little different from the others. With the prominence of vampires, Jason couldn’t help but recognise that he was the predator to them that they were to humans. This had been something he resisted accepting as part of his core identity, stalling out advancement of his Blood essence compared to the others.
+
+During his darkest days, Jason had thought that he could be more monstrous than the monsters. He had turned away from that path, realising that it would only lead him to becoming one of them. But forcing himself to look unflinchingly within, Jason was forced to accept that a predatory, dominating drive was a part of him, whether he liked it or not.
+
+The monster inside Jason was what allowed him to wield his terrifying powers. To undertake the grimmer tasks he faced as an adventurer. The key, he ultimately realised, was knowing when to release the monster, and making sure he could always put it back in the box. He was the man who fought the monsters, even the ones inside himself.

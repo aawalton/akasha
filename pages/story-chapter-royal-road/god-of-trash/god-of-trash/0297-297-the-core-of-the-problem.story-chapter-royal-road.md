@@ -1,0 +1,85 @@
+---
+id: ca5a60dc-6f02-5522-81db-808a11198f5c
+page-type-slug: story-chapter-royal-road
+title: "297. The Core of the Problem"
+slug: 0297-297-the-core-of-the-problem
+partOf: god-of-trash
+position: 297
+ownLength: 1884
+unit: words
+publishedAt: 2026-04-08
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3249203/297-the-core-of-the-problem"
+royalRoadId: "3249203"
+---
+
+He stared at Bast’s core. There was something wrong about it. He couldn’t put his finger on what, exactly, but something was very wrong. Something essential, something where if he missed it, he might as well say goodbye to Bast altogether. He didn’t know what it was, but he could feel it, tickling at the edge of his perception: a fundamental wrongness. Something missing… or too present? A balance was off, but where? What?
+
+And then it appeared, rotating out from around Bast’s core—or rather, his first core. A second core. Two cores floated within Bast’s core-space, orbiting one another.
+
+Oh. Is that all?
+
+As someone who had once had a proto trash star and several filth-covered curses orbiting his core, then lost his core and worked off a trash star alone, then regained his core and let it orbit the trash star, then absorbed it entirely into his new trash star, it was a really underwhelming reveal. Maybe back before the he’d gone through everything, he would have found it shocking, but now it just felt like a waste of time for Bast to bother hiding it.
+
+Maybe there was some deeper meaning to it that Rhys didn’t understand, some world context he was lacking. He’d kind of dodged school this time around because he was so dang tired of it from round one, so he legitimately didn’t know a lot of basic knowledge. It mostly hadn’t harmed him, but it did mean he was lacking the social context for things like ‘what having two cores means and why my friend would want to hide it.’
+
+Then again, that seemed like maybe something they didn’t teach in school, so maybe he just had to pay more attention to the world around him, or even research it in particular. The next time he ran into Az, he’d make sure to ask. The cat seemed to know just about everything…or where to find just about everything. When it came to knowing things, he seemed more the type to only know what he knew, but he also had the bonus of knowing where to find what he didn’t know. Not only useful, but also resourceful! The only person who couldn’t appreciate that kind of person was a degenerate like Daran.
+
+Right now, though, it didn’t mean very much at all. He focused, pushing his newfound knowledge to the back of his mind, and gathered his impurities. He had to corrupt the filament without one, breaking it, and two, without filthing up Bast’s cores so much that they stopped working altogether. Although he had personally survived without a core, the de-coring process had killed some mages, and that was with the Empress’s well-defined and practiced de-coring technique, not with an amateur using brute force like he intended to do. Beyond that, if he removed the support of a mana core in this freezing tundra that felt cold to supposedly-immune-to-temperature-changes mages, Bast would freeze to death on the spot. He had to leave Bast’s cores functional, but he couldn’t let the link to Luc remain.
+
+This was going to be a delicate operation.
+
+There was no time to waste. Rhys dove in, taking his impurities with him. Rather than immediately begin corrupting the link, he took the time to study it first. He needed to know exactly where it attached and where it fed from in order to adequately corrupt it without overly harming Bast. This was the moment where he absolutely could not move fast, and yet, he had to move quickly, or else Luc would either take his head, or drain all of Bast’s energy and destroy his friend.
+
+Dammit. This is the worst. Who made this plan?
+
+Oh, right. I did.
+
+Rhys sighed. Having to deal with the consequences of his own actions was the worst.
+
+The link was pretty deeply ingrained in Bast’s cores. The thin filament wound around the orbs like the thin roots of a plant, sneaking into every gap and wrapping tight around every nook and cranny. It was flexible, too, nimbly stretching and retreating as the two cores orbited one another. Some of the longest filaments sunk directly into the cores, drawing his energy out from the depths of his core.
+
+Rhys chased them all down, every last one, slowly—or rather, as quickly as he could, but nonetheless, it felt slow—building a model of exactly how the filament had twisted itself into Bast’s cores. If he’d only had one core, the process of extricating the filament would have been bad enough, but with Bast’s duo core, it became doubly difficult to remove the filament, because not only were there two cores for it to get wound around, but the two cores also rotated one another, dragging the filament into loops and knots around one another. Every time he found the very end of a root, he imbued it with a few impurities, marking the place where the root ended so he could find it later, and so he could manipulate it more easily. He could use mana, of course, but by now, it was simply easier for him to manipulate and sense impurities. It was almost an entire second system of mana, equivalent but different for him, and deadly for everyone else.
+
+“Rhys!” Bast warned him, incidentally punching him in the face at the same time.
+
+Blasted out of his study, Rhys snapped out of Bast’s core, blood streaming from his nose. He got ahold of Bast’s arm again before the man could pop him another one and looked up to find the Sword Saint closing in on them with all the inevitability of a semi truck. He quickly scanned the area around them, and when he found no easy escapes, he tossed a hoop behind them and immediately jumped them through it and out from another hoop on the other side of the battlefield again. He kept a hand pressed to Bast’s chest the whole time, holding his mana model of the roots ingrained in Bast’s core alive even as his attention was forcibly drawn elsewhere.
+
+“I think I can take this out of your core… this connection thing,” Rhys clarified. “But it might kill you. It’s—it’s a lot to handle, and it’s… it’s twisted in everything. Are you willing to accept that risk?”
+
+“Anything,” Bast snarled.
+
+“Well, in that case, do you mind if I take a little more risk?”
+
+“What for?”
+
+“To steal back all your potential from Luc.”
+
+Bast jumped. He stared at Rhys. “How do you know—no. You can do that?”
+
+“I can. Probably. Maybe. I think I can.” Rhys paused, thinking. “How about this: I’ve got a good line of theory on a method that will probably work, and a solid foundation for tricking myself into believing it falls within my domain.”
+
+“Tricking yourself—how do you think paths work?” Bast asked, flabbergasted.
+
+“I dunno. Fooling myself has worked pretty well so far,” Rhys said, giving him a quick thumbs up with his free hand. He glanced at the Sword Saint, who had locked on to them once more and was already building up momentum. “Come on. We don’t have time. Yes or no? Please say yes. Give me a chance. I really want to try it.”
+
+“It was a yes from the moment you suggested it was possible. I trust you, Rhys. If anyone can do it, you can.”
+
+“Aww, you’re gonna make me blush.” Rhys steeled himself, teleported them one more time for good luck, and plunged himself into Bast’s core once more.
+
+This time, thanks to all his markers and hard work, he gripped the shape of the filaments instantly. He pulled Bast’s cores into his perception, too, keeping a close eye on them. If they got too corrupted, he’d have to stop. He was going to have to push them to the absolute limit.
+
+He dragged a chunk of impurities out of his core and pushed them into the filaments. It was easy at first. Fundamentally, the filaments were drawing things out of Bast’s core, which meant they were absorbing, pulling in. When he fed them filth instead of mana, they sucked it up just as greedily as the original mana, tainting the roots black in long filthy streaks. Bast’s cores darkened as if with dirt where the tainted filaments touched them, but they continued to spin and circulate mana all the same.
+
+Some of the impurities got mixed in, but it wasn’t at the level that Rhys couldn’t strip them back out again. He reached out, scooping the worst ones back, but the majority of his attention had to be focused on the filaments. There were so many of them, and they were all so thin and delicate. If he didn’t use maximum focus, then the filaments that escaped his notice drew more of Bast’s mana way; alternatively, if he fed any one of the filaments too many impurities, that filament would shrivel up and die away, and the main filament would put out a new root, exacerbating the first problem.
+
+It was like playing magical whack-a-mole with seventeen pairs of tweezers and moles the size of ants. If he wasn’t at his current realm, he never would have been able to handle the mental load of holding all those procedures in his mind at once, and he would’ve fundamentally failed to pass the bar to clear Bast of this curse—disease… parasite? Of whatever this was.
+
+As it was, he had to push himself to his limit just to hold out against it. His nose began to bleed as his mental energy pushed as far as it could go, and then further. Even so, he refused to give up. This was Bast. His first friend in this world. They were bound by life and blood; Bast had been the one to push him into the hole, the one to void this vessel so that he could step into it. From what could have been a great injustice, he had instead seized friendship, and a bond that he would not allow to be broken here!
+
+Rhys willed it, and the impurities surged forth, flying through the filaments. The filaments tried to snap, attempting to break away under the thicker impurities, but Rhys simply hopped the gap between the functional and broken filament and kept pressing. It was not unlike when he stole the ermine from the mage. There was a connection between the two. He claimed it with his impurities, corrupting the mana flow and obtaining it as his. One inch at a time, he took control of the filaments, until he controlled the entire passage between Bast and Luc. He felt Luc’s core faintly, and knew he’d won.
+
+For just a moment, he hesitated. Luc was as much a victim as Bast, if not more so. He didn’t deserve this.
+
+But neither did Bast. And between the two? He cared more about Bast. Sure, it was trashy logic. Sure, it was emotional as hell. Any rational person would’ve cared more about the Alliance, and saved the Sword Saint so that the Sword Saint could attack Virgil. Rhys, however, didn’t feel like thinking rationally. His heart told him to save his friend. Who cared about Luc?
+
+And then he connected fully to Luc, and he knew he’d made the right decision.

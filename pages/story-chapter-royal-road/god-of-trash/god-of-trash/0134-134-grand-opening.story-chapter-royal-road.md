@@ -1,0 +1,87 @@
+---
+id: 9f9069e4-3f99-5d5b-8985-926b185b133e
+page-type-slug: story-chapter-royal-road
+title: "134. Grand Opening"
+slug: 0134-134-grand-opening
+partOf: god-of-trash
+position: 134
+ownLength: 2358
+unit: words
+publishedAt: 2025-07-18
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2446800/134-grand-opening"
+royalRoadId: "2446800"
+---
+
+They opened the next morning, spreading a Grand Opening banner made of scrap fabric, which one of the mages good with a brush and with decent handwriting had fixed up nicely. SNACK SHOP was blazoned on their shop’s signboard, under an image of delicious fries in an iconic red holder that Rhys definitely hadn’t stolen from a certain clown back home. He’d wanted to make it fully iconic, with a moist soft drink cup sitting behind the fries, but his artist had gotten lost when he’d tried to explain what he wanted, then spent ten minutes explaining to him that making something appear wet required a great deal of mastery with a brush, mastery that they, as someone who painted for fun and didn’t pursue art seriously, did not have, and so he'd settled for piping hot delicious fries instead.
+
+They didn’t hide inside their storefront, either, but stood out front. Rhys had appointed the two cutest, one male, one female, and gotten them good wigs and decent makeup, and they served as the face of the shop, with a brightly-colored umbrella shading their semi-mobile trash-cobbled snack stand and fresh fries boiling in oil. At first, the mages and mortals passed them by, but as the fries finished cooking, and beautiful golden potato slices sat gleaming under the sun, a few came by to check them out. When they stopped by, they were also offered chips and a free soda trial; currently, Rhys still wanted to run that one through taste-testing before he worked on giving it an ephemeral healing effect, and he wasn’t satisfied with his small-scale sample of people who were likely biased toward pleasing him. Rhys had stopped by the farm and picked up fresh potatoes, and he and the other mages were hard at work in the back, cutting, slicing, and preparing the fries and fresh chips, with Rhys mostly working on imbuing them with various magical effects, at whatever low level he could manage without other mages outright realizing what he was up to.
+
+As time ticked on, their sales ticked up. Things went slower than at the tournament, but that was to be expected. The tournament had been a profitable gathering of people without many resources prepared to refresh them, whereas this was a city, where people doubtlessly had their own ways of acquiring foodstuffs, and his snack shack was but another method of finding food. It was the difference between having a captive audience, and an audience he shared with a great deal of other shops. Of course he’d be moving product more slowly.
+
+One student in a bright white uniform swung by. He looked down on the shabby shop and scoffed, then derisively tossed them a coin and took some fries, ignoring the proffered free drink. He didn’t stop or slow, but tossed a few in his mouth as he walked away.
+
+His feet stuttered. He slowed for a step, stunned. For a moment, he shuddered, then glanced over his shoulder and hurried off without another word.
+
+Rhys raised his brows. Hopefully that’s good…
+
+Noon hit, with the sun directly overhead. The shack out front ran low, and Mouse ran the freshly-cut fries out. She scurried back with a traumatized expression on her face, and shot Rhys a terrified look. “They’re coming!”
+
+Rhys stepped forward, concerned, and peered out the window. A line of white-coated students marched toward the stall. He tensed, hiding his aura, but tightly gripping his broken sword. That many students? Had they been discovered? If he had to, he’d fight with everything he got to make sure everyone else got out.
+
+The students approached, the haughty boy at their lead, and mobbed the stand. “One order!” “I’ll take two!” “I just want a bottle of that red sauce!” “Three bags of chips, please!”
+
+The shop’s faces were almost instantly overwhelmed by orders. Rhys pushed out a few more people to go help out front, hurriedly tugging wings on their heads on their way out the door. When they were gone, he turned to the rest of the mages.
+
+“We’ve got to double production. Wash, peel, cut, soak, in double time! Go, go, go!”
+
+A smattering of salutes answered him, and they rushed back to their stations. Hands blurred, sweat ran down brows. Even Rhys, used to the rush, was pushed to his limit as a seemingly endless stream of students clamored for more, more, more. Their ketchup stocks ran low, and he had to cut off students from buying bottles, reserving it as a topping for those who bought fries alone. The potato chips flew off the shelves, and before long, the bags the mages had painstakingly built up ran low, too. By the end of the lunch rush, they were down to the dregs; the dregs of potatoes, the dregs of ketchup, the dregs of bagged chips. Soda had run out long ago, to rave reviews, and Rhys made a mental note to ramp up production, add a mild healing component, and start selling. As the lunch rush died down, all the mages slumped at their stations, exhausted.
+
+Rhys clapped. “The dinner rush is just around the corner. Come on! We need to prepare before it begins.”
+
+The mages’ eyes dimmed. He could sense it without speaking to anyone; the morale in the room was low.
+
+Rhys glanced outside, then gestured the outdoors workers in; in the gap between lunch and dinner, no one purchased anything, not even snacks. With all his mages arrayed before him, he crossed his arms and looked down on them. “What are we doing?”
+
+“Selling chips?” one mage asked.
+
+Rhys shook his head. “Try again.”
+
+“Raising money for the insurgency?” another mage asked quietly.
+
+Rhys shook his head once more. “No!”
+
+“What are we doing?” an exasperated Blake burst out, frustrated.
+
+A grin on his face, Rhys snapped his fingers and pointed at Blake. “We are the insurgency. That food we sold today, do you think it was just food? Yes? Anyone?”
+
+A few mages raised their hands.
+
+Rhys swept his hand out, as if to cut their hands down. “No! It was poison. Poison that will corrupt their bodies and souls alike! Every bite is soaked in subtle impurities, full of a poison that will eat away at them without realizing. The Empire’s next generation? The pride of their academy? All infected, blighted, brought low by impurities. And we will spread it further. To the next town. To the next academy. Until the entire Empire is united by a chain of snack shops, all selling the same insidious illness. All snatching the Empire’s richness, health, and value from its very heart, from within. We will strike. No… we have struck,” he said, making eye contact with Lira. “But while we are based in this city, we bare a crucial weakness: our location. They can find us and crush us with ease. What, then, when we operate snack shops in a dozen cities? When we own the hearts and minds of half the Empire’s citizens, and a logistics chain that allows us to strike anywhere, anywhen; when we can not only attack, but strike with blinding speed on any city, any camp, any location we please, and vanish once more, with no sign of our passing? Think, then, of what we will have in our hands.” Rhys held his up, and clenched it shut. “Victory.”
+
+In the front row, a female mage’s brow furrowed. She raised her hand. “This plan you speak of… won’t it take decades, if not longer?”
+
+“We’re mages. We have the time,” Rhys said confidently, settling back. His eyes flashed. How many times had he seen a trashy villain execute their plan too early, when they could simply outwait the hero? An immortal lich who moved during the human hero’s lifespan, instead of going back to sleep for a century; an ancient vampire, who needed to kidnap the hero’s sister while the hero was young and powerful, instead of waiting a decade or two for the human to grow old and decrepit; an immensely powerful force from beyond the universe, who simply had to creep onto the scene during the human hero’s ephemeral youth? They were mages. They had time. He would not become the not-long-enough villain. No. He was patient. He could wait.
+
+“What about the mages in camps?” a male mage protested.
+
+“I already have plans to free them. It will be a continual effort, but one that will grow easier with time,” Rhys assured him. Doubtlessly the Empire was already putting together a strike force against those who broke into camps, and he had no doubt that it would continue to grow stronger as long as he kept striking camps, but he had the initiative; and beyond that, he, too, could get stronger. In fact… it was a long ways off, but ultimately, the insurgency would split into two: those who ran the shops, and did no evil, and those who did naught but evil (in the Empire’s eyes), while using the shops as refresh locations and travelling spots.
+
+Another mage raised his hand. “What about taxes?”
+
+Rhys opened his mouth, then shut it. For the first time, his expression flagged, and his hand lowered. He hadn’t thought about taxes at all. Taxes! Taxes. The bane of Al Capone, one of the greatest criminal minds in recent history. He couldn’t overlook taxes!
+
+A second later, he beamed and pointed at that mage. “What an excellent point! Can I trust you to look into that?” Without waiting for the man’s response, he moved on to the next question. Ah, the power of delegation!
+
+The questions settled down from there. The exhaustion faded from the mages’ eyes, replaced by a sense of purpose and a deep resolve to overthrow the Empire. This, too, was but a stepping stone toward domination of the Empire, but a small, incremental step toward their eventual victory. They turned back to the produce as men and women changed. They didn’t cut potatoes, they created the poison that they would inject directly into the Empire’s veins… no, that they fooled the Empire into taking itself! Rhys looked over them with a smile before turning back to his own small role in this whole process.
+
+The dinner rush went well, if it was quieter and more dominated by working mages than the military students, and then they closed up shop for the night. Rhys kindly let the tired mages rest in the upstairs section of the building, where guests might have once shared the large, long attic for the night, back when this was a tavern, though with the promise that they’d all have to break and run for supplies at dawn. For his part, Rhys bumbled around the kitchen cleaning up while everyone else vanished upstairs, until it was only him alone in the room. Only then did he turn to the empty soda vat and drag a small cauldron out of his storage ring. It was time to imbue his soda with healing properties.
+
+The few potions classes he’d attended had given him a basic understanding of what it took to create a simple healing potion, and these herbs from the farms were one of the most important components of the most basic healing potion. The herbs themselves had a low concentration of impurities, as expected from the strict standards of the Empire, but Rhys had other intentions. He drew out a small quantity of impurities and imbued them directly into the herbs, deliberately lowering the herbs’ quality. He could have added them at any time, but imbuing them into the finished potions would be suspicious if a skilled alchemist picked apart the soda, as he was sure the Empire would eventually do. After all, impurities didn’t just appear in potions, apropos of nothing. They were introduced by something; for example, sub-par ingredients. This way, there was absolutely no proof that he was deliberately poisoning the Empire. Instead, it looked as though he’d simply cut costs and used low-quality ingredients. The fact that it also helped obfuscate the origin of the herbs didn’t hurt. After all, who would deliberately lower the quality of the herbs they’d stolen, except for a madman like Rhys?
+
+After his efforts with consolidating impurities, making a basic healing potion was the opposite of difficult for Rhys. He finished it up and took a sip, then made a face. Bitter! A second later, he swirled it in his mouth, trying the flavor again. It was bitter, but so was citrus juice. If he used the sugar, sweet, and flavor components of citrus and mixed them in with this bitter liquid, would that mitigate the bitterness and disguise it into a kind of artificial lemony flavor?
+
+It wasn’t unheard of. Back home, if you wanted a watermelon-flavored sweet, use pear juice; if you wanted cherry flavor, use pomegranate. Once people discovered artificial colors and flavors, it only got even more complex. One didn’t need the actual juice in order to simulate the flavor. In fact, in some cases, the actual juice only got in the way. Watermelon, for example, was too watery and sweet, with none of the tang the melon flesh held, while pear juice had sweetness and tang, whereas cherry juice had an unpleasant muskiness to it that wasn’t present in fresh cherries, while pomegranate juice remained clear and pure. If he wanted citrus soda, he in no way needed citrus juice. It was nice to have, but not a requirement. Rather, he simply needed to figure out a chemical way to mimic the shape of the citrus flavonoid… or, well, put together a bunch of flavors until he got the sweet-bitter-tangy flavor of citrus.
+
+He poured the potion into the vat, then turned to fetch Lira, only to hear a strange shriek from the other room. Rhys froze. The other room, completely devoid of life, with all the mages upstairs? He extended his mana, but still felt nothing. Despite himself, a chill ran down his spine. Was there something to the old man’s warning after all? A curse?
+
+He grinned. Oh, I hope so.

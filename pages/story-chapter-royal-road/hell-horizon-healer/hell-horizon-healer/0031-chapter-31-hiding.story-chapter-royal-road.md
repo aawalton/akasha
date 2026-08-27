@@ -1,0 +1,243 @@
+---
+id: 5054c9d5-538e-508f-8807-650fc8e70260
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31 - Hiding"
+slug: 0031-chapter-31-hiding
+partOf: hell-horizon-healer
+position: 31
+ownLength: 1845
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3711959/chapter-31-hiding"
+royalRoadId: "3711959"
+---
+
+Floor 9 smelled the same as they'd left it. Rust, damp, something organic underneath both.
+
+Lyle was already there when Jake's group came through the door. Axe across his shoulders, back to the wall, eyes on the bridge ahead. He hadn't been invited.
+
+He didn't look at Jake when they filed in, and Jake didn’t ask either.
+
+Sloane took up her position. Glenn nocked an arrow. Susan rolled her neck and her cleaver caught the dim light. Arthur raised his shield with hands that only shook a little and Chloe, with a slight limp, had cast away her supports.
+
+From somewhere deep in the dark ahead, something moved. Low to the ground, slow, completely unbothered by the noise they'd made coming through the door. It was there one moment, gone the next.
+
+Jake summoned Gutter-Tooth. The chain settled cold against his palm.
+
+He glanced once at Lyle.
+
+Lyle's jaw was set. His fire hand was already warm.
+
+Jake looked back at the corridor.
+
+They went in.
+
+Jake immediately stopped upon seeing a Dreadknuck in the middle of the bridge, a bolt straight through the eye. A man in a leather jacket lay dead and broken not far from it. The stench of blood swept through the room thick and strong.
+
+“Edwin,” Chloe whispered.
+
+“He has started quicker than I thought he would,” Sloane added, tightening her grip on her sword.
+
+“Can we be done quicker this time?” Glenn asked, checking his nails. Everyone looked at him. He looked back. “What? I’ve got to apply a face mask by evening. If I don’t, my skin always breaks out and fixing it is a lot more difficult than preventing it in the first place.”
+
+Sloane sighed. “You’re an idiot.”
+
+Glenn scowled. “You wouldn’t understand, miss pretty.”
+
+“Oh. Thanks.”
+
+“Get serious,” Lyle snarled. “I’m only here to stop you all from clawing at each other.”
+
+“Don’t lie to yourself,” replied Sloane. “You’re here because you know that if you don’t, you fall behind, and Edwin becomes unchecked.”
+
+Lyle’s jaw tightened.
+
+Ding, ding, ding. We have a winner.
+
+“Alright,” Arthur said, breath heavy. “Let’s do this. I can do this. They aren’t that scary.”
+
+Though he said it, his actions spoke otherwise. He gingerly crept past the dead ape, nudging it with his toe to make sure that it was properly dead before he breathed a sigh of relief.
+
+There it was again—a blink.
+
+It thundered through his hand like an electric shock. Jake licked his lips.
+
+Soon.
+
+Sloane nudged him. “What are you thinking?”
+
+Jake broke out of it. “Nothing,” he said. “I can sense that monster again.”
+
+“Well the last few times it has taken a while to get moving,” she said. “Same again?”
+
+Jake nodded.
+
+“Then let’s get moving,” Lyle said. “Just like before: we kill one then return. Slowly, carefully. There can’t be many left now.”
+
+Glen adjusted his bow. “And Edwin and his gang of miscreants are here somewhere. Jake, you hear them?”
+
+He shook his head.
+
+“Strange,” Glenn said. “You usually have the ears of a dog.”
+
+Sloane smiled. “He has the teeth of one.”
+
+“Defintely has the breath of one,” Glenn held his nose. “When was the last time you cleaned those things?”
+
+Jake frowned. “I cleaned them this morning.” Then he realised. “I forgot.” he was too busy working out.
+
+“Well then we definitely have to get back quick.”
+
+Jake stopped them as they reached midway along the bridge. Something felt wrong. A dull thud rang out through the darkness. Jake felt the vibrations run along the line, harsh.
+
+A chill shot up his spine. “Jump!”
+
+With no time to think, he grabbed the two people closest to him; Susan and Sloane, and leaped off the bridge. Sloane shrieked. Susan showed a mad smile.
+
+They crashed onto a bridge below. The others were a beat slower, but they trusted his call after all this time fighting together. Everyone had landed except Chloe. Her leg buckled in the panic, and she didn’t jump as far as everyone else.
+
+Jake watched in slow motion; the look of fear in her eyes. It was real. Finally—real emotion. He could read that as much. The mana, too.
+
+A burst of it around her feet tried to halt her fall, and it worked, for the most part. But gravity was real and it hit her hard.
+
+If he didn’t catch her, no one would say anything. It all happened too quickly. She wouldn’t have to hurt anyone anymore.
+
+His hand snapped out, catching her before she sank into the dark abyss. Her eyes blinked in shock, and then confusion, as if to ask ‘why?’
+
+Why?
+
+Because he had a sneaking suspicion that she was hiding more of her strength than she let on.
+
+He hauled up the girl like she weighed nothing, pulling her onto the bridge.
+
+“What the hell was that?” Glenn swept a long strand of his raven hair from his face.
+
+“I don’t—” Sloane paused. “Jake, what are you—”
+
+Jake stepped up to Chloe. “Why are you hiding your power?”
+
+Chloe got up to her feet, mana in her surroundings congregating to her legs.
+
+So that’s how she recovered so quickly. She’s using mana to support her joints. Smart. Must use a lot of mana constantly… Just how big is her mana container?
+
+This time, Jake was jealous.
+
+“What are you talking about—”
+
+Jake moved too fast, slamming his fist into her jaw. She reeled, collapsing to the floor.
+
+You’re hiding your power. Why? What is it? How strong is it? Will it help me push further up the tower?
+
+“Jake!” Lyle screamed. He was about to move forward when Sloane held him back, shaking her head.
+
+Jake picked her up, not giving her a chance to respond. He hit her again, and again, and again. Blood spilled. He broke her nose, gushing out more blood.
+
+Or will you just be in my way?
+
+She whimpered. “Stop—”
+
+He hit her again.
+
+“I said… STOP!”
+
+The mana in the air spun wildly, coalescing around her hands. She floated an inch off the ground, and pulled Glenn’s knife from its sheath. She fired it. Jake managed to step out of the way just in time, but not fully.
+
+The blade caught his shoulder, boring right through him, tearing flesh and bone.
+
+Jake stumbled back and grinned, healing the wound in seconds.
+
+“There it is,” he said. “The real you.”
+
+Lyle, who was about to charge in and help, stopped. Like his legs were made of weighted lead. He turned quiet, his arguments catching in his throat. The look he gave Chloe was a good one; filled with complications and unsurety.
+
+Standing to his full height, Jake swept off the layer of dust that had formed on his shoulders. “Now we can fight properly. Let me heal you—”
+
+As Jake took a step forwards, Chloe’s mana spun. The last attack had obviously used quite a bit of her mana, but she still had plenty of it it seemed. “Fuck off,” she spat, grabbed her own nose, and snapped it back into place.
+
+Jake shrugged then turned on his heels.
+
+Damn, he felt good. Like a weight had shifted off his shoulders.
+
+Psychokinesis was pretty cool. He wondered if he could learn something like that. Why not? He just had to study the mana, the way Chloe used it.
+
+I wonder if she’d teach me?
+
+He glanced at Chloe, eyes filled with venom glared back.
+
+Perhaps not…
+
+***
+
+Jake narrowly avoided a plank of metal moving near the speed of a bullet. It hit the floor and shattered, splintering off into thousands of shards that peppered the group. Thankfully they didn’t do much damage.
+
+Glenn fired an arrow at the Dreadknuck, but it didn’t do much; barely punching inches deep into thick hide and muscle. He had reached a limit, and the pretty-boy himself seemed to realise it.
+
+Chloe, thanks to her little correction, was now a genuinely frightening member of the team. She picked up the splinters and launched them at the beast, pelting it with sharp shards of metal. One caught its throat.
+
+Her mana was dwindling.
+
+She was still using a bunch of it to support her legs.
+
+Sloane projected a blade of wind at the monster, slicing at its leg. It faltered for a beat before it put more power into them and stood back up.
+
+Lyle lobbed a ball of fire, and it exploded, casting the monster in flickering flames that ate away at the fur. A massive chunk of missing flesh on its stomach was visible as the smoke parted.
+
+The beast roared and got onto all fours, charging at them.
+
+Glenn panicked, loosing another arrow that shot by its ear.
+
+Sloane fired another blade that hit across its face. Blood fell like a waterfall, but it just made it angrier.
+
+Jake and Susan ran to meet it. He met her gaze, and a challenge between them sparked to life, as if to see who would claim the most participation.
+
+Not wanting to be outdone, Jake threw his sickle at the monster, then pulled, catching the tension of the line tight. The tip of the blade bit deep into its shoulder.
+
+Jake pulled again in the direction where Sloane had injured its leg. He forced the chain down, bringing the monster crashing to the ground.
+
+Susan swept in, cleaving her blade into the neck of the monster. It punched her, sending her rocketing back. Arthur quickly caught her before she flew off the bridge.
+
+Nice catch.
+
+Jake was on the monster in seconds, pelting it with his fists. He aimed for anything that would do damage; nose, eyes, chin, throat.
+
+He dodged a whirling fist, then replied with his own. The monster ducked its head, and Jake’s fist hit solid bone.
+
+He felt something give in his knuckles, but with adrenaline thumping through him, he barely noticed it.
+
+Or maybe he did, and just didn’t care.
+
+He was on top now, hammering fists down like rain.
+
+Left, right. Repeat.
+
+He offered the monster no mercy.
+
+The beast’s tension cut slack.
+
+He kept on striking, feeling the tension in his own muscles.
+
+He was on to something.
+
+With every strike, he pulled his muscles in one way or another, trying to eke out more and more strength.
+
+The bones in his fist shattered.
+
+All points into strength had left his body weak.
+
+He didn’t care.
+
+He wanted more of it.
+
+He started using the palm of his hand. He heard something crack in its skull.
+
+He stretched the muscles in his back, shoulder, hips, experimenting with what muscle needed to do what movement to make it more powerful.
+
+Finally, he felt it, beginning from the soles of his feet, up his legs to his back, shoulder, then arms, and every single muscle fiber in between.
+
+It was an explosive, sudden snap movement.
+
+Tension Mastery 25% → 36%
+
+One moment, he was hitting something solid.
+
+The next, his palm pushed through bone and into the moist brain, splattering it into mush and gore.

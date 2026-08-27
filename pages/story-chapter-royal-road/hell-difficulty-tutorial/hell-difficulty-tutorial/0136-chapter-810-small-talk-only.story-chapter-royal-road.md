@@ -1,0 +1,199 @@
+---
+id: 51bbec2e-5de2-515c-ac93-f8bc2b286357
+page-type-slug: story-chapter-royal-road
+title: "Chapter 810 - Small Talk Only"
+slug: 0136-chapter-810-small-talk-only
+partOf: hell-difficulty-tutorial
+position: 136
+ownLength: 3370
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3429237/chapter-810-small-talk-only"
+royalRoadId: "3429237"
+---
+
+Minutes after the mora called Vlad died, and after many more smaller fights, I find myself floating here, and detecting no more living signatures.
+
+I feel lightheaded, and there are wounds covering my body. Even though I have plenty of healing marks from Lily, I don't use them. While keeping my guard up and senses monitoring the area, I comb through the debris, searching for anything that could be Talnium.
+
+Passing by where Vlad’s body floats, I reach for his bone swords and grab them. The moment I touch them, a scan washes over my body, searching for something. When I don't fit the criteria, the swords break and turn to dust before my eyes.
+
+I watch said dust float through the void before turning around to face the planet, whose day side I can now see.
+
+Here, outside of the atmosphere that would normally reduce its intensity, the light is even brighter and the temperatures even higher. Just maintaining the barrier around me drains a surprising amount of mana. As for the planet, it is just like the part where we found ourselves, sand piled upon sand with no mountains or seas. Right in the center of the planet, there is a zone that seems hotter than any other, where the sand has slumped into a thick, glowing sea of molten glass.
+
+There is also something surrounding the entire planet. Not near the surface, not even here in orbit, something even higher. I don't know how I should even classify it. A field? A domain? Maybe an array or something entirely different? I also don't know what its main purpose is, as it doesn't seem to weaken the light of the nearby star. I just know I can't look at it for too long, and I have to hold myself back from using my eyes.
+
+It’s just difficult to explain. Imagine a planet the size of a baseball, while the sphere surrounding it is the size of a basketball, either hiding the baseball, creating a blockade I refuse to test at the moment, or something else entirely. I can't even figure out what’s powering it or its source, it’s just there, all around us.
+
+As I move from debris field to debris field, I grab any items and materials that look useful. There is a lot of it, so I sell much of it to the system shop, even though I know I’m only getting 10 to 20 percent of the value.
+
+And the entire time, I do what I’ve been doing since I learned about the implant. I continue to observe the bodies and search for any sort of signal that an implant in the brain could send: during the fight, at death, or at its destruction. I tested all these and even paid more attention to the implants of the more important people here. Yet, so far, there’s been no such reaction from any of the implants.
+
+That confirms for me that it is safe to fight and kill these people, and the same will be true for the rest of group four. I killed many of them, and even destroying their space station didn't bring any attention. I have already been floating here for minutes, and no one with any power has come to deal with me.
+
+There are more things I confirmed or suspected back in the tunnels. These people don't avoid killing, as I could see by the mora’s willingness to treat his people as expendable teleportation marks. I also found signs of torture rooms and prisoners on the bigger base. It doesn't change much, but it does give me a bit of peace of mind as it confirms this is one of the more lawless floors.
+
+I also search the planet’s orbital ring for more bases, but there are none as far as I can see, and no other organizations or corporations seem to be coming to check out what happened.
+
+As I replay the fight, I also confirm that even if they can't do what I did individually, Group Four could’ve dealt with these people together. Of course, the difficulty usually ramps up gradually as the floor progresses, at least if you don't just go around poking the hornet's nest, so it’s possible there are stronger people here. The worst are probably the three large Corporations, while the independent organizations are likely weaker.
+
+I should probably throw myself against one of the Corporations to confirm, but there’s no need to do it now. Knowing how the system works, they’re either at the hottest part of the planet or on the dark side.
+
+While floating there and waiting to see if anyone appears, I examine my body, searching for marks that could have been placed on me. I explore some of the pill-like implants I managed to get my hands on and experiment with my new skill.
+
+As with the previous combinations, it seems I still have access to the abilities the combined skills allowed for. It is either because the new skill allows it, or because of the effort I put into training those previous skills, so I wouldn't need to rely on the system to guide me. [Weave] is slightly different from what I expected. I thought it would be a sort of combination of a domain, something that would allow me to move larger amounts of mana outside of my body, and something like The Veil from the 5th floor.
+
+It did kind of turn out like that, but I get the main sense that I can weave things together, just like I did with my blood and [Empyrean Lance]. It was likely made easier because the two related to each other so well, but now I’m sure I could do it with other stuff. I’ll have to give it some thought and do some more experimentation. But so far, I’m also sure I could either create the [Weave] as a thing, something akin to the Veil, and that I can perform the action of Weaving.
+
+All in all, it’s a good and useful skill.
+
+Having mostly confirmed no one is coming, I take the black orb that has, until now, been absorbing all remnants of the mana in the area. I leave a small part of it as I teleport, getting pulled towards my Mana Tree along with all the useful things I’ve just looted.
+
+Once down there, I observe the area for a few minutes. Then, the tree begins to shake and shrink until it becomes a crystal that merges with the one on the back of my hand. Leaving a tiny black orb behind, one I’m sure will break apart soon after absorbing the remaining mana in the air, I walk back toward our cave, dragging the pile of items behind me.
+
+I use a few healing marks, as always admiring the way Lily’s mana can restore even a body like mine.
+
+Once inside the cave, I greet Tess. She’s sitting near Lily, who’s currently working on Tess's arm, which is still mostly bone with bits of scarred flesh. Tess waves back at me, while Lily doesn’t even seem to notice I’m there, she's so buried in her work.
+
+First, I observe the orb with a drop of my blood and find it has been able to power the array I left behind the entire time. It is hard for me to estimate how much mana it contains, but I’m sure that amount will grow as my reserves expand and I strengthen my trait.
+
+I’m certain that if I became a Champion and died, my body would do some truly fancy things to the environment, just like the bodies on the 9th floor did. Would a curious young explorer be able to get close and find mana still clinging to my corpse even decades later? Would the Empyrean Ichor be dried up, or would some liquid remain? Maybe there would be an entire city built around me, using my corpse as a power source.
+
+How cool.
+
+I grab one of the water bottles off the table, take a few long sips, and close my eyes as I enjoy the taste of cold water hitting my parched throat. I even pour a bit over my face and hair, combing through the mess with my fingers.
+
+The pile of items and materials stays where I dropped them as I head over to Izzy. She is sitting on the ground with her back turned to everyone, Noodle’s head resting on her legs. She continues to gently pet him. I sit just behind her and wrap my arms around her in a hug, even though she doesn't turn around or acknowledge me.
+
+"How is he?" I ask.
+
+"It hurts him," she answers simply. "I have to keep helping him through our bond."
+
+"And does it hurt you too?"
+
+"It does, but I’ve decided to take on some of his pain." She looks around. "At least you aren't like Soph, you aren’t trying to stop me."
+
+"Do you want an answer, or do you want to read my feelings?"
+
+"I don't want to read anyone's feelings right now." She turns away again.
+
+"I see." I continue to hug her while I think. "You’re right, I wouldn’t try to stop you. Same as I didn’t stop Biscuit, and the same as I wouldn’t have stopped Aaron."
+
+Her body tenses at those names. I let go and ruffle her hair. "It will be okay."
+
+"How can you know?" Izzy says quietly, lowering her head.
+
+"Because I’m an optimist at hearts."
+
+I stand there in an awkward silence as she offers no reaction. After a moment, I gently nudge her with the tip of my shoe. "Come on, you’ve always liked lame jokes."
+
+"Go away. You say it too often, it isn't even funny anymore."
+
+"I think it is. Show me your face, Izzy."
+
+"Go away!" she shouts, but I can hear the change in her voice.
+
+Still, I do as I’m told. I pull an item from my pocket and read its description.
+
+Aurelia Aegis-Gem (Low Pristine) - A tiny gemstone that grafts itself to the center of the forehead. It acts as an anchor for the wearer's consciousness while also greatly strengthening the body's natural barrier. Any attempt to disrupt the wearer’s mana or internal biological functions is instantly negated, ensuring the wearer remains immune to most forms of cognitive or other interference.
+
+Once I'm in front of Dennis, I stop. He looks at me, smiling brightly, the only member of the group currently wearing such a look.
+
+I hand him the gem and watch as he reads the description. His emotions bleed through as he realizes what it’s for, he doesn't even ask for permission before quickly pressing it to the middle of his forehead. When he pulls his hand away, the gem remains there, a blue shade similar to his eyes, shaped like a four sided star.
+
+"They didn't have a different color?" he asks with a smile once he’s finished. I don't even have to be Izzy to know what he’s doing.
+
+"They just ran out of pink," I say.
+
+"Well, maybe next time." Then, in a quieter voice and without the smile, he adds, "Thanks."
+
+POV Earth
+
+Small Talk Only - Live Podcast
+
+10 million concurrent viewers
+
+The podcast starts as it always does. There’s no intro music, chimes, or animation. The blacked-out screen simply opens to reveal a young woman sitting in an armchair set at the center of what looks to be a living room, the sort you would see in the average house. On one of the walls hangs a framed photo of a cute dog, and on the table next to her sits a microphone and a bottle of water.
+
+Her guest isn’t yet visible, as the camera is currently focused on her half of the set.
+
+Faye Hard, one of the most watched podcasters in the world, gives the camera a tiny, almost shy smile. She’s in an oversized hoodie and lounge pants, looks like she just woke up. With her "host personality" switched on, she leans into the mic, a tiny, mischievous smirk playing across her lips.
+
+"Welcome to the Small Talk Only podcast," she says in her soothing voice. "The only show where we promise to keep things light and then immediately fail. We said 'Small Talk Only,' but we lied. Well, I lied. I see there are quite a few of you today, over ten million people watching us live. That’s a humble thirty times our average viewership."
+
+She lets the silence hang before her smile widens. "But I guess that’s my fault for the early announcement regarding who my guest today would be. Even though I didn't give his name, what he represents would seem to have been enough."
+
+For the first time, the camera begins to gradually pull back, revealing an extremely handsome young man sitting in the opposite armchair, wearing homey clothes similar to Faye’s. The man has bright blonde hair and deep blue eyes. When he smiles, his dimples reveal themselves in what seems like a coordinated strike.
+
+"Welcome to Small Talk Only, Rafael. Can I call you Rafael?"
+
+"Thanks for having me, Faye. And yes, please do."
+
+For the briefest moment, Faye blushes, but she quickly clears her throat and sits up straighter in her chair. Thousands of people will notice the slip, discussing the reaction on social media for hours, though no one will know for sure if it was an honest response or a performance to drive engagement.
+
+"And your friend is..." Faye points toward a dog sized spider revealed as the camera pulls back even further. The spider stands on the floor, one of its legs tapping against a broken vase it must have destroyed.
+
+Once it notices the attention, the spider quickly scuttles back a few steps. It stands up on its four back legs and lifts its upper ones, spreading them wide in a threatening display while swaying from side to side.
+
+Rafael smiles at the sight, seemingly unaffected by the creature or the millions of eyes on him. "That’s Septa. She is... well, she’s here to keep an eye on me. She won’t hurt you. I’m guessing you have pets of your own, Faye?"
+
+Seemingly unbothered, the host smiles as if a giant spider were the most common thing in the world. She gestures to the painting on the wall. "I have a cute Maltipoo named Vivi." Her voice lowers as if sharing a secret. "She and I both awakened not that long ago, Rafael. Tell me the truth, am I going to wake up tomorrow and find a horse sized dog in my kitchen?"
+
+Rafael breaks into a genuine laugh. He brushes a golden lock from his forehead, looking devastatingly handsome as he does. "Honestly, it’s a difficult thing to say. It’s possible she’ll grow. It’s also possible she’ll shrink."
+
+"Wait, like a forever-puppy?"
+
+"Could be."
+
+Faye leans forward, her expression turning dead serious. "Rafael, I love Vivi. But I would sell the souls of one, no, two percent of today’s viewers, if it meant she stayed a puppy forever. I think she’d understand the sacrifice."
+
+"I think your viewers would find it a fair trade," Rafael counters smoothly.
+
+Faye chuckles, but then her eyes go cold and focused. The "innocent girl" mask slips, revealing someone sharper. "This is the first time we’ve been promised actual answers regarding what’s been happening all across the world. Something more than rumors and leaks. Finally, the President, Congress, and our world leaders have allowed some direct info to leak out, and they’ve sent you to speak on my podcast of all places."
+
+"They did," Rafael nods, his gentle smile remaining.
+
+"People are scared, Rafael." Faye is serious now, her playful mood gone. Her eyes narrow slightly, observational and sharp, as she questions the man opposite her.
+
+"I’m here to help with that, Faye. No need to be shy. If there’s something I’m not allowed to answer, I’ll tell you to your face."
+
+"Then pardon my bluntness. Why now?"
+
+"There’s someone I’ve been working with recently who’s pressured them into allowing this. He’s of the mind that information should be released gradually. So, it’s possible we’ll be meeting again, if you’ll have me, so I can share more. Today, I’m here just to answer a few of your questions, as I’ve come to believe that doing so piece by piece will be best, so no single truth gets drowned out by the others."
+
+"This person you’re working with... who is he? Did he create these towers that have been appearing all over the Earth?"
+
+Rafael laughs shortly, in a way that makes him seem both innocent and charming. "While he would prefer for his identity to stay a bit more... well, private, he realizes it’s impossible with so much footage already out there. His name is Christoph. Some of you have probably seen him in one of the many videos. And yes, the towers are his."
+
+"So, are you telling me, and all the people watching, that all the things we’ve seen people doing were true? Please remember your answer is basically coming from the Oval Office right now." She pauses and chuckles, "Though you may be a Canadian."
+
+He waits for her to finish, his calm never wavering, and he even flashes another smile, "I might be a big, scary Canadian, but I’ll be making appearances like this all across the world. As for your question, I can confirm that. I can also confirm that many of the things you’ve gotten to see were just the start. People will become even more powerful."
+
+"That... is a lot to swallow for a Tuesday," Faye says, her voice flat but her eyes glinting with interest, and for a moment glancing over at the spider.
+
+"I understand. It’s one thing to see it on a screen and another to see it in your living room. Thankfully, we have some time, and people have the opportunity to get used to them gradually. Following today, more information will be shared regarding 'returnees', those of us who awakened before everyone else on Earth. Those people will be appearing more in public, too."
+
+"‘Have some time’... that sounds a bit scary, Rafael."
+
+"I won’t lie and say all is well. The world is changing, and there are dangers that come with that change."
+
+"Are you talking about an invasion? I think some people on the internet have been calling it 'The Pairing'?"
+
+"Yes. That."
+
+Faye leans back in her chair, crossing her legs with a smile. "You don't want me to ask more about that."
+
+"I would appreciate if you didn't."
+
+"Ha! With a smile that charming, how could I ruin the vibe by being so nosy?" Faye laughs, but she’s already pivoting. "How are you spending your days lately, Rafael? Are you enjoying the weather?"
+
+"Would you believe me if I said I’ve been spending a lot of my time taking care of a cat lately?"
+
+"You know what? I would." Faye laughs, her green eyes glinting with interest once again. "May I ask you something more serious?"
+
+"Please."
+
+"The public is scared of people like you. They’re afraid of you losing control, or worse, deciding you don't need to listen to 'normal' people anymore. Can you say something to the people who’re currently terrified of their neighbors?"
+
+"That’s why I’m here." Rafael adjusts his sleeve, glancing briefly at Septa, who breaks another vase, before looking back at Faye. "The place we were sent served to help us control these powers and to learn about them. In exchange, we can teach the people here on Earth and protect them. I won’t lie and say there won't be individuals trying to take advantage of this, but they will be dealt with. By us. Christoph has already sent a message to all those who’ve returned. There won't be any more incidents. And one more thing, Faye, it isn’t 'us' against 'you.' We are all people of Earth. The same powers we have are awakening in each of you. We just got a... well, a tutorial on how to use them."

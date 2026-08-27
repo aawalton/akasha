@@ -1,0 +1,301 @@
+---
+id: 84b69f39-2519-5571-8157-924a3bcac42a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12"
+slug: 0012-chapter-12
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 12
+ownLength: 3287
+unit: words
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2704522/chapter-12"
+royalRoadId: "2704522"
+---
+
+Chapter 12
+
+Veron woke up with a start, seeing the unfamiliar ceiling and room. There had been a monster, a bear, something like that. He didn't know where he was, but he was alive. And he was thirsty.
+
+Thirsty and weak. He felt like he had been hit by a truck, feeling a dull ache in his entire torso. His right arm hurt a little more. He checked himself and realized that he had been bandaged.
+
+I was looking for plants, for herbs. And then...
+
+He clenched his fists, the memories of the massive creature coming back to him. An actual bear, a brown bear or grizzly, with earth magic too. It had been injured, which probably was the only reason he was still alive.
+
+Holy shit.
+
+A noise to his left made him turn and he saw Ian sitting on a chair next to his bed, the teen asleep with a pillow propped under his head.
+
+He came to check on me? He glanced to the other side of the room where a few windows lined the wall. The sight beyond seemed familiar. He was at the inn.
+
+I must have made it back then, I don't remember that at all.
+
+He lay back down, feeling a little lightheaded from the exertion.
+
+“Hey,” he said, glancing at Ian.
+
+The teen moved and woke up, his eyes opening wide before he pointed at Veron. “You were nearly dead! Why did you do that!”
+
+Veron looked at him for a long moment and then closed his eyes. “Yeah. Sorry about that, I didn't exactly plan to get into a fight with a bear.”
+
+“What is a bear? Mom mentioned something called a Navorok. And that you weren't supposed to be alive. The fact that you killed it is apparently very impressive.”
+
+So that's what a bear is called here.
+
+“That thing was massive, could fill half this room.”
+
+Ian stood up with a jolt. “I was supposed to tell Warren when you wake up!” And with that, he rushed out the door.
+
+Veron lay there and sighed. Made it out alive. I’m pretty sure that was a close one.
+
+A few minutes later, the entire population of Eyra stood in his room.
+
+“Guys, I'm starting to wonder if I should be worried,” he said and paused to catch his breath.
+
+Ivera narrowed her eyes at him. “That Navorok was not supposed to be there. And those injuries, did you inflict those?”
+
+“You should let him wake up properly,” Warren said as he walked up and touched Veron’s brow. “How do you feel? Is the pain manageable?”
+
+“I feel pretty weak, and there's some pain in my right arm but nothing too bad. Was it you who took care of me?”
+
+Warren gave him a slight nod. “I'm glad you made it.”
+
+“Yeah, me too. Thanks, I was so close to getting one of those herbs for you.” He laughed weakly and coughed. “I guess that's the kind of adventure I signed up for. It's good to see you all.”
+
+He took a moment to look at them. Ian’s worries had changed to excitement. Aren seemed calm, Tenya looked intrigued, but Ivera, she looked tense.
+
+“You found it then, I assume? Most of the injuries aren't from me, it wasn't moving straight from the beginning. The spear went through its stomach and I'm pretty sure I stabbed its head in the end.”
+
+“Stabbed its head!” Neva exclaimed, her head barely reaching over the side of the bed.
+
+Aren laughed and grabbed her. “We'll leave the details to you. Good to see you’re back, Veron.” He smiled and left with the girl who giggled and repeatedly shouted something about stabbing.
+
+Ivera seemed lost in thought. “That is bad news. The Navorok is dangerous as is. Something attacked it, made it leave its territory. There is nothing in the region that could do that.”
+
+“Blood or chaos beast?” Warren asked.
+
+“Few blood beasts I know about would dare attack a Navorok. They are not easy prey. And they don't regularly leave their dens either, not so close to winter. For it to come here instead of retreating back into its burrow or cave, it means that it couldn’t.”
+
+Warren sighed. “A branch of a dungeon? Here?”
+
+“There have been more chaos beasts recently. Not to an alarming degree but coupled with Veron's findings, it may be possible.”
+
+Warren didn't seem pleased. “Will you investigate? Or do we have to try and hire a team? I don't think either Lyrie or Leiveen will provide a lot of funds for a dungeon branch this remote.”
+
+“I will investigate, see if our concerns are warranted. After that, we'll see. I could call in some favors but let's talk about that once we know more. Veron, well done on staying alive,” she said and promptly left.
+
+“Well, this is quite something. Not exactly the kind of excitement I would expect from Eyra,” Warren said. “Veron, you should rest and recover. And you should check your Path, if you've absorbed the essence of a Navorok, it should have made an impact. And let me know when you feel ready to go out there again. If you can find any more Mountain Stars, you could even start paying off what you owe me for saving you, and for the room.”
+
+“And here I thought you saved me out of the kindness of your heart.”
+
+Warren gave him an amused look. “Maybe I did. And maybe I know to seize an opportunity when I see one.”
+
+“There were a few more flowers. You're lucky that thing attacked me before I was done collecting.”
+
+“At the very least you have the humor of an adventurer already. Recover and call for me if you need anything,” Warren said, glanced at Tenya, and left, the young woman following with an intrigued look back to Veron.
+
+Veron breathed out and looked at the last remaining person in the room. “Done with the interrogation.”
+
+“Sorry.”
+
+“Nothing you need to apologize for, Ian.”
+
+“Did you check your Path already?” Ian asked.
+
+“Not yet.” Veron said and looked inward.
+
+Elemental Path [Weak]- Harmony of Earth [Beginner III]- Harmony of Wind [Faint I]- Hidden Harmony [Faint I]
+
+He smiled. “Would you look at that, he wasn't wrong.”
+
+“Did your Path get stronger?”
+
+“It did. I am officially no longer a Feeble Path.”
+
+It felt like an achievement, like the near-death experience and mauling he had received wasn't for nothing. He still felt weak and battered, so his excitement was limited.
+
+Ian smiled from ear to ear. “That's the first big step! You did it! And faster than most, I think.”
+
+Veron reached out and touched the teen's hand. “It's not a race, you know? So, any idea what it means? I don't feel majorly different.”
+
+“It should feel different. Maybe you're just too injured still. You should be stronger, and your Focus should have changed.”
+
+Right, I forgot that he doesn't have a Path yet.
+
+“Can you open a window? Then maybe I can try to feel the wind.”
+
+Ian practically jumped up and rushed over to the windows, opening them one by one. Then he looked at him with expectant eyes.
+
+Veron smiled at seeing the enthusiasm, and then he closed his eyes and listened, focusing first on his breath that still came out a little ragged, and then he heard the gentle flowing wind beyond, moving past the long building of the Downwater Inn, through the leaves and past the branches, down through the valley and towards the wilderness and mountains he had yet to see.
+
+He breathed in and out, and found that his focus didn't break as it used to after around half a minute. He stopped focusing on the wind before he exhausted himself and blinked his eyes. “There's a lot more of it. And it feels... more natural.”
+
+Not like a muscle I've never used before, but a muscle I have trained for some time.
+
+Ian crossed his arms.
+
+“You're disappointed,” Veron said.
+
+“Maybe, yes? I thought it would be more... I don't know, cooler?”
+
+Veron laughed. “I get what you mean. But I'm pretty sure that's how things work. Lots of work and small increases and advancements. I'll see how it feels when I've gotten used to the changes.”
+
+Ian sighed. “I thought being an adventurer would be way more exciting.”
+
+“Maybe bring me a bag of rocks so I can test how it all feels. Who knows, you might be the owner of a set of armor sometime soon.”
+
+Ian smiled brightly and rushed away. “I'll bring you the rocks but I'll have to catch up on work after. I'll be here for dinner, if you want to!”
+
+“I would be happy to have you here,” Veron said. “Thank you, Ian.”
+
+Ian glanced back at him after he had opened the door. “I'm glad you didn't die.” And then he rushed out.
+
+Me too, kid. Always wanted to call someone kid. Like some experienced adventurer.
+
+He looked at his hand and saw it shaking.
+
+Not exciting enough?
+
+Slowly, he breathed in and out, calming himself down, letting himself feel the terror of fighting for his life, the fear of death, the fear of pain, the irritation that followed, at the world, at Envolon, at the bear, and at himself, for agreeing to all of this, for wanting to grow and experience as much as he could.
+
+It was a lot. And not just fear and anger.
+
+He had felt it, hadn’t he? The power to stand and fight back against a monster like that. Something so simple, and raw.
+
+And he felt intrigue at Ivera’s words, about why the bear was where it was. He would have to ask about the dungeon branch they mentioned.
+
+Maybe I’m enjoying this more than I expected.
+
+He looked at his hand. Right now, he was injured still, recovering. And even with that, he mainly felt excited to get back to his magic. To see how much he could do with his strengthened Focus.
+
+He breathed.
+
+But right now, you are here.
+
+Slowly, he looked at all the feelings, considered them, and then let go, relaxing more and more while listening to the wind outside. It would take a while to process everything, and to recover.
+
+But he was alive. And he was tired.
+
+Veron woke up for dinner but slept again soon after. The next day was similar, and the day after that too. It was raining on the third day but he could tell now that he was getting better. Ever so slowly.
+
+Ian had brought several bags full of rocks and breakfast stood on his night stand.
+
+I love these people.
+
+He had taken some of the bear’s essence, they bandaged him and he smelled some kind of herbal balm. And yet, the fact that his recovery so far felt very similar to a recovery on Earth amused him.
+
+What if I had access to more essence to absorb? Could I just heal back from this in a few minutes?
+
+He wondered what other ways there were to heal in this world of magic. There had to be other ways. Who would have access to them? How powerful would someone have to be to afford them?
+
+One of the windows was slightly ajar, giving him the ability to listen and focus on the wind outside. It was soothing, as was the pitter patter of the rain. And it gave him something to do, still feeling far too weak to get up.
+
+Didn't think that's a part of what magic would do for me. Help alleviate the boredom of recovery.
+
+He could tell that his Focus had at least doubled. He fell asleep again, wondering how exactly shaping wind would look like.
+
+The days after, he no longer felt quite as exhausted. Which meant he entered the period of recovery that was the most boring. Unable to move around much but unable to sleep as much either. So he moved his attention to the bags of rocks, slowly molding bits and pieces together to recreate a set of gear very similar to the one that had saved his life.
+
+It felt grounding, to choose each piece and add it to something bigger, each movement filled with care and attentiveness. And when his focus started to waver, he stopped himself and sat back down on his bed to breathe and recover, using his remaining Focus to listen to the wind.
+
+It felt like he reached Faint II and III in no time, by now feeling strong enough to walk around in his little room. A few weeks had passed. He was done with his gear and now worked on Ian’s.
+
+He was faster with his shaping, and he had more focus to work with. Around two point five times as much. He couldn't recover it back in an hour anymore. It took longer now, a little more than one and a half hours.
+
+He set another piece of rock into the growing chest armor and then sat back on the floor, looking out the windows. It was raining again. He had a little Focus left but would probably spend it on listening to the wind. His injuries left him mostly stuck in his room but when he focused on the winds and felt its flows and underlying power, he no longer felt stuck at all. It made him want to go out there and explore, follow the winds wherever they took him.
+
+He found that he didn’t feel conflicted at all with going out there again. Despite the fear he still felt.
+
+It had surprised him at first, to an extent at least. He understood the allure of facing one's fears, exposing oneself to risk, but the risk of being attacked by wild beasts was far beyond anything he would have considered before.
+
+He could see why people did extreme sports or participated in martial arts but he had always deemed the risk of injury a little too high. Maybe he would have tried if he’d been more ambitious but as it was, he’d only tried boxing for a little while.
+
+But this felt different.
+
+Prevailing against a chaos beast felt like a net positive. Nobody else would have to face it and nobody would miss it. Which still left the danger and risk but he quickly found an answer for that too.
+
+The fight with the bear left him bedridden for over a week but his Path had advanced. Permanently, as far as he understood. An injury in sports could leave someone unable to fight ever again, and it would take months or even years to get back into the same shape. He didn't know how long it would take for him to recover fully but when it came to his magic, he was already stronger than before.
+
+It didn't make the prospects of adventuring any less dangerous, but it tipped the balance in terms of risk. At least for him. As long as he survived, he could benefit, while ridding the world of dangerous creatures. He did like that idea.
+
+Ivera had gone and investigated. She hadn't returned for over five days and when she finally came back, she didn't tell Veron about what she had found, only that it was too dangerous for him and that even when recovered, he shouldn't go out into the wilderness for the time being.
+
+He trusted her judgment and still, he wanted to find out what happened, wanted to explore, he wanted to find out if he could throw around chunks of rock like the bear had.
+
+The reality of the situation was that he was inexperienced and his magic lacked power. Just as much a reality however, was the fact that he could do something about it.
+
+And if he ever came across another Navorok, he wanted to be able to face it head on.
+
+He got back to working on the chest piece that evening. He was nearly done.
+
+“You're faster than before,” Ian pointed out.
+
+“Yes. I'm better at it and I have more Focus to work with.”
+
+“I see. That’s good. I asked mom and dad about dungeons by the way,” Ian said.
+
+Veron perked up. “Go on.”
+
+“So. Apparently, there's a big dungeon below Anvakar. It's the whole reason why the town was built in the first place. A big hole, a webbing of tunnels and layers, full of all manner of monstrosities. They are the main reason adventurers go down there.”
+
+“For essence,” Veron said.
+
+“Yeah, probably. Sometimes, new openings appear, new caverns in the forest are suddenly occupied by chaos or blood beasts that stalk out in the night. That’s what they think might have happened here.”
+
+“So a branch, as they call it, connected to the dungeon in Anvakar?”
+
+“I’m not sure it’s the same one. There are others too but newly found entrances have often led to other sections or dungeons that were already known. That’s why they call them branches. Like a tree, spreading out.”
+
+“Do you think there’s a center? A trunk?”
+
+“I don’t know. Just that people explore and fight there. And that it’s dangerous, even for strong adventurers.”
+
+“Do we know where the beasts come from?”
+
+Ian shook his head. “Mom didn’t say. But I think she doesn’t know either. She also said that it would be better to just collapse all the tunnels and leave them in the depths.”
+
+“Wouldn't they just find another way out? Maybe that's how new branches are created?”
+
+“Maybe.”
+
+“I'll try to find out in the future.”
+
+“You will? So you do want to be an adventurer?” Ian said with an excited voice and then his face fell. “You will leave.”
+
+Veron was quiet for a moment.
+
+“Probably.”
+
+They were quiet.
+
+“Can mom not help you get stronger here?”
+
+“Ivera has shown me the basics but I can tell she doesn't want to drag me around all the time. Even less with everything that happened recently.”
+
+“What if I come with you?”
+
+Veron smiled and stood up. “You don't have your Path yet, and we both know Ivera will want to prepare you herself when you are ready, and if you still want to go down that path.” He raised his hand. “But. If I get strong enough in the future, and rich of course, I'll come back and maybe I can show you the ropes myself. Or I can take you to that academy in Leiveen.”
+
+Ian didn't seem convinced, arms crossed in front of him.
+
+“I could also die horribly in a dungeon and you’ll never hear from me again.”
+
+Ian narrowed his eyes. “You’re not being funny.”
+
+“I know. Sorry.” Veron said and hefted up the stone chest piece. “Either way, you'll have a set of armor to start your journey with. Come on, get it on, I can do a few more adjustments before I finish it.”
+
+“I won't even be able to repair it.”
+
+“Then you better be careful when you use it.”
+
+Ian didn't complain more and was quiet until he left.
+
+Veron wondered if he had said the right things but he decided that being honest and upfront was the best path here.
+
+And even while Veron jokingly promised to come back and show him the ropes or find a way for him to join the academy, he intended to do just that.
+
+He had no idea how feasible it really was, but it gave him something to work towards.
+
+He found that he’d come to care for Eyra, and the people that lived here.
+
+First things first however, he had to make a full recovery.

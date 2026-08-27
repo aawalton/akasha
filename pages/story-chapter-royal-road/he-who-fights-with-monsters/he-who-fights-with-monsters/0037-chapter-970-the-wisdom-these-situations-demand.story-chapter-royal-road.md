@@ -1,0 +1,183 @@
+---
+id: 1ae6ab25-3c5e-5a32-a1ea-19561f7600ef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 970: The Wisdom These Situations Demand"
+slug: 0037-chapter-970-the-wisdom-these-situations-demand
+partOf: he-who-fights-with-monsters
+position: 37
+ownLength: 2939
+unit: words
+ownProgress: 2939
+publishedAt: 2025-03-10
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2118387/chapter-970-the-wisdom-these-situations-demand"
+royalRoadId: "2118387"
+markedReadAt: "2026-06-29T19:05:08.584Z"
+---
+
+“Magic was revealed on Earth,” Farrah began, “when the Engineers of Ascension sabotaged the grid in what was ultimately the action that spelled the end of their organisation. Without the ability to detect and resolve proto-astral spaces across the globe, those spaces broke down and ejected monsters into the world, causing the monster wave crisis.”
+
+She tapped the clicker in her hand and the briefing room’s projector screen lit up with rows of ID photos and names. Farrah’s was at the top.
+
+“My role,” she continued, “was to lead a workgroup of Network specialists to identify and ultimately rectify the sabotage, which we eventually did. I had been studying the functionality of the grid for some time prior to this, using my knowledge of magic from my own world. That said, even in my world, the principles by which the grid functions are rare and not yet fully understood.”
+
+She gestured at the projector screen.
+
+“Aside from myself, what you are looking at are the most prominent Network specialists regarding the grid at the time, recruited from branches around the world to work on the issue. The Network, and its secret society predecessors, had been studying the grid since its inception, but had had critical gaps in their knowledge base. Without fully grasping the fundamentals of magic theory, their progress in every field was stunted. And the grid is based on magical principles so sophisticated they work back around to being simple. At a glance, the grid is so basic that it doesn’t seem magical at all, yet is the most vast and powerful magic artefact I have even heard of existing.”
+
+She gestured at the faces again.
+
+“My grasp of magic and their legacy of studying the grid. By combining our respective knowledge bases, we made more progress in a year towards understanding it than in the previous few centuries combined. Through its study, I became one of very few people to specialise in the underlying theory governing the grid. What is called, on my world, a natural array specialist. The people of Earth in the workgroup became the first outside of Emi Asano to receive systematic training in the core fundamentals of magic. Anyone here who has studied magical theory probably recognises many of the names and faces up there.”
+
+She turned to take a long look at the faces.
+
+“Most of the magical advancements on Earth in the last two decades can be traced back to these people, and those they have subsequently taught. But the one thing they have been forbidden from passing along is knowledge of the grid itself. The grid is critical to the safety of Earth, and the magical wave crisis demonstrated that it could be disrupted.”
+
+“Are you saying that magical knowledge has been suppressed?” Clive asked, anger in his voice.
+
+“Not suppressed,” Anna said. “Restricted. Obviously, an understanding of the grid is required, should it be compromised again. For that reason, a group of researchers continues to conduct research, but their results are strictly contained. Many of the faces up here have been a part of that project, for obvious reasons. Many have retired or moved on, but they are carefully watched and protected, for obvious reasons.”
+
+“Many of them are here in Asano Village,” Natalya said. “They were brought here as part of our investigation.”
+
+“What about the Engineers of Ascension?” someone from the Chinese Network asked. “They sabotaged the grid, so they must have some knowledge of its functions.”
+
+“We’ve studied the EoA’s research into the grid, and it’s all a dead end,” Farrah said. “Monkeys throwing sticks into an engine. It couldn’t lead to what we found in Pakistan.”
+
+“How can you be sure?” the Chinese representative asked.
+
+“Because we have complete records of all the research the EoA ever conducted,” Jason said, and all eyes turned to him.
+
+“Who is ‘we’ in this situation, Mr Asano?” the representative asked. Jason turned in his seat to look the man in the eye.
+
+“Clan Asano.”
+
+“Do you intend to share that information with the global community?”
+
+“If, when and to what degree we see fit.”
+
+The man shot out of his chair.
+
+“I must protest—”
+
+“Then do it outside, so the briefing can resume.”
+
+The man looked at Jason, gulped, then sat back down. Jason turned his gaze back to Farrah.
+
+“One of these faces,” she continued, “is almost certainly the source of these new, artificial transformation zones. Whether they have continued their work off the books or taught someone else who has, the direction their research has taken is very specific. I described the ongoing restricted research into the grid, which is about securing and repairing it. The researchers now in the village have been examining what we retrieved from Pakistan, and we’ve concluded that it is a complete separate research track. This unofficial research has been iterating towards one goal: creating new transformation zones, presumably to harvest reality cores.”
+
+“Do you have any confirmation of that?” an English representative asked.
+
+“We have been working with the Asano Clan in Europe,” Natalya said. “We have found what we believe is the site of a transformation zone in the western Pyrenees, no more than eleven months old.”
+
+“There still could be alternative sources for the knowledge to this, could there not?” a French representative asked. “We know that contact has been made with forces external to our planet. Ms Hurin is not the only potential source of magical knowledge.”
+
+“True,” Anna said. “But while there has been contact with outside forces, doing so is difficult and we have a good handle on the nature of those contacts. Our belief is that someone on this screen either is or can lead us to the perpetrator. While the multi-nation intelligence taskforce has been focusing on the intelligence agencies, Ms Hurin and I have been investigating her old workgroup. More than eighty percent of them are now right here in Asano Village.”
+
+Farrah clicked the control again and most of the faces were greyed out.
+
+“Preliminary vetting of the group has cleared them,” Natalya said. “At least for now, but deeper investigations will continue over time”
+
+“Our focus now,” Anna said, “is on those we could not find. The missing and the dead.”
+
+“Currently,” Natalya said, “the intelligence taskforce is actively searching for the members of the workgroup who have gone missing. We are also checking that the ones reported dead actually are.”
+
+“As of right now,” Anna said, “we are narrowing our focus to several of the missing individuals, and one in particular.”
+
+Farrah brought a new slide, showing just one face.
+
+“Simon McKean,” she said. “He was the head of the Earth researchers, ranked only behind myself in the workgroup.”
+
+“He was from an Australian Network family, like myself,” Anna said. “I knew him for most of my life, before the Network schismed. For all of that time, he was obsessed with magic. Not essence magic, like most of us, but the theory. He was driven by a thirst for knowledge.”
+
+“Which paid off,” Farrah said. “During my time on Earth, he was unquestionably the best native ritualist I encountered. He had a hunger for the magical theory I brought from my world that was borderline unhealthy, but our relationship was rather contentious. He always felt that I was withholding knowledge, and that someone from Earth should be in charge of fixing the grid.”
+
+“Meaning himself, obviously,” Anna added.
+
+“It made for an unpleasant work environment,” Farrah said, “but he was too capable to push out of the project.”
+
+In the front row, Clive raised a hand.
+
+“To what degree do you think your personal interactions have pointed your attentions in this man’s directions?” he asked.
+
+“My first instinct when I found those device remnants in Pakistan was McKean,” Farrah said. “My second thought was to wonder, like you, if my opinion of the man was making me dismiss alternatives. That’s why I’ve had Anna focus on him while I’ve been looking at other options.”
+
+“McKean is not our only strong option,” Anna said, “but the more we look into him, the more he becomes a square peg for our square hole. Farrah and the old workgroup members have been examining what was found in Pakistan. They have concluded that it was definitely derived from their old work, but has seen significant development. All of that work has been highly restricted, as mentioned, to prevent another attack on grid infrastructure, if not something worse.”
+
+“This is something worse,” Jason said, and the briefing room’s air grew heavy with spiritual weight. Silence fell until it lifted, no one discounting the seriousness of Jason’s words.
+
+“Quite,” Anna said. “For a full explanation of why, some of you in here will be attending Mr Asano’s briefing later today, and can disseminate information from there. For now, just accept that this researched was shelved precisely because of its destructive potential. Something that McKean argued vociferously against, right up until the Network fractured. From there, we lose track of him. Our suspicion is now that some Network group, likely a tight-knit cell within one of the emergent factions, has been working on this research ever since.”
+
+“More than anything else,” Farrah said, “he’s the one with the skill to develop this magic. While the other workgroup members are diligent and intelligent people, McKean has talent and drive on a different level. He’s the only one of the group I would consider to have the aptitude to innovate our original research this way.”
+
+“That gives you the basics,” Natalya said. “We’ll be going over specific action plans for taskforce members during the afternoon briefing. The information packets you will all be sent at the end of this briefing have further details regards all our persons of primary interest. There, you’ll find further corroborating evidence our analysts have put together as to why we’re focused on our current targets, including McKean. I’ll be delivering the afternoon briefing, along with Michael Aram. I know some of you have heard about another briefing, being given by Mr Asano. I suggest you put that out of your minds, as if you don’t have an invitation already, you’ll be in a world of trouble if you’re caught anywhere near it.”
+
+***
+
+Jason stood at the front of the briefing room. The seats were full and a number of cameras were set up to provide video footage. ASIS officer Natalie Park was at a control panel off to the side, managing the video feeds, streaming to some of the most influential people on Earth. Natalie kept casting glances at Nik, who had what looked like a scanner from a low-budget science-fiction show plugged into the control panel. The screen looked like something from the eighties, and there was an antenna sticking out, wrapped in what looked like tinfoil. Natalie had been throwing suspicious glances at it since he conjured it from thin air. It didn’t help that Nik had taken to wearing a wide-brimmed straw hat, with holes for his ears to poke through.
+
+The ASIS offer turned her wary expression from Nik, schooling it to professional blankness as she looked at Jason.
+
+“I can’t make any promises, Mr Asano, but this is as secure as we’re going to get the feeds.”
+
+Jason glanced to Nik who gave a short nod.
+
+“Very well then,” Jason said, giving the room another look over. Anna, Danielle and Zara were in the front row, his eyes lingering on the princess. She gave him an encouraging smile.
+
+“Before we begin,” Jason said, “I feel the need to warn you all of certain aspects to this briefing. You all should have heard this already, but I want to reiterate, so as to avoid any claims of ignorance as to what is to come. Firstly, this briefing will be long. I will be giving you the full context of where Earth is right now and what has led us to this point. You will learn much about me, my companions, the other world and also the one on which you live. You will gain a broader understanding of the wider cosmos.”
+
+He took a calming breath.
+
+“Second, if you hold any religious beliefs, you will likely have some aspects of them challenged by what I have to say. Perhaps you can incorporate what you learn into them, or perhaps you will deny what I have to say entirely. You might even have some of your beliefs changed, I don’t know. What I do know is that, whatever your reactions, you should keep them to yourselves. If you try and tell me that your religion says I’m wrong, you’re gone. If you try to tell me that your religion says I’m right, you’re gone. The same goes for any other ideology you might be bringing to the table. I certainly have enough of my own, but this is not the place for them.”
+
+His gaze panned the room, daring challenge, but no one so much as coughed.
+
+“Good,” he said with a nod. “Today, you stay quiet and you listen. I will stop periodically for questions, but I will mostly restrict them to clarifying any terms or concepts I’ve brought up that you don’t understand. Considerable time has been set aside at the end for broader questions, so I encourage the taking of notes. There will be recordings made, for release at my discretion, but any attempts to make other recordings will be dealt with accordingly.”
+
+Over to the side, Nik cleared his throat.
+
+“Any further attempts at recording,” Jason said, and looked at one of the cameras. “Sorry about the fire, Prime Minister, but you were warned.”
+
+He turned his gaze back to the seated audience.
+
+“Now, my warning about religion may have come across as heavy-handed, but one of the first things I am going to discuss is the creation of this universe, and who created it. For context, I’ll begin with who and what great astral beings are…”
+
+***
+
+Standing on the top deck of his cloud ship, Jason blew air through tight lips like a valve releasing steam. The Pallimustus refugees had been returned to Earth. Other concerns, both immediate and ongoing, were in the hands of capable people who would handle them better than he. Shade was piloting the cloud ship away from Australia, the dimensional pirate vessel moving alongside. The pirate captain who had surrendered to Jason was instructing Shade on how to crew it, alongside an excited Nik, Taika and Travis.
+
+Anna and Danielle were likewise leaning on the railing, while Zara was leaning into Jason. They all had stiff drinks, tailored to their respective ranks and poison resistances. Jason’s was so strong that Anna had to shift away from the fumes coming from his glass, itself magically reinforced.
+
+Jason took a sip and winced at the burn in his throat. One of his usual sweet and colourful concoctions hadn’t felt right. After the long briefing session, and longer Q&A panel, he needed something that tasted like it could strip varnish.
+
+“How did I do?” he asked.
+
+“Quite well,” Anna said. “You stayed on topic, and on tone. Mostly. Why is it that I’ve been telling you about consistent messaging since long before you get back, but Princess Zara tells you once and you actually listen? And if you make a joke about what you listen with, I’m throwing you off this boat.”
+
+“Don’t think of it as me not listening to you,” Jason said. “Think of it as you laying the groundwork because I’m a slow learner.”
+
+“I find that answer surprisingly acceptable,” Anna said, then sipped at her own drink. “International relations started out rocky, but they were always going to. They are heading in a better direction now, I think.”
+
+“Common enemies make for quick allies,” Danielle said. “And I’m afraid we’ve got a few common enemies too many.”
+
+“This reality core business is certainly bad,” Jason said. “The vampires and their blood plant things are still out there as well. It wasn’t meant to be this hard.”
+
+Danielle nodded.
+
+“What felt like unstoppable power, when we were weak, turned out to be unstoppable only to the weak. As our power grows, our challenges become commensurately more complicated. Your power, Jason, has left you with more complications than anyone of your youth should have to deal with. Or even my relative youth, for that matter. None of us have had time to develop the wisdom these situations demand. We rely on one another and do our best. What is that thing you used to say?”
+
+“Do the best you can with what you have.”
+
+“Indeed. It seems that you had at least a little wisdom from the beginning.”
+
+“I think you should put all of that aside, for now,” Zara said. “Nothing is on fire; the things that need to be done are being done. You’ve got a boat made of clouds, full of friends, a world to show off to them and a plundered pirate ship.”
+
+She nudged his shoulder.
+
+“You could be worse off, Asano.”
+
+Jason looked out over the Australian outback, red dust stretching out to the coast and blue waters beyond. He took a deep breath and let is out slowly.
+
+“I really could be, couldn’t I? It might be time to put the serious business aside for a while. Have a barbecue or two.”
+
+A toothy leech struggled out from his collar and slithered onto his shoulder before rearing up to release an affirming chirp, like a territorial baby bird. Jason let out a chuckle at Colin’s enthusiasm.
+
+“You tell ‘em, Big C.”

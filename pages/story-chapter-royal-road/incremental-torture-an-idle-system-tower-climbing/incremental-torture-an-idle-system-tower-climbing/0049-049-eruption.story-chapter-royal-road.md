@@ -1,0 +1,145 @@
+---
+id: 15e27dd6-0039-56af-b5a2-07a88ed8157f
+page-type-slug: story-chapter-royal-road
+title: "049: Eruption"
+slug: 0049-049-eruption
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 49
+ownLength: 2123
+unit: words
+publishedAt: 2024-05-31
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1658111/049-eruption"
+royalRoadId: "1658111"
+---
+
+Somehow, Dazurmagon had managed to retain its balance while falling. Instead of collapsing to the ground with only one leg to stand on, the giant was now teetering on its remaining foot.
+
+Which made the next step of Evelyn’s plan rather difficult to pull off.
+
+Impossible, in fact.
+
+That didn’t deter her from pushing onwards, though. Adapting on the fly was a necessary skill in the tower and one that she had gradually improved at. If her foe could remain standing on a single leg, then all she had to do was make sure it had no legs at all.
+
+And so the battle of attrition resumed once more. The hyper boss may have been standing, but there was no way it would have the same level of manoeuvrability as it did on two feet.
+
+Evelyn charged at its shackled foot and swung her hammer with renewed vigour.
+
+I will do this. The first to clear the 16th Floor. And solo at that.
+
+Stony flesh rippled and cracked under the force of her blow, sending shards of Dazurmagon’s body flying in all directions. Evelyn skidded to a halt behind the monstrous giant, but she wasn’t done yet.
+
+Moments after her landing her mana was ready once more. She unleashed another Flashfreeze Flamecharge that sent her hurtling back at her target. Each time her hammer connected, her opponent wobbled a little.
+
+The hyper boss was unable to remain steady. Crippling its movement had been the best course of action, but she knew it wouldn’t remain impotent for long.
+
+While Evelyn had the opportunity she would make the most of it. Back and forth she flew. When there was only two thirds of the beast’s leg remaining, a switch flipped.
+
+It unleashed an unholy roar that shook the arena and froze her in place. The air began to shimmer and she could feel the heat rising. Within seconds the entire area felt like a sauna, the source being the glowing magmatic core of the hyper boss.
+
+Her attacks, or perhaps its own reactions had prompted a change. Rather than allow it to complete whatever transformation it was embarking on, Evelyn tried to bring it down completely.
+
+When her hammer made contact with its body however, she found it had hardened to an unbreakable level. Furthermore, it blasted her with a spray of hot lava that sizzled her skin where it landed. It seemed that she had no choice but to wait and watch what Dazurmagon was up to.
+
+That decision stung. She hated being unable to act. And her inability to fight wasn’t even the worst part.
+
+In front of her eyes lava started to pool and drip down from the hyper boss’ broken legs. Where it trailed it cooled and hardened and within thirty seconds the monster had regenerated both of its feet back to full health. Intact as if nothing had happened at all.
+
+Evelyn let out a yell, but it was drowned out by the rumbling of the Worldshaker. Her silent fury festered as her mind raced to figure out a new course of action.
+
+Of course, she could just repeat her last moves. Break its ankles once again and hope that it had used up the well of energy that allowed it to restore its crippled body. However, she knew it wouldn’t be that simple.
+
+If her own mana reserves could sustain her skills ten times over, there was no doubt that a creature on the scale of Dazurmagon could do the same. Or far more.
+
+She suspected that full regeneration of its limbs was the least of its capabilities. A fear that came true moments later when its glowing orange core began to pulse and the veins of lava that lined its rocky figure lit up like a christmas tree. It pulled its arms apart then smashed its colossal fists together. Evelyn was blasted to the ground by the powerful shockwave, but there seemed to be no further effects.
+
+I need to stop getting ahead of myself. There’s always something more. Every time I think my foes have run down their arsenal of weapons and skills the tower shows me why its challenges are nigh unbeatable.
+
+The first sign of her impending doom was a streak of flame that arced across the crimson skies. The clouds rumbled and parted as a burning comet exploded past. It was headed straight for the arena, though not quite where Evelyn had been blasted to.
+
+Yet that one comet didn’t need to strike her down.
+
+In the following seconds dozens more flaming missiles descended from the heavens towards the red stone of the arena. Despite the magnitude of the hyper boss’ spell, Evelyn wasn’t scared.
+
+In fact, defiance painted itself across her visage as she rose to meet the challenge. Bringing her gigantic opponent to its knees may have been a task she couldn’t conquer - yet - but tanking was her forte. And if she remained standing after the barrage then their clash would begin anew.
+
+When the first comet smashed into the arena, Evelyn was shocked to see a cloud of dust and red stone explode into the air. Nothing had managed to break that sturdy floor.
+
+Until now.
+
+Dazurmagon’s skill was a calibre above his physical strength. Despite the hyper boss’ looks, it seemed it was just an advanced form of the magma elementals which populated this floor. It made sense, given its core and the construction of its body.
+
+However, it did not bode well for Evelyn. Her stable footing, which she had only just regained, was a struggle to maintain amidst the ground shaking storm of comets.
+
+She was still yet to experience one firsthand. Of the many which had smashed into the arena, none had struck close. That would soon change.
+
+Evelyn glanced up and spied the largest comet of all. Five metres in diameter, it dwarfed her. It would level a small city back on Earth, let alone a single woman.
+
+And yet she would have to take the hit head on. Of all the battles she had fought in the tower this would not be the most gruelling, but it would take the heaviest toll. With just seconds until the impact, she planted her feet and braced her legs. Every muscle in her body tensed as it prepared to accept Dazurmagon’s comet. Each facet of her mind was screaming a single thing with focused intensity.
+
+I will not fall.
+
+Sparks flew and the air turned opaque from the blistering heat of the comet as it smashed into her. There was a mighty groan as her skeleton absorbed the colossal force of the impact. True to her will though, Evelyn did not fall.
+
+Yet that did not mean she was unharmed. She had halted the majority of the comet’s momentum by sacrificing her body. Half of her ribs were cracked. Every inch of skin on the front of her body had been charred black and the fat below was sizzling. If her nose hadn’t burnt off, perhaps she would’ve gagged at the foul smell.
+
+After ten seconds of struggle, as her insides began to cook and blood streamed from every orifice, Evelyn finally halted the comet’s advance. It fell to the ground, peeling what little skin remained on her palms away as it did.
+
+Overwhelming pain, beyond anything she had felt, assaulted every inch of her. There was no room for thought. All her mind could do was cling to a single mantra in order to maintain her sanity and strength.
+
+I will not fall.
+
+However, reality has a cruel way of disappointing us. Not content to allow its comet storm to obliterate its foe, Dazurmagon shook the arena as it stomped towards her.
+
+While she could barely register the sounds in the corners of her mind, Evelyn had no spare focus to avoid the incoming blow. The stony fist of the hyper boss smashed into her, showering the red stone floor with what remained of her body.
+
+All that was left after its strike was a single charred foot, stuck to the stone by virtue of a melted sole. The magma giant did not take any satisfaction in its victory, only turning away from the slain pest and resuming a silent vigil of its domain. Evelyn had fallen.
+
+Or had she?
+
+~~~
+
+All the pain had vanished. She was somewhere dark. Beyond dark. There was nothing in this place but her consciousness. And it held only one thought.
+
+I will not fall.
+
+With the mantra as a base, her mind expanded. Piece by piece it returned to her until it became whole once more. However, she was still in that endless abyss.
+
+Where is this place? I remember surviving the comet. What happened after that? I suppose Dazurmagon pulverised me. I finally bit off more than I could chew. It’s strange, but my mind feels looser here than it did in the tower.
+
+I had thought that being there was influencing me. In more ways than one. My desire to overcome the trials of the tower and newfound determination were wonderful, but it also instilled something far darker within me. I suppose that isn’t my problem anymore. Then again, with the description of Soul of the Unstoppable Conqueror, I wonder…
+
+Am I dead?
+
+A thump echoed through the silence of the dark. It pulsed from everywhere all at once, and yet nowhere. Seconds passed, and then there was another thump.
+
+Evelyn became aware of a tingling sensation. Feelings from beyond the abyss flooded her mind and with a blinding flash she was transported out of the abyss. Her head pounded as she opened her eyes, but she didn’t think she had ever been so happy to see the hellish terrain of the tower.
+
+I will not fall.
+
+There were a few seconds between her eyes opening and her actually being able to see. Her thoughts seemed to lag, but her mind corrected itself and Evelyn found she was lying at an awkward angle at the bottom of a molten crater.
+
+Looking up, she saw the hyper boss standing still, like a flaming statue. It was looking in the opposite direction and believed her dead judging from its inaction.
+
+Your class has advanced!
+
+Unyielding Warrior Lv.13 > Lv.14
+
+There would not be another chance like this. Despite knowing that her earlier attacks had been rather ineffective, Evelyn was determined to have a shot at the Worldshaker while its back was turned. Her flesh and bone was still raw from being regenerated, but without pushing herself to the brink once again there would not be a hope of victory.
+
+Fifty metres. Can I make it? Almost double my previous record. I have the mana, but the determining factor will be whether my body can hold up. There’s no choice but to try.
+
+Evelyn started to pull on her reserves of mana. Not content to let her body work alone, she willed it to suck greater quantities than ever before. She imagined a black hole, or a whirlpool. Dragging the energy in and gathering it at a single focal point.
+
+And she didn’t stop until three quarters of her mana was condensed at the centre of her body. This would be the most powerful activation of her skill to date and she hoped it would pay off.
+
+She pulled the warhammer from her inventory - she had stowed it there right before taking on the comet. With this much mana there should be no problem forcing it to take on the frost. And while much of it still refused to pass beyond her skin, a few motes stuck firm.
+
+A layer of ice coated the weapon and a satisfied grin crept across her face. All the elements were in place, and her coup de grace was ready to go.
+
+Her usual battles saw a battle cry accompanying her charge, but this time she had no desire to alert her foe to her presence. So it was in relative silence that Evelyn was launched from the ground towards the back of Dazurmagon the Worldshaker’s unsuspecting head.
+
+Ten metres, then twenty she flew. When she reached the thirty metre mark her breath caught in her throat. And yet upwards she continued to soar.
+
+In fact, it seemed as though she had overcompensated. Her charge peaked at fifty five metres, leaving her hovering five metres above her target. That wasn’t a problem.
+
+Evelyn gripped the icy hammer tight and raised it high as she descended towards the stony skull of the beast. Here, she did unleash a roar of rage and power as she swung her heavy weapon at her hated foe. Moments before it connected, the giant’s head started to move.

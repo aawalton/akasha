@@ -1,0 +1,123 @@
+---
+id: 2d38ebe7-5bee-571c-9128-06edacfcbd07
+page-type-slug: story-chapter-royal-road
+title: "Chapter 719 - In sync"
+slug: 0044-chapter-719-in-sync
+partOf: hell-difficulty-tutorial
+position: 44
+ownLength: 2084
+unit: words
+publishedAt: 2025-12-24
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2877652/chapter-719-in-sync"
+royalRoadId: "2877652"
+---
+
+I only spend two seconds looking at the guards panicking behind the barrier before turning to Lily. “I’m going to look for Minion. I’ve tied a [Ley Line] to you so if anything happens, just pull on it and I’ll come to help.”
+
+Before I fully lift into the air, she calls, “If she needs help, just teleport me there!”
+
+I acknowledge it with a nod before boosting myself high into the air, then repeat the process a few more times to gather more speed as I head toward the highest point of the cupola. With my speed, it doesn’t take long. High up there, I reach for the mana inside my body to power a wave of perception that I send rippling out through the area in a single powerful pulse that encompasses the entirety of the fifty mile radius.
+
+It is my first attempt at sending out such a wide area scan, but I use enough mana to make it work. The problem is the thousands of mana signatures I detect, as well as some stronger people inside who take notice and start trying to track me down.
+
+I send another wave, which I modify on the spot, this time narrowing the search conditions even further after noticing the differences between all of the signatures. A big part of my mind in the background goes into overdrive and deep [Focus], and it combs through all of the results and their locations before the final result comes to me.
+
+My mind snaps back into place, and I feel the strain it took, then I turn myself to fly in that direction. While I do, a smaller part of my mind is already sorting through ideas regarding the modifications I could be making to my wide area scans to make them more effective.
+
+I detected Minion’s weak mana signature in a small house on the edge of what I guess is one of three smaller villages. There are four more signatures there with her, too, likely her gang. But before I get close to the village, a man and a woman fly into the air, preventing me from going further.
+
+They’re wearing black uniforms, with a single small gem embedded in the middle of their foreheads, surrounded by faint inscriptions. It seems to serve the purpose of making their faces unrecognizable and disguising their true signatures. I only manage to see through it thanks to my Iris.
+
+They seem to notice the Champion’s mark on me, but still get in my way. “Please identify yourself,” the man says.
+
+His tone irks me, but I just say, “I’m here with the healer, both of us are here from the tutorial on a Beyond quest. Magistra Elaren probably informed you of our presence. Now get out of my way, I have to check on someone,” I add.
+
+He doesn’t even blink and answers flatly, “I will ask you to allow us to perform a more thorough examination of the mark that’s been placed on you. Magistra isn’t aware of it yet, but we had intruders in the area who bore imitations of her marks in attempts to infiltrate.”
+
+“Okay, but later,” I wave it off and push myself to fly between them, when a light flashes from him, and I reflexively raise my mana to deflect whatever he was trying to do.
+
+My flight stops, and I lift my eyes back to him, which turn cold as he says, “I told you to stay put.”
+
+They both stare me down coldly, and I feel my patience run out right then and there.
+
+Looking at him, and acting without hesitation, I raise my mana, and they do the same, trying to match my speed to activate their skills. But neither of them is even close, despite being at a level similar to, if not higher than mine.
+
+In a split second, I channel and compress multiple times the mana they both have combined. Boosted by kinetic energy, two arrows made of black mana shoot toward them, easily tearing through any mana-based defenses and piercing the man’s side and the woman’s leg.
+
+They both move to remove them but find their mana being sucked away, as their flight falters at the same time. In addition to that, the area drains of the pale red hue that fills this place within the barrier, and I disrupt their attempts at activating their skills. One after another, I observe them and break their efforts apart before they can activate.
+
+As they fall toward the ground, I push them faster with bursts of kinetic energy until they hit the ground hard, tearing up the earth in a blast of dust and debris.
+
+Not giving them another look, I boost myself again. In a few seconds, I reach the place where I sensed the signature. It turns out to be a small house that looks old, if still solid. I notice a few traps placed around and watch as one activates the moment I step in front of the door. A mana-based attack flashes toward my head, clashing against the mana I’ve raised in defense. A single pulse from me wipes out most of the other traps that’ve been placed nearby.
+
+My hand stops halfway toward the knob in a moment of hesitation. After all, the signature I sensed from Vega felt so weak and sickly.
+
+I push that thought away and open the door, only to be greeted by a blast of kinetic energy to the face. Using Lioren’s Steelroot, I endure it and step into the room, saying, “I’m almost hurt, Minion. Such a terrible show of perception, failing to recognize your master. That’s not very common even among minions.”
+
+Vega is the only person in the room standing. The rest, consisting of four other kids, are lying on the beds nearby, struggling to breathe and unconscious.
+
+My minion’s eyes are hazy, and sweat clings to her forehead, making her hair stick to her skin. Even so, she smiles. “That was a welcome for an intruder on private property.”
+
+Her voice is weak, and I can see she’s barely standing. Still, she stays upright, gripping a dagger streaked with dried blood from her earlier fights. Wounds mark her body, too.
+
+In some ways, her condition looks worse than any of the kids lying unconscious. Yet this small thing still stands tall, trying not to show any hint of weakness, but I can tell that the kinetic attack she hit me with must have drained her, especially in a state like this.
+
+I pull on the line connecting me to Lily to give her a signal, and she pulls back, letting me know she’s ready to be teleported to me.
+
+“You should rest for a while, Vega,” I tell her gently, taking a step closer.
+
+She just looks at me stubbornly. “I have to take care of my minions, they’re too dumb and weak to take care of themselves, and I'm responsible for them.” Then her expression softens, sadness flickering across her face as her voice weakens to a whisper. “I know you’re fake, just like before, and I’m hallucinating again. I just wish I could see you again, Master."
+
+As she stands there, her body sways, held up by sheer willpower, but she seems to be running out if her fragile voice is anything to go by, "Am I really going to die like this?”
+
+The sight reminds me how weak she’s become and how terrible the past days must have been for her. Otherwise, Vega wouldn’t be in a state like this. She wouldn’t be talking like this.
+
+A few steps bring me closer. I reach out and place my hand on top of her head before she can attack me. Frozen in surprise, she looks up at me with tired eyes and manages a small smile.
+
+“So warm, just like Mas…” she starts to say, but I don’t let her finish.
+
+Using kinetic energy, I gently shake her, knocking her unconscious before she can fall on her own. I catch her body and lift her up, realizing that she’s lost weight too. Her body is in a similar state to what it was when I saw her for the first time.
+
+Finally, I pull on my [Ley Line] and teleport Lily to me. She appears and immediately looks around, spotting Vega in my arms, then rushes closer to place her hands on the young half-demon. Lily doesn’t say a word. She focuses completely, channeling her healing mana into Vega to ease her symptoms, and then continues examining her for several minutes.
+
+“It’s weird,” she finally says. “I’ll need more time, but I’ve already healed her. I’m just not sure if it’ll come back.”
+
+“That much is fine for now. Thank you, Lily,” I tell her.
+
+Leaving her behind, I step outside, lifting the second seal on my heart and generating more thermal energy, which I redistribute into mana and store in the halo above my head. I give up on form and focus purely on functionality, so I don’t shape it into a crown, and leave it in the form of a simple halo.
+
+Turning toward the place where I met the Magistra’s people, I reach in that direction with a will that turns sharp and cold. Two projectiles made of black mana tear themselves out of the bodies of the man and the woman, and fly at high speed toward me until they come to an abrupt stop as if slamming into an unseen wall. The black projectiles swirl and melt together before forming into the shape of an orb of darkness.
+
+A deep breath. The image of my disciple barely standing on her legs flashes in my mind, and I reach out and grab the black orb in my fist. The pressure around me rises as my passives and active skills activate together, and my eyes start burning inside their sockets.
+
+I squeeze tighter, and a shockwave and a deep thump bursts through the area, kicking up dust, shaking the leaves of the nearby trees, and sending a ripple through the yellow grass.
+
+When I open my hand, the black orb is gone. Instead, particles of mana hang in the air, sucked toward the spinning mana halo above my head.
+
+[Mana Manipulation - lvl 72 > Mana Manipulation - lvl 73]
+
+[Accumulation - lvl 19 > Accumulation - lvl 20]
+
+[Eclipse - lvl 50 > Eclipse - lvl 51]
+
+[Eclipse - lvl 51 > Eclipse - lvl 52]
+
+I take a step and appear in the air above the man and woman, right next to the mark I placed on them. They freeze in midair, held in place by my [Redistribution] and by the disruption working against their dwindling mana reserves. Taking my time, I circle around them and stop in front of their faces, letting their eyes move so they can see me clearly.
+
+“You will bring every person working with you and Magistra Elaren to the place we met for the first time. You have one hour. After that, I will track you down,” I say, releasing my hold on them before teleporting again and reappearing inside the house. Lily is already laying an unconscious Vega on one of the beds and healing the other kids.
+
+“Savant?” I ask her.
+
+Glancing up, she says simply, “He walked off somewhere the moment you went looking for Vega.”
+
+“Well, it doesn’t matter. We’ll find him later. Magistra seems to have her spec ops group here, too, and some other side has been sending in spies as well. Either Magistra doesn’t think we need to know, or that information hasn’t been reaching her. Either way, this situation might be more fucked up than we expected. In one hour, we’ll go meet those spies and get some information about what’s happening here.”
+
+Lily nods, not letting this distract her.
+
+While looking at Vega, who now seems more relaxed and finally seems to be sleeping properly, I think to myself out loud, “I usually like to take my time, gather information, and make preparations, but this time we’ll be more proactive right from the start. But tell me, do you care about this quest?”
+
+Lily answers without hesitation, “Not at all, and you know that. Vega takes priority, so we’ll make sure she’s safe before this is all over.”
+
+I knew she’d say that, but hearing it out loud makes me feel better.
+
+“Good,” I say. “Then we’re in sync.”

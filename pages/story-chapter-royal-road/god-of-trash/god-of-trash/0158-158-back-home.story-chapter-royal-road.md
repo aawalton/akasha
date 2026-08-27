@@ -1,0 +1,103 @@
+---
+id: 9844586d-a7b4-5de8-9957-f161d19d7a2a
+page-type-slug: story-chapter-royal-road
+title: "158. Back Home"
+slug: 0158-158-back-home
+partOf: god-of-trash
+position: 158
+ownLength: 1998
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2526077/158-back-home"
+royalRoadId: "2526077"
+---
+
+One cursed bone and a well-load of trash and impurities later, Rhys raced home in the skeleton rider’s grasp, urging the rider on faster and faster, to higher and higher speeds. Someone might be dead. A mysterious man whose power he couldn’t gauge had said so. It was a ridiculous reason for him to speed up, but he couldn’t help but rush anyways. This was exactly the kind of world where someone who appeared out of nowhere in the woods might actually know someone you knew had been killed.
+
+He was careful not to waste too much mana on the run, since he assumed there would be a battle waiting for him when he got home, but he pressed it on as fast as he dared. Whoever or whatever that man had been, he’d clearly wanted to interfere with Rhys somehow. Offer a warning of what had been done? Warn him off of something? Either way, it left him spooked. That guy could have killed him. He’d come out of nowhere, and Rhys hadn’t known he was there except for how unsettled he’d felt. Whatever that man had wanted to do, he’d at least succeeded in terrifying Rhys.
+
+I hope it’s not Blake, Rhys thought, then took a deep breath. If someone was even dead. If this wasn’t all some high-rank mage’s sick idea of a prank. It probably was. It had to be.
+
+He returned to his home base, only to realize that he had many bases now, and they might have killed any of the criminals at any of the bases he possessed, and he wouldn’t even know. Hell, he might not even think to consider it strange, if not for the man’s warning. He rolled his eyes to himself as he dismissed the skeleton rider and raced past Sable, through the tunnel, and toward the snack shack. A long distance from the man, no longer all alone in the woods with himself, a silent cursed skeleton, and nothing, it all seemed pretty ridiculous. How could that guy know someone had died? Hell, how did he know a death even meant anything? People died every day. None of his crew had died yet, but they lived in dangerous times, and some of them were ex-criminals. For all he knew, some of them deserved to die, and he had no reason to protect them.
+
+That old man said it was an attack. From the criminal element. And that’s… not something I wasn’t expecting, but… But how did the old guy know? Why did he bother telling Rhys? Was he waiting at that well for Rhys to arrive? If he knew enough about Rhys, he could anticipate that Rhys was going to arrive at a well. If he knew the wells well enough, he would know which well was closest to Rhys, and wait there for him. But that left a big question: was he waiting for Rhys? Was he looking for Rhys? Why would he sit there, knowing things that Rhys didn’t know, and share them with Rhys?
+
+The first thing he asked. If I wanted to know about Straw. He ran a hand over his forehead, frowning. The most obvious consideration, the one thing that linked together Rhys, Straw, and the Impure Wells, was the Remnant Weapons. Sable had said she hid in wells as a girl, because her father had said they were safe—her father, the Remnant Weapon. Was this man a Remnant Weapon? Was he Sable’s father?
+
+Rhys frowned. Did Sable have black eyes or red? I think it was one of those two colors. If red, then… maybe? Wait, yes. Yes, she did! I’m pretty sure, anyways. But aside from the probable-eye-color connection, there was nothing binding Sable and the man. She’d called her father the “Aberrant Beast.” That man hadn’t looked like an Aberrant Beast, but then, Az didn’t look like a cat most of the time, either. He hadn’t been under the impression that Sable and her father were on the best of terms, but they were still blood. Sometimes that meant something. Sometimes.
+
+He paused. “Sable.”
+
+Bones clattered overhead. Sable said nothing, but he knew she was listening.
+
+“Does your father have eyes the color of dried blood?”
+
+There was a dry laugh from overhead. “If you met my father, you would know.”
+
+“Is that a no, then?”
+
+“Were you maimed? Attacked? Raked with claws? Chewed on?”
+
+“No.”
+
+“Whoever you met was not my father.”
+
+Rhys nodded slowly. The man I met did not seem anywhere close to attacking me with his bare claws. If that’s what Sable’s father is like, then that wasn’t him. And then, a second later, holy shit, Sable. Are you okay?
+
+Sable’s childhood trauma would have to wait. He had a dead body to maybe locate. If the man had been pranking him, he’d be… Rhys wasn’t sure. Relieved? It wasn’t like he wanted to find a dead body.
+
+On the other hand, if the man was telling the truth, then Rhys had a mysterious, powerful new ally. He wasn’t sure that was worth losing one of his men for, but it was worth something. If the man was going to die anyways, he’d rather gain something from it than lose someone for no reason.
+
+How callous of me. He’d really changed his perspective on death lately, he’d discovered. If Bast, Az, Mouse, Lira, Sable, or even Korii died, he’d be inconsolable. He’d probably feel something to see Laurent dead, though every part of him was very confused about exactly what he’d feel—though probably not as confused as Laurent. But anyone else? One of the criminals or faceless underlings he barely knew? He’d feel righteous anger that someone had harmed one of his men, but that was it. Unless they were someone he knew personally, he just didn’t care that much.
+
+That lever is still there. It’s just… different. The dangerous lever remained, but it wasn’t in the shape he’d thought it would be. If someone got ahold of someone he cared about, the fear, rage, sorrow, and anger would be there; if someone got ahold of someone he barely knew, he’d still be angry, but in a manageable way. In a way where he could make a plan and counterattack, rather than immediately take to the warpath.
+
+Does it say something about me that all the people I care about right now are women? Rhys thought dryly. He still cared about Bast and Az, but neither of them were particularly relevant right now. And he cared about Straw, but given that the man was in literal tatters and a tiny version of him was currently dangling from Rhys’s sword, he was pretty confident that no one had killed that particular Remnant Weapon. Really, it was just that the people who could die in his immediate vicinity right now that he cared about were women, not that he only cared about women, though he was pretty sure Korii would tease him about it if she found out how he felt about his underlings.
+
+On a different but related line of thought, it was interesting that all the Remnant Weapons he’d encountered or heard of so far were male: Straw, Sable’s father, the man at the well… That was assuming the man at the well was a Weapon, but still. Was there something to that? They were made by the Demon King, not the Demon Queen. Maybe…
+
+Maybe what? Maybe the most evil mage this region has ever seen was a raging misogynist on top of being an evil asshole? How’s that relevant to anything? He shook his head at himself. He felt like there was something there, a half-formed thought, but it escaped him. He pinched his chin, then shrugged. He’d just have to ask Straw later, once he’d found all the straw and reformed the guy.
+
+He reached the end of the tunnel and climbed up into the snack shack. Inside, everything proceeded as normal. He gazed around the kitchen, but everyone was right where they were supposed to be, cooking away. Hopping out of the tunnel, he jogged as casually as he could to the door and peered outside. Their faces were still out front, the same familiar faces as ever. All the men and women, right where they were supposed to be. No dead bodies. Nothing out of place.
+
+Rhys let out a breath he hadn’t realized he’d been holding. He was safe. Fine. No one was dead, and that guy in the forest was just some weird old mage who got his jollies off scaring kids like Rhys. His guesses were a little too uncanny to be complete coincidence, but Rhys was okay with that. He could accept that some high-rank nosy mage was aware of what they were doing, especially since he didn’t seem to interested in stopping Rhys and his people from doing what they were doing.
+
+Better than coming home to a dead body.
+
+He brushed off his robes and gathered himself, realizing he’d been a bit out of breath since he’d arrived. No need to be running around like a madman scaring everyone over nothing. He ran one last hand through his hair to calm himself and walked to the kitchen with a smile, already calling his Trash Enlightenment to hand to imbue into the chips.
+
+At the back of the shack, a shrill scream ran out. Rhys whirled. A woman whose name he almost remembered staggered back—bee girl, he thought—her hand clasped to her mouth. She pointed, her eyes bulging.
+
+Already fearing what he’d find, Rhys ran over. He caught her by the shoulders and looked past her, out the door.
+
+Leonard sat on the stoop of their back door. Not all of him. Just his head, cut off at the neck and standing upright on the rear stoop, dull eyes gazing at nothing.
+
+Others gathered. Rhys passed off bee girl to someone better suited to comfort and picked up the head, glancing around to make sure no one had seen before he slammed the door shut.
+
+Bee girl shook her head, gasping past her clasped hands. “I’m sorry, I’m sorry, I shouldn’t have screamed—”
+
+“It’s fine. No one’s going to come running that quickly to some random girl screaming in a back alley like this,” Rhys reassured her, though he wasn’t sure it was the right reassurance, from the fresh concern that flashed over her face. He looked at Leonard’s dead eyes, then jogged to the trap door and dropped down into darkness, closing it behind him. He needed time. Time with his thoughts.
+
+The old man had been right. A man was dead. One of his underlings.
+
+Leonard.
+
+He didn’t know how he felt. Now that he was face to face with it, the apathy he’d been assuring himself he’d feel seemed nowhere to be found. This was one of his men. Sure, Leonard had only been his man for a moment, and they’d fought and almost killed one another, but Leonard was his. He’d been a surprisingly chill guy. Someone who shared Rhys’s love of books, and though he’d complained, he’d been adapting to farm life well.
+
+And now he was dead.
+
+Rhys’s grip tightened on the head. He took a deep breath, then absorbed. The head vanished. Leonard was trash. He had to be, if he was Rhys’s man.
+
+“Something happen?” Sable asked.
+
+Rhys grunted. “Get Mouse and Lira. I’m heading to the farms.”
+
+“What for?”
+
+“We’re hitting the warpath, after all. I’m sure one of our new employees knows where their old headquarters are. It’s about time we finished our hostile takeover.”
+
+“A fight,” Sable summarized. Her tone was neutral, but the way her bones clattered off at speed told all the story there was to tell. She was excited, and rightfully so.
+
+Enough hiding. Hiding doesn’t suit me. Garbage lies out under the sun.
+
+Instead, let’s hammer this stupid group of criminals until they’re the ones who want to hide!

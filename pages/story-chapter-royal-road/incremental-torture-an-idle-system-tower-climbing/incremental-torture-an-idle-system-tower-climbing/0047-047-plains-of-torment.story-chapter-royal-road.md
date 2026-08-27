@@ -1,0 +1,199 @@
+---
+id: 5ce027bd-fb46-51cb-9c2d-b64b97df9d9e
+page-type-slug: story-chapter-royal-road
+title: "047: Plains of Torment"
+slug: 0047-047-plains-of-torment
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 47
+ownLength: 2158
+unit: words
+publishedAt: 2024-05-25
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1650206/047-plains-of-torment"
+royalRoadId: "1650206"
+---
+
+Blood curdling and shrill. Those were the first things that came to mind when the screaming began. Like someone was in extreme pain but found it thrilling rather than agonising.
+
+Evelyn had no time to think before something flung itself at her from her right. All she saw was a red blur and then sharp claws tore a chunk of flesh from her arm. She stumbled backwards and grit her teeth through the searing pain.
+
+Her flesh was already knitting itself back together but it would take time to heal an injury of that size. Looking around she saw hundreds of little red imps with razor sharp claws and pointed tails staring at her, every single one of them screaming at the top of their lungs.
+
+The moment she noticed them, they started to charge in unison.
+
+Now this is more like it. Come at me, you little red bastards.
+
+Evelyn had already felt the sting of their claws. They were powerful enough to tear her flesh, even with her fortitude stat over 90.
+
+However, they looked flimsy. Skinny legs and arms on a skeletal frame - these were creatures specialised for attack. Which meant all she needed to do was avoid the dangerous claws and whatever other dangers they sported while landing clean hits.
+
+It sounded simple in theory, yet she knew it would take plenty of focus to pull it off. The first imp launched itself at her throat. A nimble sidestep let her avoid the swipe of its claws and she returned with a powerful punch that caused its chest to explode, showering the grass in blue blood and guts.
+
+Gross.
+
+That was one thing Evelyn would never get used to. Refused to, in fact. It was disgusting. Though her many battles against hordes of monsters often resulted in the same thing.
+
+At least there would be a hot bath waiting for her back in Haven.
+
+It would certainly be needed. The second imp exploded in a similar fashion as her fist tore through its head. Then a third went down. Bored of taking them on one by one, Evelyn activated her favourite skill.
+
+Compared to how much she had been modifying it so far, using Flashfreeze Flamecharge in its original form felt rather strange.
+
+However, it was far more effective at vanquishing her foes this way. At least twenty of the little imps were mangled, frozen solid or burnt to a crisp as she exploded forwards. Her charge came to an end right in front of one of them and Evelyn allowed her momentum to carry her fist forwards and through the beast.
+
+And she wasn’t finished. Before any more of the annoying imps could charge at her and attempt to claw her apart, she activated her skill once more.
+
+Tens more imps were obliterated in the blink of an eye. These new foes were rather weak. It was a disappointment for Evelyn after the thrill of battling Anathalan.
+
+Even the strange puzzle had been more exciting than this.
+
+Though she did allow herself a brief moment of happiness at the latest message from the tower. Perhaps she had been closer to the cusp of advancement than she thought.
+
+Your class has advanced!
+
+Unyielding Warrior Lv.12 > Lv.13
+
+Just two more levels until she could Ascend. There was the essence, of course - but that just required waiting. She had already gathered a fifth of it.
+
+The tide of red imps charging at her was unceasing and the end of the plains was nowhere to be seen. Evelyn looked back and saw she had covered about a hundred metres of ground already. It seemed this trial would attempt to wear her down with numbers rather than strength.
+
+And while her skill set would normally allow her to push through such a trial with ease, these imps were able to tear through her flesh like it was butter.
+
+They offered little resistance to her counter attacks, though. Another Flashfreeze Flamecharge sent her flying through the crowds, splattering dozens more imps across the red grass of the plains. The last few felt a little sturdier.
+
+Evelyn ran forwards, dodging under claws and sidestepping lashes of pointed tails. Occasionally she would return with a blow of her own, each time taking down an imp with a single strike.
+
+Perhaps it was her imagination but she swore they were getting tougher the further she travelled. It was difficult to tell when they still died in one hit, however.
+
+She fell into a pattern of charging forward, while occasionally smacking imps that strayed too close or weren’t caught in her skill.
+
+Around three hundred metres across the plains, the first imp to survive her fist arrived. It went flying backwards and she heard its ribcage crack, but it wasn’t dead.
+
+Evelyn rushed forwards and ended its life with a sharp kick, however that gave another imp the opportunity to slice at her exposed thigh and leave a deep gash that made her stumble. Before it could continue its assault she turned on it and delivered a rapid combo of two punches that saw it mangled beyond repair.
+
+However, the damage was done.
+
+And as she advanced such occurrences happened more often. By the time she was seven hundred metres deep into the grassy expanse her body was covered in cuts, bruises, gore and blood - not all of it her own.
+
+The imps now took between four and five strikes before dying. Whether that was because their strength varied or her own blows weren’t consistent was not something Evelyn knew - or cared to find out. All that mattered to her was reaching the end of this trial.
+
+By the time Evelyn reached two kilometres, she began to suspect there was some kind of spatial manipulation happening. The plains certainly hadn’t seemed this large when she first saw them.
+
+The difficulty of her foes had continued to increase with the distance. Each imp was a real challenge at this point. It took between nine and twelve strikes to kill one, and they didn’t just stand there and let her use them as punching bags.
+
+Every clash saw her accumulate a few more wounds. Her body was a mess. Not that it was unusual for her body to be in tatters. Most of the tower’s challenges broke her in some way, but she always came out stronger for it.
+
+Yet there was no end in sight. Two hours later Evelyn could barely stand. Her breaths were ragged and sparse and there wasn’t an unmarred patch of skin left on her body. Was there a deeper secret to this trial than just beating the crap out of increasingly more powerful imps?
+
+Or would she just need to continue until the end came into view. There wasn’t an easy way to figure out an answer, so Evelyn continued to do what she did best and tore into her latest foe. A scrappy brawl later, she emerged victorious.
+
+However, her body could no longer hold on and she collapsed into a bloody heap on the grass. The imps froze the moment she did.
+
+Rather than pounce on their prey while she was unconscious, it almost appeared like they were frozen in time. The grassy fields melted away along with the monsters, leaving her lying besides a round gate on a red stone path.
+
+~~~
+
+As Evelyn made her way along the rocky path, she pondered the previous trial. It seemed to be testing the limits of her endurance, rather than actually needing her to defeat a certain level of opponent.
+
+Though it was also possible that if she failed in defeating imps of a certain strength, the tower would consider it a failure and either kill her or return her to Haven.
+
+That wasn’t something she had to worry about, though. She had succeeded and could advance to the next stage of the 16th Floor. It would be the fourth challenge. Even if the floor had finished after the puzzle, it would have been larger and more complex than any before it.
+
+And yet it continued to go on. And on.
+
+Evelyn wasn’t going to complain though. In fact, the current view she had of the crimson mountains was rather picturesque. The whole place had a hellish vibe to it of course, but it was beautiful nonetheless. The peaks stretched for miles and the burning sky lit them in gorgeous hues of red and orange. The tower was meticulous in its craft, something Evelyn could appreciate.
+
+She had appreciated, on more than occasion, the beautiful environments that the tower created. Even if they were often filled with savagery and death.
+
+When she arrived at the next gate she felt rather serene. Whatever lay beyond wouldn’t trouble her too much. Or so she thought.
+
+The message from the tower that she received the moment she passed through the circle of red stone served as testament to not getting ahead of herself. It was something she did often.
+
+❰ Instance - Hyper Boss Raid ❱
+
+Challengers, you have braved the trials of the 16th Floor and emerged victorious. One final obstacle stands between you and success. Dazurmagon the Worldshaker is a powerful foe - one who will require the cooperation of many powerful warriors to bring to his knees. Good luck!
+
+A Hyper Boss. Because why stop at a regular boss when you can create an even nastier one? Even the instance description makes it painfully clear that a party is required to defeat this thing. Then again, I was able to beat Anathalan alone. Even though it was just a mini boss, this floor was obviously meant to be challenged by a group. I can do it.
+
+I have to do it.
+
+When she was on the final hurdle, Evelyn felt the drive to succeed even more intently than she had during her time on the 16th Floor. Failing at the final step would be far more bitter than failing halfway.
+
+There was no use in letting her mind run away with itself. All she could do was throw herself at the hyper boss and see what happened. Dazurmagon the Worldshaker - even its name inspired a little terror in her.
+
+A creature that could be called Worldshaker was sure to be ridiculously strong. Evelyn couldn’t wait to fight it. And she wouldn’t have to.
+
+Walking past the gate had taken her to a large circular arena. The stone the ground was made from was red in colour, just like everything else. However, it thrummed with mana and was inscribed with ornate carvings that glowed bright, like streams of lava running through the earth.
+
+Pillars encircled the arena, marking the stage where their battle would take place. Everything was colossal. Evelyn was like an ant on the giant stage.
+
+That was because it was sized for something far bigger than her. With a roar that made the air tremble and the mountains shake, Dazurmagon made itself known.
+
+The hyper boss fell from the skies and smashed into the arena with a bang. The stone held firm, though. It was built to withstand such impacts. The boss itself was terrifying and majestic in equal measure.
+
+It towered over her at almost thirty metres. And that wasn’t considering the fact it was still hunched over from its landing. As it unfurled it continued to rise until it stood about fifty metres tall. Its body seemed to be forged from stone, yet it moved like flesh. Gargantuan muscles rippled as it took a step forwards and the whole arena trembled as its foot smashed into the ground.
+
+Around its left ankle was a shackle of molten metal, and on its right wrist was an identical shackle. Just what was powerful enough to take such a creature prisoner?
+
+She didn’t want to find out.
+
+Dazurmagon was almost human in form, if a fifty metre giant with a body of red stone and a core of pure magma could be considered human. Its eyes burned with the fires of hell and when it gazed at her she shivered.
+
+It was a primal instinct - one she couldn’t avoid. However, along with the fear came a healthy dose of excitement. Evelyn couldn’t wait to test the hyper boss in battle.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.13
+
+|Attributes|
+
+Power: 20 (21)
+
+Speed: 5
+
+Stamina: 9
+
+Vitality: 26 (31)
+
+Mana: 26
+
+Fortitude: 56 (92)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Galactic Expansion (Unusual), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Salvo (Common), Mana Wielder (Rare), Master of Combat (Rare)
+
+~Active~
+
+Flashfreeze Flamecharge (Rare)
+
+~Hybrid~
+
+Soul of the Unstoppable Conqueror (Unusual)
+
+Essence: 3070421『+1021784 / 5:54:24 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】

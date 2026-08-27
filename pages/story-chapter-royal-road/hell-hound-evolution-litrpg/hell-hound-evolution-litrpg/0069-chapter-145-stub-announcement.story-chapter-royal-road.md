@@ -1,0 +1,177 @@
+---
+id: e35e18f9-157e-54ee-92aa-8e73fa8318b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 145 (stub announcement)"
+slug: 0069-chapter-145-stub-announcement
+partOf: hell-hound-evolution-litrpg
+position: 69
+ownLength: 2057
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3701180/chapter-145-stub-announcement"
+royalRoadId: "3701180"
+---
+
+Luke watched the strange meatless creatures from between two rocks. He had learned these were called skeletons, and nearly every day, Themiel would take him out to hunt them. Most mornings started with hunting prey, and after Luke filled his belly on the horned monsters, Themiel would take him to this place to search for skeletons to kill and work on getting Luke closer to his strengthenings.
+
+Sometimes, he would get something even better than a strengthening. Luke thought of it as his “Great Strengthenings,” when not only would he feel himself getting stronger, but he would grow larger as well! His body would change in some ways, and he would learn new abilities. The last time he had a Great Strengthening, his paws grew larger, his shoulders and upper body became thicker, the fur around his neck became denser and actually protected him more, his claws grew darker, and new instincts settled into him. Those instincts specifically made it easier for him to track these skeletons, which before had been so hard to track because they lacked the smell of normal prey.
+
+And as Luke watched the skeletons, waiting for Themiel’s signal, he knew that another Great Strengthening was upon him. It might even happen after this fight.
+
+His paws pressed harder into the dirt.
+
+The skeletons moved strangely. Most carried swords like Themiel’s, but they did not hold them properly. They let the blades drag behind them, scraping against the ground as they wandered in loose groups. They were not hunting. They were not searching for anything either. After watching them for weeks, Luke had realized some of them would walk in the same circle again and again, as if they had forgotten where they were going. But if they ever saw something that was properly alive, something with meat, they would attack immediately.
+
+Luke did not understand what these creatures were, what their purpose was, or why they even bothered walking around like that if they were not trying to go anywhere or do anything. It was like they only existed to be fought and destroyed to help Luke with his strengthenings.
+
+Well, I guess that’s okay, Luke thought. Themiel is also happy whenever I strengthen and he praises me a lot! I bet he’ll praise me a whole lot more once I have my next Great Strengthening!
+
+Luke was looking forward to it now, tail wagging, really hoping it would happen. He loved it when Themiel praised him.
+
+Finally, Luke heard Themiel’s whistle, and he didn’t even think twice, instantly bounding out from behind the boulders.
+
+The skeletons turned toward him all at once, skulls snapping in his direction, pale lights burning where their eyes should have been. One raised its sword, but barely got it halfway up before Luke clobbered him!
+
+Luke swiped with his claws, snapped with his jaws, and latched onto one bony arm. Before, he would have ripped and twisted, tearing skeletons apart piece by piece. But since his last Great Strengthening, he got a new skill that was his instant favorite against skeletons because he could do more than just break them. He could make them explode!
+
+He latched onto an arm, used the skill, jumped high into the air while taking the skeleton with him, then turned and whipped his head down to the ground as he let go.
+
+{Savage Slam}!
+
+The skeleton was thrown back to the rocky ground, exploding apart just as Luke knew he would, and it surprised the other skeletons so much that they stumbled, their raised weapons faltering. As Luke descended back down, he locked his eyes on another skeleton and used his next ability, which he loved using after Savage Slam.
+
+{Crushing Pounce}! He thought the skill name as soon as he touched the ground, then kicked off with his back legs and slammed into the next skeleton paws first.
+
+He got it right in its chest, and this one likewise exploded apart in a spray of clattering bones.
+
+The two remaining skeletons stumble-ran toward him, one already swinging its weapon down, but Luke dodged easily. Luke was faster than them, and he had fought so many he was very good at predicting and dodging their movements.
+
+This one, he dove for the leg, grabbing it and then jumping up with his favorite attack once again.
+
+{Savage Slam}! he thought happily, this time aiming for the last remaining skeleton, slamming its friend down right on top of it.
+
+There was an even better explosion of bones this time as the last skeleton lost some bones as well. Most notably, it lost the arm carrying the sword, so it was completely helpless as Luke came in for the final attack.
+
+Luke jumped high, lashing a powerful paw at its head and knocking it clean off! The skull went spinning through the air until hitting a nearby boulder and shattering!
+
+Luke landed back on the ground, panting softly as he looked around at the bones. Sometimes, not all the time, but sometimes, the bones would start to move back together and the skeletons would try to reform themselves. Luke spotted a few doing that as the head they belonged to rolled so its face was staring up, and Luke knew exactly how to put an end to this.
+
+He trotted over, got his jaws around the skull, and bit down with all of his strength.
+
+{Crushing Bite}!
+
+The skull splintered apart between his jaws, and he spat the fragments away, then looked around on the ground to confirm all the other bones had stopped moving as well.
+
+“Good boy, Luke!” Themiel called, and Luke looked up excitedly to see his master lounging on top of a flat part of a crumbled pillar. He had his sword drawn, but resting over a knee.
+
+Luke instantly ran over, tail wagging, knowing he would get praised now!
+
+When Themiel jumped down from his perch, he caught Luke in his arms and rubbed him all over as Luke panted and barked, “Master! Did you see? Did you see? I got them all!” He licked Themiel’s face despite Themiel trying to hold him back slightly from doing so.
+
+“Okay, okay, that’s a good boy, Luke. You did a good job!”
+
+But before Luke could even begin to calm down, something else happened.
+
+He felt it.
+
+Luke backed away from his master.
+
+“Luke?” Themiel asked, as it was unlike Luke to back away whilst being showered with praise.
+
+It’s a strengthening! Luke thought, already feeling it bubbling up inside of himself, and as he looked down at his own legs to see that rare golden glow, he knew it wasn’t just a simple strengthening. It was a Great Strengthening!
+
+He looked up, tail wagging, and he barked, “Master! It’s a Great Strengthening!”
+
+Themiel smiled, folded his arms, and backed off a couple of steps as he watched Luke become completely consumed within the golden glow.
+
+Luke’s paws dug into the dirt as his whole body went stiff. The warmth inside him swelled, filling his chest, his legs, his head, his everything.
+
+It felt good.
+
+It felt really good!
+
+Like when he ate until his belly was full. Like when Themiel scratched the perfect spot behind his ears. Like when he woke up after a long sleep and stretched all four legs as far as they could go. It was like all those things put together all at once! And maybe even better than that!
+
+He felt his paws changing first. They spread wider against the dirt, the pads growing tougher against the stone, and as he flexed his claws down against the ground, he felt that if he tried hard enough, he might even be able to put his claw through stone now.
+
+No, he knew he could.
+
+That was one of his new abilities! Iron Claw!
+
+He got some other new abilities as well…
+
+Rumblestep, Mauler Frenzy, Heavy Bones…
+
+This was a really Great Strengthening!
+
+The golden glow slowly faded from around him, leaving little sparks of warmth drifting off his fur until they finally vanished.
+
+Luke blinked, then shook himself from nose to tail, dust scattering off of him. His body felt a little strange at first, bigger, heavier. He looked down at his paw, which touched down with a stronger thud than he was used to.
+
+I’m bigger! he thought excitedly, then started spinning in circles. I’m much, much bigger!
+
+He kept spinning in circles, trying to see himself, but he was still a little clumsy with this larger body as he hit his shoulder against a boulder. But he didn’t mind that!
+
+“Master!” Luke barked. “Master! Look! Look! I’m even bigger!”
+
+He turned toward Themiel, expecting praise, laughter, and Themiel to run over and pat him and rub his hands all through his neck fur.
+
+But Themiel was just staring, his eyes going a little distant as they sometimes did as he focused on the air in front of him.
+
+Luke sat on his haunches, trying to calm himself down and eagerly await his master’s acknowledgment, though he couldn’t quite help his tail wagging behind him as he tried to sit patiently like a good boy.
+
+Come on, come on, come on, he thought.
+
+He knew what Themiel was doing. He was doing his seeing thing again. The thing that let him know what Luke was, how strong he had become, the condition of his health and tiredness… stamina? Luke usually liked it when Themiel used that seeing skill, because afterward, Themiel would usually praise him and pat him more.
+
+This time, when Themiel blinked, he just started walking towards him.
+
+Luke’s ears folded down slightly.
+
+Am I going to be praised? Or is something wrong? Was this actually a bad strengthening?
+
+Luke hoped it wasn’t a bad strengthening.
+
+But as Themiel walked closer, Luke started to realize what the problem might be.
+
+He had gotten much, much bigger. Now, sitting on his haunches, he could touch his nose under Themiel’s chin just by looking up.
+
+“Hey, that’s a good boy,” Themiel finally said.
+
+YES!
+
+Luke instantly shot up from his butt, diving into Themiel’s arms. But Themiel avoided him, and pushed him down.
+
+“No, down boy,” Themiel said.
+
+Down? What!?
+
+But then he felt Themiel rubbing his neck as he did what he knew he was supposed to do when Themiel said down.
+
+“There you go, that’s a good boy. You, uh, you’ve gotten quite a lot bigger, eh?” He laughed, finally letting Luke lick his face. “Way bigger than last time…” he said, muttering that part as he looked Luke over. “And it’s an Epic path…”
+
+Luke tilted his head into Themiel’s rubbing fingers, looking up at his master through his brow. Though, he didn’t have to look very far up anymore.
+
+Themiel chuckled. “I don’t think you’re going to quite fit in bed with me anymore, boy. We’ll have to get something for you on the floor.” He sighed.
+
+Luke whined. “What’s wrong, Master?”
+
+Themiel didn’t seem mad, but he did seem… worried? Luke didn’t like it when Themiel seemed worried. He didn’t like it when Themiel was mad even more, but worried was almost just as bad!
+
+“It’s alright, boy, you’re a good boy.”
+
+Luke’s tail wagged at that.
+
+“Come on, let’s get back… The council will probably want to know about this…” He let out another sigh.
+
+Luke’s tail almost stopped wagging at the word council. That was the place with all the Umarii who yelled at Themiel. Luke really didn’t like them. He wanted to bite them!
+
+But of course, Themiel would never let Luke bite another Umarii, he wasn’t even allowed to growl at them. No matter how much he wanted to or how much they deserved it.
+
+Then Themiel chuckled, and Luke’s ears shot up again, looking at his master as he walked alongside him.
+
+“Actually, you know what, Luke? Screw those old fucks.” He placed a hand on top of Luke’s head. “Let’s try going right to the Oracle. We’ll tell her about your evolution first.” He chuckled again, scratching behind Luke’s ear as Luke leaned into his touch. “Bet they’re really not going to like that. But fuck ‘em.”
+
+Luke didn’t really know what Themiel was saying, but his tail wagged. Whatever it was, Luke felt like he definitely agreed!
+
+Yeah, fuck ‘em! Luke thought.

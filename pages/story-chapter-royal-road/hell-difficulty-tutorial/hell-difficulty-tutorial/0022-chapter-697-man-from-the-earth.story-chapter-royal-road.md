@@ -1,0 +1,161 @@
+---
+id: 4137daa3-8938-591d-aff4-7639b2378440
+page-type-slug: story-chapter-royal-road
+title: "Chapter 697 - Man from the Earth"
+slug: 0022-chapter-697-man-from-the-earth
+partOf: hell-difficulty-tutorial
+position: 22
+ownLength: 2075
+unit: words
+publishedAt: 2025-11-24
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2790276/chapter-697-man-from-the-earth"
+royalRoadId: "2790276"
+---
+
+POV Nathaniel
+
+After talking for a while with my sister, I step back to let Victoria do her thing and organize everything with Weslin. So far, the two of them seem to be getting along well, and knowing Weslin, things will likely end with Vic being the “main” leader. He doesn't like dealing with this kind of stuff either. And I don’t think Victoria will have any problem dealing with the demons.
+
+As expected of the best sister ever, she is already an A rank and apparently without being a member of any guild, even though she’s received offers from members of the top ten that were looking to bring her and her group members in.
+
+I also think it is outrageous that she is still not an S rank. Honestly, it feels unfair. At this point, I am convinced there has to be a conspiracy against her, probably involving shadowy councils, secret meetings, and at least one guy with glasses who fidgets with them constantly as he plans it all out.
+
+So far, Victoria’s decided to increase her value as much as possible and keep from joining a guild until after she enters the 4th floor. Apparently, she’s already in discussions with some of the top ten guilds. But now with the event coming up, that plan has paused, and she has the chance to raise her and her party's value even more.
+
+Though she seems to be considering something else after meeting Christoph. It is unusual for her, but I can see that she respects him for his power and knowledge, and the fact that he seems to know exactly how to behave around her.
+
+They met on the 4th floor, at a point when he’d already been hearing rumors about an earthling woman who liked to throw her fingers around, so he’d been searching for her for help with one goal or another.
+
+I hesitated when I saw him for the first time and tried to think of something else, but in the end, I had to accept the facts in front of me.
+
+Christoph is very likely the First Beyonder from our round of the tutorial. And even though there are nine more rounds of Earth’s tutorial, I think it’s safe to say he is the first Beyonder, even if those are taken into account. He started in Beyond after all, you can't get here any earlier than that.
+
+“Is there something on my face?” Christoph asks me in quiet amusement, standing near me while letting Vic, Weslin, and Gloria talk things out.
+
+“You started in Beyond,” I say.
+
+“It seems like that’s the way things have turned out.”
+
+“Are you some sort of world class martial artist, or did you awaken mana through meditation before the tutorial? Or… do you have a corgi for a bond?”
+
+“Corgi?”
+
+“A dog species. Very cute, stubborn, food obsessed. They sometimes, fairly often, end up burrito shaped.”
+
+“I’m aware of the breed, I’m just surprised by the question.” He chuckles slightly and shakes his head. “I’m sure you are aware that everyone awakened their mana only after entering the tutorial, as the system altered our bodies, gifting each of us a mana heart.”
+
+“So how?” I ask.
+
+He returns my gaze before looking away and scanning the area.
+
+“How, indeed.” He takes a breath and smiles. “I’m 75 years old, if you’d believe it, Nathaniel,” he says before turning back to me. “I have children who are out there living their lives on our slowly awakening planet. My wife died ten years ago, and I spent those years living alone in the Alps.”
+
+He pauses and laughs shortly, almost self deprecating at the memory. “It was one of those days when I thought my life was all for nothing, and that I would die alone of old age in my mountains. But then…”
+
+His eyes close, as if replaying the memory. “I found myself there, on the surface of Beyond, fighting for my life for three days before I found a portal to the Entrance Floor. With no food, no water, and many monsters lurking around. Just me, with my old, broken body, hiding.”
+
+Finally, his eyes open and he looks at me. “Would you believe me if I said those three days were some of the most joyful days of my life, despite being some of the most dangerous?”
+
+“You must have lived quite a life on Earth if the surface of Beyond was only one of the most dangerous,” I note.
+
+That gets a laugh from him. “That sounded dramatic, didn’t it?” At the same time, he reaches out with his hand, and the mana surrounding him, like a living being, moves with that gesture, seeming to caress and protect him.
+
+“You, Nathaniel, are like your sister,” he says. “I have met many untrusting children like the two of you, and I realize that you, just like her, look at me with deep seated suspicion. The others will as well. I’ve come to learn what starting in Beyond means, and how differently some people will treat you because of it. It comes with both opportunities and dangers.”
+
+The noise around us fades as I focus only on his words and the tiny twitches of his muscles I can sense.
+
+If he notices, he doesn’t seem to mind, holding my gaze with a steadiness. “I don’t mind answering your questions, because you, as a tournament winner, are one of the most powerful beings from Earth. I would rather have both Gwyn siblings on my side, so please, ask. Allow me to satisfy your curiosity and hopefully ease your suspicion towards me a little for the start. The rest I will prove with time.”
+
+“You’re not an S rank.”
+
+“That’s true. I have reasons for that which I do not feel inclined to share with you right now.”
+
+“So much for answering my question.”
+
+“Trust goes both ways. There are some questions I will not answer.”
+
+“What are you planning to do on Earth?”
+
+“Our first steps should be to deal with the Pairing, and so I’m doing my best to prepare for that.”
+
+“Deal with the Pairing, under your lead?”
+
+“If need be. You must have seen how most worlds with the system work, and I have heard of many others, by having conversations with attendees that went on for days.”
+
+“How did you survive? Sorry, but people in their 70s aren’t exactly known for being nimble enough to run from whatever monsters lurk at the surface of Beyond.”
+
+“I was able to kill a high level monster and invested my stat points in a way that seems to have worked out. I’m the last person to shy away from praising myself, but it seems I have a talent for my skills.”
+
+“What did you do all day, living out in the mountains on Earth?”
+
+“I read, mostly. My cabin was small, but the shelves were not. Old novels, new scientific papers, anything that could hold my attention.”
+
+“You just sat there reading for years?”
+
+"And I spent time writing. I also went on walks, taking things slowly because of my body, but I refused to stop. No matter the weather, I kept climbing as high as I could, holding on to every step and every view."
+
+“You sound like a bored professor.”
+
+“Perhaps. I studied physics in my youth, then abandoned it for history. Later, I tried finance and languages. Nothing ever stayed. But the curiosity never went away.”
+
+“So you were a dabbler.”
+
+“A relentless dabbler. I long since learned enough of everything to understand how little I truly knew.”
+
+“What was the point?”
+
+“The point was to keep my mind awake when my body was already failing.”
+
+“Did it work?”
+
+“Some days. Other days, it felt like madness. It’s humbling to see how small a single life can be.”
+
+“And yet here you are.”
+
+“Here I am, more obsessive than I ever was in my younger years.”
+
+“Obsessive about what?”
+
+He smiles. "For example, about not dying over nothing. There is so much I can do now."
+
+“Is your subclass patience?”
+
+"That makes yet another unexpected question."
+
+“I keep asking you things in a rather rude way, yet you do not seem to mind.”
+
+“I have noticed that, but I also realize part of it is intentional, while part of it is your curiosity. I’m sure there is much more you want to know. I would have been the same, maybe even worse, in my younger days. But as I said, you, your sister, the others from Earth exploring Beyond, we’re all in this together. So I can endure that curiosity a little. Lastly, my age might play a part in it.”
+
+“How so?”
+
+“I’m still much older than most of you. As arrogant as it might seem, I can understand most of you. I’ve been a teenager, I’ve been a man in his prime, I’ve even gone through a midlife crisis, and I have been a man whose body started to betray him. You learn a lot of patience that way.”
+
+Throughout the whole exchange, he answers me with words, but he also uses something else to answer. He knows words alone are not enough, so he shows me through his actions. His mana moves around his body, shaping itself into intricate constructs that constantly surround him, shifting, changing, adapting.
+
+It moves like a mantle, it forms into armor around his body, and it creates an armored figure behind him as if guarding him. It is all scarily intricate. Something that looks like that cannot be anything other than extremely dangerous.
+
+It feels like a calm, well trained dog. The kind of dog that’ll let you pet it, pull its ears or tail, that allows little children to jump on it, maybe even hurt it without ever lashing back.
+
+But at the same time, you know. You know it’s not just a family pet. It’s a monstrosity of a dog, as large as a bus, that eats grizzly bears for breakfast, and yet it still allows all of these things to happen.
+
+And you know that if it decided to, it could strike back.
+
+So the question comes to my mind. Who would win in a fight, Nyssa or Christoph? And what about my black mana? How would it fare against him? Should I even try? It sounds more than a little risky. As much as he might seem like a pushover right now, it also feels like he’s only acting that way because, as he said, he wants us to cooperate. Everyone has a line, and if I cross it, he will snap back.
+
+Then there was that fight when Faora and Luan met us for the first time. It’s likely that we only survived because they were worried about Christoph’s reaction. In that way, I probably owe him. As annoying as it is to think that Faora and Luan treated him as if he were our future Absolute, while we, as high-ranking attendees, were expected to be his future enforcers, and he might have been annoyed at losing us.
+
+But in the end, Vic seems to already have a plan when it comes to Christoph, since she’s both dealing with and cooperating with him. I trust her decision making more than mine, and even if it hurts my pride a little, I can hold back for now and let her do her thing.
+
+I have to channel my inner Savant. Maybe I could even create a new part of myself called Cowardthaniel, to be patient in my place.
+
+Let's put off dealing with Christoph for now. For now, let's observe, learn more, and focus on becoming stronger, because only strength can open more options for me. Until then, I’ll try to get as many answers out of him as I can.
+
+“Nathaniel,” Christoph says, bringing my attention back to him as he speaks as if he knows exactly what is going through my head. “I can tell you this one more thing to make your decision simpler.”
+
+He waves his hand, and just for me, for the briefest moment, a line of text appears above his head.
+
+[??? - lvl 403]
+
+"Instead of clashing now for whatever reason, let us use this chance to build strength side by side."
+
+Even after the text disappears, Christoph stands there quietly, his mana shifting like a storm held in chains.

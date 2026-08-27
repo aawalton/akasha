@@ -1,0 +1,157 @@
+---
+id: 2353ff6d-5689-5f26-a74e-e98259af65e4
+page-type-slug: story-chapter-royal-road
+title: "041: The 16th Floor"
+slug: 0041-041-the-16th-floor
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 41
+ownLength: 2224
+unit: words
+publishedAt: 2024-05-16
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1638293/041-the-16th-floor"
+royalRoadId: "1638293"
+---
+
+Oppressive heat slammed into Evelyn the moment she stepped out of the portal on the other side. There was no message from the tower to greet her. Even though it was possible to challenge this floor as a party, it hadn’t mentioned a multi-challenger instance.
+
+Perhaps it was curated for whoever decided to enter.
+
+If that was the case, then she was in for a world of torture. The last floor the tower had cooked up specifically to test her was the brutal metal box. Evelyn shuddered as she remembered that experience. She never wanted to experience that again. Pushing bad memories to the recesses of her mind, she took stock of her surroundings.
+
+And it was a hellscape.
+
+In every sense of the word.
+
+The ground was made of reddish stone and covered in a layer of loose crimson dust. It stretched on for miles in every direction and beyond the first few miles, colossal mountains began to stretch into the skies. Each towering peak was just as blood red as the rest of the environment and the skies themselves looked like a pool of blood. Dark clouds roiled and she could hear the rumble of thunder and saw the occasional flash of crimson lightning. And that wasn’t the most ominous part.
+
+Criss-crossing through the land were scars of molten rock and magma. They bubbled lethargically and every now and then would spit out a tongue of flame that bathed the red stone in searing lava. Sweat had already begun to pour down her forehead from the oppressive heat and Evelyn could feel her muscles growing heavy. She was not going to give in just because of a little heat, however.
+
+This was exactly what she had been seeking. A place where even the terrain would test her fortitude and endurance. With no clear direction or goals to guide her, she decided to simply make her way across the rough stone ground towards the mountains.
+
+For a while, it was easy travelling. Despite the searing heat she found it rather simple to clamber across the rocks - she just had to avoid the lines of magma. At one point she had to activate Flashfreeze Flamecharge in order to avoid a geyser of flame that spat straight towards her. It had been a close call.
+
+Too close.
+
+However, she couldn’t help herself from laughing as she staggered to a halt. Too many of the challenges were focused on defeating monsters rather than exploration. And while she had no doubt there would be monsters on this floor - it was a relaxing change of pace to go for a hike.
+
+Even if that hike was across a burning cavern that seemed larger than most countries and threatened to kill her the moment she took a wrong step. All of a sudden the ground began to rumble and shake and she had to grab hold of a nearby rock to steady her footing. An ear splitting boom whipped through the air and made her ears pop. And when she turned to the source, Evelyn gasped out loud.
+
+What she had previously thought of as mountains turned out to be anything but docile giants. One of them had erupted - a thick black cloud of smoke had been churned out into the air and magma was raining from the skies and streaming down the sides of the volcano. It made her second guess her choice of destination, but she had few other options.
+
+It was then that Evelyn saw a flash of orange in the corner of her eye and threw herself to the side. Just in time to avoid a ball of flame that streaked through the air and exploded onto the ground in a shower of lava. A hole had been melted in the stone where it hit, and she was glad it hadn’t been her head. She barely had time to investigate where it had been fired from when another whizzed past her shoulder from another direction. It was then she heard a stomach churning squelch.
+
+As another ball of flame flew by, she finally caught sight of what was blasting them at her. Bouncing and dragging itself across the stone floor was a ball of magma the size of a football. It had two beady black eyes which were staring at her. Its eyes were emotionless and cold - a strange contrast to the monster’s flaming form. While she watched the creature perform another squelching hop, a small indent appeared in the centre of its body and then it exploded outwards, shooting a ball of magma straight at her.
+
+Having seen it coming, Evelyn had no problem dodging. However, another ball of magma then flashed by from behind. This one just caught her calf and left a sizzling scar that made her wince. Her ridiculous regeneration soon healed it, but the fact that even the lowliest of monsters on the 16th Floor could damage her was worrying.
+
+And thrilling.
+
+A quick glance around her informed that there were at least seven of the creatures advancing on her. Another one leapt from one of the rivers of lava as she watched, joining its brethren in their lethargic charge.
+
+She had two options for dealing with her foes. The first was the simplest, but would also be rather painful and tedious. Evelyn would just charge the balls of magma and pound them with her fists until they either burst or died - she wasn’t sure how their biology worked. The other was more difficult but would have the advantage of letting her avoid constantly burning herself.
+
+It would require constant and repeated use of Flashfreeze Flamecharge - taking out one or two of them at a time until they were either all defeated or she had left them behind. This was the more appealing choice of the two, but Evelyn decided not to go for it. Her reasoning was simple.
+
+This was only the beginning of the 16th Floor. And if everything she had been told was true then there was still plenty more danger ahead. Using a large amount of her mana when she had no idea if there would be a chance to recover it was a foolish strategy. Besides, she was no stranger to pain.
+
+Oh it would hurt - using her bare fists to pummel the monsters - but she was tough. So, Evelyn charged at the closest ball of magma. It was only a few metres away and she closed the distance with ease. It quivered at her approach and spat another ball of lava in her direction. She had been ready for that, however.
+
+Darting to the side let her avoid its strike and she followed up by slamming her closed fist on the monster. Its burning body began to boil her flesh as her knuckles smashed through, but it only lasted for a second. The creature exploded into a shower of flaming droplets and she had to hurriedly raise her arms to shield herself.
+
+A few of them landed on her exposed skin, but all the damage Evelyn had accrued from the short encounter soon healed thanks to Soul of the Unstoppable Conqueror.
+
+Now that she had confirmation her brute force strategy was effective, Evelyn wasted no time in targeting the next magma monster. Before long four of the creatures had fallen to her assaults and she hadn’t even used a drop of mana. In fact, her new skill seemed to recover even her stamina - she wasn’t tired out in the slightest yet. But it was only the beginning.
+
+She resumed her journey towards the volcanic mountain range, defeating the monsters as they appeared. After taking down about forty of the creatures, which netted her a decent amount of essence each - 350 - Evelyn received a message from the tower that made her smile.
+
+Your class has advanced!
+
+Unyielding Warrior Lv.5 > Lv.6
+
+It wasn’t the fastest progress, but that was fine. As long as she was moving forwards that was enough for her. After all, there would be many more opportunities to grow the further she went. If even the weakest denizens of this hellish cavern could provide the necessary experience to level up her class then what would happen when she encountered something stronger. Evelyn trembled in anticipation. And then smashed her fist into an approaching ball of magma.
+
+For the next four or five hours Evelyn continued in a similar manner. She had been able to judge the time by watching her essence and waiting for the moment it ticked up. Around halfway her class had advanced again to Lv.7 - but it didn’t stop there.
+
+Just now she had noticed the terrain beginning to change. Rather than just the relatively flat rocky plains, the path had been gently curving upwards. And in the distance she spotted what looked like a naturally formed gateway. Two dark red pillars of stone towered over her and beyond them she could see spouts of magma and superheated steam being spewed from the earth. While she was lost in admiration another ball of flame nearly burnt her hair off.
+
+However, she was able to duck just in time and sprinted after the little monster who fired it at her. As her fist ploughed through its soft and sticky body, she was rewarded with another message from the tower.
+
+Your class has advanced!
+
+Unyielding Warrior Lv.7 > Lv.8
+
+It was rapid growth, but there had to be a limit. The further her level grew the more difficult it would be to advance and the lowly monsters wouldn’t cut it. Evelyn noticed that beyond the gates there were no more of the annoying little creatures. While she was disappointed to see her source of free experience go, she knew that whatever lay ahead would be even more of a challenge.
+
+So it was with a little excitement that she crossed the threshold. However, nothing happened. That wasn’t a problem though, and she continued onward. Soon she arrived at the place she had spotted the steam and jets of flame and marvelled at where they were coming from.
+
+Beneath her stretched a gigantic lake of lava. It went on for at least a couple of miles, but she would need to find a way to clamber down the cliff she found herself on the edge of in order to reach the lake. Luckily for her, there seemed to be a winding path that led her there - but it would not be a simple journey.
+
+Just a few metres away was a new kind of foe. It was similar in build to the little magma monsters as it also had a body of lava. However, unlike its smaller cousins this creature was humanoid. It was around two feet tall. Instead of legs, it sat on a flowing lump of magma, but it had a torso of stone and lava as well as two arms and a head complete with the same emotionless, beady black eyes the other monsters had. And then it spotted her.
+
+There was no need to hesitate - Evelyn knew exactly what her strategy was going to be. So she charged at the elemental with a spring in her step and a glint in her eyes. However, her excitement was soon curbed when it opened its mouth and spewed a jet of flame in her direction.
+
+Evelyn had to duck under the stream by bending herself over backwards like she was doing the limbo. It made her spine ache a little to hold the position but it wasn’t painful. Yet, even after a few seconds the stream of fire seemed like it wasn’t going to let up.
+
+So, she let herself fall to the ground and then rapidly rolled to the side before jumping to her feet. The elemental noticed her movement and started to redirect the flames towards her, but it was a little slow on the uptake. Which was why it was unable to defend itself when Evelyn smashed her fist into its unguarded chest.
+
+Well, not entirely unguarded - just the searing heat of its body had melted the skin and some of the muscle from her knuckles. But she soon began to regenerate the wound and continued down the path. Just a few moments later a ball of flame was spat from the lake and sailed through the air towards her. It slammed into the ground a few metres ahead and she had to avoid a few specks of lava that shot her way.
+
+When the dust cleared, she saw another magma elemental unfurling itself from the impact site. It spotted her straight away and began to bubble and charge.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.8
+
+|Attributes|
+
+Power: 15 (16)
+
+Speed: 4
+
+Stamina: 8
+
+Vitality: 26 (31)
+
+Mana: 25
+
+Fortitude: 51 (86)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Galactic Expansion (Unusual), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Salvo (Common)
+
+~Active~
+
+Flashfreeze Flamecharge (Rare)
+
+~Hybrid~
+
+Soul of the Unstoppable Conqueror (Unusual)
+
+Essence: 632『+1021784 / 5:54:24 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】

@@ -1,0 +1,157 @@
+---
+id: 5e6e1259-e2ae-5438-8e33-826cdf1a559b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6 - A Price"
+slug: 0006-chapter-6-a-price
+partOf: hell-horizon-healer
+position: 6
+ownLength: 1573
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3520763/chapter-6-a-price"
+royalRoadId: "3520763"
+---
+
+The question hung in the damp, blood-filled air.
+
+Chloe didn't immediately answer. Instead, she dropped straight to her knees in the ankle-deep water, the cold, red-tinted splash soaking right through her jeans. Her face instantly melted into a mask of horrified, tearful guilt.
+
+"I'm so sorry!" she gasped, her news-anchor voice completely cracking as she looked up at Arthur. "My boot—it just slid right off that wet carpet runner. I tried to stab the thing before it hit you, and I completely lost my balance. Arthur, I am so, so sorry. Are you okay?"
+
+Arthur, still struggling to his feet while clutching his buckled left knee, looked down at her wide, tear-filled eyes. He let out a rough, strained breath and waved his hand dismissively.
+
+“It’s fine, Chloe. It’s a war zone here,” he grunted, wincing as he put weight back on his leg. “We’re all on edge. Just… keep your distance with that spear next time.”
+
+Edwin didn't comment. He was already kneeling over Jonathan, his calloused hands tearing away the fabric of the kid's shirt to inspect the ragged puncture wounds leaking dark blood into the puddle.
+
+Jake’s eyes never left Chloe.
+
+Thanks to his Absolute Perception, he didn't see a clumsy girl who had slipped on grease-slick linoleum. He saw the exact adjustments of her posture. He noticed that even as she sobbed, her heart rate remained perfectly, rhythmically elevated.
+
+The pale skin on her cheeks was still flushed with vibrant, healthy color. The muscles in her forearms were still tight and wired. She wasn't traumatized. She was completely intoxicated by the terror radiating off Jonathan and Lyle.
+
+She noticed him watching. For a split second, her tearful gaze shifted to meet his. The helpless, panicked civilian routine didn't drop, but her pupils dilated just enough for Jake to confirm what he already knew.
+
+She was incredibly dangerous.
+
+And she was a fantastic liar.
+
+“Jake!” Arthur’s voice broke his focus. The big man was leaning heavily on his kite shield, pointing a trembling finger at Jonathan, who was currently shivering and clutching his torn shoulder. “You said you could heal. Get over here and patch him up. Lyle’s messed up too.”
+
+Across the hall, Lyle was leaning against a pile of shattered ceiling tiles, coughing up a thin, pink foam and clutching his ribs.
+
+Jake stood completely still in the ankle-deep water despite everyone's panic, his longbow held loosely in his left hand as he listened out for any other monster. It was clear, at least for now.
+
+His Minor Heal cost every ounce of mana he had. He could heal only one. He had already experienced what happened when his mana ran low during his push-up grind—the heavy, throbbing mental fatigue that made his hyper-sensitive brain feel like it was being scraped with sandpaper. If he drained himself completely in a dark, hostile hallway before he returned, he’d be defenceless.
+
+It was a stupid situation to put himself in.
+
+"I can heal only one," Jake stated bluntly, his voice flat and devoid of any urgency. "But it takes a lot out of me. If I use my energy on them, I’m putting myself at risk. What do I get out of it?"
+
+Arthur stared at him, his mouth falling open in sheer disbelief. "What do you get out of it? Are you insane? They just risked their lives to protect the backline! Jonathan got bit trying to hold the line!"
+
+"Jonathan got bit because he panicked and whiffed his shot," Jake corrected, his tone entirely matter-of-fact. "And Lyle got injured because he broke formation to play the hero. I killed the monster at my feet, and struck another. My contribution to the team is already paid. If you want my resource, it has a price."
+
+"You selfish little shit," Arthur spat, taking a step forward, his knuckles turning white around the grip of his shield. "We are supposed to be a team—"
+
+“Quiet,” Edwin barked, his voice cutting through the rising argument like a knife. He kept pressure on Jonathan’s bleeding shoulder and looked up at Jake with cold, calculating eyes. “The lad is right, Arthur. Magic isn't free. I don’t completely get it, but if he drains himself to fix our mistakes, he’s a liability. If on the way back there’s more of these things in the stair-well—we’re screwed.”
+
+Edwin reached down, grabbed Jonathan’s trembling right hand, and forcibly unclenched his fingers. Resting in the kid's palm was a small, glowing blue crystal—the system currency that had dropped from the monster Edwin had killed.
+
+“You want to live, boy? Give him your share,” Edwin commanded.
+
+Jonathan didn't hesitate. The sheer terror of bleeding to death in a waterlogged corridor overrode any greed. He thrust his hand out, holding the glowing blue currency toward Jake. "Take it. Just make it stop burning, please."
+
+Jake walked over, his wet boots squelching loudly, and took the shard, studying it for a moment.
+
+Credit: The standardized medium of exchange for the System. Valid for transactions at any local or regional System Shop interface.
+
+The moment his fingers closed around the cool, vibrating crysta coin, a small notification chimed in his peripheral vision, adding the currency to his system profile.
+
+He healed him, though he doubted the efficacy of such a great wound. The flesh mostly stitched over. At least the blood stopped.
+
+He turned his gaze toward Lyle, who was still wheezing in the drywall. “Sorry,” Jake suddenly said. “I can only use my healing ability once.”
+
+“Jake!” Arthur snapped. “This isn’t the time—”
+
+“I’m telling the truth,” he explained. “And besides, I can’t heal broken bones. I told you this already.”
+
+“Fine.” Edwin helped Jonathan up, securing his arm around his shoulder. “Let’s get back. We’re done here for today.”
+
+The way back was uneventful, clear of any monsters. Arthur helped Lyle. Sloane was now in front.
+
+As for how the fight had gone? Honestly, Jake couldn’t say he was surprised. Although he didn’t know why Chloe was acting the way she was, and wasn’t entirely sure if he was right about her. The fact was she had made a mistake, and it had almost cost them.
+
+Jake was at the back of the formation on the way to the safe-floor. Chloe slowed her pace.
+
+“I don’t know what you think of me, Jake,” she whispered. “but I didn’t do it on purpose. You have to believe me.”
+
+Jake refused to look her in the eye. He whispered, matching her own tone. “I don’t care if you did it on purpose or not. I just care that you did it, and almost got me killed. If there were four of the things instead of three, we’d most likely be dead.”
+
+Chloe bit her lip. “I won’t stop. I also want to get stronger.”
+
+“Then do it in a group I’m not in,” he said. “Or else.”
+
+“Or else what?” Chloe asked in disbelief, a nervous smile creeping up on her lips. “You’ll kill me?”
+
+He shook his head. “There are ways to stop you from climbing stairs, Chloe. Murder is the last thing on my mind.” He looked at her. “I’ll just break your legs.”
+
+He picked up his pace and fell into line just behind Sloane.
+
+“What’s with that face?” She asked. “Scared? That was pretty intense back there.”
+
+“No,” he said truthfully.
+
+“Angry?”
+
+“No.”
+
+“Sexually frustrated.”
+
+He paused. “No.”
+
+She grinned. “Constipated. That must be it.”
+
+“I don’t like you.”
+
+“Ouch. Why?”
+
+“You stole my apartment.”
+
+She scoffed. “For such a reason?”
+
+“I like my room.”
+
+“You know,” she said. “You suck at making friends.”
+
+“Tell me something I don’t know.”
+
+“Alright, I’ll take a stab.” She glanced behind her. “Your old room smells exactly like stale instant ramen and clinical depression. You should honestly be thanking me for the upgrade.”
+
+Jake frowned and picked up his steps until he was comfortably in the lead.
+
+***
+
+Jake slammed his door shut, feeling a drain on his soul that was no way responsible for the fight.
+
+Everyone was so goddamned complicated.
+
+If he could go on his own, then that would be best. But he sighed. It was an unrealistic thought—he relied on the others, though he hated to admit it.
+
+He set his bow on his table along with the machete he thankfully hadn’t had the need to use, and then fell onto his bed.
+
+For the group, the mission was a total failure. They were hungrier and more parched than before, and without being able to clear the other rooms on that floor, the neighbors had returned with absolutely nothing.
+
+But for Jake, that wasn’t exactly true now, was it…
+
+Jake flicked open the System and took in the words he had put to the back of his mind. His lips twitched.
+
+(Lvl 3) Skulker defeatedRewards: Gutter-Tooth, 3 Credits.
+
+He felt something settle deep inside his body, like a gust of wind that brought with it a phantom chill. Though it wasn’t inside his mana container, it was… deeper. He didn't know how to explain it.
+
+Whatever it was, he used the same logic he used with Minor Heal. He called it, and it listened.
+
+A thick chain with a weighted end thunked onto the floor. On the other end was a wide bladed scythe, sharp on the front and back, with a wicked point. It looked scary, and it felt even more so.
+
+Rare Weapon Fragment obtained…

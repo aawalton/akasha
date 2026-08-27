@@ -1,0 +1,233 @@
+---
+id: e4eb918f-404f-5773-9c47-947b9726dcf3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13"
+slug: 0013-chapter-13
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 13
+ownLength: 3160
+unit: words
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2704546/chapter-13"
+royalRoadId: "2704546"
+---
+
+Chapter 13
+
+It took another week until Veron felt well enough to work out. The winds had grown cooler and the days had grown a little shorter. The leaves still had their green color but he could tell it wouldn't last for long.
+
+Slowly, he got on his armor. The new set looked nearly the same as the last one, only some of the shades of gray and brown different due to the different rocks he had used to make it.
+
+He expected to feel weak in his first few sessions, maybe even for a few weeks but instead, the armor felt almost lighter than before. He had to check to make sure he actually made it as thick as the other one but he had.
+
+It was the same with the shield and spear. He didn't feel fit and still, the weight felt more than manageable.
+
+The Path advancement then? Or something related to the specific essence I absorbed? Something with the treatment?
+
+He assumed the Path was the most likely reason and then he dismissed the thoughts, starting instead with a light jog around the farm.
+
+It felt good, to finally be out and moving again, to feel the wind on his face and the sweat on his brow. Before he knew it, he was sprinting, laughing as he felt himself speed up faster than he had ever run with his armor on.
+
+He felt the same way with his drills, the spear thrusts ever so slightly sharper and heavier than before his fight with the Navorok.
+
+He took a break and sat on the ground in front of the Vabook pen, watching the red eyed geese for a little while. It had been some time since he had fed them, but with his armor and now very real experience fighting, he thought he could manage to walk their enclosure without injuries.
+
+This place is so peaceful.
+
+One of the creatures walked up to him and honked, trying to bite him through the fence and sending out a puff of ash when its first attempt at attacking failed.
+
+Veron stood up and stretched, making his way to find Ivera. Before he could change his mind.
+
+She returned for dinner and joined him after at the Downwater Inn.
+
+The oil lamps provided warm illumination and the familiar smell of meat stew wafted in from the kitchen. It was already dark outside. A group of four adventurers sat around a table playing cards. They looked tired but in a good mood. He hadn't seen them earlier so he assumed they arrived late in the afternoon.
+
+Compared to some of the groups he had seen before, their gear didn't look particularly high quality. Well used leather and steel that looked in need of some repairs and cleaning alike.
+
+Ivera downed a pint of ale and waved for Warren to bring another. She glanced over at the adventurers for a moment, then focused on Veron. “You wanted to talk, what is it?”
+
+“You seem tense. Do you want to talk about it? Otherwise I go first.”
+
+She looked at him and her eyes softened a little bit. “You go.”
+
+Warren set down another pint without a word, then went to the adventurers.
+
+“You told me the forests are more dangerous now. I assume you don't want me to join you on your patrols or in your investigations at the moment.” He waited for a moment and she didn't have anything to add. “So, to work on my Path and to make some coin, I'm thinking of going to Anvakar.”
+
+“Not the worst idea,” she said and sipped from her drink.
+
+“I have a little bit of silver from working for Warren. I thought about maybe joining other adventurers when they leave for Perrion in the north, see how I get to Anvakar, and then figure out if I can find a team there. Thoughts?”
+
+She sighed and drank deep from her mug. Then she wiped her mouth. “Your armor is decent and your fighting ability is adequate for someone at your level. But you will seem like a very easy target, on the road and in both Perrion and Anvakar. I suggest you wait until a merchant caravan comes through and join them as a guard. It will offer some protection in the fact of being employed. Talk to Warren to set that up, he knows most of the merchants that come through. Don't trust anyone too easily, and once you're in Anvakar, you don't trust anyone and make your way directly to the Hunter’s Guild. No other supposed guild or anyone else offering to sponsor you. The fee to join as an Iron adventurer is around 50 iron. Once you have your little plate, thugs should be more hesitant to mess with you and it should be easier to find a good party to travel and fight with.”
+
+He nodded along and tried to commit everything to memory. He trusted the names she gave him and took the general advice into consideration. He had 6 pieces of silver, which was enough to join at least. And if he was employed as a guard on the way there, he could probably make a little more coin for food and a simple room.
+
+“Sounds good. Thanks for the info. And you know, for everything else. I don’t think I would’ve come this far otherwise.”
+
+“Sure. Anything else?”
+
+He smiled, then nodded. “When someone asks me about my past or my ignorance, any suggestion on a cover story?”
+
+She puffed out some air and laughed. “An Iron adventurer with a cover story. Now that's fucking funny. You've been here for a while, coming up to almost half a year. You know me and everyone else in Eyra. I found you in my travels, as a kid, took you in. You worked on the farm most of the time and now decided to become an adventurer. Maybe don’t mention it to the merchant you’ll travel with but otherwise it should work well enough.”
+
+“You're fine with that?”
+
+She shrugged.
+
+“Can I call you mother?”
+
+“Not until you can call yourself a Platinum adventurer.”
+
+“Why? Is that your rank?”
+
+She laughed again and drank a little more. “I'm glad I didn't kill you that day, Veron. Good luck on your journey and again, well done with the Navorok. It may have come to the village otherwise.” She got up, finished her drink and left.
+
+Veron looked after her, seeing the intrigued glances of the adventurers. They whispered amongst themselves when she was gone, the conversation turning a little heated before one of them, a robed and balding man left up the stairs with a frown on his face.
+
+Warren joined Veron, looking towards the door. “Haven't heard her laugh in a few weeks. You've got a way to get to her it seems.”
+
+“I think she's amused with my ambitions. Like watching a child playing at being a warrior.”
+
+“You don't give yourself enough credit. She likes you, I can tell.”
+
+Maybe Warren would have gotten the joke if he had ever seen her fight.
+
+“Any idea why she's so stressed? Is there really a dungeon branch?”
+
+“Hasn't told me either, which makes me think that yes, there's probably a dungeon branch a little too close to her liking. I just hope she doesn't try and delve in there herself. Probably just waiting for someone she knows to show up. Aside from that, there's been rumors that I imagine would affect her mood as well.”
+
+Veron gave him a glance. “You want me to pay for rumors, innkeeper?”
+
+He smiled. “You know my ambitions a little too well, lad.”
+
+“You're not old enough to call me that.”
+
+“Yeah, probably. I will do it anyway. But I won't charge you for this one, lad.”
+
+Veron sighed.
+
+“King Orven of Felrak was murdered. Now, that in itself wouldn't bother a whole lot of people outside of the Kingdom but they are blaming Sor. Anyone with half a brain will tell you that the Congregation would not plot to assassinate King Orven and risk open war but here we are. History has shown that those in power are often not anymore wise than your average shepherd.”
+
+Veron racked his brain for a moment. Sor. Where have I heard that before?
+
+The Guard of Sor? Ivera mentioned them. Didn't she say she’d been part of them in the past?
+
+If she had been, he could see how a war between Sor and someone else would bother her or could even endanger her. He just entirely lacked context in terms of where these countries were and how a war looked like in this world.
+
+“Is she in danger here?”
+
+“Not here. She's far from Sor but we’re not in the Felrak Kingdom either. Some people may be bothered to see her armor but any adventurer that could challenge her is likely wise enough not to do so.”
+
+“Why? because she's that strong?”
+
+“No, because they would understand that she doesn’t have an active part to play in this conflict, and has likely moved here permanently. Only fools with hope for glory would even try to kill a retired veteran. And those fools will die to her sword.”
+
+He could see it.
+
+“Do you think the war will reach us here? And Anvakar?”
+
+“Here? In a way, yes, as most wars do. People losing their homes, their silver, their work. There will be those who seek shelter and those desperate to survive. The streets and roads will become more perilous, and people in turn will become more suspicious. Food and any other goods will become more difficult to acquire, depending on where you are, and that will have an effect on people as well, and on and on it goes, really very little use in war. Let us hope this one reaches a swift end.
+
+“Anvakar,” he continued. “You've made your decision then?”
+
+“Yeah. I'll join the Hunter’s Guild.”
+
+“Shame, could have used you around here. But maybe it's for the best, with a dungeon branch potentially so close.”
+
+“Ivera suggested that I join a merchant caravan. She said you could maybe help me with that?”
+
+“I can help with that, yes. Though she could have helped with that too. Reymond should be coming through in a week or two if his schedule wasn't thrown off. Usually a pretty small group but he's an honest man, looking for an honest crew. If you manage to prove yourself, there’s good silver in it too. I'm sure he could take you to Perrion, and then you can see from there. A lot more people travelling between Perrion and Anvakar.”
+
+“A week or two,” Veron repeated.
+
+“Too quick?”
+
+“No. No, I think a week or two is good. I guess I've come to like this place. It doesn’t feel easy to leave.”
+
+Warren laughed. “Yeah, that's how it goes. I didn't think I'd stay as long as I have. But here we are. I'll let you know when Reymond shows up. Be ready to leave at a few hours’ notice.”
+
+“I'll be ready. Thank you, Warren.”
+
+Veron left the inn and made his way back to the Holt farm. The sun had already set, letting him look up and find a canopy of stars. The sky was so bright here, up in the Teriam range. He wanted to see more of this world but he already knew that if possible, he would come back here from time to time and at the very least spend a few days at the inn.
+
+He felt the weight of his shield and spear, looking down at the weapons he had made and trained with. “One or two weeks.”
+
+His goal had been to find a place with people, to learn some things about this world and then move on. He didn't expect to find a place like Eyra. He soon reached the farm and sat down on the simple stone wall that surrounded the property. A quick glance to confirm there were no beasts around to ambush him and he sighed.
+
+He could imagine staying here. Helping out through the winter and then working at the farm as soon as the snow was gone. But then, he couldn't help but wonder about Anvakar, about dungeons, and about his magic. About becoming an adventurer, and most of all, about finding out why Envolon had sent him here.
+
+I'll have to make some preparations for the road.
+
+He felt excited when he went to bed, looking up at the ceiling of his room before he spent his Focus to listen to the wind. It was strong tonight and as always, it felt as if it invited him to go out there and explore. He fell asleep soon after.
+
+And woke up with a lot of thoughts on his mind.
+
+Breakfast was oats with fruit, bread and cheese. He wondered what kind of food he would get as soon as he was in Anvakar.
+
+“What are your plans for the day?” Aren asked. Ivera wasn't there.
+
+“Finish up Ian’s armor,” Veron said. “And then I have some other ideas I'd like to work on with my focus. Otherwise just work on the farm. Warren said there will be a merchant passing through in a few weeks. I plan to join them.”
+
+Ian glanced at him and then continued eating.
+
+Aren gave him a long look and then nodded.
+
+He finished the last piece of Ian's armor late in the afternoon, calling for the teen who was milking one of the Greyr.
+
+“It's done.” Veron stood up and looked at all the pieces. “Sword and shield included. What do you think? I've got some focus left to fit it for you.”
+
+Ian stood there for a long moment and looked at the armor. “I don't even know if I want to be an adventurer anymore.”
+
+Veron stayed quiet.
+
+“But it was fun to train with you, and to hear about you exploring the forest.”
+
+Veron lifted the chest piece. “I'll have a lot more stories next time we meet.”
+
+“If you don't die in a dungeon.”
+
+Veron nodded. “If I don't die in a dungeon. Now, you know you don't have to be an adventurer for armor to be useful.”
+
+Ian breathed in deep and walked over. “Let's see if I can even move around in it.”
+
+Veron started showing Ian the separate pieces and how to get them on. As if he hadn't learned about that himself just a few months ago. It took a while, especially the fitting process but in the end, Ian was clad in stone armor that looked made especially for him. Which was exactly what it was.
+
+Veron couldn't help but smile when he handed the teen his stone sword and shield, both of them a far cry from the brittle and rough first iterations. They looked smooth and well defined, made from the best rocks he could find.
+
+He watched as Ian looked at his weapons and arms. “No matter what your goals are, you look like a proper adventurer or guard.”
+
+Ian smiled. “This is really cool. Thank you, Veron. I'll make sure to train with it often, no matter where I will end up.” He raised his sword and shield. “And I'll keep the others safe.”
+
+Veron laughed and then focused on the teen. “I'm sure you will. Now that you have your armor, up for a spar? I'll have to warn you though, I've killed a Navorok. So I'm not exactly a lightweight.”
+
+Ian rolled his eyes. “Sure, old man.”
+
+Veron expected to win, based on the spars they'd had before. But this time, it felt entirely different. He was ever so slightly faster and stronger, and now he saw how that affected a real fight. Neither of them was particularly experienced but he could easily block every strike the teen sent at him, and he heard the impacts of his spear on Ian's shield.
+
+Less than a minute in, Ian yielded. He fell on his ass and caught his breath. “This is unfair.”
+
+Veron laughed. “Get up when you're ready. And let this old man teach you a lesson.”
+
+Ian grinned and stood up.
+
+They sparred a few times in the coming week and as Veron made a full recovery, it quickly became clear that Ian couldn't keep up anymore. Not that it discouraged him.
+
+Done with the armor set, and occasionally doing repairs, Veron focused on other ideas. Losing his main weapon in a fight was a problem and without the quick thinking of molding the remains of his shield into a spike, he wouldn't have been able to kill the bear.
+
+He tried a few things but finally decided on stone knives and holsters all added and integrated into his armor. Two each near his thighs and another two near his chest. Like that, he could reach three knives with each hand, likely even if he was pinned down.
+
+He trained with them too but with Ivera gone most of the time, he mainly focused on building muscle memory to reach the knives. He adjusted their location a few times but could tell already that he was getting faster with unsheathing them.
+
+Next to that, he thought of other things he could use as an adventurer, things he could make from stone. He made a canteen with a screw cap. It was quite heavy but serviceable. He tried making a pack but it always came out clunky, too heavy, and simply impractical. So in the end, he tried to challenge himself by making increasingly intricate arrows for Ian.
+
+They were difficult to balance and with how thin he made them, he had to push their density to the limit. Even then, most of the early versions simply shattered when Ian shot them at a target. He went back to the basics and used his connection to find the best quality rocks around. The difference was immediate, the first arrow cutting deep into a tree with a thunk, neither off target nor shattering.
+
+Ian cheered and Veron smiled but he was distracted. Something felt different. He felt the ground below him and focused on it. “Oh.”
+
+“What is it?” Ian asked.
+
+Veron grabbed a piece of rock and looked at it intently. He focused on it and built a connection. Slowly, he closed his eyes and tried to understand what had changed. Everything felt farther reaching, his connection deeper, more meaningful. He knew that he could make an even better arrow, the point even finer, the shaft more dense. But something else felt more pressing, more interesting, and different.
+
+He focused on that feeling and opened his eyes. Slowly, the piece of rock started hovering. And then it fell back into his hand.
+
+Elemental Path [Weak]- Harmony of Earth [Novice I]- Harmony of Wind [Faint III]- Hidden Harmony [Faint I]

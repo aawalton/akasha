@@ -1,0 +1,224 @@
+---
+id: 6b4f4c50-c19f-535a-a4e7-b46b41ef8fe1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15: Corpse Filled Reality (Akasha's POV)"
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 15
+ownLength: 1782
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3674315/chapter-15-corpse-filled-reality-akashas-pov"
+royalRoadId: "3674315"
+---
+
+Chapter 15: Corpse Filled Reality (Akasha's POV)
+
+Akasha, go and save as much as you can. I sighed as I remembered Master Shido's last words.
+
+"Damn it. Why did you charge in alone? You should have known the sect leader was already—"
+
+A bear as big as a house appeared before us.
+
+Not the largest I had seen, the spirit bears in the Xinhaan forest ran larger, old enough that the ambient spirit energy of the island had worked its way into their bones and kept adding to them over generations. This one was ground level, which meant it had grown on whatever the earth provided without enhancement, and what the earth provided without enhancement was apparently still more than enough to be a problem.
+
+It was standing at the edge of the clearing.
+
+Behind me were Fridd, Duam, and the civilians who had made it this far.
+
+The ones who hadn't made it this far were also present, in a different sense.
+
+The clearing was filled with them. Not scattered, not a few unlucky stragglers caught at the edges of the fall — filled, the way a riverbed fills after a flood, bodies settled into every low place the ground offered. Some were whole. Most were not. Robes I recognized. A hand still closed around a strap that no longer had anything attached to the other end of it. A child's shoe, alone, several meters from anything that might have belonged with it.
+
+I had seen death before. I had trained for years assuming I would see more of it eventually. None of that training had prepared me for the smell, which was not one smell but several, layered, competing, none of them anything I wanted to keep breathing.
+
+My stomach turned over.
+
+I pressed the back of my hand to my mouth and closed my eyes, and for one long moment I stood very still in a clearing full of my own people and did not look at anything at all.
+
+This was reality.
+
+I made myself open my eyes again. I made myself breathe through my mouth instead of my nose. I shook my head once, hard, the way you shake water off after going under, and turned to face the bear instead.
+
+I gritted my teeth.
+
+A fat merchant behind me was complaining loudly, "Why didn't you save all of us?!"
+
+"Yeah!" Another voice joined in, quick to find courage in numbers.
+
+"Bring back my son!"
+
+"Murderer!"
+
+The word landed somewhere I didn't have room to feel it yet.
+
+"Shut up, or I will burn you all," I said, without turning around. "What made you think you are my responsibility?"
+
+"But—" the fat merchant started again.
+
+This time I didn't let him finish. "Shut it, pig." I turned enough to glare at him.
+
+I meant this more literally than he probably understood. My spirit energy reserves were almost depleted. I had used most of what I came down with during the fall and the initial chaos, and there was nothing here to replenish from.
+
+He trembled and shut his mouth.
+
+Seriously. Why were the useless ones always the loudest?
+
+I looked at the bear. I looked at my hands, where the fire that was usually present at my edges was absent for the first time in years.
+
+I could not fight this. Not in my current state. Not without burning through the last of what I had, and what I had needed to last until I found a way to change the situation.
+
+"Fridd. Duam. This is your training." I pointed at the bear.
+
+"You can't be serious," Fridd's objection came fast.
+
+"H-he's right," Duam's agreement also came fast. "It's too soon. We haven't—"
+
+"I fought something bigger when I was younger." I turned enough to look at them both. "Go."
+
+Fridd's jaw was doing the thing it did when he was angry and processing simultaneously. "I swear you made that up."
+
+Duam was looking at the bear with the expression of someone performing a rapid and unfavorable risk assessment.
+
+I moved behind Fridd.
+
+He started to turn. "Wait, what are you—"
+
+I kicked him forward before he finished the sentence.
+
+He stumbled two steps and turned to glare at me.
+
+I looked at Duam. "Do you also want motivation?"
+
+Duam shook his head emphatically and moved toward the bear before I could provide any.
+
+"Listen to me," I said, as they went. "Finish it as fast as possible and use as little spirit energy as you can. We have nothing to replenish from. Every bit you spend is gone."
+
+"Then I'll end it fast!" Fridd charged.
+
+He charged alone, directly, in a straight line toward the bear with his arms already burning.
+
+I put my hand over my face. "I had just said, specifically, to use as little spirit energy as possible. His arms burning before he had even reached the target was not — this was not what I had—"
+
+"You did also say to finish it as quickly as possible." A voice to my left, mild and amused.
+
+A man was standing beside me. Silver hair, a sword at his hip, and beside him was a woman. Probably his wife.
+
+I ignored him.
+
+"Mm." He watched the bear.
+
+The bear's claws moved toward Fridd.
+
+Fridd jumped onto the arm as it swung, running straight up the length of it toward the bear's face like the limb was nothing more than an incline someone had built for him.
+
+Then the other paw came around.
+
+"That idiot. He'd committed everything to a straight line with no room left to dodge." I gritted my teeth.
+
+Vines came from behind, wrapping around his waist and yanking him back and out of the claw's path before he could do anything about it with his burning arms.
+
+"Fridd!" I did not bother moderating my volume. "Why did you charge alone?! What happened to coordinating an attack?!"
+
+"Fine, so shut up!" he shouted back.
+
+I had plans for him later.
+
+He didn't charge again immediately, which was surprising. He stood, breathing, watching the bear.
+
+He then glanced at Duam. "Can you put vines on my back, shaped like wings?"
+
+Duam nodded and extended his hands. Vines uncoiled from his palms toward Fridd's back, wrapping and re-wrapping themselves into something with a clear structure. They coiled and rearranged, and after a moment, wings.
+
+Fridd burned them, using the shape as a template.
+
+The fire caught along the vine-frame and held there, red wings unfurling from his shoulders, flapping slowly, gaining momentum with each beat.
+
+I looked at them. It seemed they'd finally managed to make it work.
+
+The bear appeared in front of Fridd. It swiped, fast, low, aimed to take his legs out from under him, but Fridd was already moving, wings catching properly for the first time, lifting him clear of the claws with room to spare.
+
+He ascended.
+
+Glowing, red-winged, the moon behind him doing him the favor of a backdrop he had absolutely not earned.
+
+I watched his smug face rise into the night sky and felt something in my chest that was equal parts relief and the specific irritation of watching your little brother succeed at the exact wrong moment to be pleased about it.
+
+"Hmph. Show off."
+
+Then I remembered why that was a problem.
+
+"Fridd, get down! Now!"
+
+"Why?!" he shouted back, still climbing, still grinning.
+
+"Because—"
+
+Something hit him before I could finish.
+
+Water, thrown from somewhere above and to the east, fast enough that I only caught the shape of it after it had already landed. It splattered across his back and took the wings with it, fire guttering out in a single hiss, and then there was nothing holding him up at all.
+
+He fell.
+
+"Damn it!" I was already moving, catching him before he'd fallen.
+
+I was not the only one who'd come after him.
+
+The bear was above us. It roared, raining saliva down on us that I didn't have time to be indignant about — its paw was already raised.
+
+I gritted my teeth and reached for whatever was left of my spirit energy.
+
+The bear's head fell before I finished gathering it.
+
+Someone landed beside it a moment later, silver hair settling against his back. The man from earlier.
+
+He straightened. He sheathed his sword.
+
+His wife was also there, produced a cloth and wiped the blood from his face and his hands.
+
+Our sect had capable people in it that I had never bothered to find out about. That was a failure of information management that I was going to think about later.
+
+He looked at us. "You okay?"
+
+I nodded and immediately checked Fridd.
+
+"Damn it. What happened." He was scowling, disoriented, one hand pressed to his side where the water had hit him.
+
+Good. Complaining meant conscious. Conscious meant I could yell at him.
+
+Duam came up behind us, panting hard, one hand braced on his knee. "Are you okay?"
+
+I looked at him. Not good, he'd already spent most of his spirit energy. I would also yell at him later. Not now.
+
+I looked back at Fridd and chopped the top of his head. "Get off me. You're heavy."
+
+He pushed himself up and turned away before I could see whatever his face was doing.
+
+I stood as well, patting the dust and worse off my robes. "Fridd, no flying for now."
+
+"Why not?"
+
+"Because you'll be taken for an invader."
+
+"I'm not invading anything! I just wanted to gather spirit energy!"
+
+"I know that. They don't." I kept my voice level. "Anyone flying in the open sky, anyone unfamiliar landing on an island that doesn't know them — that's the assumption everywhere above made, right now especially. The islands have been at war with each other since the pillar of light disappeared. Nobody's checking intentions first."
+
+"Then how are we supposed to cultivate spirit energy?"
+
+I turned toward the treeline. "I don't know yet." I started walking.
+
+"We're not going to bury them?"
+
+I didn't stop. "That's not the priority right now."
+
+My hands were clenched at my sides hard enough to hurt, and I let them stay that way.
+
+Fridd didn't ask again.
+
+The others fell into step behind us. They weren't complaining this time. Good. Because I would seriously leave them behind if they didn't shut up.
+
+Then, from somewhere behind, the sound of something being dragged. I turned around.
+
+It was the man with silver hair again, dragging the bear by one paw. He smiled when he caught my eye. "Dinner?"
+
+Somehow he reminded me of Gwyn. I wondered where she and Raffea were. I hoped both of them were safe.

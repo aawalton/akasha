@@ -1,0 +1,133 @@
+---
+id: 82197a8e-1640-547c-ae53-d2fbb9bcb477
+page-type-slug: story-chapter-royal-road
+title: "Chapter 766 - Domus"
+slug: 0091-chapter-766-domus
+partOf: hell-difficulty-tutorial
+position: 91
+ownLength: 2581
+unit: words
+publishedAt: 2026-03-08
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3131097/chapter-766-domus"
+royalRoadId: "3131097"
+---
+
+As if expecting my question, Silverweave steps closer. She’s slightly shorter than the other two, though she still towers over me. My guide, already forgotten and used to receiving this sort of treatment, takes his leave.
+
+Silverweave, meanwhile, bends lower to show me some graphs tracking multiple lines of data and starts talking about different materials and their properties, along with other information they’ve gathered.
+
+Even without me asking, she agrees that Eldrin might be too greedy and wasting time searching for a perfect fit, even though we could make do with other options.
+
+The male mora hears this and only snorts in annoyance before moving away. Just two swift steps take him toward the control pillar, where he starts changing settings.
+
+Silverweave continues to talk about how they came to their conclusion and about a material they’ve managed to track down. She confirmed its properties with the Local crafters, and yet it apparently cannot be found on any of the floors.
+
+This goes on for ten minutes as she goes more and more into detail. Of course, I remember it all and store it somewhere in the deep, dark parts of my mind, all while translating certain parts that I need to keep at the surface so I can think about them.
+
+When she says, “Eldrin is fixated on achieving a zero-loss superconductivity loop, which is why he wants to use Everwood. My data shows that if we utilize a layered sintering process, alternating thin sheets of refined voidcopper around Everwood, we can create a 'buffer-wave' effect. Using Everwood replacements would result in roughly a 15% loss of total output due to heat dissipation, even though overall stability would remain within acceptable margins. We need a material that doesn't reach the point of mana and primordial energy fatigue within the first few minutes of operation."
+
+I translate that to: Eldrin needs a conductive material, and Everwood seems to be really good for that.
+
+“Eldrin, do you really want Everwood because of that, or is it just some new material you’ve heard about and find yourself wanting to experiment with?” I ask.
+
+The mora turns toward me from the control pillar at the question. Standing there tall and towering, he smiles, showing off the fangs all mora have, which are strikingly similar to a lynthari's. He smiles even wider, like a savage or like he was raised by wild animals in the forest, which is totally unfitting for one of the most brilliant crafters in Beyond.
+
+“Yes,” he says.
+
+“Yeah, I thought as much,” I wave it off.
+
+Silverweave explains, sounding disappointed and a bit sad, “We wanted to send Brich, but there are some things he’s been wanting to do, so he rejected us.”
+
+“The horror,” I shake my head before turning to Isolde. She hasn’t said anything until now, but she has a satisfied smile on her face, likely from the thought of me triggering her trap. “What are you smirking about?”
+
+Isolde doesn’t get to answer because Eldrin activates the pillars. This causes a circular hole, which had been invisible until this point, to open in the floor. “We were thinking of using a piece of your Fragment of the Nameless Tree, but if I’ve guessed correctly, it’s still a pretty long way from being fully mature?” Eldrin asks.
+
+I confirm that with a nod. “I told you it would take years. Did you think I found some kind of magical fertilizer or something? It just continues to grow while I try to steer it in the way I want it to grow. It is a really powerful fragment, but it’s going to take a bit of time. And what even is Everwood?”
+
+Another pillar rises from the hole Eldrin opened. It is transparent glass, and inside it are the assorted parts of our project. There’s the Red Heartstone, a material we’ve converted into a network of logic cores and nodes, mana stones, materials we’ve purified, and various pieces of my bones and flesh. All of which is slowly condensing into the shape I’ve chosen for it.
+
+The Chestplate.
+
+Eldrin flicks his hand, causing the ring on his finger to activate and weaken the barrier. He reaches inside to take out a piece of metal, bringing it with him to set on the table.
+
+As he walks, he explains, “Everwood is a bio-metallic alloy that physically fuses high-density timber with reinforced metal ore into a single material that continues to grow even after harvested. It possesses near perfect conductivity, which causes a broad range of energies to travel through its fibrous grain with almost no resistance. We simply couldn't find a material more conductive than your body, the floors are just poorly chosen, and the deck has been stacked against those of us with a love for creation.” He lets out a long sigh. “Everwood should also be able to continue to grow in strength, as we would hope for an item we wanted to strengthen as it matures.”
+
+His head turns around, almost to the point where I think he might snap his neck, and he stares at me again with his pale yellow eyes. “Maybe I’ll forget all of that and simply take your body. I’m certain I could find a healer to constantly regenerate you while I took you apart piece by piece. Imagine the items we could make. You would just need to sign a simple contract, and I promise we would put more resources into you than into Brich.”
+
+“Not interested.”
+
+Eldrin’s eyes narrow, and he nods with a smile, but he doesn’t say anything to that.
+
+Silverweave answers instead, "The three of us specialize in item crafting. We are not bio-engineers. Converting living tissue into a permanent, functional conduit requires a deep understanding of somatic mana conductivity that only someone like your 'Doc' or a high-level healer possesses."
+
+She tries to show me another graph she’s quickly drawn out on her tablet. "Our current knowledge of biological preservation is limited. If we attempted to integrate too much of your body into the item, as conductive as they are, we’d face a necrotic feedback loop within months or years. The mana and your primordial energies would simply 'cook' the organic cells once they lost their natural regenerative connection to your body. As of yet, we lack the tech to prevent thaumaturgic rot in living specimens. We already have to restrict ourselves to harvesting specific, high-density body parts and not many of them. We have to focus on the pieces we can stabilize and seal to ensure they don't lose their inherent properties or suffer degradation."
+
+Once again, I listen to her and nod once in a while, which seems to make her happy, and encourage her to talk more.
+
+For the first time, Isolde speaks to interrupt her fellow crafter. “To cut out the unnecessary details: we want Everwood. It will be good for the chestplate, and therefore good for you. It will also be good for us. Your handler should be able to help you find a quest that would allow you to gather some. An A rank quest, S rank quest, 100 year quest, or 1000 year quest, or perhaps she can get you into some kind of event. It doesn’t matter.”
+
+“What are you so smug about?” I ask her again, annoyed by her smile that doesn’t at all seem to relate to anything she’s talking about. I am almost at the point of telling her what I did to the toilet subsystem, but I hold myself back. “Okay, I will ask my handler. Is there anything else you need from me?”
+
+“I have some interesting information about the Ruler of Diligence that I learned not that long ago. Want to trade me for it?” Isolde smiles more. Just like me, she has an insatiable sense of curiosity.
+
+Meanwhile, Eldrin is already fully ignoring us to the point that I’m sure a first floor version of me would be able to sneak closer and steal something from his pockets without the mora even noticing.
+
+Silverweave, a nerd who’s completely uninterested in this kind of talk, heads toward the pillar to grab a piece of my bone from it. It’s part of my arm, but in her hand, it looks so small. She sniffs at the bone, then licks it, and then writes down some notes.
+
+“What do you want?” I ask Isolde as I watch Silverweave nibble on the bone this time, and note something down again. After a while, I take my eyes off Silverweave and focus on Isolde instead.
+
+"I want something from that healer of yours, Lily Chen. Since she joined Bloodline, it’s gotten difficult to even attempt to contact her, and she just rejects the messages I send through Bloodline’s leadership."
+
+"There are a lot of people bothering her," I answer. "So, what do you want from her?"
+
+Isolde’s fangs show slightly, though she doesn't act as savagely as Eldrin or as weirdly as Silverweave. Isolde is more of the observant type, though she has that weird sense of humor.
+
+"I have a side project of my own, and for that, I want a piece of her spine that I’m sure she can easily regenerate," she says.
+
+"I would expect this from the catboy, but not from you."
+
+She shakes her head. "Can you do it?"
+
+“That depends on your information. I’ll either get you a piece of her spine or arrange a meeting, which I’m sure you would prefer,” I say, as I try to imagine petite Lily standing opposite a mora who’s twice my height. Then I realize that, even in such a case, Lily could probably grab Isolde by the leg and swing her around like the brutish bulldozer she is. I glance at Isolde and imagine the scene, which causes her to misunderstand my stare.
+
+"My information is very good, the kind you like best," she says quickly.
+
+"Go on," I invite her.
+
+"I accepted this information as payment not long ago, so it’s still pretty fresh for me as well. First, how much do you know about him?"
+
+"Not much," I say, deciding not to reveal anything I’m not sure she already knows.
+
+Realizing this, she smiles and looks down at me from where she stands, tall and imposing. "The Ruler of Diligence, who also used to be known as the First One, and his past self can be met on the 4th floor. He was born from the experiments of a lynthari Champion in an attempt to create a weapon formerly known as the Colony. The First One was supposed to be the core of that: a hive mind, a node to channel all the thoughts of the Colony. A protector of queens and their general. Of course, it all went very wrong."
+
+"Of course," I nod.
+
+"Virelia fell, his [Hive Mind] evolved, and all that. He became an Absolute and fought against two other Absolutes who intended to erase the Colony together. There were a number of pairings, challenges, his well-known feud with the young dragon, the Corporation betrayed him and tried to sell him out, the Slayer was hired to erase him, and in the end, the First One challenged the Ruler of Diligence and won. All that is more or less well known."
+
+I blink and just nod, trying not to let anything show on my face while thinking about how I want a five season, twelve episode series of that with a proper budget for CGI effects.
+
+"What I wanted to tell you," Isolde says, "and what I find the most fascinating, is where the Ruler of Diligence is now. I thought about it and made some simulations of how I imagine things to be."
+
+She pulls out a big sheet of glass and taps on it. Colors flow into it from multiple containers connected to the glass, mixing and creating pictures. At first, it shows an image of a solar system with what seems to be a dying star. There are ten planets, each with multiple moons.
+
+"This was his planet back when he just became a Ruler, the one Virelia was on. The star was dying because of the lingering consequences of the fight against the previous Ruler."
+
+The images start moving, and gradually, the planets change their orbits around the star and start moving closer and closer toward the planet with Virelia. It feels sped up, as if I’m watching something that must have taken decades or centuries in reality. One after another, the planets crash into the main one, throwing off debris that circulates the globe before later raining onto the surface or burning up and connecting. They do this one after another.
+
+"He wanted to artificially strengthen his planet, not just through pairing, but also like this. While it isn’t nearly as effective, it does create a bigger home for his Colony, which is still hidden deep below, while the surface is bombarded by the fragments of other planets, turned into a living hell. Deep underground, somewhat safe from the Absolutes, safe from the Slayer, and safe from the many others attempting to kill him."
+
+She talks as more planets appear, pulled from greater and greater distances, and solar systems far away. Asteroids follow, all slamming into it and turning it into a burning hell, yet growing in size.
+
+"That planet grew and grew. It took millennia upon millennia of careful planning and execution, but one day, when it was finished, Domus became one of the biggest planets in the system. Bigger than some stars.” Her eyes light up, and her voice quickens with excitement. “Imagine it. Stabilizing a star of that mass would be insane enough, let alone a planet. And then preventing the planet from collapsing into a black hole? Just how much knowledge and power would something like that require?”
+
+The simulation shows it, the planet is now enormous, taking up most of the solar system and possibly more. The star now orbits it instead.
+
+"And the old, dying star wasn't enough. So the First One, in a display of the talent we crafters all bow to, created an artificial star. He seeded it into the core of an old one, used its remains as a spark to kick things off, and made it grow, placing it in orbit around the Colony’s home planet, Domus. Then he brought in another star, forced it into a stable orbit, and now both of them are circling the planet!” She laughs in happy disbelief.
+
+At high speed, the simulation changes. The planet cools off, its surface is eventually covered in greenery, water, and enormous mountains as tectonic plates shift, though many gigantic craters where the other planets’ crushed remains are still visible. The stars expand in size, still not comparable to the planet, but they glow brighter nonetheless with a healthy orange-yellow light.
+
+I ask the question Isolde likely wants me to ask, "How many ants are there in the Colony?"
+
+The mora smiles. "Quadrillions, for sure, but possibly more. Maybe quintillions? Sextillions? However, this is the information I had for you. Now, respected S rank, Absolute Candidate Nathaniel Gwyn, may I know if I have satisfied your ever hungry curiosity, and what is the word regarding my payment?"
+
+I look at her and then back at the sheet of glass. "I will put in a very good word for you, and Lily can decide if she wants to meet you."

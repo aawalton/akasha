@@ -1,0 +1,153 @@
+---
+id: 0ec29789-4c85-5a61-9b8c-4527819aa5f5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 725 - Accumulation"
+slug: 0050-chapter-725-accumulation
+partOf: hell-difficulty-tutorial
+position: 50
+ownLength: 2158
+unit: words
+publishedAt: 2026-01-08
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2924790/chapter-725-accumulation"
+royalRoadId: "2924790"
+---
+
+A single step with Wraith Dance takes me outside the barriers I created and closer to the sword. I reach out and wrap my hand around the handle. The mana stored inside is not the kind anyone can use. Its frequency has been tuned exclusively for Savi. But that doesn’t pose a problem for me.
+
+Sensing more attacks heading my way, I turn toward them, boosting my body and swinging the sword in my hand dozens of times in succession to deflect and cut through the incoming projectiles.
+
+I use Wraith Dance at the farthest distance possible, then again twice more, reaching my attacker. One of the spies, the one they called Three, stands there beside a healer, both surrounded by a barrier.
+
+I deflect further attacks with the sword and resonate the mana across my skin, matching the barrier’s fluctuations. I step through it and drive the sword into the stomach of the healer woman before kicking her away.
+
+Using Pulser Stance, I move, unpredictable and fast, reaching Three as well. I slice through the defense he’s rushing to form and cut through his arm at the same time. I accelerate further and take off his other arm before stabbing through his chest, careful not to kill him.
+
+Kicking his body, I fling him into the wounded healer before teleporting away through the line I left connected near the kids.
+
+The instant I reappear there, I surge my mana outward, pushing back against a massive area attack heading our way. I narrow its wave, compressing it until it collapses and destroys itself from the center. In the cloud of flickering mana particles, a single black orb appears, formed from my compressed mana. It hovers there, absorbing the loose mana left from the clash that couldn’t have raged nearly as long as it felt.
+
+I pull on the link connecting me to Lily, and when I feel her signal, I immediately teleport her to my side.
+
+She appears with [Disintegration] flickering on her axes, her hair shorter than before. Her clothes are torn in several places, and I notice a wound on her arm just before it closes in the blink of an eye.
+
+Not for a moment do I worry about Savant. With attacks like these, he will be more than okay.
+
+“Can you heal the kids?” I ask Lily. “Vega and Mini have frostbite, and the others have mild mana poisoning and possibly damaged sight and eardrums.”
+
+“Will do. I’ll keep an eye on them, so go do your thing,” she says, pausing mid-step before turning back to me with a small smile. “Be careful, and remember, you don’t want to level up yet. We still haven’t finished the preparations.”
+
+“Yes, I know,” I nod.
+
+With that, I lift off into the air, rising higher. The black orb floating nearby follows me. More attacks fire my way, but they’re all mana-based and break apart, getting absorbed by the orb.
+
+High above and far enough away, I break apart the halo I’ve been using to gather all that mana, even with the thermal energy I’ve been converting.
+
+I do not send it into the black orb. Instead, I pull it gradually into my body. Mana Cycling takes over, moving it instinctively, supported by my preparations and the parts of my mind I’ve assigned to handle it. All that mana floods my body and the air around me, while more attacks try to reach me, only to be devoured by the nearby orb.
+
+[Accumulation - lvl 21 > Accumulation - lvl 22]
+
+I take note of the places where the attacks came from, and I see someone else as well. Savant moves from one point to another, the orange glow of [Dawn] flashing in every area the attacks originate from, snuffing them out as fast as they appear, even without him wielding his sword.
+
+Raising my hand higher, I examine the weapon I’m holding.
+
+Sword of Aeons (Low Pristine) - An immensely durable and sharp relic blade that functions as a pure mana battery. It cannot be used for anything else. The sword can store vast quantities of mana of any frequency, preserving it almost indefinitely with nearly no loss or instability.
+
+I have no idea how he managed to get it to this grade, and I am sure there’s a huge adventure behind it. But for now, it is in my hands, lent to me by its owner, who, after some consideration and after learning something he still hasn’t shared with me, decided it could be used for my plan. And I will use it for that purpose.
+
+[Focus] clears my thoughts. Nearly all sound fades into the background, and the world drains of color, as my senses dull. Only a small part of me keeps watch on my surroundings, while most of my mental capacity divides into five segments, each racing to complete its task.
+
+The first brings the array I stored to the surface and activates the protocols I prepared inside my body using something similar to a Logic Core.
+
+The second releases the second seal on the Ignition Heart and begins redirecting the generated thermal energy into mana.
+
+The third fully activates my Mana Wavelength Iris, filtering out any unnecessary information so it doesn’t overwhelm me.
+
+The fourth protects my brain and hearts, redirecting any destabilization elsewhere if necessary.
+
+The fifth oversees the rest, monitoring all mental divisions, balancing their efficiency, preventing interference, and calculating predicted mana wavelengths while automatically adjusting priorities throughout the process.
+
+My physique does what it was built for, and my passives prey on all that mana, strengthening my control as more of it fills the air.
+
+Then there’s me. I alone gather and channel it all.
+
+[Accumulation - lvl 22 > Accumulation - lvl 23]
+
+[Accumulation - lvl 23 > Accumulation - lvl 24]
+
+[Accumulation - lvl 24 > Accumulation - lvl 25]
+
+[Redistribution - lvl 70 > Redistribution - lvl 71]
+
+[Accumulation - lvl 25 > Accumulation - lvl 26]
+
+[Accumulation - lvl 26 > Accumulation - lvl 27]
+
+I take the raw, foreign mana stored within the Sword of Aeons and restructure it into wavelengths I can use. I disassemble incompatible frequencies, harmonize them with my own signature, and condense them into a form I can manipulate.
+
+Multiple attacks crash into me, but with the sheer amount of mana surrounding my body, they behave unpredictably. Some swell and grow stronger, others vanish completely, while a few simply merge into the swirling vortex around me, all drawn inward where my control over mana is the strongest.
+
+A notification chimes, signaling that I have fulfilled one of the requirements for the Absolute Candidate quest, but I barely acknowledge it. Half the mana I need still remains inside the sword, and I pull it all out, transferring it through my body, making it mine, merging it with the immense amount already gathered.
+
+[Accumulation - lvl 27 > Accumulation - lvl 28]
+
+[Accumulation - lvl 28 > Accumulation - lvl 29]
+
+Dozens of wounds tear through my body, but the flames under my skin keep combusting, healing them faster than they can form.
+
+Then all the divided parts of my mind snap into one, and I grab every last trace of mana I’ve gathered.
+
+[Accumulation - lvl 29 > Accumulation - lvl 30]
+
+...
+
+[Accumulation - lvl 41 > Accumulation - lvl 42]
+
+[Mana Manipulation - lvl 73> Mana Manipulation - lvl 74]
+
+I push further and compress it all, all the tens of thousands of points worth of mana, and [Focus] it into a single spot. An orb.
+
+[Focus - lvl 71 > Focus - lvl 72]
+
+The orb floats in the air beside me. Small, whereas its presence is anything but. Its surface shifts between liquid and solid, like molten glass trying to decide what form it should take. The color is black, yet not completely so. A faint shimmer crawls beneath the surface when the light catches it just right.
+
+When I focus on it, I can feel the density inside, compressed mana, folded again and again until it finally reached this state.
+
+Every time a stray fragment of mana touches it, the orb consumes it instantly. There is no noise, no flash, only a quiet ripple and then stillness again.
+
+Before I lose control, I shoot the orb at the highest point of the barrier. Even as it swiftly flies there, I feel it pull on my mana while my mind returns to a normal level of focus. In that short moment, the orb breaks through my natural barrier and devours all the mana I have left without any difficulty.
+
+It all leaves my body so cleansed of mana, I feel like I did before the tutorial. Only my primordial energies remain. My constructs and passives shut off, my split minds disappear, all my skills, all signs of mana are gone. The seals of my Ignition Heart are back in place, but without even a bit of mana to use [Redistribution], my primordial energies are harder to handle.
+
+I find myself starting to fall toward the ground as I clumsily take over kinetic energy, and even with how far I have flown, the orb continues to devour any mana I could gather. All attacks still reaching me disappear, and the ambient mana around me starts getting pulled toward it.
+
+With only normal human eyesight and hearing, I watch the orb reach the top, where it makes contact with the red barrier.
+
+For the shortest moment, it looks like nothing might happen, but then the barrier ripples and is sucked in completely, like someone pulling a tablecloth from a table in one swift movement.
+
+I blink as the light now feels so different and bright without the pale red filter over it, and only now realize that the entire time here, I haven’t felt the wind. It comes rushing in, that amazingly refreshing breeze against my skin, and I take a deep breath.
+
+The black orb isn’t that much bigger than usual, about the size of a smaller tangerine, and it gradually shrinks as it continues to devour all the mana it can reach now that the barrier is gone. It pulls from the people below it, thousands of them losing their reserves, no matter how small or big, while any items powered by mana deactivate.
+
+It reaches even toward the spies and Lily and Savant below, but before it does, an orange light flashes once, and I feel a pulse of Lily’s healing mana spreading below through the area, likely starting their preparations to get rid of the virus.
+
+“You shouldn’t have done that,” a voice next to me says.
+
+Before I even turn in that direction, something slashes diagonally across my chest, digging a deep wound into it from which blood starts gushing out.
+
+Magistra stands in the air next to me, still in her luxurious clothes more fitting for court, and she holds her hand up, my blood showing on her nails. “I will make you regret it. Why couldn’t you just do what you came here to do?” she sighs, but barely looks at me. Instead, she stares at the black orb with a furrowed brow. “What a disgusting thing you have made.”
+
+Then her eyes turn back to me as she lifts her hand, but stops mid-movement. Her expression turns to that of pure horror, and she bows her upper body so low her head is at the level of her knees.
+
+“I greet the Absolute!” she calls in a greeting, and I can hear her voice shake at the end.
+
+A blunt thump of a heart fills the area, or maybe the entire fifty square miles. Then another beat, reaching twice that far. The third, I don’t even dare to estimate where it went. The fourth makes my teeth shake, and my bones rattle. The fifth makes me feel like it has spread through the entire planet, and I’m almost sure the sixth one would kill me.
+
+But the sixth one doesn’t come, and instead, there is a silence that makes me feel as if the entire world halted all movement in the presence of this Absolute. Clouds above us halt mid-drift. Dust in the air stops falling. Even the black orb seems to hesitate before continuing to devour mana at a slower pace.
+
+I feel a push on my back, and I am flung toward Magistra before spinning and turning toward the person standing there.
+
+The Hornless Demon, the demon Absolute, floats in the air, and in his hand is a heart, beating wildly. It keeps spraying golden flames across his chest, but they never touch him. They just curve away, avoiding his skin.
+
+Then I recognize that heart.
+
+Blood spills from my mouth and stains my shirt. Only now do I register the hollow through my back, scorched by thermal energy, where one of my hearts has been ripped out.

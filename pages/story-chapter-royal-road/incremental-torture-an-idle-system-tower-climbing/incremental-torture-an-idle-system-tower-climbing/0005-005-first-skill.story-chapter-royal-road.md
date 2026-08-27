@@ -1,0 +1,145 @@
+---
+id: ac4a11a6-b27f-5eee-9bd4-a2c305c8bb98
+page-type-slug: story-chapter-royal-road
+title: "005: First Skill"
+slug: 0005-005-first-skill
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 5
+ownLength: 2161
+unit: words
+publishedAt: 2024-03-29
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1572181/005-first-skill"
+royalRoadId: "1572181"
+---
+
+This tower is pushing us on purpose just to see when we’ll snap, I know it. Why offer me four ‘rewards’ that I can’t afford. All I have is 3 essence. Even the Full Recovery is out of my price range.
+
+Right as Evelyn was cursing the tower and whatever infernal psychopath built the damn thing, the corpse of her unfortunate opponent had begun to shimmer. Softly at first, but soon his entire body erupted into a blazing blue pyre. The flames emitted no warmth, though it would’ve been difficult to tell the difference thanks to the sweltering heat of the sun on this floor.
+
+After just five or so seconds, the impromptu funeral pyre burnt out and the corpse had vanished. All that remained were a few glittering motes of white light which flew at Evelyn and shot straight into her chest. A fuzzy feeling dissipated outwards from the impact across her whole body and she noticed that her total essence had increased from 3 to 37; it seemed that one would be rewarded for slaying their fellow humans in this place.
+
+Thankfully I’m not so mentally deranged that I would go around slaughtering everyone I see in order to accumulate massive amounts of essence, though I’m sure there are plenty of less than savoury members of the human race who will be having a field day right now.
+
+With the essence from her defeated opponent, Evelyn now had enough to purchase another attribute point, however she was unsure if it would be a wise idea. Now that she knew the tower would offer her rewards that might be too expensive to buy with the essence earned from a single floor, perhaps saving up in case something incredible was made available.
+
+I have this rusty dagger too. The message said I unlocked the ‘Local Shop’ after clearing the 3rd Floor, so perhaps I can sell it? If I’m able to browse through what’s on offer I should also be able to get a clearer picture of the tower’s economy and what other things I can buy with this essence.
+
+Essence: 37 『+1 / 6 hours』
+
+~~ Stars ~~
+
+Grey: 1
+
+** Local Shop **
+
+【KILL】
+
+On the main menu, a new option had appeared. In fact, the only part which remained unchanged since the moment she’d arrived in the tower was the ominous instruction to KILL. Despite the brutal nature of this place, at the very least it did not lie. What you saw was what you got and it seemed that only by gritting her teeth and pushing her way through whatever nightmarish crap it sent her way would she have a chance of seeing her friends and family again.
+
+Evelyn opened the Local Shop and the screen which appeared was a tad smaller than she’d been expecting. A welcome message was overlaid, but she could see a small list of items and the price in essence listed beside each.
+
+Welcome to the Local Shop! You may sell any undesired items to the tower in exchange for essence, or purchase items which have been sold by other challengers. At this time, only items sold by challengers in your cohort may be purchased.
+
+So we cannot sell directly to other challengers and instead only to the tower, which will then sell whatever we offer on to the next owner. I assume by my ‘cohort’ it means all of those who were inducted into the tower from Earth. So we won’t be able to use the Local Shop in order to purchase anything obtainable from higher floors. That sucks. So much for using this to get a gauge on whether the tower’s prices are a scam or not.
+
+Let’s see how much essence I can get for this rusty dagger. I don’t think keeping it will benefit me much and I want to see if I can get enough to purchase the common skill crystal. It seems the tower offers abilities far beyond our imagination and if I’m going to be stuck here I don’t want to make the wrong choices and find myself stuck, unable to move onwards.
+
+After closing the welcome message, she was left with just the list of purchasable items, mostly just more rusty daggers, however Evelyn did notice a couple of grey stars and even the odd attribute point. It seemed some people were not happy with their purchases, though it made little sense to her. It cost even more essence to purchase things in the shop than it did after clearing a floor. Though that cleared up the mystery of why it was still considered to be a reward when you still had to pay for it.
+
+** Local Shop **
+
+BUY | SELL
+
+〖Rusty Dagger〗 - 30 Essence
+
+〖Rusty Dagger〗 - 30 Essence
+
+〖Rusty Dagger〗 - 30 Essence
+
+〖Rusty Dagger〗 - 30 Essence
+
+〖Rusty Dagger〗 - 30 Essence
+
+〖Rusty Dagger〗 - 30 Essence
+
+〖Rusty Dagger〗 - 30 Essence
+
+〖Rusty Dagger〗 - 30 Essence
+
+〖Rusty Dagger〗 - 30 Essence
+
+〖Rusty Dagger〗 - 30 Essence
+
+〖Grey Star〗 - 48 Essence
+
+〖Grey Star〗 - 48 Essence
+
+〖Grey Star〗 - 48 Essence
+
+〖Grey Star〗 - 48 Essence
+
+〖Grey Star〗 - 48 Essence
+
+〖Grey Star〗 - 48 Essence
+
+〖Attribute Point〗 - 18 Essence
+
+〖Attribute Point〗 - 18 Essence
+
+〖Attribute Point〗 - 30 Essence
+
+It seems there were a lot of people who wanted to get rid of the rusty dagger. It certainly hadn’t been that useful for the poor sod who she acquired this one from, though that was more due to his hesitation and seeming unwillingness to fight rather than any failure of the weapon itself. Judging from the prices, it seemed that anything sold to the Local Shop would be put back on sale for 20% more essence than it cost to purchase originally.
+
+That final attribute point costs a little more. I wonder what would make someone sell the second one after already purchasing and investing the first - maybe they weren’t satisfied with the increase to their abilities? Though I certainly noticed the improvement, however slight it may have been. Alright, let’s see how much I can get for selling this scrap metal.
+
+** Local Shop **
+
+BUY | SELL
+
+〖Rusty Dagger〗x1
+
+〖Grey Star〗x1
+
+So you can’t sell attribute points that have already been invested. That’s useful to know, though I can’t imagine a situation where I would want to sell them. The grey star’s passive earning effect is slow, but who knows how that could change in future. I can’t rely on the tower to keep providing essence on every floor, so having the option to earn it myself is a powerful asset.
+
+For now I’ll just get rid of the dagger and see what I can afford from the rewards of the 3rd Floor. Those attribute points are tempting at just 18 essence and I could afford both right now, however I want to see what the common skill crystal does before I jump into a decision, providing I can afford to purchase it.
+
+You will receive 12 essence from the sale of 〖Rusty Dagger〗x1
+
+Confirm?
+
+YES | NO
+
+Evelyn burst into raucous laughter at the message from the tower. It was the first time she’d been able to release the pent up stress that had been festering for the last day or two - it was hard to know exactly how long she’d been here. Despite her reaction, she still tapped ‘YES’ and the rusty dagger disappeared from her hand, vanishing to god knows where, while her total essence increased to 49, just 1 shy of being able to afford a common skill crystal.
+
+It wouldn’t be a problem for her. Having accidentally discovered that the portals would remain open for a while, Evelyn had no need to rush to the next floor. She could simply wait for the timer on her grey star to run down and she would then have enough to make the purchase. Her throat was dry and her entire body was coated in a sticky film of half dry sweat. She would need to find a source of clean water very soon.
+
+~~~~~
+
+Being in the shade of the colosseum walls had barely slowed the incessant march into dangerously dehydrated territory and Evelyn was starting to notice the effects. A slight headache had been the first sign, followed by her muscles refusing to stop burning despite the six hours of rest while she waited for the grey star to give her the final essence she required to purchase the common skill crystal.
+
+I just have to hope the next floor has a way for me to get a drink, otherwise I might just be screwed. Though I don’t believe the tower would bring us only to allow us to die due to a lack of water. I’m sure in the last possible moment before my dry and crusty death it will offer up just enough to keep me going for a few more floors.
+
+To be honest, I’m sorely tempted to purchase a second grey star, however I have a strong feeling that if I fail to increase my personal strength I might find myself unable to overcome the challenges presented on the coming floors. If the common skill crystal turns out to be a waste of essence, I can rethink my strategy, but for now I’m curious to see what it offers.
+
+She purchased it for all 50 of her essence and immediately the item appeared in the palm of her hand. It was a perfect tetrahedron made of polished grey crystal that reflected the dazzling light of the sun. The only thing missing was an instruction on how to use the damn thing. Though given the thus far frustrating and downright cruel nature of the tower, Evelyn wasn’t surprised.
+
+It seemed that there would be some experimentation required. First she simply held it against her chest, then her head for around ten seconds each. Nothing happened. Next Evelyn simply tried to think, then say aloud, “Activate common skill crystal,” and other similar variations of the same phrase to little success. Against her better judgement she even tried nibbling on a corner of the object to see if anything happened and to her surprise it was rather soft and a small piece fell onto her tongue.
+
+It melted almost immediately, the gentle fizz numbing her tongue. It tasted like liquorice. Not the candy, but the fresh leaves. Evelyn didn’t hate it, but the idea that she would need to eat the crystal in order to activate it was rather absurd. However, this was the only progress she’d made given that all other avenues had led to failure. There was one option left to try before she chowed down on the grey hunk of glassy crystal.
+
+Grasping the crystal firmly, Evelyn tightened her fist and applied as much pressure as she could onto the common skill crystal. Having seen for herself how much softer it was than it appeared at first glance, she knew it wouldn’t take much effort to break. Her guess had been right on the mark and after applying just under half her full power, the crystal shattered into dust and fragments which dissipated into shimmering grey light.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Bulwark (Common) - Take slightly less damage from physical attacks.
+
+Gee thanks tower! What a marvellously insightful explanation. Though I have to say it does sound pretty useful. I didn’t take any hits on this floor, but against the numerous rats the damage from each strike does build up. Something that lets me last a little longer will be really beneficial, even if the reduction is only minimal.
+
+I guess it’s time to head to the 4th Floor. I just hope it isn’t more rats. Then again, I would prefer to deal with rats than have to go through something like this again. I’d be a shoddy serial killer, that’s for sure. The guilt would drive me insane and I’d end up handing myself in.
+
+Without delay, Evelyn made her way over to the portal in the centre of the colosseum and walked straight in. Her surroundings on the other side were far dimmer, with just a lit brazier giving a small circle of vision, beyond which was pure darkness - a sheer contrast to the sunny 3rd Floor. After taking a moment to allow her eyes to adjust, she looked around and realised that the surroundings looked rather similar to the first two floors.
+
+She had a horrible feeling and turned around to see two huge red eyes glaring at her from the shadows. There seemed to only be one enemy on this floor, at least for now, however it was definitely far bigger than anything she’d faced thus far. The eyes approached slowly and the creature’s body was revealed as it entered the circle of light from the brazier.
+
+“Motherf-” Evelyn cursed.

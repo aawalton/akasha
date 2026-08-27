@@ -1,0 +1,135 @@
+---
+id: b425f049-9486-5929-ae67-1a6ae92db0bc
+page-type-slug: story-chapter-royal-road
+title: "350. Investigation Station"
+slug: 0350-350-investigation-station
+partOf: god-of-trash
+position: 350
+ownLength: 1998
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3814763/350-investigation-station"
+royalRoadId: "3814763"
+---
+
+Rhys read the book cover to cover. It wasn’t long, nor was it hard to read. In fact, it was exceedingly easy to parse. Far easier than any of the trash (or non-trash) manuals or tomes he’d ever read, as if it had been deliberately written to make it as easy as possible to understand the book’s material. There were even helpful diagrams and practice exercises included in the book. Rhys snapped it shut, eyebrows raised, and mused: if I’d had access to this as a kid, everything would’ve been much easier.
+
+Except for the part where it’s definitely some kind of trap that cuts you off from actually becoming a mage. Apart from that, this thing is amazing. Honestly, whoever wrote this should give up evil and write textbooks instead.
+
+Ah, who am I kidding. Evil pays way better.
+
+Whoever said ‘crime doesn’t pay’ never worked a 9 to 5, I’ll tell you what. Crime hella pays. Go ahead, name a billionaire that doesn’t do some kind of crime. I’ll wait.
+
+Just looking at it, he couldn’t immediately spot the flaw or the failure in the technique, but from examining Akio, he knew it was there. Ordinary people didn’t have mana that self-destructed when someone else investigated them. He considered it for a few more moments, then realized: I don’t really know what a good technique book looks like.
+
+He’d mostly walked his own path. It wasn’t like he hadn’t used the library, but he’d mostly deliberately sought out trash when he’d made use of it. The book he’d studied the most was the little red void book that he was still sure was connected to Daran somehow, however much the man denied it, and that thing was absolute garbage. His positive examples were nonexistent to extremely limited at best.
+
+Rhys shrugged to himself. If he couldn’t do it, that meant it was time to outsource! Ryota had grown up in the lap of luxury, surrounded by all kinds of valuables. He surely knew what a good magic book looked like.
+
+So decided, he kicked off the ground and took off into the air, taking the book with him.
+
+Ryota was sitting on the railing of the ship, his feet dangling out into the air, when Rhys returned. He tossed the other man a nod. “You get done being a miracle healer for the day?”
+
+“Too early. No one needs a miracle healer this early in the morning.”
+
+“You sure about that?”
+
+Ryota nodded. “They don’t really injure themselves until later in the day, and I’ve already healed all the basic illnesses I can. No one’s giving birth, so… yeah, pretty sure.”
+
+“Fair enough. Did you know that the mortals around here were randomly learning some misguided technique? They were accumulating little scraps of qi that would self-detonate if anyone ever examined them. I have no idea what the qi is for, but it can’t be something good.”
+
+Ryota snapped his fingers. “So that’s what it was! I kept getting startled out of my examinations, and I never knew why. That makes so much sense…”
+
+“Whatever the person who planted this was planning, we’re disrupting it in a major way. I’d be surprised if they didn’t chase us off,” Rhys said, holding up the book. And if they don’t, I’ll be even more worried, because it means this is more widespread than I think it is, to the point that us disrupting one little village doesn’t even make a dent in their plans.
+
+“Will we be okay?” Ryota asked, concerned.
+
+“What, you mean the god plan? Oh, sure. Even if they run us off, that’s just another point in favor of us building a religion. Getting run out of a place is classic religion stuff. Turn it into you being victimized for your belief in the one-true-religion and suddenly it’s a rallying point for your followers.”
+
+“No, I mean… will we be okay?”
+
+“Oh. Yeah, I don’t know. Probably?”
+
+He didn’t want to lie. They’d probably be fine, but there was every chance that they faced real bodily harm for meddling with the plans of someone much stronger than them. The safe choice was to skedaddle before things got too heated, but Rhys wasn’t a safe-choices kind of person. Worst case, he’d pollute things a little, muddy up his tracks, and run away.
+
+Have the courage to run away! he cheered silently in his heart. If anyone did, he sure did. Retreating was definitely the better part of valor for him, and when it wasn’t valorous, it was justified self-protection. He had no hesitation about running away when things were truly stacked against him in a way he couldn’t possibly overcome. Refusing to run away was for fools and the lucky few who’d never lost once in their life.
+
+He’d lost a lot. Mostly in online games, but also in real life. He knew the costs of not running, mostly in the form of getting headshot like a fool. He didn’t want to be headshot like a fool in this world, so if push came to shove, he’d get the hell outta dodge, to chain his metaphors.
+
+“Is that a problem?” Ryota asked, a little slower on the exit strategy than Rhys was.
+
+“Only if we let it be.”
+
+Ryota frowned at him. “What’s that supposed to mean?”
+
+“I’m not going to let pride stop me from running away, are you?”
+
+“There are people so terrifying you can’t run away from them.”
+
+“You haven’t seen me try running away.”
+
+“What, do you have some secret running-away technique?”
+
+Rhys smirked. “If I told you, it wouldn’t be a secret anymore.” Which really was a problem. His void teleportation network was great for running away as long as no one knew much about it. The second they found out that all the void hoops more-or-less dumped to the same spot in the void, or that he used the void island as a base from the void beast, he was fucked. It was way too easy to ambush him, destroy his hoops, or otherwise cut off his quick-escape route if someone knew about it. Which is why I’m not going to tell Ryota about it.
+
+…Or revive Daran until I’m well and truly able to stand on the same level as him. Even if Daran wasn’t paying attention most of the time, he still knew too much, and assuming a bored expert of unknown mage-tier wasn’t paying attention wasn’t a defense he wanted to rely on. As for assuming Daran wouldn’t attack or attempt to harm him, well, relying on the sanity of a Demon King was not an option, or else he might as well go home and die. People didn’t get the nickname Demon King for being real cool guys who didn’t betray or attack the people around them.
+
+Every time he remembered he hadn’t revived Daran, he couldn’t help but feel like it was a great decision all over again.
+
+Ryota rolled his eyes. “Sure, sure. Keep your secrets. I suppose I’ll just hope that my ship is fast enough?”
+
+“Yeah. Though…” Rhys pursed his lips as a thought suddenly struck him. He hadn’t pursued this angle yet, but when he was thinking about it, Ryota had been abandoned by his grandfather. There was no other explanation for Fifteenth openly attacking him with no penalty. Sure, he’d already said his grandfather had alienated him, but there was a difference between an angsty teen telling everyone that no one loved him and actual real evidence that no one would stand up and save his life if someone maneuvered to capture or kill him (and Rhys suspected capture over kill). If they ended up in danger, Rhys could poof. But what about Ryota? Where did he run to? Could he flee back to Aran? Was that even a good idea?
+
+There’s something else there. Another piece to that puzzle that I have, I just haven’t slotted it into place yet. Rhys pinched his chin, thinking. Something loomed in his mind, right at the tip of his tongue—
+
+“What’s that?”
+
+He looked up, broken out of his chain of thought. For a second, he just stared at Ryota, then followed the other man’s gaze to the book in his hand. “Oh, this? It’s what they were studying to learn that mana technique. I’ve read it, but I have no idea what’s wrong with it. I’m kind of uneducated, you know?”
+
+Ryota squinted at him. “Uneducated? You? At Tier 5?”
+
+“Let me put it another way. I’m self-taught.”
+
+“Oh, got it. Right, hand it over. I’ve read lots of manuals in my day.”
+
+Rhys tossed it off, and Ryota cracked the book open and began to read. He nodded to himself, occasionally frowning and turning back to reread a page. He finished the book and looked up, opening his mouth to speak, then shut his mouth and opened the book again, reading it for a second time, but more slowly. About halfway through, he paused, flipped back, flipped forward, flipped back, then looked up in shock. Pointing the book at Rhys, he snapped it shut in his hand. “This technique… it isn’t unlike the technique I was taught. It’s simpler, and self-destructive, but it’s similar.”
+
+Rhys blinked. A rich kid’s mage techniques were being leaked to—no, hold on! Wait up! “The fierce mana technique? That one? The one that leads to becoming an involuntary fierce mana berserker?”
+
+Ryota nodded, and just like that, everything snapped into place in Rhys’s head.
+
+Ryota’s grandfather had taught him the fierce mana technique. Fifteenth was using fierce mana bombs and seemed to want to capture Ryota. These people, these random villagers, taught the same dangerous technique at a much lower level. Ryota’s grandfather hasn’t just abandoned him. He’s part of this plot, isn’t he? Whatever he’s doing… I bet Ryota’s the key, trained from youth to be the trigger for… whatever he’s after.
+
+Ha! I have his plot in hand. …So why’s he doing all this?
+
+No, seriously. I’ve got all the threads in my hand. I know what he’s doing, but why? That’s a mystery. What’s the point of all this? Why deliberately sabotage and alienate his grandson, then give him up to a rival to the throne? What’s going on with the savage mana? Why teach the technique to a bunch of mortals?
+
+I mean, I think it’s pretty clear that grandpa is playing the long-enough game. Ryota’s just a stepping stone to whatever he’s really after. But the problem with that is that I’ve got no idea what his game is. Game respects game, but game doesn’t recognize what the fuck other game is after, you know? Is it the next hundred-year succession cycle after this one? Is it something totally unrelated that Ryota just happened to be convenient for? Is he deliberately throwing to get the number one draft pick next year? I don’t know!
+
+Aloud, he said: “Huh.”
+
+“Have you figured something out?” Ryota asked.
+
+“Everything and nothing, my dear Watson.”
+
+“Who’s Watson?”
+
+“Just the most famous sidekick of all time. Wait no, maybe that’s that small red-breasted bird? No, no, I think it’s Watson. Detectives have wide appeal, after all. You capture all the demographics. Superheroes are more male audience, and definitely focused on the youth at that.”
+
+“What?”
+
+“Don’t worry about it. Hey, do you have any idea why your grandfather isn’t backing you?”
+
+Ryota scowled. “Because I’m a disappointment and a loser?”
+
+“Oh, come on. You aren’t. Wait—yes you are. That’s a helpful mindset for me.”
+
+“Huh?”
+
+Rhys sighed deeply. “I’m getting manic because I’m confused. Ryota, there’s a lot going on, and we haven’t even pierced the veil yet.”
+
+“Oh. That sounds bad.”
+
+“Could be. Could very well be.” Rhys paused, then nodded. “I think we need to put our little godhood excursion on hold. It’s time we head to the capital and see if we can’t figure all this out.”
+
+And then the ship exploded.

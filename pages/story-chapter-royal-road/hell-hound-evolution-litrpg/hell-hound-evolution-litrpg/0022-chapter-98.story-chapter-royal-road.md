@@ -1,0 +1,271 @@
+---
+id: 517e6065-f22b-5081-b3ca-98bca078fd4d
+page-type-slug: story-chapter-royal-road
+title: "chapter 98"
+slug: 0022-chapter-98
+partOf: hell-hound-evolution-litrpg
+position: 22
+ownLength: 3804
+unit: words
+publishedAt: 2026-03-16
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3159192/chapter-98"
+royalRoadId: "3159192"
+---
+
+“Descend”
+
+The dragon instantly obeyed, dropping below the clouds and peeling over the jagged peaks of the vale. Valrok stood atop its back, arms folded, eyes scanning below. His gaze briefly lingered on the felled god—what was the single greatest kill of his life. He had lost two of his Nightharriers in the fight, but his success had offered a slew of achievements and even two level-ups. Multiple level-ups at once isn’t something that’d happened for him in many, many years. Not only that, the spoils of the battle should have been an incredible boon for the tribe. But it had come with so much trouble in the aftermath as the fools beneath him failed the most simple of tasks in gathering a couple of pups!
+
+His three remaining Nightharriers descended below the clouds as well, coming to the dragon’s side, each watching their master with a single side eye, waiting for his command.
+
+“Search for fallen tribesmen. Seek evidence of what’s slain them. One of you, enter the caves through the open cavern.”
+
+The three Nightharriers peeled off, one flying long across the forest, another skirted across the mountain peaks, searching for the mentioned cavern, and the other searched the cliff sides.
+
+Valrok jumped down at a burned section of the forest. He assumed the cause was Kenshaw, and soon after his heavy boots struck the ground, they walked over to the man’s corpse.
+
+There were several wounds along his body, including the burns he had caused to himself. His power was incredible, but in its unleashed form also damaged himself. For him to feel compelled to take things that far in the first place spoke to the fearsomeness of his opponent. But then to have actually lost?
+
+Next, he found Geirna. She had been a fierce warrior. If it were not for an old, unhealable leg injury, she likely would have grown into one of the strongest of their tribe. Valrok’s fist clenched.
+
+She lay broken at the base of the cliff, armor split, one arm twisted at an unnatural angle. Even in death, her hand still gripped her dagger. Her mask had cracked down the center, one of the carved teeth chipped clean off.
+
+He remembered her as a girl, running to him after he’d returned from a hunt, wishing to personally tell him of her recent Integration and pledge her spear to him. And her loyalty had been true—she had never once questioned him.
+
+Now she lay here, broken by something that should not have been capable of breaking her.
+
+Was it really the Hell Hounds that had done this? The evidence of magic pointed towards an evolution, and he knew Hell Hounds were powerful even at low levels, but this all seemed completely impossible!
+
+Valrok continued his search, and as the scout had said, every corpse was either killed with teeth, claws, or magic. That is, until he examined a dead Direwing.
+
+Valrok kneeled down and inspected its wounds. Its legs were eaten, but the killing blow had been from a sword, plunged right down to its heart.
+
+“Of course... Something had aided the pups...” He gritted his teeth and continued his search.
+
+Outside of the caverns, the last thing of note was a campsite. Using his {Track Sense}, the paw marks of two different pups—hell hounds, undoubtedly—were easy to spot, but not directly around the burned-out campfire. The tracks were cleared in this area and it was only on their way back to the cave that Valrok took up their trail... but there was a third set of prints with them. Something small.
+
+A goblin?
+
+It seemed ridiculous.
+
+He received a mental signal from one of his Nightharriers and closed his eyes. His vision opened inside the cavern, seeing what the Nightharrier could see. He commanded it to inspect the corpses inside.
+
+Again, no blades, all were killed by the same claws, teeth, and magic. And once again, the goblin prints were everywhere as well.
+
+But the sword wielder who’d slain the Direwing, that was the mystery. Whatever it was, the weapon it wielded was too big for a goblin of the size indicated by the prints. It had also taken time to hide its own tracks, and as Valrok had his Nightharrier search some branching tunnels, there was no sign of the same efforts of concealment being taken.
+
+Except in one spot alongside the river tunnel, but it wasn’t done as cleanly. He commanded the Nightharrier to focus its intention in this spot.
+
+The tracks were erased sloppily with... with paws?
+
+Did one of the Hell Hounds do it? Why? To improve their odds of a successful ambush? Or rather, how would it think to do such a thing? This was not the way of such beasts.
+
+Valrok opened his eyes, returning his vision to the vale. A wind blew at his red cloak as he scanned along the tree tops.
+
+The Hell Hounds had aid, they had to have, and not from a simple goblin. But... from what he could see in the cave, this fourth party was nowhere to be seen.
+
+The best guess he could make is that they systematically ambushed the hunting party while they searched the caves, avoiding detection to the point of keeping their kills undetected by the others. They did this until all were dead.
+
+“Absurd...” Valrok scoffed.
+
+He had not sent his strongest, but this shouldn’t have been possible. Even for Hell Hounds... But that attempt to conceal tracks inside the cave is what bothered him the most. He sent a signal to his dragon and his Nightharriers to return to him. He had seen enough here.
+
+***
+
+Timmoth yawned as he idly watched a group of Direwings far in the distance. From his post atop Stonecross’s ramparts, he could see easily across the treetops.
+
+It had been an unusual week. The Bloody Peaks Tribe hunting the vale beyond the mountains was not uncommon; their kind often showed up and stayed for a few days. On occasion, they would come to the gate looking to drink and find themselves women.
+
+The locals hated it whenever they arrived. They were a rowdy bunch and destroyed whatever bar or section of town they chose to party in—not to mention getting Direwing shit everywhere. It would have been common courtesy to leave your damn mounts outside the wall. But courtesy was not something barbarians understood.
+
+However, they did bring a fair amount of coin, so the magistrate of Stonecross gave orders to always allow them in. Offending the tribe would have been more trouble than it was worth, so the watch’s policy was to endure them and wait for them to leave.
+
+Timmoth had expected to see some of them come to the gate by now, but no—the Direwings had been circling the cave entrance for days, and it seemed the beasts had started hunting the woods on their own. What Timmoth hadn’t seen was a single red mask. They hadn’t even bothered to feed their mounts in all that time.
+
+But he had heard rumors of an odd story that came from a pair of merchants who came hobbling to the gates a few days ago. Claimed they were attacked by Hell Hounds, of all things, and they were accompanied by a goblin wearing one of the red masks.
+
+It was such a baffling story. Hell Hounds? Out here? Their likes were only seen in the depths, and either way, what would a goblin possibly be doing with such monsters?
+
+At most, a goblin might have tamed a couple of young Drake Wolves, but even in that case, they would have had to travel quite a distance to end up in these forests. And even THAT was a ridiculous story that would simply be laughed at. Whatever those merchants were up to, surely they had their reasons for coming up with such a wild tale. Perhaps trying to pull some kind of scam, or wanted to hide the truth of whatever happened to their legs. Whatever possible reason they might have for that, one could only guess.
+
+Those damn merchants didn’t even have any coin to pay for medical help. The magistrate forced them to sign a contract that they would take responsibility for the debt, and if they didn’t pay when they said they would, a message would have to be sent to the merchants’ guild.
+
+It sounds like a huge pain, Timmoth thought with another yawn.
+
+Maybe I’ll take a nap… He looked over each shoulder, down the ramparts, and angled himself against a wall. Learning to catch a few Z’s while standing was essential, and his Vigilant Dozing skill certainly helped with that. He, of course, kept it to himself that he possessed such a skill, and nobody in their towns watch had a high enough level in Analyze to know better. His job would be so much more unbearable otherwise.
+
+Timmoth adjusted his position, glancing down the ramparts once more, and was about to close his eyes when he noticed something.
+
+He looked towards the Direwings, who all arced downwards as if fleeing something. What could they have—
+
+Then he saw three other figures descend from atop the mountainside, and then a forth much larger one—something Timmoth had only seen once before.
+
+A dragon.
+
+His eyes widened.
+
+Valrok of the Bloody Peeks Tribe. The town had been alive with gossip the last time he had been seen entering the vale. The most popular theory was that he had brought his heir on her first hunt there, which would be insane for any newly integrated, even for the famously insane bloody peeks tribe. Actually, that would explain their extended stay. They could have been holding some kind of celebration right there in the vale and ignoring their Direwings all these days.
+
+In any case, Timmothy smirked as he peeled himself off the wall and watched as the dragon and the three giant birds flew lower. This would be a pretty nifty story to tell over drinks later.
+
+But then, as he realized the direction Valrok was headed in, his heart sank. He was coming right for Stonecross!
+
+Scrambling to attention, Timmoth ran from his post, stumbling once before reaching the warning bell. He pulled the cord a few hard times before glancing back.
+
+Yes, there was no doubt about it. Valrok was heading right for them!
+
+Within minutes, Timmoth was joined by dozens of other watchmen right over the gate. Valrok flew over the town, citizens gasping and pointing as a rush of wind followed in its wake. Those three giant black birds just circled above like vultures.
+
+“What the hell? What does he want?” one of the guards exclaimed, gripping the sword at his waist.
+
+“Everyone, calm down!” the commander shouted. “Keep your weapons sheathed, fools!”
+
+The dragon doubled back and then came crashing through the tree tops right outside the wall. The beast was incredible! Timothe had never seen anything like it! Scales the color of coal, smoke curled up between rows of teeth the size of broadswords.
+
+And standing on its back, tattered, red cloak blowing in the wind, stood a man of legends. Valrok Wyrmscar. His mask was nothing short of terrifying as it stared back them.
+
+“V-Valrok Wyrmscar of the Bloody Peeks!” the commander called. “St-Stonecross welcomes you! To what do we owe the honor?”
+
+“Open your gates,” came a rough, booming voice from behind the mask.
+
+The commander went pale, looking left and right at his subordinates as if hoping one of them would tell him what he should do.
+
+“Ah— G-Gladly! But if you could perhaps e-explain the reason for your—”
+
+Valrok suddenly leapt down from the dragon, reaching outwards with a crackle of purple energy exploding from his fingertips as he summoned his spear. Every man on the wall gasped and readied themselves.
+
+Valrok’s boots landed heavily before the gate, the hollows of his mask staring up at them. Yet, even so far below them, he still somehow felt as if he were towering above them.
+
+“Open it before I break it down. I wish to speak with your magistrate.”
+
+It would be typical for visitors on official business to be brought to the magistrate’s manor at the far end of town, perhaps after being given an appointment time or waiting until he was “available.”
+
+However, instead of this, they brought Valrok to the town square, every shop owner or meandering citizen shutting windows and doors and scurrying into hiding.
+
+The man was an absolute giant, and if the stories could be trusted, he could probably take out their entire guard single-handedly if he so wished, even without his beasts. But why was he here? Whatever the reason, it was not a social visit. The way he stood spoke of demands, not diplomacy. Did the Bloody Peeks Tribe mean to take over their town? Perhaps they planned to start demanding tribute and a portion of their taxes?
+
+Yes, that had to be it, the commander thought, as they waited for the magistrate to arrive.
+
+With the Verdant Empire at war in the north, the Bloody Peeks must have sensed instability in the realm and were now raging their own war path, aiming to expand their territories.
+
+But Valrok said not a word of his intentions as he waited there, surrounded by the entirety of the town guard, though they all kept their distance and followed the commander’s orders not to draw their weapons.
+
+Soon, the magistrate arrived.
+
+He was flanked by two personal guards in polished breastplates, though the sheen of their armor did little to hide the unease in their eyes. The magistrate himself was a plump, middle-aged man with thinning gray hair slicked carefully back, a velvet coat thrown hastily over his nightclothes. He had clearly dressed in a rush.
+
+He stopped several paces from Valrok and offered a stiff bow.
+
+“Valrok Wyrmscar,” he said, voice tight but practiced. “You honor our humble town with your presence. Had we known you intended to visit, we would have prepared a proper welcome!”
+
+Valrok did not bow or offer any pleasantries in return.
+
+The dragon loomed behind the opened gate beyond the square, its enormous silhouette visible above the rooftops.
+
+Valrok took a single step forward. The guards instinctively shifted, hands twitching toward their hilts before remembering the commander’s order.
+
+“In the past weeks,” Valrok continued, “have members of my tribe entered your gates?”
+
+The magistrate blinked. “N-No. They were expected, perhaps, but none presented themselves.”
+
+Valrok’s mask tilted slightly.
+
+“W-We would, of course, have welcomed them happily! We would never dare deny entry to the… ah… distinguished Bloody Peaks Tribesmen.”
+
+A tense silence followed.
+
+Valrok’s gaze swept the square. Shuttered windows. Trembling curtains. The scent of fear practically hanging in the air.
+
+“Have you heard any… rumors?” Valrok asked.
+
+“What kind of rumors?” the magistrate asked.
+
+“My men were attacked during a hunt,” Valrok said. “I’m here to find out who is responsible.”
+
+The magistrate shifted nervously. “W-Well… if someone has wronged you, it was certainly not with Stonecross’s blessing. The Bloody Peeks have always been treated within our walls as friends! Perhaps bandits or…”
+
+“My warriors could not have been defeated by the likes of your people, or lowly, desperate bandits!” Valrok roared.
+
+The magistrate instantly stepped back, cowering, the guards all reaching for their weapons. The magistrate put up his hands. “O-Of course not! I bring it up only for the ludicracy of such a notion and mean you no offense! Oh, Great Valrok!” He took a moment to gather himself. “There have been no known sightings of Umarii…” he ventured carefully, hoping the mention of the Bloody Peeks long hated rival would not stir Valrok’s anger further. “I-I will have the town searched for any rumors of their presence or sightings…”
+
+“It was not Umarii,” Valrok cut him off.
+
+“Then I fear I don’t know what else I possibly could offer you! The only unusual thing I’m aware of is a couple of injured merchants who had come through. Claimed they were attacked by a pair of Hell Hounds and a goblin who appeared to be their master.” The magistrate chuckled nervously, then remembered the detail about the goblin having one of the bloody peeks masks. This is a detail he would rather not divulge, as he wanted as little to do with whatever this was as possible and for Valrok to simply move on in his search for… whatever the hell it was he was searching for. “Ah—of all the bizarre and unlikely stories! I wouldn’t wish to waste your time with—”
+
+“Bring me to these merchants.”
+
+“I-I’m sorry? Wha—”
+
+Valrok hit the butt of his spear against the ground, purple energy crackling from his blade. The hollows of his mask stared down the magistrate.
+
+“I mean, of course! Right this way!” the magistrate insisted.
+
+The guards looked at each other, confused. What could Valrok possibly want with two crippled traders who had limped in begging for healing and debt extensions?
+
+But none dared ask.
+
+The magistrate hurried ahead, nearly tripping over the hem of his velvet coat as he led Valrok down the main street. The commander barked for a small escort, though they kept their distance, as if proximity alone might earn them Valrok’s ire.
+
+Inside the medical ward, the air was thick with the sharp scent of crushed herbs and boiled linens.
+
+An apprentice healer stood over a table near the entrance, grinding something with a mortar and pestle. She was nineteen years old, with long blonde hair, and already had several levels in Herbalism, Poison Detection, Steady Hands, and several other useful skills for the job.
+
+Her master was out for the day, and she was left alone with the two lowlifes who in all likelihood wouldn’t end up paying for their treatment. Not only that, the two scumbags had been treating her like a barmaid all week! Whistling for her attention whenever they were hungry, or wanted their pillows adjusted, or demanded something stronger than watered wine to dull their aches.
+
+She ground her teeth almost as hard as the pestle as she remembered the way they’d snickered when she’d turned her back to them. They hadn’t even bothered to lower their voices as that mustache-twirling creep made a not-so-subtle comment about her backside.
+
+A chime from the front door caused her to glance up casually.
+
+When she saw what stood there, the mortar slipped from her fingers and struck the table with a dull crack, and the pestle clattered to the floor.
+
+The man who filled the doorway had to lower his head slightly to enter, and when his gaze lifted, she saw the terrifying face of a demon. Red skin, menacing barred teeth, and hollow black eyes. Behind him, a group with guards stood by outside the clinic, but none accompanied him inside as the door slammed shut.
+
+“Ah… H-How c-c-can I help you?” she stammered.
+
+The mask tilted left and right across the room, looking right past her as if she were not even there. Then, it settled on the two merchants.
+
+“Leave…” came a rough voice from behind the mask as he moved towards them, each step vibrating the wooden floorboards.
+
+The healer instantly scrambled away from her station, slipping on the fallen pestle but catching herself on the wall. She only caught sight of the two pale merchants as the man’s shadow overtook them, then she hurried out the door behind him.
+
+Outside of the clinic, five tense minutes went by with only a few murmurs of uncertainty between the magistrate and the commander. They were silenced by an occasional muffled shout from Valrok inside.
+
+What the hell could have been going on in there?
+
+When all quieted, Valrok emerged wordlessly, blood dripping from the top of his spear. The healer gulped, having a feeling her two unruly patients would no longer trouble her, but she might have some other kind of gruesome mess to clean up. She could only imagine what they must have done to offend this monster of a man.
+
+But Valrok simply walked away wordlessly, the guard following from a cautious distance as he went right for the gate. Once he was back on his dragon and the gates were closed, the entire town let out a collective sigh of relief, and he and the three giant birds flew away.
+
+***
+
+Valrok continued flying north, as the now dead merchants had directed him, and their unfortunate rumor along with them.
+
+If Valrok hadn’t seen the evidence of a goblin being with the Hell Hounds himself, he wouldn’t have believed it, and hopefully nobody else would.
+
+But this was days ago; the two pups would have covered a lot of ground already. But, there was a chance the Nightharriers might pick up some new sign of them that could point him in the right direction.
+
+That sign would not come that night, and he ended up camping out in the forest, beneath the massive silhouette of his dragon while the Nightharriers hunted meals for themselves.
+
+His greatest concern was that the Hell Hounds had gone towards the Umarii lands and were currently with them, where they would be out of his reach. One of the pups had already been stolen by the Umarii, and perhaps the pack had some kind of link where they could find each other? That would explain some of their odd behavior in continuing to travel and not simply picking a nearby hunting ground. Yet, it still left other riddles unsolved.
+
+The next day, he continued his search, and when one of his Nightharriers signaled him, the riddles only grew more tangled. It led him to an abandoned church along the riverside. After jumping down from his dragon, he first noticed a discarded, torn pair of pants. But as his Track Sense skill did its work, he caught the familiar prints of two pups and a goblin, now joined by a fourth, much larger set of paw prints… but it was not of an adult Hell Hound, it was something else.
+
+As he considered what kind of beast this might be, something else caught his eyes that froze him in place.
+
+He stood motionless for a long moment.
+
+The wind stirred the weeds around the ruined church, brushing across shallow grooves carved into the soil. Letters, crude and uneven… but unmistakable.
+
+Hi!Human?Why speak?Where?
+
+Not random paw prints or scratches.
+
+Language, and written as questions.
+
+His jaw tightened beneath the mask.
+
+He crouched, running a finger just beside the word “Human?” without disturbing it. The grooves were shallow but deliberate. Made by a paw, not a stick. The edges were slightly split where claws had pressed into softer earth.
+
+“Almighty Above…” he muttered to himself.
+
+READ NEXT CHAPTER NOW!

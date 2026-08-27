@@ -1,0 +1,133 @@
+---
+id: 2dd2aaa1-8603-53de-b7e7-e77edd33962d
+page-type-slug: story-chapter-royal-road
+title: "144. It's All Up To You"
+slug: 0144-144-its-all-up-to-you
+partOf: god-of-trash
+position: 144
+ownLength: 2030
+unit: words
+publishedAt: 2025-07-28
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2473838/144-its-all-up-to-you"
+royalRoadId: "2473838"
+---
+
+“To the northeast!” Leonard burst out.
+
+Rhys blinked. He hadn’t expected it to be this easy. Was Leonard lying? Well, it doesn’t matter. I have enough men to verify without going myself. Rhys reached into his robes and drew out a trashy book he’d been reading, presenting the rear leaves—the empty pieces of paper at the end of the book—and a pen. “A map, please.”
+
+“Is this all you need? Am I free to go?” Leonard asked, accepting both.
+
+Rhys shrugged. “I haven’t seen the map yet, have I?”
+
+“I’m not good with pain. I don’t want to die,” Leonard murmured, almost to himself. He glanced at Rhys, then back at his map, and grimaced. “You’d better kill all of them. I don’t want them coming after me.”
+
+“Worry about me coming after you right here, right now, then about your family,” Rhys advised him, desperately wishing he had his backward chair for his villain act. There was nothing cool or villainous about sitting on a stool. He felt like a granny squatting by her grandchild’s side to hold his hand, or a grandpa lugging around the old easy-sit to a school football game.
+
+A moment later, he paused. “Did you just tell me to kill your family?”
+
+Leonard glanced at him. “Better you than them, at this point. You seem like the kind to give a quick death, as you did to Larry.”
+
+“That was…” Rhys raised his brows, startled. Apparently their scales were totally different when it came to painful deaths. He personally ranked ‘melted from the inside out by toxic gas’ pretty high on the scale of ‘deaths he didn’t want to personally experience,’ but clearly he was the fool here. In this world, clearly they didn’t stop at toxic gas immolation. There was a near infinite realm of further, more painful deaths beyond organs melting while you still lived, and Rhys didn’t want to know anything about it. He nodded slowly. “I’ll take that under consideration.”
+
+“Plus… my family never gave a fuck about me,” Leonard grumbled. “Family this, family that, go clean the stable, you skinny fuck. You’ll never amount to anything, because you like to read and actually learn about the world instead of wandering the countryside fucking idiot maidens and sucking down strength potions. Fuck ‘em. I’m not gonna get tortured to death by some clown maniac for them.”
+
+Rhys clicked his tongue, shaking his head. “First off, it’s maniac clown, thanks. Secondly, eh? Yeah? Clowns? What do you think?”
+
+“Fuck clowns,” Leonard spat, with almost more feeling than he’d just put into dressing down his family.
+
+“I know, right? Why do fast food places love them so much? I don’t get it either.” Rhys pushed off his knees and stood. “If you keep cooperating like this, I really have no problem setting you free. I could even look into putting you in charge of a farm.”
+
+“Farming?” Leonard pulled a face.
+
+“Don’t knock it before you try it. It’s a lot of sitting around doing nothing, since my rats… ahem, my underlings do it all. Lots of time to read and learn.”
+
+Leonard harrumphed. “They don’t allow non-military mages to access the library. I only hung around my family because they had a contact who could smuggle a few books out a year. There’s no way you can—”
+
+“Oh, the library?” Rhys reached into his storage ring and pulled out a half-dozen tomes. He occasionally wandered the sewer path back to the library, sucking up filth and retrieving whatever tomes the mages under his care wanted while he was there. He couldn’t find everything, and he often had to bring Mouse along to access the more secure regions of the library, but thanks to Mouse’s semi-invisibility and Rhys’s unmitigated sewer access, they basically had full access to the entire selection of tomes.
+
+Leonard’s eyes bulged. “H-how—”
+
+Rhys flourished his hands, sending the tomes back into his storage ring. “Well… we’ll negotiate that later. For now, you can stay in there.”
+
+“In the curse? You’re kidding. This thing could kill me at any moment!” Leonard snarled.
+
+“I know. I’m the one controlling it,” Rhys informed him.
+
+Leonard squinted. He’d finished his doodling on the map, and now stood there, pen and map held loosely in one hand. “I sense no curse power on you.”
+
+“Yeah. I turn it on and off. You know how it is,” Rhys said with a shrug. He took the pen and map back from Leonard, checking it to see if things made sense. The area Leonard circled was a part of the nearby mountains Rhys had never been to, so it was a possible hideout. That didn’t mean it was what Leonard said it was, but it was at least worth checking—in other words, not a place that Rhys could immediately count out as being their hideout.
+
+“You can’t ‘turn it on and off.’ It’s a taint on your very core, your, your soul, your being. Even if you swap cores, curse power will be sunk deep into your body—”
+
+“Guess I’m just built different,” Rhys interrupted him, smirking as wide as the horizon. He waved his hand and walked off. “I’ll see you in a bit. If you keep cooperating, full access to the library is within your options!”
+
+He wasn’t foolish enough to let Leonard loose before they beat the guy’s family. For all he complained about them, family was still family, even abusive family. If he’d been abused his whole life, there was every possibility they’d abuse him right back into the place he’d tried to escape from. He’d seen it happen, back in his first life, with friends who deserved so much better. Knowing that they were being treated like shit and realizing that they were in an abusive relationship didn’t stop people from going back to their abusive families and boyfriends, even if it was dead-obvious they should simply avoid them from the outside of the relationship. Whatever forces were keeping them there in the first place, would put them right back in it, as long as they remained close to those people. Even if Leonard was dead serious about everything he’d said, there was nothing he could do to make Rhys trust him, because of the dynamics of those relationships.
+
+Plus, Rhys wasn’t dumb enough to think someone who changed allegiances so easily and tactically would immediately give their whole lives to fight for his cause. If Leonard’s family, or worse, the Empire, threatened him, there was every possibility that Leonard would jump ship just as fast as he’d hopped on Rhys’s ship. At best, Rhys figured, he’d wait until after the battle, then stick Leonard on some distant, low-yield farm that wouldn’t harm their operations even if the Empire were to completely demolish it. Just like Leonard had yielded to him, he would yield to the next source of power or threat of pain, and Rhys had no illusions about that. He was fundamentally someone Rhys couldn’t trust. Still, any port in a storm, and any help against the Empire was worth it. Menial, low-trust tasks still needed to be done. Might as well put someone he couldn’t trust on a near-useless task if he could afford it.
+
+He headed back up to the tavern, pretending to ignore Sable flinching back into the darkness as he passed. “Keep an eye on Leonard,” he requested. There was no reply, but he knew she’d heard him by the dry skitter of bone on the ceiling.
+
+Back in the tavern, he turned to Mouse. “Here. Can you scout out this location and let me know what’s going on here?”
+
+Mouse took the map and looked it over, then looked at Rhys. “Why?”
+
+“Why? You’re the one best suited to scouting—”
+
+“Not ‘why me,’ why?” she clarified. “Why are we checking out what’s here?”
+
+Rhys nodded at the floor. “Leonard said that’s where his family is. I don’t outright trust him, but there’s no reason not to check it out, especially with your advanced stealth skills. I don’t want you to fight, just take a peek and run away.”
+
+“Advanced… stealth skills?” Mouse squeaked, pointing at herself.
+
+“Ah, I mean, your natural tendency to be overlooked,” Rhys clarified. Thinking back on it, when she’d been trying to be stealthy, he and Bast had caught her right away. It was only when she was hanging back, being a wallflower, and blending in that she was able to so easily wipe her entire self from existence.
+
+“I don’t know what you’re talking about,” Mouse murmured, fading in on herself even where she stood.
+
+“Yeah, that’s it. Do you want Lira to come along, in case a fight breaks out?”
+
+Mouse looked shocked. “What about you?”
+
+“Me? What do you mean?”
+
+She glanced around, then leaned in. At a whisper, she said, “You’ll be the only real fighter left behind.”
+
+Rhys snorted. “I’m our only Tier 3. I’m deliberately staying behind in case this is a trap. If someone attacks, I can handle it.”
+
+“Are you sure?”
+
+He nodded. “I’m sure.”
+
+“Then… I’d like Lira. But you won’t be in danger, right?”
+
+“No, no.”
+
+Mouse hesitated another beat, then glanced at Rhys. “D-do I have to talk to her…?”
+
+Rhys put a hand over his mouth, barely muffling a laugh. Too cute. There was something innately adorable about Mouse’s shyness. Maybe it was just him, but the combination of glasses and shy and bookish was just too cute when it was all packaged together in one mousy-haired girl.
+
+He took a deep breath, stifled his laughter, and waved his hand. “Nah. I’ll go talk to her. Hey, Lira!”
+
+Mouse shrunk where she should. “You could’ve just said no…”
+
+Lira looked over from where she sat, lounging in one of their soda vats, before Rhys turned the water into soda. It wasn’t very sanitary, but Rhys wasn’t going to point that out. He’d have to charge more if he admitted it was gamer girl bath water, after all, and it was important that soda was cheap.
+
+Of course, he didn’t really mind that Lira kept lounging in his water. In his world, it wouldn’t be very sanitary, but in this world, Lira seemed to have a natural, low-level purification effect, and she could create new fresh water, besides, without them having to lug heavy vats back and forth from the streams, so it really worked out in his favor that she seemed to treat them like her personal tubs.
+
+She flicked her hair out of her face and raised a brow. “Yeah? What?”
+
+“Mouse is gonna scout out the area Leonard pointed out for us. You mind going along to make sure she stays safe?”
+
+“Sure. I was getting bored here, anyways.” Lira hopped out of the water, executing a dynamic spin in midair, then landed and walked over, pulling out her umbrella with a casual flourish, as if she’d done it a million times before.
+
+Rhys resisted the urge to fist pump. Hell yeah. It was awesome when people did cool mage things for absolutely no reason at all. He was all for it. In a world where everyone was a top tier acrobat, why not move with a bit of showiness every now and again?
+
+“Remember, you’re just scouting. Don’t get in trouble. We’ll come back with an actual attack force later,” Rhys reminded them, or rather, Lira in particular. He wasn’t at all worried about Mouse going on the offensive randomly, but Lira might.
+
+“I’m not in a hurry to rush to my grave,” Lira said. She waved, putting a hand on Mouse’s shoulder to escort her out through the tunnel. “We’ll be back before you know it.”
+
+Rhys nodded. “See ya.”
+
+Mouse waved one last time, then ducked her head and followed Lira into the trap door. A faint spark of worry appeared in Rhys’s heart, but he quickly suppressed it. They’d just be stopping by for a glimpse, and Mouse’s stealth techniques were far superior to anyone else’s. They’d be fine. Definitely. For sure.
+
+For sure. He took a deep breath and looked after them. Surely this fear in his heart was unfounded. Surely.

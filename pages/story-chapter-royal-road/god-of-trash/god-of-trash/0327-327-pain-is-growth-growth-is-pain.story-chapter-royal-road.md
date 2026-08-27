@@ -1,0 +1,123 @@
+---
+id: 4bcef89e-676d-5438-a996-69e6257e1381
+page-type-slug: story-chapter-royal-road
+title: "327. Pain is Growth. Growth is Pain"
+slug: 0327-327-pain-is-growth-growth-is-pain
+partOf: god-of-trash
+position: 327
+ownLength: 1851
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3576626/327-pain-is-growth-growth-is-pain"
+royalRoadId: "3576626"
+---
+
+Ryota stared at Rhys for a split second, struck completely dumb, then immediately started shaking his head. “No. No, no, no. No. No. I’m not insane or suicidal, and I’d have to be both to go after him.”
+
+“I’m not going to throw you to the sharks. I’ll be right there, supporting you. And don’t you feel so much stronger after this training session?”
+
+“No. I don’t even remember any of the fighting.”
+
+“Don’t sell yourself short. Come on, man. You can totally beat your grandpa. I’ll be right there. I won’t let him kill you.”
+
+“Do you know how strong my grandfather is?”
+
+“Tier 6?” Rhys guessed.
+
+Ryota sighed. “Tier 7. Maybe even higher by now.”
+
+Rhys thought for a second, then nodded. “I can take him.” Not as he was now, but they weren’t about to charge right into the final boss. There were still levels to gain. Skills to learn. Impurities to suck up. The pit was calling his name right this instant, and he was absolutely going to throw himself into the filth beneath the world and see if he could resist-slash-absorb them now that he was Tier 5 the second he finished this conversation with Ryota.
+
+“I can’t!”
+
+“I’ll help you. And I’ll help you level up.”
+
+Ryota scoffed. “How? By fighting my berserk form? It doesn’t learn.”
+
+“Have you tried teaching it?”
+
+“I—no, I’m not suicidal—”
+
+“Then how do you know it doesn’t learn? Plus, it’s already really strong. Like, my level of Tier 5 strong. And I’ve identified its weaknesses, and I’m pretty sure I can assuage the worst of it with a little effort and proper teaching. I should be able to get you… er, berserk-you able to fight up a Tier in no time.”
+
+“My grandfather has two tiers on me.”
+
+“Stretch goals.”
+
+Ryota gave him a look, but Rhys returned it with utter confidence. He wasn’t sure he could get Ryota able to fight his grandpa toe-to-toe, but he wasn’t going to do that. He was going to be there, and he was definitely going to intervene. Two high Tier 5 mages vs one Tier 7? With the ground-leveling factor of Rhys’s impurities in the mix? He liked his odds.
+
+Plus, if what Ryota said was true, and he was already this combat-capable without having taught his berserk self anything, then his berserk self truly showed promise. It was essentially an infant thrown into this world blind, and yet it was able to put up enough of a threat that Rhys had to get serious and invent a new technique to deal with it. If he taught it the basics, or even complex fighting strategy and techniques, it might even have raw fighting power beyond Rhys’s.
+
+That was only counting his raw martial strength, of course. Even if he taught it everything he knew, Rhys didn’t truly feel threatened by the berserk Ryota. Not only could he control the berserk state now that he knew the berserker’s secret, but it was in no way immune to impurities or poisons. It was a real ‘what happens to a toad struck by lightning’ moment, except he didn’t feel the need to try to land the ‘same thing as everything else’ punchline.
+
+Once he got his hands on the under-world impurities and truly started to be able to control them, he was a threat to just about everyone. Tier 7s and 8s would surely have ways to suppress the effects or even immediately expel them, but they were still virulent and deeply dangerous. They’d have to do something to deal with them, if nothing else.
+
+That, and, well… no one can handle impurities, right? Maybe they don’t have something to deal with them. He was biased toward assuming they did because of Virgil, but Virgil had Soma to combat and control. Sure, he hadn’t succeeded, but he’d at least had the chance to gain lots of experience dealing with a being that was literally composed of impurities. What was the chance that Ryota’s grandpa had ever dealt with someone like Rhys or Soma, much less interacted with them enough that he’d developed countermeasures? Not zero, but not one hundred, either.
+
+It was always good to overestimate and overprepare for one’s enemies, though, so Rhys shrugged. Let’s just assume he has countermeasures, figure out what they might be, and work around them. Or just build big badass techniques that I can land anyways. Hitting them hard was always a tactic. Not necessarily the best tactic, but it was a tactic.
+
+This all aligned with his constant goal of ‘get stronger,’ so it wasn’t like he had to convince himself hard. Besides, who knew? Maybe he’d figure out a way to Tier 6 and even up the odds before he confronted the guy (with Ryota’s help). He certainly planned to build Ryota up, too, so with the power of numbers on their side and the power of levelling, they’d for sure probably be able to take on Ryota’s grandpa. Maybe.
+
+“Alright,” he said at last.
+
+“Alright?” Ryota asked.
+
+“You practice turning that power flow on and off. There isn’t a problem if you go berserk; I can stop you. If you can’t figure out how to control it, we’ll pivot to selling you as the righteous fury of god, but it’s better for everyone if you can figure out how to control it. Even if it’s controlling one percent of your true power… no, especially if it’s controlling one percent of your true power, that’s fine. Controlling any amount is the stepping stone to controlling all of it!”
+
+“What about you?” Ryota asked.
+
+“I’m going to do something dangerous and ill-advised. In other words, I’m going to get stronger. Don’t worry about me. Focus on you.”
+
+Ryota nodded slowly, not completely sold. “What if I don’t want to do that?”
+
+Rhys shrugged. “It’s a free country. Well… actually, I don’t know if it is or not. Politics aside, the point is, I’m not going to stop you. If you’ve got a path and you know how to progress it, do it. I’m not your boss.”
+
+Ryota’s expression darkened, and he looked down. “A path…”
+
+“You don’t have one? At Tier 5?” Rhys asked, flabbergasted. How were all these people getting so far without a path? At Tier 1 or 2, he understood. Even 3, sure, there were late bloomers. Four? Five? That was insane. He didn’t even know how he would’ve reached Tier 5 wihtout a path. No… it was plainly impossible for him. Maybe for people with immense talent, but their talent was usually pointed at some particular path. Talented people were rarely pathless for long, let alone to Tier 5.
+
+Ryota spread his hands. “I was forcefed power all my life. My objective was to grow strong enough in tier to not embarrass my family, not to actually achieve my own power. I never had a chance to walk my own path.”
+
+Rhys nodded. He patted Ryota on the back. “Consider this your chance to turn all that around. Feel around some, find out what feels good, what works. And don’t panic if you can’t figure it out. I mean, hell, maybe your path is to get forcefed power. As long as you have enough money, no problem with that.”
+
+“Didn’t you just give me an assignment?”
+
+“I gave you a suggestion. You can ignore it if you want. I’m not your boss. I don’t control you.”
+
+“But you’ll be upset if I don’t do it.”
+
+Rhys shrugged. “Not really?”
+
+“But you don’t mean that.”
+
+“I do? I mean, I’ve already planned around you failing to do anything with that hol…technique. I don’t care if you totally ignore it and spend the rest of your time in here picking flowers while I keep digging my hole.” Rhys looked at Ryota, and realized: Wait, I know what his problem is.
+
+Ryota wasn’t an underachiever. He wasn’t a lazy rich kid. He was a high-achieving, type-A rich kid, who had carried the weight of his parents’ (grandparents’) expectations even when his parents (grandparents) were total shitholes who didn’t deserve to have their kid carry their unrealistic expectations. Despite those unrealistic expectations, Ryota had had the ability to meet them anyways. He’d carried that weight on his back all this time without complaining, without refusing, because complaining only got him shat on, and refusing was meaningless.
+
+And so he’d wrapped himself up in a mental hole, where he was capable of meeting unrealistic expectations, and was not allowed to fail, and because he could accomplish the insane requirements set out by his parents, he thought it was reasonable for other people to expect unrealistic things from him. It was a fast-track to burn out and failure in the real world. Rhys had seen a lot of talented people totally crash out when they should’ve succeeded, all thanks to their parents putting them in this mental hole and expecting too much for them.
+
+Rhys took a deep breath. He grabbed Ryota by the shoulders. “Ryota, look at me. Look at me, okay?”
+
+“O…okay?” Ryota said, confused.
+
+“I don’t expect anything from you. I don’t. I really do not. Okay?”
+
+“Um…” Ryota’s face fell, and Rhys could see the denial crushing him. He was used to expectations, so to be told Rhys didn’t have expectations for him was a let down. It meant Rhys didn’t believe in him… or at least, that’s what it meant in the mental hole he was in.
+
+So Rhys pressed on. “But I mean that literally. Do you understand?”
+
+“No?”
+
+“I mean that you are a very powerful person. A very accomplished, very talented mage, who has somehow wandered your way to Tier 5 without a path—a feat that would be flat out impossible for me, by the way. That’s a talent in of itself. You are incredible, and I’m trash. Do you understand?”
+
+“I don’t.”
+
+“What I’m saying, is that I do not have the right to give you assignments or expect anything from you. I’m not worthy. You are the only one who’s allowed to expect anything from you. You are the only one who can assign yourself work. It doesn’t matter what I think, or your granpa thinks, or your father, or the King, or anyone. You are the one who sets your expectations. You are the one who decides your check points and how you should grow.
+
+“From here on out, you’re your own man. There are no expectations. No one’s forcing you to do anything. Whatever you want to do, whatever you want to accomplish… do it. You are free.”
+
+Ryota blinked. He backed away, breaking out of Rhys’s hold. His brows furrowed, and his jaws worked, but no words came out.
+
+Rhys stepped back, letting him work through it. He backed away toward his impurity hole. Now that he’d cracked the ice freezing Ryota from growing stronger, his work here was done. It was time to grow stronger himself. “I’ll be down here if you need me.”
+
+With a jaunty salute, he hopped into the darkness and vanished.

@@ -1,0 +1,67 @@
+---
+id: 535c272b-0dcb-5d06-8a56-c83022419ee3
+page-type-slug: story-chapter-royal-road
+title: "166. Camping and Glamping"
+slug: 0166-166-camping-and-glamping
+partOf: god-of-trash
+position: 166
+ownLength: 2314
+unit: words
+publishedAt: 2025-08-25
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2547724/166-camping-and-glamping"
+royalRoadId: "2547724"
+---
+
+They arrived back at the base in record time. Lira, who’d taken a different route that involved more water, had gotten back first, and Sable wasn’t long behind them. Rhys gathered all his fighters, all the original mages who’d been freed with him. Since they’d been freed, several months had passed, and one or two of them were on the verge of breaking through to Tier 2 again; since they’d already ranked up past 2, it was just a matter of accumulating mana and recalling their insights, and it wouldn’t be much longer before they achieved the next Tier.
+
+“We’re going to hit several camps,” Rhys announced, standing before them. His eyes travelled over the mages before him, settling on each one for a brief moment before moving on. “All the ones we’ve noted so far, if we can manage it. All five. If possible, I want all the attacks to proceed nigh simultaneously.”
+
+A mage raised their hand. “How are we getting to all the camps without the Empire noticing?”
+
+“Great question. I’ve forged a number of inconspicuous teleportation points across the Empire. When night falls, and the Empire settles in for its nightly meditation, I’ll move you to the point in question. We’ll split into five teams: Team Rhys, Team Lira, Team Mouse, Team Sable, and Team Korii. Team Rhys is… just me. I can move quickest alone, and I’ll be necessary to move everyone else through the teleports. Plus, as our Tier 3, I’m the most significant combat power we have. As for the other teams, I’ve indicated to the captains who belongs on each team. Don’t worry if your team is a bit small; I’ll finish off my assault as fast as possible, then double back to help whoever needs it.”
+
+Silently, he added, and pick up all the trash along the way at each camp, but he left that to himself. The trash was for him to worry about, not the others, but he wasn’t about to leave a delicious camp full of trash alone unless he had no other option.
+
+It was possible. The Empire could be on guard, like they’d been for the second camp. But then, that had been the second camp in quick succession. Aside from waging a low-danger crime war in the background, Rhys and his men had done nothing to harm the Empire for months. There was no reason for them to be on guard. He wasn’t going to let his guard down, just in case, but he wasn’t overly concerned about the Empire’s counterattack, either. It would be hell to get everyone back when he was the lynchpin teleporter if the Empire realized that and tried to block him, but since this was their first synchronized attack, and he’d gotten his teleport up and running minutes ago, there was no way for the Empire to know that. This was the safest and most likely to succeed a synchronized attack would ever be.
+
+“If you aren’t confident you have the manpower to take on the particular camp, just wait. We don’t want to lose people today, if at all possible. I’ll bring reinforcements or personally assist you, depending on the situation.”
+
+The Empire didn’t have communication devices or the immaculate movement of his world, and on top of that, even in his world, it usually took the cops an hour or so to respond to anything anyways. He didn’t anticipate taking more than a few minutes to take out whatever camp he assigned himself to, which meant he’d be free relatively early to go help out another group. No, actually—that’s strategic, he realized. If he made an appearance at several camps in different disguises at the ‘same time,’ then the Empire would be under the impression that the attackers had several Tier 3s. It would put them off the scent of his group, and on top of that, would paint them as a much larger and more coordinated threat than they were. True, it would cause the Empire to pay more attention to them, but if he had to be honest, this was already the nuclear option.
+
+But that was fine. The camps had existed for too long. He needed to take action. Once he was done with this, they’d go back underground, and while the Empire rooted out the phantom multiple Tier 3s, he could go finish his war on the criminal syndicate, then launch his chips-based large scale attack against the Empire and truly kick off the insurgency. Ideally, someone outside would see that as an opportunity to jump in and attack, but he had little hope of that. Instead, he could only hope that his plan put the Empire on enough of a back foot that they retreated from his region.
+
+If I’m strong enough by then… maybe… I can even take down the Empress. It was a dim dream. He was Tier 3 now, and while he was relatively confident that he could achieve Tier 4 in a reasonable timeframe, Tier 5 would be an incredible accomplishment, and the Empress was beyond that, at least high Tier 5, if not Tier 6, since she was on par with the Sword Saint, one of the most powerful people in his region. Aquari had been Tier 4, Ernesto had been higher Tier 4 than her, Purple Dawn’s Schoolmaster had been Tier 5, and the Sword Saint had been stronger than that, so at least high Tier 5, and the Empress had managed to suppress all of them with her forces. She could, at the lowest, be high Tier 5, and since the Sword Saint had threatened her, it seemed likely that they were similar tiers.
+
+So she’s high Tier 5. Probably. It was the most reasonable option. But she had other, weaker Tier 5s under her, and not only that, but even if Rhys achieved Tier 5 somehow in the next year-or-so, he wouldn’t achieve high Tier 5 in that same timeframe. No, he needed to weaken the Empire, then hope someone else jumped in to help him finish the fight.
+
+Hmm. I could just ‘hope’ that it happens, or I could go out and ensure that it does. He nodded to himself. After this attack, it was time to start reaching out beyond the Empire’s borders. Reconnect with Bast and Az and the other powerful people he knew who had a chance of either (Az) fighting the Empress or her direct powerful underlings, or (Bast) putting him in contact with people like the Sword Saint or other high-tier people from his previous region who could actually fight the Empress.
+
+It was unsatisfying. He’d prefer to fight the Empress himself. But he had to be realistic about it. One couldn’t re-conquer a region without allies. It wasn’t a weakness to realize that he needed help; rather, it was a strength that he had such a clear understanding of his own position, to understand that it was impossible to kill her himself, and seek help such that they could put an end to the Empress’s cruelty once and for all. Better to realize he needed help, than to delusionally be under the impression that he could go it alone, fail, and die without achieving anything.
+
+After this attack, I’ll see if I can’t put some feelers out to my old region. Surely someone would be interested in the rebellion he was fomenting under the Empire’s nose. Then again, it could also be dangerous… He shook his head. He’d stick to contacting people he knew. He’d never understood or been good at politics and people, but from his time in an office, he’d learned well enough how treacherous interpersonal relationships could be, to the point that someone was even willing to sabotage their own career just to fuck over someone else they disliked. Better to contact Bast and know he either had the Sword Saint’s help, or he didn’t, than to try and navigate the regions politics blind from outside the region in hopes of obtaining any measure of help without being backstabbed, used as a bargaining chip, or worst of all, betrayed to the Empire itself. Better to have no aid than to reach out and get slapped down. Luckily, he could trust Bast, and probably Az, maybe even Aquari if he was desperate, but he wouldn’t be reaching out to anyone else.
+
+“What are we doing with the people who we rescue?” someone asked from the back.
+
+“It’s up to them, but if they’re at all interested in fighting, take them back. I can reliably produce cores now, and I foresee a big rush of energy in the near future.” Aka my forthcoming all out war on the crime syndicate. “If they aren’t, let them go. The Empire hasn’t shown any interest in going out of its way to recapture decored people, and we should be causing enough trouble to distract the Empire from attacking them.”
+
+They nodded.
+
+Rhys put his hands behind his back. “Alright. The teams will be split up as follows…”
+
+In terms of teams, he’d mentally ranked everyone’s combat prowess, and split the teams according to that. Korii was the weakest, as a nearly-Tier 2 who’d been re-cored, so she got the rest of the nearly-Tier 2 recored mages. After that was Mouse, who, despite having low combat prowess, had high stealth, so he had built her a team of stealthy, quiet mages who had sneaky paths and were good at hidden weapons or secret attacks. Lira and Sable were about even in power, but Sable had the advantage of curse power and extra limbs, while Lira had the disadvantage of requiring water. He prioritized Lira’s team over Sable’s, though honestly, at that point, he was dealing with the dregs anyways. It was more about sending those mages to get combat experience than it was about assisting Lira or Sable.
+
+For this attack, he was only using rescued mages, rather than rescued mages and criminals. In future attacks, he would absolutely use criminals, but for now, for this high-stealth surprise synchronous attack, he needed the maximum sneak possible, and criminals with questionable loyalty were not maximum sneak. Later, when stealth was less important, there was no reason not to use criminals; plus, he’d have more men by then, and maybe even some re-cored Tier 2 mages on his side. It did limit his manpower somewhat for this attack, but after his long relatively quiet span, and the fact that this would be his first simul-attack blitz, he figured it was probably fine, or at least worth the gamble, for this one time. Better to gamble on having enough manpower than to gamble on the criminals giving away his only chance to get a full sneak attack off on the Empire.
+
+At last, everything was accounted for. All his underlings had weapons that they were at least vaguely capable of, and they’d practiced all the spells they could remember, or that he’d gotten them at the library. All of them had some level of disguise spell or aura obfuscation technique from his earlier efforts, and plenty of them had benefitted from his and Mouse’s efforts in the library. He’d had them place trash cans near the camps, in out-of-the-way locations outside of cities where they wouldn’t be too odd, but there wouldn’t be people around all the time, either. It would be simple. Easy, even. No big deal
+
+Right, so why does it feel impossible? Rhys took a deep breath. Everything felt impossible until he did it. Every obstacle could be the one that stopped him forever, if he let it be. But he hadn’t, and he wouldn’t. This one wouldn’t stop him either, even if it meant drawing the Empire’s attention once and for all. From this moment on, the Empire would know there was an insurgency in its midst.
+
+But he couldn’t keep stalling. He’d prepared. Everything was ready to go. If he got captured today, his trash food had already struck a fierce blow against the Empire, whether the Empire realized it or not. His region could benefit from his efforts, whether he was there or not, though he would definitely be there. No reason he couldn’t be. But in the worst case… he’d done it. His best. Set everything up, to the point that he really was just making excuses to not free the others. After all, they were in horrible conditions. They needed to be freed. Every moment he stalled, was another moment their torture was prolonged. Another moment for someone to die, without ever seeing the sun. He was right to fear the Empire, but he was not right to fear the Empire so extremely that it paralyzed him from striking against it.
+
+He sighed aloud. I’m not built for this. He was a trashy guy, someone destined to be forgotten, not a grand general. This kind of action wasn’t his element. He’d rather be at home, feet kicked up by the fire, enjoying a cheap beer. But here he was, in this place, in this moment, with everything he’d built and all the power he’d accumulated. To not act, would be to let down everything he’d created around himself.
+
+After this—after the Empire and everything, I think I’m going to just… vanish. Like Az. Fuck off and do nothing for a century or two. I’ve got a mage’s lifespan, now. Might as well waste some of it.
+
+He turned to the group and smiled. “First group, step forward. And remember, don’t move until ten minutes have passed. Long enough for me to put everyone in their places.”
+
+Sable gave him a curt nod and offered her hand. Her small combat group stood close behind her, waiting their turn. Rhys extended his mana around himself and Sable, then turned to Mouse. She held the trash bag wide, and they dove into it.

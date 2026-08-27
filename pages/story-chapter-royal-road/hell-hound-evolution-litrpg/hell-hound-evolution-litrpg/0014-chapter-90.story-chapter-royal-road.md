@@ -1,0 +1,207 @@
+---
+id: 06246a44-acaa-57f8-b1ee-3e6e9d3603ed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 90"
+slug: 0014-chapter-90
+partOf: hell-hound-evolution-litrpg
+position: 14
+ownLength: 2842
+unit: words
+publishedAt: 2026-02-25
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3091143/chapter-90"
+royalRoadId: "3091143"
+---
+
+I watched from the bushes as a large Mossgrazer… well, grazed on some moss. This one was probably at least one evolution further than the last one we had killed. It had the same plantlike vines that emerged from its back, but there was a sharpness to the ends of them. This was clear by how it used the end of a vine to peel off slabs of moss from a boulder, then the creature would lean down to eat it off the ground.
+
+Though it was early in the morning and the sun was out, there was enough tree coverage over us that I could make some use of my stealth abilities.
+
+{Veil of Shadows}!
+
+{Death Mark}!
+
+{Marrow Sense}!
+
+Its back legs seemed like an easy target for Crippling Bite. While the creature was deerlike in most regards, it had thicker legs than a regular deer. But Marrow Sense was showing me yellow-red joints.
+
+I lifted my head enough to spot two familiar skeletons—Lily lying in the brush on the other side of the clearing, and Grick crouching next to her, his hand forward and fingers gripped around the hilt of his dagger. Lily’s skeleton was mostly yellow with red legs, and poor Grick was completely red. He was already level 9, though, and that was just after a couple days of including him in the hunts. He was probably advancing further and faster than any normal goblin thanks to the shared experience through Pack Bond.
+
+When the Mossgrazer peeled off another slab of moss and leaned down to get to chewing, I made my move.
+
+I burst from the bushes, it turned just in time to see what it probably only registered as a blur before I chomped down.
+
+{Crippling Bite}!
+
+I instantly felt the bone snap, but I was paid back a breath later as one of its vines slash across my back, but it wasn’t a simple slap of a whip. It sliced, and I felt my flesh part—though the cut wasn’t terribly deep.
+
+Still, I disengaged and retreated. I got my skill uses in, and my part was done. I positioned myself at the end of the clearing and sat on my haunches as I watched Lily burst from the brush next, miasma leaking from her eyes and shortly behind her paws as she split into three clones.
+
+All the Lily’s yipped and snapped at the Moss Grazer, forcing it to focus its vines on her while Grick snuck up from behind.
+
+The little guy had gotten much more confident with these things, and as soon as he saw the opening Lily created for him, he ran across the creature’s flank, knife stabbing in and trailing along the length of the beast as he ran, slicing a very deep gash.
+
+The creature screamed in pain, rolling to its other side, vines ignoring Lily now and blindly lashing in Grick’s direction. But the goblin was already disappearing into a bush.
+
+Finally, Lily ended things, pouncing on the creature's neck and ripping and pulling until its body gave a final spasm and fell still.
+
+Prey Eliminated! level 9 Whipslash Mossgrazer
+
+No Experience Awarded
+
+Though I was too high level to get experience from such a kill, I already knew Grick was getting rewarded himself. And not only was he getting experience—
+
+“Grick gets new skill!” he cheered happily, thrusting his dagger high in the air as he came to join us.
+
+Lily’s tail wagged, though she was much more focused on the kill as she sniffed around and nudged parts of it with her nose. She always liked to investigate like this first, but ultimately almost always went for eating the belly.
+
+I yipped a congratulations at Grick and then checked his stats, skimming down to just look for the new skill he’d obtained. It was an active skill!
+
+Flensing Run lvl 1 (new)
+
+Execute a rapid flanking sprint, delivering a deep, continuous cut to a target while moving and applying a “bleed” effect. Bleed severity scales with Dexterity and multiplies based on movement speed and length of the cut during the skill’s execution.
+
+Oh! Go Grick! That sounds like a pretty nasty skill.
+
+“Grick is powerful! Grick provides for puppies! Gives puppies good tasties!”
+
+Grick provides for us?
+
+I gave him a wolfy grin. Sorry, Grick, but we were doing just fine with getting food without you, you know.
+
+Still, he was happy, and I was glad to see he was embracing his training so much. He patted Lily’s back while she was nose-deep in gore, and her tail wagged happily.
+
+I felt a little bad that Grick couldn’t eat raw meat. He did a good job of finding other things to scavenge along our travels, though, and if we found a decent pond with some fish we would stop and let him get a proper meal.
+
+I joined Lily for breakfast, and when our faces were bloody and our bellies full, I got up to continue on our way, only to see her sitting nearby.
+
+The fox was in her human form, one leg crossed over the other, cloak draped over her shoulders as she sat back against a boulder, watching us with her golden eyes. “You could have woken me up, you know,” she complained. “It’s rude to just go off hunting without saying anything!”
+
+My ears folded and tail drooped upon seeing her. It’s your own fault for sleeping in.
+
+She let out a yawn as she got up and walked towards our kill. She eyed up one of the uneaten legs and licked her lips, then crouched down and grabbed it on either side of the knee joint. Her clawed fingers curled around as she tugged with a few rough snaps. She then ripped and twisted until the flesh pulled apart, severing the leg.
+
+I gave a low growl as I watched her. That was the third time she’s taken a bit of our kill without even asking.
+
+“Don’t give me that; you were done anyway, weren’t you?” she asked as she opened her mouth and her sharp teeth chomped down. Her cheek puffed as she chewed and pointed the leg at me, blood dripping down her chin. “An’ I’d gradly help if you’d shtop goin’ off wifout me.” She swallowed.
+
+Yeah, right. I have yet to see you help with anything, I thought.
+
+She smiled, flashing her bloodied fangs. “Besides, you can just consider it payment for my protection and acting as your guide! Even though you’ve utterly ignored my directions so far.” She chomped down for a second bite. She chewed and swallowed as she scooped her bag off the ground. “Oh well, let's get moving. If we keep a good pace, we should be able to get back to the river today. The Verdant Empire should just be another day’s travel from there.”
+
+She slipped her bag over her shoulders and took another big bite as she led the way.
+
+To be fair, she wasn’t all that bad. She seemed to have warmed up to a Grick a little in the few days we’ve traveled together, though really she was just tolerating him more than being friendly with him. She was also getting better about having a little more discretion when she changed forms. But what really irked me was how she tried to act as if she were our leader.
+
+We went back to where we slept the night before so Grick could get his pack, and began our travels for the day.
+
+When the fox had finished picking the leg clean, she tossed the bone into some brush. Lily sniffed towards it as we passed, but didn’t make an attempt to retrieve it.
+
+I watched the fox’s tail swish under her cloak, occasionally the orange fur peeking out the side with her steps.
+
+I would have liked to figure out how to get that last hint for the Veiledfang Stalker evolution before we made it to our destination. If the idea was I’d have Genzo’s people help train me, and ultimately I’d fight in their war, with the expectation they would help me find the rest of my family, that would require a bit of proper communication to negotiate the details. Grick could do a little translation work through Pack Bond, but I couldn’t entirely trust him to explain things properly, and surely something would be lost in translation.
+
+Since the Path was first hinted to me upon meeting the fox, I was hoping just observing her would give me the second hint I needed… but I’ve had no such luck so far.
+
+After several hours of travel, I heard the distinct sound of splashing water. I slowed to a stop, Lily and Grick taking my que and stopping as well; the fox made it a few more steps before realizing we weren’t following.
+
+“Huh? What is it now?”
+
+Grick pointed. “Grick captures fishies!”
+
+I sniffed the air. There was certainly a pond nearby.
+
+“Can’t you just find some berries to eat?” she asked.
+
+I growled and gave her a sharp bark, then I looked between Grick and Lily and, through Pack Bond, I told them, “Let’s take a break.”
+
+Then as we all padded over to the lake, fox lady let out a sigh. “Honestly, we could have been there by now if you’d just listened to my travel plans.”
+
+I likewise felt in a hurry to get there, and to discover if Genzo’s people really could help me get my family back, but a few extra days wouldn’t make much difference in the grand scheme of things. However, if we were to take a more dangerous Path and possibly run into these Umarii he’d warned me about, my chances of ever getting my family back might dissolve. Not to mention I didn’t want to put Lily and Grick at risk.
+
+I picked a spot by the water to lie down while Grick unhooked his fishing pole from his pack and explained how it all worked to Lily, who watched curiously, tail wagging.
+
+The fox resigned herself to going at our pace as she leaned against a tree, pulled one of those squishy apple things out of her bag, and started eating it.
+
+I watched her. She had an evolution Path that allowed her to turn into a human, and therefore, she’d have some insight into what the missing hint might be for mine.
+
+Though she held a casual posture, it was not lost on me how her eyes never stopped moving. She might be lazy, arrogant, and opportunistic, but she wasn’t stupid. Her fox ears twitched at every random sound in the forest behind her. She certainly remained aware of her surroundings, and I couldn’t deny that she was competent.
+
+Then her eyes flicked over to me, and I pivoted my gaze away. But I was too late as she smirked. “Need something, pup?” she asked, taking another bite of her fruit.
+
+I huffed softly, kind of wanting to avoid asking any favors from her. But… I suppose it’d be foolish not take advantage of a possible resource.
+
+I stood up and padded over to some softer, wetter ground by the lake and began dragging my paw through. The fox pushed off the tree and came over to watch as I spelled out, “Hint?”
+
+The sharp smile that spread over her lips instantly put my fur on end. “Oh, so now you want my advice, huh?”
+
+I gave her a dry look. “Are you going to help or not?”
+
+She chuckled as she crouched down to be closer to eye level with me. “So I take it you’re trying to get a new evolution. What kind of Path is it?”
+
+I pointed my paw at her, but she just turned her head.
+
+I sighed. How do I communicate this to her?
+
+I backed up a few steps, then pushed up, hiking my front paws into the air to stand on my hind legs for a moment. It was awkward and clumsy, and I fell back to my front paws after only a couple of seconds. I then stared at her, hoping she’d understand.
+
+She blinked… and then let out a burst of laughter.
+
+I growled at her.
+
+“Oh, relax,” she said, waving a hand as her laughter died down. She got more serious as she tilted her head, studying me with those golden eyes. “I think I get it. You want to do this,” she gestured vaguely at herself.
+
+I nodded.
+
+“So what do you know about the Path so far?”
+
+I thought back to the Path description and the hint.
+
+A path meant for cunning predators who wish to blend in with their prey and catch them at their most vulnerable.
+
+A wolf in sheep’s clothes is more dangerous than one that stalks the woods, but it must first understand the flock.
+
+I couldn’t just paw all of that into the dirt, so I tried getting the point across with just a few words. She took a few more bites of her apple as she watched me write.
+
+“Blend” “Prey” “Vulnerable”
+
+She chewed slowly, eyes flicking between the words and my face. When she swallowed, the humor faded from her expression, replaced by something sharper.
+
+“Hm,” she murmured. “That’s a tricky one.”
+
+I waited, tail flicking once.
+
+“So if I were to take a guess… The problem is you think too much like a hunter… the act of hunting. That part you’re already good at. Sneaking. Watching. Picking the opportune moment to strike.” She tapped the dirt beside my writing. “But that hint probably isn’t about killing prey. Not really.”
+
+My ears folded back.
+
+She smiled, just a little. “It’s about fitting in.”
+
+She sighed and plopped down onto the ground, crossing her legs. “Listen. Imagine hunting a Mossgrazer. You stalk them from the tree line, remain unseen, wait until they’ve let their guard down—when they think the forest is calm and peaceful and there are no threats present. That’s the illusion you immerse yourself in. Now imagine this. Instead of jumping right into the violence, you casually walked up, maybe give them a greeting, and then graze alongside them.”
+
+I tilted my head. That would never work.
+
+She gave a soft chuckle. “Of course, you can’t do that now, not as you are. The second they see you, they’ll know what you are; the illusion would be broken instantly. They don’t need to think twice to know you’re a threat—a predator.
+
+“The way you currently hunt a Mossgrazer is correct… But humans are another story…” Her fangs flashed, and her golden eyes locked onto mine. “When I hunt people, I laugh when they laugh. I complain when they complain. And if they happen to notice my fangs, I throw on a little charm and make them forget I’m dangerous.”
+
+That made something twist uncomfortably in my chest.
+
+“You Hell Hounds, you’re honest predators. You don’t pretend. You are what you are, and the world reacts accordingly.” She leaned forward. “But that Path? It wants deceit. Understanding. Empathy, even.”
+
+I looked past her, toward Grick and Lily by the water. Grick was explaining something animatedly with wide gestures while Lily watched the end of his fishing pole with intense focus.
+
+“You don’t need to become human, but you do need to understand what makes prey feel safe. What makes them trust. What makes them lower their guard. Then, when the time is right…” She gave another foxy smile and ran a finger across her neck.
+
+Her lips thinned at my unease, and it then turned into a smirk as she shrugged. “The System almost always rewards killing, but there are other ways you can benefit from earning someone’s trust. It doesn’t always have to be so violent.” Then she stood, dusting herself off. “Anyway, if I had to guess, your hint won’t unlock because you’re still watching from the bushes. What you need is to walk with your prey. Not stalk behind them.”
+
+With that, she went back over to lean against her tree and produced another apple thing from her bag.
+
+I heard splashing and Lily’s excited barks, making me look back to my pack. Grick had managed to hook a fish, and Lily jumped back and forth around him in congratulations.
+
+My ears twitched as I glanced back to the fox once more. If I hadn’t trusted her before, her little speech made me trust her even less. She didn’t really have a reason to have any loyalty towards us, and she all but admitted she’d betray anyone if it benefited her. I was starting to think that next time she slept in, maybe we should skip hunting for the morning and get as much distance on her as we could.
+
+But I had to wonder if she was right about the Path. I just wasn’t sure what to do with that information yet.
+
+Walk with my prey instead of stalking behind them? How was I supposed to do that?
+
+Read Next Chapter Now!

@@ -1,0 +1,217 @@
+---
+id: a985d90f-81a8-5613-ab47-d7365050b05e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 999: An Interesting Message"
+slug: 0066-chapter-999-an-interesting-message
+partOf: he-who-fights-with-monsters
+position: 66
+ownLength: 2367
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3228753/chapter-999-an-interesting-message"
+royalRoadId: "3228753"
+---
+
+Stealth didn’t come naturally to Thalia Mercer. Her Onslaught essence informed not just her power set but her inclinations in life, although her life had been strange for a long time. She hadn’t seen her daughter in years. Or, more precisely, Cassandra hadn’t seen her. Thalia watched from the shadowy side of a tall tree as Cassandra and her team walked across the Adventure Society campus in the direction of the trade hall.
+
+“It must be hard,” a voice behind her said.
+
+It was not easy to sneak up on a gold ranker, and Thalia reacted on instinct, whirling around and lunging with her fist as it erupted with power. The strike contained the force and magic to flatten a building, yet it was lightly caught in a man’s palm. All that power vanished in an instant, as if it had never been, leaving Thalia staring at the man who now gripped her fist in his hand.
+
+He had the metallic hair and matching eyes of a celestine, both a dark copper that gleamed in the sunlight. He loomed over her, almost seven feet tall, but slender and lean rather than bulky and imposing. His clothes were brown and muted red. She looked around, but no one seemed to have noticed her violent outburst.
+
+“To be so close,” he continued, “yet forcing yourself to stay away. You are wise to maintain a distance from your daughter. Your presence would only complicate a life that is going very well for her. A mother’s kindness is not always easy, is it? Not with your daughter, and certainly not with your son. Do you think of him that way? As your son? I can’t imagine you would go to the lengths you have if you didn’t. Or perhaps you honour what little of your son remains in that creature, however transformed.”
+
+He let go of her hand, but she made no further attack. Even if this had been the place for it, which it wasn’t, his power obviously eclipsed hers. That attack would have shaken anyone at gold rank, yet his aura showed him to be bronze. To carry off such a deception in the heart of the Adventure Society was no small feat.
+
+“Who are you, and what do you want?”
+
+“My name is Jamis Fran Muskar, and I would like to see your son.”
+
+“That’s a messenger name.”
+
+“That makes sense, given that I am a messenger. Your son and I have had dealings before, but given his current circumstances, I thought the more diplomatic approach was through you.”
+
+“My son died twenty years ago.”
+
+“Let us not waste each other’s time, Mrs Mercer. Tell Thadwick that I would like to meet. He is going by Thadwick again, yes? Even though he is very far from the person he was.”
+
+“And if I go straight to the Adventure Society? Telling them about you could earn me valuable concessions for Thadwick and his situation.”
+
+“The Adventure Society knows who I am, and they are not foolish enough to challenge me directly. Not unless I cross certain lines.”
+
+“I could push you over one of those lines.”
+
+“No, Mrs Mercer, you could not. And it is an empty threat, regardless. We both know that once the Adventure Society learns why my people are hunting Thadwick, they will hunt him just as hard.”
+
+“If you can find me, you can find him,” she said.
+
+“Yes. But, as I told you, I want to meet with him, not chase him down and kill him like a game animal. If the people of this world learn what he’s found…”
+
+He gave her a sympathetic smile before continuing.
+
+“I think we both know it’s best that they don’t.”
+
+“If you can find him, why haven’t your people descended like locusts?”
+
+“Because things could so easily go wrong. It would also be inelegant, and costly. This war has already consumed a significant number of our forces. Wildly beyond our initial projections, and those estimations were already giving our leadership pause. This planet is stubborn, and our operations here have cost me no small amount of my once unassailable influence.”
+
+“You haven’t told your people that you know where he is,” Thalia realised.
+
+“I have not.”
+
+“He’s not going to give you what you want.”
+
+“Perhaps. But keeping it isn’t getting him what he wants. To each of us, what he has is a means to an end, but he can’t use it. Not the way he wants. Once the world realises he has it, they will all descend on him. I can present him an alternate means to his end that won’t see every adventurer in the world hunting him down.”
+
+“What are you offering, exactly?”
+
+“To explain things in person. Which will go more smoothly if you are willing to make an introduction.”
+
+“I want to look into who you are more before I’d even consider that.”
+
+“I understand, although you should stop using Mr Sandargo as your information broker. He is in the process of setting you up for betrayal.”
+
+“What makes you say that?”
+
+“Let me inform you of some things about your ostensible allies. Call it a goodwill gesture, in hope of things going well between us in the future.”
+
+“The grounds of the Adventure Society might not be the best place for that.”
+
+“Don’t concern yourself, Mrs Mercer. No one here will pay us any attention.”
+
+***
+
+“The castle McKean is operating out of is a former Network branch headquarters,” Farrah explained, gesturing at a holographic map floating over the command table. She was briefing Jason and his team in a briefing room on his cloud ship.
+
+“A castle in the French countryside,” Humphrey said. “That doesn’t seem like a practical choice for a Network branch.”
+
+“Just a pretentious one,” Jason agreed. “People shouldn’t make such important choices just for dramatic effect.”
+
+Everyone on the room turned to give him a flat stare.
+
+“What?” he asked innocently.
+
+Farrah shook her head and brought the briefing back on topic.
+
+“McKean has been using powerful but subtle magic to mask the magic and the auras present, as well as the comings and goings. It’s not enough to hide him now that we know exactly where to focus our attention, but when we had a whole world to scour, it was plenty. McKean’s magic expertise is greater than anyone else I know of born on Earth. And most born on Palli, for that matter.”
+
+“I’m going to say it again,” Neil said. “I don’t want to fight evil Clive.”
+
+“Better to stop him now then, before he makes any further preparations,” Humphrey said.
+
+“I think he’s already prepared,” Neil said. “Why else would he bait us into a trap? We are assuming this is a trap, right?”
+
+“It’s definitely a trap,” Farrah told him.
+
+“Then why are we walking into it?” Neil asked. “Walking into a trap feels like a Jason plan.”
+
+“People need to stop belittling my plans,” Jason said. “I’ve had some great plans.”
+
+“Yeah,” Neil said. “Hey, let’s put the undead god’s avatar inside my soul. Hey, I’m going to attack the cosmic entity who births universes with a knife. Hey, let’s annihilate a section of reality and try to figure out how to put it back together afterwards. Hey, let’s go fight Evil Clive.”
+
+“To be clear,” Jason explained to the room, “I used a knife to attack the guy who makes universes. He doesn’t use a knife to make the universes. That would be weird. Also, I think it’s worth pointing out that all of those plans worked. Except the last one, which wasn’t my plan and hasn’t happened yet.”
+
+“You attacked the Builder with a knife and he killed you,” Neil pointed out. “How does that count as working?”
+
+“I distracted him long enough for the rest of the plan to work. Which it did, by the way.”
+
+“You died!”
+
+“I got better.”
+
+“Did you know you were going to come back from the dead?”
+
+“I had a mysterious magic item from a space phoenix. It was kind of obvious I was going to come back.”
+
+“I notice you didn’t answer my question. Did you know you were going to come back to life?”
+
+“You know we’re not actually walking into a trap, right?” Jason asked, shamelessly changing the subject. “We’re flying into a trap.”
+
+“Can we please get back to the planning?” Farrah asked. “There’s a lot of busy and important people watching this, and you two aren’t filling them with confidence.”
+
+“I just want it on the record,” Jason said, “that I’m not the one who…”
+
+He scowled as he trailed off, tilting his head as if listening to a distant sound.
+
+Humphrey walked over and put a hand on Jason’s shoulder.
+
+“What is it?”
+
+Jason used his aura to create a small privacy screen around them.
+
+“Jamis Fran Muskar just knocked on the door of my private universe.”
+
+“Do you have to go?”
+
+“No, my prime avatar can stay here. I don’t need it inside my own kingdom.”
+
+***
+
+Jason walked through the halls of his space station, flanked by a messenger on each side. Jali Corrik Fen was to his right, and Tera Jun Casta to his left. Jali had reached gold rank while Tera was in the upper reaches of silver.
+
+“I don’t like this,” Jali said again.
+
+“You don’t have to participate,” Jason said. “I don’t want to pressure you.”
+
+“No, it’s…”
+
+She hesitated, looking for the words.
+
+“I remember when we confronted Vesta Carmis Zell, when you freed me from her control,” Jali said. “This feels like, I don’t know. The next step. I don’t like it, but I think I might need it.”
+
+“That’s quite a next step,” Tera said. “Vesta Carmis Zell is on the outside of the Council of Kings, particularly after her losses on Pallimustus. Jamis Fran Muskar is the closest thing we have to a true, singular leader. I never imagined that I would have the chance to meet him. Once, that would have been an unreachable dream. Now, I’m dreading it. And yes, I know you’re not pressuring me.”
+
+The others stayed silent, letting Tera gather her thoughts.
+
+“In a lot of ways,” she said, “Jamis Fran Muskar is the embodiment of everything I believed. The faith that poisoned everything about me, and almost killed me in its extraction. What is he like? You’ve met him, haven’t you?”
+
+“I have,” Jason told her.
+
+“I always pictured him as the encapsulation of messenger ideals. Powerful, domineering, benevolent. Stoic and impeccable. The perfect messenger.”
+
+“That’s the thing about the people behind the ideologies we put on a pedestal,” Jason said. “They’re still just people, and people can’t live up to perfect ideals. Especially when they aren’t even trying. Jamis Fran Muskar struck me as an outlier from the other astral kings. I suspect that most of them haven’t shaken as much of the indoctrination as they think they have, at least in terms of values. They think themselves above it, but their goals are right out of the indoctrination handbook.”
+
+“Dominion and conquest,” Tera said. “It is righteous because we are superior.”
+
+“Exactly,” Jason agreed. “But I think Muskar’s gaze falls beyond that.”
+
+“On what?” Tera asked.
+
+“On me. Originals, like I am. The origin of your species. I got the impression that he looks at vanilla messengers the way that messengers look at everyone else.”
+
+“But he is one,” Jali said. “He was a normal messenger who ascended to astral king.”
+
+“That’s what worries me,” Jason said. “I have concerns about anyone whose ambitions come from scorn towards their own nature. People like that have a natural proclivity for videogame bad guy plans. The kind where they decide to end suffering by wiping out the planet the suffering people live on.”
+
+“It sounds like you’re apprehensive about this meeting as well,” Jali said.
+
+“I am. Jamis Fran Muskar has billions of years more knowledge and experience than me. He’s stronger, smarter and has what may be the largest army in the cosmos at his beck and call. This is a man with the resolve to surrender an army of superpowered angels, quarter of a million strong, if it furthers his own agenda. Getting the attention of someone with that mentality, that willpower, leaves me profoundly concerned. That’s not a person worried about collateral damage.”
+
+They arrived at a hangar large enough to fit an aircraft carrier. Blood sprayed into the room from the back of Jason’s hand and coalesced into a blood clone that looked around the hangar.
+
+“Was this here before?” Colin asked.
+
+“No,” Jason said. “After Raythe and Dawn arrived, I realised I needed to accommodate visitors.”
+
+“I didn’t realise the space station was big enough for this,” Colin said.
+
+“It wasn’t. I scaled it up.”
+
+“Neat. I’m going to go look around while you talk to your supervillain.”
+
+“You don’t want to stay and try to eat him?”
+
+“Ask me again after I rank up.”
+
+While Colin scampered off, Jason pointed at the side of the room that was one long opening to space. The atmosphere was contained by a shimmering blue forcefield.
+
+“That’s the mouth of the space station,” he said.
+
+“Aren’t you worried that people will think you’re an idiot when they have to fly into the mouth of a space station shaped like your head?” Tera asked.
+
+“It’s a test,” Jason said. “Anyone who underestimates me based on just that is a lesser concern. Jamis Fran Muskar won’t be so easy.”
+
+No dimensional vessel came flying in. When Jason granted permission for the astral king’s prime avatar to enter his realm, there was a brief distortion in space, and then he was there. He had no vessel, but his wings were extended out to either side. They were shades of mottled brown, limned in amber light. He floated into the hangar, standing eleven feet tall. He shrank down to seven feet and his wings retracted and vanished.
+
+“Interesting choice of companions,” he said, his gaze moving between Jali and Tera. “You freed both from bondage, one by force and one who yearned for it. It sends an interesting message.”

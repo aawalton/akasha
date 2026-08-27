@@ -1,0 +1,143 @@
+---
+id: e4abe28d-c0a0-56f9-a7ce-bff755e08f31
+page-type-slug: story-chapter-royal-road
+title: "133. Open Shop"
+slug: 0133-133-open-shop
+partOf: god-of-trash
+position: 133
+ownLength: 2655
+unit: words
+publishedAt: 2025-07-17
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2443694/133-open-shop"
+royalRoadId: "2443694"
+---
+
+The mages were efficient. By the time he brewed up another vat of soda, the chips and fries were already stored away in storage rings and ready to be transported. Rhys put the soda in his ring, and he and a few of the less-recognizable mages set out for the city… but not before Rhys made everyone a fresh pair of robes from the cloth in the garbage. He went for shades of red and yellow, since they were colors meant to incite hunger, and bright and bold enough to form the foundation of their brand. The clothes ended up looking a bit harlequin, due to the small scraps he was working with, to the point that they ended up almost checkerboarded with panels of red and yellow, but he shrugged internally. It was most important to attract attention when they were starting up a new brand, so why not do it with their uniforms, too?
+
+As for their faces, he couldn’t do much right now, but he colored everyone’s hair, including his, black with charcoal, and used it to darken their eyes and define their chins a little better. Once they got to the city, he’d buy makeup and wigs, but for now, these clumsy disguises would have to do. He’d chosen those who were the best at disguising their auras in the first place. Not those who could completely suppress their aura—those had a different job—but those who could change their aura to be different from their own. They’d be disguising as foreign mages, after all, rather than mortals or local mages, so they didn’t need no aura, but just an aura that anyone who’d encountered them in the mines wouldn’t recognize. The other mages had done some scouting, and apparently foreign mages didn’t wear pins, but instead had some kind of paperwork that the city mages could demand to see. Mouse had snuck into the city and peeked at some papers, then worked with Lira to provide a decent copy of the visa, and today, Rhys carried those papers on his person.
+
+Having outlandish clothes and strange makeup didn’t hurt their alias as foreigners, either. True, it wasn’t like he knew what any region nearby’s clothes actually looked like, but did most of the Empress’ good soldiers know, either? He had the vague sensation that what he was doing was somehow not morally okay, but given that he wasn’t trying to replicate any actual country’s attire, it was probably okay… right?
+
+He had the money from their attack on the traders, plus a few more gold pulled from the guards at the farm. The herbs from the farm he couldn’t sell—they were too hot, since the authorities would be on the lookout for a large quantity of these herbs on the market—but they were healing-type herbs, so he could use them to imbue his sodas with a healing effect. He put that to the side for now. The first thing he wanted to do was get the store working, then expand the network of stores outward, from city to city, and become the rot that killed from within—but naturally, the first step in all that was to open their very first shop. And that was what the gold he'd gathered would go toward… just as soon as he found someone in the city who’d sell him real estate.
+
+Rhys wandered the streets of the city, a little at a loss. He didn’t know how to buy real estate in this world. Hell, he was a bit shaky on how it worked in his world. He didn’t want to try the guarded, mage-only part of the city; that was far too much a risk, especially when they needed Mouse to consistently get past the guards. Instead, he walked the city near the gates, close enough that mages could see the shop regularly, but not so close that they’d be under the guards’ watchful eyes at all hours.
+
+It turned out, he wasn’t the only person who’d noticed what a fine opportunity this was, and few buildings were open in the area of obvious prime real estate. The few that were, largely had rent prices posted that were far out of his purchase price. Rhys found himself circling further and further from the gates, until, at last, he stood in front of a run-down shop with reasonable rent posted. He stepped closer, peering into the windows to get a look at the interior.
+
+“I wouldn’t bother, if I were you,” a gravelly voice advised him.
+
+Rhys turned. An old man stood behind him, shaking his head. “It’s cursed, it is. Filthy hole that ruins everything it touches.”
+
+Oh? That sounded promising to Rhys. He lifted his hands again and peered harder into the window. The man was right about one thing, at least; the building was filthy, full of garbage, dust, and some indescribable layer of gunk on the ground. Rhys licked his lips. He was excited just looking at it. What a formidable layer of filth! That would do great in his trash star.
+
+“Everyone who’s tried to open a building has lost their business. Don’t bother,” the man continued.
+
+“Who owns this building?” Rhys asked, ignoring his warnings.
+
+The man narrowed his eyes. “Have you heard nothing, kid?”
+
+“No, I heard all of it. I think it sounds fantastic. I want to rent.”
+
+For a few more moments, the man stared at him, then harrumphed. “Kids throwing their money away. Fools. Don’t blame me when you lose everything.”
+
+The other mages behind Rhys glanced amongst one another, uncertain, but Rhys just stared the man down. A warning? Interesting. His mind went to a certain show about four friends and a dog solving mysteries in their van. Could it be that this was that kind of ‘warning,’ and this man actually wanted this real estate, and was only warning them off to gain it for himself?
+
+Rhys snorted at himself and waved his hand. That was too outlandish, far too outlandish. No, it was far more likely that this man was just superstitious, or at worst, was trying to warn them off because someone with great power and authority wanted this property instead. Not that Rhys cared. He needed a storefront, and this looked like a good one.
+
+“So… the landlord?” Rhys prompted the man.
+
+Quick footsteps rushed around the corner. A teenaged boy came running, huffing and puffing. At the sight of the old man, he bared his teeth. “George! Are you scaring off our buyers again?”
+
+“Just giving them some good advice,” the old man grumbled. “Not that they wanted to hear it.” With that, he finally walked off, leaving them alone.
+
+The boy turned to Rhys and his group. “Sorry about that. You’re interested in renting the building?”
+
+Rhys nodded.
+
+“I’m Jacques, by the way. Oh, and sorry, but the building comes as-is… there’s nothing we can do about that. Since dad died… it’s not possible for us to clean it. Are you still interested in the building, knowing that?”
+
+“I wouldn’t have it any other way,” Rhys assured him.
+
+Jacques gave him a funny look, but didn’t comment on it. “Then, would you like a tour? See what you’re getting into?”
+
+Rhys waved his hand. “That won’t be necessary. How much is the down payment?”
+
+“Down payment? Sir… it’s just a rent. You’re not buying the building.”
+
+“No, I…” Rhys took a deep breath. Right. This world hasn’t come across the idea of making people pay down payments to live in rental apartments yet. Even the Empire wasn’t that evil. He beamed. “Right. How much is rent?”
+
+“Five hundred gold for the month. You understand, it’s near the mages, and even in this condition, it’s still—”
+
+Rhys reached into his storage ring and handed over two neatly wrapped bags. “While you count that, we’ll get started on cleaning it up.”
+
+“Er—wait! You’re foreigners, right? I’ll need to see your papers,” Jacques said, almost apologetically.
+
+Rhys laughed lightly and drew out Mouse’s forgery. “Of course.”
+
+Jacques glanced at him, then looked over the papers, then back at him, then quickly handed them back. “Looks good. Then… go ahead. I’ll be counting back in my rooms, but I can see the shop from our apartment.” He pointed across the road, up at the second floor. “So don’t get any funny ideas.”
+
+“No need to fear,” Rhys reassured him.
+
+Jacques hesitated one last moment, thinking to himself, then handed Rhys a key. “It’s not final until I finish counting the gold, but if I don’t come back down here, assume it’s yours.”
+
+“Shouldn’t there be some paperwork?” Rhys asked.
+
+“Er… right! I’ll run upstairs and draft it up, and we’ll sign once I see you’ve all got the gold present and accounted for.” Jacques touched a hand to his forelock and ran off.
+
+Rhys smiled. This was exactly what he’d been hoping for. An inexperienced landlord who didn’t know what he was doing, and was unlikely to do anything too predatory, while also not checking the paperwork too closely. The location could be better, and the building was a wreck, but the building he could fix, and the location wasn’t awful. Really, it was incredible that he’d gotten such a good location at such a good price! The old man was suspicious, but he wasn’t worth giving up this location over, especially if his complaints really boiled down to a bit of curse energy and some trash. Now, if he was warning them off of some actual criminal plot, whether his or someone else’s, that was entirely different… but Rhys was willing to test that. Come whatever may, he was relatively confident that he and his fellow mages could handle it. He was Tier 3, and Lira and Sable were Tier 2, which meant that as long as the imaginary plot that he had no proof existed only involved people who weren’t at the school-leadership level, they could probably take them on.
+
+In conclusion, this was only a good decision, and there were no possible detriments whatsoever!
+
+Rhys breathed out. Why do I feel like I’ve bit off more than I can chew?
+
+In any case, that was a problem for future Rhys. He unlocked the door and pushed it open. It groaned, the hinges squealing. The front door hadn’t been used in a good, long time. He and the other two mages he’d brought with him stepped inside and closed the door. Rhys turned. “Cover the windows.”
+
+The other two mages nodded and rushed to pull dusty curtains across the front of the shop. With the windows secured, Rhys pulled in, calling all trash to him. Dust, dirt, and the deeply-ingrained layer of filth on the ground and every surface of the building rushed toward him. A few seconds later, they stood in a clean space, though not one ready for business.
+
+It had once been a tavern, and there was still a run-down bar and a few half-functional tables and chairs standing around. The walls and the bar showed signs of water damage and rot, and when he checked upstairs and in the kitchen, the roof and the outer walls showed leaking damage as well.
+
+He nodded to the other two. “Can you fix that?”
+
+One, a female mage, tilted her head. “Didn’t you bring Olen for that?”
+
+Rhys looked at the male mage and raised a brow.
+
+He waved. “Hi. I’m a wood mage. I used to be forced to do timber reinforcements in the mines because I had basic woodworking skills from my early days of magehood.”
+
+Rhys gestured with a smile. “Then I invite you to begin work! You and me, let’s set up the kitchen.”
+
+The female mage nodded. “Sure.” She headed into the back, and the two of them got to work setting up their friers and stocking the shelves. More than once, Rhys encountered cockroaches and ants, but since they were considered pests, he simply absorbed them. The female mage saw him, and tapped his shoulder.
+
+“Want me to get rid of those?”
+
+“You have a technique that takes care of bugs?” Rhys asked, startled.
+
+She nodded. Lifting her hand to the cabinet, she gently touched the edge. The ants turned sharply, then crawled up her finger and vanished under her sleeve. “One of my techniques allows me to manipulate and attack with bugs.”
+
+“Oh, me too!” Rhys said.
+
+“Really? Did you also study under Tallie?”
+
+Rhys coughed. “I, uh, just made it up the other day. But I’ve got plenty of bugs! So feel free to take these if you need them.”
+
+She blinked, staring at him. “You… made it up?”
+
+“Uh, you know. Like you do!” Rhys said, grinning awkwardly. Most people read manuals or learned from experts, sure, and even he had techniques he’d learned that way, but was it really that strange to come up with his own technique? He hesitated a second, then added, “It’s related to my path.”
+
+“Oh, you also walk the Path of Bugs?” she asked.
+
+“It’s related,” Rhys said, not wanting to give away too much. She could probably guess his path if she’d been paying attention at all, but he still didn’t want to just give it away if she hadn’t figured it out for herself.
+
+She nodded. “It’s not a very well respected path, but there’s strength in bugs that many people don’t realize. The power of a colony is a frightful thing. Did you know that there are bugs that share a great sense of purpose, even among hundreds of their kind, and work together in greater synchronicity than humans to accomplish incredible goals?”
+
+Rhys nodded. “Ants, right? Ant colonies are pretty cool.”
+
+“You know about…” She stared in shock. “And you’re not even on the Path of Bugs…?
+
+Rhys gave her a look, then realized: sure, in his homeworld, that was common knowledge, but in this world, that was probably secret knowledge relegated to the highest ranks… or at least those past the initiate level, of the Path of Bugs. It was the kind of thing that could be determined by watching ants for a long time by any old mortal, but… Rhys’s brows furrowed. Could that be a way of stepping on to a path? That is, comprehending some truth about the world, even while still a mortal, but which contained secrets of the world or of a path? It hadn’t worked for him, but he hadn’t been in this world when he’d realized, or rather, been taught about ants. Did the knowledge have to occur to someone of their own realizations, from their own studies, for it to count toward a path or magehood? It was like the difference between creating calculus and being taught calculus. One required lots of thought and intelligence, and the other required reading a book and some practice.
+
+Of course, that assumed it worked in the first place… but when he thought about it, paths had to start somewhere. Someone had to make the first realizations about some sort of innate truth in order for any path to be created. Maybe one wasn’t required to be a mage, to step onto a path. Maybe realizing a path was a way to step onto being a mage. After all, there were many ways to become a mage. Learning at a school, sensing mana on one’s own, drinking mana potions, burning trash and absorbing the mana from it… lots of ways. Perhaps a path was also a way to become a mage.
+
+He cleared his throat. “I read about it in a book. Don’t worry about it too much. Come on, let’s finish up setting up the kitchen, then move a few more people out here, and get our store going. It’s beyond time to start selling chips.”
+
+She nodded, and the two of them went back to cleaning and putting up gear in the kitchen.

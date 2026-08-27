@@ -1,0 +1,197 @@
+---
+id: baf5ee5e-edd3-5635-b464-076b659f5e5e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27: What is Love?"
+slug: 0027-chapter-27-what-is-love
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 27
+ownLength: 1581
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3828856/chapter-27-what-is-love"
+royalRoadId: "3828856"
+---
+
+Chapter 27: What is Love?
+
+"Courting—"
+
+Gwyn's hand clapped over my mouth before I could finish the word. "Sorry. She's just hungry. Doesn't think before she talks."
+
+Smoky scratched the back of his head, glancing between us. "Sure, lass." He shrugged. "But there won't be a next time. Eat what you're given."
+
+He turned and went to the door.
+
+Gwyn gave him a small, pleasant wave as the door swung shut. The moment the latch clicked, her expression changed as she turned to face me. "So. What happened?"
+
+I tilted my head. "I got a new skill?"
+
+"Do you have any idea how this new skill actually works?"
+
+I shook my head.
+
+She exhaled slowly through her nose. "Can you try activating it?"
+
+I nodded, and closed my eyes, because it felt like the sort of thing that ought to be done with eyes closed. "Courting Death." I opened them again.
+
+I looked down at Gwyn. "Nothing happened."
+
+"You almost got us all killed for nothing happened." She pressed two fingers against her temple. "What's the skill description?"
+
+I tried to remember. The words slipped away from me the moment I reached for them, like trying to hold air. I know it was there but couldn't see it.
+
+[Petals dance for the one you love; shadow stretches to seize the one you hate. Both are indestructible while under your command. Skill can only be activated when the one you love and the one you hate are both present at the same time.]
+
+Oh. Thank you.
+
+I cleared my throat and recited it exactly as given. I watched Gwyn's face shift through several stages of processing as I did.
+
+"So it's conditional," she said.
+
+I nodded.
+
+"And you have no idea what the conditions mean."
+
+I nodded again, less enthusiastically this time.
+
+She closed her eyes for a long moment. "From now on, you do exactly what I say. Nothing else."
+
+I nodded two times. Behind me, several of the Jade women nodded too. Quick and emphatic, as though their lives depended on it.
+
+"Right," Gwyn continued. "So, most likely it will only activate during an actual fight, where the one you hate will most likely be present. Probably. The real problem is love, since everyone in this cell is female." She put a hand under her chin.
+
+"What is love?" I asked.
+
+She stared at me. "Are we really starting there?"
+
+I nodded, because I genuinely didn't have a better starting point to offer.
+
+"Someone you like. Someone of the opposite sex."
+
+"But I like everyone here."
+
+"That's different. You can only love one." She tapped the side of her head as she groaned. "And the skill said the one you love. Singular."
+
+I considered this. "Hmm…"
+
+Gwyn made the same sound on my lap me.
+
+Then, one by one, the Jade women joined in: a low, overlapping chorus of "Hmm"s filling the small cell. Everyone apparently committed to solving this particular problem together.
+
+A bell rang.
+
+Every head turned toward the sound at once.
+
+It was Fish.
+
+"Male found." Gwyn's arm shot out, pointing directly at him. "Get him, girls."
+
+The Jade women moved as one, descending on him and dragged him across the cell to sit beside me.
+
+I looked at him properly, for the first time.
+
+His clothes were plain, the same unremarkable cut everyone else wore. Short black hair, same color as my own. Dark eyes that gave something mundane. His face wasn't unremarkable, exactly, but it wasn't remarkable as well. I wanted to see him as a person this time, not as a background that blends with the scenery.
+
+"What's your name?"
+
+"Genrik."
+
+I nodded. "Genrik."
+
+"Alright, Genrik." Gwyn's tone shifted into something crisp and commanding. "You stay with her when we break out."
+
+Genrik shook his head, the bell at his throat chiming softly with the motion. "I need to find their leader. I think I'm the only one here who could actually match him."
+
+"Right. We can't afford to escape with him still loose behind us." Gwyn's eyes narrowed. "Do you think he's some kind of water-mist variant cultivator?"
+
+Genrik nodded.
+
+"And you think you can actually find him?"
+
+"I think so." He said it plainly. "I noticed him the moment we arrived. He was the only one in the group forcing his footsteps to stay silent, trying too hard to be invisible. That's his weakness. He's spent so long training to disappear that the effort itself gives him away."
+
+"Ehm…" Gwyn blinked. "I have absolutely no idea what any of that means, but I'll leave him to you then." She turned back to me. "Now. Back to the matter of who you love."
+
+"Does it have to be a man?" I tilted my head. "It didn't actually specify that it needed to be a man."
+
+"...I suppose it didn't… Fine. Who do you like most, out of everyone in this room?"
+
+I looked around the cell slowly, taking in each face in turn. I brought my gaze back down to Gwyn. "You. Probably."
+
+She blinked. "You're sure? You've got good taste, then." She sighed. "Do you really need to pick the one who couldn't walk properly?"
+
+"But I just answered honestly."
+
+Gwyn scratched her hair. "Fine. We'll go with that." She tried to stand. She stumbled immediately.
+
+I caught her, sliding her uninjured shoulder against my neck, one arm braced around her waist to keep her upright.
+
+"No, this won't do." She pushed weakly at my grip. "Get down. I'll ride your back instead."
+
+As agreed in our earlier strategy meeting, I complied.
+
+She settled onto my back, arms looping around my neck to hold on. Her breath was warm against my shoulder, uneven but steadying by the second.
+
+It felt, unexpectedly, nice. I stayed exactly where I was.
+
+"What are you waiting for? Stand up."
+
+I stood.
+
+"Alright." Gwyn's voice came behind, low and focused. "The moment I clear the bars, the operation starts. Everyone ready?"
+
+No one answered.
+
+I turned to look at our group.
+
+Mei's hands were shaking, though she'd folded them together to stop it. The quiet one near the back had gone very still. The others whispered at each other instead of answering.
+
+I understood the silence. I remembered it myself. Fear had its own particular shape, and I'd learned to recognize it well enough by now.
+
+"What exactly are you all afraid of?" Gwyn laughed, breaking the silence. "I'm the one in the most danger here. I'm being carried around by an airhead who only knows how to charge."
+
+A few nervous smiles answered that.
+
+"So, do you want to get out of here?" Gwyn's voice suddenly turned cold. "Or, you'll stay while we get out?"
+
+One by one, the fear in their faces started to disappear. A minute passed. Then finally, they nodded.
+
+Gwyn raised her bound hands toward the bars. "Mind giving me a bit?"
+
+I nodded. Just a small amount, given my condition. I channeled the smallest measure of warmth I could isolate and move it to my back, to Gwyn.
+
+"Thank you very much." The bars melted before her, reshaping themselves into a handful of thin, sharp knives. She withdrew her hands back to my neck as the knives clattered down onto the stone floor.
+
+Everyone snatched one up, sawing through their own bindings, then each other's. I felt the rope give way at my own wrists a moment later, and reached back to steady Gwyn.
+
+I ran for the door, but it opened before I reached it. Fly stood in the frame.
+
+Somehow, I knew he would fit the requirement for hate easily. I didn't stop. "Courting Death."
+
+Petals fell from somewhere above me, drifting down slowly. Shadow rose at the same instant, gathering itself into something with mass and intent. Bones assembled themselves in the air in front of me, thin and white, snapping together joint by joint. Then something red enveloped them, spreading over the framework like water finding every gap. Skin followed after that, pale and smooth, drawn taut over the shape. Then the shadow swallowed the whole figure. It folded from every direction at once, collapsing into a black suit that covered everything but his head. His short white hair whipped and stirred as though caught in a windstorm, though there was no wind in the cell to explain it, giving him a wild, untamed look.
+
+He raised both hands at chest level.
+
+The petals that had been drifting down gathered to his open palms. They folded and layered together until they'd become a full bundle of deep red flowers.
+
+The Jade women murmured behind me.
+
+"Isn't he handsome?"
+
+"What's his name?"
+
+"Can you ask for me?"
+
+I turned around. Every one of their faces had gone red.
+
+"Who the fuck is this guy?" Fly's voice yanked my attention back around. His weapon was already leveled, aimed squarely at the man holding the flowers.
+
+He didn't get the chance to activate it.
+
+The man was simply in front of him before the thunder could gather, one hand closing around Fly's wrist, holding the weapon motionless before it could summon anything at all. With his other hand, he tossed the bundle of flowers straight up into the air.
+
+Then he face-slapped him.
+
+"You dare?" His voice was calm. The petals began drifting back down around both of them.
+
+Behind me, the Jade women erupted into cheering. They seemed more motivated now, for some reason I chose not to examine.

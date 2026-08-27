@@ -1,0 +1,163 @@
+---
+id: 63294a48-b641-567f-a9c6-0045b0baa3ec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1006: What You Gave Us Was Never Freedom"
+slug: 0074-chapter-1006-what-you-gave-us-was-never-freedom
+partOf: he-who-fights-with-monsters
+position: 74
+ownLength: 2306
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3531708/chapter-1006-what-you-gave-us-was-never-freedom"
+royalRoadId: "3531708"
+---
+
+Craig and Jason were seated on a park bench in the Silvermoon Garden Park. The luminescent silver flowers were a stark contrast to the heavy air between the two men.
+
+“I know that you’ve been doing your best,” Craig said. “There was a time we both thought that the vampires out there were irredeemable. We recognise your efforts to bring them in alive and restore their sanity. Especially when most people want us all put down, no exceptions.”
+
+“The vampires are a threat,” Jason said. “But they’re also victims. And I’m not sure that ‘sanity’ is the right word. Spending years as an amoral monster, killing and devouring. You and I have both had our traumas, but not like that. Having to live with the things they’ve done, even if they weren’t really in control. Just the memory of them, I can’t even imagine. I don’t know if I could live with that.”
+
+“Not everyone can. Some choose not to. Others are just broken to a degree I don’t know they’ll ever come back from. Arabelle Remore’s mental hospital has been helpful, but there’s only so much that anyone can do. Even what she has managed to accomplish is more than I thought possible.”
+
+“It’s going to be a long, hard road, Craig. Are you sure you don’t want to just relocate all this to a planet in my astral kingdom?”
+
+“Any of us that want to go are free to do so, but most have chosen to stay. It won’t be easy, you’re right. But if we run off to your planet, we’re giving up any chance of reclaiming a place on this one. We don’t want to be colonists in a new world, Jason. We want to go home.”
+
+“Do you think that you can ever be accepted? Vampires had barely been revealed when the lords showed up and ruined everything. You never had a chance to be friends before you became deadly enemies.”
+
+“Ever is a word with a lot of scope, Jason. We don’t grow old, so we can afford to wait. Yes, it will be a long time before my people can leave clan territory without being hunted on sight, and we can’t go back to living in secret. There’s too much magic, now. Too many who can see what we are. But the day will come, if we’re patient. As long as we don’t run off to some planet in your personal universe where we’ll never be seen again. At least in this city, we’re still a part of Earth.”
+
+“Craig, it won’t be getting easier any time soon. I don’t think we’ll be taking any more vampires alive. We’re ending it, for good. The only ones left will be here in the city and those that did choose to go into my astral kingdom.”
+
+“I imagine quite a few will escape. They’re probably hiding already, with no intention of joining the fight.”
+
+“I’m sorry, Craig, but they won’t escape. Farrah has spent the last few decades becoming a specialist in what’s called natural array magic. It’s the magic theory underpinning the grid the Network factions use to detect monsters. She’s discovered that the grid can be used as a platform for all kinds of magic. It’s just that the guy who built it never taught anyone how it works. She’s been working on how to detect the specific magic that exists within vampires. A relatively simple tweak, so she says. Every vampire in Europe dies tomorrow. That’s where we think most of them are concentrated. The rest of the world will get cleaned up in the following weeks.”
+
+“You think? You haven’t used this thing?”
+
+“The castle Simon McKean is holed up in used to be the operations centre of a Network branch. We think he has access to the grid, and we know that he understands it better than anyone other than Farrah. We’re keeping that particular trick up our sleeve until we make our move. He’s got surprises waiting for us, for sure, but we have some of our own.”
+
+“So, it’s a complete purge, then.”
+
+“Yeah.”
+
+The pair lapsed back into silence for a while.
+
+“You know it’s dangerous, right? Magic that can be used to track specific groups of people?”
+
+“Very much so. It’s the old question of security versus civil liberties, with a generous side of being ripe for corruption.”
+
+“What are you going to do about it?”
+
+“I have an idea that I don’t like. Something drastic. It feels like one of my old plans, from when I wasn’t the most powerful thing on the planet.”
+
+“And that is?”
+
+“For another day.”
+
+Jason got to his feet and held his hand out for Craig to shake.
+
+“I’m sorry it has to be like this, Craig.”
+
+Craig stood, took Jason’s hand and shook it solemnly.
+
+“We have to deal with what’s in front of us,” he said. “Not what we wish was in front of us.”
+
+“Don’t we just.”
+
+***
+
+The forces of the Earth Defence Joint Initiative were mobilising across Europe and beyond. Military bases in reclaimed cities had enhanced humans marshalling in their armoured exosuits. Flying ships filled with essence users moved into position. Cabal forces revealed their own strange modes of transportation, from burrowing creatures that could hold people inside them to what looked like flying ghost ships.
+
+Jason’s cloud ship was in Western Europe, over France, and served as command and control for the entire operation. Emir’s ship was in the east, over Ukraine, and was the hub for the Pallimustus forces. These were the most powerful combatants on the planet, with portal users and teleporters on hand to deploy them where and as they were needed.
+
+More conventional forces were amassed on aircraft carriers, battleships and submarines. The ocean was a relatively safe platform to launch from, as vampires and their minions usually avoided it, but the Earth forces remained alert. Several vampiric bloodlines were associated with sharks and other predators of the deep.
+
+A contingent of messenger forces gathered at the Saint-Étienne Joint Military Base. One group had been liberated from a transformation zone on Pallimustus by Jason and brought to Earth as refugees. Effectively newborns at the time, despite their fully grown bodies, Jason had refused to let them join the Asano Clan combat teams. Twenty years later, he had been talked into letting them join by Jali Corrik Fen.
+
+The other group of Asano Clan messengers had started out as prisoners of war, handed over by Jamis Fran Muskar. Jason had freed them from the control of any astral king, much as he had Tera Jun Casta. The results were similar to her experiences, with many refusing to turn against their indoctrination. Of those that did, some chose to join the Unorthodoxy and were sent to Boris Ket Lundi. Others chose to isolate themselves in hidden corners of Jason’s astral kingdom.
+
+Another group had applied for membership to the Asano Clan. They had chosen to embrace freedom, but still wished for a place to belong. They wanted no part of the other messengers and their ancient war, regardless of side. Of those that chose to join the clan, most were willing to fight, and Tera Jun Casta led them.
+
+Tera understood very well the situation they were in. Originally an Orthodoxy loyalist, she had struggled for a long time with the freedom forced upon her by Jason. Having finally come to terms with that, she helped guide the messengers through shedding the indoctrination that had defined their entire existence.
+
+In preparation for the imminent battle, the messenger forces gathered with other combat teams from the Asano Clan. When Jali spotted Jason looking on from the roof of the air control tower, she flew up to land beside him. He was sitting on the roof with his legs dangling off the side, and she did the same.
+
+“You’re still not happy about this,” she said.
+
+“They were born into slavery. You were too. Child soldiers, however old you might have appeared. I didn’t free you all just to have you become soldiers again. Not for the Orthodoxy, or for Boris’ Unorthodoxy. Or for me.”
+
+“You wanted them to have the choice of what they became.”
+
+“Yes.”
+
+“Well, this is what they chose. They’re not children anymore, Jason. It’s been decades, and they’re old enough to make their own decisions. You don’t have to like the choices they make, but you do have to accept them. If you don’t, what you gave us was never freedom.”
+
+“I know. I know. But you’re right that I don’t like that they’ve chosen to fight. And I don’t like why.”
+
+“They’re fighting for the clan that adopted them. For their home.”
+
+“And for me.”
+
+“Yes.”
+
+“Why is that so bad? You gave them freedom. You’re a hero to them. A saviour, even.”
+
+“And that’s the problem. I don’t mind being a hero, it feels good. But a saviour? I hear their prayers, Jali.”
+
+“We’re messengers. Following god kings is what we were literally born to do.”
+
+“I’m not a god.”
+
+“Do you really believe that? You just told me that you hear their prayers.”
+
+“I have to believe that I’m not a god. The moment I start thinking I am, I become exactly the kind of thing it takes someone like me to fight. I don’t deserve to be worshipped, Jali. No one does.”
+
+“The actual gods might disagree.”
+
+Jali flinched at the flash of rage that crossed Jason’s face before he schooled his expression.
+
+“Yeah,” he said grimly and got to his feet. “That’s why there are people like me to fight them. Get your soldiers ready; it’s time for war.”
+
+Jason’s avatar blinked out of existence, leaving Jali alone.
+
+***
+
+The operation began at the height of the day. The unified Earth forces would be striking hidden lairs, subterranean blood farms. Much of Europe had been liberated, driving the vampires into hiding, but they still held a few major cities. With the sun at its strongest, the vampires would be at their weakest, but the vampiric armies had no shortage of minions. Blood slaves were humans or animals enhanced by drinking vampire blood, but they comprised only a fragment of the vampiric minions. The bulk of vampire forces had always been ghouls. Failed vampires were left in a wretched state, their rotted bodies a reflection of their mindless, feral savagery.
+
+Newer additions to the vampire armies, from the labs of Simon McKean, made their presence known to the attacking Earth forces. By mixing modern magitech with ancient blood magic, McKean had crafted abominations that mixed vampiric flesh with the plant-like material of the blood oaks. Hulking monstrosities with nests of grasping tentacles in their torsos walked the streets of ruined cities. Giant bat-like creatures flew through the air to attack airships. Bloody leviathans swam the depths, threatening aircraft carriers and submarines.
+
+The vampires themselves remained hidden as the combined forces of Earth fell upon their strongholds from Western Europe to Asia. Creatures out of myth descended from the sky alongside paratroopers in magitech exosuits. Aircraft carriers launched flying ships and submarines sought out lairs hidden in submerged sea caves.
+
+Not all of Earth’s forces had been deployed in the first wave. In a Network branch in Bratislava, Slovakia, Farrah was preparing the grid to seek out every trace of vampiric magic on the planet. The monitoring room looked like launch control for a space program, with rows of computer panels and a massive screen dominating the front wall. On the screen was a world map, flashing with any indication of dimensional magic.
+
+“Displays will all switch from standard grid reading to vampiric magic as soon as I initiate the program,” Farrah announced.
+
+“You have a go to begin,” General Mills said through the speaker at Farrah’s station. He remained on Jason’s cloud ship over France.
+
+“He’s likely going to know what we’re doing the moment we do it,” Farrah warned again.”
+
+“We’re dropping armies on the heads of him and everyone he knows, Ms Hurin. I think he’ll see us coming regardless. Get your program up and running, then regroup with the rest of your people to move on McKean himself.”
+
+“Ms Hurin,” one of the technicians interrupted. “We’re ready to go. You just have to press the button.”
+
+“Okay,” Farrah said. “Here we go.”
+
+She tapped the appropriate button on her console and a confirmation window popped up.
+
+“Godsdammit. Does anyone know the PIN code they gave me? I had it on a piece of paper.”
+
+“Ms Hurin, you were instructed specifically to memorise that code and destroy the note it was on,” the chief technician said.
+
+“Oh, yeah, I definitely did that. I absolutely didn’t shove it in my pocket without looking at it and just leave it there. I just need to quickly check a completely different piece of paper in my pocket for unrelated reasons.”
+
+A few moments later, the new grid configuration was initiated. The main screen went blank for a moment before the world map reappeared, this time without the indications of dimensional magic. Instead, red indicators started appearing across Europe in scraggly lines, like a vascular system. As the readings continued to populate on the screen, thick red lines formed across Europe and into western Asia, with the only clear areas being in and around the Asano Clan territories. Scattered dots appeared elsewhere in the world, but almost all the results were centred on Europe.
+
+“Uh, Ms Hurin,” the chief technician said. “My understanding was that there would be a lot of dots, not lines.”
+
+“I think that was everyone’s understanding, Tim.”
+
+“Then what are those lines, and why are they so thick? Do you know what it is that we’re looking at?”
+
+“No,” Farrah said. “I don’t have the faintest clue.”

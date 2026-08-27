@@ -1,0 +1,187 @@
+---
+id: 3bf5b6d0-78c7-52a4-9f7e-d8d71efabb68
+page-type-slug: story-chapter-royal-road
+title: "Chapter 867 - It could have been much worse"
+slug: 0195-chapter-867-it-could-have-been-much-worse
+partOf: hell-difficulty-tutorial
+position: 195
+ownLength: 3091
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3860523/chapter-867-it-could-have-been-much-worse"
+royalRoadId: "3860523"
+---
+
+"Have it your way,” Ruby says, and she swings the hand of the body she’s possessing, causing a great rift to tear itself open in space. From inside it, a pair of hands pierces through, grabbing the edges of the rift and spreading it wide so the herald of destruction can pass through.
+
+The Ruler of Wrath looks around. A huge, muscular velnar wearing white clothes, reminiscent of a Greek toga that reveals a large portion of his upper chest and arms. Everyone in the space seems to freeze, and even the Elf stops for a moment.
+
+Meanwhile, Ruby’s presence disappears, and Yvaine shakes her head, clearly strained from her master using her to create a portal to teleport a person as powerful as Wrath, though it seems like Ruby has other things to do now.
+
+Seeing the man covered in the fragments, and feeling the incredible, unnerving power radiating off him, the Ruler of Wrath growls. His body increases in size, enveloping itself in black fur as he turns into his Lycan form.
+
+Then, from the silver diadem he was wearing, a layer of that same silver metal of that same silver color flows as if it were molten. It burns him, releasing steam and heat, and the Lycan grows larger as the armor covers his body.
+
+It’s made of a beautiful, pure silver-colored metal comprising the best work of art I’ve ever seen, and yet it remains completely functional.
+
+“So they gave him Materia. Envy, call upon our friend, we need to distract Wrath,” the elf says, raising a barrier around us.
+
+And even under the barrage of attacks beginning to rain down on him, Envy finds the time. Smiling, he takes down one of the crowns hanging over his head and breaks it, funneling all of its mana into a portal opening in front of him.
+
+A demon steps out much like Wrath stepped out of the rift. He has no horns, in fact, they seem to have been sawed off, and inside of his chest, five powerful Demon hearts beat.
+
+With a swing of his hand, a massive release of kinetic energy blasts the Ruler of Envy away, and then the Hornless Demon, without hesitation, charges the Lycan. Their first clash almost breaks the Last Elf’s barrier as they move like unpredictable lightning streaking through the sky, and their attacks push away the clouds and light up the dawn.
+
+An attack thunders through the area around us, entirely destroying everything in its path, only to be blocked by the newly reinforced barrier raised by the Last Elf. It is perfectly spherical and covered in what seems like incredibly dense rivers of meandering lines that almost seem to pass through each other, twisting and covering the entire surface.
+
+Another attack clashes against it, but then Yvaine moves back as Envy attacks her. Immediately, Bant and Oant move to help her, and the three of them face down the Ruler of Envy in a clash so fast that it takes them dozens of miles away in mere moments, covering the horizon in attacks reaching high toward the sky.
+
+Ignis frowns, and four wings made of fire manifest behind his back. Then he pulls a sword made of rusted red metal from his forearm. The heat around that sword is much higher than the heat around his wings, and droplets of molten metal begin to drip off it as he prepares to attack the barrier. But at the last moment, he turns to deflect a beam made of pure mana, as it crashes into him and sends him crashing to the broken ground.
+
+Adrian floats there in the air, his red figure covering the sky behind him, wielding a staff and sword.
+
+Flames blast from Ignis like a river crashing towards the sky, and Adrian takes it all on directly.
+
+Out of nowhere, Yvaine appears in front of the barrier and slams her palm against it in the exact same moment that the elf notices her and slams his palm against the same spot from the inside.
+
+Reality itself around the barrier seems to crack, as rifts start appearing all over the place, and Yvaine attacks the barrier again and again, failing to break it each time. Before she can do more, Envy reaches her position and, moving with much greater speed, kicks her away, sending her flying with a loud sonic boom. He launches himself away to follow her, and behind him, Bant follows, with Oant nowhere to be seen.
+
+A huge explosion brings my attention to the other side, and I watch a chunk of the planet we’re standing on explode, sending hundreds of fragments of debris and rocks rising so high that they fly directly into outer space.
+
+Another clash in that direction reduces half the debris to dust, with just the shockwaves washing over the barrier, blowing all the sand away under hurricane force winds, obscuring any view of the battlefield and erasing anything still standing nearby.
+
+Four kinetic hearts beat in unison as the Hornless Demon faces the Lycan, but he’s clearly getting pushed back and is unable to do anything against the materia armor the Lycan is wearing. Meanwhile, the Ruler of Wrath grows stronger, as each of his attacks actively destroys the planet we are standing on.
+
+Yvaine’s voice spreads through the area, calling upon the Ruler of Wrath, and he glances our way. And in response, the Last Elf presses both of his hands against the barrier just as the Lycan, in his werewolf-like, pitch-black furred form, reaches us. His golden eyes glow as he slams against the barrier, and everything beyond the barrier is instantly gone. A shockwave with the force of a hurricane blows everything away, and a clear ring vibrates through the air as the shockwave blows away all the clouds as well.
+
+Then the Lycan punches again, and cracks finally start to appear in the barrier. The sheer force of the attack melts the area under the friction caused by his absolute strength, and the tectonic plates beneath us begin to move.
+
+Another strike sees a lot of its force redirected upward, displacing enough atmospheric pressure to instantly create a localized supercell storm. Heavy rain and lightning begin to fall in a violent downpour as the Lycan reaches out to punch again, but the Hornless Demon reaches us just in time and slams against him, pushing the Lycan's face straight into the ground.
+
+The demon is already heavily wounded, missing chunks of his chest, neck, and arm, yet he’s still smiling. For a while, he continues to use all his strength to press the Ruler of Wrath into the ground until the Lycan roars, his form growing even further, and the materia armor shifting to contain that massive form, once again burning him and steaming as it does so.
+
+With a smile, the Hornless Demon disappears, and the Lycan follows right behind him, completely ignoring the barrier behind them.
+
+The rain wets the craters around us as the elf slides to the ground, seemingly sapped of strength after defending against that brief attack from the Ruler.
+
+I step toward Victoria, both of us reduced to mere spectators. There’s not the slightest thing we can do to change the outcome, only watch and take it in. Feeling something being pressed into my hand, I look down, only to see the glowing red dagger.
+
+“I have no need for it,” she says.
+
+“Thanks,” I reply.
+
+And then, from the stormy sky, descending from the dark supercell storm, a figure begins to float down. A high-pitched noise fills the air as a halo woven from the purest form of light starts to float over his head, expanding in size until it is a mile wide. Beneath that light floats Felix Maro.
+
+No, that’s not him, not this time, it’s his master, finally.
+
+The Ruler of Temperance, Feroy, lifts his hand, and a bright light gentle enough not to burn the eyes fills the area, pushing away the darkness and illuminating the scene with the full light of day as he lands before the barrier.
+
+First, he looks at me and Victoria, then at the elf, and lastly at the older man with his pure Empyrean Ichor and fragments of the Starless Sky imbued throughout his body.
+
+“What a mess you’ve made,” he tells the Elf, and then, with a single tap on the barrier, he easily shatters it into a burst of particles reminiscent of glowing stars.
+
+Before he can take the next step, something falls onto the ground in front of him, and I track his eyes only to recognize Yvaine’s head.
+
+“I got rid of the pests so they can't interrupt us anymore,” Envy says, landing nearby with a smile. Dusting off his damaged clothes and ignoring his wounds, he glances into the distance where Adrian is still barely holding off Ignis.
+
+Temperance simply lifts his arms, and a brilliant light explodes from them. It moves too quickly even for someone like the Ruler of Envy to avoid, erasing everything in its path when it eventually explodes. The next moment, Envy reappears further away. Having barely escaped with almost the entire left half of his body missing, he collapses to the ground, chuckling.
+
+“It is too late. It has been for a while,” the replica of the Last Elf says.
+
+“I know,” Temperance nods, his eyes fixed on the man holding all the fragments. “We underestimated your ability to keep Patience and me from helping any sooner.”
+
+Without saying anything else, he swings his arm and, in a flash, entirely erases the body of the replica of the Last Elf in a pillar of light.
+
+Turning to me and Vic, he says, “The two of you should already be gone.” Under his gaze, I feel as if someone has strongly pulled on a rope tied to my waist, and I feel myself falling until I land on the ground somewhere else entirely.
+
+The last thing I see is all the fragments of the Starless Sky melting and covering the man in what seems like liquid darkness with a velvety texture and a hint of indigo color. His shape changes entirely, becoming longer, bigger, and less reminiscent of a human.
+
+In a blink, all the light disappears from the sky as far as I can see, even suffocating the light that Feroy brought. Instead, it is replaced by a velvety indigo veil void of stars, and the planet begins to freeze.
+
+The next thing I see is Ruby in front of Victoria. The Ruler stands in such a way that I immediately push myself back to my feet and walk closer, causing Ruby to shift her eyes and look at me.
+
+"Why?" she pushes through her teeth as she asks my sister.
+
+“Starless Sky will protect Earth from any outside forces for the next hundred years, be it invaders, Rulers, Gods, or Corporations, leaving us to deal only with internal strife. That will give Nathaniel and me a safe base to grow stronger until we're ready to handle those threats ourselves or create a more permanent solution,” Victoria says simply.
+
+"You did it for that? If you only knew who you’d just helped to bring back, you’d realize just how lucky you are that I haven’t destroyed you where you stand," Ruby says. She then does not even wait for Vic to answer and waves her hand, sending my sister away.
+
+Standing there, she takes a deep breath and closes her eyes in a way that makes it clear she is already dealing with something else. It is likely the distraction that did not allow her and Diligence to come here in the first place. When she looks at me, I return her gaze without looking away.
+
+"Do you not trust me, Nathaniel?" she asks me.
+
+"Ruby, you allowed Adrian to return to Earth," I remind her.
+
+That silences her for a moment, so I smile weakly. "Tell me, would you protect Earth the same way Victoria just made a deal to ensure? Or would you have allowed things to get worse just to force me to grow stronger, to become a better weapon?"
+
+Even then, she stays quiet, and I nod slightly. "I don't blame you, truly I don't. Such is your greed. But don't expect me, or us, to adapt to your needs and goals. I care very little for them."
+
+"And what will you do if your sister makes a mistake? What if it only makes things worse?" she asks.
+
+"I will support her even then."
+
+"There is something deeply twisted about your attachment to her. That sick, blind devotion where you would surrender your entire free will just for her."
+
+"Victoria sacrificed herself for me. She became who she is now just so I could live as myself. It’s a debt I’ll never be able to repay, and it's the exact reason I will never again be as weak and helpless as I was back then."
+
+"...Do whatever you want."
+
+"I will. And Ruby, don't you ever threaten my sister again."
+
+POV The Warden of Parallax Eyes, Kyralon
+
+The warden sits on his tower, taking notes for his records with his eyes hazed over as he watches through the galaxies. Next to him, an unmoving projection of the Ruler of Greed sits, shut down because she doesn’t currently have the mental capacity to talk with everything she’s dealing with. Kyralon knows this, so he patiently waits and observes.
+
+He watches as Lissandra Hawthorne steps onto the surface of Xyphos, and with a single step that collapses space in front of her, she reaches one of its many entrances.
+
+Before entering, however, she looks up.
+
+Her eyes perfectly align with the gaze of the Warden of Parallax Eyes, and she gives a smile. "Honestly, I find your gaze annoying, curious one, but I do feel a sense of familiarity from you. Your technique and the way you use your mana. I'm curious to know if you weren’t a disciple of my original self."
+
+She takes another step, and right before entering the Labyrinth, she says, "Though I have to say that I find your use of my techniques highly lacking."
+
+And then she is gone, and in that moment, the planet begins to be enveloped by the white domain of one winged wyvern, and thousands of tutorial attendees begin to appear all across the surface.
+
+The velnar stops his scribing for a moment and examines his own technique, even giving a little chuckle before continuing to write.
+
+Finally, the Ruler of Greed’s projection begins to move, and she lets out something between a long groan and a sigh. "This almost killed me and Diligence, Kyralon. I am beginning to tire of all this crap."
+
+"I can imagine," he says, before asking with genuine curiosity, "I think I got most of it, but can you tell me the details? I wasn’t able to fully comprehend everything."
+
+She looks at him with a gaze that threatens to turn into anger, but in the end, she just shakes her head. "One of the Godkings, Starless Sky, is back. I knew the elf always wanted to awaken one of the gods the elves once worshipped, and even I thought about trying something similar and throwing one of the stronger ones up against Pride, but the elf got to it before me. Now the system has adapted to it, so that’s that."
+
+"Yvaine... I'm sorry for what happened to her," Kyralon says.
+
+Ruby nods solemnly. “She knew the risks, and I told her to leave, but she always was stubborn. But… yes. I will mourn her later, just as Diligence will mourn his vessel. And I’ve already found the place Envy’s holed himself up in, so you can be sure I will avenge my disciple. But the exact moment Victoria Gwyn handed the fragment to the elf, it was already too late to stop the awakening. They all should have escaped and let Wrath cover their exit." She rubs her eyes and sits there quietly.
+
+The velnar nods and does not ask any more for a moment, giving her time to mourn.
+
+He had already witnessed Starless Sky's awakening, the reincarnator's battle to hold off Ignis, and Envy’s bloody retreat. He saw the Hornless Demon vanish from sight and watched the Rulers of Temperance, Patience, and Wrath clash with the godking, only for the deity to break away wholly unscathed.
+
+"Victoria Gwyn bears the stigma of Starless Sky now," Kyralon says.
+
+"She does."
+
+"Nathaniel Gwyn used the opportunity to gather blood samples of that extremely pure Empyrean Ichor from the descendant the Last Elf found."
+
+"He did. As angry as I am with him, I almost admire that greed. Little fucker."
+
+"And her imitation?"
+
+"Simply put, she and the wyvern used the dagger to link themselves to the real Labyrinth of Xyphos. They hooked it up to the tutorial, starting with Group 4's instance, before it bled out into the rest of the tutorial. The 11th floor has been replaced by the real planet that hosts the Labyrinth of Xyphos, which is still in the same place it always was, but it’s been spatially cut off from the real world, sitting right on the brink between the tutorial and reality. The imitation took inspiration from Beyond, and the wyvern created its own version of the Main Defensive Array of Beyond and has already spread the domain throughout the planet. And of course, it’s already begun calling for more wyverns."
+
+"Oh."
+
+"Yes, oh. All the people and all the Corporations that were on the planet at the time getting talnium to sell to Domus and other worlds or Corporations are now trapped in the tutorial as well."
+
+"OH."
+
+"And all the goddamn tutorial attendees currently on the 11th floor got moved to the real Labyrinth of Xyphos."
+
+"And her replica?"
+
+"Well, she went into the Labyrinth of Xyphos, obviously. She wants to meet the avatar our master left there before the fall of Eladore and take her heart. You know that Xyphos only ever creates one avatar, a single replication of something. But this time it hasn’t acknowledged the imitation as the same being as our master. So you know what? It created an avatar of her as well, the moment she entered. Now there are three of them in there."
+
+"And this is what you and Diligence were able to limit things to?"
+
+"Trust me, Kyralon. It could have been much worse."

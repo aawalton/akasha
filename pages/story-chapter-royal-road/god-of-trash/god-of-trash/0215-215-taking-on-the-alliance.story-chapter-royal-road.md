@@ -1,0 +1,77 @@
+---
+id: 00c3c11c-1823-5b9c-b2d2-ce47970e9363
+page-type-slug: story-chapter-royal-road
+title: "215. Taking On the Alliance"
+slug: 0215-215-taking-on-the-alliance
+partOf: god-of-trash
+position: 215
+ownLength: 1989
+unit: words
+publishedAt: 2025-10-19
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2689267/215-taking-on-the-alliance"
+royalRoadId: "2689267"
+---
+
+One thing was immediately obvious to Rhys: Virgil was not, or rather, could not be, the one in control. He seemed to be in control, but whether he’d exploited a bad situation or been set up as a puppet by someone else, he hadn’t been the one to take control of the Sword Saint or to mark Bast. He’d nearly been overwhelmed by Rhys’s rats. Someone who panicked at a spell of that magnitude wasn’t going to be able to overwhelm the Sword Saint without help. Someone else had intervened there. Had something happened in the north, when they were fighting the beasts? What had Bast not told him, or rather, been unable to tell him?
+
+A sharp clap dragged him out of his thoughts. Daran scowled at him. “You’ll never learn the technique if you keep drifting off like that.”
+
+Rhys straightened his back and adjusted the fold of his legs. “Sorry. I’m not used to formal teaching.”
+
+“You’re distracted.”
+
+Rhys looked at him, then lowered his head. “Yes.”
+
+Daran snorted. “Your friends are in danger. I understand. But once you learn how to find my… the Remnant Weapons, you’ll be much more capable of saving them, no?”
+
+“You’re right, but it is super distracting.” He couldn’t help that he was worried about his friends. Even if he knew this was a concrete step toward saving them, it was still a constant thought, tingling at the back of his mind.
+
+“If you revived me, I could even help you save your friends,” Daran hinted.
+
+“Yeah, yeah, I know. Teach me this technique, and if it all goes well, then you’ve taken one very important step toward getting revived,” Rhys hinted.
+
+Daran narrowed his eyes at Rhys. “You aren’t as subtle as you think you are.”
+
+“You thought I was being subtle?”
+
+Daran’s eyes narrowed to slits.
+
+Rhys waved his hand. “I’m joking, I’m joking. Tell me the technique again. This time, I’ll lock in. I promise.”
+
+“You don’t need to go so far as to do secluded cultivation,” Daran said, frowning.
+
+“No, no, not like that, like… focus. You know. Lock in.”
+
+Daran nodded slowly, giving Rhys a look that told him he very much didn’t understand, and stood back, crossing his arms. Yet again, he recited the technique to Rhys. He really had been telling the truth: he held nothing back, and wasn’t evasive or troublesome, so long as Rhys kept his questions strictly to the technique at hand, and only asked questions that had to do with taking down the Alliance. Anything else, and the same unnecessarily mysterious Daran materialized again; but so long as he kept things strictly business, they were best friends.
+
+Some time had passed since he’d been chased into the void by the Sword Saint and Virgil. A few days? A few weeks? He wasn’t sure. It was hard to gauge time in the void, when the sky in the secret realm remained bright and blue at all times. Days had passed, for sure, but was it long enough for the search for him to wear down? He wasn’t sure. But what he knew for sure, was that if he moved too soon, before the fervor around finding him quieted, he’d only draw attention to himself, and worse, his friends. If his friends were in danger, or in a bad place, then they were already there, and him rushing there wouldn’t make things better, it would just indicate to whoever had them that they were even more valuable to him than that person might have thought. No, the long play was the right play, even if it was nerve-wracking and tickling his anxiety constantly. He knew how bad things could get. He’d been there, stuck in a hole with no one to rescue him. He wanted to check, to make sure things were good, but that would ruin his long play.
+
+It was a classic mistake in trashy media: to not make the long-enough play. The immortal who decided he needed to conquer the world RIGHT NOW, during the fated hero’s lifespan, instead of napping for another hundred—hell, thirty—years and waiting out the hero. The vampire who needed THIS ITERATION of his reincarnating lover, no matter how many obstacles stood between him and her. Trashy though it was, it was a mistake he was determined not to make. If he hid out here and learned the Demon King’s technique, found a few Remnant Weapons first, or even just learned the technique and then checked on people, then he would’ve given enough time for people to stop pursuing them, if they were being pursued; and if they were caught, it would be enough time for their captors to stop paying so much attention to their captive. Moving too early was a mistake. So why was it so hard to convince himself of it?
+
+No. Focus on the technique. He took a deep breath and closed his eyes, blocking out all extraneous thoughts. They kept trying to press their way in, but he blocked them out, thinking about the color black until his mind wiped clean. Instead, he focused on the technique, the technique, and nothing but the technique.
+
+It was a relatively simple one. Basically, he extended curse power to sense things instead of mana. Curse power didn’t work quite like mana, though. Where mana extended in an orb around him, spreading in all directions evenly, curse power moved… oddly. It thrust forth in veins and spurts, surging for miles where curses had been or where dark emotions had spread—a battlefield, a graveyard—or dying off sharply in places with blessings or positive emotions—a church, a beach, a playground.  He could sense where strong curses had been years before, whereas with mana, it was more like ordinary vision. He couldn’t see anything with his mana senses that didn’t exist right now in the real world. But curses lingered, cast shadows, left stains. He'd tested things out by letting his skelly boy wander the secret realm, and the places the skelly boy had walked still glowed brightly in his vision, days later.
+
+…When he could get the technique to activate, that was. Thus far, he’d been using curses with curse power. It made a lot of sense. Curse power fueled curses. It was in the name. But using curse power to use a technique the same as he’d use mana to fuel a technique? Finnicky was saying the least about how hard it was to use. Just like how curse power ebbed and flowed out in the world, the technique was also touchy about when it was used and how he activated it. He had the skeleton run circles around him and taint the ground with curse energy, and then it activated easily, but Daran had told him that was cheating and lazy, and that he needed to use it at a moment’s notice, no matter where he was or what the conditions were, and that was taking way more time to figure out.
+
+I’m trash. Let me do my lazy cheats, Rhys thought, but he couldn’t actually argue. Daran was right. He couldn’t always prepare the land around him before he used a technique. Especially a sensing technique, where he didn’t necessarily want his enemies to know he was using it. It was also a technique he’d probably use a lot at a moment’s notice, in environments where he was surprised or ambushed, or where he couldn’t control anything about the environment. If he was walking down the street in Purple Dawn Academy, for example, he couldn’t exactly pull out a curse and have it run laps around him first. He needed to use the technique in places like Purple Dawn Academy, too, since he was pretty sure Ernesto had possession of at least part of Straw, so he couldn’t dismiss the idea of using it in ‘polite company,’ as it were.
+
+He took a deep breath and called forth his curse power again. Fortunately, he could generate curse power as long as he could generate mana, with the curses circulating his core to miscolor the mana to curse power, and the secret realm did possess a small amount of mana, so he could generate at least enough mana to power the observation technique. The void was mostly empty, but there was some trash in it, and in between practicing the curse-sensing technique, he took short excursions into the void to snag bits of trash and add them to his trash star. He hadn’t acquired the gauntlet he’d sensed earlier yet, but it was a long way away from the secret realm, and he didn’t want to attract the attention of the mysterious tentacled figure who’d tanked the Sword Saint’s blow like it was nothing. Just like checking in on his friend, he needed to let enough time pass for that figure to lose interest in him enough for him to be able to venture out to get the gauntlet.
+
+Curse power circulated through him. He’d called back his mana, and only impurities and curse power circulated through his body. Unlike impurities and mana, the two sang in harmony, reinforcing one another in a harmonious cycle. The only problem was once the curse power left his body. It dissipated without something to latch onto, fading away far faster than mana did.
+
+That’s because the world is incompatible with curse power. Mana naturally floated around on the breeze, everywhere, an intangible energy that he could collect as easily as breathing. Curse power wasn’t counter to mana, but the two weren’t compatible, either. It was like oil and water, unwilling to mix. When he extended curse power out, if there was nothing cursed to latch onto, it simply faded away without the structure of a curse to latch onto or give it shape.
+
+Rhys frowned. Curses are powered by negative emotions. This technique isn’t a curse, but it uses curse power. What if I combine it with my anxiety? Anxiety made him want to rush around and see everything all the time, to know more about everything that was going on around him. If he leaned in, instead of trying to suppress and ignore his anxiety, wouldn’t that feed the curse just like it needed to be fed? And the emotion of anxiety, its closeness to paranoia, the need for information and to see, hear, feel everything—it leaned in to the sensing technique with curse power.
+
+Rhys called forth the technique again. This time, he let his anxiety burst forth, twisting the curse power into it and letting the two mingle together. His anxiety spiked along with his heart rate, but at the same time, the technique burst outward. Twisting like dark veins through the air, it surged forth, racing over the air and through the ground. Information flowed back to Rhys, and he breathed evenly, pushing through the anxiety to pay attention to everything he sensed.
+
+The earth. The air. He felt the remains of the artifacts that had piled here, all their dark desires. Some of them had been tainted with curse power, either cursed or themselves curses, and he could feel their shape, their history, their—
+
+Something burst in his curse vision, so bright and large that he immediately jerked out of the technique. Rhys jumped to his feet, shocked. He ran to the edge of the world and hopped off, dropping down below the secret realm.
+
+At Tier 4, he could fly, and the technique was simple enough; he exuded mana to support himself and hovered on the air. He flew now, hovering over the bottom of the secret realm to get a better look at its underside.
+
+Dark, black, tarlike filth, sticky and firm, sunk so deep into the bedrock of the secret realm that he had no idea how he’d even begin to pull it free. He stared wide-eyed, unable to hide his shock.
+
+“So, you’ve realized it at last.”

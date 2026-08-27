@@ -1,0 +1,31 @@
+---
+id: 63ab09c4-0cb0-504c-ada9-fcc03e118d5c
+page-type-slug: story-chapter-royal-road
+title: "Not a Chapter. Announcement – Book 5 Live on Amazon!"
+slug: 0019-not-a-chapter-announcement-book-5-live-on-amazon
+partOf: hell-difficulty-tutorial
+position: 19
+ownLength: 182
+unit: words
+publishedAt: 2025-07-02
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2403748/not-a-chapter-announcement-book-5-live-on-amazon"
+royalRoadId: "2403748"
+---
+
+Time to shill yet another release of HDT!
+
+Huge thanks to Kotikomori, who once again endured my nitpicking and nailed the cover. Nat is as punchable as ever, and once again proving that Kotikomori is incapable of drawing someone without making them look insanely handsome.
+
+Book 5 on Amazon: https://www.royalroad.com/amazon/B0DYPGVRSM
+
+If you liked the Book, please leave a review or rating. Amazon likes it a lot, and it helps to push the book higher. You can rate and review even if you didn't buy the book (probably).
+
+Before anyone asks, yup, Henry is already working on Audiobook 4. I hope it’ll be available in a few months. But you know how it goes with summer, holidays, and all that.
+
+Once again, thanks to Kotikomori for the cover, thanks to my brave and patient beta readers, thanks to all the patrons, and thanks to you guys for reading and for all the exciting conversations and fun reactions you have after certain chapters.
+
+I also made Reddit posts, so if you have a Reddit account, upvoting them helps a lot!
+
+r/litrpg: https://www.reddit.com/r/litrpg/comments/1lpwvmt/hell_difficulty_tutorial_book_5_is_out/
+
+r/ProgressionFantasy: https://www.reddit.com/r/ProgressionFantasy/comments/1lpwwj5/hell_difficulty_tutorial_book_5_is_out/

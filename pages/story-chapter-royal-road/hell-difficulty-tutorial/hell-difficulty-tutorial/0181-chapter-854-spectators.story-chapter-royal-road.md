@@ -1,0 +1,135 @@
+---
+id: 2f919c1d-1f08-501a-a75b-270ccfd2e3a4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 854 - Spectators"
+slug: 0181-chapter-854-spectators
+partOf: hell-difficulty-tutorial
+position: 181
+ownLength: 2434
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3775175/chapter-854-spectators"
+royalRoadId: "3775175"
+---
+
+There are a few things that I will take with me to my grave. Some will never even grace my thoughts ever again.
+
+Almost dying to hair serum is one of them.
+
+I sit here, very, very carefully circulating thermal energy through my body to heal up. What the serum did was use some of my resources to speed up hair growth. It made me hungry, tired, thirsty, and lightheaded.
+
+I’m fairly confident there should’ve been some sort of warning label for that level nine hair tonic made by the Healing Order of Absolute Zerathusa, and Selene should totally have told me about it. But it’s also very, very likely that silly woman just didn't expect my constitution to be this low, and I totally don't plan to complain now. I also don't plan to kill her for the attempt on my life, it would be too awkward to explain.
+
+“I-Iset! I said level nine!” After staring at me with her mouth wide open, Selene turns to shout at her colleague.
+
+“Lady Selene, but I did use level nine, look!” Iset cries, rushing to the selari to show her the bottle.
+
+I, meanwhile, remain seated in my chair, surrounded by my luscious locks of hair. Blowing a bit, I make a small part in my hair to widen a gap so I can watch them.
+
+Selene is once again glancing at me after reading the bottle. “T-there’s no way. The bottle must have been mislabeled!” she shouts and moves in front of me, bowing very deeply. “Mister Gwyn, I apologize very deeply for putting you at risk in this way. I should have warned you about the risks of the serum. Please, direct your anger at me. Iset was only following my orders.”
+
+She doesn't even try to make excuses and instantly takes it all on herself. I notice her shaking a bit, and her heart beats wildly. Selene doesn't see it, but behind her, Victoria is standing up, locking her fingers together and holding them straight, like some sort of blade, as she takes a step towards them.
+
+Before the situation can degrade any further, I just say, “I will ignore it this time.”
+
+For a moment, I glance at Vic, who catches my gaze and then nods, sliding back to her chair to sit in that super proper, formal, serious way she likes to do, which can't be comfortable.
+
+Selene, Iset, and, for some reason their third colleague begin to thank me like I just saved the lives of their entire families. The whole thing gives the impression that they feel like they owe me, and I quite like it. Of course, it can be an act from their side, and it is possible that they’re spies or hired assassins, but who the hell knows? I just know I’ll make every attempt to use that to my advantage somehow.
+
+They get to work on my hair. As I request, they first cut it so it extends slightly below my shoulders, then style it well. I stand up and look at myself in a mirror. Unlike Savant's, my hair is not as dark, and it is slightly wavy, but looking at myself, I have to say that not only are my mana reserves higher, but my looks are better as well.
+
+Still not tired of winning, I sit down, and they continue cutting it down until it hangs down by a finger’s length. They style it a bit in a formal way that weirdly seems to fit with the clothes I am wearing.
+
+Once they’re done, I raise up thermal energy and entirely burn all the scissors, towels, and hair left behind. It melts the floor quite a bit, but I already disconnected this room from the central alarm system, so no alarm rings. The defenses here are honestly… not very good. So I suspect that, as fresh participants of the Games, they didn't assign us the premium rooms.
+
+At one point, someone knocks on the door, and Selene goes to answer, meeting with a human woman who hurriedly whispers something through the door, causing Selene to widen her eyes. Once the human woman leaves, Selene comes back to us, clearly thrown off by the situation and thinking of something.
+
+Neither me nor Vic even bother to ask, choosing to wait patiently until she shakes her head and says, while looking at us, “I apologize, my friend just told me a rumor that the Ruler of Envy will be spectating the games, so I’m just feeling a bit thrown off.”
+
+In reaction to that, Iset squeaks in surprise, causing her to get a harsh look from her colleague and quickly calm her expression to stand back up in a proper pose. Though her heart beats wildly in excitement.
+
+While the two women seem like they just heard there will be a big celebrity or leader of a state coming, Selene is much more nervous and shows even a bit of what feels like fear.
+
+“Is a Ruler appearing as a spectator that rare, Selene?” Victoria asks her.
+
+That gets her a nervous, unbelieving chuckle. “Very rare, Miss Victoria. He is a Ruler. One of only fourteen. He isn't even from our galaxy, nor are we counted among the central galaxies.” She gestures wildly as if she has a difficult time explaining, so she just ends with an emphasized, “He is a Ruler.”
+
+“But he’s also a new one, and possibly the weakest. I bet some powerful Absolute like the Magi or a proper replica of the last Elf could probably fuck him up.”
+
+“Language, Nathaniel.”
+
+“Sorry, Vic.”
+
+Selene looks at me in a way that makes me suspect she wants to call me a backwater-galaxy bum or some other such thing, but she patiently says, “Even if he wasn’t crowned all that long ago, he is still one of the most powerful people in the universe. If he willed it, he would have no problem destroying this world and many others in our galaxy. Just releasing his presence fully would probably kill everyone on this planet, minus those at the brink of becoming Champions, Champions, and Absolutes. You can't even look at the true body of a Ruler, looking for too long will burn your eyes, not to mention their presence. There aren't even many planets in the universe where a Ruler can fight without destroying them instantly. Possibly not even ours. And this planet has been strengthened through a number of pairings. A planet like yours that just awakened would be annihilated.”
+
+“I see,” I nod. “What about Beyond?”
+
+She seems confused but answers, “I think the deeper floors should be quite durable.”
+
+“You seem to know quite a bit, Selene,” my sister says.
+
+“I try to, Miss Victoria, sweetie. There are many things I’ve learned from attending the academy, and further under the tutelage of my master. Then I took many courses to even qualify for the position of support staff in the Games,” she answers proudly.
+
+“Are any other interesting people going to be joining the spectators?” I ask her before she can go into further bragging about herself, as I'm sure she would.
+
+This time her eyes gleam like those of a fangirl. “Yes! There will be Felix Maro!”
+
+“Selene, I'm just a bum from a barely awakened planet.”
+
+“Honey, everyone knows Felix Maro, he’s a very powerful Absolute! Two thousand years ago, he started his tutorial in Beyond.”
+
+That piques my interest, and I sit up straight. “Tell me more.”
+
+“There are many stories of his tutorial, the most powerful S rank ever known, completing many 1000-year quests. He was even later taken in as a disciple of The Ruler of Temperance. There is a rumor that the Ruler of Temperance is raising him as a potential successor!”
+
+“Selene, I have a question.”
+
+“Yes, Mister Gwyn.”
+
+“Who is the Ruler of Temperance? Then, in a simple way and shortly, name floor by floor all of the Rulers.”
+
+“I apologize, but this sort of information-”
+
+“Nathaniel, do not be too greedy,” my sister interrupts her.
+
+“Vic, this is very simple information that everyone should know, and I’d think it’d be fairly widespread. There are so many tutorial attendees, and each floor gives you an opportunity to meet a Ruler if-”
+
+“You can meet a Ruler on each of the floors!?” Selene looks like a hungry dog as she moves closer, ready for gossip or information to sell.
+
+“Ehm...” I just say, looking for help from my sister, who steps in, making Selene change the subject.
+
+Meanwhile, I muse that maybe some information that Ruby gave me isn't that freely available. Am I getting a bit too spoiled? Did I spoil information for Selene, a sort of endgame info she would’ve had more fun getting to and discovering on her own? Or maybe she means to sell it later?
+
+In the end, I come to the conclusion that the education here is the worst, and people of this galaxy lack curiosity.
+
+But in the end, I get a description of the Ruler of Temperance from Selene. Though people almost never get to see a Ruler in their lives, there are rumors and legends of their appearances. Temperance, for example, is seen as a very gentle lumoran man who is fond of using war armor.
+
+There is only one being that fits that description from the floors I have visited so far.
+
+It also makes me wonder. Did Champion Feroy succeed at the end of the seventh floor, or is the Ruler of Temperance a special grade mimic that managed to take him over?
+
+Selene continues to be polite, explains some stuff, and mostly talks about etiquette and our schedule. After a while, a drowsiness starts washing over me, so I listen with half an ear, occasionally asking questions about the Rulers.
+
+I find it very interesting to see how someone born this long after their planet’s tutorial and after multiple pairings sees a Ruler. Maybe for the first time, I truly see someone admiring them in a way reminiscent of gods, even if she never saw any and only ever heard about them. A ton of information since her birth, things she learned in the academy, from her tutors, and the rumors and past legends. Tidbits of information on the appearance of beings on the scale of a Ruler, and the destruction they might bring.
+
+There are also a few wild stories about subclass Absolutes forming temporary alliances to take down a Ruler, so they can later fight each other to claim the vacant seat. Even then, the chance of that ever happening is very rare, and it usually ends with the Ruler wiping out the party instead.
+
+Absolutes like Lissandra, The Last Elf, the Magi, and some like the Slayer, Void Caller, or the Pale Titan, are exceedingly rare, often seemingly disinterested in holding the position of a Ruler. Hell, many people consider even a wyvern to be as rare a sight as a Ruler, and dragons are even rarer, not to mention the very few gods still alive and hidden away somewhere.
+
+Over the past few years, I’ve come to see most of these things as normal and had a chance to meet some, even if they were just copies. It’s easy to forget that the First Generation that enters the tutorial is just barely under 40 thousand people, and not all of them even survive, and not all of them have the opportunities I’ve had. And then, thousands of years could pass on Earth without people, even awakened ones, having any chance of seeing the things I have.
+
+When Selene talks about the Ruler of Envy, she doesn't talk about the dickhead I saw in the record getting curbstomped by the imitation of the Ancient Monster, even the Rulers are scared of. Selene just sees someone who, despite the efforts of many thousands of powerful Masters of Envy, was able to push through and claim the spot of the new Ruler of Envy when Ruler Tyven died.
+
+And the longer she talks about it, the stronger Envy begins to seem. But it doesn't make me respect or even admire him. It just makes me realize that maybe I should be a bit more thankful to Sandra the Cockroach.
+
+We’re all led to a smaller room where other participants mingle. There are a few hundred of them, though Selene tells us there are a few more rooms like that, and more "prominent" participants have more luxurious places, probably because they're too pure to interact with us, commoners.
+
+Left alone, me and Vic make our way through the room, dealing with the many waves of scans all over again while doing our own in turn. Probing people and making sure to remember the ones that seem like they might be dangerous, though I have to say there aren’t many of them.
+
+The thing that best catches my attention is the walls placed throughout the room. They seem to be made of glass, and on each one, in extremely high resolution, a sort of hype reel plays. There are even snippets with me on them. Me against Savant during the first tournament. Me against Ruby’s avatar during another tournament. The fight with the Leviathan Fish, and then even the boys standing off against Nyssa, with the video being cut there as a cliffhanger to make the viewers wonder how it ended.
+
+As Vic taps my shoulder and leaves to talk to a few people, I also watch some of hers. Both of us against Lissandra, even if Lissandra’s face is blurred. Victoria in what seems like a nest of ants, getting torn apart, as her duplicates continue fighting. Her on the snowy lumoran planet surrounded by multiple Greater Mimics. Her in the rainforest of the ninth floor, facing off against clans of demons throwing themselves against her, with the forest set ablaze as monsters rush in in waves, and Victoria standing there unbothered as she mows them all down.
+
+When the videos show someone else, I stop looking and glance towards her, feeling a smile climbing onto my lips. Vic seems to sense my gaze as she turns to me with a question, and I just shake my head. She then turns back to speak with some weird looking bear like man, and I find a quiet corner to slip into after grabbing some snacks.
+
+The entire time, I continue to scan the area and keep an eye on Vic, unbothered by the hundreds of flickering presences in the room.

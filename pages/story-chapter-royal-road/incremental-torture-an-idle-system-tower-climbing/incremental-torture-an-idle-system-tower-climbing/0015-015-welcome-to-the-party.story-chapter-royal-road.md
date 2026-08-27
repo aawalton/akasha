@@ -1,0 +1,137 @@
+---
+id: 10314da7-448d-504e-9f3f-4d903df9572c
+page-type-slug: story-chapter-royal-road
+title: "015: Welcome to the Party"
+slug: 0015-015-welcome-to-the-party
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 15
+ownLength: 2331
+unit: words
+publishedAt: 2024-04-13
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1593361/015-welcome-to-the-party"
+royalRoadId: "1593361"
+---
+
+The closest island to their starting point was colossal, perhaps one of the biggest in the entire floor judging from the map. They had nearly lost Reece again while crossing the rickety bridge to the island, when he managed to slip on one of the planks and lose his footing, but Kayla once again came to the rescue and demonstrated her ridiculous physical prowess by tossing the boy the entire rest of the way to the island - nearly seven metres.
+
+For as far as she could see, the island was covered in dense forests, the thick canopy blocking out whatever artificial source of light the tower was shining down on them. There were far too many places a hidden assailant could strike from, which meant they were all on edge as they advanced towards the closest red zone. All of them except Kayla, who was humming a cheery tune and skipping across the dirt.
+
+A flash of silver light arced past Evelyn’s shoulder and burnt a hole into the ground in front. “Be careful with your flashy magic, Anna. You nearly took my ear off,” she said, crouching low and holding out her shield as she approached the impact site, only to discover a charred rodent, which she promptly booted away.
+
+“Just a mouse,” she called out, dropping her guard a little and continuing onwards.
+
+At least it wasn’t a rat. I think I’ve had enough of them to last me a damn lifetime. However short it may be given the challenges we keep getting tossed into.
+
+As they inched closer to the red zone, their steps shortened and their breathing hastened. The map gave no indication of where the other parties had started or where they might be, thus it fell on them to keep a constant watch of their surroundings for any signs of danger. When they were just ten metres from the zone, which itself was nothing spectacular - just a clearing in the forest with a weathered, mossy statue of a stag in the centre - Evelyn slowed to a crawl and tucked herself behind her shield as best she could.
+
+“What’s the holdup darlin’? We got company?” asked Kayla in a whisper.
+
+“Nope, I just don’t want to get caught off guard like on the last floor,” she replied.
+
+“Wuss,” said Kayla, but keeping pace with her all the same.
+
+Eight metres.
+
+Something rustled in the trees opposite the clearing, making her freeze. She raised her hand to halt the others. She heard movement behind her, followed by an arrow flying in the direction of the noise. A grey blur rushed out from the undergrowth, darting across the clearing then vanishing once more. Another mouse.
+
+Five metres.
+
+A hand slammed into the small of her back, sending her hurtling forwards into the centre of the clearing, where she flailed for a moment before catching her balance and casting a petrifying glare towards the cackling Kayla.
+
+“Get over it you pansy, there’s no one else here,” she said, as all hell broke loose.
+
+Evelyn noticed the red circle indicating the zone on the map had started to turn blue as she crossed the boundary of the clearing, but at the same time as she had been shoved forth, a man had rushed into the zone from her left, looking as shocked at the turn of events as she was. The blue shift halted when he entered, meaning they could only gain control of a zone when there were no enemies present.
+
+Kayla sprinted directly for the man before he regained his bearings, sweeping his feet from beneath him and delivering an elbow strike to his right temple in one smooth motion. The blue shift continued.
+
+So as long as there are more of us inside the zone than there are enemies, we can start to take control of it. That’s useful to discover early on. It means splitting up to grab multiple zones might pose a risk if we aren’t able to win fights with less of us.
+
+“YOU BITCH!” Screamed a black haired woman with a harsh bob, charging at Kayla with dagger in hand right as the woman in question stomped on the unfortunate man’s head, eliciting further incoherent screaming from the woman.
+
+There was no time for Evelyn to enjoy the unfolding drama as a pair of ridiculously well armoured men barreled out of the trees next to her, one wielding a vicious spiked mace and the other a misshapen carpenter’s hammer.
+
+Time to find out just how much of a difference there is between ‘slightly less physical damage’ and ‘less physical damage’ there is.
+
+Channelling the spirit of warriors old, she unleashed an ear-splitting battle cry, the activation condition for her skill of the same name. It was rather unsightly, but she wouldn’t split hairs over a free point to fortitude. A minute may as well be a lifetime when it came to these life-or-death battles that were commonplace in the tower.
+
+Rather than risk finding out if her Bulwark would stop the spikes from penetrating her skin, Evelyn charged forth to meet her opponents head on, smashing her shield into the man’s mace as he swung it down, the impact sending a shudder down her arm. His comrade was a step behind, but it was a step too far to stop her from slamming her head down onto the mace wielder’s own, sending him stumbling backwards with blank eyes.
+
+She raised her forearm to block the strike of the hammer, the metal plate of the bracer absorbing the brunt of the blow. Her enemy seemed shocked that the rather dainty woman before him had barely moved an inch after his full strength strike, which gave her an opportunity to knee him squarely in the crown jewels. He gasped and doubled over, dropping the hammer to the ground. It was his last mistake. Evelyn grabbed it where it fell and bashed his head twice in succession, the second time rewarding her with a satisfying squelch and a spray of blood.
+
+The first man had recovered from his daze and upon seeing the grim fate that his ally had met, roared at Evelyn before charging at her once more, wildly swinging his mace in unpredictable arcs as he approached. She ducked and weaved, narrowly avoiding his blows. His face grew red and his breathing heavy and Evelyn noticed his swings loop wider and carry him with them as he continued to barrage her. His footing shifted, and she raised her shield to block his next strike.
+
+Despite knowing it was coming, Evelyn struggled to fully stop the force behind the man’s blow. Worse, one of the spikes on his mace had pierced through her shield, cracking open her most reliable piece of gear. She grimaced as he ripped his mace back, yanking on her arm as he attempted to pull her shield away from her grasp.
+
+Evelyn held firm, twisting her misfortune to her advantage as she threw her shield to the side with all her strength, flinging his mace with it and pulling him towards her. Before he had time to react she unleashed a rapid torrent of blows to his face and chest, not letting up for even half a second lest he use the opportunity to recover and strike back.
+
+And strike back he did, eventually. With a bloody and bruised face and missing a front tooth, the enraged man roared, showering her in his blood and spit, before smashing his mace, her shield still attached, straight into the side of her body. Her shield exploded into splinters as it collided with her arm, but the impact felt… soft?
+
+For a moment, both Evelyn and her opponent stared at each other in shock, equally taken aback by the fact that the brutal weapon had simply been stopped in its tracks by her unarmoured body.
+
+It looks like one word really does make all the difference. I’m practically a one woman juggernaut now.
+
+The man moved to pull back the mace and strike again, but Evelyn wouldn’t let that happen. She wrapped her leg around his and shoulder barged into him, sending them both tumbling to the ground, where she immediately began to batter him until his final twitching movements ceased. The sound of a bell rang in her head, alerting her that they had taken full control of the zone.
+
+A brief glance at her surroundings told her there were no more opponents in her direct vicinity, but she had no time to rest. Kayla had swiftly dealt with the screaming woman from before and was now pushing back a skinny youth with a shaved head, whose every movement was awkward and full of openings for her to exploit.
+
+In the end, he was taken out by Anthea, who expertly shot her arrow between his eyes. She was a rapid learner and had taken to the bow like a fish to water. She heard a yell from behind and turned to see Anna sprinting towards the centre of the clearing, with four people hot on her tail. She fired a few bolts at them, to varying degrees of success, but it did little to prevent their advance.
+
+Anthea darted in Kayla’s direction, seeking security from the fierce woman. Evelyn stepped forward, far more confident in her ability to soak hits, but unsure if taking on four opponents at once was overestimating herself. Regardless, it was her job to keep Anna safe, so she held nothing back as she leapt into the fray, targeting the smallest and weakest looking of the four, an elderly man who had no business charging so valiantly into combat.
+
+I really hate how this place has twisted my thought process. I should be respecting my elders, within reason, not trying to pulverise them. Ugh. Survive first, feel guilty later, Evelyn.
+
+She caught his jaw with a mean right hook, knocking him out cold in a single blow. There was no time to finish him off as the other three closed on her together, leaving no room for mistakes. An itch flared up on the side of her neck, but it vanished as quickly as it had come. Odd. The man on her left struck out in sync with the woman in the middle, while the third attacker pulled out a dagger and thrust it at her gut.
+
+Despite her earlier success at stopping the mace with nothing but her body, she wasn’t quite confident enough to let herself be stabbed without putting up some resistance. She smacked the dagger wielder’s wrist with her bracer, parrying the strike while tightening her guard on her left hand side, absorbing blows from the other two.
+
+A bead of sweat rolled down her forehead and into her eye. She blinked away the sting of salt, but her vision began to blur. Hot pain lanced through her neck and into her body and she felt her muscles tighten. In the corner of her vision Evelyn saw Kayla smash into the man on her right, sealing his fate.
+
+This has to be related to that sting from before. Is it some kind of skill? First magic, now poison. Why is everyone but me getting really cool and useful skills? Whatever, I’ll just sleep and let the others deal with these two. The fight’s basically won.
+
+Evelyn stumbled, the poison taking hold of her as the man and woman attacked, peppering her with a mix of punches and kicks that had little effect even with her completely incapacitated. Her eyes snapped back to focus and she started swinging at her opponents with less than accurate strikes. They backed off a little, but that opened the way for Anna and Anthea to unleash arrow and spell, making short work of them.
+
+A girl, younger looking than even Anthea, stumbled backwards into the clearing, a bamboo pipe in hand. She took only a few steps before Reece dashed out of the trees and stabbed her in the heart, his face twisted in anguish. Evelyn fell to her knees, unable to stay standing as the poison wormed its way through her body, paralysing her muscles.
+
+All of that struggling, just for it to end like this? What a load of crap, tower.
+
+Anthea and Kayla had rushed to her side, the latter propping her up on her lap while checking her pulse.
+
+“Evelyn, listen to me darlin’. Don’t you go dying on me now, y’hear. There’s plenty more floors for us to clear after this one. Hell, we’ve barely started here. Stay awake,” she said, lightly slapping Evelyn on the cheek.
+
+So you do have a sweet side after all, Kayla. And here I thought you were just a murder crazy psycho. Sorry to the both of you, but I don’t think I can get through this.
+
+Evelyn began to drift in and out of consciousness, struggling her utmost to cling to what little scraps of strength she had left, to little success. It was in a brief moment of clarity that she had the idea to see if the Local Shop was available during the challenge. It was. She passed out, for a few seconds longer than previously.
+
+Okay Evelyn, this is probably as long as you can hold on for. Let’s hope this works. On the plus side, if I somehow survive, I’ll be a lot harder to kill. Silver linings.
+
+With the last fragments of her willpower, she had purchased eight attribute points from the shop and invested five into vitality and three into fortitude, desperately hoping that it would somehow help her body fight off the poison and keep her alive. The last thing she saw before losing consciousness for good was her status, which brought a smile to her face.
+
+~~ Status ~~
+
+Evelyn Han (Poisoned)
+
+Race: Human
+
+|Attributes|
+
+Power: 2
+
+Speed: 2
+
+Stamina: 1
+
+Vitality: 7
+
+Mana: 0
+
+Fortitude: 6
+
+|Skills|
+
+~Passive~
+
+Bulwark (Uncommon), Stargazing (Common)
+
+~Active~
+
+Battle Cry (Common)

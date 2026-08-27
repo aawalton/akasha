@@ -1,0 +1,171 @@
+---
+id: 770f281b-4d8a-523c-9edf-3102d0ca6d87
+page-type-slug: story-chapter-royal-road
+title: "Chapter 715 - The Loot, the Beyond quest, and the two assholes"
+slug: 0040-chapter-715-the-loot-the-beyond-quest-and-the-two
+partOf: hell-difficulty-tutorial
+position: 40
+ownLength: 2634
+unit: words
+publishedAt: 2025-12-18
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2860003/chapter-715-the-loot-the-beyond-quest-and-the"
+royalRoadId: "2860003"
+---
+
+For now, I decide to ignore the fact that my residence was broken into to deliver these items. Actually, fuck it. What the hell is this crap? Do I not deserve at least some privacy? Just a tiny bit? I will remember this insult, and my revenge will be terrifying.
+
+Coming to a stop in front of my house, I look over the space from a distance. Sure, having a place to myself and another “checkpoint” is nice, as are the facilities, but how valuable is it really to someone like me? The facilities are either comparable to or slightly worse than those in the Primordial Knights’ headquarters. I do realize that for anyone in a guild below the top five or ten, this residence would be amazing. But for me… actually… should I maybe turn it into an Airbnb? Rent it out for shards? Surely others have already thought of it.
+
+Me, a landlord?
+
+Wouldn’t an evil demon king be a lesser evil than that? Do I really want to sink that low just for some shards?
+
+I stop my thoughts there, scared of the answer, and rush over the remaining distance. I open the gate and enter the house through the terrace. There, in the middle of the living room, stands a tree very similar to a Christmas tree. Suspiciously similar. It’s alive too, I note, as I touch and smell it.
+
+Did… did she? No, there’s no way she would go to Earth just for this kind of lame joke. No way. I mean, I’d totally do it myself, and damn if I wouldn’t keep praising myself the whole time I was doing it. I might even cherish that memory for decades after the fact.
+
+I sniff the air around it a few more times and touch the tree. Surrounding it is an array of small boxes packed up in cute wrapping paper with reindeer and all that.
+
+“Are you watching?” I turn toward the ceiling, asking with great suspicion.
+
+No answer comes, so with a groan filled with annoyance, I sit down and start opening the boxes to reveal the items I saved from the Ancient Armory before Diligence blew it up.
+
+Crystalfuse Mana Stone (Low Arcane) - A crystalline node for mana storage. Its internal lattice is made up of countless folded channels that cycle energy in endless motion, preventing loss or decay. The mana stone can store mana and recharge equipment or sustain arrays for extended periods. It stabilizes mana and equalizes ambient pressure to keep everything working in optimal form. Often serving as a high-density mana source for item cores.
+
+Prototype Armament Core (Mid Arcane) - An incomplete resonance engine intended for direct item integration. Its shell encloses a tri-layered rotation chamber where condensed mana can continuously cycle; it has been designed for adaptive item merging. When embedded in compatible equipment, it enhances output and reduces mana loss during use. The unstable cycle generates amplified resonance and massive internal stress, forcing the Core to regulate itself through momentary energy discharges. This item is classified as unfinished.
+
+Memory Imprint Stone (Mid Arcane) - A mnemonic crystal engineered to copy and mimic structured consciousness wavelengths. The stone contains an imperfect copy of a memory weave suspended in permanent stasis. Each weave carries trace sequences of knowledge locked beneath layered encryption that resists both extraction and erasure. The imprint remains self-contained, constantly replaying to preserve data integrity. Made as an experiment for an Ego weapon, this item is classified as unfinished.
+
+Harmonic Material Alloy (Low Arcane) - Residual metallic shards recovered from failed item assemblies. The piece retains partial inscription imprints. When exposed to mana, the fragments emit faint harmonic vibrations and attempt incomplete alignment to the original item’s structure. The alloy composition resists corrosion, extreme temperature, and decay, remaining semi-active despite centuries of dormancy.
+
+Binding Resonant Threads (Mid Arcane) - Filaments composed of strands of a mana-responsive alloy, intertwined with crystalline nodes. The threads can establish harmonic synchronization through micro-oscillation, allowing high-speed information and mana transfer. Their internal structure reacts dynamically to external stress, tightening and reinforcing at varying oscillations.
+
+And lastly, the main item. The tiny red mana stone I got from the pillar at the last moment.
+
+Red Heartstone (Upper Arcane) - When completed, it can be bonded to a user through their blood. A self-optimizing inscription array construct sealed within a heartstone frame containing personality circuitry. Its sub-layers of arrays alternate between node compression and expansion, producing rhythmic surges that resonate in a way that mimics a living mind. When completed, it may be converted into the Ego Core of an item.
+
+In a way, this could be thought of as Calvorn Junior, but the most important piece is missing, the piece meant to “awaken” it. But that’s a problem for the future. For now, it’s an extremely fascinating item that I’m sure is far more valuable than its rarity implies. Damn, even unfinished, it’s Upper Arcane. Once completed and set into a proper item, it could be great.
+
+There are a few more items, though these are definitely the best catch. They’ll give me months of work, experimentation, and knowledge to apply to my skills.
+
+I learned long ago that there’s a clear overlap between Mana Manipulation and the circuits I etch into items. Someone might call me a madman or a dumbass for thinking that, but what do they know? My level in [Mana Manipulation] is proof that it works for me.
+
+Might not work for others, but that’s not my problem.
+
+Anyway.
+
+Beautiful.
+
+Very nice.
+
+Good.
+
+Nothing’s missing. I counted all the items while Greed wasn’t looking, as it lay on the floor in her office. Just in case she tried to steal some.
+
+MINE. ALL THE LOOT IS MINE.
+
+Screw Diligence or whatever, too.
+
+Now, what to do with all this? I’m sure I could sell some of the items, but looking at the quality, I might not. Each item is at the peak of its tier, and none of them can be found in the system shop.
+
+So the options are to sell them to the locals or one of the guilds. I bet they would go for a lot of shards, being the remains of experiments undertaken by an Absolute from long ago as prototypes for Ego items and cores. The people around here really seem to like that kind of artificial bond. The right person might even buy them all as antiques. I bet some of these things are really old.
+
+I could probably throw a few into an auction. I'm sure they have auctions here. Or I could use them to make something and sell that instead, create some abomination of an item for myself, or hand it off to Group Four.
+
+I’ll definitely keep a few batteries for Maya. With their capacity and some time to store mana, she could make something truly cool with her [Armament]. As for me, I’d rather store mana inside my halo or stop being a lazy ass and actually maintain the crown’s shape for longer than just showing it off at parties.
+
+I bet I can do it if I try. It’ll just take more mental exercises. I love mental exercises, especially the kind where my head spins, my vision blurs, and it feels like someone is stabbing me in the brain. It’s one of my favorite things ever.
+
+All things considered, it’s been confirmed that the place I visited was likely where the Wraith made Calvorn, and he must have had a reason to tie such a large portion of his power to it. And I’m sure I’ll get it out of the memory stone eventually.
+
+There must be a major advantage behind it, considering how huge the disadvantages are. Maybe it was just what he had to do while trying to become nearly immortal and gain the ability to jump from body to body?
+
+It’s like Sauron tying his power to a ring only for some furry-footed vyssari to find and throw it into a volcano. Would the Wraith die if Brich and Crimson Forge destroyed Calvorn? Is the Wraith even alive after what Chris did to him? Did he absorb him? Or did he just trap him inside that fancy figure he keeps floating above him?
+
+Some of these questions will need to be answered at some point.
+
+Then there are still the blueprints the crafty guy made for me in the Academy over the course of those loops, the ones Sophie helped me with. A side project, sure, but not something I’ve forgotten about, and some of the items here could be useful for that, so they can probably stay. Actually, I can leave them here and should try to contact Brich to trade with Crimson Forge and have them help me improve the designs.
+
+I know for sure I’m not giving them prototypes of Calvorn or any information on the Wraith’s ego sword experiments. I also know I won’t tie my own power to such an item. But I’m very, very curious to see if I could make an ego weapon of my own. Who wouldn’t want a talking sword? Doesn’t a proper adventure just scream for that kind of thing? The personality would have to be better than Calvorn’s, and I still have no idea how, but it’s been done before, so it can certainly be done again.
+
+Even looking at these prototypes, I can tell I could finish some of them, turning them into proper mid arcane items, maybe even upper arcane with enough effort. There are like two dozen different versions of these prototypes here.
+
+Or I could smelt down the materials and create something truly massive. Maybe a huge suit of power armor like the lumoran Champion Feroy from the seventh floor.
+
+So many options, so little time.
+
+There’s my long-awaited minion time, the Beyond quest on her planet, then the fifth floor, where Nyssa will probably be dragging me to soon.
+
+Then there’s whatever weird ass event Thane and the Ruler of Humility have managed to cook up.
+
+After that comes the tournament pitting us against another planet’s tutorial, where Christoph will probably show up too.
+
+All in a span of two to three months.
+
+Leaving my Christmas gifts where they lie, I take myself outside the house and stop for a moment as an interesting thought hits me. This is my property, a house I own in some weird alien city with a lame name, light-years away from the planet I was born on and spent twenty-one years growing up on. Yet this is my house, as strange as that sounds. Well, at least for a few more years.
+
+I look it over, the copper gate, the trees poking out behind it, and the two-story house nestled against the rock. Not that bad. Not bad at all.
+
+And don’t I also have a job now, working for a guild or corporation, one of the biggest ones around?
+
+I shake my head to stop these thoughts, but they keep coming anyway. I even have a dog, coworkers, HR breathing down my neck whenever I screw up, and people trying to poach me from my current corporation. And by poaching, I mean kidnapping. Must be some deep rooted Beyond tradition or something.
+
+Add healthcare in the form of that weirdo catboy, and it all makes a twisted sort of sense.
+
+Still thinking about it against my will, I reach the headquarters of the Primordial Knights. Entering the hall, I find Weslin resting in the lounge alone, reading some kind of report or maybe a new study on mana, he loves that kind of stuff.
+
+Surprisingly, he isn’t bald anymore. Very short white hair has started growing from his formerly bare scalp, and he doesn't seem to be shaving it off anymore. Even his eyes have a faint red tint to them now.
+
+I notice it, he notices that I’ve noticed it, but both of us ignore it like the manly men we are. The kind that would rather repress every emotion until they were lying on their deathbed instead of talking about feelings, the kind of men who can see each other for years, greet each other, talk, share drinks, and yet still never learn each other’s names, both terrified to ask after so long, just waiting, praying that some random person will say the name out loud so they can finally know, the kind who will communicate entire life stories through nods and grunts, who think eye contact is a marriage proposal, who’d rather wrestle a bear than admit they’re friends, who hurl insults at each other that most people would kill them for, and who will die on the hill of “it’s not that deep bro” even when it very obviously is.
+
+Sitting down next to him, I summon a set of evil orbs like always and start training with them. Even after all this time, they’re still a challenge as I continue modifying them closer and closer to their original, nastiest version.
+
+Out of nowhere, Weslin glances my way.
+
+“You and Malika… are you interested in her?” he asks, something that makes all my thoughts vanish before they finally reboot, confirming I didn’t mishear.
+
+Weslin doesn’t even blink as I turn to him.
+
+“Weslin, you dog.”
+
+“Oh, shut up, rookie. So?”
+
+“Not interested in her. Not even a little.”
+
+“Got it,” he says, and goes back to reading.
+
+Later that day, I inform Nyssa about my Beyond quest and that it should take a week. She just wishes me luck, saying she’ll soon be heading to the fifth floor and will be there to meet me after I return.
+
+I don’t know if she’s simply not in a hurry or if she felt how badly I wanted to go on this quest. Maybe it was the one-hour speech I gave her about my minion and our adventures together while praising her non-stop.
+
+Either way, it worked out.
+
+As Greed said, a portal appears right on time at my house. Just one step, and I’ll be on the planet where my minion has been living with her gang of delinquents. It reminds me that I probably should’ve asked what this quest was actually about, and that Greed probably should’ve told me.
+
+But… my minion. Does the quest really matter that much? I just need to guard one asshole along with another asshole.
+
+Before stepping through, I open my status to check my Absolute Candidate quest.
+
+You have accepted your personalized Absolute Candidate quest, authorized directly by the system.
+
+A time limit is set to complete the objectives within one year of the quest being given. However, early completion will grant earlier access to the advantages tied to the title.
+
+Your quest objectives are as follows:
+
+- Raise the skill [Mana Manipulation] to Level 75
+
+- Channel 50,000 stat points worth of mana within one second without any external assistance
+
+- Confront a Champion level being without any of its power diminished, alone, for a duration of ten seconds
+
+The quest is so easy, I suspect Lissandra might have given it out.
+
+Fuck.
+
+Closing the window, I grab my baggage and the items I’ve been wanting to study, even during the quest, then step through the portal as it sends me somewhere impossibly far away.
+
+I appear in a fancy room smelling of a perfume that’s probably more expensive than some buildings I’ve seen. Looking out the window, I see the city in the distance and the vast garden surrounding us, and realize I’m inside some kind of large manor.
+
+Lastly, I glance at the two assholes I mentioned earlier.
+
+A widely smiling Lily and Savant, who meets my gaze for a second, then turns aside as if I weren’t there.

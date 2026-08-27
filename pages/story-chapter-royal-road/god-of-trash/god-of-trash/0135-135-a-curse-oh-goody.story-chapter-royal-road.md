@@ -1,0 +1,97 @@
+---
+id: ac114924-370d-5d98-80c1-b7e5dbe81e29
+page-type-slug: story-chapter-royal-road
+title: "135. A Curse? Oh Goody!"
+slug: 0135-135-a-curse-oh-goody
+partOf: god-of-trash
+position: 135
+ownLength: 2373
+unit: words
+publishedAt: 2025-07-19
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2449727/135-a-curse-oh-goody"
+royalRoadId: "2449727"
+---
+
+Rhys held his breath and pulled his aura in. Stepping quietly over the floor, with the help of some decrepit floorboards he’d insisted Orlen not fix and Trash Step, he approached the other room. The shriek was quiet, only loud enough that his enhanced ears heard it, and muffled, as though it came from beneath the building… though, to his knowledge, the building had no basement. His heart beat faster in excitement. Was it a ghost? Ghosts were pests, weren’t they? And besides, they came out when a human died. They could be considered a human byproduct, and therefore, trash. And curses he’d already established as trash, so if the ghost happened to be paired with a curse, even better. He crept closer, peeking out into the next room. He didn’t want to scare his precious guest away.
+
+There was a creak, then a long, slow groan. The room laid in shadows, and it was darker with its windows drawn than it would be usually. He had to utilize his enhanced mage vision to see at all. The room looked the same as it ever did, for all that, nothing more than an empty tavern with rotting tables and chairs sitting out around the space. They hadn’t opened the inside of the store to customers, and Orlen had been pushed to his limit fixing the building, so he’d left the furniture as it was for now. His eyes flashed from table to table. Were the tables haunted? Or maybe it was the very ground the store stood on that was cursed? Whatever it was, Rhys was ready.
+
+Another creak. At last, there was motion in the room, as a panel in the center of the room swung upward of its own accord. Rhys held his breath. A hidden trapdoor, opening on its own? No, could it be? Were the previous owners of the tavern killers, or maybe cannibals? Did they throw the unquiet dead into the basement, then disguise it so no one would ever discover their crimes? He licked his lips in anticipation. A mob of cannibal corpses would make a nice addition to his rat and bug swarms, though… the corpses would be the eaten people, not the cannibals. Still, even so, the corpses would surely be rife with vengeance, and therefore curse energy. In the worst case, he got curse energy, and that was still valuable.
+
+Footsteps, clanging on an unseen ladder. That wasn’t very ghostly, but maybe they were corporeal ghosts, or, as others knew them, zombies. He’d met several skeletons, too—in fact, curses seemed to favor skeletal forms. It wouldn’t be surprising if he was dealing with a skeleton, here.
+
+A head poked up through the floor. Rhys crouched behind the wall, watching from the darkness. It swiveled, left and right. It looked very human, and his mana senses told him it felt very alive, as well, but… but maybe that was just part of the curse! Yeah. It was an illusion, for sure!
+
+He turned back. “The coast is clear. Move, move!”
+
+“The hell’s the rush for?” a second very human voice complained.
+
+The first voice scoffed. “Some idiot rented this place, so until they move out, we gotta keep it quiet! I’ve already called Jona, and she’ll do the usual cursed routine, but until then…”
+
+“Why don’t we just kill ‘em all in their sleep?”
+
+“Edgar says they’re mages, and one of ‘em’s scary strong. He might just be a mortal old man, but he’s never been wrong before.”
+
+The second man laughed. “What would a mortal know about mages? I say we see for ourselves.”
+
+In the darkness, Rhys reached for his sword. These men were no curse. If they were going to threaten his people, then he’d put them down.
+
+The first man cuffed the second man in the head. “We came here to move product, not start bullshit fights. What does the boss always say? Keep your head down, stay out of the Empire’s eyes, and for the gods’ sake, keep your merchant’s permit. The Empress doesn’t look too close at our ‘potions,’ as long as we don’t act stupid and, I don’t know, kill innocent merchants.”
+
+Rhys frowned. Wait… no way. He was starting to put all this together. A hidden tunnel. ‘Potions.’ Not wanting the Empress to look too hard at their business. These guys were criminals of some sort, and it sounded like drug dealers. Moreover, the Empress granted them cores anyways? Wasn’t this the exact situation her core manipulation was supposed to prevent?
+
+Then again, who knew? Maybe she strategically wanted certain families, clans, or worst of all, ethnic groups, to become addicted to drugs. It wasn’t unheard of for a ruler to allow criminals to lurk in the background so they could weaken, create scandals in, or even entirely ruin clans and noble families the ruler disagreed with. On the other hand, assuming the best of the Empress, maybe she was just overloaded. It made sense. She had to exchange all the cores in the nation. Even with delegating her power through staves, she was still a busy woman. She couldn’t take her time to deeply investigate everyone who she granted a core. Plus, who knew? Maybe it was just that a corrupt official aligned with this gang had a core-shifting staff, and the Empress just didn’t bother to look into that corrupt official’s justification for granting these random low-grade schmucks cores. He didn’t know, but what he did know, was that there were a billion ways corruption could take place, even, no, especially in such a tightly controlled empire like the Empress’. No system was perfect, and one that hinged on a single human being so heavily was bound to have tons of exceptions.
+
+A moment later, he had to suppress a snort of disbelief. He’d really been right. The old man really had been trying to warn them off this building because of some crazy plot he had in mind… or rather, was related to. This building was apparently connected to the local gang’s tunnels of some sort. They had ways to sneak in and out of the city with their contraband, and this apparently linked to one of those routes. It was exactly the kind of crazy plot that’d show up in that show about four friends and their dog, but it wasn’t too far-fetched, either. He remembered reading about crazy tunnels under borders to ferry drugs from country to country. This was just a miniature version of that, in a highly restrictive environment where it made sense to move drugs into the controlled zone of the city.
+
+He frowned. But if they were doing tunnels anyways, why not just use the sewers? Sure, the sewers stank, but they were such a convenient route into the restricted part of the city! This house didn’t even lead into the restricted part of the city, so why bother? True, they could skip the checkpoints at the city’s edges, but they had merchant badges, and the guards didn’t always check storage rings.
+
+Maybe it’s just a safe point within the city, or a halfway house, or maybe they’re worried about that ‘sometimes’ check on the rings. He still didn’t get why they wouldn’t just use the sewers, but then, not everyone was as educated and high-thinking of a trash maniac as him. The sewers did stink, and they were usually full of shit, when Rhys hadn’t just wandered through and sucked it all up.
+
+I should go back to the sewers. Revisit the library, while I’m at it. Rhys tucked the thought into the back of his mind for later and turned his attention back to the gangsters ahead of him. He wasn’t going to let them use his store as a pass-through for their illicit business. The only illicit business happening in this store was his, and his alone. He was a little curious what this ‘Jona’ was going to do, especially if she was the one who made the store haunted—he could almost taste another curse coming his way. But first, he had to deal with these chuckleheads.
+
+The two men continued to whisper-fight for a little longer, standing over the trap door. Rhys listened for a while, extending his mana-senses to make sure there was no one down the trap door, then walked forward, still moving silently. The first man looked up sharply as he closed in, and his eyes widened, but before he could shout, Rhys’s hand wrapped around his mouth and slammed him backward, knocking his head against the floor hard enough to knock him out. The other man jumped and reached for his weapon, only for a thunk to echo through the room. He, too, hit the floor, revealing a shivering Mouse behind him, holding onto her sword with both hands. She looked at Rhys. “They were bad, right?”
+
+“Yeah, they’re drug dealers. Come on, let’s take care of them,” he said, pushing the two bodies back down the trap door.
+
+“K-kill them?”
+
+Rhys froze. He turned to her, confusion written all over his face. “Why would I waste such glorious trash? Don’t you know what these criminals have?”
+
+Mouse looked down, then back up at Rhys. “D…drugs?”
+
+“Well, that, but we aren’t drug dealers. Drug dealing is for the lazy and those who want to get rich. We’re in it to win it; we won’t take down the Empress with a little nose candy.”
+
+“A little… huh?”
+
+Rhys waved his hand. “Not important. The point is, you’re overlooking the most important, obvious thing these criminals have. Think about it. They have fields, growers, distribution networks, clients, hell, even secret tunnels and unthinking, fearless, stupid lackeys. In short: logistics.”
+
+Mouse stared at him, lost.
+
+“We aren’t going to rot the Empire from within by selling potato chips in one small outpost of a city. We need to reach the whole Empire. In other words, scale up, build our networks, hire, develop new farms, find new workers, the whole nine yards. Sure, we could work hard and get there eventually… or we could hijack a prebuilt network, with large, functional farms and an impressive network for distribution,” Rhys explained. “I don’t know about you, but I’d rather take the easy route, yeah?”
+
+Most of society considered drugs trash, even if a small portion considered them better than gold. Almost everyone could agree that drug dealers were trash. This network… wasn’t it built for Rhys? He almost felt bad about taking it over, except they were drug dealers, and deserved none of his sympathy. The scum of the earth, and ripe for Rhys’s picking.
+
+Mouse slowly nodded as she caught on. “Er, so… you’re going through this tunnel?”
+
+“Duh. Fastest way to their boss,” Rhys replied, crouching.
+
+“Should I go see if anyone else wants to join?”
+
+“Nah. I’ll be enough on my own.”
+
+“Vetoed.”
+
+Both Mouse and Rhys looked up, startled, as a cold voice sounded in the hollow room. Sable stalked toward them, the white bones the only part of her visible in the gloom, so that they almost seemed to float through the shadow. She glared at Rhys. “I’m coming.”
+
+Rhys shrugged. Why not? He wasn’t the only one who needed to level up. It wasn’t like he was the kind of alpha chad who thought he and only he could take on the dealers; he’d just thought that he wouldn’t need reinforcements for such a minor task. “Sure.”
+
+“M-me too!” Mouse insisted.
+
+Rhys nodded. “Good call. You can act as scout.” With that, he hopped down into the trap door, shifting his feet at the last second so he didn’t land on the dealers. Sable hopped down after him, silent and graceful as a cat, and Mouse followed with a squeak. Rhys dragged the two dealers in one hand, since he wanted to ask them some questions when they woke, and they set off down the tunnel.
+
+The tunnel was a simple thing. A one-way earthen path through the earth, it had an organic edge to it, the sides rounded and soft, as if some natural effect or creature had carved through the ground. It was a far cry from the mines Rhys had been imprisoned in, with their squared corners and timber reinforcements. These tunnels had no reinforcement at all, to the point Rhys began to suspect that the walls had been deliberately left soft so the criminals could bring it down on an intruder’s head at any moment. He swept his mana ahead of them, just in case they had planted such a booby trap, but sensed nothing. Rhys put a hand to his chin. Bast had been sent off to deal with an incursion of Impure Beasts. The sewers were full of excrement from high-Tier beasts held by the Empire. Could it be? Did the criminals, too, hold a beast, some kind of burrowing monster, and all the features of this tunnel were nothing but the convenience features associated with letting a burrowing monster create your tunnel network?
+
+Hold on, could that be why it ends at that random house near the gate, instead of inside the gate? Rhys considered for a second, then waved his hand. He could ask the criminals that when they woke up. For now, he simply sped up a little bit, excited to finally see these magical beasts he’d heard so much about. Magical beasts! They were a staple of magic worlds, and yet, he’d seen none so far… barring a certain tuxedo cat, but Az could turn into a man, and he wasn’t sure the cat counted as a ‘beast’ in the first place. He was a cat, after all, a domestic housecat, not a tiger or a lion. ‘Beast’ just didn’t feel right, when applied to something so tiny and adorable.
+
+They marched on through the tunnels in silence. At last, one of the criminals in Rhys’s grasp shifted, coming awake. Rhys gestured to the girls and sat the criminal up against the wall, crouching down to be eye level with him when he awoke. He put on a big grin and waited, deeply anticipating this moment. The time had come. It was time… to act like a trashy villain!

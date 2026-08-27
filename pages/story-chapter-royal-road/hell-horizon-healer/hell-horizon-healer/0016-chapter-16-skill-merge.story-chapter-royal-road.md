@@ -1,0 +1,169 @@
+---
+id: 6d936100-eef3-5f83-a725-fdd1997f7b8a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16 - Skill Merge"
+slug: 0016-chapter-16-skill-merge
+partOf: hell-horizon-healer
+position: 16
+ownLength: 1879
+unit: words
+publishedAt: 2026-06-14
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3539114/chapter-16-skill-merge"
+royalRoadId: "3539114"
+---
+
+The others were asleep or tending to their wounds by the low fire, but his tank was empty, and he refused to stay defenseless.
+
+He sat cross-legged on the damp stone, facing the roaring mist of the waterfall. He closed his eyes and brought up his three tools: Concentration, Controlled Breathing, and his newly gained Focus.
+
+First, he engaged Concentration. The thunderous crash of the falling water faded into a dull, distant thud. Next, he locked his chest into the strict, four-second cycle of Controlled Breathing. Finally, he used Focus. He narrowed his mind down until only the blue specs existed in front of him.
+
+He targeted a cluster of the humming blue static floating in the mist and took a deep, manual drag of air.
+
+The raw mana pulled down his windpipe. Easy, now, Jake thought, carefully guiding the mana down towards his container.
+
+This time, the energy didn't burn his lungs to pieces, but the blue sparks got stuck at the back of his throat. They vibrated wildly, refusing to move down into his body. It felt like trying to swallow dry sand.
+
+Jake choked, his eyes watering behind his lids, but he clamped his jaw and held the breath inside his chest. He refused to spit it out.
+
+The lungs can catch it, he realized, his teeth grinding as Pain Resistance dulled the irritation. But it isn't moving. My blood doesn't know how to carry it to the container.
+
+He turned his focus deeper inward, mapping the internal stress of his own heart with Tension He used Controlled Breathing to forcibly drag his heart rate down, slowing his pulse to a near-dead stop—one cold thud every few seconds.
+
+He held the compressed air, matching the frequency of the trapped mana to the sluggish, heavy beat of his blood. Slowly, the wild vibrations smoothed out. The jagged blue sparks finally dissolved through his lung tissue, trickling into his veins like cold water.
+
+A tiny drop of energy sloshed into his empty mana container.
+
+It worked, but it was incredibly tedious. The moment he exhaled, the remaining static scattered. He had to start the entire process over again.
+
+Jake spent the next three hours in the dark, manually engineering every single breath. He drew the raw static in, caught it with Focus, slowed his heart to dissolve it, and pumped it into his core. His throat turned raw. His chest throbbed from the constant, unnatural pressure, and his brain felt completely fried from the intense mental strain.
+
+By the fourth hour, his body began to automate the loop. His blood naturally opened up to receive the filtered energy. The transition from his lungs to his core turned into a smooth, continuous line.
+
+Breathe in mana, bring it to the core, absorb it.
+
+A sharp chime finally cut through his focus.
+
+[Skills Combined: Concentration + Controlled Breathing + Focus]
+
+[Skill Gained: Meditation (Active) — Lvl 1]
+
+Effect: Filters and synthesizes ambient environmental energy through the respiratory system to actively replenish the mana container. Passive mana regeneration is increased by 50% while stationary.Integrated Skills (Retained):ConcentrationControlled BreathingFocus
+
+Jake opened his eyes and let out a long, thin breath. The cold, heavy fatigue in his mind instantly began to lift as the blue static in the mist began flowing smoothly into his chest without a fight.
+
+Finally, he smiled.
+
+He noticed immediately that his mastery for the Skill had dropped from almost 25% straight down to 13%. Was that good, or had he shot himself in the foot? He had no idea.
+
+Regardless, more mana was cause for celebration.
+
+“What are you smiling for?” Sloane plopped down beside him. “It’s kind of creepy.”
+
+“I just unlocked something.”
+
+“What?” She looked at him as if he was some sort of strange creature. “Just from breathing and spitting?”
+
+“It’s called Meditation,” he said. “It allows me to regenerate mana faster.”
+
+She sat up straight. “Wait, that sounds pretty awesome. How do I do that?”
+
+Lyle and Susan had picked up on their conversation and shifted closer. They reminded him of naughty puppies trying to get closer in hopes of obtaining a morsel of his food.
+
+Jake wondered if he should tell them. His heart was telling him no—why should he? He had worked hard to get to where he was while the others wanted to benefit from it by doing nothing.
+
+However, it was his head that told him that the stronger his neighbors were, the more chances they had at surviving this place.
+
+Especially with goblins right on their doorstep.
+
+Sighing, he tried to put it into words. “The air is full of a faint static: mana. You have to isolate it, breathe it into your lungs, and then convert it into your mana container. Once it’s in, you need to refine it so that it doesn’t wreak havoc within.”
+
+Sloane shut her eyes, took a deep breath, and held it. A second later, as Lyle and Susan watched, she coughed, exhaled, and opened her eyes. “Nothing. What the hell do you mean static? I don’t feel anything. Also, what the hell is that description? You suck as a teacher.”
+
+Jake scratched his head. “How else am I meant to explain it?”
+
+Sloane got up with a groan. “Fine, wizard, keep your secrets.”
+
+“Says you,” Jake shot back.
+
+Regardless of if what he had said stuck with anyone, Sloane was quick to do her own thing. Maybe just knowing that mana existed in the air had helped her. She began swinging her sword at the edge of camp, her brows knit tight with the realisation that tonight may be her last.
+
+Her first swings were like any other, all steel and form. However, after the hundredth swing, something began to change.
+
+The mana swirled.
+
+***
+
+It was later now, and Jake felt the familiar weight of a breakthrough pressing against his mind as he used Minor Heal. It was the exact same prickle he had experienced right before unlocking Tension. Knowing a milestone was right on the other side of the wall, he kept casting.
+
+With Susan and Sloane fully healed, he moved onto his next target.
+
+Lyle sat by the edge of the rocks, staring blankly into the embers. Jake walked over and sat down beside him, his eyes tracking the jagged split across the man's hairline. One more heal will do it, he thought. My test subject. You better give me something good for this.
+
+“Thanks for looking out for me, Jake,” Lyle said.
+
+He offered his usual smile, but it looked forced this time. He tilted his head slightly, making it easier for Jake to reach the wound.
+
+Looking out for you... right.
+
+Jake raised his hand, the golden flame already flickering above his palm, but Lyle spoke up again, stopping him.
+
+“Fire,” the fireman muttered, shaking his head and wincing as the movement pulled at his ribs. “You know, it’s pretty obvious you’re the strongest one here. At first, I thought you just got lucky with a good trait. But I’ve been watching you the last few days. That night you had the first watch...” He swallowed hard, letting out a dry, hollow laugh. “Honestly, Jake, you scared me a bit. I’ve never seen that kind of intensity in a person before. It was like looking at a hungry beast.”
+
+“Well, I hadn’t eaten in three days,” Jake said flatly. “Technically I was, I suppose.”
+
+“Right,” Lyle said, his expression turning completely serious as he looked Jake in the eye. “But it’s not just talent. No, your hard work is frightening to witness. You bleed just to practice.” He clenched his right fist tight. “I want to learn how to control my fire. I want to be strong so that I no longer have to be protected. I want to be strong enough to protect the others, to fight for you when things go to hell.”
+
+Fight for… me?
+
+Jake scoffed, rolling his eyes as he looked away toward the waterfall. “First, you need the strength to protect yourself.”
+
+Lyle’s serious face broke, giving way to a small smile. “You’re right. So… will you help me?”
+
+Jake shifted his shoe, dragging his heel through to clear a straight line in the sand.
+
+“I’ll try. Now hold still.”
+
+[Minor Heal Milestone Reached: 25% Mastery]
+
+Effect: Mana cost reduced by 15%. Cell growth acceleration now targets deep tissue bruises, torn muscle fibers, and internal micro-tears.
+
+***
+
+It took hours of trying to explain to the fireman how to use mana, but Lyle finally learned how to control his fire, if barely. A small, flickering ball of flame formed in the palm of his hand. Jake watched closely, using Meditation to narrow all of his senses onto Lyle's hands. He tried to track the exact movement of the mana, hoping to steal the ability for himself.
+
+In the end, he deemed it impossible. At least for now.
+
+Lyle's mind was incredibly straightforward. To be kind, the man was an idiot, and he had no idea what to do with the fire now that he actually had command of it.
+
+Jake gave him an exercise. He told him to try and spin the flame, to make it bigger by feeding it with oxygen. The big man was confused at first, but he started to get the hang of it pretty quickly. In fact, he picked it up quicker than Jake had with his own skills.
+
+It weighed on Jake's mind a little.
+
+I shouldn’t have taught him in the first place.
+
+He watched as Lyle threw the fireball like a baseball. The flame struck a boulder, spluttering embers all over the wet stone. Jake scowled.
+
+He wasn't jealous at all.
+
+As for Edwin, he was obsessed with setting up the camp perimeter and securing it with traps. Edwin hadn’t stopped for a single second the moment they got here.
+
+With that done, Jake went out to hunt for another meal with Glenn and Susan. Neither of which were his first option. Glenn was… Glenn, and Susan was nothing but a loose cannon that was always one step away from death.
+
+He wanted Sloane. As annoying as she was, it was… comfortable being around her. But she had entered a sort of trance that he thought better of than to wake her up from.
+
+They didn't find another boar, just one of the horned rabbits. It was mostly peaceful, if he didn’t count the part where it tried to skewer him during the fight.
+
+He made a mental note that being turned into a human shish kebab was probably the worst way to die. At least the most humiliating. Jonathan had at least gone out in a comfy bed—of which by the way were incredibly comfortable. Far more comfortable than his own room’s bed.
+
+System beds?
+
+He was still pissed off at Sloane for, and definitely intended on getting his own back.
+
+After a scarce meal, a shower, and some more practice with Gutter-Tooth, the sun dipped below the horizon, casting the world in a deep, gorgeous orange.
+
+Not long after, more goblins arrived.
+
+Edwin had his hand on a rope made of twine. It travelled up a tree, crawled to another, and held up an enormous, thick log.
+
+This time they were ready.

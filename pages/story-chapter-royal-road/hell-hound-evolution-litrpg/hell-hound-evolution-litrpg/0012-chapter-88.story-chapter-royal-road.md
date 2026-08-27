@@ -1,0 +1,295 @@
+---
+id: e380ce69-539b-5500-a27c-d27ba259b061
+page-type-slug: story-chapter-royal-road
+title: "Chapter 88"
+slug: 0012-chapter-88
+partOf: hell-hound-evolution-litrpg
+position: 12
+ownLength: 3514
+unit: words
+publishedAt: 2026-02-20
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3074332/chapter-88"
+royalRoadId: "3074332"
+---
+
+“Do you… have a name for your strange sister?” Jessica asked.
+
+Iris shook her head. “She is just strange.”
+
+Jessica covered her mouth in thought. The Umarii had seemed certain that one of the female pups was a transmigrator. But how could they have known that in the first place? They did seem kind of magical and also said something about an oracle.
+
+Since Iris clearly wasn't from Earth, that meant it was either Lily or the strange sister, and based on Iris’s description of her, the strange one was certainly the prime candidate.
+
+But even so, how would that lead to Iris naming two of her brothers Ben and Jerry?
+
+“Could your strange sister talk? The way you can?”
+
+“No. My pack does not speak as your people do. And I only choose this path because of you.” Iris tilted her head. “Why these questions?”
+
+“It's just… I told you I had another life before waking up as Elva. In my world, Ben and Jerry’s is an ice cream brand.”
+
+Iris tilted her head left. “Ice cream?” Her head tilted right. “Brand?”
+
+“It's like, um… a cold food that's tasty. I doubt it exists in this world.”
+
+“What are you thinking?” Iris asked.
+
+“I think… maybe your sister is from Earth as well. That's my world.”
+
+“This is impossible.”
+
+“So is me being here.”
+
+Iris thought about it for a moment. “Is such a thing… common?”
+
+“I don't know. I assumed not, but…” Jessica shook her head and let out a breath. “I died when a meteor fell out of the sky and struck me. Then I ended up here. The thing is, it was happening all over the world; lots of people were dying that way in the weeks leading up to my death. The whole world was going crazy. Some people thought the government was testing a new weapon, others thought it was the apocalypse, some said aliens, and all kinds of weird cults were forming. So I never thought about it before, but maybe there are a bunch of people like me here.”
+
+“I… do not know these words…” Iris’s ears flattened in annoyance.
+
+“Right. Sorry.” Jessica sighed. It would have been difficult to explain even to someone who spoke English perfectly. “Let's see… a meteor is like… a rock that comes from space. Uh—space is above the sky, even higher. You see, we’re on a planet and—”
+
+“Explain later.” Iris huffed. “My sister nearly died once, but Father saved her.”
+
+“Really!?” Jessica asked. It was another connection to her situation.
+
+“But my sister was strange even before then. It did not change her. I do not believe she ever became someone else.”
+
+“I see…” Jessica then smiled. “Hey! When we’re ready to escape, maybe we can find them! Then, um… maybe we can figure out how to talk to her and just ask.”
+
+“No escape.”
+
+“What?”
+
+“We kill Valrok.”
+
+“Huh? But Iris, your sisters are out there. Don't you want to find them?”
+
+“I am very happy. But this changes nothing.”
+
+“Well, what's more important to you? Revenge or finding your—”
+
+“How will we do this?” Iris cut her off with a growl. “This world is big. My home… the vale… it would take many days to see all of it. But on the dragon, I saw the world is far bigger. The vale is nothing in size. We will not find them.”
+
+“But… it's not impossible.”
+
+“My father was killed.” Iris growled. “My mother… she is proud. She is… very good. Very high and great. But for days, I watched as they beat her. They made her small. Treated her lower than a rabbit! This… this cannot be forgotten. Cannot be… left unpaid…” She tensed her paws, claws digging into the dirt. “Do you understand? I cannot…”
+
+Jessica opened her mouth, then closed it again. How could she argue with that? “I… I understand.” Her gaze landed on the severed head of the colossus. Iris was right that finding her sisters out in the world might be impossible, but her plan of killing Valrok might be just as much so.
+
+But then again… was it really?
+
+Surely, trying to kill him today or even a few years from now might be impossible. But her aunt said that she had leveled up this last week faster than he had when he was her age…
+
+If it is true that Iris’s sisters were responsible for taking out the hunting party, then that means Valrok had already underestimated the Hell Hounds once, and therefore, he was likely underestimating Iris and Jessica as well.
+
+He wanted to make me strong to strengthen his reign, but I doubt he would want me to actually surpass him… Or maybe he thinks he can just control his daughter either way…
+
+Either way, running wouldn’t be the easy way out that it might seem. First of all, it would be difficult to secure Iris on the Direwing’s back. She had wings of her own, but they would only last so long. Maybe Iris could just glide down the mountain, then they could continue on foot together. But even then, how long before they were caught?
+
+A shadow rushed down the slope. Jessica tensed but relaxed slightly when she saw it was her aunt.
+
+“Elva. Come with me.”
+
+“What’s going on?” Jessica asked.
+
+“I’ll explain, but… There is much anger among our people. They feel we have lost too many people for too little gain. The hunting party being wiped out has made it all the worse.”
+
+“What’s that mean for Iris?” Jessica asked. That is what worried her more than anything.
+
+“Elva. At the rate things are going, I fear they will turn against your father. What was once quiet is now being spoken aloud, and your father is too foolish to know how to handle such things. If he is to fall, what’s below him falls as well.”
+
+“W-Wait. What does that mean?”
+
+Her aunt met her eyes. “You know what it means, Elva. You, me, and Iris will be in danger.”
+
+She gaped. “You mean they’ll kill us!?”
+
+“Those who wish to replace your father will see us as a threat. The Wyrmscar name will die completely. Iris will be sold or simply killed out of superstition.”
+
+“Then we need to run.”
+
+“Run? Elva, don’t speak as a coward now. We need to bandage their faith in your father, and right now there is only one way to do that.” She pointed at the severed head of the colossus. “Put on your mask. Take your trophy, and hold it with pride.”
+
+“W-Whaaa!?” Jessica gaped. “What am I supposed to do? It’s his fault; how am I supposed to—”
+
+Her aunt then shouted. “We must show them what the price we paid has bought us! Friends, fellow warriors, brothers, sisters, and fathers have died. It is always true of our people, but if they think there was no point. Just some gold and a present for his daughter. They will never accept it! So we must show them; let them see what the future holds if they trust in your father a little longer—and in you.” She took off her mask as she stepped forward, looking Jessica in her eyes, and placed a firm hand on her shoulder, squeezing it.
+
+She was a strong woman, her grip tight, palms callused, arms and shoulders broad for a woman. A faint scar line ran upward from one eyebrow and disappeared below her hairline.
+
+“I know you don’t care for power. You inherited your father’s strength but not his ambition… and that is fine. But battles are not always chosen, yet we must rise to meet them. If you can’t do it for your father, then do it for Iris. She is the one in the most danger right now.”
+
+“But what exactly do you expect me to do?”
+
+“Show the strength that I’ve seen in you all along. Show that you can do what nobody else can. Not because the System granted you a skill, or because of whose daughter you are. But because you are worthy.”
+
+“What if I can’t?”
+
+“Then it will be the same result as if you did not try. Now we must go. Your father is no doubt only fanning the flames—Scaly Bastard take him!”
+
+Jessica did as her aunt asked. With shaking hands, she put on her mask and then picked up the head. She looked down at Iris. “Come on, girl,” she said in a low voice. She felt they would have been better off staying in the forest—she’d have much rather been hunting monsters with Iris than dealing with tribal politics.
+
+“You said you can upgrade your class?” her aunt asked as she led the way up the slope.
+
+“Y-Yeah. I have three options. I haven’t had a chance to think about which I wanted.”
+
+“You have two minutes. Choose.”
+
+“What? Am I going to have to fight someone?”
+
+“Perhaps. It is best to be prepared for it.”
+
+Jessica glanced down at Iris. The Hell Hound was her partner, and none of the hunts would have succeeded as they had without Iris’s leadership.
+
+“Duelist,” said Iris’s voice in her head. Jessica almost opened her mouth to respond, briefly forgetting that she wasn’t supposed to be able to talk to Iris. “It fits well with how we already fight. You have weak attunement, so Adept is wrong. Vanguard would slow you down.”
+
+Jessica nodded, pulling up the system screen.
+
+[You have selected Spear Duelist.]
+
+[Confirm?]
+
+[Yes] < [No]
+
+She selected “yes.”
+
+[You have learned a new active skill!]
+
+Blink Line
+
+A rapid repositioning movement followed by an instantaneous thrust. Can be chained with other applicable active spear skills.
+
+[You have learned a new active skill!]
+
+Nerve Strike
+
+A precise strike that targets nerves and pressure points that will briefly stagger your opponent.
+
+[You have learned a new active skill!]
+
+Meteor Drop
+
+Leap high in the air towards your opponent, then dive back down for a damaging attack.
+
+[You have learned a new passive skill!]
+
+Footwork
+
+You have improved balance, quicker, more precise foot movements, and less stamina drain when you dodge or press forward!
+
+[Class synergy between Wyrmscar Descendant and Spear Duelist has unlocked a unique trait!]
+
+[You have learned a new unique trait!]
+
+Bonded Assault
+
+When you combo attacks with one of your bonded monsters, you both receive bonuses to damage and minor stamina regeneration!
+
+Jessica paused as all the abilities popped up in front of her face. “Wow…”
+
+When she got the rider and spear fighter classes, they only came with one or two extra abilities. This was completely different.
+
+Her aunt turned towards her. “The System rewards those who are worthy. But the question is, can you show that you have control over her?”
+
+Jessica looked down to the pup, almost as if asking for permission.
+
+Iris’s voice came into her head. “I will play along. But don't forget, I am no slave.”
+
+Jessica resisted the urge to nod at Iris and said, “She will listen. But I don’t know what I’m supposed to do exactly.”
+
+“Start by straightening your shoulders. And keep your head high.”
+
+Jessica flinched as she then forced herself into a better posture. It felt awkward, keeping a conscious effort to not slouch, especially with the massive tree-man head in her hands.
+
+“As for specifics… I do not know. I’ll try to calm the crowd, but be ready to show your bravery when it is required.”
+
+As they came up the slope and onto the plateau above, Jessica could hear the echo of shouts and argument bouncing at them from off the surrounding mountain sides. Her aunt led her to a long rope bridge that led to the central plateau, and the arguing only got louder.
+
+“Fools!” Valrok’s voice roared above all. “Do you think strength is forged without blood? Do you think the world bends because you wish it to?”
+
+“Forty warriors are dead, Valrok!” another voice broke out of the crowd. As Jessica came to the end of the bridge she saw it was the ‘Captain’ who had originally argued over his daughter taking Iris in the first place. “And for what? A pittance of gold and a new pet for your worthless daughter?” Jessica felt a stone sink through her stomach, not just at those words but the shouts of agreement that followed.
+
+Valrok was standing on the much smaller, raised plateau that overlooked the central plateau, where he would usually sit during celebrations. There was a flash of purple light as he summoned his spear and pointed it down towards the captain, who stood at the front of the mob below. “You dare put my daughter’s name in your mouth?”
+
+“I dared to believe in you when my son followed you to his grave!”
+
+Many of the crowd roared in agreement at this.
+
+Valrok lifted his spear, his chest puffing as some new defense or threat was soon to come out. But her aunt rushed up the steps and shouted over everything. “You all dare to not see a blessing of the Almighty when it stands before you!” She took the stage, grabbing the center of attention away from Valrok. She placed a hand on his large, rounded bicep—she was bulky for a woman herself, but her hand looked like a child’s compared to the size of her brother. Then, in a low voice that only Valrok and just barely Jessica could hear, she said, “Lower your damn spear and shut your mouth, or may the Scaly Bastard take you.”
+
+Valrok’s mask turned down to her, but then his arm lowered.
+
+Her aunt then stepped forward, planting her feet at the edge of the platform and spreading her arms wide. “The will of the Almighty is clear to those with open eyes,” she shouted, her voice carrying across the plateau, “and it does not whisper. It demands.”
+
+The crowd lowered to a murmur. Faces turned. The captain, however, clenched his fists as his eyes flicked toward the massive head in Jessica’s hands.
+
+Jessica was glad for the mask hiding her expression, because her teeth were chattering behind it. As she stepped up and came to her aunt’s side, she forcibly tensed her muscles to stop her knees from shaking. Below her were a mix of masked warriors and regular tribesmen and women. Some of them, if not a majority of them, wanted to see her dead.
+
+Yet, her aunt seemed to be quieting the crowd at least somewhat. The massive head in Jessica’s arms was no doubt helping with that, if not simply for the spectacle of it. And as Iris padded over and sat on her haunches at Jessica’s side, she felt like maybe they could make it out of this.
+
+“You say forty warriors are dead,” her aunt continued, sweeping one arm toward the crowd. “And you are right. We bled. We always bleed. But blood without purpose is waste. Blood that buys the future is honor.”
+
+Jessica’s eyes scanned through the crowd, noticing some less hostile postures. People leaned towards each other, nodding in quiet conversation that murmured over the plateau. However, when her gaze flicked back to the captain, Jessica knew this wasn’t over.
+
+The man gritted his teeth, fist tight as he looked over his shoulder, realizing his support was wavering. He stepped forward. “Is this a joke? What is that thing she carries?”
+
+“The result of Elva’s hunt,” the aunt answered sharply.
+
+“Do you expect us to believe that?” He let out a bitter laugh, turning towards the crowd and gesturing up to Jessica. “This is the girl who shakes with a spear in her hands. She cries on the back of a Direwing, not to mention when she fell from one! If the Almighty meant to show us a sign, it was clear when he denied her the skies! Are we to trust our future to one nearly felled by gravity alone? HA!” Some chuckles spread through the crowd at his declaration.
+
+Valrok muttered, “Can I kill this bastard now?”
+
+Her aunt murmured back so only he could hear. “If you end this with violence, it will mean spears in your back, brother. They already know you are strong.”
+
+Spears in the back? So that could actually work? quipped some detached part of Jessica in the back of her head.
+
+The captain turned back toward the stage. “You take us for fools! Elva did not kill that monster, and even if she did, it would only be because one of you weakened it first!”
+
+“We were in the skies when she felled the colossus,” her aunt shot back. “She and her Hell Hound took down the beast. If you don’t believe me, those with a high level in Analyze, check her stats… I see some of you already have.”
+
+Jessica noticed certain masked tribe members suddenly getting crowded by their neighbors as they pointed towards Jessica and explained.
+
+“It’s obviously a trick!” the captain insisted. “She goes from the weakest in her class to suddenly… this?”
+
+“It’s no trick. What you are witnessing is the power of the Wyrmscar Legacy,” her aunt insisted, then her voice raised into a dramatic speech. “Do you have the memory of a Puffstork? Well I don’t, and I remember the day, years before my System integration, when Valrok returned with a young dragon. He was only fifteen years old at the time, yet I knew as well as most of you that we were witnessing a turn for our tribe. I knew that it was the blessing of the Almighty, and he had chosen my brother as our champion! Without Valrok, the Umarii scum would have claimed the Bloody Peaks—our home—years ago! It would have been our blood that poured down the mountainside, and our children who remained would not know the honor of the Bloody Peaks Tribe!”
+
+A low growl of agreement rolled through the plateau. Even those who had been shouting before now stood straighter.
+
+Her aunt pressed on, seizing the moment. “You did not know Valrok would become what he is today. You believed. You watched, you waited, and when he proved himself, you followed.” She stabbed a finger toward Jessica. “This is the same moment. The same turning. Mark my words—Elva Wyrmscar will be the champion of the next generation!”Jessica tensed, grimacing behind her mask as her aunt pointed, and every eye turned towards her at once. She was standing there, giant head held against her stomach, trying her best not to let her knees shake.
+
+Uh… should I wave? Bow? Say something? Raise the fucking head while they cheer!? I am so not built for public speaking!
+
+Iris, meanwhile, observed the crowd calmly with her steady gaze. “Jessica. Show strength.”
+
+Easy for you to say! How do I even do… that…?
+
+Her thoughts trailed off as Iris stood from her haunches and stepped forward, shifting one shoulder as a wing sprouted, then the other. She let both Aether Wings bloom to their full size as she looked over the crowed and the tribe began to gasp and point in wonder.
+
+Okay! Guess I’m raising the head!
+
+Jessica found a rigid plate of bark on its forehead to hook her fingers around, and then raised it into the air.
+
+The murmuring gasps then rose into steady shouts and cheers. Warriors raising their spears and swords into the air while cheering the loudest.
+
+“Ha! That is my daughter!” Valrok boasted proudly, stomping across the stage as he place and big hand on Jessica’s back. He towered over both Jessica and Iris, his sister remaining where she had stood with folded arms, her goofy grinning mask watching them. “Those who doubt the presence of a true warrior! See my daughter now—Elva Wyrmscar! The tamer of the Hell Hound and the future of our tribe!” His voice boomed over the mountains, rising above the ever-growing cheers.
+
+Jessica’s grimace under her mask only widened. She wished she found a better grip on the head; her hand was getting tired, and it was heavy!
+
+Is it okay to lower it now?
+
+Then Valrok’s spear spun in his grip and he pointed it forward, casting its blade out over the crowd as its tip crackled with energy. “Let any who still doubt step forward!” he roared. “Let them test her steel and spirit before the eyes of the Bloody Peaks and the Almighty himself!”
+
+For a heartbeat, there was silence.
+
+Wait… what? Wh-WHAT!?
+
+Then the plateau exploded.
+
+Warriors surged toward the front, shoving and shouting over one another, spears and blades raised high. Some beat their fists against their chests, howling with excitement and battle-hunger. The crowd roared with cheers as anyone not aiming to take the challenge cleared to its edge to make room for an arena.
+
+Ooooohhh…. Fuck…
+
+Jessica let the head lower until she cradled it against her chest. She looked amongst the bloodthirsty tribesmen below, and then to her aunt for help.
+
+Her aunt merely tilted her head and shrugged.
+
+Read Next Chapter Now!

@@ -1,0 +1,155 @@
+---
+id: 49a4bf09-a50a-5027-96b4-2fc6ec7f60b7
+page-type-slug: story-chapter-royal-road
+title: "236. Following the Trails"
+slug: 0236-236-following-the-trails
+partOf: god-of-trash
+position: 236
+ownLength: 2298
+unit: words
+publishedAt: 2025-11-17
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2769966/236-following-the-trails"
+royalRoadId: "2769966"
+---
+
+The trails twisted around the town, overlapping and passing through it many times. Rhys stood back a ways, atop a nearby hill, and gazed down at the town from above. It was absolutely seething with cursed energy from this vantage point, its streets squirming with the stuff, a thousand worm trails curling through the town. From up here, though, he could see where the lines ended, and where they kept coalescing to: the cellars and sewers around town. Repeatedly, the lines vanished underground, dead-ending at some entrance to the depths or another.
+
+Why do I have the sinking feeling I know who this is? Rhys thought, then shook his head and leaped down, bounding down the snowy hill towards the nearest cellar. It was time to meet this mystery figure.
+
+The door to the cellar was locked, but all he had to do was introduce some impurities into the metal, and the lock snapped off. He slid the door open and dropped into the darkness, letting the door close behind him. It was a long drop. At first, he fell through a tunnel, but then the walls widened, and he found himself in a large ice cave, surrounded by medicinal herbs slowly freeze-drying in the cold. The walls were ribbed and cavernous, with icicles dripping from the ceiling and plenty of irregular, protruding shapes. The floor was smooth, as were the walls for the first six meters or so, but the rest was very natural. This cellar certainly looked as though it had started life as a natural ice cave, then been transformed into a cellar later.
+
+He walked deeper into the cave, looking around as he went. As it was an adapted natural ice cave, there were plenty of narrow passages that wandered off through the ice, most of them tiny and narrow, though others were wide enough for someone his size to walk through them. Only the main passage was big enough for the larger northerners to fit. In a few places, light filtered down through the thinner spots in the ice overhead, or through outright gaps in the ice, allowing him to enjoy the cave’s blue and white shades with his eyes as well as enjoying its interesting shape with his mana senses.
+
+The anxiety twisting in the back of his mind from using his cursed-energy sense was far less enjoyable. The ice is thin enough to let light through? What if it falls, and the weight of it falling shakes the whole cave, and the whole cave collapses on me? Thoughts like that looped nonstop in his head, even though, as a Tier 4, the whole cave could collapse on him, and the only problem would be that he’d gotten a little wetter and colder than he’d been moments ago. It didn’t stop the cursed-sense’s anxiety from continuing to wiggle around in his head and come up with horrible situations for him, but it did mean that he could mostly dismiss them rationally, even if he kept feeling anxious about it anyways.
+
+There was plenty of cursed energy down here. Whatever it was that he was following, it had been helping itself to the herbs, and he watched the cursed energy visit quite a few different herb-drying platforms as he walked. The deeper he went into the cellar, the narrower the cave became, until at last he was forced  to bend down to keep following the trail of the cursed energy. The ice tunnel narrowed and narrowed. Rhys bent lower and lower, and when he couldn’t bend any lower, he shoved his way through, plowing through the ice with his shoulders. He didn’t have to do that long before the cave opened up again, revealing, this time, carcasses and half-prepared meats, clearly belonging to some kind of magical butcher. All the carcasses emanated powerful mana auras, and Rhys could tell, just looking at them, that they’d generate great benefits for whoever ate them. He made a mental note to poke around and see where these powerful-feeling meats were being sold and purchase himself a nice dinner later, then pressed on, further into the caves.
+
+He wasn’t here to steal, and so he left all the merchandise where it was, even the stuff that interested him. Though, specifically in the case of the meat, it was less a case of him not wanting to steal it, and more a case of him not wanting to waste the time to prepare it. He had plenty of gold, and he wasn’t so worried about spending the Empire’s money in the northern regions; they weren’t looking for any traitors-slash-recent-Empire-destroyers the way the Alliance was, and as long as they took gold, they’d accept the Empire’s coins. He’d rather pay someone else to do all the hard work, rather than steal some raw meat and do all the hard work of preparing it himself. Especially since there was magic in the meat, which upgraded the difficulty from ‘cooking’ (already very difficult for a no-lifer like Rhys who lived off fast food and delivery pizza) to ‘alchemy cooking,’ where a misstep could lead to an impurity-laden, poisonous meal.
+
+Sure, he’d had a stint as a soda-maker and fry-and-chip cook, but that was trash cooking. It was junk food, and all he really had to do was stir together syrup and water (soda) or toss some potatoes in the frier (fries and chips). He was capable of stirring and tossing in his first life, too. Cooking a steak to juicy perfection, on the other hand? It might as well be an arcane art, as far as Rhys was concerned.
+
+Not that that’s a problem for me, but I’d rather enjoy a delicious meal than waste some high-quality meat to mess it up and make nasty poison slop. He could make nasty poison slop with real poisons or cheap ingredients just as well, so there was no point destroying some perfectly good meat to do it. Better to leave that to the experts, kick his feet up, and enjoy a good meal.
+
+He left the meat behind and wandered on, ducking through the ice caverns as he followed after the cursed energy trail. Daran was startlingly silent the whole time. He wore a contemplative expression and stared dead ahead, watching the trail along with Rhys, but offering nothing. For the first time, Rhys felt a kind of comradery with the man, a kind of understanding and agreement that he rarely felt toward Daran. He nodded to himself. Having the Demon King as a silent companion isn’t so bad.
+
+The cursed energy grew thicker, fresher. The ice caves were narrow, and subsequently, empty, barely large enough for Rhys. The floor was relatively unmarked, the walls relatively clean. Rhys’s anxiety spiked alongside the thicker energy, and he shut down his cursed energy senses. He was close enough now that it didn’t matter. Whatever was at the end of this trail was just ahead.
+
+The ice cave narrowed, then gaped, a dark chamber up ahead. Rhys squeezed through the narrow part and stepped out onto something soft and squishy. His feet stuck to the ground, and he came to a halt because he had not other option.
+
+“Hello.” A neutral voice echoed from somewhere uncomfortably nearby, as if they were standing just behind him. Rhys turned, but there was nothing there. His mana senses detected nothing, and he really didn’t want to turn his cursed energy senses on again when the dark cave with the soft sticky floor was already giving him the creepy-crawlies.
+
+“Hello,” he replied, because it seemed like the nice thing to do.
+
+“Have you come to find me?” the voice asked, creeping closer, closer.
+
+“I think so. Do you know a Lord Ravin?”
+
+There was a chuckle. The voice was a whisper in his ear at this point, almost ASMR-like, and just like most ASMR, it was giving him the shivers in the worst way, wildly unpleasant. “Lord Raaaaavin. I remember a Lord Ravin.”
+
+“Don’t kill the messenger, but he’s looking for someone to come help him out of a bad place.”
+
+“I like people in bad places.” There was a pause. “I like you.”
+
+“Oh yeah, no kidding, I know I’m in a bad place right now,” Rhys assured the voice.
+
+There was a tinkling giggle. He felt the faintest of touches on the back of his neck, though he still couldn’t sense anything in his mana. “And you came anyways?”
+
+“I’m kinda dumb. Also, Lord Ravin has some information I need, so like, if you’re going to eat him or something, at least let me get my answers first.”
+
+“Eat him? I would never,” the voice said in a mild, almost smiling voice that sounded like it would probably eat him.
+
+Rhys took a deep breath. “Listen, this is a total shot in the dark.”
+
+“Hmm?”
+
+“Do you have a daughter with bony spider limbs?”
+
+The lights suddenly came on, so suddenly that Rhys was almost stunned. The neutral figure whose gender Rhys couldn’t guess stood before him in the center of a spider web. He—because he had to be a man, if he’d fathered Sable—smiled at Rhys. “I do. Do you know her?”
+
+“Yeah. She helped me overthrow a country.”
+
+The man clapped slowly and very deliberately. Everything about him was sedate and deliberate, in a way that reminded Rhys of Grave, but more languid; something like the midpoint between Grave and Az. Grave’s deliberateness, but Az’s laziness. “Bravo. A woman after my own heart.”
+
+Rhys bowed. “I’m honored to stand in the presence of a Remnant Weapon. This is only the second time I’ve met one.”
+
+“You’ve met another Remnant Weapon and survived?”
+
+“Straw took me in as a student. That is—the Strawman.”
+
+The man smiled slow and wide, and he nodded once, twice. “The Strawman. And there he is. Hello, old friend.”
+
+Rhys glanced down. The little doll had climbed out of his robes and was staring intently at the man, its eyes locked on him. It reminded him a little of when a dog saw someone it knew after a long, long time, and was trying to remember if it knew them or not.
+
+“But only a part of him. A pity, such a pity.” The man shook his head, then looked at Rhys. “Do you know my name?”
+
+“No. Sable never mentioned it. She called you ‘the Abhorrent Beast,’ but that was all.”
+
+“Mmm. That is what my master called me—”
+
+“Master? As if they ever called me that! This cheeky…” Daran muttered under his breath.
+
+“—but I prefer to be called Sid. Short for Obsidian.”
+
+Obsidian, then Sable? I’m sensing a theme. “Nice to meet you, Sid.”
+
+“Do you want to know why they call me the Abhorrent Beast?” Sid asked, tilting his head. The shadows suddenly grew dark and deep, and the web beneath them stood out in sharp relief.
+
+“Not really, no,” Rhys lied. He did want to know, but he also liked having all his limbs, and he felt like he might not escape this intact if he asked.
+
+The light returned to normal. Sid’s eyes lit up. “Oh, oh! This one is smart, very smart. Unless my daughter told you not to?”
+
+“No, I’m just… I’ve got a strong survival instinct.”
+
+Sid chuckled under his breath, highly amused. “Good. Hold on to that. Otherwise you might make foolish decisions.”
+
+“Like Lord Ravin?”
+
+Sid smiled.
+
+“Look, just let me get my information. I don’t care what you do to him afterward,” Rhys said quickly, putting his hands up.
+
+“Mmm. I can be patient.”
+
+“Thank the gods, in any case.”
+
+“Not many people say that in relation to me.”
+
+Rhys waved his hand. “The other two people he asked me to find were his jilted ex-lovers. I’m just glad you weren’t angry about him cheating on you.”
+
+Sid’s smile turned strange and predatory, and Rhys felt like he really didn’t want to know what that meant. “Yes, yes. I’ll come with you. I’ll come.”
+
+He moved toward Rhys, and Rhys instinctively jerked away. Something about the way he moved oozed predatory instincts and hunger. In person, his long, straight black hair was black, like ink, like a black widow spider, blacker than black, so black it sucked in the light, and the robes he wore weren’t much brighter. They were slim and tight, close to his body, though the skirt was long and trailed after him, with long, many-fingered tails. If Rhys looked too close, the skirt started to look like many, many churning legs—he looked away. That’s not a spider. A spider is less dangerous.
+
+Sid slowed. He tilted his head. “Do you fear me?”
+
+Once more, the sense of danger peaked, and Rhys felt like it deeply mattered what he answered, like answering this wrong might be deadly. He thought for a second, then shook his head. “Not any more than is reasonable.”
+
+“That’s quite a lot,” Sid said, almost contemplatively.
+
+“Maybe not that much.”
+
+“Then that’s foolish.”
+
+“Yeah, I get that a lot.”
+
+Sid laughed suddenly, and the danger vanished. “I like you. I know why Sable likes you.”
+
+Rhys smiled back. “You know, she’s very quiet. I… didn’t really expect you to be this chatty.”
+
+“Mmm. Takes after her mother.”
+
+“Her mother?”
+
+Sid smiled that dangerous smile, and Rhys felt like his morals might get challenged in a severe way if he pressed Sid on the answer, so he waved his hand. “No, no, never mind. Shall we go see Lord Ravin?”
+
+“Yes, let’s.”
+
+“Do you mind if I tell my friends I found you? We split up, looking for you.”
+
+“No, no. Let’s go meet your friends.”
+
+Rhys paused. “Together?”
+
+“Mmm?”
+
+He coughed. Yep, that’s another thing I shouldn’t press him on. “Right, um. Let’s go!”

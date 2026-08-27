@@ -1,0 +1,161 @@
+---
+id: 0f617504-ae22-54b3-95c4-7515f643ae50
+page-type-slug: story-chapter-royal-road
+title: "Chapter 837 - The boys remain undefeated"
+slug: 0164-chapter-837-the-boys-remain-undefeated
+partOf: hell-difficulty-tutorial
+position: 164
+ownLength: 2471
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3609561/chapter-837-the-boys-remain-undefeated"
+royalRoadId: "3609561"
+---
+
+I catch Weslin looking at me, but being the good boy that I am, I keep quiet and sit in my corner under my tree just as Lady Sandra the Cockroach ordered. The only thing I might be missing are snacks, in the form of crayons, to nibble on. I wonder which color tastes the best.
+
+Of course, Myrra won't leave me alone. She is already there, sitting behind me, and even though I don't have very long hair, she begins attempting to tie mine into a braid, or perhaps a set of them. Whatever it is she’s doing.
+
+It feels weirdly relaxing, almost like a sort of head massage as she tugs on my hair and weaves it together. So I just stay quiet and go over my status, checking over the passive that’s become my new favorite to replace my subdermal combustion.
+
+Sometimes I find myself wondering how many attendees actually get access to low pristine passives. I could have three of them if I wanted. It wasn’t that long ago that I was happy to have just one, but now it feels common and almost like it isn't enough. I want more and greater rewards. There are attendees that would cry bloody tears if they heard my thoughts.
+
+Screw them.
+
+I risked my life too many times to get where I am. I deserve to enjoy the fruits of my labor before some sugar-hungry ants come in to steal a good part of it.
+
+Shaking my head again to shake away the distractions, I then immediately get distracted as I glance at this place that can only be the twelfth floor of Beyond. A singular thought forms in my head.
+
+Then I quickly go and check the exploration rankings.
+
+Exploration Leaders
+
+1. Nathaniel Gwyn (12th Floor)
+
+2. Morwag (12th Floor)
+
+3. Brichant (12th Floor)
+
+I pause there and look towards Brich. Did that guy use his only chance to change his tutorial alias just to change it to this? Wait… I thought you could change your alias, but only to your real name.
+
+WAIT, WAIT… Did… Is that what he asked Diligence to help him with when they were going over his rewards? Did he unlock some new "change-your-alias-to-whatever-silly-name-you-want" token?
+
+What a… out of nowhere, I weirdly find myself thinking better of Brich. I can only find this sort of silly behaviour endearing. What a guy.
+
+Then I continue to go through the rankings.
+
+4. Weslin Kharn (12th Floor)
+
+5. Savant (12th Floor)
+
+6. Christoph (7th Floor)
+
+7. Adrian (6th Floor)
+
+8. Nyssa Volare (6th Floor)
+
+9. Voss (5th Floor)
+
+10. Orion (5th Floor)
+
+…
+
+And the rankings continue on through hundreds and thousands of more names, but I don't care about those.
+
+The boys remain undefeated.
+
+The dhampir threatening to erase all of Beyond was stopped thanks to us, and now we’ve made it t to a deeper floor of Beyond than possibly some of the Rulers.
+
+This is going to cause a lot of commotion in Beyond. Hell, I bet that once we’re allowed to leave, we’ll be visited by a certain black ant, provided he hasn't already tried to force his way in. But so far, that doesn't seem to be happening, so maybe Lissandra and the wyvern did something? The wyvern, whose revival ceremony the Rulers rushed so it could get back to fighting Liss to stop her from messing with Beyond's main defensive array, is now just lying there.
+
+Many, many questions swirl in my head, and I am sure some of them will be answered if I do what Lissandra told me to do, but there’ll be time for that later.
+
+Myrra tugs on my hair harder, causing me to lose my balance and lean back a bit as I narrow my eyes at her.
+
+“Sorry! You’re just so delicate and weak!” she says, tapping my head before continuing to mess with my hair.
+
+Meanwhile, I finally look at the four healing passives I’ve taken a liking to.
+
+Blood-thermal Restoration (Low Pristine) - The user’s blood becomes infused with a passive combustion frequency that purges infections and other negative effects. Upon injury, the blood at the site of a wound reacts by triggering a localized heat burst that forges replacement tissue and bone, ensuring the user's physical integrity is never compromised for more than a moment.
+
+This one could be interesting, mainly because I have no idea how it might react with my Empyrean Ichor. I don't think it would change the ichor, I think my trait is probably at a higher tier than this sort of passive, even if that trait hasn’t been strengthened much. Mana dense ichor could clash with thermal energy spread through my blood, or the two could somehow work together, which might allow me to try to improve my [Weave] by weaving mana with thermal energy.
+
+Or, perhaps, my ichor would prevent that sort of healing from working. I have no illusions about the fact that I could easily fuck things up this way. The latest example of how much certain changes can cost is the body that Blackie now finds himself controlling: a demon champion with some sort of kinetic reflection trait. While alive, that demon was probably fighting constantly to control it, otherwise, just a simple bump would have killed any other demons around him.
+
+Well... he was a demon, so maybe he didn't control it at all.
+
+The second passive I like is:
+
+Heat Resonance Restoration (Low Pristine) - When the user stands in an area of high heat or channels heat, resonance spreads through their body, triggering healing that scales with temperature. This resonance allows the user to heal from severe injuries so long as there is a thermal source nearby to jumpstart the heart and regenerate the body.
+
+This one mostly seems like a simple upgrade to my current mid arcane passive. I noticed it before, but sometimes the descriptions make passives sound more similar than they are, just allowing you to pick up on certain changes or weaknesses. The main thing to look at while choosing a passive remains the rarity. It is honestly a bit like an item in a shop having a higher price tag. Though in this case, it doesn't just mean some corporation is better at marketing cheap crap to you at a high price.
+
+At least, that is what I’m hoping. I also really like the part about “resonance”. I could work with that.
+
+The last sentence of the passive is also interesting, and it’s making me wonder if it might be possible for me to be near death and unconscious while some random nearby volcano starts healing me, without requiring me to generate heat from my Ignition Heart.
+
+Well, with my Constitution, maybe just a simple fireplace would be enough. That could be useful. At least if my hard to replace blood doesn’t mess with it.
+
+It also seems to reward pyromaniacs, but that’s just the usual system nonsense for you.
+
+The third option is:
+
+Kinetic-Thermal Stitch (Low Pristine) - The user’s body converts the friction of movement and the impact of incoming attacks into focused thermal combustions. Each hit taken creates a flash of intense heat that "welds" the user’s body back together and heals it, making them harder to kill the more they’re attacked.
+
+This one is interesting. It likely means the passive would activate only under friction from incoming attacks, so does that mean there would be no more regeneration outside of combat?
+
+As if. I’ve already thought of multiple ways to cheat it. The passive sounds weak since it only works based on friction and the impact of incoming attacks, but there are no specified types of attacks, meaning mana, heat, primordial energies, and everything else should be included. The fact that it’s restricted to being so reactive also likely means the burst of healing is quite powerful.
+
+I could attack myself, hoping it counts toward activating the passive, even if there is a chance it won't. After all, I have to ask, would the system classify my own actions as an attack? I think it might. And, hell, reading the description, even a quick burst of movement could activate it. It is an interesting one.
+
+Lastly, we have this one.
+
+Volcanic Endoskeleton Array (Low Pristine) - The user’s internal temperature is raised to volcanic levels by using mana and primordial thermal energy. This extreme heat creates a sterile internal environment where no foreign particles can survive, while simultaneously maintaining the user’s regenerative factors in a permanent state of overdrive.
+
+Interesting, but it seems restrictive in a similar way to the kinetic reflection trait Blackie’s been taking over, even if I could take that heat and use it. But I already have Ignition Heart for that. I just like it because of the description talking about a permanent rise in regeneration. Maybe there is a chance of modifying one of my traits to do something similar.
+
+Taking a break, I lean back and ask Myrra after looking into her golden eyes, “Why does Lissandra have a pet wyvern now? Didn't she kill it? How are they friends now?”
+
+The lynthari nods. “She did! And she almost killed it again, but then the wyvern started talking, and they made some sort of deal. I don't know, she never bothers to explain things. She just said that together they somewhat spatially locked the 12th floor away from the other Beyond floors.”
+
+“Ehm, isn't that a big deal?”
+
+“Is it? Feral one, I might have lost my ability to recognize common sense after watching what Master Lissandra does. I mean, she does things so easily that I think, ‘Oh, maybe all Absolutes can do that!’ And then the Ruler of Envy appears, I blink, and the Ruler of Envy is running away with his tail between his legs.”
+
+“I feel you,” I say, watching as Lissandra takes a few steps, coming to a stop in front of Savant.
+
+The Cockroach simply reaches out her hand and says, “The Sword.”
+
+Savant doesn't even try the well tested excuse of: “I don't have it anymore”, or “my dog ate it.” Instead, he simply pulls the Sword of Aeons out of his arm to hand it to her without a word.
+
+For a few moments, Lissandra's face softens just a tiny bit. “I still remember the day I gifted the original to Tristan.”
+
+She moves her hands, taking the sword in a way that seems like she might break it, just snapping it like some old dried up branch, but she stops herself. Lissandra then tilts her hands, making it slide down and fall to the ground with a loud thump. The sword doesn't even bounce, it just lies there as if glued in place.
+
+“Little pup, what should I do with it?” she asks uncharacteristically, still looking at the weapon.
+
+“Savi’s not a bad guy,” I say simply.
+
+Lissandra looks up at the aforementioned guy, and I’m sure she can read him and his abilities like an open book. She then waves her hand, and drifting from one of Savant’s bags, a metal shard with a mana stone in the middle flies out and thumps into her open hands, at which point she crushes it. A tiny bit of her mana flares, and the dust of the crushed metal shard rains down on the sword.
+
+After that, she doesn’t look at it anymore, and Savi seems to be happy, but were I in his place, I would be careful. If the sword ends up being too good, the Rulers will shamelessly confiscate it.
+
+My attention turns back to myself. I sell my passive and then, using the token, I choose Heat Resonance Restoration. Even if applying passives isn't as bad as applying traits, I close my eyes and do my best to ignore the pain that feels like thousands of ants digging through my body. Lily will be angry and likely invent an even better healing mark just to show off how pathetic my passive really is, but that’s a problem for future me to deal with.
+
+Funnily, with my second strengthening of Empyrean Ichor soon to be fully applied, the boost I get to my healing lowers immediately. But it was still necessary, and I should test the passive later and see how well it does at replacing blood.
+
+I allow myself to slide down to lie in the grass, but Myrra grabs me and adjusts me so my head ends up on her legs. I look up, slightly annoyed, and see her fangs peeking out in her smile. She tugs on my hair again and continues on with her very important work.
+
+This time, I forgive her. She seems to be having fun, and I consider her a friend. I guess I'm just glad to see her alive.
+
+Lifting my hand, I grab and push my mana out, forcing it into the shape of an orb between my fingers. As I have many times before, I slide into that deep state of [Focus] and use the skill, as well as my ability to channel and compress all that mana quickly and tightly. As always, there’s that feeling of resistance, that sticking point, and like so many times before, I stop there.
+
+I like mana, and I have since the moment I made it move for the first time. I like it because of what it’s allowed me to do and how it changed my life. There probably haven’t been more than a few hours since I gained this ability that I haven't been using mana, experimenting with it, or training it. But my ability to use black mana still remains a mystery, at least partially.
+
+Why I can do something so few can is a question I’d thought about a lot in the early days. It’s likely a combination of many factors: the fact that I got to attempt it within the healing aura of a Saint that had made me near-immortal, my [Focus], my mindset, my effort, my talent for channeling mana. My connection to Biscuit and by extension his primordial energy surely played a part. Yet, even with the bond to Biscuit gone, my ability remains.
+
+I push a bit further, and a huge amount of mana channels through me and compresses, creating a tiny black orb.
+
+The huge wyvern shifts again, raising its head high and looking down at me. The vertical pupil widens slightly in that pale golden eye as it focuses on the black orb. The one-winged wyvern then lets out a series of loud, deep sounds that stretch into long noises. Most of all, it sounds... sad. Like it’s mourning.
+
+And looking at that tiny black orb, I ask quietly, "And a fragment of what god are you?"

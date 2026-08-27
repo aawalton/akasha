@@ -1,0 +1,157 @@
+---
+id: b7dcaa77-ec38-5932-a8e1-8706a2bbe2e8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 827 - w(°ｏ°)w"
+slug: 0154-chapter-827-ww
+partOf: hell-difficulty-tutorial
+position: 154
+ownLength: 2286
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3544802/chapter-827-wdegodegw"
+royalRoadId: "3544802"
+---
+
+Once outside, Lily falls into step beside me, still giggling to herself. “You know, you just left that poor guy alone with Morwag and the others, and he doesn't know any of them. Some people worship S ranks, and he has so many of them in his living room. Isn’t that incredibly dickish of you?” she asks.
+
+“A bit,” I shrug. “But I refuse to stand there and watch Duncan’s watery, puppy eyes or hear him thanking me over and over again. Weslin will do a good job, and Savant is at least somewhat responsible. Morwag won’t cause much trouble, and Brich is harmless in these situations.”
+
+“You forgot about Tacita.”
+
+“Did I? She is behind you on your left.”
+
+Lily turns around and widens her eyes, finally noticing Tacita trailing several paces behind us.
+
+Lily’s first reaction is to wave the woman forward. “Come here! You can walk next to us.”
+
+The offer is not accepted, and Tacita simply turns her head to the side and continues walking after us at a distance. Lily, of course, is unbothered. As she likes to say, she’s used to playing the long game. Poor Taci might be tamed in a year or two without ever noticing.
+
+Our first stop is a building hidden in one of the back streets. It’s unassuming, but it does have a robust set of doors locked with sensors designed to recognize specific mana signatures. I ignore them entirely. We pass into a dead end alley where I stop to turn and face a blank wall.
+
+Once there, I allow my senses to expand, diving into the structure of the inscriptions hidden within the stone. Then I pull on one specific section of inscriptions.
+
+With a soft clack, the wall swings open like a door.
+
+“Oooo,” Lily breathes out at the sight of the hidden entrance. She excitedly looks around, and she even takes out a smartphone to take a photo with a flash before she follows me inside.
+
+A pulse of my mana drains the color from the hallway for a split second. Every alarm and defensive array is erased as we walk through the dark interior. I create a small thermal orb even though I don’t really need it to orient myself. We pass a small room where five men have gathered around a table playing some sort of game. Hearing our footsteps, they look up with wide, surprised eyes and scramble to their feet.
+
+Five pulses of kinetic energy throw them backward. An expansion of my mana chokes out their skills, and then a cube made of mana completely surrounds them, locking them inside. I channel a bit more power to strengthen the walls against any attacks from the inside, and we continue. A bit further behind us, Tacita follows quietly.
+
+Another set of doors has its mana based defenses stripped away under my gaze, but to my annoyance, they stay closed because of a mechanical lock. My scan locates two people inside. In an effort to avoid hitting them, I release a precise blast of kinetic energy, and the metal doors crumple inward like paper and shoot into the room with the speed of a bullet, embedding themselves deep inside the far wall.
+
+With the same simple ease, I disrupt a barrage of mana based attacks with my eyes alone. A man running toward a teleportation array in the corner cries out as his leg explodes in a blast of kinetic energy, sending him tumbling to the floor. The other man lifts his hands into the air, and all movement of his mana halts in an instant.
+
+“Can you heal him?” I ask Lily.
+
+“Sure!” Without even moving from where she stands, she begins the process. The man’s leg begins to regrow at high speed. His signature tells me he’s not even high enough level to have a chance of resisting Lily’s magic, allowing the healing to take hold in seconds, even with his natural barrier on. Or maybe it has more to do with the fact that natural barriers aren’t all that good at resisting healing? But in that case, couldn’t someone like Lily use that to break through the barrier with some sort of false healing and sneak in some virus instead?
+
+What a scary thought. I’ll have to ask her how it works and how natural barriers react to her healing, body modifications, and other scary stuff like that.
+
+“Guildmaster Gwyn,” the man with his arms up says. He likely recognizes me from descriptions or somewhere. “I don’t know what-”
+
+“Do you know a man called Duncan?”
+
+“I...” he looks around as if debating whether he should lie. “I do.”
+
+“Good. Honestly, I am not really sure what to do with you. You just bought his debt. It is kind of his fault for getting into it, and a bit of bad luck that got him wounded. He could have also asked me for money. I mean, I personally would’ve been shameless enough to do so, no problem.” I pause and look at him, waiting for a reaction.
+
+The man nods quickly. The man on the ground, now with his leg fully restored, pulls himself against the wall. He breathes raggedly, his heart beating like a terrified animal.
+
+I shift my gaze back to the standing man with the arms in the air. “Still, I don’t really think I should feel bad about doing whatever I want to you either. You are clearly the type of people who don’t mind using threats, violence, and the like over debts and such. So, what should we do?”
+
+“We didn’t know he was someone you knew! If we had known, we would never have touched him or bought his debt!”
+
+I nod slowly. “Probably not.” Then I ask again, “So, what should we do?”
+
+He gulps. “Of course, his debt is all forgiven now, Guildmaster Gwyn. No, we’ll even pay him three times the debt he owed. I will personally make sure he receives all of it tomorrow!”
+
+“You would do that for him?”
+
+“Yes! Mister Duncan was just a victim of poor luck and bad timing!”
+
+"True," I sigh. "But I feel like some B-grade goon now. Tell me, do you use violence to 'motivate' people to pay?"
+
+The atmosphere changes, growing darker. I can feel his heartbeat spike and notice his hands shaking.
+
+“We have not touched Mister Duncan yet, but yes, we sometimes...”
+
+“Be specific. Do not talk around it.”
+
+"We... We occasionally kidnap family members and keep them in our care for a while to make the debtor nervous or use our contacts to make things difficult for them in the city, and so on. Sometimes we hire people to beat them outside of the city."
+
+"Do you hurt any of the abducted family members or kill people when they don’t pay?"
+
+"N-no!" he shouts quickly. In his panic, he drops his arms only to shoot them right back up again after realising what he has done.
+
+He doesn't seem to be lying. "The Lord Champion and his guards would bury us if we went that far," he adds. "They only look the other way for the small stuff, not that the debtors need to know that."
+
+"I guess," I sigh. "Lily, this is an annoying situation."
+
+"Is it?" she asks curiously. She observes the two men with a clinical eye. "Couldn’t I just heal the lungs of the man on the floor? They seem to have been damaged by some sort of toxic attack from a few years ago. I could also remove the other man’s back pain from a damaged spine and heal it. That would probably be worth a similar amount to what they are paying Duncan."
+
+"Would that work?" I ask the men.
+
+With wide eyes, the standing man nods. "Actually, such a high level of healing is worth much more than-"
+
+"Good, you will reimburse Duncan five times the total of his debt. Lily, go on."
+
+A second later, she beams. "Done!"
+
+Leaving the two men in a state of total confusion, I offer the palm of my hand to Lily, and to show a bit of my annoyance, I send a strong pulse of disruption through the entire hideout, enough to permanently destroy all of the arrays. I could probably do more, but for now decide to not stick my nose into the local Champion’s business too much.
+
+Meanwhile, Lily places her hand in mine. For a short moment, I close my fingers around hers and hold it before teleporting us both back to the surface.
+
+After letting go, I begin to walk, and she follows closely. "Don’t they usually have defensive arrays in the city to stop teleportation?" she asks and looks back behind us, where, after a few seconds, Tacita appears in a blur and then begins to stride lazily.
+
+(─‿‿─)
+
+I watch Tacita's drawing while I answer Lily, "It’s probably only there to stop the general public. It won't work against people at the higher levels. But I guess those types are kept under control in other ways."
+
+Noticing a nice looking shop to the side, I head over. From the window, I observe several food and drink items in a glass showcase. I pick out the most tasty looking ones. After paying, I hand a pastry that looks like a mix between a croissant and a donut to Lily while I bite into my own.
+
+"This is for your help," I say.
+
+Already biting into hers, she mumbles, "Never in history has there been a healer like me working for so little, and under such inhumane conditions."
+
+I chew for a while, musing over her words before I nod in agreement and take another bite.
+
+Before we even reach the headquarters of the guild that originally lent money to Duncan and then sold the debt, we see a crowd. There are multiple guards in black clothes and silver armor, all of them sporting distinct yellow stripes. There are also several official looking people standing outside the building.
+
+Leading them is a velnar in a dark blue suit. He quickly heads my way and bows deeply. "Mister Duncan is already receiving the apologies of our company. We have provided a small gift for the situation we unknowingly created, which put so much strain on him and his family. As an apology, we have decided to pay him either a value ten times that of his debt in the hopes it will help him overcome the received trauma or a house in one of the nicest locations in the First City. We also hope that you will be willing to accept this small gift from us, a tome on the Primordial Knights guild. We bought it in an auction not long ago, and it contains stories of great guild masters from almost a thousand years ago."
+
+Flashbanged by the sudden turn of events, I just stand there. I begin to look around to see who could have caused this. The best candidates that come to mind are Zant or, more likely, the City’s Champion, who must have spoken with Zant.
+
+In other times, it would bewilder me that a Champion would get involved in such minor affairs, but I guess gathering this many powerful people in one place tends to attract their direct attention.
+
+It makes me wonder. Would our current group be capable of facing a proper Champion? It is an exciting thought.
+
+"In the name of the Primordial Knights, I accept," I say simply.
+
+The velnar in the suit bows again. Even then, he almost towers over me with his massive body. I simply turn around and leave with Lily following behind.
+
+Once we get further away, Lily notes. "Isn’t it a bit cool, in a way, how they treat you with such care?"
+
+"Lily, I want to get angry and beat up someone, an asshole or two, but people are being too reasonable, and I bet Zant has his tiny, cute fingers in it. My only remaining hope is the healer’s guild that botched Duncan’s healing."
+
+I stop and fully turn to Tacita, who also stops and quickly draws.
+
+w(°ｏ°)w
+
+"Why the hell do you have a baby ferret with you, and why does it have a similar feel to the ferret from the 9th floor?" I ask her directly.
+
+Instead of an answer, she just closes her jacket further.
+
+"That is Fuci, or also Fucile. I think it is either a baby of the ferret we knew or of the same species. Oh, its name translates to rifle, or what we thought was the gun Taci mentioned some time ago. Fuci is very cute, by the way."
+
+Standing there, I begin to feel a bit of the same confusion Duncan must have felt.
+
+"So Fuci?"
+
+"Fuci," Lily nods.
+
+"Yeah, why not," I say, beginning to walk again, "By the way, we’ll need you to help us with our group project. We’ve got some necrotic rot brewing in Morwag’s arm, and we're trying to juice it up. You can toss an idea or two in. If we manage to rot someone's face off, the System will likely give you some assist levels, however it calculates all that stuff.
+
+"Sure, why not?" Lily nods. "How much do you want me to do? I mean, dangerous to a few people, or some more effort from my side to make it dangerous to a city or two?"
+
+I force myself not to side-eye this petite healer. And as we head towards the healing guild, I hope they are truly corrupt, just as they are in all those cliche stories, or else I don’t know what I will do.

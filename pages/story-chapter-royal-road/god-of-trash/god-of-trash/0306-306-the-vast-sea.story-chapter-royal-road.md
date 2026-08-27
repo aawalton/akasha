@@ -1,0 +1,141 @@
+---
+id: 2f6901c5-273e-5b80-b792-f75a17b868a0
+page-type-slug: story-chapter-royal-road
+title: "306. The Vast Sea"
+slug: 0306-306-the-vast-sea
+partOf: god-of-trash
+position: 306
+ownLength: 2039
+unit: words
+publishedAt: 2026-05-04
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3355117/306-the-vast-sea"
+royalRoadId: "3355117"
+---
+
+Rhys flew over the sea, and on, and on, and on. It was a vast body of water, so vast that even at his top speed, he still couldn’t see any land after three days of flying. He hadn’t exactly checked a map, so to be honest, he wasn’t completely sure there was land anywhere out here, but that was what adventure was all about! Or maybe he was just lazy, and he hadn’t wanted to participate in deconstructing Virgil’s empire any more than he already had. All that was left was the boring stuff like freeing political prisoners, setting up a new government, determining who controlled what… boring stuff. Bast really was right when he said Rhys was sloughing things off on him, not that Rhys would ever admit it.
+
+Though, on the other hand, no one wanted a trash government, so it was for everyone’s good that Rhys had left things in Bast’s much-more-capable hands, and definitely not because he was a lazy ass.
+
+“You aren’t heading in the right direction to revive me,” Daran remarked dryly.
+
+“Oh, hey. I thought I scared you off forever.”
+
+“Unfortunately, we are still bound. Trust me, I tried.”
+
+Rhys shrugged. “You really didn’t do a great job of convincing me on that whole revive-you thing, so that quest is currently on ice. I’m not tracking it right now, but it’s still active, you know?”
+
+Daran sighed. “Could you speak coherently?”
+
+“I’m not saying no, but it’s sure not at the top of my list,” Rhys translated for him. “Just give me a little longer to get stronger, and then I’ll bring you back, no problem.”
+
+“You’re not going to revive me until you’re confident you can overpower me, then.” Daran shook his head, profoundly disappointed. “Where’s the trust in children these days?”
+
+“Oh, the trust in children, huh, grandpa? I’m not stupid. When nefarious ring-dwellers ask to be revived, the first thing they do after they come back is try to possess the reviver, destroy-slash-conquer the world, or… I dunno, kidnap infants or something. The point is, I’d be a braindead idiot if I revived you before I was strong enough to oppress you. If I’m weaker than you, you’re one-hundred-percent going to knock me around. Don’t even lie. If I’m stronger than you, you might still try to conquer The Alliance or the world or something, but at least I can say ‘leave me out of it,’ you know?”
+
+Daran frowned. “So you’re not going to stop me from conquering the world? Assuming that your ridiculous and totally unfounded assumption is true, of course.”
+
+“Yeah, yeah. Assuming that my ridiculous and totally unfounded assumption that the Demon King is going to try and conquer the world when I revive him is true, which, I mean, it just never happens. Demon Kings, conquering the world? Psh. Ridiculous!”
+
+“Get on with it,” Daran grumbled, annoyed.
+
+“Assuming it’s true, then yeah? I mean, who cares, you know? You’re not going to succeed, so I’ll just get myself a bucket of popcorn and sit back until you threaten my loved ones, at which point I’m going to pull a One True Hero and actually give a shit for once now that you’ve threatened my loved ones and, subsequently, kick your ass.”
+
+Rhys paused. “You know, now that I’ve said it, what the actual hell? Why are the One True Heroes always just chilling while the world’s falling apart? Why is it considered noble to sit on your ass until your loved ones are personally threatened? Shouldn’t a true hero go out and stop evil and oppression because people are being harmed, on the principle that people are being harmed? Isn’t it deeply selfish to not give a shit until you, personally, experience pain?”
+
+“Isn’t that simply the way people are?”
+
+“I mean, yeah. I get it, from, like, a mob psychology standpoint. But from a moral absolutism standpoint, why the hell is that so okay with everyone? Is it the powerlessness we all feel, facing a thousand everyday evils we cannot possibly stop? Staring down the eyes of a million harms, knowing there isn’t enough time in the day and energy in our bodies to stop them? Is the relatability of the Hero sitting on his ass what overrides the negative points of the Hero sitting on his ass?”
+
+When he thought about it, there was really only one series with a hero even approaching absolute good that he liked at all, and though the hero’s absolute goodness was a big part of it, he had to admit that the three guns were also cool as hell. Though, for some reason, there were way more than three guns in the series, and he’d always thought that counting the hidden prosthetic gun on the hero as the third gun was kind of a cop out, especially since the angel gun was kind of the first gun too.
+
+Daran looked at Rhys. “You’re starting to sound shockingly like a philosopher.”
+
+“And I hate that you bring that out in me.”
+
+Daran huffed. “At least you haven’t completely given up on reviving me. Though I don’t expect we’ll find any more of the relics for my revival out here.”
+
+“No?”
+
+“No. There’s a wall of storms out in the depths of the ocean. Almost no one ever crosses, either from our side or the other side, and there’s no commerce to speak of. If a relic ended up on the other side, it would have to be the actions of a singular, intrepid treasure hunter.”
+
+“Well, then it’s guaranteed, isn’t it? There’s, like, a billion intrepid treasure hunters here. Everyone’s an intrepid treasure hunter!”
+
+Daran paused. He frowned at Rhys. “What gave you that idea?”
+
+“What? It’s such a huge trope! Though… I guess I haven’t seen too much intrepid treasure hunting during my time here,” Rhys admitted.
+
+“Right. Because it’s uncommon.”
+
+“You know what? I’m going to do it. I’m going to become an intrepid treasure hunter. I’m going to hunt some gods-damn treasure, and nothing’s going to get in my way.”
+
+“A noble goal. So what are you going to hunt for, intrepid treasure hunter?”
+
+“I dunno. Treasure. Guess I’ll just wander along until I find a tomb or something. Go raid it.” He patted his chest. “You think I could manifest some triangle tits with the water sprite technique?”
+
+“What?”
+
+“Yeah, you know.”
+
+“Triangle… what? Like… flat planes? Sharp edges?”
+
+“Oh, razor sharp, dude.”
+
+Daran stared at him. “Who finds that appealing?”
+
+Rhys shook his head in disappointment. “You just insulted an entire generation. Thousands of hearts, broken in one breath.”
+
+“Your world, I take it?”
+
+“Mhm.”
+
+“The more I hear about it, the less I understand.”
+
+“Yeah, that’s probably better for everyone.”
+
+Water passed under him, miles and miles of water. So far, the clouds had been sparse and fluffy, but now they darkened, growing thick and gray. Up ahead, sheets of rain lashed the ocean, so thick that the world seemed to end in a wall of gray rain. Rhys grimaced. “That looks bad. Is there a way around?”
+
+“Did you miss the bit about the storm wall?” Daran asked with a little more sass than was absolutely necessary.
+
+Rhys gave him a look. He lifted his head, looking around the area, but like Daran said, there really didn’t seem to be a way around. He twisted his lips, then looked down at the water. He technically didn’t need to breathe anymore, right? Eating, sleeping, breathing… none of them had been necessary for a while. That being the case, he didn’t have to go around. He could just go under.
+
+There’s no way it’s that easy, a little voice in the back of his head whispered, but he couldn’t not try. What if it was that easy? If he didn’t try, and then found out afterward that it was super easy to get through if you just went under the water, he’d feel stupid forever.
+
+It was like being at the beach as a kid. The waves would knock him around if he stood up and tried to power through them, but so long as he dove into them and ducked underwater, even the most powerful wave passed harmlessly over his head.
+
+…He hoped, anyways. That was the basis of his idea. That, and the fact that the storm shouldn’t be able to penetrate the surface of the water. Even the heaviest rain just became more ocean once it hit the surface, right?
+
+The closer he got to the wall of water, the less certain he became. The wall was so massive that he’d been able to see it from quite a long ways off, so he had a long time to reconsider his relatively simple plan. The wall reached so high that it seemed to pour down from heaven itself, so high that Rhys wasn’t sure he could fly over it if he tried. It was almost like someone had tried to slice the world in half with a sheet of water. If he could have flown up to the Great Red Spot on Jupiter and looked it in the eye, he imagined that this was what it would have felt like. A massive wall of wind and water.
+
+It wasn’t just water, either. As he grew closer, he started to hear an eerie howling that only grew louder the closer he got. Thin fingers of white occasionally cut through the clouds, and he realized, as he grew closer, that they were actually massive rods of lightning many times wider than he was tall; it was just that he was so far away that he hadn’t been able to properly estimate their scale.
+
+One flashed, lighting the dark clouds of water in bright light, and Rhys eyed it with a sudden sense of trepidation. The aura emanating from that flash of lighting was so fierce that it gave him pause. If one of them hit him, he wasn’t sure he’d be able to survive. Or rather, he could probably survive, but he wouldn’t be happy about it.
+
+Can I really get past it so easily? Whoever had crafted a storm this magnificent had to have seen the massive weakness of just going through the ocean instead. There had to be something nearly as fierce in the ocean; he could just feel it in his gut, even if he couldn’t sense a single thing from where he stood right now.
+
+Rhys found that he’d slowed to a halt instinctively and pushed himself to fly forward again. He shook his head. No! I have to believe! Believe, Rhys! In lazy level design and devs who don’t do proper bounds checks! He could definitely just go underwater and duck this test. Definitely! Totally!
+
+“Making strained expressions doesn’t make you move forward any faster,” Daran commented, floating alongside him in a lazy pose, one leg up, head resting in one hand, the other grasping a book he’d materialized from somewhere.
+
+Rhys glared at him, pretending like he wasn’t currently inching forward very reluctantly. “You’re already dead. You don’t get a say in it.”
+
+Daran scoffed. “You’re not going to die.” He turned and looked at the storm, then squinted at Rhys. “Well… maybe.”
+
+Rhys gritted his teeth. “The Demon King always believes the hero is going to die!”
+
+“So… sally forth, brave hero.”
+
+“Shut up. I’m psyching myself up for it. You can’t just jump into a storm like this. You’ve gotta have the right… you know. Energy. Mindset.”
+
+“Maybe… triangular… appendages?”
+
+“You know, it is something she’d do.”
+
+“This was something a particular woman was known for?” Daran’s expression turned serious. “Was she healthy? In mind and body?”
+
+Rhys looked at Daran, then laughed. “I am super enjoying you not knowing what polygons are.”
+
+“What? I know basic geometry. No… this means something else in your world, doesn’t it.”
+
+“Bingo,” Rhys said, shooting finger guns at him. He turned back to the storm reinvigorated. There was nothing quite like mocking Daran to get him in the mood to take on a big bad in real life, too. And right now, there wasn’t a bigger bad than the storm.
+
+Alright, storm. Here I come.

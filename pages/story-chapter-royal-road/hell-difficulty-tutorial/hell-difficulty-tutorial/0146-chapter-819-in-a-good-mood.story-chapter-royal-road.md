@@ -1,0 +1,157 @@
+---
+id: db36135d-80b7-5a96-8807-9c18ad3d7ea4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 819 - In a good mood"
+slug: 0146-chapter-819-in-a-good-mood
+partOf: hell-difficulty-tutorial
+position: 146
+ownLength: 2158
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3489467/chapter-819-in-a-good-mood"
+royalRoadId: "3489467"
+---
+
+Standing atop the mountain, I continue to rain down attack after attack. Tricolored orbs explode almost constantly, and in between blasts, I hurl lances to deal with any more dangerous or durable targets. Occasionally, when a bunch of weaker monsters gathers, I release a wave of flames that licks the mountainside, spreading downward and outward in every direction.
+
+[You have defeated Vraal - lvl 411]
+
+[You have defeated Skalt - lvl 404]
+
+[You have defeated Vraal - lvl 401]
+
+[You have defeated Skalt - lvl 402]
+
+…
+
+[Lvl 414 > Lvl 415]
+
+We’ve been moving and fighting for hours against these waves of weaker monsters, with another Skreth appearing every once in a while. Brich and Savant are currently preoccupied with one of them while I focus my fire on the larger groups.
+
+Vraals resemble scorpions, though they have far too many legs, many of which are growing directly from their backs. They occasionally launch ranged acid attacks from their tails, and it’s safe to assume they carry a weaker version of the Necrotic Rot used by the Skreths.
+
+Skalts, on the other hand, are like spiders without any visible heads or eyes anywhere on their bodies. They navigate using a different set of senses, while each of their legs ends in a sharp blade. They are both fast and durable, as most of their bodies are covered in thick bone plates. Skalts also seem to share a hive mind and move in unison while each generates a weak domain, and they often combine these domains into a single, stronger version.
+
+Meanwhile, that powerful monster looming in the distance continues its slow approach. It reminds me of the internet meme about the unstoppable snail that follows you forever in exchange for a ton of money, forcing you to constantly look over your shoulder because the moment it touches you, you die.
+
+I focus more intently on my attacks. As I have done many times since acquiring the new skill, I try to weave mana and thermal energy together.
+
+Unfortunately, just like many of my previous attempts, it ends in failure. I then try to weave mana with kinetic energy, or kinetic energy with thermal energy. All of these efforts fail, but the [Weave] skill levels up regardless.
+
+[Weave - lvl 13 > Weave - lvl 14]
+
+These experiments come at the cost of not having an array woven around us to strengthen my active skills. However, with my current reserves, I don’t feel as though I need the extra strength to face these weaker monsters as I maintain my wide-range bombardment.
+
+Though calling them "weaker" is a bit of an exaggeration. A single one of them could probably cut through entire groups of average 3rd year Hell difficulty attendees.
+
+Maybe we are, in the end, something of a strong group here. Sometimes it is easy to forget these differences. I’m well aware of how different I am compared to someone like Channeler, but as of late, I’ve begun to notice these differences as well when I compare myself to attendees I meet in Beyond.
+
+I wonder if the others here with me feel the same.
+
+Lastly, the Necrotic Rot is no joke. Even though we thought we had it under control, it’s begun to spread once again. Every one of us was wounded earlier, even if it was just a scratch, and that was enough. We purge the rot, only for it to reappear. As this cycle repeats, it’s slowly beginning to feel more dangerous.
+
+I bet Lily would have dealt with it in minutes.
+
+I notice a spot where the monsters have gathered and surge my mana to push back against the quasi domain pressuring us. I manifest a cube in which gold and white mana begins to bounce through the core. Pushing further, I place a marker onto a durable javelin and fire it into the center of the pack.
+
+Once it lands there, a decently big portion of my mana drains as I teleport the cube to the mark. It explodes there, leaving a lingering field effect that partially disrupts mana and weakens the monsters' domain.
+
+[You have defeated Vraal - lvl 400]
+
+[You have defeated Skalt - lvl 402]
+
+[You have defeated Vraal - lvl 411]
+
+...
+
+Another current of thermal energy seeps from the exhaust node on my back. I twist the energy, making it move like a living snake throwing itself down a mountain, turning stone into rivers of lava and incinerating any monsters in its path.
+
+A few enemies try to weaken the flow, but I predict and read the movement of their mana, shattering their efforts with my gaze mere moments before launching a rain of mana projectiles to finish them. After that, I switch my focus to the ranged attackers that have started bombarding me. Their mana based attacks break apart before they can reach me. Their bone projectiles are either erased by a blast of kinetic energy or golden flames.
+
+Annoyed at the barrage aimed at me, I hunt them down and snipe them with lances, the projectiles easily punching straight through their defenses.
+
+Weslin joins my side, breathless. “All good?” he asks.
+
+“I could probably do this for days without getting tired. Do you want me to tell you how strange it feels to have half of my mind fighting while the other half rests, only to cycle them so I always feel fresh?”
+
+“You can brag about your fucked up mental techniques later. By the way, stop talking about it like it’s normal. Most people would have shattered their minds attempting that kind of insanity, if they didn’t simply lose themselves.”
+
+“But it is just a basic mental technique. How could something this small break someone's mind?”
+
+“That’s exactly your problem.”
+
+"I see no problem here."
+
+“Rookie, you… you know what? Whatever. Fuck you.”
+
+“No, fuck you, Weslin. How are you dealing with the rot?”
+
+“I am fine, my void is proving to be great against it. Brich has been using some sort of bizarre items. Savant keeps absorbing the rot, and you had better hope he doesn’t release it on your planet. Meanwhile, Morwag is…”
+
+I nod. “Morwag is…”
+
+Neither of us completes the sentence, we simply share a nod.
+
+“So the plan-” He pauses as an explosion washes over us, and I raise a barrier to block a sickening blast of mana.
+
+In the distance, where Savant and Brich are currently battling a Skreth, a massive bone pillar erupts, reaching high into the sky. From its surface, a mass of tentacles and bone spines grows, swaying and lashing out at the duo as they slam into the ground and the air.
+
+By now, I can recognize Savant’s signature more clearly. I watch the starting sequence as he begins his [Dawn]. Observing the fluctuations, I can tell he is pouring a massive amount of mana into this one. Immediately after, I see the structure connecting the technique to the Sword of Aeons as he draws that power directly from the blade.
+
+The domain spreads over an area large enough to encompass the entire pillar. Cracks begin to form on the surface of the bone, and Savant executes his new favorite move: a horizontal slash that cuts through the structure cleanly, causing the pillar to tilt and begin its collapse.
+
+Strengthening my sight, I watch him leap into the air, swinging his single wing. The orange energy of his full domain is pulled inward to surround the sword as he lifts it to face the Skreth.
+
+I turn back to Weslin as I begin to snipe the monsters attacking us at a distance. “The plan holds. We will endure the night and deal with the Necrotic Rot during the day.”
+
+That fight ends with Brich throwing a hexagonal glass item that cracks upon impact. He strongly warned us about it before using it, so we clear the area.
+
+It’s one of Eldrin’s creations, a truly monstrous thing, and this is just a test Brich will be reporting on later.
+
+Once the item breaks, a powerful pull sucks in everything within a half mile radius. The Skalts’ combined domains don’t help in the least, as they’re dragged into a meat grinder formed of the surrounding debris. At the impact point, everything collapses into a dense pile of crushed rock and mangled limbs, leaving a hollowed-out crater below.
+
+Brich throws another vial against the resulting pile, this one filled with liquid that ignites the moment the glass shatters and releases gouts of red flame.
+
+That red flame seems almost impossible to snuff out. It roars over the mountain of creatures, setting fire to any monster attempting to claw its way out.
+
+We stand near Brich as he takes notes in one of the many mana stones he carries. But we don’t stay too long, still aware of the powerful monster in the distance. Leaving the carnage behind, we move again as that presence continues to draw itself closer. I try to look in that direction, but I can’t see any more than I could before. It’s as if there’s something deliberately blocking my sight, even my strengthened eyes only pick up what appears to be mana moving as if it were burning.
+
+Another group climbs from holes in the ground in an effort to intercept us. To avoid slowing down, I go almost all out right from the start. Cubes filled with broken pieces of my [Empyrean Lance] fly into the earth and explode, tossing soil into the air and triggering massive cave-ins. I follow the attack with a barrage of thousands of projectiles piercing the area, many of them infused with thermal or kinetic energy.
+
+To finish the job even quicker, I release a series of raw mana blasts in their direction, an attack I still lovingly call Fuck Everything In That Direction Specifically.
+
+When I notice how quickly I can convert thermal energy from my heart into mana, I stop bothering with weaker attacks and start constantly releasing these blasts. With my minds fully combined and no room for them to rest, I gather and channel my mana at high speeds, releasing another blast every second.
+
+The notifications ring out, and the destruction I witness starts to grow somewhat addicting, so I pick up the pace. I partially lift the last seal on the Ignition Heart to draw more mana, focusing entirely on redistributing and channeling the flow.
+
+[Redistribution - lvl 78 > Redistribution - lvl 79]
+
+Quickly, these explosions grow larger, digging deeper and erasing more of the surrounding landscape. I don’t have to worry about collateral damage, every signature I sense in that direction belongs to a monster.
+
+There’s a mountain right next to us, and I narrow the blast, concentrating it further. I almost laugh as I hurl it against the peak next to us, where it drills a circular, building sized hole straight through the stone.
+
+A single monster climbs from the ground half a mile away, and in an overwhelming overexpenditure of mana, I launch a blast at it. I am certain that amount of mana would sustain a weaker Hell difficulty attendee for an hour or two of fighting, yet I throw it all at a mere trash mob. The attack is narrowed and concentrated, though it weakens as it stretches over the distance, becoming less reliable with the increasing range. Yet it still connects, crashing against the creature and sending it rolling across the ground, even if it doesn't kill it.
+
+I leave the monster be, redirecting my attention to the rest, and slam seven more blasts into the same spot on the ground. I dig deeper and deeper until I reach and kill the last few monsters hiding there.
+
+Once that’s done, a wind picks up and blows away the dust, revealing a scarred landscape of broken mountains and deep craters. And I know I can channel even more.
+
+Finding myself in a good mood, I open the system shop.
+
+Do you really want to sell the following item for 50,000 shards?
+
+Mana Kinetic Conversion Reservoir (Unique Epic)
+
+Yes/No
+
+With that, the unique epic passive finally disappears from my status. It’s been there for so long that its absence feels strange, but at this point, it would just be silly to keep it. I believe I have gained everything I could have ever wanted from it.
+
+Then I immediately purchase the replacement I’ve been eyeing for a while.
+
+Do you want to buy the following Passive skill for 32,465 shards?
+
+Passive Skill: Adaptive Defense (Upper Epic) - The user’s defensive capabilities automatically adjust to counter the nature of incoming attacks, providing optimal resistance whether the threat is physical, magical, or elemental.
+
+Yes/No
+
+Still in a good mood, I turn to look at Weslin. "Do you think we should make the Necrotic Rot stronger within us and use it against whatever’s waiting in the middle of the first floor?"

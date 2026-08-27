@@ -1,0 +1,195 @@
+---
+id: edf6b385-7619-5df1-99da-254788ebbc27
+page-type-slug: story-chapter-royal-road
+title: "Chapter 868 - Quite a mess"
+slug: 0196-chapter-868-quite-a-mess
+partOf: hell-difficulty-tutorial
+position: 196
+ownLength: 2255
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3864934/chapter-868-quite-a-mess"
+royalRoadId: "3864934"
+---
+
+POV Kim Min-Jae
+
+Kevin stops out of nowhere, and I pull up by his side. As I have so many times before, I get ready to fight, raising my mana and using [Telekinesis] to push my body to move faster.
+
+But soon enough, I recognize the presence appearing ahead, and Maya walks out from around the corner.
+
+With a happy shout that escapes my throat, I begin to rush toward her, but the cheer freezes in my mouth as I see her eyes. They are so cold and lacking any emotion.
+
+Maya is covered in wounds and blood, as well as broken pieces of her tricolored [Armament]. She’s holding a short sword with a really wide blade and no tip, pointing it directly at me. It takes a few seconds for her eyes to register who I am.
+
+“Kim?” she asks carefully.
+
+“Yes, are you okay?” I ask, moving closer as she drops her weapon.
+
+“Yes, I… Kevin?” she asks, furrowing her brows. “But you’re…”
+
+“This is just easier for your feeble mind!” Kevin smiles, putting his hands on his hips as he looks at Maya. “Damn, maybe we should have waited for you to save us instead of hurrying to find you,” he chuckles.
+
+Maya shakes her head, but she does not raise her weapon. She seems different from before, even as she exits her [Focus], if only a little bit. It’s difficult to describe. Maybe sharper?
+
+“And just in time!” Kevin continues to smile, watching as a woman with silver hair steps out from one of the tunnels.
+
+Nathaniel’s master, Lissandra Hawthorne. And her appearance here only makes my confusion worse and worse.
+
+She tilts her head and, for a good five seconds, just stares at Kevin, who continues to smile back at her.
+
+“So, that’s how it is,” she says in the end, and then gives a small, polite bow toward him.
+
+“It seems so. You’ve made quite a mess, you know,” he tells her.
+
+“Nothing that can’t be dealt with later.”
+
+“I guess,” Kevin sighs, then adds, “I can make Kim and Maya forget, but you’re too powerful for me.” His tone grows more serious. “It cannot learn about me.”
+
+“I understand,” Lissandra says. “I will erase my memories of you.” She begins to walk away, but before leaving, she adds, “Next time, do a better job at hiding.”
+
+Then she is gone entirely, moving at such a speed that I cannot even track where she went.
+
+“Have you ever seen a human as arrogant as her? And so confident?” Kevin watches the spot where she left and shakes his head. “I would really love to see Nat get to her level. I bet they would get along soooo well then.”
+
+With a few steps, he comes to a halt in front of Maya. “While I don’t want to do this, this is important, Maya. Will you allow me to erase your memory of meeting me here?”
+
+“You aren’t Kevin…”
+
+“It is… complicated. Even words have their own power, and the more I say, the higher the chance it will learn, adapt, and evolve. I know you have no reason to trust me, but…”
+
+“Even that woman agreed, and I don’t think I can stop you anyway, so just get on with it.”
+
+Kevin smiles. “Maybe we’ll meet again one day. Thank you,” he says, gently tapping her forehead. The touch causes Maya to faint, and he carefully catches her, lowering her to the ground before turning to me in a quick movement.
+
+“But you, I have to kill! You know too much, and you chew too loudly. A monster rather than a human!” he smirks, making a finger gun and pointing it right at my head. “And I hate you quite a bit, after all.”
+
+Even with the heavy emotions swirling inside me, I chuckle.
+
+Still pointing his fingers at me, he says, “I think I can break our rules a little bit, Kim. So I want to tell you that even at the very end, Kevin never blamed Lily, so stop forcing yourself to hate her in secret on his behalf. It doesn’t fit you.”
+
+He takes a step forward. “And Nathaniel is not a better person than you. He’s not some miraculous, all-powerful, shining hero you need to admire. His burden is nothing to be envied, either. Kim, it is perfectly fine to be yourself.”
+
+“Then what exactly should I do?” I ask him.
+
+Kevin just smirks. “No idea.” He takes a final step, and the tip of his finger gun touches my forehead. “You’re a smart boy, so think for yourself. That itself is part of the process.”
+
+“I guess I have to… figure it out on my own…” My final words trail off into a whisper.
+
+“Do not start sobbing on me now that I’m leaving.”
+
+“Who gives a crap? I am going to forget it all anyway.”
+
+“That is the spirit,” Kevin chuckles. “Though your memories will disappear, some of the feelings will remain, so I want to tell you something.”
+
+Immediately, I know what to expect, and right on cue, it comes. Kevin was always a huge fan of lame humor.
+
+“You’re getting too tall. You need to lean down when you walk or something.”
+
+“I’ll try, short king.”
+
+“Tsk.” He continues to smile. It feels like he is the one who does not want this moment to end, stretching it out, but in the final second…
+
+I shake my head, suddenly finding myself on the surface rather than inside the Labyrinth of Xyphos. I let my senses expand, searching for the Adjudicator. Maya is here as well, rising from the ground just like me as we look around.
+
+Weren’t we escaping into the Labyrinth? Why are we now at a different place?
+
+It seems that they’ve continued to track us or left someone to keep an eye on the area, so before I can think about whatever just happened, an Adjudicator lands nearby as if they’d been dropped from somewhere high in the sky, and Maya takes a step forward to face her.
+
+Then another Adjudicator falls down. And a third. And a fourth.
+
+Six of them appear all around us, beginning to charge.
+
+I watch them all rush at us as I close my right eye, concentrating everything through my left. But then, as if someone suddenly switches off the lights, everything around us turns pitch black. I begin to plummet, and a second later, I crash into the sand, finding myself stranded on the desert planet once again, but the Adjudicators are all gone.
+
+What just happened?
+
+POV Nathaniel
+
+From my position high in the air, I can tell this planet is different from before. If the few bits of information Ruby threw my way are to be believed, we’re on the real planet that holds the Labyrinth of Xyphos.
+
+One question still remains: is the planet itself called Xyphos, is that why it's the Labyrinth of Xyphos? Or does the planet have some other name, or does it have no name at all? Maybe Xyphos was just some random guy, and the Labyrinth got named after him.
+
+But, as Ruby said, the planet has been entirely covered in a rather terrifying domain that I faintly recognize as belonging to the one winged wyvern. The planet itself feels bigger and hotter, though it’s hard to say for sure right now.
+
+I just know that when I opened the Community tab to check on everyone from Earth currently chatting on the 11th floor, hundreds of messages popped up at once.
+
+Tacita (Hell, Luce) - ヽ( `д´*)ノ
+
+Uggard (Hell, Astrum) - I have no fucking idea what you mean by that, just type normally!
+
+Iut (Hell, Casual Violence) - What happened? Why are there people from other tutorials around me?
+
+Thelax (Hell, Astrum) - I was about to complete the floor quest, what is this crap?
+
+Cutie (Hell, Unsupervised) - Wow, there are so many humans here now. Shouldn't the floor be for our planet alone?
+
+Randomlamename (Hard, Mostly Dead) - Stop attacking us, you idiots! Something clearly went wrong. Wait for the system message or something!
+
+Six (Hell, Over-Budget) - I want to hurry to the next floor. I’ll make a custom high arcane item in exchange for the required talnium. You can find me on the hot side.
+
+Savant (Hell, Alone) - Gwyn, what have you done?
+
+I read the last one, deciding it must be meant for some other Gwyn somewhere in the tutorial.
+
+Parsec (Hell, Company of Distinguished Individuals) - Quickly, search for people from Easy difficulty in the area and save them! They’re going to melt in these temperatures!
+
+Lizzard (Hell, One) - Oh fuck, I didn’t think of that!
+
+I quickly close the Community tab, rise high into the air, and send my scans sweeping through the area. Fixing on a group of ten people, I boost myself in their direction to potentially help, but I find it’s not necessary.
+
+The group is being protected by a blue barrier projecting from a single orb in the center of their circle, so I open the Community tab again.
+
+Fluffy (Easy, Land) - We’re fine! The moment we appeared here, a barrier surrounded us. Is this really an instance of Hell difficulty’s tutorial? Why are we all here?
+
+Justagirl (Easy, Land) - We can’t leave the barrier. Is it really that hot out there? It looks hot. Please don’t break the barrier.
+
+HeavySoup (Easy, Land) - There’s some sort of creepy human floating over us. Sir, please do not attack us.
+
+Lord Pathaka (Easy, Land) - He is holding a glowing red dagger. I am getting worried.
+
+I look down at the group and then at the dagger I hold in my hand. I remember being truly proud of my sister, momentarily awakening her inner loot goblin. And I’m even more so after checking its description and seeing it’s mid pristine grading.
+
+I fly away from the group and expand my senses further as I search for Group 4. A few times, my senses clash against the perception of other people doing the exact same thing, but at this stage, we just ignore each other and pass on by.
+
+There are also ships moving through the sky, and on the ground, I spot several structures that were never present in the tutorial version of this place. I’m sure there’ll be more of them soon. At least, that’s what Ruby said, mentioning that she and Diligence are working on it and have called upon some of the other Rulers.
+
+But for now, I’m curious to learn about the other tutorials, and Victoria should be somewhere around here as well.
+
+Further increasing my speed, I zip across the sky, observing hundreds, thousands, and likely far more tutorial attendees scattered all over the surface. Plenty of them are enclosed in barriers, likely those from Easy and Normal difficulty. Though I wouldn’t be surprised if that included most of Hard difficulty, possibly even all of it. That cockroach really made a massive mess of things.
+
+I halt when a javelin passes by not far from me and continues to fly off into the distance. Quickly, I calculate the trajectory it came from and boost myself in that direction, ramping up my speed significantly.
+
+I cross a massive area, covering dozens of miles, until I find a tower made of white rock jutting out of the desert. It’s a solitary building in a vast wasteland, though it seems to be abandoned and crumbling in places.
+
+At the top of it, Tess stands, waving at me with a smile.
+
+"You could have hit me," I tell her as I land at her side.
+
+"I sent a message in the Community, but I guess you stopped reading it."
+
+"There are too many messages. I’m waiting for people to calm down."
+
+"That won't be happening anytime soon," she says, gesturing to the landscape around us. "Any idea what’s happening? I just returned to the floor, and everyone had left our base. Before you ask, yes, everyone seems okay. I saw them in the Community."
+
+A notification that appears in front of me stops me from answering, and I read what it says.
+
+There has been an unexpected occurrence, and the 11th-floor quest has been put on hold. I would like to ask everyone to stop moving, as it will be much simpler to note people's locations that way.
+
+Soon, everyone will be given an item to locate the other members of their group.
+
+This notification should appear to all attendees, corporate members–whether in orbit or on planet–and everyone else present
+
+I want to give a strong warning that hurting tutorial participants or interfering with their tutorial in any other way is heavily prohibited.
+
+Lastly, this part of the message is for the one who’s set their domain over the planet. I appreciate you not hurting anyone present, though I know it to be a calculated move, and it would have brought more attention to you if you had.
+
+I will be visiting you soon for a conversation, and I don’t mean combat.
+
+- The Ruler of Diligence
+
+I look up at Tess. "Saw it?"
+
+"Yes. So, once again, Diligence is behind it all."
+
+I blink and look at her for the moment it takes me to realize that she’s joking. But as I think about it more, I come to the conclusion that Diligence probably hasn’t thought this through, or how the others might see this situation.

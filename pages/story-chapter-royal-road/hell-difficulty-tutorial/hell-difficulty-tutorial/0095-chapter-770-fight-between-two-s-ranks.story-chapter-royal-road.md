@@ -1,0 +1,121 @@
+---
+id: 036bb383-e2fd-5fd9-a1f6-89f3322294b2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 770 - Fight between two S-ranks"
+slug: 0095-chapter-770-fight-between-two-s-ranks
+partOf: hell-difficulty-tutorial
+position: 95
+ownLength: 2481
+unit: words
+publishedAt: 2026-03-12
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3145354/chapter-770-fight-between-two-s-ranks"
+royalRoadId: "3145354"
+---
+
+I allow thermal energy to combust under my skin while Morwag relies on his natural regeneration. Each wound I inflict on him appears on me now that he’s forged this connection with his binding. These wounds burn and hurt more than usual, as if [Focus] can’t filter the pain out for me. But the same goes for Morwag.
+
+My [Empyrean Lance] skewers him easily through his stomach and pins him to the ground.
+
+Pushing through it all, he awkwardly stands up, the glowing lance sliding out of him as he rises. The way I hover in the air remains constant, not shaking even a bit, even as a hole appears in my stomach and blood pours out. A bit of blood flows from the corner of my lips from how hard I end up clenching my teeth.
+
+Standing there with that hole in his body regenerating, Morwag looks towards me menacingly. He moves his right hand and stabs it into his left side, where he squeezes something, sending bursts of pain through my body.
+
+Golden flames burst and seep out through the holes in my body. The mana I’ve been gathering spins around me in swift currents. I raise my right arm to the side, and all that mana swings down, cutting the limb off cleanly. Before it falls down, I grab it and press it to my shoulder so it can reattach, then teleport to appear directly in front of Morwag.
+
+With his right arm cut off, but still stabbed into his side, he turns to face me with his left. I let my mana destabilize at my ankle, snapping it and his as well, which causes him to lose his balance. My punch crashes against his chest, and before he can fly back under the impact, a mana arm forms from my back and grabs the arm stabbed into his body, holding it and forcing it to slide out.
+
+I chuck the severed limb to the side, where it breaks a window and falls into someone's room before I use Wraith Dance with my remaining unbroken foot to reach Morwag.
+
+His missing arm is already regenerating, but with how powerful his body is and how much he has to focus on his healing, it will take a while. Meanwhile, mine is already nearly fully reattached.
+
+This time, he’s the one struggling to avoid my attacks. He doesn't care that he steps on his damaged ankle, sending a spike of pain through both of us, and he swings his head down, slamming it into my forehead.
+
+I absorb all the kinetic energy from the impact, and once again, the area drains of color, disrupting whatever attempts the city guards are making to intervene. The sheer flood of my mana pierces through his natural barrier, which has weakened along with his with his binding. Then I touch him and teleport both of us outside of the city and into a canyon surrounded by towering cliffs.
+
+Falling through the air, we exchange punches. Mine cause more damage than Morwag’s because he’s not even trying to defend, while his strikes are being stopped by my kinetic absorption. Forming a tricolored orb, I detonate it between us. We are thrown in opposite directions. Morwag crashes into the cliffside while I slam into the ground.
+
+There, I gather more thermal energy. It shoots ahead in a stream as thick as a tree trunk, hitting the side of the cliff where I can still sense Morwag. I track his body with the beam, which almost makes it look like I’m drawing on the cliff, melting through rock and causing lava to flow and drip from the point of impact. A few times, burns appear on my body, scarring my face, my leg, and my back before they start healing.
+
+As Morwag falls to the ground, both of his legs break as he stops holding his body together and even seems to purposefully weaken it. The shared wound causes me to stumble and fall to my knees.
+
+His regeneration heals his legs faster than my combustion can recover, and, appearing standing in front of me, he kicks at me. He hits only my right arm, breaking it and throwing me to the ground. With his right arm missing, there is no corresponding wound on his body.
+
+He pulls on his binding and, like a ragdoll, he yanks me back toward him. My mana bursts and surrounds me in a suit of armor that grows to twice his height. I allow myself to crash against him, and two more arms form from the dark blue mana armor as kinetic energy moves to power it. I twist and grab his body with two hands while the other two start battering his face and chest.
+
+Morwag’s binding energy flickers across his skin. He slashes with his remaining arm, cutting the mana my armor is made of and disrupting it for a moment before more mana rushes in to reform it. I get back up and, still holding him, I swing and throw him against the cliff. Multiple thermal, kinetic, and mana javelins follow, bombarding the area.
+
+Then I stagger back in pain and breathe heavily through my mouth, as my nose alone doesn't feel like it’s taking in enough. Blood flows from my mouth and down my chin.
+
+A loud cracking noise and movement draw my attention as a rock giant steps out from the cliff, standing several times taller than me. Morwag is binding the surrounding stone to himself, compressing it and moving it with the insane strength of his body. The ground shakes as he takes a step and swings down at me.
+
+Watching that movement as if in slow motion, I let more mana flood me. My armor grows in size to match his, and I catch that rocky arm. A burst of kinetic energy pushes me forward as I slam him against the cliff.
+
+Audible cracks boom through the canyon. Stones, starting at the size of a fist and ending at the size of small buildings, begin to fall upon the two of us, crashing against our forms.
+
+A punch sends me back, and I absorb my own momentum. Then, all the falling rocks slow down and stop moving as well. The dark blue armor around me darkens even further, while light blue and purple mana start flowing through it as well.
+
+His stone fist shatters against me while I locate his body and punch straight through with my enormous fist, piercing a hole in the rocky giant. I feel no impact, and no wounds appear on my body even as my strike reaches him. When I pull my hand back, the giant is gone, nearly all of its stone unbound.
+
+In the next moment, I let go, and all the mana from my armor swirls around me, turning into a single tri-colored orb floating in front of me. I shoot it toward Morwag’s signature with an audible impact and allow myself to land on the ground. Once there, I use Wraith Dance, appearing a mile away after a few more uses.
+
+The power of the explosion reaches me even here. A thunderous shockwave bounces off the cliffs of the canyon, followed by a heatwave and a powerful implosion that sucks the air and dust from the area.
+
+There is still no damage being reflected onto my body.
+
+Morwag appears from within the epicenter and reaches me in just a moment, slowing down to a walk with the crumbling cliffs and molten rock in the distance behind him. There is armor around him now. It’s that low pristine set we retrieved together from the Guild Master of the Eternal Court. It is blood-red, still somewhat see-through, but pulsing with life. It is sleek, the surface rippling in rhythm with his heartbeat. The horns growing from the helmet are longer and thicker, matching Morwag’s size.
+
+The right arm of the armor hangs along his body uselessly, while in his left hand, he holds a weapon I’ve only heard rumors about, partially wrapped around his forearm. One he rarely ever takes out. The weapon he’s bound to himself and can summon at will.
+
+The Obsidian Spine Chain.
+
+It is made from the fused vertebrae of a long-dead, once powerful monster. Each segment is thick and uneven, black like polished obsidian and rotating along its own axis. The pieces grind against each other as they move, adjusting constantly rather than simply staying aligned. The weapon bends in a way that almost feels like it’s alive, as if it remembers being a spine. It’s also bound directly to him, feeling like an extension of his body and reacting to his intent.
+
+The Spine Chain explodes in a sudden movement, burying itself into the ground only to explode back out a moment later. Still keeping its shape, just growing much bigger. Thick as a sequoia tree, it holds its form and twists like a gigantic snake lunging toward me. In the next moment, two more follow. One explodes from the nearby lake, made entirely out of water, and another emerges from the air, invisible, but I can sense its presence.
+
+Like three colossal monsters, they move through the air, destroying everything in their path as they head toward me. The pressure around Morwag increases, and the surface of his blood-red armor ripples in the frantic rhythm of his heart.
+
+Then both of my eyes burst, destroyed instantly as Morwag destroys his own to strip me of my trait.
+
+I swap my senses, observing the vibrations spreading through the air and tracking the signatures of shifting heat. I close my eyelids over the ruined remains of my eyes.
+
+Morwag begins to say something, but I clench my teeth and bite off my own tongue, spitting it out. Across the distance, only choking noises escape the demon.
+
+Emerging from my body, all my upgrades and constructs manifest as my vessel behind me. I don’t even have to see it to describe it, and I don’t need my eyes either. It’s a figure mirroring my own, slightly taller and lacking fine detail. It’s dark blue, and yet bright in the places that mirror the scars from my body upgrade. My constructs show upon it as well, leaving it densely covered in inscriptions.
+
+An incomparable amount of mana seeps from my hearts. Both of them. Mana flows from my Kinetic Mana Heart and thermal energy from my Ignition Heart, which I convert to mana instantly. Like a pillar and a flame combined, that mana rises into the air and toward the sky, channeled through my vessel.
+
+I move my hand in a swinging motion, and my vessel follows.
+
+In an instant, everything lying in the direction of my swing is erased.
+
+POV The Cerulean Parlor
+
+"It’s been a long time since we got to watch a proper fight between two S ranks. Lady Kindness, who do you think will win?" the man asks the woman, said to be among the most beautiful who ever lived.
+
+The two of them, along with two dozen more Handlers, sit in a cozy looking lounge. In one corner, a huge fireplace burns, and the floor is covered in thick furs from monsters capable of obliterating an average Champion. All of the handlers present are at least Champion rank, along with a number of Absolutes and a few hidden Rulers. They watch the two S-ranks fight on a screen created by one of their number, which constantly zooms in and out to match the scale of the battle, while others use their own senses to observe it directly.
+
+Kindness, from the seat where she sits alone, looks up from her hand and smiles politely, observing the screen for a moment. Huge explosions are tearing the ground apart repeatedly and sending shockwaves that reach even the Megacity as the two figures move across the field in brutal combat.
+
+In the end, the blonde woman shrugs and turns to a black-haired woman with streaks of red in her hair. "Nathaniel is your ward. What do you think? Will he win?" she asks.
+
+The woman, the Ruler of Greed, her identity hidden from everyone here, other than Kindness, just pretends to look at the screen while she uses her own senses, which easily overshadow anything the others here can do.
+
+"I’m fully willing to bet on Nathaniel, Lady Kindness," she answers.
+
+"Well, it would be mean to bet against your own ward," the man who initially spoke to the Ruler of Kindness chuckles. "I am willing to take your bet and put mine on Morwag. His binding energy is extraordinary and powerful, and with two pristine items bound to him, he can overpower any amount of mana his opponent might hold."
+
+Another handler jumps into the conversation. Starting from the waist down, she has the body of a spider, including the head, while from the waist up, she would appear to be a human woman. When she talks, it is not obvious if the upper human part speaks or the lower spider one. "No one below the rank of Champion can use a low pristine item to its full potential. Morwag will run out of resources faster than his opponent. With the insanity that was his body upgrade, Nathaniel needs only to wait it out and keep his distance. So, I bet on Nathaniel."
+
+Several people in the room chuckle at that. Realizing what they are laughing at, the half-spider woman laughs too, then speaks again in her flat yet strangely charming voice, “Is it too late to change my bet?”
+
+"You’ve already picked your favorite, it is too late to make any changes. I personally am willing to bet ten million shards on Morwag and-"
+
+"One hundred million," the black-haired woman with the red streaks says, staring the man down. "And that upper-pristine item you commissioned from the Ruler of Diligence for your disciple. I bet on my ward and will match your bet."
+
+"How do you know..." the man, a powerful Absolute, says in surprise.
+
+He is about to reject the offer, but then he notices the expression on the Ruler of Kindness. It is a gentle expression, yet in a way, she doesn't even realize that it’s also condescending. As if she is looking at him like he’s a child. She does it to everyone. Given her age, it’s easily forgiven, yet right here, in this moment, it provokes the man's pride.
+
+"Deal," he says finally. "Your ward will lose."
+
+The Ruler of Greed, her identity still hidden, smiles and addresses everyone in the room. "I think you underestimate my ward too much. With Nyssa Volare already on the fifth floor, only Lyraen and three others can match him. And once Lyraen's tutorial ends, those three will be all that’s left, all born on the same planet as my ward."

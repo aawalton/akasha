@@ -1,0 +1,109 @@
+---
+id: d6a67e97-1888-583c-afcd-3be8debe9e38
+page-type-slug: story-chapter-royal-road
+title: "Chapter 769 - Bound together"
+slug: 0094-chapter-769-bound-together
+partOf: hell-difficulty-tutorial
+position: 94
+ownLength: 2163
+unit: words
+publishedAt: 2026-03-11
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3141857/chapter-769-bound-together"
+royalRoadId: "3141857"
+---
+
+A metal door shoots my way, cutting through the wall and forcing me to duck before it embeds itself in the stone behind me. A brick follows, which I deflect with a pulse of kinetic energy.
+
+I generate more kinetic energy and shape it into a Needle Point. Unlike Lioren, I don’t make it as thin as a needle. I make it as thick as a tree trunk. It smashes against Morwag accurately, but nothing else happens. His signature doesn’t move at all.
+
+The alarms ring annoyingly, both the audible and the hidden ones, so I reach through the defensive array and disable them one after another, throwing the hallway into silence. The sound of crumbling stone cuts through the quiet as Morwag walks out through the hole in the wall. His Primordial Binding doesn’t flicker or radiate into the area, but rests on his skin and seeps through his body.
+
+There are a few questions I would like to ask. Morwag has been holding back a lot in the past three months, and he hasn’t challenged me once. For any other demon, this would be extremely undemonic behavior, but for Morwag? I think it fits him. There is a deep rooted violence inside of him, but with it comes a personality that considers such a lack of control to be pathetic.
+
+Morwag is surprisingly smart, and I’ve seen it many times, but when he decides it’s time, he turns into a brute like any other demon. Right now, it feels like he’s been saving me for months. Like a dessert to eat at the end of the dinner. Whatever happened with Nyssa must have pushed his hand. It’s perfectly obvious to me without any words needing to be said, I don’t even need to ask.
+
+I watch as my Needle Points crash against his body and explode like icicles falling to the ground. The distance between us shortens as he moves his muscular body at impressive speed. I wait until he’s just a step away, then release a more powerful blast of kinetic energy, which he unbinds. Ten more blasts follow, each almost equally powerful.
+
+He unbinds and endures the first few, but I channel them too fast and with too much power for him to consistently gather enough energy. His body shoots away like a cannonball, rocketing through the door.
+
+At the same time, I find my own body being pulled ahead as if there’s a rope tying us together. A binding he’s created out of his primordial energy.
+
+My mana surrounds me as I crash into the wall and roll into the kitchen, where a few dozen guild members are eating. From between the broken tables, Morwag charges me. I attempt to teleport but find him binding everyone to this place with the intent of disabling teleportation. A part of my mind instantly separates, observing how it’s been done and deploying countermeasures.
+
+Meanwhile, I use Wraith Dance to avoid his charge. More Needle Points shoot toward him, causing him to stagger but failing to wound him in the least.
+
+He uses the energy binding us together to pull me toward him, but I absorb my momentum and hold myself in place while using [Redistribution] on him. Morwag halts on the spot, held there by my will. Before he can free himself, I grab what looks like a tomato from a table nearby and throw it, causing it to splat against his cheek.
+
+“Fuck you,” I say.
+
+The demon stays quiet, an almost unbelieving expression on his face. The red of his eyes deepens, and he sticks out his tongue, licking the juice flowing down his cheek. In the next moment, the immense strength of his body breaks through my hold. At the same time he pulls me, he binds me to the spot where I stand and charges at a speed that would tear his body apart if he weren’t binding it together.
+
+His fist comes close to my face before I teleport outside, finding myself in one of the training areas. I take a few steps into the center of it before grabbing the bond that ties us together. I pull on it with all the force I can gather and enough kinetic energy to evaporate a skyscraper.
+
+Breaking through a dozen walls, Morwag’s body bursts through the wall and metal shielding and crashes into the training area, where a tricolored orb slams into him, throwing him to the side.
+
+A few demons in here shout in excitement, and one of them attempts to join the fight, but a burst of my kinetic energy sends him flying to the opposite side before I throw more orbs at Morwag. They explode one after another, shaking the training area, which endures impressively, having been built with even this sort of damage in mind.
+
+I catch sight of the two deep red glowing orbs that are his eyes before he steps out of the explosion undamaged. All the lingering mana in the air turns into fine particles that rain down like dust, reflecting the lights in the training area.
+
+Morwag twists his head, his neck cracking audibly as he steps in front of me and pulls off his shirt, revealing his bare chest. What catches my interest are the vest and arm bands he wears just over his elbows. Standing there, he cancels whatever effect binds them together, and that vest, those arm bands, and a pair of cuffs around his legs slide down and fall to the ground.
+
+A series of heavy thuds echoes out, far heavier than expected. The demon facing me takes a deep breath and disappears in a blur. At the same time, I use Wraith Dance to move.
+
+The ground where I stood explodes under the force of his attack as his leg smashes into it. He doesn't stop and moves again as I observe twitches of kinetic energy around him while he shifts his body. As before, I use Wraith Dance to move away, but I leave an orb filled with golden thermal energy where I once stood.
+
+As Morwag reaches the spot, the golden flames wash over his body and reach into the area, but he stops them before they can expand any further. He binds these flames to himself, pulling them to his hands, which start glowing with those golden flames.
+
+He moves faster than before and follows me through another series of explosions and teleportations before he catches up to me and throws a punch at me with a fist wrapped in golden fire.
+
+The flames die out as they reach for me, drawn back under my control. His movement slows just that little bit as I try to hold him there. I dodge his punch, twist around him, and slam my open palm against his chest, releasing sequential waves of rippling kinetic energy in an effort to pierce his body.
+
+Morwag takes a few steps back, and pain twists his face, but he clenches his teeth and his muscles tense up in a way that sends a pulse of vibrations into the area, suffocating the kinetic energy I’ve been pushing through him.
+
+I don’t wait for him to regain his composure. From point-blank range, I unleash a surge of raw mana. The floor beneath us rips apart, the ceiling splits with a sharp crack, and the force slams outward, tearing straight through the wall.
+
+Stone, metal, and debris are blown away in a violent burst, opening the area to daylight and the rush of outside wind, which rushes in as the structure shudders around us.
+
+Still sensing him nearby, I gather kinetic energy and release another blast to send him flying, following it with a few more, but this time, he matches my speed. He doesn't use his unbinding at full power, just enough to weaken the effect so his body can endure the rest. Where ten sequential kinetic pulses had overwhelmed him before and sent him flying, he now stays in place, absorbing each impact and adjusting with every strike.
+
+My body is bound in place, and he pulls on it, jerking me around like a ragdoll.
+
+I fly through the air and use a few short bursts of kinetic energy to twist just enough to barely avoid his punch, flying past him outside into one of the gardens, where I absorb my momentum and slide on the grass until I stop and my back touches one of the trees.
+
+I duck immediately, and that tree explodes into splinters under Morwag’s swing. He follows it with another downward strike, and I evade it. The ground under us cracks, exploding into a crater and sending debris into the air, where it clashes against many of the barriers set there.
+
+Moving a distance away, I raise my mana. The area drains of color, and in that black and white world, my Preeminence eyes glow as I [Eclipse] the arrays and take them under my control. I disable the part that disables flight and rise into the air just as Morwag reaches me.
+
+He jumps up anyway and shoots toward me like a rocket, only to be met with a combined blast of kinetic energy and mana, which throws him to the ground and through one of the guest buildings, which explodes apart violently.
+
+I sense no signatures around, so I let thermal energy from my Ignition Heart flood me. Golden flames burst down like a huge stream as thick as a building, blasting the debris of the house and surrounding Morwag. The metal and stone melt, and I disable more alarms from the defensive arrays.
+
+That stream of golden flames continues to narrow. The thickness of a car. The thickness of a tree. An arm. A finger. A laser thin golden stream pierces the air in a way that causes it to screech like a jet engine.
+
+Yet, despite the stream’s intensity, Morwag steps out calmly. There is no more damage on his body than before, and that thin stream of flames burns straight into the middle of his chest, causing only reddened skin and burns.
+
+Not breaking eye contact with me as I hang suspended in the air, Morwag takes a small step to the right so the stream of flames now burns exactly over where his heart beats strongly.
+
+Then, the binding energy he’s been gathering reaches toward me in a way I can’t avoid. I can’t even disrupt it like I can with mana. There are many ways I have learned to deal with primordial energies, and I try all of them. I use my own primordial energies against it, I use my mana, and I try to rely on my skills.
+
+But in the end, it is just too different, focusing on me in a way I don't have experience dealing with.
+
+The moment the binding connects us, I know what just happened and twist the laser stream away from his heart, just as Morwag weakens the forces binding his body together.
+
+His chest is sliced deeply, blood appearing and vanishing as it’s instantly burned away, leaving a streak of sizzled, blackened flesh from the center of his chest to the other side of his right shoulder.
+
+Morwag lets the blood that oozes from the wound collect on his fingers and palm, turning it over and feeling its warmth. He then moves his hand into his long white hair and dyes it with the deep red blood, slicking the hair to the back of his head.
+
+With a streak of red in his hair, he looks at me and then at my chest.
+
+Narrowing my eyes, I put the palm of my hand on my chest and press the white shirt I'm wearing against it, causing a bloody line to appear that mirrors his own.
+
+My heartbeat speeds up erratically, and a whiff of fear washes over me as I watch the expression of the demon below me. The determination etched into his face clearly says he’s still got more in him. An almost intoxicating confidence, a controlled menace that radiates outward.
+
+Under the force of my will, the beat of my two hearts gradually calms down and begins to sync, both of them beating out the exact same rhythm. In front of me, that golden thermal energy gathers again as I continue to compress and strengthen it. It shoots ahead faster and more deadly than before in a sweeping move across Morwag’s neck, attempting to cut off his head.
+
+He remains standing for the first sweep, and after that, dodges under the second that follows, attempting to do the same.
+
+There is sizzling skin across Morwag’s neck and blood flowing down from it across his bare chest as he starts laughing roughly with his vocal cords damaged.
+
+The very same wound appears on my neck. Burning and painful, the sensation is emphasized much further by my body being so much weaker than that of the demon I’m facing.

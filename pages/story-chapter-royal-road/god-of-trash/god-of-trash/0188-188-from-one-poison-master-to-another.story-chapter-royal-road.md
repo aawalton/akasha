@@ -1,0 +1,75 @@
+---
+id: df2f3a85-67ac-5fe6-bd11-216fc33a8808
+page-type-slug: story-chapter-royal-road
+title: "188. From One Poison Master to Another"
+slug: 0188-188-from-one-poison-master-to-another
+partOf: god-of-trash
+position: 188
+ownLength: 2107
+unit: words
+publishedAt: 2025-09-16
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2605611/188-from-one-poison-master-to-another"
+royalRoadId: "2605611"
+---
+
+He bounded through the forest, closing in on the Tier 4 signature. Sable caught up with him, clawing from tree to tree with her bonus limbs, and followed along, easily matching his pace. They cleared the forest without any further attacks and found themselves on a great plains. Semi-permanent huts and tents were arrayed over the plains, and from a quick scan, some Tier 1 and mortal chaff was arrayed across the tents. Rhys made a mental note to double back and make sure no one was being held against their will, then maybe press-gang them into service or steal their cores, but kept his eye on the prize. Right now, they needed to take down the Tier 4 more than anything.
+
+The Tier 4 signature emanated from a cave up ahead. He glanced at Sable, then gestured for her to fall back, remembering the aphrodisiac episode. If this person liked using potions and traps, then better that they went off on him than on Sable. He’d be able to laugh them off, but if Sable got caught up in the collateral or otherwise affected, he’d have to take a moment to clean the poison out of her, and if the Tier 4 was as ruthless as he suspected they were, he likely wouldn’t get a chance until the end of the battle… or else they’d use it to land a heavy blow on him. Either way, it was a losing proposition for him, but a winning one if he went alone, so he walked ahead without her.
+
+For her part, Sable didn’t complain. Either she understood or she didn’t, but she was used to taking orders, and trusted him enough to listen to his. She stood silently in the background, folding her legs back under her cape while the wind flowed through her hair.
+
+Rhys stared at her for a moment, wishing he had a camera, then reluctantly turned away. Internally, he sighed. Damn, she looks so cool.
+
+He turned back around and headed toward the signature. Although he could sense the Tier 4 emanations from quite some distance, he couldn’t actually see where they were coming from. As far as he could tell, he was walking toward a big earthen wall for no reason. He kept his head on a swivel, searching for traps both visually and with his mana senses.
+
+He stepped forward, and his foot sunk into gooey ground. Black gunk welled up around it, chewing at his flesh. He yelped and yanked his foot back, then paused. The poison ate at his body. It filled his blood with impurities and darkened his flesh in a way he hadn’t experienced in a long time. He hopped into the hole with both feet and let the mud close in around him. Poison ravaged his body. His flesh darkened, his veins streaked with purple-black bruises. He coughed and spat up dark fluid. This was worse than an Impure Well. Worse than any of the filth he’d found recently. This was poison, poison that was actively trying to kill him. It corroded him with intention, no, Intent, destroying his body from the inside out.
+
+Poison Intent! That was what it was. That was the difference between this filth and ordinary filth. This poison wasn’t just passively deadly, but actively wanted to kill him. It devoured his body and surged into every dangerous kink and narrow point in his mana passages, actively trying to make his mana flow the wrong direction and tear him apart.
+
+But that only made it fantastic training. Rhys closed his eyes, focusing inward. Whenever the poison found a weak point, he immediately rushed there and used the poison’s own impurities and corruptive influence to scour that weak point out of his body, then let the poison keep coursing through him. If he hadn’t successfully fixed the weak point, then the poison went back to attacking it; if he had, then it flowed on, searching out the next weakness. Immersed in rebuilding and training himself, Rhys totally forgot about why he’d come here, his purpose, the fight, everything, and simply focused on improving himself. It’d been too long since he’d had a good training session, and as if his body had been crying out for it, he lost himself to training.
+
+Ahead, the Tier 4 poison master, Madame Quast, cackled. “You fool! Falling for my pitfall… you’ll never escape! Corrode to death! Get poisoned until you’re no more than a mere mortal! Let my most virulemt poisons scour your bones!”
+
+In the field behind him, Sable crossed her arms and yawned, bored. She watched Rhys with a little confusion, then shook her head. “That fool.”
+
+“Who are you? What are you doing here?”
+
+She turned. A random Tier 1 man had approached from the tents, a sword leveled at her. She looked at him, then snapped her fingers.
+
+His sword shattered. He looked at it in shock, and when he looked back up, Sable was gone.
+
+She dashed through the woods, coming to Rhys’s side, then stood there protectively. The Tier 4 presence hadn’t moved yet, but if it attacked Rhys while he was training, he… would probably be fine. Her bone limbs twitched under her cape. Truth be told, she just wanted a fight. She didn’t think she could beat a Tier 4 yet, or else she would’ve charged in, but if the fight came to her… well, she wasn’t going to turn it down.
+
+All at once, Rhys burst out of the poison pit. His eyes sparkled, and though his clothes were in tatters, he leaped forward, searching out the next pit. Now that he knew what to look for, he could see poison pits everywhere, just seething with delicious, delicious poison for him to slurp up and use for self-improvement. He raced into the next pit and leaped in head-first. He hadn’t submerged his head the first time. What if there were weaknesses in his head’s mana flows, veins, and flesh? He’d never know!
+
+Sable sighed and followed after him.
+
+Madame Quast blinked. That person had neutralized her poison pit? And not only that, but his signature seemed… stronger? That couldn’t be right. Were her mana senses off again? Sometimes the fumes of her poisons could alter her perception. She waved her hand to see things clearer, as the signature toppled into another poison pit.
+
+She snorted under her breath. He was a fellow poison master, after all. She was confident in her pits, but she had to respect another master of the art. Perhaps he’d known a way to counter that particular poison—she’d allow that. But each pit held a different, horrifically virulent poison. There was no way he had the means, knowledge, or materials to counter every single one of her Tier 4 poison pits. And if he didn’t fall into them, she could throw them at him!
+
+Submerged in the new pit, Rhys eagerly accepted the poison into his body. When it didn’t seep into his pores fast enough, he opened his mouth and swallowed it down. That introduced the poison directly to his organs and digestive tract, which balked—and revealed critical weaknesses that Rhys hadn’t yet shored up. The poison, too, surged toward his brain at the same time. Two attacks on critical organs that he hadn’t yet trained? Rhys grinned. That was twice the opportunities to discover how to shore up and strengthen his body! And, amazingly, he was surrounded by poison that gave him the materials to fix it, right here! The Poison Intent surged through him, seeking out more weaknesses, more, coursing deeper and deeper, and Rhys was right there the whole time, reinforcing his cells and organs with the converted poison.
+
+A little more. That stomach lining, right there, if I can—ah, hey! Where’s all the poison going? He looked around him, and realized he was lying at the bottom of an empty pit. Rhys jumped back to his feet and leaped out of this pit, sprinting over to the next pit as quickly as his legs could carry him. Sable jogged after him, half-resigned, half-amused. As long as she avoided the places Rhys was beelining to, it was shockingly easy to avoid all the pitfall traps… though she had to question the intelligence of a Tier 4 mage who relied on pitfalls. Tier 4 mages could fly. Did this one not know that?
+
+Madame Quast frowned. One was shocking enough, but two? No—no. He was a poison master. She had underestimated him, but that was all. His luck would run out eventually, or he’d run out of alchemical agents to destroy her poisons, and then he would be no more than a sitting duck, ripe for the plucking!
+
+Another poison pit vanished from her perception. Then another, and another, and another. Just when she was sure she’d finally meet this towering master of the path of poisons, who had somehow surpassed even her, though he was only at Tier 3, the Tier 3 signature doubled back to slurp up some poison pits it hadn’t fallen into, and not only that, but trigger a few of the gas traps she’d strung in the trees. Despite all that, she couldn’t sense her poison in his veins for more than a few seconds, and his signature remained healthy and bright.
+
+There was a second signature, too, that hung back and stood to the side while the first one bounded from trap to trap, and at last, Madame Quast figured it out. The first one was a clone, or else some kind of sponging underling. It wasn’t the real threat, but rather, some kind of complex decoy, or maybe even some kind of captured meatshield, who was holding some kind of disguise pendant and being forced to wipe out all the traps. Yes, now it made sense! She’d been foolish to worry about some overpowerful poison master and hide in her cave, when it was really all some kind of weak mental ploy!
+
+Angry at herself for falling for it, and annoyed at her opponent for resorting to such base tactics, Madame Quast snapped her fingers. Two pots full of vile purple liquid had been snapping and bubbling next to her, but now, the liquid spun. It swirled faster and faster, becoming a whirlpool, then leaping out of the pot entirely as the two streams took on the shape of cobras. They flared their hoods at one another, then surged out of the cave and hurtled toward the two signatures outside. Madame Quast harrumphed. “Let’s see what they make of that.”
+
+Outside of the cave, Rhys sighed, a little sad. All the traps were gone. There wasn’t any poison left to train with. And he’d been making such good progress! He didn’t even have to feel guilty about it, because he was actively progressing toward his goals at the same time. It was such a good situation for him that he might just throw himself into the arms of his enemy when he finally came face to face with her and give her a big hug of gratitude. He couldn’t have asked for better training.
+
+Just as he was reluctantly turning his feet toward the boss, two purple snakes lunged out of the earthen wall ahead. The earth hissed and blackened as they passed, and trees died, rotting as they fell, while plants withered directly into dust. His eyes widened, and he gasped. These were stronger than any of the pits or gas traps he’d encountered. These were strong enough to pose a serious threat to him.
+
+These… were exactly what he needed, to make the final fixes to his body!
+
+They surged toward Sable—perhaps because the Tier 4 had finally noticed that poison wasn’t doing much to Rhys—but Rhys scoffed. He wasn’t going to let training that good get away from him that easily! He jumped on the snakes, pulling them into his body with all his might. They struggled, trying to break free and attack Sable instead, but he refused to let them get past him. They were poison. Poison was trash. And trash belonged to Rhys.
+
+He couldn’t fully suck them in, perhaps because of the Poison Intent that clung to their forms, making them slippery and hard for his mana to grip, but the snake projections had minds of their own, and they were angry. First one, then the other, whipped around and bit Rhys, pouring their poison into him.
+
+“Yes!” Rhys shouted, excited. More! More! All of them, into his body! Destroy him, so he could enhance himself!
+
+Sable chuckled under her breath and shook her head at him. “Madman.”

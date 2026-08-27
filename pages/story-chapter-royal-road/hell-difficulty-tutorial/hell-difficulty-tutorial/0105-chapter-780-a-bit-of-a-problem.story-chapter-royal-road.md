@@ -1,0 +1,143 @@
+---
+id: 784c2023-700e-5e8c-bc22-fa65c0dc62a6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 780 - A bit of a problem"
+slug: 0105-chapter-780-a-bit-of-a-problem
+partOf: hell-difficulty-tutorial
+position: 105
+ownLength: 2615
+unit: words
+publishedAt: 2026-03-26
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3197528/chapter-780-a-bit-of-a-problem"
+royalRoadId: "3197528"
+---
+
+"If we’d known someone was home, we wouldn't have touched the body," I am the first to speak, gesturing for the others to keep quiet.
+
+"How polite of you," the demon says. He continues to smile, but the expression lags behind his words. His jaw stutters in a rapid, mechanical vibration, flashing a dozen different expressions in the span of a second. "[IMPRINT STATUS: ACCEP-P-PTABLE]... But unfortunately, as you said, n-no one is home. What you are speaking to is an imprint of my mind, placed here for mental defenses with the help of my disciple. The highest directive would be to destroy you all, but that changes a bit now that my host is dead. Honestly? How stupid can you be to invade the body of a Champion even if they are dead, without proper..." he pauses for about ten seconds, "...precautions?"
+
+These words, though mimicking the personality of someone long dead, bear no true emotion, interwoven with a flat voice glitching out.
+
+"If we were caught up in being worried about everything, we would just sit at home and suck on our thumbs." I scratch the side of my face while watching the demon, who continues to smile in that creepy way, and I try not to show anything more than I need. I continue to think it over, comparing the power of my mind to what is a mere imprint. For now, I hold myself back and resist doing anything rash.
+
+"What happened to me?" The demon gestures for us to sit, and when we do, he continues to stand. Still near the window. As his hand moves, the air around it ripples and pixelates.
+
+"No idea, we found your body on the planet called the Pit," I answer
+
+"That is very unfortunate. I wonder who killed me, that bitch Florien or... [ERROR 356: DATABASE CORRUPTION]. Don’t you hate those flying mage types who constantly fire off pathetic mana attacks, hoping some of them actually hurt you while actually causing more damage to their city than you?"
+
+"They are the worst," I nod.
+
+The imprint nods eagerly in that creepy, twitchy movement. "They always thought themselves safe from me until they saw the speeds I could fly at, with their fields and domains helpless to disrupt it. Ah, the good times."
+
+He taps his knee with a finger, but I’m still sure that even if he is just an imprint, he’s continuing to examine what’s happening in here. Not that I’m not doing something similar. My mind is currently being pushed to the utmost maximum.
+
+Then the tapping stops, and the look in his eyes changes, and for the first time, he looks directly at Sophie. "[REDUNDANCY CHECK FAILED] It seems like the main protocols still remain even as the host is dead. I will now proceed to destroy..."
+
+The demon’s imprint stops moving entirely, and Sophie is back standing with her hand extended towards him. One of his arms twists and breaks, and a crack appears in the side of his head from which no blood flows. By then, I am already in front of the imprint, a sword manifesting in my hand and cutting into the imprint’s neck, where it lodges itself and stops as the imprint moves and swings his hand against my head.
+
+The mental space around us twists and changes, and we find ourselves outside, standing in the grass.
+
+"You three run!" Sophie shouts at the twins and Maya. "Your mental defenses aren't good enough, and your attacks won't do much. Nat, we need to slow it down so I can unwind the mental space and..."
+
+She doesn't get to finish. From the skyscraper in the distance, all the thousands of glass windows burst one after another, and in a blur, a figure shoots from there at us.
+
+I don’t think the imprint is anywhere near the level of the Champion. It’s grown weak after hundreds of years, the owner of the body is dead, and it’s still within the mental space Sophie and the others created. Yet it’s still scary.
+
+Armor manifests around my body as I crash against him with a powerful impact just before the imprint reaches Sophie.
+
+The punch almost throws me away, but I grab his unbroken arm and pull him back towards me. My armor groans as the imprint’s sheer presence tries to erase the idea of 'me' from this space. My grip on his arm begins to liquify, my fingers turning into smoke. I have to pour all of my concentration into keeping my hands solid and holding my [Manifestation] together.
+
+The demon almost doesn’t seem to notice me and just shoves me away, eyes locked on Sophie. It doesn’t even react as my punch caves in his head, cracking it, and with my next attack, I break one of its legs.
+
+Then I feel my movements halt. Everything stops moving. The grass, the leaves in the trees, and the fake wind of this mental space all seem frozen in time. Walking past the frozen me, the imprint with deep red glowing eyes moves towards Sophie.
+
+But before it can take another, a new presence appears. With a shout, a young boy appears behind his back, holding a folded steel chair high over his head and slams it against the back of the demon’s head, causing the imprint to stumble and fall to the ground.
+
+With that, the boy disappears in a flash of a torn and bleached red blanket cape around his shoulders.
+
+Finally piercing through, I take partial control over the mental space Sophie created, and as if flipping a switch, all the colors of this mental world disappear, leaving only shades of black and white. Within this new space, I free myself, appearing in front of the imprint and stepping on his head, caving it in further and then do it again. A sword manifests in my hand, which I use to cut off his head before my movements halt again.
+
+The body of the imprint ignores the severed head that stays on the ground and stands up to begin to move towards Sophie again.
+
+Both twins move nearby at a burst of high speed, about to attack, before a hole made by Sophie appears under their feet, causing them to drop down just as the imprint swings a hand, and everything in their direction explodes in a glitch like wave reminiscent of kinetic energy.
+
+"Be careful!" Sophie shouts again, but her words stop as the demon comes to stand in front of her and his hand pierces through her chest.
+
+Her face shows shock, and large tears of pain appear in her eyes.
+
+Maya flickers from the air like the twins before, a blank expression on her face as she swings her glowing sword down, cutting off the demon’s arm entirely and leaving him with the broken one. As the severed arm falls down, Sophie disappears as the twins’ near-perfect illusion is gone.
+
+The imprint’s body turns in place and looks somewhere far into the distance, where it locates the real Sophie. Exploding into a charge, his body entirely shatters like shards of glass mid-movement.
+
+For a moment, these shards hang glittering in the air before finally dissipating. Then there is only silence.
+
+Finally able to move again, my senses begin to wash over the area to confirm my initial scan didn’t trick me.
+
+I take a few steps and stand next to an emotionless Maya, her sword ready to attack if needed. With a flicker of the air, one of the twins appears next to us as well, breathing heavily, not from the exertion, but from the tension of the situation we just went through.
+
+"That wasn't so bad," I say. When I get a blank look from who I guess is Aaron, I add, "All things considered."
+
+The space around us shifts again as we reappear in the same space as before, the top floor of the tall, undamaged skyscraper. Once there, Sophie tiredly slouches in the armchair with the rest of us standing nearby.
+
+"I was careless," she says straight up, face pointed down at the floor. "I didn't check it as deeply and carefully as I should have because I didn’t expect any notable reactive mental defense from a demon. From my experience dealing with them, they usually defend their minds actively, through willpower. We were lucky this imprint was almost out of mana and damaged to begin with."
+
+No one says anything as we, one after another, sit in our own chairs around her. Even I can’t find too much excitement in myself to tease her. I can probably excuse myself by saying this wasn't a mental space I created, and that’s the only reason I wasn't able to manifest much of my strength, but that’s it. Even if it is true, it still feels like an excuse.
+
+"Over the next day, I’ll be spending my time looking out for similar traps, more imprints, or the possibility of the one we met reactivating itself. Only when I’m as sure as I can be that there are no more surprises like that will we continue,” Sophie thinks, then sighs. “...If that’s even necessary.”
+
+"Good. Lessen your hold over the mental space a little so I can take over a little," I ask of her, and she meekly does so right away.
+
+"Your usual mental space won’t be compatible with what we’re doing, so you’ll have to make changes. If you mess with it too much, you could break this place apart and throw us out. If that happens, we could all take damage and..." She stops talking. "...Just be careful."
+
+The following silence is awkward as both Sophie and I split and work on different things, while Maya and the twins are left to wait here, useless for now.
+
+Once I’m done taking over different parts of the mental space, just a few hours later, I stand up and head over to the window. To test things out, I make a change. One of the mountains in the distance crumbles, and rocks fall down to gradually reveal the shape of a glorious sleeping corgi carved from the entire mountainside, stretching a mile or so tall.
+
+Both twins stop by my side, wordlessly staring at the beauty as I tell them, "Sophie might keep beating herself over the head for what just happened, but don't let pity stop you. Keep reminding her of it."
+
+"It would feel better if we’d been able to do more about it," Dennis says.
+
+"So what. Be unfair. I didn't do much either, and I’ll still tease her for what happened. Because it was mainly her fault, and it will remind her of the mistake. If I do something similar, do the same to me," I say simply.
+
+"Sure. By the way, that boy with the steel chair..." Aaron begins.
+
+"Secret weapon. Can't tell you more," I cut him off.
+
+"He looked a bit like you..." Dennis stops talking and shakes his head. "Whatever. Want to spar a little before Sophie finishes up? Maya said she’ll be joining us as well."
+
+With nothing better to do, I agree, and we move to the rooftop floor, where we spend the next day sparring.
+
+Within the mental space, the use of mana can be weird and sometimes just straight-up doesn't work, at least not for the three of them, so we go for hand-to-hand combat mostly.
+
+While weird, it does make for an interesting experience. Our physical stats don't match the outside world, some sensations are also off, and so are our senses along with them.
+
+Still, I might cheat a little and make my physical stats just that tiny bit higher when I start losing against the better trained Maya.
+
+Once the day has passed, we surround Sophie again, and she tells us what she found.
+
+"I’m as sure as I can be that the imprint is done. While I was at it, I confirmed that it must have been seriously damaged. I dated it at 441 years old, while the body has been dead for 435 years. I won't bother you too much with details, but it was set to be a simple scan and copy of the Champion by a mind mage who then created an imprint of the mind. That imprint was kept functional by a trickle of mana from the Champion that was cut off after his death, so it began degrading. It’s a miracle it was still functioning somehow."
+
+Even after all of this, Sophie keeps some of her arrogance when it comes to mental stuff, as she says. "I can’t say it was a bad job, but it wasn't anything too impressive either. The mind mage did an amazing job at creating the imprint, but not so good a job of setting up the rest. But that aside, I have a bit of a problem which I’ve tried to fix," she says, as she finally stops delaying and gets to the point.
+
+Sophie pauses and takes a deep breath. "When I unwound the imprint, I had to use Blackie, and to do so quickly, he was forced to integrate more deeply into the body of the Champion. I kept trying, but I couldn’t get him out anymore, he's stuck inside. That alone wouldn't be terrible, but another problem is that the imprint left a mark on Blackie. While he is still my bond, I can sense it changed him in a way I can't stop or revert."
+
+"Is he going to turn into the Champion? Will it take over?" Maya asks, giving voice to what the rest of us are thinking.
+
+Sophie shakes her head. "Nothing like that. It’s... it’s like he gained more consciousness... individuality. He almost feels like a child now. It’s really hard to describe. You’ll see it for yourselves once we make it back outside, which we can do right away if you don't have any more plans here."
+
+We look at each other, and no one seems to be against the idea, so we slowly get to it. We take apart the mental space, throwing us back outside, where probably only around 10 minutes or so have passed.
+
+Right away, my eyes turn to the body of the Champion, and so do everyone else's.
+
+Sophie’s bond, now trapped inside it, awakens. The body moves after 400 years of lying here dormant. The shrivelled arms move and gently press against the ground for the body to slowly stand up, swaying but straightening up, even with that huge hole burrowed through the entirety of its chest.
+
+With Sophie wearing a difficult to read expression on her face, Blackie takes a step closer to her. Though a few people around panic at that, aware of the possibility of what its powerful traits can do, Sophie doesn’t move at all. She stands there, looking toward the reanimated dead body.
+
+Blackie reaches toward her, and for a moment his face almost twists into a childlike smile, grotesque on that shrivelled face, before his hand stops just short of her and he pulls it back.
+
+His arm lowers, stopping halfway, then fully drops to his side. He tilts his head, the movement stiff and uneven, with eyes constantly gazing across Sophie’s face and then past her.
+
+Blackie shifts his weight, almost losing balance, then corrects it with a clumsy step. He looks down at his own hands, flexing them once, watching the motion closely, as if confirming that they belong to him.
+
+When he looks back up at Sophie, there is something expectant there, but Sophie just stands silent, not knowing what to do.

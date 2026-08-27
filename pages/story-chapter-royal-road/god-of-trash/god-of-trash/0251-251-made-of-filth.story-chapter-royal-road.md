@@ -1,0 +1,161 @@
+---
+id: 80e39a00-0992-5359-80f1-2c8d71e3348f
+page-type-slug: story-chapter-royal-road
+title: "251. Made of Filth"
+slug: 0251-251-made-of-filth
+partOf: god-of-trash
+position: 251
+ownLength: 1958
+unit: words
+publishedAt: 2025-12-22
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2871268/251-made-of-filth"
+royalRoadId: "2871268"
+---
+
+Rhys nodded at Daran. “So, this Soma. He’s filth-based? How’d you make him?”
+
+“Trade secret.”
+
+“Oh, come on.”
+
+Daran hit him with a deadpan stare. “Of everyone I’ve met, you’re the one who comes closest to qualifying to replicate my filth-golem technique. I have no desire to teach you.”
+
+“But that’s exactly why I want to learn.”
+
+“I know. But some techniques are better off lost,” Daran said, gazing into infinity with a mysterious, yet solemn glint to his eye.
+
+“You know, I get that. I respect that. And I’m invoking a question,” Rhys said.
+
+“A—this is not what the questions are for,” Daran snapped.
+
+“You don’t get to decide that. You agreed to answer any question. I’m calling it in. How’d you make Soma?”
+
+“I’m trying to be a better person. Consider my actions. Not spread dangerous techniques.”
+
+“But I’m such a great guy. Surely you can trust me. And if you don’t, then you violated our agreement. Isn’t that right, Daran? Daran the liar? No wonder they called you the Demon King. You can’t be trusted, not even when you yourself promised you could be.”
+
+“It’s not about that. It’s about… trying to do less evil,” Daran grumbled.
+
+“Try to do less evil by teaching your techniques to good people who can be trusted, like me. Plus, isn’t post-death a little late to have a change of heart? Everyone already thinks you’re the ultimate evil. What’s a little more evil on the roster?”
+
+Daran squinted at him. “Are you trying to convince me you’re good, and won’t misuse my technique, or convince me that my reputation can’t get worse, so there’s no harm teaching an evil technique to someone who might misuse it?”
+
+“A little of column A, a little of column B? Really, man, I’m just working all the angles, because no matter how I look at it, there’s no reason for you to hold back. I mean, hell, what’s the chance I’ll even use your technique?”
+
+“Pretty high.”
+
+“Sure, but you know. Who’s gonna blame you for it? I learned it long after you died, and no one knows your ghost is haunting me. I’m the only one who’s going to take the blame for whatever evil things I do with it.”
+
+“Right, because people won’t notice that your filth golem is built exactly like Soma.”
+
+Rhys shrugged. “Once I meet him, I can investigate him in person and figure out how to build him anyways. He’s close enough to my path that I’m almost guaranteed to at least gain an insight or two from him, and if I can’t copy the exact technique you used, I’ll at least get close enough that it’ll look like I knew it anyways. If you think about it, all I’m doing is giving you a chance to influence how I build mine and what I do with them.”
+
+Daran sighed. He crossed his arms. “Even so…”
+
+“Well, at the end of the day, what we learned is that Daran doesn’t honor his promises.” Rhys sighed and shook his head in disbelief.
+
+“I do!”
+
+“You are actively not honoring a promise right now.”
+
+“I…” Daran’s face twisted in anger, and then he sighed deeply. “Alright, dammit. I’ll tell you. But you have to promise not to use it.”
+
+“That wasn’t a condition of the questions.”
+
+“It’s a new condition I’m adding right now.”
+
+“Daran doesn’t honor his promises! He’s a filthy liar and a cheat!”
+
+“Fine. Fine, dammit. I’ll tell you. But it costs two questions. It’s a big answer, after all.”
+
+Rhys shrugged. “Sure.” It wasn’t like he had plans for all three questions, and honestly, Daran could rightfully refuse to answer this ‘question,’ since handing over his magical techniques hadn’t been part of the deal. Giving pointers on concepts Rhys didn’t fully comprehend was, but not handing over entire techniques. If Daran made good on his promise, it was definitely worth two questions.
+
+Plus, he’d already double-dipped on the questions to begin with, since he’d used the scenario in which he’d gained the questions to confirm that Daran didn’t know about absoluexistence. At this point, charging him two questions to teach him the technique to create Soma felt more like ‘fair’s fair’ than a bad deal.
+
+Daran took a deep breath, then sighed. “It’s not that complicated, all told; that’s why I didn’t want to tell you. Gather a great deal of filth in one place—”
+
+“Like an Impure Well?”
+
+“Like a hundred of those or more, concentrated into an egg the size of your head. Feed it mana and nurture it like a child. When one piece of filth gains sentience, wipe it away, over and over until it’s the whole ball of filth that’s gaining sentience, rather than one piece.” He paused. “That was to prevent the mistake I made with Straw, where he’s essentially a glorified straw spirit with an amalgamation body and some deep-seated body dysphoria.”
+
+“He thinks he’s a human, when he’s physically a wheat straw…?” Rhys guessed, confused.
+
+“He thinks he should inhabit a body made of many straws, when he, the single straw, ought to manifest a projection of a body like any normal spirit would. Like your friend, that disgusting book-stealing cat does. He doesn’t build a body out of many cats, he just manifests a human form and walks boldly around like he owns every text in the world. ” Daran paused. “Of course, he wouldn’t be much of a cursed doll if he did that, so I encouraged him to see himself as an entire doll even though I knew he was just a single straw… but that’s neither here nor there.”
+
+“Right. So the entire filth ball gains sentience as a ball of filth,” Rhys prompted him.
+
+“Correct. And then keep feeding it filth. The Impure Wells are partially my fault; some are generated from the shafts I drilled to reach the layer with the black goo. I often missed, but didn’t realize the allure of a deep shaft with nothing in it to the average mage, and so they became impromptu garbage dumps… for some of them. Others existed well before my time, and some, the most common ones, are used to house pieces of one of my fiercest weapons, which were then filled in by Soma.”
+
+“This guy?” Rhys asked, summoning the skeleton.
+
+Daran nodded, though reluctance was written all over his face. “Yes. Him.”
+
+“Him, uh huh. He’s my mount, you know that? He carries me around.”
+
+Daran looked like he’d sucked a sour lemon. “I do know that. I hate it.”
+
+“Hey—the first time I encountered this guy, there was a figure in armor carrying a sword that emits the aura of the sun. Any idea who that is?”
+
+“That—no, I don’t know who,” Daran said, quickly mastering himself.
+
+“Iiiis that going to be a question?” Rhys asked.
+
+“Yes.”
+
+“Then let’s leave it until after you finish making good on your promise for this one.” Rhys nodded at him. “Back to the topic at hand. Soma turned against you?”
+
+Daran clicked his tongue. “That filth didn’t have the appreciation for trash that you do. He developed a taste for the finer things in life and ignored me when I told them they were diluting his perfectly poisonous body. The other side offered him an unending banquet of everything good in this world, and the weak-willed trash gave in.”
+
+“I wonder why,” Rhys deadpanned. Man, what a puzzle. One side gives you trash, and the other side offers you luxuries. Oh man. Which side would I choose?
+
+…Okay, well, I’d pick the trash. But if I wasn’t insane, I’d pick the luxuries. It’s the obvious choice.
+
+Daran wrinkled his nose. “The idiot. Going against your nature will gain you no benefits. He’s likely weakened himself greatly since his days under me.”
+
+“Could he make that kind of filth pillar under you?”
+
+There was a long pause.
+
+Rhys looked at Daran. “Could he?”
+
+“No,” Daran admitted at last.
+
+“Hmm. It seems as though he’s found his own path. One that even the genius Demon King didn’t foresee,” Rhys teased him.
+
+“Shut your mouth. I did my best, but my weapons were always unpredictable. The more powerful, the less predictable. In any case… have your guard up around Soma.”
+
+“Yeah?”
+
+Daran nodded. “Moreso than Sid, he may be the most dangerous weapon still free among the world today, that did not fall in the final battle with the Sword Saint—”
+
+“It’s okay, Daran. You can say Remnant Weapon. We know what you mean.”
+
+“—and you should not show him the least weakness or opening, lest he exploit it,” Daran finished, giving no indication that he’d heard Rhys at all.
+
+“Haven’t you said Remnant Weapon before? Daran, you don’t need more sticks up your ass. There’s enough of ‘em in there already.”
+
+Daran squinted at him. “What?”
+
+“Turn of phrase. I think it refers to sitting upright with a such stiff back that it looks like there’s something propping you perfectly upright because you’re so strict, but honestly? Not sure. Never really got it. Is it homophobic? Is it even sexually explicit? Is it some kind of Freudian anal retention thing, which is a whole can of worms in of itself? I never did my research, and now I never will.” Rhys sighed, then paused. “I hope it’s not homophobic. I really don’t know.”
+
+“Right, well.” Daran cleared his throat. “Usually I’d warn you about Soma’s impurities and filth, but I think you know them well. Instead, I’ll go ahead and give you a different warning. You’ve never fought anyone with anything close to your path before, have you?”
+
+Rhys thought for a second, then shook his head. “Nope.”
+
+“Do not engage him head-on in a struggle for dominance over filth. Not only will he win, but you are sorely unprepared for a conceptual-level battle at the present moment. If two people with similar paths battle, and those paths are something other than straightforward, simple concepts like the Path of the Blade and so on, the battle can quickly escalate beyond the ordinary limits of battle. And though you may think yourself a master of filth, you have had neither the lifespan, the time, nor the depth of experience in filth that Soma has.”
+
+Rhys nodded. “Reasonable. You got it, boss.”
+
+“You—that easily?”
+
+“What am I supposed to say? ‘Oh, no, I’m so good I can defeat the expert who specializes in exactly what I do, but he’s been doing it for longer?’ That’s stupid. It’s like having a bachelor’s degree fresh out of college and trying to outdo the guy who’s been working on the project for fifty years. The guy knows more than you. Doesn’t matter if he doesn’t even have his high school diploma, if you go up against him, you’re the one getting schooled.
+
+“I mean, I’m trash, I get it, but… I know my place. I can fight above my tier because most mages don’t encounter trash or know how to deal with it. This Soma guy is a trash expert. He’s probably got counters to my counters. He’s probably working on some super-meta that I haven’t even thought of yet. I’m not gonna rock up to that guy and act like I’m king.”
+
+Daran raised his brows. “I didn’t expect you to be so reasonable. What a shocking moment of clarity from you.”
+
+Rhys scoffed. “I’m reasonable all the time. You’re the unreasonable one.”
+
+The aura of filth caught his attention, and Rhys stopped in his tracks and turned. Over there. Leaving Daran behind, he beelined toward the sensation.
+
+Daran watched him go, folding his hands into his sleeves. “I certainly hope he’s so reasonable when he encounters Soma.”

@@ -1,0 +1,163 @@
+---
+id: 8ad14350-cf97-5a4e-b65a-b3b4c7669e3f
+page-type-slug: story-chapter-royal-road
+title: "024: Solitude"
+slug: 0024-024-solitude
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 24
+ownLength: 2148
+unit: words
+publishedAt: 2024-04-24
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1608726/024-solitude"
+royalRoadId: "1608726"
+---
+
+Enchanting floral scents tickled her nose as she entered the 11th Floor. Looking around, Evelyn saw an endless grassy plain littered with vibrant flowers. The portal closed behind her and she allowed herself a moment to breathe, calming herself.
+
+Not that she was under any duress, but peaceful moments were hard to come by in the tower and she wanted to make the most of it while she could. Right on cue, a ring of portals flashed into existence all around her, putting her in the centre of a ring of glowing doorways about twenty metres in diameter.
+
+Trust the tower to ruin the atmosphere. I wonder what the challenge is? Do I need to guess which portal takes me in the right direction? Is it a maze?
+
+Evelyn didn’t have to wonder long, as crawling from every single portal came a horde of monsters. Truly freakish beasts, some with chitinous exoskeletons and fangs, some with fur and claws like knives, every specimen boasting a random selection of limbs from legs and arms up to creatively hideous appendages that put the boss’ laser and saw arms to shame.
+
+Last time she had faced a wave of monsters was with Kayla and Anthea, when they were first thrust together. Back then, just seventy-five monsters had posed a struggle for the trio, but Evelyn had already lost count of how many beasts were charging at her, with there being no sign of the portals ceasing to spew out monsters.
+
+I guess it wants to put my newfound determination to the test. A fitting whetstone for my class. Others might see terrifying abominations, but I just see an ocean of free essence.
+
+Old habits die hard, and as the first monster closed the distance and pounced at her, Evelyn unleashed a rumbling yell that stunned the horde for a moment before leaping into the fray with unmatched fervour.
+
+What followed was a brutal whirlwind of flying fists, slicing claws, biting fangs, flying limbs and showers of ichor and blood. Her bulk had held up against even a boss monster, but even the mightiest tree can be felled by the weakest child if they persevere. Against the endless tide, she began to accrue damage. A gash that wouldn’t heal here, a fractured bone that wouldn’t mend there. The idyllic landscape she had stepped into was now marred with the stench of death and oceans of blood.
+
+Despite that, there was no end in sight. Every moment that passed a fresh batch of monsters was poured from the portals. Soon Evelyn found herself buried under a mountain of foes, and despite her best efforts was beginning to falter. The sheer weight of the horde was threatening to crush her alive.
+
+You haven’t seen anything yet, you bastards. Let’s see how you like this.
+
+She began to pull on her mana and flickering flames sputtered to life from her every pore while the ground beneath her feet chilled and hardened. Her muscles screamed out, pushing against the tonnes of monsters that were writhing and crawling in their desperation to slaughter and consume her, but in the clash of strength and will, Evelyn won out.
+
+With a majestic flash and a blinding explosion, she unleashed Flashfreeze Flamecharge. In a single moment, she crossed the distance to the portals and left behind a trail of charred corpses and frozen bones. She had not killed all of the monsters - far from it - but the ones that remained hesitated to swarm her once more.
+
+Your class has advanced!
+
+Unyielding Warrior Lv.0 > Lv.1
+
+A small surge of power renewed her as her class received its first level. She couldn’t be sure whether it was defeating the monsters, or her simple act of defiance that had been the stimulus, but it didn’t matter. Even if it took her a day, a week, or a year to smash her way through this floor, her determination would not waver.
+
+~~~
+
+The portals had stopped spawning monsters and spluttered out of existence after a few hours, but to Evelyn it had felt like an eternity. Every single moment had her mind on edge, looking for the next strike to dodge or parry, the next opening to tear into. Assassin’s Eye had been a major help, allowing her to dismantle her foes with just one or two well placed strikes rather than mindless brute force. Her class had advanced a little more, and while the increases to fortitude weren’t monumental, the boost to her power had ramped up the force of her blows enough that she felt the difference.
+
+Your class has advanced!
+
+Unyielding Warrior Lv.1 > Lv.3
+
+Congratulations Challenger, you have cleared the 11th Floor! You may purchase one reward from the following:
+
+〖1 Attribute Point〗- 60 Essence
+
+〖Grey Star〗- 68 Essence
+
+〖Common Skill Crystal〗- 120 Essence
+
+〖White Star〗- 1800 Essence
+
+Huh, no more full recovery. I guess the 10th Floor marked the end of the tower being generous. That last challenge was significantly harder than previous ones. I think it ramps up the difficulty after a boss or mini boss, since the same happened after we cleared the 5th Floor. Not that I need a recovery anyway, what with my vitality and skills healing most of the damage that gets through my bulk. White star number three, come to mama.
+
+Evelyn had plenty of essence to spend even after acquiring the white star, which meant the Local Shop was going to be terrorised once again. The small savings from Bargain Hunter and the interest from Capital Gains were adding with the sheer quantity of purchases she had been making. Even Spendthrift had offered her the first of many free attribute points after she cleaned the shop of skill crystals and grey stars, so she dumped it into mana.
+
+Most of the skill crystals were just more of the same - Bulwark, Pugilism, Stellar Body, Stargazing. One or two interesting new skills were scattered among the duplicates however and she now knew the benefit of having unneeded ones lying around to use as fuel for the synthesis and fusion of higher quality skills.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Focus (Common) - Your mind is slightly more dedicated to the current task.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+White Infusion (Common) - White stars boost the production of grey stars by 1.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Starlight Strike (Common) - Consume stars to empower your blows. (Variable star cost)
+
+White infusion was incredible. Her essence income skyrocketed the moment she had received that one, and her mind was already whirring away, thinking of other skills she could synthesise it with to boost the effect even further. Focus was a little vague, but it would be useful to have for now and she could always use it as fuel for another skill’s evolution.
+
+Starlight Strike seemed… expensive. It was burning her long term gains for short term strength and she didn’t see herself using it in battle. It might be a last resort skill if she ever found her life in true danger.
+
+After fusing all the skills she could, Evelyn pondered beneficial combinations. In the end, she decided to wait for a while. There were the inklings of a fantastic idea in her mind, but she didn’t want to rush into it without confidence it would work out how she envisioned it. Her status now read like a page in a novel, with an ever expanding list of skills and stats that grew without her even needing to invest essence, thanks to her class and self-propagating skills like Stellar Body and Surging Blood.
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.3
+
+|Attributes|
+
+Power: 10
+
+Speed: 4
+
+Stamina: 8
+
+Vitality: 17 (19)
+
+Mana: 13
+
+Fortitude: 25 (42)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Rare), Bulwark (Uncommon), Bulwark (Common), Stargazing (Uncommon), Stargazing (Common), Assassin’s Eye (Uncommon), Bargain Hunter (Uncommon), Backlash (Uncommon), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Uncommon), Pugilism (Uncommon), Surging Blood (Uncommon), Impregnable (Uncommon), Arcane Shield (Uncommon), Arcane Shield (Common), Spendthrift (Uncommon), Solar Fusion (Uncommon), Salvo (Common), Corruption Resistance (Common), Focus (Common), White Infusion (Common)
+
+~Active~
+
+Fists of Frost (Uncommon), Mana Plate (Uncommon), Conjure Rock (Uncommon), Flashfreeze Flamecharge (Rare), Starlight Strike (Common)
+
+~Hybrid~
+
+Overpowering Spirit (Rare)
+
+Even more impressive than her status was the quantitative change which her stars had undergone with the most recent batch of skills. It wasn’t just Bulwark that seemed to stack with itself, but all skills, so thanks to duplicates of Stargazing and increased quality for her other star related skills, she would now have essence pouring in even while she slept.
+
+I feel like those finance bro, grindset types from back on Earth. What was it they used to say? Passive income over anything. I’ve almost shaved an entire minute off the timer too, fabulous!
+
+Essence: 14『+1054 / 5:59:12.6 hours』
+
+~~ Stars ~~
+
+Grey: 128
+
+White: 3
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+【KILL】
+
+The white stars now seemed like a poor investment considering their cost versus grey stars which if she was doing her maths right, produced 8 essence each every time the timer ran down. However, white stars would end up paying off as the numbers increased, since all the upgrades for her stars applied across the board with the exception of White Infusion.
+
+She was itching for another fight and almost ran through the portal to the 12th Floor. However, a blurred memory from between the 9th and 10th Floors of Kayla shouting at her reminded her that the portals had a hard limit of twenty-four hours. When her stars had been giving just a hundred or so essence every six hours, it hadn’t felt worth it to wait that out, but now that it was over a thousand? She would be an idiot not to take advantage.
+
+I have a feeling this is going to be tedious, but I can sleep - that’s eight hours at least. Maybe I can travel a little and pick some pretty flowers. Most of the common equipment hasn’t really held up to the rigours of the tower, but I wouldn’t mind a flower crown or bracelet.
+
+~~~
+
+The field of flowers had stretched on for miles and miles with no end in sight. Evelyn had to conclude that the tower was genuinely infinite, or some kind of dimensional trickery was in play allowing it to compress massive spaces into wherever in the universe it was. If it was even in their universe. Too existential. Her glossy black hair was now adorned with a gorgeous crown of pastel blue and purple flowers, with a pair of bracelets, one on each wrist, to match.
+
+She had had a wonderful sleep, the most restful of any she’d had in the tower so far. All the minor aches and pains that even her attributes refused to fix had been banished and a hazy dream inspired by her painstaking floral handiwork had given her a marvellous idea of how to spend the remainder of the time on the 11th Floor.
+
+Among the charred and ice-wracked corpses of her monstrous foes lay a few which were not wholly destroyed. It was these which she now sought out, for her latest experiment. If the gear the tower offered wasn’t up to par, why shouldn’t she try her hand at making some of her own? The chitin and hides of these beasts had been tough and flexible, able to withstand even her blows, so it stood to reason that she might be able to fashion some armour or weapons that wouldn’t shatter after a few blows.
+
+Evelyn found a centipede looking creature whose exoskeleton had been hard enough to rattle her bones when she struck it and hadn’t been decimated in their clash, as well as a wolf-squid hybrid that had a thick and rubbery hide, which even her stolen shortsword failed to pierce. In the end, she had to use the claws of another beast to skin it. Her father had taken her hunting once, and she remembered enough of his teachings to salvage half of the hide, with the rest damaged beyond repair.
+
+It was a hulking beast however, so even that amount would be plenty for her to hone her skills. As for the chitinous plates of the centipede, it wasn’t difficult to pry them off with her bare hands and she ended up with a massive pile of raw material.
+
+I’m not that skilled with my hands, but I want to at least give this a go. There isn’t much else to do with the next twelve or so hours. I bet Lily would be amazing at this, she used to be a dab hand at pottery. I wonder how they’re doing.

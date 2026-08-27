@@ -1,0 +1,101 @@
+---
+id: 92037e47-2965-563e-8b0c-1439da0a40eb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 954: Misgivings"
+slug: 0021-chapter-954-misgivings
+partOf: he-who-fights-with-monsters
+position: 21
+ownLength: 2127
+unit: words
+ownProgress: 2127
+publishedAt: 2025-01-24
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2028384/chapter-954-misgivings"
+royalRoadId: "2028384"
+markedReadAt: "2026-06-29T19:04:30.396Z"
+---
+
+Members of the Cabal had been hiding themselves for longer than humans — at least the ones from Earth — had been recording history. Some were reclusive, their glamours not holding up to close scrutiny. Others were capable shape-shifters, blending unnoticed into human society.
+
+Messengers were among the most capable in this regard. They could hide their wings, reduce their size and even diminish their natural beauty and compelling presence. Other inhuman traits, such as hair colour, could likewise be disguised. In this way, the messengers had hidden themselves for millennia. Even many amongst the Cabal had considered the angelic founders of their collective a myth.
+
+Fifteen years past the revelation of their existence, many were more relaxed about masking their nature. The wider cabal was often doing much the same, from diminutive fairies to looming ogres. There were many advantages to the human form, however, even within Cabal facilities. When you were nine feet tall, with three-foot antlers, taking human form was just easier when you were in line for the handmade naan bread station at the cafeteria.
+
+Boris Ket Lundi, or Boris Ketland, as he went by on Earth, had long been comfortable with human proportions. Those proportions had changed considerably over the years, his first visit to Earth predating the existence of humans on Earth by a considerable margin. He had once spent several millennia disguised as a celestine research assistant, studying the effect of magic on convergent evolution across universes. It had been a useful cover in scouting potential sites for hidden Unorthodoxy colonies.
+
+Earth had been a bold choice for such a colony, being central to the scandal that saw the original Builder sanctioned. The gamble had paid off, however, as the Council of Kings saw no value in poking at the great astral beings and avoided the seemingly worthless world. It had been tricky to set up infrastructure to sustain gold and silver rankers on the low-magic world, but that was put in place before the rise of the early hominids. There was no way to allow diamond rankers to live there, but they were few in number anyway, and could take care of themselves.
+
+Unlike the Council of Kings, Jason Asano was not afraid of jabbing transcendent beings and their interests. His ability to keep doing so without being spread across the concrete like an unfortunate jam spillage surprised even Boris, whose life experience spanned billions of years. He had marvelled at Jason, who had no concept of how often the hand of vengeance had been stayed by wildly unlikely circumstances or a bizarre confluence of transcendent agendas.
+
+Even now, plans born long before Jason Asano were moving, unnoticed and unseen. Like the water of an underground river, few realising what was happening, right beneath their feet. The schemes set into motion by Jason’s outworlder predecessor, the Network founder, continued to play out. Boris had worked with the founder’s own familiar to betray him to early magic societies that would eventually become the Network.
+
+That act had not stopped the clock the founder had set in motion, but it did allow them to accelerate the magical knowledge of Earth’s fledgeling essence users. Not enough, but the deficit of magic on Earth was always going to be the limiting factor. The rising magic of the last century or so, had led to the Network becoming fully established.
+
+Noreth had always been an unstable element, and his increasingly extreme and isolationist approach to advancing Earth’s magic had been disastrous, in the end. His Engineers of Ascension had attempted to push magic forward through less conventional paths, but Boris had refused to participate. Noreth and his organisation’s research was dangerous enough, without access to the knowledge of the cosmos.
+
+In the end, Noreth had failed to realise that Asano was an ally and not an enemy agent until too late. His drastic move of disabling the grid had created the transformation zone crisis, almost destroyed the planet and spiked the magic level of the Earth.
+
+Boris had come to the brink of revealing his messengers to resolve the crisis, but Asano had managed it alone. Even so, the increased magic level and reduced stability of the Earth had accelerated the enemy timeline. The worst part was that Boris could do nothing, forced to let Jason play into enemy hands. The only alternative was to let the Earth be destroyed.
+
+Ultimately, Jason’s efforts had allowed the messengers to remain hidden. The more Boris was forced to expose the presence of his people, the more likely they would be discovered by those out in the cosmos. Once revealed, the messengers would need to leave or bring the wrath of the Orthodox messengers down upon the Earth.
+
+If Boris and his people had to leave, they would not be around for the war to come. That was an eventuality that he now accepted was more likely than not, after Noreth’s actions. The dimensional bridge had needed to be put in place decades before previously necessary.
+
+The likelihood of the messengers being forced to leave and not be present for the war had pushed Boris to revisit an old decision. He had helped the Asano clan take up one of Noreth’s projects, something he would never have done if Noreth was still alive. He trusted the clan, under Jason and his grandmother, to act more responsibly than the rune spider would have. He doubted it would be enough, but it would give the Earth a chance, at least. If he and his messengers were not present to fight, they would desperately need it.
+
+Asano’s detour with the Cosmic Throne had given them a precious fifteen extra years to prepare, but even that was pushing it. Much longer and signs of dimensional breakdown would have started to show. Now, the bridge was set in place. The Earth would heal over time, but was opened to a new threat. Within a decade at most, the bridge would become a true dimensional passage, no longer requiring sophisticated astral magic to cross.
+
+Boris found himself forced to admire the plan. The World-Phoenix, Jason, Boris himself and many others played a part, each elegantly place to do their part. Some, like Jason, were oblivious to their role, while Boris had no choice but to go along, despite knowing the outcome. The World-Phoenix could not be forced, manipulated or deceived. It simply didn’t care what happened, so long as the Earth’s dimensional stability was ultimately restored. The enemy used that disinterest, relying on the World-Phoenix doing what it would have done anyway.
+
+Dawn had been a surprise to Boris. He had not expected the World-Phoenix’s agent to form such a connection with Jason, although that seemed to be the man’s true talent. He made friends or enemies, and little in between, everyone either loving or hating him. Even Boris quite liked the man. He had an inkling that the enemy had been equally surprised by Dawn’s behaviour, and took hope in that. He didn’t know exactly what she had done for Jason, but was certain she’d taken actions beyond the mandate of her great astral being. It could be the thing that saved them all.
+
+Boris contemplated all of this from the Cabal main headquarters, in what was once the Democratic Republic of Congo. The Cabal’s influence in Africa was greater than that of the other magical factions, but the former DRC was one of the few regions where it had outright seized power. The Cabal preferred to operate in a supporting role with existing governments, but several areas had proven too unstable after the rise of magic.
+
+He sat in a room that looked like a security office, with an array of monitors on one wall. Running on loops was all the footage of Asano’s return publicly available, and quite a few that weren’t. Boris sat at a desk where a computer held every document and report they could get on Asano and what the powers of Earth had done in preparation for his return.
+
+The media had only just been cleared to announce that Jason was back. There had been some inevitable leaks, but Jason Asano was a name of the past. His name alone caused a stir, but no great waves. He was a name from the earliest days of magic, and the world had moved on. The interest in him was rising now, ramping up as footage of his dramatic arrival was released. Carefully curated, of course.
+
+The public interest still wasn’t at the level that Boris knew would inevitably come. They didn’t understand the scale or context of what was happening, but that would change over time. The next fight would not be one of powers and violence but image and messaging. Whether to mobilise the world, or maintain the status quo, the key was controlling the narrative. He was frustrated at his inability to put his hand on that scale. He had already revealed himself more than was wise, especially with cosmic eyes now pointed at Earth.
+
+Boris sighed, rubbing his hands over his face. He wondered yet again if it was the right move to let things play out, keeping Asano in the dark. And he came to the same conclusion as always, as much as he disliked it. Jason’s penchant for extreme-risk solutions would undoubtedly rear its head if he found out what was coming.
+
+The only real tool Asano would have to fight the outcome was his connection to the dimensional bridge, and Boris was not the only one who wouldn’t allow it to be endangered. If something happened to it now, it would almost certainly undo the Earth, and possibly Pallimustus as well.
+
+Boris looked up at the image of Jason fighting the cosmic invaders, knowing that Earth had to be ready for worse. They had to make the most of the next decade, and Jason had to be the catalyst. His unique position, hovering between protector and threat, was the exact motivation that the Earth needed.
+
+He stood, just as the door opened. Tera Jun Casta entered, her eyes finding Asano’s image on the monitors. There was a lot of baggage there that needed to be carefully unpacked, now that Asano was back.
+
+“Are you going to Australia?” she asked.
+
+“Yes. Do you want to join me?”
+
+She looked back at the screens.
+
+“Yes. No.”
+
+She bowed her head and mumbled at the floor.
+
+“I don’t know.”
+
+He reached up to give her a comforting pat on the shoulder. She was one of the few messengers who kept her wings and much of her size, even indoors. Her towering height of almost seven feet made life awkward, but little more than humans of similar stature. Her looming form was incongruous with her cute, rounded facial features and brassy-haired pixie cut.
+
+“Maybe wait,” Boris suggested in a soft voice. “Things are hectic right now. Give them time to settle.”
+
+She nodded. Boris patted her on the shoulder again and left her in the office, watching the recordings of Jason.
+
+***
+
+Colours swirled over the navigation table on the bridge of Admiral Jakaar’s flagship. Dimensional maps were abstract, shifting things, as traversing astral geography was wholly unlike navigating physical reality. Time and space became arguably and variably the same thing, wholly at odds with each other, or non-existent entirely.
+
+One of the less discussed aspects of being a diamond-ranker was how approaching the peak of mortal power granted glimpses of what lay beyond. Jakaar could feel the flow of the cosmos, like a voice slightly too distant to make out clearly. When he nudged up against the higher rules of the cosmos, that voice became clearer, although he didn’t always like what it said.
+
+In this case, he could feel the rules of intrusion. They were telling him that the fragile backwater universe containing Earth was still unavailable to him, even through gold-rank catspaws. Enough time had passed that his people should have either finished the job or reported their failure.
+
+The link between this universe and the other was impossible to miss, to the point of almost blinding his vessel’s sensors to anything else. He had his fleet running patrols in case of ambush. He wouldn’t normally expect as much, out in this backward, cosmic crevice, but the continued silence from his most reliable gold rank agent spiked his instincts. He had the feeling that he was somehow being played, and he didn’t like it. Wishing he’d given more credence to Jota’s misgivings, he slapped a hand on the navigation table in frustration.
+
+“Keeley?”
+
+“Yes, Admiral?”
+
+“Collect what we have about Earth. Scouting reports, transcripts of every communication when we were cutting the deal, everything. Send it to my stateroom.”
+
+“Of course, Admiral.”

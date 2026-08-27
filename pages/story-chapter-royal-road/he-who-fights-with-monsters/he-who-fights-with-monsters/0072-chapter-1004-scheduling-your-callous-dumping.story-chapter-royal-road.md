@@ -1,0 +1,233 @@
+---
+id: b3aa09b3-ca7f-525a-b3b2-75ad8b98b286
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1004: Scheduling Your Callous Dumping"
+slug: 0072-chapter-1004-scheduling-your-callous-dumping
+partOf: he-who-fights-with-monsters
+position: 72
+ownLength: 2109
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3511677/chapter-1004-scheduling-your-callous-dumping"
+royalRoadId: "3511677"
+---
+
+The sword at Akari Asano’s left hip was a gift from Prince Valdis Volaire, her regular sword training partner of the last decade. He had forged the rare gold-rank weapon himself, using techniques from the other world. While Earth had advanced in magitech, the focus was on guns, vehicles and other tools of contemporary warfare. Few had dedicated themselves to the archaic art of swordsmithing.
+
+Standing in the foyer of her cloud house home, she gripped the hilt tightly with her left hand in an unconscious gesture of reassurance. Her husband stood in front of her, a suitcase in each hand.
+
+“I can’t believe you’re moving out,” she said to Itsuki.
+
+Itsuki let out a weary sigh.
+
+“Goodbye, Akari.”
+
+“Why are you doing this?”
+
+“Because I’m not moving out, Akari. I just came by to pick up some more of my things. I moved out three weeks ago and you’re only noticing now. That’s why.”
+
+“Without even talking to me?”
+
+The suitcases dropped to the floor. Itsuki’s lips tightened as he held back his immediate response and took a deep breath.
+
+“Does this sound familiar to you, Akari? ‘Yes, we can talk, but it will have to wait until I come back from this training excursion.’ Or monster hunt, or whatever it is this time. But we never have that talk, do we? You’re always off again, or sleeping in the training centre dorms because it’s more convenient than coming home.”
+
+He smiled bitterly.
+
+“After all, what is there to come home for?”
+
+“Itsuki, I know that I’ve focused on the sword for the last few years—”
+
+“You don’t have to explain yourself to me, Akari. I know exactly who you are, and I love you. I always have. And you love the sword. Having your monster core residue removed so you could advance through training was like finding your way after being lost in the woods. Throwing yourself into that training is exactly who you are, and I love that person. I would never try and take that from you.”
+
+“Then what is going on here?”
+
+“I know that mastering the sword requires discipline, diligence and a commitment of time and effort. So does a marriage, but you don’t have any left for that. Your life doesn’t have room for me anymore.”
+
+“I know I’ve been focused, lately.”
+
+“It’s okay, Akari. You think you should fight this because it seems like the thing to do, but sometimes the right thing to do is let go. I’m just removing something your life doesn’t have a place for.”
+
+“Being my husband doesn’t mean you can arbitrarily decide what’s best for me. If you want to run, Itsuki, then at least have the courage to admit it instead of claiming you’re doing this for me. Or, better yet, give me a moment to get my head around what’s happening here. I found out my husband is leaving me two minutes ago and I haven’t had a second to gather my thoughts! Obviously, you’ve been thinking about this for a long time, so you know exactly what you want to say. You’ve probably been practising this confrontation in your head. Maybe give me a minute to process this and we can talk.”
+
+Itsuki picked the suitcases back up.
+
+“Of course we can talk, Akari. But it will have to wait until I come back from the vampire war.”
+
+He stepped around her and through the open door. Taika was leaning on a car out front. He gave her an apologetic smile. She watched as Itsuki put his luggage in the back and the car drove away.
+
+“Did he say three weeks?”
+
+***
+
+Jason sat in a cloud chair on the balcony of his cloud ship cabin. Zara came up behind him and slid her arms around him, leaning her head on his.
+
+“You’re getting maudlin again,” she scolded. “We’ve talked about this.”
+
+“Yeah. But there’s something we haven’t talked about.”
+
+“I know. It doesn’t have to be now, with the fight still ahead of us.”
+
+“It weighs on me.”
+
+She sighed and let him go. She stepped around him and another cloud chair formed out of the floor. She claimed it, leaning forward and slipping her hands into his.
+
+“When we go back to Pallimustus,” she said, and he nodded.
+
+“You have responsibilities. You’ve been gone from the Storm Kingdom for a long time, and they’ll want you to make up for that.”
+
+“I’ve been gone for a long time before.”
+
+“And they wanted you to make up for that. They will again, and being attached to me will complicate things. Especially given what’s waiting for me there.”
+
+“You want to end things.”
+
+“No. But you know we should. For now, at least. Forever is a long time, Zara.”
+
+He squeezed her hands gently.
+
+“Not all of us have forever, Jason.”
+
+“You will. A lot of us will, and not just our friends. Even before we left, it was clear that our generation of adventurers was remarkable.”
+
+“It was?”
+
+“The diamond-rankers are watching.”
+
+“Who told you that?”
+
+“A diamond-ranker.”
+
+“Which one?” she asked, her tone a mix of suspicion and warning.
+
+“Allayeth.”
+
+“The pretty elf from Yaresh.”
+
+“She’s a diamond-ranker, Zara. They’re all pretty. I hate to think what Rufus is going to look like at diamond. His fans are creepy enough now. The way they factionalised when he shaved off the afro was nuts.”
+
+“You’re trying to distract me.”
+
+“With Rufus’ sexy, shiny head? Is it working?”
+
+She leaned in to give him a gentle kiss.
+
+“No. You have a thing for powerful women.”
+
+“Lucky for you, Princess. But I also have a thing for monogamy.”
+
+“Were you and Allayeth ever…?”
+
+He shook his head.
+
+“A gentleman doesn’t kiss and tell, Zara. Or not kiss and tell, if put to the question. But you’re not so insecure as to care about that, which means that now you’re trying to distract me.”
+
+She leaned in to kiss him again.
+
+“Is it working?”
+
+“Yes, so stop it.”
+
+She flashed him an imp’s grin and he rolled his eyes.
+
+“The gods are getting unruly on Pallimustus, Zara. Purity, Disguise. What Knowledge is doing is so far over the line that the fallout will be cosmic. She’s looking to worm around rules that I went to no small effort to put back in place.”
+
+“What’s your point?”
+
+“There’s a reckoning coming for the gods of Pallimustus. I met with Rufus’ grandfather a while back, and he told me that there was a conflict coming that I wasn’t ready for. Not back then. A new wave of adventurers is heading for diamond-rank like it’s their destiny.”
+
+“You think the diamond-rankers are going to confront the gods? They can’t win that fight.”
+
+“That’s because, with gods, there’s nothing to fight. They have no body to kill. But they’re also, for all their power, more limited than people realise. They can’t break the rules that bind them, the way mortals can. They can bend and twist them. Squirm around them, like slime oozing under a door, but they can’t break them. That is how you fight a god.”
+
+“That sounds kind of vague.”
+
+“I didn’t say it would be easy. And maybe I’m wrong. But I think that mortals and gods are going to come into conflict, and we’ll each have our parts to play. As always, with war, it’s the people who had no hand in starting it who suffer the most. As a leader in the Storm Kingdom, you’re going to have your hands full keeping your people safe. And I’ll have my own fight, whatever that ends up being. I just know that it will be different from yours. There will be literal worlds between us.”
+
+They both leaned forward, resting their foreheads together.
+
+“You’re not very tall,” Zara said and Jason snorted a laugh.
+
+“This is a serious moment,” he told her.
+
+“I know. You’re callously dumping me.”
+
+“Not until we go back to the other world,” Jason pointed out. “Technically, I’m scheduling your callous dumping for later.”
+
+“Oh, that makes it fine, then.”
+
+“You could dump me if you’d like.”
+
+She leaned back, her face excited.
+
+“I could do it in front of the media. They’d love that.”
+
+Jason put his hands over his face and let out a groan.
+
+“Please don’t. I have enough trouble with the people who think I’m here to drag the world into heresy and are not shy about voicing their displeasure. I have no interest in facing the wrath of your online followers. They’re not as bad as the ones Rufus has, but they don’t like me already.”
+
+“You have your own online followers.”
+
+“You mean the people who think I’m here to drag the world into heresy and are happy about it?”
+
+“Aren’t you, though?”
+
+“No! Not… on purpose. It’s not my fault how the world was created. I just told people about it, and it went exactly as badly as I thought. I’m still banned from the New Vatican.”
+
+He turned to look at the door.
+
+“What?” Zara asked.
+
+“General Mills wants me for battle prep. He has a lot of ducks to get in a row, and I’ve been tweaking the cloud ship so he gets the most out of it as a command and control centre.”
+
+“How is he adapting?”
+
+“It seems to be going well. Not everyone is delighted about an American being in charge. Astonishingly, some of them would even prefer me.”
+
+“Well, I’d say there’s no accounting for taste, but I’m about to shamelessly dump you on television, so I can’t really speak.”
+
+***
+
+“That was cool, bro,” Taika said as he drove towards his house. “That whole bit about swordsmanship and marriage both needing discipline or whatever. Sounds like something Jason would say.”
+
+“Thanks.”
+
+“Wasn’t a compliment, bro. Jason talks like he wants to win every conversation he’s in. Last I checked, you don’t win a marriage. You weren’t talking like you want to salvage your marriage. You were talking like your marriage is over and you’re looking to score points in the aftermath. It’s kind of a dick move. You know a lot of people hate Jason’s guts, right? And not just because he said God was some guy he keeps beating in fights.”
+
+“That’s not how he described the Builder.”
+
+“Not my point, bro. Do you want to repair your marriage, or dunk on your ex?”
+
+“My marriage is over, Taika.”
+
+“Is it? Because that seemed like a surprise to her, and you wouldn’t shut up about how in love with her you are.”
+
+“I am.”
+
+“Then why quit?”
+
+“I tried to make it work.”
+
+“Did you? Or did you mope around like a sad boy because she was spending all her time with the handsome prince from another universe?”
+
+“She’s not having an affair with Valdis. She wouldn’t do that.”
+
+“That’s great. Trust. But are you going to sit there and say you aren’t shirty about her spending day-in, day-out with a literal handsome prince? One with magic powers.”
+
+“I have magic powers.”
+
+“Yeah, but yours are all dark and sinister because you keep trying to be Jason. Valdis is more the hero-all-the-ladies-lust-after type.”
+
+“Okay, I don’t love it. Or that you keep saying ‘handsome prince.’ Is that what you want to hear?”
+
+“It doesn’t matter what you say to me, bro. It matters what you say to her. You told her that you wanted to talk, but did you ever tell her that you need to? Do you honestly think she would have kept blowing you off if you’d made it clear how important it was that you have an actual discussion about your marriage?”
+
+“I shouldn’t have to make an appointment for my wife to realise that something is wrong with our marriage.”
+
+“No, you shouldn’t, bro. I’m not saying your feelings are wrong, but you have to face the situation you’ve got. Do you want to save your marriage, or win your divorce?”
+
+“I… I don’t know anymore.”
+
+“I think you do, bro. You’ve been living in my spare room for three weeks. That’s not moving out, bro, that’s crashing at a mate’s place. If you really wanted out, you’d have your own place already. If you went to the housing office, they’d have you in a new place that day. They can conjure an apartment out of nothing if they have to.”
+
+“He’s right,” Jason said, suddenly sitting in the back seat. “You should get a marriage counsellor. Communication is so important in a relationship. Also, you both know you could run to Taika’s house faster than this car can move, right?”

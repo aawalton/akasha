@@ -1,0 +1,257 @@
+---
+id: a5ca5b73-c4f5-5901-9260-166f71de1491
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19: New Skill Acquired"
+slug: 0019-chapter-19-new-skill-acquired
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 19
+ownLength: 2379
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3713539/chapter-19-new-skill-acquired"
+royalRoadId: "3713539"
+---
+
+Chapter 19: New Skill Acquired
+
+The light came before the sound.
+
+A blinding flash of gold, there and gone within a single heartbeat. Bright enough that several of the Human Ts around me gasped and threw an arm up to shield their eyes. When it faded, the spear-user was no longer in front of me. He was several meters away instead, crumpled at the base of a tree that had, in that same instant, acquired a fresh crack running the length of its trunk.
+
+No one moved.
+
+Not the Warriors, mid-charge, boots still half-raised from their last stride. Not White, spear stopped mid-drag, its ominous scraping cut off mid-note. Not even Zebra, down on one knee with blood running steadily into the grass, his breathing suddenly the loudest thing in the clearing because everything else had simply — stopped.
+
+The wind kept moving. The grass kept bending with it. Everything that was not a human continued on exactly as it had a moment before, indifferent, while every single person in this clearing stood frozen, as though the world had briefly forgotten how to include them in its own physics.
+
+It lasted three seconds. Maybe four.
+
+Then the system arrived.
+
+[You have gained enough knowledge about face-slapping: about its origin, about its nonsense, and about what it actually is, having now experienced it from both directions.]
+
+[You have learned Face-Slap. Anyone you face-slap who loses their will to fight back becomes your follower. Effect can be cancelled by face-slapping the opposite cheek.]
+
+I looked at the notification for a moment and decided I had no immediate opinion about it worth forming.
+
+The spear-user pushed himself upright.
+
+His eyes had gone entirely white: no pupil, no iris, nothing but a flat, total blankness. He moved toward me with a slow, swaying gait, the way something might walk if it had forgotten it had legs until very recently. He stopped three steps in front of me and knelt.
+
+The Human Ts gasped again, a ragged, overlapping sound.
+
+I ignored all of it.
+
+I turned to Zebra.
+
+In front of him, sword painted red to the hilt, stood Buffalo.
+
+The four reinforcements had regrouped, forming a loose wall between their leader and me.
+
+"What did she do to him?" one of them muttered as he looked at the spear-user.
+
+"And how did she gather that much spirit energy in the first place?"
+
+"Damn it." The nearest one adjusted his grip on his sword. His legs were shaking. "But we can't let her get closer to the boss."
+
+White stepped in front of me before I had decided to move. "Raffea, give me some."
+
+I looked at her back. The white robe. The braids, mostly still in place despite everything. I did not move.
+
+She sighed. Then turned, took my hand herself, and pressed it flat against her chest.
+
+"Don't worry." Her voice was light, almost bored. "I leveled up considerably after the first time, which means my capacity's bigger now. And I've spent most of what I had, so there's plenty of room. Besides, didn't I already tell you," she grinned, "not to underestimate me?"
+
+I looked at her eyes. Crimson, steady, holding nothing that resembled fear. Only certainty.
+
+I nodded.
+
+The warmth moved from my neck, down through my arm, into my hand, and from my hand into her. I found the edge of it early, and stopped there before it could go any further.
+
+She didn't go flying this time.
+
+She simply glowed, gold light gathering at her outline and settling into her the way water settles into cloth, and then it was over.
+
+"See?" She turned her back on me, silver braids swinging with the motion. "Told you I could handle it." She raised one hand as if holding something invisible. "Unfortunately, this is where it ends."
+
+The four sword-users charged.
+
+The ground shuddered. The charging men skidded, boots losing purchase on grass that had, without warning, stopped behaving like solid ground. Silver rose around her in thin, glittering threads, drawn up from somewhere beneath the soil, twisting and compressing together until a sword the length of two men stood balanced easily in her raised hand.
+
+The sword-users looked at each other. Then at Buffalo. Then at the sword.
+
+One of them took a step forward anyway.
+
+"We still have our advantage in numbers."
+
+Hearing those words, the others followed his lead.
+
+White sighed. "Don't tell me I didn't warn you." She wound her sword back. "Now then, should I hit them with the sharp or the flat side?"
+
+"If it's not too much, try not to kill them!" Human E shouted behind us.
+
+"Eh? You really are a slave driver, old ha— elder." White adjusted her grip.
+
+She swung.
+
+The flat side of the sword caught the first sword-user across the chest and sent him flying, boots leaving the ground entirely. The other three took the opening while he was still airborne, closing fast — but White hadn't lost any of her momentum, and the blade was already coming back around on the return arc. It caught the next two together, and threw them both sideways into the grass. The last one didn't even need to be hit directly. The gust the blade dragged behind it was enough on its own, catching him mid-stride and knocking him flat before he'd covered half the distance.
+
+The clearing went very quiet.
+
+The last one straightened and looked around at his three companions, all down, all groaning, none of them getting up. His leg was visibly shaking.
+
+He stepped forward anyway.
+
+"How brave." White rested the giant sword on her shoulder like it weighed nothing at all, watching him come with something that might have been respect, if respect and pity could occupy the same expression at once.
+
+"Stop!" Buffalo's voice cracked across the clearing. He was already moving, closing the distance, past the last sword-user.
+
+White's blade came down in a single clean arc, cutting a line into the earth in front of her. "I dare you to cross it."
+
+Buffalo stopped precisely at the line. Then, without anyone asking him to, he sank down onto one knee.
+
+"That was boring," White said.
+
+System, why is he kneeling? I didn't face-slap him.
+
+[You don't need a face-slap to break someone's will. There are other ways.]
+
+I see.
+
+Buffalo's head stayed bowed toward the ground. "That light, there was no mistaking it. That was the light of the pillar of light."
+
+A murmur moved through the Human Ts at once: low, uncertain, the sound of theories suddenly needing to be reorganized on short notice.
+
+I walked past him without answering and stopped in front of Zebra instead. "Are you okay?"
+
+"Do I look okay?" He grinned anyway, blood still welling steadily at his side.
+
+Then Donkey came out of nowhere and landed on him, knocking him flat onto his back.
+
+"Get off me, Mei! I'm wounded!"
+
+"You're always wounded, that's not new!" She had both arms locked around his neck and showed no sign of releasing them.
+
+The Human Ts erupted into cheering, fists raised, someone starting a chant of Zebra's actual name that quickly devolved into simple noise.
+
+One of them with a length of white cloth already unwound in his hands, dropping to his knees beside Zebra.
+
+"I won't let you use your wounds to get pampered by your wives," he announced with a big grin, already winding the cloth around Zebra's midsection.
+
+"Stop it, idi—" The cloth caught Zebra's mouth on the next pass, cutting the sentence off mid-word, and committed to wrapping his whole mouth.
+
+Donkey sat up and wiped at her eyes with the back of one wrist. Then she laughed.
+
+Everyone around them was laughing now. The whole cluster of Human Ts, the tension of the fight bleeding out of them all at once into something loose, relieved, and a little hysterical.
+
+Watching them, for no reason I could immediately name, I thought of Dad.
+
+My hand went to my chest and closed into a fist against the fabric there, gripping harder than the moment seemed to call for. It felt like the correct thing to do, even without understanding exactly why.
+
+"What are you doing here all alone with a face like that?" someone said beside me.
+
+I looked up. The Human Ts had drifted over at some point without me noticing, forming a loose ring around me the way they'd formed one around Zebra earlier, leaving him behind wrapped in his cocoon of white cloth and complaints.
+
+"Yeah, come on! You're the star of the night!" another voice added, followed by a general murmur of agreement.
+
+I'm not a star. This was likely another human metaphor. I nodded anyway.
+
+They laughed louder at that.
+
+Then I heard someone click their tongue.
+
+I looked closer at the Human Ts. They were still laughing, still occupied with each other.
+
+I turned around instead.
+
+The contrast struck me immediately.
+
+On the other side there are also Human Ts, but their faces had gone the opposite direction: grim, looking at the ground, children asking their parents, "Are we going back to where the black things are?"
+
+"Why can't everyone be happy?"
+
+I walked toward them before I'd fully decided to, crossing the space between the two lines of Human Ts, and stopped in front of a little girl standing near the front. Small enough that she'd been mostly hidden behind the legs of the adults around her.
+
+I patted her head. Once, the way Dad did it to me.
+
+She looked up at me and smiled.
+
+I smiled back.
+
+The adults around her went quiet, watching this happen, their expressions shifting through several things at once that I didn't have names for yet.
+
+One of them, young, barely older than the disciples I'd trained beside, found his voice first. "But we lost. We won't have anywhere to stay."
+
+I tilted my head. "Why?"
+
+He looked at the man beside him, as if the answer might be standing there instead of in his own mouth. That man looked at someone else. The confusion passed down the line like a current with nowhere in particular to go.
+
+Human E stepped up beside me, her stick finding the ground with its usual small, deliberate sound.
+
+"What she means is that you're welcome to stay with us."
+
+Hmm…
+
+That was not what I'd meant. What I'd meant was closer to: the savanna was very large, and grass grew in most directions of it, and I did not understand why losing one fight over one patch of ground meant an entire tribe was required to have no ground anywhere at all. But the Human Ts' faces had already begun to brighten at Human E's version, and mine had apparently required translation into something with actual policy attached before it did anyone any good, so I decided against correcting her. It seemed like the sort of correction that would only make things worse for everyone, myself included.
+
+But a Human T objected. "But Elder—"
+
+The stick's end found a stone on the ground, making a sharp, deliberate sound.
+
+"Silence! The ones who contributed the most have the say. And one of them had already accepted them." Human E looked at White.
+
+White checked her fingernails. "Not interested."
+
+Human E then looked at me.
+
+I looked at the other Human Ts. At the small girl standing near where my hand had been a moment ago. She smiled up at me.
+
+I nodded.
+
+"Then that settles it," Human E said.
+
+The Human T didn't argue back.
+
+Human E turned to Buffalo, her expression settling into something less warm.
+
+"The problem, however, is you." She pointed the stick at him. "There's no mistaking what happened here. Your people attacked us first."
+
+Buffalo's head went lower.
+
+"We have no excuse to offer." His voice had none of the grinding confidence it had carried while he was still swinging a sword. "If exiling me is the price for my people to stay, then so be it."
+
+The four sword-users behind him shifted.
+
+But before any of them could say something, he said, "What are you waiting for? Go to their side already."
+
+They looked at each other. Then slowly, they moved to the Human Ts from the other tribe.
+
+The leaves at the treeline rustled.
+
+It was a small sound. The kind that should have belonged to wind, except there was no wind, and every other sound in the clearing had gone quiet enough that the rustling carried further than it had any right to.
+
+Something black came out of the trees.
+
+It moved wrong, closing the distance in a way that skipped past the part where I should have had time to see it cross the open ground. I could not find an edge to it. No fur, no scale, no clean boundary between the shape of it and the shadow beneath the branches it had come from. Like it had been cut from the same cloth as the dark and given enough of an opinion to move on its own.
+
+Where a face should have been, there was only a mouth. Wide enough to seem disproportionate to whatever was carrying it, and inside, teeth. Too many, too thin, arranged in overlapping rows that had nothing to do with chewing and everything to do with never letting go once they closed.
+
+It was already airborne.
+
+Aimed squarely at Buffalo.
+
+White moved, closing the gap in a single stride, her sword already coming around in a wide arc.
+
+The blade caught it mid-flight.
+
+It didn't cut clean. There was no spray, no severed halves falling neatly to either side. Instead, the black shape seemed to simply come apart at the point of contact, folding inward and then, a heartbeat later, folding back out into something new.
+
+Where one creature had been airborne, two now hit the ground, low and crouched, mouths already reorienting toward the nearest warm thing in the clearing.
+
+"Wow." White straightened, adjusting her glasses with her free hand. "What are those?"
+
+Buffalo pushed himself upright, sword arm trembling, eyes fixed on the two shapes now circling at the treeline's edge.
+
+"A creature from the abyss."
+
+"Correction." White adjusted her grip. "There are two of them now."

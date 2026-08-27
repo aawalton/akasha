@@ -1,0 +1,93 @@
+---
+id: 9917c3d4-4932-5997-8172-7f1a114b0627
+page-type-slug: story-chapter-royal-road
+title: "177. Ball Organizers Hate This One Neat Trick!"
+slug: 0177-177-ball-organizers-hate-this-one-neat-trick
+partOf: god-of-trash
+position: 177
+ownLength: 2047
+unit: words
+publishedAt: 2025-09-05
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2577495/177-ball-organizers-hate-this-one-neat-trick"
+royalRoadId: "2577495"
+---
+
+In the back of the carriage, Rhys quickly drew all the curtains and pulled all the slots shut. He was very clearly not Lord DeVeers, and didn’t want to get called out on it, but based on the man’s lazy demeanor, he might just be able to get away with it this way. They slowed down, and Rhys heard a voice from outside the carriage:
+
+“Invitation, please?”
+
+“Uh, um…”
+
+Rhys slid open the slit between him and the driver and pushed the invitation through, nudging Mouse with it so she’d know to turn. She took it from him, and he slammed the slit shut before anyone could angle to see in.
+
+There was a pause, then a crinkle of paper and a low hum. “Lord DeVeers, is it? You’re not his usual driver.”
+
+“Th-the usual driver was… indisposed.”
+
+The other voice grunted. “Hit the liquor, did he? As many times as he rolled up here reeking of the stuff, I’m not surprised. Go on through.”
+
+There was a nervous squeak that sounded a lot like Mouse generically agreeing, and the carriage rolled on. Inside, Rhys let out a breath. The second hurdle, cleared. He’d been a little worried about Mouse bluffing, given how nervous she was on a good day, but it seemed like the man had correctly read her nervousness as a nervous personality, rather than an indication of wrongdoing. Mouse drove the carriage on, toward the grand entrance: their next hurdle. Obviously, he couldn’t stay in the carriage. That was where people left their carriages, after all, and entered the house. His invitation was for Lord DeVeers, and he was very visibly not Lord DeVeers.
+
+He wasn’t worried about the guard behind them. That guy was busy with the rest of the carriages. It was the announcer and the servants at the gates who concerned him.
+
+Which was why they’d be relying on Mouse for this next part.
+
+Rhys edged toward the door and waited there. The door creaked open, and Mouse appeared, timid as ever. She offered her hand to Rhys, and he took it. He felt himself fade a little, as if reality stopped paying as much attention to him. It was as if he went from the player character in a video game with high-polygon textures and love and attention put into his accessories and abilities, to a low-polygon background NPC. People were moving all over the place, dismounting, reaching for their servants, fixing up their outfits and explaining details to the house’s servants. Mouse took the lead, and they slipped through the chaos, so unremarkable that no one could spare the time to look their way. They were too busy with someone else. Another servant would tend to that particular pair of nobles. It wasn’t that they turned invisible, or that no one looked their way; they just assumed that someone else was handling it, or were too busy with their own jobs, or saw that they knew what to do and thought they’d already been taken care of. The carriage rattled on as the horses followed the horses ahead of them, and the servants turned to the next carriage as if it were natural to totally skip a carriage. Mouse and Rhys quietly walked up the stairs, melding in with the crowd.
+
+At the top of the stairs, a crier awaited. As each noble approached, they handed off their invitation, and the crier announced their arrival. Rhys expected Mouse to swerve around the line entirely, but instead, she obediently joined the line. Slowly, it crept toward the crier. One noble group at a time, they approached the man. Rhys glanced at Mouse, but her eyes were intent, her whole being focused. He raised his brows. She was locked in. It’d be rude to interrupt her now.
+
+Closer and closer. At last, there was only one group between them and the man. The crier turned to take their invite, and something shifted in the world. The paper slipped through the nobleman’s hand. Both he and the crier jumped to pick it up and bumped into one another, and the nobleman’s wife chuckled.
+
+Mouse tugged Rhys’s arm. In that moment, no one was looking at the two of them. Rhys followed her lead, and they slipped past the crier into the ball.
+
+But it’s the grand entrance. There’s no way we can enter unseen, Rhys thought to himself. Not that it mattered; he figured the nobles wouldn’t be paying that much attention to the other nobles entering the room, but—
+
+As they crested the stairs, music suddenly swelled. Rhys stepped into the room to find every noble’s back to him as they all turned to watch the musicians play their first song. Mouse tugged at him again, scurrying down the stairs, and Rhys followed, incredibly impressed with her path. Not for the first time, he looked at her in a new light. Her skills were even more powerful than his, when seen in a certain light. Everything he could do, he had to touch or interact with in some way. Mouse, on the other hand, had just affected the entire world around her without touching a single thing in the ball. She’d never been to this place before, and she’d never seen these people before, but she’d influenced them with her path so that they all looked away anyways. True, she probably saw it as ‘I become so unremarkable that no one pays attention to me,’ like when he’d been in high school and wished deeply to vanish, but the effect was that she altered the entire world around her to make her less visible.
+
+They stepped onto the dance floor, and Mouse let out a little sigh. People started looking around normally again, instead of aggressively looking away from them, and Rhys felt his polygons come back… or at least, that was how it felt. As if he snapped back into vision, and became clear and visible again. He glanced around. A few of the nobles eyed him up. One or two even turned and stared in shock or suspicion. Rhys faded back to the edges of the party. He didn’t want to be unnoticed now, the way Mouse could make him. No, he wanted to be just unnoticed enough that no one confronted him, but noticed enough that they grew suspicious. Mouse, on the other hand, went back to being her normal level of invisible and wandered the crowd. While he played the karmic ghost, it was Mouse’s job to listen and gain information.
+
+Yes, that’s right. I need to be subtle… sneaky… He edged toward the buffet table and snatched a few finger foods. Taking only a moment to marvel at the sheen on the quiche-slash-egg-tart he’d grabbed, he tossed it back.
+
+Umami. Egginess. It melted on his tongue, melding perfectly with the flaky pastry crust. A tomato burst in his mouth, melding with the egg and the cheese—is that gouda?—and a hint of savory spinach. Perfectly balanced, with just enough acid to cut the fat in the cheese and egg without overcoming it with the sharp sweetness of the tomato. He’d never been a big vegetables guy, but this… this was beyond delicious. This was culinary masterwork. He’d never understood why people would pay five hundred or more dollars to eat tiny bites of unfilling food, but this egg tart was a masterclass in why he should have done that at least once in his first life.
+
+And that was but the first bite. He eyed up the rest of the buffet as he stuffed his first round in his face. Oh, he wouldn’t be moving from this spot all night.
+
+“Excuse me.” A nobleman gestured at the food, politely asking him to keep moving without saying it aloud.
+
+Rhys glanced up and nodded, then wandered on, leaving the food table behind. Internally, he grumbled, but externally, he understood. He couldn’t bogart the food table all day without being super obvious. He needed to hide a little, not become the fatty who loomed over the buffet all night, no matter how much he wanted to be that fatty.
+
+Ah, well. It was fine. He could keep circling. Although… He glanced up at the balconies over the ball. Right now, he was just some chick that looked kind of like Adelise. If he appeared mysteriously on those balconies at a pivotal moment… it would be cinematic. Operatic, even. Peak.
+
+I gotta figure out how to get up there. And figure out what a pivotal moment looks like, Rhys thought to himself.
+
+He sequestered himself by a pillar and watched the ball progress. Beautiful women and handsome men swirled on the dance floor in a blaze of colors. In this world, it was acceptable for both genders to wear robes, alongside the more traditional gowns and suits, and the dance floor was a mix of men in fine suiting and women in ballgowns, and both in gorgeous, embroidered and layered robes, laden with so much cording, beading, and decoration that some were even more extravagant than the ballgowns. By comparison, Rhys’s gown was downright austere. It was fitting for a ghost, he supposed, but he made a mental note that he could play up the drama a bit in the future, and even stick to robes next time. Robes were a better choice for all sorts of reasons, mobility, anonymity, not to mention that he could always try diving into a nearby lake for a yolo body swap to masculine and hope he could get away with it that way, if he was ever pursued. Plus, they were way better to fight in.
+
+Someone tapped his shoulder, and he whirled, but it was only Mouse. She nodded. “It sounds like the Empire is still looking for the culprits. There’s rumors that they’re about to mount an extensive sweep of our first city, since it’s so close to the first two camps that got struck, back at the start.”
+
+“That’s useful information. We should probably pull out, then, except for the snack shack.”
+
+“Except for…?”
+
+“It’d be suspicious if it suddenly closed down before the sweep.” Rhys lifted his chin, looking back at the party. He’d gotten his information, but he hadn’t managed his dramatic psychological attack yet… nor had he figured out exactly what form he wanted that to take. Still, he could’ve dressed up as Lord DeVeers if all he wanted was to crash the party. He’d come here as Adelise for a reason, and he was going to stop at nothing to ensure that he accomplished what he’d come to accomplish. He pinched his chin.
+
+“What is it?” Mouse asked.
+
+“What does a pivotal moment look like?”
+
+“Huh?”
+
+“I want to make a big impact, but in a way that doesn’t look like I manufactured it,” he explained.
+
+Mouse blinked at him. “That sounds horrible.”
+
+He frowned at her, then snorted as he realized: Right. I’m asking the girl who wants to vanish so badly that it became her path how to get attention. That was foolish of me. “Sorry. I didn’t consider my question.”
+
+Mouse shook her head. “Are you sure you really want to draw that much attention to yourself at the first ball? Shouldn’t we treat this as a trial, then get, er, flamboyant at the second one?”
+
+Rhys raised his brows. Mouse actually had a point. He could try and create a pivotal moment here, draw attention to his cosplay, and make a scene… or he could be a spooky ghost in all ways, wander around the edges of the ball, interact with no one (except for that guy at the buffet table) and allow his myth to naturally expand. There was nothing spooky about the girl who just happened to look like another girl and ran around causing scenes at random balls. There was a lot spooky about the girl who might-or-might-not have been at the ball, looming at the outer corner in the shadow, refusing to acknowledge whether she was or wasn’t Adelise Infernon.
+
+He nodded. “Let’s lurk for a little while longer, then vanish.”
+
+Mouse nodded aggressively.
+
+“But first… could you swing by the buffet table? Those little skewers… and the olive-and-meat plate, and those little cakes they just brought out…”

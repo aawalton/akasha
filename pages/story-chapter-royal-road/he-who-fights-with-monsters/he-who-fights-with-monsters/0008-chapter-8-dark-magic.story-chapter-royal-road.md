@@ -1,0 +1,145 @@
+---
+id: 3a7d4614-7af4-59e7-8aa2-18955b3f0bd1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: Dark Magic"
+slug: 0008-chapter-8-dark-magic
+partOf: he-who-fights-with-monsters
+position: 8
+ownLength: 1938
+unit: words
+ownProgress: 1938
+publishedAt: 2019-07-31
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387361/chapter-8-dark-magic"
+royalRoadId: "387361"
+markedReadAt: "2026-06-29T19:04:02.824Z"
+---
+
+Jason frowned at the description of the black cube in his hands.
+
+“Dark essence abilities. Sounds a bit sinister. How does that work, exactly?”
+
+Help: Essence Abilities
+
+“Wait, there’s been a help function this whole time? Can you help me get out of here without getting eaten by cannibals?”
+
+“Oh, I see what's going on here. You want me to accept the dark powers you provided, after following your plan got me here in the first place. Making it seem like my only way out is to use the dark magic you conveniently provided. Classic seduction of evil routine. You could have at least been a little bit subtle. I think this is the point where you remind me how bad my situation is.”
+
+Zone: Vane Manor (Subterranean Ritual Chamber).
+
+“Is that snark? Do I have a snarky user interface? Also, I know where I am.”
+
+He scowled.
+
+“I have no idea where I am.”
+
+He looked at the dark cube he was holding in his hands. Despite the slickly-smooth surface it had no sheen, not reflecting the lamp light at all. If anything, it almost seemed to be absorbing the light.
+
+“That’s only completely ominous.”
+
+Jason picked up the lamp and panned it around the room. The magic circle, the covered body, the double doors leading into the inevitably perilous unknown. His whole reason for searching the room was to find any advantage before he went through those doors and his gaze drifted back to the cube.
+
+“Why not?” he said. “What’s the point of going to magic land if you don’t get a few magic powers?”
+
+He stood up, took a couple of deep breaths, then picked up the cube.
+
+“What could possibly go wrong? Don't answer that, just absorb the essence.”
+
+The cube suddenly turned sizzling-hot in his hand and he dropped it to the floor.
+
+“What the…?”
+
+Dark smoke started rising up off the cube and Jason backed away.
+
+“It’s possible I made a bad decision here.”
+
+The smoke coming off the cube was rising up in narrow streaks, like black streamers. They twisted in the air, heading in Jason’s direction. He backed away further, but was quickly moving out of the light coming from the lamp he had left on the table. The smoke followed him into the shadows where he could no longer see it.
+
+“Sure, just get the dark magic powers. Good choice, idiot.”
+
+He felt the smoke reach him because of the same scalding heat he had felt from the cube. He screamed as the black steam forced its way over his face, invading his mouth, nose and eyes. At some point he passed out from the pain, his next sensation being waking up on the floor.
+
+Sitting up, he probed his face with his hands. The sensation of pain was completely gone and nothing was sensitive to the touch. His eyes seemed fine and he realised he could see the room as if it weren’t dark at all. The colours were a little washed out, but he could clearly see into the parts of the room previously cast in shadow.
+
+There was a mirror on one of the walls. It was huge, double the size of even full-length mirrors Jason had seen. There was a spiderweb crack coming up from the bottom, but mostly it was fine. He moved over to it, checking his face for burn marks. It was a little hard to tell, under the encrusted blood and tunnel grime, but he appeared unmarked. His eyes weren’t even bloodshot. The rest of him was just as dirty as his face, his skinny frame smeared with filth. The quest reward pants, originally white, were stained to the point that they looked like camouflage.
+
+It was the first time he’d gotten a look at himself since arriving. He’d been imagining himself looking like an action hero, heading into act three with masculine dirt stains reflecting enemies bested and challenges overcome. Instead he just looked grubby and ragged, the skin visible under the filth pale and taut. His Japanese facial features, inherited from his father, were even sharper than usual, making his face look gaunt. His bald head and absent eyebrows made him look manic and unhinged. His skinny body wasn’t flattered by all the muck on it either, looking less action-movie and more refugee-documentary.
+
+He sighed.
+
+“Alright, lets take a look at my shiny new magic power.”
+
+Ability: [Midnight Eyes] (Dark)
+
+“At least it isn’t complicated.”
+
+He looked around the room some more, the shadows no longer hiding anything from him. It wasn’t like a low-light filter, as the lamp didn’t interfere with his sight at all. Its light was more like a beam that brought things into full colour, compared to the muted look of the areas covered in shadow.
+
+“That’s cool, I guess,” he said. “A little disappointing for a magic power, but I guess I’m not getting fireball from a dark essence.”
+
+He looked over at the table and the round stone still where he left it. The magic stone of something-or-other would apparently give him another power, so he walked over and picked it up.
+
+He thought about the excruciating pain that came from absorbing the essence. On the other hand, there didn’t seem to be any after-effects, and he did get a magic power out of it. Before he used it, though, he made some preparations. One of the chairs he had seen scattered around the room was a deep, comfortable-looking arm chair. It was extremely heavy, but he managed to drag it out from under a fallen bookshelf and flip it back upright. It was a huge wooden affair with plush, stitched-in cushioning. He was sick of falling over in pain.
+
+He sat in the chair, the awakening stone in his hand.
+
+“Absorb.”
+
+Rather than turn hot and dissolve into smoke, the awakening stone grew cold before growing soft and melting in his hand like ice cream. It seeped into his hand, filling his arm with a bone deep chill that once again left him yelling out in pain. It was not on the same scale as the essence. He kept control of his faculties while frantically shaking an arm that felt like it had been plunged into ice water. Eventually the bone-deep chill receded and the pain passed, leaving him sprawled in the chair, heaving in breaths.
+
+Jason could feel a change within himself. It was something new, yet weirdly familiar, like when he was reading a language he’d never seen before. The power was inside him, as if it had always been there, waiting to be awoken. He knew the power instinctively. It was waiting for him, eager to be used.
+
+He stood up and moved back to the mirror before using his new power. It responded immediately, as easy and natural as lifting his hand. Dark energy suddenly engulfed his body, hiding his visage in the mirror. It wasn’t disturbing at all, feeling cool and refreshing. The energy coalesced into the form of a voluminous cloak, enshrouding his body and hiding his head within a deep, impenetrable hood. The cloak seemed more like an object of living darkness than fabric, dotted with tiny points of light. They shifted and twinkled, tiny stars in the night sky of the shadowy garb.
+
+Jason could feel the cloak, not like a piece of clothing, but like one of his limbs. He could feel its power. With a thought, the stars grew brighter to the point that they outshone the lamp. They dimmed until he couldn’t even see himself in the mirror, disappearing into the shadows.
+
+Ability: [Cloak of Night] (Dark)
+
+“Water walking,” Jason read. “Now that’s a magic power.”
+
+He looked around the room.
+
+“That I can’t try out right now.”
+
+He instinctively understood how to use the weight reducing aspect of the ability and hopped lightly into the air. He went up much higher than he normally would and dropped back down much slower.
+
+“It’s like being on the moon.”
+
+He bounced around the room with a goofy grin on his face until he remembered the dead body.
+
+“Not the time to be having fun,” he scolded himself.
+
+He experimented further with the magical cloak. He could see through it as if it wasn’t there, so even with his head covered it didn’t obstruct his vision. He could make any or all of it lose physical substance, so if he wanted to grab it he could, or his hand could pass through, unobstructed.
+
+“Nifty.”
+
+He could make it vanish with a thought and pull it out again, which he tried several times. After the third attempt he suddenly felt woozy and had to sit down. He went back to the armchair and fell into it.
+
+“I’m out of mana already? Also, I have mana? Is there a mana bar or something?”
+
+Two horizontal bars appeared at the periphery of his vision. One was blue, but mostly empty, while the other was orange and about two-thirds full. Next to them was a silhouette of a person that was mostly green, but the head area and the left arm were yellow.
+
+“Alright, so the blue bar is mana, the little body is health and the yellow bar is… something?”
+
+“Okay, stamina. I think I’m getting a handle on this. I don’t seem to have a lot of mana, though.”
+
+Help: Mana
+
+Jason let out a yawn. He had gone through a lot and his time unconscious was hardly restful.
+
+“One last thing,” he said, pulling one of the skill books out of his inventory. He walked over to the comfy chair and fell into it.
+
+Item: [Ritual Magic I] (iron rank, common)
+
+“Yes.”
+
+The book floated out of his hand and into the air. The cover flung itself open and the writing on it started removing itself from the page, changing from black to gold as the disembodied text floated into the air. The pages started turning, faster and faster, gold text pouring into the air. Turning pages flicked over in a rush as the golden text formed a corona around the floating book. Then the flutter of pages started slowing, until the last page turned and the book fell to the ground, every page blank.
+
+The cloud of golden text swarmed over Jason like angry fireflies, disappearing into his body as it landed on his flesh with stinging bites. His mind was bombarded with information too quickly to process, leaving it lost and adrift. The pain and disorientation finally passed, leaving him in general control of his faculties, but dizzy and confused. He had no idea if seconds or hours had passed. He was weary to the bone, limbs as heavy as his eyelids.
+
+Unable to keep his head up, he slumped over in the chair, fast asleep. After what felt like no time at all, he was jolted awake by a loud hammering. His head was still hazy, and he shook it clear in time to see two men storm through the now-broken double doors. The one in the lead was holding a hammer, the one behind, a shovel.
+
+“Uh… g’day blokes. I don’t suppose there’s any chance you’re not cannibals?”
+
+The pair scowled, the one with the shovel moving forward as he hoisted it menacingly. Jason scrambled to pull the curved dagger out from his inventory. He used all his knife fighting expertise, which was none, and the shovel slammed into his face.
+
+Jason dropped the dagger, staggering back with his hands over his nose, blooding spilling between his fingers. The shovel came down a second time and everything went black.

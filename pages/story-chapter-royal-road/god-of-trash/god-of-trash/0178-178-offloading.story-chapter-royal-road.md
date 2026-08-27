@@ -1,0 +1,99 @@
+---
+id: 5ec41f55-1b4d-55c1-a721-69b8baa16609
+page-type-slug: story-chapter-royal-road
+title: "178. Offloading"
+slug: 0178-178-offloading
+partOf: god-of-trash
+position: 178
+ownLength: 1941
+unit: words
+publishedAt: 2025-09-06
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2580154/178-offloading"
+royalRoadId: "2580154"
+---
+
+They lurked home from the ball, wandering naturally out into the surrounding yard, then sprinting home through the trees. The servants were already kicking up a fuss about the empty carriage, the absence of Lord DeVeers had been noticed, and most importantly of all, Rhys had sampled all the delicacies at the buffet table. He hadn’t found his pivotal moment, but he was pretty sure Mouse was right, there, that he should play it subtle at first, even if his trashy sensibilities screamed for him to flaunt about. He could be loud later. For now, as he was seeding the rumors in the back of everyone’s mind, it was time to be quiet. Whisper, to build the foundation so he could shout later.
+
+He nodded to himself. Climb slowly. Practice my act, and go from one ball to another, slowly growing to larger and larger balls. Until, at last, at the biggest ball with the most possible impact, I loose my psychological attack.
+
+But until the next ball, he had a business to run, and so much effort for him personally to accomplish. He was absolutely hammered with work. He had to carbonate the soda, imbue the food with impurities, and oversee all the farms, among a dozen other tiny tasks. He’d offloaded as much as he could, but there were still things he simply couldn’t hand off. He wanted to find an apprentice, but where? None of the candidate mages were fit for the path of trash—none of them were trash. He wasn’t even sure anyone else could pick up his path, or that anyone else would want to. His path was trash, after all. If he had the choice between a trash path and any other path, he sure wouldn’t pick the trash path. He only had because he was trash at anything but trash.
+
+Well, that’s not true. I’d probably chose trash. But I don’t think a lot of people would agree with me.
+
+Plus, sometimes an annoying and cryptic old man showed up in the mornings and allowed Rhys to quiz him for a short time before vanishing again, sometimes mid-question, or worse, mid-answer. Desmond was quickly becoming one of Rhys’s least favorite people. The man seemed to exist to be useless, handing out just enough information to tickle Rhys’s brain, but never enough for him to actually pull anything useful out of the facts he shared. Still, he felt as though he were slowly creeping closer to the truth anyways. No one thing Desmond said helped him figure out how he was supposed to handle the void, but all of it together slowly revealed the truth of the void. Every time he talked to the man, he ended up frustrated, but later that day, something would fall into place. Thus, despite how annoying Desmond was, he kept talking to the man. In fact, in some ways, he couldn’t help but wonder if Desmond’s trash version of enlightenment wasn’t resonating with his personal path somehow, if the two of them were perfectly suited to one another. Desmond handed out trash facts, and Rhys could comprehend trash better than anything else. If only the man wasn’t so annoying about it, it would be a fantastic setup.
+
+As it was, he was barely keeping his head above the water. He didn’t know what he needed to do the most, but he knew that he was doing too much. The balls didn’t help, but he also enjoyed them more than the rest of his duties, so it wasn’t as if he wanted to stop. He wasn’t exactly frequenting them, either, and between his teleportation network and the whispers he heard from the snack shack, he barely put any effort into his entrances. After the first, he and Mouse had simply taken to stealing in from the sides; he’d expected a barrier or some kind of magical defenses, but once he’d discovered that most houses lacked such a thing, there was no reason to hold back.
+
+It had also been shockingly successful. The rumors of the ghostly shade of Adelise Infernon were spreading, and the Infernon family was on the brink of being unable to bluff about Adelise remaining alive. The fact that he could stand at the edge of the ball, then, thanks to Mouse, blink out of existence between one glance and the next was adding a lot to his ghostliness. And since he’d built himself some comfy robes, and hiding with Mouse was as simple as calling her over and standing nearby, the balls were really more of his rest and relaxation time where he got to eat delicious snacks rather than anything stressful. The fact that it was messing with the Empire’s collective consciousness was a bonus. That, and he’d started to lace the fancy foods with impurities. If he could directly poison the elites, that was even better than generally poisoning the Empire. He felt nothing for the fact that his poisons did hit some innocents; most of those who were hit who were innocent weren’t mages, and wouldn’t face any severe penalties from the small debuff impurities would have on them. As for the mages, he didn’t believe any Empire mages were innocent. They all engaged in the Empire’s foul construct, and there was nothing they could do to deny that they were using other mages’ cores.
+
+The only upside was that he didn’t need to sleep. The downside was that he needed to not sleep.
+
+Rhys sighed. Being the leader of a revolution was tough. Even tougher when he was also the head of this world’s first fast food chain and standing in as a ghost at balls. No one understood his struggles.
+
+“Hey, Lira.”
+
+She looked up from where she was cleansing a vat of water. “What?”
+
+“This is a once-in-a-lifetime honor, so I want you to consider it deeply—”
+
+“No.”
+
+“What? Come on.”
+
+“I don’t want your path. You just want to offload your workload, and I don’t want to be your underling. Also, your path sucks.”
+
+“It doesn’t suck.”
+
+“It’s trash.”
+
+Rhys opened his mouth, then shut it, then spread his hands. “It could not be. You don’t know.”
+
+“Uh huh.”
+
+He sighed. “What if I just taught you the carbonation technique? It’s water-related. You might be able to learn it.”
+
+She raised her brows. “That’s true, I suppose. Why don’t you try describing it for me?”
+
+Rhys nodded. He took a deep breath, then started speaking.
+
+It was hard to describe a magical technique. Even when he understood everything that was happening, it was still hard to explain exactly what he was doing, especially when he knew Lira didn’t exactly have a great concept on what carbon dioxide was or how to create it, or what made it different from ordinary air. It took a bit of flailing, and a match in a sealed glass, but he got the idea across.
+
+“So it’s like a different kind of liquid. Not water. But air,” Lira clarified.
+
+“Exactly,” Rhys said, nodding.
+
+“And perfectly clear like air, like pure alcohol and water.”
+
+“Yep.”
+
+She took a deep breath and let it out, her eyes closed as she focused. “Give me some time. I think I can master this. Air… when you think about it, is very similar to liquid.”
+
+“Totally agree. Well, not quite, but that’s way too complicated for this relatively simple process.”
+
+Lira touched her hand to her chin. Slowly, she nodded. “Give me a few hours. I’ll give it my best effort.”
+
+“That’s all I can ask.”
+
+Lira wandered away, and Rhys turned, taking in the roomful of potential victims… ahem, helpful assistants whom he could offload tasks to. The biggest problem was how many of them were still locked out of magehood due to him not acquiring more cores. He’d been able to use Lord DeVeer’s energy to re-core another mage, but that was only one. He needed to make his move on the criminals, and soon, if he was going to meaningfully apply the mages he’d recovered to his task.
+
+But the Empire was still looking for the criminals. The patrols were flagging, but they were still ongoing. He needed that perfect opening, while the criminals were still suppressed but the Empire wasn’t on high alert anymore. It was approaching, day by day, but if he moved now, it would still be too early.
+
+It felt like such a waste, to sit on so many potential mages who couldn’t even grow stronger yet, but if he moved now, he’d only get hammered by the Empire. He had to wait. Be patient. He hated it, but it was what he had to do. The right move, so that he could strike with all his power later. If history looked back on this moment, and saw that he hastily made a move while the Empire was still searching for him all over like a knocked-over anthill, it would frown with stringent disapproval, as it should, and he knew that.
+
+It just sucks when you’re living it.
+
+He sighed aloud. When it came right down to it, he didn’t want to teach anyone else his impurity-imbuing technique; it was kind of too powerful to casually hand off. The carbonation technique was whatever. Teaching Lira how to incorporate gasses into liquids didn’t seem like it had a huge danger curve in the future, though who knew? Maybe it would become an issue. As long as she was on his side, though, he didn’t mind if she caused a few problems for the Empire.
+
+I really didn’t expect teaching someone else magic to come with this immediate backlash of responsibility and concerns, Rhys thought. He glanced around, then headed to the door and looked out, gazing at the city.
+
+This was the city where they’d started, the tavern they’d rented from that boy, the one he had become to think of as his ‘home base,’ not too deep into the Empire, still in its claimed territory, and just around the bend from Purple Dawn’s ruins. He knew he shouldn’t get attached, since this was the enemy’s territory, but somehow, it was starting to feel like home.
+
+He leaned against the doorframe, just watching. They still had the stand set up outside, since their kitchen operations had expanded to take the entirety of the ex-tavern’s space; he was basically treating the space as a test kitchen for all his shops, so there was no room to actually sell product inside. The people who lived here had come to be used to receiving their snacks from a stand, rather than a building, anyways, so it lined up with their expectations. Even now, they lined up outside the door, stretching off down the road. He looked it over, taking in the military students, the adult members of the military, the low-rank nobles and the casually-dressed mages who worked office jobs for the military, and had less stringent dress codes as a result. The lines weren’t as long as in their fad heyday, but it was still a nice little line, long enough that Rhys felt satisfied about—
+
+His eyes locked with one of the military students. For a moment, time stood still. The military student’s eyes widened, and he stepped forward, gasping a breath.
+
+Rhys turned and walked away, striding away from the building as if he’d never been associated with it at all. His heart raced, adrenaline pumping. Silently, he chanted: You saw nothing. You didn’t see anyone. There was just a random guy in weird robes lounging by that door for no reason, and—
+
+“R-Rina? Rhys?” a timid voice tried.
+
+Rhys walked faster. Fuck.

@@ -1,0 +1,403 @@
+---
+id: 50ed0da3-3142-5f74-8a91-89a80970f045
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35"
+slug: 0035-chapter-35
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 35
+ownLength: 3552
+unit: words
+publishedAt: 2026-01-03
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2909432/chapter-35"
+royalRoadId: "2909432"
+---
+
+Chapter 35
+
+They stared into the distance for a little while as discussions broke out around them.
+
+What was that?
+
+“You're smelling the iron as well?” Silvie asked.
+
+“Yes,” Hayden confirmed.
+
+So it's not just me.
+
+Veron narrowed his eyes. Isn't that? I smelled iron back when Envolon used his magic, didn't I? Is this related?
+
+“I'm telling you the iron taste means it's Fae Path magic!” someone nearby said loudly.
+
+“You're making things up again, Ray,” another said.
+
+“Does that mean we're affected by the magic?” someone else said.
+
+A few people cast spells, light emanating from them similar to when Hayden cast his magic. “I'm not detecting anything,” one of the casters said.
+
+“There is a faint trace of magic that wasn't there before, but I can't tell what it is.”
+
+“It came from the Hira mountain range, I’m sure about that.”
+
+“It could’ve been farther. From Sor,” another said.
+
+“Light magic on that scale is not possible.”
+
+“It wasn’t just light. You felt the shock wave. There was an explosion.”
+
+“We should go back inside, in case this isn't over or we are exposed to whatever magic is at play here,” Reka said.
+
+Hayden nodded and led on, the others followed, a few other teams doing the same and gathering inside. Bells were tolling now in the city and Veron could see a few flashes of light in the distance that he assumed to be spells of some kind.
+
+Nobody else knows what's going on either. So this isn’t some kind of monthly thing, hmm?
+
+“What are you guys thinking?” he asked.
+
+“I don’t know,” Reka said. “I don’t know what to think. I’ve never heard of anything like it. Nothing that comes close.”
+
+“It’s like an ancient myth or something. Magic beyond what should be possible,” Silvie said. “But it was real.”
+
+“We don’t know what it was, or what it did,” Hayden said. “And until we know more, we can’t exactly do anything about it.”
+
+“Do we have to do anything about it?” Silvie asked.
+
+“Well… no. I guess not?” Hayden said.
+
+They were quiet for a little while, more people returning back into the mess hall, some of them arguing while others remained entirely silent.
+
+“You’re right,” Reka said. “We have no idea what's going on and speculation won’t get us anywhere. But we should find out what that was, in case it affected us directly, or in case it affects our return trip.”
+
+“So we wait?” Hayden asked.
+
+“Higher level Paths will investigate. Yes, we wait and see if anything comes up. Maybe this won’t impact us at all. Some far away magical experiment or phenomenon, who knows.”
+
+Veron himself felt intrigue more than anything. Especially about the iron in the air.
+
+Around half an hour passed and while everyone calmed down a little, nothing new revealed itself about the strange pillar of light that had pierced into the heavens.
+
+Veron yawned.
+
+“Sleep sounds like a good idea to be honest,” Silvie said. “Can we figure out the strange light pillar tomorrow? It already went away.”
+
+“I don’t know how well I’ll be able to sleep after seeing that,” Reka said. “But I agree. We should do shifts however, just in case. One person to periodically check down here if anything comes up?”
+
+“Yeah,” Hayden said.
+
+“Are you sure?” Silvie asked.
+
+Veron glanced between them and nodded. “I might dip into the baths for a bit and then go sleep. We can leave out Silvie? On account of the arm.”
+
+“That works,” Reka said.
+
+Silvie glanced at him, raised an eyebrow, and then gave him a slight nod.
+
+“Wake me up for my shift,” Veron said.
+
+“We will,” Reka said. “Thanks.”
+
+The bath was nice, and it helped calm him down. Something Veron did realize was that while the strange phenomenon did intrigue him, it didn't really affect him quite as much as it seemed to affect everyone else around him.
+
+I guess it's something really strange and peculiar for them, while for me, it's just another new and magical thing that I don't have an explanation for.
+
+The thought amused him. If anything, a massive pillar of light seemed a lot less strange to him than a sprawling magical dungeon that locked its own doors, supposedly. A matter of perspective?
+
+But what was it? Magic beyond what the people here think is possible, that’s obvious. But they're not exactly the most powerful people around based on just the Guild rankings alone. So it was a massive spell, blue to green, and then a shockwave, an explosion or maybe something that just spread out? I guess that's what an explosion is.
+
+So, what happened? And if it was a spell, what was it for?
+
+Veron looked up at the ceiling of the baths.
+
+This seems miles above my pay grade. I can't even handle the second layer of the dungeon.
+
+Guess I'll go sleep.
+
+Long before he would’ve wanted to wake up, he was rudely awoken by responsibility.
+
+Tired.
+
+That’s certainly one effect of that spell. Making me lose sleep.
+
+Veron got dressed and headed down into the mess hall. It was busy, despite it being the middle of the night. As he watched the stressed and excited people come and go, sharing rumors and opinions, he was soon swept up in the excitement. There were all kinds of theories being thrown around but it seemed like most people were now reasonably sure the magical pillar was both an incredible feat of magic beyond what anything should be able to produce, and that it came from the direction of the Hira mountain range, close to or straight from Leiveen.
+
+What it was, or what purpose it had, both remained a mystery.
+
+His shift ended and Hayden came to take over. This time, it took a little longer to fall back asleep.
+
+He slept in, only him and Silvie left in the room when Veron woke up again.
+
+When he looked out the window, he could see dark clouds hanging over the horizon, the winter sun barely pushing through to Anvakar. A freezing wind came in when he opened the window to air out their small room. Connecting to the wind left him with some confusion. There was hardly any pull that he felt, and none of it pulled towards the south.
+
+Interesting. And kind of ominous. Is that because of that spell?
+
+He stretched his back and yawned, ready to find out whatever news had come. If any.
+
+Breakfast first.
+
+It felt like the entire inn and all the people in it were poised for news, everyone waiting for some revelation, and it was the only topic everyone talked about.
+
+Veron had breakfast, worked out, and connected to the wind a few times. He was done with his armor by now.
+
+No news arrived until noon. Silvie woke up and joined them. Reka went out to go to the Guild. Afternoon came, and then evening. Reka went out again.
+
+This time, she came back with a troubled look on her face.
+
+Their group gathered around her at their table.
+
+“You learned something?” Hayden asked.
+
+She nodded.
+
+“Scouts of the Guild have reached the Palewoods.” She paused, glancing between them. “Apparently, everything seemed normal for a few hours of travel but then they found the first signs of blight. The forest beyond, is dead, as far as the eye can see. Fae magic remains in the air and in the ground, they don't know if it would affect anyone within. It was quiet, no signs of animals. A few pushed on and towards Perrion, others returned to report. They don't recommend single parties advancing into the territory for now. A few small ships have left on the Karrian river but they have yet to return.” Her tone was flat throughout, her mouth opening and closing once she was done.
+
+“Dead?” Silvie asked.
+
+Reka nodded slowly. “I was confused too when I heard it. But supposedly, the entire forest to the south is just… dead. No leaves, blackened bark, no critters.”
+
+They were quiet.
+
+Veron gulped.
+
+“But the light pillar came from farther south, or was it near Perrion?” Hayden asked.
+
+Reka shook her head. “The Guild is pretty sure it came from near Leiveen. Which means whatever magic it was, it reached all the way to near the northern edges of the Palewoods.”
+
+Hayden leaned back in his chair.
+
+“That means Lyrie was in range too,” Silvie whispered.
+
+And Eyra.
+
+The entire region we traveled through for weeks. Perrion too.
+
+“Yes,” Reka said.
+
+They were quiet for a long while.
+
+“We don't know what happened to the people in range?” Hayden asked.
+
+Reka shook her head.
+
+A magical blast that killed all the trees. From Leiveen to Perrion.
+
+The scale of it seemed ridiculous. He thought of Ian, Aren, Warren, Neva, and Tenya. And Ivera. Did the spell cross over or penetrate through the mountain ranges?
+
+Veron blinked his eyes.
+
+Were they all dead?
+
+He didn't want to think about it, and yet it was there, and all of this was so much bigger than he was. His stomach felt like lead. Even checking would take weeks, not that he could cross into the Terriam range with the roads snowed in.
+
+Hayden balled his fists. “There has to be something we can do. Everyone we know...”
+
+“We have to wait for the scouts, and for more information. There are thousands of others in the same position that we are in right now, but moving rashly doesn't seem wise,” Reka said. “And… we did hear about the strange movements in the dungeon, and Silvie…” She grimaced. “I don’t want anything else to happen.”
+
+Hayden looked at her and shook his head. “And what? We just sit here? Do nothing?”
+
+“That’s not what I’m saying,” Reka said. “And what would we do?”
+
+Hayden stood up. “I'll go check if there's anything new at the Guild.”
+
+Silvie touched her right shoulder as they watched him storm off.
+
+Veron focused on his breathing. Did someone fire a magical nuke? It felt like a bad joke. It didn't feel real. He wanted to return to visit the others, wanted to check out Leiveen and show off his powers to Ian.
+
+Breathe and ground yourself. You don't have enough information and there's nothing you can do right now, so stop thinking about it.
+
+It was difficult to do what he knew was right. And so he got up too. “I need some fresh air.”
+
+Veron didn't put on his coat and went outside. They were already close to the eastern mountain of Anvakar, and so he walked. Sometime later, he reached a spot overlooking much of the city, a stone stairwell leading up the mountainside, a few villas visible farther up. There were no people here.
+
+Veron sat down cross legged, breathed in, and connected to the ancient earth below. He simply sat there, numb at first, and then slowly, he could feel the weight, the timeless depths below, could feel the cold and hard floor, the tension in his back and neck. He moved his fingers, his eyes still closed as his breathing slowed.
+
+When his Focus ran out, Veron opened his eyes and sighed. Then he looked at his hands. They felt warm. And then he looked up at the sky.
+
+All the trees, dead… from a single spell? Would the people not be affected? That doesn’t sound right. And the iron I smelled.
+
+“Is this why you sent me here?” he asked.
+
+There was no answer. And it was difficult to stop the thoughts.
+
+Whatever that magical light was, something had caused it. And now most of the Palewoods was dead. If the trees were dead, it wasn't a big stretch to think the same was true for any other living thing in range.
+
+It felt like too much to process, so he just got up again and walked without a goal in mind.
+
+He got lost a few times and returned when night had long fallen. He found the others in their room, none of them asleep yet.
+
+“Any news?”
+
+Reka shook her head. “None.”
+
+“We should sleep,” Hayden said.
+
+Silvie looked over. “We should try at least.”
+
+“Should someone be on watch again?” Veron asked.
+
+Reka glanced at him. “I don't know.”
+
+They decided not to keep someone awake. Sleep didn't come near as easily as on the night prior but Veron eventually drifted off. He woke up again with the magical event still on his mind, and he could tell the sun hadn't even risen yet. Hayden wasn't in the room and Silvie was sitting in front of the window.
+
+“Morning.”
+
+Silvie glanced at him. “Morning.”
+
+Veron slowly sat up on the bed. “Did you get any sleep?”
+
+“Not a lot. But I kind of slept a few months’ worth in the past week anyways.”
+
+Veron sighed, then started to dress himself and put on his armor. He joined Silvie near the window. The sky remained dark, dense storm clouds visible towards the south. “I'm not sure if that's how it works.”
+
+Silvie nodded and smiled. “No no, that's exactly how it works. Trust me.”
+
+“I see. Well, you are very wise.”
+
+“I am. Do you feel like sparring?”
+
+“After breakfast, sure.”
+
+The morning passed.
+
+“It's so strange,” Silvie said between spars.
+
+“Hmm?”
+
+“I mean, we don't really know what happened. But it's not looking great. And life here just kind of... continues? I even saw a bunch of people heading for the dungeon.”
+
+Veron had seen it too. Maybe he would’ve done the same, had it not been for Eyra. And the fact that his team was from Lyrie.
+
+“Maybe they're just looking for a distraction. Or they can’t afford to take a break. Come on, let's get some food.”
+
+The afternoon passed.
+
+Hayden reached their table in the mess hall with quick steps. “A lot of news. Another scouting party returned. They found villages entirely wiped out. Everyone dead. People and animals alike. And there was movement. Beasts, though it’s unknown what kind, they didn’t attack. The Guild is sure however that the dead were killed by the initial blast.”
+
+“It did affect people,” Silvie murmured, her voice sober.
+
+“Do we know the range?” Reka asked. “Do we know about Lyrie?”
+
+“It will have been in range,” Silvie said.
+
+“We don’t know that,” said Reka.
+
+Hayden shook his head. “We don’t. Nor if the walls helped, or the mages in the city. There’s more. The local branches of the Verriann and Gevanosa have called for adventurers and volunteers, to board enchanted trade ships and sail for Lyrie. Leiveen is joining, financed by local branches owned by the Mera, Glainsplit, Serenor, and Ancire. They have people to protect from Faen magics, gold to pay, and the Hunter’s Guild has offered their support as well. Whatever happened, everyone has come together to find answers.”
+
+Hayden looked at them with expectation.
+
+“Everyone,” Silvie murmured and smiled.
+
+“We’d be sailing into the unknown,” Reka said. “Your arm… I… don’t…”
+
+“I’ve got another. And this is no longer about the dungeon. This is about Lyrie, about our home,” Silvie said with finality.
+
+“I know,” Reka said. “What ranks are joining? And who is leading?”
+
+“I don’t know, but Edmund Glainsplit is joining. He’s here, in Anvakar,” Hayden said. “And the leader of the expedition is Silea Mera.”
+
+“Silea Mera,” Reka said with some consideration, then sighed and looked at her hands. “This is not how I imagined our return trip. Fuck. What about the residual magic and its effects?”
+
+“It’s been identified as Curse magic of the Fae Path. Anyone at a Path of Modest strength and above should be able to withstand its effects.”
+
+“Defenses?” Reka asked.
+
+“Devotion and Runic Paths are preparing joint protections for the expedition, in case the effects of the curse are stronger the closer we get to Lyrie and Leiveen. Some of my magic should help too, at least temporarily. Perrion is the first target, then Lyrie,” Hayden said.
+
+“An expedition force,” Reka murmured. She slowly nodded to herself. “Yeah. If you two are sure about this.” She glanced at Veron.
+
+He considered.
+
+Curse magic. Villages wiped out, and unknown creatures moving in the forest.
+
+It sounds dangerous. But so does the dungeon.
+
+He sighed, and smiled to himself. Just like with his previous decision to stay, this one too seemed like an easy choice in the end. I care about them. I want to know what happened. I want to check if Ian and the others are safe.
+
+There was more, and Veron did feel a little bit embarrassed about it. A massive expedition to go explore this phenomenon. Maybe it was the main reason why he chose to join. He didn’t want to miss it.
+
+“So we’re going?” Hayden said.
+
+Silvie grinned. “Of course. Veron?”
+
+“Yeah. I’ll join,” he said. “Gotta make sure you don’t lose your second arm.”
+
+“That’s my modest man,” Silvie said. “Reka?”
+
+Reka sighed and then smiled. “Fuck me, and here I was looking forward to finding a shop to buy. And now there may not even be any of them left. Yeah. If everyone is in agreement, we’re going on an expedition.”
+
+“Very well. They leave tomorrow morning. Let’s go and sign up before they’re full,” Hayden said.
+
+“Yeah. Let’s get our gear, and check out,” Reka said.
+
+Veron leaned back and then stood up. He breathed in deep and gathered his things.
+
+An expedition to the south. Not what I expected.
+
+He smiled to himself. At the very least, it meant he could stay with the Silver Wolves for a little bit longer. Or for a lot longer, depending on how this goes.
+
+They prepared the gear that they had left, checked out of the inn, and started making their way through town, southwards and towards the harbor on the Karrian river. Already, they could see other adventurers walking in the same direction, some of them talking about the boats or the Fae magic. The atmosphere was infectious. All the waiting, the pent up frustrations of not knowing, and now they had an outlet, a goal, and a common purpose.
+
+“What kind of beasts do you think the scouts saw?” Silvie asked.
+
+“No idea,” Hayden said. “I guess we’ll find out when we’re there.”
+
+Their pace soon slowed, getting into a throng of people going in the same direction.
+
+Queuing up.
+
+“Silea Mera, was it? The one to lead this venture,” Veron asked as they waited.
+
+“She is one of the many heirs of the Mera. She’s made a name for herself amongst adventurers, having led several expeditions into the dungeon,” Silvie said.
+
+“Not just into the dungeon. Into the far north too, and even the deserts south of Sor. As far as experienced expedition leaders, there are few who would qualify more,” Hayden added.
+
+A Mera. I wonder what she’s like.
+
+“And the other one you mentioned?”
+
+“Edmund Glainsplit. The Glainsplit family aren’t just the best vessel and relic vessel makers in the world, they’re essentially the enforcers of the Mera.”
+
+“Whenever the Mera don't want to get their own hands dirty. You don't want either of their attention,” Hayden said.
+
+Important families in Leiveen. I guess they’d be the local nobility?
+
+“Do you have any clue how powerful their Paths are?” Veron asked.
+
+“Of course not. Beyond anything you should think about. Some of these people have been around when my grandmother was born, and they’re still ruling,” Silvie said.
+
+“They get older than other people?”
+
+“Everyone gets older with a stronger path.”
+
+Now that’s news to me.
+
+And it changes a whole lot of things. Not something to think about right now though.
+
+But I do wonder then, how old is Ivera?
+
+They walked a few more steps.
+
+“How old are we talking here?”
+
+“I don’t know, Veron,” Silvie said.
+
+He smiled at her. “Sorry. I didn’t know that.”
+
+“Are you sure you’re from this world?” she asked in an exasperated manner, obviously distracted by a team of armored adventurers riding past, calling for people to clear the way. They wore gold badges.
+
+“What if I told you I wasn't?”
+
+“I would hit you with my remaining arm.”
+
+By now, onlookers were cheering on the queuing people, and hurling remarks at them from balconies and from the side of the street. When they finally reached the harbor, they found hundreds of adventurers still waiting, iron, silver, and gold badges glinting on their gear.
+
+Three large enchanted vessels similar to the ones Veron had seen on the river in Perrion were waiting, two floors on each and thick hulls of dark metal protecting them. They looked more like war ships than trade vessels.
+
+Veron’s attention was drawn upwards when one of the Eskir flying ships arrived to dock at a nearby tower.
+
+“We’ve got an airship joining,” Silvie said with a grin.
+
+He could make out a few people standing atop the vessel and looking down. One of them vanished which made him blink.
+
+“I hope there's enough room for us,” Hayden said.
+
+Hundreds of adventurers going onto armored ships. It feels like we’re going to war.
+
+My first expedition. Earlier than I thought. Ian, Ivera, I hope you’re still alive out there.

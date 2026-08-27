@@ -1,0 +1,189 @@
+---
+id: f19a1849-712e-5da8-aceb-e5cd9831c39d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13 - Training"
+slug: 0013-chapter-13-training
+partOf: hell-horizon-healer
+position: 13
+ownLength: 2121
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3525247/chapter-13-training"
+royalRoadId: "3525247"
+---
+
+Lyle adjusted the heavy strap of his fireman’s axe, the wood digging into his shoulder as he walked toward the mouth of the recess.
+
+The forest was too quiet. Back in the city, the night always had a sound—sirens in the distance, the hum of traffic, the familiar rattle of the station doors. Here, there was nothing but a heavy, sweet-smelling silence that made his skin itch.
+
+He looked back into the cave. Everyone was out cold, their breathing deep and almost calm. Even Susan had stopped shivering, her face pale but relaxed under the thick blanket of leaves. They had water, they had meat, and for the first time since the squeal inside their heads started, people looked peaceful.
+
+Lyle forced a small, tired smile. He’d spent his entire career running into burning buildings to pull people out of the dark. When the world fell apart, his first instinct was to steady the line. To be the shield. That was what a first responder did. Seeing the neighbors sleeping safely around a warm fire made the bruising on his ribs feel a little lighter.
+
+They were going to make it. They just needed to stick together, listen to Edwin’s tactical advice, and clear this floor systematically.
+
+Lyle turned back to the tree line, ready to relieve Jake from the first watch. He stepped past the thorny thicket, his boots treading softly on the damp grass.
+
+Then he froze.
+
+The scent of roasting boar vanished, completely replaced by the sharp, metallic odor of fresh blood.
+
+Jake was kneeling in the dirt fifteen feet away from a shredded log. His shirt was completely drenched in sweat, sticking to the hard lines of his spine.
+
+He was staring down at his right hand.
+
+Lyle's breath hitched as he took in the scene.
+
+The grass beneath Jake was splattered with dark, thick red. The heavy iron links of the chain scythe were wrapped tightly around Jake's forearm, but the metal didn't look like it was just resting on his skin. It had sunk in. The raw friction of throwing the heavy weapon for hours had sliced his palms open, the jagged links literally threatening to fuse into the torn, bloody flesh of his grip.
+
+Before Lyle could even shout for help, Jake clenched his jaw. With a brutal, fluid wrench of his arm, he yanked his grip free from the iron.
+
+Splat.
+
+A fresh spray of blood hit the dirt. Jake didn't even flinch. He just let out a low, rough groan from the back of his throat, a golden light instantly flaring from his left palm as he pressed it into the mangled tissue.
+
+Lyle felt a cold shiver run straight down his spine. He’d seen people in shock before—factory workers with limbs caught in machinery, victims of severe car crashes—but this wasn't shock. This was a deliberate, clinical self-mutilation for the sake of… What? Practice?
+
+Jake turned calmly, as if he already knew he was there.
+
+His eyes were completely hollow, wide and unblinking in the faint dawn light. There was no humanity in that gaze. It was the cold, desperate look of a starving animal staring through a cage, completely detached from everything else around it.
+
+Lyle couldn't move. His hand tightened instinctively around the handle of his axe, his heart hammering against his bruised ribs. He had thought Jake was just an eccentric, anti-social office worker who got lucky with a unique trait. But looking at him now, kneeling in a puddle of his own blood with fresh, pink scars rapidly knitting across his palms, Lyle realized the truth.
+
+The guy wasn't normal. He was dangerous.
+
+Jake wiped a smear of blood against his hoodie, his expression flattening out into his usual, unreadable blankness. He looked up at Lyle.
+
+“What’s up?”
+
+***
+
+Jake Pov.
+
+It hurt. It hurt a lot. Jake wondered what the hell he had to do to get a pain resistance skill—toss himself into an open fire?
+
+Not wanting to get any ideas, Jake placed Gutter-Tooth inside… wherever it resided. For now he’d call it the soul storage.
+
+Oh, and Lyle was looking at him funny.
+
+“Uh,” Lyle said, stumbling over his words. “It’s my watch now.”
+
+“Oh sweet,” Jake said. “I’m starving.” He smiled. “I’m so hungry I could eat a human.”
+
+Lyle froze, then laughed blankly. “That’s… funny.”
+
+Jake swore he saw the tall hero shiver for a moment.
+
+“Keep your eyes open,” Jake said. “It takes only one moment. Remember, these monsters can have any ability, just like us. Watch the dark. Watch above.”
+
+“I will.”
+
+“Good.”
+
+Jake returned to camp. Chloe had called it Camp Rock. It was yet another strike against her. Seriously, this place was dangerous; they just didn’t know it yet.
+
+Or maybe it’s me? Maybe I’m just on edge? Jake clenched his fist. No. Something is making us fall into a false sense of security. I better tell the others…
+
+***“You’re just paranoid,” Glenn said as he was stuffing his face with a leg of the boar. “Seriously, even if there are goblins or whatever here, they must be far away. At least for now, can’t we just enjoy ourselves? Rest?” He picked at his fingernails. “All this fighting is terrible for my nails.”
+
+Jake scoffed and paced, kicking a small stone. It echoed against the cave’s walls.
+
+“Glenn’s right, Jake,” Chloe added from the side. She was lounging in a bed made of piled up grass. “If there were any monsters near here, they would have already attacked. Edwin said he was surprised you weren’t attacked getting water. Edwin even went with Glenn to get more. Nothing attacked them.” She leaned further back and took a deep breath. “Seriously, it smells so good in this place.”
+
+Jake frowned. What, a night had passed, and they were already so laid back? What would happen if one more day passed like this?
+
+“I’m going out to hunt,” he suddenly said, addressing everyone. “Who’s coming with me?”
+
+All he got was lazy murmurs.
+
+More angry than he realised, Jake stormed out of the cave, paused, walked back in under the confused looks of everyone else, and ripped off one of the boars cooked legs. He stomped back out, passed a concerned Lyle, and out into the forest.
+
+As he listened to the soothing sounds of birds chirping and the relaxing scent of the forest’s breeze, he chomped down on the leg like it was his enemy. When the first bite travelled down his throat, tough and meaty, he realised just how hungry he actually was.
+
+He devoured the entire thing in seconds.
+
+With a full stomach, he hiked around the forest on edge, eyes constantly scanning his surroundings. There was nothing.
+
+The only thing he found was a crashing waterfall that spread a cool mist across the pool at the bottom.
+
+Whatever has got into the others, I refuse to join them.
+
+Jake sunk into his Concentration and started furiously working out to burn away the laziness. He grabbed boulders and whatever else to up the weight until his muscles burned and ached. He focused on his healing, trying to soothe the muscle fibres.
+
+Strength +1
+
+Three hours later…
+
+Strength +1
+
+Four hours later…
+
+Strength +1
+
+Jake tossed a boulder that was almost the size of him back down into the water, causing a massive splash that washed over him.
+
+Tucking his status screen away, Jake rubbed at his aching arms. Throwing boulders into a waterfall for seven hours straight was stupidly exhausting, but the burning in his chest was giving him an idea.
+
+When his Strength stat went up, his muscles required more oxygen to lift the added mass. Every time he pushed a heavy rock, his breathing turned into a chaotic, ragged mess. He was wasting energy just trying to catch his breath.
+
+Sitting cross-legged on a wet stone near the mist, Jake closed his eyes and sank right back into his Concentration.
+
+He didn't focus on his mana this time. He focused on his lungs.
+
+He used his newly gained Tension skill to map out the internal stress of his own chest. He could feel the exact moment his lungs expanded to their maximum capacity, holding the air until the oxygen absorbed into his blood, and then releasing it in a slow, perfectly measured stream. He matched the rhythm to his heartbeat—four beats in, hold for two, four beats out.
+
+It was tedious, mind-numbing work. His hyper-sensitive brain wanted to latch onto the sound of the rushing waterfall, the chirping birds, or the annoying itch of the damp mist on his skin. But he held the line, forcing his lungs to cycle the air like a machine.
+
+Two hours passed before a chime finally broke his focus.
+
+[Skill Gained: Controlled Breathing (Passive)]
+
+Effect: Optimizes oxygen consumption and stabilizes the heart rate under physical or psychological stress. Decreases stamina depletion during prolonged exertion.
+
+Jake opened his eyes, letting out a long, perfectly steady breath. The constant, tight throbbing in his temples had instantly leveled out. His body felt lighter, more efficient.
+
+He picked up a smaller rock, squeezed it until his forearm muscles turned rigid, and noted the difference. His heart rate didn't spike at all. The new skill was automatically balancing the physical strain.
+
+"Good," he muttered, standing up and wiping the wet hair from his forehead. "Now I can work out longer."
+
+Also, he thought. I wonder if I can use it to draw in mana more efficiently? Instead of just waiting for it to recharge on its own, in theory, I could kickstart the process…
+
+***
+
+One day passed, and the forest was incredibly good to them.
+
+The weather was perfect. A gentle, ambient warmth radiated through the trees, carrying a rich, deep perfume of crushed pine and blooming lilies. It settled comfortably under the limestone ledge, trapping the heat of the small fire Edwin kept burning.
+
+The change in the neighbors was nice. For the first time since the apocalypse started, the constant, jagged edge of panic left the camp.
+
+Glenn spent the entire afternoon sitting on a flat stone, idly polishing Jonathan’s old composite bow with a scrap of fabric. He looked relaxed, his usual high-strung anxiety about his appearance completely gone as he hummed a quiet tune under his breath. When Chloe giggled at something Arthur said, Glenn just offered a slow, easygoing nod, his expression peaceful.
+
+Susan was glued to her phone for the most part, stroking at the image on her homescreen. Though Jake hadn’t seen it, he guessed that it was a picture of her husband.
+
+Even Edwin—the veteran who usually treated every hallway like a tactical choke point—had calmed down. He sat by the woodpile, lazying away the hours by scraping a piece of kindling down to a neat, smooth toothpick. His eyes remained locked on the dancing red embers of the fire, his shoulders completely loose.
+
+"The air," Jake muttered, stepping to the mouth of the cave. "It's nice out here."
+
+Edwin didn't look up, just letting out a slow, satisfied grunt. "Told you, lad. Forest is peaceful. Relax a bit. We have meat. We have water. Enjoy the break."
+
+Jake nodded flatly, leaning his head back against the cool limestone wall. His perception was soaking in the environment without a single filter. He felt completely fine. He felt great, actually. The sharp, irritating background noise of the world had completely leveled out into a soft, beautiful static. For the first time in… well, forever, his brain felt quiet.
+
+He decided to sit down in the dark corner behind the thorn bushes to run through his breathing cycles.
+
+Midnight arrived. Then two in the morning.
+
+The cave was a chorus of deep, heavy snoring. Arthur was sprawled out flat on his back, his kite shield discarded three feet away in the dirt. Chloe was curled up into a soft ball, her breathing slow and rhythmic.
+
+Jake kept his eyes closed, his chest rising and falling in a slow, manual cadence—four seconds in, hold, four seconds out.
+
+At exactly twenty-four minutes past three, Jake opened his eyes to check his status screen.
+
+He blinked.
+
+The bright blue words inside his vision were blurry. The edges of the numbers were vibrating wildly, like a broken monitor, and when he tried to read his mastery percentages, his mind simply slid right off the text.
+
+Jake frowned, raising his right hand to count his fingers. One. Two. Three...
+
+A cold, sudden spike of panic tried to break through his chest, but his Controlled Breathing automatically forced his heart rate down, masking the terror.
+
+Something is wrong with me, Jake realized, his thoughts moving like sludge through grease. The air. It isn't nice.

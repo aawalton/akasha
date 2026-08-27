@@ -1,0 +1,129 @@
+---
+id: 6ca61bd4-b0c2-5e48-812d-81c57294ce6e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 774 - Vegetarian"
+slug: 0099-chapter-774-vegetarian
+partOf: hell-difficulty-tutorial
+position: 99
+ownLength: 2384
+unit: words
+publishedAt: 2026-03-18
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3167373/chapter-774-vegetarian"
+royalRoadId: "3167373"
+---
+
+When Biscuit returns, he’s floating at the side of the T-rex. And he’s in his adult form, and in comparison to the dinosaur with its [Mana Crown], he looks tiny. Yet the T-rex is very calm. I haven’t met him directly yet, but I’ve observed his fights from a distance, and I know the sort of brutality he’s capable of.
+
+In a deep growl, the dinosaur greets Tess and looks over the others, having an almost regal bearing. When he notices me, he hesitates. He lowers himself, and a deep growl that vibrates the air comes out again as he stares my way and sees the crown floating over my head.
+
+I return that gaze and stay where I stand.
+
+The growl sounds again, and the [Mana Crown] over his head starts spinning as the dino takes a step forward in a threatening manner. Mana rises up around him in a way that I rarely see in monsters or animals. While it isn’t exactly comparable to humans, lumoran specialists, or other sapients, it’s a clear sign of higher intelligence.
+
+Though maybe not that much of an intelligence.
+
+Before the T-rex can take another step, another growl sounds, but this one comes from Biscuit, who floats now behind his back. It causes the enormous monster to lower itself even more and slowly turn to the corgi. I almost expect him to tuck his tail in between his legs.
+
+Even seeing that, Biscuit faces the dinosaur for a while longer as if to confirm the understanding, and only then does the mood shift. The T-rex straightens up again and playfully boops Biscuit with his nose while not even glancing my way again.
+
+All of this doesn’t matter all that much to me as I continue my search for that spawn of Satan. For now, there are no signs of the vile ferret. Though it can hide itself pretty well, I should be able to spot it if I try.
+
+My senses expand far into the area, and I notice clear signs of heightened activity, especially when we move through areas with lingering mana radiation, like the one nearby where that old demon lives.
+
+The other members of Group 4 have mostly put the pieces together. This floor, called the Pit, is indeed a sort of trash can where someone, for some reason, has been discarding the bodies of Champions and perhaps even Absolutes. They’re the sort of beings that poison huge areas around their remains for hundreds of years, with the mere remnants of the power they once held.
+
+Min-Jae especially has been making his own observations and came up with plenty of theories on how such bodies can force different types of evolution and changes in the organisms around them. He looks at it from an observational perspective and has studied a number of the changes.
+
+Meanwhile, I just think it is cool.
+
+I’m a simple man. The kind of man who always secretly thought it was cool when the main character stayed behind at the canyon to hold back the hordes of evil just to give his family time to escape.
+
+So how can I not find this just as cool? A body that carried power so great that even years and years after its death, some of it remains. Imagine an Absolute dying and, twenty thousand years later, some level 10 human finds the skeleton of its body, unable to even scratch the bone. Or maybe such an Absolute would be perfectly preserved, seeming as if they’d died mere moments ago.
+
+I want to find such a thing, and it is one of the reasons I was excited to return here for the end of the floor. There are materials that could be gathered from such a body. Inspirations to gain. All that fun stuff.
+
+I’m also curious about the reason these bodies are being thrown here. Is this planet really just a trash can, or is there a bigger reason? I’m sure we’ll learn more in the following days as the difficulty ramps up. The System likes to trick people into letting their guard down before throwing them a curveball.
+
+Focusing my thoughts on the information Mapthaniel’s been gathering and mapping out an area, I take some notes on it. Then I confirm Redacthaniel is still safe and ready to serve the purpose of spreading the true name of black mana, which is black mana. Though the chance is tiny, it is possible the old demon might recognize my black mana.
+
+There are also some parts of me that I still haven’t named, but they do equally important things. There is one experimenting with images of Escher’s Cube, the Penrose Triangle, the Klein Bottle, and the Möbius Strip in my mind through which I continue to try to simulate moving mana, no matter how much mental damage I’m taking.
+
+Or the submind doing mental exercises that I call Parallel Mapping, Load Rotation, and Sequence Pinning, which have continued to improve my use of subminds.
+
+Lastly, there is also a smaller part I’m still a bit ashamed of. It is a base I’ve been planning to use for the Red Heartstone and for the Chestplate. It's something like the base of an Ego item. That part has hints of consciousness and can talk to me a bit.
+
+It is all still me, and it’s just an experiment, though our plan for an actual Ego is something else. Yet, it feels weird. A Florida man giving himself a mental illness so he can talk to himself. That kind of stuff.
+
+(I’ll get the ones on the right side,) I say in the group link when I notice a stronger presence approaching.
+
+(Got it. Maya and Min-Jae left side, twins front with me,) Tess adds just as quickly.
+
+Using a [Ley Line], I teleport there and find no visible monster, as it senses my appearance and stops moving. I find it amusing and take a step under the tree while looking around this ancient-feeling rainforest.
+
+When I stop under one of the smaller trees, it bursts into a rush of motion that feels just wrong for a tree. The branches swing towards me, roots pierce the ground, and wood creaks. Leaves shake as well, sending down a rain of poisonous particles.
+
+Mana spins around in a current that I sharpen and oscillate. It crashes against the trunk, which flashes in a defensive barrier before I break through and cleanly cut it apart. Kinetic energy blows away the particles, and multiple Needle Points stab through the tree where I sense the most mana and vital parts.
+
+Lastly, all of the branches reaching for me halt before even touching me.
+
+[You have defeated Blightwood - lvl 378]
+
+Glancing at the notification, I absorb some of the momentum of the falling tree and let it hit the ground almost gently before bursting into movement with Wrath Dance.
+
+The movement brings me further away to where a leopard lurks, its skin matching the color of the leaves. It’s been observing the fight the entire time. The leopard notices my appearance, and its yellow eyes snap onto me, its claws slide out as it attacks in a leap.
+
+My projectile pierces the body, flying through the air, but it passes through as if the creature were made of smoke. From my left, another leopard jumps, but I ignore it and concentrate more on my senses. While a smoke-like illusion almost crashes against me, I form a barrier to block it, noticing that it seems to be poisonous, as I locate the main body.
+
+Another burst of movement puts me up close just as the leopard starts to run away. My projectiles stab into the tree branch below as it dodges in a way that feels like living water. [Redistribution] fails to grasp it, so I increase the number of projectiles, forcing the leopard to dodge.
+
+Waiting for the right moment, I move and appear right in front of it, holding a long spear made of dark blue mana with an oscillating tip. The weapon skewers the monster. It thrashes on the blade, pulling itself closer to bite at me before I send a burst of kinetic energy through the weapon and let it explode within the monster’s body.
+
+[You have defeated Mirage Leopard - lvl 384]
+
+Tilting the spear toward the ground, I watch the body slide down and fall.
+
+In just a few seconds, a large number of insect monsters, each as big as a small dog, appear and start biting into the carcass, attracted by the blood.
+
+After returning to the group, I get a question from Tess. (What was out there?)
+
+(The tree and one of those creepy leopards that like to stalk you for days at a time, trying to poison you and attack you while you’re sleeping or taking a poop.)
+
+(We got one of those trees, and a teleporting spider. They didn't used to appear this close. However, we were expecting that. We’ll be splitting into multiple groups now, as far as we know, Skippy is in the area, and he’s attracted to the bigger groups,) she says.
+
+No one disagrees with that, and soon enough, we are split. Tess moves with the twins, Biscuit, and the T-rex. Sophie goes with Izzy, Lily, and Min-Jae, and I’m left with Maya.
+
+For the most part, Maya deals with the monsters. I only jump in if the fight would be too draining on her mana reserves. Otherwise, I keep my guard up and keep scanning the area.
+
+I don't need to level up all that much, and my plan remains to kill the Champion on the 5th floor, and only then will I push for level 400 to get my trait. This way, the "achievement" will be included in the calculations, coming together with my status as an Absolute Candidate, body upgrade stuff, miscellaneous traits, and all that good stuff.
+
+It’s even possible that killing the Champion will push me over 400 and get me the trait right away, which would probably be one of the best results.
+
+Not that long ago, I asked around and found out that level 400 is rare for an attendee, even in Beyond. Even some S-ranks never reach that kind of level before ending their tutorial, so it will be yet another advantage for me. With a year and a half or so still remaining in the tutorial after that, it’ll put me in a really good position.
+
+My chosen method of combat, reducing the entire area to rubble and calling it strategy, continues to be embarrassingly effective when it comes to levelling up.
+
+To keep up my humble facade, I turn my attention back to Maya and watch as she continues to use her claymore made of tri-colored mana to face down a group of three of those leopards that seem to love using illusions. Her movements jerk in sudden bursts of speed as she uses [Boost], her armor only materializing when she needs it. Her weapon switches forms faster than I remember: sharp and dangerous.
+
+She’s also pretty dangerous to face in a drawn out fight, as her [Compounding] continues to stack up the damage on her opponent. The only weaknesses I can think of are a slight lack of long-range senses, the fact that her mana reserves could be higher, and she doesn't like to attack at long range. But at close to medium range, she’s fairly good, be it against human-sized opponents or creatures as big as a building when she forms her [Armament] into big armor.
+
+I am just starting to relax when the familiar pressure brushes against my senses. I register the approaching presence before Maya does and almost groan. I had hoped something had eaten it.
+
+In front of that presence, another one is bulldozing through the trees. Soon, a boar with red fur and massive tusks comes charging through the forest, as if fleeing the devil himself. It notices Maya and me, but instead of attacking, it heads straight for us, its eyes wide with what seems to be sheer terror. It is as if it wants its hunter to shift focus from it to us.
+
+Another tree falls as the boar bulldozes through it. Then it stumbles and falls as a flash of golden fur streaks through the air. The boar, as big as the trucks used to haul ore in the largest of mines, twists desperately, trying to move. It squeals loudly, fountains of blood spraying from its severed front leg. The forest around it explodes and twists, and golden fur flashes a few more times, tearing off more limbs and wounding the boar.
+
+All of it takes much longer than it should. A single accurate attack would be enough to end the boar, but its hunter seems to enjoy its suffering.
+
+My [Empyrean Lance] pierces the head of the boar, and the body finally stops twitching and moving.
+
+The cause of these twitches reveals itself as the source of the golden fur appears again. The red fur of the boar bulges over the belly and moves as if something has burrowed into it just before it bursts open, and reveals a ferret with golden fur and black eyes. It is just about the size of an otter, tiny in comparison to the boar.
+
+Of course, this spawn of Satan knows about us, but it decided to torture its prey instead. Now it squeaks happily while blood soaks into its golden fur and flows down its body.
+
+This thing. This spawn of Satan. This vile little nightmare with its filthy paws. This tiny golden demon from hell itself. Sniveling, squeaking ferret composed of fur and malice.
+
+After a quick greeting, it then moves and burrows once again into the dead body, which starts moving and twitching, where the ferret passes under the flesh and proceeds to burrow more holes. The next time it pokes out, it’s looking at us through the skull of the dead boar, bloodied even more than before, as its cute, tiny eyes look towards us as if inviting us to join.
+
+The ferret hasn’t taken a single bite. I’ve actually never seen it eat anything other than grass, fruit, or seeds.
+
+The damned thing’s a vegetarian.

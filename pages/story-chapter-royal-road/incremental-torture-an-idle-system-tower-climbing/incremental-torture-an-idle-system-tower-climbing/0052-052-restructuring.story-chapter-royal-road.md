@@ -1,0 +1,201 @@
+---
+id: 3b2ade33-97b9-51a1-b120-fb7fb6fc977e
+page-type-slug: story-chapter-royal-road
+title: "052: Restructuring"
+slug: 0052-052-restructuring
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 52
+ownLength: 2133
+unit: words
+publishedAt: 2024-06-07
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1667364/052-restructuring"
+royalRoadId: "1667364"
+---
+
+~ Evelyn POV ~
+
+Seeing her father again had been wonderful. They had spent more time together in the past week than perhaps the three years before that. It was partially on her for not reaching out, but he didn’t make it easy to talk with him.
+
+At least, that used to be the case. The tower had changed everyone and for her father that meant the emotionally distant workaholic had been replaced by a still serious but far more grounded and empathetic man.
+
+They had explored Haven together. Markets had been popping up everywhere along with more permanent stores, selling everything from skill crystals to regular food and drink in exchange for essence.
+
+Or barter, if you had something interesting enough.
+
+Evelyn hadn’t purchased anything though. Not because she didn’t need or want to - amassing more skill crystals was high on her list of priorities - but rather because she had become distracted by another world shaking change to Haven.
+
+A party led by Kyron, which had departed while she was in the process of challenging the 16th Floor, had managed to clear that ridiculous hyper boss.
+
+From the gossip that tore through the city like wildfire she knew that the real powers behind the clear were two of the ‘rankers’, of which she herself was one.
+
+Namely, T and Eleanor D. She still had yet to meet either of them, but just from the fact they were able to defeat Dazurmagon in tandem with Kyron she knew they would be just as powerful and ambitious as she was.
+
+The actual change, though, had been announced to every single person in Haven by virtue of a grand congratulatory message from the tower and a revelation of new system functions for everyone - even those who hadn’t been part of the clear.
+
+Evelyn still hadn’t dismissed the message since it had arrived two days ago. Kayla had reached out, desiring a conversation pertaining to the contents of the message.
+
+She knew exactly what the woman wanted to offer and had been mulling it over in her head ever since. The problem lay in the fact she was starting to suspect her father had similar ambitions, or perhaps even further flung than Kayla’s.
+
+As for her own desires, she just wanted to reach the first Ascension and challenge the 16th Floor once more.
+
+Her opportunity to be the first to defeat it was gone, but being the first challenger to defeat it solo was still on the table. That would still not be enough for her, but it would lessen the sting that her failure had dealt.
+
+She read through the message again, trying to make a final decision about what she would do next. Deep down Evelyn knew she had already made up her mind and was just trying to accept it.
+
+Congratulations to the party ‘Ventura’ for being the first to clear the 16th Floor of this tower! They have been rewarded generously for their accomplishment, but the effects of their achievement stretch to all residents of Haven.
+
+First of all, the party system has been reworked to allow the formation of permanent parties for the challenging of floors and beyond. Additionally, the Guild system has been made available for all challengers upon reaching Haven. Any challenger may found a guild, provided they can spare the essence and find four others willing to join them. The rest of the features are up to you to discover.
+
+World Events have been triggered. Periodically you may receive a message from the tower declaring the start of a World Event. The details of each event can differ drastically, but all will take place on this floor. Within Haven, or elsewhere.
+
+Challengers may now claim property using the system, for a small price. Trading between each other is possible and once you own a property there are many ways to make use of it.
+
+Continue striving upwards, challengers.
+
+It was the single longest message the tower had ever sent. Its contents provided so many hints about the workings of the tower and what lay ahead that everyone had been in a frenzy trying to decode them. More than that, the first Guilds had already begun appearing.
+
+The very first of which was Kyron’s guild. Ventura.
+
+Neither T nor Eleanor had joined, however. It seemed their cooperation was limited to clearing the 16th Floor. And both had vanished after their grand accomplishment.
+
+Evelyn suspected that they had reached the requirements for Ascension. Not wanting to be left behind, she knew that taking down the 16th Floor herself had to happen in the next few days. Though it was easier said than done.
+
+She decided that she would meet Kayla for lunch and see what she wanted to discuss. There was every chance that their conversation could change her future plans.
+
+On a whim, she knocked on the door of the bedroom that her father had occupied in the beautiful townhouse she had claimed as her own. Through the system approved method.
+
+A ‘small price’ was a ridiculous understatement, but the tower had always been infuriating like that. It had cost 175,000 essence. Which to her wasn’t a lot, but in the grand scheme of things and compared with the burgeoning economy of Haven it was a luxurious property with a hefty price tag.
+
+Not that she minded. Having a secure place to call her own which she knew no one could breach without her express permission was a comfort she was grateful for.
+
+Whether sharing it with her father would be a mistake was something she would hopefully never have to find out. And she liked the idea that it could become a family home. If her mother survived.
+
+She has, I’m sure of it. Me and dad are just over achievers, in every sense. I’m sure she’ll arrive soon enough, along with Lily and Marvin. Actually, I should try and reach them through the Local Chat again, I’m sure they’ve unlocked it by now.
+
+Local Chat
+
+Eve: Lily, Marvin and Mum. This is Evelyn Han. Respond if you see this message.
+
+She had little qualms about revealing her full name. There were few people powerful enough to use that information to hurt her - and those people were more concerned with climbing the tower than messing with her.
+
+“Dad, I’m going to meet a friend for lunch, you’re welcome to come. The topic of conversation might interest you,” she called out when there was no response to her knock.
+
+Still no response. Either he was asleep or had already left the house. The latter was more likely. She had never known her father to be a late riser.
+
+Oh well.
+
+Kayla had probably wanted a private conversation anyway, so it was for the best. She could always fill him in on the details later, while omitting anything that needed to be.
+
+Their destination was a restaurant that had opened in the wake of the property system being activated. Plenty of those had popped up around Haven, though not all offered a quality meal. This one was simple. A steakhouse that served huge portions of red meat cooked just enough to brown the edges and unhealthy doses of triple cooked thick-cut fries.
+
+Evelyn rounded the corner and saw the sign hanging out front. It was in the shape of a cow and had the name scrawled in red writing.
+
+The Dirty Butcher
+
+She had no idea where they sourced the meat. Maybe it was a function that came with owning a commercial property. Hers was residential, so most of what she could do with it involved furnishing and decorating the place.
+
+The other alternative was monster corpses. And she suspected the reality was a mix of both.
+
+Kayla waved at her from a secluded booth near the back of the restaurant when she entered. The storefront was all wood and glass - a blend of classic western saloon and modern material science.
+
+Or perhaps more accurately given the setting, material magic.
+
+Though there was no reason the two couldn’t coexist. The petite blonde drew her into a long and tight embrace when she reached the table and she returned it. While she still had her suspicions about Kayla’s intentions, the woman had been nothing but supportive and they had been through a lot together.
+
+Friend wasn’t quite the right word. Acquaintance felt lacking. Companion then? Too many intimate connotations. Evelyn decided to give up on labelling their connection.
+
+“How are you, Kayla? I wanted to thank you again for helping me out after I failed the 16th Floor. I’m not sure how I would’ve coped alone,” she said.
+
+“Don’t worry about it, darlin’. I’ll always be here for you. At least until one of us dies a gruesome death in some obscure challenge the tower conjures up,” Kayla replied.
+
+Evelyn grimaced a little. That hit too close to home, given how close she had come to death with her reckless behaviour in the hyper boss fight. The southerner noticed her expression, because without delay grabbed her hand and shoved her into the leather sofa behind the paper wall of the booth, before sitting opposite.
+
+“I hope you don’t mind but I already ordered for us. Not that there’s much choice here. It’s steak and fries - nothing beats it. Now, I’m sure you might have guessed but I wanted to talk to you about the changes happening around here.”
+
+Before Kayla could even begin explaining herself, Evelyn interrupted with more enthusiasm than she had been expecting, even from herself.
+
+“Are you starting a guild?”
+
+Kayla’s eyes narrowed a little but their sparkle never dampened. She took a long sip of water from her glass before replying.
+
+“Well, I thought about it, but then I realised I’m not cut out for leadership. People don’t respond well to me. Most people, anyway. You’re a wonderful exception. Actually, I was going to suggest something a little different.”
+
+Here she paused for a moment. Evelyn had allowed a hint of a smile to appear on her face at Kayla’s analysis of her own rather grating personality. She supposed it was a good thing the woman was self aware, at the very least.
+
+“I think you should start a guild, Evelyn,” she said.
+
+That was the last thing she had expected to hear from Kayla today. The woman had the whole independent and mysterious thing going on. Yet from the way she had phrased her suggestion it sounded like not only did she think Evelyn should be the one to start a guild, but she wanted to join as one of the first four members - founders, as the tower called them.
+
+“Are you just saying that because I’m the only person who you trust enough, and has enough essence to found a guild?”
+
+Kayla cackled loud enough that a few other guests turned their way, but it was a short lived distraction for most.
+
+“Don’t be stupid, darlin’. I think you’re perfect for it. I might have my own reasons for wanting it, but they aren’t sinister. And you’re far more qualified than Kyron or Alice Steelweaver,” she said, spitting out the last name with venom.
+
+It seemed Kayla held more of a grudge towards the annoying woman than even Evelyn did after their little incident in the city square. Though Evelyn was far from forgiving the pest for trying to mess with her. There were just more important things to deal with than petty revenge.
+
+“I guess I hadn’t even considered the idea of starting my own guild. I had just thought either you or my father would found one and I’d hop along for the ride. It’s a lot to consider. Though it has some appeal, I love climbing the tower alone. I’d feel bad if I had a bunch of people in my guild who I never brought along to clear challenges.”
+
+“Don’t worry about the little things. You can just delegate. All the greatest bosses do. In fact, leave the messy stuff to me. Just sign your name on the dotted line, Guildmaster Eve.”
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.14
+
+|Attributes|
+
+Power: 21 (22)
+
+Speed: 5
+
+Stamina: 9
+
+Vitality: 26 (31)
+
+Mana: 26
+
+Fortitude: 57 (93)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Galactic Expansion (Unusual), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Salvo (Common), Mana Wielder (Rare), Master of Combat (Rare)
+
+~Active~
+
+Flashfreeze Flamecharge (Rare)
+
+~Hybrid~
+
+Soul of the Unstoppable Conqueror (Unusual)
+
+Essence: 47007133『+1021784 / 5:54:24 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+**Guilds**
+
+**Property**
+
+【KILL】

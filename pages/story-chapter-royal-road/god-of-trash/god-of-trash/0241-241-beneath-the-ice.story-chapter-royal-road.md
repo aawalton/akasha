@@ -1,0 +1,165 @@
+---
+id: 6054bb90-1069-5aa8-89b7-2d03b3ddb757
+page-type-slug: story-chapter-royal-road
+title: "241. Beneath the Ice"
+slug: 0241-241-beneath-the-ice
+partOf: god-of-trash
+position: 241
+ownLength: 2221
+unit: words
+publishedAt: 2025-11-28
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2801669/241-beneath-the-ice"
+royalRoadId: "2801669"
+---
+
+“What?” Sid asked, his voice as cold as the ice tunnels they stood in.
+
+“Skill issue. I had a problem with my skill at first, but I resolved it,” Rhys explained earnestly, as if his words could not possibly mean anything else, while simultaneously enjoying Daran’s invisible-to-everyone-else meltdown in the corner of his vision.
+
+“Oh.” Sid nodded and wandered away, exploring the space supported by the pillar.
+
+Rhys breathed in and out, feeling the difference in his body, his mana passages, his core. Everything felt… better. Before, he’d been over the limit of Tier 4, barely stumbling high enough to qualify as Tier 4 at all, but now… now he was solidly Tier 4. Maybe even middle-Tier 4, though he barely dared to imagine his tier so high. It seemed impossible, and yet… here he was. Stronger and more powerful than ever before. And as he continued to maintain the pillar, and the beasts continues to run over it, his strength and control over the Trash Intent only grew stronger.
+
+The beasts’ beating hooves grew less and less frequent, then died off altogether. The beasts had passed. Rhys lowered his hand, cancelling the technique, and quickly sucked the trash tidbits back into his core. An unfortunate consequence of his new denser core was that his trash bits were smaller, maybe even entirely unable to draw forth. Curious, he drew out a tiny scrap and put Trash Intent into it. More mana rushed form his hand than he expected, but a chair appeared in his grip. He shrugged and put it back away. Looked like it still functioned. Still, might be worthwhile to keep some pieces larger just for the lower mana cost and ease of use.
+
+He clapped his hands together and looked at Daran. He still had those questions that Daran had to answer. He still didn’t know what he wanted to use them on, but he was keeping them in his back pocket… and he hadn’t ruled out forcing Daran to answer an annoying question just to be obnoxious.
+
+“What?” Daran asked, recovering.
+
+Rhys shrugged and looked away. No need to piss off Daran right now. They were kind of getting along, after all. Not really, but kind of. Better than they usually got along, anyways. Somehow, Sid was making him and Daran get along.
+
+Maybe because Sid is crazy, so I’m on edge around him, but Daran is just misguided, so I don’t have to watch myself around him so much? Or maybe Daran, being immaterial, posed no threat to Rhys even if he wanted to kill Rhys, so there was no need to be on guard around him. Either way, he was somehow starting to understand Daran a little.
+
+He’s really making me not want to revive him, though. The more he liked Daran, the less he wanted to revive him… though it was mostly, he had to admit, because of the lack of threat Daran posed that he liked him, so therefore, he didn’t want to revive the threat and have to be on guard around him.
+
+Maybe that was the solution. He’d revive Daran once he was stronger than him. He thought for a second, then nodded. Really, it only made sense. If he revived Daran when Daran was stronger, he’d be in danger. The other way around, it’d just be a favor for a friend. If he considered Daran a friend by then.
+
+Sid was still on the other side of the room, looking at the ice walls with interest. Rhys crossed his arms. “A while ago, you mentioned you couldn’t create souls. So how do Straw and Sid have souls?”
+
+Daran glanced at him. “Do you think I deliberately gave them these personalities?”
+
+“I dunno, maybe?”
+
+“No. Everything in this world possesses a soul, or the ability to obtain a soul. From the smallest blade of grass to the basest insect, all beings can develop souls if given the opportunity. As a bundle of straw originally, Straw had a great many chances to develop a soul. One of the straws must have gained consciousness at some point. And the same must have happened with Sid.”
+
+Rhys nodded slowly. “That makes sense. But wait… how’d you make Sid, then?”
+
+“Have you heard of the Gu curse? Or perhaps poison jars?”
+
+“Yeah… you mean the thing where you put a bunch of bugs in a jar and the one that survives after a week or so is the curse?”
+
+“Precisely. I put a hundred bugs in a hundred jars. When only one bug remained, I opened the jars, and—”
+
+“Put the remaining hundred bugs in a final thunderdrome jar?”
+
+Daran gave him a confused look. “No. I fused them all, combining their cursed energy into one ultra-powerful bug with all the strongest aspects of all the bugs combined.”
+
+“Ohhh. So that’s the spiderweb and the eggs and also that creepy train thing he has going on explained, then.”
+
+“Yes… ‘he’ is a choice Sid made. To be precise, he’s about 53% female and 47% male.”
+
+“Really?”
+
+“It’s not that surprising. In bugs, there are many species where the female is larger and more powerful… though there’s also many species where the male is the larger one. The victors fell out mostly on the lines you would expect, according to which species defeated the other ninety-nine bugs in the jar.”
+
+“No, I mean… wouldn’t Sid be the soul of one particular bug, and therefore either male or female? Like how Straw was probably the soul of some random strand of straw,” Rhys asked.
+
+Daran shook his head. “I don’t believe that’s true. Unlike with Straw, when I fused the bugs, many of them had tiny, burgeoning souls. Although I am no master of soul arts, I sensed the souls fusing when I combined the bugs into Sid.”
+
+“So Sid’s like…an ultra mega Gu curse?”
+
+“He is the combined might of a thousand bugs,” Daran said proudly, and Rhys felt the same energy emanating from Daran that he himself exuded when he said a really cool line.
+
+Just to harsh his mellow, and for no other reason, Rhys commented, “That doesn’t seem like a whole lot of power.”
+
+Daran glared at him.
+
+“I mean, I could take a thousand bugs. Give me some boiling water and an anthill. It’s pretty easy, honestly.”
+
+“Do you mean to imply that Sid is pathetic?”
+
+“Not at all! No, no, he’s absolutely terrifying, and I’m super impressed by him. What I’m not impressed by is your marketing prowess. You need a better line than ‘the combined might of a thousand bugs.’ Something that properly expresses his terrifying aura, not something that makes me feel like I’m facing all the power of a single anthill.”
+
+Daran harrumphed. “My marketing worked well enough to make the entire region fear me.”
+
+“And then they overthrew you, so I don’t think it actually worked.”
+
+The ex-Demon King had nothing to answer that, so he crossed his arms in a huff instead.
+
+“Are we done?”
+
+The sound in the real world of Sid’s voice, as opposed to the semi-psychic ‘sound’ of Daran’s voice, startled Rhys for a moment. He turned to Sid, who was standing by the exit with all the impatient energy of a five-year-old having to sit around while their mom chatted with her friends.
+
+“Yeah, I’m done. I’m coming.” Rhys hurried over to Sid’s side, and Sid swept off, heading deeper into the ice tunnels.
+
+They didn’t have far to go. Rhys recalled the route to Lord Ravin, and swiftly led Sid to his room. He gestured for Sid to stay outside and entered first. “Lord Ravin, I return.”
+
+“With one of my retainers?” Lord Ravin intoned.
+
+Rhys put his hands behind his back and lifted his chin. Without answering, he looked Lord Ravin in the eye. “I really have to ask: Do you want to die? Because you asked me to find two of your jilted lovers and also a Remnant Weapon.”
+
+Lord Ravin shifted slightly in the chair and said nothing.
+
+“Or… did you want me to die?” Rhys asked, suddenly realizing something at the same time. He had asked this man to do him a favor right after killing his retainers. Maybe Lord Ravin had deliberately sent him after these people because they hated him, and were likely to attack the messenger.
+
+Lord Ravin coughed slightly, his insides jumping as he did.
+
+Rhys raised his brows. Well… there we have it. He coughed as well, a little sheepish. “Well, I suppose you only have yourself to blame, because I did manage to get one of them.”
+
+“Xelo? Or perhaps Madame Edel? I suppose you recognized the Remnant Weapon and chose not to visit him, because you wouldn’t survive—”
+
+“Hello!” Sid said cheerfully, stepping into the room.
+
+Lord Ravin froze.
+
+Rhys coughed again. “Right, um… I’m shit at talking to people, but I have a high affinity with Remnant Weapons. I was trained by one, and Sid’s daughter is my friend…”
+
+“Sid has a daughter? How?” Lord Ravin asked, shocked.
+
+“That’s quite rude. I have the same equipment as everyone else in this room.”
+
+“I wasn’t questioning the physicality, but the survival… never mind.” Lord Ravin shifted on his throne, suddenly uncomfortable. “Very good. As I asked, my good friend Sid has arrived.”
+
+“We’re friends?”
+
+Lord Ravin coughed. It seemed there was a cold going around the room, the way everyone was coughing. “So… what did you want from me?”
+
+“Information. What did you see that day you lost the fight to the Sword Saint?” Rhys asked.
+
+“A woman.”
+
+“A woman?”
+
+Lord Ravin shifted slightly, leaning his remaining chin on his remaining hand and looking Rhys dead in the eye. “A woman. Were I not at my high realm, I would not have perceived her at all. She did not wish to be perceived, and seemed to assume that none of us had seen her, though in truth I simply cared not to slay a passing woman. It was only after our battle that I suspected she was gathering information for someone… but by then, I was forced to retreat.”
+
+Rhys’s heart went cold. He sat forward. “Was she mousy-haired?”
+
+“Yes. And she wore glasses.”
+
+Shit. No way. But there was a way. It was very possible. Mouse often vanished from his perception, and if it happened during the three years he was in the mines, well, the only proof he had about what she’d been doing during that time, was what she told him herself. If she was instead watching the Sword Saint and Lord Ravin fight, then… then why had she lied to him? And did it have anything to do with how she vanished at the end of the battle against the Empire?
+
+“Why do you say she was gathering information?” Rhys asked.
+
+Lord Ravin rolled his eyes. “It was obvious. She had a recording orb. I only realized it after the fact, when I was no longer pressured by the Sword Saint, but… by then it was too late to destroy it or her. A man whisked her off when the battle was done.”
+
+“A man?”
+
+“Some idiot in purple robes with a lot of self-importance. He was powerful enough that I couldn’t risk attacking, in my injured state.”
+
+Rhys widened his eyes. No way. Mouse is on the side of Lord Virgin? Ahem—Lord Virgil? But why? How? She didn’t seem like the kind of person who wanted to control others… I mean, her whole path is about hiding. Maybe I’m mistaken, but she didn’t give off power-hungry vibes. I mean, she could’ve hidden them, I guess, but that seems like a crazy thing to hide. And if she’s hiding it, she’s never slipped up even once. He frowned, thinking deeply, but couldn’t make heads nor tails of it, except that it explained why Mouse had fully vanished so much around the grand attack on the Empire.
+
+He rubbed his jaw, then shook his head. “Holy shit. Thanks, man. That, uh. Meant a whole lot more than I thought it would.”
+
+“It did?” Lord Ravin asked, shocked.
+
+Rhys glanced at him. Was the guy hoping to see Rhys’s disappointed face when he got some worthless piece of information, or something?
+
+No… this whole thing was meant to be a win-win for Lord Ravin, Rhys realized abruptly. Lord Ravin got his retainer, or Rhys died—because how the hell did someone casually bring a Remnant Weapon back?—and if Rhys made it back with one of the two human retainers by some miracle, then he’d give Rhys a piece of useless information and laugh in his face.
+
+Unfortunately for Lord Ravin, Rhys had turned it into a win-win for himself, where he brought Lord Ravin the insane bugman, and then also gained very useful information. He snorted to himself. Turnabout is fair play, I suppose.
+
+With a wave, he turned to go. “Have fun with Sid! See ya!”
+
+“Stop right there. Don’t you dare imagine you’re getting out of this so easily,” Lord Ravin snarled. A force wrapped around Rhys’s body and froze him in place, and Rhys gulped. Right. He’s high-tier. If his gambit doesn’t pay off, he can always just kill me.
+
+Dammit! I should’ve acted disappointed. Then he would’ve been satisfied, and I could’ve gotten away safely!

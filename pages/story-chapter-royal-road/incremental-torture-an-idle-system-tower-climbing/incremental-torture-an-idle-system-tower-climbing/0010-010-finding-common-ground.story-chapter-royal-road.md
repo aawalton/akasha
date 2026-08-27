@@ -1,0 +1,199 @@
+---
+id: c937c928-a840-5f50-9819-d52de2b4e561
+page-type-slug: story-chapter-royal-road
+title: "010: Finding Common Ground"
+slug: 0010-010-finding-common-ground
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 10
+ownLength: 2087
+unit: words
+publishedAt: 2024-04-07
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1584454/010-finding-common-ground"
+royalRoadId: "1584454"
+---
+
+Despite what they had just been through being one of the most gruelling, death defying experiences of their entire lives, none of the three seemed that fazed. Even Anthea, who was basically still a child, had been moulded by the first few floors of the tower to find such a brutal battle to be less traumatic. It was a sad truth of their new reality.
+
+The first order of business for each of them was checking the menu to see just how much essence defeating the mini boss had rewarded them with. After all, there were plenty of new and reliable old rewards to choose from, as well as the tantalising Common Loot Chest which they realised each of them had received after a quick discussion.
+
+Essence: 170『+1 / 6 hours』
+
+~~ Stars ~~
+
+Grey: 1
+
+** Inventory **
+
+** Local Shop **
+
+【KILL】
+
+If I work backwards, assuming that the essence was shared evenly, then the mini boss gave a total of around 600 essence for defeating it. That seems a little high given that even that giant rodent offered just 25 when I put it down, but I guess that was a rather extreme challenge. It still feels too generous for this damned tower though, unless?
+
+Evelyn had a bad premonition and realising that this probably should’ve been the very first thing she did after they defeated the octojelly, dashed to where Graham had been lying unconscious for the duration of the battle. What met her was a gruesome sight.
+
+He had been bleeding profusely from the wounds dealt by the mini boss when it had smacked him away, but unfortunately none of them had been able to spare the attention to treat him on the spot and given his past behaviour it wasn’t as if the rest of the group was that motivated to rush and help.
+
+As it stood, the pool of blood around him had merged with the blood, slime and chunks of jelly-like flesh that had been splattered everywhere when Evelyn had dealt the finishing blow, making it look like a scene straight from a horror film.
+
+Ignoring the gruesome aspect of it all, she rushed over and placed a hand on the man’s wrist to check for a pulse. Nothing. Thinking she was just using incorrect technique, Evelyn leaned over to see if she could feel his breathing, but was once again met with absolute stillness. Graham was dead. They had simply abandoned him to his tragic fate. Every floor that she cleared left her feeling like another shred of her humanity was being left behind.
+
+There was no time to dwell on such depressing matters. The nature of the tower meant that with so much essence to spare, Evelyn had to rush to ensure that she could still do what she had attempted on the previous floor before anyone else had the same idea. It was likely that plenty of other groups of people were facing the same challenges and the Local Shop seemed to be a community function.
+
+While it was the most expensive option for her to take, a second skill crystal was actually the choice that made the most sense considering her plan, so Evelyn tapped it without delay and the faintly glowing crystal fell onto her outstretched palm. Not wanting to delay, she crushed it into dust, watching as the grains fell through her fingers, disappearing before they reached the ground.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Stargazing (Common) - Reduce timer for all stars by 0.1 seconds per star owned.
+
+That is seriously underwhelming. Now I only have to wait 5 hours, 59 minutes and 59.9 seconds for my free essence. Whoopee! I suppose it might become far more powerful in future but I was hoping for something that would help me in combat at least. The attribute points I’m about to get will have to make up for it.
+
+With her reward selected and second skill added to her repertoire, Evelyn moved on to the next step of her plan. With 105 essence left to spend, she opened the Local Shop and crossed her fingers that the cheap attribute points and grey stars hadn’t been bought up by anyone else smart enough to figure out that it was far more resource efficient than using the rewards.
+
+** Local Shop **
+
+BUY | SELL
+
+〖Rusty Dagger〗 - 30 Essence
+
+〖Rusty Dagger〗 - 30 Essence
+
+…
+
+〖Grey Star〗 - 48 Essence
+
+〖Grey Star〗 - 48 Essence
+
+…
+
+〖Attribute Point〗 - 18 Essence
+
+〖Attribute Point〗 - 18 Essence
+
+〖Attribute Point〗 - 18 Essence
+
+〖Attribute Point〗 - 30 Essence
+
+〖Attribute Point〗 - 30 Essence
+
+〖Attribute Point〗 - 30 Essence
+
+〖Attribute Point〗 - 30 Essence
+
+〖Attribute Point〗 - 48 Essence
+
+〖Common Skill Crystal〗 - 60 Essence
+
+〖Common Skill Crystal〗 - 60 Essence
+
+〖Common Skill Crystal〗 - 60 Essence
+
+〖Common Skill Crystal〗 - 60 Essence
+
+…
+
+〖Iron Hammer〗 - 44 Essence
+
+〖Raider’s Helm〗 - 39 Essence
+
+〖Blunt Greatsword〗 - 41 Essence
+
+〖Leather Vest〗 - 42 Essence
+
+〖Buccaneer’s Eyepatch〗 - 40 Essence
+
+〖Frayed Pugilist’s Handwraps〗 - 41 Essence
+
+It took her far longer to read through the sheer number of items available for purchase compared to the last time she had opened the shop, but it made sense given that the 5th Floor was a rather big milestone it seemed. The seemingly random items of gear for sale were likely dropped from the Common Loot Chest, either the owners weren’t suited for them or felt that they would be better served having the essence from the sale.
+
+I suppose the grey stars probably aren’t going anywhere. I’m still surprised they don’t seem to be that popular. There’s even more available in the shop than before so I guess people weren’t happy with the long wait or low payout? More for me. I’ll just take the three cheap attribute points before they get snatched up then open the chest and see what’s inside.
+
+Evelyn had wanted to have enough left over to get two more grey stars, but it was almost a guarantee that attribute points at that price would never come around again and based on how much she had struggled in the fight against the mini boss, she would need every edge she could get for the coming floors. Just as she purchased them, she heard a shout from Kayla’s direction.
+
+“Motherfu-!” She exclaimed, “I was just about to buy those. Guess I can only blame myself for being too slow on the draw.”
+
+A grin spread across Evelyn’s face at the outburst. They were teammates, at least for now, but getting one over on Kayla was satisfying. Next up she had to figure out how to distribute her points. Fortitude was an obvious choice. It synergised well with her skill, Bulwark, and even with the single point she already had in the attribute, the mini boss hadn’t struggled to smack her around like it was playing with a toy.
+
+Thus far, she had also managed to avoid spending her essence on a full recovery, but every step was painful and with six or seven broken ribs, her body was protesting that decision with all its might. A point in vitality might be what it needed to heal itself a little sooner. While she had failed to dodge a few strikes, that was mostly due to the sheer volume of tentacles the mini boss had available.
+
+What had really stood out was her complete lack of strength. The only attack that had been impactful was her last, which likely only worked because she hit a weak point of the monster that had already been damaged by Anthea. That made power the most deserving candidate for the last point. With her decision made, she confirmed it and checked out her shiny new status.
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+|Attributes|
+
+Power: 1
+
+Speed: 1
+
+Stamina: 0
+
+Vitality: 1
+
+Mana: 0
+
+Fortitude: 2
+
+|Skills|
+
+~Passive~
+
+Bulwark (Common), Stargazing (Common)
+
+Honestly it’s difficult to tell if these things are actually making a difference to my body, since the difficulty is also increasing with every floor. I’m sure if I just keep putting more points in eventually there will be a moment that my investment pays off. Maybe I should’ve gone for the full recovery though, as it stands we’ll need to wait on this floor for at least a day or two before I’m able to move on, unless they decide to abandon me.
+
+“Hey, do either of you know where the Common Loot Chests are? It said we each get one but I can’t see anything on the ground where we defeated the mini boss and nothing appeared in my hands,” Evelyn asked the other two.
+
+“I’d be lyin’ if I said it wouldn’t be cute to watch you puzzle it out on your own, but for the sake of fostering a good relationship I’ll tell you. Try that lil’ inventory function we just unlocked darlin’,” Kayla answered in her husky drawl.
+
+Just what is that woman made of? She took a few good hits from the octojelly like the rest of us and fought harder than us all combined but her hair is still pristine and she doesn’t look any worse for wear. I’ll have to ask for her workout routine at some point.
+
+Evelyn did as Kayla suggested and opened the Inventory from her menu, following which a window rather similar to the Local Shop appeared, with just one item inside.
+
+** Inventory **
+
+〖1/10〗
+
+〖Common Loot Chest〗
+
+She tried the most obvious option first, tapping on the item in the Inventory and was rewarded painfully as a grey wooden box smacked her on the head, knocking her to the floor, her cracked ribs screaming in protest. Anthea rushed over to help her back up, checking to see if she was okay while Kayla simply cackled.
+
+Once she had gathered herself and picked up the grey chest, Evelyn simply undid the latch and opened the lid, bathing the surroundings in a grey glow for a brief moment before it vanished, leaving her with nothing. Before she could complain to whatever damnably infuriating bastard ran the tower, Kayla chimed in once more.
+
+“Inventory, darlin’.”
+
+** Inventory **
+
+〖1/10〗
+
+〖Sturdy Buckler〗
+
+Evelyn really didn’t like where this was going. Sure, most of the tower’s rewards seemed to run on blind luck of the draw, but given that she had received a tanking skill and now a shield, it seemed intent on pushing her in that direction. On the plus side, a shield was far more useful than the kind of gear she could have received based on the offerings in the shop. She left it in her inventory for now, but not before reading the brief description it offered her of the item.
+
+Sturdy Buckler (Common) - A well crafted round shield of oak and iron that helps the wielder to block attacks.
+
+Real forthcoming of you, you wonderful tower. What’s next, a sword that helps me stab people?
+
+With that done, all that was left was to purchase another grey star with her remaining essence and then lay down to rest. On the plus side, having to delay their entry to the next floor would at least give her a chance to earn some more essence for no effort, with her new skill also being boosted a little with her acquiring a second star.
+
+Essence: 3『+2 / 5:59:59.8 hours』
+
+~~ Stars ~~
+
+Grey: 2
+
+** Inventory **
+
+** Local Shop **
+
+【KILL】
+
+“Alright, I need some sleep to try and heal some of these injuries. Maybe that point of vitality will really show its value, or maybe not. Keep watch and if the portal starts to close just drag me through and we can deal with the consequences later,” Evelyn said to the two.
+
+She didn’t fully trust Kayla, but at least Anthea seemed friendly enough and given her injuries, if the athletic woman wanted to hurt her there wasn’t really much she could do to resist. The portal had appeared right after they defeated the mini boss but since they didn’t know if the next floor would return them to solo grinding or not, they figured it was worth waiting and entering together.
+
+The fact that they had unlocked the ‘party system’ was a clue that they may be working together for the foreseeable future, but after the last fight their teamwork had definitely improved, so perhaps it wouldn’t be all bad.

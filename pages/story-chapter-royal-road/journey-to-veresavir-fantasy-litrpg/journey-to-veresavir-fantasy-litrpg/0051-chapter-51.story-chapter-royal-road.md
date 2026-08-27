@@ -1,0 +1,371 @@
+---
+id: c2096ae9-f617-58ea-b55b-b98c8323aec0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51"
+slug: 0051-chapter-51
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 51
+ownLength: 3200
+unit: words
+publishedAt: 2026-04-04
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3232338/chapter-51"
+royalRoadId: "3232338"
+---
+
+Chapter 51
+
+Veron glanced at Elke, then followed Ailis and Isaac out of the Guild.
+
+“I assume you mainly just came here for the dungeon then?” Ailis asked.
+
+“Pretty much. I’ve gone on a few walks to explore a little but there’s a lot going on,” Veron said.
+
+“Yeah, there are a lot of shops and restaurants, and a lot of potential trouble. Most people who come here think the dungeon pit is the center of the city, and in a lot of ways, that’s true. It’s why people travel here, and why Anvakar can hold its own as a quasi city-state, but the real center in terms of government is right here,” Ailis said and gestured around herself now that they stood in the courtyard of the burg towering over the rest of the city.
+
+“The Adevian Fort, and the seat of the Hunter’s Guild. Should I go on while we make our way to the Spindle? I don’t want to bore you.” Ailis said. “Just thought you might be interested in some bits and pieces about the city, since you’re not from here.”
+
+“Do go on. I’ve learned a lot more about the dungeon than the city itself so far,” Veron said.
+
+Elke nodded.
+
+“I don’t mind,” Isaac said.
+
+“Great. From here, you can see Main Street right ahead. It’s the most expensive area in Anvakar for many reasons. You’ll get quality, for a price. It’s where you’ll find shops funded by the big families in Leiveen, important corporations from Felrak and Sor, and anyone else important or rich enough to have a store there.”
+
+“So is it more about status rather than quality?” Veron asked. He could see the blooming trees of Main Street, some with pink blossoms, others with lush green leaves.
+
+“In big part, yes, but they’re the best and most expensive for a reason. I’m not an expert, but higher level people say you get the best gear on Main Street, but you’ll get ripped off the same as everywhere else. If you don’t know what you’re doing.
+
+“Around and below the Adevian Fort, you’ll find the Stone Circles. You can see some of its streets from here,” Ailis said as they reached the winding stone stairway leading up to the burg.
+
+Veron looked down past the stone railing and raised his eyebrow. He’d seen that there were lower streets but now that Ailis pointed it out, he could see there were additional layers. And yes, the make of it all reminded him of a somewhat circular setup. “How deep does it go?”
+
+“It’s five layers deep, if you count the ground floor. Some don’t. The Spindle goes through several layers.” She stopped and looked at them, then blinked her eyes. “By the way, maybe I’m setting expectations too high. It’s just a big food court. There are all kinds of options, so you get a lot of variety in a single place, and the spots in there are highly competitive, so all the food tends to be very good.”
+
+“I didn’t really know what to expect, but good food variety sounds nice,” Veron said. “So the Stone Circles is just the name for the winding streets that go around the fort?”
+
+“Around the hill it stands on, and then deeper, yes,” Ailis continued as they made their way down. “They’re mainly known for restaurants, tea houses, and sellers of curiosities. You’ll find all kinds of goods there, and services. If you’re looking for that.”
+
+Veron nodded along, looking at the deeper layers and the many different storefronts and buildings he could spot. They reached the bottom of the stairs by then and Ailis led them around the hill or small mountain that the Guild stood on.
+
+“We’ll be right there,” she said.
+
+They crossed over a small stone bridge. There were quite a few of those. Reka and the Wolves had focused on the Guild when they’d come here, but then Veron supposed they weren’t looking to sightsee.
+
+Now that I think about it, they seemed somewhat apprehensive of Anvakar. It felt like they came because the dungeon is here, not because they liked the city. But maybe I’m wrong about that.
+
+In that moment, Veron spotted someone quickly climbing out of a nearby window before climbing up to the roof. He saw a few nearby people pointing but other than a few laughs, nobody said anything.
+
+A thief? Or just someone very eccentric showing off their climbing skills?
+
+“You grew up here?” Veron asked,
+
+Ailis smiled slightly. “Yeah.” There was a lot more to it, he could tell.
+
+“And you like the city?”
+
+“That almost sounds like an accusation,” she said, raising an eyebrow. She breathed in deep and pointed to a large structure built from reddish stone, windows and balconies lining the front, a terrace lush with greenery and lights atop. “That’s the Spindle.”
+
+Veron saw that the building wasn’t just set atop the ground level street but reached down into the deeper layers too, the warmly colored reddish rock standing out within the surrounding gray rock and brown colors of wood. It looked old too, with several sections looking like later additions to a massive whole, as if it had grown and sprawled into the city and down into the Circles like an ancient tree of stone.
+
+“Anvakar is Anvakar. There are things I like about this city, and there are things I dislike. As I’m sure is the case with most people and their cities. I was born here, so I’m sure I’m biased. I can say that I like the Hunter’s Guild, though perhaps someone from Sor would say the same about the Congregation.” She glanced at Isaac.
+
+“I won’t comment on that,” Isaac said. “I’m from Yora.”
+
+Ailis raised her chin as if his words were enough explanation.
+
+Veron didn’t comment. He was okay not knowing much about Anvakar, but he didn’t want to give away his lack of worldliness entirely.
+
+“Yora?” Elke asked.
+
+Thank you.
+
+Neither Ailis nor Isaac reacted however, the two of them going on towards the Spindle.
+
+“I think they didn’t hear you,” Veron said to Elke, trying to sound apologetic.
+
+She sighed slightly, and then just moved on.
+
+“You don’t talk much,” he said to her.
+
+She nodded.
+
+“I talk more.”
+
+She didn’t react.
+
+“Too much?” he asked.
+
+She shrugged.
+
+Veron laughed.
+
+“Are you two coming?” Ailis asked from near the open double doors. Different music, laughter, and the sounds of two dozen conversations came from within the large structure, accompanied by the smells of food.
+
+Veron halted. “Hmm. I’ve got an issue with grilled food. The smell specifically.”
+
+“The smell? You don’t want to go inside then?” Ailis asked.
+
+“I do. I might just… lock up, or run away. I’m not kidding,” Veron said. Isaac tilted his head in confusion. Elke glanced at Ailis. And Ailis nodded.
+
+“Sure. I might have something, let’s see,” Ailis said and searched through her pack. She got out a small vial and uncorked it. “These are smelling salts from the Maradin Sands. The smell is quite strong but the irritation should help deal with other difficult smells. Do you want to try? We can also find another place or bring you some food from inside to eat elsewhere.”
+
+“I’d like to try, thank you,” Veron said and received the salts. He smelled on them and smiled. That’s strong. “Thanks, Ailis.”
+
+“What?” she asked.
+
+“What what?”
+
+“Your look. You seem surprised,” she said.
+
+“Yeah. I didn’t expect you to react like that.”
+
+She rolled her eyes. “I’m the healer, Veron. Now that I agreed to join the team, I’m more than happy to fulfill that role.”
+
+“I appreciate it.”
+
+“Food?” Elke asked.
+
+“Yeah, food,” Isaac replied, and they went inside.
+
+It almost felt like a different world past the threshold. Veron immediately raised the salts to his nose, seeing the sizzling pans and steaming pots. The smell was rough and mixed, meat and spices covering sweat, smoke, and alcohol. Adventurers sat side by side with men and women in fine garbs and dresses, some groups looking formal and subdued while others talked with loud voices and far reaching gestures.
+
+There was all kinds of seating, all kinds of colors, stalls, and lights, potted plants, tapestries and rugs, and leather chairs. Veron brushed past a few people, sharing a glance with a red eyed woman in scale armor, then past a hulking man in gray stone armor.
+
+“Good,” the hulking figure said as he passed Veron, tapping his arm with enough strength it almost spun him around.
+
+A band of bards nearby sang something akin to acapella and Veron could hear a louder singing voice from somewhere deeper in the building.
+
+“What are you looking for?” Ailis asked. “Meat? Fish? Vegetables? Sandwiches? A bowl?”
+
+“Your recommendation?” Veron asked, smelling the salts.
+
+“There’s a really good noodle place one floor down. We can eat on the roof too, for some fresh air.”
+
+The others followed and they soon went into a wooden stall somewhere one floor down. Veron only had a vague idea of where they were at this point. Inside the wooden stall were two older women, two woks, open flame, and boxes of ingredients. One of the women was smoking a pipe, wrinkles showing on her cheeks when she smiled and ushered them inside.
+
+“Grilled meat is the issue, right?” Ailis asked.
+
+“Yeah.”
+
+“No grilled meat then, is that fine for the others?”
+
+One of the cooks got to work, quickly throwing together something she must’ve made ten thousand times before. Paste, roots, spices, veggies, some variant of tofu.
+
+“Spice?” she asked.
+
+Ailis gave the others a questioning glance.
+
+“Sure,” Isaac said.
+
+Elke seemed unsure.
+
+“You should try,” Isaac said.
+
+She narrowed her yellow eyes. “Okay.”
+
+“Medium spice then,” Ailis said.
+
+The woman nodded, threw some red powder into the mix and continued her cooking, added dark sauce, then noodles, throwing it all up with strength and ease that made Veron wonder about the level of her Path.
+
+If she’s a higher level, and she looks that old, how old would she be?
+
+The cook cracked a bunch of eggs into the mix, then filled four bowls and set them onto the very small counter, each movement in a sort of flow that made Veron think she was using magic. Either that or she was insanely practiced. Veron supposed that with experience and time, it would flow into each other pretty seamlessly. He thought about his own abilities and his application of magic during fights.
+
+A long way off from that kind of flow. Maybe it’s more present for Devotion Paths, but I suppose I’ll find out in time.
+
+She added herbs on top and a wedge of some blueish citrus fruit.
+
+“Twenty four iron,” she said, and it felt like the words snapped Veron back into reality.
+
+“It’s my treat this time, if that’s fine with you all?” Ailis said and made to pay.
+
+Isaac nodded.
+
+Elke glanced between her and the others.
+
+“I’m happy to accept,” Veron said. “We should probably talk about silver too. Because I’m not particularly well off at the moment.”
+
+“You’re not sleeping in the streets though, right?” Isaac asked.
+
+“Willard Inn,” Veron said. “I think I have enough for seven days or so. But I’m sure we’ll find something in the dungeon.”
+
+“Seven days? How long have you been in the city?”
+
+“I arrived today,” Veron said.
+
+“What kind of planning is that?” Ailis asked, handing each of them a bowl.
+
+“The adventuring kind?” Veron asked, though he did feel a bit offended. Maybe if he told her that he already died twice, she would understand. He decided against that course of action.
+
+“Yeah,” she said, the word carrying a lot more meaning than usual.
+
+“He’s an Elemental Path,” Isaac said. “That’s why I asked about you sleeping in the streets. It doesn’t really bother them, I hear.”
+
+“Them?” Veron asked.
+
+Isaac blushed slightly. They made their way upstairs now. “I didn’t mean it like that.”
+
+“Like what?” Elke asked.
+
+“I…”
+
+Veron gave Elke a glance, then laughed. “I knew it was a good idea to have another Elemental Path in the team.”
+
+He thought he caught a small smile on her face.
+
+“Do you sleep in the streets?” he asked.
+
+“No. They are filthy,” she answered.
+
+“I’m sure there are clean spots here and there,” Veron said.
+
+“I don’t have stone armor.”
+
+“True, it helps, though I prefer a comfortable bed.”
+
+They came out on the roof now. It was pretty crowded, plants and trees and bushes growing from protected sections of dirt, and in between were tables, chairs, and benches. Veron saw large boxes growing herbs as well, the group stopping when another team made to leave their spot. Silver ranks with plate armor and dark robes, one of them giving Veron a quick glance before they left.
+
+Ailis quickly cleaned off her chair and then sat down. “Enjoy the food.” The others followed and then dug in.
+
+It was good. Well balanced. Reminded Veron of Pad Thai, though not quite. At least not the versions he was familiar with. He wondered about other people from Earth coming to this place. Was there an influence at some point? Or did people just come to similar conclusions with available ingredients?
+
+Most everyone here seems human. So they probably all like fat and salt and sugar.
+
+“Where are you from then?” Ailis asked after a while. “I already told you that I’m from Anvakar.” She glanced between the others.
+
+“I’m from Eyra,” Veron said. A lie, kind of. It was the place he knew the best here in Renavor, and in a lot of ways, he did come from there. He furrowed his brow, realizing that Eyra felt closer to a home than what he’d ever really had before. It was a sad thought, but a nice one too.
+
+“Where’s that?” Isaac asked.
+
+“A village in the Teriam range,” Veron said. “But I wasn’t born there.”
+
+“Oh, now that’s interesting,” Ailis said.
+
+Elke looked at him.
+
+“That’s all I’ll say on that,” Veron said.
+
+“I’m from Yora,” Isaac said. “But I said that already.”
+
+“I’ve never been there,” Veron said. “How is it?”
+
+“It’s… a complicated city. Beautiful, and pulsing with life, much like this place. But different. Dangerous too, but again, different. I suppose that’s true for most of Sor.”
+
+“Is that why you’re here?” Veron asked.
+
+Isaac smiled slightly. “That’s all I’ll say on that.”
+
+“Fair,” Veron said.
+
+“What about you, Elke? Where does one become an Ice Elemental?” Isaac asked.
+
+“Kirgen,” she said.
+
+“Never heard of it,” Isaac said. “Where is it?”
+
+“North.”
+
+“North? In the mountains?”
+
+“Kind of. It is part of Felrak.”
+
+“Lots of snow and ice then?” Veron asked.
+
+She nodded. “In winter.”
+
+“But that’s when you can use your magic,” Veron said and smiled.
+
+Elke smiled back. “Yes.”
+
+“We’re kind of from all over the place then,” Ailis said. “I think I like that.”
+
+“You think?” Veron asked.
+
+“Yeah.”
+
+“Well, I like it too. So, how and when do we start with the dungeon? I probably need some basic gear like ropes and torches? Or does anybody have an enchanted lantern?”
+
+None of them had one.
+
+“How expensive is one of those?” he asked.
+
+“A few gold at least,” Isaac said. “The essence alone would be expensive. But we can always hope to find one in the Crypts.”
+
+“Sure. So torches it is. How do we get down?”
+
+“The regular iron ropes should be fine. They’re free to use,” Ailis said. “Though we should probably secure ourselves with an additional rope.”
+
+“No lifts then. How about navigation? I’ve only started studying the maps.”
+
+“I’m pretty familiar with the layout of the Crypts,” Isaac said. “And in the worst case, I should be able to guide us back with my Path.”
+
+“Good. I think we should still all study the layout. Maybe we meet up tomorrow in the map room and find a target area or hall that we want to reach. How does that sound?”
+
+They all nodded.
+
+“Other supplies? Bandages, medicine, potions? I don’t suppose any one of you is secretly super rich?”
+
+Isaac shook his head. Elke did the same.
+
+“I’m not rich either, I’m afraid. But I can get us bandages and some basic medical supplies. No potions though, they’re far too expensive,” Ailis said.
+
+“Food and water? For tomorrow, maybe everyone manages their own?”
+
+“I know a few good places, I can get some dried meat, nuts, and bread for all of us,” Isaac said. “It’s not great food but it’s cheap and will keep us sated. Less than a silver for the group. And I can get torches, ropes, and flint and steel, if nobody has those things.”
+
+“I don’t need the basics,” Ailis said.
+
+“Good, thanks Isaac,” Veron said. “I’d like to learn about where you’re sourcing all that at some point.”
+
+“I don’t have a lot of iron,” Elke said.
+
+“Me neither,” Veron said. “None of you have a vessel?”
+
+“It wouldn’t matter. We don’t have anyone to extract,” Ailis said.
+
+Veron nodded. He considered their situation for a moment and then formulated a plan.
+
+“Right. So we extract all the essence we can get ourselves, and see what kind of loot we can find. I suggest we try tomorrow, see how things go, how we feel about the team and each other, and then if things go well, we have a few more trial runs, get more familiar with fighting and exploring together? I’m sure that by the end of the week, we’ll have some idea about how much iron we can reasonably expect to make. At least for now. Does that sound good?”
+
+“Yeah,” Ailis said.
+
+“Yes,” Isaac said.
+
+“Yeah, that’s good,” Elke added.
+
+“The team I previously worked with suggested one day in the dungeon, then a rest day. Is that an approach that you all could work with? I don’t know what other obligations you have.”
+
+“It’s workable. But depending on potential injuries, the rest period would have to be longer,” Ailis said.
+
+“Of course.”
+
+“It sounds good to me,” Isaac said. Elke confirmed as well.
+
+“Alright. That’s the plan for tomorrow then. We can meet up after breakfast. Should we have a spar or something to familiarize ourselves with our magic and abilities before we go into the Crypts?”
+
+“I don’t think we should spar,” Ailis said. “I’m not great with my hammer, but I use a hammer. I don’t plan on fighting people with it.”
+
+“You’ll have to if we reach the third,” Isaac said.
+
+“Yeah, but by then I’ll have more practice.”
+
+Isaac smiled. “Yeah.”
+
+“Elke, do you prefer your spear or bow?” Veron asked.
+
+“Both are fine. The bow is better with this team,” Elke said.
+
+“Neither will be very effective against skeletons,” Isaac said.
+
+Elke nodded.
+
+“I could make you a mace or hammer?” Veron asked.
+
+“And maybe I can make you some modified arrows,” Isaac said. “Probably not today but we’ll see.”
+
+“Would you like a mace?” Veron asked.
+
+Elke seemed to consider. “You can make things with rock?”
+
+“I can. What do you need?”

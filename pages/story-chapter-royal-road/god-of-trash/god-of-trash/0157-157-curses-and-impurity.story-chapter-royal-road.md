@@ -1,0 +1,143 @@
+---
+id: dab73efe-892b-5f40-9098-156d3d4f0c15
+page-type-slug: story-chapter-royal-road
+title: "157. Curses and Impurity"
+slug: 0157-157-curses-and-impurity
+partOf: god-of-trash
+position: 157
+ownLength: 3296
+unit: words
+publishedAt: 2025-08-10
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2507776/157-curses-and-impurity"
+royalRoadId: "2507776"
+---
+
+They marched on. Or rather, the skelly boy marched, while Rhys lounged in its arms like some lazy waste of space. He’d stopped pondering the new technique a while ago when the cursed energy seemed like it was about to hit critical mass, and the skelly boy had stopped moving as a result. That was something to explore when he had lots of mana and was in a safe place, not while he was being carried around by a curse he was deliberately misusing on his way to pick up more filth and another curse. Instead, he was sleeping.
+
+It was a rare luxury for him, at this point. He’d spent the last few weeks working on getting his shops and trash cans up and running, and there was no time to relax or spend on himself. Even taking a nap was out of the picture. So, traveling, with nothing to do and a destination he’d arrive at whether he was awake or not, he napped. There was no one out in the middle of the forest to tell him not to, and nothing else he wanted to do was viable in the middle of the woods where he had nothing but himself and what mana he had left to play with. His mental attack slash new curse was still in development, but he felt like maybe he shouldn’t push it over the brink in the middle of the forest with his cursed companion and nothing, so he had all the excuses lined up to take a little nap. When he came to, he was standing in front of an Impure Well, the skeleton holding him numbly beside the putrid pool.
+
+“Thanks,” Rhys said, nodding at the skeleton. He extricated himself and brushed off his robes, then paused, looking at the skeleton. One part of curse power was negative emotions, if his burgeoning technique was any indication, but that wasn’t the beginning and ending of curse power, merely one facet of it. The skeleton would auto-seek impurities. True, maybe it auto-sought pieces of itself, since this particular curse was hidden at the bottom of the wells, but maybe it sought impurities. And even if it sought itself, it was hidden in impurities. The curse, in its pieces, had been stored in impurities. Impurities… what did they do? Disguise the curse? Overpower its signature? Keep the curse alive while it was torn into a thousand tiny pieces?
+
+Putting the skeleton’s untimely grave aside, he had plenty of evidence that impurities were tightly linked with curse power. Sable had been full of them, and Leonard had seemed to think getting cursed meant you were impurified, too… though Leonard knew so little about curses that Rhys felt like it was probably better to actively ignore whatever he said rather than listen to it.
+
+He looked at the skeleton. “What do you think, big boy? Are impurities important to you on a metaphysical level, or…?”
+
+The skeleton said nothing.
+
+Rhys patted its shoulder. “Good talk.” He dismissed it back into his core and considered the Impure Well once more. He took a deep breath. He needed the impurities, and with his trash star still a little low, he definitely needed this well. There was just something… off about it. Rhys took a moment to examine everything. The well, the surrounding forest, his body, even the sky, but found nothing that would make him feel off-kilter the way he felt right now. He frowned, then turned his attention inward. Was it his mental state, maybe?
+
+I did just spend the whole ride here reliving the worst days of both of my lives, and then took a nap, Rhys thought to himself with a snort. If he was ever going to feel mentally wonky, now would sure be the time.
+
+He bounced from foot to foot at the edge of the well, gazing into its depths. Would being in a bad mental state effect his ability to absorb impurities? It was just a matter of sucking them into his core, right? All in the body. And the core. So… the metaphysical body. And he used magic to guide them there, and magic cared a lot about how he conceived of things and the way he thought of them. If his mental state was off, wouldn’t he struggle to properly absorb impurities?
+
+He hesitated another second, then sighed. No way to know until he tried. With a spirit of experimentation around him, he dipped a toe into the filth and absorbed. Everything went good. The impurities flowed through him and into his core. The action was fully automatic now, so much so that he got in his own way watching himself absorb the impurities more than he improved the process by watching it closely. He frowned and crossed his arms, retreating his foot. Maybe it was fine? It was probably fine. His mental state was only a little wonky, and it was his fault it was off, so he was probably in relatively good state. Absorbing was automatic for him. He’d done it in all kinds of mental states, including right after he’d busted out of prison. Surely he’d be fine this time.
+
+Why am I panicking? Calm down. This is no big deal. Rhys huffed out, putting his hands on his hips, then shook his head at himself. It was like he was a little kid again, hesitating to jump in the pool because ‘You don’t understand, Mom, it’s cold!’ He was an adult, and he was in good enough shape. He should hop in already. He’d be fine.
+
+Seriously, though. Why am I panicking?
+
+Rhys took a deep breath and retreated a step. He sat down, folding his legs, and extended his aura around him. The environment appeared in his mind’s eye, rendered in shining magic. Mana cared more about life than about anything else, probably because everything alive had mana, no matter how little. He saw animals wandering by, the birds in the trees, bugs, spiders, trees and underbrush, all of them lit up in bright blue. The Impure Well was a bright spot of mana, though that thick pool of mana was traced through with heavy blots of black, the black so heavy at times that it appeared as a dark hole in his mana vision, rather than bright mana.
+
+And just by the edge of the Impure Well was a human-shaped hole.
+
+Rhys sat there, eyes shut, continuing to pretend to meditate. He let his mana senses drift around, forcibly keeping himself from pointing all his mana at that human-shaped hole to examine it more closely. He pointed his mana anywhere but at the hole. Nothing, there’s nothing there. I shouldn’t pay any more attention to it. Not at all.
+
+No wonder he’d been panicking. He must have sensed the presence—he refused to think of it in any more clear words, in case it could read his mind—subconsciously, and been afraid of it. It didn’t help that he was in a bad mental state, of course, but it wasn’t psychology to blame for his racing heart and sudden apprehension for leaping into impurities, it was the invisible-fucking-person looming next to the Impure Well, pretending not to notice Rhys so Rhys could pretend not to notice him.
+
+But that left a big question in the air, an absolute elephant in the room. Did he walk away, whistling to himself, and pretend like he hadn’t really wanted anything to do with this Impure Well, when he’d rocked up to it in the arms of the cursed skeleton rider who was locked in its depths and immediately dipped a toe in it? Or did he jump in and absorb it anyways, as if he hadn’t noticed anything wrong? He could absorb impurities automatically nowadays, but absorbing a whole Impure Well, even if it was somewhat easy for him and he had no problem with sucking it all up, occupied all his effort and attention. If the invisible person had ill intentions toward him, he wouldn’t be able to do anything to stop them from enacting them while he was absorbing the well.
+
+Then again, he’d barely been able to sense the invisible person in the first place. If they really willed him harm, couldn’t they have acted before he figured out why he was so concerned? No, even if they acted now… he couldn’t sense their Tier. That meant they were so much more powerful than him that he couldn’t properly gauge their strength; in other words, if they attacked him dead-on in the light of day, he probably wouldn’t be able to fight back. He was quibbling over nothing, because if they’d wanted him dead, he would already be dead.
+
+…Unless they want this Impure Well for something, and they object to me starting to suck it down like a big, nasty milkshake. As effective an argument as “I DRINK YOUR MILKSHAKE” was when shouted at close range in a bowling alley, he was pretty sure that guy wasn’t going to care how long Rhys’s straw was or where it ended; this was his Impure Well, he’d been here first, and if he wanted it, then Rhys was the one in the wrong for daring to touch it, let alone the fact that Rhys was a fool for messing around in front of someone so utterly more powerful than him that he felt anxious, no, a borderline panic attack, just standing in the person’s general area, when they had absolutely no interest in him at all, and weren’t even doing anything about him.
+
+Rhys twisted his lips. Maybe I should just leave. Unless that person would be insulted by him fleeing their presence. Unless simply reacting to the fact that they were here pissed them off. He couldn’t pretend he didn’t want the Impure Well. It was already far too late for that. If he left, something had to have scared him off, and that invisible person would have a pretty good guess what had done it. He remembered his first life, and the irritation he’d felt at having others avoid him because his body was a little rounder than most people’s. He understood, he really did, but at the same time, he desperately wanted to get out of this situation with his life intact. If this person was sensitive at all to others avoiding them, then he was fucked.
+
+Sweat dripped down his back. Rhys wiped his forehead and took a deep breath. Focus. Lock in. What am I going to do here? Retreating felt like the safest reaction, but also like the wrong reaction. If the figure, the silhouette, the presence, was trying to study the Impure Well, he couldn’t exactly butt in. No… it would be incredibly rude to. Rhys took a deep breath and turned away once and for all. He’d find another well. The figure could have this one.
+
+A single cough.
+
+Rhys froze. He stopped dead, afraid to look, afraid to move, afraid to turn around. Time slowed, while his brain moved at double speed. It doesn’t matter. The figure has acknowledged me. I have to turn around, or it’ll be rude. Do it! Move!
+
+Slowly, he turned back around. There was a human being sitting where the silhouette had been. A man dressed in rags. They might have once been fine robes, but they were filthy and tattered now.
+
+Rhys smiled pleasantly. “Hello! I didn’t see you there.”
+
+“I know.”
+
+Rhys’s smile froze on his face. Was that not the right thing to say?
+
+“You… you hate this Empire, don’t you?”
+
+Rhys licked his lips. Out of the frying pan and into the fire right there. Seconds ago, he’d been afraid walking away might piss off this guy, and now, he had to answer a deeply political question that many people had strong, strong feelings about?
+
+Yep, I’m fucked.
+
+“So, you’ve noticed,” he said at last, not sure there was a good answer to this question. Since there was no good answer, he could at least give a trashy one.
+
+Two faceless figures met in the woods. They spoke in deep voices about mysteries. No one understood what happened but the figures, and they walked away. Except in this case, Rhys also wasn’t completely sure what they were talking about, and he really just wanted to get out of here as soon as possible.
+
+The man in rags sat up straighter. “What if I told you I knew where this fragile ship shatters?”
+
+Rhys stared at him. Utter silence. Wha… what am I supposed to say to that? Yes, please? Or is it some kind of test? No, thanks? Do I want to owe something to this weirdo? At least the guy didn’t seem to want him immediately dead, so that was nice. He hesitated another second, then made a noncommittal grunt that could have made anything. It wasn’t his best hooded-badasses-in-the-woods answer, but it was at least less funny than that time two hooded badasses sat on a dark beach and the standing one told the seated one that he was the seated one. Even the seated badass had laughed at that, though at the time, no one, not even the players, understood why.
+
+As long as this guy doesn’t tack ‘the Wise’ to the end of his name, I’m probably okay, Rhys reassured himself. He watched the other man warily, taking close note of everything. The man had a handsome face with sharply defined features and dark hair with an oily hang to it that suggested it hadn’t been washed in too long. He sat beside the well with a straight back and great posture, his hands resting in his lap. He didn’t carry any weapons, but as the resident impurities-and-poisons user, Rhys didn’t take that to mean anything.
+
+“Who are you?” he asked at last.
+
+The man cleared his throat. “Perhaps I came on too strong. What if I told you how to find your friend?” He nodded at the hilt of Rhys’s sword.
+
+Rhys glanced down, only to find the tiny straw doll dangling there. It looked up at him with black button eyes, and they both turned to look at this strange figure as one.
+
+“I… would like that,” Rhys said, on guard.
+
+The man nodded. He shut his eyes, and Rhys realized suddenly that he remembered nothing about them, but something about them struck him as strange. He opened them again, and he realized what it was at last. They weren’t brown, but red, a dark, brownish red, like congealed blood.
+
+“Back at your base, a man is being killed. The criminal element has not taken kindly to your little takeover. In pursuing his killer, you will find your friend.”
+
+“Wh-what? Who?” Rhys asked, his heart suddenly racing. A second later, he admonished himself for reacting so strongly. He’d just told this man that he cared about his people. Sure, it wasn’t as if he was super close with any male member of the mages; Korii was the leader of the ones he quietly thought of as the ‘little guys,’ and Sable, Lira, and Mouse were the more powerful members of the mages, the ones worth Rhys personally managing. At the very least, it was no one who he would deeply mourn, so long as it was a man, but on the other hand, these were his people, his responsibility. He needed all of them if he was going to free more mages from the camps. He couldn’t afford to lose anyone right now, let alone someone this man considered worth mentioning.
+
+A second later, his heart skipped a beat as he realized the more important half of that statement. If he’s not bullshitting, then this man knows exactly what’s going on in my secret bases on the other side of the Empire. What—how—
+
+“Who are you?” he blurted out at last.
+
+The man let out a hollow laugh. “You can call me a friend.”
+
+“Can I?” Rhys muttered, mostly to himself.
+
+“Would you rather call me an enemy?”
+
+Their eyes met again. It was like gazing into the sun, intense and painful. Rhys looked away first.
+
+The man snorted under his breath. He put his hands on his hips. “For now, our priorities align. Once you take down the Empire, we’ll have to reconsider. But until then, I’m naught but a powerless old man with a few words of advice for a strapping young mage like yourself.”
+
+Bullshit, Rhys thought, but he didn’t dare breathe the world aloud. Instead, he took a step back. Someone was being killed. He had to get home. Figure things out. Settle—
+
+“Don’t you need this well? Don’t rush away. Sup of it first. The matter has already been dealt. If you run home now, the pawn will not be back on the board, and your power runs low, does it not?”
+
+Rhys scowled. “You know too much.”
+
+That got a dry laugh from the man. “Indeed. Knowing too much is all I have left.”
+
+Rhys looked at the Impure Well, then back up at the man. “You’re really fine with—?”
+
+He spoke to nothing. The man was gone. Even when he extended his mana senses, there was nothing around him. No human-shaped holes in the flow of mana.
+
+Rhys ran a hand through his hair and shuddered, fear sinking all the way to his bones. Too close. Whatever that was, it was far too close to him. Those kinds of people should stay locked away atop mountains, running universities and institutions and staying far away from ants like him.
+
+He glanced at the Impure Well again, pausing to look around one last time. He shrugged. The guy had left it to him. If he didn’t absorb it now, wouldn’t that piss the guy off? And he wasn’t wrong, either. His trash star was low. Not crazy low, but low enough that the thought of abandoning this well pained him.
+
+If he believed the man, there was nothing rushing home could do for him; his ‘pawn,’ as the man put it, was already captured. If he didn’t believe the man… if he didn’t believe the man, then he was rushing home for no reason, because he had no reason to expect one of his people to die. Either way, he’d be better suited to take on everything if he absorbed the well, whereas rushing home now to attempt to save a life the mysterious man claimed was already taken would put him in danger, lower his mana, and mean he’d retreated from an Impure Well without gaining any further strength or trash for the star. If someone really had been killed, then he’d need all the power he could muster to chase after them.
+
+The equation was simple. No matter which way it tilted, whether he weighted it with a life, his fear of the man, or even his personal gains, the right move was to do as the man said and absorb the well.
+
+Nothing ventured, nothing gained. He took a deep breath and stepped forward, plunging into the gunk yet again.
+
+When he emerged, there would be trouble to deal with. But then, when was there not? He was a trashy guy. Trouble followed him around.
+
+And I suppose, if I get back and someone really is dead, then I’ll know to take that man’s words far, far more seriously.
+
+The impurities closed in over his head. Rhys sunk into the darkness, his mind on a future just as dark. As he gave himself fully to absorbing the impurities, one last thought shot through his head, foolish and trashy though it was:
+
+Dammit, I should’ve asked him if I could test my mental attack on him!
+
+END BOOK 3

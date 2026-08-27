@@ -1,0 +1,261 @@
+---
+id: 8ba497a9-fffd-5445-964a-b2bace05aff2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 992: Battle of the Plants"
+slug: 0059-chapter-992-battle-of-the-plants
+partOf: he-who-fights-with-monsters
+position: 59
+ownLength: 2457
+unit: words
+publishedAt: 2026-03-18
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3167219/chapter-992-battle-of-the-plants"
+royalRoadId: "3167219"
+---
+
+A woman floated out of the fire-wreathed spaceship. She was also aflame, with fire burning atop her head in place of hair. Her eyes were burning orbs, and her graceful yellow dress had a shifting pattern of dancing flames. Jason smiled and the airlock behind him opened. He went inside and she followed, waiting until the door shut and air was vented in.
+
+“I like the new look,” he told her. “The new dimensional vessel, too. You know it looks like the God Phoenix ship from Science Ninja Team Gatchaman, right?”
+
+Her fire hair turned to normal, if vibrant red locks and fell about her head. Her eyes went from magma-like orbs to ordinary but beautiful eyes of fiery yellow. She used them to fix Jason with a judgemental stare.
+
+“Three sentences,” Dawn complained. “That’s how long it took for you to bring up some cartoon nonsense.”
+
+“I would say anime, rather than cartoon. I know the line was blurred when they retooled the series as Battle of the Planets for the western market, but—”
+
+“You need to stop before I set you on fire.”
+
+“Speaking of fire, your new avatar is lovely and all, as is your spaceship, but they don’t make any sense. Fire in space? There’s no oxygen.”
+
+“It’s your universe. I’m not responsible for the physics.”
+
+They grinned and shared a hug. When they let go, Jason kept his hands on her shoulders as he looked at her with concern. She wouldn’t quite meet his eyes.
+
+“Raythe said you didn’t want to see me,” he said.
+
+“It’s not that I didn’t want…”
+
+She met his gaze.
+
+“I didn’t intend to see you. I wanted you to know everything, first. To give you a chance to hate me.”
+
+“This is about old loyalties, isn’t it? The World-Phoenix and I having agendas that are similar, but not the same, and she got you first. You’re conflicted.”
+
+“Yes.”
+
+“I understand. I know the stakes of the choices we have to make, and that sometimes, every option sucks. Maybe you did something that won’t go great for me. That’s okay.”
+
+“I did do that. Before I knew you, but also after. And I kept things from you. Partly because I was told to. Partly so you wouldn’t go and do something characteristically ludicrous.”
+
+“Like create a time loop so I can save-scum my way through a boss fight?”
+
+“Something like that.”
+
+“Did you ever think you were doing anything other than the right thing?”
+
+“Knowing what the right thing is can be hard. Or impossible, until after the fact.”
+
+“But you tried, right?”
+
+“Yes.”
+
+“I can’t blame you for that. I certainly won’t hate you for it.”
+
+“You don’t know what’s coming yet.”
+
+“Well, you can tell me over lunch.”
+
+The inner airlock door opened with a hiss.
+
+“We can take a shuttle down to the planet that isn’t a fire spaceship that makes no sense,” Jason said.
+
+“Again, you’re the one in charge of physics.”
+
+Jason led her into his space station and down the spacious hall.
+
+“Does your ship have those cool missile pods like in the anime?” he asked.
+
+“I didn’t base the design off a cartoon.”
+
+“You’re just embarrassed because you watched the Battle of the Planets version and not the original anime, aren’t you?”
+
+“I’m realising that my instinct to stay away was one I should have listened to.”
+
+“Raythe knew that I’d be sceptical of what she had to tell me. She hasn’t been telling me porky pies, then.”
+
+“No. She has not.”
+
+“She told me that the two of you are friends.”
+
+“She’s far older than I am. I think. It doesn’t really apply with her, and how she moves through time. Or doesn’t. She was something like a wise big sister, when I was trying to set aside my mortal sensibilities. She was being a friend when I was being an acquaintance. The friendship is more recent. Possibly. Sometimes it feels like we’ve been friends for a very long time, and I’ve somehow forgotten. Or it hasn’t happened yet. It can be like that with her.”
+
+“Sounds complicated.”
+
+“Speaking of complicated, I understand that you’re with Zara Rimaros now.”
+
+“Uh, yeah. It’s new. Properly new; neither of us travel through time.”
+
+“When we last saw each other, you were rather unhappy with her.”
+
+“That was a while ago.”
+
+“Do you think it will work out?”
+
+“Depends on what you mean by work out. I’m in my forties. Who knows how I’ll see things in my hundred and forties. I’m more inclined to enjoy things for what they are and let them play out. Earth gives us a chance to be away from clashing agendas, but I don’t think it will work on Pallimustus. Being team members is one thing, but relationships are political for her.”
+
+“Because she’s a princess and you attempted to extort the whole planet into ending slavery?”
+
+“You heard about that?”
+
+“I did. It wasn’t a great plan.”
+
+“It was laying the groundwork. It put the idea of abolition in people’s heads.”
+
+“It was never going to work.”
+
+“It wasn’t meant to work. Now, the other people out there working against slavery will look more reasonable by comparison.”
+
+“Unless they get tarred with your crazy brush.”
+
+“No plan is perfect. And me being a lone fringe element is not a hard sell.”
+
+They stopped at another airlock.
+
+“Now we can go down to the planet in a more sensible vessel than your improbably on-fire cartoon spaceship,” he said.
+
+“This space station is shaped like your head.”
+
+“What’s your point?”
+
+***
+
+A large picnic table in a woodland grove had a red and white tablecloth placed over it. The table was set with many dishes and a few bottles of wine. Birdsong and the sound of a nearby stream filled the air, along with sunlight beaming from a bright blue sky.
+
+“How are you finding transcendence?” Jason asked as he refilled Dawn’s wineglass.
+
+“Not many transcendents have a true physical form, the way you and other astral kings do,” she explained. “In transcending mortality, I became a fully astral entity. It means that, by most measures, I don’t have a real body. I exist conceptually, as part of the deep astral. Immortal, with only the power of authority able to interact with my core self.”
+
+“You can’t be killed, only sanctioned.”
+
+“Yes. But I’m having trouble reconciling how my mind works in that state, compared to the mortal body I’ve always lived in. It’s a common issue for new transcendents. The solution is to maintain avatar bodies and use them to do my mortal-scale thinking, much as I did for the World-Phoenix as her prime vessel. It’s going to take me a while to get used to. I’ve been advised that sending my avatars to have new experiences, in new places and with new people will help me settle in. I’ve been largely avoiding my old life, using Raythe as my go between when dealing with old business.”
+
+“Oh, you’re saying I’m old business,” he teased.
+
+“Jason, I have trouble expressing the degree to which you are young business. Have you ever been around a child who’s had too much sugar, or an especially attention-seeking puppy? You know how your behaviour changes around them? You dumb it down, become more childlike. You have fun, don’t get me wrong, but you’re not exactly comporting yourself with the dignity you display in day-to-day life.”
+
+“Not going to lie; that’s pretty hurtful,” he said, his words undermined by a chuckle.
+
+“There’s nothing wrong with it, Jason. I met you at a time when I needed that. To remember what it is to be mortal, before leaving mortality behind. I believe that my failure to do so is responsible for cutting my time as a prime vessel short. The World-Phoenix needed someone to think like a mortal, not someone who rejected that. Now, I’m in the position of letting avatars do my mortal thinking for me. That would have been a more strenuous transition without your influence.”
+
+“I’m still basically a dopey puppy in that scenario.”
+
+“If it makes you feel better, you’re a puppy with a shotgun, a chainsaw and a big red button that fires a bunch of missiles.”
+
+“No. That does not make me feel better.”
+
+She laughed at his exaggerated pout and popped a grape in her mouth. Then she grabbed another and tossed it at him. He snatched it out of the air with his mouth.
+
+“Just like a puppy.”
+
+“I’m not a puppy,” he whined.
+
+“If you two are quite done,” Raythe said as she walked into the clearing. “We should probably get to business.”
+
+***
+
+Jason, Raythe and Dawn stood outside the open inner airlock door. Past the window on the outer airlock door, Dawn’s dimensional vessel could be seen floating, still wreathed in bird-shaped flames.
+
+“You could have docked it,” Jason said.
+
+“It’s on fire.”
+
+“In space, so don’t pretend that thing follows the rules. Also, I make the rules here.”
+
+“Why would that matter if it doesn’t follow them?” Dawn asked.
+
+“Yeah, well… go get on your bloody spaceship, then. When will I see you again?”
+
+Dawn frowned.
+
+“Not until after. I can’t help you, when the time comes,” she said. “The World-Phoenix has made commitments, and it has been made clear that I am not to intervene on your behalf. There is more flexibility with your friends, and I have made sure this will not blow back on them. Raythe will find you and reunite you with them. But you can’t tell them about any of this, obviously. Or your own avatar.”
+
+Jason scowled, but only nodded in response.
+
+“Let Raythe show you the nuances of avatar use,” Dawn told him. “She’s been at this a lot longer than either of us. Probably.”
+
+She pulled Jason into a hug.
+
+“Stay true to yourself,” she whispered into his ear. “The cosmos has seen a trillion growly, grim powerhouses, and it knows how to chew them up. The Battle of the Plants guy is someone they’re not ready for.”
+
+“It’s Battle of the Planets. And Science Ninja Team Gatchaman is the original iteration of—”
+
+“Nobody cares.”
+
+She pushed him away and flashed a warm smile with only a faint tinge of sadness. He smiled back.
+
+“Thanks for coming to see me.”
+
+“Thanks for stealing a soul forge, becoming an astral king and using that power to repair the Cosmic Throne. There’s a lot of people out here wondering who did that, so you’d best hit diamond rank before they figure it out.”
+
+“Wait, what? What do you—”
+
+She stepped into the airlock and the door closed between them.
+
+“Oh, come on,” he complained.
+
+He watched as the outer airlock door opened, venting the air and Dawn into space. Her hair and eyes turned to fire. She floated over to her vessel, disappeared inside and then the ship itself was gone.
+
+“How can she just say something like and bail?” he asked Raythe.
+
+“This is your universe. Couldn’t you have deleted the door and filled the space with air to talk to her?”
+
+Jason opened his mouth to respond, then slumped his shoulders and sighed.
+
+“Damn it,” he muttered, the looked up at Raythe. “Hey, you know what she was talking about, right?”
+
+“I don’t keep track of the cosmic community, sorry. It’s hard to make sense of, the way I look through time.”
+
+He narrowed his eyes at her.
+
+“Is that a lie because you want to avoid a conversation you find tedious?” he asked.
+
+“Yes.”
+
+***
+
+From her office in Saint-Étienne, Anna joined a video meeting. The face of the US Secretary of State appeared on her screen.
+
+“What can I do for you, Madam Secretary?”
+
+“People are getting curious about Asano, Anna. He hasn’t been seen in weeks. Neither have most of his companions. We have the Geller boy fighting the vampires, and the silver-haired miracle healer. And there’s — and I can’t believe I’m about to utter this sentence — the shape-shifting rainbow dragon filming a Korean romance drama. Do you remember when any of this was even vaguely sane?”
+
+“Claire, I come from a Network family. The magician at my seventh birthday party used actual magic, so… no.”
+
+“Oh. Well, anyway, a lot of people are hoping for an update. The only thing that scares them more than Asano being everywhere is him being nowhere. And, to be honest, we could use some more powerful people in the fight against the vampires. We’re confident we’ve neutralised the nukes using the information gained from Elizabeth, but that’s the only good news. Those first attacks a few weeks ago were clearly a test, and they’ve been escalating their counterattacks since. There have also been attacks by people infested with vampire parasite worms, which we still have no way to effectively detect or remove without them killing the host.”
+
+“I can’t tell you what Jason’s doing because I don’t know. He said training, and none of his avatars will say more than that. As for the parasites, we have people working on that, but we’re talking about reverse-engineering multiple kinds of magic that’s been Frankensteined together and we only found out about it a month ago. Figuring it out could take years, if ever.”
+
+“So our own researchers keep telling me. I was just hoping that some of the magicians from the other world were having more success.”
+
+***
+
+“I think we’re on to something here,” Clive said. Also in the lab was his research society colleague, Lorelei, along with Neil, Carlos and Audrey, the Asano Clan’s energy vampire research director. Clive closed the file on the laptop in front of him and rubbed his temples.
+
+“We should break for the night,” he said. “We don’t want to make a mistake here, so let’s get some rest and come at it fresh in the morning.”
+
+“Good thinking,” Neil said. “Because you know who’s going to come at it tonight?”
+
+He let out a yelp as he suddenly found Lorelei in his face.
+
+“Who’s that Neil? Perhaps the archchancellor’s imaginary spouse? You have something to say on that front? A hilarious joke to share with the group?”
+
+“Uh… no.”
+
+Lorelei gave him a friendly and not-at-all-dangerous smile.
+
+“Good,” she said brightly while Clive stared at her as if she’d grown an extra head. She held out her arm for him to take. “Shall we go, Archchancellor?”
+
+A huge, if rather bemused grin crossed Clive’s face. He took Lorelei’s arm and let her lead him out. The others left behind all looked at each other.
+
+“What was that about?” Audrey asked.
+
+“I liked the old wife better,” Neil said. “The new one is scary.”

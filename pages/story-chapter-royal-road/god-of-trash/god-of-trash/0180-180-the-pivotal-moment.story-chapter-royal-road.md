@@ -1,0 +1,125 @@
+---
+id: 98e2edeb-b92d-5b46-8cdb-84105a75fb82
+page-type-slug: story-chapter-royal-road
+title: "180. The Pivotal Moment"
+slug: 0180-180-the-pivotal-moment
+partOf: god-of-trash
+position: 180
+ownLength: 1962
+unit: words
+publishedAt: 2025-09-08
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2585703/180-the-pivotal-moment"
+royalRoadId: "2585703"
+---
+
+Lord Estos, the lord holding the ball, had added special precautions to ensure no one undesirable arrived at the ball, such as, for example, Adelise Infernon’s ghost, or, according to him, the ne’er-do-well who was masquerading as Adelise Infernon’s ghost, whom Rhys firmly condemned, and definitely had no idea who that person could be, if they existed at all. There was a barrier that tracked the number of carriages arriving, and guards wandering the entire perimeter. If anyone entered without a carriage, the barrier would go off, and it would also go off if a carriage the lord wasn’t expecting arrived, or so his hungry guards had bragged at the local snack shop as they waited for their morning energy. Which was why Rhys and Mouse were hunkering on the roof of this carriage, with Mouse using all her might to keep them undetected, unseen, and unknown.
+
+The blue arc of the barrier loomed. Rhys scooted a little closer to Mouse, and she reached out and put a hand on his back, her expression tense. She could do this. They both knew it. She’d used her technique to walk through detection barriers before. But Rhys still couldn’t help but hold his breath as the blue light flowed over them.
+
+Nothing happened. No alarms were raised. They passed through the light, and the carriage rumbled on.
+
+Rhys laughed, a little shocked. He patted Mouse on the back. “Good job.”
+
+She lifted her finger to her lips, clearly tense. Rhys nodded back. They weren’t out of the woods and into the party yet. They’d only passed the first barrier.
+
+The next line of defense was a physical wall with guards patrolling it. The guard at the gate paused and quickly inspected each carriage, then let it through when they confirmed that only the invited guests were present. The inspection was rapidly becoming cursory without the boss around to enforce a close look, but they did peer at the top and bottom of the carriage. Given the level of alertness, Mouse was pretty sure her skill wouldn’t work. It required some level of distraction, or at least inattention, according to her, and guards directly looking for Rhys in particular was a step beyond the inattention she could handle.
+
+Rhys wasn’t so sure about that, but it was Mouse’s path and Mouse’s skill, so he didn’t push too much. As the guard stepped forward to inspect the carriage ahead of them, his attention drifted. Mouse gave the signal, and she and Rhys leaped off the carriage’s roof and sprinted for the wall. They ran along the wall, under the line of sight of the guards on top of the wall. Mouse took the lead. Rhys wasn’t sure what she was sensing, but she was clearly sensing something, because she kept glancing up every time they passed a guard, but without scanning the horizon so that she would know when a guard was coming up.
+
+At last, she paused. “Here.”
+
+“Here?” Rhys frowned. There was a guard directly over them. What did she mean, here?
+
+Barely a moment later, he heard a voice on the other side of the wall. “Alois, is that you?”
+
+“Elena, my love,” the guard replied. “How are you, this beautiful evening?”
+
+“Lonely. Alois, you know the lord isn’t going to come around to this far-flung part of the wall. He’s too busy entertaining his guests. Come down. The night is young, and there’s so much entertainment to indulge in.”
+
+“Oh Elena,” Alois said. A moment later, he laughed and broke his strange, haughty voice. “Come on. He’ll have my head.”
+
+“He’ll never know,” she replied, also breaking the poetic voice. “Come on. Are you going to leave me down here, all alone, with all these handsome men at the ball? What if my eyes wander?”
+
+“As if they could.”
+
+“But what if they did? Alois, come on. The boss has been working you nonstop. I’m sick of it. I’m finally free of the damned lady tonight, and you can be free of the lord, if you just show some courage for a split second and come down.”
+
+Alois hesitated for another moment, then sighed. He vanished from the wall, and there was a heavy thump on the far side of the wall as he landed. “I’m going to regret this.”
+
+“Oh, will you?”
+
+There was a pause. “Probably not.”
+
+She chuckled. Their footsteps quickly faded, and then there was nothing but the sound of crickets and the quiet of the night.
+
+Mouse nodded. “Let’s go.”
+
+“How did you do that?” Rhys asked, amazed. Silently, he added, and could you manifest a hot and horny lady for me, if you wanted me to look the other way sufficiently hard? I wouldn’t mind, I swear.
+
+She blinked at him. “I didn’t do anything. I just sensed weakness. In—in the net. It’s like a net, everyone’s attention, and I’m always looking for a hole through it. I could tell there was a hole here, a weak thread. I could’ve been wrong, or we could’ve needed to hit him on the head or something, I don’t know—all I knew was that this was an easy place to push things out of place. The whole—everything… I didn’t do anything. I didn’t even know that was going to happen. I just knew there was a hole waiting to happen here.”
+
+“Huh,” Rhys said. He looked at Mouse with a new light in his eyes, and not for the first time, either. A net? She saw other peoples’ perceptions and attention as a net? He’d been imagining it as a vision cone, a la classic stealth games, but clearly Mouse wasn’t thinking of it the same way. He desperately wanted to know more, but now wasn’t the time. He could quiz her on her path and how she perceived it when they weren’t actively in the process of breaking into a lord’s house.
+
+It’ll probably be easier than talking to Desmond, anyways. Just remembering the old man pissed him off a little. If the guy was a ghost, Rhys one hundred percent understood why. He wanted to kill Desmond, and Desmond was actively trying to help him… or something. He wasn’t sure if Desmond wanted to help him or not, honestly, or if the guy just got off on being frustrating to young mages.
+
+He went to hop up onto the wall, but Mouse lifted a hand. “Me first.”
+
+Makes sense. Stealth unit first. Rhys gestured for her to go ahead. She leaped lightly up to the top of the wall and crouched there, looking around. When she was satisfied, she turned around and gestured Rhys up. He hopped up beside her, and she immediately grabbed his hand and jumped off the wall. They landed softly in the grass. Mouse sprinted for the house’s wall, still holding Rhys’s hand. A little bemused, he let her drag him to the wall.
+
+She turned around. “They were going to see us if we—oh, sorry!” She dropped his hand at last, snatching her hand back as if she’d been burned.
+
+“No, no, it’s okay. It’s always an honor to hold hands with a pretty girl,” Rhys told her honestly.
+
+“Same,” Mouse said, a rare smile breaking out on her face.
+
+Rhys blinked at her, then chuckled, glancing down at himself. I guess we’re both pretty girls right now. “Right, right.”
+
+“Come on. The hole is closing. We have to keep moving.” Mouse sprinted off. She moved silently, every motion calculated to make the minimum sound possible. The effortless way she accomplished it told Rhys that it was unconscious; this was simply a manifestation of her path, one that she didn’t even have to consciously activate.
+
+I need to hit that level with Trash Step. Rhys followed after her a little more clumsily, since the ground underfoot was good, soft turf covered in an even layer of grass, not trash at all. His footsteps sounded loud compared to Mouse’s whisper-soft footfalls, but he knew they were still quiet in the grand scheme of things.
+
+He expected Mouse to lead them to the grand entrance, but before they reached it, she stopped abruptly, so suddenly that Rhys almost ran into her. She kicked off the ground and leaped, hopping up to a balcony. Rhys had overrun a few steps, and he backed up and quickly jumped after her. As his foot tapped down on the railing, a guard turned the corner down below.
+
+Mouse wasn’t kidding, he thought. ‘The hole is closing’ wasn’t nearly urgent enough to convey how close they were to getting caught. He dropped down from the balcony railing before the guards could see him.
+
+“Did you see something?” one of the guards asked.
+
+Or not, Rhys amended.
+
+“Huh? Where?”
+
+“Up there. I thought I saw someone jump onto the balcony,” the first guard said.
+
+Ahead of Rhys, Mouse beelined for the doors into the manor. She tried the handles, but they didn’t budge. Locked. She tried again, using her strength this time, but the doors were designed for mages, and they still held.
+
+“Isn’t it just Aloise and Elena? I’m tired of catching them at it. Let’s just let them enjoy the balcony.”
+
+Rhys pushed her aside. He pulled out a stream of impurities from his core and fed them into the keyhole. The metal corrupted, visibly blackening, cracking, and weakening. He heaved at the handles, and this time, the lock snapped, and the doors popped open. Mouse rushed through.
+
+“No… I’m going to go check. Can’t be too safe.”
+
+Rhys lunged through the doors and slammed them shut behind him. On the other side, they stood on a hallway. Ahead of them, an internal balcony pressed out into the large, open room below, looking down on the ballroom. The hallway continued to the left and the right, lapping the room save for the two staircases to it. The doors behind them were glass, and the entire upper walkway was open. There was nowhere to hide.
+
+Mouse grabbed his hand for the second time that night. She yanked him a few steps to the right, then lunged behind a tapestry and took him with her. They both pressed up against the wall and held their breath.
+
+“—one here. Look. It was all in your head,” one of the guards said, their voice growing louder as they opened the balcony doors.
+
+“Are you sure? Look around. Aren’t the balconies meant to be locked?”
+
+Rhys tightened his grip on Mouse’s hand. If not for her skill, they’d absolutely be detected behind the tapestry. Instead, he could almost see the shadows shifting to hide their presence. Mouse had chosen this tapestry, so the guards would surely look the other way… probably. Hopefully.
+
+“Eh. Probably some noble got annoyed and unlocked it. You know they aren’t going to stay locked all night.” There was a clang as the balcony doors shut, and the guards’ voices retreated.
+
+Mouse sighed in relief. “Thank goodness.”
+
+Rhys glanced down. “You can let go now, you know.”
+
+“Oh! Oh… right.” Mouse—dare he say, reluctantly?—released his hand. She giggled and looked aside. “Sorry.”
+
+“No, no. No need to apologize.” Rhys glanced around. “Should we, uh, stay here until the party starts?”
+
+Mouse hesitated, then slowly nodded. “That’s… probably best.”
+
+Rhys twisted his lips. “Oh well.” He pulled out the red book and started reading it again. He’d found it far more illuminating since talking to Desmond, though partially because it was less frustrating than the man.
+
+He didn’t notice, but Mouse stared at him for a few long moments, something almost like hope on her face, then quickly looked away, looking at her feet instead. She sighed silently and closed her eyes. And slowly, down below, the dance floor filled.

@@ -1,0 +1,119 @@
+---
+id: 65270b08-86c4-5d81-9441-8596a06960a8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 734 - NORA"
+slug: 0059-chapter-734-nora
+partOf: hell-difficulty-tutorial
+position: 59
+ownLength: 2246
+unit: words
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2966076/chapter-734-nora"
+royalRoadId: "2966076"
+---
+
+POV Brich
+
+It’s been a few days since my failure to take possession of that low pristine armor Isolde’d been wanting to study so badly. She paid a lot of shards for information regarding the Eternal Court’s location. Unfortunately, it just wasn’t meant to be! If not for that man’s eyes, then maybe…
+
+I shudder and shake my head, trying to push away the memory of that gaze. Those gray and brown eyes with golden circles around the pupils, so full of potential. I’ve seen attendees with Mana Wavelength Irises before, but no one has handled them like that man did. That damn thieving rat. But at least I got a bit of his and Morwag's blood for our labs.
+
+A knock sounds at the door, and I call out, “Come in! I promise I’m not naked!”
+
+There are a few seconds of hesitation, which surprises me, as the presence lingers just behind the door. Then Nathaniel’s friend steps in. Slim, long black hair, green eyes. Most of all, he feels like a monstrosity, a thin, sharp sword, made of an array of mismatched patches of strange metals, yet still brilliant and perfectly held together.
+
+Alias Savant. From Earth’s tutorial, third year, already A-rank, and currently on the ninth floor of the tutorial. Suspected of having skills that let him incorporate parts of other beings or even items. Usually works alone, no flashy performances on the earlier floors, but people suspect it’s because he always does just enough to avoid drawing attention. Highly talented with body strengthening, judging from the reports of a fight he had on the third beyond floor with one of the attendees. Other reports have it that he uses kinetic energy, as reported by a demon who happened to sense him, and later sold the information for a chance to challenge one of our guildmates to a duel. May the Rulers bless those simple minded creatures.
+
+By merit of his abilities, it’s widely believed that Savant has plans to join Crimson Forge either to steal or exploit our guild’s resources.
+
+“You’re in!” I tell him happily. “I mean, you’ll have to talk to someone from leadership, but just tell them I said you can join, and it should be fine. For some reason, they seem to listen to me for the most part.”
+
+Savant stands there silently for a while before saying, “I expected this to be different.”
+
+“More formal? Did you think I’d be boring, like the other S-ranks?” I wave my hand dismissively. “Buddy, let me tell you a secret. I’m pretty fucked up, and I’m proud of it. Who else would push their body and mind as far as I have? I'm that guy. That special, good boy, your mom always told you to be.”
+
+I lower my voice. “Some days I start to wonder if, after so many times storing and reloading my memories, I’m still really me, or just some strange copy of myself. You know what I do then?”
+
+He shakes his head.
+
+“I stop thinking about useless stuff. It’s that simple! You joining our guild sounds like fun, and Eldrin and the others will find it fun too, so why not? Try to steal and cheat as much as you can, while we do the same. Oh, and one more thing. Five million shards for your right arm and whatever’s in it.”
+
+“No.”
+
+“Aw.”
+
+“Yeah.”
+
+“You’re a bit like your friend Nathaniel, though he’s got a more… well, let’s say, extravagant personality.”
+
+“I wouldn’t call us friends, but yes, he can be like that.”
+
+“Everyone seems to know except him,” I laugh. “Give it a year or two, and he’ll either turn into another monstrous S-rank or die along the way. And damn, I'm sure it’ll be a glorious death. The whole world will stop just to watch, and that creepy stalker velnar with his Parallax eyes will be left drooling over his records.”
+
+He seems to relax a bit, the tension I felt from him fading. It no longer feels like my skin is burning under a strange orange light.
+
+I notice Savant trying to match my behavior a little to make me ease off when he says in his own, calculated manner, “And he doesn’t realize it at all. He keeps acting like he’s trying to catch up to everyone, while it’s the others straining to catch up to him.”
+
+"You too?"
+
+"I said the others."
+
+“Is that why Earth seems to be so full of cute little monsters?”
+
+“You tell me.”
+
+“I don’t want to! There are a few theories as to why, and plenty of them tie back to that other creepy guy of yours. Christoph, as he calls himself. By the way, Calvorn is still pissed at him for eating his master.”
+
+“It doesn't matter to me. But if you don’t mind, I’d like to talk about what I came here for instead of indulging this idle chatter.”
+
+“I think I like Nathaniel more than you.”
+
+POV One, Normal Difficulty, Group: Ominous Latin Name
+
+Ten people. That’s how many of us make it out of the tutorial after clearing the thirteenth floor on Normal difficulty, while the rest of our group remains on the lower floors. There are plenty of notifications, but every one of us pushes them aside for one obvious reason.
+
+Before, we were transported into the tutorial with a hundred people and a chunk of a shopping mall. Now, we reappear in the same place, in the middle of the city. The glaring difference being the tall fence surrounding the area, complete with guard towers. There are even tanks, soldiers, and tents with a few drones circling the area.
+
+A loud but strangely pleasant alarm echoes through the zone. Moments later, a woman in professional clothes steps out of one of the tents. Her blouse has a few bits of food stuck to it, like she abandoned her meal in a hurry, and she’s still wiping her mouth while licking the sauce from her fingers.
+
+“Wait for now,” I tell the others, tightening my grip on the spear in my hand.
+
+Together with two soldiers, the woman in a suit approaches us. None of them are armed, and no weapons are being pointed our way.
+
+When she gets close, she smiles and licks her fingers one more time, “Hello! I’m Elisabeth Jonas, and I work as first contact personnel for this division of NORA, the National Office for Returnee Affairs. You might not realize it, but I’m currently among the top-performing officers in the division.”
+
+“What the fuck,” someone from my group mutters.
+
+She doesn’t miss a beat, clearly prepared, and doesn't let the silence linger. “I’m sure you have a lot of questions, and I’m here to answer as many as I can. We’re not here to threaten you, and should you wish, you are free to leave. We only ask that you continue following the laws you lived by before the tutorial. I hope that’s understandable. Of course, some laws will likely have to be changed in the future, given the nature of such world-changing events.”
+
+Still smiling, she adjusts her blouse. “The current returnee briefing procedure was created by Colonel Jonathan Kane in collaboration with Rafael Vaughn, whom you might know as Channeler. I’ve been informed you may be acquainted with him, Mister…?”
+
+“My name is Oliver,” I reply.
+
+“Ah, Mr. Oliver Williams! I thought it was you. I have a file on you, along with everyone else who disappeared that day. It’s part of our protocols, so I hope you won’t hold that breach of privacy against me. Mr. Vaughn is currently staying in the city, and I’m sure he’s already been contacted. So if you decide to wait, I’m sure he’ll be here soon, and we can let someone you trust more than me get you up to speed. In the meantime, we can offer you a tent and order any food, drink, clothes, or whatever else you might need, just let me or the soldiers present know. Mr. Vaughn will probably arrive in a few minutes, so you won’t have to wait long. But if you decide to leave anyway, please use the exit right behind you.”
+
+With that, she simply turns and leaves.
+
+“Someone high up is motherfucking smart,” Samantha says as she steps to my side, watching the woman go. “Do we wait?”
+
+I give it a thought, glancing over our ragtag group. Tired, armed, carrying every scrap of loot we could, bags filled with it. Ten people from Normal difficulty, probably some of the earlier returnees, so likely some of the strongest beings on Earth currently. Returnees, that’s what she called us, wasn’t it?
+
+“I think we should wait for Channeler. One thing, if any of you jerks even so much as touch him, I will kick your ass myself. You know who he’s working with.”
+
+A silence falls over the area, undercut only by the quiet whispering of names like Mana Maniac, Manahead, Glitch Mage, and, for some reason, Mana Daddy, whispered softly by a woman I can’t identify as something heavy lands near us.
+
+Without breaking stride, straight after landing, the huge suit of armor takes a series of steps, each one making the ground tremble and reminding us of its weight. Even the mana radiating off it is impressive. Channeler might be from Easy difficulty, but damn if I’m not sure he could stomp us all into the ground with that armor alone. The way it moves is almost nimble, elegant, in striking contrast to its, well... special looks. Maybe there’s a hidden purpose I can’t fathom behind having made it so ugly.
+
+Shivers run down my spine as the helmet turns toward me, then a hiss sounds, and the chestpiece of the armor opens. A young man climbs out, awkward at first, before landing gracefully on the ground.
+
+Channeler is a handsome son of a bitch. His curly golden hair almost seems to catch the sun, the armor making a dramatic backdrop to his slim figure, while his blue eyes shine in a shade I’ve never seen in any other human. He smiles and steps forward, fixing the sleeve of his clean black suit.
+
+“Hey!” he greets us with that smile, “I hope you don’t mind if I’m a bit more straightforward at first, just to make some things clear. I’ve had a few meetings like this, and I've found that making them more direct is the least painful for all sides. First, yes, you can leave, but if you start killing people or ignoring the law, you will be hunted down. It’s happened a few times already. The president and other important people don’t like the idea of superhumans running around and maybe assassinating them. It will be more difficult to deal with attendees from Hard difficulty, but that’s a problem for the future. Second, you don’t have to work for the army, but it’s better to register with NORA and all that. Everyone in my group did it. It’s annoying, but we decided we can be patient until the stronger people among us start returning.”
+
+His words make the hair on my neck stand up. I’ve only seen him in the Community before, so I don't know him all that well, but hearing him share something with such serious implications so calmly hits me harder than anything else. This world really is going to change a lot, isn’t it?
+
+Channeler pauses, and when no one replies, he nods in satisfaction, “The country is slowly releasing more and more info to the public, but for now it’s a controlled process, and I think it’s going to work out in our favor. You might ask, Why the hell should you care what someone from Easy difficulty is telling you? Well, go on the internet and watch a few shorts edited by a certain, cute, young, green eyed editor, in which a certain man with heterochromia does some truly wild stuff. Someone from Earth has already taken a bunch of these clips, added a custom track and some professional edits, then uploaded the video to youtube. I think that video has around fifty million views now. Look up “I Can Fix Him - Part 1” The youtuber said they’re working on Part 2 and have apparently been getting a steady stream of videos from the other returnees.”
+
+Once again, he looks at us, and I notice slow nodding around the group.
+
+“I apologize if I come across as threatening, but these are the very same words I use when dealing with our dear country’s leaders. Thanks to that, we returnees aren’t being forced to join the army, or finding ourselves kidnapped to be studied, even though trust me, there are many, many people who want to, and I can promise you I will be the first to turn on them if they go sneaking around behind my back. Honestly, it’s all a huge mess right now, but we’ll fix it together. As much as I dislike the idea, I think in a few years the attendees will be setting the rules, and our leadership knows it. They’ll be throwing more money at you than you would’ve believed in your wildest dreams, all in hopes of preparing for that future. Whatever helps them sleep. But we all know that once the people from Hell difficulty start returning things are going to be a lot more chaotic.”

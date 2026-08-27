@@ -1,0 +1,77 @@
+---
+id: 49984a51-057e-597b-b338-8c4d50a7639b
+page-type-slug: story-chapter-royal-road
+title: "283. He Arrives"
+slug: 0283-283-he-arrives
+partOf: god-of-trash
+position: 283
+ownLength: 2070
+unit: words
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3124298/283-he-arrives"
+royalRoadId: "3124298"
+---
+
+Rhys was halfway through his main dish when a ripple of attention ran through the restaurant, as every patron suddenly sat up a little straighter and the conversation quieted. A moment later, the doorbell rang, and Bast and the Sword Saint entered the room.
+
+Rhys carried right on eating, pretending not to notice, much the way a few other patrons were pretending not to notice. It was a hard balance to strike, because he had to pretend to notice just enough to blend in, but not so much that he became suspicious for paying too much attention to the duo. He reined in his mana almost completely, not wanting Bast to react to his presence. It was better for him and Bast if his friend simply didn’t notice him. It would mean Bast wouldn’t have to lie—or be forced to tell the truth—about Rhys’s presence, and Rhys wouldn’t have to worry about Bast being put in danger because of his actions. He was here to quietly check up on his friend without alerting anyone to anything.
+
+He peeked up from his food as Bast approached the table he and Lily sat at, and he froze. His friend looked rough. Bast had always been larger, bulkier, and more muscular than Rhys, and he still had a large frame, but he was gaunt and pale, his cheeks hollowed out and his muscles standing out sharply against his skin. There wasn’t a single scrap of fat on his body, in a bad way. It looked like the life had been sucked right out of him.
+
+Rhys glanced at Luc, the Sword Saint, just behind Bast. The man looked healthy, with tan skin and rosy cheeks, though his eyes were just as vacant as they’d been when the two of them had faced down in the Empress’s palace. Bast strode ahead of his mentor, leading the way, while Luc followed after him with ever-so-slightly stiff motions.
+
+Lily noticed his gaze and leaned in, casting that same bubble Madame Tunk had cast. “He was injured recently. Don’t stare.”
+
+“Recently? In the Empire?”
+
+“No, before that… it was a horrible battle. But he won, and kept us all safe. Don’t stare!”
+
+I suppose that’s what happened. Lord Ravin did want to destroy the Alliance, and Luc had stopped him, though Rhys wasn’t sure how far one Tier 5-6 and his two underlings would get. Ravin was a force to be considered, but he’d personally taken down both underlings, and it wasn’t like Ravin had an army or the social capital necessary to raise one. A lone Tier 5-slash-6 was a formidable force on his own, and the Alliance didn’t have many Tier 5s, let alone 6s, but they had more than one Tier 5, and he was pretty sure they had at least one more Tier 6. Surely someone other than Luc could have turned away Lord Ravin.
+
+And then he stilled. Or maybe they couldn’t. There weren’t many people that strong in the Alliance, and the Alliance was known for being weak. The Empress had posed a serious threat to the Alliance. Luc, strongest man in the Alliance, had almost died taking down a single low-ranked lord from the northern region. The Alliance was weak. Weak, weak, weak. He’d spawned in a trash region, as fitting for him; but it did mean the Alliance was in constant mortal danger. It basically existed on the whims of its neighbors, who didn’t care to conquer it. It was the Luxembourg of this world, surrounded by powerhouses France and Germany who just didn’t care enough to bother conquering it.
+
+Except it’s way bigger than Luxembourg, Rhys thought, then paused. Was it? He had no idea how large the northern region was. The Empire had been a sprawling beast, with tenuous control of territory several times larger than the Alliance. The Alliance was mile-by-mile larger than Luxembourg, but was it proportionally larger? He still hadn’t explored enough of this world to know.
+
+Once I finish up here, that’s next on the list: exploration. Hopefully with Bast and Mouse at my side.
+
+He lowered his eyes, not wanting to get caught staring. Bast was in a bad place right now. He’d known it even before he’d seen him. Seeing him, seeing with his own eyes just how bad a shape his friend was in—it hurt, and he couldn’t deny it. But if he gave everything away now, he wouldn’t save anyone. He had to keep his poker face. He had to hold ‘em. Only then would he be able to ultimately save Bast, and snatch his friend from the jaws of the enemy.
+
+As Bast brushed by, Rhys casually tucked a few little hoops into his and Luc’s robes. His friend was depressingly now a whole tier lower than him, so he could easily move fast enough that the other man couldn’t track his hands. Leaving the hoops on Luc was a bit of a risk, but as he’d expected, Luc didn’t react to him at all. It was like there was nothing behind those hollow eyes… and honestly? Rhys was starting to wonder if anything remained of Luc at all.
+
+The man had twitched at his joke in the Empress’s palace, but that was the last sign of life Rhys had seen from him. Everything else he’d done on order, following commands like a robot. He wasn’t completely sure there was something behind those empty eyes, or if Virgil had snuffed out the last spark of Luc between when Rhys had ‘fought’ (it was more like fleeing with style) him, and now. From his wooden walk and his eyes locked on nothing, it certainly looked like there was less of Luc left than the last time they’d met. And given the horrible shape Bast was in, there was certainly no one protecting him. In public, Luc looked like a soulless husk. In private… Rhys wasn’t certain there was any difference.
+
+I’ll find out soon. He continued to eat his dishes, moving more quickly now that he’d completed his objective. The hoops were on Bast and Luc. Now, he just needed a private place to peep on the two of them.
+
+It sounded suspect, even to Rhys himself. He pressed his lips together. I swear I’m not a voyeur. I swear! It’s necessary! I’m being forced!
+
+Bast and Luc disappeared into a private room, the same way they did every time they came to this restaurant. The second they vanished, everyone relaxed, and conversations started back up again. A few people directly stood up and left, clearly having only attended the restaurant at all so they could see the Sword Saint, or perhaps in the dim hope that this time, the duo wouldn’t sequester themselves out of everyone’s reach. Rhys wanted to join them, but he refused to be so obvious about it. Besides, there was still some delicious food to eat. No one else seemed super interested in the food, but that was alright. He was fine with being the only one who enjoyed it.
+
+It wouldn’t be the first time. His standards for food were low. Even as a kid, his friends would complain about cafeteria food, then dining hall food in college, but to Rhys, both were delicious. It probably didn’t hurt that his mother was a terrible cook, completely unable to make a palatable dish to save her life. When what awaited him at home was a slog to eat, anything else would taste amazing. And then, once he was out of his childhood home and out in the real world, he hadn’t exactly taken care of himself or bothered to learn to cook himself. Cheap ramen cups that mostly tasted like salt were the height of cuisine as far as he was concerned. Crack an egg in the hot noodles, and… whew. That was cooking!
+
+Of course, there wasn’t a single scrap of mortal cooking that lined up to the worst of mage cooking, and though this food was low-quality by mage-noble standards, it was high-enough quality to be considered mage-noble quality in the first place, which meant it tasted beyond amazing to Rhys. He wasn’t exactly pushing himself to stick around and finish his meal.
+
+I wonder what they have for dessert?
+
+He kept low-level track of Bast and Luc through the hoops. The two usually spent a few hours here, then re-emerged and marched straight home. The question was, what were they doing inside the restaurant? From all his points of view outside the restaurant, they entered the private room and then… vanished. If there was any scrap of Luc left, then maybe that was where he was fighting back, but Rhys suspected it was nothing so positive. The only way to find out was to get there, and he couldn’t get there by looking from outside. Adding the hoops to their clothes allowed him to let them carry them in, wherein he could then use them to peep—ahem—check in on his friend.
+
+A horrible thought struck Rhys. Bast and Luc had snuck out of the palace, or whatever they called that upside-down-pyramid-thingy, to come here, secretly. What if they did it to escape Virgil’s gaze and get a little privacy? What if… What if this is a forbidden master-student tryst? Oh gods. If I’m just violating my friend’s privacy, I’m so, so sorry. Oh dear. My eyes might never recover if that’s the case. As much as I love my friends, I really, really don’t want to see Bast naked. Besides, it’s… you know. Icky for me to be peeping on my friend’s private life. It’s not my place to be peeping on or in any way judging his love life and life choices. If I see anything odd, it’s my fault and my fault alone, and I can blame no one but my own dumb ass.
+
+I don’t think that’s what’s happening, but since I literally know nothing… I just don’t know!
+
+But soon he would. Whether he wanted to or not. Whether it was deeply helpful information or forbidden knowledge, he’d know it one way or another.
+
+The two hoops stood in the room for a short time, then vanished. A moment later, they reappeared in Rhys’s awareness several hundred feet straight down in the earth. Rhys extended his senses out of one of the hoops just enough to get a feel for the situation, only to find Bast and Luc standing there in silence in a vast chamber, waiting in the darkness. If he extended his mana senses further, he was sure he could’ve seen more, but he was afraid to extend it too far in case either Bast or Luc reacted to the mana sense. After all, they shouldn’t encounter any mana sense that deep in the earth, so if they sensed anything at all, he’d be in trouble. Thus, all he could sense was that Luc and Bast were standing alone in a big area, before he quickly retracted his senses.
+
+Nothing less, but let’s not linger. I want to be alone in case anything goes down, and I have no choice but to intervene. Hopefully he wasn’t forced to intervene, since it would blow his plans wide open, but intervening was better than letting Bast die in the worst case. He didn’t want to imagine anything that horrible, but Bast’s state was so bad that he couldn’t help but think about it. He wasn’t going to stand by and watch his friend die. His plans weren’t worth that.
+
+He was stuffing dessert in his mouth when he felt the distant brush of a new aura. A new aura that he recognized in the worst way. Rhys sped up even more, putting gold down on the table and gesturing for Lily to go. They had to motor. Things were about to go down.
+
+One of the waiters approached as he stood. “Excuse me, sir, but we’ll have to ask that you pay at the—”
+
+Rhys slapped down another sack of gold. The waiter shut his mouth and quietly picked up the money as Rhys led Lily away, out of the restaurant.
+
+“Was something wrong?” Lily asked as they stepped outside.
+
+Rhys shook his head. “No. I just remembered something I left unfinished at home.” He peeked through the hoops again and pressed his lips together. Not good. Very not good.
+
+Deep beneath the earth, Virgil approached Bast.

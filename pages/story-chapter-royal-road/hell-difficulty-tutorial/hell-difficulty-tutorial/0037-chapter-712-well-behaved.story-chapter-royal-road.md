@@ -1,0 +1,153 @@
+---
+id: adc446bb-dbf7-570e-8a80-bb9d633859ca
+page-type-slug: story-chapter-royal-road
+title: "Chapter 712 - Well-behaved"
+slug: 0037-chapter-712-well-behaved
+partOf: hell-difficulty-tutorial
+position: 37
+ownLength: 2099
+unit: words
+publishedAt: 2025-12-15
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2851393/chapter-712-well-behaved"
+royalRoadId: "2851393"
+---
+
+In the following ten minutes, Victoria keeps berating me for my behavior, asking me that same question that always seems to work. But I can’t even be mad at her, after all, it always works, so I’d probably do it too in her place. It’s so simple too: Do you want people to look down on me for failing to raise you as a good sister should?
+
+I don’t think she even really cares, or what other people might think in general, and it’s extremely childish in some ways that she would expect it to work. But from that moment, my behavior changes anyway as I decide to reach into my reservoir of social energy and endure all of this. Five minutes later, Victoria hugs me briefly, then leaves, heading toward the balcony where Nyssa still sits.
+
+There’s probably some epic conversation just waiting to happen, and my curiosity itches under my skin as I watch my sister and the albino demon meet with a greeting, with the more sociable Victoria taking over the conversation and introducing herself.
+
+For some reason, Nyssa seems surprised by Victoria’s reaction, and the pressure around her rises until I feel it even from here. It’s that sharp feeling of having a weapon aimed at you, as if the tip of a blade were resting against your eyeballs.
+
+It doesn’t even make Victoria flinch, and Nyssa’s surprise deepens as she smiles and jumps down from the railing to greet her properly.
+
+So cool.
+
+But what isn’t cool is the presence I feel behind my back. I sense it because everyone here is using their senses, it’s just part of the game, and they don’t even seem to think it’s rude at all. Like it’s just ok to hide your abilities if you want to, while doing everything you can to look into everyone else’s. I probably don’t have to say it, but my trademarked black mana really fucks with the mana senses of anyone trying to catch a glimpse of me.
+
+Anyway, the presence I feel is very familiar, but for a while, I refuse to believe it’s actually them. Only after turning around do I confirm it, and find myself forced to accept the reality in front of my eyes.
+
+The most cowardly person to ever exist stands there, looking right at me. Savi, in his full, cowardly, beauty.
+
+Like everyone else here, he’s dressed up. He is in a pure blue suit that contrasts with his black hair and green eyes. That annoying beauty mark near the corner of his eye is still there, the one that far too many of the women from Easy Difficulty were gushing over during the tournament. If I were him, I’d have it removed. What an ass.
+
+The Sword of Aeons is nowhere to be seen, probably having been fully absorbed, and there’s a hint of kinetic energy in his movements. Though he doesn’t seem to be generating it, just absorbing and reusing it. I’d rate his usage worse than a noble lady’s pet, but it’s something at least.
+
+And why the hell is he walking toward me? I want none of this.
+
+He stops in front of me, nods his head in greeting, and, remembering Victoria’s words, I return his greeting.
+
+“Let me guess, your sister didn’t tell you about me?” he asks afterward.
+
+Jumping to the conclusion, I say calmly, like Dumbledore, the one from the movie, “If you tell me that you guys are dating or something, I’ll kill you right here where you stand.”
+
+“What?”
+
+“... What?”
+
+“I clearly meant if she told you about me cooperating with her group.”
+
+“That’s what I meant.”
+
+“But you-”
+
+“Don’t be so backward”, I say, interrupting him, “and don’t stick to things that happened so long ago. She didn’t mention you, but knowing her, this was her version of a joke at my expense, since she knows how much I like you. Isn’t that dumb, and yet weirdly cute at the same time? She’s so terrible at jokes.”
+
+“Sure,” Savant says, shaking his head and changing the subject. “Have you met Christoph?”
+
+“Yes.”
+
+“And what do you think?”
+
+“I’ll give it a bit longer before deciding. You?”
+
+“I’m the same. I’ve only met him once, but even though there are things I don’t like about him, I think we need him, even if it means he’ll end up becoming our Absolute.”
+
+“Already giving up on the title?” I poke.
+
+“I’ve always been a realist, unlike you, and I think your sister would probably agree with me. If the enemy has Champions and an Absolute, I don’t see any other way to avoid losing during the Pairing except by using everything we have. Even then, it’ll be a huge mess. I’d also recommend you look into the way Pairings usually end up.”
+
+“Not planning to escape Earth or join the enemy if you think it’s necessary?”
+
+“It’s something I’ll take into consideration if I’m left with no other choice. I don’t know what exactly you think of me, but I’ll defend my home,” he says.
+
+As always, used to having the last word, he turns to leave. I ask him curiously, “Not gonna ask me what I’ll do?”
+
+He just turns around with a weird expression. “Isn’t that obvious?” he says, and without another word, he leaves.
+
+What a pretentious guy. Even I don’t know what I’ll do.
+
+Before I can decide where to hide for the best possible defense from the party’s inevitable wide area destruction, a young child approaches me.
+
+The little guy is ridiculously cute. It is to the point that I probably look like some kind of creep staring at him. It’s my first time seeing a vyssari kid this young. He has those scaly legs, though he’s about half the size of a human child his age. He is maybe around four years old at most, and his eyes are huge. He’s wearing a tiny suit, and his hair is perfectly styled, too.
+
+The little guy even stands straight like someone glued a stick to his back, and he likely already has more manners than I ever will.
+
+Before he even says anything, I decide that if he asks me for a million shards, I’ll give them to him. No complaints at all. I'm also thinking of leaving the party to run back to the third floor, hoping Lily still has that smartphone she’s been carrying, so I can return and take a picture of him.
+
+“Are you Sir Nathaniel Gwyn?” the little boy asks.
+
+I don’t know if it’s his size or what sort of magic, but his voice is extremely cute as well.
+
+“Yes, I am,” I answer softly, holding myself back from ruffling the hair on his tiny head.
+
+“Your Handler sent me to ask you to join her.” He turns and points toward a balcony where Greed is standing next to Kindness and a few others. I spot Kaari and Hela among them.
+
+Deciding that I’d let this little guy lead me straight into a deadly trap if he wanted to, I gesture for him to take the lead. “Sure, I’ll follow you.”
+
+He nods self importantly and starts walking with his tiny steps. It forces me to slow down a lot to match him, but I don’t mind it at all.
+
+Out of nowhere, a velnar attendee steps back while laughing and waving his arms, and bumps into the vyssari boy. With a short sound of surprise, the kid stumbles and falls to the floor, as the attendee turns, looks down, and laughs even harder.
+
+“Damn, I can barely see you, little dwarf. I could’ve stepped on you without ever noticing-”
+
+Before he finishes, a blast of kinetic energy from me slams into him, sending him sliding across the floor. Ripples spread through the transparent sections along the way before he crashes through a table and hits the wall behind it.
+
+The two people he was talking to raise their mana, but color drains from the area before my disruption finishes the rest, canceling out whatever they were trying to cast. At which point they just stand there in shock.
+
+Ignoring them, I help the little guy back to his feet. The tiny gentleman dusts off his clothes and puts on that brave face again.
+
+“Excuse me for the trouble, Sir Nathaniel Gwyn,” he says.
+
+“It’s okay. Do you want me to throw that velnar off the balcony?” I ask, watching said velnar crawl out from under the broken table.
+
+Honestly, I expect the boy to refuse politely and ask me to stop, but the little guy nods solemnly. “Please do, sir.”
+
+I blink in surprise, and he calmly looks right back at me.
+
+Without hesitation, I take a step with Wraith Dance to reach the velnar. The attendee is already standing, his clothes covered in the remains of the snacks and drinks he just bulldozed through, shouting something rude. Before I can touch him, a barrier forms in front of me, shielding the velnar. It’s immediately obvious it wasn’t created by the attendee. Not even an S-rank could have done that. Clear as day, it’s the work of someone at least Champion rank, likely the guy’s Handler.
+
+I track its origin and notice a velnar man standing nearby. “That should be enough,” he says.
+
+Ignoring him, I turn to the asshole who bumped the kid and say, “As a fellow Champion candidate, I challenge you to a duel. If you win, I’ll transfer you a high grade residence. If I win, you’ll have to complain to at least two different locals or attendees every day, for the rest of your time in Beyond, about how the Ruler of Diligence destroyed the Ancient Armory.”
+
+“What?” The big guy looks confused, then snorts and laughs. “Sounds fun! Fine! I accept your challenge!”
+
+The barrier around him vanishes, snuffed out by someone far more powerful and greedier than the velnar Handler, and it’s replaced by a much stronger barrier surrounding the two of us. Once inside, I let my mana seep through the area and reach the velnar again.
+
+His mana explodes outward, his body swelling in size as glowing blue markings spread across him.
+
+A blast of kinetic energy slams him into the barrier. Color drains from the area, and his other skills fail to activate. He charges at me but freezes mid-step, stuck in an awkward pose, before another kinetic blast hurls him against the barrier again. He bounces off, falls, freezes again, and I throw him one more time.
+
+I repeat the process a few more times until he stops moving, and only then does the color slowly return to the area.
+
+Congratulations on winning your challenge.
+
+A notification pops up in front of me, confirming the result. The whole thing barely took fifteen seconds.
+
+The barrier around us fades, leaving the guy’s Handler standing there awkwardly, glancing toward Greed, who’s smiling at him, and waving in response.
+
+Clapping my hands together, I take a breath and strengthen my body before grabbing the unconscious velnar by the leg.
+
+I start dragging him across the floor, and when I reach the tiny vyssari boy, he joins me without hesitation. He grips a torn flap of the velnar’s suit and starts helping me drag him toward the edge of the balcony.
+
+Dozens of people turn to watch. The crowd parts slowly, some stepping back, while others whisper or pretend not to see. The sound of their voices rises and falls behind us as we move, the scrape of fabric and boots filling the resulting silence.
+
+By the time we reach our goal, Kindness appears beside us, breathtaking as she is, and helps us lift the guy and throw him over the railing.
+
+The velnar falls over the edge like a sack of potatoes, vanishing into the glowing city below. A few people gasp, a few laugh, and one woman even claps. Though the noise dies down quickly, replaced by the distant echo of something heavy hitting the lower level, not even half as far down as I expected. So he likely landed on top of one of the towers.
+
+Honestly, the guy probably won’t feel a thing. I’m sure even I could survive a much higher fall, and my Constitution is much lower than his.
+
+I dust off my hands and glance over at Kindness. She looks completely unbothered, her expression calm and strangely satisfied. The little vyssari boy stands beside me, his posture perfect, as if this were the sort of thing that happens every day.

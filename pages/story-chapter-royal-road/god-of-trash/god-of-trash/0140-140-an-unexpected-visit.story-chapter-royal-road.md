@@ -1,0 +1,85 @@
+---
+id: 000989da-a9d9-5eb3-99bd-ce3db4d2e619
+page-type-slug: story-chapter-royal-road
+title: "140. An Unexpected Visit"
+slug: 0140-140-an-unexpected-visit
+partOf: god-of-trash
+position: 140
+ownLength: 2179
+unit: words
+publishedAt: 2025-07-24
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2463227/140-an-unexpected-visit"
+royalRoadId: "2463227"
+---
+
+Rhys stared into the vat, thinking. The sun was finally setting after a long day of chips and fries, and he was back at his usual efforts at refining his drink offerings. He had his soda more-or-less ready to go; all he needed was a steady source of sugar to sweeten it. He couldn’t exactly put his soda into full production when he relied on random merchants bringing enough sugar into the city for him to continue making it. He didn’t want the rush of a short-lived fad—trashy though they might be—but the long, slow, insidious infiltration of soda into the lives of every mage in the Empire. If he was going to turn this incredibly-mild-healing-potion-slash-soft-drink into a profitable sales leader, then he needed a steady and low-cost source of sugar. After all, that was ultimately the secret of soft drinks: a steady and low-cost source of sugar, utilized to make the ultimate of delicious, cheap, and unhealthy drinks.
+
+Bzzz. A strange buzzing echoed from the yard behind the tavern. Rhys left the vat, and his thoughts, behind, and wandered out to check on the source of the sound. The backyard was a tangled mess, all weeds and trash, which he’d left there with great sadness in his heart because if he hadn’t, his yard would have stood out from all the other shops’ back lots. It wasn’t a large area, just a small ten foot by five foot space meant to be… who knew? An herb garden? A holding space for trash? In any case, the source of the buzzing noise was immediately apparent. The female mage who’d helped him clean the building stood in the small yard, focused intently on a small flock of honeybees. Her eyes were glazed yet intense in the way that told Rhys she was doing something important and magical, so he stood nearby and waited for her to finish.
+
+At last, she breathed out and blinked, then looked up, meeting his eyes. “Good evening, Rhys.”
+
+“Good evening…” Rhys abruptly realized he’d never caught her name, and cleared his throat in embarrassment.
+
+She laughed good-naturedly. “Kuyie, my name is Kuyie.”
+
+“Kuyie. I, uh. Couldn’t help but notice that you’re handling honey bees this afternoon.”
+
+“Indeed I am.”
+
+Rhys stood there for a second, a little awkward and uncertain of how to broach the topic, then decided to just go for it. “Could we use the bees to secure our source of sugar?”
+
+“I thought you’d never ask,” she said, beaming. She turned to the bees. “Ordinary bees couldn’t keep up with our demand, not without a full-scale honey farm, but I’ve been working with these bees for a while now, imbuing them with mana. They can produce far more honey than the average hive, in shorter timeframes as well. The only problem is that they need nectar to create honey. Flowers. And we’re in a city.”
+
+Rhys grinned. “That’s no problem at all. We’ve got farms. Plenty of plants out there. Surely some of them need to be pollinated.”
+
+“You would allow me…?” Kuyie asked.
+
+“Sure, why not?”
+
+She shrugged. “Some farmers fear what our enhanced bugs can accomplish, or worry that we might test our dangerous bugs on their crops. And to be fair, some less responsible bug mages have, in the past, caused the decimation of crops, then vanished. I suppose you have magic, so it’s not as though you’d be powerless, but…”
+
+“Oh. Yeah. Well, if you decimate my crops, I’ll decimate you,” Rhys joked.
+
+Kuyie bowed deeply, a serious expression on her face. “I will take great care. I appreciate that you’ve put your trust in me, and will do everything in my power to keep that trust.”
+
+“No, it was a…” Rhys pursed his lips. Right. In this world, he had the power to kill people, and not only that, but he was stronger than her, and no one seemed overly concerned about law and order. A threat to kill or harm someone wasn’t funny in this world, unless their power levels were equal, or Rhys was the weaker one. He rubbed the back of his head. “Sorry. That was a joke.”
+
+“Oh.” Kuyie looked at him, then smiled. “Good.”
+
+“As long as you’re making delicious honey, we’re all good.” Rhys smiled awkwardly and backed away. He waved one last time, then ran for it, too embarrassed to face her again.
+
+Still, that was one problem solved. Plenty of problems still to go. Like the rest of the Water Syndicate. He didn’t foresee the next sibling being much more powerful than Lloyd or Logan, but if they kept scaling up like this, eventually, they’d get real strong. And if they had two parents still surviving, or parents and grandparents, or hell, great- or great-great grandparents, or even great-great-great-ad-infinitum, given mage lifespans…
+
+Rhys waved his hand. No way did the Water crime syndicate expand more than two… maybe three generations. At some point, the elder mages had to stop caring about petty crime. Maybe they still cared about crime, sure, he wouldn’t take that away from elder mages, but drug dealing? At the very least, they should’ve ascended to higher realms of drugs that were powerful enough to effect stronger mages, drugs powerful enough to outright kill mages on the level of the Empire’s ordinary mage citizenry. No, no. He might have to prepare for grandparents, he almost certainly had to prepare for parents, but something beyond that would be ridiculous.
+
+Of course, that presupposed that the elder mages, the grandparents and so on, hadn’t simply died by now. Mage lifespans weren’t infinite, at least not until the higher tiers, and at Tier 3, though Rhys could expect to live somewhere between two to five hundred years, he wouldn’t live forever. If the grandparents of a small crime syndicate hadn’t ascended past Tier 3—and since they were a small crime syndicate, Rhys was pretty confident they weren’t geniuses at magehood, either—their children were old enough that their eldest child was somewhere in his forties, it wouldn’t be insane to expect that the grandparents and great-grandparents and so on were simply flat-out dead.
+
+It also assumed that the grandparents had been mages at all. They could’ve been mortals. True, with four grandparents, it wasn’t impossible that one of them was a mage, but it also wasn’t impossible that they were all mortals. After all, who would start a small crime syndicate, a pair of mages with connections and money from their mage parents, or a desperate pair of once-mortals elevated to magehood with no resources, who had to desperately scrabble for money and everything else the whole time? The latter pair seemed far more likely to resort to crime than the former to Rhys, but who knew? Maybe they were a pair of bored brats who’d spawned the Water Syndicate for fun in their free time.
+
+Rhys sighed. It wasn’t really important, in the end. He’d find out if the Water Syndicate was backed by secret powerful elders when he got there. Actually, the more he thought about it, the more likely it sounded. How could they operate without at least one powerful backer? Still, would that powerful backer step forward if someone else stepped in and gently realigned their crime syndicate’s business practices towards something yet more profitable?
+
+No, I think they might protest that, even if I wasn’t killing all their children-slash-grandchildren-slash-great-great-grandchildren. He sighed again, then shook his head and looked around him, pulling himself out of his thoughts. After all that, all he’d decided was that they definitely did or did not have a backer, which was exactly where he’d started; at the end of the day, it didn’t matter until they showed up or didn’t, and there was really no point in worrying about it until it happened.
+
+He was currently in his persona as the red-and-yellow harlequin-suited charcoal-smeared foreigner from an unspecified foreign country, so it wasn’t as though it was too dangerous to wander the city, but if some guard decided to cause problems, he could still get in trouble. It really wasn’t a good idea to just run around randomly like this because he got flustered over an awkward social moment with a coworker.
+
+Still, he didn’t want to go back yet. It’d be embarrassing to admit defeat and run home with his tail between his legs, and plus, it wasn’t as though Kuyie’s bees would have made soda-quantities of honey in the last ten minutes. He didn’t often leave the shop, or his various hidey-holes and trash pits. He might as well go see the sights, do something fun for once.
+
+Rhys paused. What do I do for fun, nowadays? Back home, he usually read… reading…
+
+He reached into his robes and pulled out a small red book. On his sword, the straw-doll charm came to life and stared up at the book in… it was hard to tell, with such a small face, whether it was worship, excitement, or abject horror. He moved the book back and forth, and the straw doll gazed after it with big, wide eyes, refusing to let it out of its gaze.
+
+Rhys lowered it, gazing at the unmarked cover. The little red tome had fallen out from between two books, squeezed out of view… or had it fallen out of a larger book? Or maybe it was wedged behind a row of books. I think it was that one, but it’s frightening that I can’t remember. It felt as if something was slowly wiping the knowledge from his brain, or maybe confusing it, mixing it together until he couldn’t trust his own memories. Something didn’t want him to remember where this book had come from… or was it that something didn’t want him to remember the book at all? It had slipped his mind until this moment, despite him remembering, now, that he’d made several notes to himself to remember it.
+
+Either way, it only made him want to read the book even more, if something was trying to make him forget it. If they wanted him to forget it and discard it, didn’t that mean this book was trash? And if this book was trash, then its knowledge was essential to him. He wandered a little further, looking for a place to pause and read, then plopped down on a low wall and dove into the tome.
+
+It was horrific reading. The absolute worst. The writer seemed to barely have a grasp on the language they wrote in, and a maddeningly awful scrawl to match. It was like picking apart a doctor’s chicken scratch while reading Middle English at the same time, as if Canterbury Tales was written by Rhys’s family physician who’d only today discovered fountain pens and as a result, left big blots of ink all over the pages between thin, faded text that suddenly transformed to ink so bold he struggled to make out the letters as they ran into one another. The entire thing was nothing more than the most garbage associated with any written form of any language, all heaped into one garbage book that, even when Rhys comprehended the individual words within it, didn’t seem to make much sense. It wasn’t even trash literature. It was just trash.
+
+Rhys furrowed his brows. He wasn’t going to give up just because it was hard to read. He’d read the Canterbury Tales, all of them, even the borderline pornographic ones! He could do this!
+
+Speed Reading engaged, working hard for the first time since he’d gained that skill. He read the text over and over; it was short, thankfully, even if it seemed to be nonsense. Slowly, something started to emerge from the garbage. Some deeper understanding. Something he struggled to put words to, so much so that he began to sympathize with the writer. He’d thought they were garbage at their job, but it turned out, they were simply trying to convey something that was so difficult to explain with words that the easiest way to do it, was to make no sense and hope that someone in the distant future tried hard enough to understand them that they could accomplish something akin to comprehension.
+
+At last, he sat back, letting out a slow breath. The void. The void, huh. He didn’t understand it any better, and yet, he felt as though he’d inched closer to some valuable conclusion.
+
+Speed Reading 14 > 24
+
+He gazed up at the sun, then startled. It had been evening. How long had he been sitting here? No, forget that—how had he not noticed it growing dark, then bright again? It wasn’t just morning, but… he looked up, squinting. The sun was almost dead overhead. It was almost time for lunch rush! He put the book away in his robes and rushed back to the shop, locking away his insights into the back of his mind, and made a note to keep checking in on them. He didn’t want to lose this information as well to whatever eroded his memory of the book.

@@ -1,0 +1,181 @@
+---
+id: 69fa1fce-c04e-589f-92b1-04b710246586
+page-type-slug: story-chapter-royal-road
+title: "051: Enterprise"
+slug: 0051-051-enterprise
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 51
+ownLength: 2135
+unit: words
+publishedAt: 2024-06-05
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1664643/051-enterprise"
+royalRoadId: "1664643"
+---
+
+There was an uncharacteristic spring in her step as she wound her way through the cobbled alleys of Haven. Evelyn had gotten lost twice this morning, as she was still a little unfamiliar with the city’s layout. Though that was far from enough to dampen her spirit.
+
+Unlike the near depressive episode that she had fallen into after her failure, her mood today was a mirror of the clear blue sky and beaming sun.
+
+Leaving the towering walls of Haven behind, she made her way into the rolling green hills that surrounded it. Tracing a familiar path up a certain hill she couldn’t contain her excitement. As she crested the peak of the slope, Evelyn marvelled at just how far the terrain extended.
+
+In every direction for hundreds of miles all she could see was lush fields and hills, littered with various wildflowers and grasses.
+
+The picturesque view hadn’t brought her back here, however. She opened the local chat and sent an agreed upon message.
+
+Local Chat
+
+Eve: I’m waiting at the entrance, Emperor.
+
+It was pompous and she felt stupid sending it. Even the ridicule from a few of the regular chatters wasn’t enough to upset her though. A glowing portal opened in front of her, and the sight was bittersweet. It reminded her of what she had yet to accomplish.
+
+Today’s arrival was a more joyous occasion, however. Moments after it appeared, a tall man stepped through.
+
+He had shoulder length black hair that fell across his face and curled ever so slightly at the tips. His visage was stern and his deep brown eyes offered little as to what lay within. Even under the half plate armour he sported, bulging muscles could be seen. The man played the part of a stoic hero to perfection.
+
+All that carefully crafted image crumbled when he saw Evelyn. The two sprinted towards each other and he lifted her right off her feet into a bear hug when they met.
+
+“Oh my little menace. You don’t know just how wonderful it is to finally see you again. And just how much you’ve grown. It feels like yesterday I could swing you in my arms and now I’m struggling to lift you into a hug. Then again, the fact you reached this floor before any of us shows just how determined you must have been. I’m sure there’s many stories to share, but I need a shower and a hot meal. Let’s talk as we walk,” said her Father.
+
+As he marched up the hill towards Haven, Evelyn was frozen still. The reunion of father and daughter left an odd taste. Of course she was thrilled to finally see someone she loved face to face. It was a reminder that despite the hardships of the tower there was hope of brighter days ahead.
+
+However, it was weird that it had taken an apocalyptic catastrophe that saw all of humanity uprooted and thrown through the blender to make him utter more than a single sentence to her.
+
+Though it wasn’t at all a bad thing. Evelyn looked forward to a deeper relationship with the stern man who had been more of an ideal to look up to than a parent for most of her life. She rushed to catch up with him and when she did, launched into a gushing tirade of her exploits since the 1st Floor.
+
+For his part, he listened eagerly with a smile on his face as they neared the city walls. He had not named himself Emperor without reason. Evelyn’s father had grand ambitions. He had always been a driven and successful businessman, but the tower provided a new horizon to test his mettle. With his daughter by his side, and perhaps his wife soon - if she could survive the trials of the tower - they would carve out an expansive dominion.
+
+When he laid eyes on the steep walls and grand architecture of Haven he had to suppress the greed from showing on his face. His little menace was surprisingly perceptive and would no doubt pick up on any little hint of emotion he displayed. Rebuilding a relationship with her would come first.
+
+~~~
+
+~ T POV ~
+
+He leaned against one of the towering pillars which encircled the arena of red stone. Like the rest of the 16th Floor, it was rather overt in the hellish theme. Though he wasn’t prone to judging the construction of the tower’s floors, he couldn’t help but cringe when it was this on the nose.
+
+Though he also recognised that might have been the growing annoyance at his own inability to defeat this floor by himself and his lacklustre allies for this particular expedition.
+
+Theobald suspected he wasn’t the only lone wolf who had been stumped at the sheer increase in difficulty from the first fifteen floors to the sixteenth. However, he was more pragmatic than most and had been happy to accept Kyron’s invitation to join this group attempt at defeating the first floor after Haven. Many others had remained stubborn, wanting to clear the challenges solo.
+
+That was a route to disaster and stagnation. Above all else, he had learnt that the only way to remain alive and kicking in the tower was to constantly grow stronger. Or at the very least, smarter.
+
+Like many other people he had met, Theobald missed his old life. His parents had been wealthy. And not just the middle class comfort of owning your own house in an idyllic suburban neighbourhood and going on a few holidays a year wealthy.
+
+No - his mother had been the heiress of Texas’ second largest cattle ranching fortune and his father was among the first to utilise quantum predictive algorithms for his investment firm.
+
+Combined that put them in America’s 0.1% of families, which afforded Theobald a childhood of privilege and abundance.
+
+Which he had enjoyed to the fullest. He had coasted through his education while focusing his efforts on extravagant partying, exorbitant travels and a host of wrecked sports cars, destroyed mansions and other costly debauchery.
+
+Neither of his parents could spare enough time from their own lives to care about him beyond throwing more money at the problem. Which had been fine.
+
+Until he reached his mid twenties and without any real purpose to his life, began to fall into darker habits. The partying went from flashy and chic extravaganzas to drug fuelled and often violent crawls through shady members clubs.
+
+The grand abduction, as some had taken to calling it, had arrived at a significant moment in Theobald’s life.
+
+He had been standing on the ledge of a skyscraper, staring out at the glittering lights of Los Angeles. Being stolen by the tower had made that fateful decision for him.
+
+Rather than let himself fall to the dangers there as one might have expected from someone about to do what he had been, Theobald found himself sucked in by the thrill of progression offered by the mysterious tower and the messages it conjured in thin air.
+
+That had led to him being one of the first to arrive in Haven after beating the 15th Floor, with a trail of bodies and blood behind him.
+
+Most of those who he now fought beside as they took on the first hyper boss of the tower - Dazurmagon the Worldshaker - were a far cry from the stellar challenger that he was. Perhaps only Kyron and Eleanor were a match.
+
+Though Kyron’s strength lay in his alluring charisma and the mass of allies he had gathered rather than any overwhelming power of his own. Eleanor’s abilities were still a mystery to him, and she played her cards close to her chest.
+
+Neither of the two rankers - those who were named on the leaderboard - had acted yet. Even Kyron stood vigil as the rest of the party engaged the fifty metre giant of stone and magma in battle. A few had been sent flying by its heavy stomps.
+
+Thanks to the duration of his stay in Haven, Theobald had accrued just enough essence for the first ascension. He regretted not investing more into the stars before he had lost access to the local shop. His income was only around 150,000 and the combination of waiting and selling whatever meagre drops he could scrape from his forays into the 16th Floor had been agonising.
+
+Now though, all that remained was pushing his class to Lv.15 to reach the threshold. He was excited at what it would mean for him. It was the main reason he had come here with a party. While the allure of a solo clear was addicting, progression was paramount.
+
+He would let the chaff sacrifice themselves to fuel his advance. Whatever happened after could be sorted out through a show of force, if that became necessary.
+
+He hadn’t become one of humanity’s greatest challengers by having a bleeding heart, after all.
+
+In hindsight, the fact he hadn’t even hesitated to kill the man he had faced on the 3rd Floor would’ve had alarm bells ringing in any psychiatrist’s head, but those menial worries no longer mattered in a place like this.
+
+Kyron might have played at being some kind of king, but he was far from a ruler. If you needed to rely on strength in numbers, you had no strength at all.
+
+All he could rely on was his body and his skills. And the magnificent blade he had lucked out in receiving a couple of floors back. It channelled his magic with perfect synergy. Kyron yelled something, but he was too focused on his own reminiscing to care. In the corner of his eye he saw the man rush forth and almost buckle under the weight of the hyper boss’ fist.
+
+His body glowed with the telltale signs of a buffing skill from one of the skinny mages skulking at the back of their party. Shortsighted fools.
+
+Specialising in skills that could only let you clear the tower when you worked with others was idiotic, it seemed to him. Kyron’s body swelled and he roared as a flash of red shattered two of Dazurmagon’s fingers and made the monster reel.
+
+Here, Eleanor deigned to take action. Her mouth moved, though not in any manner familiar to him. He had seen mages speaking while casting their skills. He wondered why.
+
+Theobald had some magical skills of his own and had never needed to whisper to himself in order to activate them. Maybe it was a kind of ritual, or just for luck.
+
+Regardless, he couldn’t fault the effectiveness or ridiculous power that the woman brought to bear.
+
+Once her chants had finished, the very air in the arena cracked like a vast mirror, reflecting the arena and the battle hundreds of times over. Following that, the hyper boss roared and turned its beady eyes onto the woman. It ignored the peons at its feet and stomped towards her.
+
+Eleanor remained unfazed and continued to wave her arms, which saw huge chunks of stone ripped from the beast and dragged into the cracks around them. She finished another chant and the cracks vanished, leaving no trace of their existence.
+
+Then, there was a screech and the boss halted in its stride. The colossal body fell into two clean halves, leaving only a floating orange sphere in the air as a landslide collapsed onto the other members of their party.
+
+Brutal, but it's obvious she cares only for clearing the challenge. Just like me.
+
+However, the core was unaffected and began to writhe and bubble. Lava dripped from it and within thirty seconds the giant had reformed anew. This time however, it had shrunk to less than half its previous size.
+
+Though that change wasn’t the only one. Its flesh burned brighter and hotter than before and Theobald could feel through his mana sense that the hyper boss’ power was much more condensed in its new form. For the first time since their arrival at this platform, he kicked off from the pillar and stretched his arms.
+
+It was time for him to join the fray.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.14
+
+|Attributes|
+
+Power: 21 (22)
+
+Speed: 5
+
+Stamina: 9
+
+Vitality: 26 (31)
+
+Mana: 26
+
+Fortitude: 57 (93)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Galactic Expansion (Unusual), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Salvo (Common), Mana Wielder (Rare), Master of Combat (Rare)
+
+~Active~
+
+Flashfreeze Flamecharge (Rare)
+
+~Hybrid~
+
+Soul of the Unstoppable Conqueror (Unusual)
+
+Essence: 19418965『+1021784 / 5:54:24 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】

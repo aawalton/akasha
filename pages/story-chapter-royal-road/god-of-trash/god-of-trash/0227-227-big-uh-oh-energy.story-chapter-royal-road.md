@@ -1,0 +1,85 @@
+---
+id: 3d0586f4-069f-5769-b6fa-3f8551bbc0b8
+page-type-slug: story-chapter-royal-road
+title: "227. Big Uh Oh Energy"
+slug: 0227-227-big-uh-oh-energy
+partOf: god-of-trash
+position: 227
+ownLength: 1955
+unit: words
+publishedAt: 2025-10-31
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2720890/227-big-uh-oh-energy"
+royalRoadId: "2720890"
+---
+
+Right at that moment, Rhys had two options: create a hoop and vanish into the void, or stand his ground and fight. If he escaped, no one would necessarily know that he’d been here, though it was very possible they’d sensed him the moment he’d sensed them. If he stood his ground, then he’d be able to ask whoever arrived what was going on, and try to wiggle some more information out of them.
+
+He reached out again, investigating their tier, then shrugged. Tier 3s. I can take ‘em. Worst case, I learn nothing, and add two more notches to my bedpost. Or whatever it was people did when they killed other people. He had a sinking feeling that notches on bedposts probably indicated a different kind of body count, but it was too late to unthink that thought now.
+
+Two? Maybe it’s three, he considered, investigating the signatures again. Still a doable number. It was strangely hard to separate them. He raised his brows. There was more than one way to gain information. If these people had the same strange cultivation thing going on that the energy smears did, he could start figuring out what was going on with the energy that’d been left behind, and he’d be able to learn more from the battlefield.
+
+Though, actually… He kicked off the ground and fled, leaving the battlefield behind him. He didn’t want to dirty the left-behind mana from the Sword Saint’s battle with a new fight. There were almost certainly still hints left behind that he hadn’t figured out yet, but if he had a new fight here, he’d be fighting through the mana he left behind to see whatever remained of the Sword Saint’s battle. Better to relocate a bit, so that the battlefield would be left undisturbed.
+
+“Fleeing, little rat?” a male voice called from afar.
+
+Rhys didn’t trust himself not to answer sarcastically, so he kept his mouth shut and kept running. He had to take care not to run too fast. Trash Step wanted to activate on the snow up here—it was melted in patches and deep and loose in others, making it hard to navigate, and therefore a target for Trash Step—and on top of that, he had to take care to only use the speed of his repressed original core, rather than the trash star or his unsupressed core. Faking a lower power level than his actual power level was harder than he thought. Or at least more annoying.
+
+He leaped over fallen logs and around snow-covered bushes. Up ahead, a frozen waterfall loomed, composed of a thousand icicles all melding and melting into one another. He leaped from frozen prominence to frozen prominence, using Trash Step to its full power to keep the slick ice from slipping out from under him. He landed at the top in a puff of fresh-powder-on-ice and raced out to the center of the massive frozen lake atop the waterfall.
+
+There were no traces of mana out in the center of the lake, nor any trees or bushes to impede their battle. The surface of the lake itself was slippery, which meant he could rely on Trash Step as long as he remained up here. He drew out his poison sword and waited for his adversaries to arrive.
+
+Two large frames appeared, leaping over the frozen waterfall. Instantly, Rhys could sense why his read on two versus three had been off. One of the two had a stable cultivation like he was used to, but the other gave off strange, unstable fluctuations. Their power wobbled between low and high Tier 3, and the… flavor? variant? of their mana changed, too, sometimes icy cold, sometimes flaming hot. He looked at the man and could see he was one mage, but if he’d been at a distance, or had only been able to see his mana fluctuations—as was the case in the fight scene he'd been playing forensics at earlier—he would’ve been hard-pressed to identify them as one single mage with two entirely opposed mana signatures.
+
+Is that common around here? That might be what was going on with that signature I saw in the fight, he noted. The Empire had traded around cores, so maybe the northern region, likewise, had some other strange technique it liked to use different from the region he was used to.
+
+He pointed his sword at the two of them, and they drew their weapons. The one with a steady signature, a woman with a muscular frame, pulled out a war hammer almost as large as her. The other, with the unsteady signature, pulled out a pair of matched chakrams, one with flame-like blades dancing out from the circular shape of the weapon, the other with spiky snowflake-like spires.
+
+“Burn, baby,” Rhys muttered under his breath. “Or… ice, ice, baby…?”
+
+“Why are you poking your nose where it doesn’t belong?” the woman asked.
+
+He jabbed his finger accusatorily at her. “Why are you interfering with my forensic investigation? I haven’t even come up with the motive of ‘sexual impotence’ yet, and everyone knows that’s the first step in any forensic investigation!”
+
+Her brows furrowed in confusion.
+
+“Is he insane?” the man with the chakrams asked with a glance at the woman.
+
+“Just because you don’t get it, doesn’t mean I’m crazy. If you think about it, it just means you’re uncultured.” Not watching too many crime procedurals? Red flag, in Rhys’s opinion. Crime procedurals were one of television’s great traditions, whether they focused on forensics, the court, or even the executing of the crime and the covering up of evidence. No matter who you were, what age or demographic, there was a crime procedural that appealed to you. And, for some reason, no matter what show it was or what the crime was, ‘sexual impotence’ was always brought up at least once a season, if not once an episode.
+
+Crime procedurals, with their predictable and repetitive plots and cheap thrills, were one of the more traditional, aka normie, forms of trash media, but that didn’t make them not top tier trash. He’d watched many in his time, and he wasn’t sure he could say, with confidence, which characters or plotlines belonged to which title. They all kind of blurred together… which, honestly, was a marker of any great trash genre.
+
+He hadn’t thought he’d get to partake in this particular trash genre in a world of mages and battles, but life was a mysterious and winding thing! Many things could happen that one didn’t expect. Even things that couldn’t be foretold at all, like him crossdressing as a girl and accidentally picking up a male admirer who was probably his most serious suitor…
+
+Except for… maybe, Mouse, dare I guess? Not that women have ever looked my way, but maybe… she might be receptive, or something?
+
+Mouse was a whole other can of worms. He didn’t know where she was, or what had happened to her—or Sable, or Lira, for that matter—but while Az had assured him that they weren’t in immediate danger indirectly, he had suggested that Rhys might be in danger from Mouse… or something like that. He couldn’t remember the exact wording, but he remembered being vaguely concerned about what Az had said. The cat man always said exactly as much as he wanted to, and no more, but he really would’ve appreciated a little more information.
+
+There was a sudden, long silence, and Rhys blinked at his opponents, then realized they had pointed their weapons at him in a sort of final, declarative way. He looked from one to the other. “Sorry, I got lost in my thoughts for a minute there. What did you say?”
+
+“Underestimating us!” The woman charged, whirling her war hammer as she crossed the ice.
+
+“No, no, no, wait, I’m so sorry, let’s run that back. I want to keep talking. Please?” Rhys said, darting backward in equal speed to the woman’s charge.
+
+The man stepped back. His mana flared hot, and he loosed the first chakram in a blaze of fire, and then it froze over, and he threw the second in a flurry of ice crystals. Rhys dodged the flaming chakram, and it struck the ice and sizzled right through, plunging into the water below, while the icy chakram he backhanded away. It landed to his opposite side and sent up a pillar of ice where it landed. His hand ached. Rhys turned in time to watch ice surge up his arm to the elbow. All sensation below the wrist ceased, and even his mana slowed within the frozen part of his arm. He slowed, startled, and stared at his hand.
+
+Damn. That guy is no joke!
+
+Distracted by the man with the chakrams, he slowed down a few steps, and the woman with the war hammer caught up to him. She smashed it down at his head. Rhys swayed backward, the hammer passing by so close that it took a layer of skin off his nose, and the hammer smashed through the ice and shattered straight through to the lake below, sending up a geyser of freezing water directly in Rhys’s face. Icy cold water soaked him, and even though he didn’t need to regulate his temperature at this level of cold any longer, the ice cold robes soaking to his every contour were far from comfortable. He slashed back. The woman blocked with the long shaft of her hammer, and Rhys grinned. His sword snaked around the shaft and sliced the woman on the arm.
+
+Her skin blackened and withered as poison and impurities surged through her veins. That’s it, then, Rhys thought, a little reluctantly. He’d hoped he could chat with her a little longer, but it seemed like fate was not in his favor—
+
+She swapped her hammer to her injured hand and drew a knife, then slashed her own arm, cutting out the poisoned piece of flesh before it could spread any further. Rhys raised his brows and had to resist the urge to applaud, impressed by her resolve. It took serious guts to recognize the issue, then immediately and forcefully triage the damage. If she was wrong, she’d just injured herself for no reason. Of course, she wasn’t, so he could only stare in amazement at her grit.
+
+“Hardcore,” he said appreciatively.
+
+She narrowed her eyes at him. “Mocking me, even now?”
+
+“No, no. Hey, do you want to keep talking? Listen, I don’t even know what I’m supposedly sticking my nose in. You guys just attacked me out of nowhere without so much as an introduction. Are you sure you don’t want to talk it out a little bit before we get down to killing?”
+
+The woman slowed. “You… don’t know why we’re attacking you?”
+
+“He’s bluffing! Don’t listen to him!” the man shouted.
+
+The ice cracked behind Rhys. A blaze of heat hurtled toward him from behind. If not for his recent expansion of his mana senses, he would’ve struggled to see it coming, but it had been deeply obvious to him this whole time. That, and the man’s aura was fiery once more, a sure sign he was using the fire chakram. He hopped into the air—or tried to. The ice gave way beneath him, and instead of soaring over the chakram, he plunged into icy water, then was slammed from behind with a burning-hot wheel of metal. The wheel spun into his spine, chewing up his flesh with the ridged edges of the weapon. Boiling hot water invaded his body, then was chased down by freezing cold water, leaving him feeling feverish.
+
+Rhys gritted his teeth. I can’t play around any longer. It’s time to get serious.

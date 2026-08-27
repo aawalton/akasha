@@ -1,0 +1,199 @@
+---
+id: cc6d47b2-f541-5694-b0f0-4c543ee58367
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39 - Monster"
+slug: 0039-chapter-39-monster
+partOf: hell-horizon-healer
+position: 39
+ownLength: 1670
+unit: words
+publishedAt: 2026-08-12
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3805419/chapter-39-monster"
+royalRoadId: "3805419"
+---
+
+Mana Control leaped up by a staggering 18%.
+
+[Mana Control Milestone Reached: 25% Mastery]
+
+[Skill Evolved: Mana Control (Lvl 2)]
+
+Effect: Reduces the mental strain of channeling mana through muscle tissue. Provides a +15% bonus to physical Strength during active mana amplification.
+
+Jake tried it right away, integrating the mana through his muscles. It felt a little easier to control now, and because of it, the fatigue on his muscles had eased considerably.
+
+But he stopped sooner than he’d liked. His body was a mess, and although he had somewhat learned how to ease breakages in bones by utilising Tension through his muscles, the damage was still significant.
+
+Every physical attack he used resulted in destroying his fist, or bone somewhere else depending on the strike.
+
+If it isn’t the consequences of your own actions, Jake, He thought, his lips curling into a small, weak smile.
+
+It turns out that purposefully ignoring Vitality had left his body weak and brittle and the only way to counter-act it was to have even stronger heals, or support his bones through Tension mastery.
+
+He knew the predicament he was in, he knew the condition of his own body more than anyone thanks to his absurd Perception.
+
+He felt the hairline fractures all throughout his arm and hand, and if he didn’t get a grip on it quickly, he’d turn his bones to dust in the next fight. At that point, no amount of healing could fix it.
+
+And what was that thing with his eye back when he fought with Edwin? Even now he had completely lost vision in his right eye. Something had gone very wrong, but he didn’t know what it was.
+
+The only shred of evidence was the violent surge in mana within him, threatening to erase Edwin entirely. Was it the makings of a new Skill, or was it just his mana going haywire?
+
+He would have to seriously find out what it was just in case it happened again.
+
+If there was one thing he hated, it was surprises.
+
+It was going to be a long night.
+
+Arthur was huddled in the corner with his shield tightly held in front of him. No one bothered to check up on him. Jake didn’t blame them. His cowardice had resulted in Susan almost losing her life, of which she remained in critical condition.
+
+He stared at the widow for a moment. He tapped the floor for a while, debating his next course of action.
+
+Monster. Monster. Monster.
+
+He’d heard that label three times now. At first, Jake was confused. Monster? He was human. He bled red just like everyone else did.
+
+Yes, his way of thinking was different; always was.
+
+He was aware of it.
+
+It was a label, he was certain, that was used in a negative connotation. Lyle’s fear when he looked at him, Edwin’s apprehension and Chloe’s… Well, he never knew what she was thinking.
+
+It was a label he was starting to believe wasn’t actually a bad thing. Not in this world, anyway.
+
+So then what am I hesitating for?
+
+Jake picked himself up off the floor, and dragged himself over to where Susan lay. Lyle rested by her side, his eyes knit into a frown. No doubt he was wondering what he could do to help her.
+
+His frown only deepened when Jake approached.
+
+Only one of Susan’s eyes lethargically blinked.
+
+“I thought your healing didn’t do anything?” Lyle cradled his stump.
+
+Jake ignored him and tightly grabbed Susan’s thigh where her leg’s tibia had snapped. Susan’s eye popped open and a scream of agony crawled out of her throat.
+
+Lyle pushed his collar. “What are you doing!”
+
+His eyes remained on Susan. “I could do it on myself, but I think I would die in the process. At the very least I would render my arm forever useless.”
+
+“Do what?” Lyle’s grip tightened.
+
+At this point, everyone was looking at them now.
+
+“I need to push Minor Heal into the next stage,” Jake said. “To do that, I need a guinea pig that is already broken and about to die.”
+
+Sloane limped forwards. “Jake…”
+
+“Jake,” Lyle fumed. “I’m warning you.”
+
+“Susan is going to die anyway,” he said without a change in expression. “Her last breaths could help me understand my skill better.”
+
+Lyle raised his voice. “Could?”
+
+Jake nodded. “No amount of my current healing will help Susan as she is right now. She’s too far gone. And I can't do this on myself.”
+
+“Why the hell not?” Lyle spat. “You've got a broken arm right there.”
+
+“Because of my Perception,” Jake said. “To raise mastery in a skill, I have to experiment with it. I will have to flood the wound, change the energy flow, and force the bones to snap back into place. If I do that to my own body, the pain will most likely knock me unconscious. My brain will shut down before the skill can change.”
+
+He looked down at Susan’s pale face.
+
+“But Susan… Her body is already failing. I can push the magic past its safety limits inside her, watch how her flesh reacts, and figure out what I need in order to evolve Minor Heal.”
+
+Jake tightened his grip on her snapped leg.
+
+He felt Susan’s pulse throb from the pain.
+
+He looked up at Lyle, eyes cold. “I need a test subject.”
+
+Arthur trembled behind his shield. Sloane didn’t know what to do. Even Chloe who was relishing in the festering emotions in the cramped room, stilled.
+
+Edwin and his cronies mumbled something about how Jake was batshit crazy and to stay away.
+
+Hanna didn’t know what to do. She just stared with hazy eyes, like she was barely listening to what was going on.
+
+The hero stumbled back. “You can’t be serious,” He muttered, hand on his axe. “I won’t let you, Jake. This isn’t right. This isn’t—”
+
+“Do… It,” Susan said from the floor, her voice barely a whisper. “If it… helps… do… it.”
+
+“You may die,” Jake said plainly.
+
+“Not… if you… succeed.”
+
+“I’ve not succeeded much in life, Susan.”
+
+“Now… it’s… different… isn’t it? This new… life… is… yours…”
+
+The last of her words echoed into a jumbled mess as her eyes grew heavier. Jake pressed deeper into her leg and activated Minor Heal. The woman took a new breath and screamed, her voice bouncing off the walls.
+
+Monsters replied, punching and scraping at the door and walls just outside.
+
+Jake pushed the mana further. He gathered a dense knot of energy in his palm and shoved it violently into the fracture.
+
+Susan’s body convulsed. Her head slammed against the stone floor, her single open eye rolling back until only the white showed.
+
+Inside her leg, the raw magic acted like a hammer. Jake closed his eyes, using his high Perception and Tension to map the internal terrain of her thigh. He could see the jagged shards of her tibia floating in a pool of shredded muscle and dark blood.
+
+Perception +1
+
+Oh cool. Let’s keep going.
+
+He forced the mana to wrap around the largest bone fragment. Then, he yanked it.
+
+A sickening crunch echoed through the room.
+
+Minor Heal Mastery increased by 8%
+
+Lyle lunged forward with a roar, but Edwin rushed and grabbed him by the collar of his jacket, dragging him back. "Don't," the old soldier growled, his voice trembling. "This is what she wants.”
+
+Jake ignored them all.
+
+The screams from outside the door were growing louder, a frenzied rhythm of claws tearing at the iron plate, matching the frantic rhythm of his own heart.
+
+He entered Meditation, delving into Concentration, Focus, and Controlled Breathing that made up the Skill.
+
+Everything else faded from existence.
+
+Now it was just Jake and Susan.
+
+He moved to the next fragment. Larger, lodged deep against a muscle belly that had swollen tight around it like a fist closing.
+
+He pushed more mana into the tissue to loosen it, then worked the piece back slowly, learning the tolerances as he went—how much pressure made the tissue reject the energy entirely, how little accomplished nothing at all.
+
+The skill was showing him things the description had never mentioned.
+
+Bone responded differently to mana than muscle did. Slower. More resistant. It needed to be coaxed rather than pushed, held at a certain temperature of energy for longer than felt productive before it would move.
+
+Perception +1
+
+Minor Heal Mastery increased by 9%
+
+At some point Susan stopped screaming, which wasn't better. Her breathing had dropped to something shallow and her pulse under his fingers had gone thin and unsteady, losing its rhythm.
+
+He worked through her ribs next. Three broken, one shifted inward toward her lung. He spent longer on that one than all the others combined, the inward fragment resistant in a way the leg bones hadn't been, the surrounding tissue too compressed to soften easily.
+
+Mana drained and refilled through Meditation without him needing to consciously manage it, the loop running beneath everything else like a second heartbeat.
+
+Minor Heal Mastery increased by 15%
+
+Then her pulse stopped.
+
+Susan went entirely limp. Her jaw remained unhinged, but the air stopped moving through her throat.
+
+Jake blinked, his Perception zooming in on her chest.
+
+Nothing.
+
+The erratic, frantic thumping of her heart had vanished. The pulse beneath his fingers on her thigh died instantly.
+
+"Jake," Sloane whispered, her voice cracking in the dark. "Jake, stop. She's dead."
+
+Hanna froze as water filled the corners of her eyes. Her knuckles had long turned white as she deformed the plush of Pom in her grip.
+
+The room grew suffocatingly cold. Nobody moved. Lyle fell to his knees, his face buried in his single hand, his shoulders shaking in silence. Behind his shield, Arthur let out a pathetic whimpering sound.
+
+Even the monsters outside seemed to quiet down, sensing the sudden absence of life through the steel door.
+
+Jake sat there, his hand still buried in the bloody ruins of Susan's leg.
+
+Dead?

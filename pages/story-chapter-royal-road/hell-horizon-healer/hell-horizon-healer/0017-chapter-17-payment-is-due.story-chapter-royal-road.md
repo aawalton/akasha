@@ -1,0 +1,167 @@
+---
+id: 6c143a71-8999-5687-9908-dfff36ef2e3e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17 - Payment is Due"
+slug: 0017-chapter-17-payment-is-due
+partOf: hell-horizon-healer
+position: 17
+ownLength: 1513
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3543917/chapter-17-payment-is-due"
+royalRoadId: "3543917"
+---
+
+Edwin let the log drop.
+
+The rope snapped taut, the twine going rigid for a half-second before the enormous log swung down from the canopy in a wide, brutal arc.
+
+It hit the front rank of goblins like a wrecking ball, the wet crack of impact rolling out across the tree line. Four of them disappeared under the swing. Two more were caught on the rebound, tumbling sideways into the undergrowth with high, shrieking yelps.
+
+Jake was already moving before the echo died.
+
+He had mapped the clearing in the three hours before nightfall—every root, every depression in the soil, every gap between the trees wide enough for a goblin to sprint through. Edwin had dug two shallow pits and covered them with woven grass. Sloane had strung a second tripwire across the eastern approach at ankle height. Jake had done nothing except stand at the waterfall and count the trees until the layout was burned into his nervous system.
+
+Now he used it.
+
+He broke left, drawing two goblins away from Arthur's flank.
+
+They were smaller than the cave ambush squad, faster, carrying short bone-handled knives rather than clubs.
+
+He let them get close enough to commit to their angle, then cut hard right around a thick pine trunk.
+
+The leading goblin over-corrected, its momentum carrying it past him.
+
+Jake swung Gutter-Tooth in a short, controlled arc, the scythe blade catching it across the back of the knee.
+
+Tendons parted. It went down face-first into the root system with a sound like a wet slap.
+
+The second one stopped short, wary now.
+
+Smart, Jake noted, keeping his weight balanced. Don't give it time to be smart.
+
+He snapped the chain forward in a direct throw. The weighted end cracked against the goblin's temple. It sat down hard, blinking, and he closed the distance and drove the heel of his boot into its throat.
+
+Behind him, the log had finished swinging. Edwin was already at work on the left flank, his combat knife moving in short, economical strokes. The man never wasted movement. Every cut was placed where it ended things quickly.
+
+Glenn had managed to fix the string of his bow. An arrow from him sailed past Jake's ear and pinned a goblin to a tree by its shoulder. The creature thrashed, ripping itself free with an awful tearing sound, and turned to find Sloane already there, her sword taking it cleanly across the collarbone.
+
+She was getting better. The form was still rough, but the hesitation was gone.
+
+Another, larger goblin broke out from the bushes. Jake had heard it, and already had turned to face it.
+
+“Duck!”
+
+Jake moved without thinking, worrying about a razor-toothed snapping duck at his ankles for some reason, only for a blade of wind to leave Sloane’s sword. It left a huge wound across its body. It stopped, stunned.
+
+Jake killed it with a swing of his scythe across its throat.
+
+“What the hell was that?” he asked.
+
+“You’re not the only one that has learned a trick or two!”
+
+Edwin's traps carved off half of them before the fight even started, Jake calculated, scanning the clearing. We started with roughly twenty. Twelve, maybe thirteen left.
+
+Arthur was holding the center, his shield up, one of the larger goblins hammering at his barrier with a crude iron mace. Each strike crumbled a thin layer of mana off the surface of the kite shield like flaking paint. The barrier wouldn't last indefinitely.
+
+He's going to figure that out when it's too late.
+
+Jake retrieved his chain and circled wide, keeping out of Arthur's sightline. He targeted the goblin at Arthur's back—the one the big man hadn't spotted yet—and threw Gutter-Tooth in the long arc he'd spent twelve hours learning at the waterfall. The tension left his grip at exactly the right point. The blade bit into the back of the goblin's neck and it dropped without a sound.
+
+Gutter-Tooth's passive effect pulsed, the faint glow spreading up the chain to his palm.
+
+He turned the boosted Minor Heal inward immediately, pressing it into the deep bruising along his left arm. It didn't do much about the break, but it eased the pain somewhat.
+
+Good enough.
+
+Susan had found the largest goblin in the group—of course she had—and was in the middle of what could generously be called a fight and more accurately called a hate crime. The goblin was a head taller than her, thick-armed, with a notched cleaver of its own. It should have been an even match.
+
+Susan attacked like an animal.
+
+The goblin got two swings in. Then she was inside its guard and the situation changed entirely. Jake watched long enough to confirm she didn't need help, then moved on.
+
+The clearing was thinning.
+
+Then Glenn shouted.
+
+"One's running!"
+
+Jake's head snapped east. A single goblin, smaller than the rest, was sprinting for the tree line on a diagonal, crouched low, its arms pumping hard. It ran, following a line through the undergrowth like it knew exactly where it was going.
+
+A scout, Jake realized. Or a messenger.
+
+"Let it go," Edwin said sharply from across the clearing. He drove his knife down, finishing the goblin under his knee, then stood and wiped the blade on the grass. "We follow it."
+
+Jake was already on the chase.
+
+He moved at a measured pace just inside the tree line, keeping the sound of the goblin's footsteps in range without closing the gap. His Perception mapped the undergrowth ahead in real time—the shift of disturbed leaves ten meters out, the crack of a twig at thirty, the faint, sour body odour hanging in the still air like a trail marker.
+
+The others caught up.
+
+Edwin fell in beside him without a word, reading the situation instantly.
+
+Sloane appeared on his right, her breathing controlled now, her sword resheathed.
+
+Glenn and Chloe jogged up behind them, wheezing.
+
+Susan left a trail of blood behind her, but she was still standing.
+
+Lyle was last, one hand pressed to his ribs.
+
+All present. Good.
+
+“Are we really doing this?” Sloane asked, ducking underneath a low hanging branch.
+
+“It’s the best time for it,” said Edwin, jumping over a felled log. “The chief won’t expect us to attack so suddenly. We return their ambush in kind.”
+
+“That’s if the chief is there,” Chloe added, running alongside them. “What if it’s just another goblin party?”
+
+“Regardless,” Jake raised his voice over the sound of branches snapping, twigs breaking. “We need to kill them.”
+
+Jake glanced at Lyle. The wound was holding. The man looked terrible, but his eyes were focused.
+
+The goblin moved fast, but not carefully. Branches snapped. Leaves scattered. It was too panicked to cover its trail. Jake followed the noise like a wire, adjusting his angle when the sound shifted, slowing when the footsteps slowed.
+
+After four minutes, the footsteps stopped.
+
+Jake raised a fist. Everyone froze.
+
+He used Concentration, locking the world down to a single narrow channel. The waterfall faded. The wind faded. The sound of Glenn's labored breathing faded. He listened for the goblin.
+
+There. A low, chittering noise—the sound of the creature speaking, its voice pitched into a fast, guttural rhythm. And beneath it, something else. A deeper sound, slow and resonant, like a large fire being suppressed under wet wood.
+
+Jake stepped forward, parting a thick curtain of hanging moss with one hand.
+
+The hillside opened up.
+
+A wide limestone bluff rose out of the forest floor, draped in creeping vine and dark with moisture. At its base, carved wide enough for three men to walk abreast, was the entrance to a cave. Firelight bled out from inside, painting the rock orange and red. Crude skull totems flanked the entrance—animal skulls, mostly, though Jake counted two that were not animal.
+
+The scout goblin was already inside, its silhouette shrinking into the dark.
+
+Around the entrance, four sentries stood with short spears. They were bigger than the ones from the clearing. One of them had the same stubby horn-growth jutting from its forehead that the large skulker from the flooded corridor had worn.
+
+Jake studied the entrance.
+
+The chief is in there.
+
+He could smell it---danger.
+
+He stepped back behind the moss curtain and turned to the group. Edwin's eyes were already doing the same math Jake was doing. Sloane was scanning the sentry positions. Lyle was staring at the skulls.
+
+Glenn looked like he was going to be sick. Chloe… Jake didn’t know what she was thinking.
+
+"Two ranged on the sentries," Edwin said quietly, his voice barely above a breath. "Simultaneous shots. Before they can call inside. Glenn, Jake, you have to be quick."
+
+Jake nodded once.
+
+Four sentries. A cave of unknown depth. A chieftain of unknown strength.
+
+He checked his mana container. He had enough for two heals.
+
+His arm still ached where the bone had set wrong.
+
+He pulled Gutter-Tooth from soul storage, the chain settling cold and heavy against his palm.
+
+Not enough, he thought. It's never enough.
+
+He stepped back to the moss curtain anyway.

@@ -1,0 +1,317 @@
+---
+id: fb4668e1-a7d9-5b6c-999d-c27d3ffb6baa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56"
+slug: 0056-chapter-56
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 56
+ownLength: 3289
+unit: words
+publishedAt: 2026-06-20
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3568015/chapter-56"
+royalRoadId: "3568015"
+---
+
+Chapter 56
+
+Veron sat up and stretched his neck and shoulders. He felt a bit groggy but didn’t think he could sleep any longer. Putting on the pieces of armor he’d taken off, Veron got his things, and quietly made his way out of the sleeping hall.
+
+Out in the common room, it was a little brighter, but mainly due to the lamps on the walls. Outside, it looked like very early morning.
+
+But I must’ve gone to bed at four or five yesterday. So I slept more than twelve hours. Guess I needed it.
+
+Veron looked at his arm and moved it slightly. It was perfectly healed.
+
+Crazy. And I assume it’ll only get less exhausting the higher I level my Path.
+
+Some few adventurers were already up, or still up.
+
+Veron felt hungry, but he also felt like a bath would do him well, so he went for that first. Once he’d cleaned himself, he cleaned his armor and his gear, then went on to breakfast.
+
+I have the morning to myself then. A walk and working on my magic sounds like a good idea. I don’t feel like drills or working out. Not after all those fights yesterday.
+
+The one day in, one day off felt like a good set up, once he could afford it. Maybe he already could, depending on how much they could get for the rusty swords and axes Isaac had hauled out from the depths.
+
+Veron didn’t want to stay in the common hall of the Willard inn, so once he was done with breakfast, he went outside.
+
+The sky was clear, the sun yet to reach even the peaks of the three mountains that surrounded Anvakar. Veron went east and towards the closest one, maybe called to it due to his Harmony or to get away a little from the bustling hub of adventurers.
+
+That went pretty well yesterday, all things considered.
+
+And I’m looking forward to go into the Crypts again already.
+
+He thought about what the coming months could bring. Last time, the King of Felrak had died and that sparked a war with Sor. Was that something else he could figure out? Certainly not the way he was now, but in the future?
+
+Something changed about the behavior of the monsters in the dungeon too. That’s why the Cayaralan attacked us in the Gutter, which led to Silvie losing her arm. Then the Herasar.
+
+It does feel very strange now, looking at all that. And the curse. Envolon has to have some goal in all this, and the time magic has to be related.
+
+But I could just be trying to find order in a bunch of random shit.
+
+And either way, all of that is way too big for a Modest Path. So for now, it’s the Crypts for me.
+
+Veron walked higher this time, following the paths leading up the mountainside. There were fancy houses here, and even some official looking structures that looked more utilitarian in make.
+
+The eastern mountain was the least steep of the three, at least looking at it from the direction of the city. Veron found a small park on a plateau after walking for somewhere around half an hour. It looked public, though there was nobody here.
+
+He breathed in deep and sighed, looking at the trees and winding gravel paths. Flowers and shrubbery grew around the trunks, yellow, white, and purple. Someone took good care of this place.
+
+He found an open spot of grass with a view of the other two mountains and sat down. The foliage blocked his view of the city, and for right now, he very much enjoyed that.
+
+First, Veron checked his gear. He connected to his knives and sharpened them with his shaping, then he fixed the small missing bits on his mace, and the hole in his shield. He smiled as he looked at the cut in his helmet, right where the blood whip of the beast had struck it. He fixed that too, then added a few more rocks to his bracer to get it back to the desired thickness.
+
+Shaping has become a lot less straining. More Focus from my Path, and a higher level in my Harmony, but at the same time, I feel like I myself have gotten better at it. Probably all of it working together.
+
+He lay down on his back and looked up at the leaves.
+
+What would you think of all this, Charlotte? And what would Ian say, if I told him about Envolon, and about going back in time. I’ll have to convince Ivera at some point, to connect with them again. I think it would be nice, to stay there for a few weeks when I come back.
+
+He smiled and shook his head. To convince that stubborn woman, I’ll have to be as strong as her, I bet.
+
+Well, one thing at a time.
+
+Veron could still see the mountains in his periphery. The tip of the western one was now cast in golden light. He blinked his eyes, now seeing the castle again that stood on it.
+
+And I want to visit that place. I wonder what it even is.
+
+The castle was both obviously visible above Anvakar and yet it was far enough away and small enough not to seem imposing.
+
+I’ll ask Ailis about it.
+
+But this park is a pretty nice find too.
+
+He got out one of his blades and looked at it, then he felt the winds and connected to them, moving the flows until he had them condensed around his weapon.
+
+It almost felt disrespectful, to try and empower his stone blade with the winds. Not because of the purpose itself, but because he felt like wind was so much more. Rocks, the earth, it was grounding, and it made sense to him, to make armor from it, tools, and weapons. But the wind? That felt a lot less graspable. Maybe that was it. The always moving, flowing, and ever changing nature of it. Forcing it close and around his weapons just didn’t feel right. And yet while he very much enjoyed guiding the winds around himself, he wanted to have more practical uses for his second Harmony as well.
+
+When his Focus ran out, Veron instead found a nearby tree, hung his shield on a branch, and then started throwing his knives at it. Mostly just to have some fun. It might even become a practical skill with enough time.
+
+I should also look for a library of sorts. Maybe the Guild has one. Not that my reading skills are all that great with Lavirian.
+
+Veron alternated between moving the winds and throwing knives, feeling like he was getting a tiny bit better at both.
+
+His Wind Harmony didn’t improve in terms of level, but he felt more connected to the element when he started making his way back down into the city, as if he’d spent time with an old friend he cared for deeply, gaining a little bit more insight into their nature, past, and present. The city was almost fully sunlit by now, and Veron soon found out that it was just past noon.
+
+He strolled through the streets with all of his belongings on his back or strapped to his armor, connecting to the winds whenever he felt his Focus had moved past the halfway point. There was no sure way to tell, but more and more, Veron felt some sort of intuition about it, similar to his sense of time. He knew it wouldn’t be exactly accurate, but he could make a pretty good guess.
+
+Soon, Veron reached the stores of Main Street, checking past the proud shop windows displaying all kinds of glittering and what felt like overdesigned gear. There were simpler designs too here and there, though he had no idea as to their quality or the magic within.
+
+I can’t wait to try out a bunch of relics and enchanted weapons.
+
+He reached the stone steps leading up to the Guild some half an hour after noon, finding a spot nearby that overlooked a part of the Stone Circles below, and then he waited, watching the passing people.
+
+It was Elke who showed up first, giving him a slight nod before she joined his side. She wore the same furs she’d worn the day prior. They didn’t smell rancid but there were some spots where it seemed like she couldn’t fully get out the blood.
+
+“Hi. Did you sleep well?” he asked.
+
+She shrugged slightly.
+
+“I’m glad to hear that.”
+
+She gave him a look.
+
+“I should shut up, you’re right of course.”
+
+She shook her head, then smiled ever so slightly.
+
+They were quiet for some time, until she spoke up.
+
+“Is your arm better?”
+
+“Yeah. Good as new.” Veron paused and looked at it. “Healing magic really is something else. I would’ve been out for weeks or even months without it. And who knows if I’d even been able to use my arm again the same way as before.”
+
+“There are always scars.”
+
+“Except with healing, and extracting.”
+
+“They are still there,” Elke said and pointed to her brow. “Memories that come with fear and hesitation. But their impact is perhaps smaller in the long term, who knows.”
+
+“Yeah.” Veron wondered about that. Both could be really shit.
+
+She nodded to the right and he followed her gaze, seeing a waving Isaac. He wore the same broad clothing he’d worn at their first meeting, instead of the leather armor in the dungeon. Now that Veron was more aware of it, he’d spotted people wearing similar fashion here and there. Perhaps it was more common in Sor.
+
+Isaac also carried the swords and axes they had recovered from the Crypts. “Good day, people,” he said, then sighed. “I’ve got to say, it feels good to be part of a team.”
+
+“See, he slept super well,” Veron said, looking at Elke.
+
+“I did,” Isaac said. “Though I did have a dream where I ran away from a blood beast. And a bunch of rolling boulders. Who knows what that was about.”
+
+“Premonition?” Veron asked.
+
+“I hope not. But then, we are going back into the Crypts, so it’s probably just a matter of time. We’ve not come across any traps yesterday, and maybe that scares me a little too.”
+
+“We will find what we will find,” Elke said.
+
+“Yes, you’re right. I shouldn’t worry too much,” Isaac said.
+
+“And there’s our fourth,” Veron said when he spotted the slightly jogging Ailis.
+
+She saw them and slowed, briefly checked her hair, and then joined them. “Sorry for the delay. There was a lot going on at the station. So, where to?”
+
+“Isaac’s the guide,” Veron said. “Or should we sell the loot and split our earnings first?”
+
+“I’d prefer that,” Elke said.
+
+“Sure. Then we go to the shop you mentioned?”
+
+“Parker’s Iron Shop. I work there sometimes. Sonny should give me a fair price, though as I said, what we found isn’t worth all that much. If nobody knows a better place?”
+
+“I know places, but none where we would have any favor with the buyers,” Ailis said. “Not for weapons at least.”
+
+“Let’s go to Parker’s then,” Veron said.
+
+Elke led them there, past the Circles and into the district known as the Shops, north of the Adevian Fort. It was louder here, hotter, and smelled of various metals, smoke, and intense smells that Veron couldn’t place. He saw plenty of smithies, alchemist shops, businesses buying, selling, or making vessels and enchanted items. There were adventurers haggling, arguing amongst each other, or excitedly trying out some newly bought item.
+
+The soot marks, cracks, and damage he saw on the various houses and even the sometimes smooth and sometimes cobbled streets didn’t surprise him at all, and he also just found out where he might be able to find work as an Earth Elemental. At least if anyone here even had an interest in repairs.
+
+It wasn’t a long walk from the Guild stairs to Parker’s Iron Shop. The place had an open store front that reminded him of a large garage, only that instead of a car or mechanic setup, there were a few sets of plate armor propped up, various workbenches, rows and crates of tools, and several shelves full of any kind of item, from swords to spears to buckets and brooms, all spilling out a few meters into the street. Either Parker sold everything, or he was a little bit of a hoarder.
+
+The shop was on the ground floor of a three story building that was painted red. The roof was flat as far as Veron could tell, and a chimney sent out dark smoke into the mix of smoke coming from all the other chimneys in the vicinity. A few of the windows upstairs were open, and the smell of cooking mixed here with that of hot metal.
+
+As they approached the shop, Veron could spot a large and bald man listening to a smaller man waving around his hands.
+
+“Listen Crag,” the bald one said. He wore a leather apron so large it could be used as a tent for four. “You’re selling me raw iron from the Crypts, not some legendary relics. Check with the smithies around and then come back to me. I know the current price.”
+
+The small man muttered something and then left, hoisting a heavy pack onto his back. He didn’t look at the group as he passed by.
+
+Did he mine iron in the Crypts?
+
+Perhaps it would be safer than facing monsters, though Veron wondered which was harder in the end.
+
+The large man glanced their way and approached. He smiled and waved them over. “Elke! Good to see you. And you brought friends?”
+
+“This is my team,” Elke said. “We’re here to sell swords and axes.”
+
+“Sure. Good to meet all of you, come on in, have a look around, see if you find anything interesting. Oh, an Earth Elemental, tricky to sell you anything, hah!”
+
+Ailis smiled and went in, walking along the shelves and workbenches.
+
+“It still baffles me that shops here are like this,” Isaac said in a low tone.
+
+“There’s a charm to it,” Veron said. “What are they like in Yora?”
+
+“Orderly. Clean? You know?” Isaac said. “Though I suppose there’s some fun to be had in a treasure hunt.”
+
+“Leave the weapons here,” the large man said and gestured to a workbench full of stuff. He went close to it and shoved everything aside with one arm.
+
+Isaac set the weapons down.
+
+“I’m Veron, it’s good to meet you.” He offered his hand.
+
+The large man shook it. “And you. Good to see someone willing to take on Elke. Not surprised to see it being an Elemental Path. Most young ones here are too stupid to tell someone capable from an overconfident brat.” He grabbed one of the blades and looked it over. “I’m Sonny. That from a single run?”
+
+“Yes.”
+
+“Yeah. Rusty, but not too shabby. You left the junk behind I assume?”
+
+“Isaac and Elke chose the weapons we kept, so I assume so, yes,” Veron said.
+
+Sonny gave Isaac a glance, and a slight nod, though it was clear the two didn’t respect each other all that much. For whatever preconceived notions.
+
+“Some poor kid looking for a chance will find good use for one of these,” Sonny said. “Can give you twenty two silver for the swords. Five for this axe. This one here is worthless I’m afraid, five iron for it.”
+
+“Why is it worthless?” Veron asked.
+
+Sonny grabbed the axe and brought it down onto the workbench with a measured strike. The handle broke and the axe head snapped in two.
+
+“Well, now you broke it,” Veron said.
+
+“Trying to be funny too, huh?”
+
+Veron looked at him. “Yeah, I sometimes enjoy that.”
+
+“Yeah,” Sonny said. “Twenty seven, seem fair?”
+
+Veron glanced at Elke and then Isaac.
+
+“Thirty five,” Elke said.
+
+“What she said,” Isaac added.
+
+Sonny smiled a toothy smile, then he laughed. “Thirty. And I give you a discount on a small vessel.”
+
+“We don’t need a vessel,” Veron said.
+
+“Oh? No Runics then, I see. Or you’re not here to make money.”
+
+“Thirty, plus some supplies we need for tomorrow?”
+
+“And what would that be?”
+
+“Rope and torches?” Veron suggested.
+
+“Sure, got a few lying around.”
+
+“Should we trust this man with ropes?” Isaac asked openly.
+
+“We can, yes,” Elke said.
+
+Sonny looked both proud and offended at the same time. “You’re free to test them, southman.”
+
+“I will,” Isaac said. “But I appreciate the offer.”
+
+Sonny grunted, then procured the money.
+
+“Can we exchange the iron too?” Veron asked, looking at Isaac.
+
+Isaac got the satchel they’d found and showed it to Sonny.
+
+“Sure, thirty five silver then. A fair deal, though not a great one for either of us,” Sonny said. “I take it you lot will dive regularly?”
+
+“We plan to, yes,” Veron said.
+
+“Well, I’m here, happy to offer a fair price for anything you bring, and the occasional service or offer, if you turn out to be returning customers.”
+
+“Do you have woodworking tools?” Isaac asked.
+
+“Would you know how to handle them?” Sonny asked.
+
+“I can show you.”
+
+Sonny smiled. “Sure, over here. What do you want to make? I can sell you wood too.”
+
+“Modified arrows for Elke,” Isaac said. “I’ll give you a fourth of what I make for the price of borrowing the tools, a workbench, and the materials.”
+
+“You drive a hard bargain, southerner.”
+
+“My name is Isaac. Let me make a few and you can make up your own mind.”
+
+Sonny considered, then nodded. “Yeah. It’s always good to have more people around in the shop.”
+
+“I’ll probably need your help too, Veron,” Isaac said.
+
+“Sure, can we come back later this afternoon?” Veron asked, glancing at the others.
+
+“I won’t be joining,” Ailis said. “But I’m happy with any arrangement that would benefit our group.”
+
+“I can do a shift later too,” Elke said.
+
+Sonny nodded. “Yeah, now I’m happy. You brought more than a few rusty swords. I like that. Parker always spoke highly of the northern hunters, I’m starting to see why.”
+
+“Is he the owner of the shop?” Veron asked.
+
+Sonny shrugged. “Kind of. He started buying up and collecting old maps and stories of gold mines in the northern mountains, went on a few expeditions and then one day, he didn’t come back. I’ve been running the shop since. Been about ten years, give or take a few.”
+
+“Right. I wonder if he found something,” Veron said.
+
+“Probably death,” Sonny suggested. “But either way, it’s Parker’s Shop and that’s what it’ll stay until I know for sure. Anything else I can do for you?”
+
+“Do you offer armor repairs?” Ailis asked.
+
+Sonny gestured in the general vicinity of the propped up plate armors.
+
+“The leather kind.”
+
+“Yeah. What’s the damage?”
+
+She showed him the shoulder piece that got cut in the dungeon.
+
+“Hmm. Won’t be pristine looking if I do it, but it’ll do the job. Fifteen iron for that. I’ll have it ready when your crew shows up later.”
+
+Ailis handed over the money and the piece. “Great. Thank you.”
+
+“You’re welcome.” He gave her a longer look, making to speak and then not doing so. It looked like he’d figured something out. “Then I see you later.”
+
+“Yes, good to meet you, Sonny,” Veron said and waved.
+
+The others joined him out in the streets. “Where to now, Isaac?” he asked. “There was mention of cake.”

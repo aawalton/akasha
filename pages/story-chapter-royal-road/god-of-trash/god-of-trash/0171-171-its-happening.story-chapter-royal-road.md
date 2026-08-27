@@ -1,0 +1,97 @@
+---
+id: 25faa27c-1a66-5962-9243-cadcbe609919
+page-type-slug: story-chapter-royal-road
+title: "171. It's Happening"
+slug: 0171-171-its-happening
+partOf: god-of-trash
+position: 171
+ownLength: 1976
+unit: words
+publishedAt: 2025-08-30
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2561187/171-its-happening"
+royalRoadId: "2561187"
+---
+
+Of course, now that they had people, what they needed the most were cores. With about forty left, and a conversion rate of 3-ish kills to one core (assuming a Tier 1 core—the price was lowered by obtaining higher-power energy), that meant he had to kill somewhere in the range of 60 to 120 more mages. It was something of a staggering number to consider. I’m pretty sure most serial killers… no, I’m not sure if a serial killer in my homeworld ever hit that kind of body count. And that was only counting the mages he was planning to kill, not the ones he’d already killed. He raised his brows, pursing his lips a little. By the morality of his home, he was beyond evil and ought to be condemned to death immediately. By the morality of this world… he was just the boy next door. He’d probably killed people with higher body counts already.
+
+Crazy.
+
+No wonder higher Tiers had so few members. They’d all been taken out on the way up by their peers. Comprehension bottlenecks and power limits didn’t help. Honestly, it was a small miracle that there were any number of higher-Tier mages.
+
+He snorted to himself. That was one way of thinking of it; on the other, this world seemed enormous, and the population centers weren’t struggling. The city he’d grown up in was a small one, but it was still home to ten thousand or so people, at a rough estimate, and every city he’d passed by on his way through the Empire had been far larger. There were lots and lots of babies being born, and even if only ten percent… no, one percent, were chosen as mages, that meant hundreds of thousands, if not millions, of chaff mages being created every year. Given the way lifespans and sturdiness grew, it was only due to intense inter-mage competition that the world wasn’t absolutely clogged with high-Tier mages, or at least millions upon millions of low-Tier mages.
+
+Having established that the population economics made sense, or at least as much sense as he’d expect them to make from some rough estimates and some napkin math, Rhys turned his mind back to the question at hand: how to acquire 120-some mages’ worth of cores.
+
+There was an obvious answer, and one that he didn’t even feel that bad, morally speaking, about: raid the criminals. The Water Syndicate was but one small arm of a much larger, much more populated syndicate. Even if he took prisoners and accepted surrenders (as opposed to the war crime known as ‘no quarter’), he was pretty sure he’d be able to kill a hundred-and-some scumbags that way. Once he was that close, he could make up the difference by freeing camps or otherwise antagonizing the Empire. Hell, if it was close enough, honor duels among random mages might even be enough, not that he was looking to engage in dozens of those… but he could never predict the future.
+
+He snorted to himself, looking at his hands. As far as he could recall, until the Empire had taken over, he hadn’t killed anyone. Now look at him, outkilling serial killers.
+
+Guess getting abused in a mine for a few years changes your perspective. It helped that he was absolutely sure of the Empire’s evil nature and the need to remove it all, like the big fat malignant tumor it was. It was trashy of him that it hadn’t been that big of a mental blow to kill, he supposed, that he’d taken it in stride, more-or-less, and kept trucking; but it hadn’t felt that memorable in the moment, and he didn’t feel any guilt about it looking back. The numbness he felt toward the whole situation felt a bit ‘off’ to him, like the mental equivalent of an old injury he hadn’t quite probed the depths of, but he didn’t want to probe it. Not in this world, where taking a life was a daily occurrence, and ‘kill or be killed’ wasn’t some platitude, but base reality.
+
+Though, I guess, if I could put that filth into my mental attack, it might be worth probing. He didn’t know that it was. His mental attack was basically the same as clapping in someone’s face to stun them against any reasonable opponent, and going further didn’t seem likely to obtain further gains. To put it in other terms, he was pretty sure he was already at the point of diminishing returns, with no need to pursue the next 1% of improvement. There was a chance of insta-gibbing Tier 1 opponents, but eh. It was just like the Death spell in RPGs; the only enemies that weren’t immune to it, weren’t worth the MP it took to cast Death. He had a dozen ways to insta-gib Tier 1s that didn’t involve standing immobile for ten seconds as he activated a slow attack.
+
+It’s a last-ditch, tip-the-scales, straw-and-the-camel’s-back kind of attack, he decided, mentally shelving further development. Better to focus on more obvious trash approaches for now.
+
+His mind went back to the last battle, and a jolt of regret went through him. He’d totally abandoned Adelise’s silver coat. If it really was fireproof, then he’d missed out on stealing some useful loot. Could’ve used that gear against the entire Infernon family.
+
+Then again, on the other hand, I did immolate her through it. Maybe it was for the best that he’d left it behind. Gear that gave a false sense of security but no actual protection was worse than not wearing gear at all. Besides, he couldn’t use Trash Body so easily without…
+
+Trash Body. He looked down at himself. It was still active. He’d totally forgotten that he was using it. The mana cost was almost zero, and it and Pain Mitigation numbed the pain so much that he’d simply… forgotten that he was horrifically burned. True, Self-Regeneration functioned even when he was awake and walking around on his two feet, even if it functioned better when he was asleep, but even so, it worked better when he slept, and he certainly hadn’t done that yet. He shook his head at himself and wandered over by Lira, who’d floated up to base at some point.
+
+“Yes, Schoolmaster?” she asked.
+
+“Gods, don’t even joke about that. I don’t want that responsibility.”
+
+“You already have far more serious responsibility.”
+
+Rhys stared at her.
+
+She smiled slowly. At last, she shrugged and said, “What? It’s true.”
+
+“It’s true, but I don’t want to acknowledge it. Anyways, I’m tired, and I need to rest and heal up before we do anything else. Get the new recruits started, see what materials they need, see if they need weapons, whatever. When I wake up, we can figure all that out… or I guess, if you guys can find it—”
+
+“I’m pretty sure everyone here knows how a store operates, and Mouse is just as capable at entering the library as you are,” she said, cutting him off.
+
+Rhys took a deep breath. “Right. And those who don’t want to fight can be sent to the stores, and shown the ropes there. Gods know we need more people to man our shops. I’m gonna go nap.”
+
+“Go forth, fearless leader. Nap fearlessly,” Lira said, with only a hint of snark in her voice.
+
+Rhys waved at her and jogged away. His mind was in shambles, his thoughts were everywhere, and he was so badly injured that his skills were entirely keeping him from feeling the pain anymore, even if he wasn’t in any way healed from his injuries. This was not the time to go on being ‘fearless leader,’ this was the time to give up and go rest.
+
+The trash heap and the first store were relatively close to one another. He made the quick transit, then headed upstairs to the attic of the shop. Yawning, he nudged some random gear to the side and went to lay down.
+
+Abruptly, he jumped up, whirling toward the corner of the building. His hair stood on end, and every warning siren his body had screamed that something was wrong, but he couldn’t see anything. There was nothing there.
+
+It’s like Mouse. Just because I can’t see it right away, doesn’t mean there’s nothing there. He blinked, slowly, turning his focus more and more deliberate, until suddenly, there was a ragged man sitting in the corner of the shop. Or rather, he’d always been there, but it was just now that Rhys had finally taken notice of him.
+
+The same old man, in fact, who’d been sitting by the Impure Well in the forest. The one who’d told him that Leonard was dead, despite having seemingly no way to know that.
+
+“Who are you?” he asked, wary, but not quite ready to reach for his weapons yet.
+
+“You’re tired. Rest first. We can talk after,” the old man said gently.
+
+“That’s not an answer. Who are you?” Rhys demanded. He wasn’t stupid enough to fall asleep with some mysterious old guy watching over him. That was basics, like ‘don’t take candy from strangers’ and ‘don’t drink something someone else has touched.’
+
+“Someone with your best interests at heart.”
+
+“An answer.”
+
+The old man sighed. “Would you believe if I told you I was… something like an echo of a Remnant Weapon?”
+
+“An echo of a piece of something that was once a part of the Demon Lord’s armory?” Rhys asked incredulously.
+
+The old man spread his hands.
+
+Something sparked in Rhys’s mind. He picked up a random pebble from the ground and tossed it at the man.
+
+It flew straight through him and knocked against the wood beams behind him. The old man wasn’t physical. He was a ghost or a projection, something like that.
+
+Rhys raised his brows. A ghost or projection probably couldn’t hurt him in his sleep. Well, maybe a ghost could, but a projection… probably not?
+
+The man snorted and gestured, as if that proved it. “Only an echo. I even lack a material body. How am I going to harm you? Rest. You need the break. I’ll be here when you wake up, and we can speak then.”
+
+“You’d better be,” Rhys said, not that he could threaten the ghost any more than the ghost could threaten him. Still, the fact that the man was a Remnant Weapon… he knew it shouldn’t make him relax more, but somehow, it did make him more relaxed around the guy. Probably because Sable and Straw were both pretty cool, even if they were odd in their own ways. Straw had looked after him, and picked him up when no one else would, and while Sable had fought for Ernesto, she had never really agreed with his objectives, and she’d fought hard on his side ever since. It was a weird bias to have, but it was what his experiences had shown him to be true, so there was no reason not to believe it.
+
+That didn’t mean that he was going to roll over and agree with this guy whose only argument was ‘I’m not going to hurt you because I can’t, no word on if I want to or not,” but it did help. That, and the fact that the old man hadn’t hurt him near the Impure Well, and had even told him about Leonard; the old man had demonstrably done nothing to harm him, so there was no reason to doubt him now, even if he was hella spooky.
+
+Giving him one last uncertain look, Rhys laid down and closed his eyes. He thought he’d have a hard time falling asleep with some stranger with unknown motives watching him, but he was surprisingly able to pass right out with no hesitation. He fell into a deep sleep, and time passed on.

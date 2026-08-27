@@ -1,0 +1,193 @@
+---
+id: b24e1482-ac83-5eac-8725-1d22b26fecce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 61"
+slug: 0061-chapter-61
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 61
+ownLength: 3049
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3831744/chapter-61"
+royalRoadId: "3831744"
+---
+
+Chapter 61
+
+They first presented the potential relic, giving Sonny a description of what the necromancer had done with it. If of course, the ability had been linked to the small spear rather than inherent to the monster they had fought.
+
+“That would be some kind of Blood weapon ability. I would assume its quality hovers around the adequate stage, seeing how it was used by a necromancer, and how it didn't kill you on the spot, Veron, no offense meant.”
+
+“None taken.”
+
+Sonny looked the spear over. “Flashy spells like that, especially incorporating blood flames, use up a lot of Focus. It's difficult to master a relic like that. If it is a relic at all. That's what any merchant would tell you to lower the price. Truth is, any Blood Path relic will fetch a higher price than its quality and utility would likely provide. Even more so if it looks flashy.”
+
+“Because it's adjacent to the Runic Path?” Isaac asked.
+
+“Yes. And because any reasonably wealthy or important Runic Path from Sevarra to Lyrie needs a few relics to show off at balls and parties, and to impress their peers or romantic interests, be that at military training schools or the Grand Academy. With the quality you're probably working with here, this won't catch the interest of any actually important figure but for the sons and daughters of said figures, this is a perfect piece.”
+
+Veron exchanged glances with the other adventurers.
+
+“How much do you think it's worth?” he asked. “If it is a Relic.”
+
+“I can only give you a very rough estimate,” Sonny said and continued when receiving a nod. “Alright then. So let's assume it's between Modest and Adequate in quality. That means the essence would’ve been Adequate to Durable. Between one and eight gold coins just for that then. I know it's quite a range.
+
+“The relic vessel itself looks pretty well made too. It's well balanced, though with its short length and the metals used to make it look nice, it would only really serve as a relic, and not as a very effective weapon on its own. Again, with the people this would be sold to, that's probably going to increase the price rather than lower it. I'd say you could get eighty silver to around one gold for the spear itself, if there is no magic infused within it.
+
+“All of it combined, assuming Modest to Adequate quality, I'd say this relic could be worth between twenty-five and fifty gold. If anyone offers more than thirty-five, I would probably take the deal if I were you.”
+
+“Thirty-five gold,” Elke murmured.
+
+“Almost nine gold per person,” Veron said.
+
+That would be enough to upgrade all of our gear, probably get lanterns, and maybe even some potions.
+
+He tried to temper his expectations, knowing that the artifact they found may not be a relic at all.
+
+“If it is a relic,” Ailis said. “And if we find a buyer. I don't suppose you're interested, Sonny?”
+
+Sonny looked at the weapon and considered, then handed it back to Elke. “I would mostly just be interested to know what it really is, and to see it in action. But I'm not in the business of fancy accessories. I try to sell useful tools to adventurers. And whatever this thing turns out to be, I think it's more likely to get someone killed in the dungeon rather than help them.”
+
+“This fancy accessory nearly killed me already,” Veron said.
+
+“Kind of proves my point, doesn't it?” Sonny deadpanned.
+
+“Can you recommend anyone who could identify the item?” Veron asked. “And buy it.”
+
+“Any of the big shops of course. They would probably pay on the lower end though, except any of you have some connections?”
+
+Veron gave the group a questioning glance and only received shrugs and shaking heads in response.
+
+“Well. In that case, I might have another recommendation. Though it pertains more to this fine lockbox you have recovered. None of you know what this is, right?” He continued when nobody replied. “This is a Balt lockbox. They’re found within the first three layers of the dungeon and they’re rare, I tell you, always either well-hidden or well-guarded, usually both. Inside could be all manner of things. Rare and precious metals, including silver and gold, relics or vessels, and I've even heard of some containing artifacts as rare as Fragments of Potential or Effigies of Joining.”
+
+Isaac and Ailis had a visible reaction.
+
+Veron looked at Elke but she didn't seem to know about those artifacts either.
+
+“Why the name Balt?” Veron asked. “And what are those artifacts?”
+
+Sonny gave him a curious look, then shrugged slightly. “I think some historians figured out that these chests resemble the make of others found throughout the world. You know, how sometimes things found in the dungeon resemble ruins and artifacts throughout the lands. What I heard is that the Balts were an influential family of craftspeople, and one thing they made were these lockboxes. Either that or the lockboxes were the only pieces that they made which managed to survive throughout the millennia,” he said and laughed. “Did I mention they are often trapped or hold dangerous or even cursed artifacts?”
+
+“Cursed?” Elke asked.
+
+Veron looked at the box and breathed in sharply.
+
+Sonny waved them off. “Chaos relics, I assume. Though where is the difference really?”
+
+“Are cursed relics and artifacts common? And I'm not talking about anything from the Chaos Path,” Veron asked.
+
+“The supposed Form of Curses then, why the interest?” Sonny asked and Veron replied with a shrug. “Well, no, of course they wouldn’t be common. It’s hardly common knowledge that the Form of Curses even exists. And any relics or enchanted items with magic from the Fae Path are rare. Except for the weak light magic essence sold by the Eskir.”
+
+Veron looked at the man. “And the artifacts you mentioned before?”
+
+“They may be the most sought after treasures in the dungeon. I'm surprised you’ve not heard of them. But then, I suppose some people don't go in there looking for treasures but for challenge instead. I've never seen either myself but I understand that Fragments of Potential, if consumed, however that happens, increase the efficacy of a relic slot. As far as the drawings and descriptions I've seen, they look like shards of black glass that reflect no light. And one would know if one had found one.”
+
+“The efficacy of a relic slot?” Veron asked.
+
+“I believe it has to do with the conversion of Focus. You do understand that as an Elemental Path, you would use up more Focus to cast through a Blood Path relic than a Blood Path would, using that same relic?”
+
+“I do.”
+
+“That conversion is improved. You would understand then that an artifact like that would be most desirable to some high level Runic Path in Leiveen or Sevarra. Or even here. The Effigy of Joining is similar in that it affects the relic slots. An artifact of gold, taking the shape of two creatures embracing one another. If used, it will allow some interaction between two relic slots and their magic. How exactly that works and manifests, I don't know. These artifacts are exceptionally rare and only the most powerful and wealthy may ever acquire them. And the adventurers strong enough to potentially find one in the depths of the dungeon would likely rather choose to use them for themselves or someone close to them.”
+
+Veron blinked his eyes as he listened. He had yet to even own or use a relic, and he was still of the opinion that focusing on his own Path and magic was preferable, but he couldn't help but wonder what was possible, with artifacts like those. So far, he understood that relics would allow him to use magic from another Path, but it was limited. Now, if some interaction was possible, using these Effigies of Joining, then he could imagine someone mimicking parts of or even the abilities of an entire other Path or aspect. It was interesting to him at the very least, though not something to think about right now. Or anytime soon.
+
+“I didn’t want to bring up your hopes though. While a Balt lockbox may contain treasures, what you found came from the first layer. You can tell by how worn it looks. There’s corrosion on the metal here and here,” Sonny said and pointed. “If you sold it as is, closed up, I assume it would fetch a price of twenty to thirty gold coins. Still a good price for you, and if you need the coin, I would wholeheartedly suggest doing exactly that. But if you're interested to find out what's inside, and potentially making a lot more gold, or none at all, or perhaps getting an interesting relic out of it, you could have it opened.”
+
+Twenty to thirty gold.
+
+Veron smiled to himself and saw the joy the news elicited in his companions. “That's a lot of gold.”
+
+“You said you had a recommendation?” Ailis asked.
+
+“Yes,” Sonny said. “The Luna Inn. If you didn't have the lockbox, I wouldn't suggest it. They're more interested in straight up essence rather than relics, but I understand they offer the highest prices for lockboxes, at least ones from the first layer. And if you go there with it, no matter if you intend to sell or simply have it opened, I expect they'll be happy to offer anything else you'll need. Like identifying and buying that potential relic.”
+
+“You trust them then?” Ailis asked.
+
+“The Luna Inn has been in Anvakar for centuries, located in the lowest level of the Circles. I trust that they are local, and that they will offer you a fair deal, for whatever it is you really found.”
+
+“We'll discuss and then decide. But what about you? You shared a lot. Do you want anything for that?” Veron asked.
+
+Sonny smiled. “I see that you’ve brought back a few longswords. I'd like to see them and offer a fair price.”
+
+Veron glanced over to Isaac.
+
+They sold the two swords and other weapons they’d brought back for fourteen silver, then thanked Sonny, and left his store to discuss.
+
+Veron felt both tense and excited. “So, what does everyone think?”
+
+“I assume we all agree on selling everything?” Isaac asked.
+
+“I agree,” Ailis said. “He said the lockbox might be trapped, and with how little gold I have, I'd much rather have the guaranteed coin from selling the chest instead of some unknown mystery inside.”
+
+“It's a lot of coin,” Elke said.
+
+“And it might be more if the spear is a relic,” Veron said. “I am very curious what's in the box though. I know, I know, it's stupid to gamble, and if the spear isn't a relic, I’ll agree on selling the box.”
+
+“And if it is one?” Ailis asked.
+
+“I mean we can still have a vote. But if we can sell the relic for twenty to fifty gold, we'd still have enough to upgrade our gear, and get a bunch of other stuff. It's kind of crazy to think about. I don't think I even expected us to find something like that,” he said and laughed.
+
+“Well, we didn't go in with the expectation of treasure,” Isaac said. “But I agree, the prospect is exciting.”
+
+“Forty gold is much better than twenty. And it would be guaranteed,” Ailis said.
+
+Veron nodded. He understood how probabilities worked, and he also knew how susceptible the human brain was to gambling. In any other case, he would have agreed with Ailis, but as far as he knew, he would return in time, and if that happened again, it would be a pretty good boon to know what was in that chest.
+
+Because maybe, he could recover it again.
+
+Compared to the flowers and plants near Eyra, he knew exactly where they had fought and killed the necromancer.
+
+“It's more about curiosity than coin. But maybe whoever runs the Luna Inn is willing to sell me that information afterwards.”
+
+“That will only lead to disappointment,” Isaac warned him. “And resentment if it was something expensive.”
+
+“You expect that little of me? After all those years we've known each other, Isaac?”
+
+Isaac raised an eyebrow in question.
+
+Elke glanced between them.
+
+“But I'm serious. We see what they say about the relic, and we see what options we have with the box, then we vote on it. If I do find out what was in it after we sold it, and it was something good, I promise not to be mad. I might feel disappointment for a while, and I'll definitely bring it up here and there, but I'll do so with a magical lantern on my new belt, wearing comfortable clothes, and enjoying my private room at the Willard Inn.” Veron smiled at the thought. “We have absolutely nothing to lose here. If we don't get robbed on the way.”
+
+“We should have daylight for a while. And even the lowest levels of the Circles should be reasonably safe at this time of day,” Ailis said.
+
+“Let's find out if we have a relic then, and then we can discuss the rest after. Alright?” Veron asked.
+
+The others confirmed and they made their way to the Stone Circles, guarded and ready to defend themselves as they walked through the streets of the Shops, past other adventurers and supposed merchants trying to sell them potions or powerful relics. Veron definitely felt that they had more eyes on them than usual.
+
+After a while, he noticed two figures wearing capes and hoods following them through the streets, their faces covered with cloth. Before he could tell the others, he could see a bunch of adventures with silver badges nodding to each other and then pointing at the hooded figures. The latter turned the other way and vanished into one alley or the other, the silver adventurers following their trail.
+
+“Careful with that box,” one of the adventurers said as he passed by them.
+
+Did they look out for us? Or are they trying to get our guard down?
+
+Veron stayed vigilant and a few minutes later, they were in the Circles. The group quickly made their way down, past the second circle and down into the third. They stuck close to the main stairwells, soon reaching the fifth and lowest circle where no sunlight reached the underground alleys and streets. Dull and hazy red and blue light shone on from lamps affixed to the stark walls and gray structures down here. It was still reasonably busy but Veron felt that people here were walking faster, most of those moving around keeping their heads and eyes focused forward.
+
+He could hear faint and muffled music from shut and uninviting doors and darkened windows, people standing alone or in small groups as they talked or glanced their way. As they went deeper into the narrow and confusing layout, he heard muffled cheers and magic, and sex and laughter. Veron even started to consider if maybe Sonny had sent them into a trap of some kind, the group still following the directions he had given them when they reached a slightly more welcoming establishment at the end of a corridor.
+
+Dull red light mixed with the hazy purple and almost pink hues coming from this place. There were no windows and the door was shut but a table stood outside with two people having a quiet conversation over drinks. The roof extended forward slightly, with hazy light shining down from lamps affixed below. Above the entrance and embedded in the wall was a metal crescent moon.
+
+A doorman wearing a black leather duster and armed with a longsword hanging from his belt leaned against the wall with arms crossed and in a way that slightly blocked the entrance. He had a clean shaven head and the dark complexion that Veron had started to associate with people from the southern lands of Sor. The doorman glanced at them with casual interest.
+
+“What's your business here?” he asked, in a calm and measured voice, like someone remarking on the weather.
+
+“Is this the Luna Inn?” Veron asked.
+
+“It is the one. And what are you looking to do at our establishment?”
+
+Veron turned slightly to let the doorman see the chest on his back. “We may have something to sell.”
+
+Veron thought as if he spotted a slight smile on the man's face before he stepped aside slightly and opened the door for them.
+
+“Welcome to the inn.”
+
+Veron gave him a glance and then looked at the others. He saw that the two patrons talking at the table were watching on with some measure of curiosity, just before he stepped into the purple light. A long square room extended inside and to the left, a bar straight ahead with several doors behind. Left of the counter were stairwells leading up and down.
+
+Some patrons sat at dark tables, having drinks or food. Only a few glanced their way and quickly lost interest. Behind them and near the left wall was a small dais where a woman in a white dress played the harp, some of the guests sitting close and listening to her play. The tune was soft but carried all the way to the entrance, mixing with the soft murmur of quiet conversation.
+
+They went to the bar where Veron saw a pale woman writing something in a book. She looked to be in her late twenties, wearing a dark blue overall that almost looked purple in the magical light of the inn. She wore red lipstick and her black hair in a bun, smiling at the newcomers when she noticed them. “Welcome. Haven’t seen you here before. I’m Chloe, what would you like to drink?”
+
+“I’m Veron. Good to meet you, Chloe.” He glanced at the others and then turned to show the chest on his back. “We’re not here to drink.”
+
+“Oh! Well, straight to business. We can do that too. Congratulations on your find.” She smiled and stepped out from behind the bar, gesturing to the stairwell. “Come then, we’ll get a room upstairs.”

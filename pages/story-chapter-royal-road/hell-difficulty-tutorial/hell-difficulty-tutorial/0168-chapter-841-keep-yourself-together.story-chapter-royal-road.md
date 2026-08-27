@@ -1,0 +1,121 @@
+---
+id: 8a0d0323-3545-576a-95d8-cd23eb8cde80
+page-type-slug: story-chapter-royal-road
+title: "Chapter 841 - Keep yourself together"
+slug: 0168-chapter-841-keep-yourself-together
+partOf: hell-difficulty-tutorial
+position: 168
+ownLength: 2530
+unit: words
+publishedAt: 2026-07-19
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3699020/chapter-841-keep-yourself-together"
+royalRoadId: "3699020"
+---
+
+After yet another release of her presence, I find myself re-manifesting inside our shared mental space. Currently, I'm confident that over my year here, a few days have already passed in what feels like a flash. I wonder, would it be odd to say that I’m having fun?
+
+It might be this cockroach’s doing, but all my abilities seem to be working pretty well. My traits, my insight into mana wavelengths, passives, stats, and all that. It all feels just like it does outside. Of course, the difference is that I’m not gaining any levels. I can’t open my status, and it’s difficult to describe, but my improvements feel weird and hard to put a finger on.
+
+Of course, I’ve been adapting to what Lissandra’s been doing, and I’m continuing to improve, but it doesn’t feel like I’ve become any more resilient, improved my reflexes, or anything else like that. It’s more that I know that some time in the next second I will be hit by a car speeding in from my left, flung into the air, then run over by a truck, just before a bunch of lions, recently escaped from the zoo, bite into my flesh and drag me across the city, while a plane crashes into my crumbled body, just in time for some old granny on a bicycle to ride over what remains while ringing a bell.
+
+It’s exactly what she warned me about regarding this kind of training. My body outside won’t have the integrated muscle memory, and my brain won’t be able to rewire itself to work efficiently in regard to the training. I’ll just gain the knowledge, and that knowledge will allow me to improve faster once I’m outside. Though maybe knowledge isn’t the right word. Experience? Well, I was never one to think about these sorts of things too deeply, but it isn’t doing anything bad for me, I just have to stop popping like a balloon every time she…
+
+I find myself re-manifesting again, and Lissandra, who still looks like her version from the 2nd floor, looks down at me.
+
+“You don’t have to stop, I can keep going,” I say.
+
+“Little pup, even a gray lizard can keep going, screaming all the while and repeatedly running itself up against a wall, and yet it means very little. Why aren't you improving?”
+
+“Well, sorry I'm not at the level of some nobl-”
+
+“Enough,” she waves her hand, and her eyes haze as she thinks of something. “I knew what I was getting myself into, so there is no reason I should start getting frustrated now. I need to control myself.”
+
+Looking at her, I can only think that I will scream if she says she wants to punch my face for some mysterious reason. Her eyes narrow as she looks at me, and I can’t help but remember that even the huge house pest that is the Ruler of Diligence wanted to punch me, and he can’t even read human faces. Surely it can’t be that bad.
+
+“I will give you a few minutes to rethink your approach,” she says, standing where she is.
+
+I look at her, and she looks back at me, causing me to scratch my chin and look away.
+
+Then I force a part of me to start rethinking what I’ve been doing. I find it somewhat exciting and partially annoying, after all, most of the time I prefer to simply endure and overpower this kind of attack with my superior mana reserves.
+
+Yes, it can be fun to go for efficiency. Yes, better efficiency means a bigger kaboom, as my Minion would say, and even if my reserves don’t increase, that in the end is like getting more mana. But… that’s not where my talents lie. I don’t think I’ll ever use my mana as efficiently as someone like Weslin, Savant, Tess, or Sophie. And at the same time, I don’t think they’ll ever be able to match the speed with which I can gather and move large amounts of mana.
+
+Once again, I turn my eyes to Lissandra and ask, “You keep saying that current Absolutes are all trash and nothing in comparison to how they used to be, but what do you mean by that, actually?”
+
+“For your own good, I hope you’re dedicating appropriate effort towards your improvements rather than this idle chat, little pup. It is as I have said. Though I was born after the System War, there still were Absolutes and Champions left over from that era. That war culled many of them, and the survivors were those who had faced gods, elves, and dragons in battle and survived.”
+
+She pauses as if reminiscing on some good old time she never experienced firsthand. There might even be a bit of longing.
+
+Would things be different if someone like her had been alive back then? Could a singular being even be able to bring such change?
+
+While I think about that, Lissandra continues to talk, “I’ve heard stories of dozens of Absolutes coming together just to kill a single god. Preparing items and arrays that would have been beyond even something like Beyond’s main array. Items they created that were capable of destroying planets and techniques millions of people worked to develop for the sake of killing a single god. And dozens of those Absolutes perished instantly as they threw themselves against their opponents. All in hope of some reward that, as you can imagine, must have been equal to the danger.”
+
+“Are there many of those Absolutes still alive?”
+
+A small smile, unusual for her, appears on her face. “Most certainly, there are plenty. Warmongers waiting for yet another war, explorers in distant parts of the universe, or broken ones searching for a peaceful end. Some died when I challenged them, even their rewards proving not enough. And many more died challenging Pride. Little pup, when you have the time, give it a bit of thought, ask yourself why so many powerful people seem to want to challenge that man. As for you, be very careful if you ever meet someone who survived the System War and lived until the current era.”
+
+“I will try. But how do they differ otherwise, other than experience and some fancy rewards?”
+
+“Fancy rewards… are you stupid, little pup? There were some that gained things as grand as a sixth passive skill. Just a mere few out of the many who fought, though most of them are long since dead. But it still shows the desperation behind the system. Even if I guess, desperation isn’t quite fitting, as the system bears no such emotions, it just follows its nature to spread and evolve. But it shows how highly it calculated the threat back then to offer such rewards as haven't been seen since and likely will never be seen again.”
+
+“Did you ever gain such a reward?” I ask her.
+
+“I did not. Ten active skills, five passive skills, three traits. I’m as human as they come. Yet in my hands, even this is enough. Little pup, what do I always say?”
+
+“That I am worse than noble ladies' pets.”
+
+“Do you want a beating?”
+
+“Not that? Something about my mana control being…”
+
+I blink and find myself remanifested as she released her presence. That then rapidly repeats around a hundred times in a row until I stand there, wobbly on my feet and light-headed.
+
+“Active skills are what’s most important, as is your control over your abilities. What good is having a great many skills, passives, and items if you can't even get the most out of what you already have? You asked me how Absolutes of my era and of the System War era differ from the current ones.” Lissandra says.
+
+She takes a few steps and, in a gesture that feels extremely natural to her, locks her hands behind her back. She is taller than her younger self, and she wears a near-black suit, too, yet the atmosphere around her is the same.
+
+“A good example to explain it is through techniques and domains. Absolutes and Champions of old were always more combat-oriented, with a greater extent of sensory abilities and domains allowing them to negate the first attack. Back then, whenever you entered the domain of an Absolute, you had to be ready to either fight or for one side to be forced into submission. Nowadays, domains don't seem to be as common, and techniques are instead oriented toward ease of use rather than lethality. People don't seem to specialize as much either, and tend to go for the more general builds.”
+
+I check on the part of my mind coming up with a new way to counter her pressure and switch my attention back to her.
+
+As always, I find myself curious about the things she tells me. Even if there isn’t much of use to gain from it, just satisfying my curiosity is enough. The more powerful people I’ve met often seem to get a kick out of sharing this kind of information, or at least those I’ve met did. I wonder if it’s because of how seriously the system takes the passage of knowledge when it comes to the first generations, and disciples, and the like. Maybe people like her are just used to it.
+
+“So techniques nowadays rely on the system more?”
+
+“Obviously,” Lissandra nods. “As pathetic as it is. They rely on traits, passives, and items. They’re just too safe to use, too clean. My pre Champion self would destroy most of the current Absolutes in combat. During the era of the System War and my own, many techniques were developed that were as dangerous to the user as they were to the enemy, and nowadays these... people call them obsolete. How obtuse. But you have been dallying enough, we shall continue.”
+
+I don't even have time to say anything as that presence expands from her in the center and crashes against me and past me like a wave.
+
+For a mere moment, a really short one, I move my mana in an attempt to counter it. I don't do it by force, I long ago learned that doing so was useless. I also don't try to make my own presence sharper to cut through it or make it pass by me. That would be just as bad, and it would surround me anyway. What I’m imagining in my head is my presence behaving like a willow, bending in the wind.
+
+In previous attempts, I experimented with constant shifts in my frequencies and cycling them. I tried to mirror her presence, I tried to reflect it, I tried to pulsate through it, and I tried even more ideas. Some of these I came up with on my own, and others I read in the mana stones Min-Jae stole from the Academy.
+
+Still, even if it seems inefficient, I find myself constantly coming back to the idea of my own presence twisting like a willow in the wind in response.
+
+Is it because of the Fragment of the Nameless Tree imbued in the back of my left hand? I could try to use [Eclipse], [Redistribution], [Weave], or possibly even [Manifestation], but I don’t. I don’t like to acknowledge it, but I kind of feel like I understand this woman sometimes. I don’t think she would want me to do that.
+
+And so now I’m trying to be a willow, bending in the wind while changing and modifying Mana Cycling through all of it. But in the end, I’m still the sort of person who learns the most through experience and brute-forcing it rather than sheer talent. I continue with my attempts while Lissandra flawlessly and consistently creates the perfect copy of the same pressure. Everything about it is exactly the same.
+
+This process reminds me of the second tournament and the training I did throughout. Since it’s impossible to die here, I exploit this training just as I did then. There are many other things I would like to do at the same time, but it would annoy her if I didn't give this my best effort and as much attention as I can spare. I have no illusions, she would cut this training short if I didn't.
+
+And so we continue. Hour after hour passes, and after some time, I have a feeling it stretches into days. Not long after, I entirely lose track of the passage of time. None of my subminds wants to count and keep track of it, and there’s nothing else I can do to measure it by. Though I wonder, isn’t the passage of time unimportant? I just need to focus on this task, and give it my utmost and more besides.
+
+With all my effort, I watch another wave shoot out from her. At this point, I know it better than I know my own face. I have observed it with much more effort than I ever did with my own reflection.
+
+I track the waves and wavelengths, and I release even less mana than I did before. It flickers weakly up to an arm's length around me, while the rest of my mana cycles through my body in a way that feels like a bellows fanning a flame. That flame, which is my presence, bends back as if under a strong wind. I let it flicker until it almost seems like it’s about to die off, only for it to blaze firmer as that first small wave washes over me. Many more waves follow, all in the fraction of a second that I can only track by sending my mind into overdrive, and with my presence bending and staying just firm enough not to disappear.
+
+Still, it bursts. It’s washed away, and almost reflexively, all my mana blazes to face that presence, only for it to wash away with even less resistance than my prior attempt did.
+
+I once again find myself remanifested. For a bit, I wonder how much of her presence I’ve already experienced, but just like the passage of time, that question quickly becomes unimportant.
+
+"You have ten minutes to rest and think," Lissandra says, and she disappears from in front of me.
+
+"But I can still continue," I call into the empty air.
+
+Her voice then sounds, though she is not here. "This training and this sort of thought acceleration is a danger to your feeble mind. Don't forget that. Be sure to keep yourself together."
+
+At first, I don't get what she means. Then, I hear a cough from behind me. When I turn around, a mysterious man wearing all black is there. On his head is a black, wide-brimmed wizard hat that entirely covers his face. As he lazily leans against a tree nearby, I notice the sleek wizard staff he’s holding.
+
+"Well, if that wasn't a truly terrible use of fluidic mana shell integrity and adaptive waveform interference principles," he says.
+
+In a smooth gesture, he lifts the brim of his hat enough to see his face, my face. Gray and brown eyes, Preeminence Eyes, scars, and all the like.

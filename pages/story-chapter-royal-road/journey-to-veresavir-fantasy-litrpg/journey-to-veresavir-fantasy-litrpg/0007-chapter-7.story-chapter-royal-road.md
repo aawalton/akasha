@@ -1,0 +1,309 @@
+---
+id: 77e3decf-b096-51e6-a500-0875b6bb4a9e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7"
+slug: 0007-chapter-7
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 7
+ownLength: 4865
+unit: words
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2704107/chapter-7"
+royalRoadId: "2704107"
+---
+
+Chapter 7
+
+Veron didn't leave yet. He sat there and thought about the Holt family. The talk hadn't been surprising. Ivera was worried about her son leaving their home, finding his own path out there, making his own mistakes. It did feel a little strange to him. It all felt so obvious, but then Ian wouldn't just move to another city for work or to go study at a university. He would go out there and face monsters, potentially get injured or die.
+
+Did it change the equation?
+
+He sat there and thought about it for a few minutes, finding that while it felt somewhat morbid to him, it still made sense.
+
+There was more risk and danger than what the average teenager back on Earth, at least in an industrialized and high-income country would have to face when moving out, but fundamentally, it was the same. Kids leaving the protection and nest of their parents to go and forge their own path. If that was really what he wanted of course. With more dangers, staying home or even taking over the farm one day could be more enticing as well.
+
+Veron sighed. Ian really did have quite a lot of choices. More than he used to have. He was happy for the kid, though he knew as well that more choices didn’t necessarily make things easier.
+
+Veron thought about Ian a little longer. He wondered what path the teen would choose in the end.
+
+No matter what, thanks to him, I'll get my first foraging or adventuring lesson soon as well.
+
+He was looking forward to that, though not exactly to the risks and the likely violence. More than anything, it felt like an interesting challenge. He wanted to learn about this world, wanted to improve his magic, see how far he could push it, how much he could do with it. And he wanted to find out why Envolon had chosen him, and why he had sent him here.
+
+It is quite nice to be here, to work on the farm and test things with my magic, but I'm getting the feeling he knew that I wouldn't just stay here.
+
+“A brooder. Cute. You're new in the village. I'm Tenya.”
+
+Veron looked to his right where he saw a young woman, early 20s perhaps. She wore a brown shirt that looked similar to that of Warren. She had short black hair and green eyes that reminded him of a cat. Or perhaps it was her that reminded him of a cat. He hadn't heard her arrive, but then she was mostly right, he had been lost in thought. Maybe not quite brooding.
+
+“I'm Veron,” he said with a smile.
+
+“It's good to meet you,” she said and smiled back but it didn't exactly reach her eyes. There was something there but he couldn't place it. “Ivera paid for food as well. It's Renva stew with carrots, tomatoes, and a bunch of herbs.”
+
+“You don't know all the individual herbs?” He asked in a dry tone. “I'm disappointed. How will I know if it's any good?”
+
+She grinned at that and leaned forward slightly. “You taste it.”
+
+“I'll have some, thank you,” he said.
+
+“Coming right up, Sir Veron,” she said in a very sarcastic tone before walking over to the two supposed adventurers, taking their order as well before she returned behind the counter.
+
+It didn't take long until he got his food. The herbs turned out to be good, or the whole stew was good, he had no clue if the herbs added or detracted from the overall taste. Better than that however, was the bread. He fully immersed himself there.
+
+Warren came up to him when he was done. “Good finally meeting you, Veron. And I'm glad you enjoyed the food. I'm Warren, innkeeper of this establishment.”
+
+“Good to meet you too, I love the furniture and more so the temperature in here. And the food was good too. Especially the bread. Thank you for making it.”
+
+The man gave him a slight smile. “I'm glad to hear it. You've been around for a while, haven't you? Not every day Ivera and Aren take someone in. And not every day someone like you comes through here.”
+
+It felt like a question. Was he curious?
+
+Veron just gave him a nod. It had felt like a necessity to share more with Ivera and Aren but now that he had a place to stay and things to work on, he didn't have to expose the strange circumstances of his arrival quite as easily, if at all.
+
+“The cool temperature comes from a few well-placed enchanted rocks set into the floors. Expensive, with the Wennafox essence required but it's proven more than worth it. Do you know much about enchantment?” Warren asked.
+
+“I do not. Yourself?” Veron asked.
+
+Warren waved him off. “A trivial interest, nothing more. What is it you do then? A farmer?”
+
+“I do help on the farm. Earth Harmony, so if you need any repairs, let me know. I'm around,” Veron said and stood up. “And I'm currently training to finally get into adventuring. I've wanted to try it for a while. Thought that out here would be a good place to start.”
+
+Warren gave him a long look. “It would be, I suppose. Well, I wish you good luck with that and I'll certainly get back to you about those repairs. I will pay you in bread and stew, if that sounds reasonable.”
+
+“More than reasonable.” Veron said his goodbyes, offering the same to the armored man and the potentially hungover blonde woman in what he now saw was chainmail below her leather armor.
+
+The man gave him a slight nod and the woman gave him a somehow both curious and annoyed glance.
+
+A moment later, he stood outside and felt the heat slam into him. He made his way back to the fields, ready to continue his work.
+
+He was interested in both the adventurers and the locals but he felt like he just didn't know enough about this world, general knowledge and adventuring, to not expose himself to potential danger. He didn't even know what exposing himself would mean. A curiosity to some or a person of great interest to others. He was looking forward to being able to blend in a little better.
+
+But first, I have a set of armor to finish.
+
+The next day, Ian joined in on the drills, Ivera showing him everything and rechecking on Veron’s progression. Ian also used a shield but instead of a spear, he used a sword. The small blade for now but Veron promised to make him a stone sword next.
+
+The days passed by quickly, Ian soon facing Veron with a sword made of stone. The thing was quite large and took a lot of fully charged focus cycles from Veron to create but the end result was sturdier than he would have expected.
+
+He jumped back to avoid another broad slash of the sword, raising his spear to keep the boy at a distance. Both of them were panting, sweat rolling down their brows and arms as they faced each other for the fifth time today.
+
+Ivera stood by the side, arms crossed in front of her as she watched and evaluated them, giving pointers here and there. She didn't mince her words nor her expressions, clearly unsatisfied with their technique but more so their endurance.
+
+Yes, they were fighting with shield, spear, and sword made of stone, the tools likely much heavier than well crafted steel but Veron at the very least expected to be fighting with self-made weapons, at least in the foreseeable future. He enjoyed the bouts and the training, not particularly surprised by how useful Ivera's comments and presence was to his performance and continued learning.
+
+His main focus however was the creation of his chest and back armor, which now took up all of his Focus and much of his thinking as well. There were so many pieces of rock he had to join, so many angles and things to consider, be it weight, thickness, openings for his arms and neck, as well as just the straight integrity of the piece as he would have to move around in it and even fight.
+
+He didn't want to invest the time to make a second or third one. He wanted to get this one right and with his ability to shape the rock even after it was applied and added to the large piece of armor, he didn't think it was too much to aspire to.
+
+Another two weeks passed and he was done. Before him on the ground in front of the shed stood a solid piece of chest and back armor made of stone, modelled after Ivera’s armor and quite a few pointers she had given him in its creation.
+
+Wearing it was difficult, but mostly due to its weight. His magic allowed him to smooth the rocks out and to make them as comfortable as rock could get, fitting perfectly around his shoulders, back, and chest, almost moulded to him. The rock was rigid of course and he thought about what the adventurer at the Downwater Inn had told him about adding additional padding to make it easier to wear.
+
+He had a few pieces but it wasn't enough and not nearly well fitting enough to really make a difference.
+
+Near its completion, he unlocked another level in his Earth Harmony, bringing it to Beginner II. And with it, he could smooth things out even further, finding a few structural issues he hadn’t been aware of before.
+
+The armor wasn't perfect, but it was what he could accomplish with his magic right now. And more importantly, it was his, crafted with rocks that he could find around the farm and shaped with his will. Looking at the finished set, he felt proud.
+
+And more importantly, with its completion, he was ready.
+
+As ready as he would be.
+
+The next morning, Ivera waited for him in the garden. The others joined as well, knowing about the deal they had made.
+
+It was a cool morning, the sun yet to rise.
+
+Veron wore his large chest and back armor, a simple helmet made of stone that left his nose, eyes, and mouth uncovered. He wore shin guards and rock protecting his thighs and hips, shoulder guards, and bracers. His shield, now made of stone, and his spear rested against the stone wall that protected the Holt farm from any monsters that would manage to get past Ivera's patrols, brave enough to investigate the human settlement.
+
+All of the training had borne fruit. Veron felt more flexible, stronger, and lighter. He wasn't sure if he had ever been this fit, and still, wearing the whole set of armor made him even slower than he had been before. He had wondered about the effectiveness but Ivera reassured him that his technique was way too shabby to make him more effective without armor.
+
+She told him he should prioritize defense and so that is what he did.
+
+He breathed in deep, and exhaled, then glanced over at Ian.
+
+The teen’s enthusiasm, contrary to Veron’s expectations, had waned a little bit in the past few weeks. When he had thought about adventurers, maybe he had the idea of powerful heroes in his mind, riding into battle with their mighty steeds, armor glittering in the light of the sun as they brandished swords made of flame and ice.
+
+Running around the farm, repeating drills time and time again, slowly building muscle without seeing easy results. It's possible that the teen had a bit of a romanticized idea of what it meant to become an adventurer.
+
+But isn't it always like that? There's always the perfect dream and then slowly, reality chips away at it, until a more complete picture shows itself.
+
+Veron felt a strange sense of nostalgia at seeing Ian now. He'd had a few dreams himself in the past, and he too had to learn that things were rarely perfect, and never for a long time.
+
+“It looks heavy,” Aren said, looking him over.
+
+“Super heavy. But feels just as sturdy,” Veron said and hit his chest piece with a fist.
+
+“At least you don't have to worry about repairs and how much it would cost,” Ian said with some sarcasm.
+
+“It is better armor than what most at your skill-level would be able to afford or wield.” Ivera said. She looked Veron over and nodded slightly. ”Now get your weapons so we can leave.”
+
+Veron smiled. Even now, it seemed like she wanted to get things over with as quickly as possible.
+
+He breathed in deeply as he grabbed the shield with his left hand, feeling the weight of it and the strain on his arm, then taking the spear with his right hand. He looked at the sharp point and then set the spear down on his shoulder.
+
+Veron locked eyes with Ian. The teen seemed conflicted. Envy? Pride? Hell, he might even be glad it's not him. He'll have time to figure things out, and he might even share some of those thoughts with me.
+
+“How do I look?” He gave the teen a smug smile.
+
+Ian smiled back. He crossed his arms in front of himself. “Kind of like an adventurer,” he said with a quiet voice.
+
+“What was that?” Veron asked as he quietly inspected his spear.
+
+“A really weak one. Who has never killed a beast before.”
+
+Veron grinned. “But I do look like an adventurer.”
+
+The teen shrugged but Veron didn't miss the slight smile tucking at his lips.
+
+“Good luck out there, Veron. And don't overextend yourself,” Aren said, Neva standing next to him and nodding along in a sagely way that suggested she knew what he was talking about.
+
+“I'll be there with him,” Ivera said and walked towards the wall, gesturing for Veron to follow. She wore her armor, sword, and a backpack.
+
+Veron made to follow. And stopped abruptly in front of the stone wall.
+
+Without his armor, it wasn't much of an obstacle, but now that he was wearing dozens of kilograms of stone on his body, the chest-high-wall surrounding the home of the Holts provided his first real challenge.
+
+He chucked his spear and shield to the other side and then clambered up, climbing with the grace of a drunk and hungover dwarf, scraping and hitting the rock before he landed on his feet with a groan.
+
+He dusted off his armor and grabbed his weapons. “Perfect start. Let's avoid any walls in the forest.”
+
+Veron heard Aren, Ian, and Neva shouting their goodbyes as he glanced back and waved at them with a smile on his face.
+
+He knew that this moment would come, turning now to face the forest surrounding Eyra, ancient trees growing close to one another, branches full of deep green leaves waiting to drink in the light of the summer sun.
+
+He had felt it, when he had arrived here in Renavor but soon after, the farm work and the people he had met distracted him from the reality of it. The feeling that now rushed back with the same intensity or perhaps even more so than when he had first stepped into these forests.
+
+True and utter wilderness.
+
+A forest that wasn't his, wasn't theirs, wasn't anyone’s. They were just two more beings now walking through the untamed and untaken landscape.
+
+Already, he could feel himself becoming more alert, turning his head at every little noise, every little squeak that came from the underbrush. And he could feel Ivera’s demeaner changing as well. She rarely relaxed fully, always at least a little bit alert it seemed but now, she was even more quiet.
+
+Compared to his own rising tension, he felt that her movements grew smoother and more deliberate.
+
+She came into a flow as they walked through the forest, a flow like he knew experienced artisans and crafts people entered into when they worked on something they had done for thousands of hours.
+
+Sure, he had a spear, armor, and his shield. And he boasted a few months of training, but the way he felt now, in comparison to her, made the difference in their experience starkly clear.
+
+”I normally stay quiet while on patrol. To be able to surprise the less perceptive creatures that prowl the forest. It is paramount for hunting but now that you're here, I think it's fine to talk, let's just do so in a low voice.
+
+“I thought about how to teach you some of the basics, but in the end, I came to the conclusion that it's probably best to just take you with me and do what I do anyways, explaining what I can to you in the process. If you have any questions, feel free to ask.”
+
+“Thank you. I guess you could tell me what we're looking for exactly. I know that you patrol the surrounding forests and hills to hunt and make sure there are no dangerous creatures around but that's the end of it.”
+
+Ivera was quiet for a long moment, the two walking up a small hill, past branches and roots. When they reached the top, she checked the surroundings and listened for a while, then talked.
+
+“I hunt. And I am hunted. I hunt so we can eat. And I am hunted, so that the hunters come for me instead of someone else. That's it.”
+
+“You provide a target so that the farm doesn't become one?”
+
+“Yes. But I also look for beasts that could be dangerous. We humans are far from the only prey that is around.”
+
+Veron followed in silence for a while. It was getting easier to see now, the first sunlight brushing over the valley.
+
+“What differentiates creatures that hunt you, and creatures that you hunt? Is it just power? Or circumstance?”
+
+Ivera stopped to inspect something on the ground, motioning to Veron.
+
+“This is a trail; you can make out that something ran through here. The branches here are disturbed, and you can see that the grass is trampled a little. It's difficult to see these signs at first, which is why I'm pointing them out to you. The more you get used to it, the more you will notice.
+
+“As to your questions; sheer power is one thing, as are the questions of if an animal is hungry, injured, or agitated. If they come across me and see me as a threat, they might attack, or they might flee. There are particularities with every species as well of course. But what I'm mainly concerned about is their Path, more specifically, if a monster has the Chaos Path.”
+
+She was still crouching near the supposed trail.
+
+Veron had a hard time seeing it.
+
+“I know that every being has one Path. How is the Chaos Path different from the others?”
+
+Ivera stood up and continued.
+
+“The paths determine what kind of magic you can wield but they also determine the nature of beings, to an extent. Or perhaps it is the nature of beings that determines their Path. You know of the Vabook, their Elemental Path. They live in nature, eat and drink, spread their ash, and reproduce. They defend themselves when they feel that their territory is under threat, and they run when they feel fear. You will find that most animals in this region are of the Elemental Path.
+
+“Chaos creatures are different. They hunger, kill, destroy, without rhyme or reason. They come from the depths and prowl the lands for whatever they can devour, and nothing can stop them except for death. You will learn quickly when a dangerous chaos beast has come to a region.”
+
+Ivera walked slower now, crouching from time to time to inspect the forest floor.
+
+“You mentioned Chaos and Elemental beasts but what about the others?”
+
+“They exist but they are far and few in between. At least in these regions. You may come across the occasional Blood beast, easily mistaken for chaos monsters but they are often more elusive and less inclined to engage a foe they cannot thoroughly overwhelm. More territorial too usually. Can be followed to a lair or cave whereas Chaos beasts often roam.
+
+“The runic and Devotion Paths are far more common in beings of thought, as they require intellect and vision. Concepts that mere animals very rarely comprehend.”
+
+“What about Fae animals?”
+
+“I’ve never seen one, but I understand their essence fetches quite a price. Quiet now, I think this trail is fresh. We might find ourselves our first prey.”
+
+Veron didn't miss the slight excitement in her tone. he followed as silently as he could.
+
+At first, he expected them to come across some creature in the next few minutes but that wasn't the case. They followed the supposed trail for around an hour before Ivera called for a break. They ate and drank but remained silent, Ivera resuming their search as soon as they were done.
+
+The initial excitement and adrenaline that Veron had felt had long passed but now he felt them replaced with growing anticipation.
+
+It took another hour or so for them to find something.
+
+Movement in the underbrush. A hissing sound and tearing flesh.
+
+Slowly, they approached, the smell of blood in the air. Veron gulped, feeling himself tense up, gripping his shield and spear after the long walk.
+
+He could see strange slithering movements, jet black and smooth skin, eating something covered in blood and gray fur.
+
+Ivera spoke in a whisper right next to him. ”We're too late. Serpents got here first. Chaos beasts with small wings they use to jump short distances. Their bites are venomous but your armor should protect you if they don't get your face or any of the gaps. Fight defensively and hide behind your shield as much as you can. I'll take the two on the left, you try and face the one on the right. Ready?”
+
+Veron heard a ringing sound coming to his left ear. He felt his heartbeat pick up and consciously slowed his breathing as best he could. He didn’t feel ready. Not in the slightest. No, he was scared shitless.
+
+But he’d been scared shitless before and he knew that if he wanted to explore this world, he would be scared again. He wouldn’t falter here.
+
+And so he nodded instead, and focused fully on the slithering mass of flesh before him. He couldn't even tell that there were three of them. All he could do was focus on the training he had gotten. He raised his shield and prepared his spear, waiting for Ivera’s signal.
+
+She rushed out a moment later, fast on her feet and almost silent. He followed and aimed towards the right, coming out onto the trampled space, an acidic smell mixed with blood assaulting his nostrils as he saw a large blade flash out and cut clean through flesh, a large and thick snake cleaved in two, hissing as its body parts slithered and twitched on the forest floor.
+
+The other creatures hissed and raised their heads, black beady eyes taking in the attackers as they opened large maws lined with needle-like teeth. One of them hissed and turned towards Veron.
+
+He focused on the beast, hiding his left side behind his shield and holding his spear as straight as he could. A part of him told him this wasn't the best weapon to face this creature but he pushed the thought aside, fear and adrenaline making him focus fully on his foe.
+
+The snake was large, raising its head higher than Veron stood tall, its skin jet black with tiny scales reflecting strands of sunlight that moved through the trees above. It looked ravenous and calculating at the same time, tiny leathery wings of black skin adorned it's back, moving in anticipation.
+
+And then it shot forward, instantly. Veron felt a heavy impact, almost stumbling back as something grated against his chest and shoulder, a dull pain made him grit his teeth as he turned, the large snake slithering to the ground and turning its head to face him once more.
+
+It had glanced off his armor but he didn't know if it had gotten through. This time, he crouched and raised his shield, his arm trembling from the impact of the heavy creature that jumped at him in the next moment. He saw the back end of it slither away when he stood tall again.
+
+It's too quick for me. It will wear me out.
+
+He watched where it landed just a few meters away and charged forward, his spear angled high and towards the large head that was as broad as his neck. He reached the monster when it raised its head and moved for another charge. Veron thrust forward his spear of stone, the attack leaving a gash across the creatures scales, black blood covering his weapon.
+
+The monster reeled back and then attacked again, aiming to bite down on Veron's head from above but he managed to take a step back at the last moment, the monster now too close for him to hit with his spear so he took another step back and then thrust forward, eliciting a hiss from the monster as it slithered on the ground and went for his ankles. He could feel a stinging pain but it seemed his shin guards took most of the hit.
+
+He nearly fell but just barely managed to stay upright, looking down at the large maw around his leg, the beady eyes looking forward. He struck down with his stone spear, feeling the resistance and hearing the tear of flesh as he pushed more, leaning forward to add weight to his weapon until he felt the grip of the jaws slacken, dark blood spilling on the earth below.
+
+He made to rip out his spear but felt his balance waver, strange heat coming from his leg as he felt his vision blur ever so slightly. He saw Ivera approach and kneel down next to him.
+
+“Stay still and don't move.”
+
+That’s the same thing. Or is it?
+
+He saw her blurry form open the jaws of the monster and leaving it on the floor. She gently helped him sit down and opened her pack, taking out a small knife, a small glass container, and a bundle of herbs. ”Open your mouth and chew. Don't spit it out.”
+
+Veron did as she asked, biting down on the bitter plants and nearly gagging from the strong taste.
+
+“I suggest you don’t look.”
+
+Veron looked, and saw the small knife she held glow orange. He could feel the heat emanating from it.
+
+He knew what would happen next and bit down on the piece of wood she offered. He watched her check and slightly clean the wounds before she seared them with the glowing hot blade.
+
+Veron nearly passed out, screaming into the piece of wood with his teeth clenched but the searing pain was gone quickly, Ivera working fast. He cried quietly as she put a cooling salve on his wounds.
+
+Veron removed the piece of wood and still chewed on the bitter herbs, glad now for the distraction it provided against the pain. ”That is rough. Holy shit,” he said and then started laughing, nearly choking on the herbs before he focused back on eating them. ”Should I swallow them or spit them out?”
+
+Ivera looked at him, a mix of emotions on her face before she spoke. “Just chew, don't swallow. I should have taken care of most of the venom. It shouldn't be deadly on its own, but I'm not sure with a Feeble Path. How's your vision, do you think you can stand?”
+
+Veron closed his eyes for a moment. ”Give me a moment.”
+
+He waited, slowing his breathing as best he could and trying to feel it out. His leg, where Ivera had burned the wounds still hurt, but the pain was less now, the heat he had felt at first was gone, but he still felt slightly feverish.
+
+When he felt a little calmer, he tried to stand and managed it with a slight stumble. His spear remained embedded in the creature’s head, it's beady eyes looking the same as they had when it was still alive. His shield lay to his side, the scrapes from the fight visible on its surface, a broad crack showing where the monster had impacted directly and with all its weight.
+
+He had fought it. Had killed it. With his own two hands.
+
+He laughed to himself, clutching his hands together as he felt them shake and tremble. He felt cold sweat go down his back as he realized how close he'd come to dying. But he hadn't died. He had survived.
+
+Ivera touched his brow and frowned. “You should absorb its essence. It may help with the fever.” She looked around and then grabbed onto the corpse of the snake, removing the spear in the process. “Come with me.”

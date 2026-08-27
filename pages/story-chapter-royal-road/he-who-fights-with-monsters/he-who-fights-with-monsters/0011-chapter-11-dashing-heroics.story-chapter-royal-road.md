@@ -1,0 +1,177 @@
+---
+id: 8d070f0e-b164-5ec5-8845-1ff3bd2a1f62
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: Dashing Heroics"
+slug: 0011-chapter-11-dashing-heroics
+partOf: he-who-fights-with-monsters
+position: 11
+ownLength: 2049
+unit: words
+ownProgress: 2049
+publishedAt: 2019-08-01
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387679/chapter-11-dashing-heroics"
+royalRoadId: "387679"
+markedReadAt: "2026-06-29T19:04:08.847Z"
+---
+
+Jason cautiously stuck his head around the door but didn’t see any more cultists. Even going back into the chamber he didn’t see anyone. Whoever hadn’t chased up the tunnel were most likely on the platforms above. He made his way up the stairs as quietly as he could, still no cultists in sight as he reached the first platform.
+
+He dismissed the cloak as he approached the lion man’s cage. It had the same heavy bars and large space as Jason’s cage, but where Jason had been able to stretch out, the lion-man barely fit.
+
+“Sorry,” Jason said as he fished the key ring from his inventory. “I’ve been hit on the head a lot today, so I don’t remember your name.”
+
+“Gary,” the lion man said, a low, rumbling growl to his voice. “I didn’t think you were coming back.”
+
+“I tried to talk myself out of it, believe me.”
+
+“Instincts of a hero,” Gary said.
+
+“I’d probably put it down to compromised judgement,” Jason said. “I’ve been knocked out several times today.”
+
+Jason kept trying keys.
+
+“I’m not even sure one of these will work,” he said. “I was hoping to do this quietly but I still have some more coins… oh, there we go.”
+
+The lock clicked open and Gary squeezed his enormous frame through the door. Inside the cage, he had looked like a professional wrestler. Towering over Jason, it looked like he’d eaten a professional wrestler.
+
+“Is there a key for my collar on that thing?” Gary asked. Around his neck was a thick iron choker.
+
+“No idea,” Jason said.
+
+“Give me a look at that.”
+
+Jason handed over the key ring. It had an unhelpful abundance of keys and Gary started looking over them for what he needed. Despite his lion-like head, his hands were fairly normal, albeit huge, and hairy. While he went through them, Jason looked around. There didn’t seem to be any cultists coming down the stairs or back in from the tunnel. What he did find was some kind of ceremonial bowl built in to the top of the cage. Inside was a round crystal, very dark red in colour. He picked it up.
+
+Item: [Awakening Stone of the Feast] (unranked, common)
+
+An awakening stone that unlocks the power of consumption. (consumable, awakening stone).
+
+He shoved the stone into his inventory.
+
+“None of these are for a suppression collar,” Gary said. “They got these collars especially for us, so whoever you took the keys from mustn’t have been in on it.”
+
+“Yeah, I think he was on the outs with the family a bit,” Jason said. “He seemed to have his own thing going on. What does that collar do exactly?”
+
+“It suppresses all essence abilities,” Gary said. “Some race powers, too, but not all of them.”
+
+“Does it suppress you from being a huge guy who can kick the crap out of people?”
+
+A grin Jason could only describe as predatory crossed Gary’s leonine face.
+
+“No it doesn’t.”
+
+Gary took the lead as they went up the stairs toward the next platform, which they reached unchallenged. Jason’s cage was empty, the bars on the front bent outwards. The dead cultist was still laying on the platform with a hole in his chest. While Gary knelt down to examine it, Jason checked the top of his cage. There was another ceremonial bowl, but it had been dislodged. Jason looked around a bit and found another awakening stone of the feast, where it had fallen to the platform when he kicked his way out of the cage. He slipped it into his inventory.
+
+“What happened to this guy?” Gary asked.
+
+Jason held up a still-bloody fist. Gary looked from the Jason’s hand to the corpse to the blasted-out cage.
+
+“I think at this point,” Gary said, “they may be wishing they’d just let you go. How did you get mixed up in this, anyway?”
+
+“Not really the time,” Jason said.
+
+“Right. Good job, though.”
+
+“It wasn’t a good job,” Jason said. “I killed someone.”
+
+“What do you think they dragged us out in cages for?” Gary asked. “It wasn’t to dance for their entertainment.”
+
+“Killing them in return doesn’t make us any better than they are.”
+
+“Sure it does,” Gary said. “Better at killing. Look out!”
+
+Jason turned to see three cultists coming down the stairs. Gary stepped forward to meet them, grabbing the first pair by the throat. He lifted them up, one dangling from each hand as he walked them over to the edge and dropped them into the blood pool below. As Gary walked off, Jason was left face to face with the third cultist, still on the stairs.
+
+Jason’s eyes went wide with panic. He dropped to his knees, hands held out in supplication.
+
+“Please don’t kill me. I don’t want to die.”
+
+The cultist’s surprise registered even through the loose robes and mask. Jason used that moment to shove a fist right into the cultist’s crotch. A strained groaning came from behind the mask as Jason lashed out a second and third time, leaving the cultist doubled over. Jason stood up, grabbed the cultist by the robes and shoved him right off the side of the stairs.
+
+“Did I just hear you begging?” Gary asked, walking back.
+
+“It wasn’t a lie,” Jason said. “I really don’t want to die.”
+
+Gary laughed as he led the way to the third platform, which was now unattended. Whoever had been manning it had either pursued Jason out the door or been thrown to the pit below.
+
+Gary and Jason walked over to the cage, which contained Rufus. Jason now knew the right key to open the cages, which he used promptly. Rufus crawled out the door and stood up, giving Jason his first clear look at him. Rufus had dark skin, a bald head and was stupidly handsome. Roughed up and grimy from his ordeal, he looked like an action hero heading into act three with masculine dirt stains reflecting enemies bested and challenges overcome.
+
+“That’s not fair,” Jason said.
+
+“What isn’t?” Rufus asked, his voice like dark chocolate.
+
+“It doesn’t matter,” Jason muttered. “Let’s just go.”
+
+“Too bad I don’t have a weapon,” Rufus said, and Jason produced the evil trowel.
+
+“It’s not much,” Jason said, “but it is suspiciously sharp.”
+
+“I’ll take it,” Rufus said gratefully, looking it over in his hand. “It is suspiciously sharp, isn’t it.”
+
+Gary and Rufus lead the way up, Jason pausing to snatch a third awakening stone from the top of Rufus’ cage. As they ascended the stairs, a lone cultist walked casually down to obstruct them. The cultist pulled her hood back and took off her mask, revealing long, dark hair and the face of a young woman. She pulled a short sword out from within the folds of her robes.
+
+“I’ve got this one,” Rufus said, stepping past Gary. He brandished the trowel in the woman’s direction.
+
+“Alicia Vane, I presume?” he said.
+
+“I was disappointed that I wouldn’t get to cross swords with the famous Rufus Remore,” she said with a sneer. “Looks like I’m lucky after all.”
+
+Rufus didn’t respond, instead lunging forward. What followed was a blaze of movement so fast Jason had, at best, a vague grasp of what was taking place. They bobbed and weaved, both restricted by the width of the stairs. Between them was a blur of motion, sword against trowel. Despite the inferior weapon and the lower ground, the cultist was being pushed back.
+
+“That’s enough, Alicia,” a voice came down from above. Jason recognised it as the woman from the basement. With a look of reluctance, Alicia disengaged from her fight with Rufus and started backing up the stairs. Rufus lazily tossed the trowel into the air, where Gary smoothly snatched it and launched it out with a flick of his powerful arm. The practiced ease of the pair’s teamwork took Alicia by surprise; she failed to react before the trowel lodged itself in her throat.
+
+“You’ll die in pain for that, you hairy brute,” the woman’s voice came fiercely down. As the woman yelled, Alicia dropped her sword, clutching at the trowel buried in her throat as she staggered and fell off the stairs.
+
+Rufus moved forward, snatching up the dropped sword as he went. he led the way up to the final platform. The last cage, and the woman inside it, were against the wall like all the others. The platform was slightly longer than the one below, with some kind of ritual altar on the end. There were two figures standing in front of it. Rufus and Gary stepped onto the platform first, while behind them Jason pulled a gold spirit coin from his inventory and discreetly palmed it.
+
+The final two cultists had both removed their masks and hoods. The woman seemed much younger than Jason expected for someone with adult children. To Jason’s eyes she looked to be in her early thirties, no older than her son Landemere. She was beautiful, with the same olive skin and dark hair as her daughter. The man next to her, by contrast, was plain. In his ceremonial robes he looked like a chartered accountant at a costume party.
+
+Despite his appearance, the man quickly demonstrated his power was not to be dismissed. He threw out his arms and Rufus and Gary were both thrown back, slamming into the wall. Glowing chains emerged from the stone to wrap around their limbs, binding them in place. Jason, now the last one left, looked nervously at the now helpless pair.
+
+“You’re still causing trouble,” the woman accused Jason. “First my son, now my daughter? They may have been worthless, but weren’t for the likes of you to kill.”
+
+“Not a lot of pictures up on your fridge, I’m guessing.”
+
+“SILENCE!” the man roared. “You think you can stop what I will do today? You think any of you can stop me?”
+
+Whether due to the absurdity of the situation, the concussion or just pure adrenaline, Jason couldn’t take the man seriously. Even with the power he had just demonstrated, he just seemed like a petty little man who hated to be ignored.
+
+“Mate,” Jason said, “I don’t know if anyone told you, but you’re very melodramatic.”
+
+The man’s face flashed with fury.
+
+“You will bow before the magic of Darryl Caruthers, worshipping my name as I...”
+
+“Wait, wait, hold on,” Jason interrupted, holding up a hand. “Did you say your name was Darryl Caruthers?”
+
+“You have heard of my greatness!”
+
+“Sorry, mate, no. It’s just that Darryl Caruthers isn’t exactly a high priest of evil kind of name.”
+
+“What?”
+
+Jason gestured at the woman.
+
+“I mean, what's your name?”
+
+“I am Lady Cressida Vane,” she sneered.
+
+“See, now there’s a quality high priest name,” Jason said. “High Priestess Lady Cressida Vane. Just listen to it; you can practically hear the tyranny.”
+
+“Stop babbling,” Darryl scolded. “This doesn’t…”
+
+“Why didn’t they put you in charge?” Jason asked Cressida, ignoring Darryl. He gave her a sympathetic look. “They didn’t want a woman in charge, did they?”
+
+Darryl’s face was starting to redden with anger.
+
+“That has nothing to do with…“
+
+“Oh, be quiet, Darryl,” Cressida spat out. “You and I both know who should be running things, but they refused to let a woman take a seat at the Red Table. If I was…”
+
+“Stop being hysterical, Cressida,” Darryl said.
+
+“Hysterical? I should…”
+
+Neither had noticed Jason edging closer from the moment he started provoking them, or when he slipped the gold coin in his mouth as they turned on one another. Strength flowed through him, again, but this time joined by pinching, cramping pain. It was too soon since he used the last coin, and his body was paying the price. He fought through it and stepped between the bickering pair. They both looked at him in surprise as he shoved a hand out either side, one slamming into each of them.
+
+The result was like firing them from a catapult. They both hurtled through the air horizontally, not even arcing down with gravity before they smashed into the sides of the chamber. The sheer force crushed them into the hard stone, from which they tumbled down, out of sight.

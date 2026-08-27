@@ -1,0 +1,171 @@
+---
+id: 2d7a3659-ab42-5151-8461-c3a2878ef9ec
+page-type-slug: story-chapter-royal-road
+title: "220. It's a Trap!"
+slug: 0220-220-its-a-trap
+partOf: god-of-trash
+position: 220
+ownLength: 2272
+unit: words
+publishedAt: 2025-10-24
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2702256/220-its-a-trap"
+royalRoadId: "2702256"
+---
+
+Rhys yanked the case off the pedestal. The glass lifted away in one smooth motion, revealing the ring. He held his breath, his senses completely extended, ready for anything to lunge out at him.
+
+Nothing. Silence filled the room.
+
+Daran sighed, putting a hand to his forehead. “What did I tell you? I didn’t trap the things I left for me.”
+
+“It was a reasonable thing to worry about. I stand by that,” Rhys replied. He’d be a fool not to expect a trap in a dungeon, especially when the final boss had made such a fuss about that particular item and pointed Rhys toward it in particular. The gauntlet was whatever; Daran had said he couldn’t use it, and no one bothered trapping their trash. The ring, though—Daran had drawn attention to it, asked Rhys to retrieve it, and then been mysterious and foreboding about it. True, the man was mysterious all the time. It was his hobby. But for most people, acting mysterious meant there was something evil about what they were doing, or about to do. On top of that, Daran was the Demon King. It wasn’t strange of him to suspect the Demon King of being up to something when he suddenly started acting mysterious, even if he was the kind of guy to act mysterious all the time.
+
+Not only that, but it was a ring. Rings were famously cursed, trapped, or otherwise. In trashy media, rings would always devour one’s soul, or poison them, or cause hideous damage in some insidious way. Rings were the quintessential ‘don’t touch’ item. Sure, rings could be completely safe, and they often were, but if anything was going to be cursed, it was going to be a ring. Plus, the big ruby, the obvious glyph… it looked dangerous. He wasn’t the weird one for taking it seriously, Daran was the weird one for thinking it wasn’t worth worrying over.
+
+He picked it up. The weight of the cool metal and ruby fell into his palm, and he rolled it around there. If the ring wasn’t meant for a mage, he wasn’t sure it could have functioned as a ring. At the end of the day, the ruby was a big rock, and the gold wasn’t light either. It weighed enough that he was pretty sure mortal him would struggle to lift his finger after he wore it.
+
+Once he was holding it, he could feel the powerful mana flowing within the stone. It traced the form of the glyph, which bound the mana to the gem. There was a flavor to the mana, though he couldn’t really put his finger on what it was. If he reached out to it, he was pretty sure he’d be able to identify it, but he wasn’t about to prod the mysterious ring the final boss wanted with his mana. If it had a secret activation, then that was definitely the trigger.
+
+“So… what do you want this for?” Rhys asked, tossing it in his hand.
+
+“It will help revive me.”
+
+“Oh, so I’m reviving you, huh.”
+
+“Are you not?”
+
+“Still haven’t decided, honestly.” He caught it out of the air and turned to Az. “Any good reading in here?”
+
+“Any good—every essential tome a mage needs is contained within these halls! I have secret techniques from fallen sects and rare tomes the world hasn’t seen for centuries hidden away here. What do you mean, ‘any good reading?’”
+
+Az hopped off Rhys’s shoulder and padded behind him. There was a soft noise, and the human Az stepped out from behind him. “The library is a bit light on fine literature, but there’s enough to get by.”
+
+Rhys smiled and offered Az his hand. “It’s good to see you again, man.”
+
+Az shook his hand somewhat delicately. “I am glad to see you survived the Empire. I would have missed you, if you did not return.”
+
+“Good to hear, man. There was a big library over there. You would’ve loved it.”
+
+Az lowered his head. “I don’t doubt that.”
+
+Rhys tilted his head. “If you’re so strong, why were you afraid of the Empress, anyways?”
+
+“Who said I’m strong? I’m a mere Tier 4 mage, a weakling,” Az stated haughtily. A moment later, Rhys felt an adjustment in the air, and suddenly, he could sense Az’s tier; as the man said, it was only Tier 4.
+
+Rhys sighed. At the end of the day, he’s a cat. He couldn’t expect Az to want to exert a lot of energy or effort for something that didn’t directly benefit him… or even for something that did directly benefit him. Az didn’t personally want to intervene in the Empire… so he hadn’t. End of discussion. Besides, who knew? Maybe the Empress’s technique could threaten the core of someone more powerful than her. It didn’t seem likely, but then, he could fight a level above his Tier. Maybe the Emperess could steal cores a tier above her.
+
+Though… I think the most likely explanation is that Az just didn’t feel like it.
+
+“Who were you talking to?” Az asked.
+
+“Tell him nothing,” Daran hissed.
+
+“Sorry, man, I trust him more than you. And yes, I know he’s a cat. Az, it’s the Demon King. Daran. He’s kind of an ass, and he’s been saying really nasty things about you.”
+
+Az blinked. “Oh.”
+
+“Listen, between you and me… how bad would it be if I revived the Demon King?” Rhys asked honestly.
+
+Tilting his head, Az considered. “You would make an enemy of everyone in the Alliance.”
+
+“What if I’d already done that?”
+
+That gave Az pause. “What did you do?”
+
+Rhys waved his hand. “Oh, you know. Just killed the Emperor and sent all her cores back to the people they belonged to, rather than handing them over to the Alliance. You know. Real scumbag stuff.”
+
+Az’s brows furrowed. “Who disliked this? I wouldn’t think the Alliance would turn on you for that.”
+
+“This guy in purple named Virgil. He seemed to have the Sword Saint under some kind of control. Have you ever heard of him?”
+
+“Virgil Agnacious?”
+
+Rhys shrugged, spreading his hands. “I’ve given you all the information I have.”
+
+“If he was… in control, then it’s likely him. He is… the current leader of the Alliance. I did not anticipate him taking the reins, but he did nonetheless. I was struggling to understand why he was able to take control, but if he was able to control the Sword Saint somehow, then that explains how he was able to seize power, despite his personal somewhat-low Tier and middling-level political maneuvering. The Sword Saint is not the Sword Saint of old, but he does still represent a large portion of the Alliance’s strength.” Az paused and put a hand thoughtfully on his chin. For a moment, Rhys thought he was going to continue, but at last, he shook his head and lowered his hand.
+
+“Worthless beast,” Daran muttered to himself, unrelated to anything Az had said.
+
+“You knew the previous Sword Saint?” Rhys asked.
+
+Az gave him a look. “Do you think the Sword Saint had time for libraries? No. But I knew of her. It was hard not to. She had… a reputation.”
+
+“As a drinkin’, smokin’, hardass son-of-a-bitch?” Rhys repeated, though he used a certain down-home accent when he said it.
+
+“That is not how it sounded when I said it,” Daran refuted, crossing his arms.
+
+A slow blink was Az’s only reaction. After a moment, he ducked his head in a sort of nod. “I suppose a certain uneducated kind of person might describe her so crudely.”
+
+“Uneducated? Uneducated! Do you know, I spent my days in the company of philosophers, discussing the very fundament of this world—”
+
+“Damn, how’d you know?” Rhys asked, a little impressed.
+
+At that, Az cracked a rare smile. There was something evil in it, as there always was, when a cat was self-satisfied. “I knew that Demon King of yours well.”
+
+Daran pressed his lips shut and crossed his arms. “I see how it is. Teaming up on the man who doesn’t even have a body? How pathetic.”
+
+“He’s trying to make us feel bad because he’s dead,” Rhys reported.
+
+“Imagine, being so weak you die.”
+
+Rhys gaped. He turned to Daran. “Are you going to let him get away with that?”
+
+Haughtily, Daran turned away. “I refuse to engage with you idiots any longer.” With that, he vanished.
+
+“Wait! You didn’t tell me what to do with the ring… ah, well.” Rhys tossed it into his storage ring for later. He could pester Daran about it later, when they were in a better place for serious conversations. If Daran tried to talk seriously now, Rhys and Az would just tear him apart for the lols. They were just in that kind of mood, and there was nothing Daran could do about it.
+
+“Has he gone?” Az asked.
+
+Rhys shrugged. “I can’t see him. I’m never sure if he’s actually ‘gone’ or not.”
+
+Az hummed. “You should take care. He was overthrown for a reason.”
+
+“His sparkling personality?”
+
+“More than just that.”
+
+Rhys nodded. It was a worthwhile warning. Daran had become ‘known’ to him, and he struggled to view the man with fear; honestly, he struggled to not taunt him, most days. But Az was right: the man had, at one time, dominated the Alliance through might and tactics alike. He was a formidable opponent, if he became an opponent, not someone Rhys should look down on, even subconsciously.
+
+“Whether history remembers him as evil or not, someone who claimed that much power is a formidable figure.” Az looked directly at Rhys, as though he were trying to impart something.
+
+Rhys blinked back at him, lost. What on earth is he trying to say? Something about me? About himself? Or… is he hinting at something I should figure out about Daran?
+
+Az kept staring at him for another long moment, then harrumphed and looked away. “In any case, let me show you his finest selections…”
+
+They walked on. Behind them, Daran re-materialized and wandered in the opposite direction, weaving through the shelves. A little more sure that they were alone, Rhys nodded at Az. “Earlier, I asked you about Mouse. Do you know anything about what happened to her? Or Lira or Sable, or any of them.”
+
+Az inclined his head. “Your actions… were misconstrued to the Alliance. Your followers are unloved, but on the run. None have yet been captured. As for Mouse…” He trailed off.
+
+Misconstrued how? What did the Alliance say about me? The questions burned in Rhys’s chest, but he knew As would tell him exactly what he wanted to, and nothing more. Asking extra questions would only derail Az from answering the question he’d decided to answer.
+
+Az paused. He looked Rhys in the eye. It was the same exact effect as a cat who’d been walking alongside you, suddenly stopping and making eye contact, and Rhys froze, suddenly a little on edge. “As for Mouse. She is safe, but you should worry for yourself first.”
+
+“What?” Rhys asked, frowning. What did that mean?
+
+Az looked away. “You should leave. No one has touched these books for too long. I’m going to take them with me.”
+
+Rhys nodded. Turmoil brewed within him, but there was nothing he could do about it. Instead, he took a deep breath. “Are there any good books on the void here? Or the beasts within it?”
+
+“No. There are, however, many bad books. Would you like those?”
+
+Rhys considered, then pulled out the small red book. “How do they compare to this?”
+
+Az took the book from him and flipped through its pages. He nodded. “This is superior.”
+
+“Then I’d like them even more.” He still didn’t understand the book completely. He still intended to spend more time trying to comprehend it with Daran’s help, but it was only one book. A thousand bad examples and poor perspectives would give him a better view of the void, even if he had to read a thousand bad books to equal one good book. Besides, holding several different perspectives inside his head would let him mix and match perspectives to discover the truth, especially when he was struggling so hard with what was essentially the graduate-school level book. Everyone had to start at kindergarten to eventually understand grad school; it was just a fact of the world.
+
+Az chuckled. He waved his hand, and books flew from across the library into a neat pile. He handed the stack to Rhys, then leaned in. “I also included a few pieces of… choice literature. As a service.”
+
+“Thank you. I’ll be sure to read them.”
+
+“It was especially amusing to know that the Demon King had previously enjoyed them,” Az said, then strode away, perusing the shelves as he went.
+
+Rhys made a quick circuit of the library, sucking up its dust and filth and picking up some of the less-distinctive-looking artifacts to sell for Alliance gold, then returned to Daran’s side. “Come on. It’s time we headed into town.”
+
+“And leave that beast alone in my library?” Daran said, shocked.
+
+“You’re free to stay behind, I guess, but what are you going to do to Az? He can’t even see you.”
+
+Daran glared at Az’s back for a moment, then harrumphed. “You should take more care with who you befriend.”
+
+“You know, funny thing. Az just warned me of the same thing.” Rhys walked for the door. Daran glanced over his shoulder at Az one last time, then reluctantly followed.

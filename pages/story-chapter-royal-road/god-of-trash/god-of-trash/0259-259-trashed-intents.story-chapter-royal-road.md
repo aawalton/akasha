@@ -1,0 +1,129 @@
+---
+id: cf4df5bf-ae30-5a21-ace7-a1931d54d90c
+page-type-slug: story-chapter-royal-road
+title: "259. Trashed Intents"
+slug: 0259-259-trashed-intents
+partOf: god-of-trash
+position: 259
+ownLength: 2348
+unit: words
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2927808/259-trashed-intents"
+royalRoadId: "2927808"
+---
+
+Rhys activated his intent, reaching out to the lingering intent still attached to the mana threads that made up Amos’s mark. The threads trembled, and the intent wavered, then lit up bright, resonating with Rhys. An overwhelming quantity of information poured into Rhys’s head as all the trashed intents surged toward him at the same time. Rhys’s head ached, and blood flowed from his nose, but he slammed his head into it anyways, welcoming all the information into his skull at once. He could try to slow it, or refuse it, but that wasn’t his way. He was trash. If he refused good training opportunities like this, he’d never advance. It was only due to his willingness to trash himself and throw himself into every good opportunity he got, that he was able to reach Tier 4 so early.
+
+His head ached, and his skull pounded, but the information flowed steadily into his head. Each thread of mana lit up in his mind, drawing him in. He fell into the swirling vortex of information willingly, letting it wash him away. Foreign knowledge flowed into his head, and then he was gone.
+
+He stood over Amos. The man kneeled before him, willingly pulling aside his collar to bare the spot where the mark would go to him… to Virgil. He lifted a purple-robed arm and pressed his fingers to the man’s flesh, just below his collarbone, and just inside where the hem of his robes would lie. Mana poured from his fingers, and he shaped it with expert ease, drawing the foundation of the mark, then filling it in.
+
+His intent, his desires for Amos, all of these flowed into the mark, and Amos accepted them willingly. In this moment, his mana connected to Amos’s, and as a result, he could sense everything about the man: his heartbeat, his breathing—even his thoughts, though vaguely; rather than literally reading the man’s mind, he could sense the general gist of his feelings. Amos’s devotion toward him was genuine, and deeply held, not superficial, like many of those he marked.
+
+For a moment, he was tempted to leave off the more forceful elements of the mark, but then he hardened his heart and finished it, adding all the usual coercive pieces to the enchantment. Just because Amos was willing and earnest in this moment, didn’t mean he would always remain that way. People’s hearts and minds were fickle things. Tomorrow, this man could meet a beautiful woman and decide she was worth betraying him over. He couldn’t accept that. No, the only way to trust Amos was to use the mark to ensure he wasn’t able to betray him.
+
+He pushed his mana into the mark, finishing the binding. Threads of mana expanded to cover all of Amos, then condensed into the diamond-shaped mark. Amos grimaced—the marking process was painful—then gazed up at him with clear, earnest eyes. “Thank you, my liege.”
+
+He smiled. If only everyone could be so grateful. “It is my honor.”
+
+And then the vision ended, and Rhys stood in the basement with Amos once more. But this time, he knew the mark as though he’d made it himself. He reached out into it and severed the parts of the mark that forced Amos to act according to Virgil’s will, using some impurities to easily block off the mana threads. The mark flickered, then remained. Now that he’d experienced how Virgil made the marks and tracked them, he knew that if Virgil touched the mark, he would know it had been altered, and even know exactly how Rhys had altered it, but this mark—and most of his marks—did not have any kind of tampering alert system, so without touching it, Virgil would have no idea that anything had gone wrong with his mark.
+
+Rhys sat back, satisfied. “I’ve done it.”
+
+“Done what? What did you do?” Amos asked, horror creeping into his voice. At some point, he’d wiggled out of his mouth restraint again, and was once more able to speak. He craned his neck to look at the mark, then looked at Rhys. “You can’t. You don’t understand. He’ll never trust me again!”
+
+“Oh, I understand,” Rhys said, then sighed. “This is unfortunate.”
+
+“What is unfortunate?” Amos asked, still panicking.
+
+“You’re loyal to Virgil.”
+
+“H-how is that unfortunate?”
+
+“Because I succeeded. I can’t have you running back to Virgil with proof that I can edit his marks. I need him to think his marks still function for this to work.”
+
+Amos paled, but at the same time, a bold expression flashed over his face. “I won’t tell him. You can trust me. Please. I’m bound down here with no way out. You can trust me.”
+
+“No, I really can’t.” Rhys sighed again. “I guess I have to kill you.” He reached out for Amos’s face.
+
+Amos shied away. “No—no, no, no—”
+
+Rhys lowered his hand. “Oh, wait. Soma!”
+
+There was a pause, and then the steady thump-thump of feet on stairs, and Soma appeared. He was a little disheveled, in a charming kind of way, with the kind of scuffed hair and imperfectly worn robes that suggested exactly the kind of activities he’d probably been up to. “Yes, darling?”
+
+“I did it.” Rhys sat back, gesturing at Amos. “I can edit marks now.”
+
+Soma blinked, startled, then ran over and gave Rhys a big hug. “Rhys! I knew I could count on you.” He drew back a little, just far enough to look Rhys in the eye. “Will you edit your own friend’s mark?”
+
+“Yeah.” He could do it, so he’d do it on anyone.
+
+Soma sighed. “Youn understand, right? I can’t just trust anyone. Even Rhys Foundling. If you decided to trigger my mark under the guise of editing it, even I would be in big trouble. Well… at the end of the day, darling, I have to trust you anyways. But I want proof you can truly do it with enough confidence to do it to your friend, first, no?”
+
+“No, I understand,” Rhys said. It was a trashy attitude to take, forcing him to prove that he could do it by doing it to someone he loved and trusted, but he understood it. He probably would’ve done the same, if a mysterious man had appeared and claimed he could do something to Rhys’s body that might kill him if it went wrong—forcing the man to prove it on someone he cared for first, would at least prove that he was capable of doing it. Sure, it was one of those default-villainous things to do, but sometimes the heroes were naïve idiots who’d trust anyone with their lives even when they had no reason to trust that person, and the villains were often vastly more competent than the heroes, besides. If the heroes didn’t have plot armor, they would never make it through all their foolish blind trust exercises, whereas the villains, without plot armor, were the ones making rational and reasonable choices.
+
+And maybe he was in his villain arc. Who was to say?
+
+“Aww, you’re so understanding.” Soma rubbed his face against Rhys’s cheek. “Let’s go upstairs and I’ll give you a proper reward, hmm?”
+
+“Soma,” Rhys said, pulling away.
+
+“Whaaaaat?”
+
+“Eyes on the prize, friend.”
+
+“We can be more than friends.”
+
+Rhys gave him a look.
+
+Soma grinned and winked. “I’m just teasing. Come on. Let’s go test this technique, hmm?”
+
+“Wait. We can’t let him live. He’s deeply loyal to Virgil.” Rhys nodded at Amos.
+
+“Oh. That is unfortunate.” Soma sauntered over, then paused. “Or would you—”
+
+“I have plenty of blood on my hands already. I don’t have any need to add extraneous blood.”
+
+Soma put his hands up defensively. “Some men enjoy the act! It’s actually quite common, you know? Especially among men, but among women too, the act of killing can be arou—”
+
+“Yeah, yeah, yeah. Sexual impotence, right? I’ve watched enough crime dramas.”
+
+Soma blinked at him, then looked down. “Rhys, darling, don’t tell me…? I can whip up a solution for that! You don’t have to be so shy!”
+
+Rhys blushed. “Not me. It was a joke—never mind. You clean up down here. I’ll be waiting upstairs with Lira.”
+
+Chuckling to himself, Soma approached Amos. Amos shook his head, cringing in the chair. Rhys took to the stairs, then paused, looking back. It wasn’t that he wanted to watch a man get murdered, even if it was out of necessity, but he needed to gather information about Soma. The man was on his side now, but who knew? Soma had a history of betrayal. He’d be all the more stupid to not expect a betrayal from the man. It was like cheaters. Once someone cheated once, they’d be sure to cheat again, and only fools thought that someone with a cheater’s mindset would ever remain loyal to a one-on-one relationship. And given how Soma viewed the world, what was to say that he didn’t essentially see all his relationships as romantic, and therefore, betrayal was analogous to cheating?
+
+Ultimately, the motivator in Soma’s betrayals and general romantic cheating was the same: a selfish desire to please oneself. As long as Rhys remained aligned with Soma’s personal goals, he need not fear betrayal. But the second he struck out and left them behind, Soma would start plotting.
+
+Rhys shrugged to himself. That’s fine. I’m not planning to make Soma a long-term ally. We’re allies of convenience for taking down Virgil, that’s all.
+
+Soma settled on Amos’s lap. Amos leaned away, his face utterly pale, the veins standing out on his forehead as he strained with all his might. A beautiful smile crossed over Soma’s face, and he leaned down and kissed Amos on the forehead. Black impurities burst from that spot, and in the space of seconds, the man’s entire body crumbled away, impurities tearing apart his clothes, his bindings, even the chair he sat on.
+
+Rhys raised his brows. Holy shit. That was a stronger impure attack himself than he, The Hunger, or both of them combined could muster. He eyed Soma, a little nervous for the first time. I might be outclassed here.
+
+Soma tipped his head back, his smile deepening, eyes rolled back as he was lost in the moment, so Rhys quickly turned before he was caught peeping and hurried up the stairs. He was the one intruding on this private moment, and if Soma noticed, he’d be the one at fault.
+
+At the top of the stairs, a pair of beautiful women in nothing but transparent bathrobes awaited him. They pounced, then realized they’d grabbed the wrong man and released him, giggling. “Where’s Soma?” one asked, tossing her hair.
+
+“He’s still down there. He’ll be up soon. Uh, he might be good now,” Rhys informed them.
+
+The two exchanged a look, then giggled in sync.
+
+“Oh no.”
+
+“No, darling. He’s never good.”
+
+“That’s great. You know what? That’s awesome for you guys. Excuse me.” Rhys sidled past, trying not to look at anything, and hurried to the upstairs. This place was even more dangerous than the brothel he’d been to, honestly. There, everyone had been busy with one another. Here, everyone was waiting on Soma, desperate for his attention, and putting on displays to draw his eyes, and that meant provocation everywhere. Soma probably loved it, but it was overwhelming for Rhys. I need to get out of here. For more than one reason.
+
+Soma wasn’t a good person. He was a fascinating person, and he was trashy in ways Rhys would never be, which Rhys appreciated just for seeing someone else explore avenues that weren’t available to him, but he wasn’t good. He was objectively a bad person, who collected a harem and violated all kinds of moral and social principles—but then, he was a Remnant Weapon. Just like how Sid was openly horrifying and Straw had his moments of extreme violence (and somewhat strict and extreme plans for training two boys), Soma, too, was problematic.
+
+But then, he didn’t need to be a good person. Rhys wasn’t a good person, either. He was trash, and since he was trash, he wasn’t like those heroic protagonists from his favorite works, who had moral codes and refused to work with people who didn’t align from them. He needed to grasp at whatever straws he could, and whatever trash was willing to be his ally, he would be grateful to have on his side. Of course, Soma was truly a trashy ally. He had a betrayal problem, and if anyone from his world looked back on this time, he was pretty sure they’d ask why he aligned himself with such a sexed-out dude, who was so desperately available for cancellation. But from all that he’d seen, Soma’s relationships were all consensual—in fact, though he liked flirting and teasing with Rhys (and, he was sure, everyone around him), he always backed away when Rhys told him to. There didn’t seem to be anything untoward going on, so he didn’t see a reason for him to personally reject Soma.
+
+He stopped and looked around him, at all these people desperate for Soma, and yet none of them truly interested in the man. These halls were empty. They were full of ‘human connection,’ and yet they lacked the true connection that Soma actually craved. The sex, the constant betrayal of people around him, the distance, constantly having to hold back even when he was surrounded by others. He clearly saw Soma as he was, for the first time: a lonely child, looking for acceptance, rejected by the world around him to the point that even the objects he desired fell apart in his hands.
+
+He needs someone. Not me, but someone. Someone who actually loved him and saw him as he was, instead of this meaningless swirling pool of physical, shallow connection.
+
+“Rhys, darling, did I keep you—oh dear! Girls, you didn’t have to. Oh my. Oh my. That’s enthusiastic…oh!”
+
+Rhys sighed and rolled his eyes. Without looking back, he waved. “I’ll be upstairs with Lira.”

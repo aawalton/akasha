@@ -1,0 +1,177 @@
+---
+id: 97ab83a2-c726-51d5-b104-be2d79c945cd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 855 - Bless you"
+slug: 0182-chapter-855-bless-you
+partOf: hell-difficulty-tutorial
+position: 182
+ownLength: 2704
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3779487/chapter-855-bless-you"
+royalRoadId: "3779487"
+---
+
+From my corner, I continue to deal with my changes in a much more comfortable way. I find it fun to defend against other people’s scans and sneakily apply some of my own in turn. Even though I am heavily limiting myself so I don't strain my mind, I can still do quite a bit.
+
+Some of these people are way too easy to probe without them ever noticing, and most of their scans are just as easy to deflect or trick. I find it fun using Sneaky Mode in combination with my Mana Cycling and Empyrean Ichor, drawing on my mana leakage to partially hide my signature. To most people, I must seem like a person with average mana reserves.
+
+There are also a few demons observing the way my hearts beat. Not feeling like fighting right now, I make myself seem as average to them as possible. Some of these demons are already picking fights and causing a ruckus.
+
+This place is huge, with many pillars splitting the areas into zones. There are also multiple other floors with coiling, spring-like stairs heading up and down, as well as plenty of terraces. I don’t think a construction like this would be possible on Earth with its current materials. Though who the hell knows. Maybe the current ones are already getting soaked in mana and being enhanced as Earth awakens.
+
+During this sort of sparring against the other participants, and while I am thinking of silly things, I find my eyes being pulled to the screens again. It is because they are beginning to show hype reels, but this time they are of previous winners. I ignored most of them, only watching out of slight curiosity, but that changes when a young man is introduced as Adrian.
+
+Adrian is handsome and even younger than me. He has red hair and pale blue eyes as the "camera" pulls in on his smile. Then it switches, showing him standing in the middle of an arena that seems to have been constructed on the surface of a moon with the planet visible off in the distance. Against him stands a mora, twice Adrian’s height, with red skin and that same wildness I saw in the trio of crafters and the Endo knight.
+
+The mora licks his lips, and mana starts to spread across his body, changing color, taking on a dark gray hue and solidifying into a sleek armor. It makes the mora seem even wilder, but without looking bulky or restricting his movement.
+
+Adrian takes a step back, getting into a battle stance, and mana starts surrounding his body, the same as with the mora, turning into the same sort of armor. Just before it entirely covers his face, Adrian is shown wearing a challenging, confident smile.
+
+The earth under them explodes as they charge each other, and Adrian makes a joke out of his opponent. Not a single attack touches him as he dances around him, always dodging by a hair's breadth. It is not because it’s efficient, he just seems confident and daring like that, making fun of his opponent in the process.
+
+This view morphs into another scene, showing Adrian walking across a sky that cracks around him like a broken mirror as it shatters into pieces.
+
+Another shot shows him surrounded by dozens of people, possibly other participants. Many of them are smiling around him, listening to him almost lovingly, but the next flash shows him standing covered in blood with their corpses all around him. His face twists into a devilish, handsome smile.
+
+This set of videos stops, and a few of the other winners are presented. A woman with a spider body, a demon even bulkier than Morwag, and many more. None of them seems weak, and I find it especially interesting since this doesn’t seem like the sort of game that’s filled with the absolute best there can be. Even Selene said that this isn't one of the central galaxies, nor is the Halcyon Trust Corporation one of the biggest corporations. In a way, isn't it just some backwater sort of game, similar to how Selene called Earth a backwater planet?
+
+It begins to seem like the laughter from the other groups is starting to reach my corner, so I stand up and head towards the closest balcony to avoid them. A group nearby seems to be having an excited conversation, so I strengthen my hearing and listen in on them.
+
+"-said. Yes, the Ruler of Envy will be spectating. Do you think he’s looking for disciples?"
+
+There is some murmuring I can't quite place, then another voice speaks.
+
+"-fight him. I heard one of the Ruler of Diligence’s vessels will be spectating as well. And Felix Maro too, people say his disciple is from this galaxy, so he came to watch with her."
+
+"Shh, look, that’s the attendee. Hey! Tutorial attendee, yes you! Get your ass over here!" A human woman smiles and waves at me before I can sneak onto the balcony.
+
+There are a few choices laid out in front of me.
+
+I can oblige, get in close, and then grab her and throw her off the balcony.
+
+I can entirely ignore her and the group and just go my own way.
+
+Or, I can go over to them and socialize.
+
+This time, the last option wins. Out of a twisted sense of curiosity, I move closer, putting a friendly look on my face.
+
+“The fuck are you frowning at me for, you asshole? Did I spit into your drink or something? Looking for a beating?” she chuckles, but unlike her words, she moves closer, pushing some other guy away and shaking my hand with a friendly smile. “I’m Xixi, and these fuckers are… I don’t know, how the hell should I remember all their names? You’re one of the siblings, right? Gwyn.”
+
+“Yup.”
+
+“Daamn, I hope that long answer didn’t hurt you. Are you in one of those silent cults, are not allowed to talk, or what?” She laughs out loud.
+
+Xixi has short green hair and yellowish eyes. She is just a bit shorter than me, and her sundress-like clothing shows off her muscular body.
+
+“He must be overwhelmed. Maybe he hasn't seen this many people in a while. What floor are you on, Gwyn?” a feylith man asks, his hair and eyes turning a pastel yellow color.
+
+“14th,” I nod seriously.
+
+That causes him to laugh out loud, and Xixi slaps my shoulder, forcing me to quickly strengthen my body. Though in the end, the slap is surprisingly gentle.
+
+“There are some on my world speculating as to whether the 14th floor truly does exist,” a lumoran woman from the group says. “They theorize Pride agreed in the end to the Ruler of Greed´s plan, and joined in the recreation of the tutorial, but his floor is open to very few ever.”
+
+“Well, I never heard of any jerk ever talking about it. So, how is the 14th floor, Mister Gwyn?” Xixi asks me with a cheeky smile.
+
+“It stinks of the wyverns Pride keeps there as his pets, and doesn't clean up after. Listen, I get you want to play, but the way you’ve been trying to put that marker on me is quite painful to watch,” I say as I turn to the feylith man.
+
+Quickly, his hair and eyes turn black before switching to pale red with hints of yellow as he shamelessly smiles. “It seems that you noticed.”
+
+Before I can answer that even my minion would’ve noticed, another woman speaks, “He entirely blocked my scans,” she says.
+
+“And he redirected mine to Xixi, and I almost didn't notice,” a velnar man adds in a deep voice.
+
+Before anyone else can say something, they look somewhere behind me, just as the presence I sensed approaching comes to a stop behind my back.
+
+I can feel his heartbeat, recognizing a kinetic demon heart from a mile away. Still, I don't bother turning around.
+
+Maybe if I ignore him, he will leave.
+
+"Hey, you human," he says, and his hand touches my shoulder.
+
+And in that moment, I allow my kinetic energy to rise up. My mana floods my kinetic mana heart, converting it all into kinetic energy that I send reverberating through my body. My heart beats powerfully, keeping all the force perfectly within my body.
+
+The demon doesn't say anything, and his kinetic energy rises up as well, but it’s all blown away by my own. It’s wilder, there’s a lot more of it, and it moves much faster, flowing in huge amounts through my body. Remembering Nyssa, the beating of my heart slows down, producing a single beat where once there were two, and then even less.
+
+I feel the hand touching my shoulder begin to shake, and slowly, the demon lets go of me. I don't even turn to look at him as he leaves.
+
+Once again, I refocus my attention back to the group of game participants.
+
+Xixi is looking at me with wide eyes, bursting into a laugh and playfully slapping my shoulder while pulling me closer. "Tell me, has anything fun happened in the Beyond as of late? I really miss that place."
+
+"Not really?" I say, pulling myself away from her a little bit. "Just Diligence creating a mess."
+
+"As in, The Ruler of Diligence?"
+
+"Yup, the house pest. There was that Ancient Armory on the 4th floor. The guy destroyed it entirely, so the attendees won’t have a chance to exploit it. He also, for some mysterious reason, created a zone devoid of mana on the 3rd floor, killed all the fish in Lake City, and all of the lurkers on the 1st floor, before respawning them and taking all of the items from the attendees."
+
+"You’re bullshitting me."
+
+I look at the group around me, who seem to be listening with curiosity, though there are various expressions and emotions on their faces. In the end, I just shrug and don't say anything more about it.
+
+Sorry, Zant, but you should have split the bill with me. Now your Colony leader is going to suffer.
+
+After a few more questions, they seem to get bored of me, and I sneak away when they start talking to a different game participant, apparently some kind of Absolute candidate who’s rumored to be the most powerful of his planet.
+
+With so many people here, I don't care about the individuals, so I rejoin Vic.
+
+The rest of the time, we spend on our own, mostly with her telling me about her floors in that typical analytical way of hers that makes it all seem so devoid of emotion.
+
+And then, hours later, she talks with that same lack of emotion right to the face of the Games, Melek. The selari man has an even fancier suit now, and his two drones zip around.
+
+Currently, me and Vic are sitting on a sofa, facing him as he sits behind a simple table that has some mysterious items arranged across it. Probably decorations. We are in the center of a raised podium, surrounded by concentric rings of viewers who laugh, clap, or gasp depending on what the prompts are telling them to do.
+
+All of this is being recorded to be used in promotional materials later.
+
+"So would you say you were always the more responsible sibling?" Melek asks Victoria.
+
+It’s the latest in a barrage of what must have been at least ten questions, and the drone zaps closer, zooming in on her face as it waits for an answer.
+
+"I would say so. Even if I do not think that's too impressive, given how my brother is," Victoria says.
+
+Melek laughs out loud at that, not realizing that she wasn't trying to be funny. Still, I almost have to admire how genuine everything he does seems.
+
+"And is that your plan for these Games as well?" he asks, and then lowers his voice, whispering quickly to the microphone drone, "sponsored by the Halcyon Trust Corporation."
+
+The crowd bursts into loud laughter. On the other side of the podium, an older selari man sitting behind a strange instrument moves metallic sticks in his hands, striking a series of floating orbs. The snappy jingle he creates is instantly echoed by the rest of the selari band. The crowd loves it, laughing and shouting in excitement.
+
+When the music fades, Melek is still looking at my sister, waiting for her answer.
+
+"Yes, this is what I plan to do," she answers.
+
+Melek doesn't even seem to be disappointed by the short answer, but his attention switches to me. "Mister Gwyn, I have to be transparent with you. We did some research preparing for you tonight, and I have to say that out of all the participants, you are one of my personal favorites."
+
+He keeps smiling, but the crowd falls silent as his voice drops to a lower, more intimate tone. "My team and I were lucky enough to get our hands on a few of the recent tutorial records."
+
+Melek flashes the crowd a conspiratorial look, inviting an excited murmur from the audience, then focuses back on me. "There isn't much of it, but why don't we watch one together?"
+
+There is no question directed at me to see if I agree, and a drone floats closer as something akin to a hologram forms around us, starting to play a scene I remember very well.
+
+Lily lies on the ground, breathing heavily. The wound on her chest is covered in the red flesh of the monster trying to devour her. Gray mana keeps moving to destroy it, but Lily seems to have trouble focusing. I watch as my projection’s eyes meet Lily's.
+
+She nods, and my projection gathers kinetic energy to attack her multiple times over, destroying the chunks of red flesh while hurting Lily in turn. Then, the black-haired healer damages her own body further, profusely bleeding from open wounds. She almost stops breathing until I slap her across the face, forcing her dwindling attention back to me.
+
+And for the first time, as I watch the record, I see the expression I was making back then.
+
+When the projection ends and Melek turns to me, I smile back at him, seeing how taken aback he is by that for a moment, that he even forgets what he wanted to say.
+
+Keeping the smile on my face, I ask him, "Can you tell me who gave you that record?"
+
+"I apologize, but I can't do that," Melek laughs, answering rapidly, while spreading his arms in a defensive yet friendly gesture. "But we have learned the woman in the projection is one of your group members." He winks at me, though it seems more directed at the crowd, which whispers as if they’ve just heard something scandalous.
+
+His eyes become firmer as he locks them with mine, and I notice an imperceptible smirk on his lips as he says, still in that friendly tone, "It was interesting to see that side of you, Mister Gwyn."
+
+“I guess. But I think I know who you got the record from, so I want to say one thing.”
+
+Without even trying, I feel my smile turn gentle as I look right into the camera drone.
+
+“I knew you were a precious little mistake, but isn't this a bit too much? Were you broken when you got your bottom kicked by her? Bless your useless little heart. Why don't you share that record? Or maybe you already did? Is this some sort of fetish? A golly-gee degenerate, voyeuristic freak who gets off on watching yourself get beaten? Is that it? Seriously, what the sweet goodness goes on in that hollow, desperate, glorious skull of yours? Do you wake up every blessed morning wondering how to be an even bigger goddamn disappointment, or does failing this gosh-darn hard just come naturally to you? You're a sad, lovely parasite-”
+
+"I apologize, Mister Gwyn. As you can hear, our audio drone is automatically censoring what it’s detected to be excessive cursing."
+
+“Is that it?”
+
+“I’m afraid so.”
+
+“Bless you, too, Melek. Suck a lollipop.”

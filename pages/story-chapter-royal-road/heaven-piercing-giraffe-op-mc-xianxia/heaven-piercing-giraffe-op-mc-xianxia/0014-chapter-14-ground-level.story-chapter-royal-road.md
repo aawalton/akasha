@@ -1,0 +1,258 @@
+---
+id: 450343ee-a7f0-5b28-8940-3099b1978433
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14: Ground Level"
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 14
+ownLength: 1917
+unit: words
+publishedAt: 2026-07-13
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3669848/chapter-14-ground-level"
+royalRoadId: "3669848"
+---
+
+Chapter 14: Ground Level
+
+My first memory was falling from a very high place.
+
+My mother, apparently, had been standing at significant elevation when she gave birth to me. This was not something I had ever asked about, but the memory was there — the first sensation of existing being the sensation of descending rapidly — and I had always assumed it explained something about my subsequent relationship with altitude.
+
+Fortunately, I had not broken any bones.
+
+"Raffea."
+
+A voice. Coming from no particular direction.
+
+I ignored it.
+
+The voice got louder.
+
+The swaying started. A rhythmic motion, not unpleasant in itself, the kind that under different circumstances would have been a lullaby. Except it was getting rougher. And the louder and the rougher were escalating together in a way that suggested whoever was responsible was losing patience.
+
+Then the face slapping started.
+
+Not once. Not twice. Continuous, at approximately one per second. Whoever was doing it was doing it with their full attention.
+
+I opened my eyes.
+
+White's hand was raised.
+
+She lowered it behind her back with a smooth motion.
+
+I sat up and looked around. The place was familiar. Not from a few days ago, but from several years before that.
+
+Grass. Flat open land extending in all directions. Trees scattered in the middle distance. The smell of open earth and something dry and mineral underneath it.
+
+A savanna.
+
+Then there it was. My favorite acacia tree.
+
+Still there. Taller than me now, which was a strange thing to notice. In my previous life, I had been taller than it for the better part of a century before it finally caught up, and now I was looking up at branches that I had once reached without effort. It had kept growing after I left. Of course it had. Trees did not pause for the convenience of whoever had been eating their leaves.
+
+I wondered if it still remembered me.
+
+Probably not. Trees had a different relationship with time than I did, and a different relationship with the things that ate them. But it was there, and it was the same tree, and that was something.
+
+I looked at White. "What happened?"
+
+She looked at me. "We fell."
+
+I tilted my head.
+
+"You don't remember?"
+
+I nodded.
+
+White grabbed my chin and raised it, moving my head left and right, while checking my cheeks. "Did I face slap you too hard?"
+
+"So it was you?"
+
+"Did someone face slap you too hard?" she repeated, without confirming or denying anything.
+
+I tried to remember.
+
+There was a fight. The training room, bisected by the giant sword. Hippo, and the metal sphere. Fish and Magpie. The hole in the wall. Running through it. Human Dad on the winged log. Lion on his flying sword. The tree with the face. Stick on the ground. The island cracking.
+
+Falling.
+
+Looking up.
+
+The swords moving toward—
+
+The memory stopped there. A clean edge, like something cut rather than something faded.
+
+"The island," I said slowly.
+
+"Destroyed," White confirmed. She was watching my face. "We fell. I used my flying sword. I caught you." She pointed to her right. "He was already riding behind me when I noticed."
+
+No one was on her right.
+
+Fish waved from her left.
+
+I nodded.
+
+I waited for the rest of the memory to arrive. The part after falling. The part that explained the clean edge, the place where it stopped.
+
+It did not arrive.
+
+I looked at the sky. Blue, and wide, and unhelpfully empty of context.
+
+Something was missing. A specific weight, the kind that lives in the chest rather than the head, that I could feel the outline of without being able to identify the contents.
+
+I shook my head.
+
+It would come back. Sitting in the grass would not accelerate the process.
+
+"Since you're awake." White was already standing, dusting grass off her robes. "We should look for the others. I need to find my parents as well."
+
+I nodded.
+
+She looked at me again. She looked away.
+
+"Then let's move."
+
+We walked.
+
+The ground shook.
+
+Not an earthquake. A deep, sustained vibration that traveled upward through the soles of my feet. I turned toward the source.
+
+In the distance, something erupted.
+
+It had the shape of a volcanic event, but what rose was not lava and not ash. It was darkness. Dense, absolute, the black of places that have never had light. It went up and spread and then settled where it had reached and stayed there, a mark on the horizon that the sky around it did not acknowledge.
+
+"I had forgotten the abyss existed." White adjusted her glasses.
+
+"What is the abyss?"
+
+"Who knows. Never been a ground dweller for me to care." She continued walking.
+
+I looked at the horizon for a moment before following.
+
+The savanna extended without urgency. Ground-level terrain had a different relationship with distance than island terrain did. Down here the land simply continued, patient and indifferent, without edges.
+
+After a while, the grass ahead of us moved.
+
+Not wind. A directional disturbance, low to the ground, approaching. I tracked it automatically, and identified the pattern before the source became visible.
+
+Predator. Stalking approach. Large.
+
+The lion came out of the grass and stopped in front of us.
+
+It was large. Its shoulders reached a height that reminded me of trees, and its mane had gone grey, which in my experience meant it was old enough to have eaten things considerably larger than us and experienced enough to have learned the most efficient way to do it.
+
+I recognized the type. I had known lions like this on the savanna. The young ones were loud and committed to demonstrating their own danger. The old grey ones had nothing left to prove and were, in my considered experience, considerably more dangerous for it.
+
+White moved her hand forward, palm outward. "A spirit beast. It shouldn't be that strong given it's from the ground." She closed her eyes.
+
+She held her position.
+
+I tilted my head. "What are you doing?"
+
+She held the position a moment longer. Then she opened her eyes and smiled. "We're in trouble. The spirit energy here is essentially zero."
+
+The lion decided the conversation had concluded and leaped.
+
+I stepped in front of White.
+
+A spear arrived from the side.
+
+It hit the lion mid-leap, in the ribs.
+
+The lion hit the ground. It tried to get up.
+
+Then I heard footsteps. Not the careful soft kind, the full-speed kind, coming through the grass without any attempt at quiet. Then someone cleared the bushes entirely, airborne for a moment before landing beside the lion.
+
+Tall. Muscular. No shirt, his whole upper body covered in black markings that ran in lines and curves the way zebra stripes ran. I would call him Zebra.
+
+He grabbed the spear before the lion had finished deciding what had happened to it.
+
+The lion decided. It twisted its whole body with the particular violence of something that has been hurt and is now committed to expressing an opinion about it. A lesser grip would have gone with it.
+
+Zebra did not go with it. He held the spear and twisted it in the opposite direction simultaneously, leaning his weight into the push, driving it further while the lion was still mid-twist.
+
+The lion roared once.
+
+Then its head came down and stayed there.
+
+Zebra pulled the spear free with a single clean motion and strapped it on his back. He looked at the lion for a moment, then crouched, took it by one back leg, and stood back up. He began walking, dragging the lion behind him.
+
+The lion was large. He did not appear to find it heavy.
+
+He glanced at us.
+
+"What are you brats doing out here unarmed? Get back to your tribe. The spirit beasts have been more aggressive since the pillar of light disappeared." He looked at the sky, which was moving toward late afternoon. "You have a few hours before dark."
+
+He started walking.
+
+"Wait," White called after him.
+
+He stopped and turned. "What"
+
+"We don't have a tribe."
+
+"Not my problem."
+
+"How about we follow you instead?"
+
+He looked us over, gaze traveling down to our feet and back up. "You look spoiled. Whatever tribe you came from, you weren't doing your own hunting. I don't babysit brats."
+
+"Can your conscience take it if something happens to us?" White took my hand. Her eyes filled with tears with a speed that I found technically impressive.
+
+Zebra looked at the tears. Then at the sky. Then he exhaled through his nose in the manner of someone losing an argument they hadn't agreed to have.
+
+"Fine." He turned and started dragging the lion. "Keep up."
+
+"Of course!" White said, in a completely different voice than the one that had been crying.
+
+I watched this transition. The tears were gone. The expression was gone. The entire emotional register had been replaced as cleanly as a robe change.
+
+I filed this under things humans can apparently do and resolved to practice later.
+
+We followed.
+
+***
+
+What we arrived at was a place I recognized without remembering. The shape of it familiar, though not the thirteen tents arranged around a low-burning fire.
+
+I had been here before. Or somewhere very like it. The savanna did not change much between memories.
+
+A girl came out of the nearest tent at speed and closed the distance to Zebra. She was shorter than him by a significant margin, which did not appear to have influenced her approach. She headbutted him in the stomach.
+
+He caught her head with one hand.
+
+She had the kind of markings Zebra had, same black lines on arms and neck, same pattern. This was bad. Should I call her Zebra Two? I tried to think harder. She was considerably smaller than Zebra. Donkeys were smaller and related to zebras in the biological sense, which felt close enough. I would call her Donkey.
+
+"Stop catching it and receive them properly, Lukor!" Donkey pushed forward. Her boots made lines on the ground. Her position did not advance.
+
+"Stop it, Mei. I'm carrying something heavy." Zebra picked her up with his free hand like a sack of potatoes and kept walking.
+
+"You're always carrying something heavy! And you're dragging it right now!" She continued pushing from her new elevation, to no effect.
+
+We followed them into the camp.
+
+More humans with stripes emerged from the tents. I upgraded my classification to Human T for the group and kept Zebra and Donkey as individual entries.
+
+Donkey had stopped pushing and was now pointing at us from Zebra's hand. "Who are these? You know we can't feed extra mouths, Lukor."
+
+Before Zebra could answer, White did. "We are his new wives."
+
+"That is acceptable." Donkey nodded with immediate conviction. "I'm the first wife, though."
+
+"I don't have a wife!" Zebra's composure, which had been considerable, departed entirely. He glared at White. "You, stop saying things like that!"
+
+White did not appear troubled by this.
+
+I looked at the argument. Then at the only available human who was not participating in it.
+
+"What is a wife?" I asked Fish.
+
+"A female companion," Fish said.
+
+I considered this. "White said 'we'. Does that make you a wife as well?"
+
+Fish did not answer this time.
+
+I looked back at the argument, which had not resolved.
+
+Looking at Zebra and Donkey... for some reason, my chest started to hurt.

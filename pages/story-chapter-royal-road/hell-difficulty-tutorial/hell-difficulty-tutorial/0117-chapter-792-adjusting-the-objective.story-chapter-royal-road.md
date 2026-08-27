@@ -1,0 +1,115 @@
+---
+id: a88f84b3-11fe-5f48-b2f1-4d7ca1548b4b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 792 - Adjusting the objective"
+slug: 0117-chapter-792-adjusting-the-objective
+partOf: hell-difficulty-tutorial
+position: 117
+ownLength: 2280
+unit: words
+publishedAt: 2026-04-13
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3270096/chapter-792-adjusting-the-objective"
+royalRoadId: "3270096"
+---
+
+Following Noll, we reach a door that automatically slides open as we approach, leading into a massive circular room.
+
+The ceiling is a half-spherical structure dominated by windows, separated only by a frame of white metal. These windows offer a view of a space crowded with stars and what looks like an asteroid belt in the distance. Half of the circular wall, on the inner side, contains multiple doors leading deeper into the spaceship or base or whatever this is. The other half consists of similar windows. However, these panes are heavily tinted and constantly turned toward the sun we’re orbiting, which is, in my opinion, too damn close.
+
+A single tree grows in the exact middle of the room. It isn't particularly tall, but it has a wide crown full of green leaves that sways constantly as if caught in a perpetual breeze.
+
+Under that tree, is a man sitting on a bench. He’s slightly taller than I am, with hair of an even more vibrant shade of blonde than Tess’s that reaches just below his shoulders. Only now do I notice that he’s already looking up at me from the book he was reading. He wears circular, thin-framed glasses, which he removes slowly. The motion somehow makes his violet eyes even more piercing, highlighting the golden circles shining around his pupils.
+
+Professor Elian, just as I remember him. I was once an Assistant Professor under him at the Academy, back on the floor tied to the Ruler of Envy, Tyven. Now he sits here in front of me, not as a replica from the tutorial but as a real person. He looks like he hasn't aged a day since the events that the floor was based on.
+
+"I find I am disappointed by your handler. It is your first day, and yet you’re arriving late, treating our agreement with a most unwelcome indifference." God knows how many billions of years it’s been, but he still talks in that same tone I totally enjoyed during my time on that floor.
+
+"I just accepted the quest a few minutes ago."
+
+"The details of our agreement were settled between your handler and myself two days ago."
+
+I blink and swear at Ruby in my mind.
+
+"I want to hear no excuses." Elian places the book on the bench and stands up to fix his suit. "What is your current level?"
+
+"That is something I want to keep to myself," I answer.
+
+"I find it remarkably foolish that you believe me incapable of discerning your level by sight alone." He turns to the lumoran who led me here. "Noll, what is your estimate of this man?"
+
+The lumoran perks up, standing straighter, as if someone had permanently glued a metal rod to his back. He intently looks at me as if seeing me for the first time.
+
+"I can make one based on his mana displacement, Master Elian," Noll begins, his eyes scanning me. "I’ve been tracking his footprint since the airlock. The local mana flows around him in a way that suggests high-density saturation."
+
+Noll tilts his head, his voice clinical. "His conduction pathways are silent, there isn’t much leakage or noise. Calculating the ratio of his internal mana pressure against this ship’s artificial atmosphere, and taking into consideration his achievements in Beyond and the rumors we’ve been hearing, I estimate him within the Level 370 to 380 range."
+
+Elian hums, his violet eyes narrowing. "A fair assessment, Noll, though remarkably imprecise. I requested an estimation, not a range so broad it becomes meaningless. Remind me, Noll, what level were you when you finished your tutorial?"
+
+The lumoran remains unfazed and answers swiftly, "Level 416, Master Elian!"
+
+"Well above the average. Still, I must inform you that Mister Gwyn here is currently level 402." The Magi turns back to me. The glow of his eyes intensifies for a moment before he shakes his head. "Such a pitiful body. Still, the fact that you survived and Disciple Noll failed to properly grasp your mana proves you possess some talent. You have been marked as a disciple by Absolute Lissandra Hawthorne... or rather, that shadow of hers that’s currently ravaging the Beyond. Did she truly allow you to fall into such a state?"
+
+"I mostly do things my own way. Why would I follow the path of someone who died in the end?"
+
+"This," Elian emphasizes, "is the most arrogant thing I’ve heard in quite some time. Further emphasized by the fact that you actually mean it. While some of her techniques are ancient and..." he hesitates, "let's say, rather crude and dangerous to their wielders, Lissandra Hawthorne was the sort of person none but a few could ever hope to match."
+
+I just look at him, "Honestly? I think she would kick your ass." There are a few more things I want to say, but saying them might end with me being thrown off the ship.
+
+"That much is obvious. I have no illusions of my ability to face her in direct combat. Am I correct that you came here to earn Everwood?" Elian asks.
+
+"Yes," I confirm.
+
+"Excellent. You having just attained level 400 is a welcome surprise. We can adjust the objective of your quest accordingly. As I see it, you have yet to select your third trait. You will disclose your options to me, then make your selection so that I may observe the process as it applies. In exchange, you will receive Everwood," he says, laying it all out as if it’s a foregone conclusion.
+
+"No. I won’t be disclosing to you my trait offers and my selections," I say. My words make him pause and turn back toward me.
+
+"So you are not entirely dull. But it matters little, in that case, you may leave. I am not interested in..." he begins, but he is interrupted.
+
+"Master Elian, I apologize for interrupting, but if I may, Nathaniel might not be aware of the fact that you always give a vow to keep that knowledge to yourself, just as you did with so many other people."
+
+"He wouldn't be that stupid."
+
+"I am that stupid," I say.
+
+Both the Master and his disciple turn to look at me. Elian exhales as if he is looking at something pathetic. "Such a waste of time." He glances at his disciple. "You won't need him in the lab? I should understand that much?"
+
+"We might need him, perhaps for a day or two, Master. I can take on some of the tasks you wanted him for so you can observe his trait etching."
+
+"Very well. Continue your work, Noll, and you follow me." Even before finishing the sentence, Elian begins to walk away, taking my compliance for granted.
+
+Yup, there is no way I’m going to get along with this guy. He’s probably much older than his replica in the tutorial was, so I had a small hope he might have changed. But this guy is exactly the same.
+
+For a moment, a memory flashes in my mind, Elian hovering in the air, my black mana trapped by his ability, and then three cubes forming behind his back, each one capable of erasing the entirety of the Academy floor.
+
+I begin to follow him through the hallway a bit more enthusiastically, even starting to enjoy the design of this place. Silver metal, glass windows with thin metallic frames, black-tinted panes, the sun burning way too close, and plenty of greenery. There are more trees as we pass, vines artistically climbing the walls, flowers, and more. It is a twisted mix of sci-fi with a medieval feel and a lot of plant life. Honestly, it isn't bad at all.
+
+Maybe I should give this guy a chance, I wonder. I could try to get some nice stuff out of him.
+
+Magi Elian and I enter another circular room after ascending a twisted stairwell with railings ornamented by vines of green leaves and violet flowers. We find ourselves in what looks like an observation room, a cupola made entirely of glass with seats lining the edges. The seats are crafted from wood and covered in fur. And laid out in the middle of the floor is something akin to a fireplace. Multiple logs of white wood are piled there, and over them burns what I recognize as a Fragment of Eternal Flame, a shifting fire of blue, green, and purple.
+
+"You have my word that I shall keep your trait offers, and your chosen trait, to myself alone. Should my mind ever be corrupted or breached, that knowledge shall be destroyed, as is the case with many of the other secrets I hold through similar vows. As with the others, the destruction of that knowledge shall be prioritized over my own survival. Should we ever engage in combat, whether initiated by my side or yours, that knowledge shall be erased as well."
+
+I listen closely, and there it is, that unmistakable undertone of a system given vow. It still feels weird to rely on this kind of stuff, but if Rulers and even Absolutes do it, it should be good enough for me.
+
+"That is acceptable. What do I get in exchange?"
+
+Elian looks at me with what I consider graceful, noble annoyance at my mere presence and the question. He takes his glasses out of his pocket and puts them back on, causing his Mana Wavelength Iris to dim. It makes me wonder... just how many strengthenings has that trait gone through? The base is three, but there’s just no way. Even I have four and might get more through some new sort of System fuckery. So, five? Sounds like too few. Six? Eight? Ten? Is it even still a Mana Wavelength Iris? Maybe his trait evolved and just kept the same "look," similar to my Preeminence Eyes.
+
+"What do you get in exchange?" he repeats in a measured tone. "Well then, first, let us make certain things clear, so I may avoid tedious conversations regarding what I already know."
+
+Elian gazes at me. "Through my own ability, and not by information from anyone else, I can tell you these things. You possess a Mana Physique. You obviously possess an evolved version of a Mana Wavelength Iris. While it is not one whose name I would know, I can deduce its abilities quite accurately. You are level 402, and you are an Amplificator with a base Mana stat over 1700, which, in my personal opinion, I consider to be an extremely foolish thing to do."
+
+His eyes become even more piercing. "I can tell you possess an Empyrean skill. Your low constitution is a sight to behold as well. I personally am aware of people under level 50 with a higher one. According to my estimation, based on what you have done to your body and all other factors, you have no more than five or ten years to solve these issues. What I can offer you in exchange is Everwood and a consultation on how to solve that problem, using my very extensive knowledge."
+
+"I have my own plan already, so there is no need for that. Check up on me in five to ten years, I think you will be impressed. But anyway, I want Everwood and a lesson or two on my eyes. I think I could get more out of them."
+
+"At least you realize how pathetic your use of your eyes has been. Very well, your offer is acceptable. Now, tell me the traits you have been offered."
+
+His voice almost makes me want to throw him out of the spaceship and watch him drift into the sun, but I graciously decide to be a better person today and name the four traits I’ve been offered to him.
+
+Predatory Mana Parasite - A parasite capable of ravenously siphoning ambient mana particles through your pores to fuel its existence. Further, the parasite consumes a constant portion of your mana pool, but it can’t digest it all at once. To store the volume it can’t digest, it packs your remaining mana into a hyper condensed state you can use. The parasite protects itself by reinforcing its host, channeling condensed mana through the body to greatly increase physical stats and durability. Any attempt by an enemy to drain or disrupt your mana triggers an instinctive, violent retaliation as the parasite lashes out against anything threatening its food source.
+
+Mana-Absorbent Gastric Lining - The lining of the stomach is modified to break down mana-saturated matter, such as mana stones, materials, or even items. It allows you to transform gained energy into a significant temporary stat boost, restore your body using mana, expand your mana pool, or condense your mana. The more powerful the digested object, the stronger the effect; some may allow for permanent boosts.
+
+Empyrean Ichor - An ancient blood that carries a unique Empyrean frequency that predates modern system governance. It remains fundamentally dissonant with the established laws of the current mana system. The blood possesses the ability to absorb the user’s mana and hyper-compress it into a liquid state as it circulates through the body. In addition to that, just the circulation of the blood through the body generates a field within that rejects any foreign mana.
+
+Immutable Halo Frame - No matter how much damage the user takes, the Frame remains perfectly intact. Invisible to most, but perceptible to a few, the indestructible golden halo provides absolute stability against spatial warping. The Frame acts as a foundation, allowing other abilities or effects to be connected to it, and any such connections gain the Frame’s stability and coherence.

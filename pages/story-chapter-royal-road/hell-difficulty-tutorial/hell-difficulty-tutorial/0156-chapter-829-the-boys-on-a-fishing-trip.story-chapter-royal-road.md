@@ -1,0 +1,191 @@
+---
+id: 0cf18acc-060a-5cc9-b8a7-8d503ba0bf08
+page-type-slug: story-chapter-royal-road
+title: "Chapter 829 - The Boys on a Fishing Trip"
+slug: 0156-chapter-829-the-boys-on-a-fishing-trip
+partOf: hell-difficulty-tutorial
+position: 156
+ownLength: 2874
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3554227/chapter-829-the-boys-on-a-fishing-trip"
+royalRoadId: "3554227"
+---
+
+The small, cozy living room has become quite crowded. There’s me, Lily, Savi, Morwag, Brich, Calvorn, Weslin, Tacita, Fuci, Duncan, and his two siblings, even Lochi. Oh, and Zant, though that adorable little fella doesn't take up much space. May the Rulers bless his tiny soul.
+
+Even if we are about to do something fun, I feel uncomfortable with so many people around. We’re all currently trying to surround the small container we’ve squeezed Morwag’s arm into. Where it was transparent before, it now has liquids sloshing inside. There’s also what looks to be some sort of gray mist with a greenish tint floating around it, as well as a pink liquid and other materials. At this point, the inscriptions drawn with my blood covering the surface seem to have more of those golden and white particles in the red liquid. I draw a few more just in case.
+
+“Duncan, I know it is fun and all, but can you tell your siblings not to poke at the container? Whatever is inside is now likely to annoy even a Champion.”
+
+With eyes wide in horror, Duncan pulls them away. They throw annoyed faces at me like I stole their favorite toy, so I stick my tongue out at them, much to their shock.
+
+Looking around the room, I nod in satisfaction, seeing that everyone is intently staring at the container.
+
+Then, I lift my hand high and slap that bad boy with the entire surface of my palm to generate a satisfying noise.
+
+A good half of the gathered people jump. There are even screams and squeaks, meanwhile, Lily looks at me with an expression that clearly says she’d been expecting it. Well, at least she already examined all of us for any remnants of the Necrotic Rot and, according to her, removed it entirely, while using it as an inspiration for her own part.
+
+“So,” I start after getting a few curses thrown at me, “we just make a tiny hole, and Lily will throw in whatever mutated monstrosity of a fake healing mark she’s prepared. Weslin, Savi, and I will hold whatever’s inside, keeping it from escaping. Morwag will bind the container. Brich will keep his hands to himself so he doesn't steal anything, and Zant can continue to look cute.”
+
+“Sir Gwyn, I will keep an eye on the container. If I have to interfere to stop the rot from escaping, I will have to report it.”
+
+“Zant, you can do anything you want.”
+
+The tiny vyssari nods seriously and stands to the side of the table. Seeing him next to the container makes me realize that it’s actually bigger than him. Maybe I could make one such container for him, too, and kidnap him to Earth after my tutorial ends.
+
+I forcefully shake my head and look around. I don't waste much more time planning or explaining. That’s the nice part of working with such skilled people, everyone knows their role and quickly adapts. They have to be like this to get where they are.
+
+Then it all starts.
+
+I weaken the defenses along with Morwag, and Lily makes a tiny hole into the container with her [Disintegration].
+
+All that follows happens in less than a second.
+
+A piece of Lily’s bone with her prepared abomination of a mark falls inside the container, which is surrounded by many layers of [Dawn] and [Eclipse], each layering closely over each other, and Weslin’s void continues to flicker as his heart beats loudly to increase his output.
+
+Every one of us goes all out straight from the start. Brich sets up a field for our attempt so we don't trigger every defensive array in the city or straight up turn the brains of the lower-leveled people around us into mush.
+
+For the shortest moment, I think it will be easy. Then, pressure begins to leak out of the hole, and the outer sides of the hole crack, threatening to spread through the entire container. Morwag uses his primordial energy to prevent the container from cracking, while also using the piece Lily cut off to cover the hole, forcing the edges to unite and smoothly reseal. At one point, I notice that using his primordial energy seems to strain the demon more than usual.
+
+All of this is happening while Weslin, Savi, and I push as hard as we can against whatever’s currently trying to get out.
+
+Even so, it’s a losing battle. The piece we used to reseal it continues opening back up. The cracks widen, and the rot, in that sick gray and green color, attempts to get out by eating into our mana and Weslin’s primordial energy.
+
+Lily’s [Disintegration] crashes against it and erases it a few times, only for the rot to continuously seep out, adapting and seemingly beginning to try and eat [Disintegration] instead.
+
+When it looks like we’re about to have to attempt something much more drastic, it’s Zant who moves. He taps the side of the container with the sound of a chitin leg hitting glass.
+
+Then the rot, as if scared, floods back inside, allowing us to fully reseal it and Morwag to bind it together. Right away, I slice my fingertip open and draw a few more inscriptions. I even sacrifice a few of the mana batteries I had prepared for just such a case, using them to further power the inscriptions and tie those batteries to the container.
+
+Once it is done, I am confident that Duncan, his siblings, and Lochi have no idea how close it was to failure and just how much happened in that single second.
+
+Zant stands there in his suit, which he continues to straighten. “As I said, I will have to report this, and I am sure the First One will be using this to his advantage,” he warns.
+
+“It seems so,” I agree, but I don't mind it that much. At the moment, it seems like a problem for Ruby and future Nathaniel.
+
+“What just happened, and who is the First One?” Duncan asks. “And why did you stop so soon? Is it done already?”
+
+“It is all done,” I confirm. “Zant, do you think the local Champion or healers could deal with it if it escaped?”
+
+“I do not think so, Sir Nathaniel. The local Champion doesn’t possess such abilities, and the healers here are not all that powerful. On this floor, perhaps the King of the Third City could.”
+
+“I see. Oh, and by the way, Duncan, this cute fella is the Vessel of the Ruler of Diligence.”
+
+“No joke?” Duncan asks with wide eyes.
+
+“I mean, it is not his fault, he’s a vessel for the destroyer of the Ancient Armory. Did you hear the story?”
+
+“Of course, I heard the rumors, everyone did. The Ruler of Diligence got so angry during the Beyond Event that he buried the entire Armory out of spite, so the attendees could not get to it. Oh… I apologize, Zant. I hope I did not overstep.”
+
+“No offense taken, Mister Duncan,” Zant nods seriously. “The Ruler of Diligence is not so petty as to react to such things.”
+
+For some reason, as I look at Zant, it almost sounds like he wanted to add: unlike someone else. But that just cannot be.
+
+Once again, I sit in the armchair and ask Zant what I was curious about. “Can you tell me how powerful you are?”
+
+“I see no reason to hide it, Sir Gwyn. Each of the Ruler of Diligence's vessels is comparable to a Champion.”
+
+Sensing an opportunity, I ask further, “How many vessels does he have?”
+
+“Currently, there are twenty-six of us, Sir Gwyn, with me being the youngest.”
+
+The atmosphere seems to be calming down, but I notice Lily giving the container a much more careful look, as is everyone else around us. After what just happened, I can’t even blame them.
+
+“And who is the most powerful among you?” I ask.
+
+“It is Aant, he was the first of us.”
+
+Everyone in the room goes silent as it dawns on them.
+
+I ask carefully, “Zant, just in case… is the second vessel called Bant?”
+
+“He is, Sir Gwyn,” the tiny vyssari nods.
+
+I open my mouth. “And is the third called…” I pause there as I notice the gaze Lily is giving me, and I just wave it off.
+
+Thirty minutes later, I stand outside of Duncan’s house near Lily and Tacita. Tacita keeps poking Fuci’s tiny nose while the golden ferret bites at her, only for Tacita to easily move her finger away every time. All of this happens at a speed that I am confident someone from Hard difficulty wouldn't have a chance of tracking with their senses.
+
+"Be careful," Lily says, making me turn my attention back to her.
+
+"You know me."
+
+"Yes, that is exactly why."
+
+"You be careful too. Don't underestimate the 5th floor, even if it’s just a scouting and preparatory expedition."
+
+"With Tess, Lyraen, and your sister there as well? I don't think I have to worry too much. At worst, I’ll just throw Jean into the Champion’s path." She smiles and moves closer to tap my left arm a few times. With each tap, more healing marks move onto my skin. "I worked hard and improved them. They should help to keep you alive."
+
+It makes me remember something, and I remind Lily of it. "Do you remember how you used to tell me to give up on my healing passives, calling them trash?"
+
+"They are," she nods.
+
+"And meanwhile, you keep giving me a limited number of healing marks, making me keep coming back for more. Isn't it a bit like a subscription, just like these evil healers wanted?"
+
+She snorts playfully. "And what do you pay with, if it’s a subscription?"
+
+"With what, indeed," I smile for the shortest moment with an ease that surprises even me before I feel that smile disappear.
+
+Sensing the others inside beginning to gather, I wave to Lily and give a last look to Tacita and Fuci before heading back in.
+
+After that, we are more or less ready. We take a short breather, gather the last of our baggage, and then head up to the 1st floor of Beyond. It isn’t even fishing season, but I don’t think that matters much, given just how much more I can compress mana when compared to the first fishing trip.
+
+Once on the 1st floor, Duncan, reliable as always, quickly deals with his people while bringing Lochi along to teach him. He reserves a teleportation array to Lake City for us. He buys the best possible fish lure, and most of the cost comes out of his own pocket, much to Weslin’s surprise.
+
+It isn't that much of a surprise to me, though. I’m sure the experienced guide has already calculated it all out. He likely estimates this’ll be a big catch, so such petty spending is nothing to him, and it only serves to provide the others with an even better image of him.
+
+And so, not long after, here we are.
+
+The cold, dark, and mostly gray 1st floor’s Lake City. This time, there are no other groups fishing alongside us, so we spread out in small groups, everyone looking for the "feeling" Duncan described to us. He says it is a sense of pressure and a slight tingling in the fingers that usually marks where the biggest fish lie.
+
+The lake allows for it, so we walk on its surface without sinking, each step sending out ripples. I watch Lochi excitedly jump up and down to create more ripples while Brich, who is currently watching him, starts doing the same.
+
+Meanwhile, Duncan and I walk side by side. Being as smart as he is, he doesn't try to repeatedly thank me or make a scene. He just behaves normally and talks to me about silly things while I listen and respond once in a while.
+
+But at some point, I am unable to stop myself from digging into the past. I note, "You know, you could have tried to send a message to me and asked for help."
+
+The guide glances at me and smiles. "It isn't that easy. I just felt we barely knew each other, and it would have been too shameless."
+
+"Duncan, I have a sister. If it came to her safety, I would be the most shameless person in existence. I would be crying in front of your door every day, begging for money."
+
+He laughs. "Maybe I was too prideful for my own good."
+
+"Prideful..." I say, sensing him looking at me while I overlook the lake. "Wouldn't you take more pride in doing all you can, no matter what others think?"
+
+Before he can answer, we hear shouts from Weslin, who’s currently standing with Morwag near the center of the lake. Quickly, we gather there as well, looking at our feet as if any of us could see something. We’re all fishing experts now, interpreting this weird feeling of tingling in our fingers.
+
+"I guess it is my time to take my disciple and ditch you for the city. I don’t think there’s any chance this will be a normal fish," Duncan says, then takes a small box from his bag. "Be careful with it. It’s fragile, and you don't want to break it before you soak it with as dense a concentration of mana as possible."
+
+He opens the box, and unlike the lure he sold me the first time, this one is about the size of an apple. The surface is shriveled, and there’s a very strong fruity scent to it, along with the smell of the sea. It’s so strong it almost makes me lightheaded. Duncan even supports Lochi, as he sways and almost falls.
+
+The guide says, "The same as last time. Fill it with as much mana as you can and squeeze! Oh, and give me a few minutes to return to Lake City."
+
+With a smile, he and Lochi head out, leaving the five of us behind. There is no need to say much as everyone prepares. Savant does Savant things. Weslin gathers his void and activates his body reinforcement, while Brich deploys a few items, some of which look a lot like drones. Morwag, on the other hand, just stands there menacingly.
+
+I do the same, triggering my arrays and swapping to more combat-oriented sub minds, as well as increasing the speed of the mana and blood circulating through my body.
+
+As soon as I see Duncan and Lochi enter the safe zone, I reach out and gather ambient mana. I pull it out of the air and force it to bend to my will, reaching as far as I can. The density is nowhere close to what my body produces, but it is something.
+
+My sealed Ignition Heart beats louder as I pull more thermal energy from it to immediately convert into mana, then I compress all I have gathered, creating a pitch-black orb.
+
+Brich watches it through his visor with fascination, and I notice Savant taking note as well.
+
+I lift my arm to raise the orb higher into the air and pull more ambient mana from further away, taking even the tiny bits I had been unable to pull before due to their low density.
+
+Then I carefully lower it, pressing it against the fruit. It shrivels and cracks further, turning smaller in size until it fits into my palm. Closing my hand around it, I hold it and squeeze in an explosion of aromatic scent.
+
+From the fruit emerges a single shining droplet, with all the colors of the rainbow, that falls toward the surface.
+
+For a second, there is silence.
+
+Then, one powerful ripple runs through the entire lake from where the droplet fell. It creates a wave twice as tall as I am, making the surface we stand on rock like a wild sea.
+
+Another ripple creates an even stronger wave, and then another. All over the lake, dozens of enormous, human-like hands pierce the surface. Using the wavy surface of the lake, they pull themselves up. Dozens of fish, salmon-like, carp-like, small, colorful, all kinds of weird fish, appear everywhere, each with many eyes and multiple pairs of arms.
+
+Every one of us moves away as the surface under us explodes. A single hand, bigger than any of the other fish in their entirety, pierces the surface. With movements showing off its enormous strength, the monster pulls itself onto the surface while we balance on the rolling waves and watch it.
+
+It has six pairs of arms, each of a different length. Its body is the size of a plane, coiling around it with dark scales reminiscent of armor, each a deep blue and green color. The head is blunt, armored, and features a jaw filled with curving teeth.
+
+Around it, mana spirals like the eye of a maelstrom, pulled there by the immense mana reserves the monster holds. Unlike any other fish we’ve ever seen, it has just two pale, luminous eyes, and they ignore everyone else to lock onto me.
+
+[Leviathan Fish - lvl ????]

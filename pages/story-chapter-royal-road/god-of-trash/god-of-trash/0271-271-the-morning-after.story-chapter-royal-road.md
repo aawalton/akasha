@@ -1,0 +1,107 @@
+---
+id: f95957a1-05f3-5f07-85a3-048250cbc150
+page-type-slug: story-chapter-royal-road
+title: "271. The Morning After"
+slug: 0271-271-the-morning-after
+partOf: god-of-trash
+position: 271
+ownLength: 1951
+unit: words
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3020130/271-the-morning-after"
+royalRoadId: "3020130"
+---
+
+Night fell. Mages remained out, as beings without much need for sleep, but the composition of the streets changed. Giggling and raucous cries came from the taverns and pleasure houses. Drunks staggered openly around the red light district. Those who weren’t out for pleasure moved quickly, their heads down and a furtive energy about their motions. They carried weapons prominently. Some glared around, daring anyone to come and test their steel; others hurried along, hand resting on their weapons, ready to use them for self-defense but not ready to test them on anyone.
+
+Almost no one wore finery anymore, outside of the red light districts, that is. No one was foolish enough to tempt fate.
+
+Rhys strolled along, dressed just as he’d been during the day. He now stood out as an average-looking person, neither dressed up for fun or dressed down for murder. He hummed to himself, arms behind his head, not clutching any weapon in particular. A few of the hard-eyed individuals glanced his way, but when he met their gaze with a placid disinterest, most of them turned away again. He was either mad or powerful, and they weren’t interested in risking their lives to find out; if he was mad, it wouldn’t be worth it, and if he was powerful, then they’d handed their necks over on a silver platter to a predator bigger than them.
+
+None of them particularly frightened Rhys. They really weren’t that strong, and he wasn’t interested in crushing noobs. He was smurfing right now, pretending to be a lower rank than he was, but he wasn’t doing it for pleasure, but instead for business. He wouldn’t enjoy handing noobs their asses the way a true smurf would.
+
+That’s right. This is business smurfing, Rhys thought, and had to repress a smile. What a dumb way to express what he was doing… but it wasn’t like he was wrong. Sometimes, one had to hide their strength for good reason, instead of no reason at all.
+
+He wound closer to the inverted triangle. The neighborhoods closest to it were walled off and closed in by a powerful barrier. Another barrier coated the inverted pyramid itself like a second skin, so close it almost appeared to be part of the walls. It wasn’t going to be easy to get inside without anyone noticing.
+
+Rhys pinched his chin. Of course, there was always the option of going loud, but, although he knew they had fake Lira, he didn’t know for sure that they didn’t have real Lira, and if they decided to roundabount and hold Mouse hostage… well, he wasn’t confident that he could call their bluff and keep her alive, and he didn’t want to lose her. And of course, there was always the matter of Bast, whom they could also use as a hostage, and the yet more troublesome issue of the Sword Saint.
+
+He sighed, then caught sight of a well-dressed couple heading into the walled-off district in their party best. He raised his brows thoughtfully. There was still the option of executing part of his and Soma’s plan. He wouldn’t have control of the setting anymore, and he wouldn’t have any hidden allies whose marks had been edited without Virgil’s awareness, but it could still take a shot at stealth-removing the Sword Saint’s mark. It was better than facing him in open battle and trying to remove it there; at least at a party, the Sword Saint might not immediately react with violence if someone got a little touchy.
+
+Of course, this all assumed that the Sword Saint was not willfully under Virgil. If he was, and Rhys removed his mark, only for it to turn out that he’d truly pledged his loyalty the way that other braindead guy had, then Rhys would be the one in big trouble, in a lot of ways. Reporting to Virgil, getting caught by the Sword Saint, hell, his immediate future was in question in that case.
+
+But even so, it was worth a shot. Of course, he didn’t have an invite, nor did he have party clothes, nor did he even know if the Sword Saint attended parties; that was going to be the part Soma controlled, including having the social pull to successfully invite the Sword Saint. Without Soma, he’d have to do it the hard way.
+
+And that meant it was time for his favorite thing: a quick trip to the garbage heap.
+
+Mixed in with those in avant-garde fashion and dressed in their party best were the less fortunate. The sick. The disadvantaged. Mages whose paths had gone sour, or who had never had a chance to make it, or who’d become addicted to some drug or another—gods knew it was easy to get your hands on drugs in a world where alchemists hawked magic potions on every street corner—and had crashed out of life. They huddled in corners or picked trash on the backstreets, hunched and filthy, holding out their hands or their hat for coin.
+
+No one noticed when one more filthy, rag-wearing mage joined their number, slumped over near the entrance to the pleasure district. Like all the rest, he reeked of alcohol and spices and human body odor and trash, and his clothes were more filthy rags than proper gear. Passing drunkards kicked him, and all he offered was a dull grunt. Softhearted nobles tossed him a coin or two, only to find him in the same spot, drinking away their contributions the next day.
+
+And so a few weeks passed. The drunk blended in, no more than another of the world’s losers, another lost soul who would never progress on their journey through magehood. He languished on the corner… and he listened. Tidbits of conversations. Snippets of data. The city’s nobles walked right past him without so much as glancing down, as if he was an object, and as an object, he blended perfectly in. There was no need to watch what one said around an object, and so… they didn’t. The parties, the problems, whose husband was messing around with whose wife, who was maybe-probably-totally copying whose technique, who was jealous of who…
+
+Honestly, it makes me wonder why people pay for cable tv. I’ve got more than enough soap opera right here, Rhys thought, peeking out from under his filthy bangs.
+
+He’d spent long enough on the corner. It was time to make his move.
+
+It was late, and the moon was dark. A drunk man staggered out of the pleasure district, humming a tune to himself.
+
+“Hey! Pay your tab!” a bartender shouted, poking his head out of his bar.
+
+The man waved. “I’ll pay it tomorrow.”
+
+“That’s what you said last week!”
+
+“Tomorrow, tomorrow!”
+
+The bartender grimaced. “You’re lucky the owner’s afraid of your family, you worthless piece of shit.”
+
+The man hummed louder, deliberately ignoring him. He wobbled along, out of the pleasure district, and passed by the drunk, the same drunk he’d passed a million times before. He looked down, then stopped and walked back. His shadow fell over the man.
+
+“Y… y’know what’s the difference b’tween me ‘n you?” he asked the homeless man, swaying in place.
+
+“Illuminate me,” Rhys replied.
+
+“I’m rich. Ha! Haha…” The man turned and stumbled off again.
+
+“There’s a second difference, too.”
+
+The man turned back, then staggered a step away. Rhys loomed over him, taller than him and suddenly emanating a higher-tier aura. The man’s eyes widened.
+
+“I’m alive.” Rhys touched the man’s neck.
+
+Impurities spread through the man’s body, corrupting him faster than he could so much as scream. Rhys instantly sucked the man into his core, then jogged ahead through the town, drawing out a small gemstone-studded amulet as he ran. He swapped out his current filthy outfit for Norton’s robes, yanked from the trash star seconds before they incinerated, and pulled the liquor bottle he’d been ‘drinking’ for several weeks now out of his storage ring, then doused himself in alcohol so that the scent would drown his musk. He turned a sharp corner and rushed down an alleyway, coming to the man’s house.
+
+The man’s name had been Norton Tunk. He was a cheater and a drunk, whose wife cried alone every night and whose family had all but publicly disowned him. In other words, trash. But noble trash was still noble, and so, as social season came around, he was sent the usual obligatory invites, even if the inviters would rather he wouldn’t come—and could almost count on his absence, as Rhys had overheard, since he was such a drunk he’d forget to come or drink too much and be unable to stagger to the party. But Rhys had a real funny feeling that Norton Tunk was about to turn a real sharp corner in his life, clean up his act, and attend a few parties. Especially parties with Ernesto, Bast, the Sword Saint, and, if he was lucky and cleaned up his act so much he started being sincerely invited… Virgil himself.
+
+The amulet opened the barrier around the house. The doors inside weren’t locked—why would they be? Rhys pushed the front door open and quickly scanned the room with his mana, then stumbled up the stairs at the fastest drunken stumble he’d ever managed, beelining for the bath.
+
+“Look who bothered to come home.”
+
+Rhys froze. The speaker—Norton’s wife, presumably—was behind him, but he didn’t turn. Until he hit the bath, he still looked like an NPC, and Norton was many things, but an NPC was not one of them. He had a very distinctive face and silhouette, and despite his unfortunate personality, love of drink, and tendency to be unfaithful to his partners, he was quite handsome. Not as hot as Soma, but hotter than Rhys’s own face. Proof, probably, that the gods rewarded the wicked just as much as the pure.
+
+There are evil gods, in this world—after all, anyone can attain godhood if they become powerful enough. Perhaps they pick favorites.
+
+‘His’ wife coughed, and Rhys jolted. Right. I need to say something. He wracked his brains, trying to remember what she’d said, but it had gone right in one ear and out the other. He had no idea.
+
+Wait—but Norton would be the same! Rhys waved dismissively and mumbled something drunkenly, staggering up the stairs with one hand firmly on the banister.
+
+His wife huffed. “I ought to kick you out. See how you like living on the street with the rest of the drunks.”
+
+Rhys shook his head. I just got off the street! This is my route out of that situation. Don’t send me back out there!
+
+Another sigh. The stairs creaked behind him. “Do you need help getting to the bedroom? I won’t have you puking on the stairs again.”
+
+“I’m… goo,” Rhys slurred, while suddenly coordinating his steps a lot more. If she got too close, she’d doubtlessly realize he wasn’t Norton. He hadn’t disguised himself yet, and he didn’t want to have to cosplay both Norton and Norton’s wife. Logistics aside, it sounded exhausting to have to play two people simultaneously.
+
+Abruptly, Norton’s wife gagged. “What is that smell? Did you fall in the sewers? Gods!”
+
+It’s not that bad, Rhys thought, then sniffed himself. His brows shot up. Okay, maybe it is that bad. “I’m… goin’ to th’ shower.”
+
+“Shower?”
+
+“B-bath,” Rhys quickly stammered. Shit, am I drunk? What a horrible time to forget my time period!
+
+She harrumphed and descended the stairs. As she vanished off into another room, she shouted back, “And don’t come into the main bedroom tonight!”
+
+Don’t worry, I wasn’t planning on it. Rhys hurried up the stairs and toward the bath.

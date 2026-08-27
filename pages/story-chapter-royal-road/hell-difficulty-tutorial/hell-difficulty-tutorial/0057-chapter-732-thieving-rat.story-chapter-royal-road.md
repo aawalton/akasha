@@ -1,0 +1,131 @@
+---
+id: 61ccf9c9-a416-5f6a-906f-c6ab388cfb32
+page-type-slug: story-chapter-royal-road
+title: "Chapter 732 - Thieving rat"
+slug: 0057-chapter-732-thieving-rat
+partOf: hell-difficulty-tutorial
+position: 57
+ownLength: 2219
+unit: words
+publishedAt: 2026-01-19
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2959530/chapter-732-thieving-rat"
+royalRoadId: "2959530"
+---
+
+Morwag, still gripping Brich, swings the lumoran a second time and slams him into the ground with another sickening crunch, and this time I see Brich’s neck snap.
+
+Before Morwag can swing again, that same neck twists back into place with an even worse crunch, and his eyes open wide. In a burst of quick movement from his back, Brich draws Calvorn and slashes at the demon, who raises his arms to defend himself.
+
+But I don’t have time to watch any more than that. Two more figures appear and rush toward the armor.
+
+Fueled by mana roaring through my body, I reach them in an instant, then step aside as a bolt of blue lightning shoots past me. I push mana out in front of me into a barrier and let it deflect the incoming mana based attacks.
+
+Pulling from the mana coursing through my body, I release it in a blast that sends one of the men flying.
+
+The other teleports behind me, and I twist around before he’s even fully materialized, mana oscillating across my palm as I prepare to strike. In the last moment, my attention shifts back to the man I blasted away, because he’s already recovered and sprinting toward the armor. Brich and Morwag are already fighting somewhere in the distance.
+
+As the teleporting man finishes materializing, I change my plan. I leave a tricolored orb behind and use Wraith Dance, then channel kinetic energy to boost my movement and reach the armor. The man trying to grab it fires another bolt of blue lightning, but my angled barrier deflects it.
+
+I crash down where he stands, sending a shockwave through the area as I stop right beside the armor. Immediately, a barrier made of blue lightning forms around me, shrinking fast. And the edges of the net-like barrier start to glow with sharp new lines that slice through trees and stone like paper.
+
+The world around me drains of color. Then the lightning net flickers and collapses completely.
+
+[Eclipse - lvl 52 > Eclipse - lvl 53]
+
+The teleporting man appears nearby, charging with sword and axe in hand, glowing with dense inscriptions. The visor on his helmet closes, and a burst of blinding light fills the area, forcing me to switch to other senses.
+
+Then, in rapid succession, three crystals in his hand explode. The first scrambles mana across the area, the second sends violent bursts of heat through the air, and the third creates afterimages so vivid they feel like real bodies moving around me.
+
+They either came well prepared or they’ve studied me enough to counter me.
+
+I don’t bother trying to see through it. Instead, I gather mana and compress it in front of me into a tricolored orb and let it detonate. The shockwave blasts all of us apart, me and the armor included.
+
+Thermal energy surges under my skin, healing my wounds as I rise. Locating the armor, I rush toward it again. An attack comes my way from the side, but I grab the armor and raise it in front of me, using it as a shield. The strange metal projectile slams into it, launching both me and the armor backward.
+
+I absorb my momentum and stop midair. Another bolt of blue lightning shoots my way, but I disrupt it along with the dozens of mana projectiles following it. The teleporting man forms a construct in front of him, and Brich steps out of the portal that opens in front of me, holding Calvorn. The blade’s mouth yawns open, tongue and teeth showing.
+
+“Okay, fellas, we’ve got fifteen seconds before MorMor gets back to us! Oh, and hello, Nathaniel.”
+
+“Hey,” I answer, steadying my breath. “Before I forget, there’s someone I know who’s been wanting to join Crimson Forge, but he said they wanted to talk to you first.”
+
+“If it’s for you, just tell him to look for me at the Turtle Inn. The owner knows me and will point him in the right direction.”
+
+“Sounds good,” I nod, sliding deeper into [Focus]. The world around me slows down as all three of them attack at once.
+
+Chains of blue lightning rise from the ground in every direction, each vibrating at a different frequency to make them more difficult to disrupt. The teleportation guy vanishes and starts to appear behind my back. Two of the orbs floating over Brich pulse together, releasing a sound attack that hits harder than expected, throwing off my concentration and blurring my vision.
+
+At the same time, the boots on Brich’s feet flare to life, propelling him forward with movements not unlike Wraith Dance. He flashes right in front of me, swinging Calvorn, and I feel it trying to devour both my mana along with traces of my primordial energies.
+
+At high speed, I force my way through the pull and channel a burst of kinetic energy, making the air around me hum with a deep vibration. When I release it, Brich barely manages to raise the sword to block. Calvorn devours part of the blast, but the remaining force sends Brich flying.
+
+The exhaust nodes for thermal energy on my back open up, and golden flames erupt outward at high speed, surrounding the man who only barely manages to teleport away in time.
+
+Colors fade even more from the world as my [Eclipse] tears apart whatever the lightning guy was building. But I don’t stop there. My Ignition Heart thunders, pumping more thermal energy into my body, which I then turn into mana. Excitement surges through me as I unleash mana freely, hurling massive attacks one after another, the kind that would have exhausted me after only a few uses before.
+
+Faster than they can keep up with, I channel more mana and release another massive surge. The resulting explosion smashes into Brich, pushing him back, though Calvorn blocks most of it again.
+
+An [Empyrean Lance] shoots toward the lightning user, who dives aside, rolling and crawling to get away with fear written all over his face at the sight of the projectile.
+
+And then, with a simple burst of intent and mana, I unleash what I’ve decided to call Fuck Everything In That Direction Specifically at the teleportation guy.
+
+He dodges, but the explosion obliterates everything nearby. The ground cracks and caves in, trees are ripped from the soil, and the blast reaches far enough to slam into the canyon wall, shaking it until chunks of stone the size of cars begin to roll and fall down like an avalanche.
+
+My senses pull my focus back to Brich. He’s holding Calvorn high above his head, the blade split along its length to reveal a slick tongue and rows of sharp teeth. Something about it makes [Eclipse] flicker, and for a moment, colors seep back into the world.
+
+I keep my eyes on Brich and ignore the others. The barrier I raise blocks their attacks, though cracks appear across it under the barrage. Then, the falling boulders from the avalanche slow midair and then freeze completely.
+
+Brich, who’s been holding his sword high in the air, notices the change and quickly glances that way.
+
+“You ridiculous bastard, just give me a second to breathe!” he complains just as I hurl a concentrated burst of the kinetic energy I’ve just gathered at him.
+
+He swings Calvorn, devouring the attack and stopping it. But as he does, the [Eclipse] that had been flickering surges back to full strength, draining the world of color again and expanding even further as I feed it more mana.
+
+Three orbs form behind my back, tricolored and extremely compressed. At their core, just the tiniest sign of a white and golden center begins to show, just the smallest hint of one, even after all the experimentation I’ve done. Each of the orbs launches toward one of my opponents.
+
+The teleportation guy creates a portal in front of him, sending an orb through it, but it collapses immediately as the portal drains him with the strain of moving such a huge amount of mana.
+
+The lightning guy turns into a streak of lightning and vanishes somewhere into the sky while the orb explodes where he stood, and Brich turns Calvorn against his own orb, as the ego sword swallows the orb and snaps closed with an audible thump. With a hiss, steam starts rising from the blade, and the heat passes through the handle, climbing higher and burning Brich, who’s still refusing to let go of the sword.
+
+The teleported and the second orb both explode, sending a huge shockwave through the area that makes even me stumble.
+
+They burst outward in a blinding shockwave that tears through the area, followed by heat that ignites the surrounding foliage. The heat rolls over everything, splitting the ground and searing the barrier. A heartbeat later, a wave of distorted mana spreads out like an EMP, attempting to disrupt every trace of mana in its reach. Barriers flicker, constructs collapse, and the air hums with an unstable frequency.
+
+Then the implosion hits.
+
+The space where the orb was folds inward, pulling everything toward it: dust, shattered stone, and it even tears chunks out of the earth. It squeezes it all together into a dense, twisted ball before it finally stops, and the ball drops into a patch of cracked, melted ground.
+
+Brich steps out of the flickering barrier surrounding him and is about to charge me, but he turns his attention in another direction. Towards Morwag flying through the air after a massive jump. He’s about to land on the teleportation guy and likely tear him to shreds.
+
+Brich doesn’t react in time, but I do. A burst of kinetic energy shoots at Morwag, making him miss, and the teleportation guy barely gathers enough strength to teleport somewhere far beyond my reach, choosing to escape rather than return, the same as the lightning guy.
+
+“Don’t kill anyone, you maniac! I don’t want to level up!” I shout at Morwag.
+
+Even that short distraction is enough. Using those boots, Brich rushes at me and cuts through the barrier I’ve made between us. The glove on his left arm, the one not holding Calvorn, activates, and for a moment, my body halts, held in place by something like [Telekinesis] but mixed with another force I can’t seem to disrupt fast enough.
+
+Grabbing the armor while I stand here frozen, Brich disappears along with the armor as one of the mana stones on his belt cracks and activates the connection to the teleportation mark he must have placed.
+
+Morwag, a second too late, lands where Brich stood. Glancing my way at my frozen body, he, after a second of thinking, punches me in the face with a force that makes my skull rattle, flinging me back. He immediately takes off, following Brich toward the Megacity.
+
+Lying on the ground, I blink a few times, shake my head, and groan in pain. A burst of kinetic energy lifts me back to my feet, and Wraith Dance sends me forward, but the hazy feeling in my head makes me misjudge the distance. I appear right in front of a tree, crash through it, and find myself rolling across the ground again as I lose balance.
+
+Another burst of kinetic energy gets me standing, and I rush forward, only to stop and raise a barrier as a mana stone left by Brich explodes behind me, bursting into sticky threads of mana. Instead of trying to disrupt the tricky trap, I extend [Ley Line] into the distance and teleport after them, the two already more than two miles ahead.
+
+When I catch up, I find them both crouched behind a boulder, Brich even holding onto Morwag, who doesn’t seem to protest too much or move away. As I arrive, Brich grabs me too and pulls me down behind the boulder with them.
+
+Just before I duck, I see what they’re hiding from.
+
+In the distance, between the Megacity and us, a small figure floats in the air. A vyssari with white lightning crackling around his body.
+
+“Fuck,” I mutter quietly, then, with a bit more enthusiasm, join the duo behind the boulder.
+
+“You think he saw us?” Brich asks me.
+
+“Of course he fucking saw us,” Morwag growls.
+
+"I saw you," says Lyraen in a deep, echoing voice. It sounds like he’s behind us, to the right, above, below, everywhere at once. Just as confusing as ever. “Brich, you thieving rat, I’ve been waiting for you to leave the Megacity, and now that you finally have, you’re going to hand over the ego sword, or I’m going to kill you. I have no interest in the two of you from the Primordial Knights, so leave. If you interfere, I’ll just have to deal with you as well.”
+
+“I refuse! Calvorn and I are best buds now!” Brich shouts, and when he sees my face, he grins.
+
+“So be it,” Lyraen says.
+
+A loud crack echoes in the distance, and Brich grabs the surprised Morwag and pulls him in front of himself as a shield. A bolt of white lightning tears through the boulder, shooting straight at Brich, but it slams into Morwag’s chest instead, blasting him and Brich, sending them flying into the distance like cannonballs.

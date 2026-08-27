@@ -1,0 +1,253 @@
+---
+id: 82a703b2-8d2d-58f4-a625-531012a0b9c3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21"
+slug: 0021-chapter-21
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 21
+ownLength: 3433
+unit: words
+publishedAt: 2025-11-15
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2763976/chapter-21"
+royalRoadId: "2763976"
+---
+
+Chapter 21
+
+The inn was half empty and coupled with the low voices the other patrons spoke in, it gave the place the atmosphere of a higher-class restaurant. His companions didn't seem to mind but Veron noticed that even after all those years since he could afford to dine at a place like this, he still felt a little out of place here. But less than he used to.
+
+The food itself was hearty, a meat stew with a side of red potatoes, spiced with pepper and something that tasted like rosemary and thyme. Veron dug in and had seconds.
+
+“Do they grow the spices around here?”
+
+Reymond gave him a glance. “Most of them come from Sor, a long way from Perrion. We'll see how the war affects this trade. Are you interested in cooking or trading spices?”
+
+“I've started learning about some plants and herbs. But I don't plan to start up trading.”
+
+The man laughed. “I thought the same when I was younger. But maybe you'll tire of adventuring one of those days. Moving goods can be just as exciting, if not more so.”
+
+“Maybe in another life,” Veron said. He didn't hate the idea of buying and selling goods he himself moved around or maybe in a small store that he owned. But he was definitely done with optimizing ROIs, quarterly goals, and cost reduction.
+
+They got their room keys after dinner and moved up to the third floor of the townhouse. Hayden and Veron shared a room. It was spacious and luxuriously furnished, Veron sighing with joy when he saw the bed and pillows. Whatever Reymond had paid for the rooms, he was pretty sure he himself wouldn't have been able to afford it.
+
+They had their own bathroom and Veron was surprised to find both a working sink and a bathtub, with hot water pouring out of the tap when he turned it on.
+
+Hayden seemed amused at his amazement. “Never been to a high-class inn, have you?”
+
+“I haven't.”
+
+They have plumbing. And hot water. The room is pretty warm too, which means their heating is good as well.
+
+“This isn't exactly normal here in Perrion, I assume?”
+
+“Not at all. I honestly didn't know they had a place like this here. There are a few bath houses but far fewer than in Anvakar. Small, expensive, and always overcrowded too, let alone the lack of saunas.” He shook his head. “You can take a bath first, Reka wanted to talk with me and Silvie. Is half an hour fine for you?”
+
+“That's perfect, yes.”
+
+Veron sat down his pack next to one of the beds and breathed out. “Can I wash my clothes here too?” He took off his armor using his Harmony, feeling too tired to bother with all the straps.
+
+“They have soap and a sink,” Hayden said, setting down his own gear before he started taking off his armor.
+
+Awesome.
+
+Veron first soaked his second set of clothes which he hadn’t washed since they had left Eyra. And then he took a bath in steaming water, sighing as he cleaned away all the sweat and dirt from the long journey and the recent battle. He nearly fell asleep in the tub, a warm glowing and likely magical lamp illuminating the wood paneled bathroom.
+
+Are all of those things enchantments? Something to collect water, to heat it? Maybe even to push it through the pipes? How much of it is non magical? How many places can afford something like this and what kind of creatures were killed to gather all this essence?
+
+It was a strange thought, to know that the essence of animals or monsters now served the convenience of this inn’s guests. But was it any different than leather used in armor or meat in a stew? It did make him slightly uncomfortable, more so because he had no idea where all of this came from, and because this place felt quite luxurious. Warren had used enchantments for convenience as well but it had never bothered him there, had never felt indulgent.
+
+He went to bed with a tired mind and body, letting go of his thoughts and simply feeling grateful for the comforts he’d been given at this moment. He fell asleep quickly.
+
+And woke up with sunlight already flooding half the room. Hayden must have covered some of the windows with the heavy curtains. Veron hadn't even seen the dark grey cloth coverings the evening before. He felt groggy and it took a moment for him to put together where he was exactly. Hayden was still asleep, snoring slightly.
+
+Veron stood up and opened a window, closing his eyes and breathing in deep when the fresh and cool air flowed in. He connected to the wind for a short moment and smiled, looking out onto a market square where merchants were setting up for the day. The dark stone buildings and cobbled square looked a lot more appealing with the mostly clear sky and late autumn sun.
+
+The mix of smells wasn't too bad on the third floor up and he could even get a glimpse of the expansive lake past the alleys and streets of Perrion. There was a tension and energy about in the waking city, similar to what had originally drawn him to Paris.
+
+He stretched and quietly appreciated the fact that there were no cars here. Just people shouting and hooves hitting the cobbled roads.
+
+A knock on the door took him out of his thoughts. Silvie checking in and waking Hayden in the process. “Breakfast in ten. Reymond wants to talk, then we should have the day off.”
+
+Reymond and Reka were already in the main hall of the inn. There were fewer patrons than on the previous evening and they had chosen a table at the edge of the room that offered at least some privacy. There was bread, cheese, berries, and tea for breakfast. Veron hadn't actually seen or smelled coffee anywhere so far.
+
+“I hope you've been enjoying the comforts of Parr’s Lodgings,” Reymond said when they had finished breakfast. “I can't believe actual Herasar attacked us on the road. They caught me off guard too, I'm embarrassed to say. I think my age is finally catching up to me.” He sighed. “Either way, we made it out alive, with my most valuable goods intact and still in my possession. I might even make a profit in the end despite the wagons and horses we lost. Initially, we planned to stay in Perrion for three to four days, then leave for Anvakar, but things have changed.
+
+“The roads north aren't safe, so the merchants, adventures, and other travelers are banding together to form caravans leaving once a week. The next one leaves tomorrow morning and I intend to join it. I'd like to hire all of you here to accompany me in my carriage to Anvakar. Eight to ten days at twenty-five silver per day for those in the Adequate stage. Veron, we’ll discuss your rate after, if you decide to join.”
+
+“That’s a generous offer, Reymond. We accept,” Reka said.
+
+He nodded, seeming slightly relieved.
+
+No haggling. Or maybe they’ve already agreed before.
+
+“Are we expecting trouble on the road?” Hayden asked. “Other than the Herasar.”
+
+“The danger will attract opportunists, I'm sure. Hence the caravan. Everyone else is in the same boat and those who join will want to get to Anvakar safely. I'll want you to protect the carriage at all times. If anything is stolen, there is no way I’ll get it back.”
+
+“Earlier departure than planned. I approve,” Silvie said with a smile.
+
+Reymond glanced at Veron. “Do you wish to discuss your part in this in private?”
+
+“We've faced monsters out there together, and I want to get to Anvakar safely. What’s your offer?”
+
+“Fifteen silver per day. The same that I will pay for your service so far,” Reymond said.
+
+Hayden smiled and Silvie nodded to herself.
+
+He offered five silver per day initially.
+
+“That’s triple the initial rate,” Veron said.
+
+“You did triple the work that I expected from you,” Reymond offered.
+
+“I accept,” Veron said. “And I’ll join you tomorrow.”
+
+“And if you want, you may join us in Anvakar,” Reka said. “We discussed and everyone agreed. It will be dangerous at your current strength but not more so than what you've already been through. Hopefully. You’ll get a share of the spoils, and you will carry some of our gear, and loot.”
+
+Veron didn’t have to think about it twice. He smiled. “That means a lot. I'm happy to join you.”
+
+“If we make it there in one piece,” Silvie said.
+
+Reka sighed, a slight smile tugging on her lips.
+
+Hayden grabbed Veron’s shoulder and grunted with approval.
+
+They’re good people, Reymond included. I’ll have to thank Warren for recommending me, and for introducing me to Reymond.
+
+The merchant told him to wait when the others were getting up. “Your payment for the journey so far, or would you like to wait until Anvakar?”
+
+“I can show you around the city today, if you don't have anything else planned? Might want to have at least some silver to spend,” Silvie said.
+
+“Are you asking me out on a date?”
+
+Reka burst out laughing.
+
+Silvie stood there with a blank stare. “Know what, sure. You pay the food.”
+
+“I accept,” Veron said and smiled. He assumed they were both joking but he wouldn't mind otherwise either.
+
+“Seventeen days. I’ll double the last day as we went through the night. That’s 270 silver,” Reymond said and pulled out two large squares of silver, one middle one, and two small ones. Added to the six silver that Veron already had from his little work for Warren, he’d at least tripled his savings.
+
+“No payments for the food?” he asked.
+
+“We can cover that,” Reka said. “This time around.”
+
+He thanked them and stored away his money, the two largest pieces into the upper arm piece of his armor that he opened and closed with his Harmony. With the recent Herasar attacks, all of them were wearing their fighting gear, even inside the city. His stone armor still had some dried blood on it but he didn’t want to spend the day trying to clean it up. Maybe it would even deter potential hostilities.
+
+Silvie waited for him near the entrance, Reka and Hayden having already left.
+
+“The others didn't want to join?”
+
+“They both have to get some repairs done. Don't need three people for that. I do need to pick up some food supplies now that we're leaving tomorrow already but it shouldn't take all that much time.”
+
+He noticed that she was missing one of her shoulder pieces and one of her bracers. On the arm that was limp after the fight. She didn’t wear her helmet, having it strapped to her pack instead. Veron did the same with his stone helmet before following her outside.
+
+The sky was streaked with gray clouds but it was some of the clearest weather they’d had in a week, even the sun almost pushed through the clouds and cold temperature.
+
+Silvie stretched out in the small hotel courtyard. “This might be some of the best whether I've ever had in Perrion. You should consider yourself lucky.”
+
+Veron felt the wind, finding that it felt a little bit more distant than in the wild. Or perhaps it was calling him out there, where it flowed through the trees and grasses, not trapped within walls and between houses. The same wasn't true for the earth below, Veron felt the same weight and depth as he always did, cobblestone instead of packed dirt but it was all part of this Harmony and his Path.
+
+“Anything specific you want to see? We're already in the market district, there are some smithies and all kinds of shops around here too. Though I wouldn't recommend buying anything major here, knowing that we'll be in Anvakar by next week.”
+
+“Anything else you would recommend? I'd like to see the harbor, and maybe there's a nice cemetery?”
+
+“Veron wants to see the cemetery. Interesting. I don't think they have one here, and I'm not sure we can go into the crypts. We can definitely go to the harbor, but it's going to stink worse than here.”
+
+“I don't mind all that much. And fried fish sounds nice for lunch.”
+
+“Oh, I can agree with that.”
+
+They started with the market, Silvie excitedly checking out the stalls, quickly moving on to the next one when nothing caught her interest, sometimes chatting up a vendor and talking about a piece of clothing or a pack or a bedroll.
+
+Veron followed along and checked everything out too, both the people and the stalls. A lot of food was being sold here, produce, meat, and all kinds of grilled or cooked dishes. There were clothes, belts, packs, and bits and pieces of gear for what seemed to be both adventuring and city-life purposes. One stall sold pots and pans, another sold utility bags of all kinds of shapes and sizes. He noted that it seemed like no weapons or enchanted items were being sold here, though he couldn't be sure of the latter. Everyone was haggling or discussing prices but only few seemed to have intense discussions. A lot of adventurers were exchanging silver for basic gear, while finely dressed people checked out rings and other jewelry.
+
+A few giggling children ran through the chaos and he caught some shifty figures walking through the crowds or watching them, one of them looking him over before he moved on.
+
+He didn't buy anything as Silvie had suggested, the two of them having soon reached the end of the market, walking into a tight road lined with all kinds of specialized shops.
+
+“There is good gear here if you need it, solid and reasonably priced if you know not to get ripped off. Tops off at around our level though, or what an Adequate adventurer can generally afford. Anything better, you’ll want to look in Anvakar or Lyrie.”
+
+“Why isn’t better stuff sold here?”
+
+Silvie walked past an open smithy, a sweat covered man working inside, with the light of embers reflecting off his tanned muscles.
+
+Veron blinked his eyes, then shook his head. It seemed like he had felt some magic in the air but he couldn’t be sure.
+
+He would be a Devotion Path, wouldn’t he?
+
+“I'm not sure,” Silvie said. “I assume the people here just don't have the money to buy. Perrion isn’t exactly poor, thanks to the adventurers moving through to Anvakar, but the higher quality essence and quite a bit of quality gear is sold in Anvakar directly, and anything magical that is higher quality is made and sold in Lyrie and Leiveen. Perrion doesn't really specialize in anything and they don't have access to the dungeon like Anvakar.”
+
+“So they’re a port town connecting Anvakar to the south?”
+
+“Pretty much. We took almost thirty days to get here from Lyrie, through the Teriam range. By boat, it’s around four days usually.”
+
+“Why didn't you come by boat then?”
+
+“The prices are pretty outrageous. Not worth it for a crew like us, especially because we're only staying north through the winter. Safer and more convenient for anyone with the coin to spare but now instead of spending on transport, we've earned silver instead.”
+
+So it's just a cost consideration. Whoever is owning the ships is probably making a lot of money. Trading companies moving goods between Anvakar and Lyrie.
+
+“The ships go all the way to Anvakar?”
+
+“Some do. Most just go between Lyrie and Perrion, or to Karlsbrugg. I think some of the ships are too broad for the river, and anything only powered by sails and wind may not make it upriver to Anvakar.”
+
+“You ever been on a ship here?”
+
+Silvie smiled, almost absentmindedly. “A few times, when I was a kid still. Perks of having the right friends I guess.”
+
+She didn't elaborate and Veron didn't ask. Soon, he heard the rushing and cold waters of the Karrian river. It parted the city like a knife, six broad stone bridges connecting the two parts. The sheer size and complexity of the constructions starkly contrasting the might of magic and the technology otherwise available.
+
+I guess magic skews what I think should and shouldn't be possible based on other technologies I've seen.
+
+The bridges were high enough to let medium sized boats pass below. As long as they either didn't have masts or had a way to retract them. On the two boats that he saw, Veron couldn't spot oars, sails, or rising smoke, which made him curious as to how they moved against the current. Or more precisely, what kind of enchantment or mage they employed to move them.
+
+“They're powered by enchantments, right?”
+
+“Yes. You need some pretty high-grade stuff to move a boat though. Especially upriver.”
+
+“Did you ever work with stuff like that? You're trained as an Inscriber, right?”
+
+“Yeah, I learned to inscribe. But not the kind of stuff that can hold anything above a modest essence. Whatever is being used there is far beyond my pay grade, or the pay grade of most people I know.”
+
+“Is Reka an Inscriber too?”
+
+“Inscriber and Extractor,” Silvie said. “More experienced than I am too.”
+
+So they could both work a safe and probably well paid job behind some city walls. And yet, they're out here as adventurers.
+
+They walked along the river and soon reached the harbor. There were dozens of boats here, most of them looking far less sophisticated and at the same time larger and sturdier than the ones Veron had seen in the river. “Are any of those built here?”
+
+Silvie laughed. “Gods no. Most of those have probably been built in Karlsbrugg. You can say what you want about Felrak and their ways, but they certainly know how to build something that lasts.”
+
+It almost felt strange here that Veron wasn't smelling any salt in the air. The harbor reminded him of some he had been to in France, though admittedly the mostly wooden ships couldn't begin to compare to a modern freighter. But what they lacked in size, he found, they more than made up with charm.
+
+It didn't take them long to find a stall that sold fried fish. Supposedly freshly caught.
+
+They grabbed a few portions and sat on the stone railings looking over the port. Veron ate and enjoyed the view of the ships. He imagined them going to far away harbors, arriving near lush forests or dry steppes after weeks or months at sea. Of course he knew that they only had two reasonable destinations, and that they weren't more than a few days away.
+
+He wondered how he could ask about the sea without revealing more about himself than he was willing to share.
+
+“I've heard stories about even bigger masses of water,” he said.
+
+“The sea?” Silvie asked.
+
+Oh thank you.
+
+“Yeah. Are there big harbors that trade with distant lands? Like here?” he asked.
+
+She laughed, considering with a bit of a confused expression. “That’s crazy. No… I mean I’ve heard of some expeditions going out there but no. All they’ve found is death at sea. It is endless, you know?”
+
+“Is it?” Veron asked. Should I go there. Yeah. Why not. “Wouldn’t a ship end up on the same land once it sailed all the way around the planet?”
+
+“Yeah, I mean, sure. Theoretically, but anything can happen on the way. I can’t imagine how long such a journey would even take,” Silvie said, shaking her head. “You’ve got some crazy ideas.”
+
+“Do I?” Veron asked.
+
+“Yeah, you sound like some of the folks from the Academy. But sure, feel free to join an expedition and find out for yourself. Maybe there really are other places out there. But I don't know why you would even go there.”
+
+“You’re an adventurer, aren’t you?” he teased.
+
+She laughed. “Yeah, I guess you've got me there.” Her expression sobered up somewhat and then she looked out towards the ships. “Maybe I would have liked the idea at some point.”
+
+They were quiet as Veron finished eating his fish, looking over the late autumn lake and shivering slightly in his clothes and stone armor. The winds were different here than deeper within the city. Strong and difficult to connect to. Perhaps one day, he thought and smiled.

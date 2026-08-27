@@ -1,0 +1,263 @@
+---
+id: aba28393-47b6-52ef-8ae9-654104b99aa4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4"
+slug: 0004-chapter-4
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 4
+ownLength: 3548
+unit: words
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2703917/chapter-4"
+royalRoadId: "2703917"
+---
+
+Chapter 4
+
+It turned out that levitating rocks was quite a ways off for Veron.
+
+Ian was intrigued but not particularly surprised to hear that Veron had the Elemental Path. He told him that it was somewhat uncommon for humans but not exactly rare either.
+
+Ian was more surprised about the three Harmonies. That one was rare. Not unheard of by any means but in no way common either. While the strength of the Path determined your overall magical and to an extent even your physical prowess, the aspects, called Harmonies in the case of the Elemental Path, determined what types of magic and skills you could actually use.
+
+Ian had no idea why two of those Harmonies were hidden. He assumed it had to do with Veron seeing his Path only now.
+
+“How do I use?”
+
+Ian shrugged. “For Devotion, you train and use the tools or weapons to do whatever is related to your aspect. For Runic, I think it's a lot of studying. Learning runes and things like that.”
+
+Veron smiled. He could tell the boy had no idea about what Runic Paths did.
+
+“Elemental, earth? Maybe touch the ground?” Ian suggested. There was no sarcasm in his voice.
+
+Touch the ground? I've been touching the ground all this time.
+
+And still, he tried again.
+
+He closed his eyes and touched the ground with his hands.
+
+He felt the pebbles between his fingers, the soft earth below. He breathed and relaxed.
+
+And then, he felt a pulse. A pulse from deep below, flowing through his hands and arms, his shoulders, neck, and head. He could feel the depth and weight of the earth, flowing through everything he was before it waned again.
+
+Veron breathed out. He opened his eyes and blinked.
+
+“Did it work?” Ian asked.
+
+“It did,” Veron answered. He had felt the ground, not just the ground, but everything it was. “Oh, I liked that.” He did it again, smiling to himself when he once again felt the connection. A connection that felt so natural to him that he wondered why he had never noticed it.
+
+It felt like he could only get a glimpse, but already, he could see the weight and power at his fingertips. The third time he tried, he felt an abrupt and painful strain, forcing him to stop immediately. He held his chest and grit his teeth. It was painful but he couldn't quite determine where it hurt or what hurt exactly.
+
+Did I overdo it?
+
+Ian looked at him with slight concern. “Did you use too much Focus?”
+
+“I used too much of something.” Veron said.
+
+Ian explained to him that to use magic, one had to use Focus. Focus was inherent and would recover. Veron wasn't sure if he should think of it as a resource to spend or a muscle to use. The latter felt more appropriate in terms of how he felt.
+
+“How do I get more? Train?”
+
+Ian bit his lower lip. “It's complicated to explain.”
+
+“Can you try?”
+
+“I can. Your path is feeble right now. A higher Path will give more Focus. I think. And to make your Path stronger, you need Essence. Every being has Essence.”
+
+Veron raised his eyebrows. So to get a higher level Path, I need to take the essence of other beings.
+
+He had one question. “I need to kill them?”
+
+Ian nodded. “I think so.”
+
+Veron leaned back. He didn't understand nearly enough about this world to know how things worked exactly but the revelation still had a lot of implications.
+
+“But you don't have to, I think. There are ways to buy Essence from others who have fought and killed monsters. And you can train your aspects. Higher aspects will let you use more magic with less Focus.”
+
+So I can at least just train my magic without killing anything. And then I can make money and buy Essence to make my Path better? Or I go out there and fight monsters myself.
+
+He asked a few more questions to clarify things and to make sure he understood correctly. To upgrade his Path from Feeble to something better, he needed Essence, either bought or from beings that he killed himself. Upgrading his Path wouldn't make his magic stronger but he would have more Focus, pretty much magical stamina, to use his magic. Other than that, he could work on his magic itself by training and trying things out, though it was clear that Ian didn't know a lot about Elemental Paths.
+
+“That's what adventurers do then? Fight monsters, take their Essence?”
+
+“Yes. And many other things.” Ian said. He made to say more but closed his mouth again.
+
+“You want to become one in the future?” Veron asked.
+
+Ian avoided his eyes and tapped his leg. “It's silly. I'm not sure. Mom says it's dangerous.”
+
+Veron touched his shoulder, then carefully translated what he wanted to say. “It may be dangerous and you should definitely be aware of that and prepare for it, but I don't think it's silly. I saw you shoot that bow. And I don't see why you couldn't become an adventurer. With time and training. If that really is what you want.”
+
+Ian met his eyes for a moment but then looked away. Veron didn't miss the slight smile.
+
+“Do you want to be one too?” Ian asked a moment later, his voice decidedly more excited.
+
+Veron smiled. “Maybe.”
+
+They joined Aren, Neva, and Ivera for dinner. Aren had prepared a vegetable stew with the help of Neva, the little girl very proud of her contributions. That's pretty much the extent of what Veron understood from the early conversations. He didn't want to eat and translate everything they said with his sheets next to himself.
+
+Ian seemed excited, talking to the others and glancing at Veron from time to time.
+
+Veron exchanged glances with the parents as well, both of them seeming pleased with how things had gone.
+
+He helped clean up when they were done and then went outside to get some fresh air. And to check if his Focus had recovered. It had, and once again he felt the deep connection to the earth below. Less than half a minute and he started to feel the strain again.
+
+He leaned back and sighed, looking up at the dark red colors that painted the clouds.
+
+Aren joined him soon after. “He likes you. Says you need time to learn the work but that you're trying hard. Did you find out anything about your Path?”
+
+“I did. Elemental and Earth, for now,” Veron said.
+
+Aren nodded at that. He leaned against the stone wall and looked out onto the meadow. “What will you do? Man from another world.”
+
+Veron looked up at the sky. “If you will have me, I will stay for a while, learn the language, how to help out, and I'll try to learn about my magic.”
+
+Aren smiled. “I wasn't sure what to expect of you. But I'm glad that Ivera found you before a monster did.”
+
+“It was me who found her.”
+
+Aren chuckled. “You can stay, if you like. Just promise me one thing.”
+
+Veron gave him a nod.
+
+“Ian already likes you. Once you leave, you make sure that he is prepared for it. No sudden departure.”
+
+“I promise,” Veron said.
+
+Aren showed him his room afterwards. A small guest room with a bed and a small table. The bed and pillows were rough but after a long day of traveling to a different world, hiking, and doing farm work, Veron was thankful for it.
+
+He was glad to have found them as well. They seemed like good people. He couldn't wait to surprise them once he was a powerful mage and either a high-level adventurer or the most efficient bricklayer in all the lands.
+
+He lay in his bed and looked up at the ceiling, wondering what the fuck he had gotten himself into. And why he enjoyed it so much.
+
+Shit. Adrien. How would I even explain all this? They probably think I drowned.
+
+He sighed and then shook his head in disbelief. I hope Charlotte doesn’t find out about it. Though the pond is pretty small, and they won’t find a body. So they might assume I ran off or something. Without clothes. Well.
+
+He couldn’t help but laugh at that. After all, there was nothing he could do about it now.
+
+Ridiculous to have these thoughts.
+
+And it’s ridiculous that I am here.
+
+But I have magic.
+
+His thoughts kept him awake for a while and he soon found himself getting up and opening the window. The landscape below was quiet and entirely dark. And above, he saw a sea of stars, red and green hues coloring the night sky in what seemed like distant clouds between the stars. And center stage, he saw the moon, bright and near full, larger and closer than the moon of Earth.
+
+It felt mesmerizing and he found himself feeling calm, and grounded. Distant howls caught his attention and he wondered what was out there.
+
+A world of magic.
+
+Whatever he did in the coming months and years, if he ever got back, he planned to have a lot of stories to share with Charlotte.
+
+He rubbed his eyes and slowly closed the blinds. It took a while to fall asleep but his exhaustion eventually won out.
+
+Veron woke up well rested. He felt more present than he had in over a decade. He was in a new world, a world where he could cast magic. As soon as he figured out how.
+
+He helped with breakfast and consulted with Aren and Ivera, about how best to progress  his magic. Once he knew more about how things worked, he planned to ask Ivera for some combat lessons as well, if only to have the option of travelling out there and exploring the wilds, if he dared and wanted to. A part of him did.
+
+He could tell already that it wouldn't be easy to convince Ivera to help.
+
+And then his day started. He helped out where he could, learning language whenever there was time, and using up his Focus every hour or so. For now, all he could do was feel the earth, but he felt content with that. More would come when he was ready, he could feel it.
+
+He didn't mind the work either. Ian was patient in explaining everything to him until he understood and could follow, the teenager glad to have another pair of hands around to help. And neither of them minded the company either. They talked about magic, about monsters, and about whatever the teen knew about the world whenever they had breaks. Sometimes he would shoot his bow as well.
+
+Both Ivera and Aren checked in from time to time, despite their decision to trust Ian with Veron. Aren often joined them for work as well but he was busy with Neva, with cooking, and with managing their stock as well. Veron learned that the building he had seen in the distance, on the road that followed the river, was the Downwater Inn.
+
+The Holt farm, as it was called, mainly supplied the inn, and the adventurers and travelers that stopped by on their way north or south.
+
+Ian was excited to tell him everything he knew about the potential destinations of the travelers. The city state of Leiveen in the south, rich and known for their enchanted goods, Relics, and their Academy. And to the north, the free city of Anvakar. A town built above the deepest reaching dungeon known in Renavor. A place where everyone was welcome as long as they were willing to put in the work.
+
+The village of Eyra was independent, though with only an inn and one farm, it hardly even qualified as a village.
+
+With every day that passed, he could do more on the farm. It was more physical than any work he'd ever done but also felt more rewarding on a day-to-day basis than working on a project for five to eight months where it was difficult to see what actually got accomplished.
+
+The progress on his long-term goals was slowly building up as well. The language mostly. With his magic, there was no change so far, and he still found it the most enjoyable parts of his day.
+
+Near the end of the second week, something changed.
+
+When he sat down in the garden for his morning routine of feeling the earth, it was a lot easier to focus on it. And once he focused, he could feel a lot more from the ground below him, as if there were more dimensions added to it all. Before, he had simply felt a lot of weight but now, it felt like he could make a reasonable guess at the actual mass, and even the composition of the earth, stone, and dirt in a certain range below him. Three to four meters perhaps. He tried to do more with it, grasp at it, but nothing moved or changed.
+
+When he looked inward to assess his Path, he saw the results of his work.
+
+Elemental Path [Feeble]- Harmony of Earth [Faint II]- Hidden Harmony [Faint I]- Hidden Harmony [Faint I]
+
+Veron laughed and raised his arms in celebration. The change was minor but it was a change. Proof that his work had paid off and proof that he could go further.
+
+He stood up and helped with breakfast, spending a bit of time practicing his vocabulary before he joined Ian for work.
+
+Three weeks later, each one twelve days long, he reached Faint III.
+
+And again, he could tell more about the composition of the earth below. And his connection felt stronger, more substantial, and he could feel that he was close now. Close to affecting change within the ground that he touched.
+
+He could speak in simple sentences now, everyday conversations no longer confusing.
+
+He decided to wait with visiting the inn until he could speak mostly fluent, Ivera having warned him that not everyone may react to his story in the same manner as they had.
+
+Spring had passed and the summer sun now relentlessly burned down onto the fields of the Holt farm.
+
+Another month passed and training near his favorite spot out in the meadows, Veron had a breakthrough.
+
+He could tell that something had changed. Something tremendous. He felt the earth below him as he had hundreds of times before. He knew its composition, its weight, how many rocks there were, and how big they were. But he had been able to tell as much for a while. And he had felt on the cusp of something more.
+
+And now he was there. As if he had crossed a wall he had been climbing for over two months.
+
+Veron grabbed a small rock from the ground and looked at it. It fit easily into his palm, its shape that of a teardrop. He could feel its weight and the connection that he had to it. But for once, he didn't focus on his general awareness of the earth around him. He focused only on the rock in his palm. Narrowing his eyes, he could feel the magic within him extend, the strange new muscle he had worked to understand and improve since the day he had arrived in Eyra.
+
+It was easy now, to let his magic flow out into the ground around him. Focusing everything on the small rock was more difficult. It felt as if it slipped through his grasp time and time again but then, just before he knew the strain would start, there was a connection. More focused, more narrow than it had ever been. He touched the rock with his index finger, and with the last few seconds of Focus trickling by, he drew a simple line across the small teardrop shaped rock.
+
+When he withdrew his finger, and felt the now familiar strain of Focus exhaustion, he saw a small depression where his finger had moved and pressed into the stone.
+
+He smiled and closed his hand around the rock. Laying down onto the grass, he looked up at the clear sky above.
+
+Again, he looked at the rock as if to confirm what he had felt and seen was true. He had changed it, shaped it with his will and his Harmony.
+
+Ian had told him that Elemental Paths, especially those with the Earth affinity often helped build and maintain structures in larger settlements. The teen was not familiar with the specifics and while Veron had the feeling that Ivera knew a great deal more about the different Paths, he had not pushed her for more information, only asking to make sure he wasn't doing anything majorly wrong.
+
+He had wondered how an earth elemental path would help in the construction and the maintenance of buildings and now he had his answer, at least partially.
+
+He immediately wanted to try it out again, to find out the limits and possibilities of his newfound ability but he knew he would have to wait for at least half an hour, preferably an hour.
+
+Looking inward, he learned about the change that he knew to be there.
+
+Elemental Path [Feeble]- Harmony of Earth [Beginner I]- Hidden Harmony [Faint I]- Hidden Harmony [Faint I]
+
+Two months into my training and I'm finally a beginner.
+
+The thought amused him for a moment before he was once again thinking about his new possibilities. He also didn't fail to once again notice the two hidden harmonies that had yet to reveal themselves.
+
+He had learned from Ian that they would have to be some sort of elemental magic, as his Path was the Elemental one. What he would unlock, he didn't know, but he knew deep down that it would be part of him like the connection he felt towards the deep reaching earth.
+
+He didn't worry too much as his Focus wouldn't increase with more Harmonies. Having more options available was beneficial for sure but at the same time he would have to either split his attention and Focus to train all of them or make a choice about where he would use his limited training time.
+
+But while his work so far had consisted of feeling and analyzing his connection to the earth below, he had now affected an actual change in the element. Of course, it depended on how exactly and to what extent he could affect change within rock and earth but at the very least, he could now perhaps offer simple repairs for the farmhouse, maybe even for the barn.
+
+In terms of broader applications, he could perhaps even mold tools from rock.
+
+Or weapons. Weapons and maybe even armor.
+
+The thought excited him. He assumed that more specialized gear and tools made from metal, leather, and cloth would likely be more effective, lighter, and more durable, but rocks were lying around all over and more importantly, he could make things with his will and Focus alone. No mining, no leather working, no animals or any other materials and tools needed.
+
+Let's not get too excited for now. It may only extend to shaping small rocks or even just leaving them slightly altered.
+
+He contained his excitement but deep down, he knew that his assumptions were correct. He felt it, more than anything, felt the changes he could affect.
+
+He joined Ian for work and an hour later, he set out to confirm it.
+
+There were five around fist sized rocks lying on the floor before Veron.
+
+Ian watched him with interest.
+
+“Why did you gather rocks?”
+
+“Just wait and you’ll see,” Veron said. If his previous attempt was anything to go by, he had around 15 to 30 seconds of magic in him.
+
+First, he touched the stone on the far right. He could tell that there was no way for him to even attempt a connection without physical touch. He wondered for a moment what he even wanted to make and then decided to test his shaping skills themselves rather than thinking of an object. Focusing on the rock, he started to form a connection. It took nearly five seconds and he could feel immediately that this was more exerting than simply feeling the earth around him.
+
+Once he felt the connection, he smiled and started pushing down on the rock to try and flatten it. The rock obeyed, slight cracking sounds coming from the fist sized chunk as it flattened out. Without pause, Veron willed the object into a rounder shape, perhaps a handle or the tip of a pole.
+
+Sweat dripped down from his brow, his Focus quickly waning. Not about to waste any time, he grabbed the second rock and held the two together, forming a connection to the new object when he realized they wouldn't join. Just before he was out, the connection formed and he willed the two together.
+
+Veron felt the strain of magical exhaustion, breathing hard as he looked at the joined handle and rock. He smiled broadly and grabbed his creation, raising it up with reverence as he looked at the silent and wide-eyed Ian.
+
+“Behold, a hammer!”

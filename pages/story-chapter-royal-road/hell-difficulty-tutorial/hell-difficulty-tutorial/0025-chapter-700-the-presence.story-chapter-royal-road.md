@@ -1,0 +1,209 @@
+---
+id: 6f1de959-3ab3-5333-9ccd-14371f8dd0b9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 700 - The Presence"
+slug: 0025-chapter-700-the-presence
+partOf: hell-difficulty-tutorial
+position: 25
+ownLength: 2966
+unit: words
+publishedAt: 2025-11-27
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2798911/chapter-700-the-presence"
+royalRoadId: "2798911"
+---
+
+“Weslin, ten thousand shards if you take care of Malika so I can examine these things in peace.”
+
+“You know I can hear you too, Nathaniel. I'm standing right next to you and the void guy. Are you that worried about being around me?”
+
+“Twenty thousand and I’ll do it.”
+
+“Fuck off, baldie, don’t interfere,” she says.
+
+“Deal,” I say.
+
+Free at last, I move away, already hearing Malika start to complain while rousing her gravitational energy. Unfortunately for her, it has no effect on Weslin. His void flickers, and it is all gone. And as expected, her attention shifts from me to Weslin, even if it is only to try to kill him.
+
+In the best case, he can hold her back without hurting her too much. In the very best case, he might impress her enough that she focuses on him instead of me.
+
+“Are we opening a box?” I ask, coming to a stop next to Christoph.
+
+He turns from the boxes toward me, then, after a pause, smiles. “I don't think it’d be worth it, but if you really want to, we can.”
+
+The figure around him expands, grabbing one of the green metal boxes and dropping it to the ground next to us with a heavy thump.
+
+“How would you proceed with opening it?” he asks.
+
+“Come on, don’t act like a teacher here,” I groan.
+
+He gives a quick laugh. “Maybe I have gotten a bit too used to that old act. I’ll try not to. But the question remains.”
+
+“You know what’s inside?”
+
+“I have a strong suspicion.”
+
+“How?”
+
+“I recognize the material and what it was being used for. Considering where we are and how old it’s likely to be, I can make a decent guess.”
+
+“Something dangerous?”
+
+“Very, but not in a useful way.”
+
+“Valuable?”
+
+“If you mean in terms of selling it to the system shop, probably. But likely not as much as you’re thinking.”
+
+“There won’t be any funny business like a Handler stepping in to take it away from me before I can open the box?”
+
+Christoph moves and jumps up to sit on the box he moved before asking, “You sound like you have experience with that.”
+
+I watch as he taps the box with his palm a few times, and follow the way vibrations echo through the material.
+
+“A bit. I tried to sneak white sand into Beyond,” I answer, watching for his reaction.
+
+“White sand?”
+
+“It comes from the Mana Desert of the sixth floor. It was some kind of construct that looked like grains of white sand, it was very aggressive and sensitive to mana. Apparently, it had been made by some Absolute or other, and when it came into contact with mana, it charged up and whipped itself into a murderous frenzy.”
+
+“Sometimes I wish I could enter the normal tutorial floors too,” he says. “Funny enough, I might get a chance soon if the tournament goes the way I want.”
+
+For a while, I watch him without speaking, long enough that he turns to me.
+
+“Any problems?” He asks.
+
+“I don’t think you’ve lied to me yet.”
+
+“I try not to lie,” he nods, then asks, “But?”
+
+“But I don’t know. It feels like you’ve been making fun of me somehow.”
+
+“Such is the privilege of the older generations.”
+
+“You know what’s funny?”
+
+“Please, tell me.”
+
+“You talk about being old, but there are people hundreds or thousands of years old. The fifty or so years separating us is nothing. We’re both children in the eyes of someone like that.”
+
+“That’s an interesting thought. It makes me want to ask you something. Would you like to hear it? I promise I won’t sound like a teacher this time.”
+
+“Go on.”
+
+“Can you really call someone who’s lived a thousand years truly old? What if that person was talented and powerful, and had always lived in a body that never felt a day older than twenty or thirty? Some people on Earth believe wisdom comes with age, as the body produces less testosterone and people begin taking fewer risks. The brain also continues developing its ability to recognize danger. It’s not fully mature until around the mid-twenties. And that goes hand in hand with recognizing one’s own mortality and grappling with the thought of death.”
+
+“Honestly, I have no idea. You could ask someone who’d lived a thousand years the same questions, and he might not know the answer, or he might just pretend to. So how the hell would I know? Just twenty years ago, I was learning to tie my shoes, and now I’m expected to answer something like that? Nah.”
+
+Christoph opens his mouth, then closes it, then opens it again. In the end, he lets out a short laugh and shakes his head. “I would say that’s a good answer.”
+
+In one smooth movement, he jumps down from the box and turns toward the hallways leading out. “Shall we leave? Something about this conversation made me excited to continue.”
+
+“You don’t want to open the box anymore?” I ask.
+
+“The boxes contain depleted reactive crystals. They’re the byproducts of creating certain mana reflective alloys. These crystals, or what remains of them, tend to be stored in boxes made of materials similar to this one and the material used for the doors. I bet you’ve noticed it as well, just like with the piece you took. It is nothing worth staying for, as in the end it is only a byproduct of processing and could be considered little more than trash.”
+
+“Is it dangerous?”
+
+“A bit. Having been stored here for so long, the pressure has likely built up, and opening it would release a strong burst of mana radiation, which I was curious to see how you would deal with. That is, of course, only if I am right. I could also be lying, and the boxes might contain some of the most valuable metals known to man, which I may intend to sell to the system shop when I return here later on my own.” As he says this, he stares at me with a blank face.
+
+We leave a few minutes later, exiting through the hallways. Christoph seems to be in high spirits, almost like he’s found himself in an adventuring mood, and takes the lead instead of Victoria’s duplicates. We still head toward the source of that eerie mana I’ve been feeling, and spot a few teleportation arrays along the way, all of which are dead and completely inactive.
+
+At first, I was surprised. If our small theory is correct, this place once served as an armory, or at least it did before being converted to keep something trapped inside. So why would there still be teleportation arrays, even if they had been deactivated? Wouldn’t you want to destroy them entirely to be sure?
+
+Around this time, the number of traps decreases sharply. That’s when we come to a stop, and I take time to examine one of the deactivated teleportation arrays. The one I find myself examining is extremely unusual, it’s unlike any I’ve ever seen before. First, it requires something other than mana to activate, and honestly, I have no idea what that something is.
+
+Second, the arrays are small. They allow only a single normal human sized person to teleport. Anything larger would be torn apart when pulled through. This restriction is hard coded into them, impossible to adjust without constructing entirely new arrays with fresh components.
+
+Lastly, there are no set coordinates, and no way to add them.
+
+And a fun thought comes to me. What if the traps here were also meant to keep anyone who found their way inside from leaving?
+
+And for that matter, why do I feel as if something’s started pulling on my mana?
+
+POV Morwag
+
+After a full day of dealing with these annoying traps, I finally reach the cave in the center of this section of the Armory. Some of the others are already inside, waiting in the enormous cavern, its walls and ceiling covered with dimly glowing red crystals.
+
+In the exact center of the cave stands a single humanoid figure. It’s fossilized, encased in stone, so other than knowing it’s a humanoid, I can’t even start to guess the race it belongs to. Whatever it is, it’s probably what we’ve been sent here to stop.
+
+I want to fight it. Whatever binds it, I want to tear it open with my bare hands. The thing here deserves to test its strength against mine.
+
+“Morwag, don’t,” Nyssa says, sitting on a boulder nearby with her knees pulled to her chest.
+
+I just nod in response and remain at her side, waiting as she does.
+
+Lyraen is already here, as is Kaari. Lyraen floats in the air the whole time, as usual, while Kaari rests with her back against the wall and her bow laid out in front of her. She notices me looking her way, her blonde hair shifts as her green eyes turn to me. I’m sure she’s making fun of me as her mana mantle rises from her shoulders, moving as if it were alive or caught in a gust of wind. Its edges glow with a pale blue gradient, darker at the top, and filled with tiny purple stars shining inside.
+
+That mantle reminds me of the time I failed to unbind it, the same as that human who challenged me so beautifully. How shameful it is that I won’t be able to face him at his strongest within the tutorial. That would have been a beautiful day.
+
+A crackle of white lightning brings me back. Lyraen floats closer, ignoring me as always and addressing Nyssa alone. The vyssari are small, and Lyraen is no different, but his power makes size irrelevant. Strength is all that matters, and Lyraen stands above me for now. I will not waste breath mocking what I cannot yet surpass. Only Nyssa can face him as an equal.
+
+“I expected Hela to be here as well,” Lyraen says in a deep voice that’s never seemed to fit him.
+
+“If she had come, I would’ve killed her. She’s smarter than that,” Nyssa answers simply.
+
+As if he only expected this confirmation, Lyraen nods. “Solae will not be coming, and neither will Quintan. At most, I would expect Brich. He showed interest in the Armory. Perhaps Luan, if he managed to leave the third floor with that mind mage of his.”
+
+“Let us wait then and see,” Nyssa nods, and it grows quiet again.
+
+Glancing her way and receiving a small gesture, I sit down in front of her with my legs crossed and close my eyes to begin training to entertain myself as we wait.
+
+An hour later, Brich appears. Smiling as always, full of energy. “Sorry for being late! There were some really fun traps I had to examine,” he says. A lumoran man, carrying a large backpack and wearing heavy armor.
+
+Every step he takes makes a noise like the clanging of a rusty bucket until he stops near Kaari, winks at her, and glances at the figure in the center. “Daaaaamn, that’s a lot of containment barriers.”
+
+“And I bet you missed most of them. I’ve seen holding cells for Champions with fewer layers of defense, even if they were less eroded by time than these ones.” Kaari smiles at him, and a ring of mana appears on her finger as she waves her hand, materializing half a dozen arrows. Each one is a different color, stabbing into the ground near her, ready to be drawn. I still remember the strength behind each one.
+
+“You want to kill the poor guy over there?” Brich widens his eyes. “I would strongly recommend against that. The quest clearly said to stop it from awakening.”
+
+I rise, my body sharpening with heat, every muscle eager for the clash that must come. “What better way to stop it than by killing it?”
+
+“Nyssa, my dear, please tell Mister Morwag not to look at me like that. The last time we fought, I escaped fairly and honorably. I do not deserve such brutal, uncivilized looks, nor to be attacked in the middle of a fight.” Brich complains as always, but he sets his bag down and pulls out a shield, inserting different mana stones into it after examining the trapped figure.
+
+“Just shut up. Today I will let you be,” I answer, then look over at Nyssa and Kaari, who is now standing next to her, asking a question.
+
+“Nyssa, there are circles meant to defend against possession, so we can assume our prisoner possesses such abilities. The defensive circles aren’t set against mind manipulation, but against things like skin jumpers. You have the strongest defenses against it, so be ready to kill any of us if it comes down to it. The presence should be weakened enough for us to kill. But if we fail, it could regain its strength and try to attack the other group, taking whatever they’ve been sent to destroy. If it escapes after getting that, it might even defeat the Pathfinder and destroy the city.”
+
+“Megacity,” I remind her.
+
+“Morwag, shut up. I hate that stupid name,” Kaari says and glances at Nyssa, who nods in confirmation.
+
+“But I cannot imagine it will survive what Lyraen is preparing.” Kaari sighs, then, like me, turns to the vyssari. He floats higher than usual, his mana trailed by white lightning as it moves through the air, leaving glowing inscriptions behind. A massive circle spreads under him. Whatever trait, item, or skill he uses generates an immense amount of pure lightning. Occasionally, it lashes outward, evaporating anything it touches.
+
+White lightning is something only this guy possesses, as far as anyone has seen. Lyraen, said to be a vyssari of one of the purest bloodlines, rumored to descend from a wyvern, maybe even a dragon. He’s also known as the attendee with the strongest attack.
+
+Maybe I should ask him to fire it at me. I am sure I could hold my body together.
+
+“Morwag, don’t,” Nyssa says from my side.
+
+So I do not, because it was she who told me. Instead, I watch as Lyraen readies his attack, charged and humming with the kind of energy that would terrify many in Beyond. Then he does something that would scare many more people shitless, as a field envelops him. All that pressure, all that coiled lightning, disappears, hidden entirely by the field.
+
+“Fucking monster,” Brich sighs nearby, Kaari only nodding. Even she couldn’t pierce that field.
+
+“After you, Kaari,” Lyraen’s voice says, echoing in such a way that I can’t even be sure where he is.
+
+Nyssa sits, her white and red eyes locked on the figure. Brich prepares to rush in after the opening attacks. Kaari nocks a purple arrow with a white core. The inscriptions on her bow glow, the arrow swells. The ring on her finger begins to shine along with her mantle.
+
+There is no more talk. She loses the arrow at the figure, and it’s immediately followed by Lyraen’s white lightning. The lightning writhes as a beast loosed from chains, twisting on itself, biting the air with fangs of light. It hits like a hammer made of light, and strips color from the world, searing inscriptions into the walls, and leaves the smell of burnt air in its wake.
+
+I send a burst of my primordial energy out ahead of me and Nyssa to unbind the aftereffects of whatever reaches us, while Brich raises his shield to defend himself and Kaari. I count two heartbeats, bind my body, and ready myself to rush in, even while the remnants of the attacks charge and pulse around, enough to evaporate anyone weaker.
+
+But there is nothing to rush against, no presence at all where it was before.
+
+Then I hear Kaari sigh, her voice trembling, “We failed. It has jumped into one of us.”
+
+As all movement stops, something else seizes our attention. Nyssa finally stands and drops from her boulder in a smooth motion. She reaches down and unties her shoes, then takes them off, along with her socks, standing here barefoot. She unbuttons her shirt and removes it, revealing a blue tank top that shows her slim, almost fragile looking, pale shoulders and arms. Unhurried, she folds the shirt and places it atop her shoes, which she moves to the side.
+
+She is perfect. Perfect because she burns herself with her own strength. The most perfect demon I have ever met. Every breath drives her closer to death, yet she refuses to weaken.
+
+Nyssa is dying. Born with Primordial Blood, that power destroys her body while only growing purer and stronger as it has found a perfect host. But for Nyssa, it’s simply impossible to grow strong enough to match her blood. There are no known Absolutes or Rulers alive with Primordial Blood, they all died before reaching that rank, if not soon after. Just like she will.
+
+The Primordial Blood is her gift. It flows through her body and turns her heart into something no demon can rival. For while she is alive, she will blaze brighter than anyone, until death takes her.
+
+What could be more demon-true than this? To be driven to grow stronger with every breath, knowing death waits, and yet carving a name into the world that no one can erase.
+
+And as expected from the demon I most admire, she speaks words without hesitation.
+
+“I am sorry, but if I cannot find who’s holding the presence inside them, I will have to kill you all.”
+
+As sure as I am of my power, I know I’m included in her statement.

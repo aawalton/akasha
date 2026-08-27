@@ -1,0 +1,131 @@
+---
+id: a34a9ad8-9a0e-58fe-9eaa-20e7fd69633c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 763 - Just as I like it"
+slug: 0088-chapter-763-just-as-i-like-it
+partOf: hell-difficulty-tutorial
+position: 88
+ownLength: 2483
+unit: words
+publishedAt: 2026-03-03
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3113609/chapter-763-just-as-i-like-it"
+royalRoadId: "3113609"
+---
+
+The moment I take the fragment, the dungeon starts shaking, and the walls start to fracture, letting in more water.
+
+I don’t know if every dungeon is like this, but this one seems to be falling apart without offering an exit. So, as one of the walls breaks, I exit through the hole to find myself back in the dark, cold water. When I manifest a thermal orb to light it up, I look back at Septa, curious about what she intends to do. The small, dog-sized spider moves all eight of her hairy legs and swims with impressive speed towards the surface, and I do the same.
+
+Adrian is nowhere to be seen, but just in case, I make a quick visit to Sneaky to have him hide some of the memories I’ve regained at least until I’m back in the tutorial. However, that doesn’t seem to be necessary.
+
+I don’t see Adrian even as I exit the water, nor do I see him as I start flying towards where Channeler is, with around half an hour remaining.
+
+Septa climbs out of the water too, standing on the surface and shaking it off. Just for a moment, she stands on her four back legs to wave two of her front ones as she wiggles from side to side, though this time it doesn't seem quite so threatening. She then falls back to her original eight and starts running in the opposite direction of my flight path.
+
+My flight takes me back to the island, where I land and re-enter the room with Jessica and Channeler. Several massive waterproof boxes sit in the middle of the room, the kind of hard plastic containers the military always uses in the movies.
+
+"Hey, welcome back," Channeler says swiftly, noticing me looking at the boxes and skipping straight to the point. "I’ve prepared everything you wanted. Snacks, food, be it microwave dinners, fresh ingredients, or other stuff. Along with solar panels, plenty of phones, tablets, laptops, a gas generator, with gas, a number of ebooks my guys already have sorted out in neatly organized files, some instruments for Maya, and documents detailing what happened on Earth."
+
+He starts naming everything off, but I don’t stop him and instead listen curiously. Meanwhile, I keep my senses and guard up, looking for any sign of Adrian.
+
+"Then there are some more experimental devices our scientists have made with some of the metals and crystals brought out of the tutorial. I don’t know if they’ll be all that useful to you, but there are camera lenses and some weird sensors that those guys seemed to be rather proud of. And a few of the scientists also asked if you could measure a few dozen things in the tutorial. They’ve provided some devices for the purpose with explanations on how to operate them, but you should feel free to throw them away if you want. I’ll just hand over a few of your manabloc plates, and they’ll be happy. What else do we have... oh, you asked, so I put as much as I could in there on smithing, creating alloys, and that kind of stuff. Drones, some guns, you can try, grenades, and other explosives. This one is from me. I gathered several 3D printing pattern samples that I thought you could use in your manabloc creations. Some of the internal structures should allow items to be hollow while still making them more durable than fully solid builds.”
+
+"That does sound interesting," I agree with him.
+
+"I thought you would like it. Then there are plenty of clothes, telescopes, and radios you could use to prevent someone from spying on mana channels or to improve your communication. Oh, and there’s plenty of deer jerky in there too, and other kinds too, as well as some vests for Biscuit."
+
+I nod, but this time I’m unable to ignore the corner of the room and ask, "Is that Grumpy?"
+
+Channeler looks the same way, solemnly, and says, "It is. Jessica is already scared."
+
+"I'm just a Normal difficulty attendee, Rafael. Cats are miniature lions, did you know that? Or tigers. Sure, I could probably play with and forcibly pet a normal lion or tiger, but this is too much. I observed the process a bit, and Grumpy's muscles are getting stronger, and his bones are much denser than they need to be."
+
+"Lily said she wanted to make his body more durable," I note.
+
+"Sorry to tell you, but this cute and grumpy kitten, as she likes to call him, is already stronger and more durable than most Normal difficulty warriors I’ve healed," Jessica mutters.
+
+Taking one more look, I can only think about how it can't be that bad. Sure, Grumpy’s now the size of a Bengal tiger and will probably grow a bit bigger. Maybe once? Twice?
+
+Lily’s gently smiling face flashes behind my eyes.
+
+Yeah, let’s just say thrice as big, at least.
+
+My phone rings, and I cancel the call before I move closer and start taking photos of the sleeping Grumpy, just as Lily asked. I boop his nose and take a photo, I even turn him on his back and caress his belly to take another. Then, I take a video of him sleeping. Another phone call tries to connect, but I cancel it as well.
+
+"Nathaniel, how long have you been dismissing that call?"
+
+"Quite a while," I say, taking the last photo. I turn off the phone and pocket it before straightening up to look back at the blonde man. "I think you guys should be safe, but honestly, you’ll need to prepare for some big changes."
+
+Channeler opens his mouth but closes it without saying anything, to think of his words. Finally, he says with a smile, "We can only do our best, as always."
+
+I observe his face for a moment before I nod, this time a bit more seriously, "I wanted to visit the government or the generals or something to make things easier on you, but it doesn't matter now. Some other guy’ll be taking over. The less I tell you about him, the better, but simply put, don’t try to push against him too much, and try to be reasonable. Though I don’t know why I’m even telling you. It is not like you don’t know how to deal with people."
+
+Glancing at the countdown, I only have a few minutes left, so I ask. "Anything else?"
+
+"My sister wanted a photo with you, but maybe next time," Channeler says. This whole thing’s been fairly unexpected and surprising to the point that it makes me wonder if he didn't throw it in just to improve the mood that I, incorrigible party pooper that I am, seem dead set on bringing down.
+
+I snort. "Why?"
+
+Channeler smiles. "She is a bit... well, unique, you’ll see. It’s a little awkward, but she’s actually stronger than me now. She awakened while on vacation in Greece when she and some friends wandered into a cave that turned out to be a dungeon. We’ve been connecting more lately, and she’s been asking a lot of questions, using your weapons, and studying all the tutorial videos we have."
+
+"So, nepotism."
+
+He doesn’t even skip a beat. "Yes. But honestly, I think she probably missed out on getting into the tutorial, otherwise she probably would’ve ended up in Hell difficulty. Though she’s still a spoiled brat."
+
+Looking at me, Channeler takes a swift step closer. He reaches out and fixes my hair and my shirt a little with quick movements.
+
+"Much more presentable like this," he notes with satisfaction as he takes out his smartphone and stands next to me to shamelessly take a selfie. "I’m an older sibling, so I have to tease her a little. I apologize for this."
+
+"Name that photo, Broody Dark vs. Golden Charmer." The, until now, quiet woman on the couch calls. For some reason, her heartbeat is racing, and her cheeks seem flushed.
+
+"I hope Grumpy grows five times his current size, Jessica," I say as I step towards the boxes. "Take good care of him. I’ve already memorized your name, and I’ll be passing it on to Lily. She would be very disappointed if she found out you left poor little Grumpy scared and alone after all that talk."
+
+"I’m the scared one here."
+
+"You’ll survive," I answer as I stick out my left hand and observe the fragment on the back of it, protruding from the pale skin. I give myself a moment to watch the reflections before I start cutting off fingers of that hand.
+
+I let mana oscillate on the fingers of my right hand and use [Focus] to filter out the pain as I always do. Cutting each finger into three segments at the joints as I start explaining, "Lily left some healing marks for you guys. To make them last longer, and because of something about bone being a more fitting medium, she placed them there."
+
+As those fingers drop to the floor, I move thermal energy around them and burn off the skin, flesh, and muscle so only the bones remain. There are fourteen in total.
+
+I continue to explain, "She spent a lot of time working on these. Each bone is a single healing mark, but they need to be activated. They’ll activate with blood, but the person providing that blood needs to hold the bone while it adapts to the body, it needs to heal. I want to give you a very, very strong warning that the blood MUST belong to the person who is being healed. Lily said she doesn't know what will happen otherwise. That’s just for the finger bones. The two thumb bones are different."
+
+Looking at my hand missing the fingers, I say, "They should be able to do something similar to what is happening to Grumpy, though it’ll be nowhere near that extent. These bones can't carry a mark as powerful as the one I had. She made them so they’d work only for humans, they should be able to strengthen the body, heal illnesses, and possibly reverse aging. We don't know how much, though, so don't use it on anyone under the age of thirty. The others will heal even a mortal wound. Lily said she tested it, and they should even be able to reconnect a severed head and restart the body. Don’t ask me how she tested it, I don’t want to know."
+
+Meanwhile, thermal energy blazes on my hand, and my wounds heal as my passive combusts. Bones reform, and flesh and skin grow back to cover them. The process on my pale left arm goes faster than on the rest of my body, certainly faster than it was before the body upgrade, even though the upgrade made me stronger. Then it occurs to me that Constitution influences healing significantly.
+
+Channeler and Jessica are quiet, so I glance at them, surprised by the shocked expression on Jessica’s face as she watches my hand and the bones at my feet. How? She was Normal Difficulty, something like this should...
+
+"Well, thank you. We will make sure to use them well. I’ll even save some for the Group 4 families just in case they’re needed, and use others to gain an advantage, for sure." Channeler moves first, picking up the bones and placing them on the table. I notice that for a moment, he is surprised by how warm they still are.
+
+"I’ll see you after the tutorial then," I say, stepping towards the piles of boxes and tethering them to myself with my mana.
+
+"If you don’t get back here before then somehow," Channeler smiles. "You seem to have a talent for breaking things."
+
+Hearing these last words, I feel myself being pulled away again and back into my room in the Headquarters of the Primordial Knights.
+
+As always, an alarm starts ringing, but I filter it out and check the wound on my back that still hasn’t fully healed, along with the remains of the toxin in my body.
+
+I allow myself to take a break, sitting down to observe both forces.
+
+Later, as they start weakening, I switch my focus to the fragment on the back of my hand. I’ll need to find out more about it, but currently, I'm thinking one thing, I’m not selling it. If my early observations are correct, this thing will be very useful.
+
+While thinking that, I cut the top off the box where I located the snacks and find a thermobox with frozen pizzas. I take one out and, after unpacking it, start using thermal energy to heat it according to the instructions. Unlike before, my control over thermal energy has improved enough that it comes out near-perfectly, with a charred bottom to add to the taste.
+
+Sitting there on the floor, resting against the side of the bed, I block the doors to my room and hijack the defensive arrays to keep people from barging in to interrupt my thoughts. I think for hours, deeply and gradually, with all my memories returned to me.
+
+I observe my body and its changes from the body upgrade. I take Lily’s and Group 4’s capabilities into consideration, and I even remember the question the Warden of the Parallax Eyes still owes me.
+
+A bit later, I move outside to one of the Headquarters' gardens and Fragment of the Nameless Tree reacts to my will, shrinking by half. Half of it remains embedded in my hand, and the other I put into a small hole I dig out and close the dirt over it. After just a few minutes, the flat surface bulges and a small sprout with a tiny leaf pokes out, and with it, many ideas spring to life as I observe it and its nature.
+
+There is a feeling that I can take it back and let the rest of the fragment in my hand reabsorb it. Looking at the tiny sapling, I continue to think about everyone whose machinations are continuing to mess with all of our lives, considering all of the Blights and Radiances.
+
+Lastly, I think of my pride, the pride of its Ruler, and everything I’ve heard. Some things snap, leaving me with a certain kind of ill-informed sense of things, others are more complicated. But the base of my plan has been made.
+
+A man to kill, rules to abuse, people to be made useful, items, finally, to be utilized, and the abilities needed to pull it all together.
+
+I take another bite and feel the pizza crunch against my teeth. It stains them black, but I eat it all anyway.
+
+Everything building up towards one single massive fuck you to the system, and all the people so arrogantly standing above me.
+
+Just as I like it.

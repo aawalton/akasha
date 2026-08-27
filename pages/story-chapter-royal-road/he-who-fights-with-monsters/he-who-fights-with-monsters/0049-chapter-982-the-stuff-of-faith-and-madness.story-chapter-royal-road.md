@@ -1,0 +1,131 @@
+---
+id: bc2da9be-99e2-506e-8129-313e9cdd1492
+page-type-slug: story-chapter-royal-road
+title: "Chapter 982: The Stuff of Faith and Madness"
+slug: 0049-chapter-982-the-stuff-of-faith-and-madness
+partOf: he-who-fights-with-monsters
+position: 49
+ownLength: 2245
+unit: words
+ownProgress: 2245
+publishedAt: 2026-02-16
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3061000/chapter-982-the-stuff-of-faith-and-madness"
+royalRoadId: "3061000"
+markedReadAt: "2026-06-29T19:05:34.080Z"
+---
+
+The magitech submarine containing Simon McKean’s laboratory was divided into a lab section, a living area and the operational sections like propulsion and the bridge. The corpses of the crew were piled up on the bridge, and those of the researchers in the bunk room. Elizabeth and Gerling were searching the ship for survivors, although she and Marie would both be startled to find any.
+
+Marie was in McKean’s cabin. She was sitting at a desk set into the wall staring at a laptop open in front of her. She angrily stabbed at it with her fingers, setting the video to play for the fourth time. Simon, recorded by the laptop now in front of her, appeared and started talking.
+
+“When you find this, Marie, I’ll be gone. I’ve purged all records of the research, other than what I am taking with me. Perhaps they are recoverable; magic makes ‘impossible’ a meaningless word, after all. I doubt it, though. I scrubbed the hard drives with magnets and magic before smashing them and dropping the pieces into the ocean.”
+
+Marie resisted the urge to put her fist through the screen.
+
+“I had hoped to make you a part of this,” he said. “I do find you to be a compelling woman, and not unintelligent. To my disappointment, it has become clear that you have formed a bond with the vampire queen, despite the incompetence demonstrated by her obvious and escalating failures. I considered offering you a chance to join me regardless, but I ultimately realised that my reasoning had been compromised by affection of which you are ultimately undeserving. Your ability to inspire that in me is, in itself, sufficient cause to excise you from my life. Even so, I have decided to indulge my affection one last time, and produce a farewell message. Obviously.”
+
+“You smug, creepy piece of crap.”
+
+“I am sorry that it came to this, Marie, but Elizabeth is a sinking ship. Leaving core-enhanced blood oaks in her hands would be tantamount to flushing them out the submarine’s airlock. After the debacle in Melbourne revealed the existence of the blood oaks, it is only a matter of time before Farrah Hurin and that fool Asano come hunting. I will need a deterrent, and sooner rather than later. Your hesitance and Elizabeth’s unwillingness to take action against Asano will only slow me down. I will be turning to other vampire lords, now that Elizabeth has lost her influence over them. I cannot trust them, of course, but I have a solution to that.”
+
+He snorted a laugh.
+
+“I suppose I don’t need to share the details. I’ll miss it, I think, explaining things to you. You were almost smart enough to understand what I was talking about. A clean break is for the best, but I do feel some obligation to you. I will be leaving you with no research and no crew, after all Vampires do get hungry. There’s a little side project I’ve been working on that you can perhaps get some use out of. I’ve left it in the testing room, but do be careful with it. It can be quite tricky to handle.”
+
+He sighed.
+
+“I am sorry it came to this, Marie. You should have made better choices.”
+
+The video came to an end, McKean’s face frozen awkwardly. His features held an echo of the weaselly man he was in her head, but the magic of silver rank had smoothed them to handsomeness. Again, she stopped herself from punching the screen.
+
+“You need to stop watching that,” Elizabeth said from the door.
+
+“I know. Any survivors? Ideally ones who know how to pilot a submarine. I don’t like the idea of waiting for this thing to run aground somewhere.”
+
+“No. I think it’s time to look at whatever Simon left for us.”
+
+“It’s probably a trap.”
+
+“Perhaps. He may have decided to punish you for your failure to return his feelings. But I can’t help but think it’s something designed to impress you. That, in his head, will make you realise that you should have followed him around like a good little woman.”
+
+Marie shuddered.
+
+“Such a little creep. At this point, though, we should probably take a look. The only other thing we have left to do is wait for Remy to come back.”
+
+“I still assert that letting him return was a mistake. If it is discovered that he is working with us, we will be drastically inconvenienced.”
+
+“If he didn’t go, when Geneva was pressuring him that hard, she’d have looked into why. I hate the woman, but she’s competent and thorough.”
+
+“If she needed that many gold rankers, then she has larger problems than questioning Remy.”
+
+“But if he’s been revealed as our associate, he isn’t coming back. That will make getting off this vessel and back on dry land an awkward undertaking.”
+
+“Quite. Shall we start with whatever Simon has left us?”
+
+“Yes, but even the smug prick said to be careful on the video, not that I wouldn’t.”
+
+“We can have Gerling make the initial examination, and suffer the consequences. It is what I keep him for, after all.”
+
+***
+
+Holly Macrossan was Annabeth Tilden’s successor as Under-Secretary-General of the United Nations Office of Supernatural Affairs, and it had been a rough few weeks. While the chance to visit her family in Sydney was nice, it was good to be heading for home in New York. The luxury jet she was using to leave Australia was a small but welcome compensation. It had been provided by Lenora Coleman, head of the yet-unnamed multinational taskforce operating out of Asano Village.
+
+Sprawled on the indulgently large bed in the sleeping cabin, sleep eluded Holly, despite her exhaustion. Her mind raced, still trying to process what she had seen during her time in Australia. Asano’s briefing was the stuff of faith and madness. The origin of the universe. A throne that ruled the cosmos. The world threatening to tear itself apart. Even with all that magic had done, Holly would have had a hard time believing any of it. She wouldn’t have, if not for her visit to Jason Asano’s private universe.
+
+Despite two decades of magic, perhaps even because of it, Holly maintained a sceptical mindset. In times like these, it was easy to believe anything. She had gone over every potential explanation for her experiences in Asano’s realm. Illusion magic or hallucinogens seemed more plausible than some guy from the Mid North Coast being what amounted to a god.
+
+She’d considered the ways it might be a deception. Hallucinations, illusions or some manner of drug-induced hypnotic suggestion. But he’d shown them too much, for too long. Her mind had been clear throughout the experience, with no fog or gaps in memory. The other touring with her had reported the same.
+
+Asano had demonstrated impossible wonders, and not just some curated display. Every question she or the others had was met with a demonstration, and sometimes a second. Every challenge they put to him was easily matched. She watched him shape mountains and oceans. A joke about turning the sky plaid was met with him doing exactly that. He pulled meteors form the sky, skipping them across the atmosphere like rocks on a pond.
+
+The final straw had been what he referred to as the astral gate. Situated in a space station orbiting the main planet, it looked like an ordinary portal. What she sensed from it was something she utterly failed to describe in the aftermath, or at any point since. She had touched infinity, and the simple experience of that had changed her understanding of reality forever. Meditating on it later, no less than seven of her essence abilities had advanced. In the face of all that, she’d been left with no recourse but to believe.
+
+She’d met people from the other world. Not diplomats and terrifyingly powerful adventurers, but refugees from a destroyed city. They spoke of Jason’s power. How it destroyed their city, yet saved them from it and wiped out an army of the angelic messengers. She had many questions for them, and was not the only one. They spoke of a System message about the Hegemon descending, echoing reports from the battle in Pakistan.
+
+The universe Asano showed them gave weight to his claims that would otherwise have been dismissed as absurdities. The world would need to come to terms with what he had told and shown them. It was bad enough for Holly, and she was an eyewitness. Asano hadn’t been wrong in pointing out that the religions wouldn’t like it, once it all came into the open. She knew for a fact that some of the people at the briefing had reached out to the leadership of their various faith groups, despite their agreements of confidentiality.
+
+It was finally dawning on the people of Earth that there was a god in their midst. Holly was now convinced there was nothing they could do about that, although she knew that others would rail against it. To her mind, Asano should be treated like a natural disaster. All they could do was evacuating people from his path, then repair and rebuilt once he had moved on.
+
+Earth was no stranger to capricious gods, but they usually had the decency to stay in their holy books. They certainly didn’t invade secret mountain bases. Nor did they throw around whole groups of gold rankers alone, just to prove that they could. Holly had been getting regular reports on the events in Europe, and she had no idea how that mess would be resolved.
+
+The European Network branches were mostly operating out of the surrounding areas, mostly Turkey and the United Kingdom. Operating in exile, they had largely downsized, with some shutting down entirely. The revelation of the Swiss branches covertly operating out of their old bases, with vampire approval, would be the source of every headache Holly had for the next year.
+
+The unconfirmed collusion with vampires was bad enough, but, the reality core farming that had Asano so angry was potentially worse. Holly remembered the old days, when reality cores taken from transformation zones had led to a magical arms race. Without them, the vampires would not have had the strength to hold out against the rest of the world. The explosion of gold rankers never would have happened. Many of the leaps forward in magitech of the last decade would never have happened.
+
+Despite what reality cores could accomplish, Holly did not want to see their return. It had been a time of secret wars, magical factions clashing over the cores that remained after the transformation zones stopped forming. Without that infighting, it might have been possible to stop the vampires before they had consolidated. There was also Asano’s claim that harvesting enough cores would cause the entire planet to be destroyed. Not reduced to some post-nuclear wasteland, but wiped off the face of the universe, like a dead bug from a windshield.
+
+The most frustrating part was that there was little to be done. The most Holly could accomplish was to prevent anyone from provoking Asano, and to hope he wouldn’t go on a rampage. She sat up on the edge of the bed, wincing at a headache. Silver rankers could endure a lack of rest better than normal humans, but the sleep deprivation was harsh when it did eventually come.
+
+The handle of the cabin door rattled briefly, then door swung open. Her familiar, Gumboot, was hanging from the handle. Gumboot was a cat with silver fur with yellow streaks, and dark brown sock colouration on her paws. Now that the System was in place, another of Asano’s godlike traits, she knew her familiar was called a mangrove star cat. Gumboot was not a stealthy creature, with her bright fur that always caught the light. She was also quite clumsy, for a cat, although very clever. Her powers allowed her to create pools of sucking mud that could trap even silver rankers.
+
+Gumboot’s paws slipped on the handle and she tried to turn during the short drop to floor. The attempt backfired, and instead of landing on her feet, she landed on her head. Sprawled unflatteringly on the floor, she let out a disgruntled meow before picking herself up, nudging the cabin door closed again and hopping into Holly’s lap. A few head scratches later, she has purring happily. With her familiar’s companionship, Holly was finally able to get some sleep, her cat curled up in the crook of her body.
+
+It felt like she had only been asleep an instant when a knock on the cabin woke her, but a glance at the clock said that hours had passed. She sat up, still groggy as a second, urgent knock came from the door.
+
+“What?” she asked, her voice croaky.
+
+“Sorry to wake you up, but the pilot said I should.”
+
+Still wearing her now-rumpled suit, Holly got up and yanked open the door. Her assistant, Tim, was standing in the hall with an apologetic expression.
+
+“Why?” she demanded.
+
+“Uh, there’s a lady.”
+
+“A lady?”
+
+“Yep.”
+
+“Where?”
+
+“Outside.”
+
+Holly wasn’t so asleep that she couldn’t feel the motion of the jet.
+
+“Tim, we are travelling at almost the speed of sound, more than a kilometre in the air, are we not?”
+
+“Um, yep. We are.”
+
+“And you’re saying there’s a lady outside.”
+
+“Yes. She’s very pretty.”

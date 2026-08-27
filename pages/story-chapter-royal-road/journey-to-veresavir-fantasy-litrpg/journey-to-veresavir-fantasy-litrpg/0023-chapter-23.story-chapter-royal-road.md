@@ -1,0 +1,235 @@
+---
+id: bef78726-769f-5dba-8402-34e9bec77675
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23"
+slug: 0023-chapter-23
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 23
+ownLength: 3710
+unit: words
+publishedAt: 2025-11-22
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2784038/chapter-23"
+royalRoadId: "2784038"
+---
+
+Chapter 23
+
+The main Guild hall was not quite as busy as Veron would have expected. A large entrance to the left led to what he assumed to be a restaurant or bar based on the noise and the smells coming from the direction. The lighting in here was warm and well thought out, several sources illuminating the domed and painted ceilings. Six counters were situated at the end of the hall but he noticed that most people were going towards the various entrances on the right.
+
+Silvie brought him to one of the counters, an attendant immediately available. A woman in her mid-twenties, long brown hair in a braid and wearing what looked like lightly armored robes in dark blue colors. She took them in with focus and distrust in her eyes. “Welcome to the Hunter’s Guild. I’m Sophia. What are you here for?”
+
+“Our friend here needs to register,” Silvie said and pointed at Veron.
+
+Sophia glanced at him before she turned to Silvie. “Do you know the name of your friend?”
+
+“What? Of course I do. It's Veron.”
+
+“Veron. Do you want to get registered with the Guild?” Sophia looked at him now.
+
+“I do.”
+
+“Good. The fee to join is 60 iron. Do you have that or is your party paying for you?”
+
+“I have it.”
+
+“Wonderful, then please come with me so that we can get everything set up. Shouldn't take more than ten minutes,” she said and glanced at the team with a questioning look.
+
+Hayden gave her a nod. Silvie Ignored her.
+
+Sophia led him behind the counter and into a back room, closing the door behind her and gesturing to one of the chairs standing around a wooden table. There were a few magical lights in the room and a few shelves. The boring office of an institution if he'd ever seen one.
+
+Veron sat down and Sophia sat down opposite him, sighing before she focused. “Veron. That's your real name? I ask because I've never heard it before.”
+
+“It is my real name, yes.” He wondered how easily an official like her could see through his story. And yet he felt like she shouldn’t really have a reason to care. Except if they were looking for people from another world.
+
+“And you're new in the city? First time here?”
+
+“Yes, to both.”
+
+“How exactly did you meet this party that brought you here?”
+
+I see.
+
+“I’m sorry, what are you getting at?”
+
+“You're new in the city. So I'll give you a quick heads up. People who are new in this city are usually easy targets. A lot of you come here with excitement and hope to make it as an adventurer. And some people like to abuse that fact. They offer gear and training for a small price, or guidance in the dungeon. Once they get your guard down, they rob you or worse. I can see you've got an Earth Harmony and know how to make use of it. The blood on it suggests you've been in a few fights too but you should be very careful who you trust here until you know your way around.”
+
+“I've been traveling with them for the better part of thirty days. Through the Teriam range, past Perrion, and then here. We fought together quite a few times. They're good people.”
+
+She gave him a long look and then relaxed slightly. “If you say so. Just be aware that people can change their tune quickly when lives or a lot of gold are on the line.”
+
+Veron didn't reply. He knew.
+
+Sophia went over to one of the shelves and got a device that looked a little like a light bulb set into a square base. “What's your current Path level?”
+
+“Weak,” he answered.
+
+“This device was enchanted to produce light, deliberately made without any consideration about Focus usage. For an Iron badge, it's hardly necessary for you to confirm your Path level but I like to stick to protocol, otherwise you get stronger adventurers complaining that weaker ones don't have to test. All about ego, but that's another conversation entirely. Just connect to it and fuel it with as much Focus as you can. Please stop before you pass out on the desk.”
+
+She said it in a way where he knew it had happened before, many times. He smiled and touched the device, fueling it with his Focus much like he had the lanterns on the road. The light bulb lit up with a weak shimmering and warm light. He let go when he reached about a tenth of his tank. “Wouldn't a higher Path just be able to keep it on for longer? And how do you know I'm not pretending to be weaker?”
+
+She gave him a slightly amused and tired look at the same time. “No, a higher Path has a stronger Focus.” She touched the lamp and it shined brighter than it had with his attempt. “As to the second question, let's call it experience and the fact that there's almost no point in doing that. But sure, there's probably a few people walking around pretending to be Iron level for one reason or the other. The badge is there for general information and identification. Common sense and wariness still apply.”
+
+“Why do I need it? And what does the Guild do? My companions suggested it was important for security.”
+
+“There is only one real rule in this city. Do not take from others what doesn't belong to you. Be that their gear, their autonomy, or their life. Nuance applies. We try to protect people as best we can but with so many fighters risking their lives every day, there’s bound to be some chaos.
+
+“Guild members are registered, so it's easier to identify them. And you’re signaling to others that you’re registered too, and intend to play by the rules. If you want to rob and kill people, you're better off not registering. That should lead to a little more trust among Guild members. Of course you'll still get the occasional group using stolen or fake badges, or simply not caring at all and using their own while going after others but if we catch anyone doing that, we come down on them fast and hard. You register, you agree to play by the rules, at least most of the time.”
+
+“What stops someone from just taking off their badge right before attacking someone? And even then… how would you track or punish that in the dungeon? Or even in the city. As far as I understand, Anvakar has no official guard…”
+
+Sophia looked at him and blinked her eyes. “You’re new in Anvakar. The goal of our Guild is to provide people with the means and freedom to delve into the dungeon. Our members look out for one another, they are not each others’ enemies, or we believe that they shouldn’t be. If everyone plays by the rules, everyone will benefit. It’s simple, so that everyone is on the same page, and nobody gets to weasel their way out if they break a rule. Keep your eyes open and your wits about you, and you’ll be fine.”
+
+So they’re the government of the city? And with only that rule and no official guard to enforce it, it seems very hands off. Like some kind of honor based system that puts the responsibility of security on the population itself, because almost everyone here is an adventurer? But yeah, it’s true, everyone benefits if we don’t kill and rob each other.
+
+Though it seems clear that there’s at least someone out there enforcing the rule. Otherwise someone personally powerful or a group working together would’ve taken over ages ago. For self-interest, gold, or just the sake of being in charge and wielding power. And more so, the city just feels too safe… but maybe there’s more going on.
+
+If he hadn't visited Perrion, he may have assumed it to be the norm in Renavor, based on how everyone can access their magic and increase their personal power. But Perrion had guards, and order. Which meant the setup here was deliberate, and enforced by those in power, which seemed to be the Hunter’s Guild. He decided to shelve the thought for now, not planning to break their rule anyways.
+
+“Do you mind a few more questions?”
+
+“Go ahead,” Sohpia said.
+
+“Thanks. Then, how do you keep things running? And what else do you offer to members?”
+
+“The city is ours. Everyone else is renting. We fund infrastructure, healing, and basic education in turn. If you're a new adventurer, we will set you up with others looking for a team. If you’re injured in the dungeon, treatment at any of the Healer Stations throughout the city is free of charge. If you manage to get there in one piece.”
+
+Veron nodded along.
+
+“The other main thing that most adventurers care about is the information we gather about the layers of the dungeon. Anything that is newly discovered, be it a new ruin, lake, cavern, or monster, once confirmed by four other members from separate groups, you all get a small fee. And the information is then available to every member. In the rooms to the right of the main hall. Oh, and if you're thinking about making things up, feel free to try. Plenty have and they've paid for it dearly. Play by the rules and everyone benefits, you included.”
+
+“I feel like I should say something about there being more than one rule but that would probably piss you off.”
+
+She smiled. “Less than it used to. Anything else?”
+
+He shook his head.
+
+“Then that's 60 iron. I'll have your badge ready in a few minutes.”
+
+“Great, thanks Sophia.”
+
+Veron handed over the silver. The six pieces he had gotten from Warren.
+
+I’ll have to tell him about that. I think he would find it amusing.
+
+Sophia returned a few minutes later and handed him his Iron adventuring badge. On it was his first name, a number, and a small flame, likely suggesting he was an Elemental Path. “Don't lose it, or sell it. The next one costs ten times as much.”
+
+“I’ll try not to.”
+
+Veron stood up and gave her a long look.
+
+“What?”
+
+“I appreciate that you're looking out for newcomers. I assume you don't have to do that.”
+
+“We are supposed to do that. But I appreciate the sentiment. Be safe out there, as much as you can, Veron.”
+
+Yeah, I like her.
+
+“I like you,” he said.
+
+She raised her eyebrows. “What’s that supposed to mean?”
+
+“Just that I like you. Thanks for your time, Sophia.”
+
+She seemed slightly confused at that, looking at him before he left.
+
+“Got your badge?” Silvie asked when he joined them again.
+
+He showed it and smiled. “I'm ready to go die in the dungeon.”
+
+Silvie laughed and cheered. Hayden didn’t react. Reka sighed, and Reymond pointed to the restaurant entrance. They were sitting in front of steaming food and pints of ale some fifteen minutes later. Once done, the Silver Wolves, who Veron wasn't sure if he was a part of for now or just an addition, said their goodbyes to Reymond. The merchant seemed excited to get on with his business, whistling to himself as he left the Guild.
+
+“What now?” Veron asked. Looking around at all the adventurers, most of them wearing Iron badges, some few wearing silver ones. Veron couldn't help but feel grateful to have a team he trusted to show him the ropes. Figuring all of this out by himself and wondering who he could and couldn't trust whilst working with potentially other newcomers seemed like a lot more stress than what his current situation demanded.
+
+“We will check the updated map of the second layer. And we'll check on current rumors and news now that we're here,” Reka said. “Hayden, can you check the map and update our notes? Silvie on rumors?”
+
+Hayden nodded and left for the second door on the right side of the main Guild hall while Silvie saluted and looked around with an eager expression on her face, likely looking for someone who would know rumors.
+
+“As for me,” Reka said. “I'll give you a quick introduction to the dungeon. I don't particularly feel like talking about philosophy or spirituality in relation to it but I'll tell you what I think you should know in terms of practicality.”
+
+“So you don't want me to ask why there is a massive hole in the middle of this city with a dungeon inside?”
+
+“Feel free to talk to the others about that. I feel like everyone has their own ideas and I'm tired of people pretending to know what they're talking about. I'll tell you what it looks like and what we will likely find inside, how you get down there and back up, and how you survive, hopefully.”
+
+“All right, I'm listening.”
+
+Reka led Veron into the first room on the right where he found a massive layered map of a place called the Crypts, the first layer of the dungeon. Layer didn't mean floor but an area of the dungeon with a similar feel to it, somewhat similar monsters of a somewhat similar level of power. The deeper you went, the more dangerous everything generally became. Those were the basics.
+
+As with Anvakar itself, the rules weren't quite as set within the dungeon either. Creatures from deeper layers sometimes showed up in higher ones and vice versa, but generally the animals and monsters stayed close to their respective dens and hovels. Just like in the wilderness, there were beings of all Paths within the dungeon, and just like in the wilderness, they generally behaved according to their Paths. Chaos beasts roamed and looked for things to kill, thus being the most common creatures to move between layers, next to the adventurers themselves. Blood path beasts roamed within their layers and were the most dangerous hunters but they rarely went far from their dens or preferred climates.
+
+“Climates?” Veron interrupted, still looking at the massive map of interconnected tunnels and halls marked with all kinds of numbers, names, and warnings. There were dozens of floors and hundreds of corridors and halls, and this was supposedly just the first layer.
+
+“Yes. The first layer is suggested for Feeble to Modest Paths, the second, the Gutter, is suggested for anyone at Modest to Durable level. We will be going to the second. I know you’re probably imagining some underground cave but there’s a reason everyone comes here to explore the dungeon. The Gutter feels as if you’ve entered another world entirely. An underground swamp. It’s hot and humid, with all kinds of insects, creatures, and ruins.”
+
+“But… how?”
+
+Reka smiled ever so slightly. “I don’t know. I tried to find an answer to that question when I first came here. I've talked to explorers with almost religious obsession about the dungeon and I've talked to experienced adventurers who went as deep as the fifth layer. If you ask me, nobody knows. But the dungeon is here, the monsters and animals we kill come back, as do many of the metal veins, and the treasure found within some of the ruins.”
+
+“That is actually crazy.”
+
+“We agree on that. But you should understand the allure because of that. The sheer impossibility of this place only adds to its fame and draw.”
+
+Monsters that repopulate? That sounds like a videogame. Or maybe some kind of different realm magic? I mean the knowledge I have about my magic, the different levels to the Paths and Harmonies screams quantifiable system or game as well. Maybe this place is just another thing like that, or that's just how we can understand or make sense of it, a way for us to find patterns in something we can’t otherwise perceive or understand?
+
+One thing was sure though, and Reka was right on that too. He wanted to explore it.
+
+They met up again sometime later, Silvie informing them about what she had heard while they made their way to the eastern part of town, where the Willard Inn was located, the preferred spot of the Silver Wolves whenever they were in town. Cheap, clean, and reliable, according to Silvie.
+
+“It's not been confirmed by the Guild but everyone I talked to mentioned that the creatures of the dungeon seemed more agitated and aggressive in recent weeks and months. More chaos beasts roaming higher than usual but not to the extent where the layers have become significantly more dangerous to anyone who knows what they’re doing. Just something that many have noticed and warned me about.”
+
+“First time I hear about something like that,” Reka said. “They didn't think we should be concerned?”
+
+“To an extent. But I mean the dungeon is the dungeon. It's dangerous anyway.”
+
+“Do you think this is connected to the more frequent attacks on the road, the Herasar, and the potential dungeon branch in the Teriam range?” Hayden asked.
+
+“Leave that to the brains in Leiveen to figure out,” Silvie said.
+
+“We don’t know. But we know how to fight, and we’ve been to the Gutter many times before. You both feel confident? And Veron, you still feel comfortable going down there?” Reka asked.
+
+Everyone agreed still but Veron could tell the others were a little concerned, still perhaps unwilling to back out now that they had made the journey north. He himself found the news intriguing. And it led him to a thought he wouldn’t share with them.
+
+Maybe this has something to do with why Envolon sent me here?
+
+Veron didn’t know why or how that was relevant. He was grasping at straws, trying to find meaning and connections in what he saw. That’s what the brain did after all. Until he knew more, it was all just speculation.
+
+“There were a few mentions of the war. Skirmishes near Honfell, and more interestingly, Norkamm was closed to both travelers and citizens of Felrak. Some adventurers just barely made it out before the gates were shut,” Silvie said.
+
+“King Orven has died, of course they would have internal struggles,” Reka said.
+
+“Assassinated,” Silvie said.
+
+“We don’t know that,” Reka said. “Nor does it matter all that much. There is war in the east, but Lyrie and Anvakar will stay out of it.”
+
+“I hope you’re right,” Silvie said and hummed.
+
+“Anything about Anvakar?” Hayden asked.
+
+“Nothing much that seems new. New gangs keep popping up and disappear again. Outside factions keep pushing for more influence, the Hunter’s Guild keeps pushing back. I feel like it’s become harder to get information on the city politics in recent years but I mean the city’s been chaotically stable for decades. I don’t expect that to change anytime soon.”
+
+Hayden grunted.
+
+Silvie started talking about the Gutter afterwards, her and Hayden discussing the route they would take through the dungeon on the next morning. Veron listened in but he lacked a lot of context to gleam much useful information. As if two people talked about navigating a city he’d never been to. The town around them was as busy as it had been upon arrival, but by now, he was filtering out most of the noise. He would spend time exploring the alleys, shops, and cafes, but he would take his time. Right now, Veron was thinking about their dungeon delve on the next morning.
+
+The Willard Inn was located close to the easternmost mountain that loomed over Anvakar, meaning it took a while to get there from the city center. The building was a large and mostly square chunk of stone and wood, looking more like a warehouse than an inn. Inside however, the atmosphere was warm and welcoming, a hall with dozens of tables set up and adventurers in all kinds of gear having dinner or drinking. Laughter and live music from a band resounded throughout, several hearths providing warmth. Veron even saw an open training area with straw dummies and some people sparring. A few counters served food, two more served other requests.
+
+“Do you mind bunking with us?” Reka asked. “I think it would be six silver a night if we take it for a full month. bit less than three hundred silver, divided by four makes between seventy and eighty silver.”
+
+“That's fine,” Veron said. If he had any idea what he was doing and how much money he really had, he may have preferred having his own room. But right now, he felt like a child with his three guardians, staying close to them seemed like the best choice.
+
+Reka talked to an attendant, laughing a few times before she returned with a room key. “Got one on the second highest floor, view of the city included.”
+
+“Yes!” Silvie exclaimed.
+
+Having had dinner already, they went up the five floors of stairs and found their room.
+
+It was small. Just enough room for two storage units and two bunk beds. The reasonably sized window with a view over much of the city more than made up for the cramped space though.
+
+“Toilets are shared, end of the hall. And there’s a bath on the ground floor,” Reka informed.
+
+Veron nodded absentmindedly, looking out onto the bustling and chaotic city from the fifth floor of the Willard inn. He could even spot the Guild, and quite a few other prominent structures he had no idea how to place, including what looked like another castle near the top of the western mountain. He heard the occasional shouts, horses, and music, but with the absence of cars and industrial plants, it was pretty quiet for a city this big. He wondered how many people lived here.
+
+Silvie joined his side when he spotted the gap between buildings where the dungeon entrance was located.
+
+A strange magical dungeon, and the main reason why so many people flocked to Anvakar. Veron felt a cold wind flowing into their shared room. He connected to it and found that for once, it didn’t call for him to go out into the wilderness. No, this time, it seemed to call him down into the depths.

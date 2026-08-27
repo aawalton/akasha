@@ -1,0 +1,149 @@
+---
+id: 64126c50-cb33-5870-9fa4-a61ba503b94d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 860 - Grand Prize"
+slug: 0188-chapter-860-grand-prize
+partOf: hell-difficulty-tutorial
+position: 188
+ownLength: 2234
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3810559/chapter-860-grand-prize"
+royalRoadId: "3810559"
+---
+
+POV Kim Min-Jae
+
+“Kevin, are you sure you know where we’re going?” I ask, barely managing to catch up to him, breathless. It’s already been what feels like days as we go through the labyrinth, avoiding traps, disassembling them, fighting monsters, or hiding from them.
+
+“I guess,” he shrugs with a smile. “You don’t have to worry about that. I’m sure I can smell Maya nearby. Just a few days, a week tops, and we’ll get to her!”
+
+“There’s no way you can smell Maya.”
+
+Kevin smiles brightly and sniffs a few times, then points in one direction. “Ha! Then how do you explain this!?”
+
+I look that way, and there is nothing there, just one of many hallways. Possibly with yet another Avatar of a long-dead person that visited the labyrinth before there was any form of civilization on Earth.
+
+“If you don’t want to tell me, I’ll understand… I trust you, you know.”
+
+“I know,” he smiles. “And Kim, I also know the Envy subclass doesn’t fit you.” He begins to walk, and I follow him, using my primordial energy to look for enemies and [Telekinesis] to hide the tremors of our steps.
+
+“It does fit me,” I shake my head. “I… it just does.”
+
+“Kim, my naive little bud, you damn Korean weirdo with all your weird-ass siblings and fucked-up parents, may they shit themselves in public. Oh, and your sense of fashion is just a single level better than Nathaniel’s, so basically trash.”
+
+“Ehm. Okay?”
+
+“Ehm. Okay,” he repeats mockingly. “I said it doesn’t fit you, and so it doesn’t. And you should listen to me, because I seem to have a sense for it.” He taps on his temple and then on his nose.
+
+“Sure.”
+
+“And don’t be so meek. Disagree. Fight me or something. Insult me as you did back in the good old times. You remember that one time when we fought, and you bit me on the shin? I don’t think I was ever as proud of you as I was on that day.”
+
+“Kevin...”
+
+“Yup?”
+
+“I think you’re dead.”
+
+“Am I?”
+
+“I think Lily killed you.”
+
+“Did she now?”
+
+“I’m not sure… Everything feels weird. This place. You. The light I saw when I came here. And…”
+
+He lifts his finger to stop me from asking, but continues to smile. “You have to watch your words. It’s always listening, adapting, recording.” He waves his finger. “And we have to hurry. There’s a human woman who, even long after her death, continues to cause trouble, and this place… well, I smell that very interesting things will happen. Whether good or terrible is yet to be decided.”
+
+Kevin’s walk begins to pick up speed as he pushes between trees. Droplets of water continue to fall from the leaves like dew, but none of it hits us as his [Reflection] constantly activates, deflecting them all.
+
+My mind feels like it’s been torn. I want to clear it out, to find out what exactly is going on, but at the same time I… I don’t want this to stop.
+
+As I gulp, I feel as if I’ve got something stuck in my throat, and the words become blurry for a while. I’m so useless. I’m the worst. I’m weak.
+
+I don’t even notice when he stops and find myself crashing into his back, almost falling as he takes a deep breath and turns around to face me.
+
+“You, my friend,” he says, “need someone to kick you around a little bit. To steel your mind and to make you stop thinking of useless things. Do what you really want to do, not what you think you should! You’re still acting as if you have to wait for the approval of your parents and trying to fit in. I’d hoped Daron would whip you into shape. Nathaniel could work, but he’s been useless, he barely understands himself. Tess would rather let you suffer a bit longer so you can be stronger, and Izzy would only coddle you. Maybe Maya? She has the potential to become a great muscle mommy just the way I like it, but she’s way too lazy, and she’s not ambitious enough, even if that might change here.”
+
+While shaking his head, he makes a sad face that is clearly there to make fun of me, as I can see the corner of his mouth constantly lifting upwards.
+
+“I don’t need your help,” I say.
+
+“Maybe, but you want it.”
+
+“I…”
+
+“Ha, not the answer you expected, right? Reflected straight back at you, you too-tall twerp! Let’s hurry then, through the mysterious Labyrinth of Xyphos!” His voice turns to a whisper as he looks around, as if checking to see if someone is listening before saying, “By the way, this is the real one, not some tutorial copy.”
+
+He begins to rush under the trees, this time even reflecting the branches, and I don't even have time to think as I hurry to follow him.
+
+POV Nathaniel
+
+Melek smiles after yet another round of applause from the audience, and his band plays yet another cheerful jingle. Vic and I wait for them to calm down after the last barrage of comments from the spectators, which he read out loud for the sake of getting a fun reaction out of us.
+
+The place we find ourselves in this time is much bigger than it was before, but there are still the same circular tribunes, and we sit in the middle on a raised platform. I would estimate there are a few thousand people here, arrayed in a blend of many races.
+
+“I personally still can't get over that unnamed noble house inviting you to visit their holiday moon, Mister Gwyn. I have to tell you,” he whispers, “that their daughters are well known for… well, “enjoying the company” of people with interesting traits like yours. But onto another question. How are you still alive?”
+
+I tilt my head in confusion, and Melek smiles while the audience laughs.
+
+“We’ve been keeping track of your stats during the first game and even went over some of the records, slowing them down to see if anyone had poisoned you or otherwise damaged you! There was nothing of the sort, yet your vitals were constantly on the border of forcing you out.”
+
+“Hell yeah!” someone from the audience shouts.
+
+Melek smiles patiently. “I appreciate the comment, but our guards will still have to escort you out. You’ll also be fined in accordance with the contract you signed to take part in this live audience. But still… thank you.”
+
+His eyes look anything but appreciative to me. Even as he smiles, I can see a coldness in his eyes as he tracks the man who shouted, being escorted out.
+
+The audience claps as the prompt signs signal they should, and Melek turns back to me. “We even checked your Crescent Lifeline. But as expected of our premier sponsor, Crescent Smithies, whose products are all now available at your local distributor, it was totally undamaged.”
+
+"How would I know that?"
+
+Melek chuckles. "I guess. How would you know, Mister Gwyn?" his charming-ass smile doesn't disappear at all despite my lackluster answer, "but why don't we watch some of the records my team has been able to acquire? I bet the audience will find them interesting!"
+
+Both Vic and I wait, and as the recording starts playing, we watch it along with everyone else, even as some people in the audience gasp or make weird, sad noises.
+
+"Nathaniel, can you describe what we are looking at?"
+
+"Something that should constitute a breach of my privacy."
+
+"It is great to see you and your sister keep such a brave face," Melek says before raising his voice toward the audience. "Unfortunately, we were unable to get any records from Earth, as you know, the system only begins to record once a planet begins its awakening and the non-attack phase and tutorial start. So, what you're seeing is the recording of the fourth floor, right when Mister Gwyn and his group lost one of their party members, something of a father figure to the younger members!”
+
+Breathing becomes a bit more difficult as I watch Hadwin's face during that fight when the First One appeared.
+
+There are many things I want to do right now, but I will give them no pleasure in seeing it. I don't even turn away. Instead, I watch the record in its entirety while Melek goes so far as to pause and zoom in on different people's faces during certain parts.
+
+He has that fake, sad smile that might seem charming to an outside observer as he repeatedly plays it in slow motion, zooming in on Hadwin's face for long moments at a time.
+
+When the record stops playing and he dismisses it, Melek turns to me. "I'm so sorry, Mister Gwyn. It must have been terrible. Even those of us who didn't go through the tutorial have heard of its dangers and therefore hold our own First Generations in great esteem."
+
+"Thank you, I appreciate it," I respond, giving a small smile. "I hope I will be able to repay your kindness someday."
+
+Victoria and I wait in the dressing room while Selene and her team rush around, fitting us with new outfits for the next game.
+
+There’s also a new member on our team, a vyssari man standing on a chair so he can keep his eyes at the same level as ours while he talks to us. He’s already been talking to us for hours and showing us records of the previous Games while sharing some of the rumors and expectations as to what the next game will be.
+
+"If you thought the first game was unfair, the second one is much worse," the vyssari, Rake, says. "913 people have passed this time, which is a historically quite large number, so they’ll try to thin the crowd down. People who did well with the audiences or donations will be given plenty of opportunities, while they’ll be trying to quickly dispose of the less interesting ones. Melek likes to start working more seriously on his storylines during the second game, so be ready for that. If you two weren't so fucking weird, I’d be telling you to try and act a little, but I bet you wouldn't listen."
+
+"I apologize for the inconvenience. I realize that Nathaniel and I are not exactly the ideal people for this," Victoria says.
+
+"Concentration skill users tend to be like that, but sometimes the audience actually likes it. I have no fucking idea where Melek is going with his angle of giving Nathaniel such a sad backstory and painting you as the powerful older sister, but nothing good ever comes out of that man's head."
+
+"Shh, you three, watch! That asshole is talking again!" Selene shouts out of nowhere, moving aside so we can see the screen.
+
+There Melek stands, this time wearing a black suit that sharply contrasts with his pink hair and skin tone. On the sleeves of the suit are faint white dots, seemingly mimicking his white freckles, and his tie is the exact green and blue color of his eyes.
+
+The selari smiles charmingly, walking through the hallways where his steps echo loud and clear. "As before, this message is dedicated to our exquisite participants. The fearless men and women who dare to seek glory within the Game!"
+
+His steps halt in front of a small metallic pillar draped in a black cloth, hiding whatever is resting on top. "This," Melek says, "is our grand prize. The most magnificent reward ever offered in the history of the Game, graciously bestowed by a sponsor who insists on remaining so delightfully anonymous. I have to tell you, if I had something like this, I wouldn't give it up. But the message we received stated it must be offered as a reward, so here it is."
+
+He smiles charmingly. "I mean, we could probably keep it, couldn't we? Slide it into an auction, pocket the fortune, and use a mere fraction of it to put up a prize that would still beat everything we've done before. But this universe is full of mysterious people, powerful people, scary people, and the rules are simple: you just don't fuck with them. And we highly suspect our anonymous donor is one such individual."
+
+With one smooth, clean movement, Melek pulls away the cloth to reveal a small crystal, causing a memory of my Fragment of the Nameless Tree to flash behind my eyes. Resting on the pillar is a small crystal of a velvet indigo color that seems to absorb the light. It doesn't even look like a crystal, its surface has a weird, impossible softness to it.
+
+"This is the Fragment of Starless Sky," Melek announces with a reverence that doesn't even seem feigned this time. "It is a pure fragment, and not a recreation from the tutorial. One of the most powerful and well-known fragments in existence! A fragment of the Elysian Frame from a dead god! As many historians will tell you, there aren’t many fragments of this god left, meaning each one carries terrifying might."
+
+The video zooms in on his face, and then cuts to a close-up of the fragment resting on the pillar.
+
+"And this is what you are fighting for."

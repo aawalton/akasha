@@ -1,0 +1,115 @@
+---
+id: fc044e45-9722-5138-90b3-5cd6a5d3cf5c
+page-type-slug: story-chapter-royal-road
+title: "189. Misunderstandings"
+slug: 0189-189-misunderstandings
+partOf: god-of-trash
+position: 189
+ownLength: 1860
+unit: words
+publishedAt: 2025-09-17
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2608327/189-misunderstandings"
+royalRoadId: "2608327"
+---
+
+The snakes, too, were sucked into the figure, and within the cave, Madame Quast frowned. If he was a weak damage sponge, faking his tier, he shouldn’t have been able to do that. Or… was he some kind of doll or hollow figure, whose whole purpose was to absorb poison? No—that explained everything! How he’d so easily dispelled her aphrodisiac, how he could endlessly absorb her potion… he was a doll, like the Strawman, but one that sucked up poison instead of curse energy. She cackled. Aside from the Strawman, dolls were weak. They were easily destroyed, except by the one energy they were meant to absorb. All she had to do was attack him physically, and the true leader—that girl in black—would have no more defense against her poisons.
+
+Sweeping up some of her vials, she strode out of her cave. Her eyes fell upon her opponents, and she couldn’t help but scoff aloud. A boy in ragged clothes and a girl in some outlandish black-and-bones outfit? What a joke! None of them were serious about magehood, the way she was.
+
+Slurping down the last of the poison and taking the last steps at reinforcing his body, Rhys stopped dead, struck dumb. Purple. So much purple. Purple and neon green. He was pretty sure the woman’s gown was meant to look sexy, but it just hurt his eyes to look at. And her skin was uncomfortably greenish pale, streaked with purple veins, and her hair was a shock of bright orange, blown out like some kind of Bride of Frankenstein costume from the 1930’s. It wasn’t natural orange, either, but highlighter orange. Painfully orange. Cheap Halloween-store wig orange, have-some-self-respect-and-buy-your-wigs-online orange. It wasn’t good. No part of it was good.
+
+Madame Quast snapped her whip. “No further. You fools! You think you have overcome my poisons?”
+
+“Not yet… hold on…” Rhys focused inwardly for a moment. He squinted, concentrating, then sighed in relief. “There. Poison overcome.”
+
+She laughed. “I wasn’t speaking to you, doll.”
+
+Rhys squinted at her. “We don’t know each other that well. That’s sexual harassment.”
+
+“A mere object has no right to protest! I’ve seen through you. I know what you are. One strike from my whip, and you’ll falter!”
+
+Rhys blinked. He pointed at himself. “Me?”
+
+“You!”
+
+He frowned. “Er, I think you’ve misjudged me. I’m more of a step-on-me kind of guy. Whips are a little too extreme, you know? I don’t want to actually get hurt.”
+
+“Of course you don’t. You’ll shatter.” She turned to Sable. “If you want to save your toy, retract it now, or else I’ll break it for you.”
+
+Sable shook her head. “No.”
+
+Rhys looked at Sable. “What’s going on? Does she think I’m your boy toy? Or…” He trailed off, not wanting to give voice to the horrific thought that had just struck him: or is there a culture of enchanted sex dolls in this world, where the ‘objects’ otherwise appear completely human, but are nothing but really nice dildos? He shuddered. And she thinks I’m one of them?
+
+Wait, hold on. Why is she so worried about removing me from the equation if I’m just a fancy sex doll? Huh? I’m so lost. Wait… Rhys eyed Madame Quast in a new light. She’d tried to inflict them with an aphrodisiac. She managed a brothel that was more of a swinger’s hangout. She was dressed in some overly sexy outfit, even if he found the clashing colors incredibly un-sexy. Could it be? Was she one of those trashy female villains—the kind who mostly showed up in only the most cursed fics—who ‘fought’ by using sex? Whose entire battle tactics, were based on seduction? They were more of a stallion novel trope than a yuri trope, but if she wanted to engage in competitive scissoring with Sable, well, who was he to get in the way?
+
+Rhys shook his head. No, no, no. I don’t think Sable is consenting to the competitive scissoring match, given the way she flatly refused to ‘put me away’ earlier. Consent is always number one! If Sable doesn’t want this kind of battle, then I’ll stand up to this sexual harassment mage for her!
+
+He looked over his shoulder and gave Sable a thumbs up. I understand. I’m an ally. I’ll take care of her for you.
+
+Sable blinked, completely lost.
+
+Rhys stepped forward. “We don’t consent! Fight me, fiend!”
+
+Madame Quast laughed. “You think you can take on Madame Quast? Foolish doll! Come here, and let Madame teach you your place!”
+
+“Tempting, but no!” He drew his new less-combustible poison sword, though he didn’t have much hope in defeating her with it. She was a poison master, if her all-poison traps and attacks and her Poison Intent were any indicator, not to mention her poisonous-to-the-eyes look. The flexible nature of the sword was worth more than the toxins imbued in it against another poison master. Even if she was more of an alchemical type, she’d still have at least a low level invulnerability against poisons, which meant that his sword would be a debuff, but not the OP battle-deciding weapon it had been lately. No, his strongest weapon against this poison master would be his ability to absorb pretty much any poison she threw at him. Actually, he looked forward to it. He’d already improved this much; how much could he continue to improve, when she was actively throwing her worst at him, versus when he was passively absorbing her traps and distance attacks?
+
+He'd been foolish to fear her as the boss who was setting up in the background. He should’ve been excited about her being the boss who set up in the background! That meant stronger poisons for him to face, or in other words, more fodder for him to use for his own personal growth!
+
+She lashed her whip in place, meaning to intimidate him. Purple liquid oozed from within the braided steel coils, sizzling where it hit the ground. From where Rhys stood, he could taste the fumes, and his face stung from mere proximity to the whip. He licked his lips. Now this was going to be good training, indeed. And not like that, either.
+
+Fast as a snake, she struck. Rhys leaped forward and took the blow on his chest. Purple liquid seared through his shirt and into his skin. He lashed out and grabbed the whip, then sucked in powerfully. All the poison whirled into him, leaving nothing but a steel whip behind.
+
+Madame Quast gasped in shock. She stared at him. He might be the most powerful doll I’ve ever seen.
+
+Rhys staggered back, overwhelmed. The poison was the most vicious he’d ever encountered. It burned, searing through his veins. Weak spots? What were weak spots? This poison didn’t need weak spots. It simply bit into what it wanted to bite, chewed through what it wanted to chew. He chased after it, desperately enhancing his flesh and patching his body back up, but it raged on. He couldn’t absorb it into his trash, either; the Poison Intent was too strong, and made it slippery, something he couldn’t grasp.
+
+Have I bitten off more than I can chew? Is this my final mistake?
+
+Rhys’s will surged, and he beat back his own voice of doubt. No! He refused. He refused to buckle here, to some mere poison master’s poison! No—that was his real mistake, wasn’t it? He was still seeing it as poison. Still comprehending it as something beyond his power.
+
+But it wasn’t. It wasn’t beyond his power. It was poison, and poison—poison was extracted from wounds. Neutralized. Removed. Thrown away. Poison… fundamentally, more truthfully than it was poison, poison—was trash!
+
+The Poison Intent fought back. It was a Tier 4 Intent, nothing to shake a stick at, and he couldn’t directly challenge it and win. It was more powerful than him. But right now, it was inside Rhys’s body. Inside his trashy body, within his trashy blood, where his intent was the strongest. And not only that, but this, the material the intent was clinging to, was trash. Now that he had fundamentally rendered it trash rather than poison, the Poison Intent didn’t have anything to stick to. It faded away, and he scrubbed the powerful poison into equally powerful mana, then fixed up and reinforced his body with it. His eyes opened, and he breathed out, more powerful than he’d been moments ago.
+
+Madame Quast gritted her teeth. “What have you done? You—you—”
+
+“Do you have any more poison? I think I’m on the verge of a breakthrough,” Rhys said with a smile.
+
+She pointed at Sable. “Remove your doll from the battlefield this instant!”
+
+Rhys squinted at her. “I’m not a doll. I’m a human. Seriously.”
+
+“You are not. No human can survive Madame Quast’s poisons,” she insisted.
+
+He approached her. She lashed her whip, trying to snap it out of his hand, but he yanked it toward him instead. “Stop getting lost in your delusions and fight me. Doll or not, I’m going to kill you.”
+
+“I have nothing. You’ve already overcome my strongest poison.”
+
+“Really?” Rhys asked.
+
+She spread her hands. “I forced my way to Tier 4. I acknowledge that. I faced some drawbacks as a result. My physical might is lacking. If I cannot poison you, I cannot defeat you.”
+
+“Well, that’s boring,” Rhys said, crossing his arms. He sighed, then gestured. “Come at me, then.”
+
+“Why? So you’ll feel better than if you defeat an unresisting woman?” she asked scathingly. “The result is the same.”
+
+Rhys thought for a second, then nodded. “You know what? You’re right.”
+
+He dashed to her. In a split second, he broke her neck and absorbed her and her energy. He didn’t need to be noble. He was trash. If his enemy wouldn’t resist, then he’d go ahead and end them anyways.
+
+Plus, she’d done enough resistance already. It was just all poison, rather than aggressive attacks. If she’d used those attacks on anyone but him, she was right: they wouldn’t have survived. She was built to be an underhanded fighter, who never engaged in actual battle. Was he meant to not kill her, because she wasn’t good at melee combat and wouldn’t fight him? Ridiculous.
+
+He nodded at Sable. “That’s that, I guess. I’m going to go grab the rest of the poisons and stuff in her cave, and then we can clear out the camp and head home?”
+
+Sable nodded. She pointed at his chest. “The voice-sending enchantment.”
+
+“Oh, right!” Rhys closed his eyes and groped around in his core for a bit before he plucked it back out. “Mouse, Lira—we’re all good here. Are you all good back there?”
+
+There was a pause, and then Mouse whispered: “We’re good, but hurry!”
+
+Rhys and Sable exchanged a look, then sprinted in opposite directions—Sable to the portal, and Rhys toward the cave.
+
+Sable skidded to a halt. She looked back.
+
+“I’ll just be a second! This stuff is super valuable!” Rhys called, hurtling into the cave Madame Quast had been using. He couldn’t let all that delicious poison go to waste!

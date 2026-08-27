@@ -1,0 +1,37 @@
+---
+id: a2966467-1d6d-53d4-89e9-eeea1bb421ea
+page-type-slug: story-chapter-royal-road
+title: "Not a Chapter. Book 7 Live on Amazon!"
+slug: 0119-not-a-chapter-book-7-live-on-amazon
+partOf: hell-difficulty-tutorial
+position: 119
+ownLength: 319
+unit: words
+publishedAt: 2026-04-15
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3278155/not-a-chapter-book-7-live-on-amazon"
+royalRoadId: "3278155"
+---
+
+Book launch shill!
+
+Hello again! It’s that time again, and yet another book of HDT has been released into the wild. But first, let’s thank Kotikomori for one of my favorite HDT covers! It is just perfect.
+
+Here is the ebook link for those who don’t want to read the rest of my yapping: https://www.royalroad.com/amazon/B0G1BL7S2V
+
+Ebook 8 should come out in 3 to 4 months, so don’t be scared if you see Amazon saying something like it will release in a year - though most of you here already read it, heh.
+
+As for Audiobook 6, the narrator is working on it and I hope it will be ready to launch sometime next month. I will share the release date as soon as I have it (on Discord, on RR, SH or on Patreon).
+
+Another cool update! The Biscuit plushie campaign was successful and 460 of them were sold! Just a while longer and there will be many of them in people’s homes. How scary! I have not forgotten about my promise and there will be side story I promised and some cool commission!
+
+To get back to Book 7, I know I say it with every book, but this one has several of my all-time favorite chapters where I allowed myself to go wild and experiment a little. It was a lot of fun.
+
+Thank you all for reading this story of mine, and I hope you will find the time to leave a review on Amazon. It helps a lot!
+
+Also, thanks to my beta readers, patrons, the people on here on Discord, and the people who leave nice comments on RR and SH. I read plenty of them and gobble up all of the compliments or insane theories - sometimes I steal some and use them in the story.
+
+if you have time, please upvote the posts I made on reddit, thanks!
+
+r/litrpg: https://www.reddit.com/r/litrpg/comments/1smdnvb/hell_difficulty_tutorial_book_7_is_out/
+
+r/ProgressionFantasy: https://www.reddit.com/r/ProgressionFantasy/comments/1smdp7k/hell_difficulty_tutorial_book_7_is_out/

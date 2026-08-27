@@ -1,0 +1,403 @@
+---
+id: c501c70c-1b5b-5ea9-ba8d-ffc03a1be080
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49"
+slug: 0049-chapter-49
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 49
+ownLength: 5057
+unit: words
+publishedAt: 2026-03-16
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3159666/chapter-49"
+royalRoadId: "3159666"
+---
+
+Chapter 49
+
+Veron spent most of the journey outside, using half of his limited Focus to move the wind or shoot the occasional stone projectile at a distant rock. He read and studied the herbalism notes he’d taken with Warren, though he doubted they would come in handy in the pit of Anvakar.
+
+The hours passed slowly, and at one point, Veron started going through some drills on the deck. He got a few amused glances and comments but nothing much that bothered him. Dinner was included in the price and when the sky darkened, Veron hid the rest of his silver inside of his armor and made to sleep on the deck outside. A few others were doing the same, though they had bedrolls and some few even pillows. With all the Silvers and even some Golds outside, Veron felt more than safe.
+
+The Herasar attacks were far away still after all.
+
+He fell asleep to the sound of the thrumming magic, plugging his ears with rock he shaped for the purpose.
+
+Veron woke up a few times during the night, a little confused about where he was before he drifted off again. It was a quiet journey, not a single beast, of any of the Paths, choosing to attack their vessel.
+
+The Walker arrived in the river port of Anvakar shortly after dawn and Veron woke up when the gangway was set into place. He yawned and stretched, rolling his shoulders, glad that he no longer was a Feeble Path.
+
+One day and night.
+
+It had cost him two thirds of his silver, but as he looked out into the dim morning light and saw the three mountain peaks surrounding the dungeon city, Veron knew it was worth it.
+
+Back in Anvakar. No more looking for creatures or plants in the wilderness.
+
+He stood up, watching as the first people rushed out into the city. Capes fluttered as they moved, pans and weapons clinking against armor, belts, and other tools. He wondered what business they all had, though with many of the armed and armored men and women, he could at least make a pretty good guess.
+
+Veron checked his pack, his knives, and weapons, and then he made to leave as well, though with far less of a rush.
+
+On the way out, Veron saw the tricorn wearing woman standing on the other side of the gangway. “Thanks for the quick journey.”
+
+She looked confused for a moment and then seemed to recognize him. “Good luck out there, Iron badge.”
+
+“What's your name? I owe you some silver.”
+
+She rolled her eyes. “You better think about not getting robbed or dying down there. It’s Ann.”
+
+“I'll try to be careful. Good to meet you, Ann.”
+
+She grunted.
+
+Veron stepped aside and breathed in the fresh morning air, smiling to himself as he started ascending the hill to Anvakar proper.
+
+The city wasn't particularly busy yet, this early in the morning. At least not so close to the river port. He slowly made his way up, following the incline and orienting himself with the help of the three mountains bordering the city. Veron reached the familiar central hub around the circular pit sometime later. Many of the stores and restaurants were only just opening up.
+
+The lifts were in use, quite a few adventurers getting in an early start. It was warmer here now, compared to back in winter, but the higher altitude left a somewhat cool wind, which Veron appreciated. He saw a few trees in bloom, and flowers decorating window sills and storefronts.
+
+It changed so quickly after the curse came from the south.
+
+Veron passed the central healer station, noting it looked just as busy as back when they had visited with Silvie.
+
+They’re alive again. If all this is really true.
+
+I imagine they would be in or around Lyrie this time of year. And they’ll likely make their way back here before winter.
+
+Veron made his way east, treading the now familiar alleys all the way to the Willard Inn.
+
+It looked just like last time he had arrived here with the others. He breathed out and felt some tension leaving him. He was back, but compared to Eyra, it felt easier to accept here in Anvakar.
+
+The main thing that connected me to Eyra were the relationships I’d formed there. But here, there are things I can do, ways in which I can progress, and move forward.
+
+And yet he slowed his thinking. He had things to figure out, and magic to work on, but rushing wouldn’t get him anywhere but to an early grave, or an early next meeting with Envolon.
+
+Veron found someone at the reception and inquired about his options. He chose the cheapest one, two silver a night for a bed in the large sleeping hall, a locker, breakfast, and most importantly, access to the baths and saunas. It felt like a steal, considering the quality of all the facilities.
+
+I’m glad they showed me this place. Maybe I can meet them again and thank them, though that might become awkward quickly.
+
+Even with the small amount of silver he had, he could stay here for a little while. Enough to hopefully start breaking even with whatever he got from the dungeon. Otherwise, Veron always had his Earth Harmony to fall back on, in case he needed a job.
+
+He took a quick bath after his long journey, and then took his time eating breakfast, watching as more and more adventurers came out from their rooms and the sleeping hall, some looking tired and exhausted from the prior day or days, others talking with excitement, eager to get back into the dungeon.
+
+Where do I fall in all that, I wonder?
+
+Veron finished his breakfast and then left the hall. The Guild seemed like the best bet, but he decided to go the opposite direction first, finding the same path he’d walked up back after the cursed light had risen to the sky.
+
+He was breathing harder when he’d reached the same area he’d stayed at, then sat down on the stone steps. Veron felt the ground with his hands and breathed in. Before him stretched the full size of Anvakar, the morning already in full swing.
+
+It felt strange. To see it all. To know the position he was in. The position he thought he was in at least. Closing his eyes, Veron felt the wind flowing past.
+
+He connected to it, and simply felt its pulls and pushes. Veron felt the stone below his feet and breathed slowly as he slightly moved his shoulders.
+
+Then he opened his eyes.
+
+He disconnected a small piece of rock from his armor and moved it around in his hand, then made it levitate slightly. He was back in Anvakar. He would return back in time if he died, probably. And he would keep his progress. It was simple. If he wanted to find out more about the curse, about Envolon, and the purpose of the time magic itself, then he would have to get a lot more powerful, and a lot richer.
+
+Anvakar was perfect for that.
+
+He’d decided to connect with others, and to find a team to work with. They would forget about him whenever he would die, be that a year from now, five years, or fifty.
+
+But now that he was actually here, Veron thought more about them.
+
+Was it fair?
+
+They would work and improve, and everything would be gone again once he had died.
+
+But it’s not just them, right? It’s true for everyone else, isn’t it? They’re all involved in this. Everyone.
+
+Just because I don’t team up with them doesn’t mean they won’t be affected. When I die, everyone will be reset. And they won’t even know.
+
+That is fucked up.
+
+Was it fair to keep this going in the first place then? Envolon had said that he could walk away, if he so desired.
+
+But I don’t know what would happen. I don’t even know if it would stop. He chose me, he could choose someone else. I just don’t know enough, and a certain robot won’t tell me more.
+
+Either way. The curse would likely hit again. Perrion would be destroyed, at the very least. Probably Leiveen too, and maybe even Eyra. And this time, it may be permanent.
+
+Veron didn’t want that to happen, even if it meant that others would be set back time and time again. And with how magic worked in Renavor, he had a real way forward. He could improve, get stronger, get richer, learn everything he could find out, and at the very least, he could prevent something like the curse. It was the only thing that made sense to him.
+
+Veron made the pebble in his hand float up again, then let it fall.
+
+So, I’m not going to let go of this. And I’m keeping everyone involved.
+
+Which means I find a team to work with, one that wants to go into the dungeon regardless. I’ll explore and try to find answers, learn what I can learn, and improve my magic.
+
+He sighed, and then smiled sheepishly.
+
+“I guess it benefits me too. I get to explore more, get to see what this world has to offer, and I’ll get to see what I can do with my magic. It just doesn’t feel like a simple adventure anymore.”
+
+Enough brooding then. Sorry, Charlotte. It does often lead to at least some insights.
+
+Veron smiled to himself.
+
+An adventure, that’s all. With this magic, I could affect the fate of everyone in this world, Envolon. No big deal.
+
+Guess I should get started then.
+
+Veron got up, then rolled his shoulders and neck. He spotted the burg towering over the city around it and then started on his way there. The attendant had mentioned something about the Guild helping new adventurers find a team.
+
+He was a new adventurer, and he was looking for a team.
+
+Let’s see if I can find a few interesting people to work with.
+
+Veron felt the winds around him, feeling a strange disconnect on his way to the burg. And he felt the weight of his decision. A weight but at the same time, he felt relieved. His path forward was simple in a lot of ways, mostly because he had so little to go on, and he was just a Modest Path. There was no great battle waiting, nor sacrifice to be made. He just had to start.
+
+Veron soon ascended the steps to the Guild again and watched the banners move in the wind.
+
+He looked for the same attendant he had talked to less than probably a month ago, for him that was. Veron couldn't see her. The man he talked to instead quickly asked about his Path and then told him about his options. He looked to be in his mid-twenties, wearing a white shirt and black linen pants.
+
+“There are open meet ups you can go to for free. Twice a day for Modest Paths and people looking for Modest Paths. With Guild assistance. Someone with education in terms of team compositions and aspects. That's not mandatory of course, you can also just go and talk to people. The next one starts in about half an hour, in Hall C2, up the stairs to the left and down the hallway, there are signs.
+
+“If you're looking for something more elaborate, there are team counselors you can hire, some of them are associated with and recommended by the Guild. They could find more detailed fits for you, or a team to join that is looking for someone with your capabilities. This option costs fifty silver per team recommendation.”
+
+“I think the free option is exactly what I'm looking for. Do I have to sign up or just go there?”
+
+“I can put you on the list. There are a few spots open.” He gave Veron a questioning glance.
+
+“Yeah, let’s do that. Thanks for the help.”
+
+“My pleasure.”
+
+Veron watched the attendant find a large book, flipping to a page, and writing down what he assumed to be his name. “All done then. Good luck on finding a team.”
+
+“Appreciate it,” Veron said and left him to his work.
+
+I’m glad the Guild exists and is so willing to help out lower leveled people like me.
+
+He could imagine a lot of very different situations with a dungeon town like this.
+
+I wonder how it became like this, and who's behind the Guild. I do believe that Silvie once talked about how both Leiveen and Lyrie were interested in more influence in Anvakar. I could find out at some point.
+
+He went to the map room of the first layer and got out his notes on herbalism. Two of the pages were empty in the back, and he planned to take a small map with him once he went back down.
+
+Every tunnel and every room was labeled, with numbers and letters.
+
+Drawing some of it would help him remember as well, though with how sprawling the dungeon layers were, Veron didn't expect to be able to take a full copy or one even close to it.
+
+I’ve got a long way to go.
+
+He supposed at least that if one got lost, going up would generally lead to Anvakar, and down would lead to the second layer. Seeing some of the branching paths however, Veron assumed that getting lost could lead to hours or even days of wandering, with dangers present and resources dwindling.
+
+Let’s try not to do that then.
+
+Veron listened to some of the conversations around him, at least twenty other people were studying the map as well. Compared to the Guild in Perrion, none of the people here wore fancy looking gear. It all seemed utilitarian. No full-plate armor, no decorated swords or glaives. Simple swords and hammers, leather packs, well-worn leather or half plate armor.
+
+He heard snippets of conversations and mentions of halls that may or may not harbor more dangerous monsters or likely had treasure. He looked at where people pointed and some sections really were marked with additional letters, suggesting they were more dangerous, or dangerous even to Silvers, based on the explanations below the map.
+
+There was plenty of discourse about areas not marked as such as well however, but he wasn’t sure if he could trust that information.
+
+With everything labeled so well and people looking to get rich, there should be plenty of people looking for information on where treasures were found before.
+
+Which means others will sell that information, I just have to find a trustworthy seller.
+
+Veron nodded to himself. It looked feasible.
+
+Compared to finding rare herbs near Eyra, I could actually see myself finding these treasures in the future. Or in the past I suppose.
+
+Strange things to consider. But even if I survive for a long time, I should prepare as well as I can.
+
+He shook the thoughts and sketched a bit more, listening to the iron adventurers around him.
+
+Veron heard bits and pieces that suggested certain areas would be dangerous due to gang influence. The Splinters, the Gauls, the Vipers, though other than the names, he had little idea of who or what they were. There were arguments about that too, so he couldn’t tell who here was a reliable source.
+
+Veron checked the clock in the main hall, and left to make his appointment with the other Modest Paths looking for a team.
+
+He found the indicated hall. Quite a few people were already there. Banners decorated the walls and chandeliers and lanterns provided warm light. There were benches and chairs in the stone hall, and some small snacks and drinks provided by the Guild. Everyone was wearing some type of armor or at least robust travelling gear or robes.
+
+Veron went to one of the benches and set down his pack and weapons, taking off his helmet before he looked around. More people were joining, some already chatting up others. It looked like there were groups singling out adventurers while others looked as new to this as he was. He could spot a few people on the sidelines as well.
+
+That's more people than I expected.
+
+Veron took a moment to settle down, appreciating the atmosphere. Most of it felt exciting, people joining up to delve into the depths. The tension and danger that the dungeon represented was present in some of their faces and their body language, but more so, it seemed like there was a lot of drive and greed and excitement.
+
+Some of them walked with heads held high, with straight postures, and smooth reactions to people striking up a conversation. Others looked shifty and nervous, though Veron knew that neither was more than a hint at their dungeoneering capabilities.
+
+Now, what kind of people am I looking for?
+
+Veron assumed they were all at the Modest stage of their Path, which meant at least some experience with fighting or extracting, or he supposed with making or having enough gold to buy quite a bit of essence. There were a few people he saw that stood out, with armor that looked a little too clean and more expensive than what most others here sported, though he wasn’t an expert by any means.
+
+If it is better gear, that could just mean they have money or connections, or maybe someone sponsoring them.
+
+Or maybe they saved up for a long time. Hmm.
+
+Two to three additional people would be best, I think. My goal is to work on my magic, so making gold isn’t a priority, at least not yet. Maybe I can find others who share that goal.
+
+A group of five shook hands and smiled at one another, two of them eyeing up each other’s weapons before they made to leave. One guy wearing gray traveling gear explained something in a book to a blonde woman in half-plate armor. One man was showing off his tower shield to three people watching him and discussing amongst each other.
+
+Veron simply sat and watched. He felt a bit puzzled with how eager some of the people he saw were with joining up or looking for others.
+
+Yeah. That’s one thing I don’t want. Overeagerness and impatience. I want people who will consider things. Who are willing to prepare and plan. Willing to compromise and work in a team.
+
+The vibe has to fit too. Even if I consider the time magic, I plan to work with them for a long time.
+
+They’re all Modest, so they all bring a similar strength to mine, and some kind of magic. Beyond that, we can all learn to work together and get better with our skills.
+
+More newly formed teams were leaving.
+
+I’m looking for reasonably grounded people, aware of their limitations and shortcomings.
+
+A healer would be good too, though I suppose everyone else would want to find one too.
+
+It seemed like Elementals with an Earth Harmony weren’t quite as sought after, as nobody came to strike up a conversation.
+
+Veron was about to start approaching people when a man who looked to be in his late thirties came up to him. He had black hair going over to gray. He was shorter than Veron, wearing black linen pants, a green shirt, and a brown vest on top. He wore his silver adventuring badge on a necklace, indicating he was at least above the Modest rank.
+
+“Hey there. I’m Rover, a team counselor of the Guild. Let me know if you’d like to get some input from me or if you have any questions. It’s good to meet you,” he said and shook Veron’s hand with an easy smile on his face.
+
+“Good to meet you too, Rover. I’m Veron, Modest Elemental Path with an Earth Harmony. How do these things usually go? I see that some people already found their teams.”
+
+“Elemental hmm? I assumed as much with the armor. It’s not every day we get someone with your Harmony. It's your first time at one of these meetings then?”
+
+“Yes.”
+
+“Well then, one way is to just strike up a conversation and see if you find anyone interesting. Or you could ask me for help. I've gotten to know quite a few of the people looking for a group here, and not everyone is comfortable joining up with people they've talked to for just a few minutes. It's not what I recommend either.”
+
+He waited, giving Veron a questioning glance.
+
+“I’m listening.”
+
+“Great. Then let’s start with a few questions. First, I'd like to know why you want to go into the dungeon. Give me an idea of what you're looking for down in the pit.”
+
+An interview. I see.
+
+Veron considered the question for a moment.
+
+“I mainly want to work on my magic, gain experience with the dungeon and the creatures within, and with working with a team. I suppose I'm not too interested in rushing things or earning silver.”
+
+Rover nodded along. “Do you have prior experience in the dungeon?”
+
+“Yes. Very limited. I got the chance to work with a more experienced team, high iron I think. I’ve been to the first and second layers, fought rats, various skeletons, skeleton hounds, in the second layer, we hunted Vereltir, and I’ve killed a few things in the Old Forest as well. For now though, I’m looking to get more comfortable with the Crypts.”
+
+“That sounds reasonable. Not many Modest Paths who have faced a Vereltir before.”
+
+“I was mostly there to support.”
+
+“I understand. So, what would you be looking for in teammates? How many? What Paths, what aspects?”
+
+“Two to three people. I want to work with people who are aware of their capabilities and limitations. People who can think things through and communicate clearly. I don’t really care about their aspects, as long as they are willing to work together and don’t run at the first sign of danger.”
+
+“Why don’t you care about their aspects? If you don’t mind me asking,” Rover said.
+
+“Because I don’t think it matters all that much in the Crypts. A healer would be nice to have in the team though.”
+
+“Why is that?”
+
+“The healer bit?”
+
+“Yes.”
+
+Veron blinked his eyes. “Well. Whenever injuries happen, we could go on. Instead of retreating.”
+
+Rover huffed with some amusement. “Yeah… maybe that could work. I’ll tell you what, Veron. There are a few people I can think of that might fit, two of them aren’t here right now but I expect they’ll join again this afternoon. One fellow adventurer you could talk to now, and see if they’re interested. They’re sitting in the corner over there.” He pointed. Veron spotted them. A woman with short black hair and clad in brown leather armor.
+
+“Sounds good. What can you tell me about her?”
+
+“It’s probably for the best if you just talk to her and find out, see if you’re both interested in working together. I suspect there’s a chance at least. Come talk to me afterwards either way.”
+
+“Will do, thanks Rover. Or maybe I should wait with thanks until I meet her and the others you’re thinking of.”
+
+Rover smiled with a shrug. “I do my work either way. Good luck.”
+
+“Appreciate it,” Veron said. He shouldered his pack, connecting his helmet and his shield to his armor, and slotting his mace into a stone holder on his waist. Then he went over to the woman, walking past the remaining fifteen or so people who were still talking.
+
+One of them saw where he was going and called out. “Don’t bother, she’s not looking for a team.”
+
+Another one snickered.
+
+“I’ll try anyway, thanks,” Veron said.
+
+He could see her better now. She was shorter than he was, arms in her lap, blue eyes forward. Her hair wasn’t short. She wore it braided and tucked up. She had white skin and a slight scowl on her face. A spiked war hammer rested against the wall next to her.
+
+Finding new teammates. Alright, awkward first moves then.
+
+“Hey. Do you mind if I sit over here?” Veron asked, indicating the same bench she sat on, a few meters to her left.
+
+“Knock yourself out,” she said.
+
+“I’m Veron. Nice to meet you.”
+
+“Let me guess, you want me to join your team as well?” she asked.
+
+“I don’t know. I don’t know you, so maybe we could start with names?”
+
+She perked up slightly and really looked at him for the first time. “You’re an Elemental Path?”
+
+“Yeah. Earth Harmony. It lets me save a lot on gear,” he said with a smile. “Is that enough to get your name? Or should I leave again?”
+
+“It’s Ailis,” she said. “And no. Do you have a team already?”
+
+“Ailis, good to meet you. I don’t have a team. You’re the first person that Rover sent me to, the attendant over there. So, why do you want to go down there?”
+
+“That’s your question?”
+
+“Yeah? Is there a misunderstanding? You are looking for a team, right? Modest Path?”
+
+Her scowl vanished, replaced by what seemed like some confusion. She sat up a bit straighter. “No. No misunderstandings. I’m a Modest Path looking for a team. Why do I want to go down there? I want to go into the dungeon to gain experience. With fighting, and with my magic. That’s pretty much it. I don’t care all that much for relics, treasures, or whatever else some fool might think to find down there.”
+
+“I see why Rover sent me to you then. I’m happy for anything we find, but I mainly want to go down to work on my magic as well. Have you been in the dungeon before then?”
+
+“A few times, yes. What about you?”
+
+“A few times. First and second layer. The second one I mostly just tagged along with a stronger team. Learned a lot but I want to focus on the Crypts for now.”
+
+“Same for me. What role would you fill then? I’ve not seen a lot of Earth Paths before, and I’m pretty sure most Elemental Paths stay back and burn things or shoot their elements at things. You seem… a little more durable.”
+
+“I should be. I can shoot things too, but I prefer close quarters. The heavy armor makes me somewhat slow, but I can take a hit or two. And I plan to do just that, if we end up working together. What about you? I assume that is your hammer? Is that your aspect?”
+
+“It isn't. I'm not an expert by a long shot, but I do plan on using it and getting better.”
+
+“Do you have a shield as well?”
+
+Ailis smiled. “Not yet. That would be the next thing to buy. A smaller and lighter one than yours though. I do have magic by the way, but I'm interested to know if you would want to work with me as is.” She looked at him with what seemed like anticipation.
+
+Veron considered for a moment. “I want to work with people I can trust and communicate with.”
+
+“I’ll tell you what it is in a minute. It’s not a big secret.”
+
+“Right. Purely based on everything else? Sure. I think it's risky without a shield, but I can make you one.”
+
+“Fancy that,” she said and considered. “A stone shield. Maybe that could work, though I’ll have to see how heavy it ends up being. I'm a Devotion Path, Way of the Healer.”
+
+“A healer. That’s awesome. Why wouldn’t you… oh, I see.”
+
+“Yeah. Normally, that's the reason why people come up to me in the first place.”
+
+“And that’s a problem? Do you want to fight instead of being relegated to the back lines to heal?”
+
+Hayden did both.
+
+Ailis seemed to relax a little, leaning against the wall behind her as she looked at him. “That's part of it, but it's not really about fighting or not fighting. I'm happy to heal. Working on my Path is the main reason why I want to go into the dungeon. It may even be the only reason actually.”
+
+She made to continue, and then shook her head. “You know what, it doesn't matter right now. If you want to try working together, I’m happy to give it a shot. Sorry for having been so brash before. It helps figuring out who’s just in it for the gold.”
+
+“I get that. You and your hammer then. Me and my rocks. That's two people. Which is a good start. I think we should probably get another two. How does that sound?”
+
+“Yeah, that sounds good. Did Rover have more suggestions?”
+
+“He did, though he said they usually join in the afternoon.”
+
+“Ah I see. Well, maybe.”
+
+“You know who he’s thinking of?”
+
+“I might have an idea. At least for one of them. I wasn’t keen so far but with you,” she wobbled her head in a considering manner. “Sure, maybe. Let's quickly check with him, otherwise we'll see each other in the afternoon.”
+
+Veron went and checked, but Rover let him know his picks hadn’t shown up yet.
+
+“You want to go for lunch then?” Veron asked Ailis.
+
+“I’ve got some work to do, but maybe dinner? If we get a team together.”
+
+“Sure. I'll see you later then.”
+
+Ailis waved and left, ignoring a plate-armored woman who came up to her to ask about her joining their group, immediately mentioning that they were looking for a healer.
+
+Ah, that’s it, isn’t it? She gets reduced to her aspect. That’s all she is to people. At least initially.
+
+Makes sense sadly. It’s such an important aspect to have around, especially at these lower levels. I guess once people can afford relics to help them deal with injuries, having a healer in the team would become less important.
+
+But I see why she's annoyed about it.
+
+And at the same time I’m really glad that Rover didn’t tell me. I might’ve brought it up as well. And now I found a healer to work with.
+
+Two more people then, and we got ourselves a team.

@@ -1,0 +1,135 @@
+---
+id: 18b6f3da-4738-5be5-a6b6-d7a376ac876b
+page-type-slug: story-chapter-royal-road
+title: "233. Are You a Retainer?"
+slug: 0233-233-are-you-a-retainer
+partOf: god-of-trash
+position: 233
+ownLength: 2256
+unit: words
+publishedAt: 2025-11-10
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2749813/233-are-you-a-retainer"
+royalRoadId: "2749813"
+---
+
+He walked into town and was instantly the center of attention. He was less than half the size of the people around him, and they stopped and stared, some chuckling, others crouching down to get down to his level and get a better look at him. They’d clearly never seen someone of his size before, which made him a curiosity. Within the first ten minutes, Rhys felt like he ought to be charging admission. Yes, I’m little. Yes, I’m an adult. No, you can’t touch me. Stop trying.
+
+He got it: they’d been confronted with something new for the very first time, and there was none of the modern world’s training to keep the eyes dead ahead, the upper lip stiff, and pretend like nothing was strange. Hell, even then, people stared, poked, and addressed others’ strangenesses constantly, but at least then there was some social force, however weak, to prevent them from being outright obnoxious about it. These people had no such compunctions, and so Rhys found himself dodging pokes and stray hands as much as gazes.
+
+There’s gotta be something me-sized that I can dress up as to keep these people from poking me all the time. A snow sprite, or something. Hey, Lira. Quick question. Are there snow-themed versions of your people? Second question, is this first question insensitive? I feel like I shouldn’t just ask people if there’s other-themed versions of themselves, but who knows?
+
+For the time being, he could only be himself, so he plastered a grin on his face and motored along, dodging whatever he could and tanking what he couldn’t. This was the first day. Eventually, even if he couldn’t find anything else to make himself look like so these people would ignore him, they’d get used to him and stop staring.
+
+“Like the other two,” someone muttered as they walked by.
+
+Rhys looked up sharply at that. There were other little people here? Other… normally sized people? He jogged after that person and patted their hip in the most neutral manner he possibly could. “There’s other me-sized people here?”
+
+To the large woman’s credit, she took it in stride. She pointed. “They spend a lot of time at the café.”
+
+He saluted and ran off. “Thank you.” The fetch quest could wait. A café sounded amazing, and he wanted to see some other people his own size. Besides, who knew? What if he knew them? It was worth a shot. After all, almost everyone he knew was in trouble with the Alliance, and most of them were also traitors of-slash-the people who had toppled the Empire. With two countries against them, the northern region might start looking very interesting. He didn’t think Lira would brave this much cold, what with her constant need to be wet, but maybe Sable? Mouse? Hell, he’d be happy to see Korii or Blake or someone else from the resistance. They’d probably have some information about what had happened to the rest of them, if nothing else.
+
+And maybe a hot beverage in this freezing cold also sounded fantastic. Shoot him. His fingers and toes had been semi-numb for days now. Not enough for him to be worried about frostbite, but enough that it sucked. Getting inside and warming up, hugging a nice warm beverage, sounded amazing. Granted, he wasn’t sure how warm it was going to get inside the ice buildings, but hell, if the Inuit could make it a cozy 70 degrees inside their igloos with no technology or magic except for the ability to build snow blocks and start fires, he had faith that magekind would figure something out.
+
+It wasn’t that hard to find the café. It stood on a corner, with tables inside and out. The tables were primarily populated by northern region citizens, but occupying the very back table, tucked away around the corner, two comically small people perched on very large chairs. Rhys beamed. He stepped inside and ordered a drink with his laundered money, then headed to the table in the back to wait for it to be delivered. He raised a friendly hand. “Hey, fellow small people, is there room for one mo—”
+
+“It’s Rhys! Hiiii!” A girl with bubblegum pink hair waved from the near chair. Peeking over the large table, the man in the far chair with a long, straight braid smiled down at him.
+
+“Mirai? Grave?” The two guards from the Emperor’s palace, the ones who’d helped him free the cores? Of all the people he’d expected to see, they’d ranked low on the list… but that was just because he might’ve forgotten them a little. They were no friends of the Alliance, and they were traitors of the Empire in a far more personal way than he and his rebellion were. They were a long way from the Empire, but then, so was he, so…
+
+“Pull up a chair!” Mirai said.
+
+Rhys looked around. There was an empty chair at the next table, so he grabbed the leg and dragged it over, then hopped up to perch on the edge of the large chair. He still couldn’t see the table from there, so he stood.
+
+Things had been sized for both large and normal-sized people over the border in the Alliance, but here, they were just sized for the large people of the northern region. Not only that, but he had the feeling that the people were larger here than they’d been in the Alliance. Back in the Alliance, they’d been all-star basketball player height, and then some, but here… here they were just giants. Improbably large, their heights absolutely inflated for no real reason. If the people from the northern region in the Alliance were 5’11”, then the people in the northern region were definitely 6’.
+
+Mirai giggled to see him struggling, but said nothing. Beyond her, Grave delicately poured tea from a large teacup into a normally-sized teacup he’d procured from somewhere, then sipped that as if it was normal. Mirai had a big sugary cup that looked suspiciously like hot chocolate, and lifted it to drink directly from it without hesitation, even though it left her with an enormous milk moustache.
+
+For all that the café was inconvenient, it was at least fantastically warm. A fire crackled in the center of the main room, and ice and snow were doing their thing to be fantastic insulators, keeping the room nice and cozy. Rhys could feel the life coming back to his fingers and toes in a way it hadn’t for days.
+
+“How’d you two end up here?” he asked, nodding at the unlikely couple.
+
+“I could ask you the same,” Mirai countered, in a tone that Rhys was pretty sure she thought sounded mysterious.
+
+“We fled the Empire after the battle. The Alliance is no friend of ours, and the other regions were far too powerful, especially considering Mirai’s new, lower tier. The northern region has a certain… anonymous appeal—”
+
+“No one likes coming here ‘cuz it’s suuu-per cold!” Mirai chimed in.
+
+Grave nodded, acknowledging her input. “…so we considered it the best place to lay low while she regained her strength.”
+
+“I’m doing great! I’m gonna be back at full power in no time. It’s like I said, the path lives in the heart, not the core.” Mirai thumped her chest and grinned.
+
+“Though I don’t think either of us will be a threat to you any time soon. Congratulations on reaching Tier 4,” Grave said, toasting him politely with the teacup.
+
+“Really? Rhys! That’s awesome!” Mirai said, bouncing in her seat, though Rhys wasn’t convinced it was excitement versus a sugar high from her immense amount of hot chocolate.
+
+“Ah, thanks,” Rhys said, scratching the back of his head. He glanced at Mirai, then away. Now probably wasn’t the time, but—
+
+“What? You keep looking at me. Are you in loooove?” Mirai asked, tilting her head cutely and resting a hand on her cheek.
+
+Rhys sighed. I’d better just spit it out before I lose the initiative completely. “You’re from another world, aren’t you?”
+
+Mirai blinked at him. She tilted her head the other way. “Huh?”
+
+“The peace sign. The very specific cutesy act. Hell, your name. ‘Mirai.’ It means ‘future’ in Japanese, a language that doesn’t exist in this world. Come on. You aren’t being very subtle,” Rhys said.
+
+Grave looked at Mirai. “He’s right. You aren’t very subtle.”
+
+Mirai gaped. “You both knew?”
+
+Grave picked up a decorated sugar spoon and cleaned it with his handkerchief. “I suspect I knew less than our friend here.”
+
+Rhys coughed. “Right. Because I’m also from that world… or one very much like it.”
+
+“Oh. Neat!” Mirai said. She gave him a thumbs-up. “What does that mean?”
+
+“I…” Rhys stopped. What did it mean? He’d been so excited to meet another inter-world traveller that he hadn’t put too much thought into the what-next part of it. Now that they’d established they were both from another world, what did that do for either of them? They could reminisce about the past, or talk about their favorite anime, but aside from that…?
+
+Man, too bad I’m trash. If I were smart or something, I bet this would mean a whole lot to me. But unfortunately, I’m a B student, not some kind of interdimensional travel genius. It meant… there was a second person who’d been kidnapped to this world! Yay! Gods, I’m so smart. I can’t believe it. I’m amazing.
+
+“I’m working on it,” he finished at last, when he looked up to find Mirai waiting on him with glittering eyes.
+
+“I think the Empress was from our world, too,” Mirai said, taking a sip from her hot chocolate.
+
+“What, really?” He hadn’t interacted with her much, so he wouldn’t know. Their conversations had mostly consisted of her having Laurent remove his core, a job offer, and then the usual bullshit as they killed one another.
+
+“Yeah. But like, from way back. 1940s or something. I don’t think she knew that I was from another world.”
+
+“Huh,” Rhys muttered. If she’d been in this world for that long, it explained why he hadn’t gotten an ‘otherworld’ vibe from her at all.
+
+A shadow loomed over the table. Rhys looked up in time for a very large man to place a very large cup before him. He nodded in thanks, then gave the cup a slow look. How was he supposed to drink this thing?
+
+Grave coughed quietly. Rhys looked down. A normal-sized teacup had somehow materialized next to his hand. He nodded at Grave and dipped it into the large drink like a ladle. The tea he’d ordered slicked off the outside of the cup as if by magic (it probably was), leaving the cup dry outside, but full of tea on the inside. Grave nodded in approval, and Rhys gave him a thankful look and sipped his tea.
+
+“So, what brings you to this godsforsaken part of the world?” Mirai asked in a friendly tone.
+
+“Oh, that’s right. Here… I’m looking for these people. Have you two seen any of them?” He drew out the orb Lord Ravin had handed him and tossed it to Mirai.
+
+Mirai pressed it to her brows, then tossed it to Grave, who repeated the gesture and genteelly passed it back to Rhys.
+
+“I know the lady. Or… I’ve seen her around. I could point her out to you,” Mirai said.
+
+“The man frequents a tavern that I also favor. I can introduce you this afternoon,” Grave offered.
+
+“And… the third one?”
+
+Mirai spread her hands and shrugged. Grave lowered his head.
+
+“No luck, huh? Thanks, though. I wouldn’t have a clue where to go without you two.”
+
+Mirai grinned and tossed her head, putting her fists on her hips. “That’s right. We’re your saviors!”
+
+Grave made a tiny gesture as he sipped his tea, as if to say, don’t mention it.
+
+Rhys sat back, looking from one to the other. He couldn’t imagine a more opposite pair. Back when they’d both been employed by the Empress, it had at least made sense, but now they were hanging together by their own will. He didn’t really get it. He thought about saying something, but then decided he wasn’t that good of a person, and said, “You’re an odd couple.”
+
+“Me? And Grave? A couple? No… but maybe?” Mirai gasped in fake surprise and fluttered her lashes his way.
+
+Grave looked at Rhys, entirely ignoring Mirai. “I feel responsible for her. Like she’s my daughter, or a lost puppy. I would feel guilty if she ran in front of an attack from someone else’s duel and died.”
+
+Rhys looked from one to the other, then nodded. I get it now. Honestly, he was a little jealous of Mirai; he’d been around Grave for about five minutes, and it was just so convenient. He was quiet, tidy, had an answer for everything, and unobtrusively placed that answer right where you needed it, when you needed it, without drawing any attention to himself. His path had to be ‘servant’ or something along those lines—butler, maybe?—but it just made him the ultimate assistant, and Rhys suddenly had a longing for an ultimate assistant of his own.
+
+He nodded at Mirai. “When we’re done here, would you mind taking me to the lady? And then Grave, after that? I’m in a little bit of a rush, so I’m sorry I can’t stay longer, but…”
+
+“No, no. Of course.”
+
+“Let’s go! I was just wasting time here anyways!”

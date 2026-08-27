@@ -1,0 +1,258 @@
+---
+id: a236ccfc-2278-5d1c-b1eb-44ad419e4224
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: Deadline"
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 8
+ownLength: 1988
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3625935/chapter-8-deadline"
+royalRoadId: "3625935"
+---
+
+Chapter 8: Deadline
+
+The next day, Akasha arrived at the training room before any of us had fully settled into our positions.
+
+She stood at the front and looked at the assembled Human Ds.
+
+She pointed at a Human D in the second row.
+
+"You're out."
+
+The Human D blinked. Akasha had already moved her finger.
+
+"And you." Another blink, another point. "And you."
+
+The pointing continued. Each one landed like a small verdict, no explanation attached, no appeal invited.
+
+One by one the group thinned. By the time Akasha paused, there were four of us left, and then I counted again and found five, because her finger had stopped on a fifth without delivering its conclusion.
+
+It was Fish.
+
+I had been calling him Fish since the ceiling incident. He was the definition of someone who occupied space without announcing it. Not invisible the way a cuttlefish is invisible. A cuttlefish turns invisible by effort, by active management of its own appearance, which is its own kind of presence. Fish was invisible by insignificance. His face was the face you would draw if asked to draw a face without any specific face in mind. His robe was the robe. His posture was posture.
+
+He stood under Akasha's suspended judgment with the same expression he wore when she wasn't pointing at him, which was no particular expression at all.
+
+"Hmm." Akasha studied him. "Not exceptional… But not not-exceptional either." She lowered her finger. "Fine. You stay."
+
+Fish's face did not change. He may not have known she had been deliberating.
+
+"What are you waiting for?" Akasha turned to the Human Ds, who were still standing in their places with the expressions of people who had not yet processed that a thing had happened to them. "Get out."
+
+One of them stepped forward.
+
+"How come we're out but she's not?" He pointed at me. "Is this because she's a young master? Because her father is a sect leader?"
+
+Akasha looked at him. "Are you telling me I can't identify talent?"
+
+He gritted his teeth. The grievance and the implication fought briefly in his expression.
+
+"Also," Akasha said, with a slight shift in her voice that brought the room's attention to what was coming next, "the disciples who remain will be joining the coming war." She let it settle. "You're welcome to stay if you'd like."
+
+The word war did something to the air in the room. The way a room changes when a window is opened onto something colder than expected.
+
+"War?" The disciple who had been aggrieved considered this new information.
+
+Akasha nodded once.
+
+His expression performed several transitions with visible effort before arriving at resolution.
+
+"Actually, my father has been asking me to learn the family trade. Someone needs to inherit it." He was already angling toward the door. "I should go." He went. The remaining Human Ds followed in a cluster.
+
+The door closed.
+
+Akasha looked at the five of us.
+
+"The same offer applies. If you'd rather not, say so now."
+
+White flicked her glasses. "What is the compensation structure? For the war effort specifically."
+
+"Room, board, resources, and sect backing for your cultivation advancement for the next ten years."
+
+"Reasonable. I'm in."
+
+Porcupine was trembling. He was standing with his hands at his sides, his jaw set, and his eyes pointed forward at a fixed middle distance.
+
+"I'll stay." His voice came out steadier than the rest of him suggested it should. "I'm going to be the best wood cultivator."
+
+Badger had not moved from his seated position through any of this. His arms were crossed. His expression was his default: angry.
+
+"Let them come. I'll kill them all."
+
+Akasha did not respond to this, which I interpreted as confirmation that she had expected it.
+
+Fish said nothing.
+
+Akasha's eyes reached me last.
+
+I nodded.
+
+"I'll stay with Human Dad."
+
+Something moved across her face briefly. She turned away before I could look closer.
+
+"Then we start immediately." She moved to the center of the room. "And I should warn you. What we've been doing until now was orientation. This is different."
+
+I raised my hand.
+
+Akasha looked at me. "What?"
+
+"Are we learning a more advanced sitting position?"
+
+"No. We are done with sitting. We will now learn enhancement."
+
+Enhancement, as far as I understood it from the tutors' lessons, was the application of spirit energy to an external subject rather than the self. A more demanding version of what Gwyn had done with her sword, except directed outward at a partner with a compatible element rather than inward at one's own technique. The tutors had described it as the foundation of coordinated cultivation combat. I had filed it under things that require a level of control I do not currently possess and moved on.
+
+"I've arranged you in pairs. Duam, you support Fridd," Akasha said.
+
+Porcupine looked at Badger. Badger looked at the wall, which was his version of acknowledgment.
+
+"Gwyn, you're with Raffea. Raffea supports."
+
+White turned to look at me and waved.
+
+"I considered the pairings carefully. Fridd and Gwyn are the strongest for offense. Both are strong-headed, have problematic personalities, and neither of them is inclined to wait for permission."
+
+"That doesn't sound like a compliment," Badger said.
+
+Akasha ignored him and glanced at Porcupine. "Duam, I put you in support because your resolve is still uncertain. You hesitate at the wrong moments. Feeding Fridd's fire while he's already committed will teach you to commit without thinking about it first."
+
+Porcupine's jaw tightened. He nodded once.
+
+"And for you, Raffea." Akasha turned to me. "Supporting Gwyn is about control. You have capacity that significantly exceeds your ability to apply it precisely. Gwyn's technique is exact by nature. Learning to channel into her work rather than your own will force you to operate at her scale rather than yours." She paused. "Also I don't know if your situation is inexperience or memory loss of said experience or something else entirely, but the point stands either way."
+
+I nodded. This seemed accurate.
+
+"How about me?"
+
+The voice came from the left side of the room.
+
+Akasha nodded to herself with a satisfied smile. "I know, the pairings are good. Wood strengthens Fire, and Earth strengthens Metal. The logic holds well when you—" She stopped.
+
+A pause.
+
+She looked toward the voice.
+
+Fish was there.
+
+"You forgot about him," Badger said, from his position beside Porcupine. Not accusatory. Simply noting a fact for the record.
+
+"I-I did not forget about him." Akasha cleared her throat. "I was saving his assignment for last because it required additional consideration." She looked at Fish. She squinted. "I will be training him personally. One-on-one instruction for his specific development profile."
+
+Fish said nothing.
+
+"So there are three pairs." Akasha nodded again. "Which is actually the ideal structure for a group this size. Perfect."
+
+"You forgot about him," Badger said again, at the same volume.
+
+"Fridd."
+
+"What."
+
+"Shut up. We will start."
+
+***
+
+On the other side of the room, Badger had fire running up his back in sheets. Porcupine stood behind him with vines sprouting from his hands and winding toward the flames.
+
+"More," Akasha said, from in front of them, arms crossed. "You need enough to get airborne. Flying is the starting point for combat cultivators. Everything after that builds on altitude."
+
+Badger's fire grew. It was still the wrong shape for wings — more like a controlled accident than a technique — but the quantity was improving.
+
+I turned back to my side of the room.
+
+White was standing with her arms loose at her sides.
+
+"So," I said. "What should I do?"
+
+"Hmm…" She tilted her head. "What skills do you have?"
+
+I considered the inventory. Three, technically. One I no longer had access to due to elemental incompatibility. One was Translation, which did not seem relevant to combat enhancement. One was Divine Neck, which was—
+
+[It would be wise to keep Divine Neck a secret.]
+
+I nodded, which White interpreted as a response to her question rather than an internal confirmation.
+
+"I don't have any."
+
+White stared at me.
+
+The smile on her face did not disappear. If anything it grew, which was not the reaction I had expected from someone who had just been told their assigned support partner had no applicable skills.
+
+"Are you serious? But I heard about the crater in the Eastern District."
+
+"That was raw spirit energy."
+
+"Really?"
+
+"Yes."
+
+She looked at me for a moment. "Raw spirit energy applied directly? No form, no technique, just — output?"
+
+"Yes."
+
+White's smile had reached a size that suggested she was enjoying this more than the situation warranted. "Then how about this: instead of learning enhancement technique from scratch, you just direct the spirit energy at me. Straight transfer. I'll handle the shaping on my end."
+
+"How would I do that?"
+
+She turned around, presenting her back to me.
+
+"Touch my back."
+
+I placed my hand between her shoulder blades. Her robe was smooth and warm.
+
+"Now pour some spirit energy toward me."
+
+I reached for the warmth in my neck the way I had learned to reach for it. Finding the edge, identifying a small amount, preparing to move it.
+
+[Warning. If you transfer too much spirit energy, she might explode.]
+
+I stopped, pulling my hand away from her back.
+
+"I'm waiting," White said.
+
+"You might explode."
+
+A pause.
+
+"Excuse me?"
+
+"If I give you too much."
+
+White turned her head to look at me over her shoulder. "Do you think that highly of yourself?" she said with the jolly tone she always had. Then it dropped, cleanly and completely, like a mask coming off. "Or are you looking down on me?"
+
+"No, I—"
+
+"Then give me your worst."
+
+I put my hand back.
+
+I tried for the smallest amount I could identify. Smaller than before. Smaller than the stamp, smaller than the first enhancement attempt, smaller than anything I had consciously moved before. I found it and held it at the edge of transfer and moved it, carefully, across.
+
+The heat traveled from my neck to my hand to White's back.
+
+Then the space between my hand and her back disagreed with itself.
+
+The sound was not a bang like Human Dad's face slap, it was sharper. The force of it went in both directions. White went forward. I went back. The distance between us opened to approximately a meter before we both stopped moving.
+
+"Are you okay?!" Akasha was already crossing the room.
+
+"I'm fine." White adjusted her glasses.
+
+She was not entirely fine in the conventional sense. She was staggering, but her body had changed. The condensed quality I had noticed when she gathered spirit energy before the dive in the training room was present now, but denser. Significantly denser. It was visible as a faint luminescence around her outline, the way metal looks when it is very hot and considering whether to stay solid.
+
+The ground shook slightly.
+
+A single deep vibration, the kind you feel in your feet before you hear it. Then the stone floor around White began to do something I had not seen stone floors do before.
+
+It moved.
+
+Liquid metal seeped upward through the cracks between the stones, finding the surface the way water finds the lowest point, except going up instead of down. It gathered at her feet and then began to rise, slowly. It caught the light as it swirled — bright where the light hit, dark in the shadows — and wound up around her legs and into the air around her in a slow spiral.
+
+"Amazing," White said, to herself or to no one.
+
+Then her eyes closed.
+
+She went down. The liquid metal dissolved the moment she lost consciousness, dropping back to the floor as though it had never been anything other than ordinary metal, settling in a thin layer around where she stood.

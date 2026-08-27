@@ -1,0 +1,189 @@
+---
+id: 171a17f4-d272-57fd-b0d3-8a78f8f0e34c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 988: If You Can’t Keep Up"
+slug: 0055-chapter-988-if-you-can-t-keep-up
+partOf: he-who-fights-with-monsters
+position: 55
+ownLength: 2486
+unit: words
+ownProgress: 2486
+publishedAt: 2026-03-02
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3109809/chapter-988-if-you-cant-keep-up"
+royalRoadId: "3109809"
+markedReadAt: "2026-06-29T19:05:47.284Z"
+---
+
+Elizabeth’s current accommodation was a cell with a glass wall. There was a wall cot and a bookshelf. A large table was bifurcated by the glass, half in the room and half in the wide hall outside. The hall looked like it belonged to an old hospital, plain and empty. The once-pristine plaster was discoloured and cracking. The tiles on the floor tapped loudly at every footstep.
+
+Elizabeth sat at the table on one side of the glass, while Neil, Carlos and Ian Evans-Asano were on the other. Emi’s father had been a doctor when he learned about magic and now had two decades of experience on the confluence of medicine and magical biology. All of them, including Elizabeth, had tablets displaying a diagram of the human body that looked a lot like one from traditional Chinese medicine.
+
+“Meridian mapping is imprecise when taken broadly,” Ian explained. “Essence users alone develop different pathways based on the specifics of their individual power makeups. If we’re going to suppress and extract the blood parasites in people, we have to start with being able to detect them without triggering the reaction that Jason encountered.”
+
+“What about Jack Gerling?” Elizabeth asked. “I am certain that McKean introduced some manner of parasite into him to steal control from me. Probably some variant of the parasites I had implanted in various people.”
+
+“Probably,” Ian said. “I don’t see how that helps us.”
+
+“I have samples from Gerling, left behind in various battles,” Carlos said. “Perhaps, between the information we have gleaned from Elizabeth about her blood magic and those samples, you could also map out Gerling’s meridian system. If we can get a framework for how his magic operates, there are options we can explore. I’ve developed targeted weapons before.”
+
+“Carlos,” Neil said, his voice a warning. “Do we have to have the discussion about what is and is not appropriate for a priest of the Healer again?”
+
+“I am just saying there are options,” he said.
+
+“I don’t see how there are,” Ian said. “Putting aside the implications of targeted bioweapons, building a meridian map is not easy. Essence users are one thing, but Gerling is a blood clone with who knows what modifications. The idea of mapping his meridian system with a few samples, some notes on ancient blood magic, and guesswork simply isn’t viable. It’s like trying to run an MRI scan on someone you only know by vague description, via mail. That’s just not how it works.”
+
+“Where did you even learn the blood magic to create a blood clone?” Neil asked Elizabeth. “Or to base the blood oaks and the blood parasites on? It’s more sophisticated than the magic this world has access to. I’m assuming it came from my world, but long ago. It has the hallmarks of Pallimustus-style magic, but an archaic variant I’ve only seen in historical records.”
+
+“It came from what you call an outworlder,” Elizabeth said. “Neither Asano nor the man who founded the Network was the first.”
+
+“Magic that old has flaws,” Neil said. “Especially with the way you used it. Gerling’s body wasn’t really alive, but it wasn’t undead either. It was sustained using your power, and that was how you maintained control.”
+
+“Our current thinking is that McKean found and exploited those weakness to displace your power and usurp your control,” Carlos said. “Transforming Gerling from an extension of you into a self-sustaining undead. Some kind of vampire variant. We’ve been studying what we’ve recovered of the blood magic research your vampires have been conducting.”
+
+“McKean was never given access to my blood magic research,” Elizabeth said. “Marie only had him working on the dimensional magic, to farm reality cores. My vampires only provided infrastructure.”
+
+“You shouldn’t have put him in the same building,” Farrah said, walking down the hall and into Elizabeth’s field of view. “I worked with McKean, and he is the greatest field-agnostic researcher I’ve encountered since Clive Standish. He soaks up knowledge like a sponge. The only thing he lacks as a researcher is a sense of ethics or restraint. He has no shortage of ambition or brilliance. The moment he got anywhere near your research, I promise you he was looking over their shoulders. It probably started with a useful suggestion. Some insight that your people missed. Next thing you know, he’s quietly collaborating, letting them take the credit so they keep quiet about his involvement. Next thing you know, your vampire researchers are planning to betray you, probably thinking that it was their own idea.”
+
+“Okay, that sounds like Evil Clive mixed with regular Jason,” Neil said. “That’s not someone I want to be up against.”
+
+“I don’t understand why you’re all even here,” Elizabeth said. “Jack Gerling, even as a now-autonomous, corrupted vampire, is a limited threat. He’s one gold ranker and, even if he’s stronger than he was, you have access to many who are stronger. Certainly you, Hurin.”
+
+“The reason we’re here,” Farrah said, “is that McKean has made Gerling the solution to the problem you could not solve.”
+
+“Should we be telling her this?” Ian asked.
+
+“Jason is confident she’s secure,” Farrah said. “And the more she knows, the more she can help.”
+
+“Assuming she wants to,” Neil said. “Which is an open question.”
+
+“The more she helps, the more she can get out of Jason,” Farrah said. “And she has a lot to do just to get ‘not being melted down into bloody slop’ out of Jason, given everything she’s responsible for.”
+
+“What problem could Gerling possibly solve?” Elizabeth asked. “He’s a tortured soul in a blood bag.”
+
+“Now he’s more,” Farrah said. “The vampire war is back in full swing. The humans are back to hitting the vampire centres, be it the blood farms, the research centres you’ve identified or even some of their major strongholds in the big cities. In the years since the last open conflicts, human essence users have been growing stronger, more swiftly than the vampires.”
+
+“I’m well aware,” Elizabeth said.
+
+“Yes,” Farrah said. “That is why you dedicated so many resources to the creation of the blood oaks, yes? But the problem you had was controlling them. We know from the Melbourne incident.”
+
+“If they were still uncontrollable, their threat would have been real, but limited,” Farrah said. “Uncontrolled, animalistic aggression is a localised, isolated threat. But what we’re seeing from them is coordination. They’re operating regionally and strategically. On an individual level, they’re using tactics and going after objectives with focus. There have been several encounters with Gerling present where we failed to capture him because of how effectively he was commanding them.”
+
+“You think that he is the solution to the control issue,” Elizabeth said. “That whatever Simon has done to him has turned Gerling into their king.”
+
+“The origin of all the blood magic responsible for this is you,” Farrah said. “Even if McKean has advanced it, the foundation is what you gave the vampires.”
+
+“I’m not the only blood magician amongst my kind,” Elizabeth said.
+
+“But you are the most knowledgeable,” Carlos said.
+
+“Yes,” Elizabeth admitted.
+
+“If you want Jason to genuinely pay attention to your contribution, you need to give us something we can use,” Farrah told her. “What have you got?”
+
+“You just told me what your problem is, and you expect me to find a solution right away, off the top of my head?” Elizabeth asked.
+
+“Yes,” Farrah said. “I know you don’t understand what it’s like in the other world, but there are adventurers and there are adventurers. All modesty aside, we are some of the most capable people in two worlds. If you can’t keep up with that and make meaningful contributions, don’t expect things to go well for you.”
+
+Farrah turned and started walking back down the hall.
+
+“Wait,” Elizabeth said. Farrah stopped and turned back around.
+
+“Obviously,” Elizabeth said, “I don’t know what Simon has done to Jack. But, as you said, the foundation of it all is blood magic. My blood magic. How wide an area is Gerling communicating with the blood oaks?”
+
+“We don’t know,” Farrah said. “They are displaying new behaviours across Europe, but whether he’s in constant contact or just directing them and sending them on their way, we don’t know.”
+
+“I suspect that he needs to maintain at least some contact, to suppress the natural instincts of the blood oaks,” Elizabeth said.
+
+“I’m not sure that ‘natural’ is the word to use,” Ian said.
+
+“My point,” Elizabeth said, “is that the basic mechanisms of what Gerling is and what he does come from my blood magic. If Gerling is in contact with all of the blood oaks, I have a good idea of how that would work. It might be possible to use it to track the blood oaks, potentially even trace them back to Gerling. At the very least, I can probably put together a ritual that will help you detect their presence within a certain area.”
+
+“Good,” Farrah said.
+
+“Tell Asano that I’ll need a place to work on this. Ritual materials, a space that can have the ambient magic balanced out. I can’t do it from inside an empty cell.”
+
+“He already knows,” Farrah said, nodding past Elizabeth.
+
+The vampire queen turned to see a new door in the wall of her cell.
+
+“He’s always listening,” Farrah told her. “Always watching. Behave yourself, vampire.”
+
+She turned around again and walked away.
+
+***
+
+Anna had known Holly Macrossan for a long time. When Anna had been running the Network’s Sydney branch, Holly had been someone Anna was keeping an eye on. Unsurprisingly, a Network branch was heavily focused on magic, monsters and, back in the day, secrecy. The people within it tended to focus on those aspects, despite administration, logistics and politics being the engine that kept the vehicle running along.
+
+As one of the rare bureaucrats who could navigate magic society effectively, Holly rose swiftly through the ranks of Network officials, but without making splashy waves. After the Network schism, Anna had taken Holly with her to the UN, ultimately recommending Holly to be her successor upon leaving. That recommendation hadn’t been accepted, but Anna’s original replacement had crashed and burned, after which Holly had been installed.
+
+Anna knew that Holly had a tolerance for the wild events that happened around magic, but there were always limits. Losing her nephew had hit her hard, and her extended hiatus from her job had ultimately led to her being replaced. After hearing about it, Anna went to visit Holly where she was still staying, in Asano Village.
+
+“I wasn’t expecting company,” Holly said as she let Anna into the house. “You’ll have to excuse the mess.”
+
+Holly certainly was more dishevelled than Anna was used to. Her t-shirt had a food stain and her track pants were scuffed at the bottom.
+
+“I understand, Holly. There aren’t that many of us who do what you and I do. Not well, anyway. Dealing with powers that are so vast and dangerous. You’ll find that most of us have collapsed at some point, after fully confronting the forces we have to navigate.”
+
+“Did you?”
+
+“Oh, yes. After the vampire lord invaded my branch in Sydney…I know it’s hard, Holly. I really do.”
+
+Holly led Anna downstairs, into a lounge room overlooking the sea. There was a mustiness in the air, along with an assortment of empty pizza boxes, beer cans and liquor bottles.
+
+“Wasn’t expecting company,” Holly said, and fell into an armchair. Anna took the one next it.
+
+“There’s a group in Sydney,” Anna said. “People who understand what we’ve been through. I used to attend a lot, before I got the UN job.”
+
+“The one I just lost. I assume you heard.”
+
+“I did.”
+
+“You think a group therapy circle is going to help?”
+
+“It helped me. It’s been a while so I had it checked out. It’s still going, and a bit more professionally, now. Back then, it was Network insiders, sitting around in a community centre. Everything’s out in the open, now, and so factionalised. They’re more careful about anonymity and information control, now. Making sure that’s it’s a space that can help, and not be another stressor.”
+
+“I don’t know, Anna.”
+
+“I won’t push. If you want the details, reach out anytime.”
+
+“It’s not like I don’t have the time. What am I going to do, now? I’m going to be poison, after getting fired. Add that to the Asano factor, and I don’t know where I’m going to land.”
+
+“The Asano factor?”
+
+“The last couple of weeks, I’ve had a lot of people calling with their condolences. Funnily enough, the conversation always winds its way around to one of two things. Do I have an inside line with Asano, or that I maybe shouldn’t reach out any time soon. They couch it in nicer terms than that. Mostly. But they make it clear that they want nothing to do with me. You must have had it worse than I did, after you went to work for him.”
+
+“Yes. But you can use that, whichever way it goes. It becomes leverage, down the line, if you play it right.”
+
+“I don’t know that I have that in me anymore, Anna.”
+
+“I think you do. Only you can know that for sure, but sometimes an outside perspective is the one you need.”
+
+“Are you here to recruit me?”
+
+“No. That comes later, once you’re living somewhere that doesn’t smell like a uni student’s dorm.”
+
+Holly laughed, then looked surprised by it.
+
+“Can’t remember the last time I did that.”
+
+“For now,” Anna said, “I’m here to ask you to dinner.”
+
+“Did Asano tell you to do that?”
+
+“No, Susan did. She’s been worried about you, but didn’t want to reach out yet. She figured you had plenty of vultures circling you already.”
+
+“Susan’s here in Australia?”
+
+“No, France. I know a lot of gold rankers with portal magic now. A lovely man named Clive has offered to ferry us. And send you anywhere you would like to go after. You should probably figure out where that is. I talked with Lenora, who runs the village. She said you can stay as long as you like, but that’s not a good idea. Sooner or later, people will try and use you, myself included. I’m just not going to quite yet.”
+
+“How is Susan?”
+
+“Good. And likely the only person you’ll meet whose only agenda is your wellbeing, so you should take her up on the dinner invitation.”
+
+“In Asano territory. In vampire-overrun France.”
+
+“You’ll find that the vampires keep their distance. I wouldn’t expect them to come bursting in during the meal.”
+
+“Fine. I’ll come to dinner. For Susan, not for you.”
+
+“You should take a shower first. A long one, while I find you something to wear. Do you have any clean clothes somewhere?”

@@ -1,0 +1,163 @@
+---
+id: a6dfb9a4-67ef-554d-9106-6db40226e60c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 746 - Stampede"
+slug: 0071-chapter-746-stampede
+partOf: hell-difficulty-tutorial
+position: 71
+ownLength: 3124
+unit: words
+publishedAt: 2026-02-08
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3026401/chapter-746-stampede"
+royalRoadId: "3026401"
+---
+
+The location of the first event is huge. Set on an entirely flat plane, covered with ruins, stretching as far as I can see from the screen. These ruins aren’t the remains of buildings, but of some other sort of gigantic structures. Some resemble pillars, others are broken arches, or, most strangely, an enormous cube that’s been broken apart.
+
+Both the Earthlings and our opponents are spread all over. They’re not separated, there are humans mixed in with the tall, blue, multi-armed thylarin from a planet I’ve come to learn is called Nythis.
+
+There are multiple smaller fights, and as a result, a few more people reappear in the common area, but they turn out to be the exception. Most of the participants simply try to separate and move to join their respective race.
+
+I notice a group of thylarin elites, clearly from their round of Hell difficulty. A few of them have six arms instead of four, and they act with confidence as they organize their forces, though they don’t seem to care about anybody from the lower difficulties.
+
+Earth is a bit different. Although plenty of people from Easy difficulty and some from Normal have already cleared their 13th floor, there are still plenty of them here. As before, it’s Samuel and his people going around and trying to organize them, and I would swear I saw an amused expression on Christoph’s face when he glanced over at it.
+
+Christoph then turns away and, with a long leap, lands near Victoria in the distance to tell her something. My sister listens for a while before nodding and gesturing at Gloria, with whom Christoph starts talking while Victoria moves through the area to find Tess. They talk for a while before they split again.
+
+It’s very likely that there’ll be a short time for preparation before the Stampede starts, and I turn out to be correct. The event doesn’t start properly until about thirty minutes later, once both sides are organized. Everyone inside seems to sense it, and many thousands of heads turn in the same direction, tensing up as it begins.
+
+A swirl of air appears, kicking up a dense cloud of dust that blurs the environment. At its center, a pale blue color emerges and rapidly expands, growing into what seems to be a perfect circle suspended in the air. Its edges sweep outwards, intersecting the gigantic structures nearby and cutting cleanly through them, causing some to immediately collapse.
+
+The edges of the mile wide circle snap shut, sending a ripple through. That circle fills with what looks to be liquid mercury that explodes forward like a geyser before pulling back, leaving the surface eerily calm and almost reflective.
+
+The surface breaks a moment later as a head pushes through and falls toward the ground with a screech, unprepared for the portal’s position high in the air. That beast, monster, lands with a thump before it erratically leaps into a standing position and starts looking around. When it detects the tens of thousands of people in the distance, it lets out a deep, loud noise, roaring in that direction.
+
+It looks like a massive mutated bull the size of a car with a body that hangs low between six thick legs. The front set is the shortest, causing the whole thing to lean forward as if it were constantly prepared to charge. Its head is broad and flat with a long, cracked horn growing straight from the forehead. On its back is a row of uneven bony plates that look as if they’ve been smashed and healed many times.
+
+For a while, it’s amusing to watch the panicking reactions of the people from the Easy and Normal difficulties. Though I still think they could easily take it down if a few of them worked together.
+
+The beast then dies, its head pierced by an arrow launched from a bow that seems almost twice as long as I am tall, held by one of the six-armed thylarin. He raises the bow high into the air and screams while one of his arms moves, with deep yellow mana shining at the tip of his finger as he draws lines across his face.
+
+I find Christoph, who so far has remained seated off to the side to observe, not seeming to want to participate so early.
+
+Two more ripples roll through the mercury-like portal high in the air, and two more similar beasts fall to the ground, at which point they stand up and roar. These ones quickly sprinting in the direction of the groups of people.
+
+As they run, the ground cracks under their feet, and some weird sort of vibrations spread through the air around them, combining and bouncing off of each other.
+
+They get killed, and more of them continue to fall from the portal.
+
+It goes on like that for an hour until the gradual drops turn into a constant waterfall of beasts. Where at the start, Easy and Normal difficulty dealt with the beasts with a bit of help from Hard difficulty, now the members of Hard difficulty are having to step in more and more.
+
+Many of the non-combatants use this period for their preparation, and at the edge of the screen, I notice Christoph talking to Min-Jae, who laughs at some sort of joke the man must have told.
+
+It takes five more hours until the sixth hour begins, and Hell difficulty starts stepping in. The monsters are still similar in strength to the first one, but now they number in the thousands.
+
+Once in a while, a similar beast, but twice as big as the others, appears, causing them to follow it. The effect of their stampede is now more noticeable, it causes a weak area of disrupted mana. The more of them that run together, the more vibrations they create. These vibrations bounce off and feed into each other, forming a field in front of them and around them. This field deflects some weaker attacks and weakens any mana-based attacks it encounters.
+
+Two hours later, Normal and Easy difficulty aren’t doing any damage at all. The beasts are stronger now, and variants twice the size of the others are appearing fairly often now, and sometimes building-sized ones accompany them, taking on the role of leader. The beasts continue to run suicidally towards any group of people, not so much as hesitating under the barrage of attacks.
+
+So, Easy and Normal difficulty people just move around awkwardly, throwing projectiles that do nothing, and watching Hard and Hell difficulty, who have now gone into full throttle.
+
+There is around a four to five mile distance between most of the people and the portal, so it’s almost dazzling to see all these bombardment attacks and projectiles being fired off. This event seems to be really fitting for people with such capabilities. Min-Jae, for example, does a good job, proving himself able to kill even the building-sized beasts with accurate, large scale projectiles and killing the weaker ones by the dozens with his metal orb. Meanwhile, I don't think Tacita has much to gain here.
+
+However, without participating, I'm just unable to make myself excited enough to pay too much attention. Sure, I watch the people fight, there are some fun things going on, and information to be gathered. Tacita goes into subterfuge and kills a few thylarin instead, something the twins seem to have decided to focus on as well. Savant does whatever Savant does, Jean charges the monsters, swinging his arms, and each punch obliterates huge groups in explosions of pure strength.
+
+Then there’s Tess killing some of the more powerful beasts even as they fall out of the portal, or Maya forming a huge suit of armor around her and swinging a massive claymore. I spot Giga-Noodle with flames around his body, and Izzy's small figure shooting off some dangerous flames of her own, along with thousands of monsters just turning around and charging at their own.
+
+Sophie also makes herself noticeable, taking over hundreds of beasts and turning them against the new waves coming through the portal.
+
+For the first few hours, it’s a massacre, and there are too many people to watch them all. But gradually, the frontline gets stomped, and the attacks wane in strength against the ever stronger stampede, and an infinite waterfall of monsters continues to pour from the portal in the sky.
+
+People from Hell difficulty start dying, at first it’s the tanks like Gareth in the frontlines, followed by the people behind them. Building-sized beasts are becoming common and much more durable.
+
+Flying skills fail under the influence of the stampede, and people plummet from the sky as they try to escape. Camouflage skills flicker and deactivate, and huge explosions are now causing barely any damage to the beasts.
+
+In the final hour, only Christoph remains, and he finally starts acting. The transparent red torso floating behind him grows in size. In one of its hands, it holds a huge staff which it uses to draw in the air. Inscriptions hang there, expanding into circles that cover the area. Pouring out from them, attacks begin to rain down.
+
+Finger-thin streams of compressed mana that cut through even the most powerful monsters, the huge palms of its hands slamming towards the ground and smashing entire groups of monsters, or weird projectiles shaped into rings that slowly fall to the ground, where they explode and expand in size with an audible thump, cutting through everything in their way.
+
+Monsters can’t even get close to Christoph, who obliterates them in the thousands with his constant attacks.
+
+He does the same when the Champion-grade beast appears five minutes before the end of the 12th hour. This fight takes longer, causing the "camera" to zoom out miles and miles into the air to show the sheer scale of the clash.
+
+Massive circles are being drawn by the increasingly large and darker red figure, while the six-legged bull-like monster causes volcano-like explosions with each step, attacking with flames from these eruptions surrounding it as a mantle.
+
+At some point, the scale becomes so ridiculous that I decide to turn my attention to Lily and observe her reactions as she stares with wide-open eyes, and only let a part of me watch the fight to gather the information.
+
+I’m pretty sure Adrian is just playing around and that he’s more than capable of facing a Champion grade monster. I also think it’s possible he means to wait a bit longer and face an Absolute grade one. Though I'm not sure how much he will choose to show off or whether he’d even be capable of that right now. I'm also not sure if doing so would make the people of Earth more suspicious, which seems like something he does not want.
+
+But I think that if he “only” defeats the Champion grade monster, the tournament will still end with him as the winner, even if he decides not to take part in the rest of the events. What he mainly wants is to leave an impression, to erase whatever people believed about who’s the strongest in Earth's tutorial, and to secure his position on Earth.
+
+Seeing the expressions of fear and sheer awe on the people in the common area, I have no doubt he will succeed in that.
+
+Out of boredom, and for some silly reason, and love for lame humor, I whisper while looking at Lily, "Meow."
+
+Her head snaps toward me that very moment with such speed I worry she might have broken her neck, "What did you say?"
+
+"Nothing," I answer simply. "There is something I want to try. Do you think you can heal my body for the next 12 hours while I work on it? My attention might end up slipping a little, and cause me to accumulate more damage."
+
+"Maybe. But you’re going to have to make the twins stop calling me a 'Ruler of Lust Candidate'."
+
+"If I do that, they will just start calling you something more annoying to get revenge. But I can tell you a few of the more interesting things they’ve been talking about, so you can blackmail them."
+
+"Deal."
+
+I nod and gesture at her to come closer. Even if I can't get first, there is no way I'm not getting second place in this tournament. And maybe I can use that fraudulent alien to get something else as well.
+
+POV - Angar Fidomar the Second
+
+There are only minutes remaining before the second event starts, and flying in the air, I stare toward that second island where the planet Earth is. That monstrous man is nowhere to be seen, but I know he’s over there somewhere. What is he even? He can't be from the tutorial, no matter what he says. Did a Handler sneak their way in? If so, I hope they’re put to death.
+
+Two of my arms move, and I fix my upper arcane bow on my back. Oh, how much I wish he weren't here. How much I want to notch an arrow and shoot it at the members of that despicable, two-armed, pathetic race. The first of my arrows would find that blonde woman with the lightning crown who keeps watching me in a way that tells me she has the same great sight as me.
+
+How dare she think she amounts to anything? If that man wasn't here...
+
+I look away from her and toward that barrier they’ve been holding in the middle, inside of which constant waves of mana and golden flames have been moving. There, these two utterly unhinged maniacal specimens sit. For some reason, their bodies keep getting damaged and healed while they talk. I look further and try to read words from the man's lips, but barely anything I catch makes any sense.
+
+Instead, I land back in the common area, and Easy and Normal difficulty trash run out of my way as I walk over toward my group to wait for the event to start.
+
+The notifications appear in the air, and I press "Yes" as with the event before.
+
+Thousands of thylarin appear all around me on the edge of the white stone cliff, whose base I can’t see, even with my eyes. From the bottom, spikes of green lashes of energy keep shooting out, cutting through anything over it. There is just a single place that seems to be unaffected by them, a bridge connecting us to the participants from Earth, just as the previous system message said.
+
+The humans are on a similar cliff to ours, just far in the distance. There’s nothing else connecting us and them other than a bridge just barely wide enough for 50 thylarin to walk side-by-side. It connects both sides without any structure, just a perfectly straight line of white material that endures the dangerous green lashes of energy.
+
+Before I get to shout at the others to prepare, I look toward the bridge from where I sense an incredible burst of mana.
+
+"Get ready!" I shout and notch one of my arrows, only to shoot it toward the figure.
+
+I miss as he takes a step and moves in a way only a kinetic energy user can, and my arrow bends and trails him, only for it to blink out and disappear, void of any mana.
+
+Now, through the mist covering the bridge, I clearly see that man. The same unhinged lunatic who was sitting inside that barrier. Something floats over his head, a pale blue ring. Just as our attacks reach him, the ring turns black, causing most of the attacks to disappear. Only primordial energies endure, exploding all around him but not damaging the bridge in the slightest.
+
+I notch another arrow when I see a thin line of mana stretch into the air, invisible to most of the others, but not to my eyes. I reach to snap it, but it endures my attempt, and after a quick teleport, that man appears next to me, even through my group's attempts at disruption. He doesn't even attack me, only to teleport again and appear far in the middle of our group, where people start attacking him despite his elusive movement and mana disruption.
+
+Barely any attacks hit him, but he already seems like he’s about to fall apart, bleeding and breaking all over the place. Another ten of my arrows disappear, pulled away by that spinning black ring over his head, and I watch the mana itself from people around get pulled into it.
+
+"Trash," I mutter, and, annoyed, I reach deeper into my reserves and let the tattoos of my trait cover my body.
+
+Then, that pathetic human starts channeling mana in preparation for a powerful attack.
+
+It almost makes me laugh. This has been amusing so far, but... in half a second, he channels an amount of mana that makes me stare in shock.
+
+What?
+
+Many of the others take notice and scream in panic. Now, much more powerful attacks rain down on him, with no concern for the lives of the thylarin in the area. Multiple Hell difficulty melee attackers rush him, but it feels like it might be too late. My most powerful arrow shoots at him, but it blinks out and just pierces through his chest, void of any mana.
+
+I magnify my view, watching his face, now fully reading from his lips.
+
+"Fuck this fucking fuck body fucking upgrade, fuck this event, fuck that pompous fraud fuck, fuck the system...fuck me too…fuck."
+
+The black ring over his head dissolves, and all the mana it’s trapped seeping into the area for him to grab and channel as well.
+
+I feel an urge to vomit at the sheer amount of it. So much, so quickly.
+
+Instead of trying to stop it, I run toward the bridge to put more distance between us as a cube appears over his palm, light blue, dark blue, purple, white, and golden colors bouncing around inside, and the air wavering around him.
+
+The explosion initial shockwave me anyway and throws me to the ground. sending me rolling, and as I turn in the air, I see the core of the explosion heading my way. It pushes me even as I fight back, it disrupts some of the mana I’m trying to use, and throws me off the cliff, at which point one of the green lashes cuts through me.
+
+You have been flagged as dead, healed, and removed from the event.
+
+Good luck next time!
+
+I appear in the common area, surrounded by hundreds of thylarin, and as I stand here, hundreds, thousands more start appearing all over the place.

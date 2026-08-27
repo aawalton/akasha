@@ -1,0 +1,209 @@
+---
+id: 99633d20-1fc7-51a4-98e6-f74f83d32ab7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 968: A Brief but Firm Reminder"
+slug: 0035-chapter-968-a-brief-but-firm-reminder
+partOf: he-who-fights-with-monsters
+position: 35
+ownLength: 2751
+unit: words
+ownProgress: 2751
+publishedAt: 2025-03-05
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2106488/chapter-968-a-brief-but-firm-reminder"
+royalRoadId: "2106488"
+markedReadAt: "2026-06-29T19:05:04.370Z"
+---
+
+“Are there any kind of warning signs I should be aware of?” Anna asked. “Some kind of indication that you or your familiars are about to go off like a powder keg?”
+
+“Yes,” Jason said calmly, then sipped at his fruit juice blend. “Some humans, in a display of idiocy so grand I have no metaphor to compare it, are trying to DESTROY THE PLANET THAT THEY ARE STANDING ON!”
+
+His outburst was mirrored by the land around them as the gorge was rocked by a tremor that shook leaves from the trees. Thunder pealed in the sky as lighting danced through dark clouds. Anna was sent stumbling back as Jason’s aura took on physical force, pushing out of him like a wave.
+
+Anna had made multiple visits to Jason’s astral kingdom. She had seen its wonders and witnessed his power, but it was only in that moment that she truly understood. This place had a god, and that god was angry.
+
+Suddenly struck with the urge to escape, she found a portal open next to her and hurried through without further consideration. On the other side was the central hub of Asano Village, bustling with diplomatic staffers from across the globe. Portal travel was relatively common amongst them, but they all recognised the portals belonging to Jason. They also knew Anna, and watching her emerge, wide-eyed and trembling, had many stopping to gawp. She stood up straight, tugged a couple of adjustments to her suit and took a deep breath, letting it out long and slow.
+
+“That bad, huh?” Farrah asked. Anna turned around, finding her leaning casually against an electric buggy. It was one of a fleet of busses and buggies that, along with an underground tram system, connected the disparate locations within Asano Village. Farrah took a swig from a bottle of iced tea, sold from a vending machine beside the buggy depot entrance.
+
+“He’s not happy,” Anna said. “What exactly did you tell him?”
+
+“The same thing I’m here to tell you. More or less. We’ll need to meet some people after, so let’s do it on the road.”
+
+Farrah got behind the wheel of the buggy, basically a juiced-up electric golf cart, and Anna sat beside her. The private roads of the village were well-maintained asphalt, and they took one that soon led them into bushland. The sun was warm and the air filled with the scent of eucalypts. Farrah tapped a button on the console and the fabric top of the buggy folded back.
+
+“Lovely day,” she said.
+
+“It’s very nice,” Anna replied, her tone less enthusiastic than her words.
+
+“Shame how the people of this planet decided to take all this away from Jason’s family.”
+
+Anna’s lips pressed tightly together.
+
+“Yes,” she said.
+
+“He’s angry at the people of your world. Again.”
+
+“I noticed.”
+
+“I’m not without my own outrage, you know. Do you recall how I spent my first weeks on this planet?”
+
+“You were held and tortured.”
+
+“By?”
+
+“A rogue—”
+
+“Who?” Farrah interrupted, her tone a warning.
+
+“Members of the Network,” Anna admitted.
+
+“And when I escaped, they moved me to an astral space. Not one of the proto-spaces you had back then, but a fully developed one. From which I was in the process of escaping again when Jason found me.”
+
+“This, while interesting, is not new. I thought you were going to brief me, Ms Hurin.”
+
+“Oh, Ms Hurin, is it? Are we not friends anymore, Anna?”
+
+“You’ve been gone a long time, Farrah,” Anna said, then her expression turned awkward. “Susan did tell me to invite you to dinner.”
+
+Farrah grinned.
+
+“And how is she?”
+
+“She’s been spearheading a project to retrieve art from abandoned European cities. She’s stockpiled a collection of works she’d be lucky to allowed in the same room as, back in the day. She’s happy, although seeing cities in what amounts to a post-apocalyptic state has unsettled her.”
+
+“The stakes are high. Something that humanity still has trouble grasping, it turns out. That’s why Jason is angry. I’m angry too, I just don’t have a universe to shake. I have to make do with being pissy at old friends.”
+
+“Is that what you’re doing?”
+
+“Anna, do you recall the man who perpetrated my incarceration, here on Earth?”
+
+“Adrien Barbou.”
+
+“He was one of yours. A Network man.”
+
+“He was a traitor, not a true—”
+
+“Don’t,” Farrah said. “You need to retire the ‘it wasn’t us, it was a bad apple gone rogue,’ speech, Anna. I won’t tolerate it. And if you try it on Jason, you’ll regret surviving what I do to you. He vented his rage on you, and I’m guessing the sky. A few earthquakes in unoccupied parts of his main planet. Maybe a tsunami or two. Which is healthy.”
+
+“That’s healthy?”
+
+“Compared to roaming the Earth, killing anyone who displeases him? Yes. Instead of that, he’s having a therapy session with Arabelle Remore. But I saw it when I told him, Anna. He had the old eyes, from the last time we were here. It was just for a moment, but you don’t want that. Not with the power he has now.”
+
+“What did you tell him, Farrah? What set him off like this? You keep talking around it. I thought rambling, tangential explanations were how he worked, not you.”
+
+Farrah snorted a laugh.
+
+“Fair enough,” she said. “My explanation had gotten as far as Adrien Barbou.”
+
+“My information was that he died in the Saint-Étienne transformation zone, along with Jack Gerling, Mr North and most of the vampire lords who went with them. Only Jason and the vampire queen emerged, until Gerling return in his current unfortunate state. How does Jason feel about that?”
+
+“There are a number of topics he intends to raise with Elizabeth. But Jason did bring Barbou out of the transformation zone alive.”
+
+“Barbou is still alive?”
+
+“I didn’t say that, Anna. Mr North asked Jason to make Barbou’s death quick and clean. Jason told him that it was up to me, since I was the one he held and tortured.”
+
+“And did you?”
+
+“There’s a lot of different tracking magic out there. Rituals, items, essence abilities. A lot of familiar powers. There’s a whole sub-branch focused on different ways to find corpses, which makes disposing of a body you don’t want found rather laborious. You can use magical countermeasures to hide it, but for every ward, there’s a way circumvent it. Only one thing consistently foils most methods of tracking a body. You have to break the corpse down. Very extreme dismembering can work, like putting it through a woodchipper, although burning it to ash is better.”
+
+Farrah glanced briefly from the road ahead to give Anna a smile.
+
+“Complete liquification is best,” Farrah continued. “You need an alchemist who’ll give you the right supplies and keep their mouth shut, though. Any experienced tracker will check the alchemists for anyone buying the right supplies for body disposal. Whichever way you go, though, the trick is to scatter what’s left of the corpse over as wide an area as you can. A fast-moving waterway is good.”
+
+“Farrah—”
+
+“A good tip is that they don’t have to be dead when you start rendering them down. It does make it easier, but easy isn’t always the point, is it?”
+
+“So, ‘Barbou isn’t alive’ is what you’re saying.”
+
+“As I recall, it was quite a controversy, discovering the astral space he’d been hiding away for the local Network.”
+
+“It wasn’t the—”
+
+“What did I say about blaming bad apples, Anna? I’m not going to warn you again.”
+
+Farrah’s light smile as she drove the buggy in the sunshine was incongruous with the sudden, heavy silence.
+
+“It was a large controversy, yes,” Anna said. “They were hiding things from the larger Network community. Which was still one group back then, although it was already shaky. It had been clear for a while that the days of magic remaining a secret were numbered. Everyone was positioning themselves for what came after. You and Jason dropped into that pond like a bomb, but the ripples of schism were already shaking the waters.”
+
+“Barbou and his people had been masking grid activity. Hiding the astral space from grid operators elsewhere in the world.”
+
+“Why the history lesson, Farrah? I was there.”
+
+“So was I, Anna. In a concrete room, with a shackle around my neck.”
+
+The buggy followed the road along the top of a ridge by the coast, giving them an impressive view of the Pacific Ocean. Farrah pulled over at a lookout spot with a small gravel parking area. A wooden bench offered a place to sit and look out over the water.
+
+“What are we stopping for?” Anna asked. Farrah got out of the buggy, walked over to the bench and sat down. Anna let out a sigh and then followed.
+
+“I liked living here,” Farrah said. “I liked having a part in building it. Jason’s family was very welcoming to me, a stranger from another world. Helping them establish this place felt like putting down roots. How long was Jason gone before the people of this world pulled out those roots?”
+
+“Farrah—”
+
+“That’s all we’ve ever seen from this world, Anna. People taking because they could. It happens in my world too, don’t get me wrong, but things are simpler there. When someone takes just because they can, they don’t have a list of justifications. They don’t blame bad apples they knew were in the barrel the whole time. They say ‘this is mine, because I have the strength to take it.’ It’s not good, but it’s honest. As is the solution. Every time you explain away some shady deed, all you’re saying is that you’re allowed to do things to people, and they aren’t allowed to do things back.”
+
+“Farrah—”
+
+“I’m talking, Anna, and you will listen until I’m done.”
+
+Unlike most essence users of Earth, the elite adventurers of Pallimustus did not leak their auras. There was no inherent intimidation through rank, simply by their presence. That was a testament to their control, but also meant that when needed, they could use their aura a to make a point to those around them. Farrah gave Anna a brief but firm reminder of who and what she was.
+
+“Anna, I’m not sure you understand the degree to which Jason is bending over backwards to not do the things he very much wants to do. He’s sensitive to his more dangerous proclivities, and that if he lets this world trigger them, he will act in ways he ultimately comes to regret. That is why we recruited you, Anna. To help him take the complicated option when the simple one would be so much easier. He doesn’t want to break the world in the process of doing what needs to be done.”
+
+Farrah reached out with her arm and made an upward motion with her fingers. Out to sea, an obsidian spire, the size of a building, rose from the water like an ancient sea monster. Displaced water sent waves crashing into the shore. Anna watched as Farrah casually created a new landmark with a terrifyingly dismissive demonstration of power.
+
+“How long do you think it will take the ocean to wear it down?” Farrah absently wondered as she stared at her creation. “Ten thousand years? A hundred thousand? I’m not Jason, Anna. Our friends are not Jason. We only care about your world because Jason cares, and if we decide to reshape it, we can and we will. Your job is to guide Jason away from going too far in one direction. Ours is to stop him from going too far in the other. If the people of this world keep acting the same way, we’re going to stop doing our job and things will become a lot simpler. But not nicer.”
+
+“What are you even talking about? What actions have affronted you to the point of taking me out into the woods and threatening me?”
+
+“Years ago, Jason and I once told you that the people of Earth need to stop harvesting reality cores from transformation zones. You told us that the Network couldn’t afford to step back from the arms race over them.”
+
+“That was when you stopped working with the Network altogether. Are you suggesting that someone has found a way to make new zones?”
+
+“Not suggesting, Anna. When I was destroying the devices placed to modify the grid in Sindh, I didn’t have to destroy them all to shut it down. A few remained for more delicate extraction and later examination. I’ve been using them, along with the readings we took during the event, to reverse engineer what happened. Someone used the grid to feed magic into the active manifestation. It should have created a transformation zone, but Jason did one of his ridiculous Jason things. Grabbed the torn edges of the universe and held them together with not much more than stubbornness and a smug expression.”
+
+Anna had been briefed on what happened in Pakistan, so she knew that Farrah’s description of Jason’s part in it was colourful but essentially accurate. The information about transformation zones was new to her, and horrifying in its ramifications. Jason broke ties with powers of Earth over reality cores once, and now he had the power to break the Earth entirely.
+
+“Do you know who was behind it?” she asked.
+
+“During the monster wave crisis, I led a group of Network researchers in repairing the sabotaged grid. The magic we found in Pakistan was based on that work. Most troubling was that it had been refined.”
+
+“Refined?”
+
+“It showed signs of iteration. Solutions to flaws that would only have been revealed through previous testing. It was not an experiment, but a developed and workable process. Whover did this has done it before, at least several times.”
+
+“You can’t just make transformation zones. Not without anyone noticing. Even if you masked their presence on the grid, which is what I assume you’ve been leading up to, a transformation zone is a glowing dome the size of a small town.”
+
+“Yes. You would need a large region where no one goes. No one, perhaps, but vampires.”
+
+“Europe,” Anna realised. “If you could mask the presence in the grid, and were able to manipulate the satellite coverage…”
+
+She stood up and paced, her mind gaming out the idea.
+
+“The presence in the grid, and the satellites. Both could be accomplished by a relatively small number of people, if they held the right positions in the right organisations. You’d need people on the ground to actually do the thing; you wouldn’t trust it to the vampires. Why would the vamps even…”
+
+She turned to look at Farrah with eyes widened by realisation.
+
+“Harvesting reality cores,” Anna said. “That’s what would get the vampires onboard. That’s what would make participation worth if for anyone. The stockpiles from the old transformation zones were depleted years ago. Maybe there are a few still stashed around, but they haven’t existed in any practical fashion in almost a decade.”
+
+She plonked back down on the bench.
+
+“That’s why Jason was so angry,” she said. “The thing that made him break ties when multiple betrayals didn’t. And now, people are doing it again.”
+
+“Anna, this is the time for the powers of Earth to stand up. To clean their own house. Because if they don’t, we will. And our approach will be a simple one.”
+
+“Simple solutions to complex problems always have consequences.”
+
+“Yes, but we have the power to handle them if we must. Again, Anna, the entire reason Jason pulled you into this is that if we do things our way, it won’t be us paying the price. The last time we were here, we saved the world. Now, it’s your turn to save the world from us.”
+
+“The Americans attempted to make an overture.”
+
+“We’re aware, and we’re open to it. I hope that it’s a good start. But make no mistake, Anna; we set the pace, and we set the terms. If the Americans want friendship, they need to earn it.”
+
+“You don’t earn friendship, Farrah.”
+
+Farrah grinned, stood up, and slapped a hand on Anna’s shoulder.
+
+“Now you’re getting it. Come on, we’re off to see some of the people I worked with back in the day. See if we can’t figure out where this conspiracy got its hands on the magic we developed.”

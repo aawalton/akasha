@@ -1,0 +1,199 @@
+---
+id: 1be9601a-3f29-5a04-91b9-8a21472a304b
+page-type-slug: story-chapter-royal-road
+title: "029: Shining Star"
+slug: 0029-029-shining-star
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 29
+ownLength: 2109
+unit: words
+publishedAt: 2024-04-29
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1615520/029-shining-star"
+royalRoadId: "1615520"
+---
+
+Evelyn failed to figure out any new or interesting ways of working the crafting materials she had on hand. Besides the basic manipulation of the chitin plates and the rubbery hide, there was little else to do. That wasn’t a problem, however.
+
+The crafting system hadn’t been too difficult to figure out. It wasn’t dissimilar to the skill synthesis menu, but worked with crafting materials and weapons instead. Rather than do the work for her, it just eased her path to creating a new piece of equipment.
+
+When she thought to file one part of the chitin, it instead showed her a more optimal way. If she had wanted to affix the leather and the hard plates in a particular way, it gave her a feeling that wouldn’t hold up to a heavy blow. It also offered her the option of dismantling existing equipment for resources and parts, but most of what she had to hand was useless common weapons. Perhaps she would turn her attention to scrapping in future, but not at the moment.
+
+She had refined her handiwork - all practice was good practice after all - and fashioned a chestplate, shoulder guards and greaves. They were comfortable to wear thanks to the cushioning of the leather, but tough and durable due to the exoskeleton of the centipede monster. Whether it would stand up to the rigours of battle was another matter, but she would soon find out.
+
+Her essence had been amassing while she worked. Evelyn had left herself just under an hour to spend it and perhaps figure out some new skill combinations. Then again, it might just end up with her reaching the next tier of Bulwark. However, it would be expensive.
+
+Essence: 5,268『+1094 / 5:59:19.2 hours』
+
+~~ Stars ~~
+
+Grey: 133
+
+White: 3
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】
+
+But, for her, expensive was just a matter of time. Evelyn earned more essence every six or so hours than most people were earning from a whole floor. And it would only continue to get better.
+
+It would be so much easier if I was able to just directly pump essence into my skills to raise their tier. I could probably make Bulwark jump from Rare up to whatever is two tiers above that. Then again, that would take away the difficulty. The tower does love to make us struggle.
+
+Evelyn’s standards may have been a little skewed, but she felt too weak in the last clash with the short fellow. She had obliterated him in a single Flashfreeze Flamecharge, but she had to wait for the monsters and Ernest to whittle him down before an opportunity arose. That wasn’t enough for her. She wanted to be unstoppable.
+
+No, she needed to be.
+
+Nothing could stand in her way until she stood at the top of the tower. If it had a top, that is. But, wherever the bastard who created it was hiding, that was where she would go. And then, it would be time for an old fashioned punch up.
+
+Evelyn purchased 15 common skill crystals and 3 uncommon ones, not waiting before she crushed them into dust. She prepared herself for the incoming deluge of messages, hoping that there would be some new or interesting skills. At first however, the results were disappointing.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Bulwark (Common) - Take slightly less damage from physical attacks.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Pugilism (Common) - Deal slightly more damage with your fists.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Flame Resistance (Common) - Flames of the world affect you slightly less.
+
+…
+
+Well, not quite. Evelyn would never complain about more copies of the skills which were the foundation of her combat style and her strength, but it wasn’t what she was looking for right now.
+
+No, what she wanted to do was experiment with new skills. To create interesting combinations so that she didn’t feel stale. Flashfreeze Flamecharge had been a perfect example of that. And, she had used to it extreme effect. When she put enough mana into the skill, it wiped the floor with her enemies and devastated the surroundings.
+
+It showed her that there were optimal ways to combine skills that made the most use of the skills she was synthesising. Now that she had seen the best path, Evelyn refused to achieve anything less. That could have negative consequences, too. Punishing herself when she didn’t reach the pinnacle of her skills or her potential in a fight wasn’t healthy. But it meant she had the dedication and willpower to reach far beyond the other challengers.
+
+What came next, however, was simply incredible.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Star of Fortitude (Common) - Multiplies your stars’ production for every point in your fortitude attribute. Base multiplier is 1.00x , increasing by 0.02 per point in fortitude. (Stacks additively with other multipliers)
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Star of Vitality (Common) - Multiplies your stars’ production for every point in your vitality attribute. Base multiplier is 1.00x , increasing by 0.02 per point in vitality. (Stacks additively with other multipliers)
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Star of Mana (Common) - Multiplies your stars’ production for every point in your mana attribute. Base multiplier is 1.00x , increasing by 0.02 per point in mana. (Stacks additively with other multipliers)
+
+The multiplier is pretty low, but attributes are very easy to increase and I already have quite a few in the relevant ones. Looks like my income is just going to keep surging upwards. Evelyn the Essence Tycoon. It has a catchy ring to it.
+
+The new skills were incredible. After factoring in her decent level of fortitude, vitality and mana, Evelyn’s essence income had shot up. She had even obtained a second copy of Star of Fortitude, not wasting any time before fusing it to uncommon. And that wasn’t the end of it.
+
+With around 3,000 essence left over, she would be able to push her attributes up a lot further. The synergy between her skills grew more powerful every time she advanced them or acquired new ones, it seemed. Now, her income would increase not only by buying stars, but also when she bolstered her attributes. It wasn’t just her income either, her attributes were self boosting thanks to skills like Surging Blood and Impregnable.
+
+With that in mind, she purchased forty attribute points from the Local Shop. It was the greatest bulk of attributes she had bought in a single go. And, she even got an extra point for free thanks to Spendthrift hitting the 8,500 mark.
+
+I do love shopping.
+
+There was no need to think too deeply about how to invest her points. With her new skills, all forty-one went into fortitude, vitality and mana. And the result made her gasp in shock.
+
+Her body flooded with energy. It felt as if her heart was beating hundreds of times per minute, sending waves of life force into her. Every single cell was screaming with life. Even her skin felt like it was renewing itself, building a thicker barrier against any damage. It didn’t stop with her body.
+
+The ephemeral circuitry of her mana system strained as it filled with new power, the paths widening and filling the gaps in her body. Before, she could pull off maybe three Flashfreeze Flamecharges before draining her reserves. Now, though?
+
+Her mana had doubled, roughly. And yet she felt that she could perform the skill almost ten times before even thinking about recharging. It was a qualitative increase, rather than just a simple boost.
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.4
+
+|Attributes|
+
+Power: 11 (12)
+
+Speed: 4
+
+Stamina: 8
+
+Vitality: 26 (31)
+
+Mana: 25
+
+Fortitude: 46 (69)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Rare), Bulwark (Uncommon), Bulwark (Common), Stargazing (Uncommon), Stargazing (Common), Assassin’s Eye (Uncommon), Bargain Hunter (Uncommon), Bargain Hunter (Common), Backlash (Uncommon), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Uncommon), Capital Gains (Common), Pugilism (Uncommon), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Spendthrift (Uncommon), Solar Fusion (Uncommon), Salvo (Common), Corruption Resistance (Common), Focus (Common), White Infusion (Common), Flame Affinity (Common), Star of Fortitude (Uncommon), Star of Vitality (Common), Star of Mana (Common)
+
+~Active~
+
+Fists of Frost (Uncommon), Mana Plate (Uncommon), Conjure Rock (Uncommon), Flashfreeze Flamecharge (Rare), Starlight Strike (Common)
+
+~Hybrid~
+
+Overpowering Spirit (Rare)
+
+There was actually little in the way of new combinations Evelyn could make. But, despite not being able to scratch her creative itch, she was satisfied. The new skills were exactly what she needed. Plus, her attributes were ridiculous. If there was anyone on a similar floor who could leave a dent or bruise on her now, she would be shocked. More shocked than she was when she opened the menu.
+
+Essence: 3『+3193 / 5:59:19.2 hours』
+
+~~ Stars ~~
+
+Grey: 133
+
+White: 3
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】
+
+Her income had tripled from the three new skills. In just twelve hours she would earn the same amount of essence as she had on the 9th Floor. Which was just insane. And, this was only the beginning.
+
+There had to be a skill for the other three attributes - power, speed and stamina - which would further increase the multiplier to her production. Beyond that, what would happen if she then synthesised those six skills? It was tantalising to think about. But, she would first have to obtain those skills.
+
+Perhaps the three uncommon skill crystals she still had would provide something even better. She doubted it though. They seemed to weigh in favour of giving active skills, rather than the litany of passive effects that came with most common skills. So, she crushed them.
+
+Uncommon Skill Crystal has been consumed! You have received the following skill:
+
+Duel (Uncommon) - For thirty seconds, lock you and one opponent into an inescapable duel that only ends if either combatant dies. (5 min cooldown)
+
+Uncommon Skill Crystal has been consumed! You have received the following skill:
+
+Shining Brighter (Uncommon) - Modifies the damage you receive from another challenge based on the difference in your star value.
+
+Uncommon Skill Crystal has been consumed! You have received the following skill:
+
+Workhorse (Uncommon) - Increases your stamina attribute by your fortitude attribute for 1 minute. (1 hour cooldown)
+
+The third skill was most underwhelming. On its own, it might have seemed beneficial, but Evelyn had yet to encounter a situation where her stamina was lacking. So, there was no need for any further buffs. It wasn’t useless though.
+
+She could always use it as fuel to synthesise or fuse another skill to a greater tier. The first two however, Duel and Shining Brighter - now they were incredible.
+
+Evelyn couldn’t think of a skill more suited to her than Duel. She already preferred close quarters, one-on-one battles, so having a skill which forced her enemies to comply with that was marvellous. And yet, it still felt lacking.
+
+Only because Shining Brighter was that spectacular. Evelyn had been hoarding stars since the very first time they were available for purchase. There might be others with a similar ethos, but she bet none of them came close to her total. Depending on just how much the damage was modified - she reckoned it wouldn’t be ridiculous since the skill was only uncommon tier - it would make hurting her impossible for most foes.
+
+That had its own drawbacks, though.
+
+Evelyn liked putting her life on the line. It wasn’t just smashing another person to smithereens that got her blood racing. It was the danger and the thrill that came with it. Her foe could just as easily do the same damage to her, at least until now. None but the deadliest of opponents would be able to pose a threat to her now.
+
+I guess it means I’ll only be having fun on the boss or mini boss floors. Tower, if you’re listening, give me more of those! Fighting that dinosaur was the most fun I think I’ve had in years. I wouldn’t say no to more.
+
+It would take the tower breaking its set patterns for her to encounter a boss monster on the next floor, but a girl could dream. With her fingers crossed, Evelyn walked through the portal to the 13th Floor.

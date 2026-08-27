@@ -1,0 +1,265 @@
+---
+id: e989d7cc-4b11-5632-ac92-2a3dab58da5f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: Escape"
+slug: 0009-chapter-9-escape
+partOf: he-who-fights-with-monsters
+position: 9
+ownLength: 2263
+unit: words
+ownProgress: 2263
+publishedAt: 2019-07-31
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387399/chapter-9-escape"
+royalRoadId: "387399"
+markedReadAt: "2026-06-29T19:04:04.723Z"
+---
+
+The circumstances in which Jason regained consciousness were unpleasant for a number of reasons. He was cramped up in some kind of tight space, forced into a foetal position. His head was spinning, and there seemed to be a little man inside it, trying to pickaxe his way out. His nose was congested with what felt like a fistful of bees, and to top it off, he had a sudden urge to vomit. He lay curled up in the constricted space, throwing up on himself.
+
+As the vomiting subsided he noticed the head section of his health silhouette was now a warning orange.
+
+“I am getting knocked out way too much.”
+
+He then heard a male voice.
+
+“He’s woken up.”
+
+Jason's eyes swam into focus, although they felt puffy and didn’t seem to open properly. He was in what looked like a dog cage, too small to stretch out his limbs. His new ability to see in the dark was intact, allowing him to make out that his cage was on a dirt floor in some kind of cellar. The roof and walls were rough timber, and there was a pervasive smell of damp earth. There were four more cages in the cellar with him, each containing a person. One had a black guy, two had white girls. The last cage was bigger than the others, with thicker bars. Inside was an enormous, impossibly hairy man.
+
+“A Wookiee?” Jason asked deliriously.
+
+“What’s a Wookiee?” the hairy man growled.
+
+“Hey,” the black guy called out to him. “Did they put a collar on you?”
+
+“Wha…?”
+
+Jason’s thoughts refused to walk in a straight line.
+
+“Try and focus,” the man said. “Looks like you were hit rather hard.”
+
+Jason ran his fingers over his face, feeling the dried blood thickly caked onto it. He yelled in pain as his fingers brushed against what turned out to be his very delicate nose.
+
+“Did they put a collar on you?” the man asked again.
+
+Confused, Jason reached up and patted his neck.
+
+“No,” he croaked. “Why would they put a collar on me?”
+
+“To suppress your essence abilities. You can still use them?”
+
+Jason nodded, which annoyed the man in his head who went on a pickaxe frenzy.
+
+“Ow. Yeah, I can use them, but I only have two.”
+
+“Can they get you out of that cage?”
+
+“One lets me see in the dark and the other makes me sparkle, so probably not.”
+
+“Sparkle?”
+
+“I’d show you, but I think I might throw up again. Actually…”
+
+Jason vomited again, ending in a coughing fit, after which he passed out again.
+
+***
+
+Jason swam at the edge of consciousness, hearing two people talk.
+
+“He was in the underground ritual chamber?” a woman said. It was a controlled, elegant voice.
+
+“Yes, milady,” a gruff male voice replied.
+
+“You left him in quite a state.”
+
+“Actually, milady, that’s not much worse than how we found him.”
+
+“You didn’t put a collar on him?” she asked.
+
+“Mr. Caruthers only procured the four, milady. For the ones we were warned about.”
+
+“It doesn’t matter,” said the woman. “Feel how weak his aura is. I doubt he has more than two or three abilities at most. Do you really think he’s the one that killed Landemere?”
+
+“That would be my guess, milady. He had more blood on him than wounds to produce it. He was also locked in the room with the young master’s body.”
+
+“How could he even do it?” the woman asked. “He’s so weak.”
+
+“It seems the young master had mostly done himself in, milady. Summoning spell gone awry, from the looks of it.”
+
+“Is that why all those little monsters are running around?”
+
+“It would seem so, milady.”
+
+Quest: [No Shirt, No Shoes, No Service]
+
+Jason stifled a yelp. He had been pretending to be unconscious when a bright blue screen appeared in front of him and his whole body went tense. The pair continued talking, however, as if nothing had happened.
+
+“So whoever this is got lucky and killed my son when he was at his most vulnerable?”
+
+“Not that lucky, milady. He met me.”
+
+“Just so, Dougall,” she acknowledged. “Do we know what Landemere was trying to summon?” the woman asked.
+
+“I had a bit of a potter through his notes, milady. It was one of them entities from beyond the void.”
+
+Jason heard the woman sigh.
+
+“Astral beings,” she muttered unhappily. “I told that boy it would be the death of him.” She said. “We’re a nice, traditional blood cult family. This nonsense about ineffable ancients from outside reality was never going to work out. What did you do with Landemere’s body?”
+
+“Mulch, milady.”
+
+“You mulched my son?”
+
+“Well, he won’t be mulched yet, milady. Composting isn’t a quick process. I can fetch him out of the pile if you like, but milord wont be happy. He was quite specific as to the dispensation of the body.”
+
+“I don’t care what my stupid husband thinks; he married into the family. This is my manor, my family and we do things the traditional way. Goodness knows what poor Landemere will taste like after having gone in the mulch pile.”
+
+“I’ll give him a good and proper wash before I bring him into the kitchen, milady.”
+
+“Thank you, Dougall. Excellent work, as always. Now, do we know where this man came from?”
+
+“No idea, milady. As you said, he’s too weak to be an adventurer and he wasn’t exactly well-equipped. He did have a good knife, though. Not sure if he took it from the young master, so I put it with the gear we took off these others.”
+
+“You don’t think he’s with them?”
+
+“I wouldn’t think so, milady. He wasn’t up to much.”
+
+“Did he say anything?”
+
+“I think he might have been about to, milady, but that was when he walked into me shovel.”
+
+“Why did you take his shirt?”
+
+“He didn’t have one, milady. Didn’t have the chance to ask why, on account of his walking into me shovel again. Do you want me to send him to the kitchen as well?”
+
+“No. If he really did kill my son, I don’t want him trotting off to death with his soul intact. Put him with the others for the blood feast.”
+
+“Yes milady, although that will be one too many.”
+
+“I don’t think the extra blood will be a problem.”
+
+“I was thinking about the high priest, milady. You know how he gets.”
+
+“Yes, quite right, Dougall. Very well. Pick out one of the others you like, and keep it for yourself.”
+
+“Very generous, milady. I’ll take the elf, if milady had no objections.”
+
+“Are you sure, Dougall? Elves are quite stringy.”
+
+“Derrick was keen to try one, milady. I told him, of course, but you know how young ones are.”
+
+“Oh, yes,” she said. “They never believe you until they suffer the consequences for themselves. Just look where it got Landemere, and my daughter isn’t much better. If it wasn’t for the cult, I swear I never would have had children. Go fetch my idiot son’s body before you take the elf. I don’t want him picking up any more flavour than he already has.”
+
+“Of course, milady.”
+
+The pair left and Jason let out a long breath. He didn’t know who those people were, but he heard enough to know that he wanted the hell out. He manoeuvred about for leverage and tried to force the door with his legs, but it wouldn’t budge no matter how much strength he put into it.
+
+“That’s not going to work,” the black guy told him.
+
+“Have you got a name?” Jason asked. “I’m Jason, and just thinking of you as the black guy is making me feel racist.”
+
+“Rufus,” the man responded.
+
+“G’day,” Jason said. “If you’ve got a better idea, I’m all ears.”
+
+“Afraid not,” Rufus said. “Unless you’ve got some spirit coins tucked into those pants, you won’t get it open that way.”
+
+“Spirit coins?” Jason asked. “Sure, I’ve got some, but how will that help? I don’t think these cages are coin operated.”
+
+“This guy’s an idiot,” one of the women said.
+
+“Not helping,” Rufus said through gritted teeth. “Jason, you don’t happen to have a silver or gold ranked coin, do you?”
+
+“Hang on a sec,” Jason said, checking his inventory. There were sixteen silver coins and four gold ones, all looted from Landemere Vane’s body. He took out one of the silver ones.
+
+Item: [Silver Spirit Coin] (silver rank, common)
+
+A distilled quantity of raw magic. (crafting material, currency).
+
+“Oh,” Jason said. He had previously examined the lesser spirit coins, which didn’t have an option to increase attributes. He tried to remember if there was a strength attribute.
+
+“So, I consume this to increase my attributes?” Jason said. “Consume, as in, eat?”
+
+“Yes, Jason, it’s very easy,” Rufus said. “You just put the coin in your mouth. Once you do, you’ll only have a few moments to force open the cage.”
+
+“So these attributes,” Jason said. “I assume one of them is strength?”
+
+“The power attribute increases strength,” Rufus said. “The coin will increase them all, but only for a very short time.”
+
+Jason placed the coin uncertainly on his tongue, where it dissolved, like a soluble tablet. His body was immediately flooded a tingling sensation and he felt an immense sense of power. His senses were sharpened. Eyes, already able to see through the dark, suddenly took in everything as if seeing it for the first time. His ears picked up ambient sounds he had previously missed. He could taste the blood, sweat and dirt on the air. It only lasted a fleeting moment before the world went back to normal, suddenly seeming dull and plain.
+
+“Uh, Jason?” Rufus asked.
+
+“Yes, Rufus?”
+
+“Did you use the coin?”
+
+“I did, yes.”
+
+“I don’t want to pressure you, but did you, perchance, forget to open the cage?”
+
+“Sorry,” Jason said. “I got distracted.”
+
+“This is who you’re relying on to save us?” the woman’s voice spoke up again.
+
+“Still not helping, Anisa,” Rufus told her.
+
+Jason took out a second silver-ranked coin and put it in his mouth. This time, as the sensation of power came over him, he placed his feet against the cage door, easily bracing himself in the tight confines. His feet pushed out with the temporary surge of strength, the hinges on the cage door immediately starting to warp. He pushed harder and the door fell away just as the strength drained out of him again.
+
+He crawled out of the cage and stood up. Waves of dizziness washed over him and he gripped the cage to stay upright. His body felt weak, even more than it had when he woke up.
+
+“Are there side effects to those coins?” Jason asked.
+
+“You used a coin with more power than your body could handle,” Rufus said. “It will recover. A little more slowly, having used two of them in quick succession.”
+
+Jason looked over at the other cages, and a screen popped up.
+
+New Quest: [Escape!]
+
+You have been trapped in the cellar of the blood cult and you need to get away.
+
+“Good job,” Rufus said. “Now you need to find something to get the rest of us out. Giving us some silver coins would work, if you have more. That won’t be enough for Gary’s cage, though. You shouldn’t use more coins yourself until you’ve recovered.”
+
+Jason pulled out the big key ring.
+
+“I’m hoping this does the job,” he said. “Couldn’t reach the lock from inside the cage.”
+
+“Even better,” Rufus said. “I’d rather not have to fight our way out of here suffering the after-effects of using a coin.”
+
+Rufus pointing to the large, hairy man in the oversized cage.
+
+“Him first,” Rufus said.
+
+Jason went over to the big cage, getting a better look at it’s occupant. His body was size and shape of a professional wrestler and the parts not covered by his clothes were covered in fur. His head looked like a lion, complete with a glorious mane.
+
+“So you’re Gary?” Jason asked. He crouched down and started trying keys on the lock.
+
+“That’s right,” the big man said. His voice had a deep, growling timbre.
+
+“I’m Jason,” he introduced himself. “You look like Ron Perlman from that old Beauty and the Beast TV show.”
+
+“I have no idea what that means,” Gary said.
+
+“I’d say good to meet you,” Jason said as he continued trying keys, “but the circumstances aren’t terrific.”
+
+“Thanks for not just running off,” Gary said.
+
+“Are you kidding? I need you lot to get me out of wherever it is we are.”
+
+“We’re in a storage cellar,” Gary said.
+
+“I can see that much,” Jason said. “I meant this whole place. I have no idea where we are.”
+
+“You don’t know?” Gary asked. “Did they kidnap you?”
+
+“Someone did,” Jason said. “I woke up in the hedge maze.”
+
+Gary the lion-man’s voice seemed to be growly as a default.
+
+“Look out!” Rufus called out and Jason turned to look around.
+
+There was a doorway that seemed to lead into another section of the cellar, through which the man Dougall had returned, shovel in hand.
+
+“Cheeky little sod,” Dougall said.
+
+Jason tried to think quick, but his head was far from in its best state. Shoving the key ring back into his inventory, he got up from his crouch, but was hit by a dizzy spell and stumbled. The shovel came down and everything went black.

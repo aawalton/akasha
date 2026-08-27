@@ -1,0 +1,133 @@
+---
+id: bae27c7c-d217-5e45-bec1-96ff3a2032a5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 805 - For a few more minutes"
+slug: 0131-chapter-805-for-a-few-more-minutes
+partOf: hell-difficulty-tutorial
+position: 131
+ownLength: 2050
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3396872/chapter-805-for-a-few-more-minutes"
+royalRoadId: "3396872"
+---
+
+POV Nathaniel
+
+One day after entering the 11th floor and confirming it's somewhat safe, I enter Beyond. Just as I’d hoped, I find myself in the usual place with Ruby sitting behind her table.
+
+“Hey,” she greets me.
+
+“Hey,” I say back, sliding into the chair opposite her.
+
+Coming out of the scorching heat of the 11th floor, it feels weirdly comfortable here.
+
+“Biscuit isn’t in Beyond?” I ask, just in case. I wanted to get that question out as soon as I could, though I suspect I know the answer.
+
+“He is not,” Ruby answers. She quickly continues, “Why don’t you stay here for a few more minutes before you use a Tutorial Stay token? It costs half a million shards. You shouldn’t waste them like that.”
+
+“I don’t think I can currently find it in myself to care about that,” I say, and yet I remain seated in the chair.
+
+“That floor really got fucked up,” she says.
+
+“It did.”
+
+“So, how are you taking it?”
+
+I give myself a moment to think before I shrug. “It sucks, but honestly, I’d been waiting for something like that to go wrong. It is kind of in the name of this difficulty. It could have ended much worse. This failure doesn’t even change anything or add further to our 'motivation.' All of us already knew that we needed to get stronger. It was just as you said: a shitty floor full of mistakes. Some of which could have been avoided, and others that were just bad luck.”
+
+“That is true,” she says in a gentle voice, hinting for me to continue.
+
+I find no reason not to. People always feel a bit better after complaining to someone who listens, so why not? “Biscuit is gone. Our bond is gone. But I will find him, or he will find me.” I pause and lean back to look upwards. “He’s strong, so I’m sure he’s okay. But I guess that’s not something you can tell me?”
+
+“It is complicated. As a Ruler, some of my actions or words could bring unwanted attention from the system. It is best if I stay quiet for now.”
+
+I nod. “I understand. Then there’s Noodle, who’s still in pain after biting the wyvern. We think that gluttonous snake is trying to absorb some of its blood, and I think he’s started to change a bit.”
+
+“I know you have some as well, from when you stabbed the hatchling.”
+
+“I do. Me and Lily will be using it to try and forcefully strengthen or evolve my blood trait, if possible, or share it with someone more compatible from the group. There isn’t much of it, so I don’t really know yet.”
+
+“Be careful.”
+
+“As much as is reasonable,” I pause again, and this time the feeling is different, the kind that makes it difficult to talk. “Then there’s Aaron. His body, his mana heart... all of it, gone. Now he’s been reduced to a mind living in his brother’s head.”
+
+“It was the better option of the two.”
+
+I nod again. “It is. That maniac even transferred all his stats to Dennis before his body got destroyed, so Dennis has effectively doubled his stats. Aaron can partially help him with some skills and stuff, too. So Dennis got a huge boost, and he’s been joking that he might enter Beyond if possible, though I think that joking is just helping him avoid curling into a ball to cry. Apparently, on the later floors, you can get an individual quest to enter Beyond.”
+
+“You can. It starts on the 10th with rare chances on lower ones. You don’t even need an upgraded difficulty change token anymore. Though by that point, there’s usually much less time for you to explore Beyond or take advantage of its events and quests.”
+
+“That much is obvious,” I say, deciding to complain a bit more. “If you saw that... Aaron jumped in to save Izzy. I failed to contain the lightning when the hatchling took advantage of my state after Biscuit disappeared against me. Without Aaron, Izzy would be dead. But now he doesn’t have a body, and no one knows if he’ll disappear soon, if he counts as an attendee, if the stats he shared with Dennis will stay, or if he can level up and get stronger. Lily could probably clone Dennis or slowly tear him apart piece by piece, like, tear off his arm, heal it, tear off his leg, heal it, use the harvested parts to build a 'clone' we could just maybe use Sophie to transfer Aaron into. But that body wouldn’t have a mana heart, and I think without that mana, it would fail to keep that 'mind' alive. Even if we had Aaron’s brain and copied it perfectly, we’d still just be creating a copy of him. Saying it sucks underestimates it a lot.”
+
+Ruby, who listens patiently, agrees. “It does suck a lot. Were you scared?”
+
+“Of course I was. Scared shitless when I saw his body evaporate. I thought I’d just lost a friend. But what I feel is nothing in comparison to what he or his brother felt.”
+
+“Don't dismiss your own scars. You’ve gone through a lot, too. You lost your bond, and your body is continuing to fail. You’re living in constant pain, and the pressure of knowing a single lapse in mana control could mean the end. On top of that, the burden of being the strongest falls entirely on your shoulders. Your planet, family, and life are being threatened by that man, and things on Earth are changing as he establishes his base there and makes his plans for the coming decades, not just the next few years. Before you ask: he is honoring his promise, and your family and friends are safe.”
+
+“If you say it like that, it sounds like a lot,” I allow myself a breather, especially as I notice her reaching towards me and handling my mana in my stead. As she does, it feels like a constant hum in the background disappears, and some weight lifts off my shoulders, too.
+
+Still, I look at her. “But it is something I chose of my own free will. As for the things I didn’t, well, there I’ve gained a lot in return that normal people couldn’t even dream of. It is obvious there would be a price for that.”
+
+I examine one of the mana stones lying on her table. “I thought about it, Ruby. I often think that these things happen because I’m just not strong enough, and to some point, it is true. But then I also look up. At the Rulers, and at you, and I can’t help but think how pathetic each one of you is. So I’ve come to think that it would still be the same even if I reached your level. Tied back by various deals, goals, and straight up the system itself.”
+
+Her eyes narrow just as I look up from the table at her. “And I wonder, Ruby. When was the last time you truly did the utmost you could? I keep thinking of Lissandra as she was when I met her on the second floor. Satisfied with where she was. The strongest there was without challenge, stepping back so the others of her planet could take over and prove their worth. And then I think that you, I, she, we’re similar in a way. Right at this moment, I feel angry. Motivated. There are many things I want to do right away, promises of revenge I have to keep, and promises to never let these events repeat themselves. Yet, I’ve felt like this before. These emotions will, in the coming months, fade from a blazing flame into glowing embers. I think that’s just how humans and other beings are.”
+
+She doesn't break eye contact or say anything, so I allow these words to die off and look away from her. For a minute, we stay quiet just like that.
+
+Then she speaks again, this time asking a question. “And why do you do all you do?”
+
+There are many options I could answer, the usual ones, but for some reason, for a short moment, a memory of the lumoran Champion, Feroy, flashes through my mind from when I asked a similar question. Back then, he just spoke with that hint of gentleness in his voice.
+
+“Because I’m a Champion of my people.”
+
+But out loud, I just say, “Because as long as I’m the strongest, no one can take anything from me or force me into choices I don’t want to make.”
+
+“That’s good to hear,” she says. “Want to change the subject to something more lighthearted before you go?”
+
+“Why not.”
+
+“The Lycan you met on the 9th floor is the Ruler of Wrath, currently considered the 3rd or 4th strongest Ruler. People can’t decide who should be third, either him or me, though I think it should be obvious.”
+
+“It is obvious.”
+
+“Good boy. So, fun fact: since Kindness and I were blocked after you ran to Beyond with his hand, you almost traded with him for it, instead of Diligence.”
+
+“Oh.”
+
+“Yes, oh. Though amusing, I don’t think it would have been a very pleasant experience for you. Another thing. Would you like to know why he abstained from the votes for the new floor quest?”
+
+“Please tell me.”
+
+“He was too busy laughing his ass off after seeing Lust’s replica being obliterated by that Weredeer. Though in direct combat she is no better than an average Champion, it is quite a shame she got killed that way, especially as it was, in a way, caused by him.”
+
+“How did she even become a Ruler?” I ask.
+
+“The 10th floor has a two month duration. At the end of those months, the Champion would’ve gotten the egg and gifted it to her, at which point she would’ve realized what it was. For her, it is a pleasant memory as she was able to charm a wyvern and, thanks to it, grow much stronger. Currently, she has tamed one more wyvern like that and many more powerful beings she’s added to her 'collection over time.' Yet, she remains weak in direct combat, even though her other strengths are quite impressive.”
+
+“Are you sure you can tell me all that?”
+
+“Today... I don’t care for the rules that much.” She moves her hands and, reaching into one of the drawers, draws out two glasses and puts them in front of us. Then, from the same place, she takes a bottle that shouldn’t logically fit there and pours us a liquid that is green with yellow sparks glowing inside.
+
+I pick up my glass and take a sip, followed by another. For a moment, I close my eyes and enjoy the feeling of strange warmth spreading through my body, relaxing my control of mana even further. Ruby helps me control it, keeping it from damaging my body, while the rest of it just seeps into the area. It’s something that would usually threaten the lives of even powerful people, yet there is no chance of it doing something like that to her.
+
+“Want me to give you the fur pelts and wood you got from the Magi so you can take them with you to the 11th floor?” she asks.
+
+“No,” I shake my head. “Please send them to Crimson Forge along with the Everwood. I’ll be back in a few days.”
+
+“Will do,” she says, pouring us more.
+
+I drink again and notice that the more I drink, the more numb my body and mind become in a strange way. All noises become slightly distant, and I become just a passenger.
+
+“It must be expensive,” I note, taking another sip.
+
+“Very. It is impossible to make more of it anymore.”
+
+“Give me some so I can take it with me.”
+
+“Ten million shards for a bottle.”
+
+I pause just as I lift the glass near my mouth and look at her to see if she is serious. She seems to be.
+
+So I just take another sip and then stand to pour us both another glass, being sure to fill my glass to the rim.

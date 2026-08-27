@@ -1,0 +1,143 @@
+---
+id: 9b9a4c93-ab71-59d2-abb3-7ac725599eb3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 737 - Investments"
+slug: 0062-chapter-737-investments
+partOf: hell-difficulty-tutorial
+position: 62
+ownLength: 2038
+unit: words
+publishedAt: 2026-01-26
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2982623/chapter-737-investments"
+royalRoadId: "2982623"
+---
+
+Looking at it from any reasonable point of view, it should be impossible for Biscuit to produce this much saliva, not in his puppy form. It’s already been five minutes, and I’m still lying there while he continues to lick my face, hair, neck, and anything else he manages to reach.
+
+A few times, he even pushes his butt against my face as he turns around to bite the hem of my shirt and tug at it playfully. That makes him stumble and shove his butt even harder into my face before barking at some invisible enemy who clearly must have caused it.
+
+He turns again and starts jumping up and down, his front paws pressed against my cheeks as he bounces them like rubber. Then he chomps on my nose only to get distracted all of a sudden, and like a hyperactive puppy in full zoomies, he takes a mouthful of my hair and starts pulling again.
+
+The whole time, I just lie there without making any attempt to defend myself, moving only my eyes as I follow Biscuit and watch him have fun showing off his affection. He keeps shouting things like (Happy), (Food), (Friend), and for some reason, he occasionally throws in the phrase (You came to the wrong neighbourhood, motherfucker!). That last one makes me decide that I will find out which absolute idiot from group four is ruining him like that.
+
+His thoughts also spill into my mind as pages and pages of sensations, mostly smells and raw feelings, but between all that, I filter out what’s been happening here, and it seems everything’s been going pretty well.
+
+Noticing movement nearby, I shift my eyes to the side where Noodle stands, in the exact same place he stood when I arrived, looking down at me with a strange expression. It is safe to assume the polite white snake either pities me or has been stunned by my lack of reaction.
+
+I look at his new eyes again. All six are green, arranged in a reversed triangle shape, two on top next to each other, and the last one in the middle below them. It doesn’t look silly in the least, instead, it gives Noodle a dangerous appearance, something like a beast with an ancient bloodline, a world devouring snake. Who knows what happened here? Maybe his Fragment of the Eternal Fire caused it, or maybe it has something to do with his bond with Izzy.
+
+Hell, maybe Izzy now has 6 eyes too.
+
+Finally, after another ten minutes, Biscuit seems to be done, having completely tired himself out. He now lies on my chest with his chin resting on his front paws as he stares at me.
+
+I reach out and rest my hand on his head, petting him slowly. “I’ve missed you too,” I say with a smile.
+
+Biscuit yawns, showing his tiny pink tongue, then closes his mouth and his eyes and slowly falls asleep.
+
+Now that he’s asleep, I allow myself to threaten him, and in a quiet voice I whisper, “You bite me one more time, and I swear I will file a complaint with whoever’s responsible for regulating hyperactive burrito gremlins.” Then I turn to Noodle and say, “If you plan to step in and save me, now would be a perfect time.”
+
+The snake blinks all six eyes slowly.
+
+Understandable.
+
+Have a nice day.
+
+With my arms around the puppy, I carefully sit up and then stand, absorbing every vibration to avoid disturbing his sleep. As I do, the view finally opens enough for me to see Tess, who has been sitting on the railing of the balcony since the start, watching the entire brutal attack, even though I couldn’t see her earlier from the floor.
+
+Her gray eyes shift from my soaked shirt to my hair and face before she whispers with a smile, “Ew.”
+
+“You can keep that reaction to yourself,” I say.
+
+I walk a few steps and sit down in the chair on the balcony in front of her, not reacting any further to the undignified comment.
+
+“You are a day later than we scheduled,” she mentions.
+
+“I got a last minute Beyond quest. But it got me some really nice techniques from a Champion, and we can break them down to take what works for us if we want.” I say in my defense.
+
+Tess nods seriously, but with a playful twist, “Do you still feel like we’re just primitives smashing stones together and hoping to get a spark every now and then?”
+
+“Constantly, but doesn’t that have its own charm? We’re frontrunners, explorers. You know that saying about being too late to explore Earth and too soon to explore space? Well, not anymore, Tess. In the future, there will be kids studying in Academies and training their disciples on Earth, while I’ll have the chance to look at all that and say something like: “Things weren’t so easy when I was young.”
+
+Tess chuckles quietly, “You’re right, in a way. We have the chance to explore paths people stuck in more rigid systems probably won’t. But on the other hand, we can still fuck up so hard we lock ourselves out of progressing.”
+
+“I am an optimist at hearts.”
+
+She rolls her eyes, “Do not think I did not notice how much you like to use that phrase lately, and how often you try to find sentences that use ‘heart’ just to end up replacing it with ‘hearts’.”
+
+"I said it because I speak from the hearts."
+
+"Nat...""You know I follow my hearts more than my head."
+
+"You are terrible."
+
+"It felt right in my hearts, so I went with it."
+
+Tess laughs shortly, "If your hearts really talk that much, I worry for your brain."
+
+“I am not sorry, and I will continue.”
+
+“I wouldn’t have expected anything else. Did you have any trouble? I heard some rumors in Beyond.”
+
+“Everything should be mostly resolved and fine for now. The schedule for the fifth Beyond floor shifted a bit, but I got some information I can share later. Anything fun for me?”
+
+She takes a moment to think and then nods, “Maya progressed with her [Compounding] and Sophie with thought acceleration. They just got done doing some testing a few days ago.”
+
+“What level did they reach?”
+
+“Level 0 so far. So ten seconds in that mental space Sophie and Maya created, and one second outside, more or less. They’ve been working with the twins, and they’re waiting for you to help. But yeah, it isn't that useful so far, but I’m sure you can see how amazing it could be in the future.”
+
+“Sounds good. And Noodle’s eyes?”
+
+“Izzy leveled up quite a bit, and we think that, combined with their Fragment, caused some sort of mutation or something. Honestly, nobody’s certain. I have been gathering information about Fragments in Beyond, but they’ve been difficult and expensive to come by.”
+
+“Do you need some shards?”
+
+She sighs, “Go on, tell me how rich you are.”
+
+“Do you remember that one time on Earth I bought you that box of chocolates you liked? Those fancy coffee ones made using the beans the tiny animals poop out so someone can collect them?”
+
+“Nat, you mean civet coffee, and no, they were not that. For the record, my mom liked that coffee, not me, and you know it. I never touched it, and I do not even know why I mentioned it to you. And one more thing, you bought those so called fancy chocolates with money you stole.”
+
+“I found that wallet. But anyway, I’m much richer than that. We’ll see if I can somehow transfer shards to you during the tournament or if we meet on the fourth floor when you guys get there soon. But I’ll give you a million.”
+
+“So generous.” She leans back so far she should be falling from the railing, but she keeps herself there with her [Psychokinesis], and deep in thought before she says, “Give me two, and in a few months I will return all of it with profit.”
+
+“Really?”
+
+A smile spreads across her face as she locks her eyes with mine, “What do you think?”
+
+I notice her hairstyle is different again. This time, she has no bangs at all, her hair has been split cleanly in the middle, so it falls to the sides and reveals her forehead. Her blonde hair waves a little, framing her face and falling just below her shoulders.
+
+“And if I gave you five million?” I ask, meeting her gaze.
+
+“In half a year, I’ll make seven million at least, but likely more. Six will go back to you, one to me,” she answers as quickly.
+
+Thinking it over, I keep petting the sleeping Biscuit and nod. “We have a deal, and we’ll work it out somehow later. But how?”
+
+She jumps down from the railing and walks past me into the room without answering. I watch her go to one of the cabinets and take out a towel before walking back. She stops for a moment, her lips twisting in amusement as she looks at my hair and face covered in puppy drool. And even now, frustratingly, she’s still a tiny bit taller than me. Just the tiniest bit, of course. It also might be only in my head, but I swear she’s packing more muscle now, too.
+
+The towel drops over my head, completely blocking my view. The fabric is thicker than I expected, almost fluffy, with that faint scent of citrus. It clings to my face for a second, holding a bit of warmth from her hands.
+
+Before I can react, she grips the edges and starts rubbing, firm yet soft, like she is trying to erase every trace of Biscuit’s rampage from my face. Her fingers move along the fabric as she works through the mess in small circles that tug at my hair in a strangely comforting way.
+
+I try to move the towel a bit so I can see, but she pushes it back down on my head, and I hear her quiet laugh right above me.
+
+She drags the towel lower, rubbing across my cheeks and jaw. The cloth scratches lightly across the stubble on my chin, then sweeps over my forehead and presses along the sides of my neck.
+
+When she lifts the towel for a moment, cool air hits my face, and I instinctively blink against the bright light. I catch a glimpse of her expression, amused and just a bit too satisfied. Then the towel drops again as she goes for another round on the back of my head.
+
+Biscuit snores softly the entire time against my chest.
+
+Through the towel covering my head, I hear her soft, quiet voice, “If you talked to people and made more contacts, you would come up with ways to make more money too. You just need to be careful and pick the right people, and avoid the ones that just want to take advantage of you. Sometimes you have to invest more into relationships at the start. Even if you don’t get your time’s worth right away, it will pay off later.”
+
+“I talk to people. I know a lot of demons.”
+
+She grabs my head through the towel and shakes it a little before continuing to dry my face.
+
+After a while, I ask, “Is it not tough for you? All that effort, constant thinking, balancing so many things, and dealing with people?”
+
+She stops, and for some reason, I am annoyed that I cannot see her face. Then she speaks right next to my ear, “It is tough, very tough even, but nothing I cannot handle. You should know exactly what I mean by that, Nat. Do not think I have not noticed your state. I’m not as naive as the others from our group might be.”
+
+Finally, she lets go of the towel and taps the top of my head without removing it. “Take your time to acclimate. You can join us in the main room in an hour or two.”
+
+With that, she leaves through the balcony, leaving me with Biscuit in my arms.

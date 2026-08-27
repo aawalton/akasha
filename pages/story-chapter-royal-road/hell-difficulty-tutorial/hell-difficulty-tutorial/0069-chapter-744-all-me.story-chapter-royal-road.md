@@ -1,0 +1,121 @@
+---
+id: 2ea0aa0c-b3cd-5845-a9b1-28ba0c11cc90
+page-type-slug: story-chapter-royal-road
+title: "Chapter 744 - All me"
+slug: 0069-chapter-744-all-me
+partOf: hell-difficulty-tutorial
+position: 69
+ownLength: 2133
+unit: words
+publishedAt: 2026-02-04
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3013473/chapter-744-all-me"
+royalRoadId: "3013473"
+---
+
+From where I sit on the ground, I watch the transparent half figure above Adrian lift into the air somewhere in the distance as wings grow from its back, and with Adrian hanging beneath it, he flies toward the second floating island.
+
+I only have time to wonder what I should even call him in my mind before the mess I’ve landed myself in becomes too much and forces all my focus onto it. Lily tries to come back to heal me, but I gesture for her to stop and instead try to deal with it on my own.
+
+The body upgrade keeps gradually applying, and that individual part of the upgrade that affects my Mana Physique makes the biggest mess. The constructs get erased, then try to come back in ways that absolutely do not work with a body that’s still changing under the influence of the upgrade.
+
+I don’t know if it is some sort of genetic memory that’s making the constructs cling to existence, or if the system considers them a twisted sort of passive, or something else entirely, but they refuse to be erased.
+
+It would probably be far less of a problem if the body upgrade applied all at once. But it’s not that simple. The body upgrade applies a bit, the constructs get ruined, I fix them, the upgrade applies again, the constructs get ruined again. Constantly in a neverending loop.
+
+Then there are my passives messing with everything. Usually, the system handles that automatically, but I think at least the two of my passives are probably too strong for my current Constitution, so the changes are deeper, heavier, woven further into my being. I wanted that, yes, I counted on it. But damn, I would have done things differently if I had known what I know now.
+
+I planned on the upgrade not applying fully because of the constant healing aura of the tournament, which would have caused most of the body upgrade to apply after the tournament, but, with me having observed it, I prepared for it.
+
+In a way, the body upgrade is similar to my body tempering or the restrictive training emblem. My body needs to take damage for it to work. Instant healing ruins the process.
+
+Still, even through all of this, I refuse to change my approach. I am confident that I can do it.
+
+I am sure of it even as I let my body get damaged to the point where I almost die. Then I stop handling mana and focus on thermal energy alone, letting it combust and heal me to the point where I can let go of it, watch my body break again, and the upgrade continues applying.
+
+[Focus - lvl 74 > Focus - lvl 75]
+
+Each time my concentration slips, scars form. Sometimes they’re barely the length of a fingernail, small tears in my skin and the flesh below that heal quickly. Other times, they’re as long as my finger, deeper, and hitting harder. There is also a longer one running diagonally across my chest over where my hearts are, it’s the length of my forearm, and another on my back of similar size. These wounds heal, but the scars remain, pale white and visible on my skin, refusing to disappear even though they should.
+
+And thus my body keeps tearing, healing, and scarring while my mind observes it all. Now, with my new passive, my cognitive vector, my mental capacity is stronger than ever.
+
+Most of all, it feels like my mind itself became more durable, letting me abuse it more than ever and making some things disturbingly easy.
+
+The only thing that holds me back is me. My talents, my capabilities, which still feel lacking compared to the potential I can sense right in front of me.
+
+Cognitive Hyperprocessing Vector (Low Pristine) - Your cognition gains a compact internal framework vector that reduces thought into a refined conceptual structure. The model allows efficient manipulation of intricate concepts and maintains stability through heavy mental load.
+
+The passive is, well, something. I have no idea what half of the description means, and...I pause only to handle yet another spike of mana. Another part of my body bursts open, but I gesture again for Lily to stop where she stands. With my eyes closed, I let my thermal energy combust while I hold my body together long enough to heal the wound.
+
+It takes a few long seconds, but when it is done, I breathe out a shaky breath and check the last seal on my Ignition Heart. It still holds, and I hope it continues to do so.
+
+A small part of my mind dives back into thought to distract me from all the pressure and pain. My new passive is certainly powerful. I spent shards gathering as much information as I could and used my guild’s archives too. Pristine passives are, well, far fewer in number, each one specially chosen by the system and tailored to the user.
+
+There are many options, categories, and subcategories. Vectors are one of those subcategories, and as far as I have found, at least five vectors exist. Cognitive, Spatial, Temporal, Causal, and Harmonic.
+
+I was offered the Cognitive Vector, likely thanks to my mental capabilities, though how important it is, and how it happened will be up to future me to judge. I just know vector type passives are among the rarer ones.
+
+So far, it doesn’t feel like it changed or added anything. All the work is there for me to do. The passive provided a durable internal framework into which I must place the engine, meaning my mental capabilities, split minds, and everything that goes with them. It’s simple in a way, but it’s exactly what I need.
+
+I blink and snap back to reality, only to notice Lily standing in front of me, her hand pressed against my chest as she heals a huge hole a spike of thermal energy burned through. A part of the leftover energy hits her too, adding to the damage my wild energies cause. I can see the area around us shimmering and the barrier outside taking more and more damage, forcing people to reinforce it.
+
+(Food?) sounds in my mind. Like an offering, a gesture asking to step in and fix most of my problems. If it’s him, I know he can help.
+
+But I don’t want it, which is why I rejected his help when I first appeared here and when I recognized Christoph. It’s for me to deal with, to clean up the mess I created, and overall, something I know I can do. So I shake my head, unable to answer in any other way, and Biscuit’s presence takes a step back.
+
+Lily knows my intentions, too. She steps away after healing me just enough to keep from dying on the spot, but she stays close. It makes me turn toward her, searching her face for pity or hesitation. Instead, there is simply trust, a willingness to let me make my own decision, no matter how stupid it might be. And damn, sometimes I know I can be a difficult person to deal with. I know it, the system knows it, hell, anyone who’s watched me long enough knows it.
+
+What else could explain some of my decisions? Especially the ones fueled by pride, greed, and arrogance, supported by my constant urge to do everything myself and trust no one beyond myself.
+
+Sometimes I wonder if I was born like that or if my environment shaped me, or if it is just the sum of all the decisions I’ve made that formed me into what I am today.
+
+In the end, Greed and Pride both fit me quite nicely, do they not?
+
+I feel myself smile as another spike of mana bursts out while the body upgrade makes yet another change to my Mana Physique. I examine my body right after, searching for pathways I could use to circulate the mana. The pathways are there, but so are the half broken constructs, blocking them, twisting a process that should be simple. I inscribe into my body, fixing the constructs and rerouting them while knowing I’ll just have to do it again minutes later. I do it to ease the load on my Mana Cycling, which I need to maintain constantly, pushing mana through a body with only a hundred-and-one Constitution while doing all of this at once.
+
+Thermal energy is no better, having nearly the same problems. Sometimes, even my Kinetic Mana Heart pulses and starts turning mana into kinetic energy until I catch it and shut it down.
+
+It’s a never ending battle, further complicated by the healing I need every once in a while, each time raising the difficulty.
+
+Through it all, I keep splitting and combining my minds. I push it further than ever before, often separating into more than ten subminds, many of them pre-prepared with arrays and inscriptions, making all of this possible in the first place.
+
+And the body upgrade keeps ramping up, each wave bigger than the last, forcing me to improve or accept that I might not be able to keep up soon and will have to rely on others.
+
+Again.
+
+As if I wasn’t enough. As if I’ve taken a far bigger bite than I can chew. Many people have told me that I’ve done that, stronger people, more experienced people, more talented people.
+
+However… When did I ever care? Never. Not even once. Who are they to tell me what my limit is? Who are they to judge what my mind is capable of?
+
+I straighten and stand tall, and under my own force of will, all the raging energies calm and hesitate. They stop and pull toward my body where they cycle in the exact way I want.
+
+For that short moment, I see what I need to do, and what my goal is, before everything becomes too much and the energies explode into my surroundings again, and rage out of my control.
+
+As if waiting for that moment, a finger plops onto the ground near Lily.
+
+When I track where it came from, I notice a small opening in the barrier surrounding us through which it slipped in.
+
+A moment later, Victoria grows from it, reliable and calmly composed as always, and takes a step toward me.
+
+Lily tries to stop her, but my sister just slaps her hand away like an annoying fly without even looking at her. After taking a few more steps, Victoria stops in front of me and places her hand on my shoulder.
+
+It is not like the mana and golden flames aren’t there or hitting her. They slam into her body, trying to break it the same way they tried with Lily. I always suspected Victoria’s body was more durable than Lily’s, but the difference here is absurd. There isn’t the slightest of burns, not the smallest sign of damage from the mana radiation. Not even a single strand of hair is disturbed.
+
+That… shouldn’t be possible. There is no way her body is this durable already.
+
+Slowly, gradually, I realize what is happening. It is not that her body is impossibly durable. It’s me. Somehow, even in this state, I can’t seem to bear the thought of hurting her, not even by accident or as a side effect of my own mistakes.
+
+When I try to figure out how this is possible, I realize most of my minds are in deep [Focus], overclocked to the point of tapping into the tiniest bit of thought acceleration. They brute force the behavior with help from my new passive, ignoring how much this should hurt and how impossible it should be without a specialized skill.
+
+Victoria looks at me as if she never once considered the idea that I might hurt her, as if she knew from the start that this would be the outcome.
+
+“Do you need my help, Natty?” she asks. “Tell me, is this someone else’s fault, or is this one of your fun projects?”
+
+“It is all me, Vic,” I force out of myself. “No need for help.”
+
+She leans in and kisses my forehead. “Good. I’ll leave it up to you then.”
+
+Walking up to Lily, she stops in front of her and says, "Do not ever try to do something like that again."
+
+Then she heads toward the barrier and knocks on it. I see a bunch of people scrambling around, until her right hand, Gloria, a young blonde with a choker, stabs her hands glowing with white light into the barrier and tears it open wide enough for Victoria to walk out.
+
+Once the others restore it behind her, the barrier closes again.

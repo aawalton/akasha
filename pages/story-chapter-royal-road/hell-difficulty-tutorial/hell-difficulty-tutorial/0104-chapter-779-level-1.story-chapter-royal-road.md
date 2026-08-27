@@ -1,0 +1,133 @@
+---
+id: 5b47b46e-2a28-5d45-aadf-0fba1dd3d7df
+page-type-slug: story-chapter-royal-road
+title: "Chapter 779 - Level 1"
+slug: 0104-chapter-779-level-1
+partOf: hell-difficulty-tutorial
+position: 104
+ownLength: 2119
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3193996/chapter-779-level-1"
+royalRoadId: "3193996"
+---
+
+"Well, if that wasn't just a tiny bit stupid," I say to Lily. Both of us are standing beside the body, looking down at it while the others secure the area.
+
+She doesn't even try to argue and just says with resignation, "Thanks for helping me."
+
+"I'm sure you could’ve endured that much, but there was no need for me to just let it happen." Waving it off, I do a similar thing to what she did. Extremely gently, carefully, like a feather touching skin, I tap the body with the tip of my shoe.
+
+As before, the body absorbs the kinetic impulse completely, pulling the kinetic energy inward. It is trapped there, captured within and channeled through muscle, bone. Quickly enough, it begins to rebound, the trait forcing the kinetic energy to ricochet again and again through the internal structure of the body. Every rebounding wave compresses the energy further, stripping away waste, tightening it, refining it.
+
+Frequencies shift as the energy cycles, climbing from a weak physical impact into something sharper and resonating. All this happens in a fraction of a second, and the internal pressure reaches its threshold this amount of kinetic impact causes.
+
+All of that energy is released at once. Magnified many times over, focused, accelerated, and thrown back in my direction in a defensive burst.
+
+Waiting for it, I absorb all of it, channel it through my body, and release it into the sky with Needle Point.
+
+"Imagine if someone like Jean punched it," Lily whispers after confirming that I'm still okay.
+
+A sudden shudder washes over my body at the thought. He and Morwag are the two people capable of dealing the most powerful physical blunt damage in Beyond that I know of. Jean, because he’s a single-stat enjoyer like me and Tacita, and Morwag, because he constantly overclocking his body with only his binding energy to hold it together. Oh, Victoria could probably overclock one of her duplicates and punch with similar strength, though it would tear said duplicate apart.
+
+Musing over it, I say to Lily. "Imagine if we got one of the bigger bones from this guy and turned it into a gauntlet, then gave it to Jean to punch people. The impact would bounce and strengthen his punch many times over, causing some really nice explosions."
+
+"I don't think it would work. The trait seems to require most of the body to bounce and echo kinetic energy. Just a single bone would either function at a lower level or not at all."
+
+"I know," I agree with her, disappointed. "Kinetic absorption isn't very good against sharp items, so we can still, carefully, cut off a few pieces for you to examine."
+
+"After what just happened, I would rather be careful about that. At Champion level, it might work differently with sharp items, and I wouldn't want Tess to get angry at me again."
+
+"Are you scared of her or something? You’re still pretty young, so go on and rebel, don't let her hold you down."
+
+"Tess is scary when she gets angry. Right now, she’s in what Maya calls her quietly vicious mood. If I push any further, I know Tess will make me pay for it later when we spar."
+
+I tap on the body again and gather the kinetic energy once more, observing how the trait works in case I can find a way to mimic it. Though so far, it seems like it’d be impossible without making some big changes to my body that would clash with its function as a true Mana Temple.
+
+"Can’t you just kick her ass? What with all that Terminator of Lust stuff, and your bulldozer magic?" I ask.
+
+Lily looks around to see if Tess isn't close and even then whispers as she leans in, "Sure, up close, I win most of the time. I've improved a lot, so close combat does work out to my advantage."
+
+"But?"
+
+"But when Tess gets annoyed, she doesn't play fair. She knows to a hair’s breadth what my range is and stays out of it while tiring me out. If she gets especially annoyed, I won't even see her or her attacks. Some time ago, the twins and Min-Jae were asking her how long her range extends, and she had no idea. She said in a year or two, she might be able to shoot the moon. Nat, I don't think she was joking."
+
+"A little bit of pettiness never hurt anyone, there’s no need to be such a baby about it." I tap the body two more times and observe the process while firing off more kinetic energy into the sky.
+
+"Can you stop doing that!" Lily shifts uncomfortably.
+
+"It is fine," I wave it off. "So, what piece do you want?"
+
+"Maybe don't take it entirely apart, you two," Sophie says as she approaches. Her sister isn't with her at the moment, and her green eyes look at the body with great interest as she cuts straight to the point. "What would you think about me using Blackie to control this body?"
+
+"Can you do that? You said there tends to be resistance, the more powerful a body is. It should be even worse with one on this level." Even as she says so, I notice that Lily seems to be excited at the thought, and already seems to be thinking of what she’ll do next. "Maybe we could bring it to the next floor."
+
+"That’s what I was thinking," Sophie confirms.
+
+"Aren't you just straight up a necromancer at this point?"
+
+"Honestly, Nat, I think I would prefer that over being a Mind Mage. Even in Beyond, I’ve had plenty of people trying to kill me. Do you even know what it is like to have them constantly trying to send you to hell and spitting at your feet?"
+
+"Because you let them. Just break their jaw and punch out their teeth so they remember next time."
+
+"Not everywhere can be as simple as it is in the Primordial Lunatics," the mind manipulator sighs. "I’ve been thinking about it, and I don't think I’ll be able to take control of the body on my own. I’ll need the twins to help out with [Connection]. Even then, it would take too long and be too dangerous with our current timing, so we’ll also need to rope in Maya and do some Thought Acceleration. What do you think, Nat? Would you like to see how far we’ve progressed?"
+
+"Now that’s a silly question."
+
+At that, she only smiles. “Then let us gather them.”
+
+Our small group of necromancy and mental magic enjoyers gathers in a circle around the body of the demon Champion. Sophie, Maya, the twins, and me, with Lily on standby in case something goes wrong. And for some reason, Biscuit’s here as well, dozing off in my lap while Sophie explains.
+
+"I thought we would’ve made more progress with Thought Acceleration by now, but it’s proving more difficult than expected. Especially with how weak some people’s minds are." Sophie pauses, as if wanting to let us absorb the insult. "So, for now, we’ll stick to Level 1. I think 30 minutes should be within the safe limit. To explain it in a way 'that a 5-year-old child would understand,' since Nat enjoys that: 30 minutes outside equals, by estimation, around 50 hours within the mental space I accelerate and Maya compounds."
+
+"If you can't explain it simply, it just means you don't understand it enough."
+
+"Thank you for your wisdom, Nat."
+
+"You’re welcome, Sophie. But yeah, I agree, your mind and the others are quite weak."
+
+"Oh, even mine now?"
+
+"You've been getting too cocky lately with all your mindblender mumbo jumbo. Even in my guild, I’ve been hearing how a few of the demons have been wanting to go on a hunt to challenge the 'mind mage witch bitch' that’s been scaring people on the 4th floor."
+
+"My mind is much more powerful than it ever was. You have no idea what I’m capable of now."
+
+"Yeah? Go on then, prove it to me. Test my defenses."
+
+"Forcing an attacker’s mind into manifesting itself within your mental space and then turning it into a fist fight while calling that strategy: 'Oh, You Dumbfuck Actually Walked In' isn't something that should ever be called a mental defense."
+
+"Maybe we should start?" Aaron asks somewhat awkwardly. "You know, time limit. Champion’s body. We're risking our minds, which could overheat and melt like Dennis’s old laptop trying to open his homework folder."
+
+"Oh, come on." Like the snake she is, Sophie turns to the twin. "I’m making my mind a central node, and I would rather it melt before any of yours."
+
+"Sophie... that’s the sweetest thing you've ever said to us," Dennis says with a serious expression. "But what if Maya fucks up? Compounds it too many times or something?"
+
+"That’s a good question," Maya herself says, causing heads to turn toward her. She shrugs. "Look, I’m here for the sole purpose of blatantly being used for my skill, which I only ever thought I would use for combat. I have no idea how any of that works. I might [Focus] too much, compound too much, and might even add [Boost] by mistake."
+
+Observing the conversation, I let them talk it out while doing my own preparations. There are already plenty of barriers stacked up around us, and within them, a few more have been built up around the body. I don’t think we want a sudden gust of wind to crash against the body and evaporate half of our group while performing some sort of cursed mind magic. That would be a very unfortunate end to group four.
+
+Blackie’s already waiting. The piece of the Champion’s bond, now belonging to Sophie, reaches out from her shadow and moves curiously toward the body. Well, as curiously as it can. In the end, it’s only a construct, just a set of rules and preset reactions, yet its behaviors make it feel alive. And who the hell knows, maybe in a way Blackie is alive, just waiting to fully awaken one day to take revenge on us for the name Izzy gave him.
+
+Gradually, the bickering group calms down, and we finally get to it. It begins with Blackie sliding into the body of the Champion and seeping in entirely. Sophie does something afterward to try and take over, while the twins join in with [Connection]. They continue to do so for a good thirty minutes, mostly in an effort to gather enough information. Looking with my Preeminence eyes, I gather some of my own as well.
+
+Lastly, when the first step is done, Sophie creates a mental space for us. We lower our mental defenses and let her take us in one after another. The twins strengthen the [Connection], then Maya joins in with her skill until the five of us find ourselves in the space they’ve created.
+
+Said like that, it might sound too easy, but it is anything but. I don’t think there are many people capable of doing something like this during their 5 years in the tutorial.
+
+Once inside that mental space, I look around and realize it’s not that bad. Most of all, it seems like we’re in the penthouse of a skyscraper planted in the middle of the Italian countryside. There isn't a single other building or human made structure around, just miles upon miles of beautiful nature providing us with an amazing view, further strengthened by all the walls around us being almost entirely made of glass.
+
+"Okay then, why don't we start?" Sophie claps her hands together.
+
+Then a new voice asks, "Start with what?"
+
+At once, all of us turn toward the person who hadn't been there a moment ago.
+
+A muscular demon stands there now, his back to us, one finger tracing the glass as he gazes at the countryside. In the reflection of the glass, I see his deep red eyes.
+
+"Please don't move," he says shortly. He taps on the glass a few times without even bothering to turn around, and we stand there frozen, gathering our mana for a possible clash, one that I have no idea how to approach.
+
+Then the demon turns around. Short white hair, red eyes, and thick brown horns. He’s smiling gently, and unlike the body we found outside, this version bears no signs of damage.
+
+He claps his hands together, similar to how Sophie did before, and the act of it vibrates the air and rattles the entire building.
+
+"Well then, let’s see who’s been meddling with my poor, lifeless body."

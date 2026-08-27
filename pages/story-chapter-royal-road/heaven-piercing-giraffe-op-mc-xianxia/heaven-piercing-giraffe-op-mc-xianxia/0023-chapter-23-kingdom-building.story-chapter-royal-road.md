@@ -1,0 +1,215 @@
+---
+id: 3a4c247e-ff25-5aa5-a038-c926e0fadd12
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23: Kingdom Building?"
+slug: 0023-chapter-23-kingdom-building
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 23
+ownLength: 1957
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3766032/chapter-23-kingdom-building"
+royalRoadId: "3766032"
+---
+
+Chapter 23: Kingdom Building?
+
+After a while of internally debating whether to wait for someone else to step in and fix this, or fix it myself, I chose to fix it myself.
+
+Not because I particularly wanted to. The waiting option had never actually existed in the first place. Everyone was already looking at me, fists clenched, breath held, the entire clearing arranged around the specific expectant silence of people waiting for a verdict only I was apparently qualified to give.
+
+I had spent my previous life as a solitary giraffe. I had no experience leading anything larger than myself, no instinct for herds, no framework for what a good decision even looked like in a situation with this many stakeholders.
+
+But Dad had taken me in once, without hesitation, without demanding anything of me first.
+
+Maybe that was a framework enough.
+
+"You can stay."
+
+The Jade tribe's eyes brightened all at once, the tight, defensive posture they'd been holding since they arrived finally breaking apart into something looser: hugging, gripping each other's shoulders, one woman pressing both hands over her mouth as though she needed to physically hold something in.
+
+I found myself smiling, watching it happen. I nodded to myself, quietly, for having done something that had apparently been correct.
+
+"Hmm…" White hummed beside me. "Are you sure you want to take in more followers?"
+
+"What are you talking about? I'm just letting them stay. Same as everyone else here."
+
+"You haven't noticed yet, have you? Everyone's already decided you're the leader."
+
+"When, exactly, did that happen?"
+
+"Right from the start," Hyena offered, unhelpfully, from somewhere behind my shoulder.
+
+Human E approached me with the elder of the Jade tribe at her side.
+
+"About where they'll stay." Human E's stick found the ground with its usual tap. "The tents we have aren't enough. Do you have any thoughts on the matter?"
+
+"Of course she does!" Hyena stepped forward with more enthusiasm than the moment required, spraying a fine mist of saliva in Human E's general direction. "Are you looking down on my boss?!"
+
+I rather hoped she was looking down on me. I had no meaningful idea how humans solved a housing shortage. On the savanna, this problem simply didn't arise. You found shade, or you didn't, and either way you kept walking until you found some.
+
+"I want to eat some leaves," I mumbled, mostly to myself, mostly because I was hungry and the conversation had stalled long enough that my stomach had opinions about it.
+
+"Leaves?" Human E repeated, tilting her head.
+
+Buffalo cut in before I could clarify. "Don't you understand?" He looked at Human E as though she'd missed something obvious. "The Messiah has instructed us to make tents. Out of leaves."
+
+I had not known that was possible.
+
+I considered it for a moment, and decided it sounded at least plausible: humans had, after all, made functional footwear out of animal hide and shelter out of woven branches, so leaves seemed within the realm of achievable engineering. I nodded.
+
+White elbowed me, leaning closer. "Are you sure about this?"
+
+"I'm never sure. I don't even have the faintest idea what's actually happening most of the time."
+
+"Figured."
+
+We stood together at the edge of the clearing after that, watching the entire combined camp scatter in every direction, arms already full of gathered branches and broad leaves.
+
+"I suspect there will be a lot of chaos tomorrow morning." White stretched, both arms going up over her head until something in her back popped audibly. "I'm going to sleep now, so I have energy to properly enjoy it." She turned and walked off toward the tents, already yawning.
+
+Donkey popped out of nowhere and trailed after her.
+
+I tried to follow as well.
+
+Human E's hand closed around my shoulder before I'd taken a second step, surprisingly firm for someone who relied on a stick.
+
+"This was your idea. We'll need your guidance."
+
+I looked at the retreating shapes of White and Donkey, already disappearing into the dark between tents, then back at Human E's expression, which had not shifted an inch.
+
+This was going to be a long night.
+
+***
+
+The next morning, White's prediction arrived on schedule.
+
+I woke to shouting.
+
+By the time I'd made it out of the pile of leaves they had gathered, the argument had already relocated itself to the largest tent. A group of Jades were in front of it.
+
+"Aren't you men?! Get out of there and swap with us!"
+
+"Why should we give up our tent? I believe in gender equality!" the tent argued back.
+
+"Men are supposed to take care of women!"
+
+"Maybe—" a new, more conciliatory voice attempted inside the tent, "—we could just share?"
+
+A beat of total silence followed that suggestion, the kind of silence that meant everyone present had briefly, simultaneously imagined the logistics of it.
+
+A Human T came flying backward out of the tent flap, landing in the dirt with a soft oof.
+
+"Go on, take that idiot with you!"
+
+I recognized him after a moment. The same Human T who'd waved at one of the Jades the previous evening, apparently having made more of an impression than he'd intended to.
+
+He sat up, scratched the back of his head, and offered a small, hopeful wave toward the Jades. "Hi."
+
+He was shoved sideways by someone stepping past him, and the argument resumed without any further acknowledgment that he existed.
+
+Something inside the tent gave a loud, structural creak.
+
+Then things escalated properly, and by the time it settled, we had one fewer tent than we'd started the morning with.
+
+***
+
+The Human Ts and Jades involved in the incident were assembled in front of my open-walled shed by mid-morning, arranged in two uneven, sullen lines.
+
+Human E worked her way down the Human Ts' side first, stick connecting with shoulder after shoulder in brisk, unhurried succession. Each strike accompanied by a muttered word I didn't quite catch and didn't especially want to.
+
+The Jades, watching this from their own line, began to giggle.
+
+Human E's stick found their side next, with equal enthusiasm.
+
+The giggling stopped considerably faster than the Human Ts' complaining had.
+
+I kept my mouth shut throughout the entire proceeding, mostly because I had nothing useful to contribute, and partly because I suspected that anything I said at this point would be interpreted as an official ruling regardless of what I actually meant by it.
+
+A tent flap to my left rustled open. White emerged, stretching both arms overhead again, still visibly half a yawn behind the rest of the morning.
+
+She wandered over, blinking at the two lines of shame-faced, dirt-smeared humans. "What happened?"
+
+I explained.
+
+She burst out laughing.
+
+Once she'd recovered, wiping at one eye, she asked, "Do you need help?"
+
+I nodded immediately. Not because I strictly needed help. I needed someone to hand the entire responsibility to, and White seemed, by a wide margin, the most qualified candidate currently available.
+
+She studied the crowd for a moment, one hand under her chin, and then leaned in close enough that only I could hear her.
+
+"How about asking whoever has Earth or Wood elements to build proper houses instead?"
+
+I don't get it but I nodded anyway, and repeated it back to the assembled tribes word for word.
+
+"What are you talking about?" one of the Jades asked. I understood her, we were on the same page.
+
+Buffalo cleared his throat before I could attempt to make it more complicated. "Our Messiah can produce spirit energy. It will allow us to cultivate the way those on the floating islands do."
+
+"...Really?"
+
+"Of course." Buffalo turned to me, expression already sliding into reverence. "Would you allow us to cultivate with your neck again? So that we might begin the houses properly?"
+
+Well. If it kept everyone sitting quietly instead of shoving each other out of tents, it seemed like a fair trade.
+
+I nodded.
+
+***
+
+From sunup to sundown, it took the entire day.
+
+I spent a good portion of it wondering whether all the sitting had actually been necessary for the cultivation itself, or whether everyone had simply enjoyed having an excuse to sit still in the sun for several hours uninterrupted.
+
+The Human Ts with giraffe markings gained the most spirit energy, same as before. The ones with zebra markings managed some, noticeably less. Proper posture and breathing seemed to be the deciding factor, and Zebra's people had clearly spent less time perfecting either. The Jades, being complete beginners at sitting still for any meaningful length of time, got nothing at all. Several of them abandoned cross-legged entirely within the first hour and copied me instead, perched sideways on convenient logs.
+
+One of them pointed at Buffalo, who sat ramrod straight nearby, eyes closed, breathing with the exaggerated deliberateness of someone who had clearly practiced the appearance of cultivation more than the substance of it.
+
+"Is this actually working for him?"
+
+Buffalo did not open his eyes to answer. He seemed too focused on locating the perfect rhythm of his breathing.
+
+After the sitting concluded, the real labor began.
+
+The Human Ts with giraffe and zebra markings rolled their shoulders in unison, cracking knuckles, rolling out wrists, the collective stretching of humans about to demonstrate something they were fairly confident about.
+
+The Jades watched this with open, unimpressed expressions. "Show-offs."
+
+"What did you just say?!" A cluster of Human Ts turned as one.
+
+Human E's stick found a pebble on the ground and connected with it.
+
+Everyone started working.
+
+The Earth-element users raised walls of packed dirt straight up out of the ground in clean columns, dirt folding and compressing under their palms. The Wood-element users layered growing frameworks over the top of those walls, coaxing saplings upward at the center of each structure until roots braided themselves directly into the packed dirt for support and leaves spread themselves outward into something close enough to a proper roof that it would keep out rain.
+
+They kept at it, structure after structure, until ten new houses stood where there had been bare grass that morning.
+
+A cheer went up.
+
+It lasted exactly as long as it took for a single stomach to growl loud enough to cut through it.
+
+Not mine. I was already eating leaves, and had been for some time.
+
+Zebra chose that exact moment to appear at the edge of camp, dragging a bear behind him by one hind leg, looking considerably more pleased with himself than his still-healing wounds probably warranted.
+
+The cheer picked back up immediately, louder than before, and by the time full dark had settled over the new houses, it had escalated properly into a celebration. Fire built high at the center of everything, the whole combined camp folding itself into one loud gathering around it.
+
+With the bear turning slowly over the fire and everyone settled into that particular happy, half-drowsy patience that comes right before a meal is finally ready, White spoke up.
+
+"I think this is a good time to share what we know about the creatures of the abyss."
+
+Everyone stopped.
+
+The whole clearing went quiet at once: spoons paused halfway to mouths, someone's cup lowered without being drunk from, even the fire seemed to crackle a little less confidently than it had a moment ago.
+
+Hyena's hand shot up, finger jabbing in White's direction. "Why are you acting like you're the leader?! Huh?!"
+
+White blinked at him. "Oh. I forgot."
+
+She leaned over toward me without missing a beat, and repeated the exact same sentence into my ear, word for word, patient as ever.
+
+I repeated it back to the clearing.
+
+No one objected this time.

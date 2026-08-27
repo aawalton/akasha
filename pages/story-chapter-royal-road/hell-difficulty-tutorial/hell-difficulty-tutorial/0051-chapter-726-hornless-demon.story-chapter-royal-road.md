@@ -1,0 +1,133 @@
+---
+id: 5ee73f14-64e1-53c3-9076-f9d0a4cf4108
+page-type-slug: story-chapter-royal-road
+title: "Chapter 726 - Hornless Demon"
+slug: 0051-chapter-726-hornless-demon
+partOf: hell-difficulty-tutorial
+position: 51
+ownLength: 2159
+unit: words
+publishedAt: 2026-01-11
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2933796/chapter-726-hornless-demon"
+royalRoadId: "2933796"
+---
+
+The Hornless Demon is, as the name says, a demon without horns. Red eyes, long white hair tied into a ponytail, and horns that look like they were cut or sawn off just above where they grow from the top of his forehead. He wears relaxed clothes that sharply contrast with Magistra’s formal outfit, and I can’t see any weapon on him either.
+
+He stands tall and thin, yet every movement shows the tension of those wiry muscles. And even now, without my mana, I can sense them. The hearts beating in his chest.
+
+Five of them.
+
+Four kinetic and one thermal, all packed together so tightly it feels wrong, like they just shouldn’t fit in the small space they occupy within that strange circle inside him.
+
+Plus, he holds an additional thermal heart in his hand. Mine.
+
+I feel my energy drop as I stand there, gradually bleeding out. My spine is heavily damaged, and with that black orb tearing my mana away, any bit of mana I regenerate is instantly taken. I can’t gather more kinetic energy, only scrape together what’s left to keep myself upright and move a body that no longer listens to my other signals due to my ruined nerves.
+
+The Absolute isn’t holding me in place, nor is he stopping me from trying to heal. But my thermal healing is gone, and Lily’s marks are useless now, all their mana drained by that orb still floating there, pulling more and more mana from the air.
+
+Yet I stand tall, even as my body weakens with each passing second and my mind begins to slip.
+
+“A human heart, and yet it’s still somewhat strong. Almost too strong for someone as young as you,” he says slowly, his voice matching his presence, casual and calm. “But it looks like someone powerful made preparations for you. I think. Who the hell knows? Not me for sure, I was never too good with mana, and this is some ancient and fancy stuff.”
+
+He even smiles, then looks straight at me, locking eyes. It feels like he’s counting down my life, watching the blood drain out, curious about what I’ll do, whether I’ll beg, run, or fight.
+
+I do none of that. I just stand there with a hole in my chest, alive only thanks to the little bit of physical stats I do have to keep my body functioning and the kinetic energy I’m using to keep me standing and moving.
+
+Next to me, Magistra is still bowed over, deeply, trembling.
+
+“Did you make this?” the demon asks, pointing at the black orb, now the size of a grape and far more dangerous, pulling mana from a wider and wider area.
+
+“Yes,” I answer, surprised by how weak my voice sounds.
+
+The edges of my vision blur, and I feel the beating of my Mana Heart slowing down as it begins to give up.
+
+“My Absolute, if you let me explain…” Magistra starts to say, but the Absolute does something I can’t even perceive, stopping her instantly, like she was slapped.
+
+“I’m trying hard not to be ‘rude,’ as you humans like to call our behavior, and instead… How do you guys say it? Talk it out?” he says, taking steps through the air. Each step sends waves of raw kinetic energy across the area, even though he’s clearly holding back his strength.
+
+Stopping in front of her bowed figure, he asks, “Did I ask you to speak, my little Champion?”
+
+“N-no. I apologize,” Magistra manages to stammer.
+
+He sighs. “Sometimes I think I might be too kind to you humans. But well, I made a promise to that man, and unlike your treacherous kind, I intend to keep it.”
+
+Turning back to me, he asks, “Now then, what happened here, little guy?” There’s no threat in his voice, no sign of what he might do if I should lie, and he doesn’t need to. I have no illusion that I could lie to someone like him anyway.
+
+I move kinetic energy through my body to help myself stand and look him in the eyes as I explain, “I’m here from the tutorial because of a Beyond quest she gave out. During the quest, we found out that she had created this barrier and that she was using it to infect people with a virus meant to spread and kill demons only. To make sure my disciple and her friends could survive, I broke the barrier in a way that I hoped would catch your attention.”
+
+I stop there. He stares at me like he’s waiting for me to continue, but I don’t. Everything that matters has already been said.
+
+He laughs shortly. “I don’t remember all those treaties and rules we agreed on, but I’m sure this breaks quite a large number of them. Little Champion, tell me, why couldn’t you just declare war on a demon Champion or two and fight for their territory?” His voice sounds almost disappointed as he talks to her, still not looking away from me.
+
+This time, Magistra keeps silent without being told to. I notice her body shaking, the faint tremors of fear she’s trying to hide. The Absolute surely reads every twitch of her muscles, every nervous breath.
+
+“Human boy, what should I do?” the demon Absolute asks.
+
+“How the fuck would I know?” The words slip out before I can stop them, my tongue getting the better of me. I snap back to reality and force my hazy mind to focus.
+
+“Maybe I should kill everyone below us, just to make sure we’ve gotten rid of that nasty virus.” The Absolute puts his hand on his chin and smiles at me while my Ignition Heart keeps beating in his other hand.
+
+The first thing I feel hearing that is anger. More blood gushes from my wound as I tense my body, and for the shortest moment, the black orb floating above us halts, almost as if it were listening to something. The thinnest thread of mana reaches out of it, extending toward me, looking like a spider thread trying to escape a whirlpool.
+
+Then the moment passes, and the thread disappears back into the hungry black orb, which then continues its devouring anew. I cough and feel more blood fill my mouth.
+
+Laughing, the Absolute walks a few steps around, seemingly thinking for a moment, before turning to Magistra. “We don’t want this fine young lad to vanish when his quest giver dies, so I’ll spare your life for now and allow you to live a few minutes longer. You will go and challenge one of my Enforcers to a proper demon duel right away. Go, little Champion.” He waves his hand dismissively.
+
+Magistra leaves without a word. And that’s it. Even with my body in this state, it sends shivers down my back, seeing how easily the man in front of me commands someone of her level. And the fact that she didn’t even try to resist makes it even stranger. It makes what she tried to do feel that much crazier. What was she thinking? Have I missed something?
+
+Before I can even process it, I feel a sharp push against my chest. Looking down, I see the Absolute’s hand buried in it, punching another hole straight through, this time from the front instead of the back.
+
+He pulls his hand free, and inside my chest, I feel my Ignition Heart exposed and trembling.
+
+Then, this insane demon uses his will to force the third seal fully open, flooding my body with a Champion grade torrent of thermal energy. But before I can be burned to a crisp, the Absolute guides it, controls it with patterns similar to mana cycling, and yet somehow completely different. The sheer amount of thermal energy drives my passive ability to full activation, using that overwhelming energy to its absolute limit.
+
+It only takes a few seconds, but when it’s done, he pulls his presence back, and the seals fall back into place again. My body is whole. Weak, but already regaining its strength.
+
+“There are a few reasons I’ve decided to let you live,” he says with an excited smile as he explains. “First, and the second most important one is that I liked your answers. No bullshit, no pretending, straight to the point. I am a busy man, so I appreciate that. That was a lie. I'm not busy at all. Another reason is that I sense my daughter’s primordial energy on you, and I can tell that you’ve spent a few days with her and those kids around her down there. Your desire to save your disciple and her friends, probably included her too, so that's it. You also remind me of that man when he was younger. Damn, if that human wasn’t something truly glorious in his bloody rage.”
+
+He takes a step forward, and that typical demonic maniacal expression spreads across his face. His eyes open wide, his pupils shrink, his eyes glow even redder as he leans close and whispers, “But most importantly, I sense a mark on you. Not the one from the Ruler, not even the one laid by that creature with the strange primordial energy, even though that one fascinates me too. No, I mean the one that was left by someone truly powerful. If you meet her again, tell her to come here and challenge me. Tell your master that. If you don’t, I’ve made it so your heart will explode in the next five to ten years. I’m not sure exactly when.”
+
+Straightening up just as suddenly as he leaned in, his hearts beat once, and he waves his hand toward the black orb. A pulse of kinetic energy hits it, launching it high into the sky and off into space, to become someone else’s problem as per usual. Then the Absolute disappears, and the force of his departure wipes the sky clean for hundreds of miles, leaving a clear ring without clouds that could be seen from orbit.
+
+Only then do the sounds return as the wind starts to blow through the area, and I know that I and everyone below are alive only because he chose to limit his power so much. That guy didn’t feel much weaker than Lissandra, almost as strong as she was back in the last days of Eladore.
+
+Once mana starts filling my body again, I take a deep breath of relief. Then I put on a brave face, push aside the thought of how close that was, and let myself drop lower, gradually landing near the remains of Randy’s house. As my minion leaps forward to hug me, my eyes flick to Tykka, and I notice how her face shares some resemblance with the guy who just left. Still, I decide to stay quiet about it.
+
+The kids are all healed and fine, so I let Lily heal me too, even though I’m sure it’s mostly for her peace of mind. While she does, I focus on reactivating my constructs and all the nodes, arrays, and systems I now feel almost naked without.
+
+“Thank you,” I tell Lily.
+
+“That was one of the craziest things you’ve ever done, Nat,” she says seriously.
+
+“So far,” I correct.
+
+“So far,” she nods.
+
+“Next time I’ll do better,” I reply, glancing around to locate Savant as he appears nearby.
+
+There isn’t a single wound on his body. Even his clothes look perfectly clean, which tells me just how easily he handled his fights.
+
+What an annoying guy.
+
+Stopping in front of him, I take the sword in my hand by the blade and offer it to him. He takes it with a short nod, and I watch as the Sword of Aeons sinks into his right arm. Sets of inscriptions flashing brightly for a moment before the light fades and the markings vanish entirely.
+
+“We’ve got a few minutes before our quest giver dies and we get sent back to Beyond. I guess this time there won’t be any quest rewards or bonuses. You could probably go around and do some looting if you want.”
+
+“It’s okay. I’ve already absorbed a few interesting things I managed to get my hands on.”
+
+“The virus?”
+
+“Obviously. And a few more. Lastly, I have a feeling you owe me.”
+
+“That is true. What do you want?”
+
+“My handler told me you know Brich from Crimson Forge?”
+
+“Somewhat.”
+
+“Good. Just help me get a meeting with him. I want to join Crimson Forge, but not under one of those contracts these crazies usually like to hand out.”
+
+I look at his hand, the one that absorbed the Sword of Aeons, and remember that Crimson Forge is one of the richest guilds in Beyond and currently number one in crafting.
+
+At this moment, Savant’s eyes look far too honest. Those are the eyes of a person planning something illegal.

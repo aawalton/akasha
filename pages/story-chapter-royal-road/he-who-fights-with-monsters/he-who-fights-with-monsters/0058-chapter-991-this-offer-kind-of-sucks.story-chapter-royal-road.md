@@ -1,0 +1,205 @@
+---
+id: 71ee7770-2a24-5629-b879-e629b2c6e685
+page-type-slug: story-chapter-royal-road
+title: "Chapter 991: This Offer Kind of Sucks"
+slug: 0058-chapter-991-this-offer-kind-of-sucks
+partOf: he-who-fights-with-monsters
+position: 58
+ownLength: 2501
+unit: words
+publishedAt: 2026-03-16
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3159799/chapter-991-this-offer-kind-of-sucks"
+royalRoadId: "3159799"
+---
+
+Raythe looked at home, wandering through the tree city of Arbour beside Jason. She was an elf with dark brown skin and light brown hair, flecked with green. The city was empty of people, the hard-packed dirt roads lined with fallen leaves. Only diffused sunlight made it through the canopy, creating a shady sanctuary. Hanging from the branches were many gourd-like pods, large enough to contain a mid-size sedan.
+
+“Is it unusual?” Jason asked, following her gaze as she looked at the pods.
+
+“See enough of the cosmos,” Raythe told him, “and you will find that everything and nothing is an oddity. Ordinary astral kings cannot use the planets in their astral realms to birth messengers, but you are not the first original to do so. Or to birth more than messengers. There are others like your lehenik to be found amongst the countless worlds.”
+
+“Forgive me if the question is rude, but may I ask how old you are? And how long you have been a prime avatar?”
+
+“I do not mind the question, but it is not one I can answer in any way you would understand. My relationship with time is not a linear one.”
+
+“Does that mean you can see the future?”
+
+“It means that I don’t believe in the future. Not the way you do. For you, the future is fixed. Whatever you encounter it as, when it becomes your present, is what it was always going to be. I see time as a series of interconnected points, the alteration of which ripples to the surrounding points and beyond, altering the whole. To those occupying those points, this process feels like a linear passage through time.”
+
+“And your job is what? To stop the ripples from tangling everything up?”
+
+“The process is a natural one. The only rule is that any given node in the pattern can only be directly changed by those within it.”
+
+“Meaning… no time travel?”
+
+“Or any other manipulation of time.”
+
+“Well, except the one way to travel through time, obviously.”
+
+She looked at him in confusion.
+
+“What way?” she asked.
+
+“Waiting.”
+
+She gave him a disapproving frown while he grinned to himself and conjured a sandwich out of thin air.
+
+“You want one?” he asked.
+
+“Please.”
+
+He conjured another sandwich that floated in front of her, bobbing along as they walked, until she reached out and took it. Rather than eating it, she held it in front of her like a specimen.
+
+“Your ability to manipulate material here is coming along,” she said. “Few are able to create a world as developed as this.”
+
+“Turning raw magic into food was a pretty easy one. Most organic material is a challenge, but it’s not too bad when it’s relatively inert. Living things are the trick. All the animals here, and even the plants, I created half-subconsciously at best. The secret is to create a seed and let it sort itself out. The Healer gave me something that taught me how to create the spark, but I don’t think I could create a living thing deliberately. But give it a chance, and life finds a way.”
+
+“I see. Most entities who create worlds are reluctant to surrender control of even the most superficial detail. All must be as they will, meaning that geological and biological diversity only comes as they master every aspect of creation, over the course of millennia.”
+
+“That sounds incredibly tedious,” Jason said. “You have to let things go. Let them become what they will on their own. Otherwise, all you’ll get is a reflection of yourself. I suppose that’s the point, for a lot of people looking to create a whole world. As acts of hubris go, it’s pretty up there.”
+
+Raythe didn’t interrupt, instead finally biting into the sandwich.
+
+“This conversation has been a long time coming, hasn’t it?” Jason asked.
+
+“I can see why you would think so.”
+
+“How’s Dawn?”
+
+“Nervous. She worries about what I’m going to tell you today. If I tell you.”
+
+“If? I’ve been waiting a lot of years to hear whatever it was Dawn didn’t want to tell me. It was already meant to have happened by now.”
+
+“There are two conditions you must agree to. The first is the reason I waited until your astral kingdom was complete. What I tell you must be kept from your prime avatar.”
+
+“I didn’t realise that was possible.”
+
+“It is. You have seen that half-transcendents make extensive use of avatars, largely to avoid violating the rules of intrusion. There is much about avatars that I can teach you, even if I don’t have a prime avatar. That includes vulnerabilities of prime avatars.”
+
+“Vulnerabilities?”
+
+“Your prime avatar is a place in which to seat your consciousness. That makes it a link to your true self, and there are ways to exploit that link. There is nothing that can be done to harm you, but there are ways to disadvantage you. To cost you time when you need it most.”
+
+“Alright. Why do I need to keep it from my avatar?”
+
+“I’ll explain once we’ve come to an accord.”
+
+“Then what’s the second condition?”
+
+“I think that is best explained after I offer you some context. You know that Dawn, before she left Pallimustus, warned you of a danger that she refused to specify.”
+
+Jason turned from the wide road of hard-packed earth onto a side street that sloped down and had tiles set into it. It led to a shallow gully with a stream running through it, winding its way around the trees. Bushes lined the gully, with a path running alongside.
+
+Jason led Raythe to a short wooden bridge where he stopped halfway across. There was a break in the canopy over the gully, lighting it up with sunlight from a clear blue sky. He leaned on the railing, looking out as he finished his sandwich. She stood waiting, finishing hers as well. There was a gentle breeze, carrying the clean, natural scent of the forest. The only sounds were the trickling water and the occasional bird call or buzz of insect wings.
+
+“Dawn told me that I was in a fight that I didn’t even know was happening,” Jason said, finally breaching the quiet. “She said I’d already lost.”
+
+“The situation was meant to come to a head already, but the timeline shifted when you claimed the soul forge, completing the requirements for becoming an astral king.”
+
+“Which you saw coming, I imagine.”
+
+“It doesn’t work like that. The pattern is always in flux. And while the timing changed, the facts have not.”
+
+“It’s about the bridge between worlds, isn’t it? The delay was because I put off completing it while I was off fighting with the great astral beings. Something is going to happen when the bridge settles and fully opens. Some kind of invasion?”
+
+“I will not furnish you with details until we have an agreement. What matters is what happens when you learn of what is to come. When you are faced with a fight that you cannot win.”
+
+“I know we haven’t hung out a lot, but doing the impossible is kind of my thing.”
+
+“Yes, and that is precisely the problem. I do not know if there is a way to prevent what is to come, but—”
+
+“How can you not know? Can’t you see the ripples or whatever?”
+
+“I can. And there is one node in the pattern acting like an infected wound, poisoning the bloodstream. That node is a point in the future. One where your future actions are the source of the corruption, as you try to stop something I don’t know is possible to stop. Events have been in play too long, and the chance to prevent it has passed. You, yourself, have been instrumental in bringing them to a head, all without realising it. You can’t win, but you will try. Multiple attempts, over and over.”
+
+“Multiple attempts?”
+
+“A time loop. Under normal circumstances, manipulation of time is restricted to minor, localised events. Looking into the past, slowing or speeding up a personal timeframe for a few moments. Many essence abilities work this way, but overt manipulation of, or travel through time is normally impossible. However, the impossible is kind of your thing.”
+
+“You think I’m going to loop time to try and prevent this mysterious thing no one will tell me about. That it’s bad enough that I’ll risk all the damage you’re describing. How would I even do that?”
+
+“You are intrinsically linked to the bridge between worlds. Dawn made sure of this, so that you would not be killed once your usefulness is done. You are immortal now, removing the need for that failsafe, but the link remains. You could bend that link to your own ends. You have the power and the knowledge to do so.”
+
+“I remember talking about this with Clive and Boris,” Jason said. “Earth and Pallimustus have synchronised time, right? Because of the way they were created?”
+
+“Yes. Normally, no two universes are synchronised, meaning there is no opportunity like this. But the folly of the original Builder, combined with your unique circumstances, have created one. It is for reasons like this that the Builder was sanctioned.”
+
+“Does it work? Do I find a way to stop what’s coming?”
+
+“I should say no, so that you will accept the pointlessness of the actions I seek to prevent. The truth is that I don’t know. That section of the time pattern is so damaged that I cannot tell. You might succeed, or you might create a cascading paradox cataclysm that wipes out at least one universe, probably two, and leaves behind a zone of astral ruination like a rotting wound in the cosmos. The ramifications of that, I do not know.”
+
+“And you want me to not do that.”
+
+“Yes.”
+
+“What is so bad that I would go so far? I threw away some of the most important years of my life to repair the Cosmic Throne. What would I do something so destructive over?”
+
+“Something that, to me, does not even begin to warrant such action. But the Cosmic Throne had no personal stakes for you. It was a duty. What is coming doesn’t just matter; it matters to you.”
+
+“Not to give you any ideas, but why didn’t you just bump me off, back when that was possible?”
+
+“My role is to ameliorate potential damage to the tapestry of time, with as little disruption to the framework as possible. Eliminating the one who would repair the Cosmic Throne would be a massive disruption.”
+
+Embarrassment flashed in her expression.
+
+“Also, Dawn talked me out of it.”
+
+Jason let out a chuckle, despite the seriousness of the conversation.
+
+“I even protected you during the battle of Yaresh by intercepting the diamond ranker moving to attack you.”
+
+“Would he have killed me?”
+
+“I cannot be certain. I told you that the pattern is in flux, even without your future actions affecting it. The wound caused by your time manipulation obfuscates events, especially as you draw closer to the critical node in time.”
+
+“And you want me to change that. To reach that node and not mess with time, given the option.”
+
+“Yes. Should you refuse, I will be required to take steps. Steps that become more damaging to the pattern the closer to the core node my intervention is. Which would be quite close, now that I have involved myself with you. I cannot afford to backtrail a timeline I have left in any given universe.”
+
+“But you still have options, right? Go to Earth when I was a baby and throw me into traffic.”
+
+“I could, but every path has danger. Your cooperation is by far the best answer.”
+
+“You’re asking me to take the loss without even telling me what the fight is.”
+
+“Yes.”
+
+“You think I’ll agree to that?”
+
+“I think you understand enough about the danger time manipulation poses to say yes now. Dawn believes that you will stay true to that agreement, although I have my misgivings.”
+
+“So, what you’re saying is that you’ll tell me everything, if I agree to hide the truth from my prime avatar and promise not to try and work out time travel. Or time looping.”
+
+“Dawn believes that simply being told the consequences will be enough to have you refrain from acting, even once you know the truth. I know you have sacrificed for the greater good before, but I do not share her faith. Not enough to bet everything on it, so I make you an offer. When the time comes, you will lose. You won’t even get a chance to fight.”
+
+“So far, this offer kind of sucks.”
+
+“There are places that even the World-Phoenix holds no sway. Realms where most great astral beings have no authority. This place, your astral kingdom, is one of them. But there are some great astral beings whose influence can be felt in all places, even here. They cannot intervene within this realm, due to the sanctity of the soul from which it was forged, but their rules still hold sway. The Keeper of the Sands is one such being. It allows me to see where others are blinded. Sometimes even to go where others cannot.”
+
+“You’re saying that I’m going to end up in one of these places?”
+
+“I am offering to find you when no one else can. To aid you when others are helpless, yet you need their help the most.”
+
+“I’m a universe. That shouldn’t be too hard to find.”
+
+“As I told you, there are vulnerabilities that a prime avatar possesses. No avatar I can make will match yours for power, once your power reaches its fullness, but that comes at a cost. You already know of one, in that prime avatars are not easy to replace.”
+
+“Someone can kill it, and force me to spend years rebuilding it. Is that’s what’s going to happen?”
+
+“That will be a choice you have to make in the future. The most I can do is prepare you to understand your options when they are before you.”
+
+Jason conjured a rock into his hand and tossed it into the creek running under the bridge.
+
+“If the stakes are really what you say, I don’t have a lot of choice, do I?”
+
+“There is always a choice. And you are known to be stubborn.”
+
+“It would be nice if there was someone to corroborate all that you’re saying.”
+
+“I suspected you would think so, and prepared accordingly. She didn’t want to see you until this was all over, but she knows what is at stake.”
+
+“She?”
+
+***
+
+Jason vanished from the city and appeared on his space station, outside on the hull, exposed to space. He was staring into the void when fire erupted into being as a dimensional vessel entered his realm. It looked like a spaceship shrouded in flames, in the shape of a phoenix.

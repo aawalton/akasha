@@ -1,0 +1,161 @@
+---
+id: 7b3522a1-91c3-516c-a6ae-3154e82a7a2a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1008: A Sufficient Spectacle"
+slug: 0076-chapter-1008-a-sufficient-spectacle
+partOf: he-who-fights-with-monsters
+position: 76
+ownLength: 2976
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3554406/chapter-1008-a-sufficient-spectacle"
+royalRoadId: "3554406"
+---
+
+The command centre of the operation was in Jason’s cloud palace. Banks of computers had officers with headsets seated at them, issuing directives and taking reports. At the front of the room was Michael Mills, his own monitor showing a video call with Farrah and Clive. On the room’s main screen was a map of the operation area, primarily Europe, with red lines spread across it like veins.
+
+“You’re telling me,” Michael said, “that those red lines represent a single living organism? It’s larger than Europe!”
+
+“It may not be living, strictly speaking,” Clive said. “The base form is a living thing, but McKean had obviously modified it heavily with vampiric blood magic. It may be some manner of undead plant, which is actually quite fascinating. It would be interesting if we could—”
+
+“We can’t,” Farrah said, cutting him off. “We’re not studying this thing any more than is required to kill it, Clive.”
+
+“That’s the problem with evil lunatics,” Clive said. “They produce some scintillating subject for scientific enquiry that you can’t pursue because you’re busy stopping them from murdering a continent.”
+
+“Just explain what we’re dealing with,” Farrah told him.
+
+“Please,” Michael said. “What is this thing?”
+
+“It’s called a blood root vine,” Clive said. “In its base form, it’s a magical plant modified through alchemy. It can spread underground, covering vast areas if you feed it enough magic and no one stops you. I have no idea how large they can get because someone always does stop you. I’ve never heard of one anywhere close to the size we’re seeing here. We saw one the size of a large town once.”
+
+“You’ve seen this thing before?”
+
+“Yeah. It was in an astral space where it could feed on the magic leaking in from the astral, and no one was around to stop it.”
+
+“Until people were around and we put it down,” Farrah added.
+
+“How did you get rid of it?” Michael asked.
+
+“A small army of adventurers,” Farrah told him. “Even then, it was only Jason’s endlessly proliferating afflictions that let us kill it.”
+
+“Will that work again?”
+
+“I don’t know,” Clive said. “This thing is a lot bigger than the last one, and obviously has been heavily altered. On the other hand, Jason is a lot more powerful, now, and we have a much bigger army.”
+
+“You said it’s been altered,” Michael said. “I assume these vines don’t naturally resurrect vampires.”
+
+“They don’t,” Clive confirmed. “One of the reasons a blood root vine is valuable is that it makes a highly mutable platform for other magic. If you want to scale up certain kinds of magic, you can modify one of these vines and let it grow. In places with high enough magical density, they use them in farming. Mostly for high-end alchemy materials. The vines are famous for being used in the schemes of madmen, but that’s only ever happened a few times. But it makes a better story, so that’s what they’re known for.”
+
+“And that’s what’s happening here,” Farrah said. “McKean has modified this vine to revive the undead.”
+
+“The good news,” Clive added, “is that it probably doesn’t work on any undead. Vampiric magic is unique in the way it interacts with life force. Vampires steal life force and used it to create an imitation of life. With themselves, that imitation is excellent. They are, for most practical purposes, closer to alive than undead. Derivative entities created using that same magic don’t work out as well. Ghouls, obviously. Now the blood oaks, and the new abominations created from them. We’d postulated years ago that McKean had access to one of these vines, and that the blood oaks were based on it. It’s the connection of vampiric power to life force that allows it to integrate with a living thing like the vine. That is why it’s unlikely to work with other forms of undead.”
+
+“Does any of that matter today?” Michael asked. “We need tactical solutions, not background information.”
+
+“What Clive is saying,” Farrah told him, “is that we at least don’t have to worry about an army of unkillable zombies adding to our troubles.”
+
+“Was that a concern?”
+
+“Do you remember Makassar, General?” Farrah asked, her voice grim. “I do. I saw the mounds of bodies piled high. Saw them rise up and start attacking people. Earth has necromancers, and we’ve seen how they view tragedy as opportunity. McKean isn’t the only danger out there.”
+
+“But he’s the one in front of us,” Michael said. “It’s good to know another threat isn’t on the table, but I need solutions to the one that is.”
+
+“And for that,” Clive said, “we need clarity on the nature of the problem. For what we’re seeing to be taking place, McKean has to have bound the souls of the vampires and their various minions to the vine. So long as the vine exists and enough magic is fed into it, the vine can repair or replace their bodies and shove their soul back in, rather than letting them drift off to the afterlife. If this planet had a god of death, they would be extremely unhappy about this.”
+
+“Are we seeing the revival effect everywhere the vine has reached?” Farrah asked. “Is it really as widespread as the reports I’m hearing suggest?”
+
+“It is,” Michael told her. “All the reports state that the vines are the key. Any flyers only revive after they hit the ground. If we could fight the vampiric forces away from the vine’s coverage, they might stay dead. Unfortunately, everywhere the vampires are, so are the vines. I doubt that is an accident.”
+
+“No,” Farrah said. “Either they located themselves where the vines were, or the vines were guided in their growth towards existing vampire strongholds. The latter would be my guess. The vines completely avoided Asano Clan territory, suggesting that McKean has a way to control the direction of the spread.”
+
+“At least we know how Jack Gerling kept coming back now,” Clive said.
+
+“And we were lucky you anticipated him not being the only one with that ability,” Michael said. “The contingencies we put in place at your suggestion have already been saving lives. Thank you for that, Mr Standish.”
+
+After Jack Gerling had been taken from the vampire queen by McKean, he’d appeared various times, conducting mysterious tasks for his new master. Despite what seemed like confirmed kills multiple times, Gerling would always reappear again later. Worried about that power spreading to the vampires, the Earth forces had developed a contingency at Clive’s suggestion. Essence users with the power to drain life force had been attached to as many of the deployed units as possible.
+
+“We’re seeing positive results,” Michael continued, “but the coverage is far too small. We only have so many people with the right powers, and all the vampiric forces are resurrecting. Having just some of the vampires bringing themselves back to life was already a worst-case scenario. All of them doing it, and their minions? On this kind of scale? We don’t have enough people with the right powers to make them stay dead.”
+
+“We don’t even know if they will stay dead,” Clive pointed out. “It only slows down diamond-rank resurrection, but I doubt that what we’re looking at is that powerful. It could be that draining the life force severs the soul’s link to the physical form of the vine, freeing the soul to pass on. We can’t trust that to be the case, though. Not until we get into McKean’s lair and look at his research. General, you have to be prepared for even the vampires we appear to be killing to get back up.”
+
+“I’ll make sure the commanders know to watch out for it,” Michael said.
+
+“Clive,” Farrah said. “If the vampires have all had their souls bound to the vine, what happens if we kill it?”
+
+“It’s very possible that the vampires will die with it,” Clive said. “At the very least, the result will be crippling.”
+
+“You wanted tactical solutions, General,” Farrah said. “I think you just found it.”
+
+“Then how do we kill the vine?” Michael asked. “I’m assuming you don’t have a tub of magical weed killer the size of Lake Michigan. You said Asano killed the last one?”
+
+“And he might be able to kill this one,” Clive said. “But probably not while it’s being actively fed enough magic to constantly resurrect a vampire army. We need to understand the vine if we want to kill it, starting with how did it get this big? How did a blood root vine spread across an entire continent without anyone noticing? There have been essence users all though Europe for years, taking back territory and rebuilding. How could none of us have noticed an aura of something that large? And what about the magic that had to be pumped into it? Enough to feed growth on a continental scale? The sheer quantity of magic that would take is absurd. How could we not have sensed that happening right under our feet?”
+
+“The grid,” Farrah explained. “I’ve just started using the grid as a platform for other magic, which is how we found the vine in the first place. It’s evident now that McKean has been using the grid like this much longer than I have, and in a more sophisticated way. I hate the man, but I have to acknowledge the brilliance of what he’s accomplished.”
+
+“How does it work?” Clive asked.
+
+“The grid channels immense amounts of power, but no one notices it because it diffuses that power and merges it into the ambient magic. McKean modified the grid to do the same thing with the vine. When I looked at the vine’s growth patterns against key nodes in the grid, I realised that he’d made it grow to follow those nodes. It’s not just a disguise for the vine, but the very platform that’s feeding it the magic it needs.”
+
+“Even so,” Clive said, “I can’t believe it went that long without being noticed. Someone would have stumbled into something over the years.”
+
+“I imagine they did,” Farrah agreed. “But what did they notice? The eightieth weird magic thing they’ve seen that week? Magic on Earth has been fluctuating wildly for decades, from the monster waves to the transformation zones to the dimensional bridge you and Jason built. Not even you have the time and resources to look into every strange aura and odd magical fluctuation you come across.”
+
+“But some I did. And I won’t have been the only one.”
+
+“Yes,” Farrah agreed. “There are curious people like you who would dig, and I imagine they did. There’s a long list of folks who mysteriously vanished in Europe over the last decade. Between the vampires and some of the Network branches colluding with them, they probably just killed anyone who stumbled onto the wrong thing.”
+
+“The Asano Clan territory doesn’t have anything,” Michael pointed out. “Did they keep the vine out of it to avoid detection?”
+
+“That would be my guess,” Farrah said. “Jason’s perception within his territory is absolute, and that’s quite well known. McKean was careful in restricting the growth to where the grid could effectively mask it. He wisely avoided letting it go anywhere near clan territory.”
+
+“What about the Network?” Michael asked. “How was he able to modify the grid without any of the Network factions noticing?”
+
+“The Network factions are part of the problem,” Farrah said. “They all have access to the grid, and they’ve all been playing games with it, trying to get an edge on their rivals. Unfortunately, none of them know what they’re doing. None of them have ever really understood how the grid works.”
+
+“They don’t know how it works? They’ve been using it for centuries.”
+
+“The same way most people don’t know how their car works,” Farrah said. “They just use it until it breaks down, and then they need someone to come in and fix it. Someone like me or McKean. He and I are the only people on this planet who comprehend the underlying principles by which the grid functions. Even the people that worked with us to repair it have a peripheral grasp of the concepts involved. At best. I didn’t think McKean understood them to this degree, but I was very clearly wrong. He may have a better grasp of the grid’s potential than I do.”
+
+“Okay,” Clive said. “That covers how the vine system got so big without anyone noticing all the magic being fed into it. Next we need to know where all that magic is coming from. The power required to grow and maintain a blood root vine of that size is astronomical. To constantly resurrect an entire army is an order of magnitude greater. Resurrection magic, regardless of the form, consumes massive amounts of magic.”
+
+“You’re right,” Farrah said. “Every time Jason came back to life, it pulled in so much magic that you could track it on the grid. Me too, for that matter. It’s how the Network found me when I came back to life.”
+
+“I’m following this the best I can,” Michael said. “You’re both dropping a lot of information on me. But if I understand correctly, you’re saying that we need to find the source of the magic feeding this vine, and then cut it off. Then we’ll have no more vampires coming back from the dead, maybe no vampires at all.”
+
+“I would call that a rough but sound working hypothesis,” Clive said.
+
+“Then where is that magic coming from?” Michael asked.
+
+“I have no idea,” Farrah said. “The power the vine is consuming has ramped up since it started reviving all these bad guys. Too much for even the grid to hide anymore, but we can’t find a source. As far as we can tell from monitoring the grid, the power just shows up. It’s appearing out of nowhere, like a continental-scale monster manifestation.”
+
+“Not nowhere,” Clive said. “Just not from Earth, or even this universe. The magic consumption for all these revivals is astonishing, and that power can’t be coming from Earth. If you siphoned away and burned off Earth’s ambient magic that quickly, we’d be seeing massive impacts. Localised climate shifts, physical matter breaking down. The warping of fundamental laws. Have we been seeing snowstorms in the desert, mountains disintegrating or gravity turning off?”
+
+“Not that I’ve had reports of,” Michael said, “but who can say when there are gold-rankers in full combat mode? One of your team members dropped hurricanes on Serbia. If that’s not a localised climate shift, then what is?”
+
+“It would be worse than that,” Clive said.
+
+“It would interfere with ability use as well,” Farrah pointed out. “Not to mention creating black spots in the grid coverage. We’d know if it was happening, which means Clive is right. McKean is sourcing absurd amounts of magic from somewhere that isn’t Earth, and there’s only one place it could be. It has to be the astral, right?”
+
+“It does,” Clive said, “although that brings up countless more questions. The deep astral is an infinite ocean of unadulterated power, but how is he getting it to Earth? How is he filtering and stabilising the raw magic? Could McKean have reconfigured the grid to do all that?”
+
+“Not directly,” Farrah said. “He’d need something to draw from. A hole in the dimensional membrane of the universe, but it would have to be stable. Is that even something that can happen?”
+
+“It’s happened before,” Clive said. “The transformation zones naturally formed to seal dimensional breaches, like wounds scabbing over. We know it’s possible to stabilise a breach and tap it for power because that’s what Jason did with his spiritual domains. If McKean studied the transformation zones enough, maybe he figured out how to replicate some portion of that.”
+
+“Wait,” Michael said. “Asano is doing this as well?”
+
+“Asano Clan territory is more than just lines on a map, General,” Farrah said. “Within his domains, Jason can all but rewrite reality. The power to do that doesn’t come from nowhere.”
+
+“Could that be what McKean is using?” Michael asked. “Instead of figuring all of this out, could he just be tapping into the power Asano is using?”
+
+“No,” Farrah said. “Clan territory is isolated from the grid, so McKean couldn’t feed the magic into it. Plus, every indication is that he was careful to skirt Jason’s power. If that vine had encroached into Jason’s spiritual domains, he would have noticed, regardless of what McKean did to hide it.”
+
+“Then how do we find the source of this magic?” Michael asked. “I don’t care how McKean did all this, just that it stops. Our forces are winning every engagement with the vampires, and we’re forced to retreat anyway. Our resources aren’t infinite, and if theirs are, we lose.”
+
+“We stick with the plan,” Farrah said. “It’s just that now we know what we’re looking for, and what we have to do about it. We sneak into McKean’s base and turn off the spigot.”
+
+“Very well,” Michael said. “I was holding off on deploying Asano until we saw what unpleasant surprise McKean had waiting for us. Now we’ve seen it, so I’ll give him the green light. The rest of you assemble your team and get ready to move. Hopefully, he makes a sufficient spectacle of himself to draw McKean’s attention.”
+
+“I’m sure I’ll manage,” Jason said as he strode into the command centre. All eyes turned despite how busy the staff were at their consoles. Jason stood in the doorway, wrapped in a void. Only his blue-orange eyes were visible in the impossibly deep darkness of his hood.
+
+“Don’t worry, General,” he said. “Making a spectacle of myself is kind of my thing.”

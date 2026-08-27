@@ -1,0 +1,193 @@
+---
+id: 095a4838-e522-562c-91b0-93b6ef0aa732
+page-type-slug: story-chapter-royal-road
+title: "204. Boys Will Be Boys"
+slug: 0204-204-boys-will-be-boys
+partOf: god-of-trash
+position: 204
+ownLength: 1930
+unit: words
+publishedAt: 2025-10-02
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2646638/204-boys-will-be-boys"
+royalRoadId: "2646638"
+---
+
+He took a quick trash can teleport to his old trash pile base. Korii was wandering around, looking for something. Rhys waved, and she walked over.
+
+“Something I can help you with?” she asked.
+
+Rhys nodded. “I’m looking to be alone for a bit. Can I help you find whatever you’re looking for, so I can have some alone time?”
+
+Korii waved her hand. “It’s not that important. I was just looking for another vat. If you’re in urgent need of this space, I can vacate, no problem.”
+
+Rhys tilted his head, extending his mana senses, then waved his hand. From deep under the ground, a buried old pot leaped up. It was dinged, rusty, and filthy, but they were brewing impurity soda, so that was perfectly fine. “How’s that work?”
+
+“That… I suppose that works excellent,” Korii said, a little taken aback. She tilted her head. “How did you find that? How deeply was it buried?”
+
+Rhys coughed. “I might’ve just done a little training to extend my mana senses. Don’t worry about it.”
+
+“Is that where you vanished to?”
+
+He opened his mouth, then closed it, not sure how to explain that he’d expanded his mana senses so he could steal a secret realm, but pretty sure that it wasn’t the kind of thing normal mages did. “Yeah. Yep.”
+
+She gave him a look, then shrugged and picked up the vat, hugging it to her body. “I’ll see you later, then.” With that, she walked over to the tunnel and vanished back toward their shop base.
+
+Rhys wandered around the hollowed-out trash heap. “So… Bast… just saying, if you’re around… I’m all alone now. You don’t even have to knock someone out to come talk to me.”
+
+In his head, he added, involuntarily, Oh, no, I’m all alone, it sure would be bad if a big, strong man were to pop out of nowhere and come talk to me, uwu.
+
+Rhys facepalmed, feeling physical pain. I’m so cooked. I’m so dead. The internet has poisoned me. They were right: anime was a mistake. And so was the internet. And porn, and rule 34, and—
+
+“You wanna say that a little more, uh…?” Bast said from behind him, a questioning tone in his voice.
+
+“You have no fuckin’ idea, man. You have no idea.” Rhys turned, still a little pained from his internal voice betraying him. He shook his head and offered Bast his hand. “Good to see you again.”
+
+Bast took it, and they clasped arms. “Good to see you too. I’ve got news.”
+
+“Good? Bad?”
+
+“Depends how you take it.”
+
+Rhys cocked a brow expectantly. Has the counterattack been called off? What’s going on?
+
+Bast crossed his arms. “First off, where have you been this last week? I’ve been trying to tell you for days.”
+
+“Leveling up, like I told Korii. Secondly… it’s still on, right?” Rhys asked, a little anxious.
+
+“Yes. Soon. Next week,” Bast said shortly. He put his hands on his hips. “I was trying to tell you earlier, but—”
+
+“Last minute leveling, man. It’s what you do, when there’s a boss fight around the corner. How long have I got? I kinda need to get some more trash,” Rhys confessed. His trash star was small right now as a result of his last-minute levelling surge. It wasn’t dangerously small, but it wasn’t comfortable-to-fight-the-big-boss sized, either. He needed to hit up some Impure Wells and trash heaps just for the energy to keep going.
+
+“Three days.”
+
+“Three—” Rhys pressed his lips together, thinking. He had three days. There were several Impure Wells within spitting distance of his trash can teleports, ones he’d been tracking for a desperate moment, and it sounded like that desperate moment was now.
+
+Three days. His mind went to the fast food empire. He had enough time to deploy the end-game food, but he had to start now. And levelling the others… that was a dream, at this point. Lira and Mouse would have to stay at Tier 2, and he and Sable would have to carry the group as the Tier 3s.
+
+No, it’s fine. We can be the fighters. Everyone else’s job is to continue to poison the enemy. He wiped his face, already exhausted. “Three days, huh.”
+
+Bast spread his hands. “You’re the one who was levelling for a week. That’s not my fault.”
+
+“True.” Rhys took a deep breath. “I gotta get moving.”
+
+Bast nodded. He looked at Rhys. “What form of support can we expect from you?”
+
+“I’ve got a fast food network that’s… important, and most of my men are only Tier 1. Sable and I are Tier 3, and Mouse and Lira are Tier 2. The four of us can fight. The rest of us… are probably better evacuated or unacknowledged. They have one more part to play, but once they deliver the final blow… they’re Tier 1. There’s not much they can do.”
+
+Bast smiled. He chuckled, shaking his head. “We were Tier 1 not that long ago, Rhys. What happened?”
+
+Rhys clapped his shoulder. “We grew up, Bast. We grew up.”
+
+“I grew up. I think you just started to match your age,” Bast said, eyeing Rhys.
+
+Rhys waved his hand. “Nah. I’m a fuckin’ skeleton. I’ve got one foot in the grave. I’ve still got too many years to go before I… anyways.”
+
+Bast raised a brow. “Knew you had a previous life.”
+
+“Oh, shut up.” Rhys paced back and forth, lost in his thoughts, then stopped. “Bast.”
+
+“That’s me.”
+
+“What’s your plan? On your end, I mean. The Alliance.”
+
+Bast shook his head. “You’ll know it when you see it. I wish I could say more, Rhys. I do.” He reached to the neck of his robes and pulled, revealing a mark shaped like a double diamond. From where he stood, Rhys could feel the mana emanating from it, and the sensation of silence and secrecy that came with it. Compared to Mouse’s secrecy, it was a brick, about as subtle as a fist to the face, but not everyone had the subtlety that Mouse did.
+
+Rhys wrinkled his nose. “Gross.”
+
+“You’re telling me. I have it on me. The price of being the Sword Saint’s apprentice. The cost of the Alliance.”
+
+Rhys paused for a moment. “When you’re done, the mark…”
+
+“There’s not much I can do.”
+
+A longer pause. “Do you want it on you? Do… do you want to stay with the Alliance?”
+
+He’d never considered that. He’d never thought about whether or not Bast wanted all the politics and social obligation that came with being the Sword Saint’s apprentice. Bast was a powerful swordsman. A one-in-a-million talent. It seemed like a waste for him to be under anyone else, but… it was Bast’s call. It was his life. Or so Rhys thought, but now that he was the Sword Saint’s apprentice, learning the Sword Saint’s techniques, he was obligated to remain as such, wasn’t he? Obligated to remain as part of the Alliance. Obligated to do certain things, because of the power he was being taught. Power carried responsibility, no matter what, but there were times that responsibility felt more like a weight around one’s neck. He didn’t want that for Bast. He’d never thought that encouraging Bast down this path, would end that kind of way.
+
+Bast pressed his lips together. He shrugged.
+
+Rhys stepped forward. He leaned in. “Do you want me to get you out of it?”
+
+“Why would I want that?” Bast met Rhys’s eyes. He stared deeply into them.
+
+“Right. Why would you want that?” Rhys replied slowly, understanding. It wasn’t just a secret-keeper, but some kind of compulsion as well. He narrowed his eyes. I’m starting to think that the Alliance isn’t all that great of a group, either.
+
+“Tell me something I don’t know,” Daran murmured in his ear.
+
+Since when can you read my thoughts?
+
+“Heh.”
+
+Rhys stepped back. He looked at Bast. “Hey. After this, let’s hang out. Just you and me. Go be hermits in a mountain and train, okay?”
+
+Bast snorted. “That sounds fun, but I’ll have to ask Master.”
+
+Damn, really? “Surely he couldn’t disagree with a bit of training between two disciples?”
+
+“Master… will agree,” Bast said, once again making intense eye contact.
+
+Ah. There’s someone else. Someone else in the Alliance. “Just for a few days. Surely the Sword Saint can afford to let his apprentice have a few days.”
+
+“A few days?” Bast raised his brows, disbelief in his voice.
+
+“A few days,” Rhys said firmly.
+
+“…I think I could negotiate that.”
+
+Rhys thumped his shoulder. “See if you can. You need some time off, Bast. You need this. It’s your right.”
+
+Bast gave him a wry smile. “An apprentice doesn’t have rights.”
+
+“What about a friend, huh?”
+
+“A friend has even fewer rights.”
+
+“Well… yeah, that’s true.”
+
+Bast paused. He looked Rhys up and down. “You’d do that for me?”
+
+“Sure.”
+
+“You’d make… a lot of enemies.”
+
+“I’ve already made a lot of enemies. What’s a few more?”
+
+“But that’s…” Bast glanced down, then back at Rhys. “Seriously? You would?”
+
+Rhys grinned. “It’s kinda trashy to take on the whole world at once, right?”
+
+“I guess so,” Bast said, finally breaking out into a smile. He clasped Rhys’s shoulder back. “Just the two of us, huh? On a mountain? Sounds amazing.”
+
+“Yeah. Just the two of us.” Rhys nodded. “Just us two.”
+
+Bast nodded to himself for a few seconds, then glanced at Rhys. The smile evaporated as he turned serious once more. “In three days, it starts. Make your final preparations. You’ll know when it happens.”
+
+“Understood.” Rhys saluted.
+
+Bast saluted back. “And when we’re done…”
+
+“Mountain. You do your negotiations and tell me when, because I’m a free man.”
+
+“Yeah. You got it.”
+
+“Just a little trip. Just a few days.”
+
+“Yeah. Yeah.”
+
+“See ya, Bast.”
+
+“See ya.”
+
+Bast backed away. He tapped the side of his neck and nodded, then whirled and stepped into the night. Despite his bright white garb, within the space of a second, he’d vanished, leaving Rhys all alone under the trash heap.
+
+Rhys stared at the floor. He rubbed his chin and took a step back, still handling the information he’d been handed just now. He hadn’t exactly been a drinker of the Alliance’s kool-aid, but he’d thought they were at least okay people. No governing group was perfect, and he knew that, but putting compulsions on people? Not allowing Bast to leave when he wanted to? That was… that was worse than he was expecting.
+
+We’ll break Bast out, and then we’ll consider our next steps. Maybe it had only been because of this tense situation. Maybe there was some other corroborating factors.
+
+Maybe they fucked my friend, and maybe fuck them, a visceral part of him responded.
+
+Rhys thought for a second, considering countering the voice, but then nodded. Yeah, you know what? Fuck ‘em. They were allies until the Empire fell, and then, well, then he’d see. Once he got the mark off of Bast and got the real story, then he’d figure out what he was going to do with the Alliance, if anything. But ‘keep working with them’ definitely wasn’t the answer.
+
+Rhys clapped his cheeks, drawing his attention back to the moment. Three days. He had three days to make his last preparation for the counterattack, and then… and then it was time. Time to take on the Empire at last. Time to face down the Empress.
+
+Holy shit, I have so much to do.

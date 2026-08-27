@@ -1,0 +1,325 @@
+---
+id: d00c7870-3884-5972-b9d1-a5343c6568a1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32"
+slug: 0032-chapter-32
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 32
+ownLength: 3297
+unit: words
+publishedAt: 2025-12-23
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2873841/chapter-32"
+royalRoadId: "2873841"
+---
+
+Chapter 32
+
+Edward waved in the general direction of the adventurers. “Good teaming up with everyone. Good luck with the rest of your day.”
+
+A few nods were exchanged, some of the teams chatting with each other but Reka had already called for one of the elevators.
+
+Reka and Hayden supported Veron as they stepped onto the platform, the team making sure all of them were stable before they gave the signal for the handlers to have them pulled up.
+
+“Where do we go?” Veron asked when they started to ascend.
+
+“The central healer station,” Reka said.
+
+“It’s right next to the pit,” Hayden added.
+
+Veron looked at Silvie. He now carried her in a princess carry and Hayden occasionally checked on her and the wound on her shoulder. As far as he understood, she mostly needed rest. That and medicine to counter infections. He assumed the pain would be bad too once she woke up, and he had no clue how that was treated here. He hoped they had some good meds, or additional magic.
+
+And maybe even a way to somehow reform her arm…
+
+The healer station was one of the many four story structures surrounding the dungeon pit. Veron noted the many other injured making their way towards the large open double doors. Above the entrance, he spotted the five golden swords of the Guild engraved on a background of white. Golden letters spelled out Healer Station below the sigil.
+
+Inside, he immediately noted the smell of blood and death, all covered in a veil of herbal scents. There were signs pointing to various places, including an emergency hall immediately to the right. Everything was white marble, the ceiling reasonably high, bright magical lights illuminating everything. Hayden led them to the queue for standard admission.
+
+“I’d like for her to get her own room. Can you get some of my silver from the inn?” Reka asked.
+
+“How much is it?” Veron asked. “I have some of my silver inside of my armor.”
+
+“Oh, that’s smart.” Hayden said in a quiet voice.
+
+Reka blinked her eyes, and gave him a tired smile. “That’s helpful. Yeah. And I don’t know, five to ten silver a night I assume.”
+
+“Get your badges ready,” Hayden said.
+
+They reached the front of the queue soon after, a tired looking assistant glancing them over from behind a counter. “Guild?”
+
+“Yes,” Reka said and handed the assistant all of their badges. “Silvie is the patient.”
+
+The assistant nodded, a young woman in her early twenties. Her face was covered in a rash, her skin pale. She wore simple and long clothing in white, an iron guild badge pinned above her chest. “Injury?”
+
+“She lost her right arm to a Cayaralan. I cleaned the wound as best I could, stopped the bleeding, healed with Devotion adequate apprentice one healing, applied Sevan grass, and stitched shut with steel wire, seventeen stitches.”
+
+The assistant glanced at Silvie, then her shoulder. She didn’t even blink, jutting some of the information down into one of the large books on the desk behind the counter. “Do you want special accommodation? Anything beyond the shared common rooms needs to be paid.” She was still writing, now onto a smaller note.
+
+“How much is a private room?” Reka asked.
+
+“A single room is seven silver a night here. With her injury, I expect she should be moved to another healer station by tomorrow or the day after.”
+
+Reka glanced at Veron, who connected to the rock protecting his upper left arm, opening it up to reveal the larger silver piece he had stored inside, the plate worth a hundred silver.
+
+“Take it,” he said, still holding onto Silvie.
+
+“Thank you, Veron,” Reka said and paid, the assistant adding to the notes, then ringing a small bell. Another assistant rushed to her, receiving the note she had written, then nodding to the group and gesturing them to follow him.
+
+“A good day to you,” the first assistant said, already looking past them. “Next.”
+
+Veron followed, glancing behind himself to see two people supporting a man with bandages wrapped around his chest. They were covered in dirt and blood.
+
+He noted that his own group was covered in dried mud as well. They weren’t the only ones leaving dirty boot prints on the marble floors.
+
+The place was busy, people rushing about, many clad in white, others in gray, or shades of brown. There were people cleaning but it looked like they couldn’t quite keep up. The assistant tasked with bringing them to the right place led them up two flights of stairs, down a hallway, and into a small room with a single bed, two chairs, a small desk, and a small bathroom.
+
+“I’m Lucan. Someone will be with you as soon as possible. Plenty of anomalous movements in the dungeon these past few days, which means you may have to wait for a while. You’ve got a healer, right?”
+
+Hayden nodded.
+
+“If her condition worsens, or if she wakes up, ring the bell,” Lucan said and pointed to a weighted string hanging down towards the bed. He glanced at Silvie and wiped away some sweat from his forehead. “Nasty that. Cayaralan?”
+
+“Yeah. Suddenly came into the marshes,” Hayden said. “We can handle a few… but…”
+
+The assistant nodded. “She will make it. Down the hall to the right is the common room on this floor. You’ve got the small bathroom here and cleaning supplies in the cupboard. The restaurant is on the ground floor, left of admission. If you have any questions, down the hall to the left is the assistant room. Anything you need right now?”
+
+Hayden glanced at Reka, then Veron.
+
+“No other questions? Good, then I’ll leave you be for now. Good work getting her out.” The man looked at them each with his dark eyes, then nodded, and left, closing the door behind him.
+
+It was quiet.
+
+Reka sat down on one of the chairs, touching her face as she started quietly sobbing.
+
+Hayden sighed and finally took off his helmet. He looked tired, and angry, breathing deep and fast.
+
+Veron closed his eyes for a moment, then glanced at Silvie lying in the bed. Still covered in blood, still in her armor, still out. He went and opened the window, then touched Reka’s back.
+
+Hayden checked on Silvie, crouching down next to the stump that remained of her right arm. Around ten centimeters from her shoulder. “She won’t like it when she wakes up.”
+
+Reka wiped away at her face before she breathed in sharply. “This sucks.”
+
+“Veron, can you clean up and help Reka do the same? Then get some food and water,” Hayden said.
+
+“Sure,” Veron said and helped Reka stand up, then led her to the bathroom. He was glad they had a sink, and he quickly found towels and soap in the cupboard.
+
+He helped her out of her armor, and then took off his own. Their clothes were ragged by now. He was glad there was no mirror.
+
+The cold water helped, splashed against his face before he got to work, first helping the exhausted Reka and then cleaning up himself. They didn’t speak.
+
+When he was done, he helped Reka back to the chair, put on his armor again and made to leave. “I’ll get something to eat.”
+
+Out in the hall, Veron took a few conscious breaths and then went past the common area. There were chairs with a few people waiting, two in half-plate armor, a young man in leather armor, and a middle aged man in fine clothing. None of them were speaking as he walked past and made his way to the stairwell. The restaurant was simple, but had everything he needed. He bought water flasks, fruit, nuts, bread, and some dried meat, then brought everything back to the room where they quietly shared everything.
+
+Reka had moved her chair next to the bed and Hayden leaned against the wall opposite.
+
+Then they waited.
+
+Veron got another chair after asking one of the assistants. It seemed that they were glad for anything the adventurers could take care of by themselves, busy preparing medicine, potions, or assisting who seemed to be higher leveled healers.
+
+Hayden had taken off most of Silvie’s armor, cleaned what he could, and covered her in the blanket the hospital provided. They waited more.
+
+“Can they regrow her arm?” Veron asked after a long period of silence.
+
+“No,” Hayden said.
+
+Veron nodded.
+
+“There are healers like that, but even if any of them were here, let alone willing to treat her, she wouldn’t survive it. Regrowing a limb is the kind of thing Gold and Platinum level adventurers can consider, if even them.”
+
+“Makes me feel worse to know it’s possible at all,” Reka said. “This is my fault.”
+
+“It’s not,” Hayden said.
+
+“We knew the beasts were behaving strangely. We heard it right when we arrived. And I didn’t take it seriously.”
+
+Hayden didn’t say anything.
+
+Veron thought about what to say for a while.
+
+“We’re here now, and she’s alive because of you, and us.”
+
+Reka gave him a look, then grunted. “I know. Doesn’t make feel a lot better.”
+
+“Yeah. It sucks,” Veron said.
+
+She touched Silvie’s hair.
+
+“She will never be able to fight again. Not like she used to. She’ll have to relearn how to inscribe with her left hand, let alone everything else.” She shook her head.
+
+A knock came from the door a while later and a woman in a white robe walked in, two assistants in white behind her. She was tall, had graying hair, and dark green eyes. A small golden badge glinted near her chest. “Devana Crown, Devotion healer at the Guild. You’re the Silver Wolves, Iron team?”
+
+Reka stood up and shook her hand. “Yes. I’m Reka, thank you for coming.”
+
+“Of course. May I have a look? Silvie, was it?”
+
+“Yeah.” Reka stepped aside.
+
+“And you’re the healer?” Devana asked, greeting Hayden.
+
+He nodded.
+
+She glanced at Veron and blinked, then checked on Silvie, inspecting the wound. “Cayaralan got her arm?”
+
+“Yes,” Hayden said.
+
+“How long has she been out?” She checked her pulse.
+
+“Around four hours now.”
+
+Devana’s index finger started glowing white before she nodded to herself. “She’s stable. The stitches and healing saved her life but she’s going to have a lot of issues with that wound and scarring if it stays like that.”
+
+“You want to redo it?” Hayden asked.
+
+“I do. There’s a small risk, as always, but I’m confident she’ll make it.”
+
+“What happens if we leave it?” Reka asked.
+
+Devana considered. “There’s a lot of tissue there. It won’t heal well, and not properly. She’d have to check for infections and clean the area three times a day. And the pain, I would imagine she would require concentrated potions to deal with it. Daily.”
+
+“For how long?” Reka asked.
+
+“I’m afraid for the rest of her life.”
+
+Reka breathed in sharply. She was quiet for a moment, and then spoke up. “And fixing it would help with that?”
+
+“A lot, yes. There will still be issues and pain, but less.”
+
+Hayden sighed. “When would you operate?”
+
+“I’d like to do it tonight, but depending on what comes in until then, we might have to schedule for tomorrow.”
+
+Reka looked at Hayden.
+
+“She’s tough,” he said, though he didn’t sound entirely certain.
+
+“Do you have blood potions?” Reka asked.
+
+“I don’t judge the risk high enough,” Devana said.
+
+Reka glared at her, opening her mouth, then snapping it shut. “If we procure one ourselves?”
+
+“If you supply it, we can use it before the surgery. But we can’t check for authenticity.”
+
+“I’ll have it checked if I find one,” Reka said.
+
+Hayden gave her a glance. “How will we afford it?”
+
+Reka took out her necklace. “We still have around fifteen thousand here.”
+
+“We’d be without relics.”
+
+Reka shook her head. “That doesn’t matter, Hayden. I’ll go look. Do the surgery, earliest possible.”
+
+Devana nodded, then glanced to one of the assistants. “Jivera Flower, half a small flask for when she wakes up. See if we have a slot by eleven. If we don’t, schedule for nine in the morning.”
+
+The assistant jutted the info down and nodded, then left.
+
+“Someone will let you know if we can operate this evening.”
+
+“You said the risk was low, but would you use a strength potion if you could?” Reka asked.
+
+“It always helps. If you want to be certain, then yes. I wish we had more in stock, but we have to keep them for patients in more critical condition.”
+
+Reka sighed, then looked at Silvie.
+
+“I’ll likely be seeing you later. Until then,” Devana said and left without another word.
+
+“How much is one of those potions?” Veron asked. “I should have around three thousand still.”
+
+“That’s your silver,” Hayden said.
+
+“I can earn more,” Veron said. “You already gave up one relic.”
+
+“Are you sure?” Reka asked, starting to pace. “Maybe we have enough then. I should have another three thousand. Hayden?”
+
+“Two thousand in the room.”
+
+“Eight gold total. That might be enough. No it should be enough,” Reka said and nodded to herself. “We’d be almost out of coin afterwards.”
+
+“Try to haggle,” Hayden said.
+
+She gave him a slightly crooked grin. “Those damn fuckers down in the Gutter. I’ll rip out their throats if I find them.”
+
+She checked around, then sighed. “We don’t even have a pack anymore. Alright. I’ll go collect the coin and look for a potion. I’ll get your spare clothes and stuff too.”
+
+“I’ll stay,” Hayden said. “And if it’s possible, I’d appreciate if you could stay at the station too, Veron. We might need some things, and I don’t trust this place enough to leave her alone in here. Not with them so busy.”
+
+“Of course,” Veron said and handed Reka his silver. “The rest is in a satchel in my new coat. Now that I think about it. You can sell that too if it’s not enough. I bought it for seventy silver at Ina’s Tailor shop. How much is the mace worth?”
+
+“Keep it. I’ll come back here if we need more silver. Eight gold should be plenty for a potion like that,” Reka said. “Thank you, both of you. It’s good to know you’re here.”
+
+“Go,” Hayden said.
+
+She nodded, and left.
+
+Veron stayed back with Hayden, both of them quiet for some time.
+
+“Do you mind if I’m alone here for a while?” Hayden asked.
+
+“Sure, I’ll see if I can get a shower,” Veron said. “And I’m here, if you want to talk. You don’t have to carry everything on your own.”
+
+Hayden grunted, and Veron left the room.
+
+Guess now the waiting game starts. I’m glad the Guild pays for and maintains all this.
+
+He looked down at his hand and wondered if there was a place here where he could feel the winds. But first, he finally went to get a proper shower.
+
+Veron found access to the roof some time later, going there after informing Hayden. There were only a few adventurers up here, likely due to the cold winds and the light snow that had started falling. Steel railing surrounded the roof and Veron sat down to focus.
+
+The wind was cold and he shivered slightly, though he knew that without his Path, he would be freezing. He closed his eyes and focused, just connecting to and listening to the wind as it brushed past him, past the roof of the healer station, through the alleys of Anvakar, and out into the northern lands. He breathed deep, time and time again, all the way until his Focus was used up.
+
+Veron felt calmer, more present, when he opened his eyes again.
+
+Then he lay down on his back. Even he was getting cold now. He would have to go back inside soon.
+
+Things were working out so well when we started. One group of beasts and everything goes south.
+
+“And we even get robbed. What the fuck was even that?”
+
+What would’ve happened if Reka didn’t have that relic to help her kill the ants? What would’ve happened if we talked back more? If we had refused to give them anything. Would they really have attacked us?
+
+In the end, I think we handled it pretty well. And we got Silvie out, got ourselves out.
+
+Veron felt conflicted, different emotions pulling in different directions. He let them all be.
+
+He was angry that there wasn’t more security here to prevent what had happened but at the same time, he felt grateful that the Guild seemed to care about keeping their adventurers alive at least. Even now that it was clear that Silvie would no longer be capable of fighting with the same capability. Maybe she could try with one arm at some point in the future, but he knew that was a stretch. She had her magic still at least.
+
+It just seemed so strange that one attack from one monster would change her life so much.
+
+You know that’s how things are.
+
+I guess I hoped that healing magic would change that.
+
+Veron raised his hand and looked at it, then touched his neck. Right where the Cayaralan above had struck him. He wouldn’t have made it out without extracting its essence, and without Hayden’s healing.
+
+Veron found that he didn’t feel a ton of worry. He couldn’t control if the surgery went well, but knowing Silvie, and having seen that doctor, or healer, or whatever she called herself, he felt confident she would make it. Most of their coin would be gone, but he could repair some houses if needed. He supposed his next weeks would depend on what the Silver Wolves wanted to do. And he was fine with that. He owed them a lot, and he cared about them.
+
+I did hope I could bring back less depressing tales to Ian. Though I suppose telling him about the Gutter itself should be exciting. And about the Crypts and those Silver adventurers.
+
+Veron smiled to himself. I suppose there could be more, depending on how things go.
+
+He sighed and focused on the now. On today.
+
+Reka returned less than two hours later, with new packs, their things, and a Blood potion that would help Silvie power through the healing magic of the surgery.
+
+They waited and had dinner together in the small room.
+
+An assistant came in the evening, letting them know they would start in half an hour.
+
+Silvie was moved with a stretcher and they waited in front of a closed surgery room until it was done.
+
+Devana stepped out a little over an hour later, taking off the cloth covering her mouth and nose. “She pushed through. That was a nasty wound, worse than it looked. You did good work, Hayden. She’ll be brought back to her room and will be transferred tomorrow morning. An assistant will talk to you about that.”
+
+“How did it go?” Hayden asked.
+
+“She will recover a lot better now, but I won’t pretend it will be easy. Keep an eye on the wound and if you can, use your healing for at least a few weeks, and keep it clean. I’ve ordered a few doses of Jivera Flower, at least for the first few days. They’ll be given to you later.”
+
+Hayden sighed, his shoulders dropping. “That’s a relief.”
+
+“Thank you for the work, Devana,” Reka said.
+
+Devana nodded. “Stay safe out there, and give her time. It’s not an easy adjustment.”
+
+“I can’t wait for her stupid jokes,” Reka said, bursting out into tears.
+
+This time, Hayden hugged her close.

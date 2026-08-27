@@ -1,0 +1,285 @@
+---
+id: c4d23c8f-d6f8-540a-aadb-5ff7441761a7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1001: It’s All Quite Australian"
+slug: 0069-chapter-1001-it-s-all-quite-australian
+partOf: he-who-fights-with-monsters
+position: 69
+ownLength: 3760
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3480528/chapter-1001-its-all-quite-australian"
+royalRoadId: "3480528"
+---
+
+General Michael Mills of the United States Army looked out through the window as the helicopter descended towards the military base below. He’d been stationed at Saint-Étienne before, two decades and several ranks ago. That had been before the Asano Clan went into hiding and the vampires had claimed full dominion over mainland Europe.
+
+Michael had heard the stories of Asano reclaiming his territory. Many didn’t believe them, for they sounded like the stuff of nightmares, but Michael knew better. He had seen with his own eyes the power of the vampire lords and the land of horrors they had made of the continent. He couldn’t imagine what it would take to make the vampires fear, the way they dreaded Jason Asano.
+
+Now it was time to finish the job. To eliminate the last strongholds of vampiric power, after years of clawing back territory. It would be the largest single military action in the history of planet Earth. A war in a day, simultaneously hitting vampire strongholds from Portugal to Pakistan. Participating would be every major magical faction, and the full military might of no fewer than forty-seven nations.
+
+Jason Asano had been pushing the Earth Defence Joint Initiative, the EDJI, for a decade. Michael had never thought it would happen, a level of integration that none of the major nations would accept. He’d been there for the negotiations, as China and Russia demanded more influence. His own United States had almost derailed the whole thing by demanding that defence be spelled in accordance with American English.
+
+The United States had not gotten their way, but it had been agreed to change the original name from Earth Joint Defence Initiative to Earth Defence Joint Initiative. This face-saving shift, designed to placate the need for the USA to look influential, also had an unintended side-effect. The EDJI was increasingly being pronounced in media and by the troops as ‘edgy,’ and Michael did not approve.
+
+It was the threat of military obsolescence that ultimately convinced the major powers to participate in the EDJI. It began with Asano Clan domination of the essence user landscape. They had a whole generation trained by Rufus Remore, bolstered by the arrival of Jason Asano and his otherworldly allies. Even more important was what the clan could offer the world. Their training regimens eclipsed even the elite US methods, and exchange programs established by the Saint-Étienne Summit Accords had raised the bar for nations around the world. This gave the clan vast influence on the world stage.
+
+Another clan asset that changed the way Earth handled essence users was the Quilido Procedure, a means of eliminating the taint of monster cores from an essence user. It was a slow and resource-intensive process, but it could unlock the potential of an essence user previously trapped at silver-rank. This included Earth’s most veteran essence users, making it extremely valuable to the established nations of Earth as they strove to compete with the magical factions.
+
+The first effective demonstration of the procedure had arrested the world’s attention. That example was an ex-Network paramilitary squad, recruited into the Asano Clan years earlier.
+
+***
+
+Nigel Thornton and his squad were on the busy airport tarmac of the Saint-Étienne Joint Military Base, on the edge of Asano Clan territory. They were making their way from the transport plane on which they’d caught a ride back to Europe after a training program in Africa.
+
+“We are not called The Wild Thornberrys!” Nigel Thornton yelled at his squad over the noise of aircraft and utility vehicles. “There’s a copyright issue, if nothing else.”
+
+“There’s no point making a fuss over what they call us, Thorny,” Higgy told Nigel. “Sometimes, you just have to surrender to a nickname. You can trust me on that.”
+
+“Why do we have to trust you on that?” Cobbo asked.
+
+“Uh, because of my nickname? My name isn’t actually Handsome Indian Guy.”
+
+“Yeah, we know,” Cobbo said. “Your name’s Higgy.”
+
+“No, it isn’t.”
+
+“I thought it was,” Cobbo said.
+
+“You gave me that nickname.”
+
+“Nah, mate, I don’t remember that at all. Doesn’t sound right. I think Higgy is your real name.”
+
+“It isn’t!”
+
+“Are you sure?”
+
+“Am I sure that I know my own name?”
+
+“Yeah, I thought it was Higgy as well,” Jonno said. “Darce, what’s Higgy’s real name?”
+
+“I thought Higgy was his real name.”
+
+“You can all get stuffed,” Higgy said.
+
+“Higgy, mate,” Orange said. “You can’t swear worth a sh—”
+
+“Knock it off,” Nigel told them. “Who even started this Wild Thornberrys nonsense anyway?”
+
+“Uh… that was you, Thorny,” Digit told him. “You’re the one who used it first.”
+
+“What are you talking about?” Nigel asked.
+
+“Yeah, it was you, mate,” Green said.
+
+“I’ve never used that name.”
+
+“Mate, we all saw you call us that to the press,” Woolzy said.
+
+“Again,” Nigel said, “I have no idea what you’re all talking about.”
+
+“No, we really all saw you,” Darce assured him. “It was during your mercifully brief experiment with facial hair.”
+
+“What?” Nigel asked. “Facial hair?”
+
+“When you had that huge moustache,” Orange said. “Glad that didn’t last more than a day. Felt like you only had it for the afternoon, really. It was that day you said you were going fishing, but then ended up talking to those reporters for like, two hours. Telling them weird stories, too. All these years, and I never noticed you only had nine toes.”
+
+“I do not have nine toes!”
+
+“Did you lose another one?” Digit asked. “Was it when that crocodile monster bit you on the leg? I thought it only got your thigh.”
+
+“I still have all my toes! I am going to kill that dragon.”
+
+***
+
+As his helicopter descended to the tarmac, Michael put away the briefing papers he’d being going over again and again on the flight. They were actual paper copies, with command becoming increasingly nervous about digital security in the magitech age. It was mostly background on the political factors that had led to his current assignment. The Quilido Procedure was just one of those factors, but certainly the one that had arrested the most attention amongst the Network factions.
+
+Asano only made the procedure available to those nations on board with his EDJI initiative. Many nations complained that this violated the terms of the Saint-Étienne Summit Accords, but the accords did not require all research to be freely disseminated. The potential for dangerous magic to spread meant that while research had to be shared, it had to be done in a controlled manner. The clan, in this case, had chosen to share with EDJI signatories.
+
+Intelligence agencies around the world had attempted to acquire those secrets from the first nations to sign on to Asano’s initiative. Michael’s papers did not state why those attempts had been swiftly and permanently halted, but certain events had become open secrets. Rumours abounded of Jason Asano suddenly and unexpectedly arriving at intelligence agencies around the planet, all in rooms that should have been shielded against dimensional travel. Michael had been reliably informed that the National Security Advisor had, subsequent to Asano’s visit to the CIA, needed to borrow fresh pants.
+
+The Quilido Procedure was only one method Asano used to get nations on board with his initiative. While his clan did not have a monopoly on magitech research, they were still a major power in that regard. Their access to the other world’s magical knowledge gave them a leg up that no other force on Earth could equal.
+
+The Asano Clan had a knack for raising and recruiting talent that pushed their advantages. In military research circles, the two most prominent figures of the last decade were both on the clan’s roster. Gary Sharpton was a leonid, the lion-like species. He was one of the first children born to transformation zone victims taken in by the Asano Clan. Even as a teenager, Sharpton had been a magitech engineering savant, especially with vehicles. His designs had rendered everything from fighter jets and submarines to drones and tanks obsolete.
+
+The other major figure in Asano Clan magitech was Travis Noble, which particularly stung the United States.  Noble was born into a US Network family and trained as a magitech weapons specialist. Recruited to the Asano Clan, he was one of the people yanked to the other universe and spent years there in magical research. On returning, his development of bleeding edge weapon systems was unrivalled in two worlds, even if his designs were sometimes a little over-engineered.
+
+***
+
+“I’m not sure that exploding spears are the most practical ammunition type,” Nigel pointed out.
+
+His squad were in a secure hangar used to store magitech ordnance, getting a demonstration of some new weapon prototypes from Travis Noble. Compared to the burly soldiers, he was a slight man who gave off the impression of wearing a lab coat, even when he wasn’t. He had a row metal spears laid out in front of him on a table.
+
+“Making them spears means that Mr Cobsen—”
+
+“It’s just Cobbo, mate.”
+
+“My apologies, Mr Cobbo.”
+
+“No, it’s just—”
+
+“By making them spears,” Travis continued, “Mr Cobbo can use them with his spear essence powers. Spears also make a better platform for magical and technological upgrades than bullets.”
+
+“What kind of upgrades?” Nigel asked.
+
+“Whatever you like, really,” Travis said. “That’s the joy of such sizeable ammunition. I have some specialised anti-vampire options, naturally, but if you want to keep it simple, raw explosives are a personal favourite. You can just stuff one of the spears full of plastique and cover it in blast-enhancing enchantments.”
+
+“Like a super-bomb spear?” Cobbo asked. “That sounds bloody fantastic.”
+
+“Naturally, ammunition storage is an issue,” Travis said. “My understanding is that you have a power that can store spears, Mr Cobbo? We will need to do some testing, but I’m optimistic it won’t have the same premature detonation issue we had with the dimensional storage device we used in development phase.”
+
+Orange snorted a laugh and nudged Darce with his elbow.
+
+“You hear that, Darce?”
+
+“About Cobbo and his premature detonation issue? That isn’t news.”
+
+“So, what you’re saying,” Nigel summarised, “is that you’ve invented a rapid-fire homing spear cannon where the spears blow up before you shoot them.”
+
+“I did mention that this was a prototype,” Travis said defensively.
+
+The secure access door to the hangar opened and a woman walked in, immediately drawing all eyes. Even by gold-rank standards she was a striking beauty.
+
+“Travis, are you done?” she asked.
+
+“Still a little while,” he told her.
+
+“Those aren’t the spears with the explosives, are they?”
+
+“I didn’t put in the detonators.”
+
+“Wasn’t the problem that they kept blowing up without the detonators being triggered?”
+
+The squad members all backed away from the table.
+
+“Only sometimes,” Travis said. “Not very often at all, statistically speaking. And only when they’re removed from dimensional storage.”
+
+“And how did you bring them here?” she asked.
+
+“Uh… I’ll be done in around half an hour.”
+
+“Remember that we have that dinner tonight. Formal wear, so give yourself time to shower and change.”
+
+“I will, dear.”
+
+“Don’t make me send Taika to get you again.”
+
+“No, dear.”
+
+After she left, the squad was left staring at Travis.
+
+“Who was that?” Higgy asked.
+
+“Oh, my wife,” Travis said, and turned back to the table of spears.
+
+The squad looked back and forth between Travis and the space Gabrielle had vacated.
+
+“I think we should listen to him,” Higgy said. “He clearly knows better magic than we do.”
+
+***
+
+Michael observed through the window as his helicopter settled on the marked helipad. The design of the base, from what he could see, was different from the past. It was built to accommodate the new modes of war, where tanks and fighter jets were relics of the past. As much as magitech was changing the tools of war, the focus was returning to the people fighting it. Essence users were obviously a large part of that, but it was another part that had led Michael to his new position.
+
+The Human Augmentation Project was a means for people to gain ranks without becoming essence users. They did not gain the powers of an essence user, but did acquire many other benefits, from physical prowess and aura senses to withstanding high-rank ritual magic.
+
+To Michael’s mind, the most important effects weren’t strength or speed, or even the ability to shrug off bullets. Two factors were greater than all of these, the first being a significantly reduced need for certain bodily functions. Combined with the ability to replace food with spirit coins, it transformed the entire logistics of infantry mobilisation. To Michael, whose job was to develop new operational procedures, it represented the largest shift in how infantry could operate in a thousand years.
+
+Most of the brass, and especially the politicians, saw it differently. To them, the greatest advantage was that augmentation process didn’t require essences. While an essence user was unquestionably more powerful than an enhanced soldier, even one loaded up with magitech gear, there were only so many essences to go around. Even well-trained essence users could take four, five, even six years to reach silver-rank. Augmented humans could be brought up to silver in three, and in significantly larger numbers. Estimates predicted gold-rank taking an additional ten years, but the first people augmented with the new process had yet to reach that stage.
+
+The most notable drawback of being augmented was the difficulty in learning aura control. Without an associated essence ability, it was harder to learn how to restrain the magic radiating out of them. They weren’t dangerous at low ranks, but a silver-ranker with zero aura control was a menace to the people around them. They had to lock their auras down using magic items or they couldn’t be let out in public.
+
+Michael had met Jason Asano several times, mostly in passing at some political event. Their one lengthy encounter was when Michael had been placed in command of the Infantry Reimplementation Program, tasked with redefining infantry doctrine in the wake of military forces comprised of augmented humans. In a very secretive briefing, Asano had laid out the history of human augmentation.
+
+The process originated with the Engineers of Ascension, who had named themselves after their goals for the project. There were many bizarre and gruesome aspects, from massive death rates and damaged alien implants to the EoA leader secretly being some kind of spider. After the demise of Mr North and his organisation, he had left a vault full of research to Jason Asano.
+
+While Asano was in the other world, his clan had been working on perfecting the augmentation process. They focused on eliminating the trauma-inducing and often lethal surgeries, as well as the need for implants. The end result no longer granted the random powers that the EoA program had, and it could no longer jump someone straight to silver-rank. Instead, it was safe and it allowed for balanced growth over time.
+
+It was the Human Augmentation Project that had finally brought the United States around, with the other major nations soon following. Between enhancing their soldiers and equipping them with magitech weapons and armour, the HAP returned infantry to the forefront of operational planning. Michael had been a large part of that change, tasked with rebuilding infantry doctrine from the ground up.
+
+The Infantry Reimplementation Program was designed to reinvent warfare for the magical age. Augmented soldiers armed with the latest magitech weapons and armour. This was embodied in the exosuit, a magitech exoskeleton that only enhanced individuals could effectively use. With configurations for heavy ordnance, additional armour or even flight, infantry was rapidly replacing tanks and jets.
+
+Because of their sheer numbers, it was the new infantry, not the essence users, who were the backbone of the EDJI forces. Essence users were elite specialists, to be thrown at specific problems. It was the augmented soldiers who would be the frontline against the vampires in the battle to come. As the general most well-versed in their doctrine, along with his experience combating vampires, Michael had been placed in operational command of the EDJI’s largest military action to date.
+
+The variety of forces that would be involved was on full display as Michael stepped out of the helicopter to be met by a saluting lieutenant. He was in one of the new EDJI uniforms, with markings that flagged him as belonging to the US Army. His aura was that of a silver-rank essence user, like Michael himself. Returning the salute, Michael followed the lieutenant’s gestured directions under the deafening thrum of helicopter blades.
+
+The tarmac was a bustle of activity, Michael taking in the strange but also inspiring panoply of forces. The augmented infantry were the largest in number but also the least eye-catching, especially compared to the Cabal contingents. There was a fur-covered humanoid with a mane of mossy hair. He stood a full thirteen feet tall, even without counting his massive antlers. Other Cabal members had their unusual forms of full display, from the alien beauty of fey to lumpen, hunchbacked ogres. It was a stark difference from the traditional secrecy their faction had maintained for millennia.
+
+Michael smiled again at the nostalgic image, remembering his last posting in Saint-Étienne. No one hid their uniqueness in Asano Clan territory, and there was a wild amount of diversity on display. Along with the Cabal members were those changed during the transformation zone event, now fully integrated into the clan. He spotted elves, leonids and other species reportedly unusual even to Pallimustus. There were also some of the angelic messengers, gliding at ground level to avoid air traffic.
+
+Even the humans showed plenty of variation. Essence users with wings or glowing eyes were obvious standouts, but just the breadth of regional origins was striking. Participants had assembled from across the planet, all gathered in singular purpose. All of humanity — give or take a few ex-humans and associated allies — were united against the vampires.
+
+Michael liked to hope it was a unity that would outlast the common enemy. What concerned him and many others was what awaited them when the current threat was dealt with. No one believed that Jason Asano had forged humanity into a single sword just to face the vampires. What threat from the other world was he preparing them for? Even if he didn’t get an answer, Michael intended to put the question to the man himself.
+
+“When do I get to see Asano?” he asked, once far enough from the helicopter. He still had to shout to be heard over the noise of the airport.
+
+“So far as I can tell, sir, whenever he wants to. He knows everything that happens here, and can be in more than one place at a time.”
+
+“That’s confirmed?”
+
+“I’ve seen it myself, General. Multiples of him at the same time. As for his knowing everything that happens in his territory, we’re almost certain. Protocol is to not speak any restricted information out loud on Asano ground. We have secure briefing rooms in the parts of the base outside the territorial boundary. We don’t think he can read minds, but that’s unconfirmed.”
+
+“What’s your name, Lieutenant?”
+
+“Bradley Noble, sir.”
+
+“Any relation to Travis Noble?”
+
+“He’s a distant cousin of my father.”
+
+“You’re from a Network family, then?”
+
+“I am, sir.”
+
+“How did you end up in the army?”
+
+“Tradition, sir. My family had been military or civilian-side military contractors for generations.”
+
+“Before magic went public?”
+
+“Long before, sir.”
+
+“You were Network infiltrators, then.”
+
+Michael felt a flicker of anger in Bradley’s aura that was quickly smoothed over. It never showed in his expression, although his response was clipped.
+
+“Being an essence user and a patriot aren’t mutually exclusive, sir.”
+
+The Network’s attempt to assume control of the government had brought the country to the brink of civil war. It had been the threat of the vampires that had unified the country, but almost two decades later, tensions remained. Michael did not have Network origins and had been navigating Network and anti-Network factions his whole career.
+
+“Where are we heading, Lieutenant?”
+
+“Military personnel aren’t allowed into the civilian sections of Saint-Étienne without clearance, but the clan is pretty relaxed about granting it. You’re pre-cleared, pending a check that you’re not a shapeshifter or anything, which they’ll test at the base admin centre. Then you’re scheduled for a meeting with the matriarch and several clan officials, along with some of Asano’s people. That will be at the clan’s admin tower in the city.”
+
+“Asano’s people?”
+
+“Annabeth Tilden and Danielle Geller, for certain. They’re his main political liaisons. Likely Zara Rimaros and Farrah Hurin. Asano may be there himself, I don’t know. He doesn’t answer to anyone. When I asked, they said he was meeting with, and this is a direct quote, the king of the evil angels.”
+
+“The messengers? Are they talking about Boris Ketland?”
+
+“No, General. From how they described this person to me, he’s some kind of angelic space emperor.”
+
+Michael sighed.
+
+“Lieutenant, do you remember a time when that kind of statement would have been an absurdity?”
+
+“Honestly, General, I don’t. I was born the same year Jason Asano was first pulled into the other universe. King of the evil angels is a lot, but it’s on a spectrum that makes sense to me. I’ve never known a world without magic.”
+
+Michael looked at the lieutenant, realising the man was half his age. It was always hard to tell with essence users.
+
+“So, you were a child when the Network made a play for control of the government.”
+
+“That is not how my family characterises that time, sir, but yes.”
+
+“I was rude to you earlier, Lieutenant. I apologise for that.”
+
+“You’re a general, General. Being rude to Lieutenants is what you’re for.”
+
+Michael let out a chuckle.
+
+“I do try and bring a little more to the role than that. You’re a little bit impertinent, Lieutenant.”
+
+“I’ve been stationed here as a clan liaison for a few months, sir. I find it helps with the culture.”
+
+“Oh, I remember. I was stationed here myself, long ago. You might find, as I did, that not every commanding officer appreciates that culture.”
+
+“Yes, sir,” Bradley agreed emphatically. “I’ve also found that kind of officer doesn’t last very long here. When dealing with the Asano Clan, you need to accept some… casual sensibilities. We may be in France, but it’s all quite Australian.”

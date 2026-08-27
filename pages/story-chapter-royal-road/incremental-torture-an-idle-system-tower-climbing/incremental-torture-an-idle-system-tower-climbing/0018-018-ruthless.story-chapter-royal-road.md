@@ -1,0 +1,141 @@
+---
+id: e7d521d6-9281-5f13-8d85-ee41b63c8bed
+page-type-slug: story-chapter-royal-road
+title: "018: Ruthless"
+slug: 0018-018-ruthless
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 18
+ownLength: 2372
+unit: words
+publishedAt: 2024-04-17
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1599267/018-ruthless"
+royalRoadId: "1599267"
+---
+
+Unlike the previous hapless victims of Evelyn’s diving assaults, the man reacted with near instant timing, eyes flickering up to the sound of the rustling branch and diving to the side before drawing twin daggers from his waistband and darting in to slash at her face and neck. She found her own speed lacking in comparison, the man’s blades slicing across her skin before her body could catch up to her mind, screaming at her to dodge or parry the strikes.
+
+What neither of them had been counting on was the steel daggers simply brushing off her skin like he had been tickling her with a feather, rather than aiming for a death blow. He faltered in his stride, eyes widening as the second blade glanced across her neck and she wrapped her arms around his torso, lifting him into the air like one might play with a child, or a cat.
+
+Evelyn planted her feet into the ground and her legs tensed, before tightening her grip on the man and suplexing him into the ground head-first, an instant kill. A warmth spread from her stomach, which she soon realised was her own blood, leaking from where an arrow had pierced straight through her tough skin. A glance towards the trees informed her of the positions of two of her first victim’s allies, though neither of them wielded a bow, which meant the real threat had yet to reveal themselves.
+
+With ruthless efficiency, she snapped off the shaft of the arrow and ripped the head out through her back, the injury inconsequential for her in the short term. Since waking up from her near death at the hands of the poisoned dart, her large investment into vitality and fortitude had left her flush with vigour, so the deathly precise shot which should have crippled her, instead offered something more exciting - challenge.
+
+It’s strange, this need to push myself against a stronger opponent. I can’t say I was the type to constantly push at my own limits before, so it’s tough to tell if this new development is being spurred on by the environment of the tower or if it was simply my true self, lying in wait without a suitable anvil with which to hammer against.
+
+She turned to the pair of new enemies, some invisible force whispering into her mind of the weaknesses in their movements, which threads of their body she could tug that would have them unravelling at the seams. The first, a woman of similar build to her own, lithe and strong, wielded a short spear that even Evelyn’s untrained eye could tell was at the higher end of the common equipment that the tower’s challengers had available to them.
+
+Too long she spent admiring the weapon, giving the woman an opportunity to strike first. And strike she did, her body crackling with lightning before vanishing from view, reappearing right in front of Evelyn with a flash of light and clap of thunder. The tip of the spear dug deep and her flesh sizzled as it pierced her chest, whatever ability the woman had used empowering it to ignore Evelyn’s defences. It was her first time seeing such a skillful display of an active combat skill, and it incensed the spirit of battle within her even more.
+
+That subtle tug in the back of her mind, which she had realised was the effect of Assassin’s Eye, was screaming at her with her prey so near. Evelyn clenched every muscle in her chest, locking the spear in place as the woman struggled to wrench it free.
+
+Her first instinct was to simply grasp hold of her head and smash it with her own, but she instead followed the path laid down by her new skill, and stomped on the woman’s right knee. It held against her strike for a brief moment, but as Evelyn kept pushing, there was a pop, rapidly followed by a sickening crunch and the woman’s scream. Her momentum didn’t stop there, the pull of her skill directing her to finish the fight with more finesse than usual, as she pulled the shortsword obtained in her last battle from her inventory and decapitated her opponent in one swift move.
+
+A yell of frustration preceded a hammer smashing into her face, which after the last two thrilling engagements Evelyn had been expecting to send her flying, but it seemed not every member of this party was equally talented and the man found himself being promptly pummelled into oblivion after his strike failed to leave any meaningful damage.
+
+Evelyn stepped an inch to the left, right before an arrow whistled past her ear courtesy of the final member of the assaulting party. “It seems you insist on hiding like a coward to the very end,” she called out.
+
+Her taunt had no effect, but it mattered not. Another arrow arced from the trees, quite far from where the last had been shot from. It seemed like this enemy had some kind of movement skill, or had invested a few points into their speed attribute.
+
+A few seconds passed with no more arrows being fired, leaving Evelyn wondering if they had decided to turn tail and flee instead of continuing a losing fight. There was a loud boom followed by a shower of splinters and leaves, and then a scream which cut out halfway. Anthea and Anna strolled into view, the former rushing over to give Evelyn a hug the moment they locked eyes.
+
+“We caught one trying to run away, judging from the look on his face you must have given him quite a fright,” said Anna, a strange look in her eyes as she took in the surrounding carnage.
+
+“Well, I’m not sure what they expected when they decided to attack me, but I hope you didn’t expect me to just sit there and do nothing,” she replied.
+
+“You should’ve told us you needed backup, silly. I would’ve run here faster,” said Anthea.
+
+“I know you’re a sweetheart, but I really didn’t need backup. With the exception of her,” Evelyn motioned to the headless body of the spearwoman, “none of the people I’ve faced while you guys were gone have posed a threat to me.”
+
+“There were more than this group? Evelyn, I know you’re tough, but it’s idiotic not to rely on your allies a little, especially when you put us all at risk by throwing yourself into danger like that. If you died and we didn’t know, someone could strike us from behind and we’d never have a chance,” Anna scolded her.
+
+“You’re too timid, Anna. I don’t know why, but most people don’t seem to be taking to the tower that well and aren’t strong at all. It’s like they’re ignoring the fact that with just a few selective purchases, they can achieve feats of strength and skill far beyond anything humanity ever believed possible. You should try to obtain an uncommon skill, then you’ll understand,” Evelyn replied.
+
+“I don’t think it’s everyone else who has something wrong with them, but rather that you and that nutjob Kayla have a couple screws loose.”
+
+“Hey, don’t talk about them like that,” shouted Anthea, “What gives you the right to judge them for doing what they had to in order to survive this crappy place?”
+
+Anna’s gaze softened and her fists unclenched. She sighed and pinched the bridge of her nose. “You’re right, I’m sorry. This damn place just has me on edge the whole time, worrying about Reece and never knowing when the next person out for my life will strike. It’s a lot.”
+
+“I get it, but we’re on the same side now. There’s no use in fighting each other with,” Evelyn glanced at the map, “Sixty-eight other parties still to beat. You said the first timer went off at the three hour mark? I wonder if we have enough points to survive the next one, there’s only twenty-two minutes left.”
+
+With four zones now under their control, it would be surprising if they hadn’t met the threshold to avoid elimination by the tower at just the second interval, but with how harsh it could be in its challenges, Evelyn didn’t want to cling onto any false hope.
+
+“Alright then, I guess you two will be heading back to watch the bridges while I stay here then?” She asked.
+
+“That’s the plan for now, we’ll have to see how close we are to the target at six hours. I don’t like it, but we might end up having to go beyond this island to take control of even more zones,” replied Anna.
+
+Anna may not have liked the sound of further exploration, but Evelyn couldn’t help but smile a little at the thought. It had just been a small taste, but her chest was still burning from the thunderous spear strike of that woman, a reminder of the exhilaration that unadulterated battle could bring. It was addicting.
+
+~~~
+
+Six hours came and went, their total number of points easily clearing the requirement laid down by the tower. Even when they reached nine hours into the challenge, at which point Evelyn was almost falling asleep with boredom, they cleared it comfortably. There had been one more party venturing across the bridge onto their island, but she had dealt with them in a similar fashion to the previous challengers. It was inevitable that people would seek to conquer the zones they had fashioned into a base of sorts, given that it was the largest swathe of land on this floor and provided a juicy target for any who felt themselves adequate to claim it.
+
+Rather than spend the essence which had been piling up, thanks to the enemies she defeated herself along with some lump sums that appeared at random intervals, due to her party members likely taking out intruders on their side of the island, Evelyn had decided to save it up until they cleared the 9th Floor, or she was forced to spend it mid battle.
+
+Given the difficulty of this challenge and the massive jump in the number of participants compared to previous floors, she had a suspicion that the rewards offered would be of a much greater quality and the worst case scenario would be lacking the essence to choose freely. She glanced at the map.
+
+248,398 13:56:34 30
+
+Just thirty of the original one hundred parties remained and they were approaching the halfway point of the challenge. The speed at which they accumulated points had jumped exponentially after conquering the entire island, though it was difficult to pinpoint the exact moment, so they were in disagreement as to the specific reason why it increased and wouldn’t be able to find out unless they decided to take control of more zones beyond their little sphere of influence.
+
+A dangerous thought had begun to eat away at her mind, one that would have Anna frothing in rage if she knew that Evelyn was even considering entertaining it for even a second. But entertain it she did. Whether it was boredom or her own hunger for a challenge that drove her onwards, she found herself taking a step onto the rope bridge that led outwards from the island into the wider expanse of the 9th Floor.
+
+Her steps were slow at first, as she hesitated to commit to her terrible idea, but once she had crossed two thirds of the way to the next floating island, Evelyn told herself she was past the point of no return.
+
+Besides, technically no one can cross the bridge even if I guard it from the other side, right? There’s no harm in just having a quick peek at what’s over here. It would be a shame to miss out on all the interesting environments this floor has to offer. I’ve never been to a desert or an icefield before.
+
+Far smaller than their own island, this one had just a single red zone, about eighty metres from where she first stepped foot off of the bridge.
+
+It’s scientific curiosity. I’m doing this for the good of the party. We need to figure out the most efficient way to increase our point gain, just in case our current income isn’t enough to make it into the final three. I’m sure they’ll appreciate my hard work.
+
+This was the white lie that Evelyn peddled herself as she made her way to the zone, which she found occupied by just two people. Thinking back to her previous battles, these were likely the remaining allies of the party of three she had first defeated. They offered little resistance, the first falling within seconds as Evelyn ambushed them from the forest. His companion was just as weak, and so she used him as a training dummy of sorts, sensing how Fists of Frost pulled on her limited mana when she activated the skill for the first time and almost fainted from the dizzying feeling of her reserves being emptied in just two strikes.
+
+Those two strikes were all it took for the man to fall however, his movement stiffening and a thin layer of frost forming around the impact of the first blow and the second folding him like a deck chair. Ten seconds later the zone fell under their control, and while it was difficult to tell the exact rate of increase in their points, Evelyn didn’t feel it had leapt upwards the way it did during their earlier expansion.
+
+There was only one way to find out the answer, so despite having told herself she would only explore the one island, she found herself taking a step onto the next rope bridge, her destination a larger island which featured a small volcano as its centrepiece.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+|Attributes|
+
+Power: 3
+
+Speed: 2
+
+Stamina: 2
+
+Vitality: 7
+
+Mana: 1
+
+Fortitude: 8
+
+|Skills|
+
+~Passive~
+
+Bulwark (Uncommon), Bulwark (Common), Stargazing (Common), Assassin’s Eye (Uncommon), Bargain Hunter (Common), Backlash (Common), Stellar Body (Common), Capital Gains (Common)
+
+~Active~
+
+Battle Cry (Common), Fists of Frost (Uncommon), Mana Plate (Common)
+
+Essence: 1,345『+23 / 5:59:57.7 hours』
+
+~~ Stars ~~
+
+Grey: 23
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+【KILL】

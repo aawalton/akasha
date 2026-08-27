@@ -1,0 +1,97 @@
+---
+id: 21d0013f-741f-57ec-9568-7a8fee436394
+page-type-slug: story-chapter-royal-road
+title: "281. Almost There"
+slug: 0281-281-almost-there
+partOf: god-of-trash
+position: 281
+ownLength: 2182
+unit: words
+publishedAt: 2026-03-02
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3109646/281-almost-there"
+royalRoadId: "3109646"
+---
+
+Rhys held his breath. He counted slowly, from zero to sixty, then back to zero. Repeating that three more times, he finally pushed another scrap of mana into the loop and peered out into wherever Ernesto stood.
+
+And there he was. In the depths of Ernesto’s lab.
+
+Even without paying close attention to where he was, without being able to see it, and without exploring it with his mana senses, he knew it was Ernesto’s lab. The cursed energy was so thick here that he could almost taste it, even at a glimpse from his mana senses alone. There was nowhere in the Alliance that had such thick cursed energy, and no one who’d be allowed in its headquarters with such thick cursed energy, except for Ernesto’s lab and Ernesto.
+
+It was also familiar. Painfully so. This was Straw’s energy, without a single scrap of doubt. It might have been years since he’d last felt it, but that didn’t mean he couldn’t recognize it. The second he felt it, he was instantly transported back to his second childhood, to that moment when the Alliance had so rudely ripped Straw away from him. Straw… and Bast, too. If he knew then what he knew now, he would have never let the Sword Saint take Bast.
+
+Regets didn’t help him accomplish anything. He was here to right what had gone wrong, not to live looking backward.
+
+It was possible for him to ‘see’ the room by sending thicker mana senses through the tiny hoop to survey things; in fact, that was how mana senses usually functioned. Even throughout the day, he’d been peeking in with that level of mana senses, to see how things were going.
+
+But that had been outside, when Ernesto would be surrounded by all kinds of foreign mana senses, and it wouldn’t be too strange for a random unknown person’s mana senses to sweep by him momentarily. Now, though, they were in Ernesto’s lab. Rhys didn’t know how well shielded the lab was, but given that it was in the center of the strongest gathering of mages in the area, aka the nobles’ quarters in the Alliance’s capital, he had to assume it was well shielded to prevent the mage-nobles from noticing his cursed energy research. So after he sent the tiniest probe in to check that he was in the right place, he shocked the hoop with a tiny zap of mana to free it from Ernesto’s shoe, then withdrew all his senses and let it lie there silently.
+
+He could jump in now, but that was the equivalent of blasting in guns blazing. He wanted to see how things were going as subtly as possible, keeping all his options open, including retreating entirely to wait for a better time to attack. Now wasn’t the time to go loud. Now was just a scouting run. Once he’d scouted, gotten the lay of the land, and knew how everything was situated… then it was time to make a move.
+
+A little tap at his elbow startled him. He looked down to find the tiny Straw doll from his sword standing by his arm, its head tilted, button eyes staring directly at him. Rhys gave it a comforting pat and put it on his shoulder. “Soon, boy. Not yet. But soon.”
+
+The little doll trilled in dissatisfaction, but settled in to wait alongside Rhys.
+
+He’d already known it, but that only confirmed what he knew: that the cursed energy definitely belonged to Straw. The doll had never reacted this way to cursed energy before, but it was a part of Straw. If it was reacting, then it had to be Straw.
+
+Armed with this knowledge, Rhys… waited. And waited. And waited some more. Day turned into night. He was tempted to check and see if Ernesto was still in the lab, but he held off. He still had the scattered plan 2s. If Ernesto left, he’d be able to sense the man along his route home. It was safer to wait and sense him outside the lab, rather than try to peer in on him in the lab, which might be a relatively sterile space where his mana senses were easy to notice.
+
+One quick glimpse, restricted to the most basic level, probably wasn’t that bad. Ernesto was likely to overlook it or dismiss it. But if he peeked in twice or three times, he’d create a pattern that Ernesto might notice or at least lock onto. It was safest to wait, and after all this time, it wasn’t like rescuing Straw was urgent. He could wait.
+
+I can. I can wait. Patience, Rhys. It’s a virtue, he repeated to himself, rolling around on the floor of the smoking room out of boredom. Somehow, he’d ended up with the rawest end of the stick, here. This was the part that those action movies with the catchy theme song about impossible missions never showed: the lounging around and being bored for hours, if not days, while waiting for the perfect conditions to materialize.
+
+The Straw doll laid down on the ground beside him and rolled around too, chirping in enjoyment. Rhys looked at it, then laughed and went back to rolling. If mini-Straw was having fun, then he could keep rolling around a little.
+
+Upstairs, Lily paused. She looked down. Her mana senses were weak, but she was pretty close to the smoking room, and… was he really rolling around on the floor? That terrifying expert that even Madame Tunk was afraid of, was rolling around on the ground like a three-year-old?
+
+Who was she to judge? Maybe the secret to his power was rolling around on the ground. She looked at her hands, then the floor. Should she…?
+
+Back in the smoking room, Rhys stopped rolling around and sat up. He was here for a long time, not a good time, so he might as well lock in and start focusing on practice instead of rolling around on the floor like a useless blob. He could easily monitor the hoops at a low-level rate while he practiced, and if he got enlightened and was too busy to monitor the hoops, then he’d have gained more via enlightenment than he would have through monitoring the hoops. It was a win-win situation, where he benefitted either way.
+
+He sat there, and sat, and sat. His villain arc involved a lot more sitting around than he expected, but then, it was largely successful. A lot of villains failed for moving too quickly, RE: his long-enough theory. He wasn’t going to be one of them. But that did mean a lot more doing nothing than he’d foreseen for his villain arc.
+
+I thought my villain arc would involve a lot more blood. And there’s been plenty of blood, but honestly? I think I’ve been killing fewer people since I initiated my formal villain arc. Maybe I should go back and start killing more.
+
+Though, on the other hand, he still had plenty of time. There were still a few big events to come. He could still spill plenty of blood. Still, he wasn’t sure he’d beat his bodycount during his revolutionary turn in the Empire.
+
+It’s fine. I don’t have to constantly kill more people. It’s not necessary to escalate body count every time I accomplish a new objective! In fact, actually, it’s better if I don’t escalate that!
+
+Still, it is kinda funny that I killed a lot more people as a ‘hero’ than a ‘villain.’
+
+The Straw doll hopped on his shoulder and settled in to a cross-legged sit as well. The two of them sat quietly, waiting, watching, until abruptly, the Straw doll leaped up.
+
+Rhys opened his eyes as well, leaning forward. Ernesto was out on the town. He’d left the lab. It was go time.
+
+He quietly extended his senses through first, examining the space on the far side of the hoop and confirming that there was no one there. When he sensed no one, he hopped into the hoop, through the void, and out the other hoop on the other side. Stepping through the hoop was an interesting experience, because unlike all the other teleport points he’d made, this one was far too small for him to actually step through. Instead, he kind of… leaned into it, then let the interdimensional travel do its thing and suck him through. Right from the start, when he’d been hopping in and out of the void, he had been using tiny holes in the baskets of the trash can, but he still stepped into the trash can; now, he was simply using the tiny hole property, but only executing the tiny hole part, as opposed to building a larger armature around it. It was something he’d always been able to do, since the interdimensional travel part was always more of a… shifting in one’s reality than a literal step, but he’d simply never implemented the full form of it until now.
+
+He stepped out into a dark room. The walls were stone, like a dungeon, and like a dungeon, steel manacles hung from the wall, oozing dangerous enchantments that wanted nothing more than to hold and never let go. They weren’t enclosing anything right now, though, because his target, and the reason Ernesto was here, laid in a shapeless pile on the floor, caged in by a magic circle: Straw.
+
+His aura was unmistakable, but right now, he didn’t look like much at all, just a lump of… well, straw. It wasn’t in the shape of a doll at all, but just randomly strewn wheatgrass, all lying in a jumble.
+
+Rhys crouched just outside the circle. He already knew he wouldn’t be able to communicate with Straw like this, and it wasn’t like he could free Straw, either, until it was time to go loud, since freeing him would alert everyone, but he had to get a look at how Straw was imprisoned.
+
+He lifted his hand, pressing it outward until it touched the exterior of the barrier that extended upward from the circle. The barrier enclosed the area that held Straw, as well as the air for about three feet up, then curved back down in a dome. Experimentally, he pushed impurities into it. The barrier instantly fought back, continuously refreshed by a source of purity in the floor. Rhys retracted his hand, surprised. They had anti-impurity provisions? That was—
+
+Not surprising at all, actually. It made perfect sense. Otherwise, how would they imprison Soma? True, he’d probably let them imprison him, but someone like Virgil, who put marks on even his most trusted men, didn’t just overlook problems like Soma. No, he was the sort to make backups to his backups, and clearly this barrier was engineered to stand up to cursed energy (made sense, it was caging Straw, who was a giant cursed energy sponge in his own creator’s words), and to filth (in case they needed to cage Soma).
+
+In any case, it meant that his usual go-tos wouldn’t be guarantees anymore. He had to prepare for someone who was prepared for him.
+
+I need a new barrier-breaking technique… or at least something that’ll let me get through this. He touched the ground, then raised his brows. The barrier was resistant to impurities, but the barrier was etched on the ground. Was the ground resistant, as well?
+
+Experimentally, he injected impurities into the stone floor. The stones were high-class magical artifacts in their own right, and they stood up to far more impurities than Rhys expected them to, but a few moments, and tiny, hairline cracks appeared in their surface. He instantly retracted his impurities, then used his strength to grind down the stones and erase the signs of his tampering. It was an option to cut the floor out with his impurities, grab the barrier wholesale, and figure out a way to break it later.
+
+Overwhelming force, he thought, then laughed. Where would he even find that? He…
+
+Well, no. Actually. That was an option.
+
+I’ll keep that one in my back pocket. That’s a last-ditch effort. Let’s keep working on figuring out a new barrier-breaking attack first, and if I can’t figure one out, then we go with that. That’s the nuclear option.
+
+“I’m coming, Straw. I haven’t forgotten you,” he promised at a whisper.
+
+To his surprise, the straw in the circle stirred. Rhys put his hand against the barrier. A lump of straw rose up, forming the shape of a hand, then pressed against his in return. He remained crouched there for a moment, then lowered his hand. Now wasn’t the time.
+
+But he had valuable information, and the first of many teleportation points in place.
+
+I’ve done all the setup I can. I know everything I need to know. It’s time to move on. There’s more plans to orchestrate, and more moving parts to get locked down. With a last glance at Straw, Rhys hopped back into the hoop and vanished.
+
+Behind him in the lab, a slender figure shifted in the shadows.

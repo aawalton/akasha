@@ -1,0 +1,95 @@
+---
+id: c0ce4be0-1c68-56a0-9553-a7f82b5e839b
+page-type-slug: story-chapter-royal-road
+title: "162. Peer Battle"
+slug: 0162-162-peer-battle
+partOf: god-of-trash
+position: 162
+ownLength: 2001
+unit: words
+publishedAt: 2025-08-21
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2536809/162-peer-battle"
+royalRoadId: "2536809"
+---
+
+Rhys rushed into the sunlight. Thanks to Mouse’s warning, he was braced for an attack, but none came. Instead, he found himself at the end of a short path. At the other end, three mages stood around a boiling pot and chatted about something he couldn’t quite make out. As he emerged from the tunnel, one of them glanced up, then did a double-take and drew his weapon. In response, Rhys simply closed in silently, scanning the three of them with his mana as he did.
+
+The one furthest from him lit up as Tier 3. The woman wasn’t roiling with muscle like Landon had been, but she lifted her hands, and mana immediately glimmered on her fingertips. A caster. Someone who preferred to fight at a distance.
+
+Lifting his fingers to his forehead, Rhys called out the marble of anguish once again, then shot it at the female mage. Her head blurred as she dodged, and it hit the man behind her instead, who collapsed to the ground, eyes rolled back in his head. Fingers flickered, and she sent a bolt of fire at Rhys.
+
+Rhys leaped aside. The fireball singed the ground behind him and sunk into the earth. Moments later, a molten figure rose from under the ground. It lunged toward Lira, who danced nimbly back and extinguished it with a blast of heavy rain. The mud construct sunk to the floor.
+
+An otter constructed from fire flew from the mage’s hand, closing in on Rhys at speed. Rhys summoned a piece of trash from his storage ring and battered the Trash Intent of a dining room table into the otter’s head. At the same time, he gestured, and a swarm of rats rushed past him, hurtling out of the tunnel and toward the female mage. The otter fell back, still ‘alive’ but stunned, touched the ground, and leaped at Rhys again. Meanwhile, the female mage launched a dozen balls of fire into the ground to summon forth more of the molten constructs. Lira and Sable battled against those while Rhys charged at the mage, who jumped backward, repeatedly retreating. The rats chased too, circling around her feet and trying to trip her as she ran.
+
+The otter faded away. Rhys tossed the Trash Intent table at the mage, keeping his Trash Intent active until the table struck her. She staggered back, her eyes widening; she hadn’t expected the spectral, glowing blue table to have weight and heft like an actual dining room table. He closed in, but she continued to retreat. She flicked her fingers, and a dozen burning feathers shot through the air at Rhys. He pulled up a piece of trash to block, but the feathers swirled on the air and darted around his shield. Their sharp tips cut his skin, and searing heat chased after them as a burn spread through his flesh.
+
+He flicked his fingers, sending a pulse of mana into the forest. A faint buzzing responded to his call, along with a scribble on the ground. The first set of rats were still harassing the female mage, and as she continued to retreat, she found herself suddenly rushed from behind by a squad of forest rats and mobbed by a cloud of dark insects. She didn’t flinch, though. She snapped her fingers, and an aura of fire whirled around her, singeing away all the insects and rats in one fell swoop. The stench of burned fur filled the air.
+
+o7s in chat for our fallen comrades, Rhys thought grimly. He drew his sword and charged as fast as he could, but the mage persistently retreated. Annoyed, he shouted, “Stand and fight!”
+
+She just gave him a look. Obviously she wasn’t going to do that. It would be stupid. He and she both knew that. He wracked his brain, trying to think of something to say that would be so offensive she rushed him, but he just didn’t know her well enough. He shook his head. I need more levels in trash talking.
+
+A thought came to him, and he raised his brows. It might work. If she was just going to keep fleeing, this battle was going to last forever, but… well, if it worked…
+
+“Mouse!” he shouted.
+
+“Right here!” she replied, her voice echoing from behind him.
+
+Rhys nodded. He took an angle, so that as the mage fled, she fled back toward the sound of Mouse’s voice. He tossed trash at her to keep her distracted, deflecting her fire feathers with his sword in the other hand. A few got through, but at the same time, some of his trash impacted her body. It didn’t do much damage, but Rhys counted it as a silent win. If he’d smeared some filth on there, he could have slowly lowered her defenses until she couldn’t flee anymore.
+
+He wasn’t here to just win the battle, though. He wanted to strengthen himself at the same time, and he had a great idea, so why not try it?
+
+He saw Mouse in his mana senses—or, more properly, he saw the trash bag he’d given her earlier. As the female mage approached Mouse, Rhys sunk into his mental state, dropping into his core. He instantly found the section of void that connected to the trash bag. It was bigger than all the rest of them, and besides, he’d knitted all the void segments into the real world himself, by hand; he knew where they all were, and knew where to look. He came to the edge of the gap. He could see through, but not escape through the hole, and he paused for a moment, then realized: I’m some kind of mana/mental representation of myself, not physical me. If I stepped out of one of these holes into the world, what would that look like? Could I even keep myself together, or would I just die?
+
+Now was not the time to figure any of those out, but he could still launch his attack. He drew a sharp piece of trash out of his trash star. As the female mage ran by Mouse, her back to Mouse, wary eyes on Rhys, he threw the trash out of the trash bag hole and toward her back as fast as he could.
+
+The trash passed through the void barrier that marked the lips of the trash bag and returned to reality at top speed, momentum preserved. It hurtled toward the woman’s back.
+
+At the last second, she whipped around and dodged. The trash didn’t totally miss, but it pierced into her arm instead of her heart. At the same time, Mouse stepped forward and stuck out her foot. The woman tripped, and Rhys retreated from trash bag vision to his body. He surged ahead, activating Trash Step for the first time since he’d been chasing her. Before she could jump back to her feet, he was on top of her, and hammered his sword down into her heart.
+
+Blood spurted. Across the forest, the molten constructs sagged to the ground. Before she could finish dying, Rhys jumped on her and sucked all her energy out, then absorbed her body. With that, he had two Tier 3 cores worth of energy in his trash star. They were mostly spilling out into the void, which he found somewhat concerning. He was already cutting holes in the void and connecting it to the real world. He didn’t need to also emit tons of energy out there to draw in whatever was waiting to slurp up delicious material beings that lived on the outside of the void realm…
+
+Yeah. I need to do something about it.
+
+Lira and Sable quickly cleaned up the last two criminals. Rhys sucked up their energy and bodies, then sat down. He was full to the bursting, even with the void. His core felt stuffy in a way it hadn’t for absolute ages. He couldn’t go anywhere like this. He had to handle it first, and then he could worry about escaping.
+
+“Practicing right here?” Lira asked, annoyed.
+
+Rhys thought for a moment, then snapped his fingers. The skeletal rider appeared and picked him up, carrying him in both hands. “You two lead the way. I’ll follow.”
+
+Lira gave him a look. “You think we can just gallivant through the middle of a city with a curse?”
+
+“Hmm, good point. Okay, I’ll follow you and Mouse, Lira. Sable, can you burn the tavern down on your own?”
+
+Sable nodded.
+
+“Okay, then! Sounds like everything’s all good.” Rhys beamed at Lira and shut his eyes again.
+
+“What happened to Rhys?” Lira muttered under her breath.
+
+“Rhys is about to be very busy and doesn’t want to be disturbed,” he told her.
+
+She rolled her eyes. “You’re not serious. Trying to cultivate immediately after battle, without even changing locations? Are you insane?”
+
+“Yep. Next question?”
+
+She put her hands up. “I guess I don’t have anything else to ask. Fine. Be carried by your corpse servant through the woods. I hope an assassin comes after you.”
+
+“I’m not—er, I, I’ll protect you,” Mouse quickly corrected herself. A blush spread under her glasses.
+
+Rhys gave her a thumbs up. “Counting on you.” With that, before Lira could get any more sass off, he sank into his inner space.
+
+His core was a mess. He’d known that, but it was very, very obvious when he took a step back and looked at it. The trash star was a messy lump in the center of the space, and wild energy burned and roiled all around it. His first instinct was to try to compress it, but he could immediately tell it wasn’t going to work. There was a hole in the edge of his core, and whenever he tried to compress the energy, it all squeezed out into the void instead.
+
+He frowned, his brows creasing. That was no good. Compressing and polishing energy into something was the basis of everything he’d done so far. With his trash star, he could compress and polish trash, but energy was different. That was why he’d been spinning it off into cores; he simply couldn’t process it anymore with the hole in his core wall.
+
+Well, that, and it’s useful to have other mages on my side. He wasn’t going to win the war as a solo fighter. He needed an army, and he had… he had a team. But he was getting there. He’d get there.
+
+Still, I need a way to personally process energy. He was currently feeding it slowly to the core until it burned into the trash star, but that was slow, and he had little control over it. If he tried to process this energy, he’d be sitting here all year just feeding it to the trash star. The trash star wasn’t meant for energy; it was meant for trash. When it was fed things that weren’t trash, it struggled.
+
+He frowned. It wasn’t a bad thing to have too much energy. He could try forging a higher tier core for Korii or Blake, or someone else who had originally had high tier cores; he wasn’t sure how someone who’d had a low tier core would do with being forcibly leveled up to a high tier core. The Empress did it, but he didn’t know if it was something she did casually, or something that took a lot of surgery and effort. Even if she did it casually, it didn’t mean he could. After all, he could casually work with high tier impurities and dangerous trash that would kill most mages.
+
+But if he did spin the energy off into new cores, that didn’t solve the primary problem that he needed to grow stronger himself. Strong enough to face off against the Empress. Someone needed to do it, and he was the most likely candidate right now. If he could process all the energy he could absorb, he’d grow stronger much faster. There was just one question:
+
+How?

@@ -1,0 +1,229 @@
+---
+id: 6ac79adb-f132-542a-af9b-2394ba05fa2d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24 - A New World"
+slug: 0024-chapter-24-a-new-world
+partOf: hell-horizon-healer
+position: 24
+ownLength: 1750
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3590208/chapter-24-a-new-world"
+royalRoadId: "3590208"
+---
+
+He found the man in the yellow shirt sitting on the floor outside his room, back against the wall, knees up, staring at nothing.
+
+Jake sat down at least a metre away.
+
+They sat in silence for a while.
+
+"She said there's no point," the man said eventually. His voice was flat and scraped out. "That it just gets worse. That the kindest thing is to—"
+
+"She was lying," Jake said.
+
+"You don't know that."
+
+"I know she was feeding off your fear." Jake looked at the wall across from them. "Whatever she told you, she said it because it made her stronger. Not because it was true."
+
+The man said nothing.
+
+"This is the only life you've got," Jake said. "One. That's it. Spending it because someone told you to is the worst trade you'll ever make."
+
+"Easy for you to say."
+
+"No," Jake said. "It isn't."
+
+He stood up.
+
+"Don't smash the window," he said. "For any reason."
+
+“How do you do it?”
+
+Jake tilted his head.
+
+“How do you find the courage to go out there and face those… things,” he said, clutching at his head. “I couldn’t do it.”
+
+“Instead of wasting time and energy on thinking about the things I can’t do,” Jake said. “I’d rather just do them. If I fail, and die, then that’s that. But I’d hate to think of the alternative—to not try at all.”
+
+He looked up at him, blinking.
+
+Jake scratched his head. “Don’t break the window, I mean it. I hate the sound of glass breaking. It’s bad luck.”
+
+Jake got up.
+
+"Wait," he said. "Aren't you going to ask me to tell the others what Chloe did? The truth?"
+
+"Why would I do that?"
+
+That sounds like a lot of work. If you wanted to tell them, you would have done it already.
+
+"Arthur and Edwin asked me about what happened. I... Didn't tell them. Couldn't. What should I do? What would they do to Chloe? I know what she did was wrong, but I don't want anything bad to happen to her."
+
+Jake looked at him for a moment, unable to come to any internal reason as to why he would care about her, then said, "Don't know."
+
+He went back to his room.
+
+People are complicated.
+
+He stopped.
+
+Oh. He likes her.
+
+***
+
+He was at Sloane's door before sunrise. He stared at it for a while, noting the small dent from when he’d accidentally struck it with a mop.
+
+She opened it already dressed, sword at her hip, arm in a sling, like she'd been waiting for someone to knock. She looked at him for a moment.
+
+"Right now?"
+
+"Yes,” he said, then paused. “Your arm?”
+
+“I can fight one handed no problem.”
+
+She grabbed her jacket off the hook and stepped out.
+
+Susan was already in the corridor, cleaver at her belt, dark circles under her eyes that suggested she hadn't slept at all. She fell in without being asked.
+
+Glenn opened his door on the second knock, saw the three of them, and spent four seconds visibly weighing the comfort of his bed against whatever was about to happen. He said he’d be a moment, and Jake and the others watched as he darted from one room to the other. A few minutes later, he came out looking better than before.
+
+And was that… cologne?
+
+He grabbed the bow, and seeing Jake stare at him, he scoffed. “I don’t want to smell like all of you.”
+
+Sloane held her nose. “Monsters will smell you from a mile away.”
+
+Susan sniffed. “Is that girl’s perfume?”
+
+“It’s unisex! It’s 2026, you know?”
+
+“Wash it off,” Jake simply said.
+
+Glenn debated it for a moment, but when he saw Jake still looking at him, he shivered and ran back in. He came back out without the stench.
+
+The archer looked around. “Where’s Edwin and the others?”
+
+“Don’t need them.”
+
+Jake didn’t explain.
+
+They were halfway to the stairwell when the voice came from behind.
+
+"Stop."
+
+Edwin. Jake turned.
+
+Arthur was beside him, shield on his arm, jaw set. Behind them, the priest stood with his hands folded, watching Jake with the particular expression of a man who had decided something was evil and found the certainty restful.
+
+And behind Edwin, four people Jake didn't recognise. Big. Carrying weapons they knew how to hold, standing the way people stood when they were used to being the largest thing in the room. Edwin had been busy.
+
+"You don't go up," Arhur said, saying it just a step behind Edwin. "Not until we've dealt with what happened last night."
+
+"There is nothing to deal with."
+
+"You broke a woman's legs in front of the entire floor," Arthur said. "You can't just—"
+
+"He is a devil," the priest said, stepping forward, voice rising. "I have seen his kind before. He has no soul. He bleeds himself for power and he hurts without conscience and if we let him go unchecked—"
+
+"Walk away," Jake said to him.
+
+"I will not—"
+
+"Walk away."
+
+The priest stopped. Something in Jake's voice apparently answered a question he'd been asking without meaning to.
+
+Edwin's eyes moved to Sloane, Susan, Glenn. Back to Jake. He was doing the calculation Jake had watched him do a dozen times—like he was scanning for threats.
+
+"I can't have disorder," Edwin said. "Not now. We need structure or this floor tears itself apart."
+
+"Tell that to Chloe," Jake said. "I'm going up."
+
+"You're not."
+
+One of the four behind Edwin shifted his grip on the length of pipe across his shoulders. The others watched Jake, wary. What had they been told?
+
+"Edwin," Jake said. "Last chance."
+
+Edwin looked at him with those flat, professional eyes.
+
+"Take him," he said.
+
+The four men came forward.
+
+Jake breathed, feeling the tension pull tight across his arms and shoulders. It was still a strange sensation, feeling the heat of his muscles pull and push.
+
+Feeling stronger now, his eyes locked onto the biggest man amongst them who was in the lead, bound in massive muscle. He was bald, with a once well-kept beard that now was starting to grow on his neck from days of not bothering to shave. A scar had etched a piece of hair away from his eyebrow, and swollen ears suggested that the man was no stranger to a fight.
+
+A gang? Bodyguard? Bouncer?
+
+It didn’t matter.
+
+“Sorry runt,” he said, smiling wickedly as he quickened his steps. “It’s just business.”
+
+He swung the pipe in a savage arc, fully intending to crack open Jake’s skull. Instead of moving, Jake just stood there.
+
+He was going to summon Gutter Tooth, but at the last minute, didn’t bother.
+
+Not seeing a reaction, the man’s smile widened, a flash of cruelty glistening over his eyes. At the last second, Jake raised his arm and caught the club. He felt the strain of the strike, nudging his hand back an inch, but that was all.
+
+How many hours had the man dedicated to the gym? By the size of him, it was a lot. In just a few days, Jake had bridged that gap in genetics and time.
+
+The man’s eyes widened. “What?”
+
+“This is the world now,” Jake told the man, then stepped inside faster than the man could react. He lanced his knee up into the man’s gut, making him crumple on the floor like a sack of potatoes. The man’s stomach betrayed him, leaving whatever he had to eat on the floor.
+
+The other three were on him in seconds, but it didn’t take a lot to deal with them. With Jake’s current stats, and Tension increasing his power even further, he was almost three times stronger than anyone that hadn’t levelled up.
+
+In seconds, the other two were laying on the ground, groaning.
+
+That left one.
+
+Jake walked towards him. The man backed up. He wore a leather jacket, long hair. He was well over six foot tall and held a machete in his hand.
+
+“Drop it,” Jake warned. The man didn’t listen, though he took another step back.
+
+Jake launched forwards, grabbed his wrist, slammed it against the wall then crushed it with his elbow. The man screamed, his voice bouncing against the walls.
+
+He grabbed him by the hair and was about to throw a punch when Edwin sighed.
+
+“Stop.”
+
+Jake looked up at him. Did he think he would do as he was told simply because he was asked to stop? What would the others think if one word held so much power? Would they keep coming at him because they knew he’d hold back if Edwin told him to stop?
+
+He didn’t think so.
+
+So he threw the punch, cracking it against the man’s chin. Then he threw another, and another, until blood splashed and coated the wall and the man lost all resistance, unconscious on the floor.
+
+“You’re a fucking psychopath,” Arthur mumbled, hands trembling on his shield.
+
+Blood dripped from his knuckles. “So what will it be?” He said. “Stay and wonder if what I did to Chloe was reasonable or not, or head up and get stronger?”
+
+He had half the mind to throttle Edwin and Arthur for trying to stop him, but he'd be lying if he said he didn't need them for the future.
+
+Edwin's tactics and leadership were invaluable to him and the group as a whole. And Arthur was a good shield. Everyone needed a good shield.
+
+As for trust? Jake didn't trust them more than he could throw them. But their trust was built on necessity. They needed him to kill monsters. He needed them so that he could kill them without being overwhelmed.
+
+In the end, Edwin and Arthur decided to join Jake and the others to continue exploring the apartment. They were put in a difficult situation; they knew that if Jake continued to head up the apartment, he’d get stronger, and that meant losing power.
+
+Though Jake didn’t know what Edwin or Arthur was fighting for, he didn’t care. All he cared about was getting stronger and seeing what the system offered him.
+
+What other skills could he get?
+
+What potential item could drop?
+
+He couldn’t wait to find out.
+
+***
+
+They returned to the 8th floor.
+
+In the middle of the hall, was the big brute that had almost killed them, forcing them to escape into the Verdant Expanse.
+
+Jake summoned Gutter Tooth.
+
+How strong have I become?
+
+Let’s find out.

@@ -1,0 +1,197 @@
+---
+id: 3e653738-4d58-5096-9bc1-a2c3c22821a4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33 - Sacrifice"
+slug: 0033-chapter-33-sacrifice
+partOf: hell-horizon-healer
+position: 33
+ownLength: 1634
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3742909/chapter-33-sacrifice"
+royalRoadId: "3742909"
+---
+
+Weightlessness took hold of him. It felt like minutes, not seconds, before his back took all the force as he landed against something solid. Another bridge. The air expelled in his lungs as he gulped in a breath.
+
+The Dreadknuck was mid-air, crashing down, weapon raised above.
+
+Eyes wide, Jake kicked off the bridge, leaping down onto another that was not far from him. Sloane, Arthur, and Susan were quick to react, following.
+
+Chloe was a beat later, barely getting off the bridge in time before the ape landed. Though she was off balanced, she controlled her landing with her psychic powers.
+
+Glenn wasn’t so lucky. With the beast landing, Glenn was thrust upwards. He screamed but caught a bridge above, pulling himself to safety.
+
+“Run!” Sloane commanded, already sprinting along the bridge.
+
+Everyone else followed.
+
+The Dreadknuck stepped off the bridge above, landing harshly not far behind Jake and the others.
+
+The resulting wave from the kinetic energy almost brought them off their feet.
+
+They barely managed to maintain their balance.
+
+The twang of a bow above signalled an arrow. It pelted the thick hide of the ape, the tip barely remaining in.
+
+“Glenn,” Jake shouted. “Watch out!”
+
+Looking above, the ape roared.
+
+Glenn’s face transformed to one of horror.
+
+The Dreadknuck without warning, launched its weapon high up. It moved so fast it was practically a blur. It tore through the bridge just where Glenn had stood, electricity crackling all around.
+
+The bridge remained constructed for only a moment longer before the wire handrailings supporting it snapped.
+
+Glenn was already running.
+
+“Oh shit!” Jake heard from above, and with a big leap, Glenn threw himself as far as he could towards Jake and the others.
+
+“Jake!”
+
+“I’ve got him,” Jake said, running to meet him before flinging himself over the handrailings, catching the young celebrity. He thrust him back onto the bridge, Glenn stumbling.
+
+Sloane grunted and summoned what mana was left deep in her core. She sent a blade of wind at the ape, cutting a deep mark on its chest.
+
+The ape scoffed, waited for a moment, then grabbed the falling telegraph pole without so much as a glance above.
+
+Glenn coughed. “The bastard’s aura farming.”
+
+“We can’t run,” Sloane muttered, chest heaving up and down.
+
+Jake glanced behind him. There was an open platform with no door, just a solid wall. Then his gaze fell down to another bridge that headed in the direction of the stairwell.
+
+His mind buzzed with decisions. Fight, or flee.
+
+If he ran himself, he could possibly make it out alive, leaving the others to die.
+
+But… was that a way to get stronger?
+
+“Then we fight,” he said, clenching his fist, the decision made.
+
+His words clung in the air like a festering smell. Everyone knew that if they fought here, the likelihood of them dying was incredibly high.
+
+Chloe responded by firing a plank of wood at high speeds at the monster, the edge of it breaking shards that lodge into the Dreadknuck’s skull.
+
+It roared again, louder this time. Jake didn’t have the luxury of trying to mute the sound as it thundered towards them, causing the bridge to jump and jostle.
+
+Jake pulled the others onto the solid platform made of rock and cement.
+
+“The bridge!” He shouted.
+
+Understanding what he meant, Lyle latched his hand onto the handrailing and melted it with his fire.
+
+Jake smashed the other side, removing the wire with brute force.
+
+Seeing what the pesky humans were doing, the colossal beast leaped up to another bridge before the one it was on fell. It grabbed the edge of the bridge and swung, the entire air moving in protest from its weight and size.
+
+It landed with a resounding crash, sending dust and debris scattering.
+
+Susan was on the monster without warning, cleaving and biting at the beast. With a snap of its leg, it sent the berserker flying, smashing against the wall. She twitched, spat out a tooth, then shakily climbed to her feet, only to fall again.
+
+She refused to quit.
+
+Actually, she’s just starting.
+
+Jake didn’t have time to be shocked at her level of endurance as he met the beast with blade and bone. He sundered the forearm of the creature with the edge of Gutter Tooth, his full strength biting through hide and flesh alike.
+
+Perhaps surprised at the damage, the Dreadknuck snarled and punched his face. It was slow; at least for him. Jake scrambled to the side, narrowly avoiding the strike. The punch whistled overhead.
+
+Glenn fired another arrow, this one hitting its eye. The beast covered its face, yelling. It snapped its hand down onto the ground, sending a blast of dust in the neighbor's direction.
+
+Jake coughed and spluttered, the dust attacking his eyes. Everyone was the same.
+
+The monster arrived at Jake, hefting the massive pole that exuded electricity. It screamed through the air. Jake ungracefully flung his body to the floor, barely reading its movements through the dust. The weapon tore into the rock wall behind, sending stone shards flying.
+
+Another attack arrived in a second, a sweeping backfist. It caught Jake flush. An enormous weight crashed into him, sending him hurtling to the side, rolling god knows how many times, only to slam into the wall.
+
+He saw stars.
+
+He couldn’t see anything at all.
+
+He tried blinking, only for the world to turn upside down. Something hot dripped down his skull.
+
+The fight raged on for minutes, seconds? By the time he came to, everything had changed.
+
+The Dreadknuck hoisted Susan up in the air, grabbing her entire body. The thing squeezed. Jake heard something snap. Then another. Susan only managed a pained groan. Without her weapon, she used the next best thing; her teeth. She bit down, only for two of her teeth to break, falling down.
+
+It raised its thumb to her head, and was about to press down.
+
+The beast grinned.
+
+“Susan!”
+
+Mana exploded forth. Jake snapped his attention to the fireman. Mana coalesced aggressively at his arm, pooling there.
+
+Jake wanted to warn him. To shout that what he was doing was going to result in something awful happening; he sensed it in the air, the danger of it all.
+
+However, curiosity won out.
+
+What was going to happen?
+
+What could he learn from it?
+
+Instead, he remained quiet.
+
+The mana turned violent, and in a desperate bid to save his neighbour, used far too much of the mysterious energy.
+
+The heat in the entire hall spilled over like a kettle reaching boiling point.
+
+Lyle’s arm exploded. A gush of wild fire shot out like a raging bullet, slamming into the ape. The monster’s flesh and bone parted, the bullet of fire boring a hole straight through its chest. It burned, the smell of charred flesh swarming Jake’s senses.
+
+Blood fell, splashed to the floor. Lyle’s arm was missing. Gone and vaporised. His face turned a sheet of white as he fell to the floor, clutching at the stub where his arm had vanished.
+
+But the hero had done his job.
+
+The ape lost its grip on Susan.
+
+Chloe quickly picked her up with her mind and brought her closer to them.
+
+Smoke rose like mist from the Dreadknuck’s wound. The massive creature thrashed in pain, smashing the far wall in agony.
+
+Jake flashed three heals all at once on himself, regaining his mind. He channeled Meditation, forcing it to wash mana through him.
+
+The ape didn't care about the hole in its chest. It didn't care that it was burning. It raised the electric pole with its remaining strength, bringing it down toward Lyle's head.
+
+Jake lunged. He didn't have time to aim his sickle, so he threw his left arm up to take the blow.
+
+He tried to do that sudden, snap movement with his muscles. The timing was off.
+
+The heavy pole slammed into his forearm.
+
+The sound of his bone breaking was loud. It shattered into pieces, the shards cutting through his flesh and tearing his hoodie sleeve.
+
+The force threw him back, his boots sliding through the bloody water. His left arm hung loose, completely ruined.
+
+“Jake!” Lyle roared.
+
+The pain hit his brain like a hammer, making him see red. He used three more Minor Heals in a row, forcing the golden flame into his arm. It didn't fix the bone, but the muscle tightened up around the fragments, locking them into a makeshift splint.
+
+The monster turned its blind rage toward Glenn.
+
+Glenn was out of arrows. His bow was on the floor, his back pressed flat against the wall as the giant beast loomed over him.
+
+"No!" Glenn screamed.
+
+Chloe gained a burst of mana from somewhere and took Lyle’s fireaxe with her mind, cleaving it into the ape’s skull. The horrifying dull sound of metal meeting bone echoed in the hall.
+
+It refused to stop.
+
+Hefting its enormous weapon, it swung it straight at Glenn. It made contact.
+
+Glenn’s body vanished, brought at high speed right for the wall. His body struck solid stone and literally exploded, painting the wall red.
+
+Jake blinked.
+
+His body turned gray and translucent, looking like a ghost. The ghost of Glenn shattered like glass, turning into smoke.
+
+Ten feet away, the real Glenn appeared out of nowhere. He collapsed to the floor, coughing violently, looking pale and completely spent.
+
+Jake balled his right hand into a fist, ignoring the dull grind of the bone in his knuckles.
+
+The ape was wide open. Its chest was still smoking from Lyle's fire, and its head was turned toward where Glenn's clone had just vanished.
+
+Jake charged. He had one arm left, and his left side was a mangled mess.
+
+But he still had one more fist.

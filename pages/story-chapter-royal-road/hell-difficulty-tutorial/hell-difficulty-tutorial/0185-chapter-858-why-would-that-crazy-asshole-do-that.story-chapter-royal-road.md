@@ -1,0 +1,133 @@
+---
+id: 9ba72e49-53c6-506d-a513-8fcb7ff41bf5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 858 - Why would that crazy asshole do that!?"
+slug: 0185-chapter-858-why-would-that-crazy-asshole-do-that
+partOf: hell-difficulty-tutorial
+position: 185
+ownLength: 2253
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3801639/chapter-858-why-would-that-crazy-asshole-do-that"
+royalRoadId: "3801639"
+---
+
+Victoria throws me her bracelet and, grabbing it, I teleport away just as she slams into the Griffin and stabs her fingers into its neck.
+
+The Griffin bites at her with a speed she can't dodge, and its front leg guts her body horizontally, separating her legs from her torso. Even then, despite losing one arm, her upper half continues to attack it.
+
+I reappear at another spot. Victoria grows from the finger I’m holding and leaves another with me while saying, “Keep the bracelet for now.”
+
+I nod and watch as the legs the Griffin cut off grow into an entire duplicate. That duplicate tears off all five of its fingers, throwing them around, and a new Victoria grows from each of them. All of them attack the monster and hang onto it, even as it charges me, and I teleport with the finger again. Victoria, staying behind, charges the monster and joins the duplicates already fighting it.
+
+One of the duplicates clashes against the Griffin, overclocking her body and exploding after a single punch, but the Griffin's head flings back, and two more duplicates follow in the exact same way. More and more duplicates reappear from pieces of flesh, attacking and immediately exploding as they push their bodies far beyond their limits.
+
+By now, the Griffin is missing one eye, one wing, and one of its legs is heavily damaged, with multiple bleeding holes covering its body. Still, the monster shrieks in anger and charges, breaking through the skyscraper and shaking the Victorias off its back.
+
+Even that doesn't stop my sister. Her duplicates charge, jumping off the platforms and the skyscraper in a way that ripples the surfaces as if they were made of water without breaking anything. They rush at the Griffin like they’re the ones hunting it, while even more duplicates keep popping up.
+
+Meanwhile, I boost myself down along with the platform I'm standing on, dodging the selari man with the sword and shield who passes through, slashing his blade. He lifts his shield just as I shoot my projectiles at him, blocking it with a clear ring of metal. More of my projectiles move past his sides to turn around and hit his back, but he channels mana through his shield, and all my projectiles get pulled toward it, slamming against the metal.
+
+Then that selari man rushes away as the bear man with telekinesis follows, shouting at him and launching projectiles at the man.
+
+A velnar man teleports over to the Griffin to fight it directly, but he doesn't join forces with Vic. Instead, he swings his arms, destroying one of her duplicates and charging the monster. My sister doesn't seem to mind and ignores him, the two of them pursuing the Griffin, who continues fending them off as well as a hundred or so more attacks.
+
+Some participants use the distraction of the Griffin to fight among themselves, while others launch sneak attacks against the ones fighting the Griffin. Some even attack both the Griffin and the people facing it.
+
+Explosions are all over the place as all of it ramps up, and of course, I take note of the way the Griffin looks at me.
+
+It doesn't try to hunt for velnar anymore, it fights off the participants attacking it and constantly tries to get to me, while Victoria proceeds to stand in its way every time. No matter how the monster moves, there’s always a bit of Victoria's flesh clinging to it, and her duplicates grow to continue the attack.
+
+Meanwhile, I have my [Weave] already set in place. A few of the participants are caught up in observing it, trying to hijack, disrupt, destroy, or use it against me, but I keep up the effort necessary to keep it mine. And so I use it to teleport all over the place, observing the Griffin and teleporting. Sometimes leaping multiple times a second, and others just once or twice every five seconds.
+
+A single failure could easily mean my death, and I have no illusions that my bracelet would work properly with Envy around. It would probably also be good content to have one of the siblings die to create drama around, preferably Vic’s survival, who’s so far been showing off a lot more out of the two of us.
+
+She’s currently demonstrating just how ridiculous she is with her ability to constantly duplicate herself without losing her mind, all while facing a Champion grade monster.
+
+I teleport again and then duck under the green projectiles someone’s been shooting at me. A platform thrown by telekinesis flies over me and crashes against the selari man with the sword and shield, and instead of defending myself against the explosion, I teleport again. Accelerating my mind just that little bit as I do, I observe the twitches of the Griffin's muscles, trying to predict its movements and teleport again. Not even for a second do I try to actively track the monster. If I did rely on just that, I’d die.
+
+Reappearing again, I see a barrage of attacks raining down on Vic, and two humans in armor attacking her, trying to wound her with some sort of poisonous weapon, likely hoping it’ll affect the duplicates as well.
+
+Everyone here is doing their utmost fucking best to fuck over everyone else, while the Griffin hunts me like I'm the best snack it’s ever seen. The longer it stretches, the more maniacal its eyes seem.
+
+I'm not even surprised. My ichor is full of hyper condensed mana, my ability to create an [Empyrean Lance], and my body itself in the form of my mana vessel trait. For a monster that seems to regenerate by consuming mana, I must seem like a goddamn treat. I’ve been warned many times that people might want to kidnap me for my eyes, or even my other traits, or my mana-conductive body. But who knew the first real threat I’d face would be a chicken with the body of a lion.
+
+But I've had enough, especially as I sense more projectiles being aimed at me and more people attacking Vic instead of fighting off the monster.
+
+Keeping it down to thirty percent of my capacity, I cut the palm of my left hand and let my blood drip out, gathering it into a ball.
+
+As if smelling it, the Griffin shrieks, pushing everyone away and charging at me with incredible speed, but I’m already gone.
+
+Reappearing high in the air, I start forming [Empyrean Lance] and break it apart before it fully forms, taking all that mana under my control. I let it surround the orb, and they begin to bounce off each other, strengthening one another.
+
+[Empyrean Lance - lvl 58 > Empyrean Lance - lvl 59]
+
+Checking the bracelet Victoria gave me one last time, I teleport away. While reappearing on one of the smaller platforms, my mood improves.
+
+The Griffin stands where I stood before and stares with starry eyes at the orb made of my blood, pale blue mana, and the golden and white streaks of mana around the core. Then, without hesitation, it gobbles it down, eating it in a way that makes it look like it’s about to choke.
+
+The shriek it lets out this time damages my eardrums, and most of the mana constructs in the air disrupt fully, though my [Weave] fails to completely break apart. Especially not the part I modified to endure the shriek.
+
+[Weave - lvl 24 > Weave - lvl 25]
+
+[Weave - lvl 25 > Weave - lvl 26]
+
+My last few checks confirm that everything is ready and functioning, and I feel a deep satisfaction as they do, especially since not once did I go over my promised limit. This entire situation, all these people, honestly piss me off.
+
+I form another lance and shoot it at the Griffin, who catches it in its beak and breaks it before devouring it.
+
+And then another.
+
+And another.
+
+And a few more.
+
+At this point, most of the fighting stops. A few people are shouting at me, throwing themselves forward and attacking me with everything they have just to stop me, but it’s too late.
+
+The Griffin grows to twice the size it was at the start, and its shadow looms threateningly as six pairs of wings violently snap open with a deafening crack.
+
+POV Participant in the Game sponsored by Halcyon Trust Corporation
+
+Every Griffin has a stomach that converts the mana and items it eats into a healing factor, and into temporary enhancements for itself. Everyone knows that.
+
+So why, why would that crazy asshole do that!?
+
+The Griffin is now gleaming with power, fully healed. That Champion grade monster, which should be one of the simpler ones to deal with if you come prepared, is now somewhere around the middle grade of Champion monsters.
+
+And that ridiculous bastard calmly stands there on his goddamn platform as if a single miscalculation wouldn't mean his death. He isn't even smirking like you’d expect of a crazy person as he sweeps his gaze around the arena, while the Griffin seems to be waiting for him to feed it another empyrean projectile like the ones he’s been using.
+
+But instead, that man finally finds what he was looking for and speaks into the silence, pointing his finger at a human man. "You. You attacked me like three times, and my sister twice with that nasty poison."
+
+The man's confusion turns to horror as a pale blue mass of mana with a flickering white and golden core forms on his back, and the Griffin snaps toward him. Before he can even move, the monster is there, holding his torn-off head and biting into said mana.
+
+And that crazy, crazy man nods in satisfaction while raising his voice. "Now, you fuckers. Why don't you attack me again? Maybe try to be a good sneaky little shit and try to use a mental attack to force my mana to go out of control, or try to connect to my sister's duplicate to search for her mind to break it."
+
+He turns and points at a feylith floating nearby. On that man, the same empyrean mana flickers, and in the next moment, the Griffin is there, holding his dead body.
+
+It then sits there waiting, as if for more food, looking back at the man.
+
+Like everyone with at least some experience, I realize he must be using that ridiculous array that still remains in the sky to send empyrean mana to the people he must have already marked.
+
+In quick succession, he points at five more people, and each of them dies while he watches on coldly. Though there are a few shrewd ones that are fast enough, and they move to kill themselves and activate the bracelet to teleport themselves out before the Griffin gets to them.
+
+At this point, not even the most powerful participants have a chance against the monster, and barely anyone dares to move. Every time that man points at someone, it’s because that person used some especially nasty way to attack him or his sister. I know for sure some of the others attacked him much more, but he doesn't point at them, as if there were some sort of twisted logic in his selection.
+
+But even the Griffin's time limit starts coming to an end, and that man stops pointing at people.
+
+That causes the monster to look at him, as if he were the last remaining source of food it could get.
+
+Melek starts counting down the last few seconds when that human man arrogantly lifts his hand to point. But this time, he doesn't point at anyone else. No, he points at his own left arm, which starts glowing in the brightest golden and white colors. In the next moment, he disappears, leaving the arm floating there just as the Griffin reaches it.
+
+The monster bites it and swallows, not caring about the impending explosion, but this time the explosion is different. There’s a ridiculous amount of mana packed into that arm. Mana, and some sort of primordial energy, or is it multiple energies?
+
+All of it explodes inside the Griffin's beak, causing the monster to scream in pain. Even then, it seems to endure it all. But this time, there’s no mana left for it to absorb, all of it was almost perfectly used up in the explosion.
+
+As the wounded monster begins to look around, its beak cracked and one of its eyes burnt, it stops and retches. From the inside, fingers connected together stab through the skin near the beak, and the arm twists upward and stabs into the monster's remaining eye.
+
+The Griffin swings its talons, separating the arm from whatever is inside, but the arm hanging from its eye regrows a new body. She grabs the beak with her free arm to pull herself up while constantly stabbing at the eye with the other, trying to dig toward the brain.
+
+I almost pity the monster with how that crazy, determined woman is still going at it, but it finally disappears, dismissed.
+
+Still in that silence and stiffness filling the air, Melek starts shouting excitedly, saying he hopes we enjoyed the result of the spectators’ vote.
+
+The woman who had been attacking the Griffin then jumps up, returning to that human man, who hands her a bracelet before the two of them jump down, heading for the lower layer.

@@ -1,0 +1,337 @@
+---
+id: cbe1128b-e43c-5d37-893a-faf989b0f90e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37"
+slug: 0037-chapter-37
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 37
+ownLength: 4663
+unit: words
+publishedAt: 2026-01-10
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2930774/chapter-37"
+royalRoadId: "2930774"
+---
+
+Chapter 37
+
+Veron heard a slight ringing in his ears when they walked back out onto the street.
+
+The smell. And the heat.
+
+He looked at the dead on the street and felt himself breathe faster. He closed his eyes for a moment and connected to the stone below. It felt more distant than usually, but it helped.
+
+“Make sure to check the corpses from now on. We don't want one of those surprising us,” Alice said. She’d been the one to throw her spear, now poking the dead as they advanced.
+
+The rest of the inn was clear. The other half of their unit was already waiting.
+
+“You faced one of them too?” Velkir asked.
+
+“Speed and strength almost equaling a Greater Path,” John said.
+
+“I confirm that. We move slower. One house at a time from now on, half of the unit secures the road, rests, and waits to support. Lower ranks, try to avoid direct engagement with the creatures and stay at range.”
+
+They slowly cleared five more houses, not finding a single creature. The curse felt ever present, and Veron kept thinking back to the smell. He was here now, with this expedition, but he started to doubt the whole thing. There were Gold ranked adventurers here. He couldn’t match their strength, and their experience. If one of those creatures got to him-
+
+Hayden tapped his shoulder. “Stay focused. Don’t let the fear take over,” he said and his eyes glowed for a split second.
+
+Veron breathed in deep and felt some of the dread he’d felt dissipate.
+
+The next building was larger. John led as with the others, Velkir and her three teams securing the road after having taken out two monsters in the last building. One of the silver ones had been injured, the healers taking care of him.
+
+The entrance hall was broad and high, stairs leading down to lower floors, stone walls illuminated by lantern light as they silently crept lower, the Silver Wolves at the center of their formation, the gold team in the front, and the silver one at the back. They came out into a spacious room. There were tables surrounded by the dead, cards and drinks remaining. The first floor cellar was clear, the group checking every corpse before they moved deeper.
+
+The second floor was the same, though tapestries and art suggested it was for higher profile gamblers. A bar was situated to the left of the room, a dead man slumped over the counter. The floorboards creaked as they advanced and checked the dead. A door led to a side room. Gerrard raised his hand and slowly advanced, the others waiting and getting into position.
+
+A creature rushed out from the doorway, spinning to avoid a bolt. A second one rushed out and crashed into John, and then a third going for Silvan. Dull shouts came from above. Bright fire flashed out from Silvan, illuminating more of the creatures emerging from below tables and between the dead, yellow eyes taking them in. “Engage!” Alice shouted, glowing in white light as she bolstered the others and rushed past Veron.
+
+He spun left when one of the creatures rushed out from below a table, swinging wide and hitting his stone shield with enough force to shatter it.
+
+Veron skidded back and nearly fell, a stinging pain coming from his arm as splinters of stone rained to the ground. He could barely raise his mace as the monster advanced on him with lithe steps. He saw what looked like a crooked grin and joy in its eyes. Chains snapped around its chest and brought it to a sudden halt, clawed fingers swishing past in front of his face.
+
+A bolt hit the creature’s head and then a bear rushed and tackled it down to the ground.
+
+Veron glanced over and saw Alice fail to pierce one of the creatures. The monster moved around her, clung to her back and dug its claws into and through her plate helmet, squashing her head with a sickening sound. Another warrior moved over and struck its back with his sword but Veron turned forward, seeing chunks of the bear cut away as the creature tried to get out from its grasp.
+
+Veron felt his hands tremble, grasping his mace with both before he pushed through and advanced. He brought his mace down on the struggling monster, seeing the creature dodge before Hayden was next to him and brought down his hammer. The heavy blow made the creature turn its head and growl. Veron took one of his blades and aimed, ignoring his shaking hand as he connected to the stone and waited for another one of Hayden’s blows.
+
+Just when the monster cracked open the head of Silvie’s bear, Hayden struck it back down, and Veron shot his stone blade straight into its jaws from above. The impact was dull and cut through, pinning the creature onto the floor as it swiped around itself.
+
+Veron staggered back, his ears ringing now as he looked around the room. Shadows were moving and he raised his mace with fast breaths only to see John.
+
+The man limped over, raised his blade with a grunt, aimed for the waist of the struggling monster, and cut it in half.
+
+It stopped moving and John collapsed against one of the tables. The fight was over.
+
+Hayden caught the man and checked for wounds. There were deep gashes in the side of his plate armor. Half of his helmet was gone, blood covering the exposed skin of his face.
+
+“Monsters are dead,” someone called out. Stevan, one of the silver warriors.
+
+“He’s bleeding out,” Hayden said. “Where are the other healers?”
+
+Veron looked around. He could hear his heart pounding in his ears. The crossbow wielder, Gerrard, looked around the room, his arms shaking slightly.
+
+“Alice is dead,” Silvan said.
+
+“Estlan too,” Stevan said, his voice shaking slightly. “And Vic. Allison and Aiven are injured. I’ll try to stabilize, get them to extract the monsters.”
+
+Three dead. Most of the others injured. We can’t do this. We can’t face these monsters.
+
+“I heard shouts from above, right before the fighting started,” Veron said. He tried to focus on the now, looking around to make sure that Silvie, Hayden, and Reka were still around. They were.
+
+The room smelled of blood and burnt flesh, and he still felt the pressure of the curse. He tried to steady his shaking hands, then moved and ripped out the blade he had shot into the now halved and unmoving monster. It looked like a woman. Had she worked here? Been a patron?
+
+“They ambushed us,” Gerrard said. “These aren’t just some chaos beasts.”
+
+“Focus up,” Silvan said.
+
+Veron moved over to Hayden. “What can I do?”
+
+“Bandages from your pack. Prepare them for the others.”
+
+“Secure the room, and stay quiet,” Reka said.
+
+“The others aren’t coming,” Silvan said.
+
+“Then they’re dead,” Gerrard said. “Shit. I fucking knew this was a bad idea.”
+
+“Don’t lose it, Gerrard,” Silvan said. “We’re still alive. John is too.”
+
+Veron now felt the throbbing pain in his arm. It was familiar, from all the sparring he had done with Hayden. Snapped and broken. He checked if he was bleeding externally but found nothing. “My arm is broken.”
+
+“I’ll check for internal bleeding once the others are stable,” Hayden said. He was still healing John when the man grabbed his arm.
+
+“I’ll take it from here,” John said with a tired voice. “Got a relic, and I’ll take one of the dead to extract. Take care of the others.”
+
+Hayden nodded and moved on.
+
+Veron followed him. He helped the injured extract, moving the bodies as they quietly spoke their prayers. He could taste the iron, could feel the curse permeating everything in him, could feel the residual heat of Silvan’s fire. He heard the pained grunts of the others and his own ragged breathing. And then the room returned to the faint glow of their lanterns.
+
+“Those creatures are tough. Gerrard, can you scout upstairs? And the street?” John asked.
+
+Gerrard nodded and left with smooth and quiet steps, not offering a word of complaint. Hayden worked in the meantime and the others helped where they could.
+
+Veron felt the heat in the room. His arm hurt worse now.
+
+Hayden walked over and checked him now but Aiven nodded his way, pulling one of the dead creatures closer. “Take this one instead.”
+
+Veron knelt down and sighed, looking at the dead monster. It looked human, in most ways. Claws and blood, sickly skin, but human. He closed its eyes and focused on his magic, then found a piece of his shattered shield and reduced it to powder. He breathed in and touched the powdered stone onto the creature’s brow, then closed his eyes.
+
+Veron smelled more iron. He could hear the others speak, but didn’t hear the words, and then he felt the earth below, with the presence of the curse. His arm felt better, the bone set.
+
+“Better,” he said.
+
+“Silvan, help me with my pack,” John said. He held a necklace now, his hand glowing slightly as he touched his still injured side, then his face. “These weren’t distracted chaos beasts. They were waiting for us.”
+
+“The Mera underestimated the danger. Was all of this a trap?” Silvan said as he found and handed John what looked like a potion.
+
+John uncorked and drank it. “A trap? I don’t think so. Maybe they were waiting to ambush, or we pushed them here into the city and into a corner.” He grunted, then breathed out through his mouth. Half his helmet was missing. He removed it and started checking the dead. “Either way, I don’t think we’re clearing this city. We analyze later. For now, we have to survive.”
+
+Gerrard was back, his lantern turning back on. Veron hadn’t noticed him return.
+
+“The others are wiped out,” he said in a whisper. “Street is clear and quiet. Their corpses are still bleeding.”
+
+“Velkir?” John asked.
+
+“Gone.”
+
+John breathed in deep, looking at the remaining people of their unit. He stood up slowly, took a step, and rolled his shoulders. “Is it fine if I take Estlan’s helmet?”
+
+The silver team exchanged glances and then nodded.
+
+He put it on. “Thanks for the healing, Hayden. I’ll take point as the highest ranked, if nobody objects?”
+
+Hayden glanced at Reka, but she nodded. “What do you suggest?”
+
+“We are no longer exterminating threats. These creatures are far more dangerous and cunning than any chaos beasts I’ve faced before,” John said. He was quiet for a moment, the others watching. “We will move quietly and hidden as best we can. We check back and see if we can regroup with the Serena division near the city gates. I hope other units have fared better. If we fail to retreat, we will try to get to the harbor, as planned,” John said. “No more injuries?”
+
+“We’re good to go,” Allison said. “I’d like to not leave the dead behind… but I don’t think…” She shook her head and then searched her pack. She got out a flask, a potion it seemed. Stevan glared at her before she handed it to John. “Blood and chaos, regeneration and rage. Take it.”
+
+He looked at it and nodded. “Let’s hope we won’t need it.”
+
+“Allison, Stevan, Aiven,” John said and looked at Veron. “Veron, and Silvie. You all stay back and protect Hayden and Reka, we’ll need a healer and runic mage if we plan to get out of this alive. My relic won’t be able to cover all that.”
+
+“I’ve got a healer relic too. Modest strength but I can take a bit of work off you,” Aiven said and nodded to Hayden.
+
+“Myself, Gerrard, and Silvan will take the lead and if we get into another fight, you all focus on support. Don’t take risks. Ready?”
+
+They all exchanged nods.
+
+“Up the stairs then, Gerrard, scout.”
+
+They advanced slowly now, Gerrard checking the road before he motioned them to come out.
+
+Veron saw them then. Tenea and her teams. She rested against the wall of the house opposite, the stone behind her cracked and blood visible from her caved in chest and abdomen. Her head was lowered, blood dripping to her lap.
+
+The others lay scattered throughout the road, amidst the corpses of a dozen monsters. One of them looked near three meters tall, skewered by a spear and greatsword, dead and resting on its knees. It looked like a mutated human, exposed muscle visible on its massive arms, half its face was gone, a single eye staring into nothing.
+
+Veron’s breaths grew shallow and he took a step back.
+
+“Veron, Stevan. Breathe. Stay with us,” John said, snapping him out of his thoughts. “We’re here. We’re alive, and there are others out there who will need us. Everyone, focus.”
+
+Veron tried, but half their unit was wiped out, and their own groups had lost people too.
+
+And we’re an iron team.
+
+He glanced at the others. We can’t face these monsters.
+
+He focused on his mace.
+
+Hayden grabbed a shield from one of the dead and handed it to him. “We’re still here.”
+
+Veron breathed deep, and grit his teeth, nodding slowly.
+
+Gerrard returned from the corner of the road behind them. “I saw a group of ten running towards the gates. Airship is no longer near the wall, nor were any archers or mages atop.”
+
+“Too many,” John said. “We go for the harbor. Objections?” He waited a whole two seconds and then led onward, everyone quiet as they walked around the dead covered streets and alleys alike, leaving behind the adventurers they had come here with.
+
+It was quiet again, nothing indicating that there were monsters just around the corner. An explosion resounded in the distance. Veron twitched, checking behind them as silence returned. He had his armor, and his weapons, but how much would they help? If even gold ranks were taken down so easily.
+
+They cut through John’s armor.
+
+He connected to the earth, forcing himself not to use up all of his Focus.
+
+Gerrard helped them avoid two more groups of stalking creatures before they reached a broad square.
+
+“Shit,” Gerrard murmured.
+
+There were sounds of battle. At least a dozen of the monsters hounding three adventurers, one of them a runic mage keeping them back with wide reaching chains while an archer sent out arrow after arrow into the fast moving creatures.
+
+“We can’t face that many,” Allison said in a whisper.
+
+“We can’t,” John agreed. “We wait for them to-”
+
+A figure landed in the square, rushing forward and towards the fast moving monsters. Lady Mera spun, an arc of golden light splitting the air itself with a whistling sound that seemed delayed. She swung her glaive, taking measured steps before the weapon finished its spin. More lines lit up in the air, her frame barely moving and yet she caught the creatures now turning and rushing her, splitting through their forms with movements that Veron couldn’t comprehend. She moved again, slow steps, then gone when he blinked, into a group of five, all of them jumping her but she simply walked through, three lines of light appearing behind her as she stood, glaive aimed out to her right before she breathed and lowered her weapon.
+
+Limbs and guts now fell onto the square as the last of the creatures dropped. A wave of air reached them. She looked at the three survivors and pointed in the direction of their group. “Team up and move to the harbor.” She crouched, and jumped, landing on a nearby house before she ran and vanished from their view.
+
+“Stroke of good luck for once,” John said and motioned for them to move, waving at the adventurers. Veron saw the last of the separated limbs fall and blinked, looking up to try and spot their expedition leader.
+
+“Gold team, the Honored Few,” John greeted.
+
+“Gold team, no name. Move to the harbor?” The man wore heavy plate, torn near his stomach and left leg, bandages visible below. Blonde hair peeked out of his helmet.
+
+“Yes, who will take lead?” John asked.
+
+“You,” the runic mage said with an exhausted voice. “We lost most of our unit.”
+
+“Much of ours is gone too. The way back is crowded. Let’s hope some of the Platinum ranks made it to the harbor.” John said.
+
+When they passed the square and a few more alleys, Veron could see the airship hovering in the distance, arrows and spells flying down from it.
+
+“That’s the direction of the harbor,” Silvie said. She sounded anxious.
+
+“It is,” John said. “Stay focused, move quietly. It’s not far.”
+
+Veron tried to ignore the hundreds of corpses they walked past, the faraway shouts and screams he occasionally heard, the pressure of the curse, and the smell of death all around. Grounding with his earth magic helped, but even then, he was reminded that everything was poisoned and cursed. He felt scared, for himself, and for the others. For Silvie, Reka, and Hayden. After everything that happened, he didn’t want it to end here, not for himself, and not for them.
+
+Focus. One step at a time. You’ll get out of this, and then we leave this fucking chaos to people like Silea Mera.
+
+Slowly, they advanced towards the harbor, trying not to attract any of the creatures stalking the buildings and alleyways. He could see the ships now, some of them drifting without anyone to steer them, a few smaller boats washed up against the stone foundation of the harbor. A breeze moved past, the winds more present here, and yet the lake itself looked almost smooth.
+
+They crossed a last street and reached the harbor. The expedition forces had set up a perimeter, with stone walls, wagons, and carts, adventurers manning the defenses and pushing back against the creatures rushing them.
+
+A team of gold ranked fighters rushed towards them as they approached, healers checking for injuries before they ushered them to climb over the defenses.
+
+“They were waiting in many of the houses, some groups counting as many as twenty. The central division was almost wiped out,” one of the healers shouted over the sounds of battle. “We have orders to regroup at the harbor and evacuate anyone below gold rank in the cover of the command ship. Most of the local vessels were left untouched, though some contained chaos beasts as well.”
+
+Veron looked up when a lance flew up and struck the airship. It wobbled slightly but stayed in the air. Another lance was stopped by magic. He focused and climbed over the large wagon that was part of the defensive perimeter, using the rope someone threw him.
+
+The harbor was littered with the dead. It looked like many of the monsters weren't willing to engage the organized group, but more of them were rushing through the dark and towards them, dodging arrows and bolts before they hid away again.
+
+Veron and their group were hurried onto a more traditional ship, a crew setting up the sails. A gold team was waiting on board, as were dozens of iron and silver adventurers, all in a mixed state of shock and injury.
+
+“The back lines were overrun. They picked off smaller groups and then amassed to cut off our retreat,” the gold team leader said. “The river bridges are covered in them. We'll be going east and make for Anvakar while the higher leveled Paths hold them off and join us on foot.”
+
+A loud crash came from the square on the harbor, a near three meter tall humanoid monster had broken through a stone wall protecting the adventurers. It shrugged off arrows and blood magic bolts, swatting aside a plate armored warrior who charged it. More of the creatures were rushing in through the opening.
+
+A large chunk of rock flew up from somewhere in the city, slowed by magic but still striking the airship and making it veer to the side.
+
+“We're going to die,” one of the nearby adventurers said.
+
+“We're preparing to leave! Take anyone with us who can join!” the leader shouted.
+
+The large monster was advancing, arms as broad as trees, a single horn growing out of a disfigured skull.
+
+What the hell is that.
+
+A single figure in black scale armor advanced through the battling chaos and crashed into the massive being, dodging its blows and striking back with punches of all things.
+
+Veron looked down into the water and saw some of the monsters swimming towards their boat. He called out but others were already shouting, the sails now catching wind as the gold team leader called for those fighting on the harbor to come onto the ship.
+
+“They're climbing up!” One of the others shouted.
+
+“Get in formation!” John shouted and raised his sword.
+
+Many of the others joined him, some stayed frozen or curled up on the deck of the ship.
+
+Veron could see a horde of the creatures advance through the main road leading to the harbor.
+
+We never had a chance.
+
+He glanced at the others of his team, bit his lip, and readied his mace. Arrows, bolts, and his stone blades cut Into the monsters that jumped on board, the creatures upon them with fast steps and lithe movements. Claws cut through steel and thrown bricks dented in armor. Chains and runic magic slowed and stopped the creatures while the others attacked.
+
+Veron screamed and struck the closest creature with his mace, blood splattering onto his face, someone else stabbing the creature through its skull. He blocked a hit coming from his left, the claws cutting through his wooden shield before the force ripped it away. He watched chains catching the creature, wolves rushing its legs before a bolt slammed its head to the left.
+
+Another monster rushed past and tackled the adventurer next to him. Veron rushed forward and tackled it away, managing to divert its blow before he was on top of it, a sword stabbing into its skull as claws cut into his armored arms. He ripped himself free and staggered back, barely holding onto his mace as he breathed heavily, a silver rank stabbing into the monster he had downed.
+
+The others were killing the last of the beasts, gold ranks charging left and right, blood lances and explosions staggering the remaining monsters.
+
+The ship creaked as it pulled out of the harbor and onto the Terrom lake.
+
+Veron could barely stand up straight when the last creature fell, breathing hard as he looked for another enemy. He fell down to one knee, his mace clattering to the wooden floor. The harbor was already fifty meters away, and they were pulling away fast, past the stranded ships.
+
+He could see that the battle was still raging, watching with ragged breaths. There were so many of the creatures and only few remained of their own. The airship was pulling away, flying northwards as more rocks and debris were thrown up towards it.
+
+Many of the others checked the outside of their ship, giving the all clear some few minutes later. By now, they could no longer hear the fighting at the harbor, the city of Perrion looking more and more quiet in the green tinged distance overcast by black clouds.
+
+Veron felt his vision blur. He stumbled to the railings and puked into the lake. He wasn't the only one. The expedition had failed. They wouldn't make it to Lyrie, nor to Leiveen. Not that he had a lot of hope left for those cities now that he had seen what had happened to Perrion.
+
+Cursed and dead. Humans changed and mutated… is that what it was? Is that what the spell did?
+
+“Bring the injured to us!” one of the adventurers called out. A man clad in battered steel armor. They were collecting the dead monsters for extraction as well.
+
+Veron found his team and walked over, seeing the corpses on the deck, people screaming or crying next to the dead, now that no monsters were pursuing them anymore. The Silver Wolves were alive, and for that, he was grateful.
+
+He fell into a hug from Silvie, wincing at the pain in his arms.
+
+“Let me see if I have enough left in me to take care of that,” Hayden said.
+
+“You should focus on those with worse injuries,” Veron said. His voice sounded flat.
+
+“There are no more of them left,” Reka said in a sober voice. “What have we walked into… what were those creatures. They took out gold ranks as if they were foot soldiers.”
+
+“I can't believe we made it out,” Silvie murmured. “Lyrie…”
+
+“There’s nothing we can do to help. Let’s hope the walls did something,” Reka said, but the bitterness she felt was obvious. Most likely, Lyrie had fallen.
+
+Hayden cleaned the deep cuts in Veron’s arms. He’d been lucky no major arteries had been hit. “I’ll find you a corpse to extract, if there are any left.”
+
+There were, and Veron laid one of them to rest.
+
+The wounds healed but he felt little relief. His head was pounding at this point. The deck of the ship was chaos, all the order and organization they had shown back before Perrion was gone. It was a wonder the ship was sailing, some few more experienced fighters keeping it together to make sure they stayed on the right course.
+
+By now, the walls of Perrion were no longer visible. Their group was sitting on the deck and close to each other, blood covered and exhausted. Veron blinked his eyes, closing them to try and push away the weight of the magic in the air but it only made it worse. He felt itchy and disgusting, and he didn't know if it was the magic or everything else.
+
+“Do you think the magic turned them into those beasts?” he asked, blinking his eyes as he remembered the burnt smell back at the first inn they cleared.
+
+“I'm thinking that's what happened. Either that or the creatures were summoned or created by the magic. If they amass and attack Anvakar…” Reka murmured.
+
+“Can we stop talking about them?” Silvie said. “Let's just focus on getting back.”
+
+They were quiet, the winds out here on the lake more present than back in the forest, but it was dark despite the early hour. Looking south, Veron narrowed his eyes when he saw a flash of green light. He hoped it wasn't more curse magic making its way towards them, but nothing happened and a few minutes later, he focused back on the rocking boat and the creaking sounds of wooden masts.
+
+Connecting to the winds was difficult, and it felt as if they were pulling him anywhere but here.
+
+They sailed for hours, the various remaining team leaders discussing where to land, finally deciding on a nondescript strip of shore between Perrion and Karlsbrugg. The roads would lead them northwards and they hoped the creatures weren't hunting in the forests.
+
+Veron felt numb. He thought back to the conversation they had about joining the expedition, thought back to the grand words of Silea Mera, the confidence he’d felt, to be joining these people in a fight. It felt ridiculous now, having seen the monsters left behind by this curse, and yet they hadn't known.
+
+We even took a few of them down. Lady Mera cut through them with such ease. Maybe if they had planned a different approach, had tried to lure the creatures out.
+
+That line of thinking isn't going to help. We lost. Most of the expedition is dead.
+
+He breathed in deep, hoping that they could make it through the forest, and out of these forsaken lands.
+
+The first Expedition.
+
+We should have stayed in Anvakar.

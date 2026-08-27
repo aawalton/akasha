@@ -1,0 +1,203 @@
+---
+id: 532e7599-8e86-5afb-bb07-b9fc930f3379
+page-type-slug: story-chapter-royal-road
+title: "Chapter 761 - Eight gold coins"
+slug: 0086-chapter-761-eight-gold-coins
+partOf: hell-difficulty-tutorial
+position: 86
+ownLength: 3028
+unit: words
+publishedAt: 2026-03-01
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3106228/chapter-761-eight-gold-coins"
+royalRoadId: "3106228"
+---
+
+After calming down, he faces me fully. "I’m sorry for teasing you, Nathaniel. And you don’t have to beg or plead. I even give you my vow: Neither I nor anyone under my control will hurt or threaten your family or friends, at least until your tutorial ends. After that, we’ll see what our relationship turns into, whether you accept your place by my side or if we fight. I’m inclined to think we’ll fight, but I’m still hoping for the opposite."
+
+Some of the words resonate through the System. In the way certain vows and challenges do, he’s invoked the System as his witness.
+
+I stand there, clutching the mana I’ve been gathering since I arrived. He doesn't have to tell me, I know I’m ready to fight and die if I have to. A part of me even thinks that if I can't straight-up kill him, I can make him pay. I could cripple him for life, forcing him back into the pathetic state he was in before his rebirth.
+
+Oh, how much I want to do it. Even though he hasn't touched anyone I care about yet, it doesn't matter to me. Just the fact that he stands over me, holding that power, irks me to my core. It’s just like being on the first floor of the tutorial. My emotions are exactly the same as they were back then, in those weeks I lived in uncertainty, until I became strong enough to be comfortable.
+
+The fact that first-floor Nathaniel is still here, in a way, relieves me. I sift through my emotions, realizing that I meant what I said before. All these millions of people around me could be sacrificed. Men, women, even... even children. Just so the people I care about will be safe. And the realization that it might need to come to that means one thing. I’m simply not strong enough.
+
+There is nothing else to be said. No need for machinations or anything. I’m just not enough, and I won’t be making excuses for myself, like focusing on the fact that he’s much older and more experienced. None of that would change that simple fact.
+
+I chuckle in the end as I take a deep breath. “I accept your vow,” I say to Adrian. “And I agree, you’ve won.”
+
+“It is true that I cheated, but if I’m honest, I’ll continue to do so. But I like how you said it, that I won, instead of saying you lost. Just a little twist on wording, but it says a lot about you. How much longer do you have before you return to the tutorial?”
+
+“Three hours and change,” I answer, relaxing, though not fully.
+
+Adrian stands there in what seems like a better mood. “An Earth Stay token is a weird reward. In a way, it's extremely valuable, and in another, not so much. It allows you to return to Earth, yes, but you can’t enter the World Dungeon, not that anyone below Champion would survive it. You could use the token to kill other attendees and set your rule in a day, yes, but you could do that in a tournament just as well. So its value comes with knowledge.”
+
+He fixes the sleeves of his suit as he continues talking. “Every planet with a Sovereign Spark also has a fragment somewhere on the planet. Though we never know why. If it is connected to the Spark or if it’s the opposite. As for the fragment, it is usually a fairly pure one, and its power tends to vary a lot. Though it’s safe to say it’s purer than almost anything found in the tutorial, with the exception of the most powerful ones. But what’s truly incredible is its value. There are people in Beyond who would buy one for tens of millions of shards, offering a lot more than they would for the ones from the tutorial. Other than the fragment, there are less noticeable advantages. The system remembers you stepped here before your tutorial ended, like one of its darlings, and you might find yourself just a little bit luckier in the World Dungeon, and-”
+
+A signal reaches me, and it causes Adrian to stop talking.
+
+He notices that I’ve received a pulse through a [Ley Line] connected to something far away. The line is much thinner than a hair, weak, worthless for anything except sending that signal before breaking apart.
+
+I didn't even know about that line until it activated and broke, and in that moment, memories flood my mind.
+
+"Nathaniel, what was that?" Adrian asks in a slightly threatening tone.
+
+Taking in all these new memories, I, rather than answering, remind him, "You gave me your vow."
+
+Then my vessel, piloted by Mapthaniel, steps out of the teleportation mark placed on my back, and more of the memories I’ve been hiding from Adrian flood my mind as I remember the existence of Sneaky. I don't remember all that he’s hidden from me, but it’s just enough to make me understand.
+
+A flash of a memory of me appearing on Earth, manifesting my vessel, letting Mapthaniel pilot it, and search the coordinates I received from someone whose identity I no longer know. Bits of memories from Mapthaniel surface, along with the effort he spent searching while I moved around.
+
+"I have to go," I tell Adrian.
+
+As expected, he tries to stop me, but my vessel moves, already prepared. I don't even pretend to try to face him or avoid over-relying on black mana. I use it right away, and the vessel turns black with pale scars shining across its form, my evolved trait glowing more than before against that background of pure dark.
+
+For just the shortest moment, the vessel contests Adrian and his efforts to stop me before it is entirely blown away. That short moment is enough for me to teleport and erase the tracks behind me so he can't follow.
+
+But before I disappear fully, something bites into my leg. Looking down, I see Septa clinging to me. We teleport, reappearing in the place where my vessel located the dungeon holding the fragment that lies on Earth.
+
+The night swallows the horizon entirely. No stars reflect on the surface, no moon shines in the sky. The ocean at night is like a moving darkness, broken only by the violent rise and fall of black water with each wave collapsing into the next.
+
+I ignore Septa as I plunge beneath the surface, and the world above vanishes instantly. There is not a second to waste, as I know he’ll be here soon, angered that I am trying to take the fragment away from him, the one he so arrogantly left there to take later. It isn't even me who predicted that he wouldn't claim it yet, but at the moment, I don't know who told me.
+
+The sea grows calmer the deeper I go, but that calm feels wrong, unnatural. The currents pull at me, strong, yet leaving the surface above deceptively still. The darkness down here feels ancient.
+
+I form a single thermal orb above me, and light erupts outward like a spear of light. For a brief moment, the water glows, revealing moving currents and distant shapes that vanish as soon as the light reaches them. The darkness presses in on that light as if eager to snuff it out.
+
+Three shapes emerge from the black, sliding into the light with terrifying silence and smooth movement. Sharks, each big as a ship. Their bodies are pale only by contrast to the darkness.
+
+[Shark - lvl 299]
+
+[Shark - lvl 230]
+
+[Shark - lvl 239]
+
+A laser-thin stream of thermal energy cuts through the water, not giving the depths a chance to cool things down. It lights the darkness and cuts each of the sharks in half as I turn it in a wide, sweeping arc as I continue to rush down.
+
+I see the entrance to the dungeon below me when the sea explodes. Miles and miles of water disappear, split and moved apart, revealing a transparent red figure floating high above with Adrian in front of it. A projectile launches at me just as I reach the entrance. The notification asking me if I want to enter pops up, but I barely read it before I confirm and hurry to enter.
+
+Once inside, I stagger and cough while I rest my hand against the wall. I take a deep breath and close my eyes for a few moments. I spit up clogged blood and wait for my body to heal, a big part of my back that is now missing after Adrian’s attack.
+
+But of course, the wound on my back refuses to heal, taking me only a moment to recognize it as damage caused by the Fragment that Luan once held.
+
+I use Lily’s healing mark on it, which causes it to heal slowly, and I patch it up with layers of mana.
+
+Then I swing my leg, and Septa finally lets go, acrobatically twisting in the air before landing on her spider legs. She lowers her body and stares at me.
+
+Observing the leg she was biting, I use several more healing marks on it. I then coat my hand in mana and cut it off entirely, burning away the remaining toxin with massive releases of thermal energy from my body, as much as I can stand. I leave the rest to be handled by Lily’s marks.
+
+I already have experience with this, so I know how to fight against it, yet it is far more dangerous than the one she used on me at the Academy.
+
+After all that, I regenerate my leg while facing the spider.
+
+I don’t worry about Adrian entering, after all, the dungeon with the Fragment only allows for a single person to enter.
+
+Not much time remains, so I get ready, triggering my combat sub-minds, preparing arrays, and changing the movement pattern of my mana. Then I head into the dungeon, only to sense Septa following behind me.
+
+As I go over my memories once more, a single cold thought settles in.
+
+Did you really think I gathered all that mana just for you? That I would let you throw me around like trash? I already have your vow. That was all I needed.
+
+And now, I will take this fragment from you as well.
+
+Flashback Nathaniel
+
+"I have a question for you," I say to Ruby.
+
+"Ask."
+
+"What does he plan to do?"
+
+"I can tell you, but if you aren’t careful, the people you care about will die," Ruby says.
+
+"Tell me."
+
+She pauses for a moment, studying my expression. “He wants to use a difficulty change token and move from Beyond to the tutorial. He’s probably hoping to complete it in around a year and a half in its entirety, but Diligence will invoke his veto for sure, and I know what kind of vote to expect from the others. They’ll throw him onto the Thirteenth Floor instead, and it’ll result in him completing his tutorial while allowing him to feel as though everything is still going according to his plan. Some of the people on your planet will die, the humans he looks down on. He won’t hurt your family, nor the families of anyone else from the tutorial. At least not yet, and that will be to your advantage. But you can’t beat him. Not yet.”
+
+"Not yet," I agree.
+
+Ruby nods. “Adrian is broken. He’s always had Pride set as the target of his envy. He used to be brilliant, he truly was, especially during his round of the tutorial. Showing him the record of Pride’s battle may have been the turning point. Right after that, I saw him mentally close himself off, convincing himself he would never be enough, even if he didn’t fully understand it. Though it could also have been those five decades he spent as a human on Earth, when he believed he’d failed.”
+
+"What-"
+
+She doesn't let me finish. "Knowing him, he’ll tell you more on his own. Though he’s been broken, Adrian still has all that knowledge and talent. It’s as if he’s continuing to move in accordance with his plan, without realizing he’s already lost, that he’s already lost something important. But he’s still dangerous, like a mortally wounded animal continuing to push itself along."
+
+"And yet you’re still helping him."
+
+"Yes, I am, because of the skills he possesses. Because sometimes, such an animal can, in the spur of the moment, become the most dangerous thing around. And I’ve also been wrong before. To explain it better, I will tell you a bit about Pride."
+
+"I won't say no to that, you know it."
+
+"I know. Pride uses his [Mirror] in a very different way from anyone else who possesses that skill. Pride’s body is at this point stronger than a dragon’s. He is one of the beings with the highest physical stats in the system. So Pride likes to [Mirror] his opponent. He reflects his opponent's much lower stats onto himself and restricts himself to enjoy the battle just that little bit. With Adrian, we had hoped he would [Mirror] Pride’s full stats while Pride dropped down to Adrian’s, giving him a little chance to put up a decent fight or at least enough of one for someone else to take advantage of the situation."
+
+Before I can say anything, she stops me again. "Yes, I know how pathetic that is, so just continue to listen. Another one of Adrian’s skills, and he would instantly kill you for knowing about this, is [Possession]. That's the one that helped him take over the newborn baby that later became Christoph. That's what allowed him to take over the Wraith, and that's what he’s probably planning to do with you or your sister. To raise you up and then take over one of you. You for your body, traits, and talent for mana, or your sister for her [Duplication], which makes her so similar to the Last Elf he admires."
+
+I stand up and walk around, doing my best to keep calm. "And you knew that."
+
+"Yes."
+
+"Tell me, would you mind if he took over me or my sister?"
+
+"Yes, I don't want that to happen."
+
+"But you wouldn't mind it if it meant a better chance at killing Pride."
+
+"I'm not a good person."
+
+"Fuck's sake, Ruby."
+
+"I always tried to make you understand my greed. But I can tell you with absolute certainty that I'm willing to help you over him. It will be difficult, and it will require sacrifices, but if you do what-"
+
+"No," I say simply.
+
+"Nathaniel, I-"
+
+"I said no. A question. Since he’s possessing Wraith, can he use his skills?"
+
+"You figure things out too quickly sometimes. Yes, some of them, it’s limited though. Some of the skills he might not understand enough to use to their full potential, and some might not be as powerful without Calvorn."
+
+"Great. Why didn't Diligence want to give me the Earth Stay token? What makes it so valuable?"
+
+"There’s a Fragment on each newly awakened planet. Pure, not recreated by the system, so that makes it even more valuable."
+
+"Is Adrian the type to go after it right away or leave it for later?"
+
+"Later, he’s still getting used to the other fragment he got recently."
+
+"Great, give me the coordinates."
+
+"I refuse."
+
+"Why?"
+
+"Because you’re being stubborn. Just do what I say. My plan-"
+
+"No."
+
+“Don’t you trust me?”
+
+“Even you have to admit how bullshit a question that is after all your talk about greed.”
+
+“I can give you a vow. I can swear to help you. I can take the System as my witness that I think you have a better chance to fulfill my wish than Adrian ever had. But if I do that, the other Rulers will listen and know. If Wrath finds out, it could end badly.”
+
+“There’s no need to,” I wave it off. “I won’t lie and say that what you did makes me happy. But I always knew your motivations, and in a way, I like knowing what stands behind every one of your acts. I can even use it all against Adrian. A poor, betrayed Nathaniel, coming to him to die or beg,” I snicker. “The asshole likes reading my feelings so much, I may as well let him have some fun.”
+
+I look at her properly then. She stands still, shoulders tense, quiet in a way that feels unfamiliar.
+
+Taking a step toward her. Slowly, deliberately, I reach into my pocket and pull out several golden coins. They glint faintly in the light as I hold them up between us. She hesitates before lifting her hand.
+
+I let the coins fall one by one into her palm.
+
+Smiling to myself, I say softly, “I still remember your imitation back on the second floor. She paid gold for me so Lissandra could examine me. Damned monster, even as an imitation, she’d begun to realize this was a tutorial, and suspected that I was an attendee. Back then, Ruby took a hundred gold from Lissandra, who had no idea it was actually only eight gold they asked for me.”
+
+I let the eighth coin clink against the others as I look back at her face. “Now I’m paying you eight gold for the coordinates. I don’t need vows. I don’t need promises.”
+
+Ruby opens her hand and stares at the coins. “These really came from the second floor. Where did you get them?”
+
+“I have my sources.”
+
+“You must have just bought them from a Beyond attendee who kept them." She pauses, "This is so stupid.” For some reason, she looks more taken aback than I expected, her emotions clearly written on her face.
+
+I say nothing and wait for her decision. Finally, she closes her hand and slips the coins into her pocket.
+
+"For those few coins, you'll only get a rough estimate, narrowed down to the size of a small country," she says finally.

@@ -1,0 +1,109 @@
+---
+id: 9388954c-6df9-51ce-8e40-a593d1c496b5
+page-type-slug: story-chapter-royal-road
+title: "217. A Quiet Exit"
+slug: 0217-217-a-quiet-exit
+partOf: god-of-trash
+position: 217
+ownLength: 1988
+unit: words
+publishedAt: 2025-10-21
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2694564/217-a-quiet-exit"
+royalRoadId: "2694564"
+---
+
+Daran led the way through the void. He followed a particular path, tracing along an invisible guideline. Rhys extended his mana senses, and with his most sensitive senses, felt something, vaguely, then swapped to curse senses. His eyes widened, and he almost jerked back. Daran was following a bright red vein through the void, a rope of curse power oozing bad intentions so strongly that Rhys immediately felt offput the second he sensed it. As long as he kept his curse senses up, he could follow it without Daran’s assistance, but it almost wasn’t worth it. His heart rate spiked, and he glanced around him, his anxiety bleeding into paranoia, while his brain ran over all the horrible things that could’ve happened to his friends for the seven billionth time, on fast forward and loop.
+
+“Curse power sucks. Why’d you invent it?” Rhys complained.
+
+Daran glanced over his shoulder, then snorted. “I only taught my students the useful things: structured curse power, that comes with fewer drawbacks. This kind of nearly-useless technique, I reserved for myself… and now you.”
+
+“Oh, thanks,” Rhys said sarcastically, though with a note of actual gratitude mixed in. Even if the technique was kind of shitty, trash techniques were his specialty, and moreover, it was something Daran hadn’t taught even his closest apprentices in life. True, he hadn’t taught them it because it was inferior to normal mana senses for ninety-nine percent of situations, but it was still worth thanking him.
+
+Daran gazed at him for another second, then looked away. “I used this technique to hide my ultimate treasures and last-ditch weapons. It was pure logic to keep it from my disciples in life. Now that I’m dead, and you’re going to help me take down the Alliance and revive myself, it wouldn’t make sense to hold back on sharing all the things I hid, all that time ago.”
+
+“…Now that you’re going to help me bring down the Alliance, you mean. And the revival’s still negotiable. Every time you talk like I’m your lackey, your chances go down just that much.”
+
+Daran shook his head and said nothing, continuing to lead the way.
+
+Rhys sighed aloud. Daran was so used to treating people like lackeys that he couldn’t not treat Rhys like a lackey. Then again, what else did I expect from the ex-Demon King? Once a Demon King, always a Demon King. He’d lived that life for so long that he couldn’t live any other way. He was getting less annoying now that he was starting to cooperate a little, but the Demon King was too ingrained for him to act normally. He just saw everyone around him as potential lackeys, and there was nothing Rhys could do about that.
+
+Honestly, from a certain angle, it was kind of goals. Who didn’t want to be so high and mighty that they could only conceive of those around them as lackeys? Though on the other hand, he didn’t really want to become the kind of person who looked down on everyone around him. He wasn’t that kind of trash. Not yet, anyways. Maybe in another few Tiers, that would change; after all, who knew what the future held. He hadn’t imagined he’d be on a slow trajectory toward reviving the Demon King when he’d first stepped into this world, but here he was. He still wasn’t sure he was going to revive Daran—it still didn’t sound like the best idea to him—but it was an option, and he hadn’t thought that would be where he was now.
+
+It's a real case of how it started vs how it’s going, Rhys thought, chuckling to himself. He wasn’t really sure which one was the better option, either, between waking up in the body of an orphan who’d been recently accidentally killed, and following the Demon King’s ghost through the void to maybe revive him for real in the near future. There was such a vast gulf between those two experiences that he couldn’t adequately compare the two.
+
+Up ahead, the vein of red-black curse power came to an end in an ugly blot. Daran drew up to it and gestured for Rhys to go ahead. “The exit.”
+
+Rhys floated forward. He explored the wall, searching, and finally found the pinhole in the void Daran had poked gods-only-knew how long ago. It was tinier than usual, with curled edges that frayed in on themselves and reached out toward one another, as if the hole were trying to heal. Rhys peered through, but couldn’t see much through the pinhole, just darkness and cobwebs. He extended his mana through, searching the space on the other side, but felt nothing—nothing living, anyways. Several strange objects lit up in his mana vision, but none of them seemed dangerous.
+
+He stepped through the hole and out of the void, into a dark room. It had once been a fine, beautiful room, a room that looked as though it belonged in a manor, with marble floors, tall marble pillars, and sweeping staircases. All the marble was the same black stone, shot through with veins of white and gold. Chandeliers dangled overhead, dripping with dusty gold and crystal. A large glass case stood in the center of the floor, its panels hidden by dust.
+
+The pinhole let Rhys out near the ceiling. He drifted down, landing so lightly the thin lining of dust on the marble floor wasn’t disturbed. His footsteps echoed in the high-ceilinged, marble-paneled room. There was a heavy silence to the space, a crypt-like quality that demanded quietude. He walked up to the case and ran a hand over its surface, wiping a streak of dust away.
+
+A familiar face appeared from under the dust, though gaunter than Rhys was used to. Dark hair sprawled over a cream silk pillow. Fine red-and-gold robes wrapped tight around the figure’s neck. Skeletal hands crossed over one another on the figure’s chest, the nails long, claw-like.
+
+He turned, looking the same man in the eye. “Your body?”
+
+Daran drifted over to gaze into the case. He stared for a few moments, then scoffed. “No. Merely one of several decoys I spread to preserve my actual body, in the event of my defeat.”
+
+“That’s… an interesting plan,” Rhys said, frowning a little. Was Daran planning on dying naturally? And if so, why would he need a decoy? Surely if he died on the battlefield, his opponent would do whatever desecration they wanted to on the spot; the people of this world had no particular code of honor when it came to bodies, or any moral code that prevented them from tearing them apart. Did he fear poison, then? Some kind of long-range technique or curse? Political backstabbing, where it wasn’t expedient to besmirch their own patriarch’s corpse, but it was expedient for him to be dead?
+
+“I had plans to fake my death and vanish, leaving behind my real body somewhere safe, where I could revive myself later. The protests against the Demon King were finally getting too noisy, to aggressive; I could see the writing on the wall. I figured I could ‘die,’ spend a few centuries in closed-door study, then re-emerge when everyone had forgotten my face… and hopefully my legacy, although even the foolish me from back then realized how improbable that was. I didn’t want to hold onto the land by any means necessary. I hadn’t even wanted it in the first place.”
+
+Rhys tilted his head. “So… what went wrong?”
+
+Daran’s eyes clouded. His voice deepened, and his hands quietly clenched. “They crossed a line they never should have crossed.”
+
+Ah. They’d killed someone Daran cared for, or done worse. His lover, maybe, or a close friend. Rhys nodded. “And then you got killed by the Sword Saint.”
+
+Daran’s face twisted, something like anger, regret, viciousness all mixed together flashing across it, but then he suppressed it and snorted instead. “Yes. That is the long arc of history, isn’t it.”
+
+“Speaking of… I encountered our modern Sword Saint just recently, up close and personal.”
+
+“He pretends at a title he cannot comprehend.”
+
+“He’s also being mind-controlled or… something, but that’s beside the point. I was wondering… the Sword Saint. The one you fought. Did she have some kind of…purity clause, in her sword technique?”
+
+“Asking the important questions,” Daran commented dryly.
+
+“Well, he just had a strange reaction when I said something, is all. I wanted to make sure I didn’t consign my friend to a life of virginity,” Rhys explained.
+
+“Ah, unlike yourself.”
+
+Rhys crossed his arms and gazed at Daran, unbothered.
+
+“Right… in any case, no. She was a smoking, drinking, hardass son of a bitch who cursed like a sailor and took whoever she pleased to bed. I’m not sure that you’ve managed to cast more filth on your body with a technique that deliberately sucks the stuff into yourself. If your Sword Saint is keeping himself pure, that’s on his own prerogative, not anything based on… what little of the Sword Saint’s technique he knows.”
+
+Rhys put a hand to his chest, relieved. “Thank goodness. Only one of us needs to bear the curse of Arch-Wizardry.”
+
+“What nonsense are you spouting now?”
+
+“Nothing, nothing. Where are we?”
+
+Daran stared at him. At last, he said, “You… don’t know?”
+
+“I’m very uneducated. Enlighten me.”
+
+Daran sighed. He gestured around them, at the finery and beauty. “You are in my Black Palace, once famed for the debauched parties that I did not attend, yet somehow took all the blame for. I couldn’t execute the caretaker fast enough… literally. My reputation was already too besmirched by the time I did.”
+
+“That’s unfortunate.” Taking the credit for someone else’s debauchery, especially parties, could absolutely ruin a reputation. It was the kind of thing that’d get someone canceled back in his homeworld, to say the least. Though it was amusing that the Demon King had been injured by misinformation, even in this world. Some things were inescapable, it seemed, no matter what world he was in.
+
+Daran waved his hand. “It was the least of my problems. In any case, we’re in the north of the realm, toward the northern border.”
+
+“Oh—the northern border?” If he recalled correctly, Bast and the Sword Saint had been sent up to the northern border to deal with some beasts when the Empire had invaded. Before that, the Sword Saint had seemed normal; afterwards, he acted strange, especially around Virgil, who almost controlled him. There was a good chance that whatever had happened to the Sword Saint, had happened on the northern border, or around it. Since he was here, he might as well poke around and investigate; not only that, but it was something no one should expect to see him doing, so he’d be just about as safe as he could be. He could use his poking-around to test the waters on how much the Alliance was looking for him, and keep an ear open for information about his friends’ fate, as well.
+
+He gave Daran a thumbs-up. “I couldn’t have picked a better place if I tried. Good job!”
+
+“I’m glad you approve,” Daran said flatly.
+
+Rhys glanced over his shoulder at the door behind him, then turned to the stairs. Here he was, in the Demon King’s Black Palace. Was he really going to immediately leave? There was loot to be found, and if nothing else, this place begged for someone to do a little urban exploring in it.
+
+“Where are you going? Don’t you have things to do?”
+
+“Yeah, like checking this place out! Hey, Daran. There aren’t any traps, are there?”
+
+In some respects, it was even better if there were traps. It wouldn’t be a real dungeon without traps, after all.
+
+“That’s for me to know, and you to find out.”
+
+“I’ll risk it. Let’s go!” Rhys set off into the palace, his eyes sparkling.

@@ -1,0 +1,233 @@
+---
+id: cc0ed2f8-99da-571e-9897-59ed8fbd4750
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29"
+slug: 0029-chapter-29
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 29
+ownLength: 3506
+unit: words
+publishedAt: 2025-12-13
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2845060/chapter-29"
+royalRoadId: "2845060"
+---
+
+Chapter 29
+
+He didn’t advance slowly. No, this time, Veron ran at Hayden, conscious of both the man’s hammer which he planned to stop with his shield, and the shield of his opponent. Veron had seen the man simply grab on and pull away his own defense. So he would try to do the same. He reached Hayden who hadn't moved, Veron meeting his opponent’s shield bash with his raised arm. It hurt but he managed to keep his ground and catch the board on its edge, raising his own to block the hammer strike that now came down.
+
+Veron could feel his shoulder nearly give from the impact, but he held on, gritting his teeth as he pushed forward, struggling against Hayden's hold of his shield. His hand slipped and he stumbled when a second hammer strike came down on his defense. His arm and shoulder were sore, and now Hayden advanced, trying to run him over. Veron stumbled and used it to go into a roll, coming up to a shield bash that crashed into his own defense. They stood facing each other, slowly circling around now with one meter between them.
+
+Veron saw the hammer come down again and took a quick step back, getting out of range before he charged, getting blocked again by the shield but his momentum forced Hayden to take a step back.
+
+Hayden didn't fall but Veron smiled. He tried to do the same again but Hayden feinted this time, following up with another shield strike that crashed into his own. Veron could hardly lift his left arm by now, but at the same time, he felt like he was getting more used to the impacts.
+
+“Out of my way,” Hayden said and his shield started glowing ever so slightly.
+
+He was too close for Veron to dodge and this shield strike sent him flying. Veron came down hard on the sand covered stone floor, groaning but still holding his own shield. He couldn't move his left arm, maybe it was broken. His vision was blurring slightly but he tried to get up anyway, staggering once and turning to find Hayden right next to him, his boot kicking at his stomach and sending him sprawling back onto the ground.
+
+“Do you yield?”
+
+Veron tried to move but winced as his shield hit the ground. The spiked bit of the hammer now hovered in front of his face. “I give up.”
+
+Hayden removed his hammer and offered a hand instead.
+
+Veron took it and grunted as he got up. “I thought we wouldn't use any magic.”
+
+“Always be prepared for the unexpected,” Hayden said.
+
+“That your line?”
+
+Hayden looked at him. “I'm sorry. I had an idea and you did better than expected.” He paused, sounding slightly embarrassed. “I got excited and a little too much into the moment. Are you hurt?”
+
+“My arm doesn't feel right. And a bunch of bruises. I don't know how to get past your defense.”
+
+“Let me look at it. I'll explain what I saw.” Hayden helped him get rid of the shield, the chunk of wood still holding together. He proceeded to check his arm. “It’s cracked, but not broken fully, right here,” he said. “Get something between your teeth, this will hurt.”
+
+Veron didn’t know what to use, so he took one of his backpack straps and bit down on it, then watched as Hayden grabbed on to his arm and adjusted the cracked bone a little. Tears welled up in Veron’s eyes, barely hearing the words that Hayden murmured before his hands started glowing.
+
+Veron was sweating when Hayden was done. His arm still felt sore but the stinging pain was gone.
+
+“Try to move it.”
+
+He did, and it worked fine. But he felt exhausted.
+
+“You have good instincts. Once you're in close range,” Hayden said, handing him a canteen to drink. “I had thought about it for a while now. You haven't received a lot of training, have you?”
+
+“Just some basics.”
+
+Hayden nodded and then stared at him. “Why the spear?”
+
+Veron had to think for a moment. Ivera had offered a variety of weapons. He did the best with the spear. “I did the best with it. And it seemed like the safest option.” He paused for a moment. “I didn't have my armor back then either.”
+
+“And you had no experience fighting monsters yet?”
+
+Veron shook his head. It was a strange thought to have but he did feel a lot more comfortable in a fight compared to back then.
+
+“The spear is a safe choice. I agree on that. In the hands of an untrained fighter, it's probably the most effective weapon to wield. In the hands of a trained warrior, it is a great weapon to keep your enemies at a distance, but you have to be able to move quickly and precisely. And you have to be able to strike at any weak points you can exploit. Couple that with the skills that come with the Devotion Path and the Way of the Spear, and you get a dangerous warrior.” Hayden paused. “You have none of those things.”
+
+Veron nodded. He didn't interrupt.
+
+“With the spear, you seemed hesitant, scared. An experienced spear wielder is cunning, patient. What was different when you fought without it?”
+
+“I was more aggressive?”
+
+“Without it, you had to get close. So you got close. You can take a blow and keep on fighting. I even got the impression that you fought harder after the first hit I landed. With your armor, you are slow, and heavy. And resilient. I had to focus to take you down. And I broke the rules to win.”
+
+“You're saying I should fight in close quarters?”
+
+Hayden considered.
+
+“You're not a Devotion Path. You won't have the benefit of skills making your weapons more effective. At best, you'll be a pale imitation of the real thing, with some added benefits from your Elemental Path. But your armor will continue to get stronger, heavier.
+
+“The rocks you can fling with your magic. They accelerate immediately? And you don’t have to actually hold them?”
+
+Veron started to see what Hayden was getting at.
+
+“They do. They shoot out from where they are, there’s no windup if that’s what you mean. And yes, as long as the rock is somewhat close by, I can connect to it, and fling it at something.”
+
+Hayden nodded. “I'll admit, the few elemental paths I saw used their elements to attack at range. It makes sense, I suppose. It's safer that way.” He paused. “Why make armor out of stone? It's heavy, and brittle.”
+
+“I had nothing else available. And I mean, I love it. It probably saved my life a few times already.”
+
+“It probably has. And the stronger you get, the heavier and denser your armor can likely become. Your ability to shape rock should improve too. I think in time, your armor can become a weapon of its own. When I charge into an enemy, I use my shield. You can do that too, with all the momentum added from the weight of your armor. And when you have them grappled, you can send a rock straight at their throats or eyes.”
+
+Veron thought back to the fights he'd had. In quite a few of them, he had ended up grappling a monster on the ground. He had even used his ability to throw a rock with magic against the Herasar they encountered, the shot successfully keeping him alive.
+
+It seemed scary, to forego his spear or another weapon in favor of such a style of fighting, but at the same time it felt intriguing. Now that Hayden had pointed it out, he did feel a bit like a fraud wielding his spear.
+
+“What about a hammer like you?”
+
+“It's an option, sure. But what you should figure out is how you can kill your enemies in the most efficient way possible. With the tools and magic that you have. If you had a hammer, you may focus on it too much, you may strike at my shield instead of pulling it aside. You may strike a monster instead of downing it with your shield and shooting a rock into its skull.
+
+“Your style can adapt, and the more time you invest in each skill and weapon, the better you will get. I’m not saying there’s a single best way for you to do things, I’m just trying to point out your possible strengths. Against a group of enemies, your Focus will likely not last if you use only your rocks. Not yet. So I would advise you to use a weapon, maybe the mace I got for you? I can teach you to fight at closer range, and I know some things about grappling too.
+
+“You wouldn’t want to end up on the ground if there is more than one enemy, but if you’re facing only one, I don’t think anyone would want to end up on the ground with a man covered in heavy rock armor, able to shoot bits and pieces of that very armor at their heads.”
+
+“That is a good point,” Veron said and nodded to himself. He rolled his left shoulder. “How does your healing work? I feel tired.”
+
+“My Path lets you recover faster. It requires my own Focus, and it requires energy from you and your body. If I’m not careful, healing that is too forceful can kill someone.”
+
+“Good to know. Does all magical healing work that way?”
+
+“No. I only know of mine. The Way of the Healer, Devotion Path. I know the Blood Path has ways to recover as well, and I’m pretty sure it doesn’t work in the same way. But the Blood Path is very different anyways.”
+
+Veron thought of Hayden’s healing magic as a way to accelerate the body's own capacity to heal. It was incredible but he could see the difficulty in gauging when to heal and when to stabilize.
+
+“When you feel ready, I can show you a few stances and techniques. Both for grappling and for close combat with that mace and shield.”
+
+The next one and a half hours, Hayden explained and showed Veron a bunch of techniques, and then he started repeating them. It would take days of training to get them into his muscle memory and to be able to use them in a fight. They were nothing crazy either. It reminded him of learning a new dance. These were the basic steps and it took a while to get them right, and years to master. Once they were second nature, he would be able to add more nuance, adjustments, and more complicated moves. He enjoyed the process, mainly because Hayden was patient and tried to explain things with simple terms and by showing the movements and principles in practice. He had gotten himself a private tutor.
+
+The small testing bouts they had felt very mechanical and jerky to him, mainly because he had to think about the movements before he executed them. That was normal and Veron was looking forward to making progress. What he could already tell however, was that he felt a lot more comfortable fighting closer to Hayden instead of trying to keep him at a distance with his spear. It felt more grounded, more direct, and he felt more in control.
+
+“Your Focus should have mostly recovered by now. Before you work on the shield, I want to suggest testing some of your newfound strength in terms of magic. If you don't manage to finish it by tonight, we can also get you another shield to take down into the dungeon.”
+
+“I do want to test things,” Veron said. He had wondered, taking one of the rock knives he had made out of its sheath in his armor. It was a lot larger and heavier than the arrow heads he had used the day before. But of course in some situations it would be far more dangerous if he could shoot something bigger and heavier. He imagined it could be used as a feint as well, fighting with it in his hand and then suddenly shooting it at whatever he was facing.
+
+Hayden watched him and nodded slowly.
+
+They went to one of the shooting ranges in the hall. Two of the four were occupied by people shooting bows and crossbows. The former seemed a lot more practiced, the latter group laughing as they tested their weapons. Maybe they had gotten the two crossbows as a way to add ranged options to their team.
+
+Veron looked at the straw target around 20 to 30 meters away. He connected to the dagger in his hand and felt its weight and make. He charged it as he would one of his rocks and breathed out, trying his best to aim the knife now thrumming with Focus before he let it loose. The blade shot out and struck into the chest of the dummy. Veron blinked his eyes.
+
+That was fast. Faster than before?
+
+More importantly, he could shoot the far heavier knife and it didn't feel like it took a whole lot more than a normal rock throw used to cost.
+
+They went and inspected it. The knife was embedded deep within the straw dummy’s chest.
+
+Hayden touched it. “Your aim is pretty good. The guard is a problem. It prevents the knife from getting in deeper.”
+
+“I'll make something else to shoot. Just long spikes probably. Or something like a bigger arrowhead.”
+
+“That should work. You mentioned you got to Beginner level of your Wind Harmony too?”
+
+“I have. It feels very different though, and I think it will take a while for me to get a handle on it. I'll focus on repairing the shield and then I try.”
+
+“Yeah.”
+
+Veron continued piecing his shield back together and then they continued his training.
+
+“You're a pretty good instructor,” Veron said when they took a break to have lunch. He would have to wash his clothes again today. And he was already looking forward to a bath later.
+
+“You think so?” Hayden asked.
+
+“Yeah. You’re patient, explain things well, and you’re direct. Your criticism doesn’t feel personal but encouraging. I appreciate you taking the time.”
+
+Hayden grunted. “You’re part of the team. It’s for the best.”
+
+Veron looked at him for a long moment. “I suppose it is.”
+
+They were quiet for some time, eating their lunch.
+
+“You’ve been with the others long?” Veron said after a while.
+
+Hayden looked at him. Then nodded.
+
+Veron smiled. “Did you always want to be an adventurer?”
+
+“No.”
+
+“But you enjoy it?”
+
+“Somewhat, I suppose. It’s good to travel, and to be with the others. We’re getting stronger too, slowly, and we’re earning gold.”
+
+“Do you have a specific goal in mind?”
+
+Hayden seemed to think on that for a while, then he continued eating. “I don’t think so. I haven’t given it a lot of thought. I try to focus on what to do next, the next dive, the next hall, you know?”
+
+“I see. Yeah. I think I understand,” Veron said. He had once thought in a similar way. Surviving the next day. And then you just kind of keep going.
+
+He wondered about Hayden’s past. Wondered how he’d met Silvie and Reka. He didn’t ask. Maybe he would tomorrow, or in a week.
+
+“What’s the plan for the afternoon?”
+
+“We can do more light sparring. You’re getting a little better but you could use it.”
+
+“If you don’t mind, sure. Anything else you’d want to do?”
+
+“I have time, don’t worry about me,” Hayden said.
+
+“Great. Yeah, then let’s try for a few more hours.” Veron could tell that his endurance was better than before. And his strength was greater. His armor no longer felt all that heavy, and yet he felt and heard the impacts of their blows, the scraping sound on the floor when he fell.
+
+A modest man.
+
+He smiled to himself.
+
+Veron finished his shield late that afternoon. And he got to work on making his new throwables. Or shootables. Blade bullets? He wasn’t sure how to call them. What came out in the end were five thin blades, perhaps very short swords but without a handle, and made of stone. He could charge and shoot them much like the smaller rocks he had used before. The somewhat broad shape would make them more difficult to aim at a distance, but from a closer range, they would be a lot more lethal.
+
+Veron tried to implement a bit of metal too, an iron coin that he embedded into the tip of one of the blades. If he could add steel spikes, the projectiles could become a lot more dangerous. Though he found that it already felt wrong while he set it up, and when the time came to test, Veron couldn’t affect the rock anymore. Not in the same way that was, and nowhere near as effectively.
+
+He kept his small arrowheads too, in case he ran out or needed them for smaller targets like mosquitos or perhaps the eyes of a Vereltir.
+
+It does feel like a pretty fucked up way to fight, Veron thought when he held one of the stone blades. But it’s what I can do.
+
+They practiced more grappling but at some point, Veron could tell he was out. He was getting slower and worse so they called it.
+
+Veron went for a bath, changed his clothes and washed his other set. Then he went for a walk through the city. Hayden didn't join.
+
+Snow now covered most of the roofs and the sun was hiding behind a layer of gray winter gloom. The airship he had seen that morning was gone. Veron could see to the three mountains surrounding the city but their upper halves were shrouded in misty clouds. He was cold. Slowly, he made his way towards the burg near the center of the city, stopping and entering a store that sold coats and other clothing.
+
+There were a variety of styles available and he started trying a few after checking with the store owner, an older woman with a sharp look in her eyes. He found a broad dark brown coat that fit even with his armor on. It was lined with fur to help with the cold, none of it visible when he closed the buttons. When he didn't wear his helmet, he found it looked pretty good on him. “How much for this one?”
+
+“Eight hundred,” the woman replied, giving him a questioning glance.
+
+“Iron?”
+
+“Yes, iron,” she said without batting an eye.
+
+He put it back and tried a few other ones, asking for prices but they were all in the range of fifty to a hundred silver. Veron checked a few other stores afterwards but both clothing and armor seemed pretty expensive. He decided not to buy anything yet and asking the others for advice. It was possible the prices were higher in this part of town but he could also imagine high quality clothing simply being quite expensive.
+
+Eighty out of my near four hundred silver for a coat. I can see that, but I’ll want to make sure I want it.
+
+He checked a few other stores on the way to the Guild. The closer he got to the main road, the more expensive things seemed to get. A good set of leather armor would cost him his entire savings, around three to four hundred silver, or three to four gold. Plate armor like the one that Hayden wore cost at least five gold, but he saw single helmets that cost more than that. Most stores didn’t have any labels with prices, so he assumed there was some wiggle room in terms of haggling, but he needed to get a feel for the general prices first to try himself at that.
+
+The prices for weapons were the most diverse. Single swords he could buy for 30 silver and others were more expensive than entire sets of plate armor.
+
+A lot to learn.
+
+He finally reached the burg and went inside, both to get warm and to check the map of the dungeon. He’d learned about a lot of new moves from Hayden, so wasn’t sure how much he could still cram in his head, but he was curious about the maps as well. Now that he’d been down in the dungeon, he could grasp them a whole lot better.
+
+Veron joined the many other adventurers and scholars gathered in front of the large depiction of the Crypts, checking and quickly finding where they had entered it. It was only halfway down the first layer. There were hundreds of hallways, stairs, rooms, pits, and traps. He smiled to himself, hearing the murmurs and conversations of the armed and armored people around him.
+
+I think it’ll take some time to get into all this.

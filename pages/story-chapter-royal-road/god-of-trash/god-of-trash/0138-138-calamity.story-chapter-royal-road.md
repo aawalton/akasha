@@ -1,0 +1,87 @@
+---
+id: 7745496b-3be0-51a5-a845-7373bd701936
+page-type-slug: story-chapter-royal-road
+title: "138. Calamity"
+slug: 0138-138-calamity
+partOf: god-of-trash
+position: 138
+ownLength: 2075
+unit: words
+publishedAt: 2025-07-22
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2457706/138-calamity"
+royalRoadId: "2457706"
+---
+
+Just as Logan leaned forward to spit fire, the earth erupted behind him. A flash of bony white shot out of the soil and pierced through the back of his head, bursting out his eye socket. He pitched where he stood and bucked back, his mouthful of flame shooting harmlessly into the sky as Sable manipulated her tail to point his head upward. She hadn’t anchored herself by sending her tail into the earth; she’d used it to sneak around behind Logan and attack him from behind. Rhys nodded, finally understanding. He breathed out, quietly relieved. He’d trusted Sable, but still, that had been frightening to watch.
+
+Logan bucked as he bled out, kicking against the bony appendage that speared through him. His remaining eye dimmed, and he finally slumped to the floor. Sable retracted her tail with a derisive yank, splashing blood and dirt as she freed it from Logan’s body and the earth alike. Not wasting any time, she knelt and used the blade side of her tail’s end to slash open the man’s potbelly. The Crimson Flare Orb rolled out, and she picked it up and carried it over to Rhys.
+
+Rhys nodded at her, palming the orb, then holding it up for all to see. It was beautiful, in a gristly kind of way; past the blood that streaked its surface, its interior was a raging ball of endless fire, as if the glass orb encapsulated the heart of a bonfire, or a very tiny star. He smiled at the thugs. “Negotiations with your boss have failed, so we’re progressing to the hostile takeover part of our plan. Would anyone else like to resist? I promise you, working under me will be no more troublesome, or illegal, than working under Logan poorly-surnamed-Waters. Should’ve called himself Logan Fires, honestly.”
+
+The thugs glanced among one another. At last, the defiant one clambered back to his feet, groaning and aching the whole way. He nodded at Rhys. “The Waters family lead the most powerful crime syndicate in this area. We’d be fools to take your hand.”
+
+“Oh, do they? Awesome. Point them at me, and I’ll take care of the problems. It’s a boss’s job to take on risk for his employees,” Rhys declared, thumping his chest. He didn’t really mind a fight, and Logan hadn’t exactly impressed him. Sable had basically played with him, and still easily slain him. He was sure the upper echelons got more powerful, but, well, there was a big power gap between Logan and himself, and he was pretty sure he could handle anything the Waters family threw at him.
+
+Besides…. His eyes glittered, and he smiled. He wanted logistics, farms, the whole nine yards. If he merely took down one small gang, that was whatever. But to find out that the small gang was led by a larger crime syndicate? It was everything he’d hoped for and more. He needed to get stronger, so why not smash a crime syndicate and take it over while honing his own strength in battle? He could always fall back on trashy impurity-based techniques if he couldn’t win, and, at the very least, throw his attackers off for long enough to escape. If he took Lira, Sable, and Mouse with him, he could strengthen his most powerful allies at the same time. It was a win-win situation, and even in the case he lost, he could escape and recover. Truly ideal. Rather than a threat against him… he was a threat against this crime syndicate.
+
+Rhys grinned. This was his kind of hostile takeover.
+
+The thugs glanced among one another. The leader stepped forward. “We can’t defy you, but if we remain here, the syndicate will burn us to the ground. If you must take us alive, then you have to relocate us.”
+
+Reasonable enough. Mages in this world did seem rather zero-sum, scorched earth kinds of people. Rhys thought for a moment. He didn’t want to take these people to his original farm for several reasons; the chance of betrayal, the risk the syndicate would find his farm, even the chance they’d simply alert the Empire, if they figured out he was more than just a hostile criminal group, and actually part of an insurrection. No, that was no good. But there was plenty of undeveloped land nearby, so he nodded firmly and gestured. “Bring everything you need for farming and distribution, and come with me.”
+
+Long term, he’d simply overtake the entire syndicate, and acquire their fields and buildings as well as their workers, but for now, he needed to make sure they didn’t try to send him a message by massacring his hard-won workers. With that in mind, he turned to Sable. “Can you tear this place up a bit, spread some of his—” he gestured at Logan “—blood around the place, so it looks like I killed everyone at a glance?”
+
+She nodded, unbothered, and turned to her gristly task.
+
+Rhys gestured to the workers and Mouse, and he led them across the land, away from the city and their camp and tunnel alike. Out in the boonies, not far from the Impure Well where he’d found Sable, he left the criminals, setting them to the task of clearing the land and preparing it for cultivation. With them set to task, he headed back to the tunnel. Sable was waiting for him there. He looked up at the tunnel, thinking. This was a valuable entrance and exit from the city, but if the crime syndicate knew about it, wasn’t it simply asking for them to come through it and attack them?
+
+He pinched his chin. On the other hand, if he collapsed the tunnel, that was the same as admitting that the people on the other end of the tunnel were responsible for the destruction of the camp, but closing off their chance for retribution. It would force the criminals to find another way to attack them, whereas, if he left it open, he knew where the criminals would attack from. He could basically expect that the criminals would figure out that they were the ones who’d attacked the camp; he’d left too many hints, including the two criminals who knew exactly who’d attacked them, and where. But leaving it wide open… He nodded. Better to invite them into a place where he could battle them without the Empire taking too much notice, rather than to let them chose the avenue of attack, and risk the Empire poking around at his snack shop.
+
+Leaving the tunnel open didn’t guarantee they’d attack him from it, but the criminals also had to hide from the Empire, so they both benefitted from a discrete battle rather than open war.
+
+He looked at Mouse and Sable. “We can expect an attack through this tunnel in the near future. Would one of, or both of, you like to guard it?”
+
+Sable laughed darkly. “I’m better suited to battle than cooking. Leave me in the darkness. If I need help, I’ll send a pulse of mana.”
+
+“Send one whether you need help or not. I want to know if they attack, and who, and where from. I’d rather attack than be attacked. Once we know enough, we can launch a counterattack, but if you just quietly kill them all, we’ll never be able to return fire.”
+
+“I understand,” Sable said, nodding.
+
+“We want to absorb them into us, as… farming sub-contractors, basically, and distributors. Once we have franchisees, we’ll need to have a supply chain in order, and better if we have the supply chain before we have franchises,” Rhys explained.
+
+“Franchises?” Mouse asked.
+
+“True evil, and a way to make even more money than the snack shack,” Rhys said. They’d see when they reached that point. Until then, it was too much to explain.
+
+Mouse nodded, a little hesitant, but said nothing else.
+
+“You two head back. I have one last errand to run,” Rhys said, nodding at the badger.
+
+The badger looked up at him and huffed, as if to ask, ‘how much further do we have to go?’
+
+Mouse and Sable vanished into the tunnel. Rhys held his hands out to the badger, offering to pick it up. The mammal gave him an exhausted look, deeply considering, then sighed and shifted, letting him pick it up. Rhys scooped it into his arms and took off, speeding into the forest.
+
+He headed off, not toward the criminals, not toward his trash heap hideout, but toward Purple Dawn. He set the badger down right in front of the raccoon, who looked at the badger, then up at Rhys, and spread its hands. He could almost hear its voice: What am I supposed to do with this?
+
+“Raccoon, meet badger, badger, raccoon. I’m going to need you to take on more workers, because we’re about to expand in a big way. Multiple farms kind of big. This guy’s pretty tough, and you’re going to need new overseers soon, the kind who can keep the littler guys in line when you aren’t around. Think he’s a good candidate?” Rhys asked.
+
+The badger gave him a long-suffering look, then huffed, turning to the raccoon. The raccoon looked it over, top to bottom, then nodded appraisingly. It gestured for the badger to follow him. The badger lumbered away, grunting under its breath.
+
+Rhys watched them go, nodding in satisfaction. To be honest, he preferred to use animal workers, it was just that he didn’t know the extent to which the raccoon could expand its underlings in a short time. If it could, then he didn’t have to hold back as much on killing the thugs, and consequently, didn’t have to worry about betrayal from unwilling human workers strongarmed from drug work into potato work. But he couldn’t rely on an untested capability, so he was building both in parallel; the raccoon could work on expanding its workers, while Rhys gathered humans, and he would see which one became mature first, then lean into that route. Personally, he hoped it was the animals, but the humans were cheap, easy labor.
+
+Since he was in the area, he absorbed the impurities from the rats and other animals before he left, and took a fresh load of potatoes back to the shack, utilizing the tunnel to return. As long as they were going to leave it open, he might as well use the tunnel himself. As he walked, he heard the faint clattering of bones overhead, and looked up to find the pale outline of a bony figure on the ceiling.
+
+“Hey, Sable,” he said.
+
+“More potatoes?” she asked.
+
+Rhys shrugged. “Gotta feed the fry addicts, what can I say? All for the downfall of the Empire.”
+
+Sable chuckled, and clattered off.
+
+Back in the snack shack, he tossed the potatoes down and returned to his soda experiment. He tossed the potion into the water, mixing it up, then tried it again. It wasn’t too bad; honestly, it tasted about as bitter as unsweetened soda water did. Of course, he’d be making it carbonated yet, which would add a bit of bitterness as the carbonic acid formed between the water and the carbon dioxide, but he should be able to mask the displeasing edge to the bitterness with some citrus juice and the most important ingredient: heaps of sugar.
+
+I need to look into growing some sugar beets. Even on his homeworld, the primary source of sugar wasn’t sugar cane, as some people supposed, but beets. Sugar beets, burned with bones to purify out their sugar. Refining sugar was a little more involved than frying potatoes, but he’d done some outright alchemy, so it was nothing outside of his ability to accomplish. He’d have to purchase sugar otherwise, and given that it was a somewhat involved process to refine it, it'd be a costlier ingredient to procure than potatoes. If he wasn’t already a potato farmer, he would have prioritized sugar beets, since potatoes were relatively cheap to procure, but as it was, he could always turn around and pick up sugar beets now that he’d established his snack shack, to fuel the most expensive portion of his soda production.
+
+The night passed by. Rhys tinkered with his soda and dreamed of sugar beets, waiting for the first light of dawn to launch once more into snack shack madness, all while the criminal underbelly slowly discovered what he’d done.

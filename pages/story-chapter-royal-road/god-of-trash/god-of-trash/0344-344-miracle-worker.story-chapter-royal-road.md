@@ -1,0 +1,209 @@
+---
+id: 25ae84cc-8981-53c1-91f3-5f36b52a01be
+page-type-slug: story-chapter-royal-road
+title: "344. Miracle Worker"
+slug: 0344-344-miracle-worker
+partOf: god-of-trash
+position: 344
+ownLength: 2393
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3752489/344-miracle-worker"
+royalRoadId: "3752489"
+---
+
+Elsewhere.
+
+A dark figure landed on the windowsill without a word. On the other side of the window, a man wandered a palace, laughing with a beautiful woman. He waved her away and walked to a balcony, leaning against the railing. Staring out at the world, he sipped a drink, then sighed.
+
+“Bring me good news.”
+
+There was silence.
+
+“I know you’re there. Speak.”
+
+“The trouble is, I have no good news, lord.”
+
+“Then you have found little.”
+
+“Nothing, in fact. This man materialized perhaps a month ago. He’s fought other impurity-wielders; the Dark Sect has little interest in speaking of him, but I understand they seek vengeance, but lack a proper route.”
+
+“Something we could use?”
+
+“Perhaps.”
+
+The man swished his drink. “Then he isn’t from that sect.”
+
+“No. Were this servant to hazard a guess…”
+
+The man sipped his drink, but didn’t cut him off.
+
+“…I suspect he came from another region.”
+
+“Is he a water sprite, then?”
+
+“All indications point to no, despite his evident familiarity with the clan.”
+
+“That shouldn’t be possible.” The man stared into the bottom of his empty glass, then set it aside with a grimace. “Unless he’s more powerful than we accounted for.”
+
+“All signs point to him being a powerful eccentric.”
+
+“What is he after? There’s no chance he actually cares about Third. Why is he butting his head in? What is his goal?”
+
+The figure on the windowsill coughed. “That is… you won’t like the answer.”
+
+“It’s your job to tell me things I won’t like.”
+
+“I think… I hesitate to even say this, but… trash.”
+
+“Huh?”
+
+“The only thing he’s shown interest in is trash.”
+
+“What does that mean?”
+
+“Your guess is as good as mine, my liege.”
+
+The man on the balcony snorted. He lifted his glass, then realized it was empty and closed his hand around it instead. The glass didn’t shatter, but warped, twisting into an unrecognizable shape. He kneaded it half-consciously, working it in his hand as he spoke. “We operate on the usual protocol. Distract him. Give him whatever he’s looking for and let him chew on it. Our purpose cannot be interrupted. Not here, not now. Our goals are too grand to let one man disrupt them.”
+
+“Sir.”
+
+Laughter carried down the hall. The man on the balcony turned to find a new beautiful woman approaching and waved his hand. “Dismissed.”
+
+There wasn’t a sound, nor a motion, but the faintest sensation of a presence vanished. The man’s serious expression vanished, replaced by a big grin. He rested his hand on the balcony behind him and stepped forward to greet the newcomer. “So good to see you. Tell me, Lira, how is your mother?”
+
+Behind him, a perfectly polished glass marble sat on the balcony railing. As he walked away, it began to rock back and forth. Slow at first, but faster and faster it rattled, clattering against the metal. Faster and faster, until it moved too quickly to be seen. It appeared to sit still, only the loud rattling giving away that it still shook.
+
+All at once, it shattered, smashing into a thousand tiny glass shards. They rained down unseen, vanishing into the night.
+
+--
+
+They flew around for a while, hovering low over the land so that Rhys and Ryota could see the goings-on below. As much as Rhys wanted to beeline to Fifteenth and cling to his side until he figured out what the prince was up to, after that battle, not only would Fifteenth be on high alert and tucked into his safest hideout, but he’d also be focusing on restocking and recruiting, not on furthering whatever grim ends he sought. So instead of chasing him, they were here: in the middle of nowhere, hovering just far enough away from a mortal village to not scare off the locals.
+
+“What are we waiting for?” Ryota asked, glancing at Rhys.
+
+“A problem.”
+
+“Why?”
+
+Rhys clicked his tongue and shook his finger. “You’ve got to start your myth somewhere, right? Miracle-working is the fastest route into sainthood, and not a bad first step toward godhood, either.”
+
+Ryota looked down. He frowned. “Why don’t we, you know…”
+
+“Make a problem? It is the trashy answer, but… I don’t know. The world has enough issues already. I don’t want to add to the suffering of some random mortals for no reason.” Rhys paused. “Besides, the conspiracy theorists are going to go nuts one way or another. The less we give them to grab onto, the smoother things will go for you.”
+
+“Conspiracy… huh?”
+
+“Look, just trust me, okay? We don’t want to go there.”
+
+Ryota nodded uncertainly and went back to moping around near the balcony of his ship. He’d been in a real mood since Rhys had semi-tricked him into leaving Aran behind, and nothing could break his funk. Rhys didn’t really mind, since the current phase was a lot of standing around and waiting, but he really needed his miracle worker to get a little more with the business before they actually started executing, or he’d make a lackluster saint-slash-god-figure. No one wanted to worship the guy who wasn’t excited to be there.
+
+I suppose that’s where the eternal, all-encompassing love thing comes in, Rhys mused, pinching his chin. Someone who loved you was always happy to see you. Hence, it overcame the natural god-human barrier by the power of love, making the god a paternal figure who joyfully anticipated the tiny human’s worship, rather than viewing the human as some antlike, pointless, purposeless existence, as any being with a god’s level of power would.
+
+He’d never thought of religion this way before, but now that he was trying to build his own, a lot of pieces of the religions he’d known back home were falling into place. Whoever had built those religions were great psychological strategists. He was just trash, so all he could do was distantly gaze at those great structures and imitate what he saw without full understanding or purpose. But that was exactly why he had Ryota, his practice run. He’d eliminate anything that didn’t work with Ryota before he started his own religion.
+
+“That’s why we call it a trial run,” he murmured to himself.
+
+Ryota wandered over. “What?”
+
+“Huh? Oh, sorry. I wasn’t talking to you.”
+
+Ryota stared at him for a moment, then threw his upper half onto the railing, trailing his arms over the edge. He let out a deep sigh.
+
+“Full of regret?”
+
+“I don’t know. I think staying was the wrong answer, but… I’m worried Aran didn’t understand.”
+
+I think Aran understood the most of everyone. Rhys sighed as well, leaning his elbows onto the railing. “I understand. You know, one time, I had an acquaintance who was engaged. Maybe even married, I’m not sure. House, three dogs, the whole nine yards. I didn’t see her for a while, and the next time I saw her, she had a different ring on. Someone asked if she’d gotten engaged, and she said yes, to a woman. She was a jokester, so I thought it was a joke, since she’d been maybe-married this whole time to a guy, and laughed. And then she gave me this look, and I was like oh shit, I’m the bad guy. I wasn’t laughing because she got engaged to a girl, I was laughing because I thought it was an obvious joke because she was already engaged to a boy. But turns out, they’d broken up and this was real, and I was the asshole, and I felt really bad about it, but I was too scared to ever ask her if she understood that I knew I’d fucked up.”
+
+Rhys pushed off the banister and stood. “And now I can never ask her that. I can just feel bad about it for the rest of my life, without ever knowing if she knew I regretted laughing at her, and I didn’t mean it like that.”
+
+Ryota squinted at him. “What’s the point of this story?”
+
+“The point is, human life is complicated. In reality, she probably immediately understood that I’d misheard or misunderstood something and then forgot about it. At best, she thought about it once or twice and held a small grudge. We were only acquaintances. Even if she decided I was the devil for my one mistake, it wasn’t going to have any effect on the rest of my life.
+
+“The point is, don’t fixate on things. Let them flow past you like water. If it’s important, the other person will bring it up again later. If it’s not, then they probably already forgot, and they’ll only be bothered by you bringing it up.”
+
+“I still don’t get it—”
+
+Rhys looked at him. “The point is, you’re blowing this up in your head way bigger than it actually is. Stop getting wrapped up in something you can’t change and get strong enough that you can change it.”
+
+“What’s this got to do with your story?” Ryota repeated, still confused.
+
+“Eh. Not much. I just felt like confessing. It’s a very religious thing to do, you know? Confess.”
+
+“Is it?”
+
+“Oh yeah. Big time. Do you know how much power you hold when you know everyone’s secrets? Confession is the best invention religion ever came up with.” He mimed pulling a lever with his whole body. “As far as soft power goes, confession is the lever long enough to move the world.”
+
+Ryota squinted at him. “If that’s the case, how do you trick everyone into telling you their secrets? I’m not telling you any of my secrets. It’s not subtle, you know? Everyone knows that telling other people your secrets gives them power over you.”
+
+“Just say that god told them to, or else they’re going to hell.”
+
+“And why would they believe that? We’re just two guys.”
+
+Rhys shrugged. He gestured downward. “Do they know that? You’ve got magic powers. You could lift their whole village with a pinky. You floated in on a magic ship and you’ll vanish in the blink of an eye on the way out. You might as well be a god. Whatever you say about heaven and hell is as absolute as it’s going to get to the little guys down there.”
+
+“Why are we bothering with miracles and problem solving, then?”
+
+“Because I have a theory that love is more powerful than fear.”
+
+Ryota stared at Rhys blankly. “What?”
+
+“No? Too cheesy? Okay, how about this? If love doesn’t work, we can always pivot to fear, but it’s harder to pivot from fear to love.”
+
+Ryota nodded slowly. “That… Grandfather used to say things like that. Not so bluntly, but…”
+
+“It’s horrible relationship advice. I mean, literal abuse. Ignore it for that. But for religion and war, it’s great advice. It’s as the saying goes: all is fair in religion and war.”
+
+“Are you sure about that one? It’s a bit clunky,” Ryota said.
+
+“Pretty sure.” Rhys cleared his throat. “Also, it’s easier to brainwash children than adults. We’re going to need at least one generation to kind-of buy into confessing so that the next one will be raised with it and be so bought in as to never question it in the first place.”
+
+“And this all starts with me saving a few villagers from monsters?”
+
+“I mean, why not?”
+
+“I just don’t see—”
+
+Rhys startled. He slapped Ryota on the shoulder and pointed. An oxcart laid on its side, tipped over. A fresh load of produce spilled over the earth, and the people on the oxcart—a man and a woman—backed away from a pack of wolves as the oxen reared and bellowed in fear. “Oh, look—a problem. Go forth, o lord, and I, your lowly messenger, shall follow.”
+
+Ryota paused, giving Rhys a look. “Are you going to talk that way the whole time?”
+
+Rhys gave him a mock-impressed look. “Wow, you’re really getting a hang of this religion thing, Ryota. Is it confession time already?”
+
+Ryota rolled his eyes. In truly lazy fashion, he slumped forward over the railing, executing a sulky front flip to land not far from the oxcart. Rhys followed him down, though he didn’t sulk about it and just followed him normally. He put a little effort into looking saintly, or at least regal, as he descended, getting the sun behind him and making sure his robes fluttered just right. A lot of religion was in the presentation. He didn’t usually care too much about his image, but now was the time to care.
+
+Ryota was kind of failing the presentation part, what with the slumping and the sulking, but that was fine. They could buff it out later. The legend was in the retelling, not the moment.
+
+The mortals cowered, half in fear, half in awe. Rhys nodded to himself. That was good. They were nailing the vibes, if nothing else.
+
+So… what do I say here? Oh wait, hold on. I’ve got it. “Fear not. We come in peace.” Rhys paused. It felt off, somehow. But what was it?
+
+Wait, I think I mixed up angels and aliens. It’s not ‘we come in peace,’ but—
+
+The mortals screamed and ran, as did the wolves, as did the ox. In a split second, the only thing that remained on the scene was the tipped cart.
+
+Rhys blinked. He looked at Ryota, who looked just as surprised as he felt. “Uh… what?”
+
+“I guess that’s a failure?”
+
+“Let’s reset and try again. We can’t expect to nail it on the first try,” Rhys agreed.
+
+“What do we do with the cart?”
+
+“Set it on its wheels and leave it there, I guess.”
+
+“Shouldn’t we take it to town, or something?”
+
+“Sure, but do you know where they came from or where they’re going?”
+
+Ryota opened his mouth, then shut it. He shook his head.
+
+“Yeah. Let’s just leave it here.” He lifted his chin and shouted, “Sorry for scaring you! We aren’t touching anything, okay? Everything will be right here when you come back!”
+
+The wind through the branches was his only answer. The mortals were long gone.
+
+Rhys shook his head. “Nothing for it. Come on, let’s go try again.”
+
+With that, Rhys and Ryota took off back to their ship, leaving the scene of what felt increasingly like a crime.

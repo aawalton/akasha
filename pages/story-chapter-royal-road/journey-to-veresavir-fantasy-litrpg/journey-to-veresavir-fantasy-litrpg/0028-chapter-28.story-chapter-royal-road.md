@@ -1,0 +1,311 @@
+---
+id: 0a7cbcc3-508e-5f0a-b19b-6f1692fc1415
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28"
+slug: 0028-chapter-28
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 28
+ownLength: 3394
+unit: words
+publishedAt: 2025-12-08
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2830701/chapter-28"
+royalRoadId: "2830701"
+---
+
+Chapter 28
+
+The cake lay defeated, and Veron was looking forward to getting a bath.
+
+“What’s the plan tomorrow?” he asked when their conversation slowed down.
+
+“Tomorrow we’re off. We usually sell the essence, if we have any, rest up and heal if any injuries remain, get repairs done, and if we feel ready, we go back in the day after. One day in, one day out. That’s the ideal routine for us usually,” Reka said.
+
+“Time for shopping and sparring,” Hayden said.
+
+“And for fun,” Silvie added.
+
+“That is fun,” Hayden countered.
+
+“Sure, big guy,” Silvie said with a smile. “Do let me know if you have any interest in exploring some culture, Veron.”
+
+“I will consider it,” Veron said and looked at the both of them. He had a few things he wanted to do and think about. Hayden’s offer to spar was high on that list.
+
+“I’m done then, we meet again for breakfast, decide what to do?” Reka said.
+
+The others confirmed, joining her in her walk towards the bath area of the Willard Inn.
+
+Hayden had talked about the lacking bathhouses in Perrion, and about how many there were in Anvakar. At least in terms of size and quality, he hadn’t exaggerated.
+
+There were several halls, some of them rented out to private parties. Dozens of people had showered and scrubbed off the dirt from their delves and now relaxed in the steaming baths.
+
+Veron and Hayden went to a men’s only section. There were mixed areas too but they were more comfortable separating. Cultures apparently differed greatly between the various cities and countries the adventurers came from. Most of them were accommodated here. There were single baths too but those weren’t included in the room fee.
+
+The pool itself was a simple large rectangle. The walls were a mix of wood and stone, with various small and potted trees dangling their leafed branches over the rising steam. It smelled herbal.
+
+Veron sunk into the water and felt the soreness in his back, shoulders, and arms smooth out. He sighed and let himself sink deeper, closing his eyes as the heat enveloped him.
+
+Now this is something I couldn’t get in Eyra.
+
+Every day.
+
+I can come here every day.
+
+Thank you, Envolon.
+
+Veron soon started to think back on the day, on everything he’d seen, he’d helped fight, on the advancements he’d made, and what it all meant. He had learned a great deal about this place, why it was so important, and how it could help him develop.
+
+He thought of the dead they had found. Veron wondered if there were relatives, friends, or companions waiting for them to return. Were they feeling anxious? Were they resigned? Readying for the worst since their friends decided to delve into the depths?
+
+And what about their killers? Were they out there celebrating? Feeling powerful? Feeling justified in their abuse? Or did they feel dull shame chipping away at their façade, drowning it all out with booze, and sex, and smoke?
+
+Veron breathed out and thought of the vision he’d had, the memory now faded to the point where he knew he’d had it, but he couldn’t describe it beyond what he’d already told the others. Ashen trees? And a burning city.
+
+Am I having some kind of prophetic hallucinations? Is the air down there just really fucky?
+
+Reka said they were common in the dungeon. That was one thing, but he wanted to know why. And he wanted to know what it had shown him. So he asked.
+
+Hayden gave it some thought and then answered. “I’ve heard of similar visions, so it could be a place deeper in the dungeon. Or somewhere else entirely. Or it’s just some figment, something else that doesn’t exist at all.”
+
+“That sounds very esoteric,” Veron said. And doesn’t really answer anything.
+
+“The nature of the dungeon has occupied the minds of scholars, historians, and craftspeople for centuries and more. I’ve heard people claim that many of the ruins found within resemble real styles of buildings, often from civilizations in long gone eras. But who built what and where is difficult to discern. Some of the beasts resemble or are the same as creatures found in the wilds. Others resemble none that we know of otherwise.”
+
+“Maybe they came from the dungeon, or they migrated there,” Veron said. “And the buildings could’ve been built by those very civilizations, exploring the dungeon like we are now.”
+
+“Maybe.”
+
+Veron could see why some would see the dungeon as something beyond understanding. Something divine perhaps. For him, the questions made him want to delve deeper and find out what was at the bottom of it all.
+
+“What do you think it is? The dungeon,” he asked Hayden.
+
+“I once thought it a creation of Grahnwerk,” Hayden said and chuckled to himself.
+
+“Grahnwerk?”
+
+“God of challenge, fighting, and courage. I know it’s a bit silly, but I once believed he truly existed, like a guardian watching over me.”
+
+“Did that help you get stronger?”
+
+Hayden nodded. “It did. But I think I may have taken some stupid risks because of it too.”
+
+Veron grunted with amusement.
+
+“You don’t think he exists anymore?”
+
+“No. And if he does, then I suppose he does so within me, and within others that have gained courage through such beliefs. There is too much in the world that is unfair, chaotic, random, for there to be any gods steering such things.”
+
+“They could be working against each other, causing that chaos.”
+
+“Hmm, yes. But then what makes them different from us?”
+
+“Power?”
+
+Hayden chuckled. “Maybe.”
+
+Veron looked at the rising steam.
+
+“What do you think? About gods, about the dungeon,” Hayden said.
+
+Veron lacked knowledge on the local history and their beliefs. Envolon had brought him here but while that put in question a lot of what he believed about the world, or worlds, he found that it didn’t really change his answer here.
+
+“I don’t know about gods, but I don’t think anything happens randomly. The water here for example, rises as steam when it reaches a certain temperature.”
+
+I was sent here with magic woven by Envolon. And I was chosen by the being for some reason too. I just don’t know why yet.
+
+“I think the dungeon is here because of some cause or causes as well. Maybe we’ll find out about it one day, or we won’t.”
+
+“No gods, and simply random events causing other random events?” Hayden asked.
+
+“Not random,” Veron said. “Just causes, and events that cause more things to happen.”
+
+“A cascade of causes and events then. No greater purpose? No driving force?”
+
+“If causes drive events, then every cause would be a driving force, no? We are it, everything is. And as to purpose, I don’t believe there is a greater one, no.”
+
+Hayden laughed. “That sounds bleak.”
+
+He smiled back. “Does it? I think it sounds freeing.”
+
+Hayden gave him a skeptical look.
+
+“If there are no all-seeing, all-controlling gods, if there is no greater purpose, then there is nothing standing in the way for us to make our own.”
+
+Hayden looked up for a while. “Make our own. If I think about purpose, I suppose people are born into their purpose sometimes, or they choose to believe in something. Maybe everyone does that to an extent. Maybe the purpose they find is the belief in their nation, their city-state, or a god. I’m not sure they really make their own.”
+
+“But they could still choose.”
+
+“Some. But I do believe that many are given a purpose.”
+
+“What would be yours? And was it given to you?” Veron asked.
+
+“I’ve never looked at it that way, no. I travel, with the others. We share experiences, take care of problems that others cannot face, rid the world of the chaos beasts we find, and we deepen our bonds. I think there is meaning in that.”
+
+“I think so too,” Veron said.
+
+“What about you? Why did you decide to come here?”
+
+Veron sighed, feeling the heat of the bath. “I think I came here looking for meaning.”
+
+“Hmm. And? Have you found it?”
+
+“I think so. In many different ways.”
+
+“That is good to hear,” Hayden said. “Anything specific?”
+
+“Magic,” Veron said. “Do they have saunas here?”
+
+“Of course.”
+
+“Then my answer is magic and saunas.”
+
+Hayden laughed. “A good set of choices.”
+
+“I think so too,” Veron said and closed his eyes, leaning back as he enjoyed the hot bath.
+
+They were quiet until Hayden suggested moving on to the saunas.
+
+The heat inside hit him like a brick. He loved it.
+
+There were a few others there, all of them enjoying the heat in silence.
+
+Veron got a shower afterwards, him and Hayden making their way to the shared room of the Silver Wolves. Veron fell asleep almost as soon as he lay down in his bed, waking up to shouting at some point in the morning. He heard Silvie complain in a murmur. The shouting died down and he fell asleep again.
+
+Veron yawned when he woke up, finding Hayden and Reka quietly getting dressed in the small room they all shared.
+
+He sat up on his bottom bunk and looked out the window, seeing the sprawling city of Anvakar, the many roofs and snow topped mountains almost glittering in the winter sun. It looked cold, and when Reka opened the window, he knew that it was, crisp air filling the small room as Silvie stirred in her top bunk and murmured a complaint.
+
+Veron blinked his eyes as they adjusted to the light, finding what looked like a flying ship somewhere in the western parts of the city. “What is that?” He pointed.
+
+A wooden hull, closed and curved below and on top as well, sails fluttering in the wind above, with several oval shaped and pointed vessels likely made of some kind of metal built onto its sides. Like a cross between submarine and sailing ship, with bits of zeppelin thrown in. It floated slowly, then seemed to dock at one of the many towers.
+
+“An Eskir airship. You'll see them in Anvakar from time to time,” Reka said.
+
+“They trade in the city or their crews go into the dungeon themselves,” Hayden added.
+
+The gray skinned flying guy I saw? They’ve got airships.
+
+He realized the information wasn’t exactly relevant to him right now, but now Veron wanted to fly on one of them. Another thing on the list, he thought with a smile, not caring all that much about how feasible the idea really was.
+
+“You guys are loud,” Silvie groaned as she slowly sat up on her bed.
+
+“We'll get breakfast. You two join us when you're ready,” Reka said.
+
+Veron started getting dressed, finishing up with his armor before he took his shield pieces and his spear with him. Silvie was done by then as well, brushing her hair on the way down to the mess hall. Breakfast was a buffet, and Veron piled on plenty of bread, cheese, and even some leftover stew from the previous day. He wondered for a moment where all the food came from, not having seen any fields or farms around Anvakar.
+
+He abandoned the thoughts once he started eating.
+
+“I'll go check the usual spots to see how much we can get for the Vereltir essence,” Reka said. “I don't think anyone needs major repairs, except for Veron’s shield?”
+
+The others didn't comment.
+
+“What are the usual spots?” Veron asked.
+
+“Ewana’s Essence Trade, The Luna Inn, and if neither of those want to buy, the Collection Ancire.”
+
+“I'll join you. Maybe we can find any good deals on relics or other gear,” Silvie said.
+
+“That sounds like a plan. What about you two?” Reka asked.
+
+“I'll have to repair my shield. And I would be up for sparring, but I'm also happy to work on my magic alone.”
+
+“I'll stay here with you,” Hayden said. “We meet up again for dinner?”
+
+“Yeah, we'll find you here.” Reka handed the room key to Hayden.
+
+They finished breakfast and the other two were off to try and sell the essence.
+
+Hayden and Veron made their way to the sparring section of the Willard Inn. A large area with stone floors covered in sand. There were wood, stone, and straw dummies, some of them set up at the end of what looked like shooting ranges, targets drawn on their chests and heads.
+
+“How much can you get for the essence of a Vereltir?”
+
+“That depends. The ones we fought were of around durable strength. Essence extracted into a vessel always loses some of its power, compared to extracting directly. So if the Vereltir were at around durable, the essence we got would be around adequate. And as far as I know, adequate essence goes for around one to three gold, or a hundred to three hundred silver.”
+
+Veron whistled. “That’s quite a lot. More than I got for the entire journey.”
+
+“Yes, though the range is quite large. Then you have the cost of the vessel. They can’t be used indefinitely.”
+
+“They can’t?”
+
+“No. That’s why we’re trying to extract only the strongest beasts we can kill. And of course we’re splitting what we make. But yes, it’s well paid work once you’ve got a crew together, got your gear and vessels, someone to extract, and contacts to sell to without being screwed over.”
+
+Veron nodded along. He wondered. “I have a relic slot now.”
+
+“You do. As do all Modest Paths,” Hayden replied.
+
+“Any suggestions?”
+
+“I do, yes. Keep it empty for now. Relics are expensive, for one. More importantly, your Focus is limited, and you shouldn’t spread yourself too thin. Training with a relic takes time and Focus. Work on your Path, your aspects, understand your strengths and weaknesses, then, when you have a firm grasp on all that, choose a relic that fills in the gaps. By then, you might have a good understanding of what is available as well, and what you can afford.”
+
+“That makes a lot of sense. Thank you.”
+
+“Keep in mind that relics also put a target on your head. Word can travel quickly depending on where you buy and who sees you use a relic.”
+
+“I’ll keep that in mind.”
+
+Veron was still in the early stages of being an adventurer. And he supposed that wouldn’t change anytime soon. Focusing his limited mana on the growth of his own magic made sense to him. More so, it felt right too. As if he would betray his nature in some strange way if he devoted time and energy into mastering a relic.
+
+The thought amused him. Maybe he would find that he detested some types of relics in the future too, just like he avoided some jobs and hobbies back on Earth.
+
+He didn’t forget that his Wind Harmony had reached the Beginner stage either. But he wanted to get his gear in working order first. “I'll use up my Focus, hopefully I'll have a working shield again by tomorrow.”
+
+Hayden nodded and Veron sat down on the sandy ground, spreading out the pieces of his shield. “Any idea where I could get some rocks without damaging a building or road?” The problem hadn't exactly occurred to him until now.
+
+“I'll see if I find something,” Hayden said and walked away.
+
+I guess I could just go closer to the mountains.
+
+“Thanks,” Veron said and arranged the pieces of his shield he'd managed to recover. Most of the lower half was still around, he would just have to connect the pieces again.
+
+Breathing in deep, Veron focused on his earth harmony and started fusing the cracked and broken lines. It felt easier than before. As if his magic just flowed better. He knew he had more Focus, but now that he had the time to really observe it, he could tell that it felt stronger too, more substantial. He could fuse the rock faster, could make it denser, harder. Veron knew through his Harmony that this shield, when it was done, would not shatter as easily.
+
+The realization was both exciting and frustrating. Veron would be done with his shield faster than expected, but now he wanted to remake his entire armor. And he wanted to experiment with his Wind Harmony too. He stopped when he started to feel the familiar strain of a near empty Focus, already almost done with the lower third of the shield. Of course remaking the top part with new stone not yet formed into the right shape would take longer, but by now, he was confident he could finish it today.
+
+Hayden returned soon after with a bag of rocks.
+
+“Thank you. How much was it?” Veron asked.
+
+“Five silver. Absolute rip-off if you ask me.”
+
+Veron handed him the coin and looked at the rocks. It looked like a pretty random assortment. “Well, someone had to collect and then haul them here after all. I'm glad they were available in the first place.”
+
+“You'll be able to buy most things in this city. The question is just how long you have to look for it. I see you've gotten quite far already, ready to start?”
+
+Veron stood up and they walked a little to the side. “Do you know by chance how long it takes for me to recover my full focus, now that I’m at the Modest level?”
+
+“It's similar for most people. Modest should still be below two hours. But not by much.”
+
+“I assume it takes longer with every level in my Path then?”
+
+“Yes. Adequate is a little over two hours. But overall, you’ll be able to do more magic, more quickly. And you’ll be able to fuel more advanced techniques as well.”
+
+Veron grabbed his spear and held it in both hands.
+
+Hayden handed him a shield. “Borrowed that one.”
+
+It was simple. Pretty much just a wooden board but he supposed it served its purpose for sparring.
+
+“I've seen you fight a few times now. But let's see how you hold up against me. Fight me as if I'm a monster in the dungeon. We both yell stop if we need to stop,” Hayden said and raised his shield and hammer.
+
+Veron prepared his own weapons. He had fought beside the man, had seen him stand unmoving against whatever creatures they faced. And now he stood in front of him, protected by heavy plate and wielding both war hammer and the shield he knew Hayden could use offensively just as well as for his protection.
+
+Veron got the feeling that Ivera was more dangerous than him. And yet she had only ever used her greatsword. Getting past that with his spear just made more sense than facing someone like Hayden. He attacked anyway, using his superior range to try and keep him at bay. Hayden blocked three of his strikes and already, Veron was on the back foot, trying to keep the distance as he started aiming for the other man's legs.
+
+Hayden simply sidestepped and kept advancing, not using any of his magic as he closed the distance, smacking away Veron’s spear until he got close enough to use his hammer.
+
+Veron raised his shield but Hayden didn't strike, instead grabbing the shield and pulling it aside, smacking his own shield straight into Veron’s chest. The blow made him stagger back but Hayden kept close, repeating the strike a second time. The third one made Veron fall on his ass. He tasted blood in his mouth, Hayden now standing over him with his hammer raised.
+
+“Do you yield?”
+
+Veron let go of his spear, pushed himself up to try and grapple his opponent, only to be met with another shield bash to his face.
+
+“Let's try that again. This time, no spear.”
+
+Veron raised his eyebrows. “No spear? How am I supposed to fight you?”
+
+“Figure it out.”
+
+He looked at the weapon on the ground and breathed in deep. Okay.
+
+“Ready?”
+
+Veron felt a little dizzy. His chest hurt and his lip was split. He raised his shield, his right hand empty as he advanced on Hayden. For some reason, he found that it felt more comfortable now that he had ditched the weapon. Veron smiled, and focused.

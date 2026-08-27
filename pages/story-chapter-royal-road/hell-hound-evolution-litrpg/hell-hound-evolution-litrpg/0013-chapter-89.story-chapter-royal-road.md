@@ -1,0 +1,231 @@
+---
+id: 3222bcb7-5b82-5c6b-93a8-c389c5b978ab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 89"
+slug: 0013-chapter-89
+partOf: hell-hound-evolution-litrpg
+position: 13
+ownLength: 3174
+unit: words
+publishedAt: 2026-02-23
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3083854/chapter-89"
+royalRoadId: "3083854"
+---
+
+Jessica stood at the center of the main plateau with Iris at her side. The fire pit had been dismantled and dragged away by a flurry of eager tribesmen, while anyone not challenging her packed themselves along the outer edges or crossed the rope bridges to higher plateaus to watch from afar.
+
+Are these people insane? Jessica thought. Well, I already knew that… but come on! I’m only thirteen!
+
+She looked across the makeshift arena at the masked warriors eager for their chance at her. Some were men, some women, but none were her age. The youngest among them still looked at least a year older. That made sense. With her level—and Iris at her side—no one with a recent System integration would be an acceptable test.
+
+The roar of the crowd softened as her aunt walked across the plateau with one fist raised. Valrok remained seated in his usual place, a massive chair that was little more than a throne, arms folded as his fearsome mask watched over everything like a stoic god-king.
+
+Her aunt stopped beside her and set a heavy hand on her shoulder. “Don’t worry too much, Elva. Healers are nearby, and I’ll call the fight before either you or your challengers reach critical HP.”
+
+“There’s no backing out of this, is there?”
+
+Her aunt’s posture stiffened. “Enough of that. You already know the answer.”
+
+“I’m clearly way outmatched here!”
+
+“That depends on who steps forward. There are challengers only slightly higher level than you—and you have Iris.” Her grip tightened briefly. “What matters is that you show strength and honor. Winning is better, but these fools are at least wise enough to recognize courage when they see it. And a girl your age facing an open challenge—this is a thing of legends!”
+
+“I didn’t exactly agree to this!”
+
+“Enough,” her aunt snapped. “Show your courage now, and the tribe will honor it. After today, none will truly doubt you—if you and Iris prove yourselves worthy.”
+
+With that, her aunt stepped away and raised her arm high. The crowd responded instantly, the roars of excitement lowering to a murmur of anticipation.
+
+“By the law of open challenge,” she called, voice carrying easily across the Bloody Peaks, “any who doubt Elva Wyrmscar’s worth may step forward and test her strength!”
+
+A ripple went through the challengers. Several shifted eagerly, hands tightening on spear shafts or sword hilts. A few glanced toward Valrok, as if seeking permission, but he only leaned back in his throne, massive arms crossed, saying nothing.
+
+Then, a single figure stepped out.
+
+He was tall and broad-shouldered, his mask’s teeth carved with jagged lines that turned it into a perpetual snarl. He rolled one shoulder and planted the butt of his spear against the stone.
+
+“I will be first to take the challenge!” he shouted. “I am Korrin Cragborn. I lost two brothers on that hunt.” He lifted his spear and pointed it at Jessica. “I want to see for myself if she is worth their blood.”
+
+A cheer broke out immediately, sharp and hungry.
+
+Jessica’s stomach dropped.
+
+Of course, the first one is someone with dead brothers!
+
+She tightened her grip on her spear. Her aunt shot her a brief look from the edge of the arena—warning and reassurance all at once—then raised her voice again.
+
+“Korrin Cragborn,” she declared. “You will fight Elva Wyrmscar and her bonded Hell Hound, Iris. The fight continues until called off by myself or Valrok. Critical HP will end the fight. Yielding is permitted and must be honored.”
+
+Korrin tilted his head in a shallow nod. “As the Almighty wills.”
+
+Jessica swallowed and forced herself to breathe. In through the nose. Out through the mouth. Her heart was racing, but as she tightened her grip on her spear and moved her feet into a battle-ready stance, there was an odd sort of calmness that overtook her.
+
+Perhaps “calm” wasn’t quite the right word. But as her gaze settled on her opponent, the roar of the crowd sank into the back of her mind. It was like a low buzz that was completely disconnected from this moment. She was hyper-aware of her fingers gripped around her spear, her boots against the dirt.
+
+A week ago, she would have cried and begged to not have to do this. But a lot had changed while hunting out in the forest.
+
+At her side, Iris shifted as well, raising her hackles and staring across the plateau.
+
+Then, as her aunt raised a fist and shouted, “Begin!” everything changed.
+
+Jessica ran forward, Iris bolting ahead of her as wings sprouted from her back and she zipped up into the air.
+
+Korrin moved the instant she did.
+
+His grip on his spear reversed, and he let its blade glide behind him across the plateau, kicking up a trail of dust. But even with his mask on, Jessica could see his eyes never left Iris as she shot upward, and Jessica felt a flash of alarm at that alone.
+
+He knows she’s the real threat. And he has a personal vendetta against Hell Hounds! Maybe he just did this so he’d have a shot at her!
+
+Jessica wished she could speak directly into Iris’s head as Iris could for her, because she wanted to warn her to be careful. They didn’t know if this guy had any sort of ranged attacks yet.
+
+As the distance closed between them, his spear swung across the ground in an arc, spraying dirt at Jessica’s face, but it wasn’t enough to blind her—not through the mask. She pivoted her spear to block the swing, but at the last second, Korrin’s heels skidded in the dirt, and he changed direction—it was a feint!
+
+“Iris!” Jessica yelled.
+
+The Hell Hound was already diving when a pulse of mana burst from Korrin’s feet, dust exploding in a mini shockwave around him as he shot into the air. Jessica let her spear slide in her hands, holding it low on its shaft as she made a clumsy swing upwards, trying to catch Korrin before he was out of her reach, but it was too late.
+
+Iris knew a dodge wouldn’t work, so she fired an Aether Beam straight into him. The light tore across his chest, but Korrin didn’t even slow, allowing it to burn his armor as his spear spun and he swung at the Hell Hound.
+
+She pivoted, but not quite fast enough. The spear cut through her right wing, which didn’t bleed but dissolved with a burst of light that sent the Hell Hound spiraling back down. Korrin landed in a sliding crouch as Iris hit the plateau hard, tumbling head over tail as she retracted her other wing. Korrin had already turned to charge at her once again.
+
+“{Blink Line}!” Jessica shouted. Her feet slid across the ground as if she were on skates, putting her right between Korrin and Iris. With his focus so set on the Hell Hound, he looked completely unprepared, and Jessica finished the Blink Line with a jab at his midsection.
+
+Her spear hit true against his armor, but it wasn’t enough to stop him. A hand snatched downward, grabbing the shaft of her spear just under the blade and ripped back.
+
+Jessica let out a surprised yelp as she was yanked forward, then his hand came up and grabbed her by the neck, instantly lifting her off her feet. She was so much smaller than him that he whirled her around like a rag doll and then tossed her across the plateau. She felt like she had absolutely no control as she flipped through the air before hitting the ground hard and rolling. A loud roar from the spectators rocked through her skull before she came to a stop and tried to reorient herself.
+
+She got her head up in time to see Iris dodge a spear thrust, a fresh set of wings emerging from her back as she tried to get a running start and take off. However, as soon as Korrin saw the wings, he changed tactics and kicked, landing his boot right along Iris’s flank and sending her tumbling across the dirt once again.
+
+Jessica scrambled to her feet and ran towards them. Iris was at a serious disadvantage and out of her element on the ground, and it seemed Korrin understood that.
+
+Jessica grit her teeth, resisting the urge to shout her skill names for once as she cast {Meteor Drop}. Her legs reacted instantly; she felt mana coursing through her, powering an inhuman leap that sent her sailing upward. Her spear spun in her grip at the height of her ascent, and then she descended far faster than natural gravity could take her.
+
+Korrin didn’t even have his eyes on her, jumping towards Iris as the pup tried to scramble into an evasive stance—but Jessica got there first.
+
+Her spear stabbed into his back, digging a gouge in his armor and right down to his flesh. He lost his footing and spun mid-fall, his spear coming out and slashing Jessica’s arm. It was enough to tear down to her bicep and spray blood, but it would have been much worse if he had been in a proper attack position.
+
+They hit the ground together, but before Jessica could get her feet under herself again, a strong hand grabbed at her breastplate and pushed her back down. He dropped his spear and whisked a dagger from his waist. Jessica gripped the shaft of her spear with both hands defensively—but it wasn’t needed.
+
+A beam of light flashed across the plateau, striking the side of Korrin’s head and knocking him off his feet. Jessica rolled, briefly thinking she should retreat and plan her next attack, but she already knew he could outmaneuver her, and he was stronger than her. While he was disoriented from the blast would be the best time to press the attack!
+
+As soon as her feet were under her, she used {Blink Line}.
+
+She skated towards him just as he was raising his dagger.
+
+Instead of a standard thrust, Jessica chained {Nerve Strike}, her spear finding his shoulder with far more reach than his dagger could contend with. As soon as the spearhead struck, his arm fell limp, and the dagger spilled from his hand. He growled and swung his other fist forward, but Jessica saw a different movement out of the corner of her eye.
+
+Iris slammed into the side of his head, claws first, knocking off his mask, which spun across the ground, and causing him to lose his footing once again. The Hell Hound arced upward right after the attack, and Jessica stabbed her spear down.
+
+He deflected with his bracer and scrambled for his spear, which was lying nearby, but as he reached for it, a beam of light arced across the ground, burning the back of his hand and stopping him.
+
+{Blink Line}!
+
+{Nerve Strike}!
+
+Her spear struck high on his chest, his breastplate protecting him, but the paralyzing effect sank through anyway. His body seized for a moment, his teeth clenching not in pain as much as the simple fact of his muscles seizing. It only lasted a moment, but it was plenty of time for Jessica to position her spear at his throat.
+
+Blink Line has leveled up! 1 > 2
+
++3 Dexterity
+
+Nerve Strike has leveled up! 1 > 2
+
++3 Dexterity
+
+“Iris! Down!” she called, though she didn’t take her eyes off of him.
+
+Iris swooped back down and landed gracefully by Jessica’s feet. Her fangs bared as she maintained a rumbling growl, her hackles puffed high as if waiting for the order to strike.
+
+“Stay, girl…” Jessica muttered.
+
+The paralysis wore off, but Korrin made no move—he couldn't. Her spear was right at his throat.
+
+Jessica watched him through the eyeholes of her mask. He was younger than she had first thought—maybe only sixteen, but there was one particularly deep scar in his cheek already. To have lost two brothers at his age, she wouldn’t have blamed him if he held nothing but hate in his eyes.
+
+But that’s not what she saw.
+
+Instead of spitting curses and damning them to the Scaly Bastard Below, his lip raised in a resigned grin. “I yield…” he huffed, and let his head fall back.
+
+Jessica didn’t even have time to place her spear at her side before the plateau erupted in cheers. Korrin rose, retrieved his weapons and mask, and returned his dagger to its sheath. But instead of putting his mask over his face, he held it against his chest and bowed. “Elva Wyrmscar. I, Korrin Cragborn, recognize your claim.”
+
+“I…” Jessica’s gaze lowered slightly. This calm in the aftermath of a fight was too surreal for her, and the fact he was showing her such respect… but… it was a bitter respect, and she felt like she didn’t deserve it. She felt like she was the one who owed him something. His brothers died, and from his point of view, they died for her—even if she never asked for it.
+
+Saying, “Thanks!” or “Good fight!” certainly wouldn’t cover it. But, at the same time, the “price” his brothers paid to buy the tribe “strength” also cost Iris her family. And somehow, Jessica was right at the center of all of it.
+
+“Korrin Cragborn,” she began, swallowing heavily. “I don’t… I mean…”
+
+He began to look up, cocking an eyebrow slightly.
+
+Jessica let out a breath. “Blood is… I mean, our lives—your brothers' lives… Life itself is more important than anything that can be bought with it. But if it bought me strength, then I’d only want that strength so fewer people have to die.”
+
+Through her mask, she watched as his expression shifted. He looked confused, as if her words made no sense to him. Of course, what she just said was not the way of these people. He surely expected some proud declaration, a boast of carrying his brother’s blood for the glory of the tribe, or whatever the fuck it was that made these people tick.
+
+But through the confusion, a light came into his eyes. His lips tightened, and he nodded. “Thank you for showing me my brothers have not died in vain. Elva Wyrmscar.” With that, he bowed his head once more and turned away.
+
+Another round of cheers burst through the Bloody Peaks as Jessica turned to see who would challenge her next. She knew she wasn’t done yet. The show was just getting started. She glanced up to Valrok for only a moment, to see him sitting forward on his throne, one massive hand tightening on the armrest. He was surely quite pleased with all of this.
+
+“Jessica,” Iris’s voice spoke in her head. “Do not forget your promise.”
+
+She looked down at Iris.
+
+Right… I'm such a hypocrite.
+
+Despite her little speech to Korrin, she was currently right in the middle of a blood pact with her Hell Hound.
+
+“I haven’t forgotten, Iris. Don’t worry,” she whispered.
+
+The cheers had barely settled when another figure stepped forward.
+
+This time, it was a girl.
+
+She was shorter than Korrin and lean; her mask wore a shocked expression, with smaller, pointed teeth along its gums and white lines painted along the cheekbones. As she walked into the arena, she drew two short swords from crossed sheaths at the small of her back. The blades flashed, whistling through the air as she spun them into a steady grip.
+
+The girl stopped a short distance away and took a battle stance. “Elva Wyrmscar, I am Saelin Redridge, and I shall test your claim.”
+
+Jessica lifted her spear and took her stance as well, Iris at her feet, waiting for the fight to begin.
+
+Past the new challenger, Jessica saw many more lined up and waiting for their turn. Some, she had a feeling, would be far above her and Iris’s current level and skill. This crowd wasn’t here for a few quick skirmishes; Jessica knew they were looking forward to an all-day event.
+
+Her aunt slashed a hand through the air and shouted, “Begin!”
+
+***
+
+Far away, down the Bloody Peaks, through forests, and across desolate lands, there was a castle built into a mountainside. The Oracle stood on a balcony that overlooked the barren, dying landscape of the Umarii lands, but that is not where her eyes were set. She was looking towards the sky, watching the chaotic waves and rolling clouds of a storm that only she could see.
+
+Something had shifted… but what?
+
+She searched, following paths she already knew well. Battlefields with piles of corpses, flames scorching the forests, and thousands of human-skinned animals massacring each other.
+
+Some of the paths were more personal. Some ended with dozens of knives descending on her, tearing through her, ripping and stabbing again and again as she laughed in acceptance of her fate.
+
+Others showed a Hell Hound—Luke—lying in a pool of blood, and Themiel being dragged away, screaming.
+
+Most present of all, of course, was the nameless one. The Oracle did not even need to look there again.
+
+But none of these are what grabbed her attention. She was looking for that shift in the storm, trying to see if a cloud might have turned to reveal some new ray of light.
+
+Then she found it.
+
+The Bloody Peaks.
+
+Something had changed there, of all places, but she couldn’t tell what.
+
+She searched, watching possible futures roll past each other—some quite amusing, others more horrifying, though she was numbed far past wanting to look away.
+
+Yet, she couldn’t see specifically what it was that had caught her eye. Perhaps it was nothing.
+
+With a sigh, she looked down from the sky and tried instead to bring her mind back to the present. To reconnect with this body and these eyes that only saw what was right in front of her. Every day it became harder to do so.
+
+Themiel had mentioned a possible other transmigrator amongst the Bloody Peaks. It was worth knowing—all transmigrators had value, though some more than others. The likelihood of this particular one ascending to godhood seemed unlikely. Otherwise, the girl’s place in the storm would be far clearer, and the Oracle wouldn’t have needed Thiemiel to know of her in the first place.
+
+“Yes… It’s likely nothing…” she muttered.
+
+Yet, before turning away from the balcony, the Oracle glanced back once more.
+
+Something had changed in the Bloody Peaks; she just couldn’t grasp the shape of it.
+
+Perhaps fate had simply not yet decided.
+
+READ NEXT CHAPTER NOW!
+
+Thanks for reading! Hope you've liked Jessica's arc here. Next chapter, we are getting back to the main party!And because Jessica has been the center of most of the negative feedback in vol. 1, I'm curious about your opinions of her and whether they've changed over the course of the story so far. Therefore, if you have a moment and would like to share, please answer the poll or comment below!

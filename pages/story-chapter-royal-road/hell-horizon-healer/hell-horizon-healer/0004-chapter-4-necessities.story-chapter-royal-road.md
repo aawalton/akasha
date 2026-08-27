@@ -1,0 +1,165 @@
+---
+id: 142447cb-ec54-585b-836a-05523fbfdd73
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4 - Necessities"
+slug: 0004-chapter-4-necessities
+partOf: hell-horizon-healer
+position: 4
+ownLength: 1718
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3520072/chapter-4-necessities"
+royalRoadId: "3520072"
+---
+
+Jake’s stomach felt like a hollow, deflated balloon that someone was trying to twist into a knot.
+
+Six hours of back-to-back push-ups and squats, fueling the entire grind with nothing but Minor Heal, had completely drained him. According to the system’s own logic, his body was out of calories and preparing to eat its own newly formed muscle tissue.
+
+That was cool.
+
+He needed food. Real food. And there wasn't a single, half-stale granola bar left in his kitchen.
+
+That physical necessity was the only reason he opened his door and stepped out into the hallway to brave the horrors outside. People.
+
+The corridor near room 704 was a complete mess of noise. A crowd of people were packed into the tight space, their body heat radiating off the wallpaper, making the stagnant air smell like stale sweat and collective panic.
+
+They were having another meeting, this one more pressing than the last. It was almost midnight now, judging by how dark it was getting outside.
+
+Chloe stood at the center of the huddle.
+
+"We have no food or water," Chloe was saying, her eyes sweeping over the crowd. "Nothing. No water from the taps, no canned goods, no dry rations. If we stay on Floor 7, we're just waiting to starve. This is now our reality."
+
+Even Arthur couldn’t deny it. He took a deep breath, gazing down at the heavy metal of his shield. “Though I don’t like it, the fact is, we need to move. I’ll stand in front, but that means we need people willing to go out there.”
+
+He was willing to stand out in front? Wow, that was a lot more bravery than Jake thought he had.
+
+Everyone looked at the heavy fire door leading to the stairwell. The question hung in the stale air: who was willing to risk a death between monster teeth just to eat?
+
+Chloe straightened her spine, clumsily shifting her grip on a spear. “I will,” she said. “How many would we need?”
+
+“Less is more,” Edwin muttered from the back. “We need a straight firing line down the hallway. Arthur has his big shield; he can protect me. Just give me an avenue to fire down, and I’ll riddle those shits with holes.”
+
+“You’re a veteran, right?” Arthur asked.
+
+Edwin just grunted.
+
+“Then it’ll be good to have you.”
+
+A tall, muscular man stepped forward. Short hair, handsome, symmetrical features. He had one of those faces people instinctively trusted—which meant, in Jake’s experience, he was exactly the type of person to avoid. He hefted a heavy fireman’s axe.
+
+“Lyle,” he said. “Fireman. I don’t know much about fighting monsters, but if we don’t fix the water situation fast, we're done.”
+
+A hero. He’ll die first.
+
+Susan barged through the huddle. Tears stained her face, and Jerry's dried blood marked her clothes like abstract paint. Her heart rate was redlining, radiating pure, volatile heat. She held a meat cleaver.
+
+Of all the weapons the system offered, she had picked a kitchen tool meant to slaughter.
+
+“I don’t give a shit about food or water,” Susan spat, spittle flying from her teeth. Jake instinctively took a step back to clear his personal space. “Just put me in front.”
+
+“Susan,” Chloe gulped, her news-anchor facade cracking. “I know you’re grieving—”
+
+“Fuck off,” Susan snapped. “Don’t tell me how to feel. You need someone at the front? Fine. Don’t piss me off with that fake sympathy.”
+
+Chloe choked on her next line.
+
+Damn. She’s actually quite awesome.
+
+“Okay…” Arthur stammered, clearly uncomfortable with the lack of social decorum. “You can come.” He turned to the remaining crowd. “Anyone else?”
+
+A girl stepped forward, raising her hand. “I’ll join. Sloane.”
+
+Arthur glanced at her weapon—a heavy English longsword—then looked at Edwin. Edwin gave a single, tight nod.
+
+“Great,” Arthur said. “Is that it?”
+
+“No,” Edwin corrected. “We need two more. Someone with a ranged weapon. I won’t be enough. Hell, Susan and the girl will probably just get in our way.”
+
+Sloane scowled. Susan just scoffed, her fingers tightening on the cleaver.
+
+A guy with freckles and an ordinary face put his name forward. Jonathan. He had a composite bow.
+
+Then, the neighbor standing right next to Jake shifted his weight, preparing to step forward. Jake didn't want to lose a spot on the food run. He planted his elbow into the man's ribs, nudging him firmly out of the way. Before the guy could even complain, Jake stepped into the circle.
+
+“I’ll join. I have a Longbow.”
+
+Edwin’s eyes fixed on the heavy wood of Jake's bow. He nodded once.
+
+“Okay,” Arthur announced, trying to regain control of the room. “Those who are joining us, please come to my room. We’ll discuss the plan in further detail. Everyone else, please rest. No good will come of panicking. Please leave the rest to us.”
+
+“You’re a good boy, Arthur,” an older lady murmured, patting his arm. Arthur offered a rehearsed, comforting smile as she walked away.
+
+Edwin didn't move from the center of the hall. “Before you go to your rooms, leave your spare weapons against the wall. We need all the equipment we can get if you want to eat tomorrow. Those of you who don’t contribute weapons will not receive a morsel from us.”
+
+Arthur looked like he wanted to object to the blunt extortion, but he kept his mouth shut.
+
+One by one, the non-combatants shuffled back to their apartments, returning to stack pipes, bats, and kitchen knives against the drywall.
+
+It was smart. Jake had his longbow, but if a shadow quadruped breached the frontline and got inside his guard, a ranged weapon was useless. He needed a secondary option.
+
+Arthur turned toward his room. “Follow me.”
+
+Jake claimed a curved machete on the way.
+
+***
+
+Jake sat on the floor, far away from the others.
+
+They started talking about the plan. Mostly it was Edwin who formulated it. Susan and Lyle would be in the front with Arthur. When the command was given, they would duck while Edwin, Jonathan, and Jake fired their weapons down the hall.
+
+Ideally, there would be no need for the fighters in the front to fight. But there was no knowing what, or how strong the monsters were. In the case of something coming from behind, Sloane took up the rear.
+
+For some reason, Edwin didn’t think much of her—or Susan or Chloe, for that matter. Was he sexist? Whatever the reason, Jake agreed with him. And no, it wasn’t just because she had stolen his room.
+
+Okay, maybe just a little…
+
+A lot.
+
+***
+
+Back in his room, Jake couldn’t sit still. The hunger was eating away at him from the inside. He didn’t think it was actually that bad physically, but his twenty-one points in Perception made him a total drama queen. The stat enhanced every single negative signal his body fired off, amplifying the dull ache into a loud, throbbing crisis.
+
+He understood he couldn’t go on like this. If a simple calorie deficit felt this agonizing, what would happen if a monster actually managed to bite him tomorrow? He would lose all composure because the pain would be heightened to a ridiculous degree.
+
+Something had to be done. But what?
+
+He couldn't do more push-ups. His body would just consume his own muscle tissue for fuel. He couldn't go out and hunt in the dark. That left the blue, humming static he noticed that was all around him.
+
+Mana.
+
+Jake sat cross-legged on the mattress and closed his eyes. Turning his perception inward, he tried to map out the energy. It was a chaotic mess. The blue static vibrated erratically, shifting every time his stomach cramped or a neighbor whispered in the hallway.
+
+He needed to lock his mind onto it. Completely stabilize his focus.
+
+His mind dug through old memories, specifically late-night YouTube rabbit holes he’d fallen into months ago. He had spent hours watching documentaries on Tibetan monks. They could sit in the freezing cold for days, completely unfazed by their environment. The secret was their mind. They could isolate their focus to a single point, tuning out the entire world.
+
+It was insane, illogical. Jake had tried for years to make himself ‘normal’ and yet nothing worked.
+
+But there again… everything was insane now. Nothing could be explained.
+
+Jake picked the blue static behind his sternum as his point.
+
+The first few hours were infuriating. His stomach would cramp, his focus would slip, and the blue static would instantly scatter like a school of fish. Every time Susan cried down the hall, his mind drifted. Every time Arthur's heavy boots shifted in the next room, his focus broke. Every time he imagined what that damned girl was doing to his room, what mess she was making…
+
+But Jake was stubborn. He forced his mind back to that single blue spark. Again. And again.
+
+Hours bled away. Midnight passed, then three in the morning. His eyes burned under his lids. His brain felt fried, physically aching from the sheer mental strain of wrestling his own thoughts. He didn't move an inch. He ignored the hunger, ignored the noises, and fought his own hyper-sensitive brain for control.
+
+By five in the morning, the friction finally stopped.
+
+The noise from the hallway didn't disappear, but it no longer pulled his attention. His mind had built a wall. The blue static didn't scatter anymore; it held perfectly still under his mental gaze, locked in place.
+
+A chime echoed in his head, text flashing behind his eyelids.
+
+Skill Gained: [Concentration (Passive)]Effect: Increases mental clarity and stability under mild environmental stress.
+
+Jake let out a long, ragged breath and slumped forward. He was completely exhausted, his head throbbing from the all-night battle. The skill didn’t give him more mana, and it didn’t make his mana regenerate any faster. His pool was still a pathetic two points.
+
+But the mental fog was gone. The agonizing edge of his hunger had finally leveled out into something manageable. He had forced his brain to obey him.
+
+Weak light began to bleed through the distorted window. Morning was here.
+
+A heavy knock rattled his front door.
+
+Jake opened his eyes, grabbed his longbow from the nightstand, and stood up. It was time to go.

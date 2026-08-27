@@ -1,0 +1,159 @@
+---
+id: 64bd1268-a824-5fc0-b2c2-f85cd212f577
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15 - Focus"
+slug: 0015-chapter-15-focus
+partOf: hell-horizon-healer
+position: 15
+ownLength: 1667
+unit: words
+publishedAt: 2026-06-13
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3535048/chapter-15-focus"
+royalRoadId: "3535048"
+---
+
+Cuts and knife-edges scored across Jake’s flesh like a bloody lattice, the worst of the gashes stitching shut in a blur of continuous violence.
+
+One moment he was cutting across the throat of a smaller goblin, the next he was slamming his fist into bone, only for a knife to find his back. He spun round, slicing his scythe across the monster’s face.
+
+Another blade found his leg, and he replied by turning around and sinking the tip of his scythe deep into the beast's shoulder. He took a step back, pulling the goblin with him with a tug of the chain. Another swing of a goblin’s weapon found not him, but the beast he had pulled, scoring green flesh with a red line.
+
+Jake dashed around, using the full length of the chain to tether four of the bastards together.
+
+Sloane finally appeared, swinging her sword in a tidy arc through the goblin’s neck.
+
+“Took you long enough,” Jake shouted, then groaned in pain as another knife dug into his back.
+
+Sloane twirled around him and slashed down from shoulder to waist, goring the goblin that had attacked him. “Yeah,” she said, kicking another one and stabbing it through the gut. She was getting used to the fight. “I was busy.”
+
+Edwin, Chloe, Glenn, and Arthur rushed in to help. With the numbers advantage, it didn’t take much longer before all the goblins were dead. It was a mess.
+
+There wasn’t an empty piece of skin of Jake’s that wasn’t cut up like he was a damned animal ready to butcher. Susan was locked onto the goblins that were on the floor, but still breathing, dashing to the next and slamming her cleaver down, hacking away at them like some sort of demented monster.
+
+Her body was also a mess.
+
+That went for everyone, really. If Jake, Sloane, and Susan hadn’t disrupted them from the beginning, it would have been a one sided massacre.
+
+Finally finished with her slaughter, Susan hobbled over, blood soaking her face. Jake healed whatever he could. Thankfully her body was incredibly resilient. If anyone else took her level of damage, they’d be a corpse on the floor along with the rest of the goblins.
+
+“Where’s Lyle?” she asked, holding her arm, nodding at Jake as thanks for healing her.
+
+“Shit,” Edwin said. “It was his turn to keep watch.”
+
+Those who were capable, rushed through the cave and made their way down to the thick bushes. Lyle sat against a tree a few feet away, a trail of blood under him. He’d obviously pulled himself away as far as he could.
+
+He was still breathing, barely; a large wound from a blade had been poked through his chest. His head was also covered in blood from a harsh, blunt strike. Most likely the goblins tried to remove him from the equation without making any noise.
+
+Maybe that was the only reason he was still alive. He was lucky.
+
+Jake didn’t have enough for another heal, but he knew he couldn’t wait. The hero’s breath turned faint.
+
+Here goes nothing, he thought as he pushed his mana container to its limits and forced a heal. Warnings went off in his head as pain thrummed throughout. He ignored it and pushed anyway, urging the mana into a smaller heal to at least stabilize the wound.
+
+It worked, and his Minor Heal jumped up by 4% from a single use.
+
+So controlling the amount I use also works. Thanks for being my test subject.
+
+After a few minutes, Lyle finally stirred, blinking. “What… happened?”
+
+“We were attacked,” Jake said bluntly. “Ambushed. And more are most likely on their way.” He looked up at Edwin. “We have to move.”
+
+The ex-soldier bit his lip and slammed the flat of his fist against a tree. “Shit,” he spat. “We were too complacent.”
+
+Jake shook his head. “It’s not entirely your fault.” The neighbours all looked at him. Susan had stumbled to the front of the cave and looked down. Sighing, he explained, “It was the air. Or still is, I imagine. Something about it has soothing capabilities."
+
+It’s only because I unlocked Controlled Breathing that I managed to detect it before it was too late. But that doesn’t explain how Susan was able to completely negate it without a skill…
+
+He studied her wounds and came to the conclusion that she was just too bat shit insane to be controlled by something like that.
+
+They all helped each other, supporting their weights as they left to find another base for the night. Travelling in the dark wasn’t optimal, but at least everyone was now finally on edge. Every twitch of a branch, every breeze blown through the bushes, made everyone snap to attention.
+
+Jake guided them to the waterfall he had found beforehand. It was around an hour and a half away from the cave, equally as defended. Plus, it was hard to pinpoint any noises because of the crash of the waterfall. If the goblins depended on their sense of hearing, it would work way better than a cave that echoed any noise made within.
+
+During the fight, he had gained two levels. He had placed two into Vitality and two into Mana.
+
+On the way, he glanced at his stat sheet:
+
+Strength: 13 (+5)
+
+Vitality: 11 (+5)
+
+Dexterity: 7
+
+Perception: 21
+
+Mana: 6 (+3)
+
+Skills:
+
+Minor Heal (Mastery: 24.2%)
+
+Concentration (Mastery: 23.9%)
+
+Tension (Mastery: 9.2%)
+
+Controlled Breathing (Mastery: 6.7%)
+
+Pain Resistance (Mastery: 2.2%)
+
+Jake collapsed the moment they arrived at the waterfall, completely spent.
+
+Every time his mana container had enough energy for a single spell, he used Minor Heal. He spent most of it keeping Susan from bleeding out, but he saved the last burst to stabilize Lyle. Now, his head throbbed with a dry, sandpaper ache. His tank was completely empty.
+
+Edwin got straight to work building a fire, choosing a spot between the rocks where the high walls would hide the light. Chloe was resting against her spear, and when their eyes met, she quickly looked away.
+
+Was his stare that scary? Good.
+
+Although Jake wasn’t sure exactly what had happened back in the cave, that mana trail to Glenn’s bow hadn’t gone unnoticed. Did she do it on purpose? Was it a mistake? He had already promised her that if she messed up like that again, he’d make sure she couldn't come on another run.
+
+Just you wait, he promised, and quickly began regulating his breathing.
+
+Controlled Breathing, as he had discovered, had strange, unintended effects. Because he had more control over his breath, he was able to squeeze out a little more power than usual before a strike. It wasn’t a significant amount, maybe around ten percent or so, if that. But ten percent was still a lot.
+
+He was learning that although the skills seemed basic at first, they had a lot of different uses as long as you were creative. Tension allowed him to throw his chained scythe more accurately, and most likely that included a bow as well.
+
+But… wouldn’t tension also work on his muscles?
+
+Why wouldn’t it?
+
+Controlled Breathing, in theory, should be just as simple. If it was just about controlling what he took into his lungs, then why couldn’t he breathe in the mana that was all around him?
+
+The air near the rushing waterfall was thick with it. Blue, humming static vibrated against his skin, rolling off the water in heavy waves.
+
+So that’s what he did. He sat cross-legged and used Concentration to filter out what he didn’t want, focusing entirely on the mana. He drew a deep breath, dragging the floating blue sparks down his throat.
+
+The moment the energy hit his lungs, his chest violently convulsed.
+
+Jake doubled over, hacking as a freezing burn erupted behind his sternum. It felt like he had just swallowed a mouthful of crushed glass. His lungs locked up in a sharp spasm, completely rejecting the raw energy, and he spit a thin, clear fluid onto the moss.
+
+The ambient mana wasn't clean. It was wild, jagged, and entirely unrefined. Trying to force it straight into his blood was like pouring crude oil into an engine—it choked his system instantly.
+
+His chest throbbed with a raw heat. His breathing cycle shattered, and his heart rate spiked as he struggled for air.
+
+It’s too chaotic, he realized, his Pain Resistance finally dulling the burning. I can't just pull it in. It moves too fast. I have to stabilize it first.
+
+He forced himself back upright and closed his eyes again. This time, he didn't try to inhale it. He just watched it float.
+
+He needed a filter.
+
+Concentration was good for blocking out the forest noise, but it was too wide. It was a net, not a spear. He needed to shrink his awareness down from a big cloud into a single, sharp point.
+
+Instead of looking at all the blue sparks, he picked just one. A single dot drifting right in front of his face.
+
+He stared at it with his mind.
+
+When his thoughts tried to wander to the sound of the water, he forced them back. When his brain tried to check on his sore muscles, he ignored it. He cut off everything else, piece by piece, until the waterfall went quiet and the cold air vanished.
+
+He compressed his thoughts like a tight fist at the back of his head.
+
+There was no forest. No noise.
+
+Just him, and a single speck of blue light.
+
+After an hour of holding that exact, suffocating point, a sharp chime echoed behind his eyelids.
+
+[Skill Gained: Focus (Passive/Active)]
+
+Effect: Allows the user to narrow their mental awareness to a singular point, increasing tracking accuracy and the refinement of channeled energy.Jake didn't waste time celebrating. He let out a slow, steady breath, used his new Focus to lock onto the nearest cluster of blue static, and prepared for round two.
+
+He was just beginning.

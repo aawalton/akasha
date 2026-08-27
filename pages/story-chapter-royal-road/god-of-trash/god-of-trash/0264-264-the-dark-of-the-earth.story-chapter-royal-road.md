@@ -1,0 +1,91 @@
+---
+id: a1872543-50aa-5c6d-aa95-b5692d06237d
+page-type-slug: story-chapter-royal-road
+title: "264. The Dark of the Earth"
+slug: 0264-264-the-dark-of-the-earth
+partOf: god-of-trash
+position: 264
+ownLength: 1920
+unit: words
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2965727/264-the-dark-of-the-earth"
+royalRoadId: "2965727"
+---
+
+Rhys and The Hunger walked into the mine, absorbing impurities as they went. The impurities that had been too dense and strong for him to absorb earlier now slid easily into his core. They were thick, yes, and powerful, but they were now something he could absorb without much effort. Ahead of him, he could already sense stronger impurities, but they didn’t yet exceed the active pillars Soma had set up. With the two of them both low-key fighting to draw in the biggest dose of impurities, the impurities were honestly a little thin right now.
+
+I wonder if Soma would enjoy this training as well? Rhys wondered, then twisted his lips. No, I don’t think so. I think he’s probably fighting pretty hard to keep his impurity counts at a level he can control.
+
+The mine wasn’t significantly different than it’d been the last time he was here, though he hadn’t explored it much the first time. Then—and it seemed such a short time ago—he’d been forced out by the strength of the impurities. Now, he could handle them with ease, at least the ones that he encountered out here near the entrance. The looming depths, where the mine curved into the deep earth and all light vanished, exuded a powerful aura that threatened to overwhelm him. Rhys shivered, somewhere between excited and terrified. He couldn’t wait.
+
+“This place is tasty,” The Hunger commented.
+
+“It sure is,” Rhys agreed, though likely less literally than The Hunger meant it.
+
+They walked deeper into the mine. The light of day faded away behind them, the darkness oppressive as it closed in around them. The air was stale and close down here, and Rhys could all but taste the poison in the air. It had been still for so long down here that the air itself had separated into poisons and become trashy. Rhys drew it in the same as the rest. The air itself made his trash star burn slower, laden with poisons as it was, until he compressed it and shoved it into the heart of the star, where it became fuel like the rest of the trash. The continuous press of impurities and trash from all sides meant his trash star was running nice and hot once again, after burning low for a while thanks to The Hunger slurping up all his impurities.
+
+The sword was still doing its best, even now, but by now they were surrounded by such dense and thick impurities that both he and The Hunger could drink their fill of filth and still have plenty of impurities to go around.
+
+This deep in the earth, there was no light at all. It didn’t matter how good and mana-enhanced his eyes were; they were useless without the slightest scrap of light to use. Magnifying zero by a million was still zero, and he was nowhere near a million times magnification on his eyes, anyways. He could still ‘see’ with his mana vision, since he provided the mana to support the ‘vision’ part, but it wasn’t quite the same as seeing the mine in all its grandeur with visible light and his optical nerves, so he summoned a little of the trash star’s fire and used it to light up the mine as they continued to descend.
+
+A small flame flickered to life in his hand, painting the cave’s walls with warm light. The walls of the mine were hand-carved here, somewhat jagged and uneven, with wooden beams propping them up—though the wood was dark and filthy, long eroded by impurities. Rhys put a hand to the wooden beams, sensing the craft of it. If this was made by mages, and it had to be, there’d be some mana in the wood, or even—
+
+He yanked his hand back, shocked. Mortal? This mine had been made by mortals? He looked ahead, a grim expression on his face. The mortals had stumbled on something they couldn’t possibly have survived. The only question was whether mages were the ones who had worsened it and aggravated the mine until it became this bad, or if it was simply a single critical mistake by a group of mortal miners.
+
+There was only one way to find out. Rhys continued, walking deeper into the mines and further from the sun.
+
+The Hunger, at his hip, didn’t share his horror at all. Instead, it started to hum a jaunty tune, deeply pleased with its current situation. Rhys let it continue along in its happy oblivion. It was still an infant, so there was no reason to traumatize it with realizations about the way this mine was created. He wasn’t even sure it had the context to comprehend what was wrong about this situation even if he told it, to be honest. The Hunger had only known mages, and only relatively high-level ones at that. It had no frame of reference for what a mortal was, or the difference between a mortal and a mage.
+
+Ignorance really is bliss, Rhys thought, shaking his head at the silly little sword.
+
+The mine wound slowly downward. The impurities grew slowly stronger as they descended, a bit like water around a frog. The difficulty increased so smoothly Rhys barely noticed it, until he took a breath and almost choked, his trash star stuttering inside him. He paused, taking deliberate stock of what was around him.
+
+It was bad. Under the light of the fireball in his palm, the air was foggy and thick. He could barely see through the impurities, and even his mana senses were blocked from seeing more than his immediate vicinity, the impurities were so thick here. His cursed senses, on the other hand—when he risked letting his anxiety spike this deep in the earth, with the walls closing in all around him—could reach further than ever before, zigzagging from impurity to impurity and building upon itself to pierce through more distance than it usually could. He couldn’t see to the end of the mine or anything ridiculous like that, but the range was far larger than he was used to.
+
+Ahead, the mine continued, sloping gently downward. There was nothing alive down there, nor was there any break-off side paths, like he’d expect if they’d been mining ores. Just one straight, steady path downward.
+
+Rhys frowned. He stopped and just absorbed impurities for a while, using the time to think about his current situation. Mortals had built this mine, but they hadn’t built it to mine ores, probably; it would be a very strange mine if it was, in fact, a mining operation. But why dig down if not for profit or purpose? Mortals weren’t like mages. They needed to eat and sleep, and generally engage with capitalism or at least hunting, gathering, and subsistence farming to support themselves and their families. They couldn’t just diggy diggy hole all day long. They’d starve to death.
+
+People do strange things for religion, he considered. Was this some kind of religious hole? If so, he’d seen no paraphernalia of a religion at all. Even the most reserved of religions still had symbols and markings that called out the particular religion  the item belonged to; crosses, stars, crescent moons, and so on. But this was just a mine. A hole in the earth that trended down. If they’d wanted to mark it, they had plenty of chance to while they were shaping the raw earth and the wooden crossbeams, but they hadn’t. This was simply a hole. A hole they built for no apparent reason or purpose, and probably not for religion either.
+
+Well… huh. He shrugged to himself and continued on down. Maybe there’d be an answer at the very bottom of this hole. Maybe there wouldn’t be. Sometimes life was unsatisfying like that. Archaeologists spent their whole lives looking at bones, never knowing for sure what they looked at. There were archaeologists who’d lived and died thinking they studied male bones, only for their successors to discover they’d been staring at a female skeleton all this time. Or thought they were studying seven-hundred-year-old bones only for carbon dating to come around and tell them they were seven thousand years old. Maybe this was his archaeology, and he’d just never know.
+
+Archaeology was, of course, just one example. Science was all about discovering that the guy before you was wrong, and then proving it with math, preferably. Some people he knew back home were convinced that science was like religion, and there was one great truth which never changed, but that wasn’t right. Science was just people trying to make sense of the world. Getting it wrong was part of the process.
+
+Then again… not like religion doesn’t change, either. The guys in charge just put on a good face and tell you it’s never changed even though they know damn well they’re liars.
+
+He sighed. Although he’d been a hardcore ‘fuck reading the lore’ guy in his first life, he could really use a dropped note from a random miner, video-game-style, to explain what was going on here right now. Of course, the miners hadn’t been literate, let alone the type to bring paper, pen, and pause to write notes in the middle of mining, so the shot of actually running into that kind of thing was near zero, even though this was the first time he’d ever wanted such a thing.
+
+“Why’d we stop?” The Hunger asked from his hip.
+
+Rhys jolted back into reality and looked around. The air was clearer, and the impurities were lighter. They could continue on safely.
+
+He cleared his throat. “Oh, you know. Just a small internal rant about things totally unrelated to our current situation after I got mentally sidetracked seventeen times.”
+
+The Hunger shook itself side-to-side in a sword’s attempt to imitate a head shake. “Focus, idiot.”
+
+“Where did you even learn that word?”
+
+It thrummed with smugness. “I’m smarter than you.”
+
+“What does that have to do with anything?”
+
+“The fact that you don’t know only proves my point!”
+
+Rhys pursed his lips, slightly annoyed that he’d been not only five-year-old logic’d by a sword, but that it had also somehow won the exchange. “Oh, shut up.”
+
+“That’s what losers say.”
+
+“Was it Soma? Did he teach you naughty things while I was trying to fix his mark?” Then again, if it was Soma, the sword would probably have much worse and more painful vocabulary. If he had to pick from between the people The Hunger had met, it was probably Lira who’d taught it such choice words as ‘idiot.’ Not only was she more likely to use such words casually, but she’d also find it funny to teach his baby sword how to insult him.
+
+“I’ll never tell!”
+
+He snorted. “It was definitely Lira.”
+
+“You—you don’t know that!”
+
+“Uh huh.” At least it had a five-year-old’s cover-up abilities, too. Honestly, The Hunger was kind of adorable for being an edgy filth sword who wanted nothing more than to slurp up all the impurities in the world and slash them back into people.
+
+They headed down deeper into the mine, moving more slowly now that the impurities were thicker. The two of them sucked them in and descended, heading toward whatever the source of all these impurities was. Rhys could already guess what laid at the end of the road. The only question was why mortals had constructed this, especially if it went where he suspected it went.
+
+So let’s go find out.

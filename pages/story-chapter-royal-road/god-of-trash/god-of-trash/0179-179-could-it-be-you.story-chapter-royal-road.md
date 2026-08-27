@@ -1,0 +1,89 @@
+---
+id: 46422ec4-49cb-586c-afe9-0d5306fd82ab
+page-type-slug: story-chapter-royal-road
+title: "179. Could It Be You?"
+slug: 0179-179-could-it-be-you
+partOf: god-of-trash
+position: 179
+ownLength: 2084
+unit: words
+publishedAt: 2025-09-07
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2582328/179-could-it-be-you"
+royalRoadId: "2582328"
+---
+
+The sharp tap-tap of jackboots sounded close on Rhys’s heels as he powerwalked away at top speed. “It’s you, isn’t it? R…Rhys?”
+
+“I don’t know who you’re talking about,” Rhys rumbled in his best gruff voice. Fuck. I knew Laurent came by Purple Dawn once-or-so a year, but I didn’t know he lurked around town—no, dammit, that’s on me. It’s obvious he’d use this city as his base if he was heading to Purple Dawn.
+
+Mana rushed toward his back. Rhys dodged, shocked, but it was only a grab for his shoulder, which he easily avoided. “Please, stop. Just… even if we don’t know one another, let me get a good look at your face, and then I’ll let you go.”
+
+Rhys considered, even as he continued to walk away. He had altered his bone structure to be more like Adelise’s, both in his body and his face, so it was possible that Laurent might not recognize him if he did stop and let the man look him over. On the other hand, his face wasn’t that different. He wasn’t skilled enough at Lira’s technique to completely and utterly transform his face into someone else’s. The edits he’d made really were ‘a small alteration to his bone structure to make his face more like Adelise’s.’ If he had to say, it probably was a twenty-percent difference from his old face to this one, and the rest of the eighty percent to get to Adelise came from makeup. The changes his face had undergone throughout the last three years of puberty in the mines were equally, if not more, drastic. He was definitely recognizable as Rhys.
+
+Yep. Can’t turn around, no matter how much bright eyes wants me to. He sped up.
+
+Fortunately, he’d been working back-of-house, so he wasn’t wearing his harlequin gear or his facepaint, which meant his disguise and connection with the snack shop wasn’t necessarily busted; unfortunately, he’d been working back of house, so he wasn’t wearing his harlequin gear and facepaint, which meant he was very, definitely recognizable as Rhys.
+
+“Please—”
+
+Rhys power-walked around a corner, whipping the turn as tight and sharp as he could. The second he was out of Laurent’s sight, he took off at top speed. He couldn’t use Trash Step here, but even so, he could use his base strength as a Tier 3 to run faster than most Tier 2 mages. Laurent should just be a Tier 2 mage, so there was no way he’d be able to keep up.
+
+A trash can caught his eye. It was meant to act as the teleport point for this shop, but it could work both ways. He dove into it.
+
+“I just wanted to say, no matter what, I—”
+
+Laurent looked around. The street was empty. The figure he’d been chasing was gone, as if it had been an illusion all along. He sighed. Maybe it had all been in his head, and he’d just been chasing some random person. Their figure had been slightly wrong, and their face hadn’t quite been right. But… if he was right…
+
+He shook his head. It was a foolish thought. If he was wrong, they were right to run away. If he was right, even moreso. No matter what he wanted, he could never go back to those days.
+
+But… if only…
+
+In a distant city, Rhys popped out of a trash can and ran his hair back, his heart still pumping even if he was well out of danger. He sighed aloud and fell back against the wall, a little shocked at how much that had startled him. He’d been totally taken by surprise, true, but it wasn’t as if Laurent had sneak-attacked him. The guy was bigger, now, taller, his shoulders broader, but his face, his uniform, and that silly ponytail were exactly the same. Well, that wasn’t quite true. Maybe there was a little more braid on his uniform, a few more medals… but it was mostly the same.
+
+So much the same. As if no time had passed at all. In fact, for a second, Rhys had felt as though they were still in Purple Dawn, still young, with nothing but a difference in political opinion between them. And yet, so much had happened. While he’d spent three years rotting in a mine, Laurent had been up here, in the sun, growing and changing, experiencing the world and living his life. He’d probably had a girlfriend, by now, a real girlfriend, seen lots and lots of the Empire, made new friends and learned new techniques. Eaten good food. Skinny-dipped at midnight. Met strange creatures and read wonderful books. Lived his life.
+
+And what had Rhys been doing? Struggling in the mines. Risking life and limb to rescue those the Empire, the Empire Laurent served, willfully oppressed because they weren’t convenient for the Empire to acknowledge. Fighting a criminal enterprise the Empire overlooked to maybe take one step toward restoring what the Empire had stolen from those mages he’d rescued. He was stressing over his decisions and spending every living moment awake, working on his plans to destroy the Empire.
+
+There had always been a gap between him and Laurent. Now… by now, that gap had to be unassailable. In some other world, in a world where they both spent the last three years in the light, growing and laughing, smiling with their loved ones, they might have been friends. But in this world? They were fated to be bitter enemies, and there was nothing Rhys nor Laurent could do to change that.
+
+He hadn’t thought it would bother him. He hadn’t thought it would do anything at all. But… strangely, oddly, seeing Laurent… it had brought it all home to Rhys. What he’d lost. What he’d missed out on. What he couldn’t have—at least while the Empire was active, and maybe forever, for the rest of his life. All those things Laurent effortlessly had—safety, security, the peace in knowing his loved ones would be safe—Rhys could not have. It hurt. It stung. Deep in his chest, it ached, pinching and twisting like a knife. He didn’t know if it was jealousy or regret, or sorrow for what he had lost, but it hurt.
+
+To tell the truth, it was always there. Normally, he didn’t feel it, because he actively didn’t think about it, but seeing Laurent had driven it all home. How much he was missing out on, and didn’t have. How much the Empire had taken from him and everyone else he cared about.
+
+He took a deep breath, steeling his resolve. That was exactly why he had to defeat the Empire. Once he defeated them, he could go on living his life the way he wanted to, rather than the way some asshole with too much power and money wanted him to. These three, no, four years would be nothing but a bad dream, a blink of the eye in his long mage life, and he could forget them as if they’d never happened. He just had to lock in and finish destroying the Empire.
+
+But first… He leaned against the wall and crossed his arms. He didn’t know how long it would take Laurent to get his chips and leave, or if the guy was still obsessive enough to wait around for hours, but it was probably best if he played it safe and waited for the coast to clear. After that rude reminder, he kind of needed a break, anyways.
+
+When he returned, it was dark outside. He’d spent the afternoon wandering the other city, clearing his mind rather than doing anything productive. It had given him the time he needed to reset, and now he was ready to keep moving. Figure out his next big conquest, so he could enable the biggest conquest of all, aka the Empire.
+
+He took a deep breath, but before he could get started, Mouse appeared in his line of sight. Rhys barely suppressed the urge to shout and managed to plaster a smile on his face instead. Dammit, Mouse, you scared the shit outta me. Warn a guy!
+
+“Are you ready?” she asked.
+
+“Ready for what?”
+
+She gave him a look as if it were obvious, a rare move for Mouse. “The ball tonight. You know, the big one in town? The one where we’re going to try our first pivotal moment?”
+
+Rhys blinked. He opened his mouth, then closed it. He’d totally forgotten. Seeing Laurent had completely blown it out of his mind.
+
+“D-did you forget? It’s okay. We can—”
+
+Rhys shook his head. “No. We’ve been working too hard for this one. We keep going, we don’t give up just because I forgot.”
+
+Though maybe we should back out, with Laurent in town… Rhys shook his head, immediately suppressing the thought. He wasn’t afraid of Laurent, and he wasn’t going to run because of the guy, either. Laurent probably wasn’t even invited to this ball. It was for nobility, not random students. In fact, he was probably safer at the ball than wandering around this town. Laurent was probably on his way to Purple Dawn, and had no time to waste on random endeavors like shitty balls for the annoying nobility… not that Rhys knew Laurent’s opinion on nobles, but a lot of the military students seemed to hold that opinion, from what he’d heard listening in on the snack shacks. About the only ones who didn’t were ones who were either nobility themselves, or some distant side family of nobility, who benefitted from nobles despite not being a true noble themselves.
+
+Then again, Laurent was there with the Empress, when she was conquering Purple Dawn, a little voice whispered in the back of his mind. They usually didn’t let random military students hang around the Empress… at least, in his world, that wouldn’t happen. Maybe it was different here. The Empress was big on her meritocracy, even if it was rotten to the core and a meritocracy on the surface only. Maybe she’d brought him onto her flagship to drive home to all the nobles how anyone had the right to have an audience with the Empress, as long as they achieved enough.
+
+Regardless, there was no way Laurent would show up at the ball. And even if he did, well, Rhys had fully perfected his Adelise disguise by now. He looked more like the red-headed Infernon than he did himself by a mile. If he’d been in full Adelise form, Laurent wouldn’t have stood a chance of recognizing him as Rhys. There was absolutely no reason not to go.
+
+I’m not missing out. I’m enjoying life in my own way, and helping lots of other people, and doing something meaningful with my life. If anything, it’s Laurent who’s missing out.
+
+So decided, Rhys hurried off to get fixed up for the ball, while Mouse scurried off into her own space to get changed into her servant gear. This really was a big ball, and not just because they’d decided to make it the ball. It was being held by an ally of the Infernons, which made it more likely that an Infernon would appear—which at this point, would be a plus. The ally of the Infernons was highly powerful and influential in this city, and was also highly likely to have an emotional reaction to seeing Adelise’s ghost. In fact, it was rumored that the lord of the house holding the ball refused to believe the rumors, and had pledged to destroy the ghost if it dared appear—not that it would, he’d insisted, because ghosts weren’t real, which meant it could only be a miscreant causing trouble for everyone.
+
+He wasn’t wrong, but it was exactly because he’d made such a bold and absolute statement that Rhys knew he was the perfect target for his pivotal moment. He’d gotten everything all set up, and the moment was ripe. He wasn’t going to back out because of some pathetic Tier 2 mage.
+
+Wait, did I scan him? Was he actually Tier 2? Rhys thought back, but couldn’t recall the answer. He’d been so panicked that he hadn’t been thinking clearly, and he certainly couldn’t remember what’d happened in so much detail.
+
+He shook his head. It didn’t matter. Laurent had nothing to do with tonight. Tonight, it was time to execute the final blow of his psychological attack, and there was nothing anyone could do about it.
+
+Least of all Laurent.

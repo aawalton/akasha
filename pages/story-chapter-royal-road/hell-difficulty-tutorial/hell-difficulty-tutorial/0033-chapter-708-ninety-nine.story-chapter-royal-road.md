@@ -1,0 +1,147 @@
+---
+id: 8d3a33ec-6555-5e0a-b0f0-0bffd91fab45
+page-type-slug: story-chapter-royal-road
+title: "Chapter 708 - Ninety Nine"
+slug: 0033-chapter-708-ninety-nine
+partOf: hell-difficulty-tutorial
+position: 33
+ownLength: 2288
+unit: words
+publishedAt: 2025-12-09
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2834078/chapter-708-ninety-nine"
+royalRoadId: "2834078"
+---
+
+Nyssa is strong, and the Primordial Knights are a bunch of lunatics held together by some old rules and the faint logic of whatever faintly reasonable demon founded the guild long ago. Not to mention the efforts of one extremely overworked old demon I’ve only ever heard about, a Beyond local who does more than anyone else to handle the problems caused by the guild’s members. He apparently manages to do this through his strong connections and the odd application of bribes and threats.
+
+From what I’ve heard, he’s currently one of the richest people on the 4th floor, even more so than most of the Handlers. Always grumbling and talking about finally retiring, but the Primordial Lunatics just keep offering him more and more, knowing the guild would collapse without him.
+
+I think the guy deserves all the shards he’s making.
+
+It’s been two days since we returned to the Ancient Armory, the one buried somewhere below the 4th floor by the evil Ruler of Diligence in a devious attempt to stop us from saving the items trapped inside. Or buried above us. Who even knows? The armory could just as easily be on some floating mountain strapped to the back of a flying turtle orbiting the planes of the fourth floor.
+
+Morwag and I will never forgive the Ruler of Diligence, that much is certain. I bring it up whenever the subject comes up, and Morwag is around.
+
+Unfortunately, the guilds and their informants have confirmed that although entries into the armory are open, the innermost tunnels remain buried. Sure, with enough skill and the right tools, you might be able to get through, but it makes things so much harder to map, not to mention locating traps, and doing all the other stuff I can’t be bothered to think about.
+
+For some reason, I leveled up once when the armory fell to the Ruler of Diligence. My level is now 348, and my mana is 1750 + 1750. How curious. This has to be another plot of the evil Ruler of Diligence, twisting the system to gift me levels so that I die in the upcoming body upgrade, before I can complete my preparations.
+
+Thanks to my communication skills, I also managed to get some information from Nyssa about what happened when I left to try and save items from the Ancient Armory. Simply put, Nyssa berated Kaari while Lyraen seemed to be having fun shooting lightning at Christoph.
+
+It makes me wonder why Nyssa shows such a lack of reaction toward the first person to start in Beyond in millennia. She just doesn’t seem to care about that sort of thing at all. And she doesn’t seem to care about her ranking either. Nyssa just has a set of goals she intends to reach, no matter who she faces, even if they happen to be far stronger than her.
+
+I asked her opinion of Christoph, and she only said she didn’t like him. It felt like she just decided right then, like a stray cat that takes one look at you and doesn’t like you no matter what, you try feeding it, you try everything, putting down food, even giving up your own dinner just hoping it’ll warm up to you, and instead it scratches, hisses, bites like you’re the worst thing it’s ever seen, and you keep trying anyway because you think maybe tomorrow it’ll be different, maybe it’ll understand you’re not all that bad, but then out of nowhere some random boy wanders up, doesn’t even try, just kneels down once and the cat’s rubbing its head against him, curling on his lap, purring like they’ve known each other forever, and you’re standing there watching, and that’s the moment you give up and decide you’re a dog person.
+
+That kind of decision.
+
+I think of these memories to distract myself from the sight of my Handler standing at the main gate of the Primordial Knights headquarters. She’s wearing a suit similar in style to the one I saw Lissandra wearing back on the second floor, formal, slightly medieval in look. While Lissandra’s suit was tailored in a style that would’ve been fit for any man, my Handler’s version emphasizes her curves.
+
+“There’s still a full day until you’re due to return my items,” I tell her. “And aren’t you supposed to be busy or something? An important person overloaded with work? Why do you have so much free-”
+
+“Yes, yes,” she waves her hand. “We need to get you proper clothes, and we still need you to use your high end residence permit, and you’ll be taking me out to a dinner you’ll be paying for. In exchange, I’ll give you some good information and a cool Beyond quest to go on later.”
+
+“No, I won’t be so easily manipulated. I’m a changed man.”
+
+“So you don’t want a Beyond quest that’ll take you to your disciple’s planet?”
+
+I don’t skip a beat. Taking a few swift steps closer and offering her my arm, she loops hers through, as I say, “Let us enjoy a nice day together.”
+
+“You cheap, cheap little thing.”
+
+“Calm down, moneybags. Not everyone gets this kind of chance to scam talented Beyond attendees. And given that you’re a few thousand years old, your investments must be thriving. Tell me, did you buy a house a millennium ago, just to rent it out? How much would you have made by now? Are you compounding the interest? It must have been snowballing so long it’s built its own mountain by now.”
+
+“That’s true, I’m very rich. It comes with the subclass,” she smiles brightly, leaning against me as we walk through the street. She theatrically flicks a strand of hair from her face. “There’s never been a Greed as powerful as mine, if I have to let you know.”
+
+“Amazing. So cool. So does that make you the second strongest Ruler?” I ask.
+
+“Already gathering information? How greedy. But I can’t really be angry at that, can I?” She snickers and thinks for a moment. “I’d place myself third or fourth in combat capability.”
+
+“So Pride is the strongest,” I look at her, seeing her nod. “Then who? Kindness? Wrath?”
+
+“Neither, but I won’t tell you who’s second. He’s currently sleeping, but with everything that’s happening, he might soon awaken from his winter slumber.” She shows her teeth with a wide smile.
+
+Oh my. Don’t tell me…
+
+Before I can finish my thought, she continues, “Kindness isn’t all that strong when it comes to attack power, but she is very, very hard to kill. According to most, impossible even.”
+
+That playful flicker appears on her face. “Transfer me a thousand shards, and I’ll tell you something fun.”
+
+I do so right away. She accepts the shards before speaking. “I’m telling you this because she also puts a tiny bit of her hopes on you, small as it may be, and she probably won’t mind. The Ruler of Kindness has held her title longer than any Ruler living, that poor thing. I think you’ve started noticing it as well, but powerful active skills have already made changes to your body, and that is what happened to her, though to a much greater extent. She is the most incredible healer ever born in the system, brought back to life by her own skill, even after she slept for so long and destroyed her own planet. That skill kept growing and evolving, and now it’s one of the strongest known active skills in the system.”
+
+She cuts herself off, and I look at her, knowing she has me exactly where she wanted.
+
+“How much?” I ask, ready for a ridiculous sum.
+
+“One hundred…” she pauses, looking at me, and adds with a smile, “shards.”
+
+I transfer them right away. She checks the sum as if we’ve been dealing in millions before she nods and leans in, whispering into my ear.
+
+“It’s a level 99 active skill called [Immortality].”
+
+“You’re bullshitting.”
+
+“Not this time,” she answers quickly, pulling me toward a bench nearby and making us sit under a tree offering nice shade.
+
+“How would that even work?” I ask. “At level 99, she’s even more immortal than she was at level 98? That just wrecks the meaning of the word.”
+
+Waiting patiently, she lets me finish before answering, “Some of the more powerful skills are weird like that, breaking the logic the system runs on. If you’d paid more attention in the Academy, you would know at least a tiny bit more about it.”
+
+I wave it off. “So how does it work?”
+
+“[Immortality], being in the highest possible tier of skills, is quite special. In this case, it means that no skill at level 98 or below can kill her. You’d need a skill at level 99 to match her [Immortality], and even then you’d only maybe have a chance.”
+
+“Do you have a level 99 skill?”
+
+“Not telling.” She shakes her head. “But I can say they’re much rarer than you think. Most of the Rulers don’t have any level 99 skills. But considering how ancient Kindness is and the talents she has, it is only natural that she’d have at least one.”
+
+“How would an Empyrean skill work against it?” I ask.
+
+“That,” she says, “is a good catch from you. Yes, Empyrean skills and things like your black mana, things that are either very ancient or bend the rules of the system, could have a chance. An Empyrean skill might be able to hurt or even kill her, even if it did happen to be lower than level 99. But… it’s not that simple. Otherwise, Pride would’ve done it already.”
+
+“So he has an Empyrean skill?”
+
+“Yes, a powerful one.” Out of nowhere, she pauses, seeming to listen to someone. Her brow furrows before she stands up and gestures for me to follow.
+
+She doesn’t mention what’s happening, and I don’t ask as she continues talking. “You have a good face. It’s a shame you don’t smile more often. You also have a nice body, and yet you tend to wear clothes that don’t show your figure even a little.”
+
+“Sweatpants, pajamas, and comfy shirts or hoodies are some of the finest inventions humanity has ever...”
+
+“Oh, just shut up,” she sighs. “The dinner we’re going to is the sort of event where you can meet plenty of Handlers, and I’m sure a few Rulers will be there too, the ones acting as Handlers with their identities hidden. Kindness might appear, Wrath probably, but damn if I’m not hoping that Humility won’t come. I don’t want to be berated. Are you wondering why I’m telling you so much?”
+
+“Honestly? Yes. But I didn’t want to ask in case you stopped.”
+
+“How sneaky of you. What if it caused problems for me, and you couldn’t help?”
+
+“You’re a big girl. I’m sure you’d survive. What’s this party about?”
+
+“Don’t think of it as anything serious. It’s just the sort of party Thane likes to throw every once in a while. Most Handlers show up to show off their favorite attendees, so expect nearly all the S ranks.”
+
+“Don’t you have another attendee to parade around instead of me?”
+
+“But I want to take you.”
+
+“Evil.”
+
+“There is something I’ve been wanting to ask. I’ve been watching you, Nathaniel, and I’ve heard about your experiments with your mind. By the way, you know you aren’t ‘splitting’ your mind or creating new ones. It’s all you. Your thinking is…”
+
+“Yes, yes, but it makes it easier to think of it that way instead of some mana sciency bullshit talk.”
+
+“Sure. So, you had one you call Assholethaniel. Are you sure "it" isn’t talking to me right now?”
+
+I pause for a short moment, then shake my head. “No.”
+
+She narrows her eyes.
+
+“Not currently, but it was before?” she asks, further narrowing her eyes.
+
+"What are you talking about? You think I’d do something that shady? Me? Really? Come on, just trust me a little. I’m trustworthy, I’m very trustworthy. Ask anyone. Anyway, hey, quick change of subject, didn’t you say you’d buy me clothes? Clothes are nice. Way less stressful than all these questions."
+
+She tilts her head, eyes narrowing just a fraction, then lets out a short laugh through her nose. “Mmhm,” she says, clearly unconvinced but not pushing the matter. Turning left onto a wider street lined with shops, she nods. “Yes, we need to get you clothes. And if I remember correctly, I said you’re paying.”
+
+We stop in front of one with a painted suit and dress hanging in the middle of a floor-to-ceiling window, partially covered in some sort of clear coat. “After you,” she gestures.
+
+As we’re leaving the tailor, I start to wonder how my HP and MP would look if such a thing truly existed. Of course, I’d keep my Mana Points as high as possible, but health? Would it drop after leaving places like the one run by that tailor? Because I feel more tired and damaged than I ever have, fighting monsters. My purse feels it too. Getting the suit made by tomorrow costs a nice extra sum as well.
+
+It’s not like it’ll hurt me that much with my millions of shards, but seriously, what’s wrong with a hoodie and sweatpants? I could even pick from the more presentable ones. The kind of sweatpants that look almost like suit pants while still being super stretchy and comfortable. Maybe I could just draw a tie on the hoodie or something.
+
+Not caring about my current state, my Handler happily gestures towards the inner city, “Now, let’s use your residence permit.”

@@ -1,0 +1,261 @@
+---
+id: 5d7997ca-8bf8-57af-8a23-c08ac5d727a1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9 - Nowhere to Run"
+slug: 0009-chapter-9-nowhere-to-run
+partOf: hell-horizon-healer
+position: 9
+ownLength: 1609
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3521378/chapter-9-nowhere-to-run"
+royalRoadId: "3521378"
+---
+
+“Now!” Edwin shouted out the order, making Arthur dip down, taking a knee in the water. Susan did the same.
+
+All three archers fired their bows at the same time. Glenn had calmed down from the first sighting of a Skulker. It seemed like he wasn’t lying about his archery skill; the arrow dug deep into the front beast’s chest, taking it down with a splash.
+
+Edwin’s bolt landed next, straight in the eye. It killed the monster instantly.
+
+The last one, Jake missed.
+
+Not completely, though, the arrow pinning into its shoulder.
+
+It did little to stop the beast, but this time, everyone did what was expected of them, the initial panic mostly gone.
+
+Arthur took the brunt of the impact of the charge, a thin layer of mana shattering in front of his shield before the rest of the strike landed against metal.
+
+He slid back slightly.
+
+Susan screamed, lashing out from behind Arthur.
+
+Her attack held no ounce of form, the cleaver in her hand wildly finding the stomach of the Skulker as she gored it.
+
+She was on top in seconds, one swing, two swings, carving a masterwork of violence into the monster’s chest.
+
+She screamed, blood splashing over her.
+
+The Skulker’s claws found her thigh, arms, and even a claw across her face.
+
+She refused to stop.
+
+Jake frowned. Note to self: do not get on her bad side.
+
+It was long dead, but she kept on going.
+
+“I didn’t get a notification!"
+
+Glenn’s shout arrived too late.
+
+From underneath the murky waters, the Skulker that Glenn had injured ruptured from the surface, dark, grotty teeth on full display and claws ready to gore at Edwin.
+
+Thankfully, Edwin remained calm.
+
+He simply let go of his hand-crossbow, letting it drop into a makeshift sling he’d rigged out of a shoelace, swiftly unsheathing a long combat knife.
+
+He slashed its collarbone, blade’s edge nipping into bone.
+
+The Skulker found its target, raking across the neck area of his shoulder and down across his collar-bone—a tooth-for-a-tooth.
+
+Susan was still locked in her madness.
+
+Chloe had turned on her heels, jabbing her spear into the Skulker’s body, but it hit bone.
+
+Sloane was about to try and help but thought better of it.
+
+She kept her attention on her surroundings.
+
+Or was she frozen in fear? If she did, she was good at hiding it.
+
+Jake had readied another arrow; he could help. But a strange, bubbling sound caught his attention from behind.
+
+He spun on his heels and scanned the area, only to catch nothing.
+
+Lyle quickly rested his axe against the wall, grabbed hold of the Skulker’s arm, lifting it off Edwin, and threw the monster off of him.
+
+The Skulker tried getting up but Lyle booted the monster in the face, sending it back into the oily water.
+
+Finally, Susan had come to.
+
+She turned, cleaving her blade into the beast’s neck.
+
+Blood spurted.
+
+Veins had risen from her hands and arm and her muscles bulged further than they had before.
+
+The Skulker refused to die.
+
+It clawed around itself.
+
+Susan was forced to step back, as did the others.
+
+Arthur glanced behind, his eyes meeting Jake’s. “Are you going to help or not?!”
+
+Jake ignored him.
+
+If they couldn’t handle an injured monster, then they didn’t deserve the help.
+
+He heard those bubbles again.
+
+“Jake,” Sloane said from behind. “I think I see someth—”
+
+She wasn’t able to finish her sentence.
+
+From one of the darker hallways, a Skulker almost twice as large as the others, emerged.
+
+Two small stubby horns jutted out its head.
+
+It held a large serrated knife.
+
+“Jake!” Sloane screamed out loud.
+
+“I see it!”
+
+Jake was already prepared.
+
+He loosed the arrow immediately upon seeing the creature, the arrow flying through the air.
+
+It was about to sink into its face, a range that Jake was surprised to even hit, but the monster moved its head at the last second, the arrow vanishing into the dark of the corridor.
+
+Its lips curled up into a cruel smile and then stepped.
+
+Water shot up from where it left, and in an instant, had already moved ten feet in one single step.
+
+Jake’s eyes widened.
+
+He hurried another arrow and fired, hitting its stomach.
+
+It didn’t seem to do much.
+
+He reloaded as quickly as he could and fired another, this one planting in its thigh.
+
+Now it was in front of Sloane.
+
+Snarling, she stepped and swung her sword in a clean arc at the Skulker’s neck.
+
+The beast raised its own knife and parried, sending a backhand to her face. She slammed against the wall, dazed.
+
+Arthur and the others had realised what was going on.
+
+It was Edwin who had finally got the best of the beast, skewering his knife into the gap between its ribs, leaking red all over him.
+
+Arthur didn’t know what to do; move and give up his position in the formation, or run to help?
+
+He stayed.
+
+Gritting his teeth, Jake summoned Gutter-Tooth and wrapped the chain around his arm—the jagged chain bit deep into his flesh.
+
+Blood leaked.
+
+The monster was on him.
+
+Jake raised his arm and took the hit head-on, the knife slamming down on his arm.
+
+Sparks flew, and the resulting shock brought Jake to his knees, sending the chain further into his flesh.
+
+He ignored the pain tormenting him.
+
+He heard the next attack before he could even see it and instinctively dropped further into the water.
+
+The knife screamed by his head and dug into an overturned fridge.
+
+Edwin, by this time, had reloaded his crossbow and fired a bolt into the monster's eye.
+
+It didn’t go as deep as he wanted it to, however.
+
+Glenn, even in his panic, also managed to fire an arrow. It dug into its neck.
+
+In a bellowing rampage, the Skulker stomped at Jake, narrowly avoiding crushing open his skull.
+
+Instead of running away, Jake stepped forwards, slashing his scythe across the muscle in the monster’s leg. The beast shrieked and fell to one knee.
+
+Two more skulkers emerged from Arthur’s side.
+
+They turned to engage it.
+
+Not realising that he’d been abandoned, without letting up, Jake coiled the jagged chain around its throat and pulled.
+
+The metal links turned tight and he felt the tension spread up his arm.
+
+The Skulker choked and spit. An enormous amount of strength burst out from the beast—perhaps its last—and hoisted Jake overhead.
+
+He tried to fight against it, but the monster was far too strong.
+
+He slammed into the water, something sharp entering his side.
+
+Through the murky water, his vision blurred.
+
+Another arrow pelted into the beast’s chest.
+
+It raised its knife and sent it down point first.
+
+Eyes wide, he braced one foot on the floor then arced his hips and launched a kick upwards, striking the Skulker’s chin before the blade found him.
+
+He scrambled onto his feet and slashed the scythe across the monster's throat.
+
+Bolstered by the stats of the weapon, the bladed edge dug through flesh, sundering open a wound knuckle deep in its throat.
+
+Dark, sickly blood sprayed, showering Jake entirely.
+
+His weapon faintly glowed, and he made use of its ability right away, casting Minor Heal on his back.
+
+He searched for the culprit of discomfort and found it: a piece of scrap metal with a nasty point.
+
+He pulled, ripping flesh that instantly turned hot and itchy and knit back together with increased potency.
+
+(Lvl 5) Skulker defeatedRewards: One Level
+
+Jake coughed and spluttered and stood, stumbling on the way up as he used the wall for balance.
+
+And the water? Yeah, it tasted like shit.
+
+By this point, Susan had climbed on top of one of the Skulkers and was busy giving it no chance to fight back, cleaving it apart with her weapon.
+
+Chloe skewered the last one with her spear, foot on the monster’s chest as she pulled it out.
+
+He was about to take a step towards them when he saw light squeezing out from the door next to him.
+
+He was next to a door?
+
+He hadn’t even realised it.
+
+This one was… strange.
+
+Mana had coalesced in front of it like a barrier.
+
+He stuck his hand through it and felt the deep fuzz that he had expected.
+
+The door had no number, just words: Verdant Expanse.
+
+Now that he thought of it, the doors should have been the exact same as below, spaced apart by around two metres, and fifteen doors to a hallway. There was only one door in the entire corridor.
+
+“Jake,” Sloane came over, holding her side, other hand tight on her sword’s handle. She had a cracked lip and it was evident she wasn’t all there just yet. “What are you doing?”
+
+“I… want to open it.”
+
+So that’s what he did.
+
+He grabbed hold of the door handle, lowered it, then pushed.
+
+The door opened.
+
+A wall of light hit him, along with the overpowering minty perfume of pine.
+
+It took his eyes a minute to adjust, blinking away the temporary blindness.
+
+A moment later, a world of trees and verdant grass billowed in the heavy breeze.
+
+It was a portal to a new world.
+
+“Run!”
+
+Arthur’s scream arrived. His voice was steeped in horror as he, along with the others, dashed back into the corridor Jake was in.
+
+They looked like they'd all seen a ghost.
+
+A thunderous step vibrated through the floorboards, causing the ankle-deep water to wave out in circles.
+
+It told Jake everything he needed to know—a monster had appeared.
+
+They were trapped with nowhere to run.

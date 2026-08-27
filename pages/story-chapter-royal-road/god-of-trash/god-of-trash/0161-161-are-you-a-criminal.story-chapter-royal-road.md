@@ -1,0 +1,139 @@
+---
+id: 650d9660-a2f9-5ade-a949-fb6622c307fa
+page-type-slug: story-chapter-royal-road
+title: "161. Are You a Criminal?"
+slug: 0161-161-are-you-a-criminal
+partOf: god-of-trash
+position: 161
+ownLength: 2206
+unit: words
+publishedAt: 2025-08-20
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2534279/161-are-you-a-criminal"
+royalRoadId: "2534279"
+---
+
+Rhys charged into the kitchen, chasing cleaverman as the man turned and fled. The wood floor grew slick under his feet, and if not for the timely activation of Trash Step, Rhys might have slipped. Instead, he ran faster, but glanced down as he ran, curious.
+
+Blood ran thick underfoot. Rhys looked up slowly.
+
+A human body dangled from its ankles, bleeding out into an open pit. They swung gently as they hung there, and sometimes their blood splashed onto the floor instead.
+
+“Whoa, whoa. I thought this was a drug-dealing kind of criminal syndicate, not a people-meat-pies kind of criminal syndicate. Is the price of pork too high around here?” Rhys quipped, shaking his head at the mess.
+
+The cleaverman made it to his knife block and yanked the knives out one by one, hurling them at Rhys and company. Rhys went to knock them out of the air with his Trash Intent, only for Sable to step forward. One man throwing knives versus a demon girl with extra limbs? The competition was over in the blink of an eye. Knives were impaled in the wall all around them, and all Sable’s limbs were out, but there wasn’t a single scratch on her, Lira, Rhys, or even Mouse, though Rhys wasn’t sure where she was. She closed in on the cleaverman, killing intent all but visibly wreathing her body.
+
+“Wait, wait, wait, leave him alive!” Rhys shouted.
+
+Bone limbs pierced the man’s wrists to the wall. Sable froze, an instant from stabbing him through the solar plexus. She turned to Rhys so slowly and creakily that he could’ve sworn he was in a horror film.
+
+Eh, between Sable and cleaverman, we could probably put together a banger B-film horror movie right here. Rhys cleared his throat. “I want to experiment with a new technique, but I need a victiiiii… participant.”
+
+Immediately, the murder in Sable’s eyes cleared, replaced by the sparkling clarity of complete and total understanding. She nodded and gestured for him to go ahead.
+
+Rhys snorted under his breath as a few things became clear to him. Sable had been a member of Ernesto’s lab. Due to her status as the child of a Remnant Weapon, he’d assumed she was experimented on, and she probably was, but she was clearly also part of the experimentation crew. It was pretty clear this wasn’t her first attempt at pinning a man down for highly ethical scientific purposes.
+
+Am I the bad guy here? Rhys wondered, then decided he didn’t care. These people were criminals, at the end of the day, and they weren’t the forgivable kind. They’d killed one of his men and thought they could get away with threatening the rest of them. It was time they found out just what they’d decided to mess with.
+
+Rhys lifted a hand to his forehead, to help focus and fine-tune his mana manipulation. Once more, he called the bad memories to mind, but this time, he pushed them down, compressing them and adding more, more, more, until he had a little marble of mana-wrapped memories. It hovered right in between his brows, between his fingers and his forehead, as a tiny black ball that occasionally flickered with light and the muffled impressions of scenes, like an old-fashioned television playing a horror film at 4x speed, seen through a window with a hazy curtain drawn. The cleaverman struggled against Sable’s pin, his eyes wide, but there wasn’t much he could do if he wasn’t willing to tear his hands open, and he clearly wasn’t willing to. Rhys pointed at him, and the marble flew forth and sunk into the man’s forehead.
+
+The man’s eyes widened, then rolled back in his head. He thrashed against Sable’s hold, no longer coherently fighting her grip but merely thrashing. His hands and head bled where they struck the wall and shuddered on Sable’s blades.
+
+“You’ve gotta at least be willing to rip your hands apart to win, man,” Rhys advised him, shaking his head.
+
+“I-I don’t think that’s reasonable,” Mouse murmured.
+
+“I’ve done it. It was my foot, but still,” Rhys said.
+
+Mouse stared at him, wide-eyed. “In the mines?”
+
+“No, no, in Infinite Constellation School.”
+
+She stared at him even harder.
+
+“There was this teacher… it was a whole thing… it’s not important. Lira, is there anyone coming up behind us?”
+
+Lira shook her head. “Hallway’s clear.”
+
+Mouse glanced around, then perked up. “This building is empty aside from this guy. There’s a trap door in the hallway. Leads to a tunnel. Like our tavern.”
+
+Rhys nodded. It made a lot of sense. Both taverns were built, or at least used, by the same larger syndicate, so of course they’d have similar trapdoors and layouts. He looked at the cleaverman. “Do you think he’s going to stop thrashing?”
+
+Sable frowned at him. “It’s your attack.”
+
+“Yeah, but it’s my first time using it. Should we kill him…?”
+
+She sighed and raised a blade.
+
+Before she could drive it home, the man’s eyes cleared. He stared around in horror, then slammed his head into the wall repeatedly. Blood flew. Bone cracked, and something gray mixed in. He slammed his head back one final time, and he went limp.
+
+Rhys raised his brows. “Well.”
+
+Sable raised hers as well. “What did you do to him?”
+
+“I just gave him some bad memories! All compressed. All at once. Uh. It was probably a lot, huh,” Rhys said, devolving into muttering to himself at the end there. Experiencing the memories over a span of three long years was bad, but hammering a firehose of the absolute worst of his experiences into a man’s head all at once… He licked his lips. Yeah, that would probably be a little overwhelming. I don’t know that I’d bash my head to death, but…
+
+Rhys dusted off his hands. “Anyways! Let’s go find that trapdoor. Sable, mind setting it on fire on the way out?”
+
+“Now? Before we attack what’s on the other end of the trapdoor?” she asked.
+
+“By the time we get there, the fire will just be starting here. It should be fine.”
+
+She nodded.
+
+“Aren’t we cutting off our own escape?” Mouse pointed out.
+
+“Who needs an escape?” Rhys asked boldly.
+
+“We do,” Lira said, giving him a look from under her umbrella.
+
+Rhys sighed. “Alright, fine. We don’t burn it down. We’ll burn it down on the way out.”
+
+Mouse sighed with relief. Lira nodded.
+
+“Weak,” Sable muttered under her breath. Extending her bone limbs, she skittered ahead of the others. One quick stab, and she yanked the trapdoor open, then vanished within.
+
+“There’s nothing weak about preserving an escape route,” Mouse muttered to herself.
+
+“I just don’t like fire,” Lira said casually.
+
+Rhys shook his head at both of them and followed Sable down.
+
+The tunnel was much like the one under their tavern, simple and unadorned. Raw earth walls stretched off into the darkness, lit only occasionally by glowing, enchanted stones. They raced ahead with no words shared, rushing toward their destination. Mouse pulled ahead of the rest of them once again, vanishing into the darkness. Rhys ran at the speed of the Tier 2 girls, letting Mouse scout ahead. No reason not to. They were moving as fast as Tira and Sable could sustain speed, so might as well let Mouse do her work.
+
+Mouse returned a few moments later. She shook her head. “Only three people in the base at the other end, but one of them is Tier 3. You have to go ahead and strike first, or else we’re at danger from the Tier 3.”
+
+“Understood.” Rhys sped up. He drew his new weapon, the garbage claw he’d built on the way toward the town. He didn’t know if it’d work at all, let alone on a fellow Tier 3, but there was nothing like testing something under fire. Really, he should’ve tested it before this, but he just hadn’t had the idea until he was closing in on the building. It wasn’t that he was trying to test his attacks for the first time live in combat, but given his options, it was better than not using it. Plus, there was value in a bluff, even if the weapon totally malfunctioned… which was honestly the most likely option of the bunch. Still, worth a shot. Even if it was a total loss, he could still use Trash Intent on it. In fact, it’d be easier to use Trash Intent on it if it was a total loss.
+
+He pulled it out from where he’d tucked it in his storage ring and spun it around in his hand, testing the feel of it in his grip. It was awkward and unwieldy, but he could swing it well enough. He was used to using trash in combat, so it wasn’t too far beyond his usual parameters to wield a weird stick with a loop on the end.
+
+Rhys pointed it at the wall. He pulled the string to open the gripper and pointed the grippy part at the wall, then closed it. There was a vague tug on his mana, and the mouth of the gripper snapped shut, biting a chunk out of the earthen wall. Rhys raised his brows. That was proof of concept, at least, though he had no idea how mage Tiers would interact with its void-touched gripping section. It probably would weaken the effect; at a guess, it would weaken it by the difference in power between him and his victim, so if they were at the same power level, or nearly the same, it would be far less effective.
+
+I’ve got the mental attack, too, and my core is pretty topped up. I’m in good shape. I can take on someone at my Tier. Even someone at the peak of my Tier. Hell, I took on the Warden back in the camp, and he was already Tier 4.
+
+Rhys nodded to himself, skipping a little as he walked to psyche himself up. His last battle with a fellow Tier 3 had been a little bit desperate, and he’d gotten badly injured. Tier wasn’t everything; although it was nearly everything, a powerful high-rank Tier 3 with ideal skills could pose more of a threat than a weak Tier 4 who had no defenses against his impurities, as Landon had proved. He didn’t want a repeat of his battle with Landon. Just because he’d beaten one weak Tier 4 with trickery, didn’t mean he could always beat Tier 4s, or even other Tier 3s. He was still right to be wary and on guard. Maybe not as worried as he was, but still a little worried. I guess I forgot that I’m trash, and I haven’t been fighting like crazy lately. I’ve been plotting and working, but not fighting or training. So of course I’ll find other high-rank Tier 3s hard opponents. Honestly, my battle with the Warden was probably just a fluke. Just one case of a Tier 4 being optimally weak to my powerset, rather than an indication of my personal strength. I am trash, after all. I’d be foolish to think myself capable of taking on people at my strength or higher without being worried about it.
+
+All it meant was that he had to train harder. Now that everything was up and running, and he didn’t need to be personally involved in much, he could lock in and focus on training, without having to worry about his business crumbling the second he looked away.
+
+It wasn’t as if he hadn’t trained at all, either. He’d gotten a mental attack, and he’d figured out how to bind the void to things. Those were both significant increases in power! It just didn’t feel like it, because he was used to power-ups feeling like getting beaten up a lot by someone far stronger than him.
+
+Rhys paused. Am I okay? He could power up without getting beaten up. In fact, he’d done some of his best power ups with no beatings at all! It was just with Cynog, and Ev, and Bast and Straw, he’d had to get beaten up to hone his body… but now he was honing his magic, so why would he need to get beaten up at all?
+
+Rhys shook his head. He wasn’t a masochist. He should avoid those situations! He should be happy he could get stronger without getting beaten!
+
+I feel like I probably shouldn’t mention that it feels a little empty… Get over that feeling, Rhys! Don’t get attached to the people who beat you! You’re not a masochist, just a little crazy and maybe a little Stockholmed, okay?
+
+He took a deep breath. Lira glanced at him. “Nervous?”
+
+“Yeah, but only because I started thinking about… never mind. Oh, look! The end of the tunnel!” Rhys rushed ahead, taking the excuse to not finish the conversation.
+
+Lira stared at his back, then looked at Mouse. “What’s wrong with him?”
+
+Mouse put her hands up. “Why look at me? I don’t know.”
+
+“Sure, Ms. Spy.”
+
+“I’m not a spy or an assassin!”
+
+Lira gave her a look from under wet eyelashes and snorted.
+
+“Lira…” Mouse pouted.

@@ -1,0 +1,137 @@
+---
+id: 89525164-da91-5c40-ae93-2dc0f82b52a5
+page-type-slug: story-chapter-royal-road
+title: "274. (Can't Find) A Better Man"
+slug: 0274-274-cant-find-a-better-man
+partOf: god-of-trash
+position: 274
+ownLength: 2357
+unit: words
+publishedAt: 2026-02-13
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3051611/274-cant-find-a-better-man"
+royalRoadId: "3051611"
+---
+
+It was subtle at first. Quieter footfalls on the stairs. A cringing response. A promise of improvement.
+
+Lily didn’t believe it. She would’ve been a fool to believe it. He’d promised such things many times. There would be a day or two of improvement, and then he’d be back to his usual habits. That was the way it always was. That was the way it had been his whole life, even before she’d had the misfortune of being pressed into this arranged marriage.
+
+But this time… he didn’t.
+
+She came home from shopping and sensed him on the rooftop gardens. Confused, she climbed the stairs to find him, not passed out drunk surrounded by bottles, not sniffing some new sugar, but quietly working on his magehood. Colored lights swirled around him, and small phenomena appeared around his feet… for some reason, they looked like crumpled paper, broken glass, and other… trash, there was no other word for it, rather than the usual flowers and beautiful things that sometimes blossomed around mages lost in deep contemplation of their paths. Still, it meant that he was undoubtably actually working on his path, not just high and pretending to cultivate.
+
+Flabbergasted, Lily stared for a few seconds, then shut the door and walked away. This wouldn’t last. He’d be back to his old habits before long.
+
+I didn’t even know he had a path.
+
+Days passed, turning into weeks. To her shock, Norton did not return to his usual habits. He practiced, occasionally came down for meals, and kept to himself. One day, she spent the whole day messing around the house, straightening and rearranging things, even though that was the maid’s job. He was sneaking out, surely. Running around while she was out on the town conducting the duties a family of their stature ought to complete together. But no; he sat in the gardens, barely moving, working hard on his practice.
+
+That night, when he slept—because strangely, he was eating three meals a day and sleeping at night like a mortal, or a highly principled member of the nobility acting according to the modern fashion, whereas before he’d subsisted on a nap every few weeks, alcohol, and his potions—she went up to the gardens and scoured every plant, every inch of the dirt, every stone in the path. He had to have something. Some stash he was secretly breaking into while she wasn’t looking.
+
+Nothing. She turned the garden over, but there was nothing. Nothing at all. Not a single fleck of sugar or single drop of potion. Not even a bottle of alcohol. He was keeping his word; he’d completely gone clean.
+
+But it wasn’t possible. It couldn’t be possible. She’d known him since childhood, since their marriage had been decided not long after their respective births, to bring their two families together as part of some pact or treaty—she didn’t care. Even as a child, he’d shown signs of addictive behavior, seeking out sweets and sneaking alcohol from their parents’ cabinets. It had only gotten worse as he’d reached adulthood and become able to use his own money to purchase alcohol, then more exciting pursuits. No serious mage would ever try the ‘recreational’ potions Norton sought out. They were full of impurities and filth, and basically marked the end of a mage’s progression. But Norton didn’t care. He never cared about anything but his own desires, and getting his next hit of his own personal joy, better if it was to the detriment of others.
+
+It wasn’t possible. Except that it was, because he was in the garden, right now, quietly practicing, and… she glanced out the window, checking the sun. In another fifteen minutes or so, he’d come down for lunch, just like clockwork. He’d gone from the terribly interesting Norton—terrible in its truest form, so terribly ‘interesting’ that she had spent years wishing, hoping, praying for him to stop being so ‘interesting’—to a boring nobleman, one of those stodgy types who kept a neat calendar and attended all his appointments right on time.
+
+If she didn’t know better, she might think he was a different person entirely. But he was Norton, undoubtedly so.
+
+She was only Tier 2, only a little higher than Norton. She’d been married off because of her low potential and general hopelessness as a mage. Still, her eyes were enhanced, and she had mana senses. Through every sense she possessed, he was Norton, down to the inescapable reek of filth that always clung to him after a long night. He would have to be a much higher tier, the kind of high tier that rarely appeared in the Alliance, in order to fool her, and as far as she knew, none of the high nobles, military generals, or the Sword Saint had ever had any interest in pretending to be her shitty husband. The mere thought of some Tier 3, let alone 4 or 5, taking the place of her husband was absolutely laughable.
+
+And then, one day, someone knocked on her door.
+
+She didn’t have many guests. Usually, she visited her friends’ houses, to avoid embarrassing herself if Norton decided to show up and harass them. Her friends understood, and quietly made a point of never showing up unannounced; instead, they’d invite her out, or offer an open invite to their houses, in case she ever needed a quick escape. The only people who would come knocking on her door were her parents or her in-laws, but they, too, would schedule in advance, being the ones most privy to Norton’s… excesses.
+
+So when she opened the door to find Norton’s mother standing on the other side, her jaw dropped.
+
+“M-madame Tunk,” she said, quickly bowing to the elder mage.
+
+“Haven’t I told you to call me Mother? Come along, come along, dear. Give your mother a big hug.”
+
+Madame Tunk had preserved herself in her early twenties, so it was always a bit of a mental scramble when she spoke like an old lady, as she liked to do. Lately, there’d been a few streaks of gray in her hair, and Lily had been wondering if she wasn’t, perhaps, aging herself up subtly to gain a bit more respectability and weight around court, or if she was simply following the modern trend of white streaks in the hair. Either way, she wasn’t going to comment on it until her mother-in-law commented on it first.
+
+“I understand Norton has been practicing lately?” Madame Tunk said, as they pulled out of the hug.
+
+“He’s been quite diligent,” Lily agreed. Fear spiked. How did Madame Tunk know? Had she bugged the manor? It wouldn’t be out of character for her.
+
+“Take me to see him,” she demanded, pulling off her heavy fur coat and draping it on the coat hook by the door.
+
+Lily nodded. Whatever reason Madame Tunk had arrived, there was nothing she could do but bow and obey the mage. Madame Tunk was almost Tier 4, with a powerful set of techniques that allowed her to fight low-Tier 4 mages and earned her the respect of the entire Alliance. She was naught but chaff before her, and though her own family was enough guarantee for Lily to not fear for her life, if Madame Tunk found reason to end it, there was little Lily could do to stop her. Norton’s new habits were positive, but—but if he was an imposter, and she was simply too weak to sense it, then Madame Tunk would be in the right to end her life.
+
+“Oh, dear girl. What’s troubling you?” Madame Tunk asked gently.
+
+“Nothing. I’m just… he’s changed so much, lately,” Lily said, leading her toward the garden. “I feel like I barely know him anymore.”
+
+Madame Tunk waved her hand. “No, no. Don’t fear, my dear. This is a positive change! I’m excited to see my lovely son turn over a new leaf.”
+
+Lily nodded, not quite able to quell her nerves. The garden door loomed before her. She took a deep breath and threw it open.
+
+Norton sat in the center of the garden, quietly practicing with eyes shut and legs crossed. Colored lights and phenomena played around him, glittering gently with scintillating light. He didn’t move when the two of them walked in, but Lily faintly felt a mana probe play over them, then retreat, rapidly, as if shocked.
+
+“Well, well, well,” Madame Tunk murmured to herself. She narrowed her eyes.
+
+Norton continued to practice, but there were no colors or phenomena any more. Lily got the sense that he was faking. She glanced at Madame Tunk, swallowing. That reaction wasn’t good. Was he a fake, after all?
+
+And then Madame Tunk beamed. “How wonderful! My son has improved by leaps and bounds, more than I could have ever imagined he would have!”
+
+Lily breathed out. She laughed, half out of nervousness. “I was surprised too, Madame!”
+
+“Yes, what an incredible improvement. Why, I would hardly believe this is my son… if I didn’t see it with my own two eyes. Wonderful. I don’t suppose my wonderful son would continue to practice with his mother here, even if he’s suddenly become diligent? No, my son would always greet his mother with enthusiasm, right?”
+
+Lily blinked at Madame Tunk. That… wasn’t true at all. Norton regularly called his mother a plague and complained about her visits, even openly to her face. She tolerated it, because he was her son, but enthusiastic, Norton was not.
+
+To her shock, Norton stood and beamed at his mother, stretching out his arms. “Mother! How good to see you.”
+
+“My beautiful son! Oh, it’s so good to see you!” The madame hugged him tight, patting his back. “How wonderful. I’m so happy you’re part of our family!”
+
+Now Lily just stared, completely lost. Madame Tunk was never this warm. Even in the rare moments she was pleased with Norton—mostly her husband’s fault that he gave his mother so little happiness, in Lily’s opinion—she was always reserved and cold. This display of affection was… beyond rare. No, even in childhood, she wasn’t sure if she’d ever seen the madame act this way toward her son… toward anyone.
+
+“Of course, Mother.”
+
+Lily blinked at Norton. Since when did he call her ‘mother?’ Since when did he call anyone anything other than ‘you?’
+
+“Of course! Of course.” His mother stepped back, looking him up and down. She clapped his shoulders, then nodded. “Now that my son is putting so much effort into his magehood, how can a mother like me stand still? I’ll be back tomorrow with some materials for you—just a few small herbs and spiritual stones to help you along. Oh, this is wonderful, wonderful news!”
+
+Norton laughed. Lily glanced at him. Was it just her, or was there a note of nervousness mixed into his voice?
+
+“No, no, Mother. There’s no need. As you can see, I have everything I need right here, with the sky and the earth below me.”
+
+Madame Tunk gasped. “My son is so modest! How could I not shower such a wonderful son with gifts? No, no. You’ll have everything you need in no time flat.” She headed for the exit, then paused. “My dear son, please, keep practicing. Lily can see me out.”
+
+Norton nodded, smiling awkwardly. “Er, of course.”
+
+Madame Tunk turned. With one glance back at Norton, who did obediently sit back down and return to practicing, Lily hurried after her.
+
+They walked down to the door in silence. At the door, Madame Tunk glanced upward, then waved her hand, and a bubble of silence closed around them. Instantly, the smile vanished, and Madame Tunk turned serious instead. She looked Lily in the eye.
+
+“Has your husband been particularly affectionate lately?”
+
+“Ah? Er… no more than usual,” Lily demurred, which was to say, he’d ignored her.
+
+Madame Tunk pursed her lips. “Hmm… so it’s not you he wants.”
+
+“M-mother in law?”
+
+“No, no. Don’t mind me. Treat your husband well, won’t you? I’ll be back in short order with those supplies.”
+
+Lily blinked. “Is he… is he not—”
+
+“Of course he is! How could I not recognize my son?” Madame Tunk cut her off, before she could even finish saying anything. “My son has turned over a new leaf, and he’s decided to make something of himself. Why would I not be overjoyed? Why, if he suddenly had a precipitous climb in power to jump several tiers in a night, I wouldn’t be shocked, so great is his sudden new devotion to magecraft!”
+
+There was a strange light in Madame Tunk’s eyes, the same greed that she usually turned toward her family’s business endeavors.
+
+“Er, madame?”
+
+“What a valuable gift… a fortuitous encounter. Gods only knows what he’s after, but as long as he’s in our family, we ought to reap the benefits… or at least work toward a positive relationship. Truly, I have gained much and lost little today,” Madame Tunk murmured to herself. She looked at Lily. “We, of course, never had this conversation. Care for your loving husband as you always have. Don’t do anything that he doesn’t like… regardless of what it might be. If you can capture him with your wiles… but don’t run him off if he is disinterested. Yes?”
+
+“I… I’m not sure I follow,” Lily said, a bit overwhelmed.
+
+Madame Tunk looked at her with more dismissal in her eyes than Lily had ever seen before. “That man is Norton Tunk. Are we in agreement?”
+
+“Y-yes?”
+
+“Then that is all you need to know.” Madame Tunk waved her hand. The bubble broke, and, taking her fur coat, she swept onto the streets.
+
+Lily gazed after her, sure of nothing except that the man upstairs was not her husband. But if Madame Tunk hadn’t called him out, then… that could only mean that he was more powerful, even, than her. And she was considered the powerhouse of the Tunk family.
+
+Slowly, Lily lifted her gaze to the ceiling, as if she could see straight through the house to where ‘her husband’ practiced on the roof. She swallowed. Uh oh.

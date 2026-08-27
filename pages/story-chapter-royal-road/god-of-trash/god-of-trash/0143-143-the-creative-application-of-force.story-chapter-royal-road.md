@@ -1,0 +1,95 @@
+---
+id: ea4998c4-a391-59b6-ac60-9f6e1eabbc28
+page-type-slug: story-chapter-royal-road
+title: "143. The Creative Application of Force"
+slug: 0143-143-the-creative-application-of-force
+partOf: god-of-trash
+position: 143
+ownLength: 2394
+unit: words
+publishedAt: 2025-07-27
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2471172/143-the-creative-application-of-force"
+royalRoadId: "2471172"
+---
+
+Rhys blinked awake, then sat up. He laid on the floor of the second story of the tavern, in someone’s bedroll. As mages, they didn’t really need to sleep, and as a result, they didn’t have beds; it was an expense they could afford to skip. The bedroll he laid in smelled strongly of must and mildew, as if it hadn’t seen the sun in a long time, and instead spent a long time in the bottom of someone’s storage ring, or maybe in a garbage pit. Rhys idly sucked in all the impurities on the bedroll, then climbed to his feet, brushing down his robes. He looked around. What am I doing here? What’s going on?
+
+He thought back. The last thing he remembered was the coffee… no, that wasn’t it! He’d run to the tunnel, and the battle, Larry and Leonard…
+
+Rhys patted down his robes, then checked his storage ring. A fancy new fan sat there, ready for him to use it, sell it, or throw it away. He breathed a sigh of relief. If nothing else, at least he’d stripped Leonard of his weapon before passing out. He drew the fan out and fanned himself idly, not activating the spell on it, least of all because he wasn’t sure his trash star could handle another usage.
+
+He hadn’t really used magical artifacts until this moment. He hadn’t had the chance to. The few he’d found in the trash were, well, trash. A thrown-away storage ring. Items of that magnitude, that took so little mana to activate that almost every Tier 1 mage from a reasonable background would have one from childhood. Today, for the first time, he’d used a high-level, complex, powerful magical artifact. The kind a criminal syndicate would prize and give to its higher command. And it had nearly wiped him out.
+
+The trash star was still burning, but weakly. It was on its last legs, desperately in need of an infusion of trash. He was pretty sure the fan wasn’t supposed to take that much mana; it was just that his talent at handling magical artifacts was so trash that it took such a huge toll on him in particular.
+
+The Crimson Flare Orb hadn’t taken so much mana to activate, but then, it was essentially a mana battery for a big weapon he didn’t own. Of course it didn’t take much mana to activate; it was a thing that held mana, not a thing that required mana to activate. From a way of looking at it, the fan was the weapon that the battery (the orb) was supposed to slot into. It wasn’t, but that was the difference in the two artifacts. One held mana that was supposed to be supplied to something else, which was currently powering his oil pots, and the other was the thing that mana was supposed to be supplied to. The two weren’t compatible, because the fan didn’t take fire mana, and the Crimson Flare Orb wasn’t subtle enough to change its output to match what the fan desired, but hypothetically, as he’d touched on earlier, the two were the two pieces to the puzzle. The AA battery and the toy dog, except one of them was a D battery and the other was a drawing pen that required AAAA batteries.
+
+After all, if the Crimson Flare Orb didn’t output power, Logan couldn’t have used it to pretend to be Tier 2. The fan, on the other hand, had been used by a proper Tier 2. That was the most critical difference; the most important thing about the two of them.
+
+He gave the fan a wistful look, then hung it on his belt with a sigh. He could always give it to someone more suited to it. It was a pity that using magical artifacts on his tier or higher wasn’t in his immediate future, at least as long as they weren’t trash, but he had plenty of subordinates who could use a powerful weapon or two. For now, he needed to go find whatever his underlings had done to Leonard. He had a few questions for the guy, and some creative force to apply.
+
+Rhys climbed down from the loft-slash-second-floor where they slept-slash-meditated when it was nighttime and they decided to rest, rather than keep going, because at their core they were still monkeys with circadian rhythms, and found the kitchen bustling with motion. Even without him there, everything continued to move. Chips got cooked. Fries got fried. One particularly industrious mage was even attempting to make his ‘coffee,’ and the attempt… wasn’t bad. It wasn’t perfect, and it wouldn’t have the same magic (informal) without Less is More, but it should do the trick in a pinch. Lira and Sable looked up as he walked in, Lira chuckling and Sable turning away as if she didn’t care.
+
+“Good morning, princess,” Lira greeted him. She thumbed over her shoulder at the rapidly-vanishing Sable. “She was all worried about you, you know. Wouldn’t leave your side. I had to go and just about pull her away from your side just to get her in the kitchen, and you know Sable never goes to the kitchen.”
+
+Rhys glanced after her. “Really? Why? Oh… does she feel guilty because I ‘got hurt’ in her presence?”
+
+“No need for those air quotes. You really were quite hurt. Even I was a little scared when potions didn’t do much for you, but your regeneration skill kicked in while you were sleeping. Didn’t know you had one of those, incidentally, thanks for sharing.”
+
+“Yeah, cuz you share all your skills,” Rhys snarked back. “Next time, just give me little dribbles of potion. It’ll help more.”
+
+Lira squinted at him. “Are you afraid of potions, or something? Mr. Trashman is afraid of a few little impurities from a little potion?”
+
+Rhys reached into his robes, only for his hand to come up empty. The Empire had taken all the impurity potions he had on him, and the special one, the one he’d needed a particularly resilient bottle to handle, was hidden with the sun sword underground. He lowered his hand, then shrugged. “Not the impurities. I just have a weird set of skills that’s optimized that way. Anyways, let Sable know it’s not her fault. We’re all combatants. If I, or she, gets hurt in the line of duty, that’s just the price of doing business.”
+
+“Oh, yeah, that’s what’s bothering her. You haven’t noticed that she likes you, birdbrain?”
+
+“Don’t be ridiculous. I’m trash.” Sable deserved someone fitting of her status and stature, not a trash gremlin like Rhys.
+
+“She doesn’t think so.”
+
+“And more’s the pity. Hey, Lira. Where’s our guest? The one I captured with the bone hands,” Rhys clarified.
+
+Lira pointed down. “Where you left him…? That spell didn’t deactivate when you passed out.”
+
+“It… didn’t?”
+
+“Well, it’s a curse, right? Curses aren’t known for being easy to dispel,” Lira pointed out.
+
+“Huh.” Rhys had to admit she had a point. Curses were virulent, nasty things, known for hanging out long past when their caster wanted them to go away. He hadn’t been thinking of the bone hands like a curse, but now that he was… of course they’d stay around. He probably had to do some ritual to dispel them, or would, anyways, if he wasn’t a ball of curses and trash himself. He nodded at Lira. “Thanks. I’ll be right back.”
+
+Lira nodded and turned away, then glanced back at the last second. “Oh—we sent Mouse down there, since he harassed anyone else. Since she’s, you know. Partially invisible. Was peacefully reading the last I saw her, with poor Leonard moping in his cage.”
+
+“Good call,” Rhys replied. He turned away, frowning at himself as he did. He was starting to forget Mouse, when she wasn’t immediately around or directly in his vision. Lira had a reason to remind him about Mouse, and even then, it had ben an afterthought, almost forgotten. Mouse’s blend-in skill was getting slightly ridiculous. It was as though she were wiping herself directly from the universe, rather than merely going unseen. True, it wasn’t at that extreme yet, nowhere near, but he could see the future where she simply vanished. Not just from the eye or mana senses, but from people’s perception and memory as well, where she was an unseen, unfelt, unknown existence that barely existed at all.
+
+He ran a hand through his hair, a little terrified. What kind of monster have I created? By giving her a little nudge toward her path, he’d helped her transform from a shy wallflower, to someone the ever-vigilant Empire ignored for years, to someone who he personally had trouble remembering, even when he was reminded about her. If she didn’t want to be seen, she could even sit quietly right beside her victim, and they wouldn’t acknowledge her in the least.
+
+A shiver ran up his spine. It’s a good thing she’s on our side. If she was on the Empire’s side, there’d be nothing they could do; the battle would already be lost.
+
+Fortunately, Mouse wasn’t much of a combatant, though a tiny bit of Rhys, the part of him that was less concerned with his personal safety and more worried about optimizing everything, really wanted to see what kind of a monster he could create by teaching her proper swordform, or better yet, how to stab someone quietly in the back for a one-hit-kill. Her skills were more than ideal for an assassin. In fact, she would be an insanely powerful assassin, what with being able to entirely erase herself.
+
+Then again, maybe that’s just the baseline expectation for assassins? Mouse had been utilized by a spy by her school already, so maybe she was just an average-skill for someone pursuing the hidden route; on the other hand, he was pretty sure her skill also made her school overlook her, so he doubted they’d been utilizing her to her full extent, or even, necessarily, realized what a valuable unit they had at hand.
+
+The real question is, how did I get so lucky? Rhys wondered. A moment later, it came to him. Mouse was throwing herself away. She wasn’t hiding to grind her skill, or grow more powerful; she earnestly, from the bottom of her heart, wanted to be left alone and ignored, not utilized. Her whole existence was defined by hiding away from society and ducking every possible social advancement, or, in other words, by ‘throwing away’ her future as a powerful assassin to hide in a corner and read books instead. Rhys respected it—hell, he’d dreamed of such an ideal existence many times in his youth and adulthood and sometimes even now—but society didn’t. A life spent idly was a life wasted, said society. Thus, Mouse was trash, and thus, she had fallen into his hands.
+
+Rhys dropped down into the tunnels. Sable was there, but at the sight of him, she scuttled onto the ceiling, into a particularly dark crevasse, and sat there, not looking at him or saying anything. Rhys glanced at her, then snorted and walked on. If she wanted to be left alone, he’d leave her alone. He wasn’t delusional like Lira, thinking she might like him. Someone else had suggested it too, or maybe it was just Lira? Either way, she was clearly projecting her own romantic hopes onto Sable and Rhys. There was nothing between them. They’d barely exchanged greetings.
+
+Around the corner, he came upon a seated Mouse, buried in a book as he’d been promised, and his own curse. The bony hands still thrust up from the earth, and in their grasp, they held a haggard and frustrated Leonard. He perked up at the sight of Rhys and leaned forward, gripping the bones that barred him in. “Let me go! You have no right to hold me here!”
+
+“And you have no right to attack us, so that makes two of us,” Rhys pointed out, without skipping a beat.
+
+Mouse looked up at Rhys’s voice and shut her book, quickly scurrying out of the scene. Rhys watched her go, making a note to chase after her and give her more trainings later, then turned back to Leonard. He smiled sweetly. “Do you know where you are?”
+
+“In my family’s tunnels, which you’ve rudely stolen from us, the rightful owners?”
+
+“I highly doubt you have the requisite permits to burrow under the city. No, that’s not correct. Where you are, is in my hands.” Rhys gestured, knitting his fingers together, and the bones shifted, changing their grasp to grip Leonard a little tighter, just as Rhys’s fingers knitted a little more tightly.
+
+Leonard ducked in the cage, edging away from the cold bone. “So? It’s a creepy cage, but—”
+
+“It’s not a cage at all, in fact. It’s a curse that’s meant to kill. In fact, it’s taking significant willpower to keep those hands from bearing you down into the cold earth right now,” Rhys informed him. It was a bit of a lie. This close to the curse, he could, in fact, ‘feel’ its desire to bear the man to his untimely death, but that was all. He didn’t feel any overbearing desire to see this to its end. He could stand here all day, or leave Leonard caged for another dozen days, and it wouldn’t change a thing. But it did apply a little bit of pressure, and he didn’t mind that at all.
+
+Leonard started to sweat. “This isn’t a curse. It can’t be.”
+
+“It can, and it is.” Rhys dragged the stool Mouse had been sitting on over and sat atop it. He desperately wanted it to be a chair, so he could sit on it backward and fold his hands over the top like those ‘cool’ teachers and detectives in trashy movies, but it was only a stool, so he had to settle for a smarmy smirk and a lean forward, hands on his hips. “So what do you say, Leonard? You know what I want: the location of your base. We can do this the easy way, or the hard way. It’s all up to you.”
+
+Sweat dripped down Leonard’s forehead. He glanced at the fan dangling from Rhys’s belt, and swallowed. All at once, he opened his mouth—

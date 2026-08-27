@@ -1,0 +1,129 @@
+---
+id: c39592b7-6011-5a8a-aa8d-a48dc2c1646b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 696 - Beginning of the Beyond Event"
+slug: 0021-chapter-696-beginning-of-the-beyond-event
+partOf: hell-difficulty-tutorial
+position: 21
+ownLength: 2013
+unit: words
+publishedAt: 2025-11-23
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2787018/chapter-696-beginning-of-the-beyond-event"
+royalRoadId: "2787018"
+---
+
+POV Weslin
+
+After the deadline to join the Beyond Event passes, I find myself surrounded by about five hundred people. It feels like a surprisingly large number, considering our guild only has about fifty members here, and I would estimate that even fewer are being fielded by the Eternal Court. The rest must be either those who allowed themselves to be hired by the Eternal Court or those with some sort of connection to the Ancient Armory.
+
+The highest rank present being A-rank means the guild master of Eternal Court is likely to be here as well, even though I haven’t seen so much as a trace of him so far.
+
+With only fifty members to our name, we should probably be thinking of ourselves as a possible target if the others decide to gather their forces, and yet I don’t think that will happen. Everyone knows the Primordial Knights. You just don’t attack a bunch of demons unless you’re ready to bleed for it.
+
+I just hope someone from our guild doesn’t attack first. Up to this point, they’ve been following my orders, since I am the highest ranked member here, meaning likely the strongest.
+
+Maybe this event will even bring me closer to the S-ranks now that I think about it. Not long ago, I thought that goal would be nearly impossible, something the others had exaggerated, but ever since I met that maniac, that asshole, that little shit, that annoying arrogant jerk, that motherf... ehm, I’ve found it impossible not to push myself forward.
+
+Even if he hasn’t realized it, he’s pushed me to strive harder, and by now, I can be certain that no one else in the tutorial is as skilled with Primordial Void as I am.
+
+“Weslin, we should attack them first. I bet we could take down a good chunk before they even realized what was happening,” one of the demons at my side says.
+
+The one next to him nods seriously. “Morwag would’ve attacked them.”
+
+“Don’t even bring up what Morwag would do,” I snap back to cut off that line of thinking right at the roots.
+
+“So you want to wait for now?” the demon asks as if it is something weird to do.
+
+“For now. We didn’t come here to fight them, but if they show any sign of attacking, don’t hold yourself back.” I tell him.
+
+“Calling me a fucking demon is a clear sign of hostility, right?”
+
+I look straight at him, and he stares back. “No, it fucking isn’t.”
+
+“Oh,” he mutters sadly.
+
+“Weslin, you haven’t been on the fourth floor for quite a while. What gives you the right to order us around like this? Is it possible that you’ve grown weaker lately?” the woman, Yela, asks.
+
+The worst part is that she’s not even a demon. She’s a velnar, but that doesn’t seem to matter in the slightest with her. She behaves exactly like the demons, and the respect they show her confirms it.
+
+This is why I hate dealing with these things. It’s always the same. It’s not just difficult, it’s tedious, and it makes me feel dirty. That rawness that’s so evident in demons is something I share to a degree, and I hate it.
+
+I am about to step toward her to deal with it when I feel a notification from the mark Nathaniel placed on me. Within the next two seconds, he appears by my side. The shocking smile I saw on his face when he first met that woman is gone, replaced by the usual resting bitch face.
+
+“Weslin, I have to introduce you to a few people, and damn if I haven’t already noticed some fun and annoying people here. Io’s here. If you see that fuck, tell me, I have to kill him. If you see a demon called Malika, tell me too, I’ll need to hide, and…”
+
+He pauses, and before he can continue, Yela steps closer, interrupting us, standing above us, and trying to push on with her attempt to take over leadership. There are probably two or three other demons looking to do the same, and who are stronger than she is, but they respect her enough to let her try first since she moved first.
+
+Nathaniel glances up at her. “The fuck you want?”
+
+His words are ice cold, and he instantly catches her intent. Unlike me, he doesn’t seem to care. He’s told me this many times, but he thinks the demons’ behaviour is kind of cute, and that likely extends to this velnar, who acts like one. Meaning that he doesn’t really mind playing their constant game of who is strongest.
+
+The beat of his hearts grows more audible as thermal energy dances across his skin. The same golden colored flames appear around the velnar facing him.
+
+“I said that maybe Weslin doesn’t deserve to be the leader after spending such a long time stuck on the third floor,” Yela says with a provoking smile. She must have heard a lot about Nathaniel, and now she’s excited to test herself against him.
+
+Nathaniel tilts his head in confusion. “But Weslin’s still much stronger than you. I’d have a harder time with him than you.”
+
+As he says that, the thermal flames surrounding Yela vanish.
+
+Her expression widens more and more as she generates new flames, but they disappear just the same.
+
+Yela is known as one of the more powerful A-ranks in the Primordial Guild, with one of the highest capacities for generating thermal energy. Her flames are known for their intensity and their propensity to scorch even reinforced magical barriers. Yet now she’s finding that she can’t even handle the human in front of her. He takes it all away from her while channelling it with incredible ease.
+
+That part of him sometimes worries me. I know how much he’s sacrificed and how far he pushed himself to be able to do this, and I don’t think he has any plans to stop here.
+
+“Weslin,” Nathaniel whispers, though loud enough for everyone around us to hear, “you told me about that velnar who can generate a lot of thermal energy. Just to be sure, this is her?”
+
+Yela’s face tightens at his words.
+
+“That’s Yela,” I confirm.
+
+“Well, that’s awkward. She must’ve gotten weaker since the last time you saw her, right?” He takes a step toward her even though she still towers over him.
+
+Yela flinches, even if only slightly. She tries to hide it by pushing more flames into existence, golden arcs surging around her arms and shoulders, but they blink out again the moment they form. Her jaw clenches, and I can see her pride grinding under the pressure of what Nathaniel is doing to her.
+
+She tries again. And again. Every time, she finds the blaze being stripped from her body until nothing remains.
+
+That effort shows. Sweat beads on her brow, and her breathing turns ragged. Each attempt is weaker than the last, and by the time the fifth wave of fire collapses into nothing, she’s just standing there. Chest heaving, shoulders trembling from the exertion.
+
+He looks at her, and she holds his eyes for a moment before groaning in disappointment and turning away.
+
+"Anyway," Nathaniel says, turning back to me. "I'll introduce you to my sister. But if you start hitting on her, I'll be angry."
+
+He gestures for me to follow, already heading off. Before leaving, I stop by Yela. “Please make sure the others don’t fight without a reason for now. Good reason,” I tell her.
+
+She nods after a moment, and I leave.
+
+Watching Nathaniel’s back, I follow as he weaves through the crowd, his constant senses spreading out into the area to search for danger. In some ways, he’s one of the most paranoid people I know. And now, that little jerk actually seems to be in a really good mood. I can see it in the way he acts and talks. It is almost like seeing a huge smile on his face.
+
+He sometimes acts like this, especially after defeating a tough monster, levelling up a difficult skill, or making some other big leap in progress. Right now, it probably has something to do with his sister. He knows a lot about me, since we’ve spoken so much, but I’ve learned plenty about him in turn. I’ve always wondered what Victoria was truly like in person, since his descriptions of her never really seemed reliable.
+
+When we finally come to a stop near a group of about a dozen people, I see her again.
+
+She’s truly a lot like Nathaniel. The near identical expression, the same shade of hair, and they even have similar eyes. The biggest difference is that she looks much colder. While Nathaniel seems like someone who suppresses his emotions, she seems like the sort of person who has none at all.
+
+From the bits I’ve learned about his childhood from Nathaniel, I can guess at the truth. She’s always been this way, and the young Nathaniel grew up imitating her. It was his way of coping with his childhood, finding the strongest person he knew and copying her to the point he nearly became like her.
+
+Nathaniel introduces us properly this time, and as I shake her hand, she studies me with a calm, intent gaze. She remains polite yet distant. Sharp, cold, fair, but capable of extreme cruelty. That’s what comes to my mind when looking at her.
+
+“And this is Christoph. He’s from Earth’s tutorial as well,” Nathaniel says. I think he wants to add something else, but he holds back for now.
+
+“Just Chris is fine,” the man says, shaking my hand.
+
+After letting go of his hand, I almost want to dismiss him, to push him into the background as someone unimportant, but then I stop myself. Why would I do that? I don’t usually treat new people that way.
+
+Forcing my void to circulate through my body, I fix my attention back on the man. He seems well maintained, but at the same time, he’s unassuming. He doesn’t look threatening or dangerous, only collected and calm as he watches Nathaniel talk with his sister.
+
+Every so often, a gentle smile crosses his face as he watches the siblings, as if touched by something almost nostalgic. At the same time, he’s constantly scanning the surroundings for danger.
+
+Then I focus deeper, observing the movements of the mana around his body, and I find myself more confused than ever. They seem intricate, yet unassuming, normal, and extraordinary, all at once. I can’t even begin to grasp what he’s doing, nor can I sense any primordial energy radiating off him or even any hint of a fragment. It just seems to be pure mana.
+
+Part of me wants to look closer and take in more, but I hold back, aware that it could be taken as rude, even as a provocation. Just in case, I run multiple deep checks to see if my mind is being affected. I carefully examine myself for any signs of manipulation, pressure, or subtle influence, and I go through each possibility thoroughly to make sure I remain in control. And I find nothing.
+
+Then his eyes turn toward me. Gray and firm, they clearly show that he knows exactly what I’ve been doing, yet he doesn’t seem to mind. He even smiles with amusement and mouths something I cannot translate. Then he joins the conversation between the siblings.
+
+As he speaks, the flow of mana around him shifts into something entirely different. I sense the way it moves like a living thing, too intricate for me to comprehend. The change sends shivers down my spine, unlike anything I’ve ever felt from any other attendee, except perhaps Nyssa and Lyraen.
+
+It should feel overwhelming, yet it doesn’t. It’s quiet, restrained, as if he is showing only the smallest fragment of what he can do. And that’s what unsettles me most.
+
+Just what kind of freaks is Earth spitting out of its tutorial?

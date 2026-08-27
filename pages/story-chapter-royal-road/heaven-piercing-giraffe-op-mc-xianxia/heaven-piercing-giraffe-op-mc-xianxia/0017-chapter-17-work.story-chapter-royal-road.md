@@ -1,0 +1,235 @@
+---
+id: d4fef0f3-b6e1-58ce-8884-dcf04f20f3d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17: Work"
+slug: 0017-chapter-17-work
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 17
+ownLength: 2044
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3687811/chapter-17-work"
+royalRoadId: "3687811"
+---
+
+Chapter 17: Work
+
+Zebra charged.
+
+He came in low and fast, spear leveled at White's midsection. White dodged left without any particular hurry and thrust her own spear toward the gap he'd opened.
+
+He blocked it. The clang of metal on metal was loud enough that a bird somewhere behind me left its tree in a hurry. By the time Zebra had recovered his stance, White had already put three meters of grass between them, her spear resting against her shoulder.
+
+She had done the same thing four times now. Strike, then retreat before the retaliation could arrive.
+
+"You're good." Zebra planted the butt of his spear in the dirt and leaned on it. "But why do you keep running away?"
+
+"Obviously." White smiled. "Because you have more muscle mass, mister."
+
+Her smile had not gotten any less unsettling since this morning, when it had been aimed at me over the subject of being woken up by a slap. I reflected that I was glad there was now a second acceptable outlet for it that was not my neck.
+
+Zebra charged again.
+
+This time White didn't retreat immediately. She held her ground, watching the gap close, and I found myself leaning forward slightly. There was a specific moment where the distance was correct and not a hair's width more. She thrust into that moment precisely, then stepped back before his return swing could find her. He stopped himself short, boots skidding in the dirt, and resettled his footing. She opened the distance again.
+
+The Human Ts arranged around the clearing had opinions about all of this, and none of them saw any reason to keep those opinions to themselves.
+
+"Not bad. Not bad at all."
+
+"Wonder what tribe raised her. You think they've got more like her back home?"
+
+"Don't say scary things like that, you idiot. Why would any man want a wife who'll beat his ass into next season?"
+
+Someone laughed hard enough to choke on whatever they were eating. Someone else thumped them on the back, which did not appear to help.
+
+Zebra scratched the back of his head, ears going faintly red. "Fine. You pass."
+
+"Ehh?" White shrugged. "Giving up already?"
+
+I did not see him move.
+
+One moment he was three paces back, spear lowered, conceding. The next he was directly in front of her, spear tip resting a hand's width from her throat.
+
+White raised both hands, palms open. Her spear clattered on the ground.
+
+The clearing went quiet. Even the Human Ts who'd been mid-sentence let it die there, unfinished.
+
+"Obviously I wouldn't be serious for a simple test." Zebra withdrew the spear in one clean motion.
+
+He turned and started walking without checking whether anyone intended to argue with the outcome.
+
+The Human Ts erupted.
+
+"Show off!"
+
+"Womanizer!"
+
+"Somebody kill this lucky bastard, I'm begging you!"
+
+Zebra spun around, jabbing a finger at the crowd. "Shut it! You want meat tonight or not?!"
+
+"We want!" The answer came back as one voice, loud, immediate, and utterly without shame, as though the previous thirty seconds of ridicule had never happened.
+
+Zebra pointed the same finger at White. "Come with me. We're hunting."
+
+Then, without any transition at all, the finger swung to Donkey and me.
+
+"Mei, handle her." A jerk of his head toward me. "Make her useful."
+
+"Roger!" Donkey snapped off a salute crisp enough that I suspected she practiced it in private.
+
+White glanced at me, shrugged, and fell into step behind Zebra. The two of them crossed the clearing and vanished into the treeline, spears over their shoulders, already bickering about something involving the word "downwind" that I chose not to investigate.
+
+Donkey turned to me. Hands on her hips. "So. What's your element?"
+
+"Earth?" I tilted my head.
+
+Donkey stared at me for a second, then laughed, loud and completely unbothered.
+
+"What kind of answer is that?" She stopped laughing. "Doesn't matter. Same as me, then. Come on."
+
+She was three steps gone before she turned back, waving with both arms.
+
+"What are you doing?! Come on, we're tending the plants!"
+
+Plants.
+
+Plants meant, with reasonable probability, leaves.
+
+I followed.
+
+***
+
+Before me, the ground was wet, thick with mud. I moved forward. Mud was simply ground that had made a decision about itself.
+
+Donkey looked at me with wide eyes. "I thought you'd be spooked by the mud."
+
+"I always walked on mud during the rainy season." This was true, though the season in question had been considerably longer than a season for me, and the mud in question had usually come with a river attached.
+
+"I see." She nodded to herself, satisfied with whatever conclusion she'd reached. "You like playing in the rain too, then."
+
+I did not entirely know what she meant by this, but nodding seemed to close the conversation, so I nodded.
+
+Ahead of us, rows of plants stretched across the cleared field — except they were not green the way I had expected plants to be. They were gold. A whole field of gold, swaying slightly with whatever wind moved at ground level.
+
+I turned to Donkey and pointed. "Are they edible?"
+
+She laughed. I had begun to suspect that everything was funny to Donkey.
+
+"Obviously."
+
+A woman approached us carrying two baskets balanced against her hips, her sleeves already rolled and stained at the cuffs from the mud.
+
+"What are you two doing standing around? Come help us."
+
+"Okay!" Donkey took one of the baskets without further discussion and set to work, plucking golden stalks and dropping them into the basket at her hip.
+
+I watched.
+
+The woman looked at me, waiting.
+
+"You too."
+
+I nodded, took the other basket, and copied Donkey's motion as closely as I could manage. Grip the stalk. Pull. Drop into the basket. It seemed straightforward enough.
+
+The woman said nothing for a while, which I interpreted as a passing grade.
+
+"You suck," the woman said.
+
+Apparently my assessment had been incorrect.
+
+I looked down at my basket, then at Donkey's, and understood the difference immediately: mine contained roughly a third of what hers did, and several of my stalks had come up with the roots still attached, which seemed like it was probably not supposed to happen. I adjusted my grip and tried again.
+
+We continued the activity that was apparently called harvesting, while the women around us fell into the loose, overlapping rhythm of people talking to pass the time rather than to say anything in particular.
+
+"Can you tell us the story of the otherworlder?" Donkey asked, straightening up between stalks.
+
+"You've heard that a hundred times already, Mei."
+
+"But she hasn't." Donkey pointed at me with her chin, hands still full of gold stalks.
+
+The woman sighed. "Stop using her as an excuse."
+
+Donkey stuck her tongue out and giggled.
+
+"Please?"
+
+"Fine." The woman kept working as she talked, not slowing her hands even slightly. "There was once an otherworlder. Or he claimed to be one. He went around talking about something he called the Dao, explaining it to everyone he met in tremendous detail, and somehow never actually explaining anything at all. He kept reaching for people. Kept trying to hand them the idea like it was a physical object they could just take from him. He talked and talked and talked, until one day a wise man stopped in front of him and said, 'Young man, I've heard about this Dao of yours so many times now, and still I don't understand it.'
+
+"The young man grabbed the wise man's hands and said, 'You need to understand. It's the path to power. The path to the heavens.'
+
+"The wise man nodded slowly. 'Ah, yes. You need to get closer to the heavens, to absorb more spirit energy.'
+
+"The otherworlder shook his head, quite forcefully. 'No, not the literal sense! The metaphor!'
+
+"'But it's the literal sense that works in this world.'
+
+"'What about foundation building, breakthrough, tribulation, dantian—'
+
+"The old man sighed. 'Young man, the only thing that matters is how close you are to the heavens... or the pillar of light.' Then he pulled his hand free and continued on his way. After that day, the otherworlder stopped bothering anyone about his Dao."
+
+Donkey laughed until she had to brace one hand against her knee.
+
+"It's just a story, stop laughing so hard. And don't let your hands stop while you do it."
+
+"Okay!" Donkey went back to work without missing a stalk.
+
+"So what is the moral of the story?" I asked. The tutors said every story had a moral.
+
+The woman grinned. "I don't know. It was a passed-down story from the floating islands." She tilted her head, thinking. "If I'm not mistaken, it's from Pusher? Right?" She looked to the other women.
+
+One nodded without looking up from her work. "Yeah. The one that sells those pills."
+
+"So there you have it." The woman turned back to her stalk. "Now back to work."
+
+I looked at her.
+
+She did not look back.
+
+I considered pressing further. The tutors had been very clear that every story had a moral, that stories without morals were just things that happened, and that things that just happened were called incidents, not stories.
+
+I went back to work.
+
+A line of Human Ts was making its way along the treeline, each of them carrying a pair of buckets balanced on a pole across their shoulders, water sloshing with every step. Fish was among them.
+
+"Fish?" I looked at them.
+
+"They're the ones with the Water element," Donkey answered without looking up from her own basket. "They handle fetching water. And yes, fishing too, when the river's cooperating."
+
+I nodded. "So Metal hunts. Earth plants. Water fishes. What about Wood and Fire?"
+
+"Wood handles the animals." She tipped her chin toward a cage at the field's edge, its bars grown rather than built, the wood still faintly green at the joints. "Chickens, goats, that sort of thing. They also gather branches for the fire, since they're the ones who can talk the trees into giving some up without an argument."
+
+"And Fire?"
+
+"Nothing much." Donkey shrugged, the motion barely interrupting her hands. "They help with whatever job's left over once everyone else has picked theirs."
+
+"Why?"
+
+"Obviously, because they can't make fire without spirit energy in the first place." She said it the way one might state that water was wet. A fact so unremarkable it required no further explanation. "Down here, that just makes them people who happen to be warm."
+
+I considered this.
+
+So Fire cultivators were the ones being quietly discriminated against down here. An interesting inversion, given that up on the islands it had been Earth that everyone assumed was the weakest, the one nobody wanted, the one relegated to the fields.
+
+I thought of Akasha and Badger, and wondered how they would feel about trading places for a season.
+
+It was already afternoon, and — of course — we had not forgotten to eat. Somewhere between one row and the next, the women had produced something made from the very stalks we'd spent the morning harvesting: flattened, cooked over a low fire, and passed around on leaves that served as plates. It tasted considerably better than the raw version I had sampled earlier out of simple curiosity, which had been fibrous and faintly bitter in a way that raw acacia never was.
+
+I ate three, including the leaves. I would have eaten a fourth if the basket hadn't been declared, with some finality, "for tomorrow too."
+
+I could still taste it when a Human T came jogging across the field toward us, breathing harder than the distance seemed to justify.
+
+"The tribe near the pillar of light — they've arrived. They're claiming our territory. The Elder's already out there negotiating, but it doesn't sound like it's going well."
+
+"What about Lukor?" Donkey straightened, basket forgotten at her feet.
+
+"He's there. So is the new girl." The man averted his gaze. "The new girl is very good."
+
+"Good at what?" one of the older women asked.
+
+"Good at escalating things." He rubbed the back of his neck. "She's currently provoking the other side."
+
+I nodded, unsurprised.
+
+White was, indeed, very good at that.

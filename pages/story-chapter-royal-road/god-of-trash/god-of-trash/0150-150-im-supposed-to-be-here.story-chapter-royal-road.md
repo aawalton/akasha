@@ -1,0 +1,119 @@
+---
+id: 3ce09b9f-9612-5cdd-9d4e-6604fd94844c
+page-type-slug: story-chapter-royal-road
+title: "150. I'm Supposed to be Here"
+slug: 0150-150-im-supposed-to-be-here
+partOf: god-of-trash
+position: 150
+ownLength: 2184
+unit: words
+publishedAt: 2025-08-03
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2489521/150-im-supposed-to-be-here"
+royalRoadId: "2489521"
+---
+
+“Stop.”
+
+Rhys stopped obediently, always a rule follower when it was convenient for him, anyways. A figure approached him from dead on, a slender woman who narrowed her eyes at him. “Who are you? Where did you come from?”
+
+He thought for a moment. This was a unique opportunity. He was already in the camp, and there wasn’t as obvious a need to question him. Snake Robes had run off. Maybe he could bluff? It wouldn’t make sense with his backstory, but… eh, whatever, he decided. It was convenient in the moment. He’d let the woman come up with the explanation of why a righteous schoolboy would do it later.
+
+“I’m here to join the Syndicate,” he said.
+
+Her eyes narrowed. “Are you.”
+
+Nope, that’s a failure. Without another word, Rhys drew his sword and rushed her.
+
+She had seen through his obvious lie, so it was no surprise that his ‘surprise attack’ was handily blocked. She had the attitude and the strength of a swordsmaster, though she fought with the stiffness of the Empire’s sword style. Definitely a military dropout. They only traded blows for a split second when she pressed the attack, fighting harder than before. Rhys had to flare his trash star to the limits of Tier 2 to keep up, and in so doing, was forced to drop the little he understood about the Empire’s swordstyle. Instead, he fought with the inelegant, savage style he’d learned from Bast and Straw, treating the sword more like an object than the delicate, precisely balanced tool it was. He couldn’t use sword intent, and this sword wasn’t trashed, so when her eyes shone and the edge of her sword blazed like a cold star, Rhys angled his sword so she’d cut through its blade without harming him.
+
+“You aren’t a student. Who are you?” she challenged him.
+
+“I am a student. Full of pent-up sexual confusion and righteousness!” Rhys declared.
+
+She squinted at him. “What?”
+
+“And I’m going to defeat you!” He tightened his grip on the broken sword and activated Trash Intent on the beleaguered thing. The woman’s eyes widened as the blade reappeared, almost slicing through her stomach. She jumped back at the last second, or else he would’ve spilled her guts without even trying.
+
+“That’s not something they teach you in the Empire’s sword school,” she accused him.
+
+“It totally is. You must have played hooky that day.”
+
+“Played hooky?” The woman gave him a look like she didn’t know whether to laugh or cry. “At the Empire’s school?”
+
+I guess it’s not the kind of place that kind of thing happens, huh? Dug in too deep to back out, Rhys nodded firmly. “Yep. And now I’m going to defeat you with my totally Empire-based sword skills.”
+
+She sighed and lifted her sword again. “This is not how I imagined dying.”
+
+“You don’t have to die. I’m here for a hostile takeover, but not a total elimination of the Syndicate. By the way, where are the rest of the Waters brothers?”
+
+“You, alone? A hostile takeover?” she asked, laughing.
+
+“Yep.”
+
+Her expression sobered. She lifted her sword again. “Whether you’re a student of the Empire or not, we end this between us.”
+
+“You seemed pretty cool. I didn’t really want to kill you,” Rhys returned, hoisting his to match. He didn’t use the Empire’s sword stance this time, but his own.
+
+She charged, killing intent burning in her eyes. Rhys took a deep breath. He really didn’t want to kill her. She was the exact kind of dedicated underling he needed under him.
+
+So, for a split second, he burned the trash star hotter.
+
+A split second was all he needed. He leaped off the ground and dashed behind her, hammering the butt of the sword into the back of her head. A moment later, it was over, but it was a moment too long. Even before he reined his strength back in, he could sense multiple higher-Tier mana signatures closing in on him.
+
+He could stand there and fight, but that wouldn’t help him find Lira. No, he had a better idea. He raced off into the forest, picking a direction none of the strong signatures were rushing toward him from. After all, if all the strong signatures were rushing here, couldn’t he freely run around the rest of the area while they all looked for him in this forest?
+
+I wonder if people in this world have ever heard of whack-a-mole?
+
+Rhys dashed through the forest, simultaneously highly pleased with his new plan and mildly disappointed that his facepaint was going to start dripping down his face again due to all the sweat long before anyone got to admire it. There weren’t any setting sprays in this world, which was a disappointment and a vast oversight. How was his cool makeup supposed to keep looking cool without a setting spray? Plus, what if someone wanted to hug? Sure, it was far less likely here than it had been at cons, but still! He was trying to be considerate. No one wanted paint all over their clothes.
+
+It occurred to him that he would probably be wildly popular with this world’s women if he developed a setting spray, and he put that little morsel in the remember-later inbox in his head. Speaking of, if the chips thing didn’t work, he could always fall back to makeup producer. He wasn’t quite as familiar with makeup as he was with food, but he’d dabbled in his cosplay days. Even in his world, makeup was full of wildly toxic substances like asbestos, so surely in this world no one would bat an eye if his makeup had a little more impurities than average. Of course, it wasn’t as good an impurity-delivery method as food, and it mostly targeted women, which struck him as a little unfair, but hey, all was fair in love and war. War crimes? What were those?
+
+He managed to clear the forest area before anyone zeroed in on his location and came out to a much more stable and fully built out region of the camp. Here, there were buildings. Not nice ones, but buildings. They had good foundations, but the ramshackle, musty, molded-edges and slightly-askew beams of buildings that were in use, but not well maintained. Buildings that were very active, but not very cleaned. People mostly relaxed in the yards or stood within the buildings, doing things. The few who were outside gave Rhys a weird look, but no one immediately challenged him. It was outright shocking how few of them were attacking.
+
+Then again, Rhys realized, the Empire is a peaceful place. He wasn’t wearing a shining white uniform and screeching about righteousness, so he must be a new recruit. In other words, if he wasn’t obviously on the Empire’s team, he was probably on theirs. It wasn’t like his home region, where anyone would be regarded with suspicion for wandering somewhere they weren’t supposed to go. There were two teams: the Empire, and not the Empire. He wasn’t the Empire, therefore, he was probably on their team. If they’d sensed the Tier 3 emanation from the forest, they’d assumed it was being handled, or at least didn’t want to get involved.
+
+He'd really been hoping Lira would be held in a giant cage or, I dunno, a hot tub with bars on, but there was nothing obvious. No sign pointing to the corner with ‘Prisoners Over Here’ on it, either. He reached out to the limits of his mana senses, but Tier 2 Rhys couldn’t sense anything. Either she was behind some kind of barrier, or too far away, or—
+
+Don’t think about that last one. He didn’t want to push that lever any further down. He wasn’t sure what would happen, but he knew that he’d immediately forget his dream logistics network and research lab in favor of something more drastic. What, exactly, was up in the air, and something he didn’t want to look directly at. But drastic, for certain.
+
+Mouse had said they’d captured Lira. Mouse had said they didn’t know. He had to believe in that. There was no reason to execute random water sprites in the woods. Between humans and water sprites, one of them lived in the woods full time as a usual part of their life cycle, and the other one wandered off into the woods to start criminal syndicates. If they executed every being that wandered through the woods and looked vaguely humanoid, they’d have their hands full with a lot of work for no real reason. She had to be somewhere. But where?
+
+I don’t have much time, but I do have time. At this point, Rhys was in deep enough that people assumed he should be here. Not having a Tier 3 emanation helped, too. The black robes and the veiled hat were attention-grabbing, but not crazy attention grabbing among a group that included Snake Robes. There was a guy, or maybe girl, wrapped so thickly in bandages from head to toe that he couldn’t tell their gender, for example, and a man in a white opera mask and matching gloves, but otherwise normal mages’ robes. He moved with purpose, but not too much purpose. Nothing to draw too much attention, or too little. He paused a few times to pretend like he was doing something so it wasn’t too obvious that he was looking around; he didn’t want to look lost, after all. There was an unconscious woman in the woods, and the door guard had run off. Something was going on. He couldn’t pull the ‘Please help the newbie’ without casting suspicions on himself.
+
+His time was running out. He could already feel it. If he couldn’t find Lira soon, he was going to have to go with Plan B: defeat the Water Syndicate, then find Lira. He really wanted to know where she was first, if possible, though. Not actually free her, since the second he acted toward her, she would immediately become a target—right now he was just an unattached crazy guy, and there was no reason for anyone to attack her—but it was better to know where she was and if she was in a bad situation where he did need to immediately intervene, versus if he could let her stay captured for a little longer, keep eyes off her, and let her stay in relative safety, untargeted by the criminals. Knowledge was power, and he just didn’t know anything right now.
+
+His diminished Tier 2 senses could feel the powerful mages closing in on him. They were getting close. This area wasn’t big enough for a true round of whack-a-mole, and once they’d sensed his mana, they could sense that it was still him, even with the weaker signature—they just wouldn’t necessarily look for a weaker signature, which had bought him time. Rhys used what little time he had left to scour the area, searching for any hint of Lira.
+
+At the very back of the area, up against the ravine wall, he finally felt a hint of Lira’s aura. He looked around, scanning the buildings, the sky, the floor… and there he finally found her. Her aura was below him, deep underground. He wandered closer, peering toward a narrow crevasse. At the bottom of the crevasse was a well, and at the bottom of the well was a woman in white.
+
+“Lira?” Rhys hissed.
+
+Lira snapped around, looking directly up. “Rhys…? What the hell are you wearing?”
+
+“That’s not important. Are you safe down there?”
+
+She looked around her, a bemused expression on her face. “I’m not in immediate danger.”
+
+“Good. Then—”
+
+A hand closed around the back of his collar. An enormous figure yanked him backward. He found himself staring up at a silhouetted face, the figure’s eyes narrowed.
+
+“What is this? Have I found our little mouse…?” the figure murmured.
+
+“I… am no mouse!” Rhys declared. He twisted in the figure’s grasp, exerting his Tier 3 strength. Landing on his feet, he drew the first broken sword and brandished it at the—the man, he saw now. The man was huge, bulging with muscle and at least seven, no, eight feet tall, with the same cruel smile as the other brothers he’d defeated. Rhys narrowed his eyes. “Don’t tell me. Does your name start with L?”
+
+The man looked shocked. “How did you know?”
+
+“Call it a hunch,” Rhys replied. “Do I have the honor, then, of facing the eldest Waters brother?”
+
+“Landon Waters, at your service,” the man rumbled, bowing just a tiny amount.
+
+“Knew it,” Rhys muttered to himself.
+
+“And who do I have the honor of facing? What foolish mouse has scurried into my house?”
+
+“My name… is Rend!” With dramatic flair, Rhys threw the hat into the air, revealing his bloodsplatter makeup at last.
+
+Landon raised his brows. “Did you have an unfortunate incident with a bottle of marinara?”
+
+“No, I was too busy with your mom. Don’t let anyone say I’m not a giving lover,” Rhys replied, and charged at Landon.

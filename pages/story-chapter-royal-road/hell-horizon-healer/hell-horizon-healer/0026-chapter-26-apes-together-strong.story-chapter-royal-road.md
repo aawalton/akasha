@@ -1,0 +1,177 @@
+---
+id: b34f2581-266d-501c-a6be-efbf3b779fe1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26 - Apes Together Strong"
+slug: 0026-chapter-26-apes-together-strong
+partOf: hell-horizon-healer
+position: 26
+ownLength: 1550
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3608676/chapter-26-apes-together-strong"
+royalRoadId: "3608676"
+---
+
+Having just dropped off the food and water they had scavenged on Floor 8, Arthur told the others they had cleared the floor and that it was safe to pick clean for the remaining supplies that remained. Lots of people praised Arthur as he stood tall in the hallway, smiling as he held the old people's hands and basked in the adoration of the female attention.
+
+Only some were willing to brave the stairwell. Many of them had the idea that if Jake, Glenn, etc, could fight and live, then it meant they could do it as well. Four of them were the tall and mean-looking individuals Edwin had ‘hired’. The others were also stronger looking than average.
+
+I guess height and muscle makes people confident. What’s the saying: everyone is brave until they face a monster’s blade. It was something like that anyway…
+
+The man with the broken hand glared at Jake as they passed to see what they could get from the 8th.
+
+Though Jake didn’t say anything outwardly, his eyes did all the speaking for him.
+
+Try anything again and it won’t just be a broken wrist.
+
+The beating must have worked the charm because the man that towered over Jake shifted his gaze away, suddenly finding the floor very interesting.
+
+"I want to come!"
+
+Somewhere in the chaos, Hanna had found her voice. Jake wished she hadn't.
+
+He looked down at her. Pom hung limp in her arms, back to being a stuffed bear. "No."
+
+She went up on her toes. "Pom is stronger now. He can lift me. We could help—"
+
+"No."
+
+"I won't get in the way. I promise. I'll stay at the back and—"
+
+"Hanna." He looked at her properly. She went quiet. "No."
+
+Her lip pushed out. She stared at the floor for a moment, then back up at him. "If something happens to me it won't be your fault. I'm not asking you to look after me."
+
+Jake opened his mouth.
+
+"Absolutely not." Sloane stepped between them, took Hanna by the shoulders, and steered her firmly toward Claire. "Don't even think about it."
+
+"But—"
+
+"No." Sloane looked at Jake over the girl's head. "And you were about to say yes."
+
+"I wasn't."
+
+"You had the face."
+
+"I don't have a face."
+
+"You have a face." She pointed at him. "That one. The one where you've stopped arguing because you've decided it's not your problem."
+
+Jake said nothing.
+
+Hanna was watching him with those eyes. He looked away first.
+
+"Stay with Claire," he said. "Keep Pom close."
+
+She opened her mouth.
+
+"That's not a negotiation."
+
+“It’s okay,” Claire said. “I’ll look after her.” She steered the child away, back down the hallway as the little girl’s protests echoed against the walls.
+
+Edwin finished polishing an arrow, removing a morsel of flesh from one of the sharp tips. He finally raised his head. “Everyone set?”
+
+Jake nodded.
+
+“Then let’s go.”
+
+Jake didn’t know what to expect on the 9th floor, and it was a sentiment that everyone else shared, especially Arthur as he remained at the back of the group. Jake had voiced his opinion on Arthur; a shield that couldn’t defend did more harm than good.
+
+Edwin disagreed, and so that was that.
+
+The situation was growing increasingly strained, and Jake gathered that the only reason they were still together was the necessity of it. Jake dreamed of one day going on his own, but with every fight, that dream seemed to grow increasingly distant.
+
+Edwin gave the group a nod before he creaked the door open, revealing a corridor that was far bigger than the ones they were used to. Wall to wall, the hall was at least a football field wide. A shaky bridge made of wood and metal planks stretched down the hall. Above, at least six other bridges clung to the walls like a maze.
+
+Below was nothing but a black abyss which formed an unsettling pit in Jake’s stomach. He quickly averted his gaze. He wasn’t scared of heights. He promised.
+
+Though Edwin was confused, he was the first to take a step. He now had a smaller shield which he was already holding. His free hand grabbed the wire of the bridge for balance. The wood creaked underfoot. The bridge wobbled and shook.
+
+Susan’s entire posture had already transformed the moment the door opened. What was once a reserved, melancholic lady, turned vicious. She leaned forwards, her grasp so tight around the handle of her cleaver, her knuckles turned white.
+
+Her breath turned heavy.
+
+No one dared say anything about her. Not when she was in this state.
+
+Jake fell in behind, gulping as he stepped on the rickety bridge. His hands lurched out for the wire, which held the stench of rust and iron. He held it tight.
+
+Sloane’s breath was hot on his back. “Oh wow,” she said. “I was wondering what it took to spook you. I’m almost disappointed that its height and not a seven foot tall monster.”
+
+“Who actually enjoys heights?”
+
+Jake and the neighbours made it a couple minutes—minutes of wondering what was going to show its ugly head—before Jake reached out for Edwin’s shoulder, stopping him.
+
+Seeing that, everyone tensed.
+
+Adrenaline began spiking as Jake tried to listen through the increasing beat of his heart. He thought he heard something, but after waiting for a few minutes more, nothing else appeared.
+
+Just when they were about to continue, something from within the darkness jostled the bridge they were on. Jake tried peering through the darkness, but couldn’t find what he was looking for.
+
+Tension, Jake thought.
+
+With a hand on the metal handrail, Jake closed his eyes just like he did when training Perception. He used the Focus and Concentration parts of Meditation and honed his attention on only the sense of touch. The wire in his hand, the coldness of it, the thousands of metal fibres that spun around each other to form something unable to be broken.
+
+Faintly, he felt a vibration run up the metal. A few seconds, another one.
+
+Next, he utilised Controlled Breathing to slow down his heart rate, trying his best to reduce all the noise, all of the unnecessary human emotions that triggered inside of him like fear.
+
+What… are you?
+
+A moment later, something else happened. An image of a faint line that marked the handrail stretched down the lane, through the darkness even with his eyes closed.
+
+The vibration ran again, and this time a knotted ball of static rang from thirty or so metres down the line. A wave of energy moved all the way up to his hand, where it rested on the handrail.
+
+Another vibration, closer now.
+
+Jake’s lips curled into a satisfied smile. So tension essentially acts as a spiderweb?
+
+He didn’t dare look at his status, but he was certain Tension had leaped up considerably from learning how to do that.
+
+“Jake!”
+
+Sloane’s scream ripped Jake from his concentration. In the corner of his eyes, he saw a vague shadowy form swinging at them from one of the bridges above.
+
+It bulldozed through Jake, shooting him backwards. His waist hit the railing for a second before his weight whipped him off the bridge. For a moment, his body turned weightless. He heard Sloane scream something, but to Jake, it was just a murmur.
+
+He was going to die.
+
+Blinking, Jake’s heart hammered against his chest like a blacksmith with an endless load to work on. He took a breath, calming himself down as much as he could. Meditation worked wonders.
+
+He had one chance. One throw. If he missed, he was dead.
+
+Jake launched Gutter Tooth upward. It sailed past the handrail, barely missing it. It continued to the bridge above, missed. It started falling.
+
+What… this is it?
+
+I don’t get to see what awaits me at the top?
+
+What was the point in trying so hard?
+
+A hand lurched out from the bridge, grabbing hold of the chain. Jake’s body snapped, suspended in the dark. The person who grabbed it almost fell off the edge. He saw Glenn grabbing hold of the chain, Arthur behind him, hugging him so that he didn’t fall too.
+
+They pulled.
+
+Jake’s eyes widened. “Place the sickle on the metal slab!”
+
+His instructions came out wrong and jumbled, but thankfully, Glenn was smart enough. He hoisted the sickle and hooked it over one of the metal planks on the bridge.
+
+Jake readied all the strength he had in his body, and pulled. More than twenty points of strength made easy work of his current bodyweight, and with one final tug, he leaped onto the bridge.
+
+The frame of a monkey, bundled in thick muscle, had Susan in its large dense hands.
+
+Jake retrieved his weapon.
+
+Glenn’s hands were ripped open, and without placing much attention on him, healed the wound right away.
+
+Edwin fired a bolt, bursting through the ape’s eye. It screamed and pulled out the bolt. It wasn’t enough to kill it. The monster dropped Susan.
+
+Just how much Vitality does it have?
+
+A moment later, Jake felt the vibration in the steel again.
+
+Another ape swung up from below. It landed behind them, shaking the entire bridge.
+
+It roared, causing Jake’s ears to ring.
+
+Shit.

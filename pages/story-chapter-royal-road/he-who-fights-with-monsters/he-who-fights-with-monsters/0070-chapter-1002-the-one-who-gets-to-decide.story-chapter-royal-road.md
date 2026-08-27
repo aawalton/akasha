@@ -1,0 +1,221 @@
+---
+id: 0fae785b-6577-590a-ae21-2a91bff4c486
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1002: The One Who Gets to Decide"
+slug: 0070-chapter-1002-the-one-who-gets-to-decide
+partOf: he-who-fights-with-monsters
+position: 70
+ownLength: 3113
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3489833/chapter-1002-the-one-who-gets-to-decide"
+royalRoadId: "3489833"
+---
+
+As a military liaison to the Asano Clan, Lieutenant Bradley Noble spent more time than most outsiders in the clan’s civilian areas. After various international assignments, he’d gotten used to experiencing culture shock, but life in clan territory was more shocking than most. The clan members certainly had their quirks, but that was to be expected. The real difference was that magic permeated everything in the clan, from the food to the lifestyle to the ground he walked on and the air he breathed. Growing up in the Network, he’d thought he knew what it was like to be surrounded by magic, but the Asano Clan had hot and cold running miracles.
+
+Walking down the street towards the administration building, he spotted someone overhead on a flying manta ray, and others riding clouds like Sun Wukong. A food truck had a lizardman, two elves and an angel waiting in line for bánh mì sandwiches. A man standing in front of a building told it that he needed some extra rooms for a family visit, and it promptly grew a third storey.
+
+Along with the overt displays of magic, there was an underlying sense of power that he couldn’t quite place. An unsettling sensation of being watched that he had come to discover was the omnipresent presence of Jason Asano. Clan members he had spoken to said it gave them a feeling of protection and belonging. That was not Bradley’s experience as an outsider. It made him constantly aware that this place belonged to someone, and that someone expected him to behave.
+
+Bradley reached the admin building, a tower that rose high over the low-lying city. Only the airship dock at the military base rivalled it. The whole city was constructed of the strange cloud material it was famous for, but the tower was overt about it. Inside the tower was a massive atrium, filled with greenery. From the balconies above, plants hung and miniature waterfalls spilled out below, filling the air with a refreshing coolness.
+
+The walls and floor were made of the fluffy white cloud substance, with plants growing right out of it. Bradley always found himself expecting it to be springy, like a bouncy castle, but it was always soft yet supportive. Diffuse sunlight shone from the walls, directly through the cloud material.
+
+Bradley navigated his way through the place, not quite sure of himself. The layout changed itself frequently, never the same on each visit as it had been on the last. He’d shown the general the way there just that morning and it was already different. It could be frustrating, with the lobby designed less for efficient navigation than meandering through the gardens. He eventually found an elevating platform, the open-sided lift that would take him up to his floor.
+
+He arrived at a lounge area outside of a conference room. With the meeting running for much of the day, many of the aides and assistants had, like him, left on other tasks. With the conference soon scheduled to end, they were trickling back in. The lounge was large and comfortable, with plush cloud furniture and leafy plants growing straight out of the floors and walls. There was even a kiosk offering freshly made snacks and beverages.
+
+One thing Bradley had noticed about the Asano Clan was that he was never far from food. Even in the residential areas there was always a bakery, food truck or street market somewhere nearby. Having grown up during the monster waves and the food shortages that came with them, it was something he had come to appreciate. He went to the kiosk and got a banana smoothie.
+
+Looking for a place to sit, he spotted Michael Aram seated on a couch. Aram was a veteran of magical politics, having variously worked for the Network, the Australian government, the United Nations and the Asano Clan. He had also known Jason Asano since his first return to Earth, before magic had gone public. Aram’s experience and connections made him a superb contact for someone in Bradley’s position.
+
+Bradley asked if he could join Aram, who was reading from his phone, and got a nodded assent. As he was currently the assistant to Annabeth Tilden, Aram would know more of what was going on than Bradley, so Bradley attempted to open a conversation. That part worked out, but without his understanding how, the conversation veered swiftly away from the direction he had intended.
+
+“No, it’s ‘agent,’ not ‘Asian,’” Aram explained. “How would he be secretly Asian? Also, why?”
+
+“Well,” Bradley said, drawing out the word as he considered. “He could be secret and Asian, not secretly Asian. That said, have you ever seen the movie You Only Live Twice?”
+
+“The Bond film?”
+
+“That’s the one. Sean Connery disguises himself as a Japanese guy, and it’s meant to be convincing, but he just looks like Sean Connery with jaundice. Everyone acts like they’re convinced, and it makes no sense. I watched it as a kid and had no idea what was going on. People were acting like Sean Connery was Japanese when he very clearly was not and I was completely confused. He was kind of secretly Asian, but the secret was from me, when I was nine.”
+
+The pair snapped to their feet as the conference room doors opened. The other aides likewise got up, swiftly dropping their food and drink containers into nearby bins marked for food package waste. Bradley watched as his smoothie container vanished, leaving the bin empty.
+
+“Where does that go?” he quietly asked Aram as people emerged from the conference room.
+
+“Collection station, for transport to the clan farms.”
+
+“I’ve never seen the clan farms.”
+
+“They’re in the astral spaces.”
+
+The people who emerged from the room were high-ranking military officers, intelligence officials and representatives of the various magical factions. Anna Tilden strode out like she was on a mission and Aram fell in behind her like a duckling, nodding a goodbye to Bradley.
+
+The others likewise departed, their various subordinates trailing behind. Only two people had stayed in the conference room. General Mills and Asano Clan matriarch, Yumi Asano, sat on opposite sides of a large round table. The double doors were left open and Bradley moved to stand in them.
+
+“Will you be needing me, sir?”
+
+“We’re just about done here, Lieutenant,” Mills told him, then turned back to Asano.
+
+“Matriarch, I think we have an understanding, and can move on to the tactical planning. The only outstanding issue is the attendance of your grandson and his allies. They will be the most powerful asset we have, so I had been hoping he would attend this meeting.”
+
+“In clan territory, General, he’s always in attendance.”
+
+“But he did not participate, and I would have liked for him to be involved. He is known, after all, for not just ignoring plans but completely upending them. For allies and enemies alike. We can plan out how to use him and his otherworld allies until the cows come home, but it doesn’t matter if they choose to ignore us.”
+
+“Hard to argue the man’s point,” Jason said.
+
+Bradley could swear that Jason Asano hadn’t been in that chair a moment earlier, laid back with his feet up on the table. Despite looking directly into the room, Bradley hadn’t seen him appear. If the man had suddenly popped into place, it would have been startling. Instead, it was like he’d been there the whole time and Bradley had somehow failed to notice.
+
+“Jason, get your feet off the table,” Yumi scolded. It was a very matronly tone for someone who looked to be in her early thirties.
+
+“Sorry, Grandmother,” Jason said, taking his feet down with a cheeky grin. He glanced over at Bradley and gave him an apologetic look.
+
+“I’m going to need your boss for a moment, Bradley. Just relax, get some tartiflette from the kiosk. They’re about to bring some out from the kitchens, and it’s really good. My sister’s recipe.”
+
+Bradley stepped back as the conference room doors closed themselves.
+
+***
+
+Jason was seated at the back of the room, equidistant between the general and his grandmother.
+
+“You’re completely right, General,” Jason said. “You’ve been placed in overall command of this operation, which means that you should have access to all the personnel involved in that operation. Me and my allies from Pallimustus included. I want to assure you that we are fully supportive of your command and our intention is to follow your directives.”
+
+“Is that so, Mr Asano?”
+
+“It is, General,” Jason said. “We aren’t looking to set the agenda, except in one regard.”
+
+“Simon McKean.”
+
+“Yes. Going after him is our show, but everything else is all you. The vampire strongholds, how to direct forces. Even my people from Pallimustus will be at your command. It’s a war, and we need a general to lead it. That’s you. A mad scientist with vampiric blood magic is adventurer business, and that’s us. Outside of that, we’re putting ourselves at your command.”
+
+“It was always my intention to pit you against McKean,” Michael said. “My understanding of the situation is that we’re expecting extreme strangeness out of him and whatever he’s got waiting for us. I don’t know how to plan for that beyond throwing something stranger at it, and that’s you. I just want to make sure that we’re working in alignment, not at odds.”
+
+Jason leaned back in his chair, raising his eyebrows.
+
+“That’s refreshingly accommodating of you, General.”
+
+“Mr Asano, I know that you haven’t always had the best relationship with Earth’s authority figures.”
+
+“By ‘not the best relationship,’ are you referring to the repeated kidnappings and betrayals? Killing my brother, my friend and my girlfriend? Dismissing my warnings and engaging in a short-sighted grab for power that didn’t just ignore but actively exacerbated an existential threat to the planet? Refusing to patronise local bakeries over mass-produced bread full of preservatives.”
+
+“Jason…” Yumi said warningly.
+
+“Okay, that last one is less important, but still valid.”
+
+“Mr Asano,” Michael said. “It’s been many years since you first came back to Earth. Yes, a lot of people made less than ideal choices in those days. To be honest, I don’t know that we’d make better ones, if we had the power to do anything about you. But we don’t, and we realised that a long time ago. No one foolish enough to try and put a leash on you would end up in my position. Not anymore. Those of us in the corridors of power may not say it out loud, but we understand that you rule this world. If you want it to happen, it happens. If you want it to stop, it stops. However they may portray themselves to their people, every president, prime minister and king on this planet knows that they answer to you.”
+
+Jason lowered his gaze, frowning as he rubbed his forehead.
+
+“I’m not a tyrant,” he said softly.
+
+“No, Mr Asano, you’re not. But you’re the one who gets to decide that. If you change your mind, we don’t get a say.”
+
+Jason sighed, his shoulders slumping.
+
+“No, you don’t,” he conceded. “But the only way I can change that is to leave Earth behind.”
+
+“Then why haven’t you?” Michael asked. “You’ve plainly stated that you see the other world as your home now, not this one. But instead of going back there, you’ve spent the last decade here, forging the combined military might of humanity into a single sword. Why? No one seriously believes it’s just for the vampires.”
+
+Michael let out a long, slow breath and ran a hand over his face before continuing.
+
+“I’ve wanted to ask that for a long time, Mr Asano, and I know I’m far from the first to do so. I also know you’re unlikely to answer me any more than you have anyone else. The assumption is an invasion from the other world. That would be the obvious answer.”
+
+“It is the obvious answer,” Jason agreed. “If that bridge opened and the other world turned out to be weak and vulnerable, how long would Earth’s colonial ambitions take? How long before we were sending forces in the name of global stability or regime change or whatever? The people on the other side aren’t any better or worse than us. They have people with more ambition than morals in positions of power too. They’d colonise us in a heartbeat if they could get away with it.”
+
+Michael nodded.
+
+“You’ve implied as much in the past.”
+
+“Yes, and it was a deception.”
+
+Michael blinked in surprise.
+
+“I’m sorry?”
+
+“General,” Jason continued. “What I just said isn’t wrong, but there is a more specific threat. Our actions in the coming days will bring a final conclusion to the vampire war, but what your analysts have been telling you is right: I’m using it to prepare the Earth for what comes after. This operation amounts to a shakedown cruise for the military force that will defend this planet against incursion. Not from a general threat, but a specific one. When I open that bridge to the other world, I know exactly whose army is walking over it.”
+
+“If there’s a specific threat, why haven’t you told this to anyone?” Michael asked.
+
+“The answer to that is complicated, General. I’ve been keeping the full details from everyone, even myself.”
+
+“From yourself?”
+
+“I did say complicated. But I’m not hiding things anymore. I’ll explain everything once Simon McKean and the vampires are dealt with.”
+
+“You should be wary of making assumptions, Mr Asano. The vampire war has been fought off and on for decades. Believing you’ll be victorious before the battle is fought is a good way to lose it.”
+
+“Yes, it is.”
+
+Michael eyes probed Jason’s expression.
+
+“You don’t even see this as a battle, do you? This is just a training exercise to you.”
+
+Jason looked unhappy, as if he’d bitten into something unpleasant.
+
+“No,” he said. “Not exactly. I know that people are going to die in this operation. I don’t make light of that, General. I know the weight of lives lost because of my decisions. You know it too.”
+
+“I do,” Michael acknowledged.
+
+“McKean has surprises for us, and we don’t know what it will cost us to take him and his vampires down. But we will. You said yourself that the great powers of this world are wary of me. If I must, I’ll show them why they’re right to be. The age of vampires on Earth is going to end. The problem is that, for all that we’ve accomplished in the last decade, the world is not ready for what comes after. The next threat. As callous as it is, we need this military we’ve built to be blooded before the real war begins. We can’t afford for them to come into it green.”
+
+Michael’s face tightened into a scowl.
+
+“If you’re so powerful that all of this is nothing to you, why do any of it? Why don’t you do the fighting? The vampires and your mysterious looming threat.”
+
+“I can’t be everywhere at once, General. And for the next threat, I don’t think I’ll be on Earth at all.
+
+Jason’s voice cracked, the frustration leaking out of him. He shoved himself to his feet and planted his hands on the table.
+
+“General, I’m fairly certain that you will have to fight the next war without me. Before it even begins, I have to walk into a conflict I’ve already lost. I don’t know how they intend to take me off the board, but I’m confident they will. So, I won’t be here for a fight that this world isn’t ready for.”
+
+“How can they take you out? You’ve made no small point of being immortal.”
+
+“Immortal doesn’t mean invincible. They can’t kill me, but they can rob me of time. I was warned about that, and not by someone who shares such things on a whim.”
+
+“That king of the evil angels I heard about?”
+
+Jason’s scowl faded as he snorted out a laugh.
+
+“I can’t believe that’s how they described him.”
+
+“Is it wrong?”
+
+“Let’s just say it fails to capture the scope of who and what he is.”
+
+“Is he a threat?”
+
+Jason laughed again.
+
+“A threat? General, there’s a café I quite like to visit. I do so without anyone knowing who I am. I go there by myself and, for a little while, get to be a normal person doing a normal thing. If I decided, one day, to erase that café from existence, the only thing that could stop me would be someone convincing me not to. If I decided to not be convinced, there is no power in this world that could prevent its utter annihilation. Does that make me a threat to that café, General Mills?”
+
+“You could have just said no.”
+
+“Would you have been satisfied with that answer?”
+
+“I’m not sure I’m satisfied with the one you gave me.”
+
+“Yes, you are. You’re just not happy with what it implies.”
+
+“I suppose I’m not.”
+
+Jason sighed and retook his seat.
+
+“Mr Asano, why are you telling me all this? You’ve held your tongue for a long time, and in front of people a lot more important than me.”
+
+Jason gave a contemplative nod, waiting a long moment before answering.
+
+“Do you know how this started for me? A magical accident hurled me across the cosmos. I wasn’t chosen. The only thing special about me was my circumstance. Entities of incomprehensible power saw opportunity in that circumstance and made me an unwitting pawn in their schemes. Schemes you’ll be hearing more about, once the vampires are handled and I lay all this out.”
+
+“You’re saying that I’m in the right place at the right time.”
+
+“Yes. It’s time to start getting the world ready for what comes next, and you’re going to be a key leader in that.”
+
+“If things are as drastic as you say, we could have used more time to get ready.”
+
+“I’d like to have given it to you. Or to myself, for that matter. As I said, it’s complicated, and the full explanation can wait. Today, we can start walking through what my allies and I can offer your forces. My cloud palace, for example, will make an ideal central command for you. Mobile, secure, and with utilities I think you’ll find more than sufficient to the task.”
+
+Jason plucked a recording crystal out of the air and slotted into the projector built into the table.
+
+“Let me start taking you through the details.”

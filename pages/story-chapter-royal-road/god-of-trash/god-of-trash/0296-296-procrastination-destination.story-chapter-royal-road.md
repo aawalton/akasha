@@ -1,0 +1,83 @@
+---
+id: 752623cb-4736-5bac-b615-dac3f7eaa9eb
+page-type-slug: story-chapter-royal-road
+title: "296. Procrastination Destination"
+slug: 0296-296-procrastination-destination
+partOf: god-of-trash
+position: 296
+ownLength: 1930
+unit: words
+publishedAt: 2026-04-07
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3241371/296-procrastination-destination"
+royalRoadId: "3241371"
+---
+
+With the Sword Saint bearing down on him, Rhys looked at Bast. “How much control do you have?”
+
+“What do you mean?” Bast asked, still struggling ineffectually to land a blow on Rhys.
+
+“I mean, like, can you go attack me really hard over there?” Rhys pointed away from the Sword Saint.
+
+Due to them both being mages of considerable power, he was currently doing a very serious and dangerous martial hold on Bast… that basically looked like riding him piggyback, except that Rhys was pinning his arms to his sides with his legs. At Tier 3 or 4, the effort to hold the weight of another human being, or to grip another human being, was pretty much negligible, and neither of them were particularly slowed down by the effort. It was rather convenient for Rhys, since it gave him a sturdy point to examine the mark while denying Bast the right to use his arms or sword, though he was pretty sure he could hear the yaoi fangirls squealing from here. He wasn’t that worried about it, since they were out in the middle of the tundra with no one but the zombie-like Luc to see. There wasn’t a girl in sight, let alone a fujoshi.
+
+He froze. No girls? No women at all? Only men, as far as the eye could see? In fact, even if Sid appeared and Lord Ravin crawled out of the ice cave, there’d still only be men, and once he factored in those horrifying ice worms… Oh no, oh shit! It’s even more yaoi-like than I thought! He had a sudden desire to pull Sable into the tundra, if only to prove to the universe that there were women around, and this was not a yaoi situation. After all, there were no women in yaoi. Therefore, if a woman appeared, it was not yaoi.
+
+I feel like that’s invalid logic, but whatever. We desperately need some oysters in this sausage party!
+
+“Are you thinking stupid things again?” Bast asked.
+
+“No,” Rhys lied innocently.
+
+Bast sighed. He turned his head to look in the direction Rhys had indicated. “I… have some control over which direction I fight you in. I could head… over there.”
+
+“Away from—”
+
+Bast interrupted him. “It’s more advantageous to fight over there.”
+
+Rhys nodded, understanding. Bast couldn’t deliberately avoid Luc, but he could change the venue to more favorable terrain. There were mental boundaries, but within the boundaries, Bast still had some wiggle room to make his own decisions.
+
+“Then head that way, and I’ll see what I can do about this nasty mark.”
+
+Bast nodded, and the two of them began flailing in that direction. Rhys submerged himself into the mark, putting everything into studying it. The world faded away, and all that remained was the mark.
+
+It was shaped like most marks. He recognized the self-destruct and call-home features from his previous studies, but there were also additional features the other marks didn’t have, and thicker, wider bands of mana in certain parts of the mark. He didn’t have time to fully comprehend the mark. Instead, he burrowed into the mark, searching out that filament he’d seen: the connection to Luc. More than anything else, he needed to find that, gain control, and reverse it. Luckily, he had some practice there. He’d captured the ermine that way… though he had corroded the man, as part of the process.
+
+But… but that’s fine! As long as I don’t corrode Bast to death, I should be able to reverse the corrosion afterwards.
+
+A faint memory of Bast refusing his cleansing played in his mind, but he dismissed it. Surely Bast would overlook it this time; Rhys was literally trying to save his life. If he couldn’t have full access, Bast would remain Virgil’s pawn forever, and at the rate Luc was draining him? ‘Forever’ wasn’t going to be very long at all.
+
+“This is going to hurt,” he warned Bast.
+
+“We’re supposed to be fighting. It’s meant to hurt.”
+
+“Oh, right. Yeah. Well… just letting you know.”
+
+Feeling somewhat admonished, he dove back into the mark, then started pushing impurities into it. This time, he wasn’t trying to destroy the mark, but overtake it. One strand of mana at a time, he forced out the mana in the mark and replaced it with filth. The mark tried to fight back, but the refreshing circuit in it was far weaker than the one in the barrier, and Rhys easily overcame it on the sheer power of the impurities within him. One piece at a time, he gained control of the mark. It still continued to function, but slowly, Rhys took control of it, and as he took control, he gained the ability to manipulate it. He didn’t gain any insight on what the  mark actually did, or what his manipulation would do, simply the ability to make changes, so he didn’t bother with worrying about the changes for now and just focused on completely overtaking the mark. Control was the most important function right now.
+
+“He’s almost here. My master will defeat you!” Bast shouted, jolting Rhys out of his focus. He jerked back, looking up to find the Sword Saint almost on top of them, his sword already mid-swing. There was no time to use the pre-laid loops. Rhys threw one out of his storage ring and pushed him and Bast through it with a jolt of mana. The sword energy burst out, chasing after them. Rhys immediately flew toward another hoop in the void, hoping to escape, but he’d moved too slowly this time. There was no more time. He twisted his body, throwing Bast out of the way with a heave of his entire core. The sword energy slashed into him, taking his arm off at the shoulder.
+
+Pain flooded through him, almost too much for Rhys to focus. He grimaced and slapped his hand to his shoulder, quickly pulling impurities out of his core and using his destruction-creation technique, the same one he’d used to strengthen himself all this time, to seal the wound shut. Previously, he’d grown himself a new hand using the technique, but right now, he was too low on impurities to waste the vast quantities he’d need to waste in order to regrow an entire arm at the appropriate strength. He grimaced bitterly. Not long ago, he’d been so full of impurities that he’d been deliberately burning them down. Now, he was forced to cling to what he had with all his might in order to get the job done.
+
+It was a fundamental problem with using impurities: once he ran out, that was it. He couldn’t simply breathe in and pull in impurities out of the air—or rather, he could, but the quantity was so low as to be meaningless. To be honest, he was pretty sure mana users had the same issue at his level of strength. The mana (or impurities) in the air were simply too weak, too low in quantity to refill one’s core on the fly. Once battle commenced, he was locked in. He either had enough, or he didn’t, and there was no gaining any more mid-battle.
+
+I have enough to free Bast. I have to hope that doing so takes out Luc. By all logic, it should; Bast’s been propping up Luc this whole time. But I don’t know for a fact that it’ll work, and that makes me nervous.
+
+“Rhys, I’m too far from Luc. I’m going to die,” Bast warned him. And, indeed, immersed in the mark as he was, Rhys could sense the filament, and sense that it was on the verge of breaking. As the filament stretched thin, so, too, did Bast’s life-force gutter. Whatever Virgil had done to them had joined Bast and Luc’s lives together in a fundamental way. The two could no longer be separated. In a very literal sense, one could not live without the other.
+
+He took a deep breath. If being too far from Luc almost kills Bast, then it’s almost guaranteed that curing Bast kills Luc. He pushed with his mana and propelled them out another mana loop and back into the tundra, once again as far from Luc as he felt safe putting Bast. Luc whirled, but as he turned, he stumbled and fell to his knee. Almost instantly, he jumped back up, so quickly that Rhys questioned that he’d actually seen the man fall, and he chased after them again.
+
+Rhys frowned. A Tier 5 mage shouldn’t be able to trip. It simply wasn’t something that happened. For him to slip like that… did that mean the connection went both ways? If he separated the two, then both Bast and Luc perished. It was a critical weakness, and explained why Virgil had only used the two as a showpiece rather than running rampant over the Alliance and starting whatever conflicts he wanted to by pointing the Sword Saint at them: if they were in actual combat, any fighter could realize this critical weakness quite easily, and instantly rid Virgil of the Sword Saint’s power. The Sword Saint was Virgil’s pawn, but it had come at the cost of reducing him to a paper tiger… for everyone but Rhys.
+
+Damn it! If Bast wasn’t my friend, I could end this in a heartbeat. Damn you, ‘the power of friendship!’ How dare Virgil wield you against me! That’s meant to be the ultimate superpower of the good guys, not their Achilles heel. Foul play. I call foul!
+
+That was probably why Virgil had risked pointing the Sword Saint at Rhys at all. He knew Rhys and Bast’s history; hell, the whole Alliance knew they were the Strawman’s apprentices. Of everyone in the Alliance or outside, Rhys was the most motivated to keep Bast alive, even if that meant he had to deal with the Sword Saint the hard way.
+
+Quietly, he snorted to himself as the true shounen protagonist way flashed through his head: the realization, the untimely stabbing, the heartfelt goodbye with lots of tears and blood. Did Virgil expect him to sacrifice himself to keep Bast alive, all teary-eyed-like? Not a chance! Rhys wasn’t going to leave things up to hope, dreams, and friendship. He was going to solve them with filth and violence! This wasn’t going to be the start of Bast’s tragic backstory for some future female lead to work out with him after years of sad servitude under Virgil. No, this was the start of his comeback arc!
+
+“Stop thinking stupid things and start working,” Bast barked, vaguely annoyed.
+
+“Excuse you. They weren’t half as stupid as what I was thinking about the first time.” With that, Rhys threw himself into the mark again, once more corroding it.
+
+The mark was already more impurities than mana. The mana fought back, but with Rhys right here and Virgil miles away, not to mention the natural purity constraints of mana, the mana stood no chance. It eroded, turning the interior of the mark from a net of shining blue to a filthy pipeline of grody brown-black. The connection between Bast and Luc was laid bare: it was the one pinpoint of mana in the midst of the filth, the strongest, though thinnest, line that connected through the heart of the mark and buried itself all the way home in Bast’s core, drawing out his potential and mana directly from the source.
+
+And then Rhys paused. He turned his attention to stare at Bast’s core. Hold on a second. Something isn’t right here.

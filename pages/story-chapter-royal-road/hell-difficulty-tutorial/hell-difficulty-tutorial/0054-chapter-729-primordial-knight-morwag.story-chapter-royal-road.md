@@ -1,0 +1,139 @@
+---
+id: 1ae8f2c9-0c0a-5f13-bea7-4362e3139b8e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 729 - Primordial Knight Morwag"
+slug: 0054-chapter-729-primordial-knight-morwag
+partOf: hell-difficulty-tutorial
+position: 54
+ownLength: 2220
+unit: words
+publishedAt: 2026-01-14
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2943838/chapter-729-primordial-knight-morwag"
+royalRoadId: "2943838"
+---
+
+Morwag towers over me, standing uncomfortably close. His expression keeps shifting in confusion as we stand outside the Megacity, deep enough into one of the countless canyons of the fourth floor of Beyond for it to have vanished from sight.
+
+“But I was given this mission alone,” he repeats, this time with a harsher voice.
+
+I have a feeling he’s been waiting for us to be alone. I heard the vice guild master scolded him not long ago, so maybe he didn’t want to risk possibly splattering me against the wall while I was still within the vice guild master’s reach.
+
+“They told me to join you for support, mainly to keep watch so no one escapes, and to help you get into shielded rooms,” I say.
+
+“I can just break the walls myself.”
+
+“Look, I’m just doing this for a better contract in the future, not because I like it. You can kill everyone in there, honestly, I don’t even want to level up.”
+
+“Is that it?” His eyes narrow, and the pressure on me increases.
+
+In a flash, I remember what he did to that girl from the triplets and how he traumatized the remaining two.
+
+“It is,” I answer, thinking that as beatable as some S ranks might look, they really aren’t. Most of them are probably going to be future Absolutes of their planets. And since I didn’t get a promotion to S rank even after what I did with the black orb, that says a lot about their strength for them to deserve that rank.
+
+One of these days, I should really fight a few of them. Sooner rather than later. It’s also a shame that Hela’s probably leaving the tutorial by now.
+
+“Is that it?” he asks again and takes another step closer.
+
+I take a step back, look around, and seeing no one else to listen in, I say honestly, “Look, they want me to retrieve any valuable items we find there, especially that pristine one their guild master was trying to fuel with demon hearts or something. One of the vice guild master's assistants made me agree to those terms before even giving me the location. I only agreed because they promised me some very good rewards, and I likely wouldn't have found the hideout on my own.”
+
+“Oh,” Morwag sighs, disappointed, “how pathetic.”
+
+“Man’s gotta eat. And I already made a deal that’ll allow me to study any items we get, maybe I’ll even take some of it as my cut instead of other stuff. If I decide to, they won’t even be allowed to sell them until my tutorial ends, in case I want to study them before then.”
+
+“How boring.”
+
+“Your fucking face is boring,” I snap.
+
+“Huh? What are you going to do about that? Throw your arm at me?” His teeth flash in a daring smile. “Go on, I want to see you do it again, just like one of those damn gray lizards.”
+
+“No, I won’t throw my arm at you. I’ll take yours and shove it up your ass.”
+
+Morwag laughs out loud at that, then turns to walk again, and I follow behind him while he says, “Nyssa told me to erase what’s left of them, and that’s just what I’ll do. If you steal my prey, I will kill you.”
+
+He says it in the same tone he used when he told the triplet he would kill her. I don’t doubt for a moment that he would do it if it came to that, even with my status as a guild member. I’ve learned a bit about him during my stay at the guild. Some from the rumors, others as first hand information from guild members.
+
+In a way, the threats Morwag throws around are cruel because of the sheer certainty that he’d actually follow through on them. But from another point of view, they’re a warning and a mercy, him drawing a clear line beyond which he knows he’ll snap.
+
+As much as it irks me at times, I also realize I’ll probably never find an easy person to cooperate with, not this deep in Beyond, littered as it is with lunatics counted amongst the strongest from Hell difficulty. And in a way, I prefer his clear warnings over the scheming of some backstabbing asshole.
+
+I follow in his steps while constantly checking for enemies or traps laid by the Eternal Clowns. We aren’t that far from Megacity, so I don’t expect monsters in the area, but I can’t let that make me too relaxed.
+
+Meanwhile, with my free mental capacity, I keep replaying what happened during the Beyond quest. Especially the moment when I accumulated all that mana, the feeling of the black orb, the way the orb so weirdly reacted to me, and lastly, the way the Hornless Demon cycled thermal energy through my body. He did it with the full output of Ignition Heart by using a technique not unlike Mana Cycling.
+
+Where Mana Cycling, which I still call the cyclist destroyer, feels complex and layered, the thermal cycling technique he used felt more straightforward and simple, as expected from a demon. It moved through the smallest number of pathways possible, letting it frizzle on the edges and spill through the body. The way it moved felt like a rope of flame through which a whirlpool spun up and down, calibrated for a certain amount of inefficiency and spillage.
+
+I’m sure someone could describe it in fancy mana-science terms. Even I could if I wanted. I’ve picked up dozens, maybe hundreds, of obscure terms while studying the many mana stones that I’ve kept in my possession from the bunker on the fifth floor and the Academy through Min-Jae’s efforts.
+
+But I won’t. Fuck those pretentious assholes.
+
+Instead, as always, I try to remember the feeling itself, because even as my body burned alive, I made sure to observe it all as any other normal person would.
+
+For a moment, I refocus on Morwag, who stops and sniffs the air for a moment. The entire time, he’s been checking the mana stone he holds, likely using it as a map. Now that he’s in hunting mode, he’s quieter, less approachable, and even more dangerous than usual. Combined with his massive build, like Jean’s, his long white hair, and thick horns, it makes for an intimidating sight.
+
+“They have traps set to trigger alarms,” I tell him, referring to a thing I noticed a moment ago with my eye trait, already knowing what he likely senses.
+
+Morwag nods. “Of course they do.” Then, without thinking much, he snaps his eyes toward the ground with a wild expression.
+
+His primordial energy swirls around him and gathers on his palm, the raw force of binding primordial energy now tuned to unbind the connections around it. It cuts off the near-imperceptible lines of the teleportation arrays below, rendering them useless, and doing it all without triggering any of their alerts.
+
+Then he waves his hand and the stone under him cracks open, widening into a tunnel heading deep below the ground, and I watch as light shines from the bottom as it pierces into one of the light tunnels underneath.
+
+Morwag jumps down, and I follow right behind him.
+
+POV Eternal Court
+
+“Can’t you feel it? I swear I felt a draft,” I tell the man standing beside me. That asshole pisses me off, especially since he managed to get a few nice things from the Ancient Armory, but for now, he’s too strong for me to do anything about it. He is a fairly decent A rank after all.
+
+He answers with an annoying smirk, gesturing toward the hallway lit by mana stones. “We’re underground, how the hell would there be wind? Maybe Shyla’s been experimenting with her new item?”
+
+“It could make wind? I thought it had ice-based powers,” I muse.
+
+Before he can answer, another voice cuts in, cold and calm. “There are two ahead of us, and three more further down the hallway to the right.”
+
+I don’t recognize the voice, but hearing their steps, I wait. Something about those words, and the tone they expressed, feels wrong, so deeply wrong.
+
+Then they appear from behind the corner, a huge demon smiling widely at me, his red eyes glowing brighter than the tunnel lights, and next to him a young man with golden circles in his eyes, and an emotionless expression, soaked in arrogance.
+
+“Morwag... It’s fucking Morwag!” the asshole next to me shouts and turns to run, but it’s too late.
+
+The huge, muscular demon moves faster than I expect, reaching us in an instant, and I feel his hand grab my head. The last thing I see is that asshole’s head coming close to mine until they crash together. I hear a crack and the sound of a ripe fruit exploding, and then only darkness.
+
+POV Eternal Court
+
+“N-no, no, no, no, no, please, go away. GO FUCKING AWAY!” My throat hurts as I shout from behind the enchanted crystal glass with a dozen or so layered barriers around it.
+
+I’m locked inside the contamination testing room we’d designed to endure large-scale explosions. It’s still contaminated, but I’d rather be trapped here than caught in the room on the other side. I even destroyed the control panel so they couldn’t get to me.
+
+The room behind the glass is an all-white clean room, filtered and ventilated, but now it’s full of corpses. Ten or more bodies scattered around the chamber. Some have been torn in half, others have been completely disassembled, leaving what used to be their bodies splattered across the white walls.
+
+In the middle of it all stands Primordial Knight Morwag, dressed in a white and pale blue uniform, holding the head scientist by the skull, lifting him high into the air.
+
+The man twitches, still trying to fight back. He throws lightning at the demon, fires light projectiles, and even pulls out a dagger and stabs at him a few dozen times.
+
+None of it matters. None of his attacks hurt the demon, who stands there looking at him, seemingly curious. His body is covered in blood, and there are even drops clinging to his face and staining his skin. Only his long white hair remains untouched by it all, still so pure white. His red eyes look as if they’ve absorbed the blood itself to enhance their color.
+
+Looking at me, the demon squeezes. The head of the scientist bursts in his hand, and the body falls motionless to the ground. The demon then swings his arm, flinging the brain matter stuck to his fingers across the walls.
+
+“I can break it, but I don’t want to trigger alarms and scare the vermin away. Can you do it?” His words sound almost like a challenge as he turns to the other man in the room. The way he looks at him feels much the same as it did when he looked at the people he just killed. It almost makes me feel hope that he might attack him too, even though they both seem to be from the Primordial Knights.
+
+“I DID NOTHING, I SWEAR! I only joined them a few weeks ago, I swear, I promise! Fucking please!” I keep shouting until my voice cracks, but no one hears me. The room’s sealed tight, soundproof, closed off from within. My screams only echo back at me.
+
+In desperation, I start hitting the crystal glass. The other man only glances my way for a moment and says, “I already cut the alarm they tried to trigger, so I can get through the barriers too.”
+
+For some reason, his voice is just as terrifying as the demon’s. Calm, collected, confident.
+
+He turns toward me, a faint shimmer rippling around him. The gold in his eyes burns deeper, pulling me in as the world around him fades to black and white. For a moment, he’s the center of everything, the gold of his eyes the last color in all the world.
+
+Then, with a shock, I watch the barriers shatter one after another in quick succession until none remain.
+
+Seeing that, the demon steps forward and doesn’t even bother breaking the freshly disenchanted crystal glass. And though the glass is still as thick as my arm, stronger than most metals, it means nothing to him.
+
+He walks straight through it. The surface ripples like liquid for a split second as his face and body press against it before the glass cracks open, causing shards of glass that slide off his skin without leaving a mark. Every movement sends more cracks racing through the surface until the entire wall collapses and bursts apart in a cascade of glinting shards.
+
+The demon doesn’t pause or flinch. By the time the last fragments hit the floor, his hand is already on my head, lifting me off the ground with ease, leaving me hanging in the air.
+
+“Nyssa Volare sends her greetings to the Eternal Court,” he smiles.
+
+His fingers tighten. I hear a wet pop before pain floods everything. My body jerks once, then nothing.
+
+The last thing I see is the golden light of the other man’s eyes reflecting off the shards of glass scattered across the floor.

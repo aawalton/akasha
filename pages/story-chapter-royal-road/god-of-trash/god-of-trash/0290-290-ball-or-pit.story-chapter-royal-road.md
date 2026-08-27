@@ -1,0 +1,87 @@
+---
+id: d9bd97a3-6343-5015-b079-a54c20757691
+page-type-slug: story-chapter-royal-road
+title: "290. Ball or Pit"
+slug: 0290-290-ball-or-pit
+partOf: god-of-trash
+position: 290
+ownLength: 2260
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3185647/290-ball-or-pit"
+royalRoadId: "3185647"
+---
+
+They entered the ballroom. Lily immediately abandoned him to go chat with some other girls, and Rhys was happy to let her go. They wouldn’t be debuting as the new happy couple, but that was okay. If everyone thought things were status-quo, and Lily had just managed to somehow drag her shitty addict husband to the ball, then he was far more likely to be able to move around without anyone noticing too much.
+
+Though, even as he thought it, he couldn’t help but notice all the mage-nobles stealing glances his way. He twisted his nose, slightly annoyed. Hey, hey. I know ‘I’ haven’t been to a ball in a while, but surely it’s not that exciting?
+
+Then again, these guys were the popular kids, the ‘society.’ There was nothing popular kids liked more than drama, and he’d gone and provided them all with a delicious twist. Rhys sighed, running a hand through his hair. No, that’s on me. That’s my bad. I should’ve seen this coming. It was so obvious that people would take interest in Norton’s sudden return to society; it was the opening shot in endless period dramas and romances, for the male lead to suddenly return to society after a long, mysterious, unexplained absence. And what had he done, if not exactly that?
+
+He retreated to the wall and leaned against it, browsing the crowd in silence. If they were going to be interested in him, then the only thing he could do was to be very, very boring, and hope they lost interest before too long. Fortunately, Norton Tunk was married and therefore not a promising suitor (an important aspect of all those suddenly-returning mysterious male leads), so there was still hope that they’d overlook him after a little while.
+
+Lily happily chatted with her friends across the way. The longer she spent away from him, the happier she looked. It was fair enough. He didn’t like her, and evidently, the feeling was mutual. Sometimes, people were just incompatible, and there was nothing anyone could do about that.
+
+At this point, he was just waiting for Virgil to show up. He kept his mana senses extended, scanning the room nonstop, but didn’t sense anyone but the random mage-nobles he saw. None of them stood out to him, nor did any of them seem particularly associated with Virgil, but the room was relatively low-tier right now. Aside from him, no one pushed beyond mid Tier 2, and he was suppressing his power to just about the same level. Virgil didn’t seem like the type to hang with low-level dudes, so if he was going to make an appearance, it wouldn’t be until the ball was well and truly going, not now, when there were just a few lonely weak mages milling about pointlessly.
+
+If this was a celebrity ball, then he was currently hanging out with the kind of D- and F-list celebrities who wouldn’t make the cut on the fashion lineup even if they walked the carpet wearing the most extreme, most political, most outrageous gown possible. Virgil, on the other hand, was the kind of A-list guy who’d appear in the photo lineup even if he showed up in a department-store suit. He wouldn’t deserve it, but he’d be there anyways like the waste of space he was.
+
+That had always pissed him off, honestly. He wasn’t enough of a celebrity-chaser to actually go looking for celebrity pics, so he just got whatever the news outlets put on their front pages, and that meant he usually got the crème de la crème of celebrity pics. When that was very beautiful women in fantastic and sometimes revealing gowns, that was amazing. When it was dudes in inventive and fresh outfits, playing with colors and textures, that was also fine. When it was some white dude-ass dude in a white dude-ass tuxedo that he could’ve rented at the local downtown prom store except it probably cost thousands for no reason since it looked the same as every other tuxedo—that was decidedly, markedly, not fine. If he wanted to see dudes in tuxedos, he would’ve gone to prom. He wanted to see hot people in cool, haute couture, borderline cosplay gear, not boring old men in generic suits.
+
+The ballroom slowly filled. Rhys pushed off the wall and wandered the ball, dropping tiny hoops of trash as he walked. He anticipated a high quantity of short jumps in his future, and where better to teleport than a target-rich environment where Virgil would be afraid to launch his big attacks… or better yet, where he would launch big attacks despite all the mage-nobles around, and consequently piss off a lot of mage-nobles.
+
+It wasn’t good behavior on Rhys’s part (honestly, it might qualify as a war crime), but it was strategy. A trashy person like him could disregard good behavior for the sake of good strategy. He peered around, then wandered off into the back halls and added a few back there as well, just so he had options. He also had the ones he’d scattered all over the town, and the ones distributed around the world as well, but they were less relevant to the impending final battle, with one very important exception. Even though he could freely flee, he wasn’t interested in doing so. This was the time. The final confrontation with Virgil and the Alliance. He didn’t intend to back down.
+
+…Unless he really, really, really underestimated the Alliance’s devotion to Virgil and Virgil’s personal power. In that case, then all those hoops scattered over the world were a nice backup plan that he’d definitely set up deliberately beforehand so he could flee.
+
+Burning to death? Warp out! Falling to your doom? Warp out! The final boss is about to oko you? Just warp out!
+
+Virgil wasn’t a giant pig monster and no one was taking wild breaths, but it was the same idea. It wasn’t plan A, but it was always good to have plan Bs. Especially when having unprotected good times.
+
+Focus, Rhys. Let’s lock in and get the job done. You’re bouncing off the walls (mentally) because you’re nervous. Slow down. Think. He paused. Or maybe don’t think. Too much thinking. Think less.
+
+Ooga booga.
+
+“Excuse me, sir. Are you looking for something?”
+
+Rhys looked up. A servant stood before him, a slightly confused expression on his face. He rubbed his nose. “No, just, ah. Needed a moment away from it all.”
+
+The servant gave him a skeptical look. “Could I show you back to the ballroom?”
+
+“Sure, why not.” He was currently wearing the face of a guy who had previously had a reputation for sneaking off during parties and having a very good time all alone with some party dust, so it made nothing but sense that he was on the ‘shepherd them back’ list. And that assumed that anyone was allowed to wander the mansion. Given how much valuable stuff was in here, he would only be surprised if people were given free rein of the place.
+
+The servant bowed and gestured for Rhys to follow him. Rhys fell in line, out of boredom more than anything. He’d already seeded plenty of plan Bs, so he was good to go. Besides, things should be heating up by now; he could hear the sound of conversation from here, and there was now a low, quiet hum of music to accompany the conversation. The ball was getting started. Not yet in full swing, but it was getting started enough for him to start to take account of the power level of the ball, instead of it only being the losers and weaklings who had to show up early to get any attention.
+
+He stepped back onto the ballroom floor, and was shocked at the escalation of power. A blast of Tier 3- and borderline 4 power rushed at him the second he arrived. Rhys checked his suppressed trash core, just to be sure, but it was still around Tier 2 to low Tier 3, about where Norton Tunk’s power was, or could conceivably have reached in the time since he’d died. A moment later, the power retreated a hair as he felt dozens of mana senses withdraw from him, but they remained close, ever pressing at the edges of his attention.
+
+Sweat dripped down his back, and he wiped his brow. Phew. So this… is the mage-nobles’ might. Alone, they didn’t amount to much. Together… together, they were a force to behold. And this wasn’t even the full might of the nobles. More still entered the room even as he watched, growing stronger and stronger as the time ticked down to the formal start of the ball.
+
+If he had to fight them all, he didn’t like his chances.
+
+Right. Which is why I have the plan. It’s why there’s an order to my operations. If we were just multiplying and adding willy-nilly, we wouldn’t get any math done. If we just grab Bast without handling the mob, I’ll die by the mob. Order! Of! Operations!
+
+He breathed out, once more resolved in his decision to stick to the plan rather than wing it. Sometimes, he had to do the less-trashy thing in the moment so he could do more trashy things in the future. It was an unfortunate truth of his life that he couldn’t always take the easy trash out when he had a hard trash on the way. Or… however he should actually phrase that. He had the feeling things had kind of slipped away from him there.
+
+Once the pressure of everyone’s attention slipped off of him, he stealthily scanned the room once more, both visually and with his mana senses, but Virgil still wasn’t in attendance. He scowled. Come on, Virgil. This is one of the biggest balls of the season! Madame Tunk herself picked it before she knew of my evil objectives! Well, she still doesn’t know exactly what they are. But she knows I have evil objectives and wanted to mingle with Virgil!
+
+A thought flashed through his mind. Surely she wouldn’t have interrupted his chances of meeting Virgil here, right? She didn’t seem super into Virgil, since she’d carefully stated her neutrality and all, but she did also value stability. Had she gone to Virgil and told him… well, no. If she’d told him, with Virgil’s over-the-top paranoia, there was no chance that Rhys would be allowed to stay within the capital, let alone walk into the ball. At worst, she’d gone to Virgil and gently nudged for him to not attend the ball.
+
+There’s no way she did that, though, right? She wants to be on my good side, and she knows how strong I am. She isn’t going to risk her life, or anything too crazy. Besides, with as paranoid as Virgil is, just mentioning that I’m here, let alone hiding out with her daughter-in-law, might be enough to get her imprisoned and killed. She’s smart enough to understand that, and if she went to him and a conflict broke out, with the power levels involved, there’s no way I wouldn’t know about it… no way the whole city wouldn’t know about it.
+
+Deep breaths. Focus. He just hasn’t showed up yet. No one’s betrayed you, he’s just taking his sweet time. He’s being fashionably late, and I’m freaking out over nothing.
+
+At the far end of the ballroom from the double doors where the more important couples were being announced to the room, plush rose-colored curtains drew open. For the first time since he was a child, and he and Bast were separated from Straw, he laid eyes upon Illya Traje.
+
+She looked just as she had when he was a child, if his eyes were somewhat less blinded now by the beauty of a high-rank mage. Today, she wore her hair in a long braid that hung over her shoulder, and was dressed in a tight-fitting strapless crimson gown that blossomed into a rose around her chest. Even so, she still carried her whip at her hip, in typical mage fashion. She could’ve put it in her storage ring and still been armed, but she, and most mages, including mage-nobles, preferred to wear their weapons openly.
+
+I guess maybe… there’s someone out there who can shut down storage rings, or something? Or they’re worried about the split second it would take to draw their weapon from their ring? Or, you know, it’s just a giant dick-measuring contest, and everyone wants the world to know that they have the biggest sword. Rhys shrugged. It didn’t really matter; it was just one of those strange things that society would do.
+
+Illya spread her hands, displaying her rose-red nails, and smiled at her attendees. “Welcome to the annual Rose Gala. I hope everyone has a marvelous time tonight. Thank you for…”
+
+Rhys tuned out. He turned toward the door, waiting. They’d finally hit the time of ‘fashionably late,’ which, if his instincts were right, meant Virgil should be appearing at any moment now.
+
+Illya’s speech wound on. As it drew to a close, a trio quietly entered through the double doors. Though they entered discreetly, a hush instantly fell over the crowd, and all eyes shifted from the climax of Illya’s speech to the entrance.
+
+Rhys stood off the wall. He stared along with everyone else, his breath catching in his throat.
+
+There he was. At long last, flanked by the Sword Saint and his apprentice, the man of the hour: Virgil.

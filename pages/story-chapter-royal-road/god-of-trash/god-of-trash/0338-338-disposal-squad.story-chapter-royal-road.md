@@ -1,0 +1,95 @@
+---
+id: bd4e3404-eb01-579d-b6f9-fab843f0c76d
+page-type-slug: story-chapter-royal-road
+title: "338. Disposal Squad"
+slug: 0338-338-disposal-squad
+partOf: god-of-trash
+position: 338
+ownLength: 1895
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3690875/338-disposal-squad"
+royalRoadId: "3690875"
+---
+
+Mana burst out of the orb, enveloping Rhys. He jumped back, retracting his hand as if he’d been burned. The mana instantly subsided, retracting back into the orb—or rather, it had never left. Merely touching the orb was so intense that Rhys had thought he’d been enveloped, but really, he was just experiencing the orb. In truth, it wasn’t even the full orb, just a tiny fraction of the orb and its potential, not even unleashed at its full ferocity.
+
+Holy shit, he thought, staring at it, his hand still behind him. The gap in Ryota’s core was tame compared to this thing. It was like they’d created the same kind of gap in… in reality, I guess—but then weaponized it, compressing that fierce mana into a tiny space where it infinitely raged unto itself, boiling hotter and hotter until it finally exploded.
+
+Explode, huh. Rhys pressed his lips together. Am I looking at the mage equivalent of a bomb?
+
+In his world, bombs were separated based on what exploded and how big the bomb was. Bombs that exploded volatile chemicals, for example, were considered far less dangerous than bombs that exploded atoms, but in either case, the bigger the better. In this world, though… that wasn’t necessarily the case. The size of the bomb said nothing about how dangerous it was. A tiny artifact could do dozens of times more damage than a large spell array. Of course, it was more likely that the large spell array would do more damage, since it took far more skill to bind a large quantity of damage into a small space, but small size didn’t exclude cataclysmic damage.
+
+This orb was about the size of a basketball. Just looking at it made him want to hit the three-point pose and try dribbling, no matter how inadvisable it would be… though in this world, he definitely had the dexterity to not make a total fool of himself on the court. The inadvisable portion in this world had more to do with the fact that it might be a bomb than the fact that he’d look like an idiot bumbling around on the court.
+
+He sat in front of it, gazing at it. It was a bomb, and he’d taken it right where the enemy wanted it. Usually, he’d be freaking out, but there didn’t appear to be any remote trigger mechanism, and with his trash and mana senses fully extended, searching for voids as well as presences, he was pretty sure he could intercept and alter a trigger signal before it hit the bomb. There was a nice neat inscription on top of the bomb where someone had drawn a magic circle which felt infinitely more like a trigger than anything else he could see.
+
+I guess it’s a time bomb? Either that, or these guys are way more dedicated to the cause than I thought. A tactile-based trigger meant whoever set it off had to be right on top of it. Either there was a delay between touch and activation, or this was a one-way-trip kind of bomb. Seemed a bit extreme for sibling-rivalry-palace-politics, but then, he’d killed a lot of Fifteenth’s soldiers just today, and that wasn’t even accounting for the water sprites. Death was a little more present in this world, making a manned tactile trigger bomb… not more reasonable, but maybe less extreme?
+
+I should take this into the void to keep studying it, Rhys thought. He undid the straps, then pulled out a hoop and passed it over the orb.
+
+The second the hoop touched the orb, it shattered. The orb remained in the vault. It didn’t even shift in its seating.
+
+Rhys blinked. He looked at the broken hoop, then at the orb. The hoops were disposable, so it wasn’t like it was an unseen possibility for one to break when he tried to use it, but this was certainly the first time one broke on the first use attempt. He pulled out another hoop and passed it over the orb.
+
+With a sharp snap, the hoop broke.
+
+He tilted his head. Huh? One hoop was happenstance. Two was a pattern. He drew out a third one just to be sure, making certain to pick a freshly made, Tier 5 hoop, but it broke just like the rest.
+
+Is it because the orb is too high energy, or something? Maybe there’s a limit on the amount of mana I can push through the hoop. I’ve never hit it before, but this thing is certainly some of the most concentrated mana I’ve ever seen. He picked up the orb, then paused, shuddering as the uncomfortable sensation of being immersed in someone else’s raging mana passed over him. Forcibly pushing it down, he pulled the orb into his core, then pushed it toward his original void entrance: the hole in his core.
+
+As the orb approached, the hole shuddered. It didn’t close; it couldn’t do that. But instead, the aura of the void passed through into his core for the first time. It pushed back, forcibly stopping Rhys from pushing the orb any further forward in his core.
+
+That’s strange. Rhys pushed a little harder, and the void pushed harder back. Harder and harder, until he was using all his strength, but the void easily matched him, then outmatched him. He frowned. It had never rejected anything before, no—he hadn’t even known it could reject things. What was this? Some kind of diametrically opposed magnetism?
+
+He pushed as hard as he could, summoning all his mana and trash energy and pitting it against the void. He wasn’t stupid or conceited, thinking he could match an entire realm’s power with his own, but he was curious. Right now, he was just being rejected ‘normally.’ If he pushed as hard as he could, would that change? Or was he so insignificant that he couldn’t even push past this anti-magnetism sensation?
+
+Well, it’s also possible that something about this orb is opposed by the very nature of the void, and that I’m simply never going to overcome the rejection—like trying to put two rare earth magnets’ matching sides close to one another. But something told him that wasn’t all, so he kept pushing. He wasn’t sure what it was. A gut feeling? A faint glimmer of something ‘beyond?’ But whatever it was, he needed to know.
+
+The rejection grew, matching him in power. As he reached the limits of his strength, it began to force him back, pushing the orb away from the void. Rhys kept pushing, obstinately refusing to give up. Come on. Whatever this is, show me a hint!
+
+The energy pushed and pushed, forcing him back. It had gone beyond a mere repulsive force now, becoming a force in its own right, one that overwhelmed him. Still, he continued to push. This was no longer about the orb, or about placing it in the void. This was about the void and its nature, and he needed to know that more than he was worried about the orb.
+
+There was a touch. He felt a connection, a—
+
+A tentacle slammed through the hole and smashed Rhys back, hammering his consciousness and cutting a rent in his core wall at the same time. He went flying, still completely outmatched by the void beast. After one strike, the tentacle retracted, but the gaping hole in his core remained, sucking his garbage and trash star toward the void.
+
+There was no more time to play. Rhys retrieved the orb and set it beside him back in the material world, then dove back into his core. Rapidly, he applied impurities to the gash, cycling them into mana, then cells to heal the gash in his core wall before he lost too much trash. It wasn’t the first time he’d repaired his core, or at least wasn’t the first time he’d rebuilt it, and the gash quickly closed. Before it fully closed, he poked his head through it. The void beast lingered, an enormous blob on the horizon so large that he struggled to comprehend the shape of it, and at the sight of him, it quickly lashed out again. Rhys ducked back inside, taking as much of his trash with him as he dared. The tentacle swept by, so close it shook his core, but did no more damage.
+
+He breathed out. He had deliberately provoked the void, so he should’ve foreseen this outcome. He’d gone well beyond staring into the void, and the void had, commensurately, gone well beyond staring back. He couldn’t blame it for sicing the void beast on him—or even rightfully blame the beast, if it had simply been angered by his actions and attacked on its own.
+
+But that was the thing. That sensation. The faint brush. He’d felt an intelligence in the void. A will, a desire. It wasn’t just the void beast moving on its own; it had been directed. There was something out there. Something that ruled the void, that orchestrated its motions. And not only that: whatever it was, it knew of him and allowed his actions… most of them, anyways.
+
+He was on the verge of something. If he figured it out, he’d leap ahead in another breakthrough. Something held him back for now, but it wouldn’t forever. He’d figure this out, and when he did…
+
+Holy shit, Rhys thought. His heart raced, and he pressed a hand to it. This was huge. This had the potential to change everything. He just had to figure it out, and then—
+
+“Rhys? You okay in there?” Lira called for the second time.
+
+“Yeah, I’m fine. I was just playing tug-of-war with a bomb and the void, don’t worry.”
+
+“Don’t worry? That sounds like something I should definitely worry about!”
+
+Rhys opened his mouth to quip back, then froze, looking at the bomb. He’d been so overwhelmed by the near-breakthrough, by everything he’d learned just now, that he’d totally forgotten his original objective was bomb disposal, and additionally, that he’d carried the bomb into his own allies’ camp like an idiot. Fifteenth couldn’t have done better himself.
+
+Luckily, I don’t think he knows what I’ve done yet, but that won’t last forever. The fog of war is only so strong. Rhys picked up the orb and held it out in front of him as far as he could. “I’m, uh, going to go now. I’ll see you in a little bit, okay?”
+
+“Good luck,” Lira said, eyeing him and the orb from a good distance off.
+
+“Oh, uh, and I think I disarmed all the traps—”
+
+“With what, your body?”
+
+“I mean… yeah, basically. But I’m not sure, is the point. I might’ve missed one. So don’t mess around with the vault—”
+
+“So you can come back and throw yourself into it for giggles?”
+
+“I’m worried about everyone’s safety, too!” Rhys protested.
+
+“Uh huh. Don’t worry. I don’t think anyone else is excited about the vault, so they’ll leave it alone.”
+
+“Okay. Good.” With that, Rhys took off, holding the orb in front of him by his fingertips like a dirty diaper. He sprinted over the sand and toward the water barrier, rushing away from the sandcastle with all his might.
+
+The orb trembled. Light shone through the magical circle atop it. That fierce mana raged, hurtling outward at speed.
+
+Oh fuck—

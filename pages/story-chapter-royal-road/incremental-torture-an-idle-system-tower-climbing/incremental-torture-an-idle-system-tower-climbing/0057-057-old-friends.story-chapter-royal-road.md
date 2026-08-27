@@ -1,0 +1,199 @@
+---
+id: 1e06fab8-09bd-5d0f-a75c-257c8f0f9a19
+page-type-slug: story-chapter-royal-road
+title: "057: Old Friends"
+slug: 0057-057-old-friends
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 57
+ownLength: 2268
+unit: words
+publishedAt: 2024-06-19
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1683743/057-old-friends"
+royalRoadId: "1683743"
+---
+
+Evelyn had made quick work of the first few enemies. Compared with the last time she had encountered the magma elementals, they posed little challenge.
+
+It took her just ten minutes to reach the lake of lava and as she walked down the winding path that led to the base of the cliff, she considered her strategy against Anathalan.
+
+Just because she had defeated the mini boss once before, didn’t mean she could take the monster lightly. It wouldn’t be as much of a threat, but it could still deal some real damage if she approached the battle with anything less than her full strength.
+
+This time around, she spent a few minutes clearing the area of the medium sized magma elementals before triggering the mini boss encounter.
+
+They wouldn’t be anything more than annoyances, but it was better to remove any variables that could change the outcome of the battle. Evelyn didn’t just want to defeat Anathalan, she wanted to obliterate it while taking as little damage as possible.
+
+Conserving her full power and keeping her body in peak condition for the clash with Dazurmagon was her priority.
+
+Her hammer shattered the core of the last elemental with a clang, showering her with fragments of rock and flecks of lava. They singed her flesh where they landed but the damage healed straight away.
+
+As soon as the final blow was struck, she approached the shore of the bubbling lake of lava and it began to ripple. Rocks tumbled down the side of the cliffs and the ground shook, heralding the approach of an old foe.
+
+This time however, when Anathalan burst forth from the frothing lake in a shower of lava and molten stone, Evelyn was not taken by surprise.
+
+❰ Instance - Mini Boss Raid ❱
+
+Defeat the Mini Boss ‘Anathalan the Hellbringer’
+
+Mana, which she had been gathering in preparation, guided by the skill and her own knowledge of it, exploded outwards in a flash of flame and a splash of frost. The ground cracked and split as she launched upwards, gripping her warhammer in two hands and sailing towards the mini boss’ neck.
+
+Its beady black eyes flicked to her approaching figure as it took in the surroundings, but it had no time to react to her rapid opening strike.
+
+Metal clashed with molten stone, and came out on top. Her warhammer smashed through the mini boss’ neck and obliterated most of it in one swift blow. It was only thanks to her rapid reactions that such an attack had been possible.
+
+Anathalan was quick to respond, launching a salvo of fireballs at itself in order to remove the pest which threatened it.
+
+Despite the approaching danger, Evelyn did not move to dodge. She was confident in her ability to withstand the flaming missiles. And if she let up now, it would be difficult to find another opportunity to reach the mini boss’ core.
+
+With a grunt of effort she raised the warhammer up high, right as the first fireball exploded against Anathalan’s shoulder. A wave of superheated air and a little jet of flame buffeted her and the skin on her right arm blistered and burnt.
+
+It was painful, but within tolerable limits. For Evelyn, those limits were well beyond what the average person could endure. She had experienced enough pain in the tower to have become comfortable with it.
+
+So, even as a second fireball exploded against her feet, she swung her hammer with all her might against the base of the mini boss' broken neck.
+
+Evelyn panicked for a brief moment when she lost her vision. The combined flash of the exploding fireballs and Anathalan’s torso shattering into dust as her warhammer smashed through it had blinded her. When the smoke and debris cleared, she found herself falling, grip on the hammer loose as her skin writhed, knitting itself back together.
+
+Her blow however, had been successful. A cracked red sphere was exposed, jutting out of the broken body of the mini boss which hung limp in the lava lake which spat at the red stone all around them.
+
+The problem was, the arc of her fall was carrying her away from her target rather fast and she didn’t want to take the risk that Anathalan could heal itself. Losing her chance to end this battle in a single clash would be disastrous.
+
+As the air whistled past her ears, Evelyn pulled on her mana and readied her hammer. Three seconds later she unleashed Flashfreeze Flamecharge and shot through the air, leaving a glimmering trail of frost and sparks behind her.
+
+She felt a pulse of mana from the scarlet core right before her hammer made connection and shattered it into a million fragments. Falling down to the magma beneath, she lost a few moments staring in wonder at the fragments sparkling in the air.
+
+❰ Mini Boss Raid Clear ❱
+
+Time Taken: 1 Minute, 3 Seconds
+
+Clear Rating: A
+
+Your rating has granted you a superior reward! You have received Rare Skill Crystal x2 as a clear reward.
+
+It was a fantastic reward, one that she planned to use as soon as she had crossed the lake. However, Evelyn noted that her class had not levelled up once the whole time she had been on the 16th Floor. That could mean a few things, though she hoped it wasn’t the worst case scenario that she’d imagined.
+
+Which would be that it was impossible to gain experience from enemies or sections of a floor which you had already defeated once.
+
+She didn’t believe that was what was happening. At least not yet. She had only reached Lv.14 right at the end of her last attempt, so it was possible she just needed to take down more foes to tip her over the edge.
+
+This time, she knew her way around the lake. The cliffs had remained intact however, which meant her path was a little different, but still not a difficult crossing.
+
+Standing on the opposite shore, she took stock of her wounds. The skin on her right arm had healed most of the blisters and burns, but there was some redness and stinging that remained. Around ninety percent of her mana was left and her energy was in peak condition.
+
+The same five paths greeted her when she passed through the circular gate of red stone and made her way to the mountain plateau.
+
+One tempting option would have been to try out a different path to before. Perhaps an exciting new challenge would await her, one that would be a little less perplexing than the strange puzzle of the previous run.
+
+That would take time that she probably did have to spare, but her mind was pushing her to just sprint towards Dazurmagon the Worldshaker as fast as possible, ignoring any distractions on the way.
+
+However, Evelyn decided here to take a seat and consider her options properly before advancing. It might have seemed counterintuitive but she had solid reasoning to do so. Since her last attempt at the 16th Floor she had acquired a litany of new skills and bolstered her attributes, such that it should be easier to take on the hyper boss.
+
+A pessimistic part of her mind was telling that it still wasn’t enough. That even with her extra preparation and knowing what to expect, the magma giant would still pound her into paste.
+
+Which wasn’t an unreasonable assessment to make. Would one or two new skills really change the outcome of that battle? The hyper boss had been a manageable threat in its initial state, but following the transformation and the beginning of the second phase she had barely been able to follow its movements, let alone battle it on even footing.
+
+No, she needed something more to push her over the edge of uncertainty.
+
+There was no guarantee that taking a new path would offer her the push she needed to reach the requirements for her first ascension, but Evelyn was willing to take the risk. Losing for a second time was an unacceptable outcome.
+
+So, rather than following the path to the previous puzzle, she opted for the final cavernous entrance on the right of the plateau and made her way inside.
+
+Telling the passage of time was difficult everywhere in the tower, but even more so in the dingy cave with no sun or shadows to mark the hour of day. All she had was her star income, but that could only tell her so much when it rolled in every six hours. Ish.
+
+After what seemed like half a day of walking in darkness, she spotted a red tinted light at the end of the tunnel.
+
+Her footsteps, which had been dragging, picked up speed as she approached the exit. However, rather than the challenge Evelyn had been expecting she found herself at the same place she had after witnessing the history of the tower. A red, rocky plateau.
+
+So while I had to battle Anathalan once more, this particular part of the floor is forever locked to me after what happened the last time? Is that unique to me or does it happen to everyone? I’ll ask if I ever meet someone who has reached this far.
+
+Getting through the plains of torture wasn't difficult. Just arduous. Facing the countless imps throwing themselves at her until she was beaten bloody and raw, left unable to move any more wasn't much of a mental exercise. Given what Evelyn had been through already it felt lacking as a challenge. Though she supposed she might not feel the same way if she hadn't thrown herself into so many dangerous and terrifying situations alone.It was entirely possible she was using the tower as a way to punish herself. For what, she wasn't sure. After emerging, renewed, from the near infinite trial, there was only one obstacle left in her path.
+
+Dazurmagon the Worldshaker.
+
+The hyper boss was an absurdly powerful enemy, almost insurmountable in strength. Which meant she would need to push herself to the absolute limit, using everything she had learnt and remembered during their previous clash to make sure she kept herself in peak form as long as possible. At least until it entered the second phase, she thought.
+
+It wasn’t hopeless.
+
+Evelyn had a few things going for her that she hadn’t the last time. Her fortitude was far higher, which meant she would be able to hold out against the hyper boss’ blows far better. She had access to a few new skills, the most potent of which would let her have an instant attribute multiplier - Celestial Resonance could hold the key to her victory.
+
+Rare Skill Crystal has been consumed! You have received the following skill:
+
+Blowbreaker (Rare) - When receiving critical damage, transfers a large portion of it to the surroundings instead, as long as the user has mana remaining. (Variable Mana Cost)
+
+Rare Skill Crystal has been consumed! You have received the following skill:
+
+Signal Failure (Rare) - Using mana equivalent to the strength of the target, you can cut their connection to their mana temporarily. (Variable Mana Cost, 5 min cooldown)
+
+And thanks to these two new skills her chances just got even better. Evelyn wasn’t sure if the magma elementals even functioned on mana, but she had to assume that was what powered their cores. It would be confusing for monsters to run on an entirely different power system than the challengers did.
+
+Though she thought Blowbreaker would be the stronger of the two.
+
+Here at least, being able to survive a lethal blow against a close quarters combatant like Dazurmagon the Worldshaker would be an invaluable tool.
+
+Perhaps, even without having achieved her first ascension it would be possible to defeat the 16th Floor. T and Eleanor could do it. Hell, if Kyron could do it with them, why couldn’t she?
+
+Evelyn hefted her warhammer in both hands as she approached the familiar arena. Towering pillars jutted from the stone circle and reached towards the hellish sky above. The dark clouds rumbled with thunder and flashed with scarlet lightning as she took her place, ready to receive her foe.
+
+This time, when the colossal giant fell from the sky and smashed into the arena, she managed to stay on her feet. Even that small accomplishment gave her hope for the battle ahead. She unleashed a roar of challenge, more to psyche herself up than intimidate her enemy, as she leapt forth into the fray.
+
+❰ Instance - Hyper Boss Raid ❱
+
+Challengers, you have braved the trials of the 16th Floor and emerged victorious. One final obstacle stands between you and success. Dazurmagon the Worldshaker is a powerful foe - one who will require the cooperation of many powerful warriors to bring to his knees. Good luck!
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.14
+
+|Attributes|
+
+Power: 21 (24)
+
+Speed: 12
+
+Stamina: 12
+
+Vitality: 31 (37)
+
+Mana: 26
+
+Fortitude: 62 (101)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Bulwark (Rare), Galactic Expansion (Unusual), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Rare), Arcane Shield (Common), Salvo (Common), Mana Wielder (Rare), Master of Combat (Rare), Blunt Force (Uncommon), Oppressive Force (Uncommon), Magma Affinity (Uncommon)
+
+~Active~
+
+Flashfreeze Flamecharge (Rare), Celestial Resonance (Rare)
+
+~Hybrid~
+
+Soul of the Unstoppable Conqueror (Unusual)
+
+Essence: 49050701『+1021784 / 5:54:24 hours』
+
+~~ Stars ~~
+
+Grey: 236White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+**Guilds**
+
+**Property**
+
+【KILL】

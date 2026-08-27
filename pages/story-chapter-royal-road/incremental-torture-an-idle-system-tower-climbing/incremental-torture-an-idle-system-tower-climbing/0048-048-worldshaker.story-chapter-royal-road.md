@@ -1,0 +1,129 @@
+---
+id: faeb16d5-d653-508b-834e-b2e9c97a3408
+page-type-slug: story-chapter-royal-road
+title: "048: Worldshaker"
+slug: 0048-048-worldshaker
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 48
+ownLength: 1986
+unit: words
+publishedAt: 2024-05-29
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1655435/048-worldshaker"
+royalRoadId: "1655435"
+---
+
+Rather than let Dazurmagon claim the initiative, Evelyn charged straight at the colossal monster with the intent to strike the opening blow.
+
+She knew that nothing but her best would be enough to damage the beast. Before her foot could touch the ground after her first step, she was pulling on her mana. In order to strike at the boss’ vital points she would first need to reach them.
+
+A task that was far easier imagined than pulled off.
+
+So rather than aim for unreachable heights she settled for first hindering its movement. A trail of glittering frost exploded across the floor of the arena as she launched towards Dazurmagon’s unshackled ankle and her body erupted in flames.
+
+This time, she would not just rely on her fists. Her new skill, Master of Combat, gave her a proficiency boost with all weapons. And she had a marvellous weapon to use, courtesy once again of Kayla.
+
+It was a simple matter to take the warhammer from her inventory, even while flying towards the hyper boss. It appeared in her hands and she secured it with a two handed grip. The flames of her skill expanded to cover the weapon - a function she hadn’t expected.
+
+Though it was a welcome one. Every boost to her damage was one she would take. She raised the hammer, making sure it wasn’t countering her forward momentum.
+
+Right before she reached the huge ankle, Evelyn swung with all her might and unleashed a second cast of Flashfreeze Flamecharge. The effect was far greater than she had been expecting.
+
+There was a loud clang as the solid head of the warhammer collided with the equally solid stony flesh of Dazurmagon’s ankle. Even though the hyper boss body was forged from stone, it couldn’t stand up to the full powered blow of Evelyn’s - especially when augmented by the force of her many skills.
+
+Despite shattering a small chunk of its stony flesh, the boss was unfazed. In the grand scheme of things it was akin to an ant biting her own ankle. Annoying, but not crippling.
+
+Yet Evelyn was not deterred. Battling a boss was a marathon, not a sprint.
+
+In most cases at least.
+
+Her momentum carried her through Dazurmagon’s legs and she skidded to a halt on the floor of the arena. It only took a moment for her to pick herself and her warhammer back off the ground. With no time to delay, she charged at the wound she had dealt to make another attack.
+
+It was a simple matter of using Flashfreeze Flamecharge and swinging the flame empowered hammer to deepen the dent in its ankle. This time though, the hyper boss reacted far quicker to her strike.
+
+The shackled foot which had remained still until now stirred. It raised it off the ground with speed unbecoming of such a giant and stomped towards her as she struggled to her feet. Just the air wave caused by its descending foot was enough to push her down. Staying upright felt like trying to lift a hundred kilos.
+
+Evelyn was able to get hold of herself in time. Moments before a stomp that made the whole world rumble smashed into the red stone, she threw herself to the right.
+
+While she avoided being crushed by the hyper boss’ heavy strike, the impact of it still threw her into the air and shook her to the core. Out of the corner of her eye she spotted a brownish-red fist flying towards her and rapidly pulled mana to the base of her spine.
+
+Flashfreeze Flamecharge sent her hurtling upwards once more, out of the path of Dazurmagon’s fist. Even while avoiding the boss’ attacks, Evelyn had been damaged a little.
+
+However, it had also given her an opportunity she hadn’t expected to receive so soon in the battle. As the last dregs of momentum petered out, she saw that she was hovering right above the beast’s arm.
+
+A path to victory had revealed itself.
+
+As she fell through the air, the boss was not content to sit still. It’s arm, which was in such a convenient position, started to shift.
+
+If she did nothing then Evelyn would fall back to the ground and end up back at square one. She refused to allow that to happen. So after a few seconds of gathering her mana, she unleashed her charge - a regular one - and shot towards the boss like a meteorite.
+
+And she landed with the impact of one too. Shards of stony flesh and specks of blood with the consistency and heat of lava went flying as she smashed into the monster’s forearm. Yet all the reaction she got was a glance of annoyance.
+
+That was fine, though. Dazurmagon would soon realise how much of an error treating her as insignificant was. With fire in her eyes she started to dash up its arm.
+
+Along the way she had to avoid a plethora of obstacles - falling rocks that chipped from its flesh, small valleys in the stone and fierce spikes that formed natural armour. Worse, it wasn’t content to sit still and let her act.
+
+Its other hand was raised and it started to drop, like a human swatting a fly. Evelyn had only managed to reach the crook of its elbow after all her mad sprinting and it seemed like she might be unable to avoid its strike.
+
+Her fears were proved correct when the stony palm hovered just metres away from her and she was far from being out of its reach.
+
+Rather than make a futile attempt to avoid the slap, Evelyn decided to make a stand. It was what she was all about, after all. She wound her arms back and steeled her nerves.
+
+Perhaps attempting to match a stone giant thirty times her size in a clash of blows was an act of stupidity. A saner person would have used their opportunity to return to Haven the moment they were faced with the hyper boss alone, but Evelyn was no ordinary challenger.
+
+The force of ten men was behind her hammer. Ten regular men, at least.
+
+Dazurmagon’s palm was halted for a brief moment as her strike collided with it. The warhammer left a crater in the centre of the hand, but her power was finite. When just under a second had passed the heavy stone arm continued its descent.
+
+It was regrettable that she had to give up on the opportunity to reach its vitals, but her life was more important. Her blow had bought enough time for Evelyn to gather her mana, and as the monster’s slap connected with its arm she launched herself towards the ground with Flashfreeze Flamecharge.
+
+There was a short breath of time where she thought she had missed her jump. However the boss' hand just shaved the top of her head as she fell, blasting her with a wave of hot air.
+
+A thirty metre fall was lethal for an ordinary person, but with a fortitude of over 90 Evelyn was far from weak. Even with her durable body her entire skeleton groaned as it absorbed the impact of her landing. The fact the arena floor wasn’t even scuffed was testament to its sturdiness.
+
+Then again, it was built to withstand the power of the mighty beast she was fighting. It made sense that her pitiful weight wouldn’t leave a mark.
+
+Evelyn was back on the ground. With no easy way to climb back up, she instead turned her focus back to the monster’s ankle.
+
+Her original plan of crippling its movement was back on the menu. Dazurmagon was currently inspecting the palm of its hand for her remains. It would soon realise she had slipped through its grasp.
+
+Before that happened, she launched herself at the minor crater her earlier blows had made and prepared to deal a third.
+
+It went off without a hitch and the damage was extended. The hyper boss actually staggered at her strike. Only a little, however.
+
+And the moment it recovered its footing it glared at her with unbridled rage. Evelyn grinned back. It felt great to be promoted from minor annoyance to full blown pest.
+
+What followed was ten minutes of Evelyn throwing herself at the same spot. Each time the warhammer smashed into the stony flesh of the boss leg it deepened the wound. At first it had remained mobile, stomping and throwing punches at her which most of the time she narrowly avoided.
+
+One had caught her ankle and debilitated her for a second, but her regeneration let it heal enough to hold her weight before the next strike arrived.
+
+That was only due to the sheer size of the boss meaning that the time between its strikes, while rather low for such a colossal beast, felt slow to Evelyn.
+
+Her strategy was tiring, however. A thin layer of sweat gleamed on her brow before she wiped it off with her bracer. Hefting the warhammer only made her grow exhausted faster. There was no time to complain, though.
+
+Flashfreeze Flamecharge launched her out of the path of a world shaking stomp and towards Dazurmagon’s exposed ankle. Her gradual chipping had worn away almost half of the hyper boss leg and with this next strike she planned to topple it.
+
+Which meant another experiment with her mana manipulation. Even before obtaining the Mana Wielder skill, Evelyn had been rather proficient at adjusting the effects of her skills. Especially this one.
+
+Each time was limited to her body, however. And now she wanted to try and extend her magic beyond the confines of her limbs. It might be doomed to failure but if she could pull it off the possibilities would be endless.
+
+As she had against Anathalan, Evelyn singled out the bone chilling frost that came with Flashfreeze Flamecharge. While channelling the unchanged skill through herself - she planned to use it as a burst of momentum right before her blow - she also attempted to push the altered mana through her hands and into the metal handle of the warhammer.
+
+It refused to advance beyond her fingers. An invisible, impenetrable wall seemed to block her mana from leaving her skin.
+
+Her iron will had met its match. Yet, she was stubborn and had a few seconds remaining before her charge would end. Evelyn gathered twice as much mana and twisted it into little balls of chilling frost. Then sent them flying at the hammer.
+
+The barrier buckled under the onslaught, but held firm. All but one of her balls of mana failed to penetrate beyond her skin once more. And even the one which snuck through fizzled out after travelling a little way up the hammer’s handle.
+
+Yet that small success was enough to prove her theory correct.
+
+Unfortunately there was no time left to utilise it for this strike. Evelyn had to use just the force of her charge and the strength of her body to swing the hammer at the monster’s ankle.
+
+Despite her strike being unempowered it was sufficient to smash through stony flesh. This time, she had hit something vital.
+
+Streams of glowing blood started to flow from within and there was a series of cracks that rippled outwards from the impact along Dazurmagon’s leg and foot. A fleck of blood splashed on her arm where it charred her flesh. The hyper boss seemed to be fueled by fire.
+
+There was a loud groan as even the durable legs of the beast failed to hold up with such reduced integrity. And following the crumbling of stone the mighty giant began to fall.
+
+The first step of her strategy was a resounding success. All that was left now was to deal some real damage. Though that was going to be a whole other level of difficulty.
+
+Not that she wasn’t up to the task.

@@ -1,0 +1,199 @@
+---
+id: 6fe50c9b-0514-5a43-afd1-7ebefa3387e8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28 - Life in Hell Difficulty"
+slug: 0028-chapter-28-life-in-hell-difficulty
+partOf: hell-horizon-healer
+position: 28
+ownLength: 1636
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3618342/chapter-28-life-in-hell-difficulty"
+royalRoadId: "3618342"
+---
+
+Another strand snapped, causing the bridge to drop an inch and the entire thing to shake. Sloane met his gaze. “Go!”
+
+She forced the words through her mana exhaustion. Jake had only one plan, but whether he could do it was another thing entirely.
+
+He bolted along the bridge.
+
+The ape picked up Susan and slammed her into the floor.
+
+The entire thing jostled.
+
+Jake heard the handrail twang—like something on the precipice of snapping.
+
+“Arthur,” Jake screamed as he picked up the pace. “Your shield!”
+
+Arthur glanced over his shoulder, but he didn’t know what Jake wanted.
+
+Thankfully, Edwin did. The veteran forced the golden-boy onto his knees, nudging his shield up.
+
+Jake hit the shield, and with all of his strength, jumped. He sailed through the air, landing on the other side of the Dreadknuck. Without looking back, he kept on running, eyes locked onto his objective.
+
+The bridge fell a foot once more, the strand snapping. Jake lurched, quickly looping Gutter Tooth around one of the stronger planks, then threw the sickle to one of the pillars at the end. He ignored the door. The sickle hooked on the end.
+
+The bridge collapsed.
+
+The entire floor gave way.
+
+A howling scream pelted the walls. Jake looked back just in time to see the ape fall, missing the lower structures as it plunged into the abyss.
+
+A moment later:
+
+(Lvl 14) Dreadknuck defeatedRewards: 1 Level, Dread Knuckles (Sloane)
+
+Edwin moved quickly, shuffling along the remaining handrail to make his way across to Jake. The others followed.
+
+Edwin and the others helped Jake fasten a loose piece of wire, securing their end of the bridge.
+
+Everyone collectively sighed a breath of relief.
+
+Susan—who had by some miracle managed to keep herself on the bridge—collapsed onto her knees.
+
+Jake caught a cluster of mana on the way, replenishing his container by an immediate twenty-five percent, then healed her. Her body was a mess, and there was no part of her that wasn’t broken. Her arm twisted the wrong way. Her foot the same.
+
+“Did… we kill it?”
+
+“We did,” Jake said.
+
+Though by the looks of you, barely.
+
+Jake healed her again, hand on her thigh. He pressed his mana deeper than usual, trying his best to make out the muscles and further, the bone. He was entirely going by touch, and that required pressing harder. Susan didn’t seem to feel it.
+
+That’s a good little test subject. She’s perfect.
+
+“If you got crushed anymore we’d make a good pancake out of you,” Jake made a rare joke, perhaps it was because he was feeling pretty good. They won a fight. He made a lot of progress in both of his Skills.
+
+Things were looking good.
+
+Not Susan, though. She looked like shit.
+
+“Was that a—” Sloane sat on the ground where the bridge had ended.
+
+“—Joke?” Glenn wheezed, then turned to the others. “I think it was. Guys, did you hear it as well?”
+
+“I heard it,” Edwin added.
+
+Jake clicked his tongue. He was never going to try joking again.
+
+Arthur sat on the ground with his head resting on his knees. “If she was a pancake, she’d taste like shit.”
+
+Susan looked like she was about to say something, but stopped herself.
+
+Everyone looked at each other. It was Glenn who let out a weak chuckle, followed by everyone else who suddenly burst out laughing. Jake was just confused. He thought his joke landed better, so why was everyone laughing now?
+
+Was there a hidden charisma stat?
+
+He was going to have to do some more experimentation.
+
+Finished healing Susan, Jake stood up and inspected the door. He was about to reach out for it when Edwin grabbed his hand.
+
+“Not now,” he said, looking at the others. They were all almost broken.
+
+Jake only nodded and paid close attention to the door. On the door, it said Bridges and a Cricket. Was that a clue? Did the new world behind the door have something to do with bridges?
+
+And cricket? Was that a metaphor, or was the objective something to do with a literal cricket?
+
+A roar so deep hit Jake and the others like a physical wall. And it was coming from one of the hallways.
+
+Without words, they already started running back to the stairwell. Jake was holding Susan, slowing him down.
+
+Another roar hit them, beastly and terrifying. It rattled his bones, causing his heart to lurch up into his throat. Each beat of his heart was so strong that he felt it against his ribs.
+
+“Leave me,” Susan croaked. “Let me see my husband. My children.”
+
+Jake bit his lip and kept on going.
+
+The others were ahead of him.
+
+The sound was getting closer.
+
+He could feel it now, the thumps against the railings.
+
+Whatever was coming was far, far larger than the other Dreadknucks before it. He dreaded how strong it was going to be.
+
+He should have felt fear. Terror.
+
+Instead, his lips curled into a small, pathetic smile.
+
+“Jake…”
+
+Susan muttered under her breath, each step Jake took only caused her pain to worsen. He had healed what he could, but she was still broken underneath her mended flesh.
+
+He looked down at her, meeting her eyes. “If you die here,” he said, nudging her up as she was falling. “How will I master my healing skill?”
+
+Another roar, closer. Jake’s ears bled. Everyone else had made it at the door, and they were shouting for him to hurry up.
+
+“No one else can take a beating like you,” he said. “So you will live. And continue to live. So I can get stronger.”
+
+Her gaze froze for a moment, then she also smiled. Blood leaked from her mouth.
+
+“Then… hurry up.”
+
+He was close now. Much closer. He felt breath on the nape of his neck. He knew the monster was still far, so the fact he felt that only made his skin crawl.
+
+With a powerful, final leap, he jumped through the threshold. Edwin slammed the door shut before Jake could see what the monster looked like, plunging them all into darkness.
+
+Edwin flicked his lighter on, the small flickering flame giving life to the stairwell.
+
+They had made it.
+
+It didn’t feel like it.
+
+***
+
+Two days passed.
+
+Two entire days Jake, Edwin, and the others, trained their body to their limits. Susan was out of commission, but she was quickly recovering thanks to her incredible toughness. Chloe was still bed bound.
+
+Good.
+
+Jake made it a daily task to check what the system shop was missing. People were now buying the weaker growth stimulants. He expected it, but so soon…
+
+Maybe it was the run in with that terrifying monster that had choked everyone with fear. The need to get stronger had turned into an obsession.
+
+As for the Elite Growth Stimulants? They were showing their worth and then some. Two days had passed and he had grown another six points of strength, not to mention Perception and Mana.
+
+Vitality also grew with exercise, just far slower than Strength did.
+
+Dexterity was a mystery. Maybe it required an obstacle course to enhance it? Yoga, maybe? Whatever the method was to increase it, Jake didn’t bother with it for now, though he could see how useful it would be in the future. At least a few points would increase his quality of life by a lot.
+
+A loud noise broke his concentration. Fighting in the corridor. It wasn’t unusual, but this time, it sounded bad.
+
+Jake poked his head out of his doorway. Two neighbours were locked in a brawl. One of the men, the bald-headed gangster that Jake had dealt with prior—which he had named Baldy—punched another man in the jaw. A tooth flew.
+
+Apparently someone had stolen food. Or a growth stimulant. The details were fuzzy.
+
+Whatever had happened, it had nothing to do with Jake. He went back to his training, lifting up the heavy corpse of a Dreadknuck with a strained groan and got into a squat.
+
+Jake smirked a little as he recalled what everyone's faces looked like when he dragged the massive corpse through the halls.
+
+What? He thought at the time. I need weights and I’m sure as hell not going to carry any of you.
+
+The third day, Susan had recovered. Somehow. He would have liked to say that it was all him, but that would be a lie. Though he had worked extensively, pushing mana through her body like she was some kind of oversized lab rat.
+
+On the fourth day, Lyle was back in business. And he hadn’t spent the time idle: he’d used all the time in bed to master his Flame Control as much as he could. He could now throw a condensed fireball that would explode when it hit the target.
+
+It was strong.
+
+On the fifth day, they started clearing the 9th floor of the Dreadknucks. He had gained one more Level, putting him at 9. He put both points into Mana.
+
+Every time they heard the monster responsible for Jake’s poor sleep, they turned tail and ran. It wasn’t graceful, nor was it brave. But it was necessary.
+
+Minor Heal was on the brink of reaching 50%.
+
+He was so close he could almost taste it.
+
+On the 7th day, just as they were preparing to face the devil, everything changed.
+
+Jake stood in the room where the murderer was located. He was dead, handcuffed to the bed with his neck wide open.
+
+An old lady lay dead on the floor, a bolt through her eye.
+
+A younger man had a bolt through his heart.
+
+The room was a painting of death.
+
+And sitting in the corner was Edwin, rocking back and forth, drenched in blood.

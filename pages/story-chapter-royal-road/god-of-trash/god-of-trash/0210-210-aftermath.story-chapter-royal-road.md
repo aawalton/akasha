@@ -1,0 +1,83 @@
+---
+id: f36af08c-1747-5d22-9341-8f27d8255298
+page-type-slug: story-chapter-royal-road
+title: "210. Aftermath"
+slug: 0210-210-aftermath
+partOf: god-of-trash
+position: 210
+ownLength: 2009
+unit: words
+publishedAt: 2025-10-08
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2661767/210-aftermath"
+royalRoadId: "2661767"
+---
+
+The man in purple hovered into the center of the battlefield. He stretched out his hands, demanding the attention of the soldiers on both sides. “Your Empress is dead. Surrender, and we will treat you with all due respect. Continue to fight, and die where you stand.”
+
+Rhys turned away. This was the part he didn’t care about. He’d already done everything he could, up to and including exterminating the Empress, politically-motivated kill-stealing aside. His battle was over, but his job wasn’t. There was still something he needed to do. If politicians were getting involved—especially since politicians were getting involved—then he needed to do it now. If this politician, whoever he was, whether he was the ruler of the Alliance or the puppetmaster, the vizier or the scheming duke, found out about what Rhys was after, Rhys was completely sure that the man would get in his way. What he was after was too valuable to leave alone. What he was after was too dangerous to leave in anyone else’s hands.
+
+The politician continued, spouting some nonsense about the overwhelming strength of the Sword Saint and how he’d crushed the Empress, as if everyone hadn’t seen Rhys take her down. A few people glanced at Rhys, but Rhys just walked on, ignoring them. This wasn’t the time to care about that. His objective was too important. If the politician wanted to claim this was all the work of the Alliance, with no help from outsiders, he could go right ahead. Rhys wasn’t trying to claim the limelight; in fact, in some ways, fame was only going to get in the way of his future objectives. Especially his immediate future objective of taking off into the woods with Bast and figuring out how to remove the mark from Bast’s chest. In conclusion: let the politician do what politicians did best and spout bullshit. Rhys had work to do.
+
+He walked over and picked up Laurent. The man was unconscious, so he slung him over his shoulders. He could wake him when they got there. Glancing upward, he signaled Sable, who dropped out of the sky and flew to his side. She tilted her head. “Do you want me to correct that man?”
+
+Rhys glanced up, then shook his head. “He’s not important. We’ve got a job to do.”
+
+Sable nodded and immediately fell in without asking questions. Rhys hopped onto the broom she’d stolen and pointed the way, and they flew off.
+
+The politician continued speaking behind them, but his eyes tracked the two of them as they vanished to the horizon.
+
+The battle fell away behind them. They passed some Empire soldiers on their way to the battle, who didn’t yet know that the battle was already over. Some limped, struggling through the damage Rhys had inflicted on them. He stared a little at those, shocked. He hadn’t known his reach was so far. He’d only felt himself reaching as far as the battlefield. He knew his mana senses didn’t reach any further than the battlefield, so how—
+
+Wait. The trash cans. Did I accidentally reach through the void, through my teleport points, and attack things outside of them? He raised his brows. To do that subconsciously… he’d been more connected to the trash and lost in the moment than he’d thought he was. That’s worth training up on. If I can do that consciously, I can do all kinds of fucky things to my enemies. They’ll never sleep in peace again.
+
+They hurtled past the soldiers and deeper into the Empire. The soldiers cast them a funny look, but didn’t stop them. They had an important battle to get to. Or so they thought, anyways. Rhys snorted under his breath. He’d hate to be one of those soldiers, showing up just in time to capitulate.
+
+On the other hand… they didn’t have to put themselves in danger, and it’s the same result as everyone else, he reasoned. Really, those guys had the best deal of everyone here. Did none of the work, and got the same grade as everyone else. They were the guys who did no work in the group project, then skated along on the rest of the group’s goodwill to get whatever B the rest of them got. Except this time, everyone got an F.
+
+Serves ‘em right, Rhys thought, then chuckled at himself. Yeah, I’m pretty sure the last thing these guys are worried about, is what grade they got on the ‘group project’ of keeping the Empire intact and the Empress alive. They’d probably be heartbroken to find out they showed up too late to contribute. Hell, Rhys knew he would’ve been. Like the Sword Saint, except he showed up just in time to kill-steal Rhys’s final blow on the Empress.
+
+He knew it shouldn’t bother him so much, but somehow, it did. He wasn’t even angry at the Sword Saint, so much as he was mad at that politician. The Sword Saint hadn’t struck him as someone to shrink from a fight. No, it seemed more likely that it was that purple-robed politician who thought it was a good idea to not actually attack the Empire, or some bullshit, so he could get votes or something… he never understood what politicians were thinking, but he knew they were only ever thinking about metagaming to save their own asses and make themselves richer. Anything else was lying to convince other people to enrichen them at other people’s expenses. Politics were nothing but pure trash, and the less he fucked around with them, the better.
+
+Well, wait. If they’re trash… He pinched his chin thoughtfully, then shook his head. Nah. Even then, he was better staying away. That wasn’t the kind of trash that was worth fucking with.
+
+“Where are we going?” Sable asked at last.
+
+“To the capital.”
+
+She nodded and adjusted their flight path a little. There was nothing more that needed to be said. Sable wasn’t big on questions. As long as there was a fight in their future, she was at his side. That was a kind of simplicity Rhys could appreciate, especially at a moment like this, when time was of the essence. He was just fortunate that the politician was ill-informed. If the man knew what Rhys was after, there was no chance Rhys would be the first one there.
+
+Through the sky. The capital rose before them. It was the seat of the Empress’s power, a place Rhys had never dreamed of visiting. To expand there, to put a shop in that city, was to ask for the Empress’s attention, and that was the last thing he’d wanted. But now the Empress was dead, so all that waited for them were the city’s own defenses and a few guards.
+
+The guards watched as they approached. Rhys directly flew up to the door and put his hands on his hips, while Sable crouched behind him, watching the guards with predatory interest. “Your Empress is dead! Let us pass, or face the wrath of the alliance!”
+
+One of the guards—the one in the nicest uniform, who Rhys could only assume was the captain—laughed. “What do you mean, the Empress is dead? That’s impossible.”
+
+“It isn’t. I killed her,” Rhys declared.
+
+“A mere low-Tier 4, who’s barely consolidated his power, beat our Empress?” the guard asked. He stifled a laugh and gave Rhys a dismissive smirk. “You’ll have to work harder to fool me.”
+
+Rhys sighed. “We’ve already wasted enough time. Sable, go. I’ll handle the barrier.”
+
+Sable’s eyes glittered, and she launched herself at the guard. Rhys threw a ball of impurities ahead of her, burning a hole through the barrier, and charged in after her. She launched herself at the guards, who screamed and hastily drew their weapons, and Rhys sprinted on, leaving Sable to her fun. One of the guards turned to chase him, only to get speared through the back by one of Sable’s limbs and yanked back into the melee.
+
+Rhys beelined through the city, running toward the enormous palace in its center. A few guards tried to stop him, only to rapidly meet their untimely demise via his poison sword. At Tier 4, there wasn’t much they could do to stop him. He could kill them with a snap of his fingers, and shatter their bones as easily as breaking dry kindling… the Tier 1s and 2s, anyways. The Tier 3s were a credible threat, still, or at least something he had to fight hard against, so when he came up against one of those, he ran. He didn’t have time for an actual battle. If they could withstand his opening blow, they weren’t worth the time it would take to kill him. There was a timer on this mission, and it was counting down fast. Either the Empire or the Alliance could realize what he was after and get in his way. If he didn’t do it now, he’d lose his chance to ever do it.
+
+It wasn’t his best-laid plan. He had no idea where this thing was. Or really… those things, is what he should say. But he’d bet dollars to dimes that it was here, in the seat of the Empire, and if he’d put those dollars down, then he’d have put them on the palace treasury being the ultimate location of the cores.
+
+Hell yeah. Let’s work some degenerate gambling energy into this noble quest! he cheered silently to himself as he walked on.
+
+The palace loomed in front of him, its gates wide open, almost welcoming. Rhys strode out into the square in front of the palace.
+
+Two more guards jumped out at him, one from his left, the other from his right. He swept his sword, and the flexible blade caught one in the neck. The tip stuck there, but the middle part of the blade flew forth, flexing far enough to cut down the second. A third leaped out from behind him with a shout. He’d sensed them with his mana senses for a while now, so it was truly unfair, but then again, some people would claim that attacking from behind was unfair, so what did he know? Rhys stepped forward, dodging their crown-slicing blow. Their sword hit the ground with a clang. His step had taken him far enough to reach the man the sword had stuck in the neck of, and he stepped on their body and yanked the blade free at last. It whipped free. Rather than stifle the energy, Rhys let it flow through his arm, and spun with the force of the pull to take the head of the third as he stood from his over-reached blow.
+
+“You really shouldn’t keep throwing away your lives. I killed the Empress. You’ll just end up dead, like her,” Rhys advised the seemingly-empty road. Seemingly empty, and yet, he was surrounded. Every building, every house, every piece of rubble hid an Empire soldier, or dozens of them. Unfortunately, since he hadn’t expanded here, almost none of them had his impurities in them, and the ones that did, had only minor impurities, but it didn’t matter. There were only two Tier 3s among them. This was a predetermined battle.
+
+There was a pause. One of the Tier 3s stepped out from behind his rubble and walked in front of Rhys, barring his way. He raised his sword. “And yet, even if that is true, we must guard this place.”
+
+“Ha. So it is where you hide ‘em,” Rhys said. He snapped his sword, feeling the power flow through the poison blade. “Come at me, then. More trash for the pile!”
+
+The Tier 3 raised his sword.
+
+Windows shattered. Rubble was thrown aside. From all directions, men charged him, some shouting, others in focused silence. Rhys stood there, welcoming them all in. He closed his eyes. “If I believed in gods, I’d say a few words for all of you.”
+
+His eyes snapped open. With a flick of his wrist, his blade leaped to life.

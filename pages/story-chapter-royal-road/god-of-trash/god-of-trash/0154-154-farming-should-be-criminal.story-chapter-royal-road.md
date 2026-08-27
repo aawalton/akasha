@@ -1,0 +1,107 @@
+---
+id: 430f6d8b-e3be-5a1d-aedc-650e5730855f
+page-type-slug: story-chapter-royal-road
+title: "154. Farming Should Be Criminal"
+slug: 0154-154-farming-should-be-criminal
+partOf: god-of-trash
+position: 154
+ownLength: 2506
+unit: words
+publishedAt: 2025-08-07
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2500272/154-farming-should-be-criminal"
+royalRoadId: "2500272"
+---
+
+He spent some time explaining to the Water Syndicate the basics of what he expected from them. The general mood in the camp went from tense, to confused, to totally lost. He hadn’t expected them to get it right away, so he wasn’t too bothered, though he was a little worried that they wouldn’t be able to understand his vision for a long time yet, given how long it would take for profits to filter down. Still, at this level of parallelization, he could—no, he had to spread to the next city, which he immediately delegated to his new underlings. Several of the criminals were more familiar with three of the other nearer cities, and those were put in charge of expanding the snack shack outward.
+
+The pill-making mages were the ones who took to his vision the fastest. He barely had to finish explaining what soda and chips were before they started up fresh batches of the drinks and snacks, eager to experiment with new flavors. “You can keep working on whatever you want, too, as long as you make chips and soda,” Rhys promised.
+
+The mages nodded, already lost in their work.
+
+He shrugged. Compared to making drugs, making chips and soda must take a miniscule fraction of their time. He’d basically just given them the freedom to do whatever they wanted, and spend more time on it. There was no downside to his new proposition. From what he understood, they were mostly the few who had managed to wiggle their way to magehood without the Empire’s help; mages who were smart enough to become mages even without the assistance of any tomes or teachers. Their progression was slow as a result, but they had a unique culture of cooperation and sharing that he didn’t see often among mages. They had to claw their way to every advancement using every scrap of their brains, and they had all grown up in a setting of restricted information, where all of them had experienced the pain of not knowing what to do next. Instead of hiding all their knowledge away, they had instead decided to share, and so, though they didn’t all share the same path, they shared the same foundational techniques.
+
+It was an interesting solution to their predicament, and one Rhys wanted to encourage and see where it went, though right now, that just meant letting them do their own thing. All in all, the scientisty, pill-minded mages were easy to handle.
+
+He spent the first night resting, and woke up in good enough condition to keep going.
+
+The criminals took longer to get on board with his plan. They weren’t super psyched about their new futures as farmers versus criminals. Those who were involved in distribution and setting up storefronts in the new cities flaunted it in the faces of those who had to farm. Rhys went from store to store, making sure they were properly set up, then installed one of his original rebels in the store to make sure the criminals weren’t skimming the money. Once money started flowing, he made sure the farmers were paid just as well as the criminals involved in logistics and distribution, which quieted everyone down some. The ones who were doing store work still looked down on the others, but the others didn’t care when they were all making the same money.
+
+It took a little while for the smaller shops to start making money, but before long, several cities were addicted to ‘coffee,’ soda, chips, and fries. Rhys stuck around long enough to make sure everything was on board and working properly, then retreated back to his stronghold to ponder his future, and what shape it took.
+
+He’d been right and wrong about the Water Syndicate. Yes, it was part of a bigger crime group; no, that larger crime group was not also the Water Syndicate. This was just a branch of the Empire’s organized crime network, but much like the scientisty mages, criminals had to work together to survive in the Empire. Oh, sure, there were spats, fights, the occasional disembodied horse head in the bed, he was sure, but they all cooperated in a big, semicoordinated network to make sure they didn’t all get schwacked by the Empire. No one ratted on anyone else, that was a big part of their code, not even if they were deadly enemies. Those who did were considered worse than dead, and were subject to the kind of punishment Leonard had expected his family to subject him to. When he discovered that, he made a special visit to Leonard, now quietly on his farm, to find out why he had.
+
+Leonard had simply given him a look like it was obvious. “There are things worse than being decored or a painful death. Curses are one of those things.”
+
+“Are they really that bad?” Rhys asked, as a man carrying around two curses semi-successfully. Mostly successfully. That one backlash barely counted.
+
+“Are you asking me that?”
+
+Rhys glanced at himself, then back up. “Yeah…?”
+
+“They destroy you. They eat you from inside out. Even being exposed to curse energy decays your future potential, let alone being inflicted with a curse or attacked by one. Attaining a higher rank after being attacked by a curse… you might as well give up on it. Power, immortality, all evaporate the second you encounter a curse. I would feel bad for you, but you did kill my family. It’s my one small consolation out of all this that your potential ends here.”
+
+Rhys frowned. That’s not accurate. There was an entire department at Purple Dawn devoted to experimenting with curse energy, and Sable and Wilbur both are above Tier 1, and didn’t seem worried about advancing. Then again, these people had had literally all information about magehood restricted from them. He shouldn’t be shocked that they misunderstood the danger curses posed. But on the other hand… Rhys smirked. He wasn’t going to go around advertising that curses weren’t the super ultra ultimate danger Leonard thought they were. It made his casual use of curses powerful psychological warfare.
+
+“What does that mean?” Leonard said, narrowing his eyes at Rhys in suspicion.
+
+“What does what mean?” Rhys quickly schooled his face back into a neutral expression.
+
+“That smirk of yours. Why were you smirking?”
+
+“I wasn’t smirking. That was a fearful expression of loss for my own future.”
+
+Leonard crossed his arms, then sighed and shook his head. “Whatever. Just keep bringing me books.”
+
+Rhys tossed him a salute and backed off.
+
+Although he’d put Leonard on a farm like he’d promised, he hadn’t missed the implications of the Waters’ family’s resident bookworm. It was a farm, yes, but it was also the research lab, and Leonard oversaw that, with Korii’s oversight. Rhys himself was the ultimate pre-release taste-tester and poison-checker. At one point, Leonard had attempted to get himself some petty revenge with poisoned chips, but the sight of Rhys eating the chips with relish while making heavy eye contact with the man responsible had made Leonard rethink his alignment. Since that incident, Leonard had settled in and started to earnestly put his gifts to work. Most of the scientist mages knew him already, and they had mutual respect for one another, which was easier than Rhys trying to install a new leader over them, hence him overlooking Leonard’s assassination attempt. To be fair, it wasn’t a very good one. He wasn’t sure the poison would’ve injured a normal Tier 3. Probably made him sick to his stomach, but not much more than that. Maybe inflicted some respiratory distress, if he was in particularly bad health.
+
+It probably would’ve killed a Tier 2, Rhys thought, on a day where he felt particularly charitable toward Leonard. It wasn’t a bad poison. It was relatively competent, even! It just wasn’t enough to do anything to Rhys, that was all.
+
+At last, everything was stable. Or at least, stable enough that Rhys didn’t feel like he spent every waking moment running around the Empire on the various secret paths the criminals used, putting out fires across four cities. This whole time, he’d been neglecting one thing, one very important thing. He could get by passively, just making generic efforts, but it was starting to get too serious for him to ignore. Rhys retreated back to his original trash heap hideout and sat down, just thinking.
+
+My trash star is getting seriously low. I need a permanent solution.
+
+He could run around picking up Impure Wells—no, he intended to. But he wanted something less… high-maintenance. Something where he could set it and forget it. One network of trash cans to rule them all, and on top of that, if he could create a teleportation network, that would be even better. He didn’t want to spend all his time and his whole life worrying about feeding the trash star. He wanted it on automatic subscription, on perma-re-up forever. He didn’t know how long he’d be stuck in trash-star-only mode, but whether he was in core-mode or trash-star-mode, he could always use more trash.
+
+He also wanted to work on weaponizing his trash mind attack he’d come up with in the last battle, where he threw his trauma at other people—I’ll call it trauma dumping!—but that could come after the trash can network. Rhys drew the woven trash basket closer to him. He crossed his legs and immersed himself in his core once more, contemplating the tome while he gazed into the abyss. Once more, he found himself immersed in the struggle, unable to perceive what he wanted to perceive, yet temptingly close to the breakthrough he sought. For a few hours, he sat there, lost in his thoughts, then at last he wrinkled his nose, emerging from his contemplation in frustration. He was getting nowhere this way. That slippery comprehension about attaching the void to something physical remained as slippery as ever. How did he get this to work? How could he make it make sense? The book helped, but it still made no sense, and he felt like he was missing something. Something obvious. Something staring him right in the face.
+
+He plunged back into his core and faced the void once more. He felt like he was on the cusp of something. This whole time, the sensation of being on the brink of an important comprehension had wiggled in his mind, temptingly close, yet unreachable. But wasn’t that his fault? After all, he was here. Safely in his core. Outside of the void.
+
+Rhys stared at the void, thinking deeply. That mysterious entity lurked right outside it, but it didn’t necessarily immediately attack him. Not unless he did something to draw its attention.
+
+Like obtain comprehension on the void right in front of its face.
+
+Rhys crossed his arms, thinking, then furrowed his brows, his mind made up. He’d come this far from being trash. From treating himself as trash, from being willing to throw himself away and reforge what he’d lost stronger than ever before. He’d always been willing to do it with his body. Why hesitate to do that with his mind and consciousness?
+
+Sure, it was scary. Sure, he might lose himself. But with his body, if things had gone wrong, he would have died. If things went wrong with his mind, he’d go crazy, but he probably wouldn’t die. Probably.
+
+Rhys took a deep breath. Shit. Losing my mind is way scarier than losing my body.
+
+In his mind’s eye, he saw a wreck of a man, little more than skin and bones, lying in a bed staring vacantly at the ceiling. He was old. A pile of wrinkles. His chin was starting to show a few hints of stubble, but otherwise, he was well-kept. The live-in carer hovered around his bed, fixing up a few dusty old trophies and plants for no one to see.
+
+“Say hi to grandpa, ----,” a female voice encouraged him.
+
+“Hi, grandpa.”
+
+No response. There was nothing left inside the body to respond. A heart beat, but for no purpose. The being inside had long since fled. Everything that had meaning had already died a long time ago, and the corpse was kept alive only by the automatic processes of its own failing flesh.
+
+Grandpa was dead. It would take another three weeks for his body to figure that out. Middle school was going by then, and so Rhys missed his funeral, because his parents wouldn’t pull him out of school for something like that.
+
+“You wouldn’t enjoy it anyways. Just a bunch of old people talking.”
+
+But he always felt like there was something he’d missed. Like the part of funerals that was for the living was the more important part, and he’d missed out on that. It had taken him years to come to terms with it, if he ever had.
+
+Rhys dragged himself out of that memory. He shook his head hard and looked at the void again. I don’t want to lose myself. There’s nothing more terrifying than that.
+
+But it was right in front of him. Now that he’d thought of it, he could sense it. The last piece of the puzzle was right in front of him, on the other side of that void. All he had to do was step through to the other side.
+
+And throw himself right in front of some enormously powerful incomprehensible being.
+
+Rhys took a deep breath. He recalled his perfect future, his beautiful world where he sucked up all the Empire’s trash from the privacy and safety of his own home and could instantly appear anywhere in the Empire. It was worth it. Nothing ventured, nothing gained. He couldn’t progress without being willing to trash himself. This time it was his mind, but that was just the way it was.
+
+If I think about it, I’m glaringly weak to psychic attacks. He hadn’t trained his mind at all. Now that he’d thought of mental attacks, he couldn’t help but think that they were a fertile field for other mages to use as well. Who wouldn’t want to bypass their enemy’s defenses and lay all their damage directly on their opponent’s mind? His mind was weak. If he didn’t train it, he’d have a trash mind and be vulnerable to all kind of mental effects, from illusions to mind control to purely mental damage. He’d end up like his grandfather, without having dared to take the chance to advance himself. Or he could take that step himself, and risk that damage at the chance of advancing by leaps and bounds.
+
+Rhys clenched his fists, firming his resolve. Better to risk and level up, than to not risk, and get taken out by a mental attack from left field later! That was right. It was a good idea. A great idea, even! He had to do it, or he’d miss out!
+
+Before he could think about it any longer, Rhys charged into the void.

@@ -1,0 +1,258 @@
+---
+id: 1831fc19-65e4-5b3e-9901-b74747164fdf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: Ascension and Reincarnation"
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 1
+ownLength: 2514
+unit: words
+publishedAt: 2026-06-06
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3502636/chapter-1-ascension-and-reincarnation"
+royalRoadId: "3502636"
+---
+
+Chapter 1: Ascension and Reincarnation
+
+The leaves of the acacia tree tasted different from any other.
+
+I had sampled the canopies of a hundred trees across this vast savanna. The bitter curl of the ironwood, the watery sweetness of the cloudberry brush, the faintly metallic tang of the spirit-reed grass that grew near the eastern rift. None of them compared.
+
+I was reaching for a particularly full cluster near the upper branches when the world cracked open.
+
+Not literally. Not with fire, thunder, or any of the dramatics I had seen the humans on the floating islands perform when they cultivated their spirit arts. It was more like a seam in the air parting and then light pressed itself against the backs of my eyes from the inside out.
+
+Then words appeared. Hovering. Luminous. Absolutely uninvited.
+
+[You have learned Translation. You can now read and understand the language of this world.]
+
+[You have learned Long Neck. You can now increase your neck length by (Level²) meters. Weight is negligible regardless of length.]
+
+[You have learned Hard Neck. Your neck cannot be severed by mortals.]
+
+[The Heavens' Covenant: Reach the heavens, and we will upgrade Hard Neck to Divine Neck, granting you an indestructible neck.]
+
+I read them… Wait, I can read? Oh, it was the Translation skill. Then I looked back at the leaves.
+
+They were still there, glistening with morning moisture, utterly patient. I had been in the middle of an excellent bite. I finished it.
+
+The notifications lingered in my peripheral vision like an impolite hippo.
+
+I understood what they were, of course. Spirit-beasts of sufficient age eventually attracted the attention of the higher powers. The old tortoise near the salt flats had told me this when I was still a calf, barely taller than a kangaroo. "When the sky starts talking to you," he had rasped through his ancient beak, "it means you've become interesting. That is rarely good."
+
+His words came back to me now. I chewed thoughtfully.
+
+The offer itself was not without logic. In this world, altitude was everything. Height was power. The closer you were to the heavens, the denser the ambient spirit energy became. I could feel it even now, every time I stretched my neck upward. A warmth. A fullness. A quiet hum in the bones that felt like standing in sunlight after a cold night.
+
+But the heavens itself?
+
+I had seen what happened to things that went too high.
+
+Three seasons past, a great eagle had decided to test the upper boundary. It was an arrogant creature, old enough to carry storm clouds on its wingtips, confident in its own legend. I had watched it spiral upward, higher and higher, until it was nothing but a dark speck against the pale shimmer of the heavens' floor.
+
+Then it came back down.
+
+Not in pieces, that would have been dramatic and quick. It came back down whole, but changed. The feathers had burned away and left a smell like the birds the ground dwelling humans roasted over their fires. A perfect, terrible smell. The creature hit the earth forty paces from where I stood and did not move again.
+
+The heavens were not a destination. They were a ceiling, and ceilings existed to remind you of your place.
+
+I took another bite of acacia leaves. Besides, the original offer had been somewhat insulting if you thought about it. Divine Neck, as if the only thing standing between me and celestial ambition was the structural integrity of my cervical vertebrae. What about the rest of me? My legs? My stomach, where I processed all these excellent leaves? My brain, which was currently doing the very important work of evaluating whether this cluster had more flavor than the one I'd eaten yesterday?
+
+The notification flickered.
+
+[The Heavens' Covenant updated: Reach the heavens, and we will give you an indestructible neck AND everything below.]
+
+Oh. They had heard me thinking. Or perhaps they were simply watching and drawing conclusions from my lack of enthusiasm.
+
+I appreciated the revision. It showed adaptability.
+
+I stared at the updated offer for a long moment.
+
+Then I ate another leaf.
+
+The logic still didn't hold. An indestructible body meant nothing if the gods simply decided to smash my head like a watermelon. Divine beings were notoriously creative with their terms and conditions.
+
+Besides, I was content. The acacia tree was good. The savanna was mine in all the ways that mattered. I knew where the sweet grass grew after rain, where the underground spring surfaced in summer, which lions were worth respecting and which were young enough to be startled away with a well-timed stamp.
+
+Why would I trade that for a war with the heavens?
+
+I walked around to find a better angle on the tree.
+
+The notifications faded. I had a feeling they would return.
+
+***
+
+Years passed.
+
+I had long since stopped counting seasons the way I did in my youth, when each dry spell felt urgent and each rain felt like rescue. Time moved differently now, slower and faster at once.
+
+The acacia tree had grown with me. Or perhaps I had grown with it. Its highest branches now required genuine effort to reach, which meant they were exactly what I wanted.
+
+I stood beneath it on a morning that smelled like iron and coming rain, stretched the Long Neck skill upward, felt the familiar warmth of spirit energy washing down through the extension of bone and muscle and something that was no longer quite either, and waited.
+
+[Level Up! 68 → 69]
+
+[Long Neck: Maximum length 4,624 meters → 4,761 meters]
+
+The notification came and went like a familiar bird landing briefly on the back of a water buffalo. I had stopped being surprised by it somewhere around level twenty. The system's voice had a quality I associated with machinery rather than divinity. Precise. Consistent. Utterly without warmth.
+
+Not like the invitation that had come during my youth. That one had felt personal. Watched.
+
+This felt like a tally mark.
+
+I retracted my neck, feeling the spiritual extension collapse back into the ordinary length of a giraffe's neck, and took my customary bite of acacia leaves. They still tasted different from everything else. That had not changed.
+
+Then, for reasons I could not fully articulate, I looked up.
+
+The sky above the savanna was layered, like everything in this world was layered. First came the ordinary sky: blue, endless, threaded with clouds. Then, hanging above that like a second world resting on invisible columns, came the floating islands. Dozens of them, ranging from boulder-sized platforms barely large enough for a single tree to sprawling landmasses that cast shadows the size of small countries on the earth below. Humans lived up there, fought up there, killed each other up there in their endless scrambling toward the islands with the best spirit density.
+
+From down here, I could see the faint glow of their cultivation platforms. Could hear, sometimes on very quiet nights, the distant percussion of their wars.
+
+And then above even the islands was the heavens.
+
+It looked like a floor of light. A ceiling made of something that was not quite cloud and not quite solid. Luminous and immense. As I sat there chewing acacia leaves, it somehow felt closer than I remembered.
+
+Could I reach it?
+
+The thought arrived without drama.
+
+Maybe. Not safely. Not without drawing exactly the kind of attention the old tortoise warned me about.
+
+I looked away.
+
+Not yet, I decided. Maybe not ever.
+
+***
+
+More years passed.
+
+The light behind my eyes had changed. I noticed it one morning when I bent down to drink from the spring, saw my reflection in the still water and found a creature looking back at me that I barely recognized.
+
+[Level Up! 141 → 142]
+
+[Long Neck: Maximum length 19,881 meters → 20,164 meters]
+
+I stood for a long time after the notification faded, not eating, not moving. Just looking up.
+
+20,164 meters. The heavens' lower boundary had always seemed impossibly distant, a fixed feature of the world like the horizon or the sound of thunder. But the math had been shifting quietly all these years, and now, standing here on an ordinary morning with rain-wet grass around my hooves, I did the arithmetic.
+
+I could reach it.
+
+I looked around the savanna. The lions I had known in my youth were long gone, replaced by their grandchildren, who were themselves beginning to grey. The humans on the floating islands above were fighting over a medium-altitude island to the east. No one was watching me specifically.
+
+No one was ever watching me specifically. That was the gift of being what I was — a very tall, very old animal standing next to a tree. Unremarkable and invisible.
+
+What's the worst that could happen?
+
+I knew the answer. I had seen the eagle. I knew exactly what the worst looked like, and what it smelled like, and roughly how far it fell before it hit the ground.
+
+But I was too old to fear death.
+
+My neck extended.
+
+The warmth of spirit energy came immediately, stronger than I had ever felt it, denser with each meter of ascent. By the time my head had risen past the lowest floating island, the hum in my bones had become a roar.
+
+By the time I could see the texture of the heavens' floor clearly, my entire neck was vibrating with it.
+
+I kept stretching.
+
+My head touched the heavens.
+
+The world exploded into light and numbers.
+
+[Level Up! 142 → 143]
+
+[Level Up! 143 → 144]
+
+[Level Up! 144 → 145]
+
+They came faster than I could read them, stacking one atop the other, a cascade of warm golden light flooding down through my neck and into my body below. My hooves dug into the ground without me choosing it. The spirit energy was so dense it was practically a physical force, pushing down through me and into the earth like water filling a vessel from the top.
+
+Then the notification I had been ignoring for decades finally delivered on its promise:
+
+[The Heavens' Covenant has been fulfilled: Hard Neck has been upgraded to Divine Neck. You now possess an indestructible neck and everything below.]
+
+I barely had time to process it before an old and gravelly voice cut through the light.
+
+"What in the— what is that?!"
+
+My head had breached the heavens' surface completely now. There was sky above the sky, and it was bigger. The light came from everywhere and nowhere. And moving through it, with the casual authority of creatures who had never had cause to look down for threats, were gods.
+
+They were entirely human in shape, which struck me as deeply unimaginative. The one who had spoken was old, white-bearded, broad-shouldered, wearing robes the color of authority. His face was doing something complicated that eventually resolved into outrage.
+
+In his hand, a sword materialized.
+
+I stretched farther.
+
+The blade came down on my neck.
+
+I felt it. There was a faint vibration, but the sword did not cut. It found the Divine Neck, introduced itself, and received nothing in return.
+
+Below me, I could hear the sound of it happening. Metal striking something that had stopped being metal's problem.
+
+"It's damn hard!"
+
+"Hit the head! I gave it a skill that made its head its only weakness!"
+
+"You idiot! Why did you do something so stupid?!"
+
+"I'm bored! So, where is it?!"
+
+"Obviously it's at the end of this very long neck! Let's just drop it into the abyss!"
+
+The dirt beneath my hooves disappeared.
+
+One moment I was standing on the savanna I had known for decades, my weight distributed across four familiar hooves on familiar earth, and then nothing. I could feel my body begin to fall, the weightless sick lurch of it, the instinct to catch myself on the ground that no longer existed.
+
+I stretched faster.
+
+This was the calculation I had not consciously planned. I needed my neck to extend faster than my body descended. The level-ups were still coming, each one expanding my maximum reach, each meter of additional stretch buying me time. If I could get enough altitude, enough spirit energy, enough—
+
+The numbers blurred together into a continuous golden cascade.
+
+I stretched, and fell, and stretched, and the world below became a painting of itself, then a map of itself, then a suggestion.
+
+My body fell. Down, and down, and down, but my neck stretched up, and up, and further up, and the distance between my mouth and my hooves grew until the concept of "I" had to do some serious renegotiating.
+
+The gods were still trying. I could hear them, dimly, their voices Doppler-shifted by distance and my increasing implausibility as a target. Where does it end? Where's the head? What do we hit?
+
+And then I stopped falling.
+
+Not because something caught me. Because at some point the math had inverted. I was no longer a giraffe falling with a long neck. I was a neck that extended from the heavens into a body that happened to be somewhere in the abyss below. The gods below are cursing with impressive creativity.
+
+I stretched a little further.
+
+The heavens cracked.
+
+Only slightly. A hairline fracture in something that was not supposed to be capable of fracturing. Light leaked through it in a color I did not have a name for.
+
+The cursing below intensified.
+
+***
+
+Years passed. Then decades. I could hardly tell the difference anymore — if anything, I felt younger.
+
+My head remained above the heavens. Alone.
+
+I looked down. My neck had begun to glow somewhere during the ascent. A consequence, presumably, of Hard Neck becoming Divine Neck. It descended through the crack in the heavens' floor like a pillar of light, luminous and faintly ridiculous, visible for what I could only assume was a very great distance.
+
+I tried to look farther down. White swallowed everything past a certain point.
+
+Above me, there was nothing. No ceiling to this new sky, no floating islands, no gods on cultivation platforms arguing about which direction to attack a giraffe from. Just an abundance of spirit energy, denser than anything I had encountered below, flooding into my neck continuously and apparently having nowhere else to go. That was likely why I was glowing. Or possibly I had always had some latent luminescence and simply never had occasion to notice. Hard to say.
+
+The spirit energy continued flowing in. My neck continued glowing. The crack in the heavens' floor continued being a crack.
+
+I had nothing to observe except these three facts, and they were not getting more interesting with time.
+
+I sighed. Somehow, I had become a god. Maybe.
+
+Then the heavens spoke with me again without warning:
+
+[Do you wish to reincarnate as a human?]
+
+[Yes] ◇ [No]
+
+I looked at the question for a long time.
+
+I thought about how boredom felt, and how the only cure for it had ever been something new.
+
+I selected [Yes].

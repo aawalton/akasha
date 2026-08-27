@@ -1,0 +1,131 @@
+---
+id: 965cfd78-c6a6-5315-818d-7f570beb292c
+page-type-slug: story-chapter-royal-road
+title: "043: Bringing Hell"
+slug: 0043-043-bringing-hell
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 43
+ownLength: 2070
+unit: words
+publishedAt: 2024-05-18
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1641106/043-bringing-hell"
+royalRoadId: "1641106"
+---
+
+It was perhaps an even worse choice than the two obvious ones. But Evelyn wasted no time in leaping from the cliff. As she sailed through the air she gathered her mana. Her back still ached from the previous activation of Flashfreeze Flamecharge and using it again might have severe consequences. However, she had little choice if she wanted to bring Anathalan to its knees.
+
+Or well, reduce it to a puddle. It didn’t have any knees. Right at the moment she lost momentum and began to fall towards the lake of lava below, Evelyn activated her skill and let the mana explode from the small of her back.
+
+Pain worse than anything she had felt before erupted across her body and for a brief moment she lost control of her legs. Through sheer force of willpower she ripped herself back to focus and set her sights on her prey. Her charge had flung her right out into the centre of the lake and if she missed her mark then the only fate that awaited her was to become a puddle of molten flesh and bone.
+
+But her aim had been true and despite the fact her spine felt like it was going to collapse at any moment Evelyn was ready to unleash destruction on the magma giant who was right beneath her. She started to fall towards its head and pulled back her fists in preparation.
+
+It was at this moment she missed Fists of Frost. The skill had only been uncommon quality, but having an elemental attack that countered the magma giant would have been beneficial. However, her raw physical strength was still a force to be reckoned with.
+
+With just a metre of distance left until they collided, Evelyn allowed a wild grin to paint itself across her face. Anathalan’s expression remained unchanged - the elemental’s beady black eyes staring at her without a hint of emotion. With just a moment until impact, Evelyn unleashed her blow.
+
+Contrary to her expectations, the mini boss wasn’t fatally wounded as her fist smashed into its head. The dense magma and molten rock that formed its body was tough, yet flexible and absorbed a lot of the power in her fist.
+
+Yet, it had dealt enough damage that the giant magma monster wasn’t in great shape. There was a huge chunk missing from its head - right between those two black eyes. Evelyn staggered as she tried to get her footing inside the crater.
+
+However, the mini boss was falling backwards from the force of the punch and it made staying upright a difficult task.
+
+Out of the corner of her eye, Evelyn saw that the giant was bringing its arms to its head in order to deal with her. She would need to think fast.
+
+So, before it could gather its wits and retaliate she made a decision on her next move. Her mana reserves were still rather full - around two thirds of her energy remained.
+
+A familiar feeling filled her body as she pulled enough to drain her down to the halfway point. And just a second later her body erupted in searing flames and icy frost started to dig into Anathalan’s head. With the creature’s hands just moments from grabbing her, Evelyn aimed herself at her target.
+
+While fighting the smaller elementals, she had noticed that rather than internal organs their power seemed to originate from small glowing crystals. A core of sorts.
+
+And while the position of those cores had varied between the monsters it tended to be around the neck and chest area. It was for that reason she pointed her body downwards before unleashing her skill. Anathalan’s core would be in its neck or torso, she hoped.
+
+Magma and stone flew in every direction as a burst of light and heat rippled from Evelyn. The mini boss head was torn apart in a shower of debris and its neck followed shortly after.
+
+However, her momentum was not used up. She continued to plough through its body as her mana fuelled the destructive charge.
+
+The flames surrounding Evelyn started to sputter and die out as she burrowed into the top of its chest and only thin trails of frost were lining its exposed neck. Anathalan’s head had been shattered entirely from her refined use of Flashfreeze Flamecharge.
+
+Right before her skill died out, Evelyn caught sight of the tip of a glittering red crystal. It was over five times the size of the ones that had powered the magma elementals below. But before she could strike the source of Anathalan’s power, a huge flaming fist descended.
+
+Evelyn unleashed a roar of fury, activating all of her defensive skills and relying on Bulwark and Arcane Shield working in tandem to defend herself. Her arms were raised in front of her head as a guard as the molten stone knuckles smashed into her with the force of an avalanche.
+
+Her feet were driven deeper into the monster’s chest from the sheer power of the impact and the skin on her arms started to sizzle as even her ridiculously sturdy defence crumbled. She had managed to hold firm, however.
+
+Yet the mini boss was unrelenting in its attack, and continued to drive its fist into her. By now her skin had melted away completely and she grit her teeth through the agony as her fat bubbled away.
+
+For a regular person the pain would have been unbearable. But Evelyn had experienced such horrors many times over in the tower and had developed a level of tolerance to it.
+
+Especially fire.
+
+She had lost count of the number of times she had dealt with her body burning to cinders before being renewed.
+
+However, the situation was about to change. The monster’s other fist was descending to join the first - and Evelyn knew that would spell her doom.
+
+Which meant she had just enough time for one last ditch effort to bring it down. However, she was in no position to use Flashfreeze Flamecharge again with all her attention focused on stopping Anathalan’s fist from obliterating her.
+
+Evelyn would need to get creative.
+
+In the past she had manually manipulated the flow of her mana to try and bolster her strikes or change how her skills activated. Yet that had all remained within the bounds laid down by the system and the descriptions of the skill. There was just one exception.
+
+When she had first discovered how to circulate mana, she had pushed it to her fists and feet as a sort of physical enhancer - the effect had been that her blows became a little more powerful. She also suspected it had been the reason the system had offered her Mana Shield as a skill. Though Evelyn was still in the dark on how exactly the skill crystals worked.
+
+With no real options available to her except one, Evelyn would need to replicate her previous feat but in a far more impressive manner.
+
+So with just a few seconds until the mini boss other fist made contact, she visualised a path through her body and started to pull on her mana. It originated in her torso and travelled down her right leg. That foot was right next to the tip of the monster’s core. And it was where all her strength would be focused.
+
+The only issue was that a simple strike - one utilising just her body and mana - would undoubtedly be too weak to shatter the crystal in a single blow.
+
+Evelyn would have to risk destroying her own body in order to claim victory.
+
+However, she was no stranger to a little danger. This clash would either end in disaster, or she would have taken down yet another boss monster on her lonesome. And if all else failed she still had the option of returning to Haven - the tower offered one safe restart per day.
+
+But that was a last resort. Evelyn refused to give in until she had exhausted every last ounce of her power. So she tried to picture the way mana flowed during the activation of Flashfreeze Flamecharge.
+
+Specifically the aspects that powered the trailing frost and explosive momentum.
+
+She figured that using an element that directly countered the magma giant would help her defeat it - and freezing objects made them more brittle. Combined with the instant boost of speed it would shatter the crystal in a single strike.
+
+Or so she hoped.
+
+All went well at first. Mana started to gather in her right foot and it tingled with cold as the power of frost built up. Evelyn had replicated the desired effects. All that was left was waiting until the last possible moment to unleash her stored power and hope it was enough to win the battle.
+
+The image of the two locked in combat was rather odd from the outside. A headless giant made of stone and lava had two arms held in a heart shape. One pressing into its own neck and the other on a path to do the same. While a tiny figure was doing her best to burrow into the beast’s body.
+
+As Anathalan’s second fist struck down, there was a blinding flash of flame and a colossal explosion. Rock and magma was flung in every direction and the lake of lava roiled and heaved from the shockwave. Huge molten waves assaulted the cliffs and the shoreline - drowning out the smaller elementals.
+
+It was uncertain which of the two had emerged victorious.
+
+Yet, when the dust settled and the rumbling of the earth ceased it couldn’t be more clear. Evelyn fell through the air with a crazed grin on her charred face.
+
+Her right leg was mangled beyond repair - at least for someone without her regenerative capabilities. And it wasn’t just her leg.
+
+Her entire body was blackened from the fiery backlash of Anathalan’s core exploding and most of her skin was blistered and burnt. Even as she fell though, it was knitting itself back together and patches of raw, pink skin became visible. A message hung in front of her eyes and she read it over and over as she cackled in joy.
+
+❰ Mini Boss Raid Clear ❱
+
+Time Taken: 11 Minutes, 9 Seconds
+
+Clear Rating: B+
+
+Your rating has granted you a superior reward! You have received a Rare Skill Crystal as a clear reward.
+
+However, despite her jubilation Evelyn still faced an imminent problem. She was falling into the lake of lava and had just seconds to rectify her approaching fate.
+
+Luckily, her winning blow hadn’t drained her entire mana reserve and there was just enough left for a last use of Flashfreeze Flamecharge. With the last scraps of her consciousness she aimed herself at the rocky shore and unleashed her skill.
+
+~~~
+
+Evelyn yelped in pain as something sharp dug into the still raw skin of her arm. She had tried to push herself to her feet but her body had yet to fully repair itself.
+
+After a few attempts she managed to stagger upright and take stock of the situation. A saner individual might have used the option to return from the 16th Floor when they felt themselves passing out, but she refused to give up on her goal of being the first to clear it.
+
+Besides, her mana would recover with time and so would her body. Having defeated all the enemies in this area it wasn’t that dangerous to remain. The path forward was still unclear. But she had a few ideas about how to proceed.
+
+While battling Anathalan she had spotted a gateway on the other side of the lake - similar to the one she had entered through.
+
+She suspected that she would need to make her way there in order to face the next trial of this floor. In order to travel across the lake however, she would need to recover some mana and stamina.
+
+It wasn’t like she had nothing to do while she waited though. She opened her inventory, realising in all the commotion she had forgotten about the weapon Kayla had gifted her. It sat besides her other looted gear and the very first rare skill crystal she had seen.
+
+Having burnt a lot of her skills to create three unusual rarity ones, Evelyn craved more. So, she crumbled the shimmering blue gem to dust.

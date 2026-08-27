@@ -1,0 +1,151 @@
+---
+id: e02685e0-f868-596c-b9eb-ffa6946ba1d1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 714 - The Gray Sun"
+slug: 0039-chapter-714-the-gray-sun
+partOf: hell-difficulty-tutorial
+position: 39
+ownLength: 2204
+unit: words
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2857360/chapter-714-the-gray-sun"
+royalRoadId: "2857360"
+---
+
+POV Ruler of Greed
+
+Thane leaves as quickly as she usually does after giving one of her speeches. It’s always the same, with the only difference being the event she announced.
+
+Knowing Humility, I can guess what to expect, and I try to work out who will perform best and is most likely to win. Out of curiosity, I go over possible scenarios and recall dozens of events Humility’s worked on over the millennia. The decision isn’t simple. Even with all that information, I’ll have a hard time predicting the winner.
+
+There are too many talented people, and among them are the ones I’ve come to see as potential weapons to use against Pride once they’ve developed. And yet his name keeps returning to my mind, even with all these people in the mix.
+
+Nathaniel seems to feel my eyes on him. He turns to me and tilts his head in question.
+
+I just shake my head, and with a shrug, he turns away.
+
+The black crown over his head follows behind him. It feels so weak, so inconsequential compared to what I’ve seen Kindness do. His body is weak too, constantly creaking, straining to break the moment he stops holding it all together. It is scarred, twisted. Powerful traits and broken constructs from his early floors have burned themselves into his being. All his mistakes and successes are there for me to see, should I wish.
+
+I’ve come up with dozens of ways to fix it, and dozens more to make him stronger. Events, Beyond quests, secrets on the floors I could hint at, things his sharp mind could notice and learn from, making himself stronger along the way. It’s something I’ve done many times, turning people like him into the most powerful versions of themselves time and time again.
+
+But what for? Most of them lost their drive the moment they even heard a fragment of what Pride is capable of, or saw the battlefields he fought on so long ago.
+
+Still, I keep searching for someone who can do what I couldn’t. What even my master couldn’t.
+
+I think Nathaniel will break. I strongly believe that he won’t succeed. Maybe his body will betray him before his mind. Maybe his efforts won’t be enough. Maybe the opponents in his way will prove sharper and more cunning.
+
+But I don’t want him to die.
+
+In one of my weaker moments a year ago, I connected to the system and recalled what remained from the instance of the second floor he and his group went through. The records of my imitation were still there, the fragments of it. That realization of being caught in a false world, that sense of the end approaching, and something else.
+
+I took it all in and made it mine because of my greed, and I allowed myself to relive the things my imitation felt. A mistake, but it’s one I made on purpose and by my own choice.
+
+So here I am, giving him no more than the bare minimum of help, knowing that the other Rulers do more to guide and support their attendees. Even the other Handlers do it. But not me. Sometimes I even make things harder for him.
+
+I don’t want to stain him with my hopes and my failures.
+
+The party is slowly coming to an end, but as always, no one hesitates to use it as an opportunity, just as countless others have at the parties of prior years. Nathaniel probably doesn’t even realize it’s ending, and I doubt he bothered to gather enough information before coming here to know that.
+
+The Handlers take a step back, and the attendees with sharp senses start to notice. The conversations grow louder and the confrontations sharper.
+
+With his senses, he gradually begins to notice too. Many other attendees I’ve handled would’ve looked to me for guidance, but he doesn’t even give me a glance. He just says something about grabbing a drink and walks into the middle of the crowd, mumbling that maybe this party won’t be a failure after all.
+
+Kindness presses against me, and I feel the warmth of her Vessel.
+
+"Ruby," she whispers, "I know you're stubborn, but sometimes you should listen to my advice. What's the most important rule I taught you when you were just a cute little newbie Ruler?"
+
+“Do not mess with the system.”
+
+She laughs, and that laugh is different when it’s just the two of us here. “But you keep refusing to listen, just like your master did when I told her not to challenge Pride.”
+
+“At that moment, she wouldn’t have listened to anyone in the entire universe. You know that.”
+
+“I do. And I also know about your little project on Eladore, along with the tutorial records you’ve been tampering with.”
+
+“I’m not trying to hide it from you. You know that.”
+
+Her hug tightens, and she squeezes me. “I do. He’s a silly little thing, isn’t he?” she says, changing the subject and gesturing toward Nathaniel.
+
+He stands there surrounded by a group of velnar, including the one he threw off the balcony. Hela’s there too, saying something condescending to him.
+
+“He’s… not enough,” I say.
+
+“Who’s saying that, Ruby or Greed?” Kindness whispers into my ear.
+
+The black crown over Nathaniel’s head begins to spin and grows slightly in size. As the colors around him drain away and the world turns black and white, the crown’s blackness feels deeper, hungrier, more consuming. His Ley Lines unravel into the area, setting up his teleportation marks, completely invisible to any attendees who happen to be nearby, even Hela.
+
+Like an engine kicking the heart of a long-dead Champion back to life, the seals showing their lingering traces of Master Lissandra’s handiwork unwind and flood him with thermal energy, which he channels and converts into mana.
+
+Even now, I’m sure he doesn’t fully realize the scale of what he’s done, or what it means when combined with all the abilities he already has. Or maybe he does and is simply waiting for the right moment to truly unleash it.
+
+Nathaniel already has access to more mana than any other attendee currently in the tutorial or Beyond. Not Kaari, not Hela, not that man from his tutorial, not even Quintan, who’s similarly mana-oriented, can compare. That’s how much mana he has, as just a third-year attendee.
+
+I can even feel the mark the system placed on him, claiming him as a potential Absolute candidate, refusing to let anyone else declare him. If he succeeds, his strengths will be amplified, and his weaknesses will deepen.
+
+“I am the one saying it,” I answer Kindness, and wave my hand.
+
+The left arm of a Handler trying to secretly help those facing Nathaniel explodes. She screams in shock more than pain, spinning to find who did it. When she fails to trace it back to me, she turns pale and teleports away.
+
+Then, like a vortex, his crown begins pulling in the surrounding mana, making every attendee take notice and feel that tug, an attempt to take their mana, to claim it for himself, and make it his own.
+
+Nathaniel stands in the middle of that storm, his hair whipping around his head, golden rings in his eyes glowing with unnatural light, all the sharper in a world drained of color. For a moment, the golden hue of his trait feels like sunlight fighting to pierce through the planet eclipsing it.
+
+His expression doesn’t change. That confidence in his eyes looks like arrogance as he stares down Hela, who’s trying to activate her spatial skill but failing. He tracks her perfectly, processes every move faster than she can act, breaking each attempt apart and stripping away the combat style she’s grown so comfortable with.
+
+He looks almost disappointed, as if he expected her to be more of a challenge. It shows on his face, and Hela’s expression twists with anger. But before Hela can react, a figure appears beside her, pulled there by sheer force through the backlash, tearing her body apart.
+
+Nathaniel’s sister, Victoria, stands next to Hela. Blood pouring from the torn skin on her forehead drips into her eyes as she attacks the velnar without hesitation. Her body breaks further, and sprouting from one of the pieces is a newly formed duplicate.
+
+Everyone moves at once. Other groups join the fight. I hear Brich laughing in the distance as white lightning flashes beside him. Kaari fires her arrows at multiple targets. Hela swings her arm and activates her rings. And that dumbass just keeps losing himself in the flow, gathering even more mana, which concentrates around his crown as it continues to feed, hungering for more.
+
+The other Handlers watch with interest, interfering only when someone might get too badly hurt, or to raise barriers, or to stop the damage from spreading.
+
+Turning to Kindness again, I ask, “Can you wake up Charity?”
+
+Still hugging me, she squeezes tighter. “He is always grumpy when I do that. You know he’ll awaken from his slumber soon anyway.”
+
+"He’s probably the least grumpy being there is."
+
+"Ha! That’s what you and the others think. It’s hard to see, but I’ve learned to recognize it over time. He gets really grumpy when he’s first waking up and when he gets hungry."
+
+“Fine, I’ll believe you. Will you do it? You know I usually wouldn’t ask, and I’d normally just wait a decade or three for him to awaken on his own, but seeing how quickly things change, I would rather have him fully awake sooner than later.”
+
+“Okay, Ruby, I’ll do it. But only because I truly want to see him after so long apart.”
+
+“Thank you. I’ll give you the coordinates of a planet like the ones he likes, where he can stay for now. If he wants to, of course.”
+
+I return Kindness’s hug, and as she lets go, I give one last look toward the mess he’s started before moving away.
+
+With the awakening of the Ruler of Charity and the Ruler of Pride’s return from seclusion, the second and first strongest Rulers will both be active, and there’s still much to do.
+
+POV ???
+
+"Wake up, sleepyhead," Kindness whispers softly on a distant planet.
+
+That planet is covered entirely in ancient trees, older than some of the Rulers, set in a snowy world so cold that most Champions would die just being there.
+
+Here, surrounded by trees, something sleeps undisturbed. Smaller animals move through the foliage, either unaware of the presence buried under the snow or used to it, after its long period of dormancy.
+
+Though she isn’t there, Kindness keeps whispering, her voice carrying across the vast distance, slowly waking the sleeping being.
+
+The snow slides off as it opens its mouth in a long yawn, tongue stretching out. It rolls to the side, shaking loose the remaining snow and revealing its thick gray fur. Then its eyes open, orange, glowing, and filled with deep, unyielding flame.
+
+The Ruler of Charity sniffs, twisting his ears and listening to the voice before standing fully and shaking away all the snow covering his body. His presence expands with such speed that it causes a small earthquake, and the snow hanging from the trees is blown away across huge swathes of the planet as the wave moves on, changing and searching for something.
+
+For a spark, the slightest speck of an ember it could use.
+
+He searches through the solar system but finds all the planets dead, devoid of flame. Yet the star is still there, weak and dying, but still akin to a spark of fire.
+
+The Ruler of Charity takes a step and disappears, pulled toward that spark as he appears on the surface of the sun, an incomprehensible distance away. The flames wash over his gray fur, not leaving any damage but warming up a very old body after a long winter slumber.
+
+Finding another star, the Ruler of Charity appears upon its blazing surface in a distant solar system, continuing toward the coordinates he was given. The star roars beneath him, a storm of yellow flames taller than worlds, but its fury bends around him, powerless before his calm stride.
+
+Next, he finds a speck of fire on a planet in the system, moving toward the spark being cast into the air by an active volcano before reaching out again and appearing on the next star.
+
+Dozens of times, he moves like that in quick succession, traveling a distance many civilizations will never reach, and eventually he arrives at his target, appearing by a small fireplace placed there for him by a blonde woman who sits there waiting in a white dress.
+
+With a happy laugh, she stands and hugs his huge body, burying her hands in his warm gray fur, and he rubs his head gently against her.
+
+After their greeting, he lies down beside her, curling in close while she tells him all that happened during his sleep, and he listens with quiet patience.
+
+The Ruler of Charity. Cinderbear. The Gray Sun. The Bear That Survived Time. One of the very few beings older than the Ruler of Kindness.

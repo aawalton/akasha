@@ -1,0 +1,239 @@
+---
+id: 224bd57e-06f8-5d2d-b081-27fd65ff55fc
+page-type-slug: story-chapter-royal-road
+title: "028: Ernest the Lionheart"
+slug: 0028-028-ernest-the-lionheart
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 28
+ownLength: 2267
+unit: words
+publishedAt: 2024-04-28
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1614202/028-ernest-the-lionheart"
+royalRoadId: "1614202"
+---
+
+Evelyn was now earning magic as well as gold. That meant it was time to check out the spells menu, to see what new options were available to her. There was also the matter of the barracks, which would give her the option of recruiting more powerful soldiers to her cause. First, the spells.
+
+*Spells*
+
+Make it Rain - 150 Magic
+
+Double your gold yield for ten minutes
+
+Arcane Surge - 500 Magic
+
+Triple your magic yield for ten minutes
+
+Furious Frenzy - 1250 Magic
+
+Double the spawn rate of your monsters for five minutes
+
+There were just three, but each of them had strong effects. While increasing her income was the best, and cheapest, option, it wasn’t what drew her eye. Evelyn wanted to use Furious Frenzy, since it aligned with her strategy of overwhelming her opponent with numbers. However, there was a problem.
+
+At her current magic income of just 10 per minute, it would take her just over two hours to be able to afford the spell. It was unfeasible. So, she had to put that dream on hold for now. If she focused on increasing her gold income, her magic would soon follow. So, she closed the spells menu for now. When she had saved 150 magic, she would start with a Make it Rain. Next, she made her way to the barracks.
+
+It was a large building that looked like a viking longhouse. It had weapons adorning a huge set of double doors, but Evelyn found she couldn’t open them even when she put all her strength into pushing. It seemed that like the castle, this building was just decorative. That wasn’t an issue, however.
+
+A new menu became available to her when she drew near, offering her a list of soldiers to recruit. They were expensive. Not just upfront, but they also had salaries, which would cost her large sums of gold every minute and cut into her income. It was a worthwhile investment, though. At a glance, they seemed far more powerful than the monsters could hope to be, even with a litany of upgrades at their back.
+
+Barracks Lv.1
+
+Ernest the Lionheart - 325 Gold (10/min salary)
+
+Ernest the Lionheart is a powerful warrior, who charges into battle without fear or hesitation, relying on just the strength of his arm and the sharpness of his sword. He will keep pushing onwards until he breathes his last.
+
+Listarion Bloodaxe - 800 Gold (25/min salary)
+
+Listarion earned his name through savage butchery on his homeworld. He was unforgiving to his enemies and allies alike. Once he entered the fray, none could bar his path until he so chose to stop. He may not always heed your command, but he will bring death and terror to your enemies.
+
+Mordred Flametouched - 2000 Gold (65/min salary)
+
+Mordred was born in a burning hospital, earning him a series of nasty scars and an innate talent for flame magic. He honed that skill during a troubled childhood and now stands at the pinnacle of magic in his galaxy. He will incinerate any obstacle in your way.
+
+Each and every one of the soldiers she could recruit sounded powerful. Incredibly so. Yet, they were also expensive. Even the cheapest one would cost the same as an upgraded arcane well, but it would be worth hiring him. Just seeing how Ernest the Lionheart compared to the regular spawns was worthwhile. From there, she could figure out how much more powerful the others would be, and if purchasing them would help.
+
+Over the next hour, Evelyn kept investing her gold into more mines, more upgrades and more arcane wells. Her income of both currencies skyrocketed and her monsters were making steady progress against the opposing castle. She knew that, because she’d gone on another scouting venture and saw the stout man struggling to hold off the horde that had broken through his palisade and charged his castle. He hadn’t faltered yet, but it would happen soon if she kept up the pressure. And it wasn’t just her income that she had worked on.
+
+Alongside investing, Evelyn had saved up 1500 gold in order to purchase the tier 2 castle upgrade. It would give her the push she needed to tip the scales of the battle in her favour and claim victory. Her magic had also been accumulating and she was so close to being able to afford a cast of Furious Frenzy. That, combined with the new options would be what brought her foe to his knees. First, she browsed the new structures which had appeared.
+
+Evelyn’s Castle
+
+650/650 Health
+
+Gold: 381 (172/min)
+
+Magic: 1380 (75/min)
+
+*Structures*
+
+*Upgrades*
+
+*Spells*
+
+*Structures*
+
+Gold Mine - 5 Gold
+
+Yields 1 Gold/min
+
+Archer Tower - 12 Gold
+
+Defensive fortification that shoots at approaching enemies
+
+Arcane Well - 75 Gold
+
+Yields 1 Magic/min
+
+Gemstone Mine - 500 Gold
+
+Yields 25 Gold/min
+
+Cannon Tower - 625 Gold
+
+Defensive fortification that fires explosive ammunition at approaching enemies
+
+Dimensional Rift - 1250 Gold
+
+Yields 25 Magic/min
+
+There wasn’t much in the way of variety. All the new options were just improved versions of the previous buildings. But, with a cap on levels and limited space, it was a beneficial choice. It wasn’t her priority, however.
+
+She purchased Ernest the Lionheart and watched as boisterous laughter erupted from the barracks. It was followed by the double doors getting flung open and a huge man strolling out. He was almost seven feet tall and wielded a huge square shield and a greatsword that seemed miniscule in his massive hands.
+
+“Greetings, my liege. It’s a fine day for battle. How can I best serve?” He asked, his thunderous voice echoing across the landscape.
+
+Evelyn was taken aback. She hadn’t expected the summoned soldiers of the tower to actually speak with her. It only took a moment to recover her wits, however, and she replied to the man. There was only one task she needed him to dedicate himself to.
+
+“Charge through the dark forest and assist my monsters in destroying that castle,” she ordered.
+
+“Yes, of course. I will blow their defences away and bring them to their knees with haste!”
+
+After his energetic response, Ernest sprinted faster than she expected from a man in full plate towards the forest. On the way, she heard him yelling encouragement to her monsters. It was rather sweet. Evelyn wasn’t just going to sit back and wait, either.
+
+With just under a minute left until she had enough magic saved up to cast Furious Frenzy, the time to make an overwhelming assault on her opponent and crash through his defences had come. Her earlier ambush had crippled him, giving her the time to gain a huge lead. If she didn’t take hold of the chance to win before he was able to catch up, she might not get another.
+
+Just because she was far superior in a head on clash, didn’t guarantee her victory. This floor was about tactics, not brute force. She felt that she had performed admirably so far, however. With her remaining gold, Evelyn purchased as many upgrades for her summoned monsters as she could. Given that she was about to boost their spawn rate, it made sense to bolster their strength and equipment first. She looked over their current levels - it was a far cry from the beginning of the challenge.
+
+*Upgrades*
+
+Monster Spawn Rate Lv.24 - 25 Gold
+
+Increases the rate at which monsters spawn and assault the opposing castle
+
+Monster Strength Lv.19 - 20 Gold
+
+Increases the strength of the spawned monsters
+
+Monster Weaponry Lv.12 - 26 Gold
+
+Provides more variety and increased quality in your monsters’ weapons
+
+Monster Armour Lv.9 - 20 Gold
+
+Improves the quality of your monsters’ armour
+
+Castle Health Lv.5 - 30 Gold
+
+Increases the health of your castle
+
+Tier 3 Castle - 5000 Gold
+
+Unlocks more structures, upgrades and spells. Increases level cap on structures
+
+The option to upgrade the castle even further was there, which told her that this challenge could go on even longer. A drawn out battle between equally matched generals. That wasn’t the case here, however. Her opponent had made a fatal mistake at the beginning of the challenge by attacking her without any information, and paid the price. Her magic ticked over 1500, and she purchased a cast of Furious Frenzy, grinning as the air around the spawn points crackled with power.
+
+Monsters surged forth, the three paths filling with her hordes. The boisterous shouts of Ernest could still be heard as he pushed his way toward the enemy castle. Evelyn steeled herself and took a deep breath. It was time to end this siege.
+
+Over time, Evelyn had grown to love a challenge, a battle. But that didn’t mean she was quite as enthusiastic as someone like Ernest the Lionheart. From the get go, he’d been full of vigour and eager to leap into the fray.
+
+I wonder if he’s a real person, or just an image the tower conjured up for this floor? Given the scale of this place, I have to assume that Earth wasn’t the only planet out there with life. Maybe I’ll meet other sentient beings as I climb further.
+
+The philosophical ponderings could wait. Evelyn started to run towards the dark forest. She had avoided it the entire time, but it was the most direct route to her foe. And if there was one thing she had learned to do in the tower, it was to conquer her fears.
+
+It was just as creepy as she had imagined.
+
+The miasma that hung over the trees dampened her spirit, sucking at any positive feelings she might have. Perhaps she imagined it, but it looked like one of the gravestones was moving, too. It didn’t take her long to pass through however, and what she saw when she reached the opposing castle was beautiful.
+
+The miniscule man was doing his best, but it was futile. Hundreds of her monsters were swarming in. His structures had been demolished and lay in ruins, while his castle had begun to take damage. He was practically buried under the hordes. It wasn’t just the monsters, either.
+
+Ernest had spotted his target - the stout fellow. He charged forward, far quicker than a man of his size should be able to. The warrior roared encouragement to the monsters. Yet, his actions contradicted that as he barged his own allies out of the way to reach his enemy. Evelyn could forgive him for that, however. He was more than a match for the other challenger, and the stout man could barely hold on as the colossal warrior’s sword sliced down onto him.
+
+The castle’s integrity was failing, bricks tumbled from the walls as her monsters surged forth and battered against the gates. Evelyn pulled on her mana and charged up her favourite skill. Her mana crackled as it followed the pathways laid down by her skill and she exploded forward in a brilliant flash.
+
+Monsters, hers and her foes, along with the entire castle were sent flying in a magnificent explosion as she barrelled through them with Flashfreeze Flamecharge. She had taken out everything in a single strike. Perhaps she hadn’t needed to wait so long. The devastation left by her skill was all encompassing and Evelyn felt that she might have been able to just decimate the castle from the get go. That wasn’t in the spirit of the challenge, however.
+
+While she wasn’t the biggest fan of the tower, it would’ve felt a little wrong to just ignore the rules of the floor outright. Besides, she had enjoyed herself quite a bit. Sometimes taking a step back from the frontlines was healthy.
+
+Congratulations Challenger, you have cleared the 12th Floor! You may purchase one reward from the following:
+
+〖1 Attribute Point〗- 60 Essence
+
+〖Grey Star〗- 68 Essence
+
+〖Common Skill Crystal〗- 120 Essence
+
+〖White Star〗- 2600 Essence
+
+Your class has advanced!
+
+Unyielding Warrior Lv.3 > Lv.4
+
+The white star felt a little too expensive for now. Evelyn was sure a few people would decide to sell them in the Local Shop soon, and waiting for that would save her a lot of essence. There was an argument to be made that spending as much as possible was the best option, since it also worked in tandem with Spendthrift to give her more attribute points, but with the extra essence saved by not buying the white star now, she could just buy more attribute points in the shop.
+
+I guess I can just take another attribute here. 60 essence is nothing to me at this point, and everything else is still far cheaper in the shop. Besides, one can never have enough fortitude. I’ve got twenty-four hours to kill, so what should I try to craft next?
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.4
+
+|Attributes|
+
+Power: 10 (11)
+
+Speed: 4
+
+Stamina: 8
+
+Vitality: 17 (19)
+
+Mana: 13
+
+Fortitude: 26 (43)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Rare), Bulwark (Uncommon), Bulwark (Common), Stargazing (Uncommon), Stargazing (Common), Assassin’s Eye (Uncommon), Bargain Hunter (Uncommon), Backlash (Uncommon), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Uncommon), Pugilism (Uncommon), Surging Blood (Uncommon), Impregnable (Uncommon), Arcane Shield (Uncommon), Arcane Shield (Common), Spendthrift (Uncommon), Solar Fusion (Uncommon), Salvo (Common), Corruption Resistance (Common), Focus (Common), White Infusion (Common)
+
+~Active~
+
+Fists of Frost (Uncommon), Mana Plate (Uncommon), Conjure Rock (Uncommon), Flashfreeze Flamecharge (Rare), Starlight Strike (Common)
+
+~Hybrid~
+
+Overpowering Spirit (Rare)
+
+Essence: 3882『+1054 / 5:59:12.6 hours』
+
+~~ Stars ~~
+
+Grey: 128
+
+White: 3
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class****Crafting**
+
+【KILL】

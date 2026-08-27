@@ -1,0 +1,257 @@
+---
+id: 0b8aea1e-0b21-53bc-9d3e-ca0441e8068a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14"
+slug: 0014-chapter-14
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 14
+ownLength: 3039
+unit: words
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2704610/chapter-14"
+royalRoadId: "2704610"
+---
+
+Chapter 14
+
+Veron looked at the rock and felt the strain of using up his Focus.
+
+“What was that? It was flying!” Ian exclaimed.
+
+“It was, wasn't it? I just advanced to the Novice level of my Earth Harmony.”
+
+“Awesome.” Ian said and held up his hand.
+
+Veron high fived him. “Now I have to wait one and a half hours to test it.”
+
+“More Greyr to milk anyway.”
+
+“Yeah.”
+
+The plentiful farm work had more than a few benefits. Time passed quickly and before he knew it, they had a few liters of milk and his focus was recovered.
+
+They stood near the tree again and Veron grabbed a few rocks. He focused and connected to one, then made it hover. Slowly, the rock floated up a few centimeters above his hand. He tried to shape it but failed and then he looked at the tree and aimed. He felt his focus strain as he tried to send the rock flying.
+
+Just like the Navorok.
+
+A few seconds and the rock started trembling, then shot off towards the tree.
+
+It landed harmlessly in the grass beyond.
+
+“How fast was that?” he asked. “It wasn't that fast, was it?”
+
+“Maybe about as fast as throwing,” Ian said. “And you missed, by several meters.”
+
+Veron nodded, then he smiled. “I did. But I missed with my magic. Magic I can now use to shoot rocks.”
+
+“Throw, with reasonable speed.”
+
+“Shoot,” Veron corrected. “At blinding speeds.”
+
+It took significantly more Focus to hover the rock than to shape it, and shooting it felt like he used up an entire chunk of focus all at once. It needed time to charge as well and Ian was right, he may as well just throw the rocks instead. But Veron understood what he had just unlocked. With more levels and more focus, in time, he could have a magical slingshot, and who knew, maybe at some point, the spell could even rival a gun.
+
+“Why are you grinning like that. A bow is much better.”
+
+“Yeah, but a bow isn't magical.”
+
+Ian shook his head. “You know, I'm looking forward to unlocking my Path as well, but sometimes I think you're a little too excited about magic.”
+
+“I feel shocked and betrayed. Those words, coming from you?”
+
+“Maybe I'd be more impressed if you actually managed to hit the tree.”
+
+“Right. I'll show you what a mighty Earth Path can do.”
+
+He sent out three more rocks before his focus was used up. “The last one was closer.”
+
+“No it wasn't.”
+
+“It was. You would have seen it from my angle.”
+
+“Sure, old man.”
+
+Veron smiled and looked at the tree. The same tree where Ian had first shown him his bow and arrow. The same area where he had tested his first hammer made of stone. And now he had made the first step to something new.
+
+Shaping rock was incredibly useful and it had allowed him to make both armor and weapons but if he trained this new ability, he may not even have to get close in the future.
+
+Just can't believe I'm gassed after four shots already. That's going to be a very slow training progression, and I haven't even gotten my wind harmony to the beginner level.
+
+In the coming days, Veron decided to focus on simply hovering and moving around the rocks. To get a better feel for the addition to his Harmony. It was still more difficult than shaping but with a full tank of Focus, he could at least try for twenty to twenty five seconds.
+
+He was so engrossed with his new ability that he had to do a double take when Warren joined him in the shed.
+
+“Hey there, Warren. What is it?”
+
+“Reymond is here. And he agreed to meet you for a quick chat. Pack your things and get ready to leave.”
+
+“Oh.” Veron stood up quickly.
+
+Warren raised his hands. “No need to rush. They will at least stay for a meal before they leave again. Meet me at the inn and I'll introduce you.”
+
+Veron gave him a nod and then stood in the shed for a long moment. Ian returned from the Vabook pen and looked after Warren. “It's time?”
+
+“Seems like it. If I can make a good impression.”
+
+Ian walked over to his side. He had a bit of a tense expression before he sighed and relaxed, then looked at Veron with a grin. “Just don't show him your rock shooting.”
+
+“Yeah, you know what, I agree.”
+
+Veron took a moment to clean himself and put on a fresh set of clothes. Then he checked his armor over and fixed any small blemishes he could find. He wondered if that was the right move, an adventurer with pristine gear. He was overthinking. Any earth path worth their salt would make sure their gear was undamaged before any engagements.
+
+He grabbed his shield and spear and went to the inn. The sky was overcast with gray clouds and he was glad for the additional layer his stone armor provided against the wind. It wouldn't help against the cold once winter came but so far, he wasn't bothered a whole lot by that fact.
+
+His eyes were drawn to a beautifully carved and luxurious looking carriage standing in front of the inn, angular pieces of dark wood interlinking perfectly to encase small windows for its occupants to look out of. Four large wheels made of wood and covered with steel reached the dirt ground, a seat in the front ready for the driver. Two black horses stood in front of it with leather harnesses connecting them to the carriage.
+
+There were two additional wagons, one in front and one behind the carriage. Each was drawn by two horses and had four wheels but the make looked a lot simpler. Not necessarily less sturdy but certainly with less focus on aesthetics. The wagons had canvas covering whatever goods were being transported. Veron could see some boxes with a passing glance.
+
+He entered the inn and noticed that for once, it was warmer inside than outside. Different enchantments?
+
+The fire in the hearth begged to differ. It was the first time it was in use since he had arrived in Eyra. He shut the door behind himself, cutting off the sound of the howling wind outside.
+
+He paused and looked at the flames with a hint of nostalgia. It wasn't exactly cold yet, but already he felt cozy and comfortable here. He smiled at the feeling and took in the various occupants. A group of three adventurers sat at a table with bowls of steaming stew in front of them. Two of them glanced his way for a moment and he gave them a nod, looking instead towards the older gentleman talking to Warren.
+
+He was smaller than the innkeeper, gray hair falling to his shoulders. He wore black leather pants barely visible under his broad and worn leather duster with a light brown color. To Veron, he looked a bit like an old cowboy. The man laughed and then turned around when Warren motioned towards Veron.
+
+Burning wood cracked in the hearth.
+
+Veron took his spear into his left hand and offered his right to the man. “You must be Reymond. It's good to meet you.”
+
+Reymond shook his hand. The age suggested by the ridges and furrows on his face didn't manage to dull the sharp brown eyes taking him in. “And you must be Veron, a new candidate for the dungeons of Anvakar. Good set of armor, and a useful path on the road.”
+
+Veron gave him a nod.
+
+“We could use someone to help with repairs. And I hear you've fought a few chaos beasts already, so not a complete amateur. How did the last fight go?”
+
+“I was bedridden for weeks afterwards. But I survived.”
+
+“Aye, that you did. And you're ready to fight more beasts?”
+
+Veron had thought about that for a while. “I am. Best way to get over the fear of facing another monster is to go out there and face another one.”
+
+Reymond laughed. “I suppose that's one way to do it. At least you know what's at stake. What's your path level at?”
+
+“Weak,” Veron replied.
+
+Reymond seemed to consider for a moment. “Good thing you have some experience then. We could use another set of hands with how the journey has gone so far. If you think you can help protect the wagons, I can offer you 5 silver a day, and more depending on how the journey goes. Around two weeks to Perrion and then we can discuss again.”
+
+“What do you think?” Veron asked Warren.
+
+Warren seemed amused at that. “It's not a lot but then you're not exactly an established adventurer. I think you should take the deal.”
+
+“Then I shall take the deal. Granted that the other adventurers agree to have me on.”
+
+Reymond raised his eyebrows slightly. “Feel free to introduce yourself. My offer stands.” He gestured to the three adventurers who had been listening with seemingly mixed interest.
+
+Veron walked over and stopped in front of their table. “I'm Veron. I might be joining the crew and wanted to introduce myself. We can talk when you're done with your food.”
+
+“We can talk now. A Weak Elemental Path. I take it you can take care of your own gear?” One of them asked, a woman that looked to be in her late 20s. Black eyes and a tanned complexion. Her black hair almost reached her shoulders. She wore dark leather armor and chain mail below, a helmet with a nose guard sat on the ground next to her. There were two short swords strapped to her belt.
+
+“Yes. I can repair my own gear and can offer repairs as well, with stone.”
+
+“What's the last beast you fought?”
+
+“An injured Navorok.”
+
+Her lips quirked up into a grin. “A Navorok. Really? And how did that go?”
+
+“It damn near killed me. It would have if it hadn't been injured already, and I probably got lucky too.”
+
+“You definitely did. How did you come to fight an injured Navorok?”
+
+“I was out looking for plants.”
+
+The woman laughed and continued to eat. “Plants. I like this guy.”
+
+“It's nice to meet you, Veron.” The second woman in the team said. ”I’m Reka Assalor, leader of this little band of adventurers.” She had inquisitive brown eyes with a spark of red, pale skin, and somewhat scruffy blonde hair bound in a braid. Her armor looked well made, dark red metal covering much of the chest, upper arms, and thighs, with cloth and leather filling in the rest for added mobility. A wooden kite shield reinforced with metal sat against her chair, a short sword strapped to her belt. She had a helmet that looked similar to the other woman's. “I respect that you would ask to join. I understand you're not particularly experienced?”
+
+He gave her a nod.
+
+She smiled ever so slightly. “Do you feel confident in taking orders and fighting alongside our group?”
+
+“If the orders make sense.”
+
+“Simple things like where to stand and what to attack. I assume you use that shield and spear? No ranged capabilities?”
+
+“None worth mentioning.”
+
+“Very well. Silvie, you've already talked to. And this is Hayden. In case we're under attack, you will stand to the right of him and focus on whatever creature is in front of you until I tell you something else.”
+
+Hayden wore well used plate armor, covered in small scratches and a few visible dents. Next to a large wooden shield sat a spiked war hammer and a steel helmet that would cover his entire face, a thin slit to let him see through it. He glanced at Veron at the mention of his name and gave him a slight nod. He didn't smile.
+
+“Easy enough to memorize. Good to meet you, Hayden.”
+
+The large man grunted between bites.
+
+“We'll talk about different abilities when we're on the road. Silvie and I will generally stay at the back of the formation but you won't need to worry about us if a creature gets through. At your current path level, you'll do well to focus on yourself.”
+
+“Are we expecting a lot of battles on the way to Perrion?”
+
+“Normally one or two for the entire trip, but we've already encountered four groups of chaos beasts on the way here. I understand there may be a new dungeon branch in the region, so I expect things won’t get better,” Reka explained. “You know how to steer a wagon?”
+
+“No.”
+
+“Silvie, you can show him once we leave. One of us each will steer the wagons. It will be good to have another two hands in the crew. We're happy to have you join, Veron.”
+
+“And I'm happy to work alongside you. Reka, Silvie, and Hayden. Do you have a team name or something?” He didn't know if that was even a thing here but if you had a team of adventurers with some renown, you had to at least think about a name, right? Either way, he assumed it would be a good way to break the ice.
+
+Silvie burst out laughing. Hayden rolled his eyes and Reka gave him a blank stare. “I'll tell you about that if you survive your trip to Perrion, earth mage, alright?”
+
+Veron smiled. Time would tell how he would get on with this group but he had a good feeling about them. He excused himself and confirmed with Reymond that he would join. Then he sat down to have lunch himself.
+
+Soon, the Holts minus Ivera joined him at the inn. Ian seemed agitated but excited at the same time. Aren sat close to the teen with Neva on his lap.
+
+“I knew you wouldn't stick around forever. Suppose this is the next step on your adventure,” Aren said, a slight grin on his face. “You want to show him, Ian?”
+
+The teen nodded and raised a leather backpack up from the floor. It looked well used but sturdy, the light brown color it must have once had now looked mostly faded. “I looked through a bunch of old stuff and we put a little kit together. There's a torch, some rope, a change of clothes, wooden bowl, a spoon, and a tinderbox. I tested everything, it's a bit rough but it works!”
+
+“And this!” Neva exclaimed and raised up a piece of leathery fabric.
+
+“Yes,” Aren said and laughed. “It’s a hooded Greyr leather cloak. Should help against rain and wind. Somewhat. Being out there as an adventurer, I'm sure you'll be soaked through more than once in the coming years. But I hope that by then, you’ll have enough funds to get something better. Like the fancy fire matches made in Leiveen.”
+
+Veron could feel himself choke up slightly. He masked it and smiled, carefully touching the pack and looking at its contents. He was a little surprised at the emotional reaction but he supposed he generally had to figure out and get his own stuff for as long as he could remember. Having someone be this considerate and generous was not something he was used to.
+
+He didn't speak and admired the Greyr cloak, then put it on. It was a little bit loose but it fit well enough. “Thank you. I really mean it. It was fun, to learn with you all, to help with the farm. I'll put the gear to good use, and I'll make you proud.”
+
+Ian was quiet and stared at the table, and Neva looked to have lost interest already, instead glancing over at the adventurers. Aren let her go but kept an eye on her as she approached them.
+
+Veron smiled as he saw Reka crouching down to say hello to the little girl.
+
+“I'm sure you will, Veron. Make sure to visit from time to time, especially if you learn anything new about this adventure of yours,” Aren said.
+
+“I will, don't you worry, Aren. But I first have to get some experience, so that I have some things to show and teach Ian when I come back.”
+
+Ian looked up and they locked eyes. “Be careful out there, okay?”
+
+“I will be. Got my armor,” Veron said and tapped his chest piece. “And everything Ivera has taught me. You guys make sure to keep the farm safe. I'll look forward to dinner whenever I make it back.”
+
+Neva giggled and ran towards them with an oversized helmet on her head.
+
+Silvie was laughing as the girl ran around with her helmet on, the thing so large she couldn't see anymore.
+
+“Got another adventurer right here,” Aren said and caught her, then raised her up on his lap.
+
+Silvie joined them when they were done with their lunch. “When you're ready, I can show you the wagons and introduce you to the horses.” She reached out her hand towards Neva. “And I'm afraid I'll need my helmet back as well.”
+
+The girl hissed at her.
+
+“No hissing, Neva. Say thank you to the kind adventurer that you could play with her helmet.”
+
+“Thank you, adventurer woman,” the girl said and struggled to get the helmet off her head. Aren helped her and handed it to Silvie.
+
+She smiled and put it on, fastening the strap around her chin and checking if it sat securely.
+
+Veron stood up and gathered his gear, keeping the cloak on for now and putting on his backpack. The others stood up as well. “Aren,” he said, hugging the man before he went on to Ian. “Ian.” He hugged him too but he could tell the teen was a bit tense. “Neva,” he said and crouched down.
+
+“Stone man,” Neva said.
+
+He laughed. “Yes. The stone man is leaving. It was good to meet you.”
+
+“Where are you leaving to?” she said.
+
+“I’m leaving on an adventure.”
+
+“That is nice,” she said and smiled wide. “Don’t die.”
+
+Takes after her mother, that one.
+
+Veron stood up again and glanced over at Silvie. She was waiting at the door. “That’s the plan.”

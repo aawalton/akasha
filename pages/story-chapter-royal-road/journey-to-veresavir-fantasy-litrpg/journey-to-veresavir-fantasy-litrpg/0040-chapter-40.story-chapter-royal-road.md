@@ -1,0 +1,393 @@
+---
+id: ce19d07f-d3ed-56bc-a973-e249e05fdc1f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40"
+slug: 0040-chapter-40
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 40
+ownLength: 2503
+unit: words
+publishedAt: 2026-01-19
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2957827/chapter-40"
+royalRoadId: "2957827"
+---
+
+Chapter 1
+
+“We have a few hours. Should we sit at the table?” Envolon suggested.
+
+Veron watched him. A few hours.
+
+I can’t.
+
+He felt tears rolling down his cheeks, breathing deeper now. “I… I want to… stay here. For a while. Alone.”
+
+“Of course. We have around three hours.”
+
+Veron opened and closed his mouth. “And then… you’ll send me back?”
+
+“And then I’ll send you back.”
+
+Veron closed his eyes.
+
+He heard Envolon stand up slowly, but focused on his breaths. He wanted to connect to the earth, but there was none. There was no wind either. It was a shit metal box.
+
+Veron simply sat there for a while, feeling everything that came up. It was overwhelming at first. The thought of Silvie and the others, the confusion of not knowing if they were out there or not, if they were alive or not, and if they even remembered him.
+
+She didn't know me.
+
+He felt betrayed and hurt, but a part of him knew there was some explanation for it. But if there was, she still didn't know him. Did that mean Ian had forgotten about him too? He had to stop himself from questioning reality itself. The people he had gotten to know were real. His memories were real. He held onto that. And he cried.
+
+Eventually, his mind calmed down. He felt exhausted, entirely spent.
+
+And then he slowly started thinking about the questions he had.
+
+Yes, Ivera hadn't remembered him, but why?
+
+Had he died on the tree? Was he still who he was, or was he some kind of copy with the same memories?
+
+Did it matter? He thought it did.
+
+The magic that got him here had saved his life, but what was it exactly? And why was he here in the first place, why use magic like that on him?
+
+Who and what was Envolon, and what were his goals?
+
+Did the curse have anything to do with it?
+
+Yeah.
+
+He shuddered and slowly got out of his hiding spot.
+
+Let's try this.
+
+Veron went to the table and sat down opposite Envolon, the being that had gotten him into this. The being that had given him an opportunity to learn magic.
+
+Veron looked up at the blue roots breaking in through the golden ceiling of the metal room. He wondered where they were. And then he looked at Envolon. Veron felt frayed, but he focused.
+
+“She didn't know who I was.”
+
+“It seems like that.”
+
+“I had lived with them for almost half a year, had eaten at their table. I was worried she was dead. And now she looked at me as if she had never even met me.”
+
+She didn't hesitate. As soon as I mentioned Ian, she moved.
+
+Envolon was quiet.
+
+“You're not going to explain things, are you?”
+
+Envolon just watched him with the small white lights at the center of his eyes.
+
+Veron narrowed his eyes.
+
+He wanted to scream at the being. But he lacked the energy. And the purpose. He had agreed to go on an adventure. There was anger that he felt, underneath the confusion and exhaustion, but it lacked a clear target.
+
+“Did I die?”
+
+“You are tethered to this place. Your Essence and your Path.”
+
+“But my body died. She... cut off my head.”
+
+“Your body, essence, and your Path are one. They are you, and you will heal, grow, and adjust, given time, experience, and magic.”
+
+So that means I’m whole? I will choose to believe that, until I can prove or disprove it.
+
+“Then why didn't she remember me?”
+
+Envolon was quiet.
+
+“Why am I here?”
+
+“Because I chose you.”
+
+“For what purpose?”
+
+“To go on an adventure.”
+
+Veron tapped the table with his fingers. He felt frustrated.
+
+“You got me into this… and you refuse to explain anything.”
+
+“If you have questions about your adventure, you should ask.”
+
+“Questions? Like what the fuck happened with that curse? Or why did Ivera not remember me?”
+
+Envolon didn’t speak.
+
+“You’re refusing to answer.”
+
+They were both quiet for a little while and Veron slowly calmed down again.
+
+He was here one way or the other. And he wasn’t dead.
+
+He’s not answering some questions, yes. The key ones, I feel. But he’s telling me to ask questions anyways. Is he not allowed or able to tell me some things?
+
+Calm down, Veron. You’ve got time.
+
+He closed his eyes for a moment and then sat back straight, breathing and thinking things over. Envolon was willing to talk at least. But his behavior confused him.
+
+Veron breathed in deep.
+
+“Thanks for being there when I arrived,” he said. “I had died for the first time in my life. I didn't like the experience, and waking up here… was very stressful.”
+
+Envolon gave him a slight nod.
+
+Three hours.
+
+“Why three hours?”
+
+“Because then I will send you back.”
+
+“Or earlier if I ask?”
+
+“Or earlier, yes.”
+
+“If I die again, will I wake up here again?”
+
+“Yes.”
+
+Veron blinked his eyes. “You answered that.”
+
+“I did. Very perceptive.”
+
+“Just surprised, is all.”
+
+He focused. It was difficult to focus. He just wanted to sleep. But he didn’t want to sleep either.
+
+It was warm. And there were flowers. And she didn't remember me.
+
+“It wasn't winter anymore when you sent me back.”
+
+Envolon was quiet.
+
+He's not willing to tell me more on that, but he's not stopping me either?
+
+“The magic you used to send me there, what was that?”
+
+“Fae Path, Form of Space. I'm afraid you won't be able to wield it if you're interested.”
+
+“Yes, because I'm an Elemental Path, and the Fae Path is the opposite.”
+
+Envolon nodded.
+
+“The magic that brought me here instead, when I died or was dying, can you tell me what that was?”
+
+Envolon didn't answer.
+
+A few things I can think of. Someone erased Ivera’s memories. I wouldn't know why. All of this could be a simulation that is reset when I die. Or this is time magic.
+
+Or my appearance changed.
+
+Veron looked at his hands. They looked the same, and his voice sounded the same. He had no way to check his reflection.
+
+All of those ideas felt stupid. The simulation idea didn't really matter, he thought. If anything felt that real, any distinction wouldn't be necessary. It would simply be another reality. The memory idea just felt strange to him. But manipulating time felt just as ridiculous. Envolon did remember him, and he remembered Envolon, and everything that had happened, so the changing appearance idea didn’t feel right either. He would have to go back and talk to more people, find out what they knew. If they were still around in the first place.
+
+Had something changed with his magic? He looked inward to check his Path.
+
+Elemental Path [Modest]- Harmony of Earth [Novice III]- Harmony of Wind [Beginner I]- Hidden Harmony [Faint I]
+
+- Relic slot [Empty]
+
+Seeing his harmonies felt comforting, though there was neither wind nor earth here in this room.
+
+It speaks against time manipulation, but then so do my memories, and Envolon’s.
+
+If there is a reset or time magic involved, I seem to keep the magic progress that I made either way. That's something.
+
+Veron tapped the table.
+
+It would be more than just something. Even if there isn't any time magic involved, I essentially just learned that I’ll come back from death or almost certain death. With my magic intact.
+
+He felt a shiver go down his arms.
+
+That’s… a lot.
+
+He stopped the train of thought and focused back on Envolon.
+
+Let’s be more specific.
+
+“Does time magic exist?”
+
+Envolon didn't reply.
+
+No answer. He doesn't want to or can't talk about that? He would just say no otherwise, wouldn't he?
+
+“Can you tell me about some other Fae Path aspects besides Space?”
+
+“There is the Form of Pacts. The Form of Curses, of Illusions, of Dark, and Light. There is the Form of Insight, the Form of Perception, Divination, and Mist.”
+
+“Is that an exhaustive list?”
+
+Envolon was quiet.
+
+“Is all of this an illusion?”
+
+“No.”
+
+“But you could be lying, about everything you shared.”
+
+“Yes.”
+
+He watched the silver masked being.
+
+“You said I would come back if I died. For how long is that true?”
+
+“Until your adventure is concluded.”
+
+“And when is that?”
+
+“When you deem your adventure concluded.”
+
+Veron blinked his eyes. So I can end this?
+
+“Let's assume that I deem it concluded, what would happen?”
+
+“I would send you out one last time, and when you die, you would no longer return.”
+
+That's it?
+
+“Could you send me back to Earth too?”
+
+“Yes, probably. It’s a long way but it should be possible.”
+
+Really?
+
+“You seem confused,” Envolon said.
+
+“It just seems like a lot of effort and magic, and pretense, for me to be able to just… walk away.”
+
+“Will you?” Envolon watched him, his eyes glowing a little brighter.
+
+Veron was tired. He wanted to.
+
+But then, at the very least, he would have to go back and find out if everyone really no longer knew about him. The thought hurt him. All that time and memories shared, it felt like he had lost everyone, and yet what if they were still out there? What if he could change things? What if he could grow stronger and… do something?
+
+But they died either way. Even if this is time magic, or a simulation, or something else, the people I knew, they died in that forest. And the people in Eyra, I won’t know what happened to them, even if I go back and they’re still there. They won’t be the same people, not really. Not if they don’t remember.
+
+But at the same time… if they’re alive, they’d still be who they are, wouldn’t they?
+
+It all felt like too much to think about, and he didn't want to deal with that right now.
+
+He wanted to take some time off and process everything that happened. Not that he really wanted to process anything right now, but he knew it was the right thing to do. And just as much did he know that he wouldn't just walk away from this.
+
+“No. I won’t,” he answered.
+
+“Then what will you do?”
+
+“I don’t know. But I guess I’ll have a lot of time and deaths to figure that out.”
+
+Envolon didn’t comment.
+
+Veron looked at the being. And Envolon looked back. It felt like a very bizarre situation to be stuck in. “What about you? Were you in this room all that time?”
+
+Envolon was quiet.
+
+You were, weren’t you?
+
+“What are you exactly?” He paused and sighed, closing his eyes for a moment. “You can’t talk about that? Or you don’t want to?”
+
+Envolon blinked his eyes, or it looked like he did.
+
+“Feel free to ask questions. I just won't be able to answer some of them.”
+
+“Alright.” Veron waited, and thought. “We talked a lot about me and why I’m here. Why are you here?”
+
+“To choose a Bestowed, to form a pact, and to send them on their adventure.”
+
+“That's it? It's just that you don't strike me as a machine following commands. Or am I wrong?”
+
+“Are you asking if I'm human? Because I'm not.”
+
+“No. I guess I'm asking if there are things beyond your purpose here that you care about. Things that you want or wish for. Things that you’re scared of.”
+
+Envolon was quiet.
+
+Uncomfortable? Or unable to share?
+
+“You don’t want to share?”
+
+Envolon remained quiet.
+
+“It’s frustrating to talk to you, with everything you withhold.”
+
+“I understand that. And for what it’s worth, I apologize,” Envolon said.
+
+It feels like I’m talking to a sympathetic bureaucrat. He seems decent, but he’s not exactly cooperative either.
+
+Veron pinched his nose. “Did you watch me? Do you know everything I've been up to? Do you know about the magic I’ve discovered, the creatures that I fought?”
+
+“Some.”
+
+“Come on. You can't be more specific on that? Did you watch me for hours every day, or for seconds every month?”
+
+“Closer to the latter.”
+
+“One of your Fae magic tricks?”
+
+“One of my Fae magic tricks.” Envolon replied in a dry tone.
+
+“Did you see the curse?”
+
+“I saw that you had joined a large group of adventurers, to find out about something that had happened in the south.”
+
+“You don't know anything about the magic itself? Or its origin?”
+
+“When I use my magic, I can't feel or perceive the magic around you. And no, I don't know about its origin.”
+
+At least he answered with something.
+
+Veron leaned back in his chair. Nothing else came to mind immediately. Nothing urgent, and he felt too tired to talk about anything else.
+
+If Envolon was telling the truth, then Veron was tethered to this place, for the purpose of an adventure of his own choosing and definition. He would return here when he died, and Envolon would send him back out into the world. A world that may or may not be affected by some kind of reset, time magic, memory alteration, or something else he hadn’t thought of.
+
+Maybe Ivera is just really bad with faces.
+
+He almost laughed, then sighed instead.
+
+What did he say back then? A world of magic, monsters, and long forgotten fates?
+
+Veron was quiet for some time.
+
+“I guess I'm glad I'm not dead.”
+
+He didn't feel great. Far from it. But if he could feel the earth and wind again, then that was pretty good.
+
+Veron rubbed his temples and sighed. “Can you think of anything urgent I forgot to ask?”
+
+“That's a funny question to ask.”
+
+“Yeah. I don't know about that. How long do we have? I think I'm about ready to move on.”
+
+“Then I suppose you're ready to move on.”
+
+Veron looked at his hands and felt them trembling slightly. He was scared. Scared of the curse, scared of a world that had forgotten him, scared of what it all meant.
+
+He sighed, and smiled a tired smile.
+
+Going to a new world, to face new fears.
+
+“Thanks for the chat, Envolon. I guess we’ll see each other again… when I die.”
+
+Envolon watched him.
+
+“Alright. Back into the fray.” Veron got up and walked over to the sitting Envolon.
+
+Envolon stood up. “Ready?”
+
+“No. But let’s do it anyway.”
+
+Envolon seemed to smile, then started casting.
+
+Veron watched. “Why does it smell of iron when Fae Path magic is cast?”
+
+“Metals. Not just iron. There are subtleties. But you wouldn’t get that.”
+
+“Why?”
+
+“Because you’re an Elemental-“
+
+“An Elemental Path, right,” Veron said and sighed before he vanished.
+
+The sun was bright when he appeared. The winds moved through the tall grass and the rustling leaves above, green and luscious. The earth was dry and the valleys of the Teriam range were sprawling before him.
+
+Veron sat down, and breathed in.

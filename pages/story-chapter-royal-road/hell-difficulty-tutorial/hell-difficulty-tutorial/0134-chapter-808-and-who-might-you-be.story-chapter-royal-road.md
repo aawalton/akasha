@@ -1,0 +1,115 @@
+---
+id: bc66ce25-8e50-5a0f-aa32-a6c2a2d24058
+page-type-slug: story-chapter-royal-road
+title: "Chapter 808 - And who might you be?"
+slug: 0134-chapter-808-and-who-might-you-be
+partOf: hell-difficulty-tutorial
+position: 134
+ownLength: 2247
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3420370/chapter-808-and-who-might-you-be"
+royalRoadId: "3420370"
+---
+
+The moment I appear on the other side, an attack shoots towards me, a laser-like stream of oscillating mana.
+
+A spherical trap barrier encompasses me, and more defensive arrays activate. Behind them, people begin to gather, all wearing the same suits as the men I just dealt with. All of this is happening in a central square room carved into the rock, from which five tunnels radiate outward, each with its own set of tubes sticking out of the walls, and the sound of machinery humming in the distance.
+
+Another wave washes over me, and the pressure threatens to push me to my knees. The beam widens, just barely splitting in front of me as I cut through it and send it off to my sides. I notice constant waves of probing mana searching for something in me, and as they fail to find it, the attacks only continue to intensify.
+
+Realizing what it is, I recall the frequency of the implant I observed in the velnar’s head and mimic it, letting a check on me connect to it. It takes a few tries, but I succeed. For a short moment, the beam stops, the pressure and the barrier disappear, and the alarms fall silent in stark contrast to the erratic movements of the people gathered around.
+
+One of them barely gets the chance to scream as my lance stabs through him, carrying his body into the dark tunnel. Another man falls down, body pierced by Needle Point.
+
+I move again, just in time as the barrier reappears and the pressure returns. The beam of mana shoots forth, moving through the wall, which cracks as it tracks me, and then locks onto me again. A burst of a nearly identical attack shoots from me, briefly pushing against the stream and then widening and blazing with greater intensity.
+
+My counterattack pushes through the beam as they collide in the brief moment before mine overwhelms it. It reaches the device, shooting through it and destroying it entirely.
+
+I use Wraith Dance to move and avoid the attack, and then repeat the maneuver a few more times to dodge a pair of men with high dexterity who’ve begun to follow me. Noting another man attempting to run away, my lance shoots at him, breaks through his barriers, and pins him against the wall.
+
+One of the fast men reaches me, swinging to lodge his dagger in my chest, but a segment of a barrier appears in front of me, blocking it entirely with little more than a few ripples sent through the surface. The man disappears as if he had fallen into the ground. I track him with my eyes alone, finding where he intends to step back out onto the surface. As he does, I’m already standing there, my body boosted by kinetic energy and mana, and a dagger manifests in my hand.
+
+That dagger pierces through the barrier over his skin, through his armor and chainmail below, and digs into his heart. I move just a bit of thermal energy into the dagger and leave it pinned there. At which point it explodes just as I Wraith Dance again to avoid the other speedster.
+
+He dodges the explosion and quickly locates me, moving to track me down. This one’s a lumoran, and the crystalline features covering his neck and forehead have begun to glow, sending a high-pitched noise, some sort of sonic attack, my way while also attempting to disrupt my mana. From behind me, what seems like a spider with just four legs jumps from the shadows to attack me. Some sort of animal.
+
+The man’s bond.
+
+I hesitate, and the four-legged spider grabs me, stabbing its fangs into my arm.
+
+My thermal energy burns the poison, and my mana rises up around me to deal with pressure, and all movement halts. I break through the natural barrier of the man and the spider and forcefully reactivate the teleportation array, sending them both away before disabling said array and overwriting it with my own structure.
+
+A lynthari and a human man exit the tunnels, the lynthari has a [Mana Crown] hanging over his head. The human connects to what’s left of the defensive arrays, reactivating them and taking over the mana batteries, using them to power his domain, which begins to expand, placing him at the center. Like ink, a pale red color seeps into the area, tainting everything with its hue.
+
+Before it even reaches me, the colors around me drain away, and that effect expands further. It pushes against the pale red ink-colored domain and, faster than it can expand, I make it shrink as if time were moving in reverse. It slams into the man, who gasps for breath as his control over the array and mana batteries slips away. The lynthari man who was clearly there to serve as his mana battery doesn't even have time to fulfill his role.
+
+[Eclipse - lvl 70 > Eclipse - lvl 71]
+
+My domain strengthens, fills the air, and for a short moment, I power it with a pulse of black mana I’ve quickly compressed. My eyes read the frequency faster than the skill can change, and I break his [Mana Crown].
+
+A huge amount of mana explodes from it, threatening to destroy the place in its entirety with the resulting pressure, radiation, and friction releasing that amount of mana would cause. Yet before it even touches the lynthari’s hair, I take it over. All of that mana halts in my grasp, the ghost of an explosion caught on the brink of destruction.
+
+My blood surges through my veins, strengthening my other two traits. I move that mana, spinning it and sending it to the fake Mana Crown over my head. It’s a truly massive amount, probably what I could gather in a week of constant effort by transferring the thermal energy of my Ignition Heart into mana.
+
+I begin to wonder why I hadn’t killed the man and his bond and chose to teleport them away instead, when the lynthari man, now without his crown, twists and vomits out a huge amount of blood. His body breaks apart, and emerging from his insides, a baby falls to the ground, entirely covered in his blood and guts.
+
+That baby quickly grows with a tearing of flesh and cracking of bones until it reaches the size of an adult mora, just as tall and slim as the three from the Crimson Forge. The mora just looks back at the corpse it appeared from and snickers before licking the blood from its lips.
+
+[Endo Knight - lvl ???]
+
+“And who might you be-” he asks.
+
+Before he even finishes those words, [Empyrean Lance] stabs through his chest and causes him to lose his balance. He reaches out as he falls, grabbing the human who previously used the domain and killing the man, tearing off his head along with the spine attached.
+
+The mora is twice as tall as the human was and entirely covered in the blood and guts of the lynthari, making him look even more terrifying. The spine he just tore out hardens and grows into a sword, while he tears chunks off the human man's body and shoves them into his own chest, where they merge with him, healing the wound I just caused.
+
+“So you would rather play.” his laugh fills the intersection of the three tunnels, and he attacks.
+
+His body moves in an animalistic, near unpredictable way. His speed is high, even for how tall he is. The edges of his body turn to a blur that almost looks like he’s leaving a stream of transparent blue and green afterimages behind him as he moves. The spine sword in his hand grows even further, stretching into a greatsword, taller than he is, as he swings it at me.
+
+Both he and the weapon halt mid movement, as I hold them there, and a dozen quickly made projectiles pierce through his body, tearing it to pieces.
+
+I follow the movement of mana, and another bloodied baby climbs from the body of one of the corpses around us and begins to grow rapidly. Before the mora can fully reform, I boost my body and grab the spinal greatsword. I shorten the distance between us and slam the sword against the almost fully reformed mora, who resists, holding his forearm up to ward me off. It gets cut through, and the sword stabs into his shoulder.
+
+Even so, the mora pushes hard and stands up tall, twice my height and covered in blood.
+
+He smiles as I let go of the sword, and he grabs it.
+
+When kinetic energy explodes from me, he puts the sword between us and is thrown through the room to crash against the wall with a sickening crunch.
+
+As I shoot more blasts at him, the corpse next to me, the one he climbed out of, swells and explodes with surprising force. Before the explosion even reaches me, mana surrounds me in a barrier that gets splashed in red blood and pieces of flesh. It partially blocks my view, but using my other senses, I track the mora’s movement as his spine sword swings down with great force, those green and blue afterimages tracking it as he does.
+
+The spine sword smashes through my barrier as I step to the side, and it slams into the ground next to me. Before the area can explode from the impact, I absorb all kinetic energy and, in one smooth movement, step closer to the mora and strike his knee as I release that burst in an explosion. It causes him to sway and fall to his knees, his body finally ceasing to tower over me quite so much.
+
+He still holds the spine sword and swings to attack me, but before it touches me, another high pitched blast of kinetic energy explodes into his body. In the next moment, flames surround me, bursting forth and incinerating every remaining corpse in the area.
+
+No kill notification comes, and I can’t feel the mora’s presence anywhere in the complex. I stand there for a moment before making my decision.
+
+I take off my glasses, and my trait pushes itself further as I scan the area within the effect of my released [Eclipse]. I force my mind into overdrive until I find what I’ve been looking for, a faint connection that allowed the mora to use his skill through the people he marked, allowing him to appear here.
+
+My mind spirals through the connection, taking it over, restoring it, and strengthening it. I drain a chunk of my mana to power the effort and then teleport through that very same connection.
+
+The place I find myself in is very different from the underground tunnels. This one is clean, with white walls made of some sort of stone and many potted trees placed throughout the space. There’s even a small fountain nearby. In the middle of that stark white room stands a mora flanked by two women of his kind, while the corpse of a third lies on the floor. One of them is putting a white fur robe over his bloodied body while he gives orders to the other.
+
+As I appear, he turns to me, his yellow eyes widening as he lets out a hiss before an [Empyrean Lance] stabs through him and throws him to the floor. I swing my hand, and like a torrential wave, golden flames blaze ahead, burning both women and reaching towards the male mora.
+
+[You have defeated Blood Mage - lvl 256]
+
+[You have defeated Farseeing Elementalist - lvl 191]
+
+The fire twists mid air, chasing the Endo Knight's beast-like movements. I pivot the stream to track him, the flames lashing against the walls and incinerating the trees as he continues to dodge.
+
+Thick pillars fall from the ceiling, careening toward me as defensive arrays activate, but more mana floods the space around my body, forming a partial suit of armor around me. It is only the upper half, and yet it towers three times my height. The pillars crash against that armor, melting some of my mana and partially disrupting it, but the armor holds, obstructing the defensive mechanism.
+
+One of the armor’s massive arms moves to grab the mora, who jumps over it and spins to avoid a barrage of my projectiles. He shouts in a way that shakes the air, and the flames reaching toward him die off in the shockwave.
+
+The thick metal doors marking the single entrance to the room begin to open, but I halt their movement, absorbing all the kinetic energy as someone outside tries to force them open.
+
+Then, more mana floods forth from me, making the armor thicker just as a hole opens in the floor. From it, a greatsword made of pale, dried-out bone, broken on one side, creating a jagged edge, shoots up, and the mora grabs it. Then, with that beast like grace of his, he takes a step to the side. Still bloodied and draped in the white fur robe, he bows slightly and shows me his teeth.
+
+"Please enlighten me, what caused me to be the target of your hunt?" he asks, readying his body for an attack.
+
+"Consider it a preventative measure," I say, my mana tightening around the room.
+
+He gets no more words from me as more projectiles shoot at him.

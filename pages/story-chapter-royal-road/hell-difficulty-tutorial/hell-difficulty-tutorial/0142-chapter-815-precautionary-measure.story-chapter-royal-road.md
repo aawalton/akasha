@@ -1,0 +1,173 @@
+---
+id: e017f489-3c00-5f3d-9c49-7751314012a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 815 - Precautionary measure"
+slug: 0142-chapter-815-precautionary-measure
+partOf: hell-difficulty-tutorial
+position: 142
+ownLength: 2228
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3462181/chapter-815-precautionary-measure"
+royalRoadId: "3462181"
+---
+
+“Don’t lick the damn thing!” I shout at the Doc.
+
+“Why?” he asks me, seemingly genuinely surprised.
+
+He’s currently wearing white latex gloves, and a single droplet of my blood rests on the tip of his finger, while several other vials sit, already filled with my blood. Some have already been placed in a freezer, while others are spinning inside a set of humming machines.
+
+“It’s weird. At least wait until I leave.”
+
+“Tsk,” he sighs dramatically. He carefully uses his mana to force the droplet back into the vial. After closing it, he turns with a sharp swirl of his white lab coat. “My precious little baby,” he mumbles as he stores it away and turns back to face me. “I require you to return here when you decide to strengthen your trait. And I require you to use both the second and third stage tokens at once.”
+
+“No.”
+
+“Why not!?” he shouts at me.
+
+“Because I would fucking die!?”
+
+At my answer, he begins to gesture widely, even pointing toward the sky as if complaining to some silent god. Finally, he lets his arms fall lifelessly to his sides in defeat. “No one understands. No one’s willing to just sacrifice a little in the pursuit of knowledge. All the toughest battles are mine to fight,” he shakes his head. “Why did you even come to see me then?”
+
+“Maybe because I thought you could tell me a bit more about my blood? As far as I know, you work for the Primordial Knights, and we pay you. Currently, I am the Guild Master, so...”
+
+The lynthari looks at me almost as if he pities me. “I work for the Primordial Knights for free.”
+
+“... You do?”
+
+His hand lands on my shoulder as he shakes his head. “A lynthari of my talents is well sought after. You have no idea how much other guilds have offered to get me to join them. But I stay! Because where else would I find such a collection of beautiful, lunatic specimens to work with?”
+
+“The first part of your declaration almost made me respect you, but the second part erased it all. Anyway, I’ll stop by when I head back to the fourth floor so you can experiment with my blood a bit. I will also leave behind a tiny black orb so you can observe the ways they influence each other.”
+
+“I want one of your arms and an entire leg. One eye, too.”
+
+“Yeah, why the hell not? Do you want anything else while you're at it?”
+
+The Doc’s ears twitch as he looks at me, curious. “Maybe? A piece of flesh from your butt. Is it true you store your mana there? Some of the female demons were talking about that the other day.”
+
+I close my eyes and force myself to breathe.
+
+When I open them again, I say, “I can’t give you my arm, leg, and all that. Since the body upgrade and since I got the trait, I regenerate slower. But I can leave you a few fingers, maybe an arm up to the elbow, if you promise to diligently work on it.”
+
+The Doc nods. “I will. But you didn’t answer my question. Do you store mana there? I’ve heard of such traits. It is true the location would be an interesting choice, but I have heard worse.”
+
+“I don't.”
+
+“Huh. Have those demonesses been lying to each other?”
+
+“More than that, it sounds like they were joking among themselves.”
+
+“Joking,” the Doc repeats the word. “Explain it to me,” he says, looking at me with the same clinical curiosity he usually reserves for an interesting specimen or a severed body part.
+
+Quickly changing the subject, I hand him the vial containing a droplet of spinal fluid. He snatches it up. With a twisted sort of curiosity, I watch to see if he’ll actually bite the glass or lick the vial, but instead, he simply slides on a monocle. The lens cycles through several colors in a single second before he tucks it away.
+
+“Leviathan spinal fluid. Likely from a powerful Greater specimen. They’re quite the cute little critters. And tasty, too.”
+
+“I’ll take your word for that,” I answer, remembering the leviathan I fought in the dungeon back on Earth, where I claimed my fragment. “Are they specialized in mana?”
+
+“They are known for having massive mana reserves,” he pauses, looking me up and down. “A bit like you, even if they aren't quite so beautifully broken. I bet a leviathan would give me a few buckets worth of blood and its eyes without all this whining.”
+
+“Yeah? Why don’t you try talking one into it, then?”
+
+“Maybe I will!” he shouts. He storms toward his shelves, where items and materials have been strewn about in a mess that defies any thought of proper organization, though he finds what he’s looking for with terrifying speed. It’s another vial, this one filled with a murky orange liquid.
+
+He uncaps the vial of spinal fluid and eyes it closely as he adds a few drops of the orange solution. After that, he pulls a jar of what looks like dried leaves from the shelf and tosses them in. Reaching into another, he adds a pinch of grey ash, followed by a small chunk of unidentified metal. Finally, he uses a very fine brush to paint glowing symbols directly onto the glass.
+
+“Add in three drops of your blood,” he commands.
+
+Curious, I follow his lead. I watch as my mana filled ichor hits the mixture, causing the other materials to hiss and activate. The small ball of spinal fluid dissolves, clouding the entire vial.
+
+“Now, surround it with as much mana as you can, as quickly as you can. If it turns golden, it’s great. If it turns green, it’s even better. If it turns brown, it will be the best.”
+
+I lift an eyebrow, having no idea what to expect from this, and I have a sinking feeling this crazy catboy doesn't either.
+
+“Come on,” he repeats, shoving the sealed vial into my hands.
+
+Shaking my head, I hold my breath and stare at the vial gripped in my fist. My senses reach toward my mana, and for a split second, all my minds snap into one. In a heartbeat, the mana within me moves like a torrent through my body and veins. I cycle it, concentrate it, and then slam it into the space enclosed by my hand. No mana leaks out into the lab, and every bit of it is focused on that single point as I blast the vial with everything I’ve got.
+
+“Good, that’s enough!” Barely a second later, the Doc excitedly grabs my hand, prying it open like an impatient child.
+
+Once the vial is revealed, the original materials are gone. In their place is a slightly transparent, pulsing liquid.
+
+It’s bright pink.
+
+“What does that mean?” I ask.
+
+“I have no idea!” the Doc shouts happily.
+
+“It doesn’t even have a description.”
+
+“I know!” His mood doesn’t dampen in the slightest, as he grabs an item from the shelf that looks far too much like a syringe, and after pulling all the liquid into it, he forces the syringe into my hand. “If you ever need a little boost, just give yourself a stab and inject the whole thing straight into your heart!”
+
+Yeah, why the hell not.
+
+An hour later, both Weslin and I are leaving the branch, both of us silent and drained of energy.
+
+“You owe me. They wanted you to give a speech, make some decisions, and all that shit. I took care of it all myself,” he says.
+
+I look up from the case containing the syringe, glancing at the half demon. “I promise to be nice, not swear, and avoid causing you any trouble.”
+
+“Add one million shards.”
+
+“The most I can do is a thousand.”
+
+“Okay, transfer them to me.” He says unexpectedly right away.
+
+That causes me to hesitate in surprise. Even though it is a pitifully small sum, I find myself annoyed and, for some reason, really not wanting to give them away.
+
+Weslin just stands there, looking at me seriously while constantly pinging me with a transfer request for 1000 shards.
+
+With narrowed eyes, I confirm the transfer. Weslin gives an unbothered smile. “Nice doing business with you.”
+
+I know it isn't much. I know it’s an incredibly low sum compared to everything he’s done for me. Yet... the rest of the way to the meeting point, I keep thinking of petty things I can do to Weslin for revenge.
+
+We find the rest of the boys at the agreed upon spot near the edge of the outpost. They’re waiting for nightfall. Brich and Savant are caught in a quiet conversation, while Morwag sits with his eyes closed. His mana and primordial energy move in a way that seems like a mix between training and meditation.
+
+There is a small group of attendees nearby, curiously looking their way, and I notice a few assistants of this outpost’s "King" keeping an eye on them. When Weslin and I join, the chatter speeds up, and more people move about. Paying closer attention, I notice others spying on us from the nearby buildings, likely members of guilds with branches here or some other nosy organizations.
+
+“Is it really that rare for multiple S ranks to hang around together?” I ask as we sit down. A pulse of my mana sweeps out, erasing all mana based spying and sneaky tracking marks in the vicinity.
+
+Savant is the one who answers. “All three of the Primordial Knights’ S ranks moving to the higher floors at once? Of course, people are going to panic. Your guild isn't exactly known for being reasonable.”
+
+Weslin counters, “As if Crimson Forge were any better. If it were me, I would think Crimson Forge hired us for something ugly. People still remember how things ended with the Ancient Armory.”
+
+“That’s true,” I nod. “Even the Ruler of Diligence was pissed off back then, so it makes sense that people would be curious.”
+
+There is a four second long silence.
+
+Then, Brich slams his hand on the table, causing Morwag to open one eye in annoyance. The lumoran shouts, “I would think that too!”
+
+“Me too!” a new voice adds. It tries to shout, but the speaker is clearly not used to it, so it just sounds like a regular sentence spoken a bit louder. Morwag opens both eyes this time, and we all turn toward the newcomer. None of us had noticed the person approaching until now.
+
+Standing next to us is a ridiculously cute vyssari child wearing a tiny suit with perfectly styled hair. He stands as if someone glued a rod to his back for posture and bows to us when we turn to him.
+
+“Sirs, it is nice to meet you all. My name is Zant, and I am one of the vessels of the Ruler of Diligence,” he says in a perfectly polite voice. He then turns to me. “Sir Nathaniel, it is truly wonderful to see you once more. I do hope I have remained within your memory.”
+
+I blink a few times and nod quickly, remembering how I threw that rude velnar over the balcony for this child with a little help from Kindness.
+
+"Of course I remember you!" I say.
+
+“That is nice to hear.” He nods, and a tiny smile appears on his face.
+
+I would throw a balcony off a balcony for this tiny guy.
+
+“While I haven't had the opportunity to meet the rest of you yet, I have heard a great deal about your accomplishments, and it is a pleasure to meet you. I realize that you are all exceptionally busy men, so I will get straight to the point. I hope you won't take this poorly, but I have been sent here to keep an eye on you. I am to ensure you cause no harm that would affect a large number of fresh attendees or locals, as we are aware you are heading to the higher floors. Such situations are rare, but with so many S ranks together, this was judged a necessary precautionary measure.”
+
+“And if we don’t want you to?” Morwag asks.
+
+“In such a case, I am allowed to use any amount of force I consider necessary, Sir Morwag. I won't interfere with your adventure in any other way unless it becomes necessary. I hope you don't mind, it would be rather sad.”
+
+“Of course we don’t mind!” I answer quickly. I pick up the tiny guy and set him on the bench next to me.
+
+Before he realizes what's happening, I’m shoving a drink into his hands, and finding that even a normal glass looks enormous in his grip.
+
+He looks at me, confused, but then lifts it and takes a few long, loud gulps.
+
+“That is alcohol, you know,” one of the unimportant boys says somewhere in the background.
+
+The tiny vyssari drinks the glass and then lets out a burp that clearly surprised him. “I apologize,” he says immediately.
+
+But he can’t say more because I take the empty glass, replace it with a cookie, and gesture for him to eat.
+
+What a mess this has become.

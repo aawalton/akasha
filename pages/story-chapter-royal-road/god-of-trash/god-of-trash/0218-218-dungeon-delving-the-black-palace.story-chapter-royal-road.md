@@ -1,0 +1,103 @@
+---
+id: 8aeb7e8f-0f7e-50d7-bf21-38372549e9d2
+page-type-slug: story-chapter-royal-road
+title: "218. Dungeon Delving the Black Palace"
+slug: 0218-218-dungeon-delving-the-black-palace
+partOf: god-of-trash
+position: 218
+ownLength: 1875
+unit: words
+publishedAt: 2025-10-22
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2697160/218-dungeon-delving-the-black-palace"
+royalRoadId: "2697160"
+---
+
+Rhys set off deeper into the Demon King’s palace. He wasn’t just looting for pleasure, or to piss off the annoying ghost who couldn’t stop him while he looted said ghost’s own palace, but for good reason. He didn’t have many resources as he was right now. All his gold was in the Empire’s denominations, which might be a bit sketchy to suddenly pull out, far from the Empire’s border; it was the kind of thing that would get noticed and reported, anyways, and that was the last thing he wanted. Most of his money from Purple Dawn he’d used as seed money to start his fast food business, or to buy supplies, pay rent, and so on. It hadn’t seemed like a problem at the time, but now, it was a big problem. He could always melt it down, and he’d probably end up doing that, but in the meantime, he could bribe the locals with some money from the Demon King’s coffers, and hope that opened up hearts and minds for him. Worst case, he could sell some of the chandeliers to some distant pawn shop, then show up in town with cash.
+
+And he needed to bribe the townsfolk, in order to get good information out of them. He didn’t plan on being obvious about it. He’d buy a few rounds at the local bar, or fund a kid’s medicine, or make some garbage disappear… definitely that last one, and just make sure the locals were fat, happy, and ready to chat.
+
+It also didn’t hurt that he was in need of some trash. During his time in the secret realm, he’d rested and recovered, which was enough to stabilize his ordinary core, but his trash star was still low and spluttering. Well… spluttering wasn’t right anymore. He’d stabilized it; turned it down to its minimum running heat and minimum burn, which kept it from burning down any faster than it absolutely had to. But stabilizing it meant just that, and nothing more. It was stable, and it wasn’t going to burn out any time soon… unless he drew on it, or called it up, and then he’d be in danger real fast. He could use his ordinary core safely, but it… he didn’t know what it was, but it wasn’t as powerful as his trash core. They were both Tier 4, but the trash core was just… more.
+
+Was it because it was in line with his path? Because his base core was trash? Some combination of the two? Rhys didn’t know, but he definitely knew that his base core was weaker. If he hadn’t had two cores inside him to compare, he might have thought there was no difference, that Tier 4 was Tier 4 was Tier 4, and it was a matter of how you used it, your path, and what techniques you learned that determined the variation in strength, but now that he had effectively two cores, he could say for sure that the quality of one’s core and the mana… or energy within it, also determined one’s strength.
+
+He tried absorbing the dust as he walked, but it didn’t qualify as trash, for some reason. Probably because no one had consciously threw it away, or because dust was fundamentally dirt or filth, and not fully recognized as trash. Trash-adjacent, though. He was pretty sure he could eventually figure out how to absorb dust, if he pondered it for a while or locked in and really really tried, but his goal was to loot the Demon King’s palace, not vacuum clean it. A little cluster of dead bugs in the corner vanished into his core, and a few stray mouse carcasses and dry, dusty moths joined them, but it wasn’t enough to be worth talking about. There were some ragged, motheaten curtains and ruined rugs that qualified, too. Those were enchanted, and counted over their weight in trash-value, even when he considered the mana… which was a bit surprising, until Rhys considered the emotional weight of throwing away something valuable. It hurt more to throw away something that had once been powerful or beautiful than to throw away something that had had little value in the first place. Curse power functioned on emotions, and negative ones, at that; moreover, Rhys was able to handle curse power with ease, because most mages considered it trash. Therefore, it wasn’t too surprising that there was an emotional linkage to trash value as well, beyond simply mass, weight, and mana investment.
+
+But that was it. Rhys walked down the halls of the Black Palace, his quiet footsteps loud in the silence, absorbing the bits and pieces of scrap he encountered, and found little else. He looked to his left. A door hung off a single hinge, its lower half bashed to bits, the lock shattered. Beyond it, the room was in tumult. Bookcases laid on their sides, empty of their tomes. Furniture was thrown around, upholstery torn open, the stuffing spilling out. Even the walls were bashed in, the non-marble panels cracked apart. Everything of value had been caried off. He wasn’t the first one to try looting the Demon King’s palace, it seemed. He raised his hand, and the ruined furniture flowed into his trash star, but aside from that, there was nothing worse considering, let alone pausing for.
+
+Beside him, Daran sighed. “I really hoped some tiny scrap might remain of my legacy.”
+
+“Eh. Every mob loves a good looting. You couldn’t really expect to be the first dictator to escape from ruin looting-free, could you?”
+
+“I wasn’t a dictator.”
+
+“You’re a dick, and you were a tator.”
+
+“What’s a tator?”
+
+“Brown, earthy thing? Comes out of the ground? They’re real delicious when you fry them in oil… here, let me remind you—”
+
+“I know what a potato is!”
+
+Rhys gave him a look. “Then why’d you ask?”
+
+Daran reddened. His cheeks puffed out, and his nose wrinkled, and then he took a deep breath and pinched the bridge of his nose. “You are insufferable.”
+
+“Oh, good. I was worried it wasn’t getting across. Now come on, pot. This kettle’s on the move.”
+
+Daran stopped. “You won’t find anything else. This whole place has been looted. That should be clear, by now.”
+
+“Yeah. Alright, then. I guess it’s back to the entrance hall for the chandeliers.” Rhys turned about-face and headed for the hall.
+
+“Stop. There’s a better place. Somewhere that I would like to visit as well, if you promise not to loot it.”
+
+Rhys raised his brows. “What if I promise to loot it just a little bit?”
+
+“Then—fine. Just a little bit. There’s something I need there, but I need you to open it.”
+
+Oh? He must need it bad, if he’s willing to put up with looting to get it. “Now I’m curious about what you want so badly.”
+
+Daran shook his head. “You’ll be disappointed.”
+
+Rhys shrugged. He was pretty happy with sucking up trash from the looted castle, so he wasn’t sure anything that was worth the Demon King’s attention would disappoint him. Worst case, he’d just have fun taunting Daran about whatever it was he was so desperate to have, but he had faith in the Demon King. Daran was after something good, he could feel it.
+
+“The looters wouldn’t have found it?” he asked, a little surprised that Daran was so certain this thing he was after would still be where he’d left it.
+
+“No. Putting aside one… pest, no one should have been able to find it, not through all these years. I made sure to hide it well.”
+
+Rhys gestured. “Lead the way.”
+
+Without another word, Daran took the lead. Rhys didn’t know if it was instinct or muscle memory, but the man walked when he moved, rather than drifting like a proper ghost. It reminded him of a certain tenth game in a non-series where almost every single person was dead, but they were all still walking around on their legs, anyways. He eyed Daran from behind, then glanced over his shoulder, remembering the body in the hall. At least this dead man looked the same age he’d died at, unlike a certain glasses-wearing, one-eyed, one-arm-using badass. He still didn’t quite understand how that guy and that guy alone had gained thirty years postmortem, but who knew? Death did things to a man. That man, mostly.
+
+Daran led him down the stairs, down, down, down, into the depths of a musty stone basement that felt as though it had belonged to a different, defensive castle, not this pleasure palace, though at least one of the rooms had definitely been repurposed, if the excessive candles, whips, and the fur on the restraints meant anything. Daran eyed the cell and scoffed, then led Rhys on, to an empty stretch of wall. He lifted his hand and touched it to the stone, making a pressing gesture. “Here. Insert your mana into this stone.”
+
+Rhys lifted his hand. He paused, then looked at the Demon King. “If this turns me into some kind of sacrifice to fuel your revival, I just want you to know that I’ll curse you from inside… and also, that I’m filthy and full of disgusting impurities. I’m the worst revival fuel.”
+
+Daran rolled his eyes. “Right, because I’d build my revival formation into a random wall in the basement of my erstwhile palace.”
+
+Rhys shrugged. “I don’t know your life. Maybe you built it into the toilet. I dunno. I’m just being cautious, man.”
+
+“The palace doesn’t even have a toilet.”
+
+“Gross.”
+
+Daran gave him a deadpan look. “Mages don’t need to—”
+
+“I know, I know.” Rhys pushed on the stone and fed mana into it, and it began to glow. He remained hesitant, ready to pull back at the slightest sign of harm, but instead, it swallowed a small portion of his mana, then stopped. The glow spread to stone after stone, until the two stacks of stone immediately in front of Rhys were all glowing. They shuffled, pulling apart, and opened up into a doorway.
+
+“Neat,” Rhys said. “Good thing it isn’t diagonally.”
+
+“What?”
+
+“Don’t worry about it.” He leaned in, looking at the edges, then ran his fingers over them. Faintly, the void called out to him, pulling him in like it always tried to, but it was only there around the edges. This wasn’t a teleportation technique. Instead, it was a void pinhole lined up with another void pinhole, so that the two joined together into one opening. He nodded to himself. “Now that’s thinking with portals.”
+
+“Yes? I’m aware?”
+
+Rhys looked over his shoulder at Daran, then gave him a thumbs up. “Good job, buddy.”
+
+“There’s no need for condescension.”
+
+“I agree.”
+
+Daran harrumphed and stepped through. Rhys followed. Behind them, the rocks glowed once more, then drew shut, and it was as if they’d never passed through at all.
+
+On the floor, leading up to the wall, was one set of footprints, faint, as if the walker had barely disturbed the dust in their passing. And next to it, one dainty set of pawprints, left very deliberately in the dust, that just like the footsteps, walked up to the wall and vanished.

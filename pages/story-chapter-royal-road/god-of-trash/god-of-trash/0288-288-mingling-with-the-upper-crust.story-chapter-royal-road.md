@@ -1,0 +1,137 @@
+---
+id: 38d0c746-d5f0-5678-8f51-e34759c4ebc0
+page-type-slug: story-chapter-royal-road
+title: "288. Mingling With the Upper Crust"
+slug: 0288-288-mingling-with-the-upper-crust
+partOf: god-of-trash
+position: 288
+ownLength: 2282
+unit: words
+publishedAt: 2026-03-18
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3166872/288-mingling-with-the-upper-crust"
+royalRoadId: "3166872"
+---
+
+At last, their carriage reached the front of the line. The footman opened the door and helped Lily out, and Rhys hopped out after her, smiling all around. A few people stared at him and whispered… or rather, stared at Norton Tunk and whispered, which he totally understood. The wastrel whose only reputation was doing drugs and spending his whole life at the brothel was here, at this party? Honestly, he (Norton) was dragging down the party’s reputation just by stepping out of his carriage.
+
+Lily shrank back, clearly uncomfortable. Rhys took her hand and smiled at her. “Come. They don’t know yet that I’ve changed. Let’s show them.”
+
+As much as he hated people talking behind his back, he did have to admit that he was used to it. Sure, he hated it, and it made him feel gross all the way to his heart, but it’d happened so much that he’d learned to push the feeling down. This level of ‘talking behind his back’ wasn’t going to bother him.
+
+It didn’t hurt that he wasn’t himself, but instead “Norton Tunk.” Honestly? It kind of made the whole situation ridiculous. These people would all be whispering about poor Lily and what a good man Norton had been if they’d known he was dead, regardless of their actual opinions about him, but now, they were letting the truth slip out despite the man’s dead status.
+
+Rhys felt the urge to blow his hair up big and hold his hands out in front of him in a vague grasping gesture. Society, he thought, but he thought it like the word ‘aliens.’
+
+She looked up at him, then took a deep breath and nodded. “R-right.”
+
+He looked at her, and the additional absurdity struck him: that she was nervous about this because they might laugh at her, while he was nervous about this because his life, and the life of many of his friends, were all at stake here. Everyone’s got their troubles, he thought, and chuckled to himself.
+
+Lily frowned at him. “What?”
+
+“Nothing. I’m just so excited to be here.”
+
+“You’ve been making strange noises this whole time. You didn’t start taking something again, did you?” she asked, squinting at him.
+
+“I’m stone cold sober,” Rhys assured her. He paused a beat, then glanced at her. “I’m just weird.”
+
+“O-oh.” Lily glanced down, blushing.
+
+Why’s she blushing? Normies are weird. Rhys offered her his hand. “Shall we?” Milady. Tips fedora, he added silently. And then: Damn, I really am nervous. I only pull out the stale memes when I’m really anxious.
+
+“I’ll try to be more normal,” Rhys assured her.
+
+She nodded, still not meeting his eyes.
+
+They strode toward the gardens, where servants in matching, neat robes and white gloves gestured them toward the house. Just beyond, a butler-type stood in front of a small cadre of servants. He smiled at them. “Good afternoon. Would you like to be guided toward the house, or would you like to experience the rose maze and gardens?”
+
+Rhys smiled. The maze sounded annoying, and he already had enough moving pieces without adding on a ‘fun’ maze to the front. “Gui…”
+
+Lily gripped his arm. Her eyes lit up, and she stared eagerly at the roses.
+
+He looked at her, then sighed. Well, it can’t be too hard. It’s meant to be enjoyable entertainment for nobles. “We’ll wander the rose garden, thanks.”
+
+“Excellent. Please, take this.” He reached into his robe and pulled out a slender cylinder that looked, for all the world, like a flare. “If you cannot find your way out after an hour, please light this, and an attendant will find you and lead you to the main hall in time for dinner.”
+
+…Or maybe it can be that hard, he thought, raising his brows a bit. Nonetheless, he accepted the flare. He didn’t necessarily want to make his move before dinner. After dinner, when everyone was fat, fed, and lazy, and had successfully made it through most of the event with no negative occurrences… that was the time to make his move.
+
+And maybe he was regretting his choice a little… but then he looked at Lily, and he couldn’t bring himself to ask to be guided. It really, truly, didn’t matter that much to him, and Lily looked like she’d really enjoy it. He didn’t want to ruin someone else’s fun when he didn’t even know if he’d be able to do his plan today anyways, since he didn’t know for sure if Virgil was going to be at the ball.
+
+Usually, rose bushes wouldn’t be dense enough to truly form a maze. Roses were sparse things, with lots of room between the thorned branches… or at least, the ones Rhys knew had been. These roses, though, were thick and dense, with tightly twined branches and big, fluffy flowers as big as his head. They oozed energy, almost pulsating with mana. The sheer density of energy in the roses was almost too much to comprehend.
+
+Lily bounced off ahead of him, eager to get moving through the maze. He followed Lily into the gardens, tucking the flare into his storage ring.
+
+The gardens were beautiful, to Lily’s credit. Rhys paused, taking in a white rose with red stripes on its petals, and reflected that he really hadn’t been taking time to stop and smell the roses lately. Soon, he promised himself. Soon, he’d have Bast and Straw freed, and Mouse back on his side, and then… then he could stop and smell the roses. For now, this would just have to be a temporary respite. A pause in the brief moment of calm before the storm.
+
+Ahead of him, Lily bounded along, pausing to take a close look at many of the bushes. She glanced back at him, then gestured him closer. “Do you see this? This rose.”
+
+Rhys obediently leaned in. It was a small rose with delicate vines flecked with razor-sharp thorns. The tightly-curled flower spread blood-colored petals in the dying light, perfect and beautiful, yet somehow exuding a sinister aura.
+
+“It’s very pretty,” he said, not sure what else to say. That rose is creeping me out seemed like a weird way to take the conversation, not to mention a buzzkill.
+
+She nodded. “Look closer. Do you see how its leaves are more finely serrated than most roses? Almost like teeth?”
+
+He leaned in. Now that she’d mentioned it, the edges of the rose did look almost like fangs. “Yeah, I do.”
+
+“It’s a blood-drinking rose. You can tell by the bright color, but the leaves are the real hint. If one were to pluck this rose and throw it on an injured foe, it would drain the injured person dry.”
+
+Rhys raised his brows. “Oh.”
+
+She caught his expression and smiled. “But if you powder the petals and use it in a tincture, it can stop bleeding in even the most mortal of wounds. It’s both a weapon and a cure. This is the path of the rose: to be both curse and cure at once.”
+
+Rhys tilted his head. “You seem to know a lot about this.”
+
+“I dreamed of being invited to the Traje’s Briar Heart School when I was a girl. I memorized all the flowers, learned all the techniques they shared with the world… even some they leaked out unintentionally,” she said, her eyes gleaming with passion. And then her expression drooped, and the passion vanished. “But then I grew up, and I realized it was impossible.”
+
+“Don’t say impossible. You could still try and join, even today,” Rhys said.
+
+“No. For someone of my talents, it’s impossible. It’s simply beyond my reach. My role is as a housewife, and that’s all.”
+
+“Don’t say that. Didn’t I show you? You have potential, just like everyone else. You might have to work harder to reach it, but that doesn’t mean it isn’t possible at all. If you work as hard as you can, I’m sure you could at least get accepted to the school and officially become a member of their cadre,” Rhys said.
+
+She paused at that, looking up at him. After a moment, she shook her head. “The things you can do… they aren’t possible for everyone. If you aren’t there, I struggle to make progress. I can’t step forward on my own. Besides, I’m too old.”
+
+“The only thing keeping you from stepping forward is that defeatist attitude. Have you ever applied?” Rhys asked.
+
+“I… was hoping to get invited. I wouldn’t want to embarrass myself—”
+
+“Embarrass? Isn’t this your dream? Isn’t it what you’ve always wanted? A dream is worth embarrassing yourself for, wouldn’t you agree?”
+
+She looked down. Her cheeks flushed, but not with embarrassment; with frustration. “You don’t understand! I can’t. I can’t!”
+
+Rhys crossed his arms. “As long as you can say that with as much determination as you just did, then I agree. No, you can’t. It’s only when you abandon that defeatist attitude and actually try, regardless of how hard or embarrassing or… whatever it is, that you can achieve the things you so desperately want to achieve. And don’t tell me ‘I’m too old.’ We’re mages. Who cares how old we are? Isn’t it our goal to eternally keep learning and growing, to never stop moving forward?”
+
+“For some people, it is. But not for me!”
+
+“Why not? You have all your limbs, your senses, and your vigor, not to mention wealth and privilege. There are people who would kill to be in your position—”
+
+Lily shot him a shocked look of realization at that.
+
+“—not me. I’m here for other reasons. But that’s not the point. The point is, there are people who would kill to be in your position. And what are you doing? You’re telling me it’s not possible. Have you ever tried? Or did you just give up before you started?”
+
+“I thought withdrawing quietly was the best for everyone.”
+
+“Withdrawing quietly? Ha, sure, it’s best for the school, because they don’t have to look at your application, huh? What if the school wants you? What if they desperately need students like you, and you’re actually harming them by not applying?
+
+“Don’t let something as immaterial and worthless as expectations keep you from trying. Because the only thing more annoying than a defeatist, is someone who’s never tried, telling someone who has tried, that what they’ve done is impossible—and thinking they, who have never tried, are the ones in the right, and not only that, but that they, having never tried, have the right to tell the one who’s tried and succeeded that they are wrong and that what they know as truth, what they know is possible, cannot be possible.”
+
+It was a gripe from his old world again, an old tiresome mental hangup. Someone who’d never tried to do the things he’d done would tell him that it wasn’t possible for him to have dome them, and gloat and act righteous, as if they’d caught him out—even though he’d done whatever it was they were talking about. Usually, he just didn’t have the energy to point out all the little details of how they were wrong, but walking away always left him with a bitter taste in his mouth.
+
+This conversation was no different. When he thought of himself, abandoned in the garbage patch, refusing to give up even if the world said it was impossible, and her, here at the top of the world, sniffling about how she could never become the mage she dreamed of being due to the mildest barrier… it really made him want to punt her right out of this rose garden. He held back since it wasn’t the gentlemanly thing to do, and he was, after all, the reformed version of Norton Tunk… but man. It got right under his skin in the worst kind of way.
+
+She stomped, frustrated. “You don’t understand. They won’t take me! They won’t.”
+
+“So? So what?”
+
+“What?”
+
+“So what? Grow your own roses. Build your own techniques. No one’s stopping you from doing that. Even if I don’t understand this situation, even if you really are right that they won’t accept you as a student, don’t let that stop you. You can do it on your own. No one can stop you.”
+
+“That’s not how this works! Maybe it worked that way for you, but—but making a start from a talentless place is a talent in of itself!”
+
+Rhys spread his hands. “If you’re going to chalk everything up to talent, then there’s nothing I can do for you. All you’re doing is convincing yourself you can’t do anything. If you spend your whole life making up excuses for why you can’t accomplish anything, then yes—you won’t accomplish anything. Stop making excuses and start working.”
+
+He knew he sounded like those garbage cheap motivational speakers—you can do anything if you try! Stop making excuses, start working!—but for the first time in his life, he’d run into someone who actually needed to hear that advice. It was crazy to encounter someone who really didn’t think they could accomplish anything, who really could be helped by just being told ‘you really can do it, idiot’—the ‘idiot’ free of charge from Rhys himself. Of course, she didn’t seem to be convinced, nor did Rhys think he’d done the best job of selling it, but damn… just running into that person was wild.
+
+He sighed and lifted his head, looking at the mansion. “This isn’t getting us anywhere. Shall we proceed?”
+
+Lily took a deep breath, then nodded, all her frustration and irritation hidden behind a mask. “We shall.”

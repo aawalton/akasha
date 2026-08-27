@@ -1,0 +1,253 @@
+---
+id: b55788fe-6351-5f16-bfc4-ab7f327cbf1f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26"
+slug: 0026-chapter-26
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 26
+ownLength: 3287
+unit: words
+publishedAt: 2025-12-01
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2809948/chapter-26"
+royalRoadId: "2809948"
+---
+
+Chapter 26
+
+“Two mosquitos coming our way,” Reka called out. “Pull the body on land and rest. I’ll take care of them.”
+
+Veron watched as Hayden and the bear grabbed on and pulled the corpse. He helped, sliding in the mud before he fell hard on his knee. He winced and got back up, pulling again. With a groan, they got the body out and left it in the shallow water. Veron could see Reka slice at the approaching mosquitos with her shield raised, the critters falling before they burst, covering her shield and legs with blood.
+
+Veron was still breathing hard, everything below his waist wet and covered in mud. “Hells,” he said between breaths. At least the others seemed just as winded after that struggle. And Hayden was perhaps even muddier than he.
+
+“Crushed your shield,” Silvie said, getting a cloth out of her pack before she wiped down her blade, then handed it to Hayden.
+
+“Injuries? Veron?” Reka called out.
+
+He checked his chest but only found a bruise. “My chest piece has a big hole but I’m just bruised. A few scratches. Do they have venom?”
+
+“No. But we should get you cleaned up as soon as we can,” Hayden said. “Maybe grab the pieces of rock you lost.”
+
+Veron nodded, moving around the large monster before he used his Harmony to find the remaining chunks of his shield that hadn’t been swallowed or had fallen into the pond. He found that he still had some Focus left, even after the four shots and additional shaping. The Path upgrade is settling in.
+
+He breathed in deep, unsure what to do with his rocks before Silvie handed him the dirty cloth to wrap them up.
+
+Reka in the meantime was circling the body of the Vereltir, drawing into the mud as the tip of her gold engraved wand glowed ever so slightly with a dull blue hue. Veron wondered if it mattered that the runes she drew would likely not be particularly accurate in the mud, some she even drew straight into shallow water. Probably not then. Or they last for a little while?
+
+With every rune done, his focus was more drawn to the body, to the foul smell in the air, the warmth of the marshes, the water, the wind. He breathed in and felt calm, looking now at Reka, her sword sheathed, shield on her back. Her left hand was stretched out towards the body, holding in it a steel cube covered with slightly glowing golden lines of runic text. Sweat pooled on her brow as the world around them focused in on her, her arm strained as she slowly moved her wand, pushing against what seemed like an invisible force. Something snapped and she went down to one knee, the runes on the square she held glowed bright and then their light waned.
+
+The essence was gone, the corpse before him dull and uninteresting, the smell of the marshes fading and his attention returning to the buzzing of the flies and mosquitos close to him, none of them the cat-sized versions.
+
+He felt drained and tired, watching Reka get back up and store the cube in her pack.
+
+“Well done everyone,” she said. “That should be an adequate one. Let’s find some shelter, clean up, and rest.”
+
+“We’re not taking anything else from the corpse?” Veron asked.
+
+“The scales fetch a good price but they’re heavy,” Hayden said. “Anything else valuable was on its head. Eyes, tongue, and teeth. We destroyed most of that.”
+
+“Noted,” Veron said and looked at the almost caved in head.
+
+“Fifteen minute walk to a domed and mostly dry ruin,” Reka pointed. “Everyone ready?”
+
+Veron carried the remains of his broken shield, his spear, and his mud covered pack. He would’ve expected himself to be entirely exhausted but while he felt tired, Veron could tell that he was already bouncing back. The hole in his chest piece bothered him, so he slowly molded chunks of his broken shield into it while they walked. He managed to close it up before his Focus ran out, but he could tell he wouldn't be able to shoot another rock until they got some rest.
+
+Veron doubted that he could remake his shield down here as well, even with the recent Path upgrade, but he didn’t think he’d need half a week to make a new one again either.
+
+That creature was strong enough to straight up crush it.
+
+He felt proud nonetheless. It had crushed his shield instead of him after all. If they faced another one, he’d just have to make sure not to end up in the same position.
+
+Easy that.
+
+It wouldn’t be, he knew, but the others seemed confident still, the group taking detours to avoid larger ponds and sections of water, passing a few small ruins before they came up on a slanted two story stone tower with a domed roof jutting out from the marshes. There was no visible door but a few open windows led inside.
+
+Hayden went in first, followed by Silvie, then Reka, and finally Veron. The ground floor was flooded, algae and other residue floating in the water. Some parts of the rounded wall looked to be crumbling, the wooden beams supporting the ceiling rotten but still holding up. A stone stairwell led out from the water up to a shut door on the second floor.
+
+“Locked,” Hayden called out. He knocked on the door. “Anyone there?”
+
+Nothing replied.
+
+“Let me check,” Silvie said and set down her pack, quickly taking out a set of lock picks and getting to work.
+
+Veron leaned against the wall, setting down his pack and rocks. With this tower here, he really wouldn't have needed to carry all of the pieces. Though he supposed that putting parts of the shield back together instead of shaping new rock would vastly cut down on the Focus he needed. “Is this place used by adventurers?”
+
+“Probably. We've rested here before as well. Didn't know anyone had a key but maybe they even added the lock,” Reka said.
+
+“Doors are supposed to be locked,” Hayden said.
+
+Reka gave him a slightly annoyed look.
+
+Veron raised his eyebrows in question.
+
+“Hayden believes that some of the doors are locked by the magic of the dungeon itself.”
+
+Hayden didn't comment on it and Silvie whistled when she checked and opened the door. “Here we go. As to that theory, with this place somehow creating new monsters and even metal veins, why would it be so impossible for it to lock doors? There’s even hidden treasure.”
+
+“Because it makes me uncomfortable,” Reka said. “I'd like to know when I can retreat without a door suddenly locked behind us.”
+
+“Fair enough. At least we've never seen that happen so far,” Silvie said.
+
+Veron looked at the door as he entered the spacious room in the top floor of the tower. It was slanted, which meant he had to walk consciously to stay balanced. Faded banners hung from the wall to his right, a few shelves with rotten books standing behind a wooden table and a chair that had slid to one side of the curved room. Large parts of the domed roof on the left side had crumbled, revealing a view over the yellow marshes. He stopped and looked out for a moment, just barely seeing the high reaching stone walls behind the rising gasses. The same ones he had spotted when they had arrived in the Gutter.
+
+“That is the west side of the Gutter,” Hayden said and pointed. “They call it the Sunken City. Deep reaching ruins populated by people and creatures covered in some kind of mushroom growths. Difficult to navigate and with most of the creatures there being of the chaos path, it's especially dangerous.”
+
+Silvie was building a fire with some of the old wood from the chairs. “They hunt you down and swarm you if you make a sound. Even some silver adventurers avoid the place, saying it’s more dangerous than the third layer.”
+
+“That’s overblown,” Hayden said.
+
+“How would you know exactly?” she asked.
+
+Hayden didn’t reply, then joined Veron and pointed at his chest.
+
+Veron removed his chest piece and the man checked the scratches and bruise, not using any magic but some herbs instead that he powdered and mixed with some water. Veron thanked him and got a grunt in return. Already, he could feel some of the inflamed sting was lessening. The dull ache of the bruise remained.
+
+“You've never been there? The city I mean,” Veron asked. He sat down next to the small fire after getting his chest piece back on, opening his bag of rocks and checking which pieces of his shield were left.
+
+“No. You need specific potions to deal with the spores, otherwise you won't get far. They're reasonably expensive but with the fact that almost all creatures down there are of the chaos path, it's not worth it for us,” Reka said.
+
+“Why?” Veron asked.
+
+“Because you can't extract chaos essence,” Reka said. “You can only pull it into yourself, but not into a vessel.”
+
+“That's what you did with the Vereltir, right? And the cube you held was a vessel?”
+
+“It was,” Reka said.
+
+“I've never actually seen it done,” Veron said. “So you have the school of Extraction.”
+
+“It's one of the most common schools among runic adventurers. That and trapping, which I have too.” Reka smiled, perhaps proud, or simply amused at his interest of something she may consider mundane.
+
+“What happens with the essence now? That's why we came down here, right?”
+
+“We have two more vessels that can hold up to around adequate level essence, maybe even something durable. Not that I plan to face something like that. We'll stay for a while, best case scenario we get two more essences and leave without major injuries. And then we sell them.”
+
+Hunting beasts for essence and then selling it. That's how Warren’s kettle got its powers, and the cooling in his inn.
+
+“What about your own advancement?”
+
+“That comes from everything that isn't worth extracting, or anything extra,” Reka said.
+
+Silvie placed a bigger piece of wood onto the flames. Hayden got a small pot from his pack and took out some ingredients that miraculously hadn’t been crushed in all the fighting.
+
+Veron killed a mosquito on his arm, wondering if it was confused about the rock armor.
+
+He leaned back and looked out at the distant city walls, connecting to the winds for a moment and feeling as if they almost beckoned him towards it. He wondered if that was just how the winds were or if there was some strange and greater purpose to the magic that he felt. He breathed in deep, the foul smell of the marsh not quite as intense up here. Something shifted into place and Veron breathed out, feeling content and at peace.
+
+Elemental Path [Modest]- Harmony of Earth [Novice II]- Harmony of Wind [Beginner I]- Hidden Harmony [Faint I]
+
+- Relic slot [Empty]
+
+Yes! Beginner I. he immediately connected to the wind near his hand, trying to grasp at it and shape it. The sensation was strange and flowing, light and delicate compared to the slow and grounding weight of shaping rock. Nothing happened and he stopped, though he realized at the very end that his approach was wrong entirely. Veron had been shaping rock for so long, it wasn't a surprise that he would have to change his approach with wind. He was looking forward to try again.
+
+“What was that?” Silvie asked.
+
+“I just got to Beginner one in my wind harmony,” Veron said, watching her cut onion and garlic into the pot.
+
+She smiled. “Love to hear that. Sometimes I'm envious of the more intuitive Paths. You just sit here and have an epiphany about the wind. I had to study for months to even begin drawing runes.”
+
+“You can summon wolves to fight for you, I think your efforts were well worth it,” Veron said.
+
+She gave him a smile.
+
+“Understanding is one part, practice is another,” Hayden said.
+
+Silvie waved him off. “So what can you do then?”
+
+“It's the same with all elements,” Reka said. “He can shape the wind, though it’s very limited at beginner level.”
+
+“I'll test it when we're back at the inn. We can use the practice hall, right?” Veron asked.
+
+“Yes,” Hayden said. “Maybe we can spar as well, get you used to your new strength.”
+
+“We're still in the dungeon. Keep your focus here, and don't experiment with new magic when we are fighting beasts,” Reka said.
+
+“Yes, boss,” Veron said, the smell of sizzling onion and garlic slowly overpowering the foul and rotten smells of the Gutter.
+
+They were quiet for a while, the warmth of the fire and the smell of food making the tower into a comfortable resting spot even within the hostile landscape of the second layer. He wondered if there was bug repellent available in Anvakar.
+
+“Have any of you been to the third layer?” he asked.
+
+“The Kingdom? No,” Hayden said. “Though I do wish to one day venture there. Ancient knights and stone spirits. A true challenge.”
+
+“You've got enough of a challenge here,” Silvie said and laughed.
+
+“Mud, poison, and mist,” Hayden said and shook his head. “There is no honor here. Only death.”
+
+“There is no honor anywhere,” Silvie said.
+
+He grunted with disapproval.
+
+“We will try to advance through the Burrows once we’ve all reached Durable in our Paths,” Reka said, both Silvie and Hayden seeming content with that statement.
+
+A lot of new names and places. I think I should probably visit the Guild and study those maps when we’re back.
+
+Vegetables and meat joined the onion and garlic. By now, Veron realized how hungry he was. They dug in some time later, rested for a little longer, and then prepared to go out again. He was missing much of his shield, and he didn’t spend his Focus to fix the rest of it, instead storing everything in his pack.
+
+“We’ll use the tower as a vantage point, hunt for Vereltir, and return to rest and heal up,” Reka said as she checked her gear. Much of it was still covered in blood but she was less muddy than Veron and Hayden. “Veron, you should take my shield for the remainder of our delve,” Reka said.
+
+“Are you sure?” Veron asked.
+
+“That doesn’t seem safe,” Hayden said. “His armor is stronger.”
+
+“And he fights at close range,” Reka said. “Take it. Try not to get it broken too.”
+
+Veron was conscious of Hayden’s look, locking eyes with him for a moment and raising his eyebrows in slight confusion, then he saw the man nod. Veron smiled slightly and took the shield, then checked the weight and found it quite a bit lighter than his own, smaller too. “Thanks.”
+
+“Maybe try to stay back a little more this time. Don’t want to fish you out of a pond,” Reka said.
+
+“I’ll do my best,” he said in a dry tone.
+
+Silvie laughed.
+
+Outside again, they walked close to the edge of the Old Forest, the forest closest to the base camp and stretching all the way to the Sunken City. Having rested for over half an hour, Veron had enough Focus again to throw a few rocks, though he didn't use it to kill more mosquitoes. It was Hayden who took care of them, his hammer throwing them back and his shield protecting against any blood that still made it back to him. Veron started to wonder where the large mosquitoes came from. There seemed to be an endless amount to them. He was glad they didn't move faster and in bigger groups.
+
+He was sweating when they reached about a halfway point between the tower and the city walls. They had yet to find another Vereltir, despite stopping and waiting whenever they had killed any of the mosquitos. Reka decided they would circle back, the group continuing the same approach for another hour before they found a second creature.
+
+This time, Veron felt a lot more ready, holding his shield and spear as he waited and watched the moving scales in the murky water. Hayden used his magic to bolster them and Silvie got ready to summon her bear.
+
+The Vereltir burst out and hit Hayden, its tail whipping out immediately, caught by appearing chains before the bear formed and rushed in. Two blood lances cut into the monster’s face, a hammer strike stunning it for a moment. More chains wrapped around it and Veron charged in too, always conscious of where the tail was. He stabbed with a charge, their immediate and brutal assault pushing the creature back. It pulled against the chains but this time, they were secure.
+
+The fight was one sided, Hayden's shield the only piece that took some damage before they put the monster down. Together, they pulled it up and once again, Reka extracted the essence of the beast.
+
+“Are they always cubes?” Veron asked Silvie as they waited at their next spot. They’d decided to continue back towards the tower to see if they came across another beast.
+
+“What?”
+
+“The vessels.”
+
+“Right. No, they're not. Probably the easiest to make though. The quality of a vessel depends on its overall size, density, the purity of the material used, the quality of the inscriptions, and the complexity of its design.”
+
+“A cube is complex?” Veron asked.
+
+She laughed. “Well, no. It’s not. But the main thing a vessel absolutely requires, next to the inscriptions, is symmetry. To extract essence from durable beasts like the Vereltir, what Reka carries is sufficient. Anything better would be a waste of gold.”
+
+“Symmetry. Any idea why?”
+
+She shook her head. “I asked that too. The magical theory professors in Leiveen may have some theories but I was told that different shapes were tested and the only and best results came from symmetrical shapes, the more detailed and ornamental, the better. Yes. I get that a cube is a cube.”
+
+This time, he laughed. “So you do the inscribing then? The golden runes? Why gold?”
+
+“Because gold works best. With this part, I have actual experience. My magic flows better with gold, the runes take shape faster, bear more power, and last longer. Silver is still okay but vastly inferior. Iron is a tiny bit better than copper, tin, and other metals, but if you can get it, you really want gold. Same for any runic tools. Wands and the like.”
+
+“And then you get an infuser to put the essence into something to make a relic?”
+
+“Relic or enchantment. For a relic you need something to act as a relic vessel. Higher quality and more expensive. For enchantments, more mundane items are fine but of course you still need to know what you're doing.”
+
+“That's a lot of specialized craftspeople working together.”
+
+“Yeah. One really doesn't have to wonder why Leiveen is the richest city in the world.”
+
+“Not Anvakar?” Veron asked with a smile.
+
+“Anvakar is the mine. Leiveen is the jeweler. Go figure.”
+
+“Which makes us?”
+
+“Adventurers,” she said and winked.
+
+Digging for essence.
+
+“Can I take up classes for any of those jobs?”
+
+“You're neither a Runic nor Devotion Path. Maybe if you get a very specific relic, you could become good at a very specific part of one of those jobs. Seems like a strange thing to do though, so if you don't want to spend a shit load of gold and time to do that, I'm afraid you're stuck flinging rocks.”

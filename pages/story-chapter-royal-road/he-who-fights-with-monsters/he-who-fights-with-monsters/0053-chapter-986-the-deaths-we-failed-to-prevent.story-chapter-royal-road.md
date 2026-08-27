@@ -1,0 +1,271 @@
+---
+id: c76457e1-4bf1-537f-8e30-3543a7b1f5ad
+page-type-slug: story-chapter-royal-road
+title: "Chapter 986: The Deaths We Failed to Prevent"
+slug: 0053-chapter-986-the-deaths-we-failed-to-prevent
+partOf: he-who-fights-with-monsters
+position: 53
+ownLength: 2850
+unit: words
+ownProgress: 2850
+publishedAt: 2026-02-25
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3092662/chapter-986-the-deaths-we-failed-to-prevent"
+royalRoadId: "3092662"
+markedReadAt: "2026-06-29T19:05:42.909Z"
+---
+
+The bistro, like the rest of the city, felt like something out of a black-and-white movie. The food was the exception, the vibrant colours making the look of it pop as much as the flavour. Zara had a trio of pie slices in front of her, peach, apple and cherry. Jason had pancakes buried somewhere under the berry sauce, whipped cream and mound of fruit.
+
+Sitting in a booth, the pair ignored the glances of their fellow patrons, mostly vampires. Each booth and table had a privacy screen, cutting off the whispers and leaving them unworried about eavesdropping.
+
+“What do you think?” Zara asked, then spooned a bite of peach pie into her mouth.
+
+“My instincts tell me that it’s going to be a new vampire war. Something worse that came before, because it won’t be restricted to Europe, or to battlefields. I think Elizabeth has been seeding the world with hidden living weapons. The blood oaks, and whatever was put into that poor man in the plane.”
+
+“But she’s in your hands, now, right?”
+
+“That may not be entirely a good thing. Elizabeth was looking for leverage. For triggers not to pull, in exchange for what she wanted. The nukes she still has control over, so we can clean them up. All these biological weapons, though. She’s been seeding them through population centres across the planet. And now, they’re in the hands of McKean and the other vampire lords. People who aren’t looking for leverage but weapons.”
+
+He shook his head.
+
+“I should have realised,” he continued. “I’ve been thinking in Pallimustus terms, where personal power is everything. I’ve been acting like that on Earth, and I keep getting blindsided. Here, they’re better at working with disproportional power levels. Insurgency, infiltration, guerilla tactics. Civilian targets.”
+
+Zara made encouraging noises from around a mouthful of pie, gesturing for him to continue.
+
+“Elizabeth created weapons and strategies so horrific that she knew we’d make massive concession to prevent them from ever being used,” he said. “Now, they’re in the hands of people who fully intent to use them, where she would have happily sold out her own kind and kept her box of horrors shut, if it meant her own advancement.”
+
+“She’s not honourable.”
+
+“Honour can kiss my beans. It gets people killed; stirs them to war. If it stops people from dying, I’ll take a shameless opportunist every time. Or be one, if I have to. Elizabeth wanted out, but the vampires want a kingdom, one where humans are farmed like cattle. Those blood farms aren’t just for bleeding people, Zara; they’re for breeding them, too. Those places are as bad or worse than anything I’ve seen as an adventurer. Let alone the victims, the clan teams clearing them out need counselling after seeing those places. The people actually in them? I don’t know how a person comes back from that.”
+
+Zara looked at him and put down her knife and fork.
+
+“What you seem to be saying is that dealing with the vampires is going to be a lot harder than you thought before you came back.”
+
+“Basically, yeah. I figured that we had enough gold rankers to sweep across Europe like a tsunami, but the reality is so much more complicated.”
+
+“Jason, remember when you first became an adventurer, and you got the speech about how easy it was all going to be?”
+
+He gave her a flat look. She grinned as she picked up her utensils and resumed eating, shoving a forkful of pie into her mouth.
+
+“I get what you’re saying,” he said. “It’s hard. That’s the job, and why they need people like us to do it.”
+
+“People like us?” she mumbled with her mouth full, gleeful in her unprincessly behaviour.
+
+“Lunatics,” Jason explained, and she nodded her agreement.
+
+“I wanted to bring my friends to see my hometown,” he said. “Clear out the vampires easily; show the Earth that I’m not to be trifled with. Magnanimously listen to everyones apologies for talking about my chin so much.”
+
+“I like your chin.”
+
+“Thank you.”
+
+“Especially here on Earth, where you have those bottles where you need a tool to take off the cap.”
+
+He threw a blueberry that bounced off her forehead, her face taking on a scandalised expression. Then the smile dropped off his face and he turned to face the door. A few moments later, Craig Vermillion walked through it. Craig looked around, spotted Jason and moved to join them. Jason scooted along in the booth and slid his plate across, making room for the vampire to sit.
+
+“Is it true?” Craig asked.
+
+“Good to see you too, Craig. I’ve been fine, thank you. This is Zara, who is an alien princess.”
+
+“Is it true?” Craig asked again, his gaze bolted to Jason’s face.
+
+“Yes,” Jason said. “We caught her, and she’s here. Or, more precisely, Zara caught her and she’s in a secure location within the astral space.”
+
+“You have to give her to us.”
+
+“I really don’t.”
+
+“Jason, she—”
+
+“I know what she’s done, Craig.”
+
+“I don’t think you do, Jason. The vampire community might have been a secret one, but it’s older than any civilisation ever to appear on this planet. Elizabeth destroyed that.”
+
+“No, Craig, I destroyed that. I’m the one who altered Earth’s magic levels.”
+
+“We could have adapted. You gave us a place where we can still be people. But she declared war on the humans, putting an end to any chance we have of existing on this planet. All we have left is this city, and your promise of some alien world.”
+
+Craig stopped himself, forcing a slow breath in and out.
+
+“I’m sorry, Jason. I don’t want to sound ungrateful. The sanctuary you’ve given us has saved at least some of us from the descent into monstrosity. But we’ve lost nineteen out of every twenty vampires, whether dead fighting the humans or becoming blood hungry predators, too far gone to ever be people again.”
+
+“I’m not going to claim to understand what your people have gone through, Craig. I only ever had a superficial understanding of Earth’s vampires.”
+
+A waitress came over, waiting outside their privacy bubble before being gestured in. Craig only took a coffee, tweaked to satisfy vampiric thirst. She put down a mug and poured it from the jug in her hand before wandering off. Craig looked down at the cup, not lifting it from the table.
+
+“Jason, my people deserve justice.”
+
+“And you think that’s what killing Elizabeth will get you?”
+
+“My people won’t like you protecting her, Jason.”
+
+“You think I don’t know that? I can tell you, right now, every word uttered by every vampire in this city in the last two decades. Obviously, I would like the goodwill of the people who live here, but I don’t require it. The ugly truth, Craig, is that your vampires need me, but I don’t need them. At all. I am the ground they walk on and the perpetual night. Mine is the power woven into the crops that grow under moonlight to feed you. What this means is that I don’t answer to your people.”
+
+“We answer to you,” Craig said bitterly.
+
+“And what have I asked of you?” Jason shot back. “What have I done but give your people sanctuary? Do you remember when we met, Craig? I was coming off a war against endless monsters, cultists and the entity who creates universes. A war I died to help win. I was angry. A blunt instrument, making bloody choices that cost lives.”
+
+“I remember.”
+
+“You’ve been through a war of your own, now. One that petered out instead of reaching a finale, leaving you and your people in limbo. Refugees, dependant on the largess of a man not of your kind, with a reputation that would be generous to call inconsistent. Your enemies are still out there, and now one of them — perhaps the worst of all — is within reach. Of course you want vengeance.”
+
+“Justice.”
+
+“Justice, Craig, is doing the best for those who remain, not drawing blood for those who are gone. Dead, she gives us nothing. Alive she has information that can save lives. Your people’s desire to see her in the ground is hard earned, but has nothing to offer but more death.”
+
+“We cannot tolerate her roaming free.”
+
+“She’s not free, Craig, and she never will be. Elizabeth is spent as an active force. The only threat she poses is in withholding information that could otherwise have safeguarded victims or won battles. You have my word that, so long as she lives, she will never leave the grip of my power. Never taste freedom, ever again. But, ultimately, my promises are irrelevant. You say that you cannot tolerate this, but you can, and you will, because you don’t get another choice.”
+
+“You do. You can give her to us.”
+
+“Yes, but I won’t. I decide what to do with her, and I will not be swayed.”
+
+“Jason, if you don’t hand her over, some of my people might do something stupid.”
+
+“I’ll let you know if any of them are planning something. Best if you put a stop to it without me needing to step in.”
+
+“Are you saying that you’re spying on us?”
+
+“Not actively, but you’ve been told before that this place exists as an aspect of my power. I know what everyone is doing in every domain and on every planet that belongs to me. Every one of your vampires, and members of my clan. A city of people called brighthearts in another universe. You can consider it an invasion of privacy if you like, Craig, but you might as well arrest the wind for trespassing. It’s just the nature of things.”
+
+“I’m not going to lie, Jason: I don’t like any of what I’m hearing.”
+
+“I wouldn’t either, in your position.”
+
+Craig drained the coffee cup in one go, then got to his feet.
+
+“Vampires don’t age, Jason. We remember old wounds. But we remember kindnesses, too, and I won’t forget that you took my people in when the world turned against us. We know what you’ve done, and continue to do for us. I’ll keep a lid on my vampires, but please keep us in mind. I want my people to live, not just survive.”
+
+“Perhaps to do that,” Zara suggested, “you need to start looking forward instead of back. I know that’s not easy, with what you’ve been through, but it may be the only way for your people to move past what you’ve lost.”
+
+“Your right,” Craig said coldly. “It’s not easy.”
+
+Jason watched Craig leave the bistro, then tossed his fork to the table in frustration. Zara reached out and placed her hand over his.
+
+“It went about as well as you could expect,” she told him.
+
+“It’s not that. Craig was a friend, once. Now he looks at me and sees… I don’t know. But those weren’t a friend’s eyes.”
+
+“I know that look,” Zara said. “It’s how people look at a lord.”
+
+“I’m not a lord.”
+
+“No, you’re a king. And a king can’t be a friend when it comes time to rule.”
+
+“It feels like a loss. I want friends, not subjects.”
+
+“The price of being a king.”
+
+“I want to argue, but that would defeat the purpose of surrounding myself with people who know what they’re talking about. Princess.”
+
+“I feel bad for him. He looked tired.”
+
+“I know. I’m weary of everything that’s been going on, but he’s been through far worse. Lost most of his people and been forced to hole up in a city of my creation.”
+
+“The brighthearts all over again.”
+
+“Exactly. Is that what my life is, now? Scraping up what’s left of wiped out communities?”
+
+“You’ll get your chance to rest. Particularly if you leave it all to the humans. It’s their planet, after all. I’m not saying don’t help them out, but don’t take over, either. Give them a chance to get it right, but let them know that you’re there to call on if needed.”
+
+“If I call in the taskforce now, to interrogate Elizabeth, will I look flaky? I made such a big deal of it being my thing at the big meeting.”
+
+“If you did this, would it be in your realm, with your avatar standing there, creepily staring at them the whole time?”
+
+“Not creepily.”
+
+“Then it sill fall under your authority. You’re just being smart and magnanimous enough to include them. Have Anna sell it; she can probably get some concessions out of them for the right to participate. But has Elizabeth actually accepted your terms?”
+
+“Of her cooperating and me murdering her if I even think she’s holding out on me? She says yes, but even I can’t read that woman. I’m going to bring in task force people to interrogate her, under my supervision. I have the power, but I could use someone detail oriented, who knows how to question a subject. I tend to drift off topic. Miss things. We’ll see what she gives us and go from there.”
+
+“Well, what else is on the agenda?”
+
+“I want to see what we’ve found out about the thing that was in that poor man’s body. I have some of our people working on it, along with some clan specialists. They haven’t had enough time with it to have any results yet, though. In the meantime, there’s someone I want to check in on.”
+
+***
+
+In an Asano village house, dug into a cliffside, Holly Macrossan stared blankly out at the ocean. Her armchair was set in front of the glass wall, with most of the room to her back.
+
+“My family are in Sydney,” she said, her voice hollow. “I was able to go and break the news in person. To tell my brother than the son he entrusted to my care was dead. I had to get out, though. So many questions I couldn’t answer. Accusations I couldn’t face. They didn’t say it, but they didn’t have to. I could see it in their eyes.”
+
+“I’m sorry,” Jason said. “I don’t have answers for you yet. When I do, you’ll get them.”
+
+He was standing in the middle of the room, out of her line of vision.
+
+“I’m sure it will all get sealed away,” she said. “Important people and their important secrets.”
+
+“I don’t answer to them. I’ll tell you as much as you want to know, up to the limit of my own understanding.”
+
+“The why doesn’t matter. It wasn’t really to do with him at all, was it? It was about me.”
+
+Jason didn’t answer.
+
+“Is it true that it only came out of him because you realised it was there?” she asked.
+
+“Yes.”
+
+“So, if you hadn’t visited me on that plane…”
+
+“He would still be alive, yes.”
+
+“You didn’t know it was in him, though, did you. Not before you came to us.”
+
+“I didn’t know such a thing existed at all.”
+
+“Even so, I find you an easy target for my ire. You don’t deserve it, but since when did ‘deserve’ matter?”
+
+“It only does when we make it. When we can. I have more power than most, and I still find myself falling short, as I did with your nephew. I’m sorry I failed him.”
+
+“Have you saved a lot of lives, Mr Asano?”
+
+“Yes.”
+
+“Probably a lot of people you couldn’t, though.”
+
+“Yes.”
+
+“How do you live with it?”
+
+“I’m not sure I do. My therapist tells me that I need to accept my failures and let them go. Focus on doing better the next time.”
+
+“And that’s what you do, is it? Accept the failures?”
+
+“No,” he said. “I don’t. I work with people who do what I do. None of us accept the deaths we failed to prevent.”
+
+“Like your friend. They one who got me out of the plane. I don’t remember her name.”
+
+“Sophie Wexler.”
+
+“Saved my life, I suppose, getting me out of there. When you leave, thank her for me.”
+
+Jason took the hint and headed for the stairs. He would go outside before portalling away. He was on the stairs when she spoke again.
+
+“Mr Asano?”
+
+“Yes?”
+
+“Sophie. Is she single?”
+
+Jasons eyebrows rose.
+
+“She’s not.”
+
+“Oh well,” Holly muttered. “Wouldn’t have worked out anyway, I guess.”
+
+Jason looked at Holly from the top of the stairs. He couldn’t see her well, hidden by the large armchair.
+
+“If you need anything, Mrs Macrossan, anything at all, just ask. I mean it. Anything within my power to give.”
+
+“Can you give my nephew back? I’ve heard you came back from the dead.”
+
+“That’s beyond me, I’m sorry. We think there might be others like your nephew, and we’re trying to find a way to identify and save them. Before the thing inside them activates. It won’t help your nephew, but it might save others.”
+
+“You said to ask if I wanted anything.”
+
+“Yes.”
+
+“Ask who?”
+
+“Just ask, Mrs Macrossan. I’ll know.”

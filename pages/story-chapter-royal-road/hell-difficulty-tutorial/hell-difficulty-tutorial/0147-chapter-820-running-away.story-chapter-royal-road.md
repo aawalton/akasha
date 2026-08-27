@@ -1,0 +1,121 @@
+---
+id: 3c964d1a-57ec-5f4a-a2a6-7be98df97c32
+page-type-slug: story-chapter-royal-road
+title: "Chapter 820 - Running away"
+slug: 0147-chapter-820-running-away
+partOf: hell-difficulty-tutorial
+position: 147
+ownLength: 2483
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3493862/chapter-820-running-away"
+royalRoadId: "3493862"
+---
+
+"Please, stop. You have a problem. Just kill things normally. This is why the Ruler of Diligence sent-"
+
+I continue to listen and nod once in a while, but use Redacthaniel to ignore most of what Weslin is so rudely saying. I think there’s at least a degree of logic to my idea. There is the question of what sort of enemy waits at the center of the 1st Beyond floor, and whether or not something like Necrotic Rot would even work against it, but from the tidbits of information I’ve been getting from our guild’s information gathering unit, I think it is worth the risk. Plus, I can probably get a bit more info out of Zant.
+
+Then there’s my new passive. I saw it so long ago I don’t even remember when, but it’s been on my mind ever since, especially as I didn't see a higher tier version of that passive in my system shop. Not Arcane, not even in Low Pristine.
+
+The question is if the system is just showing me things it thinks I could use to strengthen my current build, or if it is being an asshole and actively trying to hide things from me. After all, we can’t have that.
+
+There was that creepy healer back on the 4th tutorial floor, from a guild called Ruminous Border. I still vividly remember him having some sort of adaptation skill or trait. The longer I attacked him, the less effective my attacks became.
+
+So my thought process is simple. I want that. I want a stronger version of that passive to help my body to adapt to whatever fuckery I am currently subjecting it to. I want to adapt to more mana and primordial energies. I want to adapt, even to my own attacks. It would work very well with some other skills, too. And lastly, I want an active skill with a similar effect. That means I’ll have to keep that passive for now.
+
+Another important question is whether I sell my healing passive, it’s been lagging behind, and I could buy a low pristine version of it, or if I keep that token and wait for a possible low pristine version of what I just bought. Or maybe I should just replace it and save up enough shards to buy another low pristine passive sometime in the future.
+
+Currently, I feel like I’m really strong, with likely only Nyssa being stronger among all the attendees in Beyond. Maybe Lyraen? I want to test myself against him. Oh, and Vic too. I bet my sister could kick my ass. Possibly Tacita, I am sure that little devil has improved.
+
+I turn to the side to watch Savant fighting and wonder how our duel would go, and I keep having difficulty imagining it. I’m confident I would win, but I just keep coming to the conclusion that he would still pull some kind of fuckery, he’s been preparing to fight me since our first duel in the first tournament. Though perhaps he wouldn't even really fight in the first place and throw his hands up in surrender.
+
+Savant is the type of guy who would keep cultivating for millennia, return to fight me when I am on my deathbed, and challenge me to a duel then. He would probably still lose, but it just sounds like something he would do.
+
+Other than that… well, no one from Group 4. I know their fighting styles way too well, and while sure, they know mine too, and they could likely cause a bit of trouble, as beautifully twisted and abnormal as they are, but I’m still confident I would win.
+
+Then only Morwag remains.
+
+I turn towards the demon running in front of me. Like an animal sensing a gaze, he instantly twists his head towards me for a short moment before turning it back.
+
+Now that I have my ichor and my body has become more difficult to heal, he has a higher chance of defeating me than ever. He would just need to bind us together and wound himself a lot, at which point his body would heal faster than mine.
+
+If that binding was a mana based thing, he’d have no chance of pulling it off after I’d observed it for the first time, and he would be easily dealt with. I know I can make that binding carry over to my vessel, but I also know Morwag isn't the type to fall for the same trick twice. Plus, the problem is that it’s based on primordial energy, so it's trickier to deal with.
+
+Still, I could fly out of his range, bombard him, or press him with all out attacks from the start. There is also a chance my Empyrean Ichor helps me resist his binding, even if it is based on primordial energy.
+
+The fun thing is, I could fight him like a cowardly little bitch from high in the sky to defeat him that way, and he would only grumble but easily accept it as my win. That’s how he perceives it, and that’s why he doesn’t mind using weapons if needed. In his view, victory and control are what’s most important.
+
+And there’s also the fact that since I got the trait, it’s continued to strengthen my body, and I’ve got other traits with which it syncs really well. That’s also why I’ll probably use my second stage trait strengthening token on my ichor when I return to the lower Beyond floors, as I still need to stop by so that catboy can make his observations.
+
+I’m curious about what that crazy lynthari did and what injecting myself with his suspicious substances would cause. Did he use some sort of alchemy to make it? Is there such a thing? Didn't Elian say one of his disciples was working on a mana potion? Are there health potions? I bet Lily could do it.
+
+Out of nowhere, a thought appears in my mind, and I let it spread. I think to myself: I want to go fishing. Not for normal fish, but that expensive sort of fancy fish with humanoid arms. The last time I used a bit of black mana on a low quality lure, and I bet I could do better now. Possibly, I could even add in my blood. I really need to find Duncan.
+
+I barely finish that thought as all of us stop as if frozen mid air. Even the slight wind that was blowing is gone, as are the monsters in the wider area around us.
+
+Thought acceleration activates almost by itself as I do it reflexively and observe whatever’s halted us. I quickly find the field of mana responsible, it’s mimicking something along the lines of [Telekinesis], but I cannot locate the being responsible.
+
+In the same moment Savant’s [Dawn] begins to spread, so does my [Eclipse]. My effect of draining all colors from the area clashing against his orange light. It takes only a moment before he pulls his back to let me do whatever I need to do.
+
+This time, I’m not even disappointed about not getting to compare the skills against each other as I hurry to channel more mana into my domain and through the tiny veins in my eyes. I pick up on the structure quickly, but it takes a few more moments before I gather enough mana to break the effect. Considering the amount I can channel in mere seconds, it turns out to be a truly ridiculous amount.
+
+When the effect of the skill holding us breaks within my domain, we all begin to run again. I pick up on the remaining efforts of Morwag, Weslin, and Brich attempting similar countermeasures to my own, but I was the fastest.
+
+We run much faster than before, and everyone strengthens their natural barriers, letting their skills or, in Brich’s case, cubes float around them, ready to trigger and fight against the next freeze.
+
+Looking back, I am finally able to track where that field came from and trace it to the unstoppable monster following us.
+
+But why didn’t it attack us?
+
+We pass by a larger group of monsters frozen in the same way we were, led by another Skreth. Before they free themselves or get released, Morwag charges faster, bulldozing through the body of the Skreth, which nearly entirely explodes on impact because it failed to prepare in time to face the demon.
+
+I also throw multiple attacks around to get a few more kills, but I’m much more careful now. A good part of my mind keeps its guard up, ready to reach even for black mana as needed or, god forgive me, inject myself with that weird syringe. I can’t make sense of it. If the monster following us is a Champion, as I think it is, why are we still alive? We were frozen for a few seconds, we could have easily been annihilated in that time. There’s also something to be said for the fact that we didn't even need to be frozen in order to be annihilated.
+
+It sends a shiver down my back to think of what that could be, how easily it was done, and how much of my mana it took to counter it.
+
+As we move, I notice that every time we even pass by an outpost in the distance, many more monsters appear, as if they don’t want to let us find shelter. And the attacks on us intensify. Moving on, we fight against numbers that make me wonder where so many level 400 monsters could be coming from. But it’s me who picks up the slack there as I throw more bombardments against them. With my Ignition Heart, I have the least trouble with mana. My mind and body have both been forged into a state where I can easily endure the constant channeling of so much mana and the creation of such a large number of attacks.
+
+Then Skreths start appearing in twos and often cooperate against us. The range of their attacks expand, and they continue to use their bone projectiles, which can sometimes be the size of large buildings, and carry a lot of weight behind them.
+
+In one of these fights, I watch one such projectile heading towards us at high speed like some sort of meteor while the other Skreth makes pillars behind us, creating a spiky bone forest to cut off our path. I watch as Savant slashes horizontally into that forest of bone and as a tiny speck of something akin to dust is released from the marble in Brich’s hands, causing the bone meteor to disappear.
+
+My blood lance stabs through the head of a Skreth, and Weslin finishes the one he and Morwag had been fighting.
+
+As we begin to move, everyone is a little more wounded and noticeably quieter. The wounds are starting to look grim, and the effect of the Necrotic Rot seems to be growing stronger, constantly returning stronger even as we try to remove it. It shows in the graying of our limbs, the cracking of skin, and the blood in those areas beginning to turn a dull black.
+
+But as tough as these battles are, and as they become increasingly difficult, we push towards the end of the night.
+
+With the fake sunrise coming closer, that presence finally increases its speed while all the other monsters clear the area.
+
+Another [Empyrean Lance] forms in front of me, longer than I am tall and packing more power than ever before.
+
+[Empyrean Lance - lvl 55 > Empyrean Lance - lvl 56]
+
+As I watch that immense presence moving closer, I feel myself calming. Where previously I let excitement and rage seep into my fights, now I‘m entirely calm. This is true even as what feels like the whole horizon fills with mana, moving in a way that looks like flickering flames. Somewhere deep within that is a single blurred out figure I cannot see.
+
+One of my eyes bursts like a crushed grape, even behind the glasses on my head. I keep the other eye wide open and take the glasses off.
+
+More of my mana seeps into the lance, making it stronger, but the presence doesn’t seem to care at all. It moves closer and closer, now a mere two miles away, when my minds snap into one. I move all the mana I have been gathering and create a single black orb in front of me.
+
+Then, I feed the [Empyrean Lance] to that orb. The entire lance disappears into that pitch-black sphere, no bigger than a marble, as if it were being sucked in by a vacuum.
+
+For a moment, nothing happens, and the presence reaching us slows down. It fills the entire view in front of me, from side to side and from ground to ceiling. Then it stops entirely, as if the movements of its mana burning like a flame were halted in place.
+
+My black orb grows to the size of a basketball, and dozens of spikes form out of it, each varying between the length of my body and my forearm. One of them stabs into me before I can even react, and with it, all my mana is gone. Taken in its entirety in that split second.
+
+The orb pulses again, as if it is still digesting the lance and fighting against the mana that made it, before it shrinks back down again.
+
+The next thing I feel is Weslin pulling me away. My manaless body feels so weird and so weak, but unlike Christoph, I do not feel disgust as I look down at my own flesh while being dragged away. My scars, my pale arm, my broken constructs; all of it is proof of my existence and my efforts. I don’t cling to it in the least, but at the same time, it is precious to me.
+
+Once we are further away, the pull on my mana weakens, and I ramp up the efforts of my Ignition Heart to redistribute more thermal energy into mana. With my single eye, I watch the black orb floating there, spinning and, once in a while, expanding and forming those spikes as it fights with [Empyrean Lance]. That monster still in the distance feels like it’s leaning over the orb, watching it.
+
+My mind reaches towards the orb as it tries to resist, causing me to smile and whisper, "You are mine, so listen."
+
+[Focus - lvl 79 > Focus - lvl 80]
+
+[Mana Manipulation - lvl 80 > Mana Manipulation - lvl 81]
+
+I wave my hand, and the orb shoots towards the monster. In the next moment, that powerful, immense, and unreachable presence shrinks and moves away quicker than it did at any point of this night.
+
+It runs away.

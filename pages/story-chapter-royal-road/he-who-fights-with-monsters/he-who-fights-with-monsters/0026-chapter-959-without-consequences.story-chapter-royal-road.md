@@ -1,0 +1,247 @@
+---
+id: 77a3ebda-c3bd-5eaf-b2b0-f0927a8c362c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 959: Without Consequences"
+slug: 0026-chapter-959-without-consequences
+partOf: he-who-fights-with-monsters
+position: 26
+ownLength: 2902
+unit: words
+ownProgress: 2902
+publishedAt: 2025-02-05
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2050076/chapter-959-without-consequences"
+royalRoadId: "2050076"
+markedReadAt: "2026-06-29T19:04:41.149Z"
+---
+
+In the vampire laboratory, Clive and Lorelei were cataloguing the overtly magical tools and materials. Travis was doing the same with the technological tools, while also checking in on an IT specialist from the Cabal who was working on the computers. Emi was paying greater attention, watching over his shoulder. She wasn’t a computer specialist, but she had, at least, used one that wasn’t old enough to vote.
+
+The rest of Jason’s companions had moved on to other tasks. Some were sweeping the complex for any lingering vampires and victims. They had turned up several, mostly homeless people who had died along with the blood oak. Jason was talking with the others through voice chat as he flew through the skies of Melbourne in a black car.
+
+“Bro, it sounds like killing the leader kills all the minions, like in an old monster movie,” Taika said.
+
+“That would seem to be the case,” Danielle replied. “That’s good if we need to kill an army of minions quickly, but not if we want to save them.”
+
+“I don’t suppose any of the victims have regained consciousness?” Jason asked.
+
+“No,” Carlos said. “And don’t expect them to any time soon. They’ll be comatose for days while their souls shake off the trauma. We’ve dosed them with as much healing magic as we can without doing more harm than good. We’re lucky any of them lived at all. What they went through was tantamount to being chain-fed spirit coins. If they’d had any magic of their own, none of them would have survived.”
+
+“We’re coming up on the complex now,” Jason said.
+
+“You found your creepy magic experiment specialist?” Clive asked.
+
+“I did,” Jason said. “Try not to be rude when you meet her.”
+
+“Why would we be rude?” Clive asked. “Isn’t that your kind of thing?”
+
+***
+
+While the mercenaries had jackhammered into an elevator shaft, the actual entrance to the bunker complex was a small security building. The vampires had purchased it through a discreet shell company and mild government corruption. It was more convenient than an empty shaft, and a large operation was now being set up around it.
+
+The security building was in the corner of a car park that serviced the nearby warehouses and industrial spaces. There was a security cordon set up in the car park, with a couple of tents and an operations van. Looped around it was a simple rope barrier, the actual deterrent being a large security force. A half dozen squads in black tactical gear were positioned around the cordon. Outside of the line was the press, growing in number as more and more vans arrived. Reporters were trying to get a rise from the security team while cameramen set up tripods and deployed drones into the air.
+
+The security force were the first to notice the approach of a flying black sports car, raising their guns. The press were filming moments later, although all their cameras picked up was a static blur. The car approached the ground, but instead of landing, turned into a cloud of roiling darkness. Two people dropped from the cloud to land lightly on the ground, a man and woman. The cloud was drawn down and sucked into the man’s shadow, like dust into a vacuum cleaner. The reporters immediately rushed at the pair, many already having recognised Jason.
+
+“I’m not taking questions at this time,” Jason said, without slowing down. Some of the reporters moved into his path, at which point he stopped and glared. They quick-fired question his way, then yelped and screamed as they floated into the air. Jason used his aura to pick up the entire media contingent, including their vans, and deposit them on the roof of a nearby warehouse. The camera drones were crushed, as if by invisible hands, and the scrap was dropped on the roof as well.
+
+Jason and his companion then walked to the cordon rope, where a security team was waiting to meet them. The security personnel’s anxiety didn’t show through the tactical helmets, but it painted their auras. They were also throwing nervous glances at the stranded reporters.
+
+“Mr Asano,” the squad leader said as she stepped in front of him. “There are security protocols in place, now.”
+
+“I’m sure there are,” Jason told her. “I just don’t particularly care.”
+
+“Sir, we need to vet everyone attempting to enter the facility. I’m well aware that you could break me and my team like a carton of eggs, but we have a job to do. For all I know, you could be a reporter using illusion magic.”
+
+Jason turned to look at the reporters on the roof, in various states of distress.
+
+“I’ll acknowledge it’s unlikely,” the squad leader said.
+
+Jason let out a frustrated sigh.
+
+“Why do I keep running into people at checkpoints who fulfil their duties with integrity?” he complained. “Where are the cowards I don’t feel bad about browbeating?”
+
+“I’m not really sure how to answer that, sir.”
+
+“What’s your name?” he asked.
+
+“Squad Leader Jessica Sunderland, sir.”
+
+“Jason Asano.”
+
+“I’m aware, sir.”
+
+“I don’t really carry ID. Well, I do, but it’s a magic tattoo on my back. I don’t think that’s valid in Australian jurisdictions. What about you, Ms Blaine?”
+
+“I’ve been living in a magic city for the last decade,” Jason’s companion said. “I haven’t had any legal identification since I came back from the dead in Arizona. You brought me here through a portal, which I imagine is illegal entry. I don’t have a passport, let alone a visa. I’m not even sure my US citizenship is still valid.”
+
+“Because you died?”
+
+“Yeah.”
+
+“Were you declared dead, legally?”
+
+“I suppose not. The other cardinals murdered me and I came back to life in a shed.”
+
+“You’re probably fine, then. Just to be clear, when you say cardinals, you’re not talking about Catholics, right?”
+
+“No, that was what we called the EoA leadership. Cardinals, after the cardinal directions. I was Mrs South.”
+
+“Right. Like Mr North.”
+
+“Exactly.”
+
+“Uh, sir?” the squad leader interjected.
+
+“Right, sorry Jessica,” Jason said. “You know, you can call me Jason.”
+
+“I’m definitely not going to do that, sir.”
+
+“Fair enough. Look, we need to go in. You know who I am, and this is Audrey Blaine of Clan Asano, so now you know who she is. I’m going to need you to take my word for it, because we’re going inside.”
+
+“Sir, if I can convince you to wait a moment, I’ll radio my supervisor and see if I can clear you. That way, you don’t have to beat the crap out of all of us on your way in.”
+
+“Fair enough,” Jason said. “But do try and make it quick, or I’ll put you all up there with the reporters.”
+
+“Thank you, sir.”
+
+She took a few steps away and started talking into her radio. Jason waited, looking around absently.
+
+“I should probably get a phone,” he mused. “Do they still have phones, or is it hologram watches or something now?”
+
+“I think they still have phones,” Audrey said. “Again, I’ve been living in a magic city for a decade. Surrounded by vampires.”
+
+“Is that weird for you? The vampire thing?”
+
+“Not really,” Audrey said as she looked around. “You’re not very big on following rules, are you? Or laws.”
+
+“I suppose not. Except cosmic laws, I guess. I kind of have to follow those, since I’m the one who… ah, that doesn’t matter. I’m more of a ‘do what thou wilt shall be the whole of the law’ guy.”
+
+“You realise that when regular people try that, it doesn’t work out.”
+
+“It doesn’t always work out for me, if I’m being honest.”
+
+***
+
+The bunker network’s single installed elevator was a freight elevator installed as part of the original construction. Jason and Audrey rode it down until it stopped with a shake. When the doors opened, they found most of Jason’s team arrayed in front of it, brandishing weapons.
+
+“What did I say about not being rude?” he asked them.
+
+“That’s an energy vampire,” Humphrey said, pointing his sword at Audrey.
+
+“Indeed, she is. Audrey Blaine, may I introduce Team Biscuit. Team, this is Audrey. A few decades ago, she ran an extremely sketchy joint project between the extant magical factions of the period. That program was how she ended up in her current state, which she has long-since learned to manage.”
+
+“What about magic sunlight turning vampires evil?” Taika asked.
+
+“Energy vampires aren’t subject to the same effects,” Clive said through voice chat from the lab. Audrey’s eyebrows rose as Jason looped her into the conversation. The others were notified by text as she joined.
+
+“So, this is the system they talk about,” she said as Clive continued his explanation.
+
+“Magic-infused sunlight doesn’t impact the personalities of energy vampires the way it does the regular vampires,” he said. “In fact, vampires and energy vampires aren’t the same kind of creature at all, despite the name.”
+
+“He’s right,” Carlos said through voice chat. “Energy vampires aren’t self-perpetuating, like regular vampires. They only come into being through unusual circumstances.”
+
+“Like with Thadwick,” Neil said.
+
+“Exactly,” Carlos said. “It’s why energy vampires are so much rarer. Their connection to actual vampires is thematic at most. The hunger, the need to feed on the living. The underlying magic is very different.”
+
+“Are you sure?” Humphrey asked.
+
+“Quite certain,” Carlos said. “I’ve vivisected more energy vampires than anyone on Pallimustus, so far as I’m aware.”
+
+“Uh, Carlos,” Jason said. “Just to check in… again. You are still a priest of the Healer, right?”
+
+“Why do you keep asking me that?”
+
+“I’m pretty sure it’s because of what was apparently an extensive vivisection program,” Belinda said.
+
+Jason glanced at Audrey, who had turned pale.
+
+“Okay, I’m bringing Ms Blaine to the lab, Clive. My grandmother pinched her from the Network years ago, and she’s been running clandestine experiments ever since. She has more experience with the biological aspects of magitech than anyone else on the planet, so she has the best chance of figuring out what was going on down here.”
+
+“Glad to hear it,” Clive said. “The most useful thing I’ve figured out is how urgently I need to study the technological aspects of how magic is used here.”
+
+***
+
+Jason lacked the appropriate expertise to dig into whatever the vampires had been doing, so left it in more capable hands. In the meantime, he caught up with Anna on the cloud ship.
+
+“The next step is to back off,” she said. “A lot happened today, and we need to see how things fall. The meeting with the ambassadors, the nuke, the vampires. The people you let see into your magic kingdom.”
+
+“Is Disney going to let us call it that?”
+
+“You’re happy traumatising a small army of reporters who are already making a massive deal of it, but you’re worried about branding?”
+
+“I may have fought a god, but I do not want to take on Disney lawyers.”
+
+Anna shook her head.
+
+“Dealing with the press like that—”
+
+“Anna, I’m not going to let anyone pressure me. Not like last time. I want to do things diplomatically, and I know that playing all-powerful tyrant doesn’t help with that. But I’m still going to, from time to time.”
+
+She sighed.
+
+“I know. Right now, we need to see how things play out. Don’t make any more spectacles until the refugee handoff. This vampire bunker situation compounds what was already deeply complicated.”
+
+“I agree. I’m more than happy to retreat to clan territory and keep quiet. I can leave the cloud ship here. My concern is what the vampires are up to. The rest is politics, but that’s a threat of a very different nature. If the vampires have more of those blood tree things, it completely reframes how we need to deal with them.”
+
+“Will you find that out any time soon?”
+
+“No idea.”
+
+“Then it doesn’t change the plan. Give the dust time to settle. While we see how things develop on the political front, we need to look at the public image of you and your clan. How the aftermath of today plays out will be a large factor in that, but we can look at general approaches. The key is that if your public image is a positive one, it’s all the harder to pressure you politically.”
+
+“So, using telekinesis on reporters was a bad idea?”
+
+“Actually, no. The Engineers of Ascension are long gone, but one thing they did continues to resonate, even now. They branded their people as superheroes, and that has stuck in the public imagination. Most major cities maintain a cadre of magic users to handle supernatural threats. Monsters, obviously, but as magic becomes more common, it’s increasingly being used in criminal activity. Mostly by former magic faction members who fell out of the fold over the last decade or so.”
+
+“Superheroes? Are we talking full-blown spandex vigilantes?
+
+“More like extremely flamboyant SWAT teams with large publicity departments.”
+
+“Where do I fit in?”
+
+“You’re the world’s first superhero. These modern superheroes spend most of their time making public appearances and arguing over who is the most like Batman. Their publicity team would kill for a rolling battle against vampiric blood servant bikies. Not to mention that EoA actively worked to turn you into an urban legend, in the last days before magic went public. They were using you to pave the way for their own superheroes.”
+
+“I remember,” he said with a scowl. “They tried to use the Broken Hill disaster for publicity. Sounds like not much has changed.”
+
+“Well, now we can reap the rewards of all that.”
+
+“In case my tone was unclear, Anna, I was implying that using these events for publicity is a bad thing.”
+
+“I’m not asking you to take advantage of dire events to promote yourself. I’m just explaining how we’re going to frame things, and what kind of events we’re going to target for intervention.”
+
+“You want me to do superhero things. Are you asking me to fight crime?”
+
+“No. Just keep doing what you did today. Handle threats that no one else can. Be what no one else can be. Honestly? The thing with the reporters plays into that. We can build an entire Avengers League around you and your team.”
+
+“It’s not Avengers League, Anna. It’s Avengers or it’s Justice League.”
+
+“Jason, I am incapable of expressing the depth to which I do not care. The point is that you have a team of colourful, diverse and incredibly attractive people. We can sell the crap out of that, and do some actual good in the process. We’ve already been brainstorming ways that you and your team can help people. Forget fighting monsters; I want to see Wexler walking through cities, curing people with her aura. That’s good publicity and just good.”
+
+“I like the idea, but I don’t want to have reporters following her around like it’s a publicity stunt. The priority should be helping people, not being seen helping people.”
+
+“The good thing is, that’s the right approach for image as well. It’s better publicity to just do it and have people find out, which they obviously will. You can’t blanket cities in miracle healing without people investigating what happened.”
+
+“I’m not opposed to the idea, but we need to prioritise our actions the right way. Places that need what we can offer the most.”
+
+“I completely agree. I’ll have the team put together a plan.”
+
+“The team?” Jason asked.
+
+“Once I joined this little operation, I started putting together what is essentially a think tank. We have the opportunity to make incredible changes. You and your people have the power to change the world. The key is not doing more harm than good, so we’ve been planning out how to do that. Our core approach is to identify potential areas where you could do some good, and then start consulting with locals. Figure out what the people on the ground need and determine if that’s something we can provide.”
+
+“Instead of deciding what they need and imposing it on them?”
+
+“Precisely. We’ve been extremely tentative at this stage, while waiting for you to arrive. Now, it’s time to start moving in earnest.”
+
+“Who is this team, exactly?”
+
+“I’ve been quietly recruiting, with the help of your grandmother. Experts in all manner of fields, many poached from the UN. World Health Organisation, Food and Agriculture Organisation, UNESCO. People I know to be capable and reliable. That’s the core brains trust. The goal is to build local organisations in any areas of operation. The Cabal tends to hold sway in areas of greatest need, and they’re actually way ahead of us on this. The work they’ve been doing since going public is incredible. I only realised how much once I connected with Boris Ketland.”
+
+“This all sounds more ambitious than I thought you would go for.”
+
+“We have a unique opportunity, Jason. You can do whatever you want, essentially without consequence to you. We need to figure out how to use that, without the consequences falling on the people we want to help. Maximising positive change while minimising harm.”
+
+Jason leaned forward in his chair.
+
+“Okay,” he said. “It sounds like you’ve been busy while I was crossing universes. Catch me up on everything.”

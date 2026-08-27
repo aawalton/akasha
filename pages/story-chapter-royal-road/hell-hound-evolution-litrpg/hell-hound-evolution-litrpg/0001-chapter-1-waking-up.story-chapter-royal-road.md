@@ -1,0 +1,215 @@
+---
+id: 828c124f-b1a4-5f91-8caa-4910cd8ef4c1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: Waking Up"
+slug: 0001-chapter-1-waking-up
+partOf: hell-hound-evolution-litrpg
+position: 1
+ownLength: 2160
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/2525423/chapter-1-waking-up"
+royalRoadId: "2525423"
+---
+
+Chapter 1: Waking Up
+
+I was surrounded by yipping animal noises as I was plopped onto a wet floor. Opening my eyes, I found my vision covered in a thick, gray film.
+
+I had no idea where I was. I was warm now, but the last thing I could remember was being very cold. So cold, I couldn't move my fingers, and the burning sensation slowly turned to nothing but a dull throb. Then there was a bright light, something coming at me, and then…
+
+Well, then, this.
+
+The chaotic, anxious yipping of small animals.
+
+Actually, it reminded me of the time a friend from school had a litter of puppies, and I went to pick one out. Mother made me give it back, though, which really sucked because not only did the short walk home have me already feeling bonded with the little guy, but it was embarrassing to explain that I had made a promise I couldn't keep.
+
+Thinking of Mother, I realized I’d better get back home. I wouldn’t want her to be “cross” with me, as she was fond of saying.
+
+First, I’d need to figure out where the hell I am and why I can't see.
+
+I tried to rub my eyes, but there was something very wrong with my arms. My attempts to move them felt restrained and unnatural. Plus my head was so fuzzy that… I mean, is it possible I've been drugged?
+
+As the situation dawned on me, I realized I might be in serious trouble here and had better find a way to—
+
+H-Hey!
+
+Something grabbed the back of my neck and pulled up. A stretching sensation pulled softly around my neck, lifting me like a sack, as the ground disappeared below me. My legs kicked uselessly, every nerve screaming that this wasn’t right, even though it didn’t hurt. Actually, it felt kind of nice in a very strange way, like it sapped the strength from my body but replaced it with a calmness. Still, the sensation was so foreign to me I began flailing my limbs in a panic, for all the little good it did me, as I glided through the air.
+
+Just what the hell is—
+
+The next thing I knew, my mouth reflexively snapped open and then clamped down around something.
+
+Warm. Soft. Pulsing.
+
+My jaw moved again and again in a steady sucking rhythm I had no control over, each pull bringing a gush of thick warmth sliding down my throat.
+
+Oh no.
+
+Am I… am I suckling?
+
+My brain screamed stop, but my body moved on autopilot, as if this was completely natural. And the worst part?
+
+Despite every ounce of mental resistance, I kept going. It was like an obsessive desire to keep pulling at this warm nub that sent milky warmth sliding down my throat. My limbs twitched uselessly as I willed them to scramble away, but the only thing I could move with any clarity was my tail.
+
+…Wait. Tail?
+
+A jolt of realization rushed through me, more effective than a bucket of ice water. I could feel a tail moving from my butt. Back and forth in a slow wag.
+
+Aaaaah! Enough already! This just keeps getting weirder and weirder!
+
+I lifted my hand, the movement awkward, but I managed to force it to touch my face. I felt a soft, stubby hand… no… a paw?
+
+The yipping noises surrounding me came into clarity once again as it finally clicked. It was so absurd my rational brain wanted to deny it, but some instinctual part of me knew the truth.
+
+I was in a litter.
+
+And I was a puppy.
+
+No. No no no no no.
+
+This can’t be happening! This can't be real! I was just… what, walking home from school? No, that's not it. I had been somewhere cold. Somewhere very, very, painfully cold, and then there was the light.
+
+This new place was oddly comforting compared to that cold, painful place. But was I dreaming? Had something terrible happened to me before I passed out?
+
+No, I knew this wasn’t a dream. I knew this was real as much as I knew the sky was blue, or fire was hot, or my name was…
+
+…Wait, what is my…?
+
+Ah! Never mind!
+
+Whatever happened, I shouldn't be here… I shouldn't be doing… doing this!
+
+Terror and panic clawed at my insides, but it was drowned out by the overwhelming instinct to keep nursing and the odd comfort that the milk was bringing.
+
+This is so humiliating…
+
+Yet I couldn’t stop. My brain was screaming, “Get off! Stop suckling that teat!” and my body was like, “Nah, just a few more gulps.”
+
+Eventually, I was full. It was like a switch flipped—I let go and flopped over, my round belly now tight and distended. A wave of lethargy washed over me, and despite my best efforts to stay alert, my eyelids drooped.
+
+Just five minutes, I promised myself. Then I’ll figure this out.
+
+My nose twitched at the rich scent of warm milk, my tongue lazily flicking out to lap the stray drops off my muzzle. My ears pricked up at the gentle heartbeat of the creature I’d just fed from. I curled in on myself next to the others and felt their soft bodies snuggling in around me.
+
+It was actually quite comfortable and peaceful. As if I hadn't slept in days and suddenly laid down on the softest bed imaginable.
+
+I guess… this wasn’t the worst place to be, all things considered.
+
+Just as I began to drift off, a voice tickled my brain.
+
+[New Species Integration: Hell Hound]
+
+[Stage 1 Pup]
+
+[Level 1]
+
+[Racial Skill Obtained: Enhanced Smell LV1]
+
+[Body Development at 4%]
+
+***
+
+I was able to open my eyes more and more over the coming days. There was still a bit of fog over my vision, but the vague shapes turned into other puppies as long as they were close enough.
+
+They were hard to tell apart, honestly, as they all had black fur, and looking at my paws, I knew it was the same for me.
+
+Anyway, most of my life had become just a cycle of eating and sleeping and yipping along with my brothers and sisters when they started to get noisy. I didn't know why I joined in on such senseless noise-making, but I didn't want to be left out either!
+
+Mom mostly just lay there, occasionally moving to snatch one of us up and bring us back to the nest if our waddling ventured us too far.
+
+Feeling hungry, I forced my way to her stomach and started suckling again as I pondered my situation. Was this some kind of reincarnation? I heard that in some religions you get reincarnated into a better and better thing if you were a good person but regress into something worse if you were not.
+
+Does this mean I was a bad person? I mean, dog has to be under human on the reincarnation into enlightenment scale or whatever thing, right?
+
+But honestly, now that I'm getting into the flow of things, I don't think I mind being a puppy so much. Just warm naps surrounded by my brothers and sisters and as much milk as I could drink. You've done a good job, Dog Mom! Compliments to the chef!
+
+I wonder what that weird message that popped up in my head was, though. It said something about body development and—
+
+Aaaaaah!
+
+[Body Development at 22%]
+
+What the heck!? There it is again! This time, a blue screen popped up in front of my face, displaying the same information!
+
+I wonder if my brothers and sisters can see it?
+
+I tilted my head and tried to paw at the mysterious message floating before my eyes, but of course, my stubby paws swiped through it like it was empty air.
+
+Well, whatever it is, it probably means I'm growing. That's good, right? If I'm stuck here, at least I won’t stay a helpless puppy forever.
+
+A sudden urge to stretch hit me, and I rolled onto my belly. Surprisingly, my legs didn’t wobble nearly as much this time. Curious, I tested standing. It was way easier than last time.
+
+Oh heck yeah! Puppy legs, go!
+
+Wagging my tail with newfound enthusiasm, I took a few careful steps away from the nest. The rocky floor felt cool and uneven beneath my paws, but my legs were quite sturdy now.
+
+Alright! Maybe I can actually explore now—
+
+“Yip!”
+
+Suddenly, something slammed into my side, knocking me over and sending me rolling head-over-tail. I yelped in surprise, scrambling to get back on my paws as quickly as I could. What the heck was that?!
+
+I turned around just in time to see a tiny black blur barreling toward me again. This time I was ready. I lowered myself into what felt like a natural play-stance, tail wagging uncontrollably. He lunged again, and we collided, tumbling together in a fluffy heap.
+
+It was one of my brothers, a mischievous glint in his now-visible brown eyes. He pawed at my face, growling adorably. Without even thinking, I playfully chomped back, snagging his floppy ear and giving it a tug.
+
+Ha! Take that, you sneak-attacker!
+
+Our play escalated into clumsy wrestling. We rolled, yipped, and pawed at each other, tails wagging furiously. He managed to pin me down briefly, his paws triumphantly pressed against my chest, his tongue hanging out of his mouth in obvious victory.
+
+“Oh, you think you've won, huh?” I barked, wriggling beneath him.
+
+With a burst of strength I didn't know I had, I flipped us both over, reversing the pin. He squirmed helplessly, making small yipping noises of defeat.
+
+Victory is mine!
+
+Suddenly, another status message popped into my head, interrupting my puppy-wrestling triumph.
+
+[Skill Obtained: Basic Fighting LV1]
+
+[Dexterity increased]
+
+Huh. A skill and Dexterity? There was a familiarness to this from my past life. I didn’t remember things with complete clarity, so it was hard to say, but rationalizing it as a “video game” mechanic did make sense to me.
+
+Anyway, it seemed that playing could also be used for training. That seemed useful to know.
+
+My brother seized the opportunity of my distraction to tackle me again, restarting our little battle. As we continued wrestling and tumbling around the cave, I couldn’t help smiling internally. Why would I ever even want to go back to being a human anyway? Being a puppy is FUN!
+
+We were in the middle of another intense wrestling match—by now, two more siblings had joined in, making it a chaotic ball of fluffy black fur and floppy limbs—when a heavy thud echoed through the cave.
+
+Instantly, all play stopped.
+
+Every puppy's head turned toward the cave entrance, ears perked and noses twitching nervously. Even Mom lifted her head, ears swiveling toward the sound.
+
+What was that…?
+
+A massive shadow filled the mouth of the cave, blocking out almost all of the dim, comforting glow I'd grown accustomed to. My eyes went wide as my vision finally sharpened enough to see clearly, and my heart nearly stopped.
+
+Standing at the cave’s entrance was an absolutely gigantic dog—no, a monster—with three heads, fur like a black mane around thick, muscular shoulders, and red, glowing eyes.
+
+My jaw dropped, and I stumbled backward into my siblings, who squeaked in confusion as I knocked them over like bowling pins.
+
+Holy crap! Is that… Cerberus?!
+
+The monstrous dog stepped forward, claws grinding heavily against stone. Each of the three heads scanned the cave, then the right head dropped something large and bloody onto the floor.
+
+I nearly gagged at the sight. It was the torn-off leg of some poor animal, still dripping fresh blood onto the cave floor. Not only that, but I could smell it very clearly, probably thanks to my apparent smelling skill.
+
+I had to mentally deny any desire for the raw, fleshy aroma. I salivated from it, but what my eyes were seeing made me want to hurl in disgust.
+
+No. No, I wasn’t hungry—I couldn’t be hungry. Not for that.
+
+Mom wagged her tail softly, completely unfazed, and rose to greet the monster. She sniffed the offering approvingly before grabbing it with sharp teeth and tearing a chunk off, blood staining her muzzle.
+
+Oh god! That’s disgusting, Mom! What the heck?!
+
+The three-headed beast made a deep, satisfied grunt from the center head, while the left one watched outside the cave as if keeping guard, and the right one leaned forward to affectionately lick Mom’s face.
+
+Wait, wait, wait! Does that mean this terrifying thing is… is my dad?!
+
+I stared, frozen, as Mom happily tore into the raw meat, blood splattering around her paws. Her tail wagged with contentment, while my presumed father stood by proudly.
+
+My stomach twisted at the raw, grisly spectacle.
+
+On second thought, I'd like to go back to being human now, please!

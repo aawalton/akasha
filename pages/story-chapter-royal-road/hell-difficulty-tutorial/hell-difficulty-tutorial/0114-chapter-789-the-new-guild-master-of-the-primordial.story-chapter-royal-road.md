@@ -1,0 +1,149 @@
+---
+id: a6e2e0e2-8d1c-5379-9db4-22f8811d961b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 789 - The new guild master of the Primordial Knights"
+slug: 0114-chapter-789-the-new-guild-master-of-the-primordial
+partOf: hell-difficulty-tutorial
+position: 114
+ownLength: 2619
+unit: words
+publishedAt: 2026-04-08
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3249558/chapter-789-the-new-guild-master-of-the-primordial"
+royalRoadId: "3249558"
+---
+
+"I know it's you spreading those false rumors about me throughout Beyond."
+
+"I have no idea what you're talking about. I want a 5 active skills combination token in exchange for the hand."
+
+"No."
+
+"Where is Ruby? I want to negotiate with her."
+
+"The Ruler of Greed won't be present, and neither will the Ruler of Kindness. You’re lucky the Ruler of Wrath didn't show up instead. I offer an upper arcane passive and 5 million shards."
+
+"What a joke. Mid pristine."
+
+"No way in hell."
+
+"Low pristine passive and 5 million shards."
+
+"No. Did you just use your trait strengthening token to strengthen your eyes to the second stage as we speak?"
+
+"They might be useful soon, so there’s no need to waste time. I can endure this much pain for the sake of our negotiations."
+
+"You look like you're about to pass out and die. And I bet the pain is worse than you expected. That hand you were so lucky to get was about to kill you and a great many people in Beyond. You only survived because I stepped in, something you expected your Handler to do. The hand isn't as valuable as the Fragment from last time. Do not expect a similar value."
+
+"Bullshit. To all of that."
+
+"How rude. I offer a 3rd stage trait strengthening token. Plus a million and a half shards for each member of your group other than yourself. Any further offers will not include your people."
+
+"You sneaky little... I want one finger to be cut off the hand and stored by the Ruler of Greed until my group reaches the 13th floor. It gets handed back to me then. Only then do I accept."
+
+The Black Ant hesitates for a moment before saying, "One knuckle from a finger. Then it will be acceptable."
+
+"Deal."
+
+There isn't even a goodbye. I vanish from the space and reappear in my room at the headquarters of the Primordial Knights.
+
+POV Talon
+
+It isn’t often you get to witness the crowning of a new guild master for the most powerful guild in Beyond by a wide margin. And I know the guy. If that doesn’t help my prospects, I don’t know what will. Well, maybe my charm or my handsome face. And my fancy primordial energy, of course. Stellar Wind still has a nice ring to it. But being in the position I’m in now, I always knew all my suffering with these lunatics would be rewarded.
+
+The Null King Weslin and holy-fuck-it’s-Morwag-RUN are both already here, as are all the demons with access to the 4th floor and Megacity. I even heard some were coming up from the 5th floor just to witness it.
+
+Nyssa Volare is widely considered to be one of the most powerful attendees to enter Beyond in the past 1,000 years. After all, she killed a goddamn Champion. Alone. I don’t think there can be any more guessing about who is more powerful between her and Lyraen. So, many people are curious about her successor.
+
+The ceremony begins simply.
+
+Drums sound from all directions in deep vibrations loud enough to feel through the entirety of one’s body. The air shakes, windows rattle, and the drums continue. Beat after beat, slow at first but growing quicker and louder with each repetition. Many of the demons are beginning to shout in sync with the drums, and their hearts sync to the same rhythm. Slow at first, but becoming faster as time goes on.
+
+The entire purpose is to rile up everyone here. To make the hearts of these lunatics beat faster and awaken that deep-rooted aggression that lies in the heart of every single one of them.
+
+The drumming is nearing its peak when the hundreds of demons present move to the sides and clear a straight corridor between them. That corridor isn’t very wide, just a half step or a generous arm's reach from the demon or person on the opposite side.
+
+Once again, the drumming grows louder, and I can’t tell what I’m hearing now, their hearts or the drums. That’s when the doors open and Nyssa’s successor enters and begins to walk through the corridor.
+
+As he does so, all the demons are so close that his shoulders occasionally brush against them, as others reach out to touch him. Every demon standing there is watching with their red eyes wide open and hearts beating wildly. I can't help but feel some of that mood, and looking around, all the other nondemon members are the same.
+
+Nathaniel doesn’t seem bothered at all. The currently empty sleeve where his left arm should be hangs limp along his body as he pushes through the corridor. He ignores the demons pressing in so claustrophobically close and the corridor closing behind him. His steps aren’t hurried, but neither are they slow, and unlike the demons, I can’t sense his heartbeat, much less any primordial energy radiating from him.
+
+Then he reaches the five steps leading up to the podium and stops in front of them. From behind him, demons push close, and the drums are deafening now.
+
+He takes the first step, and a wave of kinetic energy throws the demons behind him away.
+
+The drums beat, and he takes the second step up, and the air around him shakes. All the beautiful stained glass windows in the buildings around us explode. The colorful shards of glass begin to rain down, only to be halted mid-air, and light shines down from the fake sky to the floor. It sends colorful reflections scattering all over the place as colorful rays of light pass through the glass to shine on the ground below.
+
+Nathaniel takes the third step, and my teeth rattle. Both of his hearts begin to beat in sync with the drums and the other demons. More than anything, it feels like he’s teasing them.
+
+He passes the fourth and fifth steps within the beat of a heart and, standing at the top of the podium, he turns.
+
+Everything else falls into shadow, leaving only the gleam of his eyes. A raw, unearthly gold flares with the intensity of a dying star, fighting to pierce the veil of his pupils, but with his chilling, iron willed composure, he suffocates it, bending it entirely to his will.
+
+All the drums stop at once, leaving the space filled with the beating of hundreds of hearts as he waits there for anyone to challenge him. Someone to contest his role as the strongest in the guild and, by extension, the new guild master.
+
+A few demons take a step onto the first stair, and then the amount of primordial energy Nathaniel’s been generating increases at a terrifying speed no one here can hope to match. They get suppressed as thermal and kinetic energy seep out from him. A circle of golden flames forms behind him, its edges shaking as his kinetic energy seeps into the area with it.
+
+All the demons that took that first step stagger back, but Nathaniel doesn’t stop here. The amount continues to increase, ramping up until his heartbeat drowns out everyone else’s.
+
+Even now, his expression hasn’t changed, he keeps that same emotionless visage that, in combination with his eyes, makes him seem so exceedingly arrogant. And he’s challenging everyone here to face that arrogance, for them to prove it misplaced and brittle.
+
+But no one can. Demons stare at him, they sense his challenge and face his will, but no one takes a step.
+
+As quickly as they came, the primordial energies around him begin to disappear, pulled back into his body with ease, in such great amounts that it makes me shudder. Then, in their place, his mana begins to rise. Wild like a torrential sea, in unstoppable currents that circle him, moving around and reaching towards the sky and crashing all around him like waves breaking against the rocks.
+
+Not for a moment does it seem like he’s lacking in control as the amount continues to ramp up. It grows denser and becomes visible to the naked eye. It feels like I could touch it if I only stretched out my hand. Like I could smell it.
+
+Nathaniel takes a step and faces both Morwag and Weslin in a clear gesture of challenge, but neither of them accepts it today. They lower their heads slightly in an acknowledgment of the power of the man widely known as the Mana Tyrant.
+
+Hundreds of demons follow in the same bow as his eyes sweep over them.
+
+Then, from behind Nathaniel, the vice guild master steps out with unhurried steps, stopping beside him and placing a mantle around his shoulders, made of a deep red fabric with fur at the top framing his shoulders, brown at the top and white below. A ceremonial item belonging to the demons and one of only a very few mid pristine items in Beyond.
+
+Nathaniel reaches out his hand, and the tree that’s been growing from one of the gardens, the one surrounded by restrictive arrays, begins to shake and shrink. It breaks down into a small piece of crystal that flies over to him and merges with the one on the back of his hand.
+
+Standing with the mantle resting on his shoulders, he then waits for exactly ten heartbeats for anyone to challenge him.
+
+No one does.
+
+The new guild master of the Primordial Knights has been officially accepted.
+
+POV Nathaniel
+
+I’ve been to the 5th floor of Beyond likely more than any other attendee ever. That sentence itself sounds cool. There’s no need to go into the reasons, though, using it to lower my constitution that way might sound badass as well.
+
+As I stand here again, it all begins to feel more real. Our plan is to fight an actual Champion while none of us are anywhere close to level 450, meanwhile, the Champion is a four question mark monstrosity, likely between level 450 and 599. Actually standing here feels different than just talking about it. Before, it was just a "what if," a sort of game we played to kill time.
+
+That reality is further emphasized now by the two places in the explorer rankings taken up by Christoph and now Nyssa. What a monster that demoness has turned out to be.
+
+All of this goes through my mind as the wind pushes against me and I look over the plains of the 5th floor. I don’t think I’ve ever seen this floor as anything other than a constantly cloudy wasteland, with those clouds hanging high in the fake sky. Like any other floor in Beyond, this one is also just a cave, enormous in scale, but a cave nonetheless, with the sun replaced by shining crystals on the ceiling.
+
+Here, no one knows what generates the light, as rumor says that even S-ranks die should they fly into those clouds.
+
+Vegetation is sparse, so it is mostly rock, often interwoven with various metals. I think someone said that out of all the Beyond floors, the metals here are among the most valuable and highest grades. If you didn’t need to sacrifice 15 stat points or face such dangers, you could earn a lot of shards just by mining.
+
+Actually, there is a single tree, the Fragment of the Nameless Tree, that I planted two days ago when we arrived. I’ve been feeding it to make it grow faster. The array I’ve been working on is connected to it, as is the natural connection that allows me to use it as a node.
+
+And completing the image is a broad array of crystalline structures. Sometimes they’re small, only reaching up to your knees, other times they’re the size of buildings, almost coming together to form a strange sort of forest. Be it blue, white, or green, there are many of them. None are valuable as material, but they add bits of color to this bleak floor. Though sometimes, as winds pass over these forests, it does create an unsettling sound.
+
+Inside one of the tents we’ve set up, I listen to Weslin go over the plan while Morwag just sits lazily nearby. Beside him is the low pristine armor he’ll be using, as well as his Obsidian Spine Chain. Other than that, there are 14 hand-picked A ranks, mostly demons, but there is one lynthari, two velnar, and two humans among them.
+
+Weslin continues to repeat things most of us already know, but this time, I don’t mind. Just having certain information and a firmly set plan feels freeing.
+
+"From the information we have, the thylarin Champion’s passive detection range is 50 miles for primordial energies and 100 miles for mana. When he actively focuses on detection, that range multiplies by at least five, so not the greatest, but it’s not bad either. His movement is fast, but that speed is reliant on mana-based body strengthening and a skill reminiscent of [Shadow Step] that allows him to move across an as yet unknown maximal distance, however, movement over 10 miles with a single leap has been confirmed. Active skills are all expected to be within the level 80 to 87 range. Only three skills are confirmed to have been recorded in the clashes from previous attempts: [Entity Tracking], [Mana Blast], and [Friction]. Suspected passives are..."
+
+I filter out the rest of the words and, taking a few steps, I exit the tent. Looking into the distance, I detect a presence that’s recently let itself be known to me. Using Wraith Dance a few times, I reach a place where a purple crystal pierces the ground at a 45-degree angle, resting against a boulder.
+
+Near that boulder, a lumoran man stands. He has black skin, but those crystalline features that most of their race usually have are almost nowhere to be seen. Only a set of diadem-like protrusions poke out of his skin, creating a circlet around his head with a bigger crystal at the center of his forehead. His right hand is entirely made from transparent white crystal, and within it, his bones are visible along with the constantly moving mana that shifts within.
+
+"I hope you don’t mind. I just wanted to observe the mark she left on you," the lumoran smiles at me, even as his presence continues to choke me out, not even intentionally from his side.
+
+"And how do you like the mark?" I barely manage to force out.
+
+"It is indeed as ancient and impressive as I’d heard," he says with another smile. "While still surprising, it’s beginning to make sense how she was able to kill Master Tyven, even as a mere shadow. But for now, good luck on your adventure. I won't stay, I worry my presence might harm you, despite my best efforts to restrain it."
+
+He walks away with an almost playful grace, pausing to glance back one last time. "I considered killing that Champion you’ve been eyeing, but... that would be dreadfully childish of me. Still, I might have provoked it just a touch. If I were you, I’d hurry. It likely knows you’re coming."
+
+A short laugh escapes him, and then the newly crowned Ruler of Envy disappears in a movement I can't follow, continuing his passage through the floors of Beyond, a right he gained when he became a Ruler.
+
+Meanwhile, I turn around and burst in as quick a movement as I can back towards the others, hoping it isn't too late. The mana in my crown compresses, all the energy I’ve been gathering, and turns pitch black as I reach for the arrays spread out and connected to the Mana Tree I planted.

@@ -1,0 +1,349 @@
+---
+id: 4705305a-1a06-5605-8b92-8d87265c7161
+page-type-slug: story-chapter-royal-road
+title: "Chapter 96"
+slug: 0020-chapter-96
+partOf: hell-hound-evolution-litrpg
+position: 20
+ownLength: 3315
+unit: words
+publishedAt: 2026-03-11
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3140228/chapter-96"
+royalRoadId: "3140228"
+---
+
+We left the family behind. I don’t think they noticed what I did, not that it mattered.
+
+Grick retrieved a healing potion from his bag and drank a small bit of it until his leg felt better, then he helped Lily drink. The fox remained in her monster form and got her bag around her neck, then padded ahead of the group through the woods as usual.
+
+I suppose what I just did was okay. The man was dying anyway, and even if he wasn’t, it still wouldn’t have been a senseless kill. I got a reward for it, after all. Killing was okay, as long as I got something out of it and as long as I didn’t prolong my prey’s suffering for no reason. Whether it was for eating, training, or leveling up, this is what I was, and this was the way of the world.
+
+After a while, I heard the fox’s voice in my head. “So did it work?”
+
+I let out a resigned huff.
+
+Yeah. It sure did…
+
+I’d been unsure if I would even want this Path if it meant replacing Whisperfang Juvenile, but things turned out better in a way I’d never imagined. I could even get my magic back for times when I needed it, or even just wanted to train those skills.
+
+I opened the System Menu and saw there was indeed a new tab, separate from the Evolution tab.
+
+It said Path Change, and when I selected it, three options came up.
+
+Arcane Nightstalker (Available)
+
+A Path that walks between shadow and element, unseen and unbound. The pulse of the world flows through your veins, and you can harness it to your whims.
+
+Whisperfang Juvenile (current)
+
+A Path for budding apex predators. Those who walk this path seek a future where they are second to none.
+
+Veiledfang Stalker (Evolve through Evolution tab)
+
+A Path meant for cunning predators who wish to blend in with their prey and catch them at their most vulnerable.
+
+Interestingly, I had actually unlocked more than these three paths before. There was also Veinseer Pup and Veinseer Nightstalker. But maybe because they were just weaker versions of other Paths, there was no point in using them? Since I got Pulse and Marrow Sense back after evolving to Whisperfang Juvenile, that probably indicates Whisperfang Juvenile was a higher path on that tree, and therefore there was no point in the other two anymore.
+
+I switched over to the evolutions tab to confirm it was only those that I’ve had previously, and it was, but I also took a look at the two Paths I had received from the quest for killing the red masks.
+
+Epic - Hellborne Fire Witch
+
+Path hinted, further details currently unknown.
+
+Hint 1: Locked (Seek the Serpent of the Black Pyre to reveal this hint)
+
+Hint 2: Locked
+
+Hint 3: Locked
+
+Requirements
+
+Stage 7 development
+
+Attribute Requirements: Unknown
+
+Required Achievements: 2 (Unknown)
+
+Legendary - Aberrant Triune
+
+Path hinted, further details currently unknown.
+
+Hint 1: The form is not wrong because it is many. It is wrong because it is not yet one.
+
+Hint 2: Locked
+
+Hint 3: Locked
+
+Hint 4: Locked
+
+Requirements
+
+Stage 12 development
+
+Attribute Requirements: Unknown
+
+Required Achievements: 5
+
+Branching Destiny: You have unlocked paths in a total of 3 separate evolution trees and have stepped beyond linear evolution!
+
+(4 unknown)
+
+I stopped at Aberrant Triune. One of the five achievements was revealed! It was the same achievement that opened up my Path selection!
+
+Well, it still had a lot of requirements, and stage 12 felt so impossibly far away. Still, it had been the most mysterious Path hint I’ve gotten so far. But the achievement certainly pointed me in a certain direction.
+
+“Triune” meant three—I think—and combine that with the branching destiny achievement being a requirement. Did that mean… three Paths?
+
+Still, the word "aberrant" is what left me wondering what else this Path was supposed to be all about. As soon as I got to the Verdant Empire, I’d ask if they had a dictionary handy!
+
+But as I was thinking about all of this, the System put a new message into my face.
+
+A new evolution hint has been unlocked!
+
+Boy, you’re just full of surprises today, aren’t you, System?
+
+I checked back through and found it was the second hint for Abbarent Triune.
+
+Hint 2: Three must stand where one once walked.
+
+Well, that confirms my three theory. Was it really talking about three Paths, or rather, three evolution branches?
+
+I nearly ran nose-first into the fox as she stopped and looked down at me. I looked up with an expression that asked, “What?”
+
+“I take it the answer to my question is yes. You’ve been looking through system messages for minutes now.”
+
+Lily turned her head, questioning why we had stopped.
+
+The fox looked up. The red sky was beginning to get a tint of purple as night was coming. “Why don’t we stop for the night? If your plan is to put the Path to use while entering the empire, then I recommend taking a little time to get used to human legs first. It’s… different.”
+
+I lifted my snout smugly. “Thanks, but I’ll be fine.”
+
+Normally, it would be good advice. I’d bet when fox lady first turned human, she went running around awkwardly on all fours… And nude, apparently… But there is a difference here! I actually used to be human—or at least could remember a human life! So, surely I would not have such troubles adjusting. Hmmmm… The clothing issue was another thing. I’d have to borrow something from the fox and find somewhere private for my transformation.
+
+We picked out a nice, clear spot with plenty of tree coverage. I walked over to the fox and growled softly at her bag.
+
+"Oh, right. You’re a real stickler about that.”
+
+Of course I am!
+
+The fox lowered her head and shook her bag off her neck, she then gingerly got it open with her teeth and started pulling things out. She first piled up her usual set of clothes then dug deeper for something else.
+
+She pulled free a plain, travel-worn tunic, leggings, and a short cloak that had seen better days.
+
+I moved my snout down to pick them up, but she placed her big fox paw on top. I looked up at her with an annoyed expression.
+
+“Since we’ll be parting ways tomorrow, and this is my last full set of extras, I’m not giving it for free.”
+
+Seriously?
+
+Well… I guess that's kind of fair…
+
+I let out a resigned huff. “Fine. What do you want?”
+
+She nodded over to Grick, and his ears shot up instantly at the acknowledgment.
+
+Of course, I already figured she’d taken a look through his bag at some point. At least she didn’t outright steal from us, but she knew about the potions and probably the gold as well.
+
+Her lip curled in a sly smile. “I’ll sell them to you for what they are worth, don’t worry. And as you can see, they are not exceptionally high quality. So a single gold coin will suffice.”
+
+Was that a lot for some clothes? I had no idea. By Earth standards, the silver and gold Grick had picked off the red masks and fleeced from the merchants would have been a small fortune. But that merchant family didn’t have a single gold coin, and the bandits seemed quite upset to only find silver and copper. So I had to assume gold was pretty valuable. Meanwhile, these clothes she was offering me were practically rags!
+
+No, she was definitely ripping us off.
+
+Grick’s ears folded down. “Fox wants Grick’s lovelies?”
+
+I gave her a sharp bark, telling her to stop trying to swindle us!
+
+Her sly, foxy smile only widened. “Call it a convenience upcharge. Everything is more expensive on the docks for incoming ships. For those who are eager to eat, or don’t have time to head into town. It’s kind of like that.”
+
+I let out a low growl. “You really are the worst.”
+
+I looked over to Grick and, through Pack Bond, told him to just fork over a gold coin.
+
+He begrudgingly put his pack between his legs and started digging through it, muttering, “Takes all of Grick’s lovies. Always unfair to Grick!”
+
+Really, a single gold coin wasn’t even a fraction of how much we’ve collected so far. But still, it irked me.
+
+Grick begrudgingly held the gold coin up to the fox, who gingerly took it with her very front teeth. “Heheheh. Thank you!” she said sweetly, then dropped it into her bag. “Okay, they’re all yours, pup.”
+
+It was a bit of a struggle to bundle all the clothes into my mouth. I carefully bent down and got my teeth around everything, then pranced off into the thickets. I used Pack Bond to tell Lily and Grick, “Wait here.”
+
+Lily watched everything with her usual curiosity.
+
+Once I got some distance, I used a quick {Pulse Sense} to confirm Grick was being a good little goblin. Then I opened the evolution tab and selected Veiledfang Stalker.
+
+[Warning! The following active skills will be unusable with the selected Path; however, you will lose no development towards mastery of these skills, and they may be accessible again should you switch back to a compatible Path.]
+
+Soul Rend
+
+Death Mark
+
+Pulse Sense
+
+Marrow Sense
+
+Apex Ambush
+
+[Are you sure you want to evolve to the Path?]
+
+[Yes] > [No]
+
+Damn it… I would be without Pulse Sense again. I really felt so much more vulnerable without it!
+
+Well, at least I got to keep all my stealthy skills. But I wouldn’t even have my magic skills from Arcane Nightstalker to compensate. But, I guess this is okay as long as I can switch back any time I wanted—
+
+[Warning! You will not be able to change Paths more than once in a 48 hour period]
+
+Oh! Come on! Why didn’t you tell me that sooner? Stupid System!
+
+[Unrecognized request. Please see the help menu for available functions.]
+
+You’re just messing with me again… aren’t you?
+
+Without any more delay, I selected yes on the original prompt.
+
+Instantly, my body was enveloped by that golden glow. However, this time, instead of growing larger as had normally been the case while evolving, I actually became smaller. Was I turning into a human already?
+
+But no, and it was really that my muscles were just losing some of their bulk, and my extra-menacing claws I had received from Whisperfang Juvenile also retracted somewhat. Feeling my tongue around my mouth, it still felt like a wolfy mouth, but my fangs got a little smaller as well.
+
+When it was done, I investigated myself, sniffing. Nope, still a dog!
+
+[Congratulations! You have evolved into the Veilfang Stalker Path!]
+
+[New active skill obtained: Veilform]
+
+Reweave your flesh into a studied form. The veil is limited by knowledge, clarity, and biological plausibility.
+
+[New active skill obtained: False Death]
+
+Suppress heartbeat and breathing to feign death.
+
+[New active skill obtained: Analyze]
+
+See the level and species of a target. Analyze will fail against targets that are significantly higher level than you.
+
+[New passive skill obtained: Backstabber]
+
+Bonus damage when attacking a target's back.
+
+[New trait obtained: Wolf Among the Flock]
+
+You receive bonus experience points when assassinating a target who had perceived you as one of their own.
+
+I read through my new abilities. Veilform was obviously the key skill for this class, but “reweaving my flesh” sounded… uhg! That sounded horrifying! Did I really want to do that, even if it was temporary?
+
+But that Path had some other interesting things that came along with it. Although I wanted this ability just to make communication easier, obviously the Path wasn’t designed for that reason alone.
+
+What Wolf Among the Flock implied didn’t sit right with me either, and I couldn’t imagine a time I’d put it to use. Backstabber seemed like it could just be another stack on my bonuses for stealthy kills, however.
+
+False Death could have some viability, but what really grabbed my attention was Analyze. Most of those red masks seemed able to know my level just by looking at me, so that must be what that skill was. Though, thinking of Genzo, he could see far more than just my level, so I wondered if a higher level in Analyze would reveal more and more information?
+
+In any case, despite whatever reservations I might have, Veilform is what I needed to try out. The wording also implied it could potentially grant me more than just a human form, but I’d experiment with that later. It was time to put it to the test!
+
+I thought about a human appearance and used {Veilform}!
+
+Instantly, I felt an aggressive stretching and morphing of my limbs and body. It wasn’t painful, but it was quite odd.
+
+My forelegs pulled inward, joints twisting, bones lengthening. My spine poppled and cracked as I was lurched violently forward onto my paw—
+
+Hands!
+
+I watched as light-silhouetted fingers began to form.
+
+And soon, it was all over.
+
+Was I a human now? I looked down and confirmed yes, then instantly reached for my clothes. It was quite awkward, but I managed to slip my arms through. My hands brushed something fuzzy on the top of my head, prompting me to feel around. I still had doggy ears! Looking behind myself, there was a tail too, for that matter. I quickly pushed my legs through the trousers and pulled the drawstring tight, but it was clear these clothes were too big for me. The fox wasn’t particularly tall in her human form, so that was weird, but whatever, I’d find better clothes eventually.
+
+She hadn’t provided shoes, so I didn’t have to worry about that, and when I was all dressed I shakily raised to my feet.
+
+Man, standing on two legs was weird! How did humans even do it?
+
+I mean, uh… this is nothing, of course! Having two legs is totally normal and easy to use!
+
+I attempted my first step and instantly pitched forward, landing on my hands and knees. My tail beat behind me in frustration.
+
+Okay… maybe this would take a little more getting used to than I had thought.
+
+I got up and tried again, succeeding at one wobbly step.
+
+I looked around. Being this high up was a little weird as well. My Nightvision still worked perfectly fine, but seeing the uneven ground ahead of me, I realized staggering my way back to camp like this would be way too difficult. I’d have to practice walking on some more level ground.
+
+So, regretfully, I let myself fall back to my hands and knees and began to crawl. Even crawling was a little awkward thanks to the baggy clothing.
+
+That stupid fox better not make fun of me!
+
+As I pushed through the thickets I saw Lily sitting on her hunches by Grick, and upon hearing the rustling of the leaves she shot up excitedly to greet me, but paused. Her wagging tail slowed as she stared at me… and then her hackles raised, and she started to growl.
+
+Lily it’s me!
+
+“Ruff!” I barked at her, but it didn’t sound like me. It didn’t have the rumble of my normal bark.
+
+She inched forward, growling warily.
+
+“Its me!” I told her through Pack Bond.
+
+She blinked. She seemed to understand, or at least, was starting to. Her hackles lowered, and she approached me slowly. As she sniffed my new human face, her tail wagged uncertainly once, then a little faster. She let out a “yip!” and then started circling me, sniffing all over.
+
+“Puppy becomes human!” Grick cackled and walked over. He patted the top of my head. “But Grick likes when puppy looks like puppy better!”
+
+Between Lily investigating every inch of me, and Grick ruffling my hair, I felt a little overwhelmed.
+
+Okay, come on, guys!
+
+I shook my head away from his hand, whipping my new human hair around my head.
+
+“See? Weird, isn’t it?” said the fox. I looked over to see her pushing aside some bushes in her human form. She folded her arms and assessed me for a moment with her golden eyes. Surprisingly, she didn’t make any quips or laugh at me. She walked over and held out a hand. “Here, try standing.”
+
+I put my paw—hand—in hers and let her help me to my feet. Lily sat on her haunches nearby, tail wagging like crazy as she watched with the utmost fascination.
+
+Soon, I was back on two wobbly legs, but I noticed something else odd. The fox was tall. Really tall.
+
+I looked down at myself as realization dawned. I let out a low rumbling growl, but it was far less intimidating in this small human throat.
+
+I was a kid!
+
+Oh, come on! This sucks! I can’t fight like this!
+
+“What’s the matter?” The fox’s head canted.
+
+I suppose it made sense. Technically, I wasn’t even half a year old yet, but at least I didn’t morph into an actual baby. Dogs did age much faster than humans, after all. Actually, that’s not quite right, either, because even that would make me only three or four at the most in dog years, but this body seemed to be more like that of a ten or eleven-year-old.
+
+Maybe it was based on my development stage? Those were not exclusively tied to time, after all. Or maybe humans grew faster in this world as well? I had no way of knowing one way or another.
+
+The fox chuckled. “Fighting’s gonna suck outside of your normal form. I tried learning to use knives before, but gave it up. I just use magic or revert to my normal form if I need to kill something. But you can worry about that later. Start with the basics.”
+
+Then I remembered the whole reason I did this in the first place. I started moving my mouth, trying to talk.
+
+“Aaah… ammph th-th-thuu…”
+
+Uhg! What is with this tongue?! It felt so flat and meaty!
+
+I started moving my mouth around and licking at my chops… uh… well, they weren’t really “chops” anymore.
+
+But I did notice a nice sharpness, and as I moved my tongue more carefully along my teeth, I confirmed I still had fangs. I carefully moved my hand up and felt along my teeth with my thumb. They were smaller than my usual ones, but still sharp enough to prick my skin if I wanted. So much for looking harmless. Well, I guess the small body would help with that.
+
+I lowered my hand and tried speaking again, forcing my lips and tongue into different shapes. “Th… thhhh… ah… uh… I…”
+
+Okay, “I” is a good start, I guess.
+
+“I… aaah. Am…”
+
+“You are…?” The fox purred playfully.
+
+“Shaat aahp!” I snapped at her.
+
+She chuckled. “Bet you’ve been waiting to say that to me for a while, huh?”
+
+I narrowed my eyes at her, but couldn’t help grinning.
+
+“Anyway, practice moving around and talking,” the fox said as she paced away and then flopped down by her bag. “You just changed, so it’s just a matter of realizing things don’t move as they do in your natural form. But you should catch on pretty quick.”
+
+Taking her advice, I started with some shaky steps around our little campground. Each one became more certain than the last, and I quickly at least got to the point of not worrying about falling.
+
+Lily pranced alongside me, looking up curiously the whole time. I smiled back down at her with my kinda-wolfy teeth.
+
+“Rirr. Rrrr. Lull. Lulli… Lily!”
+
+I finally got her name out properly, and Lily returned an emphatic “Yip!”
+
+READ NEXT CHAPTER NOW!

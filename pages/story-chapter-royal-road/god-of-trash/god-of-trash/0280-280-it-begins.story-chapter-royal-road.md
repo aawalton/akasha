@@ -1,0 +1,77 @@
+---
+id: f5b84ae0-7726-5545-b69c-845cd919b4d7
+page-type-slug: story-chapter-royal-road
+title: "280. It Begins"
+slug: 0280-280-it-begins
+partOf: god-of-trash
+position: 280
+ownLength: 2003
+unit: words
+publishedAt: 2026-02-27
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3099656/280-it-begins"
+royalRoadId: "3099656"
+---
+
+He was practicing in the smoking room when it happened. Rhys jolted out of his meditation and jumped to his feet, holding his breath and watching with the very tail of his mana senses. Although he called it ‘the limit of his mana senses,’ it wasn’t the true limit of his mana senses, which at this point was rather absurd; it was the limit of his resting mana senses, which was less absurd and more similar to the range of normal mages’ mana senses. Ernesto walked by, directly through the path of plan 2s Rhys had set.
+
+He held his breath, watching, and saw the sticky tack he’d created to mimic chewed and discarded gum do its job. He’d had to teleport out of the city to make it happen, since the closest thing he could think of to gum was tree sap, but he’d made it happen with a few quick trash can teleports. It’d done its job so well that he’d worried the plan 2 wouldn’t survive until Ernesto showed up, what with all the mages tracking it all over the city, but enough had survived that he could track one moving with Ernesto, stuck to the heel of his boot.
+
+He breathed out. And that’s part two of plan two, right on schedule. The first party of ball season wasn’t until the end of the week, but he wasn’t waiting for the end of the week to start plan two. All his plans were running concurrently, even the ones he hadn’t come up with yet. Part of plan 2 was to sprinkle a little preparation all over the city, so that if he came up with a plan 3 or 4 that required maneuverability and flexibility, he’d already laid the bones to execute on it later.
+
+The most important part of preparation was to make backups and prepare for the unexpected. Plans didn’t always go perfectly, especially not in one of his favorite trash tv genres, baking shows. The number of times he’d seen a baker make exactly three cupcakes when they needed exactly three cupcakes was too damn high. Make some backups! Make six, or even a dozen cupcakes! That way, if something went wrong, there was something to pivot to!
+
+…Or so he ranted at the television, knowing nothing about baking, let alone competitive baking. At the end of the day, he was just trash. But because he was the kind of trash who ranted helplessly at poor pressurized show contestants who were already hanging by a thread from stress just from being televised and judged on national television, he knew that he absolutely refused to fail because he hadn’t prepared a backup. He wouldn’t be the one who went home in the first round because one of his cookies broke and he had to serve the judges a broken cookie, no siree.
+
+The real problem was that there were a lot of moving parts and uncertainties in the plans he’d made. He didn’t know a lot of information that was vital to his objectives of rescuing Straw and Soma, clearing the marks from Bast and the Sword Saint, and overthrowing Virgil. If he didn’t have wiggle room in a plan with that much unknown in it, he was really just shooting himself in the foot.
+
+Now that he’d gotten a plan 2 on Ernesto, the most important part of the pre-action plan could begin. His eyes flashed, and he lowered his head. Now that I’ve succeeded, it’s time to reveal! My plan 2, all along, was just a miniaturized version of the disposable trash hoops from the arctic area! They’re one use only, but as long as I have one and the mage doesn’t notice it, I’ve essentially snuck a mini-camera into wherever I need to know about.
+
+He could extend his mana senses through the hoop, into the void, and out through any of the mini-hoops. If he really wanted to, he could physically go to the void and peer through the hoop… though he’d have to move the exit point of the mini-hoop to the island first, or else he’d be risking his life for a little voyeurism, what with void beast wandering around. And he wasn’t a voyeur, either, so he wouldn’t even enjoy it, so what was the point? No, until he absolutely needed his eyeballs, he was going to stick with using his mana senses, which could extend arbitrarily around corners and through narrow holes.
+
+He paused as his mind went to a horrible place. If that’s the case, doesn’t that mean that common decency is all that’s between us and constant under-clothes x-ray vision, ero-manga style? I have common decency, and most people I know have common decency… but not all people I know. A certain over-sexed filth construct came to mind, and Rhys pursed his lips. Yeah… I think we can all just assume that Soma’s looking at us naked all the time. But then again, maybe not? He does seem to like the thrill of the chase…
+
+I should ask him, the next time I… no, wait. Do I want to know? Yeah, amend that. I should definitely not ask him. Ever. If he wants to see my hog, that’s his call. I can just let that be one of life’s great mysteries for me.
+
+He sat back down in the smoking room with a big hoop in front of him and waited, giving Ernesto time to get to wherever he was going. Twenty minutes later, he checked in.
+
+Ernesto was wandering the shopping district, looking at household goods.
+
+Not interesting. He went back to practicing and waited another twenty minutes before checking in again.
+
+Ernesto was having a nice cup of tea at a café, sipping it and chatting with some other mage.
+
+Still not interesting. Rhys popped out again, waiting half an hour this time.
+
+Ernesto was eating dinner, taking his time and enjoying his meal.
+
+Rhys put his head in his hands. What was this? He felt like Ernesto was trolling him, except he was pretty sure the now-weaker mage wouldn’t notice his loop. Just go! Just go do the thing you’re supposed to do! Go visit your lab! Come on!
+
+He checked in a few more times that night, but Ernesto continued to have a nice evening out on town, then stumbled home to his house and slept the night away. Meanwhile, Rhys sat in the smoking room, sweating over having to check so many times and risk detection repeatedly, having the opposite of a nice night out—instead, he was having a stressful night in. He’s got to go to work in the morning, right? Right? It’s not a weekend tomorrow, is it?
+
+Did mages even work a five-day workweek? It wasn’t like they lived in a capitalist society. They didn’t need to work forty-hour weeks or anything like that. None of those weird artificial constructs had been created here yet. Who knew when Ernesto worked. He could work midnights, or only Tuesdays, or whenever the mood struck him. Sure, the academy had operated on a five-days-on, two-days-off schedule… or had seemed to, anyways, since Rhys was the original truant, and had never attended class seriously at any academy—but he didn’t know if anything else operated on that schedule, or if there was a concept of operating on a schedule, even.
+
+He sighed and laid backward, sprawling out in the smoking room on the filthy floor. He’d never wanted a rat-race shitty five day work week so bad as he wanted it right now. What if Ernesto worked when he felt like it, and when he felt like it was once every six months, or something? He’d certainly been in the situation where he didn’t want to work for six straight months. He wasn’t allowed to not work for six straight months without getting fired and subsequently starving to death, but he hadn’t wanted to work.
+
+No, surely not. Soma had just been captured, and where else would they send him but Ernesto’s lab? Surely he’d be deeply interested in investigating Soma. Or was he not interested in Remnant Weapons, just in curse energy? Come to think of it, he had been researching cursed energy back at Purple Dawn, not Remnant Weapons, it just so happened that Straw was a great and powerful collection of cursed energy that was obviously valuable to a cursed energy researcher, whether or not said researcher was also interested in Remnant Weapons. Soma, on the other hand, was just filth. He didn’t have any particular repository of or ability to use cursed energy, any more than filth was naturally inclined toward cursed energy.
+
+Plus, Virgil had said he was going to torture Soma. Rhys still wasn’t that worried about Soma getting tortured, except that he was kind of worried about opening any more doors for Soma, but still, he probably hadn’t sent Soma to Ernesto if he was going to torture him. He’d probably locked Soma in a dank, dark dungeon, deep under his palace, where the sun never shone…
+
+I really hope those torturers are alright.
+
+Then again, if Virgil understood Soma (which Rhys doubted, but who knew?), maybe he had sent Soma to Ernesto. It was the driest and least sexy thing Rhys could think of to get actually examined in a real research lab. Although he was well aware that sexy researchers in sexy fantasy labs were a pretty common fetish, actual research labs were boring as hell. They were dry, sad spaces where doctoral students sat around all day, worked to the bone and underpaid, with little visual stimulus or conversation because everyone was too socially stunted to communicate with one another. Nothing sexual or sexy happened in them. The doctoral students were too busy grinding away at their next paper to have any fun.
+
+Then again, this was a fantasy world, so maybe sexy things did happen in research labs. He didn’t know. If Soma had been sent to Ernesto’s lab, Rhys was a hundred percent sure he was going to be trying to make things happen. It was just that he’d be fighting an uphill battle if it was anything like the research labs Rhys was used to.
+
+He laid on the floor of the smoking room, completely listless, and waited for Ernesto to go to work. A day passed, and another day, until at last Rhys peeked in and found himself looking at that inverted pyramid at the top of the town from close under its tip.
+
+Instantly, he sat upright, all his focus on the loop. He watched for just long enough to confirm that Ernesto was actually heading toward it, not just walking around it, then vanished again, completely retracting his mana senses, and waited just a little longer. Just a little longer, so that Ernesto could get past whatever passed as security and ensconce himself in the lab. Every part of him longed to check, his impatience burning in his fingertips, but he refused to touch the loop and allow himself to peek. Not yet. Now was the most critical moment, the moment when he absolutely could not check, no matter what. Just a little more. A little more. A few more minutes!
+
+I can’t wait any longer! He jumped forward and touched the loop, extending his mana senses through it again.
+
+A shiny white hallway. A view down into the city through the slanted glass beside him. He was inside the pyramid. Inside the center of government. He’d done it.
+
+But I’m not done yet. He took a deep breath and retracted his senses again. He was inside, but he wasn’t in the lab yet. He shouldn’t count his chickens before they’d hatched.
+
+He was so close. Closer to Straw than he’d been since he was a child. But if he moved now, he’d lose everything. For just a few more seconds, he had to press on.
+
+I’m coming, Straw. Finally, after all these years… I’m finally almost there.

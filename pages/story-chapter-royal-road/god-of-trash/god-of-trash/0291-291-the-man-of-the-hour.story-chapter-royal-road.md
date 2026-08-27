@@ -1,0 +1,179 @@
+---
+id: 637b9e5c-8f1f-54b1-a19f-9fed650989e5
+page-type-slug: story-chapter-royal-road
+title: "291. The Man of the Hour"
+slug: 0291-291-the-man-of-the-hour
+partOf: god-of-trash
+position: 291
+ownLength: 2683
+unit: words
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3189198/291-the-man-of-the-hour"
+royalRoadId: "3189198"
+---
+
+Slowly, everyone else turned away, returning to their usual activities, and Rhys dragged his eyes away. They didn’t matter right now, anyways. All he’d needed to do was confirm that Virgil was here, and not anywhere else. Now that he’d accomplished that, it was time to get moving. All lights were green, T-0, Houston, we’re clear for launch.
+
+Which, by the way, not a lot of people know this, but they don’t stop counting at T-0. They just start counting up. T+1, T+2… it’s just how they count time on space missions. It’s like how D-Day is just a standard military way of saying ‘that date in particular.’ He’d third-partied enough meaningless internet arguments about absolute nonsense bullshit to pick up facts like that along the way, even if he contributed absolutely nothing to the conversation.
+
+But that was entirely beside the point. Right now, what he needed to do was get the hell out of here in the most subtle way possible. And, rather fortunately, Ilya had provided him with just that opportunity.
+
+Rhys wandered to one of the side doors and stepped outside, passing Lily on the way out. “I’m a bit warm. I’m going to take a breather.”
+
+“Huh? Oh… yes,” she said, paying not even a quarter attention, and turned back to her friends.
+
+He waved and vanished into the night, beelining toward the rose garden.
+
+Why the rose garden? It was simple. The roses sucked up mana, and most importantly, mana senses. If he headed in there and his mana signature vanished, no one would think twice about it, whereas if he teleported out in the middle of the ballroom… no one would probably notice since he was just the insignificant prodigal son known for vanishing and doing drugs at inopportune times, but they definitely wouldn’t notice if he used the rose garden. It was a real spur of the moment ad libbing because he’d discovered a neat bonus, but it wasn’t a bad thing. Better than his Plan A of just vanishing because no one would care if he was gone.
+
+When he couldn’t sense the party from the rose garden, he hopped into one of his hoops and stepped out in the space where they’d hidden Straw. The barrier remained, just as impenetrable as ever, but that wasn’t what he was after. He glanced around him, extending his mana senses, then his cursed senses. The room scanned to his content, he knelt and put his hand flat against the tiles next to the barrier. Calling out to his trash star, he yanked some of his most ferocious impurities out and shoved them into the floor around the barrier’s edge. The floor darkened, going from beautiful, perfect white to dark, grimy tile, then continued to deteriorate. The grout went black, then began to crumble. The tiles themselves grew so weak that they began falling to pieces under their own weight.
+
+Rhys shoved his hand through the weakened floor and scooped up the barrier from beneath, pressing his other hand around the edge of the floor to continue crumbling it away. The tiles snapped, one after another, and he slowly freed the barrier from the floor. The floor within the barrier remained, as did the barrier, since the barrier was continuously refreshing, such that his impurities could only temporarily break it, and its source was hidden within the orb, not without. However, that didn’t matter when the floor outside was corruptible. Rhys cackled to himself as he snapped the final tiles and lifted the orb of the barrier, holding it in both hands.
+
+Taking a deep breath, he stared at the pile of loose straw. “I’m here, Straw. Like I told you.”
+
+There was a quiet sound behind him. Rhys didn’t turn, but said, “And if you want to kill me, Mouse, go ahead. I won’t stop you.”
+
+Mouse squeaked in shock. “H=how—”
+
+I’ve been tracking you with my cursed sense since I got here. Which, by the way, has been hell. I’m already on edge from trying to do my entire plan right now, in one night, without dying or killing you or Bast along the way, and now I’m using my super-ultra-anxiety-beam to sense you, so honestly? Can you just, you know, appear, so I can stop suffering?
+
+He didn’t say any of that aloud, though. It wasn’t the right moment.
+
+There was a tingle in the back of his mind. His path stirred, for the first time in the long time. Somehow, impossibly… this seemed to be the way to break through, maybe even all the way to Tier 5.
+
+What the hell? How…? No! Focus, Rhys! If I figure this out… if I figure this out, it’s the key to breaking through! I won’t be held back from Tier 5 any longer. If I can level up here, then even the Sword Saint becomes trivi… becomes someone I might be able to survive!
+
+There was a pause, and then Mouse said, “You remember me?”
+
+“Yeah. Didn’t you do that deliberately? I thought—”
+
+“You thought?”
+
+That you did it on purpose, let me remember you, because you lov… liked me. Maybe. Ah, shit. Now I just look like a big fat asshole. Rhys coughed. “Nope. Never mind. Yeah, I remember you. How could I forget?”
+
+There was silence. Rhys stood there awkwardly for a few moments, then turned at last. Mouse stood there behind him, a slender blade blared. She held it in both hands, pointing the blade directly at him, but conflict played over her face. “You were supposed to forget. I—I was supposed to make you forget. I failed?”
+
+“Did you really want me to forget? Deep in your heart, you didn’t, right? You wanted me to remember.”
+
+That sensation welled up in his chest again. He breathed evenly, circulating his mana. What was it? What was it that was triggering his path?
+
+Mouse hesitated. She bit her lip. “I… I…”
+
+His path surged. He knew what he had to say, how to break through on this path. But could he say it? Could he take that step? Open his mouth and say those words?
+
+Come on, Rhys. You’re not a coward. You’re trash. Just a piece of trash guy who’s a coward in love! Ah, shit. What if she doesn’t like me? She didn’t let me remember her deliberately. What if she isn’t interested?
+
+Do it! Do it, coward. For the sake of your path, if nothing else. That’s right. Be selfish! Don’t think about what this means! Don’t think about what saying this commits you to, or that—that you kind of… really… actually… do mean it! No, no, I’m just being selfish! I’m saying this for me!
+
+Holy shit. I can’t do it. This is terrifying. It’s the scariest thing I’ve ever contemplated doing. The void beast has nothing on this. Fighting the Sword Saint is nothing compared to this. Come on. Come on!
+
+“Mouse, this whole time, I’ve had faith. I knew you would never betray me, not without someone forcing you to. Even when I had no proof, I never doubted you.”
+
+“Why? I could’ve killed you. I thought you—I thought I’d made you forget all about me.” Mouse’s eyes were watering. Her hands shook.
+
+Rhys took a deep breath. The same sensation he felt when he used the trashifying beam flowed through him, but different. It was like a wave, a charm spreading from his being in all directions and wiping it all away to pure trash, but it trembled within him, not yet a part of reality, but lingering just outside of it. Just like a trashy children’s magic spell, he had to speak the words to bring it to life.
+
+He looked Mouse in the eyes. Using every scrap of power and courage he had, he said, “Because… I love you, Mouse.”
+
+She squeaked in shock, and at the same moment, the trash wave burst from him. It changed reality, altering the shape of the world around them. He felt its potential. He could use it to change Mouse’s mind, to make her fit this moment—but he didn’t. He refused. That wasn’t what this was for. No, this moment, these words, they—well, they were legitimate, but also—they were to bring the kind of trashy, bullshit-ass miracle to life that all fantasy romances pulled out of their ass with no explanation at the very last second. This was the kiss that brought the princess back to life, the teardrops that healed all wounds, the words that changed an enemy into a lover—except not that last one. We’re not doing that. Mouse’s mind is untouched, got it!—and the wave swept through the air, then struck Mouse.
+
+There was a complex mark on her chest, more ingrained, dangerous, and confusing than any other mark he’d ever encountered. It was rigged to kill her if it was altered, to force her to follow orders, to alert Virgil with the highest importance—and when his trashifying magical romance wave of brain-meltingly empty plot twists struck the mark, it completely wiped it from existence.
+
+Rhys gasped a breath, startled, as his trash star depleted at a shocking rate. Usually, altering, changing, or even deleting a mark only took a modicum of his power. But this… this reality-altering wave slammed into him worse than any other spell he’d ever cast. His trash star guttered, almost dying completely, and if he didn’t have all those thick, nasty impurities from sucking Soma’s pillar into him—holy fuck, now that I put that to words, what the fuck did I do? I’m never saying that phrase around Soma—it might even have winked out. Instead, he simply burned the impurities hotter, stronger, and his trash star trembled, but survived the assault.
+
+The barrier was broken. He could see the route to Tier 5. It was just that now, he firmly lacked the trash power to bring it to fruition.
+
+And yet, the world thrummed in his hand. He could feel it shaping at his will, as if it were wet clay. If only he had the power, he could reach out, and—
+
+“Rhys?” Mouse touched her chest, shocked, then looked up at him. “What did you do? How…?”
+
+Rhys laughed aloud and shot her finger guns. “That’s the power of love, baby.”
+
+Mouse gave him a deadpan look, and that sensation of the world being malleable and at his fingertips faded, vanishing so suddenly he couldn’t be sure it had ever been there at all. He
+
+raised his brows, then frowned and nodded. I said the wrong thing there, then. No—that’s obvious. The male lead wouldn’t break the tension for a comedic moment there in any fantasy romance worth its salt. Huh. I’m not all-powerful, it seems… even reality-warping has its rules and limits.
+
+Instinctively, he also knew that he couldn’t simply activate this power at any moment. The scene had to be right, or else he could say all the sappy lines he wanted and achieve nothing at all. If he just ran around confessing his love to strangers, he wouldn’t get anywhere at all.
+
+Curious. I really need to play around with this more and learn its limits. But first, rescue my friends, kill Virgil, tier up…
+
+Damn. Hell of a laundry list I’ve got there.
+
+He cleared his throat. “So, uh. How did Virgil get you? How long has he gotten you? You know, when did it, uh… happen.”
+
+Gods, Rhys, you’re such a wordsmith. At the same time, he knew why he was tongue-tied; the heart racing in his chest, the breath caught in his throat, all of them told him why. He’d confessed his love, and heard nothing back yet. He was terrified, caught in the tension of the moment. What if she turns me down? What if she isn’t interested?
+
+Shit, man, what if she says nothing at all?
+
+Mouse looked at her feet. She shuffled in place, clearly deeply uncomfortable. “He’s… my father.”
+
+“Wha… who?”
+
+“Virgil. M-my father.”
+
+Rhys stared. He blinked. Mouse is…? Wait, holy shit. Virgil had sex? No shot. He’s got such a turbo-virgin aura, and I’d know.
+
+“Adoptive,” Mouse clarified, after a moment.
+
+“Ohhh,” Rhys said, nodding. That made it all fall into place.
+
+“I know we don’t look much alike—”
+
+That wasn’t my problem.
+
+“—but he’s not… we’re not… not by blood. When I was little, he noticed my potential and nur…nurtured me. I owed him a great debt. So when he asked, I… couldn’t say no.” She touched her chest, where the mark had been, and took a deep breath.
+
+“When?” Rhys asked.
+
+She shook her head. “A long time before I met you. He didn’t ask for much at first—when I was watching you in Purple Dawn, that wasn’t even at his command, but someone else’s, as practice for when he might need me. It was only after… during the Empire… that he started to ask things of me.” Mouse shuffled her feet again, nervous. She glanced at Rhys.
+
+“I know how the marks work. I don’t blame you,” Rhys said earnestly.
+
+“And now I’m free, and I don’t know… I don’t know what to do.”
+
+“Well, if you don’t have anything else… I could use an answer,” Rhys said, scratching the back of his head.
+
+“Answer?”
+
+Ah… shit. Did she not even notice? How? “Er, I confessed just now…”
+
+Mouse’s whole face went red. She turned away and covered her face, but her bright red ears were still visible. Her voice eeked out at the highest-pitched squeak. “That was real?”
+
+“Yeah. I’m not really capable of lying about that kind of thing.”
+
+“Why? What do you like about me? W-when did it start?”
+
+It’s the same thing I just asked her, but to me! I got One-In-Spanish-reverse-carded! Rhys coughed. “Uh, you know. I’ve always thought you were cute. And we both like reading, and stuff, and uh, you know. I don’t know.” You don’t seem to hate me and I’m not terrified of you? That’s pretty good for me and other people. That didn’t feel like the right thing to say right now even outside of the world-warping new powers he’d developed, so he kept it to himself.
+
+“You don’t know?”
+
+“It’s all feelings and stuff! I don’t know. I’m not good at this!”
+
+Mouse made a funny sound, and her shoulders started shaking. Rhys stiffened. Oh, no, it’s so bad that she’s crying?
+
+She turned to him, lowering her hands so he could see her giggling. “Yes.”
+
+“Yes?”
+
+“Yes.”
+
+“Wh—yes? To the… to the… yes?”
+
+“Yes!”
+
+Rhys’s mouth gaped like a fish out of water. He stared at her, then nodded. “Yes. Okay. Yes.”
+
+“W-were you not expecting me to say yes?”
+
+“Honestly, I’m just happy you said anything at all,” Rhys told her. Back in his world, the usual way girls responded to him confessing were to leave the chat and never talk to him ever again. And that was even in dating apps! …Which was probably the trashiest place to look for love, given that all the incentives were for the app to keep him there, in the app, looking for love, and not to actually match him with a good match. It was deeply unfortunate that he’d simply not had enough time to date any other way, but to be fair, he also kind of hadn’t had enough time to date through apps either, since it clearly hadn’t been working out for him.
+
+His heart started racing. Sweat ran down his back. Holy shit! She said yes! She said yes!
+
+Holy shit. She said yes. What the fuck do I do now? He felt like the dog who’d caught the truck. This wasn’t supposed to happen. The truck always got away. Now that he had it, what was he supposed to do with it?
+
+And then a knife appeared at Mouse’s throat. A second figure, one even Rhys hadn’t sensed, appeared behind Mouse, a smile on her stolen face.
+
+Mouse jumped, then went very, very still. Rhys froze, his heart racing for a different reason now.
+
+“Hello, Rhys,” ‘Lira’ said.

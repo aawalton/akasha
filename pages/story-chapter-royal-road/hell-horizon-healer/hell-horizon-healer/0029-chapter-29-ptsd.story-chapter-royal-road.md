@@ -1,0 +1,190 @@
+---
+id: f211349b-301e-5905-b0b0-c02d3033cc8c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29 - PTSD"
+slug: 0029-chapter-29-ptsd
+partOf: hell-horizon-healer
+position: 29
+ownLength: 1782
+unit: words
+ownProgress: 181
+publishedAt: 2026-07-02
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3623016/chapter-29-ptsd"
+royalRoadId: "3623016"
+---
+
+Jake and the rest of the gang stood in a circle on the far side of the room. They were trying to figure out what to do with Edwin. Chloe was with them, standing with crutches made out of wood and pipe. Whenever she drifted her eyes over Jake, she quickly averted her gaze.
+
+“What do we do with him?” Glenn was the first to speak.
+
+“What do we do with him?” Lyle repeated like he couldn't believe the question. “We need to punish him. Lock him in a room. Do something.”
+
+“Because that went so well before,” Sloane said, motioning towards Edwin and the prisoner.
+
+Lyle leaned in, angry. “Then what do you suggest, we just let him continue on like nothing happened and let everyone on the floor know that they can murder and get away with it?”
+
+“Guys?” Glenn blinked and looked straight at Chloe, his eyes holding obvious suspicion. “Elepthant in the room? Are we sure Chloe didn’t stir up some mayhem?”
+
+Chloe bristled. “I wouldn’t—”
+
+Sloane scoffed and interrupted her. “Wouldn’t? Poor choice of words, there, Chloe.”
+
+Chloe stood straight, about to defend herself. Arthur did that for her. “Again with this? Chloe was in her room the entire time. Stop throwing around accusations without hard proof, Sloane.”
+
+“I can attest to that,” Lyle said, arms crossed.
+
+“We need Edwin,” Jake finally spoke up. The others turned to him. “We’ve only gotten so far because of him. The formation. Strategy. His calm in dealing with sudden situations… Could you do any of that?”
+
+Arthur shifted on the spot.
+
+No one knew what to say. The answer was simple: no, they couldn’t. Jake was many things, but a leader wasn’t one of them, and they knew that.
+
+“Do we know what even happened?” Chloe suddenly asked.
+
+“Ptsd,” Claire answered. “He’s a veteran. I remember he had some problem with the police a few weeks ago, a sudden outburst. He was screaming at the time, acting like he was back on the frontlines in the middle of the hall. A lot of people were worried at the time.”
+
+Damn. I don’t remember any of that. Maybe I should pay more attention when it comes to my neighbours… Yeah, no thanks.
+
+“So he killed three people because he just lost it?” Glenn muttered. “He’s a nut.”
+
+“He’s a murderer,” Lyle said, arms crossed. “And a loose cannon. He’s not fit to be with us. We need to lock him up before he hurts anyone else. I can’t believe we’re even discussing this.”
+
+“The world isn’t as it used to be, Lyle,” Sloane said. “Edwin, regardless of his… mind, makes us stronger. If it weren’t for him, a lot of us would have most likely died by now. His plan in the Verdant Expanse—we couldn’t have come up with any of that on our own.”
+
+Lyle frowned. “I’m not arguing. He needs to be punished, Sloane.”
+
+“This isn’t black or white. We need the strongest of us to push up further. We need food, water. Everyone is already starting to come apart at the seams because we’re all hungry and thirsty and—”
+
+“—Because we have murderers amongst us, or those who assault based on assumptions,” Lyle glared at Jake, his voice rising. “It’s obvious why we are falling apart at the seams, Sloane. We need punishments to fit the crime!”
+
+Sloane didn’t back down. “What, you think we’re judges? Jury? This is a new world, Lyle. Get your head out of your ass! Everyone above and below us wants us dead. Dead!”
+
+Lyle stepped closer. “And you think that reason is enough to have us murder and break each other?!"
+
+“They were demons,” A sudden voice broke up Lyle and Sloane. They all turned to the new person who had entered the room. It was the Father.
+
+“They were demons,” he repeated. “They deserved to die.”
+
+“What are you—”
+
+Lyle wasn’t given a chance to engage when the priest approached Edwin. Lyle wanted to stop him, but for some reason, stopped. The balding man of faith rested his hand on Edwin’s shoulder. “They were demons, son.”
+
+“Demons?” Edwin looked up.
+
+The man nodded. “You did what had to be done. They needed to be killed.”
+
+“Jake,” Claire said, her voice dropping into a sudden, sharp panic as she realized what the old man was doing. “Stop him. Separate them right now.”
+
+Confused, Jake listened. He grabbed the Father and pulled him back. But it was too late.
+
+Clarity returned to Edwin’s eyes. “They needed to be killed,” he said, finally standing up. He looked right at Jake. “They needed to be killed, Jake. It was me or them.”
+
+Jake didn’t know what to say. What could he say? He glanced at the dead bodies on the floor. They were innocent. Well, the murderer wasn’t. But there were no weapons on their body at all, no sign of threat.
+
+“I’m done,” Lyle whispered. “I’m done!” He yelled. “I’m done with all of you. Jake is a psychoapth. Edwin is insane. Chloe… I can’t make out who you are, which is just as terrifying. You all have no morals, and I will be no part of this.”
+
+Lyle stormed out of the room, leaving Jake and the others to deal with the aftermath.
+
+Sloane sighed, massaging her temples. “Regardless,” she said. “Edwin needs to receive punishment. Are you back inside that head of yours?”
+
+Edwin shifted uncomfortably.
+
+She turned to everyone. “Suggestions? I’m all ears.”
+
+Chloe agreed. “We need Edwin, but what he did was abhorrent. Lyle is right, both of you are. We need punishment to fit the crime. But what?”
+
+“Exile,” Jake suggested.
+
+Glenn leaned against the wall, nodding. “We need Edwin’s combat experience, but I must admit, even I don’t feel good having a—” He looked like he was about to say something bad, but when he saw Edwin’s eyes, decided against it. “—A veteran that has gone through a lot, with the rest of us.”
+
+“Exile him where?” Susan asked.
+
+“The 8th floor,” Jake said. “It’s wet, but you can make a platform. Find a couch or something.”
+
+“I’ll do it,” Edwin said. “I’ll do it.”
+
+Jake didn’t know what was going through Edwin’s head, and he didn’t like it one bit. His eyes were more dangerous than before—like he had realised something that Jake himself didn’t know yet.
+
+Edwin is dangerous.
+
+***
+
+A day later, and a lot had happened. The mood in Apartment Floor 7 was the best it had ever been. It was finally quiet.
+
+Lyle had gathered a large population of the neighbours, those who were the weakest here, and started training them. They believed in sticking together and making sure everyone felt safe and secure.
+
+Jake didn’t understand any of it. What was safer and more secure than being the strongest in the room? Jake felt pretty safe right now (at least in the safe zone), and that was because he had trained himself to the point of breaking, again and again.
+
+Edwin had gathered a group of like-minded individuals who believed strength was the most important thing in the apartments before he left. Lyle couldn’t stop them.
+
+Arthur and Chloe had gathered the rest. They were with Lyle for the most part, but Jake could see that it was only a pretense to act important.
+
+As for Sloane, Glenn and Susan? Jake put them to work, teaching them everything he knows about how Skills work and how to utilize mana.
+
+Could he trust them? Absolutely not. Sloane was a room thief, Glenn cared more about his image than, well, probably everything else. And Susan… he liked Susan.
+
+Okay, maybe he could trust Susan a little bit, but he decided not to. There was no way of knowing what anyone was hiding… unless he could read minds.
+
+Now there’s an idea.
+
+"I think I'm getting it," Sloane said, focusing on her breathing.
+
+Jake twitched. Really? He wasn't going to lie; the thought of not being special did sting a little. But he thought it would take Sloane longer.
+
+Susan and Glenn were nowhere close; he could tell the way the static mana refused to budge. Sloane was beginning to pull it inwards.
+
+He watched her for another minute, then went back to his own training without saying anything. If she figured it out, she figured it out. It didn't change anything.
+
+It stung a little though.
+
+***
+
+He heard it before he saw it.
+
+The corridor outside went from its usual low murmur of activity to something sharper. Raised voices. Something heavy hitting the floor. Jake was at his door before he'd consciously decided to move.
+
+Edwin's people had spread across the hallway like a tide. Six of them, maybe seven, moving from door to door. The weapons rack that Lyle's group had built—pipes, swords, knives, everything the non-fighters had contributed—was being stripped bare. Edwin stood at the center of it, watching, arms crossed. Not participating. Just watching the way a man watches something he already decided on.
+
+Lyle came from the far end of the corridor at a run.
+
+"Stop." His voice was steady despite everything. He planted himself between Edwin and the rack. "Put them back."
+
+Edwin looked at him. "We need them more than they do."
+
+"They're not yours to take."
+
+"Nothing is anyone's anymore." Edwin said. "You know that. You've always known that. You just don't like it."
+
+Lyle's hand went to his axe. His fire hand came up slightly at his side, the air around his palm warming.
+
+He looked at Edwin's people. Looked at Edwin.
+
+His fire hand dropped.
+
+Edwin nodded once, like something had been confirmed.
+
+They hit Lyle fast, three of them together. He fought back—he was stronger than any of them individually and they felt it—but he wouldn't burn them and they knew it. By the time he'd thrown the second one off, the third had him from behind. He went down hard, his cheek hitting the carpet, someone's knee in his back.
+
+Doors along the corridor stayed shut.
+
+Jake watched from his doorway.
+
+Sloane appeared beside him. "Are you going to do something?"
+
+Jake said nothing.
+
+“Jake—”
+
+“He needs to learn.”
+
+He needs to learn that the world isn’t like it was before. And fast.
+
+Sloane looked at him. Then at Lyle on the floor. Then back at Jake.
+
+She went back inside without another word.
+
+Edwin's group finished and left. Lyle got himself up slowly, one hand on the wall. He looked down the corridor at the empty rack for a long moment, then walked right past Jake without a single look.
+
+Jake returned to his room.
+
+That was intense. Time to train.

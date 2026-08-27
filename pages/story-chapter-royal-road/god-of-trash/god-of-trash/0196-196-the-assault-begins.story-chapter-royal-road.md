@@ -1,0 +1,79 @@
+---
+id: 5bbd0d49-86c0-59f6-843d-09aebfe539fc
+page-type-slug: story-chapter-royal-road
+title: "196. The Assault Begins"
+slug: 0196-196-the-assault-begins
+partOf: god-of-trash
+position: 196
+ownLength: 1634
+unit: words
+publishedAt: 2025-09-24
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2626263/196-the-assault-begins"
+royalRoadId: "2626263"
+---
+
+Rhys kept all his attention trained on the gas ball. It was the only way he could keep from losing track of it with Mouse’s influence on it, and that was with her trying to let him in particular be aware of the gas ball under his own influence. Slowly, with Mouse’s constant feedback, he stretched the gas over the sky. It blocked out the sun and colored the light pouring down from above, but none of the soldiers reacted. Sweat poured off Rhys and Mouse alike as the two of them both focused on their task. Rhys had to use all his mana control and Trash Manipulation to manipulate the trash gas across the entire field, while Mouse struggled to keep the entire obvious cloud hidden, or at least unnoticed. The soldiers patrolled the open land, no more aware of the impending gas cloud expanding over them. Occasionally, one paused and squinted at the sky, but then Mouse’s eyebrows furrowed harder than before and her eyes flared, and the soldier’s eyes would drift away, and their feet would keep moving.
+
+The cloud spread across the entire field. Rhys strained to keep it controlled, but it was a good kind of strain. He could feel his mana control strengthening and his Trash Manipulation grow more powerful, even as he pushed up against the limits of what he could do now. From a torso to a ten-foot radius, to twenty, fifty, a hundred. The gas was thin by then, translucent but still thick enough to color the light. Mouse’s brows unfurrowed, and she relaxed a hair. Rhys, on the other hand, kept focusing. Slowly, he lowered the gas, then all at once, yanked it down to head-height.
+
+The weakest guards, the Tier 2s, immediately keeled over as the toxic gas flowed into their every orifice. The Tier 3s looked around, searching for the attack that Mouse wouldn’t let them notice, then ran for it. Some ran for the hut, while others ran in the opposite direction, for the forest. None of them made it. Whichever way they went, they hit the ground before they got there.
+
+Three guards remained. Their auras instantly surged up to Tier 4, and their heads went on the swivel, searching for the source of the attack. Rhys swirled his hand, and the remaining gas compressed into three tighter knots even as Lira and Sable charged out of the forest. He kept the orbs of gas on the soldier’s heads as he himself stepped out, closing in on the closest soldier to him. “Mouse! Help Lira!”
+
+The soldier saw him coming and raised his sword. Rhys drew his, the compressed poison blade whipping as he pulled it from his storage ring. They exchanged blows. The soldier was experienced with the Empire’s sword technique, but Rhys had fought Laurent, and he knew the style; plus, he wasn’t trying to land a killing blow. The poison eroded the man’s health from the gas on his head and the little blows with the sword alike. The man had started with more strength and skill than Rhys, but Rhys wasn’t fighting fair, and by the time he reached the man, the man’s strength was far lower than it had been at the start of the day. The battle was predetermined, and before long, Rhys stood victorious over the man, his blood soaking into the grass.
+
+Rhys knelt and absorbed the man, then looked at his hand. The man wasn’t a strong Tier 4, but he was a Tier 4. And killing him had been… easy?
+
+He closed his hand, slowly. Maybe that dream of mine… isn’t a dream, after all.
+
+“Rhys!”
+
+He looked up, sharply. Across the field, Sable fought her soldier. They were evenly matched, and it might’ve been a difficult battle for her if they’d been fighting as one swordsman to another, even with Rhys’s poisonous help, but Sable brought another half-dozen limbs to the battle, and so the soldier was quickly finding himself on the backfoot. Not her. He turned again.
+
+Mouse and Lira struggled to distract their soldier. They weren’t defeating him, but merely buying time, with Lira flashing in and out, her blade drawing waves on the air behind her as droplets of water chased the blade, and Mouse playing backstabber, appearing for a moment to stab him in the back, then vanishing the next. The soldier was frustrated and his form sagged, but he was still at Tier 4, and the two of them, Tier 2. Their best hits were little more than papercuts to him.
+
+Right. Rhys dashed across the battlefield, stepping from body to body as Trash Step lengthened his gait so he would only step on garbage. The soldier feinted, and Lira blocked, only for him to sweep her feet. He raised his sword for the killing blow, and Mouse’s back-prickle wasn’t enough to distract him this time.
+
+I won’t make it! Rhys’s gaze sharpened. He reached out, twisting his hand, and the poison lifted off the man’s head and compressed, down, down, down, into a needle of impurities and filth. The man jerked back, sensing something from the needle, but it was too late. Rhys yanked his hand toward him, and the needle plunged into the man’s face. Instantly, impurities began spreading through his body. The man looked around and realized at last that this was not a fight he could win, and lifted his hand to his neck, yanking out a gemstone on a chain.
+
+“Messaging amulet!” Mouse shouted, no time to bother with grammar or anything but the essentials.
+
+Rhys spun his hand. The needle of impurities whirled around in the man’s veins and surged through his body. The man staggered, coughing in pain, and his hand stuttered, his mana twisting in his body. The needle burst out of the veins in his neck and smashed into the messaging pendant. The stone corrupted, turning dark, then shattered.
+
+The man gagged, clutching his neck. Mouse stared at Rhys in probably the same horror and shock that Rhys had been staring at her with the whole time she’d been hiding the gas cloud. Rhys kept running. “Finish him! He’s not dead yet!”
+
+“On it.” Lira swept her sword, and the man’s head hit the ground.
+
+Rhys slowed. He reached them at a jog, shaking his head at the two of them. “Wow. Beat a Tier 4, huh?”
+
+“Not really. You beat him. I couldn’t even cut his flesh until you… did whatever that was,” Lira said.
+
+“Even if they’re the Emperess’s men, they’re still Tier 4s, huh,” Rhys said, giving the body a kick.
+
+“Hmm. Not sure we could’ve taken on three Tier 4s. It’s only because they were the Empress’s men that we stood a chance at all,” Lira said, twisting her lips.
+
+Rhys nodded. She was right, after all. Real Tier 4s would have techniques, secrets, spells, and who only knew what kind of body modifications built into their hundreds-of-years-old bodies. The Empire’s men had the Empire’s sword techniques and the Empire’s spells. He imagined it made them incredibly effective in platoons, but one-on-one, they were paper tigers. Big, scary, and impressive to look at, but nothing too dangerous in of themselves.
+
+Sable sprinted over, running on her bone-limbs across the field. Rhys waited for her to make her way over, then turned to all of them.
+
+“Right. I don’t know how long we’ve got, but let’s make the most of it, and be prepared to fight your way out. Got it?”
+
+Nods all around.
+
+Rhys extended his aura, then pulled inward. He felt the void reaching with him, and let it pull. From all around the field, bodies, filth, and trash flew toward him, then vanished, swirling into his core. He raised his brows, a little shocked himself, but didn’t try to show it. On the other hand, the girls had no such compunctions. Lira stared, her jaw dropped, and Mouse’s eyes got real big and wide. Only Sable didn’t react much at all, just blinking slowly as if this was nothing special.
+
+That’s something to look into later. I’ve never had the void pull with me before. Though… I’ve also never tried to draw in trash from that distance before.
+
+The last of the trash flowed into him. Rhys dusted himself off and beamed at the girls. “On to the real deal, then?”
+
+“On to the real deal,” Lira repeated.
+
+They turned toward the small stone hut in the center of a now-empty field. A strange aura emanated from the hut, something Rhys couldn’t quite put his finger on, but which felt familiar. He frowned for a moment, trying to feel it out, then shrugged. The second he stepped through that door, he’d be able to figure it out one way or another.
+
+There wasn’t a door. The stone hut had a kind of entrance, where the stones had a gap between them. It wasn’t a large hut, and Rhys should’ve been able to see the entire thing from the outside, but instead, all he could see was indeterminable darkness. Darkness so deep that he couldn’t see a bottom to it. It was like staring into the night sky, except there were no stars, just darkness, darkness, darkness.
+
+He ran a hand over the back of his neck. That’s what it reminds me of. The void. The empty darkness. There was no door, but he knew that the second he stepped inside that darkness, he would be gone. No one would be able to see him any longer. There was no door… but that didn’t mean there wasn’t a barrier of some sort there.
+
+Rhys took a deep breath and stepped forward. Hiding the hesitation he felt with a smile, he turned back to the girls and beamed.
+
+“Let’s go, then.”

@@ -1,0 +1,97 @@
+---
+id: 38663815-a9c9-5bed-9e75-32c701f4b63c
+page-type-slug: story-chapter-royal-road
+title: "299. True Authority"
+slug: 0299-299-true-authority
+partOf: god-of-trash
+position: 299
+ownLength: 2392
+unit: words
+publishedAt: 2026-04-13
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3270265/299-true-authority"
+royalRoadId: "3270265"
+---
+
+Authority hammered down on him from all sides. The world closed in around him, trying to stop his hand. He couldn’t do this. It wasn’t possible.
+
+No. It’s possible. You just don’t want to allow me to do it!
+
+Rhys pushed back the boundaries of the world, refusing to let it close in around him. It was spent. It was broken. It was something that was supposed to be used once, and once it was used up, it wasn’t supposed to ever come back. He knew that. He’d seen it often enough in his novels. But that didn’t mean he was going to give up here. Just because someone said so, just because it wasn’t possible anywhere else, didn’t mean he couldn’t make it happen. It hadn’t happened yet, but then, there was a time when flight was impossible, and space travel, and a billion other things that were common sense in his homeworld.
+
+Hell, if he told the people here how easily mortals could fly back home, they’d think he was making up stories. It was against the common sense of this world for such a thing to be possible, but that didn’t mean it was impossible. It just meant no one had worked hard enough to make it come true yet. He wasn’t going to let Virgil, the world, or anyone stop him from rescuing his friend. It didn’t matter how impossible it was. If it wasn’t possible yet, then he’d just have to shatter the boundaries of the world to force it to come true.
+
+I’m only Tier 4. Do I qualify as able to shatter the world’s boundaries yet? Rhys pushed his doubts back. Did it matter? He was going to do it, whether he was supposed to be able to or not. The fact that the world had intervened had already proven to him that he was capable of it, and that it was possible. If it wasn’t, then the world wouldn’t have needed to intervene. Sure, the world itself was working to stop him, but that just meant it didn’t want him to succeed—not that he couldn’t succeed.
+
+He pushed back, forcing the world back. It didn’t have any authority here. He was the one in control. He’d overwritten reality before, and he’d do it again!
+
+And the world refused. Authority? What authority did an ant like him have, in the face of the world? It crushed down on him, slamming down from all directions. If he thought he’d been squeezed before, he was being hammered now. The absolute weight pushed down on him from every direction, squeezing so hard he felt like he was about to burst.
+
+The world imposed itself upon him, and for the first time, he felt his own insignificance. He had never thought of himself as powerful or great… well, he’d started to think of himself as powerful, but even so: powerful trash. He knew his place in the world, and he knew he was weak… or so he’d thought. Now he felt exactly how small, how weak, how trash he really was. The right? Ha! Only equals could discuss whether or not someone had the right. He didn’t even qualify to speak to the world. He really was a bug, an ant, and no matter how hard he tried to flip off the descending foot, it was going to descend anyways.
+
+I’m trash. That’s right, I’m trash. I’m—Rhys’s eyes widened, and he reached into his trash star. I’m trash!
+
+What was a king before a god? What was a god before a nonbeliever? What was a nonbeliever before a world, and the full weight of its very real, very deadly authority? And what was a world, to a piece of trash?
+
+Nothing! That was right: the world was nothing before him. Trash inherently disrespected the world. Even if there was only a little bit of it, litter could make an entire field look hideous. With just a tiny quantity of pollutants, percentage-wise when considering volume, anyways, entire miles of ocean could be ruined. And when it came to the inhabited parts of the world, cities and villages carted their trash far outside of their boundaries, because no one wanted to be close to it. He was trash. He made everything worse just by existing. He polluted, he ruined, he filthed up and cast into ruin. Just by entering a room, he made it dirtier. By touching something, he made it unclean. The world dared to touch him? It dared to squeeze trash so hard it might pop? Well then! He’d teach this world what happened when an overripe trash bag got abused!
+
+The world was imposing its authority on him. Inherently, that meant it was touching him. If it was touching him, then he had a route to pass impurities into it, and there was nothing it could do to stop him. He dragged impurities out of his core, and pushed them directly into the world.
+
+The world instantly recoiled, darting away from him, but Rhys refused to let it go. He chased after it, continuing to push impurities into the world’s authority. If it got away now, it’d just squeeze him again when he was trying to concentrate—or worse, figure out some way to stop him without touching him. Right now, while it was naively blocking his route through a tactic as crude as grabbing him directly and squeezing him as hard as it could, he was going to make it pay for its naïveté with maximum prejudice.
+
+It continued to retreat, and Rhys kept chasing it, shoving impurities into it whenever he could. At the same time, he called out to Bast’s potential with Trash Enchanting, calling it forth and reviving it at the same time. All the wrecked pieces, all the tiny scraps, any hint or residue that had Bast’s mana signature; he scraped them all together, gathering them in Luc’s decaying heart. The world’s authority realized what he was doing and surged, trying to stop him again, but Rhys just met it with an enthusiastic smile and a big handful of mud. The world’s authority paused, hesitating, and Rhys turned back to the task at hand.
+
+The largest chunk of Bast’s potential was lodged in Luc’s heart, half-absorbed and sunk deep in the dead flesh. It was the anchor around which Rhys’s efforts revolved, the centerpiece of his reconstruction. All the other pieces he found slotted in around the larger piece, drawn to it as though they were magnetized. There wasn’t Rhys had to personally do to put the potential back together; it reconstructed itself, so long as he fed it with his mana and nurtured it with his Trash Intent and Trash Enchanting skills.
+
+The main chunk of potential was sunk so deep in Luc’s heart that it was almost impossible to separate from it. He dragged it out with all his might, gripping it with Trash Intent and Trash Enchanting so it wouldn’t fall apart. The potential resisted, refusing to go. Even at full strength, he couldn’t dislodge it.
+
+Rhys frowned. What am I doing wrong?
+
+The world’s authority rushed in again, taking advantage of his distraction to try and clamp down on his efforts once more, but he pushed impurities at it, and it retreated again. It was more like an annoying gnat than the terrifying world authority. He understood its point of view, though. What he wielded had the potential to break down any mana, and the world authority, in his few brushes with it, seemed to be a ‘being,’ or maybe simply a ‘force,’ made of pure mana. It far outweighed him, in both power and will, but if it interacted with him too much, it’d get too dirty to continue working.
+
+It was like having the ultimate superglue-coated ultratape, and putting it down on a dust-covered surface. It didn’t matter how sticky that glue-tape was. Once enough dust stuck to the sticky part, it wouldn’t stick to anything anymore. It didn’t matter that the dust was weak enough that a mere wave of a hand could send it flying, or that the glue was strong enough to hold a boat together; as soon as the sticky surface was covered in that pathetically weak dust, it was all over.
+
+It wasn’t the most elegant analogy, or the most accurate one, but it did well enough to get the idea across. He didn’t qualify to bat the world authority away like a gnat, but nonetheless, he could, because he was filth, and it therefore didn’t want to touch him.
+
+Pushing the world authority away again, Rhys turned back to the fragile potential.
+
+It didn’t want to come free. Or rather, it had become so integrated into Luc that it could no longer come free. It was somehow something he hadn’t encountered yet: a piece of trash integrated into what was essentially another piece of trash so tightly that the two had become a new piece of trash. Like gum that had melted into a wrapper, or mustard, ketchup, and unidentifiable food garbage smeared so deeply into a discarded fast food bag that the two had become one mess. And now he had to extract the two deeply connected items; the potential, and Luc’s body.
+
+Instantly, he surged forth, wrapping around every single piece that felt like Bast’s potential, whether it was on this side of the flesh barrier or the other. Before long, he’d wrapped it, holding it separate from Luc’s flesh, and yet, he still couldn’t remove it. He could feel the two, even feel how to separate the two, but he just…couldn’t make it happen. There was something he was missing. Something fundamental. It almost felt like he didn’t have permission—
+
+Permission. He looked at the potential, then lifted his eyes. In the distance, a faint spark shone, so distant that he could barely see it anymore. The spark shuddered, then came back into focus, and Rhys found himself locking eyes with Luc’s shade. He held Bast’s potential in his hands—Bast’s potential, lodged deep in Luc’s heart. The man wasn’t alive, not really, not anymore, but this, this thing he held in his hands, this was the last thing that kept him here, that bound him to this plane.
+
+A thousand regrets flashed through Luc’s eyes. He held Rhys’s gaze for a long moment, then lowered his eyes. He nodded.
+
+In that moment, the potential leaped free from Luc’s heart. Rhys held it in his hands: all of it, all that he’d been able to scrape free. He looked up, but the shade was gone. Luc was dead, fully and truly.
+
+The world authority’s whole weight came crashing down on him like a tsunami. Fundamentally, he was doing the impossible, making something from nothing. Bast’s potential had been ripped out of him and spent in Luc’s corpse, and there was nothing left. The world decreed it so. For him to tear it back, recomplete it, and pass it over—that was unacceptable in its eyes. The thing he’d re-created shouldn’t exist in this world anymore. No—rather, it had already been all used up. From a certain point of view, he was adding energy into the world, and that simply should not be possible. The physics of this world, expressed by the world authority, denied that just as strenuously as it was truly impossible in his world.
+
+And yet, even so, knowing this was impossible in the world’s eyes, knowing he violated one of its most important, essential rules, he continued to fight. Rhys held up his impurities, trying to scare it off again, but this time, it refused to flinch. Before, he’d been dealing with ultra-powerful glue tape that his dust could overwhelm. Now, the entire glue bottle had been upended, and the dust vanished, washed away in the wave of sticky. He hunkered down, pulling his impurities around him, protecting himself with every ounce of filth he had. The tsunami of the world authority slammed into him again and again, fighting for the weak energy he held in his hands, barely still alive. If he released it, the world authority would vanish, and all of this would go away, but Rhys refused to. He wrapped his body and his impurities around it and refused to let go. He hadn’t bowed to the world authority before, and he wasn’t going to now. Not now, in the very final moment!
+
+Over and over, the world authority slammed into him. With each strike, it chipped impurities away. The impurities weakened with every passing moment. His hut shuddered, on the verge of breaking altogether. He reached into his trash star to throw more impurities at the problem, only to find that his star was on the verge of winking out. He was empty. There was nothing left. The world authority was going to wear him down, and that would be the end of it.
+
+Shit! If only he’d been full on impurities. If only he’d had a better plan. If only Sid had showed up. If only Virgil hadn’t targeted Soma. If only, if only, if only—
+
+“—ys. Rhys!”
+
+Distantly, he thought he heard Bast’s voice. And then he felt a touch on his shoulder, even where he was, with his consciousness extended into Luc’s heart, and he turned. Bast stood there, an energy projection shining in the darkness. He stepped into Rhys’s impurity hut.
+
+“Bast? What are you doing here?” Rhys asked, shocked. “What about Virgil’s mark?”
+
+“You’ve already corrupted it. It isn’t doing anything anymore.”
+
+“Oh, right.”
+
+Bast snorted. “Still the same as ever. Here, give me that.”
+
+Rhys looked at the potential in his hands, then at Bast. “This is the reason the world authority is targeting me. If I give it to you—”
+
+“Rhys, come on. It was mine to begin with. The world authority can’t take my own potential from me, can it?”
+
+Rhys lifted his hand, then hesitated. “If it does, though, you—”
+
+“Hey. I’m not some princess, okay? You’ve done enough for me. Let me fight my part of the fight.” He held out his hand, a wry smile on his face.
+
+The hut of impurities crumbled. The world authority came rushing in, surging toward Rhys. There was no more time. This was do or die.
+
+He looked at Bast, then carefully, oh-so-intentionally, handed over Bast’s potential.

@@ -1,0 +1,81 @@
+---
+id: 784c2c89-3ceb-5044-83b6-0f5f1cccb4e3
+page-type-slug: story-chapter-royal-road
+title: "253. Filth Golem"
+slug: 0253-253-filth-golem
+partOf: god-of-trash
+position: 253
+ownLength: 1965
+unit: words
+publishedAt: 2025-12-26
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2883118/253-filth-golem"
+royalRoadId: "2883118"
+---
+
+He approached the pillar slowly, absorbing more and more of its filth and packing it into the sword shape. No matter how much he packed in, though, it remained nothing more than a lump of impurities. A highly dense, deadly lump of impurities, that few but Rhys could handle and survive… but a lump of impurities all the same. It wasn’t a sword. It had no form, no elegance. It looked more like a long sausage than a blade.
+
+Rhys looked at it for a long moment, then reached into his trash star. He pulled out a hammer without a head from his useful garbage pile, and a lump of metal from his trash star. The metal lump was metal he’d shredded and condensed into his core, which had subsequently melted down into a lump once again under the heat of the star’s flames. The metals were sourced from a thousand places and a thousand objects, and for that matter, composed of a hundred different types of metal and alloys. It was just a lump. No shape or definition to it, and if it had had an intent, then the thousand different intents had all mushed together, been melted down, and mingled for so long that there wasn’t any intent attached to the metals anymore. It had almost left the realm of trash and reentered the realm of raw materials.
+
+Almost. But it was still a worthless alloy, made up of too many metals with too many clashing properties to serve any purpose, so that lump of metal was still firmly trash. And therefore, Rhys imposed his will upon it.
+
+The metal shuddered as Rhys reached out to it. It was formless, purposeless. There was nothing left of its original form. But that was fine, because Rhys was here. He could give it purpose. Give it form. And so, a faint blue aura appeared around the lump. It stood upright, starting to understand Rhys’s goal for it.
+
+More. He didn’t just need it to understand a little. He needed it to take on his will as its own. Over and over, he repeated its purpose to it, forcing it into every crack and weld of the lump, willing it to take on a new shape, a new purpose. The blue aura grew denser, and the metal itself shuddered. It began to deform, then popped into place, standing upright, valiantly taking on the aura of an anvil.
+
+It wasn’t the nicest anvil, or the biggest, or the strongest, but it would do for now. He activated intent on his hammer and gave it a few experimental swings, and was surprised yet gratified to find out that the two striking made the classic clang of hammer on anvil.
+
+His tools were ready. Now, for the next step.
+
+Rhys pulled out a bracelet and quickly attached it to the void, then inserted the sword through it, into the void, and back into his core, where he roasted it over the flames of his core, then pulled the red-hot impurities out and struck them on the anvil, forging them into a true impure sword. Rather than using the heat and the strikes to force out impurities, he used them to force more in. He’d used heat and friction to condense his impure star in the first place, so why not use the same to create his sword?
+
+The whole time, he kept mana flowing through the blade. That was the only hint Daran had told him, and he wasn’t sure if it was accurate or not, but it was all he had to go on. It took him some effort to transfer his trash-based cultivation into mana, but he did it anyways. Even he hadn’t been able to start off on his magehood journey without some mana to get things moving. Mana was the key to everything; it was the spark that started the engine. Even though car engines didn’t run on electricity, but instead a disgustingly horrifying toxic gunk called gasoline, they still needed an electricity-powered spark plug to get started. That was exactly where Rhys was: he was running on gasoline, but the presumably future filth golem sword was still going to need some mana to kick itself off.
+
+There, under the dark aura of the filth pillar, Rhys forged his filth sword. Sucking in impurities and forcing them into the sword with each swing of his hammer, he heated the blade under the heat of a trash fire and forged it on a trash anvil with a trash hammer. Over and over, beating more and more filth into the sword, until it trembled under its own weight, struggling to not crumble to pieces. It was built of only filth, of the things people usually forced out of swords—impurities and trash. Rhys could hold it together with his intent, but the horribly misforged sword couldn’t hold itself together otherwise.
+
+But that’s not what I want. Rhys surged his energy, forcing more mana into the sword. He burned his trash core hotter so that he could generate more mana to feed the impurities. At the same time, he forced his intent on the sword—but not in the usual way. Instead, he reached out to the sword itself, to the nascent thing he was building on this spot. You are a sword. You want to cut. You want to be filthy. Over and over, as if he was hypnotizing the sword, beating the mantra into it with every swing of the hammer and every mote of mana he poured into it. For a long time, that was all there was: Rhys, beating the sword into shape, forcing impurities and mana into it in equal quantities to make it yet filthier and hold all that filth together, silently repeating a mantra over and over to the sword. The sun set, and the sun rose again, and still he beat at the sword, not yet satisfied. There was still plenty of filth in the pillar. The sword was still just a bad sword, and not a fantastic filth weapon yet.
+
+Weeks passed. Months. Rhys was locked into his technique, focused only on building the sword. He lost all track of time. His trash star burned low, and he started to absorb impurities once more to power it. Still, the sword remained inert, sticking around in its intentless form, no more than a lump of impurities and garbage. His awareness had narrowed to nothing but the sword and the filth pillar. There was nothing else in his world at all. Just him and the sword, and the mantra.
+
+He was stuck. There was a bottleneck blocking his way. A pinch-point that he couldn’t break through. He could beat the sword forever, but he couldn’t make any more progress that way. He needed something else. Something more.
+
+He lifted his head and turned. The filth pillar exuded filth across the way from him, steadily working away to impurify the mountain.
+
+Rhys’s eyes shone. He picked up his anvil, hammer, and sword, and leaped to the filth pillar itself. He tucked the anvil away and set the sword directly on the filth pillar, using the pillar as the anvil to form the sword.
+
+But that wasn’t enough. There was something missing. Something that wasn’t there. He narrowed his eyes at the sword, then realized: the hammer. The hammer wasn’t filthy enough. He put it away as well and reached down, clenching a handful of the filth pillar directly. His hand was immediately infected by impurities, but he paid it no mind. It wasn’t important right now. He hammered the sword with the filth hammer, on the anvil of filth. Now every strike couldn’t help but drive more impurities into it.
+
+It grew stronger. He came to the verge of the bottleneck, on the very brink of breaking through, but he still couldn’t take that final step. There was still something limiting the sword’s growth, still something blocking its way from becoming a true filth sword. He just couldn’t figure out what.
+
+And then his eyes flashed. No. I know what it is.
+
+He gripped the sword and heated it once more, putting it over his trash star to heat it up, then pulled it free and plunged it into the filth pillar. Placing his hands on the outside of the pillar, he forced it inward, pushing all the filth into the sword. The sword trembled, struggling to contain all the impurities. Still Rhys kept pushing, repeating his mantra, feeding it mana. A little more. Just a little more, and then—
+
+And then the sword shook, and it began sucking the impurities in. A feeble heartbeat emanated from the sword, repeating his mantra back at him. It pulled the pillar inward, inward, inward, like the trash star, shredding and compressing the impurities under Rhys’s guidance. It absorbed everything, sinking into the earth as it chased after the impurities buried under the ground. Rhys let it go, keeping the sword in his consciousness. It absorbed wildly, absorbing the filth pillar even more quickly than he could. He kept feeding it, kept repeating the mantra, but the bottleneck had been broken. The sword was working on its own, and now… now it was able to grow strong on its own, at the same time that Rhys could strengthen it.
+
+It grew explosively. All the impurities around them hurtled toward it, bursting out of the ground, the plants, the air. The pillar vanished, consumed by the sword. And then it leaped out of the earth and laid at Rhys’s feet.
+
+Rhys knelt. It looked like an ordinary sword, except the blade was dark, far darker than usual. He reached out and touched the sword.
+
+The sword leaped into his hand. It pulled at his body, sucking the impurities out. The black marks on his hand from where he’d handled the filth pillar vanished, and so did the filth hammer he still held… and still the sword sucked at him, seeking more. He was full of impurities, and the sword hungered.
+
+Rhys pushed back. No. He was the sword’s master. The sword didn’t control him. Though, to be quite honest… it was kind of cute. He was Tier 4, after all, and the sword had just been born. Sure, he’d forged it, and he’d forged it at Tier 4, but Rhys was an old fox compared to the baby sword. He pulled back, refusing to let it have impurities, and it pulled at him, but it was something like the sensation of a small dog jumping at his leg, trying to get the meat he held in his hand. It was never going to get it, and though annoying, it was an adorable kind of annoying.
+
+“Come on. I know where more impurities are,” he told it.
+
+At that, the sword stilled and stopped pulling at him. More impurities? Like this place?
+
+“Even better than this place.”
+
+If he could take it somewhere like that, then… the sword went still, no longer sucking at Rhys’s impurities. Instead, it waited, full of an urgent hunger.
+
+Rhys patted it. He instantly liked this sword. It was simple, straightforward, and it was a lot like him, at heart. “What should I call you, hmm?”
+
+The Hunger, the sword replied.
+
+Rhys pursed his lips. “Not bad, but it is a bit of a mouthful. How do you feel about Hungy?”
+
+The sword replied with vehement revulsion.
+
+“Alright, alright. We can workshop it,” Rhys promised. He leaped off the peak, hurtling toward the next one. There was no more filth pillar here, after all. He needed to move on to the next pillar already. For himself, if not for the sword. The Hunger.
+
+Nah, we really need to workshop it. It’s not edgy enough.

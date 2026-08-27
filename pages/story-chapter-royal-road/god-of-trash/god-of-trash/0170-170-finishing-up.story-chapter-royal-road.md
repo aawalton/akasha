@@ -1,0 +1,113 @@
+---
+id: f61e1e17-a8f1-5403-bb83-31805719a0ae
+page-type-slug: story-chapter-royal-road
+title: "170. Finishing Up"
+slug: 0170-170-finishing-up
+partOf: god-of-trash
+position: 170
+ownLength: 2192
+unit: words
+publishedAt: 2025-08-29
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2558709/170-finishing-up"
+royalRoadId: "2558709"
+---
+
+Mouse fought the mages in the forest; or rather, it looked far more like an elaborate game of backwards hide-and-seek was going on in the forest, with all the low-tier mages as the seekers and Mouse as the single hider. Occasionally, a blade leaped out of a bush or a shadow to strike an unsuspecting searcher, though the strikes were rarely vital, let alone fatal. Still, the annoying strikes were enough to keep the finders on their toes, and they did slowly sap their attention, strength, and stamina. By the time Rhys and Sable arrived, the haggard low-tier mages could’ve been taken out by a particularly motivated Tier 1, let alone two Tier 3s. They swept the field clean, and Mouse finally poked her head out of the forest.
+
+“Is it over?”
+
+Rhys looked up from where he was sucking the energy out of a rapidly-withering corpse, only to suck the corpse into his core, too; he didn’t know, but if the man went into his core that easily, he must have been truly horrific to the prisoners. “It’s over. We just need to collect the mages from the mine.”
+
+He paused, looking at the mine before them. “…Probably safest if I do that. That place looks dangerous.”
+
+Mouse nodded. “I would appreciate it!”
+
+“It’s not that dangerous,” Sable murmured, looking the mine over.
+
+“Yeah, but I can clear it out no problem, alone,” Rhys told her. He nodded. “I’ll be right back.”
+
+It wasn’t just that he didn’t need to worry about impurities if he was alone; he could also freely suck up all the gunk and trash inside the place without worrying about a single thing. Plus, it wasn’t like people were going to fight against his rescue. He just had to tell them he was showing them the way out, and they ought to follow him.
+
+Leaving the girls behind, he stepped into the mine. Just as he’d hoped, it was a highly toxic environment full of impurities and other gunk. And all of it was his, his delicious filth. Whenever he found a worker, he simply pulled them gently away from their task and pointed them at the door. “You’re free, friend. You don’t have to work here anymore.”
+
+Dust and filth flowed into his core nonstop. There was so much dirt, and so many impurities, that his trash star stuttered a few times from borderline overload. It was a far cry from his times earlier, where he’d been struggling to find any trash at all. I need to spend more time in mines, he noted to himself with a chuckle. Mines really were the perfect ground to suck up garbage.
+
+The deeper he went into the mines, the worse off the mages were. As he’d been going, he’d been absorbing their impurities before setting them free, but in the depths, even he struggled to suck all the impurities out of them without killing them. The best he could do was to clean them up just enough to get them back to base-human normal, rather than restore them to mage-normal or even perfect. Darkness closed in around him. The air grew choking. He struggled to breathe, even with his impurity- and filth-filters. He found one body, then another. His heart sank, and he kept going, but found nothing, nothing, nothing. Death and filth, filth and death. He left the bodies where they were, testament to the Empire’s ill treatment, and returned to the surface. There was nothing down there. Nothing alive, anyways.
+
+At least, nothing for now. He looked over his shoulder as he exited the mine, mentally marking this place. This was an impure hole that even he’d struggled to plunge, a mine full of filth even more advanced than an Impure Well. If he’d kept going, he wasn’t sure he could have survived; it would have been fine training, walking deeper and deeper into the mine while the n impurities wracked his body, but now was not the time for training. He had to rescue the mages, not train himself.
+
+Still, he made sure he really, really remembered this place. I should come back here. When he had more time. When he didn’t have an Empire to take down. When he simply could focus on himself, and making himself stronger by any means necessary… then, he’d return to this mine.
+
+Sable and Mouse (and from the looks of it, mostly Mouse) had sorted out who among the rescued mages wanted to flee, and who wanted to fight. Rhys took the ones who wanted to fight through the portal to their old base, the one in the garbage heap, which they could abandon immediately if any of these people happened to be untrustworthy. He dove back through the portal once everyone was back and hurried to the next camp, then the next, and the one after that.
+
+At last, he came to Lira’s camp. Lira had already swum off, but her men and the new recruits huddled by the trash can, waiting for rescue. Rhys popped up to grab the first, then froze. He turned toward the horizon.
+
+“What?” one of the men asked.
+
+“Someone’s coming. High Tier. I can’t tell how high.” He took a deep breath, then looked at the men. “If you’re a mage, pick up someone who isn’t and start running. You—you carry the trash can. I’m going to take as many of you as I can back. Hold formation until the absolute last second, then scatter. If—if you’re captured, then—”
+
+“We have the resolve,” a female mage stated firmly.
+
+Rhys glanced at her. He wasn’t sure what that meant, but it sounded good, so he nodded. “You understand. You, come here.” He gestured to the weakest non-mage, then scooped her up. She was young, the youngest of the group, at barely fourteen. “I’ll be back. Don’t lose faith, and keep moving.”
+
+With that, he dove into the trash can, and the mages began to run.
+
+Rhys burst out at the base, set the girl down, and went to dive back in.
+
+“What’s going on?” Sable asked shortly.
+
+“Big guy coming. I can’t deal with them. Gotta get everyone out.”
+
+“Want me to help?”
+
+Rhys looked at her. “You can’t go through the void without me… right?”
+
+She walked to the void and put her hand against it, then through. She looked at him.
+
+Huh? Why? How? Was it something to do with curse power or impurities? Or maybe because she was the child of a Remnant Weapon? There was no way of knowing, but if she could enter the void, too, then she could help him ferry people, and he could use the help. He nodded. “Let’s go.”
+
+Both of them dove into the void. Rhys led the way, and they popped out at the side of the racing mages. Rhys grabbed one of the powerless ex-mages, not quite trusting Sable to properly protect what was basically a mortal, and Sable took one of the mages. They dove back into the void.
+
+Back and forth, ferrying people through the void. The powerful signature grew closer and closer, hurtling toward them. If he’d had any delusion that the powerful signature wasn’t coming for them, it was dashed as the signature obviously altered its path to chase after them. Closer and closer and closer. Straw jumped into the trash can with the final mage. Rhys stared at the sky, holding the final rescued ex-mage. The second he got a glimpse of the figure, he leaped into the trash can and let it whisk him away.
+
+Bushy red hair. A broad chest visible through an opened shirt, marred with scars. A broad-chinned face, teeth gritted in anger.
+
+That has to be him, right? The one who punished Lira. He was too strong to fight today, but he’d fight him sometime in the future.
+
+In the void, Rhys looked back at the void holes that belonged to the trash can he’d escaped through. He held out his hand, pulling inward, not sure if it would work or not. The trash can was made of trash, but it was not only on the other side of a dimensional boundary, but also a dimensional boundary itself. He had no idea what the voids would do, if he sucked their bounds away, but there was no time to worry about that.
+
+The edges fluttered. The voids shuddered. A wave of fire slammed into them, spurting through into the void, and then the ashes that had once been the trash can fluttered through the void into Rhys’s hand. The void holes collapsed, leaving nothing behind.
+
+Rhys blinked, then shook his head. Right. The holes have always let my mana through. Why wouldn’t they let everyone’s through? It was his fortune that the fire had destroyed the can before the whole attack had gone through the holes. If that had been an assassination attempt or a single piercing attack, he would’ve been in trouble.
+
+He glanced at the other holes. Should I destroy them? He considered it for a second, then shook his head and headed out of the void into the hideout. If he was attacked through a different trash can—in other words, if the Empire put together that all trashcans were bad—then he would immediately destroy them all. But there was no need to destroy his teleportation network before it even really got started. He paused a moment, just long enough to absorb the other trash cans he’d used at the camps back into his core, then stepped out of the void and into his base.
+
+“You made it?” Sable asked.
+
+Rhys set down the mage he’d been carrying. “Yeah. It was close, but yeah.”
+
+“You guys were chased?” Mouse squeaked, startled.
+
+Rhys nodded. “It could’ve been bad, but I got out in time. I think I might’ve met Lira’s mortal enemy.”
+
+“Oh… yeah?” Mouse asked, a little concerned.
+
+“Not for long. Like I said, I ran immediately. I’ll have to ask Lira to be sure, but I’m pretty sure it’s him.”
+
+She nodded, still concerned but at least repressing it, if not completely pushing it down.
+
+Rhys turned to the assembled ex-mages. “I can’t give everyone cores today, and I can’t do more than Tier 1 for any given core. Don’t worry: you can continue to level up the core just as you did before. However, I can’t start you any higher than Tier 1, no matter you’re your original rank was. Understanding that, please step forward. Form a stately line. If I see any misbehavior, you’re going straight to the back of the line, and make no mistake.”
+
+There was some murmuring at that, but no one dared to go contrary to him, not when he was handing out something so essential. He managed to give almost a dozen of them cores before he simply ran out of free energy in his core. Even with as much as he’d been pulling in energy, he didn’t have an unlimited supply, and at the end of the day, he could only do the best he could. He turned to the rest of them apologetically.
+
+“I couldn’t give you cores this time, but just wait. I’ll find the energy somewhere. If you want to leave and live a peaceful life escaping the Empire rather than wait for a core, I understand, but if you remain, understand that you commit to this lifestyle. I can’t afford to let anyone go, once they’ve seen enough of our operation. You all hate the Empire as much as I do, I’m sure, and you understand how big an undertaking it is to take it down. I can’t afford to make a single mistake. Please… don’t be a mistake.”
+
+A few of the mages murmured uncomfortably amongst themselves at that, but Rhys just smiled. “If you understand that, then please stay around. If you don’t, then leave. It’s simple, isn’t it?”
+
+They glanced amongst one another, but in the end, no one moved. Rhys dusted off his hands. “Right. Everyone who just joined, speak with Korii, Blake, or one of the other mages who’s been around for a while. They’ll get you started. There’s things you can do for the Resistance even as a mortal.”
+
+He mentally capitalized Resistance for the first time. It was the first time it felt like one. Looking out at fifty-some people, how could he not feel like a resistance leader?
+
+For the first time, he felt like he’d done something. Actually begun something real. He knew the chips shop were essential to his plans, but they felt like so little. A candle in the wind, compared to the Empire. A small debuff against the most powerful army he’d encountered, that might one day help someone else take down the Empire some tiny amount that they might not even notice. This… this was a resistance force. This was something that might topple the Empire one day, all on its own, with the powerful assistance of Rhys intentionally using the chips debuff to its greatest power at the precise moment they needed it most.
+
+He smiled, just a little. It’s happening.

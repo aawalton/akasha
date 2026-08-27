@@ -1,0 +1,111 @@
+---
+id: bc98d916-0696-5d14-8ddb-33c2cad0ff67
+page-type-slug: story-chapter-royal-road
+title: "030: Elements"
+slug: 0030-030-elements
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 30
+ownLength: 1962
+unit: words
+publishedAt: 2024-05-01
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1618487/030-elements"
+royalRoadId: "1618487"
+---
+
+She found herself in a small room. Not like the caverns of the lower floors, but modern and sleek. The walls were made of a shimmering grey metal and polished smooth. It was a perfect cube, and that wasn’t the only oddity.
+
+There were small holes in the walls, ceiling and floor beneath her feet, spaced at regular intervals. She could only guess at their purpose. Standing in that empty space, Evelyn found herself at a loss for how to proceed. There was no obvious direction here. And it wasn’t a multi-challenger instance, because she would have received a message if that was the case. So, she waited.
+
+Evelyn didn’t have long to wait before the room itself began to hum. A whining noise that reminded her of the sound electric currents had.
+
+Is there electricity in the tower? I doubt it, but who knows what the later floors will hold. This cube is suspicious. I have a terrible feeling.
+
+And she didn’t have to wait long to realise why.
+
+The humming ceased, and she saw little sparks gathering in every single hole in the walls. There was barely a moment to examine the sparks before huge jets of flame spewed forth from the holes, turning the room into a furnace. And Evelyn was right in the middle.
+
+It was a stroke of luck that she had acquired Flame Resistance before entering the 13th Floor, otherwise she might have been burnt to a crisp there and then. It was only by virtue of her impressive fortitude and vitality that she was able to remain standing. In fact, if she hadn’t just increased both attributes, this may have been her final resting place. But, she persevered.
+
+The heat was searing, and she resisted the urge to scream as it cooked her flesh from the outside in. Then, she gave in.
+
+Evelyn unleashed a cry. But it was not one of anguish, nor pain. No, she unleashed a furious cry of challenge at the flames which threatened to consume her. Overpowering Spirit came into full effect and as fast as the fire was burning her to ash, her tenacious body was renewing and repairing itself. However, she couldn’t hold on forever.
+
+But, with her incredible willpower and immense fortitude, Evelyn wouldn’t be succumbing to the flames any time soon. The pain, though, threatened to collapse her mind long before her body was charred to a crisp. She was on a timer. So, with that thought in mind, she began to weave her mana.
+
+There was only one skill suited for the task at hand. It was one which had become her signature. And for good reason - Flashfreeze Flamecharge was undisputed in its power and breaking force. It left utter devastation in her path every time she used it. Evelyn could only imagine the kind of destructive force she could bring to bear if she was ever able to push it to the next tier. Her mana reached the limit.
+
+Evelyn exploded forwards, on a direct collision course with the metal wall of the room. To date, she had never really tested the upper limits of the skill. But, this time, she had pushed as much mana into it as it would allow. Right until she felt her mana pathways starting to scream in agony. Yet, even with all that power swirling within her charge, it was hopeless.
+
+The wall was still as smooth as it had been when she first arrived. Not a dent was visible. A skill which could vaporise a living, breathing person had no effect. There was a glimmer of hope, however.
+
+While she had charged at the wall, the jets of flame had ceased to spew forth. It appeared that the torture was over. For now.
+
+She only had a minute to catch her breath and steady herself before the holes whirred into action once more. There were no sparks this time.
+
+Instead, they sparkled blue. Ironically, despite the clear danger they represented, Evelyn found the shimmering traps beautiful. It was a reflection of the tower itself, in a way. To its denizens, it was merciless - throwing them into brutal challenges which they often did not survive - but, the environments were stunning. Often endless and primal. She had come to admire the expert craftsmanship. If that’s what it was, at least.
+
+There was no guarantee a sentient being had a hand in creating these challenges. It was possible the tower was just a machine, constructed to torment those it kidnapped by some higher dimensional being.
+
+I’m getting lost in philosophical nonsense again. Just keep moving forward. That’s all you can do, Evelyn. One step at a time until you see your friends again. Your family. Then you can think about where this hellish place came from and how to kick its owner’s ass.
+
+Right on cue, Evelyn was struck by a second attack. The entire room froze in an instant, turning her into an icy statue. This wasn’t regular ice, either. It was magical, which meant the moment it made contact with her skin, it began to crystallise. Her blood slowed to a crawl. Her fortitude was immense, which meant her skin resisted the biting chill. At first.
+
+But even she could not hold out against the glacial spell, and her skin began to blacken and die. Frostbite usually took days to set in. And yet, Evelyn felt her whole body succumbing to that very affliction within the first minutes of this new trial. Now, she knew how her enemies felt when she left them in the wake of Flashfreeze Flamecharge. It wasn’t a quick death. This was painful, and agonisingly slow.
+
+Evelyn had not given in to her fate, however.
+
+The skill had failed to destroy her prison, but she refused to believe it could not deal with some simple ice. Flashfreeze Flamecharge had a hard limit on how much mana she could funnel into its use. But, limits were meant to be broken. It felt like a thousand needles piercing her flesh. Her mana pathways burned as Evelyn forced them to go beyond what they were built for. The skill itself strained and protested at being overfilled, but she didn’t let up.
+
+And then, when it felt as if another drop of mana would cause her to burst, she let the skill burst to life. A raging inferno - one hotter and fiercer than the flames she had just endured - erupted from her body. The effect was immediate. Her cells, which had been struggling against the necrotising cold, overflowed with vigour. Moments ago, the room had been wracked with frost. Now?
+
+It had become a sauna. Her cheeks were rosy. Clouds of steam billowed outwards, but with no escape they could only hover until condensing to drops of water on the smooth metal walls. Evelyn had overcome the second trial of this floor. By now, it was obvious that her goal was not to escape. Instead, it seemed the tower demanded she survive whatever it threw at her.
+
+As usual, the tower is a sadistic master. I had forgotten, with how much I had grown to enjoy the challenge of battle. This place is no playground. It is, I believe, a trial meant to force its denizens to grow more powerful. And, in order to do that, it must put us through hell.
+
+Over the next few hours, she was put through the wringer. Following the ice, Evelyn was assaulted with clouds of poisonous gas. It burned her skin and lungs. But, she was well equipped to deal with the threat. Thanks to corruption resistance, the damage was lessened and combined with her overwhelming vitality and Overpowering Spirit, her body held firm. That didn’t make it any less agonising.
+
+Then, the room was submerged in water. Thanks to the boon of attributes, she was well beyond the limits of a human physique. Even so, Evelyn discovered that beyond fifteen minutes she could no longer hold her breath. And it wasn’t just a matter of oxygen.
+
+Every minute she was underwater, the pressure had been increasing. It was slow, but noticeable. Not at first, but soon even her durable physique felt the strain. Her muscles strained against the crushing force and her head felt as if it would burst. As she was on the brink of passing out from combined lack of oxygen and water pressure, Evelyn had a stroke of genius.
+
+Her movements were sluggish. Just lifting her arms felt like hefting a ton of bricks, but she wouldn’t let that stop her. Without overcoming this trial, the only fate that awaited her was death. And that wasn’t an option.
+
+It never had been.
+
+Reaching into her mana reserves, Evelyn used a skill that she hadn’t touched in a while. Fists of Frost. She probably looked ridiculous, punching away at the water. But, that wouldn’t deter her from trying. In fact, she wasn’t even sure this would work out. However, she had faith.
+
+It had to work.
+
+And, on the twelfth strike, her efforts were rewarded. The water around her fist felt thicker. It offered more resistance to her blow. That was exactly what she had been hoping for. Seeing that renewed her spirit, and the next couple of punches were even faster than the last. Finally, on the twentieth strike of her fists, a shard of ice formed in the water, crystallising outwards to the rest.
+
+But, she didn’t stop there.
+
+Ten punches later, she had exhausted the last dregs of her strength. Her diligence had paid off, however. It was as if the second trial of ice had been repeated. Evelyn was frozen at the centre of a giant cube of ice. All it took to free her was another quick cast of Flashfreeze Flamecharge.
+
+Your class has advanced!
+
+Unyielding Warrior Lv.4 > Lv.5
+
+Is that it? How many more elements do I need to weather before the tower considers me worthy? Or perhaps it just enjoys watching me suffer. At least my class levelled up. I wonder if anything happens at Lv.5? Beyond the obvious attribute gain.
+
+Congratulations Challenger, you have cleared the 13th Floor! Local Chat has been unlocked, Access it at any time. You may purchase one reward from the following:
+
+〖1 Attribute Point〗- 85 Essence
+
+〖Grey Star〗- 68 Essence
+
+〖Common Skill Crystal〗- 120 Essence
+
+〖White Star〗- 2600 Essence
+
+The worst part of the floor she had just cleared was that there were no enemies to battle. To defeat. That meant she hadn’t earned any essence. Well, that wasn’t entirely true.
+
+She had earned a little over 3,000 essence. But that had been from her own income, thanks to the stars. Evelyn had been trapped in that metal cube for at least six hours, but it felt far longer.
+
+Beyond that, Evely was frustrated. After finishing the 12th Floor and giving herself a huge increase to her main attributes, she had felt unstoppable. Powerful. Yet, the tower had shown her just how powerless she still was immediately after. If the next floor was going to be similar, she would need to give herself another big boost. However, she still felt that her income wasn’t large enough. It could barely cover the cost of a single white star.
+
+She purchased the white star.
+
+They did increase the grey stars’ income after all. It wasn’t just an expensive waste of essence. It still stung. With the remainder of her essence she put some more attributes into fortitude and vitality. Clearly, her durability was far from what it needed to be to deal with what lay ahead. Evelyn’s confidence had been dampened, but that was only when it came to the tower itself.
+
+Against another challenger? A person? They stood no chance.

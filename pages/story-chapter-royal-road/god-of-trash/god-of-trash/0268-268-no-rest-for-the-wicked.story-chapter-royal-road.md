@@ -1,0 +1,145 @@
+---
+id: 5532ae6c-c126-5a5b-95e2-b9452d37f918
+page-type-slug: story-chapter-royal-road
+title: "268. No Rest for the Wicked"
+slug: 0268-268-no-rest-for-the-wicked
+partOf: god-of-trash
+position: 268
+ownLength: 2061
+unit: words
+publishedAt: 2026-01-29
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2992356/268-no-rest-for-the-wicked"
+royalRoadId: "2992356"
+---
+
+His new face had been trashed, totally revealed and completely useless, so Rhys took a quick dip in the pond on the island and changed it once again. The technique Lira had taught him was coming in handy, though his foes were calling him out on context clues so often that he had to wonder if it was worth it.
+
+This time, he chose a generic-extra kind of face, not too handsome, not too ugly, just background enough that it wouldn’t stand out without standing out for being so generic. He didn’t choose a celebrity or an anime character, but just kept things simple. If he had to change his face again soon—and the way things had been going, he would, he didn’t want to waste too much time picking this one.
+
+Stepping out of the water, he ran his hair back, then frowned. Come to think of it, the fake Lira was chilling in water, just like the real one… I wonder if they recruited a water sprite? Either that, or someone spent a long time soaking wet for no reason. He snorted at that. I hope they were miserable.
+
+It did leave the question of “where’s Lira” wide open, but she was a competent mage and a powerful water sprite, besides. For all he knew, she’d gone off to take on that Infernon who’d pissed her off back in the Empire.
+
+No, come to think of it, that’s probably what she did, he thought, nodding to himself. Mouse had gone evil, or at least she was on the enemy time right now, so of course the enemy knew about Lira, but no one had—
+
+Wait, hold on. Lira’s the one who didn’t remember Mouse. If she was a fake Lira, then… huh? Rhys looked at Sable. “Do you remember Mouse?”
+
+Sable squinted. “Who?”
+
+“Don’t worry about it.” Huh. So it’s true that only I remember Mouse, but on the other hand, why wouldn’t fake Lira remember Mouse, if they’re on the same team? Did she think it was possible that I didn’t know? But she seemed to earnestly not know what I was talking about. And if she was trying to act accurately as Lira, then she should remember Mouse; it’d be stranger if she didn’t. In fact, if I didn’t know Mouse’s path, I would’ve suspected her just for not knowing who Mouse was. Rhys pinched his chin. Was Mouse… not on the enemy team? But then, how would the enemy know about Lira?
+
+No, Mouse was with the enemy. But some of the enemy also didn’t know about Mouse. She’s super ultra secret, he thought, chuckling to himself. Still, it kind of made sense? Since she could be unknown to everyone, why not? She could turn the unknown thing on and off, so if someone was supposed to know about her, they would; and if they weren’t, they wouldn’t.
+
+Rhys frowned. 5-D chess time. Is she deliberately letting me remember her? But why? What would that mean? Is there some advantage the enemy team gains by letting me remember Mouse? They were friends… or something, so maybe they were going for the emotional angle? But in that case, surely Virgil would’ve been mouthing off about her and aggressively taunting him about having Mouse on his side. He hadn’t done that, so they weren’t using Mouse and Rhys’s friendship-and-maybe-more as an element of their plan. If they were using her, they were using her in full stealth mode.
+
+Has she just gone totally dark again? He supposed it was possible, but it didn’t feel like it. Then he’d have to explain the situation with Lord Nors some other way, and sure, it could be someone else with Mouse’s path, but Mouse’s path was pretty unique. It’d even been considered garbage by her peers and teachers, so it couldn’t be something that many people followed.
+
+No, she’s on their side. They just aren’t using her as an emotional pawn, but using her as some kind of… I don’t know chess that well. Stealth knight? Knights are stealthy, right? Maybe? He pondered it for a little while, then shrugged, leaving it up to a mystery. He really couldn’t figure out why Mouse would let him, and only him, remember her. It didn’t make any sense to him.
+
+At least he was safe here in the void. No one could get to him. Not Virgil, not the Sword Saint, not anyone.
+
+A shadow fell over Rhys, and he looked up to find Sable looming, all her bony limbs bared. “Fight me. Now.”
+
+“Uh… could it wait? Aren’t we allies?”
+
+“No. I’m done waiting.” With that, Sable leaped at him.
+
+Never mind! One person can get me! And she’s trying!
+
+Rhys backed away. “Sable! Hey! I, uh, I don’t really do spars! My fighting style is kind of… you know, lethal. Permanently damaging. Please, I’m begging you!”
+
+“I can handle impurities.” She lashed out, her limbs closing in on him from all directions.
+
+Rhys dashed backward, throwing himself into a hasty back-handspring when that wasn’t quite enough, as Sable extended her limbs further than he remembered she could. “You—that’s true, but—”
+
+She closed the distance the second he opened it, darting forward on her spider limbs and instantly throwing a kick. “Fight me.”
+
+“Dun wannaaaaaa!” Taking the kick on his ass, Rhys turned and nobly fled like a true gentleman.
+
+He’d come a long way since his early days of getting beaten up by Straw, Bast, Ev—basically anyone and everyone he encountered. He didn’t want to get beaten up anymore. He’d developed an entire sure-kill one-hit technique of fighting that minimized the physical part of fighting that sucked—aka getting hit—and maximized him killing his enemies as fast as possible. Back in the day, he’d been so trash that getting beaten up in a fight was a done deal, guaranteed kind of thing. He’d needed getting-beaten-up practice. Now, he didn’t get beaten up anymore, nor did he want to get beaten up anymore.
+
+People changed. They matured. They overcame their early days when they might have been accused, from an outside perspective and someone who couldn’t see the internal part of how much getting constantly beaten up had sucked, of masochism. They encountered people like Soma and realized just how viscerally troublesome getting publicly accused of masochism around certain people might be. They went through a lot of things and reflected on them, and realized the truth of the world: getting beaten up sucked, and they (Rhys) were sick of it.
+
+And so Rhys raced around his inner world equivalent secret island, getting chased by a beautiful woman in a leotard and a cape who mostly scuttled after him on her spider legs rather than using her people legs. On his third lap, he turned and caught sight of Daran, relaxing in the middle of the island with his hands behind his back, feet up on an imaginary ottoman and back reclined into an imaginary lounge chair. He gave Rhys the smuggest grin Rhys had ever seen or felt, and closed his eyes in blissful relaxation.
+
+Rhys scowled. How dare you! Get over here, and you get chased instead of me! But for the first time, Daran’s immaterial form worked in his favor. There was nothing Rhys could do to redirect Sable toward Daran; he floated there, smugly, visible only to Rhys, and Rhys had to suffer.
+
+Curse you, useless ring grandpa! Rhys thought, scowling. Then again, he had to admit—classic ring grandpa move.
+
+“Can’t we talk this out, Sable? We’re just here to uh, to wait for the big fight! If we get injured now, we won’t be able to fight our real opponents later!”
+
+“If we fight now, we’ll learn. We’ll grow more powerful.”
+
+Oh shit. She’s right! “Uh… but uh… we shouldn’t!”
+
+“Why not?”
+
+Rhys wracked his brains. “B-because we love and respect one another as equals?”
+
+“That’s precisely why we should fight.”
+
+Dammit! Why is she so good at this? “I met your dad! Don’t you want to hear about it? Your father! Sid!”
+
+Her gaze brightened, but she didn’t stop charging him even for a split second. “Then you fought him. I want to fight someone who survived my father.”
+
+“No no no, we didn’t fight! We talked! We just had a nice conversation, and no one committed any violence!”
+
+Surprise flashed across Sable’s face, only for disbelief to wipe it away a moment later. “Impossible. Stop running and fight me.”
+
+“It is possible! And it’s possible for us, too! If Sid can do it, you can too!”
+
+Sable considered it for a second, then shook her head. “No.”
+
+Oh, come on! Rhys glanced back. The onrush of several long, white limbs lifting Sable’s body like a spider’s legs sent shivers down his spine, but he repressed it. “Why can’t we choose calm and peace?”
+
+“Because they suck and they’re boring.”
+
+Rhys flinched. Oooh, my own comments about slice of life coming back to slap me in the face! I never liked slice of life much back in my homeworld, unless there was a strong vibe. I’d much rather read action, horror, anything else, literally anything but boring snooze-fest slice of life. But when it comes to my life—when it comes to my life, I don’t want constant nonstop action! Please, Sable! Gods! Forgive me for my past transgressions!
+
+“Okay. What if we just do a quick duel? One round? First point ends it?”
+
+Sable said nothing. She lunged, leaping forward faster than Rhys knew she was able to. Her limbs closed in on him on all sides.
+
+Shit! Rhys’s body blurred, and he vanished. Sable’s limbs closed around nothing. She looked around, searching for Rhys.
+
+A hand closed on the back of her head and slammed her into the dirt. Sable struggled, but Rhys exerted his Tier 4 strength and kept her pinned. “Please, Sable. I’m not in the mood. Can we just hang out?”
+
+Sable struggled, but it was like trying to budge against a steel block. Rhys’s hand didn’t budge. She struggled harder, fighting with all her might. The island broke apart beneath her, the dirt cracking open underneath her, but Rhys just kept pushing down, keeping her pinned. It was a bit reminiscent of fighting as a kid, when he’d just push down his little sibling’s head until they gave up and stopped fighting.
+
+Sable stilled at last. She looked up at Rhys. “You’re strong.”
+
+“Yeah. I know.”
+
+“So that’s why you didn’t want to fight.” Understanding flickered in her eyes at last, and she nodded. “Let me up. I won’t attack anymore.”
+
+“Oh… okay,” Rhys said. He released her and stepped back, feeling as if Sable had gotten something out of that interaction that he hadn’t, nor had he meant… whatever it was she’d understood. He’d been thinking about small children, and she’d been thinking about the jungle, or something. He wasn’t quite sure, but that seemed to be what’d happened.
+
+“But you’re not strong enough to beat my father.”
+
+“No. Because we didn’t fight. I swear we didn’t. We just talked.”
+
+She shook her head. “That’s not possible.”
+
+“It really, really is. He was even acting as someone’s—er, well, kind of.”
+
+“As someone’s…?” Sable prompted.
+
+“As someone’s servant,” Rhys finished reluctantly.
+
+Sable gave him a look of utmost disbelief. “You didn’t meet my father.”
+
+“No, no, no, he wasn’t—well, the person told me that Sid was his servant, but he was lying. I brought Sid back to him, but, uh, it didn’t end well for him.”
+
+“It wouldn’t.”
+
+“No… yeah. It was a poorly-thought-out-ploy to kill me on his part, to be very honest.”
+
+“It should’ve worked.”
+
+Rhys shrugged. “Maybe. I seem to have affinity with Remnant Weapons, though.”
+
+Sable raised her brows. She walked off, wandering into the island. Rhys sighed in relief and ran his hair back. Well, at least no one on my secret void island is trying to kill me anymore, but I’m still in a bad place. I don’t know where real Lira is, Mouse is still a mystery, and my plan to kill Virgil has all gone sideways.
+
+The cards were down. The chips were against him. He had his back against the wall. He was truly in a trashy place… in other words, in his element.
+
+Rhys grinned. His eyes shone. So. What’s my move?

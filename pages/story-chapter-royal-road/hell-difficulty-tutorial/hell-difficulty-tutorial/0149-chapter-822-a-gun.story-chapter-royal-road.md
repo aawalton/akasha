@@ -1,0 +1,211 @@
+---
+id: b49a8402-43f0-5c90-a014-3e39e0f98c11
+page-type-slug: story-chapter-royal-road
+title: "Chapter 822 - A gun"
+slug: 0149-chapter-822-a-gun
+partOf: hell-difficulty-tutorial
+position: 149
+ownLength: 2530
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3511462/chapter-822-a-gun"
+royalRoadId: "3511462"
+---
+
+Gathered around my trademarked thermal cube, we look down at Morwag’s severed arm. I pushed for it to be the left one.
+
+Tradition required it.
+
+Now that it’s been severed, that arm has turned gray with black veins, with Necrotic Rot spreading without the demon holding it back. Though with how powerful his body is, and how changed it is by his use of primordial energy and his stats, it spreads slower than it would in any of us.
+
+"I will buy the blueprints of this cube from you." Brich doesn’t seem to be interested in the arm at all and instead keeps poking at my cube.
+
+"What blueprints?"
+
+"The plans on how to make it, it is such a fascinating thing. The constantly shifting heat reminds me of a real fireplace, as do the cracking sounds and the sparks it releases every so often. The smoke it generates and the push of kinetic energy blowing the smoke into my face is also very realistic."
+
+"A true camping experience requires you to constantly be moving to avoid the smoke, with that smoke and wind seemingly tracking you as you move all around."
+
+"Why does the cube have a function allowing it to recognize mana signatures and, based on that, target the smoke at Savant for the past thirty minutes?"
+
+"I have no idea what you’re talking about."
+
+Brich nods. "I’m a handsome and honorable man, a man of my word. I promise to steal an item from the treasury of Crimson Forge an hour before my tutorial ends and hand it to you. I could potentially get my hands on anything between the grades of rare to low pristine, possibly mid pristine if they have it, but no promises. In exchange, I want the blueprints for your cube! It’s a fascinating thing. The effort it must have taken to make thermal energy behave that way, the channels for kinetic energy to mimic the sounds and the wind, the structure itself. It’s a masterpiece!"
+
+"I’m not interested in loot boxes and uncertain rewards. And even if I wanted to, I don’t think I can create such a blueprint. I’ve got most of it stored in my head, and in such a way that it wouldn’t make much sense to you."
+
+"Such a shame," Brich sighs. "Well, I will try to raid the treasury anyway, though they likely expect it."
+
+Someone coughs from the side. "The arm."
+
+I turn toward that voice and watch Savant, whose face is full of the transparent gray black smoke the cube releases. His eyes are even a bit watery, but he stubbornly, or perhaps patiently, refuses to move from his place. Well, not after he did so five times before. Though he keeps trying to put up barriers against the smoke or make modifications to my cube, while I do my best to stop it. It feels almost playful.
+
+"Yes, the arm." I nod and put my hand on Zant’s shoulder, as he now sits on my lap, and ask, "So, how about we make a deal about the Necrotic Rot and the arm?"
+
+"I’m listening, Sir Gwyn."
+
+"We will go on with our plan and store the arm and all the Necrotic Rot, so it has no chance to spread to anyone else, then carry it to the 1st floor. Even once we’re there, we’ll contain the fight to the middle of the floor so it doesn't spread. If we fail, I will ask my Handler to interfere and clear things out, and the Ruler of Diligence can punish me in any such case as he sees fit."
+
+"Even if such punishment is death, Sir Gwyn?" Zant asks calmly and looks up at me with his big eyes.
+
+"Even then."
+
+"And how confident are you that your handler will be able to interfere and will be willing to?"
+
+"Something tells me she would like the deal I’m offering you. How about you call on Diligence, and we confirm things with him if you feel uncomfortable making such a deal?"
+
+It might be just me, but it seems like a wave of relief shoots across the face of the tiny vyssari, so I caress his hair.
+
+Brich laughs out loud. "Haha! As if The Ruler of Diligence would come down here over something like that!" Continuing to laugh, he looks around, and that laugh weakens as he sees Weslin’s solemn face.
+
+"There is no way THE Ruler of Diligence will come here, right?" Brich repeats.
+
+Weslin and Morwag stay quiet.
+
+Savant coughs.
+
+Zant closes his eyes for a moment, and when he opens them again, he says simply, "He is coming."
+
+I ignore Brich and watch as the tiny vyssari’s expression changes. Where before it was controlled and calm, it now begins to shift to something more furrowed. Even his voice as he talks grows deeper and more commanding, reminiscent of the one I heard belonging to the huge black ant.
+
+"Attendee Gwyn... you, again," The Ruler of Diligence speaks through his vessel.
+
+Unable to help myself, I reach down and caress Zant’s hair again, causing everyone, even Morwag, to freeze in what seems like shock.
+
+"How much do you know?" I ask him.
+
+The Ruler of Diligence doesn’t seem to be bothered, or at least he doesn’t show it. "Most of it, your offer is acceptable, and within the rules. There are requirements, though. In this specific case, the Necrotic Rot cannot get out of control and spread to any living being, be it monster, attendee, or local. It can be used at the center of the first floor as you have planned, but that requirement stays. It is possible you will find it more difficult to uphold than expected."
+
+"I’ve taken that into consideration."
+
+"I do not think you have. Very well. In the event that things go awry, Zant will interfere, and in the event they escalate, I expect your Handler, who I am sure is listening, to interfere as well. If it comes to that, I will be expecting a payment of my choosing. Perhaps an item from her personal Repository."
+
+"Won’t you ask her first, to find out if she even agrees?" I ask.
+
+In a way very unlike Zant, he almost snorts and looks at me, making me realize he hasn't blinked even once. "I know her well enough to know what she would have done in this situation."
+
+"Good. Nothing like taking my life if I fail?"
+
+"There is no need to be quite so barbaric, though I am sure there are rules I can use to deliver a punishment. Something like blocking you from taking S rank quests or reducing the effectiveness of your Beyond stay tokens by 90%, or other, similar ancient rules we could apply."
+
+"How cruel."
+
+"Is that all, Attendee Gwyn?"
+
+"It is, thank you."
+
+"I will be leaving then, but I have to warn you. Do not abuse Zant. He is powerful, but still young and inexperienced. Missions like this allow him to gather some experience."
+
+"As if I would do that to him, and you know me better. That’s probably why you sent him to me instead of someone else."
+
+For a moment, he looks at me, and then he laughs, a broken sound, reminiscent of clacking mandibles.
+
+Without warning, that choking presence disappears. Zant’s eyes clear out, and the tiny guy shakes his head, checking his clothes before looking up at me. "Are you satisfied with the deal, Sir Gwyn?"
+
+"Yup," I say, picking him up and setting him back down on the ground while handing him another chocolate.
+
+In a better mood, I look at Brich, who has a helmet over his face with a light flashing on the side as if he’s currently recording something.
+
+I blink a few times. "What the hell?"
+
+Brich sighs. "What the hell indeed. The interference has not allowed for a recording, unfortunately. Do you realize Eldrin, Isolde, and Silverweave would eat you alive if they knew you’d gotten to talk to the Ruler of Diligence?"
+
+"I mean, they probably would. At least Isolde seems to admire the guy, well, the ant."
+
+Brich laughs. "Someone capable of creating an artificial sun, an owner of the World Forge, and impressively, one of the very few beings to ever be able to make Spatial Caches."
+
+"Is that new info?"
+
+"Some of it. Isolde started looking for more as of late."
+
+"Should you be telling me this for free?"
+
+"Clearly not." Brich nods seriously and, seemingly even more excited, he plops down and weaves his fingers with the fingers of Morwag's severed arm, laughing. "Look, Morwag, we’re holding hands! I would never-"
+
+His words stop coming when he sees the demon smile at him. That demon’s smile is so gentle and honest looking, which causes the lumoran to put the arm back down and tap it a few times. "How about we start?"
+
+POV Lily Chen
+
+When I look around the street in Megacity, I can only sigh. Among the people passing by, I’ve already noticed a few familiar faces. There are recruiters from the guilds who must’ve already been informed of my return to Beyond.
+
+There are also some who seem like they want to buy healing marks from me. As for how they were able to learn that I can make them, I don't know. Maybe they deduced it from spying on Nat?
+
+I’m currently alone, even if I should know better. At least when I am here with Sophie or Tess, people don't follow me so much, but I just wanted to be alone for a bit. I realize how greedy that might seem while the others are dealing with so many things.
+
+I could probably change my looks to avoid these people, but when I did it previously, they were still able to learn it was me. Nat always said I was terrible at masking my mana signature.
+
+"Lady Lily, may I have a moment?" One of my stalkers stops by, a tall and polite lumoran. He even bows. "Of course, I am aware of how valuable your time is, so please consider this a consultation. I am willing to pay 500 thousand shards for just a hint of your wisdom."
+
+"Is this a bribe?"
+
+"N-no! Just a small sum for whatever amount of time you consider reasonable." He smiles. He is one of the most stubborn, likely from one of the top five guilds.
+
+So I look at him and think. What would Nathaniel do?
+
+"Okay," I say and initiate the transfer.
+
+The lumoran smiles at me brightly and confirms it, taking all the fees on himself.
+
+"So-" he begins.
+
+I interrupt him. "Thank you. Your reasonable amount of time has concluded."
+
+Then I stand there and watch him. At first, he seems angered and stricken with shock, but he quickly controls himself, and that fake smile appears again. Still very politely, he smiles and bows before leaving quietly.
+
+Sometimes I truly loathe being a healer. Why are we so rare, and why is everyone so obsessed with monopolizing me? They want me bound to them, buying healing marks, chasing long life, or demanding body modifications. They want to dictate my price and lock me in their guilds just to sell my services for a cut of the price. They’re all so greedy... so disgusting.
+
+Against my will, gray mana flashes across my palm before I shake it off, dissolving it.
+
+With a sigh, I turn around and take a step, only to bounce off someone. "I am sorry," I begin to apologize instantly, only to realize who it is.
+
+A young woman with messy brown hair stands there, her eyes glowing with a light that’s always seemed so free and full of life to me.
+
+Tacita smiles at me and waves, her movements drawing symbols into the air with the tip of a finger, glowing with mana.
+
+ヽ(°〇°)ﾉ
+
+I laugh, but the sound dies when I see another man approaching. "Lady Lily, I-" He doesn't get to finish, or even get close, before he's reeling back with a dagger buried in his arm.
+
+Tacita smiles at him and shoos him away playfully, while the man stares with wide eyes.
+
+He still tries to say something, but Tacita sighs and points a finger at him in a gesture that looks like a finger gun and mimes the recoil of a shot.
+
+Nothing happens, making the bleeding man even more confused and Tacita annoyed. She taps her chest a few times, and something moves there. From the inner pocket of her jacket, a sleepy head pokes out. It has golden fur with cute black eyes. A small baby ferret.
+
+Tacita makes her finger gun again and shoots at the man again, and the ferret yawns, sticking out a tongue, but it does nothing for the mute girl. The man, meanwhile, smartly disappears.
+
+Turning back to me, she draws.
+
+(ﾒ￣▽￣)︻┳═一
+
+"Gun?" I mutter.
+
+She stands by my side before I even realize it and nods happily while showing me the sleepy baby ferret. She points at it and draws again.
+
+︻┳═一
+
+"The baby ferret is a gun?"
+
+Tacita nods wildly but then lifts her hand, gesturing as if that still isn’t fully correct. She looks around and turns into a blur before returning a few seconds later. The cute baby ferret doesn't seem to have been shaken by the fast movement at all and instead is dozing off again.
+
+Excitedly, Tacita puts a piece of white cloth on the ground, on which she places sets of green and red clothes. She creates vertical stripes of green, white, and red, reminiscent of a flag. An Italian one.
+
+I can't help but smile seeing her excitement and move closer to look at the flag, in the process, softly bumping into her. She pulls away but doesn't attack aggressively. She rubs the shoulder I bumped into while looking at me expectantly.
+
+I begin to pick up what she wants to tell me. "So you meant gun in Italian?"
+
+She nods so quickly her brown hair flies around her head, but again she gestures as if I still haven’t quite gotten it.
+
+"So not a gun? A weapon? Pistol... eh, shotgun, rifle-" before I finish, she nods quickly.
+
+"So rifle it is." I put my hands behind my back and lean to the side to get a better view of the golden baby ferret. It is so reminiscent of the one Biscuit befriended, and that saved Izzy, leaving her crying over its pitiful life and end. That ferret continues to sleep, and Tacita protectively covers it, hiding it from my sight as if she doesn't want to share.
+
+I like how free she is, how wild, and how much she knows about what she wants, and the way she just follows through. In a way, I think I truly am jealous of her.
+
+"A, B, C, D, E, F," I begin, and she stops me at F.
+
+I nod and start again. "A, B, C..." I continue on in this fashion, and it takes us a while until I get the name.
+
+Fucile. Or Fuci, for short.
+
+Tacita’s gun.

@@ -1,0 +1,115 @@
+---
+id: c1285b88-579a-5bca-98c2-548273c7180b
+page-type-slug: story-chapter-royal-road
+title: "230. Into The Dark"
+slug: 0230-230-into-the-dark
+partOf: god-of-trash
+position: 230
+ownLength: 2104
+unit: words
+publishedAt: 2025-11-03
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2729770/230-into-the-dark"
+royalRoadId: "2729770"
+---
+
+Rhys landed at the bottom of the shaft. He looked around, extending his senses as well. There wasn’t much to see. Tunnels carved through the earth, but it wasn’t claustrophobic, because the tunnels had been carved for someone Paul’s size, not Rhys’s. They felt more like grand halls than smuggler’s tunnels, though they were as roughly carved as any smuggler’s tunnels. The walls were flecked with spots of snow and ice, and in a few places, darker stones poked through the raw earth. Just like he’d sensed from up top, there was no one in the tunnels, nor any traps, nor any sort of magic or artifacts. They were almost like a beast’s tunnels, but there were too many of them for a beast; it was like a hive had been carved into the frozen earth by some manic arctic wasps. He extended his senses in all directions, and still came up with nothing.
+
+Well, that’s not great.
+
+If these were the tunnels this Lord Ravin used for everyday purposes, then it made sense that they wouldn’t be trapped. That wasn’t the problem. The problem was that this was just too many tunnels. It felt like a maze or a hive. This was supposed to be some kind of last-second hideout-slash-hidey-hole for Lord Ravin to heal up in, but it was far too huge and complex for it to be something hastily built.  This felt like something that had already existed, whether built by animals or by man, which Lord Ravin had repurposed. But if that was the case, then what was its original purpose?
+
+Rhys sighed. Ah, man. I came here to solve a mystery, but the mysteries just keep deepening. I’ve gotta solve one of these problems, or I’m gonna drown in mysteries.
+
+Whatever this thing had been built for, it didn’t really matter. He didn’t come here to solve the mystery of the northern continent. He’d come here to figure out what had happened to Bast. He adjusted his mana senses and locked onto the mana trace once more, then raced off into the darkness.
+
+If it is meant to be a maze to keep nasty intruders like me out, then it’s not a very effective one. Granted, not everyone could follow mana traces, or would have such a nice, fresh pair of mana traces to follow, but still.
+
+It occurred to him, as he followed the mana traces, that he was probably hurtling toward Lord Ravin’s retainers’ break room or barracks rather than toward Lord Ravin himself. Not exactly what he wanted, but if the guy’s retainers were all Tier 3 or 4, he didn’t really have much that could threaten Rhys. Well, okay. If there’s three or four Tier 4s where I’m going, I am in deep shit, but that’s a lot of Tier 4s, you know? Tier 4s are rare and powerful. They run schools and stuff. Tier 4s don’t just wander around the wasteland picking random fights. Except for me, but I’m weird.
+
+Another thought came to him, as he rushed through the tunnels: Or maybe the northern region’s citizens are all higher tier than my region, and it isn’t unusual to have some Tier 4s wandering around up there.
+
+He swallowed. Hopefully that wasn’t the answer. Otherwise, he’d be rushing into an even worse decision than he’d thought he’d made. He split a portion of his mana sense and stretched it ahead just in case, not wanting to be jumped by a half-dozen Tier 4s.
+
+The mana traces curled deeper into the tunnels. They were a straight line, descending directly along this single tunnel. It made him a little more nervous, but on the other hand, a little more relaxed? If they were just using one tunnel, then his insane idea of ‘manic arctic subterran wasps’ building the rest of the tunnels made a little more sense… or, in the worst case, he could at least ignore the rest of the tunnels because they were unrelated to Lord Ravin and the immediate future related to the Sword Saint.
+
+Just ignore the tunnels. They aren’t important. Eyes on the prize!
+
+Putting the tunnels to the back of his mind with near-physical effort, he sped on. Rather to his shock, he continued to sense nothing ahead of him. It had started to shift from concerning to just odd. Why build a hideout in a giant nest of tunnels? Sure, there was the natural maze/already existing hideout aspect of it, but the thing about a giant nest of tunnels was that… it was a giant nest of tunnels. What stopped something else from deciding to use this existing nest of tunnels as a hideout?
+
+But all the tunnels were giant-person-sized. Why would they be giant-person-sized, if they hadn’t been carved by giant people?
+
+Hey, me. Didn’t I just tell me to stop thinking about the tunnels? Stop thinking about them!
+
+It was just so hard to stop thinking about the tunnels when they were so… everywhere. So big. So mysterious. He was deep in the tunnels, so how could he not think about the tunnels? And he didn’t understand anything about them, which made him really want to know more. It was only natural to think about the tunnels when traversing them. The deeper he was in the tunnels, the more he thought about them, and trying to stop thinking about the tunnels just made him want to think about them more! It was a vicious cycle with no escape.
+
+Is this a cognitohazard? he wondered, then sighed. No, I think it’s just me going crazy.
+
+Deeper into the tunnels. At last, at the very limits of his mana vision, he sensed the presence of another being. He immediately stopped dead, examining the being from a distance.
+
+He could only sense the very edge of their aura, but that aura wobbled, at times so high he had trouble properly sensing it, at other times wallowing lower than his. Their unstable cultivation didn’t swing between two elements, but between high and low, just like the traces on the field of the Sword Saint’s battle, but unlike those traces, this aura remained mostly on the low side of the scale, only occasionally peaking into the high emanations.
+
+That’s probably Lord Rivan. But if that’s the case, where are his guards? No way did this guy send his only two guards out to harass Rhys. What an insane move that would be—injured, on the brink of death, hidden away underground—‘oh yeah, my last two guards, go bother that guy.’ Well, it was true that some particularly trashy villains would pull that kind of maneuver from time to time… but there was no way someone paranoid enough to hide this far in the mystery tunnels would do that kind of thing.
+
+Rhys licked his lips. I should assume this is a trap, and act accordingly. He couldn’t see how it was a trap, but that just made it more dangerous as a trap. Of course, it was always possible that the trap was ‘the idiot fly walked up to the spider,’ and Rhys had to admit, yes, he was doing exactly that, but that didn’t seem like the kind of trap a person who’d run away from the world to hide and heal up would set.
+
+He called out a malleable piece of trash from the star and tied it into a loop, bound the void to it, and slid it under his robes, ready to leap into at the least notice. He had no intention of dying today. If it came down to the truth or his life, his life came first.
+
+Slowly, he approached the wavering aura. For the first time, he turned off the route he’d been following this whole time, through a freshly-carved arch in the tunnels, to a second tunnel. It wasn’t much of a tunnel, in all fairness; in a short distance, it came to a dead-end at a large, circular chamber. The back wall was a mess of magical and medical equipment. Strange magical symbols were scrawled over the walls and marked into the floor. Tanks of oddly colored liquids sat on the floor and were strapped to the walls, with long tubes snaking from their bottoms and sides. A series of swords were laid out in some significant formation that Rhys didn’t understand, beside a table laden with syringes and pills.
+
+And on a massive stone throne, central to all the equipment, tubes, magic formations, and otherwise, sat the man he could only presume was Lord Ravin.
+
+Rhys staggered to a halt and stared. How is he still alive?
+
+There was very little left intact of Lord Ravin. Huge holes had been punched through his body, so that Rhys could clearly see his bones and organs. His flesh was tainted with strange white lines that looked almost like burns, radiating out from the worst strikes. Half his head was gone, replaced temporarily by a sort of metal structure. Most bizarrely of all, a lily bloomed from his chest, crawling out from the hole just above his heart.
+
+If not for his aura, Rhys would have never assumed he was alive at all. The man looked more hole than flesh, more corpse than alive. The man’s eyes were open, but he stared at nothing, his gaze perfectly motionless. His chest didn’t move, and not a single piece of his body twitched. He was in tatters, barely clinging to life.
+
+Damn. This guy did not win that fight, Rhys thought, instantly understanding why the northern region’s people were working so hard to conceal his state. If someone who disliked this Lord Ravin came knocking, it would be the end of this man. Rhys was pretty sure he could kill Lord Ravin right now, even though usually approaching someone this powerful with malintent would be suicide.
+
+There was a papery whisper. A creak. The corpse subtly moved, its eyes tracking Rhys at last. A baleful mouth opened, and it croaked: “Is that killing intent I sense?”
+
+Rhys quickly stopped thinking about killing Lord Ravin, even as a subconscious consideration of possibilities level. “Not intentionally, sir.”
+
+Lord Ravin chuckled dryly, though Rhys had the feeling that he did everything dryly. His body didn’t look like it could hold much liquid right now. “Sir? This assassin has more manners than the last.”
+
+“I’m no assassin. I just came to ask some questions.”
+
+“Oh? If that’s so, then why do I smell the blood of my aides upon you?”
+
+Rhys looked at his hands in something like defeat. “I was poking around the place where you had a battle, and two people jumped me. I did kill them, but it’s not like I was intentionally trying to weaken you. They just… came at me.”
+
+“Hmm. It seems almost as if I have provoked you, to hear you say it.”
+
+Rhys nodded. “I wasn’t going to say it, but since you have… yeah, basically.”
+
+Lord Ravin laughed at that, a laugh that rattled his chest—Rhys could watch it all jiggle, but looked away, a little ill. He was a little bit squeamish around living people jiggling their living insides around outside.
+
+Abruptly, the man turned serious. He lowered his chin, looking Rhys in the eye. “So… who did I provoke?”
+
+“Ah, me? Just a piece of garbage, not worth mentioning. But my friends, on the other hand…”
+
+“Your friends,” Lord Ravin said indulgently, as the spider to the fly.
+
+“Have you heard of the Sword Saint?”
+
+“The Sword Saint? The man who tore my flesh from me in chunks? Who savagely pierced my holy body with sword light? Who ravaged the marrow from my bones? That Sword Saint?”
+
+“Yep, that’s the one. So, uh—look, I get that this is pretty rude, since he, y’know, hammered you and all—”
+
+“He used a sword.”
+
+“Figure of speech. But you know. Uh. Did you, er, happen to see what happened to him? Afterward?”
+
+Lord Ravin took a slow breath.
+
+Rhys watched it inflate his lungs, then toreh is eyes away, disgusted with himself. I know I’m going to hate it, so why do I watch it anyways?
+
+“After,” Lord Ravin said, “he tore the flesh from me in chunks, savagely pierced my body with sword light, and ravaged the marrow from my bones, after all that,”
+
+“Yep, that’s it,” Rhys encouraged him.
+
+“You want to know how the Sword Saint is doing?” Lord Ravin’s tone descended into a sneer as he spat the last few words.
+
+“I mean—not still doing, I didn’t think you’d know, but, uh, yeah! Yeah. More or less.”
+
+“Go to hell.”

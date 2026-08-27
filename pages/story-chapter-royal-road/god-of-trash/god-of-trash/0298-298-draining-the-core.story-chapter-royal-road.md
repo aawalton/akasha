@@ -1,0 +1,57 @@
+---
+id: c456352b-5fd8-516d-826a-166fad687f26
+page-type-slug: story-chapter-royal-road
+title: "298. Draining the Core"
+slug: 0298-298-draining-the-core
+partOf: god-of-trash
+position: 298
+ownLength: 1615
+unit: words
+publishedAt: 2026-04-10
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3257680/298-draining-the-core"
+royalRoadId: "3257680"
+---
+
+Luc’s core was shriveled. It was withered and exhausted, its walls flagging. It only swirled due to the mana flowing in from Bast; without Bast to prop it up, with Rhys interrupting the flow between their cores, the mana immediately began to stagnate. The longer he looked around, the more horrified he became. Luc might look fine on the outside, but it was only because he was constantly irrigated with Bast’s mana.
+
+The man was dead. Fundamentally, Bast’s mana was doing the equivalent of constantly running formaldehyde through a corpse. Bast’s life force and mana were propping up Luc, who was essentially no more than a flesh puppet. Luc must have died between when Rhys had encountered him in the Empire and now, but that made sense; even at a glance, he could sense that this ‘technique,’ this… temporary propping up, was no more than that: temporary, and that Luc was already starting to fade in an irreversible way.
+
+Besides, Luc had been horrifically injured in his battle against Lord Ravin. After that, unlike Lord Ravin, who was still hiding away under the ice long after Rhys’s battle with the Empress, Luc was being forced to run around all that time by Virgil. It wasn’t at all shocking that forcing someone so badly injured to continue to fight and be active as though he was healthy would push him into death. Virgil had put Luc under his control, but then he should have allowed the man to rest and heal anyways, when he had instead forced him to fight Rhys and the Empress almost immediately. Either Virgil hadn’t cared, or had overestimated the man’s hardiness, but either way, he’d run Luc to death by acting in such a callous way.
+
+A faint scrap of consciousness brushed against his, and Rhys turned. In the darkness surrounding Luc’s core, a pale figure stood in white robes. His black hair reached his belt, and his eyes were quiet, placid.
+
+Instantly, Rhys knew who it was. This was the Sword Saint, or rather, Luc. This small shade was all that remained of him: a wavering ghost even within his own core, where he should have been near-all-powerful. He had anticipated a struggle when he’d entered Luc’s core, a battle between Luc’s mana and his impurities, but with the shape Luc was in? It wouldn’t be a battle at all. In fact, he had to convert some of his impurities to mana on the spot and push them into the core, to keep the orb from collapsing before he extracted Bast’s mana and potential from it.
+
+Luc looked at Rhys and bowed. They didn’t have to exchange words. Just looking at that sad, faded figure, Rhys knew what he was requesting. This man had once been so proud, so powerful. He’d stood on top of the world, his sword in his hand, and no one had dared to counter him. But now he was laid low, brought down by trickery to this pathetic level, ground under the thumb of one so much lesser than him that he hadn’t even registered as a threat to Luc until it was too late. It was a lesson, a reminder. No matter how powerful they got, no matter how far at the pinnacle they stood, there was always a way to drag them down. Both him, and Rhys, and Bast as well. Rhys locked the image into his mind, binding it to the lesson Luc intended to teach. No one was all-powerful. No one was immune to the traps of others, even those they considered beneath them.
+
+Although, in his case, it was more of a looking-upward lesson. No matter who they were, no matter how powerful… there was always a way to sneak in under their guard and drag them down.
+
+The shade stood, and Rhys bowed back, accepting the man’s will. He would release him from this tortured, rotting flesh, and finally allow him to rest.
+
+Logic? Emotion? They didn’t come into it at all. The decision was out of Rhys’s hands before he’d ever intervened. There was no such thing as saving Luc. The only way to save him anymore was to put him to rest.
+
+A faint pang of regret shot through Rhys’s heart. If only he’d been able to intervene earlier, he might have been able to save the Sword Saint as well as Bast… but it was too late. There was no time for regrets. From the moment Virgil had taken control of the Sword Saint, it had been a ticking time bomb until Luc had died, and no one had been aware of how tentative the situation was aside from Virgil and Luc himself—and Rhys wasn’t sure about Virgil. The man just didn’t seem to care enough to pay enough attention to realize that Luc was in trouble. And if Bast told him… well, he’d already been dismissive enough of Bast that Rhys had seen. That kind of behavior was probably standard with Virgil, so the chance he listened to any underling, let alone one he considered under his control, was just about zero.
+
+Yeah, Virgil is a problem with a capital P. We’ve really gotta put him down. He took a deep breath, then reached out. He didn’t grab the shallow pool of mana in Luc’s core directly, but instead activated his path. What he wanted was what Virgil had thrown away into this corpse, the potential he’d dragged out of Bast and turned into garbage by forcing it into Luc. Rhys called out to it, then waited. For a time, there was nothing. There was precious little mana in Luc’s body to begin with, and it faded rapidly outside of his core. If he’d been an ordinary mage, he wouldn’t have been able to draw back Bast’s potential at all. It would’ve long-since melted into Luc’s corpse and vanished.
+
+But he wasn’t an ordinary mage. He did best with trash: the abandoned, the tossed-aside, the filthy, the spent. Thus far, he’d focused on abandoned and filthy, but something ‘spent’ was garbage as well, wasn’t it? A dead battery landed in the trash. An empty soda can, a chips wrapper, even a corpse—they were all thrown away. Previously, he’d done a little experimenting with trashromancy (aka trash necromancy) and a little bit of trash re-enchantment, but this was far more complex than either of those. He wasn’t simply trying to make a corpse move, or restore an enchantment to a magic device. He was trying to drag something ephemeral that should have long since faded away back out of the corpse it’d been shunted into, restore it to its full power, and replace it into his friend.
+
+Come on. It has to be here somewhere! He called harder, pushing his impurities deeper into Luc’s corpse. It didn’t much matter if he impurified Luc; the man was already dead, and slowing the mana moving through his dead body only made it easier for him to dodge the man’s attacks. Quickly, he invaded the man’s entire body, until he had full control of Luc, and drew him to a halt. The man was no longer a threat to himself or anyone, but he couldn’t simply lay Luc to rest. He still needed Bast’s potential back.
+
+He pulled again, calling harder. Something, anything, that felt like Bast. A single scrap of energy. As long as he could sense that, then he could start moving forward. Anything—
+
+There! In Luc’s heart, there was a glimmer of Bast’s energy. It wasn’t just mana or life force, but something else. Something he couldn’t quite grasp or wrap his mind around, but nonetheless, something that doubtlessly existed!
+
+He grabbed it and pulled. It didn’t want to come. He pulled harder, struggling with all his might, and felt it begin to tear. Immediately, he let up. Brute force wasn’t working. He needed something else.
+
+Rhys thought for a second, then reached out with his path instead, calling out to the nature of that fragmented, delicate energy. It was trash. It had been thrown away. It belonged under his purview.
+
+Instantly, he felt something reject him. Not the energy, but something else. Something he’d never felt before. An all-encompassing, inescapable force, a wall made up of something beyond his comprehension. Immense authority roiled off that blockage, far outstripping anything he’d ever felt before, even considering when he’d felt the auras of those far more powerful than him. He pushed against it harder, and it pushed back, refusing to bend. You will not, it said. This cannot be done.
+
+Rhys frowned for a second. Why? What was it that was blocking him so vehemently? Virgil? But Virgil wasn’t that much more powerful than him. Certainly not at the level of ‘beyond anything he’d felt before.’ Even considering that Virgil had marked Luc, he shouldn’t have this much authority over Rhys like this.
+
+Wait, hold on. Imposing authority, beyond anything I’ve felt before. Denying me when I press the limits of possible. Is this… is this ‘the will of the world?’ The protective guardrails of the world or System, preventing me from doing something the world thinks I shouldn’t be able to? Or… something like that?
+
+The world itself was trying to stop him from saving his friend. Rhys bared his teeth in a savage grin. That only made him want to succeed even harder. Virgil was against him, the Alliance was against him, and now the world itself? Well, they could all go fuck themselves! He was going to do this by hook or by crook, whether they wanted him to or not!
+
+No, the world said. And it came down on him like a hammer.

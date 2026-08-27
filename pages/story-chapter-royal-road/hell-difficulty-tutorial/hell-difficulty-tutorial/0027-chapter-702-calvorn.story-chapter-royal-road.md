@@ -1,0 +1,157 @@
+---
+id: 8d3ac517-2d3b-59ed-bddd-e8ac495358ea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 702 - Calvorn"
+slug: 0027-chapter-702-calvorn
+partOf: hell-difficulty-tutorial
+position: 27
+ownLength: 2248
+unit: words
+publishedAt: 2025-12-01
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2810457/chapter-702-calvorn"
+royalRoadId: "2810457"
+---
+
+The huge block of metal with its green patina slides aside, and we step into the light, entering a half-spherical chamber built from the same type of blocks. At the center rests a golden barrier, shaped like a sphere and interwoven with a mesh of metal made from the same material as the walls.
+
+At the center of that golden barrier floats a single sword. Hovering above a disc no wider than a plate and no thicker than two fingers pressed together. The disc looks to be made of gold and is covered in a dense scrawl of inscriptions. The sword hangs just a palm’s length above it, slowly rotating as its tip points toward the disc.
+
+At first glance, the weapon seems almost beautiful. Its long blade has been forged from darkened steel and polished smooth, with faint red veins running its length, like dried blood or rust. In the right light, the veins glow faintly, as if something alive were resting within the metal. Golden inscriptions spiral from the hilt toward the tip, written more like a flowing text than functional inscriptions, though many of the words break off or end unfinished.
+
+The guard and hilt come together in shades of silver and black, the hilt itself wrapped in black leather trimmed with silver. A pale stone has been placed in the pommel, cracked but still glowing faintly, letting out a golden light that feels almost sacred.
+
+Then the blade speaks.
+
+Its surface splits down the middle, parting along its entire length, the steel opening like lips. And inside are rows of jagged teeth grinding faintly against each other as it speaks, and its wet tongue writhes free before pulling itself back. The sword’s voice is that of a young girl, a tone that feels completely wrong considering what it is.
+
+“Ah, brave adventurers, thank you for coming to save me! It is I, the ego sword Calvorn the Ever-Thirsting Fang, Bane of Oathbreakers and Warden of Forgotten Screams, the evil-slaying weapon!”
+
+Everyone turns silent, just staring at the sword. Some more present, like me and Vic, examine the room for the possible traps. I really wouldn't want to find myself locked in here with whatever that thing is.
+
+“You look pretty fucked up. How can we be sure you’re not an evil weapon?” Malika calls out, refusing to let the strangeness of the situation silence her.
+
+“Oh, you bitc… I mean, surely you know the saying about how appearances can deceive. What matters is what’s on the inside!”
+
+“Honestly, I don't care. I think we’re supposed to be destroying you.”
+
+“You are?” the sword asks.
+
+“I guess.”
+
+“So I wake after millennia, only for some demon to threaten my destruction over my looks. Don’t you find that incredibly unfortunate, tantamount to condemning me upon mere appearances rather than my noble essence?”
+
+“I don’t think so?” Malika tilts her head.
+
+The blade snaps shut, and the hovering sword falls silent for a few moments.
+
+When it speaks again, its voice is different. Instead of sounding like a young girl, it now resembles that of a handsome young man.
+
+“Beautiful young demon lady, surely we could form a contract that would benefit us both. I have so much power to offer. Not to replace your own, which is of the utmost importance, but to help you challenge foes far more dangerous than yourself. Ones you thought you would face only years from now.”
+
+Malika opens her mouth, then closes it again.
+
+I watch her with curiosity. There’s no way.
+
+The ego sword Calvorn the Ever-Thirsting Fang, Bane of Oathbreakers and Warden of Forgotten Screams, the evil-slaying weapon, continues in a deeper tone. “Think of it. Your hand guiding, my edge biting. People to cut, monsters to carve open. Together we could carve a trail through many beautiful battles.”
+
+There is no way this demon would fall for something this cheap.
+
+“M-Maybe we shouldn’t destroy it yet,” Malika says, turning to me.
+
+“Come on, get yourself together.” Weslin shoves her aside and steps in front of the golden barrier woven with metal mesh, raising a finger to point. “Let’s figure out how to take this down so we can destroy that thing. We are not staying here any longer than necessary.”
+
+The sword’s voice shifts back to that of an innocent girl. “You bald bastard, you shiny-headed fuck, why would you want to destroy me? Use me, I am a powerful evil slaying sword! And if you’re really such a cowardly little shit, just sell me. I can endure that much disgrace, to be sold like one of those pathetic…” it makes a gagging sound, “hurk-ghhk-ughkkk, pathetic common iron swords.”
+
+“Sure, just tell me how to take down the barrier so I can take you,” Weslin replies, unmoved, and with his intention clear.
+
+“Consume a dick, baldie.”
+
+“Come on, I want to save you, but I can’t exactly lower the barrier without you.”
+
+“I hope your dick falls off, even though I doubt it finds much use with a face like yours.”
+
+Damn.
+
+And I’m not the only one thinking it either. I even hear a few demons snickering behind us, though they fall silent when Weslin turns around.
+
+“Nathaniel, do your thing and just bypass the barrier or something,” he says.
+
+“I tried examining it, but I don’t think I can manage it,” I say.
+
+“Then do you… you know… that thing.” He gestures at my halo, where I'm currently accumulating mana, then taps the black belt tied at his waist.
+
+“May every drink you take taste like piss, you bastards!” the sword shouts before I can respond. Its blade splits again, teeth and tongue flashing as it continues screaming insults at everyone, even the bystanders who haven't said anything yet.
+
+As before, every time it does, I feel it pulling at the surrounding mana, just a tiniest little bit, limited by the barrier surrounding it. Even though the barrier shouldn't be allowing it at all, but looking closer, a mesh of metal wires coated in green patina seems close to breaking after all these years.
+
+Relatively close. Though it’s still so strong that I currently have no idea how I’d go about breaking it or getting through, but I’m still working on it. At its peak strength, the barrier must have been truly something.
+
+I wonder if it could pull mana directly from me if not for the barrier. I also wonder how it would compare to my black mana.
+
+Victoria voices the thought I’ve kept to myself so far. “Are we sure we want to remove that barrier before confirming we can actually destroy it? Amusing as it is, the sword likely possesses considerable intelligence. Its display of harmlessness or childishness is almost certainly a calculated attempt to provoke a reckless decision.”
+
+This time, the sword says nothing, but its mouth hangs open in something reminiscent of a soundless laugh.
+
+For some reason, I feel as if it’s been staring directly at Christoph, who has been sitting before the barrier the entire time with his elbow on his knee and his chin resting on his palm. He remains silent, not looking at the barrier itself but through it, right at the sword.
+
+And just like Victoria recommended, it’s been decided. We will examine the barrier and the room around us, posting guards at several key points, especially keeping an eye on the closest teleportation arrays that everyone’s still refusing to trust.
+
+“Nathaniel,” the evil slaying ego sword Calvorn calls to me. I note how it purposefully makes its voice resemble Victoria’s, likely having deduced our relationship. “You seem to have a lot of mana. Why don’t you feed me a little? Aren’t you curious to see what would happen?”
+
+I notice its tone is very different from before. Where it once acted childish and silly to make others underestimate it, now it speaks to me with logic and reason. It must have picked up on my curiosity, since it’s been almost a full day and I’ve been examining the barrier the entire time.
+
+“Feed me your mana, Nathaniel. Through the mesh, through the cracks, so I can drink it. In return, I will whisper the secrets hammered into my steel. Aren’t you curious?” it says.
+
+“A bit,” I admit. “But tell me about your master, you mentioned something about him to Victoria when she talked to you.”
+
+Even though it is just a sword with a mouth, it seems to perk up. Its voice shifts again, becoming more excited and taking on the tone of the young girl we heard when we first arrived. “My master always comes back. Nobody, not even death, has stopped him yet.”
+
+“Does your master need you?”
+
+“We need each other, our bond is just that strong, we make each other whole. The hand that forged our bond will grip me once again.”
+
+“And what happens to us when he finds us here?”
+
+“When he comes, you will split, crack, bleed. His strike through me will cut you all down,” the sword answers without hesitation.
+
+“Is it a good idea to be telling me that?” I ask curiously.
+
+“Would you believe me if I said otherwise?” Its voice grows quieter. “I will always be honest with you, Nathaniel, even if the truth is not in my favor.”
+
+“Aren’t you just a bit too good at reading people?”
+
+The blade splits again, and that unsettling laugh echoes out. It is a warped sound, a blend of a young girl’s giggle, Victoria’s tone, and metallic grinding. “I have observed so many people in my time. Hundreds, thousands. With my master carrying me at his side, I watched them all. You learn much that way.”
+
+I study the sword for a long moment, questions swirling in my head. “How old are you?”
+
+“Very old. But it is difficult to estimate after being trapped here for so long.”
+
+“Who trapped you here? What is this place meant for?”
+
+The mouths snap shut, and when the sword speaks again, its voice is calmer. “I can tell you everything. Just feed me your mana, Nathaniel, and I promise to answer all your questions and more. What this place is, who the companions were that betrayed my master out of fear of our strength, which Rulers we followed and met in those distant years, and much more.”
+
+If I were alone, I would probably have already given this thing half of my mana right at this moment.
+
+With a sigh, I lean back and stare at the tall ceiling. Whoever this sword’s master was, he must have been powerful enough to follow in the footsteps of the Rulers who once explored the First Dungeon. That would make him an Absolute. I wonder how much of him remains, and how the S-rank group is faring. I wonder if Calvorn’s master is the same person who created those black weapons with the Blood Receptacles.
+
+That theme repeats itself here. Blood. Weapons fueled by it, teleportation arrays powered by it. This ego sword also hints that its master was likely a craftsman who discovered something new while working on his weapons. There’s a word that repeatedly comes to mind, one I could use to name it. Yet I hold back from saying it aloud for now.
+
+When Weslin steps to my side to tell me something, it is Calvorn who speaks first, shifting into a voice identical to the bald man’s. “Weslin, why have you been shaving off your white hair?” it asks.
+
+At that moment, the man next to me freezes in shock, whatever he wanted to say now stuck in his throat.
+
+The sword laughs in a perfect copy of Weslin’s laugh. “Ah, I can smell blood purified by your heart. Are you really so ashamed to be one of them? Do you really hate them that much? But then why do you still travel with so many of them?”
+
+Before the sword can say more, a signal comes from one of our patrols. I translate it as one person approaching.
+
+That person enters the chamber before anyone can stop him. Even with bulky metal armor and a huge backpack, the lumoran moves faster than our patrols and steps inside.
+
+“Daaaaaamn, that’s a lot of containment barriers,” the lumoran says first, letting out a loud sigh as he drops his bag on the ground. “I hate that this is the second time I’ve had to say it today.”
+
+I notice wider parts of his armor have been cut away, along with parts of his bag, which now looks patched. His entire left sleeve and part of his leg plate are missing, but his body has already healed. It seems the teleportation arrays sliced him when he failed to fit inside completely.
+
+“Hello, good fellas. My name is Brich, and we'd better destroy that cute sword over there, unfortunately. As much as I’d love to play with it, its fucking owner is coming.”
+
+“I’m going to need to hear more than that,” Christoph says calmly, even as he blocks the lumoran’s path with deliberate steps.
+
+“Oh, quick story. I’m one of the S-ranks sent to destroy this sword’s master. Unfortunately, we failed spectacularly,” he laughs it off. “Their presence jumped into Nyssa, who fucking murdered poor Lyraen. Wasn’t he supposed to be the strongest, by the way? Anyway, may the little guy rest in peace. But man, we'd better hurry before she gets here and fucks us all up.”

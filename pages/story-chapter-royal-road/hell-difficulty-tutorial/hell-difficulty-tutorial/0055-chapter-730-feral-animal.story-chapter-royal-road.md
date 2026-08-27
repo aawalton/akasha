@@ -1,0 +1,115 @@
+---
+id: 7add5eb5-67b0-5a82-8388-6986ce0c1000
+page-type-slug: story-chapter-royal-road
+title: "Chapter 730 - Feral animal"
+slug: 0055-chapter-730-feral-animal
+partOf: hell-difficulty-tutorial
+position: 55
+ownLength: 2364
+unit: words
+publishedAt: 2026-01-15
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2946914/chapter-730-feral-animal"
+royalRoadId: "2946914"
+---
+
+POV Nathaniel
+
+The secret base isn’t as populated as I thought it’d be. I think the final tally lands somewhere around fifty people, or at least that’s all that remains of the Eternal Court. Everyone else is either dead, left the guild, or scattered across the other floors. Even from these remaining numbers, only around ten percent are what I’d think of as Locals, with most Locals tending to be on the smarter end of things, they probably left in greater numbers.
+
+But Morwag doesn’t let that fact stop him at all, and he doesn't bother to differentiate between them and the attendees. Not that it could truly be called a fight, since he just gets rid of everyone. But the longer it goes on for and the lesser the challenge, the more I start to sense him glancing my way.
+
+Meanwhile, I point out directions, eventually directing him to the treasury, at which point I take the most valuable of the smaller items for myself, and send the rest to a depot outside through one of the many Ley Lines I’ve been stretching out behind me.
+
+And we do find some interesting low-arcane items, but I can’t bring myself to give them the same kind of attention I would have not long ago. Unfortunately, so far, I’ve seen nothing higher ranked than that. Well, at least not in the treasury. We found a few better items on a couple of the bodies. But even with mid-arcane items, these people didn’t last more than a few seconds, having been surprised by intruders in their own base. Though some of them sensed us from further away and caused more of a racket before they died.
+
+Funnily, the part of the base that shields it from being located from the outside also makes it difficult for detection-type skills to work through all the strange shielding alloys they’ve used. I can tell by how much trouble they give my senses, especially my more mana based ones. There are protections against thermal and kinetic scanning as well, but not to the same extent. I'm not that surprised by the lack of shielding against primordial senses. After all, our guild does have most of the experts on primordial energy.
+
+So we move, swift and deadly. I try to avoid touching anyone with my mana, other than to sense them, to avoid gaining any shared experience for the kills, and Morwag just kills his way through.
+
+Before long, we find ourselves in the most heavily shielded part of the base. It almost looks like a second, smaller hideout within the larger one as we stop in front of the circular metal door. Morwag doesn’t wait for me to try opening it. He slams his fist against the center, sending a burst of binding energy through the door, reducing it to a pile of metal shavings scattered across the floor.
+
+This time, an alarm rings out, and I raise my attention, quickly cutting off any new attempts at teleporting away and sending a new wave of scans inside, throwing all thought of stealth aside.
+
+Both me and Morwag realize at the same time that this is the only entrance to this place, especially now with the arrays disabled. As we pass through the arch where the door used to be, Morwag turns back to the entrance he made and spreads his arms wide open before slapping his hands together in a single sharp motion.
+
+The metal of the walls reacts to his gesture and, like a crumpled ball of tinfoil, bends and seals shut, sealing us off from the outside.
+
+This time, I keep a bigger distance between us and follow behind, sometimes leaving him to go into rooms to loot them while Morwag fights, taking his time against the more feisty opponents we’ve found.
+
+The metal around us creaks as shockwaves rip through the tight space tear apart my eardrums multiple times. Explosions bounce off the walls only to grow stronger, and all the while, I’m looting private rooms, workshops, and storage, finding much better materials as we go, which I send out with the rest of it. I also don’t forget to keep cutting off any attempts at teleportation outside.
+
+Multiple defensive arrays activate, too, but all of them focus on Morwag, allowing me to move around with relative freedom.
+
+A couple of times, someone tries to burrow through the walls to dig their way out toward the surface, but each one is swiftly hunted down by the most demon demon to ever demon.
+
+The explosions intensify, and the waves of binding energy from Morwag do as well, signaling that the fights are quickly coming to an end.
+
+At that time, I turn to my Ignition Heart and start transferring more thermal energy into mana. I also start gathering a good amount of kinetic and thermal energy on the side. I decide not to risk it and don’t use the Thermal Cycling I have started developing, and instead keep to my old ways of handling it.
+
+While working through these preparations, I still make sure to send all the most valuable items out of the base. I eventually find what seems to be the guild master’s private treasury, with its wall broken by the fight and the inside exposed. From there, I gather all the items, among them multiple mid-arcane and even a few upper-arcane items as well. As much as I want to start examining them right on the spot, I leave it for the next time and send them out before heading out to see how the battle’s been going.
+
+A barrier flickers around me while the debris and energies swirling wildly inside clash against it, and I walk around the corner to take a look.
+
+It is a mess, with Morwag facing that guy who seemed oh so charming during the Beyond event in the Armory. Now, even though he is just an A rank, he seems to be handling Morwag pretty well, though I think all of it can be attributed to the low pristine item he risked so much to get. An item that could have helped him destroy the competition once his tutorial ended, helping him become Absolute by being the only powerful individual left standing.
+
+The low pristine item he is wearing is a suit of armor that seems to have been constructed from a transparent white plastic-like material. And inside the chest plate, is a thicker spot where three hearts have been set in no particular pattern. There are a few more hearts as well, one in one of the legs of the armor, another in the shoulder, and one more at the crown of the helmet. I don’t even bother to count them.
+
+The hearts are all covered in blood, contrasting strikingly against the translucent white of the armor. They even continue to pump blood through a series of channels etched throughout the armor, allowing some to escape from the top of the helmet and form a set of long horns that seem to be formed entirely of blood.
+
+Weirdly, as much as I’d been expecting, the hearts don’t seem to be generating any primordial energy, confusing me as to why there was even a need for real demon hearts. It makes me think he might not be using the armor to its full potential.
+
+Instead, it seems like the armor might simply be converting the primordial energy into something else, if it’s even using it at all, perhaps it’s relying instead on the vitality of the hearts to power itself.
+
+And power it has.
+
+Standing there, dressed in the armor, the Eternal Court’s guild master is actually slightly taller than Morwag, and each of his attacks throws the demon against the wall or easily overpowers him in raw strength. And the suit’s speed is impressive, even though it might not seem like it, particularly since the pilot simply doesn’t have proper instincts, perception, or experience to operate at such high speeds.
+
+Each attack Morwag lands against the armor only ripples across the surface, causing the hearts to beat faster. Even his attempts at unbinding it don’t seem to be doing anything, as if his primordial energies are simply refusing to work properly, either because of the armor itself or the material it’s made from.
+
+But each time, after each new attack that throws him against the wall or sends him crashing through the rooms, Morwag just stands back up, his smile growing wider and wider the longer they fight. His clothes are torn to shreds by now, leaving his upper body bare and revealing a set of muscles that look like forged steel, and even after all that, he doesn’t seem to have sustained a single wound.
+
+The demon screams something, the guild master shouts an insult back, and they crash against each other again, forcing me to put up a barrier to block yet another shockwave. The metal walls around us begin to crumble and groan like a submarine diving too deep, on the verge of being crushed by the pressure.
+
+It continues like this for another minute before, after yet another punch, Morwag doesn’t stand up and simply lies there in the pile of debris he fell into.
+
+“Hahaha, that’s it? Is this really all the famous Morwag can do? DO YOU FINALLY UNDERSTAND YOUR PLACE, YOU FERAL ANIMAL?” the guild master shouts as he starts laughing in mixed excitement and relief. He moves his hand and touches his forearm, as if typing at something.
+
+The hearts inside begin to beat faster, sending blood surging through the transparent white material, while the blood red horns lengthen and the pressure radiating from him intensifies.“I’ll tear out your fucking heart and add it to my armor! It will make a fine addition to my collection...”
+
+His words freeze as the dust rising from where he threw Morwag begins to settle, revealing the demon buried in the ground, as if he were just taking a lazy moment after a fall. There isn’t a single wound on him, but his expression is different now.
+
+“That’s it?” Morwag asks, his red eyes glowing from behind the hair falling across his face. “I thought you said it would get stronger the longer we fought, but instead it feels like you’re starting to feel weaker and weaker.” As he stands up, the debris around him crumbles and falls away. Gone is the maniacal grin. In its place is a level of anger and disappointment that feels far more terrifying.
+
+“You…” the guild master starts, but he doesn’t even get to finish before Morwag is suddenly in front of him, the air shaking with a heavy thump from the speed of his motion.
+
+This time, the punch feels different. Morwag slams his fist into the chestplate, making the guild master stumble back. There’s still no visible damage, but a stronger ripple than before spreads through the armor, and one of the hearts in the leg explodes, splattering blood inside the transparent material.
+
+Morwag punches again, sending the man reeling, and another heart bursts. Before the guild master can even react, Morwag starts to pummel him relentlessly. Every attempt at defense fails as the demon catches his arms, twists them aside with ease, and drives his fists into him again and again. No matter how the man struggles or tries to strike back, Morwag controls every move, handling him like a toy in his grip.
+
+He keeps slamming him against the walls and beating him without pause until each heart within the armor detonates one by one, taking the damage in place of the armor and the man trapped inside it.
+
+Only then does the guild master manage to mumble, “P-please, wait just a mo-”
+
+He doesn’t finish. The demon’s massive arm punches through the chest plate and into the man’s body, then rips his heart out in one brutal motion.
+
+Right in front of the dying man’s wide, disbelieving eyes, Morwag lifts the slowly beating heart to his face. He doesn’t even give it a light sniff, instead, he takes a long, deep breath, even smearing the tip of his nose with blood as he presses it against the heart.
+
+Then he smiles. “So weak,” he says, crushing the heart in his hand as he watches the man die, sinking to his knees, and toppling to the side. As Morwag looks down at him, his hair slips forward, hiding his face from my view.
+
+Silence fills the room as I begin gathering more mana and partially activate several arrays while splitting my mind into a set of combat-oriented subminds.
+
+I can’t see his face, but Morwag’s voice alone is enough to tell what his expression has turned into.
+
+“Nathaniel,” he says, “you would be more fun to fight, right?”
+
+He still doesn’t look my way. His upper body shakes a little as a laugh slips out. “You wouldn’t let me down like this vermin, right?”Finally, he turns to me, his face lit by the flickering light of the ruined base, and for a moment, his expression freezes when he sees mine.
+
+I'm not sure what expression I'm wearing that gives him pause, but I answer, "What do you think, bitch?"
+
+Before he can move, I hurl every scrap of mana I’ve been gathering at him. Morwag stands there for a moment before he is flung away at high speed, breaking through steel walls. Only later does the shockwave arrive, too slow to follow.
+
+My raw mana surges out like a tidal wave, destroying everything in its way. The walls shatter as they cease to exist, torn down to nothingness. The air distorts with the sheer force of the shockwaves bouncing through the base until they finally start to weaken, and open up a view of the sheer scale of the destruction around us.
+
+Then there is silence. The light dies slowly, leaving the base trembling and the air thick with the hum of fading mana.
+
+Even then, I don't stop, not for a moment. More mana floods my body and coils around me as I spin it, unleashing a barrage of attacks on the demon.

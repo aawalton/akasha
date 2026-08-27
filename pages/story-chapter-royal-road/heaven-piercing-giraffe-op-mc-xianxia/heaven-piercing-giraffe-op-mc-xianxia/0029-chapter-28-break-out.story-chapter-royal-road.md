@@ -1,0 +1,231 @@
+---
+id: cd93d2e5-e9f0-5769-9673-e9a6a72eebf0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28: Break Out"
+slug: 0029-chapter-28-break-out
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 29
+ownLength: 1587
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3861038/chapter-28-break-out"
+royalRoadId: "3861038"
+---
+
+Chapter 28: Break Out
+
+I looked at the man all in black standing in front of me.
+
+Unlike Genrik, whose face I'd only recently bothered to properly catalogue, this one had features that were more defined. Below him, Fly lay on the ground, foaming at the mouth like a crab, eyes all white.
+
+"Is he your skill?" Gwyn whispered from behind me, her chin resting against my shoulder.
+
+I considered this. He looked human. "I don't know."
+
+"Thought so." She sighed. "Anyway, can you ask him to collect all the metal he can find?"
+
+I opened my mouth to relay the request.
+
+Before I could, he was already moving to the door in three long strides. He gripped it and pulled it. A series of sharp clanking sounds accompanied the metal tearing free of its hinges. He moved back to us and dropped it at our feet.
+
+Then he knelt, offering the bundle of red flowers up to Gwyn with both hands.
+
+She looked at it for a long moment. Then at him.
+
+"Can you get more?" she asked.
+
+He stood, bowed at the waist, and moved past where the door used to be without another word.
+
+"I think he likes Gwyn," Mei observed from somewhere behind us, delighted.
+
+"You know him?" I asked Gwyn.
+
+"Obviously not." She smacked the back of my head.
+
+The Jade women closed in around us then, a ring of opinions forming almost instantly.
+
+"But don't you think he's cute?"
+
+"Lucky."
+
+"Do you think he'd notice me if I asked nicely?"
+
+Screams from a distance interrupted the discussion. He'd returned, carrying two more doors this time, dropped them beside the first, and knelt again. He offered the same bundle of flowers to Gwyn a second time.
+
+The women screamed.
+
+Gwyn pressed two fingers against her temple. "Now is really not the time for this." She extended her hand toward the stacked metal doors, reshaping them, elongating, until what stood before us was a long, unwieldy shield.
+
+I looked at it. "I see." I tilted my head. "Sometimes you do stupid things too."
+
+She hit me again, harder this time. "Anyway, everyone, carry this in front of us." Then she pointed toward the man in black. "And you hunt them down. Are you all right with that?"
+
+He took her extended hand and pressed his lips to the back of it. "Of course."
+
+Gwyn stared at her own hand for a moment, expression flat. "Same as you. Your skill's weird too."
+
+"Was he really my skill?"
+
+[Yes.]
+
+Gwyn pulled her hand back. "Now let's move."
+
+"Ehm… how are we supposed to fit this thing through the doorless door?" one of the women asked, eyeing the impossibly wide shield.
+
+"Walk sideways? Or go smash a wall, if you'd rather." Gwyn's voice climbed a note. "You people complain a lot."
+
+The man in black turned, walked directly at the nearest wall, and broke straight through it.
+
+Gwyn sighed. "He's just as literal-minded as you are."
+
+We followed him through the new opening, and the one after that, as he simply kept walking through whatever stood in his path.
+
+Outside, the night had gone fully dark, a full moon hanging low over structures taller than anything I'd seen… but not as tall as my original height. I took pride in it. Humans on the street stopped mid-motion to stare at us as we emerged.
+
+"Is that... a breakout?"
+
+"Why'd the raiders even bother taking that lot? Useless-looking bunch."
+
+"Can't they just behave and stay put?"
+
+"Wow." Gwyn's arms tightened around my neck. "Talk about harsh."
+
+Thunder answered before I could think of anything to say back to them. A great deal of it, all at once, and the street emptied in seconds, humans scattering into doorways and side alleys.
+
+The man in black stayed exactly where he was, unbothered, and walked toward the nearest man still summoning thunder.
+
+The man backed up, weapon raised, firing again and again, voice cracking. "What the hell are you?! M-Monster!"
+
+The man in black face-slapped him.
+
+It didn't sound the way face-slaps had sounded before. Not the sound of broken pride or dignity. This one made an awful sound and a snap. The man's head tilted to an angle heads weren't meant to tilt to, mouth still working uselessly before he dropped.
+
+I felt something in my stomach turn over.
+
+The rest scrambled backward, thunder cracking wildly, uncoordinated now.
+
+"Keep your distance!"
+
+"Someone circle around and grab a hostage!"
+
+"Why don't you do it, idiot?!"
+
+"Fuck you!"
+
+"Somebody get the boss!"
+
+"I'll go!"
+
+"No! I'll go!"
+
+One of them broke and ran. Looking past the shield the Jade women were still pushing, I noticed that some of our opponents were women too.
+
+Then something crashed onto a rooftop before us.
+
+A man stood there, wrapped in drifting mist, slightly translucent at the edges, like something not fully committed to being solid.
+
+"Genrik really did find their boss," Gwyn said.
+
+The boss dropped from the roof.
+
+The man in black kept walking, unconcerned.
+
+One of the fleeing men shouted, "I'm not dealing with this shit!" and bolted.
+
+The man in black closed the distance in a single sprint, caught a fistful of the man's hair, and wrenched his head around to face him directly.
+
+"Don't run." He face-slapped him.
+
+The others stopped moving. One who was about to run, foot raised, also stopped and did not drop said foot. They trembled, several of them whispering the same word under their breath. "Fuck..."
+
+The man in black continued forward, passing the first woman in his path without touching her at all. Then the second.
+
+"Hey. He's skipping the women." The boss grabbed an arm beside him. It was Smoky.
+
+"Boss, we're both men here, that doesn't improve our situation." Smoky kept firing.
+
+"The ones he's skipping, get close! Aim for his head!" the boss shouted.
+
+"What if he face-slaps us instead?!" one of the women protested, already retreating slowly rather than advancing.
+
+"He's acting like some wannabe gentleman who won't lay a hand on a girl! It's just a face-slap! Do it!"
+
+"A normal face-slap from some arrogant young master, sure!" She pointed at the row of unconscious men behind her, several of them foaming at the mouth. "Not that!"
+
+"Useless! All of you!" The boss ripped the rifle out of Smoky's hands and fired himself.
+
+The men in black's head wobbled nonstop. The barrage stopped. He kept walking.
+
+"Monster." The boss gritted his teeth. "Fine! Take the girls hostage instead! Surely they are less scarier than that man right?!"
+
+The two women nodded at each other, split off to either side, moving as far around the man in black as the street allowed, circling back toward us, weapons raised at our own group. "Stop!" one of them shouted.
+
+The shield froze in place. The man in black stopped, mid-stride.
+
+I felt Gwyn go very still against my back.
+
+"Get that shield out of the way!" the boss barked. "If that bastard dares retaliate, I want a clean line straight through the hostages!"
+
+"Boss, it's heavy!" one of the women strained visibly against it.
+
+"Then drop it! Just let it fall! My god, is anyone here actually thinking?!"
+
+They didn't argue further. They simply let go.
+
+It hit the ground hard, throwing up a cloud of dust that briefly swallowed everything. When it cleared, every weapon in the street was pointed directly at us.
+
+I felt Mei's hand find mine, small and cold, and gripped it back.
+
+"We won." The boss grinned, clapping Smoky's shoulder. "Go tie him up."
+
+"What if he face-slaps me?"
+
+"Just do it."
+
+Smoky stepped forward, boots dragging through the dirt with each step.
+
+I watched him walk.
+
+Tap. Tap. Tap.
+
+The ordinary sound of a busy street returned, blending into nothing. I looked around. The street was still empty.
+
+"Henry." The boss's brow furrowed. "Do you always walk that clumsily?"
+
+"What are you on about, boss? Even I trained to walk efficiently."
+
+"Then what exactly are these footsteps I keep hearing?"
+
+It was Genrik.
+
+He appeared behind the boss, a dagger already resting flat against his throat.
+
+The boss's whole body went rigid.
+
+Every weapon in the street made a full turn. Everything aimed at Genrik.
+
+"What are you doing?!" the boss shouted, panic breaking through. "Why is everyone facing this way?! Turn back to the hostages!"
+
+Genrik pressed the dagger closer, drawing a thin line of blood along the boss's throat. "By all means, keep looking at me. Or I'll kill him."
+
+No one moved to obey the boss's order after that.
+
+The boss's eyes flicked sideways. "How about joining us instead? Good money from this line of work."
+
+"Won't pretend I don't need money."
+
+"Then—"
+
+"But I don't exactly need a lot of it, either."
+
+"Be real, kid. Everything's got a price. You must have a dream in there somewhere. No reason to keep risking your neck for people who aren't yours."
+
+"Yeah. I've got one." Genrik's grip on the dagger didn't waver. "It's not a grand dream. I won't say I'm content with an ordinary life, either. That would be an obvious lie." He smiled. "I'm just doing what a decent person would do."
+
+"This idiot…" The boss's jaw tightened.
+
+The man in black had already turned and ran back toward us. He knelt once more in front of Gwyn.
+
+Offered the same bundle of red flowers a third time.
+
+"Accept my love, and me — death itself — will be yours to command."

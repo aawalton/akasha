@@ -1,0 +1,121 @@
+---
+id: ca1373f2-fc60-52f0-a2f9-33aa12c5651e
+page-type-slug: story-chapter-royal-road
+title: "174. Crashing a Ball for Fun and Profit"
+slug: 0174-174-crashing-a-ball-for-fun-and-profit
+partOf: god-of-trash
+position: 174
+ownLength: 2127
+unit: words
+publishedAt: 2025-09-02
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2569133/174-crashing-a-ball-for-fun-and-profit"
+royalRoadId: "2569133"
+---
+
+It was shockingly easy to obtain information about the nobles, once Rhys started trying. He took a slot as a front man, and rotated through a few of his shops, listening to the people coming by to get their snacks and asking a few obtuse questions. People loved to gossip, and in this world, nobles were the equivalent of celebrities, so he heard so much gossip about them. With a few simple questions, he learned that Adelise was presumed dead, but that some people still thought she might be alive, and hiding out in the woods somewhere, licking her wounds. The Infernons were apparently a populous, but unpopular family, who held a great deal of power in the Empire—more than some people thought they should. Feran’s death had barely resonated, since he was too weak to count for much in the family’s overall strength, but Adelise’s disappearance and presumed death had smarted. She was a Tier 4, after all, and there were only so many of those in the Empire. The Infernons apparently had three Tier 4s, and two Tier 5s, which made them a powerhouse within the Empire, but there were other houses that had two 4s and at least one 5s, or even more than four Tier 4s, though no Tier 5s, so if they’d lost their third Tier 4, they’d face a great change in status within the Empire. Thus, the official Infernon family announcement was that Adelise was likely recovering so she could make it back to them in proper shape, even though the word on the street was that they secretly knew she was dead, and were covering up for it.
+
+No surprise there. He’d seen another Infernon on his way out. True, on his way out of a different camp, and true, he’d absorbed Adelise’s body, but that man had, number one, irrefutable proof that someone powerful had been at the camps attacking them, and number two, was high enough Tier to quickly cross the span between the camps and find no Adelise anywhere he could sense not long after he would have known Rhys had left. Rhys was willing to bet that the Infernons were completely convinced Adelise was dead, and only the most delusional of them would even hesitate to kill any ‘Adelise’es they saw. They were only pretending she wasn’t, to keep up the façade of being one of the strongest families in the Empire.
+
+It did beg the question of why they thought it was worth it to keep up a façade. Did they think no one else would see through it ever, or did they have a Tier 3 on the verge of breaking through that they thought they could break through before anyone found out they were down a Tier 4? He didn’t know, but from what he’d seen of the family, he’d bet on the latter. They certainly weren’t lacking in raw strength, which implied that they had a way to rapidly (at least on a mage timeline, if not outright) empower their mages.
+
+Of course, that part was less important to him. What mattered, was that they were pretending it was possible that Adelise was still alive, which gave him just the opening he was looking for.
+
+Once he’d established that Adelise was an option in terms of cosplay, he turned to his next objective: whose ball did he crash, where was it, and when was it? He needed a family that was friendly with the Infernons, or better yet, wanted to gain Infernon favor, but wasn’t so close that they actually knew anything about the Infernons. There were plenty of backwoods nobles that wouldn’t know an Infernon from any other big-city noble, and would just be happy to be graced by the presence of a high-ranking high-Tier noble, but what was the point of going to a backwoods ball? He didn’t need to crash the biggest or best ball of the season, but he didn’t want to crash a piddling backwoods ball either that didn’t even have good food—ahem, good knowledge of how the Empire worked and whether or not it was still looking for a particular set of independence fighters. No, he needed a ball that was at least in a small city.
+
+Fortunately, he also learned that the Infernons were based in the capital, which was a good sign to him that he ought to stay far, far away. Not that he was bold enough to expand into the Empire’s seat of power yet, but he absolutely did not want to risk showing up at the same ball an actual Infernon did; if he stayed away from the capital, though, they shouldn’t appear. Big-headed nobles who lived in the capital wouldn’t deign to appear at any balls outside of the capital, surely. He’d have to keep an eye out for balls being held in the vacation, ahem, country homes of big nobles, but as long as he kept to big cities, stayed away from the capital, and avoided small families and country homes, it shouldn’t be too hard to pull off… ignoring how many qualifiers he’d had to put on that statement, of course.
+
+“You already know that the Empire is still looking for us. Do you really need to go to a ball?” Lira asked one day, when Rhys came back from his work on the frontlines.
+
+Rhys dusted off his hands and glanced at her. “No. But I want to.”
+
+She rolled her eyes. “Jeopardizing our plans for a party?”
+
+“No, no. You’re not seeing this in the right light. This is invaluable data on our enemy, and on top of that, think about the psychological blow to the Infernons, the strongest supporters of the Empire.”
+
+“The psychological blow of showing up someplace none of them are, dressed up like a dead girl?”
+
+Rhys spread his hands. “It’s the kind of behavior that drives people insane in classic literature.”
+
+He did have to look to classic literature for this one, not trash literature, but he figured that one was outweighed by it being absolutely trash behavior. Still, in every piece of literature he could think of, ghostly figures of supposedly-dead people, or even actual ghosts, would haunt families of power. There was only one outcome every time: the downfall and utter annihilation of the grand family being haunted.
+
+He wasn’t actually a ghost, of course, but he could appear as a dead person and do the haunting part, and who knew? Maybe the family would fall apart on its own. Either way, he was willing to set the seeds for some truly powerful psychological damage later on, and regardless of how he looked at his impending adventure, it would be dangerous psychologically for any Infernon. The more he appeared as Adelise, the more damage it would do to the family, and the more damage he did to the family’s mentality, the more rot he inflicted on the Empire. One crazy family at the heart of a powerful machine like a government could drive an entire country mad, and, well, he certainly wouldn’t be helping with his impure food.
+
+It was like the fall of Rome. Give everyone lead poisoning, drive a few of the ruling families a little more crazy than usual, and bam, the empire collapsed. Of course, that was simplifying things a bit, and impurities weren’t quite lead poisoning, but it wasn’t a bad idea, all told. Even if he personally saw his impending outing and ball debut as a bit of a personal benefit for the boss, an end-of-year bonus for the CEO, if you would, it wasn’t as if there was no benefit to their cause. Unlike paying CEOs multiple millions of dollars, this did actually forward their goals. It was a bit of a longshot, a bit of a low-probability attempt, but it was worth taking a few shots in the dark every now and again, just to see if they would pay off. If they never took risks, they’d never have made as much progress as they had.
+
+“We’re using classic literature as our guidelines for taking down the Empire?” Lira asked disbelievingly.
+
+I can’t really explain Rome, so… “Yep.”
+
+She crossed her arms. “You’re just looking for another excuse to dress like a girl.”
+
+Rhys gave her a look, then sighed deeply and shook his head. “No one respects crossplay these days. Everyone trying to politicize it, when all I wanna do is wear a skirt every now and again when the best designs are put on female bodies. Ridiculous. Absolutely ridiculous.”
+
+“Uh huh.”
+
+“You try wearing suits and trenchcoats and khakis for years when you’re meant to be dressed up, and you’ll start longing for the expressivity and detail put into female characters, too.”
+
+“Female characters?”
+
+Rhys waved his hand. “Don’t worry about it.”
+
+“Impossible. I’m always worried about you.”
+
+“You worry about me?”
+
+“The same way I worry about puppies and infants. They evoke concern—”
+
+Rhys put a hand to his cheek, touched. “Aww, so I’m like a cute, helpless puppy to you?”
+
+“…concern, with a twinge of hunger.”
+
+“You need consent to vore someone.”
+
+She looked at him. “There are people who would let me eat them?”
+
+“The world is a wide, wide place.” Rhys sighed. “It’s not even like I want to crossdress this time, you know.”
+
+“No?”
+
+“It’s just… Feran’s been gone for too long. Everyone knows he’s dead. Headache man had no hair, and I can’t, I just can’t go bald. Not even temporarily. Hair is a precious resource for men, Lira. You women don’t understand.”
+
+“Uh huh.”
+
+“The others… I don’t even know their names. I don’t know anything about their families or political standing. I’ve already done all this work. It’s literally Adelise or no one. I mean, come on. If I could pick, I’d pick someone closer to my size. Her proportions are crazy, and she’s taller than me. Skinner, too, and I don’t know what I’m doing with my shoulders, because they’re huge, and she’s—” he gestured. “Narrow. Pencil-shaped. I’m going to have to narrow my shoulders and widen my hips. My skeleton isn’t built like that. I’m gonna be in so much pain.”
+
+“If it’s going to be that bad, then what if you kidnapped another noble? You could even kidnap a man,” Lira suggested deadpan.
+
+“I’m not that fragile about my masculinity. I can just crossdress. It’s not that big of a deal.”
+
+“Uh huh. You’re going to get a reputation.”
+
+“I already have a reputation, so honestly, no loss. Wait…” He squinted at her. “How do you…”
+
+She touched her nose.
+
+“Oh. Well, okay, fair. I guess I shouldn’t underestimate an apex predator’s sense of smell.”
+
+They stood there for a few moments. Lira seemed like she was thinking about something. so Rhys stood there quietly, letting her think. At last, she looked up. “If you’re really committed to this… I could share a few arts.”
+
+Rhys blinked and tilted his head. “You… uh, know how to…”
+
+“Did you think we water sprites were born looking like this? I can teach you how to transform your body and face. Don’t expect to be able to turn into a frog, but shifting your bone structure is very possible.”
+
+“Lira! That would be awesome. Thank you so much,” Rhys said, his eyes sparkling. He could already imagine the possibilities. Even if her technique only allowed a small tweak, he would be able to access all kinds of characters that were impossible for him before. If only he’d had such a skill in his first life… the things he could’ve accomplished, the characters he could’ve embodied, the contests he could’ve won…
+
+If I lost two hundred pounds, he reminded himself, sobering a little. Lira’s skill could probably hide gills and fins, not vanish three hundred pounds of body mass. Maybe he would’ve been more motivated to stay thin if he’d had a skill like that, though. For sure.
+
+“You’re not going to use this for evil, are you?” she asked, narrowing her eyes.
+
+“Don’t you use this to eat people?” Rhys pointed out.
+
+“I don’t want to enable a deviant,” she replied, ignoring his question.
+
+He spread his hands and shrugged. “I don’t think I’m a bad person.”
+
+She looked at him for a long moment, then nodded. “That’s true. You’re literally surrounded by women who like you, and you haven’t put a hand on any of them.”
+
+“What? Who? Who likes me?” Rhys demanded, jolting. He looked around, as if they were going to materialize right this moment.
+
+Lira rolled her eyes, then gestured. “This way. It’s easier if I teach you around water.”
+
+Rhys followed her, only a little curious why they needed to be wet to learn shapeshifting.

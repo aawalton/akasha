@@ -1,0 +1,105 @@
+---
+id: b685f03b-4a0d-5ea1-8750-7a5312a09aae
+page-type-slug: story-chapter-royal-road
+title: "152. Come Get Me"
+slug: 0152-152-come-get-me
+partOf: god-of-trash
+position: 152
+ownLength: 2093
+unit: words
+publishedAt: 2025-08-05
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2494956/152-come-get-me"
+royalRoadId: "2494956"
+---
+
+Rhys leaped away. His bones creaked and his joints ached, but the quick patch-job he’d done to heal his legs held for now. He needed more time to let Self-Regeneration properly patch him up, but right now, between Trash Body and the vitality he was stealing from Landon, it would have to do.
+
+Landon smashed down where he’d been seconds later. Earth flew, stones peppering the back of Rhys’s legs and pinging a few tender spots he hadn’t known he’d had. He’d given up on plucking the vines to just attack Rhys. Clearly he’d decided killing the caster would be faster than pulling out all the vines, as the vines themselves grew deeper into him and new ones spawned with every moment. He whipped around and lunged at Rhys, and Rhys yelped and hopped into the air. Landon followed up with an uppercut, only for Rhys to snap Snake Robes’ whip out from under his sleeves and whip it viciously at his arm. The blow still hit, but Rhys adjusted his position and lowered the damage with the swipe. His bones broke, and he flew backward, but managed to land on his feet. A few seconds later, more vitality flowed into him and repaired him, and he ran on.
+
+Landon chased, still trying to kill him before his vines could deplete his strength. He wouldn’t be wrong about killing the caster being the quickest way to escape, except that the more the vines grew, the more vitality Rhys stole from him. Rhys healed and grew more rejuvenated, and Landon grew weaker and more exhausted. Rhys fled, and Landon chased, but the scales had already been tipped in Rhys’s favor. The longer Rhys kept up the chase, fleeing fearfully as though his life were on the line, the worse things got for Landon. Rhys slowed his own reactions and speed, letting Landon get a few hits in here and there so the man wouldn’t swap tactics. Better to take hits he knew he could survive, than for Landon to whip out some sure-kill ultimate technique and oko him.
+
+As he fled, he watched the vines on Landon’s back. The buds were swollen, and starting to show the first signs of the red fruit that would come. Landon didn’t have enough vitality to instantly create tomatoes the way Rhys had, back when he was dealing with mana oversaturation back in Purple Dawn, but he had enough to create tomatoes. Rhys just didn’t know how many, or how long it would take. With all the vines currently digging into Landon’s flesh, there was every possibility that they would kill the man long before he produced even a single tomato.
+
+A tiny bit of Rhys realized he’d gone from terrified of Landon to wondering if he’d have a good crop this year in the space of a few seconds. He wanted to laugh but he didn’t want to give up the ghost, so he forced himself to keep looking terrified and run around like his hair was on fire.
+
+Good things couldn’t last forever. Landon’s face darkened, and he halted, lifting a finger to point at Rhys. “You’re toying with me.”
+
+“Me? Would I do that?” Rhys asked, putting on a shocked face.
+
+Landon drew back his fist. Mana gathered around it, only in Rhys’s mana senses at first, but quickly growing stronger, brighter, until his hand was encased in a wall of blue fire. The power emanating from his fist took on a terrifying tenor as he put everything he had left in it. His body withered, and even the tomato plants growing from every inch of him drooped. “It’s too late to stop you. But like this, I can kill you before I die.”
+
+Rhys’s eyes widened. That punch… no matter how hard he fled, it was too late. Not just for him, either, but for Lira and the whole camp, too. Landon had given up. This was his last gambit.
+
+Not the tomatoes! Even as he outwardly panicked, a part of Rhys remained calm. He focused on the tomatoes and made a grasping gesture. The tomato plants extended their roots, seeking deeper into Landon’s body. Without Landon making an effort to force them back, they sunk deep into his flesh and sucked up every last scrap of vitality and mana he hadn’t already put in his punch. Further. The roots dug through Landon’s body, racing toward his fist.
+
+Landon laughed, a dark and desperate sound. “It’s too late. You cannot stop me.” He raised his fist one last inch, then changed the momentum to forward.
+
+Rhys gritted his teeth. He hadn’t wanted to use this, but he had no option. I have to trust Sable. Sable would know what to do.
+
+He called on the curse, the one he’d left under the tavern, closing in Leonard. It responded immediately, unable to follow his will at this distance except to do what he needed the most in this moment—return to him. As Landon’s fist hammered down at him, he threw his arm out, casting it out once more. Two icy, bony hands pushed out of the earth and grabbed Landon’s arm mid-swing.
+
+Landon kept punching. The bones shattered. Rhys felt something cold and unpleasant lash against his very being, but it didn’t matter. The roots of the tomato plants had reached Landon’s fist, and they greedily sucked up all his remaining power. Beautiful tomatoes bloomed on Landon’s back as Landon himself was transformed into a weak, near-skeletal being. He stumbled, then dropped to his knees.
+
+Rhys walked over and put his hand on the man’s shoulder. “You know, I was really scared for a minute there, but then things started working out for me again. I actually thought you had me, though! Good job.”
+
+Landon hissed one last breath, then fell onto his face, dead.
+
+Rhys quickly collected the tomatoes from Landon’s dead body and tucked most of them into his core, chewing on another. He raised his brows, a little shocked at how adaptable he was. He hadn’t thought himself capable of peacefully eating human tomatoes, but then again, he’d eaten his own. Why not these?
+
+They kinda taste a little coppery, though, Rhys thought, and then coughed. Something thick and red splattered on the ground in front of him.
+
+Huh? He lifted his hand to his face. Blood poured from his nose, his eyes, even his ears. He coughed again and turned his head, spitting up blood. His entire mana infrastructure shook, down to the trash star.
+
+He frowned at the blood for another second, then realized: it was backlash. Backlash from the curse. Still, was this all? People acted like curses were horrific things, but this wasn’t much worse than the backlash from any old broken spell—
+
+Darkness obscured his vision. All the power drained from his body. No—it had never been. Nothing but another daydream.
+
+A whip snapped. “Back to work, prisoner!”
+
+He moved numbly. Calloused hands gripped a pickaxe. He coughed, a dry, hacking sound. Worn. Worn down. There was nothing left within or without. He was a husk, nothing but an empty husk, and this was his life, his future, his past. Breaking free of the Empire? What a foolish dream. He would never break free.
+
+The ball of impurities in his core grew larger as he hammered at the wall. He drew them in. There was only one way out. His plan… it was no plan. He had no hope. All he was doing, was speeding his own exit from this final torture. What a waste of a life. At least his first life hadn’t involved physical labor to the death. If only he were back there, slaving away for some faceless corporation in the privacy and comfort of his own home…
+
+No. No! Wake up!
+
+Wake up? This was no dream. How many times had he tried to rouse himself from this nightmare, to no avail? No matter how much he wanted, this was all that was left for him. This rock wall, until the end of his life.
+
+Cold water splashed in his face. Rhys physically staggered back. The stone wall faded from in front of his eyes, and he found himself standing in the middle of the Water Syndicate’s camp once more, not far from the ravine.
+
+“Don’t fall in. Pull me out!” Lira shouted, annoyed.
+
+Rhys shook his head. He rubbed his face down, wiping off a layer of cold sweat that hadn’t been there moments ago. So that’s what a curse’s backlash is like. Not just physical harm, but pulling out the worst moments of his life and trapping him back in his darkest times. He shuddered. I never want to go back there. Never.
+
+He’d been keeping busy all this time. Not letting up. Not letting the memories sink in. But there was something there, wasn’t there? Something he’d locked away and hadn’t confronted. Something he refused to deal with.
+
+And I’m just going to keep on being trashy and not deal with that, Rhys thought to himself firmly. He reached into his storage ring and pulled out a bunch of trash, chaining it together with a little Trash Enchantment. He lowered it into the ravine, and Lira clambered up it.
+
+“Thanks for coming to get me, by the way. You didn’t have to.”
+
+“No. I did.”
+
+Lira squinted at him, but Rhys didn’t explain. His heart still pounded in his chest from what he’d been shown by the curse backlash. A part of him realized that the whole importance-of-his-people thing came from that experience, from not wanting to leave anyone behind, while another part of him wanted to race to the next camp and tear it open as soon as possible, so that no one else had to suffer for another second.
+
+He took a deep breath. Now was not the time. First, he had to solidify his hold over the Water Syndicate. Only when that was firm as rock could he move on to continuing to free camps.
+
+Two mana signatures had almost reached him and Lira. He took another bite from the vitality tomato and felt his energy surge. His injuries rapidly healed, and though he wasn’t in perfect shape, he was better than he’d been before the tomato. He pulled out a second and a third, offering the third to Lira. “Need some strength?”
+
+“Thanks,” Lira said. She took a bite of the tomato, then frowned. “Where’d you get these?”
+
+“Just a bit of casual farming along the way,” Rhys said vaguely, not looking at Landon’s withered corpse in the corner. Internally, he was still struggling not to fall back into that empty despair from the mines. He rubbed his chest, far too conscious of his pounding heart. That hadn’t just been any day in the mines, that had been one of the worst days. One of the days where he’d almost given up.
+
+It wasn’t like him at all. He wasn’t a quitter. Never had been. But there were days, deep in the darkness, when he thought he’d never see the sun again, and not at the hands of the guards, but because he was just so weary. So ready for it all to be over. So ready to sleep, and never wake up again.
+
+A hand on his shoulder. Rhys jolted, but it was just Lira. “Are you okay? You’ve been acting weird since you got me out of the crevasse. Are you mad? I—”
+
+“It’s not you! It’s not you,” he repeated, softer, realizing he’d been a little too firm the first time. He wiped his face again, trying to center himself. “It’s been a long day. I’m tired, that’s all.”
+
+“Should we run away?” Lira asked.
+
+“No. I’m not going to give up here,” Rhys said, though he wasn’t sure whether he meant it about now, or about life in general. Was it just the curse’s backlash? No… that felt over, by now. The curse had run its course. This was all him. His own fears and doubts, that he’d been deliberately not prodding at.
+
+And I’m gonna keep not prodding them. Therapy was for the clean and healthy. Rhys was going to bottle up his fear and trauma until it became something truly toxic, and then…
+
+Wait, can I weaponize that?
+
+There was no more time to think. Two signatures closed in on him and Lira at speed. Lira spun her wrist, and the slender blade leaped out of her bracelet-umbrella. Rhys drew his broken sword. Together, they faced toward the onrushing signatures.

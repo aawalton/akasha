@@ -1,0 +1,113 @@
+---
+id: 67bf9dbf-a240-5c77-8de6-b0acc6a93f18
+page-type-slug: story-chapter-royal-road
+title: "249. Four Peaks are Better than Two"
+slug: 0249-249-four-peaks-are-better-than-two
+partOf: god-of-trash
+position: 249
+ownLength: 1890
+unit: words
+publishedAt: 2025-12-17
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2857103/249-four-peaks-are-better-than-two"
+royalRoadId: "2857103"
+---
+
+Rhys left the first peak behind and headed toward the second one. His trash star was still burning hot, but it was slowly burning less hot. He still wished he’d had to exert a little more energy to fight the men, but, well, he couldn’t style on them and work hard at the same time, so he’d just have to push his limits a little more at the next pillar… or maybe defeat all the men and then double back to absorb the pillars. He didn’t have to do both simultaneously. He could do whatever he wanted in whatever order he wanted. Defeating one peak’s men didn’t mean he had to absorb that pillar.
+
+We’ll see how things go and play it by ear. He lounged in the skeleton’s arms, making no effort to burn off that energy he needed to burn and instead sitting around like a fatass and enjoying his life, in true trash fashion. Knowing what he needed to do and putting it off until a later date anyways… what a rare luxury in this new life of his. That used to be a Tuesday evening; now it was a lucky, rarely empty day that he got to put off the things he needed to do until later. Mostly because if he didn’t do the things he needed to do now with magic, he would die, usually. This was the rare situation where he could procrastinate, and that rarity was exactly what made his procrastination feel so good.
+
+He yawned, glancing up at his skeleton mount. “Do you think they’ll believe me if I say ‘we come in peace?’”
+
+The skeleton walked on, stoic as always.
+
+“Nah, I didn’t think so.” He paused. “But it’d be funny.”
+
+It wasn’t true, either, but he was deep in his ‘stunt on the losers’ era, which coincidentally was also an era a certain fast pop star had had. Was still having? He wasn’t sure. He didn’t keep that close an eye on her, beyond what the radio force-fed him no matter what channel he flipped to.
+
+How one pop star managed to qualify as everything from country to pop to techno to alt rock somehow to oldies was beyond him, but damn did he wish she could choose one genre to not infiltrate so he could get away from her. Taking all top ten slots on the pop charts was whatever; he could just leave the pop channel—except he couldn’t. He couldn’t escape. That fast pop star was too quick for him; she was inescapable. She hadn’t managed to make inroads on K- or J-pop yet, but it was only a matter of time, and he didn’t know if he could make the swap to C-pop. Tonal languages made for interesting pop songs, since the words themselves required twists on the notes in the song so that the proper meaning got across, and he could enjoy one on occasion, but the tonal angle made the songs a little harder a listen than the smooth melodies he associated with K- or J-pop.
+
+Then again, I’m pretty sure C-pop has enough money to lure her, once K-pop inevitably gets her.
+
+He sighed, then brightened up. He had escaped her at last! There was no radio here, so there was no way his life could get blasted with the same song for the seventy-nine-thousandth time!
+
+Honestly, he didn’t even dislike her music that much; it was just way overplayed. And inescapable.
+
+“You seem a man beset by his moods,” a voice intoned.
+
+Rhys gestured for the skeleton to stop and glanced up, looking at the figure sitting in the tree over him. “Yeah, a bit.”
+
+“Lovesick?”
+
+“More like glad that we’re never, ever, ever, getting back together,” Rhys told him.
+
+The man stared.
+
+“Anyways. Are you here to stop me?”
+
+“I might be. Are you proceeding toward the peak?”
+
+“Yep. Do you want to fight, or are you contractually obligated to fight?” Rhys pointed at his neck, where the mark had been on the other fighters.
+
+The man raised his brows. “That… may be the case.”
+
+“Because I’m looking for guinea pig… willing and friendly research subjects to take part in my very legitimate and safe medical trial on removing mana marks.”
+
+The man’s brows shot even higher. “You can do that?”
+
+“I’ve got inroads on what works,” Rhys said, by which he meant, I know one method that doesn’t work.
+
+The man considered for a long time, then lifted his hand. “Wait here. I’ll be back.”
+
+Rhys nodded and settled in. He didn’t really care if the man tried to ambush or trap him; he could literally fight these guys lying down, and he’d be quite happy to do it again. But if the guy came back with his underlings, and they all lined up to get their marks removed… well, Rhys wasn’t about to turn down free money. Besides, if they were forced into this situation by some kind of magical compulsion, he felt a little bad about killing them. Not the Western Peak guys; those had seemed to be oppressing the actual peak students, which pissed him off enough that he wanted to kill them, mark or no. But these guys seemed a little more reasonable. Of course, he hadn’t seen what this peak’s students looked like, so maybe they were oppressed, too, but at the same time, he didn’t think all four peaks would have an identical situation.
+
+Virgil didn’t seem the type to worry too hard about what kind of mooks he recruited. A wandering group of rogue adventurers and a pack of bandits probably looked the same to him, but would have deeply different moral codes and therefore, deeply different moral compunctions to slaughtering them. Now, Rhys was in a slaughtering mood, so he wasn’t too caught up on moral compunctions, but he was all for giving people an easy out that also benefitted him. If he didn’t have to get off his rear end to pass this test, all the better.
+
+…Not that he’d gotten off his rear to defeat the last set, but that was neither here nor there.
+
+Before long, the man returned with a cadre of similarly dressed mages. They were all wearing black and green mages’ robes, and though they were a bit dirty and torn, they were all uniform. Rather than adventurers, they looked more like a fallen mage school of some description. Maybe even the Eastern Cardinal School itself, though Rhys wasn’t ready to make that conclusion without more evidence. The Western branch hadn’t had uniforms, but then… were they all branches of the same school, or were they just four unrelated colocated schools? Who knew? Not Rhys!
+
+Maybe I’ll ask these guys. They seemed like the kind of people who would know. But first:
+
+“So, hey. Are you guys here to fight, or are you here to be my test… to get the marks removed?”
+
+The mages looked amongst themselves. One or two looked at the first man who Rhys had encountered with uncertainty.
+
+“He gets one chance. If he can’t do it, then we attack,” the first man said, crossing his arms.
+
+“Whoa, whoa, hey. One chance? I never said I could do it off the kick. Two—no, three chances. At least three!”
+
+The man narrowed his eyes. “One chance.”
+
+Rhys sighed dramatically. “Alright. Who’s the lucky guy, huh? Step forward, and let’s get this over with.” If they weren’t going to be his willing guinea pigs, they’d just have to be his unwilling guinea pigs. Either way lead to the same result, there’d just be a little more struggling beforehand one way versus the other.
+
+He paused. Am I the baddie?
+
+No, no. They’re the baddies. I’m justified and doing great work advancing science and medicine to save my friend. He nodded, smiling.
+
+The mages murmured amongst themselves. They kept casting uncertain looks at Rhys, and their leader, or at least, the man Rhys had first spoken to, kept shaking his head. At last, a woman threw her hands up and stepped forward. “I’m tired of being under that asshole’s control. Take it off or kill me, either way, I’m out of this hell.”
+
+“That’s the attitude we’re looking for! I mean, ahem,” Rhys added, as the others shot sharp looks his way, “Thank you for putting your trust in me, ma’am. I’ll do my best.”
+
+She gestured. “Should I sit? Are you going to stand?”
+
+“Oh, that’s right. Hold on, hold on.” Rhys climbed reluctantly to his feet. He didn’t dismiss the skelly boy, since he had a strong feeling that he’d need it in the near future. People didn’t tend to stand still when they were in extreme pain, and she was at least mid-Tier 3.
+
+Reaching into his specially designated pile of useful trash, he drew out a table and manifested it, then patted it. “Sit, lie down, whatever makes you feel comfy.”
+
+She gave the dinner table an uncertain look, but sat down on it. The glittering blue light held her weight easily. She patted the surface, frowning a little. “What is this? It feels like Intent.”
+
+“It is Intent.”
+
+“Killing… Weapon… but it’s a table,” she murmured.
+
+Rhys coughed. Now wasn’t the time for her to be figuring out his techniques and path. If he needed to kill them, it was better if they had no idea what he could do—not even a hint. “Hey, hey. Let’s focus on the task at hand. Flow your mana steadily and normally, and don’t try to fight what I do to you. These marks can explode when provoked, so we’ll need to cooperate here. Let me know if it feels like you’re about to explode.”
+
+“Wait—explode?” she asked, alarmed.
+
+“Yeah, so make sure you let me know if you feel like exploding, okay?” Before she could protest or jump up, Rhys clasped her shoulder, pinning her down, and focused all his attention on the mark. The woman stilled as she felt his mana surround the mark. To her credit, she didn’t fight, even though Rhys probably would’ve fought if he’d just heard his neck might explode very soon. Then again, it’s not like I told her what makes it explode. For all she knew, standing very, very still was the only way to make it out alive.
+
+He examined the mark slowly, taking his time now that he needed to care whether she lived or died, even if only a little. It felt much like the first mark. The same complex mana circuits, the same flavor of mana, or whatever he should call that. Aura? It felt the same, that was the point. Whoever had made the first, and this, and Bast’s mark, they were all the same person with the same mana signature. Before he attacked it, though, he spent more time examining it. Somewhere was the dead man’s switch that exploded when the mark was interfered with. He needed to destroy those mana circuits first before he tried to mess around with the mark.
+
+But how do I find them? They’re only going to light up when they’re activated. He thought for a moment, then cut a look at the other mages. He hesitated for a second, then shrugged to himself.
+
+Science is built on sacrifices. Nothing ventured, nothing gained! Here we go!

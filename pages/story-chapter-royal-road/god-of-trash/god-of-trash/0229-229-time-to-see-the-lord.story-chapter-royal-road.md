@@ -1,0 +1,67 @@
+---
+id: 2d205847-7a54-545e-87f4-e87f461364f2
+page-type-slug: story-chapter-royal-road
+title: "229. Time to See the Lord"
+slug: 0229-229-time-to-see-the-lord
+partOf: god-of-trash
+position: 229
+ownLength: 1975
+unit: words
+publishedAt: 2025-11-02
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2726640/229-time-to-see-the-lord"
+royalRoadId: "2726640"
+---
+
+Rhys ran through the forest. He’d been planning on continuing to harass Daran, but strangely enough, the Demon King vanished immediately upon Rhys ignoring his good advice. Hard to say why, really.
+
+He couldn’t call it bad advice, either. It was good advice. Daran legitimately had a point, and he didn’t mean to deny that at all. It was just that this was too important for him to give up on account of some good advice. He had to know what had happened to the Sword Saint and Bast if he was going to unwind this situation. Sure, he could take the mark off Bast… probably, but if he didn’t root out the problem, if he didn’t address the source of the issue, then he’d only end up with a target on his and Bast’s backs, and with having impeded Bast’s future progression, to boot, since Bast would no longer be able to study under the Sword Saint. No, he had to be thorough about it, not just apply the band aid fix he oh-so-trashily wanted to apply. If he didn’t figure out what had happened to the Sword Saint, remove Virgil from power, and free Bast from the mark, then he’d done nothing at all.
+
+This’ll be my second time toppling a region’s leadership. It’s not that many times, really, but it is weird that it’s going to happen twice.
+
+Of course, even as he rushed to see Lord Ravin, he knew that the man wouldn’t have the full picture. He was the one who’d attacked the Sword Saint, but, in all likelihood, he wasn’t the one who’d attacked the Sword Saint’s mind. Still, he knew what people said about assumptions, and he didn’t want to be an ass to anyone but Daran, so it was important he spoke to Lord Ravin to track down what had actually happened. Maybe Ravin had attacked the Sword Saint’s mind and was the mastermind behind the whole thing. Or maybe he’d dealt the first blow, and someone else had taken advantage of the Sword Saint’s subsequent mental weakness. Either way, it was possible that Lord Ravin knew who else had been there—who else was able to attack or otherwise influence the Sword Saint.
+
+It was also entirely possible that Lord Ravin knew nothing that Rhys couldn’t already surmise, but hey, he could at least learn where, how, and when the Sword Saint got injured from the man, and that was better than nothing. He was currently at nothing, or, at least, no concrete information, and that was no good. He had plenty of speculation, but speculation was no more than that—it didn’t mean anything without concrete evidence.
+
+And I’ll be able to rule out sexual impotence, he thought, chuckling to himself. Speaking of, I wonder how that one random Infernon is doing? The one who Lira was pissed at? I should look for him… if Lira hasn’t found him already. Now that the Empire had toppled, it was only the man’s own tier that protected him from Lira’s wrath. She was still Tier 2, to Rhys’s memory, but without the Empire, or a toppling thereof, to get in the way of her leveling up, he wouldn’t be shocked if she quickly progressed to 3.
+
+I know Sable hit Tier 3. Did Mouse? He snorted to himself. Would I know if she had?
+
+He expected the path to lead back toward town, but to his surprise, although it initially curved toward the town, it hared off sharply past the town, parallel to the cliff face, on the far side of town from the Black Palace. It was a direction he hadn’t gone yet, because there was nothing in that direction, as far as he could perceive. Not that he thought he could see everything, but he’d seen nothing but a great swathe of ice and the cliff in the distance out that direction. If he went that way, and this Lord Ravin waited somewhere out on that ice, then the man would see him coming from a great distance off.
+
+Hmm. Maybe I should’ve stolen chakram-guy’s face, after all. Then again, the same trick probably wouldn’t work twice. Even if it did, there was a large expanse of ice and snow between him and the end of the mana trails. Someone would surely come out to check where chakram-guy’s hammer-wielding friend was, and the jig would be up the second they saw how small Rhys was.
+
+Lira failed to mention that her technique can’t materialize great chunks of bodymass, he thought, then chuckled to himself. It’d be a hell of a technique if it could. Moving around his existing bodymass was enough for the ninety-percent solution to shapeshifting. It’d be a truly godly technique if he could also make himself several times taller, with the accompanying cubic increase in volume.
+
+Still, whether he had the man’s face or not, it didn’t change that he’d be obvious and exposed, closing the distance over a vast snowy plains. Better if he could disguise himself, somehow, or at least make his approach a little less obvious…
+
+Instantly, he flashed back to his childhood in his original world. Building an ice fort. Burrowing through the snow. He’d imagined he was a worm, and dug a path through the high snow, then wiggled through it. And this snow was even taller, and now he had magic, so why not?
+
+He knelt down and dug into the snow with his bare hands. This part of the snow wasn’t trash, since no one had thrown it out or cast any value on it, but he didn’t have to use his path to do everything. Some things, he could accomplish with brute force.
+
+The snow was about ten feet deep here, which was perfect for digging tunnels. He didn’t even have to crawl, though he did, because that made the tunnels he had to dig smaller. Crawling at top speed, he dug out the snow in front of him and shoved it back into the hole behind him, filling in the hole as he crawled to keep the whole tunnel from caving in. There were a few layers of ice among the snow, from where the surface had crusted over, then been snowed on, crusted over again, and so on, and those should help keep the structure of the snow, but he didn’t want to have the snow just happen to choose to give way on him, and leave his whole endeavor embarrassingly exposed.
+
+Tunnelling did slow him down somewhat. He didn’t know when the chakram and hammer duo were due back, but he had to assume they were expected; someone had been watching the site of the Sword Saint’s battle and sent them forth. Either that, or they’d happened to be walking by and just happened to catch Rhys poking around… but that was too much coincidence, so he ruled it out as something to think about. In any case, if it was a coincidence, then he had much less to worry about, so it wasn’t something he needed to deliberately consider. It was only if they had been sent that things became problematic, so that was the case he was worrying about. Still, he was tunnelling pretty quickly, and battles could be rather drawn-out in this world. He didn’t think he was too slow even with the tunnelling, even assuming the pair had been sent after him.
+
+Of course, that did mean someone might know his signature, or expect a rebuttal. He repressed his cores as much as he could, which was quite a lot, but if someone was really looking for him, he was under no delusion that he wouldn’t be spotted. He just had to hope no one was expecting him yet, and that therefore, he could slide in under the radar before anyone raised too much of an alarm.
+
+At the end of the day, all his precautions and tunnellings were probably useless, but tunnelling through the snow was super fun, and he got to live out one of his childhood dreams of endlessly tunnelling through a near-infinite amount of snow, so why not? If it bought him even a second of bonus time to infiltrate the enemy base, it was worth it. No, even if it bought him nothing, it was worth it, because he’d had fun.
+
+On and on through the fluffy whiteness. Since the cold and wet didn’t bother him, and his stamina was well above this threshold, it was way more fun than he’d even been expecting it to be. He had to repress the urge to hum, though he did occasionally indulge in a bite of snow. It was still safe to eat in this world, unlike his filthy homeworld.
+
+Home could really use someone like me, he thought idly. But then again, so could this world. There was still the black sludge Daran had shown him, the stuff attached to the underside of this entire region, the origin of curse energy. He needed to take more time and deliberately study that, after he’d solved his immediate problems with Bast and the Sword Saint, and separately, Mouse, Sable, and Lira. He was still working on the black sludge problem in the back of his mind, even if he didn’t bring it up very often. Daran hadn’t had an answer despite having discovered it centuries ago, so he didn’t expect to be able to solve it quickly, and sometimes, what a problem really needed, was some backburner time in one’s subconscious, but he suspected he just didn’t have the key to the black sludge problem yet.
+
+Speaking of problems he hadn’t solved and cursed energy… he glanced down at his belt, then fed the Straw doll a little more cursed energy. He’d hoped it would grow, but it wasn’t growing any larger. Maybe it needed more of Straw’s original material to regain its original shape. “I’ll bring you back, buddy. I promise.”
+
+The little doll mewed.
+
+Ahead of him, the mana traces came to a halt, then dropped directly into the earth. He tunneled up to the drop-down point and found himself on the verge of a deep, narrow shaft that pierced deep underground. Looking up, he found a panel of white material laid atop the shaft. From dead ahead or nearby, it would be a dead giveaway, unless it had recently snowed; even if it hadn’t, anything but dead ahead or right next to it would make the panel almost impossible to see amongst the blinding sea of white. That’s not a bad secret entrance, he thought appreciatively. Simple, yet effective. Nothing too crazy, where he found himself wondering how the super secret society that no one knew about had installed something so complex in the middle of the desert without someone noticing, but the perfect drug-trafficking-tunnel level of hidden entrance.
+
+He looked down. Darkness. After the brightness of the snow, it was so pitch black that even his enhanced mage eyes struggled. His mana senses were unimpeded, though, and they sensed—nothing. A nothing so complete that it made him a little worried. Empty tunnels, snaking through the earth. Big empty chambers. Empty. Empty. Empty.
+
+There’s no way there’s no one waiting down there. Even if I really did get found by coincidence, which is so, so unlikely at this point, someone should be guarding the door.
+
+Rhys licked his lips, suddenly nervous. Either they know I’m coming, and they’re waiting for me… or someone else got here first, in the interval between the duo setting off and me making it here.
+
+He didn’t like either answer, but regardless, the only way he was going to get any answers, to this question or to his original questions, was to enter the shaft and delve that dark emptiness.
+
+So, with great reluctance, he dropped into the dark.

@@ -1,0 +1,165 @@
+---
+id: f22c94d0-efda-5cf2-bab1-521d82a23bdc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 756 - Threat Assessment: Extreme"
+slug: 0081-chapter-756-threat-assessment-extreme
+partOf: hell-difficulty-tutorial
+position: 81
+ownLength: 2229
+unit: words
+publishedAt: 2026-02-22
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3081956/chapter-756-threat-assessment-extreme"
+royalRoadId: "3081956"
+---
+
+After exiting the bus, I move through the city. Either by stretching out Ley Lines or use Wraith Dance. With the city I grew up in as a base for comparison, my abilities feel incredible. The street that took so long to pass now requires just a mere second to traverse, and the hour and a hal -long bus travel is barely longer than that.
+
+Finally, I come to a stop and look around a small park I start walking through. Though Earth is awakening, and there must be rumors, people still seem to love maintaining their schedule, and maybe all these things have caused them to cling to any hint of normalcy. Everywhere I look, there are people running, young couples on dates, and people out walking their dogs.
+
+One such person comes to a stop next to me as her tiny brown dog halts and pulls her toward me while wagging its tail.
+
+The young woman apologizes, “I’m sorry, she just likes to meet people. Don’t worry, she doesn’t bite, though.”
+
+Even now, I’m still weirded out by this normal conversation. In a way, it’s Earth that feels fake now, not the tutorial.
+
+I squat and carefully reach my hand toward the cute dog. She doesn’t even sniff my hand but immediately pushes her head against my palm. It causes me to smile, and I pet her very carefully.
+
+“What’s her name?” I ask.
+
+“Vivi, she is a Maltipoo,” the woman says.
+
+Hearing her name, Vivi starts wagging her tail, licking, and jumping against my hand.
+
+“What a cute little beast,” I smile at the dog one more time before I stand up.
+
+The woman stares at me and nods absentmindedly before she asks, “Your eyes… Do I know you from somewhere?”
+
+“I don’t think so?” I answer as I try to remember her face. “Nice to meet you, but I have to go.” Before leaving, I look down, “Bye bye, Vivi.”
+
+The tiny dog barks at me a few times, and I continue walking while trying to remember the spot I had agreed upon to meet with Channeler, feeling her gaze on my back as I walk away.
+
+I find the location after a few minutes of walking around, a small sitting area that, unlike most of the park, looks entirely new. A few wooden benches, a roof, and a small playground.
+
+I send my senses ahead and find an empty space below it, something like a small room. My mana reaches there, and after tethering myself to the mark I make, I teleport to that room.
+
+A small thermal orb forms in front of me, and I modify it slightly until it evenly lights the entire room as I let it float near the ceiling. Inside, I find a big, watertight box that seems to have been completely sealed. Finding no opening, I just cut it open, and inside, I find multiple stacked items.
+
+A turned off smartphone and a few power banks in case the battery managed to discharge. I also find cans of soda, chips, some sweets, a pile of around 50,000 dollars, and a few other things. All of it’s here, left hidden for me by Channeler, either for people from Group 4 or some others. Most of it’s not even meant to be opened until after the tutorial ends in around two years. Similar caches like this are hidden all over the country and probably the world at large.
+
+Grabbing a few snacks and a soda, I take the smartphone and slide down onto the ground, where I rest against the box and press to turn on the device. I don’t really recognize the model, so I suspect it’s likely the newest one that came out in the years we spent in the tutorial.
+
+The logo flashes, and the phone prompts me for a code. With a sigh, I type in the one the twins forced on us.
+
+80085
+
+After the phone turns on, the battery still shows over 60%. Chewing on a snack bar, I open the contact list. There’s only a single name: Channeler.
+
+I press it and call, and it takes only two rings before a careful voice asks, "Thank you for calling Capital Operations Restoration Guarantee Insurance. How may I help you?"
+
+"Channeler, I forgot the code phrase."
+
+The voice on the other side cuts off for a few long seconds. "Noname?" it sounds again, as if wishing it had heard wrong.
+
+"What’s with the tone? Did you already forget me? Were you hoping I was still stuck in that hellhole?"
+
+"But you love it there."
+
+"That's not the point." I wave it off. "Anyway, I'm here for about 23 hours and some change before I return. Where can I find you?"
+
+"People spy on me a lot. I don't know how much I can share, much less if we’re being listened to."
+
+"Is your life in danger? Is that why you can't give me your location?"
+
+"No no no no. NO. Please don't do anything radical, and don't threaten anyone," he quickly gets out in a panic. "I'm more than safe, it's just that they spy."
+
+"Whatever, just give me the location."
+
+"I can send a private jet for you. I can have it ready in twenty minutes... are you eating chips?" he asks.
+
+I throw another handful into my mouth, "Yes. The flavor’s all weird now. I'm not used to so much salt anymore. And just give me an address, I can fly there faster."
+
+"Okay, just please don't... don't cause any large-scale damage. Please, don’t cause any small-scale damage either. I’ll send you my location in a message, and you can use the navigation app."
+
+"Don't worry, I’ll be there soon," I say as I end the call.
+
+A few seconds later, a message pings, and before leaving, I take all the money and drink one more can of soda.
+
+POV Earth
+
+“Colonel, sir! Colonel, sir!” The voice, sharp but bordering on frantic, echoes down the hall as two men in uniforms knock aggressively on the office door of Colonel Jonathan Kane.
+
+The door, as if acknowledging the urgency in their address, is opened by the Colonel himself, who stands briefly to face the men. After gesturing for them to enter, he heads back to his seat surrounded by multiple computer screens.
+
+The first man gives a quick, rigid salute before immediately moving to the desk. He taps rapidly on a ruggedized tablet, pulling up a file, and hands the device to the Colonel.
+
+"Sir, this was received five minutes ago from NORA Outpost number Four. Priority One message," the man says, his voice regaining some of its professionalism as he hands over the device.
+
+Colonel Kane takes the tablet. The display shows a photo of a young man with black hair and striking brown and gray eyes. There’s a golden circle around each of his pupils. His expression is cold, almost pathologically indifferent, as he looks toward a distant guard tower armed to the teeth with guns. He’s dressed only in a simple Earth-design white shirt and black sweatpants, with no visible items on him.
+
+Swiping the screen, Kane accesses the next file, a video log. On it, the young man seems to materialize instantaneously at the camera's focal point before vanishing in the next frame.
+
+The third file is an extremely slowed-down sequence, captured by a high-framerate surveillance camera. It shows the man becoming a blur as a single, impossible step covers dozens of meters in an instant.
+
+The fourth file shows a thermal signature analysis made by another set of cameras. The brain of the man indicates an extreme level of activity, far beyond normal human capacity, marked by elevated temperature. More alarming is a heart-shaped 'hotspot' next to his actual heart, with a measured temperature capable of melting most metals.
+
+The Colonel rapidly reviews the other files. A grainier, hyper-slowed-down video, footage captured through specialized lenses made from materials bought from a number of Returnees, and a final slide showing more photos. The man resting against the wall of a convenience store, eating a hot dog. The man-shaped blur flying through the sky. The man strolling through a public park.
+
+The last display is the man's official profile. A few lines are highlighted.
+
+Name: Nathaniel Gwyn
+
+Difficulty: Hell
+
+Threat Assessment: Extreme risk to personnel and infrastructure. Avoid surveillance escalation or containment attempts. Engage only under direct authorization.
+
+Colonel Kane places the tablet face down with a sigh. He had already memorized every detail on this profile long ago.
+
+The second soldier, who had been standing at attention, speaks up, "Sir, should we implement Family Watch protocol and initiate a secure contact with codename 'Channeler', and-"
+
+Kane lifts a hand, cutting the man off mid-sentence. "Negative. Maintain the current status quo. Do not interfere with his movements or his immediate surroundings. You are dismissed."
+
+"Yes, Colonel, sir!" The two men salute in unison and leave the office, pulling the door shut behind them.
+
+Left alone, the Colonel pulls a personal smartphone from his pocket and calls the contact listed as Rafael Vaughn.
+
+It rings twice before a voice on the other end says without skipping a beat, "I know, I know. He’s already checked in with me and will be here in a minute or two. For the love of God, don't interfere." The line goes dead instantly.
+
+Kane lowers the phone, a look of tired resignation on his face. He picks up the ruggedized tablet once more and begins scrolling through the data again.
+
+POV Nathaniel
+
+The flight takes ten minutes. Though I could probably make it even shorter if I really wanted to. But for now, I have a little bit of time, so I enjoy the experience of flying over the planet I was born on. I don't care one bit about who might see me, and there might be a few UFO sightings because of it.
+
+What I find when I reach the spot the phone navigates me to is a small island just a few miles away from the coast. It looks nice, set with a huge central villa and multiple smaller ones. I spot a few helipads, and on the far side of it, there’s even a small airport runway with a hangar and one jet parked outside.
+
+My senses wash over the island in its entirety, and I detect thirty-six people. Fifteen of them come from Easy difficulty, five from Normal, and the rest are likely to be newly awakened humans. For some reason, I also locate what feels like a cat sitting in the lap of one of the people from Normal difficulty.
+
+A boost of kinetic energy pushes me ahead, and after expanding a bit of mana, I place a marker and teleport. Trying to be polite, I avoid teleporting right in front of Channeler, appearing in the hallway instead.
+
+Looking around, I think about how nice this place seems, and walk toward the door, knock, and enter immediately afterward.
+
+Channeler stands behind a standing desk, wildly scrolling through a screen, while a woman sits on a nearby couch with an old looking black cat on her lap. I notice the woman is healing the cat.
+
+"Is that Grumpy by any chance?" I ask.
+
+"It is!" the woman answers before Channeler can. "I'm Jessica, Normal difficulty. I have kept this cat alive the entire time and will continue to do so as long as needed. Please make sure to let Lily Chen know."
+
+"I will." I nod, quite enjoying the honesty.
+
+Why can't everyone be that way? No hidden or difficult motives, just something easy to understand. A nice gesture offered with the expectation of repayment, one that would be very simple for someone like Lily to fulfill.
+
+"Colonel Kane sent me five photos people took of you flying, and they’ve already started spreading online. One guy even had one of those ridiculous zoom smartphones, so your face is actually somewhat recognizable. The YouTuber behind the ‘I Can Fix Him’ series has already tweeted that they’re willing to buy any videos of you they can get. And certain forums, whose names I’d rather forget, are going wild..."
+
+Channeler stops and takes a deep breath, "Well, whatever. It's not like we didn't expect something like this."
+
+Even with the expression he has currently and the clear stress on his features, Channeler is handsome as always. It makes me want to bully him, but I'm an adult man, so I hold myself back.
+
+"'I Can Fix Him' series?" I ask.
+
+"Ignore what I just said," he says, waving his hand and gesturing wildly as I move closer to Jessica and Grumpy. There, I reach out my hand to let Grumpy sniff it. The old cat lifts its head slowly, then, for the love of the game, bites my finger before pulling back and lying down.
+
+"Lily sent a healing mark with me for Grumpy, along with a few other things," I say, keeping my eyes on the cat. "But I can do that later. By the way, what’s with that huge-ass transparent spider cocoon on the moon?"
+
+"It appeared there not that long after the tutorial started. I think the most popular name for it currently is the Moonster?" Channeler answers, looking with a questioning glance at Jessica, who nods.
+
+Of course it is.

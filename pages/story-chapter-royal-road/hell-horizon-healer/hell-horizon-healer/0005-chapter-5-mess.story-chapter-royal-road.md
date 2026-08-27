@@ -1,0 +1,181 @@
+---
+id: 92c5a6e8-50d9-5bd1-bb51-58f45c99f1e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5 - Mess"
+slug: 0005-chapter-5-mess
+partOf: hell-horizon-healer
+position: 5
+ownLength: 1830
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3520454/chapter-5-mess"
+royalRoadId: "3520454"
+---
+
+The stairwell opened into a void below. Darkness, thick like smoke, pooled a few steps below creating a blanket impossible to see through. Jake’s flesh prickled, like something was watching him from underneath it. Above was a large stair-well going straight up. The walls, which were previously a worn beige plain concrete wall, were now a beige-brick. Moss grew from the cracks.
+
+“We need to go up,” he said as it was the first thing on his mind.
+
+“Jake,” Arthur butted in. “Leave it to the expert.” He turned to Edwin, nervously shifting his vision over the pitch blackness below.
+
+“I’m with the lad. It’s better to deal with the devil you know than the one you don’t.”
+
+Arthur nodded, taking up the front just like they’d gone over. “Then let’s go.”
+
+The stair-well was a lot wider than previously, and the distance between the safe-floor and the next, had also shifted considerably. A small green exit glowed high above, marking the entrance to the next floor. It would take at least five minutes to reach.
+
+But there was something on Jake’s mind; something that he didn’t want to let go.
+
+“What are everyone's powers?” he spoke up, keeping his full attention above and below. Everyone looked at him. “No one likes letting their secrets out. So I’ll start. The better we know about our abilities, the better we can fight as a team. I can heal.”
+
+He could tell everyone was afraid and on edge. They needed something to make fighting a little less daunting. Having the knowledge he could heal their wounds if they got injured should do the trick.
+
+“Heal?” Chloe looked surprised
+
+“Minor wounds. Cuts and scrapes, that sort of thing.”
+
+“That will be useful,” said Edwin. “Then if that’s the case, I have Marksmanship. Makes me a better shot.”
+
+“Fire manipulation,” Lyle shared without hesitation.
+
+Jake’s brows raised in surprise.
+
+Holy shit. Magic? Actual magic?
+
+Lyle shook his free hand. “I don’t know how to use it yet, though. I mean I've tried, but I don’t quite understand it.”
+
+“Why don’t you just listen to the static?” Jake asked.
+
+“The what?”“The mana,” he explained in a way that he could understand. “Energy to fuel your Fire Manipulation. It’s everywhere in the air, all around us, even now. You have to figure out how to control it.”
+
+Though he himself was still working on that.
+
+“I’ll try that later," Lyle said. “I also do more damage with an axe and do well against fire. The Traits and Skills must have something to do with our professions.”
+
+Or experiences. There’s a difference.
+
+Jonathan nervously croaked out that he had Bowmanship, which Jake guessed was a lesser form of Edwin’s Marksmanship considering it was more limited. Or maybe not? Maybe because it was more limited that it was stronger?
+
+That was something he’d watch out for.
+
+Sloane was hesitant at first, but she eventually surrendered under everyone’s gaze and shared that she had Wind Manipulation. That was her skill, but she didn’t feel like sharing what her trait did. Smart. Unlike Lyle. Don’t be like Lyle.
+
+Oh, and unlike Lyle, Sloane had actually learned how to use it. Barely. She could send out a fart of wind with her palm. It literally just flapped her jacket.
+
+Susan wasn’t in the mind to explain her powers. She just ignored them. Though Jake would love to see Edwin or especially Arthur, try to make her.
+
+Chloe was the last to share. She had Psychokinesis, which Jake and Jonathan were the only ones to really know exactly what it did—in theory. Controlling things with her mind, manipulating them.
+
+Damn, she got lucky with that one.
+
+But again, she didn’t know how to use it. Jake couldn’t help but sigh at their collective uselessness. They had spent so much precious time talking and planning and worrying about things outside of their control that they didn’t even do the bare minimum for their own strength; their own survival.
+
+It was one of two reasons he wanted to face the monsters. One was food and water, and the other was power. Levels. Those who took the risk and fought with their life on the line would grow stronger while the others hid behind their walls while everyone else took the initiative to protect their own lives.
+
+In the end, to Jake’s annoyance, knowing what everyone did didn’t have much effect considering no one really knew how to use their abilities. However, Edwin made sure Jake was more protected, having Arthur—as much as he didn’t like it for some reason—closer to him.
+
+Yeah, I like it as much as you do, Arthur
+
+They stopped at the door to the next floor. Arthur nodded to everyone, then opened it up. Water gushed out. He quickly stepped through the threshold of the door and onto the other side, planting his shield in front of him. Everyone else quickly filtered in, regaining their formation.
+
+It was a total disaster zone. A main utility line had ruptured near the ceiling, raining a steady, freezing drizzle onto the linoleum below. The water was already ankle-deep, completely waterlogging the carpet runners and turning the floor into a grease-slick mirror.
+
+Upturned couches, shattered drywall, and scattered suitcases from panicked residents choked the narrow space, creating a maze of jagged choke points. The air smelled heavy of rust, wet mold, and ozone.
+
+At the far end of the cluttered hall, three shadow quadrupeds were tearing into a discarded mattress. They were sleek, hairless, and oily, their bodies absorbing the dim light bleeding through a cracked window. They looked like trash goblins, just using four limbs instead of two.
+
+“What the hell are those?!” Jonathan screamed out.
+
+“Stay composed!” Edwin barked, reminding everyone of their duty.
+
+Jake shifted his grip on his longbow, his boots completely soaked through to the socks. The cold water was an annoying sensory distraction, but his newly acquired Concentration kept the irritation locked behind a mental wall.
+
+Edwin took a tight breath, raising his weapon. “Arthur, dead center. Brace the shield. Ranged line, step up.”
+
+They quickly did as they were told.
+
+Jonathan’s hand trembled as the three monsters rushed at them, snarling. One of them leaped up and over an upturned fridge and jumped down without losing any speed.
+
+“Hold!” Edwin shouted, aiming his crossbow at one of the beasts. “Wait until they’re together!”
+
+Jonathan didn’t. He released the arrow on his string and it sailed for… nothing, completely whiffing into the ceiling.
+
+“Useless!” Edwin said, then right after. “Boy, hold!”
+
+Jake had no use for panic; he understood the plan. He was a terrible shot, but even he could hit three creatures all bunched up together. With his new strength stat, pulling back the bow string was far easier than before.
+
+All three monsters lined up.
+
+“Now!”
+
+Edwin fired his crossbow, the bolt whipping through the air and boring a hole straight through the creature’s eye with pin-point accuracy, killing it instantly.
+
+(Lvl 2) Skulker defeatedRewards: 1 Credit.
+
+The new words almost made him lose composure. He removed the notification with a mental command.
+
+Jake released his arrow a beat later, the arrow twanging through the air and punching straight into the monster’s chest. It didn't fall.
+
+One dead, two alive. Screeching, they rushed before either of them could ready another arrow. Everyone except Jake.
+
+In just a second or two, he loaded another arrow and loosed it in one, fluid motion. He missed, the arrow skimming past the monster’s cheek. Dammnit.
+
+The remaining two monsters skidded through the ankle-deep water, their claws clicking frantically against the slick linoleum as they lunged toward Arthur’s glowing barrier.
+
+Arthur was perfectly placed. His boots were wedged against a fallen doorframe, his weight thrown forward into his kite shield. If the beasts hit him head-on, his bulwark would stop them cold.
+
+Then, Chloe shifted behind him, moving in an attempt to attack, to do something to help. She tripped forward, her spear arm flailing out as she tried to balance herself.
+
+But Jake's perception caught the micro-details. Her breathing was too steady. Her heart rate didn't have the chaotic spike of actual panic. The blunt wooden end of her spear shaft jabbed directly into the back of Arthur’s left knee.
+
+It was a small, precise nudge.
+
+Arthur’s leg buckled. His center of gravity shifted an inch to the right, causing the flat plane of his shield to tilt at an angle.
+
+The first charging monster slammed into the slanted barrier. Instead of smashing into an immovable wall, the beast's momentum glided right off the deflecting static field, redirecting its trajectory straight toward Jonathan’s exposed flank.
+
+Jonathan froze, completely paralyzed as the wet, hairless jaw of the beast snapped into his shoulder. A wretched, blood-curdling scream burst out from his throat.
+
+“I’ve got you!” Lyle bellowed.
+
+The fireman’s heroic programming overrode his common sense.
+
+Seeing the frontline breached, he broke rank from Arthur’s side and charged into the open water, swinging his heavy fireman's axe in a massive, telegraphed overhead arc.
+
+It was a terrible move.
+
+The monster easily anticipated the clumsy swing, ducking its low torso beneath the arc.
+
+Lyle’s boots lost all traction on the grease-slick floor.
+
+He completely whiffed the strike, his momentum carrying him forward until the monster slammed its oily skull directly into his ribs.
+
+The impact sounded like a wet sack of concrete hitting drywall. Lyle flew backward, crashing hard into a pile of shattered ceiling tiles, his axe clattering into the deep puddles.
+
+By this time, Edwin had reloaded his crossbow and fired it, the projectile pinning the beast directly into its throat. It fell, curdling in its own blood over Jonathan's shivering body.
+
+(Lvl 2) Skulker defeatedRewards: 2 Credits.
+
+Jake didn't look at Lyle, and he didn't care about the breach. His eyes were locked on Chloe.
+
+As the collective terror in the hallway spiked into pure hysteria, Chloe’s posture straightened. The pale skin on her face regained its color, and the muscle fibers in her arms visibly tightened, rippling with a sudden influx of strength.
+
+What the hell was going on?
+
+With Arthur still down and Lyle thrown into the wall, the second monster seized the opening. It jumped over Lyle's groaning body, its jaws unhinging as it bared its teeth at the remaining backline.
+
+Jake snapped to attention and fired the arrow he had already prepared.
+
+At this distance, he couldn’t miss.
+
+The arrow shot straight through its open maw and up into its brain.
+
+The creature, still going from its forward momentum, crashed into the water in front of Jake, stopping right at his feet.
+
+Another notification arrived, this one longer. He kept it for later.
+
+He bent down, placed the sole of his shoe against its cranium, and retrieved his arrow.
+
+Information flashed in his vision, but he swiped it away the moment it formed. His whole attention was placed on Chloe. He frowned.
+
+“Why did you do that?”

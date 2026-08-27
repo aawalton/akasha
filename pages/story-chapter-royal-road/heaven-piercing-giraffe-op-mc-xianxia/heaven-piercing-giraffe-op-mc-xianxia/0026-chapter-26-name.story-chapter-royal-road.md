@@ -1,0 +1,225 @@
+---
+id: 08563862-6621-58c7-b495-753f3d2bc479
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26: Name"
+slug: 0026-chapter-26-name
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 26
+ownLength: 1602
+unit: words
+publishedAt: 2026-08-15
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3817279/chapter-26-name"
+royalRoadId: "3817279"
+---
+
+Chapter 26: Name
+
+I was shoved inside a tight space, more bars of steel closing around us. The others tumbling in after me one after another.
+
+White hit the cold stone floor and groaned, low and pained. I scrambled toward her on my knees, the rope still binding my wrists making the movement clumsy and slow.
+
+Smoky looked down at us from outside the bars with cold eyes, still puffing at the smoking stick. "Did you check if any of them have pills on them?"
+
+"We did." One of the humans, standing just behind him, shrugged. "Ransacked their tents too, before we left. Nothing."
+
+"Maybe they'd already consumed everything, out of desperation, by the time we showed up," another offered.
+
+Smoky clicked his tongue, glaring through the bars at all of us.
+
+"How wasteful." He shook his head. "You shouldn't have resisted. All you did was court death for nothing." He turned to go.
+
+One of the other men fell into step beside him. "You're wasting our pills too, you know. Stop lighting up when we're not even in a fight, Henry."
+
+"Shut up." Smoky shoved the outer door open, and the whole group filed out after him, boots echoing down some corridor I couldn't see.
+
+Then it was quiet. The silence hurt. Then I realized that if the silence hurt, someone needed to break it.
+
+I looked around at everyone else. Dull eyes. Slumped shoulders. Nobody moved to say anything.
+
+I waited.
+
+I waited longer.
+
+No one broke it.
+
+I pulled White on my lap instead, since that was the only thing my hands seemed capable of doing.
+
+[How about you break the silence yourself.]
+
+I can't.
+
+[Why not?]
+
+I'm just a giraffe. Being noisy is a human thing. It's their job, not mine.
+
+[You're human now.]
+
+I still can't. I don't even know their real names. I looked down at the human below me. Not even hers.
+
+Something wet landed on White's face.
+
+"Why are you crying?" She reached up, slow, wincing with the effort it cost her, and wiped at my cheek with one thumb. Her hand was cold. Colder than it should have been.
+
+I caught it before it fell. Warming it with my own.
+
+"In the end you're the one who broke the silence."
+
+White smiled. "What are you talking about?"
+
+I shook my head. "I'm useless."
+
+"Again, what are you talking about?" She sighed. "But if you really want to be sentimental about it then sure, you really are useless. You're the only one here who could actually do something right now. Instead you're crying on top of me."
+
+"I'm not capable of anything. I don't even know anyone's real name."
+
+More droplets fell onto White's face, one after another, and she scrunched her nose against the sensation.
+
+"Stop. Stop, that's disgusting." She wiped her face with the back of her hand. "Wait, you said real names? So you've been calling us something else, this whole time?"
+
+I hesitated, then gave her the honest answer: a list of animal names, delivered plainly, one after another, in the order I'd assigned them.
+
+She burst out laughing, then immediately pressed a hand flat against her own wound, hissing through her teeth.
+
+"Stop making me laugh. Are you trying to kill me?" She caught her breath. "So, what animal am I then in that head of yours? I'm guessing a swan. I'd make an excellent swan. Elegant. Poised."
+
+I shook my head. "Just White."
+
+"Ehh? That's boring." She looked mildly offended by this. "All that creativity for everyone else, and I get White?"
+
+"...Sorry."
+
+"Why are you apologizing?"
+
+"I don't—"
+
+"My name is Gwyn." She cut me off. Her voice was gentler this time. "Do you think you can remember it now?"
+
+I nodded. "Gwyn."
+
+"I like teasing people who cry easily, so stop giving me so much material or I'll never stop."
+
+I nodded again, wiping at my own face with the back of my bound hands.
+
+Then, from behind me, another voice.
+
+"My name's Mei."
+
+I turned. It was Donk— no, it was Mei.
+
+"I'm going to marry Lukor when I grow up," she added, grinning despite her messed up face, chin lifted now with confidence.
+
+"Raffea told me she was privately calling you a donkey," Gwyn said, entirely too pleased with herself.
+
+Mei's grin vanished instantly. "Donkey?! Do I really look that stupid, like a donkey?!"
+
+"Apparently so." Gwyn grinned wider, directly at me now.
+
+I turned to Mei quickly, shaking my head. "N-no, that's not — I thought of Lukor as a zebra, and you were always close to him, so I thought donkeys being related to zebras made sense, and I—"
+
+I trailed off, aware that the explanation was somehow making things worse rather than better.
+
+Mei set one fist against her open palm. "Oh. I see." She smiled. "I forgive you, then."
+
+Then, like the first stone in an avalanche, the rest of them followed.
+
+"I'm Rena. I like cooking."
+
+"Shila. I want a strong husband, one day."
+
+One woman, near the back, said nothing at all. When I looked over at her, she looked away first, arms wrapped tight around her own knees.
+
+Nobody pushed her. The cascade simply moved past her and kept going.
+
+"What about the one who waved at you, when we first arrived?"
+
+"No! Aturo was inconsiderate."
+
+"Ehh? So his name's Aturo. So you two already know each other, then."
+
+"S-shut up!"
+
+The Jade women dissolved into bickering, quick and overlapping, half-laughing despite the steel bars around all of us.
+
+I liked it. Considerably better than the silence had been.
+
+"You finally smiled," Gwyn said, still lying across my lap.
+
+"Yup, Gwyn."
+
+"Then let's think about how we're getting out of here."
+
+"Sorry, but thinking has never been my strong point."
+
+"I know. We'd all be dead if I left it up to you." She turned her head toward the bars. "I'm thinking of reshaping these. Make you something like a helmet to cover your head. Problem is I can't fight right now. Do you have any attack skill? Anything?"
+
+"Face-Slap. I can turn anyone I face-slap into my follower."
+
+"Seriously?" She started laughing again. "Stop. My wound hurts."
+
+"But—"
+
+Gwyn stopped laughing. "I believe you."
+
+I nodded.
+
+"Now the only problem left is distance. I assume you're one of the slow ones."
+
+I opened my mouth to argue, then realized something. On the savanna, I had never once needed to be fast. Speed was for animals that ran from things. I had simply stood very tall and let whatever problem was approaching reconsider its life choices before it got close enough to matter. I asked instead, "Do you know anything about Courting Death?"
+
+Gwyn blinked. "Doing something reckless? Why are you asking?"
+
+Is that enough information? I asked the system.
+
+[Not yet. We're close, but we need more. Try asking the one who keeps saying it instead.]
+
+Why do humans need their language to be so complicated? A single phrase apparently required prerequisites, accumulated knowledge, and firsthand experience of heartbreak just to be properly understood. Translation is supposed to make this simpler. Why wasn't it doing its job?
+
+[Translation is doing its best. This one's on the humans.]
+
+Fine.
+
+I looked at Gwyn.
+
+"Sorry, could we wait until Smoky comes back? I'll need to ask him something."
+
+"Was it really that important?"
+
+"Yes."
+
+Gwyn sighed, though her smile remained. "Fine. I'll leave it to you, then."
+
+Then we waited.
+
+The waiting was worse than I expected. Every set of footsteps in the corridor outside made several of the Jade women go still, listening, until the sound passed our door and moved on to somewhere else entirely. But we need to wait. I desperately need a new skill to be useful.
+
+***
+
+The door opened and Smoky came in, a tray of bowls balanced against one arm.
+
+"Why am I even doing this?" He crouched, setting the tray down with more force than it needed, ceramic clattering against stone. He shoved it under the bars toward us with one boot, not bothering to look at any of us while he did it. "Eat."
+
+None of us moved for it. Gwyn's eyes tracked him instead, sharp despite the pain visibly written across her face.
+
+Smoky straightened, brushing dust off his knee, and glanced once around the cell.
+
+He turned to go.
+
+His boots had barely scraped against the stone floor when I finally found my voice.
+
+"What does courting death mean?"
+
+He stopped, puffed out smoke, and looked back at me over one shoulder, grinning. "It means livestock like you shouldn't dare fight back. Idiot."
+
+[You have gained enough knowledge about courting death: about its origin, about its nonsense, and about what it actually is. Prerequisites fulfilled: to learn to love for courting, to learn the pain of losing someone for death, and the nonsense that results when the two are combined.]
+
+[You have learned Courting Death. Petals dance for the one you love; shadow stretches to seize the one you hate. Both are indestructible while under your command. Skill can only be activated when the one you love and the one you hate are both present at the same time.]
+
+I don't have the faintest idea what "love" the system was talking about. I smiled anyway.
+
+"Why are you smiling?" Smoky's grin vanished. "Do you have any idea what kind of position you're actually in right now?"
+
+"I take it," Gwyn said, still stretched across my lap, watching my face, "that you got exactly what you wanted just now."
+
+I looked down at her. I grinned wider.
+
+"Yup!"

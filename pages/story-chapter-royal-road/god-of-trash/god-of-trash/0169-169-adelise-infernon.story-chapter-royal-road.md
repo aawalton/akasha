@@ -1,0 +1,77 @@
+---
+id: a8055528-8101-5aa3-a074-62f6fe4a75e7
+page-type-slug: story-chapter-royal-road
+title: "169. Adelise Infernon"
+slug: 0169-169-adelise-infernon
+partOf: god-of-trash
+position: 169
+ownLength: 1979
+unit: words
+publishedAt: 2025-08-28
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2555826/169-adelise-infernon"
+royalRoadId: "2555826"
+---
+
+The fireball flew forth. It loomed large in Rhys’s vision, eclipsing the moon, then the sky, then everything. He reached into his trash star, and called back to his earliest days. It was time to pull out an old classic. He threw piece after piece of garbage at the impending fireball, using Trash Manipulation to hold all the trash together. His hands moved at lightning speeds, so fast they seemed to blur. Faster and faster, throwing more and more garbage, until he created a trash ball of equal size to the fireball.
+
+But that wasn’t enough. The fireball hit it and began burning and melting through the trash. Rhys activated Trash Intent on the whole trashball, treating it as one item, and that slowed its melting and burning, but didn’t stop the process. He didn’t let that keep him from tossing more and more trash into the ball, then extending his Trash Intent to include the new Trash, while holding it all in place with Trash Manipulation. It was excellent training, but the sweat dripping down his back and face from the sheer, indefatigable heat from the fireball meant he barely noticed. More. More trash. Enough to block out this tiny sun! He had to have enough. Enough trash to overwhelm even this purifying fire!
+
+The trash burned, and the fireball darkened. Rhys’s eyes brightened in turn, as if he were the one stealing the light from the fireball. He piled on more trash, compacting it around the fireball with Trash Manipulation. The fireball grew dimmer and dimmer, until finally, it winked out.
+
+Although this all took some time to describe, it played out in the space of a single breath.
+
+Across from him, Adelise swirled her rapier. Flames danced around the slender blade, like a ribbon twirling around a baton. “You did well to block the first fireball. But what about the rest?”
+
+She flicked her blade, and a dozen fireballs filled the sky. They flared bright, then rained down on Rhys, hammering him from the heavens.
+
+Cursing under his breath, Rhys threw the remains of the trash ball at the closest one, then fled. The other fireballs chased him doggedly. He formed trash ball after trash ball. Sometimes, pieces of garbage would fall out of the trash ball and clutter the ground, leaving a mess behind him. He didn’t care, though. Right now, the most important thing was to block or cancel the fireballs.
+
+One trash ball took out two fireballs. He formed another, but only made it halfway before a fireball struck his half-finished creation out of his hands. Another made it to the basic shape stage, only for a fireball to smash into him and send him stumbling, but taking the hit meant he could use a fully-formed trash ball to wipe out the next three fireballs. Another hurtled down, and he leaped to the side at the last second, letting it hit the ground.
+
+Between the trash balls and Rhys’s dodging, he managed to survive the volley. Some of the fireballs got through and struck the ground, setting the undergrowth and the earth itself, it seemed, alight. Dark fumes rose from the ground, and the fires raged higher, burning in strange colors.
+
+Adelise scoffed. “There’s no saving you. Now that you’re surrounded by my flames, it’s time to die.” She flicked her rapier. “Grand Inferno!”
+
+Nothing happened.
+
+Frowning, she looked at the rapier, then looked at the ground again. Her brows furrowed deeper, and she flicked the rapier again, but again, nothing.
+
+Rhys began to chuckle. It built and built, growing from a chuckle to a cackle, to a full-out evil laugh, hands clawed at the sky, spread stance and all. “You fool. Do you realize what you’ve done?”
+
+Adelise narrowed her eyes.
+
+“All that fire you’ve been throwing… you’ve thrown it into my trash. This fire is no longer your fire. It’s now a dumpster fire. Trash fire. In other words… my fire.”
+
+She jolted, then stared at the ground. As Rhys had said, the ground was indeed covered in trash. Her flames had spread over the earth, but as they’d spread over the earth, they’d grown into Rhys’s trash as well, until there wasn’t a single flame on the ground around them that wasn’t at least partially grounded in garbage. These were no purifying flames, but filthy, disgusting, toxic, trash flames. Fire no one would want. No one could cook with it, light with it, or warm themselves with it, not without tainting their bodies with filth and impurities. It was a flame only Rhys could love, but dear gods, did he love it.
+
+Rhys grinned, then clawed upward. “Grand Dumpster Inferno!”
+
+The strangely-colored flames, belching dark smoke, surged into the sky. They converged into a filthy trash-strewn fireball, then bore down on Adelise. She turned and ran, but Rhys clicked his tongue. There was a new level to one of his techniques, one that had been brewing in the background all this time without him realizing it, but as he watched Adelise flee, it suddenly came to the forefront of his mind. Pushing down at her with one hand to speed the trash-fireball on, he pointed at the flaming, garbage-covered floor with the other.
+
+“Trash Step… Obstruction!”
+
+The garbage on the ground shifted all-but-imperceptibly. Where before, Adelise’s natural mage-boosted agility had her steps land true, now, they landed on strangely-shaped pieces of trash. She slipped, her ankle twisting, and fell to a knee.
+
+That was all the opening Rhys needed. He slammed his hand down, and the trash-fireball smashed into Adelise. She screamed, batting at the flames, but to no avail. Rhys still had control of them through Trash Manipulation, and sought out the openings in her silver gear to singe her to filthy ash.
+
+It was an obvious weakness, one she was all-but telegraphing with her silver gear. If it was heat- and fire-resistant, like the fire-resistant gear he’d seen back home, then that meant she wasn’t herself immune or highly resistant to heat or fire. Ergo, turning her own flames against her through a trashy twist of his own was highly effective to injure her, even though he usually wouldn’t attempt to use a specialist’s element against them. Whether it was something deficient in her training regimen, she didn’t like the pain of training resistances, she had no karma with resistance skills, or something completely out of his consideration, like some kind of special constitution that was uniquely poorly suited to fire defense, he had no idea, but he knew, from her clothes, that this would be effective against her.
+
+And he was right. She screamed and flailed as the fire surged into her, scorching her to ash. He felt bad about it, but only for a moment before he remembered that she would’ve made all her victims and everyone she fought against feel this way before she killed them. There was no need to feel pity for someone who would inflict this same pain upon others. It was simply a case of ‘what goes around, comes around,’ and she was taking her turn to be immolated. Maybe she might have had a counterattack or a defense, if she had kept her wits about her when the fire began to burn off her flesh rather than off Rhys’s trash, and Rhys himself felt his control slip, but she screamed in pain instead—which was totally understandable—and thrashed about on the ground, until she could thrash no more. Her body stilled, a large portion of it naught but blackened ash.
+
+Rhys approached at a jog and sucked out all the energy, impurities, and everything else that he could. Surprisingly, he could take a portion of her body with him, but only the part that had been burned to ash. The rest of her didn’t qualify as trash; only that portion did. He raised his brows. That would be an interesting way to farm trash, but then again, it would be slower than farming trash the usual way, or simply by attacking trash people in the first place. It wasn’t a good idea to try to farm people as his primary trash, anyways; it led to the kind of thinking he didn’t want to end up in, where he simply saw everyone around him as potential resources.
+
+He turned to the field of burning trash around him. Holding out his hand, he sucked it all into his trash star once more, returning it from whence it had came. He didn’t want to leave trash behind, not to mention that he shouldn’t leave too much evidence around. If they picked up that it was one particular Tier 3 with a very particular fighting style who was causing all this chaos, his chances of continuing to get away with chaos went down. And he had a lot of chaos left inside of him.
+
+With the trash collected, his opponent defeated, and all the pieces gathered, Rhys turned to the other battle going on: Sable, newly-minted Tier 3, versus the Empire’s Tier 3. This one wasn’t a soldier, but instead a noble of some kind, who wielded a strange-looking sword that seemed to be made of rainbows. Sable clearly didn’t like the light that shot off from the blade whenever the mage pointed it her way, but when she got close, she had the overwhelming advantage with her extra limbs than the somewhat-clumsy Tier 3 did. Rhys would have let it play out, but they only had so much time, and there wasn’t much left. He charged in, adding a second challenger to the fight. The rainbow-sword user pointed their scintillating light attack at him—their first and only mistake. Rhys deflected it with some trash, and Sable immediately pounced upon their distraction to deliver a series of heavy blows to the mage. While the mage dealt with that, Rhys harried them from the side, and between him and Sable, the two of them quickly dismantled the mage. Rhys sucked up the man’s impurities and energy, and that was that. The Tier 4 and Tier 3, both dealt with.
+
+He collected the man’s sword, noting how beautiful the rainbow-colored light that made up the blade itself was. Just to experiment, he tried thrusting it, but no light shot out. Frowning, he summoned a piece of trash and struck through it, or tried to. The light simply bounced off.
+
+“Huh,” Rhys muttered. Seemed like this piece of equipment needed practice, comprehension, or some specific skill to combo with it for it to work right, kind of like his broken sword and his Trash Intent. He tucked it into his storage ring, making a note for later. He could offer it to any of the mages back at camp, or anyone they rescued today; if anyone could use it, it would be worth it.
+
+Not for the first time, his mind went to the sun sword buried on the grounds of Purple Dawn. He considered the rainbow sword again. Like that sword, it was a sword based on light; a sword based on light, like Aquari, his first school’s schoolmaster’s sword. Were they all related, somehow? Or were swords based on light just popular in this world? They had been in his world, anyways, so he could understand that. There’d been no end of light sabres flashing around, some of them more or less creative in their application of light and sword.
+
+It's something to look into, but not something to waste too much time on, he concluded.
+
+Turning to Sable, he gestured. “Let’s go help Mouse clean up and get out of here before anyone else gets here. Our time is running out. Someone is going to react to us attacking the bases sooner rather than later at this point.”
+
+Sable nodded, and the two of them jogged to where Mouse was fighting with the lower-Tier mages.

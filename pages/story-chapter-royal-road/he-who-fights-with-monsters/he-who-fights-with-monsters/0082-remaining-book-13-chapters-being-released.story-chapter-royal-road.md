@@ -1,0 +1,23 @@
+---
+id: 2c48bdef-128e-5d4c-9939-7569dd5a5679
+page-type-slug: story-chapter-royal-road
+title: "Remaining book 13 chapters being released September 2nd"
+slug: 0082-remaining-book-13-chapters-being-released
+partOf: he-who-fights-with-monsters
+position: 82
+ownLength: 313
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3861473/remaining-book-13-chapters-being-released-september"
+royalRoadId: "3861473"
+---
+
+G'day all,
+
+I've always said that there would be people who read the entirety of He Who Fights With Monsters without paying a cent. That has never been a challenge, thus far, but between debilitating illness, a long-planned family vacation and roaming around North America on a book tour, the writing has, for the most part, been on hold. Book 13 will be published on October 6th, and it will contractually be required to come down from all online sources, which will happen on around the 22nd of September. To make sure that as many people as possible get a chance to read on in it's original online incarnation, the rest of book 13 (up to chapter 1024) will be released on Royal Road and Scribblehub next week, September 2nd. Book 14 chapters will be released later, following the normal delay after advanced chapter releases on Patreon.
+
+I know this isn't an ideal situation, but circumstances are what they are and I can only do my best to do what's fair for everyone, be it patrons, readers on online platforms or those waiting for the books to come out on ebook and audio. It's certainly been an interesting 18 months for me, from the highs of meeting my readers across the globe to the lows of being in the ICU, in a medically induced coma. I have another US book tour in November, and I'm hoping to fill the time until then with knuckling down and getting words on the page. It's been a crazy hiatus and I'm bursting to get back to writing, like a kid hopping from foot to foot until his teacher gives him permission to use the toilet.
+
+I'd just like to thank you all for your loyalty over the last seven years, and hope you continue to enjoy as we head into the 14th and final book.
+
+-Shirt

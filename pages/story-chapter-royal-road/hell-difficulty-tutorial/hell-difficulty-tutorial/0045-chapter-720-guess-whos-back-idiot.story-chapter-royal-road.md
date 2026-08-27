@@ -1,0 +1,155 @@
+---
+id: e51bbf0d-c7be-54c1-a104-12a77df892c5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 720 - Guess who’s back, idiot!"
+slug: 0045-chapter-720-guess-whos-back-idiot
+partOf: hell-difficulty-tutorial
+position: 45
+ownLength: 2159
+unit: words
+publishedAt: 2026-01-01
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2899747/chapter-720-guess-whos-back-idiot"
+royalRoadId: "2899747"
+---
+
+An hour later, Savant is still nowhere to be seen, doing whatever Savant does.
+
+As I head alone toward the meeting spot, I notice a flash of white fur in the bushes as the noble lady’s pet follows me. Fen doesn’t howl or bark, just moves along quietly behind me. In a way, he almost looks like some spoiled youngest child who escaped his doting mother and is now exploring the outside world for the first time.
+
+I’m just surprised the Magistra hasn’t come to get him yet. Maybe she wants to punish him by leaving him on his own. Maybe she can’t enter. That would be strange, though, since we could.
+
+There’s also the possibility that they’re only trying to keep Champions out, maybe as some agreement between them and the demons. From what Vega’s told me, this planet’s Absolute is a demon, so it would make sense.
+
+Or we’ve been lied to, and the illness can spread to Champions, too, and she doesn’t want to risk it. And my paranoid mind keeps going, tossing up more possibilities one after another while I prepare in case there’s a trap waiting for me.
+
+But as far as I can sense, there is no trap, even though they are well prepared. Instead, a group of six people waits for me. Two more men with crystals in the middle of their foreheads, like the man and woman I met before, along with two women in white clothes, who I assume are healers.
+
+“That’s it? This is all of you?” I ask as I approach them.
+
+“You haven’t been informed of what to expect by the Magistra or her subordinates?” the man says suspiciously, showing no trace of the beating he took earlier.
+
+“Maybe we were, maybe we weren’t,” I avoid answering, taking another step closer. “Go on, check your mark.”
+
+Instead of doing so himself, he gestures to the woman beside him. She steps forward while the rest of the group stays silent. The crystal on her forehead lights up, releasing intricate mana wavelengths that I see clearly through my eye trait, though they are invisible to normal sight.
+
+It doesn’t touch me, and I don’t feel any senses spreading through the area. It looks more like it’s reading something about me directly.
+
+“At first glance, his mark seems original,” the woman says, though she continues her work. “It was placed a day ago by the Magistra herself, most likely. There are no mistakes like those we’ve noticed with the intruders.”
+
+She keeps talking, her words meant for the rest of her group, but I keep watching her closely. Even though they try to hide it, I start noticing it, the same signs Vega had. They don’t seem fully focused or comfortable in their own skin. Their body temperature is elevated. Vega and her group had that same drained color, pale skin, and faint blue veins visible underneath. To an extent, this group has that too. Only the healers seem to be exceptions.
+
+Well, so much for the illness not affecting people above level 100 yet.
+
+A minute later, the woman finally stops. “The mark is genuine.”
+
+“Thank you, Two,” the man says before turning to the other two men. “Three and Four, continue your task. Two, and I will explain the situation.”
+
+The ones called Three and Four don’t say a word. They just turn and move away immediately. Especially Four. His movement catches my attention. He’s trying to hide it from me, but I can tell he’s the strongest of the group, very likely above level 400, and strong enough to take the other three at once if he wanted to.
+
+Interestingly, he also looks the youngest out of them.
+
+The man who seems to be the leader begins to explain, “The virus has been confirmed as man-made, likely created in a lab formerly located in this area. The lab has already been destroyed, preventing us from gathering more data. We don’t know if this place was chosen to start the spread or if there was another reason for the lab’s presence here. As for the organization responsible, we suspect it was formed by an exiled Champion from a neighboring kingdom known for its hatred of demons. His abilities don’t align with this kind of work, so we believe he had help in creating the virus if it was him.”
+
+“Possibly an attendee on a Beyond quest?” I ask.
+
+“It is unlikely, but it is one of the options. Another possibility is that he’s being backed by an Absolute or a Champion from another planet. Our current Absolute is not exactly known for his efforts to limit this kind of influence.”
+
+“The Hornless Demon, that’s what he’s called, right?” I remember what Vega told me about her planet a long time ago.
+
+“Yes, that’s what most people call him. In short, he’s a former slave who rose to become an Absolute and a perfectly fitting chaotic representative of his race. As dangerous as this situation is, at least we know he won’t interfere unless the entire demon race is in danger or something truly interesting happens.”
+
+“And your side? I heard about the Bloody Hero and something about an Undying Dragon? But that’s not a real dragon, right?” I ask. Even as I speak, I feel a spark of hope. Vega told me all this back when we first met, and her words stuck in my mind with a powerful dose of curiosity. I want to see a dragon.
+
+“I’m not sure how much the political situation on our planet will help you with your quest, but since it’s not classified information, I’ll tell you. The Bloody Hero is a Champion who once fought the Hornless Demon for the title of Absolute. He lost in the end but survived the battle. These days, he’s retired.”
+
+I blink. “Retired?”
+
+The man nods. “In the truest sense of the word. Our intel says he’s still wounded from that clash and can only unleash his mana a few more times before his body tears itself apart. Considering that, and the disappointment from his loss, as well as a kingdom that wanted to use him, he secluded himself in a forest. He built a cottage by the lake, where he insists on fishing every day despite his ongoing lack of success. He’s said to take disciples every once in a while, if he feels like it, and is considered to be a very... interesting person.”
+
+Putting aside the cliché setup, I ask, “And the dragon?”
+
+“It’s just a lesser Tarrasque that made its nest in a nearby kingdom. The common folk started calling it a dragon.”
+
+“How disappointing.”
+
+“It isn’t. A true dragon’s presence here would be catastrophic.”
+
+“I stand by my prior statement,” I reply, repeating myself as we stop in front of the cottage. After I knock, Lily steps out, and I continue, “Your healers can talk with Lily. She’s already been examining some of the people with the illness, so you can compare notes. Is that okay?” I ask, speaking to Lily rather than them.
+
+She smiles. “It’s okay. Vega should wake up soon, so be there when she does. I’ll learn as much as I can and then simplify it for you.”
+
+“For some reason, I’m both insulted and very happy.”
+
+“What are you leaning toward?”
+
+“I refuse to answer,” I say, and seeing that Lily still holds her axes, I’m sure I don’t need to worry about her. In the worst case, I’ll rush in to help.
+
+I watch as she walks toward the two female healers, who stare at her in surprise, and I wonder why. Is it the axes? Her young age? Or something only healers can sense? They bow deeply to her, and even the spy ops man and woman give polite greetings while asking if they can check for Magistra’s mark.
+
+Leaving them to it and planning to come back later with a few more questions, I head inside.
+
+Vega now has much better color, as do the other kids. Her gang consists of a well-dressed demon boy, a half-demon girl with shorter horns and yellow hair instead of white, and a strange dagger at her belt. Then there’s a human girl, about six years old, the youngest of the group, and a demon girl roughly Vega’s age.
+
+Creating a Mana Block 2.0 chair, I pull it close and put more effort into isolating the mana I’m accumulating in my halo, which continues to grow as my Ignition Heart beats steadily. I focus on controlling the heat as well.
+
+[Accumulation - lvl 20 > Accumulation - lvl 21]
+
+It reminds me once again just how used I’ve gotten to having stronger people around me who can endure this kind of thing, and how easy it would be to hurt someone on the weaker end of things. Vega is already much stronger than an average human, and the planets we visit are tougher too, especially after a pairing or two. Before returning to Earth, I’ll have to put more effort into refining my control.
+
+I take out a dried, mango-like fruit that was packaged for me in the manor and move it under Vega’s nose. Anger rises in me when I see her face up close, thinner and paler than before, but I push it down for now and let myself enjoy the presence of my very first disciple.
+
+After doing this for nearly a minute, I start getting impatient and bored. I stop myself from poking her side, taking her condition into account, and instead put the piece of fruit on her nose, then grab more pieces, which I immediately start stacking there.
+
+Minion moves a few times, causing the tower of fruit to collapse and scatter across her face and the bed, but I don’t let that stop me. I keep going, building a new one with fresh pieces. I had asked for plenty of fruit to be packaged, so I have more than enough to keep at it.
+
+Just as I start my record attempt of six already stacked pieces, concentrating deeply on balancing the seventh, Vega scrunches her nose and sniffs a few times. The scent of the fruit makes her eyelids twitch before she slowly opens them, revealing her pretty red eyes, one of which has a golden circle around the pupil.
+
+Her horns are still just as small as I remember them, black and pointy, and I doubt they’ll grow much bigger since she’s a half demon. Her light brown hair is longer now, too, falling past her shoulders, and she’s a little taller, too, which somehow makes me feel a bit sad.
+
+They grow up so quickly.
+
+Even before she fully recognizes what’s happening, Vega is already gathering both kinetic energy and mana in preparation, and her senses are the first thing she activates before her eyes even focus on me. Her control almost slips when she realizes who she’s looking at. Multiple scans wash over me, which I allow. She listens to my hearts and even reaches out to touch my chest right above where they beat.
+
+The great Nosescraper of Fruitenburg Keep is now gone, destroyed, but I don’t mind in the least.
+
+“Minion, what do we say when we almost die but pull through in the end?” I ask softly.
+
+She blinks, then smiles brightly. “I lived, bitch!”
+
+“Not that.”
+
+“Guess who’s back, idiot!”
+
+“Good one, but still not it.”
+
+“I ain’t done yet?”
+
+“You’re a lost cause,” I sigh and reach to grab one of her horns, shaking her lightly. “Well, don’t strain yourself. I’m here with a friend, and we’ll take care of everything.”
+
+“Are you going to blow up the bad guys?” she asks, trying to focus on me while I shake her head.
+
+“Possibly. Very likely. Yes. Fucking yes. Absolutely. Without question. So, how are...”
+
+I don’t even get to finish. She gets up from the bed and jumps into my arms, pressing herself against me, her ear resting over my chest. She seems to realize it’s a bit harder now that she’s taller, but she doesn’t care and curls up like a small animal, refusing to move.
+
+“What would your minions think if they could see you now?” I ask, looking down at her.
+
+She looks up, confused. “Minions are dumb, Master. It’s expected for them not to understand certain things.”
+
+Having no defense against that kind of logic, I nod. “I guess.”
+
+“Master,” Vega whispers after a minute, her ear still pressed to my chest.
+
+“Yes?”
+
+“You’re really angry. I can hear it in your heartbeat.”
+
+“Don’t worry about it, Minion. Now then, will you eat with me?”
+
+“You aren’t going to go out? Someone’s been knocking on the door for a minute already.”
+
+“Just some random secret ops guys I met along the way. Ignore them. They’ll get bored and leave soon.”
+
+“It isn’t important?”
+
+“Not at all.”

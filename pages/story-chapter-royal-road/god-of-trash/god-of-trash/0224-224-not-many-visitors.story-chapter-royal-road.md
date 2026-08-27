@@ -1,0 +1,133 @@
+---
+id: 5c211263-4cbe-5109-a789-d494fdf11b7c
+page-type-slug: story-chapter-royal-road
+title: "224. Not Many Visitors"
+slug: 0224-224-not-many-visitors
+partOf: god-of-trash
+position: 224
+ownLength: 1957
+unit: words
+publishedAt: 2025-10-28
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2712333/224-not-many-visitors"
+royalRoadId: "2712333"
+---
+
+Rhys stared. The man stared at him. They mutually shared a stare for a long moment, in the silent snowy woods, with snow drifting all around.
+
+“What’ve you come out ‘ere for, then?” the man demanded, pointing the axe at Rhys. It wasn’t a very imposing axe, more a woodcutter’s axe than a battleaxe. Rhys paused, examining the man with his mana to see if it was a threat, but there was no mana or intent in the tool. The man was just pointing it at him to be rude.
+
+“I came out here to see Mickie. I heard he needed a hand, and I had labor to offer.”
+
+“Oh, did ya.” The man sniffed and rubbed his face, then lowered the axe. “Well, ya heard wrong. I’m busy.”
+
+“You’re Mickie, then?”
+
+The man looked around dramatically, then gestured at all the nothing around them. “Don’t see no one else it could be.”
+
+Rhys raised his brows, then nodded. “Fair enough.”
+
+Mickie looked at Rhys for a long moment. Rhys stood there, waiting, half-expecting to be run off. He could see the thought pass through the man’s face… and then he shrugged and slung the axe over his shoulder. “C’mon. I got some trees to fell. You can keep me company and share the work.”
+
+Rhys nodded. “Do you have a second axe? I didn’t bring one with me.” He could fashion one if he needed to, but it was always easier to ask.
+
+“Comin’ out here without an axe? What’re you thinking? Kids these days.” Mickie shook his head. He lifted his free hand to the shaft of the axe and picked it up. A copy stayed in his hand, but a new one appeared in his free hand.
+
+Rhys raised his brows, deeply impressed. Holy shit. What kind of path can do that? Object duplication glitch path? Oh no, I was reincarnated in another world but my only cheat skill is to duplicate items??? Becoming a billionaire in another world with my object duplication glitch cheat skill!
+
+Mickie tossed the axe at him, breaking him out of his admirative mental spiral. Rhys focused, and the axe seemed to slow. He snatched it out of midair by its haft and spun it around just for fun.
+
+Mickie snorted, unimpressed by his little display. He stomped off into the forest, gesturing for Rhys to follow him.
+
+“What do you use the trees for? Once they’re felled,” Rhys asked. He wanted to know about Bast and the Sword Saint, but that wasn’t the kind of thing you opened a conversation with, and besides, he was curious about the trees, too.
+
+“The little ones for firewood. The big ones for ships. The special ones for artifacts and ornaments. And the normal ones for houses. People need wood for all kinds of things.”
+
+Rhys nodded, feeling stupid. Now that he thought about it, there was no reason mages wouldn’t need wood for ordinary stuff like transport and houses. It wasn’t like their ships were crafted from magic. They magically manipulated the raw materials, true, but they still needed the materials. Same for artifacts and houses and so on. Lots of people needed lots of wood, especially since they built the houses so large around here. It wasn’t like eating, where mages stopped needing it, and only did it for funsies. They didn’t need shelter either, but everyone loved big houses and flashy ships, not to mention their artifacts and gear.
+
+Abruptly, Rhys felt a little inadequate. He didn’t have a ship or a house, and that place he’d been renting in the Empire had probably defaulted to the landlord by now. He’d carved a number of homes out of garbage pits, but that wasn’t the same as having an ostentatious yet pointless manor that he never used and barely lived in, but had anyways just for the hell of it. Living in garbage was trash behavior, but owning a mansion for the hell of it was peak garbage behavior. And if it was a McMansion, so no one else respected it either? Even better.
+
+I don’t think this world has a concept of McMansions, he thought. He raised his brows and tilted his head, slowly nodding to himself. I could always introduce them to it…
+
+That was a long play though, and given that he’d just done a long play, he needed a few short plays before he could gear back up for the next one. Like chopping trees. That sounded nice and un-stressful.
+
+Mickie glanced at him. “I take it you didn’t come out here to chop a few trees?”
+
+“I wanted to try out the new lumberjacking trend.”
+
+Mickie gave him a dead look.
+
+“…I was curious what you knew about the Sword Saint and his apprentice. Paul indicated that you might know something about what happened when they came up here.”
+
+“Sure I do. I was the one what found ‘em.”
+
+“Found them?”
+
+Mickie gestured. “Let’s get a bit deeper. We’re still a bit close to town for that kinda talk.”
+
+Rhys nodded. The two of them walked on, footprints trailing behind them. Snow began to fall, erasing the only trace of their passing. Silence reigned for a time, and then Mickie nodded at him. “That’s an interesting thing you got there.”
+
+Rhys glanced down, and found the Straw doll looking back up at him from where it’d reattached itself to his belt. Reflexively, he fed it a bit of cursed energy, then looked back at Mickie. “He’s an old friend.”
+
+“That so? He’s a strange friend.”
+
+“I’ve had stranger.”
+
+There was another pause. “How do you know the Sword Saint?”
+
+“The way everyone does. Don’t we all want to know why he’s messed up?”
+
+Mickie looked over his shoulder at Rhys, but said nothing. He turned back around. “If you wanna keep it to yourself, that’s your business, I guess.”
+
+“I’ll tell you afterwards.”
+
+“Not before?”
+
+Rhys shrugged.
+
+Mickie sighed. “Everyone’s got their reasons, I guess. No one comes up here for fun.”
+
+“Why not?”
+
+Mickie gestured at the forest all around them. “It’s cold, and there’s shit-all to do? If you aren’t here to harvest trees or hunt monsters, there’s not much reason to come up here.”
+
+“Skiing? Snowboarding? Dogsledding? There’s all kinds of stuff to do in the snow. You guys should take more advantage of the cold to attract people for winter sports!”
+
+“The hell’s all that nonsense?” Mickie grumbled. “Skiing? What’s that? Snowboarding?”
+
+“When we cut down a tree, give some scrap to me. I’ll show you,” Rhys promised.
+
+Mickie nodded, though he still looked apprehensive. He shook his head at Rhys and walked on, and the two of them walked in silence. Daran appeared for the first time in a while and looked around them, admiring the snowy scene. He reached out a hand to touch a snowy bough, but his immaterial hand phased right through it. Looking at his fingers, he sighed silently and lowered his head.
+
+Oh, stop acting. I know you want a real body. That wasn’t in question. What was in question was whether or not rezzing the Demon King was a good idea. Every instinct he had said no, but on the other hand, he was currently public enemy number one in the Alliance. Why not lean in? Or to put it another way, if he was already their worst enemy, he couldn’t make it worse by rezzing the Demon King.
+
+Though honestly, that’s not really my hesitation. He was hesitating less because of how the Alliance would see him, and more because he personally thought it wasn’t a great idea to revive someone stronger than him, whose stated goals did not necessarily align with his, and who might even possess the ability to control him… or at the very least, pull him along with the flow of things, and throw his plans into chaos. He already threw his plans into enough chaos. He didn’t need anyone else there to chaos up his plans.
+
+As they walked, the trees around them grew taller and older. At first, it was reasonable, as if they were walking from a young pine forest into an old-growth hardwood forest, but then the trees began reaching redwood heights and widths, then truly enormous sizes, so wide Rhys couldn’t reach out and touch Mickie’s hands on both sides even if he tried, and so tall that he had to crane his neck to come close to seeing the top. Their branches were so broad and dense that there was a patch of bare ground at their bases, even though the snow piled up six feet high around the edges. A few winter birds flitted around, singing to one another as they danced from tree to tree. In the distance, a herd of deer looked up from where they grazed at the base of one of the snow-free trees, then went back to chewing their cud, unbothered by his and Mickie’s passing.
+
+“We’re going a long ways,” Rhys commented.
+
+“Yeah. We are,” Mickie replied. He slowed to a halt and turned, facing Rhys.
+
+Rhys stopped as well. “Can I help you?”
+
+Mickie stomped, and a giant bear trap sprung up from the ground and closed over Rhys’s head. A barrier surrounded him, arcing from the outer edges of the trap’s jaws to the ground. His eyes narrowed, and he pointed the axe at Rhys again, this time with killing intent. “Who sent you?”
+
+“No one sent me. I’m here for my own reasons,” Rhys stated, crossing his arms, supremely unintimidated. The trap was Tier 3, and high-Tier 3 at that, but all he needed was to flare his mana or trash star, and he’d be free.
+
+“Then say those reasons or die.”
+
+Rhys considered. He wasn’t sure how much the Alliance knew about him, or how much information they’d spread around. Even back in his world, for example, something like “I’m the Sword Saint’s apprentice’s friend” wouldn’t be dangerous to say even with everything they’d broadcast about a crime suspect on television, because it was such a specific detail to share. On the other hand, the rumor mill was what it was, and he was pretty sure he was a hot topic right now. If the rumor mill had done its thing, then it was entirely possible that everyone and their mother knew that he was Bast’s friend. This was where taking a break and entirely separating from society for a bit hurt him; he didn’t know what people knew, and what they didn’t. He didn’t mind lying, either, but if he could tell the truth, he might as well; besides, being a friend of one of the interested parties was about the best story he could think of. It conveyed goodwill and positive interest in the person in question… of course, if Mickie hated the Sword Saint, it could equally be dangerous to express that he was friends with the guy’s apprentice.
+
+Mickie shook his axe. “Well? I’m waiting!”
+
+“I’m thinking. One second,” Rhys said.
+
+“Less thinking, more speaking.”
+
+Rhys chuckled under his breath. You do not know me, do you. He shook his head, then spoke. “I’m a friend of the Sword Saint’s apprentice. I want to know because I’m worried about him.”
+
+“Sure. Sure you are,” Mickie said. “The truth!”
+
+Damn. I was so worried about whether to tell the truth or not, that I didn’t consider how fake the truth sounds!  He pressed his lips together, running his brain at double speed, but still came up empty-handed… so he showed his hands to Mickie. “I don’t know what to tell you. It’s the truth. If you don’t want to believe it, that’s on you.”
+
+Mickie hesitated. His eyes narrowed.

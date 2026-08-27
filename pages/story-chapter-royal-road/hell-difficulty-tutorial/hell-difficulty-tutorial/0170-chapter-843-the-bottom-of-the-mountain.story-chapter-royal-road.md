@@ -1,0 +1,117 @@
+---
+id: e1084283-e8f4-5b2a-8bac-11edc8180758
+page-type-slug: story-chapter-royal-road
+title: "Chapter 843 - The Bottom of the Mountain"
+slug: 0170-chapter-843-the-bottom-of-the-mountain
+partOf: hell-difficulty-tutorial
+position: 170
+ownLength: 2232
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3708209/chapter-843-the-bottom-of-the-mountain"
+royalRoadId: "3708209"
+---
+
+It is a weird feeling that I have a difficult time describing. I think my state has been locked while we’re in the mental space, so I am stuck at the same energy levels I had when I found myself here. I don’t feel refreshed after rest, nor do I find myself getting tired or sleepy.
+
+Instead, there’s just this ever-present feeling of… growing thin? Almost as if something’s getting close to slipping out. Like when you’re starting to bleed out, and you get to feeling lightheaded as your heart palpitates in that weird way and fear threatens to take over.
+
+But this is a great opportunity, and there’s so much I’ll need to do in the future. It’s not just out of necessity, nor is it something being forced on me, there are many things I want to do. I refuse to be swayed by external factors. I continue to find things I enjoy, like my hobbies, interests, and all sorts of things I can have fun doing.
+
+It might be selfish. So what? I’m selfish, and I think everyone should be, at least a little bit.
+
+We also stopped training me to endure 50% of Lissandra’s presence. It seems I must have passed, as we continue onto different training, though she grumbles and says I’m still lacking, so at least she doesn’t find me so pathetic that she’s ready to drop it all.
+
+Lissandra refuses to tell me how much of her presence I actually endured and simply switches to saying that enduring the presence of others is just the basics. After all, how can you even attempt to fight if just feeling your opponent’s power causes you to pop like a balloon?
+
+For the next training session, we start working on my mana based body strengthening. There is a limit to how much I can do with my low constitution, but she doesn’t trash me on it too much. I think she finds my idea interesting: making my body weak so my stronger active skills can influence changes within it at a faster rate and on a deeper level.
+
+Still, by using kinetic energy to absorb some of the impact and strain, and then using a combination of Lioren’s techniques and proper body strengthening methods from Lissandra, I improve quickly.
+
+Even though I prefer mid range attacks, when I get annoyed, I still have a tendency to slip into close quarters combat. I have plenty of experience with that, and thanks to my eyes, I’ve been able to observe most of the ways people tend to use mana for body reinforcement.
+
+Lissandra’s technique, on the other hand, is similar to the Mana Cycling she taught me. It’s the sort of thing I suspect many modern Champions or Absolutes would call obsolete, or old-school. Yet, I like the simplicity of it, I like the output, and I like the danger of destroying my body that forces me to keep making improvements. In exchange for harder handling and the danger, I get a higher output than the usual, more “modern” techniques.
+
+I think the one she’s teaching me is also being specially tailored for me, taking the tendencies she’s observed into consideration. There is not a speck of doubt in my mind that there are still Champions who’d be willing to sell their firstborn just to have a custom technique from this Absolute.
+
+I really want to tell Deva about it. My thoughts stop there as I imagine the face of Sophie’s Thylarin disciple, and I chuckle.
+
+That moment of inattention causes my body to break, but I manifest it once again, though it takes a few seconds longer this time as I gather myself back together. It has been getting harder as of late.
+
+Swiftly, I go into overdrive again and circulate mana through my body to strengthen it the ways Lissandra showed me. I boost myself ahead and slam my fist against the stone pillar in front of me. Being as tall as a telephone pole and as wide as my arms spread from fingertip to fingertip, it cracks and breaks.
+
+I watch it slowly slide down and crash into another pillar nearby.
+
+Currently, I’m surrounded by dozens of them growing from a calm pool of water. It seems like I am in the middle of the sea, though the water barely reaches my ankles. Each of these pillars is impossible to destroy in any other way than the body strengthening I’m being taught.
+
+I tried it, and not even my full power lance could put a scratch in them. I wonder if Lissandra is really able to make pillars like this, or if it’s just an advantage of training in mental space and-
+
+My body explodes as I lose control of the mana I’m circulating for reinforcement.
+
+As I remanifest myself, Assholethaniel appears for a moment. Tall, wide-shouldered, and muscular, he is the combination of close combat, body strenghtening and movement subminds and the part of me usually dealing with this kind of stuff. Meanwhile, Nerdthaniel is the submind taking care of my stored arrays, Preeminence Eyes, and more delicate uses of mana, among some other things.
+
+Before he can say anything, he disappears as I put my mind together.
+
+My hand closes into a fist, and in a burst of movement that does not ripple the water, I reach another pillar. I hit it with all my force, and it cracks and breaks, as does the row of a dozen pillars behind it.
+
+I move ahead, leaving a forest of broken pillars behind me and moving toward thousands more.
+
+Assholethaniel sits near my thermal cube, wearing his school bully jock jacket. There is so much snow around us that it almost forms a wall, leaving only a small cleared space around the cube. It is surprisingly cold, and the blizzard constantly washes over us.
+
+This part of the training is oriented toward using mana alone to endure a harsh environment, in this case, the cold. The thermal cube provides little more than emotional support and a nice light.
+
+Another of my subminds stands nearby, the one that usually takes care of managing my primordial energies. This Nathaniel is a bit taller than me, but he’s slimmer. He has white hair, red eyes, and two tiny pointy horns similar to Vega's. Over his shoulders, he wears an imitation of the mantle, the mid-pristine item that the vice guild master placed on me during my coronation as guild master of the Primordial Knights.
+
+Both subminds are unusually quiet, but I’m the same. A lot of my effort is going into not freezing, so I suppose it’s no surprise it’s manifested in this way.
+
+None of us notice him before he appears, but Sneakythaniel is suddenly there as well. He has a bright smile on his childish face as he takes the tattered red blanket off his shoulders, places it on mine, and puts his hands on his waist in a heroic pose. He disappears the next moment, but the blanket stays around my shoulders.
+
+As if in response, the cold increases.
+
+Both Demonthaniel and Assholethaniel disappear. The blanket around my shoulders becomes more transparent and threatens to vanish, but I grab it and hold it there. Shuddering in the cold, I close my eyes to maintain the required state of the technique I’m using.
+
+Soon after, the thermal cube fades away, leaving me in the dark and the ever present, bone freezing blizzard.
+
+My next training objective is different. The area has changed once again to a single enormous mountain that I must climb using mana reinforced body movements to reach the top.
+
+In this place, I can feel my wounds, which are apparently being emphasized to hinder me more. Sometimes an attack comes out of nowhere, blowing a hole through me to force me to modify the way I’ve been circulating mana and keep my body strengthened. If the overall stability is breached, I break apart and remanifest at the bottom of the mountain to start over.
+
+There is also a limit on the amount of mana I can use. Though the amount is generous, it’s far from my usual reserves. Instead of constantly keeping it active, I have to switch it on and off as needed to leap higher, avoid stone avalanches, or maintain the speed required to run higher and higher.
+
+It’s been a long time since I actually saw Lissandra. I only occasionally hear her voice as she explains the training or the techniques she is showing me. It’s also been a long time since I last wondered how much of this training I will actually be able to remember.
+
+A few minutes later, my mana control slips. My leap proves to be too short, causing me to miss my mark and begin rolling down the mountain. I flail my hands to bury them into the rock, tearing my skin and fingers as I stop myself. The gravity here is much higher than anything I’ve felt so far, making it difficult to get up on my feet. I manage to stand only to watch an avalanche of huge boulders rolling toward me, caused by my mistake. It’s punishing like that.
+
+I do not give up until the last moment. I try to dodge the stones, move to the side, and leap over them, but they just keep coming. Each one moves at higher and higher speeds, and they’re impossible for me to break in this setup.
+
+Once again, I find myself at the bottom of the mountain, turning my head to look toward the summit hidden high in the clouds where a storm rages.
+
+Shrugging my shoulders, I move toward a huge boulder with a flat side sitting nearby. With the tip of my finger, I scratch a short line into it and look to the left at the dozens of similar lines already carved there.
+
+As I start thinking of a new pathway toward the top and try to remember the route, the distances, and other details, Mapthaniel manifests near me. He’s as tall as I am but has no Preeminence Eyes. Instead, all of his skin has been covered in drawn arrays like dense, delicate tattoos, and the scars I carry are even more visible on him.
+
+We speak for a while as I plan the route. Once I concentrate further, he disappears, and I head off to climb the mountain.
+
+The slope of the mountain grows almost vertical, and the rain crashes against me. I notice my reserves expanding slightly as Lissandra stops suppressing me as much, but it’s not meant to ease my burden. Instead, it’s because I now have to constantly maintain a defensive layer of mana on my body to protect myself against droplets of mana filled rain trying to pierce my skin.
+
+The wind and rain press harder against me, causing me to squint. The rock is slippery, it is dark, and flashes of lightning occasionally pierce the air. The rumble that follows sends out disruptive waves that I must defend myself against in turn.
+
+My fingers no longer stab easily into the rock, and the gravity is much higher than it was before. Often, the holds I use break, almost causing me to slide down.
+
+Another gust of wind presses against me, and the rain intensifies. I cannot simply create a single layer and keep it up to defend against the rain, every time I try, the droplets pierce right through. Instead, I must maintain multiple smaller zones, and I’m sure that soon I will be forced to defend against each individual droplet, forcing my brain to keep up with thousands and thousands of calculations at a time.
+
+It is so ridiculous that my face twists itself into a smile.
+
+Reinforcing my body, I pull myself higher and higher until I reach a point where lightning begins striking the area around me. I try to form an orb of mana to serve as a lightning rod, but I’m too slow. The lightning breaks through the defensive layers I’ve created, hurting me and breaking my hold, causing me to fall.
+
+Instead of flailing my hands or wasting mana, I keep my eyes wide open even as I bounce off the rock. The rain stabs into me as I fall for a few seconds through the darkness. Only when I notice a good hold does my hand shoot forward to grab it, leaving me hanging by one hand.
+
+The intensified gravity pulls me down, causing the muscles in my arm to tear, but I still maintain my grip.
+
+Yet another lightning strike shoots at me just as I throw a modified orb in front of me to redirect it. I can feel the heat and power of the strike as it passes right by me. I swing my free hand to grab the hold as well and begin pulling myself up.
+
+Then, that hold breaks, sending me tumbling down even as I try to stop my fall, but fail.
+
+Once again, I remanifest at the bottom of the mountain. There is no rain here, and it’s so incredibly peaceful and quiet.
+
+A bit of my mana glows at the tip of my finger as I draw a line into the flat side of the boulder next to its thousands of siblings, and then I start climbing up once more.

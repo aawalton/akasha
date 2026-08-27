@@ -1,0 +1,67 @@
+---
+id: 5777a451-f0c3-5e62-8b2a-7c73929f8c9c
+page-type-slug: story-chapter-royal-road
+title: "065: Winter Bloom"
+slug: 0065-065-winter-bloom
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 65
+ownLength: 2249
+unit: words
+publishedAt: 2024-07-03
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1703093/065-winter-bloom"
+royalRoadId: "1703093"
+---
+
+Evelyn had always had her life planned out for her. Sports chosen by her parents, extra-curricular activities curated to make her application to any colleges more attractive. Even her major was ‘suggested’ to her by her father.Given that he wouldn’t pay for her tuition if she didn’t take his suggestion, she didn’t have much of a choice. Even her minor had been picked by her mother. Her entire childhood was routine, and while not needing to make many decisions made things simple, it wasn’t very fulfilling.The year of her graduation, Evelyn was confident in her future. Her father had lined up a job at a friend’s investment firm and she would join the company straight out of college. A few years later she would be set to do whatever she wished with her career.And then she met Lyra.A whirlwind romance and an impulse purchase later she found herself on the other side of the world, having thrown away everything she had been working towards for the past two decades.Her father never forgave her, but it had been the greatest thing to ever happen to her. It was freeing. For the first time she had the agency to make her own decisions and take herself wherever she desired, to follow her curiosity rather than a charted course.So, that was why when Evelyn told her father that she was planning to start a bank, he had burst into raucous laughter, not stopping until he bent over with a stitch and had to take a break from walking to recover.“Alright, I get it. It is quite funny. I’m being serious though. I doubt anyone else is better suited to undertake a venture like this, and even if they are, I'd be at an advantage if I do it first.”“I agree,” he said, still wheezing from his bout of laughter. “I think it’s a great idea. You should go for it. I’ll be here to support you every step of the way, my little menace. I’m grateful to the tower, oddly enough. It’s given us this chance to reconnect. I think there’s a chance we might never have spoken again, if things stayed as they were.”Evelyn chose not to respond. Everything that needed to be said had been. And she didn’t want to ruin the moment. They walked in the hills for a while longer, before heading back to Haven. Her father didn’t return to the townhouse with her.He wanted to spend a bit more time alone, or so he claimed. He did promise to join her and Kayla tomorrow to go house hunting, though.And, he even said he had a surprise.Kayla had left, but written her a raunchy and endearing note. Evelyn was confused about how to feel. She found herself drawing closer to the woman with each moment they spent together, yet there was much about her that remained cloaked in mystery. She didn’t want a repeat of Lyra.
+
+~~~
+
+Evelyn stepped out the door and straight away leapt back inside as a torrential downpour splashed against her head. It was the first time it had ever rained in Haven. The first time the weather had been anything other than a clear blue sky and a blazing sun.That was either a bad omen, or an innocuous event from the tower. By a stroke of fortune, there was a little rack by the door that had a few umbrellas inside. She picked out a pink one, with a mahogany handle. It was chic.Still no sign of her father, which hurt. Maybe he had forgotten his promise? Though she hadn’t known him as a deceptive man. Perhaps he would be waiting at the plaza.When she arrived at the centre of Haven, after taking her time and choosing a more winding route that led her through the picturesque streets filled with townhouses similar to her own and little shop fronts, some of which had been claimed by various merchants and others empty and lifeless, there was no sign of her father.Even Kayla hadn’t arrived yet. With a bit of time to kill, she decided to wander over and check out the leaderboard. She hadn’t actually spared it a glance when she’d left the 16th Floor because she was so caught up in the celebrations.To her surprise, the leaderboard was no longer there. In its place was just a single sign with a message for any challengers who had come looking.
+
+Leaderboard has been overhauled, challengers may now access it within the system. Highest Floor reached by all challengers: 17
+
+It was a relief that no one had gone ahead and cleared the 17th Floor while Evelyn had her focus elsewhere. That would have been too demoralising. She felt confident in her abilities post-ascension. The portal glowed to her left, and an irrational portion of her mind was telling her to just forget about promises and responsibilities and jump in to keep climbing.She took a step towards it, but then heard a familiar shout from behind and stopped in her tracks.Soon. Just a few days. I can’t keep delaying this stuff forever.“Hey hey darlin’. Trying to have a peek at the scoreboard?” said Kayla.“I was, yeah. Has it changed much?” she replied.“You should check it out. It’s… very different. You jumped up in a few rankings after clearing the 16th Floor though, which was neat.”“I see. I’ll have a look this evening. I’m eager to start searching for headquarters for Defiance, and a suitable spot to set up the bank. Any ideas where to start? You seem to know this place like the back of your hand already.”“Your daddy joining us?”“Well, he said he was. There was no sign of him this morning though, and I don’t want to sit around waiting forever like a lost little girl. He can find us if he wants to, I guess.”“Sure thing darlin’. I had some places in mind, but it’s difficult to tell where the hotspots are going to be as the city continues to grow. I doubt there will be too many more challengers stuck on the lower floors however, unless they’re useless dolts.”Her mother and friends were still yet to respond or arrive. Were they useless dolts, or were they dead? Evelyn had thought Marvin would have beaten her to Haven, to be honest. He had always been the more strategic of the three and this kind of setting seemed like it would suit him to a tee.Kayla started to walk to the north and she followed. When they were halfway across the cobbles of the plaza however, another familiar shout rang out. It was becoming a common occurrence that morning.“Little menace, leaving without me? I promised you I’d be here, and I am. I’ve got a surprise for you, too. Don’t turn around just yet,” her father shouted.Very typical of him to arrive at the last moment and demand I bend to his will. As long as this surprise is exciting I can forgive him, though.She heard footsteps approaching. Two sets of them, which was odd. Had her father brought a friend? If that was the case then that wasn’t just a surprise, it would be a shock to the system. For her entire childhood he had just one friend, and Darren had been his business partner to start with. If he was becoming that much more social she might have to revisit the idea that the tower was subtly manipulating the challengers.If you stumble upon this narrative on Amazon, be aware that it has been stolen from Royal Road. Please report it.The steps came to a halt right behind her, and she felt a tap on her shoulder. Evelyn turned around.And froze.
+
+~~~
+
+~ Mei Han POV ~
+
+Mei swiped away the rewards screen after selecting a white star. It cost quite a large chunk of her essence, but it was worth the investment according to her husband.She had spotted the messages from him while she was in the middle of challenging the 13th Floor, and had almost slipped up and taken a lethal wound while recovering from the shock. Anthony was far more resilient than her, and had the kind of over driven personality that would let someone thrive in an environment like this.It made sense that he was much further in the tower than her. He told her of Haven, the safe city that lay beyond the 15th Floor. She looked forward to having a proper wash at last, and a decent meal.On Earth, her life had been comfortable. More than comfortable. She was used to a rather luxurious standard of living and the dirty, stressful floors of the tower had been grating on her.Though Mei Han was no frail trophy wife. The 1st Floor had been haunting. It wasn’t often she had to face her worst fears, but she had overcome them. And then again on the 2nd Floor, and the 3rd. And just now, the 14th Floor had tried to throw them at her again.She had not faltered.Just one final challenge lay between her and reuniting with her husband. And, while she loved Anthony dearly, Mei found herself looking forward to seeing her daughter again far more. It had been too many years since Evelyn had spoken with them.All of them were at fault. They had pushed her too hard as a child, and both her and her husband knew that. However, Evelyn had thrown all of their hard work in their face and she had yet to accept responsibility.Though Mei supposed none of that mattered anymore. Earth was a remnant of the past, and the empire the Han family had carefully built up over the generations had vanished in an instant.According to her husband however, he had already begun to lay the groundwork for a new empire. Another message pinged in the corner of her vision, the familiar and stupid name he had chosen for himself standing out amidst the rabble who spent their days gossiping away in the local chat.Local ChatEmperorHan: Will you make it here by tomorrow, Mei?It was possible she could clear the next floor in under a day. It was a mini boss fight, from what she had been told. Possible to bring down, though she wanted to take some time to rest first. No point in rushing only to get killed at the last hurdle.Snow Flower: Possibly. Will update you. Need to rest first.EmperorHan: Do your best, dearDid she ever do anything but? It was the main reason they had fallen for each other, all those years ago. Two equally driven young professionals who wanted to build something greater than the sum of its parts. And they had achieved all of their dreams, and more.Mei had a look at her status to see how long she needed to wait for her important skills to come off cooldown.The one drawback to focusing on magic was that her most powerful abilities tended to come with heavy costs. Either a long amount of time in between uses, or a hefty drain on her mana pool. Though that had been growing in leaps and bounds, through a combination of her investing attribute points and also near constant manipulation of her internal reserves.
+
+~~ Status ~~
+
+Mei Han
+
+Race: Human
+
+Class: Initiate of Frost (Uncommon) Lv.7
+
+|Attributes|
+
+Power: 16
+
+Speed: 11
+
+Stamina: 4
+
+Vitality: 5
+
+Mana: 52 (73)
+
+Fortitude: 7
+
+|Skills|
+
+~Passive~
+
+Kiss of Jotunheimr (Unusual), Mana Wielder (Rare), Arcane Feedback (Rare), Arcane Feedback (Uncommon), Arcane Feedback (Common), Enhanced Sight (Uncommon), Bargain Hunter (Common), Stargazing (Uncommon), Star of Mana (Uncommon), Ice Affinity (Uncommon)~Active~Glacial Storm (Rare), Frostbolt (Uncommon), Frost Lance (Uncommon)
+
+~Hybrid~
+
+Ice Body (Uncommon)
+
+Just a few minutes left on Ice Body, and about twenty for Glacial Storm. Both were essential parts of her arsenal, so challenging the next floor without them would be idiotic.When they were off cooldown, she strolled through the portal without a care in the world. The boss would challenge her, but there was no doubt in her mind that victory was assured.
+
+~~~
+
+Seeing Anthony again was thrilling. In the recent years of their marriage, the passion had faded and it was rare that they would share a bed, or even a romantic evening. When her husband had greeted her on those lush green hills however, the very first thing he did was sweep her into his arms and kiss her for almost a whole minute.They had been gasping for breath when their lips finally parted.“It’s good to see you again, Mei. I have so many plans. Eve has even more. You wouldn’t believe it. I feel like a new man, and now that my family is here again we will take this tower by storm. I love you. I don’t think I’ve told you that enough in recent years. Come, I want to show you something.”That evening had been enough to make up for all the missed romance. It wasn’t until the sun rose over the distant horizon and lit up the morning sky that they decided to head into the city proper. She wanted to have a wash or eat, but there was one thing that took precedence over it all.She let go of Anthony’s hand and stepped toward the young woman, just the same as she remembered her. Glossy black hair, piercing eyes and perfect angular features. Evelyn was as beautiful as the last time they had met, but there was a fire in her eyes that Mei hadn’t seen since her daughter was a young teenager.“Hello, my love. Surprise.”

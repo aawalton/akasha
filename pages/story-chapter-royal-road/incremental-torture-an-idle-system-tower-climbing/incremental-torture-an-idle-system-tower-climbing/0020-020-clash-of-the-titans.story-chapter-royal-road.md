@@ -1,0 +1,177 @@
+---
+id: 99cc6a9a-2ac6-533c-88de-6f055efbb614
+page-type-slug: story-chapter-royal-road
+title: "020: Clash of the Titans"
+slug: 0020-020-clash-of-the-titans
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 20
+ownLength: 2217
+unit: words
+publishedAt: 2024-04-19
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1601988/020-clash-of-the-titans"
+royalRoadId: "1601988"
+---
+
+Her savage opening salvo had left the two duelists reeling, but neither were a pushover like her previous opponents. The armoured youth had recovered his wind soon after her first strike and had unleashed a vengeful assault with renewed vigour, his fists shimmering with the glow of mana as he channelled whatever skill he was using to empower his strikes. Each crackled with force as they struck against her, and the magic began to cut into her tough flesh.
+
+In response, she activated her Mana Plate for the first time, feeling an immediate pull on her limited reserves of the ephemeral energy. It was effective however, against the man’s strikes. Where the sparks of mana had before been chipping away at her skin, they now screeched and ground at the thin, almost invisible barrier that coated without causing further damage.
+
+Not willing to let the two youngsters hog all the fun, the huge brute, still concussed from getting blown into the earth, charged straight into their clash and launched punches, elbow strikes and kicks in every direction, not caring which opponent would receive each strike.
+
+Clouds of dust billowed across the 9th Floor and shards of rock and earth were sent flying into the empty void as the three monstrous challengers exchanged devastating blows. The ginger barbarian hammered his fists against Evelyn’s guard, her bracers dulling the heavy impacts and letting her hold out against the brutal barrage. The youth wasn’t content to just strike with his mana charged fists and had now drawn his weapon, the longest sword she had seen thus far in the tower, with just a single edge to the blade that glinted in the light as the force of his mana coated the blade and he slashed at the both of them, aiming to end the fight with an enchanting coup de grâce.
+
+His original opponent stumbled back in a hasty attempt to dodge, the blade cutting into his gut and leaving a nasty gash that began to pour blood over his leather armour. Evelyn however, was far better prepared to receive the slash. For most warriors, a shield would be their first choice for blocking or parrying a sword, but for her, whose body was already strengthened to a level above the limits of a typical human, her sinewy arms would suffice.
+
+When skill empowered blade clashed against skill empowered plate, there was a flash of light and a shockwave rippled out from Evelyn, knocking the injured brute to the ground and stunning the youth, whose blade fell from his grasp and clattered against the ground. He recovered his wits a second later, but in a battle of life and death, a second is enough to tip the balance.
+
+The shallow pool of mana which she could call upon was already half-drained from her use of Mana Plate, but Evelyn emptied it with two rapid hits with Fists of Frost, the icy blows biting deep. The first froze and shattered his chestplate, the cold making the steel brittle and weak to her strike, while the second caved in his chest and knocked him to his knees, where she finished him off with a good old-fashioned punch to the head.
+
+All of a sudden she was grasped from behind, two burly arms wrapped around her chest and squeezed the air from her lungs as she was lifted into the air. She struggled against the constricting hold, but with no mana, no angle to strike from and no skill with which to slip free, she was powerless to resist as the brute span her round at dizzying speed before smashing her into the ground with an echoing boom that sent deep cracks into the island’s foundation.
+
+There was no time to catch her breath as he descended onto her with vengeant fury, hammering at her with measured, elephantine blows that rattled her arms despite her bracers doing their utmost to dampen the force.
+
+For the first time in a few floors, her body trembled with fear. As the steel plate of her sole piece of armour began to creak and dent against the repeated strikes, the redheaded brute’s smile grew wider and he let out a booming roar that sent a cloud of nearby birds fleeing to the skies. It was regrettable, but the only way to escape this precarious situation would be for Evelyn to spend some of the essence she had saved up with such painstaking dedication. In her head, she counted the man’s blows.
+
+Five. Six.
+
+There were just two attribute points on sale in the Local Shop for 30 essence and she purchased them without hesitation, immediately dumping them into her mana and gasping as warm energy flooded her system. The feeling was so euphoric she almost dropped her guard, but days of nonstop battle had etched a warrior’s instincts into her muscles and they needed little instruction from her mind to keep up their rigid defence.
+
+Seven.
+
+The ‘Wrathful Wrists’ could endure no more punishment, and with a clang, the seventh strike shattered the plate. Shards of shrapnel flew in every direction, causing a pause in the rhythmic pounding of his fists as he shifted to avoid them.
+
+Evelyn channelled her mana, enveloping her fists in a frosty haze as a thin, shimmering barrier formed over her skin.
+
+Eight.
+
+This time, when his meaty fist smashed into her undefended chest, what should’ve been a death blow to secure his victory instead jolted his arm as it met an impregnable wall, right before a shockwave flashed across him, leaving his ears ringing and vision blurry for a short moment. A chill seeped into his bones as Evelyn’s first awkward punch smacked into his stomach, followed by a second, then a third. Each blow shifted his colossal bulk and allowed her to slip out a little more from beneath him.
+
+As he tried to counter, he found his body stiff and unresponsive. The bite of frost had settled in, and with every hit she landed he found it became more of an effort to even catch a breath. A layer of ice was spreading across his skin from where her attacks were focused, destroying his flesh as it did.
+
+After a frenzied torrent of strikes, all that remained of her final opponent was a statue of ice, seemingly carved by the hand of a master sculptor. She booted it in the gut and the man shattered into a cloud of ice that glittered in the light.
+
+The commotion of their epic clash had attracted others to the island, the first of whom rushed into the crater in an attempt to catch Evelyn in her moment of triumph. The woman’s staff sailed through the air and smacked into her head, only to splinter and break across her temple before she charged forth and with a single barge, smashed the weak opportunist into the dirt, where she remained, unmoving.
+
+Two more were already charging at her, and she took the time to unstrap and toss away the destroyed bracers which had served her so well. For this sorry lot, however, she wouldn’t need anything but the strength of her fists.
+
+~~~
+
+After obliterating every curious spectator who dared to venture onto the island of her epic clash, Evelyn decided it was a suitable moment to head back to a more defensible location, in case anything happened to the rest of her party while she was letting loose. The two men had given her a delectable taste of the challenge she had been seeking, and for the moment it would be enough to keep her satisfied.
+
+Their points and her essence had continued to skyrocket despite her inaction, which meant that Kayla had been inspired by her intrepid exploration and begun a conquest of her own in a different part of the floor. The remainder of the time passed rather quietly, with Evelyn only having to smack one poor soul around after they tried to sneak past her and take control of the zone while she was daydreaming.
+
+Twenty-four hours have passed. The three parties with the most accumulated points will advance to the 10th Floor, while the rest will be eliminated. Extra rewards will be allocated depending on your final position.
+
+~~ 1st Place ~~
+
+Tempesto, HERCULES, Sparkledust, John
+
+8,314,926 Points
+
+~~ 2nd Place ~~
+
+K, Eve, Anna, Reece, ANThea
+
+6,882,003 Points
+
+~~ 3rd Place ~~
+
+T
+
+6,127,490 Points
+
+The message from the tower rang out in her mind right as she tossed the intruder’s limp body to the ground. They had managed to secure 2nd place after the combined efforts of her and Kayla, which much to Anna’s chagrin had ended up being essential. If they had holed up on that first island for the entire round they would not have even made it beyond the fifteen hour mark, if Evelyn had correctly figured out how the points were counted.
+
+Following the leaderboard, another message came which caused her to jump and whoop, a dazzling smile creeping across her face as Evelyn read through the contents.
+
+Congratulations Challengers, you have cleared the 9th Floor! You may purchase one reward from the following:
+
+〖Full Recovery〗- 10 Essence
+
+〖1 Attribute Point〗- 60 Essence
+
+〖Grey Star〗- 68 Essence
+
+〖Common Skill Crystal〗- 120 Essence
+
+〖White Star〗- 1000 Essence
+
+For achieving 2nd Place, each member of your party has received:
+
+Uncommon Skill Crystal x2
+
+Grey Star x25
+
+Common Loot Chest x5
+
+Attribute Point x3
+
+Evelyn didn’t even need to think about her reward, there was only one option worth considering. A white star. Back on the 2nd Floor, when she had taken that first grey star, there had been some doubt in her mind about whether it would pay off, but now, she was certain it had been the correct investment to make.
+
+While this floor had seen her reap an extraordinary amount of essence and grey stars from the defeated parties as well as the generous reward from the tower, Evelyn didn’t expect every floor to be as lucrative and having a way to produce essence on her own would be essential.
+
+Her hand and forearm were now a mess of grey triangle tattoos at this point, but they seemed to form some kind of geometric pattern, the specifics of which were lost on her. On her left hand, there was now a shimmering white square, courtesy of her newly acquired white star. She could see a future for herself where she was covered in glowing shapes, akin to Inked magazine’s cover models.
+
+No portal had opened near her, so she made her way back to the island they had arrived on a day ago, where she found the rest of her party already waiting, next to the glowing entrance to the next floor. Kayla stared at her like a hungry dog stares at a bone held in its owner’s hand, an uncomfortable gaze that she didn’t know how to return.
+
+“I’m not going to say you were wrong, but at the very least could you have told us what you were doing before you charged off on your own against god knows how many enemies,” said Anna, earning her the stink-eye from Kayla, who seemed to have been on the receiving end of this lecture already.
+
+“All’s well that ends well, Anna. Don’t get your knickers in a twist. Besides, I had a load of fun and we ended up with some juicy rewards from the tower,” Evelyn replied.
+
+“I wish I could say the same, but all the losers I met weren’t even worth the time it took to beat the livin’ daylights outta them. You know who I really want to fight? That guy T, who managed to clear the challenge all by his lonesome. Fella has to be tough as nails,” Kayla said.
+
+“I reckon I could’ve cleared this floor alone, if I really pushed my limits,” Evelyn mused, after which Kayla’s stare intensified from hunger to near lust.
+
+I don’t like the direction our relationship is heading. I can’t tell if she wants to fight me or fuck me, and to be honest, I’m not sure I’d complain about either at this point. I’ve always had a soft spot for dangerous blondes with a southern twang. I regret not spending that summer in Texas when Father offered to take me with him on his business trip.
+
+“Alright, let’s hold on heading to the next floor for now. I need to spend all this essence, then I need to sleep. I want to make the most of having someone to watch my back while I can,” said Evelyn, before laying down on the soft moss.
+
+Alright, let’s see just how much I managed to rack up after that ridiculous battle royale. I spent the first two or three thousand during the challenge, too.
+
+Essence: 6,297『+76 / 5:59:53.3 hours』
+
+~~ Stars ~~
+
+Grey: 66
+
+White: 1
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+【KILL】
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+|Attributes (3)|
+
+Power: 3
+
+Speed: 2
+
+Stamina: 2
+
+Vitality: 7
+
+Mana: 3
+
+Fortitude: 8 (11)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Uncommon), Bulwark (Common), Stargazing (Common), Assassin’s Eye (Uncommon), Bargain Hunter (Common), Backlash (Common), Stellar Body (Common), Capital Gains (Common)
+
+~Active~
+
+Battle Cry (Common), Fists of Frost (Uncommon), Mana Plate (Common)

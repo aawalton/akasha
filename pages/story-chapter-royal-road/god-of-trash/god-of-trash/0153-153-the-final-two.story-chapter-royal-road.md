@@ -1,0 +1,97 @@
+---
+id: 7cc408fe-135f-5620-9490-a57071d0387e
+page-type-slug: story-chapter-royal-road
+title: "153. The Final Two"
+slug: 0153-153-the-final-two
+partOf: god-of-trash
+position: 153
+ownLength: 1896
+unit: words
+publishedAt: 2025-08-06
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2497602/153-the-final-two"
+royalRoadId: "2497602"
+---
+
+Two Tier 3 mana signatures closed in on them, looping toward them from either side. Rhys devoured another tomato and pulled out a third, eating it so fast that tomato juices ran down his face, mingling with the red facepaint. He still wasn’t a hundred percent, and even if he ate all the tomatoes, he wouldn’t be. He needed the slow, regenerative power of Self-Regeneration to set everything right. The tomatoes were just patching him up, lessening his pain as much as possible and keeping his body moving. Trash Body was still active, and for a reason. He was still fucked up on the inside, emotionally and physically, but mostly physically. When he let Self-Regeneration fix him over a long, slow night, it set his bones right and adjusted what needed to be adjusted. The vitality tomatoes were more like a band-aid. It kept him upright and kept him from bleeding, but that was it. He could feel that his bones hadn’t set right, and several of his organs felt trampled-on and messed up, but he could keep fighting, where he’d been ready to conk out before. He needed to rest and recover, but for now, he could keep going.
+
+All the low-Tier mages had backed away. They hadn’t outright fled, but watched from the edges, curious about how this would end. Rhys had a feeling that this was not the first time this particular troupe of criminals had had a violent change in management. No one seemed too concerned, especially since Rhys hadn’t been aggressive toward any of them, only toward the upper echelons of their structure. It explained why all the other mages he’d taken over had gone along with his wild new plans so easily—or half of it, anyways. The other half, he figured, was the Empire. They’d struggle to survive in the ‘wild,’ as it were, without someone protecting them from the Empire. It was safer to align themselves under a boss of sorts, who knew how to keep their magery on the down low. As long as Rhys could provide that protection, he was just as valid as the Water Syndicate to most of these lower-Tier mages.
+
+Really, these were probably exactly the people he needed for his fight. People who didn’t particularly like the Empire, or at least weren’t excited about it. People who wanted to do their own thing, not be held to someone else’s standards and cultivation techniques. There was no reason to harm them just because they were temporarily part of a criminal enterprise. They’d be recruited to his cause soon enough, whether they wanted to be or not.
+
+They aren’t told about my glorious purpose. They don’t find out about anything we’ve set up so far. This part of the enterprise stays separate from my tight-knit group of rebels.
+
+Still, his chip and fries empire needed manpower, and if fast food in his world had taught him anything, it didn’t matter if that manpower was underpaid and would rather be anywhere but at their job. All they needed to do was show up and do enough work to pass it off as a desirable product, and that was enough.
+
+Two figures sprinted out of the forest, closing in on Rhys from either direction. One, a man who had the Waters family shoulders; the other, a woman who had the Waters family jawline. Their eyes blazed with anger.
+
+“Are you the one? The one who’s been killing all our sons?” the woman shouted.
+
+“You dare come here and fight us in our homes? Is killing our sons not enough?”
+
+“I didn’t kill all your sons. Leonard is still alive,” Rhys informed them. “Also, you sent your sons after me. What was I supposed to do, keel over and die so they could live?”
+
+“Silence! You die, here!” the woman shouted.
+
+“Leonard? You had to leave that fool alive?” the man grumbled.
+
+There would be no reason to be had here, that much was clear, so Rhys decided to take a different tack. They were being unreasonable? Why not be unreasonable back? “That’s right. Now that I’ve killed your sons, I’m going to kill you, and seven generations of your family, at that!”
+
+The woman gasped as if it was a real threat Rhys could actually enact. Given his lifespan, he could hang around for seven generations, he supposed, but that would require Leonard to do a lot of breeding. If seven generations of their family were still alive, then the eldest members would be far more powerful than Rhys could reasonably defeat, and it was a ridiculous threat in a different direction. Either way, he wasn’t actually going to do anything like that, but it was a classic villain line. As long as the two of them were being unreasonable, he might as well shout fun lines and be unreasonable, too.
+
+“You wouldn’t dare,” the man snarled.
+
+“I’ve got a good start on it,” Rhys informed him, rolling up his sleeves. “Come on. You two are the next generation. Let’s get this party started.”
+
+“You’ll regret those words.”
+
+“Doubt it.”
+
+Neither the mother nor the father had the same golden body thing that their son Landon had had. They were ordinary Tier 3s. The mother rushed Rhys, while the father stood back, casting some kind of spell. An aura appeared around the mother’s body, and her charge grew even more savage.
+
+“Lira,” Rhys said quietly.
+
+Lira nodded. She gestured, and her sword transformed into an umbrella. Water rained down all around her. She spun her wrist again, and the raindrops turned into a hail of sharp ice shards that hurtled at the father.
+
+As the ice closed in, Rhys charged to meet the mother. They met head on in a test of strength. As Rhys expected, her natural strength plus the buff made her much stronger than him, but that wasn’t why he’d wanted to clash. He opened his mouth, spitting a ball of invisible toxic gas in her face.
+
+Something told her it was coming, and she flinched back. Rhys pushed the attack, chasing after her and pushing the toxic gas toward her at the same time. She continued to back away, lips sealed, refusing to breathe in, but that meant that she couldn’t recover or press the attack. While she focused on the gas, Rhys called a blade of compressed impurities into his hand. He released the sword with one hand, letting the clashing blades drift toward him, and stabbed her in the chest with his newly-forged impurity blade. Impurities dissolved into her bloodstream. Her eyes widened, and her strength dropped precipitously.
+
+That’s kind of how I envisioned the fight with Landon going, Rhys thought. He knocked her blade back and took her head, then called the gas and impurities back into himself. Pausing a second, he looked down at her body. She’d been one of the heads of the local criminal syndicate. Most people would call her trash. Was it close enough to qualify?
+
+Only one way to find out. He knelt and put a hand on her body. It vanished into him, her mana kept separate from his trash star as usual.
+
+Rhys breathed out. He wasn’t really shocked, but it was a nice confirmation. All her sons had counted, so why not their mother as well? But then, she was the leader of the criminal syndicate. He didn’t know what, exactly, counted as trash or not, so he couldn’t be sure.
+
+Across the way, Lira was exchanging spells with the father. He fired off fireballs and strangely-colored waves of light, which Lira countered with splashes of water, while dodging the light waves and shooting spikes of ice whenever she could. Without overtly throwing himself into their battle, Rhys created a new dagger of impurities and threw it toward the man. While he and Lira dueled, the dagger flew around through the air and came up behind the man, then darted into his back. The man bucked. Impurities flowed into him, and the veins on his face stood out, while his strength lowered and his casting slowed down. His eyes widened, and he whipped around, searching for the source of his weakness.
+
+The second he turned his back to Lira, she sprinted across the field with supernatural speed and agility. Her eyes flashed, and her umbrella whirled back into a slender sword. She plunged it between the man’s ribs, twisted, and yanked it free. Blood spouted out. The man gasped, clasping his hands to his chest. Lira didn’t let up. She grabbed his neck and kept stabbing, over and over, until he bucked and finally went limp.
+
+Rhys raised his brows. “Remind me not to piss you off.”
+
+She ran a hand through her hair, inadvertently staining a section red. Her hands were bloodstained to her wrists. “Sorry. The prey drive overtook me.”
+
+“Are you hungry? I can look away.”
+
+She looked at the man thoughtfully, then scoffed. “I’m not that hungry.”
+
+But you did think about it. Rhys said nothing, but nodded. He crouched and absorbed the man, then turned to all the lower-tier mages around them. Some of them reached for their weapons, while others backed away, eyeing the exits.
+
+“Hello, everyone. Consider yourself under my leadership. If you wish to flee and throw yourself at the mercy of the Empire, or wish to step forward and duel, consider this your opportunity. Otherwise, welcome. Until now, you were attempting criminal activity for revenue, but that’s a short-sighted, foolish endeavor. Instead, you should join under me. We’ll grow potatoes and tomatoes, and get the whole Empire addicted to junk food.”
+
+“What’s in it for us?” one of the mages asked warily.
+
+“A decent wage, the same security from the Empire you enjoyed under the Water Syndicate, and the freedom to pursue whatever you wish to pursue in between your working hours?” Rhys tried.
+
+“There’s no catch?” another mage asked.
+
+“Not really. You’ll have to do some honest farming, distribution, and research work, but that’s it. I’m not here to make you submit to the Empire or anything foolish like that. I will ask that you stop your criminal actions, since they run counter to our image as a good, safe, family establishment, but that is all. You’ll find chips are a much more sustainable and equally profitable effort as criminal activity. What I need the most, is to expand my shops beyond the closest city. I assume I can count on you to assist me with that?”
+
+A few of the mages looked curious. One or two walked away, but the majority stood around, curious.
+
+Rhys gestured. “Come on. I’ll get you started, and then we can see what happens next. No need to commit yet. Once you see the money rolling in, you’ll realize the truth of my suggestion.”
+
+One of the mages laughed. “We’d be fools to run away from the strongest mage outside of the Empire. You’re the boss now. If you want to grow potatoes, then I’ll grow potatoes.”
+
+The other mages nodded.
+
+Rhys raised his brows. He hadn’t expected the ‘survival of the fittest’ nature of this world to come into play here, but it wasn’t like he was unhappy about it. Anything to make his efforts less difficult. He looked around the group and clasped his hands, beaming. “Wonderful. Then here’s how we’re going to start…”

@@ -1,0 +1,149 @@
+---
+id: 96963b9a-27da-531c-8407-7a1e222eec65
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36 - Dangers of Mana"
+slug: 0036-chapter-36-dangers-of-mana
+partOf: hell-horizon-healer
+position: 36
+ownLength: 1145
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3774274/chapter-36-dangers-of-mana"
+royalRoadId: "3774274"
+---
+
+The monsters were closing in.
+
+“Why didn’t you eat it?” Jake asked.
+
+Edwin laughed. “Maybe I was scared?”
+
+Jake said nothing, just looked down at him.
+
+“What,” he barked. “Don’t think I have my own fears?”
+
+“Fears?” Jake asked. “Nightmares, maybe.”
+
+At that, Edwin tensed.
+
+Jake continued, “I think you could have consumed it. But you didn’t. Why?”
+
+From the moment we entered Floor 9, we have been playing into Edwin’s hand from the beginning, thought Jake. We were played. Now what game is he playing at?
+
+“Ah,” he snapped his nose back into place with a groan, he sat up, leaning against the railing. “You got me good,” he said, then smiled. “Let’s just say I have my reasons.” He glared at him. “What, not satisfied? Tough shit. That’s all you’re getting.”
+
+There’s a reason. I will find it.
+
+He quickly checked the nucleus. It looked mana that had crystalised, pure blue with an even purer centre. He didn’t know how to go about consuming it, so he just chucked it into his mouth and hoped for the best.
+
+He bit down and the casing shattered. Pure mana rushed down his throat and made its way into his core before settling.
+
+Mana +10
+
+It was a crazy amount, and it washed through him like nectar. His mana container doubled in size.
+
+Shaking his head, Jake summoned Gutter tooth, then nudged it at Edwin with his feet. “Pull them up.”
+
+Edwin coughed. Blood spluttered from his nose. “And why would I do that?”
+
+Jake let the monsters do all the talking. One landed on the far side of the bridge. Edwin couldn’t see it, maybe he did, but what he did feel was the jolt of the bridge. Heard the chattering of beasts. Another landed, then another.
+
+“Fuck,” Edwin spat, grabbed hold of the chain, then flung it off the edge. “Come on then,” he shouted below. “I don’t have all day!”
+
+While he, along with the rest of his team that were healthy, pulled up the others, Jake stared along the length of the bridge. He drew his hand across his eye. He could only see out of one of them.
+
+Touching the eyelid, he noted that the eye was still there, just damaged. He drew in a breath and used whatever dregs he had left of mana to heal it. Or he tried to, but his current technique in the skill didn’t allow him to heal his eye, it seemed.
+
+Just what was that?
+
+He had done something that resulted in him almost blowing up both of his eyes, but what exactly, he did not know. Whatever it was, was incredibly dangerous. He felt that if it had succeeded, he would have not only killed Edwin—but erased him.
+
+Mana is incredibly dangerous.
+
+He was vividly reminded of that from what Lyle and Sloane had done. They had sacrificed a lot… for… each other?
+
+Jake needed them alive to keep on climbing. That was obvious from the previous fights, cemented only more from the life or death fight against the Goliath.
+
+If there wasn’t so much to gain from fighting the beast, he’d have left them.
+
+Would they have done the same?
+
+A monster broke through the veil of darkness. It was a wolf creature, the same one he’d seen from the first day.
+
+From fighting, he was quickly understanding how strong monsters were just from the way they moved. This one was strong.
+
+They could win
+
+Then another arrived, bolting passed the first.
+
+Snarling, hungry, its eyes locked onto Jake as it pulled in the stench of sticky blood deep into its nostrils.
+
+“Pull,” Edwin screamed. “You useless mutts!”
+
+There was the mana again, leaving Edwin’s mouth. It wrapped around Miller and seemed to bolster his strength. Edwin stumbled a little as the mana left him.
+
+With the increased power, they hoisted Sloane and the others up altogether.
+
+Quickly, Jake thought as the wolves got closer.
+
+With one final tug, they brought up Lyle who was holding onto Susan.
+
+Finally, a mana cluster appeared in his vision, and he popped it, topping up his desperate mana container.
+
+Jake quickly turned, pushing a heal through his only good arm, through the shattered fingers, and into Susan who needed it desperately. Then, he used one on Lyle to stop the bleeding as the man had turned a dangerous sheet of white.
+
+He had held onto Susan with sheer will.
+
+However, Jake was empty now. Worse, was that his ankle had most likely dislocated from kicking Edwin.
+
+“Oh shit,” Glenn said, eyes wide at the sight of the oncoming monsters. “Run!”
+
+It was a sorry state of affairs. Everyone was injured one way or another, some grievously. Jake hobbled across the bridge, finally making it to the edge of a platform. There was a door. It was already open.
+
+Edwin rushed for his crossbow, loaded a bolt, then pulled Jake behind him and fired. The bolt sunk deep into the wolf’s eye. It collapsed, falling through the bridge. Another monster replaced it.
+
+“The door is already open,” Lyle said. “Edwin, you—”
+
+Edwin clicked his tongue and loaded another bolt. “It wasn’t open when I was last here!”
+
+“Shit,” Glenn said. “What the hell do we do?”
+
+Jake breathed heavily. “We go in.”
+
+Glenn shook his head. “No. No way. The last time we did that, we all almost died in our sleep. It’s not happening.”
+
+“There’s no other option,” said Sloane. “Edwin.”
+
+“Aye, missy,” Edwin fired again, killing another before he turned, planted his boot on Glenn’s back, and kicked him through the doors threshold.
+
+The model screeched on the way in.
+
+Everyone else quickly filtered through.
+
+A wolf was so close now, Jake smelt its breath. He gazed into its eyes, watching the hunger light up behind them, then stepped into the dark.
+
+Edwin slammed the door behind them.
+
+Jake blinked and met a new world.
+
+Apartment buildings rose up through clouds so dark they were akin to treacle. Bridges in the thousands interconnected them like a massive, tangled spider-web. Above, the sky was a deep red and purple, like a bruise engulfing a giant large enough to encapsulate an entire world. Twin suns, interlocked, one alive and one dead, poked through the dark haze, bleeding a sickly green tint across the horizon.
+
+In the far distance, the roar of a hidden Dreadknuck—scarier than even the goliath—echoed across the heavens.
+
+Below, frozen bald statues stood with their hands covering their eyes.
+
+And standing in front of them was… Hanna.
+
+“What,” Jake said, limping forward a step, “are you doing here?”
+
+Her cheeks blossomed red. Soot had stained her knees and elbows and hands.
+
+Pom stood by her side, alive, flaming.
+
+“I uh… fell. Yep. I fell.”
+
+You have entered Bridges and a Cricket.
+
+Exit condition: Catch the Golden Cricket.
+
+Reward: 250 Credits, Skill Mastery Token.

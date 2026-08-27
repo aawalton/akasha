@@ -1,0 +1,177 @@
+---
+id: 9f419019-d325-5116-9030-3bd9dbf10d9d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40 - Training"
+slug: 0040-chapter-40-training
+partOf: hell-horizon-healer
+position: 40
+ownLength: 1568
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3826706/chapter-40-training"
+royalRoadId: "3826706"
+---
+
+No.
+
+His hand ripped away from her thigh, slamming palm-first against the center of her chest, right over her sternum.
+
+Healing a heart was entirely outside his knowledge. But Minor Heal had been used enough to try something… anything.
+
+A thin wave of magic pushed straight through her skin, bypassing the ribs to wrap directly around the dead muscle of her cardiac wall.
+
+Jake's eyes closed as he gently squeezed.
+
+Perception +1
+
+Inside her chest, the heart compressed.
+
+The tension released. The heart expanded.
+
+Squeeze.
+
+Release.
+
+[Minor Heal Mastery increased by 11%]
+
+[Warning: Mana Container reaching critical depletion.]
+
+"Come on," Jake muttered through his teeth, his vision blurring from the mental strain. "Breathe."
+
+He threw his entire torso into the next squeeze, forcing a massive jolt of raw, unrefined mana directly into her heart.
+
+The muscle flinched.
+
+Then, on its own, it contracted. A heavy, violent thud bounced against Jake’s palm.
+
+Susan’s chest violently arched off the floor. A wet, gasping rattle tore into her lungs as she sucked in a mouthful of air, her chest heaving as life dragged her back from the edge.
+
+Jake pulled his hand back, falling into a sitting position as the world spun.
+
+[Minor Heal Milestone Reached: 75% Mastery]
+
+[Skill Evolved: Minor Heal (Lvl 3)]
+
+Effect: Born from rigorous testing and deep anatomical insight. Your healing magic now bypasses muscle layers entirely, allowing you to directly repair, realign, and reconstruct deep skeletal fractures.
+
+So, I can’t regrow bone, Jake thought, laying the back of his head against solid brick. It was cool. Figures. But I am one step closer. I would say it’s good enough, but I would be lying, wouldn’t I?
+
+Once again, he received the same notification.
+
+Minor Heal has reached the threshold. Would you like to upgrade it to Heal?
+
+It was just like the time before, but this time it felt heavier. Monsters waited outside, waiting to pounce on them and rip them to shreds.
+
+His heart was practically screaming at him to just cut his losses and accept it. Heal was obviously a stronger variation of it; most likely able to heal bigger wounds, faster, though that was just a guess.
+
+Was it really worth striving for perfection?
+
+If I don’t, Jake thought. Then why bother? In this life, I want to be someone… more.
+
+Jake wasn’t content with obtaining the bare minimum. All throughout his life, all he had done was coast and go along with the flow of least resistance. He always only did what he needed to do at work; look busy and act the part to fit in, though realistically, he was doing nothing all day.
+
+Every time he had tried sports, he got good at them, only to quit whenever it got tough. Whenever someone better came along and did what he did at a fraction of the effort.
+
+Not anymore.
+
+Although Susan had survived the storm, she was still close to death. Even with the heals, Jake didn’t know whether or not she’d survive through the night.
+
+But that had nothing to do with him.
+
+Right now, all that mattered was more strength.
+
+He glanced at Hanna. Chloe was comforting her, and as his eyes met the little girl, she looked at him as if searching for answers. Or… something.
+
+Jake closed his eyes and cranked Meditation higher than he’d ever done before, droning out the stabbing looks and noises.
+
+Once he had recovered enough mana, he began using what he had learned from Susan on himself. He healed his arm first, then his leg, then the fingers and wrist of his right hand. But unlike Susan, he also restructured the muscles within. He made them coat his bones like a second skin, hardening them.
+
+When that was done, Minor Heal now sat at 83.5%.
+
+A cluster of mana flickered into view, and he snapped his vision to it, popping it. A large clump of mana spilled into his core instantly.
+
+Like swallowing chilled water on a hot summer’s day, it washed through him like pure bliss.
+
+He leaned forward. It was like a light bulb had gone off in his head. It got him thinking.
+
+The higher mastery his Skills got to resulted in more powerful uses. The entire system rewarded those who experimented and fought, utilising their techniques to their utmost.
+
+Each action he performed, the system listened, and that resulted in feedback in the form of a new Skill.
+
+Everyone had got it in their mind that they would just kill monsters, gain Credits, then spend them in the shop when they got back. For Gear or potions or skills or classes. That only resulted in stagnation. Why strive to unlock skills when you can just buy them?
+
+It was a complete waste.
+
+Jake waited for the clump of mana to arrive, and when it did, he laser focused onto it in an attempt to study it.
+
+It spawned for only two seconds. Before he could even hone his mind on it, the thing evaporated, replenishing his reserves.
+
+So I need to… not pop it. Treat it like a fragile bubble.
+
+So that’s what he did. The next time it appeared, he put his all into one single command: do not pop the cluster.
+
+It didn’t work, but Jake was stubborn. He kept at it over and over again for hours on end. On his fifteenth try, he managed to extend the duration of the cluster for half a second. It wasn’t a lot, wasn’t even what he intended, but it was something.
+
+Perception +1
+
+On the thirtieth, he managed not to pop it for half a second.
+
+On the fiftieth, he realised that not popping it simply wasn’t working, so instead went back to trying to lengthen the time it hung in the air. After all, as long as it remained, he could potentially ‘store’ the clump of mana to use when he needed it.
+
+He noticed something else as well: with the level of focus he was in, the bubble began to spawn more regularly. From once every five minutes, he had cut it down to two and a half.
+
+[Mana Control Mastery increased by 9%]
+
+Perception +1
+
+Morning had long arrived, and along with it, peace. The outside world no longer seemed to want them dead, but for Jake, he was far too engrossed inward.
+
+Everything else didn’t exist.
+
+The entire day bled and Jake finally managed to get the clump of mana to stay in the air for a full two and a half minutes, which also meant that by the time the bubble appeared once more, another took its place.
+
+[Mana Control Mastery increased by 15%]
+
+[Mana Control Milestone Reached: 25% Mastery]
+
+[Skill Evolved: Mana Control (Lvl 2)]
+
+Effect: Wield mana 15% more effectively.
+
+Jake swiped the notification away. It was time for the real experiment.
+
+What would happen if he channeled Minor Heal directly through the suspended mana bubble?
+
+He gathered a small fraction of his internal mana into his palm. Using Controlled Breathing, he drew the floating environmental bubble down into his hand, forcing the two forces to merge.
+
+Something awful happened.
+
+The environmental cluster turned into a vacuum, violently siphoning every remaining scrap of mana out of his container. The entire concrete room flashed with an iridescent golden light, blinding everyone. Even with his pain resistance, Jake felt his veins rupture. It felt like a rabid beast was trapped inside his bloodstream, tearing him apart from the inside out.
+
+The ball of light exploded into a fierce wave of heat. The backblast charred Jake’s palm and forearm completely black. The sickening smell of burnt flesh filled the confined space, making the others choke.
+
+Edwin lunged to his feet, reaching for his weapon, thinking they were under attack.
+
+When the smoke cleared, Jake’s entire right arm was mangled and charred beyond recognition. He bit his lip so hard it bled, refusing to panic. He waited a few minutes for his baseline energy to tick up and tried to cast Minor Heal, but nothing happened. The magic refused to spark.
+
+The damage was far deeper than muscle or bone. The explosion had severed his ability to channel magic altogether.
+
+He forced himself back into a cross-legged position, closing his eyes to inspect the ruin. An hour passed. Then two. The entire day bled away while the others argued in whispers around him. Jake ignored them, using his absurd Perception to trace the internal blockage.
+
+Finally, he found it. The system hadn't just built him with standard human anatomy. Woven alongside his nervous system was a secondary network of microscopic pathways—mana veins. They were what actually carried the energy through his body, and the backfire had melted them shut.
+
+If he hadn’t injured them, he’d have never even discovered their existence.
+
+It took hours of agonizing, microscopic focus to use Tension and Minor Heal to knit those pathways back together.
+
+By the time his mana container was completely full again, a new day had arrived.
+
+Another cluster of mana appeared in front of him.
+
+Jake reached out his trembling, burned hand. This time, he didn't force the magic. He coaxed it. He smoothed out the frequency, matching his internal energy to the external bubble before drawing it in.
+
+He succeeded.
+
+A brilliant burst of clear light washed over his frame, blindingly bright, completely swallowing the small concrete room.
+
+What had he just… unlocked?

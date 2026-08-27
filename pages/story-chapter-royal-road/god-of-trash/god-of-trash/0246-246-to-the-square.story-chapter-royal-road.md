@@ -1,0 +1,71 @@
+---
+id: 91e5b4d6-5b42-58a6-8dea-af171205bd07
+page-type-slug: story-chapter-royal-road
+title: "246. To The Square"
+slug: 0246-246-to-the-square
+partOf: god-of-trash
+position: 246
+ownLength: 1448
+unit: words
+publishedAt: 2025-12-10
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2836914/246-to-the-square"
+royalRoadId: "2836914"
+---
+
+The old man nodded. He turned and led Rhys down the mountain, toward the more civilized parts of the peak. Rhys followed happily, totally unworried. He had unleashed his full power earlier, so he was pretty sure the old man knew he was Tier 4, but he cut his tier back to around 2 anyways, just in case. He’d rather be underestimated than overestimated. Even if this grandmaster knew his tier, there were still plenty of other weaker fighters who could make mistakes.
+
+He extended his subtler senses as he approached, but didn’t sense too many people on the mountain. Just a few high-tier mages, and a few dregs of low-tier mages. They passed a building, and Rhys gave it a quick once-over as they passed. In his nascent trash-sense, the whole thing lit up. It was abandoned, and long-abandoned at that. Plants were growing in it, and an entire wall had caved in, revealing the rotting interior floors. Abandoned furniture sagged out of the building, and the walls were stained with water and mold.
+
+“Is your school not doing well?”
+
+The old man glanced over his shoulder. He caught sight of the ruined building and shook his head. “No. Not since that pillar of filth was installed atop our sect.”
+
+“Who did that to you?” Rhys asked. He paused, still looking at the building. “And… do you need that? Could I have it?”
+
+“Er… no? We don’t need it. You’re free to take it… if you can.” The old man chuckled smugly.
+
+Rhys lifted his hand, pointing his palm at the building, and absorbed strongly. The building broke apart and hurtled toward him, huge chunks of wall and whole ruined pieces of furniture flying at him. As they approached his palm, they tore themselves apart and vanished into his trash star. It was already overfull, and a whole building pushed its capacity limits even more, but Rhys welcomed the challenge. His star was already fully condensed, so all he could do was push outward on the capacity. The star wanted to squeeze out through the hole into the void, but he pinched that off, desperately holding it back with all his might. He wasn’t going to let it go so easily.
+
+More like, I don’t need to draw the attention of any more void creatures, he thought, snorting. That, and he wouldn’t personally grow by pushing energy or material into the void. He grew by expanding the space inside his core realm, without taking up any more real space inside him or oozing out into the void. His core walls trembled, struggling to hold all the capacity, but he refused to stop. Further. More. He wouldn’t compromise or take the easy way out. He was going to absorb this entire building, and no one was going to stop him.
+
+The old man stared on in shock, then horror, then awe. The building crumbled away, whirling into Rhys’s hand and vanishing. Rhys stumbled, visibly struggling, then with effort, made a swallowing motion. The heartburn sensation was worse than ever before, but he also felt stronger and more powerful than ever before. He was pretty sure he’d have been able to take on everyone he sensed on this peak before he absorbed that building, but afterward… afterward, he was kind of hoping they attacked him. He had too much energy. He needed to spend it somewhere.
+
+He finished absorbing the building and lowered his hand, tossing a nod at the old man. “We can keep going now.”
+
+The old man looked at the empty foundation where the building had been, then at Rhys, then back at the foundation. He nodded slowly. “Yes. Let’s keep going.”
+
+They didn’t have much further to go before they arrived at the central square. It wasn’t in great shape, either, though it wasn’t as fully abandoned as the building he’d absorbed had been. Grass grew between the cobbles, and the buildings were run down, but not fully falling apart. A few random mages squatted around the square, most of them at least tier 3, though a few were lower. The lower-realm mages looked downbeaten and exhausted, and barely dared to look at the stronger mages. They stuck to the edges, brushing the stone floor or polishing the ruined buildings. One of the stronger mages passed by and thumped a weaker mage by the shoulder, knocking him to the ground; the stronger mage didn’t even look back, and the weaker mage climbed silently to his feet, his expression soulless, as if he were already dead, even though his heart beat and his limbs moved.
+
+I’m sensing a problem here, Rhys thought, eyeing the two groups of mages. He was starting to want to take on these guys even if they didn’t attack him. He wasn’t the morality police, or the kind of guy who’d go around deliberately finding schools with messed-up hierarchies and ‘fixing’ them according to his beliefs, but this seemed pretty severely problematic. Though he wasn’t going to search anything out, he wasn’t going to ignore what was right in front of his face, either, and he was severely starting to feel like he was looking at a problem.
+
+The old man kept walking into the center of the square, and Rhys followed. He cleared his throat. “My reward?”
+
+“That’s right, that’s right. E-everyone! This man destroyed the cursed pillar pierced into the peak!”
+
+The higher-level mages climbed to their feet. They circled menacingly, a few reaching for their weapons.
+
+“That’s right. Where’s my reward, huh? Hey, you!” Rhys pointed out the strongest of the mages surrounding him and gestured him over.
+
+The man quirked a brow. He stopped walking, but didn’t approach. Slowly, he pointed at himself.
+
+“Yeah, I’m talking to you. Go get my reward.” Rhys put his hands behind his head and kicked up his feet on an imaginary lawn chair, using his tier 4 ability to fly in the trashiest way possible. A second later, he thought of something even better, and snapped his fingers. A large skeleton appeared and stretched out its arms, and Rhys settled into them, getting comfortable on his old skeleton mount. “I’ll wait right here. It’s fine. I have allllll day.”
+
+The man’s eyes narrowed. He approached, one hand settling on his hilt.
+
+Rhys clicked his tongue, then whistled, spinning his hand around to indicate the man should do an about-face. “Hey. You’re going the wrong way. I don’t see any reward in your hands, so what right do you have to approach me?”
+
+A few of the downtrodden mages looked up. One of them covered her mouth, hiding a smile.
+
+“Your reward is here,” the man murmured, and rushed Rhys. Metal flashed as he drew his sword.
+
+Rhys snapped his fingers. It had been a while since he’d used his curses, so he wanted to lean in a bit. Two bony hands pierced through the stone square beneath the man and snapped closed around him. The man charged faster, trying to out-speed the hands, but the hands moved with him. They shut seconds before he reached Rhys, his blade outstretched through the bony cage, its tip centimeters from Rhys’s neck.
+
+Rhys glanced at the sword. “Oh, really? Thanks, man.” Nonchalantly, he reached out two fingers and pinched the blade between them, freeing it from the man’s iron grip with a simple twist of his wrist. He examined the sword, then twisted his lips and shook his head. “It’s a good sword, but it’s not really my thing. But don’t worry! I can fix that!”
+
+He tossed the sword into the air and caught it by the hilt, then slammed it down flat-side on the stone. The metal broke, shattering off, and Rhys grinned. “Perfect!”
+
+A vein throbbed in the captured man’s forehead. He lunged, reaching through the bones, but couldn’t reach Rhys. “Men! Kill him!”
+
+Rhys started to climb to his feet, then thought again. He glanced at the old man, but the old man had backed away and covered his head with his hands, as if he wasn’t the strongest figure in the square aside from Rhys. Strangely enough, his tier had lowered to 3, and his aura felt strangely constrained at the same time. It reminded Rhys of what he’d felt with Bast and the mark, and he made a note to check on the man later. But for now… he had some Tier 3s to stunt on.
+
+Settling back in to his comfortable perch, he patted the skeleton’s arm. His eyes traveled from one of the rough-looking men to the next as they closed in toward him, and an evil grin crawled over his face. “Let’s go get ‘em, boy.”

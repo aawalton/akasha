@@ -1,0 +1,167 @@
+---
+id: 397c4d74-8454-5264-8dc7-62ec312b96ba
+page-type-slug: story-chapter-royal-road
+title: "260. Clearing the Mark"
+slug: 0260-260-clearing-the-mark
+partOf: god-of-trash
+position: 260
+ownLength: 1907
+unit: words
+publishedAt: 2026-01-13
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2937670/260-clearing-the-mark"
+royalRoadId: "2937670"
+---
+
+Rhys headed upstairs. He scanned the second floor, ignoring everything but Lira’s signature, then crossed quickly to the room that held her. He knocked first, to be polite, and also because he had no idea what to expect from Soma’s house. Lira was alone, but there was plenty that someone could get up to on their own time, that they shouldn’t be barged in on rudely during.
+
+The door immediately opened. Lira stood in the gap, giving him a deadpan look. “Well, well, well. Look at how long it took you to come visit little old me. You enjoying the sights?”
+
+“I was busy doing important research,” Rhys countered honestly.
+
+“Is that what the kids are calling it nowadays?” she asked.
+
+Rhys crossed his arms. “Alright, alright. Show me your mark. I’m gonna edit it.”
+
+Lira looked him in the eye. “My mark? The one that blows up if someone messes with it? You’re going to edit it?”
+
+“I sure am. I’ve already done it once.”
+
+“And? Did the guy survive?”
+
+“He sure did.”
+
+“Can I see him?”
+
+Rhys licked his lips. “Well, no. He didn’t survive Soma. But Soma happened to him after I successfully edited his mark.”
+
+Lira raised her brows. “Uh huh.”
+
+He shrugged. “Listen, if you really don’t believe me, I can straight-up remove the mark instead. I’ve done that a billion times. Soma wants me to demonstrate mark editing on you, though, so he trusts me to do it to him.”
+
+“Kind of a dick move.”
+
+“He’d probably be honored to hear you say that.”
+
+Lira snorted, amused despite herself.
+
+“So… what do you say? I can even edit it, then remove it afterward. All up to you,” Rhys offered, spreading his hands.
+
+She considered, then put her hands on her hips. “What are you going to edit on the mark?”
+
+“I was going to remove any compulsion toward Virgil. Basically, neuter the mark so that you still have it, and it looks like it functions from a distance, but it doesn’t actually compel you to do anything. It goes from being a nasty compulsory thing to just another beauty mark.”
+
+She put a hand on her chin. “That’s actually… hmm. It would help you?”
+
+“It would.”
+
+“You can remove it if it goes wrong?”
+
+“I can.”
+
+Lira nodded. “Then let’s get started.”
+
+Rhys looked over his shoulder. “Soma! You coming or what?”
+
+Somewhere down the stairs, a woman giggled. Lira gave Rhys a look, and Rhys sighed deeply. Gods. It’s like being in high school all over again.
+
+“On my way!”
+
+Soma appeared at the door a moment later and hurried over to the chair set against the wall. Rhys glanced at it, then at the bed Lira was evidently using (it was soaked), then back at the chair, and chose not to say anything. He gestured for Lira to sit on the bed and crossed to her.
+
+“You know, this isn’t usually the activity we get up to when this chair is in use,” Soma stated, drumming his fingers on the arms of the chair.
+
+“I know,” Rhys said, before anyone else could say anything.
+
+Soma and Lira made eye contact, and the two of them shared a smile.
+
+“We’re all alone in this room. We could always—”
+
+Rhys put his fingers to Lira’s mark and immersed himself in it rather than hear how that sentence ended.
+
+As he entered a trance, Soma let his sentence trail off. He leaned to the side, looking at Lira. “Is he always this easy to tease?”
+
+“I usually hold myself back, for everyone’s sake.” She paused for a few seconds. “But yes.”
+
+“Oh my. I don’t know how you do it. I could follow him around all day and entertain myself. I wouldn’t even need him to touch me. No, at that point, that’s the point, no? Neglect play…”
+
+Lira sighed. “It isn’t neglect play. He’s just stupid.”
+
+Soma beamed. “But that’s the best kind, isn’t it?”
+
+She shook her head. “You’re nothing but impure thoughts. Do you have any pure thoughts?”
+
+“Not at all. You know I’m a bundle of impurities. I might die if I had a pure thought.”
+
+“If it was that easy, surely an ex-lover would’ve killed you long ago.”
+
+“Oh, surely.”
+
+Rhys, meanwhile, immersed himself in studying Lira’s mark. He didn’t simply assume that the mark was identical to the last one he’d seen. Instead, he used the same trashed-intents-reading technique he did the first time to determine what Virgil had been thinking when he’d put the mark on Lira. The intent was largely in the same form as the first time around, though he’d paid a little more attention to the mark, and added in a tracking section. Rhys hesitated, then left that be. He didn’t know how to change the tracking part to track her somewhere else, or anything complicated like that. All he could do was turn parts of the mark on and off.
+
+Once again, even though Lira was an enemy of Virgil, there wasn’t any tamper-detection on the mark. Maybe there isn’t such a thing. Maybe Virgil thinks no one can change his marks aside from him. Has he even said that they can’t be tampered with, or is that even a thing that usually happens in this world? It could be that no one thought about other people tampering with their enchantments, because that just wasn’t a thing that anyone did.
+
+He turned off the parts of the mark that forced Lira to compulsively tell the truth to Virgil and the parts that forced her to obey his orders, then retreated. Lira and Soma fell silent as he snapped back to reality, and he looked from one to the other suspiciously. “What?”
+
+“Nothing. Did you succeed?” Soma asked, hands perched on his knee.
+
+“Yeah. You can check if you want. She’s still alive, and she won’t be forced to tell Virgil things or obey his orders anymore. He can still track her. I can turn that off, but I’m pretty sure he’d know if I did, so we only want to do that once we’re ready to go nucle…all-in.”
+
+Soma looked at Lira. Lira paused, thinking, then said, “Virgil wanted to punish Sable and I, but he was afraid of what you might do if he did, and that’s why we’re still in fine shape.”
+
+“Oh, really?” Rhys said, a little confused. Why would Virgil be that scared of him? “Wait, if that’s the case, why’d he attack me in the first place?”
+
+Soma stood, lifting a hand. “Let me explain, as a Remnant Weapon who has been in this exact scenario many times. Virgil fears you. Ideally, you would be dead, and therefore not a problem. However, you survived what he thought was an instant-kill, no danger attack. This makes you even more of a threat than he initially thought you were, which makes him even more afraid of you than he was originally.
+
+“Now that you’re more of a threat than you were when he tried to kill you, and out of his sight, and more capable than he initially judged you to be, you have become the ultimate threat. He’s afraid of drawing any further ire, and he hopes that by holding your friends hostage, one, he can compel you not to attack, and two, by holding them in good shape and fine lodgings, that he can sway your heart a little to his side, so that you might not immediately kill him the next time you two meet, so that he can compel some discussion, perhaps, or even try a new trap.
+
+“You have become the boogeyman, now, Rhys—the role I often play. You’re more frightening now that he knows he can’t kill you, not even with the Sword Saint.”
+
+Rhys frowned, then nodded, slowly. He snapped his fingers. “Yeah, I got it. It’s like when you’re on the toilet, and a spider comes down next to you, and you whiff the kill, but the spider falls to the floor and dashes off into the shadows. Now you don’t know where it is and it’s angry at you, so it’s even scarier than when you could see it and you had the chance to, but failed to, kill it.”
+
+Lira gave Rhys a “that’s the stupidest metaphor I’ve ever heard” look.
+
+Soma nodded. “Precisely.”
+
+“But he can kill me with the Sword Saint,” Rhys pointed out after a beat. “I mean, I ran away, but if that blow had hit me, I would’ve died. It injured a void beast. I can’t even dream about fighting them yet.”
+
+“That’s not the point. The point is that from Virgil’s perspective, he pointed his biggest weapon at you, and you flaunted away unharmed. The Sword Saint is skilled enough that he would instantly know that he hadn’t killed you, especially if, as you’re implying, his blade didn’t impact your flesh at all. Virgil knows you survived, and that terrifies him. Terrifies him worse than if you’d stood there and taken the Sword Saint’s hit right in front of him, because he doesn’t know how you survived. Like I said, Rhys Foundling: you have become the boogeyman. And that’s one of the scariest things you can be.”
+
+“Hell yeah,” Rhys muttered under his breath. That was cool as hell. Who didn’t want to be the boogeyman to the big bad?
+
+And then the full implications of that hit him, and he sighed. “That means he’s going to be super paranoid, doesn’t it. That he’s going to try to line up every defense he has against me, and hit me as hard as he can with all he’s got.”
+
+“Aww, kitten, don’t get scared. Here, come give me all you’ve got, will that make kitten feel better?”
+
+Rhys shot Soma a look. “Is that your limit? Can you only hold out that long?”
+
+“I tried, but I’m only so good,” Soma said, shaking his head.
+
+“Besides, isn’t that backward? Wouldn’t Daddy come at kitten…” Rhys fell off, unable to finish the sentence with the absolutely hungry look Soma was giving him. Soma beamed.
+
+“If that’s what kitten likes—”
+
+Rhys crossed his arms, very quickly interrupting the inadvertent roleplay. “But if that’s the case, then this plan I’ve got is even better, because he’ll never see it coming. He’s expecting a boogeyman, so let’s give him the exact opposite.”
+
+Soma grinned. “Precisely.”
+
+“So… are you willing to let me edit your mark now? Or do you want me to do a few more examples first?” Rhys asked.
+
+Soma pursed his lips. “Although I would like more proof, you did do it to your friend, and you have confided in me, which suggests that you truly consider me part of your plan—”
+
+“Yeah, I do.”
+
+“—and beyond that, I think we shouldn’t spread our mark-manipulation too far. If someone alerted Virgil to it, our entire plan would fall apart—”
+
+“I couldn’t agree more.”
+
+“—so I suppose I’ll have to submit myself to you,” Soma sighed at last.
+
+“Could you use another word?” Rhys asked, wincing a little.
+
+“Open myself to your defilement? Surrender to your devious touch? Give in to your—”
+
+“Never mind. Submit is a great word. I love that word.”
+
+Soma sat back down. He crossed his legs and sat up primly, baring his neck to Rhys. “Come.”
+
+Dear lord. Rhys resisted the urge to comment and put his fingers to Soma’s mark.

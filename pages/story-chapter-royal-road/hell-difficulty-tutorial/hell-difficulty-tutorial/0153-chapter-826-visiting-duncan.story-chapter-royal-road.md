@@ -1,0 +1,157 @@
+---
+id: 388a28fb-7197-5b9b-ad45-a8212430a0b8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 826 - Visiting Duncan"
+slug: 0153-chapter-826-visiting-duncan
+partOf: hell-difficulty-tutorial
+position: 153
+ownLength: 2068
+unit: words
+publishedAt: 2026-06-14
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3539717/chapter-826-visiting-duncan"
+royalRoadId: "3539717"
+---
+
+"You already know this guy," I say, gesturing to Savant. "Though for some reason, he’s been cured and smoked to perfection."
+
+“Hello, Savant!” Lily calls out cheerily.
+
+I ignore her interruption and continue on with the introductions. “I think you’ve met Weslin at least once, but just in case you haven’t, that’s him. This asshole next to him is Brich, he’s a thieving rat, as confirmed by the great womanizer Lyraen himself. Then the huge demon missing an arm is Morwag.”
+
+“He is missing his left arm, Nat. But that’s more your thing,” Lily points out.
+
+“Traditions, Lily, traditions. And then we have Zant, but he only appears every once in a while. He is an adorable little fella. When you meet him, be nice to him, it’s not his fault that he’s Diligence’s vessel.”
+
+“I will! And hello, I’m Lily, Nathaniel’s future...” She looks at me and smiles jokingly. “Ehm, I’m another member of Group 4!”
+
+“Lily, what the hell was that?”
+
+“Ignore it.”
+
+“I have a feeling like maybe I shouldn’t.”
+
+“Then don’t ignore it,” she challenges.
+
+“Okay, let’s ignore it.”
+
+“Coward.”
+
+“Sure,” I answer, gesturing toward Tacita nearby. “What is she doing here?”
+
+“I think Taci was bored, so she joined me, and I’m glad for that.” Lily smiles at Tacita, who looks away in response, before Lily turns back to me. “Being with her reminds me that it can be so simple to just do whatever I want.”
+
+“But it is-”
+
+“Don’t,” she cuts me off. “It is not as simple as you might make it seem sometimes. Not for me. But I won’t bore your friends with it.”
+
+“I wouldn’t call them my friends. Maybe except for Weslin, when he finds time for poor old me and manages to get away from his weirdo demon girlfriend.” I blame the man who just waves at me.
+
+“You aren’t friends with Morwag?” Lily asks.
+
+That makes me look at the most demon demon to ever demon, and he stares back at me in the exact same way.
+
+“What are we, Morwag?” I ask him.
+
+The demon seems to need a moment to give it some actual thought, but in the end, he looks just as confused as I am and simply shrugs.
+
+“Men,” Lily says, looking at Tacita as if she expects a reaction. The woman stands there, looking around to confirm Lily is actually looking at her, and then gives her a quick, sharp nod.
+
+Then Tacita’s eyes narrow as she looks at Morwag, who has been staring at her openly this entire time. His eyes are wide in a way I know all too well, and even without his left arm, the muscular demon looks impressive and dangerous. Maybe he’s remembering what happened during Humility’s event.
+
+Still, Tacita doesn’t seem bothered in the least. She must be sensing his battle maniac intent and the inherent danger, yet she remains confidently comfortable.
+
+“Lady Lily-” Brich starts.
+
+“Just Lily.”
+
+“Okay! Just Lily it is!” Brich says, making use of the cheapest joke in existence, and I hate myself for snorting at it in my head. “I’m Brich of Crimson Forge, one of the very impressive S ranks and currently the best item user in all of Beyond. It’s nice to meet you.”
+
+“Is being the best item user really that impressive?” Lily asks curiously.
+
+Brich doesn’t seem insulted in the slightest. He steps closer, his heavy armor clanking with every movement. “Of course! Did you know that most people aren’t even using arcane weapons properly? Sometimes they don’t ever discover all the properties or tricks, and end up incapable of ever using them to their full potential!”
+
+He continues to brag, speaking with all the manic, high energy excitement of a total fanboy, the sort of person for whom using and abusing items is the greatest joy and hobby. Meanwhile, our group begins to walk through the city toward where we were told we would find Duncan.
+
+It’s a bit weird having the others join me, but I can’t complain, even if I do find the whole situation a bit amusing. Me, Morwag, Weslin, and Brich as S ranks. Then there’s Tacita, Savant, and possibly Lily as future S ranks. Somewhere nearby is Zant, the vessel of a Ruler.
+
+This is the most overkill of overkills ever, and the king of this city seems to have taken notice as well, though it is possible Zant went to speak to him about us, being our caretaker and all. Regardless, the city’s defensive array is already shifting, putting more attention and pressure on our group. There’s also been an increase in the number of powerful guards around. Some of these locals are likely to be even stronger than us, or at least they’re high level. It can be hard to guess their true strength.
+
+On our way through the street, I notice Tacita picking up small stones from the ground and accurately throwing them at Savant. He patiently ignores her and just continues to absorb their kinetic momentum.
+
+Morwag watches her so intently the whole time that I am worried he will bump into and accidentally kill some poor local, and yet even then, he seems to be well aware of his surroundings. Plus, people are avoiding us by a wide margin, as if we were some sort of hooligans or gang members.
+
+Lily continues her conversation with a curious Brich, and Weslin joins in from time to time to keep the momentum going. Meanwhile, I keep my focus on searching for Duncan’s signature.
+
+I find it soon enough near our destination, a calm street lined with trees bordering a large park. It’s a nice place all in all. It’s quiet, clean, and well kept. Without hesitation, I come to a stop in front of a smaller house and knock a few times firmly. I almost expect some sort of cliché, like for Duncan to shout through the door about how he’ll have the money ready tomorrow, but he just opens the door quietly.
+
+I see the toll it’s taken on him immediately. His face is thinner, and his clothes even seem a bit baggy now, yet he still smiles the second he recognizes me.
+
+“The melee fighter, Noname,” he says jokingly. He glances at the people behind me, seeming to recognize a few of them, and then looks back at me with a question. “Are you by any chance looking for a guide? Is that why you’ve come to find me, Nathaniel?”
+
+“Something like that,” I answer, and then ask shamelessly, “Will you invite us in?”
+
+“Ehm, my place is a bit humble for a visit as-”
+
+“Sure, sure, thanks!” I wave it off and gently push through the door to barge in.
+
+The others follow my lead to quickly make their way inside the small but cozy house, and quickly occupy every available seat. Lily and I end up on the same couch. Savant remains standing near the window while Brich sits in an armchair that almost breaks under his weight. Weslin pulls a chair closer from the kitchen, and Tacita jumps up to sit on the kitchen counter.
+
+During all of that, I notice two kids peeking from upstairs. Seemingly unaware that likely everyone in this room already knows about them, even without needing to see them, and are currently whispering something between themselves that I’m nice enough not to strengthen my hearing enough to spy on.
+
+We’re almost settled when Morwag pulls out a kitchen chair and sits. It gives way immediately and breaks. The wood splinters loudly in the silence, leaving Duncan standing there, frozen and unsure of what to do.
+
+“I apologize,” Morwag mutters as he carefully kicks the pieces of the wood to the corner.
+
+“You could have bound it together with your energy before sitting instead of spending all your time staring at Tacita,” I note.
+
+“I could have.” The demon nods.
+
+When I turn to Duncan, I ask, “We will pay for the chair, of course. How much did it cost?”
+
+“Not much? I mean, if we convert it to shards, then maybe five or so?”
+
+“Fifty thousand shards!? Well, it sounds about right. Must have been some fancy chair or family heirloom. Anyway, it is my responsibility as guild master to clean up the mess my cute underlings made, so I will pay, as a matter of course.”
+
+“What-”
+
+I don't let him finish. I initiate the trade myself, covering the transfer fee. “Accept it,” I say, “or the Holy-Fuck-It’s-Morwag-Run is going to get angry.”
+
+Still confused, Duncan accepts the trade.
+
+“Good,” I continue in a better mood. “This is a nice start.”
+
+I take a sweet candy wrapped in paper from the bowl on the table and hand it to Lily. She quickly grabs it, opens and eats it just as fast.
+
+I shake my head at her, looking appalled. “Wow, so shameless, Lily. How could you? Our host didn't even offer you that candy. For all you know, it’s a family heirloom or something. I guess you will have to pay him back somehow, but you are poor because you refuse to make money for some reason. I guess, you will have to use your healing skills instead.”
+
+“I guess I will have to do that! And yes, I am bad with money!” Lily calls out and smiles gently at Duncan. “Can I heal you?”
+
+I observe the man. He keeps gulping, though seemingly not from fear, and his eyes appear a bit watery for some reason. He’s a man, though, so it’s probably just dust. I’ve noticed him limping on one leg and seen the painful twists in his face as he let us in, though he tried to hide it.
+
+When the silence goes on too long, I give him a poke. “Duncan, I’m the last person to give lessons on social etiquette, but you’re leaving Lily hanging here. How can you be so rude to a healer? Just tell her, can she heal you or not?”
+
+“Y-yes. But it won’t be that simp-” he mutters.
+
+“Done!” Lily smiles happily.
+
+“What?”
+
+“I healed you already!”
+
+Duncan looks at me, then at Lily, and then touches his side as if he can’t believe it. He puts more weight on the leg he was limping on, and his surprised expression deepens. For a while, he just stands there, opening and closing his mouth.
+
+Then Brich reaches out and pokes a vase near him, making it fall and break. “Wow, how clumsy of me!” he calls out. “That artistic piece must have been expensive, and I would know, I am an expert on items after all! I’ll be transferring you fifty thousand shards to pay for it, Mr. Duncan. Please accept them as an apology in the hope they will plug the hole left behind after the loss of such a grand example of craftmanship.”
+
+“Brich,” I call to him. He looks at me, and I gesture at the water on the floor and the wilted flower that was in it. “The water from the vase surely damaged the flooring. You should pay for that as well.”
+
+“How silly of me! Of course! I am very rich after all! I’ll gladly pay a hundred thousand shards, Mr. Duncan, and my everlasting apology!”
+
+“Nathaniel, is this some sort of-” Duncan does not finish again. He just closes his eyes for a while and takes a few deep, long breaths. When he opens them, he is calmer. It’s that expression that first made me like him, and it hasn’t seemed to weaken since we showed up. It is that calm resourcefulness combined with his straight and fair personality.
+
+Looking around, there is only one person I can rely on for this, so I move to Weslin and whisper, “Look, I am bad at this kind of stuff. I will take Lily and deal with some people quickly. I wouldn’t be able to sleep otherwise, knowing those assholes are out there eating well. Please talk to Duncan and hire him as our guide for fishing and a few other things. You can throw him a decent amount of shards as well.”
+
+Weslin doesn’t even try to complain. He just smiles at me with a knowing look. “Sure, rookie." He whispers before saying louder, "Just fuck off already, you are just being a bother.”
+
+“Fuck you, Weslin.”
+
+“No, fuck you.”

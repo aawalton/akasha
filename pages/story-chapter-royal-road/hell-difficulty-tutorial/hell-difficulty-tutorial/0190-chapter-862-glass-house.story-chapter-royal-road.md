@@ -1,0 +1,143 @@
+---
+id: 148c53f7-bd54-5cb0-9c8f-d013adfc733d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 862 - Glass House"
+slug: 0190-chapter-862-glass-house
+partOf: hell-difficulty-tutorial
+position: 190
+ownLength: 2194
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3827532/chapter-862-glass-house"
+royalRoadId: "3827532"
+---
+
+As the name implies, the second game is set in what could generously be called a Glass House. It’s basically just a huge cube-like maze with walls made entirely of transparent glass, through which you can perfectly see the positions of the other participants. There are many hallways and many floors as well, with everyone set at the same distance from the black-walled room at the center of the cube.
+
+Even now, Vic and I aren't split up, and around us are eight more participants meant to be our teammates, randomly selected. Of course, Melek uses some fancier words, something about our bloodline or the like.
+
+There are just a few things I care about. First, you have to control your powers, physical stats, and the like. If you use too much, you will damage the Glass House. When you damage the house, the others from your bloodline can vote to have you exiled, meaning you’ ’ll have to find other exiled people to form a new bloodline. Once exiled, you remain next to your former teammates, but you will not be able to attack your former bloodline for a full minute, though they’ll be able to attack you without any consequences.
+
+At least three bloodline members will be needed to pass certain doors. Some require five, and later you’ll need ten as you get closer to the center. In addition, there will be hunters. According to Melek, who somehow doesn’t seem like the most trustworthy person, ten percent of the participants were “randomly” chosen to fill said role. They started alone and can not form or join any bloodlines to progress. Instead, they need to eliminate a number of participants equal to the requirement of each door to pass through it.
+
+Furthermore, their progress will reset after each door. So even if they have 100 eliminations and then open a three-person door, they won't have 97 remaining, but will be reset to zero.
+
+I really wanted to be a hunter, and I expected they would make me or Vic one, but surprisingly, we’ve found ourselves standing here with a few other weirdos. There are a few more rules that I know somewhere in the back of my mind, but I care only for these few main ones.
+
+After all, it still comes down to personal strength. I also find the idea of an entirely transparent cube interesting, as I can see everyone, their positions, and the shapes of the hallways we’re all walking in, which may currently be quite narrow but widen out in places, and I can already see a few spaces that are quite big.
+
+Some attendees are already using skills to make themselves invisible or fill the hallways with smoke and such. Meanwhile, some of the others don’t seem to care at all and start heading toward the closest opponent.
+
+I move closer to my sister and, in a whisper, ask, “What happens if you attack someone from your bloodline?”
+
+"Eliminating someone from your bloodline triggers an automatic exile and a one-minute period in which you won’t be able to deal damage to them," she answers.
+
+“We should exile that Griffin fucker,” someone from our bloodline says out of nowhere, and multiple heads turn toward me.
+
+“Phrasing, please,” I say.
+
+“Or what?” That man, a velnar, says as he pushes his way through the others. “When they announced you, I expected more, but so far you’ve just been a tricky, little, cowardly ass,” he growls at me.
+
+“Oh my, let me get you a handkerchief to sob into. How old are you? 50, 100? Not even a Champion yet, and who even declared you a candidate? Someone’s blind grandma? Was there a system error? Or maybe it was your mommy, who couldn’t help but be proud of her special boy?”
+
+“For one who’s been offered the great opportunity of the tutorial, and squandered it, you sure do talk big.” He already towers over me as I look up at him.
+
+Not breaking eye contact, I reach behind my back and reinforce my body. Then, I knock on the glass wall, causing it to crack. Right then, a popup window appears in front of everyone, Vic included. Unlike system windows, it’s visible to everyone, not just the owner.
+
+"Go on, exile me. I’ll stand right here for that minute, and the second it ends, you are out of this game."
+
+The velnar narrows his eyes, but his gaze slides toward Vic.
+
+It is obvious what he’s thinking.
+
+“Oh yes bitch, my sister will be helping me,” I tell him.
+
+“Have you no pride?” he growls at me aggressively.
+
+“Vic, this guy isn't trying to exile me or fight me. He clearly has no pride himself, so why is he lecturing me about it?” I ask my sister, who has been waiting here patiently the entire time, seemingly not even getting ready to fight.
+
+Instead, she seems to be observing the bloodlines and hunters close to us. I am doing the same, and as I do, I begin to find it more and more entertaining, meeting the gaze of someone passing nearby and trying to guess if they will head somewhere else or choose a path that will lead to a clash with us.
+
+“If a fight starts, we can always find someone more capable who’s already been exiled and join forces to unlock the doors,” she says.
+
+“So how about we calm down and just roll with it for a while?” An extravagantly dressed vyssari man from our bloodline says, nimbly jumping up from the ground to land sitting on the velnar's shoulder.
+
+And to my surprise, the velnar doesn't throw him off or complain. Instead, he stands there frozen in what seems like fear.
+
+The vyssari man taps the velnar's head. “Good boy,” he says with a smile, then jumps down, stopping in front of Vic and me. “I'm Prince Kip! Tell me, humans, have you met a vyssari by the name of Lyraen during your tutorial?”
+
+“Yes, we did,” Victoria says.
+
+Kip turns to her excitedly. “How is he? I only saw a few records my master shared with me, and she said some of the Handlers have been claiming that it's been quite a long time since they’d seen a wyvern bloodline as pure as his.”
+
+“He’s a womanizer,” I say instead of Vic.
+
+That causes Kip to switch his gaze to me. “A womanizer?”
+
+“There are rumors that he has something like sixty wives waiting for him outside of the tutorial,” I say, observing the guy. He is short like all vyssari, but weirdly, even though his legs are scaly like the rest of his race, they’re slimmer than most I've met, even ending in what looks more like talons than human-like feet.
+
+There are even some scales on his shoulders, which are revealed by round holes cut into his ornamented shirt. Overall, he’s dressed all in black with golden embroidery.
+
+“That is interesting indeed,” he smiles, “but you know I meant his powers and not something like that.”
+
+I face him and recognize that, from his point of view, he’s giving me a second chance to answer his question, even if I dodged it the first time. He doesn't threaten me or seem insulted, despite the fact that I provoked him.
+
+This forms a better opinion of him in my mind, so I answer, “He’s not as strong as Nyssa, but he’s still quite powerful. White lightning, long range, really good at hiding. That sort of thing.” I think for a bit. “Maybe the fifth strongest of the current attendees?”
+
+Prince Kip nods seriously, but playfully. “Let me guess, you and your sister are second and third?”
+
+“Obviously.”
+
+“And who might be fourth?”
+
+“There is one really fast girl who scares me. I think I could win if I fought like an absolute coward, but if she catches me with my guard down, I might actually lose.”
+
+“It is nice to see a man brave enough to be so honest!” Kip keeps nodding in satisfaction. “How about your sister and you stay in a bloodline with me?”
+
+“Vic?” I ask her.
+
+“I don’t mind,” she says.
+
+“We don’t mind,” I confirm.
+
+“Very good!” Prince Kip claps his hands together, turns back to the rest of our bloodline watching us, and scratches his chin. “What about them though?”
+
+A few of them are raising their defenses, having drawn their weapons. The rude velnar from earlier is already running away too, though he isn't all that fast.
+
+After the filtering, the average quality of the people here is much better than during the first game, but I’m continuing to have a hard time telling if any of them are truly powerful. I mean, I know Beyonders are the best of the attendees, S ranks are the best of the Beyonders, and the people here are mostly Absolute or Champion candidates.
+
+But even though I can sense their presence and it tells me they are strong, it doesn't feel all that threatening.
+
+"I apologize for my rudeness, and this might get a little dirty, but I hope you'll understand!" Prince Kip says, and his brown eyes light up.
+
+A concentrated burst of white lightning flickers around his eyes, intensifying until it starts to burn his eyeballs. But before they’re entirely gone, his eyes flash like pointers and shoot from each one a finger-thick, uninterrupted, laser-like stream that doesn't even resemble lightning anymore.
+
+That stream cuts one of the participants in half, and the guy disappears as his bracelet activates.
+
+Meanwhile, Prince Kip stands there, smiling politely even though his eyes are gone, totally burned out. Then they start healing at a rapid speed, and a moment later, the vyssari blinks a few times to reveal they’ve gone back to normal.
+
+Both Vic and I move against the group, each of us using the opportunity to eliminate one of the participants before we can be kicked out of the bloodline and rendered unable to attack them anymore. I shoot the fleeing, panicked Velnar with my lance while Vic gets close and personal.
+
+For the following minute, the three of us defend ourselves. I continue to throw in random attacks to test how well the invulnerability works, and truly, I do nothing to them at all. The way this thing is set up likely means someone at the level of an Absolute holds control over it, defending against the attacks and maintaining the rules. Or, at least, they’ve created some array for the purpose.
+
+But even over the course of the whole minute, they don't manage to kill any of us, and after it ends, it takes just a few seconds for the three of us to get rid of the remaining four.
+
+Of course, there are huge explosions, flames filling the hallway, and attacks powerful enough to destroy a city or two, but it is nothing we wouldn't be able to handle with a little bit of elbow grease. In the end, even as I hold the wound on my side and watch my burns heal while feeling my sister's judgmental gaze on the back of my neck, though I don't feel too bad about it all.
+
+The Glass House around us is entirely undamaged, making me believe the organizers can switch the durability on and off at will. A part of me wonders what kind of stories they’re trying to play out for the audience. Big betrayals, hunters and hunted, bloodlines unsure if they can trust each other. Short zoom-ins on a smirk here or some suspicious gesture there as a participant’s colleagues move, all to keep the audience on the edge of their seats. All while every participant can see everyone through the glass.
+
+I watch as Prince Kip stands there, his eyes regenerating until he can look over at me. He must have noticed my curiosity. "You spoke to me honestly, so as a man, I shall do the same! My lightning is far too powerful for my eyes and body, but I've developed a workaround through localized super regeneration."
+
+"Is that an official term?"
+
+"Probably not, but it sounds impressive, doesn't it?" The vyssari smiles brightly at me, and I think I begin to like him a bit more in that moment.
+
+"I declare you my temporary companions and promise I shall warn you in the event that I decide to kill either one of you!" Prince Kip says proudly, looking at us with expectation.
+
+"Well, why not? I promise to warn you as well," I say.
+
+"In order to be more efficient, I’ll offer the same promise, which will apply so long as you hold to yours," my sister says.
+
+"Great! Now, let's head toward our next target!" Prince Kip says, pointing a finger in the direction of the man rumored to have been declared an Absolute candidate by a wyvern. Euris, a human man entirely covered in shadow and wielding a glowing red dagger with a shadowy crown over his head, as he passes through the glass hallways alone.
+
+"Let's hunt the hunter!" Prince Kip adds excitedly, and his eyes glow with white light.

@@ -1,0 +1,147 @@
+---
+id: de7868b0-4699-587a-a866-c9f1ef2d3d41
+page-type-slug: story-chapter-royal-road
+title: "342. Let's Chat"
+slug: 0342-342-lets-chat
+partOf: god-of-trash
+position: 342
+ownLength: 2299
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3734315/342-lets-chat"
+royalRoadId: "3734315"
+---
+
+Rhys paused at the door to Ryota’s room. None of the rooms had proper doors, just curtains of constantly-pouring sand that vanished when the room’s occupant willed them open. Thanks to the front door, Rhys knew the sandcastle could (as improbable was it was) have real hinged doors, but the curtains were cool too. Ryota’s sand curtain wasn’t present, so Rhys knocked and stepped into the room. “Hey, man.”
+
+Ryota was staring out the window, and rather than turning, just let out a frustrated huff. “I don’t get it. I was so far from battle! I was at a distance. I was calm. And it still—it still—”
+
+“Oh, yeah. Well, um. You know. I might’ve set off a bomb full of that fierce mana, which in turn set you off. My bad.”
+
+Ryota whirled, staring at him with a slack jaw. At last, he managed, “Why?”
+
+“In my defense, I didn’t mean to set it off. Or know what was inside of it. And to my credit, I shielded the whole thing. It didn’t so much as blow a grain of sand off the castle. I just didn’t know that you’d react to it like that, and didn’t prepare for it.” Rhys shrugged. “If it’s any consolation, I captured you and fixed your core before you could hurt anyone. It was completely safe.”
+
+“Completely safe… do you realize how impossible that sounds to me? I don’t remember anything. I could’ve done anything. Hurt anyone.” Ryota hung his head, grimacing.
+
+“I mean, it is true, though. And also the part where I didn’t know that it was a bomb or what it was going to do when it went off. No one’s at fault here, except maybe Fifteenth.”
+
+“How’s he at fault for me losing control?”
+
+“He built the bomb, so.”
+
+Ryota scowled. “Do we even know it was the bomb that set me off? Are you really that sure that I didn’t just…” He gestured vaguely.
+
+“Yep. Pretty sure. I mean, one thing happened and then the other, you know? The bomb went, and then you did, just like that. Like you said, there was no reason for you to go berserk except for the bomb. Correlation isn’t always causation, but it probably is this time.”
+
+Ryota twisted his lips and looked out the window.
+
+Wait, hold on. I can use this little pity party he’s throwing to my advantage! Rhys spread his hands as if he was being reasonable and let out a deep sigh. “You don’t believe me.”
+
+Ryota didn’t say anything. He kept staring out the window.
+
+“Then we should leave.”
+
+“Leave?” Ryota whipped around, instantly against it.
+
+Rhys shook his head. “You said it yourself! You’re a threat to everyone around you. You don’t remember what happened during the fight, you could’ve done anyone or hurt anything… or something like that. Staying here is only going to put Aran in danger.”
+
+“But if I leave, Fifteenth—”
+
+“Fifteenth is only here for you.”
+
+“That doesn’t mean he doesn’t have the power to crush Aran!”
+
+“And will he have to, if you stay? Or will you kill Aran yourself, the next time Fifteenth deliberately sets you off inside the barrier?”
+
+Ryota fell silent. Rhys could see the thoughts circling in his head. He stood back silently, waiting, pretending he wasn’t sweating from the obvious logical holes in his argument, like the fact that he’d admitted that he’d been the one to inadvertently set off the bomb. Or, for example, that Fifteenth probably wasn’t even planning to use the thing as a bomb here at all, if it was a bomb to begin with.
+
+He could safely disregard his own arguments about himself being able to safely disarm Ryota, since Ryota himself had rejected them and was probably dismissing the possibility of being safely berserk right now. Honestly, Ryota was in no frame of mind to logically consider the situation, so it was fine anyways, but it didn’t mean Rhys wasn’t nervous.
+
+It was like every time he gave a report in school using an argument that he’d researched enough to know was partially false, then sweating it out praying that no one (including the teacher) had bothered researching enough to know that he wasn’t right. He knew that every other kid had procrastinated and dragged their feet twice as hard and hadn’t so much as glanced at his paper or argument. He also knew the teacher didn’t give enough of a shit to read his whole paper, let alone recognize that he’d made a shitty argument. Still, those two truths didn’t stop him from sweating, and it was the same exact vibe here.
+
+Ryota slumped. “You’re right. We should go.”
+
+“Right? Let’s get out of here,” Rhys said, trying not to let his enthusiasm come out in his voice. The sooner they left, the less time Ryota had to think it through and realize that he actually had a much better argument for staying. It was one of those bullshit emotional ones that always frustrated Rhys to no end. An argument based on emotions was no argument at all. The only thing that mattered was cold, hard, logic. Of course, the rest of the less neurodivergent world disagreed with him, which had left him butting his head against a bunch of emotional idiots at all times.
+
+It wasn’t like he couldn’t be emotional. He knew he had a soft spot a mile wide for media that most people considered a waste of time. But he knew that, and he didn’t base logical decisions on his love of bad media. He knew it was trash, but he loved it anyways. It was different from the normies who heard “I don’t like x” and understood it as “x is bad” and then staked their lives on fighting back.
+
+“I don’t like x” was the opening line almost everyone used against his favorite shows, and he just kept on rolling. It didn’t matter if they didn’t understand the charms; he was here to proselytize anyways. They’d never understand the charms if he dug in and fought against the false argument “x is bad,” which they’d never said, but they could if he fought against the real argument of “I don’t like x,” which had infinite arguability. After all, it was practically an invitation to explain why he liked it, and he was always more than happy to take that invitation.
+
+It was more than he could say about any of his coworkers’ other invitations to boring events like baby showers and work dinners, or that one time his workplace had hosted a dance. Attending a workplace dance sounded like actual hell to him. He had to go outside and spend time around people he didn’t like, and not only that, he had to dance in front of them and sit still in an uncomfortable suit while people slowly served a boring dinner? He’d rather die, honestly. He’d been a remote worker, so he’d had an easy excuse to get out of all external obligations, but still; they all sounded worse than awful.
+
+He nodded to himself. Luckily, there weren’t a whole lot of work dinners and work dances in this world, which was all for the better in his opinion. He was sure there was someone somewhere in the universe who heard the phrase ‘work dance’ and got fired up, but that someone sure wasn’t him. It was like the people who thought being called ‘corporate’ was a compliment. They definitely existed—he’d met some of them back in his original world—and he definitely did not understand them, not one whit. Being motivated? Wanting to get promoted and recognized? Couldn’t be him. Better to keep his head down, do a good enough job, and get on with the part of his life he actually enjoyed, aka not work.
+
+Ryota looked at him expectantly, and Rhys realized the man must’ve said something to him while he was off on his nonsense tangent. He cleared his throat and took a guess. “So… how soon can you leave?”
+
+“Are we sure Fifteenth is gone?” Ryota said, in the tone of someone who was repeating themselves.
+
+Bluff check: failed. Rhys cleared his throat. He nodded. “Yeah, I’m sure. His aura left a while ago, and the water sprites haven’t seen anything on the seas or in the sky for a while now. It’s been a day or two since you passed out.”
+
+Ryota startled, taken aback. “Are you sure?”
+
+“Er… not really? At some point, day and night stopped holding real meaning, and especially down here, under the ocean, I’m not really watching the day-night cycle real closely…”
+
+“I meant, ‘it’s been that long?’” Ryota clarified.
+
+“Yeah. I mean, it’s not that bad, honestly. It could be worse.”
+
+“What, I could be out for a week?”
+
+“Sure, why not?”
+
+Ryota stared at him at that, as if he’d never considered the possibility. Rhys, who’d read a great deal of trashy shounens whose protagonists spent every other battle passing out for days, weeks, months, or in the most extreme cases, years, blinked back at him, confused that the thought had never crossed Ryota’s mind. It was a possibility, right? In this world, it wasn’t strange to sleep for a hundred years or meditate for a decade, so why not pass out for a week or more? Then again, people probably can’t pass out for that long, that often, and get out of it okay even in this world, right? I mean, half the shounen protagonists should’ve had some form of CTE with how often they were passing out, and even accounting for magical healing, there’s gotta be some long term effects. If you tier up and refresh your body it probably gets wiped away, but at higher tiers where that kind of thing slows down, you’d think it’d become a real issue.
+
+“That’s… a long time,” Ryota said at last.
+
+“Good thing it didn’t happen to you, then!” Rhys said cheerily. He clapped his hands and crossed to Ryota, gesturing him out of bed. “Come on, you’re up and awake. Let’s get moving.”
+
+“Wait. I want to see Aran. Talk to him. And—and Lira. The servants.”
+
+Here’s the resistance. He’d been expecting it, so he wasn’t too shocked. No one was going to give up that easily, especially not a spoiled prince like Ryota. Dragging his feet was the least of Rhys’s worries, though; it wasn’t like Fifteenth was going to U-turn and come back to attack Aran again. And if he did, then Rhys was wrong about Fifteenth’s intentions and plans, and not only had Rhys learned a lot, but they should stay here with Aran, because Fifteenth was actually trying to kill him with no ulterior motives.
+
+Still, he had to act like he didn’t like it, so he sighed reluctantly. “Fine. And then we go.”
+
+“Okay. Yeah.” Ryota nodded, mostly to himself. He hesitated another moment, then slowly climbed out of bed.
+
+Rhys waited. He continued to wait as Ryota slowly patrolled the entire castle, checking every nook and cranny for something. What he was looking for, no one could say, but he was certainly looking. Rhys, for his part, kept his senses fully extended, monitoring the skies overhead for any sign of Fifteenth. He didn’t know any of the servants, and Ryota didn’t either, but it didn’t stop Ryota from attempting conversations with each one of them.
+
+Most of them were busy, so quickly shoved him off and went back to what they were doing, but a few were chatters and dragged things out. Universally, they all showed respect to Rhys. He wasn’t sure whether it was because of his somewhat questionable actions defending the base, his high rank, or just the deference due a guest, but it made him mildly uncomfortable. He wasn’t the person people deferred to. That was always someone else. Someone who deserved it, not some trashy idiot like him.
+
+I need to work harder on my aura suppression. That, and maybe look into an overlook-me aura, Mouse-style. There were advantages to being low-rank and subsequently ignored. If people were all going to pay so much attention to him, he’d have a harder time slacking off and sitting around like trash. He’d have to actually do things, responsibility-style. And that was not his style.
+
+Lira nodded at Ryota and murmured a few words to him, then bypassed him entirely, her eyes locked on Rhys. “What are you up to?”
+
+“Nothing,” Rhys said innocently.
+
+“Uh huh.”
+
+“Really! Nothing at all.”
+
+“That’s why you’re chaperoning the Third Prince?”
+
+“Is a man not allowed to make friends?”
+
+She crossed her arms and stepped back, looking him up and down. “Are you doing something that might harm Aran, or… the rest of us?”
+
+Rhys thought for a moment. “Not that I’m aware of.”
+
+“And let’s keep it that way.”
+
+“I’ll do my best.”
+
+Lira gave him one last look, then sighed. “I guess that’s the best you can do.”
+
+“It sure is.”
+
+She waved, sauntering away. “I’ll see you around, Rhys.”
+
+“Yeah. I’ll see you, too.”
+
+He walked away, fully aware of what that interaction had actually been. A warning to stay away from the water sprites, and not interfere with their plans, whatever they were. Like I thought, they’re up to something. But then again, who wasn’t? As long as their plans were just political maneuvering for dominance or even conquering, restricted to this region, he was fine with letting it go. He’d keep half an eye on them, but they weren’t his primary concern.
+
+“Just Aran left,” he remarked, looking at Ryota.
+
+“Yeah.” Ryota swallowed, then clenched his fist. “Let’s go.”
+
+I don’t think we need to be nervous about it, but whatever. Rhys nodded and fell in behind Ryota.

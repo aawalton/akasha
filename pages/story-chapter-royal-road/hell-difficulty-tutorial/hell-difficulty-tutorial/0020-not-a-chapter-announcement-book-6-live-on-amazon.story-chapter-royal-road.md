@@ -1,0 +1,21 @@
+---
+id: 6d789786-50ba-57cd-a537-2933ea291266
+page-type-slug: story-chapter-royal-road
+title: "Not a Chapter. Announcement – Book 6 Live on Amazon!"
+slug: 0020-not-a-chapter-announcement-book-6-live-on-amazon
+partOf: hell-difficulty-tutorial
+position: 20
+ownLength: 185
+unit: words
+publishedAt: 2025-11-05
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2735808/not-a-chapter-announcement-book-6-live-on-amazon"
+royalRoadId: "2735808"
+---
+
+Time to shill the launch of Book 6!As always, huge thanks to all my beta readers, my patrons, my publisher, everyone who bought or read the book, and those who left a review or kind comment. It’s only thanks to you that I can keep working on the story I love.Amazon: https://www.royalroad.com/amazon/B0FDR8G1XYLeaving a review or rating helps a lot, and even just downloading the book if you have KU!The cover is as cool as always, so big thanks to Kotikomori for it.As usual, the ebook is fully edited and nicely formatted-you know the drill. There are some issues with Amazon’s servers, so ebook 7 isn’t ready for preorders yet, but it will come out in 3-4 months for sure.You could be reading stolen content. Head to Royal Road for the genuine story.The Audiobook 5 - It isn't ready yet, but I still hope it will be ready this year - I will let you know as soon as I get new info.
+
+I also made Reddit posts, so if you’ve got a Reddit account, giving them an upvote helps a lot!
+
+r/litrpg: https://www.reddit.com/r/litrpg/comments/1op9lxl/hell_difficulty_tutorial_book_6_is_out
+
+r/ProgressionFantasy: https://www.reddit.com/r/ProgressionFantasy/comments/1op9lw2/hell_difficulty_tutorial_book_6_is_out

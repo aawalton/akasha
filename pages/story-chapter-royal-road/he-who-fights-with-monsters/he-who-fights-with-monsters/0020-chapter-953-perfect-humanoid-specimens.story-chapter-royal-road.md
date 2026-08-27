@@ -1,0 +1,261 @@
+---
+id: 9750c9df-2c70-5bf8-bcb2-077cb1448f55
+page-type-slug: story-chapter-royal-road
+title: "Chapter 953: Perfect Humanoid Specimens"
+slug: 0020-chapter-953-perfect-humanoid-specimens
+partOf: he-who-fights-with-monsters
+position: 20
+ownLength: 2673
+unit: words
+ownProgress: 2673
+publishedAt: 2025-01-22
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2024617/chapter-953-perfect-humanoid-specimens"
+royalRoadId: "2024617"
+markedReadAt: "2026-06-29T19:04:28.419Z"
+---
+
+The Australian security team returned through the portal to report on what they had found. Jason sent Lu Yan through a separate portal, to join with the government officials eating frozen desserts. Lu would join their tour, led by the Concierge, allowing Jason to get back to family. In theory.
+
+He stepped out of a Shade body onto his cloud ship, but Shade spoke up before Jason had the chance to move.
+
+“Mr Asano.”
+
+“Please tell me there isn’t something I have to go do. I’m trying to introduce all my friends to my family.”
+
+“Mrs Tilden requires your input. She has what she believes are adequate terms for delivering the dimensional refugees back to Earth. She said it would be best if you could appear in person to ratify the agreement.”
+
+“Why did it have to be today?” he grumbled. “How much leeway do I have in terms of time?”
+
+“Knowing that you are occupied, Mrs Tilden set up a meeting for this afternoon in Canberra, with a number of ambassadors and officials representing the nations and factions whose people were displaced. It is scheduled for one hour and forty-seven minutes from now.”
+
+Jason let out a frustrated groan.
+
+“Okay, that is worth showing up for. If I want people to take me seriously.”
+
+“On that note, Mr Asano, Mrs Tilden suggested you not arrive in short pants. She went as far as to express a hope that you might see your way into donning an actual suit. Might I suggest one of the new outfits from Mr Bertinelli, in the Vitesse style. Something reflecting the formality of Earth business fashion while clearly drawing a distinction. I would, I believe, send the message you are going for.”
+
+Jason nodded.
+
+“As always, Shade, your taste is impeccable.”
+
+“Then might I convince you to reread The Remains of the Day, which encapsulates attitudes of—”
+
+“You realise that’s a sad book about a guy who gave up love out of dedication to a Nazi sympathiser.”
+
+“It is a work containing many fine lessons on the nature of service, Mr Asano. And I would hope that you are discerning in your sympathies.”
+
+“Me too. Look, we’ll watch the film version tonight, with Emi and her parents, alright? Assuming things stop coming up.”
+
+“That would be very fine, Mr Asano. Even if I do not approve of Sir Anthony’s choice of essences. Potent, Fertile, Vast and Edifice. Wholly undignified.”
+
+***
+
+The meeting proved mercifully uneventful. There were some questions from the Australian Foreign Minister about the portal still in the Canberra office, but he fobbed the man off onto Anna. Most of the attendees seemed nervous about Jason, although curiosity and ambition warred with fear in their auras.
+
+As Jason wanted to stall out his time in Australia, despite his claims, he allowed himself to be talked into waiting for a location to be set up on the coast. The refugees would be released there to their respective nations and organisations.
+
+As most of the refugees belonged to both magical factions and nations, there was some contention over would be collecting them. While some nations had merged with various factions, or at least had very close relations, others did not. Some factions, like the Engineers of Ascension and various iterations of the Network, no longer existed at all.
+
+Jason noticed that none of the people suggested asking the refugees themselves, but he happily stayed out of those negotiations. There were a few attempts to bring him into the discussion, but he stayed out of it. Unless and until some of the refugees requested some kind of asylum from whoever arrived to pick them up, he had no horse in that race. He was grateful for Anna’s assistance in avoiding entanglements diplomatically.
+
+He left the ambassadors to their deliberations, returning to his ship once the logistical details that concerned him were finalised. Anna came with him, likewise happy to escape the affair. She had been there far longer than him and had exhausted what productive moves she could make.
+
+“You did well, Jason,” she said after they appeared in a room on the ship set aside for teleport arrivals. “And an excellent choice on the suit.”
+
+“Thank you.”
+
+“Shade?”
+
+“He did help pick it out,” Jason conceded. “My family is having a barbecue on the deck eight terrace lounge, if you want something to eat.”
+
+“I wouldn’t want to intrude.”
+
+“Rufus, Taika and Gary are there. And I’m finally going to bring my friends from the other world to meet everyone. I know you’ve been waiting to connect with Danielle Geller.”
+
+“Then I shall refresh myself and make my way down.”
+
+***
+
+“Wait, were we meant to dress up?” Neil asked. “You said the dress code was casual.”
+
+“It is,” Jason assured him. “I just had a meeting with the Earthlings.”
+
+“I hope you didn’t call them that,” Danielle said.
+
+“I totally did. Even told them to take me to their leader.”
+
+She rolled her eyes as Jason flashed an impish grin.
+
+Jason’s friends were gathering in the hall outside their suites. His team, minus Zara. Farrah and Danielle. Emir and Constance, Arabelle and Gabriel. Valdis and his wife Sigrid. Belinda had Estella with her, trying not to be awkward around Jory. Travis was nervously clasping the hand of his wife Gabrielle.
+
+“Travis, you were one of the first outsiders to sign on with the Asano Clan. You could have been down there the whole time.”
+
+“I don’t know,” he said. “It’s been so long, you know?”
+
+“You don’t have to worry,” Jason assured him. “You’re amongst friends. Family. And I know we’ve had our differences, Gabrielle, but you’re family too, now.”
+
+He looked around.
+
+“No Zara?”
+
+“She’s still with the Rimaros diplomatic contingent,” Danielle said.
+
+“I told her this was happening,” Sophie said. “She’ll join us or she won’t.”
+
+“I’ll call in on them,” Jason said. “But not until after. I’ve been waiting too long to put this off anymore.”
+
+***
+
+The Storm kingdom royal family was sprawling, making up almost a quarter of the kingdom’s nobility. Even the least prominent of noble houses had at least a few royals tucked away in the family tree, all carefully tracked to keep families from becoming too close. Royals on the level of Zara were rare, with most of the princes and princesses being far less influential than upper-tier nobility.
+
+Zareen Rimaros was technically a princess, but far enough down the hierarchy that she was formally referred to as ‘lady’ rather than ‘princess’ or ‘your highness.’ The same was true for many of the diplomatic team sent to engage with the authorities of Earth.
+
+According with her status, she had served as something like a lady in waiting for princess Zara, and they had become close during the journey. It helped that Zareen also had a history with Jason, although Zareen’s was far less complicated. It was mostly a social connection, through her mother, Liara. Liara was likewise a lesser royal, but her personal power and position in the Adventure Society made her a political force nonetheless.
+
+Zareen sat on Zara’s bed, watching the other princess pace back and forth.
+
+“You should just go,” she told Zara. “This is only a big deal in your head.”
+
+“What if I’m being presumptuous?”
+
+“Presumptuous? We’ve all been watching the pair of you eye-humping every time you’re in a room together.”
+
+Zara stopped to give her a scathing look. Zareen responded by putting her wrist to her forehead and falling back, as if taken feint.
+
+“Oh Captain, I am but a wayward princess, cast adrift on a dimensional sea. Take me in your manly arms and—”
+
+She was cut off by a thrown pillow, laughing as it bounced away.
+
+***
+
+While Jason was corralling his friends, the group at the gathering was growing as well. More clan members were appearing through a shadow portal, including Jason’s oldest uncle, Shiro Asano. He arrived with the former members of the Network’s Asano Clan, exiled to the Australian Clan for siding with Jason during his last trip to Earth. The head of that group was the Japanese Asano Clan’s former patriarch, also named Shiro Asano. The Two Shiros, as they had become known, had struck up a friendship during the course of Jason’s long absence.
+
+With them were former members of the Tiwari Clan. Like the Japanese Asanos, they had been exiled from their family for siding with Jason. Jason’s previous time on earth had been filled with betrayal and deceit, so he greatly appreciated those who had demonstrated integrity, even when it cost them dearly.
+
+Leading his friends, Jason paused outside the door to the lounge, as nervous as Nik had been earlier. Humphrey placed a hand on his shoulder.
+
+“It’ll be fine, Jason.”
+
+“He’s right,” Belinda said. “I mean, will they hate Neil? Probably, yes.”
+
+“Hey…”
+
+“Thanks,” Jason said. “That calmed me down. But yeah, they’re probably all going to hate Neil.”
+
+“Gods dammit.”
+
+“No gods here, mate,” Jason told him. “There’s just me.”
+
+“Wow,” Neil said. “That may be the most arrogant thing you’ve ever said, and that’s a crowded field.”
+
+“It was pretty bad,” Humphrey agreed.
+
+“Sorry. I was doing a thing, earlier, and I thought I might have to turn off the sun for a bit. To prove a point, you know? It put me in a certain head space.”
+
+“Just open the damn door,” Sophie said. “I want something to eat.”
+
+The door dissolved away.
+
+“Farrah!” Emi yelled and bolted over.
+
+***
+
+“You’re all so good looking,” Erika said. “I mean, I know what magic does to people’s appearances, but even by those standards, it’s really something. It’s like you all just waltzed in from a modelling agency.”
+
+“That’s really flattering, Eri,” Jason said.
+
+“And Jason would be your manager. Which would explain the one guy who isn’t gorgeous like the rest of you.”
+
+“Really?” Jason whined.
+
+“I like her,” Belinda said in flawless English and stepped forward to shake Erika’s hand. “I’m Belinda, and this is Estella.”
+
+“I actually recognise you,” Erika said. “Jason made recordings during his first trip to your world.”
+
+“I remember those,” Belinda said. “They were really annoying.”
+
+Jason watched happily as his two families met for the first time. For two groups from literally different worlds, they meshed better than he ever could have hoped. Much of the start was him making introductions. Most of the adults present were essence users, so remembering names was easy.
+
+He watched the healers, Neil, Jory, Arabelle and Sigrid, discuss different approaches to magical healing with Jason’s brother-in-law and another doctor, Chloe Baudrillard. Emi, Clive and Gary were messily disassembling one of Emi’s cube constructs on a table where people were meant to be eating. Valdis was enthusiastically discussing Earth sword techniques with non-uncle Shiro and his daughter, Akari.
+
+Anna and Danielle finally met, Jason resisting the urge to push his senses through their privacy screen as they shared exasperated expressions while gesturing in his direction. Emir was holding court with some of the younger generation, many children having arrived with the extra clan members. He was loudly recounting a boisterous tale of treasure hunting and adventure.
+
+Jason’s father was talking with Emir’s wife and Arabelle’s husband. Farrah was catching up with Rufus after fifteen years of separation from her oldest friend. Nik, Belinda and Estella were raiding the buffet table as if they needed to store food away for the winter. Belinda was interrogating an uncertain-looking Itsuki Tiwari over what was the best food to swipe. Humphrey and Sophie were circulating, the absolute centre of attention.
+
+“It’s almost obnoxious,” Erika said. “They’re just perfect humanoid specimens. I am not comfortable with the look Nana is giving Humphrey.”
+
+“I know, right?” Jason agreed. They were watching the room from a quiet booth against the wall, a cornucopia of food laid out before them.
+
+“You know they’re all going to be famous, right?” Erika asked. “Did you prepare them at all for a horde of thirsty people on the internet?”
+
+“Is ‘thirsty’ a term people are still using? I’d have thought they would have moved on from that by now.”
+
+“I don’t know. I’ve been living in a magic hole for years, cut off from popular culture.”
+
+“It’s not a magic hole.”
+
+“There’s a hole in the universe you go through to get in, Jason. It’s a magic hole.”
+
+“That’s an aperture, not a hole.”
+
+“You know we have internet here? Unlike in the magic hole. You do realise what I’ll find if I look up synonyms of aperture on my phone, right?”
+
+“Shut up and eat your burger.”
+
+She contemplated poking him some more, but it was a good burger, so she picked it up and took a bite. Jason let out a contented sigh and leaned into his sister’s shoulder.
+
+“This is exactly what I wanted, Eri. Everything I’ve wanted, for so long. I know there’s going to be a bunch of crap to deal with, but right in this moment, everything is perfect.”
+
+“I heard someone mention there was another member of your team?”
+
+“Zara. She’s a princess of the kingdom on the other end of the magic bridge. They have a diplomatic team here to establish relations on Earth. She’s with them.”
+
+“A princess, you say.”
+
+“Yep.”
+
+“A beautiful princess?”
+
+“Look at these people, Eri. They’re all beautiful.”
+
+“Uh huh.”
+
+Jason sat up straight and looked at his sister.
+
+“Eri, who have you been talking to?”
+
+“Farrah.”
+
+Jason let out a weary sigh.
+
+“I want to meet her, Jason.”
+
+“Nothing has happened between me and Zara.”
+
+“I want to meet her.”
+
+Jason looked around the room at people having a good time.
+
+“Later,” he said. “There’s history, with Zara and me, and things are delicate right now. Neither of us know exactly where things stand, or where they’re going. And there are complications. Political ramifications. She’s a princess, Eri, and not of the wave-at-people-during-a-hospital-opening variety.”
+
+“So, she’s not allowed to hook up with a commoner?”
+
+“No, that’s not the issue. It’s complicated and political, and about more than just her position. I’ve fallen into an unusual position in Pallimustus global politics. Danielle, come here please.”
+
+Danielle was on the other side of a loud room, and inside a privacy screen. Even so, she looked over at Jason’s softly spoken request. She made her way over and Jason tapped the button on the table that activated the privacy magic on the booth. Jason and Erika stood as Danielle approached.
+
+“I don’t think you two have formally met. Erika, this is Danielle, Humphrey’s mother. Danielle, this is my sister. I need my sister to understand why she can’t interfere with my relationship with Zara. For my own good, of course, in that big sister way. I thought that you would be better to explain Pallimustus politics, my position in it and how that relates to the princess. Both because your explanation will be better, and she won’t doubt half of it on principle the way she would with me.”
+
+“It is good to meet you,” Danielle said. “And Jason was right to bring me in on this. I’ll leave the complex personal history for him to explain later, and focus on the politics. How much has Jason told you about what he’s been up to on my world?”
+
+“Not much.”
+
+“Then I will start at the beginning. Shall we sit?”
+
+“I’ll go,” Jason said, standing up. “I might sneak out and see if I can’t talk Zara into joining us.”
+
+“Jason,” Danielle said. “I won’t tell you what to do, or not to do. What I will ask is that any choices you make, you do not make lightly.”
+
+“I know,” he said. She nodded, and he left. The two women claimed seats in the booth.
+
+“Perhaps,” Danielle said, “I should start from the very beginning. I was spending some time at my family’s original estate when I was visited by Rufus Remore. He had an unusual story, centred around a strange man he had met…”

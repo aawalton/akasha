@@ -1,0 +1,113 @@
+---
+id: 8cbbcd1e-adfe-5fab-b167-fcc2f038279c
+page-type-slug: story-chapter-royal-road
+title: "348. The Moral Right"
+slug: 0348-348-the-moral-right
+partOf: god-of-trash
+position: 348
+ownLength: 1978
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3797002/348-the-moral-right"
+royalRoadId: "3797002"
+---
+
+Rhys followed Akio out of the village, infinitely pleased with himself. Ahead of him, with no awareness of his impending doom, Akio yawned and scratched his balls, wandering listlessly like the lout he was. Rhys caught a glimpse of the hand he’d ruined with his face last night. Akio had bandaged it, but overall, it was in much better shape than Rhys was expecting it to be. It was swollen and discolored, but generally healing up well. It looked like it had had a week to heal instead of one night.
+
+I wonder if that’s a benefit of that tiny bit of mana he has, Rhys wondered. There was only one way to find out, and he was already well on the path.
+
+Akio turned a corner, putting some trees between him and the village. The second he did, Rhys closed the gap. Moving so fast he blurred, he gripped Akio by the head and torso—careful to support his neck to prevent accidentally breaking it in transit—and darted deeper into the woods, dashing around trees and through undergrowth as he put distance between the village, the road, and himself and Akio. When he was sure he was alone, he released the man and stepped back.
+
+Akio, who had moments ago experienced being gripped hard, then a wild dash through the forest hurtling at tree after tree, whirled around with surprising alacrity and managed a wobbly punch at Rhys. “What’re you…” His face turned pale, and Rhys hopped back as the man turned and vomited.
+
+“Still drunk, or are you hungover by now?” Rhys looked at Akio, then shrugged. “I guess you’re having a rough morning either way, huh?”
+
+Akio spat curses at him, incidentally clearing the last of the vomit from his mouth at the same time.
+
+Rhys neatly sidestepped. “Say it, don’t spray it. Gross.”
+
+“What do you want?” Akio growled.
+
+“Do you remember breaking your hand last night?” Rhys asked sweetly.
+
+Akio’s eyes widened. “You’re—” He frowned. “You are?”
+
+“Yeah. I changed faces, sorry. Anyways, I’m back for revenge. Stand really still, and this won’t hurt. Probably.” Like the doctor promising the shot would feel like nothing, Rhys smiled wide and darted in for the kill.
+
+“What do you mean back for revenge, my hand is ruined and you’re—”
+
+Rhys gripped his face and forcibly pushed mana into him, stilling it to freeze him in place. He searched through the man’s body for that tiny scrap of mana he’d sensed earlier. The man was no mage. His mana passages were underdeveloped, and his core was scrawny. This wasn’t a hidden village of retired-slash-crippled mages, that was for sure. Rhys still didn’t know what it was, but he’d at least eliminated one possibility.
+
+The man strained, trying to fight against Rhys’s hold. It was akin to a bug struggling to escape his palm, but though futile, it was exactly what Rhys had been waiting for. As the man strained, the tiny scrap of mana flared up from its hiding spot, burning hot for a split second. In that split second, Rhys instantly cornered it. He surrounded it with his own mana, then sat back, studying it. The mana, sensing that it was being tampered with, immediately slammed into Rhys’s mana in an attempt to flee. It barely made contact before it recoiled, its surface blackening. Rhys laughed under his breath. His mana was full of impurities. Did this pitiful scrap of mana really think it could escape?
+
+Apparently yes, because it wound itself into a tight, needle-like shape and slammed into the wall of mana again. Rhys corrupted half of it in a heartbeat, then jolted. Shit! It’s not trying to escape anymore. It’s using me to self-destruct! It’s cop-assisted suicide!
+
+He sent the walls of his mana-catching construct into an open retreat, but it was no use. The mana needle pursued him at speed, and he could only move so fast inside the man’s body. He only had a few precious seconds before the mana needle caught up and successfully self-destructed.
+
+Study it! he shouted silently at himself. He gazed at the needle, turning up his attention to 1000 and putting all his mental energy into gleaning its secrets. The needle felt familiar immediately, but why? What about it? How was it familiar?
+
+Keep looking. More. I need more information!
+
+His mana bubble hit a wall, and the needle slammed into it, fully corrupting itself and vanishing into Rhys’s impurities. Rhys clicked his tongue, annoyed. Whatever it was that was familiar had escaped him. He needed more. More of that mana.
+
+He loosened his grip on the man, extracting his impurities (and all the man’s impurities as a kind of fee while he was at it) as he let go. The man screamed for a split second, then fell to his knees. Rhys glanced at him, confused, then remembered: it hurts when I take people’s impurities. Whoops.
+
+“Speak. Where did you get that scrap of mana?” Rhys demanded imperiously. Ryota was playing the good cop, so he’d be the bad cop. Every god needed their demon. Perhaps that would be his role in the new religion: not angel, but devil.
+
+I can be your angle or I can be yuor devil, he thought to himself reflexively, unable to halt the thought.
+
+The man, blissfully unaware of Rhys’s intrusive memeing, shivered in fear. “I… I found a tome. Hidden in the forest. There’s an old fairy tale th-that recently got more popular—”
+
+“What, really? Oh, come on,” Rhys grumbled to himself more than anything. Someone had already started laying the groundwork for a faith? Not only that, but they’d been much more long-enough-game about it and started from fairy tales years in advance of their actual religious events? Maybe Ryota was right, and they should find another grounds to start their religion.
+
+A moment later, he shook his head. No. He refused! This was his religion’s starting grounds. He’d decided it, and he’d die on this hill. The worse and less fertile the land, the more trashy it became! This was the ideal!
+
+It sure doesn’t feel like the ideal, the more reasonable part of himself muttered.
+
+Oh, shut up. I’m convincing you. Don’t make reasonable arguments.
+
+But I’m the reasonable part of your brain.
+
+I know. Shut up!
+
+He jolted out of his reverie to find the man staring at him and trembling, and sighed aloud, waving his hand to indicate that he should continue.
+
+Swallowing, Akio did just that. “The tale says that if you want your wishes to come true, l-look for a book under the old oak tree. I didn’t think it was real, but just like the tale said, I found the tome under the old oak tree. I followed its regimen, and before I knew it, I could punch harder than ever. I was the strongest. My dream had come true.”
+
+“Huh.” Rhys nodded. It worked, actually. If people had a wish, that was almost like having a path; it was an obsession that mana could chase after and enhance. If someone desperately wished to get stronger, mana could help make them stronger. If they wanted to heal, mana could heal them. If they wanted something more esoteric, like the ability to sew better than anyone or throw a ball the fastest of all, well, mana could enhance their eyesight, dexterity, and fine motor skills or throwing speed just as much as it could increase their strength. It was the true miracle drug; well, it was literal magic.
+
+He looked at the man. If all the villagers were gaining mana from following the practices of a tome, the answer seemed pretty simple: read the tome, and find out all about this mysterious technique. He didn’t need to kidnap villagers to examine their mana scraps if he had the tome that had shown them how to accumulate them in the first place. He could just read the tome and figure it out from the base. “So, this tome. Where is it?”
+
+“Th-the tale says you can never find it twice, or else—”
+
+“Yes?”
+
+“—you… die…”
+
+“Uh huh.” Rhys examined his nails, then looked down at the cowering man. He didn’t have to say it, his body language implied it: and you think I won’t?
+
+“I-I’ll lead you right there, sir!”
+
+Heh heh heh, B-villain techniques work yet again! Rhys grinned as Akio scrambled to his feet and led him off through the forest. Who said you couldn’t learn anything from movies? He’d learned so much from all kinds of movies. Maybe some of it was not the best kind of stuff to learn, since it wasn’t like he would have ever been a B-villain in his original world, but now that he could be a B-villain, it was good to know how to act sassy yet menacing.
+
+He couldn’t pull off the true intimidation of Sid, with the long black hair and the creepy bug-thing going on, Soma’s flirtiness, Straw’s quiet menace, or Daran’s endlessly irritating vibe, but he could definitely pull off B-villain. Well, I could probably pull off being infinitely annoying. I’d have to be in the right mood, though. Daran’s just instantly annoying. That’s his specialty.
+
+They wound through the woods. Rhys kept his mana extended, not because he was afraid of the man leading him to an ambush (any ambush a mortal could rustle up would almost certainly be a joke for him), but because it would be embarrassing if he didn’t take this guy seriously, the man actually got the jump on him, and then he had to sit there with egg on his face, having been successfully jumped by a bunch of mortals as a Tier 5 mage. They wouldn’t be able to actually harm him, but it would be deeply embarrassing.
+
+At last, the man came to a halt in front of a massive oak tree. He stood back, afraid to approach it too closely. Cringing a bit, he pointed at one of the hollows in the base of the oak, a nook in between its thick roots. “In there. That’s where I found the book. I put it back there when I was done with it, but I don’t know if someone else has taken it.”
+
+“Really? You did?” Rhys gave Akio an appraising look. The guy really didn’t seem like the kind of conscientious person to put something back where he’d gotten it from when he was done with it. He seemed more the type to keep his library books forever and just never go back to pay off the late fees.
+
+Akio nodded, dead serious. “If I didn’t, I’d get cursed. We all saw it happen to Ichiro. No one admitted what was happening, but we all knew. He withered away right before our eyes. By the time he put the tome back, it was too late. You have to return the book, or else you die.”
+
+Rhys raised his brows. It was possible the tome was cursed; he’d encountered his fair share of curses in his life. It was also possible that the technique it taught was harmful, and practicing it for long enough would harm one’s mana passages enough to kill them. He’d read plenty of trash tomes in his day. Either way, he was interested in it.
+
+He wandered over and knelt, only for Akio to gasp. He looked back.
+
+“It… it kills those who don’t believe in it,” Akio said.
+
+“Oh. Neat.” Rhys started to reach for it again, then paused. “You know, if you really believed that, you could’ve said nothing and killed me.”
+
+“I… don’t know that it would kill the illuminous sir, but I’m terrified that sir might blame me if he survived the attack.”
+
+“Ahhh. No, that does make sense. We’re cool, don’t worry.” With that, Rhys plunged his hand blindly into the hole.

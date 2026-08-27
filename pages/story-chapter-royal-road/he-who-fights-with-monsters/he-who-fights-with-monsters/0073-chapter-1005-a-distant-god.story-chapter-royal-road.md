@@ -1,0 +1,281 @@
+---
+id: 435bad33-ce5d-50c0-916f-531413c2bfa7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1005: A Distant God"
+slug: 0073-chapter-1005-a-distant-god
+partOf: he-who-fights-with-monsters
+position: 73
+ownLength: 2742
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3521812/chapter-1005-a-distant-god"
+royalRoadId: "3521812"
+---
+
+“I’m glad you could spend this time with me,” Jason told his father. They were in the central tower of the Asano Clan’s Slovakian territory, walking towards the main portal room. As a central transport hub, the portal room and its connecting hallways were always busy. Many eyes went a little wide on spotting Jason, most people offering a nod or quick word.
+
+“Patriarch,” someone greeted in passing.
+
+Ken Asano chuckled.
+
+“You should spend more time around the clan,” he said.
+
+“I’m always here.”
+
+“I mean around the clan members.”
+
+“I’m always watching. For many of them, I have been for their entire lives. Not in a creepy way. I know every person in this building. What they do, who they love. What they had for breakfast last Thursday. I see them all, Dad.”
+
+“But they don’t see you. They feel you, like you’re soaked into the walls. Into the ground they walk on and the water they drink. You don’t notice it, at first, not exactly. There’s a reason newcomers feel unnerved when they first enter clan territory. Once they see you in person, it clicks. You’re everywhere here. The young ones who grew up with it often say they feel exposed when they leave clan territory.”
+
+“I know.”
+
+“My point, Son, is that they always feel your presence, but rarely see it. If they did, maybe you wouldn’t get people praying to you. You know they do that, right?”
+
+“I know, but what am I meant to do? Show up and tell them to stop? They’ll just take that as answered prayer. It’s not many.”
+
+“Not outright praying, no. But in their helpless moments, when the clan members look to the sky and ask for help, it’s you they’re asking. And, often as not, you give it to them. People pass around the stories, Son. A lost kid guided safely home. Car accidents stopped as if by an invisible hand. Someone falls and hard asphalt turns to soft cloud and catches them.”
+
+“You’re saying I should stop helping people?
+
+“I’m saying maybe have the occasional bowling night or something. Let people see that you’re a guy and shake your hand. If they can thank you in person, instead of whispering gratitude to the heavens, maybe they won’t feel the need to pray to you.”
+
+“Dad, have you not seen those videos of me Emi keeps putting online? The latest one was from the pool deck barbecue last week. I was wearing swimming shorts and an apron, grilling meat while singing ‘Hanky Panky’ by Madonna. That’s about as far from divine as I’m going to get.”
+
+“It’s going to take more than seeming approachable, Jason. You have to be approachable. As in, literally, physically approachable.”
+
+Jason side-stepped into the path of a young woman who had been walking in the other direction, failing miserably at pretending not to side-stare. She made a whimpering noise as she pulled up short when he moved into her way.
+
+“Did I, uh… make that noise out loud?” she asked meekly. She had the body language of a mouse hiding in a hole from a cat. She had a tablet clutched in her left hand and didn’t know what to do with her right.
+
+Jason held out his own hand to shake. She stared at it for a moment before gripping it with nervous vigour.
+
+“It’s an honour to meet you, Mr Patriarch, sir.”
+
+“It’s fine to just call me Jason.”
+
+“Oh, I would never, sir.”
+
+“There’s no need to be nervous, Eliška, although I am going to need that hand back at some stage.”
+
+Realising she was still shaking his hand, she let go like she’d touched a hot stove and stumbled back, dropping her computer tablet. Jason caught it with his aura, floated it to his own hand and held it out for her.
+
+“Just think,” he told her. “You were so nervous about your presentation, and then you ran into me. After this encounter, the presentation doesn’t seem so nerve-wracking, does it?”
+
+“Um…”
+
+After a moment she noticed she was standing there, failing to respond. She reached out and took the tablet.
+
+“Thank you, sir.”
+
+“You’re welcome, Eliška. Could you do me a favour?”
+
+“Of course, Patriarch.”
+
+“Take a deep breath.”
+
+“What?”
+
+“Take a deep breath.”
+
+She blinked her surprise, then took a deep, but nervously ragged breath.
+
+“And another.”
+
+Her next breath was slower and smoother.
+
+“One more time.”
+
+After the third deep breath, she was looking visibly more relaxed.
+
+“Better?” Jason asked.
+
+“Yes, sir, thank you. Although, a lot of people are looking at us while pretending not to look at us.”
+
+“You get used to that.”
+
+“I’m not sure I will, sir.”
+
+Jason chuckled.
+
+“Eliška, I’ve let Kathleen know that I’ve held you up and she’s pushed your presentation back until after lunch so you can do something else for me.”
+
+“Of course, sir, what can I do for you?”
+
+Jason leaned closer and used his aura to screen them from listening ears as he whispered.
+
+“You might want to fix your third presentation slide so the image is the Quilido Research Institute building and not your Clive fan art.”
+
+Eliška’s face turned beetroot red.
+
+“I put it together last night after work,” she stammered. “It was late and I was tired and—”
+
+“I know,” Jason said, his tone soft and reassuring. “It’s fine, and now you have time to fix it.”
+
+Seeing the young woman look like she was about to collapse, Jason gave her a smile.
+
+“I’m going to go now, Eliška, and you need to sort out your presentation slides. It was lovely meeting you.”
+
+“Sir?” she asked as Jason turned to leave.
+
+“Yes?”
+
+“Patriarch, you’re going off to fight the vampires tomorrow, right? With all the armies and the clan’s combat teams?”
+
+“Yes.”
+
+“Isn’t it strange that all that is happening and the rest of us are all just acting like it’s a normal day? Shouldn’t we be, I don’t know. Doing something?”
+
+“That’s why we’re fighting, Eliška. To protect those normal days. So, what we need for you to do is to have them. There’ll be excitement, and I’m sure you’ll draw another delightful picture of Clive. Maybe with pants, this time, as Onslow’s shell is a little coarse to the touch.”
+
+Jason chuckled as she made another whimpering noise.
+
+“Go about your life, Eliška. Do your work. Write your fanfic. Say yes if Michael finally works up the courage to ask you out. He’s a good young man, if a little over-anxious.”
+
+“You know about my fanfic?”
+
+“You might want to tweak chapter three. Humphrey doesn’t wax his chest; he’s surprisingly hirsute.”
+
+Ken put a hand on Jason’s shoulders.
+
+“Son, stop teasing the poor girl before she melts into a puddle. We should get going.”
+
+Jason turned to him and nodded.
+
+“Alright. Eliška, again, it was lovely to meet you. I hope your presentation goes well.”
+
+Jason and Ken set off, leaving the trembling young woman to gather herself together. Some of her co-workers were already moving in to check on her and/or ply her with questions.
+
+“So,” Jason said to his father as they finally reached the portal room. “Approachable enough?”
+
+“You may need to work on it. I’m not sure that fame suits you.”
+
+“No?”
+
+“You like playing with people too much. That’s one thing when you’re just some annoying, anonymous guy, but you haven’t been that in a while. You need to learn how to navigate the power dynamic you have now.”
+
+“I was trying to help that woman.”
+
+“And you probably did, overall. But you also had some fun at her expense, and that girl isn’t Farrah, or Belinda. She isn’t ready and eager to push back when a myth walks down the hall and starts teasing her.”
+
+Jason stopped and let out a sigh.
+
+“Did I stuff up?
+
+“Not too badly. I would have stepped in earlier if you had.”
+
+“Thanks.”
+
+They headed for the portal to the astral space containing the Asano Clan’s refugee vampires and their city of night.
+
+***
+
+The vampire city existed within a realm of perpetual night. Narrow streets of rain-slicked cobblestone wound between gothic buildings that loomed like monsters in the dark. Gaslamp streetlights offered poor illumination, failing to pierce the omnipresent fog. Overhead, zeppelins made their way slowly across the sky, docking at gargoyle-adorned towers that jutted into the skyline. Cars were infrequent, with models that looked almost a century out of date. Most people were on foot, hugging the shadows as they made their way from darkened streets to even darker alleys, keeping a sharp eye on their surroundings.
+
+“Jason,” Ken said as he peered out the window of their black taxi. “Do you ever think that you might have gone a little far with this place?”
+
+“I like it,” Shade said, his voice ominously coming from both everywhere and nowhere. “Most places are too frivolous.”
+
+“You’re not concerned that it’s so sinister that a cartoon serial killer would find it a bit much?”
+
+“I am not,” Shade replied.
+
+The taxi pulled up in front of a stone arch. A sign proclaimed it the entrance to Silvermoon Garden Park. As Jason got out of the taxi, the hunched figure of the driver rolled down the window.
+
+“We take cash, along with… other forms of payment.”
+
+Jason raised his eyebrows at the driver’s suggestive leer.
+
+“Are you proposing I let you drink my blood instead of paying for the taxi?”
+
+The driver looked around before leaning out the window and speaking in hushed tones.
+
+“Sorry, Patriarch. There’s not actually a charge, since it’s a clan public service, but the boss makes us do it. The tourists love a bit of flavour, you know?”
+
+“You get tourists?” Ken asked him.
+
+“Sure do,” the driver said. “It was slow, at first, as we started retaking Europe and the clan was opening up. Mostly military and diplomatic families stationed at the base. As more of Europe was clawed back, more and more people showed up. You would have thought that all the vampire business out in the world would have kept them away, but I don’t know what to tell you. Gives a fellow hope we might be able to go back out there one day, you know? Without getting hunted down and killed immediately, I mean.”
+
+Jason and Ken made their way under the arch and into the park. In contrast to most of the city, it was vibrantly lit by silver light, not from above but from the petals of glowing flowers. They grew in sprawling garden beds and climbed over winding trellis tunnels. White boulders were scattered about, bathed in what felt like moonlight coming from the magical flowers. Despite being nothing like the actual moonscape, it felt like being in a garden on the moon.
+
+Pathways wound through the park grounds, and the people they saw weren’t the furtive scurriers of the city outside. They looked happy and relaxed, from couples walking hand-in-hand to parents grabbing their children before they could pluck a glowing flower.
+
+“You’ve done well here,” Jason told his father as they strolled along the pathways.
+
+“It was a fun project,” Ken said. “There are a lot of unusual quirks to landscape architecture once magic gets involved, but gardening without sunlight was a fresh challenge. But we didn’t come here for you to compliment my garden, did we?”
+
+“I have a meeting.”
+
+“That you don’t need me for.”
+
+Ken gestured to a nearby bench and they sat.
+
+“What is it, son?”
+
+Ken waited through a lengthy silence while Jason gathered his thoughts.
+
+“I’m going to confront McKean tomorrow.”
+
+“That’s the big bad guy?”
+
+“Yeah.”
+
+“Okay.”
+
+“I was talking to someone, and he had a suggestion on how I should handle it.”
+
+“And you disagree?”
+
+“I don’t know, and that’s the problem.”
+
+“Do you trust this person’s judgement?”
+
+“Absolutely not. He’s basically angelic space Hitler.”
+
+“That’s kind of an answer in itself, isn’t it?”
+
+“Yeah, it is. But my instinct says the same thing he did.”
+
+“Which is?”
+
+“Play the vast cosmic power card. The untouchable immortal whose might cannot be challenged as he looks down upon the frail mortals of Earth. To show him and the world that my authority is unassailable.”
+
+“If I get a vote, and the fact that I’m here suggests that I do, I’d rather you don’t go in that direction.”
+
+“Dad, I’ve spent the last decade forcibly welding this planet into a weapon. Astonishingly, it’s actually worked, but it’s a fragile alliance. I’m afraid that if the nations of Earth see me as anything but invincible, the whole thing will unravel. Farrah thinks that’s what this guy might be trying to accomplish.”
+
+Ken nodded.
+
+“I know that this world hasn’t always shown you its best. But we’ll never be able to without another chance to show you our worst. You’ve been keeping the whole world in check. You’re a cat owner who won’t let go of a kitten because the last time you did, it scratched up the furniture. But you can’t hold on forever, Son. That won’t work for you or for the cat.”
+
+“I don’t have the luxury of giving the Earth a chance to screw things up again. Not with what’s coming next. I said that McKean is the big bad guy, but he’s just a warm-up compared to what comes next. Him and his vampires are a test run for when the real bad guys show up.”
+
+“I’m not sure you get a choice, Jason. I know that you and I don’t really discuss your big space wizard business, but you don’t hide it, either. This isn’t the first time I’ve heard about something bad coming down the pipe. I’ve also heard you worry that you won’t be here to face it.”
+
+“I might be here, I don’t know. But I don’t think so, no.”
+
+“Then you’re wringing your hands over a choice you don’t have. Sooner or later, this world needs to face its challenges without you to face them for us. Isn’t that the whole reason this battle is happening? To make sure we can?”
+
+“Yeah.”
+
+“As a dad, I learned the hard way that kids don’t listen to what you say. They watch what you do. If you want us to do better when you’re gone, you can’t just tell us to. You have to set an example. Don’t show the world a distant god, Son. Show them a man who acts out of compassion. A desire to do what’s right for people. You might just inspire some of them to do the same.”
+
+“That hasn’t been my experience.”
+
+“I know. But sometimes you have to make the choice that seems stupid because the smart one will just give you more of the same. It’s like in the eighties Transformers movie, when Rodimus chooses to use the universal greeting, even though he saw it didn’t work before. He made the fool’s choice because he’d rather take a foolish chance on peace than start killing when there might be another way. Sometimes you have to dare to be stupid.”
+
+“That’s fine to say, but I’m gambling with a whole world, Dad. And I’m not exactly the inspiring type. I’m the guy with the evil powers, remember? And that’s even before you get to the people who think I’m the actual Antichrist.”
+
+“I know that you’re a contentious figure, Jason, but more people than you realise will follow where you lead. I know you think they won’t unless you drag them along, but at some point, you have to let go. If you won’t be here, someone has to lead humanity, and I’d prefer it to be the people we chose for ourselves. I love my mother, but if you conquer the world for the clan and put her in charge, I’m emigrating to Pallimustus.”
+
+Jason snorted a laugh. He took a cleansing breath and rolled his shoulders to let out the tension.
+
+“I’ll think about what you said, Dad. Thank you. Now, Craig Vermillion has been waiting for us to finish talking, so I’d appreciate you taking a stroll while he and I chat.”
+
+“Of course, Son.”
+
+Ken wandered off and Craig Vermillion appeared along a path and sat down next to Jason. They sat in sombre silence for a long time until Craig finally broke it.
+
+“Tomorrow, then,” he said, his voice tired and heavy.
+
+“Yeah.”

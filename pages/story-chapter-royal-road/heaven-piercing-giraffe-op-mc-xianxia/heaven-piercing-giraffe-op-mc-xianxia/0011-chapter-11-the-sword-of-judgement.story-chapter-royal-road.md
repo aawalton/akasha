@@ -1,0 +1,214 @@
+---
+id: fa588d7f-e548-5838-9cf8-ab6b373698ba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: The Sword of Judgement"
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 11
+ownLength: 1771
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3638206/chapter-11-the-sword-of-judgement"
+royalRoadId: "3638206"
+---
+
+Chapter 11: The Sword of Judgement
+
+Earlier, in the training room where Human Dad handled the older Human Ds, I placed my hand on the back of the last Metal cultivator.
+
+He went to the medics, as the others had.
+
+I had developed a reliable system by this point. Hand placement between the shoulder blades, locate the smallest transferable amount of spirit energy from the warmth in my neck, move it across. The recipient would glow briefly, advance several levels, and then lose consciousness with the expression of someone who had not expected the day to go this way. The medics had stopped looking surprised. They had started bringing a stretcher in advance.
+
+Akasha put a hand under her chin. "Since we've finished with the Metal cultivators, how about trying the other elements?"
+
+The Human Ds behind us were shaking their heads. All of them.
+
+I considered the proposal. "Will they also go to the medics?"
+
+"Probably worse due to elemental incompatibility, but it's worth the risk." Akasha clenched her fist near her chest.
+
+The head shaking intensified.
+
+One of them managed to say something, "Wouldn't it be bad if they attack now and all of us are unconscious?"
+
+"It's only the third day, they won't attack that fast." Akasha put both hands on her hips. She looked at me. "Now Raffea, do the thing."
+
+I nodded.
+
+A human D tried to back away and was held in place by the others, who had no interest in being next.
+
+I placed my hand on the next victim, then the door opened.
+
+White came in.
+
+She looked the same as before in most respects. Same white robes, same composed expression, same quality of paying attention to the room without appearing to. But her aura had changed. It had a different character now: sharper at the edges, more settled at the center, the way a blade looks after it has been properly finished rather than merely made.
+
+Badger and Porcupine followed behind her. Both their cheeks were swollen.
+
+"Did someone face slap them?" I straightened as the Human D offered to me ran.
+
+White smiled. "I did. Payback for carrying me like a sack of potatoes."
+
+"You should be thankful we carried you!" Badger pointed behind her.
+
+Porcupine did not follow his lead, which seemed like the correct call given that Badger had just been face slapped a second time for it.
+
+White grabbed his hair. "What was that? I didn't quite hear you."
+
+Akasha sighed and clapped her hands together. "Okay, that's enough." She looked at White. "How are you feeling?"
+
+"Much better." White released Badger. "Significantly better, actually."
+
+"Good." Akasha nodded. "It means one more day and our Metal cultivators will be combat ready."
+
+I looked at White. I was not sure what to say.
+
+White crossed the room and patted my head.
+
+"Thanks." She smiled.
+
+I nodded. This seemed like the right response. I filed the interaction under resolved and moved on.
+
+Then the door opened again.
+
+It was Human Dad. He looked at the room with the comprehensive sweep he applied to most rooms, taking in the absent Metal cultivators, the head-shaking Human Ds, Akasha's expression, and me, in approximately two seconds.
+
+"How is the enhancement going, Raffea?"
+
+"It's—"
+
+The floor separated.
+
+Not gradually. A clean line appeared in the stone between me and White on one side and Human Dad and the rest of the room on the other. Then something rose through it. Metal, thick and cold, climbing until it had become a wall. I looked up to find its edge and found instead that the ceiling was gone. The wall continued past where the ceiling had been, past the roof, into open sky. It was not a wall. It was a sword. One sword, driven through the island from above, dividing the training room, the compound, and everything between them in a single clean line.
+
+Then four figures were descending above. Two descended on our side.
+
+I assessed the two. Both glowing.
+
+"Looks like they come prepared with spirit energy already absorbed," White said beside me.
+
+One was built like a hippo and had positioned himself slightly behind the other. He was mounted. The creature beneath him had wings currently pressed flat against its sides: white, enormous, belonging to an animal I remembered from the open sky before humans had developed opinions about what such animals should be doing with their time. A pegasus.
+
+The other had long black hair threaded with green stones. His face was familiar in a way I needed a moment to place.
+
+He looked like Monkey. A version of Monkey with better posture and more expensive stones in his hair, but the resemblance was present in the jaw and in his confidence.
+
+I would call him Monkey Two... but that would be confusing. OK, let's call him Magpie. His hair ornaments and yapping earned it.
+
+Magpie's gaze moved past me, past White, past the blade dividing the room.
+
+"Father really is underestimating me. Sending me to the side opposite to the Xinhaan sect leader." His eyes moved back to me. He sighed. "What's more, there are only girls here."
+
+Hippo laughed. "Young master, this will be the perfect chance to train your skills."
+
+"Looks like we are being underestimated," Gwyn said in a light tone but her crimson eyes were telling a different story.
+
+Magpie walked towards us.
+
+"Young master, do you want me to support you?" Hippo asked behind him.
+
+"Stay there Burton, there are only two," Magpie said before stopping. He looked at his chest, blood was pooling on his robe. "Where did you come from?"
+
+It was Fish holding an ice dagger.
+
+"Young master!" Hippo's pegasus charged.
+
+White intercepted him with a huge sword already in her hands. "Didn't he just tell you to stay there like a good dog? Now stop being a worrywart." She smiled.
+
+The pegasus hit the sword and its head flew.
+
+Hippo didn't wait for it to land. He was already airborne, and his arm was no longer an arm, it had become a tree, a great wooden limb the size of a structural beam with the weight to match. It came down.
+
+White moved her sword up to cover.
+
+Then she lowered it.
+
+"Nice cover."
+
+I stepped in front of her.
+
+The tree connected with my body and stopped.
+
+"Move it!" Hippo's other arm became a tree as well and whipped toward my side.
+
+It also stopped on contact.
+
+"Shut up." I glared at him. "You're the ones who attacked my territory."
+
+Behind us, Magpie shouted.
+
+"Damn it!"
+
+The aura came off him in a wave: red, dense, heat without direction. His black hair lifted and turned the same color, the green stones catching it and throwing it back brighter. He looked like something that had decided to be on fire and found the decision agreeable.
+
+Fish jumped back, pulling the dagger out.
+
+Magpie's hand went to his chest.
+
+The sizzling sound was immediate, and he screamed louder than the situation seemed to warrant before the flame cut out. He stood breathing heavily, chest sealed, expression somewhere between pain and fury and something underneath both of them that was trying very hard not to be fear.
+
+He pointed at Fish.
+
+"You must be a Water cultivator. Mist specialist like Null."
+
+"Nope." Fish held up the ice dagger, which had gone red with Magpie's blood. "My old man told me to focus on cloud for flying. I trained with ice sometimes."
+
+"That's impossible! You can't disappear like that without mist! There's no way—"
+
+Fish scratched his cheek.
+
+Then he started walking toward Magpie.
+
+I watched carefully, because something told me I would miss him if I didn't. His footsteps had sound, not the generic silent movement of the older Human Ds. His posture was the posture of someone crossing a room with somewhere specific to be. His gaze had the unfocused quality of someone whose thoughts are elsewhere.
+
+The more I looked at him, the less I found to look at.
+
+He was still there if I concentrated, but the moment my attention eased at all, he became part of the room. He walked forward and the space he occupied stopped being the kind of space that drew eyes.
+
+He disappeared.
+
+Magpie's head went left. Right. Back to us.
+
+"Burton! Where is he?!"
+
+"Young master, he is—"
+
+White's sword arrived before the sentence finished. A clean vertical line at Hippo, forcing him back two steps and leaving the tree-arms.
+
+"He's currently occupied," White said, without turning toward Magpie. "Please find someone else to consult."
+
+Magpie's aura restructured. The red energy spread upward from his shoulders into something wing-shaped. Broad, defined, carrying him off the ground in a single beat and up into the open air where the great sword had removed the ceiling. From there he began a slow circuit, scanning downward. Probably looking for Fish.
+
+"Too bad I couldn't fly yet." Fish was already sitting on the broken stone wall.
+
+I shook my head.
+
+I had my own problem to deal with.
+
+On our side near the metal wall: Hippo had finished covering his arms with wood again, but different from before. Not tree-limbs this time, but something shorter, denser, the wood compressed and layered in overlapping sections that tapered to points at the ends. Eagle talons. He rolled his shoulders and the talons moved with them, testing their range. He then looked up.
+
+"Young master, stay there for now!"
+
+"Shut up Burton! I'm going to kill that... that... What is he to begin with?!"
+
+Hippo scratched the back of his head and turned back to us. "Now that the young master is safe, I can finally focus on you two properly."
+
+"Only if he stays there," White said.
+
+"I hope he will," Hippo answered.
+
+I looked at the wall.
+
+Human Dad was on the other side. I trust him, but the not-knowing had a weight to it that I found I did not like.
+
+I focused the warmth in my neck.
+
+The morning of careful transfers to Metal cultivators had improved my calibration. Not dramatically, but enough that small now landed closer to what I intended.
+
+I ran at him.
+
+Hippo watched me come.
+
+He was taller. Considerably taller. I had spent my entire previous life being the tallest thing in any given area, and being looked down at by another creature was an experience I did not have a comfortable relationship with. A hippo should always look up to a giraffe. This was simply the correct order of things and the current arrangement was an offense against it.
+
+I stamped.

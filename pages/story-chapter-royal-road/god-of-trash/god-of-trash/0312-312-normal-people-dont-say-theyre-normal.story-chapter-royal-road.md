@@ -1,0 +1,217 @@
+---
+id: 18423de1-53f3-50ff-9b78-d6aa7b975557
+page-type-slug: story-chapter-royal-road
+title: "312. Normal People Don't Say They're Normal"
+slug: 0312-312-normal-people-dont-say-theyre-normal
+partOf: god-of-trash
+position: 312
+ownLength: 2154
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3415559/312-normal-people-dont-say-theyre-normal"
+royalRoadId: "3415559"
+---
+
+As it turned out, the settlement was a small city, and it had all the usual conveniences, from apothecaries and clothes stores to bars and restaurants. He chose the bar that looked the most like an island dive bar-slash-tiki bar and slapped a few gold on the countertop. “Give me your fruitiest drink, and hold the alcohol. I have the feeling I’ll need to be sober for this story.”
+
+The bartender looked at his coins and sneered. “What are you, a mortal? Gold? Put that trash back in the garbage. We only take spirit stones here.”
+
+Rhys gaped at him. “Gold… is trash?” A thousand thoughts shot through his head, and inspiration sparked at a thousand miles an hour.
+
+“Y…yes?” the bartender said, taken aback.
+
+“Er, I’ll cover,” Ryota offered, and put a few faintly-glowing greenish gems on the counter.
+
+Rhys barely noticed, too caught up in the concept of gold being trash. All that worthless gold he was sitting on, like a dragon hoarding its treasure… that was all trash? His very being rejected it, but… but if this man said so, then, then why not? Experimentally, he fed a gold coin to the trash-black hole, and the thing greedily sucked it in. Rhys caught his breath, feeling pain from the loss of money, but at the same time, excitement. This—this was one of his hypotheses, proven true! If something had value somewhere, but lacked value somewhere else, then so long as he operated with the mental framework of the place where it was worthless, that thing was trash!
+
+“Wow,” he whispered.
+
+“‘Wow’ is right. You should be thanking your friend for covering you right now.”
+
+He snatched the bartender’s hand and shook it. “Thank you, sir, for your enlightenment. I never could have overcome this mental barrier on my own!”
+
+The bartender blinked. He pulled his hand back and turned to Ryota. “Is this man alright in the head?”
+
+“I… uh, probably not?” Ryota said with a smile, scratching the back of his head.
+
+“Excuse you. I’m supremely sane.” Rhys paused. “Never believe that, by the way. Only crazy people say they’re sane.”
+
+“Ah… thank you.”
+
+The bartender produced a tall glass with all colors of fruit juice in it, and Rhys snatched it and took a sip. Sweet! After so much salt… it’s so good! He nodded at Ryota, refreshed. “So, let’s take it from the top. Assume I know nothing and explain this situation to me like I’m five.”
+
+“Are you not from around here?” Ryota asked, tipping his head.
+
+Rhys shook his head. “I’m a traveler, a free bird at heart. Home is a feeling I carry with me, and my bed is wherever I lay my head. I’m a wandering romantic, seeking nothing but love and peace.”
+
+“Y-you killed five men.”
+
+“And sometimes I kill people. There—now you know my backstory. So what’s up with you?”
+
+Ryota took a deep breath. He stared at the counter. “It’s a long story.”
+
+“I’ve got a drink. We’ve got time. Oh—why don’t we get you something? Hey, barkeep!”
+
+“Why are you ordering? He’s the one with coin,” the bartender commented dryly.
+
+Ryota gave an embarrassed smile and laid a few more of the glowy gems on the counter. “I’ll just take a beer, thanks.”
+
+“Really? I could’ve sworn you were a cocktail kind of guy. Something tall and pale, little bit of red at the top, maybe. No?”
+
+Ryota shook his head. “No, not at all. I’m just an ordinary beer-drinking citizen.”
+
+“Ordinary beer-drinking citizens don’t call themselves that.”
+
+“Ah… haha…”
+
+Rhys gestured. “So, out with it. I killed five men for you. I think I’ve bought myself your backstory.”
+
+The bartender glanced at his new friend. “Ryota. Is this man threatening you? Should I call the enforcers?”
+
+“No, no. There’s no need for that,” Ryota said quickly. He coughed. “I’m, er, just like you. A wanderer, seeking love.”
+
+“And peace.”
+
+“Mostly love.”
+
+“I can respect it—I’ve got a friend like that.”
+
+“I, er… may have found myself alone with the High Priestess of this region, and the two of us… explored the possibilities of love together.”
+
+“Uh huh.”
+
+Ryota seemed to gain a second wind, and strengthened. “I could go on for hours, but it’s impolite to kiss and tell. Suffice to say, we found many wonderful possibilities together, then agreed to part ways. It was a good night, but it was fated to be but a night. Unfortunately, on my way out, I was caught by her groupies… guards. I ran for my life, but they caught me, and it’s… well, you know the rest.”
+
+Rhys narrowed his eyes. “Right, I didn’t mean that part. I’d already gathered as much already. I mean the bit about the three men orchestrating all this to kill you. What kind of bigshot are you that people are orchestrating to kill you? I mean, an ordinary guy like me has never had anyone… only had one or two small countries attempt to orchestrate my death. But I knew exactly why they were doing it! So spill. What’s up with that?”
+
+“Eh? You have countries after your head?”
+
+“Had. Past-tense.”
+
+“Oh, you cleared it up?”
+
+“I toppled one country and overthrew the other, so yeah.”
+
+Ryota stared at him, his jaw slack. The bartender’s hands had gone still, and he no longer polished his glass.
+
+Rhys put on a big smile and laughed. “A joke! Just a joke. Jeez, if you could see your faces right now!”
+
+Ryota still stared at him for a long moment, then forcibly recovered and managed a laugh. “That’s not something to joke about! Where’d you even come up with that… ah, I don’t think I know your name.”
+
+“Rhys. Rhys Foundling.”
+
+“That’s a strange surname.”
+
+“I was born in the garbage and abandoned in the heap. It means I have no family, that even my surname is trash. I’m a free man, a truly unrestricted wanderer without a single thing to hold me down.”
+
+Ryota looked down. “Isn’t that a bit sad, though?”
+
+“Is it? I still haven’t decided. Right now, I think it’s great.”
+
+“Didn’t you mention something about running from—”
+
+“Hey, I see you, Mr. Changing-the-Subject. What’s so problematic about your situation with those dudes who want to orchestrate your un-breathingness that you won’t tell me?”
+
+Ryota glanced at the bartender.
+
+The bartender raised his brows. “Don’t look at me.”
+
+Ryota looked down again, then took a deep breath. Abruptly, he looked up, looking Rhys in the eyes. “I’m the prince of this region. A—a prince. In the line of succession.”
+
+“Oooh. Why didn’t you say so earlier? You need help toppling your big brothers? I know a little thing or two about toppling a nation.”
+
+Ryota squinted. “I thought that was a joke.”
+
+“It is. Unless…?”
+
+“No, I don’t want to topple my nation. I’m something like third in succession, anyways, so it’s not like I have a great shot at the throne, but there’s princes below me who see me as a barrier on their way to the top.”
+
+“You have a lot of brothers, then?” Rhys guessed, sipping his drink.
+
+Ryota glanced at his hands. “There's twenty-seven of us, total.”
+
+Rhys couldn’t help it—he did a spit-take. “Holy shit! Your parents were busy, huh? Your poor mother…”
+
+“Ah… no, it’s not like that. We, er, have a different system here than in other countries. Our nation is made up of many small regions, each controlled by a warlord, and the leader is… well, the king is really more like a figurehead than anything else. Ostensibly, he holds the power, but actually, the power is held by the warlords. So, to keep everyone united, each warlord sends one of his daughters to the palace, and they all become the king’s wives.
+
+“It’s the king’s duty to bear an heir with each of them. Though there’s a ‘line of succession’ and technically, age should indicate the next king, our power is proportional to the power of the warlord our mother is associated with. My fifteenth brother is the nephew of the most powerful warlord in the nation, and most people expect him to inherit the country despite the fact that he ought to be so far from succession as to be a non-factor.”
+
+Ryota took a deep breath. “Of course, it’s easier to explain to the citizens if he’s merely the eldest son and inherits by default, as things ‘should be,’ so naturally, he’s trying to move up the list.”
+
+“By killing his brothers,” Rhys surmised.
+
+Ryota nodded. “Precisely.”
+
+“Then, those men were agents of your fifteenth brother?”
+
+“That’s my guess.”
+
+“You don’t know?”
+
+“I have twenty-six brothers, and they all want to be king.”
+
+Rhys shrugged. “Fair enough. So, then, to summarize, you’re the idiot who decided to fuck around with the local priestess even though you knew your brothers were after your head, giving them a perfect opening to bump you off the list?”
+
+“Eh… heh heh.”
+
+“This isn’t an eh-heh-heh moment, you idiot. Do you want to survive this or not?” Rhys paused. “For that matter, do you want to be king?”
+
+Ryota looked at his beer, which he still hadn’t touched. “I don’t know.”
+
+“Right? It’s a lot of work and a huge commitment. You can’t just back out of it. You’re in it to win it. Once you’re in office, you’re in office. If it turns out you don’t like all the responsibility and paperwork and so on, you can’t just say ‘oh never mind, I don’t want to be king after all,’ or else you’re going to end up like all the brothers you bump off, and about nine inches shorter.”
+
+Ryota frowned. “Nine inches?”
+
+Rhys ran his hand across his throat. “Sans head. The big one, up here. Get your mind out of the High Priestess.”
+
+“I wasn’t… Nine inches?”
+
+“I spent some time with a water sprite. They get experimental, you know?”
+
+Ryota squinted at him, more confused than before he’d explained. And then he crossed his arms and sat up straight. “Are you sure we’re talking about becoming king?”
+
+“What else would we be talking about?”
+
+“Well, when it comes to responsibility, weren’t you talking about running—”
+
+“Man, you don’t let things go, do you? Hey, listen. A good king needs to know when to let things slide, okay? First lesson from a professional king-killer.”
+
+“You’re a king-killer?”
+
+“Nah. I only killed an Empress. And I didn’t get paid for it either, so the professional part’s a total lie.”
+
+“You… what?”
+
+“Joking, I’m joking.” Rhys grinned again.
+
+Ryota squinted at him. “You keep joking like that, and people are going to start taking you seriously.”
+
+“Naaaah. Couldn’t happen.”
+
+Ryota sighed. He toyed with his full glass of beer. This whole time, he still hadn’t taken a sip, even though Rhys’s glass was almost empty. “I just don’t know what I should do. I don’t really want the kingdom, but no matter what I do, my brothers are going to come for my head. If I defend myself, they take it as proof that I’m participating in the succession battle. If I don’t, then…”
+
+“Then you die.”
+
+He nodded.
+
+Rhys spread his hands. “I know you’re feeling trapped, but there’s an obvious way out of this situation. Don’t tell me you haven’t realized it.”
+
+“An obvious way out? If there was, I would’ve taken it already!” Ryota grumbled, frustrated.
+
+“No, there is. Just get strong enough to kill all your brothers. Kill the ones who won’t see reason and pressure the rest with your overwhelming power. That way, whether you want to be king or not—”
+
+“I’ll be forced to take the throne?”
+
+Rhys harrumphed. “Too small-minded! Who’s going to force you to do anything when you’re the strongest? The law of the jungle works both ways! No matter what, no one can make you do anything you don’t want to once you’re the strongest one around.”
+
+Ryota shook his head. “You don’t understand. That’s not how things work.”
+
+“You’re the one who doesn’t understand. If that’s not how things work, then watch me. Who’s going to stop me after I beat up your brother’s cronies? Even if he sends more goons, I’ll just beat them up, and if he sends even more… I’ll beat ‘em up. That’s just how it works. If I have to beat up all his goons, so be it. We’ll call it good practice.”
+
+Ryota clapped. “Wow! What an impressive soul! So dedicated to the cause!”
+
+Rhys squinted. “Hold up. Why are you suddenly praising me?”
+
+A hand landed on his shoulder, yanking him backward off his stool. Ryota pumped his fist, cheering Rhys on. “I’m counting on you again this time, Elder Brother!”
+
+Rhys looked up. Four very large, very muscular men loomed over him, already suppressing him from their aura alone. He pursed his lips bitterly. I got played, huh.

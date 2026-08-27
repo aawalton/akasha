@@ -1,0 +1,117 @@
+---
+id: 3e99b8aa-570c-5192-a926-6b9f8d3c1dd4
+page-type-slug: story-chapter-royal-road
+title: "003: The Challenger Awaits"
+slug: 0003-003-the-challenger-awaits
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 3
+ownLength: 2075
+unit: words
+publishedAt: 2024-03-22
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1563825/003-the-challenger-awaits"
+royalRoadId: "1563825"
+---
+
+In a completely fresh state, Evelyn would likely have been able to force through the burning pain that coursed through her body, but combined with the accumulated fatigue and damage of two consecutive floors of battling frenzied rats, she succumbed and fell to the ground unconscious.
+
+Ultimately, being forced into rest was likely to be beneficial for her, given that whatever challenges lay ahead would require her full strength to face. Any small mistake could quickly multiply into a fatal chain of injuries that would bring about an early demise in this treacherous tower. Evelyn remained asleep for around three hours, most of her wounds recovering to a manageable level and some of her energy being restored.
+
+Crap! How long was I unconscious for? What if the portal to the 3rd Floor closed while I was dozing off. Thank god, looks like it’s still there. It’s good that I learnt they remain open early on, though perhaps it’s a case of the timer being a little longer than the time I was out for. It’s impossible to count the hours in these strange underground rooms.
+
+Before she made her way into the next floor, Evelyn wanted to check what the effect of the grey star was. She presumed that intense pain that had driven her to unconsciousness was caused by it integrating with her in some way.
+
+“Status,” she said, wondering if there would be a change due to her most recently purchased reward.
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+|Attributes|
+
+Power: 0
+
+Speed: 1
+
+Stamina: 0
+
+Vitality: 0
+
+Mana: 0
+
+Fortitude: 0
+
+Unfortunately, apart from her speed attribute which now displayed the investment of the point she purchased after clearing the 1st Floor, there had been no changes. She glanced over to the other screen, the ever present instruction and essence counter, letting out a grin when she noticed that it had changed for the first time since she’d been dragged into this hellish fever dream.
+
+Essence: 2 『+1 / 6 hours』
+
+~~ Stars ~~
+
+Grey: 1
+
+【KILL】
+
+Evelyn’s choice to purchase the expensive grey star despite not knowing its function had turned out to be an extremely insightful one. Perhaps it was a stroke of luck, but it had paid off. Now she could earn essence not just by defeating the creatures present on each floor, but simply by biding her time and waiting for the grey star to passively provide her with the essential resource.
+
+In addition to the updated screen, there was now a tattoo on the back of her right hand in the shape of a triangle, perfect geometric lines written in grey ink. Would every single star she purchased become a mark on her body? If she kept purchasing stars then one day Evelyn might end up looking like one of the models in Inked magazine.
+
+At the moment all I can buy with my essence is the offered rewards each time I clear a floor of the tower. I’m sure in the future there will be more and increasingly beneficial ways to invest it. After all, that robotic voice said we would be inducted into a ‘Local Tower’, which means there is likely to be some kind of greater tower beyond this. All I can do for now is keep moving forward, one step at a time.
+
+With the newfound function of the grey star, Evelyn was presented with a dilemma. She felt pretty well rested after her impromptu nap and ready to face whatever the 3rd Floor had to throw at her, however it was definitely worth experimenting to see how long the portals would remain open for. It was entirely possible that they had no time limit and if that was the case she could simply wait around and farm essence before moving onwards.
+
+Then again, none of the rewards had been beyond her ability to purchase so far, each floor seeming to provide just enough essence to allow her the option to go for whichever of the rewards she had her heart set on. Besides, six hours to gain just 1 essence was a bit ridiculous when she could clear the floors of the tower in around half an hour and reap a far greater amount.
+
+Making up her mind to leave the portal experiments for a little longer, Evelyn stepped through, leaving the 2nd Floor behind. At the very least, she knew that they stayed open for a few hours, which was roughly how long she believed she’d been asleep for. Though for all she knew it could’ve been days. That was actually an added bonus of the grey star’s passive income effect; she could now count the time in chunks of six hours - a quarter day.
+
+Rather than another dingy cavern filled with monstrous rats that wanted to tear her to pieces, she was greeted by the blistering heat of the desert sun. Despite already feeling her skin starting to burn, Evelyn was grateful for the change in scenery, especially if it meant she didn’t have to deal with more damned rats.
+
+Beneath her feet was a wide field of sand, stained a dark reddish brown in places with a few bones littered about that looked suspiciously human. Surrounding her on all sides was a towering colosseum, rows of stone benches that could house hundreds of spectators filling the sandstone structure.
+
+The entire building was devoid of life except for Evelyn herself, this time there was not even a single creature to welcome her with fury and vengeance. Instead, it was the tower itself that offered welcome in the form of a different type of screen than the ones she’d seen so far. It looked like she would have some time to kill after all.
+
+❰ Multi-Challenger Instance ❱
+
+1/2 Challengers have arrived on the 3rd Floor
+
+Floor instance will not trigger until challenger requirements have been met
+
+It seems I am not destined to climb alone anymore. Will the other challenger be someone I know. If it was Lily or Marvin that would be amazing, just for the simple fact I’d know they were still alive and doing okay. I wonder if they managed to defeat the first two floors as well? Lily probably has the guts to do it, but Marvin was always a bit of a scaredy cat.
+
+With little else to do, Evelyn decided to search around the colosseum to see if there was anywhere with a bit of shade. She’d been happy to see the sun at first, despite the sweltering heat and she was still relieved to be out of the caverns, but if she was going to be waiting a while then it would rapidly start to be more than just a nuisance.
+
+In addition, the heat had really reminded her of the fact she’d not had a bite to eat or a drop to drink since arriving in the tower and her throat had begun to scratch as the initial throes of dehydration set in. She could go without food for a day or two if it became necessary, but finding a source of clean drinking water was a must, though she had no idea where to even begin with such a task.
+
+Eventually she figured out that climbing to the very top of the audience stands would provide a little shade from the sun, allowing her to cool off and stop dripping sweat with every step.
+
+It’s a good thing I’m wearing a summer dress. Imagine if it had put me into a tundra climate instead, I’d probably freeze to death before I could even attempt to clear the floor. This other challenger is really taking their time, I didn’t think I was that quick at dealing with the first two floors compared to how I’d expect others to perform. Maybe my fear helped to propel me through what would otherwise have been a far more daunting task. I had to face that self doubt and hesitation much earlier than other people would have.
+
+The local tower must be absolutely colossal if it truly housed every single member of the human race. Eight billion people were all facing the same trials as her. Well, she assumed they would be the same, if not similar. There was no way that all of them would survive past even the first floor. The poor elderly and vulnerable children spring to mind, I hope my parents are coping, though knowing them some rats won’t be an issue.
+
+The six hour mark passed, though it was unclear when the grey star’s effect had begun. Was it when she first fell unconscious or had the timer started to tick once she awoke? Regardless, the next period would truly let her calibrate her sense of time. She glanced at her essence, which now sat at 3 points, when a prompt informed her that the other challenger had arrived.
+
+❰ Multi-Challenger Instance ❱
+
+All Challengers have arrived on the 3rd Floor, instance will now trigger
+
+❰ Instance - Duel ❱
+
+Defeat the other Challenger in order to clear the 3rd Floor
+
+I bleeding knew it. This damned tower wouldn’t have made it something beneficial like a cooperative battle against monsters. Nope, I have to fight another human. At least it only says ‘defeat’, so perhaps if one of us can force the other to surrender it will consider the floor cleared? I don’t like the ambiguity one bit. On the plus side, I have the advantage given that they will spawn in the centre of the field and shouldn’t be able to spot me straight away.
+
+Evelyn still held out a faint hope that she wouldn’t be forced into killing a fellow human just to ensure her own survival. It was a rather childish and naive hope given how unforgiving the tower had been thus far, but she’d always been an optimist.
+
+Rising from the cool stone bench, she stayed low and looked to the middle of the sandy field, where a nervous looking man had just walked out of a portal identical to the one she’d come through, fiddling with the round spectacles on his face and reading what was probably an identical message to the one she’d received.
+
+While hiding from the sun, Evelyn hadn’t been idle. In order to prepare for the future she’d scouted around and amassed a decent collection of rocks to use as weapons. They’d become more specialised than before, with some dense and smooth ones that would make great projectiles, some pointed and sharp for stabbing and of course her trusty jagged classic that had sent dozens of filthy rats to their doom.
+
+When she reached the edge of the stands, she ducked low to ensure that the sun wouldn’t reflect off her hair and give away her position. The man was still fidgeting, now tousling his curly brown hair with his right hand while the left was firmly glued to his belt, where what looked like a metal handle was protruding.
+
+It seems he opted to take the rusty dagger as one of his rewards for clearing the first two floors. That’s good - it means it’s impossible for him to have more attribute points than me and there’s even a possibility he has none. It’s hard to see his hands from here, I can’t tell if he has a similar tattoo to mine, so I just have to operate believing he’s invested into at least one attribute.
+
+With a rudimentary profile of her opponent’s capabilities established, Evelyn was ready to begin the battle. It might be too risky to simply charge in, even if she could catch him off guard. It was possible that this nervous act was just that - an act. Hopping over the edge of the stands she landed on the balls of her feet, the sound muffled by the soft sand.
+
+Hefting two medium sized stones in her hand, each heavy enough to leave a stinging bruise, she judged the distance between the two of them and wound her arm back as far as it would go. There would be no turning back once she unleashed the opening strike.
+
+With a crack her arm whipped forwards and the two rocks tore through the air towards the unsuspecting man and she immediately began to dash towards him, the sound of her heavier footfalls alerting him, and he turned to see the incoming projectiles, eyes opening wide in shock.

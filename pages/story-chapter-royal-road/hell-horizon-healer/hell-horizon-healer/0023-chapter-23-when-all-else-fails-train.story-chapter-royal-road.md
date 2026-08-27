@@ -1,0 +1,231 @@
+---
+id: e0673377-271f-528b-953a-17d0eb29ea5b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23 - When All Else Fails, Train"
+slug: 0023-chapter-23-when-all-else-fails-train
+partOf: hell-horizon-healer
+position: 23
+ownLength: 1770
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3585617/chapter-23-when-all-else-fails-train"
+royalRoadId: "3585617"
+---
+
+“What are you doing—”
+
+Jake lifted his leg and stomped on her other leg, causing her shriek to pierce through the halls. Some of the doors lining the corridor swung open, most remained shut—fearful of monsters having broken in.
+
+Sloane was first on the scene, her jaw swung open. “Jake, what the hell?!”
+
+Saying nothing, Jake grabbed Chloe by the scruff of her neck. When he detected more mana swelling in his surroundings, he smashed his fist against her jaw. “Use mana against me again and I’ll break more than just your legs.”
+
+The static mana fell, reverting back to its dusty state. Chloe continued screaming as he dragged her to the main hallway. A large crowd had formed, watching Jake in horror as he dropped Chloe to the floor.
+
+Arthur pushed through. “Jake—” his eyes widened upon seeing the state Chloe was in, broken and bloody. “What are you doing!”
+
+"Ask her," Jake said.
+
+Arthur looked between them. "Chloe, what happened?"
+
+"He just attacked me." Her voice broke in exactly the right place. "Out of nowhere, Arthur. I was just—I was trying to help someone and he came out of nowhere and—"
+
+"She was telling someone to smash the window," Jake said.
+
+"What?" Arthur frowned. "Why would—"
+
+"Because it would summon the Janitor." Jake looked at Arthur, the meaning was clear. "She was pointing the man toward it."
+
+"That's insane," someone said from the crowd.
+
+"I would never—" Chloe sucked in a breath, genuine-looking tears tracking down her face. "Why would I do that? I've bled for this floor. I've fought alongside all of you—"
+
+"Someone go check on him," Edwin said quietly. "The man she was with."
+
+“Edwin,” Chloe sobbed. “Surely you can’t believe him? This is… is crazy!”
+
+Edwin didn’t say a word.
+
+A woman broke from the crowd and headed down the corridor.
+
+People murmured between themselves, glancing at Jake as if he was a monster. Chloe kept crying. Three neighbours were already crouched beside her, one holding her hand. Jake watched Arthur's jaw working, trying to figure out which way to land.
+
+The woman came back. "He's against the wall at the end of the hall. He won't talk to me. He's shaking really badly."
+
+"Because she spent twenty minutes telling him there was nothing left to live for," Jake said.
+
+"You can't know that," Arthur said, his voice hardening. "You can't just—Jake, shit, you broke her legs. Both of them. Whatever you thought she was doing, you can't—"
+
+"The water pipe," Sloane said, stepping forward. The corridor shifted slightly, people turning. "Someone smashed it deliberately. Jake told me he thinks it was Chloe." She looked around the crowd. "And on the floor above, during the fight, something snapped Glenn's bowstring right before the goblin ambush. Jake said he saw a mana trail. And the fight in the flooded corridor—Arthur, your knee. She nudged you. Jake saw it."
+
+Murmuring spread through the crowd.
+
+"That's a lot of maybes," a man near the back said.
+
+"It's not maybes," Sloane said. "It's a pattern."
+
+"Or it's two people deciding they don't like someone," another voice said, "and dressing it up as evidence."
+
+More murmuring. Louder now.
+
+Chloe looked up at the crowd from the floor, face wet, and said nothing. She didn't have to. She just let them look at her—broken, bleeding, small—and let the room do the work.
+
+"She's been helping people," a woman said. "Since day one. She came on the food runs when she didn't have to. She sat with Susan when nobody else would."
+
+"Jake," Arthur said, and his voice had shifted into something official, something decided. "We need to talk about what you've done here. As a floor, we need to—"
+
+They still think the monsters are the only thing to worry about? Even now?
+
+Jake saw as the other neighbours refused to believe him. Or maybe they did, and were just ignoring it?
+
+Did having a pretty face absolve her of her sins? Whatever they had in mind, Jake had no part in it. He'd promised he'd break her legs if she acted out again, and so he did. if she did it again...
+
+He turned and walked toward his room.
+
+"You can't just walk away from this," Arthur said. "We need to deal with this properly. You don't get to—"
+
+"Try and stop me."
+
+Arthur opened his mouth. Closed it. His hand moved toward Jake's arm and stopped an inch short.
+
+Edwin said nothing from the back of the crowd. Just watched.
+
+Jake kept walking.
+
+Nobody followed.
+
+He closed the door behind him and stood in the dark, listening to the corridor. The murmuring went on for a long time. Chloe's voice rose and fell in it, controlled and gentle, and gradually the other voices softened around hers.
+
+Sloane was on his side, but the sentiment amongst the others was that it wasn't enough to make Chloe a criminal.
+
+He heard his own name several times.
+
+None of it was good.
+
+***
+
+Jake sat on the floor, cracked his knuckles, and started doing push-ups.
+
+The murmuring from the corridor had died down an hour ago. Whatever they'd decided, they'd decided it without him. That was fine. He had things to do.
+
+He pulled the first Elite Growth Stimulant from under the loose floor panel he'd pried up near the bed. Small, dense, a deep amber colour that caught the light like compressed honey. He rolled it between his fingers once, then swallowed it dry.
+
+It hit his bloodstream like a fist.
+
+Every muscle in his body lit up at once, a deep, cellular warmth spreading from his core outward. His arms felt different, more dense.
+
+He dropped to the floor and started once again with the stimulant rampaging through him this time.
+
+The first set burned out fast but he pushed through the wall the way he always did, healing through the degradation, resetting, pushing again. The stimulant was doing something he couldn't fully articulate—the gains were arriving faster, each threshold hit sooner than the last.
+
+Strength +1
+
+He didn't stop.
+
+Strength +2
+
+Sweat pooled beneath him. His arms shook, healed, stopped shaking, shook again.
+
+Strength +2
+
+He flipped onto his back, stared at the ceiling for thirty seconds, then got up and started lifting the bed frame.
+
+***
+
+An hour later, he started feeling the drop in effectiveness with Strength gain. He needed heavier items, but he had nothing within reach.
+
+So, he sat cross-legged in the middle of the room and tied his hoodie around his eyes.
+
+He'd been thinking about Perception since the chieftain fight. With his eyes open, his brain defaulted to vision—processed it first, weighted everything else second. But in the dark of the stairwell, in the flooded corridor, in the cave before the goblin ambush, it was never sight that saved him. It was the sound of a footstep through soil. The smell of something wrong in the air. The pressure shift of something large moving nearby.
+
+He'd been underusing it.
+
+He sat in the dark behind the hoodie and breathed, using Concentration to try and Focus on the rest of his senses.
+
+Soon, he began making out things he hadn’t heard before from further away. The pipes in the wall were carrying water—a thin, intermittent trickle from somewhere two floors up. He hadn't noticed that before. The person in the room next door was awake, sitting very still, breathing in the shallow way people did when they were trying not to cry. Three doors down, someone was eating, the soft scrape of a spoon against tin.
+
+Perception +1
+
+He started mapping the room without touching it. The draft under the door, the way sound bounced differently off the far wall where the plaster had cracked. He threw a coin without looking and tracked it entirely by the sound of it cutting air, noting where his prediction landed against where it actually hit.
+
+Off by two feet.
+
+He threw it again.
+
+Perception +1
+
+Off by one.
+
+He kept going until the gap closed.
+
+Perception +1
+
+It took four hours. When he pulled the hoodie off his eyes the room looked exactly the same but felt different, like a map he'd redrawn with better tools.
+
+Perception +1
+
+He put the hoodie back on.
+
+***
+
+He burned through his mana next.
+
+Cast and wait, cast and wait, using Minor Heal on muscle tears so minor he could barely feel them, pushing the container to empty over and over, filling it back up with Meditation, emptying it again. It was incredibly tedious and monotonous, but seeing the numbers go up and feeling the change… was perhaps the most satisfying thing he had ever experienced.
+
+He could do this all day, no matter how tired it made him, no matter the pain he suffered.
+
+Mana +2
+
+He kept going until his chest ached from the constant cycling, the raw static scratching at his throat like he'd been breathing smoke.
+
+Mana +2
+
+He stopped when his head started swimming. Lay flat on the floor and waited for it to pass.
+
+By the time he felt steady again, it was past three in the morning.
+
+Covered in sweat, Jake’s lungs worked overtime, stretched to their limit from hours of training. He stayed on the floor, regulating his breathing as he opened up his system.
+
+It was time to see what progress he had made.
+
+Name: Jake Maddox Level: 5 Class: (Unlockable at Level 15) Trait: Absolute Perception
+
+Skills:
+
+Minor Heal Lvl 2 (Mastery: 33.5%) Tension (Mastery: 13.7%) Pain Resistance (Mastery: 12.9%) Meditation Lvl 2 (Mastery: 25.7%)
+
+Stats:
+
+Strength: 23 (+9)
+
+Vitality: 16 (+9)
+
+Dexterity: 7
+
+Perception: 25
+
+Mana: 10 (+3)
+
+Gear:
+
+Gutter-Tooth (+5 Str, +5 Vit, +3 Mana)
+
+Pendant of Might (+4 Str, +4 Vit)Not bad.
+
+[Meditation Milestone Reached: 25% Mastery]
+
+[Skill Evolved: Meditation (Lvl 2)]
+
+Effect: Increases base mana regeneration when still by an extra 15%. Because of your unique Trait, you can now perceive and focus on clusters of ambient mana in the air, popping them to gain an immediate surge of mana.
+
+Confused at first, he blinked, unable to see what had changed. A minute later, and he saw it: a pure bubble of mana popped up in his vision, but before he could even inspect it, it was gone.
+
+Five minutes later, and the next one arrived. This time, he was ready. He focused on it, and in an instant, it popped. Condensed mana surged towards him, shooting straight into his core.
+
+He drew in a satisfied breath.
+
+Incredible. It restored my mana container by at least 25% in an instant.
+
+Jake smiled.
+
+Progression felt good.

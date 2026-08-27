@@ -1,0 +1,143 @@
+---
+id: bb493bb8-68b5-5d7d-a434-b64ac2ef1b9a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 861 - Esteemed spectators"
+slug: 0189-chapter-861-esteemed-spectators
+partOf: hell-difficulty-tutorial
+position: 189
+ownLength: 2306
+unit: words
+publishedAt: 2026-08-16
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3822897/chapter-861-esteemed-spectators"
+royalRoadId: "3822897"
+---
+
+“Is that fragment really that rare?” I ask the vyssari guy. I already feel his name slipping from my memory, so that’s what I’ll be calling him.
+
+The vyssari guy continues to stand on the chair, looking at where the screen was while chewing on an aromatic wooden stick that sticks out from his mouth like a cigarette.
+
+“I’ll ask for more information about it and send it to you, but I think there are only between three and four dozen of that Fragment that we know of, no more have been appearing on freshly awakened planets,” he says.
+
+“Why?”
+
+“What do you mean why?” He turns to me and bites into the stick. I can almost imagine him as an aged, too-tired-for-this-shit cowboy.
+
+“What do you mean why, why?” I mimic him. “I obviously mean why there are thousands, tens of thousands of other fragments, while Starless Sky only has a few dozen.”
+
+“I don’t know,” the vyssari shrugs.
+
+And for a moment, I think he pisses me off more than Melek ever did.
+
+I get the assholes. I can understand someone messing with me, being gleeful, and wanting to make me hurt. In a way, I even think it’s a pretty good strategy, one I would probably use if I hated someone enough or was a scared little shit and needed such tactics.
+
+But the vyssari guy, showing not an ounce of curiosity, physically insults me. He’s the sort of person I will never understand.
+
+“What Nathaniel wanted to ask was what could be the cause of certain gods being shattered into so few fragments. Is it because they were powerful or because they were weak? Or maybe the way they were shattered had an influence?” Victoria asks in my stead, catching my mood.
+
+And the vyssari guy spits out the stick onto the ground and slowly puts another one in his mouth, which he begins to chew. “I understand what he meant. But as I said, I don’t know.”
+
+“It is not useful, but thank you for being honest instead of-”
+
+“No, Vic,” I interrupt her, “being honest is fine, but this psychopath didn’t even have an opinion on any of that. Not once in his life has he devoted any of his mental capacity to give it a thought or be curious about it.” I turn to my right. “Selene, we want a new vyssari advisor guy. This person is terrible.”
+
+“Maybe after the second event, sweetie?” Selene smiles kindly. “And now, what color for your shirt do you prefer? Bright pink or pale yellow?”
+
+“If you try to dress me in those colors, I will burn the clothes you put me in and walk into the event naked.”
+
+One of the other two selari women chuckles and quickly covers her mouth as Selene turns to her.
+
+Turning back to me, Selene says, “That’s an interesting strategy to get the audience on your side, but don’t you think-”
+
+She shuts up as someone knocks on the door. Three quick knocks, followed by one slow, and two additional quick.
+
+Taking it as some sort of signal, Selene rushes over and exits the room, where I can hear a barrage of quiet whispers as they exchange a conversation.
+
+When she comes back to the room, she sighs, “The Ruler of Greed’s vessels, Ignis and Yvaine, have joined the Game as spectators. The Ruler of Diligence’s vessel, Bant, is joining the already present Oant. And the Ruler of Patience is rumored to be coming as well.”
+
+Selene’s eyes are unfocused as she has a difficult time comprehending it all, and she just stares blankly at a random space in the air in front of her.
+
+“And don’t forget that Lord Wrath might come too!” someone calls from behind the closed doors, causing everyone to turn there in surprise. “Can I come in?” the voice asks with a tone that sounds like they’re having fun.
+
+“Low pristine item as an entrance fee,” I call out before anyone else can answer, and I hear a laugh from behind the door.
+
+“I offer information instead. Master told me you might appreciate it!”
+
+Picking up on the hint, I look at Victoria, who just gestures that it is my decision, so I call, “Come in then.”
+
+The door opens, and a feylith woman walks in, smiling brightly. She’s wearing a set of black, suit-like clothes, not dissimilar to the ones Ruby once wore on the 2nd floor. Both her hair and eyes are a gentle yellow, and there are holes in the back of her clothes to allow her small wings to pass through.
+
+“I’m Yvaine!” she says, her hair and eye color not changing at all. I even notice that her left eye is exactly the same as Ruby’s. And she seems to notice me noticing. “This is a mark from my master and my connection to her as her vessel,” she smiles as she explains.
+
+I shrug, looking at Selene, who is in the corner, sitting on the couch with the two other selari women by her side, while the vyssari guy has stepped down from his chair and is also standing nearby. When Yvaine looks at him, he bows quickly, with his chewing stick nowhere to be seen.
+
+“Are there any problems with the Game?” I ask.
+
+And the feylith ignores her, instead coming closer to me, tilting her head to look at me with the eye Ruby marked. She is smiling brightly, moving that eye up and down my body while smiling.
+
+“I have to say that I’m not sure what she sees in you,” Yvaine says, and I notice the field she put around us and Victoria, cutting everyone else off so they can’t hear. “I mean, it’s not like you aren’t interesting, but I’ve met my fair share of suicidal talents who grew strong fairly quickly, and barely lived long enough to become a threat to the truly powerful. Even if you two are a little bit similar, I find attendee Nyssa Volare to have more potential.”
+
+“I’m happy for you,” I answer.
+
+She laughs happily and pokes my cheek. “Maybe she likes your personality. I myself quite like how well you endure my presence. Tell me, is it not scaring you? I’m releasing quite a bit of it in your direction.”
+
+“It is impressive, possibly good enough to scare children or Easy Difficulty attendees.”
+
+“Is it now?” she asks, and her presence rises up even further, not affecting the area but creating that suffocating feeling very close to me.
+
+But even with all that I’m dealing with, how can it compare to hers?
+
+“You’re an Absolute?” I ask.
+
+“An Absolute with the highest compatibility with Master Ruby out of all her vessels. Through my body, she can channel more of her power than anyone else!”
+
+“So not the strongest, but the best leech, which makes you, in the case that Ruby shares her powers with you, the strongest of her vessels?”
+
+She nods. “I like how you simplified it, but you will never be popular with girls if you expose everything they’re hinting at. And you,” Yvaine turns to my sister, “I was told you are in charge at the moment, and the more reasonable of the two. Master doesn’t know too much about this situation, but something is about to go down here, so Ignis and I are here to keep an eye out just in case.”
+
+“I expect this isn’t just to keep an eye on my brother and I, but something much more serious. You mentioned Lord Wrath might be coming. Did you mean the Ruler of Wrath?”
+
+"There is no one else in this universe I would ever call Lord Wrath other than that velnar. If he actually shows up here, you know, everything is beyond saving. You only deploy him when you've already accepted total destruction. I mean, Master Ruby can get angry, sure, but Lord Wrath? Once he's riled up, he doesn't stop fighting until there is nothing left to destroy."
+
+"So when do they send the Ruler of Wrath in?" I ask curiously.
+
+Yvaine thinks for a bit. "I think the last three times he went out were when there was a situation connected to one of the Last Elf’s Prime Replicas, one of the remaining gods, and another Lycan that challenged him. Oh, maybe that one fight against the Hornless Demon, but that was a while ago."
+
+"Not when the Ruler of Pride messes something up?"
+
+Ruby’s vessel bursts into laughter. "When Pride moves, there is nothing you can do but wait and pray you survive the consequences."
+
+As she speaks, I notice an interesting fact. Just like everyone else I’ve spoken with, she calls him Pride. Not the Ruler of Pride, Lord Pride, or anything. Just Pride.
+
+“Back to what I mentioned previously. I assume the situation must be serious since they dared to use the imitation of Lissandra Hawthorne as a diversion. There’s probably not much you two can do once it gets to that scale, so just do your best to survive. Moreover, I shouldn’t even be here, but I got curious! So see you later, Victoria, Nathaniel!”
+
+Standing up with a smile, Yvaine begins to walk away, not even bothering to open the door, but passing through it as if it wasn’t even there.
+
+The second game is about to start, almost a day later, once all of the preparations are finally done. The mainly occurs because of the interviews and other responsibilities toward the show organizers, things like making posters and signing further contracts giving us a split from merchandise sales and similar stuff.
+
+I almost want to let Vic deal with it, but she simply doesn't care. As much as I love my sister, she is almost completely missing an inner loot goblin. Overall, she finds it difficult to care about certain things.
+
+Sure, she logically knows there is an advantage to getting a better deal and acquiring more resources, but at the same time, she considers it a minor detail. Hell, maybe she just thinks of it as a distraction.
+
+As for me, I don't want to deal with it either, so I reject all of the deals for now, deciding to wait longer. It's the sort of game where you wait and see which side blinks first, or which side twists the wheel to keep the cars from crashing into each other.
+
+For now, both me and Vic are wearing similar clothes we got from Selene, though mine consist of a pale gray shirt and black pants, while she wears gray pants and a black shirt. The design is tailored in such a way that it pulls more attention toward my pale left arm and shows off my scars a bit more. I think they also avoided ironing mine on purpose, meanwhile, Victoria's clothes have been left in a perfect state.
+
+On the screen, Melek once again blabbers his usual stuff, walking through a number of luxurious tribunes that open up to a view of a huge area with many screens. Plenty of rich-looking people sit there in comfy chairs that I bet are worth more than some epic items. Maybe even a few arcane items, too? Who knows.
+
+"And here we have our new, esteemed spectators! The vessels to the legendary Ruler of Greed herself! Yes, that Ruler of Greed! The one who battled an ancient dragon to a complete standstill! She, who faced one of the mightiest remaining gods, the Timeless Void, and walked away victorious! Just having her vessels present is a massive honor, and who knows, she might even be watching through their very eyes! A warm welcome to Mister Ignis and Miss Yvaine, who’ve requested to be introduced simply as her disciples and vessels!"
+
+The camera pans out toward the two figures, the female feylith and a mora man towering over her. He is tall and slim, with red skin and gray tattoos. Ignis also gives a smile, though his feels much less friendly than Yvaine's.
+
+"I would also like to introduce Mister Bant, vessel of the great Ruler of Diligence! The master of Domus and its universe-famous World Smithy! Mister Bant will be joining Mister Oant to spectate the game!" Once again, the camera spins and zooms in on two of Diligence's vessels, a human woman and a thylarin man who wave at the screen.
+
+As if stealing the camera for himself, the view gets entirely filled with Melek's brightly smiling face before he pulls back, chuckling. "And as we have many times before, a thank you to the Ruler of Envy for already spectating. We are glad to have you here, our esteemed Lord!"
+
+Envy appears on the camera, sitting higher than the others, with a few servants nearby. That asshole of a lumoran waves lazily and smiles, letting a servant put some sort of fruit into his mouth before he bites into it.
+
+Melek cuts in quickly the moment the view returns to him. "There might be another distinguished guest joining us later, but I'd hate to spread false rumors, so I will share the news only once they’ve arrived! But! I worry I may have taken up too much of your time already. Once again, a massive thank you to all our new spectators. I'm absolutely certain I haven't forgotten anyone important!"
+
+For the briefest moment, the camera sweeps across the audience, passing over Adrian sitting there in a VIP lounge not that far off from the others Melek just introduced, but that's it. It passes right by, and Melek doesn't even bother to mention him.
+
+The selari face of the Game is smiling in a way that tells me this omission is obviously on purpose.
+
+"Now then, it is time for the second game: Glass House!"

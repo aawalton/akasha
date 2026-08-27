@@ -1,0 +1,111 @@
+---
+id: a9e337df-b947-5dc8-a92f-ad1f0ea95960
+page-type-slug: story-chapter-royal-road
+title: "235. To The Tavern"
+slug: 0235-235-to-the-tavern
+partOf: god-of-trash
+position: 235
+ownLength: 2176
+unit: words
+publishedAt: 2025-11-14
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2761538/235-to-the-tavern"
+royalRoadId: "2761538"
+---
+
+Contrary to Mirai’s wandering path, Grave led him swiftly and confidently to a tavern. It wasn’t the kind of tavern Rhys was used to, with a rowdy and down-at-the-heel atmosphere, but instead a refined establishment, with perfectly arranged décor. A man stood at the door, dressed in a neat suit and carrying a cloth over one arm. As they approached, he gestured, clearly offering to show them in, but Grave lifted his hand, politely and silently requesting to show Rhys and Mirai in instead. The man inclined his head, and the three of them glided past into the nicest tavern… no, restaurant Rhys had ever set foot inside.
+
+There were neat tables with white tablecloths, each set with fine china and a white candle cupped in a glass globe that somehow never dropped a single glob of wax onto the globe. There was no quaffing of tankards; instead, refined men and women swished amber liquid around in delicate stemmed glasses, taking in the scent of their liquor of choice before sipping it delicately. Behind the bar, a bartender neatly polished a glass, her back straight as a ramrod, not a single hair escaping her perfect bun.
+
+All that to say that it was a very Grave-like setting. Aside from his small size, he fit in perfectly. Mirai in her bright pink deco outfit, and Rhys in his patchwork fur coat, didn’t fit in nearly as well. The people in the shop were too well behaved to stare, but the atmosphere exuded from them anyways: you don’t belong here.
+
+Rhys straightened his stance, putting it behind him. Who cared? He was trash, of course he didn’t belong; but it was the exclusive right of trash people to barge into places they didn’t belong with full confidence, as though those places belonged specifically to them. Honestly, these people should be grateful that he hadn’t thrown open the door and immediately started shouting for a drink.
+
+Indeed, my path of trash is still weak when it comes to social situations. I still restrain myself and hold back, rather than immediately assuming the social situation is purely built for me! Ah… I feel like this is an emotion that one must be born into, rather than cultivating, but perhaps I can channel the energy of the clueless trash in a situation they don’t know how to navigate in the future? Then again, maybe I shouldn’t. In this world, I feel like being that clueless might get me killed.
+
+Grave approached a man sitting at the bar, then paused and gestured for Rhys and Mirai to wait a moment. He hopped up onto the seat of the chair next to the man and greeted him, and the two exchanged a few quiet words. At last, the man looked over his shoulder at Mirai and Rhys and gestured them over, while Grave retreated.
+
+“You’re looking for me?” he asked.
+
+“His name is Xelo Shany. He was once a retainer of Lord Ravin,” Grave murmured in Rhys’s ear.
+
+Rhys nodded, indicating he’d heard. He turned to Xelo, a bad feeling already sinking into his stomach. An ex-retainer? Lord Ravin, do any of these people like you? “Good afternoon. I understand you were once in the employ of Lord Ravin?”
+
+“I was.” The man sat back, crossing his arms, and gazed at his glass of liquor with an expression sourer than a lemon.
+
+This is… not a great start. “Lord Ravin is… in need of assistance. Would you—”
+
+“Tell him he deserves more than just exile, and that his father was right to hate him.” The man paused, thinking for a moment. “And tell him that just because he has a big dick, doesn’t mean he can use it well. Piece of shit.”
+
+Oh. Madame Edel had mentioned something about Lord Ravin two-timing her, but… Rhys resisted the urge to face-palm, but it was a close thing. Why the hell would Lord Ravin send him to fetch the two people he’d been two-timing on? What kind of stupid-ass idiot… He sighed aloud. I guess it’s all on that person I couldn’t guess the gender of. Maybe Lord Ravin also couldn’t guess their gender, and as a consequence, hadn’t fucked them, too. Though given his omnivorous tastes between Madame Edel and Xelo, Rhys wasn’t at all sure that such a small detail would stop the man.
+
+Wait, don’t tell me. Is the chain fetch quest also a relationship grinding mission? Like he was playing a dating sim, but for someone else, did he have to improve Madame Edel or Xelo’s impression of Lord Ravin until one of them agreed to go see him again? He grimaced. Dear lord, anything but that. Getting CPUs to love him was one thing, being a wingman was one thing, but wingmanning for a man on the other side of the world to improve his relationship with the two people he’d cheated on was… well, now that he was thinking of it, he was a little shocked there weren’t romance novels about it.
+
+Eh, there probably are. And if my trashy romance senses are right, they probably end with the wingman getting one, both, or all three of the participants. Madame Edel was alright, but he wasn’t really interested in anyone in this love triangle, and especially not Lord Ravin, so hopefully that wasn’t going to happen to him.
+
+No, I think I put all my hopes on Lord Ravin not porking the third person, and if he dicked them, too, then I cry and go home. Whatever information he has, it isn’t worth convincing one of these people to come see him… well, unless I can get one to agree to smile for a minute while I get my information, then back off and let them loose to murder Lord Ravin. It wasn’t like he had any particular love for Lord Ravin. It was all the same to him if that invader lived or died. Still, he felt like that probably wasn’t the best starting place, but more of a desperation move, because if the jilted ex-lover failed, then Lord Ravin would be after his booty once he healed, and he’d have to move on to extreme longshots like trying to corrupt Lord Ravin with impurities. He hadn’t really tried to impurify anyone more than one stage over him, and he wasn’t sure how it would work out. Impurities were a problem for everyone, but his ability to attack, weaken, or insert things into higher-realm people… well, it was a big question. Step one was definitely finding that third party.
+
+Rhys backed away. “Thank you for your time. Sorry for disturbing you.”
+
+Xelo nodded and turned back to his drink. The three of them retreated from the tavern and back onto the streets.
+
+Grave turned to Rhys and bowed. “I do apologize about that. I believe he’d had more to drink than usual; he usually isn’t in such a foul mood.”
+
+“No, no. It’s my fault for bringing up an unpleasant memory,” Rhys replied. “Thank you both for helping me search, by the way.”
+
+He turned to go, but Mirai grabbed his sleeve. She hopped around in front of him and beamed up at him. “Why don’t we all look for that third guy? I don’t have anything better to do.”
+
+“Are you sure?” Rhys asked, looking at Grave, not Mirai.
+
+Grave nodded. “It would be a fine distraction from our usual routine.”
+
+“Hey! You don’t need to ask him for permission. I’m my own person,” Mirai insisted, putting her hands on her hips.
+
+“Right, right.” Rhys nodded and patted her head, and she sighed.
+
+He turned and addressed the group. “So, shall we do what all great horror movies do, and split up to search?”
+
+“I’m not sure what a ‘horror movie’ is, but that does sound most expedient,” Grave said.
+
+“I better not die first,” Mirai complained, pouting cutely.
+
+Rhys nodded. “Let’s reconvene at the café where we first met in a few hours. If you find a particularly good lead… try to leave a hint somehow, but don’t double back to the café if you’d lose the track.”
+
+Grave nodded. Mirai gave him a thumbs-up.
+
+“Go… team! Break!” Rhys said, and walked off.
+
+Behind him, Grave murmured, “Is that a…otherworld thing?”
+
+“Yeah, but I’m kinda surprised he knows it. I got the vibes he was a forever-inside kinda guy.”
+
+Rhys shook his head. How narrow-minded! Just because he was forever-inside in his adulthood, didn’t mean the same was true in his childhood! He had a mother who deeply believed in socializing him, and as a consequence, he’d played all kinds of little kiddie sports! It hadn’t worked, since he’d still ended up as a no-lifer locked up in his room away from the world, but it had been a good try, and as an adult, he had to respect the hustle. As a kid, he’d mostly run in circles or picked daisies in the outfield, since he wasn’t good enough to play seriously anyways. All the other kids had hated him, too, since he was so bad at sports, so it hadn’t worked for socializing either.
+
+I’m somehow turning my average suburban childhood into a sob story, so let’s stop and go looking for that third party. There wasn’t any point in remembering his pathetic childhood traumas; no one was going to be impressed by a pity party about his boring middle-class childhood. He wasn’t some cool guy with some horrifically impressive childhood like every superhuman and manga protagonist he’d ever read about, he was just some dude.
+
+The three of them parted. Rhys wandered the city for a bit, then started looping wider and wider, looking for the local trash heap as much as for the third person. He found the trash heap first, to his absolute shock and awe. Rhys settled in to absorb the trash and look for good tidbits, but before he could really get started, Daran appeared again.
+
+“Hey, man. What’s up? I thought you were ignoring me,” Rhys said.
+
+“That figure. Pull up the image again. I felt as though I recognized them.”
+
+“You can see the image?”
+
+Daran blinked at him. “Any mage can, as long as they’re in proximity of the orb and focusing their attention on it. Why?”
+
+“Nothing.” I jumped straight to ‘he must have read my mind,’ but Daran’s explanation is far more reasonable than that. Daran was confusingly immaterial; for the most part, he couldn’t interact with anything, but every now and again, he encountered something that he had absolutely no problem interacting with, even though to Rhys, it made no sense for him to interact with it. At least in this case, it kind of made sense, since interacting with the orb was a purely mental action. Daran didn’t have much, but he at least still had his mind… as far as Rhys could tell, anyways.
+
+As Daran had asked, he pulled up the image of the third person. Daran squinted for a moment, then nodded. “Use the cursed-energy sensing technique. You should be able to sense them.”
+
+“You recognize them?”
+
+Daran scoffed, but said nothing more. Rhys took that for a yes, and tried not to think too hard about the implications of Daran telling him to use the cursed energy technique on top of the man recognizing the figure… though he didn’t succeed. The implications were simply too obvious. Either the figure was the descendant of a Remnant Weapon, or a Remnant themselves.
+
+He licked his lips, a little nervous to be meeting a second Remnant Weapon. Until now, he knew Straw, who barely counted, and he was friends with Sable, a descendant, but he hadn’t yet met a real, honest-to-goodness, potentially hostile Remnant Weapon in an aggressive scenario.
+
+That is assuming the horseman at the bottom of the wells isn’t a Remnant Weapon… and he probably is, so that’s a foolish assumption, but I don’t have confirmation yet, so there’s nothing I can do about that. The simple answer was to try using cursed energy to find Impure Wells, and he really should do that, he just hadn’t had the time or need to do it yet.
+
+He stood and quickly finished sucking up the trash, then took a deep breath, settled his mind, and called forth his ability to sense cursed energy. He was expecting for it to take a minute, or to have to walk around to find anything, but instead, he immediately sensed cursed energy. It swirled all around him, dense and close, many trails all twisting together.
+
+Rhys raised his brows. One way or another, I should probably find out what’s at the end of these trails. Leaving the now-empty trash heap behind, he set off, following the trails toward whatever cursed thing laid at their end. Even if what awaited him wasn’t his current quarry, with this much cursed energy flying around, they could only be of interest to him.
+
+Should I be worried that cursed energy means I’ll obviously be interested in the thing?

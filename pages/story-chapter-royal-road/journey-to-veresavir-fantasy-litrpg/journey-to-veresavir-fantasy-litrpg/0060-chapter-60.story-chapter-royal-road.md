@@ -1,0 +1,285 @@
+---
+id: 822702a2-7dda-5e25-b2fb-2fde348c7cc4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 60"
+slug: 0060-chapter-60
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 60
+ownLength: 3743
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3813762/chapter-60"
+royalRoadId: "3813762"
+---
+
+Chapter 60
+
+“My Path just hit the next stage,” Veron said. He could already feel it, though a part of it might’ve been the adrenaline, and the joy of winning this fight, the relief of surviving through it. He felt, it was difficult to describe, stronger, that too, but the word substantial felt like a far better fit. As if he was more grounded, more settled.
+
+He breathed out with a long sigh, then focused back on the now. They were still in the dungeon. Deeper than they had ever been, and they had just fought and killed a necromancer. Not quite a silver tier enemy, but it was close enough.
+
+“The first Adequate in the team,” Isaac said and touched his shoulder, a proud smile on his face. “Congratulations.”
+
+Veron gave him a nod. He felt a few things. Happy mostly, but there was a bittersweet note to it.
+
+“We’ll celebrate when we’re back in the city,” Ailis said. “More importantly right now, it had a relic.”
+
+“Right,” Veron said and nodded. “We should extract first. Elke and Isaac.”
+
+The two nodded and went to the downed skeletons.
+
+“Those were different, weren’t they?” Veron asked. “Controlled by the necromancer. Will they have essence?” He breathed in when the candles seemed a little brighter, the walls visible to him with more detail, and the knowledge that there was more waiting deeper in the dungeon very present in his mind. And then the room returned to silence.
+
+“Your turn then,” he said to Ailis.
+
+She nodded and left, extracting the last skeleton.
+
+A relic. If it is one, then it should fetch a pretty good price. That is, if we can get it out of the dungeon without issues, and find a trustworthy buyer.
+
+The thought made Veron consider a lot of things. In terms of larger events and his situation with Envolon, there hadn’t been much he could do other than work on his magic, but with gold, things became a lot more interesting.
+
+“You took them all out,” Veron said as Isaac and Elke joined him on the dais again.
+
+“Something happened when you tackled the necromancer. They seemed less responsive afterwards,” Isaac said. He came closer and pointed to Veron’s chest. “It punched through your armor.”
+
+Veron checked and yes, there were a few holes and a lot more deep furrows. He would’ve gotten skewered if not for his armor. The rock on his right arm and shoulder was still warm from the flames, the surface slightly singed. “Yeah. I’ll have to make it thicker.”
+
+“Or you know, you could avoid tackling dangerous creatures to the floor?” Isaac said.
+
+“It would’ve been more dangerous otherwise,” Elke said. “He was right.” She gave him a nod.
+
+“Oh, I know,” Isaac said and paused, then looked at Veron. “I was just worried.”
+
+“I appreciate it,” Veron said. “Though I have to say, I’ve gotten pretty good results with tackling creatures to the ground.”
+
+“With your armor and your rock shooting ability, I can see why,” Isaac said. “But it’s still risky.”
+
+“It is.” How much of it was his knowledge of the time magic? And how much of it was him?
+
+Of course the knowledge affects me and the decisions that I make.
+
+It made sense, and it unnerved him still. A little bit, mostly, he felt that it was simply something to consider.
+
+Veron felt essence being extracted. Ailis joined them a moment later.
+
+She sighed. “So, where were we?”
+
+“The relic,” Veron said and crouched down in front of the small spear. It was about a meter long, the pole made of a silver metal, the tip a broad sword-blade with a golden sheen, specks and streaks of blood on it. It looked ornamental, mostly due to the short length, but having seen its magic, he knew it was far more dangerous.
+
+“Are we sure it’s a relic?” Elke asked.
+
+“No,” Ailis said. “What do you all know of necromancers? Everything I heard was that they almost always showed an Ancestry of Bone, and one of Necromancy. I suppose it’s possible that it also had the blood aspect of Tools, but it wouldn’t be common.”
+
+“So we take it up and find a Runic Path to tell us,” Isaac said. “It’s a nice piece either way, if it’s not a relic yet, it could potentially be used as a relic vessel.”
+
+“Can we not just use it and find out? We all have Relic Sockets, no?” Veron asked.
+
+“We could, but it would take time. Elke, is Sonny an Infuser?” Ailis asked.
+
+“No. He’s a Devotion Path. But I’m sure he knows people. Or we could pay someone, it’s not expensive to have something identified,” Elke said.
+
+Veron listened carefully. He had never actually handled a relic.
+
+“Let’s figure that out once we’re back then. Isaac, can you carry it?” Veron asked.
+
+“We should try to hide it too,” Ailis said. “We’ve not encountered any hostile parties so far, but this could create an incentive.”
+
+“On the first layer?” Isaac asked.
+
+“Especially on the first,” Ailis said.
+
+Isaac made a grimace, then nodded. “Let’s just wrap up the blade and put it in my pack. It will stick out but the handle doesn’t look all that special,” He packed it up as the others gathered the various weapons from the skeletons for inspection. Isaac decided to add an axe and a sword that seemed okay into his pack, to make the spear handle stand out a little less.
+
+“Did you check for anything hidden already?” Elke asked when they were done.
+
+“Not yet,” Isaac said and whispered, his eyes glowing for a moment before he looked up. “Hmm. There’s something here,” he said and walked to the back of the long hall. Two faded banners hung from the ceiling but the rest of the wall was stone bricks.
+
+The others joined and began their usual search for any loose bricks or hidden mechanisms.
+
+“I can’t find anything,” Ailis said some time later.
+
+“Yeah, this one doesn’t seem as easy,” Veron said. “Do you know where exactly the hidden thing is, Isaac?”
+
+“Not exactly, no, but it seemed broadly at the center of the wall, close to the floor.”
+
+“Ailis, maybe hit it with your hammer, see if something happens? Otherwise I’ve got a bit of Focus left to maybe move away a bit of rock,” Veron said.
+
+Ailis came over, prepared, and struck the wall. Again, then a third time. “This just hurts my arms,” she said, then checked. “I chipped away a bit of rock but we’ll be here all day if that’s the plan.”
+
+“Let me try then,” Veron said. He breathed in and touched the rock at the center of the wall. Already, he could tell that his Focus was more potent. It felt a little confusing, because his ability to gauge how much was left felt kind of all over the place.
+
+I should have more now, which would explain that reaction.
+
+It felt easy when he focused on the earth and stone around him. Isaac was right, there was something amiss some half a meter behind the wall. He could feel a ton of rock all over, but there was a section where it felt less present.
+
+Veron stopped and explained it to the others. He couldn’t tell how large the area was exactly, but it didn’t matter. Veron connected to the rock and started shaping it away, moving as quickly as he could, digging into and pulling away solid rock with his hands as if it was mud. Or as if he could turn it into mud.
+
+More than anything, he felt elated about the difference to before. He remembered when he had taken out chunks of rock from the boulder near Eyra. His Harmony was higher now, as was his Path, and it felt like he had access to a shovel now, instead of just using his hands. Veron was taken out of his thoughts when he hit something that wasn’t made of rock. He stopped shaping and tapped what looked and felt like metal. Then he made the hole bigger, digging out more stone until he had almost exhausted his Focus.
+
+“What do you see?” Isaac asked from behind him.
+
+“Seems like a chest,” Veron said. He could see more than half of it now. It was about as long as his forearm, and about as high as the length of his hand. He tried to grab it and pull it out but there wasn’t enough space yet. So he shaped a little more to try and pull one side of it out. He just about managed it when he could feel the strain of Focus exhaustion. He grabbed the chest and pulled, scraping metal against rock for a moment as he strained to get it out. With a scraping sound, it came free. “Yes!”
+
+Veron emerged from the small hole he had dug out with his magic and showed the loot to the others. A fancy looking lockbox made of some coppery and greenish metal. It was quite heavy too, which made Veron grab his mace to compare.
+
+Ailis’ magic is gone, right? Which means this is all the Path upgrade.
+
+The mace felt lighter compared to before but more importantly, he really had to focus on his armor to notice its weight by now.
+
+“I don’t think this one’s going to fit into our packs,” Veron said, then set down the lockbox onto the stone altar. “Should we try to open it?”
+
+“That could be dangerous,” Elke said.
+
+“I agree. It’s not unheard of for chests and treasure to be trapped as well,” Isaac added. “We should take it up and have it checked.”
+
+“I could connect it to my back armor, but I need time to recover some Focus,” Veron said. “Twenty minutes or so should be enough for a bit of shaping.”
+
+The others agreed, and when he had recovered enough, Veron used rock to clamp the lockbox to his back armor, then rested his pack atop. They added some cloth to try and hide it a little, then they started on their way back.
+
+Despite the added weight, Veron felt comfortable. As they retracted their steps, he noticed that his pace was faster and more steady than that of the others, Veron consciously slowing himself down to let them keep up. They reached the first hall they had fought in, Isaac adding the two longswords to his back.
+
+Soon, they were back up in more familiar tunnels but Veron felt more tense than before. So far, they’d only brought back some rusty swords, but now they were carrying actual loot. He had no clue how valuable it was but it made him think back to the Gutter, when Silvie had lost her arm and that hooded crew had robbed them.
+
+I’m pretty sure they would’ve killed us too if they’d thought the fight was easy.
+
+He was at the Adequate stage of his Path now, and he’d recovered some of his Focus. A third of it maybe. If someone challenged them, just like Reka, he would prioritize his team over any loot or items, but he really wanted to find out what it all was. And he wanted the gold from selling it too.
+
+They passed more halls and tunnels, Elke now occasionally sneaking forward to check for other teams. It slowed them down slightly, but the more cautious approach made sense to Veron. If he was a higher level adventurer looking to steal from people in the dungeon, doing so close to the pit would make the most sense. That’s where they would be the most tired, and likely the least cautious too.
+
+I really have to change that approach. We should take another break too, before we walk the last stretch.
+
+“Voices behind us,” Elke said.
+
+Veron heard them too. They couldn’t see anything yet but there was another group coming closer. He heard a loud male voice and then a whistle from someone else. He made a quick decision. “We divert. Isaac, lead us around, less directly to the pit. Everyone ready for another few fights?”
+
+They all confirmed, tired but focused.
+
+Isaac showed the way, and Veron led. The first room they entered was empty. Veron used some of his Focus to shape the door shut with rock. It would take more force to open it, so they might hear it if they were being followed. Then they went onward, Elke checking ahead occasionally. They cleared a few more empty rooms before they ran into a group of skeletons.
+
+Veron felt a little perplexed with how easily he could parry away their strikes, his first mace swing hitting hard and breaking through the magic that protected them, already breaking bone. He swung his mace again and shattered through its shoulder, clavicle, and ribs, the warrior going down with the strike, then he went on to help the others.
+
+“You extract while I protect you,” he said when they’d taken down the creatures. He listened, using more focus to shut another door. Just a coincidence then?
+
+“Oh,” Elke said.
+
+He glanced at her, raising his eyebrows in question.
+
+“Hear something?”
+
+“No,” she said. “I just levelled up my Path as well.”
+
+Veron breathed out and smiled slightly. “Good to hear.”
+
+He had wondered about him being the first. They’d worked together all this time, and while the others had surely extracted some creatures before this, he’d been a little surprised that he was the first to reach Adequate. Extracting the Necromancer surely helped, and this confirmed to him that Elke had been closer to the next stage than he had initially been. Veron was sure that Ailis and Isaac would follow soon.
+
+They moved on, quietly, and carefully, Isaac leading the way. It wasn’t far now.
+
+Veron stopped them when he heard an impact somewhere behind them. “Was that one of the doors?”
+
+“Maybe,” Elke said.
+
+“Let’s pick up the pace a little,” Veron said, locking another few doors as they went the rest of the way. He sighed slightly when they came out to the pit, then he locked up the exit. It could obstruct adventurers that just wanted to get out, but there were plenty of exits, and if someone was following them, he wanted to prioritize his team.
+
+Isaac was the first to leave, secured with rope and climbing up the chain. Then came Ailis.
+
+When she was gone too, Veron heard a loud impact from the door behind.
+
+Elke glanced his way.
+
+“Think you can climb without the additional rope?” Veron asked. “I don’t think we should risk finding out who that is.”
+
+Another impact hit the door. The stone he had shaped cracked.
+
+Elke gave him a nod and started climbing the chain.
+
+Veron followed, grabbing on and focusing. He heard another impact as he made his way over to the vertical chain, not looking down as he focused entirely on climbing. He could feel the sweat on his hands, not secured for the first time since climbing out from the Gutter. After a few moves, he felt more comfortable. He didn’t feel exhausted, and his weight felt manageable.
+
+Veron tensed up slightly when he heard the door swing open below. Fast steps followed. He glanced down and saw someone look up at him. A hooded figure with cloth covering most of their face. They locked eyes for a moment, and the other person seemed to consider, looked up, then left again quickly.
+
+“Hey!” Veron called out. “Who the fuck are you?”
+
+Nobody replied and he heard the door shutting a moment later.
+
+Veron could feel his heart racing now, consciously slowing down his climbing to not make a mistake. So they were following us? Or what was that?
+
+A few minutes and he reached the top, climbing over the railing and joining the others. They looked tense and ready for a fight.
+
+“What did you see?” Ailis asked.
+
+“A hooded figure. They broke through the rock and rushed out, then left when they saw me.”
+
+“Too high up already?” Isaac suggested. “Or your armor deterred them.”
+
+“How come this happened on the day we actually find something potentially valuable?” Veron asked. He looked around, feeling suspicious of the adventurers around.
+
+“I’m not the only tracker around, Veron,” Isaac said. “Come on, we should get some distance to the pit, go to the shops, and find out what we have.”
+
+Veron glanced behind them once more as they started on their way. “So, what happens in the dungeon stays in the dungeon? Is that how things are?”
+
+“Yeah,” Isaac said. “The Guild doesn’t have an official guard or military to enforce their rules. So it’s up to us to protect each other. Once in the city, people aren’t openly attacking others, but down in the dungeon, I’m sure it happens frequently.”
+
+Ailis cleared her throat. “That’s not quite right, Isaac.”
+
+“You don’t think people would attack others?”
+
+“No, they do, obviously. Especially when someone has valuable loot with them. And I agree with your assumption too, that there likely was a tracker that followed us.”
+
+“What do you disagree with then?”
+
+Ailis glanced around. “I’ll tell you when there are fewer people around.”
+
+They walked on in silence, Veron feeling somewhat tense still. They were in the city, the late afternoon sun burning down onto Anvakar. It was busy as ever, and he was very aware of any people that walked close to them.
+
+They soon went past the Adevian Fort, into the Shops, and then they reached Sonny’s place. They trusted the man by now, and assumed he could point them in the right direction.
+
+“Oh, you lot look tense. But nobody’s dead. You found something good then?” he asked.
+
+Veron glanced at the others, then gave Sonny a nod. “Can we show it to you in the back?”
+
+“Sure, come on in,” Sonny said and went past the workbenches, into the building and then down a flight of stairs. He fiddled with some keys, then unlocked a metal door and went inside. “The vault, so to say, come on in,” he said.
+
+Veron followed down the narrow stairwell, and past the reinforced steel door. Inside was a windowless room with shelves, some tables, and several massive safes. Steel with large opening mechanisms. “This really is a damn vault.”
+
+Sonny gave him a smirk. “Sure is. Good money in the business of safes too, they’re expensive. Shut the door when you’re in, Elke.”
+
+A magical light hanging from the ceiling illuminated the cellar quite well. It was small and cramped with the whole team down there, and Sonny.
+
+“So. I’m no Runic, but I’ve seen my fair share of interesting things. From the Crypts and deeper down. I knew it was just a matter of time with you lot. Didn’t run into trouble I hope?”
+
+“We think a tracker followed us out, but we were climbing already when they reached us,” Veron said.
+
+Sonny shook his head and huffed. “It’s always the worst after spring.”
+
+“What did you mean earlier?” Isaac asked, looking over at Ailis.
+
+Elke held the lockbox while Veron removed the stone that kept it on his back.
+
+“I grew up in Anvakar, and I’ve been around for a while. I’ve treated hundreds of people at the Healer Station, and I’ve heard far more stories. Yes, there are people taking advantage of others, and it’s true that the Guild doesn’t have a guard, not officially at least. But let’s say they don’t care what happens in the dungeon, how come there aren’t any big gangs in the city?”
+
+“There are gangs,” Isaac retorted.
+
+“Any that last for more than a month?” Ailis asked.
+
+Isaac considered, he made to speak, then didn’t.
+
+“Not just that. You know, the big families from Leiveen. The Ancire for example, how come their influence isn’t higher here? How come they don’t own more shops and buildings. As far as I understand, they’re even more present in Yora than they are in Anvakar, and Sor isn’t exactly accommodating to outsiders.”
+
+“You’re right,” Isaac said. “Care to enlighten us then?”
+
+Ailis shrugged. “I don’t really know what to tell you. I do know that the Guild very much encourages hints and reports. And I know that whenever a gang is mentioned, it’s always a name I hadn’t heard before.”
+
+“So, there must be someone enforcing the rules,” Veron said. “But wouldn’t people know about that?”
+
+“You would think that,” Sonny said and smiled, looking at the lockbox. “That is a good find that.” He paused and breathed in, giving Ailis a questioning glance.
+
+“Feel free to add your thoughts,” Ailis said. “I don’t know much more than what I shared.”
+
+“Right. You lot are new to this,” Sonny said and considered. “The dungeon of Anvakar is one of the most profitable landmarks in the known world. Every year, thousands flock to this city with dreams of making a killing. People with debts, people with some personal power, mercenaries, deserters, hunters, and adventurers from all over. The Hunter’s Guild only has a few rules, the main one being don’t take what belongs to another. Be that loot, their freedom, or their life.
+
+“Maintaining a guard or standing army is expensive. And the opportunists that come here are not the usual criminals. Many are willing to kill. Many have killed before. The lack of actual threat here encourages them, entices them, the stupid ones at least. The smart ones usually figure it out and either play by the rules or try to set up some organization. I once thought that the lack of a guard was just about efficiency, or a budgetary concern, but I think it’s a lot simpler. The higher ranks in the Guild, they’re adventurers too, people who’ve explored the dungeon, who’ve faced all kinds of threats and horrors. I don’t think they want to be bothered to constantly keep order. They want people here to be free. But if you take from others, or limit their freedom, well, they might just pay a visit.
+
+“And you’re right on the money too, Ailis, why would the Mera, or even Sor itself not come and take over? If there’s so much gold to be made here.”
+
+“Because Anvakar can hold its own,” Veron said.
+
+“Bingo,” Sonny said. “So, show me what you found?”

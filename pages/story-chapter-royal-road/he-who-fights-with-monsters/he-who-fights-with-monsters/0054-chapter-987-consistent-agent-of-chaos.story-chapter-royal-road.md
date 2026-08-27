@@ -1,0 +1,173 @@
+---
+id: 0509e75a-12e0-5f5a-9080-405bba070910
+page-type-slug: story-chapter-royal-road
+title: "Chapter 987: Consistent Agent of Chaos"
+slug: 0054-chapter-987-consistent-agent-of-chaos
+partOf: he-who-fights-with-monsters
+position: 54
+ownLength: 2475
+unit: words
+ownProgress: 2475
+publishedAt: 2026-02-27
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3099882/chapter-987-consistent-agent-of-chaos"
+royalRoadId: "3099882"
+markedReadAt: "2026-06-29T19:05:45.085Z"
+---
+
+“Jason,” Anna said. “While there is no question that you and your friends are powerful, you make the taskforce members nervous. Things have gone smoothly over the last few weeks with the hands-off approach you’ve been taking. There have been some questions as to why.”
+
+“The objective was always to become a non-factor,” Jason said. “Or, one that can be largely ignored, at least. The endgame, for me, is the powers of Earth leaving me alone, and me doing the same.”
+
+“Which is exactly what I told them. But they also know that you’ve been active in a less direct manner. The resources you’ve been providing for the Cabal social programs, especially in Africa. And then there’s this.”
+
+She gestured from the rooftop in Jason’s Slovakian domain. Dominating the skyline was the dimension ship Jason had taken as a prize after defeating the pirates on his return to Earth. It was floating over a research centre that looked like a sports stadium. From the picnic table they were having lunch at, they had a view of clan researchers, crawling over the hull like bugs. There were also messengers present. A few were clan members, but most were from the Unorthodoxy. Boris’ people had a much more advanced grasp of magitech than anyone in the Asano Clan.
+
+“You’ve brought the taskforce interrogators through here to question Elizabeth. They’ve obviously noticed the giant spaceship you took. They’ve been offering to send their best magitech experts to help you examine it.”
+
+“I bet they have.”
+
+“Do you intend to let them?”
+
+“Maybe. Grandmother tells me that there were impediments put in place when the clan was on their recruiting drive, trying to find researchers to work on magitech. She did manage to snake Audrey Blaine from the Network, though. That was rather a coup.”
+
+“She’s the energy vampire, right? One of the leaders of the Engineers of Ascension leadership?”
+
+“Yeah. She ran a joint magitech research program between the Engineers, the Cabal and the Network, years ago. That’s how she ended up the way she is. There was an experimental research project on resurrection that she kept quietly operating after the joint program was shelved. When the EoA murdered her for resisting their plans to sabotage the grid, it brought her back, just not perfectly.”
+
+“And she has been spearheading the magitech research in the clan?”
+
+“It was a good fit,” Jason said. “The man who killed her, Mr North, left me a vault full of all the research he’d done in his centuries on Earth. Including all the projects previously overseen by Audrey. That’s been the basis for almost all the clan’s magitech research since I left Earth.”
+
+“If he’d been working for centuries, I can’t imagine the clan has made much more progress.”
+
+“You’d be surprised. Mr North didn’t come into this with a grounding in magical theory. He was a magic spider. A familiar of the man you know as the network founder.”
+
+“That’s something I’d like to hear more about. A lot of people would. Do you mind if I add it to the list of supplemental briefings for you to do?”
+
+“Go ahead. The point is, Mr North didn’t have the foundation in magic theory his ambitions required. He was just feeling his way along exploiting whatever magical detritus had drifted onto Earth that he could dig up. Like a dead clockwork king.”
+
+“You’re saying that the Engineers of Ascension were a magic faction created by someone with no understanding of magic?”
+
+“Not enough of one.”
+
+“But he was from the other world. How did he not know magic?”
+
+“The same way not all Asian people know martial arts. Mr North was developing magitech with almost no knowledge of magical theory, drastically low ambient magic, and essentially zero technology. Humans developed very little of use to him until the back half of the twentieth century. Even then, he was too paranoid to trust anyone, so he had trouble recruiting capable scientists.”
+
+“Like Audrey Blaine.”
+
+“Yes, although her value is in project management more than pure research. Her strength was in being a buffer between North’s ambitions and his paranoia. It was people like her who allowed the EoA to function at all. Mr North’s biggest impediment was that he got in the way of his own objectives, crippling his progress.”
+
+“Which the clan has not, after inheriting his research.”
+
+“Precisely. The clan has a better grasp of magic and technology the North did, and a willingness to recruit and involve those with the expertise to make it work. Farrah and I left behind a comprehensive library of foundational magic texts. We sent comprehensive training materials back with Rufus, including what amounts to an online university course in magical theory. Clive and Farrah designed it for Emi, and Emi has been disseminating it through the clan. On the tech side, Boris helped my grandmother recruit people. He even sent some of his own magitech experts to nudge us along, but in limited and careful doses. There are rules about how much you can nudge the progress of less developed civilisations.”
+
+“Is that why Boris never helped Mr North? They did know each other, right?”
+
+“They did. Boris said that North’s paranoia prevented them from working together. Boris supplied Mr North with the spirit coins to survive on Earth as a gold ranker, but North never fully trusted him. If he had, North’s core research might not have been such a mess.”
+
+“Core research?”
+
+“The clan has been studying magitech across several fields. Medicine is somewhere they’ve had a lot of success. Mechanical engineering has been showing progress as well. Young Gary is a prodigy in that area, as you know, and Boris has been showing him some things. The project North had worked in the most, though, was what he named his organisation after.”
+
+“The Engineers of Ascension,” Anna said. “Are you talking about transhumanism?”
+
+“I am. He was looking for a way to infuse people with magic. To give them the power to rank up without essences. It’s something I’ve seen used to horrible effect, enslaving people and transforming them into hideous abominations. He was looking for a version of that where autonomy was maintained. That didn’t require turning people into monsters.”
+
+“The superhumans the EoA created.”
+
+“Yeah.”
+
+“Many of them are still around, you know. And life isn’t good for many of them. Physiological and psychological problems. A lot of them just up and died one day, without anyone knowing why.”
+
+“They were failed experiments. But even Clive and Carlos praised the innovation, after I showed them the research, even as they said that it was a horrible practice that was years away from being viable to even begin testing on humans. They were astounded that he got as far as he did, given his start. Carlos has already started incorporating the research into his own, along with medicine-based magitech.”
+
+“Please tell me the clan hasn’t been conducting human experiments for a decade and a half.”
+
+“The clan hasn’t been conducting human experiments for a decade and a half. Even making leaps and bounds beyond North’s original work, the research hasn’t progressed to any kind of test on living things. It’s all been about taking North’s innovations and excising the shortcuts and crutches his inexpertise forced him into. Like relying on damaged clockwork cores to stop his superhumans from going insane. Nothing has been done to people yet. Boris has been helping, given that the messengers have access to science and magitech from other worlds. Ones more advanced than Earth, but there are limits, as I said. The messengers have lived here long enough that this is their home, but if they bring too much outside influence, they become outsiders in the eyes of the Laws of Intrusion.”
+
+“So, they can help Earth develop magitech, but not just hand over the knowledge. That would be like aliens giving machine guns to a bronze-age tribe.”
+
+“Yes.”
+
+“Does bringing your people from the other world trip up on that rule?”
+
+“No. Cosmically, Earth and Pallimustus are almost considered the same world. Two sides of a coin, one with the magic and one with the technology. They can get away with helping each other. The Asano Clan is now positioned to embody that collaboration. Now that we have healers and experts like Carlos, Mr North’s most ambitious project has a real chance at reaching fruition.”
+
+“His human experimentation project.”
+
+“Yes. Obviously, it needs to be done as ethically as possible. Checks and triple checks. Multiple layers of oversight, focused on care and ethics. But if we can actually manage it, imagine the possibilities. A world where anyone can have magic. There will still be haves and have-nots, as essence users will absolutely be more powerful. But everyone could have the change to tap into their magical potential.”
+
+“Jason, you’re talking about transforming the human race.”
+
+“Yes, so make sure to ride me on it. Don’t let me make decisions without being challenged.”
+
+“And if I want to challenge the fact that you should be doing this at all?”
+
+“Then do. Please. I want to hear every argument. But do your research first. I’ll make sure you have access to everything the clan has been doing.”
+
+“Jason, do you remember how this conversation started? About you leaving things alone? Ushering in an age of transhumanity is the opposite of leaving things alone.”
+
+“I was more talking about living quietly and unbothered until we reveal all this to the world. Like it or not, the changes to Earth have just begun. One day, the connection between worlds will be much closer, and Earth needs to be ready. Pallimustus needs to see it as a foreign power, not a fresh land to colonise. I intend to use the clan as an incubator to advance Earth as swiftly as I can get away with.”
+
+“Even if that means turning the human race into a magic species.”
+
+“It’s less about transforming humanity and more about providing a second option. There are only so many essences to go around. Even in the other world, only a fraction of the populace has magic.”
+
+“You could have mentioned these grand ambitions before now.”
+
+“I have, in bits and pieces. But just getting you onboard was hard enough. If I led with all this, you’d have probably signed up to fight against me.”
+
+“That feels manipulative.”
+
+“I never hid my intentions from you, Anna. Tell me what I’ve just told you that doesn’t fit into the agenda I laid out from the start. This is just the full context.”
+
+Anna rubbed her temples and then stood up.
+
+“You know I have to go and shift all the modelling for how the clan’s diplomatic future is going to play out, right? The plans I’ve been making for expanding the clan into a recognised sovereign state, not just a de facto one?”
+
+“Sorry.”
+
+“It’s not like I haven’t done it before. You are nothing, Jason Asano, if not a consistent agent of chaos. If anyone, I’m angry with your grandmother more than you. I’ve been working with her on the clan’s future.”
+
+“I don’t think she considers it. Her concerns are with diplomacy and the lives of the clan members. I suspect that she puts all of this in a box in her mind, labelled ‘mad science shenanigans.’ She’d probably defund it if I wasn’t providing all the funds.”
+
+***
+
+The first vampire war had ended without conclusion. The humans and vampires alike had exhausted themselves, and were wary of escalation after the vampires got their hands on nuclear weapons. By the point the Asano clan retreated into their astral spaces, the military bases at the edge of Asano Clan territory had been unused for some time. The restoration of those bases marked a return to active operations, striking at locations provided by Elizabeth.
+
+In most cases, all they found were recently abandoned facilities, but not always. Nigel Thornton’s team had been working with a multi-national strike team when they encountered a research centre still being evacuated. Nigel was gold rank and had ended up clashing with the gold ranker on the other side, Jack Gerling. The blood clone was now actively opposing them, free of Elizabeth’s influence.
+
+Gerling’s intervention had limited the success of the raid. The vampires and researchers who failed to evacuate before human and Asano clan forces arrived were killed rather than captured, Gerling himself making sure the humans had no prisoners to take. The silver lining had been that Gerling was focused on killing his own people rather than targeting Nigel’s silver-rank team.
+
+After the raid, Nigel was on his back on a gurney, back in the base infirmary. In a private room, he was being seen to by multiple healers. They were silver rankers, quickly exhausting themselves at the effort of healing a gold ranker. They all turned to look as the door opened and Jason walked in, Neil right behind him.
+
+“You can go,” Jason told the healers, who scurried off like bugs after the light was switched on. Neil was already a figure of admiration and sometimes intimidation to the clan’s healers. More than that, Jason was Jason. To the clan, even more than the world at large, he was the embodiment of mystery and power.
+
+“How is he?” Jason asked Neil, who was using his perception power to assess Nigel’s condition.
+
+“I’m fine,” Nigel insisted and tried to sit up. He gave Neil a suspicious look when the healer easily pushed him back down.
+
+“You have the inherent recuperative ability of a gold ranker and you still need active healing,” Neil said. “That is not fine.”
+
+Neil turned to Jason.
+
+“Some kind of wounding effect affliction,” he explained. “Impedes healing and can’t be purged unless you clear off a separate bleeding affliction first. As bleeding is also a wound effect that soaks up healing, it’s a nasty combination. If I didn’t know better, I’d say you did this, Jason.”
+
+“Are you sure you know better? It could have been me.”
+
+“It’s two afflictions, not twenty. I know your nonsense when I see it. Basically, I need to dump huge amounts of magic to heal though it, which was why it was so hard for the silver rankers. He’ll be fine.”
+
+“What about my team?” Nigel asked.
+
+“Already taken care of,” Neil assured him. “You did a good job keeping them safe. Taking gold-rank afflictions as a silver is rough, especially ones like these.”
+
+“Good,” Nigel said. He visibly relaxed and lay back on the gurney.
+
+“They say you ran into Gerling,” Jason said.
+
+“Yeah. And I’d say he seemed alive, but I could feel death in his aura. But not regular death. This was wrong. Nasty. Tainted.”
+
+“Undeath,” Neil said.
+
+“Yeah.” Jason said. “Nigel, tell me everything.”

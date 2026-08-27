@@ -1,0 +1,177 @@
+---
+id: bc6b2e47-59f2-5edb-a708-5567ef77c18a
+page-type-slug: story-chapter-royal-road
+title: "036: A New Dawn"
+slug: 0036-036-a-new-dawn
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 36
+ownLength: 2186
+unit: words
+publishedAt: 2024-05-08
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1627951/036-a-new-dawn"
+royalRoadId: "1627951"
+---
+
+Of all the things she had expected to encounter when she went through the portal, this hadn’t even been close to the realm of possibility. The simple fact the tower even had a place like this was so antithetical to its behaviour so far that Evelyn began to wonder if she was dreaming. But, after pinching herself and feeling the burn she knew that wasn’t the case.
+
+Congratulations on being the 403,265th Challenger to reach Haven! Every floor from now on will be far more difficult than the last, but you may return once per day to Haven with no repercussions - provided you haven’t died. You may challenge floors however many times it takes to clear them. If you can reach the 25th Floor, perhaps you will discover something incredible.
+
+Wait, so this isn’t a challenge? What’s going on here?
+
+Evelyn was stunned. She didn’t know how to react to the tower’s declaration. She was rather surprised that so many others had beaten her in clearing the first 15 floors. But considering how often she had delayed to accumulate essence it made sense.
+
+Besides, when compared with the total population of Earth it was still among the top percentile - even accounting for the colossal number of people who had been culled by the tower’s challenges. And that wasn’t the only message the tower had for Evelyn.
+
+You have reached the requirements to unlock Ascensions! Access the Ascension tab in your menu. Rise ever higher, challenger.
+
+Another section of the menu had been made available. This one sounded far grander than any that came before it. And it was interesting that the tower had offered a motivational word - the polar opposite of its typical behaviour.
+
+Behaviour. As if it's alive. Though, for all I know the tower could be some infinitely complex being beyond my understanding. Or it could just be made of galactic bricks. Heh.
+
+It was then that a jovial shout brought her back to reality. Turning to the source of the booming voice, Evelyn saw a towering man flanked by identical twins. The man had long, curly brown hair that hung loosely over his shoulders and a nasty scar running from his cheek to below his black chestplate. He had on matching full plate and leather under armour - a kindred spirit.
+
+Evelyn had noticed the scarcity of other ‘tank’ builds among the challengers. She figured it was because doing more damage made solo climbing easier. Though it was just as easy if nothing could leave a scratch on you. This fellow clearly understood that. His companions didn’t make as powerful a first impression.
+
+Other than the fact they were identical in appearance, there was nothing outstanding about the two of them. Both had close cropped black hair and rodent-like faces. They regarded Evelyn with extreme suspicion - which made her second guess the large man’s incredible friendliness.
+
+Then again, just because his minions didn’t seem to like her that wasn’t an indication of his own thoughts. By now they had reached her and Evelyn realised she hadn’t fully comprehended just how large the man was. She kept a tight rein on her mana, just in case.
+
+Even though the tower hadn’t thrust her into another challenge, that didn’t mean it was safe. In fact Evelyn was more worried about other people than she was about monsters. After all, killing someone rewarded you with a portion of their essence and stars - an enticing prospect for anyone without a moral compass. And without the rule of law, nothing was stopping them from acting on their dark desires. Well, almost nothing.
+
+If they wanted a piece of her, she would be more than happy to oblige. Just because someone had reached this floor faster than her it didn’t guarantee that they were stronger. And even if they were, she had absolute confidence in her own defence.
+
+“Welcome, welcome!” The large man said, his voice booming across the rolling grassy hills they were in.
+
+They had crested the peak of the largest hill to reach her, and it obscured her vision of what lay beyond. At the very least, the name ‘Haven’ implied there was safety here - or a settlement of some kind. Safety was relative, after all.
+
+“Thank you,” she replied, “What’s with the welcoming party?”
+
+The twins gave each other a strange look. She ignored it for now - they clearly weren’t the ones in charge. A hearty laugh was the man’s response. His whole body rippled with the movement, his armour making a cacophony of clangs as it did.
+
+“Well, the early bird gets the worm so to speak. We’re all in this together, after all. It’s nice to be with other people and not be forced to battle to the death sometimes. And Haven can be a little overwhelming at first. I’m Kyron, what’s your name?” He asked.
+
+There was no harm in playing along with the charade - at least until Evelyn figured out where she stood in this ‘Haven’. So, she returned the introduction with a warm smile.
+
+“I agree. Pulping monsters is much more fun. Especially bosses. Nice to meet you Kyron, I’m Evelyn.”
+
+“Well now, finally someone who gets it! It’s worrying how many of us have fallen to depravity in these circumstances. I’ve always said it's best to band together through hardship - but a lot of these bastards only want what’s best for themselves. And that’s no longer the best path forward,” he said.
+
+“Oh, what’s that mean?”
+
+“Come, walk with me. I’ll walk you to Haven’s finest tavern and I’ll teach you everything you need to know about this place and how the challenges have changed. What do you say? Drinks are on me.”
+
+It was a sorely tempting offer. Evelyn had never been a heavy drinker, but the prospect of a night of loosening her inhibitions and wholeheartedly relaxing after weeks of living life on the edge was a tempting one.
+
+In the end, it was the fact he offered to pay that sealed the deal.
+
+I wonder what gets used as currency here? Essence, perhaps? If that’s the case then I’m finally about to realise my long held ambition of becoming a tycoon. But, just because I’m rich that doesn’t mean I can’t accept his generosity. Best to learn about this place before I reveal anything that could paint a target on my back.
+
+So, she decided to follow the trio as they made their way back up the hill. And when they reached the top Evelyn let out a gasp.
+
+It was the second time since arriving on this floor that she had been shocked at what she saw. This time however, it wasn’t because of the tower. Or perhaps it was.
+
+She didn’t know if the sprawling city that lay in the valley below had been constructed by the tower for the people of Earth, or if they had managed that themselves. She doubted it was the latter, given the lack of time they had been here. Though perhaps some people had received construction related skills. Though that was unlikely.
+
+Anyone who didn’t have some type of combat skill as their main focus was unlikely to be among the forerunners of the tower. No - this city had been created for them. And like the other places the tower had crafted it was stunning. She lost herself in admiration as her new companions pulled ahead.
+
+Haven reminded her of New York City. Her home. Sure, the brick and stone towers didn’t quite touch the sky in the same way the steel and glass menagerie of Manhattan did - but they were impressive. At least fifteen stories she guessed at a glance. Domed buildings were dotted about here and there among a mess of regular houses. And it wasn’t just the buildings that impressed her.
+
+Surrounding the city was a magnificent wall of grey stone bricks that reminded her of the Great Wall of China. A true wonder. The tower had said Haven was a safe respite, yet the walls indicated that something dangerous was out there in the rolling hills. Or maybe she was just on edge from her experiences so far. But she was falling behind.
+
+Kyron and his guards had reached the bottom of the hill while she was lost in wonder, so she ran after them. It didn’t take long to catch up with the assistance of gravity and the slope. In fact she had started to move so fast she almost barrelled into the three of them and staggered to an awkward halt.
+
+“Woah there, watch your step. Wouldn’t want you having an accident now,” Kyron chuckled.
+
+It was an innocent remark. But something about his ridiculous friendliness put Evelyn on edge. It felt wrong. And she knew it wasn’t just because the tower had altered her perception of other people. No - the man wanted something from her.
+
+And she was determined to find out what.
+
+It was lucky for her then, that Haven’s finest tavern - according to Kyron - was only a few minutes walk from the city gates. Which had been a spectacularly ornate work of craftsmanship and art.
+
+Watchtowers stood on either side, with gilded carvings of monsters and beasts running up the stone walls - they were beautiful. And they weren’t even the most impressive part of the whole construction.
+
+No, that honour was reserved for the gates themselves. The bars spiralled and curved around each other to form an intricate latticework of metal. At first it had seemed to just be an overly complex waste of material, but as she took in more and more of it the larger picture became clear. It was a depiction of mana pathways. A human’s, to be exact.
+
+And the gates weren’t just an inert piece of art. Evelyn could feel the mana flowing through them. They radiated it. Her own mana cried out, pulling away from her and attempting to forge a connection with the gates. It took a lot of strenuous effort to resist. Kyron offered an approving nod when he noticed her actions. That meant he knew something about the gates.
+
+The watchtowers had been unmanned, so perhaps there hadn’t been any threats from the green wilds. Yet.
+
+A sign outside the tavern told Evelyn it was called ‘Climber’s Rest’. A bit on the nose for her taste - but it was what lay inside that interested her more.
+
+The moment Kyron pushed the door open a burst of noise assaulted her ears and she had to duck to avoid a flying pint glass. It shattered in the street and a gentle spray of pungent alcohol caught her on the back of the neck. It was sticky and she recoiled when she gave it a whiff.
+
+Perfect.
+
+Kyron hadn’t been lying about the quality of the drinks at least. But she would need to be careful not to let herself get too drunk, not until she knew more about her surroundings. Plenty of the customers greeted Kyron as he passed, which made her more and more curious about his position in Haven. Was he a ruler of sorts, or just a popular socialite? The answer would determine how she needed to approach their conversation. But first, he took her to the bar.
+
+A rake of a man greeted them with a warm smile.
+
+“Kyron, my favourite customer! I see you’ve brought a new friend, what can I get for you?” He asked.
+
+“You know what I want, Danny. And none of the cheap stuff. I want to make a good first impression,” answered Kyron.
+
+“I’ll open a tab then. Two pints of liquid essence coming right up!”
+
+The man grabbed two glasses and poured out a thick golden liquid from a small barrel, filling them to the brim. He slammed them on the bar counter and turned to Evelyn.
+
+“Give it a try. I guarantee you’ve never tasted anything like it before. Nothing on Earth comes close. You’ll be begging for a second glass,” he said, eyes glittering as he drank her in.
+
+It was with some trepidation that Evelyn took the glass and had a first, hesitant sip.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.5
+
+|Attributes|
+
+Power: 12 (13)
+
+Speed: 4
+
+Stamina: 8
+
+Vitality: 26 (31)
+
+Mana: 25
+
+Fortitude: 48 (83)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Stargazing (Rare), Bargain Hunter (Uncommon), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Uncommon), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Spendthrift (Uncommon), Solar Fusion (Uncommon), Salvo (Common), White Infusion (Common), Star of Fortitude (Uncommon), Star of Vitality (Common), Star of Mana (Common), Star of Stamina (Common), Unyielding Heart (Rare), Star of Power (Common), Dual Focus (Uncommon)
+
+~Active~
+
+Fists of Frost (Uncommon), Mana Plate (Uncommon), Flashfreeze Flamecharge (Rare), Purge Corruption (Uncommon)
+
+~Hybrid~
+
+Overpowering Spirit (Rare)
+
+Essence: 12『+230524 / 5:57:59.5 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】

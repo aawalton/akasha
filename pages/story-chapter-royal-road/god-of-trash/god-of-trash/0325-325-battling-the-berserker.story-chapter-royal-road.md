@@ -1,0 +1,73 @@
+---
+id: 510804fe-49b9-5aad-8fcb-c5c65f17cbf9
+page-type-slug: story-chapter-royal-road
+title: "325. Battling the Berserker"
+slug: 0325-325-battling-the-berserker
+partOf: god-of-trash
+position: 325
+ownLength: 1947
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3553840/325-battling-the-berserker"
+royalRoadId: "3553840"
+---
+
+Rhys and Ryota clashed, battling back and forth under the shadow of the trees. Ryota was a persistent and brutal foe when he was able to fight, so strong that Rhys could barely hold out, but every few minutes, he backed off and paused to reload his mana. Rhys, who’d managed to survive his onslaught a few times now, used his downtime to rest and suck down some impurities or potions himself, then clashed with him once again when he was ready. He knew he should use the downtime to subdue Ryota, but he wasn’t really that interested in it. Battling the man was too valuable.
+
+Plus, it wasn’t like Ryota was a threat to anyone. The gorillas kept well away, and he was noisy enough that they had plenty of time to escape.
+
+Actually, Rhys thought as they parted once more, how long is he going to keep this up? He surely wouldn’t be in this form forever, right? If he’d ever activated it before—and he was afraid of fighting back earlier, as if he knew something bad would happen, so he should have—then he’d clearly turned back before. Rhys was content to wait it out, but it’d been a few days, and Ryota showed no sign of slowing.
+
+He twisted his lips. It would be deeply unfortunate if this was a sealed kind of berserker rather than a tired-out-and-go-home kind of berserker. He didn’t know how to seal anything, let alone handle… whatever was going on with Ryota. After all, even if he knew how to seal things, he didn’t know what had happened to Ryota to take action against it. Was it a demonic awakening? A mana deviation? A last-ditch technique? Some kind of natural defensive reaction, wrapped up not in anything magical, but merely constrained and formed by the depths of Ryota’s mind? He didn’t know. And acting to try to ‘seal’ something while he was blind and ignorant of the true situation was a surefire way to harm Ryota more than help him.
+
+Having said that, he was getting tired. While there was some value to fighting a battle of attrition against something tireless and pitting his energy up against it, he wasn’t fighting his half of a battle of attrition, so he gained little from that scenario. Inversely, Ryota was surely growing tired as well, even if his berserk form didn’t recognize it. Drawing this out was wasteful for him, and risked harming Ryota in the long term. He still needed his future religious icon, dammit. This wasn’t the end of his plans for Ryota, but merely the beginning.
+
+Ryota growled, and blue energy started rising up from his back again. Rhys lifted The Hunger and took a deep breath. This time, when he’s in his refractory period, I’ll pin him down and take a look at what’s going on. If he never examined Ryota, he’d never know. He didn’t have much knowledge of magical ailments, but if he never tried, he’d never find out if it was something he could deal with, as opposed to just sitting around waiting it out.
+
+“You still with me, buddy?” Rhys asked.
+
+The Hunger, which had since been fed with trash-beam-weakened impurities, let out a happy grumble. Rhys nodded and lifted the sword just as Ryota charged once again. The two of them sparred, their limbs and weapons blurring with speed. In the blink of an eye, they exchanged a thousand blows, too fast to see for anyone below their rank. Ryota lifted his hand high, pouring all his mana into it, and slammed it down. A shockwave shot out of the earth, lifting Rhys off the ground and throwing him back into a tree. Knowing this pattern, even if he was unable to fully counter it (and somewhat unwilling to try, given the growths to his regenerative and Form of Filth, formerly Trash Body, skills), Rhys lifted The Hunger and activated a new technique he’d been working on.
+
+Impurities blasted out of every pore and filled the air around him, rapidly congealing into something solid. It was based on his silence barrier that he’d used back in the Alliance’s capital, where he’d filled the air with impurities thick enough to disrupt any other mage’s mana senses or listening techniques, but this time, he was just trying to block an attack. So, rather than blasting out a homogeneous if relatively thin field of impurities around him, he saturated the air a certain distance with him with impurities. A solid black shell of pure impurities, round and about a meter diameter, formed around him in a split second and cut off all light.
+
+Barely a breath later, a wave of force hammered into it. Rhys was once more thrown into the air. For a few seconds, he floated, weightless; and then he slammed into something very solid. Or rather, the shell did, and a second later, he slammed into the shell, which he bounced off of with all the force of the initial blow.
+
+Rhys rubbed the back of his head and sighed quietly as he retrieved the impurities, cracking open the shell. The technique worked; it was just somewhat ineffective for large-scale force blasts like the one Ryota did, since the force still threw the shell, and Rhys presently had no way to cushion himself in the shell.
+
+Future improvements. There were always advancements to make. Techniques to improve. He could try adding cushions to the shell using Trash Intent, or manifest seatbelts. At least he didn’t have to worry about the force wave bruising him anymore. Now the shell of impurities did that when he slammed into it.
+
+Sunlight poured back in, and he found himself face-to-face with a charging Ryota. He’d let Ryota beat at the shell before, and not only could Ryota eventually crumple it on his terms, putting Rhys in a bad spot with his back up against a wall of his own making, but destroying the wall also infected Ryota with impurities. Usually he’d be all about that, but not right now, so instead, he swept up The Hunger and battered back Ryota’s charge. When Ryota used a shockwave or some other big move, it burned up more of his berserk mana and dropped him into the recharge state faster. In fact, it should happen any second now, Rhys thought, watching Ryota carefully. He extended his mana senses and quickly scanned the man.
+
+Usually, it was hard to watch the internal mana of another mage due to the other mage’s natural mana field, and this was true even with the berserking Ryota, but all he needed to monitor right now was whether or not Ryota’s mana was dropping precipitously. To his total lack of surprise, it was. Another few blows, and—
+
+Ryota abruptly leaped back. He growled under his breath and watched Rhys, but didn’t make any aggressive motions. For his part, Rhys watched Ryota with his mana senses. When Ryota’s mana continued to drop, he charged in and slammed his hand on Ryota’s forehead. Ryota clawed at him, and then Rhys pushed his mana senses forcefully into Ryota, and the other man screamed in pain.
+
+Is that supposed to happen? Rhys wondered, and then he realized why.
+
+Ryota’s mana passages were a mess. Ragged and torn, they barely contained his ordinary mana anymore, let alone the raging, berserking mana. His body emanated mana, with mana infiltrating his blood and organs, and not in a good way. Investing mana in the body could strengthen it, as Rhys had discovered many times over, but it could also act as poison when it leaked in unguided and ran rampant. The mana was the latter. It wove through every fiber of Ryota’s body, poisoning it to the core.
+
+Huh. Maybe I was doing a very bad thing by letting him just run around like that. In my defense? I had no idea what was happening. In fact, I still barely know what’s happening. He’d definitely done a bad thing just now, but he hadn’t known he was doing a bad thing, so it wasn’t his fault. It wasn’t the greatest logic in the world, but luckily, he’d never claimed to be a great guy, so he could live with himself. He did feel a little guilty, but honestly, from the bottom of his heart, there was no way to know what was going on with Ryota until he’d examined him, and with the energy and verve Ryota was jumping around with, he hadn’t thought he’d needed to examine the guy. Berserkers usually self-healed. It wasn’t his fault that the tropes had taught him wrong.
+
+Still, the shape Ryota’s body was in? He should’ve fallen down dead a long time ago. It was a miracle that he was clinging to life, let alone fighting hard enough to push Rhys to his absolute limits—
+
+And then mana started flowing back into Ryota’s body, and all the damage began to wash away. Mana retreated from his tissues and organs, and his mana vessels closed back up. His core refilled just as rapidly as he healed.
+
+Oh. Oh! Okay. So it wasn’t that bad, letting him run around. I’m sure it was still bad for his long-term magehood prospects, but at least he isn’t going to immediately die from this damage.
+
+Even as he thought it, Rhys extended his mana further into Ryota, examining more deeply. He was gathering mana right now. If he didn’t stop Ryota from getting mana, the man would go berserk again, and he’d be stuck sparring until Ryota ran out of juice again. He swept his senses through Ryota’s body, examining everything as deeply as he could. Come on. What is it? What is it that’s causing this cycle?
+
+There was nothing subtle about what was happening to Ryota. Surely there wouldn’t be anything subtle about what was making it happen, right? Gods, I hope not, because if it is subtle, I’ll never figure it out. I’ll be stuck fighting him and hoping it stops at some point.
+
+He finally reached Ryota’s core and probed it directly. It was hard to reach the core. Ryota’s ambient mana made it hard to push his mana senses into the man’s body, and his mana was densest around his core. He probed it—and instantly froze. Is that it?
+
+Ryota’s core had a hole in it, not unlike his own core. Unlike his core, though, the hole in Ryota’s core didn’t point at the void, but at somewhere… or something else. Mana gushed through that hole, rapidly replenishing Ryota’s core. As he watched, Ryota’s core filled, then overflowed. Mana started pouring out of his core, filling up his mana passages and infecting his muscles once more.
+
+Got it. So that’s what’s happening! He didn’t understand the fine print, like where the mana was coming from, or how Ryota had a hole in his core that led to what looked like infinite mana, but he now knew how to stop Ryota.
+
+He grabbed a glob of impurities and stuck it in the hole. That stopped the mana from filling up Ryota’s core any further, but they immediately tainted the mana flowing in Ryota’s core. Rhys frowned. He wanted to draw out the impurities, but if he did, the plug would come loose.
+
+I used to transform impurities into flesh, back in the day, when I was almost obsessively rebuilding my body. Can I do that to someone else?
+
+Rhys opened his real-world eyes. Ryota wasn’t raging any more. He slumped, his eyes shut, and he breathed slowly. He was asleep.
+
+He shrugged to himself. No rush, in that case. Might as well do a little experimentation.

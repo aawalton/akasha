@@ -1,0 +1,199 @@
+---
+id: bfc2ad60-028e-5c31-8162-3485593fd2e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 791 - Internships"
+slug: 0116-chapter-791-internships
+partOf: hell-difficulty-tutorial
+position: 116
+ownLength: 2530
+unit: words
+publishedAt: 2026-04-12
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3265518/chapter-791-internships"
+royalRoadId: "3265518"
+---
+
+Only when the notification confirms everything’s over do I allow myself to slump to the ground, then groan as the lingering heat of the blue flames washes over me. Just as I sit there, I teleport closer to where Morwag and the body of the Champion are.
+
+Even this strains my already tired mind, and now that the fight is over, I find myself feeling the effects of my wounds and all the effort this required. Even so, I lift my hand towards Morwag, and black mana seeps out of the body of the Champion.
+
+I move to flick it away, launching it into the distance to be someone else's problem. I feel too tired to fight it and break it back down into mana.
+
+"Don't!" Weslin says quickly, reaching my side and interrupting me. "We’ve already caused a huge commotion. The other Champions are really far away, but if by any sort of shitty luck we attract one, we are dead."
+
+From my place on the ground, I look up at him, and in my mind, I compare the risks, but in the end, I sigh. My minds combine once more, and my skills reactivate as I begin to fight what remains of the black mana until I break it apart. Causing particles of blue mana to rain down around us, but I don't even bother to pull them into my body and let them linger there.
+
+My crown is gone, and with it that insane amount of mana I had stored and the addition from my brother, Rex. I can't... I force myself to put the thoughts of the more analytical parts of my mind on hold and turn to Weslin.
+
+"How is Morwag?" I ask him.
+
+"I'm fine," Morwag answers instead from the ground.
+
+"He is not fine," Weslin says.
+
+"Dying?" I question.
+
+"As if something like that could kill me," the demon growls, despite the holes through his body and many other visible wounds he bears.
+
+"As if something like that could kill him," Weslin agrees. "But we should still get him to the healers. Quickly."
+
+I nod and hesitate for a moment before I ask, somewhat quietly, "The others?"
+
+"They are..." Weslin begins, but Morwag interrupts him.
+
+"What the fuck is with that tone of yours, you arrogant prick?" he barks at me right away. "Everyone here walked onto this battlefield knowing the risks. So the plan went to hell, big fucking deal. No one’s looking for your pity. They did their best and fell to a superior opponent, there’s no shame in that. You more than did your part, and you won’t catch any of us carrying the goddamn weight of their deaths. Get that through your head."
+
+"What he said," Weslin says, and then kicks Morwag. "Move so he can claim it. You know he deserves it."
+
+"Weslin, don’t mistake me for some pathetic thief." And as he says this, even with the state his body is in, he moves to the side.
+
+As asked, I move ahead and bring myself to a stop over the body of the Champion and look down at it. In defeat, all that terrifying talent and the abilities that must have taken years to master are gone. How weird it is to find myself looking at a defenseless body now, so void of the mind that powered it. Now, even in death, it’s beginning to release some mana radiation.
+
+I touch the body with the tip of my shoe, and a notification appears.
+
+Would you like to claim the portal key? This key permits a single use, creating a teleportation gateway to the Sixth Floor of Beyond for one individual.
+
+Upon claiming the portal key, a tattoo will be imprinted on your body and will remain until the key is used. The key may only be activated on the Fifth Floor of Beyond.
+
+The tattoo can be transferred or retrieved from your body upon death.
+
+I read that notification for longer than I probably should. A single thought continues to appear in my mind.
+
+Could I maybe challenge a Champion alone? Do something like what Nyssa and Adrian did on their own?
+
+Then I replay the fight. Even with how big the advantage was and how strongly I countered the Champion, I would’ve been dead if I’d challenged him alone. Morwag and Weslin helped immensely, as did the other A-ranks. Though their role wasn't as flashy as that of the S-ranks, they supported Weslin and Morwag with their abilities and fed their mana and primordial energies into arrays and formations.
+
+Well, I can think about it later, and if I decide, I can sell the key. For now, I claim the portal key.
+
+As I accept the notification, I feel a sting as the tattoo with deep red glowing lines burns itself into my right forearm. It coils around my wrist where a watch would be, and then from the inner side of the forearm, a single line goes up to the middle of my forearm with shapes spreading to the side, almost reminiscent of the shape of a key.
+
+Arm... that’s a dangerous place for it to be. I wonder if I’ll lose the key if something unexpected happens to that arm. Actually, what the hell is going on? First, the fragment on the back of my left hand, and now a key on my right forearm? Does this mean I can't afford to lose my arms anymore? Have I been severely nerfed? I feel like my combat power has dropped by at least fifty percent.
+
+Also, the body of the Champion is gone, as I was warned. I’ve asked around, but there is no way to cut parts off to save them. Everything just disappears once you claim the key.
+
+Of course, I thought of some other stuff, but you can't even carry it out of this floor and claim the key later. And calling someone here for examination is dangerous because of other Champions, and also costly because of sacrificing stats.
+
+How annoying.
+
+Then I check the rankings.
+
+Exploration Leaders
+
+1. Christoph (7th Floor)
+
+2. Adrian (6th Floor)
+
+3. Nyssa Volare (6th Floor)
+
+4. Nathaniel Gwyn (5th Floor)
+
+5. Voss (5th Floor)
+
+6. Orion (5th Floor)
+
+...
+
+And here I am, the current top of the 5th floor, likely because I'm holding a portal key. That either means Voss and Orion under me never gained the key, or they gained it but never used it, and I only managed to surpass them by gaining more "performance points" during the fight. Who the hell knows? The system for sure won’t tell me.
+
+I also confirmed something I heard some time ago. You truly can change your system alias once, if it is to your true name. And that’s what I’m rolling with from now on. It’s not even like I’ve been hiding it anyway.
+
+It also makes me a bit happy that information guilds can’t make shards out of telling people that Nathaniel Gwyn is Noname. Screw those guys.
+
+I watch as Weslin helps Morwag stand up. The tall, muscular demon doesn’t show it, but even with how durable he is, he is severely wounded. A few other A-ranks are in a similar state, so we don’t waste much time here and leave.
+
+And of course, I haven't forgotten. The new Ruler of Envy... if he’s still alive by the time I get strong enough, there will be a price for him to pay.
+
+Only half a day after returning to the Megacity, I find myself seated in front of Ruby. My wounds are healed, though some of the exhaustion remains. My fragment is now back in its place on the back of my left hand.
+
+Even now, I feel some pressure from my Preeminence Eyes as their second strengthening continues its application. The trait is permanently activated, which is a clear disadvantage, but it is balanced by how powerful the trait is. The Mana Wavelength Iris’ evolution changed a lot of things, and the second strengthening has changed the way I see the world even further. Just sitting here in front of Ruby, she seems different to me.
+
+Her eyes seem to have a faint glow to them, but I expected that much, as I always thought those yellow eyes with their complicated patterns were a trait. From watching the way mana waves react to her, I’ve also begun to suspect that the Ruby I’m meeting isn't just a vessel or a projection, but her real body.
+
+She might just be one of the very few Rulers who can control her mana so perfectly that her mere presence isn’t killing me. And with that said, I am 100% sure that if she released her power, I would die in a heartbeat. But being Lissandra’s disciple, I guess it makes sense that she has such a high degree of control. LissLiss would never allow “such a pathetic lack of control, beneath what even noble ladies’ pets’ pets are capable" or something like that.
+
+Now that I think of it, back on the second floor, I was infinitely weaker than I am now, yet when I met Lissandra, I barely felt anything. Even if it was limited and weakened, her shadow must have been stronger than any Absolute I’ve met so far.
+
+What an annoying woman.
+
+"You’ve been scammed," Ruby repeats, and this time I allow the words to register.
+
+"You look different from the last time. It’s a bold change, Ruby. However, I'm a bit disappointed. I liked the brilli-ant display from last time. Honestly, it's a bit of a downgrade. I was really starting to vibe with the 'giant household pest' aesthetic."
+
+"I said you got scammed."
+
+"Wow, why are you so ant-agonizing out of nowhere? It's very un-pleas-ant."
+
+"You could have gotten two million shards for each member of your group, and likely for you as well. If you had really pushed, a low pristine passive would have been possible, if only for you alone."
+
+I slump in my chair and sigh. "I know. Back then, I panicked when he said the other offers wouldn't include the others."
+
+"Diligence is very shrewd."
+
+"As expected from someone willing to destroy the Ancient Armory just because-"
+
+"Yes, yes. Also, do you realize how close you were to death?"
+
+"In which case?"
+
+"..." Ruby blinks a few times. "Point taken. I meant with the Lycan."
+
+"Who even is that guy? He was scary."
+
+"Only what’s probably the most dangerous werewolf currently alive. While his blood isn't as potent as Primordial Blood, it also isn't killing him like it is killing Nyssa, and it gets close to being just as powerful. Hell, I'm sure his bloodline is more potent than some wyverns’."
+
+"I should have gotten more for the hand."
+
+"You wouldn't have gotten more than what I just told you you could get."
+
+"A destroyer and a thief. I will-"
+
+"Sure. Do you need help with your trait selection?"
+
+"Nope. I already have my favorites picked out, but I think I’ll wait for my eye strengthening to fully apply before I select one."
+
+"If you do it, I recommend doing so after your Beyond quest, as you might have some opportunities during it that would... well, I won’t say more. But the optimal way would be to do it here in your guild headquarters after you get back instead of on the 10th floor, but-"
+
+I interrupt her. "Ruby, what is happening on the 10th floor?"
+
+"Nothing as of now, but things are about to get... really messy. It is all your guys' fault. You have time, and it shouldn't be that dangerous for your group just yet."
+
+I take a moment to think it over, and only then do I say. “I will trust you then. By the way, why did I have to deal with Diligence instead of you?”
+
+"Just annoying politicking. We were the four Rulers in charge of this cycle of the tutorial after Tyven died, but now that one of his Masters of Envy became a Ruler, we are five. It restricts me in some cases, such as any time that guy decides to be an ass."
+
+"I get the feeling. So, how about the quest? Anything with Everwood?"
+
+"Multiple, but I think I found a perfect one for you. The duration is only one week, and while it doesn't explicitly give out Everwood, I know that guy at least keeps it in stock. You should be able to ask for a bit if you do well."
+
+"What is the quest about?"
+
+"You join a few others to serve as assistants for the guy and do whatever he asks of you. Likely nothing too dangerous, if you don't want it to become too dangerous, but that guy is very demanding, so make sure to listen and do well."
+
+"Oh, a quest with other attendees?"
+
+"Not this time. You will be the only attendee. The others are people on something not unlike an internship where they, even if the chance is low, are hoping to become his disciples."
+
+"His? 'He'? Why so mysterious? You’re hiding something from me. Who is this guy?"
+
+"I can tell you that people generally call him the Magi. So, N-ant-haniel, do you accept?"
+
+"That is so fucking lame it doesn't even-"
+
+"Do you fucking accept!?"
+
+"Sure, why not?" I hastily reply.
+
+Sitting there behind her old wooden table, she waves her hand, and a door appears nearby.
+
+There is no need to hesitate, so I stand up and head over to it. One last time, I turn around to look at her, only to see her waving her hand at me in a dismissive gesture, so I just step through.
+
+Instantly, I am welcomed by a young lumoran man standing in front of me. He is taller and slimmer than I am, wearing a sharp suit with his hands folded neatly behind his back. Even as he looks at me, it feels as though he’s completely focused on my eyes with a curious sort of intensity.
+
+He seems to confirm a thought before he smiles. "I am happy to finally meet you, Nathaniel Gwyn. I am Noll." He gestures for me to follow, and I join him as he begins to lead the way through the hallway.
+
+"Why 'finally'?" I ask.
+
+Still smiling, walking with an air of nobility, he answers, "I completed my tutorial twenty years ago as an S-rank, just like you, though I did not match some of your more impressive achievements. It might be a bit awkward, but I like to check the Beyond records once in a while to see how the other talents of our generation are faring."
+
+On the right side of the hallway, windows of black glass appear, letting in strange light that draws my eyes. I pause to look out and see a star, realizing then that we’re in orbit around it, likely aboard some sort of spaceship. Of course.
+
+Noll stops patiently, allowing me to take in the view. After a moment, he speaks again. "Let us continue. Master Elian does not like to be kept waiting."

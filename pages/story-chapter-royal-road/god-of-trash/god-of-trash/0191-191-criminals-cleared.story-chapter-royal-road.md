@@ -1,0 +1,55 @@
+---
+id: 20f73726-25e4-5f3a-9511-898c9cfb9024
+page-type-slug: story-chapter-royal-road
+title: "191. Criminals Cleared?"
+slug: 0191-191-criminals-cleared
+partOf: god-of-trash
+position: 191
+ownLength: 1853
+unit: words
+publishedAt: 2025-09-19
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2613635/191-criminals-cleared"
+royalRoadId: "2613635"
+---
+
+Once the camp had been sorted, Rhys led their new recruits back home. There were too many to teleport, and anyways, he wanted to keep that kind of on the down low, if at all possible, so they had to take things the slow way. Rhys had more important things to do than cart a campfull of mortals across the country, so after he helped ferry everyone through the portal, he left the rest of it up to Lira, who was uniquely skilled at managing, acquiring, and handling water-based transport.
+
+He hadn’t wanted to traumatize any more children more than was absolutely necessary, so he sent Sable through to shut things down beforehand. He only saw the aftermath, but the torn curtains and slashed walls told him enough about how she cleared a room. To be honest, he had kind of expected a little bit of violence, but Sable seemed to have immediately reverted to ultraviolence… not that he was really complaining. The fewer people who saw them moving massive quantities of Empire citizens around the map, the better.
+
+This operation wasn’t going to be possible to keep quiet, so rather than send them to an existing farm or integrate them openly into his operation, he had Lira take them to a midpoint in the Empire, out into a big chunk of empty land where they could start a new farm without too much scrutiny. His further-flung shops needed fresh food, and the logistics had been getting complicated, but if he had a new farm supplying them with local food, then he’d both minimized the chances that this large operating getting busted would bring him down, and requisitioned supplies closer to the point of sale, meaning fresher food for his customers. Not that he cared that much about improving the quality of his food… but it was a nice side effect. It also wasn’t that different a mode of functioning than he’d been doing already, with his distributed, criminal-run farms; it was just that this one was further from his base, and also bigger than usual.
+
+Plus, it wasn’t as if the Empire could complain too much about a new farm opening up on unused land. As far as they knew, these were just some aspiring potato farmers. Sure, aspiring potato farmers being led by their water sprite prophet to the promised farm, but hey! What kind of place didn’t have a few wandering, iterant farmers being led by random prophets, right?
+
+He snorted to himself. At this point, people are actually going to start worshipping me as a god. That absolutexistance fellow might have made a mistake, but Rhys was rapidly approaching at least worship-based, in-the-eyes-of-mortals godhood. He was hitting all the classic notes: rescuing people from horrible situations, teaching new technology to those who had never had it before (aka teaching the animals to farm), leading large groups of people across vast distances to new, better employment…
+
+Well, some of those are also the hallmarks of a criminal or resistance organization, so I can’t ascend to godhood that quickly, Rhys thought, shaking his head. It’d been a joke from the start. He wasn’t even close to being a god. The Empress was far closer, what with her higher rank and nation’s worth of devoted believers, and she was still considered a good ways from true godhood by most mages.
+
+He didn’t have the time to check in on them, when he had to teleport around to all his stores, keeping them refreshed with vats of impurities to drizzle in the food. He had at least made a mild improvement in his impurity imbuement, where at first, he’d had to manually imbue all the food with trace impurities; now, he made a concentrated impurity potion—though not too concentrated—and passed around instructions on how to mix it into the oil and salt for potatoes, into the soda-slash-coffee, and so on. Well, to be fair, he now had a fill set of competent soda makers, so long as he continued to supply impurities, and they were beginning to train the second generation of soda-makers.
+
+It was hard to run all the shops and supply their critical materials now that they were growing so numerous and so distributed. He really couldn’t take a break. Every waking moment, which was all of them, he had to devote to running the stores. He couldn’t take on much more; they were reaching critical mass. Any more than this, and he’d have to find someone else with the path of trash who could make the impurity potions… or maybe just find a really bad alchemist. Most alchemists tried to avoid impurities, after all; it would take a really shit one to make a whole potion out of impurities and nothing else.
+
+He managed to recore all the mages he’d rescued from the last raid with the energy he’d grabbed from the camp. The Tier 4, Madame Quast, alone recored a good five or six of them. They’d been gazing at their friends with jealousy, and at him with dark eyes, but as he successfully kept his promise, their eyes lightened, and their gazes turned worshipful. Rhys smiled with benevolence the whole time, while internally, he wondered how close he’d been to a mutiny. If he hadn’t cleared the camp, how many more months, weeks, days would he have had, before the will of the people usurped the will of their leader? As a leader of his own resistance organization, he had to respect the spirit of the mutiny, even if he didn’t agree with their impending actions. Luckily, he’d nipped their mutiny in the bud by holding up his promises, unlike most politicians, but if he hadn’t? He didn’t even want to imagine the potential damage a rogue member of his crew could do. Just reporting them to any of the Empire’s military could take the secret right out of their secret resistance, let alone if they tried to remove one of the key players, or reveal Rhys’s bases… Most of the little guys didn’t know the true extent of Rhys’s network, but they could still do massive damage revealing any piece of it. There was no two ways about it, and no real way to minimize the potential damage except what he’d already done. At the end of the day, if he was going to have people, he had to keep them happy; that was just what being a leader was all about. And it wasn’t something he was particularly good at.
+
+He sighed aloud. When this is all done, I’m going to run into the woods and go be a hermit for a while. Stop worrying about people all together.
+
+Back at his home base, he paused, gripping the edges of an impurity potion. Was this it? Was this endgame? He didn’t want to conquer the whole Empire, just take back what they’d taken, and he’d already surpassed that goal by now, and spread his shops into the Empire itself. True, he did need to poison the Empire to achieve his goal, since the Empire wouldn’t just fight back with the soldiers who lived in the conquered region, but one, he couldn’t realistically poison the whole Empire, and two, he was rapidly reaching capacity. No—he’d say he was already over capacity. It was exhausting. He was exhausted.
+
+The poison swirled before him, and he gazed into it, searching for the answer. What was his goal? What was he trying to achieve? Overthrowing the Empire, yes. He knew that. But to what end? To what distance? When did he pull the trigger? How would he know when it was time to pull the trigger? Did he do it now, because he was overloaded? Did he do it later, and continue at capacity for a time now, to ensure the maximum amount of the Empire got poisoned? Did he do it after the next big raid on the camps, when he had the maximum soldiers under his control?
+
+He bowed his head. It was hard. Harder than he’d thought. Harder than he’d ever considered possible. Leading wasn’t easy, and it wasn’t for the faint of heart. He was just some piece of trash. He wasn’t used to making hard decisions, and deciding the fate of everyone in the room. Because, at the end of the day, the second he pulled the trigger, he took responsibility for the lives of everyone he asked to fight by his side. This was his battle. This was the war he’d chosen to fight, when everyone else had run. In a certain light, any bloodshed that spilled from his battle with the Empress was on his hands and his alone; after all, everyone, the Alliance, its Sword Saint, everyone except for Rhys had decided to give up. To cede their land to the Empire and be done with it. It was only Rhys who’d said no. Who decided that the fight was worth it. Their land was worth it. The lives of the people in the camps were worth it.
+
+Was he right? Was he wrong? Did it matter, when people would die because he had chosen not to walk away?
+
+But was he wrong, for not capitulating? Was he wrong, for standing and fighting for what he believed in? For standing up for the underdog, instead of peacefully giving in to the Empire’s bullying demands?
+
+He didn’t think so. He… didn’t really care, to be honest. He’d decided to fight this war, so he would. But the lives of others… he couldn’t just call them trash and throw them away. That boy, the one who’d vowed revenge… his eyes haunted Rhys. How many more would rightfully be able to demand Rhys stand and fight, face them for their revenge, before this was over? How many more on his side… and how many, many more on the Empire’s?
+
+It was too late for regrets. Not… that they were really regrets. He didn’t know what to feel, or how to express what he was feeling. He guessed the closest thing was acknowledging his wrongdoing, yet still being resolved in achieving his goals.
+
+A second later, his eyes lit up. No, wait, I know what this is! This was the villain’s monologue. That one scene late in the manga where the villain talked about how much death he’d caused with regret, as if he’d cared at any other point in the series, then told the reader that his goals were all worth it and carried on, ignoring all the moral implications anyways. He nodded. So I should also ignore the moral implications and carry on! Or… wait. Maybe I shouldn’t use the villains as a model for my own personal growth…?
+
+He pushed up off the edge of the poison barrel, and a blade pushed into his throat. Rhys instantly put his hands up as a rough hand gripped his head, locking him against the blade.
+
+“One move, and you die. You’re going to stand there and listen to what I say, and when I’m done, this never happen—”
+
+Rhys frowned. He knew that voice. “Bast?”

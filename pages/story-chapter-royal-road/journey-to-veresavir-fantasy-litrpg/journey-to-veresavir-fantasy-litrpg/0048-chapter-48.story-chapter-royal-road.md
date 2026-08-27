@@ -1,0 +1,187 @@
+---
+id: 53d08d0c-b8a3-5165-82cd-5bc0817a0f4d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48"
+slug: 0048-chapter-48
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 48
+ownLength: 2488
+unit: words
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3124703/chapter-48"
+royalRoadId: "3124703"
+---
+
+Chapter 48
+
+Veron didn't have to wait for a long time, an assistant waving him over and asking what he wanted. Veron was once again led into a back room where he quickly proved to be a Modest Path and Elemental, paid his six silver, and received his Iron badge. This time, it felt as simple as sending out a package at the post office.
+
+“Do you mind if I ask a question about the ships leaving for Anvakar?”
+
+“Go on,” the attendant said. A young man with disheveled hair but attentive eyes.
+
+“Where do they leave from and what's the lower price range I can expect?”
+
+“They leave from the western part of the harbor, just look for the ships without sails. The prices can vary a lot. If you book a spot in advance, it's usually a little cheaper, but they do try to fill up to capacity whenever they leave. Thirty to a hundred silver for one way, I would advise you not to pay more. Cheaper to stay in the city for a night and try again tomorrow.”
+
+“That's quite a range.”
+
+“Yes. You could check the notice boards as well, there are always merchants looking for guards to go north. Just be wary of offers that seem too good to be true. We try to check what we can but there are still often people trying to take advantage of fresh adventurers. At the Modest stage, you should look for jobs offering five to ten silver a day.”
+
+“I’ll do that. Thanks, and thanks for the badge,” Veron said.
+
+The man gave him a weak smile. “Of course. Good luck out there.” He glanced at the queue as Veron stepped back. “Next.”
+
+So I would have to haggle or get lucky.
+
+Veron embedded the iron badge into the stone near his shoulder, where it remained visible, then went to the second floor to grab some food and drink. He sat and ate alone, a potato and meat stew.
+
+It was less than a silver but he felt a lot more conscious of his spending this time around.
+
+The idea that he could find out the locations of treasure to then retrieve before anyone else got to it started to sound very alluring.
+
+It would also mean that I would have to die beforehand.
+
+Was that something he would have to get used to? He didn't want to think about it and pushed it aside.
+
+First, I'll check out the boats and get to Anvakar.
+
+It felt like a straightforward enough goal. Veron finished his meal, went to the toilet, and left for the harbor.
+
+The sky was slightly overcast, with strong winds coming from the Terrom lake. Veron thought about the previous times he’d gone to the harbor of Perrion. First, on a not-date with Silvie. He chose to focus on that memory instead of continuing the thread of thought.
+
+The boats that would leave for Karlsbrugg and Lyrie looked almost from a different age compared to the low and streamlined vessels made of wood and steel that traveled up the river. He imagined whoever had designed them took inspiration from the Eskir airships he had seen.
+
+There were three of the smaller boats here, none of them as large and armored as the Serena had been. Two of them had people gathered in front of a gangway leading into the ships. Veron chose the one closest and joined the group.
+
+An older man with a gray beard and leather trench coat was at the front. Veron quickly learned that the ship would leave in two hours. They had eight spots left and there were at least twice as many people here, some of them discussing amongst each other. He checked with a few of them and the man himself, finding that the current price was seventy silver.
+
+He went to the second boat instead. It looked nicer and there were fewer people waiting.
+
+This one had a middle-aged looking woman managing admission. She wore an actual tricorn.
+
+“That’s an interesting hat,” Veron said when he got her attention, receiving a scowl in response. “What is she called?” He nodded to the boat.
+
+“Here to talk or to get on board?” she asked.
+
+“A bit of both. I can offer forty silver.” He decided to say the only thing he knew of these ships. “Not as big as the Serena, but she seems honest enough.”
+
+The woman gave him a considering look. “What would you know of the Serena? This is the Walker, been doing this route for close to three decades. There are people offering eighty right behind you.”
+
+“I can’t afford eighty. Fifty then, and I’ll be honored to travel on the Walker.” Veron looked at the ship and smiled. “Fun name for a boat.”
+
+She smirked. “Tell you what, I’ll make it sixty because you at least pretend to care, and you’ve got an iron badge.”
+
+“I have seventy eight silver on me, and I’ll need to rent a room in Anvakar. Fifty five now, and I’ll pay you ten once I make some gold up there.”
+
+She shook her head. “You’re trying too hard, Elemental, but sure, fifty five. Because you’re an Iron badge. Get in before I change my mind.”
+
+“Fifty five?” someone called out from nearby as Veron handed her the money.
+
+“Thanks. I’m Veron.”
+
+“I don’t care.”
+
+Veron laughed and made his way over the gangway.
+
+“Leaving in fifteen! Four spots left, one gold apiece!” the woman called out behind him.
+
+Veron sighed. The small interaction felt tiring, and he knew it shouldn’t have. But at least he was on board, and he had some silver left. Less than he would have liked but at least he had a badge and he knew the Willard Inn. Maybe he could scout for other places too once he had established himself more.
+
+Veron quickly found the large and simple central hall. There were small and circular windows, scratch marks showing and milky with age. The walls and ceiling were mostly made of wood, magical lanterns adding a warm glow to the somewhat dim space.
+
+The central hall was full, every seat occupied with only a thin path leading out. He would have liked to sit next to one of the windows but got an aisle seat instead, sitting next to a woman in a black dress, her focus on an open book.
+
+Veron set down his pack and looked around. It felt like he was in a mix of a medieval and eighteenth century fair.
+
+He could spot a few badges on the people nearby, all of them silver or above. Some of the expressions and demeanor reminded him of frequent flyers, people entirely uncaring for all the history and work that made this mode of travel possible. Or so used to it, it remained as nothing but a necessary hassle.
+
+Veron felt like he understood why the woman had let him join at the supposedly low price.
+
+I wonder if I'll feel the same once I've done this trip a few times. Let's try not to.
+
+He sat there and waited, shaping a small piece of rock to distract himself, then relaxing a little once the magical enchantments of the ship thrummed to life and the boat started moving up the river. He took off his helmet and breathed out.
+
+A few people were having conversations but Veron was already looking for a way out onto the deck. Sitting in a hall with a hundred other people for twenty hours didn’t exactly sound appealing, and this time around, there was no curse in the air to keep him in there.
+
+He went out in the back, the magical thrumming louder out here coupled with mechanical sounds likely powered by the enchantments. There were a few others already out here, almost all of them adventurers it seemed.
+
+One group was talking about traveling the Silver Wastes, considering weight, water reserves, and food. Two others he glanced at were talking about a mine somewhere near Anvakar, changing to a whisper once he walked past. He found a spot in the back, looking out onto the city.
+
+They were driving upriver and at a moderate speed, passing under the impressive stone bridges of Perrion, past the houses built in close proximity to one another, and then out and past the city walls. A few minutes later, they were already in the wilderness.
+
+Veron leaned against the railings and looked out into the Palewoods.
+
+He really had come back in time. And if everything that Envolon had said was true, he would return again if and when he died. Veron wondered what would happen if he survived the next ten or even fifty years. Would he return as an old man?
+
+Somehow, he didn't see that happening, even if it worked like that. Right now, things were calm, but he knew they didn't stay that way.
+
+He didn't want to face the cursed creatures again, but he did want to find out what would happen to Eyra. Yet going there after or right before the curse activated was a massive risk.
+
+And going down into the dungeon brought its own share of dangers. It could very well be that he didn't survive the next week or month.
+
+I’ve really gotten comfortable with the thought of death quite quickly.
+
+Well. It’s not exactly death anymore, is it? Not really. Not for me.
+
+Veron didn’t want to dwell on the thought, and instead thought of the dungeon. And about what he would do once he was back in Anvakar.
+
+I’ll have to study the maps.
+
+He found he felt excited about that, more so than before. He supposed that with the Silver Wolves, there wasn’t as much of an immediate need for him to know the tunnels, halls, and shortcuts in the depths. Now, it felt a lot more important for him to familiarize himself.
+
+And I'm not going down there alone either. Because that is just a stupid idea, at least at my current strength and power.
+
+Which means I can’t push this thought aside any longer.
+
+I have to find a team.
+
+A team he trusted enough to fight beside. A team he would surely get to know and care about. There was just no other way. Even with the hunters he had traveled here from Eyra, Veron had started to care about them in the end, and keeping them at a distance felt exhausting, and it felt like fear.
+
+They were driving past the birches all around. Everything was blooming. It smelled of earth and water. The noise of the enchantments had drifted to the background, a steady hum now that hardly bothered him.
+
+A few adventurers were laughing somewhere to his left. One of them was dancing.
+
+Veron thought about his future team.
+
+No matter who they were, or what they could achieve together, once he died and returned, they would have forgotten about him. That was the main crux of it. And not just what that meant for him. Everything the others would’ve had achieved by then, would be set back instantly as well. He wouldn’t just lose their side of the relationship, he would see and know their loss as well. Even if they didn’t.
+
+It had hurt with the others. It still did. But Veron hadn't known what would happen. Everything had come at once, and it had felt overwhelming.
+
+This time around, Veron knew what he’d be getting himself into. He could make a choice. With every person he met and every connection that he made.
+
+That changed things.
+
+He didn't pretend like it wouldn't suck if he got close to anyone and then died. He didn't want to be forgotten by everyone he knew. He didn't want to die in the first place, or see anyone he cared about meet that fate. But what were the alternatives?
+
+He could run away and find a peaceful spot somewhere. Like he had near Eyra. But he knew he would get lonely. And he didn’t want to avoid all the things that were happening in the world either. There was some sense of responsibility, to not throw away this opportunity he had stumbled into, but his main drive, he felt, was that there were a lot of questions and unknowns, and he wanted answers.
+
+Another option was to just work on his own, shut himself away entirely and let nobody get close. Or he could decide to only connect with people half-heartedly at most, like he had tried with the hunters.
+
+He knew it would protect him from grief. But all in all, those options all felt kind of lame.
+
+What would be the point of all this if he went with that? If he chose to share none of how he felt with others? Or prevent himself from caring?
+
+He would end up like some burdened tool, pushing to get power, to prevent the curse, and whatever else was waiting for this world. He would live for that purpose, and for power. And he knew he would resent it.
+
+Yeah. That’s not the adventure I signed up for.
+
+Veron nodded to himself.
+
+So it won’t be the adventure that I’ll have.
+
+Veron made his choice. He decided he would find people. He would get to know them, get to know the cities, the dungeon, the shops, and ships, and rivers. And it would suck when he would lose them, or when they would forget. But while he was there, and they were too, he would live, and he would feel, and care.
+
+Veron looked at the small bit of stone in his hand and smiled slightly. He breathed in deeply and exhaled. It felt like a weight finally lifted from his shoulders. There had been conflict that he’d felt, back with the hunters, warring feelings pulling him one way or the other.
+
+But now, it felt so simple. As if he had forgotten.
+
+And how could I not? With everything that happened.
+
+Of course he wouldn’t hide away, of course he would connect with others, while he explored the world and all its magic. And Veron knew just as much that there’d be times when he would fail, when he’d fall back into the fear and chaos. But that was fine. He found his way back once, he could do it again.
+
+It scared him, all of it. And yet for some reason, that made his choice feel even more obvious.
+
+He was here, in Renavor. He had been here for less than a year. It felt like a lot longer. Some of it had sucked, but now, as he looked out into the Palewoods moving past, Veron found that he felt calm.
+
+More than that. For the first time in what felt like a while, Veron found that he was looking forward to the future.

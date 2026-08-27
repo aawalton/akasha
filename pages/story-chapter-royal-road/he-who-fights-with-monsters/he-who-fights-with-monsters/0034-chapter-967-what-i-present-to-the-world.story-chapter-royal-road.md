@@ -1,0 +1,179 @@
+---
+id: 78cc7078-4528-591a-845e-95f55aacbad0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 967: What I Present to the World"
+slug: 0034-chapter-967-what-i-present-to-the-world
+partOf: he-who-fights-with-monsters
+position: 34
+ownLength: 2897
+unit: words
+ownProgress: 2897
+publishedAt: 2025-03-03
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2101943/chapter-967-what-i-present-to-the-world"
+royalRoadId: "2101943"
+markedReadAt: "2026-06-29T19:05:01.975Z"
+---
+
+Spiritual damage lingered, beyond the capacity of healing magic to repair. This was something Jason was intimately familiar with, but his latest spiritual injury was mild. Holding shut the rip in the universe had strained his prime avatar, but within a couple of days it had largely recovered. He spent that time in his astral kingdom, in his house by the waterfall.
+
+Far from crippled, just not up to another fight, he spent most of the time cooking. He set up an outdoor kitchen on the sprawling deck that jutted into the gorge. A rotating roster of his friends and family came by for sampling purposes, although Nik and Emi’s presence was near-constant. Emi was already an excellent cook, having learned from her mother, just like Jason. They were taking the opportunity to induct Nik into the culinary arts.
+
+Now that the magic levels on Earth were rising, magical variants of familiar ingredients had started to appear. He was incorporating them into the farms he had set up around his main planet, although he hadn’t had time to collect a lot of Earth produce. For the moment, most of the farms still grew Pallimustus plants and fungi.
+
+Along with fields of vegetables there were mushroom caves, hanging gardens filled with vine fruit and sprawling orchards. He had chosen ideal climates, scattered across the planet and linked by portals. The influence of the living forest Arbour made for idyllic growth.
+
+There were still fires to be put out, from the ongoing diplomatic efforts to the fallout from the battles in Melbourne and the Sindh Province. Jason’s recovery offered him some rare downtime, but not all of his friends were as idle.
+
+Farrah had been going over what happened with the manipulation of the grid, alongside grid operators from the various Network factions. Jason put those thoughts aside, concentrating on good food and good company. He suspected what she would find, but she was still working on it. He did his best to avoid dwelling in it until she was done. Even so, the old rage churned like magma beneath the earth, building up pressure on the way to an eruption. He knew that wasn’t helpful, healthy or productive, so he did his best to let it go and focus on what was.
+
+***
+
+While Jason was recovering, the contingent of diplomats, intelligence officers and faction agents continued their visit to the astral kingdom. Their trip had taken them to the cities of New Water and Arbour. They took aerial tours around the planet and even travelled into space in an unexpectedly spaceworthy dirigible. They saw a planet created and then terraformed in a display of god-like power. They toured the new planet, visiting mountaintops and vast tablelands. They walked around, touched the grass and ate fruit from trees. Then they left and the planet winked out of existence, as if it had never been.
+
+***
+
+US Secretary of State, Claire Danvey, watched footage of preliminary debriefs of the US members of the contingent now returned from the astral space. She had a room set up for the purpose in her temporary lodgings in Asano Village. The contingent members would go through weeks, if not months of debriefs, analysis and examinations for potential compromise.
+
+Having come to a decision, she had petitioned her government to allow her to visit Asano’s kingdom for herself. A conference call pushed off her debrief footage and she made her case to the president and to CIA Director Barstow.
+
+“Madam Secretary,” Barstow said. “We have no idea what Asano is capable of in that place. If our people are to be believed, he can make a planet as easily as a sandwich. Either that is true, or he has the power to convince people it is. Either way, it’s a short hop to accepting that he can pluck state secrets out of your head, if you put yourself in his place of power.”
+
+“I would make two counterpoints,” Claire said. “One is that if he wants to know something, I don’t think we can stop him. You’ve seen what just that shadow creature of his can do. Do you know the full capabilities of the people he brought to Earth? I don’t, but I bet they have magic that would run loops around any protection we have.”
+
+“So, you advocate giving in and surrendering anything he wants?”
+
+“No. What I suggest is that we avoid approaching him in the ways where he’s more powerful than us. Than anyone. Confronting him with main strength is not just pointless but counterproductive.”
+
+“She’s not wrong in that regard,” Barstow said. “I have a small army of analysts going over the Pakistan footage, but the early assessment is that no native Earth force could have stopped those monsters. Possibly not even if you combined them all together. We’d have to resort to magically enhanced nukes and turn the whole area into a radioactive pit.”
+
+“What we need,” Claire said, “is to approach this from another direction. Director, what is your analysts’ take on Asano diplomatically?”
+
+“He’s naïve. Unversed in realpolitik. His adherence to certain principles is undermining the ability of his representatives to—”
+
+“That is my assessment as well,” Claire cut her off. “Jason Asano responds to trust, loyalty and friendship. Speaking with his chief representative, Annabeth Tilden, it is a source of frustration for her. Asano’s approach has served him well in the other world. Politics are simpler there, by all accounts, with personal power and personal loyalty being lynchpins. That approach hurts him here. Earth geopolitics are more sophisticated, with decentralised power. Over there, it’s not about the force you can muster but the force that you are. Individual power over the consensual. That means more idiosyncratic personalities and less answering to disparate interests.”
+
+“You’re saying that he’s used to the politics of god kings,” Barstow said.
+
+“Perhaps not that extreme,” Claire said. “Although yes, sometimes, from what I’ve gathered in my time here. A better analogy might by a rogue dictator. Someone we need for a military base, or as an intelligence asset. Or because the lunatic has nukes.”
+
+“What are you suggesting?” the president asked.
+
+“We meet him where he is. He might become an ally, but never one who goes an inch beyond what is strictly necessary. In his mind, we’re still the Network. The people who dug up Jack Gerling and sent him to kill Asano’s brother, his lover and his best friend. Whatever his diplomatic intentions, on some level, he sees us as an enemy. If we keep treating him like a potential enemy, he may well become one. If that happens, we lose. He can hide his people where we can never reach, and move through our nation with impunity. With the power at his command, he and his friends could crush the military and civilian infrastructure of the continental United States in a week. If that. Then he’d likely go to work on any essence users they didn’t take out in step one.”
+
+“That’s a bleak picture,” the president said. “Barstow?”
+
+“We’re still doing combat analysis of the Pakistan footage. Preliminary results support the secretary’s assessment.”
+
+“You’re telling me that a few dozen people represent an existential threat to the United States?”
+
+“Only if we keep treating him like one,” Claire said. “We need to stop trying to make an ally, because he’ll never trust us. We need to make him a friend.”
+
+“And how do you suggest we do that?” the president asked.
+
+“We trust him first.”
+
+“It’s not an unreasoned approach,” Barstow said. “Our profile on Asano suggests that the only people able to sway him are his friends. If we become one, then we might gain a measure of the influence we have thus far failed to.”
+
+“You think it’s that easy?” the president asked.
+
+“No,” Claire said. “But I do think it’s that simple.”
+
+“She’s right,” Barstow said. “Our best information is that Asano responds to straightforward earnestness. We would essentially need to have one person who befriends him, and have them serve as an unofficial ambassador.”
+
+“Won’t he see that coming if someone makes an approach?” the president asked.
+
+“Yes,” Barstow said. “And even if he’s so oblivious as to not, Anna Tilden isn’t. But our profile suggests that he won’t care, so long as the approach is genuine. Tilden is the problem, but her existing friendship with the secretary would make the secretary the natural choice. But there is both difficulty and danger in this approach. It won’t be easy to make him see us as a friend, and once we do, we’ll have to be one. If Asano feels like we’ve betrayed him, he’ll become that existential threat.”
+
+“You advocate this approach, then?” the president asked Barstow.
+
+“We all know that Asano’s arrival will prompt some manner of revolution in magical knowledge. Farrah Hurin and Rufus Remore overturned centuries of essence user training in a few years. Essence users from ten years ago are stronger than those with decades of experience. This time, he’s brought people who can push magic, and eventually magitech, forward by leaps and bounds. We can’t afford to be on the periphery of that movement.”
+
+“Do you think we would be?”
+
+“I think that if we use the strategies that have worked for us in the past, Asano will declare war on us. Then win it. Then have a sandwich.”
+
+“That’s why I want to do this myself,” Claire said. “I’m also high enough in our government to both be accountable and hold people to account. Anna Tilden becomes an asset, instead of an obstacle. Friends matter to Asano, and I’ve taken early steps in building a cordial relationship. But Director Barstow is right about the dangers. If we do this, we have to be earnest. To be a friend, and not just act like one.”
+
+On the screen in front of Claire, the president leaned back in his chair.
+
+“I don’t like this,” he said. “It feels precarious.”
+
+“I won’t deny it, Mr President,” Claire said. “The path forward is occluded, yet we have to stumble on regardless. I don’t envy your position.”
+
+The president took on a wry expression.
+
+“I would be more inclined to believe that if you hadn’t primaried against me, Claire.”
+
+Claire snorted a laugh.
+
+“Yeah, well, you won, Mike, and I find myself happier about that with each passing day. I’ll be happy to run again in less interesting times.”
+
+The president tapped his fingers on his desk as he considered Claire’s proposal.
+
+“You know that you making friends with Asano isn’t the same as America making friends with him,” he said.
+
+“Things that matter to Asano’s friends matter to Asano,” she said.
+
+“That comports with our profile of the man,” Barstow said. “He’s demonstrated a willingness to work with groups he would otherwise cut ties with because of personal connections. We estimate that his relationships with individual Network members led him to delay cutting ties with the organisation for as much as a year. It was the intervention of Jack Gerling that finally broke that connection.”
+
+“What do you advise, Director?” the president asked.
+
+“Like you, Mr President, I don’t like it. But I don’t see another effective approach to making inroads with Asano, and we want to be on the inside track for whatever he has to offer. We can’t afford to be frozen out of that.”
+
+“Should we attempt to infiltrate his circle more covertly as he expands it to incorporate more people from Earth?” the president asked.
+
+“No,” Barstow said. “His aura senses were outlandish before. I would be astounded if anyone can get past them with subterfuge. We do have people with aura masking powers, but the cost of them getting caught is too high. As ridiculous as it sounds, the best approach may well be just walking up honestly and trying to make friends, like children on a playground. He’ll know why we’re doing it, but he will most likely give us a chance anyway.”
+
+“And it won’t be easy,” Claire said. “The legacy of Asano’s last visit to Earth left him vigilant against the magical factions, and the old Network branches here in the US were integrated into our government. All three of us come from Network families. The vampire queen may also use Jack Gerling to sour relations further.”
+
+The president let out a rough sigh.
+
+“I think the term ‘vampire queen’ tells us how far we are beyond normalcy,” he said. “Make your approach, Madam Secretary, but step carefully. I won’t allow you to compromise the interests of the nation to make friends to what amounts, in your words, to a rogue dictator.”
+
+***
+
+In Asano Village, a room had been set aside for a portal to Jason’s astral kingdom. Currently standing in front of it was Shade, barring the path of Anna and Claire.
+
+“Shade,” Anna said, “it already took quite a lot before they would even allow the Secretary of State to enter Jason’s realm. Getting clearance to have her security detail stay behind was not a simple endeavour.”
+
+“That is not my concern, Mrs Tilden. If they choose to enter, they accept, like everyone else, that life and death in that place are the province of Mr Asano. If he decides the secretary is safe there, then no force in the cosmos can bring her harm. If he decides otherwise, no force in the cosmos can save her.”
+
+“Then there’s nothing to be worried about,” Anna said.
+
+“My concern, Mrs Tilden, is Mr Asano’s wellbeing. He is in his home, right now. A place he built as a sanctuary from the responsibilities and decisions he faces out here. It is for friends and family, not for business.”
+
+Claire took a step forward.
+
+“That’s why I am—”
+
+“I am aware of your motivations, Madam Secretary,” Shade cut her off. “I was in the room for your meeting with your president.”
+
+“You were in the conference room?” Claire asked, looking to Anna. “You told us that Asano would not surveil it.”
+
+“He did not,” Shade said. “The room I was in was not in Australia.”
+
+“What? Are you saying that you’re spying on the US President?”
+
+“I can neither confirm nor deny any active intelligence operations,” Shade said, his normally British accent sounding suspiciously American.
+
+The secretary rushed out of the room, her black-suited detail in tow. Anna let out a slow, unhappy groan.
+
+“That was not great, Shade. I’d expect this from Jason, but from you?”
+
+“Mrs Tilden, I do not care about this planet. It is a place of petty value in a desolate corner of the cosmos. The only relevance it holds comes from the powers paying attention to it. That will not change unless Mr Asano chooses to change it. I do not care about your interests, Mrs Tilden, or those of this planet’s other inhabitants. This world, its people and its fate are of no concern to me, beyond that they are of concern to Mr Asano. My preference would be to take those few we care about and leave this place to its own devices. Something that many on Earth would welcome, not least the army of vampires still holding most of Europe. It would also remove most of the issues you are faced with, although I acknowledge it was Mr Asano who brought you into this. Even so, I will not allow those issues to interrupt the time Mr Asano has wisely set aside to maintain his mental equilibrium. An equilibrium I should think that you can see the value in, given his behaviour when he loses it. Something that is an acute threat, given what Miss Farrah has been uncovering during this same time.”
+
+“You truly don’t care what happens to a planet full of people?”
+
+Shade form slowly became indistinct, the neat form that left him looking like a shadowy butler breaking apart. In its place was something alien, primal and ancient. An embodiment of what lurked in dark corners; of what children feared under the bed. Anna suddenly felt like a primitive human, huddled by a fire against the encroaching dark. When Shade spoke again, it wasn’t in the crisp, clear tones of a British aristocrat. It was an unearthly sound, the inhuman whisper of something unseen, seeking to lure travellers into the dark.
+
+“Do not mistake me for what I present to the world, Mrs Tilden. I am the child of death itself, older than the world that birthed you. I have seen people die without reason or purpose, in numbers so large that your culture hasn’t named them yet. You have met fewer people than I have seen planets fall, and I will see this world dead as well. There will be a day, billions from years from now, when Mr Asano and I visit the charred rock that was once his home. A cinder, drifting around the white star your sun has become. We will be the only living things on it.”
+
+Anna gulped.
+
+“Does Asano know about the meeting Claire had with the president?” she asked, forcing her voice to almost normalcy. Shade shifted back to his more familiar appearance.
+
+“He will. Once his attention turns back to Earth and its concerns.”
+
+“Will you at least let me through the portal?”
+
+“I think not, Mrs Tilden. Not today.”

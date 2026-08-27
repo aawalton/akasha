@@ -1,0 +1,191 @@
+---
+id: 77a9cbae-8b41-5636-af6d-d6de47cba138
+page-type-slug: story-chapter-royal-road
+title: "Chapter 707 - Can I ask you a question?"
+slug: 0032-chapter-707-can-i-ask-you-a-question
+partOf: hell-difficulty-tutorial
+position: 32
+ownLength: 2075
+unit: words
+publishedAt: 2025-12-08
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2831163/chapter-707-can-i-ask-you-a-question"
+royalRoadId: "2831163"
+---
+
+“Are you really that worried about the Armory? Were you looking to grab some secrets for yourself?” I ask, dusting off my clothes while scanning the space around me. I try to memorize the view to figure out where exactly in the Megacity it is later.
+
+“It’s not that I care. There are places like that all over Beyond, but at my current level, they have nothing to offer me,” she answers.
+
+“So mighty. Even if they did belong to someone at the level of an Absolute?”
+
+She smiles deviously, her real, yellow, patterned eyes flashing for a moment. “You still don’t realize the true scope of the difference between a Ruler and an Absolute.”
+
+“Didn’t LissLiss take down a Ruler not long ago without even being in her prime?”
+
+That makes her snort. “As if anyone like her could be considered a reasonable standard for that sort of measurement. Out of tens of thousands of Absolutes, there are only a few that could pose a real challenge to a Ruler.”
+
+“Please tell me more.”
+
+“No. Like I said, even though the Wraith, as you’ve taken to calling him, was a powerful Absolute long before I was born. There’s nothing for me to gain from looting his Armory. These sorts of places are best used by attendees to aid their progression.”
+
+“Please tell me more.”
+
+“No, but I’ll send you back to the Armory so you can learn more. Just give me a moment.”
+
+“I suddenly changed my mind.”
+
+“Are you sure? Where’s your pride?”
+
+“I have a feeling we’ve already had this conversation.”
+
+The Ruler of Greed leans back in her chair. “Diligence was pissed, he seriously wanted to leave you there, you know. There are so many attendees who could have used the space to explore, waiting, as you might say, in line. Your black mana destroyed the core of the Armory, and the explosion… even now, the resulting detonation is causing cave-ins all over the place, turning it into an excavation opportunity rather than a true expedition.”
+
+“They could have joined the event. The cowards who decided to wait until after it was done to take things slow and safely don’t deserve anything better.”
+
+“I know, right? This is where the two of us agree. But anyway, there isn’t as much as they could have gained. You yourself probably took the best there was to find.”
+
+“Before you say anything, I’m not giving them up or selling them to you.”
+
+“I don’t want them. They’re all yours.”
+
+“Good.”
+
+“Under one condition.”
+
+I narrow my eyes and protectively step in front of my beautiful hoard. “What?”
+
+“You’re accompanying me to a party in three days. Only after that will you receive the items.”
+
+Before I can say anything, she waves her hand, and I feel myself vanish. With just a small pile of undamaged clothes I have guarded with my life, and everything else left behind. I appear back inside the lounge of the Primordial Knights headquarters on the 4th floor. Weslin is sitting in an armchair next to me.
+
+When he sees me, he slides across the back of his armchair with a long sigh. “You crazy asshole, I thought you were dead when you didn’t show up.”
+
+“I was kidnapped. You should know a thing or two about that, you’d probably get along with my abductor. And what do you mean by crazy? You probably meant someone else.”
+
+“No, you crazy bastard, I meant you.”
+
+“Are you sure?”
+
+“I am. Why the fuck are you covered in so many wounds, and why the hell are you burning the chair you’re sitting on?”
+
+“I’m still healing.”
+
+“Oh, yeah, that extremely normal way of healing by burning yourself.”
+
+“Yes, it’s normal. Phoenix rising from the ashes, you know, that kind of thing. I just need a bit more to heal some internal damage, so it’s also slipping out of my control just a bit and spills over. If anyone asks, that chair was already burned. I’m not paying for it.”
+
+“Sure. What happened?”
+
+“I met Kaari.”
+
+“She was there? That’s not so bad, she’s quite reasonable from what I’ve heard.”
+
+“Lyraen was there too.”
+
+“Oh.”
+
+“Yeah, oh. What the hell is that white lightning of his? It’s scary.”
+
+“Something he managed to access through his wyvern bloodline.”
+
+“Not a dragon? I heard vyssari might still have remains of dragon blood.” I say.
+
+“Even a wyvern can scare the shit out of most Absolutes. If it were pure dragon blood, Lyraen would be a future Ruler, nearly confirmed. What did he do?”
+
+“He just floated there menacingly.”
+
+“As if. I only met him once, and that guy never stops working. Even when it seems like he’s just talking, he keeps creating his circles, fields, and arrays.”
+
+“Would your void work against his lightning?”
+
+“Huh,” Weslin mutters as the armchair under me finally cracks from the golden flames and collapses, dumping me onto the ground.
+
+He doesn’t let it slow him down at all. “In theory, it could, but even then, it would need to be much stronger than his lightning. And as much as I like to think I’m incredibly cool and strong…”
+
+He looks at me. Knowing what he wants, from where I’m sitting on the broken, burning remains of the chair, I nod quickly a few times in agreement.
+
+“…I don’t think I’d stand much chance against him,” he adds.
+
+“Not with that attitude.”
+
+“Fuck you.”
+
+“What happened, and how did Christoph manage to reach me?”
+
+“Well, Brich revived again and teleported away, probably naked since all his clothes, armor, and items were left behind. Even though he tried to hide it, I think Christoph was seriously pissed off. He… we couldn’t hold him back. Not even your sister. Did I already tell you that she’s very scary? Did Christoph find you, Kaari, and Lyraen?”
+
+“Yes. Nyssa was there too. Did he hurt Victoria?” I ask, my tone going serious.
+
+“She probably hurts herself more than anyone else ever could. She was fine, but he trapped us in the chamber. Morwag was there too?”
+
+“Hell nah, thankfully,” I quickly answer. “Even without him, it turned into a shitshow. Nyssa started playing with Kaari, Lyraen bombarded Christoph, who absorbed the presence, and all that crap. Oh, and the others called whatever was piloting Brich, the Wraith.”
+
+“That weird guy absorbed it?”
+
+“Or something like that. I don’t know what the hell he did.”
+
+“And survived more than one attack from Lyraen?”
+
+“Probably? I left them behind at the last minute, so some of them could be dead. I jumped through the arrays and grabbed myself some loot, only for it to be stolen and used to blackmail me. Weslin, I don’t like being blackmailed or having my stuff stolen from me. I worked hard to save these items. And why the hell do I have to guard Nyssa’s socks with my life?”
+
+Weslin looks down at me, blinking, while I sit on the pile of broken, burning chair pieces and throw a tantrum. For some reason, he shakes his head and mutters something that sounds a lot like, “And this fucker might be S rank one day,” though I probably misheard.
+
+“Nyssa is… well, you’ll learn. For now, just give her back her clothes, we’ll talk later.” With those words, he shoos me off, and without arguing, I head toward the garden where I first met Nyssa.
+
+Along the way, I find Morwag sprawled out in the middle of the hallway in a small pool of his own blood with a huge grin plastered on his face. Multiple guild members walk past, most of them ignoring him as if this were something entirely normal.
+
+I try to do the same, but as I pass near him, his hand blurs, snapping up like a snake, and he grabs my leg, forcing me to come to stop. Looking down, I see his huge smile spread across his face.
+
+“Newbie, take me back to the Ancient Armory. I shall fight, and I shall make that place my burial ground if need be.”
+
+“You fought against an overgrown, flying, cockroach looking bug, aren’t you ashamed of yourself for wanting to die against that? Now let go of my leg.”
+
+“The form of my foe does not matter! I shall find him again, and we will face each other in glorious battle!”
+
+“Good fucking luck, most of the Armory should be buried underground by now,” I say, kicking at his side with the tip of my shoe aimed at his ribs. “Let go,” I repeat.
+
+He doesn’t seem to notice the attack at all. Instead, his face twists in anger. “Buried! Taken from me!?”
+
+“Yeah.”
+
+“Who did this!?”
+
+“How the hell would I know? Probably the Ruler of Diligence. I heard he’s the type of asshole who would bury the place and leave people to die there while snapping his fucking MANDIBLES FROM GOD KNOWS WHERE, LIKE THE ASSHOLE HE IS,” I yell, my voice aimed straight at the ceiling.
+
+Then I kick Morwag even harder, and this time he finally lets go, lying back down behind me, demoralized, as I walk away toward the garden.
+
+Once again, I notice there are no guards anywhere, and right after, I realize just how dumb that thought is. As if she ever needed one. Nyssa is sitting on the bench near the citrus-scented broken tree, and when I walk in, she greets me with a small wave.
+
+I’m getting used to the pressure that radiates from her. This time, I make sure to calm my heart and even dismiss the lance I reflexively formed over my shoulder.
+
+“Here,” I say, dropping her clothes and shoes on the bench next to her. She checks them over before giving me a single nod.
+
+“Thank you, you did well,” she says, then looks at me. “Can I ask you a question?”
+
+“Sure.”
+
+“My senses aren’t all that sharp, but I couldn’t help noticing similarities in the way you use kinetic energy compared to the Lurker people call Whitey. Have you been studying him?”
+
+“His name was Lioren.” I answer, ”To simplify it, I ended up with his memories from before he died, and he taught me a lot.”
+
+A smile spreads across her face. “It still fascinates me how many strange things can happen because of the system. Thank you for your answer. I’ll make sure to remember his name. I met Lioren’s Lurker only once, but I still remember the grace of his movements.”
+
+“I have a question for you, too. If you think it’s too rude, you don’t have to answer.”
+
+“Please ask.”
+
+“Why do I feel so threatened around you? You’re just sitting there, and I don’t think you’re about to attack me, yet it feels like you’re pointing a weapon at me. Not to be rude, but I’ve met people stronger than you, and they didn’t feel this way.” I ask directly.
+
+“As if I were pointing a weapon at you,” Nyssa says with a soft smile. She rises and tries to put on her socks while balancing on one leg. She fumbles, wobbling a few times and nearly losing her balance, before finally tugging them on, and then slips into her shoes.
+
+Nyssa starts pulling her shirt back over the tank top and buttoning it up. “You have very good senses, Nathaniel. In a way, the threat you’ve been feeling is my fault, because I haven’t mastered my skill and all the ways it changes me. But I like you, so I’ll tell you.”
+
+Taking a few steps closer, she steps an arm's reach away. “If you tell anyone, I’ll kill you and everyone you hold dear." Nyssa tilts her head with a question, looking up at me with her pale red eyes with white mixed in.
+
+I confirm with a simple nod.
+
+"The skill I mentioned is called [Weapon]. Everything I hold can become my weapon, and by extension, even my body may as well be one. I have to be really careful not to hurt people without meaning to, and this might be the reason you feel as if a weapon is aimed at you.”
+
+"Thank you for telling me. Do you want me to tell you my skills?" I ask.
+
+Nyssa shakes her head and smiles. "Don't. It wouldn't be fair. You wouldn't be able to kill me if I were to betray your trust."

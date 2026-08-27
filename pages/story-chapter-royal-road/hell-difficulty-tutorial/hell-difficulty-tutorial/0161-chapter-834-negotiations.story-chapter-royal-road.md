@@ -1,0 +1,127 @@
+---
+id: ae5701f7-5816-5bd2-8abf-f8722b4fcb53
+page-type-slug: story-chapter-royal-road
+title: "Chapter 834 - Negotiations"
+slug: 0161-chapter-834-negotiations
+partOf: hell-difficulty-tutorial
+position: 161
+ownLength: 2484
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3586487/chapter-834-negotiations"
+royalRoadId: "3586487"
+---
+
+Standing there with the syringe in my hand, I feel my fingertips tremble. Even after all this fighting, I don't feel satisfied at all, and the final boss disappointingly just projectile vomited himself to death.
+
+But, isn't there an opponent I could still face?
+
+I squeeze the syringe and continue to stare at the text over Morwag’s head. His level falls into the level spread Champions usually have, though he’s obviously not quite a Champion yet. He also lacks a chosen or applied Primary class upgrade, he just hasn’t had time for that.
+
+Yet, I can’t help myself as I ask, “What now, Mormor?”
+
+The demon looks at me like he knows exactly why I’m using that nickname, but he doesn't let me provoke him, as he gives me that demonic smile of his.
+
+He doesn’t make it easier at all. "Why would I be so stupid as to challenge you now, before I’ve even gotten my primary class upgrade? If you want to fight, go on, challenge me. I’ll entertain you then."
+
+It is clear he wants me to attack first if I want a fight, to show that I am the one who lacks control between the two of us. Then, even if he loses, he can look down at me somewhere in the back of his mind. Otherwise, he’ll gather all he can and challenge me when he is more confident in his ability to win.
+
+It’s annoying. I can control myself, and pushing the impulse away is easy for me. I’ve met too many powerful people I wanted to challenge and didn't, solely to avoid ending up as a pancake against the wall, to not have my urges under control. But I don't want to, I really don't want to do it now. I also don’t care too much about what he or anyone else thinks of me in the back of their minds.
+
+Yet, just like Morwag, I also have a few things I can improve upon before the fight. Trait strengthenings, passives, and a few more.
+
+“Tsk,” I just let out and turn around, putting the syringe away as a new series of thoughts go through my mind. “So, how many arcane items do you think we’ll be able to loot from all these thousands of dead lurkers?”
+
+I only have time to grab Calvorn and start looking around for things to loot before I appear in another place. There’s no sense of being moved and no disruption in the flow of mana around me. I am just somewhere else.
+
+This display of teleporting someone like me is something I still consider terrifying, as there is no defense against it, not as I am now.
+
+We appear in Ruby’s usual never ending space with a black floor and a myriad of bright stars and nebulae filling the sky. Even her trusty old wooden table is there, and she sits behind it.
+
+Next to that table, a huge black ant stands with Zant beside him, holding onto one of the chitin legs like a child would hold a parent’s arm.
+
+I almost squeak like a girl at that adorable sight, but then I notice another person behind them. The Ruler of Envy is here as well for some reason, sitting in a huge white marble throne that seems to have been broken apart and pieced back together with what looks like molten gold. He is smiling shamelessly and even waves to me.
+
+Unlike my usual meetings with them, this time, Morwag, Weslin, Savant, and Brich are here as well.
+
+I confirm that the rest seem safe, though they appear to have been beaten down a bit. This is especially true for Brich, who’s currently missing a leg and an arm as he weakly rests against Weslin, who is terribly burned in places, but gesturing to me that he’s okay. Taking a few steps, I hand Calvorn back to Brich, who looks at me with a bit of confusion and then at the weapon. He then nods once. Savant looks to be in better condition, but I can barely sense any mana from him, though it’s hard to say how much he still has stored in his Sword of Aeons.
+
+“This,” I begin, speaking first towards Diligence, “is too much. Are you planning to take all these items from us…”
+
+“Silence,” the Ruler of Diligence says, and no more words come out of me. My hand shoots up quickly, and I touch my lips, which are gone, along with my mouth. Instead, I find only smooth skin.
+
+I look at Ruby, whom I’d hoped to rely on, so I could be a bit more annoying, max out my rewards, as I’ve come to expect Diligence to try to reduce them.
+
+But Ruby just smiles widely. “You can’t be too angry at him,” she says gently towards Diligence. “This time, it was mostly that demon. And even then, what happened was within the stated rules and allowed probabilities. And he’s mine, so don’t do that.”
+
+As she says this, my mouth returns to normal. But I, being the smart boy I am, decide to stay quiet for now.
+
+The huge ant’s compound eyes look like he is staring at everyone at once as he says with a slightly annoyed tone, “I do realize that. Yet, why is it that when something like this happens, he always has his fingers in it?”
+
+“Just a coincidence,” Ruby waves it off and turns to the rest of us. “But it is rude, isn't it? You have to excuse him, though. DiliDili isn't good at dealing with people. I am the Ruler of Greed, if you haven’t figured that out yet, and this oversized, antagonistic home pest is the Ruler of Diligence. The little bitch sitting on his pathetic throne is Envy.”
+
+It is fun to watch the reactions of the others. Though it is a bit surprising, it makes me realize that meeting a being most of the system considers akin to gods isn't the least bit normal.
+
+I can’t wait to meet Sophie’s disciple, Deva, and tell her about all the mythical beings I’ve met since last time.
+
+Even after hearing what Ruby said, Envy continues to smirk from his throne. "My heart aches in pain, but I forgive you. I do realize it’s hard to ever find yourself in a decent mood when you spend every morning crying about the death of your master and promising to avenge her. Oh, I apologize! Maybe I shouldn't talk about that long dead fossil in front of you! It might bring back sad memories."
+
+Ruby gives him a nice smile. "Wow, you seem to be in a really bad mood. Is your ass still sore after you recorded yourself getting it kicked in by a mere crippled imitation that was holding back the whole time? Oh, I apologize! You were just too fucking braindead to use the main defensive array properly and let said mere imitation take control of it."
+
+"Hohoh," Envy smiles and licks his lips. "Maybe I really struck a nerve, you seem... distressed. And a fun fight that was, wasn't it? I would like to see you fight it yourself. At this point, aren't you multiple times older than she ever was? So why are you still so weak? Aren't disciples meant to surpass their masters? Oh, I apologize! That ancient fossil seemed to have been a terrible master. What would she have taught you other than how to search for homeless bums to try to kill Him? Are you still scared after you challenged Him, got your ass kicked, only for Him, for whatever reason, to leave you alive?"
+
+"Hahaha," Ruby laughs as well, her face seeming even gentler. "I think I know why you’re in such a bad mood. You must be nervous because of the other Masters of Envy. Even as a Ruler, your abilities seem fairly pathetic. I think any of them could probably kill you at any moment. There might even be a few Adepts capable of that, judging by the way you handled the array! It must be tough for you. But hey, maybe you’ll be kind enough to record your death for all of us to watch forevermore!"
+
+Before either of them can say anything more, it’s Diligence who taps the tip of his chitin leg on the floor, letting out a clear ringing noise. "The Ruler of Envy is allowed to be present, as is the Ruler of Kindness and the Ruler of Wrath if they should wish it, but I must ask you to maintain at least some semblance of decorum. The same goes for you, Greed."
+
+Envy is still smiling, while Ruby removes the gentleness from her smile and lazily turns back to us, gesturing for Diligence to take over the conversation.
+
+And the huge ant does just that, " The lurkers of the first floor are each set by us to stop reviving after a thousand years to prevent overpopulation. Such a timeline allows for a gradual exchange, always keeping somewhat similar numbers of lurkers on the floor. But currently, all of them are dead. Also, currently, all of their items are spread all over the first floor," he says.
+
+He looks as if he is challenging me to say something, but I stay quiet, and no one else says anything. Weslin, Savant, and Brich still seem a bit amazed by the sight of the beings in front of them, while Morwag just seems to be thinking about how he would go about fighting them.
+
+Diligence continues, "Such a number of items flooding the market would ruin not only the first floor's economy but eventually the economies of the other floors. This is especially true with so many of them currently lying around for anyone to simply pick up off the ground. The fact that there will be no lurkers at all for an entire year also ruins the normal settings of this floor, all the possibilities for training or item gain. Of course, all of this is still within the purview of what’s allowed, and no one can blame you for taking the opportunity, as much as it might be annoying."
+
+These last words sound like he’s saying them more to himself as he takes a short pause. "The Rulers currently in charge of this cycle will work on speeding up the lurker reanimation process, even if it means interfering with the body."
+
+"Are you sure?" Ruby asks him. "Messing with it doesn't sound like a good idea."
+
+"I’ve already made the calculations, this much interference should be fine," Diligence answers her.
+
+At that, I finally cough, turning their attention to me. "I think we have a right to know," I say
+
+"Do you?" Diligence seems about to take a step toward me, but stops only after glancing down at Zant, who stands there with the kind of perfect manners only he can manage. "At least acknowledge it’s just to satisfy your curiosity and a desire for information you could abuse," the ant says.
+
+"Aren't you a crafter or something? You should understand curiosity," I shrug.
+
+Weslin, standing by my side, whispers, "Maybe we shouldn't annoy someone who could very easily destroy your entire planet."
+
+In reaction to that, Ruby just snorts. "You would need to do something much worse for him to do that. And hey, why shouldn't they know a little? We can consider it a small addition to their rewards."
+
+"Do whatever you want, but stay within the allotted information limit," Diligence answers.
+
+"Sure, sure," Ruby waves her hand. "What lies at the center of the first floor of Beyond is the body of a god. There are a few more, spread through certain dungeon floors in locations I won't tell you about. These bodies were used long ago as a base to create the First Dungeon, maintain its structure, and other things I won't bore your tiny brains with. You wouldn't understand anyway. We Rulers later went on to use some of the bodies to help with the creation of Beyond, so you can thank us for that. Dead people reanimating on the first floor is just the tiniest side effect caused by the mere presence of that body, even with all the seals we’ve set in place. That seriously dumb Dhampir was getting dumber and dumber as he kept trying to drink that body’s blood, and after all these reanimations. He even tried using the tiniest part of that tiniest of side effects to control the lurkers. His talk about reviving the great one was honestly as sad as it was amusing."
+
+She pauses, letting us take it all in. When she continues with a smile, she is looking at me. "Well, I guess he will continue trying to do that all over again once we reanimate him to return the floor to its previous state. Hey, maybe you can kill him again..."
+
+Ruby doesn't get to finish as Diligence hits the floor with his chitin leg, and she just pauses.
+
+"Anyway," she says, "where was I? Oh yes, the bodies of certain gods whose names I won't tell you because Diligence would get angry. They remain in their old forms because they are useful in that state, even though most of the other gods had their beings shattered into fragments..."
+
+"This information will be deducted from their rewards!" Diligence shouts as he interrupts her again.
+
+"Oh, come on. The sword already knows about all that. His master was experimenting by taking this as inspiration!" Ruby defends herself.
+
+"Yes, my master is very smart and powerful. He did all of that!" Calvorn shouts as well happily for the first time since we came here.
+
+To all of that, Envy chuckles in the background, "I propose killing all of the present attendees to erase the information the Ruler of Greed has just shared with them beyond the allowed information limit."
+
+"Rejected, there are no rules that require that," Diligence immediately reacts, "But yes, their rewards will be reduced by a small amount because of the information the Ruler of Greed has just shared. Do you agree?"
+
+"I’m fine with that," Ruby just says lazily from her chair.
+
+"We are not fine with that, right, boys?" I turn to the others, but they stay quiet, not even protesting. "Boys?"
+
+Diligence takes that silence as an answer and continues to talk while ignoring me, "Let’s get to the negotiations."
+
+He taps his leg, and Lily appears by my side. She looks around wildly, clearly confused as the ant continues to speak. "Attendee Lily will be participating in the negotiations as well. And if her Handler, the other healers, and Kindness are not willing to step in, I will discuss with her the dangers she poses to others in Beyond by using her abilities in the manner she has."

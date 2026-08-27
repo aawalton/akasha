@@ -1,0 +1,143 @@
+---
+id: 92080218-3cfe-5316-9ce6-03683e8df3eb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 722 - What the doctor said"
+slug: 0047-chapter-722-what-the-doctor-said
+partOf: hell-difficulty-tutorial
+position: 47
+ownLength: 2145
+unit: words
+publishedAt: 2026-01-05
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2915446/chapter-722-what-the-doctor-said"
+royalRoadId: "2915446"
+---
+
+All of us stare at Savant, who simply stares back. His eyes turn toward Vega resting against my chest, then to the rowdy bunch of kids. At least the dagger stays quiet, shut tight like it’s scared of this man. I notice it hasn’t trash-talked me either. Smart thing, I was fully ready to throw it into the water to let it rust or rot or whatever.
+
+“Yo,” I greet Savant.
+
+“Hello,” he answers while entering the house and walking straight into the living room, which already starts looking crowded. “Can you heal me? I think I got infected as well,” he says, directing his words toward Lily.
+
+Without even moving from her spot, Lily furrows her brow a little. I feel the faint movement of her mana brushing against Savant. Then she says simply, “Done.”
+
+Everyone in the room goes silent, so quiet that Lily shifts, clearly uncomfortable. “W-what? I’ve already removed it twelve times, and I changed the formula so I could do so across a wider area. With a proper [Sacrifice], I could probably channel it through a small city block all at once.”
+
+“I see,” I nod, then look at Savant. “Is that normal?”
+
+“Nothing about how she heals is normal,” he says. “Aside from that, while you two were busy with whatever this is, I’ve been examining the barrier and this place we’ve found ourselves in. I absorbed portions of the virus at multiple stages, along with part of the barrier for examination, and checked a few locations. I think I’ve more or less pieced things together.”
+
+“It’s the barrier, right?” I ask.
+
+Savant opens his mouth, then closes it again.
+
+“Your eyes prove themselves useful at times,” he says. “Yes, but not exactly. I suspect the illness originally came from somewhere around here, but later, after the barrier was created, it was modified to promote mutation in the illness.”
+
+“To make it more deadly?” I ask and watch the small human girl pass by him to grab some food from the table. While she does, I notice her slipping a few extra bits away, hiding them in what looks to be dozens of pockets stitched all over her clothes.
+
+“That’s something our healer should be able to answer soon,” Savant says.
+
+At that, we all turn to Lily again. She gestures for the human girl to come closer, then offers her another piece of fruit. The girl snatches it fast, silent as a shadow.
+
+Lily says, “I have my suspicions, but I’m not sure yet. I think some people would survive even without healing, and the coma would stop after a while. Many of the low-level ones would die of hunger or thirst, but not directly from the illness itself.”
+
+“But even if the coma ended, the illness wouldn’t disappear completely, right?” Savant asks. When the little thief walks past him again, he stops her, holding out his hand and saying, “Give it back.”
+
+She freezes, staring up at him with big eyes, but Savant doesn’t move an inch. The girl digs into her many pockets, pulling out mana stones, crystals, and bits of metal, which she returns to him. Savant takes them, then turns to Lily again.
+
+“I don’t know,” Lily answers his question.
+
+I look at him. “What do you think?”
+
+“I think someone grew the original virus in a lab for whatever reason. Then the Magistra noticed it and, instead of dealing with it, decided to use it. She and the others released it, built the barrier, and made changes to let the virus develop further using what they found in the lab. The goal is likely to make it seem as though the virus was cleansed, when in fact they only intend to make it dormant and undetectable to the few healers this planet has. Then they would’ve removed the barrier, let the people leave, and infect others with the new strain. We were probably invited here so no one would suspect them, and so they could develop it further.”
+
+“How cowardly!” the noble demon boy interrupts, “Magistra Elaren is known to hate demons, but to take it to this pathetic extent? She should have just challenged and killed as many of us by herself as she could!”
+
+My minion’s rival shakes her head, “Even among the people of this kingdom, she’s not very well liked. If she went around killing thousands of demons without a reason, one of the Absolute’s enforcers would notice and deal with her.”
+
+I tap the head of the minion in my lap, “Minion, who are the Absolute’s Enforcers?”
+
+“I have no idea, master.”
+
+“I guess it doesn’t matter then. You can always let your minions deal with these kinds of things. But minion, you should still try to pick up a little on your own, at least while you are still weak.”
+
+“I will!”
+
+“You!” a strong voice interrupts, stopping all conversation. It is my minion’s rival, pointing a finger at me. “You are nothing like what she told us about.”
+
+“Am I not?” I ask with a tilted head.
+
+The girl, who seems to be a noble like this demon boy but is trying to hide it, shakes her head vehemently. “Firstly, she said you are the most handsome person we would ever see. That is not true. Even this man, who just arrived, is better looking.”
+
+Catching the stray compliment, Savant lifts his eyes from his hand, the same one he was already drawing on with mana-conductive paint. His long black hair flows down from his head, and his clear green eyes look at her curiously. The demon girl even blushes slightly at that.
+
+But she doesn’t stop. “All these nice things you did for Vega, she told us about them. Handsome, strong, caring, just like a demon prince from the stories. I really wanted to see what you would look like. Meanwhile, here you are, just like her.”
+
+“Fight me to the death! I won’t let such an insult to my master pass!” Vega shouts, and I hold her in my arms, covering her mouth, causing her to mumble something into the palm of my hand.
+
+Turning to my minion’s rival, I shrug. “Don’t think I’m not taking things seriously, Teeka. I do. I just don’t see any reason to be so somber and serious all the time. I had enough of that before the tutorial. I like to enjoy the small things in my life as they come. Things like bullying my cute minion.” As I say that, I keep Vega’s mouth covered but use my other hand to tap on her tiny pointy horns.
+
+My grand-minion faces me for a bit, and I calmly return her gaze until she looks away while mumbling, “My name is Tykka.”
+
+“Tykka, I think he’s cool! He has multiple hearts, just like the Hornless Demon!” the noble boy calls out, standing up with a swift movement. “Cool for a human, of course,” he adds with a bright smile.
+
+“You, sit back down,” I say.
+
+As quickly as he stood, he plops back on his butt. I let go of my hand from Vega’s mouth. “Vega, you said the girl with the dagger is your first minion, healer, cook, and something else, right?”
+
+“Liira also deals with finances, so we don’t get scammed. Tykka and Tami have no idea how much things are worth and tend to pay ten times more than they should, and Mini would just steal any money she got,” Vega says happily. “Liira is also good at talking to people without insulting them, so they don’t want to fight us all the time. She’s really good at coming up with excuses and acting innocent. She also cleans the house sometimes because the others are lazy, and…”
+
+“Okay, okay, what a sad girl,” I say, gesturing at the blonde half-demon with the dagger. “Are you okay with that? I can tell Vega to stop.”
+
+"It's okay. I owe her my life." This is the first time I hear Liira speak, and her voice sounds more mature and responsible than all the others combined.
+
+“If you say so. But Vega is dum… silly sometimes, so she doesn’t always notice things as she should. If it gets to be too much, or if you want something, tell her directly. She’s a good girl in the end. Also, I heard you’re a healer. Is that true?”
+
+“I can heal a little, yes.”
+
+“Good. Lily can show you a trick or two while we work on my plan. Can you?” I turn to Lily.
+
+“No problem at all,” the tiny bulldozer smiles. “But Nat, you have a plan?”
+
+“Yup,” I say simply, “In the end it’s obvious, and the fact that Alfalfa Fennel-Tart Velveeta Corndog Del Muffin en Lint Asphalt Valhalla Macarena is still outside proves I’m right.”
+
+“I have never in my life heard a name butchered so much. You know it’s Albaris Fen’Thane Vel Corin Del Vassel en Lys Aster Valcour Miradine,” Savant says from the side, clearly trying to pick a fight.
+
+I ignore him, and I lean back in my chair, petting Vega on top of her head like she is some evil lair master’s cat, and explain to the kids gathered, “The lab belongs to Magistra, and someone destroyed it before the virus was ready. So she and the two other Champions made a barrier that she modified to slowly finish the work, assuming that wasn’t always the plan. Maybe the other Champions are gullible, or maybe they’re in on it. Next, she sent in some of her spy ops, submitted the beyond quest, but make no mistake, every one of these people is an acceptable sacrifice to her, so she can distance herself from this. That’s why she also abandoned that six-legged rat. She couldn’t find a better healer to work with, so Lily, being one of the best healers in Beyond at the moment, is here so Magistra can observe her final work and modify the virus further.”
+
+“That’s a lot of assumptions,” Savant says without even lifting his eyes from his hand as he continues painting his inscriptions.
+
+“I could be wrong about a thing or two, but that should be the gist of it.”
+
+“Before you do anything rash, we can still spend a few more days trying to confirm that theory,” he says.
+
+“Sure,” I answer back to his obvious surprise. “Let’s be patient, right?”
+
+I stand up and set my minion back on the floor before moving onto the bench next to Savant and putting my arm around his shoulders. “Savi, we’re buds, right? Old rivals, friends even! Just remember all the memories we’ve built together and all the times we tried to kill each other.”
+
+“Stop touching me. What do you want?”
+
+“Come on, Savi, I know you’ve got some mana hidden away, a lot of it even. Honestly, a scary amount. You’re sitting there pretending like you’re tapped out, but I can smell it. It’s got this faint tingle to it, like ozone.”
+
+“You can’t smell mana,” Savant says.
+
+“Oh, yes, I can. It’s a gift. Or maybe a curse. Either way, you reek of it. Don’t even try to hide it. I just need a little bit of mana, that’s it, I swear.”
+
+“I’m not hiding anything. I’m empty.”
+
+“Empty? Ha! That’s exactly what someone with too much mana would say. I know you have some. Really, just a little bit, Savi. Just a drop... though all of it would work better.”
+
+“You’re ridiculous.”
+
+“Ridiculous and suffering from severe mana deficiency, that’s what the doctor said, right?” I turn to Lily.
+
+Taken aback, she quickly regains her composure and nods a few times.
+
+I turn back to the man. “Don’t make me start sniffing around like a truffle pig, because I will. And it won’t be dignified for either of us.”
+
+“How can you sense it?” Savant asks, dropping the drawing and looks at me after pushing my hand away.
+
+I let the golden circles of my Mana Wavelength Iris glow in the dimly lit room. “I have good eyes. I can see the Sword of Aeons and where it’s been absorbed into your body. And even though you’re trying to hide it, I can see the amount of mana you’ve got stored away in there. Did you naturally generate it over a long time and store it, or did you come up with a new way to absorb others' mana and keep it there?”
+
+For a long moment, he seems to think before ignoring my question entirely and asking, “What do you want it for?”
+
+"It’s simple, really. We’re going to break the barrier and make a show so big that the Absolute shows up to check it out, hoping for a good fight. Trust me, Savi, I know demons. That asshole will come running."

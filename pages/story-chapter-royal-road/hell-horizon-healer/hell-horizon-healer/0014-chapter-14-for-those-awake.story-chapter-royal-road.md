@@ -1,0 +1,215 @@
+---
+id: 32cd63fd-ac9c-5b96-9d18-2102f745bf0b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14 - For Those Awake"
+slug: 0014-chapter-14-for-those-awake
+partOf: hell-horizon-healer
+position: 14
+ownLength: 1808
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3530489/chapter-14-for-those-awake"
+royalRoadId: "3530489"
+---
+
+Susan Pov.
+
+The cave smelled sweet, but Susan only smelled Jerry’s blood on her clothes.
+
+She sat in the dark.
+
+Her back was pressed against the cold limestone wall, her fingers wrapped tight around the dull screen of her dead phone. The picture of her homescreen—of her family—a distant memory.
+
+Everyone else was out cold, buried deep under their grass beds and duvets. They were breathing in the heavy, oily perfume of the forest.
+
+The air made them soft. It made them forget about Floor 7, the shattered hallway, and the things that had butchered their families.
+
+Susan refused to forget.
+
+Anger was something she fed like a fire, using the burning grief to fight off the heavy, numbing drowsiness pulling at her limbs.
+
+Going back to the apartment was out of the question. Normalcy was a joke. Normal was dead, rotting in a waterlogged corridor somewhere behind them.
+
+A blank stare was all she had for the pitch black of the cave mouth, her mind drifting back to her husband.
+
+Surviving wasn't the goal anymore. The new plan was to become a monster—an engine of violence that would rip through anything responsible for taking her world away. If leveling up like a video game was the price, fine. The blade would carve its way through every magical door until there was nothing left to kill.
+
+Her eyes drifted across the dim embers of the campfire, landing on the darkest corner of the recess.
+
+Jake was sitting there. His posture was rigid.
+
+He wasn't asleep either. His chest moved in a strange, mechanical rhythm—four seconds in, four seconds out. She could tell from his stillness that something had alerted him.
+
+Through the shadows, Susan met his gaze. Neither of them spoke. They didn't need to.
+
+Susan went completely still. She slipped her phone away, then tightened her grip on the cleaver until her knuckles throbbed.
+
+Forgive me, Henry, my children, for the thing I am about to become.
+
+***
+
+Jake Pov.
+
+The oily sensation in his brain was still trying to drag his thoughts into the mud.
+
+Then, the stench of the intruders cut through the fog like a knife. It was heavy. Rotten.
+
+Dozens of small, distinct footsteps were moving through the moss outside, tightening a massive circle around the cave mouth.
+
+He nodded to Susan.
+
+Jake slid across the hard floor of the cave and reached Sloane. He clapped his hand over her mouth, forming a tight seal. Her eyes snapped open, a muffled groan dying in her throat as Jake pressed a single finger to his lips.
+
+He pointed toward the darkness deeper in the cavern. She understood right away, her gaze hardening.
+
+They tried to wake the rest. But whatever was in the forest air had hit Lyle, Chloe, Edwin, and Glenn the hardest. They just groaned, wanting to go back to sleep.
+
+There wasn’t enough time.
+
+Jake urged Sloane and Susan into the shadows, hiding behind what little cover they could find in the deep recesses of the cave.
+
+It wasn’t long before the monsters revealed themselves.
+
+They were small and green, licking their lips as they spotted the sleeping humans like chunks of raw meat. Each step was muted. If it weren't for the rustling bushes outside and the heavy stench, Jake wouldn't have known they were there. They moved as quietly as mice.
+
+Jake’s heart galloped like a trotting horse.
+
+He caught Susan's eye across the cave.
+
+Not yet, he thought.
+
+He needed the goblins further in. Attacking now would leave his group wide open. The timing had to be perfect.
+
+The goblins stepped deeper into the cave. Most of them were small, scout-sized creatures, but three larger variants walked in the center of the pack. They stood a head taller, their muscles coiled tight.
+
+Not yet...
+
+Just as the line reached the sweet spot, the monsters stopped.
+
+The leading goblins grinned, pulling round objects from their pouches. Jake smelled burning sulfur. Faint embers were tied to their waists. They brought the round objects to the embers, and fuses sparked to life.
+
+Jake’s breath hitched. Bombs.
+
+One goblin was quicker than the rest, eager to see the carnage.
+
+Realizing he had to act immediately, Jake summoned Gutter-Tooth. The heavy iron chains materialized around his forearm with a faint metallic clink. The sharp sound drew every goblin's attention at once.
+
+It was too late.
+
+Jake snapped his arm forward, launching the scythe. The weapon flew true, driven by the mechanical line of his Tension skill. The blade sliced clean through the eager goblin's wrist.
+
+The severed hand fell. The bomb tumbled with it, bouncing straight back into the middle of the goblin ranks.
+
+A blinding flash of white and orange light erupted as all the fuses detonated at once. The explosion blew the cave into temporary silence. Jake went blind, his retinas burning with the static image of vaporized monsters.
+
+Thick smoke choked the cavern.
+
+Thanks to his high perception, Jake’s vision returned faster than normal. He didn't question the advantage. He just used it.
+
+The cave floor was a mess of charred remains and scattered limbs. The surviving goblins were completely disoriented, stumbling over their own dead.
+
+The thunderous blast finally jolted Edwin and the others awake. They scrambled for their weapons, blinking through the smoke in absolute horror. They were awake now.
+
+Four of the larger goblins stomped through the haze, mostly unharmed. The danger was far from over.
+
+Behind them, six archers raised shortbows.
+
+A volley of arrows whistled through the cave. Jake dove behind a raised stalagmite just as the projectiles pinged off the stone.
+
+Glenn grunted, a shaft catching him in the shoulder.
+
+Arthur bolted forward, raising his massive kiteshield. “Get behind me!”
+
+“Glenn!” Edwin snarled, nursing a fresh graze on his leg. “Shoot back!”
+
+Adrenaline took over. Glenn pulled back his bowstring, aiming through the smoke. Suddenly, a line of static raised from Chloe's direction—a stray spark of her magic interfering with the weapon.
+
+With a sharp snap, the bowstring shattered, lashing back and striking Glenn square across the face.
+
+Before Jake could process the mishap, another volley pelted Arthur’s shield.
+
+“Now!” Jake screamed.
+
+He bolted from cover, scythe in hand, lunging for the largest goblin. He ducked under a heavy axe swing, sliding on his knee across the wet stone, and raked Gutter-Tooth across the beast’s thigh.
+
+The monster went down.
+
+As it fell, its green hand latched onto Jake’s throat, squeezing hard to drag him down with it. Jake choked, but he didn't panic. He drove his knee straight into the creature’s groin, breaking its grip.
+
+Wrenching his neck free, he hacked the scythe into the goblin's throat.
+
+Blood geysered.
+
+He buried the blade deeper, forcing it halfway through the neck, when a stray arrow bit into his shoulder.
+
+A beat later, a second large goblin swung a spiked club at his head. There was no time to dodge. Jake threw up his left arm to take the brunt of the blow.
+
+The spikes tore through his clothes, and the sheer kinetic force lifted him off his feet, slamming him onto the stone.
+
+He tried to push himself up, but his left arm suddenly buckled with a sickening crack. Broken.
+
+Snarling in pain, Jake rolled violently to the side. The spiked club smashed into the dirt right where his face had been, fracturing the bedrock.
+
+Across the cave, Sloane and Susan were double-teaming another brute. Susan ducked a wild swing, then countered, burying her cleaver deep into the monster's thigh.
+
+The brute roared, grabbing her by the hair.
+
+Susan didn't flinch. She swung her cleaver upward, slicing her own hair off in a single stroke to free herself. Then she lunged forward, sinking her teeth deep into the goblin’s neck, ripping away a mouthful of flesh.
+
+The bleeding brute kicked her back, howling.
+
+The last big goblin charged straight toward Arthur’s shield line.
+
+The archers in the back were still a massive problem. Desperate for cover, Jake scrambled behind the carcass of the goblin he had just maimed, using the heavy body as a meat shield.
+
+Three arrows pelted into the dead goblin’s back.
+
+Jake used the distraction to strike. He drove the tip of his scythe straight up through the brute's chin, the iron piercing into the roof of its mouth.
+
+He needed to finish it. He wrapped his broken arm in the jagged links of Gutter-Tooth, using the iron-clad limb like a club to smash the beast's face.
+
+A shadow fell over him.
+
+Behind.
+
+Jake ducked another club swing from the second brute. He rounded the monster, looping the heavy chain of Gutter-Tooth tightly around its throat. He yanked hard, rotating his body so the large goblin was forced to stand face-first against its own archers.
+
+The archers hesitated, confused. Then, they shifted their aim toward Susan and Sloane, letting loose another volley.
+
+Jake couldn't look away to see if they survived. He had his own problem.
+
+With his left arm broken, he couldn't get enough leverage to choke the brute to death. The green muscles in the monster's neck were resisting the iron links.
+
+He needed more force.
+
+In the middle of the desperate struggle, his mind flashed back to how his skills worked. If Tension could be applied to iron links to find their maximum resistance, wouldn't human muscles be exactly the same? They were just ropes under stress.
+
+Without waiting for a system prompt, Jake turned his focus inward.
+
+He locked onto the physical lines of his own back, his core, and his legs. He clamped his jaw and manually tightened the chord of his own muscle fibers, forcing them to bunch up and contract around his broken arm.
+
+He didn’t know how he was doing it, just that he was.
+
+He pulled. Tighter. Harder.
+
+Controlled Breathing allowed him to hold his ground, squeezing every single drop of power out of his lungs. He threw the entire weight of his torso backward, stretching his muscle fibers to their absolute breaking point.
+
+He screamed from the sheer agony of the strain.
+
+With one final, violent wrench of his entire frame, the tension hit its limit. The jagged iron links cut straight through flesh, muscle, and vertebrae.
+
+The goblin's head tore completely from its shoulders.
+
+The tension snapped, and the world went beautifully slack.
+
+[Skill Gained: Pain Resistance (Passive)]
+
+Effect: Minimises pain.
+
+Jake threw his scythe at one of the archers, pulled, and went along with the force, throwing himself into the archers.
+
+He grabbed a goblin’s skull and pulled its hair back, slicing open its throat. A panicked archer released an arrow into Jake’s stomach.
+
+He grinned, then snapped the arrow and slammed his chained fist into the culprit's face, bursting open its nose.
+
+Jake sent a heal deeper into his stomach, then entered the centre of the goblin forces.

@@ -1,0 +1,135 @@
+---
+id: dc738601-112d-5f24-b157-7246109a0e92
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: Spoils"
+slug: 0007-chapter-7-spoils
+partOf: he-who-fights-with-monsters
+position: 7
+ownLength: 1770
+unit: words
+ownProgress: 1770
+publishedAt: 2019-07-31
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387329/chapter-7-spoils"
+royalRoadId: "387329"
+markedReadAt: "2026-06-29T19:04:00.623Z"
+---
+
+The idea of rifling through the pockets of a corpse filled Jason with disgust. Would the system just loot the body like it did with monsters? Corpse-robbing was a nasty business, but Jason had no idea what kind of place he was in, or how to leave it without being eaten. He was going need every advantage he could get his hands on. He thought about the snake back in the tunnel.
+
+“It won’t skin him, will it?”
+
+He took a step back.
+
+“Alright,” he said. “Loot the body.”
+
+“Where were you carrying all that? That's about eight-hundred coins.”
+
+The robes the wizard was wearing had vanished, although he turned out to be wearing a full set of clothes underneath. Jason pulled the robes back out of his inventory and held them up to examine. They were dark blue, but covered in the blood of their former owner.
+
+Item: [Robes of the Astral Verdict] (bronze rank, rare)
+
+Robes designed for summoning. (armour, cloth).
+
+Jason wasn’t ready to wear the clothes he took from a person he killed, especially when they were still wet with his blood. He returned the robes to his inventory and started searching about for something to cover the body. There was a fallen tapestry he dug out and laid over the corpse. Partly he felt it was the decent thing to do. Mostly, he didn’t want the body out in the open while he searched the room, always at the edge of his vision. He needed to find anything he could to aid his escape from this place and its cannibalistic inhabitants.
+
+He started by examining the magic circle in the middle of the room. It was large, around three metres across, the metal set directly into the floor. The lines were intricate and complex, like someone had started with a pentagram and gotten severely carried away. It was also damaged. Some of the metal had been pried up, other sections warped as if by great heat, although there was no indication of burning anywhere.
+
+The circle wasn’t useful to him, so he started going through the rest of the room. He started with the big desk the potions had been in. There were no more potions, but there were a few tins of healing unguent, which he took. Unlike the plain tins he got from monsters, these tins were branded with some kind of logo.
+
+“Greenstone Alchemy Association,” Jason read from the bottom of the tin. “I guess alchemy is a thing, too. Maybe I can pick up a crafting skill.”
+
+The rest of the drawers contained piles of notes and diagrams that seemed related to the magic circle. Oddly, Jason could read the individual words despite never having seen the language before, but they didn’t make any sense to him as a whole. From what he could gather they were on some set of magical principles, as arcane to him as high-end theoretical physics. During his brief stint at university he studied political science. Regular science had never appealed.
+
+He moved on, searching through toppled bookshelves and overturned tables. There were a variety of what looked like curios and display pieces, mostly tossed to the floor and broken, but nothing useful. He picked up a few of the books, flipping through the pages. There were a lot of them scattered around the room, their bookcases knocked over or even smashed. They seemed to be written in a variety of languages, but Jason had no problems reading any of them. Each new and unfamiliar text came as easy as if he’d been reading it his whole life.
+
+“That’s a little disconcerting.”
+
+Although he could read the words, that wasn’t the same as understanding it. Every book he picked up seemed to be about magic theory, making them as impenetrable as any advanced textbook from a field he knew nothing about.
+
+Moving a large, overturned table from where it had been tossed against the wall, Jason discovered a display cabinet with a glass door. Despite the table that had crashed into it, the cabinet was wholly unaffected, the glass remaining clear and uncracked. Inside were four books, each on their own small easel stand. Compared to the other books Jason had found, these looked more impressive, with intricately embossed leather covers.
+
+Trying to open the cabinet, he found it was locked shut. After a few attempts to break the surprisingly sturdy glass, he remembered the key ring he had looted from the dead body. Pulling it out of his inventory he discovered it was like a dungeon keeper’s key ring from an old movie; a huge array of keys dangling from a large metal hoop.
+
+Item: [Landemere Vane’s Key Ring] (normal rank, common)
+
+The keys for various locks throughout the Vane Manor, as well as personal keys for Landemere Vane’s possessions. A mixture of ordinary keys and magical keys. (tool).
+
+Jason looked over at the covered body laying on the floor.
+
+“Was that your name? Landemere Vane?”
+
+He sighed.
+
+“Sorry I killed you, Landemere. But you tried to kill me first.”
+
+He looked away from the covered corpse and focused on the task at hand. The keyhole on the cabinet door was quite small, so he tried the more delicate looking keys until the lock clicked open.
+
+The cabinet wasn’t very large but there were only four books in the entire case, set out for display rather than efficiency. The embossed leather didn’t have titles, instead bearing patterns like the magic circle on the floor. Jason took out one of the books at random.
+
+Item: [Astral Magic II] (bronze rank, uncommon)
+
+A magical book that can impart the knowledge of intermediate level astral magic. (consumable, skill book).
+
+Jason was familiar with skill books from video games that instantly gave out spells or special abilities. He couldn’t try this one because he didn’t meet the sizeable list of requirements.
+
+“Does that mean I can be a wizard if I find the right book?”
+
+Jason started checking the remaining books. From the descriptions the four books covered two different fields of magic, with one book at basic and intermediate level for each subject. Of the four books, Jason could only use one.
+
+Item: [Ritual Magic I] (iron rank, common)
+
+A magical book that can impart the fundamentals of performing magic rituals. (consumable, skill book).
+
+Reading over the description, he lingered on the requirement of being able to use skill books, which he apparently met. Remembering his character sheet he pulled it up and started looking through the listings under racial abilities.
+
+Ability: [Mysterious Stranger]
+
+“Language adaptation. Is that why I can read everything?”
+
+The ability seemed to give him the power to use skill books, along with whatever essences and awakening stones were. He looked at the book in his hand. According to its description it would give him knowledge. That meant it would alter his brain, but didn’t his ability to read weird languages mean it was already affected? Was it already affecting his decision making?
+
+For the time being, he stowed the books in his inventory. He could always look at them later. There didn’t seem to be anything else he could make use of, so he decided to take stock. He found an undamaged chair and table, setting them up as far from the body as he could. There were a lot of tables for one room, although it was a large room.
+
+After sitting down, he started pulling out the items he had picked up but not looked at yet, placing them all on the table. He began with the items he looted from the snake. Mercifully, the night scale leather wasn’t as drippy as the snake had been after it was skinned.
+
+Item: [Night-Scale Leather] (bronze rank, uncommon)
+
+The skin of an umbral mountain snake. (crafting material, leather).
+
+It was dark and matte, thick and cool to the touch. It was also surprisingly flexible. Like the snake, it was much longer than it was wide, coming out of his inventory rolled up like a traditional bolt of cloth. It was bound by a length of thick cord.
+
+“Did I loot the string from the snake too? That’s weird.”
+
+The snakeskin was listed as a crafting material, as was the dark quintessence, which turned out to be small black gems.
+
+Item: [Dark Quintessence] (iron rank, common)
+
+Manifested essence of darkness. (crafting material, essence).
+
+They had the look of uncut gemstones, but the shine of polished onyx. They even came with a pouch to hold them.
+
+“This is weird.”
+
+The rest of the items he received as quest rewards, mostly from quests he completed by accidentally braining the snake with a chunk of masonry. He thought the night fang would be crafting material like others he had taken from monsters, but it turned out to be a scary-looking dagger. It came in a sheath made of the same night-scale leather, which was also used for the dagger’s grip. It was curved in the shape of a fang, and drawn from the sheath, turned out to be made of bone. It had a wickedly sharp edge, tapering to a point.
+
+Item: [Night Fang] (iron rank, epic)
+
+A dagger made from the fang of an umbral mountain snake. The magic of the blade allows it to retain the power of the snake’s poison (weapon, knife).
+
+The knife even came with a belt of the same leather but there were no loops for it on Jason’s drawstring pants. He put it back into his inventory, along with the dark quintessence gems and the roll of snakeskin.
+
+The remaining items were both quest rewards for exploring the well. The awakening stone of stars was a smooth, rounded stone about the size of a fist. There were tiny speckles in the stone that seemed to move as he stared at it, although the effect was slight enough that it may have been his imagination.
+
+Item: [Awakening Stone of the Stars] (unranked, epic)
+
+An awakening stone that unlocks the power of the stars. (consumable, awakening stone).
+
+“Essence abilities,” Jason read. “Is that like magic powers? If I’m going to be dealing with cannibal wizards, I could use some magic powers.”
+
+The last item was the dark essence. It was a cube about 15cm to a side, with a glossy sheen like polished jet. It seemed to be made of the same material as the dark quintessence, and given the names, he assumed they were related objects. He picked it up.
+
+Item: [Dark Essence] (unranked, uncommon)
+
+Manifested essence of darkness (consumable, essence).
+
+“Are you what I need to get those magic powers?”

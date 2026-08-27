@@ -1,0 +1,273 @@
+---
+id: cf4b428f-1d9c-5895-921b-b9700804d867
+page-type-slug: story-chapter-royal-road
+title: "Chapter 977: Getting Complicated Fast"
+slug: 0044-chapter-977-getting-complicated-fast
+partOf: he-who-fights-with-monsters
+position: 44
+ownLength: 2895
+unit: words
+ownProgress: 2895
+publishedAt: 2026-02-04
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3013284/chapter-977-getting-complicated-fast"
+royalRoadId: "3013284"
+markedReadAt: "2026-06-29T19:05:23.248Z"
+---
+
+Bussinger looked down at the gold-rank essence users. Not long ago, she would have said that group, acting together, could have accomplished anything. Killed anyone, no matter how protected. Taken down the civic infrastructure of a nation. That many people, with that much power, was an invincible, unstoppable force.
+
+One man had taken them apart like stripping a gun down for cleaning. She suspected he hadn’t even tried that hard. It was well known that Jason Asano used stealth and skirmish tactics, avoiding direct battle, yet directly was how he’d engaged them. He and his alien minions had descended upon them like monsters plucked out of a nightmare.
+
+The forest of curse-levying shadow trees; the alien monster that had beams and shield like a spaceship. The mouth monster whose aura of world-devouring hunger was possibly more terrifying than that of its master. As for Asano himself, even the names of his powers were unsettling. Weight of Sin; Feast of Blood; Price of Absolution. Revealed by the System, they seemed plucked from the sermon of some blood and hellfire preacher.
+
+She now stood across from that man, with a line of what looked like corpses between them. She could feel their life force desperately clinging to existence. It was mirrored in the blackened flesh, clinging to their skeletons.
+
+“How do you do that?” she asked, gesturing at them.
+
+“Necrosis-inducing toxins, for the most part, exacerbated by curses to—”
+
+“I don’t mean how you physically did it,” she amended. “I mean, you were just some guy working retail once, right?”
+
+“Yeah.”
+
+“What do you have to go through that you can bring yourself to do something like this to people?”
+
+“I don’t think those lightning bolts you threw my way were intended to charge my phone, lady. Tell me you weren’t looking to have me be the one lying there.”
+
+She looked up, meeting his eyes then she ran to the side of the chamber, next to the discarded blast doors, and threw up. When she was done, she found Jason still staring at the bodies.
+
+“You’re right,” she said, her voice sounding like a confession. “I’ve never killed anyone before.”
+
+“You haven’t killed anyone now,” Jason pointed out.
+
+“It was always just monsters. It’s all I ever wanted, since I was a girl.”
+
+“All you’ve wanted since you were a girl was to kill monsters?”
+
+“My family is one of the old Network families in Zurich. We date all the way back to the first secret societies the Network founder created in Switzerland. For as long as I can remember, I’ve been obsessed with magic, and my family had the power to indulge me. Training, knowledge. Essences and monster cores, as soon as I was old enough. I reached silver rank only a weeks before your return to Earth. It was crushing to know that I’d missed the chance to use the Hurin training methods, having been raised on cores. Even then, I was able to use some of it to grow stronger. The focus on mastering each individual ability. It didn’t raise my raw power, but I learned to use it more effectively.”
+
+“You were certainly more capable than the others,” Jason said, gesturing at the line of bodies. “Is that why they chose you to get the resources to reach gold rank?”
+
+“After you left, after the transformation zones, really, the magic on Earth started to rise. Monsters started manifesting directly, no more proto-spaces. There are a few areas of high magic where gold-rank monsters spawn, now. It became a gold rush to harvest them, even if people were dying in the attempt. The nations and the magical factions have treaties over who gets to farm the monsters, but the Network factions get first pick. We have the grid, after all, and we’re the ones who detect them.”
+
+“And now Earth has more gold-rankers.”
+
+“Yes. And there are conflicts, but I never had an interest in fighting people. All I wanted was the magic, and to do some good with it. To fight monsters.”
+
+“Yet now you’re here, protecting the people who would strip mine the planet until holes start getting ripped in the universe again.”
+
+“I have no idea what you’re talking about.”
+
+“Is that so?”
+
+“Read my aura, I know you can. Tell me if I’m lying.”
+
+Jason took a long breath and let it out slowly, releasing his frustrations as he calmed himself.
+
+“If you don’t know what’s going on, why are you here? What did they tell you?”
+
+“That you were coming here to invade a Network facility.”
+
+“Oh. Yeah, that’s, uh, technically accurate. Do you know what they do here?”
+
+“What does that matter? If the Network started poking around the secure areas of the Asano Clan, what would you do?”
+
+“I guess I’d gather up my gold-rank friends and smack the snot out of them.”
+
+“I’d have preferred to negotiate. Unlike Amstutz, I do believe the footage of your battle in Australia was real. But what was I going to do once he started the fight? Not back him up?”
+
+Jason sighed.
+
+“From your perspective, I’m kind of the bad guy here, huh?”
+
+“No,” she said. “Not kind of.”
+
+“Do you know what a reality core is?”
+
+“Power unrelenting. They make the impossible possible. I participated in some of the fights over them in the transformation zones.”
+
+“Do you know why they’re bad?”
+
+“I know that you say they are.”
+
+Jason looked down at the debilitated gold rankers. Most were still too far gone to tell one from another.
+
+“Let’s walk while this lot pull themselves together,” he said. “Watching organs regrow is something best avoided. The process is juicier than you’d like. I’ll tell you some more about reality cores.”
+
+“You can tell me what you like, but you’ll need evidence if you want me to believe it.”
+
+Jason entered the tunnel, glancing at the spot where the blast doors had been removed. Bussinger moved to walk beside him.
+
+“I can probably arrange some kind of demonstration, although not right now,” he told her. “The issue is that reality cores natively exist as part of an underlayer of reality.  One that mortals — and most immortals, for that matter — aren’t meant to have access to. But I have some abilities, and access to a very good astral magician. For now, let me tell you what reality cores are actually for, and why removing them is very bad…”
+
+***
+
+The security room outside the mountain vault was large. It wasn’t designed for normal operations but to make a last stand when defending the vault. The intention was to have powerful weapon emplacements and defensive barriers for defenders, but they were yet to be installed. Now, Geneva reflected they likely never would be. As the chamber was large and unfurnished, Geneva carried in a stool from a nearby room.
+
+“Aren’t we going through the big round door?” Remy asked, jerking his chin at the vault. He’d largely recovered but was still looking pale.
+
+“We’re not,” Geneva said. “If we’re not safe here, do you think that door will stop him?”
+
+“No,” Remy said, fresh worry crossing his face. He didn’t bother to find something to sit on and slumped down against the wall. Geneva put her stool down in the middle of the room and primly perched herself upon it.
+
+“You know him, don’t you?” she asked.
+
+“Asano? No, I just met him once. Portalled him to Makassar for, you know. What happened there.”
+
+“Doesn’t Asano have portals of his own?”
+
+“Sure, but you have to go places the long way before you can portal there. It’s why I’m always on the move.”
+
+He looked around.
+
+“You know, I don’t think I’m meant to be in here. A portal specialist like me freelances across factions, so folks don’t let me in places like this.”
+
+“Yet, you were able to portal people right here. Meaning you have been here before.”
+
+“Well, I’m a specialist. I can’t fight worth a damn, but when it comes to portals, I can bend the rules everyone else is stuck with. If someone else has been to a place, I can use them like a beacon to target that location. There are conditions, and risk factors. I have to be careful with it, so I don’t like to do it that way. But when you’ve got to go, you’ve got to go, and you weren’t taking no for an answer. Although you’d have had to, if you’d told me it was Jason Asano coming here. I’d rather face you than him; I don’t care who’s backing you.”
+
+“I do appreciate you bringing the other gold rankers here, and with such swiftness. Thank you. I was expecting you to drop them close as you could and have them rush the rest of the way.”
+
+“Not sure what good it’ll do you.”
+
+“You think he can win against that many people?”
+
+“I think that if he can’t, he’s got his own people in the magic space station or whatever it is out there. But yeah, I think that…”
+
+He trailed off and shook his head.
+
+“Mrs Andros, how much chance in a fight does a bronze ranker have against silver ranker?”
+
+“None at all. What does that have to do with anything?”
+
+***
+
+“…enough reality cores are removed,” Jason explained, “then the transformation zones are going to start again. Transformation zones are scabs, grown over wounds in the skin of the universe. And if it keeps happening, it’s going to get worse until those wounds are too big to scab over.”
+
+“Then what happens?” Bussinger asked.
+
+“Then what’s on the other side washes in. Magic, raw and unadulterated. The Earth will stand up to that as well as a loose tissue in a hurricane. At that point, other forces will step in. It’s unlikely that it would cascade into full annihilation of the universe, although the solar system will almost certainly be gone. Possibly a good chunk of the Milky Way. Depends on how long it takes the Builder and the World Phoenix to intervene. If they end up in disagreement over what do and which one is in charge, it could take a while.”
+
+“And those are the great astral beings you were talking about? But that Builder is different to the Builder who made our universe.”
+
+“Correct. I covered all this in more detail in a briefing recently. Being a gold ranker, I imagine you’ll be shown it sooner, rather than later.”
+
+When Jason’s explanation came to an end, they still had a long way into the mountain to delve. He pivoted to questions he had for her.
+
+“That power you used on yourself to purge all my afflictions,” he said. “I’ve seen other powers that could do that, but not by hitting the person using it with lightning.”
+
+“Yeah. I’ve never heard of anyone on Earth with a power quite like it.”
+
+“Nor have I, and I’ve seen a lot more powers. It looked like the power harmed you while cleansing you.”
+
+“It did. The power is called Tribulation Lightning, which I only learned after the system arrived. Is it true that you’re involved with that?”
+
+She stopped dead, staring at the window.
+
+“It’s not that big a deal,” he told her.
+
+“You’ve made a fundamental change in how magic works.”
+
+“It’s more like how people perceive magic, than changing the magic itself. So, not a big deal, like I said.”
+
+“It’s still a change that affected everyone in the entire world.”
+
+“Cosmos,” he corrected.
+
+“What?”
+
+“It affected everyone in the cosmos, or at least the ones who can potentially use essence magic. I’ll look into expanding it once… it doesn’t matter. I have more pressing concerns right now.”
+
+The window vanished and they continued on their way.
+
+“I noticed something very unusual when you used that power,” he said. “I don’t think I would have, if I wasn’t part of this experimental program a priest I know is running on people. Would you be interested in getting involved?”
+
+“In human experimentation being carried out by a priest?”
+
+“Not just humans. He’s had me participating in doing surgery on people.”
+
+“Actual surgery, not healing magic?”
+
+“Healing magic was involved, but actual surgery, yeah.”
+
+“You have medical training?”
+
+Jason burst out laughing.
+
+“No,” he told her. “No, I do not.”
+
+***
+
+“I did a job for the Lyon branch,” Remy explained. “This was back when Asano had just returned to Earth the first time. Not many had heard of him yet. The Lyon branch had, not sure how, and they sent someone to kidnap him. A silver ranker, or category three, as they used to call them. Things have changed a lot since then. Silver rankers were more special. I guess someone in the Lyon branch saw it all coming and wanted their hands on the catalyst of that change.”
+
+“The Lyon branch had Farrah Hurin,” Geneva said. “That’s how they knew. And I would argue that she was as responsible for the changes to the magical world as Asano, if not more so. Most of the training that is now standard for essence users came from her, not him. And, if not for her work on the grid, there would be no facility like this.”
+
+“And what is this place exactly?”
+
+“I take it that then then-bronze-rank Asano managed to defeat the silver-ranker?” Geneva asked, ignoring the question. Remy shrugged and continued his story.
+
+“Sebastian was the silver ranker’s name. And no, Asano didn’t beat him, but he did almost kill him. Sebastian managed to grab Asano and hand him off, but he had to crawl into the local Network branch after, before he died from what Asano had done to him. By the time they healed him up, Asano had already freed himself and disappeared Sebastian’s people. He turned up in the Sydney branch director’s kitchen in the middle of the night.”
+
+“Where do you come in?”
+
+“Sebastian wasn’t working with the permission of the local branch, and the locals didn’t appreciate him kidnapping their interdimensional traveller. Lyon hired me to extract him.”
+
+“You broke into a Network branch?”
+
+“No, they suborned one of the leadership committee members. She even had a bomb put on a plane carrying Asano, for all the good it did. My job was to get them both out of the country.”
+
+“And did you?” Jason asked as he strolled through the door. “Miranda Ellis was never heard from again, after that.”
+
+Neither Geneva nor Remy has sensed the approach of Asano, or of the gold ranker who followed him through the door.
+
+“Did you turn traitor?” Geneva asked Bussinger. “Is that how Asano won?”
+
+“She’s a prisoner,” Jason said.
+
+“Are the others dead?” Geneva asked.
+
+“They’re alive,” Jason said. “More or less. They’ll recover. Now, Remy, I asked you a question.”
+
+“I didn’t remember her name,” Remy said. “She was awful, and didn’t last long. Sebastian hit her with a power and kicked her off a massive rock up in Kakadu. Her body could still be there, I suppose, but I imagine something ate it. If anyone missed her, I didn’t hear about it. Why do you even care?”
+
+“Because good people died in that plane bombing.”
+
+“You’re not going to blame me for what she did, right?” Remy asked.
+
+“No, but you should be more careful about who you associate with.”
+
+Jason narrowed his eyes at Remy.
+
+“That triggered more of a response than I was expecting.”
+
+“I don’t… I have no idea what you mean,” Remy stammered. Still sitting on the floor, he shuffled along the wall away from Jason.
+
+“And now you’re lying to me, which is not a good idea. Please bear with me a moment, Geneva. I will get to you, but I’ve stumbled onto an unexpected windfall here. Remy, when I said you should be careful about who you associated with, I felt panic spike in your aura like someone jabbed a live wire up your coit. Who have you been hanging around with that it would warrant that kind of response?”
+
+Remy’s eyes darting around the room, searching for an escape he knew was not to be found.
+
+“Sebastian,” he said. “The one who kidnapped you. I know where he is.”
+
+“I don’t care,” Jason said. “If I went after revenge over everyone on Earth who’d tried to kill, kidnap or otherwise forcefully exploit me, I’d have to wipe out every magical faction on the planet. And possibly a couple of countries.”
+
+“Which is what I think people are worried about,” Bussinger pointed out.
+
+“It’s not Sebastian,” Jason said. “I’ve gotten pretty good at reading auras. When Remy here said his name, it wasn’t a lie, but it had the feel of one. He does know where to find Sebastian, but that was a dodge. What is the name you’re afraid of me hearing, Remy?”
+
+Remy was a cornered animal, fight-or-flight painted in his wide eyes.
+
+“Give me a name, Remy.”
+
+“Marie Finnegan,” he said through clenched teeth.
+
+Geneva leapt from her stool.
+
+“What?”
+
+Jason looked from one to the other, then let out a weary sigh.
+
+“The branch director from Zurich?” he asked. “This is getting complicated fast. Shade, tell the others to come join us.”
+
+Shade rose up from Geneva’s shadow.
+
+“I am informing them now, Mr Asano.”

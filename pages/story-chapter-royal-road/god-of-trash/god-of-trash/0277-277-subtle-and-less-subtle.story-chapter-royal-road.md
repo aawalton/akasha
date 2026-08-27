@@ -1,0 +1,107 @@
+---
+id: 712bae8f-e96d-5d1e-9a4f-0d3cd4aa1dd0
+page-type-slug: story-chapter-royal-road
+title: "277. Subtle and Less Subtle"
+slug: 0277-277-subtle-and-less-subtle
+partOf: god-of-trash
+position: 277
+ownLength: 2284
+unit: words
+publishedAt: 2026-02-20
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3075803/277-subtle-and-less-subtle"
+royalRoadId: "3075803"
+---
+
+Rhys sat in the smoking room, immensely focused on the tiny thing he was crafting. At a distance, Ernesto had scanned as Tier 3. If he made these small enough, the man wouldn’t notice them, and if all went well, he might be able to pull off a double whammy on the Alliance. A true heist for the ages.
+
+He just couldn’t let anyone see what he was doing, hence the smoking room. He didn’t have a barrier technique, but mana senses (except for his) naturally deteriorated when they came in contact with impurities. The smoking room was usually hard to scan, and with a few choice additions of special impurities, he made it all but unreadable. Not completely blacked out, but so full of static and low-resolution that no one would bother looking hard enough to figure out what he was doing.
+
+If the inside of the smoking room was usually reduced from 4k to 720p in people’s mana senses, he’d reduced it to 180p, like a really old, very pirated 90’s or 80’s era anime where the pirates had to rip it from a DVD, or worse, a VHS, all striped with heat and speckled with the corruption of a thousand re-copyings, the audio desynced and the frames reduced to 5 per second. Really hard to figure out what was going on inside it, but not so opaque it would stand out as obviously hidden. At worst, someone might wonder what Norton was smoking to make it so bad in there, and if they managed to peer inside to see Rhys fiddling with something tiny with his hands, they’d just assume it was Norton playing with his salts and sugars again.
+
+There’s some really fantastic classics that have been demoted to trash because of that—because of old and bad piracy, Rhys mused, as he put the finishing touches on the first of many ‘plan 2s.’ There was one in particular about a tutu-wearing duckling-turned-girl, one of the foundational magical girls animes, that had almost completely fallen from the public consciousness due to it being hard to find and consume and nearly unwatchable in its pirated state. He felt a great mournfulness in his heart for that, even moreso than for the trash that was ignored because it had a flaw or two. The tutu-duckling truly was a masterpiece, and yet, it had fallen by the wayside and tumbled into the garbage just because none of the popular official sites had it, and because it had last been pirated in the early eighties, if the state of the pirated copy was anything to go off of. It didn’t deserve the trash treatment. It deserved the spotlight and adoration of the masses. But only the trash-dwellers like himself ever stumbled upon it, because no spotlight-seeking, masterpiece-watching normie would ever delve deep enough to find it.
+
+It wasn’t that he was special for knowing it. Perish the thought; that was a stupid way to be, and Rhys had rejected it with the rest of his cringe fifteen-year-old chunni self. No, what he mourned was that he couldn’t bring it up and get instant recognition at anime conventions, or speak about it with a casual friend and expect them to know anything about it, despite it being good enough that they should know about it. It was the sadness of watching dust gather on the Mona Lisa; of finding a lone recording of Beethoven’s 5th and knowing that no one but filth like him would ever hear it.
+
+There was no remake, no anime cafes, no tributes, no exhibitions. It had been forgotten. Before long, its name would be spoken for the last time, and then it would be truly dead.
+
+It wasn’t like that was the only one. There were many forgotten masterpieces. It was just that it was such a standout amongst the forgotten masterpieces that it made his heart hurt to know that it had been forgotten.
+
+He sighed aloud. And no one in this world will ever watch it, or any of the thousands of other anime I watched or manga I read. If there was one thing this world was missing, it was consumable media. His world had been overflowing with it, with more media than any one person could ever watch in their life. If one wanted only masterpieces, there were effectively infinite; if one preferred to peruse the trash, then the infinity of works available to one became meaninglessly larger. Sure, this world had books and large libraries, but most of the works were practical and focused on the progression of one’s magehood. Which made sense! It really did. But he couldn’t help but wish for the joyful slog of reading a truly trash work that maybe a hundred, two hundred other people had ever read, and finding the spots of light and joy that truly shone from within its filth. Some should stay hidden, like the one about assassinating people who were close simulacrums for actual members of the Japanese Diet with a one-man, one-kill aesthetic; some deserved more daylight, like the tutu-duckling one.
+
+And then he laughed, tossing the finished ‘plan 2’ into his storage ring. I think I’m probably the first person to ever go to another world and miss the utter depths of trash literature I used to have easy access to.
+
+There was a knock at the door. Rhys looked up. With mana senses that were a little more conducive to filth than most people’s, he could see the maid waiting outside the door, but nonetheless, he called out, “Who is it?”
+
+“Helene, with your breakfast, sir.”
+
+“Come in.”
+
+She opened the door, then coughed and waved her hand. It was fair enough; an ordinary mage would be highly sensitive to the impurities in the room, not to mention the lingering stink of smoke that even Rhys had to admit he didn’t enjoy. She held out the tray, and Rhys walked over and took it. He took a bite of the eggs, then froze. The maid hesitated as well. “Sir?”
+
+“The… the pepper. Where’d the spicy go?” Rhys asked.
+
+“Eh… huh?”
+
+It wasn’t poisoned anymore! His breakfast was totally impurity-free. In fact, it was even purer than a usual breakfast. He’d gotten used to the poison to the point that he’d even started to look forward to the added flavor component that it added. It didn’t harm him, either, so she’d basically just downgraded her recipe for no gain whatsoever on his part. He looked at her and gestured at the eggs. “The spicy! They were spicy!”
+
+Her face reddened faintly. Sweat dripped down her forehead. “I… I don’t know what you’re talking about.”
+
+“Sure you do! The spice. You put it in the eggs? I remember I saw it on your fingertips.”
+
+She retracted her hands sharply, hiding her fingers in her apron’s pockets and started sweating even more profusely than before. “A-are you sure, sir?”
+
+“Oh, absolutely. I really liked that flavor. Could you go back to the kitchen and put it on the eggs? Thanks.” He held out the tray to her.
+
+Pale and trembling, she took the tray. A thought struck Rhys as she walked away, and he reached out and snagged her shoulder. “Hey. Don’t kill yourself or anything, okay? I really don’t mind. It’s totally cool with me. There’s no need to do some historical drama bullshit just because I called you out, okay?”
+
+She grew even paler. The cutlery on the tray began to clatter, her hands were shaking so hard. Giving an empty nod, she stumbled away, almost as if numb.
+
+Rhys retreated into the room, but didn’t go back to work. Instead, he watched her as she retreated to the kitchen, where Lily waited. Standing in silence, watching absolutely everything with his mana senses, he could reconstruct what they said by watching their lips.
+
+“What is it?” Lily asked.
+
+“He said he wants his eggs spicy. He knows,” Helene replied.
+
+Lily paled. The two of them stared at each other in dread and silence.
+
+After a second, Helene added, “And he told me not to kill myself.”
+
+“He… wants to torture us to death personally?” Lily guessed.
+
+Helene looked down at her hands. She took a deep breath, clearly struggling, then nodded. “It’s all I can guess. Who knows what horrors await us if we try… that kind of escape?”
+
+Rhys flinched, taken aback. How did they get to that conclusion from him advocating against suicide? Mage logic was a little different from the logic he was used to, but that was a hell of a leap!
+
+“W-well, what can we do? Putting the poison back in is admitting that we were trying to poison him,” Lily said. Her lips moved, and it looked like she wanted to say something else, but held it back at the last second.
+
+Rhys squinted, then realized: she suspected-slash-knew he wasn’t Norton, but didn’t know what the result of telling Helene that would be. She’s really afraid of me, huh?
+
+“But he told me to. What happens if we refuse?” Helene fretted, wringing her hands.
+
+Lily thought for a second. At last, she took a deep breath and nodded, steeling her resolve. “We do it. He told us to. If he wanted us dead, he’d simply kill us already. Maybe… no. It’s best to assume that this is what he actually wants. If this is a trap, then there’s nothing we can do but fall into it… but like I said, he could kill us at any moment anyways. I really do think he just wants his eggs… what did he call them?”
+
+“Spicy,” Helene said.
+
+“Spicy. Give him spicy. Madame Tunk said to give him whatever he wants. If he wants spicy, so be it.”
+
+Helene paled, but nodded. She bowed. “It’s been an honor, milady.”
+
+“No, no. You—you should be safe,” Lily reassured her, hugging her. The two women clung to each other for a moment before they reluctantly parted, and Helene went to the cupboard, pressed a hidden button, and pulled out a small metal tin.
+
+Rhys rolled his eyes. All this drama for nothing! All they had to do was bring him his spicy eggs, and they’d find out it was all fine. Mage logic really was a mystery to him. Lower-tier and mortal-born mages were relatively rational, but noble mages born into magic? Rhys couldn’t even begin to comprehend what was going on with Lily and Helene. Even Madame Tunk had been a bit of a mystery, even if he’d eventually figured it out.
+
+Though, on the other hand… maybe I can use this trashy logic against them? Rhys pinched his chin. He thought for a few seconds, then shrugged. I can’t come up with anything yet… but then, I don’t know noble-mage logic well enough yet. Once I become able to easily comprehend noble-mage logic, then I’ll be able to build a logic trap. It’s foolish to attempt a logic trap while you don’t understand the form of the enemy’s logic! One must understand thine enemy, or whatever!
+
+Like most people who quoted Sun Tzu, Rhys had never read Sun Tzu. Though, to be honest, the only thing trashier than not reading Sun Tzu was reading Sun Tzu. He’d known a few of those kids in high school, and they were the most insufferable of all. Some of them were actual psychopaths, he was pretty sure, though not as good at it as the rare kid who read Machiavelli. The Machiavelli kids knew how to psychopath; the Sun Tzu kids were just fakers who thought they could psychopath. Wanting to be a psychopath wasn’t necessarily worse than actually being a psychopath, but it was more annoying. The real psychopaths were just trying to live their lives. The fake ones wanted everyone to know how ‘psycho’ they were.
+
+It was kind of his problem with philosophers all over again. To be honest, he just kind of hated fakers. It was a reasonable take, he thought. If you were going to do something, you should just do it. You accomplished nothing by faking something, but you accomplished a lot by actually doing something. And for some reason, fakers always wanted everyone to know exactly what they weren’t actually doing. It was just confusing to him.
+
+I guess if they were actually doing it, they wouldn’t need someone from outside to tell them they were doing it, whereas if they aren’t actually doing it, they seek that affirmation from outside because they know, inside, that they aren’t doing it. Whatever it is.
+
+He snorted. Pretty ironic that I hate fakers, but spend most of my time pretending to be other people. At least I’m not obnoxious about it, I guess… though it’d kinda ruin the point if I went around making sure everyone else knew I was faking being someone else.
+
+And then Rhys had an epiphany. Do I hate fakers because I always had to pretend to be normal? They were out there shouting about how cool they were for being different, while I was different (aka trash) and had to pretend to be normal just so I didn’t get bullied to death. I was jealous of them, and angry that no one appreciated actually different people, but only liked fakers who were just acting up to get attention. He nodded, slowly. Yeah. I think… I think that might be it.
+
+Well! Always learning. Sometimes learning about the world, or mage-noble logic, sometimes learning about myself!
+
+He turned his attention back to his plan 2. Introspection aside, he had a regime to fell. He could figure out his personal hangups after he’d toppled the Alliance.

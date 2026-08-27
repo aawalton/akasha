@@ -1,0 +1,203 @@
+---
+id: 376ba242-1e23-5933-81bf-3b43624c6ddb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 989: A Man Fought Monsters"
+slug: 0056-chapter-989-a-man-fought-monsters
+partOf: he-who-fights-with-monsters
+position: 56
+ownLength: 2721
+unit: words
+ownProgress: 2721
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3117208/chapter-989-a-man-fought-monsters"
+royalRoadId: "3117208"
+markedReadAt: "2026-06-29T19:05:49.390Z"
+---
+
+As a girl, Delia DeWitt had watched on television as a man fought monsters. People ran and screamed and died. There were heroes in brightly coloured costumes, but they were performers, there for show. They weren’t there to fight monsters but to be seen fighting monsters. It was the one draped in shadow who moved with passion and ferocity. A dark avenger, giving everything he had.
+
+Today, Delia was an essence user with the Global Defence Network. From the day she saw the man with the dark powers, all she had wanted was to be a warrior who fought the monsters. A hero who protected people. He had shown her that it was a dream that could be reached. Now a freshly minted silver-ranker, she had just been appointed the primary defender of Bangor, a small, Welsh cathedral city of twenty-one thousand. Along with a team of bronze-rankers, she was responsible for eliminating any monster threats that appeared in the region.
+
+While still nervous at the new responsibility, Delia was excited at the chance to live up to her childhood dream. To be the hero, standing against the tide. In this moment, however, that dream was rapidly becoming a nightmare.
+
+The manifestation had appeared on the grounds of the cathedral itself. The massive orb of rainbow light had appeared amongst the trees and torn them apart. The ground was carpeted in leaves, shattered branches and shards of wood, as if the trunks had been hit by a bomb.
+
+The grid had done its job, the monitoring station reporting the event to Delia’s team in plenty of time. By the time the monsters spawned from the manifestation, she was ready and waiting while the rest of her team were well into evacuating civilians. The readings from the monitoring station were of a silver-rank manifestation of mild strength. That meant one monster that was powerful for its rank, a small number with more moderate strength, or weaker monsters in a pack or swarm.
+
+The monitoring station was wrong. What emerged was a pack of iron lions, each a beast of living metal, the size of a small bus. Fast, agile and highly resistant to damage, one or perhaps two should have emerged from a manifestation of the reported strength. Instead, no fewer than nine of the monstrosities stalked out of the manifestation, the rainbow light gleaming off their metallic bodies.
+
+Delia had been ready. Not for that many who were that strong, but she had been prepared. Her power set came from the Gun, Swift, Trap and Skirmish essences, and was built around lacing a battlefield with traps. She would lure enemies into them with hit-and-run tactics before ending things with abilities that multiplied damage on trapped enemies. It was an approach that allowed her to fight effectively against larger forces, and why she was trusted to be the sole silver ranker in a remote posting.
+
+Delia had always pushed herself to be better. To master her powers and hone her skills into the best monster hunter she could possibly be. How best to position her magic traps, rigging a battlefield before the fight began. How to direct the flow of battle, using skirmish tactics to bring enemies into her pace. She even had experience fighting iron lions before.
+
+Through practise and dedication, she knew exactly how good she was. What her skills, powers and experience would allow her to accomplish. And she knew, without a doubt that it would not be enough to handle nine of the metal monsters at once. As good as she was, as thoroughly as she prepared, she didn’t have the traps, the skills or the power to win the fight she now faced. But she didn’t have an alternative, either, other than to cut and run. And if she did that, if she left the people of the town to be slaughtered, it would be a betrayal of everything she was. Of the dream she had held for herself since she was a girl, clutching her mother’s hand as they stared at the television in awe and horror.
+
+Iron lions were a familiar monster, known for playing with their food. They would turn the town into an abattoir of torment if they got amongst the population, but it was also a weakness Delia could use. As a skirmisher, she could play too, and the one prize she could strive for was time. She had signalled her team to run and not come back, instead contacting the Network for backup.
+
+If she could tie up the monsters long enough, her counterparts in Rhyl and Caernarfon could arrive, maybe even giving her a shot at survival. If those reinforcements weren’t enough, they could buy time together. Once the Network branch in Liverpool knew what was happening, they would deploy forces that would turn the iron lions into iron scrap.
+
+A message from her team came through in snippets, broken up by heavy interference. Her heart sank as she caught only scraps of a panicked warning amongst the intermittent hiss of static.
+
+“Can’t get…satellite phone won’t…vampires…”
+
+The last she heard was a scream before even the static went dead.
+
+***
+
+Jason was in his private residence, on top of the administration tower in Slovakia. He had a large office that he rarely used, and he was standing in the middle of it. Cloud substance rose from the floor to transform into a swarm of monitors. They displayed footage taken from the internet, of social media posts and news footage. Jason’s gold-rank, half-transcendent mind was easily able to track all twelve feeds at the same time.
+
+Monster manifestations had first appeared during Jason’s last trip to Earth, and years later were reported like the weather. Only when they occurred near major population centres did they draw additional media coverage.
+
+The world as depicted on the screens was one careening out of control. The rise of magic had set a fox in the henhouse for religions, which saw rising membership alongside a general shift towards extremism. Not only were governments falling but entire systems of governance. The most stable regions were the USA, Russia and China, who had settled their early turmoil in the wake of magic being revealed. It was in regions where the impact of a changing world came slower that seemed on the verge of falling apart.
+
+In Australia, a double-dissolution had ousted the entire government for the second time in history. It triggered not just new elections but fresh debate over the nation’s place in the Commonwealth. North Africa and the Middle East were seeing violent clashes between political reformers and establishment forces. The ongoing transition from fossil fuels to magitech had diminished external influence in the region. Old conflicts fermented like bitter wine into new wars.
+
+With a flick of Jason’s hand, all but one of the screens went blank. The volume on the remaining one, displaying a news report, turned up.
+
+“…spotted in Kolkata for a second day. Religious authorities continue to avoid any public stance on the ‘miracle breeze’ attributed to the silver haired woman, who is likewise yet to make any statement on…”
+
+With another flicking gesture, the screens all returned to cloud-stuff and dispersed.
+
+“Despite holding the attention of the world’s political powers,” Shade said, “your public image remains relatively subdued.”
+
+“Good. The longer that holds, the better.”
+
+“Perhaps, but perhaps not. Too many people know too much. The world can see the ripples caused by our arrival in this world. They will trace them back to you soon enough. According to Gordon, your profile online is growing in a conspiratorial direction. I have seen other worlds where networked communication is in its infancy. Disinformation runs rampant, even without malice. Trying to keep secrets that cannot be kept feeds an ugly beast.”
+
+“I’m starting to worry about how much time Gordon is spending on the internet.”
+
+“Better that than watching films. He had one on last night with a scientist, a ninja, a riverboat captain and a time-travelling cyborg called… the Mandroid.”
+
+Shade’s disapproving pause was heavy enough to be a paperweight.“...the Mandroid.”
+
+He finished the sentence with the tone normally reserved for when Jason left his dirty socks on the floor.
+
+“You mean Eliminators? That had surprisingly great practical effects for the Mandroid.”
+
+“Do you think the Reaper would be willing to take me back?”
+
+“I’m afraid your wagon is hitched to this horse for good, buddy.”
+
+“That decision may have been made in undue haste.”
+
+Jason chuckled, but it trailed off as his thoughts returned to their earlier discussion.
+
+“Do you think I should engineer some kind of public statement?” he asked. “Get ahead of public sentiment?”
+
+“I do not. Such decisions are best left to Mrs Tilden, but people will believe what they believe. Unless you intend to engage in a massive propaganda campaign, the ethics of which I imagine you would not care for.”
+
+“Yeah, I’m pretty sure you’re right.”
+
+“I believe that your current course of playing the recluse is the best one, Mr Asano. This world has been shaken many times in recent years, and you are but one part of that. Take this chance to quietly spend time with your friends and family. If the world needs you, it will come knocking.”
+
+Jason drew a long, calming breath, then let it out slowly.
+
+“Have I just become so used to there always being something going on that I don’t know how to just relax?”
+
+“Yes, Mr Asano. Which makes what I have to say next rather unfortunate.”
+
+“And what’s that?”
+
+“I believe the world is about to come knocking.”
+
+***
+
+Lenora wasn’t sure how she ended up as designated liaison to Jason Asano. She wasn’t from any of the magical factions, intelligence agencies or other parties participating in the multi-national taskforce. She was with the Australian Government’s assigned to administer Asano Village. Her job was meant to land somewhere between building superintendent and hotel manager, dealing with visitors from across the world. Instead, she’d somehow become the neutral party keeping the taskforce members from each other’s throats.
+
+With the Governor General dissolving the entire government, Lenora had no idea if she’d retain her position, once the dust settled. For now, she was busy being the lubricant that stopped secret agents and shape-shifted ogres from coming to blows. Part of that was evaluating any information that potentially affected multiple taskforce members.
+
+Her office was in what used to be the mayor’s residence. Also in the room was the desk of her deputy, Barry Sinise. Barry was looking at a report that just popped up on his tablet.
+
+“Nora,” he said, drawing her attention from the toilet paper requisition she was working on.
+
+“Yeah?”
+
+“You know that thing the Network told us not to worry about?”
+
+“The one we’re definitely worrying about?”
+
+“Yeah.”
+
+The Network had been looking for anomalous reading in the grid that indicated potential reality core farming. After weeks of nothing, multiple instances had occurred near instantaneously. Rather than in vampire territory, as had been expected, they were showing up in areas humans still held. The United Kingdom was relatively intact, compared to most of Europe, and Western Asia fell outside the border of the vampiric domain.
+
+“What about it?” Nora asked.
+
+“If the grid and communications are both being messed with, I’m thinking that whatever is going on is time critical.”
+
+“Yeah.”
+
+“I’m looking at the deployments from the taskforce, and they’re focusing on core areas. Large population centres, Network strongholds.”
+
+“That makes sense.”
+
+“But the more regional areas might be in more urgent need of help. They’re going to be the ones with the weakest essence user presence in the first place, but they’re low priority for assistance.”
+
+“Barry, I know we’ve been roped into being glorified secretaries for spies and wizards, but I don’t think they’ll appreciate us making suggestions in the middle of a crisis.”
+
+“I know. But there is someone on the taskforce no one has reached out to yet, right?”
+
+“You want me to reach out to Jason Asano and ask him to check in on people in a bunch of little towns out in the countryside?”
+
+“Yeah,” Barry said. “I do.”
+
+***
+
+Lenora watched as a dark figure stepped out of the shadows. It was an ephemeral thing, made of darkness, but spoke with Asano’s voice.
+
+“What is it you need?”
+
+“If I told you that some things are happening, but I don’t have time to explain and people need your help, what would you say?” Lenora asked.
+
+“Where?”
+
+She nodded at Barry who walked up to Shade and held out a tablet showing a map.
+
+“Nine locations across the UK, Ireland, Eastern Europe and Western Asia,” Lenora said. “Can you reach them fast?”
+
+“Shade?” Jason asked.
+
+“Slovenia is well positioned for mainland Europe and Asia locations,” Shade said. “I have a body in Wrexham, Wales you could jump to, and then I could use my vehicle forms to reach the other locations in six to eleven minutes.”
+
+“Why do you have a body in some place in Wales?” Jason asked.
+
+“Time sensitive, Mr Asano,” Shade scolded.
+
+“Right, sorry. On it.”
+
+The dark figure vanished into the shadow of a pot plant.
+
+“That was weird, right?” Barry asked. “Two guys in one body, having a conversation.”
+
+“The body was an interdimensional shadow alien, Barry.”
+
+“Yeah, like I said: weird. Someone should go tell the Network people what we just did, right?”
+
+“Yes, Barry, they should.”
+
+“I call not it.”
+
+“You can’t call ‘not it,’ Barry.”
+
+“Except I just did. Can you get a me a diet cream soda while you’re out doing that?”
+
+“You know I’m your boss, right?”
+
+“Right, sorry. Can you get me a diet cream soda while you’re out doing that, Boss?”
+
+***
+
+Delia wanted nothing more than to lay down and close her eyes. Her clothes were ragged, her skin marred by bloody lacerations. Her right hand was missing two fingers and her left arm hung limp at her side. The System, usually a boon, was flashing stamina and mana bars that were all but empty. The little silhouette showing her health had every body part marked in warning yellow or dire red.
+
+She burned most of her scant remaining mana to boost her speed, barely escaping the path of the dented but intact iron lion. Three were dead, better than she’d imagined, but she didn’t have the mana left to conjure a fresh gun, let alone fire it. The mana deficit left her head feeling like a spike had been rammed through it. Her body was screaming at her to stop and rest, but she couldn’t afford to even slow down.
+
+Only a couple of traps remained untriggered. She dashed right through one, a lion on her heels. The trap ignored her but triggered on the monster, cables erupting from the ground to bind it. It would have been an easy kill, if she had anything left. The other lions flanked her circled like sharks. They knew she was done, even if she refused to accept it. She tried to make a break for it but only the spirit was willing. Her legs gave out and she fell to the ground, landing amongst dirt churned up with shards of detonated tree trunk.
+
+The lions snarled at each other, each trying to assert dominance. One finally cowed the others and moved in to claim the kill. Delia’s consciousness drifted away, her eyes closing as the beast coiled to pounce. In the delirium as she passed out, she thought it odd how the creature’s aura changed, suddenly descending like a wrathful god. Her last thought was that it hadn’t felt like that before.
+
+***
+
+As a girl, Delia DeWitt had watched on television as a man fought monsters. Despite his dark powers and shadowy visage, she had known him from the first moment as a hero. She regained consciousness, having been certain she never would again. Standing over her was a dark figure, wrapped in what looked like the night sky. She jolted awake as a loud metallic crash signalled an iron lion smashing to the ground, looking like it had been in a car compactor. Five more followed in short order.
+
+A hand was held out to her.
+
+“You did good,” Jason told her.

@@ -1,0 +1,77 @@
+---
+id: 59deb8c8-2f34-5e1b-8064-105ed282389c
+page-type-slug: story-chapter-royal-road
+title: "272. Happy Wife Happy Life"
+slug: 0272-272-happy-wife-happy-life
+partOf: god-of-trash
+position: 272
+ownLength: 1980
+unit: words
+publishedAt: 2026-02-09
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3030121/272-happy-wife-happy-life"
+royalRoadId: "3030121"
+---
+
+One quick dip in the bath later, Rhys assumed Norton’s identity… then drained the tub, got back in, scrubbed himself, drained the tub again, scrubbed himself again, applying lots of soap and hot water every round until he smelled like soap and roses even when he surged mana to his nose. There was a lingering waft of garbage mixed in, but there was nothing he could do about that. That came from within, and it was a scent he would probably never be free of. Still, it wasn’t that bad, and the soap and roses mostly repressed it.
+
+He stored his usual clothes, and Norton’s previous outfit, in his storage ring, then dressed himself in some nice, comfortable, beautiful robes he found hanging in the man’s closet. He didn’t really know what to do with himself until daytime. It seemed it was fashionable for noble mages to sleep during the night, and accordingly, there was a sumptuous bed waiting for him in the room next to the bathroom. It might not be the main bedroom, but it was plenty fancy for Rhys.
+
+He sat down on the bed, bouncing a bit on the mattress. Reaching out, he felt the softness of the comforter and the plushness of the pillow. Come to think of it, even when he’d slept, he hadn’t slept on beds, not since… I think Purple Dawn Academy. And I didn’t use that bed that much. Especially after Lira rained all over it.
+
+He considered for another few seconds, then shrugged to himself. If he was going to kill a nobleman, assume his identity, and take on everything that came with it, then he might as well enjoy his assumed life of luxury. Rhys undressed to his under-robes and climbed under the covers into fresh silken sheets. He let out a sigh of contentment and wiggled in, getting nice and cozy, then shut his eyes. Ahh, a quick snooze!
+
+Rhys jerked awake when he sensed a mana signature hovering over him. He slapped a hand to his chest, a split-second from summoning the filth sword, when his brain finally caught up with his eyes. Norton’s wife. That’s Norton’s wife. I’m not in danger.
+
+She harrumphed. Lily, I think her name is. “So surprised to see your own wife when you wake up, you fucking womanizing scum?”
+
+Never mind, I am in danger. Rhys laughed nervously, then cut it off sharply when Lily’s expression darkened further. “I—I’ve decided. It’s time to turn over a new leaf. No more womanizing. No more drinking. I’m on the straight and narrow from here on out.”
+
+“Oh, really.” Lily’s voice dripped with sarcasm, so full of venom Rhys almost felt as though he could absorb it. “And what made you come to this revelation?”
+
+“I, uh…” Rhys wracked his brains. “I n-nearly died last night. I bumped into someone I shouldn’t have and h-he almost took my head. I’m lucky to be alive. I… I can’t do this any longer. Ruin my life like this.”
+
+Lily frowned, then pressed a hand to his brow. “You don’t have a fever…”
+
+Okay, fair. Addicts don’t just cold-turkey quit one day on a whim. And I’m not really talking like Norton, either. He was a stuck-up asshat who thought he was better than everyone… but I’m not going to get many invites with that persona, so it’s time for Norton to find religion and reevaluate his whole life, or whatever the equivalent of that is in this world. Have an epiphany? Reach enlightenment?
+
+She stepped back and crossed her arms while Rhys was thinking, then harrumphed. “If I didn’t know better, I’d think you were an imposter.”
+
+A familiar siren sfx played in Rhys’s head. Haha! I’m not sus, don’t vote me out! Vote red, red is baka sussy! Rhys chuckled. “Who would want to take my place?”
+
+“A loser like you? Gods only know,” Lily scoffed, rolling her eyes.
+
+Rhys laughed along, though carefully injected a bitter note in his voice. He eyed Lily. When he was being a sussy baka, back when he played social deduction games, he’d had a friend—his female friend, to be precise—who could out him from just hearing his voice. Apparently, he used a subtly different tone when he was the baddie. Kindly, she’d either played along and pretended not to know, or told him to come kill her at the start of the round when she knew it was him.
+
+That didn’t do him any good here, of course. Lily wasn’t going to hide in a back office and tell him on VC, “if you kill me here, no one will find the body.” No, she’d be playing for her life, while he was stuck doing a shoddy impression of her husband from his weeks-or-so of observation as the man walked by him on the street, more often drunk than not. Between the two of them, Lily had the advantage.
+
+He just had to hope that this was the classic-romance-novel living-together-but-apart situation, and that she didn’t actually know Norton as well as a wife should know her husband. Otherwise, he’d be stuck playing his main account and a sock puppet in the same session, so to speak. That could be fun, but one, it totally ruined the point of social deduction games, and two, he was pretty sure it wasn’t fun in real life.
+
+Still, Norton spent most of his life drunk, high, or both, from what I could tell. Maybe Lily never met sober Norton… or spent so little time around him that he’s basically a stranger. It was basically his only hope at this point, or else he’d be picking up corpse puppeteering skills alongside all the other questionably moral stuff he could do. Sure, he wasn’t a A-plus student when it came to morality—more of a Ds get degrees type—but he was pretty sure killing a woman then puppeteering her dead body to parties would flunk him out of morality. That was more than just casually fucked up, that was major-league, special-time, serial-killer, slasher-film fucked up.
+
+No, trying to doubletime and cosplay as both halves of the happy couple is probably my better bet, though even he hadn’t worked out what would happen when they were introduced at a fancy dinner, and both husband and wife had to descend the sweeping grand staircase together. Maybe a hybrid approach, with a little bit of corpse puppeteering mixed in with the more acceptable crossplay?
+
+Or you don’t plan to kill this woman, win the social deduction game, and never encounter this problem in the first place, a loud voice at the front of his mind argued. It wasn’t like he was certain to fail, either. He’d been pretty good at mixing in among others. His KDR was definitely in the positives in that game, and that was saying something. He just had to face reality and admit that bluffing some strangers who believed self-reporting was a low percentage play was different from bluffing a wife that he was her husband who’d suddenly turned a new leaf out of the blue and decided to stop being a drunken piece of shit.
+
+He realized, abruptly, that she’d been saying something when there was suddenly silence in the bedroom. Rhys stared at her, glassy-eyed, and hoped she’d give him a hint. I’m sorry, I have no idea what you just said. I was too busy thinking about amogus.
+
+Instead, Lily rolled her eyes. “Gods. As if you’d actually change. Find me when you’re ready to listen.” She tossed her hair and stomped out, slamming the door behind her.
+
+Alone in the bedroom, Rhys pumped his fist silently. Hell yeah! Beat the QTE! Sure, ignoring women was bad, but since he was cosplaying Norton, and Norton was a piece of shit, he’d succeeded by doing the wrong thing! It was kind of dangerous, honestly. He’d learn bad habits if he kept pretending to be Norton so successfully.
+
+But! I am the Norton who turned over a new leaf and reevaluated his life, so it’s time to be a good husband! Rhys hopped to his feet with a smile, full of energy, then paused. …But how?
+
+He hadn’t had a wife in his world. Hell, even a girlfriend was asking too much of him. What did you do to make a partner happy? The only things that came to his mind were romcoms, the absolute garbage Hallmark movies his mother had loved, and ero manga, though he was pretty sure that last one was the worst example to follow. Even an idiot at love like him realized hentai wasn’t in touch with reality, let alone something to base a relationship off of. Most girls wouldn’t be happy if you shot—
+
+Ahem! Anyways. There were some simple things he could do to clean up Norton’s act that were shy of suddenly transforming into the perfect husband the way the leads in shitty romances always seemed to. Like, for example, get dressed, brush his hair, and generally clean himself up. He’d copied Norton’s appearance exactly, and that included some grungy stubble.
+
+At a certain realm, mages stopped growing hair unless they willed it, including facial hair, so that one had been a real conscious effort on Norton’s part. What for, Rhys couldn’t say; maybe to piss off Lily? Or maybe a low-tier-2 like Norton didn’t have full control of that yet. Whatever the case, it needed to go. It looked bad, and it was an easy enough part of him to clean up.
+
+Rhys headed back into the bathroom and paused at the mirror, then paused, stymied once more. Norton didn’t have a razor. He stared at himself for a few long seconds, then rolled his eyes. He was a mage. What did he need a razor for? He drew a small knife from his storage ring and quickly sliced them off just for effect, then used his mana to expunge the rest of the facial hair. He turned his face left and right, raising his brows, and nodded. Yep. Norton was attractive.
+
+It was probably the only reason the idiot man was still alive. He remembered telling his cats in frustration many times that it was a good thing they were so cute. He’d been joking, but mages were less patient than he was, and, he had to admit: people were way less cute than cats. If not for his family and face, he was pretty sure Norton wouldn’t have made it to this stage of his life.
+
+He hadn’t gathered too much about the Tunk family, except that they were powerful, quiet old money, who did quiet luxury with the slow determination of a family with several members in the high-hundreds to low-thousands of years in lifespan. Norton was the black sheep of the family, the disappointment, and even then, he was quiet compared to some of the flashier, new money types. He was the perfect target for Rhys because of that—just well enough known without being instantly recognizable to many—but it did mean he had to walk a narrow line. His path wasn’t cosplay and social deception, as much as he’d probably enjoy that. If he ended up in front of any of Norton’s family, there was a good shot they’d see through him far faster than his half-abandoned wife, and with the depth of money and experience invested in Norton’s family, he was sure to have a few grandmasters in his grandparents or parents who could wipe the floor with Rhys, even at Tier 4.
+
+Rhys chuckled to himself. Yeah, easy. Just avoid all his family, who I know very little about, fool his wife, and steal his life. He only needed to survive a few weeks. A few weeks, and he could put this all behind him.
+
+Why do I feel like I can hear the shark-movie theme playing already?

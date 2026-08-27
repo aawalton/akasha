@@ -1,0 +1,123 @@
+---
+id: 5b31e0a5-3566-54a5-8407-3c738ccabe33
+page-type-slug: story-chapter-royal-road
+title: "183. The Time Has Come"
+slug: 0183-183-the-time-has-come
+partOf: god-of-trash
+position: 183
+ownLength: 2084
+unit: words
+publishedAt: 2025-09-11
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2593263/183-the-time-has-come"
+royalRoadId: "2593263"
+---
+
+Lord Estos strode to the head of the ballroom, a confident smile on his face. No troublemakers had showed up to his ball—in fact, according to the guards, they hadn’t even sensed an attempt on the defenses, and everything was moving along smoothly. Drink flowed, snacks were eaten, and couples danced upon the ballroom floor with all the careless wonder and abandon they usually did. Not a single ghost to be seen, not that ghosts were real; but he’d kept that ne’er-do-well who was tastelessly posing as Adelise’s ghost out of his ball, and that was all that mattered. Everything was on track.
+
+His brow furrowed at the reminder. How rude, to pose as poor Adelise. It must be one of the Inferon clan’s enemies; perhaps that bald-headed Jordache clan who had always been jealous of the Infernons’ thick manes. Especially with Adelise missing, and not officially proclaimed dead yet… it made the Infernons look like fools. Now that everyone was starting to calm down from the camp breakouts and focus on important things once again, the Infernons would soon have to produce Adelise, or declare her dead; they couldn’t keep this halfway stance alive, with her ‘ghost’ causing trouble at ball after ball. His greatest fear was that the ghost would do something drastic before they denounced it as definitely not the ‘missing’ Adelise, and allow their enemies to throw dirt on the Infernon family name, even though everyone knew the ghost was nothing but a foolish interloper.
+
+That was exactly why he’d worked so hard to keep the ghost out of his ball. If the troublemaker wanted to land a fatal blow on the Infernon family, they wouldn’t do it at his ball. He couldn’t control everything, but he could control that much. He wanted the Infernons to see him as the staunch ally he was, and he wouldn’t be much of an ally if it was at his ball that the foul villainess posing as Adelise’s ghost decided to launch whatever attack they were clearly building toward.
+
+But everything was going so well, and not a single troublesome ghost in sight. The musicians finished their song, and Lord Estos stepped forward, raising a glass. He rapped his fingernails against it.
+
+Ting, ting.
+
+The dancers looked up, parting from their partners. The wallflowers stepped out from the pillars. A few slightly-rumpled couples materialized on the upper walkway, reappearing from the nooks and alcoves that were just perfectly sized for a couple to have a lucky moment of privacy together. They were his wife’s idea, and he had no doubt that she was taking close note of who’d emerged from which alcove even at this moment, the irredeemable gossip that she was—but that was none of his concern. He gazed over his guests and smiled.
+
+“Welcome, one and all. I hope you’ve been enjoying the masquerade.”
+
+There were a few titters, a few knowing looks exchanged on the balconies, and a few glasses raised. Lord Estos smiled back at them.
+
+“Before this night truly begins, I wanted to say a few words. I know things have been trying lately, with the breakouts and the ongoing war, but I hope you were able to put all that behind you to take advantage of this night to the fullest. I have it on good word that the military police are close to finding the criminals involved in the breakout; in fact, they should be moving in on their base as we speak. So make merry, and please enjoy tonight without a single worry in your mind!”
+
+A cheer went up from the crowd.
+
+Lord Estos beamed back. He turned to the musicians. “So, maestro, would you—”
+
+“Not so fast!”
+
+--
+
+“Come on, it can’t be that difficult to strap on.”
+
+“It is! Rhys, why would you build it like this? It’s so hard!”
+
+“Just… jab it in there already. Use your strength, and you can get it in.”
+
+“But it’s huge! Like a pipe! How am I supposed to fit it in that hole?”
+
+“Here, give it to me. I’ll do it myself!”
+
+There was fumbling. A grunt.
+
+“He’s almost done with the speech, Rhys! Hurry!”
+
+“It’s coming together. Just… right… there!”
+
+Click.
+
+Rhys checked over the assemblage one last time, then nodded at Mouse. She released her hold on him and stepped away. He strode forward, out of the shadows and into the light at the very front of the rafters. “Not so fast!”
+
+All eyes lifted to the sky, staring at him. He’d stepped out of the darkness over Lord Estos’s head, into direct view of all the mages. For a moment, everyone simply stared, even the guards unclear on what to do.
+
+Down on the dance floor, a man in red with a straight white ponytail squinted.
+
+Rhys grinned. Reaching to his face, he tore the mask free, revealing his perfected Adelise Infernon makeup. “How dare you dance, when my death goes unavenged, even today?”
+
+Not that he cared, or minded at all, but if they really thought they’d caught the criminals, he might as well throw some suspicion that they’d gotten the wrong guys. He was pretty sure they had, anyways, since he’d seen no sniffing around any of his farms or shops, but he couldn’t be completely certain that everyone was safe, so might as well throw a little random mud.
+
+He lifted his hands, and the assemblage he’d been slotting into place with Mouse’s help ignited.
+
+To this day, fire still evaded him. Everything from a candleflame to a fireball remained beyond his reach, since he valued the skills too much. But that didn’t mean he had no way to access fire. Decomposing organic garbage gave off fumes; specifically, methane. All he had to do was section off a portion of his trash star for organic trash and start specifically absorbing what came out of that section for non-trash-star purposes, and hey presto, he had a source of methane. From there, it was just a matter of extracting it from his trash star, compressing it into a tank, and piping it down to his hands. He could simply exhale the methane, but there were two problems: it wasn’t condensed enough to create a steady stream, and he had to manually ignite it and focus on keeping the flow at the same time. It was a lot to do mentally or magically, and while he was sure he could manage it eventually, it wasn’t going to happen in time for this neat trick. Hence the tank and pipes.
+
+This fire was formed from trash, so he could shape it somewhat, if not perfectly. He scoured the ceiling of the dance hall, then directed the flames further down the walls. The mages down below screamed and ran, but a few, including a familiar man in red, lunged for him. He chuckled. Too bad for them, but he’d expected such a reaction. The fires he’d set had appeared to create no smoke, but that wasn’t true. They created smoke, it was just smoke that Rhys immediately absorbed. Now, he spat it back out, instantly filling the dance hall with thick, dark smoke.
+
+In the chaos the smoke caused, Rhys ripped off his robes and wig and tossed them into the flame, then pushed the flames into the tubes of his contraption and ripped it off his back, tossing it at the ground with all the speed and strength he could muster. The contraption exploded, and Rhys flew backward into the flame-weakened roof and crashed through.
+
+He landed in a smoking pile outside, falling in with all the guests as they fled the fire. Mouse appeared at his side and took his shoulder, heaving him up. He was dressed as a man, now, in a servant’s simpler gear and his true messy hair, made even more moplike by his sweat and the wig. Still a little stunned from the explosion, he let her lead him away. I might’ve overloaded that tank. Turns out, a Tier 3 mage can manage a hell of a lot of compression, beyond the limits of physics.
+
+He wasn’t really complaining, of course. An explosion of that caliber guaranteed that he and Mouse had enough panic to easily slip away. Like that, he attacked at the heart of the Empire right as the Empire got tired of searching for the people who’d been involved in the camp attack, and gave them a new phantom to chase. Now, the only remaining trick was to sneak away and never appear again, and let them chase what they could never find. He could be done with his playacting, and focus on gathering cores from the criminals while the Empire scrambled to search for the ghost.
+
+Once he got all the cores he needed, all the pieces were in place. It would be time to take down the Empire. But first, he had to get away.
+
+With everyone fleeing the fire, it was easy enough to mingle with the guests. Some stopped once they were outside, or turned back and ran in to go help, but some just made for the forest or for their carriages—the less-combat-inclined mages, who preferred to research, farm herbs and raise animals, or do office work for the Empire. Rhys and Mouse blended in with them, breaking through the barrier and racing into the woods beyond.
+
+Rhys glanced over his shoulder. It didn’t look like anyone was following. He turned to Mouse. “We got awa—”
+
+Thump. A blaze of red blasted down in front of them. Mouse squeaked and jumped away, and Rhys whirled, already drawing his broken sword.
+
+Laurent faced him. He took off his mask and tossed it aside, and they faced one another with bare faces. “No more disguises. No more lies. What are you really after?”
+
+“I’m tearing down the corruption in this Empire. Can’t you see that? Or are you so blindly devoted to your mother country that you see no fault in its nobility?” Rhys countered. It was bullshit, but Laurent didn’t need to know that.
+
+From beside him, Mouse faded slowly from existence. Rhys didn’t call attention to her or acknowledge what she was doing, but he fully understood. If she left now, that was one less thing for Rhys to have to worry about in the impending battle.
+
+“By setting Lord Estos’s ballroom on fire?” Laurent drew his own sword, a challenge in his eyes.
+
+“Is not the presence of the nobility itself a black mark upon the Empire’s claimed meritocracy?”
+
+That gave Laurent pause. A thoughtful expression crossed his face.
+
+“I want to challenge the Empire. Push its limits. You’ve grown up within it, and cannot see its base failings for what they are. Look harder, Laurent. You’ll see what I mean.”
+
+“All I see right now is a base criminal,” Laurent said, his eyes hardening.
+
+Dammit. Guess I can’t bullshit my way through this one. Rhys searched mentally for a way out, but he hadn’t set anything up. His plans had ended at ditching his disguise and running for it. He hadn’t expected to run into Laurent and get recognized by him.
+
+“Look harder. If you can’t understand now, then there’s nothing I have left to say to you.” Rhys lifted his sword and prepared to attack.
+
+Laurent raised his in response. The two of them stared at each other for a long beat, and then—
+
+“Take me with you!” Mouse shouted, jamming a trash bag over Rhys’s head. For a second, he hesitated, but then he immediately understood. Grabbing Mouse’s arm, he leaped into the void.
+
+A second after they vanished, Laurent’s sword cleaved through the bag. He stood there for a second, staring at the emptiness, expressions chasing one another across his face. Confusion, disbelief, irritation… and then shock and realization. He put a hand on his chin, his eyes wide. “No. Could it be…?”
+
+On the other side of the trash bag, Rhys pulled Mouse along after himself through the Void. He looked at her. “Good job. I didn’t think to bring anything for our escape.”
+
+“I always think about escaping,” Mouse replied timidly.
+
+Ah, yeah. That tracks. Rhys smiled and patted her on the back. “Saved our bacon this time! So… keep it up!”
+
+Mouse looked down, blushing a little bit. She smiled and nodded.
+
+“Come on. Let’s get out of this place, and get on with taking down the Empire.” Rhys dove for the nearest exit, and they left Lord Estos’ palace behind.

@@ -1,0 +1,273 @@
+---
+id: 9676c282-7237-5c03-a6a2-52c258b9b427
+page-type-slug: story-chapter-royal-road
+title: "Chapter 84"
+slug: 0008-chapter-84
+partOf: hell-hound-evolution-litrpg
+position: 8
+ownLength: 2957
+unit: words
+publishedAt: 2026-02-09
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3028446/chapter-84"
+royalRoadId: "3028446"
+---
+
+That night, we eventually picked a spot between some large bushes to camp out. Fox lady began to undress as soon as she set her bag down, and I gave her a sharp bark and pointed my nose towards the bushes.
+
+“Hmmm…?” She stopped and blinked as if not sure what the problem was. Then it must have dawned on her as she chuckled and retreated behind the bushes. “I’m becoming more and more convinced there is something else about you, pup.”
+
+I knew it was pointless to try to hide how unique I was anyway. Lily had no reaction to her nudity that went beyond possible curiosity over what clothes were or why she put them over herself, and I should have had the same unconcerned reaction if I were just an ordinary Hell Hound. The concept of clothing was simply not something a doggy brain should understand beyond that it was some random thing humans did.
+
+Grick made a move to peek past the bushes, and I gave him a soft warning growl not to even think about it. I suppose goblins were humanoid, and therefore, goblin girls probably shared certain characteristics with humans, so his focus on her wardrobe—or lack thereof—made sense.
+
+A moment later, there were a few pulses of flashing light, and the silhouette of the giant fox emerged from behind before she padded back around to us, bundles of clothing held neatly in her mouth. She then got to her process of putting everything back into the bag.
+
+I looked at Lily and Grick and thought, “Hunt.”
+
+Lily instantly looked excited as her tail wagged and she began pacing back and forth.
+
+“Find good tasties, puppies!” Grick said, waving goodbye to us.
+
+I looked directly at him and thought, “You too.”
+
+Grick turned his head. “Grick doesn’t hunt. Grick finds tasty fishies.”
+
+There was no guarantee we would find any fish again any time soon, and either way, it wasn’t about food.
+
+“So, you have a decent level of communication with each other, it seems,” the fox mused as she lay down with her body curled around her bag, her golden eyes focused on me. “Why don’t you have your goblin friend tell me your name?” I got the impression from Grick’s lack of acknowledgment that she sent those words to me alone. If she was doing that, then clearly she was less interested in knowing my name and cared more about experimenting with just how well we could communicate. Honestly, I wouldn’t normally indulge her curiosity, but I was interested to learn how well Pack Bond translated things as well. Before meeting the fox, I could only have run this experiment on Genzo and maybe the merchants, but I hadn’t thought of it at the time.
+
+Come to think of it, I don’t think Grick knew Lily’s name yet either. His Pack Bond wasn’t leveled enough for him to interpret our stat screens, if that would even do the trick considering he couldn’t read.
+
+I looked at Grick. “Tell the fox my sister’s name is Lily.”
+
+Grick scratched his head. Looked back and forth between Lily and the fox. Then he pointed at Lily and said, “This is puppy.”
+
+Her golden eyes narrowed for a moment, perhaps wondering if I was being sneaky and trying to hide some level of my intelligence. But that honestly was the best I could do. It did seem to confirm that whatever thoughts I sent them didn’t translate word for word and were more like intentions. I probably just interpreted Lily’s words the way I did because things tended to default to English for me.
+
+Lily stopped her pacing and looked at me with a yip. “Hunt!”
+
+“Okay, okay! We can get going.”
+
+I grinned.
+
+“Come on, Grick.”
+
+Our new companion gave us a foxy smirk as she lay her muzzle on her bag and said, “Have fun, kids! Don’t be gone too long.”
+
+With that, I led the way into the dark woods.
+
+Death Mark was still active on the fox, though she seemed to have mostly gotten used to the fear effect as she lay there calmly. Though I wished I could deactivate it now, because it was slightly distracting to have her lingering in my mind’s eye. She probably had no idea I was watching her right now either, but once I got focused on hunting, I found it wasn’t too hard to ignore my mind’s eye after all.
+
+Since I’d be using Pulse Sense later anyway, I decided to let my sniffer have a chance of leveling up Enhanced Smell. The fox’s advice earlier about using as many skills as possible was probably smart, so I stuck my nose to the ground alongside Lily.
+
+Lily picked up a trail first, and as soon as I knew there was something to look for, it was easier for me to find as well.
+
+Lily moved ahead of me, light on her paws, tail wagging enthusiastically behind her as she kept her nose to the ground.
+
+Behind us, Grick followed as best he could. He froze every time a twig snapped, then hurried to catch up again, dagger clutched tightly in his hand. “Why bring Grick?” he muttered. “Grick doesn’t hunt.”
+
+After a few minutes, the trail got stronger, and I decided it was time.
+
+{Pulse Sense}.
+
+The familiar ripple spread outward, heartbeats blooming through the dark forest. Several small creatures were scattered around us, but one stood out with a larger and steadier heartbeat.
+
+I slowed, lifting my head, and Lily followed my cue. She stopped as well, dropping her belly to the ground, but she could not seem to contain the wag of her tail.
+
+Our prey was close enough, so I used {Marrow Sense}.
+
+A skeleton formed just beyond the foliage in front of me that was about twice my size, complete with a heartbeat still pulsing under its ribs.
+
+Broad shoulders. Thick spine. Heavy joints built to carry weight and muscle rather than speed. Its upper legs, neck, and ribs were green, its lower legs were yellow, and its joints were a darker yellow that seemed to want to bleed into red. Its body shape would normally have me suspect a strong skeleton all the way around, but since I was likely a much higher level, its natural defenses just weren’t enough against my jaws and Marrow Sense was telling me there’d be some easy breaks.
+
+I gave my pack a command. “I’ll start things off. Lily, I just want you to help me subdue it until Grick can stab it with his dagger.” I turned my gaze to the goblin, and his green ears folded along the sides of his head. “Aim for the throat.”
+
+“But… Grick doesn’t do nasty things. Only if something hurts puppies.”
+
+I tried a slightly more nuanced thought. “If you become stronger, you’ll be able to protect us better.”
+
+He seemed to consider it for a moment, then the way he looked up with slightly more determination and his hand clenched around his dagger, I think he understood.
+
+I used {Veil of Shadows} and prowled towards my prey. In the dead of night, I’d be all but invisible.
+
+The forest seemed to hold its breath as I made my way to an opening in the foliage. As I worked my way through, I brushed some of it slightly, causing a soft rustle. The creature turned its head towards me, but didn’t move.
+
+It had a thick neck and shaggy fur hanging off of it. Furry creatures were not always the most pleasant to eat at first, but once you got down to the meat, it was better. It had a short snout that opened to reveal rows of pointed teeth, and then, to my surprise, it let out a cat-like hiss that didn’t quite match its body.
+
+I stayed completely still.
+
+It stared in my direction a moment longer, though it couldn’t see me, then it seemed to decide the rustle wasn’t anything to worry about as it started walking away again.
+
+Okay, time to pounce!
+
+I put a {Death Mark} on it and darted from my hiding place. It turned, but Veil of Shadows made it hard to discern me barreling towards it until it was too late.
+
+I went right for the joint on its front leg and used {Crippling Bite}.
+
+As soon as my jaws clenched down, I twisted. It let out a screeching roar and tried to pull away. There was a bit of resistance under my jaw, but as I twisted a second time, I felt the snap.
+
+I let go, and it turned to try to buck me with its back legs, but it collapsed on the one I had just broken and rolled to its side instead.
+
+Lily bounded out of the bushes next as the beast rolled on its back and started kicking its legs wildly at us. I used {Intimidate}, letting out a loud roar that silenced the forest of any stirring around us, but more importantly, left the creature frozen. Lily went for one of its back legs that was now barely moving, giving it a good bite and shake of her neck, but she wasn’t able to snap the bone quite as easily as I could.
+
+I looked towards the bushes. “Grick, you’re up.” I pivoted around the beast and clenched my teeth on the back of its neck to subdue it further. It let out a clicking hiss that tried to force its way through the paralysis.
+
+Grick came out, both hands clenched around his dagger, and long green ears hugging tight around the side of his head. His eyes were wide with a hesitant frown as he came forward.
+
+“Hurry!” I told him. “You need to learn to do this.”
+
+Grick tightened his lips, his entire posture tensing as he gripped the dagger tighter. He took another step forward, then the next was a little faster. I felt the creature stir in my grip, a sign the paralysis was starting to wear off.
+
+“Grick… Grick not hunter but…” His teeth clenched. “Grick wants to help puppies!”
+
+He finally charged forward, dagger held tightly in front of him. It was not how he should normally go about charging into battle; in a real fight, he’d be leaving himself way too open, but it was good enough for now.
+
+When he closed the distance, he stabbed the knife into the creature’s neck. The blade slid in easily, and the attack seemed enough to break its paralysis. Though such a wound would be a slow death, it was still a fatal one, and I didn’t plan to let it suffer much longer.
+
+It wailed through blood gurgling in its throat, and kicked its legs, forcing Lily to let go.
+
+I jumped over it, raising a paw into the air.
+
+{Soul Rend}!
+
+My paw became ghostly with trails of smoke as I slashed down at its chest. My paw went right through as if made of mist, and when I pulled it back out, the creature gave one final twitch and fell limp.
+
+Prey Eliminated! Level 8 Blackbriar Brute!
+
+No Experience Gained.
+
+Essence Extracted!
+
+15 Stamina restored
+
++2 to all attributes
+
+Soul Rend has leveled up! 1>2
+
+Increased hp threshold for killing blow.
+
+Achievement! First Lesson in Blood
+
+You guided a weaker packmate through their first kill, prioritizing their growth over your own.
+
+Moderate Bonus to all stats!
+
+Nice! A level up on Soul Rend is pretty huge, and I got an achievement on top of it! Not bad for such a low-level kill. It seemed that even hunting this low-level stuff could have its uses after all. Not only that, I realized helping Grick and Lily train could get me some extra benefits through achievements as well!
+
+I looked over to Grick, who seemed a bit dazed as he stared at our kill. “Grick…” he began uncertainly, turning his gaze down to the bloodied dagger in his hand. Then, he suddenly raised his arms in the air. “Grick is powerful!” he cheered. Lily gave him a congratulatory yip.
+
+I decided to take a quick peek at his stats to see what benefits he had gotten.
+
+Name: Grick
+
+Race: Goblin
+
+Level: 7 (+1)
+
+Path: Cave Dweller
+
+Stage: 1
+
+Body Development: 67%
+
+Vitals
+
+Health: 55 / 55
+
+Mana: 30 / 30
+
+Stamina: 40 / 64
+
+Attributes
+
+Strength: 14 (+2)
+
+Dexterity: 19 (+3)
+
+Vigor: 14 (+3)
+
+Attunement: 8 (+2)
+
+Guile: 23 (+4)
+
+Active Skills
+
+Clean Cast lvl 2
+
+Cast your fishing line more precisely where you want it to land!
+
+Passive Skills
+
+Mining poise lvl 2
+
+Knife Fighting lvl 1 (new)
+
+Traits
+
+Good memory lvl 2
+
+You don’t forget things easily.
+
+Danger Sense lvl 3
+
+You have an innate understanding of when it is best to just turn tail and flee.
+
+Pack Bond lvl 3 (+1)
+
+You gain experience from anything killed by a member of your pack during a hunt in which you are involved.
+
+You and your packmates regenerate mana and health 5% faster while resting together, the bonus stacking for every nearby pack member other than yourself.
+
+You and your packmates now take moderately reduced damage while hunting together!
+
+His body development jumped more than 10% since I checked earlier, which must have been from an achievement. Unfortunately, his stat gains were pretty low, but I suppose there was no helping that, as that’s just the way things were for him. But more importantly, his Pack Bond trait leveled up, and he got a new skill—knife fighting!
+
+I walked over and nuzzled him, causing him to laugh and pat my head. “Did puppy see? Grick powerful! Grick defeats big nasty easily!”
+
+I gave a wolfy grin. He may have been giving himself a little too much credit—we did make things pretty easy for him, after all. But I wasn’t going to take the accomplishment away from him.
+
+“Grick gives puppies tasties!” Grick said, walking over to our kill and gesturing down to it like an offering. “Enjoy puppies!”
+
+As I began to eat, no longer with a hunt to keep my focus, my attention drifted over to my mind’s eye. The fox was no longer lying down at our camp. It seemed she had followed us. She was trying to stay hidden but clearly watching us, having no idea my Death Mark showed me her every move.
+
+What’s with that? Why are you being a creep, lady? I thought.
+
+But then, I saw what I think was an approving smirk spread over her muzzle before she turned and started heading back to camp.
+
+***
+
+After me and Lily finished chowing down, we returned to camp as well. The fox was awake, just lying curled around her bag, acting as though she had been there the entire time. “Successful hunt?” she asked as we approached.
+
+I gave an affirmative yip. Grick once again couldn’t help himself from bragging. “Grick powerful! Helps puppies defeat giant monster!” Well, I suppose it was pretty giant to him.
+
+“Somehow, I doubt that,” the fox said dryly.
+
+I gave her a stern look that told her to be nice to him. He was proud of the kill, and I didn’t want anything taking that away from him.
+
+“I’ve said it before, but you truly are strange. Caring so much for a goblin of all things…”
+
+I met her gaze without flinching. Strange or not, it’s not something I’d ever feel ashamed of. Grick was a part of our pack!
+
+“Get some sleep.” The fox sighed as she adjusted herself into a more comfortable posture. “With any luck, I’ll be rid of you brats in a few days.”
+
+I settled in and had an easy time getting comfortable with Lily and Grick snuggling in around me, Grick using Lily as a pillow as he normally would.
+
+The fox, however, had trouble sleeping that night, and her constant stirring was bothering me as well. I realized with an active Death Mark, and nothing else to focus on while I tried to drift off, I couldn’t help but notice her in my mind’s eye. Her constant shifting as the fear effect plagued her was quite a bad distraction.
+
+Eventually, she did manage to drift off, and so did I… But not for long.
+
+I managed to get into a deep, comfortable sleep as a vague dream took hold—hunting rabbits back in the vale.
+
+Suddenly, the fox shot awake. It was enough of a disturbance in my mind’s eye to pull me out of my nice rabbit-hunting dream as well.
+
+She sat up on her haunches, breathing heavily, looking around in panic as if trying to figure out where she was. Did she just have a nightmare? I peeked a single eye open just to see Lily stir softly and Grick roll to his other side, but it seemed they hadn’t woken up.
+
+I closed my eyes again and tried to ignore the fox, then noticed something else through Death Mark’s unrelenting gaze.
+
+The fox’s eyes were misting over with tears, and her body tensed with a suppressed shudder. She then lay back down, placing her paws over her muzzle and closing her wet eyes. She really was on the verge of crying, but was trying to hold it back.
+
+Whatever her dream was, it must have been pretty bad… But I didn’t think Death Mark was entirely to blame. No, it wasn’t just being startled awake from a nightmare. It was something deeper.
+
+She eventually calmed down and managed to keep her eyes closed. As I let myself drift off again, I couldn’t help but wonder just what kind of memory would make the fox react that way.
+
+Read Next Chapter Now!

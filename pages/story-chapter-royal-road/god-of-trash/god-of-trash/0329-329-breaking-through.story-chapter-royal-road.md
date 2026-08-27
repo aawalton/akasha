@@ -1,0 +1,129 @@
+---
+id: 3f86c7d5-297d-5249-ba6a-f2842b9a5b34
+page-type-slug: story-chapter-royal-road
+title: "329. Breaking Through"
+slug: 0329-329-breaking-through
+partOf: god-of-trash
+position: 329
+ownLength: 2041
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3595883/329-breaking-through"
+royalRoadId: "3595883"
+---
+
+Mana swelled up from the earth itself, swallowing Rhys where he laid. His body trembled, and for a second, his eyes opened, and his mind moved with clarity. In that split second, he pushed weaker impurities all around his body and ignited them, and the flames spread. The heavy impurities burned, burning his weakness away with them and replacing everything with something stronger, something more powerful than ever before.
+
+He sucked a deep breath. His heart jolted in his chest as it restarted, and his thoughts cleared as he continued to rebuild his body. Coughing, Rhys shuddered. He’d done it. He’d thrown himself away. His body, and even his life. He’d gambled with it all. Laid it all on the line. And somehow—somehow, he’d pulled through.
+
+World Acknowledges Path: Trash
+
+The message floated before his eyes, almost surreal. Rhys blinked, rubbed his eyes, then read it again. The world acknowledged his path? What did that mean? What…
+
+No, rather, he’d expected this, hadn’t he? Or something like it. He hadn’t been able to put it into so many words, but he’d felt it even before he’d taken the plunge: that this was the only way forward. The only way to grow stronger was to give himself up, to throw himself on his path and believe that he’d laid a sufficient foundation for it to see him through. If this was what the world acknowledging his path felt like, if those words were the way to describe the shapeless conviction he’d felt, then he accepted that. It felt right. It was right.
+
+But wait, it was already on my sheet, wasn’t it? Back before that became trash. It was, but this was different. He could feel it in his core. That… well, to put it trashily, that was the same as applying to a job. Anyone could put in a resume anywhere; it didn’t mean anything except that the person wanted a job. But this… this was like getting an offer back. He’d passed the interview, and now he had to decide whether to accept the offer or not.
+
+A great swelling of rightness flowed through him, and Rhys laughed to himself. He’d decided long ago, hadn’t he? This was his path, and he would walk it to the end.
+
+The message faded. It didn’t change at all, but approval emanated from it. In his own heart, and the eyes of the world, he was now trash. He had progressed beyond a mere seeker, beyond someone attempting to forge a path, to someone who now had forged a path and would see it to the end, or else fail. Before, he could have flinched. Changed his mind. Chosen another route. It wouldn’t have worked—he believed that in his heart—but he could have tried. Now, he was locked in. It was trash or nothing. If he failed, then that was merely as far as his path went.
+
+He snorted. It had been trash or nothing from the beginning. This was simply the world catching up to what he’d already known for a long time.
+
+The mana flowed into him, basking him in the power of the world’s acknowledgement and reinforcing and cementing his gains. It was different from other mana, though he struggled to put his finger on how. In the end, he settled on ‘it carried the weight of the world’s authority.’ It was like a powerful tonic, scouring through him and redoubling all his gains. All the strength and power he’d gained from absorbing the impurities was empowered by the world and its acknowledgement, and he could feel his tier surging up, up, up, hurtling toward the peak of Tier 5 already.
+
+He looked at his hands, a little surprised. Was this standard progression for mages, or had he unlocked some kind of secret rare bonus? He wasn’t sure, but he was glad he’d gotten it.
+
+A commotion overhead caught his attention. Rhys looked up, but couldn’t’ see much from the bottom of his well. His body had fully reforged by now, and he was stronger and more handsome than ever, so he kicked off the floor delicately, careful not to overexert his new strength, and landed on the edge of the hole. To his surprise, he found himself ringed by gorillas, with Ryota on the outside hammering on some kind of barrier and shouting to be let in.
+
+The mana from the world fully absorbed into his body as he landed on the side of the hole. One last swirl of the powerful, gold-tinged energy flowed into him, and then it vanished entirely. Rhys took a deep breath, consolidating himself for a moment, then turned and waved at Ryota. “Hi!”
+
+Ryota shouted something back in an agitated tone, but he couldn’t hear through the gorillas’ barrier. He turned to the gorillas and smiled. “Thank you, everyone, but I’m good now.”
+
+The gorillas grunted back, or at least, the outgoing ones did, and they released the barrier. In a few seconds, they scattered into the forest, leaving Rhys alone with Ryota. He nodded. “Hey. Everything alright out here?”
+
+“What do you mean, ‘everything alright out here?’ Your mana signature’s been a mess for days! What were you doing in there? And… and at the end, what was that? It felt like… but there’s no way. You couldn’t have been acknowledged by the world.” Ryota started at a shout, but finished at a mumble, and the final phrase seemed more directed at himself than at Rhys.
+
+“Why not?” Rhys asked, earnestly curious.
+
+“Because that’s… it’s ridiculous. Our house’s founder was acknowledged by the world. Maybe once in a thousand years does the world acknowledge someone, and only when they’re walking a new, unique path that no one has ever walked before. Only geniuses, legends, heroes, sword saints, and heavenly demons get acknowledged by the world. Special, rare people. It’s… it’s not the kind of thing people who associate with losers like me do.”
+
+“What? Come on, man. I hang out with you. And I don’t think you’re a loser.”
+
+Ryota snorted, then did a double take. “Wait, then—you really…”
+
+Rhys grinned and waggled his brows, but didn’t say anything. It was way trashier not to say it.
+
+“No way. You? That’s impossible! You’re just a, a…”
+
+“An ordinary guy? A civilian. A weirdo. A wandering loner, drifting in search of peace and love. A daft, impossible man, flying around in a daft box—okay, well, I’m definitely not that one. I don’t have the education.” Rhys snapped his fingers and shot double finger guns at Ryota. “But I am acknowledged by the world, so deal with it?” Lifting his hands, he mimed putting on sunglasses.
+
+Ryota stared at him. “No way.”
+
+“The proper response, actually, was to ream me for the back-to-back dead memes, but I’ll take a ‘no way.’ It is true, though. I did get acknowledged. Cool, huh?”
+
+Ryota shook his head, still visibly struggling to process it. “Your path… what’s your path? You have a unique path?”
+
+“Yeah. It’s trash.”
+
+“You have a trashy path, and you still got acknowledged by the world? How the hell?”
+
+Choosing not to correct his misunderstanding, Rhys just grinned.
+
+Ryota muttered to himself for a moment, then took a deep breath and looked at Rhys. “You’re either lying, insane, or both.”
+
+Rhys thought for a moment. “Probably both.”
+
+“But if you really did get acknowledged by the world, then… I’m at your service, Master. Please teach me.” Ryota bowed deeply, dropping to a knee.
+
+“Whoa whoa whoa, what’s all this? I just told you I’m trash. You don’t bow to trash. Come on, Third Prince. If anything, I should be bowing to you and begging for forgiveness.” Rhys grabbed Ryota’s arm and hauled him back upright. He wasn’t really sure what the political implications of the Third Prince calling him Master were, but he was pretty sure he didn’t want to deal with them.
+
+He’d just washed his hands of politics. He was clean of that filth. Now, he had his eyes set on founding a good, righteous, and upright legitimate religion that definitely wasn’t a tax haven meant to funnel followers’ dollars into his pockets.
+
+Though actually, I don’t think I have to be a cult to do that? I think that’s just base religion stuff.
+
+Man, it’s good to be a future High Priest.
+
+He bit back an evil chuckle and patted Ryota’s back. “Speaking of, what were you up to while I was busy? Make any progress?”
+
+“I wasn’t acknowledged by the world, if that’s what you’re asking,” Ryota muttered darkly, but there was a grin on his face. He waved his hand. “A little. I made a little progress.”
+
+“Oh yeah?” Rhys raised his brows. Maybe he wouldn’t have to make Ryota fight his grandpa after all so that Rhys could use his reality-warping technique to force Ryota to level up, shounen-manga-style, and gain control over his unlimited mana berserker form. Maybe Ryota would figure it out on his own! Maybe all he had to do was apply himself, and it all would work out.
+
+“Yeah.” Ryota closed his eyes, then swept his hand out. Behind him, a dozen glowing golden swords manifested, shimmering in the low light of the forest. He swept his hand around, and the swords swung with it, moving in concert and weaving together in an almost hypnotic, yet completely deadly, pattern. He opened his eyes, and the swords dematerialized.
+
+“Damn,” Rhys said, impressed and a little excited. Sword formations, in real life, live in front of him? Today was pretty damn awesome.
+
+Ryota blushed and looked down. “I know it’s not what you told me to practice, but I… it’s something I’ve been working on for a while, and I finally made a breakthrough and—”
+
+Rhys raised his hand. “Look, man. I told you to do your own thing, and you did. I’m happy. I’m happy to see that you can grow on your own when given your own space to breathe, you know. If I had to direct you every step of the way…” he shook his head. “I’m getting exhausted just thinking about it. I don’t want that.”
+
+Ryota thought for a second, then nodded. A smile spread across his face, and he glowed with pride from within. “I… think I like this.”
+
+“Good! ‘Cuz I make a shit teacher, so it’s better if you’re self-paced.” Rhys clapped, glancing back at the hole he’d come out of. He’d used external impurities to reforge his body this time, so his core was still full, and getting acknowledged by the world hadn’t cost him anything, so he was good to move on. He nodded at Ryota. “Are you good, or do you want to spend some more time here?”
+
+“Are you going to let me leave?”
+
+“Sure, why not?”
+
+Ryota narrowed his eyes. “Says the guy who trapped me here and even enlisted the help of the locals to keep me stuck.”
+
+“What? That was then, this is now. I’m good to go, and you’ve done everything I hoped you would and more, so I don’t need to hold you here any longer.”
+
+Ryota snorted. “So selfish.”
+
+“Aren’t we all?” Rhys paused. “I take it that means you’re done here?”
+
+Ryota nodded.
+
+Rhys turned to leave, then paused. Ryota almost ran into him and hesitated as well, confused. “What now?”
+
+“Well, we could go, but… what if we went deeper instead? Took on whatever lies at the center of this forest?”
+
+Ryota instantly paled. He shook his head as hard as he could. “That beast is stronger than my grandfather. It would be suicide.”
+
+Rhys sighed. “Alright, alright. If you insist.” He cast a final reluctant glance toward the center of the space, then sighed and turned to go. It wasn’t like he had a reason to fight whatever laid in the center of the forest, just like he didn’t have a reason to fight the gorillas, so he was fine with leaving it be. He just had this lingering feeling that the strongest bosses had the best loot.
+
+Though, then again, what would I do with good loot? Throw it in the trash?
+
+Rhys chuckled at himself and followed Ryota out of the forest.

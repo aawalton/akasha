@@ -1,0 +1,125 @@
+---
+id: f78b1d0a-97d0-5c74-ae30-fe4878dea541
+page-type-slug: story-chapter-royal-road
+title: "248. Wanna Talk?"
+slug: 0248-248-wanna-talk
+partOf: god-of-trash
+position: 248
+ownLength: 1707
+unit: words
+publishedAt: 2025-12-15
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2851094/248-wanna-talk"
+royalRoadId: "2851094"
+---
+
+The man licked his lips, then snarled. “Dammit! This is all that idiot Blanc’s fault… and now he’s dead, anyways, so why did I even bother?”
+
+“Yeah, why did you bother?” Rhys asked.
+
+The man gripped his robes and pulled them down, showing Rhys his neck. A small mark stood there, the same as Bast’s in both appearance and aura. “There. That should tell you everything you need to know, right?”
+
+Rhys’s eyes widened. He sucked in a breath. “Oh.”
+
+The Alliance was behind this. Specifically that Virgil loser who’d gone around marking everyone. It didn’t answer why they’d put down a filth pillar in a random sect, but it at least answered who.
+
+“Right? So leave me alone! We never wanted this job, anyways! Got forced into it by… that asshole,” he finished at a grumble, as the mark’s mana suddenly surged.
+
+“Hold on. I think I can remove that mark.”
+
+“You think?”
+
+“I haven’t tried it yet. But I was going to kill you anyways, and you’ve told me everything I need to know, so you sound like perfect fodder!” Rhys replied cheerfully. Before the man could protest, he reached out and touched the mark.
+
+The mark was complex, full of mana circuits even denser and tighter than the ermine construct. But this time, Rhys wasn’t trying to preserve or keep it in any way. He slammed impurities into it, filling it with filth so it couldn’t function, the same as he’d done to the man’s mana systems.
+
+The mark slowed to a halt, but then, abruptly, the entire thing shuddered. Mana surged again, stronger than ever before. Rhys tried to stop it, but it was so overwhelmingly pure and strong that he couldn’t contaminate it in time. He leaped back, releasing the skeletal hands at the same time.
+
+“What did you do? Get back—”
+
+Before the man could even finish jumping to his feet, the energy that had gathered in the mark exploded, cutting his head clean off. He dropped like a puppet with its strings cut, his body hitting the ground moments later.
+
+Rhys grimaced. “Well. Guess brute force isn’t going to work.” At least he’d found it out on this guy, not Bast. He knelt, absorbing the body back into his core, then wandered the battleground, sucking up the blackguards’ bodies one by one.
+
+As Rhys cleaned up, the weaker mages came out from where they’d been hiding. Slowly, they approached the square, looking around with bright eyes like little forest animals coming out from their dens after a long rain. In the center of the square, the old man sighed in relief. Rhys cleaned up the last body before walking over to him.
+
+“So. I take it the ambush wasn’t your idea?”
+
+“No, no, not at all, benefactor! I am the Schoolmaster of this school… or was, back when it was still functional. Not long ago, that man…” He winced, touching his neck, and changed his wording. “Those men attacked our school and installed that pillar. We were powerless to stop them. I truly have no idea what their purpose was… but we know we were not alone in our fate.”
+
+“No?”
+
+“No. The other schools around us also had pillars installed in them. We used to be known as the Four Cardinal Schools… North, South, East and West, but now we are nothing but hosts for those pillars. I dare not guess for what purpose they were installed.” He gave Rhys a look.
+
+Rhys raised his brows. The man kept making very pointed statements about the pillars’ purpose, which suggested he knew exactly what it was, but just couldn’t say thanks to whatever compulsion the mark put him under. He nodded slowly, thinking about it. North, south, east, and west. Four directions. In a lot of his trashy novels, putting something, or rather, the same thing in four different directions would make a seal or formation of some description. In other words, the filth pillars were probably sealing something in the center of these four schools.
+
+And it’s something Virgil wants sealed. I’m going to go out on a limb and guess that it’s something I want unsealed. It was time to go find those other three pillars and absorb them, too, then unlock whatever Virgil had sealed away. He didn’t know what it was, or why he’d sealed it, but as long as Virgil wanted it gone, Rhys wanted it back. Was it petty as hell? Yes. Was he going to do it? Also yes.
+
+“Interesting. I think I’ll go investigate these other three schools. Should I expect a warm welcome?”
+
+The old man blinked, then realized what Rhys was saying and nodded. “Yes, yes. A warm welcome, just like you received here.”
+
+“Understood.”
+
+He paused, then cleared his throat. “My name is Ergan Roster. I, and the entire West Cardinal School, owe you a great debt. I cannot repay it right now, given the state of my school, but if you were to come back another time, I would happily give you your due.”
+
+“Ah, no worries. I benefitted plenty as it is. Unless… no, wait. I do want a reward,” Rhys said, remembering his goal of taking down the Alliance. He’d need manpower, or at least  “How about you owe me a favor for now?”
+
+Ergan bowed his head, accepting it.
+
+“And if I figure out how to remove those marks, I’ll come back and take care of yours,” Rhys promised.
+
+“Ah… that… could be a problem for me.”
+
+“You don’t want the mark removed?” Rhys glanced around him at the bloodstains on the stone. “But if that’s the case, aren’t you already in trouble?”
+
+“A bunch of rowdy mercenaries infighting? That won’t put me in trouble at all,” Ergan said, waving his hand. The rest was left unsaid: but someone able to remove marks would be deeply interesting to whoever put marks on people.
+
+Rhys nodded slowly, understanding. Right. I didn’t think through the entire scenario, but he’s right. I can’t go around removing marks willy-nilly. If I remove one, I should destroy the evidence. Not that that was going to be hard, if he had a ‘warm welcome’ to expect at the other three sects. Plenty of fodder to test his mark-breaking on! Even if Ergan didn’t want his mark removed, Rhys was still determined to remove Bast’s. Bast had all but asked for his to be removed, and if there was going to be some kind of negative social reaction to Bast losing the mark, Rhys would just kick everyone who was causing problems out of the way, or take Bast somewhere where there wouldn’t be any problems.
+
+Ha. Back in the day, I relied on Bast to protect me, but now, I’m the one protecting Bast. He couldn’t imagine that Bast had hit Tier 4 this fast. Someone was sabotaging him, after all, by harming the Sword Saint, and Rhys had gone and absorbed an entire empire’s worth of impurities to help level up super fast. Once he got Bast out of this situation and back on track, he was pretty sure the man would outpace him again, but for now, poor Bast was stuck in a rut.
+
+He turned to the students remaining in the school. “Is everyone alright? This old man isn’t lying to me? I’ll kill him if he is, I swear.”
+
+All the mages immediately started shaking their heads hard. A few jolted or paled, terrified.
+
+“Alright, alright. I just had to make sure,” Rhys said, putting his hands up. He nodded at Ergan. “You understand.”
+
+“I would prefer that you hadn’t done it in front of me, but I do understand your purpose in being obnoxious.”
+
+“Ha. I knew you weren’t afraid of me, old man.”
+
+Ergan shrugged. “I can do little to keep you from killing me. If you wanted me dead, I would be dead already. Why fear what I cannot prevent?”
+
+“Damn, you’re even worse off than some friends I knew back in… home. You’re alright, old man.” Anyone with end-stage fatalism was alright by Rhys. If nothing else, they were at least not annoying like little children, with their hopes and dreams and shiny eyes, all full of life, who were constantly and continuously let down by the real world, and had to be annoyingly babied nonstop… or maybe that was just his one annoying young coworker, but in any case, he preferred fatalists to… whatever the opposite of fatalism was. Believing in your dreams?
+
+He turned toward the other schools. “If you had to pick, where should I go second? If you can say.”
+
+Ergan turned to face the schools as well. He considered for a second, stroking his beard, then pointed. “East. Opposite us. If there was a seal… or formation of some kind, then you would want to take down the opposing side to prevent the seal from backlashing and destroying what was sealed.”
+
+“I don’t want to destroy what’s sealed?”
+
+“I assumed you came here to unseal it.”
+
+Rhys considered. “I didn’t not come here to unseal it.”
+
+“Then I would proceed across to the Eastern Cardinal School.”
+
+Rhys saluted. “Thanks, old man.”
+
+“Don’t mention it.”
+
+Rhys started to walk off, then turned back over his shoulder. The skeleton mount stood there, rigidly standing where he’d left it. Why walk, when he could lounge there in style?
+
+He whistled. The skeleton walked over, its arms outstretched. He hopped up, and the skeleton walked off, carrying him down the mountain and off toward the next mountain.
+
+--
+
+The mysterious stranger left without leaving so much as a name, demanding even the most powerful of curses at his whim. His ease at forcing the bloodthirsty cursed creature to do even the simplest tasks spoke to his incredible mastery and fearful control of undead beings. Ergan hadn’t felt fear in a long time, but standing next to that man, he couldn’t help but feel afraid.
+
+One of the students scurried over to Ergan. “Sir, was that a demon?”
+
+Ergan smacked her on the shoulder. “Don’t be rude to our savior.”
+
+The student gazed at him silently.
+
+“I can’t tell you. I’m wondering the same thing,” Ergan muttered to himself, watching Rhys walk away.

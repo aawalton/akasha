@@ -1,0 +1,256 @@
+---
+id: 21ef89b0-de92-541e-b985-2833279dd474
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12: Against a War Veteran"
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 12
+ownLength: 1720
+unit: words
+publishedAt: 2026-07-07
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3646023/chapter-12-against-a-war-veteran"
+royalRoadId: "3646023"
+---
+
+Chapter 12: Against a War Veteran
+
+The spirit energy went through my foot into the ground and through the ground into him. Hippo traveled backward with the specific trajectory of something that has been told to go somewhere by a force that does not negotiate. He hit the metal wall with a sound that the wall absorbed without complaint. He came down on one knee, and stayed there for a moment.
+
+Then he stood up.
+
+He shook himself once, and looked at me and then at White.
+
+"Talented. Both of you. Genuinely." He rolled his shoulders. "Ramzan would treat you well. The sect leader rewards ability. Swear loyalty and this stops here."
+
+"Unfortunately, I've already sworn loyalty to myself," White said, from his left. "It's an exclusive arrangement."
+
+She slashed.
+
+He ducked. Low, faster than something his size suggested he could move, and rolled to the right. White's blade connected with the metal wall and produced a sound that resonated through the stone floor.
+
+He came up from the roll.
+
+White was already in position for a follow-up slash — but her sword did not pull back from the wall.
+
+"Hmm?"
+
+She pulled. It did not come.
+
+"A larger element attracts smaller ones of the same type." Hippo was already at her side with his talons held low. "Did they not teach you that? The same principle that keeps Earth cultivators rooted to the ground."
+
+His talons, coated in green spirit energy, struck White's side, where a layer of grey spirit energy had done nothing to stop them. She was sent stumbling. The sword went with the wall, absorbed into it, gone.
+
+I moved toward him.
+
+He ignored me entirely and followed White.
+
+"Leave the defensive anchor. Focus on the damage dealer. Standard practice."
+
+White recovered faster than the hit suggested she should, putting her hand on the ground. Metal seeped upward through the stone in thin threads and gathered, and shaped itself into a dome around her. She pulled the dome closed. Then the outer surface changed into spikes.
+
+Hippo stopped in front of it.
+
+He looked at it. Then his wooden talons reformed while moving up like snakes, coiling. The wood accumulated in the air above the spiked dome, compressing into a sphere that grew and grew until it shadowed the dome completely.
+
+It dropped.
+
+White undid the dome and ran.
+
+Fast enough that it hit behind her, not on her. The impact shook the floor and threw dust outward and she was already changing direction — but Hippo was already in front of her.
+
+His foot connected with her stomach while she was mid-stride.
+
+She hit the floor.
+
+I moved to her side this time, rather than chasing Hippo.
+
+"Are you alright?"
+
+White pushed herself to sit. One hand on the floor, the other at her ribs, her breathing measured and deliberate.
+
+"The wall is a problem. This must be what Earth cultivators feel with the ground. A constant pull toward something larger than you, and no clean angle away from it."
+
+"I don't know what you're talking about. Anyway, how do we beat him?"
+
+White looked at me. "Aren't you quite pushy?"
+
+I waited.
+
+She sighed. Then she looked at the metal wall beside us. She reached out and placed her palm flat against its surface, held it there for a moment.
+
+"Maybe if I could take some of this…" She pulled her hand back. "But whoever is holding it has a claim I can't override."
+
+"Dream on." Hippo was walking leisurely towards us. "The sect leader's sword of judgment. He made it, he controls it, and he's operating several tiers above everyone here. What made you think you have a chance?"
+
+"Human Dad will beat him," I said.
+
+Hippo just laughed and continued walking.
+
+"Raffea." White's hand was on my arm. Her eyes were on the wall. "Send spirit energy. More than before."
+
+I shook my head. I know what will happen, she will definitely explode.
+
+White giggled. "Not to me stupid — to the wall."
+
+"Why?"
+
+"To interrupt the control." She placed both palms flat against the surface. "Just for a moment is enough. If the hold breaks even briefly, I can take a piece before he reclaims it. The question is, do you have more spirit energy than the one controlling this?"
+
+It sounded like a provocation. Very much like her.
+
+I placed both hands on the wall.
+
+I sent a small amount.
+
+"More," White said. "He's almost here and it's just a wall. You don't need to be careful."
+
+She had a point.
+
+I stopped being careful.
+
+The wall glowed gold.
+
+It lasted long enough for Hippo to see it and stop walking and then start walking faster.
+
+Then it dimmed.
+
+The section near White's hands softened first. The metal lost the rigid certainty it had carried since the sword came down, becoming something that could be argued with. White argued with it. Her hands moved and the metal moved with them, pulling away from the wall.
+
+It formed into a wave.
+
+White controlled it.
+
+The grey tsunami moved above Hippo. Wide. Fast. High.
+
+Hippo saw it. He was fast. But not fast enough to evade something this big.
+
+The wave hit him and folded over him and the momentum carried it past him and it swirled, White's hands still moving, shaping it as it moved, and it closed.
+
+A sphere. Solid metal. Perfectly sealed.
+
+The room was quiet.
+
+White was breathing hard. Both hands at her sides now, her aura compressed from the effort. Blood at the corner of her mouth that she didn't acknowledge.
+
+"One down." She looked up. "One more to go."
+
+"Burton!"
+
+Above us, Magpie was no longer circling.
+
+He was diving, looking at the metal sphere where Burton had been.
+
+He folded his wings, came down fast, and aimed at us.
+
+I moved in front of White. She was exhausted. Whatever came next, she was not going to be the one handling it.
+
+I concentrated on my neck.
+
+The warmth was still there. It was always there. I found the edge of it and held a measured amount ready. The moment he was close enough, I would stamp. One clean transfer of spirit energy through the ground.
+
+I watched him descend and calculated the timing.
+
+Timing, the tutors had said once during a lesson I had mostly been thinking about leaves, was the difference between a technique landing and a technique failing. I had not paid full attention at the time. I was paying attention now.
+
+Magpie burned brighter.
+
+His aura intensified as he came down. The red deepened, the jade stones throwing fragments of colored light in all directions. He was concentrating everything into the dive, making himself into a very committed shooting star.
+
+I held my position.
+
+The distance closed.
+
+Then Fish appeared.
+
+He was simply there, between us.
+
+He stepped to the side. Not one clean motion, a normal motion. He moved his arm like he remembered to do so. The ice dagger angled toward Magpie's throat.
+
+Magpie eyes widened.
+
+He tried to stop his momentum, but his momentum was too committed. He had given everything to the dive and there was nothing left to spend on reversing it.
+
+His body torqued as he threw his weight sideways, burning spirit energy to slow himself, the red aura flaring with the effort and it worked, partially. He slowed. Not stopped, but slowed, enough that he came through the space beside Fish rather than directly through him.
+
+Fish's arm adjusted by a fraction.
+
+The dagger found his throat on the way past.
+
+Magpie landed on all fours. His hands hit the stone floor and he caught himself there, head down, breathing. His hand came up and pressed against his neck, fingers finding the cut, and the blood ran between them.
+
+He raised his head. "Fa..." He stopped. Started again. "Father..."
+
+He crawled.
+
+Three meters. Maybe four. The red aura had gone entirely, the jade stones dull, and he moved.
+
+Then he stopped.
+
+He lay still on the stone floor of the training room, one hand still pressed to his throat, his face turned toward the wall that separated this side from the other.
+
+The room was very quiet.
+
+I looked at Fish.
+
+Fish looked at the floor where Magpie had stopped. His dagger melted.
+
+"And that was all." White slumped on the ground, her back against the metal sphere. "Good thing he was with us rather than Fridd or Duam."
+
+I nodded.
+
+Fish was indeed very useful… Wait. Had I just agreed with an insult directed at Badger and Porcupine?
+
+[Yes.]
+
+I looked at White. She was cleaning her glasses with a cloth. She did not appear to notice that she had successfully recruited me into disparaging our teammates.
+
+I decided not to bring it up.
+
+"By the way," White wore her glasses, "I managed to make a hole in the wall."
+
+I turned.
+
+There was. When White had pulled the section away, the wall had not fully reclaimed the space. A gap, and beyond it, light from the other side.
+
+I ran.
+
+Then I slowed.
+
+Then I stopped and looked back.
+
+White was still seated against the metal sphere, her hands in her lap. She had not moved.
+
+She finally looked up at me. "What?"
+
+"Aren't you coming?"
+
+She laughed. "Can't you see I'm spent? I'll come later."
+
+I looked at her properly. The compressed aura. The blood at her mouth she still hadn't wiped. The way she was leaning against the sphere not as a choice but as a structural requirement.
+
+She really was spent.
+
+"Sorry."
+
+White shook her head. "Don't be." She tilted her chin toward the gap in the wall. "Go. Isn't that your father on the other side?"
+
+I nodded.
+
+"Then go." She closed her eyes.
+
+I turned back to the hole. The metal wall was slowly reclaiming itself. The edges of the gap closing inward.
+
+I ran through it.
+
+The other side opened into a different kind of destruction.
+
+Above, Human Dad was riding the giant log with wings.
+
+In front of him, an old man on a flying sword.
+
+He was looking at Human Dad.
+
+Human Dad was looking at him.
+
+The air between them had the particular quality of a pause that is not empty.
+
+I kept running.

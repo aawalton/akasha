@@ -1,0 +1,59 @@
+---
+id: 1912151d-700a-549d-b229-48d41d1394d5
+page-type-slug: story-chapter-royal-road
+title: "079: Anchor of the World"
+slug: 0079-079-anchor-of-the-world
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 79
+ownLength: 1979
+unit: words
+publishedAt: 2024-08-10
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1752642/079-anchor-of-the-world"
+royalRoadId: "1752642"
+---
+
+Something hot and wet flowed down her face, but Evelyn was unable to see what it was until it started to flow down her shoulders and using her still working eye saw herself coated in blood. With her battle cry she had activated Soul of the Unstoppable Conqueror and already the pain of the venom was receding and her wounds knitted themselves together.She was no stranger to pain and even though this was on a different level than most of the torture she had experienced at the hands of the tower Evelyn was able to keep herself focused. Taking advantage of her opponent’s shock she gripped Spinebreaker in both hands and let the power of the reality node flow freely in her veins.This time he failed to escape in time. Whatever strange skill he had been using to blink in and out of reality wasn’t all-powerful. Instead of smacking him away from her she had brought the war hammer down onto his shoulder and he crumpled to the floor.Without delay she raised it up again and smashed it into his skull, painting the battlements in his blood. She would take no chances this time. Even though a regular foe would be long dead, Evelyn continued to smash Spinebreaker into his limp corpse until it was a soup of flesh and blood.
+
+Your class has advanced!Unyielding Warrior Lv.15 > Lv.16
+
+World Event - Hidden Objective discovered!Defeat members of opposing guilds to earn extra rewards, to be calculated at the conclusion of the event.
+
+Well, isn’t that a fucking surprise. Not. Stupid tower. I’m not going to go out of my way to kill other challengers just because you tell me to. If they attack us, well that’s a different matter entirely.“Woah there, darlin’. Visceral. I think he’s been dead for a while now.”Kayla grabbed hold of her arms and stopped her mid swing. Evelyn let the hammer fall to the ground as she swayed from side to side, but the woman supported her.“He can regenerate. I saw it. Just making sure.”“I don’t think anyone could regenerate from that, but if you say so.”“Are they all dead?”“Every last one. And I think I know who sent them. We’ll need to have a very long, very hard conversation with Kyron once this damned world event is done,” said Kayla while looking towards the direction of Ventura’s outpost with undisguised fury.“I always knew he was a slippery prick. He gave me bad vibes from the very moment I met him,” said Evelyn, remembering the odd feeling she had at the back of her mind that day he had shown her around Haven. “Are mother and Anthea alright?”“Right as rain. Dealing with the monsters for now. That’s never ending. Do you have the essence to repair all this… stuff,” she said while waving an arm at the various destroyed and non-functional defences.“Not yet. It should be soon, though. Eight billion essence.”Kayla let out a low whistle and stamped a foot against the wet bricks. “Goddamn darlin’. You better get me a gift with all that money.”“That depends on whether you deserve it or not,” said Evelyn. She turned to face Kayla and smiled. Her face and body were soaked in blood and little chunks of flesh, which made it a lot more horrifying than intended.The southerner took it in stride and wrapped her arms around Evelyn’s waist. “Once we get out of here I’ll show you exactly why I deserve it.”A coppery tang tickled her tongue as they kissed and she had to pull away far sooner than she wanted to when an armoured mole leapt over the edge of the walls and slashed at Kayla’s unguarded back.“I’ll be waiting.”
+
+***
+
+After repairing everything and refuelling the flamethrowers and various other defences, Evelyn had spent almost half a billion essence. Which seemed ridiculous, but Defiance had control over almost a third of Haven’s city wall. There was a lot of ground to cover.Even so, she was left with an absurd amount of wealth with little idea of what to do with it. One thing was for certain, however. She would  need to stop hiding away from using it to her advantage.When the world event was done she had two priorities. The first was to get back to climbing the tower. These battles had challenged her, but there was nothing quite like the thrill she felt when beating another floor and advancing ever higher. The second was to start throwing her weight around Haven.The guild politics had seemed like a weary game, but she knew they were the key to humanity’s continued survival and as strong as the five of them were individually, they couldn’t take on the rest of the world alone.Yet.She glanced towards Ventura’s outpost. It was almost as big as theirs. Kyron probably had the resources to go even bigger, but he had been sandwiched between Steelweb and another of the big guilds which meant they all competed for territory and monsters to fight.He would get his reckoning. Evelyn would not forget. Though she had half a mind to thank him for sending all those assassins their way. She had gained a lot from defeating them.
+
+Essence: 7920817619『+219668283392 / 5:51:03 hours』
+
+~~ Stars ~~
+
+Grey: 148
+
+White: 39
+
+** Inventory **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+**Guilds**
+
+**Property**
+
+【OVERCOME】
+
+More than a lot, in fact. Evelyn was worried the tower was going to realise it had made some kind of oversight and snatch her skills and stars away from her. There was little point in worrying about such a thing however, because she wouldn’t be able to stop it if it tried.Her class had levelled up again at long last, giving her two more attribute points split between fortitude and power. She had been about to check out her status when the ground started to rumble and shake. Bricks tumbled from the walls and she had to grab hold of the edge of the battlements to keep herself from falling over.The earthquake continued for a few seconds. It had destroyed quite a few of the buildings in the city and Evelyn could see those people still inside the walls scrambling about to help each other from under rubble.As quick as it had arrived it vanished. I don’t like this. Her fears were proven correct not a moment later when something exploded from the ground right in the middle of the city. Earth and rock erupted into the sky like a volcano of dirt and showered the city and the walls alike.When the dust and debris cleared, Evelyn looked towards the source of the carnage. A huge beetle with a glossy black exoskeleton that was littered with glowing blue runes stood in the centre of Haven. The runes were similar to the ones she had seen in the puzzle on the 16th Floor. Along with the new arrival there was a message from the tower.
+
+❰ Instance - Hyper Boss Raid ❱
+
+After slaughtering countless of his minions, you have enraged the beetle lord of the underworld. Zork’Karu the Wrought Iron Anchor has emerged from the deepest recesses of the earth to bring destruction to Haven. Will you band together to stand against his might or attempt to undercut your allies and claim victory for yourself? Whatever your choice, make it fast, because he will not sit around and wait for you to twiddle your thumbs before he strikes.
+
+“Oh dear, this isn’t going to be pretty,” Evelyn muttered.“I actually think he’s rather beautiful. Those glowing runes are exquisite,” said her mother while launching lances of frost at the endless waves of monsters.“Let’s forget about the walls and crush it together. I think this spells the beginning of the end for the event. And the city if we aren’t quick to act,” said her father.“Beetles aren’t as cool as ants. They’re pretty neat, though. Do you think I could try and tame him?”Evelyn cackled. Even her mother couldn’t suppress a smirk. Anthea always knew how to keep spirits high, whether it was by accident or design.Now that the defences had been repaired and refilled, they would be able to stem the ever swelling tides of monsters that continued to swarm the walls. It wouldn’t be perfect, but Evelyn was sure the people waiting below could deal with any that got through.And her father was right - this should be the final moment for the world event. She glanced at the clock.
+
+Time Remaining: 20:34:17Death Toll: 7,133
+
+Quite a few more died in just three hours. I guess the arrival of the new hyper boss caused a spike. Anyone around that impact site without the strength to keep themselves alive was probably blown away.They clambered down the walls as fast as they could. It was far more difficult to get down than it had been to climb up, especially when they had to pause every few moments to fend off monsters that launched themselves over the battlements.Eventually they reached the base of the walls. It was the first time they had touched solid earth in over a day and Evelyn couldn’t deny that it felt amazing. She bounced on the dirt a few times before chasing after the others towards Zork’Karu, the titanic trilobite beetle who was already smashing buildings to pieces.“I have no doubt that the other guilds will use this as a chance to try and take us and each other out. Let’s keep our guard up even when we start to fight this beastie,” said Kayla.Reaching the centre of Haven took ten minutes. The walk was usually longer but this time they had sprinted the full distance, not wanting to let the boss rampage unchecked.Zork’Karu was even more breathtaking up close. Evelyn had to agree with her mother. The beetle made for a fearsome sight, with armoured chitin plates covering the full length of its body, but the obsidian black against the glowing azure runes was a spectacular sight. There had to be a connection between the tower and this creature, but Evelyn would figure it out during the battle or after they had emerged victorious.Many nearby challengers had already engaged the hyper boss in battle, but it was a futile effort. The fighters left within the walls of Haven had been the weakest of the weak and they were unable to offer much resistance to the destructive charges of the heavily armoured beetle.Across the field of rubble and rock, she could see some of the big players from the other guilds also arriving on the scene. Alice Steelweaver led a contingent of her fanatics, Kyron had a few of his cronies accompanying him - Evelyn shot him a fierce glare but didn’t let her gaze linger. She didn’t want him to know she knew.Even T was here. The man usually stayed in the shadows until it was truly necessary for him to get involved when it came to big and messy battles, but it seemed this was an urgent matter for everyone in the city.For now the others didn’t seem to want to fight among themselves, which was a great sign. Evelyn had hoped they were mature enough to work together, even if only to save their own properties and assets in Haven. If they wanted to start killing each other, they could leave it for after the boss was dead and buried.She stumbled for a moment as a sharp spike of pain exploded through her temple. Her headache was coming back in full force. I needed more sleep. There was nothing to do except force herself to ignore it, however.That proved difficult though, because with every step she took the pain intensified little by little. She didn’t have much chance to rest but it shouldn’t have been this bad. Evelyn glanced around and saw that almost everyone approaching Zork’Karu was grimacing or clutching their heads. It seemed something was amiss.

@@ -1,0 +1,145 @@
+---
+id: a3d752a2-8b4a-56af-9f9c-ce866acb426f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11 - Peace, or the Calm Before the Storm?"
+slug: 0011-chapter-11-peace-or-the-calm-before-the-storm
+partOf: hell-horizon-healer
+position: 11
+ownLength: 1805
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3521832/chapter-11-peace-or-the-calm-before-the-storm"
+royalRoadId: "3521832"
+---
+
+Glenn Pov
+
+Glenn groaned, coughing as a mouthful of grit settled on his tongue. He flopped onto his side, his sweatpants dragging through the dirt, before rolling onto his back to stare blankly at the rough limestone ceiling. A fresh breeze filtered through the cave mouth, carrying the sharp, minty perfume of pine. For a fleeting, beautiful second, the sheer relief of that cool air made him forget about the waterlogged linoleum of Floor 7, the faceless shadow monsters, and even... his hygiene.
+
+What the hell am I doing?
+
+The thought hit him like an electric shock, dragging him out of his lethargy. Glenn snapped upright, his heart rate spiking with a sudden, localized panic that had nothing to do with goblins. He immediately began rubbing at his face with the hem of his hoodie, his movements frantic and meticulous as he tried to scrape away the layers of mud, ash, and monster grease that had coated his skin during the sprint through the portal.
+
+“What are you doing?” Chloe asked from the side of the recess. She was leaning heavily against her spear, watching him with a mixture of exhaustion and mild amusement.
+
+“So much dirt and filth,” Glenn muttered, his fingers pinching his skin as he checked his jawline for grit. He felt exposed, greasy, and dangerously unpolished. “If I don’t get rid of it now, it’ll clog all of my pores. Breakouts under this kind of stress are a nightmare to clear up.”
+
+Chloe tilted her head, her news-anchor brow knitting together. “And that matters right now… because?”
+
+Glenn grumbled under his breath, turning his back to her so she couldn't see the flush of embarrassment heating his neck. “You wouldn’t get it.”
+
+After all, how could a girl like Chloe understand?
+
+Chloe didn't know the reality of the poor areas where he’d crawled from. She’d never stepped foot in a crumbling, sub-basement unit where four families shared a single, leaking pipe for water, and the air constantly smelled of wet rot and cheap, burnt lard. In his world, poverty was a visible stain. If you looked hungry, if your skin was sallow and your clothes were stained with the grease of a blue collar worker, people looked right through you.
+
+You were a background extra, disposable and invisible.
+
+Glenn had spent five brutal years in the entertainment trainee circuit tearing his own body apart to wash that stain off.
+
+He remembered the endless nights in the dance studios, his toes bleeding inside his sneakers, his stomach cramping from a strictly enforced diet of watered-down broth and half an apple a day. The agency managers didn't care about his talent; they cared about the silhouette.
+
+They drilled into him that a single flaw, a single unpolished blemish on his face, or a momentary slip in his posture would reveal his ‘poor’ roots to the investors and get him dropped from the debut roster.
+
+His face, his symmetry, his practiced, easygoing smile—it was a shield he had painstakingly engineered to trick the world into thinking he belonged among the elite.
+
+Even now, with the world inverted and the System restructuring reality into a literal meat grinder, that psychological trauma was impossible to delete.
+
+To Glenn, letting himself look messy, dirt-streaked, and run-down didn't just feel gross—it felt dangerous.
+
+It felt like stepping onto a stage with his protective armor missing, letting the entire floor see the hollow, terrified, poor kid hiding behind the idol's mask.
+
+He took one final, rough swipe at his cheek, ensuring his skin was as clean as the dry fabric would allow, before smoothly rising to his feet. He adjusted the strap of Jonathan's composite bow over his shoulder, forced his spine into a textbook, confident alignment, and turned back to face the group with a flawlessly practiced, reliable smile.
+
+First, he wandered over to where Susan had curled up into her own knees. She was shivering, most likely from pain.
+
+Glenn grimaced as he glanced at her wounds. “Are you okay? Is there anything I can do?”
+
+The woman didn’t bother responding. She only gave a small shake of her head, though it was almost impossible to tell if that was an actual answer or just her trembling from the pain.
+
+Not knowing how to help, he stepped to the edge of the cave. Edwin was down below gathering wood. Glenn looked over in the direction that Jake, Sloane, and Lyle had left for.
+
+He didn’t know what to make of these people.
+
+Susan was bat-shit insane and would most likely get herself killed sooner rather than later. Chloe seemed reliable enough, but it was clear she was not much use in a fight. Still, she was brave enough to join them despite that, which told him enough about her character.
+
+Edwin was all business, a serious leader who did what had to be done.
+
+Arthur… he just didn’t like him. Glenn had met plenty of people like that in the trainee circuits—the types who wore a fake face to stop others from prying beneath the surface. It felt like he was trying too hard to act like a hero. Maybe it was because he reminded him of himself.
+
+Sloane was a mystery, a cool beauty who kept her spirits high no matter how shitty the situation got. For some reason, he thought she would get far in this new world. Lyle was the hero-type, the kind of guy who’d run into a burning building to save a stranger without a second thought for his own life. He was right next to Susan who’d either die first, or somehow against all odds, survive the longest.
+
+Then there was Jake.
+
+Glenn didn’t know how the guy remained as calm as he did. Edwin was an ex-soldier who had obviously seen active combat, but what was Jake’s excuse? Was he just screwed up in the head? Every time Jake scanned him with those tepid eyes of his, it felt like he was looking right through him. Through his insecurities, through his mask. It was honestly terrifying.
+
+Scratch that. If there was someone who would make it to the end of this hell—it was him.
+
+***
+
+Jake Pov.
+
+They found water.
+
+Lyle stepped out of the tree-line as the allure of the shimmering body of water was too much to bear. Jake’s arm lashed out and grabbed him by the scruff of the neck, pulling him back.
+
+Sloane had her sword already in her hands.
+
+Jake gave Lyle a warning look, and the hero nodded. There was no sign of life, and that meant one of either two things. One: it was dangerous and there were monsters laying in wait. He’d seen plenty of wildlife documentaries of predators lurking wherever water lay.
+
+Or two: the water was poisonous and no beast bothered drinking it in the first place.
+
+Clicking his parched tongue, another bout of pain stabbed into his head. They needed the water, and who knows where, or how long it would take to find another source. It was do or die.
+
+Jake motioned towards Lyle and Sloane before stepping out. The other two remained hidden. Look, he’d have preferred to have Lyle be the meat shield, but the truth of the matter was: Jake was stronger. With Gutter-Tooth and a level up dedicated to Strength, he was most likely the strongest amongst them.
+
+No, he was the strongest.
+
+In terms of speed and the perception to react to danger, he had the highest degree of chances of running away if things went awry.
+
+He got close to the water, every step, the beating of his heart intensified. A step away, he placed his full attention to the tree line on the other side of the water, and the body of water itself. He used Concentration to its maximum.
+
+He couldn’t hear anything.
+
+Couldn’t see anything.
+
+The water was clear, and there was nothing, not a shadow in sight. He bent down carefully, slowly, then cupped a handful of the water and brought it to his mouth, tasting it. It tasted… normal? Like how water was meant to taste.
+
+He spat it out a moment later and waited for a tingle on his tongue, for something to alert his enhanced senses that it was poisoned or manipulated, only to come to the solid conclusion that it was… water.
+
+He drank a handful, swallowing it down into his stomach and once again waited. Nothing. Not an unsettling sensation that clawed at his stomach, no twitch of a bush that signalled an ambush. Just… nothing but the refreshing nature of pure, clean water.
+
+Even with that, he still motioned for Sloane and Lyle to stay where they were.
+
+Five more minutes…
+
+Five minutes passed and he still felt fine. If it was poisoned, then it would be a long lasting kind. He nodded to the others and started taking more sips. He’d read somewhere that even if the water looked clean, it didn't mean that it was.
+
+And well, if that was the case, they would die of dehydration anyway.
+
+His body was already shutting down, and if he didn’t get the required sustenance and fast, he’d be too weak to do anything.
+
+He gulped it down like it was the sweetest nectar in existence, only stopping himself from consuming too much after the tenth sip.
+
+“Damn,” Sloane groaned in pleasure, the water spilling down her chin as she exhaled after drinking about a litre. “It’s so good. But how do we get it back to the others?”
+
+Lyle slung off the backpack he had and placed two large water containers on the grass bankment.
+
+“Lyle,” she said. “You’re a genius.”
+
+“We were searching for water,” he replied with a small smile. “I figured we’d bring our own containers. Found them in the maintenance closet.”
+
+Jake capped the jug with a hard twist of his wrist. “Fill them up. We’re leaving.”
+
+Lyle dunked the second container, watching the air bubbles chug to the surface. He cast a lazy glance across the shimmering water. “Are you sure about this place, Jake? It feels... fine.”
+
+“The system said our mission is to kill a goblin chief,” Jake stated flatly. “That means it isn't fine.”
+
+“Then why hasn’t anything attacked us yet?” Sloane asked, leaning casually against a moss-covered trunk. “Compared to that flooded hallway, this is a stroll in the park. The only wildlife we’ve seen so far has been small and chirping and fluffy. I love fluffy.”
+
+Jake looked at them. He could practically see the tight, defensive lines of their postures unspooling, their shoulders dropping an inch as the warm breeze rolled over the pool.
+
+That was exactly how it started.
+
+Jake didn’t know what kind of game this place was playing, but he didn’t believe in the peace.
+
+Not one bit.

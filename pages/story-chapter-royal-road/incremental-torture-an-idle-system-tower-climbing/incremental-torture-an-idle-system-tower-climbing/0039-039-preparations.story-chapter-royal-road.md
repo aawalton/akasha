@@ -1,0 +1,125 @@
+---
+id: ce2c6bf0-9bc6-5415-8bc7-73317669022e
+page-type-slug: story-chapter-royal-road
+title: "039: Preparations"
+slug: 0039-039-preparations
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 39
+ownLength: 2040
+unit: words
+publishedAt: 2024-05-11
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1632158/039-preparations"
+royalRoadId: "1632158"
+---
+
+Oh dear. It looks like that woman from earlier was rather well connected. Is this her boyfriend? Or just an admirer?
+
+The man in the lead was burly and covered in leather and furs. Handcrafted armour. Either he was talented in the field or had a friend who was. His weapon was equally impressive - a two headed warhammer with a sharp spike at the top. He wielded it in both hands as he strode across the plaza, glaring at Evelyn with pure hatred. And he wasn’t the only one.
+
+Both of his followers had similar expressions on their faces. They weren’t quite as muscled as their leader, but the three of them could have passed for Mr. Olympia contestants with ease. To be honest, Evelyn wasn’t quite sure how physiques worked in the tower. Her own strength and fortitude were huge, but her body hadn’t changed so much. Her muscles were more toned and a little bigger - but that was all. Maybe it was influenced by self perception. There was no time for idle thoughts as the group arrived in front of her and the watching crowd.
+
+“Look, that woman brought it on herself. If she hadn’t been so rude then I wouldn’t have needed to defend myself. She deserved it,” said Evelyn.
+
+That didn’t have the intended effect. Instead of cooling off and talking it out, the men raised their weapons and charged at her. It looked like she would have to beat some sense into them. But, right before they made contact she heard a familiar southern drawl.
+
+“You’ve only just arrived and you’re already making trouble. Why don’t I give you a hand darlin’.”
+
+Evelyn grinned. It looked like she wouldn’t need to go out of her way to find Kayla after all. Something blurred into view and in just a few seconds the three men were put down. All of them were clutching one body part or another and moaning in agony. Kayla walked around and collected their weapons, only stopping to stomp on an outstretched hand as the leader tried to stop her from looting his warhammer. She hadn’t changed a bit.
+
+“Y’all know how it works around here. Don’t go looking for trouble if you aren’t ready to deal with the consequences. It’s because of your little ringleader’s bad attitude that y’all think you can get away with behaving like this. At least try to put up a fight,” said Kayla, walking over to Evelyn.
+
+She had deposited two of the weapons in her inventory as she strolled over, but kept the warhammer out. Kayla spun it in her hands and gave it a twirl. The beefy man had needed both hands to wield the huge hammer, but the petite blonde was whipping it around with just a single hand. Kayla had always been strong, though - that wasn’t new.
+
+What was new was the cowboy hat that sat half cocked on her head. It suited her perfectly. In fact, Evelyn had always felt she was missing a little something back when they had been in a party together.
+
+“You like the hat, darlin’? I can get you one made if you like,” she offered.
+
+“No thanks, it’s not my style. Suits you a lot though. I can’t say I’m surprised to see you here, but I am a bit annoyed you beat me. I saw your name on the leaderboard - what’s that about?” Evelyn asked.
+
+Kayla shot a glance at the billboard before turning back to her. There was mostly disinterest in her expression.
+
+“Oh, you mean that thing? Don’t pay it any mind. It’s just a waste of time and energy. All that matters is trying to clear the 16th Floor. Even with my talents it was impossible. But now that you’re here, perhaps we can change that,” she said.
+
+I had expected this. To be honest, I’m not averse to partying up with her again, but I did want to try and challenge the next floor by myself. At least once. I won’t know how true the rumours are until I do. I’m sure she’ll understand.
+
+“Look, Kayla. I’d love to party up with you again at some point. But I need to see the next floor before I commit to anything. Alone. I want to know if it really is impossible.”
+
+Rather than the disappointed reaction she had been expecting, Kayla started to smile. She grabbed Evelyn by the shoulders and looked deep into her eyes. Evelyn felt her cheeks start to flush but then the southerner flicked her forehead and leaned away.
+
+“I wouldn’t expect anything less, darlin’. In fact, if you hadn’t suggested something similar I was going to retract my offer. I don’t need dead weight dragging me down. When are you going to have a try? I can’t wait to see your name on that leaderboard.”
+
+Great.
+
+“There’s a few things I want to do first. I have a feeling I might be able to get close to achieving the 1st Ascension while I’m challenging the 16th Floor so I want to be ready for it. But other than that there isn’t much. All I need to take on the challenge is my fists and my fury,” she replied with a wink.
+
+Kayla’s curiosity was piqued at the mention of the ascension. Clearly the woman was close to hers as well, though Evelyn wasn’t sure how much essence she was pulling in. Everyone was rather secretive about how they had selected their rewards or spent their essence so far. But, given Kayla’s talents it was sure to be a matter of time, rather than difficulty, before she achieved the 1st Ascension.
+
+For her part, Evelyn wanted to try and reach the required number of unusual skills before she entered the portal to the next floor. As for the essence and the attribute points, it would just be a matter of waiting. The main obstacle to her progression would be pushing her class up another 10 levels. But, if the 16th Floor’s challenge was as tough as everyone had made it seem then perhaps it would be the impetus she needed to reach her goals. Only time would tell.
+
+After saying goodbye to Kayla and promising to meet her back in the plaza tomorrow - before she began her challenge - Evelyn made her way to a tavern which Kayla had recommended. Apparently the patrons were more of the silent stoic type than the boisterous drunks who plagued the other establishments. That was just what she needed while she focused on her skills. After all, without the shop to hand she would be making some big sacrifices.
+
+It seemed the tower refused to let her keep amassing skills until her status was longer than she was tall. She would need to choose a path, of sorts. However, Evelyn already knew which skills had served her best and which had proven less useful. It would just take a little further thought to cement that.
+
+~~~
+
+Unfortunately, this tavern didn’t have liquid essence on tap. However, the cider Evelyn was sipping on was equally strong so she wasn’t going to complain. It had been far cheaper too - just 50 essence for a pint. The temptation to get blackout drunk was there. She deserved it. But her rational mind prevailed and she instead returned to focusing on her status. Her skills, in particular.
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.5
+
+|Attributes|
+
+Power: 12 (13)
+
+Speed: 4
+
+Stamina: 8
+
+Vitality: 26 (31)
+
+Mana: 25
+
+Fortitude: 48 (83)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Stargazing (Rare), Bargain Hunter (Uncommon), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Uncommon), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Spendthrift (Uncommon), Solar Fusion (Uncommon), Salvo (Common), White Infusion (Common), Star of Fortitude (Uncommon), Star of Vitality (Common), Star of Mana (Common), Star of Stamina (Common), Unyielding Heart (Rare), Star of Power (Common), Dual Focus (Uncommon)
+
+~Active~
+
+Fists of Frost (Uncommon), Mana Plate (Uncommon), Flashfreeze Flamecharge (Rare), Purge Corruption (Uncommon)
+
+~Hybrid~
+
+Overpowering Spirit (Rare)
+
+Evelyn had a moment of silent self appreciation when she saw her status. The sheer size of it was overwhelming compared with how empty it had been when she arrived in the tower. From just her name, race and attributes of 0, she had reached this ridiculous level of strength. Her skills were practically an essay. Not for long, though.
+
+What would come next would cull the list down from a bunch of useless common and uncommon skills to just a select few unusual and perhaps rare skills. But, quality trumped quantity - for the most part.
+
+The obvious candidate for her second unusual skill was Stargazing. Of her two rare quality skills it was the only one that wouldn’t severely impact her combat prowess if it changed in an unexpected way. She was loath to lose Flashfreeze Flamecharge after becoming so reliant on it - but she also recognised that wasn’t beneficial to further growth. There was just one problem.
+
+She didn’t have any more copies of Stargazing - nor did she have a way to obtain them. That meant that instead of a simple fusion to the next tier, Evelyn would have to synthesise it. But, if she combined some of her other star related skills she had no idea which of the positive effects would remain and which wouldn’t. That was risky - especially when she needed to save up 15 million essence for her ascension.
+
+However, she had little choice in the matter. She could wait until she had challenged the 16th Floor before doing this - she still needed to meet the other requirements after all - but something told her that having so many skills of low quality wasn’t helping her. Every increase in quality brought exponential growth to the skills she had promoted. It made sense to try and amass more complex, powerful skills. So rather than overthink her decision, Evelyn decided to take a gamble.
+
+You are attempting to synthesise a Rare skill with at least one other skill, please select 1 Rare, or 4 Uncommon skills to use as catalysts. Their effects will not be synthesised.
+
+Now, this is the hard part. It’s more expensive than before. Perhaps because I’m trying to synthesise so many skills at once. I had wanted to wait until I had Star of Speed as well, but I don’t have the luxury of time or access to the shop anymore. Hopefully this works out well. I can’t even guess at the final effect the new skill will have.
+
+The skills she chose as sacrifices were Bargain Hunter, Pugilism, Mana Plate and Purge Corruption. It had been a difficult decision to make. Especially Bargain Hunter and Mana Plate. Both had served her well, but without access to the shop the first had lost most of its utility. The second felt a little redundant given that she now had both Bulwark and Arcane Shield doing the heavy lifting automatically. And the other two weren’t nearly as powerful as her other skills.
+
+Plus, her only other options were all skills that increased her attributes. Evelyn couldn’t afford to lose them when she needed to reach 100 fortitude for her ascension. It made sense that would be the one to push over the limit first. She waited with bated breath as the system decided what to give her back. There was every chance it wouldn’t even reach unusual rarity - she had only fed it a single rare skill after all.
+
+Synthesising Stargazing (Rare), Solar Fusion (Uncommon), Star of Fortitude (Uncommon), White Infusion (Common), Star of Vitality (Common), Star of Mana (Common), Star of Stamina (Common) and Star of Power (Common)!
+
+Usually the results were instant, so the fact it was taking some time now was unusual. The tower did like to play games, perhaps it was interfering on purpose. Or maybe it just needed to figure out the result of her synthesis. Finally she was rewarded as the familiar sound of success rang out in her mind and a new message appeared in her vision.
+
+And it was spectacular.

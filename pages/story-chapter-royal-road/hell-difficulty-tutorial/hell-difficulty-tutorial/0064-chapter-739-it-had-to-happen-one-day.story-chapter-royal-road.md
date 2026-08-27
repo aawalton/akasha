@@ -1,0 +1,191 @@
+---
+id: d89614fc-082c-5adf-84eb-0739eec67fdc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 739 - It had to happen one day"
+slug: 0064-chapter-739-it-had-to-happen-one-day
+partOf: hell-difficulty-tutorial
+position: 64
+ownLength: 2599
+unit: words
+publishedAt: 2026-01-28
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2989386/chapter-739-it-had-to-happen-one-day"
+royalRoadId: "2989386"
+---
+
+Well, it had to happen one day.
+
+We now have the best doggo of Beyond.
+
+I stare at Biscuit sitting by my feet, and he stares up at me. He’s back in his adult form, wearing a cute royal blue vest with many pockets. It even has a bunch of tiny bags filled with pieces of dried meat as if he’s been preparing for an expedition.
+
+I blink. He blinks.
+
+“What the fuck is that?” one of the Primordial Knight’s demons asks while passing through the lounge.
+
+(Food!) Biscuit shouts, and the demon staggers back under the pressure of hundreds of sentences slamming into his mind at once, almost like a mental attack.
+
+Noticing that, Biscuit quickly switches back to his usual way of speaking and asks me, (Food?)
+
+“Well, sorry. It is not my fault that people in Beyond aren’t as mentally strong as you thought. Just talk like you usually do.”
+
+(Food!) Biscuit shouts, then wobbles on his short legs toward the demon and floats into the air, where he says food three more times directly into the confused guy’s face before returning to me.
+
+Together, we head down the hallway with him floating beside me. His floating speed is noticeably faster than before, easily matching my walking pace. The entire time, he looks around curiously and gets equally curious glances from the demons. Some even sniff at him or reach out to try and sense his heart more directly. Most of the time, they wear very confused expressions. They can sense his primordial energy, but they don’t recognize it. They also don’t sense any kind of demon heart in him, which seems to confuse a few of them.
+
+I keep my hearts in “I do not want to fuck around” mode, suppressing the weaker demons to stop them from challenging Biscuit. The stronger ones, like the A ranks, still look like they might be considering it despite my efforts. Part of me thinks that as an S rank, I would get more respect, but the more realistic part knows I would probably end up being challenged even more.
+
+I ignore one of the lounges where I spot Weslin sitting on the couch next to Malika. They talk together while Weslin, now sporting short white hair, speaks. Malika listens and replies in a playful tone. I almost escape too. Almost.
+
+“Newbie!” Weslin calls, making me turn around.
+
+“I am too old for this shit,” I say to his confusion and walk back toward the lounge. Biscuit floats away from me and stops in front of Malika, who carefully reaches out and touches his nose, which causes him to bite her hand.
+
+“I see you two are getting along well,” I say to Weslin, ignoring Malika shouting about how she’ll kill Biscuit, while Biscuit wags his tail excitedly.
+
+“It seems that way. Fucking hell, it might be just a phase, but it’s been fun so far,” he says with a smile.
+
+“Well, I’m happy for you, I guess, and I already gave you my reaction to your choice of partner, so whatever, you do you. And if the two of you crash and burn or get into some ridiculous drama that even you can’t pretend to be surprised about, I am giving you permission to drag me out of bed, just once, in the middle of the night so we can sit somewhere miserable, drink something awful, and let you rant until you finally shut up long enough to forget why you bothered in the first place and maybe feel a little better.”
+
+“Fuck if that’s not weirdly specific,” he snorts, “but yeah, thanks.”
+
+“You are very welcome.”
+
+Meanwhile, Malika continues shouting, and her gravitational energy tries to pull the floating Biscuit to the floor, but in the end, only causes him to tilt his head, flop his ears, and not move at all. Not even a little bit.
+
+Taking interest, both me and Weslin turn to watch as Malika starts bleeding from her eyes and nose, and her gravitational energy begins cracking the floor. It even causes an alarm to ring through the Headquarters.
+
+Quickly, using his access to the defensive arrays, Weslin disables it while Malika doubles her effort. A circle of cracked floor forms under Biscuit, developing clear indentations despite the ludicrously tough material it’s been constructed with.
+
+In the end, it is Malika who gives up after coughing up a wad of blood, which earns her a slightly loving look from Weslin that I try to erase from my memory immediately. Is that the pink glasses phase, where you like everything your partner does, even though you hated these same things before?
+
+Malika falls back onto the couch and keeps staring at Biscuit, who wags his tail. “What a ridiculously cute little beast. Nathaniel, I am kidnapping him the moment you show weakness.”
+
+“I don’t think that’s a good idea,” Weslin tells her.
+
+Malika shakes her head without breaking eye contact with Biscuit, who innocently stares back with a playful expression. I am sure she’s either translated that as a challenge or him looking down on her after an easy win.
+
+It causes her to bare her teeth, and her slightly regenerated gravitational energy rises again, this time reaching inside Biscuit. It is not aimed to attack the way she tried on me before, she’s only doing it to test whether she can. Even knowing that, I feel a spike of annoyance and almost move to attack her myself. But I don’t have to.
+
+Biscuit’s tail stops wagging the moment her energy touches him that way. His expression freezes, then shifts from excited and playful to empty.
+
+Still floating, his eyes take on a purple hue, and the tiny round shadow under him darkens. A ripple goes through it, and it expands in size several times, shadowy tentacles spreading across the floor.
+
+(Not friend?) Biscuit sends that message, and his voice is completely different from before.
+
+He lands back on the ground in the middle of the shadow. The moment he touches it, it rises from two-dimensions to three. Shadowy tentacles rise into the air, and his presence grows even heavier as he starts growing in size. First, he reaches my waist, then quickly surpasses my height. His maw opens. And those huge teeth don’t look so cute anymore.
+
+Malika sits frozen, eyes wide, likely thinking of accepting the challenge, and Biscuit meets her gaze.
+
+(Not friend. Sustenance.) He takes a step toward her, and the shadows spread even farther, some rising to partially cover him, twisting his figure into something far more terrifying than his usual corgi shape.
+
+Weslin moves to stand, and Malika tenses, but I reach out and put my hand on Biscuit’s back, which causes him to stop immediately. He turns toward me and tilts his head like he’s shooting me a question mark.
+
+“She was just messing around. You know demons,” I tell him.
+
+(Sustenance.)
+
+“I told you not to eat humanoids. They’re dirty and have tiny pointy bones. They might get stuck in your throat or something.”
+
+(Asshole?)
+
+“Kind of. Most demons are like her. I am sure some of them aren’t our friends, and if they did what she did, you can play with them, but she is a friend of my friend, so show her some mercy.”
+
+Taking a step closer, he presses his huge head against my chest. The shadows around him fade away, though he keeps his size.
+
+(Understand.)
+
+“You sure do. Such a good boy, such a good, smart boy.” I say, starting to scratch him behind his ears, and his now massive tail swings from side to side as he woofs at me.
+
+“Yes! You are a good boy!” I repeat, which makes him jump excitedly and shove against me, knocking me to the floor. He shrinks down right away and starts bouncing against my chest with his front legs.
+
+Even though these two are staring at me and Biscuit with expressions I don’t like, I can’t bring myself to care at all. Who gives a shit about optics when it’s Biscuit’s playtime? This puppy had it rough before the tutorial, so he deserves everything.
+
+[Lvl 348 > Lvl 349]
+
+I freeze in panic.
+
+Reflexively and almost without thinking, I invest the three gained stat points into mana. Then I realise what just happened and, with tension, wait to see if another notification appears, the kind that would trigger my body upgrade, fuck up my constructs and preparations, and send my mana into chaos.
+
+I wait and wait while Biscuit bites at my neck, but no second notification comes. Only then do I let out a long breath of relief.
+
+What the fuck was that? I haven’t attacked anyone since coming here, and I did not fight on the ninth floor either, so how?
+
+My thoughts rush around as I try to figure out what could have caused it until I reach the most likely answer.
+
+Items.
+
+I must have been really close to level three hundred forty nine, and someone used an item I sold to kill a monster. I know from Miwa that the maker of a weapon gets a tiny bit of experience from the process, and that seems to have happened just now.
+
+Holy hell, past Nathaniel and all the shit he did will be the death of me. This could have been really annoying to deal with.
+
+I sit up and grab Biscuit under his armpits, lifting him, which makes him continuously whip his head from left to right while staring at me curiously.
+
+“The Doc would say I almost died here if I’d levelled up again, and plenty of other people would say the same, Biscuit. But I don’t agree with them. I can take it all on. Wouldn’t you agree?”
+
+(Food!)
+
+“Good. Sometimes I think you’re the only one who trusts me. It must be thanks to our connection, right?”
+
+(Food!)
+
+“What?”
+
+(Food Food!)
+
+“Well, congratulations. If that is how you feel, I’ll just eat that ancient deer jerky I had someone from the guild buy at the auction all by myself.”
+
+All of his movements stop instantly, his expression filling with existential dread.
+
+I lower my voice, “But if you promise to be a good boy while we’re here in Beyond, I might reconsider.”
+
+He knows he’s being played. I know it too. Malika and Weslin, who are listening, likely know it as well. But Biscuit doesn’t care and gives a cheerful woof in agreement.
+
+The next day, about one thousand attendees and I gather in preparation for the event that Humility and Pathfinder Thane have organized, while Biscuit stays in the guild headquarters.
+
+I think there could have been more people, but it seems like only the more powerful ones came. The others might have been warned by their handlers about how dangerous such events can be, or they were simply too scared to join an event created by one of the Rulers. Especially when they don’t have any idea what it might be about.
+
+We stand on the same balcony where the dinner took place, which feels like it was a lifetime ago, the same balcony where Kindness, that cute tiny vyssari child, and I threw that velnar guy over the edge. There are no Handlers this time, just a crowd of attendees. Plenty of them left the fifth floor to participate, even though they’ll have to sacrifice fifteen stat points to return to that floor.
+
+I do not see Nyssa around, but Morwag is here, and so are Weslin and Malika. I even spot Io and Kaari. Tacita is somewhere in the room, and Lyraen probably is as well. There are also Brich and Savant, both arguing about something, which makes me wonder if they’re the new duo the Crimson Forge put together. Either to keep an eye on Savant or to balance out that kleptomaniac rat Brich. Probably both.
+
+The lowest rank here is B, while most are A ranks.
+
+Luan and Solae, who is often considered the third strongest after Lyraen and Nyssa, are not here.
+
+Well, they can’t be here. Both of them are dead, killed by Christoph not long ago.
+
+I still don’t know what to think about it, and neither does Sophie after I told her. At least Frontier wasn’t the guild Christoph barged into and wrecked, so Sophie still has somewhere to ask questions. Though she will need to be much more careful now.
+
+I’d hoped to fight Luan someday, and him dying this way is… it just doesn’t feel right. He was often said to have been able to match Morwag in head-to-head combat, and he was feared for his strange Fragment. And I don’t think I ever hated him, not truly. Definitely not like I hated Faora. How could I? He hurt Sophie the most, yet she only ever felt neutral toward him since he was acting as Faora’s bodyguard at the time.
+
+Lastly, no matter how hard I look around, Christoph is nowhere to be seen, so he’s probably not taking part in the event.
+
+When Pathfinder Thane finally steps onto the balcony, my attention shifts to her, and I push these thoughts away.
+
+"I will keep this short. Welcome, and I wish you luck. Give your thanks to the Ruler of Humility, because this event exists only due to her power. I myself only handled the simple setup. The event will run for five hours, during which you will face one another under set restrictions. You cannot die during this event because the Ruler of Humility will place a barrier over all of you. If your life reaches the limit, you will be removed and returned to this place. The system notification will explain the rest."
+
+With that, she simply leaves. The more I learn about her, the more I like her no bullshit attitude.
+
+Then the promised notification pops up.
+
+You have been invited to participate in an event organized by the Ruler of Humility and Pathfinder Thane.
+
+If you accept, the following will occur:
+
+- you will be transferred to the event area for a total duration of five hours
+
+- a restriction will be placed on you and on all other participants. You will all have the same number of stats, allocated in the same way, and all system given skills and traits will be fully suppressed, including any natural traits and anything else that could disrupt that equal footing, all to ensure a fair start
+
+- a barrier will be applied to you, and if your life reaches a critical point, you will be removed from the event
+
+- your reward will be calculated according to the amount of time you remain within the event area
+
+Note from the Ruler issuing this event: I want to remind all of the attendees present that we all begin from a similar place. All that separates our paths is often our access to opportunities, moments of good fortune, or talents we did not earn. Some of you have risen to impressive heights recently. Do not lose sight of where you stood only a few years back. - Ruler of Humility
+
+Will you accept the invitation?
+
+Yes / No
+
+I choose yes and vanish, then find myself standing on the street of a ruined city. Piles of debris lie where beautiful white stone buildings once stood, and charred remains of wooden structures surround me. Pale blue cobblestones stretch out under my feet.
+
+Around me, ten more people appear. They glance around in confusion for a moment, then everyone surges into motion.

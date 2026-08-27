@@ -1,0 +1,235 @@
+---
+id: 9d63802d-730e-5b9f-a5b2-db88c627120e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 87"
+slug: 0011-chapter-87
+partOf: hell-hound-evolution-litrpg
+position: 11
+ownLength: 3200
+unit: words
+publishedAt: 2026-02-18
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3067874/chapter-87"
+royalRoadId: "3067874"
+---
+
+Entire branches ripped free from trees as the dragon forced its way to a landing. Before its massive body shook the ground, Valrok was already jumping down.
+
+He went right over to the slain colossus, his mask tilting left and right as he examined the beastial tree-man, then stopped as he focused on  Jessica’s spear embedded in its eye.
+
+Jessica just watched him and gave Iris a look to remind her to wipe the glare off her face. Her strength was growing greatly, something Valrok would certainly be happy about, but that wouldn’t be enough to protect her if he also thought she might turn on the tribe.
+
+When he spoke, it was with a jovial, light tone seeping through his deep voice. “Elva! My daughter! You have done very well!” He spread out his arms as he approached her. She was glad for the mask because she couldn’t hold back the cringe as he scooped her up. Lifted off her feet and hugged powerfully, the pain in her chest stirred, and she coughed.
+
+“Let her down, fool,” her aunt said, sliding off the dragon’s tail and then running over. “Can’t you see she’s injured?”
+
+Valrok complied, setting her firmly back on her feet with a heavy pat on her shoulder. “Ah, she is sturdy. A warrior who bleeds is one who seeks greatness!”
+
+A moment later, her aunt was there, holding out a healing potion. But even with her, there was nothing in her posture that tried to ask if Elva was okay. It was more like pushing maintenance on her.
+
+“Thank you,” Jessica muttered, still legitimately relieved to see the vial of red liquid. She threw off her mask, letting it fall to the ground, and downed half of it. Instantly, any remaining pain in her body turned to warmth, and as it finished spreading through her, she felt as good as new. She then kneeled down to Iris. “Here girl, drink some. Tilt your head back.”
+
+She could feel both Valrok and her aunt watching. Iris at first stared back in a way Jessica thought she might refuse the offering on principle. But the Hell Hound complied, tilting her head back. Jessica put the vial between her jaws and poured carefully.
+
+“She listens well, much better than before,” her aunt said, then paced around the slain Chardbark Colossus. She reached for Jessica’s spear, placed a foot on its forehead, and ripped it free. “You killed this thing, Elva?” She sounded like she couldn’t believe it.
+
+“Me and Iris,” Jessica said, grabbing the shaft of the spear as it was held out to her.
+
+“Of course, my daughter did this! The Wyrmscar blood is strong in her!” Valrok boasted. For a second, she thought he would scoop her up in his big arms again, but instead, he joined his sister in examining the kill. “HA! It is as I said. Those fools do not understand how to cultivate a true warrior!”
+
+Her aunt’s head tilted, still assessing her. There was something in her posture… Skepticism? Something else?
+
+“What level are you, Elva?”
+
+Jessica’s eyes shifted away. “Um…” She understood that for most, it would take months to get to level 10, maybe a year or more. Yet, she had gone from level 2 to level 10 in just over a week. “Level 10…” she answered carefully.
+
+“Ha! Did you hear that!” Valrok nudged the back of her aunt's shoulder. “Level 10! What skills have you learned?”
+
+“Um… just one more, and some have leveled up. But there’s also a class upgrade available.”
+
+“A class upgrade!?” her aunt’s gaze whipped back to her.
+
+“I told you, the Almighty has made his will clear.” Valrok folded his arms and nodded. “With the other hounds captured, and my daughter rising to meet her trials, this was inevitable.”
+
+Jessica’s heart sank at that, and she glanced down to Iris, wishing her father and aunt were not here so she could check if she was okay. But Iris remained stoic, not showing any reaction, though Jessica knew she was forcing herself to hold it back.
+
+“So… They found the other two…” Jessica said under her breath.
+
+Her aunt hit the back of Valrok’s shoulder. “He’s getting ahead of himself. But we should at the very least have a report today.”
+
+“Bah! They are slow. They should have finished scouring that cave days ago! But yes, the other two Hell Hounds are surely captured and on their way back to the Bloody Peaks as we speak.”
+
+Jessica knew that the tribe would not keep the other two for long. They would be sold just as the mother and the two twin fire breathers who were not stolen by the Umarii. But she realized there might be an opportunity to give Iris a better path. If Jessica could figure out how to free the newly captured Hell Hounds, and then the four of them were to run…
+
+Then, as Valrok moved towards Iris and began to kneel—to give praise to his new asset—Jessica stepped between them without thinking. She angled her spear in front of Iris like a shield, lips tight as she stared up at the large man.
+
+“Elva?” he questioned, bafflement behind the name.
+
+“She’s still tense from battle. And she only has trust in me. You haven’t earned it.”
+
+Volrok straightened, towering over her further. She was standing in the shadow of a giant, and felt her heart pounding as she thought she may have just made a huge mistake—letting herself react too emotionally, knowing how cruel it was for Iris to have her father’s killer looming over her like that.
+
+For a long moment, Valrok said nothing.
+
+The forest seemed to hold its breath with him. Even the dragon behind them stilled, its wings adjusting against its body as its rider considered the girl standing defiantly in his shadow.
+
+Then Valrok laughed. “Hah. You shield her as if she were kin. Your bond has formed deep, just as I knew it would on your hunts.”
+
+He then turned and reached out to his side. Purple light erupted from his fingers as it formed his spear, and then his fist clenched down, grabbing hold. He walked over to the colossus, and with a short flick of his wrist, an arc of purple light shot from the spearhead, cutting right through the colossus’s neck and sending the head rolling. “Take your trophy, Elva.” He looked over his shoulder. Jessica stiffened, feeling his gaze through the hollow holes of his mask. “It will be proof to the tribe of your triumph.” With that, he walked back to the dragon.
+
+When his back was turned to her again, she couldn’t hold back the tension in her body. She let out a gasp, eyes widening in terror. It was such a casual display of his power, but clearly a message.
+
+“I swear, you change every time I lay eyes on you,” her aunt said, placing a hand on her shoulder, the goofy grinning mask looking down at her. “More so than either of us expected this week, and not just with levels.”
+
+Jessica swallowed as she glanced down to Iris. She saw the Hell Hound’s hackles had raised ever so slightly but were now lowering.
+
+“Go on, do as he said. Grab your trophy.” Her aunt gave her shoulder one more pat before releasing her.
+
+Jessica stared at the severed head. Gulping once again, taking a hesitant step towards it. The bark that her spear would bounce right off of with a direct hit had been cut clean through and cauterized with the heat from Valrok’s attack. It was clear that even if the creature had been alive, he could have felled it with just as little effort. “I… I’m not carrying that thing,” Jessica said.
+
+“You challenged your father,” her aunt said. “He just challenged you back. He wants you strong—but he also wanted to remind you who made that strength possible.”
+
+Jessica felt the ominous words sinking through her as she carefully turned her gaze back to her aunt. The goofy mask tilted slightly as the woman folded her arms and canted her head.
+
+“The Wyrmscar Legacy allows you to share experience in full with your beasts. He gave you one that is far beyond what you could have tamed on your own. Back when we were young, he gained levels quickly as well, but not 8 in a week. But he also didn’t have a Hell Hound.”
+
+“I didn’t ask for that,” Jessica said quietly.
+
+“No. But he gave it to you anyway. The System blessed you with the Wyrmscar Legacy. When your father received it, he had no one to guide him. Now you’ve inherited it as well, and he sees the opportunity to shape your growth. There could be no greater catalyst to push you to your limits than a Hell Hound.”
+
+“Iris isn’t just a tool…” Jessica said, letting a growl creep into her voice.
+
+“We are all tools to something, Elva. Now pick up your trophy.” With that, her aunt walked away to join Valrok.
+
+***
+
+This time, riding on the dragon was less terrifying and more simply uncomfortable. Jessica had Iris under one arm as her finger held to a scale, the Hell Hound never taking her eyes off of Valrok as he stood at the base of the dragons neck, red cloak whipping in the wind. Under Jessica’s other arm was the oversized head of the colossus.
+
+Below, the forest vanished beneath them. Above, the sky was endless red with occasional pointed peaks of mountain tops peering through the clouds.
+
+She felt Iris’s tension against her armor. Falling off a Direwing may have been enough to kill Elva Wyrmscar, but killing Elva’s father wouldn’t be as simple as knocking him off a dragon. Even if that could do the trick, they probably couldn’t even pull off that much. She doubted a spear in his back would be enough either. This world wasn't like Earth, and a god-slaying dragon rider couldn't be killed so easily.
+
+She briefly wondered about her class upgrade. She willed the system screens in front of her face, reading through them again. Vanguard, duelist, or adept? She would discuss it with Iris as soon as they had a chance to be alone together again.
+
+Soon, more and more mountains broke above the clouds, until Jessica saw a particularly large one with Direwing's fluttering around it. She dismissed the system screens. They had made it back to the Bloody Peeks.
+
+Valrok crouched slightly, placing his hand on his dragon's back, and everything tilted as the dragon began gliding in an arc around their town.
+
+Jessica clenched her teeth, hooking her fingers harder against the scales. Her aunt continued to sit calmly as ever, like gravity didn't even exist for her.
+
+“There seems to be a disturbance, brother,” her aunt called over the winds.
+
+Jessica cautiously lifted her head enough to see the central plateau where the celebrations were usually held. It was every bit as crowded as during a celebration, wood stacked high but unburned in the fire pit, yet nobody looked dressed for a party, and every single one of them were looking up towards them with postures that were as far from cheering as one could imagine. Jessica had a bad feeling, wondering what this could mean.
+
+Valrok patted the dragon’s back, and it dove down, curling around the mountainside and between canyons to the den where it was kept. Jessica noticed how Valrok seemed able to command it without a single word, no doubt thanks to the Wyrmscar Legacy skill.
+
+The dragon slowed its descent as it came to a landing with a large cave on the mountainside. The massive creature landed almost gently.
+
+“Is something going on?” Jessica asked, now able to sit up with the dragon settling on solid ground.
+
+“It seems they've not returned with the Hell Hounds yet…” her aunt said.
+
+“Worthless!” Valrok growled angrily. “I’d planned a celebration for tomorrow night! How hard is it to track two pups? Bah! I should have just gone myself!” He leapt down from the dragon, feet landing heavily below.
+
+As Jessica worked on carefully sliding off the tail of the dragon, cradling the head awkwardly in her arm, and Iris walking carefully down the full length of the tail, two masked warriors came running down the slope that curved around the mountain.
+
+“Valrok!” they said in unison, pounding a fist on their chests and bowing their heads.
+
+“Report! Has the hunting party returned?” Valrok demanded, stomping towards them.
+
+“We sent a scout to check on things several days ago, Valrok! The scouts returned and…”
+
+“They couldn't find them!?” Valrok said angrily. “Those caves are not so big! Or did Geirna and Roshka not guard the exit properly—no, even then the fools would need only search the forest and—”
+
+“They're all dead, Valrok! Every single one of them!”
+
+Jessica's head shot up at the words. She looked down at Iris, the Hell Hound’s stoic expression every bit as impossible to read as her aunt's hidden behind her mask.
+
+“Dead? Who's dead?” Valrok demanded.
+
+“The hunting party. All of them,” the other warrior said. “At least, the scout claims it seems that way. He returned as quickly as possible.”
+
+“Was it the Umarii scum? Have they stolen our other two Hell Hounds!?”
+
+“No, Valrok. Their wounds were by claws and teeth—and magic. Not from blades.”
+
+“Bring me to the scout! Now!” Valrok roared, not waiting for them to lead the way as he stomped past them.
+
+Jessica stood there uncertainly, holding the head in both arms in front of her now, only because she didn't know what to do with it.
+
+Her aunt looked at her. “I had better go with him and make sure he doesn't make a bad situation worse. Elva, put Iris up for now. No—actually, stay down here. Wait for me to come back.”
+
+“W-Why?” Jessica asked.
+
+“Who knows what might be in the heads of fools.” She began to follow Valrok.
+
+“W-Wait. There were twenty of them, right? What could have done that?”
+
+Her aunt paused as she looked back, but she didn't look at Jessica; the hollows of her mask were clearly directed at Iris. “I don't know,” she muttered. “Just stay here with Iris and wait for me.” With that, she began running up the slope to catch up with Valrok.
+
+It couldn't be the Hell Hounds that killed them, could it? Jessica thought.
+
+She grimaced when she realized she was still holding the head, then quickly set it down.
+
+When she turned back to Iris, she saw her bonded Hell Hound wearing a terrifying expression. Teeth tight together in a vengeful smile.
+
+“I-Iris?” Jessica asked.
+
+“My sisters… do they live? Have they escaped? Can it be true?”
+
+Jessica’s hands felt shaky as she unclasped her mask. For some reason, she really didn't want to be wearing it right now. “I-I don't know… I mean, could they have killed that many people?”
+
+“You and I have killed what should be impossible for us…” Iris’s gaze drifted over to their trophy. “My strange sister… she is brave. Very brave, like father. If we can level so greatly together, then with Lily, maybe so can she. No… she would be greater than us. And she has had more time to hunt.”
+
+“Um… L-Lily?” Jessica asked.
+
+“I feel it is a good name to call my small sister. She is very attached to the strange one. They were close. To protect her, my strange sister will do anything. Become what is needed.”
+
+Jessica nodded. Iris was talking more openly than ever before. She supposed they really had started to grow close this week. But more importantly, as Iris spoke of her sisters, Jessica saw a lightness in her eyes and posture that was never there before. It was obvious she really loved her family a lot. Jessica wanted to hear more, and see more of that light take over Iris’s normally cold gaze.
+
+“So why do you call her your strange sister?” Jessica asked, taking a seat on a rock. She glanced at the dragon, who was resting its snout flat on the ground. She didn't get the impression it would be reporting on their conversation—it didn't seem sentient in the same way Iris was.
+
+“She… She has always been strange. In small ways. I… don't know how to tell it.” Iris settled down on her haunches by Jessica's feet. Jessica waited for her to continue as the pup seemed to be searching her memories. “She did not like meat at first. After her first kill, she seemed sad… no… not sad… just, as if she had done something wrong.”
+
+“Um. Guilty?” Jessica offered. “That means, like when you do something you think is bad and wish you could take it back.”
+
+“Guilty.” Iris repeated the word. Then she continued her story. “She moves in strange ways. Makes strange… faces? Like this.” Iris suddenly scrunched her face, her nose wrinkling as if she smelled something terrible. Then she shifted the forced expression to something more relaxed, turning her head to look at Jessica with one eye and letting her lips curl back like an awkward grin.
+
+Jessica snorted, putting her hands over her mouth.
+
+“This is funny?” Iris asked, returning to her normal expression.
+
+“Sorry! It’s just… you’re always so serious, and then you just—s-so—” Jessica waved one hand while the other tried to stifle her chuckles.
+
+Iris didn’t seem offended, just perplexed more than anything as she canted her head and waited for Jessica to calm down. “You make odd sounds.”
+
+When Jessica recovered, she asked, “Okay, okay. What about your other siblings?”
+
+“My brothers…” Iris thought about it. “There is Luke. Strong, but stupid. He would always play hunt with us in the den. He loved this game. But sometimes he goes too far and then seems… guilty.”
+
+Jessica nodded, smiling warmly.
+
+“My last two brothers. They are very much the same. I can hardly tell them apart.”
+
+“The two fire breathers, right?” Jessica asked.
+
+“Yes. Ben and Jerry. They are foolish like Luke, but they make things fun.”
+
+Jessica’s eyebrow instantly cocked upon hearing their names. Ben and Jerry?
+
+“Um, Iris, just out of curiosity, where are you getting these names?”
+
+Iris’s head turned. “It is what feels right to call them.”
+
+“R-Right… but I mean, those are odd names. Nobody around here has a name that’s anything like that.”
+
+Not to mention it’s a freaking ice cream company from Earth…
+
+Jessica froze as her eyes widened, several disconnected pieces suddenly falling into place in her mind.
+
+“What makes a name odd?” Iris questioned. “Jessica?”
+
+Jessica was too lost in thought to respond.
+
+When the Umarii had come for the pups, they were looking for a transmigrator. Jessica didn’t think much of it at the time—she was more worried about surviving the ordeal herself—and now she realized how stupid she was for not putting the pieces together sooner. This “strange” sister of Iris’s—could she be the transmigrator they were looking for? And did that mean… Could she possibly be from Earth?
+
+Read Next Chapter Now!

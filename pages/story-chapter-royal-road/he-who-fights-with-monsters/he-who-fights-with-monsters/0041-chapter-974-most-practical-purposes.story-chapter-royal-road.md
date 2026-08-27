@@ -1,0 +1,173 @@
+---
+id: 383c2aec-40e9-5de0-a3c5-05537a4b610d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 974: Most Practical Purposes"
+slug: 0041-chapter-974-most-practical-purposes
+partOf: he-who-fights-with-monsters
+position: 41
+ownLength: 2236
+unit: words
+ownProgress: 2236
+publishedAt: 2025-03-19
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2137689/chapter-974-most-practical-purposes"
+royalRoadId: "2137689"
+markedReadAt: "2026-06-29T19:05:16.830Z"
+---
+
+Tera Jun Casta looked through the transparent floor of the dirigible as it drifted across the sky. Over the course of the day, they had floated over canyons deeper than most mountains, forests painted white with snow, and deserts filled with rolling dunes and shimmering oases. The more exotic locations included a chain of islands floating in the sky over five waterfalls spilling over one long cliff face, into a tropical lagoon. Upstream, a town built entirely out of ice floated in the middle of a lake.
+
+They were now flying over river lands that stretched from horizon to horizon, waterways snaking across the landscape like veins in a body. A vast escarpment ran along the direction they were moving, making for a grandiose vista. The messenger reflected that the same could be said about every destination they had seen.
+
+In each location had been buildings that, like her villa, blended into their surroundings. This ranged from tree houses to whole towns carved into canyon walls. In each case, the designs and proportions were clearly built with messengers in mind. The scale was too large for humans, and access usually required the power of flight. Few of the locations were occupied, as even the messenger armies surrendered to Jason were not enough to fill a planet.
+
+“How is this a prison planet?” she murmured, not noticing Jason’s pleased smile.
+
+The dirigible’s observation lounge was mostly transparent, both the floor and the curving wall that made up the vessel’s stern. Only the section by the bar was carpeted, with the doors leading to the cabins and bridge. The construction was too strong and clear to be glass, instead being made of force magic. There was some scattered cloud furniture in the area, a few chairs, loungers and a hammock. They hadn’t seen much use, the occupants choosing to walk around and experience the panoramas.
+
+Tera tore her eyes from the landscape to look at Jason.
+
+“Why?” she asked.
+
+“Why not?” he replied. “If a paradise is as easy to build as a gulag, why not make something beautiful?”
+
+“Because it’s for housing your enemies.”
+
+“The messengers that were surrendered to me are not my enemies. Few messengers are, even amongst those I’ve killed. Most are victims, forced to fight, to obey. So indoctrinated that they consider their own slavery to be righteous.”
+
+Tera turned away, unable to hold Jason’s gaze. He kept his eyes locked on her.
+
+“There’s no shame in what you went through, Tera. In what the messengers on this planet are still going through. There is only shame when you get to make choices. You’ve chosen to help your people, and that is something to be proud of. That shame your feeling doesn’t belong to you. It should belong to the astral kings, but they have no shame at all.”
+
+“He’s right,” Jali Corrik Fen said. “From here on out, you make your own decisions, and give more of us the chance to make theirs.”
+
+Jali had stayed by her friend’s side for the duration of Jason’s planetary tour. Tera looked at Jali, then turned her gaze back outside.
+
+“I don’t even know where to begin,” she said.
+
+“The good news,” Jason said, “is that messengers don’t die of old age. You have all the time you need to figure it out. Rather than look at it as one enormous job, break it down into manageable chunks. Maybe start with where you are going to live. You need a place to operate out of. What did you see today that you liked?”
+
+Tera didn’t answer for a long while. She stood, staring through the glass wall in front of her. She didn’t turn away from it when she finally started speaking.
+
+“In my life before, my first task after leaving the training world was to guard an unpopulated planet. It was teeming with life, but nothing sapient. It was a beautiful place. After I was assigned elsewhere, I returned a few years later. People from another world had arrived and violently stripped its resources, leaving a bleak, dead rock behind. I was tasked with teaching the people who did that the error of their ways, and I did. That was where I learned what would come of letting the servant species govern themselves. Of why, however cruel their subjugation might seem, they could not be allowed to despoil the cosmos.”
+
+She drew a long breath and let it out in a long shudder.
+
+“Thinking about it now, it was just more indoctrination. A justification of atrocities fed to those who showed signs of compassion. Those people were probably sent to ravage that world by messengers in the first place.”
+
+She bowed her head.
+
+“Even the one memory I thought was clean, they poison. I hope that you can give me better memories, Asano.”
+
+“I can’t,” Jason told her. “The best I can do is give you the chance to make those memories for yourself.”
+
+“I chose where I lived then, too. I didn’t get to make many choices for myself, but I had a whole planet to myself. There wasn’t anyone else, but that never bothered me. I lived in the desert. There was a network of canyons, like a tangled spiders web. Great crevasses of red rock, the wind blowing through them, strong and wild. Flying through them was a fresh challenge, every day. I lived in a tower, overlooking the sea.”
+
+“I think we can manage something like that,” Jason said. He was about to say something else when he turned to look at the lounge.
+
+“Shade?”
+
+“Apologies, Mr Asano,” Shade said as he stepped from a shadow. “Ms Park has something for you that I believe warrants your urgent attention.”
+
+***
+
+Jason rose from Natalie Park’s shadow like it was an elevator, startling her when she realised that he was standing right behind her.
+
+“Apologies,” he said. “It’s a well-lit room, so no dark corners to emerge from. I shadow-jumped in case I need to portal quickly. I didn’t want it on cooldown.”
+
+She took a moment to compose herself. They were the only people in the room, which was inside the Asano Village administration building. It was set up as a makeshift surveillance centre, with monitors on the walls and laptops nested amongst a jungle of cables on a central table.
+
+“You were worried about the cooldown of your portal power?” she asked.
+
+“Shade implied that I may want to act quickly.”
+
+“Your portal power has a cooldown.”
+
+“Everyone’s does.”
+
+Shade emerged from Jason’s shadow.
+
+“I believe, Mr Asano,” Shade said, “that her surprise is that you have any limits at all.”
+
+“Just so,” Natalie said. “Everything we’ve seen from you implies that you don’t operate by the same rules as the rest of us.”
+
+“I don’t. But for most practical purposes, outside of my private realm, I am just another gold ranker. By Pallimustus standards, not Earth’s.”
+
+“You’re saying that all the gold rankers over there are like you?”
+
+“Not all, just the good ones. But they have a lot of good ones. However, I think we’ve been sidetracked, Officer Park. My understanding was that you want to speak to me of something time sensitive.”
+
+“Yes, I’m sorry. Look to that screen, please.”
+
+She pointed out the room’s largest monitor as she sat in front of a laptop. The screen blinked of to show what Jason guessed, from the angle and the slight bobbing, to be drone footage. It showed the side of a snowy mountain, and a cave entrance that would be hard to spot if not for the flying white bus parked in front of it, disgorging people into the mountain.
+
+“Since the CIA started looking into satellite spoofing, they came across what they believe is the methodology used to mask the feeds from the intelligence agencies. It involves recognising certain patterns that… I can send you a report on the specifics if you’re interested. What you need to know for our purposes is that they’ve been sitting on that information, waiting to see if the people behind it expose themselves with more activity.”
+
+“Which would be unlikely, given that our briefings about it were certainly leaked by someone. Whatever our precautions, there were too many people in that room for any of it to remain truly secret.”
+
+“That was our assessment as well. There were not high hopes, but the CIA logged new activity today. The satellite feed has nothing, but the Spain’s National Intelligence Centre was able to get someone onsite.”
+
+“Spain is vampire territory. Spanish intelligence still has people in the region?”
+
+“There are some remote mountainous areas where they managed to keep assets in place, hidden away. They’ve been the world’s chief means of observing both the vampires and your clan. In this case, they managed to get some drone footage of whatever the people we’re looking at don’t want us to see. Facial recognition identifies them as members of the Network branches from Zurich and Geneva.”
+
+The image paused. A circle marked one of the people onscreen and what looked like an employee profile picture appeared on a second monitor.
+
+“This is Geneva Andros,” Natalie said. “She’s the head of the Network branch in Geneva, and—”
+
+“Hold on,” Jason interrupted. “What kind of sadist appoints someone named Geneva as director of the Geneva branch? That’s just asking for confusion. How many times do you think their admin people have been forced to ask if someone is talking about Geneva the city or Geneva the person?”
+
+“Focus, Mr Asano,” Shade said.
+
+“Right, sorry. Please continue, Officer Park.”
+
+“Andros is the branch director of the Geneva branch, but in the footage we have, she appears to be in full control of everyone from her branch and the Zurich branch. There is no sign of any top staff from Zurich, just people from their enforcement teams.”
+
+“But the Geneva and Zurich Network branches aren’t active, are they?”
+
+“We didn’t think so,” Natalie said. “We’re beginning to suspect that those branches have been secretly operating in vampire territory after cutting some kind of deal.”
+
+“You think that these are our reality core farmers? I hope you have more than people commuting to a cave in a magic bus. They might just be on a children’s TV show about learning simple life lessons through fantastical adventure.”
+
+“Mr Asano…” Shade admonished.
+
+“Sorry.”
+
+“As you said,” Natalie continued, “attempting to hide more satellite footage now is a very bad idea. We’re looking at a couple of scenarios, starting with the obvious, that hiding whatever is happening there was worth the risk.”
+
+“But that’s a fool’s risk. If the CIA was onto the method of masking the satellite coverage, using that technique again would only draw attention, wouldn’t it? Even if they didn’t know that, they had to suspect.”
+
+“We agree. The second scenario is that someone inside the loop wanted this to be found. The magical world is currently scouring the planet at your behest, Mr Asano. The prevailing hypothesis is that someone is using that to point the world, or you, to this spot.”
+
+“Which seems to have worked. Now, I want to know what that gets them.”
+
+“You are not alone in that, but this footage is all we have. It’s not justification to barge into a secret facility belonging to one of the magic factions. If we show up at their door and say we want to poke around, they will be understandably aggrieved.”
+
+“And you want someone who goes where he likes and doesn’t mind if the people there end up aggrieved.”
+
+“In short, yes. Our concern is the potential for this to all be an elaborate trap.”
+
+“To trick me into a hole with a nuke to see if it’ll kill me, something like that?”
+
+“Something like that, yes. The question is, is there a trap on Earth that will work on you?”
+
+“Depends on the expected outcome,” Jason said. “I told you that for most practical purposes, I’m just a gold ranker. Anything that should work on a gold-ranker without killing them should work on me.”
+
+“And if it does kill you?”
+
+“I said most practical purposes. It’ll take longer to get back than I’d like. Being killed too often slows me down more than I want it to. And when I did get back, I suspect I would be rather cranky.”
+
+“That is consistent with what our analysts have suggested. There was some debate to whether we should ask you to go to Switzerland.”
+
+“But the decision, in the end, was to ask?”
+
+“The decision was to inform you of the situation and see what you thought. Keep you informed, without trying to railroad you down one path or another. I doubt you’d be surprised to learn that we have behaviourists analysing you. They suggested that you would best respond to honesty and transparency.”
+
+“I could have told people that twenty years ago. In fact, I did.”
+
+“Well, you are dealing with governments, intelligence services and centuries-old secret societies, Mr Asano. Having it only take twenty years for them to listen is not bad, if I’m being honest.”
+
+Jason turned from the screen to give Natalie an amused look.
+
+“What do you think, Officer Park?”
+
+“I think that you want answers, Mr Asano, and right now, there’s a place you’ll find at least some of them. Even if it is a trap.”

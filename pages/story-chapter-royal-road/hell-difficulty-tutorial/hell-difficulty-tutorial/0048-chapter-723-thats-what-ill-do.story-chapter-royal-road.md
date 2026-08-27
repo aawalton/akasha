@@ -1,0 +1,145 @@
+---
+id: 3bce515f-3b58-5327-88f8-3659d9a7a586
+page-type-slug: story-chapter-royal-road
+title: "Chapter 723 - That’s what I’ll do"
+slug: 0048-chapter-723-thats-what-ill-do
+partOf: hell-difficulty-tutorial
+position: 48
+ownLength: 2054
+unit: words
+publishedAt: 2026-01-06
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2918637/chapter-723-thats-what-ill-do"
+royalRoadId: "2918637"
+---
+
+It’s been a day. I spent some of that time exploring the area, even talking with Magistra’s spy guys, trying, out of curiosity, to get a bit more information about the woman and why she might hate demons so much. I do it carefully, trying not to throw them off in case they might actually be working with her.
+
+I learn nothing. My communication skills remain just as pathetic as always, and I find myself missing Tess, Channeler, and any other high level extrovert.
+
+Lily told me she removed the virus from me without me even noticing, and that she will do it again if needed, so I don’t worry about catching it again as I walk between the quiet villages. Plenty of their people are staying inside their rooms, soon to fall into comas if they haven’t already. Others are barricaded in, the lucky ones who haven’t caught the virus yet and refuse to let anyone near them.
+
+The guards are overworked, doing their best to keep people from killing each other while hoping that whoever put the barrier in place will come to help them, not realizing they’re like a bunch of rats thrown into a box to be experimented on. Rats that will spread a virus capable of wiping out a good chunk of the demon race.
+
+On the second day, I’m once again out on one of my strolls while Savant and Lily stay near my minion and her minions. My eyes glow most of the time, active, watching the barrier and its fluctuations. It’s insane work. Inscriptions overlapping, self-repairing layers, reaction chains built into reaction chains.
+
+I let my mind ride the small shifts in wavelengths of the barrier like waves. The glow in my eyes flickers every now and then as I test a section, then pull back before it notices. It’s fascinating, actually. Only my mental techniques and experience with evil orbs, combined with [Focus], keep my mind from sizzling out my ears. After all, the barrier was made by at least one Champion, possibly with modifications from two more.
+
+There’s no question in my mind that I can break it. It doesn’t matter how many protocols there are or how much higher level the person who made it might be.
+
+I can’t kill Magistra with my own hands, but I can make sure to attract someone who can. That’s what I said I’d do, and that’s exactly what will happen.
+
+Later that night, I return to the house, only to notice my minion outside near one of the bushes, leaning over something. I hear wet slurping noises and tiny growls that make Vega’s muscles tense up.
+
+My first instinct is to throw an antomic bomb her way and take out the second presence, but then I recognize it.
+
+Walking a bit closer, the view opens up. Fen is there, skittish, his head barely poking out from the bushes as he hungrily eats some sort of wet food that looks like one of those cheap cat-food pâtés. The six-legged fennec is slurping it right from Vega’s bare hand, and she’s smiling as she feeds him.
+
+The noble lady’s pet is disheveled, his perfect white fur from a few days ago is dirty now, matted, and burned in spots. The luxurious vest he was wearing is nearly gone now, just a few scraps of cloth held together by hopes and prayers.
+
+I have never seen something so undignified. As he eats, he dirties his fur even more, with nearly his whole mouth smeared with whatever food he’s devouring.
+
+“Master,” Vega notices me and speaks softly so she doesn’t spook the little animal. “Look what I found. He was so hungry.”
+
+Fen looks at me too and barks, clearly reading my thoughts from my expression, then chomps on the food at a speed and hunger that makes it look like he might choke.
+
+“I think he was dying of hunger, and I saved him,” Vega continues to explain.
+
+Fen barks at me again in that whiny tone that’s practically begging me to stop looking at him like that.
+
+“Holy fuck, dude, it’s only been two days,” is all I manage to get out in a response.
+
+A tear appears in the corner of his eye as he keeps eating, looking like he’s about to cry, and that makes him choke a little.
+
+Vega, unaware of my past with the animal, keeps smiling. Behind her back, she reaches for something I think might be more food for the hungry fox.
+
+It is a knife.
+
+Vega pulls it out of sight of the tiny animal, and in that same soft voice, she says, “He’s quite big, and even though dirty, he seems healthy. He’s bigger than the rats I used to eat before I met you, master.”
+
+Fen’s chomping slows down by a half right at that moment.
+
+That makes Vega stretch her hand toward him more, smearing his snout with whatever she’s feeding him. “Master, I’m not sure how he survived to adulthood. He’s so dumb, and just a bit of food got him to come this close. But it doesn’t matter. I’m sure he’ll taste nice, and I’ll prepare him for you so we can share the meal together,” she continues in that soft voice to not spook her target and whose tone doesn’t match her words at all.
+
+At this point, Fen isn’t even eating anymore.
+
+Vega swings her dagger, but Fen dodges swiftly and moves out of her reach, barking as he runs away.
+
+“Raaooooooooww! Yap-yap!”
+
+“Master, get him!” Vega shouts, standing up to run after him, but I halt her movements with kinetic energy and just look at the back of the incredibly quick, fleeing animal.
+
+Maybe this isn’t one of the mythical beings Lissandra was talking about so much.
+
+Or maybe her comparing me to them was an even worse insult than I thought?
+
+On the third day, I spend my time in the minions’ home base preparing. At first, I wanted to run around inside the barrier to hunt whoever was responsible, but that responsible asshole is already outside the barrier, so all my energy goes into screwing her over.
+
+Savant and Lily visit a few villages while Lily checks on the people, mostly confirming her theory that they’re in no real danger for now. Still, she heals as many as she can with her reserves, focusing mostly on children or the old and weak. Knowing her, I’m sure she’d heal the entire eight-hundred-person village if she could. But she can’t. As I’ve told her so many times, she just needs more mana.
+
+They get attacked once while returning, the clash ending with Savant killing the people who tried. None of them were from Magistra’s spec ops, and we still aren’t sure if they’re just throwaways or if they’ve been sent here to make sure things go according to plan.
+
+A tug on my clothes pulls me out of my thoughts, and when I look to my left, the young thief stands there, gesturing first at Vega sleeping with her head against my chest and then at herself.
+
+Getting what she wants since she’s done it before, I ask, “What are you willing to pay?”
+
+Smiling faintly, she quickly reaches into her clothes and takes out a small piece of dried sweetened fruit, the one she must have noticed I enjoy the most. I’m also sure she stole all the pieces I’d been saving just so she could use them for trade like now. How shrewd.
+
+“Okay, your offer is accepted,” I say and reach out to take the piece from her.
+
+She pulls her hand back and shakes her head, making me stop as she outstretches her hand instead to feed me the fruit.
+
+I notice bits of dust and lint from her clothes clinging to it and furrow my brow. Then I look back at her as she smiles at me, quiet and shy.
+
+Like the animal I am, I chomp on the piece of fruit and start chewing.
+
+The tiny thief then rushes away and comes back with her own blanket. She lies down with her head on my leg, curls up, and covers herself before falling asleep with impressive speed.
+
+Unable to move anymore, I close my eyes and continue working on the array in my mind and the mental protocols and processes I plan to launch once I’ve got everything ready.
+
+I know my black mana attracts Champions like moths to the light, even if only out of curiosity, but for the Absolute to notice, it will need to be truly large scale. Coincidentally, likely big enough to fulfill one of my Absolute Candidate quest requirements. Totally coincidentally.
+
+That much should be enough to erase this shitty barrier, with Lily and Savant handling the remainder. After all, my black mana only really affects mana itself, and whatever modifies the virus will probably release some weird, if useless particles once the mana powering it is gone.
+
+At least that’s what Savant said, and that guy absorbed a piece of it, so he’d better know.
+
+I can’t even bring myself to be all that annoyed with him. That man is patient to the point it’s probably unhealthy, but he keeps improving. I’ve noticed him using kinetic energy, and it’s not bad. Then there’s the Sword of Aeons, which he’s stuffed to the brim with mana, and he still refuses to tell me if it’s his or something he absorbed, hiding his true capabilities.
+
+He must have seen me holding all this mana and gotten jealous, deciding to use the best mana battery in Eladore, even if it has been nerfed and broken.
+
+Not that long ago, he told me he absorbed a tiny piece of my black mana during our duel in the tournament. So I wonder if observing it helped him improve his [Absorption] to the point he can now absorb other people’s mana.
+
+Who am I even lying to? I’m sure that asshole did exactly that.
+
+“You shouldn’t try to summon the Hornless Demon here,” my minion’s rival says, interrupting my thoughts and speaking quietly. More than worrying about waking up my minion and the thief girl, she also seems like she’s afraid of waking up the dagger, which finally shut up a few minutes ago.
+
+“Do you know him?” I ask.
+
+“No, I don’t,” she says, but even without using my thermal or kinetic senses, I can tell she’s lying. Just a ten or twelve year old girl, still lacking experience in this sort of thing.
+
+“Well, too bad,” I answer.
+
+“You could die.”
+
+“I could die falling off my bed in a funny way, and breaking my neck.”
+
+“You don’t know how he is.”
+
+“Neither do you.”
+
+“I…” she stops herself and groans. “You’re just a stupid human.”
+
+“That’s xenophobic,” I say.
+
+She looks like she’s about to start throwing things at me, so I continue simply, “Let’s say I don’t do anything, and in a few days, we return to Beyond. We stay inside the barrier until then, and Lily heals as many people as she can. Let’s also say that by the time we leave, no one has the virus anymore.”
+
+I look at her, but she stays silent, so I go on. “The barrier will stay. Magistra will modify the virus using what she’s learned from watching Lily heal it, then she’ll do it again. My minion, you, and your whole gang will get sick again, only to be released later and spread it over the coming weeks, maybe years, or however long the dormant stage lasts. Or she might just kill you all since you’ve been in such close contact with us. Maybe her spies are here to do exactly that.”
+
+As I say this, I raise my mana, mark my minion and every other kid here, and let kinetic energy circulate through my body. My eyes shift toward one of the walls, sensing something in the distance beyond it.
+
+A cold smile spreads on my face.
+
+How amusing. They’re trying something like that against me?
+
+I turn back to my minion’s rival. “Don’t move, okay?”
+
+Then the attack reaches us, and the entire house around us explodes in a large-scale bombardment. At the same moment, I raise a barrier around us all.

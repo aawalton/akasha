@@ -1,0 +1,163 @@
+---
+id: 7958e975-2c8b-52b0-ab06-7d135a94188c
+page-type-slug: story-chapter-royal-road
+title: "040: Descent into Hell"
+slug: 0040-040-descent-into-hell
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 40
+ownLength: 2194
+unit: words
+publishedAt: 2024-05-15
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1637000/040-descent-into-hell"
+royalRoadId: "1637000"
+---
+
+You have received the following skill:
+
+Galactic Expansion (Unusual) - Every 1 star value reduces the cooldown of your stars production by 1 second. Every 25 star value multiplies your stars’ production by 100%. Stars multiply the production of the tier below by their base production for each star you own. Multiply your stars production based on your total attributes - the multiplier begins at 1.00x and increases by 0.3 for each point you have in an attribute.
+
+It was by far the wordiest skill Evelyn had received. But that was fine - the effects were worth having to read a little. There wasn’t much in the way of change, however that wasn’t what Evelyn had wanted. Instead, each of the original effects had seen a huge increase in their effectiveness. And it was nice to have them condensed in a single place. The first thing she did was rush to open her menu and check how her income had changed.
+
+Evelyn nearly fell backwards off her chair when she saw the results, having to grasp onto the edge of the table to keep herself secure.
+
+Essence: 12『+1021784 / 5:54:24 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】
+
+It had multiplied again - by around five times. Not just that, but the timer had dropped by a few minutes as well. It still wasn’t enough to make a huge difference from the original six hours but it was a noticeable change. The major boost was the production, however.
+
+Before, it was going to take Evelyn over two weeks to save up enough essence for her ascension. Now though, she would only have to wait three and a half days. That meant all she had to do was challenge the 16th Floor and hope it was enough to push her class to the level required. It meant all she needed was a little hard work. And perhaps a dash of luck.
+
+With that done, Evelyn just needed to synthesise one more skill to the unusual tier in order to meet the requirement for the first ascension. However, that was far easier said than done.
+
+There were three candidates to use as the prime material - Overpowering Spirit, Unyielding Heart and Flashfreeze Flamecharge. She was hesitant to use Unyielding Heart. It was a skill she had obtained through her class and she wasn’t sure if there would be negative ramifications when it came to fusing or synthesising it. There was a chance it would evolve naturally as she progressed in her class.
+
+However, despite her reservations Evelyn had to admit that it had incredible synergy with Overpowering Spirit. The two skills were similar in nature - one was a passive effect that relied on her willpower while the other was a boost to her vitality and will to fight. It was a match made in heaven, but it wasn’t the only one.
+
+Flashfreeze Flamecharge would work well with Fists of Frost. And it would mean she would have the option of potentially sacrificing Overpowering Spirit as fuel - though she was loath to do so. She had seven uncommon skills remaining in her suite. And she felt each of them was a potent tool.
+
+But sacrifices were necessary to reach a greater level of strength.
+
+In the end, she felt that keeping Flashfreeze Flamecharge as it was for now was her best course of action. While it did have strong synergy with Fists of Frost it didn’t feel like the right combination of skills. There would be a better way to evolve it in future - of that she was sure. So, Evelyn moved back to her first choice of synthesis.
+
+She decided that the first skill she would definitely synthesise was Overpowering Spirit. What came next was making up her mind about what to combine it with. Unyielding Heart was the obvious choice. But she had reservations about using her class skill.
+
+However, as she went over her list of skills she quickly realised that none of the rest of them even came close to being a match, let alone one as suitable as Unyielding Heart. So while it would be a risky gamble to take, Evelyn ultimately decided to combine her class skill with Overpowering Spirit.
+
+No risk, no reward.
+
+You are attempting to synthesise two Rare skills, please select 1 Rare, or 3 Uncommon skills to use as catalysts. Their effects will not be synthesised.
+
+This time, since she was using two rare skills, the cost of the synthesis would not be quite as demanding. That was a relief, given that she hadn’t wanted to give up even one of her uncommon skills - even though it was necessary.
+
+The first skill to hit the chopping block was perhaps surprising - Fists of Frost. While it had been a potent combat skill that Evelyn had used to bring many an opponent to their knees, it felt rather redundant next to Flashfreeze Flamecharge. They didn’t serve quite the same purpose but the effects were extraordinarily similar. So much so that she felt it unnecessary to have both. And it meant she could keep some of her more useful passive skills.
+
+But she would still need to sacrifice two of them. Dual Focus was an easy choice. It had a powerful effect, but not one that a brawler like Evelyn could make full use of. It would be far more suited to a mage, or even an archer. Of her passive skills it was the easiest to lose. The final piece of fuel would be the most difficult to choose, however.
+
+Evelyn loved each of her remaining skills. She immediately took Surging Blood and Impregnable off the table. She needed her attributes to even have a chance at the 16th Floor. And beyond that, having them reach 100 was another requirement for the first ascension.
+
+So, she couldn’t afford to lose them.
+
+That left three skills. Stellar Body, Arcane Shield or Spendthrift. Sacrificing Spendthrift felt frivolous and wasteful - it was a source of ‘free’ attribute points. All she had to do was spend her essence. But, both Stellar Body and Arcane Shield were essential pieces of her combat style. Without them, she would suffer a drop in attributes and ability to soak damage. Stellar Body was certainly not something Evelyn could do without. That left just two.
+
+And in the end she figured that losing a skill that bolstered her combat prowess was not an option. Not with such a daunting challenge looming. So, it was with a heavy heart that she selected Spendthrift as the final sacrifice for the synthesis.
+
+Evelyn would just have to hope the end result would be worth it.
+
+Synthesising Overpowering Spirit (Rare) and Unyielding Heart (Rare)! You have received the following skill:
+
+Soul of the Unstoppable Conqueror (Unusual) - Nothing can make your spirit waver. You are determined to reach the top and no one will bar your path. Once you have set your sights on a goal not even death can strike you down - as long as your will remains firm. Bolster your regeneration at all times and survive blows that would otherwise bring you low. Can be activated when wounded for an instant renewal of your body and spirit as well as a boost to your fortitude and vitality. (1 hour cooldown)
+
+Oh that was really worth it. It’s taken the effect of Overpowering Spirit and pushed it beyond the limits, plus Unyielding Heart’s effect is far more potent than before. The description also sounds broader than just keeping me alive. How that will function remains to be seen. I’m excited to test it out.
+
+Having achieved what she set out to do - synthesising two more skills to the unusual tier - Evelyn was ready to enter the portal to the 16th Floor. However, that would have to wait until tomorrow.
+
+Kayla had mentioned that any of the unclaimed buildings were up for grabs. She could just waltz in and decide to make one her home. Provided she was able to defend her claim, no one could contest it. It sounded a little lawless, but the tower was that kind of place. Haven seemed like a more permanent residence though, so perhaps the system would step in soon or the major factions would implement a kind of governing body. Those issues were far beyond her.
+
+All she cared about was beating the next challenge and becoming stronger.
+
+And perhaps finding her Mum. It would be nice to know both her parents had made it through the tower alive, but she wasn’t going to let those thoughts distract her from her immediate goal. She wanted somewhere fairly close to the plaza, but all the best spots had been claimed already.
+
+Through a stroke of luck, as Evelyn was wandering the side streets she noticed a door hanging ajar. It led to a three story building reminiscent of a townhouse. Unlike the brick or smooth slabs that townhouses had been built from on Earth, this one was constructed from rough hewn stone bricks and wooden support beams. That wasn’t a problem, however.
+
+It gave the building a rustic charm. Evelyn was drawn to it, so she entered. The hallway had a luxurious carpet and an ornate mirror decorating it. The carpet was soft and fluffy and she marvelled at her own rugged appearance as she passed the mirror. It was a far cry from the calculated delicate appearance she had cultivated for herself on Earth. But she liked her new style.
+
+The leathery armour gave her a menacing, yet charming air. Like a handsome bandit chief. Her hair was still glossy but had taken on a slight wavy texture without her usual shampoos and styling products. She continued to explore the house and found a well equipped kitchen - though the pantry was empty. Beyond that was a living room with two plush velvet couches and a few bedrooms with sheets so soft she sunk into them. And the best part was no one seemed to be living there.
+
+So, Evelyn returned downstairs and barricaded the door with a wooden chair she found lying around. There was no key for the lock so it would have to do. After that she had a hot bath that soothed her knotted muscles and then checked out her status before sinking into a deep, relaxing sleep.
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.5
+
+|Attributes|
+
+Power: 12 (13)
+
+Speed: 4
+
+Stamina: 8
+
+Vitality: 26 (31)
+
+Mana: 25
+
+Fortitude: 48 (83)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Galactic Expansion (Unusual), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Salvo (Common)
+
+~Active~
+
+Flashfreeze Flamecharge (Rare)
+
+~Hybrid~
+
+Soul of the Unstoppable Conqueror (Unusual)
+
+When she woke, the sun was already shining and a beautiful day was underway. A positive start to what would be a challenging first attempt at the 16th Floor. And she hoped it would be her last, too.
+
+Death and failure were no longer options. Not that they had been before, but after further quantifying her skills and ambitions Evelyn was even more certain that she could take down the floor which had stumped the rest of humanity’s challengers.
+
+Perhaps it was arrogance, but every great warrior had their pride.
+
+After a quick splash of cold water to wake her up and shock her body into action. Evelyn donned her armour and made her way to the plaza where Kayla was waiting to see her off. As she walked she hummed a cheery tune.
+
+As expected, Kayla was waiting right by the portal. There were a few others scattered about but it was a little early for the majority of Haven to be going about their business. However, when they realised someone was going to be challenging the 16th Floor an excited buzz rippled across the square and more people began flooding in from every corner.
+
+“Vultures,” spat Kayla, “They just want to bet on your survival. Show them how stupid they are darlin’.”
+
+“You know I will,” she replied with a smile.
+
+She began to make her way to the portal, but Kayla stopped her.
+
+“Here, a little present for you. I already have the two best weapons I could ever hope for. Perhaps it will come in handy,” she said, handing her the terrifying warhammer that she had looted from Alice’s cronies yesterday.
+
+Evelyn was typically a hand to hand fighter, but she wouldn’t turn down Kayla’s kindness. She took the hammer and turned it over in her hands a few times, getting a feel for the weight of the weapon. It was comfortable. She could use it well. Evelyn deposited it in her inventory for safekeeping.
+
+“Thank you Kayla. Just give it a few days and I’ll be at the top of that leaderboard. The first clear of the 16th Floor. Wish me luck.”
+
+“I doubt you need it, darlin’. Have fun,” she giggled as Evelyn stepped through the portal.

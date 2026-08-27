@@ -1,0 +1,141 @@
+---
+id: 78420eb2-4160-5392-bad8-2a72ebccc97c
+page-type-slug: story-chapter-royal-road
+title: "013: Trials and Tribulations"
+slug: 0013-013-trials-and-tribulations
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 13
+ownLength: 2104
+unit: words
+publishedAt: 2024-04-11
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1590296/013-trials-and-tribulations"
+royalRoadId: "1590296"
+---
+
+~Malachai POV~
+
+Malachai darted from the shadows, unsheathing the pristine steel dagger that he’d received as a reward on the last floor as he made a beeline for the enemy archer. In the short time between him creeping through the darkness of the arena to flank her, a girl of no more than thirteen, she had somehow managed to put an arrow through Iona’s brain, not that she had much of one to begin with. It was testament to her accuracy that she could hit such a small target. Along with Iona, the terrifying blondie had managed to beat Darren to an unrecognisable mess, meaning that if he didn’t take out the girl here, they would be at a disadvantage in terms of numbers.
+
+She let out a yelp, dropping her bow and the arrow she had been nocking when she noticed him approaching, far sooner than he would’ve liked.
+
+Did I make a sound? Fuck. I must’ve slipped up after seeing those two get killed so quickly. No matter, a child will pose no threat to me.
+
+With no wasted movement, he kicked out at her shin, smiling when he heard the satisfying crunch of bone breaking, following up by stabbing towards her throat with the dagger and jabbing out at her flailing arm with his free hand, anticipating her guard. He needed to silence the girl before her teammates realised what had happened and return to the safety of the shadows. Their comforting embrace. Ever since he had been a child it was the dark corners and unseen alcoves which had hidden him from danger, and now, in this wonderful tower, he was able to use them to their full potential.
+
+Her hands, small and nimble, had somehow slipped through his flawless assault and he found himself unable to push his arm forward further, the tip of his dagger pressing against her jugular, a single droplet of blood beading on her neck. He stepped forwards, leaning more of his weight into her, but it had the opposite effect he was looking for as she stumbled backwards, teetering dangerously close to the edge of the staircase.
+
+Shit! If she gets away now then we’re screwed. Once those two crazy women in the centre of the arena find Aaron, even if he manages to put up a good fight, there’s no doubt he’ll go down. I’m confident in my stealth, but even for me a three versus one fight is nigh impossible to win.
+
+Malachai darted forwards, reaching out to grab her arm before she could slip from his grasp, but she seemed to expect his actions and rather than make a move to stabilise herself, jumped backwards, consigning herself to the twelve-foot drop to the sands below. She was sure to break at least one of her legs, but given that he wasn’t insane enough to follow after her, perhaps the girl was counting on her teammates being able to reach her in time. Her eyes had gone a little glassy for a moment there, which Malachai recognised as her using the party chat system that they had unlocked a short while ago.
+
+Party Chat
+
+HiddenBlade: Aaron, we’ve got a huge problem. Darren and Iona are dead and my target just got away. I need backup right now, by that weird staircase you spotted the archer on.
+
+ValiantKnight: WHAT? How did you manage to fuck up taking out a little kid? Iona’s dead too… This damn tower, why did we have to end up here. I’m heading over, try not to make any more mistakes until I reach you.
+
+HiddenBlade: Don’t be an asshole, we need to work together if we want to make it through this place. Just hurry up.
+
+ValiantKnight: My girlfriend just died because you couldn’t do your job and you want me not to be pissed? Get a grip Malachai. I’ll be there in twenty seconds.
+
+Prick. If you hadn’t decided to ‘scout’ the arena as soon as we arrived without even consulting the rest of us then maybe you would’ve been there to stop Iona from getting shot in the head. No matter. I just hope I don’t need to work with that stuck up bastard for however long we’re stuck in this crappy tower.
+
+Despite not having time on his side, Malachai darted down the staircase, hoping that the girl would still be incapacitated by her fall by the time he arrived. It wasn’t inconceivable given the distance she had dropped, but it was possible her attributes or skills were geared towards survivability. Though the idea that the tower would allow one to make themselves tough enough to get through its challenges with ease was laughable given what he had experienced of it so far, unless he was fundamentally misunderstanding the premise of this hellscape.
+
+To save as much time as he could, he skipped the last few steps at the bottom, jumping over the side of the stone walls and pivoting in the sand to beeline for his victim. He spotted her, struggling to her feet, a grimace painted across her face as she nursed one of her ankles. Even from a distance Malachai could see how swollen it was, slightly bent in the wrong direction. It seemed his prediction had been spot on and he wouldn’t need to chase her far.
+
+HiddenBlade: See if you can hold the other two off for a moment, I can take care of the girl and then head over.ValiantKnight: Right, because of course I have to do all the heavy lifting. Sure, just don’t let me die while you struggle to take out the kid again.I’m slipping my knife in his back the first damn chance I get. Seriously, who does he think he is? We’re all stuck in this place together. It’s not like I dragged him here myself.
+
+He considered slipping into the warmth of the shadows, away from the cold light of the sun, but there was no need. His prey was injured and the kill was all but guaranteed. Besides, there was some satisfaction to be gleaned from the panic that painted itself across her face when she saw him approach. Her movements became more hurried, her injured foot trailing a path in the sand as she limped away.
+
+“Not that there was much love between our little group, but I suppose this is justice for Iona. Simply regret the fact you were pitted against me through a cruel twist of fate,” he said as he sauntered towards the girl.
+
+Something feels wrong.
+
+Rather than slip deeper into panic and fear as her death approached, draped in Malachai’s form, the girl’s worried eyes brightened and a wry smile crept across her face. It was too late to pull back, so instead of letting her spook him, he darted forwards, fingers curling around the handle of his dagger as he slipped it from inside his cloak. She raised her bow, an arrow already nocked, her final futile resistance against his assault. He smacked it aside with ease, the arrow clattering to the ground as she tripped from the force of his strike.
+
+Her guard had been broken and with nothing stopping him, he thrust his dagger at her heart, but halfway through his attack, the entire world flashed bright white. He could still feel himself moving, hear the wind whistling through the ruins and the ragged breathing of his prey, but his sight was gone. Trusting his instincts and well honed assassination skills, he allowed his strike to continue uninterrupted. His arm extended fully, but where his dagger should've slid into flesh, instead it smacked into something solid and unmoving, jolting his arm.
+
+Colours flashed across his vision as his sight returned in full force, just before something sharp and hard slammed into the side of his head and knocked him off balance. He turned to see a woman with glossy black hair and a stern face, sun reflecting off a small round shield held in front of her, which he realised must have been the source of his blindness. Another sharp blow struck him in the chest, knocking the wind from his lungs and sending him flying to the ground, courtesy of the crazed blondie who had expertly demolished Darren in a similar fashion.
+
+HiddenBlade: AARON WHERE THE HELL ARE YOU? I NEED BACKUP RIGHT NOW, I THOUGHT YOU WERE DEALING WITH THESE TWO!
+
+There was no response. He already suspected as much in the back of his mind when he saw the girl’s allies had arrived to save her from his blade, but the dead silence in the party chat confirmed his worst fear. He turned and started to run, no direction or goal except to get away, as far away as he could from this terrifying trio.
+
+“Oh no you don’t darlin’,” said the blonde woman as she disappeared from view, before somehow reappearing in front of him within seconds.
+
+Malachai was sure that no human should be able to move that fast, but he wasn’t left with any time to question her athletic abilities before she put them on full display, drop kicking him in the gut and slamming him to ground, winded and bruised. He threw up his hands, intending to surrender, but halfway through he found himself unable to move his muscles as something warm and wet started to fill his throat. The last thing he saw was the grinning face of his original target, a last mocking reminder of his failure.
+
+~~~
+
+~Evelyn POV~
+
+Congratulations Challengers, you have cleared the 8th Floor! You may purchase one reward from the following:
+
+〖Full Recovery〗- 10 Essence
+
+〖Random Common Equipment〗- 35 Essence
+
+〖1 Attribute Point〗- 40 Essence
+
+〖Grey Star〗- 68 Essence
+
+〖Common Skill Crystal〗- 120 Essence
+
+“Oh my god thank you so much both of you I thought I was going to die for real. That guy was creepy as hell! Looks like it ended up being a three versus three after all,” Anthea exclaimed, letting out the breath she’d been holding and rushing over to hug both women.
+
+Evelyn returned the hug, “There were four of them actually, Kayla and I had to deal with another guy on the way to save you. Luckily for us he was really weak and clumsy, so we made short work of him and arrived in the nick of time.”
+
+“They were all pretty weak actually, now that I think about it,” said Kayla, tousling Anthea’s hair as she hugged the girl, “Or maybe the three of us are just stronger than we look.”
+
+Anthea and Evelyn shared a glance, privy to some inside joke that the southern woman wasn’t aware of. They both knew that at least one of them was overwhelmingly stronger than she looked.
+
+I have enough essence to get another skill after we killed four of them, but I don’t think that’s the right move at the moment. The crystals are cheaper in the Local Shop. It seems that the rewards were still shared evenly even though the final blows were dealt by different people. Looks like I got another grey star as well, which is interesting. Maybe they also transfer on death.
+
+I’ll just get another attribute and then have a look at the shop before we head to the next floor. I’ll increase my fortitude again I suppose, I don’t want to get caught off guard by more ambushes in future. My status is looking a lot chunkier than it did when I first got here. However messed up this whole situation continues to be, it’s somewhat satisfying to see tangible growth in myself.
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+|Attributes|
+
+Power: 1
+
+Speed: 1
+
+Stamina: 0
+
+Vitality: 2
+
+Mana: 0
+
+Fortitude: 3
+
+|Skills|
+
+~Passive~
+
+Bulwark (Common), Stargazing (Common)
+
+~Active~
+
+Battle Cry (Common)
+
+When Evelyn had opened the menu to check how much essence she had earnt from the 8th Floor, it had left her flabbergasted. She somewhat expected it after knowing how the death distribution worked from the 3rd Floor, but seeing the sheer amount of essence that was there was completely different than simply expecting it. It was time to clear out the Local Shop before anyone else could. It wasn’t quite as satisfying as clearing out a clothing sale, but it was perhaps the next best thing.
+
+Essence: 486『+5 / 5:59:59.5 hours』
+
+~~ Stars ~~
+
+Grey: 5
+
+** Inventory **
+
+** Local Shop **
+
+【KILL】
+
+Time to shop! Maybe I’ll find a cool piece of equipment and satisfy that clothes purchase itch. Kill two birds with one stone and get stronger at the same time.

@@ -1,0 +1,349 @@
+---
+id: 3da5dd01-d580-5619-95e5-44fb08c3b9a0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34"
+slug: 0034-chapter-34
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 34
+ownLength: 3386
+unit: words
+publishedAt: 2025-12-29
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2890556/chapter-34"
+royalRoadId: "2890556"
+---
+
+Chapter 34
+
+Veron fell back on his ass. He rolled to the side to avoid the hammer strike and got up to meet the coming shield bash. He held this time, a grin on his face. My shield is better than before.
+
+“I still don’t get how you can be so calm,” Hayden said as he circled him. “They tried to get us killed.” He brought his hammer down on Veron’s shield.
+
+The impact rocked his arm, but he held on.
+
+“Then they robbed us. Humiliated us,” Hayden added and growled. “Give me strength,” he murmured, his shield charging with light before he slammed it forward.
+
+Veron took the blow on his own shield and it cracked slightly. His arm however held.
+
+“Stop using your fucking magic,” Veron said.
+
+Hayden charged him.
+
+Veron swung his mace wide, blocked by Hayden’s shield before the man hit him with his hammer, low and past his shield. He buckled, wincing at the pain from his knee. A shield bash brought him down on his back.
+
+Hayden was breathing heavily, pacing now.
+
+“I think you fucked my knee,” Veron said, unable to put weight on it.
+
+Hayden breathed out and threw his hammer to the ground. He walked over and knelt down, murmuring his incantations to check on and mend the injury. “Dislocated, I think a tendon is injured, and a bruise. I’ll fix it. Sorry, that was uncalled for.”
+
+Veron watched as the man worked, wincing at the pain when he moved the joints back into place.
+
+“If only it were that easy, with her,” Hayden murmured with a sigh.
+
+“Yeah, that would be cool,” Veron said. “And it’s not that I don’t feel anger. They stole my pack. It was a gift from Ian and Aren.”
+
+Veron had thought about the robbers quite a bit, about why they had done it, how he could defend against something like that in the future, and it annoyed him that he thought about them so much. But he supposed that was normal. They had threatened his life, had stolen their stuff. It would take time to process.
+
+His knee felt good again. “They’re a bunch of miserable rats,” he said, but his words lacked soul. He felt hurt. So he charged Hayden again to give that pain some outlet.
+
+They had to stop again a few minutes later.
+
+“How are you doing?” Veron asked, the two of them sitting opposite each other on the sandy floor.
+
+“I’m… calmer, I guess. But now I’m just feeling down,” Hayden said. “You?”
+
+“Kind of the same. I want a hug.”
+
+“From me?” Hayden asked.
+
+Veron shrugged. “Yeah, why not?”
+
+“No.”
+
+“Sad. Maybe next time.” Veron smiled. “Hey, wanna see something I figured out?”
+
+“What is it?”
+
+Veron connected to the wind, trying to find a flow in the large hall. It worked whenever a window was open somewhere. All he needed was a little bit to start. He found a slight breeze and let his awareness flow into it, then sped it up, taking out a stone dagger from his now enhanced chest piece. He let the air flow forward and around the blade, speeding it up as much as he could and condensing it around the blade. By now, the wind was visible to the naked eye, a hissing sound audible before he let it go.
+
+“Moving wind around the blade?” Hayden asked. “Did you test it? Is it making a difference?”
+
+“I did, and no. Not really. But it looks neat, and maybe it could become something useful?”
+
+“You get excited about the smallest things,” Hayden said. “I suppose that’s a good mentality to have.” He stood up and rolled his shoulders. “I’ve been feeling down. This was good, I think thanks is in order. You were right.”
+
+“A hug?” Veron asked when he’d stood up.
+
+Hayden laughed and then hugged him. “Happy?”
+
+“Yeah. We should do that again tomorrow.”
+
+“Hug?”
+
+“Maybe that too. Glad you feel a little better. I do too. Now I’ll get Reka.”
+
+Hayden gave him a look. “You’re something.”
+
+“What?”
+
+“I don’t know. We’ve not known each other for long, and here you are, helping out with Silvie, and us.”
+
+“It’s a two way street,” Veron said. “Besides, I don’t like it when people are stuck with their emotions,” he added, connecting to a little bit of wind and letting it flow around his hand. “I guess I like movement.”
+
+Hayden shook his head and smiled.
+
+Reka was quiet on their walk, lost in thought as they wandered the busy streets of Anvakar.
+
+Veron longed for a spot with trees and earth, and not just because of the growing strength of winter. This city was exciting, which he liked, but he also liked to take a break from it here and there. He also realized that a part of his disappointment with no longer entering the dungeon was the simple fact that down there, it was a lot less busy.
+
+“You’re quiet,” he pointed out when they had sat down in a café. Eighty silver was not a lot compared to what they’d had before, but it was enough to get tea. Still no coffee, even at a café, though granted, the word probably meant something different here.
+
+“I am quiet,” Reka confirmed.
+
+“You can share, if you want to.”
+
+“Yeah,” Reka said, taking a sip from her tea before she set down the mug. “I’ve been thinking. There was a lot to unpack. Long story short, I think it’s best if we go back home. Back to Lyrie. Once Silvie can travel, which will be in a few days based on how much she’s progressed already. I don’t think anything can get her down at this point.” She smiled, though there was a weight to it.
+
+He didn’t interrupt.
+
+“I… you know… I had pushed for this. When we were younger. I wanted to become an adventurer, wanted to do, my own thing. Our own thing. They wanted the same, she wanted the same. We had this goal of opening our own shop in Lyrie, getting enough gold together to make it real, make it last. I just never felt like it was enough.”
+
+She was quiet.
+
+“And now Silvie lost her arm,” she said.
+
+“Yeah,” Veron said.
+
+Reka looked up, meeting his eyes. “I’m done. We’re done. We’ll go back, figure out how much we have saved up, and we’ll build something. For fuck’s sake, we’re both Inscribers, and Hayden can offer healing, if he wants to stick around. I think he would. It won’t be up to the standards of my mother, but I think I’m done with that too.”
+
+“That sounds nice,” Veron said. He thought of Paris. Thought of his own parents. Of his own choices. The move to Anaville. “Does it scare you?”
+
+“Yeah,” she said, her hands between her legs.
+
+“Good.”
+
+She smiled. “What about you?”
+
+He shrugged. “I’ll be happy to join you on the journey, or wave you goodbye if that’s what you’d prefer.”
+
+She raised an eyebrow at him. “What about your goals?”
+
+“They’re not particularly specific right now,” he said. “I guess I’m in it for the adventure.”
+
+Veron sparred again with Hayden the next day, and the day after. Silvie joined them on a walk that afternoon, already back on her feet.
+
+“How’s the pain?” Veron asked.
+
+“It’s alright,” Silvie said. “Hurts more to know I’ve lost an arm. And to a Cayaralan of all things. So embarrassing.”
+
+Veron laughed. “Good to have you back.”
+
+“Well, not fully, but yeah.”
+
+“I think she should be fine traveling already,” Hayden said. “But I’d like to make sure.”
+
+“I’ll join your spars tomorrow,” Silvie said.
+
+Reka winced.
+
+“Ah don’t worry. His magic is great, and that healer did a great job too. She had a Gold badge, right? Greater Path or even higher. I can only imagine what kind of shit she’s seen to get there.”
+
+“Gold level shit, probably,” Veron said.
+
+Silvie laughed. “Yes, exactly! Hmm, yeah, it sucks to have lost an arm, but it’s good that it happened here and not somewhere in the wilderness.”
+
+“Always finding a silver lining somewhere,” Reka said.
+
+“What else should I do? Sulk?”
+
+“Sometimes, yeah,” Reka said and smiled slightly.
+
+Silvie raised her eyebrows. “Once we’re back in Lyrie, okay? I’ll sulk for days.”
+
+“And I can cook you food,” Reka said.
+
+Silvie made a grimace. “Reka, I mean, okay. Maybe you can cut things, but I’ll season and cook.”
+
+Hayden looked away as Reka narrowed her eyes.
+
+“I’ve watched you plenty of times. How complex could it be?”
+
+“Yeah, we’ll discuss that when the time comes,” Silvie said.
+
+“Veron, cooking isn’t that hard, right?” Reka asked.
+
+“It’s like everything else. You try and learn and you’ll probably fail a few times too, and if you care about it and reflect on it, you’ll get better.”
+
+“It’s just food,” Reka said.
+
+“Seems like you’re missing the care about it piece then,” Veron said and smiled, meeting her glare.
+
+She relented. “Alright, maybe I could try and learn.”
+
+“Sounds like you’re in for an adventure,” Veron said to both of them.
+
+“Maybe. But first we have to get back,” Reka said.
+
+“You could also stay through the winter, no?” Veron asked.
+
+“We would need to find work here. No. And winter only just begun. If we leave in a few days, it shouldn’t affect our travels all that much, not once we’re past Perrion. The road through the Teriam range will be snowed in but if we travel through Karlsbrugg, it should be reasonably safe. Just have to find a caravan that’s large enough. Pay will be worse than with Reymond but the numbers will help.”
+
+She wants to get moving, hmm?
+
+“What about going by boat? It’s a lot faster, right?”
+
+“We didn’t have the gold to spend on that before, and we certainly don’t have it now,” Reka said and looked at him. “I thought about the options, and again, if you want to stay in Anvakar, that’s fine. You’re welcome to join us as well.”
+
+“How long is it to Lyrie?”
+
+“On the road through Karlsbrugg, around thirty days, give or take. Probably more considering the cold weather and snow.”
+
+Veron nodded to himself. “I’ll think about it. I could also stay and visit you once I’m a Gold rank adventurer.”
+
+Silvie burst out laughing.
+
+“I’d like to see that,” Hayden said.
+
+“Give you a tour of the third layer and all that,” Veron added with a teasing smile.
+
+Travel with them to Lyrie, or stay here.
+
+They got a bath together later and shared dinner at the inn, Reka and Silvie leaving to stay at the clinic in case anything came up but Silvie was recovering well and quickly. Quickly mostly to Veron’s perception. An injury like that, back on Earth, he had no clue how long it would take to heal as much as it already had for Silvie. Healing magic couldn’t fix everything, but it sure made a whole lot of things easier. Especially when you had a healer in your team.
+
+Hayden stayed at the inn and was already asleep when Veron looked out the window of their shared room. The sky was overcast and gray but he could see the hundreds of lights of Anvakar.
+
+I’ll have to make a decision.
+
+Both options came with pros and cons. Veron had grown close to the team but he was intrigued by the dungeon too, and he’d traveled all the way here just for that in the first place. What would he do once in Lyrie? He could stick around with them, help out where he could, maybe find work in the city, but he supposed he really just didn’t want to separate.
+
+That’s it, isn’t it? I’m anxious. I’ve grown comfortable around them, fighting by their side. But what I really want to do is stay here. Damn. I don’t want to go back to Eyra without a lot more stories and experience.
+
+But I don’t want to find a new team either. Why did Silvie have to get injured? She could’ve just dodged. He caught the thought, allowing himself to feel the annoyance, and the guilt that came in response. It wasn’t her fault. It wasn’t anyone’s fault, and still it affected all of them. And now they were here, and he would have to make a decision.
+
+He lay down on his bed and looked at the dark bunk bed above, raising his hand to look at it. And those fucking assholes are still down in the dungeon too.
+
+He smiled to himself and sighed.
+
+But I still want to go there.
+
+Yeah.
+
+This isn’t really that much of a decision, is it? Maybe if they went to explore some distant land with an expedition, but based on what Reka said, they’re done with adventuring, at least for now. My armor is almost done, I’ve been to the first two layers, and I’m a Modest Path. I’ll find a team that I’m comfortable with, then continue. And next spring or summer, I can think about traveling south.
+
+That sounds like a plan.
+
+He rolled over on his bed and soon fell asleep.
+
+Silvie did join their sparring the next day, which felt pretty ludicrous considering she’d lost an arm less than a week ago.
+
+“It’ll be annoying to switch between my wand and sword,” she said, adjusting the sheaths on her belt. “But I guess I won’t have to worry about carrying my second sword at least.”
+
+“You could still have it as a back up,” Veron said. “As some kind of throwing weapon.”
+
+“That’s not a great idea,” Hayden said.
+
+“I think he was joking,” Silvie added. “Come on then, let’s fight. I should still be able to put down a modest path.”
+
+Veron smiled and got up, readying his shield and mace.
+
+“If you go easy on me, I’ll aim for your eyes,” Silvie said.
+
+He focused and approached.
+
+Silvie was down one arm, but she was faster than him, with vastly superior footwork and experience. Her blows weren’t as hard hitting as Hayden’s but they came quicker. After a few minutes, they were both panting, unable to land any decisive blows. Veron was too slow but Silvie couldn’t get past his heavy armor and shield either.
+
+“Damn, my balance is all over the place,” Silvie said and rolled her shoulder.
+
+“You can still get your bear?” Veron asked after Hayden had commented on a few things, both for Veron and for Silvie.
+
+“Sure, you want to fight Claws?”
+
+“Claws?”
+
+“That’s his name.”
+
+Veron was quiet for a moment. “Sure. Yeah, why not? Can you stop it from killing me?”
+
+“Yeah. Just… you know, with your experience with the Navorok.”
+
+“It might help me move past that, I’ll let you know when it’s too much. That thing was a lot bigger than Claws.”
+
+Veron gulped when he saw it form from the runes that Silvie painted. It didn’t wait either, charging him immediately. He skidded back a little from blocking the first strike. Then another. His shield held up but Claws didn’t stop, striking at him again and again, and pushing him back farther. He charged and tried to tackle him but Veron moved his shield and stepped aside, using the bear’s momentum against it like Hayden had shown him during their grapple training. It worked, sort of. One of Claw’s large paws scraped past his shoulder and pushed him off balance.
+
+He kept on, mostly on the defensive and only striking back when he felt like he had an opening. “I… can’t… stop,” he called out and Silvie made the bear stop as he caught his breath. “Does that thing not get exhausted?”
+
+“No.”
+
+“Well… I do,” he said and glanced at Hayden.
+
+They repeated a few times after some light healing.
+
+“You’re holding up well,” Hayden said when he fixed up a few bruises from several heavy strikes against Veron’s chest.
+
+Silvie seemed to enjoy herself too, commenting on what she would do if she would be part of the fight as well. She normally used Claws to lock down or occupy large or defense oriented targets, attacking them from a blind spot or sending in her wolves as well to overwhelm whatever she was facing.
+
+“Let’s try again,” Veron said.
+
+“You remade your armor,” Hayden commented when they shared dinner, approval in his voice.
+
+“I think Claws would’ve chipped through the old version,” Veron said. The issue he had with the bear was its relentless energy. One slip up and he was on the ground, and once he ran out of steam, the bear would overwhelm him with sheer strength. But Veron could hold his ground for a while, and with more experience, he was sure he could take him down as well. Almost as durable as I am. And she can just summon something like that, he thought, glancing at Silvie.
+
+“You’re confident then?” Reka asked her.
+
+“Yeah. I can still fight. I’m just more exposed while I summon, and I’m less effective, but that was obvious. The balance issues, I’ll just make sure not to extend too much. Less effective, but still deadly.”
+
+They were all quiet for a long moment. “So then we can leave,” Reka said finally, then looked at Veron.
+
+He breathed in deep. “I’ve decided to stay in Anvakar.”
+
+“I thought so,” Reka said.
+
+“Ah, that’s a shame,” Silvie said. “It’s fun hanging out with you. Sure you don’t want to join our venture?”
+
+“I’m sure,” Veron said with a smile. “But yes, it’s fun, and I learned a lot from all of you.”
+
+“You’ve made a lot of progress,” Hayden said and tapped his back.
+
+“Bittersweet, hmm?” Silvie said. “This calls for drinks.”
+
+“Does it?” Reka asked. She looked at Silvie for a moment, then smiled. “I suppose it does.”
+
+“Oh, let’s go to Macy’s! The weather’s pretty clear,” Silvie said.
+
+“We should save silver,” Reka said.
+
+“A few drinks, come on. You said it yourself, we’ll make it work.”
+
+Reka sighed and then seemed to relax a little. “Yeah, you’re right. Sorry, it’s new for me, all that.”
+
+Silvie soon led them through the city, Veron enjoying his warm coat, and soon, they made their way up a stairwell, coming out on a roof. There were a dozen or so braziers and a few minutes later, they were sitting on comfortable benches covered in blankets and holding spiced mulled wine.
+
+Veron took a sip of the wine and looked at Silvie, listening as she talked about their plans. Despite the injury and everything that had happened, he felt that she seemed more lively than before. Hayden seemed more relaxed, and Reka, well, he could tell she was thinking about a lot of things, but she also seemed less, stuck? He wasn’t sure, but it made him happy to see them talking like this.
+
+He would miss them.
+
+Veron felt a bit tipsy when they made their way back, Silvie and Reka giggling as they supported each other. Hayden was quiet.
+
+When they reached the Willard Inn, a bright flash of light made Veron turn. Somewhere to the south, he could see a pillar of blue light reaching up into the clouds, beyond, and to the stars. The whole world took on a tinge of blue, everyone looking up towards the sky.
+
+“What’s that?” he asked.
+
+“I have no idea,” Silvie said.
+
+The blue light flickered and turned into a sickly green.
+
+“Magic that is visible from this far away…” Reka murmured.
+
+Something was coming closer, the air itself moving.
+
+“Get down!” Hayden shouted.
+
+Veron got into cover and kept his head low, waiting with the others behind a low stone wall when a wave of air rushed past. Coats fluttered on those who hadn’t sought cover, the nearby windows shaking slightly.
+
+“Was that a shock wave?” he asked.
+
+When they got out from the cover, the light was fading, and then vanished entirely, the night turning darker, and the stars were visible once more.
+
+“What the fuck was that?” Reka asked, dozens of adventurers rushing out to look southwards, conversations and shouts all around them.
+
+Veron kept looking towards the south. He smelled iron in the air.

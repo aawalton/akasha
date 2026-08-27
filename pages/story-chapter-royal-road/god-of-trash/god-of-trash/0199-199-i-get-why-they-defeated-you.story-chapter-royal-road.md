@@ -1,0 +1,165 @@
+---
+id: a4d65e08-8785-597b-9dc5-3ea33212e5bf
+page-type-slug: story-chapter-royal-road
+title: "199. I Get Why They Defeated You"
+slug: 0199-199-i-get-why-they-defeated-you
+partOf: god-of-trash
+position: 199
+ownLength: 1826
+unit: words
+publishedAt: 2025-09-27
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2633998/199-i-get-why-they-defeated-you"
+royalRoadId: "2633998"
+---
+
+“You are insufferable,” Daran grumbled.
+
+“Yeah, but I’m not insufferable enough to get an entire nation to band together to overthrow me, so you’ve got me beat there,” Rhys returned.
+
+Daran laughed darkly. “Do you honestly think that is why they overthrew me?”
+
+“Yes.”
+
+A dead stare.
+
+“It’s why I’d join the overthrow-Daran crew, anyways,” he clarified.
+
+“Did you consider that every person in a country might not be as petty as you?”
+
+Rhys fixed him with a deadpan stare. “Have you met the average citizen?”
+
+Daran paused at that. “I… well, no. I was king, you understand.”
+
+“Ahhhh. Right. The average citizen, my liege, is a petty-ass being. And you are one of the most annoying people I’ve ever had the misfortune of encountering or knowing about,” Rhys informed him.
+
+Daran blinked. “You’d… overthrow my country, if I still had one, because… because I’m annoying?”
+
+“I mean… I assume you were also being an asshole and repressing people and making them pay taxes and stuff, but yeah. Yeah, I would. And I’m not the only one.”
+
+“I never considered,” Daran murmured to himself. “I surrounded myself with philosophers—”
+
+“Oh, did you. I couldn’t tell.”
+
+“—and other wise men, thinking I would expand my horizons and grow as a person. But perhaps I grew in the wrong direction.”
+
+Rhys raised his brows. He looked at Daran. “I didn’t expect introspection from you.”
+
+“Why not? I—”
+
+“No, no, you’re right, you clearly think about yourself a lot.”
+
+Daran paused. The two of them stared at one another for a long time. At last, Daran sighed. “You really hate me, don’t you.”
+
+“Hate isn’t the right word… not yet, anyways. You frustrate and annoy me, though. Keep it up, and you’re on your way to hate.”
+
+“I have found hate inescapable for much of my life. I thought it was my opinions and beliefs, but… perhaps my personality also played a factor,” Daran allowed.
+
+“Perhaps,” Rhys allowed.
+
+Daran waved his hand. “Your qualms about my personality are neither here nor there. At hand is our wager. You receive two questions if I cannot guess, or lose your questions if I can.”
+
+“Right. Two more, for three total. And I keep my question if you can’t get it on the first guess, but you don’t give up any more questions if you get it on the second.”
+
+A heavy sigh left the man’s lips. His blood-colored eyes burned into his. “I shouldn’t take this wager. Were I still alive, I would not. But a life immaterial is a life dull. At least I might feel a little thrill.”
+
+At that, Rhys softened a bit. “Can you talk with anyone but me?”
+
+“No.”
+
+“It’s the book, isn’t it?”
+
+Another sigh. “You already know. Why are you asking me?”
+
+Rhys spread his hands. “Ordinary people like confirmation. We like chatting and getting to know one another, unlike you big brain philosopher people.”
+
+“Is it such a crime that I shared the company of philosophers?”
+
+“Shared the company? No, no. No one can be blamed for that. You never know who is and isn’t a philosopher. Sometimes, you’re just talking to someone, and suddenly bam! They spit out some philosophy. That’s not your fault. You didn’t know. But you sought them out. Deliberately found philosophers to speak with. That’s the part that gets dicey.”
+
+Daran squinted at him. “I feel like what you think of, and what I think of, when we say the world ‘philosopher,’ is not the same concept.”
+
+“Oh, probably not. They were probably less annoying and holier-than-thou in your era.”
+
+Daran waggled his hand. “Eh.”
+
+“Then why’d you think it was a good idea to hang out with them?” Rhys asked, a little exasperated.
+
+“In the books, they said it was a good way to expand one’s mind.”
+
+“Were the books kind of annoying and holier-than-thou?”
+
+Daran raised his brows as if a thought had just occurred to him.
+
+“See? Written by philosophers, to promote philosophers. Can’t trust them philosophers. They’re just some guys who want to sit around all day, say useless things, and sound wise while everyone else works to support their lazy asses.”
+
+Daran snorted. He looked at Rhys. “What have philosophers done to you? Did they hurt you as a child?”
+
+“Fuckin’ made me listen to his useless bullshit, then did no work on the group project, then acted like he’d saved all our lives by spouting nonsense at us and wasting everyone’s time. Wish I’d punched that bastard in the nose. Would’ve learned him something all that philosophy bullshit didn’t.”
+
+“What’s a group project?”
+
+“I imagine it’s what they make you do in hell,” Rhys said.
+
+Daran snorted. He waved his hand. “Give me a moment to think while you gather your trash.”
+
+Rhys nodded. He walked on, strolling along the realm. He’d only been here a few minutes, and he didn’t really want to leave until he’d puzzled out at least a hint at what the Empress was trying to hide by putting all this trash out of sight, so he was in no rush. Right now, he was using the tried-and-true technique of putting it on the backburner of his mind to simmer. If active thinking couldn’t figure it out, maybe letting his semi-conscious mind chew on it would. He’d worked out all kinds of problems this way, from interpersonal to homework, and it had rarely failed him… though he wasn’t sure he had the overnight time to really put his unconscious mind to work on it in his sleep that he usually would.
+
+I really need examples of what the Empress didn’t strip of its enchantments, Rhys thought. He had plenty examples of what did, but as for what didn’t, his only example was Logan Waters’s mana battery. With one example, he couldn’t corroborate anything. Was it because it was too simple? Because it was a mana battery? Because it was too low level, and below her notice? Had she just whoopsied and missed it? If he had multiple examples of what she’d ignored, he could at least start piecing things together, but with one, he simply knew nothing. Not only that, but the only example he had was also hearsay. For all he knew, Logan had made up a story about finding it here, and it was all bullshit that wasn’t worth the time he’d already wasted thinking about it.
+
+He extended his mana senses as he sucked in all the trash, searching for any mana signals. The one good thing about everything being drained was that anything with mana was something the Empress had left behind, by necessity. The bad thing about everything being drained was that nothing had mana. He kept wandering, continuing to search. Daran walked at his side, mulling over Rhys’s puzzle.
+
+“What’s up with your hair, by the way?” Rhys asked.
+
+“Hmm?” Daran asked.
+
+“It’s all greasy, but you’re immaterial. Couldn’t you just think that you had clean hair, and it would be clean?”
+
+“It’s greasy? Isn’t it normal?” Daran asked.
+
+Rhys furrowed his brows at Daran. “Is this an emperor’s-new-clothes kind of situation? Did no one tell you? Or were hygiene standards just different, back in your day?”
+
+“I washed my hair once a year, as was standard. Any more would be to invite the lice in.”
+
+Rhys blinked at him. “You mages had lice back then?”
+
+“Not mages, no, but mortals. Don’t you have some habits from your mortal life?”
+
+Rhys chuckled. “If only you knew.” He had more bad habits from his old life than from his mortal childhood here, but he supposed Daran had a point, for once. He still felt a little gross when he didn’t get a daily shower, even though magehood kept him fresh as a daisy for weeks… trash stench aside. But that was because of his chosen path, not because it was difficult to get a hand on soap around here.
+
+“I could make it less greasy, I suppose. But I’m used to this appearance. It would be strange for me to appear otherwise.”
+
+Rhys glanced at him. “I don’t want to take your only joy from you.”
+
+“Hmph. You think that’s my only joy?”
+
+“One of your few joys? Alongside tormenting me.”
+
+“Fair enough.”
+
+A glimmer of mana brushed up against the limits of Rhys’s perception. He extended all his energy toward it, narrowing in on it. It was faint, only a bare drip of mana, a single spark, but it was the first mana he’d sensed the whole time. Rhys approached it steadily, absorbing trash as he walked, but leaving the glimmer of mana. He couldn’t see what he was avoiding absorbing, but he could feel it, and Trash Manipulation was high enough level now that he could manage that kind of finesse in his sleep. He was a long ways away from that child in the trash heap who’d struggled to sort the good trash from the bad with his bare hands.
+
+“You’re not a child of heaven,” Daran murmured.
+
+“Nope. Is that a guess?”
+
+“It is not. Don’t be pedantic.”
+
+Rhys shrugged. The trash had cleared away from the item, and he crouched to get a better look. Dusting off the last of it, he revealed an orb, about as large as the one Logan had somehow put inside his body. A mana battery. This one glimmered with blue light, with the cool energy of water. He picked it up gently. The battery was not full, and as if its strength were tied to its fullness, its glass walls felt as delicate and easy to pop as a soap bubble. The bindings on the mana were decayed, but not broken. The Empress had attempted to destroy this, but couldn’t.
+
+Rhys’s heart beat faster. He held the battery as carefully as he could, afraid his hand, trembling in excitement, might shatter the delicate thing. This was it. The hint. The secret.
+
+But what does it mean?
+
+Of course, he assumed that the bindings were weak because the Empress had attacked it, not merely because it was old and worn out, but it was a start. A start he had to believe in, because he had nothing else.
+
+“A different realm.”
+
+Rhys stared at Daran. “What?”
+
+“You. You came from a different realm. One of the myriad realms beyond this small realm.”
+
+“What do you mean by realm?” Rhys asked, squinting. In a way, it was true, but in a way, it wasn’t.
+
+Daran gestured. “In the darkness beyond this world, there are many other worlds. You come from one of those. Perhaps through some mechanical means.”
+
+“Nope. Not like that,” Rhys said. He turned back to the mana battery, but Daran’s words echoed in his ears. A different realm. Myriad worlds, floating in darkness. The mana battery, delicate as a soap bubble. The Empress, pulling cores. Something… something tied them all together. Come on, you can figure it out. What is it?

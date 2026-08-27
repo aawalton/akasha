@@ -1,0 +1,149 @@
+---
+id: f0697152-b953-5f29-807f-bc9ce3531ad9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 781 - The Tower"
+slug: 0106-chapter-781-the-tower
+partOf: hell-difficulty-tutorial
+position: 106
+ownLength: 2318
+unit: words
+publishedAt: 2026-03-29
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3208163/chapter-781-the-tower"
+royalRoadId: "3208163"
+---
+
+I watch as Blackie stands there, looking at his hands and often letting his eyes drift toward Sophie, as she stands next to me. In front of him, Biscuit and Noodle are both fighting for his attention, but they don't make any attempt to move closer, and neither does Blackie. Izzy is also nearby, looking him over with curiosity.
+
+“I don't know what the fuck to do,” Sophie continues to complain to me. “Blackie was and still is just a construct made by a Champion. A set of rules with preset reactions. No, he was never even a full construct, just a fragment of one, further broken when that Champion died. He only mimics normal behaviours and decides based on a set of rules. Even mixed in with that imprint, it’s still the same. I think Blackie, as a construct, absorbed parts of the imprint we faced to use to fix himself, strengthen, or even evolve. Something.”
+
+“So you have no idea?” I ask.
+
+“I have many ideas, but I'm just not sure. These are Champion level creations we’re talking about, there are a lot of things I still don't know. I just know my bond with Blackie has weakened and been enhanced at the same time. Like hell that makes sense. At least he still listens to me like before.” Once again, she shakes her head. “This is a pain in the ass. A malfunction eroded his rule sets, leaving him vulnerable to stimuli that might alter him at a deeper level. I won’t bother you with a more detailed explanation.”
+
+“You know how dangerous it could be if he charges at Izzy. Even a hard fall nearby could trigger the trait and kill others in the area.”
+
+She turns to me, annoyed. “You don’t have to remind me! I saw what that trait could do. In the worst case, I can leave him on this floor as we go to the next, and trust me, if I need to, I will do that. Otherwise, I’ll be stuck having to deal with the fact that even a strong gust of wind could cause an explosion of kinetic energy. If someone jumps to attack me and he takes a punch, the defensive blast of kinetic energy could kill me as well. Rain probably would too, or if he trips or bounces against a tree. Not even mentioning that demons will likely eat me alive if I try to take him into Beyond, yet I can’t leave him behind with Izzy.”
+
+Rubbing her temples, she groans, looking at Blackie, who looks from Biscuit back at her. He looks at her for a moment before it is Sophie who first breaks eye contact.
+
+“When you get to Beyond, go meet Silverweave at Crimson Forge, tell her I sent you,” I tell her. Don’t let them trick you into overpaying. With the right offer, they’ll work for free. Have them build armor for Blackie that’ll absorb kinetic impacts. There’s a material we’ve been experimenting with that could work. It is heavy and expensive, but you should ignore that for now. Tell them to fully clad Blackie with it. Also have them include a release mechanism so the armor can drop away when he needs to move freely.”
+
+Sophie looks at me, thinking of what I said before nodding. “I’ll need to have a talk with Frontier and change my schedule a bit to do that, but if they decide to be dicks about it, I’ll just leave.”
+
+“I would be careful about that. They’ve invested a lot in you with the goal of beating the 5th floor.”
+
+“I’m well aware of that.” She waves her hand, and a stone under her grows in size, smoothes out, and forms into a seat she sits in like a tired old man. “I’ll probably check in with the Doc as well, maybe there’s an implant that can help control the trait. Then I could talk with Lily about fixing up that body a little, though I don't know how far she can go when it comes to modifying or healing something at the level of a Champion.”
+
+“That sounds like a good plan,” I say, and leave her to deal with it.
+
+For a while, I observe Blackie and wonder if they’ll be wanting to give him a new name. I also think of how much interesting stuff there might be to find on this floor. Maybe I made a mistake ignoring it this much. Still, I know I’d just repeat my choices, even knowing what I do now.
+
+Then a thought flashes through my mind, something I curse myself for not thinking of sooner, before I quickly open the Beyond Community interface.
+
+Noname - Savi, you gluttonous, cowardly asshole.
+
+Savant - what do you want.
+
+He reacts immediately. I must have caught him during his daily community checks, a habit everyone seems to have.
+
+Noname - Tell me, how many things have you gobbled up on the 9th floor at this point?
+
+Savant - Why would I answer that?
+
+Tacita - |･ω･)
+
+Savant - Another reason for me to say nothing.
+
+Tacita - (ﾒ￣▽￣)︻┳═一
+
+Noname - You have a gun?
+
+Tacita - ＼(￣▽￣)／
+
+Noname - You do not have a gun.
+
+Tacita - (─‿‿─)
+
+After that, she doesn't answer anymore, leaving me and Savant behind.
+
+Noname - Where would she even get a gun on the 9th floor? And how useful would that even be for someone like her?
+
+Savant - Honestly, I don’t even care. By the way, how have you been dealing with that… what are you guys calling it… maybe the “colossal jumping asshole?” That sounds like the type of name your group would come up with. So, how did you deal with that monster?
+
+Noname - Oh, you mean Skippy? We’re avoiding him.
+
+Savant - … Of course… Skippy… Whatever, I have to go. And stop selling information on me to Brich.
+
+Noname - You already sold some on me.
+
+And of course, he doesn't answer anymore, like a true drama queen. Turning off the community interface, I observe Blackie, who starts walking a bit. His steps are slow and awkward, but he improves quickly, literally in just a few steps, his balance shifts, he moves more smoothly, and his strides grow longer. Then he falls as he steps into a small hole and loses his balance. He regains composure, but instead of fully falling, he braces himself against his outstretched hand.
+
+Even that is enough to trigger the trait. The absorbed kinetic energy ricochets through his body until it explodes, throwing him into the air. He hits the ground again, causing an even larger explosion of kinetic energy that sends him tumbling and sliding.
+
+Each roll triggers one blast after another, but with each one, his movements become more nimble and his landings softer. The explosions slowly grow smaller until he finally lands without one, standing up in what looks almost like a proud posture.
+
+Around him, there are half a dozen craters and cracked ground. Group 4 is staring him down like he's a walking bomb that could be set off at any moment.
+
+I wish Sophie the very best, and head over to where I can sense Tess approaching, likely heading over so I can replace her on guard duty, and so she can get back up to speed. We meet on top of the branches of one of the giant trees, and I watch as she stops in front of me. One of her arms is hanging along her body, torn, wounded, and bitten into. There are similar wounds all over her.
+
+Noticing where I’m looking, she smiles. "Some of the monsters here are quite fast, attack in groups, and have good senses."
+
+Her words make me wonder how many times someone from the group might have almost died. How many times have they bled or fought with their lives on the line?
+
+Of course, the high level extrovert seems to know what I’m thinking, and she says softly, "How many times do you think any of us almost died, be it here or in Beyond? Or even somewhere just out of sight of the others?"
+
+"Probably more than I’d been thinking just a few moments ago."
+
+"Probably," she agrees. "I can heal myself by using Lily’s healing marks, but I prefer my wounds to stay for as long as possible, or let my natural regeneration handle it. The pain and restrictions serve as a reminder to not over-rely on our cute little healer and to not get careless."
+
+“I always knew I was the only normal person in Group 4.”
+
+She laughs and uses her right hand to poke her damaged left arm. "This wasn't my fault, I can tell you that. The monsters that attacked me were twenty strong, and half of them split off to move toward our group. To keep them from passing, I had to move into closer quarters and engage in melee combat rather than killing them before they could so much as see me. They were fast, organised, and each one was over level 350, and a few of them were closer to 400. I did my best within my current capabilities, and next time I will do better."
+
+Her expression is firm and confident as she says it, so I just nod. “Putting more stats into mana would go a long way. By the way, how are things in the Silent Veil? I don’t think I asked you.”
+
+“They keep asking me to lure Tacita into the guild. They keep asking about Lily. They want me to abuse my relationship with you, as the Primordial Knight’s rumored, now confirmed, guild master. They even want me to push Sophie into spying on Frontier, and so on. They offer a lot in exchange for information. And to top it all off, I don’t think Lyraen likes me very much.”
+
+"With the 40 wives that guy has, it must be tough, so I don't think he is ever in a good mood."
+
+Tess chuckles. "40 now?"
+
+"Could be 50."
+
+"I guess it could, but I think he just doesn't like me because my range is longer than his, and the moment he uses his white lightning, I can see him. I learned to spot it thanks to my cute little disciple. I think my eyes are pretty sharp." She flicks her blonde hair over her shoulder in a mockery of arrogant behavior. "But he and I are pragmatic people, so we’ve been cooperating pretty well so far, and who knows, I might abuse my relationship with you guys to improve my position in the guild even further. Anyway, thanks for volunteering for guard duty."
+
+With a wave, she jumps off the branch and turns into a streak of red and white lightning that zigzags unpredictably through the air as she moves toward the group.
+
+Sensing more signatures closing in, I head in that direction to deal with them. On the way, one of the skills I’ve been constantly working to train levels up. It doesn’t even happen during combat, as it usually does. Seeing that level, I think that lowering my Constitution may have been worth it. The skill has settled comfortably within me, making my body even more attuned to it.
+
+I wonder how many people in the tutorial have reached that level.
+
+[Mana Manipulation - lvl 78 > Mana Manipulation - lvl 79]
+
+POV Earth
+
+It is a bright afternoon when the Swiss Alps begin to tremble.
+
+At first, it feels like distant thunder, a low, deep vibrations rolling through stone and ice. Then the clouds part. Sunlight pours down, and within that brilliance, a figure glides through the air, arms spread wide as if to embrace the sky itself.
+
+Behind him, something mimics the gesture. A towering crimson red presence with a humanoid torso. The figure’s four massive arms open wide, mirroring his pose on a much larger scale, and violent mana flashes through the area, filling it with a deep hum.
+
+Deep below, the mountain peaks begin to shake and crumble. Rock and snow alike form a gigantic landslide, while the deep, foreboding rumble is audible throughout the entire country.
+
+Slowly, from within that destruction, a tower begins to grow. Smooth, elegant, pearl white, and golden.
+
+Beautiful.
+
+The tower is as thick as the mountains it replaces, its surface flawless, unbroken, without a single window. It climbs past the ruined peaks, past the clouds. And continues on further. Growing to tower over the place where everything almost ended for the man hovering in the sky.
+
+The growth stops only once the tower is taller than any mountain existing on Earth. And there it stands, its surface shining under the light of the sun, casting a shadow that stretches far into the distance.
+
+At last, the surface near the top cracks, and from its back, something reminiscent of wings extends, made from the same white golden stone as the tower. Two bigger ones on each side and two slightly leaner ones below. Four wings, each spreading a mile wide.
+
+It has taken hours and many more weeks of preparation, but now that it’s done, the red figure behind the man disappears. Unhurriedly, the man descends.
+
+He ignores the door at the top of the tower and lands directly on the top of the tower itself, where a throne awaits, perfectly centered.
+
+The moment he sits down, his senses connect to the structure. The tower awakens, powered by the man’s mana heart. His senses flood outward from him, spreading first through the entirety of the country, then into neighboring ones, and then further, crossing oceans without resistance.
+
+With just a few more modifications, all of Earth will be open to his senses. And with the correct materials and further enhancements, that reach will extend even beyond Earth itself.

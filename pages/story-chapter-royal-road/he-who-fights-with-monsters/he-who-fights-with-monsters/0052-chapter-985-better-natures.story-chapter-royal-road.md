@@ -1,0 +1,223 @@
+---
+id: 6ec698c0-9fd8-52e5-97af-5ec44a635ecd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 985: Better Natures"
+slug: 0052-chapter-985-better-natures
+partOf: he-who-fights-with-monsters
+position: 52
+ownLength: 2608
+unit: words
+ownProgress: 2608
+publishedAt: 2026-02-23
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3085438/chapter-985-better-natures"
+royalRoadId: "3085438"
+markedReadAt: "2026-06-29T19:05:40.501Z"
+---
+
+The moment they entered Asano’s astral space, the people guarding Marie, Elizabeth and Remy relaxed. Apparently no longer wary of any threats, all but one left entirely, leaving only the man named Trenchant.
+
+Marie had never been in a true astral space before. Her early days in the Network had been in the final years of magic being a secret. She’d seen the astral proto-spaces, with their inconsistent magic levels and wild terrain. She had seen a couple with some signs of civilisation, but no more than ruins that looked thousands of years old.
+
+The astral space, by comparison was a revelation. There were no wild energies teasing at her supernatural senses like an insect she was unable to swat. There was no sense that the whole place was on the verge of collapse, instead feeling as solid as the world outside.
+
+That did not mean that there was no sense of unreality to the place. The portal had dropped them in a train station, with décor more at home in an old noir film that the modern Earth. Even the people milling around looked like extras in a sixties movie, complete with period outfits. She also didn’t see a single person with their phone out, despite the train station being a bustle of activity. Even the light was strange, washing out the colours. It didn’t genuinely render the world in monochrome, yet it felt like living in black and white.
+
+Marie looked at their now-solitary guard. His eyes retained their bright shade of blue, standing out in a world of greys. He led them through the train station, barely even looking to see if they followed.
+
+“We’re in a place of Asano’s power now,” Elizabeth murmured, even though they both knew their gold-rank escort could hear. “There’s no escape, no defiance. Only that which he allows.”
+
+“What is this place?” Remy wondered.
+
+“I’m going to guess that it’s Asano’s vampire city,” Elizabeth told him. “We’ve heard about it, of course. The place he keeps all the tame vampires.”
+
+“Meaning the ones that aren’t monsters,” Remy said.
+
+“We monsters were able to keep your daughter alive when your own people could not.”
+
+“And then held her hostage.”
+
+“She is living very well,” Elizabeth said.
+
+“Is she? How long after word gets out that you’ve been taken will your people stop doing as their told and kill her?”
+
+“If you’re so worried, why did you not tell our captors about her? Trade information on our activities for her wellbeing?”
+
+“Don’t poke at him, Elizabeth,” Marie said. “He knows, just as well as you, how much she needs your blood magic.”
+
+“You’re right,” Elizabeth said. “Jabbing at a man’s weakness unnecessarily is unbecoming. My apologies, Remy. And know that I have made accommodations for this eventuality.”
+
+“Really?” Remy asked.
+
+“Coming under Asano’s sway was an inevitability. I had hoped to have more cards in hand, but here we are.”
+
+Outside the train station, every direction Marie looked seemed like the perfect place to murder Batman’s parents. A line of old-school Americana diners and dive bars were punctuated by shadowy alleyways. A long town car pulled up, driven by what had to be Asano’s famous shadow servant. Their escort put Remy in the front and the two women in the back. He didn’t join them, closing the door and watching as the car pulled away.
+
+“Hello again Shade,” Elizabeth said.
+
+“I am under instruction to engage you in pleasantries,” Shade said. “As much as Mr Asano likes banter, that does not apply to someone responsible for the death of millions.”
+
+“You don’t have to be a vampire to sweep across Europe killing people in the millions,” Elizabeth said. “Humans were accomplishing that while I was deep in millennia-long slumber.”
+
+“When we meet Asano,” Remy said, “I hope you come up with something better than ‘it’s okay to be vampire Hitler because there was already human Hitler.’ I don’t think that’s going to help us.”
+
+***
+
+The car took them out of the city, onto country roads that wound through rolling hills. Moonlight lit their way until they reached a wrought iron gate set into a wall topped with guardian gargoyles. Gaslamps lit their way as the car drove up the long drive of the estate grounds to a gothic mansion. On pulling up outside, Shade got out of the car and two additional bodies stepped out of the original. The other three got out and looked around.
+
+“If this is where Asano keeps his vampires,” Remy said, “isn’t this a little on the nose?”
+
+The three Shades led them inside, taking them all in different directions. Marie was led to a bedroom suite that seemed like a bed and breakfast accommodation designed for goths. Shade told her to remain within the suite and left her there. She briefly explored the bathroom and bedroom before returning to the central lounge area to find Jason Asano sitting in a plush armchair.
+
+Asano looked relaxed, leaning back, legs crossed in a throne-like armchair. She stood in the doorway as they swapped assessing looks. His initial display of relaxation seemed superficial the more she looked at him. There was a weariness he wasn’t putting much effort into hiding.
+
+“You don’t want to be doing this,” she said.
+
+“No,” he agreed. “But it needs to be done, and this part is best done by me. Take a seat, Ms Finnegan.”
+
+She moved to another chair and sat down. The armchair was oversized and she sank into the deep padding.
+
+“I’m surprised it’s me first,” she said.
+
+“It’s not. I’m speaking with all of you at once.”
+
+“You can be in more than one place,” Marie realised. “Like your shadow.”
+
+“Here, I can do most things.”
+
+“How does that work?”
+
+“It’s complicated. What you might think of as my real body is having lunch at a bistro in the city. I’ll have some food brought in when we’re done.”
+
+“I suppose you want my gripping back story. Why I threw my lot in with a vampire queen whose queendom was turning against her.”
+
+“No. I don’t care. I have no interest in punishing you. My sole concern is to prevent as much damage as I can. The blood oaks. The nuclear weapons. The reality core farming. They all need to be stopped, and if that means giving you a cushy life some place where you can’t hurt anyone else, then that’s what I’ll do.”
+
+“Is that what this is? A show of what life could be? Perpetual night and drapery ranging from black to medium-grey? I suppose that’s for Elizabeth’s benefit, but you’ll find that red is her colour.”
+
+Jason leaned forward, narrowing his eyes, as if peering at something she couldn’t see. Then she realised he was reading her aura. They were both gold rankers, but she was new to the rank and poorly trained. She couldn’t sense his at all. He apparently found what had piqued his curiosity and leaned back in his chair again.
+
+“You would want whatever exile I give you to be together then,” he said. “Will she want that as well?”
+
+“She doesn’t want your exile. She wants the other world, free and clear.”
+
+“There are many worlds, Ms Finnegan. She doesn’t get to pick.”
+
+“We still have things to trade. Information.”
+
+“Not enough that I will let her loose on Pallimustus.”
+
+“That’s what the other world is called?”
+
+“Yes, and if I sent you there, you would be neither free nor clear. Elizabeth is powerful by the standards of Earth vampires, but not the ones over there. They’re very good at hunting vampires in that world. The ones who survive are cunning, powerful, and understand the world and how to move through it unseen. You would be alien, not even knowing the language. They would find her fast and put you down for being with her.”
+
+“Then why not give us what we want? If we’re just going to die fast, then what does it cost you?”
+
+“The damage you would do on the way. The people you would hurt before they found you.”
+
+“What makes you think we’d hurt anyone?”
+
+“How do you live with the things she’s done? What you’ve done, I understand. You don’t know the damage farming reality cores does. The blood isn’t on your hands. But you know what she’s done. You’ve worked with the vampires keeping people in farms. Have you seen their blood harvesting facilities, Ms Finnegan?”
+
+She turned her head, not meeting his gaze.
+
+“No,” she said softly.
+
+“I have worlds of my own. You won’t be free, but you’ll feel like it. It’s the best I can offer.”
+
+“And if we say no?”
+
+“Then the humans get you and Elizabeth dies. There will be a price to that, but we’re ready to move on the nuclear devices. I don’t know if we’ve found them all but we haven’t missed many. Obviously, we don’t want to take that risk, but we will if it comes to that.”
+
+“And if a device goes off in a city, killing millions?”
+
+“Then I will mourn my failure. I’ve done it before. I tried to kill Elizabeth, failed, then left. She then systemised using humans as food. The blame lies with her, not me, but the fact remains that I failed to stop her. Maybe some other vampire would take her place, I don’t know. There’s little purpose dwelling on it, although I do anyway, of course. But I’ve learned to live with my mistakes, even though I can no longer count the people I’ve failed.”
+
+He let out a sigh.
+
+“My point is that you have nothing to threaten me with and little to offer. What’s left of the reality core program is with the Network, or McKean. We know he betrayed you. I have a friend with the time essence. One of her powers is to look back on the past of an object. An object, for example, like a broken submarine.”
+
+“If that were as effective as you imply, you wouldn’t need us at all.”
+
+“You’re right. There is only so much we can get that way. We want what you know about McKean, the blood oaks and the reality core farming. About his contacts in the vampire community. Those are the things you have to offer. I can send you off like old investment bankers, retiring to the country, or I can kill Elizabeth this afternoon and hand you over to the humans.”
+
+“You say ‘humans’ like you don’t belong.”
+
+“I haven’t been a human for twenty years.”
+
+“But you felt like one, didn’t you? And now you don’t.”
+
+He frowned, looking down in thought.
+
+“No,” he admitted. “I don’t. I don’t belong on Earth anymore.”
+
+He looked up, trapping her gaze.
+
+“But neither do you. You betrayed this world. To the vampires. To the people who would strip it down out of greed and hunger for power, until it collapses under them.”
+
+“Have you met humans? That’s how we work.”
+
+“I have, and it is. But I have hope that we can all find our better natures, human or not.”
+
+He got to his feet.
+
+“I’m going to send in some food, and a recording of a briefing I gave about why your reality cores farming was so bad. Perhaps you’ll find your better nature and make the right decision.”
+
+He walked to the door and she called out to him.
+
+“Asano.”
+
+“Yes?”
+
+“Don’t be too hard on Remy. He was only—”
+
+“His daughter, I know. Do you know where she is?”
+
+“Her condition does better in high magic areas. She’s somewhere in the French countryside, close enough to your territory that the magic level is high. Far enough away to not have your clan stumble over them. I don’t know more than that.”
+
+Jason nodded and left.
+
+***
+
+Elizabeth’s room had luxurious furnishings, but there was no masking that it was a sealed-off, underground room. Exposed brick and a complete absence of windows marked it as a basement, with the one door leading to the stairs up. The subterranean box was not required to keep her secure, she was certain; Asano was making a point. When he appeared behind her, she didn’t sense his aura but caught his scent. She didn’t turn to face him.
+
+“She’s impressive, your princess,” she said. “She is yours, yes? I smelled you on each other earlier, although not now. This isn’t the real you, is it?”
+
+“I was so self-impressed when we last met. Playing games of cunning and betrayal with a creature who mastered them thousands of years before I was born. Of course you got the better of me. And, as always seems to happen, others paid the price for my arrogance. I can’t help but feel that, deprived of your leadership, the humans could have dealt with your kind. I’m sure that the vampires would still have found themselves some difficult and dangerous leaders, but nothing the people of Earth couldn’t have overcome.”
+
+Elizabeth finally turned. There were seats in the room but they stayed standing, staring at one another.
+
+“I’ve been preparing for this since that transformation zone. I don’t think you understand what it’s like to feel someone else taking over a place on a spiritual level. Imprinting upon it like some folkloric god of the land. I knew then that, one day, you would be a monster from which there was no escape. And here we are.”
+
+“Your preparations did not go well.”
+
+“No, they did not. My plans have fallen apart, or been usurped. Now, all I have to offer is my help in cleaning up the messes I made. Well, that and the one thing I am surprised you haven’t asked about.”
+
+“And what’s that?”
+
+“Gerling.”
+
+“He doesn’t matter.”
+
+“You should be thanking me. You let him die so quick and clean. I was the one who made him suffer all these years.”
+
+Jason stared at her for a moment, then walked over to a chair and dropped himself into it.
+
+“Perhaps that’s the difference between you and I,” he said. “For me, the desire to make others suffer represented my lowest point. All I want from Gerling is to see his soul released.”
+
+“Are you honestly going to sit there and tell me you have no desire for vengeance?”
+
+“Yes.”
+
+“How disappointing. Another wasted effort.”
+
+She also moved to a seat and gracefully placed herself down.
+
+“I’m not going to play games with you, Elizabeth. I know things haven’t gone your way, of late, but I tried games with you once and I lost. The difference between then and now is that games were all I had, because everyone was more powerful than me. Now, I have the power, so I’m going to use it. I am going to let you talk with Ms Finnegan. She is yours, yes?”
+
+Elizabeth gave him a flat smile.
+
+“After you talk, you make a decision. Give me everything you have, and you live. I send you off somewhere that isn’t where you want, but I can promise you that where you want won’t do you any good. It’s far better than you deserve, but so long as I can stop you from hurting anyone ever again, I can live with that. Or, you can go the other way and I kill you today. If I feel you’re being anything less than fully cooperative, that’s how it will go. Even if it turns out I’m wrong.”
+
+“I’m sure we can come to…”
+
+She trailed off as he was suddenly gone, if he’d never been there in the first place.

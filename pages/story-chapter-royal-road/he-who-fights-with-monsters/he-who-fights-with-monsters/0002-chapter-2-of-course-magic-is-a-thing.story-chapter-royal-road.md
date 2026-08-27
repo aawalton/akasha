@@ -1,0 +1,133 @@
+---
+id: 6cda05ba-1000-51a5-a89c-8e5b8daafeb7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Of Course Magic is a Thing"
+slug: 0002-chapter-2-of-course-magic-is-a-thing
+partOf: he-who-fights-with-monsters
+position: 2
+ownLength: 1638
+unit: words
+ownProgress: 1638
+publishedAt: 2019-07-29
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/386725/chapter-2-of-course-magic-is-a-thing"
+royalRoadId: "386725"
+markedReadAt: "2026-06-29T19:03:50.380Z"
+---
+
+Jason read the screen again.
+
+“Yes?”
+
+The body of the dead creature made a fizzing sound, like a rapid chemical reaction. The body started rapidly melting, first the flesh, then even the skeleton, dissolving into rainbow-coloured smoke. It seemed pretty until it hit Jason with a stench thick as cheese, like burned hair and rotting meat. He scrambled away to escape the rancid smell, dry heaving on all fours. Looking over as he hacked out coughs, he saw the creature’s body had vanished, as if never existing at all. He ignored the window that popped up, dropping onto his back in the soft grass.
+
+“I hate this,” he told the sky. “I’m naked, bleeding, and have no idea where I am. I can’t think of any better explanation for what’s happening than I’ve lost my bloody mind. Worst of all, I’m going to get sunburnt in places that don’t see a lot of outdoor activity.”
+
+He sat up with a groan, reading the screen waiting for him.
+
+“Oh, straight into the inventory. That place that lets me make things appear and disappear. I’ve definitely gone insane.”
+
+Now familiar with opening and closing the screens, the inventory window appeared with a simple thought. Two more of the forty grids were now occupied with little icons, while what appeared to be a currency counter had the number ten listed over one of the coin symbols.
+
+Jason took out the item called healing unguent. It was a small, round tin, reminding Jason of the nasty rubbing medicine his nanna would put on scrapes when he was a kid. At least this tin wasn’t rusty, like the one that had been under Nanna’s laundry sink longer than Jason had been alive. Nanna was his maternal grandmother, while his father’s mother was strictly Grandmother. She was a retired otorhinolaryngologist, and had no truck with rusty tins of ointment.
+
+He took a closer look at the tin in his hand.
+
+Item: [Healing Unguent (Iron)] (iron rank, common)
+
+Topical healing ointment. Inexpensive concoction ideal for superficial injuries (consumable, healing).
+
+Unlike the tablet, the magic screens had no problem identifying the tin. Jason pulled off the lid to discover it really did look and smell like the ointment under Nanna’s laundry sink. There was a sharp, medical smell that cut through even the lingering stench of the dead creature. As for the contents, it was an oily substance that looked like butterscotch sauce made from dubiously-sourced ingredients.
+
+“How did I get ointment from a hamster? How did it come in a tin?”
+
+With an exploratory finger he gently prodded the wound on his head.
+
+“Ow.”
+
+The oversized hamster teeth had dug into his scalp. The blood was still running down the front and side of his head.
+
+“Can’t hurt to try, I guess. At least there’s no hair to get in the way.”
+
+He took some of the ointment and smeared it carefully onto the wound, which immediately started to sting.
+
+The stinging faded away rapidly, the pain from the wound itself quickly following. Jason delicately poked the affected area, but while it was still wet with blood and ointment, he could find no trace of the injury.
+
+“Sure,” he said. “If you’re going to have medicine appear out of thin air, why not make it magically potent.”
+
+Jason placed the tin back in his inventory and pulled out the other icon. What appeared in his hand was a small, red-brown gem, in the shape of a teardrop.
+
+Item: [Monster Core (Lesser)] (iron rank, common)
+
+The magic core of a lesser monster (crafting material, magic core).
+
+“Oh, it’s for magic rituals. I’m apparently in a video game, now, so of course magic is a thing.”
+
+Jason sighed as he put the monster core back in his inventory.
+
+“Maybe I’ve had an aneurysm and this is just my dying brain trying to sort things out as it shuts down.”
+
+He thought about that for a moment. His sister would be the one to find his body. She’d have her little girl in tow, coming to see Uncle Jason.
+
+“Wow. I’m actually hoping this whole, horrible experience is real. That’s the way, Jason. Indulge the delusion.”
+
+Jason looked at the coin counter in his inventory.
+
+“How do I take that out?”
+
+He tried tapping on the number.
+
+“Um. One, I guess.”
+
+A coin appeared in Jason’s hand. It was a washed-out blue colour, with a metallic sheen but feeling more like glass to the touch.
+
+Item: [Lesser Spirit Coin] (iron rank, common)
+
+An impure distillation of raw magic. (currency, crafting material).
+
+Jason peered at the figure embossed on the coin. Looking closer, it was an image of Jason himself, giving a thumbs up.
+
+“What?”
+
+He turned the coin over to look at the other side, which was engraved with text.
+
+PRODUCT OF JASON
+
+G’DAY, MATE!
+
+He ran a hand over his face. Somehow the coin itself was more ridiculous than the fact that he pulled it out of thin air.
+
+“I’ve definitely gone insane.”
+
+***
+
+When the slippery creature latched its teeth onto his inner thigh, Jason yelled as much out of panic as pain. He still had no pants and that was much too close to the danger zone. He grabbed the long, slippery body, gripping down hard and yanking it off his leg. He screamed again as it took a chunk of thigh with it but kept his grip and started flailing the creature into the prickly hedge.
+
+Jason dropped to the ground, pulled out a jar of healing unguent and started rubbing it on the wound, ignored the blood coming out of it.
+
+“Why can an eel fly?”
+
+He looked down at the wound, high up the inside of his thigh. The eel had taken a decent gouge out of him, so the stinging lingered as the wound slowly closed. Even so, the ability to watch an injury vanish in front of his eyes was amazing. After nine encounters with different creatures, Jason had plenty of chances to see it, going through almost three full tins of the unguent. He used a full tin from one fight alone, against something called a malicious hedgehog.
+
+One pleasant discovery was that he didn’t have to stand in the stinking smoke that came off them after they were looted. So long as he touched the creature he could back away before accepting. Even as he was far away from the dissolving creature, the loot went straight into his inventory. The only problem was that any of the creature’s blood that got onto him would dissolve away as well, giving Jason a full dose of the stink.
+
+Every creature Jason looted gave out one lesser monster core and exactly 10 spirit coins. Most also produced additional, often nonsensical rewards. Tins of healing ointment were mercifully common, but mostly he received animal parts. That would have been understandable enough, given that he was killing creatures, but they arrived in his inventory already cut and packaged. The bundle of spines he received from the malicious hedgehog were bound with string, while the meat of the tyrannical pheasant came neatly wrapped in deli paper. The animal parts were all listed as crafting materials, some of which seemed to be for cooking. While he did enjoy trying new food, he wasn’t quite ready to put monster meat on his plate.
+
+While he waited for the wound to heal, he checked the map again. He had a decent-sized chunk of the hedge maze mapped out now, but it was quite large and he’d met a lot of dead ends. He plotted out his next pathway and set out again.
+
+***
+
+There was a flower growing in the middle of the pathway. Everywhere else Jason had been, there was only uniform hedges and neatly-cut grass. He watched it from a safe distance, but to all observation it was just a plant. Jason moved forward cautiously, eyes glued to the flower. He gave it as wide a berth as he could, but just when he thought he had passed without incident, the flower twitched, spraying spores all over him.
+
+He got dizzy and fell to the ground, then felt something on his leg. A vine with a bulbous head had grown out of the ground near the flower stem, and was now winding its way around his leg. He tried to kick away, but his head was swimming and he flailed ineffectually. The vine kept growing, crawling up his body. The bulbous head of the vine opened up, clamping onto his head like a lamprey.
+
+Jason clenched his teeth, fighting through the haze with anger. He reached down, grabbed the vine with both hands and started hauling on it. The ground under the flower bulged, soil spilling away as a grotesque shape emerged from the earth. It looked like a root vegetable, but was the size and shape of a baby. The vine was attached to it’s stomach like an umbilical cord, while the flower grew out of its head. Jason let go of the vine, crawling over to the main body and grabbing it in both hands. He lifted it up, then brought it down on his knee, smashing it again and again.
+
+“People. Are. Vegetarians,” he yelled through gritted teeth. Every word punctuating a strike to the knee. “Vegetables. Aren’t. People-tarians!”
+
+With a final shout he brought the creature down on his knee with all his strength. The plant monster broke apart like a potato dropped off a building and hitting concrete.
+
+Quest: [No Shirt, No Shoes, No Service]
+
+Taking the footwear out of his inventory he discovered it was a pair of sandals. Although the thick grass was pleasant underfoot, Jason still put them on. That left him standing naked except of a pair of sandals.
+
+“I think I might hate this place.”

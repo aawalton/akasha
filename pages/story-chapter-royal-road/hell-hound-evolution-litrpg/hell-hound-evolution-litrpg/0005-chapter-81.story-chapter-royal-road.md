@@ -1,0 +1,203 @@
+---
+id: f0d193c9-6e1d-5522-be44-880d36ed546e
+page-type-slug: story-chapter-royal-road
+title: "chapter 81"
+slug: 0005-chapter-81
+partOf: hell-hound-evolution-litrpg
+position: 5
+ownLength: 4085
+unit: words
+publishedAt: 2026-02-02
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3006784/chapter-81"
+royalRoadId: "3006784"
+---
+
+As we walked along the river, Grick separated from us only briefly to go off towards some trees. For a second, I thought he was going to use the bathroom, but he came back with a lon,g relatively straight stick. “This is good stick!” he said excitedly.
+
+Lily wagged her tail as she sniffed it.
+
+“No, not for puppy. Grick shows good thing!” He then fished for a dagger he had taken from the merchants out of the side pocket of his backpack and started carving the stick. I raised an eyebrow, wondering what he was up to. Making a spear maybe?
+
+Thinking about it, it would actually be a good idea to have him join us on some hunts. He wouldn’t have to do much; just get a few hits in on whatever we were trying to kill, and he would get some decent experience reward,s and we could easily power level him. Unfortunately, it seemed his level-ups didn’t grant him with as much reward as we did. Maybe goblins just had naturally bad scaling… or maybe he needed an evolution path that gave better scaling? I knew that the higher our evolution and level, the more benefit we would get from a level up. But how could we go about figuring out what evolutions Grick might be able to obtain, if any?
+
+Being able to talk to him normally would be great; then I could question him on goblin norms and find out if he knows of any other goblins who evolved.
+
+Grick continued to whistle contentedly as we walked and would occasionally slow down just to bend the stick and test how flexible it was. He would then shake his head, muttering, “No good, bad stick,” as he flexed it between his hands. It bowed a little, then creaked in protest. Grick scowled at it like it had personally offended him. “Stick too stiff. Snap easy.” Then he got back to slowly whittling away, making it thinner and thinner.
+
+Was he making a bow? That didn’t seem right. I have to admit I was downright fascinated to see what exactly the point of all of this would turn out to be. He continued to hum contentedly, and even Lily had grown interested in watching the goblin work. To be fair, there wasn’t much else for us to do to entertain ourselves. We had spent hours just walking alongside the river at this point, and besides some random prey that we had no interest in scurrying away from us, there really wasn’t much worth paying attention to. I was still diligent with an occasional pulse sense to watch out for any threats, but all in all, I couldn’t quite hold back a yawn from leaving my throat.
+
+I suppose it was kind of nice to be bored for a change. After weeks of fighting for our lives, we were just… walking.
+
+No alarms screaming in my head, no looming threats pressing in from every direction. Just the steady sound of the river, the soft crunch of dirt and leaves underpaw, and Grick’s off-key humming as he shaved another sliver of wood from his stick.
+
+Lily padded along beside me, occasionally glancing back at Grick’s handiwork before returning her attention to the trail ahead. Her ears flicked at every splash from the river or rustle in the brush, but there was no tension in her posture. No readiness to spring. More like curiosity.
+
+Grick stopped again, bent the stick, and this time gave a satisfied grunt. “Better,” he muttered. “Stick listen now. Very good stick.”
+
+I took a closer look at the finished product. One end remained thick while the other was shaved down to make it flexible. Then Grick fished out a cord of string from his bag and finally it hit me.
+
+A fishing pole! Grick made a fishing pole.
+
+“Grick finds good wormy. Trick stupid fishies… heheheh…” he smiled diabolically. “Grick too smart for dumb fishy.”
+
+Maybe we would have to be a little careful with helping him evolve. He could turn out to be a real monster.
+
+I grinned at the thought. Not like I could talk.
+
+Grick tied the string off with a few quick knots and tested the tension by giving it a sharp tug. The pole bowed smoothly, the thinner end flexing without complaint. He nodded to himself, clearly pleased, then jabbed the tip toward the river like he was threatening it.
+
+“Fishy no escape now,” he declared.
+
+Lily let out a curious yip and stepped closer, peering out over the water as if she expected to see something. She then looked back and forth between Grick and the water.
+
+Grick smiled and patted her head. “Grick needs to find a hook and dig up wormies. Grick shows puppy.”
+
+He then scampered ahead of us, pivoting from foot to foot more than walking, scanning the muddy riverbank for the worms. Occasionally, he’d stop, crouch down, and poke the mud with his dagger. When he didn’t find what he was looking for he continue to zigzag ahead of us before stopping and trying again.
+
+Until—
+
+Grick suddenly tossed his dagger to the side, drove both hands in, then yanked out fistfuls of soppy, dripping mud. “See puppy!” he said, running back to us. He thrust the disgusting wad right in my face. I flinched back, and my ears folded down as I saw the wriggling worms squirming through his fingers like living knots of pink and brown.
+
+I grimaced and backed up a pace.
+
+Lily, on the other hand, leaned in with wide-eyed fascination. She sniffed the muddy mass, then as her nose touched it, she immediately jerked her head back with a tiny snort, sneezing once. Her nose wrinkled, and she looked back at me, ears half-pinned.
+
+Grick let his bag slide off his shoulder and onto the ground. “Grick has good place for wormies.” I expected him to pull something out, like a small box maybe, but instead he opened one of the side flaps and stuffed the muddy mass directly in. I cringed as his fingers pushed and stuffed with globs of mud spilling out the side until he was satisfied and drew it closed once again.
+
+It… was a pretty nice bag. I suppose it was only a human quirk to worry about keeping things tidy. A goblin wouldn’t care about something like that. Certainly not this goblin.
+
+“Come, puppies, we keep walking!” Grick said, slipping his arms back through the straps of his back, then gesturing for us to follow. “Grick captures fishies when we stop.”
+
+So we continued our journey along the riverside. After a while, I noticed the nearby trees start to change. They had fewer leaves, and more and more of them looked like they were dying and losing health. Then eventually, even the grass and nearby undergrowth started to look more withered. When we came close to a hill, curiosity got the better of me, and I branched away from the river. Lily and Grick stopped and watched me go at first before trotting after me.
+
+I climbed the hill, and when I came to its cres,t my ears folded back. Directly around me, there were more browns than greens in the landscape, but I could see where the landscape curled up into more black mountain tops that reminded me of those back in the vale, except in the vale, other than the far mountains themselves, the area was lush with life. There was not a spot of green to be seen, with jabby branches, and when the wind blew, I could see grey dust dancing across the barren landscape.
+
+“This bad place,” Grick said. “Grick runs from this place, finds nice cave.” He nodded as if agreeing with himself.
+
+I looked at him. Is this where Grick was from? I sent him a thought through Pack Bond. “Tell us about your past.”
+
+Grick shook his head. “Bad things. Very bad things. Mean bad goblins, scary clinkies, dark skinned not humans.” He shuttered.
+
+Genzo mentioned something about a dark-skinned people. He called them the Umarii? I wondered what Grick could have meant by clinkies, though. I shifted my gaze away from the dying landscape and up the river. Far in the distance, I could see a dilapidated structure with a few sharp spires reaching up. A church? That must be the landmark Genzo had told us about. In that case, we should find a way across the river.
+
+I squinted against the sunlight as it was beginning its descent on the other side of the church, the white orb blotting the otherwise red sky and wispy clouds. There was a bridge near the church. That would probably be the best place to cross.
+
+Thankfully, the other side of the river looked much safer. All the trees over there were like the normal, lively forestland we had been traveling alongside until now.
+
+I nodded to my friends and made my way back down the hill. We continued along the riverside, but our leisurely walk had shifted with shared tension between the three of us. I used a Pulse Sense just to be on the safe side but only caught the heartbeats of some small rodents. It seemed we were safe for now, and soon we were approaching the church.
+
+It looked even worse than it had from a distance. Its walls were made of dark stone, dusty mold clung to every surface, and rubble from broken sections lay around it. Apart from a few stained glass windows higher up on the spires, most were broken with only a few jagged shards remaining within the frame, and the rest scattered about on the ground below.
+
+There were a few trees in the yard around the church and a few browned bushes, but other than the haunting church, this area wasn’t quite touched with the blight of death, as the area further out—the supposed Umarii lands.
+
+I turned my attention to the bridge just downstream. It didn’t seem to be in very good condition either, but it seemed passable. There were some missing planks, and the railings had collapsed in some spots, but the underlying structure with stone foundations and thick wooden crossbeams seemed sound enough.
+
+I took my first step towards it when I heard Grick say, “Wait. Good water here. We rest. Grick catches fishy.” He scampered over to the muddy riverbank and turned his attention to a patch of plants with thorny brush at their base and reeds rising out. He kneeled down with his dagger and carefully cut free one of the thorn,s then began working the string of his fishing pole around it.
+
+I considered his proposal. He had seemed to avoid eating raw meat, so I supposed that was bad for him, but I saw him eat a fish whole before, so I guess that would be the best food for him. So far, he had been sustaining himself on berries we found along the way, but I didn’t want to deny him a proper meal.
+
+I used another Pulse Sense, still not sensing anything that might be dangerous for us, and figured it would be okay to stop for a little while and let him fish. I gave him a nod and led him to the backside of the church. I picked out a spot near one of the trees, which had some bushes as well as the church, blocking us from view for anything that might wander by.
+
+Grick slipped off his bag and snagged a stone from the broken church. He brought it to the riverbank to use as a seat. Once situated, he hooked a worm, then cast his line fluidly into the water, and then waited. Lily seated herself at his side, watching what he was doing curiously, while I picked a spot along the corner of the church to hunker down and watch upstream for anything that might come our way, letting Camouflage keep me concealed in the shadows.
+
+Genzo had said to take a wide path through the forest before coming back to the river. I assumed it would be at least another couple of days of travel before we reached our destination. I just hoped the Verdant Empire would truly turn out to be a safe haven for us. We were three traveling monsters, so any humanoid people we came across would likely see us as such. I then wondered if they would all be frog people like Genzo. I kind of assumed they would be, but he didn’t really specify. He did tell me to be a bit wary of this High Reagent Rin Zaoh person but also assured me she would be a good ally to us. I had to trust that the currently invisible ribbon he had tied on my paw would do what he said it would and clear up any discomfort that we were monsters.
+
+Without much to look at, and with the warm sun baking my fur, I found myself falling into a sense of comfort as I kept guard. The rushing river behind me threatened to lull me to sleep, and when I felt a yawn force its way from my muzzle, I shook my head and stood, giving a big stretch to wake myself back up. I figured once we were done here, we could travel another hour or two until we found a good place to stop for the night and then take Lily on a hunt. Actually, I thought it’d be a good idea to have Grick hunt with us this time as well. If he was going to be traveling with us, I’d like for him to get stronger, for his own safety.
+
+I used another pulse sense, just keeping a lay of our surroundings, then instantly jerked my attention upriver. There was something coming.
+
+I focused on it. The heartbeat was centered high above the ground, and the pulses stretched down to two legs…
+
+A human! Or at least humanoid. And it was close. It was walking near the trees, so I must have missed it, so I quickly went over to Grick and Lily to growl a warning. Grick was yanking back the fishing pole just as I tried to warn them. “Huh? Puppy want fishy?” he asked, walking backwards with the pole to pull the fish out.
+
+“Enemy!” I thought at them, and they both became alert. Grick did not abandon his fishing pole, however, holding it over his shoulder and reeling in the line with the other hand, the fish now flopping along the ground behind him.
+
+I led them around the church to the opposite side of our uninvited guest, then searched for somewhere better to hide or make an escape. There wasn’t anything obvious other than dashing towards the Umarii lands, which is the opposite of what I wanted to do.
+
+“Stay quiet,” I told them, and carefully prowled around the church to get a better look at the humanoid. They were not very large and wore a loose green cloak with a hood over their head, hands stuffed in their pockets. The sun was still too high, and the shade from the church wouldn’t be quite enough to make Veil of Shadows effective, but as long as I stayed still, Camouflage would make it at least a little harder for them to notice me.
+
+I was just trying to get a look at their face or eyes, but the hood left it in shadow. I wanted to know if it was one of these Umarii that Genzo had warned us about. If it were just a normal human traveling alone, I supposed I wouldn’t have to be too worried. I hadn’t seen any towns in quite a ways, so unless there was one a little further up the river, I didn’t have to worry about them rushing back to gather a hunting party of some kind before we could take our leave.
+
+As they came closer, I felt less and less threatened, as they didn’t carry any obvious weapons. They certainly didn’t give the air of a hunter or a fighter.
+
+Just keep going… I thought, still feeling that as little interaction with unknown species as possible would be best.
+
+As they got a little closer, I was able to see their chin under their hood and saw tanned skin. So, at least they were probably not one of these Umarii. Unfortunately, they didn’t just continue past the church as I had hoped, and instead started heading right in our direction.
+
+Great, they’re planning to take a break by the church… I really don’t feel like waiting around in hiding for them to leave, so I guess we’ll just have to move on as long as they don’t try to attack us. We’ll probably end up startling them either way because there’s no way to the bridge without being seen.
+
+I focused my thoughts towards Lily and Grick, planning to tell them to just head for the bridge when something strange about the newcomer caught my eye. As a gust of wind blew their cloak, I saw something hanging off the back of her waist. For a second, I thought it was some kind of accessory to their belt… It was orange and fluffy and…
+
+I cocked an eyebrow.
+
+A tail!?
+
+I prowled a little further around the corner of the church, slowly to keep my eyes on them. They were heading for the front steps. Yes, that looked like a big bushy fox tail coming from her back. And now that she was closer, I could clearly see that it was a girl based on the shape of her body.
+
+Still… she’s probably not a human, right? Well, she’s more human than monster, so I should still probably…
+
+She lifted a hand from her pocket and let out a long yawn as she skipped her last few paces to the steps, then turned and plopped down on the steps. I saw sharp nails at the end of her fingers, and she had fangs! Then, as she pulled her hood down, I saw a set of fox ears poking up from auburn hair to complete the picture.
+
+She leaned back on her hands, tensing her body in a long stretch as she let out another yawn. Her eyes were focused on the sun. “Times almost up, huh?” she muttered under her breath.
+
+She slipped her backpack off her shoulders and rummaged through it, pulling out a fruit. At first, I thought it was an apple; it was round like an apple, but when her sharp teeth bit in, instead of a crunch, there was more of a squish sound, and red juice rolled past her clawed fingers. The insides of the fruit were likewise a fleshy red.
+
+Lily and Grick carefully prowled around the side of the church and came to my side to see what I was doing. “Stay quiet,” I thought at them.
+
+Instead of just minding our own business and moving on, I was now quite interested in learning more about this person. Genzo was a frog man, so it’s not like it's that much of a shock that a fox person could exist. But Genzo also claimed to have started life as a tadpole. Did that mean this girl also started as something that looked a little more like a monster? And more importantly… Could there be a chance that she was also from Earth?
+
+She finished eating her fruit with a few more big bites, tossed the pit into some brush beside the church steps, licked her lips clean, and then started licking the juice from her fingers. She then gazed in front of herself in a way I recognized—she was looking at a system screen!
+
+“It’s been forever since the last time it leveled up,” she muttered begrudgingly. “Oh well… Maybe tomorrow.”
+
+Then she untied the drawstring of her cloak from around her neck and kicked off her boots. She stuffed the cloak into her bag and then… did something that caught me completely off guard.
+
+She grabbed the hem of her tunic and, in one quick motion, lifted it over her head, exposing herself completely. I winced and backed off a pace, not wanting to peep at her. But what the hell was she doing? Who just gets naked out in the open like this? Maybe she was planning to bathe in the river. Either way, we definitely shouldn’t…
+
+I heard a low chuckle beside me. Instead of backing off and giving a lady her privacy like a decent goblin, Grick peeked around the corner with purpose. I saw a hint of red creeping onto his cheeks as he quietly muttered to himself, “Heheh… nice human things…”
+
+I clench my teeth. That little pervert!
+
+Without thinking, I whacked the back of my paw across his head, knocking him back. The goblin let out a sharp, surprised yelp and cried, “Ah! Don’t eat Grick! Don’t eat!”
+
+“Quiet!” I growled at him, but I already knew it was too late.
+
+“Gyah!?” the fox-girl yelped from the other side of the wall, then in a demanding tone, she yelled.  “Who’s there!? You just made a biiiig mishtaaarrrrrrr—”
+
+Her words faded into a gravelly growl, the last word stretching in a way no human throat should be able to manage. I heard fabric tear, not sharply, but with a heavy, rrrip that made my ears flatten.
+
+Grick whimpered from the ground in front of me, but I was no longer focused on him. I was looking back and saw a shadow growing along the ground. I blinked, not sure what to make of it. Then I heard a quick thump-thump-thump that quaked the ground under my paws.
+
+Suddenly, a monster bounded from beyond the corner of the wall—it was huge! At least three times my size. It placed itself between us and the riverbank. Her fur was a deep, violent orange, darker along her spine and limbs, bristling like it was charged with static. Each breath dragged in with a low rumble as golden eyes locked on instantly.
+
+Her lips peeled back, exposing rows of long fangs, saliva stretching in thin strands between them.
+
+I backed up, staring in shock, quickly calculating if we should fight or run, and my brain barely managed to process if this really was the slender girl from just a moment ago.
+
+Lily gave an aggressive yip from beside me, lowering herself and baring her fangs. Grick threw himself to the ground with his hands over his head. “Grick not taste good! Grick not tasty!” he cried.
+
+I shook off my surprise, but before I could make a move, something about the fox’s expression stopped me.
+
+She recoiled slightly, the growl fading from her throat as she raised an eyebrow at us.
+
+“Lily down!” I thought at my sister, and she glanced to me uncertainly, her hackles twitching but not quite dropping.
+
+I gave an awkward wolfy grin and waved a paw in a very humanlike way that was somewhere between “we mean you no harm” and “please don't hurt us.” Which one it tilted more towards, I wasn't sure.
+
+Whichever way the giant fox interpreted it, it did the trick of slowing her down. Though her hackles were still raised, a much more curious expression overtook her golden eyes. We were an odd trio, after all, and I'm sure I wasn't behaving like any other monster she had seen before.
+
+Thinking quickly, I began dragging my paw in the ground. She watched curiously until I spelled out “Hi!”
+
+I finished by digging out the dot on the exclamation mark, just to make it seem a little more human.
+
+The message had its desired effect as her hackles lowered completely. She looked up and down between me and the word I had written.
+
+I sat down on my haunches and gave an innocent puppy smile, tilting my head as if to say, “It's nice to meet you!”
+
+She shifted slightly, and I flinched, but I realized she was only kicking something off of her back paw. It was a tattered pair of pants. As I glanced from the discarded clothing to the face of the golden-eyed monster, I was sure that this really was the fox girl from a moment ago.
+
+Then, a system message popped up in front of my eyes.
+
+[New Evolution Hint Acquired!]
+
+Read Next Chapter For Free Now!

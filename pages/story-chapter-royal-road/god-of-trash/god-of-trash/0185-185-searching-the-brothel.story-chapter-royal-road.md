@@ -1,0 +1,115 @@
+---
+id: a0ff8790-e6b9-55bd-80f4-a633c9c60447
+page-type-slug: story-chapter-royal-road
+title: "185. Searching the Brothel"
+slug: 0185-185-searching-the-brothel
+partOf: god-of-trash
+position: 185
+ownLength: 2123
+unit: words
+publishedAt: 2025-09-13
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2598158/185-searching-the-brothel"
+royalRoadId: "2598158"
+---
+
+They proceeded deeper into the brothel. Further—further, Rhys corrected himself. There was a lot of ‘deeper’ going on around them, and it made it hard to keep the word out of his mind. Still no attendant, which he was starting to take as the way this place operated. He wasn’t sure how you booked services or paid for them, but everyone else seemed to have it all figured out, and it wasn’t as though he actually was a client, so it all worked out.
+
+Based on his previous experiences, the criminal base would be underground, but this inn was on the edge of a lake. There couldn’t be a basement, unless they liked getting flooded all the time, and also having a constant water rat infestation. But the upper floors seemed to be so… busy. There couldn’t be a huge base in here with all the usage the rooms were undergoing.
+
+Then again, they were living in the land of mages. He looked up thoughtfully. He wouldn’t be too surprised if there was some kind of hidden portal or formation to link this place and somewhere else, where they could actually fit a large base.
+
+He grimaced at himself. I need to get out of here. All these words are polluting my brain. For a brief moment, he wondered if he could turn the words he was hearing into trash, but then he remembered that he already had his mental attack. This was merely more trauma to throw on the heap, and then dump into someone else’s mind.
+
+Still, this was a way to improve his mental attack, wasn’t it? Right now, he had one kind of mental attack, which was basically just trauma-dumping his years in the mine, but if he met someone else who’d been pinned down by the Empire, it wouldn’t do that much to them, would it? It depended on the person, really. Some people it would trigger worse, some people would be unaffected. The point was, every person had their own things that bothered them or conversely, didn’t. Someone who felt nothing at seeing his suffering in the mines might be deeply troubled by him hammering them with a load of—excuse me—a dump of—no wait that’s not better—a lot of moaning, squealing, and body fluids. As a formerly-porn-addicted internet dweller, this was nothing! It was in 3D surround sound, but—but he could prevail! He could overcome!
+
+So, rather than blocking it out, he started soaking it in. It was for his technique, for his skill. He had to watch that horrific yet interesting thing those three people were doing over there. For his skill! For the mental attack! It was selfless. He didn’t want to, but he had to. Honestly, everyone should appreciate his dedication to his skill and path, and seek to emulate his devotion. The things he did for skills, like—
+
+Rhys pulled a face. Okay, that’s just actually gross.
+
+“—s. Rhys!”
+
+He jolted. “Yeah? Huh? I wasn’t… never mind. What is it?”
+
+Lira gave him a knowing-yet-equally-sarcastic look, then thumbed up. “Mouse scurried ahead. She says there’s something interesting upstairs.”
+
+“More interesting than that?”
+
+Sable followed his gaze. She pinched her chin, a thoughtful expression on her face that Rhys had thought completely impossible in a place like this. Slowly, she tilted her head.
+
+Lira turned. One brow arced. “More interesting than the all-female foursome? She probably thinks so.”
+
+“Right. Yes. Let’s go hurry up to the criminal base!” Rhys said firmly, nodding.
+
+Sable gazed at the party in the corner a little longer, then snorted and followed Rhys and Lira upstairs.
+
+The brothel was a gorgeous place, when it wasn’t being thoroughly debased the way it was right now. Lacquered wood bannisters climbed the levels, while each layer up led to a central internal balcony. From the first floor, Rhys could see the ceiling, the entire building hollow in the middle to allow patrons to get a good look at the candelabra high overhead. Gauzy curtains drifted in the breeze that flowed in from opened windows on the outside, clearly meant to obscure the ongoing acts, but utterly failing in their duty. A fine rug stretched underfoot, though desecrated by bodily fluids. Rhys tilted his head. If he wasn’t wrong, this place hadn’t been this kind of night-clubby, swinger’s-party kind of place before. The building itself had a refined atmosphere, and the curtains and folding wooden screens—all folded back and pushed aside, now—suggested that it was meant to hide as much as it revealed to passing patrons, not give everyone a good look at everything there was to see.
+
+He pursed his lips, then nodded to himself. On second thought, it made a lot of sense. He’d been thinking that this was the kind of establishment that had been set up by criminals, for criminals, but that was by the morality of his world. In this world, brothels were relatively socially acceptable. Looked down on, but not seen as the ultimate evil, or something worth jailing people over. Most criminal establishments in this world probably ran brothels the same way criminals in his world ran laundromats: to launder money. This criminal establishment was just… a little bit stupid.
+
+Probably deliberately allowed to exist because they’re stupid, under the Empress, Rhys thought to himself. He considered a moment. And maybe deliberately acting stupid so the Empress lets them exist.
+
+In any case, there was one small room, up toward the top of the establishment, that was completely enclosed. Rhys eyed it hesitantly, but his fears melted away when Mouse poked her head out of the room and gestured them in. He sighed in relief. Good. It’s not some kind of aerial sex dungeon.
+
+No one stopped them, all the way to the top. The hairs on the back of Rhys’s neck stood on end. By now, it was weird that no one had stepped in. He thought about it with all his might, but there was no indication that they’d be striking here… sure, except for all those ex-criminals I asked about this location. They wouldn’t even all have to collaborate; there would just have to be one bad apple with their ear to the ground, listening to figure out what the consensus was, then sell out to their ex-bosses. They didn’t even need to be particularly devoted to the old cause. They could just be in it for the money.
+
+Yeah, we should probably proceed under the assumption that the criminals know we’re coming. He looked around at the other girls as they followed Mouse into the room. “Everyone, be careful. They probably know we’re—”
+
+As he stepped into the room, a loud hiss sounded out, and pink gas clouded the air. Rhys immediately pushed the girls back and stepped deeper into the room, sweeping his hand through the air. The pink gas collected into a marble on his palm, then vanished into his core.
+
+A feminine voice chuckled. “I see the rumors were true. You are a poison master of some skill.”
+
+“Come out!” Rhys called, looking around the room. It was a small room, not much larger than the average hotel room, and completely walled with dark wood. Aside from a small metal ring on the floor, with the requisite mana batteries and spell detailing, there wasn’t much in the room at all. And there definitely wasn’t any sort of woman, aside from his friends.
+
+The female voice laughed again. “Do you think me so foolish? If you can’t find me, then why would I reveal myself?”
+
+“I dunno, it works sometimes,” Rhys said. Blame him for watching the kind of trashy shows where the villain would come out when someone shouted ‘come out.’ He hadn’t expected it to work, but these criminals had seemed a little dimwitted, so he figured he’d give it a try.
+
+The pink gas continued to flow. Rhys searched around, then finally found the source: a small orb near the door. He picked it up and tossed it into his mouth, sending it directly to his core.
+
+“You’ve fallen for my trap!” the female voice declared. She laughed uproariously. “You’re a poison master, but that was no poison! It was an aphrodisiac. Can you overcome such a potent formula as a mere poison master, when you torture your body every day with foul fluids, but never think to test it against more… beneficial compounds? Now! Squirm! Writhe in agony! Turn your hands against your own friends!”
+
+Sable gave him a look. Her cape shifted dangerously. Lira licked her lips. Mouse outright vanished.
+
+Rhys sighed. “It’s okay, everyone. I’m fine.”
+
+“Yeah?” Lira asked.
+
+“Totally fine.” The mysterious feminine voice had misjudged him. He wasn’t a poison master, but a trash master. He didn’t know if aphrodisiacs would work on poison masters or not—he honestly couldn’t say—but when it came to him? Aphrodisiacs were definitely trash. The number of times he’d seen Rhino Power 5000 Ultimate Hardness!!! at the convenience store, or received an email or popup ad about how he could make himself so much larger and firmer if only he clicked that definitely legitimate link… there was nothing anyone could do to convince him they weren’t trash. Sure, he’d maybe felt a tiny tingle when the gas had first leapt out at him, but the second he’d realized what was going on, he’d pulled all the toxins out of his bloodstream and regained control of himself. The feminine voice was only fooling herself if she thought this was going to be a problem for him.
+
+“Is anyone else bothered by it? I can remove it from your bloodstream,” Rhys offered, holding out his hand.
+
+“You pulled it in too fast. I didn’t even take a breath,” Lira said, maybe a little regretfully.
+
+Mouse shook her head. Sable considered for a moment, then indicated ‘no’ as well.
+
+He turned back around. “Yeah, I don’t think anyone’s bothered by it. So… if you’ve got a next step in your plan, you probably want to move on to whatever that is.”
+
+The female voice fell silent.
+
+As their mysterious new friend thought about her life choices, Rhys turned to Mouse. Head outside. Scout for danger, he mouthed. They were all boxed in up here, and he didn’t like it. If the voice had been stalling for time, or trying to weaken them before an attack group swept in, then they’d be making their move in the brothel right now. He wanted to be aware of it before it went bad.
+
+Mouse nodded and backed out of the room. Rhys turned to the other two. “Do either of you know magical, er, assemblages well? Is it possible that she’s projecting her voice from somewhere else, or even from the other side of this portal thingy?”
+
+“I kill things,” Sable said quietly.
+
+Lira and Rhys both stared at her, and then Lira thumbed over her shoulder. “Yeah. What she said.”
+
+Rhys sighed. Yeah, I don’t know what I was expecting. Of everyone here, his best bet was honestly Mouse. He had avoided formal learning like the plague. Lira was some kind of cast-out water sprite who’d been raised in the wild, and only recently joined human society. Sable was the daughter of a Remnant Weapon who’d been generally looked down on, mistreated, and given a role as an enforcer-slash-executioner whether she liked it or not. When would any of them have learned how to work magical contraptions?
+
+Mouse, on the other hand, was a true-blooded human woman who liked hiding, but otherwise had been raised in polite society and had attended all her schooling. Not only that, but she hung out in libraries and spent all her time reading. She’d know how this thing worked, if any of them did… but she was also their most powerful stealth unit, and he’d just sent her out of the room to scout out the area.
+
+Rhys sighed. “We need to stop overloading Mouse so much. I need more people who are good at things.”
+
+“What? How rude!” Lira proclaimed, scandalized.
+
+Sable’s cape shifted again. Her gaze darkened.
+
+“I mean, I mean—good at things that aren’t fighting!” Rhys quickly amended, raising his hands. He really hadn’t meant that these two weren’t good at things, it had just slipped out. Good at ‘things’ and ‘good at things’ were two different phrases, and he’d said one, but meant the other.
+
+“You’ll never discover my trick!” the woman proclaimed boldly.
+
+“Well, yeah. I mean, we just told you none of us know anything about magical engineering. Duh,” Rhys said, just trying to be as obnoxious as possible.
+
+Mouse reappeared at the door. “There’s no one—er, w-why’s everyone l-looking at me?”
+
+Rhys grinned. “Just in time. Mouse, come here.”

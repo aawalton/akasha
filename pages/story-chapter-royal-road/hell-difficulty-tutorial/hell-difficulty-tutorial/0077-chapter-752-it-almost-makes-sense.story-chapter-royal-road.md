@@ -1,0 +1,135 @@
+---
+id: 73014365-1647-502f-b3e6-de0e194c0c9d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 752 - It almost makes sense"
+slug: 0077-chapter-752-it-almost-makes-sense
+partOf: hell-difficulty-tutorial
+position: 77
+ownLength: 2532
+unit: words
+publishedAt: 2026-02-16
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3061139/chapter-752-it-almost-makes-sense"
+royalRoadId: "3061139"
+---
+
+The first person to challenge Lily is another thylarin with six arms, wielding a dagger in each hand. There’s no waiting around either, the fight starts immediately with a sudden burst of speed.
+
+The arena remains the same, a huge floating island with a few dozen other islands of various sizes floating around it. Some of them are connected to the main one with long vines, others float along freely. Some hold forests, others are covered in mountains, and still more are flat planes blanketed in lush grass. It all takes place high up in the blue sky, among the clouds, through which the orange light of the sun shines.
+
+On that main floating island, Lily and the thylarin clash at high speed. He is faster than her, and four of his daggers do slice into her flesh, only to break against her bones. The remaining two prove to be much more durable and sharp. They sever Lily's arms and one of her legs, and he twists around to go for her head.
+
+Before he has an opportunity, the stumps of her limbs elongate and stretch, reaching out to the dissembodied limbs and reconnecting them, giving Lily a set of creepily long limbs. Bones pierce her skin from the inside and form an armor on her neck and forehead, carved with deep grooves from the weapons, but enduring.
+
+Her long limbs then move like a snake, the bones within breaking and reforming as she grabs hold of the man.
+
+In a panic, he moves to cut them off, but they squeeze and break the bones in one of his legs before he can cut it off and stagger back. Using the opportunity, Lily restores her limbs, returning her body to its original shape.
+
+Lowering herself, she heals much faster than her opponent and charges him. Though still fast, with his still crippled leg, he just can’t match her speed anymore, and the palm of her hand slams against his chest as she takes his slashes before jumping back and fixing her clothes. Her wounds, even those from their last clash, regenerate at a speed fast enough to be seen with the naked eye, while her opponent is forced to stagger around.
+
+The same as before, but much faster, likely because of his weaker body, her opponent's skin melts, his muscles disintegrate, and he breaks into a coughing fit before vomiting out pieces of his insides and his bones. His body breaks apart as before, too.
+
+After that, ten more people challenge her.
+
+A number of them are from Earth, though the heavy hitters still haven’t appeared yet, as if they were giving her an opportunity to enjoy the event. Lily wins each of these fights, some of them without even using mana, simply relying on her body's power and natural regeneration.
+
+The longer it goes on, the more people realize she is a healer first, as she even restores a cut-off head or does not die as a projectile cuts her body in half. Like an undying Terminator, or some eldritch monster, her body twists and reforms as she stands up each time. When needed, she grows more arms, she elongates her torso. She starts changing her size mid-fight to confuse martial arts specialists.
+
+She even faces people with powerful bodies head on, forming her "Skele-suit," as I still call it. Bones protrude from her skin to form armor from, well, her bones, a material likely more durable than many arcane materials one could use for armor.
+
+Then, there is her new way she uses [Disintegration] combined with her healing. It pierces through armor, it has almost no visual signs, and it eats away at even the most durable people in the same terrifying way.
+
+Some of her opponents try to snipe her and keep their distance, but Lily’s fast and reaches them in mere moments. Some try to bombard her, but cause next to zero damage to her, and she proceeds to throw boulders at them at supersonic speeds. There are a few that try to tire her out, but she attacks aggressively, moves faster, and still doesn’t even bother to use any of the fake organs she’s prepared for sacrifice, nor has her hair shortened.
+
+She faces ten more, including Noelle, Derick, and Monte.
+
+And she wins, though each of these fights takes an effort from her. But Lily keeps pushing, not showing any sign of wanting to stop as she stands there with her wounds closing just as quickly as before, even without her actively healing.
+
+"Do you think she can push it to the end and murder everyone here? I don't think she’s going down until someone like Tacita goes in," Maya mutters.
+
+"There goes the fourth event," Dennis snickers by her side as his brother does the same.
+
+"Does it matter?" Tess says with a smile as she rocks back and forth in the rocking chair she brought outside. "Just let her enjoy the event. We’ve all had our dose of fun."
+
+Everyone here seems to agree, and though our group gets some glances that seem to be begging for one of us to go in and put an end to this, no one does, though.
+
+Earth currently has 200-300 people in Hell difficulty, and out of them, around 70-90 are also in Beyond. At least, that’s our current estimate.
+
+After three events, we’ve also come to estimate that the other side might have more people in Hell difficulty, but a similar amount on lower floors on average, and likely far fewer people in Beyond. The current estimate is that they have just 50 of them.
+
+More people enter to challenge Lily, only to be defeated as well. No one can deal with her improved [Disintegration]. Just a single clean hit from her proves enough to end the fight.
+
+Though there is one speedy guy who moves around her mid-range, throwing projectiles and using gravitational energy to slow her down while chipping away at her health. That guy dies anyway. At one point, he just starts slowing down and coughing up blood. It makes me wonder if Lily may have released some sort of toxin into the air, or a nearly invisible cloud of [Disintegration] particles.
+
+But it is not like the others are weak, so though she still holds strong, her resources are beginning to run out. Her mana doesn’t replenish sufficiently to keep up, and she starts running out of her sacrificial organs and begins sacrificing her hair, which she always seemed to value and which seems to make a good [Sacrifice] for that reason. Later, she moves to her fingers just to gain new bursts of mana or strengthen her body.
+
+When it comes to her final duel, she stands there with one of her arms entirely missing, hair cropped short, and a missing eye, as her chest heaves with exhaustion. Fifty-three. That’s how many Hell difficulty combatants fell to her, among them quite powerful Beyond-level fighters as well.
+
+Her last opponent is Jean, who joins in to challenge her. Not to exploit her weakness, but to give her a chance to go all out against someone proper, rather than some hyena waiting to take her down. Even I can see that this makes her the slightest bit happier as she smiles and stands up taller.
+
+Jean doesn’t even get into his usual battle-maniac act, he smiles at her in a similar fashion and takes a step forward, stomping on the floating island they are on. In an explosion of the raw force of his strength, the island shakes, and cracks appear throughout its entirety. And while the two of them face each other, the island cracks and splits into two pieces, with each of them on one piece. Both of these pieces continue to float in the air, bouncing and crashing against each other.
+
+He charges in first and, in a powerful leap, shoots at Lily, which causes his piece of the island to be pushed back under the immense force of his momentum.
+
+Lily smiles even more, and she takes a deep breath. I watch her face, big on the screen, her bangs falling onto her single eye. Her pupil widens, and she takes another breath just as Jean is almost there. Then, one of the small, fake hearts she made for sacrifice awakens and beats just once before breaking.
+
+The frequency, the rhythm, everything other than the power of the output is entirely identical to my Sealed Ignition Heart.
+
+Yellow flames of primordial thermal energy seep through her body, dancing across her hand along with the gray of her [Disintegration].
+
+One of her ankles breaks in a sudden burst of speed as she avoids Jean’s punch, and the piece of the island under her gets hit with that force, creating a huge crater and sending it spinning away through the sky. Jean quickly changes direction, jumping on the smaller pieces floating around and following Lily.
+
+Another one of her ankles breaks as she charges against him this time.
+
+For a moment, it almost looks like her fist will meet with his body, but Jean uses his [Pull] on her, just slightly enough to throw her off balance, and then makes use of his longer reach. His fist meets her head, and even with all the durability inherent in her body, it explodes, finally ending her fourth event.
+
+Lily appears outside near us, confused for a moment but quickly regains composure. She looks around, her eyebrow moving as if asking me what I think about the trick she pulled with her fake heart. And I know what she did. She likely knows my Ignition Heart better than me, better than that catboy. And with how much talent she has dealing with this kind of stuff, it almost makes sense.
+
+Almost.
+
+As I stare at her, I cannot stop thinking about how ridiculous that all was, and how little sense it actually makes.
+
+After all, for that shortest heartbeat, she just created that weak connection to a primordial energy that she knows the best from experimentation on me, by mimicking my heart and the way it was formed.
+
+Just as the Ruler of Kindness once did when she and Pride bestowed demon hearts upon the first hundred Progenitor demons.
+
+The next to challenge Jean is Sophie, causing the smile he had on his face to disappear the moment he spots the mind mage. The mood around him shifts immediately, and the pressure intensifies.
+
+Neither he nor Sophie speak.
+
+Sophie's swarm of mana constructs surrounds her, all of them shooting throughout the area, at which point they start preparing barriers and fields. Meanwhile, Blackie leaves her shadow, reaches Jean, and enters his. Jean lets it all happen, and as his own shadow tries to restrict him, he moves anyway. His muscles bulge, twist, and pull as he walks, tearing at his shadow, which stays behind with Blackie, who instead throws itself into a pile of rocks and grows into a golem twice Jean's height.
+
+The bearded man doesn’t even turn around, he just swings his arm, his strength in combination with some active skill, tearing the golem apart and throwing the pieces away.
+
+Projectiles reach him, but each one shifts slightly as he tugs on them with his [Pull], and they all miss while crashing into the space around him.
+
+He then reaches into the air, dragging his arm in a pulling motion towards himself.
+
+The piece of floating island Sophie is on first begins to shake as it’s drawn toward him. That enormous mass of floating stone. At first, it moves slowly, but its speed continues to increase, with his muscles shining in sweat as if he weren’t just pulling with a skill, but with his body as well.
+
+I’m sure Sophie launches a barrage of mental attacks against him, but I also know Jean, for some reason, has a very deep hatred of mind mages. Out of all Earth's tutorial participants, his mental defenses are among the best. Even so, as the floating island crashes against him in an explosion of debris and rock, his movements stop, and his expression turns blank.
+
+His fingers straighten and pull together, and his hand moves in a stabbing motion towards his own head. His fingers pierce his eye and head towards his brain, only for his hand to stop at the last moment.
+
+Jean regains his senses and pulls that hand out slowly, together with the remaining pieces of his eye. His blood is dripping down his face and from his fingers to roll down his forearm, yet he refuses to break eye contact with Sophie.
+
+Likely because, by reaching a closer distance, he breaks through her natural barrier and defenses and pulls her body towards him, causing her to shoot like a rocket at him. His bloodied hand grabs her around her neck, and just as he squeezes, she disappears, only to be replaced by Blackie, with whom she switched places.
+
+That black shadow twists and coils around Jean, attempting to hold him back. Stones from the area continue to be grabbed by Sophie's bond as he tries to grow back into a golem, yet the man doesn’t even seem to care about him. The damage caused by Blackie seems to be doing even less than before, and each step Jean takes just breaks the bond apart.
+
+Sophie, meanwhile, stands about a mile away on another floating island as it moves through the air. Around her, rocks form into dense javelins, further sharpened by her mana and littered with parts of her swarm clinging to them, covering them in inscriptions to make them stronger. She does all of it incredibly quickly, possibly tapping into thought acceleration a little bit or having plenty of these things stored and prepared. She also must know that the more she uses attacks against that man, the weaker they temporarily become, so her manipulation stays in reserve.
+
+Her projectiles launch at him at high speed, just as he begins pulling on the floating island she stands on. It is incredible to watch it shift and gradually pick up speed, as if moved by the sheer strength of a single body.
+
+Stone projectiles are pulled, redirected, and smashed through, and Jean bends down and grabs a piece of stone.
+
+Sophie immediately moves to dodge, just as Jean pulls back and throws it with full force.
+
+A loud thud sounds as the stone launches, and I see Sophie watch it with wide-open eyes.
+
+And nothing happens, causing Jean to tilt his head in confusion, only for both of them and us outside to realize at the same time what just happened.
+
+The stone just disintegrated under the sheer force of the throw.
+
+Unfazed, Jean stretches his hand toward a nearby floating island, and a chunk of metal-like ore rips from its side, hurtling through the air and slamming into his hand with a heavy thump.
+
+Without hesitation, he pulls back again, buries his feet into the ground, and throws. And though Sophie tries to dodge, a sonic boom thunders, and one of her legs explodes into a burst of pink mist.

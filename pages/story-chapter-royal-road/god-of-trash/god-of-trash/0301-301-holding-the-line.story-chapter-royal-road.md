@@ -1,0 +1,153 @@
+---
+id: cf9bf783-809d-5ca5-a114-eb5cdcc76eb7
+page-type-slug: story-chapter-royal-road
+title: "301. Holding the Line"
+slug: 0301-301-holding-the-line
+partOf: god-of-trash
+position: 301
+ownLength: 1703
+unit: words
+publishedAt: 2026-04-17
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3286806/301-holding-the-line"
+royalRoadId: "3286806"
+---
+
+The world warped. A fine shoe pressed into snow, then another. A lone man strode out of the teleport into the snowy plain. Quietly, he turned, searching, then smiled.
+
+“There you are.”
+
+Two young men stood next to one another, one with a hand on the other’s forehead, lost in internal toil. Power raged around them; both the blue of mana, the gold glint of the world authority, and a strange, black-brown-green power that absolutely reeked.
+
+Virgil lifted one hand to cover his mouth. With the other, he drew his sword. “This is simpler than I expected.”
+
+“Is it?”
+
+Virgil froze. He turned.
+
+A dark figure ascended from the depths of the tundra. Hair so black it seemed to suck in light cloaked his black robes, his eyes like puddles of shadow, his skin paler than the snow itself. Sid gave Virgil a friendly smile and drew to a halt, keeping some distance from Bast and Rhys, as well as from Virgil, but there was tension in his seemingly relaxed stance. In an instant, he could close that distance.
+
+“What are you doing here?” Virgil asked, shocked. He lifted a hand to his chest, discreetly touching an amulet.
+
+“Instead, you should ask that boy why he decided to fight on top of my hideout. It still hasn’t recovered from the ice worms,” Sid said lightly. His smile didn’t shift, but there was suddenly something menacing behind it.
+
+“Neutrality. We agreed to neutrality.”
+
+“Did we? Oh… that’s right. I had something better to do, and didn’t feel like fighting.” He tilted his head. “Do you want to test if I feel like fighting today?”
+
+Virgil gritted his teeth. Behind him, the warp expanded, and soldiers started pouring through. He stepped back, gesturing at them. “We don’t want things to get to that point.”
+
+“I don’t know. I might,” Sid allowed calmly.
+
+Beside him, fragments of straw stirred. Lifting out of the snow, they formed the rough outline of a straw doll. It looked at Sid, then crossed its arms and stood beside him.
+
+Virgil scoffed. The army continued to file in behind him, trampling over the fresh snow. “One Remnant Weapon, and the last scraggly dregs of another. Do you think you scare me?”
+
+“Would you like that, Virgil?” a smooth voice whispered in his ear.
+
+Virgil slapped his ear. He whirled.
+
+An impossibly beautiful man stood behind him, his face perfectly sculpted, his eyes big and glittering, his hair wafting ever so gently on the breeze. His robes were bloodied and torn, but he somehow made it look like they were torn and bloodied to accentuate his beauty. A beauty mark peeked through a tear just above his hips, and another rip hinted at soft, smooth skin and washboard abs. Soma smiled and blew a kiss at Virgil.
+
+“How? That’s not possible! I built that prison especially to hold you! Your impurities should’ve been useless!” Virgil spluttered.
+
+“Oh, darling. You didn’t think I’d go for abandonment play forever, now, did you? Daddy needs some attention from kitten, or he’ll be sad.” Soma strutted past Virgil, even his walk sensuous. Just as he passed the other man, he paused and licked his perfect ruby lips. “It’s no use building a prison for me and putting people in it, sweeting. People are deliciously corruptible.”
+
+Virgil roared in frustration and grabbed at Soma, but the man blurred out from under his grip and appeared beside the other two Weapons.
+
+“If you want to get to those two, you’re going to have to go through me. And that’ll just take all night, won’t it?” He purred those two words, an infinitely self-satisfied—yet beautiful—smirk on his lips.
+
+Sid looked at Soma. His eyes narrowed, just a hair. “You annoy me.”
+
+“But do I annoy you in the right way? That’s what I want to know,” Soma said with a wink.
+
+Sid stepped forward, his muscles suddenly tensing, but Straw quickly put a near-ephemeral hand on his arm and stopped him. He turned to Soma and shook his head.
+
+“Yes, yes. Older brother Straw knows best.” Soma put his hands up, but his smile didn’t change.
+
+The three Weapons faced the Alliance, blocking both Virgil and his army from Bast and Rhys while the two were busy with their internal battles.
+
+Virgil glanced over his shoulder, then frowned. He marched toward the soldiers. Grabbing one with a relatively high rank, he shouted, “Where are the generals?”
+
+“Sir! They… they aren’t coming,” the unfortunate soldier responded, shaking a little.
+
+“What do you mean, they aren’t coming?”
+
+“There’s… they said there’s something they need to investigate. I—I don’t know any more!”
+
+“Those baseless…” Virgil threw the soldier aside with a wordless growl. “It’s nothing! There’s no proof!”
+
+Soma laughed loudly, drawing Virgil’s glare. “Oh, no, there’s proof. Once I broke out, it was simple to get into your office. I made sure there was lots and lots of proof just flashing around everywhere before I left. Rhys wasn’t completely right, but he was close enough, wasn’t he, Virgil? Close enough to give all those generals of your pretty little Alliance something to chew over. Close enough to give them a reason to hesitate, and decide not to bother showing up today.
+
+“Hey, did you know? Rhys and I, we made lots of plans. Not just for what happened if everything went right… but for what happened if everything went wrong. And you already know I’m a switch, right? I’m flexible in all sorts of fun ways.”
+
+Virgil threw his hands up. “Who cares? Here you are, right here! If they’re so scared about the Remnant Weapons, they should be here! Fighting you!”
+
+“Oh, but that’s the thing, Virgil, honey. They aren’t that afraid of us. We’re just powerful mages, the same as anyone else. What they’re afraid of… or rather, what they hate…” He lifted his finger, pointing at Virgil. “Is a snake in the grass. A treacherous attack from within. A traitor, seeking power only for himself.”
+
+“That’s what a mage is!” Virgil snarled, enraged.
+
+“Maybe it is to you. But sweetie? The rest of us… we stick together. There’s lines we will never cross. People we will never backstab.”
+
+“I like stabbing,” Sid interjected dreamily, to himself.
+
+“That’s true. You’d probably stab them even if you liked them. Sid aside, we all have lines we won’t cross.” Soma shook his head and put his hands on his hips, taking on the air of a disappointed mother. He said the next words at a whisper, using mana to conduct them directly into Virgil’s ears despite the gap between you. “But you’re different, aren’t you, Virgil? You think we don’t know, but we do. We all know. No one trusts you, Virgil, you little bitch snake.”
+
+Virgil bared his teeth in rage and started to lunge, then caught himself. He straightened his stance and adjusted his robes. “So is this it, then? A stalemate, until they finish breaking through?”
+
+Soma was busy biting his lower lip, and startled back to reality when Virgil stopped talking. “Hmm… what was that? Sorry, I stopped listening. You’re just so cute when you pretend you aren’t all hot and bothered, you know? A man gets distracted.”
+
+Virgil’s face reddened, and his shoulders tensed.
+
+Sid chuckled under his breath. He looked at Soma. “Are we done with the talking part yet?”
+
+“Not yet. Well, I don’t think we’re done with it. It really depends on big boy over there. It’s important to be attentive to your partner, you know? …Especially in conversation.”
+
+Virgil scowled. “Enough with your allusions. Everyone knows I’d never touch you.”
+
+“Mhm. Sure thing, sweets. I won’t tell anyone, promise.”
+
+Wrinkling his nose, Virgil turned away. “Filth.”
+
+Soma turned to Sid, a shocked expression on his face. “The first thing he’s got right all night! Should I say ‘I knew you could do it,’ or is it more of a ‘even a broken clock’ situation?”
+
+Sid licked his lips. His fingers clawed strangely at the air, flexing all their joints in both directions so that he looked more like a wiggling bag of bugs than a human being. His pupils expanded slowly, leaking black into his sclera like a bleeding sun. “I think I want to eat him. Slowly. From the toes up, wriggling under his skin, one ounce of flesh at a time, so I can hear him scream until the end.”
+
+Virgil hadn’t flinched this whole time, nor responded with outward fear, but something about the way Sid spoke made him instinctively take a step back. This was a real threat to his life; this wasn’t playful banter, but something Sid wholeheartedly desired from the bottom of his heart.
+
+“Well, I was with you for the first half,” Soma allowed, totally unbothered by Sid’s overt threat.
+
+Straw looked from one to the other, then shrugged.
+
+Golden light flashed from behind them. Rhys’s power surged once again, and Bast’s mana fluctuated strangely in time with it, though in a different direction; one was breaking a boundary, and the other was reintegrating what they should’ve had all along. In just a few moments, they would both snap out of their inner worlds and return to reality.
+
+“It looks like those two are almost at their climax. Should we get the fireworks ready, boys?” Soma asked.
+
+“Why do you say it like that?” Sid asked, disgusted, yet not sure why.
+
+“I’d say ‘we can find out together,’ but I know what you did to your last partner, and I’m not ready to be ravaged quite so brutally.”
+
+“I liked it.”
+
+“I’m sure you did.”
+
+“They seemed happy.”
+
+“They’re a very special kind of person. Even yours truly isn’t quite so committed to the path of M.”
+
+“What’s a path of M?”
+
+“Don’t worry, honey.”
+
+“They gave me a pretty girl.”
+
+“They sure did.”
+
+Virgil threw out his arm. Halfway between shouting and crying, he said, “If you’re quite done?”
+
+“I’m close! I’m so close! Just a little more!” Soma moaned.
+
+Virgil glared.
+
+Behind the Weapons, the energy peaked. Rhys and Bast stumbled away from one another.
+
+“Aaaand… here we come,” Soma said, narrowing his eyes, and the grin on his face turned pure evil.

@@ -1,0 +1,225 @@
+---
+id: d5c8c52f-e3a1-5846-99e9-f6c3701b0f26
+page-type-slug: story-chapter-royal-road
+title: "Chapter 978: Implications For Your Work"
+slug: 0045-chapter-978-implications-for-your-work
+partOf: he-who-fights-with-monsters
+position: 45
+ownLength: 2231
+unit: words
+ownProgress: 2231
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3020259/chapter-978-implications-for-your-work"
+royalRoadId: "3020259"
+markedReadAt: "2026-06-29T19:05:25.463Z"
+---
+
+“Asano, the Network won’t just let you barge into their facilities and do as you please,” Geneva said.
+
+“I hope you’re right,” Jason told her. “I intend to round up everyone who was a part of this and make sure they never do it again. The more of them that come to me, the more time I save.”
+
+“Do you think that you can fight the whole world?”
+
+“Yes. I’m hoping it won’t come to that, but we have contingencies if it does.”
+
+“You have contingency plans that you think will let you defeat the whole world.”
+
+“I don’t need a plan to conquer the world, Director Andros. The contingencies are to limit the damage when I do.”
+
+“You’re delusional.”
+
+“Then you should be very careful, Director, given that I’m also extremely powerful.”
+
+“What are your intentions?”
+
+“Step one, confirm that very naughty things are being done here. How is that door coming?”
+
+He glanced over at Farrah, Belinda and Clive, working on the vault. The rest of Jason’s team was present, along with a few others.
+
+“This vault is surprisingly well-designed,” Belinda said. “This door is essentially a giant magical battery. It uses the sheer quantity of mana its holding to render many standard intrusion techniques unusable.”
+
+“How long to crack it?” Jason asked.
+
+“Oh, we figured that out a while ago,” Belinda said. “We’re working on how to remove the door entirely without venting all that stored magic.”
+
+“Why would you need to remove the door instead just opening it?” Jason asked.
+
+“Well, we came all this way,” Belinda said. “It seems like a shame not to take a souvenir.”
+
+“We’re not here to steal things, Lindy.”
+
+“I thought you liked doing things for more than one reason.”
+
+“Belinda,” Danielle said. “What we are doing here is a forceful intervention that is going to upset a lot of people. While not essential to our endeavour, things will go more smoothly if we can establish the moral high ground. Taking the opportunity for plunder while we are going about it will undercut those efforts.”
+
+“Fine,” Belinda grumbled, like a child told they can’t have any sweets for dinner. She snapped her finger and the massive vault door cracked open, slowly swinging wide. Inside, the facility staff were all backed up in the rear, looking out with fearful expressions.
+
+“Clive?” Jason asked.
+
+Ignoring the people cowering at the back, Clive walked in, moved straight to one of the open container doors and looked inside. He pulled out a few devices to wave around, then nodded to himself.
+
+“Yeah,” he called out. “They were definitely storing reality cores in here.”
+
+Farrah walked over to Jason and put a hand on his shoulder.
+
+“Maybe you leave the questioning to other people,” she suggested. “Anna will be good for this, and we’ve got all the people we need backing her up. It doesn’t need to be you, and maybe it shouldn’t be.”
+
+“I’m fine, Farrah.”
+
+“I don’t doubt it,” she said. “But can you honestly tell me that investigating reality core use on Earth won’t bring up old memories? And that those memories won’t affect your decision-making in ways that perhaps they shouldn’t?”
+
+“No,” he admitted.
+
+“This isn’t like last time. It isn’t just you, me and Dawn. There’s a lot of people looking to help you here, and not just our people. You talk about wanting the people of Earth to step up. Now that you’ve explained to them properly what’s going on, maybe give them a chance to do just that? The locals are going to do a better job of tracking down everyone involved than people from a different world. Use their expertise, with Anna as liaison and the rest of us as muscle. Isn’t that why you dedicated the time and effort to setting this up?”
+
+“Yeah,” he said, although he sounded reluctant.
+
+“Then isn’t it about time you gave it all a chance to work?”
+
+He looked over at Geneva. She was still sitting on her stool, but with a pack of Jason’s gold-rank allies looming over her.
+
+“I don’t like it when you make this much sense,” he grumbled to Farrah.
+
+“I always make this much sense.”
+
+“Shut up.”
+
+She swatted him on the head.
+
+“Get out of here.”
+
+He created a portal arch. He felt some resistance against it opening, from the magical wards on the facility, but tapped into his astral gate to push through. He sensed Geneva’s surprise, but instead turned to Bussinger, standing off to the side of the room.
+
+“You’re with me,” he told her, then stepped through the portal without waiting to see if she’d follow. She looked around hesitantly, then did so.
+
+***
+
+Bussinger stepped out of the portal onto a wide street. Trees lined one side, in front of buildings that looked renaissance-era in design, but were clearly not. Their construction material was white and shed mist, almost like dry ice. She realised after a moment that the buildings were made of clouds, narrowing down the potential places she had found herself in.
+
+She turned on the spot, looking around. One the other side of a street was a park. Many of the people she spotted were not human, and she was getting as many stares as she was giving out.
+
+Someone started talking to her in a language she didn’t know and she realised she was still standing in the middle of the street.
+
+“Entschuldigung,” she said, stepping onto the footpath. The man speaking to her had been a cyclist who had stopped to avoid running into her. It wasn’t a busy street, and most of the traffic was made up of bicycles and scooters. There was a delivery van that went past, and she saw tracks for a tramline.
+
+“Excuse me,” a voice said in English. She turned to find a little girl looking at her, struggling to escape the grip her mother hand on her hand. She was not human, but looked like a fox person, with no fewer than three tails wagging excitedly behind her.
+
+“Marija, don’t bother the nice lady.”
+
+“But she looks so cool! And that was Jason Asano! I saw him come out of the magic door!”
+
+“Pardon me,” Bussinger said. “Did you happen to see which way he went?”
+
+The girl pointed at a nearby building, her eyes locked on Bussinger’s golden gauntlets.
+
+“Did you get those metal gloves from a monster? They’re so awesome!”
+
+“I did,” Bussinger said. “And thank you.”
+
+She turned to the mother.
+
+“If you don’t mind me asking, this is Asano Clan territory, right? Which one?”
+
+“Are you alright?” the woman asked, looking Bussinger up and down.
+
+Her red and gold clothes had mostly cleaned and repaired themselves, but the echoes of battle remained. There were still a few tears and scorch marks, and grime smeared across her face. Her dark hair, bundled tight for combat, had come loose and now wildly framed her pale face.
+
+“I’m fine,” Bussinger said. “Are we in France or Slovakia?”
+
+“Slovakia,” the woman said with a good-natured laugh. “It seems like you’re having quite a day.”
+
+“You could say that. You should warn your daughter about following strange men through portals.”
+
+“I’m afraid that advice would fall on deaf ears. She’s determined to be an adventurer.”
+
+“An adventurer?”
+
+“It’s what we call monster hunters here.”
+
+The mother finally got her daughter moving again, throwing Bussinger an apologetic look. Bussinger turned her attention to the indicated building, which a sign proclaimed to be the Quilidos Centre For Spirit-Body Research. It sounded like the kind of scam spiritual healer that the reveal of true magic should have eliminated, yet had only allowed to flourish.
+
+She headed inside to a marble-floored, glass-ceilinged atrium. The walls were the same cloud material as the exterior, but with leafy plants growing right out of them. In the middle of the floor was a pool filled with plants and fish. With mist coming off the walls, and sunlight pouring in from above, it felt like the lobby of a tropical resort. Two men behind a long reception desk were arguing in English.
+
+“…set up the infrastructure now, and once regular mail starts up, we’re ready to go.”
+
+“Set up regular mail? We’re surrounded by a vampire wasteland, not inclement weather. Rhett, we need to set up our base of operations in the US. Shipping things from here means more cost, more trouble and less reliability. Even if some kind of shipping service is instituted, it’ll be for all the tedious things the Asano Clan will think are important. They certainly won’t prioritise shipping hand-made Pallimustus amphoras.”
+
+“We have to call them Pallimustus-style, Jaime. We’re not actually getting them from Pallimustus, and they have trade laws on this planet. And always remember to call them artisanal.”
+
+“What does artisanal mean?”
+
+“It means we charge three times as much.”
+
+“Three times?”
+
+“Yeah.”
+
+“I’m loving this language. It has so many words I enjoy.”
+
+“I told you getting those skill books was a good idea.”
+
+They finally noticed her entrance and turned her way. They were both silver rankers, and human. She could sense the presence of monster core use in their auras, and something she couldn’t identify as well. For some reason, it made her think of a stiff laundry brush.
+
+“You must be the lady Asano said was coming,” Jaime said, and pointed at a door. “Through there, left, left, right, then down to the end and down the stairs on the left.”
+
+He then turned back to his companion.
+
+“What if we said they were ‘hand-crafted by expert Pallimustus artisans,’ instead of calling them Pallimustus-style.”
+
+“Oh, I like that.”
+
+Having gone back to being ignored, Bussinger headed for the indicated door.
+
+***
+
+Orange and Higgy were members of Nigel Thronton’s team of soldiers, together since their Network days back in Australia. Higgy was a man of Indian descent, handsome even before the effects of magic. Orange was one of those rare people who still looked rough in spite of ranking-up multiple times. He not only looked like he belonged in a bar fight but like he was angry about not being in one right now. Jason watched them manoeuvre a vampire into a cell, using a pair of poles attached to a collar around the vampire’s neck.
+
+“Is that a suppression collar?” Jason asked.
+
+“A variant, designed to suppress vampiric power,” Carlos explained.
+
+They were in a dungeon with multiple cells, around a third of which held vampires.
+
+“Carlos,” Jason said, “you don’t waste any time, do you? Most of us haven’t even unpacked.”
+
+“I wanted to get started immediately,” Carlos said. “I don’t normally have such ready access to vampires. The revelation that Earth vampires didn’t express the behaviour of Pallimustus vampires until the magic level rose has some key implications for my work.”
+
+“I might have stumbled across something else that has implications for your work.”
+
+“And what’s that?”
+
+“An essence ability. I thought I sensed something when I saw it in action, but there was a fight going on. I might have been imagining it, so I want you to check. I don’t think I’d have noticed at all, if not for the work I did with you on Melody.”
+
+“And what is it you saw, exactly?”
+
+“Probably best to let you look at it blind. I know you’re an objective researcher, but I’d still rather not lead the results. I’ve asked her to come here so you can examine her for yourself.”
+
+“And what did you tell her?”
+
+“That you experiment on people.”
+
+“That is a gross minimisation of what I do. And unlikely to entice her to participate in said experimentation.”
+
+“It was this or stay in a room full of my friends after she just tried to kill me.”
+
+“Yeah, that’d do it,” Orange said, glancing over his shoulder. The vampire took the moment of distraction and knocked Orange’s pole from his hand, then lunged at him. Orange vanished and Higgy appeared in his place, holding a shield. The vampire hit the shield, which hammered the vampire with a thunderous blast of sound, sending him crashing into the wall. He slumped to the floor where Orange, who had appeared in Higgy’s original position, tossed him into the cell like a sack of potatoes before slamming the door shut.
+
+“Bloody hell, Orange,” Higgy scolded.
+
+“What’s that?” Orange asked loudly, cupping one ear. “I can’t hear you because of that blast. I probably won’t get my hearing back until I’ve left and you can’t yell at me anymore.”
+
+Higgy rolled his eyes, but froze as Bussinger hurried in from the stairwell, all battle-readiness and wild beauty. He rushed up to her and offered his hand.
+
+“Shane Patel, lovely to meet you.”
+
+“He’s got a small dong,” Orange called out, which had everyone in the room turn to look at him.
+
+“What?” he asked. “I just thought she should know.”
+
+“Orange, I hate you so much,” Higgy said, then stomped out and up the stairs. The others were left standing around awkwardly.
+
+“Does he really…?” Jason asked, leadingly, breaking the silence.
+
+“No,” Orange said. “It’s like a sea serpent from the corner of an old-timey map. You half expect to see it drag a ship under water. We just like to keep him humble.”
+
+“What is going on down here?” Bussinger asked. “Are those vampires?”

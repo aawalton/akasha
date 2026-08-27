@@ -1,0 +1,169 @@
+---
+id: 55387ce2-86a6-5ca9-aa01-e243e2e916d9
+page-type-slug: story-chapter-royal-road
+title: "038: Alice Steelweaver"
+slug: 0038-038-alice-steelweaver
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 38
+ownLength: 2218
+unit: words
+publishedAt: 2024-05-10
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1630483/038-alice-steelweaver"
+royalRoadId: "1630483"
+---
+
+The woman had a button nose and full red lips that were quivering as she glared at Evelyn. Clearly she wasn’t used to people not tripping over themselves to serve her. Or maybe she was just rude. Either way, it didn’t matter to Evelyn.
+
+She had places to be, and even though the woman was more stunning than any model she had seen before, it wasn’t the time nor place to entertain her more vulgar desires. Plus, she could return to Haven at any time during her climb according to the tower’s welcome message. But, when she tried to walk past the angry woman, she felt a flare of mana from behind.
+
+It was her quick reactions that saved her from decapitation as a metal thread almost too thin to see sliced through the space where her neck had been right before Evelyn had ducked under the woman’s attack. It was only because the thread reflected the light of the sun that she had seen it at all. With all the cards on the table, there was only one way to proceed.
+
+Evelyn refused to let herself be killed for making a simple mistake. The woman should’ve watched where she was walking. But life was never that simple.
+
+Rather than play it slow and risk letting the woman gain the upper hand and take her by surprise again, Evelyn went for broke. Her mana flared to life and flames licked across her body as she channelled Flashfreeze Flamecharge. It wouldn’t kill her.
+
+Probably.
+
+Surprise painted the woman’s face when Evelyn burst into flame. However, she didn’t have time to react before there was a flash of light and a heavy object smashed into her. The ground was wracked with frost and the woman was sent flying into a nearby building. Her crash landing had ripped a hole into the stone wall and it was covered in a thin layer of ice. Evelyn wasted no time in darting after her prey - there would be no escape now.
+
+She was forced to throw herself to the ground as multiple steel threads arced across the street. It was difficult to judge their trajectory when she didn’t have a line of sight to the woman casting them. However, one had grazed her shoulder.
+
+It barely left a scratch, which told Evelyn she wasn’t dealing with someone who could threaten her. That made her job a lot easier. Rather than focus on avoiding the threads, she opted for the direct approach.
+
+The hole in the wall was about two metres off the ground. Thanks to her attributes however, it was a height she could clear with a single, casual jump. Sometimes it was painfully clear just how ridiculous the perks of the tower were. She had struggled hard to get them, though. Her target came into view as she entered the smouldering rubble of the building. Her flames flickered around the room, but they didn’t spread.
+
+On the other side of the room the woman cowered, whipping her hands around to control her threads. With a flick of her wrist she pulled them back from the street and shot them at Evelyn. Even if they posed little threat, she would typically avoid any attacks out of principle - but she had a point to make.
+
+The first steel thread whistled as it sliced through the air on a direct arc to her neck.
+
+“Hahaha, I’ve got you now bitch!” Cackled the woman as the thread made contact.
+
+Unfortunately for her, this was not the happy ending she sought. The thread clanged against Evelyn’s tough neck and failed to do more than tickle her. It fell to the ground and the woman’s face dropped. For a moment, she didn’t move, unable to comprehend what had gone wrong. That was all the time Evelyn needed.
+
+There was just a few metres between them. A distance that Evelyn could cross in a single charge. As she shot forward she pushed mana into her fists, empowering a skill she hadn’t used in a while - Fists of Frost. Perhaps it was overkill, but she wanted to teach the woman a lesson about curbing her arrogance. Her prey reacted right before she hit her, but it was too late.
+
+The woman’s hands flailed as she tried to summon her threads to carve Evelyn into pieces, but to no avail. Evelyn’s glittering fist smashed into her gut with the force of a charging elephant and she felt the shockwave reverberating through her target’s body. After just a single blow, the woman crumpled into a heap. Her eyes twitched as she struggled to stay conscious.
+
+She was alive, then.
+
+“Maybe next time you bump into someone in the street, apologise instead of trying to kill them. Idiot,” said Evelyn as she walked back out of the ruined house.
+
+Their clash had taken place in the kitchen. It was unusable now, unless the tower had some way of restoring the damaged structures. But, Haven was large enough that one less house wouldn’t be an issue.
+
+I hope that woman wasn’t important to one of the three factions. The last thing I need is more assholes trying to jump me because of their wounded pride. I just want to clear the damn floors and climb the tower without getting pestered.
+
+It was a blessing then, that Evelyn made it to the central plaza without being accosted again. She had seen a few other people wandering about the town on her stroll, but most had outright ignored her or given a cursory nod in greeting. Just like back home.
+
+A strange feeling - to feel like she was back on Earth in the middle of this crazy place. But that was the feeling Haven evoked. The tower had called it safety, but to her it was boredom. It reminded her of mediocrity. Of unachieved goals and a lack of ambition. Despite the constant threat to her life in the tower, Evelyn had experienced for the first time what it truly meant to be alive.
+
+And she loved it.
+
+As she approached the central plaza, she began to see a difference in the buildings. Rather than the medieval style of wood and stone brick - albeit a little more modern given the huge size of the structures - it took on a more modern look. There was more glass in the construction and far more ornate decoration than the simple houses that littered the streets in the rest of Haven. That wasn’t the most striking feature, however.
+
+The plaza opened up and she could see hundreds of people milling about. Most of them were gathered around a large billboard, crowding something else that was out of sight. Her curiosity piqued, Evelyn started to make her way over. But, when she had taken just a few steps, someone grabbed her by the shoulder.
+
+Evelyn whirled round, raising her fists in preparation for a fight but quickly dropped them when she saw who it was.
+
+“So you’ve come to try your luck have you, rookie? Did you manage to find a party to attempt the floor with, or are you going to be a suicidal idiot?” Asked Kyron.
+
+This time, he was without his guards - the twins. Instead, there was a tall ginger woman accompanying him. She was wearing a robe that was a cross between a dress and a cloak, crafted from a red velvety material and complete with a golden seam. She had high cheekbones and an icy gaze - a contrast to her fiery dress sense. Coupled with her long legs, Evelyn couldn’t help but stare a little longer than was polite.
+
+Which earned her a smile from the woman. Kyron however, was not so appreciative of being ignored. He took a step forward and looked like he was about to say something when the woman placed a delicate hand on his shoulder.
+
+“Leave her be Kyron. If she wants to get herself killed then that’s her prerogative. You can’t save every idiot in the tower. And you have more important things to focus on right now,” she said.
+
+The last part was said with a pointed glance towards one of the tallest buildings in the plaza. After a parting glare, the pair headed towards the building and left Evelyn to her own devices once more. She reached the crowd without any more interruptions. And when she was finally able to read the billboard she realised why everyone was gathered there.
+
+It was a leaderboard. At the top, it displayed the total number of people in Haven. While she watched, the counter dropped by 2 - and the entire crowd erupted into a mix of groaning, cheering or angry yells. People started a flurry of activity and she recognised the signs of the system being used.
+
+Are they betting on whether people survive their tower runs? Humans really never change, do they. We’re in a completely alien place and unsure about our own survival and they still find the time to make wagers on other people. I suppose it’s a quick way to earn essence if you don’t want to risk your own life. But it’s boring. Safe.
+
+Below the counter there were ten names displayed, each with a number beside them detailing their position on the leaderboard. However, it wasn’t immediately clear to Evelyn what the numbers meant. She also recognised the person in the lead from the island conquest floor. But, when she got to the fourth name on the list her eyes grew wide.
+
+Haven Population: 321,409
+
+Leaderboard
+
+1st: T - 12.33
+
+2nd: Jonas Greaves - 11.84
+
+3rd: Eleanor D. - 11.46
+
+4th: K - 11.08
+
+…
+
+So, Kayla wasn’t just alive but she was thriving. At least, provided the leaderboard was positive. There was no guarantee that was the case. But, given Kayla’s talents it would make sense for her to be among the pinnacle of the challengers. Hopefully Evelyn would see her soon. It would be nice to have a reunion face to face with someone. The local chat had helped her know people were still alive and kicking, but there was more value in actually being able to see and touch a person. But, the billboard wasn’t even the most exciting thing in the plaza.
+
+No - that honour was reserved for what lay beneath it.
+
+Evelyn had been unable to see the portal before, because it had been hidden by the crowd. Now however, its glowing form called to her. It was similar to the previous portals - rectangular in shape and glowing blue. This one though, was far larger and was encased in a frame of stone and writhing plants. Based on the fact that the 16th Floor was able to be challenged more than once, this portal was likely to be a permanent fixture.
+
+And Evelyn wanted to dive straight in. There was no real reason to hesitate. Even though she had been warned - both by the tower and the people she had met - that it was suicide, she refused to believe it was impossible. Perhaps that was arrogance.
+
+No one else had managed to clear it after all. Was she better than every other human? There was only one way to find out. However, given that there was a chance she wouldn’t be able to return to Haven if she did clear it, Evelyn wanted to try and find Kayla before she made her first attempt. But with no clues to go on other than the simple fact she was alive, that would be a challenging task.
+
+But, it would be simple to find more leads. Evelyn decided to make her way to a tavern. Drunk people were a veritable font of information just waiting for her to collect. She wouldn’t return to the same one as before, however. It was clearly home to Kyron and his cronies and she had no desire to get further tangled with them after her refusal to join with them. A shame - the liquid essence had been delicious.
+
+However, Evelyn had barely taken a step out of the crowd when three angry men stormed towards her with weapons drawn. A few curious whispers rippled through the crowd and then they were silenced as the leader of the trio shouted at Evelyn.
+
+“How dare you hurt Alice! You’re going to pay for your insolence, newbie.”
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.5
+
+|Attributes|
+
+Power: 12 (13)
+
+Speed: 4
+
+Stamina: 8
+
+Vitality: 26 (31)
+
+Mana: 25
+
+Fortitude: 48 (83)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Stargazing (Rare), Bargain Hunter (Uncommon), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Uncommon), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Spendthrift (Uncommon), Solar Fusion (Uncommon), Salvo (Common), White Infusion (Common), Star of Fortitude (Uncommon), Star of Vitality (Common), Star of Mana (Common), Star of Stamina (Common), Unyielding Heart (Rare), Star of Power (Common), Dual Focus (Uncommon)
+
+~Active~
+
+Fists of Frost (Uncommon), Mana Plate (Uncommon), Flashfreeze Flamecharge (Rare), Purge Corruption (Uncommon)
+
+~Hybrid~
+
+Overpowering Spirit (Rare)
+
+Essence: 230286『+230524 / 5:57:59.5 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】

@@ -1,0 +1,79 @@
+---
+id: f8663d62-52ec-548b-b132-e15d179d0f7d
+page-type-slug: story-chapter-royal-road
+title: "207. Black Ship"
+slug: 0207-207-black-ship
+partOf: god-of-trash
+position: 207
+ownLength: 2177
+unit: words
+publishedAt: 2025-10-05
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2653962/207-black-ship"
+royalRoadId: "2653962"
+---
+
+The Empire fought, but the Alliance gave its all. They steadily pushed deeper into the Empire, while the Empire retreated in equal measure. The Empire hadn’t brough as many ships as Rhys had expected to see, especially since he recalled them having at least as many, if not more ships than the Alliance, but that might’ve been exactly why the Alliance attacked—if the Empire, and particularly the Empress, was busy somewhere else, then it was the exact same condition as when the Empire had attacked the Alliance, and the Sword Saint was at the northern border. Turnabout was fair play, at the end of the day; using another country’s own tactics against it wasn’t even a war crime, though Rhys was pretty sure that ninety percent of the magics being used right now on the battlefield probably were. There was an Alliance contingent nearby under Ernesto’s familiar face that was definitely committing war crimes with their curses.
+
+It’d be an excellent time to look for Straw, Rhys thought regretfully. Unfortunately, he wanted the Empress dead as badly as any of them, so he couldn’t afford to go looking. He saw some familiar faces, like Wilbur and the gothic-lolita girl whose name he forgot, but quickly looked away. That was attention he didn’t want to attract.
+
+They reached the city Rhys used as base. Mages moved far more rapidly than any battle Rhys was used to reading about in the news; at this rate, they’d be at the capital by nightfall. Not that he thought the Empire was about to let that happen. He dashed to the top of a building and peered deeper into the Empire, searching for the ship he knew was out there. Where was the Empress? Was she really going to sit back and let this happen? Her men were falling back. The Alliance was on the verge of taking a major city. Even if she was on the other side of the Empire, there was no way she wouldn’t materialize, right? She wasn’t like the Sword Saint. There were no internal politics holding her back. She was the Empress, the autocrat, the only power that mattered in her country. No one could tell her not to sprint across the country to fight off the attackers… and for that matter, why would she? Rhys still didn’t understand why the Alliance had held back the Sword Saint, aside from ‘internal political bullshit,’ and in a vacuum of such bullshit, the Empress would surely come sprinting.
+
+He widened his eyes. Tightening his grip on the rooftop spire he stood on, he lifted his other hand to his eyes. Was that… yes! Yes it was! The black ship. The Empress’s battleship!
+
+The Empress hurtled in. Her ship flew through the sky, dark as the night the sun staved off. The rising sun lit its sails in brilliant crimson, its sides streaked with fresh soot. A dozen Empire ships followed it, chasing their Empress into battle.
+
+At the sight of the Empress, the Empire troops let out a cheer. They attacked with renewed vigor, pushing the Alliance back for the first time. Rhys held his breath, waiting. Not yet. Not yet. It wasn’t yet time.
+
+The shadow of the Empress’s ship fell over the city. Her flanking ships drew a firm line. Their cannons pointed forward, and they fired incredible magics at the Alliance ships. The Alliance ships deployed a barrier, only for the barrier to pop in the first barrage. They fell back, losing ground. The tide of battle had turned in favor of the Empress.
+
+Rhys chuckled. Not while I’m here. The time had come. This was the moment he’d been waiting for.
+
+He lifted his hand. No one looked at him. No one paid any attention to him. All alone in the middle of the chaotic battlefield, as bodies fell all around him and incredible magics twisted the fabric of reality itself, Rhys smiled quietly… and snapped his fingers.
+
+For a moment, nothing happened. And then the Empire convulsed.
+
+All across the battlefield, soldiers’ veins darkened, and their cores dimmed. Fierce impurities dug into their veins, their mana passages, their every muscle, bone, and cell. Their bodies crumbled from the inside out. Without Rhys there to personally maximize the power of the impurities, they were only a debuff, but what a debuff! Healthy soldiers were suddenly on the brink of collapse. Powerful magics unraveled as their casters crumbled. A few of the worst affected died directly, or plummeted from the sky as they lost the power to keep their flying machines afloat. From jubilation at their Empress arriving, straight into hell, the mood of the Empire’s soldiers reversed as suddenly as it had jumped at her arrival. The freshly arrived ships weren’t immune to the devastation, either. Several of the soldiers on them keeled over, and one of the ships began to list in the sky, bashing into its neighbor ship as it sunk backward.
+
+Rhys focused, stretching out his mana senses as far as he could for maximum effort. His trash star burned hot; he didn’t flare it as far as he did when he’d absorbed the secret realm, but it pushed about as hot as he’d ever pushed it, short of that. As far as he could sense, he called out to the impurities in the soldier’s bloodstreams and flared them as viciously as he could. The soldiers closer to him choked, spurting blood, their cores coming apart, while those further from him simply stumbled, forced to a knee or otherwise injured, but not as destroyed as those closest to him… for the most part. Some were particularly weak to impurities, or already had existing weaknesses, or resonated with Rhys—trashy humans, he could only assume—and those experienced the full force of his impurities, the same as the closer mages did.
+
+This was it. This was what he’d spent months working toward. This moment. This attack. An attack that could turn the tides of battle, an attack from a single mage that could decimate the opponent force without even revealing Rhys’s location. It was an absolutely insane thing to accomplish, no, an impossible spell. It was something he could never have accomplished in a moment, something he couldn’t have done at all without all the preparation he’d done. Fighting mage-on-mage was one thing, but injuring this many Tier 1s, 2s, 3s, and even 4s to this extent with a snap of his fingers? If he’d been attacking a standard way, he would have had to have been at least Tier 5 to accomplish such a feat. But here he was, a trashy Tier 3, dominating the battlefield with his excessive preparation and fast food empire seeding impurities in the Empire for the last few months.
+
+Rhys let out a quiet chuckle, watching the Empire panic and flee. They had no idea what had hit them. If they knew it was him, they’d be even more confused. He’d broken all the rules of magehood, attacked across tiers, and landed a critical blow to an entire army as a pathetic, weak Tier 3. Yes… just one Tier 3, and the Empire was laid low. If the Empress knew, she would’ve been tearing her hair out. As it was, Rhys was happy she didn’t know, because she could probably still squash him like a bug. Instead, he reveled in the chaos he’d caused, standing on that roof without ever personally throwing a blow in the battle.
+
+Perfection.
+
+The Alliance leaped forth, taking advantage of the Empire’s sudden weakness to push them back. The Empire reeled. Those who were unaffected leaped to keep their comrades from falling out of the sky, and those who were affected could do little more than sink, unable to fight or hold themselves up any longer.
+
+Rhys wasn’t done yet. The ones he’d hit were mostly ordinary soldiers. A few low-ranking nobles were caught up in it, but the more powerful nobles, the ones who would never dream of lowering themselves to eat ordinary peasants’ food, were unaffected. They fought on, continuing to battle with the Alliance’s strongest. The Alliance’s foot soldiers were able to surge forward, but the Alliance’s elites were still matched, if not outmatched, by the Empire. If he let things stand like this, the low Tier mages would overreach, then get punished by the Empire’s elites. Even being pressured by the Alliance’s elites, they could still fire off an attack that was piddling to them and other elites, but enough to slaughter entire waves of lower-Tier mages.
+
+So, before that could happen, Rhys dragged out all the trauma in his mind and mixed it up with his memories of haunting the balls as the Infernon daughter. The mixing made it look like it was the Infernon daughter who’d gone through everything he had, since, after all, it was all in first person, but he reordered it to look as though the earliest things that had happened to him as her had happened first, then the torturous memories of the cave, then the memories of haunting the balls, reorganizing the events so it seemed as though she’d been abandoned by her family and country, tortured, then come back to haunt them. It wasn’t his best work, narratively speaking, and it wouldn’t hold up to inspection, but injected directly into people’s head all at once in the middle of battle? They wouldn’t have time to closely examine it in the mess of it all. It wouldn’t be the fatal blow that the built-up impurities had been, but it would be enough of a strike to give them pause, to create an opening for the Alliance elites.
+
+He reached out with his mana senses and targeted all of the Empire elites he could sense. They reacted, and some of them pushed his energy away, but he quickly retargeted them, then hammered them with his attack before they could retreat again. One after another, the Empire’s elites flinched, and the Alliance elites filled in the gaps their flinches opened with attacks and brutal blows, pushing the Empire back. Two of the elites, both of them Tier 4, whipped around and locked eyes on Rhys, chasing toward him. Rhys drew his poison sword and prepared to meet them. One of the two was struck down from behind as an Alliance mage charged, but the other Alliance mage turned and took on a different Empire mage, leaving the Empire Tier 4 to Rhys.
+
+The Empire Tier 4 extended his hand. A cloud of red dust burst up around Rhys and wrapped around his body, flying for his orifices and flying inside. Rhys took a deep breath, sucking it all in. The second the dust was inside his body, impurities weakened the pure red dust into something unrecognizable, and Rhys smoothly absorbed all of it.
+
+The mage snapped his fingers. Nothing happened. He frowned, staring at his hand, then looked at Rhys. “How…?”
+
+Rhys kicked off the earth. He sliced at the mage. The man dodged backward, but Rhys’s sword extended, the flexible blade lengthening with Rhys’s swing. It cut the man’s chest open in what wouldn’t have been a fatal wound, had it not been immediately infected by impurities and poison.
+
+He grinned at the mage. As the man’s body corrupted, he said, “Secret!”
+
+The man’s eyes rolled back. He fell to the ground.
+
+Rhys stepped forward and rested his hand on the man’s back, quickly absorbing his trashified body. He gazed up, watching the battle unfold. With his intervention, the Alliance had gone from evenly matched, to steamrolling the Empire. He grinned. He had this thing in the bag.
+
+And then, at the rear of the Empire’s ships, the black ship descended.
+
+Rhys looked over his shoulder at the Alliance’s ships. It was time. The Empress was entering the field, so it was time for the Sword Saint to take the field. He’d been looking forward to this from the start: the epic clash between the Empress and the Sword Saint. Come on, let’s see him appear! How are you pulling off this trick?
+
+Nothing happened. The Alliance ships continued to hover. Not a single teleportation fluctuation or flutter of a robe. Not a flying sword from the rear, nor a hidden, cloaked compartment opening. Nothing.
+
+Rhys’s heart sank. Was it really a feint after all? Or… maybe… if I’m giving them the benefit of the doubt and assuming they weren’t leaving me hung out to dry… maybe they didn’t expect the Empress to take the field this early?
+
+The Empress appeared, stepping off her ship. She hovered in the air, clutching a long, white lance. Slowly, she raised her hand, extending her finger.
+
+Rhys turned, looking behind him. There was no one there. He stood alone, one of the few on the ground. He turned back around and pointed at himself. Me? No way, right? I’m just a lowly Tier 3—
+
+The Empress flashed toward him. Rhys’s heart leaped into his throat, and he whirled and fled.
+
+Holy shit! She did mean me!

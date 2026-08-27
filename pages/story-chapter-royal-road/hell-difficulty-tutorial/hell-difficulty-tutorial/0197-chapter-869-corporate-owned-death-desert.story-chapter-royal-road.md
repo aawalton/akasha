@@ -1,0 +1,169 @@
+---
+id: e302ab07-b640-5682-aeb2-0adbc4932317
+page-type-slug: story-chapter-royal-road
+title: "Chapter 869 - Corporate owned death desert"
+slug: 0197-chapter-869-corporate-owned-death-desert
+partOf: hell-difficulty-tutorial
+position: 197
+ownLength: 2160
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3869445/chapter-869-corporate-owned-death-desert"
+royalRoadId: "3869445"
+---
+
+While waiting for the notification that will hopefully give us our updated floor quest and the compass leading us to our other group members, we sit on top of the tower.
+
+I still don't know how I should feel. Am I happy with what just happened, or am I annoyed about only being able to watch? Maybe both? I also realize that just watching such high-level fights has forced my mind into overdrive, to the point that I was barely able to function other than keeping my body standing.
+
+And as has happened many times before, I'm sure there were parts of the fight I wasn't able to process. I glimpsed it, but that's all.
+
+At all times, they used their presences to pressure each other: attacks on natural domains, quick activations of something I like to call simple domains, and their mutual pressures within it. There was the invisible kinetic armor the Hornless Demon used, and the Last Elf’s barrier as it endured those incredible attacks. There’s just so much for me to think over.
+
+Tess shoves my shoulder, bringing my attention back to her.
+
+“Dennis and Aaron got ten million shards. Your work?” she asks.
+
+“You could say that. I’ll be asking for 1 percent so they don’t think I'm a pushover. The rest they’d better spend wisely.”
+
+“I don't know, Nat, you could probably ask for more than one percent.”
+
+“I was never good at negotiating and the like.”
+
+“How interesting,” she continues to smile and turns away to look over the desert. “You’ve gotten thinner, you know that? Lost some weight. I can see it in your face somewhat, and the others will probably start to notice as well in the next few weeks.”
+
+Curiously, I touch my face and look at my hands, but I don't see it. Maybe it's a case where you don't see your own weight loss because you see yourself daily in the mirror, whereas someone else meeting you after weeks or months notices it right away.
+
+The only reason I can think of, and the one that feels the most logical, is the current state of my body and the stat imbalance beginning to show outwardly. Well, not like it matters that much. If my plan goes well, it won't be a problem for longer than a couple of years.
+
+But to Tess, I answer with a simple shrug, which she accepts.
+
+We stay quiet for a while, and I begin to replay the way Adrian fought in my mind. I don't think he was as powerful as Ignis, but his [Mirror] and his use of empathy seemingly allowed him both to stay alive and to hold off a vessel of one of the Rulers.
+
+But that creates a bit of a problem for me, he’s already stronger than I expected, and he’ll only have more time to grow before my tutorial ends.
+
+Maybe things will change before then, and we won't clash right after the tutorial as I expect, perhaps we’ll get a few more years of enduring each other on Earth. Though I suspect it would be too naive of me to expect him to let me grow any stronger.
+
+There’s still a chance some arrogant part of him will continue to believe he can handle me and that he’ll simply grow stronger faster than I will. The problem will be what he does once he believes I'm at risk of overtaking him.
+
+Knowing his personality, he’ll immediately turn into a spiteful little shit. I think Adrian is someone who can be reasonable, even try to act nice and generous when he thinks he’s fully in control. But once someone steps up against him, or if things don't go his way, he’ll turn unpredictable and dangerous. As Ruby said, he’s broken, and everything he does is driven by pure inertia without him even realizing. His Project Sundial is just more proof of this, meaning that even if I kill him, things may still go to shit.
+
+I could probably do some trickery with my subminds and hide some of my emotions to trick him into giving me more time, but he already knows that I'm capable of that, so he’ll already be careful about it.
+
+More and more, it’s starting to seem like our clash is inevitable, and I think I feel relief about it. Because I really do want to kill the guy.
+
+I despise the fact that some weird ass, thousand year old creep is roleplaying as an Earthling. I don't care that he’s spent more years on Earth than me and Vic combined. I also don't care that he could be useful in protecting it, Vic already took care of a big part of that. And I hate the fact that he betrayed and killed Lioren, as silly as that may be of me.
+
+With Project Chestplate currently being worked on by Crimson Forge, the way I’m growing the Fragment of the Nameless... I mean the Mana Tree, and a few other preparations, I think I’ll have a chance, but it’s going to be costly. Still, even then, it should offer a new opportunity. A beautiful fuck you to the system and to a few others in particular.
+
+Deciding that everything’s been going pretty well so far, I allow my legs to swing a little as I watch the extremely hot desert and a few ships belonging to some Corporation or other as they fly on in the distance.
+
+A few times, I open the Community, but like before, I’m still being bombarded with thousands of messages. It has slowed down, though, which makes me wonder if the Community has been limited to a few messages per second.
+
+I close the screen with a heavy sigh, staring out at the nearest floating hunk of corporate metal.
+
+"Assholes," I mutter, pointing at one of the ships.
+
+Tess looks over, an eyebrow raised, but catches up maybe too quickly. “Are we starting an alphabet game? On top of a tower in the middle of a corporate-owned death desert? Sure.”
+
+She just keeps her eyes on the desert below, her legs mimicking my rhythmic swinging. Tess doesn't even blink. "Bastards. The whole board of directors."
+
+"Canyon," I supply, pointing toward the deep, jagged crack cutting through the red dunes a few miles out.
+
+"Dust storm," Tess counters smoothly, nodding toward a swirling orange cloud in the far east.
+
+"Erosion," I say, rubbing my temples as I look at the bizarre rock pillars dotting the wasteland. "Those pillars look like they're barely holding up."
+
+"Flats. The salt plains stretching out past the dunes," she says, squinting against the light. "Glint. From whatever metal scrap heap is burying itself in the sand over there."
+
+"Hey, no double-lettering," I grumble. "Heat. It is too hot here."
+
+"It is,” Tess says, giving up on the game and, by all possible rules, leaving me victorious. “But I'm too curious. Do you mind telling me how your expedition with 'the boys' led to all this?”
+
+I give myself a moment to organize my thoughts, and as I go over all that happened, it quickly resolves into a ridiculous mess. But ever excited to see Tess's reaction, I get started explaining everything to her.
+
+Then, a few minutes later, I stop and stick out my chest proudly.
+
+“Devil worshipers in the rookie city on the second floor?” she mutters.
+
+“Yup.”
+
+“Leviathan Fish?”
+
+“Yup.”
+
+“A Dhampir left broken after who knows how many deaths and resurrections, and drinking the blood of a dead god whose body serves as some sort of keystone they used to build the first floor of beyond?”
+
+“Yup.”
+
+"According to your words, the cool as fuck fight that almost ended in a draw, against Nyssa Volare?"
+
+"Yup. Yup."
+
+“Lissandra hijacking your teleport to the surface and pulling you to the twelfth floor, and placing you in a mental training space, after which you’re still annoyed you didn't endure a day longer?”
+
+“I could have done it.”
+
+“Sure you could. And then the Games, the Elf making an appearance, the resurrection of a long dead godking, and Lissandra, according to your words, finds herself unable to leave and go to Xyphos, so she drags the whole damn place to her instead. And now the wyvern is likely keeping us, the Corporations, and everyone else on Xyphos hostage while calling in even more wyverns.”
+
+“I wouldn't be surprised if a dragon showed up. I want to see a dragon one day, Tess.”
+
+“I'm not saying I'm not interested. There’s something majestic to the way we perceive “fictional” dragons on Earth, and seeing one in the flesh...”
+
+“See?”
+
+Tess shakes her head and thinks it over, muttering, “But now your sister’s gone and done it. She must have been in contact with a replica of the Last Elf for a while, and he either persuaded her to join the Game or got really lucky with her choice to attend.”
+
+“Her handler is probably sweating bullets right now,” I nod.
+
+“One of the Rulers?”
+
+“Nah, she got the Ruler of Greed at first, but quickly asked to change handlers, and now she’s working with some powerful Absolute.”
+
+“Not too unexpected from her. And am I correct to assume that protection from the Starless Sky doesn't apply to pairings?”
+
+“I would say not, as it was more or less caused by an… Earthling. Don't ask, I can't tell you any more.”
+
+“I won't,” she nods, and then chuckles shortly. “Still, it's a bit annoying to see Victoria, Christoph, and even you doing things that’ll influence Earth, while I'm just watching from the sidelines.”
+
+"Right?" I nod. "But hey, you and the rest of the group are still going to have to get stronger."
+
+"How much stronger?"
+
+I give it some thought and then look back at her. "Much stronger, I would say. I mean, other than Vic, Tacita, Savi, and Jean, there shouldn't be anyone on Earth even close to your level."
+
+"Hmm, that should be more than possible. By the way, do you see her?"
+
+"Yup, I'm surprised you can see her too. Your [Farsight] is weird. Shouldn't it just allow you to see into the distance?"
+
+"It evolved. It's called [Telesthesia] now."
+
+"I have no idea what that means."
+
+"Me neither. We'll have to ask Kim when we get to him."
+
+"Yup." I nod, and alongside Tess, I watch as Tacita makes her way over to us, shielded by her field, not caring at all about the Ruler of Diligence begging for us to stay in one spot.
+
+She moves with that signature, effortless ease, making her look like she was simply born to run. Every leap is mesmerizing to watch, like a seamless blend of a lethal apex predator, the instincts of human biology pushed to its absolute peak, and an almost childlike joy radiating from her entire being as she blurs across the desert. There’s no wasted effort or heavy breathing, just the terrifyingly smooth rhythm of her movements that blurs the line between lethal and pure joy.
+
+I can safely say there’s a beauty to the way she runs.
+
+Without so much as slowing down, Tacita runs right up the side of the tower and reaches the top, and her field disappears. There, she stops with a smile and waves. She begins to draw something in the air when she suddenly freezes and looks to my side.
+
+Using everything I have, I weave kinetic energy and mana based reinforcement, and at the cost of damaging my own body, I grab the glowing red dagger.
+
+Only a split second later, Tacita passes right through where it was. She then circles around and stops in front of me again with a furrowed brow, clearly unhappy, and keeps glancing at the dagger.
+
+"You already stole a key from Lyraen and Tess. You won't be getting the dagger." I say.
+
+Tacita looks confused, glancing over at Tess, who mutters, "I passed the information to her through Lily so she could steal the key."
+
+That causes me to look at the blonde next to me, who doesn't seem sorry even for a moment and just gives me a lazy smile.
+
+"It's better if someone from Earth gets it instead of him," Tess says simply.
+
+A soft squeak brings my attention back, and I watch as Tacita steps closer. She is clearly torn, a silent battle playing out across her face, but between two of her fingers, she gently pinches the scruff of a golden baby ferret.
+
+The tiny creature looks like it just woke up, blindly squinting into the harsh desert light and letting out a yawn during which I see its tiny, cute pink tongue flick.
+
+As if she absolutely cannot endure watching it, Tacita stretches out her hand, offering up the tiny baby ferret like a hostage for negotiation. Then, with her other hand, she points a demanding finger directly at the glowing red dagger.

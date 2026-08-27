@@ -1,0 +1,125 @@
+---
+id: 0c5d71c2-58a2-5b02-9e94-e293c92acf9f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2"
+slug: 0002-chapter-2
+partOf: hell-hound-evolution-litrpg
+position: 2
+ownLength: 1605
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/2525632/chapter-2"
+royalRoadId: "2525632"
+---
+
+Chapter 2
+
+I awoke one morning to a high-pitched howl. Where before, I and my siblings mostly yipped, our voices were developing and finding new ranges and sounds. The howler in question was my energetic brother, Luke, who loved to pounce on me when I wasn’t paying attention. I had been learning to distinguish my brothers and sisters apart and gave them all names to make that easier. Even though I didn’t have a name for myself yet.
+
+A few others joined in, but I was too tired for all of that. I was hungry, so I made my way over to Mom and decided to check my stats on the way to see how my development was coming along.
+
+Name: ???
+
+Species: Hell Hound – Stage 1 Pup
+
+Level: 1
+
+Body Development: 82%
+
+Skills
+
+Enhanced Smell LV1
+
+Basic Fighting LV1
+
+I was satisfied to see it had jumped up quite a bit. At this rate, I should be hitting 100% in no time. I noticed it usually increased a little whenever I ate and always gave a good jump whenever I woke up in the mornings. I wonder what will happen once I do hit 100%? It’s hard to keep track of the days, but I think I’ve been alive for about three weeks at this point.
+
+I also wondered about my name again. While my thoughts were in English, I’m not sure that any of my dog family knew English or any proper language, so I was unlikely to receive a name from my parents. Maybe I’d be able to pick one for myself later? This also made me suspect that I was unique in being a reincarnated human.
+
+I once tried to test my uniqueness by drawing the word “Hi” in the dirt with my paw, but other than a little curious sniffing, it did not seem that either my siblings or mother could read it or even recognize it as writing.
+
+Dad, I didn't get to test it on him, as he only stopped by to drop off food from time to time, or occasionally he'd stick around for a short while and watch us play. I think he spent most of his time outside hunting, and even at night, I think he stood guard in front of the cave. The few times I tried to venture outside the cave to look around, Mom promptly grabbed me by the scruff of my neck and pulled me back.
+
+I also wondered about skills; since I had learned two pretty easily, I thought more would come by now. Maybe once I was bigger and got to venture outside the cave, I’d get more opportunities to learn some.
+
+As I made it over to Mom, I noticed she was lying on her stomach instead of on her side. I nudged her, trying to signal her to roll over so I could eat. She looked back at me with no reaction, so I gave her a demanding “YIP!”
+
+She still didn’t do anything, so I nudged her again. This time, she reached over with her muzzle to scoop me up. I tried to dodge, but her paw came down on my tail to keep me in place as she snagged my scruff.
+
+I glided through the air, legs dangling, until she set me in the middle of my siblings.
+
+What? No food? But I’m hungry!
+
+Luke, ever the opportunist, attempted a spawn camp as he pounced for me the second Mom let go. I was growing used to his habits, however, and easily dodged. I ran between Lilly and Iris, breaking away from the group and going right back to Mom’s tummy, where I pawed her side again.
+
+This time, she lowered her head and growled softly, baring a fang on one side of her mouth.
+
+What? You’re scolding me now!? You’re not being a very good Mom, you know. I’m hungry!
+
+She pushed me with her nose, guiding me back to my siblings, and I yipped back in frustration.
+
+Then, there was a familiar rumbling and darkening at the cave entrance as my monstrous, three-headed father entered once again. A little earlier today than normal.
+
+This time each of his three mouths held something. In one was a full boar, in the other it looked like a bunch of bloody cotton balls until I noticed a flopping ear from between his fangs and realized they were rabbits, and last was one that truly made my stomach gurgle.
+
+He dropped the severed head of a deer on the cave floor with a wet plop. Then he nuzzled the side of Mom’s face as his other head chewed the boar with a wet squishing sound. Gee, how romantic…
+
+As he dropped the dead rabbits, my brothers and sisters ran over, excitedly yipping. Ben and Jerry instantly seized the same one and started fighting over it, pulling its head and feet and growling softly at each other.
+
+Oh, and don’t ask me how I chose names for my siblings. In Ben and Jerry’s case I was probably just thinking about ice cream at the time.
+
+Ice cream is one thing from my last life I knew I was going to miss.
+
+As for the mauling of dead rabbits, I didn’t join in on their excitement. I simply stared at the carnage unfolding from the other end of the cave with my tail limp between my legs.
+
+I get that I’m a dog now, and it’s normal to eat raw meat, but I need some time to adjust to something like that! I'd barely gotten used to drinking milk and I was not ready to be weaned yet! You can’t just cut me off cold turkey and expect me to eat… to eat… THAT!
+
+I turned away, tail drooping, and padded to the far corner of the cave where I could be alone.
+
+It had been a tough morning. Not only was I denied breakfast by Dog Mom, but I realized, not for the first time, that I don’t belong here. I was once a human, and I have human memories. Granted, my old life has become more like a half-remembered dream, but I still remember what a dinner plate looks like. Macaroni and cheese, tatertots, and meat that was actually cooked and seasoned! Even a pile of vegetables would be preferable to the raw, bloody mess my new family was gorging themselves on.
+
+What am I going to do? I sulked.
+
+Then I heard the sound of soft paws padding up behind me. It wasn’t Luke, he never did anything calmly. It was followed by another small wet plop.
+
+I looked over my shoulder to see Iris sitting on her haunches with a dead rabbit between us. Her tongue was out of the side of her mouth with some traces of blood on her teeth and dripping off her muzzle, panting softly with an expression that almost looked like a smile.
+
+Oh, Iris. You really are a good egg, aren’t you? But I don’t want that!
+
+Iris’s head tilted slightly in confusion. When another moment went by without me accepting her offering, she whined and leaned down to push the rabbit forward with her nose.
+
+I looked to the wall again, hoping she’d understand and go away. However, an anxious yip from my sister had me turning around to face her.
+
+She pawed at the ground, panting, looking to the rabbit and back up to me anxiously, obviously telling me to have some. This seemed a rather urgent issue to her.
+
+Part of me clung to the hope that if I remained stubborn, Mom would give in and let me have more milk. I looked past Iris to see Mom and Dad practically nose to nose as they feasted together. Dad’s other two heads were watching inside and outside of the cave, respectively. The rest of my siblings were partaking in what any rabbit would consider some dark demonic ritual as they happily tore the small furry creatures apart.
+
+I huffed and looked down at the rabbit Iris offered me. Unless I learned some kind of fire skill at some point, I wouldn’t be getting any cooked meat. Like it or not, this is as good as it was going to get. As my stomach let out a low, involuntary groan, I knew I had no choice.
+
+I opened my mouth, leaning down to bite the rabbit. It wasn’t even skinned or anything! Was I supposed to just eat the fur too?
+
+I sank my teeth in, the metallic taste of blood finding my tongue, and with a bit of effort and support from holding it down with my paws, I managed to tear off a bit.
+
+I grimaced, chewing slowly. A mix of bunny fluff and cool, bloody meat mashed between my jaws.
+
+The blood… wasn’t as bad as I thought. Actually, it tasted quite refreshing on my tongue. Still, the texture was god-awful—cold and squishy. I doubt any human understands just how much they take cooked meat for granted.
+
+All the same, I finished chewing and swallowed. Iris yipped happily, her butt wiggling back and forth with her tail as she stayed seated.
+
+Then, that voice popped up in my head once again.
+
+[Achievement! First taste of blood!]
+
+[Strength increased]
+
+[Sense increased]
+
+[Bonus development awarded!]
+
+Congratulations! You have reached 100% development! Pup Stage 2 unlocked!]
+
+Wow! I jumped up almost twenty percent from just a little bit of meat? Or was it because the achievement gave me a bonus?
+
+Then the next message truly sent my butt wiggling.
+
+[You may now choose an evolution path!]

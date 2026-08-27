@@ -1,0 +1,205 @@
+---
+id: ecc12407-cf79-566e-a18a-4d7c08846b6d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 962: I Know What You Are"
+slug: 0029-chapter-962-i-know-what-you-are
+partOf: he-who-fights-with-monsters
+position: 29
+ownLength: 2916
+unit: words
+ownProgress: 2916
+publishedAt: 2025-02-12
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2063555/chapter-962-i-know-what-you-are"
+royalRoadId: "2063555"
+markedReadAt: "2026-06-29T19:04:47.495Z"
+---
+
+The first people from Earth to visit Jason’s astral kingdom had been a trio of government officials and the security team that came looking for them. After their experiences, they had been subject to every test that could be devised, be it magical, technological or both. There were no signs to be found of mental manipulation, pod people, shape-shifted replacements or any other scenarios that could be tested for or imagined. For many, wary of Jason’s magic, this was not enough to confirm he hadn’t done something to them.
+
+The main reason doubts persisted was the attitudes of those who had entered Jason’s realm. While the specifics varied, each one held some variation on the same positions. Their explanations of what lay on the other side of Jason’s portal sounded absurd. Whole planets, godlike power. Whatever Jason Asano might want from Earth, he had no need of it.
+
+A more formalised expedition into the astral kingdom was arranged. Compared to the previous impromptu visit, this one had representatives from across the globe. Intelligence officers were accompanied by geologists, biologists, anthropologists and anyone else with some potential insight and a security clearance. Jason left the group to the Concierge to guide, as he had the last. While that was going on, Jason was walking with his soul realm’s longest-serving resident, from a time before it even was an astral kingdom.
+
+Melody Jain, Sophie’s mother, was in recovery after a surgery to remove the substance that had been influencing her mind for decades. It had robbed her of her autonomy and of her family. The process of removing it had been a savage trauma that only Jason’s control over his realm allowed her to survive. After a lengthy coma, she was back on her feet. She used them now to make her way through the tree city of Arbour, with Jason strolling beside her.
+
+Melody, like Sophie, was a beautiful, silver-haired celestine. Although she had physically aged no more than her daughter, there was a weariness to her that spoke to the hard years she had lived. She wore a simple linen shirt and pants and wandered barefoot, unconcerned about the scattered leaves and dirt over the stone streets and pathways. Jason was similarly garbed, the natural colours of his clothing a contrast to his usual garishness.
+
+The metropolis was a living forest, but with open thoroughfares, and buildings of wood and stone that blended into the surrounds. In place of underbrush were wide boulevards, dappled with light filtering in through the canopy. Small gusts of wind swept up fallen leaves and carried them away in swirling dervishes, dancing like street performers. Roads and pathways of hewn stone meandered around trees and buildings.
+
+Above them, buildings were anchored to gargantuan trees, connected by hanging bridges and stairways that wound around the trunks. There was even a wooden track for a light rail system that snaked through the upper reaches of the trees.
+
+Natural scents floated on the breeze; grass, wildflowers and earth. Jason took a deep breath and sighed happily.
+
+“I’m very happy with how this turned out,” he said. “I understand how you might want to escape after being here so long, though. I’m sorry it worked out that we are on Earth and not Pallimustus, now you’re finally able to leave.”
+
+“I shouldn’t complain too much. Not many get to explore an entirely different world. Nothing new to you, I suppose.”
+
+“It still feels fresh,” Jason said. “There’s always a new horizon. Once things have settled, we’ll get you out and about.”
+
+“Sophie has been so excited about travelling together,” Melody said. “It’s almost like I’ve got the little girl back I never got to see her as. Maybe she feels it too. But I’m in no rush. This is a big world too, and it’s been my home longer than anywhere else. It was haunting, at first. This huge, empty place, waiting for people who never came. And it keeps changing. The world, and this city, especially. Growing, like a garden. Only in the last year or so has it really settled down.”
+
+“People will come,” Jason said. “You’ve seen New Water.”
+
+“Why didn’t you bring those people from Pallimustus to the tree city? You made them a new one instead.”
+
+“A couple of reasons. One was that I wanted them to be somewhere familiar. I couldn’t recreate their city, but I wanted it to at least feel like what they knew. Another was that this place is earmarked for others.”
+
+“Oh?”
+
+“With normal astral kings, the ones who were originally messengers, things work the same way for all of them. Those of us who become astral kings through less conventional means find that we each have little quirks we need to figure out.”
+
+“If you say so. I’m not well-versed on any of this.”
+
+“Neither am I, to be honest. I find myself in a learn-by-doing situation. For example, normal astral kings create an astral kingdom, much like this one.”
+
+He gestured at the space around them.
+
+“So far, so good, then.”
+
+He chuckled.
+
+“Yeah,” he said. “Now, when it comes to populating their astral kingdoms, that’s when the normal processes get a little wobbly. An astral kingdom creates special trees, but they won’t grow beyond saplings. They have to be transplanted, out into broader reality. The birthing worlds, where messengers grow more messengers. Like fruit, to be harvested.”
+
+“Harvested?”
+
+“Astral kings create messengers for two reasons. One is to have an army of compliant minions, and the other is to drain them for power.”
+
+“It doesn’t work like that for you?”
+
+“Not the growing part. I’m not sure about the building power part, but I’m not going to juice people and drink it.”
+
+“Can you get power without doing that?”
+
+“I don’t know. I’m unsure how much of the difference between myself and other astral kings is my not being a messenger. I suspect that many of the changes come from this city having its own soul. It began life as a warped version of a birthing tree, after all. It’s already working differently. Extensions of it are growing across the planet. Not saplings, or even full-grown trees, but entire forests.”
+
+“The city has an avatar form, does it not? Have you asked it about this?”
+
+“I have. Like me, Arbour is finding their way through what is happening to them, learning as they go.”
+
+“And you think that these forests will grow new messengers? Here in your soul realm?”
+
+“It’s happening already. These forests, they’re full of… pods. Sooner or later, messengers are going to start popping out like peas.”
+
+“Are you ready for that?”
+
+Jason’s laugh had a tinge of panicked mania.
+
+“For an army of ten-foot-tall newborns with silver-rank power and wings? No, I am not ready for that. I’m still stumbling through being a parent to one adult.”
+
+“How are things with Nik?”
+
+“Good. I think. Kind of. He just met his extended family. Magic and circumstance kept us apart for so long, and we’re still feeling our way through. You know what that’s like, so I was hoping you had tips.”
+
+“Mostly a list of mistakes.”
+
+“I’ll take it.”
+
+They strolled through the city, discussing what it was to be an unconventional parent in very unusual circumstances. In their wanderings, they encountered many of the tree city’s unusual aspects. Natural and magical forces came together to shape the city, defining the oddities of its geography.
+
+Arbour was located in the vast caldera of a volcanic mountain range, in the icy north of the planet. Geothermal heat and ambient magic conditions created a temperate zone, hidden away in the mountains. There were massive underground districts, deeper even than the root systems of the massive trees. These included access to huge magma chambers that were half constructed brick, half natural cavern. Magic set into the stone made the heat bearable and the air breathable. The stone was warm, but not hot under their bare feet.
+
+“It’s beautiful, but quite ominous,” Melody said as the crossed a stone bridge that spanned over a flowing river of magma. “All this dark stone and fire.”
+
+The light of the molten stone painted everything red. While Jason enjoyed feeling like a video game dwarf, he led them back towards the surface. He aimed for a place that was his favourite in the city, possibly in the entire astral kingdom.
+
+A massive gorge marked the city like a scar. The sheer sides were draped with trees like tapestries, houses of wood and stone poking out through the leaves. The river running through the city erupted over the clifftop, the deluge filling the gorge with mist as it cascaded down and into the cave systems below.
+
+The buildings set into the side of the gorge were part treehouse and part volcanic stone, no two quite the same. Some hugged the walls, with tunnels carefully avoiding root systems as they wound through the rock. Others had wooden platforms jutting into the gorge, shrouded in cool, refreshing mist. Hanging bridges spanned the gap in places, connecting buildings on one side to the other.
+
+In the depths of the gorge, the falling water filtered into a cave system of interconnected grottos. The grotto water was impossibly clear, courtesy of magical filters, and submerged crystals lit up the caverns with shimmering teals, blue and greens. Catwalks gave easy access to the cave system, where artificial chambers had been carved out to make communal spaces.
+
+These areas were subterranean gardens, luminescent plants growing out of the walls. There were playgrounds and picnic tables, and public barbecues set up under well-hidden and carefully placed smoke vents. A fresh breeze blew through the cave system, taking the edge off the warmth of geothermal rock.
+
+“This is one of my favourite spots,” Jason said, joyfully playing tour guide. They were in a water-filled grotto, on a wooden catwalk set into the wall. He pointed out places where kids — or childish adults — could jump into the water, and then get back out to one of the picnic areas. The whole chamber was awash with cerulean light, shining from the water. It gave the whole chamber a sense of being underwater.
+
+“There are animals in there as well,” he pointed out. “You can swim with fish and turtles.”
+
+They emerged from the grotto caves at the bottom of the gorge. It would be easy to fly upwards, but they took stairs carved directly into the stone, zigzagging up the walls. It was an indirect and inefficient path, weaving between trees and houses. Sometimes the path took them into tunnels briefly, before returning outside. The sun was high in the sky, its light painting rainbows in the mist from the waterfall. Droplets of spray sparkled like diamonds as they tumbled into the depths of the gorge.
+
+“It doesn’t seem like a wildly practical space,” Melody pointed out.
+
+“There’s always flying,” Jason said. “This is designed as a residential space for high-rankers. There are more efficient thoroughfares carved into the rock, though, behind the houses and past the roots of the trees. Direct tunnels, elevating platforms. There’s a large transit station behind the waterfall. It’s one of several hubs around the city, mostly underground to avoid interfering with the trees. I do have a wooden train that can run above ground in some areas, although that’s also more about the experience than pure practicality. You’ve seen the tracks, I’m sure, but I haven’t fired up the train yet.”
+
+When Jason had met Melody, she had been sharp, fanatical and brainwashed. He could never have imagined then the motherly smile she gave him now.
+
+“Look at you,” she said. “It turns out that the all-powerful god of this world is really just a boy playing with toys.”
+
+He grinned.
+
+“I can live with that.”
+
+They reached one of the larger houses, featuring a large deck, supported by multiple trees. It was close enough to the waterfall to have a refreshing coolness to the air, but not so close to be painted wet by the spray. There were three barbecues, and a pair of picnic tables that could host a large gathering. Hanging from a branch was a porch swing, from which a visibly nervous leonid stood up as they approached.
+
+“My next appointment,” Jason said. “Would you like me to portal you home?”
+
+Melody lived in a treehouse, built around one of the tallest redwoods in the city. It was close to where Carlos had been set up with his research centre, and Melody’s fellow brainwashing victims.
+
+“I think I’ll walk,” she said. “Even after all these years, there’s still so much I’ve never seen.”
+
+She wandered off and Jason walked over to Gary. The young man wasn’t large by leonid standards, half a head shorter than Taika. Even so, he loomed over Jason, making his timid body language somewhat comical. Jason gestured at the porch swing Gary had just vacated, then sat. After a moment, Gary did the same. Jason didn’t rush to speak, giving Gary time to work up the courage. Instead, he took in the view with a contented sigh.
+
+“I…” Gary attempted before trailing off.
+
+“You don’t know what it’s like, sitting here,” Gary said.
+
+“I am sitting here,” Jason pointed out.
+
+“Yeah, but you’re sitting here with me. I’m sitting here with you.”
+
+Rather than respond, Jason gave Gary time to gather his thoughts and continue.
+
+“I’ve been surrounded by your power my whole life,” Gary explained. “The ground I walked on, the sun in the sky. It was always there, underpinning everything, but I never realised it. It was just the way things were. It was only when I left that I realised it, by its absence. Like some fundamental part of the world was missing. We’re in another universe here, but it feels more like home than Australia.”
+
+“I’m sorry you haven’t had the chance to expand your horizons.”
+
+“That’s not… you’re a person.”
+
+“I like to think so,” Jason said.
+
+“I’m not explaining this well. Mr Asano, after leaving the clan’s territory, I suddenly find myself very aware of the power that has been around me my entire life. It feels like home. The place I belong. And then there’s you. A person, radiating all of that power. The source of it. I can feel it coming off you like a wellspring.”
+
+“It’s just an aura.”
+
+“No, it’s not. I’ve felt auras. Strong, well-trained, gold-rank auras. Being here isn’t like sitting next to Mr Williams, or Mr Remore. It’s like sitting next to God.”
+
+Jason let out a sigh.
+
+“Is that why you asked to see me, Gary? You think I’m God?”
+
+“No. I know what you are. Emi explained it to me. But that’s what it feels like. And, since this is as close as I’m every likely to get, I was hoping you might be able to answer a question that I’ve had for a long time.”
+
+“And what’s that?”
+
+“Why am I different?”
+
+“Everyone’s different, Gary, to one degree or another. You’ll have to be more specific.”
+
+Gary nodded.
+
+“People treat me differently,” he said. “Not always, and not everyone, but some people. Mr Remore has always been there, helping me and guiding me. Not many get that kind of attention. At first I thought it was because I was the first natural born leonid, but there are others like me. Kids of the transformed. They didn’t get that much attention. And the way he looks at me sometimes, it’s like he’s seeing someone else.”
+
+“Not seeing someone else. Just remembering.”
+
+“The other Gary? The one I was named after?”
+
+“Yes.”
+
+“Do I look like him?”
+
+“No,” Jason said, then waved his arm.
+
+A scene appeared in front of them, of people gathered on a grassy area, overlooking a tropical lagoon. Gary recognised Jason, Rufus and many others he had met in the last week. His eyes, however, were drawn to a towering leonid in front of a grill. The man was holding a set of tongs, and wore an apron that read ‘adventuring is more fun when you eat the bad guy.’ It was in one of the Pallimustus languages Rufus taught.
+
+The image was silent, but as the man threw back his head in laughter, Gary could almost hear the booming sound of it. He wasn’t sure how long he sat, transfixed, watching the man silently talk and laugh and eat the entire roasted leg of some giant bird-like creature. Gary was startled when the image vanished.
+
+Once again, Jason waited until Gary finally broke the silence.
+
+“Before I was born, Mr Remore used to tell stories about him. That’s why my parents named me after him. But he doesn’t tell those stories anymore. Not ever, even when I asked. Do you know why?”
+
+“I do.”
+
+“I thought that maybe I was imagining things. Maybe it was because I was a leonid that Mr Remore gave me so much attention. Why your family included me in so many things. Gave me so many opportunities. I know the clan wants to be more inclusive. To not make it about just your family. But then I said that I wanted to see you. To talk to you, and three hours later, here I am. There are people who run countries who can’t do that. I’m different, and I don’t know why. Can you tell me?”
+
+Jason let out a long, slow breath.
+
+“Yes, Gary. I can.”

@@ -1,0 +1,65 @@
+---
+id: 50044c01-1c15-5bdb-af06-b283d64deee6
+page-type-slug: story-chapter-royal-road
+title: "163. Broken Core"
+slug: 0163-163-broken-core
+partOf: god-of-trash
+position: 163
+ownLength: 2034
+unit: words
+publishedAt: 2025-08-22
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2539566/163-broken-core"
+royalRoadId: "2539566"
+---
+
+It was frustrating that the solution was right before his eyes. If his core wasn’t broken, he would have no problem compressing his mana. He could cultivate this energy like normal, and everything would flow on down the line. Instead, he had to figure out some alternative route, because if he squeezed down he squeezed all the energy out into the void like he was squeezing mayonnaise onto a burger. It simply wouldn’t work.
+
+He could try repairing the hole in his core and then go from there, but that cut off his access to the void. That was probably the right answer, but the void was so tantalizing. And not only that, but it was disregarded and considered trash, and essential for his plan to take down the Empress, draft 7 of who knew how many. He really didn’t want to give up on the void. But that meant that he needed another way to progress his magehood, another way to build up, compress, and polish mana.
+
+Turning his attention to the hole in his core, Rhys pinched his chin. I guess… I could plug it? It was kind of a trashy solution, and definitely not a permanent one, but pushing off his problem until later sounded like a today kind of solution. He could progress his magehood, and figure out how to permanently fix the hole later. Or not. Maybe he’d just have a permanent void access chute in his core, and build a plug whenever he needed to compress mana. It was kind of inconvenient, but it let him do every thing he needed to do when he needed to do it. Sometimes, things couldn’t be perfectly convenient. Sometimes, he needed to make compromises until he could come up with a better solution later.
+
+Rhys pondered for a little longer, then sighed. Now that he’d thought of the temporary plug, he couldn’t think of anything else. The thought loomed large in his brain. He had to try it and see if it worked, so he could move on to the next one. Or not, if it worked.
+
+He started to pull material from the trash star to form a plug, then paused as a new thought came to him. He’d been compressing energy until now, but that was for his first two stages. Was it the same for the third stage? He’d been compressing energy into gold cores, back when he’d been whole and had a core, but had that been the right choice? For that matter, was it the only choice? He didn’t have a conventional core anymore, nor was he collecting mana the conventional way. Why should he progress the conventional way? Did that even make sense for his new paradigm?
+
+Rhys crossed his arms, thinking. He tossed a big piece of material at the hole, just to test it, but perhaps as he’d suspected, it vanished into the void. The hole from his core to the void was only the size of a pinprick, but it could store huge amounts of material and energy; if size mattered to it, he wouldn’t have been able to use it as a freeform overflow zone the way he’d been doing.
+
+A plug wouldn’t work. But as he’d realized, he had a whole new kind of core here. A totally new concept. The trash star didn’t grow via compression and compaction, but via feeding more and more material into it, which caused the trash star to compress the material on its own, under the weight of its own mass. The energy wouldn’t enter the trash star because it wasn’t trash, or maybe because it was energy, and lacked mass. But there had to be some way to convert it into trash. Something he could do to make the trash star accept the energy. Stars had energy, or rather, they gave off energy. It was the trash part that was failing, because although the people were trash, and he could suck their energy out of their bodies as a result of that fundamental truth, he still recognized the energy he’d drawn out as valuable. He could still manipulate it, the way he could manipulate any energy, and if he used it for a trash objective, like creating cores for the people the Empire had discarded, he could freely manipulate it with all the dexterity his path afforded him. However, he couldn’t treat it like trash and freely handle it to any end, because it simply wasn’t trash, and no amount of mental gymnastics could make him see it as worthless.
+
+Rhys frowned. He spun his hand, swirling the energy around. It was frustrating to have all this mana and no way to meaningfully handle it. Aside from building cores, which was highly meaningful, but didn’t help him advance, and his advancement was just as important as building cores, since if they didn’t have a high rank member, they’d simply get wiped out to the first Tier 4 to take the battlefield. It was a truth of this world: people at lower tiers struggled to fight those at higher, and those at higher could often freely slaughter those at lower. Tiers were simply too strong of a power difference. Neglecting his own strength to focus on growing followers or growing his followers’ strength was a sure way to lose, since even if he built a second Tier 3 out of all this free mana and successfully installed it in one of his followers, a single Tier 4 or Tier 5 could take them out as easily as wiping their hand across a blackboard. As confident as he was in his trash manipulation abilities, he was pretty sure he couldn’t craft a Tier 4 core as a Tier 3 mage, and on top of that, he was also more or less certain that none of his followers had been Tier 4 before the collapse of their region, since they would’ve been valued enough by whatever organization they belonged to, at Tier 4, to be evacuated, or strong enough at Tier 4 to fight their way out.
+
+No, none of his followers had been Tier 4, and likely not at the brink of it, either; in fact, he’d be lucky to count a Tier 3 among their number. Since he didn’t know how to implant a higher level core into a lower tier body without exploding or otherwise causing egregious bodily harm to the lower-tier body, he couldn’t simply focus an underling up to Tier 4. He had to grow himself. It was the only option.
+
+Not that Rhys had really needed that much convincing. He liked getting stronger and being the strongest. Who didn’t? Was there anyone in the world who’d say, ‘nah, I could be stronger, but I’d rather make you stronger instead,’ and really mean it? Even the most dedicated teachers were ultimately people who had reached the apex of what they could achieve and then chosen to pass on their skills rather than keep training them, with diminishing returns in their face, or people who had reached the apex only to have it stolen away form them by age, new tactics, or injury, and now could no longer contest for the apex. He had nothing against teachers, but if they were really, earnestly, honestly given the choice to strengthen themselves even further instead of growing their students, he was a hundred percent sure that they’d all chose to strengthen themselves. It wasn’t even hypocritical, it was simply a good idea, both selfishly and selflessly. A stronger person could in turn tutor more people further. A stronger person could protect more, weaker students. No matter how he looked at it, gaining strength was good. And in this particular case, it was extra double plus good.
+
+So how do I turn this collected energy into strength? He should’ve done the hard part already: gathering the energy. All that was left was the easy part: turning it into his energy. Except that wasn’t easy, because no one had ever thought about turning mana into trash and feeding it into a giant trash star before, so there was no manual, and he was struggling to come up with an answer.
+
+There was a simple answer, of course. He could slowly feed the energy into the trash star. The trash star would burn the energy away slowly and convert it into whatever powered the trash star. It was doing it right now, even without his direction. The only problem was that it took far too long, and the conversion rate wasn’t great, either. The amount of energy he had could likely take him to Tier 4, or at least close, but if he let it all burn into the trash star, it would simply keep the trash star burning at its current rate. Maybe it would increase the trash star a little, but what it wouldn’t do was increase the trash star a lot. Tier 4 was far beyond his reach with the current method of absorbing energy.
+
+There had to be something better.
+
+Against his will, Rhys felt his eyes turning to the void. The incomprehensible words of the book came back to him, whispering something in words he didn’t quite understand, but he perfectly understood what it meant anyways. Rather than see the void as the enemy, why not see it as an ally? It could help.
+
+“Help how?” Rhys asked, then rolled his eyes. He was talking to a book, of all things. The book wasn’t going to—
+
+Feed it. Feed the void. The void will provide.
+
+Rhys shuddered. He looked over his shoulder slowly, and caught a glimpse of scribbled words on the surface of his core for a moment. Only for a moment; he blinked, and they were gone.
+
+Holy fuck. What did that book do to me? He’d known it was a bad idea to read the book, but he’d wanted to understand the void, and it had helped him understand the void, to be fair. He had known there would be a price, and he had a sinking feeling that he was paying it right now.
+
+How trashy, honestly. A book with a price. A lesson that cost dearly. Pure trash. He breathed out, then settled himself. Crossing his arms, he stared at the point in his core where the scribbles had been. “So what will the void provide, huh?”
+
+Silence.
+
+“Find out for yourself, is that it?” Rhys pursed his lips. It was a little tempting, but only a little. That big scary monster thing was still out there somewhere, and he was pretty sure that ‘feeding the void’ would call it back to him… or call something even worse. Plus, he wasn’t exactly excited at the idea of being indebted to some spooky book or something. Sure, he was having a hard time right now figuring out how to feed energy into his core, but he’d overcome harder problems before. Surely he could find a solution to this one, even if it took him more time than the void book’s quick cheat.
+
+His path wasn’t the void, at the end of the day. If it was, he probably would’ve jumped at this offer, but since it wasn’t, he wasn’t all that interested. There had to be a better way. Another method to accomplish the goal of feeding the trash star. It didn’t seem like that hard of a problem, honestly. The trash star ate pretty much everything, so he just had to figure out a way to make the energy… anything else. Anything that he could consider trash.
+
+He twisted his lips, thinking deeply. Come on. There has to be something… something…
+
+Abruptly, his eyes shone, and he looked up, then laughed aloud. “Am I actually stupid? No, don’t answer that.” It was so obvious how to turn this energy into trash. It had been staring him in the eyes this whole time. Drawing the energy to him, he turned outside of his core.
+
+If this doesn’t work, maybe I’ll try feeding the void. Maybe. But if it didn’t work, he would be absolutely shocked.
+
+He found what he was looking for and laughed aloud. “Come here, you!”

@@ -1,0 +1,123 @@
+---
+id: 8f8168cf-f2ec-57f7-9b3f-2058a1299912
+page-type-slug: story-chapter-royal-road
+title: "341. Finishing the Fight"
+slug: 0341-341-finishing-the-fight
+partOf: god-of-trash
+position: 341
+ownLength: 2182
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3721401/341-finishing-the-fight"
+royalRoadId: "3721401"
+---
+
+Rhys landed back in the sand as the battle wound down. He hadn’t done much in terms of fighting, just stood back and lashed out whenever a water sprite was looking overwhelmed, playing backline support but not unleashing his full arsenal of backline-support debuffs. Ryota and Aran were both snoozing, proving that they truly were brothers.
+
+At some point after he’d sealed Ryota’s gap and abandoned him on the sand, the servants had run out and retrieved him. His mana signature emanated peacefully from the depths of the castle not far from Aran’s. If he had to guess, both of them had been taken to whatever wing of the castle held the bedrooms. Mages didn’t need to sleep, but that didn’t stop them from building ornate bedrooms. It was probably like mage dining, he had to guess; beneficial to some, or even most, mages’ growth and a luxury rich mages enjoyed, while the poor workmen like him crawled along, sleepless.
+
+He gazed up. It was beautiful beyond the water, bright day, but it could’ve just as well been midnight. At some point, the day/night cycle had stopped holding meaning for him, and he’d kind of stopped tracking it. It was like when he’d gone on vacation as a little kid and hadn’t had any need to keep tracking days of the week, but for a much more obvious, less artificial cycle. It wasn’t like he didn’t notice night happening; it was more like it barely registered as different from day when his body didn’t demand sleep. How many days had it been since he’d been in the forest with Ryota? A few. Some number. He didn’t know. It just didn’t matter anymore.
+
+Beyond the waves, the ships sailed away. Two of them moved nimbly, while the third floundered a bit, crawling along with the hole cut straight through it. If they’d had any further bombs, they hadn’t dropped them.
+
+To be fair, I did kind of steal and then open a vault to get that one. It’s still very possible that it wasn’t a bomb at all, but a core of some other precious thing that they detonated as a self-defense to keep it out of our hands, rather than a proper bomb. If they’d been intending to drop that orb as a bomb on Aran’s house, after all, they wouldn’t have locked it away in a vault in the depths of the ship, they would’ve had it more readily at hand.
+
+On the other hand, that didn’t mean it wasn’t a bomb, either. It just meant they weren’t planning to use it here.
+
+In other words, this was fully and truly a bluff. Fifteenth wanted Ryota here, and sure, if he could take out Aran and Ryota, nice bonus, but what he really wanted was for Ryota to be aware of how weak Aran is to attacks from outside. His intent was to use Ryota’s emotions and conscience to trap him here and remove him from the board, to make it easier to do whatever it is he’s maneuvering toward.
+
+Rhys twisted his lips. It was annoying to face an opponent who was actually playing the same 3-D chess he was. Plans on plans on plans, and the willingness to pivot when things went sideways… I get why people get so pissed at me, now. It makes a lot of sense.
+
+It was an excellent trap, too, because Fifteenth really posed a threat to Aran. Just because it was a trap didn’t mean he couldn’t about-face and come crush Aran if he decided to, if Ryota abandoned his half-brother. If it didn’t annoy Rhys so badly, he’d applaud Fifteenth.
+
+Of course, the piece he’d actually pinned down was Ryota. Rhys liked Aran—the  guy seemed like a good person—but speaking practically, the two of them were strangers. He wasn’t going to give up his life to save Aran, and he didn’t expect Aran to do anything like that for him, either. If Ryota wanted to stay here and defend Aran, and he couldn’t be convinced otherwise, there was nothing pinning Rhys down here as well.
+
+Rhys chuckled. Fifteenth had made a crucial error in not accounting for him. He’d show the man the mistake he’d made!
+
+Though, to be fair, it was the rare plan that accounted for a high Tier 5 expert casually striding in and deciding to take sides in a succession battle that didn’t benefit them in any way. Rhys had to admit that most of his plans wouldn’t have survived that. It wasn’t a failing of Fifteenth’s, in all honesty. It was simply fate, or whatever word people used to describe someone powerful deciding to be nosy.
+
+Rhys stood there, considering for a moment. Did he try to convince Ryota to leave, or just leave the guy here? It wasn’t like Ryota could successfully fight off a serious incursion by Fifteenth on his own. He’d probably just die next time, without Rhys there to help. It’d be hard to convince him to leave, but it was probably worth it just to keep him alive.
+
+Not to mention that Fifteenth wanted Ryota here. If Ryota left, he’d have to change his plans. Villains on the back foot tended to let their real plans slip more easily than villains on their toes, in Rhys’s experience.
+
+It might be that Fifteenth really was just super committed to the succession battle, but Rhys was starting to see the shape of something else behind the curtain. There was no need to bring a bomb-or-whatever to exterminate a rival for the throne. Sure, it would’ve made the attack on Aran so much easier, but one, they hadn’t moved it into place to use it, and two, there wasn’t a single thing they’d done to Aran that had actually threatened his barrier. They really did not actually care about killing Aran.
+
+No—in fact, they wanted Aran alive. This was all about trapping Ryota by threatening Aran. If Aran died, they would no longer be able to trap Ryota.
+
+But why do they want Ryota trapped? Ryota didn’t pose a huge threat to… well, anyone. He was a lone wolf who didn’t have much of a following, if he had a following at all. In terms of succession, he…
+
+Rhys rolled his eyes at himself. That’s not it at all. I’m being stupid. The fierce mana they used in the bomb that reacted with Ryota. That’s almost certainly why they actually want him. Ryota needs to be alive for… whatever he wants. He didn’t have the full picture, but he was definitely pulling the threads. He just had to go find the sweater so he could figure out what was actually going on.
+
+No, if he was right, Fifteenth didn’t care about the succession battle at all. He was using it as the pretense to maneuver for… whatever his real goal was. Which Rhys didn’t know anything about, except that he was pretty sure Fifteenth had one.
+
+Now I’ve just got to figure out what it is, and we’ll be all set! And set up Ryota’s religion, and actually take a vacation at some point, and… He sighed. Why was his plate always so full? And why was it always his fault?
+
+He wandered around the exterior of the sand castle, not sure what to do, living in that weird space of going to his friend’s house for a sleepover, but his friend was changing, so it was just him and a bunch of other people he tangentially knew (his friend’s friends) and the people in charge (his friend’s parents) and he suddenly felt like he had no right to be there. After all, Ryota and Aran were both KO’d, and Lira was off ordering the other water sprites around.
+
+He wasn’t quite sure what her status was as a disowned… water sprite princess?—but it was clearly enough for her to take over with Aran down for the count. The servants flowed around him with the polite but distant aura of a nice restaurant’s waitresses who didn’t know why he was here and didn’t have time to ask, but definitely wanted to know why he hadn’t ordered anything and why he was sitting at the table quietly sobbing to himself. He wasn’t sobbing this time, but it was the same vibe.
+
+Everyone else was so busy healing people, fixing things, repairing the barrier, and gods only knew what else, that eventually Rhys started to feel simultaneously guilty and out of place. He found a quiet corner that no one seemed interested in and settled in to meditate for a while, just to look like he, too, had something to do. He zoned out a little until abruptly he became aware of a mana signature standing right over him. Rhys opened his eyes.
+
+“Typical, all you men snoozing while I do all the work.”
+
+“Hello, Lira.”
+
+“Actually, I take it back. I’m happy you’re snoozing. You’re too busy. I feel better when you aren’t awake and off doing something insane.”
+
+Rhys uncrossed his legs and climbed to his feet. “Is Ryota awake yet?”
+
+“He is. So is Aran. That’s what I actually came here to tell you.” She flipped her hair and turned, looking out at the ocean. “I never expected to see you again, you know.”
+
+“Life is strange. And also long. Especially our lives.”
+
+“I left the entire continent behind, Rhys. I thought that was it. But here you are.”
+
+“Here I am.” He dusted off his butt, making a face at how much sand had stuck to his semi-damp robes. After a moment, he exerted his mana, sucking all the filth on his body into his core to leave himself clean.
+
+She cut a look at him. “You came here to run away. But you can never really run away. Fate has a way of finding you.”
+
+“Does it?” he asked idly, only half listening.
+
+“You’re the one who taught me that. You tell me.”
+
+He looked up. “I feel like you’re trying to tell me something.”
+
+“Am I?”
+
+“I’m not sure. I wasn’t really listening.”
+
+She sighed. “Go talk to Ryota. Someone’s got to convince him not to stick around forever.”
+
+“Oh. Yeah. I was going to do that.” Rhys looked at her. “Is it going to be hard?”
+
+“I don’t relish the task. That’s why I’m farming it out to you.”
+
+He wrinkled his nose. “Thanks. By the way, do you know anything about Aran saving Ryota’s life?”
+
+“Nah. That would’ve happened when they were both at the palace, and I was elsewhere during those years.”
+
+“Oh well. Worth a shot.” He sighed and set off toward Ryota’s room. “I’ll go give it my best.”
+
+“You’re not even going to ask why we want him gone?”
+
+“It’s just the usual, right? Guests and fish start to smell after three days.”
+
+“What?”
+
+Rhys froze. “That—that’s a saying from my homeland. I’m not saying anything about water sprites—I’m so sorry. I didn’t think about that.”
+
+Lira shook her head at him. “Try using a little more tact when you talk to Ryota, huh? He might not act like it, but he is a prince.”
+
+“I’ll try. Can’t promise anything, but I’ll try.” With a final wave, he wandered off toward Ryota’s room. If even Lira didn’t want to talk to him, he could only imagine how thorny this conversation was going to be. Ryota was committed.
+
+But luckily the water sprites don’t want him around, so I should have allies on the other team, too. He didn’t know why they didn’t want Ryota around, but that wasn’t important. Maybe they’d sensed the same thing about Fifteenth’s goals that Rhys had. Maybe they just didn’t want any long-term guests. Maybe they were playing their own game, and they didn’t want Ryota screen-peeking. He didn’t really care. As long as they were on his side, that was what mattered. Right now, he was going to focus on Fifteenth, and everyone else could do whatever they wanted.
+
+Why was he focused on Fifteenth? It was simple. Fifteenth pissed him off. That was the long and short of it. He didn’t need any further motivation than that.
+
+Well, that, and the fierce mana intrigued him. He really wanted to know more about it. Why was it in the bombs and Ryota? What had Ryota’s grandfather done to give him that gap in his core with access to the well of fierce mana? What did the fierce mana’s will desire, and how did a mass of mana have a will? For that matter, had he been hallucinating, or had the void really had a will of its own and refused the fierce mana bomb?
+
+So many questions, and the only way to answer them was to chase after Fifteenth.
+
+He really should’ve made his plans less interesting. Rhys chuckled under his breath, then turned his eyes upward, toward the bedrooms in the upper reaches of the sand castle. But first, before he could go after Fifteenth, he had to convince Ryota to leave Aran.
+
+Alright, Ryota. Do your worst!

@@ -1,0 +1,285 @@
+---
+id: cba50de5-ea7c-5986-baca-49ec1f793a29
+page-type-slug: story-chapter-royal-road
+title: "Chapter 99"
+slug: 0023-chapter-99
+partOf: hell-hound-evolution-litrpg
+position: 23
+ownLength: 3560
+unit: words
+publishedAt: 2026-03-18
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3166925/chapter-99"
+royalRoadId: "3166925"
+---
+
+A few hours of traveling by foot—on human feet, that is—and I was like an old pro.
+
+I let Grick and Lily do a quick hunt along the way without me, since I was pretty sure I’d be useless with my current body, and they came back with a leg for me not too long after.
+
+I munched away while we walked, finding my first true benefit of this form other than talking. Man, I really must have forgotten how convenient hands were! Before, I’d always have to lie down with my kill until I was done. Now I was strolling along, tearing strips off the bone and rolling it in my hands like corn on the cob for the next meaty bite.
+
+As I ate, I tested my Analyze skill on Lily and Grick, finding that it didn’t give very much information at all.
+
+Hell Hound - Level 13Goblin - Level 10
+
+It seemed Grick gained a level at some point, maybe on this last hunt or from the bandits.
+
+This skill would be pretty useful for picking fights more carefully, but I hoped leveling it up would give me more information eventually.
+
+And as for the fox…
+
+Vulpyr - Level ??
+
+I knew she was a higher level than us, but now I wondered by just how much. Well, maybe I could just ask? Then again, I doubt she’d give me a straight answer even if I did.
+
+The fox looked over her shoulder at me as I continued munching on my half-eaten leg. “Make sure you clean your face when you’re done,” she said. “And try not to get any on your shirt. Humans freak out if you’re covered in blood, even if it is animal blood.”
+
+Sure, that makes sense, I thought as I chewed. I mean! I didn’t need her to tell me that! I knew that, of course!
+
+You know, having cheeks wasn’t half bad either. Every bite I took stayed captured in my mouth, with nothing falling out other than the blood dribbling down my chin.
+
+I swallowed, then asked, “How much farther?”
+
+“We’ll be seeing the watchtowers soon… and likewise, they’ll see us. So wash up as soon as you're done.”
+
+I rolled the bone between my fingers, nibbling off the last scraps that I could before tossing the bone away. “Okay! Be right back!”
+
+I then ran over to the river. I’ve even got running figured out now!
+
+Kneeling down in front of the water, I felt the mud sink around my toes, and I got the first glimpse of my new reflection. I paused, leaning further over it to get a better angle and wait for the moments between small ripples to get a good look.
+
+Black hair, blue eyes, dark skin… I looked a lot like Lisha! Well, except for the wolfy ears and teeth, of course.
+
+Though, I looked younger than the first time I had seen her…
+
+I blinked, thinking about that first time I saw her.
+
+Snow, feeling distrustful, but eventually letting her cradle me in her arms…
+
+I blinked again.
+
+Different memories of getting ready for school flashed through my mind. Images of even younger versions of myself standing in the mirror.
+
+No, why would I think of first seeing Lisha from an outside perspective? She was me, after all.
+
+As I thought about this, images of Lisha sitting on the edge of her bed, game controller in hand, while pointing at the screen. Human mother being giant and reaching for me just before I bit her. Then, scooping the puppy in my arms and running out the door.
+
+A splitting headache tore along my temples, and I backed away from the water, rubbing my head.
+
+All those memories that were suddenly so vivid, and yet contradictory to each other, vanished from the front of my mind. They were still lingering, as they always were, but returned to that half-remembered state, less like a movie in my head and more like vague impressions.
+
+“Puppy feels sick?” Grick asked, coming up behind me. Lily padded down the slope right behind him and went for the water, where she took a drink.
+
+“I’m fine, Grick.” I smiled with wolfy teeth. “Just weird seeing myself like this, I guess.”
+
+Grick tilted his head, one long ear flopping to the side. “Puppy not like new face?”
+
+“It’s not that I like or don’t like it.”
+
+“Well, Puppy still Puppy!” Grick assured me. “Still smells like Puppy. Acts like Puppy.” He folded his arms and shook his head. “Doesn’t walk like Puppy.”
+
+“Hey! I’m getting better!”
+
+“But slower than Puppy, doesn’t hunt like Puppy.”
+
+“Yeah, well this isn’t permanent.” I flashed my fangs in a smile before kneeling over the water again. “Really, though. I can’t wait to get back to my normal body and do some more hunting with you guys!”
+
+Lily yipped in agreement, almost as if she understood me. Which, in fairness, she might. Hunt was her favorite word, after all.
+
+I dipped my hands into the water and splashed my face, carefully rubbing around my mouth and chin to get all the blood off.
+
+Grick sat cross-legged by the water and started cleaning his dagger, then splashed some water under his armpits. “Fox says humans no like stinky goblins. Grick cleans up for humans. Hope it’s nice humans.” Grick shuddered. “Most humans mean and nasty. But not Puppy human!”
+
+I reached down to scratch behind Lily’s ears, digging my fingers in. Her tail wagged as she leaned into my touch happily. “Well, if these humans are not nice, we won’t be sticking around. But Genzo assured us we’d be welcome.”
+
+“Frog good almost-human.” Grick nodded in agreement. “Grick trusts.”
+
+When I stopped scratching Lily, she looked up with an expression that said, “Hey! Why did you stop!”
+
+One other big benefit of the new body is I could love on Lily in all kinds of new ways! But nuzzling each other in dog form was still better, in my opinion. Though, the way she nosed my hand, trying to force me to continue petting her, made me wonder if she didn’t quite feel the same way about that.
+
+I laughed and gave her one last head pat. “Come on, guys, let's get going!”
+
+Lily trotted after me, shaking river water from her whiskers. Grick stuffed his dagger back into its sheath and hurried up the slope.
+
+“Feel better?” the fox asked, assessing my freshly cleaned face.
+
+“Yeah, I guess so.” I rubbed my muddy feet on a spot of grass, getting the blades to clean up between my toes a bit before I stepped back onto the road.
+
+“Make sure you get yourself a good pair of boots when you get the chance,” the fox recommended. “Human feet kinda suck.”
+
+“I dunno, I don’t mind it,” I said taking a few testing steps. The ground didn’t hurt the bottom of my feet too bad, and I think I preferred the lack of constraint. Grick didn’t wear shoes either.
+
+The fox shrugged. “Suit yourself.”
+
+So we continued down the home stretch of our journey, the trees thinning out more and more alongside us. Then, as the trail split off away from the river and bent around a hill, I saw the first sign of human infrastructure since that walled town near the exit of the cave.
+
+There was a tall stone watchtower planted at the edge of the road, its shadow stretching across a low cobblestone wall that ran only about six feet high along the landscape.
+
+It looked more like a boundary wall, or something to keep animals out, than anything suitable for defense.
+
+Beyond it, the land opened up into wide, cleared fields divided by straight dirt roads and neat rows of crops.
+
+And far past that—rising above everything else—I saw it.
+
+The real wall.
+
+It was massive. Grey stone stacked higher than any tree we had passed on the way here. Towers rose from it at steady intervals, banners with that frog and river reed emblem snapping in the wind. Atop the battlements, I saw wooden machines that looked like giant crossbows… Searching my past life memories for movies and shows, I remembered they were called ballistae.
+
+Compared to that massive wall in the distance, the cobblestone one before us seemed like nothing.
+
+Achievement! Discovered the Verdant Empire!
+
+You have laid eyes upon one of the great powers of this continent. Beyond those walls is a place where the lone hunter stands small before the gathered many.
+
+Minor bonus to all stats!
+
+I took another step, but the fox’s hand came out and stopped me.
+
+“Hang on a sec.”
+
+“What’s wrong?” I asked, looking up to her, then glancing over to Grick and Lily to make sure they had stopped as well.
+
+Her eyes flitted left and right, and I soon realized she was checking a system screen. She flicked her gaze in a gesture that dismissed whatever the system had prompted her with. She frowned slightly, but then put a hand behind her head and gave me a warm smile as she chuckled. “Wellp! Looks like this is where we part ways!”
+
+“Huh?” I asked.
+
+“Yep. My quest just completed. Guess this is as far as the System needed me to take you.”
+
+My tail drooped and ears folded down as I glared up at her.
+
+“Fox not come through big wall?” Grick’s ears drooped.
+
+Lily let out a low growl.
+
+“Hey, hey, don’t give me that. I was supposed to deliver you to the empire, and there you go—that’s it right there.”
+
+I scoffed and looked away. I don’t know why I was so annoyed with her all of a sudden. I knew we would be parting ways, but I expected her to at least…
+
+I don’t know. What did I expect?
+
+“Well, goodbye, then,” I muttered, folding my arms.
+
+The fox tilted her head at me, golden eyes softening just a little. “That’s it? No dramatic speech? No tearful confession about how much you’ll miss me?”
+
+My tail batted involuntarily. “More like I’m relieved you won’t be around to scavenge on our kills anymore.”
+
+She stepped closer and crouched down so we were eye level. For once, she wasn’t smirking like she knew ten secrets I didn’t.
+
+“Look, can’t believe I’m saying this, but I had a lot of fun traveling with you kids.”
+
+I let my gaze drift over to her. Part of me was not sure if I believed it, but the warm smile she gave softened my doubts.
+
+“Really, I’m going to miss all of you, but I just…” She glanced toward the Empire wall in the distance. “A place like that. It’s not for me. I’m not sure it’s for you either, to be honest, but if that’s where you’re going, I can’t follow.”
+
+I looked over to Lily and Grick. I once again wondered if this was really the best place for them. I revisited my thought of asking the fox if she would be willing to watch over them a little longer while I checked things out. In exchange for some gold, of course. But at the same time, the thought of being separated from them gnawed at me.
+
+No, this is what we had come all this way for. I had to trust what Genzo told us. Behind those walls, we wouldn’t have any red masks to worry about. We had a good head start on them, but who’s to say in a matter of weeks they wouldn’t eventually catch up to us? Besides, Genzo himself is a monster, technically, so that was a sign this place would be friendly to us. Or at least, friendly enough.
+
+“So, this is it then?” I muttered.
+
+“Yeah, I guess so.” She stood up, adjusted the strap of her backpack, and smiled. “But hey, we might see each other again sometime. The world’s big, but it isn’t that big, and life is long. Right?”
+
+I couldn’t help smiling at that. “Yeah… So, until next time?”
+
+She winked. “Until next time.”
+
+“Bye fox,” Grick waved.
+
+Lily let out a low whine.
+
+And with that, the fox turned and walked off. Just like that.
+
+I let out a deep breath and peered around the bend to the watchtower. There was an opening in the boundary wall at the base of it, and a human guard wearing metal armor with a green tunic over it stepped out. He had a katana sheathed at his side. Then, from the other side of the wall, another guard appeared. It seemed we had already been spotted, but they were just standing there like sentries.
+
+I glanced to the top of the watchtower, focusing on the window at the very top for a moment, where I could see a bit of movement.
+
+Genzo’s mark…
+
+I rolled up my sleeve to look at my arm, and sure enough, there it was, a purple ribbon tied around my arm with the same bow he had put around my puppy leg.
+
+“Come on, let’s do this,” I said to Grick and Lily, then I led the way. I held my arm up so they could easily see the ribbon as I approached. Some recognition came into the guards’ postures, as one leaned towards the other and pointed. They exchanged a few words, nodded, then retook their stoic stances.
+
+As we approached, the guard to the left, who had a thin mustache, said, “State your business.”
+
+They had Asian features and black hair. The one to the right had his hair tied back in a ponytail.
+
+“Um, hi. Someone named Genzo told me to come here. He told me I should meet with someone named Rin Zaoh and… I have a favor to ask of the emperor.”
+
+The mustached guard stroked his chin. “Genzo, huh?” He drooped down enough to examine the ribbon on my arm. “What’s your name?”
+
+I jolted slightly. “Oh, I don’t have one, but this is Lily and Grick.”
+
+Pony Tail must have had the Analyze skill because he asked, “So, you’re a… Hell Hound?”
+
+“Yes, I recently evolved into a Path that would allow me to take this form. I did it so I could communicate easier.”
+
+Mustache seemed satisfied with his investigation as he leaned towards the other guard. “It is very strange how well she speaks… But she does have Genzo’s mark. So, Rin Zaoh would certainly wish to know of this.”
+
+Pony Tail chuckled, the sound easing some of the tension I felt. “Leave it to Genzo to send such a strange group our way. But what are we supposed to do with them for now?”
+
+“Hmmmm, might cause a commotion to lead them directly through the city…” Mustache said, looking over his shoulder. “We’ll take them in through the barracks and send word to Rin Zaoh.”
+
+Pony Tail kneeled down to be closer to eye level and looked between the three of us with a warm, inviting expression. “Are you three hungry? I don’t know how long it will take for the High Regent's audience, but you can relax in the mess hall with us until we figure things out.”
+
+I smiled, but then closed my lips again, feeling a little self-conscious about my teeth. “Thanks! That would be great! Oh, we already ate this morning but…” He seemed at ease, but I couldn’t help thinking of all the human’s I’ve killed before—not to mention the one that we ate!
+
+“Grick hungry!” The goblin’s hand shot up. “Grick takes human tasties!”
+
+Pony Tail laughed and turned to lead the way. “Haha! Well, come on, then! Oh, I’m Kenjiro, but you can call me Kenji. This is Shun.”
+
+Mustache, “Shun,” nodded at his name.
+
+“Grick likes fishies!” Grick insisted as he scampered forward from the back of the group. Lily trotted along at my side and let out a “yip!”
+
+“Well, I’m sure we can accommodate you, Grick.” Kenji laughed.
+
+I looked around as we entered the border wall and realized it stretched as far as I could see in every direction, with endless fields of wheat and other crops between it and the main wall, which was at least several miles down the road from us, but standing tall on the horizon.
+
+I didn’t know what exactly I’d expected from coming here, but I was already hopeful that this was the right choice after all.
+
+***
+
+After leaving the church, Valrok meandered over the forests opposite of the Umarii lands for a while. It soon felt like it would be a wasted effort, and he decided he could search the woods more thoroughly later. The beasts would need water, so even though their tracks led away from the river, he figured it’d be best to search upriver for evidence of them heading back that way.
+
+He didn’t know what to make of his discovery at the church, but it was enough to not give up the chase. Had he not discovered such oddities about the attack in the vale, then chasing after the pups for days or weeks just to kill them or perhaps sell them for some gold would have been a wasted effort. While it would have satisfied the tribe somewhat, the true damage had already been done. Though, Elva’s performance against her challengers and on her own hunt had repaired some of that damage.
+
+But everything was different now. He felt the thrill of the hunt coursing through him, perhaps even greater than when he plotted his attack on the god-tier Hell Hound. This alone made it all worthwhile. Before, he’d cursed his decision to take all but Iris, as just killing the rest of the pups on that fateful day would have been better than letting one into Umarii hands and losing twenty additional men.
+
+But a new hunt, a true hunt was on. Though surely not yet powerful enough for a thrilling fight against himself, it was still a beast that could think and strategize like a human. What manner of monster was it? Whether a blessing of the Almighty or a curse by the Scaly Bastard, he didn’t care. He had to know, and he would not lose.
+
+His decision to fly upriver turned out to be a stroke of fortune. Traveling with the Dragon’s incredible speed, he soon came across a toppled merchant’s wagon, and plenty of evidence in the corpses of the bandits and the tracks laid in the dirt to know he was on the right path.
+
+He continued upriver with urgency. When he left the Bloody Peaks several days ago, he never would have expected the hunt would bring him all the way to the Verdant Empire. He couldn’t imagine a reason the Hell Hounds would go there, but just as it was with the Umarii lands, that’d place them out of his reach, so he had to cut off that route as quickly as possible.
+
+***
+
+The fox walked along in human form, back the way she had spent so many days traveling with the brats. She’d occasionally kick a noteworthy stone off the trail and into the river as she meandered along. It hadn’t even been a full hour, yet she felt an unfamiliar heaviness sinking in.
+
+“Snap out of it…” she muttered to herself. “It was just for a stupid quest, after all… If they’d just listened, it wouldn’t have taken half as long anyway…”
+
+And maybe I wouldn’t have had time to get attached…
+
+She shook that thought away as quickly as it had come. The world was too harsh to care about anything other than your own survival. Caring is how you got hurt.
+
+She spotted a particularly inviting rock and slowed her pace, closing an eye to paint a mental target as she reared her foot back.
+
+I do hope they are alright amongst those humans, though… and that they find what they’re looking for.
+
+As her leg started to come forward, something else caught her eye. Far in the distance. Something flying.
+
+She narrowed her eyes and then instantly ran for the trees alongside the trail.
+
+She watched from behind a tree, confirming what she was seeing.
+
+A dragon!?
+
+The Bloody Peaks Tribe were in no way one of the strongest forces in the realm. Yet, they were infamous all the same. Their geographical advantages were one factor to their longevity, but the other was that they had a legendary champion on their side.
+
+Valrok Wyrmscar, the dragon rider. She had heard the tales, and they were the ones who had taken the brat’s family. If he was here now, then—
+
+She turned and instantly began to yank her clothes off, but she wasn’t even down to her skivvies before it all ripped apart around her as her body expanded into fur and muscle and she took her fox form. Even her backpack was left behind as her massive paws hit the forest floor, and she bolted through the trees as fast as her legs could carry her.
+
+She had left them at the boundary wall, but that dragon was moving so fast! If there was any delay, any suspicion that kept them at the checkpoint for too long, then it would catch up to them before they managed to safely make their way behind the city walls.
+
+READ NEXT CHAPTER NOW!

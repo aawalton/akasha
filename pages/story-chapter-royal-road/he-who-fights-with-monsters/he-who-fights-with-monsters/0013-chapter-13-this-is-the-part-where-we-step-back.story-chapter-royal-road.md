@@ -1,0 +1,211 @@
+---
+id: 553bbc08-9a5c-56d9-8250-ade1590ccc97
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: This is the Part Where We Step Back"
+slug: 0013-chapter-13-this-is-the-part-where-we-step-back
+partOf: he-who-fights-with-monsters
+position: 13
+ownLength: 2400
+unit: words
+ownProgress: 2400
+publishedAt: 2019-08-02
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387953/chapter-13-this-is-the-part-where-we-step-back"
+royalRoadId: "387953"
+markedReadAt: "2026-06-29T19:04:13.167Z"
+---
+
+The three former captives pounded down the stairs as Jason followed unsteadily behind. As they went down the steep staircase, the smothering heat rose up to engulf them. The air became wetter and heavier until even breathing was a chore. The copper taste of blood felt like it was coating Jason’s tongue. The pool was churning loudly, as if something was thrashing just below the surface. The sound echoed loudly, especially as they neared the base of the chamber. Near the end of the stairs they stepped over the corpse of High Priest Darryl, splayed out like a discarded puppet.
+
+Jason touched a finger to the body as they passed.
+
+Jason gave his mental assent as they continued down the stairs.
+
+Like Landemere Vane, the high priest had been holding more than a thousand coins on his person. As to where he had them stowed away, Jason could only guess.
+
+“Does everyone here have an inventory?”
+
+“What?” Farrah asked loudly. It was hard to hear over the wild splashing of the blood pit as they drew closer.
+
+“Nothing,” Jason said loudly.
+
+Jason’s real interest was in the recovery potion, which he took form his inventory and tipped down his throat as soon as they reached the bottom of the chamber.
+
+Farrah saw Jason tip back the potion and threw out a hand in a warning gesture.
+
+“Jason, don’t…”
+
+The potion was already making it’s way down Jason’s throat.
+
+“What?” Rufus asked, as he and Gary turned around to look.
+
+“Jason just drank a potion,” Farrah said.
+
+“Right after using a spirit coin?” Gary asked.
+
+“Is that bad?” Jason asked “Actually, why didn’t the potion do anything?”
+
+The others only answered in sympathetic wincing. Moments later, his stomach was filled with cramping pains. He doubled, felt his body desperately wanting to vomit, but unable to do so.
+
+Jason groaned. The initial pain passed, but now his stomach felt as awful as his head.
+
+“I should have thought to warn you when you didn’t know how to use spirit coins,” Rufus said. “I didn’t realise you had any potions. Are you alright?”
+
+“Honestly,” Jason croaked, “it isn’t going to affect me that much. There’s only so much worse I can get.”
+
+Rufus nodded, and they turned to the giant pool of churning red liquid, Jason very much at the back. The space near the large doors leading out was the widest area around the pool, with most of the room having only a small lip between the edge of the red liquid and the wall. When they first entered the chamber, the pool had been churning in the middle. Now the whole thing was like a pot of water threatening to boil over, splashing red liquid over the sides.
+
+“That can’t all be blood, right?” Jason shouted over the noise.
+
+“It isn’t,” Farrah called back. “Mostly it’s an alchemical mixture, although there is a lot of blood in there. At least a dozen people’s worth. Maybe twenty.”
+
+“Are you sure we need to fight this monster?” Gary asked. “I’d feel a lot better without this collar on my neck.”
+
+“We all would,” Rufus said.
+
+“I’m just saying,” Gary said. “If I’m going to fight something called an apocalypse beast, I’d rather have my powers.”
+
+“We do what we can with what we have,” Rufus said. “Complaining about what we don’t have doesn’t help.”
+
+“It isn’t actually called an apocalypse beast,” Farrah said. “That’s more of an informal category.”
+
+“That’s what we need,” Gary said, “Pedantry.”
+
+“Did you say podiatry?” Jason yelled. The churn of the blood-like pool was growing louder and louder. “Is there something wrong with your feet?”
+
+“I said pedantry!” Gary yelled back.
+
+“Will you both please shut up!” Rufus bellowed.
+
+“If we let this entity go,” Farrah yelled, “it will get out and start feeding on the local animals. The more it feeds, the stronger it gets. If it eats its way through a village or a town, then it will get too strong for any of the local powers to stop it.”
+
+“Can we even do this with our abilities sealed away?” Gary asked. “A few cultists is one thing, but a world-destroying blood monster? We have one sword between us. Going for help might not be the worst idea.”
+
+“Real help is a long way from here,” Farrah said.
+
+The pair looked to Rufus for the deciding vote, who turned his attention to Jason.
+
+“You’re the reason we aren’t all monster soup right now,” Rufus shouted. “The decision is yours.”
+
+Jason looked at the three of them looking back at him. They clearly had no idea of the magnitude to which he was out of his depth.
+
+“What are our actual chances?” Jason yelled.
+
+“Terrible, Gary said.
+
+“Not good,” Rufus said.
+
+“Getting better,” Farrah said, pointing. They all looked and saw Cressida’s body hadn’t fallen into the pool, but onto the stone floor at the edge of the chamber. Unfortunately, it was on the far side. That portion of the floor had barely a lip of stone between the pool and the wall, but Cressida had landed lengthways along it.
+
+“She has the key to the collars,” Farrah said. “If I can get this thing off my neck, I can blast whatever crawls out of this pit back into blood soup.”
+
+“Not sure I’d want to walk around the edge of that pool,” Jason said. “Sometimes all your choices are bad, I guess.”
+
+“We do it, then,” Rufus said. “Farrah, go for the key, but be careful of the pool. Ideally you’ll have it and be back before this thing emerges, but Gary and I will stall it if we have to. Jason, what kind of combat abilities do you have?”
+
+“None,” Jason shouted “I was taken out multiple times by a guy with a shovel. I am very bad at fighting.”
+
+“That’s fine,” Rufus shouted back. “Just stay back and try not to die.”
+
+Farrah was already moving, putting the book on the ground and setting off around the pool, not waiting for Rufus’ to finish talking. She carefully hugged the wall, wary of the churning blood pit. Suddenly the blood, which had been roiling like a stormy sea, went as still and serene as a sheltered pond. The roaring noise they had all been shouting over immediately fell silent.
+
+“Here we go,” Rufus said, his voice an intrusion to the sudden quiet.
+
+Ripples disturbed the edge of the pool, and something emerged from the blood.
+
+“Is that a leech?” Jason asked. It was the right size and shape for a leech, but had the gaping, tooth-ringed maw of a lamprey.
+
+“I do not want that thing crawling up my leg,” Gary said.
+
+“I think that’s a consensus opinion,” Jason agreed.
+
+A second leech crawled out, then a third. They came two at a time, then five, ten until they were spraying out like runoff from a storm drain. They piled on top of one another, forming squirming, writhing mass.
+
+“We should probably attack while it’s still forming,” Rufus said to Gary. “I don’t suppose you want to go first?”
+
+“How am I supposed to fight a pile of leeches?” Gary asked. “I don’t think the sword will work. Also, you have our only sword.”
+
+Strips of blood-soaked cloth, long and thin like bandages, started pushing their way out of the leech pile. They wrapped themselves around the leeches, pushing the pile into shape.
+
+“Any idea what it’s doing?” Rufus asked.
+
+“None,” Gary said. “Jason?”
+
+When Jason didn’t answer, they turned to look around, finding Jason was no longer there.
+
+Gary look up the stairs and out through the door, seeing no trace of Jason.
+
+“He’s done a runner!”
+
+There was no time for distraction and they turned back to the monster forming in front of them. More bloody strips were emerging from the pile, pushing into what they started to recognise as a humanoid shape. It was only a crude approximation, splitting at the seams as leeches spilled out between the bandages. It shambled forward, barely in half-steps, shedding leeches as it struggled to keep balance.
+
+“Just stay close enough to keep its attention,” Rufus said. “It doesn’t seem very fast and we just have to stall it.”
+
+“Or I could punch it,” Gary said. “It’s a person shape, now. I know how to punch people.”
+
+“What? No…”
+
+Gary’s fist slammed into the creature, passing straight between the red-stained bandages and burying itself in the creature’s chest. It seemed to have no impact and Gary staggered back. His arm emerging from the leech monster with a sucking noise like pulling out a leg stuck in mud. It was covered in leeches, burrowing through his fur to sink teeth into flesh. He staggered about, yelling more in anger than pain as he started ripping them off. Chunks of flesh and fur went with them, clenched in rings of teeth.
+
+The bindings around the mass slowly tightened, giving it a more discernibly humanoid shape. It grew faster and more coordinated. Frowning, Rufus tossed aside the sword and picked up the heavy book Farrah had left behind. Winding up as he lunged at the creature, he took a huge, two-handed swing.
+
+The book slammed into the creature’s torso, sending it staggering back. The bindings loosened, leeches once again spilling out of the main mass. The floor was now covered with them, crawling at Gary and Rufus, seeking out their legs.
+
+Rufus watched with satisfaction, stepping back from the seeking leeches.
+
+“And she said the book wouldn’t help.”
+
+Rufus failed to notice the leech crawling over the book until its teeth buried themselves in his hand, causing him to yelp as the book dropped to the floor. He tore the creature off his hand, a chunk of flesh going with it. He reached down for the book, but there were leeches crawling all over it.
+
+“Help!” he heard Farrah call out, and he looked around. Gary was still wildly ripping leeches off his now blood-soaked arm. Farrah was most of the way around the pool, but bloodied bandages, like those wrapping the leech monster, had emerged from the pool and were trying to drag her in.
+
+Rufus looked around for where he had dropped the sword, picking it up and hurling it through the air. His confident throw was on the mark, dropping only a few feet from Farrah. She hauled back on the bandages trying to pull her into the pool, leaning hard for the sword.
+
+The leech monster, in the mean time, had once again tightened its bindings and started walking toward Rufus. He skittered back, still faster than the creature but its speed increased with every step.
+
+Rufus stumbled, falling onto his back with the creature still coming at him, when a bright light descended from above. Jason, starlight cloak floating around him at maximum illumination, drifted down to land between Rufus and the sanguine horror. Tucked under one arm was a small sack. Reaching into the sack, Jason grabbed a fistful of salt and tossed it at the horror. The creature recoiled and Jason did it again, forcing the creature back again.
+
+“I’m really glad that worked.”
+
+“What is that?” Rufus asked, getting lightly to his feet.
+
+“Salt,” Jason said, throwing out another handful.
+
+“Did you use mana while suffering from mana toxin?” Gary asked, wandering over. His arm was drenched in blood and still looked to be bleeding freely, but the leeches were gone and he didn’t seem worried.
+
+“Seemed time sensitive,” Jason said. “Oh, this hurts. I was pretty much bottomed-out on mana in the first place.
+
+Gary looked over Jason’s cloak of stars.
+
+“You weren’t kidding about a power that makes you sparkle.”
+
+Suddenly an explosion of light and noise erupted from the other side of the pool. A bright stream of lava cut through the air like it was coming from a fire hose, crashing into the leech monster. Jason’s head pivoted, goggle-eyed to the source of the blast.
+
+“Was that frigging LAVA?”
+
+Farrah, collar now gone, was holding a glowing red hand out toward the creature. She mumbled something and a second stream of lava blasted across the chamber. The blood pit audibly sizzled as the lava seared over it, scouring moisture from the air. After two bursts of white-hot lava, the leech monster was largely destroyed, the bindings holding it together completely unravelled.
+
+“This is the part where we step back,” Rufus said, putting a hand on Jason’s shoulder.
+
+“This is the part?”
+
+Jason could still feel the heat on his face as he staggered back behind Rufus, then back some more for good measure. He heard chanting from Farrah across the pool and looked over. There were several orbs of fire floating around her. One of the cloth strips burst from the pool to grab at her, but was intercepted by an orb, burning up on contact.
+
+She stopped chanting and Jason heard a rumbling from the direction of what was left of the leech pile. It started to scatter, but a cascade of lava geysered out of the ground underneath it. Gary, Jason and Rufus backed off even further as lava spattered around the geyser before it dwindled and came to a stop.
+
+Jason looked at the glowing hole left behind, jaw hanging slack. The red light from the blood pool faded and died, plunging the chamber into darkness. Only Jason’s cloak and the remnant glow of lava provided any illumination.
+
+“We need to get every leech!” Farrah called out. “It can reconstitute itself, even from one!”
+
+Jason looked around the floor. The main mass of leeches had been incinerated, but many leeches had spilled onto the floor as Rufus and Gary stalled it. Salt bag tucked under his arm, he started flinging handfuls at the leeches while Rufus and Gary stomped them underfoot. While the leech mass had only recoiled from the salt, individual leeches vomited blood from their tooth-ringed mouths as they dried up and died.
+
+Eventually there was nothing left of the leeches but blood stains and ash.
+
+Quest: [The Sanguine Horror]
+
+Jason edged forward warily. He noticed a leech that had managed to get far enough away that it was burnt to a crisp instead of being completely annihilated. He poked it with his toe.
+
+Jason gave his mental assent.
+
+Jason looked at the listed awakening stone. Apocalypse.
+
+That didn’t sound wildly positive.

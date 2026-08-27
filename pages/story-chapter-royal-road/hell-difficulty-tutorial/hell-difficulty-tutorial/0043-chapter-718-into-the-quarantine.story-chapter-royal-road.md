@@ -1,0 +1,143 @@
+---
+id: 5f82b853-c466-5e29-9193-a7c4e19ed3e1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 718 - Into the Quarantine"
+slug: 0043-chapter-718-into-the-quarantine
+partOf: hell-difficulty-tutorial
+position: 43
+ownLength: 2203
+unit: words
+publishedAt: 2025-12-23
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2874624/chapter-718-into-the-quarantine"
+royalRoadId: "2874624"
+---
+
+Even though I act nonchalant in front of my teammates, I'm a bit worried. Vega can be reckless at times, and taking all the information into account, she should be in the locked down area, so she's quite possibly being affected by the illness as well.
+
+If what I think is true, and Greed somehow pulled strings to get Lily and me here to help her, I'll be thankful for that, no matter her intention. It doesn't even matter if it's a blatant attempt to make me grateful to her and easier to manipulate. Even after thinking that over, I will just allow it.
+
+And if I'm right, and my minion is out there, ill and possibly set to die, there will be hell to pay for whoever orchestrated it.
+
+I will erase every atom of the fucker responsible for it from the surface of this planet.
+
+We stay up the rest of the night, each of us making our own preparations. I keep storing mana, Lily draws her healing marks for us, and continues working on her pair of bone axes, though at least she’s made them a reasonable size this time instead of monstrosities taller than her.
+
+Each new axe, grown from her super-tough, [Disintegration]-conductive bone, has a handle as long as my forearm with a one-sided blade at the top, plain in shape. The problem is that for some reason, they weigh half as much as me, if not more, each. Seeing her swing both simultaneously makes me realize once again that she could, like, seriously throw me around in much the same way.
+
+Lastly, Savant does whatever Savant does. He changes into the clothes he found in his room at the residence, wearing the local style. With no visible weapons on his person, which only makes me wonder what he did with the Sword of Aeons, how he absorbed it, whether he can un-absorb it to use directly.
+
+His [Absorption] is likely close to level 70 or higher, quite possibly, which makes me wonder if he has something huge stored away, ready to release as needed, perhaps something he’s had stored away for months.
+
+Hell, he might later be able to store things for years. Then there’s the question of whether he can absorb items and take them out later, more or less making himself a knockoff version of a Spatial Cache.
+
+When morning comes, we leave at the slightest sign of the sun on the horizon, with me pushing us. We reach the main house, passing people tending the garden, many of whom are using skills rather than tools. Some even use items or other strange solutions to manage the soil.
+
+Inside the manor, we're told to wait in the pretty room with the wall that’s been entirely replaced with a sculpted mana barrier, offering a view into the quiet morning garden.
+
+Sitting here over our breakfast, I catch myself glancing toward the stairway that leads to the second floor every now and then, and for the third time, I finally catch that presence there.
+
+The noble lady's pet, Fen, lies there sneakily on his belly, head pressed to the wooden floor, staring through the railing in my direction. This time, he doesn't skitter away to hide, he holds my gaze, reveals tiny sharp teeth, and lets his whiskers twitch.
+
+All that bratty effort to look dangerous is ruined by the cute, pale blue vest with golden threads that he's wearing.
+
+I decide to ignore him, feeling myself get annoyed as they start bringing more food and drinks, telling us our guide will come to us in five minutes. Knowing that making things more complicated would only slow them down, I endure and eat some of the food, even taking time to have them pack me some dried fruit, snacks, and drinks. Seeing how helpful they are trying to be, I then ask them multiple times for a bag I could put on my back to carry it all.
+
+The guide appears exactly five minutes later. A young, somewhat handsome, and confident looking man in sleek clothes who greets Lily first, staring at her with eyes wide open. He masks that blunder with a charming smile before barely greeting both me and Savant, almost unable to take his eyes off her.
+
+After throwing a few compliments her way as well as multiple charming smiles, he says, "It is a pleasure to meet you all. I'm Ennith, and I will be your guide until we reach the containment zone, where I will leave you to continue on your own. Unfortunately," he adds with a smile aimed at Lily.
+
+Lily smiles back politely and nods, "Thank you, Ennith. Can I tell you something?"
+
+"Please do, beautiful Lady Healer!"
+
+"I'm not interested in you at all, and if you try to flirt with me further, I will hurt you. Not in the sense of breaking your heart or something silly like that. I will break your arm."
+
+"Huh..." He manages the sound barely, then quickly regains composure. The smile he gives after is sorer, less enthusiastic over the few seconds, as if he’s trying to figure out if she is joking before he pushes out of himself. "Understood, Lady Healer. Shall we go now?"
+
+"Please," Lily gestures.
+
+As we walk through the house behind Ennith, I talk to Lily, not caring if the guy might hear, "Breaking bones, how barbaric, and inelegant of you."
+
+Lily shrugs, "You would be surprised how many people keep trying things like that with me. I seem to be very popular. Some are probably doing it because I'm a healer, others because I'm pretty. I'm pretty, right?" she asks, looking up to me with her big eyes.
+
+"I guess. With [Plastic Surgery] and all that, it would be weird if you weren't."
+
+"I only made the tiniest of modifications! I liked how I looked before, and I was pretty on the first floor too!"
+
+"Just a brat, sometimes even a crybaby, then and now. So, is breaking bones really your best strategy?"
+
+Lily shakes her head at the first part of my sentence but ignores it. "Yeah, even if that person is slightly important, they don't punish me for it at all. Me being a healer and all that stuff."
+
+"Some people surely have it nice."
+
+"I like being spoiled, you know. I didn’t get much chance to enjoy it before the tutorial."
+
+"Lily."
+
+"Yes?"
+
+"It's damn sad when you say you're more spoiled in Hell difficulty than you were back on Earth. You realize that, right?"
+
+"But aren’t most of us the same?" she smiles and points at me. "You," then back at herself, "me, Tess, Dennis and Aaron, Min-Jae, Maya, Sophie, and Izzy."
+
+"Congratulations on doxing our entire group."
+
+"It’s fine! I’m sure Savi didn’t have it exactly nice either, right?" she asks while turning to the man.
+
+The most cowardly man in existence glances our way before turning away with a simple, "I’m fine either way. And please don’t call me Savi."
+
+"But Nat does it all the time."
+
+"One more reason not to do it. But whatever," Savi says, already giving up.
+
+Following the suspiciously quiet Ennith, we head toward the warded-off area. Twice, we use teleportation arrays inside circular buildings surrounded by plenty of guards. Each requires multiple checks that hold us for a while. Between the teleports we also run, though we slow down a little to match Ennith’s pace as he leads us.
+
+I have a strong suspicion he carries a mark that’ll allow the Magistra to switch places with him in the same way the twins can switch places with each other. The mana wavelengths feel kind of similar. That would also explain why she didn’t send anyone stronger, just in case we decided to cause trouble. Even so, I’m sure there will be stronger people guarding the place we’re heading to.
+
+The longer we travel, the more used to the area I become. Plenty of planets I’ve visited in the tutorial had common similarities to Earth, and this one does too. There’s a single sun, a blue sky, normal-colored clouds, and all that. Otherwise, the countryside has barely any mountains, only hills of different sizes with large boulders scattered here and there.
+
+The biggest difference is the color of the ground, which is usually a strange mix of deep orange with a hint of red. Like stones you’d see somewhere in a desert, though it clearly isn’t, there’s too much greenery for that. Well, maybe greenery isn’t the right word. Most of the flora here is tall, pastel-yellow grass that seems to cover nearly the entirety of the area, with sparse trees that have white trunks and red leaves scattered among them.
+
+As familiar as this planet feels, those little things make it stand out, striking, exotic even. I find myself enjoying the change of scenery and grow to like it more over time. It’s a nice sight, that yellow grass swaying and rippling like waves under the wind. It gives off that perfect fantasy adventure feeling.
+
+As we get closer to our goal, our guide starts talking more. "Once inside, you won’t be allowed to leave until your Beyond quest is complete. The other people inside are the same. They won’t be able to leave either. Lady Corin will personally come to check on you near the end of your quest, and until then, the rest is up to you. You carry her mark, and our people inside are trained to locate it even if you can’t feel it, so they will offer you help or ask the same in turn."
+
+While he says this, I stare at him blankly. Yet another mark. This is getting out of hand.
+
+Ennith, unaware, patiently continues while we slow down to a walk. "The area currently quarantined is fifty square miles, including three villages, each with around eight hundred people, and a small city of five thousand. There should be no noticeable groups of monsters, and only one dungeon, graded as category one."
+
+"How does that rank compare to the others?" Savant asks, voicing what I was wondering too.
+
+Ennith answers quickly, "It’s the lowest category. The ranks go from category one to category seven, with seven being the kind of place where even Champions have been known to die. The dungeon I mentioned wasn’t cleared yet, and it was one of the first places we examined when the illness started spreading. We found nothing strange about it."
+
+"Understood," Savant nods.
+
+"Not gonna ask him about dungeons?" I interrupt this time.
+
+The way Savant looks at me almost seems sad. "Have you learned nothing at all?"
+
+"I'm not at fault here. I bet even Lily doesn’t know anything about dungeons."
+
+"I know a lot! Tess gathered plenty of information and forced us all to learn about them!"
+
+"You should be helping me, Lily."
+
+"It’s okay, I’ll tell you everything later," she says, then turns to Ennith. "Are there any healers inside?"
+
+He nods. "Two. They’ve been informed of your arrival and will do their best to assist you, Lady Healer."
+
+"Good!"
+
+Like that, we finally reach the border of the quarantine zone, triggering several alerts along the way, set up by someone much more skilled than the people approaching us, possibly by the Champion herself. The two men coming closer seem strong as well, probably close to level 400, judging by their speed.
+
+Another round of introductions follows, more checks on us and Ennith, before we’re finally led to the barrier. Before that, Ennith explains that only we may enter, since we have a pass, and the nobles who oversee this place have an agreement with Magistra to let us in. Anyone else who tries to enter may be killed on sight, and the other nobles would have no right to raise a complaint.
+
+The barrier itself is invisible, covering the entirety of the fifty square mile area like a massive spherical dome. I also notice that it’s been constructed to conserve mana, it’s reactive, meaning it only activates fully upon detection. I can’t see all the details, but I’m sure there are some nasty mechanisms hidden somewhere within it.
+
+One thing is certain, it’s far harder to leave than it is to get in. That much becomes clear as we pass through the temporary entrance the guards create for us, syncing together while pressing a key-shaped device to the barrier’s surface and channeling specific mana fluctuations through it.
+
+Ennith stays behind as the three of us step inside. From the outside, the barrier was transparent, but from within, it turns a pale red, bathing the entire area in its faint crimson hue.
+
+The barrier blocks sound, yet I can see the guards, and Ennith start to panic as a white blur of movement charges between them just before the barrier closes again. A white furry blur flashes past us too, near impossible to follow with the naked eye, before it dives into the bushes and disappears into a small patch of nearby trees.
+
+The guards and Ennith stare in shock at where it went, then at us, and I wish them good luck explaining this to the Magistra.

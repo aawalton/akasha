@@ -1,0 +1,257 @@
+---
+id: de703f00-2639-54fa-9a8d-5893ba02b9ad
+page-type-slug: story-chapter-royal-road
+title: "Bonus Material: Book 12 Appendices, Jasons Abilities"
+slug: 0017-bonus-material-book-12-appendices-jasons-abilities
+partOf: he-who-fights-with-monsters
+position: 17
+ownLength: 1750
+unit: words
+ownProgress: 1750
+publishedAt: 2025-01-16
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2012655/bonus-material-book-12-appendices-jasons-abilities"
+royalRoadId: "2012655"
+markedReadAt: "2026-06-29T19:04:21.772Z"
+---
+
+APPENDIX I: Jason Asano Character Sheet
+
+Jason Asano
+
+Attributes
+
+Inherent Gifts
+
+Essences (4/4)
+
+Dark [Speed] (5/5)
+
+Blood [Power] (5/5)
+
+Sin [Recovery] (5/5)
+
+Doom [Spirit] (5/5)
+
+APPENDIX II: Astral Nexus Inherent Gifts
+
+[Prime Avatar]: A prime avatar is a physical and spiritual gestalt that serves as a mortal anchor for transcendent power. It does not have a soul of its own, serving as a vessel through which your soul can be expressed, fully embodying your consciousness and mortal power. The power of your avatar is limited to your mortal power and serves as a means to grow that power. As the anchor for your transcendent power, the prime vessel is required to exert certain aspects of that power upon physical reality.
+
+[Numen]: Your transcendent power has aspects of divinity that are imbued into the avatar that is the mortal embodiment of your will and power. Your avatar can express that power in ways that reflect your hegemonic and defiant nature. Traits and abilities your avatar inherits include: establishing spiritual domains; Akashic Speech; stripping and transforming remnant magic from magic entities you have killed or destroyed; being immune to rank suppression as well as detection, tracking and assessment magic; negating aura-related abilities by fully suppressing the aura of the ability’s user.
+
+[System Administrator]: Gain access to all aspects of the system, along with additional interface features such as maps, voice and image chat, party and raid group functionality, and the ability to assess creatures and objects. You can grant these additional features to others in a party or raid group. You can access the system interface of others if you have their permission or have suppressed their aura.
+
+[Relics of the King]: Access the astral throne, astral gate and soul forge to limited degrees. Reinforce the stability of dimensional spaces through your presence and transgress sealed or unstable dimensional apertures. Exceed the normal limitations of portal abilities at the cost of additional mana, potentially suffering backlash for extreme expenditure. Use your aura to suppress spiritual manipulation and suppress or enhance soul attacks.
+
+[Sacred Phoenix]: Soul-based abilities learned prior to astral nexus transfiguration have been refined for use by your prime avatar. Afflictions can also add [Ghost Fire]. On suffering damage that would be lethal, transform into a ghost fire phoenix. After ghost phoenix transformation is triggered, it cannot be used again for one year. That time is reduced by absorbing life force, and further reduced by life force containing fundamental reality material.
+
+[Palanquin]: Your dark essence familiar can transform its bodies into one or more forms of transportation. These forms can offer luxury and utility but are relatively fragile for their rank. Your blood familiar can reinforce any single form, enhancing its durability, allowing it to repair itself rapidly and heal anyone inside with moderate efficacy. Your doom familiar can add offensive and defensive capabilities to any single form.
+
+APPENDIX III: Jason’s Essence Abilities.
+
+The following is a list of Jason’s essence abilities as of gold rank. The list is written for brevity (believe it or not) rather than accuracy or comprehensiveness.
+
+Dark Essence
+
+Midnight Eyes (special ability, perception)
+
+Hand of the Reaper (conjuration)
+
+[Creeping Death] (affliction, disease): Ongoing necrotic damage. Stacking.
+
+[Rigor Mortis] (affliction, unholy): Penalty to [Speed] and [Recovery]. Stacking. Adding to the stack inflicts necrotic damage.
+
+[Weakness of the Flesh] (affliction, magic): Negates immunities to disease and necrotic damage. Cannot be cleansed while the target suffers any disease.
+
+Cloak of Night (conjuration)
+
+Path of Shadows (special ability)
+
+Shadow of the Hegemon (familiar, summon, ritual)
+
+Blood Essence
+
+Blood Harvest (spell)
+
+[Blood Frenzy] (boon, unholy): Bonus to Speed and Recovery base attributes. Stacking up to a maximum threshold.
+
+[Blood of the Immortal] (boon, unholy, healing): On suffering damage, an instance is consumed to grant a brief but powerful ongoing healing effect.
+
+[Strength of My Enemies] (boon, unholy): Bonus to Power and Spirit base attributes. Stacking up to a maximum threshold.
+
+[Endless Power] (boon, unholy, healing): On reaching low thresholds of stamina or mana, an instance is consumed to grant a brief but powerful recovery effect.
+
+Leech Bite (special attack, melee)
+
+[Bleeding] (affliction, wounding): Ongoing bleed damage and absorbs healing. Cannot be cleansed but is removed after absorbing enough healing.
+
+[Leech Toxin] (affliction, poison stacking): Reapplies [Bleeding] when negated.
+
+[Tainted Meridians] (affliction, poison): Stamina and mana cost of magical abilities is increased. Bleed effects cause mana loss along with blood loss. Drain attacks are more effective against target.
+
+[Thief of Life] (affliction, curse, drain): Ongoing health drain effect.
+
+Haemorrhage (spell)
+
+[Sacrificial Victim] (affliction, unholy): Suffer greater effects from drain attacks and blood afflictions.
+
+[Necrotoxin] (affliction, poison): Ongoing necrotic damage. Stacking.
+
+[Blood From a Stone] (affliction, magic): Negates immunity to blood and poison effects. Cannot be cleansed while the target suffers any blood or poison affliction.
+
+[Exsanguination] (affliction, wounding): [Bleeding] can stack.
+
+Feast of Blood (spell)
+
+[Blood Glutton] (boon, unholy, stacking): Your drain effects are more powerful. Additional instances have a cumulative effect.
+
+Sanguine Horror (familiar, summon, ritual)
+
+Sin Essence
+
+Punish (special attack, melee)
+
+[Sin] (affliction, curse): Necrotic damage taken is increased. Stacking.
+
+[Price of Absolution] (affliction, holy): Suffer transcendent damage for each [Sin] removed.
+
+[Wages of Sin] (affliction, unholy): Deals ongoing necrotic damage. Stacking.
+
+[Penance] (affliction, holy): Ongoing transcendent damage. Stacking. Stacks drop off over time.
+
+[Thief of Spirit] (affliction, curse, drain): Ongoing mana drain effect.
+
+Castigate (spell)
+
+[Mark of Sin] (affliction, holy): Turns target’s aura into an easily tracked beacon. Cannot be cleansed while the target has [Sin] or [Legacy of Sin]. At gold rank, imparts resistance to cleanse effects.
+
+[Weight of Sin] (affliction, holy): Suffer transcendent damage when subjected to a holy boon, recovery or cleanse effect.
+
+[Marshal of Judgement] (boon, tracking, holy): Track anyone with [Mark of Sin].
+
+[Mortality] (affliction, holy): Negates immunity to curses and reduces resistance to magic afflictions. Cannot be cleansed while any curse is in effect.
+
+Feast of Absolution (spell)
+
+[Legacy of Sin] (affliction, holy): Execute abilities have a greater effect on the target. Stacking.
+
+Sin Eater (special ability)
+
+[Resistant] (boon, holy): Resistances are increased. Stacking.
+
+[Integrity] (boon): Ongoing life force and mana recovery. Stacking.
+
+Hegemony (aura)
+
+Doom Essence
+
+Inexorable Doom (spell)
+
+[Inescapable] (affliction, magic): Blocks teleportation.
+
+[Persecution] (affliction): Target gains resistance to cleansing, and positive or ongoing healing boons.
+
+Doom Blade (conjuration)
+
+[Vulnerable] (affliction, unholy): Resistances are reduced. Stacking.
+
+[Ruination of the Spirit] (affliction, curse): Ongoing necrotic damage. Stacking.
+
+[Ruination of the Blood] (affliction, poison): Ongoing necrotic damage. Stacking.
+
+[Ruination of the Flesh] (affliction, disease): Ongoing necrotic damage. Stacking.
+
+[Price in Blood] (affliction, holy): Deal additional damage to others with this affliction.
+
+Punition (spell)
+
+[Penitence] (affliction, holy): Targets inflicted with [Penance] when afflictions are cleansed from them.
+
+Verdict (spell, execute)
+
+[Sanction] (affliction, holy): Healing on target is reduced. Cannot be cleansed while suffering [Penance].
+
+Avatar of Doom (familiar, summon, ritual, {execute}, {holy})
+
+[Harbinger of Doom] (affliction, unholy): Target conjures butterflies that spread all afflictions on the target to other enemies.
+
+APPENDIX IV: Boons & Afflictions List
+
+The following is an alphabetised list of all boons and afflictions produced by Jason’s essence abilities. This includes indirectly, such as through conjured items or familiars.
+
+[Bleeding] (affliction, wounding): Ongoing bleed damage and absorbs healing. Cannot be cleansed but is removed after absorbing enough healing.
+
+[Blood Frenzy] (boon, unholy): Bonus to Speed and Recovery base attributes. Stacking up to a maximum threshold.
+
+[Blood From a Stone] (affliction, magic): Negates immunity to blood and poison effects. Cannot be cleansed while the target suffers any blood or poison affliction.
+
+[Blood Glutton] (boon, unholy, stacking): Drain effects are more powerful. Additional instances have a cumulative effect.
+
+[Blood of the Immortal] (boon, unholy, healing): On suffering damage, an instance is consumed to grant a brief, powerful ongoing healing effect. Stacking but does not grow stronger with more stacks.
+
+[Creeping Death] (affliction, disease): Ongoing necrotic damage. Stacking.
+
+[Strength of My Enemies] (boon, unholy): Bonus to Power and Spirit base attributes. Stacking up to a maximum threshold.
+
+[Endless Power] (boon, unholy, healing): On reaching low thresholds of stamina or mana, an instance is consumed to grant a brief but powerful recovery effect.
+
+Exsanguination] (affliction, wounding): [Bleeding] can stack.
+
+[Harbinger of Doom] (affliction, unholy): Target conjures butterflies that spread all afflictions on the target to other enemies.
+
+[Inescapable] (affliction, magic): Blocks teleportation.
+
+[Integrity] (boon): Ongoing life force and mana recovery. Stacking.
+
+[Leech Toxin] (affliction, poison stacking): When [Bleeding] is negated, reapplies [Bleeding]. Stacking.
+
+[Legacy of Sin] (affliction, holy): Execute abilities have a greater effect on the target. Stacking.
+
+[Mark of Sin] (affliction, holy): Turns target’s aura into an easily tracked beacon. Cannot be cleansed while the target has [Sin] or [Legacy of Sin]. At gold rank, imparts resistance to cleanse effects.
+
+[Marshal of Judgement] (boon, tracking, holy): Track anyone with [Mark of Sin].
+
+[Mortality] (affliction, holy): Negates immunity to curses and reduces resistance to magic afflictions. Cannot be cleansed while any curse is in effect.
+
+[Necrotoxin] (affliction, poison): Ongoing necrotic damage. Stacking.
+
+[Penance] (affliction, holy): Ongoing transcendent damage. Stacking. Stacks drop off over time.
+
+[Penitence] (affliction, holy): Targets inflicted with [Penance] when afflictions are cleansed from them.
+
+[Persecution] (affliction): Target gains resistance to cleansing, and positive or ongoing healing boons.
+
+[Price in Blood] (affliction, holy): Deal additional damage to those with [Price in Blood].
+
+[Price of Absolution] (affliction, holy): Suffer transcendent damage for each [Sin] removed.
+
+[Resistant] (boon, holy): Resistances are increased. Stacking.
+
+[Rigor Mortis] (affliction, unholy): Penalty to [Speed] and [Recovery]. Stacking. Adding to the stack inflicts necrotic damage.
+
+[Ruination of the Blood] (affliction, poison): Ongoing necrotic damage. Stacking.
+
+[Ruination of the Spirit] (affliction, curse): Ongoing necrotic damage. Stacking.
+
+[Ruination of the Flesh] (affliction, disease): Ongoing necrotic damage. Stacking.
+
+[Sacrificial Victim] (affliction, unholy): Suffer greater effects from drain attacks and blood afflictions.
+
+[Sanction] (affliction, holy): Healing on target is reduced. Cannot be cleansed while suffering [Penance].
+
+[Sin] (affliction, curse): Necrotic damage taken is increased. Stacking.
+
+[Strength of My Enemies] (boon, unholy): Bonus to Power and Spirit base attributes. Stacking up to a maximum threshold.
+
+[Tainted Meridians] (affliction, poison): Cost of abilities is increased. Bleeding adds mana loss to blood loss. Drain attacks are more effective against target.
+
+[Thief of Life] (affliction, curse, drain): Ongoing health drain effect.
+
+[Thief of Spirit] (affliction, curse, drain): Ongoing mana drain effect.
+
+[Wages of Sin] (affliction, unholy): Deals ongoing necrotic damage. Stacking.
+
+[Weight of Sin] (affliction, holy): Suffer transcendent damage when subjected to a holy boon, recovery or cleanse effect.
+
+[Vulnerable] (affliction, unholy): Resistances are reduced. Stacking.
+
+[Weakness of the Flesh] (affliction, magic): Negates immunities to disease and necrotic damage. Cannot be cleansed while the target suffers any disease.

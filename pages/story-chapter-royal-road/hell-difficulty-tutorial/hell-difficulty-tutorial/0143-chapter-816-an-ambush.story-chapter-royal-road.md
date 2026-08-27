@@ -1,0 +1,103 @@
+---
+id: 46a99d31-0c22-5527-9bc6-b09ba3f32b31
+page-type-slug: story-chapter-royal-road
+title: "Chapter 816 - An ambush"
+slug: 0143-chapter-816-an-ambush
+partOf: hell-difficulty-tutorial
+position: 143
+ownLength: 2087
+unit: words
+publishedAt: 2026-05-31
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3475306/chapter-816-an-ambush"
+royalRoadId: "3475306"
+---
+
+We leave the outpost with what almost seems like a crowd. I bet some of those assholes are betting on whether we’ll all die, if some of us will return, or if all of us make it back.
+
+I can’t even be mad, it’s rare to see four S ranks head out into the night to enact what seems like a group suicide. After all, if your luck runs out, one could stumble upon monsters that pose a threat even to a Champion. The last time I crossed paths with a night creature, it was a monstrosity marked with four question marks, meaning level 450, if not much higher.
+
+Of course, getting to level 450 doesn’t make you a Champion, and there is a big difference between, let us say, a level 480 person and a level 480 person who just became a Champion. After all, once you become a Champion, the second stage of your attribute upgrade unlocks. And damn, it has been a long time since I got my first stage.
+
+For me, I decided to upgrade my Mana, more specifically my Mana Amplification. My stages are Vast Mana, Omnipresent Mana, and the last stage being Limitless Mana. I suspect the third one might be reserved just for the most powerful jerks, someone like Rulers and such. Even Lissandra, back on Eladore, didn’t have a third stage upgrade.
+
+Or maybe she did back in the real world, and her nerfed tutorial version was stripped of it. The Rulers must have been terrified of her. But perhaps 'scared' is too weak a word, judging by the state they left her tutorial replicas in. All those lobotomies and memory erasures.
+
+So anyway, my first stage doubles my mana, and I’m already excited for the second one.
+
+I may be saying it in a roundabout way, but to shorten it, if we meet a true Champion with a second stage, we are likely fucked unless it turns out to be someone with a big weakness to one of our strengths. And damn, even then, it would be dangerous. If we meet someone with four question marks who’s not a Champion, we will likely be able to deal with them. But the power levels there vary a lot as well.
+
+Another example: you can have a monster of level 500 that took 500 years to get to that level, being patient, cowardly, and without any ambition. Let’s give that monster some random name. Something like Sav. Then, our group would have such a granny of a monster for breakfast.
+
+But what if we meet a monster that is 50 to 100 years old and already level 500? Let's call it Monsthaniel. Some monstrosity that spent its teenage years angry, while constantly getting stronger and stronger, fighting for its life, and improving skills like the ancient corgi Archmages intended.
+
+We would be their breakfast in that case.
+
+There’s something to be said about the simplicity of a system where you would have your numerical power level, and the higher number always beats the lower number, with no environmental factors, skill, or items to be taken into consideration. But it would be a very boring system.
+
+So for now, we are careful. As much as we might seem like brainless lunatics, we’ve set up an array of plans and countermeasures, and defined our roles in combat. We also mostly have an idea of each other's capabilities, so we know what we can rely on.
+
+And as much as some of us would like to beat the others down, I don’t think we need to worry about a traitor who would leave everyone else to die on purpose. It is surprising, but I don’t think even Savant would do that, nor do I think Brich would. As for Weslin and Morwag, I trust them wholeheartedly.
+
+Zant is gone now, after delivering his message to us and after we exited the outpost. He just disappeared without any of us noticing how. I’m still sure he’s still around, but I’m also sure he’ll do exactly as he said. He will not interfere, not even if one of us were about to die. That’s more than acceptable to me, though I am growing more curious about the tiny guy by the day and what his status as Diligence’s vessel actually means.
+
+As always, when I get excited in anticipation of a tough fight, my mind races and all these thoughts bounce inside, along with a great many more. Still, even now, I continue to keep my guard up, searching for danger and keeping myself ready to launch into a fight.
+
+It is eerily quiet, and light akin to moonlight only serves to partially illuminate the rocky ground of the 3rd floor. There are no night animals, insect cries, or noise from the wind at all, so every step sounds that much louder, and every rock kicked under our feet almost seems to echo off the air itself. We walk slowly, as there’s no need for us to hurry, and it is better if we stay somewhat close to the outpost. We also don’t have any particular goal, we’re just wandering into the night looking for a fight.
+
+Brich’s armor is completely silent now, and he doesn’t give off any sound, even though his armor clanged the whole day through.
+
+So, he’d been leaving it that noisy on purpose all along. What a guy.
+
+It’s then that I notice an interesting thing about Savant as well. The best I can describe it is that he’s been absorbing his own presence. I can’t sense any mana coming from him, and no heat or kinetic energy either.
+
+Though I have experience with that, so if needed, I could probably track him by looking for the lack of these things. It is something that would be more difficult to notice right away if I didn’t already know about it. I begin to compare it to Tacita and come to the conclusion that even if he improves it, it’ll never be comparable to hers. Still, it represents yet another thing he’s stolen, as that similarity tells me it can only have been inspired by her.
+
+Weslin walks quietly, and his heart beats slowly and calmly, though I can see currents of his mana, ready to explode and strengthen his body. Morwag, meanwhile, walks proudly and tall, his heart beating like a drum as his eyes seem to glow in the night and his muscles bulge under his clothes with each movement.
+
+There are no enemies even after an hour, and that silence starts to grow unnerving. Every one of us is used to monsters screeching as they circle the safe zones late at night, but today it’s as if they’ve all decided to hold back.
+
+“Fine gentlemen, how about we make our return?” It’s Brich who speaks first, “It may just be my damaged mind from all the uploads talking, but it feels like every monster just left to bring in a few more powerful ones to deal with us.”
+
+We come to a stop. The air feels cold as I breathe in, but also fresh. If not for the current mood, it would be exactly the sort of night I enjoy.
+
+“I mean, we could, but in between us and the city, there are currently like 100 monsters,” I say.
+
+Morwag laughs, Weslin shakes his head, and Brich looks at me and then pulls out a folding telescope, which he expands to near comical length and looks towards the outpost.
+
+“Wow, some of them are really ugly,” Brich breathes out. “Were you planning to tell us?”
+
+I shrug, “Would it have changed anything? They’re not all that strong, and we came out here to get ourselves into some fights. And I only noticed them a few seconds ago anyway.”
+
+“They’re not moving any closer,” he notes.
+
+“It is obvious that they are waiting for their leader,” Morwag says, slapping his palms together, creating a small shockwave that echoes into the night and blows a cloud of dust outward from our position.
+
+The others seem to agree as Brich puts away his telescope and takes three sticks from his bag, which he then connects to one another and stabs the extended device into the ground. At the top of which, a small yellow light activates, and using some wires from his bag, he connects two small, fist sized boxes to the stick, causing mana to flow through the device and expand a sort of array based domain.
+
+“Silverweave’s inscriptions, mana engines from Eldrin, and… I forgot what she called it, some kind of fancy staff from Isolde,” Brich explains to me when he notices my look.
+
+“What is a mana engine?” I ask, curious, as I gently kick one of the boxes he seems to be referencing.
+
+For a moment, Brich looks at me like I’m the weird one. “I have no idea! Every time I tried to take it apart, it exploded and made Eldrin angry because they’re apparently pretty difficult to make.” His voice lowers to a whisper. “Though I think the name is a bit too pretentious. It’s probably just some sort of mana battery that only shows a mana signature when it’s actively generating mana, rendering it undetectable until then, unlike mana batteries based on mana stones or similar materials.”
+
+“Huh,” I squat next to it and probe it with my finger. “Would it not be easier to place a bit of shielding around a mana stone for the same effect and just open it as you need mana?”
+
+“I asked the same thing, and his answer was: No, Brich, are you stupid or something? Are you actually this thick, or are you just putting on a show for me? Silverweave, come here, look at this. Is he even awake? Is there anything going on behind those eyes at all? Honestly, come here, there might be a serious problem with his uploads... ehm, anyway, he also gave me one of his looks, you know the kind.”
+
+“I can imagine,” I agree.
+
+The next moment, what looks like a bone spear flies high over our heads and embeds itself in the ground about half a mile away. Right after, an explosion follows, which reaches us in a fraction of a second as I deploy one of my defensive barriers to surround our group.
+
+The mana engine begins to hum and shake, and the mana output increases drastically to the point I am surprised to see where it’s all coming from. The mana surges up through the staff, the yellow light glows brighter, and the array surrounding us strengthens, expanding beyond my barrier.
+
+Multiple more bone projectiles follow, stabbing into the ground all throughout the area. Each explodes in an almost quiet sort of way that generates no heat or sound other than the rocks being thrown into the air and the shockwaves rumbling through the air in a way that seems to be disrupting mana to some degree.
+
+One of the lances pierces through Brich’s array and my barrier, stabbing into the ground next to Savant. For a moment, an orange light surrounds his figure as he grabs the lance, and in the next, it disappears. That orange light surrounding him expands further behind his figure like a steam engine releasing built up pressure before being pulled back. His eyes scan the area, and from his hand, he draws the Sword of Aeons and rushes out, using a combination of kinetic energy and mana based reinforcement.
+
+I pull the barrier surrounding us back to me, reforming it and concentrating it into a projectile. More of my mana seeps out, and the skill activates, converting it into an [Empyrean Lance], which shoots off into the night in the direction of the incoming bone projectiles.
+
+Unlike the others, Weslin is more of a team player, and he rushes towards the group of 100 monsters already rushing to attack us from the direction of the outpost.
+
+Brich pokes the staff, which grows further in size, and the output of the mana engines increases even further while the array changes into something that feels, in some weird way, vile, before leaving to join Weslin.
+
+Meanwhile, I follow Morwag, rushing through a rain of bone projectiles. Some of them crash against his body, exploding and throwing him all over the place, but they lack the piercing power to kill the demon binding himself together as his lips begin to slowly lift upwards.

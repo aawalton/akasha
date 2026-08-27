@@ -1,0 +1,279 @@
+---
+id: c4f2b328-cf98-568e-896c-23dd1b214509
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52"
+slug: 0052-chapter-52
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 52
+ownLength: 3511
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3376146/chapter-52"
+royalRoadId: "3376146"
+---
+
+Chapter 52
+
+Veron, Isaac, and Elke went north and to the central mountain overlooking Anvakar, which according to Isaac, was called the Beriam Mountain and it was the closest one to the Spindle. Ailis excused herself to prepare things for tomorrow.
+
+Isaac said he wanted to see Veron’s magic.
+
+“So, where are you two staying while you’re in the city?” Veron asked. He looked around as they reached a steep path of stairs up the mountainside. There weren’t any guards around, but there weren’t any guards in Anvakar anyways. Veron felt the rock around them and chose the area that seemed best.
+
+“I’m renting a small apartment near the Circles,” Isaac said. “It’s pretty cheap because I know the man I’m renting from.”
+
+“I stay at a shop,” Elke said.
+
+“A shop?”
+
+She nodded.
+
+“What kind of shop?” Veron asked.
+
+“They sell all kinds of things. Vessels are the main business. Cheap ones.”
+
+“I see,” Veron said. “So, we’ve got rock here. What did you think of?”
+
+She nodded and opened her pack, then got out some rope. Attached to it was a three pronged hook. Elke casually held it and looked at them, then when they looked at her with questioning glances, she started swinging the rope, the hook quickly gaining speed, before she threw it at the stairs some distance away. It was obvious that she was practiced.
+
+“You want to replace the hook with something heavier?”
+
+“Yes. With rock.”
+
+“I see,” Veron said. That could be effective against skeletons. If she can aim it properly. Which it seems, she can.
+
+He carved out a simple chunk, then shaped it slightly to make it rounder. Both of them watched with obvious interest.
+
+“He just shapes it… like carving wood, but without even needing a knife,” Isaac commented.
+
+Veron finished by adding a large hole for the rope to go through. “Is that too heavy?”
+
+Elke checked the weight and shook her head, removed the metal hook from her rope, and fastened the rock to it. Then she tested the weight, swinging the heavy rock around with a much slower motion, then increasing the speed, and finally she sent it flying. It hit the same spot as the hook before, but with an audible impact.
+
+“That should work,” Isaac said.
+
+“I think so,” Elke added.
+
+Veron watched her retract the rope and rock with a few quick sweeps.
+
+“Nice to see your magic,” Isaac said before he looked up at the mountains. Only the peaks remained somewhat sunlit. “It’s getting late. I should go prepare for tomorrow.”
+
+“Yeah,” Veron said. “I’ll carve out a small shield for Ailis and then should probably rest up too. Good meeting you, I’m looking forward to tomorrow.”
+
+Elke nodded.
+
+“Yeah, me too,” Isaac said. “See you tomorrow.”
+
+Elke waved her goodbyes as well, saying a quiet thanks for her new impromptu weapon.
+
+Veron finished a small shield and then went back towards the Circles and the Adevian Fort. He watched the hundreds of adventurers going about their business for a little while, and then made for the Willard Inn.
+
+Veron took a bath and found a spot in the main sleeping hall. His pack, he left in a locker at the entrance. There were a few hundred beds here, all singles and close to one another. Veron took off his armor and settled down, watching as other adventurers slowly came into the hall. His remaining silver he had hidden within his bracers, and he still wore those.
+
+How many of those people would end up joining the expedition to Perrion?
+
+Most of them are Irons, trying to make it as adventurers. I’d be the same, wouldn’t I? If not for Envolon’s magic.
+
+I’m still just a Modest Path. And I don’t think it will change the experience in the dungeon all that much. My nerves, my emotions, and thoughts are supposed to protect me from harm and death. Even if I know cognitively that I will likely return, that doesn’t mean any other part of my body understands. And I don’t think that will ever change.
+
+He shifted in the bed.
+
+I feel less apprehensive compared to my first time here at least. That’s nice, though that could also just be experience. I’ve been to the Crypts already after all.
+
+Veron slowly calmed down. There would be more thoughts and feelings about his situation, that was alright. He had made some choices today, and he’d found a team. He even felt a bit excited for the delve.
+
+Perrion is no longer cursed, and I’m back too. And tomorrow, I’m going back into the dungeon.
+
+Veron fell asleep soon after, waking up a few times, both from dreams and unfamiliar sounds.
+
+After breakfast, he went to the Guild, meeting up with the others in the map room of the first layer. He was glad to see that everyone had shown up.
+
+“I’ve got food, water, ropes, torches, flint, and steel,” Isaac said and then started distributing things.
+
+“I have bandages, salves, and alcohol to treat wounds,” Ailis added and handed them out as well.
+
+“Thanks, to the both of you,” Veron said. “Should we split the cost now or check at the end of the day?”
+
+“We can check later,” Isaac said.
+
+Ailis nodded.
+
+“Great. Then should we find a goal? Isaac, you’re the most familiar with the Crypts out of our group?”
+
+“I should be, though more in theory. I’ve not been down there many times either.”
+
+“Do you have a suggestion?”
+
+Isaac went to the map, careful not to bump into anyone until he reached it. The others followed. “The C-Tunnels are fairly well known. Not too many traps usually and few forking paths. There are several larger halls where we could test ourselves. And if there are too many teams there, we can shift over to the adjacent D or even E tunnels, depending on how we do?”
+
+“Then we can try to set C14 as a goal?” Veron said and pointed at a hall along the many tunnels marked with the letter C. It was the first larger hall from the direction of the pit.
+
+“That looks doable, yes,” Isaac said. “And the paths there should be straightforward.”
+
+“Great, then let’s study the map for ten to fifteen, and then head off. Does that sound good to everyone?”
+
+The others confirmed.
+
+Veron spent some time trying to memorize the tunnels, sketching them down as well as he could. Even this small section along the C tunnels felt sprawling, though he could see why Isaac chose it. Compared to some of the other sections he saw, these tunnels went almost straight into the rock. There were a lot of stairs and small branches in the corridors but they almost all led in the same direction. North east and away from the pit, deep below Anvakar.
+
+When they felt somewhat familiar with the space, at least on the map, they left for the dungeon.
+
+He felt some tension, both in himself and in the group. Veron himself felt mostly excited, but a bit scared as well. He’d gotten used to the presence of Reka, Silvie, and Hayden, and the calm that their experience brought. The knowledge of the time magic didn’t help either, mainly just adding a dash of confusion and guilt.
+
+And now I’m the leader.
+
+“How is everyone feeling?” he asked.
+
+“Good,” Ailis said.
+
+“I’m okay,” Isaac said.
+
+Elke motioned so-so.
+
+Veron focused.
+
+“Alright. Good enough for our first dive, I think. Let’s move slow and careful. No injuries if we can help it, and if anyone notices anything dangerous or feels uncomfortable for any reason whatsoever, speak up. We can take breaks, we can retreat. There is no rush. Everyone ready?”
+
+He received a few nods and yeses, feeling as if some of the tension was already gone. In himself as well. He expected things to calm down more once they survived their first battle.
+
+Memories from Perrion came back for a moment. He breathed and grounded himself with the stone below. You’re not in Perrion. This is the dungeon, and we’re going into the first layer.
+
+When he felt calmer, Veron breathed out and looked up.
+
+The sky was clear, the sun only just illuminating parts of the mountain peaks. It was cool but not cold. Adventurers in plate and leather armor stepped onto lifts or climbed down the steel chains fastened to the simple railing that surrounded the pit of Anvakar, taking with them weapons, vessels, hope, and fear.
+
+Veron’s group found their point of descent as well. A simple chain of dark steel, hanging down into the abyss, linked at the top to the single steel railing.
+
+“The entrance we want is fifteen meters down, and slightly to the right,” Isaac said, pointing to indicate the direction. He got a large piece of rope out of his pack and started fastening it to the railing. It would serve as additional security for whoever was climbing down. “Who wants to go first?”
+
+Veron looked down into the abyss. It was scary, sure, but far less so than the first time he’d stepped onto a lift here. He remembered what Hayden had taught him down on their descent to the Gutter. This was very similar, though the lack of light made it feel more challenging. And he could tell it would scare him more the longer he stayed here.
+
+He nodded. “I’ll go first.”
+
+Isaac glanced between the others and then settled on Veron. He fastened the rope around his chest and below his arms. “There should be more chains down there, to help you get in. Check for critters too, though few come so close to the pit, I think. Once you’re in the tunnel, remove the rope and throw it out, we’ll take it back up.”
+
+“Right,” Veron said. He checked his gear one last time, to make sure everything was secure, then he grabbed onto the steel chain and tugged on it a little. Yeah, that seems very secure.
+
+Veron would’ve maybe dared to climb on this thing even back on Earth, as long as he was secured. But with his increased strength now, he felt confident. “See you on the other side,” he said, and carefully climbed over the railing. He pushed his stone boots against the cliff and started his way down. Step by step, keeping himself balanced as he heard the sound of chain links clinking against each other, a slight echo audible. He heard other climbers too, farther away. Some shouts too, and moving lifts, though the sheer size of the hole ate much of the sound.
+
+Veron reached the height of the first tunnel entrance. There were many more that he could spot in the gloom, dark openings into the curving walls. Looking up, he could see the distant top, barely able to make out the others peering down. He still had some rope, though looking down, he didn’t want to test if it would catch his weight. A few pebbles fell into the darkness. He breathed a little heavier now, slowly moving over to the entrance.
+
+Veron saw the floor, the tunnel entrance carved into the wall as if there wasn’t a several hundred meter drop just outside. There was a chain here too, horizontal this time and fastened to the rock wall with metal bolts. It led into the tunnel.
+
+Veron secured his legs around the chain he held onto, then reached out with his right hand. He couldn’t reach, so he started swaying slightly until he could grasp the other chain secured to the wall. Slowly, he pulled himself closer, then over to the entrance.
+
+Veron breathed out slowly, pushed one boot against the wall, then grabbed the other chain with both his hands. He worked his way over and found secure ground, then up and into the three meter high stone corridor.
+
+It was dark. He could barely see a few meters into the depths. His breaths hastened, and he quickly unfastened the rope around his chest, then threw it out into the pit. He connected to the rock below his boots, feeling its weight and reach. Veron stared into the darkness as he got out his torch, then his flint and steel before he started sending sparks onto the oil covered cloth fastened around the wood.
+
+Veron felt anxious until the flame lit up, bringing light to his surroundings. He breathed out and raised it high, illuminating the dry and arched tunnel carved into the stone. He grabbed his mace and realized that holding the torch would be difficult if he wanted to use his shield as well. Nothing that my Earth Harmony can’t fix. The others will take a while down, so I’ve got time.
+
+He thought about where to add a holder and finally decided on his left shoulder, in the back. The weight of the torch wasn’t substantial, and if he angled it to the left a little, the light and heat wouldn’t bother him much.
+
+Stupid to climb down without light as well. If there had been something waiting here, it would’ve been a difficult fight. Next time I go down with a burning torch fastened to my armor.
+
+Ailis reached the tunnel some ten minutes later. Veron helped her in. Then came Elke, and finally Isaac, one after the other. The tracker opened up the rope and left it hanging.
+
+“We won’t get that back, are we?” Veron asked.
+
+“It’ll be gone in an hour, or less,” Ailis said. “We might even be able to buy the same one again tomorrow.”
+
+Veron smiled slightly. “Quick break for Isaac, then we get started.”
+
+The air down here was cool, but his Path made him feel comfortable.
+
+Isaac lit a torch as well and gave them a thumbs up.
+
+“Alright then. We’ll try and adjust, share your thoughts and suggestions between any fights we may have. Ailis, you move to my right, slightly behind. Isaac, behind and to my left, Elke, behind and to the right. Call out if you notice anything. Ready?”
+
+“Ready,” said Ailis. She sounded eager.
+
+“Ready,” Isaac said, his voice even.
+
+“Ready,” said Elke, her tone guarded.
+
+“Then we move. Slow and steady,” Veron said, and led the group into the dark. At first, he had his shield and mace at the ready, guarded for an ambush or sudden trap, but the first corridor ended some ten minutes of walking later, a shut wooden door at the end of it. He relaxed slightly, then checked if it was locked.
+
+It wasn’t, the door making a creaking sound as he opened it. Then he stepped inside, remembering the section of the map they had studied. There would be a small room here, then another corridor, another room, a corridor, a fork, and then they would be in the C-Tunnels proper.
+
+He stepped inside, the light of his torch flickering slightly as it filled the stone room, the walls made of dark bricks. It was quiet. There was nothing here. The others followed him inside, back in formation. “We go on.”
+
+The next corridor followed. Veron was focused. He felt tense, sweat running down his forehead by now despite the cool air. He’d been down here before, but that was with an experienced team, not as the leader of a new one. They reached another door, and this one too, was unlocked.
+
+He listened, but didn’t hear anything. He gave the others a nod, then opened the door. Nothing came at them, so he went into the small stone room. He looked right and saw a skull looking back at him, a sword rushing down and crashing against his shield. Something struck his back as well as movement erupted.
+
+“Behind you, Veron!” Ailis called out and rushed in as Veron maneuvered himself to the left and around the skeleton. He blocked another sword strike and looked right where another creature held a spear that Ailis now grabbed with her left hand.
+
+Veron focused on the monster in front of him, its strikes fast but weak. He slapped the next slash aside with his shield and stepped close, striking down with his mace. He felt the resistance, as if there was more substance there than just the bone. He struck again and this time, shattered through the creature’s clavicle and a few of its ribs. It still stood, so he struck a third time, breaking through its chest with the sound of cracking bone before it fell. Veron had to rip out his mace and saw that Ailis had pushed the other skeleton against the opposite wall. Elke and Isaac now came into the room, which blocked his way to Ailis.
+
+He heard noise from the corridor ahead and saw something small and fast rush in. Veron ran towards the skeleton dog rushing at Elke, intercepting it with a kick of his shin that sent it stumbling to the side. He could feel the impact on his leg but his armor absorbed most of it.
+
+He glanced left and saw Isaac shoot the spear wielding skeleton with one of his bolts, the impact shattering its chest, so Veron went for the dog, doing the same thing as before. He met the charging beast with his own run, stone winning out against bone as he ran it over, then brought down his mace with several heavy strikes. It stopped moving a moment later.
+
+Veron breathed hard and checked the corridor ahead. A part of him expected a group of cursed rushing towards them. But there was nothing else coming.
+
+He rested against the wall now, his breathing steadying quickly. Veron nodded to himself as the others gathered themselves and looked around. He slowly breathed out, feeling his heart beating in his chest. “That was a mess. Well done everyone. Our first fight in the Crypts.”
+
+“Is anyone injured?” Ailis asked.
+
+“I can feel my shin, but I think I’m alright. Can you check my back?” Veron said.
+
+“A slight chip in the stone, but you’re good. It didn’t get through,” Isaac said.
+
+“Good. Let’s calm down for a moment then,” Veron said.
+
+They were all still alert, but slowly, they lowered their weapons.
+
+Ailis checked the small stone shield he had made for her. Isaac looked down the corridor ahead. Elke looked at the bones.
+
+“Alright then,” Veron said and pushed himself away from the wall. “Who claims what?”
+
+“Claim?” Elke asked.
+
+“The kills. We extract their essence. People claim the essence based on their contribution.”
+
+“Oh, then I claim none,” Elke said.
+
+“One warrior for me then,” Veron said. “You two?”
+
+“I take the dog, I only finished off the warrior,” Isaac said.
+
+“If that’s fine by you,” Ailis said.
+
+“It is.”
+
+“Good. You three stand guard while I extract, then we switch,” Veron said and knelt down next to the skeleton he had killed, or destroyed, he didn’t know what even animated them.
+
+What Path would they belong to? Chaos? Or Blood?
+
+He arranged the bones to make it look like the skeleton rested against the wall, then he touched its skull. May you find rest. His torch seemed brighter, the silence of the tunnels calling him deeper still. There was more lurking in the dark. He breathed deep, some calm returning back to him. His shin felt better when he stood back up. “Your turn.”
+
+The others knelt down and said their prayers, the small almost featureless room briefly seeming brighter, part of ancient history, and purpose. Veron wondered who all had walked this path, had fought in here, had found shelter. And then the moment was gone, the stark walls returning to their mundanity.
+
+“Three skeletons down,” Isaac said.
+
+“Can we sell their weapons?” Veron asked. “I don’t suppose the bones are worth a lot?”
+
+“I don’t think so. Though the weapons, maybe? A short sword and a spear. I’m not sure how much we’d get for that,” Ailis said.
+
+Elke glanced around. “I think I know.”
+
+“Yeah?”
+
+“The sword is rusty, but it’s not too bad. I think we could get three to six silver for it. The spear is worth less, probably closer to fifteen iron.”
+
+“That’s not a lot,” Ailis said.
+
+“We have to make at least some silver,” Veron said.
+
+“Fair.”
+
+“We take the sword with us. Who can carry it?” Veron asked.
+
+“I’ll take it, got enough straps on my pack, and I’m not fighting much in close quarters,” Isaac said.
+
+“Good, then let’s discuss the fight. Everyone feel okay after this?” Veron asked, seeing them confirm. “Ailis, I think it’d be best if you move closer to me when we enter a new room, I go left and you go right, then we can have each other’s backs. Elke and Isaac, you wait and aim, and join in only when we call. I think it got a bit too crowded there, does that sound reasonable?”
+
+They all confirmed.
+
+“Great, then we move on. Slow and steady. Let’s keep it going just like this.”

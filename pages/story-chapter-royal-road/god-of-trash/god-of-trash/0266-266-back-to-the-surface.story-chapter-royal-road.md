@@ -1,0 +1,151 @@
+---
+id: e17f7b12-e760-534d-a538-8432440bb513
+page-type-slug: story-chapter-royal-road
+title: "266. Back to the Surface"
+slug: 0266-266-back-to-the-surface
+partOf: god-of-trash
+position: 266
+ownLength: 2235
+unit: words
+publishedAt: 2026-01-27
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2982907/266-back-to-the-surface"
+royalRoadId: "2982907"
+---
+
+Rhys retreated from the mine feeling largely dissatisfied. He hadn’t accomplished any of his goals, and not only that, but the gunk problem that he didn’t yet have a good solution to had gotten worse, and he hadn’t gotten any closer to fixing it. It was that feeling when the deadline was closing in, and your coworker suddenly pointed out some huge addition that absolutely had to be done on your project, and now you had the problem you’d had before, but also a second, equally as large, if not larger problem, none of which had any solution, and the deadline was only getting closer.
+
+Not that he had a deadline here, but somehow, he felt like he did. If nothing else, there was a limit to how long absolutexistence would give him to work on the trash before it sent someone else over. He wasn’t sure if he or Mirai had gotten here first; he’d have to ask her the next time they met. Either way, he certainly hadn’t finished the objective absolutexistence wanted him to, and he was pretty sure Mirai hadn’t done it either. That meant the countdown timer to the next arrival was surely ticking down, and there was nothing to guarantee the next person wouldn’t be an Empress instead of a Mirai. He needed to prepare… or finish the task before then, though he really had no idea how long absolutexistence was waiting before it summoned another person. Mirai and he seemed awfully close together, but who knew? Maybe she’d been here for hundreds of years. The Empress surely had been, but Mirai seemed a little more recent.
+
+But maybe that’s only because we know the same shows, he considered. Just because they’d come from the same time, didn’t mean they’d been summoned to the same time on this world. Time didn’t seem to flow at the same rate across their worlds, or maybe it was more like absolutexistence had the ability to draw people from any time to whenever it summoned them in this world, bound only by the flow of time in this world, but not by the flow of time in his world.
+
+I still need to find a way to get stronger. Or rather, he had to figure out what he needed to overcome the bottleneck currently blockading his path forward. Even if he developed a way to absorb all the black gunk here, he’d simply hit that blockade and be unable to hit Tier 5 anyways. It’d already happened, in fact. When he’d been sucking in the filth pillars Soma was creating, he’d filled up, but been unable to expand his trash star any further. He’d created The Hunger instead, so he didn’t consider it a loss. No, the point was, he was stuck, and he didn’t have a great path forward.
+
+Or rather, he hadn’t figured out what his path forward was yet. Once he figured it out, he was sure he’d be able to break through the bottleneck and progress, but until then, he was stuck.
+
+If I’m not going to be able to level up quickly, then it’s time to get started on my other objectives. He stepped out into the night and looked around, then ran his hair back and sighed. That meant it was time to go recruit Soma’s help and get started on the real solution to his Alliance problem: messing with Virgil until he went fully crazy and abdicated the throne, or, more likely, got forcibly removed.
+
+He opened his storage ring and rifled through it for a bit. The thing was stuffed with useless garbage and other things he’d forgotten, but it also held the thing he was looking for: a communication amulet. He’d brought it up in his planning, and Soma had immediately known what he was looking for. Apparently, they were quite common among higher-tier mages. “Hey, Soma. It’s time.”
+
+“It’s barely been a day, darling. Where’s the anticipation?”
+
+Rhys sighed. “I made a few miscalculations. Nothing that’ll effect the plan—personal stuff.”
+
+“Oh dear. That is unfortunate. Still, it’s good the plan can proceed. Luckily, I was as eager as you are, and I’ve already procured a venue.”
+
+“Excellent.”
+
+“It’s in the Alliance’s capital. Have you ever been?”
+
+“No, but I’m excited to visit it.”
+
+“Quite so. If we have some time, I’ll show you around. It is quite the fine city. Many excellent entertainment venues.”
+
+Rhys sighed. “We aren’t doing this for fun, Soma.”
+
+“You might not be, but I am,” Soma replied, a note of warning in his voice.
+
+Right. He is just doing this for his personal enjoyment. If Soma stopped having fun, he could no longer count on the man to be his ally. “Let’s check out the capital, then. It’s not like the plan is that tight in terms of timing.”
+
+“Precisely! I’ll get everything together and contact you when it’s ready.” He paused. “As for the expenses…”
+
+“I can cover. It’s in the Empire’s currency, but gold is gold, right?”
+
+Soma’s voice brightened. “Gold is gold, isn’t that right? You do know how to make a man happy, Rhys. Yes, yes, yes. I’ll accept payment on the backend, of course. Don’t worry. My interest rates aren’t too high.”
+
+“Hey! I can pay it all right now… Hold on, I’ll come back—”
+
+Soma laughed. “Joking, I’m joking, Rhys darling. You’re too cute. As long as you pay me back in a timely matter, we can consider this as money between friends.”
+
+“The next time you see me, I’ll hand the money over,” Rhys promised.
+
+“Of course, of course. It should be ready within a week.”
+
+“Understood.”
+
+He lowered the amulet and looked around him. There was nothing else he could do to level up right now, but there was something he could do while Soma prepared things. He set off at a run, then hopped into the air and flew. He really needed to practice flying. He’d never learn of he kept avoiding it like this.
+
+Despite that, he flew low. He still didn’t want to attract anyone’s attention, and it helped him practice maneuvering, too, while he was at it. He raced across the Empire, extending his curse sense ahead of him. Whenever something lit up, he flew toward it. Whenever it was an Impure Well, he darted down and absorbed it, then ran to the bottom to check if there was a piece of the rider. The rider itself posed no danger to him anymore. A swish of The Hunger, and it fell, joining the rest of the pieces in his core.
+
+With the Impure Wells and the impurities from the mine, he densified his star once, twice, three times, picking up more impurities and compressing his star, picking up more and compressing it again. It was how he’d progressed before, but this time, it wouldn’t be enough. The gain was additive, when he needed a multiplicative gain. Still, it served to drive him closer and closer to the bottleneck. Every step he drew closer was a step he wouldn’t have to take, once he figured out how to break through it and burst into Tier 5.
+
+The Hunger slept through all of it, its sleep uninterrupted by Rhys using it as a sword. He crossed the Empire, then left and started scurrying around the borders of the Alliance, sucking up all the Impure Wells he found. He didn’t go deep into the Alliance, just in case someone was looking for him around Impure Wells, but stuck to the edges, where he could quickly pop over the edge and escape to another region. Not that he thought they wouldn’t chase him, but they’d at least have to think twice about the ramifications of an official Alliance party crossing the border, while Rhys was free to cross whatever borders he pleased, with no ramifications but whatever he couldn’t fight off. It felt so good to be an individual, not a representative of anything bigger. No one could get him with politics if he was just one dude.
+
+That’s not true. But it is at least a little bit harder! And fewer people care about me! Probably. Maybe. Maybe not, though. I did lead an insurrection recently. That’s the kind of individual that gets wrapped up in politics.
+
+He reached yet another Impure Well, then paused and reached under the surface rather than immediately draining it. A pale hand gripped his wrist, and he pulled Sable free.
+
+“Hey there. I thought I might find you here,” Rhys greeted her. He drew the impurities out of her before releasing her hand, checking quickly to make sure he wouldn’t drop her back in the well, either.
+
+She blinked slowly. “You came back.”
+
+“I did, yeah.”
+
+“For me?”
+
+“Yeah.” He paused, realizing that might sound different to her. “Like I would for any friend.”
+
+He was no longer running anything. He could be himself, and be honest with everyone around him, without worrying about everything falling apart. Lira already knew, but he wasn’t sure if Sable did or not. He liked her, but as a friend. There wasn’t anything to their relationship more than friendship. He wasn’t hoping for something more, like he was with Mouse; he was happy with this being the extent of things, and no further.
+
+Sable nodded. “Good.”
+
+“Good?”
+
+“Good.”
+
+Rhys looked at her for a moment, not sure if she understood what he was trying to tell her or not. She didn’t look heartbroken or bothered by it at all. Then again, I’ve met her dad. He’s… unique. If she picked up anything from him, that might be her earnest reaction.
+
+For a split second, he imagined what it would be like if he was trying to gently turn down Sid instead of Sable. The scene didn’t last very long. Sid smiled at him, then closed the gap and—and there wasn’t much left to say. His head left his shoulders, and his body hit the ground.
+
+Yeah… I don’t think anyone turns down Sid. Or says yes to him. Or tries to engage him romantically at all. Except for whoever Sable’s mom was. Whoever that person was, she was even crazier than Sid, because she’d let Sid put a baby in her. That took a certain kind of person, a kind of person far hardier, more powerful, and crazier than Rhys.
+
+“How do you feel about parties?” Rhys asked, as much to interrupt the doomed train of thought devoted to thinking yet again about Sable’s conception as to change the subject from what they’d been talking about earlier.
+
+Sable tilted her head. “Can I kill them?”
+
+“The party? I mean… you shouldn’t.”
+
+“But I can?”
+
+“You probably shouldn’t go to the party.”
+
+She tilted her head the other way. “As long as I know I can kill it, I don’t mind it.”
+
+Rhys smacked his lips. “I think that might be the wrong attitude to bring to a party.”
+
+“Mmm.”
+
+“Well… the first party, anyways. I’ll need that kind of spirit eventually. Just… not out the gate.” Rhys looked around, then turned back to Sable. “You hid here from the Alliance, I take it?”
+
+She nodded.
+
+“They didn’t give you too much trouble, did they? Mark you, or anything?”
+
+“That’s why I hid.” She paused, then pulled her collar down on either side, baring her collarbones to him. “No mark.”
+
+“There’s no need for—” Rhys pulled her collar shut again, then rested a hand on her shoulder and quickly scanned her. He would’ve noticed it earlier, when he was drawing out her impurities, but a devoted scan now confirmed what he’d failed to make particular note of earlier: there was no mark on her.
+
+He frowned, then, remembering something abruptly. “Lira told me you were captured by the Alliance and sent to Ernesto. Did that… not happen?”
+
+Sable tilted her head back the other way. “Hmm?”
+
+A sinking feeling struck him. One of them is lying. Or… isn’t who they appear to be at all. Sable—he put a hand to her collar again. She was full of cursed power, and he’d pulled her out of an Impure Well. This was Sable.
+
+But he hadn’t scanned Lira at all. Even when he’d edited her mark, he’d focused on the mark itself rather than paying any attention to her body.
+
+Not only that, but he knew water sprites could change their appearance. She’d taught him the technique. If Lira was in danger of being captured, why would she keep the same face?
+
+Stupid. Stupid. I was so stupid.
+
+She knows. I edited her mark. Whoever that is… she knows. She knows everything.
+
+Shit! Shit! Oh, I’m so fucked. I’m so stupid. Holy shit, we’re fucked.
+
+Why lie to me about Sable, though? Is there a fake Sable out there? Some kind of Trojan Horse I’m meant to trigger, reaching out to her? His brows furrowed deeper. Am I supposed to self-report myself by reaching out to the fake Sable? But self-reporting is a low-percentage play…
+
+A moment later, he shook his head. That wasn’t the most important thing. Lira—the fake one—was back at Soma’s place, watching everything he did and presumably reporting it all to whoever she reported to. The sick feeling grew stronger, and he lifted the communication amulet again.
+
+“Soma, are you there?”
+
+Silence.
+
+Then, a cold, dry voice: “Did you really think it would be that easy?”

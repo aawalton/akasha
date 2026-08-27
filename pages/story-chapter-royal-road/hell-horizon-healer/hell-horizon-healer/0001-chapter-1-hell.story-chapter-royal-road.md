@@ -1,0 +1,261 @@
+---
+id: 0e94e68b-02dd-5018-bc51-822b0cc39d66
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1 - Hell"
+slug: 0001-chapter-1-hell
+partOf: hell-horizon-healer
+position: 1
+ownLength: 2255
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3517570/chapter-1-hell"
+royalRoadId: "3517570"
+---
+
+Monday. Because of course the world decided to end on a Monday.
+
+One second Jake was holding his morning coffee, staring at his reflection in the microwave door while his breakfast spun inside. Butterflies had already formed in his stomach from the dread of the upcoming office commute. The warm mug was his only sanctuary, a temporary shield against the miserable routine of the week.
+
+The next second, a screeching needle of sound drilled straight through his skull.
+
+The physical shock dropped him instantly.
+
+His favorite mug slipped from his fingers, shattering against the kitchen linoleum and splashing hot liquid across his bare ankles. Jake didn't even register the burn. He was already on his stomach, driving the heels of his palms into his ears and pressing his forehead flat against the kitchen rug.
+
+He forced a low, steady hum from his throat, desperately trying to drown out the piercing spike of noise drilling into his brain.
+
+His eyes were clamped shut. It didn't help.
+
+Bright blue words burned directly through his eyelids, lighting up his retinas.
+
+[SYSTEM INTEGRATION: ECOSYSTEM CALIBRATION PHASE 1]
+
+Planetary mass expansion initiated.
+
+Architectural distortion protocol: ENGAGED.
+
+Physical law restructuring: 12.4% COMPLETE.
+
+The floorboards groaned.
+
+The kitchen walls slid backward, screeching as the room stretched and added empty square footage out of nowhere. Jake kept his eyes on the rug, counting the threads until his breathing slowed.
+
+The piercing screech faded after three minutes, leaving a dull, heavy thrum that vibrated the window panes.
+
+Designating difficulty for the selected area…
+
+Difficulty selected—Hell
+
+Area locked in: Hell Horizon
+
+Jake stood up. He ignored the broken mug and opened the door.
+
+The hallway was wrong. More doors than there should have been. More people. The screaming bounced off walls that hadn't existed an hour ago.
+
+He closed the door and sat on his couch.
+
+A new prompt hung in his vision.
+
+[CHOOSE YOUR INCEPTION WEAPON]
+
+He read through the options. Swords, spears, halberds, staves. A shield listed as a weapon, which he found strange. He sat with it for a moment.
+
+Something wrong had happened. That much was clear. What wasn't clear was the nature of it, the scale of it, or what came next.
+
+Why would he need a weapon?
+
+He got up and opened the door again, this time properly. He scanned the hallway. Four feet wide, maybe five. People pressing against both walls. If something came through from one end, everyone in the middle would be useless. A few people had already chosen their weapons.
+
+That was fast.
+
+Most of them picked melee weapons, longswords, mostly. He didn’t blame them.
+
+He closed the door.
+
+A bow, then.
+
+It would keep him away from danger, the mess. He didn’t really know how to use one, but how hard could it be?
+
+He clicked it.
+
+A long bow and quiver full of arrows materialised in his hand; the quiver on his waist. For a moment, his senses caught a kind of static that buzzed with life, or energy. It was gone the next.
+
+Just what was that?
+
+Magic?
+
+The system text flickered and turned crimson.
+
+[ANOMALY DETECTED]
+
+Overclocking cognitive processing nodes...
+
+Core Trait Awarded: [Absolute Perception (Unique)]
+
+The filters came off all at once.
+
+It wasn't like gaining a sense. It was like every sense he already had had been running behind glass and the glass shattered simultaneously. He could hear individual particles shifting against the laminate. The draft under his front door carried the smell of old carpet, wet concrete, and something copper and wet that hadn't been there before. Through the wall he could hear seven distinct breathing patterns, two of them crying, one of them hyperventilating.
+
+He gripped the counter. His knees wanted to go again.
+
+He forced a breath. Then another. The data kept arriving whether he was ready for it or not.
+
+After a minute, he let go of the counter.
+
+He opened the door for the third time.
+
+A lot had changed in only seconds.
+
+The corridor was elongated and widened. Was the system, or whatever, fucking with him? He’d just picked a bow.
+
+Whatever, he thought, overstimulated.
+
+Overhead, the fluorescent lights buzzed with a jagged rattle that made his retinas ache. He pinched his temples.
+
+"Oh god, someone help! Arthur! Where is the police?!"
+
+Mrs. Gable from room 712 sat flat on the carpet, her face bright red and wet with tears as her voice peaked at a high, shrill pitch.
+
+Further down, Arthur stood in his doorway, holding a massive, metal kiteshield with hands that shook so violently the metal clattered against the wood frame.
+
+"Stay inside!" Arthur shouted, his voice cracking. "Everyone stay in your units! The emergency services are surely coming!"
+
+Jake did not look at Arthur's face, tracking the hairline cracks forming in the drywall where the shield scraped the paint instead.
+
+A new sound caught his attention, a distinct schlick, schlick, schlick coming from the open concrete stairwell. He walked past Mrs. Gable with perfectly measured steps, swung open the door, then looked over the iron railing into the central atrium.
+
+The building had hollowed out into a vertical abyss, revealing wide, jagged concrete tiers above. Below, a floor of black shadowy fog blocked everything underneath it. Something crawled out of it. Like it was scared of something below and was trying its best to run away.
+
+Things climbed the walls.
+
+They were hairless quadrupeds the size of wolves, their bodies made of matte-black shadow. They had no eyes, only long jaws filled with needle-sharp teeth.
+
+Click. Click. Click.
+
+Their multi-jointed claws sank into the brickwork with a loud crunch, dozens of them surging upward through the dark floor as their heads tilted toward the noise on Floor 7.
+
+"They're coming up," Jake said, his voice flat and steady.
+
+His heart, however, was like a cavalry charge in his chest.
+
+“Holy fuck,” Arthur said from over his shoulder, peering down into the darkness. He was about to pull Jake back, but he stepped back before he could.
+
+Don’t touch me, he thought as Arthur slammed the door shut in panic, his breathing out of control.
+
+The hallway had filled up. Arthur stumbled back to his position, shield up, breathing all wrong.
+
+A woman stepped forward. Jake recognised her vaguely—weather reporter, popular, the kind of face that appeared on bus stops.
+
+Chloe.
+
+"Arthur," she said. "What's happening?"
+
+“A…” Arthur turned to her in disbelief. “Monsters.”
+
+The entire hallway erupted, which for some reason, Chloe seemed quite happy with. What was her problem?
+
+“Monsters?”“You’ve been playing too many of those video games, boy.”
+
+“Yeah, monsters? What bullshit are you spouting? You’re just trying to make a scene!”
+
+A moment later, something slammed into the door, causing everyone to jump. Whatever it was screeched, unhappy that it couldn’t get through. It clawed at the door for two minutes and thirty-two seconds, of which Jake had counted, and only after that did the monster stop.
+
+Was the door always that strong?
+
+Jake was quick to analyse the situation. The… System? Said that this was a safe-zone. The door was never that strong to begin with, so… something enhanced it. Magic?
+
+He stepped closer and he was just about to touch the door when Arthur grabbed his wrist, stopping him.
+
+“What are you doing?”
+
+Jake ripped his hand back, like he’d just been shocked. He looked up at Arthur and blinked. “Please don’t touch me.”
+
+“What the—”
+
+Before the toucher could stop him, Jake pressed his palm against the door. Indeed, there was something there that he couldn’t quite grasp. It felt… unusual. It tingled his skin in a way that the air in the room couldn’t. It was the same sensation he felt when the bow appeared; like a faint static.
+
+Strange, he declared, knitting his brow.
+
+Seeing that Jake had no intentions of opening the door, Arthur turned to everyone in the room.
+
+“Everyone,” he said, not loud enough. He cleared his throat and yelled, his voice cutting through the panic. “Everyone!” That got their attention. “Please, if you can all calm down. The emergency services should be aware of what is going on. It won’t be long before—”
+
+“They come for us?” An older man—Edwin, scoffed. Jake only bothered remembering his name because Edwin had cornered him in the mailroom three weeks ago to complain for exactly forty-two minutes about the irregular font spacing on the new property tax notices. Anyone who noticed a 0.5-millimeter kerning error on standard utility printouts was impossible to erase from memory.
+
+“Look around you, boy. They ain’t coming for shit. And we stink.”
+
+Charming.
+
+“We don’t know that,” Arthur said, but he was losing them. “Okay, look—we know the door is strong. Let’s start with barricading it further. Go into your rooms and find anything heavy we can put in front of it.”
+
+He noticed everyone was just standing there, staring. Jake couldn’t imagine being in his shoes. Why? So much energy for something he didn’t understand. Was there a benefit to being the centre of attention all the time?
+
+Why couldn’t he just stand in the back and be a shadow? He liked being a shadow. At least then no one would pointlessly try to share their life; relationships, office drama, latest celebrity gossip. He didn’t get it.
+
+He clapped his hands. “Come on!”
+
+That did the trick. People rushed into their rooms, which by the way, were way bigger now. Before there were only twelve doors on the floor. Now he counted seventy-four. There were also a lot more people to fill up those spaces, but they looked disorientated, confused. Some looked pale, barely holding in their stomachs.
+
+Though he was curious, he thought better of it to ask. He didn’t even know how to begin.
+
+‘Hey, how’s your day going? Why do you look ill?’
+
+‘You look terrible. Got a stomach bug?’
+
+“Did whatever put us in this situation pick you up and plop you here with the power of magic?’
+
+Jake sighed.
+
+He was about to head back into his room when he noticed a woman had opened the door, and was about to head on in. She had short black hair that looked like she had cut it herself with a spoon. Efficient. Her leggings and vest accentuated her toned figure, but it was her cool boots that caught his attention. Steel-toed? Was she a worker or something? Why did she need something so heavy?
+
+“Uh,” he said, shifting uncomfortably. “That’s my room.”
+
+“Is anything ours anymore?” she replied cooly. “Look outside the window.”
+
+“Yes. That’s my room. Even if the world turned upside down—that’s still my room. My name is on the lease. I can get it for you if you want—”
+
+The girl put up her middle finger and entered, slamming the door in his face.
+
+He scratched his head. What’s her problem? Whatever. I’ll get it back eventually. She can’t stay inside forever.
+
+A wet, choking sob erupted from down the hall.
+
+What now?
+
+It was Hanna, the seven-year-old girl from room 704. Where were her parents? She was squeezing herself into the gap between a vending machine and the drywall. Her crying wasn't loud, but it was sharp—a ragged, stuttering sound that drilled straight into Jake’s ears.
+
+The sound messed with his head. The erratic gasps made it impossible to track the clicking noise of the claws coming up the stairs. The hallway was bouncing the noise everywhere.
+
+Jake walked over to the vending machine.
+
+"Jake, stay back from her!" Arthur shouted from his doorway, his hands still shaking against his shield. "She's hysterical! Don't make it worse!"
+
+Jake ignored him and knelt down two feet away from Hanna. He didn't touch her, and he didn't look her in the eye.
+
+Then he saw her left hand. She was desperately tapping her fingers against the vending machine casing in a frantic, uncoordinated pattern. She was trying to ground herself, but the smooth plastic texture of the machine wasn't giving her the feedback she needed to override the noise of the apocalypse.
+
+Was it the apocalypse?
+
+Shaking his head, Jake recognized that exact frantic tapping. She was wired like him. The world was too loud, too bright, and everything was spinning out of control.
+
+He reached into his pocket and pulled out a heavy, threaded steel bolt he had kept from his broken desk chair. He reached out and placed the cold metal directly into her trembling palm.
+
+"Roll it," Jake said, keeping his voice low and flat. "Feel the ridges on the threads. Focus on the cold."
+
+Hanna stopped crying. She looked down at the bolt, her small fingers instantly curling around the heavy metal. She began rolling it back and forth between her palm and her thumb, over and over, letting the sharp, predictable edges of the steel threads dig into her skin.
+
+Jake took a slow, deep breath through his nose, letting her watch his chest rise and fall. "Now breathe with the rolling. Keep it steady."
+
+Hanna swallowed hard, her eyes locked onto the spinning bolt. The frantic tapping stopped. Her breathing instantly locked into a quiet, predictable rhythm as she hyper-focused on the physical sensation of the metal.
+
+The piercing noise in the hallway vanished.
+
+She hugged the stuffed bear in arms tight. It's eyes looked weird, alive, and unsettling, and she looked at him as if—
+
+“Are… are you a hero?”
+
+Jake finally looked at her.
+
+He remained quiet for a moment then shook his head.
+
+“No,” he said. “I am not.”

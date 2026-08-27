@@ -1,0 +1,157 @@
+---
+id: 2f0acd53-8924-50ce-a3aa-09b4b1916e1b
+page-type-slug: story-chapter-royal-road
+title: "192. Hello Again"
+slug: 0192-192-hello-again
+partOf: god-of-trash
+position: 192
+ownLength: 1679
+unit: words
+publishedAt: 2025-09-20
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2616130/192-hello-again"
+royalRoadId: "2616130"
+---
+
+There was a long pause. Rhys felt the man’s grip tighten on his head, and then he spoke. “…Rhys?”
+
+“Bast! It is you. Yeah, it’s me.”
+
+The grip on his head didn’t loosen. “Prove it.”
+
+Rhys called out to the poison before him and manipulated it into a droplet, hovering it over the barrel. “How about that?”
+
+“You only proved you’re a poison master.”
+
+He sighed. “When we were little, just after Straw took us in, you ate a bunch of meat pies that were only a little expired, according to you, but they were more than a little expired, and spent the entire afternoon crouching in the forest, shitting your brains out. I had to go snitch a pair of underwear from the house nearby, and Straw caught me stealing undies off the line. I took the fall for that, even though it was all your fault, and spent the whole evening doing pushups while you—”
+
+The hand released him and gave him a little push. “Fine. I believe you.”
+
+Rhys turned, already smiling. “It’s good to see you, too, Bast.”
+
+His old friend stood behind him, his hands on his hips. He had a stern expression on his face, but cracked into a grin. “You’re doing far better than I expected. I thought I’d have to rescue you from one of the Empire’s camps.”
+
+“Oh, did you? I’m no maiden. I rescued myself,” he said, thumping his chest. He looked Bast up and down. “You’re doing pretty well for yourself, too.”
+
+Bast was in great shape. Better than Rhys had ever seen him. He was wearing loose white robes that hid his true musculature, but it was impossible to hide the cut of his body. Rhys felt absolutely flabby in comparison, and he was no slouch. He’d grown taller, but so had Bast, and between the two of them? Bast was winning the height game.
+
+Not only that, but his abilities had grown, too. Bast was at least Tier 3, and from the feel of it, he was on the verge of Tier 4. And that wasn’t the only indication. Sweat dropped down Rhys’s back, and he swallowed, fighting back the urge to edge away. Just looking at Bast, standing his close to him, he felt as though he were in danger. As if, despite the man’s relaxed stance and the sword he was in the act of sheathing, he were still holding a blade to Rhys’s neck. Bast’s aura was sharp as a sword, and Rhys’s skin prickled at being this close to it.
+
+“I see the Sword Saint is training you well,” Rhys commented approvingly.
+
+“It’s been almost four years. I would hope I’d improved a little,” Bast replied. He gestured at Rhys. “You, too. I feel like I’m going to puke just standing this close.”
+
+“Is that a compliment?” Rhys asked, giving him a skeptical eyebrow.
+
+“I dunno. You tell me, poison master.”
+
+Rhys laughed aloud, and a beat later, Bast started laughing. He clapped Bast’s shoulder, shaking his head. “It’s been too long, man. Way too long.”
+
+“I agree. I thought you were dead. Glad you aren’t.”
+
+“Couldn’t put it better myself.” Rhys crossed his arms, then looked Bast up and down. “So what are you doing here? Given that you didn’t even know I was me until a minute ago, I’m guessing this isn’t a friendly visit?”
+
+“It’s not an unfriendly visit.” Bast leaned against a nearby wall and crossed his feet. He nodded at Rhys. “The Alliance has picked up news about your little resistance. A few of the people you freed ran for the border. They all lacked cores, so they slid by without attracting the attention of the guards—the guards just assumed they were mortal traders. On the other side, they ran for us and told us about the savior who was going around freeing people from prison camps.”
+
+“I guess that’s me,” Rhys said, scratching the back of his head.
+
+Bast snorted, giving Rhys an appraising look. “They said something else, too. Some nonsense about their leader being able to recreate cores.”
+
+“Oh, yeah. I can do that,” Rhys said.
+
+Bast raised his brow. “How?”
+
+“It’s complicated.”
+
+That brow stayed raised.
+
+Rhys sighed. He held up his hand and pulled a ball of energy from his core. He didn’t bother to form a whole core, since there was no purpose, and he needed to use energy himself, but he let it get close enough for Bast to understand the process, then absorbed the energy back into himself. “Like that.”
+
+“I’d ask how… but I can already tell I wouldn’t understand. If it wasn’t you, I wouldn’t believe you, even seeing what you just did.”
+
+“It is pretty unbelievable,” Rhys admitted.
+
+Bast nodded at him. “Is that how you escaped your camp?”
+
+“Kind of… let me explain.” He took a few minutes and explained to Bast everything that had happened when he’d escaped—the abridged version, anyways, without wasting any words he didn’t need to. The suffering part was pretty irrelevant to Bast’s understanding of the scenario, anyways, and it didn’t make him sound very cool, either.
+
+When he finished, Bast squinted at him. “How?”
+
+“How… what?”
+
+“How did you absorb impurities without a core? How did you… what did you say you did? ‘Ignite trash into mana…’ that’s not possible, Rhys.”
+
+Rhys shrugged. “I dunno. I did it, so it’s possible.”
+
+Bast opened his mouth, then shut it. He shook his head. “People call me the prodigy of a generation, but I’m nothing compared to you. You’re the prodigy of a thousand generations.”
+
+“Don’t be ridiculous. I’m just a trash talent scrabbling along by the skin of my teeth. You’re the one with real talent here,” Rhys immediately protested.
+
+Bast shook his head and said nothing.
+
+“What about you, though? What have you spent the last few years doing?” Rhys asked, looking him up and down again. “Besides training every single muscle individually, damn. I didn’t even know it was possible to get that ripped.”
+
+Bast chuckled. After a second, he nodded. “I’ve been training. A lot.”
+
+“I picked up on that, yeah.”
+
+“The Sword Saint was dispatched to the northern border to deal with the beasts encroaching from the north. There’s a much more powerful region north of us, so when the monsters and beasts stampede from that direction, the Sword Saint is the only one who can deal with it. Of course, this time, it was a ploy by the Empire… but you know that.”
+
+Rhys nodded. He did.
+
+“But ploy or no, we still had to fight back the beasts, or else the entire Alliance would be overrun before long. It was excellent training, endlessly fighting beasts in the snow… all while the Sword Saint corrected my form and showed me new techniques. I couldn’t ask for better training.”
+
+Rhys nodded sagely. “Sounds like hell.”
+
+“It sure was. It sure was. Not as hellish as what you went through, I’m sure.”
+
+“Oh stop, stop. It’s not a competition. We both suffered.”
+
+Bast gave him a look.
+
+Rhys broke into a grin. “…But I suffered more.”
+
+“Yeah, yeah.” Bast rolled his eyes, and Rhys grinned even wider.
+
+As Rhys stopped laughing, Bast sighed and ran a hand through his hair. “And when we were done, the Alliance finally got back in touch with us. They’ve been planning a counterattack this whole time, building up their forces and massing all the most powerful experts the Alliance has to offer, but they couldn’t move until the Sword Saint was no longer indisposed. But the beasts are gone now.”
+
+Rhys’s eyes widened. “And you were sent here to see if the resistance force was interested in taking part in the counterattack.”
+
+He nodded. “So… are you?”
+
+Rhys shook his head. “You have no idea. I’ve been agonizing over when I should launch my strike. I’ve got a lot planned, but it’s not enough on its own. I was thinking I could maybe cause enough chaos to claw back some of our land, maybe enough to free the remaining camps… but if there’s a serious counterattack, that changes everything. This is the best news I could’ve hoped for.”
+
+“I’m glad you’re so enthusiastic,” Bast said, crossing his arms. He shook his head. “I was worried I’d be dealing with some irritating insurgent with impossible demands.”
+
+“What? I’m not irritating? How dare you. And I can come up with some impossible demands if you like.”
+
+“No, no. That’s fine.”
+
+Rhys looked around, then paused. “Come to think of it, Korii was here with me. And Lira. What happened to them?”
+
+Bast looked aside.
+
+“Bast…”
+
+“I just knocked them out. Like we used to do with that Mouse girl. Don’t worry.”
+
+Rhys let out a relieved sigh. It wasn’t like Bast wasn’t a killer. Of course, he was trying to work with the insurgent (aka Rhys), so it wouldn’t make sense if he’d killed the insurgent (aka Rhys)’s underlings, but he couldn’t help but worry.
+
+He waved his hand, pushing his worried away. “I’ll cooperate. You can tell your higher-ups that. Just tell me the date, and I’ll be ready to go.”
+
+Bast nodded. He turned to go.
+
+“Come on. You aren’t even going to stay for a drink?” Rhys asked.
+
+Looking over his shoulder, Bast eyed the bubbling purple vat behind Rhys. “I’m good.”
+
+“I—I can get some good alcohol! I’m rich, Bast. I can afford the good stuff.”
+
+Bast smiled. “I’m tempted, but I shouldn’t stay. I was never here, you know?”
+
+Reluctantly, Rhys nodded. He understood. He didn’t like it, but he did understand. Bast was sneaking into the Empire. He couldn’t take that kind of risk. Hell—Rhys couldn’t really afford the risk of being seen with Bast, a known member of the Alliance. It was risky for both of them, and with a counterattack close at hand, they could afford being found even less so.
+
+“I’ll see you soon, then,” he said.
+
+Bast smiled. “Yeah. Soon.”
+
+With that, he backed out of the room and vanished into the night.

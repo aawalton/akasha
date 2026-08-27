@@ -1,0 +1,85 @@
+---
+id: 4cffb17d-b642-5afe-a499-ba944cb36007
+page-type-slug: story-chapter-royal-road
+title: "310. Take a Break"
+slug: 0310-310-take-a-break
+partOf: god-of-trash
+position: 310
+ownLength: 1670
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3392009/310-take-a-break"
+royalRoadId: "3392009"
+---
+
+Rhys strolled along the sandy beach, enjoying the sensation of sand between his toes. It felt good to walk after so long in the air and water, and it also felt good to walk on a beach. Ideal walking circumstances. Sunlight warmed him from above, and his feet sunk into warm sand below. He felt cradled in warmth, as if nothing could harm him.
+
+A knife whooshed past his ear.
+
+Rhys snapped his eyes open and jumped back, calling The Hunger to his hand. He looked sharply left and right, but saw nothing. Instinctively, he reached out with his mana and trash senses, and located three figures standing in the treeline nearby. All of them were about his tier, and formidable opponents. He sensed hostility from them, but not bloodlust. They wanted him gone, not dead… at least for now.
+
+He raised his hands, sending The Hunger back into his storage ring. “I’m a traveler. Just stopping here for a rest. I mean you no harm.”
+
+…said every white man arriving to an island nation ever, and see how that worked out, a little voice snarked back at him from the back of his mind. He really had no intent of conquering anything, though, or pushing religion on anyone, or anything like that. A fruity drink and a hammock, and he’d be out of their hair tomorrow.
+
+Not that they knew that. He sighed. Am I going to have to fly away without my frou-frou drink? Sad…
+
+To be honest, he didn’t even want alcohol. He just wanted some sweet fruity juice to drink after all his time in the salty, salty ocean. Even if he didn’t need to drink anymore, his mouth still tasted like pure salt, and after a few days of that, he was thoroughly sick of it. A piece of fruit would be enough… even some clean, non-salt water would be enough. Anything.
+
+The hostility didn’t abate, and the people in the forest didn’t move. Rhys closed his eyes. A part of him felt deeply exhausted. He’d come all the way out here instead of going to one of the adjacent countries because he wanted to get away from it all. Start fresh. Go a million miles from where anyone knew his name and be a nobody, just another face in the crowd. Putting aside the therapeutic angle, it’d also help his trash growth to be treated like a no-one piece of trash.
+
+But for the most part, if he was being honest, he just wanted to go somewhere he wasn’t someone. Whether it was respect or hatred, or even just a negative or positive association with the region he was from, he wanted to be free from it all. Escape.
+
+It seemed like it didn’t matter, though. No matter where he went, people would make assumptions of him and treat him with hostility without taking into account his actions. There was no blending into a crowd. He would stand out no matter what, and that wasn’t something he could take back, no matter how much he wanted to.
+
+He turned away, looking out at the waters. Maybe he should take off again and pick an uninhabited island this time. Somewhere no one could tell him to fuck off from, because there was no one there to tell him to fuck off.
+
+“Help!”
+
+Rhys’s ears perked up. He looked at the figures with a new light. Wait, hold on. I was getting all depresso over here, but these guys… these guys are just regular thugs, aren’t they? Look at me, having some shitty-ass mental ‘oh I’m so sorry for myself’ monologue, and they’re just trying to fend me off from some kind of horrible, illegal situation they don’t want me barging in on. Rhys chuckled aloud, walking toward the figures. “Well, well, well.”
+
+“Please, help!”
+
+“So, that’s what this was all about. If that’s the case…”
+
+A knife flew out of the woods toward his face. Rhys snatched it out of the air. A poison sizzled on its surface, eating into his flesh, and he smiled and greedily absorbed it, letting it burn away at his flesh so he could regenerate around it, and learn how to strengthen his cells against that poison forever.
+
+One of the figures stepped out of the forest: a handsome man wearing a bandanna over the lower half of his face. He pointed at Rhys. “Don’t take another step further, or we’ll act with lethal force.”
+
+“What, was this poisoned knife not lethal force?” Rhys threw it back at the man, who sidestepped sharply to avoid it. Not that he needed to—there wasn’t a drop of poison on the knife any longer. “Hey, listen. Do people often ask you what’s under that mask? ‘Cuz I’ve got a burning desire to find out, thanks to a certain ninja.”
+
+“Eh… what?”
+
+“I don’t really care what you’re trying to do here, but if someone’s screaming for help, then… I’m here to help, and I’m not afraid to kill to get the job done.”
+
+“You don’t need to worry about that.”
+
+“Don’t you worry, I’m already worrying about it.” The man was transparently stalling at this point. Rhys summoned The Hunger and charged.
+
+He had to hand it to them: the three of them were well coordinated. The second he kicked off the ground to close in, a pair of poisoned knives flew through the air toward where he was about to step. Rather than adjust his step, dodge, or block, Rhys tensed and exerted maximum impurities through his foot. The knives decayed as they closed in, rotting out of the air. By the time they reached him, they were little more than dull rods, and bounced off his foot instead of piercing it. His foot hit the ground. He drew in, sucking the filthy blades into his core, and blasted off, hurtling toward the trio.
+
+The lead man hopped back, startled but not completely taken aback. He drew a sword. In Rhys’s mana vision, the other two men moved through the treeline, trying to get behind him. A pincer attack, is it? Flanking only works in 3.5 if two people are on exactly opposite sides of the same enemy! By that logic, there’s only one way to move! Rhys directly charged the man in front of him. As long as he defeated this guy right in front of him, those guys wouldn’t get a single flanking bonus!
+
+Well, that’s only if it’s 3.5. Things are different in 5e—and don’t get me started on 5e24. Let’s not even talk about 4, but mostly because no one wants to talk about 4. o7s in chat for 4, dead before it was born.
+
+Fully aware that he was working on idiot logic, Rhys rushed ahead. Idiot logic or not, killing this guy meant the trio’s attack wasn’t going to go as planned, and that was enough for a trashy dude like him.
+
+The man didn’t flinch, clearly prepared for this obvious turn of events. He raised his blade, and their swords clashed. The Hunger immediately started chewing on his blade, sucking the impurities out. It wasn’t immediately obvious visually, but without the impurities of carbon to hold the iron together, it began to weaken. Rhys pressed on, willing to push this clash as far as the man would let him. It was the opposite of his usual impurity-adding attack, but what the heck? The Hunger was hungry, and it never hurt to experiment with new angles.
+
+And then the man sneered. “You’ve been caught in our trap. Farewell.”
+
+The other two men leaped out of the treeline, thrusting swords at Rhys’s back. Caught between his clash with the man and the attacks of the other two, Rhys had no way out.
+
+He lifted his eyes to meet the man’s gaze and grinned. “You haven’t even seen one percent of my power.”
+
+He threw his hand backward, tossing impurity shuriken at the two men closing in from behind. One dodged, but the other blocked. The blob of impurities ate through his sword and whirled past to strike him dead in the chest, where it swiftly infected his entire body, darkening his veins and slowing his mana to sludge. Rhys twisted his wrist, then clenched his fingers, and the impurities gripped the man’s heart and refused to let it beat any longer. The man gasped, crumpling to the floor as he clutched his chest.
+
+The other man screeched in vicious anger. His sword flew at Rhys’s back, only for Rhys to activate a technique he hadn’t used in a long time. “Even a Cornered Rat Fights Back!”
+
+Green light glowed around him. The man’s attack bounced off it, and a vicious ermine in bright green burst from the glow to pounce on the man’s face, force itself down his throat, and start tearing him up from the inside out. He, too, crumpled, clutching his insides as blood oozed out of his mouth and nose.
+
+Huh. So that’s where that little guy ended up. It was an upgrade to what was essentially one of his very first spells, so he wasn’t complaining, but he really never knew where the ermine was going to hop out from next. It was haunting his spells in the most adorably threatening way.
+
+The sword he’d been clashing with all this time finally snapped, the way Rhys had always known it would. The man had enough time to look shocked before Rhys and The Hunger cleaved through his body, splitting him in half from the shoulder.
+
+Aaand… that’s that. Like a Real Cool Guy, Rhys slashed the blood off The Hunger. Nothing came off, because The Hunger had already sucked up all the blood. He knelt and waddled in a quick 360, sucking up all his foes’ bodies, then leaped back to his feet and ran toward where the shouting had come from. He’d had his villain arc. He’d been a Real Cool Guy. Now, it was time to be a Big Damn Hero.

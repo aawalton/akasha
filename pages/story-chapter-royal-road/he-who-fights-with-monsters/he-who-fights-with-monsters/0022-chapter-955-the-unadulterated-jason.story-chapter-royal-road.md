@@ -1,0 +1,237 @@
+---
+id: e4368f91-9e72-5f2d-8be1-952422c3c7b0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 955: The Unadulterated Jason"
+slug: 0022-chapter-955-the-unadulterated-jason
+partOf: he-who-fights-with-monsters
+position: 22
+ownLength: 2828
+unit: words
+ownProgress: 2828
+publishedAt: 2025-01-27
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2033422/chapter-955-the-unadulterated-jason"
+royalRoadId: "2033422"
+markedReadAt: "2026-06-29T19:04:32.678Z"
+---
+
+The diplomatic contingent from the Storm Kingdom had set up their area of Jason’s cloud ship like an embassy. Jason provided the space, tailored it to their requests, and left them to it. Like an actual embassy, any sovereignty the Storm Kingdom representatives held was a polite fiction, agreed upon with the host. As Jason made his way to that area of the ship, he reflected that civilisation itself was really just a series of fictions, collectively agreed to.
+
+Many within a society didn’t even realise the degree to which it was, essentially, just made up. How many of the bedrocks on which they built their lives, their very identities, were arbitrary inventions. Lines on maps; the value of a bank note. Who was born to rule, and who to serve.
+
+It was disruption that revealed those fictions, breaking the illusion and forcing people to confront the world in which they lived. This was what Earth had been going through since the revelation of magic. Jason had seen the beginning, but the changes had continued in his absence. Nations had fallen or transformed, devoured by their neighbours. Others had risen or expanded. The economy had collapsed, and the very nature of ownership had shifted. The ability to hold a thing was becoming more important than a piece of paper saying who owned it.
+
+Spirit coins had become widespread while Jason was away, challenging the dominance of fiat currency. Spirit coin farms had become viable on earth, not just in astral spaces. The Asano clan had been a large factor in this, freely disseminating guides on how to set up such farms. More than anything else they or Jason had done, this earned the ire of nations who still did not hesitate to use those guides.
+
+Although he had been studying the changes to Earth through his avatars, there was only so much Jason could learn from the confines of his spirit domains. He needed to get his head around a situation that was still in flux. His arrival had already exacerbated instability, and diplomatic contact with representatives of an alien power would do the same.
+
+Jason’s interest was currently on only a single member of the Storm Kingdom delegation. He entered the lobby of their shipboard consulate and walked up to the woman sitting behind the desk. If she had been an earthling, the silver-rank woman would have been powerful and important, even with the monster core residue permeating her aura. In the Storm Kingdom, she was a receptionist.
+
+“Lord Asano.”
+
+“G’day Kara. And again, not a lord.”
+
+“But you are a king. I can address you as ‘your majesty,’ if that is your preference.”
+
+“My preference would be to have you call me Jason.”
+
+“As you wish, Lord Jason.”
+
+“How about we stick to the unadulterated Jason.”
+
+“I have my instructions, Lord Jason. And, if I might ask, when was the last time you could honestly claim to be unadulterated? I’m not sure I’ve encountered anyone as politically encumbered as you, Lord Jason, and I work for interdimensional diplomats.”
+
+Jason held out his hands in surrender as he let out a chuckle.
+
+“I’m not sure I can argue past that,” he said. “Is the princess ready?”
+
+“That technically could include a third of the delegation, Lord Jason. I assume you mean Princess Zara?”
+
+“Yes, Kara. I am waiting for Zara.”
+
+“She’s on her way. And, if I might make a suggestion, Lord Jason?”
+
+“By all means.”
+
+“Most women don’t find you comparing their names to other women amusing, even if you do.”
+
+Jason raised his eyebrows, then bowed his head.
+
+“Good looking out,” he said gratefully.
+
+He looked around the room as he waited for the princess to emerge. The white marble streaked with blue was native to the Storm Kingdom. Jason had fed half a quarry’s worth to the cloud flask on his last visit, to better accommodate the Rimaros diplomats. The plants were likewise his, but the decorations otherwise belonged to the delegation. With tapestries, paintings, statuaries and carpets, they had not been shy about making themselves at home.
+
+The delegation appeared to include an interior decorator, and the results had Jason nodding his head in approval. Imposing, yet not intimidating, the room showed off the kingdom’s wealth, but with a reserve that avoided ostentation. The decorations told the story of a kingdom with history, power and dignity. The way they were displayed was a message of restraint and maturity. Jason could see the message it presented to any Earth politician who saw it.
+
+“Knowing Earth politicians,” he muttered to himself, “they may want to have gone less subtle.”
+
+“What was that, Lord Jason.”
+
+“Don’t mind me, Kara.”
+
+When Zara emerged, her attire was incongruous with the imposing lobby. She wore a light summer dress, sandals and wide-brimmed sunhat. The print of her dress and the flower atop her hat set off the sapphire in her eyes, and in the hair spilling out from under her headwear. Compared to the marble and centuries old decorations that wouldn’t have been out of place in a museum, she presented as every inch the cruise ship passenger. The kind of passenger who would send distracted onlookers tumbling overboard.
+
+She wandered over to him, a smile playing on her lips. Jason was glad not to have changed out of the suit he wore to the meeting with Earth’s ambassadors. While his normal attire might match hers better thematically, he suddenly felt the need for as much aesthetic appeal as he could muster.
+
+“Princess,” he said with a slight bow.
+
+“Captain,” she replied, not putting too much effort into supressing a grin.
+
+“While I am technically captain of this ship, you realise that no one else calls me that, right?”
+
+“Would you like me to stop?”
+
+“No,” he confessed.
+
+The giggle she let out at the awkward expression was like water tinkling in a stream. It triggered lizard-brain instincts he didn’t realise were still there, given his new nature. Her presence sent an electric spark running through his body, reaching through his avatar and into his soul. In New Water, residents looked up as thunder pealed on an empty blue sky.
+
+She was looking him up and down more overtly than he was taking in her attire.
+
+“I’m glad to see that you have finally discovered that comfort and dignity are not mutually exclusive,” she teased.
+
+“Are you saying there is an issue with my fashion sense?”
+
+“I think ‘sense’ might the wrong word to describe the way you normally dress. I’m sure that Danielle has explained that how you garb yourself is as critical in diplomacy as the armour you wear into battle.”
+
+He laughed.
+
+“Almost word for word.”
+
+“You do understand that you’re a king, do you not? A strange messenger king, of a people who would murder you if they could, but still royalty.”
+
+“Does your nation even formally recognise my astral kingdom?”
+
+“That is an open question, at the moment. One that I suspect will be closed soon enough.”
+
+“Are you saying I should get a crown?”
+
+“I’m saying that perhaps your current attire should be your model going forward.”
+
+“And why exactly is that, Princess? Would you describe me as dapper, perhaps? Dashing? Rakishly handsome?”
+
+“I would describe you, Captain, as lacking in humility.”
+
+“At least I’m not going to be on a foot website once pictures of me in sandals start circulating.”
+
+She narrowed her eyes at him.
+
+“I do not know what that means,” she said, “but I find myself under the distinct impression that you deserve to get slapped. Are you looking to get slapped, Captain?”
+
+He glanced around in exaggerated conspiratorial fashion, looking over at the receptionist, Kara. He then leaned in to whisper in Zara’s ear.
+
+“Out of curiosity, would it be good or bad if I said yes?”
+
+Her snort of laughter was decidedly unprincess-like, earning raised eyebrows from Kara. Zara pushed her hands against his chest, shoving him back lightly.
+
+“You, Captain, have a long way to go in the cultivation of decorum.”
+
+“If you want me to be more decorous, you need to stop looking so stunning.”
+
+He dropped the playful lilt for that last comment and she flushed at the sudden compliment amongst the teasing. He took it as a win and held out his arm for her.
+
+“Shall we, Princess?”
+
+She couldn’t force the smile from her attempted glower as she placed a hand in the crook of his elbow.
+
+“Lead on, Captain.”
+
+They strolled down the hall, side by side, and took an elevating platform to one of the promenade decks. Jason had reconfigured the ship from its previous combat orientation, shifting to cruise ship designed for touring with friends and family. It was ideal for looking out at the Australian outback in which the artefact city below them was located. They did just that, walking along the deck at a gentle meander.
+
+“I somehow think that this is not the most efficient way to your family gathering,” she observed.
+
+“I thought we’d take the scenic route.”
+
+“Why are we still here, floating over this city? It’s starting to feel like you’re stalling. Finding reasons to stay around instead of heading for your clan territory. You even portalled your family here, rather than go to them.”
+
+“Coming from the woman who was too nervous to come out and fight evil with us.”
+
+“I was not nervous.”
+
+“Uh huh.”
+
+She batted him lightly on the arm.
+
+“I am the highest-ranking member of an inter-universe diplomatic delegation. I thought it was best that my first appearance before the people of another world was not killing people with explosive storm magic.”
+
+“If I had explosive storm magic, that’s how I’d introduce myself to everyone. G’day, I’m Jason… boom. Lovely day for a dog show. Boom. I’d like to apply for a library card. Boom.”
+
+“Now, you’re stalling me. Are you keeping secrets, Captain?”
+
+“Always. Do you know how many recording devices are directed at us right now?”
+
+“I can sense the attentiveness of quite a few auras, yes. But isn’t this ship shrouded in privacy magic? At best they will see us here, our mouths blurred to prevent lip reading.”
+
+“Doesn’t blur your feet, though.”
+
+“Why do you keep talking about feet?”
+
+“I’ve been thinking about that.”
+
+“You’ve been thinking about my feet?”
+
+“I’ve decided that it’s definitely best you don’t know.”
+
+“About my feet?”
+
+“About internet search histories.”
+
+She shook her head in exasperation, sending her sapphire curls dancing around her head. Jason managed to avoid letting out a whimpering noise.
+
+“I am stalling,” he admitted. “About not moving, not about your feet. Shade only has a couple of hundred bodies, and it’s a big world.”
+
+“You have him out spying. For the people who called in the pirates?”
+
+“No, they’ll keep. My concern is with the vampires. I’ve come up against their leader, Elizabeth, in the past. She got the better of me, and I don’t want that to happen again. The vampires have known I was coming back since I massacred many of them to help make my avatar. That made an impression, and Elizabeth has had time to prepare. The vampires got a taste of my power, so I doubt she’ll take a direct approach.”
+
+“What are you expecting?”
+
+“Best guess? Holding cities hostage. There are weapons here that can wipe out whole cities. After magic came out into the open, several nations with access to those weapons were annexed or fell into disarray. The vampires were amongst those who snatched up some of the weapons during the chaos. They’ve already used one, and hold more as a deterrent against similar attacks against them. I expect they’ll use the same threat to try and ward us off as well.”
+
+“Do you think they’ll use one of these weapons again? To punctuate the threat?”
+
+“That’s my concern, along with the earthling intelligence agencies Anna Tilden put me in contact with to coordinate the search. Shade can move fast and infiltrate any security that this planet can muster, but he needs at least some idea of where to look. He’s already confirmed or disconfirmed hundreds of small groups, mostly blood slaves, rather than vampires proper.”
+
+“You intend to wait here until you’ve found all of these weapons?”
+
+“No. There’s no real chance of getting them all, and Elizabeth will realise we’re moving before we get close. I don’t know how connected the vampires are, but this is too global. She’ll realise what we’re up to and find a way to force our hand. The most we can hope for is to eliminate enough of the weapons to reduce Elizabeth’s hand at the negotiating table.”
+
+“You think she’ll talk rather than fight?”
+
+“The footage of the team fighting the pirates has leaked by now. Elizabeth will have realised that if our group joins the fray, the stalled war will resume, and the vampires will lose. But they could do a lot of damage in the meantime, be that through nuclear weapons or by culling the blood farms they still hold. Her strongest play is negotiation, and she’s too smart to not realise that.”
+
+“Will the people of Earth even negotiate? With what the vampires have done? And the fact that they’re vampires.”
+
+“The humans won’t rest until the vampires are a history lesson. Elizabeth will lean into the deterrent approach. Push for discussion; angle for concessions. For her, maybe some chosen few. The rest of her people she’ll sell out to save herself. I’ve seen her do it before.”
+
+“Will you let her live? After what the vampires have done under her command?”
+
+“Probably. I have planets she can’t escape, and better to let her rot there than watch cities burn.”
+
+“And the rest of her kind? Will they just lay down and die because she cut a deal?”
+
+“No. I’m inclined to offer other leaders the same deal, along with as many vampires as they want to take with them. Any vamps I can get off Earth without violence, I will. I just don’t think it will work that way. Some, yeah, but most will fight to the end, or try and hide themselves away.”
+
+“If this Elizabeth is gone, what of the weapons? Will those left behind try and use them in her absence?”
+
+“If they can get them to work. Elizabeth will have to give up locations, and I’m willing to bet she’s got a failsafe. Otherwise, one of the other vampire lords would have used one for themself. Elizabeth knows that if she can’t hand over the weapon stockpile, she has no leverage. As you say, the next vampire in line would take her spot and leave us with the same problem. I think she’ll make a deal to save herself and let the rest burn. She knows she has lost, and that we can’t let the vampires live. My guess is that she’ll angle for passage to Pallimustus.”
+
+“A gold-rank vampire? She’d be killed on sight.”
+
+“Part of her demands will be assurances that she’s cut loose safely.”
+
+“Would you accept that?”
+
+“Not if I can help it. Her, and any other vampires willing to go, can go to one of my planets. One far away from the sun. It’s not a bad deal.”
+
+“It’s about leverage, then. How many of the weapons you can take from her, and how effectively she can sell out the other vampires to humanity.”
+
+“Yeah,” he said grimly.
+
+A frown crossed her face as she heard the gravel in his voice. It was a hint of the icy tone he used when fighting enemies. She patted him gently on the arm.
+
+“I’m sorry,” she told him. “This was meant to be a nice stroll, and I’ve made it bleak and political.”
+
+“It’s okay,” he said, turning to her with a soft smile. “I always knew we’d have to wade through the mud to reach clear water.”
+
+They met each other’s eyes. His amusement was gone, and the spectre of violence faded as vampires fell from his thoughts. He didn’t make a joke, or let his mind darken with bloody purpose. He wanted her to see past the armour. Vulnerability didn’t come easy, but he had gotten used to opening his soul. If he could do it for a battle over a magic throne, he could do it for a woman with a sharp mind, an imp’s smile and eyes like sapphire pools.
+
+Neither spoke, as if afraid of breaking the spell. Her hand was pressed against his chest, neither quite certain when it had found its way there. He leaned in but hesitated, his face hovering before hers. He could see nothing but her eyes, clear and direct, with none of the uncertainty he knew filled his. She reached up and placed a gentle hand on the side of his face. She drew him in, closing the final distance, and pressed her lips onto his.

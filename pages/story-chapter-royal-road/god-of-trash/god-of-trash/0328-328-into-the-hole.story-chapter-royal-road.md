@@ -1,0 +1,93 @@
+---
+id: 9ffdba55-944e-5dd6-904e-a23642f5b065
+page-type-slug: story-chapter-royal-road
+title: "328. Into the Hole"
+slug: 0328-328-into-the-hole
+partOf: god-of-trash
+position: 328
+ownLength: 2510
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3586049/328-into-the-hole"
+royalRoadId: "3586049"
+---
+
+Rhys hopped into the darkness. At the bottom, his impurities awaited. He’d barely made a dent in the black filth with his trashifying beam, even though his core was half-full. It was kind of crazy, because by now, he could absorb a whole municipal trash heap without blinking. The impurities were just that powerful.
+
+Of course, there was also near-infinite impurities under the earth. He could very well have absorbed a good chunk, and it still wouldn’t have appeared to have made a dent. He had the feeling that one way or another, he hadn’t absorbed much of the impurities at all, but aside from glancing at the wall around him and guessing, he didn’t actually know.
+
+He’d left a small platform at the bottom of the well so he didn’t have to step directly on the impurities, since he wasn’t sure if he could stand on them yet or not. And now was the moment of truth. He drew his sword—an ordinary blade he re-created with Trash Intent this time rather than one of his specialist swords—and lowered his other arm toward the filth underneath him. Last time he’d touched it, he’d had to cut his hand off as the corruption spread uncontrollably, beyond even his abilities to contain. Hopefully he’d grown enough to overcome that, but if he hadn’t, he had the sword.
+
+He paused a hair’s-breadth from the black gunk. Taking a deep breath, he steeled himself. “Here goes nothing,” he muttered, and bridged the gap.
+
+There was a cool, slightly slimy, yet sticky sensation. Just touching it had the same feeling as getting some viscous petroleum-based fluid stuck to his hand, where he instantly knew he’d be wearing the black smudges until his exterior layer of skin wore off. It was turbo-dirty. His entire hand instantly felt just as gross as if he’d plunged it into a reeking, rotting, two-week-old public outdoor garbage can in summer with his eyes shut. He had the same sensation of dread, too; the same squishy, icky, oh no, I can never feel clean again mixed with the oh dear lord, I hope there’s no needles in here even though he could see that all he was touching was the impurities beneath the earth.
+
+He hadn’t felt it last time… that he recalled, because the pain had been immediate and overwhelming. Being able to sit here, touching it, lingering in the utter ickiness of the sensation was already proof that he’d grown stronger.
+
+But just lingering in sensation wasn’t useful. What he had to do was incorporate these impurities into his body, drag more in, and empower himself. If he couldn’t do that, then all he’d done, in the end, was dirty his hand, and he could do that on the toilet any day.
+
+Rhys froze. Wait, hold on. I can’t just do that any day. I don’t really shit anymore. Or piss. Not unless I eat and deliberately try to make filth afterwards. Mage bodies just don’t do it. They efficiently absorb all the nutrients of what is, to start with, high quality mage food, and whatever impurities my body would otherwise expel as carbon dioxide or sweat or… whatever cute thing mages and idols do that isn’t ‘use the toilet,’ I instead absorb as more fuel. He pulled a face. He hadn’t expected to ever have a small personal crisis over not needing to use the toilet anymore, but here he was. Having that crisis.
+
+Alright, Rhys. Stay focused.
+
+The advantage of being Tier 5 was that he could think all that in less than the blinking of an eye, no matter how long it took to describe. The downside of Tier 5 was that he had more time to think stupid things, and his brain could hold more stupid thoughts than ever before. All that to say that he felt the sensation of ‘touching’ the impurities and had a tiny crisis about toileting, and barely a moment had passed in the world.
+
+The impurities climbed up his hand as virulently as they had the last time, but this time, when he pulled his hand away, he reached out, clenching down on his mana passages and veins, and the impurities all-but-halted their flow. His cells were that much… denser, stronger, whatever it was, so that the impurities couldn’t freely flow without him being able to check them. They still leaked slowly upward, but he had minutes, and maybe even hours if he used his full strength, before they reached his heart.
+
+He surged his mana toward it, transforming his impure circulation into mana as they made contact with the fierce impurities. The ignition burst out, consuming the fierce impurities as well. They resisted the alteration, but as he watched, a few bits of impurity on the very exterior of the clump transformed, igniting into mana. A split second later, the mana touched the impurities he’d transformed it from and instantly became filthy impure mana, but for an instant, it was clean.
+
+And just like that, he had a route to absorbing these impurities. He needed starter fuel, but he had plenty of that, and he could store the impurities directly in his core until then (probably, though he’d have to figure out a way to store them that didn’t pollute him, since he couldn’t safely hold them in his body yet). But he wasn’t happy with that. Just absorbing impurities in the form of mana or impure mana wasn’t enough. He had to master them. Manipulate them as freely as he manipulated general impurities before he was happy.
+
+He grabbed the impurities and sunk them deeper into his impurified hand. Dragged them all the way down to the bone and circulated them viciously within his hand. They tore through his cells and degraded his muscle, weakened his tendons and even bored into his bone, making it soft and brittle. His flesh was weak, and these impurities could break it down. Pathetic! He refused to accept such weak flesh.
+
+The impurities tore through his flesh. Rhys waited, until at last his flesh had been so thoroughly corrupted that it could not be corrupted any further. The pain was immense, as every cell and vessel in his hand was corroded, broken down, and poisoned, but he could bear it. He’d been through this before, with more than merely his hand on the line.
+
+The second his hand was fully filled in with impurities, he pushed more of his weaker impurities into his hand, carefully seeding the entire hand with the weaker impurities, then ignited them. They ignited the stronger impurities immediately next to them, and rather than let it die out, Rhys poured more mana into the ignition, fanning the flames to a full blaze. The ignition spread, blasting through his hand.
+
+As all the impurities ignitied, they transformed into mana, and he invested that mana into his hand’s cells, vessels, muscles and bones. Everywhere they’d gone weak and given out, he reinforced, strengthening them, and everywhere they’d failed, he repaired in precisely the way to prevent another failure. At the same time, the stronger impurities were simply stronger. They held more mana when finally ignited, more, even, than the cuteified stronger impurities had. Pouring that much mana into his cells naturally strengthened them, and strengthened everything: bones, tendons, muscle, skin, and all. The more he reinforced his hand, the more it almost seemed to glow with health and mana, until at last the final impurity transformed into strength.
+
+His hand was reforged. It surged with strength, the flesh hardy and powerful. He turned and punched the wall, just using his manual strength, and though his arm was not reforged or any stronger than it was before, the sheer strength of his knuckles bored into the rock. The rock gave away in a spurt of dust, and when he removed his hand, an impression of his fist bored a good meter into the rock.
+
+Rhys grinned. He flexed his hand, then looked at the impurities again. It was time for him to level up.
+
+Pressing his hand against the impurities again, he once more dragged them into his body. They spread virulently, tracing black veins against his skin, but couldn’t find a purchase in his newly reinforced hand. He could circulate them on without any damage; his hand was fully reforged.
+
+The second they hit his arm, though, it was a different story. Rhys dragged them in, cutting them off at the shoulder this time. Once more, the process repeated. His arm withered and blackened, everything weakening as he seeded his entire limb with impurities, then spread the second layer of impurities through the limb. Once more, he ignited it, and once more, his arm was reborn, just as his hand was. Going limb by limb, he repeated this process, until only his torso and head remained.
+
+There, Rhys paused. If either his heart or his brain grew as weakened from this process as his limbs had, he might die outright. Proceeding any further put his life on the line. He was willing to throw his body away, but what about his life? He wouldn’t be able to progress any further without his life. He’d simply rot away down here, forgotten, a footnote in history.
+
+A second later, he slapped his own face. It hurt substantially more than he expected it to, since his face wasn’t reforged but his hand was. Now? Here? This was the moment where he grew afraid to throw himself away? Ridiculous! His entire cultivation, entire magehood, was based on throwing himself away! Stopping now, refusing his entire magehood, wasn’t just a bottleneck—it might be the bottleneck, the stopper that ended his progress entirely! Flinching was fine. But retreating, refusing, hesitating, those thoughts were the kind that stopped a mage dead.
+
+Death, or progress? He set his jaw, determined. There were those in his world who were considered living corpses. People who lived merely waiting to die. They were people who’d given up on theworld, on getting better, stronger, on becoming a different person than they were today. He knew them well, because he’d been one. A living corpse, locked away in the dark crypt of his room, drinking poison and eating filth and waiting for death. He wouldn’t do that again. He refused.
+
+Failing to progress was the same as death. Stopping here was to deny his whole path. And so, with no hesitation left in his heart, Rhys threw his life away, and accepted impurities into his torso, head, brain, heart, and core. He either progressed here, was reborn, reforged stronger than ever before, or he’d been litter all along, trash that he couldn’t even successfully throw away!
+
+Instantly, he was overwhelmed by pain. Reforging himself before had hurt. Reforging his limbs now had hurt. This was different. This pain burned, ate, tore, and refused to go away. There was no getting used to it. No putting it to the back of his mind. Every time he thought he’d finally conquered some part of it, the burning, perhaps, it changed shape, bludgeoning him instead, or maybe stabbing him.
+
+It seeped into every part of him, too. His organs. His core. His heart stuttered, and his lungs screamed. His head was one mass of throbbing pain, and he struggled to think through it and the impurities alike. He felt his legs crumple and knew he’d hit the ground, though he couldn’t feel it through the overwhelming pain. The impurities blinded him, both from pain and literally. He was a slug, an insect, weaker than an infant. If someone passed by, they could easily end his life, though they’d have to break through the impurities first.
+
+He didn’t know it, but a ring of gorillas had formed around his impurity well. They sat in a circle, all the brilliant colors of fur represented, and grunted in a chant-like cadence. From their backs, an arc of mana extended, wrapping over the top of the well and isolating Rhys from the outside. He was their boss right now, and he’d introduced them to a fun new game; not only that, but bravely engaged the other man when the other human went mad. Although the beasts couldn’t be sure if he was demon or savior, they knew that they owed him their lives, and they were repaying that debt by protecting him during his breakthrough.
+
+Trapped at the bottom of the well, Rhys knew none of this. His focus was on all his most important bones as they grew brittle and began to snap, on his heart, as it stuttered uncomfortably and began to slow. His core, too, trembled, struggling to contain the new, stronger impurities, while his mana passages leaked filth and mana alike all over his torso and head. He was crumbling under his own weight. He couldn’t take much more of this. He should stop—stop now, before it was too late.
+
+No! He gritted his teeth—carefully, because they, too, were on the verge of breaking—and pushed on, dragging even more impurities into him. Stop here? Ridiculous. He hadn’t gone far enough! This half-hearted balancing-the-new-trash-on-top-of-an-overflowing-trashcan kind of throwing away barely qualified as throwing away at all! He would go all the way, or not at all. Now that he’d started down this path, he would see it to the end. He’d throw himself away, his body—his life, or else he wouldn’t walk his path any more at all.
+
+His body continued to deteriorate. His life energy waned, and his aura faded immensely. Across the forest, Ryota looked up abruptly, startled. He stood from his study, staring at the place Rhys had vanished into. Shocked, he whispered to himself: “What is that madman doing?”
+
+Down in the hole, Rhys pushed on. His torso was scrawny, now, falling in on itself, a marked contrast to his perfect, muscular limbs. His face was hideous, uglier than it had been since he’d arrived, a mess of sores and sunken hollows. His eyes wandered without focus, lost. He couldn’t hold a thought in his head. His mind rambled, on the brink of madness, and his heart struggled to lift itself to thrust another beat.
+
+What… was I doing? Why am I here? I can’t see… can’t breathe. It all hurts. Stop… stop it.
+
+With what little strength he had left, he reached out to stop pulling in more impurities.
+
+And then his eyes blazed. He didn’t remember what he was doing. He didn’t remember why he was here. But what he did remember was one core thing, the most important tenant that he’d lived by since he’d arrived.
+
+I am trash.
+
+Therefore, I should throw myself away.
+
+So, with one last pull, he sucked in all the impurities his body could take. He pushed himself over the edge, leaping into the garbage can with both feet.
+
+His heart thudded one last time and gave in. His mind crumpled, falling fully to madness. In the dark at the bottom of the well, Rhys ceased to be.
+
+And then mana surged, stronger than ever before.

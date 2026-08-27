@@ -1,0 +1,117 @@
+---
+id: a1d6d1fb-fb7e-5bab-804a-81eed2f22d86
+page-type-slug: story-chapter-royal-road
+title: "231. Go Directly to Hell"
+slug: 0231-231-go-directly-to-hell
+partOf: god-of-trash
+position: 231
+ownLength: 1979
+unit: words
+publishedAt: 2025-11-05
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2735708/231-go-directly-to-hell"
+royalRoadId: "2735708"
+---
+
+You know, of all my plans, this was certainly one of them, Rhys thought, crossing his arms and evaluating his past life choices. What had he really thought would happen, when he came face to face with Lord Ravin? ‘Oh, the Sword Saint? Lovely guy, had a good fight, didn’t we. Yeah, he’s dong well, why do you ask?’ What kind of fantasy world was he living in? Lord Ravin had lost the fight, and moreover, been gruesomely, vitally injured in the battle. Of course he was upset. It was Rhys’s foolishness to expect anything else. Sure, plenty of people treated battle as an everyday occurrence, as a kind of code of honor thing around here, but even then, getting your face beat in wasn’t a pleasant experience. And this went a step beyond a mere face-beating. He’d known, going into it, that Lord Ravin had been brutally and personally beaten within an inch of his life by the Sword Saint, but somehow, all along, he’d lived in some magical wonderland where he’d sit down and they’d have a nice reasonable chat about what had happened.
+
+But that, to use a phrase he’d been dying to use for some time, was the height of foolishness. Lord Ravin was a high-tier mage, and wasn’t used to losing, let alone being destroyed, sat on, and humiliated. He didn’t come from the modern era, where getting headshot seventy times and teabagged eighty-two in one particularly bad game was just the way things went, back at it chaps, and we’ll teabag ‘em next round. And even then, he’d known plenty of dudes who’d get butthurt and wound up over a bad round, and carry that anger around with them all day.
+
+Yep. I uh. Dunno what I was thinking. He twisted his lips, then looked at Lord Ravin. “I… er, nothing I can do for you to, er, change your mind? Maybe make you talk a bit?”
+
+“Return my retainers to life.”
+
+Rhys gritted his teeth. “Ooh, about that. Er, I can kind of do it? Haven’t done it in a while, but I could give it a shot?”
+
+“Oh?” Lord Ravin asked, intrigued.
+
+“Yeah. Well, they’ll be skeletons, and-or rotting. And someone has to have thrown them away. And I’m not sure how long it lasts. But yeah! I could do it. For a little while. Probably.”
+
+He wrinkled his nose. “I did not mean something so crude.”
+
+“No… of course you didn’t.” Rhys sighed. “Anything else?”
+
+Lord Ravin peered at him. “You did not come here to kill me?”
+
+“No. I really did come here just to ask you some questions. I mean, one of my dumber moments, I admit, but uh, you know how it is!” Rhys grinned winningly.
+
+Sitting back in his chair, Lord Ravin crossed his arms. A dozen tubes pulled and tubs shifted as they caught on the needles stuck in his body and moved with his strength. He pursed his…half of the lips he still had, then nodded. Rhys stood there before him, sweating. Lord Ravin was weakened right now, but fundamentally, he was still powerful. If he really wanted, he could crush Rhys with a wave of his hand. If he thought about it, and decided fuck this guy, Rhys would have milliseconds to react before his life was forfeit.
+
+At last, Lord Ravin let out a breath. “I have more supporters, back in the northern territory. If they were to hear of my condition—a very select few of those supporters, that is—then I would be out of this predicament, and no longer trapped in this ice worm lair.”
+
+“Oh! Ice worms! You know, I was wondering—” Rhys caught Ravin’s look and slammed his mouth shut, then mimed zipping his lips.
+
+“If you were to agree to seek out those supporters for me, then, I suppose, I could recall what I saw… after the fight,” Lord Ravin continued, as if he hadn’t been interrupted.
+
+“Sure thing. No problem. Just tell me who and where.”
+
+Lord Ravin raised his brows. “That easily? You must deeply desire the truth.”
+
+“Eh. I’m a drifter with no real goal in sight, so picking up a few sidequests is nothing. I’ve done longer fetch quests for less,” Rhys boasted, thumping his chest. He did have a goal, but he didn’t think he should necessarily advertise that he was looking to topple Virgil. That was an inside thought.
+
+“Fetch quests?”
+
+“Don’t worry about it. So, these supporters…?” he prompted.
+
+Lord Ravin leaned his head on his hand, waving the other dismissively. An image appeared on the air between them: a beautiful woman with ruby-colored eyes, a man with strange, almost scaly skin, and a figure who could’ve passed for male or female with long black hair. “Any of these will do. Contact them and give them this.” He reached behind him, fished around in a pocket for a moment, then tossed something to Rhys. Rhys caught it: a small crystalline orb.
+
+“And… where are they?”
+
+Lord Ravin mimed holding the orb to his forehead.
+
+Rhys hesitated, and Lord Ravin rolled his eyes. “If I wanted you dead, we wouldn’t be speaking.”
+
+“Fair enough.” Rhys lifted the orb to the spot between his brows Lord Ravin had indicated, and information flowed into his brain. A map appeared, drawing a line from somewhere in the northern continent to this place, along with a short note asking for help. He lowered the orb, understanding. If he followed the map backward, he could reach the retainers Lord Ravin was asking for.
+
+“And try not to kill them,” Lord Ravin said, a note of amusement, but also warning, in his voice.
+
+Rhys saluted. “I don’t usually kill those who don’t attack me first.”
+
+Lord Ravin gave him a look, so he added, “…and I never kill those I’m deliberately looking for in order to hand an important message.”
+
+“Good, good.” Lord Ravin’s gaze travelled over Rhys’s shoulder. Rhys turned. Daran stood there, arms crossed, staring at Lord Ravin.
+
+“Interesting company you keep,” Lord Ravin said slowly.
+
+“You mispronounced ‘annoying,’” Rhys countered instantly. Then: “You can see him?”
+
+“No, but I would recognize that loathsome presence anywhere. So, we failed to fully exterminate him, did we.”
+
+“As if the northern region interfered much, except to try and annex my northern expansion back into their lands after I fell. Tell him he’s full of shit,” Daran said, crossing his arms indignantly.
+
+“I will not tell him that. Thank you for your time, Lord Ravin. I will see you shortly, with your aide at my side.”
+
+Lord Ravin touched his forelock, then settled back into his throne once more. Rhys backed away, then took off at a run, not wanting to encounter any ice worms in this labyrinth. He didn’t know what an ice worm was, but given the size of the tunnels, he could guess. He didn’t want to see one, either. Though riding one would be neat.
+
+“They sense the tremors. Walk with an odd pace, to not call one,” Rhys muttered to himself.
+
+Daran looked at him. “What?”
+
+“Nothing. Hey, did you know? Dunes are trash.”
+
+“Oh, are they.”
+
+“Yeah. Got rejected by everyone. At the end, only an auto repair manual publisher would publish it at all. That makes it definitely trash, even if everyone loved it later, right?”
+
+“What on earth are you talking about?”
+
+“Dunes! Dunes, man.” Chuckling to himself, Rhys sped up, leaving Daran behind.
+
+It was a thought, though. Temporal trash. Things that were thrown aside once, only to be brought into the spotlight later; were they still trash, or had they been elevated out of the trash, and transformed into something else by that process? He usually went to the trash that existed in the moment, rather than looking for things that might have once been trash, or trying to use Trash skills on things that weren’t obviously trash right now. The things he used, after all, hadn’t always been trash; most of them hadn’t, anyways, so it wasn’t as if ‘trash’ was an unchanging label. But did it persist, once it had been applied once? Or could it be removed just as it could be added?
+
+It was worth looking into. He’d have to find something that had once been trash, and give it a shot.
+
+For some reason, his mind immediately went to Bast, but he quickly banished the thought. He’d known Bast since Bast was actually trash, so of course he could influence his friend with buffs and such. First impressions were the most impactful ones, and it was hard to overcome them; until the day he died, there’d be a part of him that would always think of Bast as the kid he’d met. It would have to be something he’d never known as trash, or only known as valuable, but which had once been trash, in order for the test to be valid.
+
+Problems for later. For now, he needed to complete the fetch quest so Lord Ravin would tell him what had happened in his battle with the Sword Saint. Gods, I hope he knows something. If I’m running errands for him, and I get back and he shrugs at me, I’m gonna… I’m gonna pile garbage all over his nice ice worm tunnel chamber and see what he thinks about that!
+
+He hopped out of the hidden entrance and took off at a jog, no longer tunnelling through the snow. There was no need to. There wasn’t anything illegal about entering the northern region (except for the part where he was completely ignoring and-or circumventing whatever border control they had). But in fantasy worlds, there often wasn’t border control. The Empire had attempted something like border control, but even then, its borders were pretty porous.
+
+In any case, he could try to disguise his entry into the northern region, but there was only so much he could do to hide the fact that he wasn’t five meters tall. Whether he burrowed his way in or openly walked over the snow, he was a little guy by the northern region’s standards. He’d instantly stand out as an oddity. Bothering to hide on his way in was kind of pointless.
+
+Up, up, up, into the cold north. The further he went, the more the cold started to bother him. He had the trash-cold clothes he’d built, but even that wasn’t enough to fight off the cold. His hands began to shiver uncontrollably, and he tucked them into his armpits. Rhys looked around, hoping to find one of the rumored northern monsters around to fight just to help him warm up, but there was nothing. Just cold, cold, cold.
+
+Well, I probably shouldn’t be hoping a monster shows up, since we needed the Sword Saint to fight them. Unless ‘the northern beasts’ was code for Lord Ravin… but I doubt that. The Alliance wasn’t quiet about being at odds with its neighbors. They wouldn’t have bothered to hide that the Sword Saint was fending off a member of the northern region. If anything, they would’ve used the moment to cast the northerners as barbarians, or something.
+
+Rhys raised his brows. Hold on. Am I the Alliance’s ultimate enemy? I’m helping a lord of the northern region who snuck into our region, I’m helping the Demon King, and I’m taking direct action to sabotage the leader of the Alliance. I mean, one out of three would be bad enough, but three out of three? Is there anything left that I can do to sabotage the Alliance, that I’m not already working toward? Sure, he wasn’t doing a full-blown insurgency or fast food takeover, but short of a long and complex multi-angle effort to deliberately sabotage the entire Alliance and its citizenry at large, he was doing pretty much everything he could to sabotage it.
+
+He giggled. “Whoopsies.”

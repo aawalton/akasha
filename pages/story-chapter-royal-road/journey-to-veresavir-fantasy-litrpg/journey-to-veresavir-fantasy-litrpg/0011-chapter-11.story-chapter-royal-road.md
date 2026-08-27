@@ -1,0 +1,229 @@
+---
+id: b45872e3-7774-52bf-8013-ce1f2791f694
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11"
+slug: 0011-chapter-11
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 11
+ownLength: 3163
+unit: words
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2704494/chapter-11"
+royalRoadId: "2704494"
+---
+
+Chapter 11
+
+Veron spent a good part of two hours traversing the forest and hills northeast of Eyra. He made sure he could still see the buildings in the distance, the slope soon getting a lot steeper but he found himself intrigued with the new plants that he found. The higher he got, the less obtrusive the foliage became, fewer bushes and far less grass obscuring whatever interesting herbs or plants there were to find.
+
+With some fighting experience under his belt and his stone gear, he felt reasonably confident in his ability to navigate the forest. He hadn't been in this specific section before but he was more familiar with the trees and sounds than when he had arrived. He could even identify a few of the critters skittering away from his approach.
+
+Veron came out onto a rocky clearing after he had climbed up a slope. He was now just barely able to make out the Downwater Inn down below in the broad valley. A few birds chirped nearby, the winds up here already a little bit cooler.
+
+His bag was about half filled with various plants that seemed interesting enough to pick up. Nothing that Warren had showed him but he was happy to learn about what he had found. Circling back, he went along the slope and soon came out onto another clearing. A little further up and between some rocks, he saw a patch of small blue flowers.
+
+Those are on the list.
+
+Mountain stars, he remembered the name and advanced, crouching down and confirming what he had found. Six to eight deep blue petals with a yellow center and a light blue stem.
+
+He smiled and carefully started to collect them. He got about eight before something caught his attention and he looked around. The forest was quiet. Not just quiet, entirely silent. It immediately put him in alert and he aborted the collection of plants, grabbing his shield and spear before he moved over into the thicket, trying to be as quiet as possible. A few rocks slid down as he made his way into cover.
+
+A growl froze him in place. From the direction he had come from. He glanced around the tree he was hiding behind and narrowed his eyes,
+
+Something big was moving through the forest. He lost it a moment later.
+
+All he heard now was the wind. He could feel his heart pumping in his chest, carefully shifting to the other side of the tree.
+
+The large creature was there. Some ten meters away, brown fur covering the enormous monster as it moved its bear-like head towards Veron. And then it roared.
+
+He ran.
+
+Around the bear and into the forest when something heavy struck his left shoulder. His balance thrown off, he tumbled and fell, catching his fall on his shield and rolling on the forest floor before he hit a tree with his back, all the air punched out of his lungs.
+
+His vision blurred, and still he could see the large form moving towards him. Not the lithe steps of a hunter, but stumbling, as if drunk. He grasped for his spear, finding it a few meters to his right. Veron looked up when he saw the bear dig into the ground with its arms and pull up.
+
+He reflexively raised his shield, feeling the impacts travel through his arm, a chunk of his shield breaking off with glancing strikes of flying rocks, more thumping against the trees with dull sounds or flying off into the foliage. A chunk of rock nearly hit his head and he rolled to the side, towards his spear.
+
+He grabbed it and came up to his knees. His ears were ringing, adrenaline narrowing his vision, heart beating in his chest. He blinked his eyes, focused on the creature before him.
+
+It took a step and stumbled, blood visible on its fur, a slight gash near its right shoulder.
+
+There were more injuries too, now that he could see it better. And he saw that parts of the being were covered with rock.
+
+He was scared. His hands were shaking.
+
+But this wasn't like when an unknown creature had ran after him in the mist. This time, he was armed and armored. Slowly, he breathed out and moved into a defensive stance. He had trained these steps hundreds of times. This thing wasn’t a warrior. It was a wild animal.
+
+You can survive.
+
+The creature roared and charged forward.
+
+You will survive.
+
+There was no way he could stop something that heavy moving that fast. He grabbed his spear near the tip and slammed the butt end into the ground, stabilizing it as best he could when the creature crashed into him, clawed arm splitting his shield with a heavy strike, a glancing blow striking his head, claws scraping against his shoulder before they found purchase in his right arm.
+
+Veron screamed, kicking against the bear as it tried to raise him up to its maw. He punched at its blood covered snout with the bits of his shield still strapped to his arm, eliciting a roar and the bear pulling away. Another swipe struck his chest and left him winded and stumbling back, barely on his feet. He could see that his spear had torn into the bear, the stone snapping as the creature took another step with a whine.
+
+Veron took two stumbling steps backwards when a wild swipe sent him falling to his back, a dull pain in his chest. He wheezed, rolling away from another slow swipe, his vision almost going black. He grabbed for his shield and found a small part of it remaining. Focusing, he felt more than saw the stone and molded it into a sharp point, a dagger now strapped to his left arm as he tried and failed to get up.
+
+Come on.
+
+The bear was moving slower but it still reached him, grabbing onto his leg and pulling him closer. It opened its maw and moved to bite down when Veron reached up and slammed the dagger into the creature’s ear. It bit down anyway, the rock protecting his shoulder cracking and splintering. He pushed the remains of his shield deeper now that the bear was so close and then, the pressure lessened, the two of them falling to the forest floor.
+
+The movement sent Veron rolling, ripped out of the creature’s maw. He winced, unable to move as he lay on his back, his breaths coming out in rasped moans. It didn't sound right. He had no feeling in his right arm.
+
+The forest was quiet around them, a gentle breeze flowing past.
+
+His sensation was dull. It felt as if he was floating, barely even there. He knew that he was dying.
+
+There was something. A thought. Something pulling at him.
+
+The bear. It’s dead.
+
+He had to do something with the bear. The dead bear.
+
+He looked over at it, the movement almost making him pass out, a pained groan escaping him. And then he realized it. He had to lay the bear to rest, so that he could absorb some of its essence. That was it, wasn’t it?
+
+How the hell am I going to do that?
+
+He could barely even move.
+
+Come on Veron. You’ve barely scratched the surface of magic, of this world.
+
+Move.
+
+He clenched his teeth and reached out with his left arm, pulling himself along the forest floor, his armored boots pushing into the earth as he groaned and moved closer. His vision was getting worse, each pull sending pain and a strange hollow feeling through him.
+
+And then he was there, face to face with the massive creature. Looking at it, he couldn't quite believe that he had killed it. But it was there and it was his only lifeline.
+
+There was no way he could move it into a ditch somewhere. There was no way he could even get up.
+
+It was quiet, his rasped breath the only sound in the vicinity. He could feel the earth below, the wind flowing past.
+
+It doesn’t matter, does it.
+
+He smiled weakly and reached up with his hand, touching the bear’s face, more blood and dirt smeared into its fur. He found its lifeless eyes and closed them, his arm flopping down as he looked at the creature, the massive teeth, its crumbling armor made of stone, its long and thick arms, blood covered claws. He saw its fur, smelled the earth, blood, death, felt the coolness of the shade, the cold surface of the forest floor, the heat in his own blood, the searing pain, the fear of the end.
+
+And then, he shuddered, the cold feeling in his stomach lessening. He felt a bit of strength return to him and breathed out.
+
+He pushed himself up, carefully, taking a last glance at the dead creature. It was massive but no longer felt threatening, more like a mound of earth, part of the forest like the trees and moss.
+
+He breathed out with a sigh and then remembered one of Ivera’s many lectures. Creatures would prey on the weak and injured. He had to get back. Grabbing a piece of rock, he focused and turned it into a crude dagger, nearly passing out from the exertion.
+
+He took a moment to breathe and center himself, and then he started walking.
+
+Birds started chirping again and Veron focused on his balance, taking slow and measured steps. One after the other.
+
+I was out here to collect herbs, you absolute fucking piece of shit.
+
+He had to stop himself from laughing, knowing that it would hurt. He fought a bear and lived.
+
+You're not going to believe this, Charlotte.
+
+_____________________________
+
+Warren taste tested his newest brew. Another dark ale but more herbal and less fruity. It was always difficult to find a good balance, and more often than not the end result was barely drinkable. He frowned as he tasted the brew. It was abhorrent. But there was alcohol in it and there wasn't exactly another place to get drunk in within the Teriam range. The adventurers would drink it. They always had and they always would.
+
+Making potions at the Grand Academy had certainly been more exciting but the stakes had always been so ridiculously high. One tiny mistake could waste several pieces of gold’s worth of ingredients, ingredients that were so rare and sought after, you had to justify yourself to even try and make a potion, let alone experiment with something new.
+
+Yes, he enjoyed the low stakes of brewing in such a remote place.
+
+Even with his downright barren state of a laboratory and ingredients he was working with here, he felt like he was making even more progress than before.
+
+He took another sip.
+
+It wasn't true. Of course it wasn't true. But he had to find a silver lining in all of this. And who knew, limitations often inspired creativity.
+
+Or they inspire needless risk.
+
+Nauritius Groon famously came up with many of his groundbreaking recipes whilst living a simple life in the eastern regions of Honfell. He had believed some of those stories back then, but by now, he was pretty sure Nauritius had come from a line of wealthy merchants, alchemists, or infusers, and even then, he had probably stolen much of his work from far more talented people that history will not remember.
+
+Before he could pour himself another mug of the gods awful brew, a thump made him look up from behind his counter. It was Veron, his most recent and treasured low level employee. He lay passed out in the doorway.
+
+Warren blinked his eyes and then focused. He walked over with a brisk pace and shouted. “Tenya!”
+
+He crouched down and carefully checked the man over. He turned him around to his back while making sure he didn't overly move or bump his head on anything.
+
+Blunt trauma to broad parts of his chest and back, bite wound on his left shoulder, broad cut to his right arm, not clean. Bleeding is stopped, signs of essence healing.
+
+Tenya rushed in and halted, staring down at the two of them. “Wow. He is messed up.”
+
+“Something big got him. He managed to kill it and stop himself from bleeding out. I'm pretty sure his armor saved him. Let's get him upstairs to the silver room.”
+
+“Is he gonna make it?”
+
+“We'll see. Take his legs, on three.”
+
+They finally managed to set Veron down in the bed. “Get me my tools.” He hesitated and then got out a small key from around his neck. “And the third potion from the right.”
+
+Tenya raised her eyebrows and he held the stare.
+
+“Alright, whatever you say, boss.”
+
+He washed his hands and used some alcohol to try and sterilize himself as much as he could before he got to work.
+
+Tenya deposited his bag, his key, and the potion, then went to stand on the other side of the bed, watching intently.
+
+“Thank you,” he said.
+
+First, he grabbed some pliers and carefully peeled away the bits and pieces of stone still clinging to the dying man. Some of the rock had shattered and pierced his skin but less than he had expected, considering his low level. It is his Harmony after all.
+
+He confirmed the wounds and started to clean them as best he could, making occasional comments to explain the process to Tenya. He was in no way a trained doctor and his Path granted him no direct ability to heal but he had learned at the Leiveen Academy, and he had seen his fair share of injured and sick. He could do a better job than most backwater healers.
+
+Carefully, he applied Lirren balm and then bandaged the man, letting Tenya take over with some of the more minor injuries.
+
+It took the better part of an hour, and by the end of it, several cloths were blood soaked and the bucket of water Tenya had brought up was filled with a brownish red liquid.
+
+He could barely hear Veron breathe. The balm and bandages would help but he had no way of telling if he would make it through the night.
+
+At least the heavy injuries confirmed that he was indeed at the low level they suspected. Or he met something truly dangerous. And yet, all of his experience told him that Veron was indeed at the very low stages of his Path. He had thought about it quite a bit. The sudden appearance, his manner of speaking, and of course the obviously low level of his Path and Harmony. It just didn't add up but he hadn't found an answer yet.
+
+A powerful noble or adventurer looking to hide out here had been an option but would he really get injured this badly just to stave off suspicion? And could someone really be that convincing with their acting? They didn't mind him being here either, he actually enjoyed having a more regular adventurer in the area. And his efforts to help out seemed genuine as well. He didn't think someone could fool him that easily but it wasn't just him he had to fool, it was Ivera too, and she was even more paranoid than he.
+
+No, there had to be an explanation that made sense, and one day he would find out.
+
+The Hallow Bristle potion still stood on the night stand. Unopened.
+
+He would have never considered using something so valuable on potentially saving the life of an adventurer he had barely known for a few months, let alone one at such a low level, without the signs of being a prodigy nor with any important connections. And yet, he had Tenya bring up the potion.
+
+Was he just intrigued to find out why Veron had ended up here, or was he finally getting old and sentimental? He smiled at that, glancing at the shredded remains of the bag he had given to Veron. A few petals had remained. Mountain Stars.
+
+If he hadn't been attacked, he could have paid for the potion himself. If of course, Warren wouldn't have swindled him. Maybe he would have, maybe not. Either way, Veron was here now and he had no Mountain Stars.
+
+Warren grabbed the potion and removed the cork, carefully opening Veron’s mouth and pouring in the contents, making sure he didn't cough anything out.
+
+He didn't know if it would be enough, even knowing that it was well made.
+
+Tenya watched with her mouth slightly agape. “You really used it. On a Feeble Path.”
+
+“If he really was at the Feeble stage before, I don’t think he would still be now.”
+
+“Feeble, Weak, Durable, a true healing potion is wasted on a weak adventurer. If he makes it, he's just going to die to the next thing he faces.”
+
+“Probably.”
+
+“Then why? I thought you were supposed to be smart.”
+
+“Careful with that tone.” He gave her a glare and her mouth shut instantly. “This isn't the Academy with its back stabbing cutthroat...” He stopped himself. “We live in Eyra. The Holts have taken him in, and Ivera has bothered to train him. It would be a waste if he died now.”
+
+He wasn't entirely honest. He was intrigued, yes, but he also just liked Veron, and he liked the little agreement that they had made, but more so, saving someone like him with a Hallow Bristle, here in Eyra, it would make any of his former peers fume at the mouth.
+
+He wasn't over it, he could admit that much, and in a way, this all felt like yet another cut at everything they stood for and prided themselves in. Everything he had stood for and had prided himself in.
+
+He was the innkeeper of the Downwater Inn. And this young man was attacked in the forest. This was the least he could do.
+
+“Go inform the Holts.”
+
+“I'm not allowed on their property,” Tenya reminded him.
+
+“I'm sure this warrants an exception. And it might help mend your relationship.”
+
+She gave him that look of disdain she liked to throw around at anyone and anything she deemed responsible for her little luck in life, and then she left.
+
+Warren grabbed a chair and sat down next to the bed.
+
+He took a wet piece of cloth and put it on Veron’s brow.
+
+“I hope you survive. Beasts so close to Eyra, even with Ivera’s presence. I don't know if you chose the right time to become an adventurer.”
+
+Things were moving, he could feel it. In the long looks of the adventurers passing by, the low whispers they spoke in. And for once, it didn't feel like it was just the approaching winter. He hoped the rumors were just that, as far-traveled as they were, but it had been a while since his gut had been wrong.

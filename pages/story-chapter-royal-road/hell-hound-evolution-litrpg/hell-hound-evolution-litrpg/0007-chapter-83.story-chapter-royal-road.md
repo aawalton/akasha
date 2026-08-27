@@ -1,0 +1,363 @@
+---
+id: a85e5fe9-ce16-5d80-8ee0-f5ad98489f15
+page-type-slug: story-chapter-royal-road
+title: "Chapter 83"
+slug: 0007-chapter-83
+partOf: hell-hound-evolution-litrpg
+position: 7
+ownLength: 3128
+unit: words
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3020357/chapter-83"
+royalRoadId: "3020357"
+---
+
+The fox continued to follow us through the day. She at least stopped talking so much. I suppose having a constant one-sided conversation left her short of things to say at a certain point. She also seemed to despise Grick, so she wouldn’t entertain herself by chatting with him either.
+
+I continued to check for prey along the way, but just as on the other side of the river, everything we could find here was low-level. Good for food, but not much else.
+
+Then the fox’s voice spoke up in my head. “You do not use your skills often enough.”
+
+I looked back at her with a dry expression. I hadn’t asked for any feedback. Well, even if I could ask, I wouldn’t.
+
+She continued. “Even if it is against low-level monsters, you should use skills as often as possible. That is how you level them up. The gains are more likely obtained during more serious fights, but every little bit adds up…” She stared off in front of herself, clearly looking at a system screen. “Just a moment.” She shifted her shoulders to pop the bag off her neck and let it slide over her head. Then, a glow consumed her as she began to shrink.
+
+I instantly ran in front of Grick to block his view. When the goblin’s little hands tried to pull him up to look over my back, I gave him a growl. “Look away!”
+
+Grick huffed and turned around, collapsing to his butt with his back turned. “Puppy no nice to Grick. Doesn’t let Grick see nice things.”
+
+I rolled my eyes. Sorry, you little perv. But I plan to at least try to maintain some decency in this group, even if we are all monsters.
+
+Though I was actually more annoyed with the fox. Like, come on, lady! Go behind a tree or something first! I understand having the mentality of an animal, but you at least understand that much about being human!
+
+Soon she was crouching there in her human form, completely nude and going through her bag until she pulled her tunic over her head, then her pants and cloak. She adjusted her pants to let her tail breathe freely, though the cloak still covered it.
+
+Once she was decent, the fox woman gave a big stretch and yawned, showing her fangs. She then pulled her hood up to hide her ears. “There we go. Alright, now let’s… oh right, shoes.” She crouched over her bag once again and slipped on her boots. “There, now I’m ready.”
+
+She rolled her shoulders once more before settling into her human stride, then looked down at me with a thoughtful expression as we continued on our way. I looked back with an expression that said, “What do you want?”
+
+“As I was saying, you’re wasting your potential. There is limited time in a day, so having the mentality that you’ll just train harder later will always leave you behind. One day, you’ll fight something you can’t beat, and maybe could have if you were more diligent with leveling your skills up.”
+
+I trotted forward a little quicker, flicking my tail at her.
+
+She growled. “Fine, if you don’t want to listen to sound advice, that’s your problem.” Then she muttered, “Not that it matters to me either way.”
+
+In truth, she did have a good point. I hadn’t used Soul Rend since our last stand against the red masks, simply because it hadn’t been necessary since then. But if I had used it to finish off even our weak prey that we had only been using for food… is it possible it could have leveled up by now?
+
+Looking towards Grick, I returned to a previous thought about training up the little goblin. We had several opportunities to let him join in on the action but didn't. He’d proven himself surprisingly useful in fights before, creating just the right interference at the right times, but he was undoubtedly the most vulnerable of us.
+
+It had been a while since I checked our stats, so I went ahead and pulled up Grick’s stat screen first.
+
+Name: Grick
+
+Race: Goblin
+
+Level: 6
+
+Path: Cave Dweller
+
+Stage: 1
+
+Body Development: 52%
+
+Vitals
+
+Health: 55 / 55
+
+Mana: 30 / 30
+
+Stamina: 40 / 64
+
+Attributes
+
+Strength: 12 (+1)
+
+Dexterity: 16 (+1)
+
+Vigor: 11 (+1)
+
+Attunement: 6 (+1)
+
+Guile: 19 (+1)
+
+Active Skills
+
+Clean Cast lvl 2
+
+Cast your fishing line more precisely where you want it to land!
+
+Passive Skills
+
+Mining poise lvl2
+
+Traits
+
+Good memory lvl 2
+
+You don’t forget things easily.
+
+Danger Sense lvl 3
+
+You have an innate understanding of when it is best to just turn tail and flee.
+
+Pack Bond lvl 2
+
+You gain experience from anything killed by a member of your pack during a hunt in which you are involved.
+
+You and your packmates regenerate mana and health 5% faster while resting together, the bonus stacking for every nearby pack member other than yourself.
+
+It didn’t seem much had changed. I think his development went up slightly, and he was still level 6. His stats had all gone up by 1, but without having gotten a level up, it must have been from an achievement. It seemed the System shorted him on the reward, though, because I thought he would have earned much more than that by now, even without a level up. I supposed different species just got treated differently…
+
+His Pack Bond was up to level 2, which made sense. I supposed he didn’t need the level 5 benefit himself, though as long as one of us had it, but I still hoped he’d catch up to us soon.
+
+I hadn’t checked my own stat screen in a while either, so I went ahead and flicked his away, then pulled mine up.
+
+Name: ???
+
+Race: Hell Hound
+
+Level: 16
+
+Path: Whisperfang Juvenile
+
+Stage: 5
+
+Body Development: 4%
+
+Vitals
+
+Health: 600 / 600
+
+Mana: 720 / 775
+
+Stamina: 360 / 548
+
+Attributes
+
+Strength: 113 (+30)
+
+Dexterity: 137 (+39)
+
+Vigor: 120 (+34)
+
+Sense: 175 (+44)
+
+Attunement: 155 (+46)
+
+Active Skills
+
+Death Mark LVL 1
+
+Observe a target and place a mark on them that will last for 24 hours, in which time you’ll always know where to find them. While under the effects of Death Mark, your target will suffer a minor fear status effect, making them struggle to eat and sleep, affecting their judgment, and weakening their ability to fight back.
+
+Soul Rend LVL 1
+
+A killing blow that absorbs your target's remaining health and a percentage of their remaining mana. It will also temporarily absorb and apply some of their attributes to you. Success rate depends on the target's remaining health and your difference in power.
+
+Crippling Bite LVL 2
+
+Target limbs and snap bone to weaken your target and affect their mobility.
+
+Veil of Shadows LVL 2
+
+Conceal yourself in darkness, muffling your footsteps and obscuring your outline. Breaking the veil with an attack moderately increases damage based on Strength and Dexterity.
+
+Pulse Sense LVL 3
+
+Sense the heartbeats of surrounding creatures.
+
+Marrow Sense LVL 2
+
+Short-range detection that reveals the density of an enemy's skeleton, allowing you to target weak points more efficiently.
+
+Intimidate lvl 1
+
+Let out a vicious roar, temporarily inducing fear and paralyzing creatures who are inferior to you. The weaker the target, the longer the duration.
+
+Elemental Absorption Lvl 2 (inactive)
+
+Elemental Swipe Lvl 2 (inactive)
+
+Elemental Cocktail Lvl 2 (inactive)
+
+Passive Skills
+
+Apex Ambush LvL 1
+
+You deal massively increased bonus damage when attacking from stealth or targeting unaware enemies.
+
+If your target is marked by Death Mark, then upon death, the mark will automatically transfer to another nearby enemy, provided they are weaker than you.
+
+Enhanced Smell LVL 3
+
+Basic Fighting LVL 4
+
+Night Vision LVL 3
+
+Poison Resist LVL 1
+
+Lightning Resistance LVL 2
+
+Elemental Mastery Lvl 2
+
+Burn Resistance lvl 1
+
+Piercing Fangs lvl 1
+
+Traits
+
+Give Chase lvl 1
+
+Increase speed and reduce stamina reduction when actively pursuing fleeing prey or foes
+
+Moon Harvester Lvl 1
+
+Under direct moonlight, the potency of your spells is improved, and magic-related mana costs are reduced
+
+Camouflage LVL 3
+
+Bonus to stealth when not moving.
+
+Night Hunter LVL 3
+
+Improved camouflage in addition to improved strength and dexterity scaling at night.
+
+Pack Bond LVL 5
+
+You gain experience from anything killed by a member of your pack during a hunt in which you are involved.
+
+You and your packmates regenerate mana and health 5% faster while resting together, the bonus stacking an additional 5% for every nearby pack member.
+
+You can view your pack members' stat screens.
+
+You and your packmates now take moderately reduced damage while hunting together!
+
+You can mentally signal your intentions to your nearby packmates.
+
+Well, my stats have certainly gone up a LOT since the last time I checked. I suppose multiple level-ups and stat bonuses would do that, though. I really should make a habit of checking it more regularly… But it’s just turning into so much to read! I mean, that’s a good thing and all, but all that reading could cut into precious hunting time! Yup, that’s the reason I don’t check it more often. That’s definitely the only reason.
+
+You understand… right?
+
+I was surprised to see my development wasn’t further along, though. It had been some time since I evolved, after all, and it always went up much faster than this, even without any System-granted bonuses. I suppose it just gets harder and harder to advance to higher development stages, just like with level ups, and really skill level ups for that matter. I supposed if I continued to reach new development stages at the rate I initially had, I’d be Mom’s size in less than year! And really, I was only a few months old at this point… I think. It’s honestly hard to keep track of time. I was definitely growing faster than a dog from Earth either way.
+
+I frowned as I looked at my little sister, something important occurring to me…
+
+I had no idea what our birthday was! How were we supposed to celebrate it once we were a year old?
+
+Uh… for that matter, I didn’t know how dates and seasons worked in this world either. Had the weather gotten noticeably warmer or colder over time? Mmmmm… not by much, but I’d say maybe slightly colder. I wasn’t sure, though.
+
+Back to considering my skills, fox lady did have a point, but I wondered which skills I should focus on leveling up?
+
+As for passive skills, the resistance-related ones were the ones I was least inclined to work on. They’d be beneficial, sure, but the only way to work on them was to take hits that related to them, and I’m just not that much of a masochist.
+
+Elemental Mastery was also on hold unless I ended up picking a spell-based Path again. Hellborne Firewitch might just end up being that Path. "Witch" definitely implied magic.
+
+Piercing Fangs, I’d have to fight more armored foes, and humans were the first to come to mind, but maybe monsters with thicker hides or natural armor would work?
+
+Most of the traits seemed like things that would be worked on naturally. With the exception of Give Chase, as I’d need to allow for the specific scenario of catching fleeing prey.
+
+I had an idea of how to give Give Chase a boost… but it didn’t sit right with me. I could allow prey to start to flee once in a while, but that just seemed cruel. I’d be drawing out their deaths when I could just make it as quick and painless as possible. It’d be one thing if they managed to flee thanks to their own skill, but to purposely let them think they had a chance of escape just to run them down a moment later was wrong. Besides, the Apex Ambush passive should be a higher priority anyway, and it requires quick stealthy kills!
+
+Yeah, focusing on the active skills would be the biggest benefit, as I use multiple at once. Even for weak prey, where it isn’t necessary from a purely combat perspective.
+
+I could use Pulse Sense to spot them, the use Death Mark, sneak up with Veil of Shadows, throw in a Crippling Bite, and finish them with Soul Rend. Apex Ambush would also trigger naturally by catching them unaware. I could even use Marrow Sense just for the hell of it. Intimidate was the only thing that didn’t fit this strategy since it ruined the stealth approach. But then again, if there were multiple targets nearby, Death Mark would automatically move on to one of the others thanks to Apex Ambush, and I could then allow Give Chase to trigger and then use Intimidate to end the pursuit.
+
+It would feel like absolutely ridiculous overkill to do all this to hunt rabbits or something… Honestly, it was downright embarrassing. But, fox lady was right. Doing even low level hunts like this would mean more skill level ups.
+
+Then there was Lily and Grick to consider. Do I let the prey live just long enough for them to get some attacks in before finally finishing things with Soul Rend?
+
+I sighed, understanding fox girl’s logic, but in practice, it just sounded so absurd!
+
+Well, Veil of Shadows at least was one that I didn’t need to be actively hunting to use, and it was starting to get dark enough, especially under the tree coverage. So I decided to take a lesson from the currently human-shaped tag-along to our party and activated it.
+
+{Veil of Shadows}.
+
+Lily looked at me, clearly confused why I would use it for no apparent reason.
+
+Fox lady chuckled. “See? I’m full of good ideas. Trust me, it’ll be worth it.”
+
+I let out a scoff, thinking, “Would you just leave already?”
+
+Then I had another idea. I gave her a mischievous side eye and used {Death Mark}.
+
+Death Mark Leveled Up! 1> 2
+
+Death Mark’s fear effect has improved.
+
+Hey! It worked! Thanks for the advice, fox lady!
+
+A red aura surrounded her, so I knew it had worked. I could also see every subtle shift and movement from her in my mind’s eye while not looking at her. As for Death Mark’s other effect…
+
+I noticed her shift slightly and start to glance around. I wasn’t entirely sure until she said, “Stay alert. There’s mostly low level monsters, but it’s getting dark and… you never know…”
+
+She rubbed her hands together nervously.
+
+Yes! The fear effect was definitely taking hold!
+
+Heheheh. Oh, you made a big mistake, fox lady! If I can’t stop you from following us around, I can at least make things a little harder on you.
+
+“Let’s find shelter for the night,” she said anxiously. “We can continue in the morning. You—tell the other hound.”
+
+I had to tense to stop myself from smiling, but I didn’t quite succeed at not letting it show through.
+
+“Wait a second…” She stopped and eyed me suspiciously. “What’s so funny, huh?” she suddenly yelled.
+
+Ooops, busted. I gave her a sheepish grin, but she looked none too pleased.
+
+“You little brat! You used a skill on me, didn’t you!?” she yelled.
+
+“No yell at puppy!” Grick said, coming to my defense. Lily let a low growl rumble in her chest.
+
+The fox froze, eyes narrowing as she scanned me up and down like she was trying to peel my thoughts straight out of my skull. The nervous edge in her posture clashed with the sharpness of her glare, which only made it more satisfying.
+
+“…You did,” she said slowly. “You absolutely did.”
+
+I tilted my head, letting my ears flop just a little, and wagged my tail once in what I hoped passed for innocent confusion. Who, me?
+
+Her jaw clenched as she spoke through her teeth. “Release… me… at… once…”
+
+She really did seem pretty pissed off. I decided to stop messing with her and do as she asked but…
+
+I grinned awkwardly as I looked to the side.
+
+…I didn’t know how to do that. Death Mark lasts 24 hours, and as far as I could tell, the only other way to deactivate it was to kill whatever I had it on.
+
+“I said deactivate it!” she yelled.
+
+I shifted my weight from paw to paw, ears drooping a little as I avoided her glare. I wasn’t trying to keep this going; I just generally didn’t know how.
+
+I lifted one paw and scratched awkwardly at the dirt until I spelled out, “1 day.”
+
+Her eye twitched. “One day? I’m supposed to suffer this for an entire day!?”
+
+I nodded sheepishly.
+
+The fox lady’s hands clenched into fists at her sides. For a heartbeat, I thought she might actually lunge at me. She stopped herself, visibly restraining the urge to grab me by the scruff. Instead, she sucked in a slow breath through her nose and held it like she was trying to keep her temper from leaking out of her ears.
+
+“So if I understand. You used a skill on me with a long duration.”
+
+I nodded.
+
+“And you cannot manually cancel it?”
+
+I nodded again.
+
+“Then why would you do it!?”
+
+I shrugged and pointed a paw at her. She told me to use my skills more often.
+
+Her expression dropped. “You’re saying it’s my fault.”
+
+I nodded vigorously, my tail wagging behind me.
+
+“Puppy has strong skills. Scary skills,” Grick chimed in, patting my head. Lily also seemed to have found amusement in whatever was going on, but I wasn’t sure if she understood the full context as she looked between all of us with her tail wagging.
+
+“Alright. Alright, fine. One day.” She stared at me with a thin smile that made my fur want to crawl off my back. “I’ll simply have to endure it. But you…” Her smile twitched as she pointed a finger at my nose. “You are going to regret it if you ever do something like this again. I have skills of my own. Do you understand?” A tiny spark of electricity danced on her finger tip.
+
+I tilted my head. Okay, okay… got it…
+
+Behind me, Grick whispered loudly to Lily, “Fox is mad.” Lily nodded at him. I think she had picked up that gesture from watching me.
+
+With that, the fox whisked her cloak back with a flourish and walked ahead of us. I don’t think she knew exactly what the skill was, only its psychological effect. I had a feeling she’d be just a little more upset if she knew it was a “Death Mark.”
+
+Read Next Chapter Now!

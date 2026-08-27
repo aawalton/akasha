@@ -1,0 +1,131 @@
+---
+id: bbbf714d-736e-548c-b2f9-c56530f3fd78
+page-type-slug: story-chapter-royal-road
+title: "Chapter 757 - Party pooper and Grumpy"
+slug: 0082-chapter-757-party-pooper-and-grumpy
+partOf: hell-difficulty-tutorial
+position: 82
+ownLength: 2099
+unit: words
+publishedAt: 2026-02-23
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3085607/chapter-757-party-pooper-and-grumpy"
+royalRoadId: "3085607"
+---
+
+“So, how does it look here on Earth so far?” I ask. In an effort to avoid wasting any time, I start manifesting and weaving together weapons made of manabloc and piling them up on the floor.
+
+“Please make some simple square plates, cubes, and orbs, I’m selling these, and passing some of them off to some of the scientists I’ve hired,” Channeler says as he sees me doing so. “I would say it’s going as well as it can in the current situation. Sure, they’re trying to control us, but they have a few smart people who realize it’s going to be nearly impossible soon, so they’re trying to be more sneaky about it. If you want, I can tell you a bit more about that. About some of the more annoying senators, what the president’s been thinking of this all, what the army’s been planning, and more besides, but I think it would bore you.”
+
+“It would,” I confirm and start making the shapes he just asked for. “Any danger to you or the people with us?”
+
+“There’s always something, but nothing too serious other than them hinting that they could do a bit of damage if we tried to push them too much. We mostly cooperate, but only to the point we want, while taking the opportunity to make contacts for the future. Some of the smaller countries are a mess after Normal difficulty people started returning, but we all know the real trouble’s going to start when Hard difficulty starts appearing.”
+
+“Well, I wouldn’t rely on that,” I lean back and throw another sheet of manabloc on the floor. “I didn't return alone, there’s another guy.”
+
+“Hell difficulty?”
+
+“You could say that, he’s a Beyonder.”
+
+“Stronger than you?”
+
+“For now. Confirmed Champion level.”
+
+“Well, fuck.”
+
+“Yup, I’ll talk to him soon to see what his plans are. But honestly, I don’t think there’s much I can do other than trying to keep my family safe along with you guys.”
+
+“Do you think he’d actually try to use your family against you?” Channeler asks in worry.
+
+“Quite likely if he was left with no other choice. And there’ll be nothing I can do other than maybe begging on my knees if that's what he wants to see. Amusing situation, isn’t it?”
+
+“It is fucked up,” Jessica says from the side. “Who even is this jerk? What godforsaken asshole did he crawl out of?”
+
+“It’s complicated, and better if you guys don’t know too much. I’ve only got a bit more to tell you before I return to the tutorial,” I say and lean back just enough to see the sky through the massive ceiling window.
+
+There, far in the distance, the moon is visible in the blue sky. Using mana to strengthen my sight, I observe the cocoon in the shape of a spider. A huge spider. I recognize it, of course, though Septa used to be much, much smaller and cuter when I saw her in the Academy.
+
+Taking my eyes off it, I look back at Channeler. “Can you give me all the data, you know, the locations of everyone’s family, and that stuff?”
+
+He nods. “Yes, I’ll give them to you when you decide to leave.”
+
+“Good. There are things I want to ask you to prepare before I return to the tutorial. Snacks, laptops, solar panels, Izzy’s been wanting a drone too for a while, a tablet, a few more smartphones, a DSLR camera, and ebooks, with as many sciency ones as you can mix in. You can also add things the scientists have been learning about mana as well. Oh, and a detailed timeline of what’s been happening on Earth since we’ve been in the tutorial, some music tools for Maya, and more besides. In fact, I’ll just give you a list. There’s a lot.”
+
+“I can gather that all easily in a few hours.”
+
+“There is also a guy named John Murray. I’ll give you his description, so please find out who he is and send 200,000 to his bank account. You have that kind of cash, right?”
+
+“Is this some sort of mind game? Is it one of those bullies the people from the tutorial were betting you meant to torture the moment you returned to Earth?”
+
+“Who do you guys take me for?”
+
+“I refuse to answer. But yes, I can do that, easily,” Channeler says.
+
+“Great. I don’t have very much time, so I’ll only be sticking around for another hour before I go to check on my mom and the families of the others. Before returning to the tutorial, I will return here for the stuff.”
+
+“By the way, it’s eerie, the way you’ve had your eye trait activated all the time. It gives me goosebumps.”
+
+“What a nice way of you asking me to turn it off for the normal people. Well, that’s just too bad. I evolved my trait, and now I can’t turn it off.”
+
+“Oh...”
+
+"I think it looks cool," Jessica says from the side.
+
+“Any time I'm in Beyond, it threatens to melt my brain from the sheer amount of information from the mana wavelengths around me. Though here on Earth, it is much easier to handle.”
+
+“Certified party pooper,” the woman smiles.
+
+It amuses me a little. After the looks I got in the common area in the last minutes of the tournament, this feels better. There, even some of the people from Hell difficulty were decently scared, that much I could sense from their heartbeats.
+
+Channeler coughs, and I switch my attention to the screen. There, a high-resolution recording shows me entering the 4th event with two metallic cones shining in front of me. Though I don’t remember it, I’m there smiling for some reason. With interest, I watch the video as it shifts to a blinding light and an explosion. There’s Adrian, surrounded by his figure-thing, and a skeleton flying through the air around which the flesh begins to regenerate in bursts of golden flames.
+
+Like some maniacal lich, the skeleton continues clacking its teeth, and the superheated air of the explosion warps around it.
+
+The cameraman and people around him shout in excitement and sheer shock. Someone shouts, "Go, go Mana maniac!" Another person shouts, "Is that a fucking mushroom cloud?" "Nukes? Nukes!?" and plenty more besides. There is even a voice screaming at the top of their lungs, "Nice bakery!" for some reason.
+
+But after the fight ends, those words grow quieter, and although many people are shouting, some murmur hesitantly.
+
+I watch as Channeler closes the file and then goes to YouTube, where he seems to be searching for a specific channel. There, he sorts videos by the newest, and a short, similar to the video we just watched, starts playing, though this one has more flashy edits added to it. There’s heavy bass music and a bit of animation. For a moment, when the video zooms in on my skeletal face, the frame freezes, the music stops, and a pop-up asks for a subscription before the music unfreezes and the video continues. Perfectly synced to the music.
+
+“Of course, that guy already made an edit. Knowing him, in a day or two, there’ll even be a much more heavily edited video instead of this short one,” Channeler sighs as he looks at me, likely reading my confusion. “The tournament ended, and there were plenty of people from lower difficulties who wanted to participate before clearing their last floor. So now, a few days later, after the end of the tournament, there are still plenty of them appearing, and of course, they’ve all got videos, items, materials, all that good stuff.”
+
+“That makes sense, I guess,” I say.
+
+“Yes,” Channeler nods almost absentmindedly and clicks on the short video, setting it to play again in the background, seemingly for the purpose of listening to the song. On his computer, he opens a messaging app. “I’m messaging the others to prepare the things you asked for. By the way, you might not know this, but when you come in contact with a normal human, we think they’ll be connected to the system and awakened.”
+
+I remember the man called John I touched, and the cute dog, Vivi.
+
+Channeler continues to explain, “The time when it begins to show varies, sometimes in a few minutes, sometimes in days. We have a theory that it is faster the stronger the returnee is. You being from Hell, difficulty will likely take minutes for someone you touched and maybe half an hour for people close to you. We’re still not sure, but for you, the effects could extend through an area about the size of a small city.”
+
+“Oh.”
+
+“Yes, oh,” he nods. “But you couldn’t have known. Also, we think that awakening continues to spread from people who came in contact with returnees. If they meet an Easy difficulty person, they might spread awakening only a little, but meeting or touching someone like you, they might spread it to hundreds, thousands, or even have their own ‘field’ of awakening.”
+
+I look at Jessica, who smiles at my expression, and then ask Channeler, “What does it do to people?”
+
+Finally, he looks away from the screen, done sending messages, and turns off the video. “You see a system notification that tells you about awakening. It says: ‘Congratulations! The earliest participants of the tutorial have completed their induction, and Earth will begin its awakening. More information will follow once the tutorial concludes! Welcome!’ Then, if you know what to think or what to say, you can summon your status of level 0 and look over your two innate skills. If you kill a monster, you level up. You can even enter dungeons to level up. Some returnees are beginning to be hired to awaken rich people and teach them, or help them to level up.”
+
+“I could do that too, or heal and make millions, but instead I’ve decided to heal our precious Grumpy,” Jessica says.
+
+I sigh. “Yes, yes. Don’t worry, I’ll let Lily know. And since we’re talking about it, let’s give a healing mark to Grumpy.”
+
+As I say that, I move towards her and the cat. While I do so, I awaken the mark Lily placed on the back of my pale left hand, where it makes itself known.
+
+“Are you sure?” Jessica asks. “She didn’t get to examine his body or modify her healing mana...” As if realizing what she is saying, she stops and laughs shortly. “How dumb of me. I guess even without all that, she’s still better than anyone else from Earth.”
+
+I nod and touch Grumpy, who growls while glaring at me.
+
+Grumpy is an entirely black cat with differently colored eyes. One of them is yellow, and the other is blue. His fur, though, seems to lack the pitch-black shine it must have carried once, and his movements are slow and tired. He constantly keeps sniffing at the hand where the mark is placed, as if recognizing something in there, and slowly his growls turn to quiet, tired purring.
+
+As I put my hand on his head, he presses against it and closes his eyes.
+
+The healing mark in the mana disperses with such gentleness I almost don’t notice when all of it is emptied and gone, and when I pull my hand back, Grumpy lies there sleeping.
+
+In a quieter voice, I say, “Lily said it would be too dangerous to try to heal him on a deeper level, so she made it to strengthen his body and do some simple healing. Would you believe that she’s been working on it since Floor 1?” I almost snicker. “She also couldn’t explain how it works, though Sophie kept trying to put it in a bunch of fancy terms. Lily just said it will make Grumpy grow bigger and give him a stronger body so he can take care of himself. Once she’s back, she’ll do things properly and give him his old form back. Biscuit allowed her to study him a little, so it should be interesting.”
+
+Jessica blinks. “How big?”
+
+“I don’t know for sure, she said, maybe the size of a Labrador, at worst as big as a horse. She also asked for someone to take care of him as he might be scared and confused by the change.”
+
+The woman mumbles something that sounds like it’ll be her getting scared when I pet Grumpy one more time before standing straight.
+
+“Now, please, tell me where my mom is.”

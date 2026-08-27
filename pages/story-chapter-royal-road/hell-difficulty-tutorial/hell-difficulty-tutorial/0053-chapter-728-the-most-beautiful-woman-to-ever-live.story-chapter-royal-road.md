@@ -1,0 +1,159 @@
+---
+id: 5c8b2971-d2b8-5f62-a5fa-fba0bcf08fea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 728 - The most beautiful woman to ever live"
+slug: 0053-chapter-728-the-most-beautiful-woman-to-ever-live
+partOf: hell-difficulty-tutorial
+position: 53
+ownLength: 2190
+unit: words
+publishedAt: 2026-01-13
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2940428/chapter-728-the-most-beautiful-woman-to-ever-live"
+royalRoadId: "2940428"
+---
+
+“So you’ve been watching us the entire time?”
+
+“Of course I did. You’re mine after all. I’m just greedy like that.”
+
+“There have to be some protections against that. Some kind of system privacy rules, you know, stuff like that.”
+
+“None at all.”
+
+“Well, one of these days, I’m sure there’ll be an attendee labor union to fight for those rights. By the way, I have a question.”
+
+“The answer is yes. I already know what I want in exchange for helping you save your beloved disciple.”
+
+“Not that, but since you brought it up, go ahead. What is it you want?”
+
+“Call me Ruby.”
+
+“That’s it?”
+
+“What else can you offer me that’s truly valuable, beyond things like that? I want you to call me that, but not just out loud. Even if it’s difficult, I want you to think of me as Ruby, because that’s who I am, even before I’m the Ruler of Greed.”
+
+“I see. I’ll try then, Ruby.”
+
+“Thank you. Now then, what would you like to know?”
+
+“You seem to be enjoying this situation. Did Lily’s handler really screw up that badly?”
+
+“Her handler is Wrath, by the way. He either didn’t bother to check the quest properly or didn’t have anyone else do it for him. We have some basic protections in place so that while attendees can be sent on dangerous missions, it’s at least within reason, especially for someone like her. As he likes to do, he ignored it all. Let me tell you, most of the Rulers aren't very good Handlers.”
+
+“Are healers really that valuable?”
+
+“Healers in general? No. Healers like her? Yes.”
+
+“And all that stuff about her being the most talented healer since Kindness?”
+
+“...”
+
+“Please stop laughing.”
+
+“...”
+
+“I’m getting annoyed.”
+
+“Nathaniel, there’s a reason why you and that Savant guy are both so very wrong. Yes, Lily Chen is talented, very much so. I’m sure that in a few decades, maybe centuries, she’ll become an impressive healer, possibly one of the most gifted of this generation. But comparing her to Kindness? There’s so much you don’t know about that pitiful woman.”
+
+“Then tell me.”
+
+“Is that what you really want to know? I won’t be able to tell you much else if that’s your choice. Even though it’s not a secret in the strictest sense, it’s still about one of the Rulers, so it carries weight.”
+
+“It’s fine. I want to know.”
+
+“As expected of you. Anyway, I’ll keep it short. There are parts of her past that only she can tell you, and some things she’s told me will die with me. Kindness and the Cinderbear, before he became Charity, were both there when the system first began expanding into our universe, during these early millennia. The lights in the sky and the mana rains you saw on the first floor came from that time, they were signs of the system spreading. When Cinderbear became Charity, he just chose that era for his floor, and we had to heavily modify it after the fact. Some say he chose that time because those were his last peaceful days before Kindness found him, and by studying his body, became what she is now.”
+
+“What…”
+
+“Don’t ask. I’m not saying more. Even this hint is very valuable, so think of it on your own. This is just the setup, a short introduction. If you meet Kindness again, she’ll likely tell you more if you ask. But what I can say is that she grew immensely stronger after meeting Cinderbear. She experimented, learned from his body, and that phase of her development lasted a long time. Later, she even worked with Pride for a while, and some of the races you see today are their creation.”
+
+“What…”
+
+“I told you not to ask, and just take the hints I am giving you. And yes, I’m saying some of this just to torture that curious little brain of yours. It’s fun watching you squirm and seeing your head almost smoke from trying to piece it together.”
+
+“I’ll remember that.”
+
+“Of course you will. You’re petty like that. But as I was saying, a very, very long time passed, and she decided it was her time to die on her planet, surrounded by her beloved King and his warriors. It must have been beautiful, her empire, I mean. I’ve only ever heard stories and seen fragments of old records. Dozens of planets under her rule, from before she became a Ruler, because she didn't want to and instead lived as an Absolute. Her healing aura spread through all of those connected worlds, and her people lived free of illness, with lifespans multiplied many times over.”
+
+“She was that powerful?”
+
+“And much more. She outlived the rise and fall of entire civilizations. Some even worshipped her as an immortal deity. She was the most beautiful woman to ever live, they said. But for a reason I will keep to myself, she’d decided she’d had enough and tried to take her life. She destroyed her brain, her heart, everything she could reach, and closed her eyes, thinking it would be the end of her long life. Yet her talent and power would not let her die. She fulfilled some twisted condition that evolved her abilities into [Immortality], merging several of her most beloved skills into something monstrous. It took away what she loved most. Healing and helping people.”
+
+“Ah.”
+
+“Yes, ah. She woke up years later to find her world and all its connected planets turned into death traps. Her healing aura, once miraculous, had twisted into something no one could stop, killing billions. You’ve probably wondered about that, but some of the floors, even though they’re based on the Rulers’ histories, are heavily modified. Otherwise, no attendee would survive them.”
+
+“I thought as much. And what did she do after waking up to find all of that?”
+
+“I’ve been thinking while talking to you about what I could tell you, but how about I show you instead? I’ll create a small window so you can see what a truly powerful Ruler is.”
+
+“You know I won’t say no.”
+
+“So be it. Just look… and see what she’s asking you to destroy.”
+
+“...”
+
+“...”
+
+“...”
+
+“Do you see now? Do you understand how foolish your words were?”
+
+“...”
+
+“Do you have no words at all?”
+
+“H-how… What is… What am I looking at?”
+
+“This is Kindness. Or at least, what remains of her original body.”
+
+“That thing? That can’t be her.”
+
+“Unfortunately, for her, it is. Tell me, Nathaniel, describe for me what you see.”
+
+“How the hell would I describe this? You opened a window to space, and we’re looking at a black hole surrounded by a halo made of flesh, bones, and… god knows what kinds of unholy gore orbiting it. There’s so much of it, enough to make multiple planets. The sheer scale is hard to grasp. That can’t be her.”
+
+“But it is. What you’re looking at is the Black Hole Forge that the Corporation now operates with the permission of Kindness herself, as she clings to the hope that they’ll someday find a way to kill her.”
+
+“How is that even possible?”
+
+“Time. A lot of time. Someone like Pride or the Elf could probably tell you exactly how long, maybe a few others, too. But honestly, I think most people would rather not know. When her world ended, and she failed to die, she spent ages trying to end it again. She cast herself into blazing stars. She battled dragons. She awakened forgotten gods and hunted the Old Rulers across dying worlds. She faced many ancient beasts and challenged Pride again and again.”
+
+“This is so fucked up.”
+
+“It is. I agree with you. Every attempt only made her [Immortality] stronger. What used to be an active skill she could control turned into something else entirely. Now she serves as an eternal warning for anyone chasing power, a reminder to be careful with the highest grade skills. So, in the end, she risked it all and hurled herself into a black hole, but even that went exactly as she feared it would. I don’t even want to imagine how long she was tortured there. Broken and reformed again and again as pieces of her were devoured or cast out. Just how long did it take? Tens of thousands of years? Millions? Her body refused to die, endlessly regenerating until it grew into the abomination it is now, crawling its way back out of the black hole with no one knowing how much still remains inside of it. Some say even the system pitied her, allowing Cinderbear to become Charity just to save her, and put it to a stop. Maybe Cinderbear pitied her too, since it was from him she learned the secrets that led to her [Immortality].”
+
+“Is there really no way?”
+
+“Maybe one day. Trust me, there’s no being in existence hoping for that more than her. What you saw orbiting the black hole, all of that is her flesh, bones, nerves, skin, organs. Quantities even a Ruler can barely comprehend. Her body floats there, left for the Corporation to harvest. Most of the strongest items they sell are forged from that same flesh and bones, and she allows it. In exchange, every hundred years, they must attempt to kill her. Ninety percent of their entire budget, and incredible resources, go into those efforts under the contract she made with them. I oversee it, alongside my Master of Greed, the High Director of the Corporation, to make sure they actually try, not just pretend to avoid destroying the source of their wealth and power.”
+
+The window closes, cutting me off from the horrific view. I look at Ruby, who now seems more solemn than before, and I can’t help but feel some of that weight settle on me too.
+
+“You should go now,” Ruby says, waving her hand.
+
+And just like that, I disappear.
+
+Appearing in my residence, I take a moment to look around before moving to the terrace. I sit down in a chair and let my eyes drift over the city below. It’s night outside, and the streets are lighting up gradually, one by one, until the view begins to glow like veins of gold throughout the dark.
+
+For a while, I let myself relax, to truly rest, but even that is impossible to do completely. My body still complains under the strain of mana refilling my system, forcing me to use Mana Cycling just to keep it moving. Compared to how it usually feels when my mana is full, this is easier, almost soothing. It has been a long time since I could feel that.
+
+So I just sit there, watching as the city fully lights up. An hour passes, then another, then two more.
+
+Only then do I stand and head for the door, moving without kinetic energy or any mana beyond what I need for cycling. I walk at the pace I would have before the tutorial, slow and human.
+
+I have about three days left since the quest was meant to last seven. There were no rewards, but I’m still sure what I did will count toward the calculations of my Beyond rank and my goal of reaching S rank, even if it is just for bragging rights. With the option to take S rank Beyond quests as an A rank, I am confident I will get there faster than most people. Well, except perhaps monsters like Nyssa.
+
+Maybe I could speed up my schedule and head to the fifth floor early. Or maybe there is something else. The best move now is to check with my guild, so I do exactly that and make my way to our local branch.
+
+With people here barely needing sleep, the place is just as busy as during the day. There are even faces I do not recognize, probably night owls or those on shifted schedules.
+
+I find one of the Vice Guild Master’s assistants, one of those Local guys who keeps the Primordial Knights running smoothly, and give him a brief report. He writes everything down carefully. I have learned that doing things like this helps when it comes time to renegotiate contracts, better pay, fewer responsibilities, and all the usual perks.
+
+In the end, I am assigned a short three day mission that fits neatly into my free time. When I hear the details, I almost groan but manage not to show it. The Vice Guild Master’s assistants are sharp, they pick up on irritation easily and remember it to use against you later.
+
+With the new mission in hand, I move to one of the guild lounges to wait for my partner for the duration of this mission.
+
+To wait for the most demon demon to ever demon. Morwag.
+
+I’ll be joining him on a mission to kill the Guild Master of the Eternal Court and wipe out the remains of their forces hiding in one of their secret bases here on the fourth floor of Beyond.

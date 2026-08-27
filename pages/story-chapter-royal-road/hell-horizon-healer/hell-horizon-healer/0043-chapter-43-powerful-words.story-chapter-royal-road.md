@@ -1,0 +1,141 @@
+---
+id: 80924c62-43ea-5fa2-96ff-820de037644f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43 - Powerful Words"
+slug: 0043-chapter-43-powerful-words
+partOf: hell-horizon-healer
+position: 43
+ownLength: 1353
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3869000/chapter-43-powerful-words"
+royalRoadId: "3869000"
+---
+
+Jake turned to see if there was another way, but he froze. Several Dreadknuck stood at the other side of the bridge. He tried looking for any other path, and found one, but it was similarly covered in monsters of a different kind.
+
+They looked like hounds the size of cars, at least six feet tall with a multi-pronged tail that they had used to pin themselves to the outside of a skyscraper, presumably because regular dog beds didn't come in their size.
+
+"Guys," Glenn said, stepping away from a mushroom. Deep red veins grew from underneath. They practically covered every inch of the floor, and it was impossible not to step on them. "I don't like this place." He swiped his hand through the spores that drafted through the air, which seemed like exactly the kind of thing one shouldn't do in a place one doesn't like.
+
+Edwin quickly ripped a piece of fabric off his shirt and tied it to his face. "Cover your face," he said, his voice now muffled. "We don't know what is in the air."
+
+"Just like the Verdant Expanse," added Susan, with the weary tone of someone who's filled out this particular paperwork before.
+
+At the mention, everyone followed Edwin, covering their face with whatever they had.
+
+Chloe crouched down, getting a better look at the fungi. "How can so much life exist here?"
+
+"Magic?" Lyle asked.
+
+"Nature always finds a way," Sloane said.
+
+Jake also studied the fungi. The more he focused, the more he felt something within the roots of the mushroom… move.
+
+"And magic," he said.
+
+"It's not always magic, Jake. Venus flytraps? How do you explain those? If I'd never seen them on Earth, I'd also believe they were magic. But it's not. It's nature. And nature is terrifying."
+
+"What's more terrifying than nature?" Edwin asked, eyes scanning the dense foliage all around him. "Nature imbued with magic. Keep your head on a swivel. This place isn't friendly."
+
+"How about we try to stay positive for once?" Glenn nocked an arrow to his bow. "Positive thoughts. I had a friend that always said that words had power. If we speak our desire to the world, it will listen one way or another. I think we should—"
+
+A scream bounced across the walls. It sounded… human.
+
+Sloane tightened her grip on her sword. "You were saying?"
+
+Glenn closed his mouth. "Nevermind. This world sucks."
+
+“There.” Edwin pointed to an area that was protected on most sides. Jake didn’t question why they didn’t go back on the bridge as it would be an obvious disaster. Focus on one enemy rather than two. Jake wasn’t a strategist, but even he understood that much.
+
+They rushed to a small area that was guarded by a solid wall. A pillar lay across one side of the open ground, making it so that if whatever was about to arrive wanted to kill them, it had to leap over, or climb under.
+
+It wasn’t long before the monsters arrived. Jake’s blood froze.
+
+Zombies.
+
+Their skulls were cracked open from the top and what grew out was a clump of fungi. Life had long dwindled from their eyes. There were four of them, all wearing an assortment of different armours and weapons.
+
+One, a heavy armoured soldier, bolted straight for them. It leaped over the leaning pillar. Lyle was ready. He blasted the creature with a fireball, but the heavily armoured warrior shrugged it off like it was nothing.
+
+“I’ve got this one!” Jake shouted. “Focus on the others!”
+
+The zombie landed, braced his knees like a spring, then pounced.
+
+Jake, with most likely the highest strength amongst the neighbours, met him head on. He caught the monster’s pauldron and twisted, throwing the soldier against the wall with a resounding crash. It was about to get up. Jake summoned Gutter Tooth.
+
+Two other creatures jumped over the pillar. Edwin planted a bolt in one's chest—one wearing leather armour—a heart-shot. It did nothing but make it angrier.
+
+The other was wearing chain-mail and wielded a curved blade. It landed and swung at Arthur. The coward planted his feet in the ground and took the strike. His mana flared, and for once, held. He grit his teeth and resisted the strike.
+
+Sloane was there to back him up. Efficiently, she cut a stroke across the zombie's head. That did the trick, the system notification blinking to life, registering the kill.
+
+They were called Spore-Bearers.
+
+“The fungi,” she shouted over the sound of groans and fighting. “Destroy the fungi!”
+
+Edwin had already reloaded his crossbow and shot his target again, this time destroying the fungi atop its head. The zombie fell.
+
+(Lvl 14) Spore-Bearer defeatedRewards: 1 Level.
+
+Jake placed both points into Mana right away and focused on his own problem.
+
+He was Level 11 now. Four more to gain his Class.
+
+The creature suddenly lurched at him, grabbing hold and slamming him into the pillar. Pain lanced through his chest, felt something crack.
+
+Vitality +1
+
+The last zombie had crawled underneath and opened its mouth over Jake's ankle.
+
+With a sudden burst of strength, Jake raised his foot and brought it down hard on the monster's skull, killing it instantly.
+
+But it wasn't done. Some last reserve of strength surged through it, and for a moment it overpowered him, shoving him back over the pillar. They both fell to the ground hard, but Jake had already wrapped his chain around its throat.
+
+Chloe was there. She picked up a boulder and brought it down on the zombie's skull, crushing it.
+
+For a moment, they shared a complicated look before more screams filled the room.
+
+"We can't stay here," Edwin barked. "Get to the stairwell. We can lose them there."
+
+Lyle grabbed Jake's hand and hauled him to his feet.
+
+They bolted for the stairwell. It was open. Unlike the other tower, still under construction, this one was fully furnished, though "furnished" felt like the wrong word for it. It looked like some kind of old wizard's alchemical dungeon, ransacked and left to rot: cauldrons overturned, shelves full of glass beakers, and the smell of something cooked wrong clinging to the walls.
+
+Or maybe that was the fauna.
+
+The stairwell had no way up. The stairs were smashed or missing entirely. Down was the only option. Six floors down, they burst into another room, just as wide open as the one they'd started in. Trees made up the entirety of the ground, spiraling up toward a roof lost somewhere above them. Vines and flowers spun overhead like a great spiderweb.
+
+Roars sounded from above, closing in fast.
+
+They cut across to the far stairwell and pounded down two more flights before spilling out into yet another room. Something that looked like a rabbit—green, with a single horn—bounded into a nearby bush and vanished.
+
+The roars kept coming, tracking them with unnerving precision.
+
+Edwin spat. "How the hell do they know exactly where we are?"
+
+Glenn braced his hands on his knees, gulping down breaths. "Do they have a scout or something?"
+
+"The roots," Jake said, lifting his foot. He'd stepped on one, and felt it send a signal somewhere—o the zombies? "I think they're sending signals."
+
+"Are you kidding me?" Sloane asked. "But they're everywhere."
+
+"Nowhere to hide," Susan grinned. "Just how I like it."
+
+"Susan," Lyle warned. "Now's not the time to lose control."
+
+Hanna tugged Jake's sleeve. "Pom wants to fight."
+
+He hushed her. "Not now, Hanna."
+
+She pouted.
+
+Then the entire floor quaked. Without warning, it gave out beneath them. They fell, landing hard on the ground below. Jake peered through the dust and whatever else hung in the air. All he could see was darkness. How long had they been falling?
+
+He shook his head clear. Green flames flickered to life. Two, four, six, and stopped at eleven. Something rattled in the silence that followed.
+
+Skeletons wrapped in red fungal roots rose up out of the moss.
+
+"Shit," Glenn said. "Susan, I take back what Lyle said—t's time to lose control."
+
+Susan screamed and lunged for the nearest skeleton.

@@ -1,0 +1,211 @@
+---
+id: 9fe7f6a2-1349-53ec-bfa4-4fe2925d6110
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1007: That Will Keep Them Dead"
+slug: 0075-chapter-1007-that-will-keep-them-dead
+partOf: he-who-fights-with-monsters
+position: 75
+ownLength: 2622
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3544992/chapter-1007-that-will-keep-them-dead"
+royalRoadId: "3544992"
+---
+
+Belgrade was the largest European city still under full vampire control. It was one of the focal points of the offensive and, with no civilian presence, the attacking forces were free to go all out. The attack began in the late morning, with the sun high in the sky. Powerful rituals had made sure that there was no cloud coverage to hide the sun, high in the sky. Gold rank magic bombarded the city. Massive blanket attacks obscured buildings or brought them down entirely. Zara’s hurricane was the largest effect, but only one of many. Acid fog melted concrete as lightning webs danced through the streets, detonating cars and vampiric minions alike.
+
+As the initial wave of attacks subsided, enhanced soldiers started dropping from airships, descending like locusts onto a grain field. Essence users were scattered amongst them, including powerful adventurers from Pallimustus.
+
+The vampires had yet to show themselves by the time the infantry set foot on the ground. They were hidden beneath the city from both the first bombardment and the sun that would diminish their power. Instead, their perverse minions had been waiting to meet their attackers, and had suffered for it. After the apocalyptic assault, the streets were carpeted with bodies.
+
+Prince Valdis arrived on the ground alongside a battalion of enhanced paratroopers in their exosuits. They had landed on a highway of cracked asphalt, the road already littered with dead. The opening bombardment had caught many of the vampire minions out in the open, and now they lay broken on the ground. From what Valdis could see, it was mostly ghouls and blood oaks.
+
+The ghouls he had seen before, both on Earth and his own world. The blood oaks, on the other hand, were different from those he’d fought in the past. They retained their emaciated plant bodies, like twisted branches dripping with blood. What was different was that flesh had grown over those bodies, pale and clammy, as if from a starving vampire. Their skin was ill-fitting and only partially complete, leaving raw muscle or even empty cavities in various areas of their bodies. The result was something akin to an eight-foot zombie with blood-red branches for bones.
+
+“Looks like our job’s been done for us,” one of the soldiers said.
+
+“Quiet, Hennessey,” his commander ordered. “If what should have been a hard fight seems easy, it usually means you’re about to get screwed. What say you, your highness?”
+
+“I agree,” Valdis said. “It’s too easy. That said, the vampires waiting underground will…”
+
+He trailed off as the sound of cracking stone came from all around them.
+
+“On alert!” the commander yelled out. “Defensive circle, heads on a swivel.”
+
+Valdis watched as bloody vines broke through the asphalt, either growing up from existing cracks or breaking through to make new ones. The vines started crawling, not for Valdis and the soldiers but for the dead vampire minions. The vines stabbed into the bodies, which immediately started to stir, twitching as they came back to life.
+
+“Flamethrowers!” the commander yelled. “Burn it all!”
+
+***
+
+The city of Multan in Pakistan required a more precise approach than the blitzing of Belgrade. Ostensibly under human control, it had been identified as one of several hiding places for the vampire lords outside of Europe. Nigel Thornton and his team had been deployed to infiltrate the secret lair, hidden under the Ibn-e-Qasim Bagh Stadium. Attached to the team was Itsuki Tiwari, for a very specific contingency.
+
+The squad had quickly found the hidden door that led to the underground complex and were moving through, weapons at the ready. The team mostly wielded guns, from Nigel’s twin pistols to Jonno’s enormous chain gun. Some were conjured, others custom made, including prototypes from Travis Noble’s workshop. Cobbo had his automatic spear gun while Darce had what looked like a flamethrower but was actually a steam cannon. Only Digit had a more archaic weapon, although his repeating crossbow had a very modern design.
+
+The secret tunnels below the stadium weren’t the kind of ancient catacombs that would have been appropriate for vampires. They were cavernous hallways of smooth steel, the team’s boots echoing on the floor as they moved. Light came from a drone floating over their heads.
+
+“I feel like I’m in a submarine for giants,” Darce said.
+
+“There’s something I don’t get,” Orange said.
+
+“There’s a lot you don’t get, mate,” Green told him. “You’ll have to narrow that waaay down.”
+
+“Like you’re any better. What I’m saying is, this city is crazy old, right? People have been living here for yonks?”
+
+“Around five thousand years,” Itsuki said. The affliction specialist was in the middle of the formation, protected by the nine-person unit.
+
+“Yeah, so it’s old as all get out,” Orange said. “My question is, if this city is so ancient, and these vampire lords are so ancient, why are they hiding under a bloody cricket ground?”
+
+“They also play football here,” Itsuki pointed out.
+
+“I’m not sure that affects his point,” Higgy said.
+
+Higgy was the team guardian, positioned at the front of the team. He was armed with only a shield that was less ‘Captain America’ and more ‘wall with handles.’
+
+“Maybe it was too obvious,” Digit suggested. “They went for the place you wouldn’t expect to find vampires.”
+
+“Or maybe they just like cricket,” Green said. “Did you know they gave Waqar Younis essences?”
+
+“Nice, good for him,” Woolzy said. “I’m just glad they finally gave some to Boonie.”
+
+“Who are you talking about?” Itsuki asked.
+
+“Cricketers,” Nigel told him.
+
+“Cricket’s the game that’s like baseball, but it takes five days, right?” Itsuki asked.
+
+“How have you been hanging around Australians for twenty years and this is how you describe cricket?” Jonno asked. “Thorny, permission to slap him around the head?”
+
+“Permission denied,” Nigel told him.
+
+“That’s why you don’t ask,” Cobbo said. “You should have just clipped him one.”
+
+“Would it be rude,” Itsuki asked, “to point out that for professional soldiers, you don’t seem particularly professional?”
+
+“They’d shut up if it mattered,” Nigel said. “Vampires have sharp senses. They’d smell us coming, even if our boots weren’t ringing on this floor like a doorbell. The only real issue with the vampires hearing us talk is that now they know my team are all idiots.”
+
+“CONTACT!” Higgy yelled and the seemingly relaxed squad snapped into action. The circle around Itsuki tightened up as weapons spat out bullets, quarrels, exploding spears and jets of flesh-melting steam. A dome of glowing yellow force emerged from Higgy’s shield to cover the squad, right as dozens of vampires slammed into it. A few seconds of gold-rank weapons fire later and the tunnel fell still.
+
+The team looked at the carpet of fallen vampires around them.
+
+“Silver-rank,” Nigel said. “No vampire lords yet. Looks like gold-rank attacks were enough to overwhelm their vampiric regeneration.”
+
+“It was so fast,” Itsuki said. “I didn’t have time to react. I don’t think my afflictions will be of much help if the fights only take two seconds.”
+
+Itsuki was new to gold rank, despite being one of the first to have his monster core taint purged. In his youth, Itsuki had idolised Jason and wanted to be like him, avoiding monster core use. Getting to work with Jason had been a dream come true, until Jack Gerling had killed half of their team. After the deaths of Asya, Greg and Kaito, Itsuki had avoided regular battle and turned to monster cores.
+
+Eventually, he’d come to regret the decision, made out of fear and trauma. As he returned to monster hunting, he did so with a dedicated team around him. A more traditional affliction specialist than Jason, he threw spells from a well-protected position on the backline. the backline. It was an approach that lacked the independence and utility Jason had, making up for it in raw power and ease of use. Itsuki could blanket massive areas in death, with a speed and reliability Jason couldn’t match.
+
+“There’ll be harder fights to come, trust me,” Nigel told him. “And it’s not why you’re here, anyway. Let’s see if the reason you are here is an actual thing.”
+
+Itsuki turned his gaze from Nigel to the fallen vampires. The rest of the unit had never taken their eyes from them. After a few moments, nothing had happened.
+
+“Are we good?” Cobbo asked.
+
+“Give it a minute,” Nik Asano’s voice came from the drone hovering over them. “We’re getting reports about the vampire forces not wanting to stay dead.”
+
+As if to prove his point, the sound of warping metal came from the floor. First a little, but soon it was echoing up and down the tunnel. The steel under the dead vampires warped and bulged until bloody red vines punched their way out and started stabbing into the corpses. In one place, where an exploding spear had turned a vampire into mist, a vine grew fat, expanding into a seed-like pod. It quickly grew large enough to contain a person.
+
+“Should I put some bullets in that?” Cobbo asked.
+
+“Leave it be,” Nigel said. “I’m still only sensing silver-rank power here. Let’s observe and see what we’re dealing with. You recording this, Nik?”
+
+“I am,” Nik said.
+
+The vampires started jerking back to life. The bodies had suffered catastrophic damage, but flesh knitted back together and limbs regrew with startling swiftness. A few vampires that had been completely destroyed grew whole new bodies. They clawed their way out of the bulbous vine pods, naked and coated in blood.
+
+“I’ve seen enough,” Nigel said. “Light them up.”
+
+Another frenzy of gunfire later and the vampires were once again on the floor. This time, the vines acted more swiftly, immediately moving to reanimate the fallen.
+
+“This is why you’re here, Tiwari,” Nigel said. “Let’s see if Standish was right.”
+
+Itsuki held his hands out to his sides, palms facing out as he chanted a spell.
+
+“That which remains is mine to claim.”
+
+Red life force shone from the vampires, but it was not like the life force of the living, or even normal vampires. There was a strange artificiality to it, like light shining through cheap plastic. It was drained all the same, siphoned away from the vampires and into Itsuki’s outstretched hands. As he stole their life force, they dropped, mid-reanimation, and the vines blackened and withered.
+
+“Good job,” Nigel told Itsuki.
+
+“And that will keep them dead?” Higgy asked.
+
+“That’s the idea,” Itsuki said. “After Jack Gerling kept popping up, despite people killing him, Clive Standish thought that McKean might have a way to do something like this. We know that sucking the life force out of a body slows down diamond-ranker resurrection, so the hope was that it would work here too.”
+
+“The problem is that no one anticipated it being on this scale,” Nik said. “We’ve got reports of all the vampire forces resurrecting, except for the blood slaves. Presumably because they’re really just people high on magic juice. But the ghouls, the blood oaks and the vampires themselves are reportedly all coming back. That’s everywhere, Western Europe all the way to here. We’ve been attaching people with life-drain powers to teams, but there aren’t enough to go around. A lot of our forces are being forced to pull back. They’re winning the fights, but they have to win them over and over until they run out of bullets.”
+
+“Then let’s get moving,” Nigel said. “It sounds like you just got a lot more important, Mr Tiwari, and people are going to need you.”
+
+***
+
+The rapidly produced magitech troop transports looked like someone had retrofitted school buses to be spaceship. Capable of vertical take-off and landing, they swarmed in and out of the massive hole in the side of Emir’s cloud ship. Inside was an oversized aircraft hangar with the design philosophy of an ostentatious monarch. Dark wood, blue lacquer and intricate gold embellishment was everywhere. More suited to a palace than a military marshalling area, it toed the line of impracticality without quite stepping over.
+
+Along with the aircraft deploying essence users to hot zones, less conventional means of transport were on display. Summoned creatures and familiars that could serve as flying mounts were gathering. A cluster of portal users were sending people across the continent, command carefully managing their ability cooldowns.
+
+After using his portal to send off some gold-rankers, Clive had to wait a few minutes before he could use the power again. He took the chance to wander over to the gathered familiars, which included his own.
+
+Onslow had expanded his shell to the size of a yacht, with a team of healers bustling around inside it. Neil was in charge, preparing to deploy as a medical extraction team. With word coming in that the enemy refused to stay dead, they were anticipating a busy time.
+
+With his shell expanded, Onslow himself was an adorable, child-sized green humanoid. He watched, chomping on a lettuce leaf, while the healers prepared gurneys and cabinets of healing unguents and other medical supplies.
+
+“Neil,” Clive called out in an admonishing tone.
+
+“What?” Neil called back absently, not looking away from counting potions in a crate.
+
+“What did you do to Onslow?”
+
+“What?” Neil asked again. He wrote his count down on a chart before slotting it into a holder on the side of a cabinet. Only then did he give Clive his full attention.
+
+“What’s the problem?” he asked, wandering over.
+
+“What is this?” Clive asked, gesturing at the orange cloth eye mask tied around Onslow’s face.
+
+“I figured it was better that than nunchuks,” Neil told him, then held out a hand that Onslow met with a three-fingered fist bump.
+
+“Cowabunga, dude. Clive, I’m kind of swamped here, so if there’s nothing else?”
+
+“This is not being a good influence,” Clive said.
+
+“I’m not the one that let him watch movies with Gordon and Taika.”
+
+“That’s right, bro,” Taika said, wandering over as Neil went back to work. The giant Māori also held out his fist for a bump, Onslow meeting it with a happy squawk.
+
+“Radical. Sorry Neil wouldn’t let you have the nunchuckers, bro.”
+
+“Taika,” Clive scolded, but was prevented from continuing by an alarm sounding through the hangar. It only lasted a few moments before being replaced with an announcement.
+
+“Aerial attackers approaching cloud ship. Response team, deploy and engage.”
+
+Taika let out a low whistle.
+
+“Have you seen these zombie-vampire-plant-bat things they have coming at us? It’s icky stuff, bro.”
+
+He pulled a large recording crystal from his pocket and tossed it into the air. It started orbiting the space over his head and loudly blasting the opening notes of the song ‘Danger Zone.’
+
+“WILLIAMS!” yelled a military officer. She had an EDJI uniform and US Air Force tags. “I told you, no soundtrack!”
+
+“What’s that, Chloe?” Taika yelled back, cupping his ear as if to hear better. “I couldn’t hear you over the sound of Kenny Loggins being a boss!”
+
+He then sprinted for the open-sided wall. He leaped out, launching himself into the air before transforming into a giant golden bird. He plunged into a dive, the recording crystal trailing behind, still blasting music.
+
+“Mr Standish?”
+
+Clive turned to look at a young officer approaching in an EDJI uniform.
+
+“Yes?”
+
+“They’re asking for you in the comms office, sir. Conference call with General Mills and Ms Hurin.”
+
+“Is this the mobilisation order for McKean’s base?”
+
+“No, sir. I believe it’s about how the vampires are getting back up when we kill them.”
+
+“I heard talk. It’s confirmed?”
+
+“It is.”
+
+“How widespread?”
+
+“Everywhere, sir. All the vampire forces are immediately coming back to life.”
+
+“Oh. That’s not great.”

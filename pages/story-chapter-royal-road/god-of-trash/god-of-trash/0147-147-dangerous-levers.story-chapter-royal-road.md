@@ -1,0 +1,59 @@
+---
+id: b59ccbda-f7a3-54af-96ba-f7804425f480
+page-type-slug: story-chapter-royal-road
+title: "147. Dangerous Levers"
+slug: 0147-147-dangerous-levers
+partOf: god-of-trash
+position: 147
+ownLength: 1699
+unit: words
+publishedAt: 2025-07-31
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2482043/147-dangerous-levers"
+royalRoadId: "2482043"
+---
+
+Rhys didn’t hesitate. He’d already made up his mind, so he had to move immediately. After all, there were two options: he waited until they forgot about Lira, then attacked, or he attacked immediately, before they had a chance to move Lira around or seriously injure her. From Mouse’s telling of the situation, he chose to act immediately. If they’d known for sure that Lira was sent here, or that she had backing, then it made more sense to wait, and act as if she was low-value, but they didn’t. They hadn’t seen Mouse, and Lira had claimed she was alone. They might have doubts about Lira’s claim, but that was different than one-hundred-percent expecting someone to come after her. If he acted now, they would still be caught up in doubting, and wouldn’t have decided one way or another, whereas if he waited, they would decide their doubt one way or another. They might decide it in Lira’s favor, but they might not. Now, before they decided either way, he would strike, wipe out what he could of the Water Syndicate, absorb the rest, and rescue Lira.
+
+No, wait. I’ve got that backwards. Rescue Lira, then the rest of that. A little shine of fear lived in the depths of his heart. Someone more dangerous than him. Someone far more dangerous. Not strong enough to notice Mouse, but what did that mean? The Empire had overlooked Mouse.
+
+The rest of him pushed back against that fear. He had impurities, poison, and trash by the buckets. What could this mystery figure do against that? Even the Empress feared impurities. If this mage started stronger than him, he could simply impurify them down to his level. Long live debuffs! Long live poison!
+
+Unless the powerful mage oneshot him from across the world. Unless he got headshot from the other side of the map. Unless—
+
+Rhys took a deep breath. All his hellish FPS memories had nothing to do with this situation. The chances the mage could, or would, execute him from miles out without him being able to even react were low. He wasn’t going to get spawncamped. He wasn’t going to get hammered every time he poked his head out of cover. He wasn’t going to get wallbanged. Safe, safe, safe. He’d be… not safe, but not oko’d without even knowing which direction the bullet had come from.
+
+This wasn’t an FPS world anyways, thank goodness. Well, I’d already be dead if it was. He’d had no talent at FPSes and no twitch reflexes to speak of. But in this world, he could sense things with his aura. He wouldn’t get surprised. Even if the mage was way stronger than him, he would be able to react and at least run away, if not respond.
+
+Why am I so scared? He’d fought before. He’d even fought way stronger mages before. So why—
+
+But no, he knew it. It was because of Lira. Because Lira had been captured. Until now, he’d been winning. He hadn’t lost anyone. None of his foes had demonstrated the ability to easily capture the warriors under him, with such strength and acuity that his men and women weren’t even able to fight back. From Mouse’s telling, the guy had just scooped up Lira. Forget fighting back. Forget resisting. Just swooped her up and taken her home. It… it spooked him more than he’d expected it to.
+
+Sure, the Empire had taken his friends awa, from a certain way of looking at things, but that was one thing. The Empire was the Empire. Above-board. So incredibly more powerful than him that it didn’t bear thinking about. This was the Water Syndicate. A secret, hidden force that he knew near-nothing about, except that one of its members was capable of capturing Lira single-handedly and suppressing her to the extent that all she could do was flail like a little kid being kidnapped by an adult.
+
+Rhys took a deep breath. Stop panicking. I don’t panic. I’ve been de-cored by the Empr… by a little white tampon asshat with what felt like a rusty spoon. I spent three years in the mines. I don’t panic.
+
+The image of Laurent as a tampon with a face and little stick arms and legs actually did improve his mood, and Rhys moved on, steadier than before. Not steadily, because Trash Step didn’t work like that, and the ground was a mix of knotty tree roots (trash footing) and soft, rich earth (not trash), but steadier. His eyes narrowed, and his thoughts narrowed to a laser focus. Lira. He’d go there, announce nothing, hit the Syndicate so hard they’d feel it for months, rescue Lira, and then, if everything went well, behead their regional leader and install himself in their place.
+
+I didn’t realize how much my people mean to me. That was what this was, start to finish. He was intimidated by whoever had attacked Lira. The prospect of taking on the Water Syndicate alone with no backup made his heart race, but he was marching on anyways. The part that really scared him, the part that actually made him hurt when he poked at it, was the thought of Lira, captured, in danger, threatened unfairly by a dangerous force, all because he’d overestimated her and underestimated the syndicate. She was one of his, not anyone else’s, and she’d undertaken the mission on his orders, because he’d thought she could handle it. She hadn’t been able to, and that was his fault, and his responsibility to rectify it and save her.
+
+Some dim part of him was a little proud that he wasn’t hesitating. Another part was terrified of the same. His people were a serious lever. If an enemy realized it, they could seriously harm him. That part of him wanted to stop and think about the long term implications of rushing to save Lira, of what it might indicate to those who wanted to harm him later.
+
+The unhesitating part smacked that part of him in the face. So what? Was he supposed to become a coward and a loner because of that? What a trash conclusion—something to store away for later—but honestly, it was something that had always annoyed him. “I have to be alone for your sake.” Ugh. Serious eye roll. He was tired of that line. Never worked out in any of his trashy comics either, so he’d never understood those loner arcs. Since the weak people around the hero would always be captured regardless of whether they were around the hero or not, why push them away? No. Hold them close, utilize their unique skills, grow stronger from their strengths, and if they got caught…
+
+If they got caught, then he’d just have to be strong enough to steal them back.
+
+He’d been slacking lately. He’d been so focused on taking down the Empire from the inside that he’d neglected his own personal growth. But he couldn’t neglect that. He’d known it, and knew it still. This plan of his wouldn’t work as a low-rank Tier 3. Eventually, the Empire would realize his tier, and place warriors at all the camps who could oppose him, if they hadn’t already; they only didn’t already have Tier 3 or 4 warriors there because they needed little to suppress the workers, and no one was going to enter the Empire to free them. The longer he fought, though, the more likely they were to beef up their guards, and Rhys had to be ready when it happened.
+
+He closed his eyes, trusting himself to Trash Step for a few beats. He wouldn’t neglect it any longer. He’d get stronger. First, by mastering the void and distributing trash cans all over the Empire that could suck up all their trash, and possibly even act as a teleportation network for him, if everything went right. After that… well, if the trash cans really worked the way he hoped they would, they’d be an ideal way for his to discover new Impure Wells. He’d suck up all the Empire’s wells, and then…
+
+And then, he didn’t know. Look for pieces of Straw? That could happen in coordination with the wells. Find new curses? If nothing else, the rider’s skeleton would get more filled out. Hopefully some horse would show up in the mix at some point. Reforge the sun sword? He was tempted, but was still afraid he lacked the skill. He hadn’t tried swordsmithing at all, and the sun sword… he got one shot at it. If it went wrong, that was it. No more sun sword.
+
+Maybe I should look for a talented swordsmith, rather than DIY-ing it. It was a very un-trashy thought of him. Treating a priceless artifact to a DIY makeover was the ULTIMATE trashy thing to do. Why, he could think of a fantastic image of Jesus Christ that had been absolutely DIY’d into something… unrecognizable was the best word, back in his homeworld. Sure, he couldn’t hope to restore the sun sword to its pristine glory that way, and he might in fact destroy it past salvage, but for him, wasn’t that the same as improving it?
+
+Rhys chuckled under his breath. I’ll keep it in mind. He still wasn’t sure he wanted to touch the sun sword at all. The immense power in it far exceeded what he’d felt from Aquari, and she was a Schoolmaster. To this day, he could still treat it as an ultimate weapon. A last-ditch attack with his all behind it, that, if his gauges of power were at all accurate, would inflict a serious blow to the Empress herself. Not a killing blow, no, but a serious blow.
+
+He touched his storage ring. He’d brought it. It, and his corrosive potion. Just in case. Ideally, neither would come into play, but he wanted all options on the table. He’d use the potion first, but if it came down to it, he’d use the sun sword to free Lira. He wasn’t leaving here without her.
+
+Seriously, that second, hesitant voice whispered, your people are a dangerous lever.
+
+And the Water Syndicate was about to find out how dangerous.

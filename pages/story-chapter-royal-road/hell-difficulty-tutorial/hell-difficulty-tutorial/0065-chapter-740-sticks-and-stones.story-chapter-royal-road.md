@@ -1,0 +1,133 @@
+---
+id: b1b91dcc-0086-5bc6-9fb0-e1ad686c7329
+page-type-slug: story-chapter-royal-road
+title: "Chapter 740 - Sticks and stones"
+slug: 0065-chapter-740-sticks-and-stones
+partOf: hell-difficulty-tutorial
+position: 65
+ownLength: 2115
+unit: words
+publishedAt: 2026-01-29
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2992742/chapter-740-sticks-and-stones"
+royalRoadId: "2992742"
+---
+
+There are a bunch of people around me, and one of them, a selari woman, almost tackles me right away. But she miscalculates her speed, and I avoid her, only for another man to tackle her to the ground, where he starts punching her. Someone throws a rock that scrapes the side of my head and sends blood running down my cheek.
+
+I rush in first before anyone else even finishes adjusting to their weakened bodies. My own body feels so slow, so weak. All the extra senses are gone, reduced to their most basic forms like sight and hearing.
+
+Passing the debris, I pull a long piece of wood free and avoid a thylarin swinging at me with his three right arms. Then I stab the shard of wood into his neck. I do not let go of it, instead, I drag it back out at the same moment as a human woman crashes into me.
+
+I punch her in the eye repeatedly before stabbing her in the chest with the piece of wood. Kicking her off me, she disappears from the event, and the thylarin vanishes as well. Looking around, out of ten attendees, only three remain. Me, the lynthari, and a huge velnar. Both of them already have wounds from their own fights.
+
+“Hey, let’s attack him together and...” the lynthari with the black tail says to me, but I rush him first. He staggers back but manages to punch the wood out of my hand before we slam to the ground.
+
+My head smashes into his face, breaking his nose, before I roll away. The velnar, who was about to attack me, instead stomps on the lynthari, who screams in pain.
+
+Rising from the ground, I grab the bloodied spike of wood and drive it into the back of the velnar’s knee. He collapses under the strike and swings at me with his massive fist, but I dodge just under. His other fist hits me, but it’s just so weak, reduced to the same pathetic strength I currently have.
+
+He tries to block my next attack, so I jam the wood into his palm instead, and he jerks back, expecting me to cling to it. Instead, I let go and jump at him, gouging my fingers into one eye and then the other before getting out of his way.
+
+While he staggers around, screaming in pain and swinging blindly, I take a breath and look around. There are no more enemies, so while relaxing my breathing, I move toward another pile of debris and pull out another long, sharp piece of wood.
+
+I kick off my shoes, and my steps become much quieter. First, I reach the lynthari, painfully groaning on the ground and finish him off. Then I circle behind the blinded velnar and stab him in the neck.
+
+When he disappears, too, I am left alone, hearing distant clashes all over the ruined city. With the quiet moment, I examine my body and open my stats.
+
+Lvl 5
+
+Strength: 10
+
+Dexterity: 11
+
+Constitution: 6
+
+Mana: 5
+
+And that is it. Nothing else at all.
+
+It all feels wrong, and I feel so weak. Even though my physical stats without kinetic energy or mana have always been, honestly, pathetic, feeling it this directly is something else.
+
+At least everyone here is the same, though some seem to have forgotten how to fight dirty. As is fitting for the Ruler who cooked up this idea, the event is meant to force humility on people who’ve grown used to not punching up. But that’s not me. I don’t remember the last time I was not properly fighting someone stronger than me.
+
+I like this. I really like this event, but unfortunately, there’s someone else who will be extremely dangerous with these conditions and stats.
+
+I put a few stones into my pockets, find another sharp piece of wood almost as long as a spear, and head toward the sound of the next fight.
+
+POV Weslin
+
+After a quick series of fights, I run into Morwag.
+
+I dodge his attack and punch at his side, but he shifts his body just enough that my fist slams into bone. I feel one of my fingers crack. I don’t remember the last time my body felt this delicate and slow. And the pain. There’s nothing there to suppress it. It floods my whole body, and from what I’ve seen, everyone here is dealing with it through willpower alone.
+
+“Come on, Weslin. Attack me again,” Morwag says as he steps to the side, that challenging smile blooming on his face.
+
+Everyone thinks he’s just a mindless demon, easy to sway with his emotions, but he’s the farthest thing from it. He controls the brutality he carries, letting it loose only when he feels like it. And he’s smart too. Surprisingly smart. It is just that he doesn’t tend to care about consequences, which is why he does the shit he does.
+
+That’s how he’s acting now. Like me, he realizes that even with the difference in our body sizes, our stats are the same, and he acts on it.
+
+We rush in at the same time and crash into each other, trading blows. We both wait for the other to falter for even a moment under the weight of the pain. While he uses that tiny bit of mana he has for overall body strengthening, I use mine in short bursts, letting me strike harder.
+
+Oh, how fucking good it feels to punch him in his face. To drive my fist into his cheek and watch his head snap back, or to throw quick, weaker attacks in an attempt to provoke him into aggression, I could exploit.
+
+We fight like equals for a while, but then something disrupts our fight, and I see two humans rushing toward us, not to attack but to escape. They just try to sprint past us.
+
+Morwag moves surprisingly fast for the stats we have at the moment and grabs one of them, making the man lose balance. Morwag then takes his head and twists it, breaking his neck. He does it while staring at me.
+
+Instead of intimidating me, it only makes me take off my jacket and hold on to it, preparing to use it in the next attack. The second human runs past me, but I let him go.
+
+Then we see what they were running to escape from.
+
+Lyraen turns the corner, no longer floating but standing on the cobblestone like one of us lowly humans and demons. Blood covers half of his face and his fist. He stares at us just for a moment.
+
+There’s no hesitation in his movements as he takes a step forward.
+
+Morwag turns from me with an excited smile, taking controlled steps toward the much shorter vyssari. And I join him, as we break into a run.
+
+Two short, faint streams of mana, each as thick as a finger, shoot forth from Lyraen. Morwag strengthens his body, and the attack leaves only a scratch across his neck. I, on the other hand, am forced to duck, and even then, the fast attack slices off my arm, cleanly, just below the shoulder.
+
+Lyraen avoids Morwag’s attack and slams his fist into Morwag’s knee, making it burst open. He tries to slip away, but Morwag moves with another burst of speed and grabs Lyraen’s arm before he can escape, pulling him back. Size means nothing as they trade blows. Each of them is using limited mana for body strengthening with a level of mastery that only an S-rank fighter can display, even though it’s not their usual method.
+
+I almost rush in when I sense another presence. It is incredibly faint, like someone using camouflage. When I turn around, a young woman is standing there. Long, messy brown hair falls across her face. Her entire body is covered in colors that match the ruins around us, dirt pressed into her pale skin, torn white clothes smeared with charcoal.
+
+But her movements are what grabs my attention. They’re so slow and smooth that my mind nearly fails to process them.
+
+I raise my remaining arm to defend myself, but she moves faster than anyone here. Faster than Lyraen, faster than Morwag. She moves like she can use her body with perfect efficiency, paired with a speed that feels impossible with these stats.
+
+Her hand coils around my defense, and a piece of sharp metal she’s holding slices through my throat.
+
+A moment later, I find myself outside, and I let myself shout a stream of curses while I do. The balcony continues to fill with more and more attendees, some complaining out loud, others chatting, but most of them stare at the screens all over the place.
+
+I feel lightheaded as I adjust to my stats rising again and the rush of my passives and skills reactivating, while I sort through the screens to find the one I want.
+
+Morwag and Lyraen are still clashing, with Lyraen seemingly winning, but Morwag holds out incredibly well against someone who could be considered the strongest S rank in Beyond. Both of them are fully aware of the young woman who now circles them in a slow, predatory motion. Blood drips from the sharp piece of metal she holds, and I notice she used part of her missing sleeve to make a handle for it.
+
+When she attacks, both of them stop at once. Lyraen shoots a finger-thick stream of mana at her, which she dodges with almost playful speed, then reaches Morwag only to slip past his fists. Mana glows across the surface of the metal shard, and a motion of her hand speeds up as she drives it into Morwag’s throat multiple times and dances away without bothering to confirm the kill.
+
+With that same bloodied shard shining with mana, she deflects Lyraen’s projectile and bursts forward toward him as well.
+
+For a few more seconds, he avoids her attacks, showing his clearly superior martial arts as he predicts her movements and takes advantage of his smaller stature. But in the end, she’s simply that much faster, to a degree that feels impossible with these bodies.
+
+She stabs the shard through his eye, and Lyraen disappears in the same way Morwag did before him.
+
+I watch her, glued to the screen that follows her, as she moves through the area with such ease. She sneaks, she avoids large groups, she picks off those she catches unaware. And she keeps moving in that way that makes everyone else look far too slow.
+
+Half an hour later, after one of her kills, she stops to take a breather, and from behind a building, Nathaniel appears. He spots her right away and stops where he stands. His clothes are bloodied, his face is smeared as well, and he carries several long wooden stakes that drip with blood. In one hand, he holds a big stone ready to throw, and a few more bulge in his pockets.
+
+Above his head, a faint pale blue construct floats. It looks like a halo, and in the next moment, it becomes clear what that lunatic is trying to do. I know him well enough for that. He is gathering all his available mana inside it, and if he’s planning to attempt what I think he does, he might be even crazier than I first believed.
+
+Nathaniel watches the woman with the messy hair and stays still. His expression is emotionless, almost machine-like, as he studies her and the area around them.
+
+She stands facing him, shifting her weight to another foot and gripping the metal shard tighter.
+
+I notice the balcony quietening, and more people glance toward the screen with the two of them. An excited murmur spreads. Even Morwag, now standing next to me, shows interest.
+
+Many of the people here were hunted down by her, so everyone’s hoping to see her struggle or at least kill a few more skilled people so they can feel better about themselves.
+
+Unaware of all that attention, Nathaniel, still wearing that empty expression, turns around and walks away.
+
+Just like that.
+
+I curse him for ruining my rising excitement, but then I think that maybe he just wants to put some distance between them. Maybe he wants to make preparations as he tends to do.
+
+I switch to another screen that follows him. At first, he walks away calmly, in a way that almost looks cool, but once he judges he is out of sight of the assassin girl, his walk grows faster until it becomes a run as he clearly flees from her.

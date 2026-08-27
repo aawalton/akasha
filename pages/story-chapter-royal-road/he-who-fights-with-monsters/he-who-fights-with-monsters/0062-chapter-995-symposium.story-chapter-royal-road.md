@@ -1,0 +1,225 @@
+---
+id: 877f612c-acb4-5f8a-9acb-f9bd43da593a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 995: Symposium"
+slug: 0062-chapter-995-symposium
+partOf: he-who-fights-with-monsters
+position: 62
+ownLength: 3000
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3193835/chapter-995-symposium"
+royalRoadId: "3193835"
+---
+
+Of the millions of dead in Europe, many had been transformed into feral, vampiric ghouls. While blood parasites and blood oaks waged precision terror attacks around the world, the superhuman, supernatural ghoul horde was unleashed on the military forces working to take back Europe.
+
+The military bases in France and Slovakia were once again in full operation, and in a monitoring room, drone footage was being displayed on a large screen. It showed ghouls moving like a tide in the ruined outskirts of a city all but levelled to the ground. The military units they swarmed towards were far fewer in number, but organised into formations and supported by vehicles and emplaced weaponry.
+
+The ghouls moved with mindless aggression, ignoring the terrain to clamber over anything in their path. Abandoned vehicles, the shattered remnants of walls. Piles of their own dead. The soldiers took the opposite approach, maximising every advantage the terrain could offer. They positioned themselves to establish choke points and kills boxes. Lines of retreat let them fall back from positions in danger of being overrun. They were hunters, carefully bleeding the rampaging beast that was the ghoul horde, letting it exhaust itself.
+
+The soldiers had no shortage of magically enhanced firearms, but the more exotic weapons stole the show. Fire rained down on the ghouls from mortars launching cluster bombs filled with alchemical napalm. Heavy machine guns mounted on vehicles fired explosive rounds that tore apart the surging wall of bodies. Gas grenades caused anything organic their fumes touched to burn like thermite. Coil guns fired electricity that arced from ghoul to ghoul. The imparted energy rocked some back and knocked others over. Some exploded on contact.
+
+The losses for the ghouls were egregious but they never stopped coming, having no morale to lose. With no sign of their numbers waning, they kept launching themselves into destruction. Two people were in the home-cinema sized room, watching on a projector screen.
+
+“It’s like they have a factory churning them out,” said a stern-looking woman with the bearing of a matriarch but the youth of an essence user.
+
+“No, it is not,” Travis Noble said from the cinema-style seat next to her. “I’ve seen a battle with undead spawning pits. This is rough, but it isn’t that.”
+
+“How do you even fight something like that?”
+
+“Miracles.”
+
+“I guess you’d need them.”
+
+“No, I mean it. There were gods involved. The other world doesn’t mess around.”
+
+Miriam Coyle was the head of the Joint Magitech Weapons Research Institute, with Travis Noble as lead researcher. Over the last two years, the newly created organisation had revolutionised the weaponry being used against the vampires and their forces.
+
+“The new lightning guns are proving effective,” Travis said after turning his attention back to the screen.
+
+“We’ll have to look at the reliability reports in the after-action, but I’m hoping to see them in general deployment within the next forty days.”
+
+“The failure rate in controlled testing was within acceptable parameters, but controlled testing is not the field. There are always problems you don’t see coming.”
+
+“Yes, there are,” Miriam agreed emphatically, then glanced at Travis. “You’ve heard there’s a director coming in from the US branch?”
+
+“I’ve heard. We need to negotiate data release deadlines around the symposium.”
+
+“Did you hear who they’re sending?”
+
+Travis turned to meet Miriam’s gaze.
+
+“No,” he said. “But you feeling the need ask is more or less telling me anyway.”
+
+***
+
+“While I am often referred to as a soul healer,” Carlos said, addressing the lecture theatre, “that is a misnomer. My actual field of speciality study is the physical-spiritual dichotomy embodied by almost all living things. The chance to study medicine on Earth has opened up startling new avenues for we healers from Pallimustus. Our more advanced healing magic, in turn, has been a revelation for the healers of Earth. There is an especially fascinating intersection between DNA and the underlying matrix of magic inside all matter, including every person in this room. On a related note, I am still trying to quash use of the term ‘thaumic DNA’ to describe such matrices, as the potential for dangerous misinterpretation is…”
+
+“He is not a good teacher,” Belinda whispered from the back row of seats, high above the stage in the amphitheatre-style room. “If these were students and not academics, he’d have half of them asleep in the first two minutes.”
+
+“Well, they are academics, so it’s fine,” Rufus said. “The subject matter is interesting enough, even if Carlos doesn’t do the best job of presenting it. You want my father coming in to spice it up?”
+
+“The guy who tried to invent fireworks that disperse vaccines, despite knowing nothing about firework or vaccines? No. How did that guy end up being an educator?”
+
+“Nepotism. My family…”
+
+He frowned.
+
+“I’m not going to say it,” he told her.
+
+“Say what?” Sophie asked as she slid into the seat beside Belinda. Her mother, Melody, took the next seat along.
+
+“Melody,” Belinda said. “Did you know the Rufus’ family runs a pool?”
+
+“Like a public swimming pool?” Melody asked.
+
+“My family runs a school!” Rufus hissed, then realised what he’d just said. “Gods damn it, Lindy!”
+
+“Mr Remore!” Carlos called out from the front. “While I’m sure everyone is very impressed at your being named sexiest man alive, that title does not come with the privilege of talking loudly at lectures. Or the theatre, even if the lead actress does ask to take a photograph with you.”
+
+“That was one time,” Belinda called out. “And she did wait until after the show.”
+
+“Thank you for the clarification, Mrs Callahan.”
+
+Sophie elbowed her friend, doing her best not to laugh.
+
+“Let the man give his talk, Lindy.”
+
+“Ms Jain,” Carlos called out. “Since you have arrived, and we’ve hit something of a pause, perhaps you could join me here now, if that is acceptable?”
+
+While Melody got out of her seat and made her way down to the stage, Carlos continued his talk.
+
+“Ms Jain went through an early iteration of the procedure I will be describing today. Any procedure of this type was lethal. Her ordeal helped us gain critical insights into why that was and lead us towards the successful process I will be detailing in this lecture.”
+
+A hand went up.
+
+“If it’s always lethal, why is she still alive? No offence, Ma’am.”
+
+“A question with a simple answer,” Carlos said, “but very complicated follow-up questions. Jason Asano and myself will be speaking on this in the afternoon, so I shall leave that point for now. The focus on this lecture is the practical elements of the process itself. Namely, how to excise lesser vampirism and related conditions without killing the host. The most prominent issue when excising malign elements adhered to the soul is assuring that the physical body survives any changes brought about by reverting the altered spiritual state.”
+
+“This is so boring,” Belinda complained. “He could at least put in a joke or something.”
+
+Melody arrived on stage and Carlos clicked to the next slide. It showed a sequence of images that were vaguely humanoid, ranging from a sophisticated wire frame image to what looked like a traditional Chinese medicine chart.
+
+“The key to success in this procedure is to reinforce the underlying magical matrix, making the body robust enough to survive the transition. This slide displays the record of how Ms Jain’s body did this reflexively when we took certain shortcuts to assure the success of her procedure. We have developed a systematised method to reproduce this effect, but in a regulated and more thorough fashion. There is a critical side effect to this, which I will discuss in the latter part of the lecture.”
+
+He clicked to another slide.
+
+“I will have Ms Jain take you through her experiences from her perspective, followed by a short Q&A. We shall then take a break before resuming with a discussion of where we are now, and what the next pathways of research look like. For now, I will leave it at stating our goal of a more universally applicable process, albeit one for each specific affliction. Some conditions pose greater challenges than others, with lesser vampirism being a perfect example. That condition essentially reinvents the means by which a body interacts with life force, which we have to accommodate for and reverse.”
+
+“Are you saying this process works on lesser vampires?” someone in the crowd asked. “You’ve tested it?”
+
+“Yes, Deputy-Minister Grantley,” Carlos said, spotting the questioner amongst the packed seats. “I didn’t realise that you’d come all the way to Slovakia to be in attendance.”
+
+“I prefer Doctor Grantley.”
+
+“I’m aware, Deputy-Minister, but my understanding is that your doctorate is honorary. I must assume that you secured attendance based on qualifications that are political, rather than academic.”
+
+“I don’t see how that’s relevant.”
+
+“I’m sure the actual doctors around you would be happy to explain.”
+
+“If you’ve been testing this procedure on vampires, does not your failure to share that fact violate SESA? The terms of the Saint-Étienne Summit Accords require all research to be shared, fully and in timely fashion.”
+
+“Deputy-Minister Grantley, you are currently attending a symposium hosted for the specific purpose of sharing. At this very moment, you sit, surrounded by academics, with whom I was, prior to your interruption, in the process of sharing my research with. What further steps would you have me take? Have Mrs Callahan back there inscribe the transcript of this lecture across the face of the moon?”
+
+“There is no cause to mock me, Mister Quilido.”
+
+“The fact that you’re using a nice present someone gave you to pretend that you know what you’re talking about suggests otherwise. If you don’t sit down and be quiet, Deputy-Minister, I will have you removed.”
+
+At the back of the hall, Belinda nudged Rufus happily.
+
+“I was wrong; this is highly entertaining.”
+
+***
+
+In another hall, Neil was giving his own lecture, alongside Earth healer Gladys Erstweller.
+
+“…genetic component to the blood disorder,” Gladys continued. “The interaction between DNA and thaumic DNA trigger an exacerbation in the condition when exposed to higher levels of ambient magic.”
+
+“Absorbing essences and ranking-up to iron completely resolves this issue,” Neil further explained, “but that is not a viable approach in patients too young to absorb essences. Blood magic has a number of negative connotations, due to association with vampires, but had proven a useful method of alleviating symptoms until…”
+
+***
+
+“According to our controlled testing, the gas should be undetectable to the blood parasites,” Clive explained. “By the time they realise they are being affected, it should have disabled their ability to immediately kill the host. The important element is then keeping the host alive through the extermination and extraction of the parasite. We have developed a prospective treatment based on the same compound the parasite uses to go unnoticed as it implants itself. The parasite’s version of the compound functions to mask a much smaller mass than a fully grown specimen, so our current focus is on increasing the…”
+
+Officer Natalie Park of the Australian Secret Intelligence Service was paying half attention at best after realising who was sitting next to her. She’d already been over the reports anyway, most of which was research-based and completely over her head. What she needed was to know when and how they could do something to stop the parasites that remained a threat, two years into the renewed vampire war. Nothing Clive had to say was more arresting than his friend Jason occupying the next seat.
+
+Natalie had been assigned as liaison to Asano and his associates on his return to Earth. That job involved minimal interaction with Asano himself who would vanish into shadows, travel across the planet through portals or just tell her to go away. When she was with him, her main responsibility was to warn her bosses, if and as early as possible, when Asano was about to do something absurd. Which, as it turned out, categorised most of the things he did.
+
+She also hadn’t gotten a lot of face time with Asano’s chief diplomatic agents, Anna Tilden and Danielle Geller. The one person she did spend a lot of time with was a representative from the organisation managing essence users in the other world. Miguel Ladiv was that organisation’s equivalent to Natalie herself; a liaison largely forgotten and overlooked. They found common ground, despite being from literally different worlds, and after Natalie had been moved to other assignments, they kept in touch. Quite a lot of touch.
+
+“You’re nervous,” Jason told her.
+
+She hadn’t seen him in over a year and now she found herself seated next to him in the back row of a lecture hall. No one else seemed to have noticed him. He’d walked in and sat down without getting so much as a second glance. She’d been sitting next to him for fifteen minutes before she realised.
+
+“I imagine you make a lot of people nervous,” she told him.
+
+“Yes,” he said sadly. “It’s the scary cloak, isn’t it?”
+
+“I think it might be that the entire government of Bahrain and its ruling family vanished overnight.”
+
+“There’s no evidence of my involvement in that.”
+
+“That’s part of what makes it scary.”
+
+Asano’s friends had become prominent public figures over the last couple of years. Neil Davone’s sandwich shop travelogue show with Jason’s sister Erika had just started its second season. ‘The Life Inside the Asano Clan’ series had been all anyone talked about online for a solid month, and not all positively. The vampire Haven in the Slovakian astral space had been a massive controversy.
+
+More seriously, Humphrey Geller had escorted a documentary crew through what was left of Europe after years of vampire occupation. The grim reality of it did not stop the huge amount of thirsty content springing up around him, although not as much as for his lover. Sophie Wexler continued to pass through the world’s most poverty-stricken regions like a faith-healing tsunami.
+
+Compared to his friends and allies, Asano himself had remained an elusive and increasingly sinister figure, with even his heroic acts unsettling. Gold-rank monsters brutally savaged, their astounding vitality only serving to prolong the misery leading to their ultimate demise. Armies of ghouls devoured by a blood monster that seemed to multiply endlessly. A vampire lord’s attack stopped before it could begin, it’s life force drained as it was reduced to viscous goop, clinging to an empty skeleton.
+
+A satellite image had trended widely, showing Venice wholly obscured by glowing butterflies. From space, the swarm looked like a blue and orange eye, the size of a city. In the aftermath, Humphrey’s documentary crew moved through, finding the city utterly devoid of occupants.
+
+The disappearance of the entire Bahraini government, along with every non-government member of its ruling family, shocked the world as the Gulf Cooperation Council and United Nations stepped in to restore order. It came off the heels of anti-government protests being suppressed with advanced magical weaponry.
+
+Theories around Asano were already rife, many tying into existing deep state, shadow government and new world order conspiracies. The secrecy around the Saint-Étienne Summit Accords only fed the fire, and the events in Bahrain brought many previously fringe ideas closer to the mainstream. Neither Asano nor his associates had so much as acknowledged the conspiracies, let alone responded.
+
+“How much of what you and your people do is for publicity?” she asked. “There’s no way that eye picture just happened.”
+
+“What we do has nothing to do with publicity,” he said. “How we do it and who we let see? That is more engineered than I’d like, but we have goals we need to meet.”
+
+“And what are those goals? People still don’t realise how much the world is dancing to your tune. How close to the mark those conspiracies are. You have the power to suppress that, at least to some degree. Instead, it’s like you’re driving the world to see you as a threat, even as you turn its resources towards getting ready to fight you. Or someone like you. But I’ve talked with people from your world. The Storm Kingdom wants nothing more than to stay on your good side. The Adventure Society—"
+
+“How is Miguel?”
+
+Natalie didn’t blush, but she knew he could read her embarrassment from her aura.
+
+“Shouldn’t you see more of him than me?” she asked.
+
+“Probably. He’s a good bloke. So’s his dad.”
+
+“Why are you preparing us for a war, Mr Asano? It’s becoming increasingly clear that you’re using the vampires as practise for us. Something to drive advancement. Who do you expect to be waiting for us when that bridge between worlds opens?”
+
+“A lot of people want to ask me that question, Officer Park. Not many have the nuggets to actually do it.”
+
+“Well, I did. So, what’s the answer?”
+
+“More trouble than it’s worth.”
+
+***
+
+When the loading door at the back of the military cargo plane opened, soldiers unbuckled the harnesses and wheel locks on large crates, then wheeled them down the ramp. Travis got out of their way, getting respectful nods as they went past him. Once they were done, a few passengers hitching a ride to the Nitra Joint Military Base made their way out. One of them paused on seeing Travis, before walking over.
+
+“Hello Travis.”
+
+“Damien. Follow me. I’m parked over there.”
+
+They started walking over the busy tarmac, towards where a handful of civilian cars were parked.
+
+“Don’t I have to go through security checks?”
+
+“You did. The moment you entered Asano Clan territory.”
+
+“The base is neutral territory.”
+
+“Territory isn’t an imaginary line here, Damien. It’s about who has the power, and right now, you’re within Jason Asano’s power. You’d feel it, if your perception training had been better.”
+
+“You really did drink the Kool-Aid, didn’t you?”
+
+“Good to see you too. How’s Dad?”
+
+“He’s well.”
+
+“Oh. Shame.”

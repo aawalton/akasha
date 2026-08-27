@@ -1,0 +1,207 @@
+---
+id: 88ba907f-3472-50c1-9e05-8569b57503f9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 835 - This is what I have to deal with"
+slug: 0162-chapter-835-this-is-what-i-have-to-deal-with
+partOf: hell-difficulty-tutorial
+position: 162
+ownLength: 3058
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3591075/chapter-835-this-is-what-i-have-to-deal-with"
+royalRoadId: "3591075"
+---
+
+“I want a five active skills combination token,” I say, then gesture towards the black haired healer, “and for Lily as well.”
+
+“No,” Diligence answers.
+
+“So you acknowledge there is such a thing?”
+
+“I do not.”
+
+“See, Lily? This is what I have to deal with.”
+
+“Nat, is that creepy ant the Ruler of Diligence? Oh, and hello Zant, it’s nice to see you again so soon!”
+
+“I greet you, Lady Lily.”
+
+Diligence then goes on to say, “The rewards you receive will include the rewards for clearing the quest of the 1st floor of Beyond, to simplify things. Is there anything else you would like?”
+
+Lily looks around, observing the area with wide eyes for a few seconds before moving toward the boys to heal each of them.
+
+Meanwhile, I shake my head. “I know this cheap tactic. You’re trying to get me to ask because I might be unaware of the value of what we did, and lower your offer. But we killed that Dhampir guy who was ready to revive a god and probably ruin the entire First Dungeon, killing everyone in the process.”
+
+“There is no way something like that would ever have happened because of him.”
+
+“Morwag is...no, we are heroes, all of us. Just in our small group, and thanks to Lily’s terrifying joy in finding ever creepier ways to kill people, we defeated tens of millions of lurkers. I bet you even reduced our rewards somehow. There should also be millions of items that should be ours.”
+
+“I find the way he talks very annoying,” Diligence says, turning to Ruby.
+
+She just shrugs. “He’s always such a little shit when he’s in a good mood.” She then looks at me. “There weren’t tens of millions of lurkers. Why don’t you have one of your minds comb through the notifications and count them?”
+
+“I tried. Every submind I attempted to assign the task to rejected it.”
+
+Ruby blinks, and I calmly face her.
+
+“Anyway,” she says, “you’ve received all the experience you deserved. If the Skreths you got the rot from still lived, they would’ve gotten a share of the experience as well, which would’ve made the 3rd floor even more fun.”
+
+“I don’t think fun is the correct word in this situation,” Diligence disagrees. “As Greed said, a part of the experience should’ve been allocated to the Skreths, and another part should have even gone to the Dhampir, whose connection to the lurkers you exploited. With them dead, that experience was partially allocated to you, but some of it was reabsorbed by the system. So, you got all you could. As for the items, there is simply no way you would be able to collect all of them. Even now, before we pulled you here, some attendees have been lucky enough to loot some, and a few groups even got to live thanks to the lurkers stalking them suddenly dying.”
+
+“Heroes,” Lily smiles and shoves my side, making Diligence turn to her, but her smile remains, causing him to shake his head.
+
+“Lord Ruler, if I may,” Savant says from the side, “must the rewards we choose be heard by the others?”
+
+The ant turns to him. “They do not.”
+
+“In such a case, I have selected mine. If you open a separate communication channel with me, we can see if it’s possible.”
+
+They do just as Savant asks, and after a short exchange, Diligence answers without even asking Ruby or Envy for their thoughts. “Your request is pushing things, but it is reasonable and still within acceptable limits, so I confirmed it. Now that you-”
+
+“If I may.”
+
+“Yes?”
+
+“I would like to stay until you send everyone back. It’s possible I’ll pick up a useful piece of information or two,” Savant says.
+
+Before he even realizes it, the throne Envy sits on empties. The lumoran stands next to Savant, laughing and putting his arm around his shoulders. “How shrewd. Why don’t you try changing your subclass? I have a spot for a disciple or two.”
+
+“I apologize, but I have no intention of making any changes,” Savant answers. “Also, please, I would prefer if you didn’t touch me.”
+
+Envy just smiles widely and, in an exaggerated gesture, lifts his hands into the air. Turning around, he takes a long step, bumps into Weslin, who gives him a hard look, and then, with a twist, comes to a stop in front of me and Lily.
+
+He is right in front of my face, staring into my eyes. “You have a look that reminds me of the imitation,” he says.
+
+“Do I?” I ask.
+
+Envy nods, his smile widening. “But it’s okay in your case, you are still so very weak. There is talent, and you have the correct mindset, something The Absolute would’ve appreciated more than anything, judging from her records. But…” He pauses. His head tilts as he looks into my eyes and even pokes the veins on the side of my neck. “There is nothing to envy as of yet.”
+
+A huge shadow falls on both of us, and Envy slowly turns around to face Diligence, who stands right behind him. A conversation I am not invited into is exchanged between the two of them, one that should probably be minutes long, yet is shared in a mere fraction of a second.
+
+Lifting his arms into the air again, Envy moves toward the throne, kicks it, and then both he and the throne disappear, leaving only Ruby and the ant behind.
+
+Diligence speaks as if nothing happened. “Attendee Savant proposed a reasonable take, and I agree that it would be reasonable to negotiate with everyone separately. And before you say anything, Attendee Gwyn: I won’t be using this as an opportunity to scam your naive fellow attendees. Though some of them seem scared, I’ll even try to involve their Handlers.”
+
+“Can I have Nathaniel negotiate in my place? I don’t think my handler cares enough to help,” Lily asks.
+
+To that, Diligence agrees and begins talking privately with the others.
+
+At one point, he speaks out loud, sounding almost insulted, that he won’t be giving a piece of his body as a reward to Brich, who immediately starts crying. He is literally crying, as if an attempt at emotional manipulation like that could make the Ruler change his mind. Brich just tries everything he can, saying he will switch subclasses and, getting braver, asking to be Diligence’s test subject. He asks to be turned into an ant and offers to test items for him.
+
+All of these are rejected, and the conversation goes silent again, with even Calvorn seemingly joining in as Brich likely tries to get some rewards for the sword as well. He’s a smart guy. I would do the same.
+
+Once the negotiation ends, Diligence sends him away and turns to Weslin. This conversation is much shorter and, judging by Weslin’s face, the half-demon is very happy with the reward, though he is making that face he uses when he’s trying and failing to hide his emotions.
+
+Savant then gets kicked out finally, ruining his plan to wait for free information.
+
+Morwag is surely the one to get the highest reward, as he stole the most participation points, and by the looks of it, he’s fairly satisfied with the reward as well. Though, given the sweat on his face, I have a suspicion that he’s already chosen his Primary Class upgrade at some point during all of this, and the changes are applying to him even now.
+
+What a lunatic, I think as I wipe sweat off my forehead and push away waves of weakness attacking me, and the feeling of blood burning in my veins.
+
+When the most demon demon to ever demon is about to vanish, he just says to the confused Ruler of Diligence, "I still have not forgotten the battle you robbed me of."
+
+The ant then looks down at Zant as if searching for help, but the tiny vyssari just shrugs, so the Ruler turns to me. "Now for the annoying part."
+
+"Ruby, I feel deeply hurt. Can I require higher rewards as compensation?"
+
+"I don’t think so," she says.
+
+"What do you want?" Diligence asks.
+
+With the conversation mostly prepared in my mind, I dust off my clothes and take a small step forward. "What just happened in the middle of the 1st floor… I will do it again."
+
+Ruby chuckles but quickly stops because of something I can’t perceive. Her eyes are still shining as she watches from behind the table.
+
+"I will take Lily here, Savi, and in a few months, we will gather more of that Necrotic Rot and trap it in someone’s, very likely, left arm. I will even ask the people from Group 4 to throw in some of their own stuff so they can get some easy level-ups. Before you say it won’t work without Morwag, let’s just say I’ll ask Dennis for help. His [Connection] isn’t that different, and hell, with the right amount of time, I might be able to straight up bully that Dhampir. So, why don't we skip the annoying part? Double our rewards. You can also send an addition to Savi, since he already left and would’ve been part of that."
+
+"Diligence," Ruby says, bringing the ant's attention to her, "I don't think he’s joking. And there is no rule you could use to stop him. If you decide to go against the rules, in this case, I will push against you." She smiles. "I think rather than messing with the body again, it’ll be better to just increase his rewards."
+
+Zant gently pets Diligence's chitin leg, and the huge ant lowers his head to gently tap the tiny guy's head with his antenna.
+
+The huge ant starts talking, "I dislike very much the current situation I find myself in. I also find the growing urge to... strike your face, very fascinating. I am not an expert on human faces and the emotions they try to demonstrate, yet, for some reason, the face he currently has and the look in his eyes annoy me very much."
+
+He pauses and snaps his mandibles a few times before continuing in a firm voice. "Doubling your rewards is impossible, as it would constitute rewarding you for something you haven't done and have only planned. A lot could change. Some of you could die, or next time you could fail, unlike you did in this attempt. Yet, I take the possibility of having to interfere with the body again as a threat, and with Greed backing you, I cannot coerce you to give up the idea. So, given no other reasonable choice, I will increase the rewards, and I will require Greed to vow that she kills you and anyone trying to help you in the future, should you still try to enact this."
+
+"No problem from my side," Ruby says way too easily. "I vow."
+
+Diligence seems to be satisfied and nods. "As for the rewards, it won't be anything outrageous. You have already received your experience. So, as with the others before, I have to remind you that we negotiate rewards in place of items that you might have been able to acquire and which you were denied."
+
+"Got it. Five active ski..."
+
+"No."
+
+"I want to unlock mid pristine passives and items."
+
+"No. Low pristine is the limit of the tutorial, there’s only even a small chance of getting a mid pristine item in Beyond."
+
+"I want you to free Zant and give him to me."
+
+"Wha... No."
+
+"You hesitated. I almost got you. Just give..."
+
+"I said no."
+
+"As part of the twins' rewards for not connecting the rot to the Dhampir in the future, I want you to help them with their problem."
+
+"Problem?" Diligence asks. "Let me check the records." He pauses, and a second later, he shakes his head. "I see how it is. In a way, they were quite lucky. Had it not been for their strong connection, something like that would not have been possible. But what you are asking is very nearly impossible and will require much. The best way to solve this would be to let them work this out on their own, but that would require the level of an Absolute’s personal power. Even then, they would never solve it fully, and they would in many ways forever remain a single being."
+
+Ruby joins the conversation from next to him. "There are a few who could help. Out of them, the more reasonable and available ones are people like the Magi, Kindness, or the Elf."
+
+"No other Rulers?" I ask.
+
+"There are some, but what you have requested would require forcing the system to acknowledge a new addition after it was erased. It’s just not that simple. In a way, the system makes things that break its rules more difficult for a Ruler to do, and it comes at a greater cost."
+
+"Isn't Kindness also a Ruler?"
+
+Diligence answers this time, sounding almost amused. "She is a most exceptional case, even among us Rulers. As part of their reward for the future misbehavior they now won’t be getting involved in, I will ask Iant to become their handler and offer guidance."
+
+"Your naming sense aside... thank you," I say, realizing once again that there is no simple solution and that it’s just something we’ll need to deal with later. Well, we will get there. "I also want five million shards for every member of Group 4 and twenty million for the twins."
+
+"Not a chance. Half a million for each group member. And taking into consideration their ability and the fact that they’re capable of using their skill in such a way, ten million to the twins, plus reasonable assistance from Iant, who will have access to my knowledge."
+
+"400 thousand shards for Tess, and some sort of cool, useful eyepatch. 500 thousand for everyone else."
+
+"Deal."
+
+"Good."
+
+"Agreed."
+
+"Good," I repeat, making it seem like I’m still holding out while I stare down the huge pest. "Two low pristine passives, The Chronometric Formula of Planetary System Awakening, and twenty million shards for me."
+
+"Just the formula alone has a value hundreds of times higher than anything you could have done in Beyond. I remind you that the reward only encompasses items, and I still consider it generous. I have taken into consideration that many of the strongest lurkers had already surrounded the place or were near your location, so you would have been able to gain quite a few before anyone else arrived. But do not overestimate things, as the value would be split between all of you. One low pristine passive and five million shards."
+
+"Add two trait strengthening tokens of up to 3rd stage and, please, remove the low arcane Passive Skill Combination Token I have in status. It really annoys me seeing it there."
+
+"Only one trait strengthening token, and up to 2nd stage only. And it is not as simple to remove something from your status as you might think. Taking away power granted by the system is anything but simple. However, I can make a workaround and make it possible for you to give up on it and sell it to the system shop."
+
+"I want to sell it for a million shards."
+
+A chitin leg strikes the floor. "One shard. If you persist, I will put in the effort to modify your rewards. Should you be offered an upper arcane passive or anything similar in the future, I will ensure it is replaced by one thousand low rare passive skill combination tokens. I will make them impossible to sell, such that they occupy your status permanently, each of them in their own line."
+
+My eyes widen, and I look at the Ruler as if I might be seeing him for the first time. Then I slowly nod in acknowledgement. I can respect that.
+
+"Deal," I say out loud.
+
+His attention switches to Lily, who continues to smile happily as he asks in a much calmer tone, "A low pristine passive? I’m taking into consideration the fact that you were not present when the items were available to take, so this is mostly to stop you from doing this again in the future and to prevent the possibility of you adding in something even worse."
+
+Lily looks at me. Seeing me shrug, she says, "I will take that, but please make sure Iant is really helpful to the twins."
+
+"I keep my word," the ant says. "With the deal made, I will take my leave."
+
+And as he says it, he is gone as if he were running away, along with Zant, leaving me, Lily, and Ruby behind. I still stare at where he stood, not believing that blatant favoritism and the way he offered a fair and decent reward to Lily, considering her participation, while I had to fight for mine.
+
+"You know, I got flashbanged by the notifications when they came. I panicked and forgot how to turn them off, so I faceplanted into a building," Lily says, prodding me with the playful accusation.
+
+"Poor building," I say, ignoring a playful punch from her that I have to defend against to preserve my dear life, while acting as if it’s nothing. "What level are you?" I ask.
+
+"I reached 405. I had hoped to get a few more achievements before my third trait, but I guess even this should count. I think I’ve already noticed some interesting options."
+
+"Well, at least Diligence forgot about giving you a lesson or something."
+
+"Oh, he didn’t. The entire time he was talking, he was berating me. Though he was much nicer than my handler. He isn't as bad as you made him out to be, Nat." She smiles at me.
+
+Lily doesn’t get to say more after that before she disappears, leaving me to turn to Ruby, who is looking at me from behind her table.
+
+"I don't like thieves,” she says with a smile, “Oh, and congratulations. You’re the 18th highest level attendee in the past thousand years. You can go finish your boys' trip, but after you’re done, I have a thousand year quest for you, so make some time in your schedule."

@@ -1,0 +1,121 @@
+---
+id: 1c26ebdb-249a-5717-a561-d26885677fc8
+page-type-slug: story-chapter-royal-road
+title: "252. Big Fat Pillars"
+slug: 0252-252-big-fat-pillars
+partOf: god-of-trash
+position: 252
+ownLength: 2118
+unit: words
+publishedAt: 2025-12-24
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2877401/252-big-fat-pillars"
+royalRoadId: "2877401"
+---
+
+It didn’t take Rhys long to find the pillar. The aura it gave off was strong, and as long as he kept walking toward where it felt stronger, he was guaranteed to come across it. It wasn’t even really training, since it was so easy. Whether he used the cursed energy sense, filth sense, or mana sense, it blazed like a beacon in his vision, calling to him.
+
+Daran had vanished again, probably to prevent Rhys from probing him more about how to create filth golems. Rhys already had enough information, to be fair, and he wasn’t that interested in filth golems—at least, not until he met Soma—so he was fine with Daran escaping. Plus, he knew now that Daran was weak to childish pressure tactics, which was deeply valuable information. All he had to do was abandon his dignity and harass Daran like a little sibling, and the guy would ultimately cave to his desires.
+
+He wasn’t going to do it around other people, but he spent a lot of time wandering through the wilds. There was plenty of time to be dignity-free around Daran and no one else.
+
+This pillar wasn’t rooted in the headwaters of a mountain stream, but nonetheless, the land around it was still blackened and caked in filth. Rhys absorbed it as he walked, even though it only made him feel more and more bloated. At last, he stopped dead, a frown on his face.
+
+“I’m full.”
+
+He couldn’t ‘eat’ any more. If he absorbed another grain of trash, his trash star was going to collapse under its own weight. Already, it was brushing the walls of his distended core space, and if it wasn’t for the heat resistance training he’d beaten into those walls, he would’ve been in much greater distress than ‘mild heartburn.’
+
+He pinched his chin, thinking deeply. He needed something to burn off the energy. He’d tried fighting, and it had kind of worked, but he’d decided to stunt on the losers… and anyways, it wasn’t that hard of a fight; even if he’d climbed to his feet and tried, he still wouldn’t have wasted that much energy. He needed something else. Something that took a metric ton of energy. Pillmaking, or pushing the limits of his projection techniques and intent, or a new spell… something like that. But what? What could he do to waste a lot of energy…? Something he’d just learned, maybe?
+
+He looked around him at all the filth, then inside him at all the energy, and nodded. “I’m going to create a filth golem.”
+
+“I knew I should’ve made you promise not to use it,” Daran muttered from nowhere.
+
+Rhys snorted. “As if that would’ve stopped me.”
+
+“And that’s why I didn’t want to teach it to you in the first place.”
+
+“Come on, Daran. I’m the most trustworthy guy you know right now. Why not teach me your secret techniques? You’re a floating voice in the void, and you’re trying to convince me to revive you. If you teach me more and make me happy, aren’t I more likely to revive you?”
+
+“Weren’t you trying to convince me to be a better person?”
+
+“I was trying to convince you not to spend time around philosophers, not to convince you not to share your secrets. Those are totally different and unrelated goals.”
+
+“One of the philosophers’ tenants was the free sharing of information. If you—”
+
+“Oh, wow! Philosophers are such cool guys! We should listen to their opinions. Freely share information, Daran. It’s a great idea.”
+
+Daran just sighed.
+
+“I’m just not going to give it a consciousness. Then it can’t build a funny personality.”
+
+“Yes, because that worked fantastic for me.”
+
+Rhys waved his hand. “If it gets too uppity, I can always absorb it.”
+
+“Oh, because that won’t give it a funny personality.”
+
+“I’m not going to tell it that. That would be insane.”
+
+Daran paused. He looked at Rhys. “Do you know the other name people had for my weapons? Before they were Remnant Weapons.”
+
+“No.”
+
+“The Demon King’s Spawn. They called them my children.”
+
+Rhys froze. He made a face. “Oh, gross. Okay. That actually put me off making it.”
+
+“This is a serious, life-changing—what?”
+
+“What? Children are gross, man. I don’t want kids. They shit and snot all over everything and get everyone sick, and you’re responsible for them, and they suck up all your time and spit up vomit and filth all over everything, and you have to feed them and house them and stuff…”
+
+Daran blinked at him. “I… was trying to impress upon you the gravity of what you were attempting. They don’t begin as literal, human-style infants, no.”
+
+Rhys perked up. “Well, why didn’t you say so? Alright, filth golem back on the menu.”
+
+“What?” Daran asked, totally whiplashed.
+
+“If it’s not a disgusting human infant, then it’s a cute pet! I love animals. Animals are great. They take care of themselves and they eat all their kibble, and when they shit all over your stuff, at least they do it cutely.”
+
+“I… do not understand you. Now more than ever,” Daran said, gazing at Rhys like he was some alien being.
+
+“Eh. It’s a culture thing. Kids suck where I’m from. They’re probably much less horrific here. You guys probably still have the village concept and strong family bonds with multigenerational child raising support. Plus, kids are value-added here, I bet—you know, help out around the farm, assist with cooking, take part in the handicrafts—instead of costing as much as a house just to push out into the world, and let’s not even start talking about school, activities, clothes, food, and dear lord, college—and you’d better pray to whatever you believe in that they don’t get seriously sick. I mean, I imagine it’s still hard, but boy howdy did we ever culture ourselves into some real bullshit when it came to child-rearing. And don’t even get me started on the mess that is mother-blaming culture and public schooling.”
+
+“To hear you describe your world, it was one step short of hell.”
+
+“Yeah, I felt that way a lot.”
+
+“Was there anything good in your world at all?”
+
+Rhys thought for a moment, then snapped his fingers. “Anime.”
+
+Daran shook his head at Rhys.
+
+“That is the right reaction. Well, you gotta remember, I got mistaken for a god of trash when I got yanked over here. My takes might be a bit hot.”
+
+He was partially joking, anyways. There was more good in his world than just anime. There were novels, and live-action shows, and idols, singers, dancers, figurines, manga, comics… and of course, there were good things in the real world too, he was sure. Somewhere out there, there had to be something good. He’d spent all his life facing a computer in a tiny dark room, so how would he know?
+
+He was sure there were people who’d break down screaming to hear him describe the world so negatively, but that was the world he had experienced. Cruel, unfair, dark, and cold, uncaring about him or anyone else. An empty world where the only solace was to be found in the internet, and even then, it was full of scams, trash, and trolls. He lived in a world of plenty, where everyone was free to be as shit as they wanted to one another.
+
+Strangely, in this world, although he’d encountered more than his fair share of trash and trash people, he’d also encountered far more good people than someone as filthy as him had any right to. To name a few, Bast, Lira, Sable, and…
+
+And Mouse.
+
+It stung, but he still thought it: and Mouse. She was a good person. He didn’t know what had happened, that she’d been there on Virgil’s side of things and hadn’t mentioned her involvement to him, but he wasn’t going to lose faith that easily. Something had happened. There was some other actor at play. Something that had forced her hand. He just had to figure out what.
+
+Rhys lifted his hand, calling the filth to him. For now, he targeted the ground and the air around him, lifting off what the pillar had spat out rather than targeting the pillar directly. The filth was deep-set, so even absorbing what was around him took some time. The very dirt itself was partially made up of filth, all the way down for feet beneath him. He dragged it up, bit by bit, upending the earth as he did so. Some small plants and bushes were unearthed entirely as the filth ripped through them, and those he simply absorbed into himself; they were too tainted to leave around, but not filthy enough to put into the filth golem. He could fit a little bit more impurities and trash into the star, but ‘a little’ and ‘a pillar of the densest impurities he’d ever come across’ were totally different.
+
+When he’d finished extracting all the impurities from the ground, the trees, and the air, he melded them into a small ball in front of him. Using the same technique he used in his trash star, he shredded, compressed, and refined the impurities to be beyond dense, denser, even, than the pillar itself. The pillar was the densest impurity concentration he’d come across, yes, but he’d then learned the technique to concentrate his core further because of it, which was why he could now condense them tighter. That alone wasn’t enough to create a golem, or else his trash star would have long since gained some semblance of sentience. There was something else to the process. Something Daran wasn’t telling him.
+
+Fair enough; he’d harassed the man into teaching him the technique. He was lucky the guy hadn’t deliberately told him something to sabotage his understanding—then again, for all he knew, Daran had, but at the same time, he wasn’t the kind of guy who’d follow the recipe to the letter. It made him a shit cook back home until he’d actually given in and followed the recipes for a while, but it made him a perfectly adequate mage here.
+
+He continued to absorb impurities into the ball in his hands while continuously monitoring the ball. It was dense and dark, and if he shaped it into a weapon, it would be the most dangerous… or at least most impure, weapon he’d ever created.
+
+Rhys thought for a second, then shifted his hands, reshaping the filth into a sword. Sure, he wanted a golem, but talking swords were classic trash. And his flexible poison sword was pog as hell, yeah, but he’d forged it at Tier 3. It was already falling behind the meta. The meta was constantly moving, as he himself had said, and if he didn’t constantly update his stuff, he’d fall behind. It wasn’t like he couldn’t use that sword anymore, but, well, why not make a new one? Then he could have a main sword and a backup sword on top of his instant-creation intent sword that he usually used when he wasn’t thinking about one of his better swords.
+
+He paused and sighed. I’m a guy who wants an iconic weapon, but who actually just abandons his gear for the better sword as soon as a better sword shows up. He was more like the character who, at level 1, had their iconic sword, but spent the rest of the game with stronger and more powerful swords that never appeared on the box art, rather than the guy who had his ultimate weapon on the box art and used its base form the whole game while constantly upgrading or building toward it. Sure, the concept of the ‘Trash Intent sword’ could be seen as his ’iconic weapon,’ but if he were going to draw it, he had no idea what the first half of the sword would look like. Too many swords had taken that spot, and in the future, many more swords would take it yet.
+
+Of course, there was always the sun sword, still hidden away in his inventory, but that didn’t count. He wasn’t using it. At this point, he was going to die or become a god before he used it.
+
+I’m just not confident enough in my reforging powers to fix it, he thought with a sigh. And given the poisonous and impure direction his reforging techniques were going, he might never be able to repair it.
+
+The ball of impurities trembled in his hands, threatening to ignite or break apart. He shook his head and turned his attention back to the task at hand. I can worry about the sun sword later. For now: my golem!

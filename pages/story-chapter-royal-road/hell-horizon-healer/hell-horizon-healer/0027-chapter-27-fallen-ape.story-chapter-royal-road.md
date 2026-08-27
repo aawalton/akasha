@@ -1,0 +1,149 @@
+---
+id: 04c92b5c-36cf-5fbc-91d4-5356daecb5ae
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27 - Fallen Ape"
+slug: 0027-chapter-27-fallen-ape
+partOf: hell-horizon-healer
+position: 27
+ownLength: 1526
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3613641/chapter-27-fallen-ape"
+royalRoadId: "3613641"
+---
+
+“Oh my god,” Arthur stepped back, trembling. “We can’t do this.”
+
+Jake frowned and kicked his ass, forcing him to become the frontline they desperately needed. He shrieked, but seeing the ape metres in front of him, he raised his trembling shield.
+
+“Jake,” Edwin’s voice turned harsh. “You need to face the one behind us with Sloane.”
+
+Jake only grunted in response, turning to the ape on the flank.
+
+He didn’t know if he could defeat it with just Sloane. And the fact of the matter was, Lyle being stuck on bed duty because of his damned heroism was biting them in the ass now. He was strong, and with the added benefit of his fire, made him a big part of their strength.
+
+It doesn’t matter, Jake thought, muscles hardening. I just have to rely on myself.
+
+Jake planted himself on the bridge and waited for the ape to make a move. Sloane didn’t get the memo. She fired a blade of air over Jake and it cut a wide mark across the body of the ape with a dull thud. It was like it hadn’t just hit flesh and bone, but metal.
+
+The ape roared, beating its chest like a drum of war. It made an unsettling hollow sound from deep in its chest to out of its mouth.
+
+It got down to all fours and started galloping at Jake and Sloane. The entire bridge trembled and shifted and Jake’s fear of heights peaked.
+
+He didn’t have time to control his breathing as the monster suddenly leaped off the bridge, only to grab hold of the plank underneath, swing, and arrive from the side right for Jake.
+
+Eyes wide, Jake threw his body down onto the floor. The ape flew by, almost grabbing Jake, before hoisting itself on another bridge and returning.
+
+Jake had no idea how they were going to kill the beast. It was too fast, too strong. If it caught either of them and threw them off the bridge… It would be death without a fight.
+
+They had to do something. He had to do something.
+
+He glanced over his shoulder. The other ape that Edwin and the others were fighting was larger than the other. Denser, made of thicker muscle, it didn’t have the same degree of mobility as Jake’s target.
+
+It engaged with them in a melee. Arthur took the brunt of a backhand, the mana layer in front of his shield shattering in an instant. He flew backwards only for Edwin to replace him. The veteran tried to shoot another bolt into his other eye, but it raised its meaty hand in the next second, the bolt piercing through hand. Barely.
+
+The ape roared and tried grabbing Edwin, only for him to keep his distance, swinging his knife in defense.
+
+Glenn was like an artillery, constantly firing arrow after arrow, his eyes intense like he was in the middle of the finals of a competition.
+
+Susan rushed ahead, screaming. She started cleaving madly into the ape. She ducked underneath a savage swing from the ape’s arm, and reached its back, slicing into its calf. It whipped its arm back and caught Susan, sending her flying back, rolling across the bridge.
+
+The air swished, and Jake’s monster had returned. Swinging towards them, it threw a metal plank. It was practically shrouded by the darkness, but thanks to Jake’s perception, heard it before he saw it. He dodged the incoming projectile.
+
+Sloane fired another blade at the ape, catching its leg as it landed. She was breathing heavily now, sweat forming a dripping layer on her forehead. She didn’t have much mana left.
+
+“I’ll try to hit its arm,” Sloane said, huffing. “I have one more blade left in me. We’ll stop it from swinging. Leave the bastard on the bridge with us.”
+
+It was a sound plan. Any other day, Jake would have agreed with her. But his mind kept on replaying the moment he learned how to use the handrails as some sort of alert.
+
+Like a spider and its web.
+
+Jake’s spine straightened. That’s it!
+
+“Don’t,” he said. “Let it swing.”
+
+“Are you mad—”
+
+“Trust me!”
+
+Realising its attack and failing, the ape jumped off the bridge again and started swinging. Jake could hardly keep track of it. It used the darkness to its advantage. Sloane tried looking through the cracks in the bridge, below, above, to the side.
+
+Jake stopped, regulated his breathing, and placed his hand on the handrails. The vibrations were faint. More.
+
+He strained his senses, trying to detect the vibrations further away.
+
+His eyes snapped open. Jake threw Gutter Tooth up and to the side, coiling across a bridge before falling down. The ape struck the line, and the entirety of the chain wrapped around its arms and legs and throat. Like a snake constricting its prey, the thorn-like fangs dug into its flesh.
+
+When the ape put more strength into its body to try and escape, the spikes dug deeper into its flesh, ripping it open. It hung in the air.
+
+It had only one arm free now.
+
+“Jake,” Sloane said. “You’re a damned genius.”
+
+“It’s not over yet.”
+
+The ape, realising that it was caught, roared loud enough to force Jake to cover his ears. With a final thrash, it snapped the bridge over head where Gutter Tooth was hooked into. The entire bridge collapsed.
+
+Most of the ape was still bound by the chain, but it was a lot more free than it was before.
+
+Jake pulled out a machete that was sheathed at his waist. Sloane got into a sword fighting stance.
+
+The ape, furious with bloodshot eyes, rampaged toward them. It swung its fist and Jake barely ducked underneath in time. He replied with a swing of his own, cleaving the rib area, slicing away flesh. It wasn’t enough.
+
+Jake quickly got back.
+
+Sloane fired her last blade. It tore across its face, ruining one of its eyes. In a panic, it pawed at its eye in pain.
+
+Jake was already there, slicing at its leg. It buckled, falling to one knee, then it thrashed with its shoulder, pressing Jake against the edge of the handrail. He resisted the urge to look down. The chain of Gutter Tooth dug into his flesh, ripping his chest.
+
+Groaning in pain, Jake pulled back his head and slammed it into the ape's injured eye. It stumbled back, howling in pain.
+
+Jake healed himself, the wound stitching itself back together instantly. He continued his assault, relentlessly attacking the beast as he cut a lattice into the monster’s body. He cut into its throat, arm, then leg, forcing it onto the ground.
+
+He returned Gutter Tooth to his soul, allowing the ape a moment of freedom. It only lasted a second before Jake coiled the chain around its throat and pulled. The monster beat at his hands, causing a large amount of pain to thunder up his arms.
+
+When that didn’t work, it used its sharp fingernails to rake Jake’s flesh open, taking chunks out of him. He healed himself, once, twice, three times, keeping on pulling with no intentions of letting go.
+
+He ignored it and kept on pulling.
+
+***
+
+Sloane watched the ape tear a ribbon of flesh clean off Jake's forearm.
+
+He didn't let go.
+
+The wound was bad—deep, ugly, the kind that made your stomach drop just looking at it. She'd seen soldiers flinch at less. She'd flinched at less. But Jake just pressed his palm against the torn meat, golden light flickering, sealed what he could, and kept his grip locked on the chain like the arm belonged to someone else entirely.
+
+That was the part that got her.
+
+Not the healing. Not even the grip. It was his eyes.
+
+She'd expected pain there. Rage, maybe. The wild, desperate look of someone running purely on adrenaline and spite. Instead there was nothing. No panic. No flinching. Just that flat, unblinking focus, the same expression he wore checking his stat screen or opening a tin of food. Like the ape currently trying to remove his arm was a minor inconvenience he was working around.
+
+He had a goal. Everything else didn't matter
+
+She'd fought beside people who were brave. Edwin was brave. Lyle was brave in the stupid, open-hearted way that made you want to protect him. But this wasn't bravery. Bravery implied fear that you pushed through.
+
+The ape wrenched sideways. Jake moved with it, adjusted his angle, and held on.
+
+Sloane realised her sword arm had dropped without her noticing.
+
+She couldn’t look away.
+
+***
+
+Jake pulled tighter until there wasn’t a breath left in the ape lungs.
+
+(Lvl 15) Dreadknuck defeatedRewards: 1 Level.
+
+He let the line go slack. The beast dropped onto the bridge with a sound like a sack of wet concrete.
+
+Level 7. He assigned the points into Strength without looking and turned toward the other end of the bridge.
+
+The second one had Edwin pinned against the railing.
+
+Edwin's knife was gone.
+
+Jake’s heart dropped. The bridge was held up only by a strand of wire.
+
+It was about to fall.

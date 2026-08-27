@@ -1,0 +1,137 @@
+---
+id: d8134db0-0250-5c9c-be8b-ebdda02c8f88
+page-type-slug: story-chapter-royal-road
+title: "Chapter 809 - Vlad"
+slug: 0135-chapter-809-vlad
+partOf: hell-difficulty-tutorial
+position: 135
+ownLength: 2262
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3424582/chapter-809-vlad"
+royalRoadId: "3424582"
+---
+
+The armor around me expands further, filling more of the room as the mora just stands there. His arm swings through the air with after-images trailing behind. Each swing destroys one of my projectiles, and the final strike meets the [Empyrean Lance] I shoot his way.
+
+As my lance meets that weapon with its blade of broken bone, the weapon doesn’t explode. Instead, the mora is pushed back with the lance, grinding against the bone, sparks of white and golden light bursting through the area, in time with the constant pulses of the field the [Empyrean Lance] likes to leave behind, disrupting mana to the point of collapse.
+
+In the end, the mora swings the blade, deflecting the lance to the side, causing the weakened bolt to pierce into the wall. He turns that movement into another swing and slashes through the arm of the armor surrounding me.
+
+I search for any skill or other effect from the sword, but find it to be nothing more than bone. It is extremely durable and possesses a sharpened, if broken edge, yet it has no other effects.
+
+The doors I’ve been trying to hold closed slide open ever so slightly for a moment, and my mana reaches through the opening. Outside, I place multiple tricolored orbs before two more arms grow from my armor and force the door shut.
+
+I feel them shake under the explosions.
+
+[You have defeated Bloodmancer - lvl 353]
+
+[You have defeated Flesh Berserker - lvl 349]
+
+[You have defeated Lightning Guardian - lvl 346]
+
+The mora is already standing beside me, slamming the sword into part of the armor that surrounds me before pulling it in front of him to block a kinetic blast. He lets the force throw him back and follows the momentum to spin in the air. He drops to all fours and charges at me like a beast.
+
+As with all mora, his skin is red with gray symbols tracing his body, featuring slightly pointed, short ears and two short fangs that show as he wildly smiles at me. His limbs are long and slim, but they don’t really feel weak, rather, they’re incredibly nimble. An after-image follows him as he dodges under my barrage, making me take notice of the fact that he’s been getting used to my rate of fire, as well as my kinetic blasts.
+
+Instead, I let thermal energy flood out from me and step out of the armor, leaving it behind to keep the door shut. The flames surround me like a wave crashing against me and then pouring outward. I raise the temperature until the floor begins to melt and the air in the room becomes so hot that all the trees and other plants catch fire.
+
+The pressure of a defensive array crashes against me. This one seems like it’s been designed to disrupt mana and cut the intruder off from its use. It continues to try to break through my natural barrier and has a powerful push to it.
+
+Still, it fails to do so. My blood, my upgrades, my other traits, and my Mana Cycling all keep my power tethered to me as my flames blast at the mora in a wide area attack, he has no chance of avoiding. Before they devour him, I notice him smiling as he just stands there. Those flames wash over him, just blinding enough to hide him from my sight.
+
+Then they are pushed to the side, revealing the mora still standing there. He is burned but otherwise untouched. Instead of his slim figure from before, he stands before me now full of bulging muscles. Still twice as tall as me and now probably twice as wide as he was before. That bone greatsword now looks like a toy in his hand as he swings it at me in a horizontal motion.
+
+The next thing I feel is the strong pull of a vacuum as the outer space pulls all of the air from this side of the orbital base.
+
+Finding myself floating in that black void, mana flickers around me and covers my skin in an almost skin-tight suit of armor that clings to me like a barrier. It looks almost too thin, but from the effort I put into it, I know how powerful it is. It’s one of the arrays that I’ve always got a part of me working on and focused on keeping it in the back of my mind. It is one of the variations of the armor I’ve come to call Regalia.
+
+My eyes are pulled back toward the orbital base, which looks like a sphere made of silvery metal with no windows or openings at all. Now, in one part of it, there is a gaping horizontally oriented hole. In contrast to the silver and white colors, the bloodied mora in his white fur robe stands there, smiling animalistically.
+
+"From one Absolute candidate to another, I challenge you to a duel to the death. I am Vlad Ar-Thal'vahr of the House Kezdhuul. Let the slaughter of a worthy opponent be our only reward, honored by the certainty that only one of us shall leave this void alive."
+
+His voice carries through the vacuum, even as no other sound could possibly carry in this void lacking air.
+
+As I speak, I find that I can hear my own voice as well. "I accept."
+
+Now the extremely muscular mora laughs, though I can't hear it anymore. He shakes his hand, and the bone sword he’s holding splits into two, and he grabs one in each of his hands. Both blades are quickly covered in symbols that are unlike any inscriptions I have ever seen, to the point I am sure they are not inscriptions at all.
+
+Green and blue after images surround the weapons, and the mora, with a strong leap, pushes toward me, damaging the orbital base behind him.
+
+Behind me, another orbital base appears, nearly the exact replica of the smooth silver sphere, just bigger and made from a metal that seems to have rusted with the years. This base has many visible weapons all over it. There are devices that seem like tools for channeling mana, shield generators, and other such things.
+
+Maybe I should think of it as cheating. I know the mora has been sending a signal toward it and calling it for help. I detected it early on, and I’d kept an eye out especially for that. Now I have my preparations against it, and I cannot help but wonder how different our perception of honor truly is. Vlad doesn’t even for a speck of a moment seem to think it might be the least bit cowardly.
+
+With my thoughts accelerated, I watch the mora flying through the air toward me. The way his eyes move, his thoughts must be similarly accelerated, though likely not to the same extent as me. It is something I’ve been seeing in more and more people. Their brains process information like supercomputers, while physical laws continue their attempts to stop the body. At least, what remains of them.
+
+In that slowed-down world, my hand moves to lift up over my head with my palm open, revealing a cut I made there. As I force my body to move so quickly, damage forms on it even as I deal with the kinetic energy and lessen it to a great extent.
+
+Lioren would be laughing at me.
+
+My blood seeps out from that wound, moving faster, expanding, elongating, and flowing. Red Empyrean Ichor, my blood with tiny sparks of white and gold.
+
+I still don’t like the name. It’s not Empyrean. It’s mine. But for now, I will allow it.
+
+[Manifestation - lvl 45 > Manifestation - lvl 46]
+
+[Manifestation - lvl 46 > Manifestation - lvl 47]
+
+[Weave - lvl 9 > Weave - lvl 10]
+
+[Weave - lvl 10 > Weave - lvl 11]
+
+[Empyrean Lance - lvl 49 > Empyrean Lance - lvl 50]
+
+[Empyrean Lance - lvl 50 > Empyrean Lance - lvl 51]
+
+[Empyrean Lance - lvl 51 > Empyrean Lance - lvl 52]
+
+The lance made of blood gets surrounded in another lance with a core of glowing golden and white as I weave them together. The blood feeds the lance, the lance feeds the blood, each strengthening the other as the weapon grows in size and expands, making the gold and white light fight against the blood, fighting to form it into a core until they settle and pulse together.
+
+I release it with such power that a blast of kinetic energy throws Vlad away before he can reach me, and the lance shoots at the base that just appeared. Out of that base, weapons shoot at my projectile, lasers made of pure white light, mana streams, a generator attempting to absorb kinetic energy, and, in the end, barriers stacking in the way.
+
+The lance pierces through everything and through the base as well, only to exit on the other side.
+
+It feels weird, since I do it while floating in weightless outer space, but I am too used to it, so I breathe out and [Focus] further. Then, I swing my arm and pull it towards me.
+
+And the lance returns.
+
+[Empyrean Lance - lvl 52 > Empyrean Lance - lvl 53]
+
+[Empyrean Lance - lvl 53 > Empyrean Lance - lvl 54]
+
+It reaches through space to float over my hand, and I feed it more of my blood and more of my mana. Then I launch it again, targeting the spots with heightened mana that I can now sense through the base's broken defenses. Other projectiles from me follow as well, targeting these holes. Javelins filled with thermal energy, tricolored orbs, and more.
+
+Many of them explode as the base continues to launch its rain of projectiles and lasers at anything that comes too close, but some still pass through, causing more explosions. Some of these attacks reach me, hitting the armor surrounding me and making the surface ripple, but nothing else.
+
+Vlad reaches me again, and I spin and fly through the void, forcing him to follow as he continues to launch himself at me like he’s jumping from invisible platforms, and we begin to clash.
+
+Another part of my mind splits in the meantime as I manifest my vessel behind my back. This time, it isn't even a full figure, just the upper half, and it grows until it’s twice the size of my torso. It swiftly turns black as I compress some of my mana and begin to transform more thermal energy into mana, feeding it. The more I give it, the more it takes. But it doesn't just take from me, it takes all the mana from the area as well.
+
+It strips mana from the projectiles, from the broken mana batteries on the station, and from pieces of the barriers around them.
+
+The lance shoots ahead again, this time piercing through the shiny base. The bombardment I’m under intensifies, but it’s mostly mana-based and breaks apart before it reaches me. Even the strongest attacks do nothing as my vessel covers me and absorbs them. Any attacks based on primordial energy, I just block straight on.
+
+I pull some of the mana from the vessel, concentrating and narrowing it, and swing in a horizontal slashing motion. A stream of concentrated mana, a beam no thicker than my finger, extends for a mile. Oscillating and concentrated, it cuts into both of the bases through the places I see the most weakness.
+
+There is still an utter silence even as I watch the bases explode from the inside and kill notifications ring in my mind.
+
+Sometimes I wonder how much of the tutorial has been made so the attendees can experience their powers. So they can get angry, scared, and sad. To lash out and attack. It is made so they can break things in an environment that allows for it without any real consequences, allowing them to see. They learn to control themselves and learn to hold these powers and emotions inside as they return to the outside.
+
+The mora reaches me again, and both mana and kinetic energy boost my body just as the lance flies back to me. That lance I grab and hold, forcing it to change shape into a two handed sword, even as it sears and damages my hands to grip it.
+
+He swings his bone weapons, and I swing mine.
+
+And my sword breaks. The blood splashes, and all that mana explodes into the area.
+
+Vlad, with eyes wide open and a smile, steps forward, shifts his still nimble body, and swings both of the swords again to finish me.
+
+I face him with a cold gaze as I gather what remains of my blood and the [Empyrean Lance] floating around us, shooting it ahead like a projectile.
+
+The mora staggers, and his attack weakens even further as my vessel moves, pressing its hands onto his forearms and holding them. He makes an effort to move again, but the projectile that’s still embedded in his chest moves under my will, piercing deeper and scrambling his body. An arch of light shoots out and pierces through his head.
+
+[You have defeated Endo Knight - lvl 429]
+
+[Lvl 410 > Lvl 411]
+
+I let the momentum throw me away from him, spinning around to face the bases. My senses scan the area and, with my vessel following behind me, I boost myself forward to continue my attack.

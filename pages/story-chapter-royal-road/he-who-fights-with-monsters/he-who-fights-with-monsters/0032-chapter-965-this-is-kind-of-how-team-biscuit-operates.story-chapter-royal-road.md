@@ -1,0 +1,257 @@
+---
+id: 35555091-815c-5e94-800f-f1c670470fb1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 965: This Is Kind of How Team Biscuit Operates"
+slug: 0032-chapter-965-this-is-kind-of-how-team-biscuit-operates
+partOf: he-who-fights-with-monsters
+position: 32
+ownLength: 3411
+unit: words
+ownProgress: 3411
+publishedAt: 2025-02-19
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2077434/chapter-965-this-is-kind-of-how-team-biscuit-operates"
+royalRoadId: "2077434"
+markedReadAt: "2026-06-29T19:04:53.783Z"
+---
+
+The massive torrent of transcendent light continued to gush from the giant portal, inundating the rainbow glow of the manifestation. The adventurers surrounding the phenomenon looked on as monsters swarmed out, thick as insects, despite the smallest being the size of a bread van. Most were silver rank, with one in a hundred being gold.
+
+Even the smaller, silver-rank monsters were hulking things. Each had a body shaped like a spider but the hairy, muscled flesh of a gorilla. Massive insect wings buzzed in a blur, carrying them ponderously through the air as eight thick, hairy limbs dangling beneath them.
+
+The gold-rank monsters stood thirty metres tall. Like warped, oversized messengers, they had three sets of wings, six arms and three faces spaced around a single head. They were naked but sexless, with the smooth features of an androgynous ken doll.
+
+“That’s a relief,” Jason said as he rose from Danielle’s shadow as if riding up an elevator. “It would make some confronting news footage if the eight-storey monsters were meat-and-two-veg to the wind.”
+
+Hundreds of monsters had emerged by that point, with no sign of stopping. Many of the adventurers were already moving into the fray, while others held back at Danielle’s direction. She ignored Jason for the moment as she coordinated the group through a combination of voice chat, text chat, maps and overlays. The System interacted with various abilities, especially Jason’s, and was able to share them across the group.
+
+“I’m going to start by probing them for capabilities,” she told him. “With this many, we’re not going to contain them here. Rejoin your team guarding the barrage until we know how hard they’re going to press that way. I’ll likely have you moving on outliers later.”
+
+“Catching the loose ones and dosing them with afflictions so they kick it before reaching anywhere with people?”
+
+“Precisely. For now, try and build up a butterfly cloud on any who come your team’s way. Along with Rufus’ abilities, it’s probably our best shot at clearing numbers this large. Perhaps Humphrey, depending on how the dice fall.”
+
+“I’m on it.”
+
+“Oh, and Jason?”
+
+“Yeah?”
+
+“Did you just stop this thing from blasting a hole in the side of the universe?”
+
+“It would have been a transformation zone, probably. It’ll still be a few years before the astral bridge stabilises the dimensional membrane enough to stop something like this without intervention.”
+
+“Is that a yes?”
+
+“More of a dimensional ulcer than a big old hole, but kind of.”
+
+“Good job.”
+
+***
+
+Marie Finnegan sensed a presence outside her chalet, moved to the door and opened it. A chill wind blew in over the snow-covered ground.
+
+“I thought needing to be invited in was a fiction,” she said.
+
+“Most things are, when you really look at them,” Elizabeth said. “Civilisation; morals; money. Politeness. Yet they all have their place. May I come in?”
+
+Marie looked her up and down. The vampire wore a long red coat with fluffy white trim.
+
+“You look like Mrs Claus.”
+
+“Nicholas wasn’t that lucky.”
+
+Marie smirked and gestured an invitation. Elizabeth entered and Marie closed the door behind her. She took Elizabeth’s coat and hung it on a rack.
+
+“The cold affects you?” Marie asked.
+
+“It’s not dangerous, but we consume life force faster. Something we can ill-afford with the Asano Clan aggressively attacking our blood farms. I don’t suppose you’ve dealt with that issue?”
+
+“We’ll see. The communications room is up the stairs and to the left.”
+
+They went upstairs to where four monitors were displaying various feeds from the drones in Pakistan.
+
+“The first plan didn’t work, then,” Elizabeth said.
+
+“We’ve successfully generated multiple transformation zones from silver-rank manifestations. It should have been even more effective with a gold-rank one, but—”
+
+“Asano did something?”
+
+“Yes.”
+
+“What?”
+
+“I don’t know. Simon will have to analyse the data, but I’m hiding him and the entire project, even from my own branch. They’re twitchy enough about working with vampires.”
+
+“They aren’t wondering where the reality cores are coming from?”
+
+“They don’t know about the reality cores. I don’t trust them not to cave under pressure, and after today, the other factions will know that someone is manipulating the grid. They’re going to throw a wet fit over that. We have to be more careful than ever.”
+
+“We will need to be bold, soon enough.”
+
+“I will be putting that off as long as possible, but I suspect you’re right.”
+
+Marie grabbed a laptop she could use to control the feeds and they both sat in armchairs to watch.
+
+“That is a great many monsters,” Elizabeth observed. “Is this a monster wave? The kind that took place before I reawakened?”
+
+“It seems so,” Marie said. “This one is accelerated, and more powerful, though. There was only one gold-rank monster breach, back in the day, and even that was nothing like this. How Asano turned the transformation zone into this, I have no idea. That column of light looks like—”
+
+“The wrath of god.”
+
+“Yes. I would have preferred more time for testing, but events in Australia forced my hand. Did you prod the Australian Prime Minister into acting?”
+
+“No, he came by his stupidity honestly. I also would have liked more time, to get the blood oaks more controllable.”
+
+“Perhaps this will be enough,” Marie suggested. “If we can force a loss out of Asano here, and we can demonstrate enough power, the factions might be convinced to ally against him.”
+
+“Still the optimist, Marie? I gave up on that plan the moment he reached out from another universe to annihilate my collected rivals. His power is not to be doubted. And neither, it seems, is that of his companions.”
+
+***
+
+Standing on the dam next to a circle of powdered bone, Humphrey rolled three twelve-sided dice into the circle.
+
+“I always liked D12s, bro,” Taika said as he looked on. “Feels chunkier than a D20, but still kind of round. Big thumbs down on D8s and D10s.”
+
+“Do you have any idea what he’s talking about?” Sophie asked Farrah, who had returned to the team.
+
+“It’s a game thing, I think.”
+
+“It is,” Rufus confirmed. “Also, there’s just something iconic about a fist full of D6s.”
+
+“I hear that, bro.”
+
+“We should leave,” Neil said. “I think there’s something about this planet that does things to people. This whole journey may have been a trap.”
+
+“Wait until you try jelly beans,” Rufus said. “It makes it all worth it. If you get the right jelly beans.”
+
+Humphrey ignored them, watching his summoner’s dice as they stopped rolling. From one, an illusion of a brown blob rose from the face-up side.
+
+“Mud,” Humphrey said. “I would have preferred air or water, but it’s not bad for a river environment.”
+
+Another die projected an image, this one of a frog.
+
+“Mud frog,” Humphrey said. “I can work with that.”
+
+The last die, instead of projecting an image, rolled itself again.
+
+“Bizarre,” Humphrey said. “Lucky.”
+
+“Bizarre?” Rufus asked.
+
+“It’ll roll itself twice and take both results,” Humphrey explained.
+
+The die stopped and an image of a frog appeared, before expanding to be much larger. The illusion lingered as the dice rolled again, this time producing an image of disembodied arms, bound together like a bouquet of flowers.
+
+“Giant and extra limbs,” Humphrey said. “We might want to step back.”
+
+He held out his hand and the dice flew into them as he took his own advice and backed off. The others did the same as mud started seeping into the bone circle from the middle, as if bubbling up through a crack in the concrete. It soon filled the circle and expanded beyond it, spreading rapidly. The moment it stopped, something rose up from the mud, pulling itself out as if it were a deep pool, accompanied by a wet sucking noise.
+
+It was a toad the size of a small cottage, but made of thick, clayish mud. Parts of a skeleton jutted from body, but rather than frog bones, they looked like those of a comically overweight dragon, curved and bulbous. As they watched, blue and gold armour shimmered into existence around the toad’s body, the armour’s ornate gleam incongruous on the disgusting creature. It opened its mouth impossibly wide to let out a hideous, rumbling belch. As it did, no fewer than nine tongues shout out, each dozens of metres long. They flailed as if caught on the wind of the extended belch before snapping back into the creature’s mouth.
+
+“Bro, that’s pretty gross.”
+
+The toad leapt off the dam and into the river, displacing massive amounts of water. A second toad appeared from the mud and did the same, others following at a much greater pace.
+
+“How many of these will there be?” Taika asked.
+
+“Not sure,” Humphrey told him. “The dice affect my summoning, but the more powerful the result, the fewer the summons. Without the dice, I get a hundred dragon bone soldiers. The size of these will soak up some power, but the frogs don’t look to have particularly potent abilities. I’d guess we’ll see somewhere between forty and sixty.”
+
+“I’ll take those odds,” Belinda said. “I have a good feeling about those frogs. I’ll bet a box of Pastry Stash biscuits that there’ll be thirty.”
+
+“Oh, I love that bakery,” Clive said. “I have a tray of Jason’s sandwiches in my storage space. I’ll bet them on fifty frogs.”
+
+“I have sandwiches too,” Neil said, “but I’m keeping them. No bet.”
+
+“This is our first proper battle on this planet,” Humphrey said. “Could we please act with decorum, just this once?”
+
+Wind washed over then as Sophie appeared in a blur of motion.
+
+“Forty frogs,” she said.
+
+“Really?” Humphrey complained.
+
+“What’s the ante?” Belinda asked.
+
+“Jam and cream donuts,” Sophie replied.
+
+“They were meant for us to…” Humphrey began before stopping himself and letting out a sigh. The admonishing glare he levelled at his team was undercut by the loud slurping as one frog after another pulled itself out of the mud pool.
+
+***
+
+The silver-rank flying gorilla spiders were not as ungainly as they appeared, able to move in sudden bursts of speed. If there were anything other than elite gold-rank adventurers to fight, they might well have posed an individual danger. As it was, the true threat they posed was numerical, either in swarming adventurers until they exhausted their mana or escaping to reach population centres.
+
+By the time the monster count had reached two thousand, Danielle had split the teams up, reconfiguring the group to make the most effective response. The area specialists were concentrating their attacks around the pillar of light still spewing out monsters as it burned off the magic of the manifestation. The pillar itself was only visible as a glow within the churning storm called up by Zara. The gold-rank force of the storm battered and yanked at the monsters, trying to pull them apart like a confectioner making taffy. Jets of water and blades of wind sliced apart silver-rank flesh like industrial tools.
+
+Into the storm, other area attacker were firing off abilities with little care for where they landed. Hannah Adeah shot arrows in blindly, their explosions churning the wind and water of the storm even more. It once again served to remind Rick Geller of the dangers in marrying the most volatile and aggressive member of his team.
+
+Above and below the storm, forests of giant staves, the size of architectural columns, had been conjured by Emir. They shot up and down like the hammers inside a piano, slamming into one another and crushing monsters between them. So dense were the gorilla spiders that, even used blindly, the staves rarely missed.
+
+The creatures were tough, even for silver-rankers. Their seemingly fragile wings holding up surprisingly well against the storm, although many were still ripped off, sending monsters plunging into the river below. Others flew out of the storm, surviving by their numbers being dense enough that their fellows became shields.
+
+Outside of Zara’s cyclone was the second line of battle, where Danielle had stationed most of the other adventurers. Those able to sustain attacks worked on cleaning up the silver-rank monsters who, even counting summons and familiars, still wildly outnumbered the adventurers.
+
+Giant mud toads were gathered in the river below, half submerged in water whipped to a frenzy by the artificial storm. They were snatching monsters out of the air with their tongue clusters that were something like nine-tailed whips made of tentacles. They yanked the gorilla-spiders out of the air and swallowed them whole. The monsters were quickly digested, reduced to rainbow smoke that sprayed out of orifices covering the mud toads like warts.
+
+The summoner of the toads swept through the air on dragon wings, enacting staggering violence with a huge flaming sword and fiery breath. One attack would carve off half a monster’s legs off and a third of its body. The next would make one explode, releasing a wave of force that hammered the monsters behind it. bodies were shattered and limbs smashed to paste. His fire breath burned away wings, dropping monsters into the waiting mouths of the toad swarms.
+
+“Are you sure you didn’t just stop summoning those toads when it got to forty?” Clive asked through voice chat.
+
+“Yes, he’s sure,” Sophie said.
+
+This was Humphrey in his element, the quintessential adventurer. Fighting monsters, protecting people, pretending he had a normal team. His powers gave him more impact than most, and a combination of carefully selected equipment and the support of his team allowed him to keep up the pressure when others would flag. Aura buffs, mana-regenerating items and the occasional swig of very expensive potion meant his onslaught never stopped.
+
+Humphrey was far from alone in his endeavour, with no shortage of monsters to go around. Rufus and Gabriel fought together for the first time as equals, two master swordsmen using the well-refined techniques of a family who, as had been occasionally mentioned, ran a school. Both had been trained by arguably the greatest swordsman alive, and both had diverged from those teachings, compromising pure swordsmanship with more magical abilities.
+
+Like Jason, both Gabriel and Rufus mixed afflictions onto their attacks. Gabriel wielded fire, while Rufus’ sun and moon afflictions were more exotic. Unlike Jason, they both had plenty of power behind the initial attacks as well. They may not have matched Humphrey’s punch, but they still carved through silver-rank monsters, quickly racking up kill tallies. Gabriel’s attacks left many monsters cripples, and the flames he left behind finished the job. His victims fell from the sky, plucked from the air by toads or splashing into the water. That was not enough to extinguish the fires, which set the water to boiling.
+
+“You’re falling behind, son,” Gabriel’s voice boomed as he flew past Rufus, trailing fire.
+
+Rufus was the textbook Vitesse adventurer, with an eclectic mix of powers. In the hands of a lesser adventurer, he would have been the jack of all trades that Rimaros adventurers like to mock. But with his extensive training and raw talent, Rufus turned his versatile power set into a series of force multipliers.
+
+Rufus’ afflictions were less effective than his father’s, at least until he turned the sky dark. The sun was eclipsed, turning day into night, and every affliction Rufus had left behind exploded violently. Almost every active silver-rank monster from the current wave died on the spot, more than two hundred at once. Then, a massive beam of transcendent light shot from the sky.
+
+Realm of the Infinite Eclipse was one of the most powerful attacks available to any essence. Despite that, it was extremely rare, not for how hard it was to unlock, but for how hard it was to use. It required tens of enemies for even the most basic version, and hundreds to reach full effectiveness. It also required more time than most battles took to set up. Finally, it required not just a large horde of enemies, but also powerful singular ones to be worth targeting.
+
+It was a spell of war, almost unusable at low ranks, making it famously hard to rank up. If not for the Builder Cult war, the grand monster surge and being able to hunt the outer reaches of Jason’s astral spaces, Rufus might well have been languishing at silver-rank, or even bronze.
+
+The reward for decades of dedication and training was a power that dwarfed almost anything else an essence user could produce. Even Farrah and her limit breaking powers could not equal the single moment of all-consuming annihilation that Rufus could produce, given the right circumstances and enough time.
+
+The eclipse beam of transcendent light walked across the battlefield at Rufus’ direction. It settled on one gold-rank monster, then a second and a third before the power was finally expended. Not a scrap of the monsters remained, and for a strange moment, everything fell still and silent. Zara’s storm had faded, and even the animalistic spider-gorillas stopped, staring in shock.
+
+Even amongst the experienced adventurers present, none had seen power on that level from anyone below diamond rank. Many of them cast their minds back to the Builder War, and Dawn wiping out a city with one spell. It wasn’t a match for that event, but that was what it felt like, coming from a gold-ranker. The ambient mana sizzled against supernatural senses, as if Rufus had scorched it with the raw power of his display.
+
+Then the moment passed, and conflict resumed. Zara recast her storm and Danielle directed their forces to face the hundreds of monsters still streaming out of Jason’s light column. For the many gold-rank monsters that remained, Danielle followed Rufus’ example. No one else could match that power alone, but the adventurers with the heaviest burst damage could recreate it in the aggregate with focus fire. Some even managed solo kills, with Farrah taking the speed record after Rufus. By overcharging her abilities and dumping her entire mana pool in short order, she could turn two gold-rank monsters into glowing piles of slag before needing to stop and rest. What was left of the monsters fell into the river, letting off ugly brown smoke as they cooled.
+
+While letting the stacked group buffs replenish her mana, Farrah didn’t waste her downtime. Resting up in Onslow’s shell, she made use of tools borrowed from Clive to examining the ongoing manifestation. The grid was somehow sustaining the manifestation, allowing it to keep producing monsters. If that wasn’t cut off, the manifestation would keep going until the adventurers were too exhausted to fight or the dimensional membrane ripped, triggering a transformation zone or worse.
+
+Most of Team Biscuit were in the main fight now, except for Jason chasing down monsters that slipped the cordon, and Sophie, back at the dam. She and Prince Valdis were tasked with protecting the barrage, using their absurd speed to cover its two kilometre length. For any monster that came that way, Sophie set it up and Valdis cut it down.
+
+Danielle had assigned herself to the gold-rank killing group. At silver, her kill-speed had been below average, but ranking up had changed that drastically. She could, if she pushed it, do a passable imitation of Farrah’s approach, including the hefty recovery time. She arrived in Onslow’s shell to rest and take stock of the overall battle.
+
+“How is it going?” she asked Farrah. “Got anything?”
+
+“I have,” Farrah said. “I wasn’t optimistic about a quick solution—”
+
+“That’s all anyone ever wants on this team,” Clive called out as he blasted beams and bolts from his rod and staff weapons.
+
+“Not right now, please Clive,” Danielle said.
+
+“No one ever says that to Jason,” Clive complained.
+
+“That’s because he’s not going to listen,” Farrah said.
+
+“Sure,” Clive said, “let’s only be nice to Clive when we need him to practically invent a new branch of magic in the next twenty-seven minutes or an entire civilisation gets wiped out.”
+
+“Yeah, I don’t think he listens either,” Farrah loudly confided to Danielle.
+
+“You were saying you had something?” Danielle asked pointedly.
+
+“Yes, sorry. This is kind of how Team Biscuit operates.”
+
+“I’ve noticed.”
+
+“Anyway, I’ve been looking at what’s happening to the grid, and I recognise some of the patterns here. I think I know who developed the magic that what we’re seeing here was based on.”
+
+“Who?” Danielle asked.
+
+“Me.”

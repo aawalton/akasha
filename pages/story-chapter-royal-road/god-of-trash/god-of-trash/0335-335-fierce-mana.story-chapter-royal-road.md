@@ -1,0 +1,79 @@
+---
+id: 199aef89-44e2-51bb-8c3c-84346709d68c
+page-type-slug: story-chapter-royal-road
+title: "335. Fierce Mana"
+slug: 0335-335-fierce-mana
+partOf: god-of-trash
+position: 335
+ownLength: 2097
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3659456/335-fierce-mana"
+royalRoadId: "3659456"
+---
+
+Rhys dropped through floor after floor. The mages gave chase, and he reflected, as he dropped, that if nothing else, he’d at least succeeded in sidetracking an entire shipload of enemies. Hopefully the water sprites would be able to capitalize on the resulting pressure relief somehow. As for himself, he was a man with a dream, his eyes locked on the prize: that savage mana signature somewhere below deck.
+
+He dropped through yet another floor and finally halted. This was it. The signature was so clear here he could almost feel it. The item, whatever it was, was on this floor.
+
+“Here goes nothing,” he muttered, and sprinted off down the deck of the ship.
+
+It took a moment for his chasers to realize he’d finally stopped, and a few of the staircase-using ones kept running down and had to about-face to race after him on the floor he was actually on. Rhys, of course, waited for no man, and ran on ahead anyways, leaving a trail of caltrops and pitfall traps (places he’d weakened the wooden floor with his impurities) behind him. Everyone here could fly, but almost everyone walked out of habit, and even if it would only be a momentary pause for them to fall through the floor… it’d be funny.
+
+Pulses of mana rushed toward his back. Rhys ducked, and three swords, all emanating traces of a Path, shot over his head. One tried to turn and stuck in the wall instead, while the other two successfully about-faced and rushed back toward his head.
+
+Full power mode… activate! Rhys surged his mana, releasing his true aura for a split second to access his full strength and speed. As the swords closed in on his head, they seemed to slow. He reached up and pinched down on their blades. They immediately began to fly past him, shooting forward through his fingers, but it didn’t matter. The second his fingers made contact, he injected his most powerful impurities into the swords. They both corrupted and shattered without him even having to exert his finger strength.
+
+Behind him, two men abruptly spat blood and dropped to their knees, their mana signatures wobbling violently from the destruction of their Path-bound weapons. A third woman paled, staring at her sword, stuck in the wall. Rhys couldn’t know it, but she suddenly felt a great wave of relief that she’d always struggled with fine control of her sword techniques.
+
+Rhys ran on. The ship was immense, but he was going fast, if not the second half of that common phrase. The fierce mana signature was just ahead of him, as was a thick-walled black iron vault. Rhys raised his brows. Hey, you think it’s in that box? Hey guys, does two plus two equal four?
+
+The vault was about the size of a small bedroom. Its thick walls emanated the aura of a powerful barrier, one strong enough that he could tell it was going to take time for him to burrow through it. And that was just looking at it. If there were any further defenses, he’d seriously need to stop and take his time breaking it open.
+
+He looked over his shoulder at the mob of enemies. No one else had thrown their weapons at him after the first three, for some reason he didn’t quite understand, but quite a few people had lobbed magical attacks at him. They’d mostly missed, thanks to the chaos in the hallway behind him, so he hadn’t really paid attention to them. But if he stood here and started fiddling with the vault, the mob behind him would get ideas, and there was nothing more dangerous than a mob with ideas.
+
+Rhys thought for a moment, then shrugged to himself. It’d worked all this time. Why would it stop working now? He knelt and pressed his palms against the floor, forcing impurities into the floor under the vault as quickly as he could.
+
+“Stop him! He’s trying to steal the vault!” someone shouted.
+
+Mana rushed toward Rhys from a dozen sources as magical attacks rushed toward him. He squinted in focus and materialized an oily brown-black orb around his body. Magic struck the barrier and corrupted, equally melting the barrier as the impurities were peeled off, passing into the attacks as they petered out. The actual impurities didn’t get destroyed or vanish; after all, it wasn’t like they got ‘used up’ by magic. They did, however, get displaced by the magic, which meant he had to continually keep supplying the barrier with impurities as the attacks turned it into Swiss cheese. With the impurities he’d been pushing into the floor, it was seriously taxing his ability to move impurities around and form them outside his body.
+
+Two attacks chased after one another in quick succession, and the second, a flaming arrow, breezed through the hole in his barrier the first had made. Rhys leaned to the side, unwilling to stop pushing impurities into the floor. Rotting out the floor from the vault was actually a bit of a delicate operation. If he rotted out one corner before the whole floor gave, it might just lurch sideways and lodge itself so he was forced to rot out even more of the floor, or even fall into the wall and pin itself there. It wasn’t insanely difficult, but he didn’t want to lift his hands either, and so the flaming arrow burst past his face, digging a line through his cheek and taking his ear with it.
+
+Blood spilled down his shoulder. Rhys cursed under his breath at the pain and focused, momentarily turning his attention to his ear. Trash Body and Self-Regeneration worked in concert, automatically closing the wound, but turning his attention to it just made it close that much faster. It did mean he had to slow down his rotting of the floor under the vault, but only for a heartbeat.
+
+“He’s weak to two attacks in quick succession! Time your fire!” someone shouted.
+
+Rhys looked up, annoyed. The vault floor wasn’t melting as fast as he’d hoped, and these guys were being super annoying to boot. They stood at a decent span, unwilling or unable to close the distance, which meant he couldn’t just corrupt them in close combat, and now they were strategizing and planning around his weaknesses? That was just totally unacceptable. Mooks like them weren’t allowed to do that.
+
+He stomped, sending a wave of impurities through the wood. It rippled over the surface of the wood like a dark wave, then burst into sharp impure spikes jutting directly up into the feet of his attackers. Some had heavy boots, shields, barriers, or powerful feet, but the rest screamed in pain and jumped back, their attacks losing focus as they suddenly had to deal with both pain and impurities. While they were reeling, he lifted one hand and snapped his fingers. A dozen shards of a dozen different swords leaped out of his trash pile, and Trash Intent formed around them.
+
+Rhys went to send them flying, then paused. He narrowed his eyes at his attackers. For all the trouble they’d caused him, they deserved something more. Something nastier. And also, he needed to pierce through the barriers, shields, and armor. It was both petty revenge and practical, his favorite combination.
+
+He focused on the Trash Intent. His Trash Intent was formed with mana, but by now, he operated a fully filth-based ‘mana’ circulation system, only transitioning it to mana when he cast spells. But why bother? Mana was so much weaker than impurities, and he had finer and more complete control over impurities. He focused, sending a stream of impurities out of his body, and used Trash Intent alongside his impurity control. The blue shadows that formed the swords darkened, turning an ugly black-brown. They oozed, their very makeup replaced by filth.
+
+The swords themselves suddenly went riot. They trembled in the air, almost breaking apart. They were noble things that wished to return to their noble shapes, not be perverted like this. He felt their voices, their wills, their memories screaming, begging him to stop, to return to the purer mana.
+
+Rhys clamped down on them, silencing them domineeringly. They didn’t get a say. He was not their servant; they were his tools.
+
+Their voices went silent, and they suddenly took on a firm sword shape once again. Some of them oozed with resentment, but other shards suddenly radiated shock or respect.
+
+He was in control now. No longer did he have to pander or beg his tools to obey him. He commanded it, and they had no option but to fall in line, whether they liked it or not. He spun his finger around in the air and pointed at the other mages, and the filth swords flew forth. They slammed into the mages at the front of the lump and pierced straight through, cutting into the ones behind them, and the ones behind them. They screamed, their flesh blackening and veins darkening as they died, in pain, unable to fight against the filth circulating through their veins. Their blood sprayed, painting the walls and ceiling of the ship. One or two burst directly, exploding like grenades as their mana ran wild, circulated backward, and blasted their cores apart.
+
+Rhys stared, a little surprised. Did I do that? Holy shit! Even he didn’t know whether to be terrified or impressed. For a technique he’d thought up on the spot, it was effective beyond his wildest dreams.
+
+Essentially, he’d just created summonable baby versions of The Hunger, without permanency or consciousness, beyond what basic ‘emotions’ the sword scraps felt. Rhys wasn’t sure if those were real in the first part or his personification of their ‘memories,’ but in any case, it was basically like summoning a dozen disposable The Hungers and just going nuts with them. The Hunger was stronger in a one-on-one battle, and permanent to boot, whereas the sword scraps were being actively eroded by the filth that clung to them, and wouldn’t last more than a few moments, but in a one-on-many battle, the new summonable filth swords were a huge upgrade to his previous Trash Intent swords.
+
+It does mean I’ll have to collect more sword shards, he noted, and waved his hand, calling the mages’ discarded swords to him. They were dead, and they didn’t need their blades anymore; that made them trash, and therefore Rhys’s domain. One or two resisted the label, but he quickly overwhelmed them. Legend? Family heirloom? Who cared? They were just sword shards to burn to summon filth swords to him, and no matter how their previous owner had seen them, they were all trash in his eyes.
+
+The filth swords continued to fly, battling the few mages who survived the initial onslaught whether by blocking, parrying, or some other mysterious skill. With the swords occupying the survivors, Rhys was free to continue to erode the floor out from under the vault. It plunged, dropping with enough weight to crack the floor beneath this one.
+
+He hopped down and knelt again, continuing to erode the floor out from beneath it. There were a few mages on this level, but he summoned a new set of filth swords, and they quickly vanished like the chaff they were.
+
+I swore off my villain era, but I’m not sure I’m fully done with it? Man, I’m a problem. Rhys shook his head at himself. Killing so much he forgot who he killed, killing dozens with a single wave of his hand, thoughtlessly, calling them chaff and mooks in his mind… things weren’t looking great for his bid at being a good person. If he was back home, they’d lock him up for a few hundred years and throw away the key. In this world, though, he still qualified as a hero. Kinda fucked up.
+
+And then he shrugged. Good thing I never claimed to be a good person. I’m trash, through and through!
+
+Below this floor was the hull. It took him a little more time to burrow through it, but before long, it, too, gave way, and he and the vault both plunged into the sea. He looked up, watching the ship diminish as he dropped. No one followed him. He wasn’t sure there was anyone left to follow him.
+
+Whoopsies. Meant to do a scouting run, accidentally cleared the area? Too good? Easy game? He chuckled aloud, then struck the water, and no longer made any noise as he rode the vault into the depths.

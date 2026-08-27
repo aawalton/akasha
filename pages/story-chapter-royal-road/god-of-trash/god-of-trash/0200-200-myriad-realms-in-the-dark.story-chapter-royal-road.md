@@ -1,0 +1,83 @@
+---
+id: f502e3d8-08b4-547d-967a-c2098cf81140
+page-type-slug: story-chapter-royal-road
+title: "200. Myriad Realms in the Dark"
+slug: 0200-200-myriad-realms-in-the-dark
+partOf: god-of-trash
+position: 200
+ownLength: 1396
+unit: words
+publishedAt: 2025-09-28
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2636102/200-myriad-realms-in-the-dark"
+royalRoadId: "2636102"
+---
+
+Rhys stared at the mana battery. Thoughts whirled through his head. Other realms. This delicate battery. The Empress, stealing peoples’ cores. The mana battery, which was the closest thing magic gear had to a core, which Logan had even used as a sort of pseudo-core, but which the Empress apparently couldn’t grasp.
+
+Why?
+
+She’d come close. He could feel it. The mana battery was so delicate, with such a tenuous surface, like a Christmas bauble, as if a mortal could close their hand and shatter it with no effort. But she’d failed.
+
+Were these the first things she tried to use her technique on? Is that why she failed?
+
+It was possible. They were the first thing he’d try to use a core-scooping technique on. They were core-shaped, and core-like in terms of their content and purpose. But somehow, he felt like that wasn’t why she’d failed. Surely she’d just turn around and try again, if she’d failed the first time; the Empress didn’t strike him as the kind of person to give up and go home if she didn’t get her way, but instead, the kind of person to doggedly try again and again until she succeeded. One didn’t become a legendary conqueror by giving up, after all.
+
+So if this wasn’t a first time failure kind of thing, then what was the problem? Why hadn’t she been able to take the mana out of the battery?
+
+He blinked. Wait, is that it? Is it as simple as that? She couldn’t take the mana out of the battery. When she scooped cores, she took the whole core—the core and its receptacle, in one. The gaping wound in the place where his core had been was proof enough. That was exactly what made sense for her—it was what she wanted to do. Neuter her enemies and empower her people in one. But what if that was also a limitation of her technique? What if that was all it could do? Her technique could scoop cores, but it couldn’t take masses of raw mana. She could remove enchantments, but not suck all the mana out of a battery. It explained why the battery’s shell was so thin, too. She’d been scraping at it, trying to take a container along with the energy, but there was nothing to take. Or rather, a battery was already essentially a removed core. She couldn’t take a core out of a core.
+
+A second later, Rhys snorted to himself. What did that get him? He already knew she could take cores. Knowing that she couldn’t suck raw mana didn’t really help him much. It meant he in particular didn’t really have to worry about her core-scooping technique anymore, since his trash pile was essentially a lump of raw mana, but he didn’t know what else it would do for him or anyone else.
+
+I only just learned her technique’s weakness. I can’t expect to instantly know how to use it to maximum effectiveness in the same instant. It was already pretty useful to know that he didn’t need any fancy techniques to dodge the Empress; he was immune by default. Beyond that, he’d have to think a little more and study it some, but he was sure he could figure it out. He still had time.
+
+How much time, though? How long until the counterattack? He sighed, wishing for the millionth time that Bast had given him a timeline, a date, a general frame of reference… anything. He got it. He understood. There were reasons he wasn’t being told things. But man, it made living his life frustrating as hell. There were reasons he wasn’t being told things, but there were also reasons he wanted to know things, dammit.
+
+The thoughts he’d been on the verge of having about the realms and the technique and the mana fell to the back of his mind. He hadn’t forgotten them, but he hadn’t been able to put together whatever he’d been cooking up, so he’d continue to simmer those thoughts on the back burner until something came out. Maybe nothing would. Maybe he’d have a sudden flash of inspiration. Either way, it was worth mulling over.
+
+The trash pile steadily vanished into Rhys’s core as he kept walking. Daran walked beside him, considering his next guess. He was taking this whole business with the guesses very seriously, which amused Rhys more than anything else. He had already won with Daran missing his first guess, since he’d secured holding onto the question he’d already gained, and since he doubted Daran was going to get it, he had basically secured three questions already. It just felt so good finally being on the other side of the equation that he could barely comprehend that he hadn’t come up with this idea before. Of course, he hadn’t had anything to hold Daran’s interest before, so he wasn’t being fair to his past self, but still.
+
+“Is it… that you were summoned here?” Daran asked at last.
+
+“Summoned how?” Rhys asked.
+
+“By a spell. By the way people ordinarily summon greater… or in your case, lesser beings.”
+
+Ignoring Daran’s attempted slight, Rhys shook his head. “Nope. Close, but no cigar.”
+
+Daran wrinkled his nose in distaste. “So, what is it? How did you come to be here?”
+
+Rhys smiled and took a deep breath. “In the world I come from, there’s a worldwide information network where anyone can use a mechanical device to chat with anyone else with a mechanical device in the entire world.”
+
+“Ah. So you were an elite,” Daran said disgustedly.
+
+“Nope. Everyone has these things. I mean literally everyone. People you’d consider peasants and paupers. Even homeless people can access them at a library. Anyone in my world can talk to anyone else at a moment’s notice.”
+
+“That sounds… dangerous.”
+
+“Tell me something our world leaders haven’t noticed. Anyways, I was chilling on a random message board when someone messaged me out of the blue. A guy with the username absolutexistence—a username is a kind of pseudonym you use online. On the information network. I was using the username god_of_trash because I love trashy media… that is, stuff that’s looked down on by the general populace and not literature—”
+
+“You don’t have to explain every little thing,” Daran snapped, but for all that he was acting irritable, he had an intrigued expression on his face.
+
+“Anyways, I had the username ‘god_of_trash,’ and so, absolutexistence must have mistaken me for an actual god, or something. I told him I love trash, and the next thing I know, I’m waking up in this world, in this body.”
+
+“This isn’t your body? Are you certain?” Daran asked, shocked.
+
+Rhys nodded. “I was thirty and morbidly obese in my world. I was put into the body of a starving child in this one. I’m very certain.”
+
+“But… if this isn’t your body, your soul and body should be rejecting one another. I tried many experiments, but I could never fuse a soul into another body—”
+
+“And I’m piecing together why you got overthrown,” Rhys commented.
+
+“—and yet… no rejection. You’re perfectly fused into this body. As if this were your natural, gods-given body…” Daran slowed. He wrinkled his brows and pinched his chin thoughtfully. “Absolute Existence…”
+
+“It was one word. With a single ‘e,’” Rhys offered helpfully.
+
+“Perhaps the philosophers were right. Perhaps I did trod unto the domain of gods,” Daran murmured to himself. He nodded at Rhys. “Thank you. Your explanation was illuminating.”
+
+For the first time since gaining the upper hand, Rhys suddenly felt as though maybe he’d been the one played, as if Daran had been the one to win in their exchange of wits. He narrowed his eyes at Daran, then slowly smiled. I suppose this is what that old saying about ‘two old foxes, smiling at one another’ means. Both of them had gained the upper hand. They’d just done it in different ways.
+
+“Don’t forget, you owe me three straight answers,” Rhys prompted him, and was pleased to see Daran’s smug expression falter a bit. He reached out and thumped the guy on the back. “I can’t be that hard. Everyone else gives me straight answers all the… time…”
+
+He stared at Daran. Daran stared at him. Slowly, both of them looked at Rhys’s hand.
+
+“I… touched you?” Rhys said at last.

@@ -1,0 +1,203 @@
+---
+id: 4715bc87-7d68-550c-ba63-f4ae7cc9c603
+page-type-slug: story-chapter-royal-road
+title: "Chapter 972: Little Umbrellas"
+slug: 0039-chapter-972-little-umbrellas
+partOf: he-who-fights-with-monsters
+position: 39
+ownLength: 2166
+unit: words
+ownProgress: 2166
+publishedAt: 2025-03-14
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2126977/chapter-972-little-umbrellas"
+royalRoadId: "2126977"
+markedReadAt: "2026-06-29T19:05:12.848Z"
+---
+
+“Thank you,” Jason said as he shook Velius’ hand. “You helped my family at a dangerous time, when the clan was being established and I couldn’t be there. You have my gratitude.”
+
+“You should direct your gratitude to the Reaper. I serve at its pleasure. Speaking of which, the clan is now stabilised, and you are here. It is time for me to attend to other duties.”
+
+“You’ve been here a long time. Did it bother you, being stuck in this place?”
+
+“I do as is required of me. It has been an opportunity to give the Reaper’s other servants a chance at responsibility. I have been a prime vessel several times longer than most, but even I cannot hold the role forever. And my time here has not been without pleasantness. Such a low-magic world has been a relaxing place in which to stay.”
+
+“You have some goodbyes to make before you go?”
+
+“I am sure that you can explain,” Velius said, then burst into a cloud of rainbow smoke, his clothes falling to the floor.
+
+Jason backed off waving a hand in front of his nose.
+
+“Bloke, this is a hospital,” he complained, despite now being alone in Velius’ office. “Don’t just blow up your avatar like that.”
+
+***
+
+“…lived in the Storm Kingdom for a while,” Jason said, “and it’s where Zara is from. I thought visiting the Earth equivalent would be a fun trip.”
+
+Yumi Asano looked to be in her early thirties, despite being Jason’s maternal grandmother. Her flesh-warping powers allowed her to look however she liked, along with a lifespan long even by essence user standards. She usually kept her apparent age a little older than the mid-twenties that most essence users appeared to be.
+
+“Jason,” his grandmother said. “When you suggested a beach day, I was thinking something here in France. The beaches are empty and the vampires won’t go within a hundred miles of your territories. For you, in person, I’m guessing they’ll double that.”
+
+“You don’t think it’s a little macabre, visiting beaches abandoned because everyone has fled or been killed?”
+
+“I think you and your friends are a force that could take any country on Earth and wipe it off the Earth. I also think that the lot of you turning up on a beach in Aruba unannounced might cause an international incident.”
+
+“It’s not illegal for me to go to the beach, Grandmother.”
+
+“You have a visa? A valid passport?”
+
+“Okay, yes, it’s technically illegal. But, and I know this is going to sound bad, but I’m kind of above the law.”
+
+“You’re right,” she told him. “That does sound bad.”
+
+“I know, but that’s just kind of how it is. I mean, I stole a couple of chunks of Europe. I didn’t mean to, but I’m not giving them back. Once you’ve reached the ‘seizing sovereign territory stage,’ you’ve pretty much left the life of a law-abiding citizen behind. Which reminds me, should I vacate my Australian citizenship? I’m definitely not going to bother with the laws there, and I’m technically a foreign head of state. And also, I am a foreign state. My universe doesn’t have a formalised government, but I count as an autocratic ruler, right? A de facto one, at least.”
+
+“Jason, the world is watching you, and it’s scared. After you finally explaining everything and the visits to your own private universe, the world is still figuring out what to do about you. More precisely, it’s coming to terms with the fact that it can’t do anything about you, and that is not a position people with large armies and nuclear weapons are used to. We don’t know how well, or even if, they are going to accept it. This is not the time for you to use international relations as fodder for light banter.”
+
+“I was raising serious issues, Grandmother.”
+
+“Yes, which is why I know that you and Anna Tilden have already been discussing them for months, as she has with me. Don’t go pretending you just realised these issues right now.”
+
+“Sorry Nanna,” he said, his contrite body language wildly unconvincing. She raised her eyebrows threateningly.
+
+“Grandmother,” he corrected.
+
+“Jason, you need to consider whether touring around with your friends is worth a potential international incident.”
+
+Jason neither moved nor changed, yet Yumi felt an unmistakable shift. Her insouciant grandson was gone, and someone she didn’t recognise was in his place.
+
+“Grandmother,” he said, his voice reverberating in her soul. “I brought my friends here specifically so we could tour around the world, which is exactly what I’m going to do. I would say gods help anyone who tries to make trouble, but I’ve met gods. They’ll need more help than that.”
+
+The spell broke and Jason flashed his familiar impish grin.
+
+***
+
+The most powerful force the Earth had ever seen stepped off the double decker streetcar, dressed like they’d all raided Jason’s closet. Shorts, sandals, straw hats and garish floral shirts abounded. Jason watched Rufus and Humphrey with a disgruntled expression as they stood side by side, gazing out at the ocean.
+
+“We’re wearing the exact same clothes,” he complained to no one in particular. “How do I look like I just got fleeced at the local market, and they look like a tourism poster?”
+
+Along with Jason and his otherworldly companions were many clan members. With around forty people having shuffled off the cloud vehicle disguised as a streetcar, they were already gaining attention. Their auras were all masked as normal people, but there was no hiding their athletic bodies and rank-polished features.
+
+Even more attention-getting than what looked like a modelling agency on a field trip were the inhuman members of the group. Elves and celestines added compelling and unconventional beauty. The more overtly alien, like the handful of looming leonids, stood out most of all. None of this was unheard of, however, twenty years after the transformation crisis. Humans being changed into other species was a known, if unusual, phenomenon. More than any political movement, some of them getting internet famous normalised it faster than anything else.
+
+“You might want to get rid of the streetcar before a real one comes along,” Itsuki pointed out.
+
+“Good point,” Jason said. “I might let our army of sexy aliens head down to the beach and distract all the looky-loos first.”
+
+Itsuki Tiwari’s family was one of two Japanese families taken in by Jason’s clan after being ousted from their own for helping him. Itsuki himself had travelled with Jason for a time, before three of their companions were killed by Jack Gerling. Not only had that shaken the then-young man, but Jason made for a grim companion after. The other family was part of the Network Asano clan, and Jason noted Itsuki’s longing gaze in the direction of Akari Asano.
+
+“Still with this?” Jason asked. “Mate, what’s going on?”
+
+Itsuki turned red and hushed him.
+
+“Don’t worry, bloke; no one can hear us. I’m using my aura as a privacy screen.”
+
+“You can do that?”
+
+“Mate, I made a universe.”
+
+“I suppose that would be harder.”
+
+“What happened with you and Akari? She knock you back?”
+
+“No! I mean, no. I mean…”
+
+“What?”
+
+“I haven’t, strictly speaking, asked her out.”
+
+“What?”
+
+“I never found the right time.”
+
+“Oh, I see. In the sixteen years I’ve been gone, the right time never came up. It definitely wasn’t that you’ve got a terminal case of absentee balls. At this point it isn’t procrastination, mate. It’s stalking.”
+
+“She’s my best friend, alright? I don’t want to ruin it.”
+
+“How are you going to ruin it?”
+
+“What if she finds out I’m desperately in love with her and she rejects me?”
+
+“I hate to break it to you mate, but she already knows, and has done for a long, long time. She’s your best friend, and you’re not doing a great job of hiding it.”
+
+“You think?”
+
+“Yes, mate.”
+
+“Doesn’t that mean she doesn’t…”
+
+“I don’t know. It might mean she’s scared of you scurrying off like a scared little mouse if she confronted you on it.”
+
+“Why would she think that?”
+
+“Dude, sixteen years and you haven’t mustered up the nuggets to tell her.”
+
+“Why does it have to be me? She probably doesn’t think of me that way. I mean, she could have said something.”
+
+“Yep. You might just be perfect for one another. Or, maybe she did try.”
+
+“What?”
+
+The main group had wandered far enough away that Jason didn’t startle too many people when the streetcar turned into cloud and got sucked into the flask he set out on the ground. A few people noticed and started taking videos with their phone, but it wasn’t too outlandish. Earth had spent the last two decades coming to grips with magic.
+
+“What do you mean, she did try?” Itsuki asked, hopping foot-to-foot like a schoolboy in need of the toilet.
+
+“Tell me if this sounds familiar. You and Akari were talking, and you got nervous because you thought she’d realise you were in love with her, so you changed the subject or ran away.”
+
+“I wouldn’t say ran. Maybe a cool saunter.”
+
+“Itsuki, I hate to break it to you, but you never have and never will saunter in your life. You just don’t have it in you. But you see what I’m saying, right? She’s been trying to tease you out of your shell, but you keep shrinking back inside. Now she’s stuck waiting for you to come out on your own.”
+
+The cloud material finished returning to the flask, which shrunk into an amulet for Jason to hang back on his necklace. He and Itsuki started strolling after the others.
+
+“You’re very confident about this, given it’s entirely assumptions and guesswork,” Itsuki said.
+
+“What makes you think it’s assumptions and guesswork?”
+
+“You’ve been gone for sixteen years. You don’t know what’s happened in all that time.”
+
+“Yeah, but I’ve already talked about all this with Akari.”
+
+“WHAT?”
+
+***
+
+The beachgoers had originally been nervous when a mass of clouds rolled over the beach only to turn into a beach bar. At first, only Jason’s group attended, until someone was bold enough to go in and livestream an impromptu interview with Jason. A few more people were bold enough to go in and order drinks, and by mid-afternoon, the place was flourishing.
+
+“You could be a little more accommodating with the beverage selection,” Emi said as she and her uncle worked the bar. “Not every drink needs to be neon coloured and have a little umbrella in it.”
+
+“Yes, they do. And the icy poles don’t have little umbrellas in them.”
+
+“They have tropic flowers frozen in them.”
+
+“Yeah, but you love that.”
+
+“Yeah,” Emi admitted with a grin. “You know, we should do this more. A hot chocolate stand in the Alpine snow. A snow cone kiosk in the Serengeti.”
+
+“That’s a very good idea,” Jason said. “You know, I heard you weren’t very smart, but you do occasionally stumble onto a—”
+
+He laughed as she slapped him on the shoulder.
+
+“As nice as this is,” she said, “I know you have a lot of things to do. The messengers living in the clan have been waiting for you to come back.”
+
+“I know. I have a lot more messengers than that to deal with, and that’s going to get complicated. I’ve actually set something up for tonight…”
+
+Jason trailed off as his mind short circuited. There were no shortage of attractive people in swimwear in the bar, but the sapphire-haired Zara looked like she’d been sent from space to turn the brains of Earth men into soup. Jason was halfway to the water before his brain turned back on, vaguely processing that his sister had taken over at the bar as Zara led him away.
+
+“It’s hard to believe that this is the same place as Rimaros, back in my world,” she said. “Even the shape of the island is different.”
+
+“No magic storms,” Jason said. In the hand not being used by Zara to tow him along, he found a drink in a coconut shell, with pineapple leaves and a little umbrella sticking out. He took a sip before shoving into his inventory as they reached the water.
+
+***
+
+Boris descended towards the isolated dwelling, its location in the savannah far from any civilisation. Nestled amongst scraggly trees, the villa was all curves and natural materials, blending into the landscape. Boris landed in the long grass, the wings on his back vanishing. From the porch, Tera Jun Casta looked at him. Her impassive face showed none of the roiling emotions he could sense in her aura.
+
+“You’re barely in time,” she said.
+
+“You might also say that I’m exactly on time.”
+
+Between them, an obsidian arch rose from the grass and filled with shadowy energy, forming a portal.
+
+“Are you ready?” Boris asked.
+
+“No,” Tera said. “But when did that ever matter?”

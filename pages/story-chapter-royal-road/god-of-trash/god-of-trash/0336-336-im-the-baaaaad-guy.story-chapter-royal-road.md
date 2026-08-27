@@ -1,0 +1,75 @@
+---
+id: d003d63f-6f2d-5168-9680-5244b7723bb8
+page-type-slug: story-chapter-royal-road
+title: "336. I'm the Baaaaad Guy"
+slug: 0336-336-im-the-baaaaad-guy
+partOf: god-of-trash
+position: 336
+ownLength: 2141
+unit: words
+publishedAt: 2026-07-13
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3673308/336-im-the-baaaaad-guy"
+royalRoadId: "3673308"
+---
+
+He sunk down, down, down. The few sprites battling this far from the castle fled as he and the vault dropped, and he waved on his way down, exuding enough of his aura that they’d understand he was on their side. They looked at him with their pure black eyes, then turned away, leaving him to whatever he was doing. Honestly, he couldn’t blame them. He’d leave him to his own business, too.
+
+Air burbled past, escaping from where it’d been trapped under the vault. The last bubble escaped, and then it was just Rhys and the vault, and the crystal-clear water. He sank to the bottom, then crouched down, looking closely at the vault. It had all kinds of defenses, and he hadn’t even seriously examined them yet, let alone scratching the surface. Whatever was in here felt dangerous. He didn’t want the vault to destroy it, or maybe set it off; either way would be bad, since what he wanted was to figure out what Fifteenth was planning. Even better if he could turn it around and use it on Fifteenth, but figuring it out would be a good start.
+
+He crouched on top of the vault, using his mana to bind his feet to the iron, and focused. The vault’s protections were… a mess. He had no idea where to start, or where to go. Rhys bit his lip, then shrugged. If he couldn’t figure it out, all he could do was bore through it and hope. He lifted his hand and called his impurities to him.
+
+Someone tapped gently on his shoulder. Rhys jumped, almost releasing the impurities on instinct. He whirled to find Aran there, hovering in the water.
+
+The man was in water-sprite form, with dark eyes, big needle teeth, and fins protruding from his body. His fins were a bit shorter than a normal sprite’s, but otherwise, Rhys would have never called him out as a half-sprite. Aran pointed at the vault, then at himself, and smiled. It was a little less kind of an expression with his fangs, but Rhys got the impression he was trying.
+
+Is he offering to crack it open for me? Rhys hesitated, then stepped aside, gesturing for Aran to try. He was literally planning to brute force it open, so if Aran had something more delicate to offer in terms of barrier-busting, he was happy to let the man try.
+
+Aran swam up to the vault. He rested his palms against it, sending a quiet pulse of mana into the structure. The vault’s defenses lit up, suddenly rendered in visible light. A thousand complicated lines of mana covered the surface of the cube, knitted together in intricate ways, and a thousand lines of unknown script wound around the lines. Unknown to Rhys, at least. Aran immediately swam closer, almost pressing his forehead against the cube as he drank in the lines of text. His dark eyes fluttered from line to line, moving so quickly that Rhys caught hints of the whites beyond the seemingly endless black.
+
+Aran’s forehead creased. He shook his head and withdrew, then darted in close and pressed his hands against the vault again. A second pulse of mana, this one with a slightly different ‘flavor,’ emanated from his palms, and to Rhys’s surprise, a second layer of protections appeared from under the first, glowing in a slightly different color. Aran nodded to himself and swam in close again, once more examining the lines at close range.
+
+Rhys half-watched him, and half-kept an eye on the battle. He had just absconded with what seemed like a fairly important relic, and it wasn’t like it was a small thing he could easily hide, either. The iron cube was the size of a small room, and stood out like a blot of ink on the sandy parchment of the sea floor. At first, the enemies were too occupied with the water sprites, but it was only a matter of time before someone took notice.
+
+A small team of attackers surged toward him. One or two water sprites darted out to intercept them, but there weren’t enough sprites to deal with the attackers, and the team split inot two, one set of two countering the sprites, the other three rushing toward Rhys and Aran.
+
+Rhys kept his back turned to them, still watching Aran’s barrier-breaking technique with his eyes, but he had them locked in his mana senses. As the three approached, he called out scraps of swords from his trash pile. Rather than immediately manifest the Trash Intent, he wrapped a small ball of compressed impurities around each shard, then sent the balls toward the enemies. The team spread apart, dodging the black balls, but not fleeing them the way they would have a sword attack.
+
+Rhys grinned silently. Fools.
+
+The enemies began to attack. One sent a dragon composed of blue, watery energy toward Rhys and Aran, and another sent a wave of needles through the water. Before either of the attacks connected, Rhys pointed, unable to snap well underwater, and the black balls took shape. The sword shards manifested into swords, and the filth weapons pierced through the water, closing in on their prey. The attackers had enough time to look shocked before the swords burrowed through them.
+
+The needles went slack, but one of the attackers screwed up his face in intense focus, and the water dragon continued to fly toward Rhys. Rhys didn’t flinch. It was already over.
+
+The second the swords struck them, Rhys spun his finger and pointed again. The swords, already embedded in their victims, exploded, blasting filth shrapnel into the attackers. Overwhelmed, the three attackers went limp and sunk through the water, trailing blood into the water. The water dragon had enough time to growl at Rhys’s face before it dissipated. A harmless wave of water rolled over Rhys, no more harmful than pushing a handful of water at him.
+
+He chuckled to himself, though it made no sound underwater. Waving his hand, he called his impurities back to him. He didn’t want to accidentally poison some hungry water sprite. He paused, then shrugged and called the needles to him, too. They were officially litter now, since there was no longer anyone left to claim them, which put them soundly in the category of trash. He was going through blades faster than ever now, so needles sounded as good as anything else to him.
+
+Rhys considered for a second, then glanced at Aran. The man was still busy, and there didn’t seem to be anyone else rushing in to attack, which left Rhys free for the moment. He kicked, swimming over to the slowly-sinking bodies and patted them down. Their gold went in his gold pile, a few storage rings landed on his fingers for later examination, and their swords went into the blades pile in his core. He waited a moment longer, but then, considering that they were somewhat outside of the range of the water sprites, sucked up the bodies too, tossing those directly into the trash star.
+
+He’d just gotten a refresh on impurities, but blowing a hole through the entire ship had taken a lot out of him. It wasn’t that the star was burning low, but compared to its blazing heat moments ago, he certainly wouldn’t say it was burning hot, either. He was still good to fight, but he needed to keep his eyes open for a trash heap, basically. All that to say that he needed fresh trash just like the water sprites needed a meal, and bodies, with all their mana and so on and so forth, made excellent high-quality trash.
+
+The battle concluded, Rhys wandered back over to Aran’s side to watch the man work. It was truly mesmerizing stuff, what Aran was doing, and deeply interesting to watch. Just like he was an expert at trash, Aran was clearly an expert at barrier-busting. His hands blurred, shifting lines and calling forth symbols. The barrier turned and twisted in his hands, almost like the world’s most complex rubik’s cube. One after another, the lines aligned, the symbols lit up, and slowly, the glowing shield protecting the iron cube faded, losing potency and brightness alike with every new twist and shift.
+
+As he worked, a few low-rank enemies rushed their way, but Rhys summoned the rat swarm. The rats (and one ermine) were not at all bothered by the presence of water. They swam through the water with ease and dispatched the fresh attackers one after another. Blood discolored the water around Rhys, while he watched on serenely, only paying the minimum attention to the attackers.
+
+Most of the attackers were handled by the water sprites, in any case, who had no intention of letting them anywhere near their employer-slash-Prince, or whatever Aran was to them. Some kind of noble? His Prince title seemed pretty clearly tied to human society, not water sprite society, and Rhys wouldn’t be surprised to find out he was lower-ranked by water sprite standards, but he just didn’t know. Maybe his and Lira’s mom was a water sprite queen in her own right, making Aran doubly prince. And Lira… what, a disowned princess? Which just means a person with deep pockets who doesn’t talk to their family much, I guess, which I already knew. The not-talking-to-her-family part, anyways, not the deep pockets part.
+
+I should get Lira to pay for more things.
+
+Resolving in his heart to mooch off his friends, Rhys turned his full attention back to Aran’s work as yet another team of low-rank enemies bit the dust in true mook fashion. Point-defense real-time-strategy (or RTS) had never been his favorite genre of game, and he found it even less interesting in real life. Watching Aran’s barrier breaking was his equivalent of pulling up a video of some dude playing a game about surfing on the subway at the same time as he played an RTS game.
+
+By now, the barrier was very faded, almost completely dark. It was hard to see the lines or symbols anymore, save for two very bright lines, covered in simple, similar symbols. Aran brushed his hand over the surface of the barrier and sent one line toward the other. The two collided, transforming into one ultra-bright line with simple symbols marching along its edge. The bright line sucked in all the remaining light with a low thrum he heard even through the water, and then there was no more barrier, just a hoop of light around the cube.
+
+Aran took a deep breath of clean water, then focused. He reached out, resting his hands on the hoop, then lifted his hands, and the hoop of light moved with them. There was almost certainly a lot of complex magic going on under the hood, but to Rhys’s eyes, it looked as if Aran had just picked up the hoop and lifted it off the cube.
+
+The second the hoop cleared the cube, Aran released it. The hoop expanded with an explosive pop, and the barrier re-formed in all its complexity, but now all it was holding was a barrier-sized portion of seawater.
+
+Rhys applauded, deeply impressed as he turned to Aran. That was super cool, but what did he do, specifically? Is it an intentional displacement of the barrier, or is that just a side effect? Can the barrier keep existing indefinitely without anything physical to bind it? I know some barriers are deeply rooted in physical objects, so—
+
+Aran gave him a small, wan smile. Then his eyes rolled back in his head, and he went limp in the water.
+
+Uh oh. That’s not good. Rhys darted forward and caught him, then felt a little silly—what was Aran going to do, drift gently to the seafloor? Even putting aside their respective magehoods, the man was in no danger.
+
+Still, it wasn’t good to be unconscious on a battlefield, regardless of how contained the battle of, especially when he was supposedly the object of the battle, regardless of how ‘supposed’ it was. Rhys lifted the iron cube in his other hand and carried both Aran and the cube toward the sand castle. As he passed the seawater-filled barrier, he paused, then lifted a foot and gave that a gentle kick through a hoop and into the void, taking a moment to place it next to his island as a very strange moon. One, it was kind of cool, two, it was definitely a byproduct and therefore trash, three, he still had that egg from when he’d crossed the sea. It wasn’t doing anything, but it was also presently in fresh water, not seawater. Maybe it needed seawater. Who knew?
+
+Speaking of ‘who knew,’ it’s time to enter this vault! Cheering silently in his head, Rhys approached the sand castle.

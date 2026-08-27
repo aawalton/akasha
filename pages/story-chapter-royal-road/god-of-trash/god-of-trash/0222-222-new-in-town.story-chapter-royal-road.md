@@ -1,0 +1,115 @@
+---
+id: 1345825d-ae4f-567f-b827-d7c88a45c8b6
+page-type-slug: story-chapter-royal-road
+title: "222. New in Town"
+slug: 0222-222-new-in-town
+partOf: god-of-trash
+position: 222
+ownLength: 1996
+unit: words
+publishedAt: 2025-10-26
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2706890/222-new-in-town"
+royalRoadId: "2706890"
+---
+
+“New around here?”
+
+He turned, a smile on his face. “I am! I am. Just rolled into your lovely town today…”
+
+His voice trailed off. His eyes widened, and he looked up, and up, and up.
+
+The tavern had a high ceiling. He hadn’t thought anything of it. It only made sense to have pitched roofs in an area with heavy snow, and a lot of room for the smoke to escape to in the ceiling was pretty typical in cold regions, as well. Sure, it didn’t close in around the edges to a low height, the way he’d expect in a fully-optimized cold region tavern, and the door was enormous, but at the end of the day, they were mages and had magic. It was fun to act as if they were constrained the same way mortals were, and to dress and build in the style of cold civilizations, but they weren’t actually constrained that way, so a strangeness or two in the architecture was ignorable, and besides, mages loved a grand entrance and a high ceiling, so it was really nothing out of the ordinary. But apparently he shouldn’t have ignored the strangeness; or rather, the strangeness was actually a hint.
+
+The man loomed over him, at least eight, if not nine feet tall. His proportions were completely normal, like a fully scaled up five-foot-ten person. He didn’t have that stretchy-taffy-puller basketball player look, or the massive, scary frame of a person with gigantism. He was just huge. Like someone had pulled the corner of an image and just made him larger. As if all humans had the option to grow to nine feet tall; as if they were all meant to become nine feet, and Rhys was the one who was strange for being so small. His clothes were ordinarily proportioned and ordinarily detailed, as well. It was as if there were an entire race of ordinary, but very large, people up here.
+
+“You’re big,” Rhys said at last.
+
+The man clapped him on the shoulder. Rhys almost fell off his seat from the force of it, and had to brace himself against the bar to keep from sliding off. “You’re from far away, then, if you haven’t seen someone my size before. I’ve heard the majority of this continent is made up of small people like you, but up here, I can spend all my time around people my size, and it barely feels any different from home.”
+
+“Home being, uh… the northern continent?” Rhys guessed.
+
+“You’ve never been, huh? You should come some time. Though it might be a bit big for someone your size.”
+
+The door thumped. Another few large people stepped through the curtain, laughing and chatting. They pulled out the chairs at a table, and the table resized itself to fit them as they sat at it, expanding into the empty space around it.
+
+I guess this is just normal for them. Rhys raised his brows, then shrugged. He distinctly remembered a few trashy books that had their protagonist suddenly grow to several meters tall at several points within them. Often, the protagonist shrunk afterward as he continued to cultivate, but he definitely remembered that once, late in one of those series that had to do with sealing heaven, the protagonist had suddenly grown to five meters, then never shrunk for the rest of the series. Maybe it was the specific translation he’d read, but he couldn’t forget that detail, nor keep himself from imagining the protagonist as a giant among a sea of normal people for the rest of the series, no matter how ridiculous such a mental image got.
+
+Though… numbers in those kinds of series are always a little… There was the time he’d read about a protagonist flying on a vehicle the size of the state of Virginia to travel about a hundred meters, or the infinite numbers of times the two battlers stood an unclear distance from one another and held a conversation while tossing dragon-manifestations hundreds of kilometers long at one another. Sometimes, the numbers just didn’t mean anything, especially when they were describing unimaginably large objects. What did a ship the size of the state of Virginia even look like?
+
+Ah… speaking of… I should look at my numbers at some point. He had his original core back. He should probably check his stats, now that he was properly connected to the System again.
+
+Still, it’d be rude to pull it up in the middle of a conversation, so he turned to the large man beside him and smiled. “What is it you do around here?”
+
+The man gestured to the bartender, who slid him a very large tankard. “Huntin’. Monster huntin’. I’m Paul, by the way.”
+
+“Bunyan?” Rhys blurted reflexively.
+
+“Hmm?”
+
+“Sorry. Um. That’s, uh. My name.” He cleared his throat. He hadn’t meant to use his own name, but he definitely hadn’t meant to name himself Bunyan, either. It was just easier than explaining American creation myths to this man, and he needed an alias, anyways. “Friends call me Bunny.”
+
+“They do, do they?”
+
+“No, I take that back. Enemies call me Bunny.”
+
+Paul cracked a grin at that and thumped Rhys again. This time, Rhys was braced for it, and didn’t shift on his seat. “What brings you up here, Bunyan?”
+
+“Just trying to get away from it all,” Rhys said with an exhausted tinge in his voice. It was true, though not the way people were usually trying to get away from it all, or the usual thing people were trying to get away from.
+
+“You’ve come a long, long way.”
+
+Another weary sigh. Rhys shook his head. “Sometimes, you need to.”
+
+“Ain’t that the truth.” Another thump. Rhys got the distinct feeling that his ribs would be bruised by now if he was actually the tier he was pretending to be.
+
+“What is there to do around here? I came up blind, just kind of… kept walking until I found something far away from it all. Hunt monsters, the Black Palace, but what else?”
+
+Paul sat up and pinched his chin, thinking for a moment. At last, he shrugged. “That’s pretty much it. I wouldn’t recommend monster hunting for someone as small as yourself, though. They grow ‘em big up here, and that’s me saying it.”
+
+“Really? I heard the Sword Saint and his apprentice came up here to practice, though, and I should be the same tier as his apprentice, right?”
+
+Paul scoffed. “You think you’re on the same level as those two? Don’t be ridiculous. Even then, they had a hard time. Especially that Sword Saint.”
+
+Rhys had been waiting for the obvious answer, but at that, he frowned. “Really? The Sword Saint, not the apprentice?”
+
+“The apprentice… he fights like a mad dog. Has my respect for it, honestly, The Sword Saint was the one who worried me. Out there doing fancy sword arts on big beasts… well, it worked as long as he had the upper hand. When he didn’t, he was spinnin’ that sword of his around for fun against an opponent that didn’t have enough braincells to think about how to counter it, but had enough muscle to bull on through, if you get what I’m saying.”
+
+Rhys nodded. It… actually made sense? Sword forms were for fighting humans, who could think, and had blades to counter your attacks. That was when it was important to hold energy in reserve for the proper counterattack, maintain footing to dodge or sidestep, and twist your blade right to avoid nicking it. When fighting beasts, though, it was fine to use forms, and don’t get him wrong—it would conserve energy, and practice was always important—but the extra bits, the counters and deflections and angles, were useless against a monster that would simply charge in blindly. Of course, as Paul had said, as long as the Sword Saint had the upper hand, it didn’t matter; he could pirouette and still win. But if he didn’t…
+
+If he didn’t, then that implies there’s monsters here stronger than the Sword Saint, doesn’t it? Rhys realized. And then his brows furrowed. But he said Bast didn’t have a problem with them…?
+
+As if realizing what Rhys was about to say, Paul waved his hand. “That was the other problem, you’re right—the Sword Saint thought he could take on just anything. His apprentice was playing it safe, taking on monsters he could handle. I understand it. There was a monster tide… someone had to take them on. But sometimes, you just gotta let ‘em run it out for a while, then step in once they’ve worn themselves out. I told them as much, but the Sword Saint… he thought he knew better. Apprentice listened to me, and he came out alright. The Sword Saint, on the other hand…”
+
+“What happened?” Rhys asked, leaning in.
+
+Paul opened his mouth.
+
+A loud cough echoed through the room. Rhys glanced over. The entire table of large people were silent, and all of them glared at Paul.
+
+“Well… who’s to say. I wasn’t there, of course,” Paul said.
+
+The other large people looked away, going back to their conversation.
+
+Rhys raised his brows. Interesting. He wanted to keep pressing, but with that table listening in, he wouldn’t get any more out of the man. He nodded at Paul and changed the subject. “You hear about that mess with the Empire?”
+
+“Oh, right. That one guy who tried to make himself the new Emperor after killing the Empress? Dunno how he got away, but he’s pissed off the Alliance something fierce.”
+
+“Yeah, it’s crazy,” Rhys said, reeling a little internally. Make myself the new Emperor? Is that how they twisted it? He wanted to roll his eyes, but reeled himself in. There was no point getting angry at Paul, or anyone here. They only knew what they’d been told. None of them were there. “I heard he had some helpers, too. Couple of girls who wanted to become… Duchesses, or something.”
+
+“Did he? Didn’t hear about them.”
+
+“Huh. Maybe I heard wrong. That’s the thing about the rumor mill.” Rhys shook his head, internally relieved. If they hadn’t heard anything about the girls, then they were probably relatively safe. Virgil definitely would’ve crowed to high heavens about catching some ‘traitors’ if he’d caught them.
+
+“That is the thing about the rumor mill,” Paul repeated.
+
+“If I wanted to… tap into the rumor mill, though. Among friends,” Rhys hinted.
+
+Paul rubbed his chin. His eyes drifted toward the table, but they were lost in their drinks, paying the two of them little attention. “I think you’d do well to take a pass by ol’ Mickie. Outside town and up the hill, lives in a little shack. I think he’d probably know the most about things.”
+
+Rhys nodded. He gestured with his drink. “So… aside from monster huntin’. What do you do for fun around here?”
+
+Paul brightened up. “Oh, all kinds of things! Well, there’s elk-racin’, ice fishin’, snow runnin’…”
+
+The rest of the night, the two of them chatted about various recreational activities in the area. The table of large people remained well into the night, when Rhys finally made his excuses and vanished. He had nowhere to vanish to, but he was tired of talking and a bit overloaded on people, and more importantly, he hadn’t found the trash dump yet. He wandered town for a bit, extending his mana, until he finally found an empty lot with a lumpy surface. He brushed away the snow and found it: glorious, wondrous trash.
+
+Rhys hummed under his breath, pleased with himself. He burrowed into the lot and hollowed out a space for himself, absorbing trash around him as he crawled, but reserving bits of cloth and fur as he went. Tomorrow, he’d set out in a nice new set of duds, winter-themed to match his surroundings. For tonight, it was time to craft.

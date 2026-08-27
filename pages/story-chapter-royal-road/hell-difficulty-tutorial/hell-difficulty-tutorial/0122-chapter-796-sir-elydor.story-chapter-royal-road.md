@@ -1,0 +1,141 @@
+---
+id: 1c54ef9a-51c8-524b-806a-9ccc7a4c8e17
+page-type-slug: story-chapter-royal-road
+title: "Chapter 796 - Sir Elydor"
+slug: 0122-chapter-796-sir-elydor
+partOf: hell-difficulty-tutorial
+position: 122
+ownLength: 2337
+unit: words
+publishedAt: 2026-05-03
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3350855/chapter-796-sir-elydor"
+royalRoadId: "3350855"
+---
+
+I stare at Maya for a while longer before I push past her and walk into the common room and sink into an armchair with a sigh.
+
+My thoughts race in my head as I absorb the information I just received. While I’m hoping for the situation to turn out a certain way, I keep coming to the same conclusion. This will likely get worse than it already has.
+
+“Where are the others?” I ask Maya, who joins me nearby.
+
+“Min-Jae is working at the docks. He-”
+
+“Maya, sorry to interrupt you, but one of the eleven most powerful people in this world died, and Min-Jae decided to go and get his first j*b?”
+
+“J*b? What did you even say? Did… did you just bleep yourself? Did you mean 'job'?”
+
+“Please, we don't say the J-Word out loud.”
+
+“Whatever, I think the boys have been having a bigger influence on you than you think. But yeah, something like that. J*b. The docks here are always searching for people with specializations that can help with work, and one of their scouts noticed Min-Jae’s gravitational energy. Apparently, it’s rare enough that they made him a really good offer, and a few of the wealthier natives were almost bowing to him. Not like rich rich people, but important ones, so he went with it and is currently using that to gather information in the meantime.”
+
+“If you say it like that, it makes a little bit of sense,” I say as I stop by the couch with Lily and poke her cheek, “and this lazy ass?”
+
+“She hasn’t moved since we got here, so we’ve been rotating who stays with her. By the way, what’s with the glasses? Surprisingly enough, they fit you. I mean, I know how rotten your personality is, but if I didn’t know you, I would say you have that confident, smart, talented, arrogant young rich professor vibe. Well, if you actually wore proper clothes.”
+
+I turn to her and give her a look, and don’t bother to answer.
+
+She quickly nods, “Yes, that look right there, but, anyway. Tess and the twins are spying on the auction house where we suspect the egg is being held. Apparently, they’ll sell some great item from time to time and then keep it in their safe until it moves to the customer. Izzy, Sophie, Noodle, and Biscuit have been doing… Well, whatever it is they do. I think they were going by the thought that they could probably put Biscuit into the auction and try to sell him as a rare beast, and hopefully, he would get closer to the egg. Don’t look at me like that, Nat. It was Izzy’s idea, but surprisingly, she and Sophie confirmed it could work after ‘talking’ to some people, if you know what I mean.”
+
+“Maya, this floor is a mess.”
+
+“Tell me about it.”
+
+“No, I mean a true mess. We probably only have a few days before things start to get catastrophic, like the end of the world bad. Don’t ask me how, I myself have no idea, but they will. If I picked things up right, the Champion’s death is just the start. So we'd better hurry and get the egg and then keep it somewhere for these three days.”
+
+“If even you’re saying that, I think I might need to start worrying. Tess and the twins should be back soon, so you should talk to them about it.”
+
+“You’re only saying that to pass the responsibility and decision making off on her,” I blame her.
+
+And with that, Maya stands up and does an elegant curtsie, the kind one might see in a ballroom, and smiles brightly.
+
+As Maya said, Tess and the twins return around thirty minutes later. Their faces grow more relaxed once they enter the common room, and they throw themselves into the seats around us. Tess is currently still wearing an eyepatch over her eye. But this one looks more elegant. A nice one made of black leather. There are no straps at all, just an eyepatch, so I suspect that she’s constantly keeping it pressed against her eye with her [Psychokinesis].
+
+And I wonder why it fits her so much and makes her look so cool.
+
+“What’s with that arrogant, annoying rich young professor look…” Dennis doesn’t get to finish.
+
+“I already asked,” Maya says.
+
+The two of them jump into conversation while Tess sits in an armchair opposite me and says seriously, “ Bambi’s curse is back and stronger than ever before.”
+
+I nod just as seriously, “The Dusk Deer Biscuit dragged here and left behind reanimated because of blood or mana radiation from the fingers, and then ate them?”
+
+“That’s what we think too,” Tess nods, “But to have killed a Champion already, that Lycan’s blood must have been something else.”
+
+I shrug, “Apparently, one of the most powerful werewolves in the system. Did you guys get one and a half million shards each?”
+
+“That was you?” Aaron jumps in, sitting nearby.
+
+“I brought the hand to Beyond and traded it there. I still think I got scammed, and I probably could have gotten more, but now I’m also glad I didn’t leave it behind.”
+
+The mood turns slightly solemn as they think of that, and I give it a thought as well. Most of all, I wonder how the situation would've looked like if I really had left it here.
+
+“Well, it was obvious the curse would return,” I say, still remembering the deer I skinned and how, according to some truly unreliable sources, I did such a terrible job with it that the spirit of that deer cursed me, so that now we have a deer problem. “I already told Maya, but we need to clear this floor fast. Getting our hands on the egg today would be perfect, possibly tomorrow, or if we are lucky, we can get away with taking it in another day or two. But I really think we don’t want to stay here for too long.”
+
+After that, I explain all the information I’ve gained recently, and the twins add me to the link so I can talk to the others as well. Since it’s foreign mana, my new trait resists it, forcing them to expend far more mana to establish a link, and requires an active effort from me just to keep the connection alive.
+
+In the end, the effort I need to expend is greater than I anticipated. Even as I make further modifications, I wonder just how much more difficult this is going to be in the future, after a few strengthenings.
+
+I also share a bit of info about my new blood so the others can help figure out if we can make use of it somehow. Then, while they’re busy sharing ideas with the others, I listen to Tess.
+
+“I think the egg is still being held in the auction house. It is widely regarded as the safest storage anywhere. I don’t have it confirmed, so I could be wrong. It could as well have been moved once the Champion died. Hell, the Champion it was intended for could be the one that died.”
+
+“Any auctions coming up soon?” I ask.
+
+“Not for a week at least. So the only way in is by using some connection to someone very powerful to get a tour of the auction house’s stores, or possibly get into one of the parties they have there, where they often make a show of the items to be auctioned. However, I don’t know if there will be any in this situation. And even if they do, they likely won’t be showing the egg as it’s already been sold.”
+
+“We have two pristine items from the last floor. We could act like we want to auction them off and store them before that.”
+
+Tess nods, “I thought the same and started looking into that.”
+
+“Izzy wanted to sell Biscuit, I heard.”
+
+That causes Tess to smile a little bit, “Silly, isn’t it? As much as she has grown and as much as she can understand people, she is still just a kid, so some of her ideas can be like that. But honestly, just between us, I don’t think it’s that bad of an idea,” her voice turns to a whisper as she says so.
+
+“I suspect Biscuit would treat it as a game and enjoy the experience. Even if he had to stay there for three days, the quest would be completed, and he would get the portal to the next floor.”
+
+“The question is how good of an actor does he make,” she says. “We can sell one of the low pristine items to have money to throw around at our problems. A lot of money means quicker solutions. Then we can sell even more upper arcane items we have or materials. It won’t be that much of a problem. Lastly, we can either try to sell Biscuit or the remaining low pristine item. You said you want to hurry, so we’ll do so. Some low pristine item doesn’t matter in exchange if it makes us safer.”
+
+“Not at all. Then we could throw around some of my blood as well. Say things like we’ve found some kind of fancy new monsters with plenty more to trade. I have a feeling it would be expensive. And if Lily wakes up, she could show off her healing a little bit and see what it causes.”
+
+Tess furrows her brow at that, “Even if it is a new trait, wouldn’t people be able to tell that it’s human blood, not a monster's?”
+
+“And wouldn’t that work even better?” I lean back in my armchair and put my feet up, shoeless and near Lily’s face, as I wiggle my toes next to her nose, “If they find out the blood is mine, they might try to kidnap me and hide me somewhere near the egg. Or we kidnap them in exchange and gather information that way.”
+
+As I finish talking, I ignore the disgusted looks I get from Tess and Maya and continue to move my toes near Lily’s face, “And you, wake up already.”
+
+POV Sophie Martinez
+
+It has been almost a day since Nathaniel returned to the 10th floor.
+
+And it has been one day since, according to witnesses present in the room, Lily woke up after Nathaniel, for some reason, stuck his toes under her nose. To this hour, I regret not being there when it happened. As Dennis described it, Lily opened her eyes and took a deep breath as if surfacing from a long stay underwater. Coincidentally, his socks were in front of her face right around that time.
+
+Dennis says she threw him across the entirety of the room and slammed him against the enchanted glass, which is as thick as my forearm, and yet still managed to crack it.
+
+Nat, likely to protect his dignity, has said it was nothing to worry about, but Maya says it’s possible that he almost died with his hummingbird constitution.
+
+After realizing what had happened, Lily begged him for forgiveness and kept healing him nonstop while saying sorry. Or at least until Nat asked her why the heck she has two hearts now. Apparently, our crazy little healer was inspired by Nat’s Ignition Heart, with the exception that hers transforms bits of her mana into more of that gray mana she has, compresses it, and increases her immediate output of [Disintegration].
+
+Apparently, she’d been working on it, even while she was unconscious.
+
+Since then, things have gone full throttle. The twins joined Min-Jae to support him with his plan to get into the auction house by making himself important and gaining connections with the extremely rich Hadon Trans-Orbital Dockyards. Tess and Maya are currently serving as bodyguards and advisors for Lily, and they went with the "healers are always so goddamn important, so let’s abuse it again" plan.
+
+Meanwhile, I ended up with Izzy, Nathaniel, Noodle, and Biscuit.
+
+All three of us are dressed in expensive clothes. Me and Izzy are in matching yellow dresses, along with a few of the upper-arcane items we have in the form of beautiful jewelry. Nathaniel is wearing a well fitted light gray suit with a pale yellow tie and those silver round glasses he’s taken to wearing.
+
+Izzy carries Biscuit in her arms, and the corgi is the smallest I have ever seen him. A tiny puppy, but without those budding deer antlers. It took us like ten minutes to get Nat to stop cuddling him.
+
+Though the air around Nat is very different now. His posture is straight, and every movement radiates confidence and arrogance, even more so than his usual relaxed state. Even his expression carries some of that, instead of being entirely empty as we walk through one of the publicly accessible hallways of the auction house.
+
+Our contact waits for us at the end of it and bows deeply. "I greet the beautiful ladies and sir..."
+
+"You may call me Elydor," Nathaniel says, barely paying him any attention.
+
+Like me, even this guy must know the name is fake, but he doesn't seem to mind. That’s just what you get when you throw enough money at the problem.
+
+Another man moves closer, bowing to the first man and then to us. But before he can say anything, Nat throws some of this planet’s currency we got for the upper arcane items and one of our low-pristine ones at the man. Coins with holes punched through the center through which a chain has been threaded.
+
+I begin to sweat as I realize the value of them as I recognise the coins, wondering if Nat has no idea, doesn’t care, or if it is all part of his act.
+
+That chain with the coins hits the man straight in his face before Nat says with confident, noble arrogance, "You. Exclude yourself from this situation."

@@ -1,0 +1,219 @@
+---
+id: 4c34ae62-9e44-5648-bcaa-61dec1906426
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22 - Promise is a Promise"
+slug: 0022-chapter-22-promise-is-a-promise
+partOf: hell-horizon-healer
+position: 22
+ownLength: 2058
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3580872/chapter-22-promise-is-a-promise"
+royalRoadId: "3580872"
+---
+
+Jake was already in the corridor before Sloane finished the sentence.
+
+"She was by the machine earlier," Sloane said, keeping pace. "I went to check on her and the other kids but she was gone. The food bag too."
+
+“Other kids?”
+
+“There’s a few of them,” Chloe added as she tried to keep up. “They lost their parents on the day—”
+
+She didn’t have to finish her sentence as Claire ran alongside them. “Sloane and a couple others have been taking care of them, keeping their minds busy to stop thinking about other things.”
+
+Jake glanced at Sloane. He didn’t think she cared that much, though, he often struggled to know what other people were thinking about.
+
+They approached the system machine. The bag of food was on the ground and three men were scanning through it, saying they’d hit the jackpot.
+
+Stupid, Jake thought. I shouldn’t have left it with her. What was I thinking?
+
+Their words, however, made him mad.
+
+“When we said we’d eat her, you should have seen the look on the girl's face—”
+
+“Right—”
+
+Sloane picked up the pace and slammed a kick into the first man. Then, she grabbed hold of the second finger and bent it back with a snap. In one swift motion, she’d already unsheathed her sword and placed it against the third man’s neck.
+
+The second man screamed out in pain, holding his hand.
+
+Her eyes were serious. “The girl,” she said. “Where is she?”
+
+“My finger,” he spat. “You broke it you fucking bitch!”
+
+She pressed her sword tight against the other man’s neck, drawing blood. “That’s not the only thing I’ll break.”
+
+“She went down that way!” The man cried out. “Said something about a bear. She was talking to herself—she’s gone batshit crazy.”
+
+Sloane kept her sword on his throat, pressing it tighter.
+
+“Sloane!” Claire spoke up, holding the swordwoman’s arm. “Don’t—”
+
+Clicking her tongue, Sloane sheathed her sword and started running down the hall. Jake ran past the men, his eyes stopping on them for a second.
+
+They froze, shivering, only for Jake to run past without doing anything.
+
+On the way, they banged on every single door, checking each room for the girl. Jake was becoming increasingly irritated. She was probably hiding somewhere, eating. Or playing. She was fine.
+
+All of this was a waste of energy. A waste of time. He could have been practicing his skills, drawing in more mana. There were thousands of other things he could be doing besides searching for a damned girl.
+
+And yet he ran anyway, following Sloane.
+
+The utility closet was the last room they searched. Jake opened the door, only to blink at the sight he found himself looking at.
+
+Hanna was sitting down with her back against the wall, clapping, cheering.
+
+A beast stood in front of her, twice the size of her. It was a bear cub, fluffy, orange and red and white and… chubby.
+
+For a moment, Jake was confused. Then he noticed something was missing. Her bear… had come to life. The bear spun around, hackles raised as it defended Hanna.
+
+“Hero!” She shouted upon seeing Jake.
+
+He frowned. “I’ve already told you, I’m not a hero. Now explain what your teddy bear is doing… alive.”
+
+“It’s my Trait,” she said, pulling back the bear against its will into a big cuddle. Sorry, little guy. “It’s called—” her eyes hazed over as she opened her system, reminding herself of what it was named. “—Puppeteer! It brought Pom to life!”
+
+Jake met Sloane’s eyes. “Pom?”
+
+“My bear!”
+
+“...Right,” Jake said, rubbing his temples. “And you’re in the utility closet… because?”
+
+“Because Pom wanted to wake up!”
+
+The bear—Pom—noticing that no one was a threat to its master, relaxed, letting itself be an oversized plushy to the girl as she sank her face into its incredibly lush fur.
+
+Jake definitely didn’t want to do the same.
+
+“Well,” Sloane said. “That can’t be good.”
+
+“Tell me about it,” Jake added. “What’s next, the apartment’s going to grow legs and walk away?”
+
+“What? No. I’m talking about that.”
+
+Jake followed her pointing finger to a set of pipes that had been smashed in, water dripping, though it was now only an intermittent drip that was about to stop at any minute.
+
+Claire gasped. “That’s our drinking water,” she said. “It was flowing faster before. That’s what we all relied on when you were away. Why would someone do such a thing”
+
+Jake put his hands in his pockets. “To sew chaos.”
+
+Sloane frowned. “Why would someone do that?”
+
+For a moment, Jake took a breath, then, against the nagging that told him not to inside his head, explained everything he had seen and felt with Chloe. From their first fight when she made a mistake by pushing Arthur down onto his knee. To the moment in the hallway on the upper floor, to the ambush with the goblins, destroying Glenn’s bowstring.
+
+“At first I thought it was just that, a mistake,” Jake explained. “But now I believe she’s doing it on purpose.”
+
+Sloane thought about it for a moment, as if unsure. “Why would she do that?”
+
+Jake shrugged. “Why do people do many things? Greed? Power? Satisfaction? It could be a Trait or Skill, the more people panic, the stronger she gets.”
+
+Claire fiddled with her lower lip. “How do we explain this to the others?”
+
+Jake turned to her. “You believe me?”
+
+“I trust your instincts, Jake.”
+
+He didn’t know how to respond to that.
+
+A scream ripped through the hallway. Jake inwardly groaned. What the hell is happening now?
+
+It turned out that when it rained, it poured.
+
+Someone had been murdered…
+
+***
+
+Edwin lay on top of a thrashing young man, his hands pressed behind him. Because he was struggling so much, Edwin slammed the back of his knife against his skull. It didn’t knock him out completely, but it did the job well enough. The young man groaned, muttering something about how everyone here were demons that needed to be purged.
+
+“Yeah,” Edwin said next to his ear. “You want to see a demon?”
+
+He pressed the blade against the young man’s back.
+
+“Edwin!” Arthur reminded him, his words arriving through his teeth as he glared down at the culprit. “People are watching.”
+
+Edwin looked up and scowled.
+
+Claire and Jake rushed up to the old woman who lay in a puddle of blood. Claire quickly turned her off her back, revealing her face. It was Mrs. Gable, the kind old lady that mostly kept to herself and her cats.
+
+Jake looked at Claire, only for her to shake her head.
+
+For some reason, Jake searched for Chloe, and just as he had expected—she was there, making her way through the crowd. She looked horrified, though Jake could tell from the beating of her heart she wasn’t exactly surprised.
+
+A mountain of a man secured the murderer as Jake and the rest of the neighbors stood a few feet away, discussing what they should do to the young man.
+
+Edwin wanted to hang the man up in the middle of the hall as a warning to the rest. Arthur seemed to have history with the old lady, and though he didn’t voice out his agreement, he didn’t say anything against it, either, which was an answer on its own.
+
+Chloe and Glenn were the voices against, alongside a bunch of other neighbors, though their voices were being drowned out by the opposition.
+
+“I’m… against.”
+
+Everyone turned to see Lyle, propping himself up with his fireman's axe. Claire rushed over to support his weak frame.
+
+Wow. He’s really quite stubborn.
+
+The angriest of the crowd seemed to simmer down seeing Lyle was against it. It seemed like he held some weight amongst the neighbours.
+
+I guess that’s what happens when you sacrifice yourself for them. But how long does that weight last when they get hungrier, thirstier, and when the monsters are snarling at the door?
+
+“We lock him in a room,” Lyle said, his voice breathy. “Cuffed. He will be a prisoner. We will not be judge, jury, and executioner.”
+
+“Great,” Edwin growled. “So we feed him, water him, spend man-power looking after him, and for what? In hopes he changes?”
+
+“That’s what we do,” Lyle didn’t back down. “Because we are human, and laws are put in place for a reason, Edwin. We cannot do as we please. That’s how anarchy begins.”
+
+“Bullshit,” Edwin spat. “You’re making a mistake, boy. His rations,” he pointed his knife at the murderer. “Will come out of your pocket.”
+
+Boy, was Edwin angry.
+
+He was made angrier when Jake told everyone that there was no longer any water.
+
+***
+
+Later that night.
+
+Jake lay in bed, unable to sleep. With a groan, he quietly left his room as night had plunged floor 7 in darkness. He couldn’t sleep. He wanted to see who had bought what in the system vending machine.
+
+He was about to turn the corner when he heard a whisper. He controlled his breathing, reducing his heart rate, stifling the mana—a small trick he had learned in the last few hours that had resulted in a jump of 9% in Meditation.
+
+“What is there to live for?” The whisper spoke.
+
+Jake took out his mobile phone that had long died, but he kept it on his person anyway out of habit, and used it as a mirror to peek around the corner.
+
+It was Chloe’s whisper.
+
+Someone was on the floor, a young man with short brown hair, wearing a yellow shirt that belonged to a fast-food place. He cradled his legs. Jake didn’t recognise him.
+
+“When the Landlord comes again,” Chloe whispered, her hand gently resting on the young man’s knee. “He will demand more blood. You saw what happened to Lyle. It took a single second. A pinch.”
+
+The boy let out a ragged breath, hiding his face in his knees.
+
+“And now that there’s no water here,” she continued, her voice soft and sweet. “We will be forced to go up the floors and face those monsters. What if we die there? What if you don’t die quickly? What if they tear your stomach open in the dark, and you have to lay in that freezing, filthy water for hours while everyone runs away?”
+
+“I can’t do it,” the man choked out. “I’m not a fighter. I can't look at them.”
+
+“I know,” Chloe murmured, sliding her hand up to give his arm a reassuring squeeze. “Nobody expects you to be a hero. The System is cruel. It forces us to become monsters just to survive. But you don't have to change. You can protect your soul from this place.”
+
+She leaned closer.
+
+“There is an exit. A clean one. ” She pointed to the window. “It doesn't have to hurt. If you do it yourself, the System doesn't get to choose. You win. You get to go to sleep, and when you wake up, you’ll be home.”
+
+The man stared down at the rusted spike. The logic was simple and terrifying. It sounded like a mercy.
+
+Jake walked around the corner.
+
+His step was loud. Chloe’s shoulders lurched as she stood. “J… Jake? I was just explaining to him that everything will be okay.”
+
+“Chloe,” he said, his words cold. “I believe I said I’d break your legs if you made a mistake again. This is a big one. On the floor above with Arthur. In the Verdant Expanse. The murder. The water. That was all you… wasn’t it? I was unsure of it at first, but now I’m certain. Your trait has something to do with making people scared.”
+
+She stepped back. “How can you say that? I’ve bled for you. Fought by your side while others stay where it's safe.”
+
+Jake rushed forward. Chloe, who looked panicked, snarled. A blast of air almost brought Jake off his feet, and if not for his current Strength, most likely would have.
+
+In a flash, he summoned Gutter Tooth and snapped the chain around her leg, and pulled.
+
+She shrieked, and as she did so, a knife flew through the air, embedding straight into his shoulder. With a grunt, Jake yanked the knife out, rushed forward, then snapped a kick to her leg.
+
+Crack.
+
+She screamed.

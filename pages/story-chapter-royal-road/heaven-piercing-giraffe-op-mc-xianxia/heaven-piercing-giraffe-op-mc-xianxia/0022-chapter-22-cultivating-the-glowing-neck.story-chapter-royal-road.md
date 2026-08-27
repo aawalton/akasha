@@ -1,0 +1,177 @@
+---
+id: 861d635e-8b1d-5da9-bb12-fadb3840aa4e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22: Cultivating the Glowing Neck"
+slug: 0022-chapter-22-cultivating-the-glowing-neck
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 22
+ownLength: 1923
+unit: words
+publishedAt: 2026-08-01
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3753344/chapter-22-cultivating-the-glowing-neck"
+royalRoadId: "3753344"
+---
+
+Chapter 22: Cultivating the Glowing Neck
+
+The Human Ts from both tribes had merged now, seated cross-legged in a wide ring around me, close enough that I could count individual faces without needing to squint.
+
+They had also built me a shrine.
+
+Everyone helped. The whole structure had gone from bare grass to finished walls in a single day, which struck me as an impressive turnaround for something with no particular practical use, though I supposed that was rather the point of a shrine. The walls were open on all sides, more frame than enclosure, and I was currently seated inside it, not cross-legged like everyone else, because I had specifically asked for a chair.
+
+As a former giraffe, I was not built for sitting cross-legged. My legs had opinions about the position that they expressed, periodically, by going numb in ways that felt distinctly uncooperative. This was, I suspected, at least part of the reason my own cultivation had never gone particularly well even on the island. An entire additional handicap layered on top of the elemental incompatibility no one had bothered mentioning.
+
+Good thing Akasha was not here or she would definitely force me to do it as well.
+
+Buffalo, as it turned out, had not vanished after his defeat the way I'd half expected. He remained as the one person who actually understood the mechanics of ground-level cultivation: cross-legged posture, how to breath air properly, how to close your eyes without falling asleep — which was the reason everyone currently sitting around me was arranged the exact same way.
+
+Beside me sat the spear-user. I had renamed him Hyena, on account of the particular high, unsettling laugh he produced at moments that did not obviously call for laughter.
+
+I had face-slapped him a second time, deliberately, on the opposite cheek to cancel the follower effect from the first slap. He was still here. Still tailing me with complete devotion.
+
+I suspected that I might have hit the wrong cheek.
+
+On my other side sat White, who had insisted on the position with a firmness that brooked no discussion.
+
+"I want to be near the source," she'd said, settling in without waiting for permission, glasses catching the shrine's dappled light.
+
+"Now," Buffalo said, still cross-legged, eyes closed, hands resting palm-up on his knees, "let us feel the spirit energy provided to us by the Messiah."
+
+Fireflies began drifting away from my scarf.
+
+Small, golden, weightless. I hadn't known I was producing them until this exact moment, and I watched with mild professional interest as they departed in a steady stream toward one half of the circle specifically: the Human Ts with giraffe markings. The other half, the Human Ts with zebra markings, looked at each other in open confusion, clearly wondering why the fireflies had decided to be selective about which worshippers deserved spirit energy.
+
+I was equally confused. No one had informed me I had become a firefly hive.
+
+"Concentrate," Buffalo said, voice low and instructive. "Believe in the neck of our Messiah."
+
+I found this phrase strange on reflection. What, precisely, had my neck done to earn belief? It hadn't performed any particular feat lately beyond existing and occasionally glowing. But I decided not to raise the objection, mostly because I was being pampered, and pampering seemed like the sort of thing one didn't interrupt with unnecessary questions.
+
+Arranged in front of me were offerings. Several kinds of leaves, laid out with obvious care on wide, flat leaves that served as plates of their own.
+
+I picked one up and started eating.
+
+After roughly half a day of sitting, eating, occasionally producing fireflies without meaning to, the assembled Human Ts finally decided to call it off.
+
+"We will continue again tomorrow," Buffalo announced, rising with some effort, knees cracking audibly.
+
+I stood corrected. Apparently this was not a one-time ceremony but a schedule.
+
+"Didn't expect I'd gain more spirit energy at a lower altitude than I ever did up there," White said beside me, flexing one hand experimentally, watching a faint residual shimmer fade from her fingertips.
+
+Hyena dropped into a bow in front of me before I'd fully stood up myself. "Boss. What would you like to do next?"
+
+"He really likes you, doesn't he." White leaned toward my ear, not troubling to lower her voice much.
+
+"Leaves," I said, which seemed like the only answer worth giving.
+
+Hyena straightened immediately. "Okay, boss. I'll go find your favorite acacia leaves." And then he was gone, jogging off toward the treeline with an enthusiasm that seemed disproportionate to the task.
+
+"That is one dedicated follower you've got there." White watched him disappear into the grass.
+
+I walked a slow circuit around the camp afterward, watching everyone else return to their work: hauling water, mending nets, someone arguing with a goat that had apparently decided a fence was more of a suggestion than a rule. I had been exempted from all of it since the shrine went up, which I found convenient.
+
+A Human T waved at me from a distance.
+
+I waved back. I had decided this was functionally the same as nodding.
+
+Then a Human T came sprinting into the clearing, breathless, one arm already raised and pointing back the way he'd come.
+
+"The Jade tribe is here!”
+
+***
+
+The tutors had been very clear on the subject of jade. Jade was a stone, colored green — and, apparently, also a compliment. They said that sometimes a woman was called jade something, for reasons the tutors had struggled to fully explain beyond it's just what people say.
+
+I had asked, at the time, whether this meant the woman in question was herself green.
+
+The answer had been no.
+
+I had decided, after that, not to pursue the matter further. Human culture contained a great associations that did not survive close inspection, and I had learned it was generally more efficient to simply accept them and move on.
+
+The tribe standing at the treeline now, at least, gave the phrase justice. They were literally green.
+
+There were perhaps thirty of them, though the count was hard to keep steady. They moved close together, in tight, overlapping clusters, the way birds moved when they'd learned that scattering got you killed faster than staying bunched. Nearly all women. Their markings ran in a deep, mineral green rather than the black the Human Ts wore, patterned not in blocks or stripes but in long, deliberate lines that curved along collarbones and down forearms. Their robes were finer than anything I'd seen on either Zebra's people or Buffalo's: pale, unstained fabric, the kind that suggested they hadn't spent their lives hauling water or wrestling lions, at least not until very recently.
+
+Several of them were bleeding, in various states of bandaged or unbandaged. One woman near the back had an arm in a sling made from what looked like a torn sleeve. Nobody was crying. Everybody looked like they had already finished crying somewhere between last night and now, and had simply run out.
+
+The handful of men among them stood at the group's edges, unmarked, weighed down with packs and bundles nearly as tall as they were, backs bent under the load without complaint. Apparently beauty, status, or whatever "jade" actually denoted here, extended in one direction only, and the men existed at its margins as labor rather than ornament.
+
+I decided to call the whole group Jade, and left it at that.
+
+A Human T behind me waved, cheerful and entirely oblivious to the state of the group he was waving at.
+
+One of the Jade women, around twenty, glared back at him.
+
+The Human Ts beside him laughed, loud enough that a couple of them had to lean on each other.
+
+"You seriously picked this time to flirt?"
+
+"Dude, just accept you will be single for life."
+
+I noted that glaring was apparently also a valid response to a wave. I filed it away next to nodding, next to smiling, next to the growing list of gestures that seemed to mean different things depending entirely on who was doing them and why.
+
+Human E met the Jades at the treeline, stick planted in the dirt, spine straight despite the hour.
+
+"Greetings. For what reason have you come to our tribe?"
+
+An older woman stepped forward from among them. Clearly the one others deferred to, though her robe was no less torn than anyone else's, her green markings faded almost silver with age at the edges. She held herself the way Human E did: tired, but not bent.
+
+"Our settlement was eradicated last night. By an army of black creatures."
+
+Human E's gaze flicked toward Buffalo.
+
+He stepped forward without needing to be asked. "They must be creatures of the abyss. Do you have an estimate of their numbers?"
+
+The old woman shook her head, slow, hollow. "There was no time to count. One moment our settlement existed. The next, it didn't."
+
+A ripple of whispering moved through the assembled Human Ts, low and uneasy, spreading outward.
+
+"Show respect for our Messiah." Buffalo's voice cut through the murmur like a blade through still water. "With her here, there is nothing left to fear."
+
+The tension in the crowd loosened almost immediately, faces shifting from alarm into something closer to relief, several of the Human Ts glancing toward me.
+
+Wait.
+
+Did that mean I was now responsible for handling an army of shapeless black creatures?
+
+I was still working through the full weight of that particular realization when Human E turned at me. "So. Should we accept them?"
+
+"How would I know?" I asked and immediately regretted how that sounded the moment it left my mouth.
+
+Buffalo drew his sword in one smooth motion and leveled it at the Jade delegation.
+
+"The Messiah has doubts." His voice had gone hard, decisive, entirely too pleased with itself. "That means you lot cannot be trusted."
+
+"Wait, what?" That was not remotely what I had meant, and I had no idea how "I don't know" had translated itself into "these people are liars" by the time it reached Buffalo's ears.
+
+Beside me, White burst out laughing.
+
+System, is the Translation skill not working correctly?
+
+[It's working perfectly. Some humans are just like that.]
+
+The Jade tribe took a collective step back, close ranks tightening further, several hands reaching instinctively for whoever stood nearest.
+
+"Wait, please. We're not here to cause harm."
+
+"We just want shelter. For our children, if nothing else."
+
+"There must be some misunderstanding here."
+
+"There is no misunderstanding." Buffalo's voice cut through. "The Messiah herself has—"
+
+Human E's stick came down across his shoulder before he could finish translating whatever new nonsense he'd invented on my behalf.
+
+"What are you doing?!" He staggered, one hand flying up to rub the spot.
+
+Human E did not stop. A second strike landed, then a third. "Can't you see you're giving your Messiah a headache?"
+
+"What?" He turned. Whatever he found in my expression made his eyes go wide.
+
+He dropped instantly, forehead pressed flat against the dirt, sword abandoned entirely at his side. "Did I misinterpret your intentions?"
+
+I opened my mouth to answer, then closed it again, because I genuinely did not know where to begin correcting whatever version of events was currently living inside his head.
+
+Beside me, White's laughter climbed another register. Loud enough now that a few of the Jade tribe's children peered out from behind their mothers' legs to see what, exactly, was so funny about any of this.

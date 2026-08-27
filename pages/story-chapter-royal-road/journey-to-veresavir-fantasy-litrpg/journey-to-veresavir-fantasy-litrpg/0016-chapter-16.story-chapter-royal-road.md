@@ -1,0 +1,203 @@
+---
+id: 3d62973e-c06f-5fb9-af17-37f9c3284c3b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16"
+slug: 0016-chapter-16
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 16
+ownLength: 3241
+unit: words
+publishedAt: 2025-10-27
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2709421/chapter-16"
+royalRoadId: "2709421"
+---
+
+Chapter 16
+
+Veron woke up to a shout. He blinked his eyes, tired and confused.
+
+The sound of pouring rain came in from outside. It was cold and dark, Veron pulling the blankets closer and murmuring to himself. Then he heard a strange howl, followed by a shout.
+
+“Up and out! We're under attack!” Reka’s voice, and barely audible against the rain.
+
+The camp. I left Eyra, and joined Reymond’s caravan.
+
+Under attack?
+
+He rubbed his eyes and then shot up. His neck felt stiff and hurt. His arms and legs felt heavy but then he realized he still had much of his armor on. The rest was somewhere in the wagon next to him. A warm light appeared in the wagon, a lantern on the floor next to Silvie. She fiddled with it and the light grew slightly stronger. Enough to illuminate the inside space. She had been sleeping too, now quietly cursing to herself as she started slipping into her chain mail.
+
+With the caravan. I’m with the caravan. It's night, and we're under attack.
+
+He would have probably been confused for a little longer if he hadn't seen Silvie’s actions. He found his chest and back piece and put them in place. Fiddling with the straps in the dim light with his tired brain proved difficult, so he decided to forego the step and instead connect to the rock itself and simply merge the two pieces together. The simple action didn't take a massive chunk of his Focus anymore and it would hold better anyway. Most importantly, it was faster.
+
+He had signed up to protect the caravan and to fight alongside the adventurers. So that’s what he would do.
+
+He put on his helmet, strapped on his shield, and grabbed his spear.
+
+Steady now.
+
+He stood up and went to open the canvas flap when Silvie called out.
+
+“Take the light, I'll be right behind you,” she said, sliding in her belt with the two sword scabbards and then putting on her helmet.
+
+Veron pulled up his hood, grabbed the lantern with his shield hand and then stepped outside into the rain. He landed in wet mud, barely able to see a few meters ahead of himself. It was cold and smelled of earth.
+
+He was ready for a fight but nothing came for him as he moved the lantern around to try and see. He could feel a strange strain in the air around him, as if something was pushing against an invisible tension. He walked to the other wagon when a howl made him look to the left. He could barely make out a few large shapes covered in dark fur pushing towards them from the thicket beyond. The invisible tension strained and then lessened as the creatures moved away, more of them pushing from another angle. He couldn’t make out any details.
+
+Something is holding them back. The magic that Reka set up? Likely.
+
+He found her standing at the back of the other wagon, the warm glow of a lantern barely letting him see her. She helped Hayden into his armor with quick but controlled movements. A third lantern joined his as Reymond walked around and lit more of them with what looked like a touch. Two of them on the carriage and one each on the wagons. The warm glow failed to truly push away the darkness but at least now Veron could orient himself within their camp.
+
+The tension increased again and Veron moved over to Reka, watching the close tree line and protecting her back. The rain was pouring down on them. Distant thunder rolled through the vicinity. He felt the hair on his neck stand up.
+
+“Engur! At least five of them! We should have another minute or two until they break through!” Reka shouted.
+
+Veron didn't know what to do with the information so he waited, Silvie joining his side a moment later and taking the lantern off him. She walked ahead of him, past the wagons and towards the darkness and trees, looking around quickly and then choosing a spot where she set down the light. A few meters now stood between her and the monsters, wet puddles all around.
+
+Hayden was done as well, walking past Veron with his shield and war hammer in hand, the armored man joining Silvie on the small open space between their wagons and the forest.
+
+Veron walked up and past the now kneeling form of Silvie, a pale blue light flaring up where she moved a stick in the mud. A symbol. He nearly stumbled when he felt another spell snap into place, a dark figure of blood and fur materializing slowly from the mud. Black bones covered with muscle and then fur, a wolf larger than Silvie’s kneeling form appearing before her, pale and slightly glowing blue eyes staring out into the forest.
+
+It was on their side, walking ahead of him and ahead of Hayden before it stopped, entirely silent. Veron stepped to the right of the large armored man, now hearing the growls and barks of the creatures ahead. Another one pushed into the invisible spell. Lightning snapped into the forest, and for a split second, Veron could see the furred creatures. Tall as men, thin and malnourished, with arms so long they nearly reached the puddles on the forest floor. Their fur was patchy, their skin torn. And there was something in their eyes, something strange and ravenous. He could feel himself tense up. Why was he here? Why was he facing these monsters in the dark? He took a step back and then another. He could see nothing but the eyes of the creature, even though night had returned.
+
+Thunder rolled through the vicinity.
+
+“Warriors!” The booming voice of Hayden fought through the growls and barks, and through the sound of pouring rain. “Do not falter in the face of chaos!” Power surged with his words, as if the declaration itself poured weight into existence. “Stand and fight!”
+
+The tightness in his chest lessened and Veron realized his breathing was short and shallow. He steadied himself, two more wolf-like beings joining the one standing before them, far more canine than the humanoid horrors they were facing.
+
+“Prepare!” Reka shouted from behind.
+
+The tension built again, the monstrous creatures pushing through an invisible force.
+
+Veron remembered his stances. He raised his shield and spear, his breathing slow and steady. And then the spell snapped, growls reaching his ears as several large shapes rushed towards them, crashing into the three charging wolves, flesh torn and bodies thrown aside.
+
+One of the creatures moved past the wolves and charged him. Ethereal chains snapped into reality and halted the monster less than two meters in front of him. It reeled with the sudden halt, arms slamming forward and neck strained. A dark red spear flashed past from behind, skewering through the chest of the Engur. It fell to the mud lifeless and unmoving, the chains gone and the spear falling to the ground as thick liquid.
+
+Two more of them reached Hayden, one he pushed away with his shield and the other he struck with his hammer.
+
+Veron moved closer with steps that dug into the wet ground, then thrust his spear at the slightly stunned creature, cutting into its side. It snarled and charged him instead but he was ready for that, holding his spear with both hands and meeting the creature’s momentum. He pierced it through its stomach, its left arm hitting the shield strapped to his arm and its right striking his shoulder, claws scraping past the stone that protected him.
+
+He kicked the injured creature away just in time to see another monster coming for him. He raised his shield in time to stop the bite coming for his neck but its full weight and momentum crashed into him, the both of them going down in a tangle of stone, fur, and claws. He hit the ground with the wet sound of splashing mud, his vision obscured, he pulled up his shield to try and keep the creature off him. He saw it come in with another bite when a materializing chain caught around its neck, stopping it for a moment as it flailed with its arms to get past his armor. Veron let go of his spear and looked for the stone knife in the right part of his chest armor. He found it with the second grab and stabbed it up and through the neck of the creature. He grabbed the fur on its head and pulled it down, the chain vanishing as he rolled himself and the monster in the mud, ending up on top of it.
+
+He met its snarling bite with a strike of his shield, grabbed its head again, and stabbed his stone dagger through the side of its skull. It stopped moving, its long arms falling into the mud as Veron scrambled up with rasped breaths. He wiped at his right eye to get rid of the dirt and connected to the earth around him to find his spear. Two of the wolves remained, dragging one of the snarling Engur away from the fight.
+
+He shivered, pulling his spear out of the mud and looking around in the dark. The lantern had been thrown on its side. A glint of light reflected off of Hayden's hammer right before it met the head of a charging Engur, the dull impact and sound of shattered bone audible even in the rain.
+
+Two of the creatures were still standing, stalking around them for a moment before they charged. One at Hayden and the other one at Silvie.
+
+Veron rushed the second one, seeing a spear of blood flow out of Silvie’s arm, right before he slammed into the monster with his shield raised. It lost its balance and fell, scrambling up when the spear of blood rushed out and snapped its head backwards, killing it instantly.
+
+His lungs burned as he looked for another monster to face. Reka had joined Hayden, the two of them circling the Engur, Reka slicing past its knee with her sword, forcing it forward where Hayden slammed his hammer into its chest. The monster struck his head with a wild flailing strike in the same moment, pushing him a step back before Reka punched her sword through its head and ended the fight.
+
+“One more!” Silvie called out from next to him before she rushed to the right, the last Engur throwing aside the only wolf that remained and charged forward. Veron moved to the left to flank it with Silvie, the creature meeting his eyes for a moment, seemingly undecided who to go for when Silvie’s first blade sliced through its right arm, the limb falling with a wet sound, the creature howling. Her second sword cut into its back and it staggered forward. Right towards Veron, its maw open as it tried to charge.
+
+Veron aimed and thrust his spear into the chest of the monster, rain pouring down onto his helmet, rolling down his spear, and dripping from the fur of the twitching Engur, its corpse sliding off of his weapon and falling to the wet earth.
+
+It was cold, the lantern light shining on from a few meters away. Veron breathed fast, and then slower.
+
+The fight was over.
+
+He set the butt of his spear onto the ground to stabilize himself, barely managing to hold the weight of his shield.
+
+“Regroup! On me!” Reka called out.
+
+It took him a moment to move but he joined their side with Silvie.
+
+The woman sheathed one of her two swords and grabbed his shoulder. “Well fought.”
+
+“Injuries?” Reka called out. She still held her shield and spear. Now that they were all gathered, Veron could tell the others were barely even winded. The Lantern provided some visibility but not much.
+
+“Only the big guy,” Silvie said.
+
+“Keep an eye out, we're moving back to the wagon,” Reka said.
+
+Reymond was waiting for them, holding up one of the lanterns. In his other hand, he held a vicious looking halberd.
+
+“Hayden, sit down. The others, keep us protected,” Reka said.
+
+Veron’s breathing slowly calmed down but he still kept his weight on his spear.
+
+“Went into the mud. And you got back up,” Reymond said as he shined the lantern light into his face. “Just checking for injuries. Can't raise your arm because of exhaustion?”
+
+“Yeah,” Veron answered, raising his shield arm slightly to make sure he was right. “There's no pain.”
+
+“Good. Good armor. Always said we should get more Earth Paths into the guard.” He moved on to check Silvie.
+
+“By the grace of the Lady, mend my wounds and injuries,” Hayden said.
+
+Veron glanced behind himself and saw the man had taken off his helmet, a hand to the side of his head as a slight white glow emanated from his palm.
+
+Reka was checking Hayden’s armor and then seemed to relax. “Probably no more Engur in the area. The innkeep was right, there has to be a dungeon branch somewhere close. Catch your breath, then we get the bodies. Warm up after I reset the ward.”
+
+“Only chaos beasts?” Reymond asked.
+
+“Nothing else,” Reka answered. “Let’s hope the rain keeps other predators away.”
+
+A few minutes later, she led them back to the part of the clearing where they had fought, the group gathering up the bodies. The rain had weakened to a drizzle.
+
+“I got one with a spear, and the one Veron sent sprawling,” Silvie said and glanced at him. “You killed the one whose arm I took. One for me and one for you?”
+
+We're splitting up the essence.
+
+“Sounds good,” Veron said.
+
+“You get the one you stabbed on the ground,” Reka said.
+
+“I might not have managed without the chain,” Veron said.
+
+“You did most of the work. Take it,” Reka said.
+
+Veron gave her a nod and pulled two of the dead aside. He wondered for a moment why they were doing this now instead of in the morning but the essence they would gain now would help them recover. And there was something else. Both with the snake creature he had killed, and with the Navorok, he could almost feel the essence that remained. It felt unfinished, to leave them here like this, and he knew instinctively that they would attract others if left like this.
+
+Hayden walked over with another body and dropped it next to his two. “You stabbed this one. I don't claim it.”
+
+Veron saw that its head was caved in. He nodded to the man. Hayden must have finished it off but he got the feeling that there was no arguing with the man. He saw Hayden kneel down into the mud next to one of the dead before he lowered his head. Silvie on the other hand walked around one of the bodies, drawing into the mud with a stick. Blue glowing symbols lit up for a moment. The rain felt louder and more present, a shiver going through him as he watched the magical runes. And then the feeling passed again.
+
+It seemed like Reka stood guard, gesturing for him to go on.
+
+He focused on his own, kneeling down next to the first Engur he had killed. He removed the dagger still stuck in its head and then he closed its eyes. It didn't feel right yet, so he crossed its arms on its chest and carried it to the tree line, setting it down onto the forest floor beyond. Going down on one knee, he touched its brow. “We fought, and I survived. May you find rest.”
+
+He closed his eyes and for a moment he smelled the wet forest and the earth below. He felt the life all around him, his breath a part of something greater. He smiled to himself and opened his eyes.
+
+The other two followed in a similar vein, and despite the wet and cold that was seeping into his bones, he felt both calmer and warmer when he had returned them to the elements.
+
+They were quiet after, Reka setting up a new spell that would protect them once more while the others waited, sheltered from the rain by the canvas of the first wagon.
+
+Veron glanced over at the carriage, wondering if the person inside had woken up too, and he wondered what they thought. He had a lot of things on his mind. The fight, he realized, was not one of the major things. It had been such a quick thing. Monsters here to kill them, and they had fought to kill the monsters instead. He had done what he could, what he had trained to do with Ivera, and what he had already done a few times in the wilderness. He was glad to have a team to work with. A team that he could trust and one that communicated well.
+
+He hoped they would trust him a little more after this fight too.
+
+There were so many things he had seen that he wanted to ask about but at the same time, he felt the cold and exhaustion seeping in. He hoped they could sleep a little longer. And he hoped this night wouldn't bring another battle.
+
+Reka returned, opening a long sleeve on her belt before she took out a dark wand covered in golden runes. She casually held it out towards the forest before the same tension Veron had felt before started to build and then snapped into place.
+
+The sticks I saw. That’s what they were?
+
+Actual wands?
+
+Silvie relaxed next to him and yawned, stretching her arms. “Of course it had to fucking rain too. Well, I'm going to get on a fresh set of clothes.” She walked over to the wagon in the back.
+
+“Well fought everyone,” Reka said. “I think that about ends my shift too. Do you think you're ready to take over, Hayden?” She sounded a little more chipper than earlier. Veron wondered why. Maybe she was just looking forward to catching more sleep.
+
+Hayden grunted affirmingly.
+
+Veron left for the wagon too. Reymond gave him a nod as he walked past, the merchant snuffing out the lanterns now that the battle was over. With a touch, Veron noted.
+
+He waited in front of the entry. “Do you need longer?” he called out to Silvie.
+
+“It's raining, come in.”
+
+He went inside and glanced over to see Silvie in a state of undress. She got on a fresh shirt and then pants. “We’re not there yet, Veron. Look away.”
+
+He felt too tired to come up with something witty and nodded, going to his own pack and getting out his only other set of clothes. Another fight like this and I’ll be wearing wet and filthy stuff.
+
+“That was something,” he murmured.
+
+“Wonderful first night for your journey, I agree. I’m cold, let’s lie back to back. No funny ideas, I don’t plan to get pregnant anytime soon, so you better don’t fuck around or I’ll cut it off.”
+
+“I won’t,” he said, drying himself as best he could.
+
+She lay down, covering herself with her blankets. “Turn off the light when you’re done.”
+
+Veron tiredly looked at the lantern as he got on his other set of clothes. I don’t know how to do that.

@@ -1,0 +1,241 @@
+---
+id: 1900b638-ccea-56a7-8c5f-0f0435949344
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41 - Anvil"
+slug: 0041-chapter-41-anvil
+partOf: hell-horizon-healer
+position: 41
+ownLength: 1694
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3835660/chapter-41-anvil"
+royalRoadId: "3835660"
+---
+
+Edwin understood violence. How could he not? Every time he blinked, shut his eyes, or lay his head on the pillow in the middle of the night, tossing and turning, images of his past replayed like a branding on his mind.
+
+A long torment.
+
+Flashes of fire.
+
+The thum thum thum of the incoming helo that brought with it death and destruction, wiping out hundreds of enemy combatants in the span of a single second. The worlds most expensive light show. He cheered at the time like they’d just kicked a ball into a goal. One moment he was being shot at, the next… they were gone, transformed into a pink mist.
+
+He supposed they all did; after all, it was better to view it as some sort of game than to suffer the consequences of a fractured mind.
+
+He thought he’d be different.
+
+Thought he’d come out of it all on the other side telling glorious stories like the soldiers who wrote books and acted in plays and sat in interviews, retelling their horror stories with a brandishing of paint and sparkles.
+
+All he had were lifetime scars and a low quality metal badge to pin on his chest to show for it.
+
+He blinked in the dark, watching as Jake tormented the widow and tortured her like she was his plaything with that blank expression he always wore. Like he wasn’t fingers deep in her thigh.
+
+He’s a monster, he thought. It was the same thought he had voiced a few times now as he watched Jake’s ferocity outpace any hunter he’d ever seen before.
+
+The boy wasn’t afraid to hurt his opponents, and that went for damaging himself as well.
+
+What was worse, was that tenacity of his. Paired together with how fast he was growing, he was quickly becoming a weapon.
+
+And a weapon was capable of many things when pointed in the right direction.
+
+What if he aims it at me?
+
+That question festered for a while as he watched Jake experiment on Susan. The woman should have died. Hell, she should have died a long time ago. Yet she stubbornly clung to life… for what? She’d lost her kids. Her husband.
+
+What did she have to live for?
+
+Then she died.
+
+Her heart stopped.
+
+Edwin knew it. Chloe the same, and the same went for everyone else.
+
+Jake refused to stop, but what he should have respected as a refusal to see her gone—he saw none of that. Instead, it was as if was a blacksmith and he’d suddenly lost his anvil. There was no sadness, nor grief, just an annoyance that Susan dared die before he could level up.
+
+Against all odds, he saved her.
+
+That should have been that, but Jake wasn’t satisfied. He retreated into himself as he always did, always trying to squeeze out every single trace amount of potential out of himself
+
+Then the air swelled. A flash of golden light blinded him, lit the world up golden.
+
+When he could eventually see again, Jake’s entire arm was burnt black. Edwin grimaced; a sight he’d hoped to never seen again, like napalm on flesh.
+
+Like a wild animal, he refused to stop. He kept on going. Kept on trying.
+
+And in the end, he succeeded.
+
+He restored his arm.
+
+Somehow, someway, he had just unlocked a new Skill.
+
+Edwin’s hand twitched, finger curling like he had a gun in his hand.
+
+He went back to that question that drummed through his head, bringing him back to the days in the desert when it was him or the enemy.
+
+Jake didn’t kill him on that bridge, but he was no fool; the look in his eyes told Edwin everything he needed to know.
+
+Jake was ready to kill.
+
+When was the only remaining question.
+
+***
+
+The blinding light faded, leaving behind the heavy scent of ozone and the stunned silence of the room.
+
+Jake looked down at his right arm. The charred, blackened flesh was entirely gone. Smooth, unblemished skin covered his forearm, his bones perfectly set and completely free of pain.
+
+A massive, golden system window materialized in the center of his vision.
+
+Minor Heal (Mastery: 94.9%)
+
+[Skill Gained: Flash Heal (Active)]
+
+Effect: Consumes 75% of your total mana container to instantly repair all physical trauma throughout the body once a day. This effect applies strictly to physical wounds; it cannot mend soul damage, neutralize poisons, or cure magical ailments.
+
+Jake fell back flush against the cold wall. His shirt was slick with sweat.
+
+I did it.
+
+He swiped his sleeve, or what was left of it, across his perspiring forehead.
+
+I did it.
+
+His lips curled into a faint smile before glancing over at Susan. She was sitting up now. Their eyes caught. She nodded at him, matching his smile.
+
+“Now that you’re all done,” Sloane slid down the wall, sitting beside him. “Care to explain what the hell just happened?”
+
+“Jake!” Hanna rushed forwards, Pom in hand. Jake nodded at her.
+
+Explain? He was pretty sure if he did that, she wouldn’t understand anyway. He lept it simple. “I learned a skill,” he said, then debated on whether or not to keep it a secret or not. He decided on the truth. “A more powerful heal.”
+
+“That’s great,” Arthur said. Sloane glared at him, so he shrunk back.
+
+Edwin pushed himself off the wall he was leaning on. “How powerful are we talking?”
+
+Jake shrugged. “Enough to bring someone back from the brink of death.”
+
+“How—”
+
+“If you’re going to ask me how I did it,” Jake said. “Don’t. My explanation won’t help. You just need to be creative with your skills and think outside the box.”
+
+“Outside the box,” Edwin said. “Eh?”
+
+Lyle formed a ball of fire in his hand and looked at it properly for the first time. After a moment, he closed his palm, extinguishing the flame. He stood up. “Those monsters have quietened down ever since morning arrived.”
+
+Jake stretched his neck. “They have?”
+
+“With the amount of times you go inward,” Glenn said. “I’m surprised you weren’t a monk in your last life. Yes, those… demons go to sleep during the day. They also seem to have short-term memory. They didn’t come back here the second night, and we were sure to be quiet.”
+
+“Food?”
+
+“Running out,” said Edwin, pulling open his bag. “A day’s worth at most.”
+
+“So we need to leave.”
+
+Edwin nodded. “And that brings us to our current predicament; we don’t know if those things are just playing dead.”
+
+Jake followed. “Or if they’re waiting for us to leave.”
+
+Sloane munched on a cracker. “Bingo. So what will it be? Brave the unknown, or stay in here and hope for a rescue?”
+
+Miller spoke up. “If there is anyone out there, that is.”
+
+Jake stood. “Only one way to find out.”
+
+He stretched himself, using Tension to feel his muscles. It was time to see what progress looked like.
+
+Skills:
+
+Minor Heal Lvl 2 (Mastery: 94.9%)
+
+Tension Lvl 2 (Mastery: 44.4%)
+
+Pain Resistance (Mastery: 35.7%)
+
+Meditation Lvl 2 (Mastery: 46.2%)
+
+Mana Control (Mastery: 35.1%)Flash Heal (Mastery: 2.4%)
+
+Stats:
+
+Strength: 31 (+9)
+
+Vitality: 23 (+9)
+
+Dexterity: 7
+
+Perception: 36
+
+Mana: 18 (+13)
+
+Gear:
+
+Gutter-Tooth (+5 Str, +5 Vit, +3 Mana)
+
+Pendant of Might (+4 Str, +4 Vit)Mana Nucleus [Consumed] (+10 Mana)
+
+Progress looked good, though he was a little confused about the Skills; or rather, Flash Heal specifically. Why did it become its own ability, rather than merging with Minor Heal, like he thought it would do?
+
+Was it because Flash Heal utilised his perception, rather than the Skill itself?
+
+He scratched his head. He wasn’t sure.
+
+It seemed like there was a rule hidden there that he didn’t understand.
+
+I’ll find out eventually.
+
+“Ready?” Edwin asked everyone.
+
+Jake nodded.
+
+“When I get this door open with Jake,” said Edwin, “Arthur will need to be in the front. Can you do it, Arthur?”
+
+“I—”
+
+Edwin’s gaze hardened. “I wasn’t asking,” he said, hand on his knife. “You take the lead and that’s that. No hesitation. No debate. Or my knife will find your spine.”
+
+“You can’t—”
+
+“You think anyone hear would stop me?”
+
+Arthur glanced around the room, only to come to the sharp, cold conclusion—no, they wouldn’t.
+
+Well, Lyle might. Oh who am I kidding—he definitely would. Mr. Hero.
+
+Arthur swallowed his grievances and simply nodded hard. He stepped out in front and tapped the heavy kiteshield against the floor. Strong mana coated the surface.
+
+Jake noticed it was denser than before.
+
+It seemed he’d been busy.
+
+Anything to protect yourself, huh?
+
+Jake and Edwin got the door open, the massive slab of stone grinding open. Arthur inched forwards. It was light. Edwin had said it had only been an hour since the distant screams of the demons had stopped.
+
+They all followed, the skyline washed over in orange and flecks of green.
+
+Arthur flinched, letting a yelp escape from his throat.
+
+One of the beasts stood not far from them, hands over eyes.
+
+“It really is asleep,” said Sloane. “Just what are they?”
+
+“See no evil,” Lyle muttered.
+
+Sloane turned. “What?”
+
+“See no evil,” he repeated, hand tight on his axe. “You know, the proverb: see no evil, speak no evil, hear no evil. I can’t remember the exact details, but it was something to do with negatively describing someone that turned a blind eye to wrongdoing, refusing to get involved, or pretending a problem doesn’t exist. I remember my dad saying that I could be like the monkeys, or I could be… me.”
+
+“Let me guess,” Sloane said. “Your dad was also a firefighter?”
+
+Lyle nodded. “He was.”
+
+“See no evil Monks,” Jake said.
+
+“Why do you have to name everything?” Sloane nudged him. “It makes it weird when we have to kill them.”
+
+“Would you have preferred me to name it John?”
+
+“Wow,” Sloane stopped. “Was that a joke? That was a joke, wasn’t it?”
+
+“Enough,” Edwin cut through the humour. “We don’t have long to reach that fire,” he said. “And I counted that day time is at least three hours shorter than normal here. Let’s go.”

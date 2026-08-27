@@ -1,0 +1,237 @@
+---
+id: dfa33660-2ab5-59dd-b708-2209f6b5aa8f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6"
+slug: 0006-chapter-6
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 6
+ownLength: 3216
+unit: words
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2703939/chapter-6"
+royalRoadId: "2703939"
+---
+
+Chapter 6
+
+The spear came out at around the height of Veron’s chest. A little above one and a half meters and with a similar width as the pitchfork. Anything longer would’ve been too heavy for him if he planned to use it in one hand. He had considered how the tip should look and finally decided on a blade that resembled a simple leaf. He didn't have the fine control to make it particularly sharp yet but it certainly worked as a point.
+
+It was rough. It was brittle. It was heavy. And it was his.
+
+His first weapon that he had created with his own magic. Veron had never cared a whole lot about material possessions, but it was a little frightening how much he cared about this spear. He felt it would be devastating when it inevitably broke after a few strikes against something reasonably resistant.
+
+And yet he knew that even if it broke apart into a dozen pieces, he could just mold it anew. At the very least, he refused to give it a name.
+
+The next day, Ivera followed through on her promise. She showed him a few basic stances and then had him try. She corrected and had him try again, then again, and again. Already, the stone spear felt heavy in his right hand, but he pushed himself to focus and to put to memory everything that she showed him. In his left hand, he held the wooden lid of a barrel, a simple handle added with stone to make it a somewhat workable shield.
+
+Done with the stances and the simple footwork, they moved on to thrusts.
+
+He would have thought it a simple motion and he supposed that it was, but it still surprised him how many corrections Ivera gave him. He felt sluggish by the end of it, sweat covered and panting. She told him to practice the drills every day and left.
+
+Veron wiped the sweat from his brow, setting down the butt of his spear as he caught his breath. I wouldn't last five minutes against a monster out there.
+
+He sat down and took a break for a few minutes, then got up again. Another go.
+
+The next week came and went, Veron doing his drills every day and his workout every second day. It wasn’t all that difficult to stay motivated. The work was a tangible way to learn more about adventuring, and to improve his magic. Besides, there were few distractions here.
+
+Now that he had his spear, he had started experimenting with armor. Getting to see Ivera’s plate set was helpful but also made it clear that he didn't have it in him yet to create something as intricate as that.
+
+Or if he could, it would take months. Instead, he opted to focus on individual pieces and certainly of less intricate design.
+
+The first thing he tried were bracers, shaping and molding rock until he got a result that felt right. Neither too bulky nor too thin and brittle.
+
+He could use a few old pieces of leather to cut straps. The mechanisms to hold them, he shaped from rock as well and added them to the bracers. It all felt a little flimsy at first but with his ability to reshape the rock, he soon had something that fit and protected his arms without falling off or breaking immediately.
+
+Even after one round of drills, he could feel the added weight, realizing that he had to get a whole lot stronger to use a full set of actual rock armor.
+
+And still, he couldn’t wipe the smile off his face as he trained. There was something tremendously satisfying about making one's own weapon and armor. And these were just the first prototypes. He would iterate and update his creations as he saw fit.
+
+Next, he worked on shin guards, assuming them to be about as simple as the bracers.
+
+They were even easier, or he had simply gotten better at this point. It didn't even feel like he had added a lot of weight. If anything, he felt more balanced while wearing them, and he felt excited to add something to protect his thighs next.
+
+When he finished his drills on the 12th and last day of the week, he went to his pile of rocks and focused. Sweat still dripped from his brow as he combined a few of the rocks into a larger chunk with which he could start testing prototypes for a thigh guard.
+
+The process had become more and more familiar and while he could now differentiate the density, weight, and brittleness, it was still difficult to determine which rocks were the best to use.
+
+The main issue he had was that determining the quality also used Focus, the same Focus he needed to shape stone in the first place.
+
+He sat back and took a drink of water from his leather canteen.
+
+Either I find a geologist to teach me or hopefully I'll get a feel for the differences as I practice, even without using Focus.
+
+Veron assumed that the available rocks in the area would largely be the same and he would have to travel to find majorly different materials. That was just his assumption, and just as much was it an assumption that he could shape any kind of rock. He did wonder occasionally where the range of his magic ended but around the Holt farm, there wasn't a massive variety to test with.
+
+He did try to connect to various different materials just in case he underestimated the reach of his magic but so far, what he reasonably assumed to be earth and rock was exactly what he could affect.
+
+All right, enough testing and magic.
+
+He got a bucket with feed and seeds and left the barn. The sun was hot, even at noon. The height of summer had passed by now, but he hardly felt a difference.
+
+He whistled a tune to himself, appreciating once more that he no longer lived in the concrete castle that was Paris.
+
+Here, it cooled down at night, either due to the altitude or simply because of all the nature around the farm.
+
+He reached the Vabook pen and tapped against the thin metal fence to alert the creatures of his coming. Ian had warned him at first that they would attack him, but over time, Veron hadn't just gotten used to the little monsters, he found that he liked them.
+
+They weren't cute, they weren't nice, but somehow, he just felt a connection.
+
+He got close to the entrance and already saw a few of the black geese run and hiss his way, leaving small ash prints in the grass around them. A few trees within the pen provided shade and a small hut made of wood provided shelter for the vicious red eyed creatures.
+
+Veron smiled and waved at the closest few Vabook. They hissed back. “Very cute. I love you all very much as well,” he said in a calming voice and entered the pen without any sudden motions. “I brought your favorite food, as payment so that you don't eat me.” He grabbed a handful of feed and threw it in the general direction of the birds.
+
+They tore into the ground with their beaks, ripping out grass and chunks of earth as they devoured the food he had brought.
+
+Veron crouched down and watched as one of the geese approached him. They met eyes, both quiet for a moment before the bird honked.
+
+He smiled, still having absolutely no clue if some of the birds liked him or if the honking was to be interpreted as aggression. Either way, he found it funny.
+
+Did he like them because of the novelty of their red eyes? Or was it something more? Something to do with their shared Elemental Path?
+
+The goose stopped honking and spewed a small line of ash towards Veron, covering his right leg. He responded with a handful of feed that he threw straight at the bird. Lovingly, of course. He laughed when the bird honked again and started eating.
+
+Only three of them tried to bite into his leg as he passed by and fed them.
+
+There was an argument to be made that he could simply throw the feed in from outside the pen but it was a lot more fun like this.
+
+I wonder if this counts as preparation for becoming an adventurer as well.
+
+He dodged another attack with a quick sidestep, smiling to himself when he realized he had used the footwork from his drills automatically.
+
+“You're getting better,” Ivera said from outside the pen.
+
+Veron raised his eyebrows and glanced over, seeing the armed and armored woman watching him work. It was the first time she had come here since showing him the drills. “I-” He winced, a sharp pain coming from his leg. He looked down to see one of the demonic creatures picking at his pants, having immediately used his short distraction to launch an attack.
+
+Veron dumped a handful of feed onto the creature's head and gently but firmly removed his leg from its beak. He dodged a few more attacks until he left the pen. “I feel like they're more aggressive now that you're here.”
+
+“They like me,” Ivera said. She crossed her arms in front of her and looked at the Vabook. “At least maybe they did at some point. I can't tell if they've already forgotten about me and now react with fear or if they're excited to see me.”
+
+Veron set down the bucket and smiled. “I'm sure they're excited to see you. A rare visitor with tremendous power and armor that shines in the sunlight.”
+
+“A poet? I'm not sure if I liked you more when you could barely form a sentence.”
+
+“How quickly they grow,” Veron said. “What can I do for you?” He appreciated the humor she showed today but he couldn't imagine her coming here without a reason.
+
+She looked at him, the slight red in her eyes showing.
+
+Is that why they have them? Or is she part goose?
+
+“I want to talk. But not here,” she said.
+
+“Sure, lead the way.”
+
+Ivera walked past the barn and then onto the dirt road. She didn't turn right when they were past the fields and instead took a left towards the broader road that followed the river. A good two hundred meters away stood the only other building in Eyra that Veron hadn't visited yet. The Downwater Inn.
+
+I suppose she thinks my language skills are adequate at this point. At least to not out myself as quite as much of an outsider as I really am.
+
+He heard the rushing river and the dirt under their boots.
+
+The road was just barely broad enough to let a small wagon pass through, the Downwater Inn situated on the right side of it and near the edge of a forest.
+
+He could see bushes and shrubbery growing out into the road with trees in full bloom above. There was plenty of shade near the long two-story building, parts of the large, tiled roof almost glowing in the sunlight.
+
+The walls had likely once been painted white but much of it looked faded, not nearly as well taken care of as the home of the Holt family.
+
+And still, the large garden that slowly came into view as well as the wooden tables and benches set out onto a spacious veranda gave it a rustic charm.
+
+He could even see lanterns at the entrance of the low stone wall that surrounded the entire homestead.
+
+He appreciated the wildly growing garden and the fresh and intense smell of dozens of herbs intermingling in the vicinity. There were no patrons sitting outside but the large wooden door was open, the smell of freshly baked bread wafting out from inside.
+
+Veron followed Ivera as she passed through the doorway, his stomach grumbling at the smells.
+
+His eyes adjusted slightly when he was inside. The first thing he noticed was the cool temperature. Almost like walking into a shop with air conditioning but without the often accompanying dryness. It wasn't cold but considerably cooler than the outside heat.
+
+The interior was rustic. A stone floor with heavy wooden tables and chairs set out. Well-crafted and oiled. The ceiling was rather high, thick wooden beams going through the entire length of the main hall. To the right was a large hearth, only ash within. Stairs led up to an upper floor on the left and a broad counter stood at the back of the hall.
+
+Lanterns fixed to some of the wooden support beams provided additional lighting, sunlight drifting in through the small windows, together bathing the inn in a warm light.
+
+Ivera went to the counter, leaving Veron near the entrance.
+
+He couldn't see anyone behind the counter but there was noise coming from an open door beyond, likely the kitchen, based on the smells. He saw one patron sitting nearby, their eyes meeting when he glanced over.
+
+A man in his thirties, messy black hair and eyes of the same color. He wore heavy plate armor that looked like it had seen better days, the dull steel barely reflecting any light. An empty plate and a mug sat on the table in front of the man. As did his helmet, a steel creation that would cover all but his eyes, gray horns jutting out on the top and curving backwards like the horns of a goat.
+
+Veron gave him a nod and approached, stopping in front of the table with arms crossed in front of his chest. “I'm Veron. I like your armor.”
+
+The man regarded him and narrowed his eyes ever so slightly. “Your shin guards. They will hardly reduce the impact of any blows you will receive. You should make them thicker on one side and make them angle outwards so that blows will be deflected away from you. That should help with your balance as well when you receive a strike. And add padding below. Cloth or leather, however much feels good. For now at least.”
+
+Veron bowed his head slightly. “Thank you for the advice. I will test and see how it feels.”
+
+The man gave him a slight nod and then leaned back with his eyes closed.
+
+Done with the conversation it seems. I like this guy. An adventurer?
+
+He joined Ivera at the counter. “Do you want to sit inside or outside?”
+
+“Feel free to choose,” she said. “I will have some stout. Do you want some too?”
+
+“Sure, if you're inviting. I think I forgot my coin pouch.”
+
+She shot him a grin as he chose a table nearby and sat down. He relaxed for a moment and enjoyed the quiet atmosphere, the warm sunlight drifting in, and the smell of freshly baked bread.
+
+He looked up when someone walked down the stairs. A woman standing a little shorter than Ivera, blonde hair and a pale complexion. She wore brown leather armor, what looked like metal glinting below as she walked.
+
+She slumped down opposite of the armored man and cupped her face with both hands, a groan escaping her. They didn't speak or did so too quietly for Veron to hear.
+
+He turned again to see Ivera talking to someone behind the counter. A middle-aged man with graying hair bound in a knot. He wore a brown shirt covered with an apron. Veron saw him glance his way for a moment before he returned his attention to Ivera.
+
+She joined him a minute later with two mugs of stout.
+
+He received the mug and smelled the brew. It was strong, a hint of berries and dark in color.
+
+He raised his mug and tapped it with hers. I guess some customs just make sense, no matter where you are.
+
+Tasting the stout made him grimace slightly. Then he tried again. It was quite thick and it tasted as strong as it smelled. The hint of berries was barely perceptible.
+
+“Do you like it? Warren has been trying new things,” Ivera said.
+
+Veron regarded the mug. “It's very strong. I don't think it will become my favorite but it's nice to try.”
+
+“Yeah. Only had it twice so far and both times I said I wouldn't order it anymore. And here we are.”
+
+“Here we are,” Veron said. He could tell that she had a hard time bringing up the reason for this little event. He could think of a few things but there was no rush. Instead, he took another sip and glanced over to the two supposed adventurers. “You know them?”
+
+“No. They arrived yesterday and I'm told they will leave again this afternoon,” Ivera said, speaking with almost a whisper. She only gave them a quick glance and then returned her attention to him.
+
+“Many adventurers that come through here?”
+
+“Some.”
+
+Veron took another sip. Then he looked at her and smiled slightly. “You're not easy to talk to. What's going on?”
+
+She leaned back and grumbled something before drinking deep from her mug. “I had a fight with Aren. About you and Ian. Your training. And what we should do with Ian. He's obviously annoyed that I'm not training him but I'm not exactly training you either, I just gave you a few pointers and some things to do on your own.”
+
+“You don't want him to be an adventurer?”
+
+She made a grimace and then sighed. “I had hoped he would be happy here. Had hoped that he wouldn't have to fight, survive. I know that Aren is right, that we should let him make his own choices, that he wants to go out there and explore. It's just difficult.”
+
+Veron didn't interrupt. He simply waited and drank more of the stout.
+
+She looked into his eyes. “He is such a sweet boy. Hardworking, kind, well mannered.”
+
+“He doesn't have to run off today, you know?” he said.
+
+“But if he goes down this path, I know where it will lead.”
+
+“Do you? So you know my path as well?”
+
+She gave him an annoyed look. “You know what I mean. He shouldn't have to see that kind of bloodshed, that kind of pain.”
+
+“You want to protect him forever.”
+
+She crossed her arms and sighed, then let her hands fall onto the table. “I would. A part of me wants to.”
+
+“You know he would hate it.”
+
+She grumbled something to herself.
+
+“You could teach him to protect himself instead,” Veron said. “Let him learn, let him make his own mistakes.”
+
+She made an annoyed sound. “You're as useless as Aren.” She finished her drink and stood up, walking a few steps before she stopped next to the table, her eyes glaring towards the door. “He will join your training, starting tomorrow. Once you've finished your armor, you come out with me. Without Ian.”
+
+“A test run? Before you take him out?”
+
+“It's been a while since I had to protect someone in the wild. You're free to decline, but I don't think you will.”
+
+Veron sipped from his stout and set it back down. “You got me there.”

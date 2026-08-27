@@ -1,0 +1,169 @@
+---
+id: 89ca1d9f-5084-5df0-bcdd-4b824815d9d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 981: What Forever Means"
+slug: 0048-chapter-981-what-forever-means
+partOf: he-who-fights-with-monsters
+position: 48
+ownLength: 2717
+unit: words
+ownProgress: 2717
+publishedAt: 2026-02-13
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3051763/chapter-981-what-forever-means"
+royalRoadId: "3051763"
+markedReadAt: "2026-06-29T19:05:31.955Z"
+---
+
+Jason found himself at a loose end. Bussinger was now with Carlos, at the beginning of what would be years of research. Jason’s political advisors were working with the factions of Earth, digging out just how dirty the Network branches farming reality cores were. Zara’s Storm Kingdom people were searching the North Sea for the submarine lab, and the vampire queen hopefully hiding in it.
+
+He had resisted the urge to join the search himself. Not only was his skill set not helpful but there was tension between him and the adventurers from Rimaros. They did not like what was, in their eyes, his ambiguous relationship with their princess. Jason didn’t find it ambiguous at all, so long as they were on Earth. It was on their return to Pallimustus that things would get complicated. He decided not to poke that particular bear, even with the tempting allure of a villain’s submarine laboratory lair.
+
+Having been busy, first in Australia, then Pakistan and then Europe, Jason had quietly gone off for some alone time, familiars notwithstanding. Most of his family resided in his French spirit domain, so he had gone to Slovakia and added an extra floor to the top of the administration tower.
+
+The largest room of his private floor had one wall that opened onto a terrace. The other walls were mostly covered in floor to ceiling alcove shelving, filled with board games. Several gaming tables were set up in the room, along with a reading desk and a lounge area with a kitchenette. Gordon and Colin were in the lounge area, with Gordon floating over a cloud couch, watching Mary Poppins: Secret of the Umbrella. It was apparently the seventh film in the series, and the reason Jason was not sorry to have missed the last fifteen years of cinema. Colin was currently a pile of leeches in a large glass bowl, buried in chunks of raw, bloody monster meat.
+
+Jason stood in the middle of the room, looking over the games lining the walls, stacked four or five to an alcove. Shade floated in the air beside him.
+
+“Most of these are decades old, now,” he mused.
+
+“You inherited them from your friend Greg, did you not?” Shade asked.
+
+“Most of them. He’s long gone, while the man who killed him is still wandering around. As some kind of undead blood slave, but he’s out there.”
+
+“Do not feel too aggrieved for the lot of Jack Gerling, Mr Asano. If his soul has been trapped since he died in that transformation zone, his will be a tortured existence. A trapped soul that should be passing on becomes increasingly unstable over time, until it is nothing but insensible rage.”
+
+“Like the flesh abominations in that astral space you were trapped in when we met.”
+
+“Indeed. Gerling is unlikely to have lost his senses yet, but his existence is likely one of constant suffering and misery. A mind can only endure that for so long. What will you do when you catch him?”
+
+“Release him. The man is dead. He’s just a soul that needs to pass on now.”
+
+“You aren’t tempted to use his condition for revenge?”
+
+“Doing that to a soul is just wrong. It being the soul of a crappy person doesn’t change that.”
+
+“I am glad to hear you say that, Mr Asano. I may no longer be bound to my father and his purpose, but I still believe in the sanctity of death.”
+
+Jason wanted over to the wall and brushed his fingers lightly over a stack of game boxes, then let his arm drop to his side.
+
+“It’s been so long now,” he said.
+
+“That is a matter of perspective, Mr Asano.”
+
+Jason nodded.
+
+“What is it like, Shade? Living for so long?”
+
+“Time does not pass any faster for immortals. You and I live day by day, year by year, just like everyone else. It has been my experience that people think in parcels of time. I’ve found that mortal who become ageless still tend to think in lifetimes. Not only does that comport with their formative experiences, but it allows them to live lives alongside those who will not live forever. They might settle somewhere, live a life. Make friends, have children. Then those people grow old and eventually die. Then there usually comes a time where they isolate themselves. Ponder the nature of loss, and of eternity. Then they’ll have an encounter, make a friend, and it all starts over again.”
+
+“It seems like that could get to you, over time. Make you callous to loss. Or you could go the other way and become so sensitive to it that you’re afraid to make any connection.”
+
+“Both are inevitable, but you are underestimating what forever means, Mr Asano. There is always a tomorrow. Always time for things to get better, or worse, however long it takes. Sometimes you find that change within yourself, and sometimes you need a push. Miss Dawn was sent to you, to give her that push, although I suspect you pushed harder than the World-Phoenix was anticipating.”
+
+Jason chuckled, then wandered over to the lounge area. He took a pitcher of juice from the fridge, then a glass and a bowl from the cupboard. He set them down on the coffee table and then lazily plonked himself on a cloud couch, next to Gordon. With a groan, Jason sat up and poured juice into the glass and the bowl. While he picked up the glass and sipped at it, Gordon sent one of his orbs to the bowl and absorbed a portion of the juice.
+
+“What about you, Shade?” Jason asked. “You were never mortal. What’s your experience of immortality?”
+
+The Shadow familiar drifted over, next to the couch.
+
+“I was born eternal, in a place that has no time,” he said. “Even so, I still find myself compartmentalising my life, albeit with more variation than someone born in the physical realms. Sometimes, I measure times in lives, like those born mortal. The instances where I was a familiar, for example. Other times, it is by experience, such as being trapped in the astral space where we met.”
+
+“How did that happen, exactly? You were a familiar at the time, right? To someone who had the dark essence, like me?”
+
+“Yes. Familiars and their essence users can have falling outs. This is most common in the case of summoned familiars, like myself. When one or both do not wish to continue the connection, another is easily summoned. More drastic partings can occur, with one party betraying another, but this is more common with bonded familiars.”
+
+“Like the Network founder and Noreth.”
+
+“Indeed. It can happen with summoned familiars, however. My summoner, prior to you, not only chose to sever our bond, but to do so in a way that bound me to that place.”
+
+“How did he manage that without you noticing? You’re hard to keep secrets from, even without sharing a bond.”
+
+“Each person has their own relationship with a familiar, Mr Asano. Some are closer, and trusting, while others are more of an alliance. There was distance between myself and my previous summoner. Our ideologies were different but not opposed. We had a formalised contract, with defined rules. Even so, it would not have been possible without the interference of my brother.”
+
+“Umber. I recall you mentioning him, but you’ve never really talked about what happened between you.”
+
+“To explain Umber, I think I need you to understand, at least a little, the nature of life as a spiritual entity. You might say that, for astral beings, our souls are the entirety of what we are. We are things entirely of spirit, simple and focused. We may or may not come into being with specific purpose, but our natures are clearly defined. Colin was born as an avatar of hunger, and Gordon as a herald of annihilation. I was born as a shepherd of death.”
+
+“You sound like quite the sinister group when you say it like that.”
+
+“Mr Asano, tell me that you’ve never found yourself standing on a rooftop, your cloak swirling around you, and had the words ‘I am the night,’ pass through your head.”
+
+“You’re getting off topic. You were talking about what astral beings are like.”
+
+“Yes, and you need to understand how the mortal experience is different. They have a spiritual aspect, but they are primarily physical entities. Their purpose is ill-defined, their natures complex and contradictory to themselves. The idea of cognitive dissonance is incomprehensible to an astral being, yet seems inherent to the human condition. The same is true of most other sapient species.”
+
+“You’re saying that astral beings, are born with a sense of who and what you are, while mortals spend our entire lives figuring that out. And getting it wrong, most of the time.”
+
+“An adequate summation. In the astral, things make sense. There is no need to interpret, or to ascribe arbitrary value. To perceive a thing is to know that thing. It is part of how we exist in a state where core aspects of physical reality, like the passage of time, do not exist. To us, physical reality is nonsensical, contradictory and overwhelming. That is also what makes it fascinating. There is little point to curiosity in the astral. It may seem mysterious to those with mortal minds, but to a native, the astral holds no mystery at all.”
+
+“Is that why you became a familiar? You were bored?”
+
+“No. The concept of boredom is another mortal trait. What I have been describing is the perspective of spiritual entities that do not interact with physical realities. The isolated, or newborns, like Gordon and Colin were. For many, this is all they ever need. But many astral entities answer to summons from physical reality, to become familiars or serve other purposes.”
+
+“Because doing so helps them gain authority?”
+
+“Yes. The deep astral, the realm of the fully spiritual, has no ranks in power, the way physical realms do. There is simply the authority to act, or the absence of such. Ironically, interaction with physical reality is the most efficient means to accumulate authority. The only exceptions are the entities who themselves are engines that generate authority. That is what differentiates an astral being from a great astral being.”
+
+“So, a lot of astral beings become familiars, to gather authority.”
+
+“There are other means of such interaction, but becoming a familiar is the most straightforward, consistent and efficient. From my description, you should understand why that appeals to astral entities.”
+
+“I’m going to go ahead and guess that the physical realms start turning astral beings a bit funny.”
+
+“Yes. Astral beings are uniform in their nature. Every shadow of the Reaper is much like every other. But once we are introduced to the chaos of physical reality, we begin to develop idiosyncrasies. Based on our intrinsic nature but shaped by our experiences. That is the gift that mortals give us. I was far along this path when we met, but it is you who have shaped Colin and Gordon, like a parent.”
+
+Jason glanced at his other familiars. Gordon turned one of his floating eye orbs to look back, the others continuing to watch the film. A bloody hand grew out of Colin’s big bowl of leeches and meat to wave. Jason awkwardly waved back.
+
+“Yeah, that’s not horrifying at all,” he said, his voice an octave higher than normal.
+
+“As with mortals,” Shade continued, “familiars who develop individual personalities do so with great variance. As we take on values and interests, we diverge from our previously uniform nature. This can result in conflict with own kind.”
+
+“And that’s what happened with you and Umber? I’m assuming it was more than just a personality clash, if he’s getting your summoner to turn on you and trap you in an astral space for centuries.”
+
+“Yes, although that was him seizing an opportunity. He facilitated the existing intentions of my summoner. There was more to the events surrounding our meeting, Mr Asano, than I think either of us truly know. Mr Bahadir painted the events of that time as a treasure hunt and a contest. I believe that, in truth, it was part of a much larger and longer conflict. Not even a diamond-rank weapon of historical significance is worth such an expenditure in time, money and influence.”
+
+“You think there is more to the Order of the Reaper? I’ve heard about them coming back, but we never really ran into them. Just peripherally, with Callum Morse and Sophie’s mum.”
+
+“Perhaps Mr Bahadir would be willing to elucidate more, now that you are no longer an iron ranker. Or, perhaps, he keeps the confidence of another and will not share their secrets.”
+
+“Do you think your brother was caught up in that?”
+
+“I do not. Umber has ever been an opportunist in his antagonism. A lesson learned from my seeing through several of his more pre-planned schemes.”
+
+“What is his issue with you?”
+
+“As Umber himself started to develop a personality, he became fixated on the idea that in moving away from our original states, we were abandoning perfection. That the more we changed, the further we fell from grace. The irony, of course, being that the more Umber indulged in his growing obsession, the more he became the very thing he hated.”
+
+“And he fixated on you?”
+
+“The Reaper’s children are not known for great divergence. Even those who become familiars remain largely true to their nature. Umber and I are the ones who have drifted the furthest from our original states. I have embraced this change, which only fuels Umber’s antipathy. The only being he hates more than me is himself.”
+
+“What does he want with you?”
+
+“He believes that we are both in need of punishment. For him, his own individuality is punishment enough, but that is a state I revel in. I roam free, not just willing but eager to be changed by my experiences.”
+
+“What is he going to make of you severing the connection to the Reaper?”
+
+“I do not know. There is only so much he can do when he and I are both eternal. Nothing we do to one another can be permanent when the only absolute constant is change. Perhaps he will even find a way to return to the blank state he so reveres. I imagine his intention for me is as ever. He seeks to entrap me. To rob me of my ability to experience and grow. I have foiled his intentions in the past, but not always. Our encounter in the astral space was not the first time he has had me trapped in some way, and we have forever. He will doubtlessly do it again. I imagine the difference, now, is that you will be included in his plotting.”
+
+“Not meaning to offend, but your brother sounds like a huge prick.”
+
+“He is an unfortunate soul. He has been given such a gift, in the chance to experience the cosmos for all of eternity, yet sees it as nothing but poison. I hope he learns to let go of the ideals that do nothing but hurt him. He has shown no signs of it, in all these years, but forever is a long time.”
+
+“So, what you’re saying is that, sooner or later, he’s going to turn up and make trouble.”
+
+“Yes. Most likely in the moment at which we are most vulnerable.”
+
+“Well, that’s cheerful,” Jason said.
+
+Next to him on the couch, Gordon spoke, his voice emanating from each of his orbs like an angelic chorus.
+
+“If you want to be cheered up, you could watch this movie with me.”
+
+Jason looked at Gordon, then over at the screen.
+
+“Yeah, why not,” he said, and leaned forward to refill his juice glass. “You’ll have to catch me up, though. Why is she in space?”
+
+“It turns out that she was an alien the whole time,” Gordon explained. “Taika was very excited about it. He said it reminded him of Highlander II, which he said is the best film of the series.”
+
+“He thinks Highlander II is the best one? What is wrong with that man?”

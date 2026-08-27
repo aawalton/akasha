@@ -1,0 +1,115 @@
+---
+id: ef862b17-69f1-5e66-97df-4d86fc5d41a4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 842 - Heart, mind, and body."
+slug: 0169-chapter-842-heart-mind-and-body
+partOf: hell-difficulty-tutorial
+position: 169
+ownLength: 2378
+unit: words
+publishedAt: 2026-07-20
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3703936/chapter-842-heart-mind-and-body"
+royalRoadId: "3703936"
+---
+
+"What are you doing here?" I ask.
+
+Like he’s trying to show off, he takes off his hat and combs through his hair, which, unlike mine, is shoulder-length. Much like my usual hair, it is slightly wavy. His eyes then look up at my head.
+
+After Lissandra shaved it, it was bald even after I entered this place, but for the moment, I’ve been able to manifest a sort of buzz cut length.
+
+Nerdthaniel puts his hat back on. "I'm you, so that means you’re essentially talking to yourself. Don’t you ever wonder if our [Focus] skill is simply a localized manifestation of our neurodivergent predisposition? In our case, perhaps synthesized from a combination of ADHD and some sort of latent predisposition for schizophrenia. That would provide the perfect architecture for our talent in splitting our minds. If you analyze the data, wouldn’t that indicate a high probability that many of the other high-level attendees possess a predisposition for mental illnesses? Within the system, those 'disorders' would seem to be optimal hardware for skill usage. It would explain how Tess got a skill as ridiculous as [Declaration], making her inherently delusional in ways the system tends to reward. Even Vic, with her [Intent] and [Duplication], is only such a great host for them because of her nature. That would mean her personality isn't a defect in this case-"
+
+I lift my hand to stop him from talking, and he does.
+
+"What are you doing here?" I ask again.
+
+He looks away in that cool, smooth, nonchalant way of ours and stares at the sky as if he’s searching for something distant.
+
+This place is currently just a quiet, cozy autumn forest during the last days of the season, and as if on cue, the wind blows through his hair and sends a few colorful leaves swirling around him.
+
+"I highly suspect that Lissandra Hawthorne is already releasing more than 50% of her presence. At least according to my calculations, the passage of time is uncertain, and going by the behavior of her mana, I suspect that we’ve reached her requirement, and she has, on a whim, decided to push for more. I would say it’s her version of punching you in the face."
+
+"Our face."
+
+"Your face, I am you," he says.
+
+"You make no sense. But okay, so let’s say that is true. Then you’re what? A symptom of brain damage?"
+
+"Most certainly. Consider the variables: the environmental thought acceleration here, your continuous overclocking of your cognitive processor. Combined with your constructs, severe mana imbalances, the degradation of your body, and the extreme utilization of parallel mind partitioning. It was inevitable that all this would eventually manifest as externalized personas once pushed past the threshold of mental stability. I would recommend putting a stop to these sorts of activities to prevent further damage to the psyche, but we both know that isn't likely."
+
+"It isn't, I will push further. I knew the risk of coming here and that there might be a danger of losing myself. Though I didn’t expect it to manifest through one of my sub-minds showing up in this way." I sit down and watch him curiously. "Well, in the end, it’s simple. I’ll just have to hold myself together."
+
+As I say that, I wave my hand. When I do that, he disappears as if he were never there, leaving me to my thoughts.
+
+Even when he was manifested, I didn’t feel any different. No part of me was missing, it just felt like my mind was spread a bit thinner. Not even for a moment did I stop being me, at least not for the time being. But hey, only a few days have passed so far.
+
+I pass my hand through my buzz cut hair and continue to think about it and the ways I’ve been using my split minds. Sure, there are some dangers to look out for, they have always existed. And there are dangers to thought acceleration, as I saw with Faora and the tortured parts of herself she’d left in her mind palace. But I’m not like her, and I’m confident I can endure at least this much.
+
+What I find interesting is that I was able to have a conversation with another part of my mind like that. It was like that with Sneakythaniel as well.
+
+Well, I bet plenty of Absolutes are doing the same, probably even some of the Rulers. In this wide universe, it is certain to be a fairly normal and common thing.
+
+I don’t know how many hours or days pass, but it’s time for another break. Also, I don’t know if it was Lissandra or my subconsciousness, but the area around us has changed.
+
+The forest has been replaced by a desert with no dunes, just white sand spread out as far as I can see. There is a circular platform made of reddish stone, inside of which we sit. A platform which is also framed by four trees with green leaves, too vibrant in contrast to the white sand and reddish platform.
+
+Lissandra’s steps are confident and smooth as she takes a few paces, taking the opportunity offered by this break to give me another lesson. I still don’t know if this is her honestly trying to teach me something, a symptom of boredom, or her attempting to help me keep my mind stable.
+
+"If anyone ever challenges you by using proper etiquette, and you see in their bearing that they are ready to die, pay them the same respect. Kill them if you decide you must. Leave them alive if you wish to do so. After all, anyone who’d complain about your decision after being defeated would only prove themselves even more pathetic than if they’d simply lost."
+
+She stops exactly in the middle of the platform, her movements turning sharp while maintaining a feeling of ceremony without being stuffy. In a way, they feel like the movements of royalty combined with the movements of a duelist.
+
+Lissandra stays there relaxed, standing with both feet next to each other, one hand behind her back, head held high. Her right hand floats in front of her chest, hand open and palm pointed towards where her heart is.
+
+In a smooth and swift gesture, she closes her hand into a fist and swings her arm down to her side, hand slightly angled. "This is the stance used to accept a duel by the knight order I joined when I reached level 100. A silly gesture, yet it has some… honesty to it."
+
+She takes another step and slides into a different stance.
+
+"This one was used by the Champion who wished to become my teacher. He and the country he protected, the people there, had a preference for this stance. It flowed into the release of a powerful single-target attack, with which they quickly won or lost most of their duels. A few days after I met that Champion, he fell in one of the constant battles at the time. I remained there for years, leaving only after the country was annexed by one of its neighbors."
+
+All of her movements relax as she switches to her usual stance. "It doesn't matter what you decide to use. It doesn't even matter if you use any of them at all. After all, none of this is as important as the battle itself, where your acts speak louder than any such gesture. But there are also people who like to attack without any warning and who don't put value on duels. Never grant even a smidgen of respect to such a person. Kill them like the animals they are. Erase them from your memory such that they are forgotten even by the one who kills them."
+
+It seems like she’s waiting for an answer, so I simply nod, even as I feel something like this should be obvious.
+
+That seems to satisfy her. "People at your level of power fight differently from a duel between Champions. Furthermore, duels at the level of an Absolute are vastly different from duels between Champions. It’s something that you don’t need to bother with as you are now, but there are three things you should look for in a duel, as there’s a very high chance your opponent will as well if they’ve been properly trained."
+
+Out of nowhere, a wind blows over the desert, but interestingly, it doesn’t disturb even a speck of sand. It all stays where it is, but at the same time, the desert reacts. Almost as if the wind caused all the grains to tilt just the slightest bit differently and show another side that is less bright white. That causes a cascade effect over a huge area, like waves spreading.
+
+"Heart, mind, and body. Your opponent will do their best to pierce through your natural and active barriers to observe the output of your heart or any other such source. Watching for spikes, it grants one a huge advantage, though most experienced opponents learn to mask this and trick you, even if their natural barrier is pierced, and many others can do a lot with very little energy. This is commonly used against amplifiers who might instinctively watch for big spikes. Though your senses are lacking, your eyes give you an advantage in this, but know that they can still be tricked."
+
+She does exactly that, using multiple ways of confusing my eyes in a rapid manner. There is one technique I find very interesting. For a moment she makes it seem like my senses pierced her natural barrier, but it’s actually a fake version that perfectly mirrors it and lies over her skin instead, at which point she makes small changes to gain an advantage.
+
+I think there is some spatial component to it as well, as I even start to find myself checking for the correct scale. There should be a difference between feeling it under her skin and over her skin, yet her trickery makes it feel like it’s below her skin.
+
+"Mind. Grasping your opponent correctly allows you to plan ahead. Their endurance, any sort of rush of emotion such as fear, and other obvious things to look for. Then there are less obvious ones, ways to estimate their passives and the levels of their skills. When you’re experienced enough, and you’ve pierced through their natural barrier properly, you can even estimate the categories of the skills they carry or even guess the exact variant. I will show you some of these methods. Then, lastly, you have the body. Even if you are someone who doesn't prefer direct combat, you should be able to follow your opponent's movements and know what to expect. This is best done by experiencing it on your skin and having similar capabilities, though they’re not necessarily as proficient as your opponent's."
+
+I’m already waiting for what is for sure to come, and she doesn’t disappoint.
+
+"Your physical stats are pathetic, saved only by your... decent use of kinetic energy as taught to you by that talented demon you encountered. Your body reinforcement is one of the worst things I’ve ever seen. I’ve seen street rats that did better. There are many different techniques I’ve observed you using for body strengthening, and all of them are beyond pathetic. There are better ways you could use mana-based techniques in combination with kinetic energy. Once again, if you do a decent job here, I will teach you some."
+
+"Deal," I say, and looking at her, I ask, "You said you would be making me endure up to 50% of your presence, didn't you?"
+
+"I did indeed."
+
+"How much have I endured so far?"
+
+"Little pup, don’t get distracted by thinking of useless stuff. And get your mind together before we continue."
+
+With that, she is gone, leaving me alone in the middle of the platform.
+
+Well, almost alone.
+
+I almost lack the strength to look at him, but in the end, I decide to do so anyway. Standing there is a man with my face and a similar buzz cut. Other than that, he’s wearing a tank top, showing off his big, round shoulders and massive arms. He even stands a head taller than me, with a figure reminding me of Morwag. In one hand over his shoulder, he holds that style of jacket every 90s movie bully used to wear.
+
+With his arms then moving on his hips in a casual stance that still shows his lats and V-shaped back, he faces me with a confident smile. "Fifty percent? That’s it? I bet she’s lying just to make you feel better. If I were out there, I’d be soaking up 100% of her 'presence' and asking for seconds. You’re shaking, little kid, just like Sneaky. It’s embarrassing to share a body with you. And that 'deal' you just made? You basically just begged her for scraps. 'Please, Mommy Lissandra, teach me how to stop being trash.' We should be telling her how it’s going to be! Blah, blah, blah, 'heart, mind, body.' If she spent half as much time punching as she does posing, we’d be done training already. Does she want to fight, or is she auditioning for a play? Next time she does that heart-palm thing, we should just spit on the floor. See how 'ceremonial' she feels then..."
+
+He disappears before he can say more as I force him away.
+
+Assholethaniel has proven useful at times, and he is the one I made to handle close-range combat, body strengthening, and the like. It was in the era when I was trying to reduce the number of sub minds, so I combined some.
+
+In the end, I still believe him about one thing. I suspect we’re already at a point close to 50% of the presence of what she was capable of back on Eladore. Even though it was still weakened, and even though that version wasn't even close to the strength of the Prime Liss who challenged Pride, it’s almost enough to make me happy.
+
+But I erase such thoughts. There will be time for such things later.
+
+For now, I will continue to do my best. And then some.

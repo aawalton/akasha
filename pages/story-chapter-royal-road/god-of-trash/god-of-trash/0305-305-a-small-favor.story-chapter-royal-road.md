@@ -1,0 +1,221 @@
+---
+id: dff59e64-f160-5978-a8ff-ec465857d388
+page-type-slug: story-chapter-royal-road
+title: "305. A Small Favor"
+slug: 0305-305-a-small-favor
+partOf: god-of-trash
+position: 305
+ownLength: 2676
+unit: words
+publishedAt: 2026-04-25
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3318548/305-a-small-favor"
+royalRoadId: "3318548"
+---
+
+“…That’s a ‘small favor?’” Bast asked, exasperated.
+
+“Please. You’re the only ones I can count on.”
+
+Soma snorted. “No kidding, kitten. Who else could you ask that of, hmm? Either they’re too weak, or they don’t like you very much.”
+
+Rhys looked at him. “You’re stronger than you pretend to be, aren’t you? You and Sid both. You’re well over Tier 5, but you were pretending to be weaker than Virgil.”
+
+Soma dropped his jaw in shock. “Oh my! It’s kind to overestimate, but that’s a bit much, don’t you think?”
+
+Rhys crossed his arms, looking directly at Soma. He extended his aura in the blink of an eye, too fast for a Tier 4 to react to.
+
+Soma deadpanned back, not so much as flinching. “Just exposing yourself like that is bad manners, darling. Let alone forcing someone else to expose themselves.”
+
+Bast stared at Soma, his brows so high they looked like they were about to fly off.
+
+Rhys snorted. “I knew it.”
+
+“I should’ve made you do it to Sid. That would’ve been fun watching,” Soma grumbled.
+
+“I would never do it to Sid. That’s a one way ticket to entrail town.”
+
+“That’s what would’ve made it so fun to watch.”
+
+Bast raised his hands. “Whoa, whoa, what was all that about exposing one another…?”
+
+Soma turned slowly to him, a big smile spreading over his face. “My, my, you’re going to have to move quicker than that if you’re going to keep up with me, big boy. But don’t worry, I can take it.”
+
+Before Bast could say anything else, Rhys raised his hand. “He just… he always talks like this. There’s nothing you can do but ignore it.”
+
+“There is something else you can do. You can not ignore it. I can be anyone, anything you like, my handsome friend.” He winked. “If it makes you more comfortable, you can call me ‘she.’”
+
+Rhys frowned. “You never said that to me.”
+
+“I didn’t.”
+
+He looked at Soma, then at Bast, then took a deep breath and shook his head to shake all the scary thoughts out of it. They’re consenting adults, whatever they get up to is their own business. “So?”
+
+“So? What is ‘So?’ supposed to mean, huh? ‘Would you like this country’ is a hell of a question to pop on someone!” Bast exploded, somewhere between exasperated and frustrated. “I mean, I don’t want the Alliance to fall apart, but getting handed it out of nowhere is…”
+
+Rhys spread his hands. “I’m supremely unpopular and not good at statecraft. The entire Alliance has been propaganda’d into thinking I’m basically the devil. I’m just saying we make use of that. Make this a story about how you defeated the evil me and drove me off. You get the Alliance, as the supremely popular disciple of the Sword Saint…” he paused. “As the new Sword Saint, and Soma, Sid, and Straw are your top generals and enforcers. Everything fits nicely into place. The Alliance is safe from within and without, and I can rest easy, having left it in good hands.”
+
+Bast crossed his arms. “That’s the problem, isn’t it. Left it.”
+
+It was Rhys’s turn to be exasperated. “I’m—I’m too powerful, Bast. There’s nothing here left to challenge me but Sid and Soma, and that’s a hell of a jump from low Tier 5. I need to travel if I’m going to grow. I need to leave this region. It isn’t a small pond, it’s a fishbowl. I need to get out, into the big ocean. Meet people who can challenge me, fight for my life, and feel that pressure.”
+
+“And I don’t need that?” Bast argued.
+
+Soma had at some point drawn a box of popcorn from somewhere and taken a step back, watching the argument with deep interest.
+
+“No, you do. And I don’t mean to trap you here. When you’re done, you find the next successor to lead the Alliance and leave it in their hands, using the Weapons to threaten them into good behavior, if need be. But right now, Bast, you’re injured. You’re still—you still need to recover from the bullshit Virgil did to you. When you’re ready, I hope you come out into the wider world and meet me. But…” Rhys ran a hand through his hair. He didn’t know how to say this.
+
+Bast’s nose wrinkled. “Just say it,” he spat.
+
+“But… godsdamn it, Bast. You’re weaker than me. You’re too weak. Is that what you want to hear? It’s—it’s not true because of any failing on your part. It’s the result of some bullshit scheme you fell victim to, that isn’t your fault at all. I’m not saying that. I’m just—”
+
+“You’re just saying I’m weak.”
+
+Rhys threw his hands up in defeat. “Sure. Yes. That’s what I’m saying.”
+
+Bast scowled. “Fuck.”
+
+“Yes! Kiss! Fuck!” Soma cheered.
+
+They both looked at him.
+
+He put his hands over his mouth. “Fuck…this piece of kernel in my teeth. Owwww, it hurts so much!”
+
+“I will stab you,” Bast threatened, dead serious.
+
+Soma blew a kiss. “Come do it, big boy.”
+
+“Gods—is he always like this? All the time?”
+
+“All the time,” Rhys confirmed. “Er… I’m not asking you to make him, like, your secretary or sidekick or anything. Just, you know. The scary boogieman.”
+
+“If he was the monster under my bed, I’d be more worried about him licking my feet than biting them,” Bast grumbled.
+
+“I bite, if you’d rather.”
+
+The expression on Bast’s face was murderous.
+
+“Look, Bast. Fundamentally, I’m offering you the position of king. I don’t think that’s a bad deal,” Rhys wheedled, stepping in front of Soma to try and steer the conversation away from the man.
+
+“If you didn’t think it was a bad deal, you wouldn’t be foisting it on me.”
+
+Rhys opened his mouth and found that he had nothing to say. He closed it, slowly. Bast was right. He really, really didn’t want to be king. He didn’t want to lead anything, much less a country. Leading a revolution-slash-potato-chip-empire was bad enough. But… that didn’t mean it was a bad deal. That just meant he didn’t want to do it.
+
+Bast snorted. “It’s fine. I get it. I’ll be king for now, and then I can run off and have adventures with you later once I catch up.”
+
+“You will.”
+
+“I will.”
+
+Bast paused. He looked at the remaining generals, most of them retreated or lying on the ground after an enthusiastic and thorough pummeling from Sid. “The only question is… how do I get them to recognize me as king? Especially if you’re going to fuck off. I mean, I can’t use you the way Virgil used Luc if you aren’t there. And I don’t think anyone is going to believe I can control… that.”
+
+The two of them watched Sid tear into a general, with blood and gore flying everywhere.
+
+“Yeah… no.”
+
+“You could control me,” Soma said, in a tone of voice that implied uwu despite the fact that Rhys knew he couldn’t possibly be aware of the concept of uwu.
+
+Rhys nodded at Bast. “Don’t worry. I have an idea.”
+
+“Do you?”
+
+“It’s a great idea.”
+
+“For you, or for me?”
+
+“I’ll be a good boy. So obedient,” Soma pledged.
+
+Rhys spread his hands. “For both of us. It’s a win-win.”
+
+“I like win-win deals. They’re my favorite kind,” Soma chirped, instantly distracted from his previous bit.
+
+Bast crossed his arms. “Fine. Let’s hear it. But I have the right to refuse.”
+
+“Yeah, but you won’t, cuz it’s a great idea…”
+
+--
+
+High in the sky over the capital city, two figures faced off against one another. One wore brilliant, perfect white robes that flapped nobly in the breeze, his short dark hair flying around his face. He held a simple straight sword that shone with powerful white light. In short: he was the picture of nobility and refinement.
+
+Opposite him stood a man who could only be described as an utter villain. He wore slimy-looking green robes and held a hideous, filthy brown sword that trembled disconcertingly, as though it itself were a thing alive. Gross energy circulated around him, so disgusting that even those who saw it from below felt the need to pinch their noses.
+
+The man in white, Bast, pointed, his brows furrowed in noble anger. “Your foul reign ends here, Rhys the Impure!”
+
+Rhys cackled, doing a big sweep upward with his hands clawed and fingers waggling for effect. “How naïve, apprentice of the Sword Saint! You think you can defeat me? Your pitiful sword arts cannot overcome my filth!”
+
+Bast paused. He trembled, an expression somewhere between exasperation and embarrassment struggling to come out on his face. At last, he wrinkled his nose in disgust, then wiped his dry eye and pointed at Rhys. “My Master is dead. I am the Sword Saint now! And I will avenge him!”
+
+Rhys cackled again, secretly giving Bast an encouraging smile and a thumbs up in his exaggerated villain gestures. From up close, his acting was a bit rusty, but from down below, he probably looked pained, conflicted, and heartfelt. To be honest, he’d given Bast more complicated lines at first, but after a quick rehearsal had confirmed that Bast was not destined for the silver screen, he’d pared it down to the essentials. Bast still hated the actual acting, but that was fine. To be honest, Rhys was kind of enjoying it. And Bast being all prickly about having to act made his acting a little more believable, because he actually looked pissed off instead of the dead-faced neutral he’d done in rehearsal.
+
+The two of them clashed. In rehearsal, Rhys had simply stubbed this out with ‘and then we’ll fight,’ but now, they really, truly battled. Rhys had restricted himself to Bast’s level and immediately found himself overwhelmed. Bast’s sword skills far outstripped his. Within the first few strikes, Bast had already landed several solid blows on his body, opening up shallow wounds. Rhys was forced to release his magehood a little and fight above Bast’s level just so he could keep up.
+
+It made sense. Rhys had primarily focused on magic all this time, spells, techniques, filth, and so on. Bast was training in the sword and nothing else. Of course Bast would be superior to him in swordfighting alone. If they were to honestly clash, with all their skills and abilities on the line, Rhys was confident he could at least match his friend, if not defeat him, even without relying on his higher mage tier, but they weren’t. This was a stage fight, some good old Flynning, except both of them could take a hit or ten thanks to being a mage, so they were actually fighting to kill… or at least wound.
+
+Bast pushed Rhys back, and then Rhys stumbled, throwing his arms wide. Now!
+
+Bast charged in and stabbed, piercing Rhys through the heart. Blood poured down. Rhys gasped and staggered back, his hands clutched to his chest, his eyes wide.
+
+“How… could you…”
+
+Yeah, how could he? He’d missed the hoop and just stabbed him in the chest! Rhys was forced to quickly mend the wound as he fell, but he did have to admit: it was more realistic that way.
+
+He plunged out of the sky, conveniently falling deep into the capital’s dump. Overhead, Bast harrumphed and turned away. He raised his arms. “I have defeated him. The man who plotted against the Alliance. The man who killed Virgil!”
+
+All the generals would know better, and some of the soldiers besides, but were they going to counter the new Sword Saint? Cheers rose up from the street, from the ordinary mage citizens who didn’t know anything about Virgil, Rhys, Bast, or anyone. He’d become a hero, right before everyone’s eyes, defeating the great villain who dared to threaten their Alliance. Who wouldn’t back him? And those who dared grumble about what they’d seen, or thought they’d seen… well, they were clearly just trying to discredit the hero, whom everyone had seen defend the whole capital and thus, the Alliance itself!
+
+And Rhys?
+
+Well, he was dead. There was no need to send anyone after a dead man. His body was incinerated, of course. It wouldn’t do to leave it lying around where any old villain could resurrect it. Naturally, they incinerated the whole dump, too, just in case there was any scrap of his body left. That was why the whole thing vanished overnight, and no other reason.
+
+The new Sword Saint, who quickly was placed as the Alliance’s temporary leader until a new leader could be elected, presided over the proceedings with his three strange new advisors—an unspeakably beautiful man, a slender, black-robed man who oozed bloodlust, and a shadowy figure who was rumored to be so successful at stealth they no longer knew how to show their face.
+
+The new Sword Saint was a good and earnest leader who quickly gained the love of his citizens. He was so busy with training and work that he was rarely seen out of the palace, and he certainly didn’t have the time to take any breaks. Which was why he wasn’t standing on the beach now, a complicated expression on his face.
+
+“You’re really going?”
+
+Ankle deep in the sea, Rhys turned back. “Like I said. I need to keep growing. I can’t stay here forever.”
+
+Bast chuckled. “Don’t grow too fast. Leave me some breathing room to catch up.”
+
+“What do you mean? If I don’t work with all my might, you’ll surpass me in a blink, and I’ll be the one left behind!”
+
+The two just stared at each other for a long moment. At last, Rhys looked down. “It wasn’t long enough. Us fighting together, I mean.”
+
+“Yeah. Same.”
+
+“So you’d better catch up fast, got it? I’ll see you soon.” He turned to the woman standing next to Bast. “And you’re sure you don’t want to go?”
+
+Mouse shook her head. “I’m not ready, either. I need to get stronger. But as soon as I am—I’ll be there.”
+
+“I’m counting on it.”
+
+“Don’t you dare forget about me.”
+
+Rhys laughed. “That’s in your hands, not mine.”
+
+“Even if I make you forget—you’re still not allowed to forget!”
+
+“Now you’re just being unreasonable!”
+
+He took a deep breath. For a second, he turned to look at what awaited beyond, then, for the last time, looked back. “Don’t be too long, now. I’ll be waiting for you. Bast. Mouse.”
+
+Bast took half a step forward, then stopped. Mouse wasn’t so hesitant. She charged into his arms and wrapped him up in a big hug. Rhys just stood there for a second like an idiot, then hugged her back.
+
+“I’ll miss you.”
+
+“Me too.”
+
+“Don’t go find some pretty girl over there and forget about me.”
+
+“I won’t.”
+
+There seemed to be something on the tip of her tongue, but at the last second, she said nothing. Instead, she released him and stepped back, tears welling up in her eyes.
+
+Bast looked at them both with a complicated expression. Rhys offered his open arms to Bast, but the man just shook his head and laughed. “I’ll see you on the other side.”
+
+He kicked off the ground and took to the air, flying out over the ocean. He didn’t look back, because he knew if he did, he’d never leave. Instead, he set his eyes on the horizon and left it all behind: the Alliance, Bast, Mouse, and everyone else he’d met since he’d arrived in this strange new world. He’d be back, and they’d return; but for now, it was time to set off on his own. To well and truly explore this wonderful new world he’d landed in.
+
+And there had to be so much more. So much untapped trash and garbage on the other side of this ocean. He got antsy just thinking about it.
+
+Just you wait, trash. Here I come!
+
+END BOOK 5.

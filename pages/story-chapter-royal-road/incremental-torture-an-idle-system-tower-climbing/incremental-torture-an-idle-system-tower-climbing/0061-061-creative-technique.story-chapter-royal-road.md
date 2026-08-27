@@ -1,0 +1,125 @@
+---
+id: 4bb045bd-ffac-5ba4-933c-3f5dcd74fdb8
+page-type-slug: story-chapter-royal-road
+title: "061: Creative Technique"
+slug: 0061-061-creative-technique
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 61
+ownLength: 2085
+unit: words
+publishedAt: 2024-06-26
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1693650/061-creative-technique"
+royalRoadId: "1693650"
+---
+
+Even as she stumbled backwards, the bones in her arms shaking from the heavy impact of the hyper boss’ blow, Evelyn cackled in glee.
+
+She had not emerged victorious from the second clash, but hadn’t lost either.
+
+Furthermore, her little experiment with her mana manipulation had borne fruit. Even without access to the skill itself, she could still use her mana to battle, relying on the small uses of it to engage certain effects and bolster her strength or speed.
+
+Knowing that it was possible opened up a world of possibilities. The ice and fire that came with the skill should still be accessible, the former being a vital way of countering Dazurmagon’s own elemental affinity.
+
+Perhaps more impressive than her own discoveries in magic was the durability of her new weapon. The old hammer had chipped and cracked after a single blow against the tough, stony exterior of the Worldshaker.
+
+Yet Spinebreaker remained unblemished. Just as smooth and fearsome as when she had pulled it from her inventory the first time. A true masterwork.
+
+Evelyn hefted it in both hands once her arms stopped shaking. A little more mana had trickled into her circuits after the previous clash, though not as much as when she had taken the strike with her body. It seemed the amount gained was relative to the energy she herself absorbed, rather than through a medium like a weapon or armour.
+
+That was fine, though. She had begun to piece together the movement patterns of the hyper boss’ new form and felt able to somewhat guard against its strikes even without use of her mana.
+
+And the magma giant had grown a little less incensed after her strike chipped away at its knuckles. The damage was repairing, lava leaking from within its body and solidifying to form new flesh in place of the old.
+
+Not only was this new form faster and stronger, but it seemed to have a greater capacity for healing. That didn’t bode well for her, but she had a wide array of new tools to test and her confidence was sky high.
+
+She had been a little nervous about how she would fare post ascension, but her evolved fortitude attribute seemed to be pulling its weight and Spinebreaker combined with the 15 power she had gave her just enough offensive prowess to hold her own.
+
+Provided she could gather up a sizable quantity of mana over the next few exchanges, Evelyn was certain she could do some serious damage to her foe.
+
+A problem which she had anticipated but not fully been prepared to deal with was the lack of speed, and to a lesser extent stamina, which came with the resetting of her attributes. Her physical body had morphed during the ascension, but not transformed. Grappling with muscle memory acting in ways beyond her body’s capability to act was starting to wear on her, and it caused strange lags in her movements.
+
+Soul of the Unstoppable Conqueror would carry a lot of the slack, when it came to staying on her feet and seeing the battle through to the end, but dealing with the aftereffects would not be comfortable.
+
+Dazurmagon had overcome its brief bout of trepidation towards her, and with its fist already back in working condition it began a renewed assault.
+
+What followed was a flurry of action that Evelyn could just about follow with her eyes. Her body was doing most of the work, acting on instinct to block or parry the Worldshaker’s blows. She failed to stop them all.
+
+A few heavy strikes slipped through, two landing on her arms and almost knocking Spinebreaker from her grip. One glanced off her thigh, leaving a red web of blistered and burnt skin. The worst of them was a direct blow just underneath her ribcage, catching the bone and knocking the breath from her chest.
+
+Her knees buckled.
+
+Spinebreaker shifted in her hands, her attempts to keep it steady not helped by the layer of sweat on her palms. The trance of focus was lost and her foe was quick to exploit the gaps which had appeared in her defences.
+
+The hyper boss was a calculating creature, and aimed its follow up attack for the same spot on her stomach, looking to capitalise on its first success.
+
+Through a mangled combination of a half-parry and a frantic, clumsy attempt at dodging Evelyn was able to avoid suffering a serious blow. That didn’t make it any less painful. While the monster’s fist had only clipped the side of her stomach, the superheated stone still burnt away at her flesh and knocked her off balance.
+
+And it wasn’t prepared to let up the tempo.
+
+None of the monsters on this floor had used anything but their fists and some combination of magical flame and stone to attack her. Which was why she was utterly unprepared for Dazurmagon to whip a lightning fast kick at her after its failure to connect the second strike.
+
+Here, the fact it was unrelenting in targeting her previous injury worked in her favour. Her body knew where the attack was going to land before her mind processed the fact she was being attacked.
+
+During the course of their clash, Evelyn had refrained from using the pittances of mana that gathered each time she was struck. That meant that a sizable amount had accumulated in her reserves, enough that she felt confident that it could shift the trajectory of the battle.
+
+Figuring out how to deploy her mana to make the greatest impact took a moment longer than it should have.
+
+Dazurmagon’s kick was just a hair’s breadth away from connecting when Evelyn exploded with magic and might. Half of the stored mana was burned in an instant, forced out of her back and launching her past the assuredly lethal kick and onto its still swinging leg.
+
+Regaining her balance was tricky, but Evelyn wasted no time in sprinting towards the hyper boss’ torso. While the kick was still in motion, its leg was close enough to horizontal that she wasn’t fighting against gravity, and it couldn’t move to throw her off without putting its own balance in jeopardy.
+
+That gave her a minute window in which to act.
+
+Even before using half of it, the gathered mana only amounted to around a fifth of her previous maximum. Nowhere near enough to cause lasting damage to an enemy of this calibre.
+
+If I won’t be able to cause enough damage to cripple it, then I should focus on gathering information about this new form. Knowing what weaknesses it has is essential to bringing it down, even more so now that I have less raw power to lean on during our battle.
+
+Her target then, had to be its chest. Focus all her power into a single point and attempt to smash it open just enough to find out if its core was still in the same place.
+
+Evelyn wasn’t even sure she had the strength to achieve that. In fact, she knew in the back of her mind that most of her attacks were only causing damage because Spinebreaker was such a magnificent weapon. Her own strength was severely lacking for the task at hand.
+
+All of those thoughts and worries flew through her mind in the brief time it took her to reach the end of its leg. Here, she would have to burn more of her precious mana pool to launch herself upwards.
+
+Her fine control over her mana had improved in leaps and bounds since her first attempt to manipulate it. Judging the exact amount she would need to jump seven metres into the air wasn’t difficult. Allowing a little extra just in case her calculation was wrong, Evelyn shot towards her target.
+
+The caution was unwarranted, and she overshot the mark. That wasn’t an issue, though, as her weight sent her falling towards the molten, stony flesh of the monster as soon as her momentum petered out.
+
+After everything was accounted for, she only had a little more mana to work with than when she’d first struck out against her enemy.
+
+This time however, her strike was smoother and the full force of her shoulder and arm muscles working in concert could be brought to bear. Spinebreaker seemed at home in this environment, its dark red sheen a mirror of the hellish surroundings.
+
+Evelyn split the mana between bolstering the speed of her blow and freezing the site of impact. She tensed against the recoil when her warhammer smashed into stone.
+
+Chunks of molten rock flew at her, and lethargic spurts of lava, slowed by the ice of her strike, splashed against her skin.
+
+Through the cloud of dust and debris, Evelyn strained her eyes to see any sign of the hyper boss’ core.
+
+Any telltale glimmer, or peek at the smooth crystalline surface would suffice. At first she thought that her blow had been too shallow, but as the visual obstructions cleared she saw that Spinebreaker had carved out a decent chunk of Dazurmagon’s chest.
+
+As she began to fall back to the arena, Evelyn’s heartbeat quickened. There were two possibilities for what she was seeing.
+
+Either the boss’ core had shifted positions after its transformation into this new form, which would give her the new goal of attempting to find it while not getting pulverised in the process, or it was no longer powered by a core.
+
+There were perhaps more than just those two options, but of the myriad possibilities they seemed to be the most plausible.
+
+Neither was a clear favourite, in terms of which she wanted to deal with. The first perhaps would be easier, since she already knew how to defeat the Worldshaker by that method, once she had discovered the core’s new location - provided she was able to keep up with the rigours of combat against an overwhelmingly powerful foe.
+
+If it was the second case, that it no longer had a core, Evelyn had no idea how to even approach that battle. What would its new achilles’ heel be? If it even had a particular weak point, that is.
+
+She ran out of time to deliberate, as a faint rumble echoed through the arena. Dazurmagon’s foot had slammed into the ground as its missed kick came to completion and immediately it pivoted its weight onto the other leg and slapped towards her with an open palm.
+
+With no mana left to call on, Evelyn had little option but to raise her hammer into a makeshift guard and ready herself to take the blow with naught but the strength of her body and a generous helping of willpower.
+
+Which wasn’t much help when the full force of a twenty metre tall giant formed of magical magma and stone was slapping you into a nigh unbreakable stone floor. She was able to mitigate a portion of the actual blow, suffering only from the heavy recoil that dispersed along Spinebreaker’s shaft, blossoming into mana as it reached her.
+
+However, she had nothing at her disposal that would help with the landing.
+
+Evelyn chose to sacrifice her right leg rather than risk both, landing on just one foot. A few of the bones in that foot shattered on impact, followed by the tendons and ligaments of her ankle straining to their limits, a few following suit and snapping as the impact overwhelmed them. Her shin was the last bone to break.
+
+Having absorbed the brunt of the fall, the rest of her body suffered far less damage. Which was still a mess of internal bruising and uncomfortable rearranging of her organs as they wobbled about. She hoped that the rollercoaster ride her brain was going through wouldn’t give her a concussion. Though she had little time to worry as Dazurmagon’s palm approached her crippled figure.
+
+Taking on another blow, as she was, would spell the end of the battle, but she was drawing a blank on what to do.
+
+With no skills that could help her out, and little in the way of mana, Evelyn feared the worst. She drew all the mana she had out, and pushed beyond that despite the severe pain it caused her, circulating it around Spinebreaker in preparation.
+
+As she pushed past her empty reserves and kept going, she felt a faint pulse from deep within. What followed was a blur as she acted on trust and instinct rather than any semblance of logic or coherent thought.

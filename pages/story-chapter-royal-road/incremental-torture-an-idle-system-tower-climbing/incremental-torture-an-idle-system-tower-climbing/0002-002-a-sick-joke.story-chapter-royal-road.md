@@ -1,0 +1,115 @@
+---
+id: 20d46bf1-6397-5a22-9433-c4028b4344c6
+page-type-slug: story-chapter-royal-road
+title: "002: A Sick Joke"
+slug: 0002-002-a-sick-joke
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 2
+ownLength: 2245
+unit: words
+publishedAt: 2024-03-20
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1561197/002-a-sick-joke"
+royalRoadId: "1561197"
+---
+
+Evelyn scoffed at the ridiculous prompt that had appeared after she slaughtered the last of the rats. It wasn’t much of a reward if you had to pay for it. The idea of recovering from all the accumulated damage of the battle was sorely tempting, but she knew better than to lose out on potential long term gains just for temporary comfort.
+
+It said my personal status has been unlocked, I wonder what that means? Judging from the fact one of the available rewards is an ‘attribute point’, I’m guessing that this whole setup is somewhat similar to a video game, where I can invest points to bolster my speed or strength. That sounds beneficial. Killing those rats would’ve been much easier if I wasn’t so weak. Makes me wish I hadn’t cancelled that gym subscription last year.
+
+My rock was pretty handy for taking down the rats, but if further floors hold bigger and stronger enemies, a proper weapon will be of far greater use. My first course of action should be to check my personal status, but it didn’t exactly tell me how I can access it.
+
+“Status,” she said out loud, testing to see if the simplest solution would prove to be the correct one. A rather wordy screen appeared next to the reward selection following her declaration.
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+|Attributes|
+
+Power: 0
+
+Speed: 0
+
+Stamina: 0
+
+Vitality: 0
+
+Mana: 0
+
+Fortitude: 0
+
+It was rather bare, showing only some limited information about herself which she already knew. At least she’d never had a reason to doubt that she was human until now, though confirmation was comforting. All of her attributes started at 0, though besides the fairly standard ones like power and speed, which she’d expected, was the ‘mana’ attribute.
+
+That could only mean one thing and even someone like her who was a novice when it came to video games knew what that was.
+
+Magic! If I increase my mana attribute will I eventually be able to cast spells like a proper wizard? That seems tempting but wasteful until I can learn more. Something immediately beneficial like power or speed would be a better use of the point if I decide to buy it.
+
+Hefting the jagged rock in her hand, Evelyn judged whether she needed the upgrade to her weapon or if she should start investing in her attributes. Her decision would’ve been far easier if she had more information about how the tower functioned, but it seemed that she would need to scrape and claw her way to each little tidbit.
+
+Rocks had been used to fell far mightier foes than the putrid vermin that lay dead at her feet and she had little idea of how to actually use a dagger. It might end up being more of a hindrance than a help if she lost the weapon to an enemy. The attribute point represented a permanent investment that would slowly start to bolster her limited capabilities, so she opted for the middle reward, leaving her with just 10 essence.
+
+The moment she chose her reward, Evelyn heard a strange whirring sound and was bathed in a blue glow from behind. She turned to see a portal in the shape of a rectangle had appeared near the brazier where she’d first woken up on the 1st Floor of the tower. It likely led to the 2nd Floor, but before she could move onwards, she had to decide which of the six attributes to invest her point in.
+
+It was actually a more difficult choice than she’d anticipated. While killing all of the rats had taken a serious toll on her, that was more to do with the sheer number of them and their unwavering determination to dive at her without thinking of their own safety than their individual strength.
+
+Stamina seems like the ideal choice, but if the next floor has enemies who are physically stronger than me I’ll be in a seriously tough situation, even with my trusty rock. Thanks to my makeshift weapon, I don’t think I need to invest in strength yet, so I guess speed is the best shout, since it will allow me to hopefully evade far more strikes than I managed to here and get more hits in.
+
+With her decision made, Evelyn invested her attribute point into speed. There was no immediate effect, contrary to what she’d expected. Given the cruel nature of the tower thus far she thought increasing her attributes would be accompanied by pain or discomfort at the very least, but there was nothing. To see if it had actually changed anything, she tried swinging the rock a few times and dashing around.
+
+She felt like she was moving a little faster than before, but it could also just be her imagination. Maybe the points weren’t as impactful in small doses and Evelyn would need to accumulate far more in order to see noticeable improvements. Regardless, she still believed it was the best choice available to her and made her way to the glowing blue portal, steeling herself for what awaited her on the next floor of the tower.
+
+Evelyn was slightly nervous about entering the portal. Despite somewhat acclimating to the strange and disconcerting events that were unfolding one after another, it didn’t make her less apprehensive when facing the enigmatic mysteries of the tower. She dipped a hand in first as a test and it passed through the flat pane as if it wasn’t there. After pulling it back to check it hadn’t mutated or been cut off by the portal, she confidently strolled in, blood soaked rock in hand and ready to face whatever challenges were on the next floor.
+
+It had crossed her mind to take some time to rest and recover her strength before challenging the next floor, but it was unclear if the portal would remain open indefinitely and the last thing she wanted was to be trapped in a dark cave with no clear path forward. A safe floor had to exist somewhere, so she would just keep advancing until it became too difficult to do so.
+
+Stepping through the portal felt similar to walking through a regular doorway, with no uncomfortable feelings or signs of magic occurring. Evelyn simply stepped in on the 1st Floor and stepped out into another dimly lit cavern that was remarkably similar to the one she’d just left. So similar in fact, that she wondered if the portal wasn’t just an illusion and she was still on the same floor.
+
+A notion that was quickly dispelled by a familiar and jarring scratch of claws on stone. Evelyn prayed the sound wasn’t what she thought it was, but fate was clearly playing a cruel prank on her because what greeted her eyes when she turned around was another pack of rats. This time however, they looked less malnourished, with cleaner fur, more muscular bodies and slightly sharper claws.
+
+What’s going to be on the 3rd Floor, even bigger rats? Shitty tower. All I wanted was a relaxing picnic with my favourite people on the planet and instead I’ve been reduced to a glorified pest controller.
+
+While Evelyn was lamenting her situation, the rat pack had noticed the new arrival in their home and begun to move out to investigate. Her decision to take the attribute point and invest it into speed rather than the rusty dagger had proven to be the correct one; killing rats with a stone was probably easier than with a knife, and the speed would let her take less hits and hit back more.
+
+As she moved her feet into a more stable stance, one of them brushed against a welcome sight - another jagged rock. Dual wielding stones felt like it would be a highly effective strategy against these particular opponents, but unfortunately Evelyn wasn’t ambidextrous and would likely only make a fatal mistake if she tried to do so. Seeing that her new find was a little heavier than her old model, she instead decided to make full use of both stones by launching her blood soaked old friend at the incoming rat pack.
+
+The rodents hadn’t expected her to make the opening strike and the rock smashed into an unsuspecting rat in the middle of its kin, splattering the surrounding rats with its blood and brains. Following the first kill, she darted forwards and stomped on the lead rodent, incapacitating it. The rats on this floor were a little bit tougher than their starving brethren on the 1st Floor, so she needed another heavy stomp to finish it off.
+
+Thank God I didn’t wear sandals to the park, or I really would’ve been in trouble. Probably would have lost a few toes back on the 1st Floor.
+
+Evelyn retreated quickly, not wanting to get caught in the middle of the charging rats, but they reacted quickly and two of the closest launched themselves at her, one aiming straight for the head and the other her exposed thigh. Any damage to her eyes would be crippling and it was just plain disgusting to have rats anywhere near her mouth, so she opted to bash the rat that was on an arc for her head with her brand new rock, the extra weight proving effective as it crushed the beast’s spine and sent it careening into the middle of the advancing horde.
+
+The second rat got a rude welcome as she raised her knee to block its assault, however it was a tenacious little bugger and dug its claws into her flesh, refusing to let go despite her strike doing solid damage. Smashing her own knee was a definite no go, as it would seriously impact her mobility and with the majority of the rats still alive, Evelyn couldn’t afford to take that risk. Instead, she grabbed the rat with her free hand and ripped it from her leg before slamming it into the floor and ending it with a stomp.
+
+Searing hot pain flared through her leg from four bleeding wounds. The rat had managed to rip chunks of her flesh out as she’d torn it loose. She could deal with a little pain.
+
+Essence: 15
+
+【KILL】
+
+Strangely, she’d earned 5 essence after killing the first four rats on this floor. It seemed that while they were a marginally bigger threat than the malnourished filth on the 1st Floor, not all of them were so much stronger that they offered a greater reward for taking them out.
+
+As long as this damned tower doesn’t do something ridiculous like offer me a reward that I can’t afford or give me another room full of rats, I’ll be fine. Though I wouldn’t be surprised about the rats at this point.
+
+The next twenty minutes were filled with smashing, sprinting, stomping and at one point Evelyn even used a dead rat as a club to beat another to death, proving that true creativity always flows from a disturbed mind. As expected, the tower offered her another selection of rewards and she was extremely grateful to see that none of them were outside her price range. In total, seven of the rats had rewarded her with double essence, meaning she had a grand total of 42 after slaying them all.
+
+Congratulations on clearing the 2nd Floor! You may purchase one reward from the following:
+
+〖Full Recovery〗- 10 Essence
+
+〖Rusty Dagger〗- 25 Essence
+
+〖1 Attribute Point〗- 25 Essence
+
+〖Grey Star〗- 40 Essence
+
+All of the rewards from the previous floor were offered to her once more, though the price of an attribute point had increased to 25 essence. Presumably every time she purchased one, it would increase further. No way this twisted tower would make things that easy. In addition to them was a new option, the grey star.
+
+Unlike the other rewards, the name offered little idea of what it actually was. It could be a weapon like the rusty dagger, but stronger, or it could be something entirely different. There had to be a reason behind the pricing however and Evelyn had a strong suspicion it would be a powerful object, whatever its purpose.
+
+Having become acclimated to the brutal combat and the movement patterns of the rats, Evelyn felt like she’d handled herself much smoother on the 2nd Floor compared to the 1st. The noticeably lower amount of cuts and bruises on her body were a testament to that fact and perhaps the minor upgrade from the speed attribute was helping out in hidden ways.
+
+I still believe the rusty dagger would be a waste of essence and since the tower seems to offer similar rewards each time, there’s no danger of losing out on an opportunity to purchase further attribute points if I don’t get them now. Using nearly all my essence on the grey star should be a worthwhile experiment. If it turns out to be useless, it’s better to find out now rather than ignoring it and realising later down the line it’s an essential purchase I missed out on.
+
+Evelyn locked in her choice, opting to purchase the grey star for 40 essence, leaving her with just 2. Perhaps on the next floor she might need to go with the full recovery if it was still available as the fatigue of constant battle was beginning to weigh her down. Suddenly a searing hot pain assaulted her and she fell to her knees.

@@ -1,0 +1,87 @@
+---
+id: ee31e9de-4399-5deb-b8bd-6083ab9fa474
+page-type-slug: story-chapter-royal-road
+title: "139. Water Syndicate vs the Snack Shack"
+slug: 0139-139-water-syndicate-vs-the-snack-shack
+partOf: god-of-trash
+position: 139
+ownLength: 2332
+unit: words
+publishedAt: 2025-07-23
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2460484/139-water-syndicate-vs-the-snack-shack"
+royalRoadId: "2460484"
+---
+
+Business continued to flow freely. Potatoes flowed out, fried into delicious golden chips and fries, and gold flowed in. A few days passed. Rhys checked on the raccoon’s farm and watched as the raccoon grew the next generation of farmers, and swung out a few times to make sure the ex-criminals got to work putting their powers to good use, producing potatoes, tomatoes, and continuing to set up Rhys’s second farm. Rhys poked around in town, looking for someone selling sugar beets or sugar beet seeds, but there wasn’t much of an agriculture market in this city, as developed as it was, not to mention that most mages weren’t overly interested in agriculture, since they didn’t have to eat. He wanted to head out into the surrounding rural areas, talk to some mortals, and source himself some seeds, but with the criminals hanging over his head, he couldn’t leave the shack unattended. He was the sole Tier 3 in their arsenal, and as competent as Sable and Lira were, they weren’t Tier 3; if a Tier 3 or worse, 4, showed up, he’d be the only one who could stand a chance against them.
+
+Sable hung out in the tunnel. Rhys always paused to exchange a few words when he passed, to make sure she didn’t get bored, but honestly? She seemed happy with her seclusion in the dark. He didn’t know what kind of monster her father was, but given Sable’s limbs and tail, he seemed likely to be some kind of bug-based monster, maybe a scorpion. Scorpions liked the dark and hiding under stones, so maybe Sable shared that proclivity. He didn’t know, but she seemed happy, so he wasn’t going to force her out of her happy place. Not when it also helped him out.
+
+The Crimson Flare Orb wasn’t much use to him offensively, given his low affinity with fire and fire-based techniques. He offered it to the other mages, but none of them were interested. Mouse took a good look at it and finally explained that it was an orb meant to be slotted into a larger armament—basically, a mana battery for fire-elemental mana. It had high power output, as he’d seen, but took a great deal of time to get going, as he’d also seen, which meant that even though it allowed a Tier 1 mage to access Tier 2 fire spells, realistically, it couldn’t be used in combat by a single mage, since it took too long to heat up and fire… as he’d seen in Logan and Sable’s battle. As a mana battery powering some kind of city-defense level armament, it was perfectly acceptable; after all, it was the kind of weapon that could be fired at an enemy army from a hundred miles out by some grunt with little training. Still, what made it useful for long-ranged city-level conflict made it not too much use to a mage engaging in one-on-one combat, since a real Tier 2 mage could easily dispatch a Tier 1 mage faking Tier 2 with such a clumsy orb.
+
+Looking back on it, he recalled Logan bragging about his prowess and his orb. Had it all been a bluff, meant to dissuade him and Sable from attacking? He pursed his lips. A weaker or more cowardly Tier 2 mage might’ve been scared off, but he was Tier 3, and Sable was a high-class, aggressive Tier 2 mage who didn’t hesitate to charge into any battle. It had been a poor misread of his opponents, when what he should have done was stall for time to charge up the orb… though thinking back, he’d bought himself some time chatting with Sable, hadn’t he? Ultimately, Rhys had to concede that Logan had played his orb perfectly. Logan’s real mistake was that he was using trashy tactics against opponents who were even trashier, who weren’t playing mind games or three-dimensional chess, but instead the simplest, trashiest game of all—raw might.
+
+At the end of the day, they’d won, Logan had lost, and now he had an orb of fire no one wanted, that he had to figure out how to utilize. With no better use for the orb, he chucked it under one of his oil pots… where it became a convenient, easily configurable, and highly regular source of heat, so he immediately put one of the more enchanting and engineering-inclined mages to work manufacturing a series of heat coils to distribute the heat from the orb evenly across all the vats that required heat. It was nice to not have to run around searching for fuel or powering the fire with his own mana, too, so that was an added bonus.
+
+He was standing in the kitchen, chopping potatoes for chips, when an urgent pulse of mana rushed to him from Sable’s location. Rhys dropped his knife and ran, and Lira, who’d been appraised of the situation, chased after him. They were still using a stand out front instead of inviting guests in to the store, due to the furniture’s run-down nature and the potential of criminal incursions, so there was no one to worry about when he ripped open the trap door and dropped into the tunnel. Lira followed after him, splashing down in a self-made puddle. They ran along the tunnel, toward Sable’s mana pulse. The sounds of fierce battle echoed along the tunnel the second they stepped inside, growing louder with every passing second.
+
+Around a turn, and the fight came into view. Sable clashed with a group of battle-scarred men. The majority of them were Tier 1 or so, but hanging in the back, one of the men emanated a powerful Tier 2 aura, at the upper limits of the Tier, if not on the verge of breaking into Tier 3. There was a bored expression on his face, but as Rhys and Lira appeared, his expression brightened. Over Sable and the underlings’ battle, he pointed at the two of them… no, at Rhys. “Finally, a warrior worthy of my intervention. Lloyd Waters, at your service!”
+
+“I think Sable’s worthy enough of your intervention,” Rhys countered.
+
+“Someone so easily bogged down by my underlings isn’t worthy of my blade. I take it you’re the one who killed my younger brother?”
+
+Rhys blinked. Logan Waters had been in his forties, easily, with the receding hairline and pot belly to match. Lloyd, on the other hand, looked in his mid, maybe early thirties, not quite youthful but with the strength and vigor of a man in his prime. Between the two of them, he would’ve called Lloyd the younger and Logan the elder… but that was using mortal logic, not mage logic. Lloyd appearing younger just meant the man was more skilled, and able to freeze his age younger.
+
+He waved his hand, pushing his extraneous thoughts aside. “No, that was Sable, actually, but if it’s a fight you want, I’m happy to provide. It’s been too long since I last fought.”
+
+“Then she’s the leader?” Lloyd asked, giving Sable a doubting look.
+
+“No reason why she couldn’t be, but if you were being strict about it, I’m the leader. By the way, how many brothers do you have?” Rhys asked.
+
+“Three, now that you’ve killed Logan.”
+
+Rhys nodded, spinning his broken blade casually. “So I only have to kill four more of you before I can face the big bosses? Good to know.”
+
+Lloyd’s face turned dark. He drew his sword and held it out in one end, pointing its tip toward Rhys as if he could stab Rhys from where he stood. Even though the men were between them, Sable and the underlings’ fight taking up all the space in the tunnel, sharp killing intent reached Rhys. “You’ll die for underestimating me.”
+
+“Underestimate, nothing. It’s simple math. Or do you not understand math? I thought drug dealers were at least capable of algebra.”
+
+“You think we’re mere drug dealers?” Lloyd asked.
+
+Rhys spread his hands. “Yeah? What else do you do, murder for hire? Human trafficking? I’m not going to be impressed, but it’ll help me justify slaughtering you.”
+
+They were bad-guy words, but he was in his villain era, so it felt right. As he spoke, Rhys breathed out a plume of invisible toxic air from the trash fire burning inside him. Using Trash Manipulation, he kept the toxic gas compressed into a tight ball, then sent it flying toward Lloyd. Trash Manipulation struggled to handle a mass of gas. It took an immense amount of concentration on Rhys’s part, but he kept it wrapped up tight and slowly floated it toward Lloyd, over the ongoing battle and past Sable and the underlings.
+
+Lloyd laughed. “We’re the premier criminal syndicate in the Empire. There’s nothing that we can’t accomplish.”
+
+“If this is all the better the Empire’s criminals get, then… damn, I guess the Emperess’s anti-crime techniques really are effective,” Rhys said, shaking his head. The trash gas bobbled along. All it wanted to do was flee upward and disperse. It took every ounce of Rhys’s will to keep it compressed. In a battle, he’d completely be unable to concentrate long enough to use this technique, but in an exchange of trash talk, he had plenty of mental power to spare.
+
+Lloyd narrowed his eyes. His grip on his sword tightened. “You won’t be saying that when you meet my older siblings.”
+
+“But I can sure say it when I meet you!” The invisible ball of gas finally floated over to Lloyd, and Rhys released it—or at least loosened his hold. It burst from a tiny compressed ball of dense poison into a big amorphous cloud of poison that fell over Lloyd. To be honest, Rhys had no idea how powerful this gas was, or how useful this attack was going to be; he’d just wanted to use Lloyd’s little brother Logan’s delay tactics against Lloyd. It was a good idea, so why not give it a shot? It hadn’t worked for Logan, but then, unlike Logan, he had plenty of backup plans and tactics. This was but his opening move, the first pawn shifted in chess.
+
+Lloyd stared at Rhys for a second, confused why his final declaration had been so enthusiastic, until the clear gas swirled around him, sucking into his lungs and decaying his flesh where it touched his skin. He dropped his sword and staggered back, beating at his skin, but the more he touched the gas and thrashed in it, the more the gas coated his body. Lloyd screamed, tearing apart piece by piece. With his last breath, he charged Rhys, but before he made it to his underlings, his body came apart and fell to the floor in a rapidly-decaying pile of mush.
+
+Rhys blinked. He looked at the pile of goo, then at his hands, then touched his mouth. Is my breath that bad…? How was the gas staying in his core without destroying him? Especially with how his core was functionally ruined mess.
+
+His mind went back to his early days, repeatedly reforging his body in Infinite Constellation School. Back then, he’d forced his body to take all kinds of abuse and grow stronger, more capable of handling acid, trash, impurities, and everything else. He raised his brows. I guess all my hard work is paying off. He’d worked hard to hammer his body into better shape from the trash form he’d started off with, and now, it was able to handle all kinds of hideous filth. Including, apparently, the kind of intensely toxic fumes that could melt a Tier 2 mage outright.
+
+Rhys clapped and turned to the underlings. They still fought with Sable, but with less vigor now that their boss had been killed in short order. “If you don’t want to be melted like your boss Lloyd, stop fighting. I’ll spare your life if you join my team, and work on my farm instead.”
+
+One of the men glanced back, distracted. Sable lashed out, disarming him. He threw his hands up and surrendered. Once one of them surrendered, the rest quickly followed. Rhys dusted off his hands, pleased with a job well done… though a little uncomfortable with the puddle of filth he’d turned Lloyd into. He’d really expected that to be the first move in a salvo, not the final word in their exchange.
+
+He reached out toward it, absorbing the Lloyd soup and the remnants of the toxic gas into himself alike, then clapped and turned to the newly-acquired farm workers. “Lira, would you lead them to their workplace? There’s some previous thugs… er, farm workers there, and they can join them.” He turned to the newly acquired farmers. “You can ask them anything. They’ll show you the ropes. And don’t worry, we pay well.”
+
+Lira snorted, dissatisfied. “Didn’t even get to fight, and now I’ve got to run errands…”
+
+“I can walk them there if you’d rather,” Rhys offered.
+
+She waved her hand. “Might as well do something useful.”
+
+“Sorry about that. I really had no idea that was going to kill him,” Rhys said apologetically. He’d really expected it to simply weaken him, as a test, and then he’d hand the fight off to Lira to finish, but things had gone a little sideways along the way.
+
+“Remind me never to let you test new techniques on me,” Lira commented. She turned to the thugs. “Come on. Best get moving before he decides to use you as test subjects instead.”
+
+The criminals jumped up. A few shot Rhys looks of horror, while others simply ran to Lira’s side, not even daring to look back.
+
+“I’m not going to—” Rhys sighed. Nothing he could do about that. He had melted their leader, and it had been an accident, but he didn’t usually go around accidentally melting people. Still… given that that was all these people had seen of him, he couldn’t exactly blame them for their fear, even if it was misplaced.

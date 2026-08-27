@@ -1,0 +1,149 @@
+---
+id: e734d613-97d8-5dd4-b2a2-d161acc711f9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 863 - Intruders"
+slug: 0191-chapter-863-intruders
+partOf: hell-difficulty-tutorial
+position: 191
+ownLength: 2442
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3831859/chapter-863-intruders"
+royalRoadId: "3831859"
+---
+
+We fight our way through a bloodline group, and this time it’s much more enjoyable since we don't have to wait out their minute of invulnerability.
+
+And now the second fight is about to happen, this time not in hallways but in an oversized cubic room as the Glass House shifts and opens. Before the fight can even start, glass walls appear in front of us and Melek starts hyping the whole thing up. He introduces the combatants and mentions some of the more impressive things they’ve done, which makes me think it has more to do with Prince Kip than me and Vic.
+
+From what I’ve seen, I think this vyssari with his Superman-like laser eyes, so powerful they burn his eyeballs out, might be one of the strongest participants. So far, I think the favorites are him, that shadowy guy Euris, Xixi, the bear man with [Telekinesis], and a female thylarin array specialist with six arms.
+
+Every time any of them seems to be entering a slightly more difficult fight, Melek chooses that moment to start annoying everyone, and the Glass House starts shifting impossibly.
+
+"This is your last opportunity to donate! The countdown will be starting in just a few moments. Maybe the fate of your favorite lies on your shoulders!" Melek shouts.
+
+The whole thing makes me start taking note of our opponents. There are six of them, but it is difficult to say whether or not they’re dangerous, as sight is the only sense able to pierce the walls, giving me no way of feeling out their presence. Not even my eyes are helping here.
+
+So for now, I stand here and wonder what Melek would do if we just turned around and left after all this hype.
+
+[Selective Adaptation - lvl 17 > Selective Adaptation - lvl 18]
+
+Meanwhile, my new skill is continuing to level up nicely. It’s already gained almost ten levels in the last few days. Maybe it wouldn’t be such a bad idea to fuck my body up a bit more to get an easy level up for the trouble. The question remains as to whether that’ll even be possible.
+
+Strangely, I think Victoria knows what she’s doing by telling me to limit my effort to thirty percent. I have a faint memory of someone else saying something similar, but their opinion doesn't matter as much as my sister's.
+
+In the past few days, I’ve been starting to feel almost rested, and it’s growing easier to keep my mind together. My ongoing trait strengthening and evolution have also been simpler to deal with, and my constant work on my constructs continues, but since this time, I'm not strengthening them, only fixing them, it’s much simpler.
+
+I know it’ll only be a bit longer before I can stretch my metaphorical wings and give these changes some proper oomph.
+
+[Weave - lvl 28 > Weave - lvl 29]
+
+Yes, just a bit longer.
+
+"The countdown starts!" Melek shouts and begins, "Ten!"
+
+He counts down as if there are others counting down alongside him, an audience that we can't hear. With each number, his voice grows louder and louder. At about three, Vic grabs my hand and presses something into it. I don't even have to look down to know what it is.
+
+The wall drops down, and Prince Kip squints his eyes as two white lasers shoot out of them, sweeping around the arena.
+
+Even though our opponents were building their defenses the whole time, the lasers cut through them as if they were nothing.
+
+I see one participant get cut in half, while another loses his leg, and a third takes a cut to the neck before Prince Kip's eyes are entirely burned out. He closes them as he waits to heal. Even then, he doesn't stop and nimbly jumps into melee, using other senses to locate his opponents while he flies around in the same unnerving fashion kinetic energy affords me. He changes direction with a thump to clash against one of the guys he wounded.
+
+My sister is also already gone, and I watch her body explode into a pile of blood and flesh which immediately drops to the glass floor, staining the wall with gore in the process, but as it sails through the air she regrows from one of the fingers. Her overclocked duplicate punches against the restored barrier and explodes, though the impact does manage to crack it.
+
+Three more Victorias appear, each charging the same spot. In quick succession, all three of them, one after another, hit that spot and explode into piles of flesh and blood, until the fourth breaks through and stabs her clenched-together fingers through the chest of a female human mage with a staff.
+
+I boost myself down to the bottom of the huge cubic space we’ve found ourselves in and twist to dodge two projectiles. I let my eyes see through the last one, and it breaks into particles of mana that twist through the air around me. I gather them over the palm of my hand and form them into a dagger.
+
+The air behind me shifts, and an invisible seventh opponent moves to attack me. Using my kinetic senses alone, I locate him, and at the last possible moment, I reinforce my body and move. I use a short, sudden burst of high speed and lash out with the dagger, cutting into his body.
+
+Another rain of projectiles shoots towards me before I can finish him. These projectiles twist through the air and track me, gathering more and more speed while constantly adapting and changing as they do.
+
+The invisible opponent disappears too, picking up on the way I sensed them and countering it. There isn't even a heat signature for me to follow, so while dodging the projectiles and disrupting the man’s efforts to cast some sort of large-scale attack, I close one of my Preeminence eyes.
+
+For a moment, my sub-minds combine, and I look through the wavelengths surrounding me, sliding into that cold state I had when I was surrounded by hundreds of dolls, not knowing which one would launch the next attack against me.
+
+And then there it is. Something I almost can't explain, but my hand moves ahead, and I grab the invisible guy by the neck and disrupt the field, revealing a human man. His dagger moves to stab my heart, but I concentrate my defensive layer there, and it bounces off. Then a pulse of my mana disrupts the projectiles I’d already seen through.
+
+I quickly release the human assassin as he swings to cut off my arm, and I fly back. He is about to slide back into invisibility when he notices an inscription I drew with my blood on the back of his neck while holding him, unable to cause him more damage with my physical stats alone.
+
+But before he can do anything, the inscription sizzles, fueled by the hyper-condensed mana in my blood, and explodes.
+
+The blast is much bigger than I’d expected.
+
+The shockwave and the pulse fill the cube, bouncing off the walls and almost throwing me aside, even as I raise a barrier around myself. Said barrier also stops multiple projectiles, but opening both of my eyes, I lock my gaze on the selari man who’s been launching them at me the entire time. Next to him, one of his projectiles halts, then turns around and stabs into him.
+
+Before he can do more, Prince Kip's laser cuts him in half.
+
+I see a vyssari thrown by Vic fly through the air, missing an arm and clutching his belly to keep his guts from falling out. I shoot my lance at him, but it freezes just when it’s about to hit him.
+
+"Ozrantisixelevkeks's one-time life-saving gift, purchased by one of our generous audience members, has been used!" Melek shouts.
+
+So I shoot another projectile, but the vyssari avoids it, and his body regenerates quickly just as Victoria crashes into him. And even as he shows off his incredible strength and pierces a hole through her body with a single punch, she grabs his shoulders and almost tears him in two before his bracelet activates.
+
+Only one opponent remains, a feylith man who has spent the entire battle focusing his mental attacks on Prince Kip. But the prince resists them all, pinning the man in place with both hands clamped on either side of his head. Trapped in his grip, the feylith can only continue to unleash a series of desperate, frantic mental attacks on the vyssari.
+
+And then Prince Kip's eyes glow as his twin lasers shoot forth, melting away the feylith's eyes and face, before his bracelet activates as well.
+
+No one likes mind mages.
+
+"And just like that, we have our victors!" Melek bellows. "Congratulations to everyone who placed their bets on Prince Kip and the Royal Bloodline! But the real question is... how will they handle their next opponent?"
+
+A specific hallway lights up, drawing our eyes and forcing our attention toward a shadowy figure walking through it. Just a few more steps and one final turn, and he will be upon us. Having seen a few of his fights, I know our next match will be much harder.
+
+Euris takes his final steps, keeping his eyes locked on us, as Prince Kip’s eyes begin to glow.
+
+Then the wall shuts, cutting off the man’s path towards us.
+
+"No, no, we can't have all the best fights happening just yet!" Melek laughs. "But don't be disappointed. Follow me, and see what..."
+
+Another hallway lights up somewhere in the distance as Melek leads the spectators along, but I don't take my eyes off the man in shadow, intently staring our way. The glow of his red dagger intensifies, and with incredible speed, he stabs it into the wall, causing even Melek in the distance to shut up.
+
+A crack spreads through the wall separating us, the one that had remained completely undamaged throughout the fights, but in the end, it holds, and Euris begins to walk away.
+
+As he takes a few steps, two white lasers strike the exact spot where he made the crack, widening it, and Euris halts. But even then, the wall endures, and the shadow shrouded man heads off to hunt another opponent.
+
+Thirty percent. Thirty percent. Thirty percent.
+
+Maybe thirty-one?
+
+No, no, thirty percent.
+
+Thirty percent.
+
+Thirty percent.
+
+Thirty percent.
+
+I keep repeating this mantra as I watch it all go down, and then both me and Prince Kip follow Victoria. A few minutes later, we pass through the first door into the inner space of the cube, heading toward the black room at the center.
+
+Our Bloodline’s bond was unbreakable. Me, the vyssari with laser eyes, my sister, and later on, some random guys we picked up along the way just to get the door open for us. We had spared them, we brought them in, clothed them, and fed them.
+
+And how did they repay us?
+
+Obviously, by secretly working with another group and sneakily attempting to take out Prince Kip. After all, he’s the strongest one here. The other two are just tutorial attendees.
+
+Everyone knows the advantages that the tutorial and Beyond offer. Just how much they can supercharge and speed up your growth. Everyone knows that only the best your planet has to offer are selected. There isn't a single participant who hasn’t met a person from the First Generation, if not someone who went through Hell difficulty or Beyond. These people are often still Champions, and it’s likely their Absolute is one of them too. Many decades after the tutorial, they’ve settled in, taking positions as powerful family heads, leaders, warriors, and such.
+
+But me and Vic don’t even have 4 years under our belt. Out of everyone here, we spent the shortest time in the system. No one expects much. So what if Melek introduces me as the guildmaster of the Primordial Knights, which even people outside the tutorial have come to know as one of the recurring top guilds of Beyond. So what if Victoria was declared an Absolute candidate by an imitation of The Ancient Monster, Eladore’s Shadow.
+
+I don’t think you can get to where any of us are if you aren't a bit cocky and confident in yourself. Of course, we’re being looked down upon to the point that even Melek mentions my disappointing performance a few times.
+
+But Vic continues to prove herself especially scary. Throughout all these fights, and ever since the start of the Games. Now, she’s saving Prince Kip from a concerted effort to kill him. She creates duplicate after duplicate until even Melek excitedly shouts about how it’s been a long time since he’s seen such an impressive mind.
+
+And even the biggest assholes have to acknowledge that she’s truly something else as she stands there surrounded by piles of flesh and blood, most of which are her own. The crowd goes wild, a deafening sound that Melek finally allows us participants to hear. Many millions, maybe billions of people on thousands of planets watching the Game, and the cheers of live spectators present on this planet as they chant Victoria’s name.
+
+For me, it might seem like they’ve only had a few days to build up to the Game, but on the outside, weeks and months have passed. Most of the participants had already attended their own interviews and had entire episodes dedicated to them, giving a glimpse into the lives of the crowd's favorites. Sad stories were told, goals revealed, and charming personalities were carefully brought to light by Melek for the galaxy to see.
+
+Me and Vic are intruders in all of this. We’re new, there’s almost no info available regarding us. We’re barely a novelty.
+
+Not much is being expected from us, and the last tutorial victor was Adrian, and he won almost a thousand years ago. A talented Absolute that hasn’t been seen anywhere in recent years, so they couldn't even interview him. Lost in history between so many powerful contenders appearing each year.
+
+For the audience, it’s too difficult to like either of us, after all, we just appeared out of nowhere and either personally or indirectly caused the elimination and some deaths of some of the more popular, underdog participants.
+
+Yet, they can’t help but roar for my sister, who stands there nonchalant as death itself. An unkillable goddess with a mind forged of iron.
+
+But I know they would cheer the same if someone unexpected took us all out.
+
+People are fickle just like that.

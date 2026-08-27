@@ -1,0 +1,91 @@
+---
+id: a90f6ba9-4782-5c5b-beea-32e761313422
+page-type-slug: story-chapter-royal-road
+title: "349. Acquiring the Book"
+slug: 0349-349-acquiring-the-book
+partOf: god-of-trash
+position: 349
+ownLength: 2176
+unit: words
+publishedAt: 2026-08-12
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3805727/349-acquiring-the-book"
+royalRoadId: "3805727"
+---
+
+Rhys patted around in the hole, searching for the book. For some reason, the hole in the oak was a dead zone for his mana senses and trash senses alike. It simply confirmed his suspicions that a mage was meddling with these mortals.
+
+He suspected that his cursed sense would pierce through the darkness, but he was right here. It was faster (and less anxiety-inducing) to simply reach in. If he lost his hand, he could grow a new one, after all. It wasn’t that scary.
+
+I wouldn’t like it. It would hurt. But it’s not like back in my original world, where losing a hand was a huge, irreplaceable kind of deal. Hands were a dime a dozen for him here, and in fact, he was already on his second or third hand. Back home, he would have never stuck his hand into a mysterious, dark hole out in the wilderness that could be full of or inhabited by anything. Out here, on the other hand, there really wasn’t that big of a penalty for the same silly behavior.
+
+He groped around on the floor of the tree’s hollow. It was cold and moist inside, and the earth had a grainy, soft, wet texture, like good earth or rotting wood. There was nothing particularly special about the hollow, nor did he encounter any books. It was just a hole in a tree.
+
+“Are you sure about—”
+
+Crack!
+
+Rhys blinked, shaking his head to get the splinters off his face. He looked up at Akio, who clutched the remains of a firm branch in his good hand.
+
+He stared. Akio stared back. At last, Rhys asked, “Are you stupid?”
+
+Akio whipped around and ran for it, abandoning the branch like he’d just hit a line drive down the first base line and he was desperate to make first. Rhys watched him go. He didn’t give chase because he hadn’t been hurt, and because this hole was actually something (even if he hadn’t figured out what) since he couldn’t sense its insides, and he didn’t want to abandon it in case it had Mouse-like or other obscuring protections, but he did sit there and watch with all his heart. Internally, he sighed. Akio had already broken his fist on his face. Did he really need a second hit to be fully convinced that he couldn’t take on Rhys?
+
+Maybe he just couldn’t resist the urge when I turned my back to him? Maybe he couldn’t remember last night and thought he really had a chance? Maybe he’s just stupid and has poor decision-making skills. Whatever it was, there was no helping it. Rhys wouldn’t kill him, but if the guy kept it up, he wasn’t long for this world.
+
+The forest finally eclipsed Akio from his view, and Rhys turned back to the hollow. He reached deeper, putting his whole arm in up to the shoulder. The hollow kept going. Either the entire tree was hollow, front to back, or it was some kind of spell. It really could be either. The tree was huge and evidently old. It could be this hollow.
+
+If it is, I guess I’m scared about sticking my arm in it for a different reason. He was extraordinarily strong now. If he moved too quickly or carelessly, he might accidentally bring the tree down on himself. It probably wouldn’t hurt him too badly, but it’d be annoying to climb out from under it.
+
+Is this hole empty? But it had the enchantment on it, hiding its interior. It was definitely something. Then again, if people were taking the book out from inside, wasn’t it totally possible that someone had the book, and hence, the hollow was empty?
+
+Rhys finished patting down the inside of the hollow, bottom, walls, and ceiling, then retracted his hand. The interior of the space shared whatever it was that blocked his senses, so he’d had to manually feel around it to tell anything about it. His exhaustive efforts had clarified that it was completely, utterly empty. He climbed back to his feet and dusted himself off.
+
+The hole was empty, but it was here. That meant that the story was real… or if it was false, then someone was definitely meddling with the mortals in this area. After all, Akio had known of the hole. Sure, it could be a weird smuggling space that Akio had somehow sensed and lead him to in order to mislead him, but that was so far outside expectations and the ordinary that he dismissed it out of hand.
+
+I could sit here and wait for someone to bring it back, but that’s so boring. Instead, Rhys focused on the space. It was a hidden space that blocked the senses, but it was still a spell of some kind. If it was a spell, then it had a signature to it. No matter who they were, everyone who cast spells left indications behind, little impressions in the mana, particular ways of accomplishing the spell that were unique to that particular person. If he could sense the enchantment itself, then he had a chance of recognizing the signature in the wild, where he could use it to track down the book.
+
+It won’t be easy on an enchantment that’s all about hiding itself, but it’s better than walking around looking for ‘a book.’ It wasn’t an impossible task, since books were rare and valuable things amongst mortals, but it wasn’t an easy task, either. He didn’t know which of the local villages the book might be in, and wherever it was, the mortal who had it would almost certainly hide it. He’d have to closely scan the entire village to find it. On the other hand, if he had a mana signature to look for, he’d be able to execute a more cursory scan and still find the book.
+
+Plus, it didn’t hurt that this exercise provided him a new way to train up his mana senses. Since the task wasn’t urgent, he might as well take his time and grow a little along his way.
+
+He sat down behind the tree with his back to the trunk and extended his senses toward the hole. Focusing all his attention on it, he could feel the shape of a spell, but that was it. Something like a trace or track was completely missing, or rather, the spell naturally obliterated any hint of its own traces. Rhys pursed his lips in annoyance, then focused harder, refusing to let this stop him. There had to be something. Something he could sense.
+
+Once more, his cursed senses came to mind, but once more, he rejected them. They were the cheat. The easy button. He wasn’t going to use them until he was backed into a corner, because he gained nothing from using them. This was an exercise to expand his senses and grow as a person, not something he needed an answer from right now, right this instant.
+
+Rhys threw himself at the problem, burying himself in a meditative state. The hole stood out more and more the longer he contemplated it. It was a blank, a void where he sensed nothing at all. That was something to look for in of itself, but he doubted the book would be a void as well. It would be too obvious to any passing mage if they couldn’t sense a book a random mortal was holding. Sure, they might overlook a tiny void if they simply swept an area with their senses—he certainly had ignored the one in the tree, or rather, hadn’t noticed it at all—but if they ever saw the physical book, they’d instantly know something was off, like how he’d instantly taken interest in the hole in the oak when he couldn’t sense it.
+
+I’m not saying it’s not a signature, but it’s not what I want. Better if he could learn how to sense the markings associated with the void and then found the book through them. That way, he would know when he encountered the person who had done this and sensed the same signature in their aura, or if he encountered another of their workings, he’d know what fingerprints to look for.
+
+But man, is it annoying to stare at an empty hole and look for ‘fingerprints.’ There was just nothing there. Fundamentally, he lacked anything to ‘look at.’ When he focused all his attention on it, he could sense a smidge of something, maybe, but it always vanished whenever he had it fully in his view.
+
+The longer he stared at the void and failed to interpret it, the more a thought crept into his mind: The person who cast this… they’re a higher tier than me, aren’t they? And maybe not just one tier up, but multiple. Enough that he could stare at this void all day with his full strength and focus and ever see anything, because their skills were simply that far beyond his.
+
+The hair on the back of his neck stood up, and he swallowed. Am I meddling in something I can’t handle? I jumped in because I’m still pretty strong over here. I assumed it was cast by someone who was at least close to my level, but was that foolish of me?
+
+After all, there’s many more Tier 5s over here. All the princes are at least at that level. It’s at the point where I can say Lira was clearly punished for her to be such a low tier relative to her brother. Hell, she’s lower tier than some of his servants.
+
+If Tier 5s are ‘ordinary,’ then what’s extraordinary around here? What’s the height of power?
+
+Ryota always says he wouldn’t stand a chance against his grandfather. That might be true of me, as well. Sure, I’m way stronger than Ryota, but And his grandfather is just a regional lord. There’s surely people who trump the regional lords and truly stand at the peak, otherwise his grandfather would be lording it over more than his family and his plot of land.
+
+Man. I’ve really gotta stop sticking my nose in things way above my tier. It’s become a bad habit by this point.
+
+Days passed. Rhys continued to sit there, pondering the empty space where he knew a spell must be, but no spell existed in his perception. Every now and again, he sensed a glimmer, a tiny spark of something that might be there, but he could never lock it down. Never get a good look at whatever it was that he was sensing. It was like a floater on his eye, a tiny bit of trash fluttering around so close to his focal point that he wasn’t able to focus on it. Thinking of it like that, he could get tantalizingly close to it, but even then, every time he was about to grasp it, it would slip out of his hands like the last slippery scrap of soap in a filthy public shower.
+
+Maybe I should just give up, he thought, truly exhausted beyond a scrap of hope. He’d thrown everything he had at it and failed to crack it. Maybe what he really needed was to step back and take a break. Sometimes, things could be like that. The subconscious mind was a powerful thing, and so long as he kept focusing his conscious self on it, his subconscious could never take over.
+
+Yeah, that’s the problem. So why did he feel like a quitter?
+
+He sighed aloud and opened his eyes. Putting a hand on his knee, he started to stand. That was that, and there was no—
+
+Crunch. A foot depressed the leaves near him. Rhys froze. He extended a tiny scrap of mana senses out and found a mortal at the other end of them—a mortal grasping a surprisingly non-present book.
+
+…oh hoh hoh, my grand plan! If I sit here long enough, surely someone will come with the book! Rhys grinned, glad that he hadn’t told anyone how he’d dismissed that plan, so he could still look like a genius when he told Ryota about it. Yes, that was the idea all along! He certainly hadn’t sat here and tried to do the impossible until the very possible came along and slapped him in the face!
+
+I feel like an idiot.
+
+At least it wasn’t like he couldn’t pivot. Rhys stood behind the tree, crossing his arms and waiting. The mortal looked around, searching left and right, but they didn’t look behind the tree. Kneeling, they quickly shoved the book away before scurrying off.
+
+Smirking, smug as could be, Rhys emerged from behind the tree. Watching the mortal run off, it occurred to him that this, right here, might be his most b-villain-like moment yet. Then, without hesitation, he knelt and retrieved the macguffin that might just set off some hero’s journey from the tree, never to return it again.
+
+Let’s go see who’s decided to corrupt these mortals! he thought, and flipped it open.

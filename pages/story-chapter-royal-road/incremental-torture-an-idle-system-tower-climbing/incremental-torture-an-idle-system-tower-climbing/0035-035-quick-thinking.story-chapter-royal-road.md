@@ -1,0 +1,191 @@
+---
+id: 423893d9-d5a5-5037-a94c-eb41952e6269
+page-type-slug: story-chapter-royal-road
+title: "035: Quick Thinking"
+slug: 0035-035-quick-thinking
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 35
+ownLength: 2186
+unit: words
+publishedAt: 2024-05-06
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1625359/035-quick-thinking"
+royalRoadId: "1625359"
+---
+
+It was not something she had attempted before. The main reason being that splitting her thoughts into two and focusing on multiple important tasks at the same time was incredibly taxing. But, it was necessary. Never more so than now.
+
+Maintaining a level of attention on the draining nodes while doing her best to mitigate the ramping damage from the still striking lightning, Evelyn opened the skill synthesis menu. It was when the woman first cast a debuffing spell on her that she had been reminded of her passive skill, Corruption Resistance. Perhaps without it, that very first attempt at interference would have ended with the mini boss getting a more lethal blow on her. But it didn’t.
+
+Despite her skill however, she was unable to resist the leech-like nodes that currently plagued her. However, if the idea she had in mind worked out then she would have a shot at regaining her advantage. Only one chance, though. She would need to make it count.
+
+With that in mind, she selected the two skills she wished to combine - they were only common, so there would be little cost - and for a brief moment the draining effect of the sorceress’ spell surged in power as she lost the benefits of Corruption Resistance.
+
+Synthesising Corruption Resistance (Common) and Numb (Common)! You have received the following skill:
+
+Purge Corruption (Uncommon) - In exchange for dampening your senses, clear your body of any corrupting influence. (Variable Mana Cost)
+
+Perfect.
+
+She wasted no time in activating her new skill, and owing to the strength of the draining nodes of insidious mana, a large majority of her own reserves was sucked out to purge the corruption. But she was now free of the woman’s clutches. And so she wasted no time in countering.
+
+But rather than target the sorceress who was the source of her troubles, Evelyn chose an alternative strategy. Now that she had Purge Corruption, the woman wasn’t a threat. And while she could take her out, that wasn’t the goal of this challenge.
+
+So Evelyn’s body began to thrum with mana as she prepared to cast her most vaunted skill - Flashfreeze Flamecharge. Her body crackled with flame and the ground was steeped in frost. The sorceress was shocked that her prey had overcome the corruption of her skill and began chanting in a panicked tone. It was futile, however.
+
+There was a flash of light and heat as Evelyn vanished from the spot she had been standing in. The sorceress yelled out and a glittering barrier of solid green mana appeared in front of her. However, her desperate attempts to protect herself were in vain. The fierce flaming warrior woman was not aiming for her.
+
+A trail of charred, icy stone had been carved into the arena floor. At its culmination lay the tiger-leopard. It had been struggling to free itself from the corrupting mana of the sorceress - unsuccessfully - when Evelyn smashed into it. There was a flare of flame and the crackling of ice to accompany its pained yelp. If left to its own devices, it would have succumbed to the sorceress’ skill soon enough. Evelyn couldn’t let that happen.
+
+Failure was not an option in the tower. Not for her.
+
+Well, not for anyone - but she wasn’t anyone else. Thanks to its already grievous wounds, when Evelyn’s charge smashed into the mini boss it was helpless to resist. The elemental effects of Flashfreeze Flamecharge had wreaked havoc on its body. Its once shimmering coat of fur was now burnt and bloody. Its rib cage was exposed and a few of the bones were cracked, while its guts were leaking out. It was a gruesome sight.
+
+But there was no time to revel in the battle. This was a race. If she wasn’t quick to act, Evelyn risked allowing the other challenger to swoop in and steal her prize. So, she pulled on her mana once more.
+
+It was overkill. Just her raw strength would have been enough to finish off the wounded feline. But she couldn’t take any chances. Not here.
+
+Her frost empowered fists pounded into the creature over and over. When she had started her pummelling, the mini boss had put up a weak resistance. Now however, she was just beating a corpse.
+
+Evelyn didn’t stop until the last inch of its body was covered in ice. She fell to her knees, exhausted from the harrowing challenge. But she forgot something crucial.
+
+She was not alone.
+
+And the other woman was furious at her loss. She wasted no time in letting the green barrier fall apart and turned her attention to Evelyn.
+
+“How dare you! That was my kill. Just ten more seconds and that crappy cat would have died to my skill. DIE,” she yelled, muttering something under her breath.
+
+Evelyn felt the woman’s mana flare up in a similar fashion to when she cast the corrupting storm. However, she never got to see the outcome of her casting.
+
+A message from the tower rang out at the same moment the sorceress vanished into thin air.
+
+Congratulations Challenger, you have cleared the 15th Floor! You may purchase one reward from the following:
+
+〖1 Attribute Point〗- 85 Essence
+
+〖Grey Star〗- 68 Essence
+
+〖Common Skill Crystal〗- 120 Essence
+
+〖Uncommon Skill Crystal〗- 2500 Essence
+
+〖White Star〗- 3750 Essence
+
+That was too close. I don’t think I had the strength left to defend against her spell. Perhaps with Purge Corruption and Arcane Shield working in tandem I could’ve survived it - but I’m glad I didn’t need to find out.
+
+Usually, choosing her reward was just a matter of whichever one was most value for essence at the time. With the Local Shop available Evelyn had been able to obtain however many stars, attribute points and skills as she had needed. But now, everything had changed.
+
+It reminded her of the 1st Floor. When she had cleared that horrible cavern of rats, she had been offered power from the tower for the first time. It had been a pivotal moment. Once again, she was left struggling to choose.
+
+While the attribute points were cheap in comparison with her income, it felt wasteful to use one of her reward chances on it. With Spendthrift, she would continue to accumulate more attributes by simply spending her essence. It would take longer without the shop, but that was fine - there was no end in sight to the tower. At least, not yet.
+
+The same wasn’t true of skill crystals. Without the shop, the floor rewards were her only opportunity now to gain more skills. And each of her skills had proven essential to her success.
+
+Sure, not all of them had been granted directly by the tower. She had crafted them through her own experimentation and sacrifice - but that didn’t make them any less valuable.
+
+In fact, the skills which she had created herself were far more powerful than those which were given to her. Along with the fact that the tower had cut off her access to the shop, it made Evelyn suspect that it was rewarding those who developed their strength through effort, rather than just spending essence.
+
+Granted, she had done a bit of both.
+
+Well, a lot of both. Mostly spending. But she had put in a lot of blood, sweat and tears too. The most obvious example of that was Flashfreeze Flamecharge.
+
+When she had first acquired the skill, it had taken a huge amount of her mana to activate. Her reserves had been much smaller then, but through continued use of the skill she had reduced the actual cost by a lot. Observing the route it took through her mana pathways and removing the inefficiencies had allowed her to improve her use of the skill.
+
+It now cast almost instantaneously, for far less mana than it had originally taken. It seemed more powerful, too.
+
+If she had another skill of that calibre, then Evelyn would feel far more secure. Every floor kept hammering home that no matter how much stronger she became, she would never be invincible. The tower would keep throwing stronger monsters at her. And that wasn’t the only threat.
+
+Other people were also striving to become as powerful as they could. It would be foolish to believe she was the only person capable of growing to this extent.
+
+With that in mind, she nearly purchased an uncommon skill crystal. But there was one thing holding her back.
+
+She had few ways to spend the huge amount of essence she was now producing, but that wasn’t the only reason to get more stars. Stellar Body was a great way to increase her fortitude without directly purchasing attribute points for starters. And she would get another tattoo.
+
+Evelyn had never been a huge fan of ink in the past. She didn’t judge anyone who chose to get a tattoo, but there were too many people with terrible art plastered across them. However, the little geometric shapes that covered her arms were a proud reminder of her progress. The way they shimmered was beautiful, too.
+
+In the end however, she decided not to purchase any more stars at the moment. The last floor had pushed her in ways she hadn’t expected. It was the first time she had resorted to synthesising a skill in the middle of battle. That experience had stretched her mind to the limit.
+
+And while she enjoyed a challenge, she never wanted to feel that powerless again. No - now that she’d had a taste of strength she refused to be counted among the weak. That informed her choice of reward, which she promptly purchased.
+
+Uncommon Skill Crystal has been consumed! You have received the following skill:
+
+Dual Focus (Uncommon) - Slightly reduces the strain on your mind when trying to focus on two or more actions.
+
+Wow, that came in quicker than I expected. I guess I must really have strained myself in that fight. While I can see the benefits, I would’ve preferred something a little more combat oriented. Though, with this in my arsenal perhaps I can branch out into more traditionally offensive magic. Being able to cast while locked in battle would be a ridiculous ability.
+
+But, that would require her to obtain even more skill crystals. Which had just become far more difficult. It was frustrating. However, she had an idea.
+
+It would perhaps prove dangerous - or just stupid. But, Evelyn felt that she had a solid enough grasp over her mana to give it a try.
+
+However, it would have to wait. She wanted to challenge the next floor as soon as possible. Delaying her progress no longer provided the benefits it once had. Evelyn didn’t realise how much she had relied on the shop until it was gone.
+
+Before she advanced to the 16th Floor, there was one final thing to do.
+
+Just in case any of her friends or her Mother had made it to the point of unlocking the local chat, she sent another few messages letting them know she was alive.
+
+Unfortunately, there was no response. That wasn’t a problem for now. She was optimistic about their survival - even more so after finding out her Father was alive and thriving. That made her pause.
+
+She sent one more message, asking him if he had survived his most recent floor. There was no response to that, either.
+
+Well, he seemed confident in his ability to clear the floors, so I’m not going to worry about him. I’ll kill him if he dies, though. Idiot.
+
+Having sorted out her affairs Evelyn made her way to the glowing portal that would lead her to the next challenge. She wondered what form it would take. There seemed to be no end to the tower’s creativity. Every floor pushed her in a different way than the last. It was refreshing. But, she knew that the simple and brutal battles were what thrilled her the most. Everyone had their own talents - that was what made life interesting.
+
+What greeted her when she stepped through the portal was by far the most shocking message the tower had ever sent.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.5
+
+|Attributes|
+
+Power: 12 (13)
+
+Speed: 4
+
+Stamina: 8
+
+Vitality: 26 (31)
+
+Mana: 25
+
+Fortitude: 48 (83)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Stargazing (Rare), Bargain Hunter (Uncommon), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Uncommon), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Spendthrift (Uncommon), Solar Fusion (Uncommon), Salvo (Common), White Infusion (Common), Star of Fortitude (Uncommon), Star of Vitality (Common), Star of Mana (Common), Star of Stamina (Common), Unyielding Heart (Rare), Star of Power (Common), Dual Focus (Uncommon)
+
+~Active~
+
+Fists of Frost (Uncommon), Mana Plate (Uncommon), Flashfreeze Flamecharge (Rare), Purge Corruption (Uncommon)
+
+~Hybrid~
+
+Overpowering Spirit (Rare)
+
+Essence: 12『+230524 / 5:57:59.5 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】

@@ -1,0 +1,133 @@
+---
+id: 1a9316b5-7fb9-5e79-a427-5dc3b7dd09c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 856 - Start of the Game"
+slug: 0183-chapter-856-start-of-the-game
+partOf: hell-difficulty-tutorial
+position: 183
+ownLength: 2397
+unit: words
+publishedAt: 2026-08-09
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3792764/chapter-856-start-of-the-game"
+royalRoadId: "3792764"
+---
+
+I don't like this galaxy's customs.
+
+Apparently, the simple act of releasing a bit of mana and mimicking the way Lissandra attacked me with her presence counts as "Unwarranted escalation of lethal force."
+
+Also, sending in a near Champion from the security unit was too much. My intention was just to scare the asshole "face" of the Games.
+
+Judging by the fact that he has some records from my tutorial, I highly suspect they were handed to him either directly or indirectly by the new Envy.
+
+If it were only me on the records, I wouldn't mind, but using the one with Lily... Showing all of these people her [Disintegration], and that she’s a healer able to endure the parasitic red flesh of the imprisoned Champion from the Astral Prison floor, annoys me.
+
+It was meant not only to annoy me, but also as an attack on Lily as well. Many people have warned me that there would be those wanting to get a healer like Lily at all costs. Many of them even said that Lily by herself would be more valuable to these people than the entirety of Earth.
+
+This... this doesn't feel good at all.
+
+Feeling my sister's hand on my shoulder, I smooth out that spike of anger while the two of us sit alone in the small room without any windows or doors, under a single glowing orb near the ceiling.
+
+"I understand the severity of what they are doing, Natty, but just for now, endure," she says calmly, the entire situation not seeming to disturb her at all.
+
+"Yes, I will," I answer her.
+
+"Good," Victoria says. "I will make a note of this as well. Once we have the power and the opportunity, we will collect what is owed."
+
+"I hate being so patient, Vic."
+
+"I know that very well. You are quite the risk-taker."
+
+"One day, Vic, one day it’ll all snap into place, and not a single being in the universe will dare to threaten me."
+
+"That’s quite a childish dream."
+
+"Being a 'proper' adult is overrated," I tap her hand resting on my shoulder thankfully, and she lets go.
+
+We sit here in comfortable silence for a while longer until one of the walls lights up.
+
+On the screen, Melek stands, smiling charmingly at the camera while standing on what seems to be the surface of the sea. The water’s surface creates a perfect mirror of the beautiful blue sky as a few lonely clouds make their way across. He looks like he’s waiting for some sort of inaudible cheering to stop, smiling longer and longer, and even performing a few small dance moves. His pink hair and skin contrast strongly with his white tuxedo suit as he lifts his hand into the air.
+
+"This message is for the participants' ears only. In the name of the Halcyon Trust Corporation, I welcome you to the Games. Years, decades of agonizing training, blood, and sweat have all built up to this very moment, where you’ll finally get to test your limits against your peers!"
+
+Melek begins to walk on the surface of the water, without it rippling at all. "I know many people look down on the first event. Some viewers don't even tune in until the last event, but I have always thought the first one was the most fun."
+
+The camera drone zooms in on his face. "I find it so incredibly fun to watch the powerful massacre the weak. A single attack from the most talented among you as it completely erases half a dozen of you. I like to laugh at people who aren't even capable of perceiving certain individuals because of their speed... that sheer, brutal difference in power and skill is what I live for! Because, as we all well know, we aren't born equal."
+
+His walk stops, and in the room where I am with Vic, a pillar shoots up from the floor, revealing two bracelets on top of it. The bracelets are made of black metal, and there is a single, pale blue crystal orb set into each one.
+
+“This,” Melek says on the screen, “is the Crescent Lifeline, beautifully crafted by our premier sponsor, the Crescent Smithies! This is the premier, unreleased model that will be available for purchase through your local suppliers immediately following this event! The bracelet will connect to your vital signature, allowing us to monitor you for the purpose of making this show that much more enjoyable for the viewers. Simply putting it on constitutes your consent to the terms of use. It will monitor your mana pool as a percentage, rather than tracking exact values. It will monitor your body's overall condition, your exact location, your velocity, and it even uses a charming little algorithm to estimate your emotional state. But don't worry, all of this data is strictly for the broadcast and will NOT be shared with our business partners. Trust me, we learned that lesson the hard way last time!”
+
+He chuckles. “If you refuse to put on the bracelets, it will be considered a forfeiture of the games, and you will be sent back after paying the agreed-upon fine. And I also want to assure you that because the device monitors your vitals so closely, it can instantly teleport you out of danger and straight to the Healing Guild of Absolute Zarathusa if things get a bit too intense. This instantaneous transport is made possible by a proprietary array from an Absolute who wishes to remain anonymous, though I have to say, it cost a ridiculous sum of money. But I want to warn you. Do not rely on it too much.”
+
+Vic takes a bracelet and hands it to me. After I take it, she takes the other one and puts it on her left wrist. I look at my pale left hand and at the fragment imbued into the back of it. Of course, my tendency of being disarmed surfaces in my mind, so I put the bracelet on my right hand instead.
+
+Meanwhile, Melek continues to blabber. He talks about how there are five thousand participants, and how the games need to filter them down to one thousand. He explains that all of us will be moved to an arena prepared by another company he promotes, one which specializes in construction and similar projects.
+
+Apparently, there will be one thousand crystals hidden throughout the place, which we’ll have to find and place upon the bracelet to be allowed into the next event. He calls it a treasure hunt.
+
+There will also be viewers watching, and by donating whatever currency they use, they can vote for certain interventions. Things like making a change to part of the arena, summoning a powerful monster, and other interesting obstacles to make the event more dramatic. There are a few more details, but those are the main points.
+
+In his final speech, Melek points out some of the interesting people we might find ourselves facing. Candidates, disciples, talents. He even mentions two charming tutorial attendees who’ll be participating, challenging people to try to test themselves against Beyond’s S ranks.
+
+When the countdown starts, I stand up, stretching a bit and mirroring the movements of my sister, who does the same. Even as I try to act nonchalant, I feel my heartbeat speed up slightly. But it isn't because of fear, it's just my excitement.
+
+Maybe this will be fun.
+
+As Melek requested, both Vic and I lower our natural barriers so the bracelet can connect properly, and neither of us tries to defend ourselves against it as we are teleported away when the countdown stops.
+
+We aren't even split up, and both of us find ourselves in a metal box surrounded by a dozen other participants. It is dark in here, and I sense us moving upwards.
+
+No one attacks yet, though the people around us are immediately getting ready, raising their mana and reinforcing their bodies. Multiple signatures fill the metal box, heavy with the pressure of everyone’s presence, which causes the air to shake.
+
+Then the box speeds up, making me realize we’re in an elevator.
+
+We pass over a wall, and light shines in through the glass side of the elevator, revealing us to be moving along the exterior wall of a very slim and incredibly tall skyscraper. Looking out, I see dozens, hundreds more similar skyscrapers, all of them rising through the clouds that entirely block whatever is below.
+
+Multiple skyscrapers in the distance are already beginning to tilt, cut apart, exploding, with many people escaping the elevators or fighting.
+
+I look around our elevator, where most of the people's eyes are stretched wide open, looking at Victoria, who stands right in the middle of it. She isn't even turning to look around at the people holding their weapons, she is just standing there calmly, with her presence leaking a deadly feeling.
+
+The elevator stops and the doors open, leading to a pearl white hallway with golden lights.
+
+Victoria moves first, taking a step and stopping right in front of the exit, and turning around. Some of that golden light frames her figure, as does the pearl white of the hallways, but it is her eyes that pull you in and make you freeze.
+
+No one dares to move, and the doors close with a hiss.
+
+With a jump, the elevator begins to move upward again. The human man near me stays frozen, sweat running down his temple. The lynthari on the other side twists her tail, making her look erratic and nervous. I sense multiple heartbeats speeding up. Gradually, the elevator picks up speed.
+
+Victoria flattens her right hand, locking her fingers together into a lethal, flesh and bone blade.
+
+Then the light disappears as the elevator enters a dark vertical tunnel, and a blinking red light starts up at the ceiling.
+
+At that exact moment, as if on cue, everyone bursts into movement.
+
+Victoria shoots ahead, using her hand to cut off the arm of the feylith closest to her. As the said feylith gathers mana to use a fire skill, Victoria, without hesitation, stabs her fingers toward his heart, not caring that the healers might not be able to fix it. Yet, the feylith disappears as the crystal on his bracelet cracks when Victoria stabs her fingers into his chest.
+
+I twist to duck under a lynthari charging at me and hit him with my shoulder, causing him to crash through a few people and into the metal wall of the elevator, which creaks and bends. Before he can attack me again, a vyssari behind him buries her fingers into the lynthari's leg and releases a burst of primordial lightning.
+
+Victoria ducks an attack aimed her way, a swing with a short axe made of mana carried by a selari man. Another selari man attacks her from behind, moving at incredible speed. Yet, my sister faces both of them. A swing of her hand cuts off the hand holding the axe, and she matches the speed of the selari attacking her from behind, stabbing her hand through his neck and grabbing his spine.
+
+The second selari disappears, and the one with the axe regrows his hand to attack her again, but he gets stabbed from the back by a blonde haired human woman. Victoria then cuts through his belly, causing his insides to fall out.
+
+As the red light stops blinking, we get over the wall, and light shines back inside as the elevator speeds up even further. Many more skyscrapers outside are entirely destroyed, toppling over, with an abundance of participants flying about. I refocus and dodge as a figure flies by me and slams against the glass of the elevator, which cracks and gets splashed with blood.
+
+The entire time, I’m using my eyes to read the flow of mana, disrupting the activation of mana-based skills. Any domains, explosions, and anything that would destroy this place too quickly. Even while restricting myself, I find myself quickly jumping from person to person to do this.
+
+My detection picks up on something, and I see a green arrow shooting toward our elevator, an arrow bigger than the elevator itself.
+
+Releasing oscillating mana through my feet, I blow out the bottom of the elevator, causing the cabin to continue its ascent as we all fall down.
+
+Victoria finds her bearings quickly, holding the vyssari woman by her leg even as the woman tries to kill her with lightning. My sister swings and slams her against another participant before stabbing her hand through both of them.
+
+Also noticing the green arrow, she jumps toward the ceiling of the elevator before it disappears, using it as a launchpad toward me, twisting along the way to avoid a projectile from one of the participants and destroying another one with a swing of her hand. In the next moment, the elevator gets entirely obliterated, and the arrow continues through the skyscraper.
+
+Before the guy can shoot more projectiles at Vic, my own mana projectile stabs through his back and pierces his barrier, which I finally disrupt, and his body disappears.
+
+With my sister by my side, we continue to fall toward the clouds. I disrupt attacks shooting our way and observe the fights in the distance. A powerful pulse of mana catches my attention, and I notice multiple thin skyscrapers being torn, cut in two, and floating into the air to gather around one figure floating in the sky. The skyscrapers are set horizontally as someone uses a skill to launch the entire buildings as projectiles, while another attendee uses walls of fire to meet those projectiles and melt them.
+
+Another barrage of green projectiles rains toward us, and, grabbing my sister’s hand, I boost us toward a skyscraper, breaking through the glass and entering a pearl white hallway.
+
+Both of us immediately turn to start running through it, heading toward the other side. One of my lances shoots through the wall ahead of us, stabbing into one of the participants. Vic moves in front of me, tanking a lightning strike heading our way. Then, picking up speed, she reaches the attacker in a blur and tears the vyssari in half before breaking through another window.
+
+I follow her, jumping out just as another barrage of projectiles entirely destroys the skyscraper.

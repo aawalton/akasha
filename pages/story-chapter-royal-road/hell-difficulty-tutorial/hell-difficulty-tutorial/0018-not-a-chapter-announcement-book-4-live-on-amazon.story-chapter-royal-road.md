@@ -1,0 +1,33 @@
+---
+id: 86ff3dbc-e118-5e93-babf-73e09a0f54bb
+page-type-slug: story-chapter-royal-road
+title: "Not a Chapter. Announcement – Book 4 Live on Amazon!"
+slug: 0018-not-a-chapter-announcement-book-4-live-on-amazon
+partOf: hell-difficulty-tutorial
+position: 18
+ownLength: 374
+unit: words
+publishedAt: 2025-03-12
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2122306/not-a-chapter-announcement-book-4-live-on-amazon"
+royalRoadId: "2122306"
+---
+
+Hello, it's time to shill yet another release of HDT, but first, I would like to thank Kotikomori. She did amazing work on the cover once again! And damn, if I were her, I would have told myself to fck off long ago with how much I bother her over a single book cover. But no one makes Nathaniel look as punchable as she does.
+
+This time, we are missing Biscuit from the cover, so I hope Biscuit cultists will forgive me. If all goes well, he should appear on the Book 6 cover.
+
+Oh, and many of you asked about the third audiobook. It is planned to launch on April 1st. I swear it is not a joke and you can confirm it here: https://www.audible.com/pd/B0DY8WP2GX
+
+As for the Book 4, what to say, the adventure continues. I think it was Book 3 and Book 4 when people started praising the character development. The start of the series (looking at you, Book 1) was a bit rough, but I like to think I have improved a lot, and I thank you guys for hanging around with me!Book 4 on Amazon: https://www.royalroad.com/amazon/B0DNNHGZ1H
+
+If you liked the Book, please leave a review or rating. It's very important in the eyes of Amazon's algorithm and helps a lot to push me higher. You can rate and review even if you didn't buy the book (probably. sometimes.).
+
+If you have KU, you can download the book - just downloading it helps as it counts as a sale. So, if you feel especially nice, you can check it out and rate/review it here. There are no big changes to the story, but the book went through professional editing.I also made Reddit posts, so if you have a Reddit account, upvoting them helps a lot!
+
+r/litrpg: https://www.reddit.com/r/litrpg/comments/1j9m7xi/hell_difficulty_tutorial_book_4_is_out/
+
+r/ProgressionFantasy: https://www.reddit.com/r/ProgressionFantasy/comments/1j9m924/hell_difficulty_tutorial_book_4_is_out/
+
+I'm already asking a lot, so it's time to cut it off, lol.Thank you to everyone for reading, reviewing, and commenting, or just chatting on Discord. Also, a big thank you to my beta readers, my publisher, editor, Kotikomori for the art, the guys watering the Mana Tree on Discord, the few who keep reposting cute corgi gifs, and many more.
+
+Thank you, and as always, there is more to come!

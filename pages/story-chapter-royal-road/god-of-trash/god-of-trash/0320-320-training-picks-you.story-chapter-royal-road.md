@@ -1,0 +1,105 @@
+---
+id: d86ef275-5d27-590e-b1df-8b7a1d9b20dc
+page-type-slug: story-chapter-royal-road
+title: "320. Training Picks You"
+slug: 0320-320-training-picks-you
+partOf: god-of-trash
+position: 320
+ownLength: 2032
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3498191/320-training-picks-you"
+royalRoadId: "3498191"
+---
+
+Rhys retreated into the woods, but didn’t go far. When Ryota lost him, he clung close. As expected, the first thing Ryota tried to do when he calmed down was turn around and leave the area. Rhys scoffed. Did he really think it would be that easy? No, no, no! He was Rhys’s first hardcore-style training victim—ahem, student, and he was in it to win it, whether he liked it or not.
+
+So naturally, when he tried to exit, he almost immediately ran into an enraged green gorilla even stronger than the bright red one he’d faced moments ago. Ryota fled, running deeper into the woods instead. Darting left and right, he dashed through the forest, the gorilla hot on his heels. A glen appeared to the left, and he threw himself into it, hunkering down and holding his breath as a shimmering barrier appeared around him. The gorilla stomped by, huffing under its breath, and vanished back into the deeps.
+
+Looking around, he wiped his brow, then set off for the exit again—only for yet another gorilla to suddenly bar his way, this one even larger than the green one. Ryota screeched and retreated deeper into the forest, and the gorilla gave chase. He dove under the roots of a tree and hid there until the gorilla left, then timidly crawled out. Looking around, he waved his sword at the trees in the general direction of the exit.
+
+“I know you’re there, Rhys! I’ll kill you!”
+
+“You might want to start with the gorillas,” a voice replied from behind him, deeper into the woods rather than in the shallower direction from whence the gorillas had appeared.
+
+Ryota whipped around, only for a dart to hurtle by, nicking his side as it passed.
+
+“So fearsome when you face no one, but such a coward in an even fight,” Rhys mocked him, his voice suddenly in the distance to his right.
+
+“Shut up! What do you know?” Ryota snarled, whirling to face the voice, only for Rhys’s voice to echo from yet another direction:
+
+“Nothing. And that’s why I’m suited to teach you everything.”
+
+“I’ll have you beheaded for this. I’m not totally powerless!”
+
+“What’s that I hear? The sound of a rat dog yapping? No one’s afraid of a chihuahua. Grow some fangs before you bare your teeth.”
+
+“You dare call me a dog?”
+
+“And a rat! And a chihuahua. It’s your pick which one’s the most insulting.”
+
+Ryota visibly calmed himself. He lowered his sword. “I know what you’re trying to do.”
+
+“Do you?”
+
+“You’re using anger to motivate me. You want me to fight you and grow stronger, and—”
+
+A gorilla came hurtling out of the woods toward his back, a fist already hurtling toward his shoulder. Ryota whirled. There was no time to flee. He raised his sword just in time to meet the fist. The weight of the blow pushed him back, his heels digging furrows in the soft earth. He gritted his teeth, then swiped out with all his might, forcing the gorilla’s fist backward. Before he could press the advantage, though, the other fist came hurtling toward him, and he was forced to retreat.
+
+“What am I doing, again? I didn’t catch that,” Rhys said mockingly.
+
+“Stop!” Ryota snarled, frustrated.
+
+“Stop what? I’m just chilling in this tree, chatting.”
+
+Ryota turned to shout back, and the gorilla saw an opening. A massive green-furred hand caught ahold of his shoulder, and it lifted and threw him as easily as a ragdoll. As Ryota tumbled through the air, the gorilla took a deep breath, then roared. A wave of wind slammed into Ryota, and a thousand wind-blades slashed at his skin. Blue light glowed just over his skin, protecting him from the majority of the blades, but after they struck, the blue light snapped and faded. He landed and staggered, lifting his sword once more to face the gorilla, but backed away rather than charge.
+
+“Oooh? What was that, a hidden barrier? A charm, or some kind of pendant? Either way, looks like it’s burned out. You better watch out. That gorilla wants you dead dead.”
+
+“Get down here and fight me like a man!”
+
+“That gorilla’s enough man for you.”
+
+“Coward! Weakling!”
+
+“Honey, you can’t handle me at my most coward-weakling, so shut the fuck up and go fight that gods-damned gorilla.”
+
+Ryota growled and tightened his grip on his sword, but remained facing the gorilla, his feet planted. His stance wasn’t good and his grip was shabby, but Rhys wasn’t going to fix that now. Step one was to get Ryota willing to stand his ground and fight. Everything else could come after.
+
+The green gorilla roared and beat its chest, then charged. Ryota faced him down. He gritted his jaw and clenched his sword so tight his knuckled went white. His legs trembled, but he held. He held, even as it loomed over him, even as its shadow eclipsed his face.
+
+Rhys sat forward in his tree. Yes! That’s it! Stand your ground, Ryota! Turn your cowardice around right here, right now!
+
+And then Ryota fled, screeching like a little girl.
+
+Rhys sighed aloud, flopping back into the tree’s branches as the green gorilla chased after Ryota once again. It was his own fault for getting his hopes up. Ryota wasn’t going to get over his lifetime of following his flight instincts, not his fight instincts, in one day. They’d have to build up to it.
+
+Luckily, he had lots of time on his hands. And gorillas. The forest was lousy with the things. As long as he targeted the ones he could handle but Ryota couldn’t, he could keep hurling them at the other man with impunity. The gorillas seemed to have a strong internal hierarchy, and when he appeared, they quickly realized he outranked them and deferred to him. He was then pretty much free to pick them up and toss them around as he willed.
+
+One or two of them were rowdy and tried to fight him anyways, but a quick lashing with the poison sword—carefully restrained to keep from poisoning the gorillas—and they fell into line… or at least stopped struggling for long enough for Rhys to point them Ryota’s way. If he really cared to, he could’ve cornered Ryota with gorillas and forced him to fight, but he didn’t want to do that.
+
+He wanted Ryota to decide to fight back, not be given no other option. As he very well knew, a cornered rat fought back, but it didn’t learn how to stand its ground and seriously hold its own in a fight. It didn’t know how to gauge an opponent and approach a fight on even footing, or determine when to flee and when to fight. Obviously, Ryota was biased a little too much toward fleeing right now, but they’d work on it. And by ‘they’d work on it,’ Rhys meant he’d sit in the forest and throw gorillas at Ryota until Ryota got pissed enough to fight back. Or whatever did it for him.
+
+Ryota was right about him deliberately mocking the guy to get him pissed off enough that he found some motivation in his heart, but what he was wrong about was that Rhys wasn’t willing to break everything to get there. In true trashy training montage fashion, Rhys, too, was in it to win it. He wasn’t going to give up until Ryota learned how to man up and fight back. In true trashy fashion, he was hoping Ryota would see it from his perspective once the man figured out how to fight back, and forgive Rhys for everything.
+
+Yeah… that’s super not realistic. I might need to some trash reality warping to make that one come true. And if that’s the case, then what I need is more mana.
+
+But he was in a forest. There wasn’t trash lying around the way there would be in his world. He’d have to leave and find a trash heap to quickly generate that kind of mass of mana, but he couldn’t just fly out of the forest, and even if he ran out, Ryota had the ship. He’d be locked to his pitiful speed while Ryota could zoom around at the speed of sound like he had nowhere to go, gotta follow my rainbow. Ryota could escape from the city—ahem, forest, and fly donuts around him before Rhys got anywhere.
+
+Rhys hopped up on the tree and darted from tree to tree orange-jacketed-ninjas style (with his hands thrown out behind him just for bonus points) to follow Ryota as the green gorilla chased him through the forest, still thinking on his mana problem. The green gorilla was extraordinarily motivated toward training Ryota, and Rhys appreciated that after how much of a pain it’d been to get the thing on his side. It really hadn’t wanted to listen to him at first, but after a little heart-to-heart, it’d decided to become a trainer after all. He’d just about worn out the sword thrashing it before it’d finally given in.
+
+He watched the gorilla howl in rage and charge after Ryota, feinting to the right, then snapping its hand out to grab his ankle and throw him halfway across the forest. Ryota smashed into the trees, tearing straight through the first few like dry twigs before he finally bounced off a truly huge old oak. If Ryota was still mortal, he’d have died from that toss alone, but luckily, he was a high-tier mage instead. He rolled to the ground and sprinted off again, the gorilla hot on his heels.
+
+It might be a little too motivated. I think it needs to get its frustrations out after our battle earlier… hopefully it doesn’t totally decimate Ryota before it lets it all out.
+
+He followed along, watching as the green gorilla relentlessly chased after Ryota, and Ryota relentlessly fled. The gorilla darted after Ryota, grabbed him, and pinned him up against a tree. It lifted its fist to start pounding his face in while Ryota squirmed uselessly.
+
+Rhys sighed. He waved his hand, creating a dart of impurities, then shot it at the gorilla’s back. The gorilla flinched back, failing a bit as impurities tried to leap from the dart and corrode its body. Rhys narrowed his eyes, focusing, and drew the impurities back into the dart, forcing them not to corrupt the gorilla. The black marks crawling under the gorilla’s bright green skin curled in on themselves, burrowing back into the dart, and the dart fell out of the gorilla’s back.
+
+The gorilla looked around, then chased after Ryota again, who’d naturally used its moment of distraction not as an opening to attack, but as an opportunity to flee. Rhys almost facepalmed. Was his training regimen not working? Maybe what he really needed was a kinder, calmer introduction to battle.
+
+If that’s what he needed, then he wouldn’t have the hangups he does about fighting, he instantly countered himself. Ryota’s entire life had been kind and calm, and this was where he’d gotten from that. There wasn’t a snowball’s chance in hell that he’d shape up if Rhys wasn’t drastic about his application of force.
+
+If Ryota had lived in a magical wonderland his whole life where people were kind to him and no one had put a serious wall between him and his objective, then the only way to wake him up from that was to give him a hard time. Rhys was sure there were psychologists screaming at him from the wings, but he didn’t really care. Ryota needed to wake up. If he couldn’t do it from being thrown in the deep end, then that just meant there wasn’t enough cold water in the world to snap him out of his fantasy dream land. Therapy wasn’t a thing in this world. Ryota got good or he died trying, and that was just the way it went.
+
+Rhys recalled the impurity dart and chased after Ryota and the gorilla, ready to step in just enough to make sure Ryota didn’t completely bite it. Somehow, I feel like I’m not very good at this training stuff.

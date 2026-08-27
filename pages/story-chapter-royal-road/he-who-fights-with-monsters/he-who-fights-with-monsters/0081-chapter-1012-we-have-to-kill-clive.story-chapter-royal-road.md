@@ -1,0 +1,155 @@
+---
+id: 320077f8-89bd-5493-b0e1-3ce642471a02
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1012: We Have to Kill Clive"
+slug: 0081-chapter-1012-we-have-to-kill-clive
+partOf: he-who-fights-with-monsters
+position: 81
+ownLength: 2615
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3609819/chapter-1012-we-have-to-kill-clive"
+royalRoadId: "3609819"
+---
+
+The mysterious cosmic power flowing into Jack Gerling turned him into an overcharged battery, thrumming with power. It pushed him to the very limits of gold-rank physicality, demonstrated as he launched himself at Jason, little more than a blur of movement. Thunder cracked as he breached the sound barrier, only to smash into the dome’s roof an instant later.
+
+The impact was hard enough to dent the magically reinforced steel. It rang like a gong, joining the still-echoing rumble caused by Gerling’s supersonic speed. He pushed himself out of the dome’s new indent and dropped all the way to the floor, landing in a crouch.
+
+“Your boss did you a disservice,” Jason called out over the fading noise. “He fed me a bunch of vampires and now I’m just as juiced up as you. I think he wants to make a point about beating me at my strongest, but he shafted you in the process.”
+
+Gerling glared at Jason but said nothing, instead attacking in another blur of speed. This time he deflected off Jason and smashed through one of the massive blood vine roots, reducing it to wet pulp. Gerling pulled himself free of the mess, wet with blood from the vine. Jason turned to face him, having not moved from his original position.
+
+“Right now,” Jason continued, “you and I are as strong as my friend Humphrey and fast as my friend Sophie. And, let me tell you, that’s very strong and very fast. The thing about speed and strength like that is they’re hard to handle. When you can bench-press an aircraft carrier but only weigh a couple of times more than regular people, leverage becomes critical. Humphrey’s whole fighting style is built around hitting things without sending himself flying in the other direction.”
+
+Gerling continued the attack, only to once more be sent crashing into the wall.
+
+“Speed is even more complicated,” Jason said. “Managing the momentum is hard enough, but if you put on enough pace, even the physics start going funny on you. If you can’t handle your own speed, it becomes a liability in the face of someone who can. You probably noticed it just then when I backhanded you like I was your pimp.”
+
+Gerling didn’t relent, once more leaping to the attack at the limits of his speed. Jason took a step, slightly shifting the line of his body in relation to Gerling trajectory. Gerling tried to adjust, but his own speed became the enemy. He reached Jason, whose slight movement had given him a minor but critical advantage in positioning. It wasn’t much, but at the speeds they were moving, it was enough. An uppercut caught Gerling square in the chin, the power mixing with Gerling’s momentum to send him smashing into the roof for a second time.
+
+“It’s a matter of experience,” Jason explained as Gerling dropped to the floor once more. “Neither of us will be as good as Humphrey at strength management, or Sophie at handling speed. But I’ve trained with both of them, and I’ve had plenty of chances to put myself through my paces at full charge. There was a whole thing with the grim reaper and a space bird and using a Muhammad Ali strategy. Probably not worth going into right now.”
+
+Gerling attacked once more, this time not trying to crash into Jason but approaching at a more measured pace. He swung a fist while too far away for it to land, but Gerling’s entire arm exploded, the force blasting forward like a shaped charge. It was Jason’s turn to leave a dent as he crashed into the wall. Gerling staggered back, largely unfazed but now missing an arm.
+
+“Was not expecting that,” Jason muttered as he peeled himself out of the imprint he’d left in the steel. He looked over at Gerling, who had grown a vine from his shoulder that bulked out and morphed into a fresh human arm.
+
+“Wow,” Jason said. “And I thought my regeneration was impressive. Which it is, now that I say it, yours is good too. Your essence powers were fairly explosion-centric, right? Do you still have them?”
+
+“You’ll pay to find out,” Gerling snarled.
+
+Jason grinned and pulled his hood up over his head, shrouding his face in darkness. He drew his sword and held it leisurely at his side.
+
+“Alright Gerling. Show me what your boss has done to you.”
+
+Gerling’s clothes had already been dirty when Jason arrived, a loose t-shirt and track pants with no shoes. After smashing against walls, the ceiling and through one of the massive vines poking into the room, they were now ragged and stained, with one arm of the shirt missing from the explosion. The pants were further shredded as roots grew out of Gerling’s legs and dug into the steel floor.
+
+Massive vines erupted from the floor around Jason, ripping through steel as if it were paper. They shot at Jason from every angle, boxing him in as he shadow-jumped from one spot to the next. The lighting came from the star motes Jason had produced from his cloak, making the dome a playground of shadows.
+
+Vines erupted from every surface, punching holes in the steel. Soon, the entire room into a complex net of dripping, bloody strands, the blood vines taught and thrumming. The thickest and fastest vines were more like tentacles, growing out of the heavy roots scattered throughout the dome. These vines had bulbs on the end that exploded whenever they got near Jason as he shadow-jumped around the chamber. As for the now immobile Gerling, a tight web of vines had woven a barrier around him to keep him safe.
+
+Jason’s familiars went to work on countering the vines. Gordon stuck close to Jason, his orbs either cutting through vines with beams or turning into shield to block them or shield Jason from explosions. When Jason shadow-jumped, Gordon would transform into a cloud of orange and blue light, then shoot across the room to rejoin him.
+
+Shade was simply everywhere, yet unseen in the dim light. The ability to drain mana was not something Shade used often, but proved highly effective against the vines, causing them to wither and crumble into dry ash. This made room for Jason to move as the vines continued to fill the available space in the dome, slowly forming an inescapable net.
+
+Jason fought to reclaim space, his sword hacking away like a machete in the jungle. Shadow arms filled the room, growing out of the dark and holding conjured daggers that likewise cut away at the vines. The growth was so prolific, however, that the vines grew faster than they could be cut down.
+
+Afflictions struck the vine network with every blow, but whole sections fell away before the rot spread, protecting the larger organism like a lizard shedding its tail. It made more space for Jason, but also diminished the impact of his most powerful weapon. His afflictions were taking hold, but the vine did a remarkable job of isolating and shucking off the affected areas. When it could regrow with great speed and no limits, it was a worthwhile trade-off.
+
+The roots were more critical to the larger organism, and could not as easily be cast aside. Where Jason’s own efforts to deliver afflictions went poorly, Colin did a much better job. Leeches swarmed the root system, feeding off the blood and power that saturated them. That life force fed Colin in turn, the boundless power of the blood root vine becoming a boundless feast for the swarm. With an endless capacity to devour, the leeches propagated at an astounding pace, until every root was buried under its own swarm.
+
+While Colin’s efforts were slowly taking hold, the vines shooting through the room continued to pin Jason down. Jason’s afflictions cut away vine after vine, their rotted remains dropping to the floor as wet gunk, but there were always more. When no space was left for Jason, Gordon would detonate some of his orbs to clear space, but it was only buying time.
+
+There was no evidence of Gerling having retained his old essence powers, but something had obviously remained. Some aspect of his explosive abilities had been passed onto the vine to which he was now connected. Many of the vines had bulbs that detonated on coming close to Jason, and Gordon couldn’t block them all. Occasionally, Jason would be knocked into a nest of vines that would immediately burrow into his flesh. Energy surged through the vines and into Jason’s body, causing exploding from within. Holes were blasted in his torso and sometimes limbs would be blown off entirely. At one point his whole head burst like a melon struck by a grenade.
+
+All the damage, even the outright decapitation, grew back almost instantly. Jason had not been idly boasting about his regenerative powers, and his body was flush with life force taken from the vampires. Such rapid recovery expended that life force swiftly, but Jason would also use his life drain magic on the vines to replenish it. With both Jason and the vines growing back as fast as they could harm one another, the battle entered a bloody stalemate.
+
+“How does it feel, Asano?” McKean’s voice boomed through the room. “To face the inevitability of absolute and limitless power?”
+
+Jason’s laughter echoed through the room.
+
+“Did no one tell you, McKean? Facing absolute and limitless power is kind of my thing. That means I can tell you with some authority that what you’ve got here isn’t it.”
+
+Slowly but surely, Jason’s afflictions escalated in severity. This was mostly down to Colin attacking the root network while Jason was too pressured to do the same. As the maledictions permeated the roots, the web of vines filling the room began to rot and crumble. Soon it was collapsing entirely, falling away in wet gobbets to paint the floor in black, viscous goo. The massive roots protruding through the walls were either consumed entirely by Colin or withered and died to afflictions. The woven vine shell around Gerling blackened and softened until it fell apart in clumps.
+
+Eventually, Jason had no more need to run or to fight.
+
+He hovered just above the floor, keeping his feet out of the thick layer of gunk coating it, draining through holes punched in the steel by the vines. Remnants of the vines continuing to rot fell from above, Jason pushing them away with his aura. He drifted towards Gerling, now exposed in the middle of the room. The roots growing out of his legs had inherited the afflictions from the larger organism, passing them onto Gerling himself. Dark veins writhed under his skin as his bloodshot eyes glared at Jason, who raised an arm in Gerling’s direction.
+
+“Your fate is to suffer.”
+
+The taint overtook Gerling’s body in an instant. His expression went blank as his body was reduced to the colour and texture of bog peat and started falling apart in clumps. There was nothing like flesh left, just rooted plant material that sloughed away with a horrifying stench of putrescence and decay.
+
+“That wasn’t really the end, was it?” Jason asked.
+
+“No,” McKean’s voice echoed through the room. “I’m not hiding my power anymore, Asano. There is no end to it.”
+
+At that moment, the entire dome imploded.
+
+***
+
+Estella cast an eye at the ceiling as the entire room shook.
+
+“What was that?”
+
+“Gerling used to have explosion powers,” Farrah said, not looking up from the computer terminal she was working at. “That was probably him.”
+
+“We’re very deep underground at this point,” Estella said. “In what’s meant to be a secure bunker. If an explosion can shake this whole place, maybe it’s all going to collapse. Maybe it was even designed that way.”
+
+“That would be good thinking on McKean’s part,” Belinda said. “Kill the intruders and bury the evidence, all in one stroke. I wonder if he’s got anti-portal magic embedded in the infrastructure?”
+
+Belinda was holding a magically enhanced assault rifle, pointing it at the scared-looking researchers. The bunker was one large room, with a computer terminal at one end and dormitory-style bunk beds along both walls.
+
+“I’m more interested in the plumbing,” Clive said, looking over Farrah’s shoulder at the monitor. “When we swept the room, you said it was a bathroom through that door, right?”
+
+“I did,” Sophie confirmed.
+
+“How does that work?” Clive wondered. “Is it plumbed? Deep under an abandoned castle in a portion of French countryside uninhabited since the monster surges? That would be immense trouble. Are there water and septic tanks? How do they get filled and emptied?”
+
+“Maybe there’s a magic filter that cleans the content of the septic tank and puts it back in the water tank,” Belinda suggested.
+
+“Okay, of all the reasons that working for McKean is a bad idea,” Estella said, “I think that drinking communal poo water tops the list.”
+
+“Clive do you know what that is?” Farrah asked, pointing to the screen. “Is this where he’s getting his power?”
+
+“I think it is,” Clive said. “And I do recognise it. I helped design it.”
+
+“Wait, you’re working with McKean?” Belinda asked. “Great, now we have to kill Clive.”
+
+“We do not have to kill Clive,” Farrah said, then gave Clive a suspecting glance. “Do we?”
+
+“No!” Clive said.
+
+“Good,” Farrah said and turned her attention back to the monitor. “So, what is this thing, and how do we turn it off.”
+
+“We can’t turn it off,” Clive said.
+
+“Well, that’s not great,” Sophie said. “Given that’s the whole reason we’re down here. Why can’t we turn it off?”
+
+“It’s the bridge between worlds,” Clive explained. “The one Jason and I built to regulate the flow of magic to Earth. Even if shutting it down were possible, we shouldn’t. If the bridge goes away, the Earth’s dimensional membrane will start breaking down again.”
+
+“And that’s bad, right?” Sophie asked.
+
+“Yes,” Farrah said. “Hole-in-the-universe, planet-wiped-out bad.”
+
+“The bridge is an infinite source of power, at least on a planetary scale. What we need to shut down is whatever McKean is using to tap into that flow of power. Presumably the grid.”
+
+“It is,” Farrah said, pointing at the monitor again. “Look at the energy draw and dispersion. He’s pulling power into the grid from all around the world and distributing as he needs. But we can’t shut down the grid either. Even if we were willing to do that, we can’t do it from here. After the EoA sabotage took the grid down years ago, McKean and I made doing it again a lot harder. We’d have to map out key nodes all over the planet and sabotage them simultaneously.”
+
+“I don’t think that fits our timeframe,” Sophie said.
+
+“Lindy,” Clive said. “We could use some of your innovative thinking right now to dig up a third option.”
+
+“Okay,” Belinda said. She shoved her rifle at Sophie and nodded in the direction of the cowering researchers. “Just point this at them and they’ll stay quiet.”
+
+Sophie took the gun and held it out awkwardly, like some distasteful thing she didn’t want to get any closer.
+
+“I’ve never fired a gun in my life.”
+
+“Then beat them to death with it, I don’t care.”
+
+Sophie shifted her grip to hold the weapon like a club and cast her gaze at the researchers.
+
+“I can do that.”
+
+“I think McKean knows we’re here,” Estella said, looking around as if she could see through the walls. “They’re trying hard to hide their auras, but we’ve got what feel like vampire lords moving in on our position.”

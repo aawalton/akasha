@@ -1,0 +1,197 @@
+---
+id: 85f6f314-2c60-5199-82b4-fb7eb90a1680
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19"
+slug: 0019-chapter-19
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 19
+ownLength: 3348
+unit: words
+publishedAt: 2025-11-08
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2743738/chapter-19"
+royalRoadId: "2743738"
+---
+
+Chapter 19
+
+The tall humanoid charged, focused on Veron as it closed the distance with three long steps, it's large hammer coming down towards him.
+
+Veron jumped back to avoid the strike, seeing Silvie try and flank the creature at the same time. He made to strike with his spear when the warrior spun, shifting his weight and the weight of his hammer to whirl the weapon around himself. Veron got his shield between himself and the weapon just before it hit his side. The heavy stone block kept in place by dark wooden roots flowing down into a long handle slammed against his shield with a crash. Veron was almost lifted off the ground, his upper arm going numb as the weight of the impact traveled through him.
+
+Silvie sliced into the creature’s knee but it kept going, taking another step towards Veron and raising its hammer high with a fluid motion. Their eyes met for a split second, Veron unbalanced and barely able to raise his cracked shield. He could see a mad joy in the creature’s almost white eyes. Before the weapon could impact, a tension snapped into place and slowed the hammer. It still came down on Veron’s shield but he could hold, attacking with his spear right after, the tip scraping past the being’s side, leaving a gashing wound.
+
+Silvie cut into the other leg of the creature. It roared now as it whirled around to try and strike at Silvie. Ethereal chains caught its arms.
+
+Veron struck into its back, piercing deep before a fast movement of the monster ripped the weapon out of his hands.
+
+It stumbled forward towards Silvie when Hayden arrived and brought his hammer down onto its back, bone breaking with the strike. The monster pushed itself up again from the ground when Hayden struck a second time.
+
+It fell, and this time, it stayed still.
+
+Veron grabbed his spear and ripped it out of the humanoid’s back, his hands shaking slightly. He saw movement in the surrounding forest. Between the trees, he saw four white eyes looking straight at him. An arrow came flying in the same moment, stopping an arm’s length in front of him and hovering in the air. The tension in their surroundings thrummed as he took a few steps back and fell in with the others.
+
+“Herasar,” Hayden said.
+
+“What are they doing so far south?” Silvie asked.
+
+“They’re here now. Get ready,” Reka said.
+
+Silvie’s wand glowed with golden light as three wolves emerged from the ground, followed by something bigger. Something that looked like a bear, but smaller than the one Veron had fought. Hayden was saying a prayer, hitting his shield a few times as Reka’s wand glowed bright with every arrow that was stopped. There were more of the monsters now, moving quickly past the trees, some climbing up. They were surrounded.
+
+Veron breathed deep and tried to roll his left shoulder but he found himself barely able to move it. He held his spear and looked at two large monsters, Herasar, emerging from the underbrush, shadowed by at least four or five smaller ones armed with bows, lithe and fast-moving. The large ones looked similar to the one they had killed, roaring as they looked their way, one wielding a hammer, the other a crude two-handed sword of rusted metal. Then they charged.
+
+The wolves and bear rushed forward, the Herasar slowed in the trapping spell of Reka, more arrows flying in before the tension snapped. Veron focused on the big one with the sword when an arrow glanced off his stone covered shoulder. He ignored it and stepped forward as the monster cut down one of the wolves with a savage strike. His own spear grazed its arm before he took a step back to avoid a broad slash. The bear barreled into the sword-wielder, and Veron followed, trying to find an opening but it was too chaotic. He glanced at movement to his right and took a step back, finding one of the smaller Herasar close now, smaller than the large ones but still near as tall as Silvie. It held a curved blade in one of its right hands, a crude dagger in the other, and its bow in its two left hands. It looked at him with its four eyes, mandibles moving as if it considered him, then it knocked and loosed an arrow.
+
+Veron closed the distance, stabbing as the arrow hit near his throat, stopped by his armor. He thrust his spear but the creature dodged backwards and to the side, moving fast and then faster. He felt something cut into his right leg and turned, a piercing pain coming from his left. He found the creature, its dagger gone. He winced and staggered when he tried to move, looking down at his leg where the weapon was stuck between his armor pieces, right in his knee.
+
+Oh.
+
+He looked up when an arrow struck his helmet, the impact making him stumble. Two of the creatures were closer now. A roar came from his right, the savaged sword-wielding Herasar cutting through the bear’s right arm, punching its head before it stumbled up, blood covered and one of its arms limp. A wolf jumped and bit into its arm, two arrows piercing the canine being before it dissolved in black mud, same as the bear.
+
+A blood spear punched through the injured sword-wielder but the two smaller ones were already rushing past, one of them going for Veron. He raised his shield to stop another arrow but the creature sliced its curved sword into his right arm, between the pieces of stone armor. His spear fell and he turned on one knee to see the creature stare at him from barely a meter away. He didn’t have the strength to raise his shield, and his right arm hung limply from his side, blood already dripping from his hand.
+
+He breathed out, his vision blurred.
+
+Hayden roared, trading blows with the hammer-wielder as one of the smaller ones struck at his legs, another one engaged with Silvie. Reka thrust her sword through one of the Herasar, the creature caught in slightly glowing chains, more arrows flying her way before they stopped in mid-air.
+
+The Herasar in front of Veron moved closer, what looked like joy in its eyes before it brought down its curved sword.
+
+Veron moved his head to the left, the blade aimed at his neck now scraping against rock and caught between his helmet and shoulder piece. He pushed up with his one good knee and tackled the monster, catching it under his own weight. They wrestled on the ground, turning twice, with heavy impacts. Veron nearly passed out from the blinding pain shooting up from his knee and arm, but he held on, barely. He grit his teeth and looked up at the monster, its two right arms pushed aside by his shield, his legs keeping it in place while his almost limp right arm tried to fend off the punches of its lefts.
+
+It wasn’t enough, and the creature noticed too. It had lost its bow in the tumble but it still had a quiver, grabbing one of its arrows and pushing it towards Veron’s face.
+
+He caught the arm but it had another.
+
+Shit.
+
+Veron turned his head to the left, the second arrow scraping past his helmet. He felt the ground with his magic and found a rock close to his head. He connected to it, and made it hover, then charged it up with power. When he looked up, the arrowhead was close and the creature pushed it closer, the strength in his arm gone to hold it back. He aimed and loosed the tension in the rock, as he had so many times on the journey here. The rock shot up from barely half a meter away, hitting the monster’s skull with a dull impact and glancing off into the forest.
+
+It screeched and struggled to get away, enough for Veron to kick it off him. He tried to get up but only managed a half turn on the ground. He saw the Herasar he had fought stumbling around whilst holding its head. The hazy form of Hayden was facing two of the large ones, on the defensive now as he protected an injured Silvie, one of her arms limp. Reka stood next to them, an arrow stuck in her chest but she was still fighting.
+
+There were more of the creatures now, strange cackling noises coming from their throats as they surrounded them.
+
+They could’ve overwhelmed us already. They’re enjoying this.
+
+Veron felt tired, sighing as he looked to the white trees all around. Was this it? He tried to move but winced at the pain from his leg. I’m losing blood.
+
+He caught a glimpse of a large Herasar mounted on a white horse that looked dead, its throat gone and its eyes a pale white. The hooded rider looked down at him, a gnarled root staff in one of its hands, its three white eyes staring down at him with nothing in them.
+
+One of the smaller ones approached, this one uninjured. It grabbed on to Veron’s helmet, raising its dagger.
+
+Veron’s heart pounded in his ears, a ringing all that he could hear. He watched the creature’s four white eyes, when something lit up behind it, a beam of gleaming yellow light burning through the rider and his horse, a line of flame bursting to life in the forest beyond. In the same moment, ethereal chains, a dozen or more rushed past between and behind the Herasar that held his helmet. They slung around and caught the creature, then glowed ever so slightly, pressure building as Veron watched the monster before him break and burst apart.
+
+The hand that touched his helmet fell, no longer attached to anything. The chains were gone and a white undead horse on fire galloped past. He found its rider on the ground, blackened and smoldering remains all that was left behind.
+
+Another line of fire burned past, the Herasar roaring when someone landed in their midst. A humanoid figure, covered in armor made of dull bone, feathered raven cloak on their back, and two wings of flesh moving slowly. They held a wand in their left hand and a longsword in their right, freezing air touching the ground where they held their sword low.
+
+Chains rushed out and caught the charging monsters, beams of flame burned through their skulls like bullets, their sword swung in wide arcs, slicing through the monsters with the strength of ten men. Veron lost sight of the winged warrior, himself on his knees now with his left hand trying to keep himself stable. His vision was bad, and the pain was worse. He would collapse soon, he knew, but he didn’t want to.
+
+He wanted to see.
+
+When he blinked his eyes, it was over. The armored warrior stood before the injured group of adventurers, surrounded by blood and carnage. They sheathed their blade and looked around.
+
+“Well fought, Silver Wolves, and Veron. Forgive my interruption, it seemed like the battle was not going in your favor. Tend to your injuries, and then check the horses, I believe two of them are still alive,” the armored man said, his voice calm. “Make haste, where there are Herasar, there are more on the way.”
+
+Veron was fixated on the leathery wings on his back, the appendages withering and balling up like the legs of a dying spider, turning to dust and magic. Veron breathed out, and shuddered.
+
+What kind of magic can do that?
+
+Hayden started with his prayers, checking himself, Reka, and Silvie. He left her arm but removed the arrow stuck in Reka’s chest, and then he went to Veron.
+
+“What of the corpses, stranger?” Reka asked. Her voice was strained. Silvie helped her search her pack, found some herbs and fed them to her.
+
+The warrior walked among the dead, knelt down beside Reymond and then stood up again. His movements were slow, deliberate, and his gaze piercing. “I hold no claim on their essence.”
+
+“You heard the man, use the dead to recover,” Reka said.
+
+“You’re bleeding out. Let me take care of your arm first,” Hayden said as he helped Veron lie down.
+
+Veron’s vision came and went but he breathed calmer when Hayden was done with his magic. He saw a bandage too, and a few dead Herasar lying next to him.
+
+“Take their essence. It will help with the blood loss, we will move soon,” Hayden said.
+
+Veron sat up. He felt a stabbing pain from his knee. His left shoulder felt numb, and his right arm was throbbing. He didn’t wait, going to the first corpse and closing its four eyes. He took some dirt and touched the creature’s face.
+
+I don’t know what you are. What you were. And why you came here to kill us. But now you are gone, and I am still alive.
+
+He closed his eyes and breathed, feeling a bit of strength returning back to him. He laid two more of them to rest, and when he could walk again, he took their corpses into the forest, and laid them down between a set of moss covered rocks, where animals and monsters could feed on them and where their remains would nourish the earth.
+
+Hayden was tending to their two remaining horses when he returned, finding the others no longer showing signs of injury.
+
+Way of the Healer. And a bunch of dead whose essence can be taken.
+
+Reymond sat with Reka. She helped him drink something.
+
+The armored warrior stood near the carriage with hands crossed. Veron breathed in deep and approached him. “Why did you wait?” he asked when he was close enough. The carriage door was open. It was him. The man that had been traveling with them from the start.
+
+He was a little taller than Veron, and his face was hidden behind a bone and metal helm, revealing nothing but his blue eyes. His armor looked savage at first glance, bone and dark steel weaved together in strange patterns but as he looked closer, Veron could see the decorations, the carvings, the runes, all deliberately crafted with far more care and time than the entire equipment of all other adventurers present.
+
+“You were tasked to protect this caravan. I did not wish to be seen and I did not want to hurt your pride as adventurers. Had the Herasar been less numerous, you would’ve come out the victors.”
+
+It felt so simple, so cold. Veron breathed in deep. Was he angry? Maybe. Among other things. Most of all, he was confused. Confused and glad to be alive, glad to have survived this fight. He looked over at Silvie. Her arm looked better but she still looked tense.
+
+“This wasn’t expected, was it?” Silvie asked. She glanced over at the armored man. “Or did you know they were here?”
+
+“No. The Herasar are creatures of the far north, the uncharted mountains far beyond Anvakar and even Norkamm. They are not supposed to be here,” the stranger said.
+
+The warrior sighed, then walked over to Reymond and leaned in close, whispering for a moment before he stood up again. “Adventurers. I ask of you not to speak or write to anyone of my presence here, my magic, my relics, my features and appearance.” He paused and seemed to consider. “Be ever vigilant, of strangers, and the wilds. Good luck on your journeys.”
+
+With that, he gave them a last look and turned, seemed to consider, then walked into the forest.
+
+They were quiet, glancing at each other when the stranger was gone. “He didn’t take a horse,” Veron said after a while.
+
+Silvie smiled. “No. He didn’t. Reymond, who the fuck was that? I didn’t know we had an enforcer or whatever in that carriage!”
+
+“No questions, Silvie,” Reka said in a tired voice. “We were hired to protect the carriage. We failed. The stranger saved our lives, and he asked us not to speak of him. We can talk about him amongst ourselves, but no word or question to anyone else, Reymond included.”
+
+Silvie groaned. “Really? He could fly! And he slaughtered a band of Herasar in seconds. Who can do that?”
+
+“Plenty of people, I'm sure,” Reka answered. “Now, let’s prepare the horses and move Reymond’s most valuable goods into the carriage. The stranger was right; where there are Herasar, there will be more.”
+
+They worked quietly, Reymond instructing them as they went through the goods in the two wagons. At one point, he opened the flooring in the wagon that was turned on its side, taking out a few smaller chests that he handed to Reka and Silvie. Nobody commented on the hidden compartment but Veron caught a glance from Silvie.
+
+“We will go to Perrion. And we drive through the night,” Reka said. “Two people up front, three in the carriage.”
+
+“You feeling ready to ride?” Silvie asked, looking at Veron.
+
+“I could do with a few days off, but yes, my knee still hurts but as long as I can sit, I should be fine.”
+
+They took first shift and shortly after, they were off on the same road they'd been traveling on.
+
+Silvie was quiet for the first ten minutes, the two of them still on edge from the battle. It was slowly getting dark now, the birch trees casting longer shadows with every passing minute. Veron tensed up whenever he thought he saw movement in the forest.
+
+“What they said about there always being more Herasar...”
+
+She waved him off with a slightly crooked smile on her face. “Just horror stories. But keep your eyes peeled anyway.”
+
+They were soon driving in the dark, dull glowing lantern light making sure the path was at least barely visible. They could see the moon but the night was cloudy. A few hours later, the tension had somewhat settled. The only things they could hear were the hoofs hitting the road and the monotone rattling of the carriage.
+
+“So, what are they? I've heard of them but I've never fought any,” Veron said. He had not heard of them.
+
+“Yeah, I've only ever fought them once, north of Anvakar. Not this many. Savage monsters from the north, dwelling deep in the mountains, depths, and dungeons beyond the reach of our kind. I've heard some people call them chaos beasts, but they use weapons, and the way they fight, they're not just beasts.”
+
+“Can they talk?”
+
+“Not that I know of. Nor if they have any settlements. Maybe we just don’t speak their language.”
+
+“It seemed like they enjoyed it. The fighting I mean.”
+
+She spat. “Yeah. Bunch of shit eating pigs. Should have killed us when they had the chance, before that stranger stepped in. Doesn't want to hurt our pride my ass, he hurt my pride all right. I haven't felt so outclassed in a long while.”
+
+“You don't know who he was?”
+
+“No idea. Some big shot from Leiveen, going by all those relics. Do you have any clue what wings like that cost?”
+
+He shook his head.
+
+“Me neither, but definitely more than everything in this entire caravan, our gear included. I don’t even know what kind of beast essence could create something like that. I guess we were lucky. I'm pretty sure he only traveled with us to get to Perrion in a discreet manner. That would have been our last fight otherwise, yours included.”
+
+Veron looked into the dark forest.
+
+“Do you think he will fly all the way to Perrion or wherever he’s going?”
+
+“I don't know. He probably would’ve done that if it was an option in the first place.”
+
+“Maybe. Or he didn’t want to show off more of his capabilities.”
+
+She looked at him and smiled, then laughed. “Sure, yeah. Why don't you ask him if you ever meet him again?”

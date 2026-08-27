@@ -1,0 +1,221 @@
+---
+id: 368ba08c-d306-5e04-9912-730ec62b82b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 838 - The deal is made"
+slug: 0165-chapter-838-the-deal-is-made
+partOf: hell-difficulty-tutorial
+position: 165
+ownLength: 3085
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3677601/chapter-838-the-deal-is-made"
+royalRoadId: "3677601"
+---
+
+I still have some time until my time out expires, so I wave away the black orb that even now I can't understand. Though, isn't that a bit of a cocky thing to say? "Even now?" There have to be people who’ve been experimenting with the mysterious black mana for much longer than the few years I’ve spent in the system, yet I still say that. In the end, I still find it fascinating. Finally learning where it came from and discovering more about its true nature would be interesting, and I won't lie and say I'm not curious. But at the same time, I don't really care all that much.
+
+Mostly, because none of that information will change what it means to me, even if it is some sort of weird fragment that hasn’t materialized like most of them.
+
+I pause and almost chuckle, finding myself suddenly curious about it out of nowhere.
+
+I really am a fickle man. It’s a bit like using a smartphone without giving much thought to how it works, and then one day you fall down a rabbit hole of videos, only to, hours later, find out that one of its main components is just a rock that humans have tricked into thinking?
+
+“Feral one?”
+
+“Yes, Myrra?”
+
+“Can I try on your glasses?”
+
+I pause and narrow my eyes, regretting the fact that I don't have a phone with me. Well, I had one, but it broke during the fights. A photo of a literal catgirl wearing round, thin silver-framed glasses would sell for a lot to certain audiences.
+
+Still curious, I take the glasses off and hand them to Myrra, who puts them on and adjusts them a few times so they fit her better. Unsurprisingly, even if they are a bit small, they look good on her... and here we go. I watch the glasses change size until they fit her perfectly.
+
+I’m sorry, Elian, I didn’t know your game. Of course, you would add a mode that would make them adapt to a female lynthari if one were to wear them.
+
+“Feral one, these are terrible. They reduce my senses so much! Is this some sort of training tool?” Even if she looks silly, she quickly picks up on the effect, and I nod.
+
+“Something like that,” I say. I don't ask for them back, hoping the distraction will allow me to delve back into my thoughts while I check my status.
+
+Lvl 440
+
+Strength: 375
+
+Dexterity: 356
+
+Constitution: 100
+
+Mana (Stage 1/3 - Vast Mana): 2026 + 2026
+
+Even though I'm still suffering from a severe case of mana deficiency, my mana stat is looking a bit better. One day, I might even find a cure.
+
+At the very least, I think the effects my constitution and active skills have been having on my body is beginning to show more and more. It’s never been easier for me to channel mana, nor has it ever been this easy to create black mana. I’ve also already managed to raise a few active skills to level 80. That’s good, though of course I plan to go higher.
+
+The upper 80s is the domain of the truly powerful. Then, at level 90, the Absolutes start. That means I should likely expect an even bigger slowdown at level 85.
+
+Bored, I flick my finger and open that part of my status as well.
+
+Active skills (8/10):
+
+Focus - Lvl 80
+
+Perception - Lvl 77
+
+Redistribution - Lvl 80
+
+Eclipse (Pride) - Lvl 71
+
+Empyrean Lance - Lvl 56
+
+Manifestation - Lvl 47
+
+Weave - Lvl 18
+
+Mana Manipulation - Lvl 81
+
+With [Mana Manipulation] reaching level 80 the moment I started pulling on ambient mana on my own, I wonder what even higher levels of it will allow.
+
+Lastly, there’s my passive skills. With the Epic Adaptive Defense waiting to be replaced, I just need the system to note my performance and dig into that passive a bit more. Something tells me it won't be easy, but something also tells me it will be crazy good.
+
+Passive skills (5/5):
+
+Mana Wavelength Tyrant (Mid Arcane)
+
+Mana Wave Predation (Unique Arcane)
+
+Cognitive Hyperprocessing Vector (Low Pristine)
+
+Adaptive Defense (Epic)
+
+Heat Resonance Restoration (Low Pristine)
+
+Things are looking pretty good. Of course, minus my crumbling body, but I bet many mana enjoyers like me have the same problem. It should be a fairly normal state, even if it does gradually become increasingly painful and cumbersome, even as it makes handling mana easier, and in the same vein, much more difficult.
+
+Once again, I feel Myrra shove me. “Feral one, I’m bored. Introduce me to your friends.”
+
+“Nope, I’m scared. I’ll be sitting here under this beautiful tree, enjoying this beautiful shade being cast by that beautiful giant wyvern, until the hour Lady Lissandra gave me passes.”
+
+“But why?”
+
+“Because I want to ask her about my friend. I wanted to ask the Rulers, but I was warned their attention could bring a more unwanted sort of attention, and I believe that. So, I’ll be asking her instead, and I’ll just try my best not to ruin her mood before then.”
+
+“You know she doesn't care about that sort of thing. In her own way, she even seems to like you and sees you as her disciple.” As she speaks, Myrra’s voice grows a bit more serious and quiet, with a hint of gentleness to it.
+
+“It’s possible. I don't look into other people’s heads, so I can't say for sure. But even if it only means getting a tiny bit of a better chance, why wouldn't I go along with it?” I reply to her.
+
+“I guess,” Myrra sighs. She gently places the glasses back on me, where they shrink once again to fit me perfectly. Before letting go, she caresses the side of my head and then stands up energetically. “Hey, you, lumoran guy! Show me that fancy sword on your back!”
+
+For a bit, I watch her head toward Brichant, who’s sitting on the ground next to Savant and Weslin. They still seem unsure what to do. When Weslin looks at me with a question, I just shrug. He shrugs back, and our conversation ends that way to our mutual satisfaction.
+
+Meanwhile, Morwag isn't sitting at all. I don't think he’s taken his eyes off Lissandra ever since we arrived, and he refuses to look away now as Brichant takes out Calvorn. The sword starts talking to Myrra in a polite voice, calling himself an evil-slaying sword, and asking her to free him from this lumoran lunatic.
+
+Lissandra, of course, feels that gaze Morwag has been giving her, but she doesn't seem to be too bothered. Well, not until Morwag takes a step toward her. Only then, from her perch on a nearby boulder, does she lift her eyes and look at him.
+
+With eyes wide open, the demon starts shaking. His skin becomes pale, and his throat and head move as if he’s about to vomit. He stops. I can hear his ragged, deep breathing as he whimpers like a scared little animal. The surface of his eyes grows wet as if with tears, and his hands constantly twitch, closing and opening.
+
+Then, he takes another step toward her and stops, squeezing his eyes shut. His heart thuds loudly, and his legs begin to tremble. Though he is much taller than she, he looks so small now.
+
+Morwag opens his eyes again and takes another step, pulling his leg through the dirt as if he’s unable to lift it any higher.
+
+Another barely half-step.
+
+And right after, he falls. As if someone flipped a switch, his body and mind give up, and he falls to the ground like a puppet with its threads cut.
+
+“Not bad,” Lissandra says quietly while looking at the demon before turning to me. “Do you need the rest of the hour, or shall we continue, little pup?”
+
+“We can continue,” I say, standing up. When I take my first step, I expect a push against me, but I find there is none, and I quickly cross the distance. “So-” I start, but I'm stopped.
+
+“Glasses,” Lissandra says.
+
+I don't say it out loud, but I swear I have no idea what I’ll do if she also puts them on.
+
+I hand them to her. Holding them in her hand, she turns them around a few times as she observes them and then speaks.
+
+"Biometric Tethering. Mana Signature Indexing. Geospatial Beacon. Acoustic Vibration Capture. Visual Feed Passthrough. Mana Binding Synchronization. Thought Pattern Recognition. Proximity Signature Logging. Environmental Mana Mapping. Biological Feedback Looping, and a dozen or more functions."
+
+The light reflects on the glass of the lenses, and I gulp, as I begin to wonder if Elian might not be an app developer on Earth in his free time? But then, it's not like I didn't expect it, so I’m not even angry.
+
+“All powered by ambient mana and your own,” Lissandra completes.
+
+“What a leech!” I shout out loud in anger.
+
+Ignoring me, she takes out her black dagger, and I notice that it’s been cracked. Still, she flicks it, and a pulse of mana surrounds the items she is holding. Her voice deepens as she speaks, this time addressing the glasses directly.
+
+“Funnily enough, it wasn't that difficult to track the coordinates back to where all this information was being sent. Maybe it was even done on purpose. You are a brazen man, aren't you? Once I'm done here, I’ll make sure to find you. And if you decide to run, you'd better do a thorough job of erasing your tracks.”
+
+Lissandra then molds the glasses as if they were made of play dough until they’ve been shaped into an otherwise indistinct orb. She looks at me. “Toys. Useless tools made for incompetent people. You will either learn to use your trait the proper way, or you don't deserve it and will never be able to reach its full potential.”
+
+The orb in her fingers continues to be compressed further and further, shrinking until all that’s left is nothing more than a speck of dust that she flings away. “Show me your full status.”
+
+I do as I’m told, and she watches it for a while. She opens her mouth but then closes it, and instead of ordering me, she asks, “What is your plan?”
+
+“Currently? To strengthen my Empyrean Ichor to the third stage. I think it will forcefully evolve my Mana Physique and revert it to the 1st stage, after which I will use the 2nd stage token I got not long ago. Then there’s another construct I’ve been working on that I mean to implement fairly soon.”
+
+“So, not slowing down?”
+
+“Not at all. I’ll be speeding up.”
+
+“Good. Use your 3rd stage strengthening token for your ichor now.”
+
+I don't tell her that the 2nd stage isn't even fully applied yet, she must know, so I just use the token. For a moment, I think she might be helping me or planning to aid me through it, but as soon as I confirm the use of the token, I remember who she is. Of course, it’ll be all on me.
+
+Some of my minds that were training even now snap back, reallocating resources to help me endure, but I already feel like all my veins are about to burst. The blood flow literally pulls on my mana, and my veins become visible through my skin. Even my eyes feel swollen, as if they were about to pop, to say nothing of the headache.
+
+“Little pup, if you can't focus your concentration, go sit back under your tree,” she says.
+
+For a moment, I feel anger swell inside of me, but I push it away. I wait a second so the decision can be made by me rather than my feelings, even if the result is the same.
+
+“I’ll stay,” I say, even as I fight to keep my balance.
+
+“Good. We should have three days before the Rulers barge in here, though they don't seem to be in any hurry. That’ll be more than enough time for what we have planned.”
+
+As she says this, the wyvern reacts, twisting its head to look at her and speaking in a loud, rumbly voice.
+
+Lissandra answers back, speaking normally. “A week? Are you lazy or just dumb? Put some effort into your part. Three days is more than enough.”
+
+The wyvern opens its maw and lowers itself further. The head touches the top branches of the trees around us, breaking some of them as it moves dangerously close to Lissandra. Lightning crackles in that open maw, while beyond the field Lissandra’s created, the earth shakes. Mountains in the distance crumble, and miles long lashes of white lightning flash through the area like whips made of plasma, cutting through everything, moving with the sound of snapping power lines. Even the ceiling shakes, as broken crystals rain down from above.
+
+In an even deeper voice than before, the wyvern speaks, and my entire being shakes. I find myself having trouble even seeing or breathing.
+
+Then, as fast as it came, it’s all gone. It’s the wyvern who finally breaks eye contact with Lissandra, letting out a few more sounds before turning away.
+
+Unbothered, Lissandra turns back to me. “He can be a bit difficult to work with, but he’s useful. And stubborn. He refuses to even speak in a way the system might translate, but he just called all of us system slaves and parasites.”
+
+Dusting non-existent dirt off her clothes, Lissandra speaks some more. “To explain the situation and why you are here: I used the mark I placed on you, a disciple communication token, and the dagger you made with your black mana, then waited for you to use a teleport to redirect it here. As expected, it was laughably easy. This floor is currently partially blocked from the other floors and the Beyond. I used the hole I made before they took control of that flawed array they’re so proud of, and with the help of the wyvern, disconnected this floor. The next steps will require even more of your black mana."
+
+"What do I get in exchange?" I ask.
+
+"I'm confident we can make a fair trade, with you very likely getting much more out of it than you have to offer. Little pup, not to brag-"
+
+"You are bragging."
+
+"-but there was a time when Absolutes came to Eladore with the sole purpose of begging me to teach them."
+
+"They must have been pretty weak Absolutes."
+
+"Indeed, though I still find them to be much better combatants than what I have seen so far of this era."
+
+"You don't need a mana heart? You still seem to be lacking one, and now you have more people here than you expected. You even could have let Diligence’s vessel pass and taken his."
+
+She gestures at a smaller boulder nearby, and I move to sit there. For a bit, Lissandra looks toward Myrra, who grabs the unconscious Morwag and pulls him under the tree to flip him over. The catgirl then breaks a small branch, chars it with her fire, and begins to draw on his face.
+
+"I already have a heart in mind," Lissandra says. "One I'm confident will fit me very well." Briefly, a small smile flickers in her eyes. "Once I'm out of the tutorial, I will head to the Labyrinth of Xyphos. I went there once, not long before Eladore fell. Because of the way that place functions, my Avatar is still in there, along with my new heart."
+
+I want to ask her how confident she is in her ability to defeat said Avatar. Though it won’t be as strong as prime Lissandra, it’s still likely to be very powerful. But the question doesn't come out as I see her confident bearing, the look of someone in absolute control.
+
+She can be a bit cool sometimes, I have to admit.
+
+"Black mana is a fragment of a god, I suspect, though I'm still not fully sure of how it works," I say.
+
+The silver haired woman nods. "I’ve known it was a fragment for a while." She waves the cracked black dagger. "But it was only after speaking to the wyvern that I learned a bit more. Telling you about it will be part of my payment for you supplying me with it."
+
+"Can you manage thought acceleration or create a mind space for us, so that more time passes inside than out?" I ask her.
+
+"It’s almost insulting that you would ask if I can do something so basic."
+
+"Good. I want to train with you in that accelerated space, and I want you to look into my severed connection with my bond. I want to know if you can track it, if he is safe, or if you could help him if he needs it. If nothing else, I want this more than the training or any information."
+
+"That much is reasonable. Very well. I offer further information on your "black mana", I offer my help regarding your bond and what I think happened to him, and lastly, I offer my guidance and training. Within your mental space, I will be able to accelerate time enough to give you a year of training, as that’s within the limits of what your mind should be capable of handling. But little pup, even if it is just accelerated thoughts, it is still one year of my life. If you bore me, if you disappoint me, if I find you lacking, or if you complain, I can and will cut that time short at any moment."
+
+"That sounds fair to me. I accept. In exchange, I will generate as much black mana as I can for you while giving it all my effort."
+
+"The deal is made, then. So, for a start, let me tell you a story. A story about one of the weakest gods, one who was looked down upon by the others. God of the very thing the current system’s mana is based upon, and the first to stumble upon something mysterious from another universe. An invader, a parasite, a spark at the heart of our universe that set ablaze the fire that is the System. And the natives of this universe that only united against it once it was already too late."

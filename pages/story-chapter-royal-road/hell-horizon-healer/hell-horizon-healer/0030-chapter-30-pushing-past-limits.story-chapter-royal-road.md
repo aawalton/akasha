@@ -1,0 +1,129 @@
+---
+id: 48187d01-d4f8-5ceb-b15d-918e51e7bbe5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30 - Pushing Past Limits"
+slug: 0030-chapter-30-pushing-past-limits
+partOf: hell-horizon-healer
+position: 30
+ownLength: 1118
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3628132/chapter-30-pushing-past-limits"
+royalRoadId: "3628132"
+---
+
+[Minor Heal Milestone Reached: 50% Mastery]
+
+Effect: Mana cost reduced by 25%. You can now repair micro fractures within bones.
+
+[Meditation Milestone Reached: 50% Mastery]
+
+Effect:  Increases base mana regeneration when still by an extra 15%. Increase mana gained by popping mana clusters by a further 10%.
+
+[Tension Milestone Reached: 25% Mastery]
+
+Effect: Damage dealt with tools that require tension is increased by 50%. Because you have learned how to utilize the tension in your own body to harness the full potential of your muscles, increase all Strength by 15%.
+
+I’m finally getting somewhere, Jake pushed himself up off the floor, feeling the immediate difference in strength. An entire puddle of sweat had formed below him.
+
+He tore his muscles over and over again so many times that the steam visibly rose from his chest and upper arms.
+
+The effectiveness of his second Elite Growth Stimulant was about to dry up any minute now, but he refused to use another as even the corpse of a Dreadknuck was becoming insufficient for his current strength. Speaking of—
+
+As he reached for his bottle of water, something peculiar happened—he crushed the plastic in its entirety, unable to control the strength that had now settled deep in his muscles.
+
+That’s… unsettling, he thought.
+
+He tested it a bit more, and his premonition was true: he was having difficulties controlling his power. Punching or fighting was straightforward, but when it came to tasks that required a more gentle touch, it was growing more difficult to accomplish it.
+
+Jake rolled his shoulders. I’ll worry about that later—
+
+Another system notification followed.
+
+Minor Heal has reached the threshold. Would you like to upgrade it to Heal?
+
+Meditation has reached the threshold. Would you like to upgrade it to Enhanced Meditation?
+
+Well that’s new. He scratched his head. What happens if I go through with the upgrade? Will Minor Heal lose progress just like with what happened with the merging of Focus, Controlled Breathing, and Concentration?
+
+Jake didn’t know what to do.
+
+No matter what, it didn’t sit well with him that he would potentially leave Minor Heal with a staggering 50% left to master.
+
+Also, what kind of hidden benefits were there if he took Minor Heal all the way to 100% before upgrading it? Would he be given another option—a more powerful one?
+
+The way he viewed it was that it was an instant power-up at the cost of a permanent increase later down the line.
+
+He drew in a deep breath, then let it out in one go. There was a lot left he was wanting to experiment with. The enjoyment from figuring out how he could improve it further, the sheer satisfaction of being the main reason for having the Skill tick up was unlike anything he had ever experienced before.
+
+For once in his life he was in control, and he was loving every minute of it.
+
+So upgrading it would be a waste. You had to learn how to walk before you could run, and Jake guessed it was the same for Skills.
+
+Although it was a guess, he wondered just how strong a perfected foundation actually was? Everyone would most likely make that choice right away. There was no way of knowing what kind of monster they would encounter next, so going for the guaranteed power-up was the obvious decision for most.
+
+But—
+
+Jake clenched his fist, the bones creaking within.
+
+He now had thirty-four strength. With Gutter Tooth and Pendant of Might, that number was forty.
+
+He didn’t know if he was making the right choice, but he disregarded both of the system prompts, pushing them to the back of his mind for later.
+
+Even though he refused the upgrade, he still felt the difference from having them finally reach 50%. The mana in the air moved a lot smoother now.
+
+Using Tension, he focused on the muscles in his arms and back, feeling every minute change. There was a way to make them even stronger, he just knew it. Some method he could use to push his strength even further.
+
+The only way to discover that is by pushing myself to the absolute limit. Break my muscles down strand by strand. It will be agony, easily the most pain I’ve ever suffered. But…
+
+Jake grinned.
+
+God. This is fun.
+
+And so he started pushing himself even further. He used Tension to heighten the strain on his muscles, and felt them ripping apart piece by piece. It proved extremely effective.
+
+Strength +1
+
+Strength +1
+
+Strength +1
+
+Hours blurred. He facilitated not having heavier weights by going way beyond his body’s limits with Tension. He felt every inch of his nervous system scream at him, that if he kept going, he was going to break himself. His own mind was beginning to put more of those limits in his head, his own biology attacking him, begging him to stop.
+
+He refused to listen.
+
+He screamed through the bottleneck. His bicep tore from hours of constant abuse. He healed it. When another muscle broke, he healed that too.
+
+Not knowing how many more hours passed, he lifted the Dreadkuckle that had begun to stink over his head. His arm buckled.
+
+One… more—
+
+Everything outside of his own muscles, he ignored it all. He was obsessed. There was only one thing that mattered, and that was pushing one more.
+
+His tricep snapped, his arm falling. He quickly caught it, pushing a heal through. He could even do it without using his hands now.
+
+One…. more!
+
+Screaming, spittle ejecting out from in between his teeth, he pushed one more final time, bringing the heap of muscle and bone high above him.
+
+His arms gave out a moment later, the entire weight of the creature slamming onto the floor of his apartment. His floorboards groaned. His arms lay limp at his side. He couldn’t lift them no matter how he tried—his body refused to listen now.
+
+When he looked down, he caught something surprising. Where he had gripped the Dreadknuckle, was a deformation in the monster’s leg.
+
+Jake glanced at his current strength.
+
+46.
+
+***
+
+He didn’t get any sleep. He kept on waking up through the night with stabbing pains shooting through his entire body, made only worse that he couldn’t feel his arms at all as if there were foreign objects.
+
+Though they had gotten better in the last few hours or so thanks to healing them whenever he had mana free like clockwork.
+
+Then, someone approached his door, impatient. The smell of sweat mixed blood leaked through the gap underneath the door. They knocked a moment later.
+
+It was Sloane
+
+It was time to hunt.
+
+Goliath Dreadknuck… Prepare yourself.

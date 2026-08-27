@@ -1,0 +1,181 @@
+---
+id: 5a55331e-7ac9-5781-b22e-1525ab1e5967
+page-type-slug: story-chapter-royal-road
+title: "315. Quack All You Want, You're Still Not a Duck"
+slug: 0315-315-quack-all-you-want-youre-still-not-a-duck
+partOf: god-of-trash
+position: 315
+ownLength: 3170
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3445651/315-quack-all-you-want-youre-still-not-a-duck"
+royalRoadId: "3445651"
+---
+
+Deep inside his manor, Ryota lead Rhys to a door covered in arcane, magical symbols. The door looked archaic, with a thick, clunky shape that didn’t fit in with the lofty swoops or flighty wings of the manor. Its wood, too, was dark and stained, worn away at the edges from immense age. Ryota made a quick hand sign outside of the door. The symbols glowed in response, and the door cracked open on its own, revealing an intimate space full of cushions and comfortable chairs.
+
+Rhys glanced at Ryota. “What’s this room usually used for?”
+
+“My grandfather sometimes invites business partners in here for discussions. And, er… my mother sometimes… entertains her close male friends here… her very close male friends.”
+
+“Ah,” Rhys said, nodding. It must get lonely as one of twenty-seven wives.
+
+“Walked in on that once… never again,” Ryota muttered to himself. He took a deep breath. “In any case, this room is secured far beyond what this discussion requires. In fact, it’s so secured that even the king and all his resources would struggle, if not fail outright, to see within. All we really need is to make sure no one overhears us, but, well, the room has been going to waste lately, so we might as well.”
+
+“Unfortunate for your mother.”
+
+Ryota winced. “Gods. I didn’t need to think about it that way.”
+
+He turned back and made the same hand sign, and the door swung shut. Arcane script on this side of the door lit up, then faded. A bit curious, Rhys extended both his ordinary senses and his trash senses, but both of them were blocked by the robust barrier around them. It didn’t have any specific anti-impurity or anti-trash considerations, the way Virgil’s barriers had, but what it lacked in specific counters, it made up for in sheer, raw strength. Even if Rhys threw all his impurities at it and truly put everything into corroding it, he wasn’t sure he’d make a dent, because it was just that much more powerful than him.
+
+“That’s an impressive barrier,” he said at last.
+
+“Isn’t it? Great-great-great… and many more, grandmother cast it. She was a true master of the barrier arts.” Ryota thrust out his chest, proud. “She was the founder of our family, and the first to ascend… supposedly.”
+
+“Supposedly?” Rhys asked.
+
+“No one has ascended in a long time. The general understanding is that it’s either mythical, and a nice way to say a powerful mage died, or that we’ve lost the ability to ascend. Either way, no one in living memory who cares to share their memory has ascended.”
+
+“Ascended… like to heaven?” he asked, still confused.
+
+Ryota nodded. “That’s a word for it. It’s more like a higher plane that only the most powerful mages qualify to access.”
+
+“Oh… got it, got it.” He nodded. He’d heard of this kind of thing before in his novels. It was just that he hadn’t heard much of this kind of thing since he’d arrived here, so he was a bit blindsided by Ryota bringing it up so casually, and dismissing it equally casually. Though… I have proof that this world has ‘gods.’ There’s no reason why we shouldn’t be able to ascend… unless it’s the trash that’s preventing modern mages from ascending?
+
+Now that’s a thought. I’ll have to look into that. And look into that underlying filth. Now that I’m stronger, I might be able to absorb it. But first, I’m finishing my vacation. Because that’s what this is. A vacation.
+
+He sighed in his heart. Why do I feel like I’m lying to myself?
+
+Ryota continued as if Rhys hadn’t interrupted. “The door predates the manor. The barrier is bound to the door, and generates the room in a pocket dimension wherever the door is placed. I could set it in the middle of the field and still enter this room. It’s resting in my manor right now because of the succession battle. Basically… if I end up in a place where I have no chance of surviving, I can turtle in the room until it all blows over. It means I’ve surrendered my spot in the succession battle, since I’ll have retreated and stopped participating, but it means I’ll survive with my head.” He looked down. “I’m the eldest son. If I lose the succession battle, I can still inherit our family’s holdings… so long as I survive.”
+
+“Makes a lot of sense,” Rhys admitted.
+
+“Some see it as cowardice, and my family’s history of resorting to Great-and-so-on Grandmother’s barrier has gained us a black mark or two in the past, but given that the succession battle has previously ended families, it’s at least a way to keep mine alive.”
+
+“Er, not that I have a problem with your noble ideals, but uh, doesn’t that mean you’re breeding half-siblings when you send your daughter to the king?”
+
+Ryota rolled his eyes. “We aren’t idiots who want to breed our way into oblivion. We send a woman from my generation, or a cousin whose blood wasn’t mixed with the king’s. Eventually, I suppose, we’re crossing the bloodlines again, but usually it’s not closer than cousins or second-cousins.”
+
+“Eh. It’s not great, but it could be worse,” Rhys allowed. Nobles would be nobles. At least with the whole twenty-eight families proposition, the blood of some totally unrelated family would be bred in when a totally unrelated person from a far-flung family became king. Of course, if they all had the heir-saving devices Ryota’s family seemed devoted to, it would become problematic eventually, but given that Ryota’s was frowned upon, it seemed that it was a rare occurrence, and therefore, the families would be… probably breeding with one another and still inbreeding, but he could always pretend that they’d marry common but capable mages instead and bring in fresh blood to the pool.
+
+It’s probably a mix of both. He shrugged. TLDR: inbreeding, but not as bad as medieval Europe.
+
+“It could be worse? That implies you know of worse,” Ryota prompted him.
+
+“Have you ever heard of the Hapsburgs?” Rhys asked. He chuckled, then waved his hand. “We’ve gotten way off track. Come on. What was so scary about what I did?”
+
+Ryota took a deep breath. He glanced at the door, and then Rhys felt his energy wash over him as he, too, checked the barrier the same way Rhys had moments ago. He looked at Rhys. “Have you heard of dark mages?”
+
+“Sure. They’re cool dudes who use dark magic and follow their own rules,” Rhys said, then coughed. “Or so I’ve heard. In novels. And stuff. You know.”
+
+Ryota shook his head, befuddled as much as anything. “I don’t know if things are different where you’re from, but they’re not very ‘cool’ here. They’re terrifying mass-murderers who regularly use magic to butcher innocents and mortals to further their dark, bloody arts, who strengthen themselves not by rigorous practice and the gathering of qi, but by absorbing the life force of other living beings.”
+
+“Ah… Oh! We call those demonic, er, mages,” Rhys said, understanding at last. He paused, then looked back. “Qi?”
+
+“It’s an old word… nowadays we mostly use mana, don’t we,” Ryota said. “Sorry, I was raised on Great… on our founder’s texts, and sometimes forget and use the old words.”
+
+“No, no, it’s fine. I know what it is, I was just surprised to hear it. Though honestly? There are some people out there that strongly prefer that word.”
+
+“Really? I thought it had completely fallen out of style.”
+
+“You’d be shocked.”
+
+“Getting back on topic, dark mages have corruptive spells like that technique you used back in town. Around here, they’re the only ones who wield such dangerous techniques. If you’re able to use corruption against a foe, then everyone will assume you’re a dark mage, and flee or shun you. Although the rule of the strong prevails here as anywhere, there are bands of opposing righteous mages who will go out of their way to slay dark mages… and they aren’t the type to ask questions first.”
+
+“In summary, there’s two rival gangs going around. One’s liked a little better than the other. I look like a member of the worse gang, so not only will no one like me, but also the other gang might decide to execute me for the crime of learning the wrong spells?”
+
+Ryota tipped his head, thinking, then nodded. “That’s more-or-less correct, though I’ve never heard anyone frame it like that before.”
+
+“One man’s battle of good and evil is another man’s gang war,” Rhys said, crossing his arms and nodding like he’d said something profound. Ryota, who was good at picking up on context clues, applauded.
+
+In a way, it was true. To those uninvolved in a conflict, unless it was the purest and most absolute of battles, both sides usually looked pretty bad.
+
+It was like mediating a toddler’s argument. Sure, sometimes one of the toddlers had stolen the other’s dessert, and it was all very straightforward, but sometimes there was just so much going on that it became nothing but squeaky screams and nonsense, and no one could be sure which side was ‘in the right,’ if anyone was at all.
+
+Of course, in this conflict, one side was literally murdering innocents to use their bodies and souls in blood magic, so one side was a little more evil than the other, but since he didn’t know the first thing about these so-called ‘righteous’ mages, he hesitated to call them ‘good.’ Sure, they were killing the obvious baddies, but killing a bad person didn’t make you a good person. If it did, Rhys would be the best person of all, and he was nothing but trash.
+
+They called themselves righteous—that was the part that was making him skeptical, honestly. Good people didn’t have to call themselves good. They existed, and were good, and that satisfied them. People who wanted other people to think of them as good called themselves good.
+
+He could be wrong. Sometimes, he was a little too cynical for his own good. But this whole ‘righteous’ business just gave him bad vibes.
+
+“So we came in here because…?” Rhys prompted.
+
+Ryota spread his hands. “Like I said. Great-Great—”
+
+“You can just say ‘founder,’ I know who you mean.”
+
+“—our founder’s barrier is wildly overkill for what I needed, but it was the easiest thing to hand. And it never hurts to be too cautious. I am in the succession battle, after all. You using that technique in town is bad enough, but I can always pretend like I didn’t know. Admitting to your face that I know you’re using corruptive techniques and not immediately shunning you is social suicide. Whether or not you’re a black mage, just being associated with you would be that much of a black mark.”
+
+“Just like that island back home!” Rhys chimed in cheerily.
+
+Ryota ignored him. He looked down, gripping his arm nervously. “I’m… actually taking a bit of a risk inviting you back here, but if you agree to join my faction, it would be such a boost that it’s worth it.”
+
+“Tier 5 be like,” Rhys said, nodding in understanding. “Though… I’ve fought a lot of T-5s since I’ve been here. Surely I’m not that valuable?”
+
+Ryota coughed. He looked aside, but in a different way. “Er… that is… my house is ancient and noble, but, the modern economy being what it is, and ancient traditions being what they are, that is to say—”
+
+“Ahhh. Say no more.” So his house had been rich, but was rich no more. That made sense. Even though he lived in such a huge manor, Rhys hadn’t seen a single servant since he’d entered; it’d just been him and Ryota all this time. The manor wasn’t in disrepair, but this was mage-work, after all. A few hundred years could pass, and it would still be in good shape, whether or not it was regularly upkept. He had all the infrastructure and buildings from his ancestors, but in liquid cash, he was lacking.
+
+Ryota grimaced. “To tell the truth, it’s not entirely my family. I’m not much liked by Grandfather, either, and he considers me a longshot at best. We do have some resources, but rather than wasting our resources on me—ah, this is in his opinion, of course—”
+
+“Of course.”
+
+“—he’d rather invest his resources now, grow them, and throw them into the next succession war. He’s already had my same-generation cousins create children of about equal age to the Fifteenth Prince, and has spent more on ingratiating them with the Fifteenth than he has in securing my position.”
+
+“Even though you’re the Third Prince?”
+
+Ryota laughed. “The only thing I have going for me is birth order, and I’m not even first. Grandfather nearly disowned Mother when two women gave birth before her.”
+
+“Man. I’d hate to be a woman in your family.”
+
+Ryota shook his head. “No… no. It wasn’t always like this. Our founder was female, and inheritance followed the female line, but that fell out of fashion in the last few centuries, and Grandfather finally snatched power from his sisters and announced a male line of succession within the family. Sometimes, I wonder if he’s punishing the women in our family for the fact that he wasn’t automatically the successor for being the eldest male.”
+
+“Well, that’s a big heaping pile of bullcrap. Where’s your grandpa? I have a raging urge to beat him up, suddenly.”
+
+Ryota put his hands up, laughing helplessly—in that bitter way that one laughs, when they hate their reality but see no way out of it. “He’s far too powerful. Even you wouldn’t stand a chance.”
+
+Rhys crossed his arms. “What did I say? If I’m not strong enough to beat them up, then I’ll train until I’m strong enough. I’m that kind of persistent trash!”
+
+More helpless laughter. “But you aren’t even a part of our family. This isn’t your fight.”
+
+“It isn’t, but I’m ticked off, and I won’t be happy until I beat your asshole grandpa.” Rhys paused. “By the way, something’s been bothering me this whole time. I mean, I guess you’re all mages, so you all live forever, but you’re acting like the next succession battle will happen relatively soon. Either that, or your grandpa likes playing the long long game.”
+
+Ryota coughed. “Well, do you recall how there’s twenty-eight families warring for the throne?”
+
+“Twenty-seven…? Oh, the king. His family line is excluded… Right. Carry on.”
+
+“That’s twenty-seven unhappy families for every king. The country wouldn’t last if the king remained king for life. Instead, the families agreed that each king gets a hundred years. At the end of those hundred years, a new succession battle is held between all the heirs the king has borne, and thus, the cycle repeats.”
+
+Rhys looked Ryota up and down. “Damn, Tier 4, low Tier 5 in less than a hundred years? That’s…” He coughed. Well, I’ve done it, and I’m trash, so I guess that’s not that shocking…? But somehow, most people can’t do it, so for twenty-eight… no, twenty-seven people to regularly do it is unexpected.
+
+Ryota had the good graces to look embarrassed. “I am a prince. Even if Grandfather only half-heartedly supported me, the palace still saw to it that I received the best potions and materials to help raise my tier as quickly as possible. Certainly, some princes received better potions, materials, and tutelage, but totally neglecting one prince would be too overt favoritism, and would risk throwing a rift in the alliance, so even us disfavored princes still received the basic level of princely mage treatment.”
+
+“Even though your grandfather had abandoned you…? Or had he not yet?”
+
+Ryota snorted. “No, he’d already given up on me. Rather, he was probably hoping I was treated poorly in the capital, because then he could use it as an excuse to raise a stink and demand more investment in our territory… or something else like that.”
+
+Rhys nodded slowly. “Ah, politics.”
+
+“Without my Grandfather’s support, this whole time, I’ve been nothing but a paper tiger. The princes who don’t know see me as a threat, and those who do laugh behind my back. I’ve been thinking of pulling out of the battle to save my own neck, and simply fall into Grandfather’s plans and vanish from the public eye—ah, I mentioned that this room is to save our bloodline from ruin, but even were I to use it, I wouldn’t become my region’s heir. Grandfather doesn’t intend to hand over power anytime soon, and if he does, it’ll be to one of my cousins or their children… someone he likes more. That’s an archaic tradition that’s already died out.”
+
+“Wait, hold on. You said that your family follows female succession, but the heir… if you’re a prince…”
+
+Ryota waved his hand. “The king can be a queen, and sometimes, we preserve our bloodline through any means we can, whether that’s handing the family to a male line temporarily or using the male to create a female heir.”
+
+“Ah, yeah. Typical noble stuff. Sorry, carry on.”
+
+“Right, where was I…” Ryota thought for a second, then waved his hand. “Without Grandfather’s support, I don’t have much hope of being the next king. But you… you can fight back against the Fifteenth Prince’s men without breaking a sweat. Even the Shrine Maiden’s guards are no problem. If you back me as my retainer instead, I have a chance of being king. So, what do you say?”
+
+“What, to backing you? Sure, but I don’t really care if you’re king. If I back you, the first thing we’re going to do is go beat up your gramps.”
+
+“What? Why?” Ryota asked, shocked.
+
+“Number one, that guys pisses me off. Who is he to decide who’s worthwhile and who’s scum? Scum gets to decide that on its own, dammit! Number two, I don’t like him. I wanna beat him up.”
+
+“Isn’t that the same as number one?” Ryota murmured, mostly to himself.
+
+“Number three, I’m not strong enough to make you king on my own, and if I did, your power would crumble the moment I moved on. You can try whatever you like, but eventually, I’m going to get bored and warp out, and there’s nothing you can do to stop that. So don’t think you’ve got me for a hundred years or anything crazy like that. Instead, what we’re going to do, is get you the proper backing of a region, the way you deserve. And that means…” Rhys looked Ryota in the eye, lowering an imaginary pair of shades. “Beating up your grandpa.”
+
+“You just really like that phrase, don’t you.”
+
+Rhys ignored him. “But beating up your grandpa means getting stronger. Sooo… are there any dungeons around here we could go raid? It’s time to get on that grind, bay-bee.”

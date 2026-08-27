@@ -1,0 +1,133 @@
+---
+id: a57653f9-aa06-510e-8791-5ff081dc36ba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 748 - How do you become an Absolute?"
+slug: 0073-chapter-748-how-do-you-become-an-absolute
+partOf: hell-difficulty-tutorial
+position: 73
+ownLength: 2272
+unit: words
+publishedAt: 2026-02-10
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3034506/chapter-748-how-do-you-become-an-absolute"
+royalRoadId: "3034506"
+---
+
+During my wait for the next event, I find myself being interrupted by a bus-sized, pitch-black wolf with not a single hair of a different color. Only his eyes are different, giving off a golden shine of deep intelligence. I get a feeling from him, not unlike Biscuit, but much weaker, even now.
+
+Biscuit's disciple appears in the common area the same way many other disciples do, as people summon them with rewards they achieved from the previous events.
+
+There is obvious screaming and all that stuff, but most of the people seem to remember him quickly enough. Not that he cares, they still scream and rush out of his way. Some pull out cameras, and a drone even starts circling above him.
+
+Ignoring it all, he heads towards the barrier and sniffs at it a few times before snorting and taking a bite out of it. He then pulls his head back, tearing a hole in it. At which point, the black wolf proceeds to walk inside while chewing the piece of the barrier he’s torn free. That mana behaves very differently from how it should. It should just disrupt, turn into particles, or be devoured by him. Yet, it somehow seems to be turned into food.
+
+Atop the black wolf's head sits a tiny figure: Biscuit in all his glory.
+
+(Pathetic Human and member of my master's pack, I see you haven't changed at all!) As he talks, his voice remains the same as before, sounding like that of a young boy.
+
+He doesn't get to say more, as on top of his head, Biscuit starts bouncing on his front paws and scratching the head of his disciple.
+
+(I apologize, master! But I don’t think I was being rude at all! And you must see it as well! What kind of lunatic would... Master, please... I did... It's all that humans' fault... Oh, I’ve heard about such food... I'm not hiding anything... Maybe we could... I can't fly, I told you already, please stop showing off... You are great, master, yes... One hundred ninety eight... Huh? Like this? I require sustenance... Thank you, but I need no vest...)
+
+The conversation turns away from me, and Lily and I exchange glances. She smiles, taking a step closer and sitting down to rest her back against one of the wolf's paws.
+
+He turns his huge head towards her, mouth slightly open in a show of sharp teeth and a lip lifted in a threatening manner, but he doesn't do anything else.
+
+(Yes, master, I promise to tell you if I see any deer!) He finishes his conversation before turning back to me, (Human from my master's pack, I wish to see your disciple, that smelly young half-demon, so I can laugh at her once more and have revenge for the way she treated me before.)
+
+“Minions do not smell. If they ever do, they get tossed into a volcano. I doubt she will join us this time, unfortunately,” I say.
+
+(How barbaric and unfortunate,) He truly seems a bit disappointed, but gets over it quickly. (I have decided not to call you an asshole anymore, so I hope you appreciate that. I have also become much more powerful since the last time we met, and while I had hoped to compare our skills this time, I can see that it would not be honourable to challenge someone in your state. Are you sure you’re not a demon?)
+
+For a short moment, the wolf pushes through all the mana and thermal energy around me, while primordial energy similar to Biscuit’s surrounds him. It makes him feel like he is just a two dimensional shape of a wolf that is pitch black to the point that it almost seems to devour light itself. There are just two golden eyes shining where his head should be, like he isn't even real, just a nothingness wearing his shape.
+
+His eyes get close to me, and his big nose sniffs a few times before he pulls back. That eerie feeling surrounding him pulls back as well as he moves further back and sits down. Lily, using the opportunity, once again comes closer and sits down, resting her back against his side while he ignores her.
+
+"Why do you ask that?" I ask him.
+
+(You feel like a demon, more so than some of the actual ones I've met. You carry the subclass of their Father very well.)
+
+I blink a few times, almost forgetting about the body upgrade and everything else, "Tell me more."
+
+The black wolf's teeth show in a big smile, and a rumble sounds as he lets out a noise that sounds like a laugh. (Ha! Wouldn't you like to know? This is something I have heard from the Elders of my pack, you will have to...)
+
+"Biscuit," I say simply.
+
+The black wolf whimpers as Biscuit, atop his head, bites into his fur there and tugs on it a few times. He then whimpers again, and a novels-long conversation is exchanged between the two of them before those golden eyes turn back to me.
+
+(Treacherous human, I shall remember this betrayal!) He calls in that young voice, (This time I will share that information with you because of my great master. You will have to supply him with all the food he wishes and many... many pets. You also have to carry him around a lot.)
+
+It is obvious where these requirements must have come from, and I look up at Biscuit, who shyly hides himself in the black fur.
+
+"Deal," I say, and listen up the same as Lily, who also seems more curious.
+
+(The Father of all Demons is one of the titles of the Ruler of Pride. A long time ago, he and the Ruler of Kindness were studying Mana Hearts together, and while they were doing that, they discovered a way to connect hearts to energies that had existed even before the system.)
+
+"Why? How?" I interrupt him.
+
+(How would I know, human? The Ruler of Pride and the Ruler of Kindness are close to what many would consider to be true gods, so who am I to know their thoughts? Just know they successfully created a trait called Demon Heart for those who became the 100 Progenitor Demons. These demons were then moved to distant planets of the universe where the system had yet to awaken, allowing them to multiply and grow for thousands and thousands of years before the system reached them. During that time, the Ruler of Pride continued to move them across many different planets, spreading demons through the distant edges of the universe.)
+
+"Is Pride a human?" I ask.
+
+(Yes, he is.)
+
+"Did he and Kindness create more races?"
+
+(Yes, I don't know much more, but many of the current races are the result of his and the Ruler of Kindness's acts.)
+
+"But why?"
+
+(Human, you are annoying, you surely must know that! No one knows. Rumour is that he’s been building an army against a danger outside our universe. Some say he was bored. Others say he did because he just could. Many more say he did it, hoping to create a stronger species, so that in the future someone would finally be born who could challenge him.)
+
+His words lose some of their edge as Lily buries her face into his black fur with an expression that shows just how much she likes the feeling.
+
+That causes the wolf to finally snap, (ENOUGH! You animal!) he barks and twists to bite into her shoulder and fling his head to send her rolling across the ground.
+
+After coming to a stop, Lily stands up, neither wounded nor scratched. Though there are a few bruises on her neck and arm from where the black wolf bit. I can't tell if it’s because Wolfy held back or if the petite maniac is just that durable.
+
+(My bloodline is that of an ancient wolf who used to devour entire planets. I will not let myself be bullied!) As he growls, Biscuit doesn't try to calm him down this time and continues to lie atop his head.
+
+Lily and the wolf then exchange a conversation, with Lily apologizing multiple times while the wolf uses the opportunity to continue to brag about his bloodline.
+
+When they finally stop, I ask again, "I’ve been wanting to ask for a while, but how does one become an Absolute?"
+
+It is Lily who answers instead, "Nat? You surely must be joking. Tess already found out months ago and..."
+
+"Shhh," I interrupt her, "I want to hear it from Biscuit's disciple."
+
+It gets me a snort, and I watch that massive body sit down and then lay his head on his crossed front paws. Those eyes, each bigger than my head, look at me with that intelligent light in them.
+
+Out of nowhere, Biscuit rolls off his head across the wolf’s nose and slides down to bump off the ground with a short squeak. The corgi then stands up and shakes off the dust from his body before floating into the air and booping that enormous black nose a few times with his front paw.
+
+The entire time, the black wolf watches him lovingly, and Biscuit then floats closer, where he nestles between the wolf's front paws and under his nose that blows into Biscuit's fur as the wolf breathes.
+
+(Human, we have wolves like you in our pack. The Deep-Scarred One, The Two Tailed One, The One Who Flies In Darkness. They are all very powerful, but also... lacking in the intelligence department. It’s not their fault either, they were just born that way, the same as you.)
+
+"Okay," I nod.
+
+(I could see it the day we met for the first time. Those two tiny sparks behind your eyes, trying to spark thought to life yet failing so often.)
+
+"Okay."
+
+(But The Deep-Scarred One, The Two Tailed One, and The One Who Flies In Darkness enjoy the thrill of battle, human, though sometimes I wonder if they just don't care. Perhaps they’re intelligent the same way we are, that they may just prefer to let others think and like to be pointed towards the battle where they can put their bodies to use in the protection of our pack. You might be similar.)
+
+"Okay."
+
+(Yes, something about your expression still irritates me, but I can't find out what. I don't have much experience with humans, so I haven't learned to read your expressions well! Maybe it’s your eyes. They tend to be extremely disturbing at times and very arrogant. But Master has said you can’t be that bad because you feed him the best food in existence, so I have to believe what he says.)
+
+"Yeah. The Absolute thing I asked about."
+
+(Oh, I almost forgot! Human, it is the same in the entire universe. For you to hold a title of an Absolute, you need to hold ownership over a Sovereign Spark. Most planets have one, and even some moons have one. For worlds that have just awakened, you need to clear their World Dungeon deep in the center of that world and bond yourself with that Sovereign Spark.)
+
+"I see, and if you kill an Absolute?"
+
+(Then you can take over the Sovereign Spark and cause a Pairing between your planets if you happen to be an Absolute as well, or you can just leave it be for some other Native to claim.)
+
+"So you don't need to clear the World Dungeon again?"
+
+(You do, dumb human! The moment the first Absolute clears the World Dungeon, it starts to return to its previous power and then grows stronger with the Absolute and the planet. Once that Absolute dies, the dungeon is more dangerous than it was before, requiring a more powerful person to reach the Sovereign Spark. Some planets' world dungeons are so dangerous that they never get a new Absolute once their original Absolute dies. There are legends of Rulers dying in the World Dungeons of the oldest, most powerful worlds!)
+
+This becomes an interesting thought. I have heard some of the things the wolf is telling me, but some are new even to me, and judging from Lily's expression, even to her.
+
+"What if your planet already has an Absolute and you want to become an Absolute as well? Let's say as a Champion that doesn't want to stay on their world anymore."
+
+The black wolf yawns and gently nudges Biscuit when he yawns as well. Turning back to me, he answers, (A Champion can't cause Pairing. You can try to challenge some other world, kill its Absolute, after which the system will acknowledge you, and then you can try to take over. Some even search for planets newly added to the system, where the World Dungeon has just been cleared. They try to kill the fresh Absolute since they can’t enter the dungeon as non-natives. These people are trash and looked down upon by other Absolutes, but not as much as the final kind. If you have a thing of value or are willing to offer your service, you can buy a planet. These fools in The Corporation have a map of many dead planets or moons with danger levels of their world dungeons calculated, and they sell them to Champions, just so they can get the title if they are capable of it. Though there are such pathetic ways to gain the title, a World Dungeon is never simple and always tests a Champion and rewards only the most deserving with its Sovereign Spark.)

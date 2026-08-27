@@ -1,0 +1,383 @@
+---
+id: ba00e715-7c22-5830-a6b4-2d46352cf1a6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 996: The More I Listen, The More I Hear"
+slug: 0063-chapter-996-the-more-i-listen-the-more-i-hear
+partOf: he-who-fights-with-monsters
+position: 63
+ownLength: 2785
+unit: words
+publishedAt: 2026-03-27
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3201518/chapter-996-the-more-i-listen-the-more-i-hear"
+royalRoadId: "3201518"
+---
+
+Anna’s car stopped in a Manhattan alley. Taika got out first, panning the area with his gold-rank perception. He was wearing a dark suit, unlike the big, loose clothes he generally preferred. He tapped his earpiece.
+
+“I’m seeing them two blocks away,” he said. “The Secretary, a bronze-rank driver and a gold ranker. Parked, probably waiting for us.”
+
+“The gold is a Secret Service agent,” Nik’s voice came through the earpiece. “Her name is Camilla.”
+
+“How do you know that?”
+
+“I have a tap into their personnel database. The cybersecurity is decent against vanilla magitech, but it’s still not up to stopping essence abilities. Not gold-rank ones, anyway. Also, I have a drone listening in. They know you’re there, but they’re not going to move until they sense Anna go inside.”
+
+“Did they stick to the terms of the meeting?”
+
+“So far as I can see. They have backup, but nothing closer than two klicks out, as agreed.” Nik’s voice came through the earpiece. “Two more golds and a small army of silvers. Probably too far for any but the golds to react fast enough if something happens.”
+
+“Keep an eye out,” Taika said.
+
+“That’s literally the entire point of having me here.”
+
+“Oh, yeah. Where are you, exactly?”
+
+“I’m in the bakery.”
+
+“Bro, I can’t sense you at all. Your stealth power is pro, now that it’s gold-rank. How many powers to you have left to go?”
+
+“Eleven that are still silver. I’m hoping to hit gold-rank by the end of the year. Hang on, someone else wants a photo with me.”
+
+“Bro, selfies? You’re on the job.”
+
+“Oh, I have custard on my fur? Sure, you can wipe it off. Grab one of those moist towelettes.”
+
+“What?” Taika asked.
+
+“Yeah, I know Hawthorne Wipes has had some ethical problems with their CEOs, but their towelettes really are the best.”
+
+“Bro, your mike is still on.”
+
+“That is so sweet. I think you’re cute too.”
+
+“Do we have to go over the ‘no furries’ rule again?”
+
+“I can’t help it if people love me.”
+
+“Are you talking to me again?” Taika asked.
+
+“Yeah, sorry about that. What? Oh, yeah, it is Taika Williams I’m talking to. See the earpiece? Pretty easy to spot, with ears like this. Hold on. Hey, Tai, you want to go to a party after?”
+
+“This is very unprofessional, bro.”
+
+“I’m famous and adorable. What am I supposed to do?”
+
+“Maybe not station yourself inside a bakery run by a dragon.”
+
+“He’s not actually running it. It’s a branch location. And do you know how hard it was for a dragon from another universe to get a US business licence? We should be supporting him.”
+
+“Not my point, bro.”
+
+“You’re good to send Anna in, by the way.”
+
+Taika grumbled and shook his head. He rapped his knuckles on one of the car windows and Anna stepped out as well. She could hear the chatter from the crowd queued up on the other side of the building.
+
+“They’re here,” Taika said. “Two streets down, stationary. Probably waiting for us to go in first.”
+
+“Then let’s,” Anna said as a teenager with a hair net and a flour-dusted apron exited through the back door of the building, warm, delicious smells wafting out with him.
+
+“Mr Williams, do you want those profiteroles before or after?”
+
+“Oh, now who’s unprofessional?” Nik asked.
+
+“Shut up,” Taika said, then waved his hands at the bakery apprentice in apology. “Sorry, Ted, not you. I’m talking to the rabbit.”
+
+“No worries, Mr Williams. How awesome is Nik? Best wingman ever.”
+
+“The basement, Ted?”
+
+“Right, sorry Mr Williams.”
+
+Ted walked down a short set of steps to a metal security door, where he swiped a card and entered a lengthy code on a keypad.
+
+“What is down there?” Anna asked.
+
+“Mostly fridges and non-perishables,” Ted called back as he pressed his hand against a scanner. “The recipe cabinet, too. Mr Stash doesn’t let us store any of them digitally.”
+
+The red light over the door went out and the green one lit up.
+
+“You can go in,” Ted told them as he came back up the stairs. “I’ll stay out here to let the others in. The door shuts and locks itself after thirty seconds.”
+
+Anna looked him over.
+
+“No offence… Ted, is it? But why are you the one doing this?”
+
+“Ted’s a skogtroll,” Taika said.
+
+“A what?”
+
+“I’m a forest troll,” Ted said, looking embarrassed. “Nice to know the old glamour magic is working. My family live in the woods and stuff. It’s a whole thing. You’d better get inside before the door locks itself again.”
+
+Taika led the way down, going through the door first.
+
+“Clear,” he called out and Anna followed.
+
+The basement was mostly refrigerators and storage cupboards, lined around the walls. The middle of the room had a plain wooden table and two matching chairs. Taika took a position by the door as it ponderously swung shut. Anna claimed one of the seats.
+
+“Do you think Jason is adhering to the Secretary’s request?” Anna asked. “No Shade spies at all?”
+
+“Yep,” Taika said. “No offence, Anna, but I think he’s done worrying about what some government might do. That’s kind of why we’re here right?”
+
+“I suppose it is,” Anna said. “It’s odd, thinking about Shade not lurking in my shadow. When did it stop feeling invasive and start feeling like a safety net?”
+
+“I would guess around the time the vampires started randomly ambushing people all over the world. But I’ll take care of you, don’t worry.”
+
+“I’m a bureaucrat and a politician, Taika. And I work for Jason Asano. I always have reason to worry.”
+
+“Fair enough,” Taika said, then turned opened the door. “They’re here.”
+
+Moments later, the lights over the door switched from red to green and it swung open to admit the Secretary of State’s bodyguard, who looked Taika up and down. Mostly up, given that Taika was a foot taller and wider than her. Even so, her body language was unintimidated and full of challenge.
+
+“I can turn into a bird, bro.”
+
+“I don’t see how that’s relevant,” Camilla said. “Also, did you just call me ‘bro?’”
+
+“Don’t engage,” Claire Danvey said as she walked, in. “Mr Williams is almost as well known as Asano himself for derailing conversations with absurdity.”
+
+Anna stood up.
+
+“Hello, Claire.”
+
+“Anna.”
+
+They sat, their guards going outside before the door locked.
+
+“Bahrain,” Claire said.
+
+“Lovely to see you too,” Anna said. “It has been a while, yes. Oh, very well, thank you.”
+
+“He removed a government from power, Anna.”
+
+“Why here?” Anna asked. “Why the dragon’s bakery.”
+
+“Because it has a secure room and is one of the most surveilled locations on planet Earth. Stop diverting the topic, Anna. Your boss staged a coup so invisible that we still have no idea how he did it. We have footage of him when it happened, from the other side of the planet. Clear footage, when he normally shows up as a blur, if at all.”
+
+“Your point?”
+
+“He can’t just delete a government, Anna!”
+
+“Yes, Claire. He can.”
+
+“What if he decides to do the to the USA? China? Australia?”
+
+“Snap elections, I’d imagine.”
+
+“You’re being flippant?”
+
+“And you’re yelling.”
+
+Claire slumped back in her chair and took a slow, calming breath.
+
+“The world governments are panicking, Anna. Bahrain has seen massive civil unrest. Innocent people are dying.”
+
+“Don’t try to take the moral high ground, Claire. How many governments have the US ousted? Every nation in the world has spilled its share of innocent blood.”
+
+“Don’t try to absolve Asano by playing lowest common denominator, Anna. And he’s not a nation.”
+
+“Yes, Claire, he is. Literally. He’s an entire solar system. I know you’ve had this explained to you, multiple times and in detail. I was there for some of them.”
+
+“Does the solar system even realise what he’s done? How many people he’s gotten killed? Does he care?”
+
+She locked a challenging gaze on Anna.
+
+“Do you?”
+
+“You know me better than to think that, Claire. Don’t make this about me.”
+
+“I don’t know him better than that.”
+
+“I asked him about the deaths in the aftermath of what he allegedly did.”
+
+“Allegedly? Are you serious?”
+
+“You’re the one who mentioned his alibi. If you have evidence, Claire, feel free to share. Or you could listen to what he said when I asked him about the chaos in Bahrain.”
+
+“And?”
+
+“Have you noticed that the vampires haven’t taken advantage of it? Not one incident.”
+
+“It has not gone unnoticed,” Claire acknowledged.
+
+“Jason is still paying attention to the country, Claire.”
+
+“The lack of vampires hasn’t stopped people dying from regular anarchy. Did he say anything about the deaths?”
+
+“Yes,” Anna said. “He did.”
+
+“And?”
+
+“Probably best to hear it from him. Coming from me, it would come across as the ravings of a cultist.”
+
+“That sounds comforting.”
+
+***
+
+A day before her meeting with Danvey, Anna entered Jason’s office in the Slovakia administration tower. He was out on the balcony, surveying his domain. It had expanded from its original size when he repaired the Cosmic Throne, claiming what was once the city of Nitra. The new city was far larger, but Jason had kept the name.
+
+“Is this about the barbecue tonight?” he asked without turning around.
+
+“No, although where is it this time?”
+
+“Redwoods National Park.”
+
+“Susan will like that.”
+
+She paused before continuing.
+
+“I’m meeting with Claire Danvey tomorrow.”
+
+“I know. Shade will leave your shadow before you portal out.”
+
+“You know what she’s going to talk about,” Anna said.
+
+“I do.”
+
+“What do I tell her?”
+
+“That the set terms were violated. I always said there would be examples.”
+
+“Are the people you took alive?”
+
+“Yes. The king doesn’t like being a farmer, but if he tries to eat food he didn’t grow himself it dissolves, so he doesn’t have much choice.”
+
+“It takes time to grow food, Jason. What’s he been eating in the meantime?”
+
+“I put a little buff on the growth time of the crops. Until the group gets settled.”
+
+“There are people dying in Bahrain, Jason. Innocent people are being caught up in the unrest.”
+
+“I know.”
+
+“Is that something you’re okay with?”
+
+“No, but it’s something I have to live with.”
+
+“Is it?”
+
+“You know that the System isn’t just here on Earth and in Pallimustus, right?”
+
+“You did say it was everywhere.”
+
+“Everywhere,” he echoed, his voice slightly haunted. “It’s a concept I’m still too limited to truly comprehend. There are worlds where the advent of the System caused uprisings. Revolutions. Holy wars. More innocent lives have been lost in the name of my power than there are people on the Earth. That’s a part of who I am now, and I have to live with that too.”
+
+“You know all that for certain? Have you been to those other worlds?”
+
+“Not yet. I’ve been learning what’s happening out there, more and more over time. The more I listen, the more I hear.”
+
+“Listen? To what?”
+
+He turned to look at her, his face troubled, then turned away again.
+
+“To prayers,” he said.
+
+***
+
+“He’s not going to answer to you, Claire. Or the taskforce. He made that clear at the summit.”
+
+“Yet he’s avoiding any contact. He’s unwilling to face the repercussions.”
+
+“Repercussions? You don’t keep him in check, Claire; he keeps you in check. Bahrain was the repercussions.”
+
+“So, that’s it? He runs around, playing the villain?”
+
+“You might want to check the public sentiment polls, Claire. Your government might not like him, but your people do. They think he’s magic Batman.”
+
+“Your brother has done a good job with the publicity,” Claire acknowledged. “My grandson has that poster of Asano in Singapore”
+
+“The one where he’s riding the motorcycle off the bridge to land on the giant?”
+
+“With the cloak of darkness and stars streaming oh-so-iconically out behind him, yes.”
+
+“I promise your grandson has nothing on the Asano Clan’s diplomatic envoy to Japan, no matter how many posters he has.”
+
+“Itsuki Tiwari?”
+
+“Yes. He’s got what can only be described as a shrine.”
+
+“Funny how the photographer was in just the right place to catch that image.”
+
+“That was Shade. You’ll find that he’s usually around.”
+
+“Except now.”
+
+“Except now,” Anna confirmed. “You wanted to talk without Jason’s eyes on us, Claire, so what is it you want? For me to blink twice if I’m being held hostage?”
+
+“Basically, yes. If there is something you need us to know without him listening in, now is your chance. This is getting out of hand, Anna. Even the conspiracy theories don’t match up to the reality. There’s a demigod doing what he likes with impunity, running roughshod over every established power on Earth.”
+
+“He gave you the chance to back out. All of you. And he told you exactly what staying in would cost. Have you pulled your people off the dimensional ship project? Out of the magical training programs? No, you haven’t. If the point of this meeting is to complain about what you went into with eyes wide open, there’s nothing left to say.”
+
+Claire scowled, frustration and fear flashing briefly in her expression.
+
+“Anna, I have to go back with something. If I don’t, someone else is going to be in this seat next time. Someone who isn’t being accused of letting friendship with you compromise their job performance. Someone who I promise will be less sympathetic to your agenda.”
+
+“You’re not the only one here as a representative, Claire. Jason won’t renegotiate.”
+
+“Anna, I know you. You wouldn’t have taken this meeting if there wasn’t some room for movement. You don’t sit at the table without cards to play.”
+
+“Perhaps. But what can you give in return, Claire?”
+
+“If I can get even a token concession, I can get the president to ease off the pressure on Asano after Bahrain.”
+
+“He’s not under pressure. Do you know what he’s doing between killing gold-rank monsters and wiping out vampire cities? Sightseeing with his niece and the rabbit son he made, like God creating Adam. He’s having barbecues in the Daintree rainforest and hiking the Grand Canyon with his friends. Your president can’t pressure Jason because he doesn’t pose a threat.”
+
+“Then what does he want?”
+
+“Sovereignty for the Asano Clan, completely separate from him.”
+
+“We can’t reward him for eliminating the governing body of a nation by giving him a nation.”
+
+“You can open negotiations. I know that you’re concerned that Jason will just take Europe once the vampires are dealt with. This is your chance to get a formal agreement that he won’t.”
+
+“And in return?”
+
+“I can offer you a meeting with the missing Bahraini leadership,” she said. “I don’t think Jason will give them back yet, but if you put together a delegation, he’ll accept pretty much whoever you’d like.”
+
+“They’re alive?”
+
+“Yes.”
+
+“Where?”
+
+“On a farm. On a prison planet.”
+
+“A farm.”
+
+“Yes.”
+
+“You’ve seen it?”
+
+“I saw it yesterday.”
+
+“How are the conditions?”
+
+“For a farm? Good. For a palace? Less good.”
+
+“Can we discuss a timeline for release?”
+
+“That’s up to Jason.”
+
+“Can we announce that they’re alive and that we’re negotiating a timeline for release?”
+
+“If the announcement makes clear that the negotiations are unrelated to talks around Asano Clan sovereignty, yes.”
+
+“You want us to effectively announce that the Clan is being considered for recognition of sovereignty by the Unites States. I can’t say yes to that. I have to float it with the president.”
+
+“Very well,” Anna said and stood up. “Just know that if you announce that the government of Bahrain is alive without reaching an agreement, they won’t be.”
+
+***
+
+The glances of the bakery patrons slid off Jason as he walked, confusion briefly crossing many of their faces. As if the whole room was giving him the silent treatment, no one acknowledged him as he made his way to Nik’s table, people moving out of his way on instinct.
+
+“Ready to go?” Jason asked Nik. “Sophie is going to teach you, me and Emi how to use wingsuits.”
+
+“Does Sophie need a wingsuit?”
+
+“No, but she likes doing it without the magic. Says it helps her to understand the wind. I’m going to grab something to eat before we head out.”
+
+He wandered over to the counter and looked over the display.
+
+“Hey, is that my cheese curry scone recipe?”
+
+He immediately realised his mistake as his outburst broke the aura manipulation he was using to go unnoticed. A moment later, there were a dozen camera phones pointed at him.
+
+“Oh, bloody hell.”

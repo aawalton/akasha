@@ -1,0 +1,214 @@
+---
+id: 1d8e73d2-31f4-50d6-9055-14495358ff31
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: Fall"
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 13
+ownLength: 1768
+unit: words
+publishedAt: 2026-07-11
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3664209/chapter-13-fall"
+royalRoadId: "3664209"
+---
+
+Chapter 13: Fall
+
+I kept running.
+
+Above me, Human Dad and the old man on the sword were still in their pause.
+
+The old man looked intimidating. I would call him Lion for now.
+
+I shook my head. I won't be intimidated. I needed to reach them. I needed to be on his side.
+
+My foot caught something and the ground came up fast.
+
+I hit the stone floor with both hands and pushed myself back up before the impact had fully registered. When I looked at what had caught me, it was a root. Thick, pale, emerging from a crack in the floor at an angle that had not been there before I started running.
+
+Then I looked up and understood why.
+
+A tree.
+
+It had not been here this morning. It was enormous. Wider than three men could encircle. Its bark was grey, dense, and wrong.
+
+At the center of the trunk, where the bark had split and reformed, was a face.
+
+Roots spread from its base in all directions, covering the ground in a network that moved, slowly, with persistent patience.
+
+The older Human Ds were entangled in it. Not all of them, but most. I could see arms and legs and in some cases whole bodies wrapped in pale root-tendrils, held at various distances from the ground, some struggling and some no longer struggling.
+
+I got to my feet.
+
+Akasha landed beside me.
+
+She came down moving backward, and a root erupted from the ground where she had been flying a second earlier and grabbed nothing.
+
+"I didn't expect them to move today," she said, without looking at me, her eyes tracking the root as it withdrew. "The Metal cultivators are still unconscious."
+
+"Why do you need a Metal cultivator?"
+
+She glanced at me sideways. "Metal counters Wood. Were you not listening during any of the element lessons?"
+
+I had been thinking about leaves during the element lessons.
+
+"Where is Gwyn?" She was already scanning the area, looking past me toward the gap in the wall.
+
+I turned. The gap was gone. The metal wall had reclaimed itself fully, smooth and sealed, no evidence that there had ever been an opening.
+
+I turned back and shook my head.
+
+She sighed.
+
+"Where are Badger and Porcupine?" I asked.
+
+"Evacuation. I sent them with the civilians before this started." She was watching the roots again. "They haven't learned to fly yet. Against something like this, they'd end up as fertilizer."
+
+"Why? Didn't they train hard enough for this?"
+
+Akasha was quiet for a moment.
+
+"Listen. If this were a staged show, maybe I'd let them fight it out. In a show, the ones who trained hard survive because the story requires it." Her jaw tightened. "This is reality. The people who trained hard die just the same as the people who didn't, if the situation is wrong enough. And the situation is wrong." She slashed a root that had begun moving toward us. "I didn't anticipate they would attack in three days. Our preparations are late. That's my failure, not theirs."
+
+Something hit the ground beside us.
+
+The impact sent a cloud of dust outward in a ring. When the dust settled, there was a man standing in the crater it had made, dusting his coat.
+
+He was lean and wearing a black coat. It was Panther.
+
+"Master Shido," Akasha moved closer to him, "are you alright?"
+
+He nodded once. Then he was gone.
+
+There, around the tree, and also there, and there as well. Multiple versions of him, each moving independently, each leaving after-images that lingered slightly longer than after-images should. I tracked one and lost it and found two others and lost those.
+
+"Raffea." Akasha's voice was sharp. "Get out of here. Help with the evacuation."
+
+She spread her red wings and flew forward.
+
+I followed.
+
+"I said get out!" She was slashing at a root that had tracked her ascent. The blade cut through it cleanly and it grew back in the time it took her to reposition for the next one. "You will end up as fertilizer and I am not explaining that to the sect leader!"
+
+A thick root erupted from the ground in front of us. Not reaching for Akasha this time, simply blocking. A wall of pale wood between us and the tree.
+
+Akasha clicked her tongue and slashed. The root divided. The halves regrew toward each other, reaching, rejoining. She slashed again at the junction before it completed and it divided again and began regrowing again.
+
+"This is annoying," she said, through her teeth. "Every time I cut it—"
+
+I stepped in front of her and kicked.
+
+The spirit energy went through my foot into the root and the root shattered.
+
+Fragments of pale wood thrown outward in all directions, landing on the surrounding ground, and not regrowing.
+
+Akasha stared at the empty space where the root had been.
+
+I kept moving toward the tree.
+
+More roots came.
+
+I had developed a rhythm with the stamp, and I applied it now, adjusting for the fact that I was kicking rather than stamping and the contact was different. The first root shattered cleanly. The second required me to adjust my foot.
+
+The third and fourth came simultaneously, from either side, and I was not fast enough. They coiled around my arms and my legs before I had completed the kick and the weight of them pulled me sideways. Now I couldn't move, wrapped as I was like a cocoon. This was uncomfortable.
+
+"Raffea!"
+
+Akasha appeared on my left. Panther — one of him, or possibly all of him — appeared on my right. They were already cutting, his kitchen knife and her fire working at the roots that had taken hold. Panther's free hand closed around my arm and pulled me. We moved back together while Akasha kept slashing at the roots that followed us, that kept following, that regrew faster than she could keep ahead of them.
+
+We stopped at a distance and Panther released me.
+
+"With your spirit energy," he put one hand under his chin and looked at the tree, "you might be able to destroy it."
+
+"Don't encourage her, Master Shido." Akasha was still breathing hard from the slashing. "She would be fertilizer before she got close enough. It specifically targets high spirit energy concentrations."
+
+"Mm." Panther looked at me. Then at the tree. Then back at me, with an expression that had arrived at a conclusion. "Akasha."
+
+She looked at him.
+
+"Clear the path."
+
+Her eyes went to me. Then to him. Then to the tree. "For goodness sake!" She charged.
+
+Her wings spread fully and she went forward slashing in a continuous motion, not pausing between cuts, clearing each root as it appeared and not waiting to see if it regrew before moving to the next. She was making a path. A temporary one, roots closing in behind her as fast as she cut ahead.
+
+Panther lifted me with one hand.
+
+This was notable. I was not light. Human bodies had more weight than they suggested from the outside, and I had observed that most humans required two hands and some effort to lift other humans. He used one and showed no particular sign that this required effort.
+
+"Young master." His voice was even. "Focus spirit energy on your head. As much as you can."
+
+I nodded and started gathering.
+
+Then I stopped.
+
+I looked at the tree. At the face in the trunk. At the distance between where I was and where I needed to be.
+
+System, does Divine Neck include my head?
+
+[No. I would not recommend leading with your head.]
+
+I looked up at Panther. "Can you adjust the angle? Feet first?"
+
+He looked at me for a moment. "Of course." He shifted his grip.
+
+He threw me.
+
+I gathered the warmth from my neck into my feet… both feet, because I'm not sure which one would land first.
+
+The tree came up fast. The face in the trunk looked like it was sleeping.
+
+My feet connected with it.
+
+The force went through the trunk in the direction I was moving. I felt the resistance, dense and reinforced with whatever technique had made this tree. I pushed against it, and the spirit energy in my feet said that resistance was not a relevant consideration, and the wood gave way.
+
+I kept moving.
+
+Through the trunk.
+
+The tree's interior was dark and smelled of sap and something cultivated. Then I was through the other side, and in front of me, lying on the ground was the tallest man I had ever seen.
+
+Even horizontal he looked tall. He was breathing. His eyes were open, looking at the sky.
+
+I would have called him Giraffe if the name was not yet taken by me. I'll call him Stick instead.
+
+The tree behind me made a sound — a slow, massive creaking — and then the roots began to release the Human Ds they had been holding.
+
+It withered.
+
+From the other side of the fight, above the sound of the dying tree, a voice.
+
+"Hugel!"
+
+Lion on the sword had stopped watching Human Dad, and was looking in my direction.
+
+Stick put one hand on the ground and began to push himself up. "Do it, sect leader!"
+
+The island moved.
+
+An earthquake. The giant sword that had been driven through our floating island went deeper, and the island answered the way stone answers when it has been pushed past what it can absorb. A crack appeared. Then another. Then the cracks met and the island spoke in the language of things breaking past their limit.
+
+I was falling before I understood why.
+
+The ground beneath my feet was no longer continuous. I could see the sky where the stone had been, gaps opening between pieces. The island came apart not all at once but in sequence, each section separating from the next, and gravity having immediate opinions about all of it.
+
+I fell.
+
+I looked up.
+
+The giant sword was moving.
+
+Not down with the island pieces — up, and apart. Each section of the great blade separated from the others the way the island had separated, becoming individual swords in the moment that it shattered.
+
+They moved.
+
+Toward Human Dad.
+
+He was still above me, still on the winged log. The swords came at him from every direction simultaneously. I was falling, and the distance between us was growing.
+
+"Dad!"
+
+The word coming out before I had decided to say it.
+
+He looked down at me. He smiled.
+
+The swords hit.

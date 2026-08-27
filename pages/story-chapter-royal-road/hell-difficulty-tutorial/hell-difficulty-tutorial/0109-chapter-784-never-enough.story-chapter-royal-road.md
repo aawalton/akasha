@@ -1,0 +1,159 @@
+---
+id: e462c656-e8f3-55fc-8f3e-468bf4bdf93f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 784 - Never enough"
+slug: 0109-chapter-784-never-enough
+partOf: hell-difficulty-tutorial
+position: 109
+ownLength: 2668
+unit: words
+publishedAt: 2026-04-01
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3220136/chapter-784-never-enough"
+royalRoadId: "3220136"
+---
+
+I find it kind of creepy to see Blackie watching the twins and Maya, as they spar off to the side during one of our short breaks. The shriveled demon body with the hole through its chest and its sawed-off horns just stands there unmoving without taking its eyes off them.
+
+None of us actually needs these breaks, or at least not to this extent. Sure, it gives us a chance to recover energy and take a breather, but it feels more psychological, even though it runs counter to the idea of conserving mana. However, none of the three is using much mana, just going through the physical motions instead.
+
+The rest of my mind, not busy with thinking how creepy Blackie is, goes over my theory. I try to think of how likely it is that the small planet we’ve found ourselves on is either growing on top of a monster or that some enormous creature has settled in and spread through the core. In such a case, would throwing the bodies of Absolutes and Champions into the depths serve as disposal, or would it rather be a form of feeding? If so, for what reason?
+
+Then I notice Biscuit passing by on his short legs. Like a snake attacking, both of my hands flash through the air. I wrap them around his sides and swiftly pull him toward me, causing him to let out a surprised squawk as he tries to dig his paws into the ground to hold himself in place.
+
+Realizing what is happening, he calms and opens his mouth, sticking out his tongue as he breathes and looks at me.
+
+“What’s going on here?” I ask, even shaking him slightly. “And why are you so silent while you keep glancing off toward the north?”
+
+Biscuit looks around as if worried someone might be listening before answering in a voice quieter than usual.
+
+(Deer.)
+
+I squeeze him more and shake him again. “More info.”
+
+His form shrinks, and tiny antlers pop up on top of his head. (Sustenance deer. Food deer. Smell. Sense. Nomnomnomnom.)
+
+“The hell was that last one?”
+
+(Nomnomnomnom. Deer.)
+
+“You’re hiding something from me,” I say. As I hold him, I turn him clockwise until his head points at the ground and his hind paws point at the sky. His ears flop down, with his mouth open, and his tongue hangs down, pulled by gravity.
+
+He finally gives up. (One and one deer,) He says, even quieter than before.
+
+With a sigh, I let go of him and gently set him on the ground. “How many deer is one plus one?”
+
+(Eleven deer!)
+
+Moving my hand like an attacking cobra, I grab him again to lift him right in front of my face. There, he just hangs happily and wiggles his short tail. With a sigh, I put him on the ground again. "One plus one is two."
+
+(Eleven!)
+
+"Sure. How much is nine plus ten?"
+
+The corgi blinks a few times, confused, before I answer seriously, "Twenty-one. Remember that. No matter what anyone else says, it’s twenty-one."
+
+He nods just as seriously and then moves to his spot, where he sits, staring in that one direction in which we begin to move.
+
+During our travels, earthquakes have become fairly common, though they haven’t been all that powerful so far. At first, it starts off as a rumbling, deep underground that barely affects anything on the surface, but gradually they’ve been growing more noticeable, though they’re still only happening once every few hours.
+
+The forest around us becomes less dense the further north we go, and more sun passes in between the leaves of the still-giant trees. That allows for more diverse plants to grow, such as flowers, and the landscape becomes more colorful. Though in exchange, more of them seem to be poisonous, as if they were building up defenses to avoid being eaten.
+
+Monsters now move through the forest much more frequently than before, as if in anticipation of the Harvest, or like they’re being driven by some primal instinct, telling them that they need to search for a place to hide. Or maybe they’re just looking for one last snack. They more actively search for prey and attack, even the ones that would usually avoid groups of multiple beings like ours.
+
+In one of those areas, we find Biscuit’s eleven deer.
+
+Just like that, they stand there, majestic, drinking water from a small river nearby, almost as if they’re entirely unaware of us. The two deer are bigger than the biggest moose you would ever see on Earth, at least 50% bigger. Both of them are covered in white fur and have a set of antlers that stretch wide and have a gentle brown color.
+
+[Dusk Deer - lvl ???]
+
+[Dusk Deer - lvl ???]
+
+Noticing us, they calmly lift their heads and look toward our group with soft, untroubled expressions. One of them raises its head and lets out a majestic sound that almost resembles music. Afterward, it leans in to rub its head against the other in a slow, affectionate gesture.
+
+"Aww," Maya says.
+
+"Burn those fuckers immediately," Izzy says, spitting the words out like poison.
+
+That leaves everyone shocked, and before anyone can say anything else, both deer lift their heads toward the sky and bleat in sync. The sound at first seems normal, but it continues to stretch on for way too long. Their mouths start opening wider and wider. The corners of their mouths start to tear, splitting open as the skin gives away. The tears in the skin ooze blood that stains the beautiful white fur, the split continuing down the entirety of their necks. Those enormous mouths gape open to reveal uneven sets of jagged teeth.
+
+Colors drain from the area. It’s not like my [Eclipse], it’s more like the space is becoming darker and darker, until the only color that remains is a dying mix of orange and yellow shining in their eyes and outlining their silhouettes.
+
+The maniacal deer don’t seem to care about the rules of this place. Within their domain, they begin to use another skill, and sickly red flames explode from them, burning the forest and blazing up toward the sky. Both of them call out again and split up, one running left and another right in elegant deerlike movements that now feel entirely predatory. Everywhere their hooves touch, the ground begins to burn, and their mouths keep snapping open and closed.
+
+Izzy’s flames surround us and block the fires they’re sending our way, while Tess’s projectiles stab through both deer. They begin to heal immediately, and they heal faster and faster as the temperature in the area rises.
+
+I can sense multiple powerful signatures attracted by the fire, creatures that the deer don’t seem to care about. An earthquake hits the area, and this time, it feels like no coincidence that it happened here and now.
+
+Biscuit, unable to hold himself back, pushes through the wall of flames and rushes the deer on the left. His body expands in size to match the monster, but where before his proportions always stayed corgi-like, they’re slightly different now. His body is more nimble and slimmer, his maw has grown longer, and his teeth sharper. Budding antlers crown his head, and eight large, human-like arms formed from mana extend from his back, not to aid in his movements, but to aid in his attack.
+
+He unleashes a mental attack in the form of an immense amount of information directed at his target, causing the deer to stumble under the sudden overload. The corgi catches up and crashes against it. Both of them roll as purple mana arms move against the deer, holding it, punching it, and tearing out its teeth. Sickly red flames continue to burn there, but Biscuit’s shadow devours them easily, and his skin forms a purple barrier anywhere the deer tries to bite him.
+
+The other deer tries to run over and help, but Lily gets in its way. She avoids a charge and grabs the horns, pulling the deer to the ground even as her hands burn to the bone from the heat, and the mouth bites at her. More projectiles from Tess pierce it through. Then Min-Jae uses his eyes and moves the gravitational waves. As he closes his fist, the side of the deer’s head explodes, revealing the brain and the part of it that the attack destroyed.
+
+It starts burning in red flames and regrowing, but Min-Jae repeats the motion and erases it entirely. The body falls to the ground, but there it twitches in creepy movements before climbing back up. In a burst of red flames, the deer regrows its brain and head, restoring some of the wounds, though not the ones caused by [Disintegration].
+
+(The two of them are connected. I don’t think either can die while the other is alive!) One of the twins says, sharing the information.
+
+Not listening to it anymore, I move to a branch of the highest tree around. My [Empyrean Lance] shoots into the distance, through the trees, accurately hitting one of the signatures coming closer. No notification pings, but I hear an angry roar from the distance.
+
+Using that as my signal, a barrage of mana javelins boosted by kinetic energy tears through the forest in front of me, bombarding the area.
+
+[You have defeated Night Bugbear - lvl 392]
+
+Blackie charges through the gap in the forest. He pushes through the mana-based bombardment to reach more monsters, causing explosions of kinetic energy behind him that are stronger than ever before.
+
+The forest begins to shake more as group 4 prepares to kill the deer in sync with Biscuit. At the edge of my vision, I notice a flash of golden fur moving around, murdering every monster in its path.
+
+[Great Hunting Dog - lvl ???]
+
+[Great Hunting Dog - lvl ???]
+
+[Great Hunting Dog - lvl ???]
+
+...
+
+Dozens of these monsters enter my view, and I teleport further to reach them. Each one is as tall as me, sickly, slim, and each has five eyes. Two on either side of their heads, and the one inside the mouth along the roof. Combining their mana into some sort of domain attack, they strike at me while I observe them for a while, avoiding the attacks by using my kinetic movement.
+
+Some of them move through the ground as if it were made of water, others grow two more pairs of legs and speed up their movements.
+
+Once I get bored, an explosion forms with me at the epicenter, throwing all of them away, and releasing enough mana to make their senses unreliable. Moving through the chaos, I easily locate each of them, and a matching number of mana javelins stab into each one, carrying more mana within, before exploding and causing even more damage.
+
+A few are more resilient or heal faster, and a few more javelins follow to finish them off before I teleport back to the group. They’ve just finished off the deer, if the pyromaniac lunatics can even be called that.
+
+Sophie moves from the ground, taking the swiftly growing number of monsters under her control and sending them to fight the even larger group that’s incoming. I, meanwhile, help Izzy handle the flames. Min-Jae has an interesting expression as he stares down at the ground, tracking where the earthquakes are coming from.
+
+Meanwhile, Biscuit grows further in size, curling around himself and one of the deer, which he devours right there, hidden from our eyes. As that cloud of shadows shaped as a myriad of tentacles disappears, he looks at me. (Smoke deer,) He says, as he gestures at the other one.
+
+"But you carry it," I say.
+
+He tippy-toes happily, growing more mana arms and grabbing the corpse and lifting it carefully onto his back.
+
+An earthquake shakes the area again, stronger than before, and cracks begin to open, spreading miles long. A disgusting amount of mana and pressure radiates from these cracks as they spread wider and wider, causing entire colossal trees to fall. Even now, Min-Jae stares at the ground at his feet as we begin to move again, vacating the area. Blackie and Sophie rejoin us, and every once in a while, I notice a flash of golden fur close by.
+
+"I think you were right," Min-Jae says as he matches his speed to mine. "There is something down there. Big. Like planet big."
+
+As we continue to run, I begin to think. I have many ideas, but one of them just keeps coming back. The only question is, do I dare go through with it, and is it something that would be possible to survive?
+
+My line of thought is very simple.
+
+If there is something down there that keeps eating the bodies of Champions and Absolutes, it should also mean one thing. The best stuff is likely deep below. The body parts, whatever is down there, either couldn’t be digested or haven’t had time to do so because of how powerful they are.
+
+And I wonder, on a scale of one to ten, how good an idea it is to go straight there.
+
+POV Kindness and Greed
+
+"I know that fucking expression. That lunatic wants to go straight into the belly of the fucking Mass," the redheaded woman cries, letting out a groan and leaning back, smashing her head against the headrest of her chair.
+
+Next to her, a beautiful blonde woman just smiles gently at that and continues to look at what seems to be a hologram of people running through the shaking, breaking forest. More tears open all over the place, and constant waves of monsters attack.
+
+"Why the hell are you smiling? You know who else is in there. I swear, sometimes I wish to just grab him by his scruff and throw him in front of Pride right now just to see what would happen. Just look," the redhead wildly gestures at the group of people. "When was the last time you saw a group like that? Hell difficulty doesn’t exactly tend to favor ordinary people, but this group... It’s been a long time since I’ve seen such a bunch of absolute lunatics. They move like locusts. The floor that’s meant to be cleared by a single person with just the right strategy turns into an adventure into the belly of the Mass."
+
+Kindness continues to smile as she says, "Locusts… yes. A fitting name for us, is it not?" Her eyes haze as she thinks. "We kill, we take, we search for more, and continue to evolve just so we can kill more and take more. The system itself awakens mana in us, not for wisdom or mercy, but to sharpen us for just that purpose. Locusts. Parasites on this universe that wants to reject us. How many have fallen beneath us, I wonder? Gods. Elves. The Fae, and countless others whose names are now dust. The system continues to spread from the Center of the universe, and we follow it, drifting from world to world in search of more. Because there will never be enough."
+
+"Quite brave of you, talking about greed in front of me," Ruby grumbles.
+
+Kindness bursts into laughter, as if only now realizing what she said. She moves and sits on the lap of the red-haired woman and presses her forehead against her. "Out of the many Rulers of Greed I’ve known in my uselessly long life, you are my second favorite. If only your Greed were aimed at killing me instead of him, you would’ve been my favorite."
+
+To that, Ruby stays quiet, her lips parting as if to retort, only for the words to die before they ever leave her mouth.
+
+After smiling at her for a moment longer, Kindness moves back to her chair, where she continues to watch the end of the 9th floor for group 4.

@@ -1,0 +1,143 @@
+---
+id: 62fab0ef-140f-5860-915a-55245c4a2e6e
+page-type-slug: story-chapter-royal-road
+title: "034: Running the Gauntlet"
+slug: 0034-034-running-the-gauntlet
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 34
+ownLength: 2163
+unit: words
+publishedAt: 2024-05-05
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1624206/034-running-the-gauntlet"
+royalRoadId: "1624206"
+---
+
+Sharp claws raked through the skin of her back, but failed to pierce beyond the first layer of her epidermis. Evelyn had Bulwark to thank for that. She offered silent thanks for the fact this mini boss was one that relied on melee strikes. If it had been more magical in nature, like the boss on the 10th Floor, her defences wouldn’t quite be up to par. The cuts still hurt, though.
+
+But, Evelyn reacted fast. Spinning to face her new opponent, she charged at it. Not empowered by her usual skill, but a simple dash employing just the strength of her body. Sometimes, returning to the simple felt satisfying. But, cats were nimble creatures by nature. The mini boss was no housecat, rather it was some kind of tiger-leopard hybrid.
+
+Sleek, but with visibly bulky muscles. Orange fur dotted with black spots that rippled as it darted to the side to avoid her shoulder barge. Glistening claws the size of small swords dug into the ground - if it had been anyone but Evelyn receiving that opening blow there was every chance it would’ve torn them in half. And now that the creature was focused on her, the armoured man jumped at the opportunity to catch it unawares. Or so he thought.
+
+The beast whipped around and clamped its powerful jaws shut onto the new attacker. Tigers, at least the ones back on Earth, could have a bite force of over 1,000 psi. Not enough to get through plate steel, however. Even accounting for the fact this was no regular tiger, the same went for the man’s equipment. That left the two in a stalemate of sorts. However, the mini boss held the advantage.
+
+Its teeth might not have been able to pierce through the armour and draw blood, but that didn’t stop it from slowly crushing the man’s joints under the pressure. Evelyn couldn’t see his face but the heavy grunts told her he was struggling. She had no intentions of assisting, though.
+
+They were in a race, after all - no sprinter would hobble themselves to give their opponents a leg up.
+
+No, instead she used the distraction to deal some damage of her own. It had avoided her earlier charge thanks to its quick reflexes, but it was currently immobilised in a tug of war with the man. And it wasn’t just him.
+
+The sorceress had continued to weave her magic the entire time. After her failed attempts to debuff Evelyn - and clearly the other man had his own methods of repelling her insidious influence - she had turned her focus to the real foe. Writhing threads of corrupting mana wormed their way around the legs of the beast and began to sap its strength. That was when she charged.
+
+And this time she held nothing back. Her mana surged and gushed through her pathways, following the route laid down by Flashfreeze Flamecharge. It was instinctual, but Evelyn had memorised the pattern and that allowed her to reduce the delay in casting by a decent margin. The result was that the moment she considered striking, her body exploded into flame and frost billowed outwards from where she stood. And that was only the beginning.
+
+She disappeared from view, the only evidence of her movement the trail of ice and fire that charred and split the ground as she burst forth. There was little need to direct her path beyond aiming herself at the two locked in an unwinnable tussle. The results were spectacular.
+
+A screeching yelp mingled with a cry of pain as Evelyn smashed into the pair. The mini boss had borne the brunt of her blow, leaving a charred and icy wound in its side that refused to heal, despite the healthy regeneration abilities that most boss monsters had possessed thus far. Despite receiving less of the damage, the armoured fellow had fared far worse.
+
+For starters, his flashy plumage had been incinerated before she even made contact. Just the sheer heat of her blazing charge had been sufficient. The tiger-leopard’s jaws had been knocked loose when she smashed into it, but that had the effect of jolting the man’s shoulder into an awkward angle and it now hung limp at his side - likely dislocated or broken. And that wasn’t even the full extent of his injuries.
+
+The visor of his helmet had bent inwards and blood was streaming from underneath the rim. He staggered backwards, clutching his sizzling chest. The heat had melted his armour and combined with the brute force of the charge had plunged the molten metal into his chest which had then frozen over. The result was a horrific wound which would lead to his imminent death. Unless he had a skill to heal himself.
+
+However, it seemed that wasn’t something in his repertoire. He collapsed to his knees, growling incoherently at her while struggling to wave his warhammer around. For all his pomp and dazzling gear, the man had barely held against a single one of her attacks. Pathetic. But, Evelyn wasn’t cruel.
+
+She darted forwards and ended his suffering with a well placed blow to the temple.
+
+It shattered his weakened helmet - a final reminder that relying on anything but yourself was folly. In a way, she had the tower to thank for pushing her down the path it had. Magic and weaponry had their place, but they felt like crutches - especially the latter. Mana was certainly one of the strengths that belonged to her alone. She hoped so, at least.
+
+There was no time to worry about such things however, because the mini boss had recovered from her strike. Not fully - it still sported a blackened patch of fur as a reminder of her blow - but enough to go on the offensive once more. But Evelyn was not its prey.
+
+That honour went to the sorceress. Her eyes widened in fear as she realised the gravity of her situation. Perhaps if it had just been her against the fearsome feline, she may have been able to emerge victorious from their battle, but this was no simple challenge. She had just borne witness to Evelyn obliterating their fellow challenger in a single move while he had been distracted. With a double threat hanging over her head, it would take a colossal feat of strength or skill to survive. However, it seemed Evelyn had underestimated the woman.
+
+Before, her spells had been limited to enigmatic debuffs precluded by strange mutterings. This time though, her aura flipped. Even at a distance Evelyn felt the thrum of mana through the woman’s body. The sheer quantity dwarfed hers. It was the first time she had felt so outmatched. And it didn’t stop there.
+
+Her staff flared, flashing bright red as the woman channelled her mana through it. It wasn’t an empty drain, however. The staff formed a circle with the sorceress, bolstering the total of her mana and doing something else to it that Evelyn struggled to perceive. It was like she had been shown something incredible, but lacked the ability to digest the secrets it contained. It made her thirst for more. This wasn’t the time for idle knowledge seeking, though.
+
+The mini boss, for its part, showed caution at the abilities the woman displayed. That didn’t mean it was deterred from hunting its chosen prey. No, instead its eyes glowed at the prospect of the kill. Evelyn approved. Perhaps she was anthropomorphizing the creature, pushing her own love of a challenge onto it - but she suspected the monsters of the tower were far more intelligent than simple beasts.
+
+Especially the sleek and terrifying killing machine before her.
+
+Unlike the rabid and deadly boss of the 10th Floor, which was an abomination crafted with the singular purpose of slaughtering any who dared challenge it, the tiger-leopard seemed like it was no creation of the tower. Rather, it was as if the tower had transplanted it from elsewhere, or copied an existing design for its own purposes.
+
+It was another clue about how this place functioned. Its origins, and perhaps a way for Evelyn to escape - or at least regain some measure of control over her fate. Not now, though.
+
+The crackle of mana had crescendoed even further, but it seemed to be reaching its pinnacle. The hairs on the back of her neck rose - something was coming. Something big. It seemed the woman was intending to take her down along with the mini boss. A wise move, one Evelyn would have also made in her shoes. But that didn’t mean she was going to let herself go down without a fight.
+
+Her actions were perhaps predictable, but even if the sorceress knew she was coming that didn’t mean she would be able to stop her. However, there was no time left to act. Before a tsunami, the sea would retreat, giving the illusion that all was well. Evelyn had read about it once. It had come to mind now, because right as the woman’s mana reached a critical point - it had even been forcing Evelyn back from the sheer force emanating from her - it suddenly vanished.
+
+The tiger-leopard sensed something amiss too. But there was no time to escape.
+
+There had been calm before the storm - and it was a storm which struck. There was no warning before a thick bolt of green lightning flashed from the heavens and ripped into Evelyn. She just about had the wherewithal to spot a similar bolt striking the mini boss before her mind short circuited from the pain and the overload of energy. In fact, it was only the smell of her own flesh burning that kept her conscious.
+
+Barely.
+
+With a ferocious roar, Overpowering Spirit kicked into effect and renewed her burnt and broken body. It wasn’t able to overcome all the damage however, which was testament to the sheer might of the sorceress’ spell. This would be the last time Evelyn judged a book by its cover. Then again, it wasn’t as if she had hidden the fact she was a magic user. It was only Evelyn’s overconfidence that had led to her carelessness. And it was far from over.
+
+She had barely taken another step when a second bolt of green lightning struck her chest, sending her staggering backwards. This time, she held on better thanks to Overpowering Spirit already being active, but the lingering damage was building with each hit she endured. The mini boss was doing a much better job of dealing with the arcane storm, surprisingly.
+
+Whether it was due to its innate reflexes or some kind of skill, the tiger-leopard had been able to dodge the second and third flashes of lightning that struck at it. However, it was still unable to advance on the woman with all its attention devoted to avoiding further damage. But, the lightning was only the opening act.
+
+Despite the clear differences, the woman’s strength lay in one clear aspect. And as she struggled to regain her footing and push towards her foes, Evelyn realised that the corrupting debuffs from earlier were just meant as a distraction. A taste of what she could really do. Thick nodes of writhing mana had latched onto her like leeches following the lightning strikes - which hadn’t ceased.
+
+Her previous method of shunting a large quantity of her mana out of her body failed to dislodge the foreign mana however, which was a worrying turn of events. The draining nodes had begun to pull her lifeforce and even mana from her body, visibly weakening Evelyn. The tiger-leopard fared no better. Even though it had avoided all subsequent strikes following the first, that was apparently still enough for the woman’s insidious magic to latch on and begin its work.
+
+Unless she was able to counteract this, it seemed as though Evelyn was fated to fall here. That wasn’t an option. However, willpower alone would not be enough to turn the tables.
+
+And that was when she had a flash of inspiration.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.5
+
+|Attributes|
+
+Power: 12 (13)
+
+Speed: 4
+
+Stamina: 8
+
+Vitality: 26 (31)
+
+Mana: 25
+
+Fortitude: 48 (83)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Stargazing (Rare), Bargain Hunter (Uncommon), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Uncommon), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Spendthrift (Uncommon), Solar Fusion (Uncommon), Salvo (Common), Corruption Resistance (Common), White Infusion (Common), Star of Fortitude (Uncommon), Star of Vitality (Common), Star of Mana (Common), Star of Stamina (Common), Unyielding Heart (Rare), Star of Power (Common)
+
+~Active~
+
+Fists of Frost (Uncommon), Mana Plate (Uncommon), Flashfreeze Flamecharge (Rare), Numb (Common)
+
+~Hybrid~
+
+Overpowering Spirit (Rare)
+
+Essence: 12『+230524 / 5:57:59.5 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】

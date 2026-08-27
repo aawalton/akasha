@@ -1,0 +1,189 @@
+---
+id: e68b9dc2-ca99-5912-8e30-f2a80e0aa0f9
+page-type-slug: story-chapter-royal-road
+title: "037: Ascension"
+slug: 0037-037-ascension
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 37
+ownLength: 2219
+unit: words
+publishedAt: 2024-05-09
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1629264/037-ascension"
+royalRoadId: "1629264"
+---
+
+Sheer bliss.
+
+That was all Evelyn could think as she had that first, incredible sip of the liquid essence. The barkeep hadn’t been lying. It was better than any other liquor that came to mind. Whiskey, Gin, Vodka, Rum, Tequila - none compared.
+
+The best way she could describe it was that it was like drinking pure honey, but if it had a kick that sent shivers down your spine and made you woozy enough to pass out after just a few gulps. The effect faded within minutes, however.
+
+It was drunkenness - but unlike any kind of drunkenness Evelyn had experienced before.
+
+“Ha! Good lass. I can see you know how to handle your liquor,” boomed Kyron, clapping a hand on her back.
+
+After that, he led her to a table in a secluded corner of the bar after requesting another mug each of the liquid essence. Evelyn grabbed hers like a starving person would grab onto a morsel of food. It was the nectar of the gods. However, she didn’t down it like the last - that was a route to disaster. Instead she had a gentle sip, savouring it as she followed the man to the table.
+
+The chairs creaked as they sat down. Which was odd, considering that Haven couldn’t have been more than a few weeks old. She idly wondered if the tower created them in a state of disrepair or if it was just that the two of them were too bulky for the poor furniture. Before she could ponder further, the man spoke up.
+
+“So, I hope I’ve made a decent impression on you so far, Evelyn. You’ve seen a little of how Haven operates on our way here, but this is just scratching the surface. The first of us arrived here about a week ago, but since then there’s already been some power scuffles between the frontrunners. Mainly due to the fact that not a single person has been able to clear the 16th Floor yet,” he started to say.
+
+This was the most shocking revelation of all.
+
+Evelyn didn’t really know how to respond, but that was fine. It seemed Kyron hadn’t expected a reply and continued to wax lyrical about Haven and the problems facing the challengers attempting to climb the tower.
+
+“The jump in difficulty was catastrophic for most. In fact, even some of the most skilled among us fell. They got arrogant and challenged the floor even after using up their daily return stone. Idiots. It has taken some getting used to, but we’ve settled into a rhythm now. There’s three major factions which dominate the city. I’d like to invite you to join mine. We need as many capable hands as we can get if we want to clear the 16th Floor and continue to climb. There’s no pressure to join now, but I will say the other two are not as friendly as us. Trust me on that.”
+
+I don’t want to jump into any agreements without getting a better handle on how things work here. I refuse to believe the 16th Floor is impossible to beat alone. And he’s selling this to me too hard. There’s something wrong.
+
+Evelyn had her reservations and didn’t want to join another group yet. Perhaps if it had been Kayla and Anthea who wanted to team up for the next floor she might have been amenable, but not for this stranger. He had shown wonderful hospitality but Evelyn needed to see the 16th Floor for herself before she made a decision. She refused to accept it wasn’t beatable alone.
+
+“You seem nice enough Kyron, but I want to settle in before I sign up for anything. Why don’t we just enjoy our drinks and each other’s company for a while. It’s been too long since I’ve been able to just relax with another person. Where are you from?” She asked.
+
+His jovial facade slipped for a second. There was a spark of anger deep in his eyes, but he composed himself once more before replying. It hadn’t escaped Evelyn’s notice, however.
+
+“That’s disappointing. I had thought you were one of the good ones. Perhaps I was mistaken. No matter. I am.. I was from Nashville. But that doesn’t matter here. All that matters is whether you can pull your weight. Or throw it around,” he replied.
+
+The moment he realised Evelyn hadn’t fallen for his recruitment spiel, the tone of the conversation shifted from the overzealous friendliness he had been showing her before to one of muted disinterest. He answered her questions with curt politeness, but she could tell his heart wasn’t in it anymore. Why had he bothered coming all the way to greet her then? That actually sparked her curiosity.
+
+“How did you know I had arrived on this floor? Or were you just passing by when you saw me arrive?” She asked.
+
+“You’ll see soon enough. I think our conversation ends here, Evelyn. It was nice to meet you, but I have more pressing matters to attend to. Good luck.”
+
+With that said, Kyron downed the rest of his liquid essence and stood up. It was testament to his composure that the potent brew didn’t seem to affect his balance. Without so much as a further goodbye he left the tavern, joined by the identical twins at some point along his journey across the room.
+
+Despite the change in his attitude towards the end of their conversation, he had answered quite a few of Evelyn’s questions and given her some direction in how to proceed. She wanted to challenge the 16th Floor, but that could wait.
+
+The first thing she needed to do was figure out how Haven worked. Kyron had mentioned that three factions held most of the power. And if there were groups of people fighting to have control of Haven, it meant there was something valuable here. Or they were just doing what humans tended to do when left to their own devices and falling into tribal conflicts.
+
+That was going to be frustrating.
+
+It meant she was going to be pestered by at least two other people before long. Perhaps they would even seek her out today. Then again, it was possible they wouldn’t take such a personal approach to recruitment. Evelyn tipped back her glass, only to discover it was empty as a solitary drop fell to her tongue. So, she did what any sensible person would.
+
+And ordered another.
+
+“Careful there, rookie. This stuff creeps up on ya if you aren’t careful,” the bartender warned.
+
+It hadn’t stopped him from pouring her a third glass, though.
+
+She turned to return to her table, but a loud cough from behind made her stop. The bartender seemed annoyed when she turned to face him.
+
+“The last two were on Kyron’s tab, but I’m running a business here. Pay up,” he said, holding out his hand.
+
+“How exactly do I pay? We don’t have any money here,” she replied.
+
+“Ah right, you’re new. I forgot. Well, there’s only one currency of worth around here - Essence. It’s 250 for that glass you just ordered. We take equipment or skill crystals as payment, or you can just do a direct transfer,” he explained.
+
+That actually makes a lot of sense. I suppose humans are pretty ingenious when we put our minds to it. Figures that they’d come up with a way to barter within a few weeks. I wonder what he meant by a direct transfer? Is there a function of the system that allows that?
+
+“I don’t have any gear or crystals. How can I do a transfer? I’ve not seen that as a possibility before.”
+
+“Ah, well it wasn’t exactly that useful until we reached Haven, I guess. Every time the tower put us with other people in the lower floors it was to kill them. And everyone’s selfish, so it’s not like they would go out of their way to figure out how to share their essence with others. You just need to think about transferring the amount of essence to a person in your sight and the system handles the rest.”
+
+It made sense. Even Evelyn had been focused on her own progression and growth above all else. The few exceptions were when she had been partied up with Kayla and Anthea - and to a lesser extent Reece and Anna. But even then they weren’t her priority.
+
+She tried to think about transferring 250 essence to the bartender, and he flashed a grin at how quick she had been on the uptake. It was a good thing her income had come in while she was talking to Kyron, or she might not have been able to afford the delicious brew. And that would've been a tragedy.
+
+You are attempting to transfer 250 essence to 『Jeeves Lerwin』
+
+This is a permanent transaction and you will not regain any lost essence, proceed?
+
+Y/N
+
+After completing the transaction, Evelyn returned to the little table in the corner. She wanted to get out and see the rest of Haven. From the ground at least - she’d already been blessed with the stunning bird’s eye view when she arrived in the hills earlier.
+
+But there was something more important she needed to do first.
+
+Upon arriving on this floor, another function of the system had made itself available - Ascension. It sounded powerful. The word itself evoked her desire to climb the tower. To strive for greater strength. And with the local shop no longer available, she needed to grasp at every opportunity to do so. With her determination blazing, she opened the Ascension menu.
+
+However, her first impression was disappointing.
+
+Not because of the Ascension itself. No - that was beyond her expectations. In fact if she was able to achieve such a thing then Evelyn felt she would reach a level of power that would make her something not entirely human. Instead, the reason for her disappointment lay elsewhere.
+
+It was her own lack of progress. Then again, if what Kyron had told her was true - that not a single person had cleared the 16th Floor - perhaps she didn’t need to be so hard on herself. However, Evelyn wasn’t content to be just as skilled as the rest of the challengers.
+
+She needed to be the best.
+
+~~ ** Ascension ** ~~
+
+Ascend beyond the limits of your current form and be reborn anew
+
+Requirements for 1st Ascension:
+
+Lv.15 Class
+
+15,000,000 Essence
+
+3 Unusual Skills
+
+100 points in at least one Attribute
+
+And in order to do that she would need to set herself against the whetstone that was the tower. Just because the others had failed, it didn’t mean she would. And Evelyn had one thing on her side - her colossal essence income. The second requirement would just be a matter of waiting. As for the fourth - her fortitude was almost there already. But, it was the other two requirements that stumped her.
+
+However, she would be able to achieve them. It would just take a little hard work and dedication. And she had proven time and time again that she had plenty of both. Her very class was evidence of that. So, Evelyn drained her glass and slammed it against the table. A few nearby patrons jumped at the bang, but she waved a hand to silence them before walking out and loudly thanking the bartender for his hospitality and the divine liquid essence.
+
+Her head was still spinning, but it cleared after a few breaths of fresh air. She turned in what she thought was the direction of the centre of Haven and started a determined march towards it. Hopefully no one would be stupid enough to get in her way or waste her precious time. She had no interest in petty bickering over the city - no matter how beautiful it was. Her goals were loftier.
+
+That was why when a beautiful blonde woman wearing nothing but a fur coat and an evening dress made from black monster silk that hugged her enticing figure rushed out into the street, Evelyn failed to arrest her forward momentum and they both tumbled to the ground in a tangled heap.
+
+“How dare you! Do you know who I am?” Cried the woman, shoving Evelyn off her and springing to her feet.
+
+“Should I?” She replied with a smirk.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.5
+
+|Attributes|
+
+Power: 12 (13)
+
+Speed: 4
+
+Stamina: 8
+
+Vitality: 26 (31)
+
+Mana: 25
+
+Fortitude: 48 (83)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Stargazing (Rare), Bargain Hunter (Uncommon), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Uncommon), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Spendthrift (Uncommon), Solar Fusion (Uncommon), Salvo (Common), White Infusion (Common), Star of Fortitude (Uncommon), Star of Vitality (Common), Star of Mana (Common), Star of Stamina (Common), Unyielding Heart (Rare), Star of Power (Common), Dual Focus (Uncommon)
+
+~Active~
+
+Fists of Frost (Uncommon), Mana Plate (Uncommon), Flashfreeze Flamecharge (Rare), Purge Corruption (Uncommon)
+
+~Hybrid~
+
+Overpowering Spirit (Rare)
+
+Essence: 230286『+230524 / 5:57:59.5 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】

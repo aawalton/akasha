@@ -1,0 +1,95 @@
+---
+id: 875fece5-7bce-55f0-9386-bb7a2fd86e86
+page-type-slug: story-chapter-royal-road
+title: "287. Pulling All the Threads at Once"
+slug: 0287-287-pulling-all-the-threads-at-once
+partOf: god-of-trash
+position: 287
+ownLength: 2052
+unit: words
+publishedAt: 2026-03-16
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3159452/287-pulling-all-the-threads-at-once"
+royalRoadId: "3159452"
+---
+
+Rhys adjusted the way his robes hung, gazing at the mirror. He took a deep breath, somehow still not used to seeing Norton Tunk’s face staring back at him, even if he’d been wearing it longer than he’d worn most of his recent faces. Somehow, it just didn’t feel right.
+
+And then he laughed, and Norton laughed with him. It isn’t like Rhys’s face is ‘my’ face, either. It’s just the one I’ve adopted. Yet, Norton still didn’t feel like him. It was strange to watch the man he killed laugh, so after a moment, he stopped and looked away.
+
+He’d wanted to prepare more. He’d wanted to have proof in hand, Bast safe, Mouse located and secured, and his final battle plotted out from first to final step. Instead, he had proof over there, Bast over there, Mouse somewhere, and the final battle as a big question mark with some general squigglies of a plan around it.
+
+And then there’s Soma, whom I know nothing about. For all I know, he’s an enemy now. Or he’s converted the dungeon into his harem. Even odds on either, in my opinion.
+
+There were threads. He’d grasped them all, but he hadn’t pulled a one of them. In an ideal world, he’d pull them one at a time, slowly dismantling the sweater that was the Alliance under Virgil’s control. But this wasn’t an ideal world, so he’d be yanking them all at once and hoping it all came together.
+
+It really made him uncomfortable to have so much riding on him all at once right here, right now, but it couldn’t be helped. If he pulled any one of the threads—rescued Bast, stole Mouse, saved Soma, grasped Straw, aka his proof—the enemy would know he was here and know basically what he was planning, and reinforce all the other threads he wanted to pull. Hence, him running around like a madman gathering up all these loose ends to do nothing but sit on them and wait.
+
+Wait for today, that was. The day it all came together.
+
+“Darling, are you ready?”
+
+“Will I ever be?” Rhys muttered to himself.
+
+Lily approached him from behind, luminous in her new robes, her hair and makeup perfect. She tilted her head. “If you don’t want to go, we can stay at—”
+
+“No, no. We’re going. We’re definitely going.” If he backed out of this, he’d never find the guts to finish this.
+
+He’d confirmed it with Madame Tunk; Virgil was highly likely to show his face at this ball. If he didn’t… if he didn’t, then Rhys was going to have a lovely time with Lily and do some more scouting, and cry a little on the inside that he’d have to sit on this tension for another week or two until the next big social event.
+
+He wouldn’t mind, really. He could spread the rumor about Virgil’s plan with Straw, even without any evidence. He’d recruited Madame Tunk to do the same, but it didn’t hurt to spread it around a little more. Of course, it wasn’t exactly essential, either, so he wasn’t too worried about it one way or another.
+
+The point was, ideally, Virgil would be there. Ideally.
+
+They set off, mounting a carriage Madame Tunk had hired for them. All of them could fly, teleport, or otherwise proceed through rapid magical means to the ball, but nonetheless, the streets were full of carriages. It was fashionable, or something. Rhys didn’t see why they couldn’t all just fly there, but whatever floated the mage-nobles’ boats. Nobles and rich people never did rational things. At that point, they were basically a different species that didn’t act according to rationality or reason, but according to what made them look the flashiest to their fellow nobles. He’d never wanted to be a part of that kind of life, and now that he was, he didn’t enjoy it. He wasn’t a keeping-up-with-the-Joneses kind of guy. He’d rather sit in his video game basement and pretend the Joneses didn’t exist.
+
+Now that he was forced to take part in the do-it-to-look-good carriage traffic jam, he had to admit: it was pretty trashy. Not just in the conventional way, of being a shitty thing to do for little reason or benefit (which it was), but also in a new, special way. In his world, it would have been private jets, spewing smoke and carbon and trashing up the atmosphere unnecessarily for very little benefit to only those at the highest peak of economic power; in this world, it was the rather more mundane issue of horse shit, because unlike mages, magical beasts didn’t stop pooping and eating at high realms. They just ate and pooped more powerfully, leaving more toxic waste behind in both senses of ‘more.’ For his part, Rhys quietly opened the carriage door a crack so he could absorb the highly toxic horse poop as they passed over it. It wasn’t worth a whole lot of trash at this point, but it wasn’t worth nothing, either.
+
+“Do you need some air?” Lily asked, noticing him leaning toward the door.
+
+“No, I’m fine.”
+
+“We can stop.”
+
+He looked at her. “I’m really fine.”
+
+“Are you sure? You aren’t… you used to be bad with carriages.”
+
+Oh, did Norton get motionsick? Luckily, I’m the new and improved version of Norton, who’s leveled up and overcome his past!
+
+Damn, it sure is easy to replace someone in this world, huh. If you misplay a habit of theirs, you can just pretend like you’ve achieved enlightenment and no longer obey that habit.
+
+“I overcame that through practice, effort, and hard work,” Rhys declared, without a single hesitation in his heart.
+
+“Uh huh.” Lily rolled her eyes and sat back on the chair, already tired.
+
+Well… maybe it’s not that easy. After all, Lily and Madame Tunk both caught me pretty easily. Then again, I’m no actor. I’m pretty trash at playing roles, to be honest. If I was in the school play, they’d make me a tree or something, so all I had to do was stand in the back and not move. Luckily, he’d gone to an elementary school too low-budget and disinterested in the arts to bother with things like kids’ plays, so he simply skipped that unnecessary embarrassment. Though, now that he was an adult, what was the point of kids’ plays? Humiliation? Blackmail? It wasn’t like the kids who could act well in elementary school were actually going to make anything of it, after all. Child stars were all exclusively the children of rich people who could afford things like children’s coaching, or, better yet, had the direct line nepotism into the film-slash-stage industry to hook their kids up with deals and acting gigs. No ordinary elementary school kid, not even a prodigy, was going to get ‘discovered’ from a school play. It simply wasn’t how the world worked.
+
+Not that reality ever stopped suburban soccer moms from knowing that their precious little baby was destined to be the world’s next number one ‘fill in the blank here,’ he thought, and snorted. Thinking back to all the urban progression fantasy he’d read, where the hell were those characters? He suddenly deeply desired a pushy soccer mom shoving her shitty little [System User] kid forward as the number one best [System Apocalypse Defeater], regardless of how shit the kid actually was at defeating system apocalypses…or whatever world-shattering threat they were up against today.
+
+Damn. That’d make a great comedy. He sighed. Too bad this world just didn’t have the same system of well-integrated media delivery that his world did. It was really the only downside, but damn; what a downside. It meant he had nothing to read on this boring, long-ass carriage ride through the unnecessary carriage traffic jam, and nothing to do but ad lib and constantly agonize over his upcoming plans in his head.
+
+He supposed he could talk to Lily, but that meant talking. To People. Because Lily was People, not people. She was a popular kid, one hundred percent, and he knew from years of experience that if he opened his mouth, she’d bully him to death. Sure, casual interactions were fine, but if he actually talked to her and actually started chatting about things he liked, her expression would just twist into more and more disgust until he finally had no option but to stop talking. It was why he didn’t like People, but Mouse and Sable and Lira, and even Mirai, Grave, Soma, and Sid were fine. They were all real people. They had weird hobbies and strange preferences, and they weren’t afraid to admit it. People like Lily still had weird hobbies and strange preferences, they just hid it like the cowards they were… or worse, didn’t have anything at all.
+
+Vanilla was a great flavor, but if it was all someone’s life was made up of, then he couldn’t help but feel sorry for them. Never experiencing the full rainbow of what life had to offer was such a sad way to live.
+
+Of course, the upside of this world was that even if Lily was vanilla-ass People and wanted to bully him to death for his weird habits and hobbies, she couldn’t, because he was more powerful than her. He just didn’t want to end up in that situation either, where Lily was clearly suppressing her judgement out of fear of death. It just wasn’t that fun. He didn’t have that kink.
+
+And besides, suppressing her judgement to his face wasn’t the scary part of People. The scary part was how they’d talk to their friends later and spread rumors. Even if he didn’t care, that didn’t mean he liked it. Or didn’t have complexes about it, anyways.
+
+I think my first world left me a bit more fucked up than I realized, he mused.
+
+The carriage rolled along slowly, inching forward one carriage length at a time. Rhys peered out the window, getting a good look at the venue before they arrived. It was the Traje family mansion, which felt less like a venue and more like ‘come over to my house and hang out,’ except this wasn’t a hanging-out kind of house.
+
+One time, he’d gone to the UK on a school trip and gone to a mansion that had been mostly converted to a museum. The walls were gilded. The house had sweeping, twenty-foot-high-ceilings, all of them dripping with chandeliers, and the walls were just about papered with oil paintings, some of them artistically significant. The stone façade was more grand than most government buildings, and the intricate gardens stretched for miles all around.
+
+This mansion was that same kind of building. In fact, he could barely see it due to the expansive rose gardens that surrounded the land. It was out on the outskirts of the capital, with the giant inverted pyramid serving as a distant looming landmark rather than the oppressively ever-present monolith it served as within the capital, and being out this far clearly provided opportunities for opulence that being with the capital didn’t. It had that same kind of stone façade he’d seen back in the UK, decked out with stone statues and fine architectural details, though it was topped with a giant ruby carved into the shape of a rose in total defiance of any sort of rational architecture, weight limits, or material strength. Mages in opulent robes wandered the rose gardens, holding candy-colored drinks that faintly glowed, even from here, and conversed with one another, clearly enjoying themselves. Rhys, stuck in the carriage, could only lean his head on his hand and sigh.
+
+I’m in another world, and I’ve finally been invited to a really cool party, and where am I? Stuck in the traffic jam waiting to get in. This wouldn’t happen if I had main character energy.
+
+Still, obtrusively barging in on a rare magical beast or overwhelmingly powerful artifact wasn’t the way to blend in with the nobles, so maybe his lack of main character energy was for the best. He wasn’t trying to make a scene.
+
+Yet.
+
+He curled his hand, gripping the imaginary strings. It couldn’t be that hard. He just had to do everything all at once, perfectly, with no mistakes.
+
+Good luck, me.

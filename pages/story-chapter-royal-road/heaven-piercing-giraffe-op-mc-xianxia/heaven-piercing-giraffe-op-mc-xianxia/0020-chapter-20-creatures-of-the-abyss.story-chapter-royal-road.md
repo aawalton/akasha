@@ -1,0 +1,235 @@
+---
+id: 6397bd1a-6ba0-5cc3-96d6-89db07eab0f5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: Creatures of the Abyss"
+slug: 0020-chapter-20-creatures-of-the-abyss
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 20
+ownLength: 1777
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3716518/chapter-20-creatures-of-the-abyss"
+royalRoadId: "3716518"
+---
+
+Chapter 20: Creatures of the Abyss
+
+"We need to run," Buffalo's sword arm was still trembling, held half-raised in a way that had stopped being useful several seconds ago.
+
+"How cute." White's sword — no, it wasn't a sword anymore. I watched it happen. It didn't move so much as reconsider itself, silver threads unspooling and reknitting in the space of a breath into something new. A war hammer, head wide and flat as a house door, heavy enough that the ground beneath her feet had visibly compressed a finger's width under its weight. "Instead of telling me its weakness, you're telling me something funny."
+
+The two creatures moved at the same instant, low and fast, both aimed squarely at her.
+
+White wound the hammer back over one shoulder and glanced sideways at me. A single look, held for perhaps half a second.
+
+Is this what the tutors meant by eye communication?
+
+I didn't wait to find out if I'd guessed correctly. I ran.
+
+She swung.
+
+The hammer's arc shadowed the entire creature on the left before it connected. When it did, the thing simply came apart, splattering outward into the grass in dark, glistening arcs that steamed faintly where they landed.
+
+"Looks like blunt weapons work." White pulled the hammer.
+
+It didn't budge this time.
+
+"Shoot. I'm out of spirit energy again." She glanced right.
+
+The second creature's mouth had already opened, wide and dark and closing the last of the distance between them.
+
+White smiled anyway. My face reflected through her eyes.
+
+I put myself in front of her, receiving the creature's open mouth directly against my midsection.
+
+It closed around my waist entirely. The whole disproportionate span of it, teeth meeting teeth on the far side of me with a wet, grinding sound that should have meant something was ending. Nothing was ending. It thrashed its head left, right, up, down, the whole considerable weight of its body swinging with the motion, and I did not move.
+
+I planted my feet more out of habit than necessity and let it work.
+
+The Human Ts from both sides of the clearing found their voices again, a single unified sound this time, no longer divided by whose side anyone belonged to.
+
+Buffalo stared at me, then at White, eyes wide enough that the whites showed all the way around. "H-how?"
+
+"Who knows." White released her grip on the hammer and slumped on the ground. She turned her head toward me. "Recharge."
+
+I nodded and tried to move to her.
+
+I didn't move.
+
+I remembered — I was still being chewed on.
+
+The spear-user I'd face-slapped earlier appeared at my side, and drove his own weapon into the creature's flank. It went in the way a stone goes into water: no resistance, no visible wound, no reaction of any kind from the creature. It continued devoting its entire attention to my waist while he kept devoting his entire attention to stabbing it.
+
+Then its forelimbs lengthened.
+
+Claws grew from where paws should have been. Long, curved, and sharp enough that I heard the sound of them meeting my robe before I felt anything from the meeting itself.
+
+My skin, beneath it, did not react.
+
+My robe, however, very much did.
+
+I face-slapped it.
+
+My hand passed through where its head should have been resisting and met nothing at all, the same way the spear had. This was becoming a problem. Divine Neck extended its protection generously to skin and considerably less generously to fabric. The tutors had been specific, on more than one occasion, about the importance of a young master remaining properly dressed at all times.
+
+Then a claw caught the edge of my scarf.
+
+It came away in one motion, and my neck was bare to the evening air for the first time since Dad had wound that scarf around it himself weeks ago.
+
+The light arrived before I understood what was happening.
+
+Gold, spilling out from my own throat in a steady, brightening wash, illuminating the clearing, the trees, the two lines of Human Ts, all of it lit from below like the world had briefly acquired a second, smaller moon.
+
+The creature's reaction was immediate. It released my waist entirely, shrieked, staggered back three full steps, and came apart the same way the first one had, folding down into black liquid and then into nothing at all.
+
+A small black stone dropped from where its body had been, landing with a soft, unremarkable sound on the grass.
+
+The clearing went silent.
+
+Buffalo's sword clattered.
+
+He dropped to both knees, forehead nearly touching the ground.
+
+Behind him, a ragged murmur passed through the Human Ts, heads turning to each other.
+
+"Why's he kneeling again?"
+
+"Did he just discover he has a kneeling fetish or something?"
+
+Then, from somewhere near the back, a child's voice, higher and clearer than the rest, cut through the murmuring.
+
+"Mama, her markings look like the Pillar of Light!" She pointed.
+
+A woman, probably her mother, put her hand down.
+
+A silence followed, brief and total.
+
+"There is no mistaking it. You are the Messiah. The reincarnation of the Pillar of Light," Buffalo said.
+
+The rest of the Human Ts behind him dropped, one after another, a wave of bowed heads spreading outward from where Buffalo knelt.
+
+My hands moved to my neck, covering the glow as though it could still be contained after the fact.
+
+System, did I mess up?
+
+[Most likely. No point hiding it now.]
+
+I started to lower my hands, then stopped.
+
+I remembered Dad's words.
+
+"When you are ready to tell me something, tell me."
+
+I looked down at the ground in front of me, at the grass, at the small dark stains still soaking into it where the creatures had come apart.
+
+I reached for the scarf lying there instead, picked it up, and held it against my chest for a moment.
+
+Then I shook the dirt from it, and wound it back around my neck. I watched the gold light dim and vanish beneath the fabric one careful loop at a time.
+
+Buffalo came running toward me.
+
+The spear-user stood up from his kneeling position and leveled his weapon at him.
+
+Buffalo stopped short, both hands raised.
+
+"Messiah, why are you hiding your beautiful neck?!"
+
+I looked at him. "Dad told me to always cover it."
+
+"But—"
+
+A hand dropped onto his shoulder before he could finish.
+
+It was White. "Drop it, old man. You're still in the red, remember?"
+
+The Human Ts with the zebra stripes turned their glares on him in unison, sharp enough that Buffalo's shoulders sank under the weight of it.
+
+He said nothing further.
+
+White crossed the last few steps to me slowly, glasses catching the moonlight, her usual composure worn thin at the edges.
+
+"You okay?"
+
+I hugged her.
+
+Something wet ran down my face again.
+
+She patted my back, twice, gentle in a way that didn't match anything else about her. "You know. The sect leader's strong. He might still be alive."
+
+I nodded against her shoulder. Dad was indeed strong. He had always been strong.
+
+I released her.
+
+"We need to go back up."
+
+"Sure." She reached up and wiped at my face with her sleeve, matter-of-fact about it, like she was cleaning a smudge off glass rather than tears off a human. "But flying openly would be a problem."
+
+"Why?"
+
+White pointed up, toward the layered dark above the treeline where the floating islands hung, faint pinpricks of cultivation-light scattered against the stars. "Because the floating islands will shoot you down. They hate anyone unknown streaming freely through their sky."
+
+I clenched my fist.
+
+The sky should have been free the same way the savanna was free. No lion owned a particular stretch of grass simply because it had walked across it first, and no island should own a stretch of open air for the same reason. It seemed like an obvious enough principle to me. Apparently it was not obvious to anyone who actually lived up there.
+
+Human E's stick clattered against stones behind me.
+
+"How about staying with us a while, and wait for Pusher instead?"
+
+Pusher... The name sounds familiar.
+
+"Who's this Pusher?" White asked before I remembered.
+
+"A well-known figure. Comes and goes between the islands regularly enough that most of them know his face by now, so they don't bother shooting him down."
+
+White's eyes narrowed slightly behind her glasses. "There has to be another reason. Being recognizable isn't enough on its own. Not with how paranoid everything's gotten since the pillar disappeared."
+
+"You're quite sharp, for a child." Human E's mouth curved, something between approval and weariness. "As you said. Recognition alone wouldn't do it. But the routes he travels happen to run through the islands that have grown rather dependent on his pills."
+
+White didn't ask anything further this time. She turned to me instead.
+
+"You okay with that?" A beat, quieter. "I need the time too. To look for my parents."
+
+Before I could answer, someone shouted.
+
+"Yeah, stay with us a bit longer!"
+
+I turned. It was Donkey, both hands cupped around her mouth, standing on tiptoe like the extra height might carry her voice further than it needed to.
+
+The Human Ts gathered around her smiled at me, wide and unguarded.
+
+"Yeah, stay!"
+
+"We haven't even celebrated this win yet!"
+
+"I want meat!"
+
+"You're just hungry, that's not the same thing as wanting to celebrate!"
+
+They laughed, the sound spreading through the group.
+
+Then someone paused mid-laugh. "Who got the meat, by the way?"
+
+They looked at each other. Then, slowly, all attention drifted toward Zebra. Still bound from head to toe in white cloth, and was lying in front of a tree like an angry cocoon.
+
+"Look. He was trying to say something." One of the Human Ts leaned toward him, squinting. "Someone lower the gag a little."
+
+"You do it. What if he bites?"
+
+No one volunteered.
+
+Zebra wiggled, more insistently this time, muffled sounds building behind the cloth.
+
+Donkey laughed and crouched down, working the wrapping loose from his mouth with two fingers.
+
+"Fuck you, idi—"
+
+She put it back before he finished the word, patting it once for good measure.
+
+The Human Ts erupted into laughter all over again, loud enough that even Buffalo's tribe, still somewhat subdued at the treeline's edge, cracked a few smiles of their own.
+
+I watched them for a while. Then I turned to White. I nodded.
+
+I looked up, past the treeline, past the layered dark, toward wherever the pieces of a broken island had scattered themselves across the sky.
+
+Wait for me, Dad.

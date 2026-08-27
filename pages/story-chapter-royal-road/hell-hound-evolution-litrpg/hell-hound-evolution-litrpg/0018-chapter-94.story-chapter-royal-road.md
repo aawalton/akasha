@@ -1,0 +1,169 @@
+---
+id: 7494451f-7328-50fe-8fcf-4f8af5d6778f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 94"
+slug: 0018-chapter-94
+partOf: hell-hound-evolution-litrpg
+position: 18
+ownLength: 2175
+unit: words
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3123214/chapter-94"
+royalRoadId: "3123214"
+---
+
+“So we’re getting into the empire lands now,” fox lady said as she led the way up the river the following day. She turned back and pointed her thumb to the tree line. “We should continue on through the trees. I’ll get you all the way to the main city gates, which we’re still a day’s hike from, but better to try to lay until we get there. A pack of monsters traveling together could grab some bad attention for us if we’re spotted. If we end up having to kill something—or someone—the empire wouldn’t like us killing… well…” She shrugged. “Guess I’m growing a soft spot for you brats, because I’d recommend not continuing with whatever you have planned at the empire’s gates at that point.”
+
+I let my ears fold down with a dry expression. “Wow, that almost sounded like you care about us.”
+
+She flashed a fang. “Plus I wouldn’t be getting my quest reward, and we can’t have that. Now come on.”
+
+We continued our travels under the shadows of the surrounding woodlands, the river churning to our side, resting just within earshot. It was a little more slow-going over here, as there were more obstacles and undergrowth to get through. But if the fox determined that it was worth the delay, I trusted her. After all, she had been complaining about our pace all week, so she wouldn’t be the one to slow us down without good cause.
+
+I wondered exactly what a city in this world would be like. If it was the empire’s capital we were heading towards, that would mean there would be a lot of people there. I wondered what they looked like, hoping they all looked like Genzo. But from the sound of it, he had started life as a monster and eventually evolved into a frog man. Therefore, he probably wasn’t exactly a native citizen of the empire himself, and he joined them later at some point, just as he had recommended I do.
+
+We continued like this for maybe an hour when all of a sudden, fox lady stopped. Her ear twitched, and she looked over her shoulder, putting a finger against her lips, locking eyes with me.
+
+Did she notice something?
+
+I wasn’t sure Lily would understand her gesture, so I used Pack Bond to tell her, “Stay quiet.”
+
+The fox put up her hood and slunk along the shadows, heading back towards the river. I decided to slink after her, my camouflage meant I could do an even better job of lying low than she could, and really, it was the same for Lily and Grick, so I allowed them to follow me. Grick muttered, “Does fox hear nasties?”
+
+“Maybe. Be cautious,” I thought at Grick. In answer, Grick drew his dagger from his sheath.
+
+It wasn’t long before I picked up on what had alerted the fox. I heard the clopping of running horses, the rattle of wagon wheels, and shouting. It was further down the river, but coming our way.
+
+The fox put her back against a tree, angling herself just enough to peek one eye past the bark and peer downriver. I crouch low on the other side of the tree, by her feet, and Grick and Lily stayed right behind me.
+
+“Someone’s being chased,” she muttered. “Let’s hang out here until they pass us.”
+
+I told Grick and Lily, “Wait.”
+
+The noise grew louder by the second.
+
+Branches snapped. Hooves pounded against packed earth. The frantic creak of wood under strain carried through the trees, followed by a man’s voice shouting something I couldn’t quite make out.
+
+Then they burst into view along the riverbank.
+
+A wagon careened around the bend first, pulled by two horses, one bleeding from a cut along its flank. The driver leaned forward over the reins, face wild with panic as he lashed the horses harder.
+
+Behind them rode four men.
+
+Their armor didn’t match. Leather and mismatched plates. They were not part of any kind of uniformed force like the red masks. One of them wore a dark cloak, and another stood in his stirrups as he loosed a crossbow bolt that hit the corner of the wagon. He grit his teeth as he prepped another bolt, clearly he was aiming for the driver.
+
+The fox clicked her tongue softly. “Bandits.”
+
+I took a closer look at the wagon. There was an insignia embroidered on the wood; it had four reeds crossed over a river that led up to… what looked like a frog’s face with a crown floating just above its head, and a few lines to give the impression of it glowing.
+
+That had to be from the Verdant Empire, right? But that wagon rider was clearly human, and dressed in a simple green travel coat trimmed with dull silver thread. A small brass clasp at his collar bore the same reed-and-river emblem as the wagon, though far less ornate and missing the frog.
+
+I began to make a move forward, slinking past the tree. But a sudden tug on my tail stopped me.
+
+I looked back with a low growl to see the fox crouched, hand grasping my tail, and her eyes giving me a serious expression.
+
+“It’s not our problem. Stay out of it.”
+
+My eyes darted back to the chase as the bandit with the crossbow kicked at his horse, forcing it to run faster. The path widened along the straighter part of the river, and he was beginning to overtake the wagon.
+
+The crossbowman managed to get his bolt set, then lifted his weapon, aiming. He seemed quite skilled to be able to do all of that on horseback. As the wagon driver looked over to see him, he ducked low, but the crossbowman wasn’t aiming for him this time.
+
+The bolt loosed from the crossbow and went right into the horse’s neck.
+
+The animal screamed, its front legs collapsing mid-stride as the wagon lurched violently. The second horse panicked, yanking the wagon sideways on the path, and a wheel struck a rock, shattering into splinters.
+
+The wagon tipped instantly, crashing and skidding on its side, the driver being thrown free as the downed horse was dragged until it all came to a stop.
+
+The crossbowman’s horse slowed to a trot ahead as he turned it around. He was now sitting easily as he pulled the reins with one hand and used the other to hold the crossbow against his chest and place a fresh bolt one-handed.
+
+The other bandits cheered as their horses slowed to a trot up alongside the wagon. “Haha! Brilliant shot, mate!” one called to the crossbowman as he leapt off his horse. He had a thick brown beard and a scar over one eye.
+
+The crossbowman shrugged as he trotted up to the driver, who looked up in terror and began to scramble to his feet.
+
+“P-Please, take anything you want! Just leave my family alone!” he pleaded.
+
+Family? My ears shot up at that word.
+
+“Now yer askin’ favors are ya?” the crossbowman pointed his weapon practically point-blank at the man. “Why didn’t ya’ stop when we waved, huh? Mighty rude of ya.”
+
+Around the back of the wagon, two of the now dismounted bandits tore open the back door to the sound of screams. The one with a thick brown beard, and the other had a scar over his eye.
+
+They reached in, the bearded one dragging a woman out by her leg and then swinging her across the dirt. “Look here, better loot than a sack of grain, I’d say!” he laughed.
+
+Then another figure burst from the back of the wagon, pushing past the scarred bandit. A young boy, maybe only eleven or twelve. He went for the bandit assaulting the woman. “Leave my mom alone!” he yelled. The bearded bandit only laughed, grabbing the boy’s fist with one hand as the boy tried to throw a punch and then easily tossing him onto the ground beside his mother.
+
+The scarred bandit continued reaching into the wagon, yanking out crates and tossing them to the side.
+
+The bearded bandit looked up to the mounted one who wore a black cloak. “Should we keep the lady?”
+
+Black cloak shrugged. “Too much trouble. And the screamin’ll give me a headache.”
+
+I looked between them and back to the fox who still gripped my tail.
+
+“No,” she whispered. “Look, it’s already over. They should have brought an escort or something. Empires had to loosen their patrols because of the war, and this is what happens when merchants try to save coin on guards. They should have been more prepared.”
+
+I looked past her, to Lily, who whined softly, and to Grick, whose green ears folded along his temples as he gripped his dagger, eyes wide and troubled.
+
+“What is this!” the scarred bandit yelled as he tossed another sack on the ground. “Nothing but grain!”
+
+The crossbowman pressed his crossbow directly to the merchant’s forehead. “You got empire seals. What do ya really got hidin’ in there?” he interrogated.
+
+“Ah—we have silver! You can have all of it!” the merchant quickly said.
+
+The crossbowman pushed his forehead with the weapon, making him stumble back. “Go get it, then.”
+
+I watched as he trotted behind the man, who looked over to his wife and son with a guilty, desperately apologetic expression. The bearded man stood over them, sword out, making it clear what would happen if they tried anything. Meanwhile, the scarred bandit went over to the black-cloaked bandit and muttered, “So what do you think?”
+
+I listened closely, my high Sense stat making it easy to hear them. They were just a short sprint and a lunge away if the fox would let go of my tail.
+
+Black cloak scoffed. “Fake seals. Put them on himself, thinking it’d protect him. If he were really with the empire, he’d have a guard.”
+
+“Great…” the scarred bandit muttered. “Better have some decent coin at least.”
+
+The merchant crawled into the back of the wagon briefly, there was some shuffling as he shifted things around, then crawled back out holding a small leather coin purse and offering it up to the mounted crossbowman.
+
+He snatched the purse from the merchant’s hand and tossed it over to black cloak, who peeked inside with disapproval. “Nothing but copper and silver.”
+
+“Please! I’m sorry, but that’s all we have!” the merchant said. “Y-You can take my horse and— AAAAAAAH!”
+
+The crossbowman put a bolt in his shoulder. He fell instantly, clutching his arm in pain.
+
+“Father!” the boy shouted, starting to get up, but his mother hugged him, holding him back, wary of the bearded bandit who was still holding a sword over them.
+
+The crossbowman loaded another bolt. “We put a damn lotta effort in runnin’ ya down. Got one more chance to make it worth our time.”
+
+“P-Please,” the merchant said through clenched teeth. “I’m just a simple grain merchant, that’s all I have!
+
+I couldn’t watch this. It was obvious, no matter what the merchant managed to procure for them, they were all going to die.
+
+I tensed, my claws digging into the dirt.
+
+But this is just the way of the world, isn’t it? Aren’t those bandits basically just predators? The fox understood that, that’s why she could so easily look the other way. But... wasn't it different?
+
+Sure we kill things for our own benefit as well, to eat and to survive. Human's survive with gold and silver, so weren't other humans who had those things basically just their prey?
+
+But as I watched the bandits, it gnawed at me. This wasn't the same at all.
+
+Because they were laughing?
+
+But Lily's tail wagged whenever we would go hunting. And didn't I usually feel good after I hunt? I certainly couldn't deny that.
+
+But still, it wasn't the same! They weren't just laughing or celebrating their victory! They were being cruel!
+
+My paws tensed tighter against the ground.
+
+No, this wasn't the same! This wasn't the same at all! Humans weren't just predators. There was something else about them—and I hated it!
+
+I felt the fox’s grip loosen on my tail. I looked back to see her frowning, golden eyes shifting away from me. She let out a breath and muttered, “Do whatever you want.”
+
+I shot my gaze back to Lily. “Let’s go.”
+
+I bolted forward, placing a Death Mark on the crossbowman since his range was a threat I'd need to keep in my mind's eye.
+
+Then, I focused on the scarred bandit talking to the mounted black-cloaked one. The apparent leader was too high on the horse for an instant killing blow, and I wanted to even the numbers as quickly as possible.
+
+I could feel Lily surging forward right behind me for a follow-up attack.
+
+As I lunged out of the thickets, the scarred bandit turned just in time for his eyes to widen in alarm as I sank my teeth in.
+
+Read Next Chapter Now!

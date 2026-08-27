@@ -1,0 +1,171 @@
+---
+id: 447980f2-2982-580c-980c-3f592191cbec
+page-type-slug: story-chapter-royal-road
+title: "032: Meeting the Emperor"
+slug: 0032-032-meeting-the-emperor
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 32
+ownLength: 2066
+unit: words
+publishedAt: 2024-05-03
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1621348/032-meeting-the-emperor"
+royalRoadId: "1621348"
+---
+
+Local Chat
+
+EmperorHan: Little menace, is that really you? It’s Dad
+
+Evelyn had been about to begin fusing skills, but by chance had happened to catch the message. She had left the local chat window open on the off chance something like this would occur. For a moment, she didn’t know what to do.
+
+How long has it been since I’ve seen my parents? We weren’t on the best of terms, but I guess it would’ve been for Grandma’s funeral. That’s a throwback. And of course it would be dad with the ridiculous name. It seems overachieving runs in our genes. Both me and him are among the earliest to complete the 13th Floor. What should I say?
+
+EmperorHan: Do you know anything about your Mother?
+
+In the end, she felt it would be cruel to leave him hanging. After she had been trying so fervently to make contact with them, success had left her unsure how to proceed. But, after all, there was no need to overthink it. He was her Dad.
+
+Eve: It’s just me. Nice name, by the way. What, are you aiming to conquer the tower? Don’t expect me to help you out.
+
+That had been awkward. But, that wasn’t a problem. Regardless of how she had stumbled over her first sentence spoken to her Dad in nearly a year - most of it before the tower kidnapped them - it felt good to hear from him.
+
+Even if she was embarrassed about his name.
+
+Especially because of that. Some of the other regular chatters had already started to make jokes about the edgy new arrival. But, there was an equal number of people congratulating them on a successful reunion. Plenty of others were still missing friends or family and were sharing in her joy. It was heartwarming to see that humanity had not lost its sense of community. Even in the midst of this extinction event, or apocalypse, they had found themselves in, people persevered. Evelyn most of all.
+
+Next, she wanted to try and have a real conversation with her Dad. If he was able to respond. It was possible he was busy dealing with whatever challenge he had been in the midst of clearing. While the 14th Floor had been tiring, it wasn’t difficult. It was just more of the same. But not the next floor.
+
+Evelyn knew that the next floor was going to be another mini boss. If the tower continued in the same pattern, at least. To that end, she sent another message that she hoped wouldn’t get lost in the constant deluge of people chatting away.
+
+Eve: Dad, how did you spend your attributes? What’s your class? And, I need to know your favourite skill. I bet you’ll never guess how I’ve been clearing the floors.
+
+To her surprise, there was an instant response. Perhaps her Father had missed her more than he let on. Even at her Grandma’s funeral, they had exchanged just a few sentences before he moved on to the next conversation partner. Typical of him. He had always been a brick wall when it came to his emotions. But, the contents of his message were a bit of a shock.
+
+EmperorHan: I can say for certain you’ve been running at every challenge head on. That’s how you’ve always been, little menace.
+
+That’s not fair! He was supposed to struggle to guess. Why is it always the parent who never gives a hint about what they’re thinking who knows you like the back of their own hand? He’s totally got a smug grin on his face right now, too.
+
+Eve: …You’re not wrong.
+
+EmperorHan: Of course I’m not. I bet you put all your attributes into speed and power. I can’t imagine a build more suited to you.
+
+Aha! Got him.Eve: WRONG! I’m not going to tell the world my secrets, because that would be stupid. But, you missed the mark completely. If we ever see each other, you’ll find out by just how much. Also, I know for a fact you think I’d guess you’re a warrior type. But, I know you too well, Dad. I’ll cut off my own legs if you aren’t a mage.
+
+DarkShinobi: No, please do tell us exactly how to kill you just in case we ever need to. Might help on one of the floors.
+
+Delilah: Shut it, weeb. EmperorHan: That’s… How? Whatever, I’m glad you’re okay, little menace. I’m heading into the next floor.
+
+Eve: Good luck
+
+KingOfTheTower: Good luck
+
+DarkShinobi: Good luckDelilah: Good luckANThea: Good luck, Eve’s Dad!!!!!
+
+Kayla seemed to be busy, or perhaps she just had no interest in talking further. She tended to have eyes only for the strong. Those in the local chat were skilled, but far from the best. Those with real power would be more focused on honing their own strength through further challenging the tower. Or, in Evelyn’s case, by waiting for another injection of cash. Essence. And, it arrived right as she finished talking with her Dad.
+
+Until now, Evelyn had split her spending between skill crystals and attribute points with the occasional star thrown into the mix. It wasn’t well thought out. A more intelligent person would’ve been able to figure out how to best game the system in their favour. To min max themselves. Evelyn felt she had done the best she could, with the tools she was given. Besides, she was having a lot of fun. So, did it really matter if her way wasn’t the best. As long as she was able to beat each challenge and live to see another floor, it was fine. Her focus this time was meant to be stars. Grey stars, in particular.
+
+But, she planned to challenge the 15th Floor after spending the essence she had on her right now. To that end, Evelyn also purchased some more skill crystals. She wanted to see if anything fun would come out. Failing that, she could use some fuel for the fusions she was about to do.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Arcane Shield (Common) - Take slightly less damage from magical attacks.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Star of Stamina (Common) - Multiplies your stars’ production for every point in your stamina attribute. Base multiplier is 1.00x , increasing by 0.02 per point in stamina.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Numb (Common) - Slightly dampen your senses in exchange for an equal boost to your power and speed. (10 min cooldown)
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Stargazing (Common) - Reduce timer for all stars by 0.1 seconds per star owned.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Bulwark (Common) - Take slightly less damage from physical attacks.
+
+Yes! Just one more. I should probably put a few attribute points into speed. I can’t see the tower giving me the skill when it’s still under 10. I’m also assuming that acquiring all six will result in a perfect synthesis. It does make sense, though.
+
+Besides Stargazing, that extra Bulwark had pushed her beyond another milestone - one she was a little scared to attempt. Not because it would hurt, or challenge her. Rather, the cost to fuse Bulwark to the tier beyond rare was likely to be expensive. And, she didn’t know if she would be able to resist the temptation to fuse it even if it required her to burn one of her other, better skills. There was only one way to find out.
+
+You are attempting to fuse two Uncommon skills, please select 1 Uncommon, or 3 Common skills to use as catalysts. Their effects will not be synthesised.
+
+For a while, Evelyn was stumped. There were a few skills which she used less often. And a few whose effects had become less useful as she advanced through the floors. Not many, though. Deciding which one would become fuel to further another was a difficult choice to make. In the end, she settled on a skill which had been beneficial to her when she first obtained it, but had since lost its lustre.
+
+Assassin’s Eye.
+
+Her combat style had evolved beyond one that focused on slow and devastating blows to cripple her foes. Now, she relied on brute force and her incredible durability to whittle them down. It no longer had enough utility to justify keeping it. That wasn’t the end, however.
+
+If she felt that battling without its beneficial effects was a struggle, it wouldn’t be too difficult to synthesise it once more. It only required Enhanced Sight and Lethal Precision. She had a copy of the former, but the latter hadn’t shown up since the first time. It wasn’t an issue.
+
+Stargazing (Uncommon) has fused with Stargazing (Uncommon)! You have received the following skill:
+
+Stargazing (Rare) - Reduce timer for all stars by 0.5 seconds per star owned.
+
+That was brilliant. The effects hadn’t just added together, but rather reaching the next tier had boosted them further beyond the limits of uncommon. And that wasn’t even the best part.
+
+Stargazing (Rare) had finally pushed the timer over the edge. Evelyn had managed to shave an entire minute off. It was a beautiful moment. She had planned to move onto Bulwark immediately, but she ended up savouring the feeling for a minute or two. It would only get better from here.
+
+Bulwark (Common) has fused with Bulwark (Common)! You have received the following skill:
+
+Bulwark (Uncommon) - Take less damage from physical attacks.
+
+You are attempting to fuse two Uncommon skills, please select 1 Uncommon, or 3 Common skills to use as catalysts. Their effects will not be synthesised.
+
+Focus, Flame Affinity, Starlight Strike. I don’t need any of them right now, so I think it’s better to save my uncommon skills for what comes next.
+
+Bulwark (Uncommon) has fused with Bulwark (Uncommon)! You have received the following skill:
+
+Bulwark (Rare) - Take far less damage from physical attacks.
+
+Here we go, this is the big one. I have some ideas for taking Bulwark beyond just a simple damage mitigation skill, too. But that can wait.
+
+You are attempting to fuse two Rare skills, please select 1 Rare, or 3 Uncommon skills to use as catalysts. Their effects will not be synthesised.
+
+It took Evelyn a while to figure out if she could justify the cost. In the end, her decision was made simple by one fact. In another six hours, she would receive a huge chunk of essence once again. She could just buy a load more skill crystals to replenish whatever she had to sacrifice here. It was almost a guarantee that she’d get copies of skills she had already earned, plus the potential for new ones was always there. The unlucky offerings were Capital Gains, Backlash and Conjure Rock. The last one really stung.
+
+But, she had only used the skill for nostalgic reasons. There was some benefit in staying true to your roots, however it had little offensive or defensive utility. The next tier of Bulwark was more important.
+
+Bulwark (Rare) has fused with Bulwark (Rare)! You have received the following skill:
+
+Bulwark (Unusual) - Physical attacks barely affect you.
+
+Totally worth it. Maybe at the next tier magic will be the only way to crack my shell. For now, I need to test this out. I’m itching to head to the mini boss floor, but I can be patient. At least another six hours and then once I’ve sorted my skills out I’ll head through the portal.
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.5
+
+|Attributes|
+
+Power: 12 (13)
+
+Speed: 4
+
+Stamina: 8
+
+Vitality: 26 (31)
+
+Mana: 25
+
+Fortitude: 48 (72)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Stargazing (Rare), Bargain Hunter (Uncommon), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Uncommon), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Spendthrift (Uncommon), Solar Fusion (Uncommon), Salvo (Common), Corruption Resistance (Common), White Infusion (Common), Star of Fortitude (Uncommon), Star of Vitality (Common), Star of Mana (Common), Star of Stamina (Common), Star of Power (Common)
+
+~Active~
+
+Fists of Frost (Uncommon), Mana Plate (Uncommon), Flashfreeze Flamecharge (Rare), Numb (Common)
+
+~Hybrid~
+
+Overpowering Spirit (Rare)

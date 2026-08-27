@@ -1,0 +1,59 @@
+---
+id: be9bfe4f-b343-5a8b-9228-49d95572767e
+page-type-slug: story-chapter-royal-road
+title: "244. Deep Shit"
+slug: 0244-244-deep-shit
+partOf: god-of-trash
+position: 244
+ownLength: 1798
+unit: words
+publishedAt: 2025-12-05
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2821895/244-deep-shit"
+royalRoadId: "2821895"
+---
+
+Rhys raised his brows for a moment, considering the possibility, then shook his head. Hopefully he wouldn’t run into anyone up here, because if that was the case, then whatever grandmaster or schoolmaster had done this, likely wouldn’t take kindly to someone who wasn’t supposed to be here knowing all about their secret pollution stream. But if he was just the filth fairy, and spirited away their problem, then ran before anyone saw him, he totally circumvented that problem. It sounded like a far better solution to him.
+
+He could also, he supposed, contact the sect and get their permission to clean the stream, but one, that was talking to people and people were scary, and two, that sounded slow, annoying, and like a sure way to get bound up in politics and red tape, if his original world was any example. Better to act and ask forgiveness later in cases like these. After all, if he went and asked someone for permission, they wouldn’t know how capable he was. They might be afraid he’d mess up, and say no as a result. Or worse, they might require higher or different approval, from someone who was out of office for the next three months, who got back only to discover that he needed approval from someone else entirely, oh, and he’s on paternity leave…
+
+Anyways, he absolutely did not want to mess with that tangled web, so better to just act now. If they didn’t want him to clear the stream, then he truly had to question their motives in possessing the stream—it seemed like an evil school kind of thing to do, and if they were evil, then he was justified in cleaning the stream, and, in fact, was doing a service to everyone who lived in their vicinity. Either way he could think about it, stream cleaning was a good idea and a net karmic positive in the world, and getting permission just sounded like opening a can of worms for funsies, when he could not open that can and let it sit wormily in the corner while he fixed the problem.
+
+Further and further up the mountain. He started to reach the peak; already, he could see the sky through the trees, instead of a wall of earth looming endlessly before him. The filth got even more intense, and Rhys began to jog, hurrying toward the source. He could sense it now, a great black spot throbbing in the near distance, oozing pestilence outward like an aura. Even if he hadn’t recently sensitized his mana senses, he could have sensed it by now; it was practically physical. He had to wind down pulsing his cursed senses, because the negative mental effects surged as he got closer, in equal measure to the power of the filth aura.
+
+Still, he was pretty sure he would be able to sense Mouse if she was around this thing. The filth aura was so strong that he sensed the trees and rocks within it as empty spaces where there wasn’t as much filth. This whole area resonated strongly with his path, maybe more than any other place he’d stepped within so far.
+
+This close to the source of filth, the ground beneath his feet was muddy, with an oily sheen to the mud and bits of garbage snarled amidst the dead undergrowth. Black gunk covered the once-thriving undergrowth and crept up the trunks of trees. Low-growing bushes’ leaves, likewise, were coated in the thick goo, and the bushes struggled to survive if they weren’t already dead. The air began to darken around him, and little droplets of garbage struck his skin as he walked. They hissed and spat as they struck his skin, which just encouraged him to walk forward faster, so that he could coat as much of his skin as possible in the droplets to continue to strengthen his skin.
+
+He took off his shirt, baring his torso to the mist, then looked around and quickly stripped down to nothing, storing his clothes and the fresh fabric alike in his storage ring. No point dirtying them. Besides, if he was going to use this as training, then hiding his most delicate skin would only disservice himself. This was an opportunity to harden his entire external organ, his largest organ, and the one most often damaged; if he avoided training the most vital regions, then he’d harmed himself rather than strengthening himself. His enemies wouldn’t hesitate to hit at his weak spots, so if they were in the most obvious places, he’d simply opened himself up to future harm.
+
+Besides, this was a stream. He’d meant to bathe. If anyone disturbed him, he could simply use that as an excuse. Though if he met anyone here, in the pit of filth and hideous impurities that even he struggled to absorb… hell, he should probably ask them to be his apprentice, because damn, that was some serious talent for impurities.
+
+At last, he saw it: the headwaters of the stream, and also the source of the impurities. A large black stone was pierced through the source of the stream, a monolith about half as tall as he was. It sucked up the light, so that his eyes almost perceived it as a hole, rather than a stone, and it exuded a strong, but strangely familiar aura of impurity that—
+
+His eyes widened. That was it. That was it, wasn’t it? It was the stuff. The black stuff stuck to the bottom of his secret realm in the void. The stuff Daran had struggled to comprehend. The stuff that even he couldn’t absorb without harm. The difference between the other stuff and this pillar was that this pillar seemed… activated, somehow. As if it had been awakened and its filth drawn out, whereas the rest of it had been inert, sleeping on the underside of the secret realm, or, more recently, on the end of Sid’s train.
+
+So how do I absorb it? Rhys put his hand on his chin, considering it. This close to the pillar, his skin burned away just from proximity, going raw, then healing, going raw, then healing in waves, and growing stronger each time as he regenerated it while propping up the places it had lost out to the toxic mist the first time. He continued to suck in as much filth as he could from his surroundings, but it was a constant battle. Rhys couldn’t afford to absorb the extra filth caked into the ground and trees as well; his hands were full just absorbing what the pillar gave off every second. Something like absorbing the pillar was beyond his capacity.
+
+For a long time, Rhys stood there. After a while, when his skin remained whole for some time, he turned around so the mist hit him from behind. When his back’s skin also began to remain whole, he clothed himself again and sat down crosslegged in the dark aura. Focusing his mind, he thought about nothing but the task at hand: the black pillar, and how to absorb it.
+
+He’d only successfully absorbed the black gunk once, and it was thanks to Mirai’s ‘cuteify’ technique. Mirai wasn’t here, and even if she was, she’d have died long before she could have successfully approached this pillar; Rhys wasn’t confident that he could perfectly absorb the mist enough to keep another person safe and alive all the way to stand this close to it, and not only that, but Mirai was significantly weaker than him. It made her feat all the more impressive, but on the other hand, it meant it was even less likely she’d survive the approach. Of course, she wasn’t here, so that was neither here nor there. The important question was: how did she weaken the black goo enough that Rhys had been able to absorb it? What had she done to lessen its strength and vitriol?
+
+All he had to go on was the name, but it was a powerful hint. “Cuteify.” To make things cute. It wasn’t a real word, but it wasn’t hard to guess the meaning. Her technique was a beam that made things cuter, but what did that mean? Specifically, what did that do? At a low level, what had she accomplished with that?
+
+Made it cuter. Cute things were soft, cuddly, pretty, and generally non-threatening. That last one was the most important: non-threatening. She had pointed at something threatening and made it non-threatening. It was a terrifying, reality-warping power that was beyond anything Rhys could do, but that was because it was tied to her path. It was like how Mouse could vanish completely, but Rhys couldn’t, despite him being a higher tier; it wasn’t his path, but it was hers.
+
+Or… is that true?
+
+He wasn’t thinking of it right. It wasn’t that she’d ‘made it cute;’ or rather, that wasn’t the important part. The important part was that she’d pointed at something and forced it to conform with her path. To bend to her will, to transform to better fit her vision of the world. And maybe that was what absoluexistence had been looking for, now that he was thinking about it: the ability to change things to fit their vision of the world. It was another way to group him, and Mirai, and the Empress: they were all able to alter the world around them to fit their vision, whether it was ‘better’ or not.
+
+Something stirred deep within him, and he felt as though maybe that was closer to the truth than his original guess of ‘cleaning’ or ‘fixing,’ but he still felt that he hadn’t fully grasped the concept. There was more to it, but that would come with time and study. What he needed right now was the practical application of altering the world to fit his path, so that he could ‘trashify’ the pillar.
+
+He gazed at the pillar. This whole time, he’d been able to warp things as long as he perceived them as trash, but this was the opposite; this was altering something that wasn’t trash to make it trash. He had occasionally warped his perception to alter things to trash before, but this wasn’t the same. This was pointing at something, acknowledging that it wasn’t trash, and forcing it to become trash by his will alone.
+
+Rhys lifted his finger and pointed at it. Become trash!
+
+Nothing happened.
+
+He lowered his hand and pursed his lips. The concept was right. He was pretty sure he had the right idea, and the right line of thinking, but he wasn’t connecting things right in his brain. He wasn’t applying his mana correctly to activate an actual technique; he was just doing some wishful thinking.
+
+What am I missing?

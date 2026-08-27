@@ -1,0 +1,267 @@
+---
+id: eb01d70e-ebb9-5738-a14b-dac73f92ac5c
+page-type-slug: story-chapter-royal-road
+title: "056: A Dance with Fate"
+slug: 0056-056-a-dance-with-fate
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 56
+ownLength: 2292
+unit: words
+publishedAt: 2024-06-17
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1680492/056-a-dance-with-fate"
+royalRoadId: "1680492"
+---
+
+Steam curled up to the tiled ceiling, drifting from the just too hot water in winding wisps that let her distract herself from making the easy decision.
+
+Since being shown that slice of history and the origins of the tower, Evelyn knew what her ultimate goal was, besides finding her friends and family. She would clear the tower, and challenge the horrors that threatened existence itself.
+
+And if the bastards who made the tower were still around, somehow, she would find them and beat their ass too.
+
+Despite her path being one that the tower forced her into, Evelyn had come to enjoy her role as a semi-magical brawler.
+
+With the amount of essence she had, Evelyn could easily raise her other attributes up to match her fortitude. Eventually.
+
+She didn’t have that kind of patience however. Spending a few weeks in the bazaar buying points while trying not to draw undue attention would be tedious. Instead, she had all the tools necessary to challenge the 16th Floor for the second time and attempt her ascension midway through.
+
+Given that she had no clue how it would take place, that might be an absurd risk to take, but she didn’t see how else she would bring Dazurmagon down alone before someone else had the opportunity without a little danger.
+
+Evelyn only needed to put 5 more points into fortitude to bring it to 100. With the rest of her points she shored up her weaker attributes. Her speed in particular had felt lacking in the last battle with the hyper boss.
+
+While the overall improvements to her body had allowed her to dodge attacks and return them, her body had fallen behind her mind on more than one occasion.
+
+And while she wasn’t planning to become like The Flash anytime soon, being a little more agile couldn’t hurt. After investing her points, she pulled up her status to have a quick check that her maths had been correct.
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.14
+
+|Attributes|
+
+Power: 21 (22)
+
+Speed: 12
+
+Stamina: 12
+
+Vitality: 31 (37)
+
+Mana: 26
+
+Fortitude: 62 (101)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Galactic Expansion (Unusual), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Salvo (Common), Mana Wielder (Rare), Master of Combat (Rare)
+
+~Active~
+
+Flashfreeze Flamecharge (Rare)
+
+~Hybrid~
+
+Soul of the Unstoppable Conqueror (Unusual)
+
+As it stood, she had overshot the mark by one point with fortitude, but that wasn’t a problem at all. Having all of her attributes reach double digits filled her with strength and confidence.
+
+Not just an ephemeral feeling of such, but there was an actual energy there giving her strength. Evelyn felt that she must have passed some kind of threshold. Or, her mind was truly going beyond the brink and she was imagining things.
+
+With that done, she just had the skill crystals left to use. First though, she opened the ascension menu just to check that she had met all the requirements bar her class level. It was possible that the tower wanted her to invest 100 points into an attribute, not just reach that number after her bonuses had been applied.
+
+~~ ** Ascension ** ~~
+
+Ascend beyond the limits of your current form and be reborn anew
+
+Requirements for 1st Ascension:
+
+Lv.15 Class
+
+15,000,000 Essence - Complete
+
+3 Unusual Skills - Complete
+
+100 points in at least one Attribute - Complete
+
+It was a relief to see that wasn’t the case. Though putting another forty or so points into her fortitude would be a boon against the boss, the time it would take to achieve that was time she didn’t want to waste sitting around in Haven when others were pulling ahead of her.
+
+The first three skill crystals were duplicates, but that meant potential fusions. One thing Evelyn had realised was that having higher tier skills was far more important than a litany of common and uncommon ones.
+
+It wasn’t Pugilism or Salvo which had allowed her to cling on or push through in her toughest battles, but rather the more unique skills formed from many components that had the greatest impact.
+
+Uncommon Skill Crystal has been consumed! You have received the following skill:
+
+Bulwark (Uncommon) - Take less damage from physical attacks.
+
+Uncommon Skill Crystal has been consumed! You have received the following skill:
+
+Arcane Shield (Uncommon) - Take less damage from magical attacks.
+
+Uncommon Skill Crystal has been consumed! You have received the following skill:
+
+Opportunist (Uncommon) - Slightly increases your proficiency with all tools.
+
+You are attempting to fuse two Uncommon skills, please select 1 Uncommon, or 3 Common skills to use as catalysts. Their effects will not be synthesised.
+
+I still don’t think I need Opportunist. The benefits are so minimal when I have a focused battle style rather than a widespread one. I only use my fists or more recently, the hammer. I should get a new hammer. I enjoyed the feeling of wielding it against Dazurmagon.
+
+Arcane Shield (Uncommon) has fused with Arcane Shield (Uncommon)! You have received the following skill:
+
+Arcane Shield (Rare) - Take far less damage from magical attacks.
+
+On the fourth uncommon skill crystal, she received a brand new skill. The effect wasn’t incredible, but it would be a useful tool in her arsenal for the coming challenges.
+
+Uncommon Skill Crystal has been consumed! You have received the following skill:
+
+Blunt Force (Uncommon) - Your blunt force attacks, whether armed or unarmed, deal more damage.
+
+Blunt Force was followed by three more duplicate skills, which was the norm for skill crystals. It had been a source of frustration at first, but now she didn’t mind. Fusions were always on the table and any useless skills could be burnt as fuel to create more intricate skills.
+
+Uncommon Skill Crystal has been consumed! You have received the following skill:
+
+Impregnable (Uncommon) - Every 8 points of fortitude give you +1 to the attribute.
+
+Uncommon Skill Crystal has been consumed! You have received the following skill:
+
+Bulwark (Uncommon) - Take less damage from physical attacks.
+
+Uncommon Skill Crystal has been consumed! You have received the following skill:
+
+Flash Charge (Uncommon) - Empower yourself with mana to charge at a distant enemy with increased speed. (45 sec cooldown)
+
+You are attempting to fuse two Uncommon skills, please select 1 Uncommon, or 3 Common skills to use as catalysts. Their effects will not be synthesised.
+
+Flash Charge could be useful to synthesise something as potent as Flashfreeze Flamecharge, but the skill itself is rather unhelpful when I can just single out the speed boosting effects anyway. Though it might come with less risk to my spine. Let’s burn it anyway, I’m sure I can get another copy in future.
+
+Bulwark (Uncommon) has fused with Bulwark (Uncommon)! You have received the following skill:
+
+Bulwark (Rare) - Take far less damage from physical attacks.
+
+After those three, Evelyn was expecting more duplicates. However, the last three crystals surprised her and every single one offered a brand new skill. All in all it was a fantastic haul.
+
+Uncommon Skill Crystal has been consumed! You have received the following skill:
+
+Oppressive Force (Uncommon) - Every 8 points of power gives you +1 to the attribute.
+
+Uncommon Skill Crystal has been consumed! You have received the following skill:
+
+Celestial Resonance (Uncommon) - Empower your stars and burn essence to multiply your attributes for 15 seconds. Burn 10 essence per grey star, with higher rarity stars burning 10x more essence per tier above grey. Your attributes are multiplied by 1.00 (+0.01 per grey star, *10 every increased tier). (Variable essence cost, 2 hours cooldown)
+
+Uncommon Skill Crystal has been consumed! You have received the following skill:
+
+Magma Affinity (Uncommon) - Molten stone bubbles and flows within you.
+
+The simple attribute boost of Oppressive Force was a welcome addition to Surging Blood and Impregnable, with the latter ready to fuse to the next tier once Evelyn had a skill to burn as the catalyst.
+
+Magma Affinity was simple, though she wasn’t sure how it would benefit her unless she figured out a way to synthesise it with another skill to create something greater than the both of them. The real prize was Celestial Resonance.
+
+It was a perfect fit for her. She had so much essence to burn, and while she would save it for a crucial moment in an important battle, it wouldn’t make too much of a dent in her savings. With the number of stars she had, the attribute boost would be massive. It might even be the focal point of her next clash with Dazurmagon.
+
+Evelyn pulled her blankets up to her chin and let herself sink into the seductively soft pillows. As she looked back on the events of the day a bubbling warmth spread from her stomach to every inch of her body. She couldn’t hold back a smile as she remembered the feeling of Kayla’s lips, and the warmth of her touch.
+
+How my body feels, and what my mind is telling me is the sensible course of action are at odds. I’m still not sure how dangerous Kayla is and what her real motives are, but at the very least I know there’s an undeniable spark between us. I’ll just go with the flow and if things get dangerous then I hope I will have the presence of mind to pull back.
+
+~~~
+
+Like every other day in Haven, the sun was beaming down from a clear blue sky. Only a few clouds drifted by, charting lazy courses to whatever lay beyond the rolling green hills that surrounded the city. Evelyn made her way through the streets to the central plaza with measured steps.
+
+There was no rush, even though her mind was screaming at her to jump into the portal and rush to the hyper boss as fast as she could.
+
+Would Haven be the same when she came back the next time? Or would some other group have leapt ahead of her again, leaving her falling behind despite feeling like she was advancing in all facets of her personal strength?
+
+They were futile questions to ask, and the answers were unknowns that would only bring her frustration and anger. Her mind had a terrible tendency to wander to the worst places when she was about to take on a challenge, especially one she had failed once already.
+
+Kayla was already waiting when she reached the plaza, and the short woman waved and flashed a grin when she spotted Evelyn approaching.
+
+“Howdy darlin’, did you sleep well? You got a big day ahead of you,” she said.
+
+“Like a log. I’m a little nervous if I’m being honest, but I think my chances are high this time around. I won’t let the others get too far ahead, especially not that smarmy git Kyron,” Evelyn replied.
+
+“Attagirl. You got this, just don’t do anything I wouldn’t.”
+
+“I’m not sure there’s much you wouldn’t have a crack at, Kayla.”
+
+“You’re starting to know me a little too well, darlin’. Just don’t get yourself killed trying to achieve the impossible,” she said, lifting a hand to caress Evelyn’s cheek.
+
+“Nothing is impossible with the right attitude,” she replied with a wink.
+
+There was a small crowd gathered near the portal, as usual. A few strange glances were thrown their way but most people were too caught up in their own business to be worried about what the two women were doing.
+
+Evelyn’s eyes lingered, sharing an unspoken promise with Kayla before pulling away and taking her first step towards the glowing portal. The 16th Floor beckoned, it’s call nigh impossible to resist.
+
+No more words were exchanged as she approached, instead Kayla hung back and watched her make her way through the crowds.
+
+Excited shouts and cheers erupted once the gathered citizens of Haven noticed Evelyn making her way through. After her previous exploits she was well known. Despite not succeeding in clearing the 16th Floor, her attempt had been the furthest a solo challenger had gone and that determination and grit had garnered her plenty of fans in the city.
+
+Right before stepping through the portal, she pulled the chipped warhammer from her inventory and gave it a whirl, showing off for the crowds even though she held little regard for their opinion of her. Sometimes it was important to put on a performance, even if your heart wasn’t in it.
+
+A brief moment of dizziness hit her as she passed through the portal, and then she was greeted by the familiar crimson landscape of the 16th Floor. Just ahead of her, a group of three miniscule magma elementals were gathered, milling around lazily.
+
+Her mana began to whirl as she pulled it towards the centre of her body and she hefted the hammer high. This time, failure was not an option.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.14
+
+|Attributes|
+
+Power: 21 (24)
+
+Speed: 12
+
+Stamina: 12
+
+Vitality: 31 (37)
+
+Mana: 26
+
+Fortitude: 62 (101)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Bulwark (Rare), Galactic Expansion (Unusual), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Rare), Arcane Shield (Common), Salvo (Common), Mana Wielder (Rare), Master of Combat (Rare), Blunt Force (Uncommon), Oppressive Force (Uncommon), Magma Affinity (Uncommon)
+
+~Active~
+
+Flashfreeze Flamecharge (Rare), Celestial Resonance (Rare)
+
+~Hybrid~
+
+Soul of the Unstoppable Conqueror (Unusual)
+
+Essence: 49050701『+1021784 / 5:54:24 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+**Guilds**
+
+**Property**
+
+【KILL】

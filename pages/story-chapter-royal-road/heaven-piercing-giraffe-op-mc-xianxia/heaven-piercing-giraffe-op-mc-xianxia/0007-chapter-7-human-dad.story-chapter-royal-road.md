@@ -1,0 +1,226 @@
+---
+id: debcac57-b1dc-5bbc-ae3d-758a91f5514b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: Human Dad"
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 7
+ownLength: 1872
+unit: words
+publishedAt: 2026-07-02
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3620247/chapter-7-human-dad"
+royalRoadId: "3620247"
+---
+
+Chapter 7: Human Dad
+
+I did not put any spirit energy into my hand.
+
+I had considered it briefly, in the way you consider options before selecting one, and then discarded it on practical grounds. The Rabid Dogs had hit two walls from a stamped foot with what I estimated was a very small amount. Monkey was considerably less reinforced than the Rabid Dogs. If I channeled spirit energy into a deliberate slap directed at a human face, I suspected the results would be difficult to walk back.
+
+That was not the goal.
+
+I swung my hand.
+
+It stopped.
+
+I did not need to turn to identify who had caught my wrist. The grip was large and the voice that came with it was familiar.
+
+"Raffea, face slapping someone on my behalf makes me look weak. Like I need my own daughter to defend me."
+
+He released my wrist.
+
+I turned around.
+
+He was there. The full height of him, the broad frame, the beard that looked like a goat's, the expression he wore that communicated several things simultaneously without effort. Behind him, slightly to the left was Badger, breathing roughly.
+
+"Sect leader!" Monkey pointed at me with an unsteady finger. "Raffea was about to face slap me!"
+
+Human Dad looked at him.
+
+He did not say anything. He moved me gently to the side with one hand, and then he walked forward.
+
+Monkey watched him come and did not move. He was either committed to his position or his legs had made a unilateral decision.
+
+Human Dad stopped in front of him.
+
+His shadow covered Monkey completely. This was partly a function of the afternoon light and partly a function of Human Dad's dimensions and mostly a function of something that had nothing to do with light or dimensions at all.
+
+The sound was not the sound of skin making contact with skin.
+
+It was a bang. The compressed, conclusive sound of something that has been decided rather than done. Human Dad's hand connected with Monkey's cheek and Monkey left the ground and traveled sideways and continued traveling until he met the wall of a nearby building, which accepted him into itself with a corresponding crash. Dust rose from the point of impact. A section of the upper wall shifted and groaned.
+
+The crowd, which had been whispering, stopped whispering.
+
+So that was what a face slap looked like with appropriate spirit energy behind it.
+
+Fox had not moved during any of this. He stood slightly apart from where Monkey had been, watching the dust settle with an expression I could not read through the mask.
+
+"Oh my. You just face slapped the sect leader candidate we selected."
+
+Human Dad turned.
+
+He walked toward Fox with the same unhurried quality he had walked toward Monkey. The crowd parted in front of him.
+
+"Who are you?"
+
+Fox made a small bow. "Null. Ambassador of Ramzan."
+
+Human Dad's fist moved.
+
+The fist connected with Fox. Passed through his chest without resistance, the image blurring at the point of contact and dissolving outward like smoke caught in wind. By the time the punch had completed its arc there was nothing there to have hit.
+
+Fox was above us. Seated cross-legged on a cloud that had not been there a moment ago, his orange hair catching the late afternoon light, the fox mask tilted down at a comfortable observational angle.
+
+Akasha went up after him, wings snapping open. She crossed the distance in less time than it took to track her movement.
+
+The cloud moved sideways. Smoothly, without urgency. Akasha's slash cut through where it had been.
+
+Fox watched her recover and did not change his position.
+
+"I thought Ramzan was our ally," Human Dad looked up, stroking his beard, "but it seems you've finally revealed your true colors."
+
+"We're helping. Genuinely." Fox's voice maintained its pleasantness. "A stronger sect is a better ally. A sect leader with ambition reaches for higher islands. Higher islands mean greater cultivation resources, greater strength, greater usefulness to everyone involved. Your contentment with your current elevation is the problem, not us." The cloud began to rise, slowly, carrying him upward with unhurried intention. "Install Zaku as sect leader or Ramzan will assist the transition by other means."
+
+Akasha appeared behind him, having circled while he was speaking. "As if we will put that incompetent fool as our new sect leader!"
+
+"How generous of you to announce your presence." The air around Fox changed.
+
+It happened quickly and without any visible mechanism. One moment it was open air, the next a sphere of something that was not quite water and not quite air but had the quality of both, a pressurized bubble that caught the space around Fox and Akasha together and sealed. Akasha's flame sword went out. Her wings dissolved. The fire that was always present at the edges of her hands simply stopped.
+
+The bubble released.
+
+Akasha dropped.
+
+She dropped fast, and Badger was already moving. He dove, caught her, and they both hit the ground in a controlled disaster that left him flat on his back with her on top of him.
+
+He made a sound that was primarily a groan.
+
+"You're heavy," he said, to the sky.
+
+"Never call a lady heavy." Akasha rolled off him, and got up. "And thank you."
+
+"I didn't do it for you."
+
+"I know."
+
+Above us, Fox and his cloud continued rising, growing smaller against the sky.
+
+A shadow fell over him.
+
+No warning, no sound preceding it. Just a shadow, and then the thing casting it: a log, vast and featureless, its cross-section a perfect circle of ancient wood rings, two enormous wings of woven leaves and branches spreading from its sides. No face. No decoration. Nothing that suggested it had opinions about what it was doing.
+
+It fell.
+
+Fox had no time to move. The log took him out of the sky and brought him back to the ground with a finality that raised a curtain of dust across the whole street. When it settled, Fox's lower half was underneath it.
+
+"What is this thing?" Fox tried to crawl out.
+
+"My summon," Human Dad said.
+
+"You call this a summon? It doesn't even have a head."
+
+"Does it need one? A head costs extra spirit energy." He walked to the rubble where Monkey was buried, reached in, and withdrew him with a single precise motion. A perfect spearing by the collar that I had failed to replicate earlier with the sticks. He moved back and stood beside Fox.
+
+"How about releasing me?" Fox looked up at him. "I'm an ambassador. I can ask the higher-ups to reconsider."
+
+Human Dad's hand closed around Fox's collar. He lifted both of them — Monkey in one hand, Fox in the other — and settled them onto his shoulders, one per side, which his shoulders were broad enough to accommodate without apparent effort.
+
+He looked at neither of them.
+
+"Anyone involved in hurting my daughter will be punished. I don't make exceptions for ambassadors."
+
+He turned and walked toward the sect compound.
+
+I fell in behind him.
+
+Around us, the crowd did what crowds did, which was murmur to each other with the industry of people converting a witnessed event into a story. I listened to the fragments as we moved through them and noted the divergence already forming.
+
+"The young master is only getting off because her father is a sect leader."
+
+"Shh. He can hear you."
+
+"There are enough of us. It's fine."
+
+The crowd parted.
+
+In the gap stood a man with the particular build and complexion of someone I would have classified as Pig. He was trembling at a frequency that suggested he had committed to speaking before fully considering the consequences.
+
+"Y-you won't hit me, will you? I'm just a civilian."
+
+Human Dad stopped in front of him. Pig's legs made a unilateral decision and he sat down hard on the street.
+
+"Tell me." Human Dad looked at him. "What exactly has my daughter done to you?"
+
+"W-well… all young masters should be punished!" He said it with conviction, even though I had no memory of ever meeting him.
+
+System, did I reincarnate into someone evil?
+
+[No. Humans just love putting labels on things. Like young master equals bad. It is a common shortcut.]
+
+I see...
+
+I looked at Human Dad, who was quiet for a moment.
+
+"You're pitiful." He turned and kept walking. "Being young and a master doesn't make someone bad. Neither does being old and a nobody make someone good."
+
+After walking some distance, he stopped.
+
+"Shido."
+
+A man appeared at his shoulder, Human R.
+
+"Arrest everyone who sided with these idiots." Human Dad looked at Monkey briefly, then back at the street ahead, and kept walking. "All of them."
+
+Human R made a small bow. Around us, shadows that had been indistinguishable from the shadows of buildings and overhangs dropped from their positions and moved — fast, quiet, without announcement — toward the disciples who had formed Zaku's perimeter earlier. There were more of them than I had tracked. There were apparently more of Human R's people than anyone had tracked.
+
+We walked.
+
+"Akasha." Human Dad did not stop or slow.
+
+She appeared on his left. "Sect leader."
+
+"Focus on the disciples with potential. I want them prepared quickly."
+
+"Of course."
+
+Badger appeared beside her, slightly behind, arms crossed.
+
+"Raffea," Human Dad said.
+
+I had been two steps behind his right shoulder. I moved up to be level with it.
+
+He still did not look at me. He was looking at the road ahead, at the gate of the sect compound visible now at the end of the street.
+
+"Focus on your training."
+
+I nodded.
+
+"Training won't be enough," Fox said, from Human Dad's shoulder. "If you don’t release me now, Ramzan will get suspicious and will most likely attack in a—"
+
+Human Dad's hand moved. Fox met the ground briefly and then moved to the other shoulder, unconscious, joining Monkey in the same undignified arrangement.
+
+His now free hand descended on my head.
+
+Big. Warm.
+
+It moved against my hair in the slow, deliberate way of something that is not sure if it is doing this correctly but is doing it anyway: a ruffling, a shuffling, a hand considerably larger than my head redistributing my carefully tied giraffetail into something that was no longer a giraffetail.
+
+I looked up.
+
+Human Dad was still looking at the road.
+
+I looked back at the road.
+
+I let it be.
+
+Beside us, I heard Badger make a very small sound that he would have denied making if asked. Akasha said nothing, which was its own kind of saying something.
+
+We walked through the gate.
+
+Behind us, the Eastern District resumed its noise: vendors, children, the percussion of a street returning to itself after something had moved through it. The murmuring was still going, stories still diverging, the afternoon becoming legend at the speed that all afternoons become legend when enough people witnessed them.
+
+"Akasha, when do you think they will attack?" Human Dad asked.
+
+Akasha sighed. "You should have let him finish." She glanced at Fox. "Roughly? A week, maybe less."
+
+"I see. A week."

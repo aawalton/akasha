@@ -1,0 +1,165 @@
+---
+id: f51fe957-5098-527d-bdb4-e447b63e1781
+page-type-slug: story-chapter-royal-road
+title: "311. Shout Fire, not Help"
+slug: 0311-311-shout-fire-not-help
+partOf: god-of-trash
+position: 311
+ownLength: 2070
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3400908/311-shout-fire-not-help"
+royalRoadId: "3400908"
+---
+
+Rhys chased after the direction from which he’d heard someone shouting for help. His fight with the trio hadn’t taken too long, so hopefully they were still okay, whoever they were, and whatever was happening, but they hadn’t shouted for a while, and that was making him nervous.
+
+“Helloooo? Are you still alive…? I’m coming!”
+
+Still no response. Rhys licked his lips, not liking where this was showing. He’d be a real trash hero if he showed up after the person in danger was killed. As much as he liked being trash in all possible ways, he’d still feel kind of bad if he tried to Big Damn Hero and landed in a grimdark scene instead. No one got excited to see Superperson landing next to a bloody corpse.
+
+Batperson, on the other hand… I mean, the guy does it all the time. Rhys pinched his chin, considering. How did that old saying go? Always be yourself, unless you could be Batperson, and then be Batperson?
+
+Even so, I think everyone involved would be happier if I kept to the Superperson-style scene! Let’s think of the victim here, the victim!
+
+In the distance, he sensed mana signatures. A bit amazed at this person whose lungs were powerful enough to outreach his mana-sensing distance, Rhys charged in. Five people ringed in a sixth, who clutched his sword tightly, glancing in all directions. The man in the center turned slowly, keeping an eye on everyone around him, but the five slowly closed in. Abruptly, the man charged, and the people he charged at backed away, but even as they did, their comrades closed in from behind. He rounded on those people too, forcing them back again, sword clattering against theirs, but the men continued to slowly close the circle, their swords all pointed toward the center man.
+
+“Hey, hey, hey. What’s going on here?” Rhys asked, strolling out of the forest as if he hadn’t just sprinted over here. Fortunately, he was a mage, so he wasn’t sweating or breathing hard. He could more-or-less pull it off.
+
+He’d expected the men to whirl about to address the new threat, namely: him, but instead, they charged forward, trying to finish off the guy they had ringed in before they addressed Rhys.
+
+It’s a good idea. I have to admit—it’s the right choice! But dammit, deal with the new threat in a thug-like matter, okay? Don’t be so goal-oriented! Silently chiding them, Rhys charged at the men closest to him. Their backs were turned, but he’d never been one to quibble about proper battle conduct, and besides, five-on-one wasn’t a fair fight no matter how he looked about it. Turnabout was fair play, after all; if these men were willing to be unfair to that one guy, then he was willing to be unfair to them.
+
+“Hey, you!” Rhys called, as he slashed out. The man directly in front of him shifted, taking the blow on the pauldron he wore, but Rhys sent a stream of impurities out through The Hunger, weakening the armor, and The Hunger smashed right through it. The second the impure sword struck the man, it sucked in, forcibly drinking the impurities out of his blood. The man screamed in agony as the impurities were ripped out of him all at once, and then Rhys swung The Hunger again, and he stopped screaming completely.
+
+You know, he contemplated, looking at The Hunger, I totally forgot that purifying someone hurts. I never would’ve thought to use it as a weapon in battle. Seems like even my weapons can teach me things sometimes.
+
+“What do you want?” the other encircling man nearest him asked, whirling to face him.
+
+“Huh? Oh. Not you. The guy in the middle,” Rhys clarified, closing in on the man who was facing him. He swung The Hunger. The man lifted his blade to block, but before their swords even clashed, Rhys tossed a handful of impurity darts at the man’s face, using his impurity control to drill them into his chest. The man shrieked as his body blackened and his veins went dark, then fell over, clutching his neck.
+
+“Are you here to kill me, too?” the man in the middle asked.
+
+“No. I’m here ‘cuz you yelled help. Why would I come here to kill you?” Rhys asked.
+
+“You killed those two guys for no reason. It wasn’t a stretch to admire that you were going to kill me, too.”
+
+“Well, I killed them to save you, but if I shouldn’t, let me know. Yeah, why do these guys want to kill you, by the way? I’m trying to be a Big Damn Hero, but I’m gonna be real embarrassed if you did a panty raid or something and you totally deserve all the shit you’re getting right now.”
+
+“What’s a panty raid?”
+
+Rhys put on a deadly serious face, and, like a man who didn’t want to explain the complicated history of the Japanese clothes-washing system and the proliferation of hanging clothes out to dry combined with a repressive culture resulted in perverts stealing panties, which then became the manga meme of the ‘panty raid,’ answered: “A crime punishable by death.”
+
+“W-well, I don’t know what ‘panties’ are, so I don’t think I did a ‘panty raid.’”
+
+Rhys lifted his hand, and, like a man who had just accidentally made another man swear from the bottom of his heart that he didn’t know what underwear were, implying that he was commando right now, replied: “TMI, my friend. TMI.” He cleared his throat. “What did you do, though?”
+
+This whole time, the encircling men had stopped moving, taken aback by Rhys’s sudden appearance and equally sudden murder of their compatriots. Now, seizing the moment, one of them shouted: “He did it! He definitely did a panty raid!”
+
+Rhys cut his eyes at the man. “You don’t know what a panty raid is either, do you.”
+
+“I do know. And it’s what he did!”
+
+“No, I didn’t!”
+
+Rhys lifted his hand. “Look, I honestly wouldn’t kill you if you did do a panty raid—it was kind of a joke, and I really didn’t expect everyone to latch onto it—so can we all put the panties aside and answer me: what the hell did you actually do?”
+
+The man coughed. “That is… when it comes to matters of love, isn’t the most important thing to follow your heart? I may have… stolen away something that others consider precious.”
+
+Rhys stiffened. His eyes widened. No way. He really did a panty raid!
+
+“That’s right! He stole our precious Elder Sister’s—”
+
+Panties? Rhys held his breath, waiting for the next word.
+
+“—heart away, the callous bastard! And then he left in the night, without a word! This is divine punishment. We’re striking for the sake of Elder Sister!”
+
+Rhys blinked. He looked at the bodies on the ground, then looked over his shoulder. “Really?”
+
+“Really!”
+
+“Five men died for this,” he said, a little shocked at everyone’s commitment to the bit. Surely, over something so petty, they’d run rather than fight…? And what was that nonsense about him having to leave the island? All over this Elder Sister’s supposedly broken heart due to a one-night stand?
+
+“We’re all willing to lay down our lives for the cause! Eh… wait. Five?” The encircling man frowned at Rhys, lost.
+
+“Yeah. Your three buddies on the beach tried to keep me from reaching here… wait, were they not your buddies?”
+
+“Three on the beach?” The encircling men looked at one another. Slowly, as their eyes met, they all shook their heads at one another.
+
+Rhys turned to the man in the middle, who’d turned away and was trying to sneak away in the confusion. “Hey. You there. You know those three on the beach?”
+
+“Ah… No?”
+
+“Uh huh.”
+
+The man tensed, then sighed. He drooped. “They were probably after me. No… they probably orchestrated all of this from the beginning.”
+
+Rhys cocked a brow. “And why would they do that?”
+
+“Wait, then… you didn’t sleep with Elder Sister?” the encircling man—who Rhys was starting to think of as their leader—asked.
+
+“Ah… No?”
+
+All of the remaining encirclers tightened their grips on their weapons. The blades straightened, pointing directly at the man in the middle again.
+
+“But! But, but, it, it was all very consensual and we both had a good time! And we um, we agreed it was a one-time thing, your Elder Sister did, too! Have you asked her? Or did someone just tell you that she wasn’t happy with me?” the man argued desperately.
+
+The murderous gazes of the men surrounding him only grew darker.
+
+Rhys stepped closer and put his hand on the man’s shoulder. “I think you should stop talking.”
+
+“That’s… you’re right.”
+
+Lifting his head, Rhys pointed at the encircling man’s leader. “You!”
+
+“Me?”
+
+“What’s your name? And you too, middleman. I can’t keep thinking of you two as encircling man and man-in-the-middle.”
+
+“I’m… Ryota Agaric,” the man in the middle said.
+
+“Lou King!” the encircler declared.
+
+“Yeah? Where are you looking?” Rhys muttered to himself reflexively.
+
+“Ha?”
+
+“Nothing, nothing.” He lifted The Hunger. “Then! I’ll give you one last chance to back down before I kill you all because I’m very embarrassed and I don’t want anyone to know how badly I fucked up!”
+
+“Eh… me too?”
+
+“Nah. You fucked up way worse than me. You tell on me, and I’ll just tell ‘em you fucked their Elder Sister.”
+
+Ryota let out a sigh of relief.
+
+Lou scowled. “Why are you taking that scoundrel’s side? He’s the one who deflowered our Elder Sister!”
+
+“Deflowered? She was already—”
+
+Rhys put his hand on Ryota’s mouth. “My brother in trash, I’m trying to save your gods-damned life. Shut the fuck up.” He turned to Lou. “Your Elder Sister is a fully grown adult woman who’s free to fuck whoever she chooses! You keep your nose out of her affairs, how about that!” He paused. “She is an adult, right…?”
+
+Lou harrumphed. “Of course! The most beautiful, perfect, pure, ideal adult woman that could ever exist! Our perfect Shrine Maiden, who must never be besmirched!”
+
+Rhys wiped his brow. “Thank goodness. I’d be even more embarrassed if it turned out I took the wrong side from the start and had to swap sides here.”
+
+“She’s very beautiful,” Ryota offered.
+
+“Thanks. Believe it or not, I don’t care. I’m currently running from the commitment of actually being in a relationship.”
+
+“…What?”
+
+“Yeah. There’s actually a lot going on under the surface that I really don’t want to examine, but I guess it’s gotta happen eventually, right?” Rhys brandished The Hunger, who was already trembling with anticipation and all but licking its lips at the sight of these men. “But that’s not going to happen right now, because you scum have breathed too long already! How dare you purify the air in my presence!”
+
+“Er… isn’t it ‘impurify?’” Ryota suggested humbly.
+
+Rhys scoffed. “You don’t know who you’re dealing with.”
+
+“If that’s the case, then come! We’ve been waiting for a battle. Whether we defend Elder Sister’s honor or die today, we’ve done our duty as men!” With that, the encirclers unleashed a war cry and charged.
+
+Rhys shoved Ryota back and charged in return, and the two forces clashed.
+
+Now that he knew that this whole conflict was actually very stupid, he couldn’t actually bring himself to kill these men, even if he was incredibly embarrassed about his own behavior. He could at least use the excuse of reasonable self-defense and de-escalating a situation to kind of justify the first two killings, but killing any more would just be completely unreasonable. So, instead of kill them, he just let The Hunger suck their impurities out, then knocked them out while they were incapacitated by the pain.
+
+It really wasn’t much of a fight. The men on the beach had been at his level, but these guys were barely Tier 5. They qualified, but it was a stretch. Honestly, Rhys probably could’ve made them all bow from his aura alone, but he was feeling too ashamed of himself to be that tyrannical on top of everything else.
+
+At last, he dusted off his hands and stood, gesturing to Ryota. “Come on, panty-raid man. We’re going to get ourselves some frou-frou drinks, and you’re going to tell me exactly what’s going on here.”

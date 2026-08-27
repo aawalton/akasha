@@ -1,0 +1,121 @@
+---
+id: dd35b71a-6a67-5cea-8d6e-d0e3d06ca5ef
+page-type-slug: story-chapter-royal-road
+title: "255. Feeding Time"
+slug: 0255-255-feeding-time
+partOf: god-of-trash
+position: 255
+ownLength: 2154
+unit: words
+publishedAt: 2025-12-31
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2896661/255-feeding-time"
+royalRoadId: "2896661"
+---
+
+They reached the peak in no time, with no one to bar their way. The pillar was no less impure than the other two had been. Rhys and The Hunger competed to absorb the most impurities, with The Hunger possessing a near-boundless, well, hunger for them, and Rhys’s trash star running low after he’d spent so much to forge The Hunger. This time, the pillar vanished almost before Rhys knew it, what with him and The Hunger splitting the load. He leaped off, rushing toward the fourth peak.
+
+It wasn’t that he’d forgotten that Tier 4 people could fly. It was just that he didn’t want to reveal his strength level. If he went flying around everywhere, idiots like those mages who had fallen to The Hunger wouldn’t charge him recklessly and die. They’d be slower to attack, or they might plot and set traps, or immediately launch their ultimate attacks from afar. Instead, if he ran around like a Tier 3 or lower mage, then no one would think anything of him, and they’d attack and die like fools.
+
+Plus, there was no elegance in just flying around everywhere. He didn’t know what to do with his hands and feet when he was flying. He didn’t have to think about it when he was just running around. Then he had to use his hands and feet to run, and he could just look like he was running, instead of trying to figure out if he should glide elegantly at a lie-down, fly around like Superguy with his hands straight out, or stand up and fly around upright, which seemed like the worst option but also maybe the most normal? It wasn’t like lying helped him fly, or anything. He could fly at any angle. Standing, sitting, lying down, even upside down and backward, if he really wanted, and that was a lot more thinking than he liked to do for his mobility.
+
+The second he reached the base of the fourth and final peak, he came to a halt. Something was different about this peak. Even without scanning it with his senses, something told him he was in danger. All the hairs on the back of his neck were standing on end, and he felt fear like he had rarely felt since he’d reached Tier 3, let alone 4. He extended his mana senses, filth senses, all of them, and sensed—nothing. Not a single living thing remained on the peak. No students, no protectors, no schoolmaster. The barrier was broken, and though the other peaks had glittered here and there with low-level artifacts that didn’t deeply interest him, this one was completely dead. There was nothing. Nothing at all.
+
+Rhys gulped. Don’t like that. “You sense anything funny, The Hunger?”
+
+“No.”
+
+Yeah, I didn’t expect much. In the first place, infants usually didn’t have a great sense of self-preservation, and The Hunger had just confessed that it couldn’t even sense impurities, the one thing it should definitely be able to sense. “Be on guard. Danger approaches.”
+
+In a rare moment of awareness, The Hunger asked, “Aren’t we the ones approaching danger?”
+
+“Yeah, but that doesn’t sound as cool.”
+
+“Hmph.”
+
+Rhys kept his head on a swivel as he climbed toward the peak. There weren’t bodies lying everywhere like there had been on the previous peak, nor was there any sign of a struggle. The buildings looked pristine, if abandoned. There was nothing to indicate what had happened to the people living on this peak. In fact, it looked almost as if they’d simply up and left one day, peacefully abandoning everything they’d been building up for no clear reason at all. It made his stomach twist with anticipation, and to some extent, he was expecting some kind of zombie or monster to leap out at him from behind every corner, even though he could see in his mana, filth, and cursed energy senses that there was nothing there.
+
+He tightened his grip on The Hunger, then winced as the tang dug into his palm. Turning toward his core, he sifted through his useful-trash pile until he found a few pieces of wood and a good sturdy length of leather, then bound a simple hilt to The Hunger. Naturally, the hilt instantly darkened as The Hunger’s mere presence filled it with impurities, but under Rhys’s trash skills and Trash Intent, it didn’t completely erode away. The Hunger reached out, feeling the new binding, then did the sword equivalent of shrugging, and the erosion slowed greatly, even beyond what Rhys could do to it.
+
+Rhys raised his brows. Huh. So The Hunger could control the erosion, to some extent. Interesting. Nothing else impure he’d encountered could ever do that… but then, nothing else he’d ever encountered had been impure and had a consciousness, so it wasn’t like he had a fair comparison point.
+
+At last, the impure pillar loomed before him. Rhys slowed, looking at it, then froze entirely. He stared, holding his breath, afraid to make a sound.
+
+“What? There are the impurities. Let’s eat them,” The Hunger said.
+
+“Shh,” Rhys whispered, but it was too late. It had been too late, even when he’d been being quiet, but at least he’d given the figure an excuse to ignore him as it continued working to build the final filth pillar. Now, it couldn’t pretend to have not noticed him, and it turned, slowly, abandoning its work.
+
+Contrary to his expectations, the figure was delicate, almost pretty, with clean skin and bright, clear eyes. No, wait. I didn’t do that right. It had skin so clear that if you squeezed it, dew would come out, as pale as jade, and eyes like blackest ink, with hair like silk and—and I’ve run out of overused descriptives. Come on, come on. There’s gotta be something…
+
+All that to say that the figure was extremely beautiful. At a glance, it was hard to tell whether it was male or female, since its features were so fine and fair. Long black hair fell around its shoulders, cropped around its face in a hime cut, and when it smiled at Rhys, it lit up the world around it. Its robes were the finest Rhys had ever seen, even compared to Virgil’s purple-and-gold affair, with thick cream fabric edged tastefully in gold, with gold ornaments and tassels. A gold choker held a single red ruby to their throat, which only served to further accentuate their perfect skin.
+
+Rhys realized he’d been staring—to the figure’s delight—and cleared his throat. “Soma, I presume?”
+
+“Oh my. You know me, and yet, I don’t believe we’ve met. You have me at a disadvantage.” Soma touched the ruby at his throat and smiled.
+
+“God, you’re hot. You know, the person I spoke to didn’t mention that,” Rhys told him, removing Daran’s name at the last second. It probably wasn’t a good idea to draw attention to the fact that he was kind-of aligned with the guy Soma had betrayed.
+
+“Why, thank you. Most men try to resist my charms. I like the chase… but I like an honest man, too.” Soma bit his lip, drawing attention to its perfectly ruby tones.
+
+Damn you, femboys, for being too powerful! Rhys shrugged. “No point denying it. You clearly take a lot of joy in your appearance.”
+
+“I do. And yet, though I confess that I do appreciate the compliments, I’d appreciate a name as well.”
+
+“Rhys Foundling. I don’t suppose you’ve heard of me,” Rhys said hopefully.
+
+“But of course! Rhys Foundling. You’re the talk of The Alliance, you know? My, my. Rhys Foundling in the flesh. You know, to hear them speak of you, I expected some filthy, disgusting gremlin. Instead, you’re quite palatable.”
+
+“That makes two of us, then,” Rhys said, crossing his arms. Daran could’ve mentioned something. It seemed worth bringing up, especially when Straw was pretty much just a normal-looking guy—if anything, unattractive, for a mage—and Sid, though perfectly acceptable in appearance and strikingly terrifying in a final-boss kind of way, wasn’t any more handsome than any other mage of his power. After those two, how was Rhys supposed to expect a once-in-a-generation beauty? It seemed like something to mention!
+
+Soma wasn’t his type, of course, but damn. He felt like he hadn’t been properly forewarned!
+
+“So you’re the one who’s been taking down those pillars I spent so much time on, then?” Soma asked.
+
+Rhys tightened his grip on The Hunger. “That’s right. I am.”
+
+Soma looked at him, then raised a brow. “Do you know what lies at the center of the four pillars?”
+
+“Nope, but I was excited to find out.”
+
+Soma laughed. “You know, you were supposed to find this later. This is Virgil’s grand trap for you. Set four pillars that you struggle to clear and weaken yourself absorbing, with the ultimate prize at the center… I’m sure you can imagine who.”
+
+A million options ran through Rhys’s head—Bast, Mouse, Sable, Lira, the raccoon, the rats—and he shook his head. “Nope.”
+
+Soma sighed deeply. “Ah, a life well lived, with many loved ones and connections. What if I gave you a little hint? He’s your mentor. The one who truly introduced you to magehood.”
+
+Rhys’s heart jolted in his chest. He stepped forward. “Straw?” Straw was here? Right here, in the center of the formation he was breaking at this very moment? The man he’d been looking for nearly since he’d become a mage… right here?
+
+Soma snapped. “The very same!” He paused. “Of course, the trap isn’t set yet.”
+
+Rhys’s heart fell. Of course not. Why bait a trap until it was completely set up? For that matter, why put the bait in the trap at all, when Rhys would have no way of confirming whether Straw was present or not until he examined the trap, at which point it would already be too late? He was the idiot for getting his hopes up.
+
+Unaware of Rhys’s mood swings, Soma chattered on. “And just like I told that fool, if you’re truly able to do the things he said, then pillars of impurity are no problem for you. But that big-headed idiot…of course he knows better than me. Just like that stupid Demon King. Just because I’m pretty, they think I can’t understand anything…”
+
+I don’t think that’s the problem, Rhys thought quietly to himself. It probably had more to do with the fact that Remnant Weapons were, well, weapons—meant to be ordered and wielded, by their very name themselves. Sid and Straw were both compliant enough—Sid shockingly so, though Rhys still felt like he’d escaped that encounter with all four limbs and his head by the very skin of his teeth—but Soma truly had a mind of his own, and desires of his own, which clearly Daran, and now Virgil, did not truly align with. Soma wanted to be pretty, and surround himself with beautiful and valuable things—the finer things in life, like Daran had said. Virgil had clearly bought him to his side without fully understanding what that meant.
+
+Or rather, Virgil had thought it was a purchase, a transaction that had gone through and been fully processed, and that was it, when Soma clearly had seen it as a one-time purchase that needed to be continuously re-upped. To put it another way, Virgil thought he’d bought a car, but he’d only signed on to a lease, and he had to continuously pay every month if he wanted to keep the car—but he never truly owned it, even if he did keep paying, because the car belonged to the company… or in this case, had a mind of its own.
+
+The metaphor’s a bit tortured, okay? Nothing I can do about it.
+
+But the point was, Soma clearly didn’t see Rhys as the enemy, the way Virgil wanted him to. And that meant that there was room for negotiation.
+
+Rhys looked at Soma. “Do you like working for Virgil? Or would you rather work for—”
+
+“For you?” Soma asked cattishly, clearly disgusted by the idea.
+
+“—yourself?” Rhys finished.
+
+At that, Soma’s eyes lit up. He lifted a hand to his mouth, but he couldn’t hide the smile that spread across his lips. “Oh my. You do know what I like.”
+
+Rhys spread his hands. “Listen, I don’t have any problem with you, and you don’t seem to have a problem with me.”
+
+“No, not at all.”
+
+“But we both have a problem with Virgil.”
+
+“True. Of varying sizes,” Soma allowed.
+
+“Of varying sizes. So listen. What if we play a joke on Virgil instead?” Rhys asked.
+
+Soma’s eyes narrowed. “I’m not childish, like Sid. We Weapons are not all the same.”
+
+“Oh, no—of all people, I know well how different you three are. No, this isn’t a childish joke. I think you’ll approve—it’s something I’ve done before, and I’ll do it again before I die. Listen…”

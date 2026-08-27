@@ -1,0 +1,103 @@
+---
+id: 8eccf812-0c78-5d09-b983-9b1dadadc70f
+page-type-slug: story-chapter-royal-road
+title: "001: Scared and Alone"
+slug: 0001-001-scared-and-alone
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 1
+ownLength: 2266
+unit: words
+publishedAt: 2024-03-15
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1555189/001-scared-and-alone"
+royalRoadId: "1555189"
+---
+
+Evelyn took a hesitant bite from the suspicious looking pastry held delicately between her thumb and forefinger, warning bells ringing off in her mind at the smell and appearance of Lily’s latest attempt at baking. In an entirely unexpected twist of fate, gooey chocolatey warmth flooded her mouth as she bit down, the slightly burnt and off colour exterior of the experimental pastry hiding a masterfully crafted and rich ganache.
+
+“Ohhh my god Lily, you’ve outdone yourself this time,” she moaned with her mouth still half full yet already going for another bite, “Whatever you did differently with these pastries compared to your last disasters, keep it up.”
+
+The baker in question, Evelyn’s long time best friend Lily Carhartt, had been holding a plate piled with the questionably shaped pastries with an expectant look on her face as her latest creation was being sampled. Upon hearing Evelyn’s review, her face lit up with a jubilant smile and a gentle blush, but was soon twisted in confusion at the backhanded compliment. She ran a hand through her shoulder length auburn hair and shot Evelyn a piercing stare with her emerald green eyes, deciding if she wanted to be grateful for the praise or seek revenge for the attack on her baking ability.
+
+In the end it was the third member of their quaint summer picnic who broke the tense standoff between the two women by taking one of the pastries for himself and biting into it without restraint. There was a brief moment of near silence, punctuated by the sound of enthusiastic chewing followed by the man, Marvin, lunging for a napkin and politely disposing of the chewed up remnants of the pastry before chugging half a bottle of water.
+
+“Bleurgh. Evelyn, you’re either the most talented actress in the northern hemisphere or Lily has somehow managed to conjure up a magical filling that changes flavour depending on who eats her pastries. I thought I was biting into a fresh pile of horse manure!” he exclaimed.
+
+Lily looked between her two closest friends and the people who were most regularly subjected to the role of taste testers, Evelyn’s shiny black hair dancing in the breeze as she failed to hold herself back from cackling at Marvin’s plight while the olive skinned man in question wiped sweat from his brow and reached for a sandwich to clear the unpleasant taste of her pastry from his mouth. She desperately wanted to slap them both around the head, but before she acted in haste, she grabbed one of the pastries and raised it to her mouth.
+
+Not letting the crispy black coating deter her, she bit down into the rather phallic looking sweet treat and nearly retched as a bitter and acrid paste squirted onto her tongue. In a decidedly unladylike manner, she spat the mouthful of foul tasting filling onto the nearby grass before finishing the remainder of the bottle of water that Marvin had just used to similar effect.
+
+Noticing how dejected Lily had become after realising her failure to produce an edible item for their picnic, Evelyn put an arm around her shoulder and tousled her hair, much to the woman’s annoyance. She hated having her hair played with and Evelyn knew it.
+
+“Cheer up Lil, you managed to make at least one pastry that didn’t induce food poisoning this time. Compared to your usual total of zero, I’d say that’s cause for celebration,” she said.
+
+Lily rolled her eyes and playfully shoved Evelyn away while Marvin giggled, spraying spittle and breadcrumbs at the two girls who responded by pelting him with grapes until he finally gave in and apologised. Their joyful afternoon was suddenly cut short when the crystal clear blue sky suddenly turned black, the light of the sun swallowed as it was replaced by an ominous abyss and some particularly dramatic park goers near them even began screaming. A cold and robotic voice boomed from the sky above, like a declaration from the heavens.
+
+Grace period for Planet 3010S.63 has concluded, all inhabitants will be inducted into their Local Tower effective immediately
+
+“What the hell was that voice?” Marvin asked, “What did it mean by ‘grace period’ and what’s a local tower?”
+
+“How the hell are we supposed to know, you wimp,” retorted Lily, “I think we should head back to your place Evelyn. I don’t want to stay out here in the dark, especially with that creepy voice in the sky.”
+
+She was about to voice her agreement when a sharp pain pierced her mind, like a hot needle stabbing into the base of her skull. Evelyn could feel her vision going blurry and her grasp on consciousness slipping away from her. Struggling with all her might to stay awake, she saw her friends collapsing onto their blue and white chequered picnic blanket; first Marvin, then the petite Lily. Despite her concentrated effort of willpower, Evelyn was powerless to resist whatever was dragging her to torpor and her mind soon faded into darkness.
+
+~~~
+
+Evelyn awoke with a start, scrambling upright and looking around to see if anything had happened to her or her friends while she’d been under the effects of the forced sleep. The first thing she became aware of was that her surroundings had changed; no longer was she in her local park, but instead had found herself on the rough stone floor of a dimly lit room.
+
+Where the hell am I? Did someone kidnap me while we were unconscious? I hope nothing happened to Marvin or Lily.
+
+The absence of her best friends was the second thing she’d noticed after standing up and dusting off her summer dress, a figure hugging thigh length number decorated with red and white roses that helped little against the chilly breeze that assaulted her from the darkness in the corners of the room.
+
+As a child, Evelyn had always been terrified of the dark, always needing her father to make sure the hall lights were on and her door left ajar before she could fall asleep. She thought she’d outgrown such childish notions, but the deep and sinister darkness at the edges of the room that drank in the light from the single brazier that was beside her threatened to rekindle that old phobia.
+
+What am I supposed to do here? This brazier seems to be fixed in place and there’s no materials to make a torch nearby, yet without exploring beyond my immediate surroundings I won’t be able to make sense of this predicament.
+
+It was then that Evelyn was reminded of the robotic voice that had rung out from the sky back before she’d lost consciousness.
+
+Is this dark room the ‘local tower’ that the voice mentioned? Should I be looking for a staircase or a ladder then, in order to escape?
+
+Her thoughts were interrupted by the sound of something scratching against the stone floor and the gentle pattering of what sounded like dozens of tiny feet. She turned to the source of the sounds and her heart jumped into her mouth when she was greeted by dozens of dirty, malnourished rodents, their eyes glowing red as if consumed by madness. As if her day could get any worse.
+
+“Rats,” she gasped. If there was one thing Evelyn was afraid of more than darkness, it was rats. The flea bitten, sewer skulking vermin were everywhere in New York City and she’d been scared witless on more than one occasion by one of the gigantic scavengers jumping out from a trash heap or in a subway station.
+
+Along with the veritable horde of rats that were edging closer by the second and was making her skin crawl, goosebumps running along her arms, she noticed a strange screen floating in her vision, displaying a counter and an… instruction?
+
+Essence: 0
+
+【KILL】
+
+Turning back to face the rats, her worst nightmare in physical form, Evelyn forced a few deep breaths to calm her nerves. It seemed like whatever mysterious power had ripped her from her peaceful life and thrust her into this cold, ominous darkness wanted to see her suffer.
+
+Even if she was able to find the strength to quash her fears and take on the miniature horde, how was she supposed to kill a rat with her bare hands? Backing away from the approaching vermin, she stumbled on something and fell on her backside, grazing her hand on the uneven stone floor. The first of the rats was just a few centimetres from her foot now, and something told Evelyn that she was on the menu today.
+
+Desperately scrabbling for anything that could help her defend herself, her hand knocked into something jagged and hard that clattered across the ground. Reaching out and grabbing the object, Evelyn saw what it was - a plain old rock. She jerked her leg back as the hungry rat started to gnaw on her trainers, making rapid work of the soft material.
+
+You can do this, Evelyn. Just pretend it's a game, or a dream. If you just kill those rats you might have a chance to see Lily and Marvin again. Compared to one of Lily’s toxic pastries these filthy vermin are nothing.
+
+After psyching herself up to take action against her frenzied pursuers as more of the bloodthirsty rats reached her and moved to surround her, Evelyn pushed herself to her feet and kicked out with all her might at the nearest rodent, sending it flying into the pack where it barrelled over a few of its kin before rolling to a halt. Unfortunately, her lack of strength meant that while injured, the rat was not defeated and after shaking off its injuries, charged at her once again.
+
+Another rat, perhaps sensing her fear and hesitation, jumped from the surging pack, sailing through the air towards her vulnerable face with its claws wide and mouth wide, ready to bite. Evelyn froze, despite knowing that even a moment’s indecision could spell death for her, a lifelong fear of the creatures wasn’t something she could overcome easily.
+
+Panic threatened to overwhelm her mind as her breathing hastened, the rat drawing ever closer as the time seemed to slow down around her. It wasn’t alone in its reckless assault, the rest of the horde scrambling over each other and the rocky ground in a race to reach her pink and tender legs and take the first bite.
+
+Dirty, matted fur hung loosely on the rat’s skeletal frame, the creature clearly starved without prey in this empty cavern. Its glowing scarlet eyes were filled with fury and hatred, driven by a single minded devotion to devouring the human that had appeared in its nest. Evelyn bit down on her own tongue sharply, the disconcerting pain snapping her out of the budding panic attack before it was too late.
+
+Gripping the jagged rock as tightly as she could, Evelyn swung at the incoming rat with every ounce of force she could muster and was rewarded with a satisfying squelch as the beast’s soft head was crushed by her blow before flying into the rest of its kin who promptly moved to devour their fallen brother. Moving quickly she stomped on the closest rat, which had been leading the charge and was too focused on her to engage in senseless cannibalism.
+
+A brief glance at the ever present screen, her only companion in the darkness, showed her that killing the rats had rewarded her with essence. A grand total of 2, meaning each of the creatures was presumably worth 1 essence. The instruction remained unchanged, still telling her the only way she would be able to move forward in this nightmare - ‘KILL’.
+
+Another rat launched itself at her without considering the consequences and having made the first steps towards overcoming her fear, Evelyn did not hesitate this time, the unfortunate rodent meeting a similarly grisly fate as the previous challenger. An enterprising member of the horde had taken advantage of the distraction to dive at her leg, drawing blood as its teeth sunk into the soft flesh of her calf.
+
+Evelyn winced at the sharp pain of the bite, shaking her leg in a clumsy attempt to throw off the rat, but it refused to budge. Unwilling to have the filthy creature hanging from her a single moment longer, she brought the rock down on her own leg, crushing it between the makeshift weapon and her tender muscle. It would probably leave a nasty bruise but it was better than the alternative.
+
+Another heavy stomp flattened a sneaky rat that had tried to split from the pack and approach from the side, unable to escape Evelyn’s detection. A glance downwards informed her that there were still around twenty of the detestable beasts left and her arm was already starting to ache, unused to such intense and continued exertion.
+
+Somehow, nearly fifteen minutes later, Evelyn collapsed to the ground having smashed the skull of the final rat into paste, her rock bathed in the blood and guts of 25 rats, a number she had been able to track thanks to the essence she’d accumulated during the intense battle. Her arms and legs were covered in bite marks, scratches and blood, a mixture of her own and that of the relentless rodents, and her muscles were aching from overuse.
+
+Congratulations on clearing the 1st Floor! Your personal Status has been unlocked and can be viewed at any time. You may purchase one reward from the following:
+
+〖Full Recovery〗- 10 Essence
+
+〖1 Attribute Point〗- 15 Essence
+
+〖Rusty Dagger〗- 25 Essence

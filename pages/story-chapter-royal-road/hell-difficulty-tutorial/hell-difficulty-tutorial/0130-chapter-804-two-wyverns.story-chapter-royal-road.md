@@ -1,0 +1,163 @@
+---
+id: 89a7e39b-2d2f-5dc9-85eb-01806a2a4c7e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 804 - Two Wyverns"
+slug: 0130-chapter-804-two-wyverns
+partOf: hell-difficulty-tutorial
+position: 130
+ownLength: 2565
+unit: words
+publishedAt: 2026-05-13
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3392422/chapter-804-two-wyverns"
+royalRoadId: "3392422"
+---
+
+POV The Cerulean Parlor
+
+About three dozen Handlers are sitting about in a cozy-looking lounge with a huge fireplace, and a floor covered in thick fur pelts.
+
+This time, they’ve gathered for a rare opportunity to watch what’s happening inside the tutorial without needing to skirt around the rules. It’s the sort of thing they usually have to work around or get records of long after the fact. Now, they get to watch it as it happens, all thanks to the Ruler of Lust, who is present and sharing the view of her floor.
+
+“Princess, I also think it was quite unpleasant to watch what that animal did to you. By the way, is that a new haircut? It’s beautiful,” says a woman whose body from the waist down is a spider, complete with its own head. Her voice carries a smile and a strange sort of charm.
+
+The Ruler of Lust smiles back at her. Her hair, eyes, and wings are all black, and she’s dressed in a sleeveless red dress.
+
+“Thank you, my dear. And yes, I got my hair cut just a few days ago. It’s been really trendy on my planet,” she leans back in the special chair that doesn't restrict her big wings and crosses her legs. “And yes, it is a shame, but I myself know how cute and weak I used to be before I got my precious baby. Since then, a lot has changed.”
+
+“I think it is possible the weredeer was stronger than it should have been, wasn't it? The last floor they cleared had a higher difficulty and fewer restrictions than yours,” the spider woman continues, her voice polite and soothing.
+
+The Ruler of Lust seems to like the observation and nods. “That must be it, though we all know how powerful that brute's bloodline is. But who knows, maybe he will be mine one day as well,” she laughs.
+
+That causes the Ruler of Kindness sitting nearby to chuckle, and the Princess furrows her brow, deciding to ignore her.
+
+On the screen, they watch the baby wyvern hatch. It lets out a call that spreads through the planet and then rises to face the group arrayed against it. There’s barely any hesitation in that tiny creature. Wyverns are just born like that. Always looking down at every other living thing. It doesn't even consider the possibility of talking or creating any sort of mutually beneficial relationship. Instead, it attacks on a whim with the intent to kill.
+
+“I almost forgot how cute he used to be when he was just a baby,” the Princess sighs. “Now I can’t even carry him anymore.”
+
+She is about to say something else, but a murmur starts when the barrier weakens the white lightning. The blonde woman deflects the rest with her own, even though it burns the entirety of her arm.
+
+“Her lightning must be very pure to be able to do that much,” one of the Handlers says.
+
+“It was against a newborn wyvern, it should not be considered that impressive,” another one muses.
+
+“I know, but she only holds Primordial lightning. It shouldn’t be able to do even that much against that.”
+
+“Silence, you two. He is using-”
+
+That man gets interrupted by the Ruler of Kindness. “He is using black mana. Remember, that’s the name.” The way she smiles makes the others nervous, but they force a smile back and quickly nod.
+
+“...he is using black mana again,” the Handler completes his sentence. “I was curious how it would stack up against the white lightning ever since he had his clash with Lyraen.”
+
+They watch on the screen as the domain expands. A man with a cold expression moves, and his vessel follows his movements. His mind controls all that mana, and the vessel channels it. Black orbs move all across the field, creating barriers to block the white lightning that the wyvern is beginning to master at an incredible pace with bursts of white sparks.
+
+The Ruler of Kindness, sitting on the couch, allows her body to slide down until her head falls on the legs of the person she’s seated next to. Her golden hair spreads over them like a brilliant waterfall as she looks up at the woman.
+
+“What do you think of your ward?” she asks. “How does he compare to the Ruler of Greed, said to be the most powerful combat mage since Lissandra Hawthorne?”
+
+The Ruler of Greed doesn't look at the screen, nor the other Handlers, nor even the other Rulers present. She just looks down at her friend. “He’s still not enough.”
+
+“I think you’re lying.”
+
+“You can think that. And what is your opinion of him?” After only a second, she adds, “Lady Kindness?”
+
+“I like him. He should rely on his black mana even more, allow it into his body, and let it turn him into a monster, hopefully one just as powerful as the Empyrean Thaumarch once was. Did you hear that Pride said the Thaumarch was the strongest person he had ever faced?”
+
+“Was that before or after his duel with Lissandra Hawthorne?”
+
+“I haven’t spoken to him in a long time, so who knows? Maybe Lissandra stands higher in his opinion.” Kindness laughs playfully and turns her head to the side to watch the screen before addressing everyone in the room. “I noticed not many of you have spoken of that man’s adorable little bond.”
+
+This time it’s the Princess who speaks. “I agree that he is cute, and while his Pantophagic primordial energy is powerful, what can he actually do here?”
+
+“Princess, isn’t that the primordial energy that one clan of wolves also has?” one of the Handlers asks.
+
+The Ruler of Lust smiles at the woman, asking, causing her to blush and look away. “Yes, the descendants of the World Devouring wolf. Though sometimes beings outside of their clan appear with Pantophagic energy. I wonder why the system hasn’t given out a quest to erase them as it did with the Empyreans. But look, my cute little murderer is back.”
+
+As she says this, multiple Handlers chuckle. The spider woman on the side smiles for a short moment while watching the screen, though her spider head remains turned toward where the Ruler of Kindness lies on her friend’s legs.
+
+The weredeer’s appearance causes the fight to stop. Everyone halts, and no one makes fun of it. Many of them remember their first meeting with an Absolute who wasn't restricting their pressure.
+
+Yet, through all of that, a single man moves. His steps are slow, almost unhurried, as he moves in front of everyone else.
+
+“What an incredible body and mind,” one of the Handlers whispers with admiration. “If not for Nyssa or Christoph, he would’ve been the greatest attendee in the past thousand years.”
+
+“And what a smile,” another one says, and a few of them chuckle, throwing in similar words.
+
+“I still think Lyraen shows more promise. And some of the overlooked S ranks that completed their tutorial have been doing really well. Have you heard of Ozlashaktralq? He’s almost an Absolute now.”
+
+No one seems to worry much about the people on the screen or the chance they might die in the next moment. Many of them have already had their fun watching this curious new development. Some of them, perhaps, are even hoping for the people on the screen to die so their own wards will have better opportunities in Beyond. Others might have already placed bets, sure to win them plenty of shards.
+
+But their words stick mid sentence as the small corgi moves ahead. The primordial energy he’s been raising flashes forward with a strength like never before. The weredeer disappears, and the corgi follows, causing an eruption of multiple conversations as groups explode into excited chatter.
+
+“...Did he damage the tutorial’s structure?”
+
+“Very pure Pantophagic energy can do that, though at a high cost, but even the members of that wolf clan avoid using it to such an extent to avoid triggering the eradication quest from the system. The poor little thing either couldn’t control it or must have been desperate.”
+
+“He’s probably gone. Is he dead?”
+
+“If he didn't, his mind must have been destroyed by such an abuse. Or at least that energy devoured part of him, I’ve heard of such cases.”
+
+“It damaged the tutorial’s frame. The Ruler of Diligence is going to be angry.”
+
+"The system’s probably fixed it already and adapted against such cases in the future, making the energy weaker. The system can be slow to adapt to such unique powers that aren’t used much. Give it some time, and it will suppress that energy to the level of the common five. In the end, it was just a tiny hole in this instance of the tutorial, and it was only there for a fraction of a second anyway." One handler flatly explains, though he hasn't spoken until now, a lumoran whose limbs are all made of crystal with mana bouncing around inside his visible bones.
+
+“I bet a million shards that the cute creature is dead.”
+
+“Two million shards. It's alive, but it’s crippled, and its mind is broken.”
+
+“Three million shards, it will…”
+
+The Ruler of Greed tunes them out as she observes the Ruler of Lust, who stands with a flashy smile. Greeting everyone else and even bowing toward the Ruler of Kindness, then Lust hurriedly leaves.
+
+It seems the Ruler of Greed knows what is happening or where she went and seems intent on following her, but she is stopped by the blonde resting on her knees.
+
+“There is no need,” the blonde mouths.
+
+It causes her friend to furrow her brow, but she stays and settles back.
+
+With the weredeer gone, the view on the screen shifts to where it had been before, but before it can return, it pauses and shifts to the south.
+
+The ground erupts as something colossal pulls itself from the depths, a wyvern resembling the hatchling, yet scaled to a terrifying, incomparable magnitude.
+
+This is the source of the domain currently suffocating the planet. While wyverns are well known for their searing white lightning, they are equally feared for their mastery over various domains.
+
+The beast instantly senses its offspring’s presence, but its path is blocked by the opponent that appears in front of it.
+
+A long time ago, it would have squashed that being in mere seconds, erased it from the face of the world for daring to stand in its way. But not anymore. It’s old, dying. Woken by the call of its offspring, it climbs from the place meant to become its tomb.
+
+Even so, it looks down at the creature facing it and spreads its torn wings wide, space itself shaking around it. It knows it won't be able to track the cry of the hatchling without dealing with the opponent in front of it.
+
+The screens are now maintained by Kindness after Lust’s departure. And just as the Handlers begin to bet on the fight, she switches the view back to the group facing the hatchling. Even though disappointed, none of them dares to complain too much.
+
+"I had hoped they would have killed the hatchling by now. I bet that would’ve made the mama wyvern very angry," one of the men says. His body is covered in fur, and his face bears animalistic features slightly reminiscent of a bear. Despite this, he wears a pure white suit.
+
+"You’ve been hoping for that ever since the egg cracked," the spider woman reminds him gently. "Plenty of time still remains, though, and I bet the mama wyvern would’ve sensed if it had gotten hurt and pushed through the weredeer."
+
+The bear-man dismissively waves his hand. "Just look, they’re already holding back. That annoying little empath told them to. Why does she keep crying?"
+
+The spider woman speaks as she continues to observe the fight. "Isn't it because the hatchling destroyed one of the twins? It is very impressive. No wonder Lady Lust rose so fast after taming it. What surprises me is how the others are holding back. I would’ve expected them to have killed it by now, they seem capable of doing so."
+
+"Because of that annoying empath, they knew the mama wyvern would come and have decided to ruin my fun by not doing so," the bear-man sighs, but continues to watch the screen.
+
+They watch the rest of the fight, which turns into an attempt to contain the baby wyvern. As they hold it down, mostly through the effort of the man with two differently colored eyes, some of the others try to kill the hatchling, causing the man to block their attacks wordlessly.
+
+Multiple people in the Cerulean Parlor compliment the way he contains the creature and defends against its white lightning. They also note the way he blocks all attempts at communication the hatchling makes to call for its parent. After observing it only twice, he seems to have devised a method to silence it.
+
+He and the hatchling constantly clash in a way where a single mistake, a single slip-up, or the wavering of a tired mind would allow the creature to break through. His black mana continues to flare up constantly, pulling further into the area and feeding on the ambient mana. The vessel behind his back grows in size, pressing against the barrier stacked around the hatchling and catching rays of white lightning.
+
+There are bets on how long he’ll be able to endure, with many guessing just ten minutes as the hatchling continues to grow and learn at a rapid pace, soon to reach the level of a Champion’s power.
+
+He endures for over fifty minutes.
+
+The hatchling finds itself incapable of doing anything. It cannot break through, it cannot mimic his black mana, and it cannot develop the mana control necessary to shatter the man’s ability. In the end, for the first time, it shows fear, pulling back to the far side of the barrier and away from the man whose gaze hasn't changed once. Not when one of the twins exploded in a bolt of white lightning. Not when the others threw themselves forward to kill the hatchling, or when his bond disappeared.
+
+It doesn't even seem as if he has blinked since.
+
+That same expression remains even when the entrance to the next floor opens, and everyone else leaves with all the items they can carry. Finally, the barrier around the hatchling disappears.
+
+It cries for its mother multiple times into a world that seems to be falling apart from the fight, far away. The tremors intensify in reaction to that call, and the man lets it happen.
+
+The arms of the black vessel behind him move and grab the hatchling, even as the creature surrounds itself with a cloak of sparking white lightning that punches holes into the vessel and burns through mana.
+
+The man forms a spear of blood in his hand and stabs just once, straight through where he senses the beating heart of the hatchling.
+
+Without so much as a glimmer of satisfaction or any other cruel emotion, he walks away, leaving the hatchling and even his vessel holding it behind as he steps through the portal, which closes to the cries of a distant, dying wyvern.

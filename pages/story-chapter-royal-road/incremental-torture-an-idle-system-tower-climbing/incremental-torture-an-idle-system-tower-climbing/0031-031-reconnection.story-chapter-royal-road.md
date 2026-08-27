@@ -1,0 +1,213 @@
+---
+id: 15999e4e-60e5-55c2-9e75-e6fbac71f6f4
+page-type-slug: story-chapter-royal-road
+title: "031: Reconnection"
+slug: 0031-031-reconnection
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 31
+ownLength: 2256
+unit: words
+publishedAt: 2024-05-02
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1619972/031-reconnection"
+royalRoadId: "1619972"
+---
+
+Clearing the 13th Floor had unlocked a new function of the chat system. Before, it had only been able to communicate with other members of a party. Since Evelyn no longer had one of those, it had fallen to the wayside. However, with the latest reward, she was eager to dive back in. And it wasn’t just her.
+
+For the first time since arriving at the tower, every single member of Earth’s population. Or what remained of it, at least.
+
+The tower had taken its toll, and that meant just a fraction of humanity was left. That didn’t stop them from babbling away, however.
+
+Local Chat
+
+DAV: Holy crap?! We can talk with everyone now. This is great
+
+KingOfTheTower: I bet I have the best skills
+
+Delilah: No way. With a name like that, I bet you’re an overconfident manchild.
+
+DarkShinobi: The weakest warriors speak the loudest.
+
+KingOfTheTower: shut it, weeb.
+
+…
+
+For the most part, it was inane nonsense. Evelyn had no desire to waste her time reading through petty arguments and people asking silly questions and waving their egos around. It wasn’t all useless, however.
+
+A few people had made some interesting deductions about the tower, such as where it had come from and what its purpose was. Evelyn’s own theories aligned with a few of the others’. Some however, were crazy. One man even claimed that gods had put them in the tower as some kind of game show. There had been moments where it felt as if her suffering was on display, but that would be ridiculous, right?
+
+Regardless, the fact that all of humanity now had the ability to communicate was a blessing. People could share information about skills and attributes as well as the floors of the tower. It meant less people would be going into challenges blind. Evelyn was somewhat selfish in that she prioritised her own survival over everything else, however that didn’t mean she wanted to see the rest of her species be wiped out by the tower.
+
+That wasn’t the first thing on her mind, though. There were a few people Evelyn wanted to talk to. Her message might get lost in the sheer deluge of nonsense that was being uttered every moment, but she would try.
+
+As many times as it would take.
+
+Local Chat
+
+Eve: K, ANThea - did you both survive?
+
+And she wasn’t the only one sending a similar sort of message. In fact, most of the people talking in the local chat were trying to reconnect with friends, family members or their old parties.
+
+Oh!
+
+It was then she realised what an idiot she was. Kayla and Anthea had been at the forefront of her mind, but with the advent of this new chat, there were four other people she was desperate to talk to. If they were still alive, that is.
+
+But she was hopeful.
+
+There wasn’t time to begin crafting another message before she received a response. It was the person she had expected to reply first, given they seemed to clear the tower at a similar rate - terrifyingly fast. Then again, there were plenty of people in the local chat who must have also cleared the 13th Floor, so among all of humanity it seemed Evelyn still had a way to go before reaching the pinnacle. The flames of challenge flickered in her chest once more.
+
+Local Chat
+
+K: Took you long enough, darlin’. I was beginning to think you were dead.
+
+Eve: I took the scenic route. The tower is rather beautiful if you take the time to appreciate it.
+
+K: I agree. The deadlier something is, the more beautiful too.
+
+ANThea: I’M HERE TOO!
+
+KingOfTheTower: Cringe
+
+Delilah: Shut up, asshole.
+
+Evelyn let her mind wander from the chat as the others started to interrupt and drown out any replies from Kayla and Anthea. That was fine, though. She’d obtained confirmation that the two of them were still alive, for now. It wasn’t just them, either.
+
+Anna and Reece were somewhere in the tower, doing their best to advance. However, she hadn’t bonded with them as closely as the other two women. There was no need to try and reach out. Instead, she decided to try and figure out if her parents and friends were alive. There was one big problem with that, however.
+
+Her name.
+
+Eve wasn’t a nickname she had used much back on Earth. At all, really. Even in school, she had preferred to use her full name rather than let any diminishing of her identity from classmates stick. People had names for a reason. Unless they decided to shorten or change them on their own, it was just good manners to use the whole thing. That was what she thought, at least.
+
+It was entirely possible, then, that Lily, Marvin and her parents wouldn’t recognise her messages - even if she called them out by name. After all, her friend’s names weren’t rare. Neither were her parents' names if she was being honest. Anthony and Jess. A byproduct of her grandparent’s attempts to assimilate with American culture when they moved to New York City in the sixties. But, she wouldn’t let that deter her.
+
+Local Chat
+
+Eve: Lily Demos, Marvin Haines, Jess and Anthony Han. If you’re alive please respond. This is your favourite little menace.
+
+I always hated it when mum called me that. But, somehow it feels appropriate right now. I can’t think of any other way to get their attention better. Let’s hope at least a few of them made it.
+
+So, she waited.
+
+Evelyn didn’t tear her eyes from the local chat for almost six hours. She repeated her message at regular intervals - every fifteen minutes. However, the situation seemed dire.
+
+It wasn’t hopeless, though.
+
+There was a solid chance that the reason they weren’t replying wasn’t because they were dead, but rather that they had yet to clear the 13th Floor and unlock the local chat. That was what she told herself as reassurance, anyway.
+
+The rational part of her mind wanted to wait out the rest of the twenty-four hours before the portal to the next floor closed itself. However, she needed a distraction. This had been weighing on her mind since she first arrived in the tower. It had been easy to convince herself that those she loved were still alive when it had just been a matter of simple faith. Now that she could get a definite answer, though, the worst outcome was a far more real possibility. She needed a distraction.
+
+So, rather than spend the time crafting or figuring out skill combinations, Evelyn advanced. Not using every bit of essence to prepare herself was a rash decision. Especially when she had already struggled a little to clear the 13th Floor. But, such concerns were the last thing on her mind.
+
+Which was why, when Evelyn found herself in a familiar cavern, she couldn’t help but smile. It was exactly what she needed right now. As the first of the horde of train-sized rats bore down on her, she activated Overpowering Spirit and let out a mighty yell. It was so ear-splitting that the monster was stunned for a moment. That was its downfall. Evelyn charged forward in a flash of flame and a crash of ice that left it naught but a charred, frozen corpse. And it wasn’t the only victim.
+
+More and more overgrown rodents went the way of the first. They weren’t helpless. No, these were colossal killing machines with claws and fangs that could tear through prey. But, they had encountered an even deadlier predator. An angry woman.
+
+And, ask anybody who has had the bad luck to face the wrath of one of those - it’s utterly terrifying. It only took her twenty minutes to clear the cavern of its rodent infestation. It had been cathartic. Evelyn felt far more relaxed after her slaughtering spree. She recognised that it wasn’t a healthy coping mechanism. And yet, it wasn’t as if she could just call her therapist. Or could she?
+
+For a moment she considered sending a message in the local chat. It was a stupid idea, however. And, it wasn’t like they could have a therapy session with thousands, if not millions of other people listening in.
+
+God, what am I even thinking about? I need to keep my mind distracted right now or I might actually go insane. I just need one of them to respond. If even one of them is still alive, it means that all my struggles had meaning. It means I didn’t kill those people for nothing. Otherwise, what have I been doing here except growing my own power through murder?
+
+Congratulations Challenger, you have cleared the 14th Floor! You may purchase one reward from the following:
+
+〖1 Attribute Point〗- 85 Essence
+
+〖Grey Star〗- 68 Essence
+
+〖Common Skill Crystal〗- 120 Essence
+
+〖White Star〗- 3750 Essence
+
+The gains from White Infusion were becoming less impactful each time, but it was still worth it. Evelyn purchased another white star. She had plenty of essence after all. It wasn’t from clearing the challenge, either.
+
+No, that wouldn’t have garnered her even two thirds of the essence to take that reward. Instead, it was just her own personal income that let her afford to keep amassing white stars. That wasn’t the only boon.
+
+Spendthrift had activated, giving her another free attribute point which she tossed into fortitude without a second thought. So many of her skills now synergised with each other that it made sense to feed the ever increasing feedback loops. In fact, Evelyn could see a future in which her attributes, skills and stars just kept providing multipliers to each other in some kind of infinite way that made her unkillable and far too strong. Not for a while, though.
+
+It wasn’t all depressing, however. The first white stars had arrived in the local shop. Perhaps some of the front runners had gotten bored of them, or didn’t have the necessary skills to provide the synergy between white and grey stars to make them worthwhile. The price was much lower than the one she had just obtained, too.
+
+Evelyn was now regretting her decision not to wait on the previous floor to let her income build up. Then again, even if she had it wouldn’t change much. It’s not like she would have the essence right now. She also purchased a few more skill crystals, hoping to finish the set of attribute multipliers. Though she recognised that if skills were based on her actions, it might take some more investment in speed and stamina to prompt the tower to offer them. First, she checked on her new income.
+
+Essence: 205『+7216 / 5:59:13.5 hours』
+
+~~ Stars ~~
+
+Grey: 148
+
+White: 7
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】
+
+It wasn’t lost on her that despite all her progression, she still had yet to shave an entire minute off the timer of her stars. Of all the facets of her income, it was the most frustrating. Then again, if she had focused on amassing more grey stars rather than getting the white stars, that could change. When she earned her next small fortune, it would be her first priority.
+
+First though, she had some skills to obtain. The dust ran through her fingers as she crushed them.
+
+I can’t believe I tried to eat the first one of these I got, back on the 3rd Floor. I wonder if the uncommon skill crystals would be edible, too? Resist the temptation. You’re not a worm. Don’t eat rocks.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Outnumbered (Common) - Receive a slight buff when facing more opponents.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Star of Power (Common) - Multiplies your stars’ production for every point in your power attribute. Base multiplier is 1.00x , increasing by 0.02 per point in power.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Impregnable (Common) - Every 10 points of fortitude give you +1 to the attribute.
+
+Common Skill Crystal has been consumed! You have received the following skill:
+
+Stargazing (Common) - Reduce timer for all stars by 0.1 seconds per star owned.
+
+Sometimes, the tower was pretty generous. With that, Evelyn now had another multiplier to her income - which was due soon - as well as enough copies of Stargazing to fuse it to the Rare tier. So, she sat down and got to work.
+
+It was then that something incredible happened.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.5
+
+|Attributes|
+
+Power: 11 (12)
+
+Speed: 4
+
+Stamina: 8
+
+Vitality: 26 (31)
+
+Mana: 25
+
+Fortitude: 48 (71)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Rare), Bulwark (Uncommon), Bulwark (Common), Stargazing (Uncommon), Stargazing (Common), Assassin’s Eye (Uncommon), Bargain Hunter (Uncommon), Bargain Hunter (Common), Backlash (Uncommon), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Uncommon), Capital Gains (Common), Pugilism (Uncommon), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Spendthrift (Uncommon), Solar Fusion (Uncommon), Salvo (Common), Corruption Resistance (Common), Focus (Common), White Infusion (Common), Flame Affinity (Common), Star of Fortitude (Uncommon), Star of Vitality (Common), Star of Mana (Common), Shining Brighter (Uncommon), Outnumbered (Common), Star of Power (Common)
+
+~Active~
+
+Fists of Frost (Uncommon), Mana Plate (Uncommon), Conjure Rock (Uncommon), Flashfreeze Flamecharge (Rare), Starlight Strike (Common), Duel (Uncommon), Workhorse (Uncommon)
+
+~Hybrid~
+
+Overpowering Spirit (Rare)

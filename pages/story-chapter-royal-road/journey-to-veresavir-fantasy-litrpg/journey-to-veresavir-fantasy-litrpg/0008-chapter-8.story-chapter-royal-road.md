@@ -1,0 +1,235 @@
+---
+id: 08665b9a-6bca-5c63-813a-cf17b4af3cb4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8"
+slug: 0008-chapter-8
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 8
+ownLength: 3410
+unit: words
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2704294/chapter-8"
+royalRoadId: "2704294"
+---
+
+Chapter 8
+
+Veron felt hot and cold at the same time, the thrill and adrenaline of the battle present in everything he was. It took all he had not to stumble and fall as he tried to follow Ivera.
+
+She paused a few minutes later at a nondescript spot in the forest. Veron could hear his heart thumping in his head when he stopped, leaning against a tree to steady himself. It smelled of bark, leaves, and sunlight.
+
+The spot that Ivera had chosen was covered in moss, the remains of an uprooted tree embedded within bushes and younger trunks. A ditch still mostly covered in old roots lay below. Ivera laid the dead creature in front of the ditch and walked over to Veron.
+
+“You need to lay it to rest. Return it to the elements.”
+
+Veron gave her a confused look. Return it to the elements?
+
+He wanted to ask what exactly she meant. And then he remembered. The first time he had seen her. When she had asked him to wait. When she had gone and prayed in front of the dead creatures. He remembered how the world had felt, remembered the strange reverence, the calm, the wind, and the earth.
+
+He felt as if he understood. He focused and found the dizziness and weariness lessening somewhat. It was still there but it simply didn't feel quite as important anymore. He felt the moss and earth as he crouched down in front of the carcass. Moments earlier, it had been alive, had felt, had breathed, and it had fought. Now, it lay unmoving, its pulse, its breath, gone entirely.
+
+Veron gently touched the sleek black skin, feeling the cool scales against his hands. He breathed in and felt everything. The earth below, its depth and weight, the wind gently drifting through the leaves above, the warm rays of sunlight breaking through the cracks. He smelled the pines, the dirt and moss, the blood of the being he had killed.
+
+Without a word, he slowly stepped down into the ditch and then gently moved down the dead creature. He closed its strange eyes, wondering for a moment in what way they had seen the same world.
+
+Veron cupped a handful of dirt and let it fall onto the body. He grabbed another one and let it fall as well, hearing the pebbles and bits of earth patter against the scales. He continued for a while, entirely engrossed until he was done.
+
+He didn't know why he was done. He simply knew that he was.
+
+The snake was barely covered up to a third of its width, the scaled body looking out from between the roots and earth.
+
+He blinked his eyes and felt himself breathe out.
+
+The strange reverence that he had felt before was gone. All that remained was a corpse half covered in dirt. Another creature would come to dig it back up and eat whatever was left. Or it would remain here until it decayed.
+
+Veron sighed. He felt exhausted but good. A strange mix of gratitude and grief.
+
+He slowly stepped out of the ditch and rolled his shoulders. He no longer felt the dizziness from before. Ivera waited for him, a little farther back and leaning against a tree.
+
+He wanted to ask what had just happened but it didn't feel right, not yet. He felt raw and he felt as if he needed some time to let the experience rest.
+
+Ivera gave him a look and then moved back to where the other dead creatures lay. Veron waited at a distance as she settled down and lit a candle the same way she had before.
+
+He looked up at the canopy of leaves and watched the sunlight dance over the gently swaying shade. The world felt whole.
+
+And the moment passed.
+
+Ivera returned. “You did well. They're fast and dangerous.”
+
+Veron only gave her a nod. He had a lot of thoughts swirling around in his head. About the fight and more about what had happened after. He watched as she silently packed her backpack and prepared to leave. She handed him a pouch to drink which he gratefully accepted.
+
+It had been a while since water had tasted this good. “Thanks for taking care of the venom. Would it have killed me?”
+
+She stored the water pouch and gave him a slight grin before turning away. “Hard to say. My intuition says you would have survived but the problem wouldn't have been surviving but returning to the farm without encountering something else. Blood leaves a strong scent and predators like to prey on the weak.
+
+“Do you feel ready to continue? Or should we return? I don't expect you to fight again today.”
+
+Veron considered. He felt better, honestly better than he had felt before the fight. Both raw emotionally and pretty excited too. The injury itched but it didn’t feel like an issue anymore. The wounds were closed, cauterized or healed from whatever he’d just experienced, he wasn’t sure.
+
+Walking in the forest to decompress a little and process everything that happened felt like a good idea. He didn't even feel particularly strong about not having another fight. “As long as we take breaks to eat and drink. I feel okay right now but the armor is heavy.”
+
+She gave him a nod and started walking.
+
+She does this every day. Is there always a fight? Or more than one? Does she ever meet things she can't easily beat? She killed that first snake before it could even react.
+
+He followed in silence, more aware now of the noises and colors all around. He found that he felt oddly at peace. I was probably scared before, scared and excited. Both would distract me from actually being in the moment.
+
+Veron looked at his spear and at his hand. He felt confidence and pride well up, aware of the feelings and consciously telling himself that he shouldn't let them get the better of him. He had fought one thing, had survived one fight. The next fight would be different, and all he could do was meet it with the same preparedness he had the last.
+
+They arrived at a small pond, a downed tree providing space to sit. Sunlight glittered on the surface of the water as insects buzzed past. Veron didn't relax fully as he sat down but a sigh still escaped him. They had walked for a while and his muscles were aching. He thanked Ivera when she handed him a water pouch and some jerky.
+
+They ate and drank quietly until Veron spoke up.
+
+“The knife you used to burn out the poison. What was it? Is that one of your abilities?”
+
+She opened her pack and got out the knife before she handed it to him. It had a wooden handle and a one-edged blade about the size of his hand. A hunting knife. It looked well-made but not exactly special.
+
+“Essence can be used for different things. This blade is enchanted with the Essence of a being with the Harmony of Fire.”
+
+Veron looked at the knife, turning it around in his hand. He tried to focus on it and quickly felt a weak connection. It was nowhere near as deep as what he felt when feeling and focusing on earth but the same part of himself that he used to cast his magic responded. He felt as if he could fuel something and he had a good idea about what would happen. He handed the knife back to her. “It's pretty useful. Did you make it yourself? The magic I mean.”
+
+She gave him a confused look and then started laughing. “Of course not.” She looked the knife over and sheathed it. “The knife itself was made by a Devotion Path smith and the magic was added by a Runic Path enchanter. A leftover from my time in the Guard of Sor.” She looked at the pond for a few long seconds and then shook her head.
+
+“Is that what happened before? I took its essence?”
+
+Ivera nodded.
+
+Veron was quiet for a moment. He had felt it, and with everything he had learned, it was quite obvious. And still, it felt like his understanding of what had really happened hadn't quite settled yet. Maybe it never would.
+
+He checked his spear and fixed a small crack near the point, then moved on to his shield. He didn't have to use up all of his Focus to make the repairs, checking his armor as well but finding it mostly intact.
+
+“If an enchanter has to use essence from a being, how is the essence moved? Do adventurers bring back the bodies?”
+
+“No. Essence dissipates over time. The bodies are used for materials and for meat. The essence is extracted into a prepared vessel and then brought back and sold.”
+
+I see. So that's what Ian meant when he said people didn't have to kill monsters themselves. I suppose they could buy essence collected by others with those vessels.
+
+“So people can get power by buying essence?”
+
+“Raw power, yes.”
+
+“You don't like that?”
+
+“It depends. I don't expect runic paths to go out there and fight monsters but supposed adventurers, officers, nobility, sons and daughters of rich families claiming to be powerful warriors when they haven't fought and killed half the creatures needed to reach their level themselves, that pisses me off.
+
+“Don't get me wrong, they can do with their gold as they like but I've had far too many fools waste my time with their vastly lacking experience.”
+
+“So, it's like a shortcut to more power?” Veron asked.
+
+“Essence only affects your Path. It doesn't affect your Aspects or your actual experience. You can quickly tell who was given too much essence too quickly, in the way they work, fight, and often even in the way they think and talk. And don't get me started on Relics.”
+
+“I won't then, even though I'm interested.”
+
+Ivera got up. She smiled. “Some other time. Not particularly relevant for you at the moment anyway. Ready to continue?”
+
+The rest of the morning and most of the afternoon passed without them coming across any other dangerous creatures. They spotted a variety of birds and a few squirrel-like animals, all of which fled quickly once they perceived the two humans.
+
+“If you want to get experience as an adventurer quickly, then your best bet is Anvakar. It lies to the north and is the destination of a lot of both adventurers and merchants who pass through here.”
+
+“But you're saying the Grand Academy of Leiveen would be safer. And in terms of magic, I'd expect to learn more at an academy rather than as an adventurer. Have we been here before? I feel like I've seen those two trees before.”
+
+“You're more alert already, good. It takes time to become familiar with the environment. Maybe you're a natural at it. Suppose there was a reason you got the elemental path.
+
+“The Academy, I guess you could learn more about magic but what's the point if you don't know how to use it in the wild?”
+
+“I understand there's a lot of work for all kinds of aspects and harmonies. I don't necessarily have to use my magic to fight.”
+
+She gave him a long look and continued onwards through the forest. “Sure. But would you be out here patrolling the forests, already having killed a chaos beast, if you didn't intend to fight at all? Either way, if you don't have a lot of gold lying around to pay for tuition, it doesn't matter anyway. Except of course you're a prodigy. Are you?”
+
+“You tell me.”
+
+She raised her eyebrows in a knowing manner and smiled. “Now quiet, I found another trail.”
+
+Veron felt a quick spike of adrenaline, flashes of the snakes coming to his mind as he gripped his spear. He calmed himself down as they continued through the forest. The sun had long reached its zenith, already lower on the horizon by now. It was still hot but the midday heat had passed and it fell to Veron that the forest was more alive by now.
+
+This time, they only walked for around half an hour until Ivera gestured for him to stop. They had followed a slope, more and more outcrops of rock visible between the thinning trees and shrubbery. They were crouched and looking out of the tree line, earth giving way to rocky ground, the beginning of a mountainside visible beyond. Veron didn't see it at first but Ivera quietly pointed at a gray furred creature.
+
+It stalked cat-like, standing near as tall as his chest on its four furred legs.
+
+He prepared his spear but Ivera touched his hand and lowered his weapon, shaking her head slightly. She slowly raised her hand and gripped the handle of her greatsword.
+
+Veron saw the creature’s ears twitch right before he felt a strange pressure from Ivera. Before he could even turn her way, he heard the sound of boots digging into ground. He saw a flash fly forward and out of the tree line, straight at the cat-like being that turned and hissed. It jumped back right when Ivera landed, her large sword slashing out in a wide arc to the right, dark red blood tainting the steel and sunlight reflecting off the other side.
+
+Veron barely managed to take in a single breath when the creature lunged forward with its maw open, long claws extending from its paws as Ivera stepped right and slashed upwards.
+
+The creature fell in a heap, mewling as it tried to get up, its severed left front leg now hitting the ground, a broad wound showing on its chest and head. It dragged itself on the ground before Ivera walked up to it with deliberate steps, piercing her sword through the dying creature’s neck.
+
+A breeze flowed past. It was quiet.
+
+And then the moment passed, Ivera cleaning the blood from her sword with a rag she got from her pack.
+
+Veron walked out from the underbrush, looking at the dead creature and at Ivera. She had killed it in barely a few seconds. And it managed to react too, avoiding the first killing blow.
+
+“I assume this one was too dangerous for me to fight.”
+
+“It was. A Hix. A blood path beast and a hunter. If it had managed to sneak up on us, I could have gotten injured or worse.”
+
+Veron looked at the lifeless yellow eyes of the predator. “But it didn’t.”
+
+“It didn’t. They mostly have their dens in the lower regions of the mountains but sometimes hunt deep into the forests, depending on the time of year. More so in winter.”
+
+“They would attack even you? Seemed pretty smart in the way it reacted, I'd think they'd go for weaker prey.”
+
+“Blood beasts hunt as much for the thrill as they hunt for food. Or so I believe. Perhaps they wish to hone their skills, perhaps it is pride. Either way, be careful when you approach one of them, they are far less predictable than most chaos beasts.”
+
+Veron gave her a nod as she sheathed her sword and started dragging the body towards the forest. “Too dangerous to absorb its essence here. There are creatures in the mountains that even I would prefer to avoid.”
+
+Veron grabbed the severed leg and followed her, glancing quickly at the high-reaching slope leading up to jagged cliffs and peaks In the far distance.
+
+“How strong exactly are you? Can most adventurers do what you can?”
+
+“I assume that most experienced adventurers could match me.”
+
+Veron laughed. “Knowing your standards, I assume most adventurers wouldn't qualify as experienced.”
+
+She gave him a slight smile. “You are quite perceptive.”
+
+“There are levels to our Paths and to our Aspects. What should I reasonably reach to become an adventurer? And how much do the ranks differ?”
+
+“Strength doesn't make you an adventurer. Right now, you are arguably already doing adventuring work. Preparation and knowledge should keep you in areas and doing jobs suitable for your power. There are surprises and there is bad luck for sure but most people who die out there do so due to overconfidence, greed, stupidity, lacking preparation, and not enough rest. And you would be surprised how many of those people claim to simply have had a bad day. Those who make it past a few years are the ones who can learn from their mistakes.”
+
+“Any general pieces of advice for a new adventurer then?”
+
+“If any jobs or offers sound too good to be true, they are. Walk away. If a monster seems too dangerous or strange to approach, walk away. Never work alone. If any of your team members rub you the wrong way, kick them out when you're back in a town, and if that isn't possible,”
+
+“Walk away,” he finished.
+
+She gave him a smile. “Everything else, you will learn on the job.”
+
+“Including when to ignore those rules?”
+
+“Including that, yes.”
+
+Veron thought about her words as he followed her, Ivera soon stopping to set up her ritual to absorb the creature’s essence. She worked alone, didn't she? Or does she not count what she does here as adventuring work? Having seen her fight, he assumed she knew what she was doing.
+
+Was she an adventurer once? She mentioned her time at the Guard of Sor, whatever that is. Just a city guard or is it more?
+
+Ivera didn't leave the corpse after the ritual was done, instead binding it around her shoulders and taking it with her.
+
+She told him they were nearly done for the day, and that the pelt, bones, claws, and teeth would fetch a reasonable price. The meat would be tough but it was fine for a stew.
+
+“The ritual you do with the candles and the prayer... I assume that's to absorb its essence?”
+
+“Yes. Every Path has a different way to absorb the essence taken from another. I am of the Devotion Path, which requires a ritual of sorts. Far less intricate than what a Runic Path would do but the focus for Devotion Paths is in the heart and the belief.”
+
+“Do you have gods that you pray to?”
+
+She gave him a long look and then shook her head. “I no longer send them to the gods. For the creatures I kill, I honor the life they have lived and I thank them for the life they have now given me.”
+
+Veron didn't ask more questions. A ritual to honor the dead, or to honor the life that they have lived. With his own Path, he would return the dead to the elements, taking a part of them with him. He felt it was similar in thought, simply different in execution. But then, perhaps he just liked Ivera and the way she explained her ways.
+
+They encountered a few deer like creatures on the way back but neither group seemed particularly interested in disturbing the other. He was surprised that the beings didn't flee, simply staring at them and continuing their meal of grass and leaves.
+
+“They are calmer with you in my presence,” Ivera said once they had passed the group of deers.
+
+“You sound surprised at that?”
+
+“Elemental Paths are not very common amongst fighters. And many I have met have not been what I would think as true examples of your Path. But maybe you are the outlier.”
+
+Veron didn't reply and simply considered her thoughts. He supposed that humans remained humans, no matter their Path. But then, the thought posed an interesting perspective. How much of who he was was determined by his Path? Or had he gotten his Path by who he was in the first place?
+
+Perhaps a bit of both, he decided and felt content with the conclusion.
+
+The sun was low on the horizon when they returned to the fields before the Holt farm. Veron felt both relief and exhaustion washing over him. Maybe she was right and this really marked his first day as an adventurer.
+
+It had certainly been exciting, here and there. Mostly, it had been quiet, calm. It had also been tense but mostly because he felt unfamiliar with everything. One thing he was pretty sure about was that he wanted more of it.

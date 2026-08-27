@@ -1,0 +1,147 @@
+---
+id: 041f1370-0750-5232-87b4-a693d26b711e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 710 - The Party"
+slug: 0035-chapter-710-the-party
+partOf: hell-difficulty-tutorial
+position: 35
+ownLength: 2253
+unit: words
+publishedAt: 2025-12-11
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2839974/chapter-710-the-party"
+royalRoadId: "2839974"
+---
+
+After waiting for a minute in front of the doors, two burly guards step aside, allowing me to enter the balcony, if it can even be called that. It is far too huge, placed in likely the highest point in the Megacity. The size is equivalent to the area of two football fields, reaching out far enough to offer a sweeping view of the city and the lands beyond.
+
+Dozens of trees are growing from the marble floor, which is interwoven with crystalline windows, granting everyone a view of the city below. I know there are glass bridges on Earth, but I doubt they can compare. These crystal sections of the balcony make up about one third of the space and truly look as if there’s nothing at all to stop your fall. Only when disturbed do small ripples spread out like ripples on the surface of a pond, and when you stay long enough, they slowly fade away.
+
+Stepping onto one of them, I look down at the city below and stomp a few times, ignoring the condescending looks from the people around me. Then, paying them no mind, I squat and slap the transparent crystal floor several times, creating an audible noise as my palm meets the transparent crystal.
+
+I start looking around for a drink, curious what would happen if I poured water onto the floor. When I look up, I see my Handler nearby in her fake form, with black hair streaked with red and brown eyes.
+
+She gives me an interesting look, but just in case, I still ask, “Do you by chance have a glass of water?”
+
+Not even taking my question into account, she asks instead, “What is with that crown over your head? The guards didn’t want to let you in, you know that? I had to pull some strings. Your eyes, too, why are they active?”
+
+Realizing I will not get to test the liquid’s effect on the crystal, I stand up and face her. “I’ve realized I don’t really need to hold back that much.”
+
+People keep passing us, but knowing where to look, I can tell she has deployed a field that twists our words. It strips the original meaning and makes it sound like we are speaking about something else or about nothing at all.
+
+So I talk without worry. “I saw the S-ranks, the strongest of the attendees here, and walked away with one clear thought.”
+
+My Handler stays quiet, but I know what’s probably going through her head, so I continue. “You might think that I’m just being arrogant. Or that it’s my pride speaking, or that the people in Primordial Lunatics might be influencing me. You might even say I just can’t compare to people like Nyssa, and as annoying as it is, she thinks the same, and most of the others do too. I will not lie, it annoys me a bit, but I can hold myself back. I did that even during the event.”
+
+I feel the corner of my lips twist into a smile. “But I saw them fight and came to a simple conclusion. I can fight them. Winning is another matter, but damn if I won’t make sure the cost of challenging me is too high for anyone to even consider it.”
+
+As she opens her mouth, she is smiling back at me. “You might get angry at me for this, but there’s one person you remind me of more than anyone else.”
+
+“I won’t get angry for that, but never forget that I am me. I follow no one’s path, I make my own. And in this entire universe, there’s only one person I have to beat.”
+
+“And who might that be?”
+
+“Me, obviously.” I smile this time, certain of every word. “Everyone else can be reached and beaten, which would leave me without a target or a goal, satisfied and stagnant. But I won’t let that happen. Every day, I’ll keep pushing to surpass the me of yesterday.”
+
+She studies me for a moment before saying softly, “How pretty your pride is turning out to be.” With a wave of her hand, the field she created dissolves, and her tone shifts back to normal. “Do whatever you want. You never listen to me anyway.”
+
+“Maybe I do listen to you, a little.”
+
+“As if.” She steps closer, and I offer her my arm, noticing the pale red dress she’s wearing, her styled hair, and how different she seems with so many people around. “Have you noticed your guild master and her Handler yet?” she asks.
+
+“I was busy.”
+
+“Busy making a fool of yourself. Sure,” she moves to turn us toward the edge of the balcony where two figures are standing in the distance.
+
+Through all the people walking around us, I recognize Nyssa. She’s sitting on the railing, her legs swinging, with her face turned toward the inside of the balcony and the groups of people.
+
+She’s wearing a pale blue and white dress, in the same colors as our guild and the only colors I’ve ever seen her in. With her albino white eyebrows and pale eyes, and black flowing hair, she looks almost ethereal, like the sort of thing that shouldn’t exist in this world, ready to crumble under the slightest touch.
+
+Next to her stands a woman. The most beautiful woman I have ever seen in my life, and I know for sure I will not ever see anyone more beautiful as long as I live. It is hard to say what makes her so perfect because I cannot find anything that isn’t. Is it her long golden hair? Her violet eyes? The way she carries herself and her movements that seem so full of life and elegance, while making you feel like you’re watching an old childhood friend.
+
+I still recognize her, though the last time I saw her was beyond the barrier, lost in slumber. Everyone else in the room seems to know her identity as well, greeting her with the respect that rightfully belongs to one of the oldest beings in the system and one of the fourteen Rulers.
+
+“She’s Nyssa's Handler?” I ask Greed at my side.
+
+“Yes. Kindness noticed Nyssa’s talent right away and took her in. I won’t tell you more, that’s for them to share, if they want to.”
+
+“Got it.” I pause and look around the room as we start walking over to them.
+
+I am currently getting a lot of attention too, most of them glance at the black crown I’ve kept floating over my head before looking at anything else. I feed it bits of my mana while stopping it from absorbing any of the other mana in the area. And some people actually seem to realize how difficult that is.
+
+There are also, as expected, others doing something similar. People with crowns, mantles, and rings. While a number of people show off their items, traits, or powerful active skills.
+
+Before I realize it, we have already walked through the groups of people and reached the balcony next to Nyssa and Kindness.
+
+The beautiful Ruler smiles at me. “It’s so nice to see you here, Nathaniel, and doing so well. It is also exciting to see your mastery over your “black mana” growing.”
+
+As she says it, two words in her sentence don't come out with her voice, instead, I hear “black mana” being said in my own voice.
+
+“I’ve been doing my best. There’s still more to come,” I answer.
+
+“Oh?” She tilts her head playfully and smiles in a way that tightens my chest. “That is surprising. I expected you to react when I told you the true name of “black mana”” Once again, the words “black mana” are said in my voice.
+
+Proudly, I straighten up and stick out my chest. “I came prepared.”
+
+“You did?” She steps closer, curiosity in her eyes, and I finally notice the white dress she’s wearing. It moves with her, graceful and fluid, almost alive.
+
+“Obviously. I figured before coming here that a few people would know one of the fake names of black mana. I call it fake because I’ve decided to call it black mana, after all, everyone else will soon as well.”
+
+Nyssa, still swinging her legs, watches and listens curiously, while my Handler has that weird expression of disbelief or something similarly rude.
+
+“So, there’s a part of me I call Redacthaniel, and it only does one thing. Every time it hears something that could be the ‘true’ name of black mana, that part of my mind censors it and replaces it with “black mana.””
+
+“How amazing!” Kindness laughs.
+
+“Are you being serious?” Greed mumbles from the side.
+
+“Black mana, black mana, black mana, black mana.” The Ruler of Kindness continues to talk quickly, but all her words are replaced by my flat voice, overwriting the input as Redacthaniel goes into action.
+
+“Didn’t hear a thing,” I say.
+
+“This is the dumbest, weirdest, most pathetic, and petty thing I’ve witnessed in my entire fucking life. Kindness, let’s go do something else because damn, if I don’t need a drink. And let’s not forget, my identity is a secret,” Greed groans as she gestures at Kindness, who then pretends it was her idea and pulls Greed away.
+
+Being left alone with Nyssa, I look at her and praise myself since everyone seems to be busy, and then I ask her, “Morwag didn’t come?”
+
+“They said MorMor was no longer allowed after the last time,” she answers.
+
+I ignore that strangely cute nickname entirely and ask, “Are you happy with your Handler?”
+
+Her legs stop swinging, and she gives me all of her attention. “She is someone who gave purpose to my life, and I deeply love her for that. So I will do anything in my power to fulfill her wish.”
+
+I give it a thought and try to estimate her chances and the sheer insanity of that goal. But seeing Nyssa’s eyes, maybe… maybe there is a chance that she could do it. Kindness surely seems to believe that.
+
+“Good luck with that, I guess,” I say.
+
+“Thank you, Nathaniel. You do not have to keep me company, I like to be alone. Go and meet the others.”
+
+I open my mouth, ready to be insulted by being thrown into a bag with extroverts, but then I close it. I just caught sight of Victoria and Lyraen and a few other people I could be messing with, so I just wave at her and take my leave.
+
+My Mana Wavelength Iris continues to pick up on shifts of mana in the area, though there are a few assholes trying to overwhelm my trait the way so many others have in the past. Either to test me, or just to be dicks. It doesn’t matter. My mind is much stronger now, and I endure that much easily.
+
+Halfway to Victoria, I notice someone else to the side and change direction, heading toward a small table where a lumoran man is standing.
+
+Brich laughs loudly at something another lumoran says as the other walks away, leaving Brich alone. Noticing me coming closer, the lumoran sword thief smiles and waves at me. On his back is Calvorn, but only the hilt is sticking out, the rest is hidden in a bulky metal sheath seemingly meant to seal the weapon away. It looks like a somewhat successful attempt to keep the weapon quiet, with no sign of life from it.
+
+“You’re that guy who used an Empyrean projectile to pierce my head,” he says, taking a step closer and happily shaking my hand with excitement.
+
+“I thought your backups were old enough that you wouldn’t remember.”
+
+“Oh, that? We fixed that a long time ago! There is a main backup done once every hour, but every minute, there are multiple smaller ones. Not full, but they contain enough data for me to know what happened before the restart,” he answers cheerily and points at my crown. “Damn, I didn’t know there was an attendee with "black mana."” Once again, those words come out in my flat voice.
+
+“I bought it on the last page of the system shop. No one ever scrolls down there,” I answer.
+
+That makes him bare his teeth in another big smile. “No ill will, man, yeah? You know, for all that stuff with the sword, it was nothing personal. And having seen your "black mana", I would like to work with you sometime.”
+
+“So Crimson Forge can try to take it apart, and my body as well?”
+
+“If you want to. I know your Primordial Lunatics have the Doc, and his implants are fabulous. I myself have two of them, and he does work with us sometimes, but there’s much more than that we could be doing.”
+
+I cannot even be surprised by the revelation about the Doc and just shake my head instead. “There could be some cooperation, but I am not that interested in all that mind-backup stuff.”
+
+“Good! I knew I saw something in you! I’ll contact you soon. Damn, the old guys are really going to be excited. By the way, is Lyraen still glaring at my back?”
+
+I move my head to the side and look behind Brich, seeing Lyraen floating beside one of the other tables, staring very intently in this direction.
+
+“Yup.”
+
+"Good. If we can see him, it means he’s not preparing some nasty attack!"

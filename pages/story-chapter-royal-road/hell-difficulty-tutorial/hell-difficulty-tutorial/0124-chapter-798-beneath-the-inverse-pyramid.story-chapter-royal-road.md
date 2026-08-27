@@ -1,0 +1,151 @@
+---
+id: 36b516f1-ca4f-57a8-a919-33ec64d53391
+page-type-slug: story-chapter-royal-road
+title: "Chapter 798 - Beneath the Inverse Pyramid"
+slug: 0124-chapter-798-beneath-the-inverse-pyramid
+partOf: hell-difficulty-tutorial
+position: 124
+ownLength: 2629
+unit: words
+publishedAt: 2026-05-05
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3359760/chapter-798-beneath-the-inverse-pyramid"
+royalRoadId: "3359760"
+---
+
+As we enter the auction house that I am sure has a fancy name, though it will never be more than a simple auction house to me, we are led through the hallway by one of the servants. As before, I notice that there are arrays splitting the building into different zones, and each of the people working here has some sort of implant in their body that gives them access to their assigned zones and no more.
+
+I suspect it also makes records for higher ups to check who was in what zones and when, and likely a few more fancy functions. Our contact seems to be one of the higher ups here, likely thanks to the amount of money Tess threw at one of the shadier information guilds to set up this meeting.
+
+Currently, only Izzy, Noodle, Biscuit, and I are here. This is after Izzy asked her sister to stay behind because the man is likely to feel more confident if there are fewer of us. Or as Izzy phrased it: "Without a pretty young woman making him nervous."
+
+Of course, that mind manipulating sister of hers agreed after such thorough flattery, so here we are. I maintain my image and greet the feylith man as the servant leaves. With a few words, I still act apologetic for my wife not being here.
+
+(He feels relief, but also seems a bit sad. I think he really does think Soph was pretty.) Izzy chuckles through the connection. Meanwhile, Noodle watches curiously as before, and Biscuit has his fun acting like he is asleep. He even tries to make a snoring noise, but his swinging tail gives him away. Again.
+
+Biscuit...
+
+"Why don’t we head into some of the parts of the auction house that aren’t normally accessible to normal people?" the feylith smiles and leads us through the hallways that are elegantly but richly decorated. There is golden metal, wooden carved walls, a lot of what looks like expensive stone, and all those things.
+
+Once in a while, he stops near certain items in display cases and gives us a short presentation of what they are. None of them is all that important or useful, and mostly have historical value, and that value only seems to increase the deeper we go.
+
+Yes, this auction house is in the shape of an inverted pyramid, a big one that looks like it should collapse under its weight. But instead of going up, we’re headed in the opposite direction.
+
+There is a central node that has plenty of hallways and stairways up where I thought the more valuable items would be, in rooms full of sunlight and a gradually improving view the higher you go. Instead, we find a single hidden hallway, and the door unlocks after a signal from the feylith man, and we head underground. Once there, I begin to suspect another pyramid exists, but this one is right side up and much smaller than the one on the surface.
+
+Passing through the central node of the underground pyramid, the colors begin to change. Stone turns black, the wood on the walls is darker, and golden inlays have been replaced with silver. The ceiling is entirely made out of what looks like gently glowing sheets of some unknown material. That light is easy on the eye while properly lighting everything there, but it nonetheless creates a very different sort of atmosphere.
+
+Izzy begins to shout in excitement as she continues to put up her act, and the feylith gives her another lesson while leading us deeper and deeper. There are no elevators, so we are using the stairs. Once in a while, we meet other people. There are selari, human, and lumoran men and women wearing noble clothes, and feylith people working here who mostly wear the same sleek black suit.
+
+And that’s how we end up in a cozy looking lounge with a glass case in the center with a wooden dagger floating and slowly spinning inside.
+
+So far, all’s going according to plan. The man is cockier than before, taking advantage of what he thinks is Sir Elydor, the noble with financial trouble, and Izzy and I feed into it with well timed reactions.
+
+We almost get to the point of straight up selling Biscuit.
+
+Almost.
+
+All communications cut off out of nowhere, and I hear a loud rumble somewhere outside. The case in the center rattles slightly, and the lights at the ceiling flicker for a moment before switching color from a cozy mix of orange and white to blue. My Ley Lines and telepathic links are gone as well, leaving us stuck in here with this guy. Even my link to Izzy is removed, likely due to a mechanism they use to “clear” things like that.
+
+“Bowen, any idea what is happening?” a feylith woman shouts as she rushes past the underground lounge we are in. Her hair and eyes are both bright pink.
+
+“Just follow the procedure! The Champion-Class Interference Protocol was triggered!” our contact shouts to her even as she rushes by. A few more feylith pass the hallways in the same hurried manner.
+
+Meanwhile, Bowen begins to show a bit more emotion. The edges of his hair turn green, which Izzy picked up as his color for fear. The rest of it shows a level of tension that reveals itself as a very pale shade of brown. Darker brown is arrogance and more and more. I do realize there are advantages to be gained by learning them all, but when she was telling me about them, I wasn't listening. After all, I would have had her with me. The problem is that we can't communicate without this guy hearing.
+
+“I apologize, Sir Elydor and Little Lady Isabella. While situations like this do not happen very often, we have procedures that I must follow. In your case, you will need to stay with me in this room for the time being. If anything worse happens, we will head deeper underground, where we have safer rooms, as I have no way of letting you back out on the surface since we’re currently under lockdown. But I can confirm that our safe rooms are better than anything else in the city.”
+
+“Very well then,” I lean back in my chair and cross one leg over the other. I don't even bother asking him if he has any more information. I can clearly see that all communication has been cut off, and their defensive arrays are operating at full capacity to isolate specific segments as mana spreads through the walls to power them.
+
+The ground shakes once more, this time even more violently. I don't take my eyes off the guy, who seems to have forgotten about me.
+
+His hair and eyes gain more green as he mutters, “For it to be shaking that much even here, what could be happening…”
+
+I don't need to be Izzy to tell he is scared and very nervous. I find that a striking difference between him and me, or my fake daughter. Both of us are used to such dangers, while this man clearly isn't.
+
+He stands up and begins to pace as Izzy moves closer to me and clutches my clothes. “Are we going to die down here?” Her voice sounds shaky as she stares at me with big green eyes. I notice Bowen glancing at us before forcing himself to look away.
+
+I notice another earthquake coming through my kinetic senses, and time it just enough to speak a second before it hits. “I’m sure it won’t happen again. We’ll be fine.”
+
+Then the whole place shakes once again, not as violently as before, but as the man is distracted, I seep a bit of my mana into the area. I don't touch the arrays or try to influence the room, but I make the lights flicker out for a few moments, turning the place pitch black.
+
+Izzy screams as if in fear and hugs me while whispering, “Continue to make him more scared.”
+
+“I know,” I whisper back.
+
+The lights turn on again, and Izzy begins to sob. As the feylith looks at me, searching for relief in seeing someone calm. I return his gaze steadily, and that makes him relax a bit, but as he moves to look away, I make sure he notices my hand shaking.
+
+Izzy must sense something from him because, taking the opportunity, she sobs louder. “It is so dark here. It will all fall down on us, I know it. I want mom!”
+
+“Little Lady Isabella, I’m more than sure it will be...”
+
+He doesn’t get to finish. I block one of the detection marks for a moment and channel my kinetic energy into the air, making it vibrate. It’s the kind of tremor you feel deep in your chest, the kind that sets your nerves on edge because you cannot tell where it’s coming from or what it is.
+
+(Biscuit, see if you can slip downstairs and find the egg.) I send to the corgi. (On three. Two…)
+
+At the end of my count, another earthquake comes, and this one begins to make me wonder, just what could be happening outside? Which leads to the thought that we’d better hurry up here.
+
+This time, even Bowen screams and almost falls. Biscuit squeaks and runs like a rocket toward the stairway, heading downstairs. The lights flicker out again and die entirely, and this time it wasn't even me.
+
+When they turn back on, the lights are weaker and cast a dim red glow, probably drawing from whatever alternate power source the place has switched to. In the distance, loud clangs and alarms ring out as metal doors, each as tall as half my height, begin to drop and seal off sections of the space. They are likely trying to seal off the place before another tremor destroys another power source and makes it impossible.
+
+“You ask him,” Izzy whispers.
+
+“I wonder,” I say, getting Bowen’s attention. “Should we move to a safer place before we miss the opportunity?”
+
+The feylith doesn’t even respond. He takes off running, and I’m sure he would’ve left us behind if he thought he could.
+
+I grab Izzy and follow after him. Soon, a few more feylith with the same idea rush past us. The doors ahead open only because of the implants the people working here have, and the attack arrays do not activate.
+
+People shout, “Quickly, we only have a few seconds!” and “Go down the stairs!” Their panic noticeable even through the alarms.
+
+These stairs aren’t very long, but they are circular and beautiful like everything else here, though not many people will likely ever see them. In the dim red light, they’ve taken on an eerie quality, and the darkness down there feels even more so. The metal clangs continue to sound as more doors fall into place and close until the final one seals the stairway as we reach the lower floor, plunging us into pitch darkness. No lights glow down here.
+
+“It should be here…” one of the feylith women rummages around. With my senses, I watch her move toward one of the pillars and press the back of her hand against it. Nothing happens, and she curses, eventually finding some manual mechanism and opening a hidden door.
+
+From there, she draws out a few items that look a bit like glass orbs. She shakes them, and they begin to radiate a calming orange light, drawing sighs of relief from the others. I notice a few more such orbs inside, as well as some food, water, and things I can’t identify right away.
+
+There are more people coming from the other side, mostly feylith, but some customers are mixed in as well, as the light of the orbs shine on us.
+
+I’m not surprised no one is using any skills, there is currently a constant, powerful field disrupting mana.
+
+If I’m correct, this entire underground pyramid is surrounded by walls made of materials designed to interfere with it. I don’t think it’s natural, and it’s likely that it was created by someone with a powerful skill.
+
+The resulting walls were then covered in a thin layer of another metal that blocked the effect, and just before the lights flickered out, that layer of metal melted and slid down to let that disrupting effect pass through.
+
+I find it all very fascinating.
+
+"You should pretend to panic a bit," Izzy pulls on my arm and then hugs it. Tears are on her face, and she cries loud enough for others to hear before pressing against me and whispering, "We need to silence the feylith with that white brooch on his suit. He isn’t panicking at all, and the others are investing a lot of hope and respect in him. I don’t think we will be able to exploit this situation at all with him still here."
+
+"I see," I nod, and caress Izzy’s hair. With her feeling the emotions of everyone here, I know how difficult these things are on her.
+
+Then I send a message through the connection that still remains even within this field, after a clear from before.
+
+(Biscuit. Not a friend. Quietly.)
+
+The corgi is already snooping around, but hearing my words and receiving my image of the man, I sense him moving back quickly.
+
+"There is no need for alarm," the man with the white brooch says, his smile practiced and cool. "This remains one of the most secure installations in Hadon. As you are all aware, this sector was encased a century ago within a static mana-nullification shell created by Champion Lorik. I’m going to personally interface with the hardwired communication conduit to see if I can gather any information. Please, remain comfortable for the time being. Bowen, see to their needs."
+
+"I’m on it!" Bowen shouts. The green from his hair lessens slightly, and he shows a bit more confidence.
+
+I meanwhile watch the feylith with the white brooch take a step through the hall and toward one of the walls. As he touches it, a part of it slides down, revealing something like a cable heading up with a small panel connected to it. He takes out a brooch and presses it to the panel, which lights up.
+
+He then halts, a frown creasing his forehead while his eyes search the area.
+
+Even as he holds the lighting orb, the shadows around him become darker, and for a moment it almost seems like they’re moving.
+
+All the lights flicker out, and a few people shout in surprise.
+
+Barely a second later, the lights are back on, and a single orb falls to the ground where the man with the white brooch stood. He himself is nowhere to be seen.
+
+"Boss?" Bowen whispers as he stares in that direction, but there’s no answer.
+
+The other people start noticing the disappearance as well, rushing over to where he was or straining to get as far away from the space as they can.
+
+Within the chaos, Izzy’s voice carries, "He escaped alone! He left us here!"
+
+That adds even further to the terror. I notice that Noodle leaves her arm and heads toward where I sense Biscuit is once again. Then, the brooch connected to the panel of the cable lets out a cracking noise.
+
+"C-an... you... h-ar me?" The voice is a jagged mess of digital artifacts, repeating the phrase in a loop. It remains oblivious to the frantic shouting of the people surrounding the control panel.
+
+"I- re-peat... I re-peat..." A burst of static cuts off the part of the sentence. "...pion Oolik and... Champion Ewqui-…both... dead. Re-anim- Dusk Weredeer... killed... both."

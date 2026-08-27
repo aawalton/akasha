@@ -1,0 +1,244 @@
+---
+id: ca744a49-3dba-5ff8-93ce-08056339bcb7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: Face Slap"
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 5
+ownLength: 2240
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3605441/chapter-5-face-slap"
+royalRoadId: "3605441"
+---
+
+Chapter 5: Face Slap
+
+Training ended the way it had begun: with me sitting cross-legged and doing nothing visible to anyone in the room. Akasha called this productive.
+
+I had questions about that assessment but kept them to myself.
+
+Afterward, since the sun had not set enough, Akasha decided to talk more instead of dismissing us. I complained. She told me to shut up and listen.
+
+I sat back down, mildly offended by the "shut up" but unable to argue with the efficiency of it.
+
+She unrolled a scroll, larger than any I had seen in the tutoring sessions, and hung it against the wall with a practiced flick of her wrist. It depicted a circle divided into five, each segment marked with a character I recognized from my lessons: Wood, Fire, Earth, Metal, Water. Lines crossed the circle's interior in two patterns, one following the curve of the ring itself, the other cutting straight through the middle in the shape of a five-pointed star.
+
+"As you know, there are five elements, and each has an overcoming and a generating relationship with another." She looked at us to confirm we were, in fact, aware of this. I was not, but I nodded anyway, on the theory that admitting ignorance would only extend the lecture.
+
+She moved her hand along the outer circle. "For generating: Wood generates Fire. Fire generates Earth. Earth generates Metal. Metal generates Water. Water generates Wood." Her hand traced the loop back to its starting point, a closed system feeding itself forever.
+
+Then she moved to the star cut through the center. "For overcoming: Wood overcomes Earth. Earth overcomes Water. Water overcomes Fire. Fire overcomes Metal. Metal overcomes Wood."
+
+She paused, letting the diagram sit there, letting us look at it long enough for it to imprint. "Remember this. It will be essential in battles."
+
+I nodded. I thought of leaves.
+
+Specifically, I thought about which of the five elements the acacia would have fallen under, had it been a cultivator instead of a tree, and concluded that the system had not been designed with actual trees in mind, only the idea of trees, which struck me as a strange oversight for something so foundational.
+
+Beside me, Badger was staring at the scroll with the focus of someone committing it to memory through sheer force of will. Somewhere in the back of the room, I was fairly sure I heard someone else quietly reciting the cycle to themselves, generate-generate-generate, like a chant.
+
+Akasha clasped her hands together, satisfied. "That's all for today. See you tomorrow."
+
+I stood up, already thinking about dinner, about leaves, about the specific arrangement of the room's high windows and how much daylight remained in them.
+
+"Wait."
+
+I turned. She was pointing at me.
+
+"Why?"
+
+"I'll treat you. Come with me." She was already moving, robes swaying, not waiting to see whether I would follow, apparently confident that I would. For reasons that were not explained to me, Badger followed her as well, falling into step a pace behind.
+
+The Eastern District smelled like humans, sun-warmed stone, and the particular dustiness of a place that had been busy for a very long time. Not leaves. Disappointing.
+
+Akasha led me through it without slowing down, navigating the afternoon crowd. I followed while looking around. The Eastern District was denser than the sect compound: buildings pressed close together, laundry strung between windows, vendors stationed at intervals along the street with the aggressive cheerfulness of people whose livelihood depended on being noticed. Humans moved around each other in the particular way of a place that had too many people for its available space and had simply decided to work with that.
+
+We stopped in front of a shop.
+
+It had a wooden sign with characters I was still in the process of learning to read, and from its open front came noise, steam, and the smell of broth. Not leaves. Still disappointing. But my stomach, which had been submitting complaints since yesterday, indicated that it was willing to negotiate.
+
+We went in.
+
+Akasha moved to an empty table in the corner and sat down. She flagged down the nearest human before I had fully settled into my seat.
+
+"Extra large pork noodles."
+
+A large bowl arrived with impressive speed. It was full of small pieces of meat that I recognized immediately.
+
+I had made this mistake before. I was not going to make it again. I knew what pork was. I knew it was not a metaphor.
+
+I grimaced at the bowl in a general way and looked around the table for a spoon.
+
+"What? You don't like noodles?" Akasha asked, without looking up from her bowl. She had produced two thin sticks from somewhere and was using them to retrieve something white from beneath the pork. She put it in her mouth.
+
+"I don't eat pork."
+
+"Then don't order pork." She collected another quantity of the white substance, whatever it was, and consumed it. "Pick a different topping."
+
+"Pork ramen."
+
+The voice came from beside me. I turned.
+
+Badger was in the process of sitting down, wearing the expression he always wore, which was the expression of someone who woke up mildly irritated and had decided to stay consistent about it. He looked at me looking at him.
+
+"What? Got a problem?"
+
+"Fridd, stop glaring at people. How do you expect to make friends?" Akasha put a slice of meat in her mouth this time.
+
+"You're one to talk, sis." A smaller bowl arrived in front of him. He pulled it closer. "This is just our face."
+
+I processed this.
+
+Sis.
+
+I looked at Akasha. Then at Badger. Then back at Akasha.
+
+Both have grumpy faces.
+
+I should have seen this earlier.
+
+The human who placed Akasha and Badger's bowl materialized beside me. "What about you, miss? Have you decided what to order?"
+
+"Do you have leaves?"
+
+A brief pause. "You mean vegetable noodles?" He nodded. "Of course. Watching your figure, are we?"
+
+He disappeared before I could clarify that I was not watching my figure. I simply had a longstanding dietary preference that predated this particular body by several days.
+
+While I waited, I watched Akasha and Badger eat. The two sticks were the mechanism.
+
+My bowl arrived: green, fragrant, with whole leaves floating in the broth alongside the long white things that Akasha was eating with such ease. I tasted the broth first, with my spoon, which I was expert with by now.
+
+It tasted like leaves. Proper leaves. With depth. Something in the broth that reminded me of the earthier acacia varieties from the lower branches. I scooped a whole leaf and ate it. Good. Very good.
+
+The long white things were the remaining question.
+
+I picked up the two sticks.
+
+I had seen humans use these at the river once, a long time ago, standing knee-deep and jabbing downward at fish. The principle seemed transferable. I lined them up, aimed, and stabbed them into the bowl.
+
+I lifted them.
+
+Nothing.
+
+Akasha made a sound. I looked up. Her hand was over her mouth and her shoulders were shaking in a way that was clearly involuntary and clearly losing the battle against itself.
+
+Badger looked at my bowl, looked at me, and said "stupid" in the tone of someone who considers this a professional responsibility, then returned to his noodles.
+
+I looked at the sticks. I looked at the noodles. I looked at my spoon.
+
+I put down the sticks and went back to the spoon.
+
+The spoon, it turned out, was adequate for noodles if you approached it correctly. A lifting motion rather than a scooping one, letting them curl over the bowl of the spoon before bringing it up. After a few attempts I had a reliable system. I ate. The bowl emptied at a satisfying rate.
+
+"Why do you dislike White so much?" I asked, when enough of the meal had passed that the question felt like a natural next step rather than an ambush.
+
+Akasha looked up. "White?"
+
+"The one in all white. With the big sword." I gestured with my hands.
+
+"Ah. Gwyn." She turned to look at Badger, who had gone still. "Inferiority complex, most likely. He's been the best young cultivator in the Eastern District. His pride took a direct hit from someone he'd never heard of."
+
+"Shut up, sis!" Badger pointed his sticks at her.
+
+"I once saw a honey badger challenge a lion," I said, mostly to myself. "It ended poorly for the badger."
+
+Badger's sticks pivoted to me. "Did you just call me a honey badger?!"
+
+"You remind me of one." I lifted my bowl and drank from the rim, which I had discovered was the most efficient method for the remaining broth. "You should give up challenging her. Feels like you can never beat her." Yes, my instincts were telling me to avoid her also.
+
+"Hmph." He crossed his arms. "You'll never know until you try."
+
+I nodded. "Very honey badger-like."
+
+Akasha's shoulders started shaking again. She put her chopsticks down and devoted both hands to covering her face.
+
+"Stop laughing!" Badger slammed his hands on the table.
+
+My bowl flipped. Good thing I had already finished it.
+
+"Sorry, sorry." Akasha waved a hand, still recovering. "And there's no need to be so angry about it. You're better than most of the class." She glanced at me. "Better than a certain young master, at least."
+
+"Being better than her somehow doesn't make me feel good." Badger sat back down.
+
+Akasha looked at me, chin resting on her hand. "Well. She doesn't look like your average young master."
+
+"What does a normal young master look like?" I asked. This seemed like useful information for calibration purposes.
+
+"More arrogant maybe?"
+
+"Should I?"
+
+"No." Akasha smiled. "I like you as you are."
+
+"Hmph." Badger looked at the wall and ate the rest of his noodles in pointed silence.
+
+I ordered two more bowls. My stomach had strong opinions about what constituted a complete meal, and I had learned to take them seriously.
+
+***
+
+We walked out of the shop into the afternoon with my belly in the state it deserved to be in: full, settled, offering no further commentary for the immediate future.
+
+The Eastern District had gotten busier since we went in. Vendors calling, children cutting through gaps between adults, older residents navigating with the patient authority of people who had been here longer than everyone around them. I watched it as we walked and found it, as I usually found human activity in large quantities, simultaneously comprehensible and slightly overwhelming.
+
+Then I walked into someone.
+
+The collision was minor, but someone went down.
+
+"Watch where you're going, idi—"
+
+He looked up.
+
+The words stopped.
+
+Middle aged, dressed well. His face did a rapid sequence of expressions cycling through too fast to catalogue before landing on a careful blankness.
+
+"Oh… Raffea. I didn't realize you were here."
+
+It was Monkey, I remembered him.
+
+Behind him, a cluster of Human Ds had stopped moving. Not the ones I have trained with, the older ones.
+
+One of them, bolder than the others or with less to lose, raised his voice.
+
+"Master Zaku, you should face slap her!"
+
+Monkey's expression flickered. He shot a sharp look at the one who had spoken.
+
+Then someone else moved. A figure who had been standing slightly apart from the group. He was not wearing what the normal Human Ds wore, but something blue, with orange hair tied back in what I would have called a foxtail style, and a fox mask. He leaned toward Monkey. "The preparations are ready. Why are you still afraid? Besides, it's a good demonstration for the public."
+
+Monkey put a hand under his chin.
+
+The crowd around us had noticed the pause. Some were murmuring. A few at the back had started something that took me a moment to identify as chanting.
+
+"Face slap. Face slap. Face slap."
+
+Akasha moved forward. "Wait, what are you—"
+
+A group of Human Ds closed around her and Badger before she could finish.
+
+I looked at the crowd. Then at Monkey, who had finished his consideration and was now standing up. He looked at the humans around us.
+
+He smiled.
+
+I had been wondering, since the tutors first mentioned it and again since Porcupine's question this morning, what was supposed to be significant about a face slap.
+
+Then it arrived.
+
+A sharp crack against the side of my face. It pushed my head to the side. The crowd noise jumped in pitch.
+
+I turned back to face forward.
+
+Monkey's smile widened showing teeth. Behind him, the crowd roared in satisfaction.
+
+I considered the experience. I had expected something more revelatory. I looked at Monkey as I tilted my head slightly.
+
+"Was doing a face slap really that fun?"
+
+The crowd had gone quiet.
+
+Monkey's smirk stayed on his face. Then his face turned to confusion. "Why aren't you enraged? I just faced slapped you! Show your true colors!"
+
+He leaned forward, as he wound his other hand back. Maybe another face slap.
+
+But Akasha moved beside him before he could finish. A sword made of flame at his throat. "I should be the one asking. What are you doing?" Her voice had gone cold, opposite to the heat she was radiating. Behind her, a trail of scorched ground and the Human Ds who had been standing on it.

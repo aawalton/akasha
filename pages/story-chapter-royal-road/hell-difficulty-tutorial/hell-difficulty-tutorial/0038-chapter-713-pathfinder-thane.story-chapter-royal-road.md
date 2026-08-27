@@ -1,0 +1,155 @@
+---
+id: 6864bcdd-2b36-5734-8d2b-f9090a8d8946
+page-type-slug: story-chapter-royal-road
+title: "Chapter 713 - Pathfinder Thane"
+slug: 0038-chapter-713-pathfinder-thane
+partOf: hell-difficulty-tutorial
+position: 38
+ownLength: 2353
+unit: words
+publishedAt: 2025-12-16
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2854432/chapter-713-pathfinder-thane"
+royalRoadId: "2854432"
+---
+
+Kindness snickers the entire time as we leave the balcony, all while the tiny vyssari boy acts as if nothing happened. Once in a while, I glance at the Ruler, wondering if this could be her true body. I’m almost completely sure it’s just a vessel. She doesn’t seem like the type who’d be capable of holding back her power all that well, as shown by the way she destroyed the bodies of the natives she took over when she was talking to me before.
+
+I don’t remember her true body from the third floor all that clearly, but I’d say this one’s a perfect copy. So maybe a custom grown vessel? A duplicate? An avatar? A robot? Watching her current behavior, I decide I’ll ask when the opportunity arises.
+
+When I reach the group, no one berates me, which I expected. There’ve been a few similar clashes already, and it even seems like they’re being allowed to happen on purpose from time to time. Probably as a means for the Handlers to show off their attendees, or perhaps even so the Handlers can use their attendees to provoke fellow Handlers they don’t like. Handler this, Handler that.
+
+Kaari greets me with a short nod, and Hela gives me a longer stare. Their Handlers are there too, two selari women who look like twins. Unlike the velnar Handler, these two feel like Absolutes.
+
+I feel a tug on my clothes and look down at the little guy pointing at a glass of water on the table just out of his reach, so I grab it and hand it to him.
+
+He takes it carefully in both of his small hands, the glass clearly being way too big for him, and drinks a few large gulps before handing it back to me. Then he bows to Kindness, gives a smaller bow to the two selari women and Greed in her secret identity, and slowly walks away.
+
+I watch him for a moment, noticing Kaari doing the same.
+
+When she realizes it, she lets out a short laugh. “It’s insane to imagine, but Lyraen probably looked like that as a child.”
+
+“He probably already had that deep voice even back then,” Hela adds with a smirk, making her Handler laugh briefly.
+
+The other of the selari says, “People have been betting on whether his voice is natural or fake. Surprisingly, it’s been confirmed that that really is the voice he was born with. The Information Guild was quick to buy that info from the others in his branch of the tutorial.”
+
+Her twin nods. “Many of the vyssari Handlers I’ve met find him charming.” She lowers her voice to a whisper. “I heard some have even been sending him love letters and certain… invitations.”
+
+“Doesn’t Lyraen already have like five wives from back on his planet?” Greed cuts in, though she doesn’t seem as interested in the topic as the two creepy selari aunties. The aunties who could likely kill everyone on Earth in a day or two while lazing around.
+
+Both selari twins, along with Kaari and even Hela, turn toward Greed after that bombshell, while Kindness just sits down on a nearby bench, barely reacting.
+
+“What? Are you serious?” one of the selari twins asks, in that tone that tells you she absolutely loves gossip. Is she really an Absolute? Maybe I was wrong.
+
+“I heard it from another Handler. It might be fake information, though,” Greed replies.
+
+By this point, I’m sure she knows the truth. She’s been watching and studying him, just as she does with anyone she thinks might be talented. As a Ruler, she can do that pretty easily. The twins, though, don’t seem to have any idea.
+
+The women keep gossiping for a minute or two, trying to drag more details out of her. From their conversation and behavior, it seems like S-ranks are treated almost like little celebrities here, even by people of higher rank. Maybe because S-ranks are the kind of people that could eventually become one of them, possibly even managing to replace a Ruler. Or maybe just out of boredom.
+
+I’d bet on boredom.
+
+Sneaking away, I sit on the bench next to Kindness. Her cheerful expression from earlier is gone, replaced by a look of calm laced with that hint of faint sadness I always feel from her, no matter what body she’s using. She quietly sips her drink, listening to the others talk.
+
+“This isn’t my real body,” she says before I can even ask, her tone perfectly steady as she says it.
+
+“I’ve been caught,” I admit.
+
+She nods. “People like you always ask that, and my answer never changes: this body is a Vessel, a gift from my friend Greed, grown from my own flesh. While it is comparatively weak, it does allow me to possess a familiar body and move among attendees without having to worry about killing them, even though the Vessel keeps breaking down and needs to be repaired after every use.”
+
+“I see,” I say.
+
+“Next, people like you ask, why can’t you repair it? Aren’t you a healer?”
+
+That sad expression on her face deepens a bit, even as she forces a small, cutesy smile. “And I always answer: I lost the ability to heal anyone other than myself a long time ago. I can’t heal people, I can’t save people, I can only corrupt and cling to life, or whatever foul imitation of it this is.”
+
+“And what do people like me usually say to that?” I ask.
+
+“It varies, but they usually try not to show too much pity, correctly expecting me to dislike it. From you, I’d expect something like, ‘That sucks,’ or ‘I see.’ Honestly, I like those answers the most.”
+
+“I see.”
+
+She laughs softly, takes a sip, and lifts her glass toward me in a small, graceful gesture.
+
+When our conversation quiets down, one of the selari Handlers waves at me to catch my attention. “We were talking, who do you think would win, Morwag or Brich, in a duel? Both fighting at full force, Brich with his items, minus that fancy new sword. The setting would be somewhere like one of the bunkers from the fifth floor of the tutorial, same structure, same ambient mana concentration, baseline density for mid-tier zones. No external flux, no artificial suppression, just their internal reserves and whatever they can pull from their surroundings. No external influence or natives present, and only five seconds of preparation before the duel starts. They’d both start off in the same room.”
+
+I stare at her. Are these people seriously having a what-if conversation? And what was with all that extra detail? I forgot half of it before she even finished talking.
+
+Still, the core of the question catches my interest, so I give it some thought before answering. “Wouldn’t Brich just bury Morwag down there? It probably wouldn’t kill that maniac, but Brich could try to tire him out and wait for him on the surface with a trap.”
+
+The selari woman doesn’t seem to mind as Kaari answers instead. “People have already tried that against him, twice.”
+
+“Make it three, we tried it too, not that long ago,” Hela adds from the side.
+
+“Oh, on the third floor during the guild war?” one of the selari women asks Hela, probably Kaari’s Handler, since Hela’s would already know.
+
+“Yes,” Hela confirms. “He dug himself out with tons of earth and metal bound to his body, like a building-sized golem, and even managed to survive the large-scale bombardment afterward.”
+
+“Oh yes, the way Morwag uses his Binding energy is quite barbaric, but effective in its own way. It suits him,” one of the selari Handlers says.
+
+Her sister nods. “Do you remember that guy from 87 years ago? He was another demon who used Binding energy, but he used it to attach himself to his enemies, to keep them from escaping or something like that?”
+
+This time, Greed joins in. “It was a bit different. He used a combination of active skills to break his opponent’s natural barrier, then bound himself to said opponent. Through that binding, the wounds sustained by one were mirrored on the other.”
+
+“Oh? That’s a surprisingly original method, really diving into the concept. Not what I’d expect from a demon. He must’ve been high-level. He died in Beyond, though, if I remember right?” the selari asks.
+
+Greed shrugs. “He fought an S-rank healer from back then and thought it’d be a good idea to use that strategy against her. The fight took hours because of her weak attack power, but in the end, her healing outpaced his regeneration, and he died because of the binding and the wounds they shared. Still cackling like a maniac, smiling until the end. He never even tried to break the link between them.”
+
+“Primordial Knights?”
+
+“Guildmaster.”
+
+“Makes sense.”
+
+Everyone in our group nods in agreement.
+
+“Lady Kindness, is Nyssa like that as well?” asks the selari Handler, probably Kaari’s.
+
+Next to me, Kindness stops moving and looks up at the woman. Just that short look freezes the selari in place before she gathers herself and meets Kindness’s gaze.
+
+Kindness nods. “That demon from 87 years ago died beautifully and happily because that death was for himself. Nyssa isn’t like that. She’s dumb. Instead of doing the same, she’d rather die for another’s sake.”
+
+It makes me snort, and Kindness turns to me, giving the selari a bit of relief. There’s a question in her expression, so I answer while meeting her gaze. “Does that matter? If she decides to die for someone else, isn’t that still the choice she’s decided will make her happy?”
+
+“I’m well aware of that view of the situation. Even what you just said, I’ve heard so many times before.”
+
+“You disagreeing with it doesn’t make it wrong,” I say.
+
+“It does, Nathaniel. I have more experience than you can imagine. I’ve lived longer than everyone in this room combined, Rulers included.” Her voice is calm, almost gentle, but there’s something ancient in it, something that makes the air feel heavy as everyone in our group goes quiet.
+
+“Then stop her from doing it.”
+
+“I don’t want to,” she answers.
+
+“Then don’t stop her.”
+
+“It isn’t that simple.”
+
+“It is that simple. Damn, at this point I’m just hoping I don’t end up like you guys. Every Ruler I’ve met to this point has some serious issues.” I look straight at her. “It’s a really fucked up world out there. Hell, I’ll probably end up just as bad someday. So if you’re still alive by then, come find me, remind me of this conversation, and laugh in my face. Oh, and call me a loser or something.”
+
+“I will,” Kindness promises, and while the people on the balcony stop moving, turning toward the entrance where the Pathfinder Thane has finally appeared, she asks one more thing. “Would you let someone you love die for you?”
+
+“Hell no. They’d have to beat me half to death and knock me out first. And if I woke up to find them dead, I’d be cursing them forever.” I pause, then shrug and meet her eyes. “But I think I’d understand it was their choice to make, not mine.”
+
+Turning away from her, I look toward the small podium the Pathfinder is climbing her way onto.
+
+Thane is tall, old, and fragile-looking, a selari woman. Her skin isn’t the same shade of pink as the others of her race, if anything, it’s a little paler, almost hiding her freckles, and her pink hair has been tied back into a bun.
+
+Just one look into her eyes tells me there’s still plenty of life in her, though. They’re clear and strong, hard eyes without so much as a hint of weakness in them. When she greets the party, her voice carries across the room, quiet but firm, reaching everyone present.
+
+“You all know I’m not one for long speeches, so I’ll keep this simple. Thank everyone of you for being here, and welcome to the new talents joining the system. I’ve seen the marks you’ve already left on the Beyond, and they speak for themselves. May your lives be long and full, may your strength continue to grow, and may your worlds prosper. Each generation leaves something behind for the next, and I’ve had the privilege of seeing that cycle continue, attendees taking their first steps onto the fourth floor, only to later return as Handlers, or even venturing deeper into the Beyond. Pathfinders, as I once was.”
+
+She pauses, and the room bursts into applause and short cheering before she quiets them again with a wave of her hand.
+
+“Lastly, I have a surprise for you. I’ve been working with the Ruler of Humility, and together we’ve prepared an event for all of you, and for anyone who reaches the fourth floor of the Beyond over the next month, when it begins.” A faintly mischievous smile touches her old face, softening her features and making her look years younger. “For now, I’ll keep the details to myself, but I can promise the rewards will be worth it. Among them are a residence permit for the tenth named residence, and a low pristine item from the personal collection of the Ruler of Humility.”
+
+Another wave of silence settles over the room before it bursts again into cheers, and she raises her voice for the final time. “Whether S-rank or D-rank, anyone who reaches this floor will be given the same opportunity and the same starting point.”
+
+And then she leaves, just like that.
+
+What a legend, she barely stayed longer than one minute at her own party.
+
+I turn to Greed and finally ask the question I’ve been holding back. “Just to be clear, if I had only shown up to the party for one minute and left right after, would that have counted towards completing our deal?”
+
+“Yes,” she nods. “The items are already in your residence. They’ve been there since the party started.”
+
+“Damn it.”

@@ -1,0 +1,131 @@
+---
+id: cbd60a5f-4c0c-55e2-91a7-f69935d69cc2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 703 - You can’t have this one"
+slug: 0028-chapter-703-you-cant-have-this-one
+partOf: hell-difficulty-tutorial
+position: 28
+ownLength: 2018
+unit: words
+publishedAt: 2025-12-02
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2813440/chapter-703-you-cant-have-this-one"
+royalRoadId: "2813440"
+---
+
+“You’re lying.” Weslin is the first one to speak after the announcement. “There is no way someone possessed Nyssa, be it mimic, skin jumper, parasite, or body snatcher.”
+
+The lumoran man waves it off. “Right? Kaari thought the same, and honestly, I did too. But hell, we also thought we could kill that fella in one blow, or at least defend ourselves long enough to kill it before it jumped into one of us. We were wrong in both cases.”
+
+Brich takes a step closer, standing in front of Christoph, who refuses to move aside. “This,” the lumoran says, pointing at his shirt and the blood on it, “is all that’s left of Lyraen, after Nyssa literally tore him apart.”
+
+Suddenly, the blade, still trapped within the barrier, splits open to reveal a tongue and teeth, and the sword lets out a low, mocking laugh in Weslin’s voice.
+
+When it stops, there’s no explanation at all. No reason given.
+
+Brich only glances that way before turning to Christoph. His cheery face turns more serious. “As much as I understand your reactions, and find your behavior amusing, if reasonable up to a point, get out of my way before I make you.”
+
+The pressure around him increases at a very high rate. The crystals over his body start to glow, releasing huge amounts of mana, which makes some demons and members of Victoria’s group take a few steps back.
+
+Everyone here realizes this guy is an S rank. Even though plenty of us are A ranks, there’s still a massive difference between us and someone considered one of the ten or so strongest attendees currently in Beyond.
+
+I let mana seep into my body and shrug off the pressure he’s been generating. The mana in my halo spins faster, ready to be used, as I take a step forward. As Victoria, Weslin, Gloria, and Malika do the same.
+
+Christoph, standing in front of Brich, doesn’t seem pressured or worried at all, even with the close distance between the two of them. “Something about your story feels very off, Brich, so I apologize, but I cannot do that,” he says.
+
+The sword starts laughing again, the sound turning into the voice of a young girl. “Master, you always were hopeless at lying, and without me, you never knew how to deal with people.”
+
+In the next moment, Brich takes a step forward, but instead of moving ahead, he disappears, reappearing back near the entrance to this chamber. The arm of the figure floating over Christoph slams into the ground where he stood mere moments ago, leaving the imprint of an open palm in the metal floor.
+
+From the bag on Brich’s back, multiple cubes and the other items fly out, activating defensive barriers around him and charging up in preparation for the attack.
+
+My [Empyrean Lance] slams into his defenses, piercing through them and the side of his body. His face barely shows any acknowledgment of the wound, as if he did not even notice the hole that’s been burrowed through his body. His cheery mood from before is entirely gone, replaced by cold indifference.
+
+He keeps that expression even as Victoria reaches him, and her arm pierces through the same spot my lance struck before the barrier can restore itself. As the barrier snaps back into place, her arm is cut off. It falls to the ground, and before it touches the floor, it grows into a duplicate of her, who immediately takes another step toward Brich, punching him in the face. Her arm and his face explode into a gory shower of flesh and bone.
+
+When the bloody mist is gone, another Victoria regrows from a piece of her flesh, while Brich turns toward the two of them with the same uncaring expression under all that blood. Half of his face is a mess, stripped of skin and flesh, and now missing an eye, but his skull remains untouched.
+
+Before Victoria can move once again, my lance pierces through the barrier once more, almost reaching him. But this time, one of the floating cubes intercepts, shifting the trajectory slightly, just enough to cause my lance to graze his neck instead of piercing it and separating his head from his body.
+
+Brich swings his armored arm, and Victoria disappears in an explosion as his glove lights up. The second duplicate evaporates in a burst of flames released from another floating cube, and inside his barrier, the flames continue to rise, burning everything Victoria could have used to recreate her duplicates.
+
+When the flames disappear, Brich stands there burned and still showing the same nonchalance. His crystals covering his body start glowing as he moves again, but to my eyes, it all feels off, sluggish and awkward, weak even. As if he is using abilities he doesn’t quite understand properly.
+
+Weslin’s already in there, void flickering around him as he slams into the barrier. In a single burst of void energy, it disappears almost effortlessly. The void continues to flicker around Weslin as he steps forward, cutting off flames before they reach him and taking one of the cube’s explosions head-on as it sends a powerful shockwave through the chamber.
+
+Brich staggers, nearly collapsing to his knees, as a yellowish circle forms beneath him, trying to drag him down. The demon woman lunges forward, rushing past Weslin, whose body is rapidly pulling itself back together after the explosion.
+
+Clinging to his footing, Brich forces himself upright and takes a step, vanishing from where he’d been standing just as Malika closes in.
+
+He appears near the golden barrier and the mesh that surrounds the sword. The sword continues to laugh excitedly, calling and challenging, its voice filled with joy, the exact opposite of the indifference of its master, controlling the body of the S rank.
+
+Before Brich can touch the barrier, I use [Redistribution] and hold him there, absorbing an insane amount of kinetic energy as he attempts to push through. His body strains and cracks, while the presence inside him doesn’t seem to care at all.
+
+Even so, I continue to hold him there, and attacks start crashing against his body as more people in the room join in.
+
+In the middle of that bombardment, he turns to me with a piercing gaze. A disgusting feeling envelops me, and something hazy red wavers around him.
+
+Brich’s body collapses to the floor, while Christoph appears standing nearby. The figure that usually hovers over him is now less noticeable even to me, and it holds something that tried to come toward me. A sickly pale red humanoid shape, near transparent, with only its black colored eyes breaking the monotony.
+
+“Oh no, you can’t have that one,” Christoph says, smiling as he holds onto the presence.
+
+That figure, carrying the same indifference it had while possessing the S rank, just becomes more transparent before vanishing completely.
+
+Christoph’s eyes snap toward one of the demons standing closest by. Before anything else happens, his mana flares. The figure expands, and its hand elongates, slamming down and crushing the demon into a pile no thicker than my palm, spraying blood everywhere.
+
+I take a deep breath, then exhale slowly. My minds combine into one, enhancing my senses as far as I can push them. I search for that wavelength, that shift in the mana radiating from the combat now filling the room, hunting for the translucent red figure. But it’s nowhere to be seen.
+
+The fighting slows, and for a moment, everyone stares at one another in heavy silence.
+
+I push harder, expanding my senses, using my passives to sharpen them further. I look for everything and nothing, even the faintest hint, a ripple of mana in the air at its movement.
+
+[Focus - lvl 70 > Focus - lvl 71]
+
+[Perception - lvl 68 > Perception - lvl 69]
+
+[Perception - lvl 69 > Perception - lvl 70]
+
+In the constant noise of the room, through shouts and movement, I filter everything out until something draws my attention.
+
+Where Brich collapsed, inscriptions on his armor activate, triggering something like a healing mark. Then another set of inscriptions on his chest discharges lightning into his body, restarting his heart. A third set touches his mind, and the motionless S rank suddenly takes a deep breath, eyes wide open.
+
+“Oh, fuck this hurts,” he mutters, cursing as he forces his body upright, breathing heavily but talking hurriedly. “It’s been weakened. On its own, outside of taking over people, it has almost no strength, it needs the sword. Every jump into another body makes it weaker.”
+
+Brich triggers more inscriptions and starts to stand, but his body wavers. He falls toward the mesh covering the golden barrier, reaching out with his arm to stop himself from falling. “It’s…”
+
+Before he can finish, my lance pierces the middle of his forehead, slamming against the barrier but not breaking through.
+
+[Empyrean Lance - lvl 31 > Empyrean Lance - lvl 32]
+
+Even then, Brich’s body twitches and tries to reach with his hand toward the barrier. Before he can touch it, Christoph’s figure grabs him by his leg, violently throwing him against the far wall away from the barrier with a sickening crunch.
+
+That red presence seeps from Brich’s body, jumping into a member of Victoria’s group, then into a demon, killing both as it leaves. The claim about limited jumps has clearly been a lie.
+
+I watch it whip around, leaping into two more bodies before anyone can react or even see it, and then driving straight to its target. The body it likely considers the most compatible, the one that could let it wield its powers most effectively.
+
+My sister.
+
+It shoots through the air, invisible to Victoria.
+
+A disgusting, hateful presence. Long ago, perhaps a talented crafter who discovered this kind of ability, likely loathed as much as mind mages.
+
+A wraith. A vampire. Whatever it is, I do not care.
+
+I time it, and at the last moment, I activate the [Ley Line] I had connected to Victoria, appearing in front of her. The presence has no time to stop and slams into me, forcing its way into my body instead.
+
+For a moment, it stumbles in confusion, then moves as it likely did before, heading toward my mind. It tries to tear it apart, to read my memories, to use my abilities in a pathetic mockery of the things I can do.
+
+I feel it stirring within me, and I locate it and reach for it as quickly as it moves.
+
+Then I manifest myself inside my own mind, activating a countermeasure I call: Oh, You Dumbfuck Walked In.
+
+It is something I prepared specifically against mind mages, instead of building passive defenses and walls around my mind. Even Sophie, as one of the most talented mind mages I’ve ever met, finds it terrifying. I'm confident it will work in this case as well.
+
+Simply put, some time ago, I decided not to block mental attacks against me. Instead, I let the attacker enter my mind, and then I use [Manifestation] to appear there myself, face-to-face.
+
+After all, it is MY body and MY mind. I will never allow anyone to take that from me. And right now, I can say without hesitation that my mental defenses are among the strongest of any attendee in Beyond, S ranks included.
+
+The figure floats in endless white space, turning its head in confusion. It doesn’t notice me until I appear at its side and strike, my fist slamming into its head in a clean, solid punch.
+
+Reacting to my will, a wall forms where none existed before, and the figure slams into it. Before it can recover, I’m already in front of it, driving my fist into its chest and hammering it back into the wall. I grab its head, slam it down into my rising knee, then strike again with another punch that bulldozes it straight through the wall.
+
+“You shouldn’t have gone after my sister, motherfucker,” I spit out the words and punch it again.

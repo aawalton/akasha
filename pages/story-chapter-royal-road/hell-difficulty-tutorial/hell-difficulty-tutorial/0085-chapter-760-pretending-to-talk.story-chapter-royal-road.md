@@ -1,0 +1,173 @@
+---
+id: 109fab38-59ba-528f-af4b-9559d116e5f8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 760 - Pretending to talk"
+slug: 0085-chapter-760-pretending-to-talk
+partOf: hell-difficulty-tutorial
+position: 85
+ownLength: 2727
+unit: words
+publishedAt: 2026-02-26
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3096236/chapter-760-pretending-to-talk"
+royalRoadId: "3096236"
+---
+
+“Want to show off and tell me how the fuck you did it?” I ask, sinking into the offered armchair.
+
+To my left is a floor-to-ceiling window overlooking the night city. The skyscrapers outside the window glow like a jagged set of teeth against the dark. A myriad array of cars coils along the roads below, punctuated by various parks full of greenery.
+
+Adrian takes a slow sip of his drink. He closes his eyes, savouring the taste before speaking. “My tournament rewards included a Difficulty Change token. Usually, that’s the worst possible reward for someone from Hell difficulty or Beyond, but for me, it was exactly what I wanted.”
+
+“Yeah, and maybe the rewards you could choose from were influenced a bit by your Handler, or by mine, right? So you were trying to get more out of the tutorial?”
+
+He nods. “Of course. As much as the system allows. To claw every advantage I can get. You’d have done the same, I believe. But when I used the token, the Ruler of Diligence spoke out strongly against it.”
+
+“I can imagine,” I snort.
+
+I don’t know if he’s mirroring my feelings, but a sharp smile crosses his face. “Greed, Kindness, and Wrath were all for allowing me to start over from Floor 1.”
+
+“But?”
+
+“But the Ruler of Diligence invoked his veto. He gathered enough of the available Rulers to vote on it, and their side won in the end. They couldn't stop me from entering the tutorial, but they forced me onto the 13th floor to reduce my ‘cheating,’ as those bastards called it, to a minimum. So here I am, on Earth, after clearing the 13th floor of the tutorial.”
+
+“Didn’t want to go to the 8th floor of Beyond?”
+
+“Oh, I did. I really did. I just don’t think it’ll be possible for me to reach it in my current state. Perhaps with one or two capable people. But it just wasn’t meant to be.”
+
+Adrian’s smile remains fixed. “You know, I really enjoy your emotions. It’s a fascinating feeling, sensing them like this even though your expression doesn't change. All these little impulses, and the other impulses controlling them. Your feelings constantly shifting as you feed yourself different thoughts, coaxing other feelings to overpower them. Tell me, how much has Greed told you about me?”
+
+I sniff at the alcoholic beverage he’s mixed for me before taking a small sip, “She hinted she would stick with you even if you slaughtered me or destroyed my entire planet. She told me about your [Mirror] and a bit about how it works, and a bit more about how you used to behave as an Absolute, that kind of stuff.”
+
+“So, a bit more than I’d like.”
+
+“Probably. She doesn’t seem to like you very much.”
+
+“A lot of people don’t,” he says, abruptly shifting the subject. “Do you know that the entrance to the World Dungeon appears only after the tutorial is concluded?”
+
+“I do.”
+
+“Do you know that even when it does appear, it’s up to the natives to reach the entrance, and that process alone requires a decent bit of effort?”
+
+“I know that as well.”
+
+“So you didn’t rush here to try and become Absolute before me?”
+
+“If I were so misinformed that I thought I could do so, I would’ve come here much earlier, wouldn’t I? You know very well why I’m here.”
+
+“I do.” He nods and stands up, gesturing for me to follow.
+
+We exit the penthouse and step onto the terrace. The noise of the city rises up to meet us.
+
+Adrian says, “I became quite wealthy before entering the tutorial. I have apartments like this all over the world. I spent a decade or two multiplying my wealth as much as possible. I think I just wanted to distract myself from the possibility that I’d failed.”
+
+“You sure do like to show off.”
+
+“I know,” he laughs shortly. “It is in my nature, and there are a few more bad habits I’ve yet to break. Nasty ones, but as long as I’ve lived, and with the way they’ve hung around, I guess they’re here to stay. I look down on people, I hate losing, I talk too much, I want people to acknowledge me. All the pathetic things that have stuck with me since I was just an unawakened human.” He waves a hand dismissively.
+
+Then he looks down and pours the amber liquid from his glass over the balcony. “Sometimes I suppress them. Other times, I do not.”
+
+I watch the droplets flicker in the air as the wind scatters them.
+
+“Have you come here to try to gain the Fragment that Earth holds? The one hidden here should be quite powerful and valuable.”
+
+“You know I didn’t.”
+
+He lets his glass fall. Both of us watch as it plunges toward the empty street below, and after several seconds, I watch it shatter.
+
+“So you just wasted your Earth visitor token like that,” he says, and the mana around him begins to surge. The figure that had been floating invisibly behind him becomes just a tiny bit more noticeable, even to normal sight.
+
+“You know I don’t give a fuck about rewards in certain cases. You seem to love reading my emotions, so why don’t you tell me?” I say calmly, despite the fury rising inside me.
+
+“How could I not know?” Adrian says, straightening up and turning to me. His eyes glow with the same blood-red hue of the Wraith he absorbed, the figure that follows him like a permanent shadow. “But Nathaniel, your searing heart, all the mana you’ve transformed and gathered inside your body, all these currents swirling around you. Your eyes, and your intent...”
+
+As he speaks, his voice gains volume and speed. His gaze hardens as his voice rises into a deep, threatening rasp, with the figure behind him looking as if it is towering over the entire city, “HOW can you come here to beg, while pointing the equivalent of a loaded gun to my head?”
+
+That deep red glow in his eyes intensifies, and his presence swells with it. Metal creaks, the air hums, and the sounds of the city below fades into a distant echo.
+
+My mana surges to my fingertips, waiting for a single order to explode and kick off the fight, the sort of fight where I don’t give a fuck about my own survival, much less that of the millions of people living in this city. Not even the slightest bit. I’m still like that.
+
+These thoughts settle inside of me with a calm, familiar cold, and I hate how easily it fits. I let the mana coil tighter instead of releasing it, forcing my breathing to slow as the terrace groans beneath the pressure of two monsters pretending to talk.
+
+I meet his glowing gaze without flinching, because backing down now would mean admitting loss. The city below keeps moving and breathing, ignorant and so very fragile, while two of us balance on the edge of turning this night into a catastrophe.
+
+But the tension passes. As quickly as it arrived, the pressure he’s been releasing vanishes. Adrian smiles again, his eyes returning to normal. “Oh, to be young again. Want to hear something from an old man?”
+
+“Tell me,” I say, my voice cold.
+
+“I used to be just like this, up until one hundred fifty years ago. Greed’s weapon, just like you. For decades, we cooperated, with her knowledge and my abilities, and I grew even stronger. Up until the moment she tossed me aside like trash.”
+
+“What happened?”
+
+“She gave me a record of one of the Challenges against Pride. It showed one of her previous weapons, someone capable of making even Pride take things the slightest bit seriously. And I froze when I saw it. I was intimidated. She noticed that moment of hesitation and threw me away like a broken tool. A failure. All because of a single second of doubt.”
+
+“Want me to be honest?” I ask.
+
+“Be my guest. I promise not to hold it against you.”
+
+“I admire that you tricked the system and did the tutorial all over again. Honestly, ever since I learned just how impossible that is, I admire it. It’s a beautiful middle finger to the system and all those assholes who call themselves Rulers.”
+
+Adrian looks at me with genuine interest. “But?”
+
+“But why the fuck would you have ever trusted Greed? Why would you think she wouldn’t simply discard you again at any moment?”
+
+The man in front of me smiles. “Did you not do the same?”
+
+“That’s exactly why I’m asking.”
+
+He doesn't answer and instead asks, “How does it feel, knowing she would throw your entire planet at my feet? All your family left for me to use against you while you’re stuck in the tutorial?”
+
+“Very unpleasant. I expected some of that from her, but not quite to that level.”
+
+Adrian nods. “Blights and Radiances taken to their extreme are like that. Their Rulers are no different.”
+
+“So, what now?” I ask.
+
+“Now?”
+
+“Are we going to fight to the death?”
+
+“We can, if you wish. I can sense that much from the emotions I’ve mirrored from you. You, coming all this way for the simplest of things: to confirm that your family will remain safe. A single parent, from what I can sense. A mother, probably? Did you spend a few nice moments with her? One last visit before you came here, thinking there would be a high chance that you’d meet your end? Do your friends even know?”
+
+I stay quiet. Adrian looks back over the city, smiling knowingly. “Since I know that much about you, I’ll tell you a bit about me. And also because I apparently like to listen to my own voice.”
+
+“Go on.”
+
+“I almost killed myself. You know, suicide, the last shred of control I felt that I had left. It was fifty years after the tutorial was supposed to start, and I’d even developed cancer, leaving me with a scant few months of pathetic life. I don’t think I’ve told you that yet,” he smiles weakly, and looks at his hands, turning them slowly, palms up, then down again. “Do you understand how obscene that felt? All of this up here,” he taps his temple, once, hard, “the knowledge, the plans, the potential, all of it trapped inside this.” His voice rises, faster now. “This fucking thing.”
+
+His eyes gaze over his body with contempt as if remembering how it looked before the tutorial, “A sack of flesh and blood. Warm. Soft. Failing. Chemical garbage sloshing through its veins, hormones hijacking my thoughts. Signals crawling along nerves at a pathetic pace, milliseconds pretending to be speed, latency baked into my very being.”
+
+Adrian flexes his fingers again, harder this time, until the tendons stand out. His eyes don't see his current body, rather they’re remembering the one he spent over 70 years in, “Muscles that need oxygen, that tyre, that tear. Fibers that tremble under the slightest hint of stress instead of executing my intent cleanly.” His breathing sharpens. “Every. Single. Action, delayed. Every thought filtered through meat.”
+
+The words come quicker, almost tripping over one another. “A disgusting, useless pile of flesh pretending it deserved to house my mind.”
+
+He straightens abruptly. “I had already chosen the place. Mountains with clean air, and no one to witness my end. And then, right as I was standing there, right at that exact second, the tutorial started.”
+
+"Such interesting timing," I answer, watching as he calms down and fixes his clothes. He doesn't even look at his body anymore.
+
+Adrian agrees, "I don't believe in coincidences like that. Someone out there rigged it. Even I'm not narcissistic enough to think Pride did it, or that he’d show even the barest flicker of interest in me. But I will find out what happened."
+
+He steps away from the railing and walks back inside the room. Septa quickly rushes to his feet, tapping against his leg a few times. Adrian smiles down at her. "I went to the moon, where she’d been left without her master. Somewhere in between death and new life, I helped her shed her old skin, and now here she is. Not as powerful as before, but she’ll get there."
+
+Turning back to me, he says, "You sure don’t talk much when you’re pissed off and ready to fight. So let’s make this crystal clear. As I said, I want you and Victoria to be my Champions. I won't hurt your friends or family, though things on Earth are going to change quite a lot. There are people who need to die. Countries that will fall, and governments that will need to be replaced."
+
+He says it all with casual indifference. "At the start, humans will fight back. I know many will refuse to accept me. Those people will die. The Tutorial’s attendees will fall into line more easily, they at least understand a fraction of the power we hold."
+
+"I don't think there’ll be anyone left to stop you, not until the tutorial ends."
+
+"There won't be anyone, even after that," Adrian corrects me. "In just a few months, I will attempt to initiate an additional Pairing. With these old system logs still considering me an Absolute in the background, I might be able to pull it off, and I’ll try to take advantage of that. I’ll visit the Coordinates of planets I know I can handle."
+
+Surprise washes over me, but I suppress it, and Adrian continues, "There are a few Coalitions Earth can join. After we make it through these Pairings and the planet grows stronger, we can settle in and make our move to join one and...."
+
+Finally, sensing my emotions, he shuts up for a moment, standing near the fireplace surrounded by his curated luxury.
+
+Then he starts laughing.
+
+At first, it’s like a child who’s done something petty and wrong, but the sound swells, louder, more amused, as if he’s mocking the entire world, and me in particular.
+
+When he stops, the aftereffects of the laugh still dance on his face. "I’m so sorry for teasing you all so much. The waves of your emotions are just so delicious. Here you are, ready to fight. There’s that tiny amount of fear in you, that pride of yours, the frustration, concern for your people, but not a single goddamn speck of intent to give up. I love that, and I fucking hate that about you. It makes me wonder what you would do in my situation, and in a way, it scares me to know the answer. I want to kill you and torture you, but at the same time, I want to keep you and control you."
+
+He sighs, laughing again. "Ah, that was really fucking fun!" He snickers before his voice turns sharp and direct again, as before during our standoff. "If you attack me, I will kill you, and then I’ll kill your mother and everyone else on Earth you’ve ever known. If you think you can win, do it. Challenge me. If there were even a small chance that you were right and you might be able to defeat me, I would simply run away. I'm more than capable of that. Then I’ll wait until you return to the tutorial, and I’ll crawl back here to slaughter your mother and everyone else you hold dear."
+
+He chuckles once more. "Is it not satisfying to hear it all laid out? Does it make me a villain? If I stayed quiet and refused to state what we both know as reality out loud, wouldn’t I still be one? Everyone in our situation thinks of the same options, probably even you. If that's the case, if you were stronger than me, would you be the villain from my point of view?"
+
+I stay quiet. Adrian’s smile grows. "I won the moment I completed the tutorial before you. The moment you had something to lose here, under my control. And the most amusing part is that your handler helped me gain the rewards I needed to return here, all on a silver platter. I told you not to trust that bitch."

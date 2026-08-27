@@ -1,0 +1,167 @@
+---
+id: 956d3475-4cf2-5cf8-b172-3376f702e84d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 851 - The Boys No More"
+slug: 0178-chapter-851-the-boys-no-more
+partOf: hell-difficulty-tutorial
+position: 178
+ownLength: 2390
+unit: words
+publishedAt: 2026-08-02
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3760764/chapter-851-the-boys-no-more"
+royalRoadId: "3760764"
+---
+
+Nyssa uses the distraction to walk behind one of the velnar who’s stopped to stare in the direction of the ruckus. Her figure disappears entirely behind his body, and by the time the velnar takes a step back, she isn't there anymore.
+
+My eyes widen, and I turn around just in time to reinforce my body and put my hand on Nyssa’s forearm. She pushes against me, and I slide over the ground, only to stop with my back against the wall. Then the tip of her dagger stabs into my belly, and I fail to fully stop her.
+
+I swing my dagger as well, but she hits my wrist with her other hand, causing me to drop it.
+
+She keeps pushing her dagger with just one hand, as I grip her forearm and wrist with both of my hands, trying to stop her. But she continues to overpower me, pressing the dagger deeper and deeper.
+
+No one pays us any attention, and most of the people either choose to run away from or to Morwag. I think it says a lot about Beyonders. Although I can't really sense Morwag’s presence anymore.
+
+I don't even try getting Nyssa to change her mind. She’s just as crazy as all demons. But finally, I finish drawing an inscription on her forearm with my own blood, all under the pretense of holding it in place. And finally, Nyssa notices it as well.
+
+She swiftly lets go of her dagger, and I let go of her hand, instantly teleporting away.
+
+I reappear in the exact same spot I appeared when I first came here and leaned against the wall. That’s when I had found the time to draw the inscription I just used as an anchor.
+
+The inscription I drew on Nyssa should disrupt her mana to slow her down and hopefully detonate her arm in the process, though I wouldn't be surprised if it only made her stronger instead.
+
+Using Wraith Dance, I move swiftly through the crowds, activating it a few times to reach different parts of the city. Only there do I decide to slow down to walk past the fountain that sprays geysers of water in delicate shapes toward the sky. The sound of the water is weirdly calming, and a slight breeze pushes a few small droplets onto me, and they feel like they are cooling me down.
+
+My body is currently hot and weak. I also put my hand against my wounded chest, though that does very little to stop the bleeding, instead, I just end up with a bloodied hand.
+
+As the fountain changes its rhythm, the geysers fall down, preparing to shoot up again in a different pattern. And then there she is. Nyssa is standing on the other side of the fountain, with her arm, obviously, not missing, and her eyes locked onto me.
+
+I groan, not only in pain, just as the fountain shoots up again and blocks my view of her.
+
+I move, and at some point in the middle of my Wraith Dance, she smashes into me, canceling it out. Both of us stumble, crashing into what seems to be some sort of C rank Selari recruiting newbies.
+
+“Hey, what the fuck are you-”
+
+He doesn't get to finish as I throw Nyssa off balance and slam her back against the guy, sending him flying into a nearby shop.
+
+Nyssa furrows her brows, and her open palm hits my chest, making my wound bleed more and hurt much, much worse, and I cough up some blood. Still, as I open my mouth, an orb of mana shoots out from it.
+
+But she’s still very fast, mostly avoiding it and leaving her with just a scratch on her cheek.
+
+Both of us form our daggers again. I use Wraith Dance, and she hijacks it again, but with much more oomph this time. Our landing sends both of us off balance and against the chairs on a terrace, which opens up to a view of a smaller park and people eating nearby.
+
+I'm about to charge her again, but some tiny person chooses that moment to tug on the leg of my pants. When I look down, I find Zant standing there, as adorable as ever.
+
+He tugs on my pants again, his intent obvious, though I keep hold of my dagger and look up toward Nyssa, who continues to hold hers as well.
+
+“Lady Nyssa, he’s lost already. Is that not enough?” Zant says.
+
+“I haven't lost shit,” I say, but Zant ignores me.
+
+“I believe you can find a better place to continue your duel, but for now, please tone it down. After all, this place is one of the many Entrance Floors where fresh Beyonders can get their bearings, and there are no Champions directly overseeing it.”
+
+People around us start to watch with interest. Some put up defenses and just keep eating, maybe making bets. There are a few who seem to recognize Nyssa’s name or description, or perhaps just our power, and they quickly clear out of the area.
+
+Looking at Nyssa standing there, I give it an 80% chance that she will attack me anyway.
+
+That's why I'm surprised when she dissolves her dagger and dusts off her clothes. “I will step back this time because you asked. And because I don't want the Ruler of Diligence to get angry at me again.”
+
+Only when she says that do I cancel out my dagger as well so as to avoid provoking her further, and I sit down on one of the nearby chairs in the corner with a nicer view toward the greenery of the park.
+
+Without asking, I take some pillows from the nearby seating and stack them up to make a place for Zant to sit next to me.
+
+And for some reason, Nyssa takes a few steps over to sit with us as well.
+
+In silence, all of us wait for a minute until a waitress comes out with a big smile, though I sense her heartbeat beating in an extremely erratic manner. She has the bottom half of a spider, and as it turns out, a spider’s head as well.
+
+“Welcome to the Green Lizard Inn, what might I offer you?” she asks, her voice not showing even a hint of her fear.
+
+I'm almost impressed until Zant, next to me says, “I would like a beer-”
+
+I don't let him finish and cover his mouth. “Forget about that,” I say. “For the cute little guy here, some freshly pressed fruit juice, chilled and with a lot of sugar.” I pause, thinking if Zant will like sugar the same as ants. Probably, yes.
+
+Then I continue, “And some juice for me too, also cold. And something sweet, multiple desserts. Some towels and water as well, so I can clean my hands.”
+
+The waitress writes it down and looks at Nyssa, who just says, “Same as him.”
+
+After an energetic nod and another flashy smile, the waitress leaves, and the awkward silence ensues again.
+
+I shake my head to keep myself from dozing off, and focus on keeping my healing passive activated. Then, I also start dealing with my constructs, because, of course, they’re getting terribly scrambled as my Mana Physique begins its evolution into a Mana Vessel. Plus, there’s the Ichor’s strengthening, my wound, and some other things barely worth mentioning, like total mental exhaustion.
+
+I don't even realize when, but Nyssa stands by me and taps my chest a few times, not caring about the blood she’s getting on her hand, though she makes sure none gets on her clothes. It hurts, but after that, all the wounds she caused start to heal normally.
+
+“Isn't that twisting the way weapons are meant to function?” I ask her.
+
+And as she sits back, she simply explains, “If you truly control your weapon, you should be able to decide when you cause harm with it and when you do not.”
+
+And it's back to silence. That sentence from her makes me realize that she is just as delusional as anyone else in the tutorial. Everyone has their own point of view, and their skills react to it. Or maybe they just get the skills that fit with their worldview. I, for example, would have a difficult time coming to the conviction that a weapon hurts only when I want it to. I mean, once you’re hurt, you are hurt.
+
+“Sir Gwyn,” the quiet voice by my side brings my attention to him.
+
+“Yes, Zant?”
+
+“I asked Sir Morwag to leave and go back to the surface, but before he left, he told me to tell you that if you two meet again, he will fight you to the death.”
+
+“I see.”
+
+“I think he was serious.”
+
+“I think so too.”
+
+They bring us what we ordered, and I watch Nyssa take a sip of what looks to be strawberry juice. After washing her hands, she takes a fork and sets herself to devouring multiple plates of cake and other fancy sweets mirroring the ones in front of me. She even gets some on her nose and cheek.
+
+Meanwhile, I wash my hands and dry them before moving the glass of juice closer to Zant. That glass is much smaller than mine, as if the people here are used to serving vyssari. There is also a similarly small bottle with more of the drink.
+
+Zant takes a few long gulps and stops for a moment because of the cold drink before taking a few more.
+
+“You know, I spoke with your sister once,” Nyssa says out of nowhere, pausing her eating as she looks up at me.
+
+“I know. During the reception in the Megacity, right?”
+
+“Yes,” the albino demon nods, looking down at a cake and stabbing her fork into it. “I’ve never met anyone like her. Not before and not after.”
+
+“Vic is just like that,” I confirm.
+
+“Yes. Back then, she told me that I was allowed to fight you, to hurt you. But also that if I ever killed you, she would find me, kill everyone I held dear, make my life a joyless void, and only then would she kill me.”
+
+“That sounds like her,” I confirm again.
+
+Nyssa takes her fork and stabs the cake a few times before smiling. She cuts off a piece of the stabbed cake and continues to eat it.
+
+And even while dealing with all the trouble with my body, I wonder if Victoria ever judged Nyssa to be a threat, and if that's why she warned her. I wonder if she’s done the same with anyone else. Maybe Lyraen? The guy could be dangerous if he surprised me. And of course, my natural enemy, Tacita with her “gun”. Though, as of late, I think I’m proving myself to be my own worst enemy. Be it good or bad.
+
+Carefully, I reach to the side and tap Zant’s tiny shoulders before ruffling his hair. His head is so small that I have a feeling I could probably hold its entirety in my palm. I could also probably squeeze it, shake him, or just hold him and swing him around. I could pull on his cheeks and hold his tiny, tiny hands. The little guy is supposed to be Champion level, apparently, but I care nothing for that.
+
+I miss my ESC, I miss Biscuit. I think he’s safe, and it hasn't even been that long since he… left. But often I find myself looking for our bond, only to find it entirely gone.
+
+There is that promise I got from that cockroach that she would try to check on him, and I trust her promise more than I would for any of the people I currently know. At least when it comes to having the actual power to do so.
+
+After finishing her cake, Nyssa stands up. Without even offering to split the bill, she then walks away, saying something about having to go get her clothes and return to the 6th floor.
+
+It slightly, a tiny bit, annoys me that she doesn't press to continue our duel to decide the winner. Almost as if she were already convinced of the result. But I also don't challenge her either, so that probably just confirms it for her.
+
+Honestly, I don't care that much about it. Not even a bit. There’s just too much I'm already dealing with.
+
+“Is Diligence really that angry?” I ask Zant when we are left alone.
+
+“He is not so simple to bring to anger. He just dislikes when people break the rules and behave irrationally,” Zant pauses. “I think that might be why he has a hard time understanding demons.”
+
+“Well, being as old as he is, he probably understands, he just dislikes the way they behave most of the time. Though, it is nice to hear he is not angry at me. After all, I did nothing wrong. I'm just a victim of my environment and the people surrounding me, correct?”
+
+“Perhaps, Sir Gwyn.”
+
+“Little rascal,” I ruffle his hair again as I say so. “Well, what now. Morwag said he’s going to try his best to kill me, and when he declares something like that, he isn't joking. I think he’s been pushed a bit too much as of late and decided to let loose. I could probably return, but there is a chance I’d have to kill him, and I'm not sure I'm in a state where I could fully control the fight.”
+
+“It would be sad if Sir Morwag died.”
+
+“Right? I already said my goodbyes to Weslin, and he and Morwag will be leaving the tutorial soon. I will, unfortunately, have plenty of opportunities to see Savant, and no one cares about that kleptomaniac Brich,” I sigh. “Well, once again, it is a girl who broke apart the boys' group.”
+
+“Perhaps.”
+
+I ruffle his hair again and begin to think he might be doing it on purpose. But none of his body language or expressions lean toward that. As always, he looks like he swallowed a metal rod and just finished a lesson on behaving like a little gentleman.
+
+"I have to go." He says.
+
+“Understood. I will see you later, Zant.”
+
+“Likewise, Sir Gwyn.”

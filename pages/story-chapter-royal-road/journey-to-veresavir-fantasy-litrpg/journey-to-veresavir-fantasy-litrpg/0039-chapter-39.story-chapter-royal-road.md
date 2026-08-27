@@ -1,0 +1,119 @@
+---
+id: c67f0c20-b934-58f2-9a22-6d8c5098e8b4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39"
+slug: 0039-chapter-39
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 39
+ownLength: 931
+unit: words
+publishedAt: 2026-01-17
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2952911/chapter-39"
+royalRoadId: "2952911"
+---
+
+Chapter 1
+
+The glass gave way, and Veron crouched and stumbled out from the strange tube. He saw spots in his vision, the ringing still in his ears. He saw the golden floor. The lanterns. The table at the center of the room. And a moment later he was standing before Envolon.
+
+“It’s you,” he said.
+
+“Welcome back, Veron.”
+
+“Tell me what is happening? I was dying on a tree. I did die. Did you pull me out? Heal me? What is this place? What is this about?” He was breathing hard.
+
+“You have to calm down. You're not in a state to-”
+
+“Tell me! What did you do to me?”
+
+“This is part of your adventure.”
+
+The ringing got worse. The others were out there, dying in the forest, to some cursed fucking monsters. And Eyra. He can…
+
+“Send me back! You can send me back, can't you?” He hesitated. There had been too many, he wouldn't be able to do anything. But maybe in Eyra. “To Eyra, to the Terriam range.”
+
+“Veron, you need to listen to me. There is nothing-”
+
+“I don't need to do shit! You wanted me on this adventure, you got me. Now send me back!”
+
+The silver masked being looked at him as he panted. “Very well.”
+
+Envolon raised his four arms and started casting, deep blue light appearing as the magic thrummed to life between his hands.
+
+Veron locked eyes with the being, and then he vanished, appearing in the forests of the Terriam range.
+
+It was bright and he didn't feel the curse. That's good. That means it didn't reach here. But I have to tell them and get help. Maybe some of the monsters reached them already.
+
+Veron started running, only slowing down when he nearly slipped and fell. He was naked and without weapons.
+
+How much time has passed?
+
+He grabbed a few rocks and started shaping, slowing his pace and breathing.
+
+He felt a pang of guilt. I should have let him speak. Maybe he knew what was going on.
+
+No. He definitely knew what was going on. Shit, I'm a fucking idiot.
+
+And he could have helped as well. He's obviously powerful.
+
+Powerful enough to deal with that curse?
+
+He didn't know but was getting more aware of the fading smell of iron.
+
+He did use Fae magic.
+
+The forest was familiar to him now. Not this particular section but he could see hills and mountains to orient himself. Veron started running again when he felt like he could.
+
+Did I die?
+
+The thought lingered in his mind for a while. There was a lot to think about and reconstruct. Maybe Ivera had an idea.
+
+If she’s alive.
+
+He felt anxious. It didn't make sense. What kind of magic could pull him away like that and heal him too?
+
+He slowed down again, and then ran again, feeling more and more anxious and uncertain. What tethered him to the moment was the closeness of Eyra. If he could talk to them, he could figure things out.
+
+Veron stopped when he reached the hill topped by the two-story home of the Holts. It was still there. And it didn’t look damaged. “Ivera! Aren!” Nobody replied. He shouted again and started ascending the hill.
+
+“Don’t move an inch closer,” a voice said from behind him. Ivera’s.
+
+He turned and looked at her, breathing in sharply as tears came to his eyes. “You’re alive! Ivera, the curse, the pillar of light.” He took a step towards her and saw her unsheathe her sword.
+
+He hesitated. A gust of wind flew by, moving her long brown hair and the dark red cape she wore. Her eyes were focused on him, a tinge of red in them.
+
+“What are you?” she asked.
+
+He opened and closed his mouth, the ringing in his ears back. “What do you mean? I’m Veron… you’re Ivera… Ian, I…”
+
+Her eyes narrowed and she moved.
+
+Veron barely saw the blade, a wide sweep, and pain from his neck.
+
+“I’ve heard of creatures like you,” she said as he fell.
+
+Veron tried to speak, close now to the white flowers growing all around the hill of the Holt farm. He realized now, that it was warm.
+
+Golden light flowed around him, as if a curling beast was cradling his dying form.
+
+He woke, then opened and closed his mouth, feeling the cold ground and wall behind him. His vision blurred and he slid down to the ground, closing his eyes as he felt and heard his heart pounding in his ears, his breathing quick and shallow. Tears rolled down his face.
+
+He couldn’t bring himself to move, his lips quivering as his heart kept pounding and pounding. Veron saw the murky glass before him shift and he saw Envolon again, the strange being crouching down and careful not to injure its damaged leg.
+
+“Veron. I’m here,” he said and slowly moved closer, gently grabbing his hand and holding it. “You are having a panic attack. It will pass. Try to focus on the cold floor, and on my hand.”
+
+Veron watched him and after a while, Envolon conjured a small cube of blue light, keeping it hovering above his palm.
+
+“Fae Path magic,” Envolon said. “It’s quite a simple spell but I’m afraid you won’t be able to learn it. Even with a Relic.”
+
+“Why not?” Veron heard himself say.
+
+Envolon seemed to smile ever so slightly. “Because you’re an Elemental Path.”
+
+They looked at each other.
+
+“Do you feel better?” Envolon asked.
+
+Veron nodded.
+
+“Envolon. What is happening?”

@@ -1,0 +1,119 @@
+---
+id: 2def4dbf-b8fa-59a4-b307-aeb622392823
+page-type-slug: story-chapter-royal-road
+title: "151. There's More Than One"
+slug: 0151-151-theres-more-than-one
+partOf: god-of-trash
+position: 151
+ownLength: 1960
+unit: words
+publishedAt: 2025-08-04
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2492273/151-theres-more-than-one"
+royalRoadId: "2492273"
+---
+
+Rhys would have liked to keep the banter up for a little while longer, personally, but there was no time. The other high-Tier signatures were rapidly approaching. If he waited any longer, he’d be fighting not one, but three Tier 3 fighters. It looked like two at once was inevitable, but if he and Landon fought now, three on one should be preventable. So he charged, closing the gap between him and Landon as fast as possible.
+
+Landon was huge. Enormous. Eight-foot-nothing and at least six hundred pounds of pure muscle. He didn’t carry a weapon. It was quite transparently obvious that he didn’t need to. He saw Rhys coming and didn’t budge, except to smile.
+
+Oh, fuck.
+
+Rhys’s sword, Trash Intent and all, struck the man in the shoulder and bounced off. The blade didn’t so much as scratch the man’s skin, not even the Intent part. Rhys stumbled backward, shocked. No one had ever shrugged off Trash Intent like that. Just tanked the hit like it was nothing.
+
+Landon was a Tier 3, just like him, but it didn’t feel like they were the same tier. Not the way Landon could totally ignore his hits.
+
+Rhys whirled his blade and stepped back, eyes narrowing. He sheathed the sword and bared his hands, flexing his fingers. Looked like pretending to be a swordsman was over. It was time to get dirty.
+
+“Giving up?” Landon mocked him.
+
+“Not at all. I’m just getting started.”
+
+“Wonderful. Because I haven’t started yet either.”
+
+Rhys bit back the urge to shout no shit, Sherlock; Landon hadn’t moved at all yet. Still, it seemed like a waste of effort and breath, especially when the man was clearly winding up for a strike. Rhys jumped back, throwing his mana toward Blow Mitigation for the incoming hit. This was going to be a big one.
+
+He realized, fractions of a second later as he was flying backward through the air, that he had under- and overestimated several things.
+
+One, he’d thought Landon was strong and big, but that was it. That was wrong. There was no ‘it’ about being strong and big. Landon was strong and big, and holy fuck, was he in trouble.
+
+Two, that the upper limits of Blow Mitigation were far lower than he remembered, probably due to him not using the skill much since Infinite Constellation. Several ribs were broken. He could feel the sickening sensation kicking in now, along with the unfortunately familiar held-breath sensation of adrenaline holding back his pain. A numb part of himself activated Trash Body to prolong his future moments of consciousness for as long as possible.
+
+Three, as his back hit the ravine wall in a cloud of dust and shattered rock fragments and all the air left his body, that he could hold out against Landon for any amount of time without using his poisons. What had he been thinking? Wanting to test his strength against other Tier 3s? What kind of non-trashy thought process was that? He wasn’t he kind of guy who could take someone else out without cheating, so why hadn’t he immediately opened with a cheat? Foolish. Conceited. Deadly?
+
+He slid down the ravine wall, still uncertain about that last one. His vision flickered as Landon approached, stepping over the crevasse that Lira was trapped at the bottom of. Rhys struggled to sit up, but even with Trash Body, that was proving more difficult than he’d expected.
+
+Why’d I think this was going to be easy, again?
+
+Oh, right. Because all his little brothers were pushovers.
+
+Landon’s paw of a hand landed on his shoulder and hauled Rhys upright. Numbly, Rhys took his feet once more. Landon nodded at him, approving.
+
+“A warrior should die on his feet. You’d be surprised how many people in your position break down weeping and refuse to stand. I ought to commend you,” he stated.
+
+“You know, it’s only because I have a specialized skill that I can stand. You broke a lot of my bones just then,” Rhys informed him. He was starting to regret not bringing backup. Or was he? Even if he’d brought backup, what could anyone else do? They were all Tier 2. He really was their single strongest unit. And right now, he was feeling profoundly like the final tank standing in a hopeless battlefield, after all the other units had already died to the brutal turn-based world of Flame Crest, watching the warriors approach and knowing he could prolong total defeat, but couldn’t win this map anymore.
+
+Hey, how do I quit out and restart the map? Anyone remember the buttons? I need my units back. And my HP, for that matter.
+
+He’d be a weird Flame Crest unit. One that could use broken weapons better than normal ones. Like some variant of a unit with Spendthrift, the skill that let units extend the number of uses weapons had before they broke. But backwards. Was there a skill that let units use weapons fewer times, but do more damage while they lasted, in that game? It felt like there should be, but he couldn’t remember.
+
+You’re drifting, Rhys. Snap to before the big guy punches you in two for real this time.
+
+The fist was already hurtling toward him. Rhys narrowed his eyes, forcing himself to focus, and put his all into kicking off the ground. The fist blew past him, totally missing him, but the wind from the fist spun him around anyways. He stumbled, and probably would have fallen if not for the pile of discarded chicken bones under his feet.
+
+Rhys had never felt so grateful to greasy chicken bones in his life. He wasn’t sure he could get back up if he fell right now, after all. He waved his hand, calling forth a bladed scrap of impurities. With all his strength and mana, he threw it at Landon’s face.
+
+Landon leaned to the side. He snatched the dart out of the air as it buzzed by his face, then opened his palm, looking at the little scrap of black filth squished in his hand. He laughed. “What is this? It feels dangerous.”
+
+Rhys stared. That wasn’t possible. Landon wasn’t affected by impurities? At all? How? He’d never—that wasn’t possible—
+
+“Startled? My Untarnishable Gold Skin prevents poisons from afflicting me. Ah, are you a poison master? My apologies. Your poisons won’t be able to affect me.”
+
+Skin. Rhys’s ears perked up at that. “Only your skin?”
+
+“Would you like to test it?” Landon offered, suddenly considerate.
+
+Rhys frowned. That wasn’t a good reaction. He doubted his poison-gas attack would have much effect with that kind of offer. Landon could be bluffing, but he seemed more likely to be earnest. I don’t have much time. I don’t have many moves left. I need to pick the things I do from here on out wisely. Testing things was no good. Anything but sure kills were off the table. He’d just been defending drawn-out, slow-escalation battles, but now he could no longer hold back his aces. If he kept them up his sleeves now, he’d simply die with a bunch of cards on his body.
+
+But what sure kills do I have?
+
+A thought came to him, and Rhys’s eyes widened. No, no, no. I just said that I can’t experiment. I can’t do it. I can’t risk it.
+
+But if it works…
+
+He wracked his brain, fighting to think through the pain. Nothing came to mind. Impurities were a gamble. Poisons too. Even his ultimate potion, he didn’t know that he’d be able to get past Landon’s resistance. The sun sword… it could probably defeat Landon, but could he land a hit before Landon crushed him or the sun sword? Landon was big, fast, and strong. Rhys didn’t like his odds against Landon’s physical stats. The guy had obviously cultivated his body—and why not, in the Empire, where the Empress could snatch your core at any moment? She could take his core, but not his body. Even without a core, he’d still be a force to reckon with. It was a shockingly wise decision.
+
+A shockingly wise decision that left Rhys with shockingly few options. The man was stronger, faster, and bigger than him, with an immunity to impurities and poisons. Trash Intent was meaningless. A physical attack was foolish. Likewise, any ranged spell risked Landon dodging it. His curses weren’t strong enough to significantly debuff or injure Landon.
+
+That one idea appeared again. Rhys grimaced.
+
+Dammit, I don’t have another idea!
+
+He pulled a jar out of his storage ring, a grim expression on his face. Landon looked at the jar and frowned. “Your… final meal?”
+
+“No. Yours,” Rhys said, and threw the marinara on the man.
+
+It was old, half-rotten marinara. He’d discarded it on the farm long ago, sitting on the side of the plants. When he’d retrieved the sun sword and the filth potion, he’d seen it sitting there and thought he might be able to brew it into something later, but desperate times called for desperate measures, and now Landon was blinking at him from under a layer of rotting, moldy tomato sauce.
+
+He lifted a huge paw and wiped his face. “I hope you enjoyed that final laugh.” He advanced, his footfalls enormous, his face stormy.
+
+“Ha ha,” Rhys deadpanned. He surged his mana, focusing on the tiny seeds mixed into the rotting tomatoes. Rhys poured his Trash Intent into them, calling out to their desire to grow, their need to sprout and develop.
+
+Most of them didn’t respond. They’d been cooked, then left to rot for three years. There was little left of them, intent or no.
+
+Come on. Come on!
+
+Landon stomped closer. He loomed over Rhys and drew back his arm. His hand curled into a fist, everything moving in slow motion as Rhys’s adrenaline surged.
+
+One of the seeds stirred. A Trash Intent sprout uncurled from the tiny white seed, and Trash Intent roots sought earth. Rhys’s mana poured out of him, struggling to support even one seed. The undead tomatoes took far too much energy to grow. He couldn’t grown them.
+
+But Landon could.
+
+The roots twitched, then surged into Landon’s Perfect No Poison Skin, or whatever he’d called it. They sucked tight to the surface of his shoulder, pulling vitality out of Landon’s body. As the vitality left the surface of Landon’s skin, the roots burrowed into the weakening surface and plunged into Landon’s blood.
+
+Landon noticed the tomato seed at last. He turned to look at it, just as Rhys turned his attention away. That tomato was self-sustaining now, sucking Landon’s strength away all on its own. He poured his mana into a different receptive seed, setting it off. As Landon ripped the first plant out of his shoulder, a second one burrowed into his chest, and a third snaked to life on his back. All over his body, ghostly seeds sprouted and burrowed in, greedily devouring Landon’s life and vitality. Landon slapped them away, but Rhys could trigger them faster than he could pluck them, and dozens of them were growing on Landon’s body even now.
+
+Landon whipped around. He glared at Rhys. “All I need to do is squish you, and these plants die.”
+
+Rhys smiled slowly. Landon’s vitality wasn’t just flowing into the plants, but through them, and into Rhys. Under his bloodied robes, his body healed. Carefully, he directed the vitality to his legs and hips, fixing the worst of the damage to his running infrastructure. He knelt subtly, preparing to leap away, and gestured Landon on, a smirk on his face. “Yeah. Come get me, big boy.”
+
+Landon lunged. Rhys bounded away, laughing aloud. “Too slow! Gotta move faster!”

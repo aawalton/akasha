@@ -1,0 +1,141 @@
+---
+id: 39c8d45e-74a0-5e15-ae10-04542f0b74cb
+page-type-slug: story-chapter-royal-road
+title: "184. Criminal Cores"
+slug: 0184-184-criminal-cores
+partOf: god-of-trash
+position: 184
+ownLength: 1795
+unit: words
+publishedAt: 2025-09-12
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2595881/184-criminal-cores"
+royalRoadId: "2595881"
+---
+
+As Rhys had predicted, the Empire immediately leaped to Lord Estos’s assistance. The hunt for the camp escapees died down with the arrest of a few known criminals and familiar dissidents, leaving Rhys free to act once more. One quick trip to the local stream, and he reset his bone structure back to its usual settings, only barely resisting the urge to get a little experimental. Now wasn’t the time to fuck around, notwithstanding his latest round of fucking around as Adelise, which hadn’t been fucking around at all, actually, but a brilliant and important step in his plan to take down the Empire. Still, the point remained the same: he had to keep his eye on the prize.
+
+Which was why he, Lira, Sable, and Mouse were currently crouched outside the biggest base he could find with his voluminous snack shack-slash-whisper network. It didn’t hurt that some of the ex-criminals were pretty forthcoming about their former bosses, whether they’d been press-ganged into service or because they simply didn’t appreciate the old heads. According to them and his own research alike, this was the biggest gathering of all the criminal bases in the area.
+
+A seductive cry echoed over their heads. Thick, floral perfumes and the sharp but sweet scent of alcohol drifted on the air. Curtains fluttered on the breeze, and men and women giggled at one another in soft, knowing tones.
+
+“Why did you take us to a brothel? Are you going to sell us off?” Lira asked, in mock-terrified tones.
+
+“If you wanted to enjoy yourself, no need to bring us along,” Sable intoned dryly.
+
+Mouse recoiled, staring at Rhys with wide eyes.
+
+Rhys put his head in his hands. “Come on, guys. I didn’t know what kind of place it was until I showed up here, either.”
+
+Lira cracked a grin. “Uh huh. Nice excuse. Hey, you wanna go enjoy some sake? Maybe… take a rest in the inn? Man, all three of us at once, huh? Damn, that’s some confidence. How big did you make it?”
+
+“I didn’t—” Rhys sighed. “Are you done?”
+
+“I could go on for hours.”
+
+He gave her a look.
+
+“…But I’ll stop. Mouse might murder me in my sleep, otherwise.”
+
+“H-huh?” Mouse jumped, startled.
+
+“Should we wait until night?” Sable suggested.
+
+Everyone looked at her.
+
+Lira was the first to look away. “So… do you want to try some arson again? Or maybe a fake monster scare? We’ve got a fake monster right there.” She pointed at Sable, then at herself. “And right here. Two fake monsters. Could do poison, too.”
+
+“I don’t want to kill everyone in the brothel,” Rhys countered. Sure, he didn’t care overly much for the degenerates in the brothel, but he didn’t think a deadly gas cloud of impurities was the way to go about clearing the room, either. As for fake monsters… He pinched his chin. He didn’t want to attract the Empire’s attention that much. They were distracted by the attack on Lord Estos, but not that distracted.
+
+“Wanna go as girls? Try and get recruited?” Lira suggested.
+
+Mouse’s face instantly swapped from neutral to murder. Sable’s expression didn’t change at all, but there was a sharpness in her eyes that Rhys didn’t like very much. He waved his hand. “No, no. I’ve had my fill of crossdressing for a while.”
+
+“Really?” Lira asked doubtfully.
+
+“Yeah? It’s not like I’m insatiable or anything. There’s an upper limit.”
+
+“Uh huh.”
+
+“Anyways.” Rhys took a deep breath. “We shouldn’t do anything drastic, like a monster scare, chemical warfare, or a bomb threat.”
+
+“Bomb?”
+
+“Like that tank attack we did in the mansion,” Rhys clarified, glancing at Mouse.
+
+She nodded, understanding.
+
+“Rather, the brothel itself is just a cover. The actual criminals are… I mean, probably running the brothel, but they’re mostly going to be under the brothel… probably. It’s been their modus operandi so far. I think we should just, you know.” He shrugged. “Walk in the front door? It’s a business, guys. It’s doing business. Serving customers. We can just go in.”
+
+Lira crossed her arms and rolled her eyes. “Where’s your sense of drama?”
+
+“I’ve been doing nothing but drama lately. Cut me a break,” Rhys complained.
+
+“I think he’s got a good idea,” Mouse piped up softly.
+
+Sable nodded.
+
+“No one appreciates me. Hey, bring me to the parties next time. Mouse didn’t even enjoy them,” Lira complained.
+
+“I’ll bring you to the next party you’re suited for. If they have a yacht party, you’ll be my first pick,” Rhys promised.
+
+“Yacht?”
+
+“Bigass fancy ship.”
+
+“Hell yeah. Is that a common thing?”
+
+Rhys shook his head. “Sorry, nope. But it is where the fanciest of fancy parties take place.”
+
+Lira thought about it for a moment, then nodded. “Okay, I accept. But only because they’re the fanciest possible parties.”
+
+“Yeah, yeah. Come on. Everyone, try to look as lascivious as possible.” He paused. “Except you, Lira. You’re fine as-is.”
+
+“I can look a lot more lascivious.”
+
+“You don’t need to. I promise.”
+
+“I’ve still got all these clothes on.”
+
+“And I’m grateful for that. I wake up every day and praise the gods that you’re still clothed.”
+
+“This is downright modest for water sprites.”
+
+“We appreciate your sacrifices for the greater good.”
+
+Lira sighed loudly. “Alright, alright. If no one in this prude squad wants to have any fun, then let’s get this show on the road.”
+
+“I want to have fun,” Sable said.
+
+“You heard the nice lady. Let’s get moving,” Rhys said, pushing to his feet.
+
+Mouse nodded and hopped up, sticking close to them.
+
+Sable stayed crouched for a few more moments, staring after the other three, then blinked and followed them.
+
+The brothel was on the edge of this city, surrounded by the forest. It perched on the edge of a valley lake, and gazed out over the placid water to the gorgeous view of the mountains rolling all around them. It was a tall building, and layered balconies on its rear served to give couples a fine view of the surroundings… or a chance to let their exhibitionism fly, both of which seemed to be happening in equal measure. As a consequence, they’d been crouching by the side of the brothel, where there were few windows and no balconies. Now, they emerged from the forest, dusting a few leaves off their clothes. A man staggered out of the brothel and stared, his brows raising almost to his hairline.
+
+“Good day, good sir,” Rhys greeted him. There was really no way to sugarcoat what it looked like they’d been doing, so he just had to own it and hope the guy moved on past.
+
+The man stared for another beat, then shook his head and staggered on. Drunkenly, he muttered as he passed, “People get off on all kinda things.”
+
+“Ah… haha…” Rhys sighed. He wasn’t going to worry too much about some random drunk brothel patron’s impression of him, but… It definitely wasn’t his intention to peek on the brothel.
+
+Lira put a comforting hand on his shoulder. “It’s okay. We already knew you were a pervert.”
+
+“I’m not…” Another sigh welled up from deep within him. Rhys shook his head, then reached back and let down his ponytail, deliberately messing it up a little. Lira gave him a disapproving look, but Rhys didn’t care. He didn’t need to look reputable right now. And, fair, he knew his hair was barely in order at the best of times, but it was fine even if it was a bird’s nest right now. As long as he didn’t look like the paint-smeared harlequin who ran the snack shop, he was fine with looking like anything.
+
+Sable adjusted her bones, making sure they were hidden under her cape, though the gloves and bone corset still stood out a bit… and, of course, the giant strangely stiff cape didn’t help. Lira fit right in, though she looked more like she was a member of the brothel than a visitor. Mouse cringed at the edge of their group and looked as though she wanted to fade directly out of reality… which, to everyone else, is probably what she did. Rhys wasn’t really sure what it was, whether he’d gotten used to Mouse’s techniques from having seen them so much, or he’d learned what to look for, or what, but he was better at detecting Mouse than before. Even when she wanted to vanish, he could often see her nowadays, or at least generally sense her presence. It wasn’t a hundred percent. When she wanted to vanish, she could vanish from his sight, too, and it definitely wasn’t as if he could always detect when Mouse was around, let alone where she was. But when she was just generally vanishing from everyone’s view, he could typically sense her.
+
+He didn’t look her way now. He didn’t want her to know that he could sense her nowadays. It was rude to look at someone who wanted to vanish in any world, and that definitely applied here, too. The fact that Mouse could use magic to make it happen, and that he could see through that magic, didn’t change the base principles of leaving shy people to disappear when they wanted to be unseen.
+
+Besides… there was so much to see. Or not see. Or unsee. There were quite a few public displays in the lobby that he certainly wished he could stop seeing, but even when he directed his eyes away, he could still hear the grunts and moans. His ears burned despite himself, and, unrelated, a long history of porn-watching having desensitized him to such things. It seemed like this was less a traditional brothel, and more a swinger’s-hangout-cum-exhibitionism-hall-cum-brothel, all the cums deliberate. He couldn’t decide where to look, and landed on the ceiling, until he remembered that mages could fly just in time to dodge some questionable fluid from the sky.
+
+Where the hell is the reception desk? Is there a reception desk? Is there anyone to stop us from just walking in? Hell, do they even care? For that matter, where was the criminal base part of the brothel? Were the other criminals just playing a big joke on him? This thing backed to the lake. True, there was forest all around it, and it was a big building, but…
+
+Stay strong, Rhys. Surely, somewhere in this den of iniquity, there’s a criminal base. Probably. Maybe.
+
+And then: Man, I’m gonna look so dumb-slash-horny if there’s nothing here.
+
+Lira nudged him. “I like this place.”
+
+“That tracks,” Rhys deadpanned. He scanned the room one more time, even if his eyes burned to do it, then pointed. “Come on. Let’s go see if we can find something.”

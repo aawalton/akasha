@@ -1,0 +1,75 @@
+---
+id: d826bd72-20b4-554a-8c3b-d0e4bb085405
+page-type-slug: story-chapter-royal-road
+title: "269. Trash Crafting"
+slug: 0269-269-trash-crafting
+partOf: god-of-trash
+position: 269
+ownLength: 2038
+unit: words
+publishedAt: 2026-02-02
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3006522/269-trash-crafting"
+royalRoadId: "3006522"
+---
+
+Rhys stepped out into the real world. Sable remained behind on his island, though he made a mental note that he needed to find a sparring partner for her real quick, or else things would get dicey for him. He’d gotten away this time with the ol’ sibling-head maneuver, but it wasn’t an inescapable move, as he knew well. If Sable was more persistent in the future, it’d cause trouble for him. Better if he found someone for her to use that excess energy on.
+
+You know… she has lots of extra energy, and she’s good at handling impurities. And Soma needs someone to make a real human connection with…
+
+Rhys slapped his own cheek. What was he even thinking? Matchmaking Soma in the middle of—of everything? First off, Soma was in prison, presumably facing torture, which he definitely wouldn’t enjoy or somehow turn into some kind of BDSM kink. He should be worried about Soma (or at least the impending sexual harassment of Soma’s torturer), not matchmaking him! Second off, deep human connection was not really what Sable did. She was a very physical person in a lot of ways. He was sure she would happily hammer Soma, or maybe even engage him on a less aggressive… er, less attack-based—er, less spar-based manner, but what Soma needed (even if he didn’t realize it) was conversation, emotional bonding, and coming to a mutual understanding based on more than just physicality, which, as he’d mentioned earlier, was not Sable’s forte.
+
+On Sable’s side, he wasn’t sure how, er, aware she was of… how to put it—physical relationship options aside from battle. She wasn’t a too-pure-for-this-world cinnamon roll, but she was largely disinterested in any part of life that didn’t involve violence. She probably knew what sex was, but did she know what sex meant? And more importantly, did she care? If she was active in that kind of way, then he would be absolutely shocked if she engaged in any level above pure physical. Which was fine. It was a choice that Sable was clearly very pleased with in every other aspect of her life. But it wasn’t a great way to become the counterpoint to the oversexed, physical-obsessed Soma. She’d fit right in among Soma’s harem, strangely enough, but she wasn’t going to teach him that there was more to life and relationships than shallow physicality.
+
+Rhys shook his head. Aside from Soma having impurities and Sable being able to handle impurities, the two were about as bad for one another as any match he could imagine. I need to find her a sparring partner, not a ‘sparring partner.’
+
+He’d been sidetracked by intrusive thoughts again, but there really wasn’t much to comment about the place he’d stepped out into. It was forested and secluded, just a random place near the edge of the Empire where he’d left a trash bin, once upon a time. He set off at a run, weaving a fresh trash bin as he ran. He didn’t have enough materials in his trash star anymore to create buckets at will, what with crushing and compressing everything down, but what he did have was heat and finely-ground materials. He drew out a thin strand of materials from the star, letting the heat melt them, then set them as he wove them into a basket. It was like a trashy version of 3-D printing, where he used leftover metals, resins, and anything else that would melt instead of thermoplastic, where the extruder was his trash star, and the head was his hands.
+
+He ran at speed, hurtling over the landscape at his full Tier 4 speed. Whenever he finished a basket, he imbued the void into it, then dropped it where he stood. He zigzagged a little so he didn’t drop them all in a straight line, and threw some, hurtling them into the woods at random.
+
+It occurred to him that he was basically seeding the world with trash cans, like a weird version of Johnny Appleseed. Years from now, someone would stumble across his wild trash bins and have absolutely no idea what was going on with the random wilderness receptacles. Maybe they’d even take it home and start using it, which would be ideal for Rhys. Until then, though, he’d have to make do with tossing random teleportation points around for later.
+
+What did Walt Disney say? One every twenty feet, or else people just throw their trash away? He certainly wasn’t going to achieve that, but then, these were mages, not ordinary people! Maybe they had a longer tolerance for carrying trash.
+
+And maybe if I want people to use these, I shouldn’t be tossing them into the wilderness, but placing them intentionally in places people go. Like, I dunno, in cities, or beside major roads. He had to admit: these trash cans were 99.999% teleportation points, and .0001% trash can. Whatever worked.
+
+A concept came to him as he ran on. Most mages flew around, unlike the earthbound Rhys (even he didn’t understand his obsession, but here he was)—using magic artifacts until they were able to fly on their own power. He put all his trash cans on the ground. That was great for low-level mages and mortals, but it wasn’t great for getting mages to hand over their ‘useless’ artifacts and other trash. Highly mana-empowered trash counted as more trash than base mortal trash, as he’d discovered (or maybe rediscovered; his memory was a bit of a garbage heap) in the Black Palace. But, even though they flew—or maybe because they flew—there would still be common routes and popular ‘roads’ from one place in to another even in the sky. If he developed flying trash cans and seeded those along the popular flight paths, he’d actually obtain powerful mage trash.
+
+Rhys nodded to himself. I’m definitely doing that. Step one, take down the Alliance. Step two, seed the sky with floating trash cans.
+
+He continued making trash cans as he ran, but this time, he started experimenting with making them fly. He had to start from zero, because he’d never made anything fly before. Hell, he’d barely even made himself fly. He didn’t have any flying artifacts, either—
+
+Wait, no. Yes I do! Lots of mages had flying artifacts, and Rhys killed lots of mages. Ergo, Rhys had lots of flying artifacts. True, most of them were ground to dust and fed to the trash star, but not all of them. Some were in his messy, disorganized storage ring, and some were in his slightly-less-messy ‘interesting garbage to not immediately destroy’ pile in his trash star.
+
+His hands were busy making trash cans, so he focused his attention inward, on the flying artifacts in his trash pile. He could make the trash cans on automatic, which was a nice benefit of building his mental strength; he could separate his attention into several streams, which he’d always been able to do thanks to undiagnosed ADHD, ADD, or something like it, but now he could do meaningful things with his different mental streams instead of just have the radio, videos, and the tv on, be lowkey monitoring all three of them, and tune in and out of each one depending on which one was on commercial. Meaningful things, in this case, being ‘build trash cans’ and ‘inspect magical flying artifacts.’
+
+He pulled a flying artifact out of the pile, just flicking his wrist and choosing at random. The flick was totally unnecessary, since, after all, he was drawing an item from his inner space so that he wouldn’t have to use his busy hands, but it felt right, and it only messed up the trash-can-in-progress a little bit. A broom floated before him, the absolute classic choice—though there were plenty of swords, shuttles shaped specifically for riding, and all kinds of other random garbage in the pile. He sent his mental energy into the broom, examining the shape of its enchantment from within.
+
+The enchantment was both complex and simple. The basic line was thick and straight, piercing through the center of the broom, clearly meant to allow the maximum amount of mana to flow smoothly through, and allow the maximum amount of mana to flow smoothly back out along the entire axis of the broom, so the broom didn’t fly wonky or unevenly. At the broom’s tail was where the complexity started. The main line was just for pushing mana around, but the complex enchantment at its base was where the actual flying spell lived.
+
+Rhys focused on it, memorizing the lines, then called forth his own mana as he finished the current trash can he was working on. He didn’t need a big wide line, just a circle at the bottom of the trash can to keep it floating. That part was easy. Then the enchantment… his brows furrowed. He narrowed his mana down to the narrowest stream he could and copied the lines, which still felt like a child’s crayon compared to the fine work imbued in the original broom. Finishing the work, he released the trash can.
+
+It dropped to the ground.
+
+Rhys frowned, recalling it with a wave of his hand. Huh?
+
+A moment later, he realized his mistake. He hadn’t given the trash can any mana to pull from. The broom was powered by its rider, but this trash can didn’t have a rider. It needed a mana source. A mana battery.
+
+Right, duh. Rhys rifled around in his valuable-trash pile until he found one. Coincidentally, it was attached to another flying machine, this one clearly designed for beginners. Rhys ripped out the mana battery and attached it to the trash can. The mana circuit lit up, and so did Rhys’s eyes, though in excitement, not because of a mana battery. He released the can.
+
+It hit the ground with a thump.
+
+Rhys squinted. What am I doing wrong? He had the circuitry. He had the battery. In his world, that was all you needed to make thing go. What was different, in this world—
+
+He rolled his eyes at himself. Intent. He’d just rote-copied the enchantment, but hadn’t put any intent into it. For someone who’d literally just read the intent from someone else’s enchanted marks, he really would’ve thought he would’ve thought of that first, before anything else, but here he was, looking like an idiot.
+
+“Alright. Let’s give this another shot.”
+
+This time, Rhys activated his trashed-intents-reading skill, then had an even better idea. He’d slurped up all the intents before. What if he just… grabbed them, and slapped them onto his new, shoddier work? Sure, the ultimate goal would be to comprehend them and reapply them, but Rhys was trash at things that weren’t trash. Flying enchantments weren’t trash. They were pretty cool, honestly. He could probably comprehend the technique if he applied himself for long enough, but he wanted flying trash cans now, not later.
+
+He grabbed the intents and yanked them out, then pushed them into his child’s crayon enchantment. The intents trembled for a second, a little lost, then figured themselves out and jerked into place. The shoddily constructed flying trash can jerked in Rhys’s hand, then jolted upward, hovering awkwardly on the air in front of Rhys. He picked it up and set it down, and it hovered where he put it. That tracks. It did put an enchantment meant for manual flight on an autonomous trash can. It’s good that it even bothers to auto-hover.
+
+He went to toss it into the air, then paused. Mouse surely knew about his trash cans, and he didn’t want to give himself away. Yes, he’d been Johnny-Appleseeding his way across the terrain, leaving a string of cans behind him, but most mages didn’t fly, and the ones that could walk wouldn’t have any idea who the trash cans were attached to. Plus, someone could see a flying trash can from miles away. A dropped can would vanish into the brush from a dozen meters out.
+
+Besides, it’s not like he won’t expect me to be in the capital. I’m not giving too much away, even if he does notice and figure it out.
+
+He ran on, hurtling through the woods.

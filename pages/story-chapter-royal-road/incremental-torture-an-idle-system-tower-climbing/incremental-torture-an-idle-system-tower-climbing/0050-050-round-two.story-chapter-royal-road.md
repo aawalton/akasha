@@ -1,0 +1,219 @@
+---
+id: fc15f576-00f2-55d3-bab2-134db25ca694
+page-type-slug: story-chapter-royal-road
+title: "050: Round Two"
+slug: 0050-050-round-two
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 50
+ownLength: 2270
+unit: words
+publishedAt: 2024-06-03
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1662002/050-round-two"
+royalRoadId: "1662002"
+---
+
+It was too late for the boss however, and her blow hammered home with an explosion of flames and a glittering shower of frost. Ice exploded outwards along with chunks of stony flesh and a spray of magmatic blood.
+
+Her surprise blow had obliterated over half of the hyper boss’ head. It now resembled one of those egg shaped art deco chairs that had been rather fashionable in the seventies.
+
+Dazurmagon lurched forward from the force of the impact, yet still refused to fall. Its balance was far superior to even the most decorated gymnast - none of her strikes had brought it close to toppling, save for when she had managed to destroy its foot.
+
+While it hadn’t knocked it off kilter, her blow had done something to affect its senses. Perhaps she had smashed some important circuitry apart.
+
+Its arms moved in odd, jittering arcs as it tried to reach up and swat her. The hyper boss struggled for now, but Evelyn knew that whatever she had done wouldn’t last. It had proven its regenerative capabilities when it healed every iota of damage she had dealt prior to it calling the comet storm upon them.
+
+So, knowing that its core was likely near the top of its chest, Evelyn started to channel the remaining quarter of her mana.
+
+This would be her final blow.
+
+Dazurmagon the Worldshaker had proven itself a far mightier opponent than she had been expecting. And while she had entered the floor with grand ambitions of clearing it before any others, Evelyn was now realising that may have been aiming too high.
+
+Even so, she refused to give up until her very last breath. Flames licked across her back and the layer of ice that coated the stony flesh of the hyper boss thickened and pierced deeper into its skull as she prepared to charge.
+
+The warhammer’s head was chipped in a few places. It had taken a heavy beating during their lengthy clash, but it had proven itself a sturdy companion.
+
+For the first time since arriving in the tower, Evelyn considered whether she might start using a weapon full time. Her fists were reliable, and there was something grounding about battling using just the raw force of her own body. And yet many a time she had come close to defeat due to lacking the range of a weapon, or the killing edge.
+
+However, such pondering was for later. Right now she had just one task. Frost coated the hammer’s head and she was nearing the bottom of her mana reserves.
+
+Right as Evelyn was ready to unleash the deciding blow, Dazurmagon did something wholly out of character.
+
+She slipped on the icy surface of its head as the hyper boss launched itself backwards. In less than a second the monster’s body was angled backwards at forty-five degrees and continuing straight to the ground.
+
+If she didn’t strike now there would not be another chance. Of that she was sure. So while Evelyn had yet to squeeze all of her mana out, she unleashed Flashfreeze Flamecharge for the final time that day.
+
+Her body barely moved. She had made sure that barely any of her mana was gathered in her spine - there was no need to travel this time. In exchange, the power that exploded from the warhammer as it collided with the stony flesh of the hyper boss was unparalleled.
+
+Loud cracks echoed through the soundless air of the arena and bounced between the unshaken pillars which had stood vigil to their epic battle.
+
+An inhuman roar erupted from the beast when her blow connected. A cruel facet of her mind rejoiced in the fact she had caused it pain, but Evelyn snuffed that out as the roar died down. Her blow had shattered part of its neckline and beneath the cloud of dust, stone and the spurts of red hot blood she could just about make out the orange glow of Dazurmagon’s core.
+
+It was a bittersweet sighting.
+
+In the chaos of her strike its body had continued to lurch and Evelyn had only remained perched atop it because she had grabbed onto a shard of its flesh that poked out of the wound she had caused.
+
+From that awkward angle there was little chance she could exert enough power to even scratch its core, let alone destroy it. Unless she used every last drop of her mana.
+
+That was a terrible idea. The last time Evelyn had gone right to the bottom of her reserves it had left her with a piercing headache and terrible pains all over her body. It would be irrational to repeat that experience.
+
+And yet she knew if she left the 16th Floor without giving it her all, she would never forgive herself.
+
+So as the air rushed past her, Evelyn pulled at the depths of her mana circuits. The ephemeral pathways protested as they were emptied. In their natural state her mana would be cycling non stop, so to drain them of every last drop was folly.
+
+That didn’t stop her from gathering it all and forcing it to settle in the warhammer, which hung loose in a one handed grip by her side.
+
+It was a far cry from her last strike. There was less than a tenth of the mana contained in the skill’s activation, but she hoped that the proximity to the core would be enough of a multiplier to mean it didn’t matter.
+
+She never found out.
+
+Right before her hammer struck home, Dazurmagon’s entire body exploded of its own volition, showering the arena in stone and magma.
+
+Evelyn was thrown outwards at high speed. The sudden shift in velocity was jarring and she heard rather than felt a couple of her bones breaking. Her body smacked into the base of a pillar and she felt her back groan in protest.
+
+Unlike the recoil from Flashfreeze Flamecharge which had healed during her journey, this felt more severe.
+
+Though she wasn’t sure if that was because it was a worse injury, or her body had exhausted whatever was powering her regenerative capability.
+
+A glance at the now floating core that had been her intended target told her that whatever was going on didn’t herald her victory. Dazurmagon was still alive and kicking, but was entering a morphosis.
+
+It had regenerated itself before, though on a small scale. This seemed grander. The hyper boss core was a smooth sphere around three metres in diameter that swirled and writhed like the lake of lava that Anathalan called home.
+
+Evelyn watched as from within the core lava started to bubble and drip, called into existence from within the source of Dazurmagon’s vitality.
+
+Sod’s law was in full effect. The perfect chance to bring her opponent down was right in front of her, yet when Evelyn attempted to move she found every cell in her body protested her efforts and refused to budge.
+
+The final dregs of adrenaline which had been coursing through her system were petering out and along with that came a surge of crippling pain. Not enough to numb her mind, though.
+
+She was no stranger to pain and simply gritting her teeth and focusing her attention elsewhere was enough to ignore it, for now.
+
+However, what her mind could achieve and what her battered body needed were clashing opposites. And even as she strained herself to watch what was going on with the bubbling core, the darkness of unconsciousness crept in from the edges of her vision.
+
+There must be some way I can strike. I refuse to stop at the perfect moment. It might be idiotic but I need to achieve this, or I’ll despise myself.
+
+However, the tower did not bow to her whims and despite an almost oppressive force of will Evelyn found herself unable to stop the wave of fatigue that was claiming her.
+
+For a moment her eyes closed, though she snapped them open as soon as they did. If she fell asleep now her death was guaranteed.
+
+I should return to Haven while I’m still conscious. Even I can recognise that throwing my life away now would be foolish. I haven’t quite reached the ascension requirements though. At least if I had that ready, I could be confident that my next attempt at this floor would go far smoother.
+
+While her attention had been elsewhere, Dazurmagon the Worldshaker had completed its metamorphosis. Its figure had shrunk drastically and it now stood just twenty metres tall.
+
+Still a giant by human standards, but miniscule in comparison to its former self. Though if the same amount of power was condensed into this new body then it would be able to unleash far more catastrophic blows. And she had no doubt it would be more agile than ever.
+
+A suspicion which proved correct when it flickered and vanished. Only the scorch marks on the red stone left as proof it had been standing there a moment before.
+
+When it reappeared it was right in front of her. Its eyes were still black and beady, not betraying a hint of emotion. A molten fist rocketed towards her limp body and it was with a heavy heart that Evelyn yelled the words she had hoped to never use.
+
+“I wish to return!”
+
+The hellish landscape blurred around her as she was whisked away from the 16th Floor. With nothing left to keep her anchored to consciousness Evelyn finally succumbed to rest, but not before cursing her own weakness.
+
+I will return for your life, Worldshaker. There will be no chance for you in our next battle, of that I am certain.
+
+~~~
+
+Soft linen tickled her thighs as she sunk a little deeper into the worn crater that had been forming in the mattress over the last few hours.
+
+Her arms hugged her knees, which themselves were tucked close to her chest. Her chin rested on them, which was just as uncomfortable as it sounded. Comfort was the last thing Evelyn sought right now, though.
+
+At least not physical comfort. In the wake of her failure to clear the 16th Floor she found herself craving emotional support. Kayla had done her best to offer it, but the strange southerner had yet to fully open herself to Evelyn. Which meant that any words of comfort fell short of their goal. They seemed inauthentic.
+
+That didn’t mean she wasn’t appreciative of Kayla. When she had come to after returning from the 16th Floor, Kayla had been the first face she had seen. It turned out she had been supposed to set a position to return to before using that particular function of the tower’s system.
+
+Without it, Evelyn had been unceremoniously dropped in the centre of the plaza just after noon. It had been rather a shock to the gathered crowd - in more ways than one.
+
+Along with the grievous wounds that she sported and the fact she made no effort to stop herself from smacking into the hard cobbles, the leaderboard had updated as the portal vanished.
+
+It had placed Evelyn right at the top. That alone wouldn’t have been enough to garner more than a few cheers or exchanges of coin between bettors. What made the gathered residents of Haven churn into a frenzy was the fact that her score was so much better than the others who had attempted the challenge before her.
+
+After Kayla had explained it, Evelyn realised the numbers meant the percentage of the floor that a challenger had managed to clear. So, while a few others had made good progress during the period she had been challenging the trials of the 16th Floor, her accomplishment shone brighter than them all.
+
+The leaderboard now looked a lot different than it had on her arrival. Though even with herself firmly positioned at the top of Haven’s challengers wasn’t enough to lift her sombre mood.
+
+Haven Population: 813,946
+
+Leaderboard
+
+1st: Eve - 91.68
+
+2nd: T - 74.32
+
+3rd: Eleanor D. - 61.22
+
+4th: Jonas Greaves - 57.47
+
+5th: K - 53.06
+
+6th: Neuron - 53.04
+
+7th: Deathbringer - 49.50
+
+8th: Jean - 41.11
+
+9th: Alice Steelweaver - 38.73
+
+10th: Kyron - 35.98
+
+Her failure to clear the floor hadn’t even been what stung the most. Evelyn had left with practically nothing to show for her struggles, beyond a little knowledge about the tower’s origins. She hadn’t even met the requirements for her first ascension.
+
+Three days of drowning in her sorrows had been far from productive. She knew that it couldn’t last. Rather than waste another day in bed achieving nothing, Evelyn decided to go for a walk in the sun and check out the changes that had taken Haven by storm while she had been gone. And there were plenty.
+
+As she yawned and stretched her arms high above her head, a message in the local chat caught her eye and shattered her melancholy.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.14
+
+|Attributes|
+
+Power: 21 (22)
+
+Speed: 5
+
+Stamina: 9
+
+Vitality: 26 (31)
+
+Mana: 26
+
+Fortitude: 57 (93)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Unusual), Galactic Expansion (Unusual), Bargain Hunter (Common), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Common), Pugilism (Common), Surging Blood (Uncommon), Surging Blood (Common), Impregnable (Uncommon), Impregnable (Common), Arcane Shield (Uncommon), Arcane Shield (Common), Salvo (Common), Mana Wielder (Rare), Master of Combat (Rare)
+
+~Active~
+
+Flashfreeze Flamecharge (Rare)
+
+~Hybrid~
+
+Soul of the Unstoppable Conqueror (Unusual)
+
+Essence: 17375397『+1021784 / 5:54:24 hours』
+
+~~ Stars ~~
+
+Grey: 236
+
+White: 10
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+【KILL】

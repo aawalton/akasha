@@ -1,0 +1,147 @@
+---
+id: 32b73e5e-341c-5ba0-a246-4c6f4ba1c491
+page-type-slug: story-chapter-royal-road
+title: "322. A Chapter About Digging a Hole"
+slug: 0322-322-a-chapter-about-digging-a-hole
+partOf: god-of-trash
+position: 322
+ownLength: 2399
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3521153/322-a-chapter-about-digging-a-hole"
+royalRoadId: "3521153"
+---
+
+Rhys threw a shovelful of dirt over his shoulder and wiped his brow, looking around at the damage he’d done. He was already pretty deep into the earth, far enough down that he had to crane his neck to see out. He could’ve gone deeper, but he had to keep teleporting out to encourage Ryota to keep training, aka round up gorillas and point them his way. Still, he was making good progress.
+
+He lowered his hand and checked on his line of impurities. He was getting steadily closer to that repository of filth under the ground…which, honestly, if he wasn’t getting closer, he’d have more questions. It was tantalizingly close, yet so far. If he didn’t need the trashifying beam to pick up the ultra-super-filth down there, he could’ve simply drawn the impurities up through that line, but as it was, he needed to dig, dig, dig, and keep on digging.
+
+I guess I could try using the impurity thread to send the trashifying beam into the earth, but… He pressed his hand to the ground again and gave it a try, but the impurity thread was too slender to handle that kind of spell. Even if he put the time, effort, and impurities into thickening the thread, he got the vibes that it still wouldn’t work. The beam needed to shine on things, after all, and the impurity thread was the opposite of fiber optic. Fiber optic cable was made of ultra-pure glass and so clean that light could travel through it uninterrupted, whereas the impurity thread was… well, pure filth. The opposite of purity.
+
+He sighed. No, I think I need to head down there and get them myself.
+
+Turning his head, Rhys peeked through a nearby hoop on Ryota. The man was wandering around, in no particular rush. That was no good. He teleported back to the surface, where a neat line of gorillas was waiting for him. He gestured at one, and the gorilla hurried over to his side.
+
+At some point, he’d thrashed enough gorillas to be considered their leader or something. He didn’t really get what was going on, but he appreciated their newfound obedience. He no longer needed to waste time finding gorillas; they were just standing at the top of his hole, waiting.
+
+Not only that, but as he walked away with his freshly-chosen gorilla, another gorilla hopped into the hole to dig for him. He would’ve let them dig the whole hole, but he was faster, so when he was back, he dug, but for now, he could just let the gorilla dig.
+
+Some gorillas had taken things into their own hands to attack Ryota of their own volition. Rhys wasn’t sure if he liked that or not, since some of them were a little too enthusiastic and risked actually seriously harming Ryota; plus, since they weren’t hand-delivered by Rhys himself, he didn’t know when they were attacking, and consequently couldn’t keep an eye on them and make sure they weren’t actually killing Ryota as easily as he could the ones he delivered.
+
+He dropped the gorilla off and teleported back to his hole to keep digging. The gorilla in the hole climbed out as he returned and went back to the line, waiting its turn to get thrown at Ryota. Rhys kept digging, digging and digging and digging. At first he’d piled the dirt on the side of the hole, but as he dug deeper, that became too time-consuming. Rather than enlisting the gorillas to help him cart dirt out, which would’ve necessitated building a ramp and wheelbarrows, he simply used his teleport hoops to teleport the excess dirt into his secret void island. For now, he just let it pile up on the grass, but in the future, he could try using it to add additional landmass to the exterior of the island.
+
+“So this is where you’ve been hi—eek!”
+
+There was a ferocious roar, and a veritable rainbow of muscular gorilla mass hurtled in the direction of Ryota’s voice. Rhys froze for a split second. No way. Did he really show up here and aggro all the gorillas at once?
+
+A high-pitched shriek of pure terror put Rhys back into motion. He kicked off the bottom of the hole and leaped onto the surface. In the near distant, the gorilla contingent hunted down Ryota with deadly intent, and Ryota fled with all his might.
+
+Rhys sighed and went to step in, then hesitated. He drew to a stop and crossed his arms thoughtfully. Now that I think about it, this might be good training for Ryota. If he’s so insistent on running away, he can at least train his leg muscles.
+
+Ryota caught sight of Rhys and scowled. “Hey! What are you thinking over there? Come save me! I’m going to die!”
+
+“I think you’ll be fine.”
+
+“I can’t take this many gorillas at once!”
+
+“Phrasing,” Rhys muttered to himself.
+
+“What was that?”
+
+“If you’ve got the energy to listen, you’ve got the energy to run! Keep at it!” Rhys replied with a big smile and a thumbs up.
+
+“You’re going to stand there and watch the Third Prince die?” Ryota asked disbelievingly.
+
+“And I’m gonna laugh the whole time. Better run, Third Prince.”
+
+“I’ll kill you!”
+
+“You should probably start with the gorillas first.” He hesitated, then added, “Though actually, I kind of like them, so maybe don’t kill them. Fight, but no kill.”
+
+“I thought you liked me!”
+
+“I mean, yeah. But I’m not trying to teach the gorillas a lesson, you know?”
+
+“Teach me a lesson? What lesson?”
+
+Rhys tutted. “If I told you, I wouldn’t be a mysterious old sensei. I’d just be an ordinary teacher.”
+
+“I like ordinary teachers.”
+
+“Ordinary teachers?” Rhys looked around him, then shook his head in disappointment. “Oh, man, I checked the back, but we’re fresh out.”
+
+Ryota turned, looking directly at Rhys even as he ran away. “What’s wrong with you?”
+
+“Oh, did I not mention it? I’m trash.”
+
+The whole time they’d been speaking, Ryota ran from the gorillas, who chased him wildly through the woods. Rhys was only able to catch glimpses of Ryota, and at times, he completely vanished in the trees, only visible thanks to the long tail of rainbow-colored gorillas trailing behind him.
+
+If not for their highly enhanced hearing, they couldn’t have held the conversation at all, but as it was, Rhys found himself wishing for children’s-card-games-style cutscreens so they could talk directly to one another regardless of how far away they were from one another. It was mildly annoying to not be able to read Ryota’s facial expression, though he could pretty much guess what it was: lips pursed, nose wrinkled, whole face twisted up in annoyance.
+
+I play Rainbow Gorillas in attack mode! Rainbow Gorillas, attack Ryota’s life points directly! Rhys chuckled to himself, then quickly sobered. Above everything else, he didn’t want Ryota to ask him why he was giggling. He desperately didn’t want to explain children’s card games to Ryota, least of all because he’d have to explain Egypt and pharaohs along the way. There was way too much context to lay out there for it to be worth it.
+
+“My grandfather warned me about falling in with men like you,” Ryota muttered darkly.
+
+“Did he tell you that we’re super successful and good at what we do, or did he just mention the getting-dirty part?” Rhys asked, pretending not to know.
+
+“Believe it or not, he didn’t have a particularly positive impression of your type.”
+
+“‘My type?’ What’s that supposed to mean, huh? Third Prince, that kind of language isn’t going to make you very popular with the underclasses.”
+
+To his benefit, Ryota flushed, flustered. “I mean swindlers! Scammers. Liars like you.”
+
+“When did I lie?”
+
+“You…” Ryota fished around for a moment, which was fair. After all, Rhys had never promised to keep him safe, let alone said anything about throwing him into a forest full of rainbow gorillas. It was a very specific thing for him to mention, and he kind of doubted that anyone ever in the history of the world had promised someone else not to throw them into a forest full of rainbow gorillas and repeatedly throw the gorillas at them to force them to train. But who knew? The universe was a big place, as he was currently experiencing. Maybe it was a common thing to promise somewhere out there.
+
+After a beat, Ryota recovered. “You said you were going to found a religion with me! That you were on my side, that you were going to help me achieve greatness!”
+
+“Yeah?”
+
+“Now you’re trying to kill me!”
+
+“No, I’m helping you achieve greatness.”
+
+“I’m going to die!”
+
+“Excellent! That’s what achieving greatness feels like, most of the time.”
+
+Ryota let out a frustrated grunt and lashed out at one of the gorillas. “I’m a gentle soul. I’m not meant for this kind of thing!”
+
+“Gentle souls don’t achieve greatness. Well… not the kind of greatness we’ve been talking about. Do you want greatness or not?”
+
+“I do, but does greatness have to involve you insulting me?”
+
+“Eh. Seemed the easiest way, and also, I had fun. Have you figured out the lesson yet?”
+
+Ryota turned, looking at him from across the forest. “You want me to fight back. I’ve known for a while. I mean… you weren’t subtle.”
+
+“So?”
+
+Ryota said nothing. He turned around and kept running.
+
+Rhys watched him run, crossing his arms. The guy was fighting his own demons, that much was clear. At this point, he was either the world’s biggest coward—which Rhys doubted—or he had some kind of hangup with fighting back. Either way, he’d realized what Rhys was trying to do, and was coming to terms with it in his own way. All Rhys could do was wait and see whether he decided to fight or came to some other conclusion.
+
+Magery could be about mental hangups and breakthroughs as much as about accumulating mana and learning techniques and spells. If Ryota really had some kind of mental hangup, then this absurd situation might be exactly what he needed to break through.
+
+Rhys watched Ryota for another few moments, then shrugged to himself and hopped back in the hole. If Ryota had gotten with the training program, then it meant he had more time to go dig his hole. A helpful gorilla saluted and jumped out of his way, and he saluted back. This one was brown, and seemed to be earth-elemental; they’d made more progress clearing the earth than most of the other gorillas, and cleared out the excess dirt while they were at it. Spinning the fragment of wood around in his hand, Rhys manifested his trash shovel again and stuck it into the waiting earth. Ever closer. Ever deeper.
+
+You know, when people go digging into the earth, the sudden explosion of darkness is usually unexpected, not what they’re looking for, he thought to himself with a chuckle. Unless it’s back on my world, and then they call that particular filth ‘oil’ and sell it for thousands.
+
+The actual act of shoveling took negative strength. Each time he inserted the shovel into the earth and swung, he cleared out meters of earth without even trying. In this way, he was faster than the gorillas, who didn’t have the benefit of wasting a Tier 5’s strength to dig a hole. He couldn’t say he didn’t know a single protagonist who’d ever done something so stupid, since there was always the occasional offhanded mention of digging a new spiritual cave or what have you, but he was pretty sure he was the first one to really dig a hole just for the sake of digging a hole.
+
+After all, he could’ve teleported back to the mine in the Empire with the really strong impurities that led back to the filth just as easily. The only reason he hadn’t was to keep an eye on Ryota. He’d checked, and unfortunately, any loops he’d set close to the source of filth or even within the mine had shriveled up long ago due to impurities. It was rather unfortunate that even his enchantments still needed some level of purity… or at least, stable impurity, in order to avoid corruption.
+
+At that, Rhys paused and pinched his chin. In almost every situation, it’d be useless, since mages usually kept everything so clean, but… shouldn’t it be possible for him to make a spell that fed on impurities? From a certain perspective, that was what The Hunger was—and Soma, for that matter—so the basic principles were there. It was possible. The trick was to make a spell that fed on impurities and also did something else. Sure, Soma did ‘something else,’ lots of ‘something else,’ in fact—which was probably the first time that had sounded like a euphemism, but what he really meant was using the spell to accomplish a goal, rather than letting it grow into a being. Basically, a sub-Soma, sub-The Hunger impurity eater that was a simple machine capable of feeding its impurities into powering a single act. An impurity-eating spell.
+
+That makes it sound like a purifier. Rhys pursed his lips and tried again. A spell that fed on impurities… that was closer. The spell was the purpose, whether it was a teleportation hoop or something else, and the feeding-on-impurities was secondary. Like a spell that was powered by ambient mana, but ambient impurities instead.
+
+He wasn’t all that broken up about the hoops dying. The whole point was for them to be temporary. But if he wanted a permanent teleport point, or at least a longer-lived one, then impurity-feeding spells were the way to go.
+
+I’ll have to put that one on the back burner and see if I can’t shake something out of it. Having found a new task, Rhys turned his shovel blade back to the earth and got back to digging. “I am a mage and I’m digging a hole. Diggy diggy hole, diggy diggy hole…”
+
+*
+
+The song floated out of the hole and through the woods. The gorillas nodded along, tapping their feet to the catchy beat.
+
+Across the forest, in the middle of being chased by a particularly enthusiastic blue gorilla, Ryota looked up. His brows furrowed. “What on earth is that madman doing now?”

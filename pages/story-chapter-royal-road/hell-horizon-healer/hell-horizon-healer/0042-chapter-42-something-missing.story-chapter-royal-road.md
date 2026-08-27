@@ -1,0 +1,137 @@
+---
+id: 0db865d3-eb87-50ca-963a-ba3e52530345
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42 - Something Missing"
+slug: 0042-chapter-42-something-missing
+partOf: hell-horizon-healer
+position: 42
+ownLength: 1377
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3860178/chapter-42-something-missing"
+royalRoadId: "3860178"
+---
+
+Arthur, with encouragement from Edwin, was the first on the bridge. Jake couldn’t hear anything, nor could he sense any disturbance from the handrails which, in his mind, didn’t mean they were clear.
+
+The bridge joined to an enormous building that looked like it was entirely made of cement, half finished. It looked like one mid-construction as if it had been plucked off of earth and placed here, then was elongated and widened to colossal proportions.
+
+It was a long bridge and there was a monk standing near the centre. Jake’s heart sped up the closer they got. Arthur started trembling, slowing down as they approached. Edwin nudged him. This was the only bridge that connected to another building.
+
+It was the only way.
+
+Arthur gulped and continued.
+
+They gingerly crept by the statue.
+
+Jake studied on the pass. It truly was… dead. There was no heartbeat, not even the sound of blood underneath the rock. Somehow… It was like the entirety was made of stone, even its heart.
+
+What was releasing the monks at night time? Did it have something to do with the suns?
+
+Hanna had inched closer to Jake. Her small hand clutched the back of his shirt. The feeling of being weighed down was an awful one. He wriggled free from her grip and took a few steps forward in discomfort.
+
+“Really?” Sloane asked. “She’s scared.”
+
+“And what if I was attacked?” Jake asked. “I’d be the first off the bridge, and she’d follow.”
+
+“You’re impossible to argue with.”
+
+“Because I have common sense.”
+
+Sloane put on an expressionless face as she repeated him. “Because I have common sense.”
+
+That got a small chuckle out of Hanna, slowly releasing the tension in her shoulders somewhat.
+
+Jake frowned and concentrated on what lay ahead. The building was nearing, but he had dipped into his thoughts.
+
+There was something that was still bugging him, and unlocking his new healing skill had only made that nagging feeling worse—his eye.
+
+He thought that the cluster of mana was responsible for it, that somehow he had dragged the mana close to him in the fight with Edwin. He was wrong. It was an entirely different sensation. Whatever had happened to him, arrived from within.
+
+Glancing a touch over his eye, the right one still bothering him with a lack of vision, he started to wonder just what kind of ability it was. Or was it even a skill in the first place? Was his first guess right; was it mana control gone wrong?
+
+He needed to find out.
+
+As for fighting. What he needed most was an offensive technique. Something that would punch through toughened flesh like it was butter. He had his sickle. The pointed end and thick blade meant that it was good for getting through hide and whatever lay beneath it. But there would come a point where he would hit a wall.
+
+Just like the goblin chief.
+
+His flesh was so tough, that nothing he did got through it.
+
+And that was a reason he had spent so many points in strength; without the power to get through whatever they were fighting, they’d just be food for a stomach.
+
+Lyle had his fire. He’d get to a point, surely, where he could punch through armour.
+
+Sloane had blades of wind she could launch through the air at range, and Edwin was capable of hitting a bullseye no matter how off balanced he was. If there was a soft-spot in armour, he could hit it.
+
+Chloe’s power was incredibly potent with many uses, and Susan was an undying cockroach that only got stronger the more punishment she received.
+
+Glenn was… Glenn.
+
+And I have Tension, he thought to himself. He could empower his muscles, making them both stronger and more durable, but so what? Every punch rendered his hand almost useless to the point he needed to heal it every single time.
+
+Until I can find out about that eye thing, I just need to… hit harder.
+
+Finally, he found the answer he was looking for. He found a new hop in his step as they approached the cement building.
+
+It wasn’t until they stepped foot on it did the hairs on Jake’s nape stand on edge. Something was—-
+
+A pair of deep, brown eyes stared at them from behind one of the cement pillars. Its lumbering figure, clad in dense fur and muscle rose, disappearing to an upper floor. The sound of high pitched screaming echoed throughout the stone jungle.
+
+Jake’s stomach twisted. “Dreadknuck!”
+
+The beast flew in from another direction, feet first. It hit Arthur first, his barrier lit up blue from the strike. It was thicker than before, but even still, the impact shattered it a moment later and sent him sliding backwards.
+
+Edwin quickly fired his crossbow, pinning a bolt through the creature’s eye. The beast howled and thrashed.
+
+Glenn fired his bow half a beat after, but he was too late. The monster was already moving, grabbing onto a pillar and swinging to another before launching towards them again. This time its target was Sloane.
+
+The bedroom thief threw a blade of air at the creature, digging through fur and splitting flesh. Before the Dreadknuck arrived, Jake was there to meet it.
+
+He jumped up and tightened all the muscles in his body. He fired a punch, catching the snap of muscles to improve the power of his strike even further. His knuckles crashed against its face, sending the beast tumbling to the ground.
+
+Jake had broken his hand. He spun a heal into his wrist and snapped the bone back into place. He used another for good measure.
+
+The Dreadnuck slammed into a pillar, sending rock flying.
+
+Lyle didn’t wait for it to get back up. He had dropped his axe and tossed a ball of fire at the creature. It exploded, orange lighting up the entire floor.
+
+Susan was on it before the fire settled, the fire sticking to her flesh. She roared and slammed her cleaver into the ape’s throat, cutting deep.
+
+Finally the beast lay dead.
+
+They didn’t level up from the kill.
+
+Jake caught the smell of another Dreadknuck arriving.
+
+Alerting his team, they made for the stairwell leading down. Something crashed through the entrance a floor down, reaching for them as they were stil on the stairs. Sloane breathed out, and the mana swirled around her. She sliced the creature’s arm off with a blade of air and they continued down.
+
+Two more apes arrived.
+
+Edwin decided they couldn’t fight inside the building. He brought them onto another bridge. Two Dreadknucks, including a smaller one with a severed arm, rampaged towards them.
+
+Turning on his heels mid-way across the bridge, Edwin fired a crossbow, sailing into one of the healthier beast’s throats. The monster fell, and the other two quickly leaped off the bridge and used the planks underneath as handholds to swing on.
+
+“Jump down!” Jake shouted, spotting a bridge not far beneath them.
+
+They all listened and jumped. Lyle hurled another ball of fire as he fell. His axe was now on his back. The fireball struck the bridge in between two of the monsters.
+
+One of them was blasted away from all of the bridges, falling into the deep abyss below. The last was lucky to survive, catching another bridge.
+
+Jake and the neighbours leaped down onto another bridge, then another, only to go up another one not far away. Soon, they had lost the last remaining Dreadknuck.
+
+At this point, everyone was huffing for air. Everyone except Susan, who seemed to have recovered swiftly, and had no problem running a marathon or two.
+
+Jake was fine thanks to the bonuses he had from his equipment. Chloe was also managing as she was using her apparently large mana container to ease her movement.
+
+Glenn was the only one struggling hard.
+
+Suddenly, Edwin stopped.
+
+“What the hell is this?”
+
+Jake finally looked ahead of him and saw a massive forest that had entirely consumed a tower block. It was larger than all the rest around it, and by quite a large margin. It was like an entirely new biome in tower form.
+
+With nowhere else to go, they entered.
+
+They shouldn’t have.

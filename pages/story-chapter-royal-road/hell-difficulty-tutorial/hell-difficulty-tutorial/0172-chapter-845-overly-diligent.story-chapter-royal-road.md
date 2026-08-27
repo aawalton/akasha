@@ -1,0 +1,199 @@
+---
+id: fe98c37e-43a2-577c-bf3c-f5f2fc7b159a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 845 - Overly Diligent"
+slug: 0172-chapter-845-overly-diligent
+partOf: hell-difficulty-tutorial
+position: 172
+ownLength: 2962
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3716663/chapter-845-overly-diligent"
+royalRoadId: "3716663"
+---
+
+[Selective Adaptation]. That’s the name of my new skill. I want to give it a bit more thought, but a small movement on the edge of my vision catches my attention, and I see a few people sitting under a tree, and a huge lizard resting behind them.
+
+Ignoring them, I look up, following the sensation of someone touching my head. Lissandra stands there in her younger form, as if waiting for me to meet her eyes.
+
+Slightly annoyed, I frown and circulate my mana to activate my skill. Following the lingering connection and the structure of the inscriptions drawn above my head, I remanifest back inside my mental space.
+
+At first, there is nothing surrounding me, just that neverending white space. Then slowly, as if hesitating, the training environment I was in before being tossed back outside begins to form.
+
+Three beings appear, the ones Lissandra refers to as street rats of Eladore, though I am confident she has to be exaggerating. There is just no way a street rat would be powerful enough to wipe the floor with a fresh S rank.
+
+These three rats notice my appearance and turn to me, their eyes glinting. They stand as high as my waist and are slimmer than a usual rat, though they have longer legs.
+
+Their natural barriers strengthen as mana circulates through their bodies in a mana-based body strengthening technique. They move at a speed that almost makes it seem like they are teleporting, and bite with the sort of force that I am confident would be enough to damage even Lily.
+
+My body moves, utilizing the same technique and speed. Since my mana reserves are unhindered and fully available, I throw everything I can into my movement.
+
+When one of them bites off my arm, I just chuckle. I kick another one, slam my forehead into the one going for my neck, and grab the tail of the third to spin and throw it away.
+
+Rather than trying to match their movement, I focus on observing mana wavelengths to predict their actions, especially since each of them is faster than I am.
+
+My objective is to defeat all of them, and then move on to the next exercise.
+
+POV Myrra
+
+Savant is no fun, he’s too measured and cold, and not in a fun way like the feral one. Weslin is interesting, friendly, and direct, though he’s somewhat lacking in intensity. Morwag is fun. I want to fight Morwag, and I can tell he wants to fight me, but neither of us tries anything, as a single pulse of mana from Lady Lissandra stops us.
+
+Like the good lynthari I am, I sit there and look at her as she turns my way. It’s already been an hour since she and Nathaniel started, and the entire time she’s kept her hand on his head. But unlike him, she seems to be able to perceive what’s happening around her.
+
+It’s like she would ignite in the sort of flames that would burn the very structure of reality itself if she lost control even for a second.
+
+Morwag passes by me to make his way over to Lissandra, just tapping my shoulder in a way that makes me want to attack him immediately. He isn't even smiling or directly challenging me. So I have to wonder, is he even really a demon? The feral one feels more like a proper demon. What an annoying guy.
+
+My attention switches to Brichant, whom I’ve been pumping for information most of this time.
+
+“So the 11th floor is a desert? My planet used to have one as well, though you had to be very careful because of the body of the fallen. But at least there weren’t any ants!” I tell him.
+
+“I would say it’s probably hotter than the desert you were used to.”
+
+“That sounds nice! I like heat,” I sigh. “Nothing against the Wywy, but this floor is damn boring.”
+
+As I say that, of course, the wyvern doesn't even react. It just lazily lies there, its head and eyes turned towards Lissandra and Nathaniel. I think it’s waiting for Lissandra to show a moment of weakness so it can kill her.
+
+Then I slam the sword Brichant lent me against the ground. “And why isn’t it talking anymore?”
+
+“Maybe it’s scared?” Brichant asks.
+
+“It is,” Lissandra says. “Centuries ago, it may have been used to slay a wyvern or two, I can still sense the blood upon the metal. It must be wary about what this one will do.”
+
+The huge, one winged wyvern doesn't even bother turning or looking at the sword, it just lazily says something in that terrifying language only Lissandra understands.
+
+Without taking her hand off Nathaniel’s head, she snorts and doesn't respond. Instead, she talks to me. “The sword houses the majority of its creator's power, but that power remains nearly inaccessible without him. Little kitten, I know you would bother me to no end, so I may as well explain a little. It was an effort to purify the creator's bloodline by sequestering his excess power into an ego weapon, creating a symbiotic resonance between them. Honestly, the mechanics are actually somewhat impressive.”
+
+“Thank you, Lady Lissandra!” I call out to her, knowing how much effort it must have taken. She is quite grumbly when something interrupts what she is doing. I quickly poke Brichant. “Go on, praise her too!”
+
+The lumoran just laughs nervously, and after looking at Lissandra, the coward stays quiet. I bet Nathaniel would say something.
+
+“How is he doing, Lady Lissandra?” I ask her.
+
+“Decently.”
+
+“Oh, that good?”
+
+“I said decently, little kitten.”
+
+“Sure! How much time has passed? Longer than you expected, right?” I can tell I’m smiling now, and that smile widens as she looks at me.
+
+“That amounts to nothing if he breaks his mind.”
+
+“Then cut it short. Just tell him you got bored.”
+
+“Little kitten, you are being exceedingly annoying today.”
+
+I know when it is better not to push, so instead, I talk with Nathaniel’s friends a bit more for a while, until it finally seems to end.
+
+Nathaniel opens his eyes for a few seconds before looking up at Lissandra and closing them again.
+
+That woman, who packs such terrifying power in a body that’s so small by comparison, opens her mouth but in the end says nothing. I don't know if it is just the play of the light, but for just a moment she seems to smile.
+
+Since then, I don't take my eyes off Nathaniel, off the contours of his face, the scars I can see lining his body, and the one going from his cheek across his neck. He sits there motionlessly, not even twitching.
+
+He hasn't changed at all, has he? Truly, the name I gave him fits him well. I really like that feral effort he can throw himself into with anything.
+
+It’s much later when he opens his eyes again, and this time it seems to be truly over, as Lissandra takes her hand from his head and takes a step back.
+
+He stands up, swaying slightly as the way mana moves around him changes and he regains his balance. He looks around, passing his gaze over me and the others, and then looks at Lissandra as if waiting for something.
+
+“I said it is over,” she says.
+
+Nathaniel tilts his head as if not understanding, looking at her, still waiting.
+
+Lissandra moves almost uncharacteristically kindly and takes his hand, slowly leading him towards a boulder nearby, where she forces him to sit.
+
+"Take your time," she says to him after that. She then does something to erase the inscriptions from his head before taking a step away to sit nearby.
+
+He watches her curiously, and then his eyes turn to me for a moment. I smile brightly and wave. That causes his eyes to widen, but then he waves back and chuckles. He looks at the fake sky of this floor of the First Dungeon and takes a breath.
+
+Then, his mana begins to move differently. He begins to radiate a lot more of it too, even reaching out toward the ambient mana as well, pulling it inward like a whirlpool. In a small area around him, everything becomes black and white as an even darker black orb forms over his hand. And he watches it with eyes that manage to keep their color.
+
+The sheer intensity of his gaze makes it difficult to take my eyes off him, and after a moment, I even begin to feel a pull on my own mana. At first I resist, but the pull keeps getting stronger and stronger. In waves, all the mana starts getting pulled toward him and that orb, which refuses to so much as expand in size.
+
+Even Lady Lissandra releases a terrifying amount of mana, a portion of which she got from the crown of that dickhead lumoran, Envy, and then throws the black dagger she has carried until now toward it.
+
+Nathaniel continues to gather and shape that mana, forming it into the shape of a black dagger not dissimilar from the previous one. Though that seems to dissatisfy Lady Lissandra as she watches the... somewhat... original shape and look. She pokes it with her finger, making the shape a little more pleasing. The blade stays short and thick, but the guard and handle change a bit to become more elegant.
+
+That continues for hours, to the point where Lissandra has to start helping him, and even the wyvern starts to pay a bit more attention. It even allows some of its own mana to be absorbed.
+
+It’s also fun to watch the expressions of the demon, half demon, lumoran, and human as they witness it all.
+
+POV Nathaniel
+
+It feels like yet another exercise, though this one is real.
+
+I have a difficult time getting used to the fact that if something damages me here, I won't just remanifest, which is a bit inconvenient. Even if that just means a higher spike in difficulty.
+
+It is still possible this is another tricky bit of training. Maybe I should really try and... okay, I probably shouldn't. The notifications I'm getting confirm this is real.
+
+[Focus - lvl 80 > Focus - lvl 81]
+
+[Focus - lvl 81 > Focus - lvl 82]
+
+[Focus - lvl 82 > Focus - lvl 83]
+
+Most of what I did was mostly a mental experience, and I now have to teach my body to adapt to it. I’m even now finding ways to improve the ways I’ve been using my skills. Even during all that training, there were ways I found I could improve them, so now, as I gather all that mana, I do so with that intent in mind.
+
+Mind... I think I spent my last few days in there just gathering myself back together. Or maybe it took a bit longer than that? Well, I did it in the end, and that's all that matters. For now, I don't want to think about it. I want to forget about it for now and muse over it later. It wasn't a great feeling.
+
+I can’t seem to stay still. I’m getting used to the downtime, but it still feels unnatural not to be training. To fill the void, I’ve start gathering black mana for Lissandra, even though I still feel so empty and mentally exhausted.
+
+I feel like I need to have a conversation to distract myself, so I look at Lissandra. "Can you talk about something? Anything." As I say that, I hate how weak my voice sounds.
+
+"Very well, let me tell you about one of my gardener's ideas and how she tried to grow mana-dense fruits. It was an interesting idea, but the taste..." She then begins to talk, and I listen to it.
+
+The longer I continue to gather mana, the more I start to feel like myself. It might have been a bit intentional, but we didn't train anything based on mana channeling, which is what I'm best at. So doing it now feels like it's all beginning to return to me. When I glance at Myrra, I almost feel like I haven't seen her in years.
+
+Allowing myself to listen, I concentrate further, especially as that ridiculous amount of mana starts flowing from the wyvern as well. If not for Lissandra, I don't think I would have a chance to compress my mana so far or gather so much of it at once, and she’s also helping me stabilize it.
+
+But I'm not selling myself short. I know neither Liss nor the one-winged wyvern would be able to do this without me and my access to black mana.
+
+[Mana Manipulation - lvl 81 > Mana Manipulation - lvl 82]
+
+[Mana Manipulation - lvl 82 > Mana Manipulation - lvl 83]
+
+[Redistribution - lvl 80 > Redistribution - lvl 81]
+
+And I know these notifications are just the start. These are just the most immediate changes to make themselves known after all that training, with more and more coming as I get my body and brain used to the new methods, just as I forced my subconscious to do.
+
+It’s ridiculous.
+
+As is the amount of mana compressed in front of me in the shape of a black dagger. Even now, it's difficult to see it as the fragment of a god, a piece of the corpse that appears if you compress hard enough.
+
+I watch as Lissandra grabs that dagger and makes a few final changes before letting her hand rest along her body with it. "That much will suffice," she says, gesturing for Myrra to come closer.
+
+It seems they must have talked about it previously, as the lynthari smiles at her while Lissandra speaks, "The time we spent together has been terrible, little kitten. Your short attention span, your inability to control yourself, and many other flaws that would take too much time to name. Yet, I wish you the best of luck, and may we meet in the future."
+
+To that, Myrra just continues smiling. As a lynthari, she is three or so heads taller than Lissandra, so she gets on her knees so that they stand at a similar height. Even with the difference in size, not for a moment does it make anyone uncertain about who’s the more powerful one here.
+
+I watch as Myrra gently takes Lissandra's hand, lifts it up toward her lips, and kisses the back of it. "Thank you, Master Lissandra. Thank you for everything." Myrra says in a tone that sounds almost uncharacteristic of her usually cheery self.
+
+Lissandra moves her hand and puts it on top of Myrra’s head to caress it as she says, "Stay diligent, my disciple."
+
+"Yes, Master." Myrra nods eagerly, her fangs showing in a smile.
+
+Then Lissandra turns to me. "What I will be doing is too dangerous for the little kitten. I had hoped to expel her into your group, and it is possible that this will still happen. At worst, she will find herself in some other group from your planet. Some parts of the tutorial are so shoddily made I can't even predict what floor she will find herself on. It could be the 1st, it could be the 13th. I just know that it won't be Beyond."
+
+As she talks, she’s pointing with the dagger in the air, drawing black inscriptions there. All the ambient mana that remains in the air gets pulled to her, and she starts to pull even more from a much, much further distance. It rushes in so quickly it feels almost physical, as if everything around her is about to break, but it barely seems to impact the wall she’s set up.
+
+"As for you and your baggage over there, I will use the remains of the teleportation I interrupted to send you where you were heading... What do you want?" Her eyes switch to Morwag, who stops standing nearby.
+
+"One day I will challenge you," the demon declares, causing even the wyvern to tilt its head.
+
+Lissandra doesn't laugh at him or put him down. Instead, she answers simply, "Challenge me with the respect such a duel requires, and I will reciprocate."
+
+I don’t even talk to her, we said everything we wanted to during my training. I probably talked about things in my weaker moments that I’d feel ashamed of now, but I get the sense she won’t tell anyone, so it’s somehow okay.
+
+We also talked about Biscuit, and as per our deal, she confirmed she’ll check up on him and help if needed. I think it insulted her that I even asked for confirmation, like I was questioning her word.
+
+But as she looks at me, I just nod, and she nods back in quiet understanding.
+
+"Someone overly diligent is trying to interfere with my effort, but I sense no intent to cause you any harm, so I will let it be. Just be aware of it," Lissandra says.
+
+Having finished drawing the inscriptions, she then swings the dagger. All that gathered mana explodes, and a feeling like being tossed aside by the shockwave of an explosion encompasses me.
+
+And as expected, the first thing I see when I look up from the ground is the black mandibles of a huge black ant.
+
+Even though I’m not in my usual mood and my mind feels off, I force myself to say, "I want a six active skills combination tok-" but I don't get to finish as the Ruler of Diligence snaps those mandibles, and I notice Ruby behind him with a difficult to read expression on her face.

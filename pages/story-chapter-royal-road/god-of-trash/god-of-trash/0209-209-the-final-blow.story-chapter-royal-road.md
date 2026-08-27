@@ -1,0 +1,73 @@
+---
+id: a9e5b52d-9bc9-570c-98e8-495bf2b600ce
+page-type-slug: story-chapter-royal-road
+title: "209. The Final Blow"
+slug: 0209-209-the-final-blow
+partOf: god-of-trash
+position: 209
+ownLength: 1639
+unit: words
+publishedAt: 2025-10-07
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2659145/209-the-final-blow"
+royalRoadId: "2659145"
+---
+
+He raced toward the Empress, and she raced toward him. Her eyes glowed bright, and dozens of cores materialized around her, circulating wildly. She drew on all of them, supplementing her power higher and higher, pushing it to its absolute limit and beyond.
+
+Rhys pulled once more. Everything discarded in battle, every piece of dirt and filth, every item used and tossed away—all of it rushed toward him. He pulled it in, but held it outside his body, spinning it around him from the outside, then pulling it into his palm, making it denser, denser, denser, denser. He surged his trash star, stoking it higher than he’d ever stoked it. Even his reforged body began to glow and blacken once more, and once more, his eyes lit with molten light.
+
+“The strike of an entire nation. The will of my Empire. One Thousand Cores Lance!” the Empress shouted, jabbing her lance toward him. It glowed a fierce white, full of mana so intense, so dense, so pure that even Rhys couldn’t corrupt it.
+
+“We’re doing attack names? Awesome! A thousand, no, a million trash! The rage of the forgotten! The filth of the discarded! Take this—Wrathful Dumpster Burns Like One Thousand Suns!” He held up his palm. The trash condensed one last time, then lit, forming a miniature trash star in his palm. It let off a horrific black smoke, and just being near it was enough to fill Rhys up with more powerful impurities in forms he’d never experienced before, the filth’s potential activated through compression and heat. He thrust his hand out to match the Empress’s lance, and the two struck.
+
+Brilliant pure light. Dark, filthy flame. The two clashed, and light, smoke, flame, and heat burst forth. On both the Alliance and the Empire side, the fighters stopped and stared. They could sense it—that this was the blow. The strike that decided the battle.
+
+The Empire had taken too many losses from all of Rhys’s intervention. If the Empress didn’t win this clash, the Empire lost. They no longer had the power to force back the Alliance. On the other hand, if Rhys lost, this was where the Empire rallied. The Sword Saint hadn’t materialized. With the Empress on their side, it didn’t matter how many foot soldiers they lost; her might alone was enough to threaten everything the Alliance had fielded today. The Alliance had brought nothing to push her back. Unless the Sword Saint arrived, it was the Empire’s win, and if he did, then the battle continued with the Empire at a small disadvantage. At the end of the day, it wasn’t the Tier 1s, 2s, or even 3s who decided the outcome of the battle. No, that responsibility fell to the strongest, the 4s and 5s, and if a 5 didn’t arrive to counter the Empress, then there was nothing the Alliance could do but falter.
+
+The lance pierced into the trash star. Rhys held on, gritting his teeth. He fed the little star with impurities, constantly feeding it more and more power, just to hold on against the lance. The lance burned, more powerful than anything he’d ever felt. The body of the lance was too pure to corrupt, but its edges, its tip, was a different story, and if it wasn’t, the battle would have already been over. Rhys desperately corrupted the lance, over and over, keeping it just a tiny amount unstable, so that his trash star could stand up to it. This was an insane blow. It was a killing blow, one that should’ve instantly obliterated him. But he was holding up against it. Fighting back. All because of the miniature trash star. The tiny false core he’d created in his palm.
+
+A crazy thought flashed through his head, then returned and sat there, intrusive as it was unignorable. If the little trash star was enough to halt the lance… then what would the true trash star do? It was larger, denser, and in all ways more powerful than this little trash star, this false fireball he’d conjured. If this could hold back the lance, then surely that could obliterate it, right?
+
+And if I get it wrong, she shatters my core for the second time, and I’m dead, Rhys shouted at himself. It was a crazy idea. It put too much at stake.
+
+Nothing ventured, nothing gained, a little voice whispered in the back of his head. He ignored it. And then: What are you protecting? Aren’t you trash?
+
+His eyes widened. Something flashed through them: genius or insanity, who could say? He took a deep breath, then grinned manically, firming his resolve at the same time. That was right. That was right! He’d forgotten it, somehow, but it was true, wasn’t it? Right from the start, he was trash. Every piece of him was trash. His body was trash, his potential was trash, even his core was trash. Why was he being precious about it? Why was he protecting it? He. Was. Trash. There was nothing to protect. Nothing that everyone else wouldn’t throw away and abandon. So why should he be different? Why should he treasure himself, when everyone else would throw him away?
+
+Trash. He was trash. Through and through, nothing but filth.
+
+Decisively, Rhys yanked back the miniature trash star, pulling it into his core. He bared himself to the lance, inviting it to come and strike his true core, not that pale imitation.
+
+The Empress widened her eyes and grinned triumphantly as her lance pierced into him. Rhys fell back, spurting blood from his mouth and gut alike. He crumpled around the lance, reaching down with both hands to grip it and keep it from piercing further, though his attempts were fruitless before the Empress’s strength. She laughed. “You fool. Whatever you were attempting, it’s pointless. One man cannot stand up to an entire Empire.”
+
+Rhys laughed. “Oh, is that so?”
+
+All at once, her brows furrowed. Her lance had penetrated past his hand and into his body, but it stopped there. Something even more corrupting, even stronger, even more dangerous prevented it from piercing any further. And this thing, this filth, this garbage… it began to corrupt her lance. Even the ultra-pure dense mana she’d formed her lance from couldn’t withstand the pure and absolute filth that swirled within Rhys’s core.
+
+The lance began to darken and weaken. The Empress yanked on it, trying to retract it, only to find that she couldn’t. Rhys had it in a vice grip. His hands, blood-slicked a moment ago, grew tackier than the tackiest glue as he called on the impurities in his blood to create static friction against the lance. She yanked again, but he had it tight in his grip. There was no breaking free.
+
+The lance darkened. Its light winked out, and it withered away. The Empress stood before Rhys empty handed, nothing to show for her killing blow.
+
+“So, what do you think now, Empress? Can a single man stand against an Empire?”
+
+She scowled. Flicking her finger, she sent cores flying at him. As they closed in, they began to glow and boil over, then detonate, blasting him with all the explosive power contained within a core.
+
+Rhys had an open hole in his stomach directly to his trash star. Like the trashy person he was, he drew thick clouds of impurities through the open wound and threw them at the cores even as they exploded. The cores that hadn’t yet exploded withered away, just as the Empress’s lance had. The exploding ones met with a cloud of impurities that absorbed, dampened, and corrupted the force of the exploding mana. Once the cores were decayed, he twisted his hand and absorbed their remnants neatly into himself, using them to fuel his recovery as he rebuilt the flesh around his stomach. Calling the tiny trash star—which had circulated around his main core—back to his hand, he charged the Empress once more. She raised her hand, attempting to summon another lance, but he gave her no time to do so. He slammed the flaming ball of trash directly into her chest, then burned it hotter, hotter, hotter, overclocking it until it finally exploded in a burst of filth and dark flame.
+
+The battlefield went silent. The Empress staggered back. Bright red blood flowed down her flawless white uniform. Everyone held their breath, their eyes wide, hearts in their throats for one reason or another, whether they were Empire or Alliance.
+
+Rhys stepped back silently. He watched the Empress, already knowing what he’d done. “Do you realize it now? The error of your ways? Sending me to your camp only made me more powerful. Repressing us and calling us filth, only made us stronger. This, Empress, is—”
+
+Bright gold light flashed across the battlefield. A sword pierced through the Empress’s heart from on high. She coughed blood, and the light instantly left her eyes. Sagging, she fell to her knees.
+
+“—karma,” Rhys finished. He blinked. Slowly, he turned, making a what the hell gesture at the figure hovering overhead.
+
+White robes. Black hair. He knew who it was, though they’d never been formally introduced: the Sword Saint. The man stared impassively down at him, his face as blank as a mask.
+
+“What the fuck? Killsteal,” Rhys muttered under his breath
+
+“Thus, the Alliance has done away with another villain,” a proud voice announced, and Rhys immediately felt his annoyance prickle. Disgust welled up in his throat, and he kept turning, though he already knew what he’d see.
+
+Royal purple robes, edged in gold. Hands tucked behind his back. A gold crown clasping his head, that he probably thought was tasteful, though the giant purple gem was a tad bit overstated.
+
+Rhys’s lip curled. The only thing worse than a philosopher: a politician.

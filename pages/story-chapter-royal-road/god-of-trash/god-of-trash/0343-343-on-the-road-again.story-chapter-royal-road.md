@@ -1,0 +1,157 @@
+---
+id: 562b8d7c-1ec1-52b4-a50d-4ee394d719b7
+page-type-slug: story-chapter-royal-road
+title: "343. On The Road Again"
+slug: 0343-343-on-the-road-again
+partOf: god-of-trash
+position: 343
+ownLength: 2297
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3743372/343-on-the-road-again"
+royalRoadId: "3743372"
+---
+
+Aran was awake when they arrived, though the hustle and bustle of servants around his bed indicated that he’d only just woken up. Ryota and Rhys hung back, not wanting to interfere with the medical procedures. Ryota kicked his foot and stared at the floor, but Rhys watched, deeply curious about what complicated magi-medical procedures looked like.
+
+For the most part, it was a lot of hovering one’s hand over particular body parts and mumbling while complex mana manipulations went on within Aran’s body. From his current standoff, he couldn’t make out the particulars and details of the operations, but it was a much more complicated goings-on than anything he’d attempted or succeeded at. The healer was dressed the same as the other servants, but it was clearly her job to heal Aran; none of the other servants were attempting to heal or intervene in her work. Neither had Rhys seen her doing much around the house. She was Aran’s personal healer, she simply wore the same uniform as the servants, it seemed.
+
+Whatever is actually wrong with him, it’s a lot more complex than ‘I’m poorly adapted to this environment,’ Rhys realized. It was just that the major symptom was being poorly adapted to most environments, and the easiest treatment was putting him in the right environment, but whatever it was that was actually wrong with his body was clearly an entire tangled mess of mana and physical issues. They were essentially doing the same thing as treating asthma by sending asthmatics to the seashore for the fresh sea air. It worked as a sort of low-level treatment, but it didn’t actually fix the complicated mess of bodily issues that manifested as asthma.
+
+Kind of trashy of them to just treat the symptoms, and not the underlying issue, Rhys thought to himself. He bookmarked it in his brain as something to latch onto later, though he wasn’t sure how he could apply it right now.
+
+Ryota rushed to Aran’s side, and the two shared a few words, and then Aran lifted his chin. “Rhys.”
+
+Summoned, Rhys approached. “Sir?”
+
+“Why so formal now? I wanted to thank you for protecting my home. You didn’t have to.”
+
+Rhys scratched the back of his head. “You know better than anyone that I caused as much trouble as I prevented. Thank you for helping me with that barrier, by the way. You didn’t have to risk your health like that, but your work was finer than anything I could have managed.”
+
+Ryota looked from Rhys to Aran, confusion written over his face, but didn’t speak up.
+
+“Oh, pish. If I let my health get in the way of accomplishing things, I’d never get anything done. I decided to help out, so don’t feel bad for me.”
+
+Rhys shook his head. “I would never devalue your work like that. Unless it was advantageous to me, and then I totally would.”
+
+Aran squinted at him.
+
+“I have a strange path,” Rhys explained.
+
+“It’s not simply impurities?”
+
+“No… it’s more than that,” Rhys said, and stopped there. He liked and trusted Aran, but the fewer people who knew his path, the better. It wasn’t unexploitable, after all. To the contrary; it was highly exploitable, it was just that he was playing countermeta. Meta players naturally faced people who sought out their weaknesses and played countermeta, but it was rare for a particular countermeta strategy to grow so dominant that a counter-countermeta playstyle sprung up. Only in the most toxic, trashy online pvp games or mobile gacha games did such a complex meta-counter-countercounter interplay spring up.
+
+But having played a great many of those games, Rhys knew such a thing as counter-countermeta (and even counter-counter-counter, and so on and so forth) was very possible amongst the most petty and garbage of players (like him)—or even worse, among the free-to-players who couldn’t do any better than scrabbling a few wins out of counter-countermeta, and so, when it came to strangers or people with ulterior motives, he preferred to play his cards a little closer to the chest. Aran was a nice guy, but he was a prince twice over. Fundamentally, that made him someone with ulterior motives.
+
+Plus, the fact that he kept probing Rhys for his path made him instinctively resist telling Aran.
+
+He could always ask Lira if he really wants to know, I guess. If she couldn’t figure it out by now, I don’t know what it would take. And if Lira was doing him a solid and not telling her half-brother, then he wasn’t going to shit on her hard work and confess to Aran behind her back.
+
+Aran smiled, letting it go. “Of course. I take it you’ve spoken with Lira?”
+
+“Indeed. I take it your mother is the one warning me?”
+
+Aran’s expression didn’t change.
+
+“In any case, I’ve got no interest in whatever game the water sprites are playing. Stay out of my way, and I’ll stay out of yours, probably, unless you piss me off, you know?”
+
+Aran chuckled. “You do have quite the way with words.”
+
+“That’s not what my high school English teacher said. Oh… here.” He reached into his pocket and handed Aran a hoop.
+
+Aran turned it over in his hand, then frowned. “What is this?”
+
+“Emergency notification device. Ryota and I are going to leave, because we all know this is a big bluff by Fifteenth.”
+
+Ryota made a quiet noise of disagreement from the corner, but he didn’t speak up.
+
+“But just in case it isn’t,” Rhys said, deliberately speaking louder so the sulking Ryota would hear him, “You can send a pulse of mana through that, and I’ll come over instantly.”
+
+“Instantly?” Aran asked.
+
+“Close enough, anyways. Why, is that shocking?”
+
+“No, no. It’s just… there’s no impurities-based path I know of that’s given to teleportation techniques.”
+
+Rhys grinned and tossed him the finger guns. “I’m just that cool.”
+
+Aran looked at Ryota, who stopped sulking for long enough to sigh dramatically. “I’ve had to deal with this for weeks now. You have no idea.”
+
+Chuckling, Aran pocketed the hoop. “I’ll see you around, then.”
+
+“I hope we don’t see you, except in more peaceful circumstances. Oh, and don’t put that hoop in a storage space. I’m not sure how that would function, but probably not well.” Rhys paused. “Like, it might implode, not well. The storage space, that is.”
+
+Aran casually but quickly retrieved it from his pocket.
+
+“You can just throw it on the floor, it’s fine.” He wouldn’t have handed it to Aran at all, but he wasn’t sure the ones he’d scattered would stick around long with the man’s devoted and numerous staff of cleaners. Giving Aran a hoop he knew about at least ensured he had a fair chance of letting them know if he was in danger.
+
+With a final wave, Rhys retreated. Ryota hesitated a few moments, then followed. As they stepped outside of Aran’s room, Ryota froze just inside the sand curtain. “We shouldn’t.”
+
+“Why not? I can teleport us back at any moment.”
+
+“What if that… that tiny little hoop thing breaks? What if we’re too late?”
+
+“What are you so worried for? Fifteenth didn’t even scratch Aran last time.”
+
+Ryota grimaced. He looked over his shoulder at Aran. “I owe him my life. I’ve been waiting for my chance to repay him. Leaving him in his time of need doesn’t sit well with me.”
+
+“But you’re leaving him to figure out how to defeat Fifteenth once and for all.”
+
+“I am?”
+
+Rhys nodded. “We’re going to get started on your religion, but you can train at the same time. You’ll be putting your time to much better use training out there than fretting in here, uselessly.”
+
+Ryota thought for a long moment, then slowly nodded. “Okay. You can teleport us back?”
+
+“It’s never failed so far,” Rhys lied, brushing all the times the hoops had failed or broken conveniently under the rug to only remember all the times they’d worked instead. In any case, he’d never failed to get where he wanted to get, even if only because he tended to scatter dozens or hundreds of the things around. But still: it worked. If it worked, it worked, and it didn’t matter how messy the solution was.
+
+Sure, Aran’s staff was kind of on top of the cleaning, and his hoops might’ve all been cleaned up… but he’d left one behind for sure! It couldn’t fail, right?
+
+Aaaand now I’ve jinxed it, he thought.
+
+“Come on. Let’s get out of here and focus on getting stronger instead of hyperfixating on Aran.”
+
+Ryota nodded and strode forth, leaving Aran’s room behind. The two of them headed back to the surface, leaving the sandcastle and its inhabitants far behind them. The ocean had already washed away the stain of their battle. Even the half-circle the bomb had carved out of the sand was closing over as the tides stirred the sand and smoothed the scar. Rhys glanced back just once, only to find that even the sandcastle was fading like a mirage, swallowed up by the light and the water.
+
+As they left, one final thought occurred to him: Man, I hope Aran doesn’t have Mysterious Anime Fainting Disease. That’s a highly lethal affliction.
+
+The guy wasn’t coughing blood, so he was probably fine. Besides, it wasn’t like the sicknesses in this world were trashy anime tropes. It was a real, complex illness, it just presented as a fainting spell during the time Rhys was around him.
+
+Huh. I didn’t think about that, but… could I use the trope-based reality warping technique to inflict a deadly illness on someone that way? That’s… actually terrifying? I’ve been thinking of that technique as my asspull ultimate weapon, my give-me-all-your-power,-people-of-earth except it hits, but it’s a far more insidious and complex technique than that, isn’t it? I could use it to manifest all kinds of horrific things.
+
+In that moment, Rhys resolved in his heart: if he ever found a disciple, he would teach them everything he knew, but not that. That technique was too dangerous, too powerful, and worst of all, too versatile. It was the epitome of in the wrong hands, it could upend the world, but for real, it actually could. It wasn’t just some overpowered beam cannon or toxic blast; it unlocked the potential to manifest unreal scenarios into reality and enforce the user’s (trashy) perceptions onto the world. At the highest level, I wonder if it could remake the world into one where all trash tropes, and only trash tropes, are real?
+
+Now that was a horrifying thought. There were all kinds of trash tropes that legitimately did not deserve to be brought to life. Even as a lover of trash, he had to admit that. That technique didn’t even need ‘the wrong hands;’ a well-meaning user who enforced the wrong scenario into reality could warp the entire world into their vision.
+
+A yet darker thought crept into the back of his mind. Rhys tried to suppress it, but the more he tried to push it down, the louder it got, until at last he couldn’t suppress it at all.
+
+You used that technique on Mouse when you confessed. You used it because love conquers all, because it was the only way to wipe away the mark. But you used it to enforce an unreal trope onto reality. To shape love, and use it as a weapon.
+
+Did Mouse actually say yes because she meant it? Or did she say yes because that was the reality you enforced onto her?
+
+Rhys shuddered uncomfortably, running a hand over the back of his neck. As he thought it, he realized: this was why he’d run away. Somewhere in the back of his mind, he’d been wondering it this whole time, and now that he’d finally been forced to confront it, he had no answer. Was it real? Had Mouse actually said yes? Or had he shaped that reality? Created the scenario where she ‘had’ to say yes, because that was her role in the trope in that moment?
+
+He hadn’t known if she meant it. If it was actually love, or merely an afteraffect of his technique. And so he’d run. Rather than ask, rather than poke and prod until he knew for sure, he’d fled. Better to end on a happy note. Better to escape without knowing.
+
+But that wasn’t fair. Not to himself, and especially not to Mouse. As they breached the water’s surface and hopped out into the little hut, he ran his hands down his face and sighed. I’ve really been a horrible person, haven’t I?
+
+When this was all over, he’d go back. Not Ryota’s religion, but when he’d resolved the pressing issue with Fifteenth’s aggression, he’d go back to Mouse. Do whatever he could to clear the aftereffects of his technique, then ask her again. Not in a scenario where her answer was predetermined, but to her face, man to woman, both of them under no influence whatsoever and clear of mind.
+
+“Ugh.”
+
+Ryota looked back. “What?”
+
+“Nothing. I just realized I’m a massive douchebag.”
+
+“It took this long?”
+
+Rhys wasn’t in the mood to joke, but he cracked a smile anyways, even if it didn’t reach his eyes. “Where’s that big ship of yours? Let’s get moving.”
+
+“It’s not that big. As far as junks go, it’s normal-sized. Small, even.”
+
+Rhys turned and stared at Ryota. For the second time, Ryota asked: “What?”
+
+“Nothing. Just… manifest that ship, and let’s put this behind us, okay?”
+
+Ryota needed no further prompting. He tossed the ship up into the air, and the two of them boarded it and flew away, leaving Aran and his sandcastle behind them.

@@ -1,0 +1,171 @@
+---
+id: 1a8b29e7-11a9-5536-9cf1-a0827a7f4c5c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 773 - Name for the Nameless Tree"
+slug: 0098-chapter-773-name-for-the-nameless-tree
+partOf: hell-difficulty-tutorial
+position: 98
+ownLength: 2382
+unit: words
+publishedAt: 2026-03-17
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3163649/chapter-773-name-for-the-nameless-tree"
+royalRoadId: "3163649"
+---
+
+As we make our way through the forest, I let the others deal with the monsters and scout ahead. Since they actually gave a fuck about this floor, unlike someone who spent all their time fighting with severe mana deficiency, they’re even quite good at it. Especially Izzy, Maya, the twins, and Min-Jae, who’ve been living here for the last year.
+
+Now that I think about it, isn't it the longest time we’ve spent on a floor by far? Izzy is 13, as much as I still refuse to see her as anything other than the 10 year old girl who used to cling to me like a baby koala back on the third floor.
+
+So let’s say she is truly 13 and not beholden to my mental image of her. Humans barely remember anything until they’re what? 4, 6 years old? Even then, they forget most of it. So let’s be generous and say Izzy started “living” around 5 years old. That is eight years until now. With the year she’s spent on this floor, that means she’s spent over 10% of her life on this floor and almost half her life inside the tutorial.
+
+How weird that thought is, and I wonder how important all of this seems to her right now. In the future, as she becomes stronger and reaches the age of 100, 200, or even older, it will be nothing, just a fraction of the time she’s lived her life. Yet, she’s spent a good portion of her adolescence on this floor, and her most formative years have passed in the tutorial.
+
+Of course, she’s still Izzy. As much as I’m sure the experience will change her, she’s a gentle person overall, unlike most of us here with our screwed up tendencies. And most of the other children trapped in the tutorial won’t be the same. And the same goes for people on the newly awakening Earth. Even I likely had my part in it with the way my visit must have caused millions of people to awaken.
+
+I glance to my right at Min-Jae, who even now is spinning orbs made from my mana and assorted metals around him.
+
+Noticing me looking his way, he turns to me. “Yes?”
+
+“How has the 9th floor been for you?” I ask.
+
+“I thought you would be in your focused mode. All dark and concentrated and not in the mood for conversation.”
+
+I lift my eyebrow. “Am I that easy to read?”
+
+“Not really, but it’s been getting easier. We’ve known each other for over 3 years at this point. I’ve spent more time with you than I ever did with Kevin, and he was my best friend. And that’s with all the times you went off on your own and disappeared to beyond,” he says with an expression that suddenly seems ever so slightly sad before he pushes it away.
+
+“That’s true. We’ve spent months at a time seeing each other day after day. As for your question regarding my mood, I’ve done my preparations and will continue when I return to beyond. I’m also sure I can do my part here and push myself. But at the same time, I’m curious, and I genuinely want to know the answer, and I have no reason to be all broody and mysterious. For now.”
+
+He smiles. “I like this floor. I got to spend a lot of time with the twins and the girls, and I’ve gotten to know them much better. We saw amazing places, met a lot of demons, and put our lives on the line many times across a range of fights,” Min-Jae pauses. “Izzy says that Tess wants us to go through the danger together. She believes that people who experience things together, the sort of things other people wouldn’t understand, are bound to create a strong bond, and I think there might be something to it.”
+
+“So it was all rainbows and sunshine?”
+
+“Not a chance,” he chuckles. “Maya spent a month fighting with Izzy because she decided to be a brat. I also had Dennis determined to beat me in a duel, but he kept losing and got annoyed at me for flying and wouldn’t talk to me for a while. Noodle broke the gaming console you brought back for Aaron.”
+
+After looking around to ensure no one is listening, he steps closer and whispers, “I also think Izzy’s reached the age where she’s started to notice boys and might be crushing on Aaron a little bit, and she’s been avoiding him because of it. I think she’s been doing her best not to read his feelings.”
+
+I blink a few times.
+
+Seeing that reaction, Min-Jae nods. “Then there were these fights where Izzy almost got killed, and scared the hell out of Maya, and then she got really angry and wanted to keep her somewhere safe. I also disappeared for a week at one point on a hunt and didn’t let them know in the Community, so I got screamed at for that.”
+
+He shrugs awkwardly and tells me a bit more about their time here. All the good and the bad. He also talks about the tribes they’ve met and the places they visited, the sort of things that feel like they could only have happened in a book.
+
+As he talks, I reflect on what I’ve seen as well and how, as of late, I started to accept certain things as normal.
+
+For example, the Megacity that honestly reminds me of Minas Tirith in a way. The fact that I’ve been traveling to other worlds for beyond quests.
+
+The fact that I have a disciple. Me. A disciple that isn't even fully human, part of a race of demons that was created an incomprehensibly long time ago by a guy everyone wants to kill for some reason.
+
+A black hole with a ring of flesh the size of planets circling around it, made from a single person’s body. The fact that I flew through space on an asteroid that was turned into a spaceship by an Elf.
+
+How insane all of that is if I think about it for a while.
+
+“I had hoped you would bring your Nameless Tree here. I wanted to see it, and it could’ve helped us with the floor,” Min-Jae says as we stop again while Tess and Maya head ahead to deal with a group of monsters that remind me of monkeys mixed with wolves.
+
+I observe the fight while I answer, “If I need to use everything and even the Fragment just to clear this floor of the tutorial, I might as well just lie down and die.”
+
+“Nice jinx.”
+
+“I know,” I agree. “But I’ve been thinking. I want to make it so the leaves and maybe the trunk can absorb heat from sunlight and turn it into thermal energy. It could also take kinetic energy from wind and earthquakes. Or I could plant it in water and harness the waves.”
+
+“Or you could absorb the momentum of the planet as it spins around its orbit or circles around the sun,” Min-Jae jokes. “If you want to absorb sunlight, maybe turn the leaves into a magnifying glass? Or you could make them black?”
+
+“It needs to look cool. A pure black tree would look weird.”
+
+“It needs to?”
+
+“It needs to,” I confirm.
+
+“How about planting it in a volcano? That’s a big source of heat. Do you want to focus on kinetic energy or thermal? Or knowing you, both?” Sophie, who’s listening in nearby, asks, joining the conversation.
+
+Seeing her here, I notice Lily coming closer as well.
+
+“I would like both,” I say.
+
+“That might be less effective than focusing on the one,” Sophie says.
+
+“If it became too strong, wouldn’t it eventually turn Earth into a frozen planet by absorbing too much heat, or cause some other disaster by stilling the waves? Wouldn't that be bad?” Lily asks.
+
+“You. Have you been listening all this time? You were pretty far away.” I face her.
+
+“I’ve been working on improving my senses!” she answers happily.
+
+“Could you put it on the moon? Without an atmosphere, you could absorb more heat, and the temperature when the sun shines on it will be, what, around five times more than the hottest deserts on earth,” Min-Jae continues to theorize without a thought for the petite invader of privacy. It worries me.
+
+“Can’t you plant more trees?” Min-Jae asks again, before I can express my worry, so I just stare Lily down until she turns away.
+
+“Just one tree,” I say. “The moon idea sounds cool.”
+
+“Because it’d be more effective, or do you just like the idea of a giant tree growing on the moon?” Sophie snorts.
+
+“Yes.”
+
+Laughing at my answer, the bulldozer continues on with a more serious tone, “It will need a good name. It can’t remain the Nameless Tree.”
+
+"Greg."
+
+"Fuck off, Dennis," I say reflexively.
+
+"World’s Okayest Tree," he tries again.
+
+"How did you manage to join the conversation so fast, anyway? And no."
+
+"I started listening in through Min-Jae when the Ruler of Lust joined the conversation."
+
+I turn to the aforementioned Korean boy. “Doesn’t that violate some kind of privacy law? Or at least basic human decency? Shouldn’t there be a blinking red light in your eyes when you let someone watch through them? Maybe a warning label. Or a consent pop-up.”
+
+“No such regulations exist,” he answers immediately, completely straight faced. “There was a discussion once, but for some reason it turned into an argument about whether telepathic surveillance counts as eye contact.”
+
+"What? We seriously need to talk about that." I say.
+
+"Leaf Me Alone."
+
+"Okay, Lily, while I do think that’s funny, and I bet if I let you, you’d make a case for why a name like that fits considering my personality..." I pause and think of it again. "It really is funny," I mutter reluctantly.
+
+That seems to make the bulldozer happy, and Izzy promptly offers another name, "Colossal Ordinary Rooted Green Individual."
+
+"I see what you did there. Did your sister help you come up with that?"
+
+"Yup!"
+
+"I thought so. There is no need to think about it anymore, I’ve already chosen a name. I will call it the Mana Tree."
+
+"Nat, you can't do that. It doesn't fit with your desire to use it for gathering primordial energies." Min-Jae seems bothered, as if I’ve offended his OCD or something.
+
+"But it is accurate," I defend myself. "In the end, all those primordial energies will be converted into more mana."
+
+"I should have fucking realized it would end like this. Let's go, Izzy. I sensed Biscuit heading west, and I feel the signature of that T-Rex friend of his as well, so we may as well go check on it," Sophie huffs, dragging her sister away like I’m some sort of weirdo.
+
+Meanwhile, I explain to the rest of the people around me, "It will be like a node of my domain, and I will connect Ley Lines to it so I can spread them all over the Earth to build myself a permanent teleportation network. It will gather primordial energies and turn them into the mana I’ll need to power it all. And I’ll improve on it too. Like some defensive arrays, or something to strengthen my [Eclipse], mana batteries, and stuff like that."
+
+“Mind if I offer a counterargument?” Min-Jae asks, and I can see how much the name bothers him.
+
+"Sure."
+
+"You know what solar panels are, right?"
+
+"What do you take me for? Are you looking for a beating?"
+
+“No! I was just asking. Okay, so hear me out. Solar panels absorb sunlight, right? That sunlight gets converted into electricity, and yet we still call them solar panels, not electric panels. In your case, you might be converting thermal or kinetic energy into mana, but by that logic, it would make more sense to name it the Kinetic Tree, the Thermal Tree, the Thermokinetic Tree, or even the Primordial Tree, rather than the Mana Tree, if you want to keep the name simple.”
+
+"In that case, solar panels are poorly named, and I refuse to make the same mistake."
+
+Dennis throws an arm around the Korean boy, and I notice he has to reach up a bit, as Min-Jae is starting to get pretty tall. "Leave him be, he won't change his mind."
+
+Min-Jae sighs, rubbing his temple. “I know. I just feel obligated to try.”
+
+Both of them leave soon afterwards, Dennis walking a step ahead while Min-Jae follows, still shaking his head as if replaying the argument in his mind.
+
+For a while, Lily and I walk side by side, and I keep expanding my senses to watch the surroundings and observe how the others fight. I also keep an eye on where Sophie and Izzy went and where I can sense Biscuit and his T-Rex friend with its mana crown as they start moving towards the main group.
+
+All the while, I keep gathering more mana. I accumulate it in the crown floating over my head, where my mana constantly moves in ever changing currents. The more I do, the more I find myself comfortable constantly moving mana rather than letting it sit still, as I continue to experiment with Mana Cycling, [Current], and Thermal Cycling.
+
+There’s a lot I have already gathered and bound to myself like this, but everything from the past three months has been collected for the fight against the mana-specialized Champion. It will be needed, even more so now that we don’t have Nyssa.
+
+Maybe, for the first time, I will see what Lissandra mentioned long ago. That even beings a grade above me, should they be reliant on mana, will find themselves weak against my black mana.
+
+I push these thoughts to the background and glance over at Lily, walking next to me. She surveys the area, a soft smile on her face as sunlight passes through the giant trees and warms her features.
+
+Unable to help myself, I whisper quietly, "Leaf Me Alone, really?"
+
+As expected, she hears me, and turning her face to me, she smiles brighter than the sun shining on her face.

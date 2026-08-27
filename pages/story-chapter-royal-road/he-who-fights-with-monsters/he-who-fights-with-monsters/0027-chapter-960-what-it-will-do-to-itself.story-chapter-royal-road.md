@@ -1,0 +1,231 @@
+---
+id: 6d3f9133-0d18-5a01-a50e-79b27457b228
+page-type-slug: story-chapter-royal-road
+title: "Chapter 960: What It Will Do to Itself"
+slug: 0027-chapter-960-what-it-will-do-to-itself
+partOf: he-who-fights-with-monsters
+position: 27
+ownLength: 2377
+unit: words
+ownProgress: 2377
+publishedAt: 2025-02-07
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2054099/chapter-960-what-it-will-do-to-itself"
+royalRoadId: "2054099"
+markedReadAt: "2026-06-29T19:04:43.475Z"
+---
+
+Under a night sky, Jason and Emi stood on a wooden platform, high in a tree house. They were in the city of Arbour, in what was more a tree mansion than a tree house, spanning across several towering redwoods. Even the living trunks were part of it. Hollows grown naturally into the living wood didn’t weaken the grandiose trees, despite seeming like they would have to.
+
+Emi stood next to her uncle, looking up at the moon.
+
+“Could you turn it into cheese?” she asked.
+
+“Yes. I’m trying to avoid doing anything too extravagant, though. People live on this world, now. I want them to be confident they live in a real world, not a cartoon.”
+
+“Didn’t you say you offered to stage an eclipse for those government guys?”
+
+“It was a long day. It’s possible I made some choices in the moment that weren’t the best.”
+
+“Uncle Jason, I think you just found the title of your autobiography.”
+
+***
+
+Jason had found himself at loose ends while waiting for events to play out. Most of the clan members had been returned to Europe, but Jason had taken his close family and given them a tour of his astral kingdom.
+
+In the meantime, the powers of Earth were still formulating reactions to the latest events. Carlos, Clive, Audrey and some members of her research team from the clan were trying to figure out what the vampires had been up to. Neil and the other healers were caring for the victims, alongside local authorities.
+
+The delivery of the Earth people returned from Pallimustus was still days away, Anna monitoring the negotiations of who would claim the individual members. One of the refugees, Li Li Mei, had been released to help with that process, being the voice of the others.
+
+After an amount of negotiation, a site had been chosen, not just for the refugee handover but as a neutral site for future formal summits involving the world governments and the magical factions, Clan Asano included. The Australian government had declared Asano Village and the surrounding area a special-interest territory, similar to the standing stones. It would likewise be managed by a multi-national organisation rapidly being assembled, with Lenora Coleman placed in charge.
+
+The Network had swiftly excised the existing residents, their own version of the Asano Clan, from the village. They were looking to bury them in the deepest hole they could find and pretend very loudly that they didn’t exist.
+
+Li Mei found herself in Asano village, either meeting with the international committee planning the handoff, or with the Chinese delegation. On the second day, the delegation was joined by her gold-rank uncle, Li Chen. He had been assigned a house in the village and she had met him there. Always stern in public, he wrapped her in a warm hug the moment they were behind closed doors.
+
+“Little Mei. It is so good to see you home. Later, you can address me as a representative of the Chinese government. For now, I want to hear everything, as an uncle who has missed his niece very much.”
+
+***
+
+“Uncle, I have not hidden anything from you.”
+
+Li Chen sighed.
+
+“So you say, but your allegiance is to Asano, now. As family, I love you, but as a representative of our nation, I cannot trust you. Not fully. Not when your first loyalty is to another.”
+
+He and his niece were in a sitting room still decorated in the Japanese style of the previous occupants, with some minimal western furniture. He and his niece sat on a couch at the edge of the open room.
+
+“Uncle, I can promise you this: having someone in Asano’s camp with our nation’s interests at heart is only good for China. When you and I met him, twenty years ago, we were looking at him as a potential asset for what I understand is a very different China to that of today. He—”
+
+“That is part of the problem,” Chen said. “You have been away for so very long. The world has changed, China has changed, and you have changed. There are so many uncertainties.”
+
+“I can promise you that Asano has changed most of all. Have you spoken with Lu Yan?”
+
+“I have.”
+
+“And what has he told you?”
+
+“Things that do not bear consideration without verification.”
+
+“Then verify them. Go to Asano’s world and see for yourself.”
+
+“He would allow that?”
+
+“Asano wants the leaders of this world to understand his perspective of the Earth. He is waiting for events to settle, but he will be announcing an open invitation to every government and magical faction to visit his realm. He will place no restriction on who they send, in numbers or power.”
+
+“He has no fear or what they might do or learn?”
+
+“No, Uncle, he does not. His intention is to lift the frogs from the well, and show them the breadth of the sky.”
+
+“He looks down on us so much?”
+
+“He would not say so, but how could he not? You have heard my story. The things I have seen him do with my own eyes. He is not the man we met two decades ago.”
+
+“And this is not the world you and he left behind. The rise of magic—”
+
+“Is too slow, Uncle. He intends to accelerate it, for everyone. His intentions are egalitarian, but there will always be winners and losers in great change. Even he cannot prevent that. If I can influence him, even a little, then our country has a better chance of rising with the tide, instead of being submerged.”
+
+“I want to believe you, Little Mei. But you tell stories that would fit amongst myths and legends, but such stories are impossible metaphors. Transforming into birds and slaying armies. Shaping worlds out of souls.”
+
+“You have seen him turn into a bird on being killed, Uncle. There are recordings of him doing so at Makassar, and I can assure you that his power has grown. Far more than simple rank suggests. Go to his world and see for yourself.”
+
+Chen got up from the couch and paced the room.
+
+“I do not like what you are telling me, Niece. If you are lying to me, it will break my heart, but I can live with a broken heart. If you and Lu Yan speak the truth, there is now a power in this world that none can go against. A power before which a nation that has lasted thousands of years can do little, perhaps nothing.”
+
+“Then do not go against him.”
+
+“And if he goes against us?”
+
+“He claims that is not what he is here for.”
+
+“Do you believe him?”
+
+“Yes. We’re not powerful enough to be worth lying to.”
+
+Chen walked over and dropped next to his niece again.
+
+“You are telling me,” he said, “that a tyrant has come to this world, and our only hope is to hope he doesn’t disfavour us.”
+
+Li Mei considered her words for a long moment before answering.
+
+“He is aware of the potential to be seen in that way,” she said. “He has spoken to me of this. He does not fear what the world will do to him but what it will do to itself, out of fear of him.”
+
+“You speak of him almost like a god.”
+
+“He would not like to hear it, but it might be wise to treat him as such. Other gods already do. Yes, his wrath could be terrible, but what he can offer could raise us up.”
+
+“If we worship him.”
+
+“He doesn’t want worship.”
+
+“But we still would be supplicants.”
+
+“Perhaps. I don’t have a good answer for you, Uncle. You were right in saying that there is a new power in this world, that no one can defy. All I can counsel is to not put yourself in a position where you need to.”
+
+***
+
+Boris arrived at the artefact city in a Cabal helicopter giving him a clear view of the cloud ship floating over it as they approached. The pilot was directed by radio to land on the sky vessel itself, instead of the helipad on the ground. The vehicle landed on an open platform where Jason was waiting. Boris disembarked and the helicopter took off again, heading for the Cabal headquarters within the city. Boris strolled towards Jason, waiting by a door leading inside. He used his aura to cut out the noise of the departing helicopter.
+
+“You could have asked for a portal,” Jason pointed out.
+
+“Yeah, but I need people thinking of me like some regular guy who needs a helicopter. Politics, you know?”
+
+“I do, sadly.”
+
+Jason led them inside, to a small lounge, and moved behind the bar.
+
+“Drink?”
+
+“Sure. A real drink, though. I know you like yours bright blue, and so sweet it might as well be cordial.”
+
+“I’ve got something here Belinda likes. It’s gold rank and amber. I’m guessing it’s in the vicinity of whiskey or bourbon.”
+
+“It’ll do.”
+
+Jason poured a glass and set it on the bar. Boris claimed a stool in front of it as Jason started on his own drink.
+
+“Is that a hollowed-out pineapple?” Boris asked.
+
+“You drink your way, and I’ll drink mine.”
+
+“Cheers to that,” Boris said, saluting with his glass before sipping at it.
+
+“How is it?”
+
+“Pretty good. I wish I’d picked up some gold-rank drinks while I was on Pallimustus, but there were too many eyes on me. Had to play the good little messenger, at least until your transformation zone stunt. I did not see that coming, although I suppose it worked out in the end.”
+
+“I hear that a lot.”
+
+Boris chuckled.
+
+“I bet you do.”
+
+Jason poured blue liquid into a shaker, then held up the bottle.
+
+“Essentially blue curaçao,” he said. “The name is different, because they call the island Livaros over there, but the drink is almost identical. This one is magicked-up a little. I know that the link between worlds causes these strange echoes, but it’s still odd to me when I run into them.”
+
+He continued constructing his cocktail.
+
+“What brings you by, Boris?”
+
+“I was already planning for a chat, but after you pulled away Audrey, then half of her team, my curiosity was piqued.”
+
+“The vampires are up to something nasty.”
+
+“They’re vampires; it’s what they’re for. What were they doing that required Audrey’s expertise?”
+
+“Some kind of blood creature. Gold rank. Looks like a tree but isn’t. Puppeteers people. Took four teams an hour and change to hunt it down, and in a contained space, at that.”
+
+“All those homeless I saw in those medical tents on the news?”
+
+“Yeah. Normal rankers can live through it, thankfully, but not all of them did.”
+
+“A one off?”
+
+“Not from the looks of it. That computer guy your Cabal people lent us founds records talking about getting a sample from somewhere. If there are more of those things…”
+
+Boris sipped at his drink again.
+
+“That’s going to complicate putting a final end to the vampires.”
+
+Jason paused putting his drink together and sighed.
+
+“Yeah. I thought it would be so much better, having the kind of power we have. Being immortal. Even just being gold-rank makes my friends almost impossible to kill, but now I’m always worried about everyone else.”
+
+“Power and responsibility. You don’t need the Spider-Man speech.”
+
+“No, I don’t.”
+
+“I wish I could lend you my messengers. We’ve hated standing by while the vampires took over. The wider Cabal will help, though. We did not like what happened to our little club when the vampire lords rose. They turned a lot of friends into brutal, remorseless monsters. Thank you for taking so many into your astral space.”
+
+Jason nodded, He spooned some ice into the metal shaker, put the cap on and started shaking. Neither man tried to talk over the noise. It was only a moment before Jason was pouring the contents into his hollow pineapple half.
+
+“How worried are you that the messenger presence on Earth will be discovered, now that the cosmos has come knocking?” Jason asked as he poured.
+
+“It’s inevitable. When, not if. Our time here is coming to an end, which makes me genuinely sad. It’s been my home for a long time. The only question is how long we have left. It means we can afford to act once, in a big, public way, before we go. A parting gift to the world that has been home to us for all this time. Maybe it will be the vampires we go after, but I’m hoping we can hold out longer than that. A decade would be nice.”
+
+“For when the bridge between worlds fully opens? I’m hoping to get Earth ready enough that no one tries to colonise it from the other side. Earth doesn’t have the strength to defend itself yet, but I think we can get there.”
+
+“I’ll help. However I can, for as long as I can.”
+
+“I appreciate that. And you already have. The project is almost ready for trials, right?”
+
+“It is. If Noreth had been willing to accept my help, maybe his version would have gone better. But he felt isolated. Like he was the one carrying the fate of the world, when it should have been someone else. He became obsessed with control, and increasingly turned to extreme measures.”
+
+“Sounds familiar.”
+
+Jason took a little paper umbrella and added it.
+
+“Can’t have been easy,” he said. “Having the power you have, but staying hidden while humanity made mistake after mistake. Doing nothing. Not that long ago, I’d have thought it was because you wanted to stay hidden from the orthodox messengers. But that’s not it, is it? The power isn’t enough.”
+
+“No, it’s not. And you’re wrong: we didn’t always do nothing. I’m old, and I’ve learned a lot of lessons, but some mistakes, I can’t seem to stop making.”
+
+“Any tips?”
+
+“You can force people to do what you want, but not to be what you want.”
+
+“I’ll keep that in mind.”
+
+Jason held up his elaborate drink and Boris tapped his glass to it.
+
+“I hope you do, Jason.”

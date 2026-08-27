@@ -1,0 +1,107 @@
+---
+id: d868c37b-54ab-523a-9dec-2c1429360c85
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: The Evil Pit of Evil"
+slug: 0010-chapter-10-the-evil-pit-of-evil
+partOf: he-who-fights-with-monsters
+position: 10
+ownLength: 1905
+unit: words
+ownProgress: 1905
+publishedAt: 2019-08-01
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387634/chapter-10-the-evil-pit-of-evil"
+royalRoadId: "387634"
+markedReadAt: "2026-06-29T19:04:06.783Z"
+---
+
+Jason was jerked back into consciousness as his body choked out more vomit. His throat seared as his empty stomach tried to cast out what wasn’t there, almost gagging him as it did. His head was filled with stabbing pain and when he opened his eyes everything blurred like he was underwater. The only clear thing was the little silhouette showing his health, the head now a glaring red. His thoughts skittered about like a roach, dashing out of reach as he tried to pin them down.
+
+Slowly, he came to something approximating his senses. There was a light source somewhere up ahead, but the light it put out was blood red. Otherwise, the tunnel was dark, but his new power allowed him to see through it. He was once again in a cage, but bigger than the last. It was the same kind of heavy cage the lion-man had been in, with thick, heavy bars. Apparently they didn’t want him kicking the door open again.
+
+His cage was being taken down a wide, stone tunnel. It was more like a train tunnel than a cave, with an arched roof and flat floors. There was even a rail, like for a mining cart. His cage was on a platform, being pushed along the rail. Three more cages were being pushed the same way.
+
+The people doing the pushing were wearing bright red robes and ugly demon masks. More of them led the way up front, carrying lanterns with stained glass that produced the ominous red light.
+
+Jason wasn’t thinking about what to do so much as desperately hoping the pain in his head would subside. He was concentrating on his breathing when a screen appeared.
+
+Quest: [Escape!]
+
+New Quest: [The Blood Feast]
+
+You have been captured and are set to be sacrificed by a blood cult. You need to avoid becoming a sacrifice.
+
+The long tunnel ended in a pair of enormous stone doors into which impressive but grotesque images had been carved, depicting some kind of cannibalistic orgy. Four cultists stepped forward, two to a door, grabbing the handles and pulling back until the doors swung ponderously open. When they did, red light flooded the tunnel, accompanied by an incredible heat and a bitter smell. It washed through the doors and over the group like a wave, carrying with it a coppery taste that lay thick on the tongue.
+
+“That’s a lot of red flags,” Jason said.
+
+A fist landed hard on the side of his cage.
+
+“Quiet,” a harsh voice barked.
+
+Beyond the doors was a vast, circular chamber, like a great cylinder carved straight out of solid rock. Some twenty-five metres across and at least twice as high, it was enough to boggle Jason’s mind even through his punch-drunk haze. The walls were black, like some long-dormant magma chamber, but even starting from a natural cavern it would have been a monumental labour to bring it to its current state. Flat stone slabs, carved out of the same black stone, had been inserted into the walls like pegs. They made a punishingly steep set of stairs that wound their way up to the higher parts of the chamber.
+
+Dominating the room was a red pool of roiling, bubbling liquid, taking up almost all the floor space. It was the source of the light, along with the heat and the coppery stench of blood. The centre of the pool churned, as if on the point of boiling. The sound of thick, sloshing liquid echoed up through the chamber. The red light shone from deep within the pool, washing the whole chamber in red as if everything was coated in blood.
+
+“That isn’t good,” Jason heard from one of the other caged people. It was Rufus, who had told him how to use the spirit coins. The lion man was there in his own big cage, along with one of the two women. The other was nowhere to be seen. One of the robed cultists bashed on the side of Rufus’ cage.
+
+“I said quiet.”
+
+“Or what?” the lion man grumbled. “You’ll sacrifice us in your creepy ritual pit?”
+
+The other prisoners were also dirty and ragged, but nothing like Jason. He had no shirt, no hair, there was blood and old healing ointment crusted all over him. His face was coated in blood from his broken nose, along with puffy black eyes and flecks of vomit.
+
+The rail that had carried the cages on platforms through the tunnel ended at the door. The cultists lifted the cages off, two people to each small cage, and four to the large ones. They carried them up the steep stairs, audibly straining at the effort. The lion-man’s cage was the most troublesome, even with four people lugging it. The stairs wound up and around the circular wall, the group pausing after a quarter turn. They had reached a platform, set into the wall like the stairs, but much larger. It extended out well over the blood pit below.
+
+“Leave the big one first,” one of the cultists said. “No point carrying the heaviest one all the way to the top.”
+
+Jason recognised the voice of the woman he had heard in the cellar while pretending to be unconscious.
+
+“Thank you, milady,” one of the cultists said gratefully. Jason recognised the voice as the shovel-carrying man she had addressed as Dougall.
+
+The cage holding the big man was left against the wall. Dougall and one of the other cultists walked over to the edge of the platform and took up a waiting position, facing out over the pool below. The rest continued on. The stairs continued to wind upwards beyond the platform, making another quarter-turn around the room before reaching a second platform.
+
+“Leave the other big cage,” the woman said.
+
+“Isn’t he the one that killed the young master?” one of the cultists asked. “You don’t want to save that one for last?”
+
+“I’m not going to make you haul that thing all the way up for my own satisfaction.”
+
+“Thank you, milady.”
+
+The four cultists roughly dropped Jason’s cage up against the wall. As at the first platform, two cultists took up positions at the platform’s edge while the rest of the cultists with the remaining two cages resumed the climb. Jason watched as they made another quarter-turn ascent to the next platform, which hid them from sight.
+
+Jason took a look around. His vision was still like looking through a stranger’s glasses, but it was slowly improving. The platform he was on looked like rough-hewn obsidian, shiny and dark. He had no idea how the massive stone platform had been shoved into the wall like a six ton peg.
+
+Examining the cage, the bars were much thicker than the last one he had been in. Looking closer, there even seemed to be faint traces of magical engravings on them. Oddly, Jason recognised them as reinforcing magic. The knowledge from the skill book was making itself known. It was an odd sensation, remembering something he had never learned. He was certain the silver spirit coin he used before wouldn’t be enough to break out, and he couldn’t reach the lock through the narrow bars to try his key ring.
+
+Pulling out one of the gold ranked coins, he turned it over in his hand. Unlike the ones he got from looting monsters, this one was embossed with the profile of a serious looking man on one side and some kind of crest on the other, along with the engraved word ‘Greenstone’. His hope was that the gold coin would be powerful enough.
+
+He looked up at the two people standing at the edge of the platform. He couldn’t tell if they were men or women in their hooded robes, but neither were paying attention to him. Instead they were at the edge of the platform looking out. If he could escape the cage quick enough, he thought there was a chance to rush at least one of them right off the edge
+
+He took a deep breath, focusing on the coin in his hand. He thought the silver coin had flooded him with strength, but compared to the gold, that had been a meagre trickle. It was like having a hurricane inside him and he lashed out with his feet, hoping it was enough to burst open the cage door.
+
+Instead of opening, the door shot off its hinges like it was fired from a cannon, metal screeching as the whole front of the cage was warped. The door moved almost too fast to see, barely deflecting as it slammed into one of the cultists, sending them flipping off the edge of the platform. They didn’t even scream, dead the moment the cage door crushed the top half of their body.
+
+Startled, Jason crawled from the ruined front of the cage and to his feet. The other cultist reacted quickly, turning and rushing Jason. The coin’s power was fading quickly and Jason threw out a fist with the lingering strength of the coin behind it. To his horror, his fist buried itself in the cultist’s chest cavity. The cultist let out a gurgling sound and died, dropping off Jason’s fist as the strength from the coin left him. Jason looked in horror at his own bloody fist.
+
+It wasn’t just his newfound strength that left him as the power of the coin faded. The strain of the coin’s power left him feeling enervated, barely staying on his feet. His eyes wanted to close, his body urging him just to lay down and sleep. He was jolted back to wakefulness by a powerful, roaring voice.
+
+“THEY’RE COMING FOR YOU!”
+
+Jason’s head snapped up and saw multiple cultists coming back down the stairs. Looking around, the pair from below were coming up as well. Peering over the edge, he spotted the door below, on the far side of the blood-red pool. He had a terrible idea.
+
+“Magic power, you’d better work.”
+
+As he backed up, the starlight cloak formed around his body, shrouding him in light-speckled darkness. After a steeling breath, he ran to the edge, leaping out as he urged the cloak’s power to reduce his weight. He sailed through the air, shadow cloak sweeping out behind him like a trail of stars. Floating over the bloody pool, he landed almost perfectly in front of the huge stone doors, still open.
+
+“That went startlingly well.”
+
+He looked up at the stairs, spotting the cultists bolting down them in pursuit. He ran through the doors and into the tunnel, then stopped.
+
+“Just run,” he told himself. “You can’t save them, you’re terrible at everything. Just run.”
+
+Instead of running he ducked behind one of the heavy stone doors, which the cultists had not opened fully due to their enormous weight. He pressed himself between the wall and the door and waited. The cloak dimmed, going from bright stars to melding Jason into the shadows as he admonished himself silently.
+
+Well done, idiot. Now you’re going to be tossed into a pit of blood by cannibals and then probably eaten. Good job.
+
+Cultists came rushing through the door, sprinting up the tunnel as fast as their bulky ceremonial robes would allow. None of them so much as glanced back at Jason’s hiding spot. Jason stayed stock still as more cultists came through as he cowered behind the door.

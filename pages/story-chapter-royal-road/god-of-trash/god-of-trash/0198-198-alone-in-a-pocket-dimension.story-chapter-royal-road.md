@@ -1,0 +1,85 @@
+---
+id: 21b1fc2b-5ce3-5b33-b266-b2035af5d366
+page-type-slug: story-chapter-royal-road
+title: "198. Alone in a Pocket Dimension"
+slug: 0198-198-alone-in-a-pocket-dimension
+partOf: god-of-trash
+position: 198
+ownLength: 2146
+unit: words
+publishedAt: 2025-09-26
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2631640/198-alone-in-a-pocket-dimension"
+royalRoadId: "2631640"
+---
+
+Rhys wandered around the heap, picking things up, then putting them down. The more he inspected, the deeper the frown on his face grew. This stuff was trash.
+
+That was fine, of course. He loved trash. No problem with that. But the problem was, he’d been promised fine artifacts that were treated as trash, not actual pure trash. This… this was just trash.
+
+There were priceless artifacts, sure. Or rather… the remains of what had once been priceless artifacts. There were shards of fine glass, shreds of expensive parchment, and so on, but everything valuable had been destroyed to the point that there was no recreating them. This wasn’t the pile of useful artifacts that could be used by him or his men equally, but a bunch of trash useful to him alone. He didn’t mind, really. But it was something of a letdown. His promised stash was not the glittering treasure of his dreams, but simply higher-class trash.
+
+Higher-class trash. Rhys raised his brows, thoughts forming in his mind. He picked up a shard of glass and hurled it with all his might at a rock.
+
+The rock shattered. The glass pierced into the earth without breaking. Rhys waved his hand, and it shuddered, then answered to his call, flying out of the earth and back to his palm. He looked at it appraisingly, then nodded slowly. That was high-quality trash. It was just as responsive as ordinary trash, but it had the solidity, strength, and power of the artifact it had once been a part of. Sure, broken into its component parts, it was probably infinitely weaker than the original artifact, but compared to the trash Rhys was used to handling? It was far more powerful.
+
+And there’s also… He called out to the glass, activating Trash Intent. The glass trembled. For the first time, it didn’t attempt to take form. Instead, it called out to the rest of the heap, and a thousand points of trash lit up in Rhys’s mind.
+
+Oh? Interesting. He lifted his hand, calling all those thousands of points to his hand. As they flew in, the Trash Intent gave them shape. The glass shards came together, taking on a strange, bead-like shape, an orb with bands tightened around it, as if a watermelon’s spines were pressed into the fruit instead of painted on its surface. A nose of sorts pushed out of the front of the bead, narrowing it like the neck of a gourd. Rhys blinked. “Huh?”
+
+The object spoke to him, Trash Intent telling him what it was meant to be. A storage artifact. No… more than a storage artifact. It was meant to suck up rivers and transport them elsewhere, then set them free again. A storage artifact for living waters. A weapon to unleash the full wrath of a flood upon one’s enemies. Whichever way he viewed it, it was a monstrous construction. Truly worthy of being a legendary artifact.
+
+But even as he reformed it with Trash Intent, he could sense that its magic had not returned. He frowned. Before, he’d been unable to reconstruct artifacts if he hadn’t been able to pay the initial price to return the magic as well…which he definitely would not be able to pay even if he burned all the trash in his star, and all the trash in this pit, too. Not for this level of artifact. But this time, he’d been able to simply reform its physical shape, without recalling the enchantment on it, too. And not only that, but the pieces had called out to one another. That part, he was willing to put up to it being a legendary artifact of some kind, but the magic…
+
+His eyes widened. “Wait. Is this how the Empress practiced her de-coring techniques?” She forced the enchantments out of these artifacts one at a time, maybe even practicing so that she wouldn’t break them—or even the enchantment—when she removed it? It was her objective with cores, after all: to remove them without shattering them. It made almost too much sense.
+
+He delved deeper into the glass orb’s intent, calling out to the magic it remembered having. In his mind, he could feel it, almost taste it; he could see its immense might as it unleashed waves upon a city, or its delicate side, as part of a river was removed, then diverted to run along a drought-stricken town. But the shape of the magic, the way the spell was bound into the material, how to circuit it through the orb to create the spell, the path and comprehension behind it; all of those were locked away from him, as if they had been completely stripped from the object.
+
+He released the Trash Intent and sent the shards into his core, more convinced of his guess than ever. If it wasn’t completely true, it was at least partially true. This trash heap wasn’t only hidden because of the artifacts… no, rather, it wasn’t at all hidden because of the artifacts. The artifacts were inert, and the Empress was completely unworried about anyone getting their hands on them, and the few that had survived were of no particular interest to her—the Waters’ fire mana battery was no threat to her, and didn’t need to be destroyed. This trash… if his guess was right, then this trash was hidden because it was the Empress’s practice material to learn her core removal art.
+
+But why? Why hide it? It was useless to anyone but Rhys, and it wasn’t like other people had Trash Intent to call out to the trash and realize the enchantments had been stripped. Sure, he was sure other people could sense that the enchantments had been removed, but… he let the idea play out in his head. An enchantment expert found this place. Found that the artifacts were not only destroyed, but their enchantments ruined. Then they… what? How was that dangerous for the Empress? He supposed he could see it being problematic for her undefeatable, perfect, utterly unique image, if others could see the result of her trying and failing to create the core technique before she succeeded, and maybe if someone could replicate her technique from seeing her practice, that could be a problem, but… no, even then, he didn’t understand it. He looked at all the trash before him. Why hide it?
+
+There had to be a reason. Maybe it really was only for pride and propaganda, but there had to be a reason. He took a deep breath, then pulled, calling the trash into him. He’d study it all. Take it with him and look into it until he could figure it out.
+
+“You could ask,” Daran suggested.
+
+“You could eat my ass,” Rhys returned.
+
+“If it’s all the same, I’d rather not.”
+
+“I concur.” He was going to use his question for something useful, not for this. If he came up against a dead end and he couldn’t break through, then he’d ask Daran, but not a second beforehand. This was a puzzle he had all the pieces to, as long as he could figure out how to put them together. He’d save his question for something he’d been puzzling on a long time without any hints. Straw, for example. The void. Either of those, Daran had far more knowledge than him, and a unique ability to impart knowledge. When it came to Straw, the Demon King had made the Remnant Weapons, back when they were just Weapons, nothing Remnant about them. If anyone knew how to find Straw, it was him. When it came to the void, he’d posited himself as an expert on it, and allowed Rhys to question him on it. He was annoying, but Rhys couldn’t deny that he’d learned a lot about the void by questioning him. He’d demonstrated a unique knowledge of the void, and therefore, his knowledge on the void was worthwhile.
+
+This was something they’d both just come across. Daran knew little more than him. Sure, maybe the man had figured out something he hadn’t, but it was just as likely that Daran knew nothing about this, and was just putting on a good face so Rhys would ask him, and he could honestly, without holding anything back, say that he knew nothing.
+
+Yeah. I’m not falling for that one. Unless I really run out of ideas, and he’s the only hope I have left.
+
+Rhys walked the land, calling the trash to him. Despite being in the void, the void did not want to cooperate here and assist him in pulling the trash in, so he had to wander the heap to absorb it all. That, too, was something he had to look into, but the Empress’s practice grounds took priority. She’d specifically hidden this. It had to mean something. But what?
+
+“If your world has no magic, how did you come to this place?”
+
+Rhys turned. Daran was still following him, though with an unconcerned expression on his face, as if he wasn’t interested at all in what Rhys was doing or had to say. His question, on the other hand, suggested the opposite: that he was very interested in Rhys, and still pondering over what Rhys had said.
+
+Rhys raised his brows. Really? That was all it took to get under his skin? Then again, what had he said? He had nothing left but knowing, or whatever? For a being who couldn’t touch or interact with the world, and maybe even couldn’t speak with anyone but Rhys, for a being who was proud of his knowledge to the point that he’d characterize himself as a being who knew—it must be incredibly frustrating for him to encounter something he didn’t know at all. Despite himself, he grinned a little, pleased to finally have something that annoyed the man as much as the man annoyed him.
+
+He crossed his arms and gave Daran an appraising look. “How about it? Would you like to guess? I’d say double or nothing, but I’m back to one question, so how about this? I’ll give you two chances to guess. If you get it on the first, that’s it, no questions for me. If you get it on the second, I keep my one question. If you don’t get it on the second try, I get two extra questions, for a total of three freely answered questions.”
+
+“You’re very confident that I can’t guess it,” Daran said.
+
+Rhys smirked mysteriously and cocked one eyebrow, saying nothing. It wasn’t that he was confident Daran couldn’t guess it—well, that wasn’t right. He was. He was confident Daran couldn’t guess that absolutexistence had mistaken Rhys for a god and yanked him into this world to deal with the trash problem, mostly because who in their right mind would guess that? But on the other hand, if Daran did guess it—even partially guess it, even guess at the existence of absolutexistence, or even better, knew about absolutexistance, it told him so much about the Demon King, and about this world. It was worth wagering his one question to discover that. In fact, if Daran got it right, it would essentially be a straight answer that Rhys wouldn’t have any other way of discovering—in other words, the exact same kind of thing he would use his question on, anyways. He wouldn’t mind getting two more questions instead of essentially using his one question here, but he also wasn’t going to turn down a win-win gamble that he literally could not lose. He only had the option of winning, or winning more.
+
+Daran fixed him with a stare. “I know what you’re doing. I only like it when I’m the one on that side of the equation.”
+
+“Yeah, but you’ll never know if you don’t guess. If you do guess, even if you get it wrong, I’ll tell you afterward. If you think about it, you’re the one in a win-win situation.”
+
+“So you do feel like this is a win-win.”
+
+“Uh huh. What are you gonna do about it? This is beneficial to both of us. You can refuse the deal, but you’ll be harming yourself just as much as you’re harming me.”
+
+Daran narrowed his eyes. “I don’t like how you’re so smug about it.”
+
+“And I don’t like your attitude in general, so the feeling’s mutual,” Rhys retorted.
+
+“At the height of my power, I would have you executed for that.”
+
+“But you aren’t, so I’m mouthing off to you and there’s nothing you can do about it.”
+
+Daran glowered at Rhys. Rhys beamed. No, I take it all back. All my Dead-Notebook-level scheming was pointless. It was all worth it just for this moment. Just for being able to smugly grin at the Demon King and know that he had that annoying man over a barrel… all worth it.

@@ -1,0 +1,123 @@
+---
+id: ff26d8cf-0e4c-57c2-8bfd-218033754dfb
+page-type-slug: story-chapter-royal-road
+title: "282. Another Plan"
+slug: 0282-282-another-plan
+partOf: god-of-trash
+position: 282
+ownLength: 2211
+unit: words
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3117032/282-another-plan"
+royalRoadId: "3117032"
+---
+
+Back in the smoking room, Rhys paused for a moment, temporarily too overcome by emotion to act rationally. He wanted to jump back in and rescue Straw now, and plans be damned, but no. No. He couldn’t. If he did that, he threw all the rest of it into chaos. This only went off if he got everything together, all ready to execute at the same time; even a single flinch, a single move too early, and it all fell apart.
+
+He took a deep breath, then settled himself. Step one, done. On to step two.
+
+Straw was taken care of. Mouse, Lira, and Bast remained.
+
+Of the three, Lira was the one he was least worried about. Yes, the enemy was using her face; however, he suspected that they were able to use her face because Lira was no longer using it. Just because they were using Lira’s face was no guarantee that Lira was in danger. She was a shapeshifter. She had 70% more of the world available to her, as a water-based lifeform, assuming that 70% of this world is water. If he was her, he’d be miles away right now, hidden in the deep ocean or some far-flung lake with a new face, harassing a new set of land-bound friends. If he never saw her again, he honestly wouldn’t be too worried. Sure, he’d have that tang of anxiety at the back of his mind of a thread cast loose, but he was pretty sure that it was no more than that. She could take care of herself. She was fine.
+
+Mouse was actively in the enemy’s grasp. As concerned as he was about that, it wasn’t as if she was in imminent bodily danger. She was the enemy. He was pretty sure the enemy either didn’t know that there was a bit of energy between them, or that the enemy assumed it was merely an act to get his sympathy. Rhys was pretty sure it wasn’t an act, but hell, he was trash. Maybe it was. Either way, he wasn’t going to move for Mouse first, because she was currently safe.
+
+Bast was on the enemy’s side too, but more tenuously. He wasn’t the enemy’s trusted spy; he was the underling of the man the enemy had forced, via contractual obligation, to be on the enemy’s side, who was also induced to loyalty via magical contract. That was the kind of tenuous obligation that meant any wrong move on his part might lead to him being in real bodily danger. And when Rhys was planning to do big money moves pretty soon, which might force Bast into a place where he might have to violate his contract or violate his personal values and desires in order to survive, he had to make sure he put Bast in a good place to be able to maneuver around Virgil, without forcing him to obey a contract he didn’t want to and therefore fight Rhys.
+
+Unfortunately, Virgil had found out about his mark-breaking, which meant he’d likely suspect Bast, even if Bast had a fully functional mark, let alone if Rhys actually broke the mark. He had to break the mark in the seconds before he made his move, or risk Virgil re-marking him.
+
+However, if he waited until the last second to break the mark, he’d tip his hand; not to mention that getting that close to Bast in the first place was going to take non-zero time, and setting up the mark break, everything… that was what he had to do now. That was his next step.
+
+The timer was ticking down. His clothes were back from the tailor. There were days until the ball. He didn’t have to attack at the first ball, but it would be the first opportunity to attack, and he wanted to provide himself with the most opportunities possible. At this point, he couldn’t simply sit around any more. He had to act, even if it was not-long-enough.
+
+A smile crept across his face. But that was fine, because he hadn’t just been sitting around. He’d laid his plan 2s, his tiny loops, all over the city. He knew the comings and goings of most of the capital’s mage-nobles. And he had clocked Bast and the Sword Saint moving around the capital. They didn’t walk around often, instead preferring to remain locked up in the Sword Saint’s private quarters in the inverted pyramid—which is probably Virgil’s preference, if I had to guess, not Bast’s or the Sword Saint’s. When they left, they typically made a one-way journey to an apothecary in the shopping district, then stopped by a very specific restaurant on the way home. It was a pattern, and a pattern he was prepared to take advantage of.
+
+The big unknown was the Sword Saint. He knew nothing about the man. For all he knew, the guy was a loyalist who loved Virgil. It wasn’t the vibe he’d gotten from their brief meeting in the Empire—no, that vibe was ‘a man under heavy mind control’—but it could nonetheless be possible.
+
+Virgil was the kind of guy who wouldn’t be satisfied until he had 100% control. Loyalty wasn’t enough for him. He needed control. He was the exact kind of micromanaging shit boss who ruined projects by riding his underlings far, far too hard, who left them unable to actually accomplish the things they needed to because he was simply unable to trust them to do anything due to his own psychological hangups. He was no good as a leader, but he was a pain in Rhys’s ass thanks to his shitty leadership making it harder for Rhys to work in the margins.
+
+Heckin’ dictators.
+
+Rhys stood, dusting himself off. He emerged from the smoking room. “Lily! Let’s get lunch!”
+
+“Yes, sir!” Lily replied, hurrying down the stairs.
+
+The little Straw doll chirped on his shoulder, excited.
+
+Rhys jumped, then grabbed the doll and stuffed it into his storage ring. Lily had been shockingly accommodating so far, but he was pretty sure cursed relics of a Remnant Weapon were a bridge too far. Maybe. Probably.
+
+He rounded the corner to meet Lily at the bottom of the stairs. “There’s no need to call me ‘sir.’ I’m your beloved husband, remember?”
+
+“Of course, sir. H-husband.”
+
+He sighed. “At least call me Norton in public.”
+
+“Naturally, sir.”
+
+Rhys looked at Lily, reconsidering taking her along with him, but ultimately turned and headed for the door. If he went to lunch alone, without a friend or anyone, people would look at him funny. He’d know. He’d done it enough in life one. Rhys didn’t care, but when he was trying not to attract attention, it wasn’t ideal. It also would harm his image as the suddenly-rehabilitated perfect husband, since, after all, it would imply that he didn’t want his beloved wife to come along to lunch with him. He didn’t want to imply that, so better to bring her along, even if she might call him ‘sir’ and confuse the waiters.
+
+Whatever. I can just imply that we’re into roleplay or something.
+
+He headed out the door with Lily by his side. Rhys wanted to beeline directly to the restaurant, but that would be too obvious. Instead, he once again wandered the shopping district with Lily, then turned to her. “Should we grab lunch?”
+
+“Eh? Ah… yes, of course!” she chirped, quickly overcoming her initial confusion.
+
+Rhys offered his arm, and the two of them headed over to the restaurant that Bast and the Sword Saint frequented. Bast wasn’t there yet, because that would’ve been too suspicious. Rhys and Lily were seated, and Rhys ordered some drinks and an appetizer. They’d be here for the long haul. He intended on savoring his food and drink over the course of the next few hours. It would be another hour to three hours before Bast arrived, if he arrived at all today. He should, but there were no guarantees when it came to peoples’ schedules. Working a corporate job had taught him that if it’d taught him anything. Still, Bast almost always came to this restaurant around this time on this day of the week. It would be a rare day that he skipped.
+
+Of course, I don’t need to eat, so it shouldn’t be hard to drag a meal out. He rested his hands on his lap and waited, prepared to sip and nibble like a true noble.
+
+The appetizer arrived, and Rhys’s mouth started watering just from the scent alone. Melted cheese topped a rich bowl of onion soup, with a hearty bread meant to be eaten with it all. It took every scrap of his willpower not to jump atop the food and devour it whole. He lifted his spoon, and his hand shook. He wanted to scoop it all up in big hunks and shove it into his mouth, but he couldn’t. He couldn’t. He was here to stall for time. If he ate quickly, they’d kick him out just as quickly! Mage restaurants weren’t like European restaurants; they didn’t purchase the table as much as the food. They were here to eat, and when they were done, it was time to get the fuck out. He couldn’t eat the soup like that, or else he’d have to keep buying more and more food until he was fat and bloated.
+
+Deep breaths. Play it cool. We can do this. Small bites. Rhys took a deep breath and dipped the spoon into the broth, just barely wetting the spoon with the liquid. He put it into his mouth. His eyes went wide. Rhys sucked quick breaths, struggling not to hyperventilate. Oh gods. It’s good. It’s better than I thought it would be. It’s better than it smelled. I’m going to die. I’m going to overeat and die.
+
+“S… N-norton? Are you okay?” Lily asked, leaning across the table in concern.
+
+“I might die,” Rhys confessed.
+
+“It’s that serious?” Shocked, she jumped to her feet.
+
+Rhys grabbed her arm and gestured for her to sit back down before she could do anything drastic. “Figure of speech! Figure of speech.” Maybe. Unless I actually try to eat as much of this as I want to, and then it might become literal.
+
+Her brows furrowed, but she sat back down. “You were pale. I was worried.”
+
+“I was just… taken aback by how delicious the soup is.”
+
+“Really? Madame Tunk says this place is a shithole that only lesser nobles bother with. Please excuse my language.”
+
+Rhys coughed. Madame Tunk probably has higher standards than the garbageman. “I, uh. Have decided to appreciate the small things in life. And it’s completely changed my perspective on many things.”
+
+“Of course, of course,” Lily said, quickly nodding along.
+
+“In any case, this place seems well attended for a… well, you know what you called it.”
+
+Lily looked around. “It’s because Luc Sion comes here. No one’s here for the food—”
+
+Heresy, Rhys silently interjected.
+
+“—they’re all here to curry favor with the Sword Saint, and by extension, Virgil.”
+
+“Do people often succeed?”
+
+Lily gave him a look as if he’d asked her if the sun was bright. “Of course not. But that doesn’t stop them from trying.”
+
+It tracks, especially since I know he’s under Virgil’s mark, in some form of semi-mind control. “Of course, of course.”
+
+“Don’t tell me, is that why…?”
+
+Rhys raised his hand. “I’m here for the food, and the food alone. Like I said, I’ve decided to go back to the beginning and savor the little things in life.”
+
+She gave him a suspicious look, but nodded slowly. After a second, she added, “This place is notorious for not being particularly careful about cleanliness or herb preparation. People have gotten poisoned before.”
+
+“Oh, was that why it smelled so delicious?” Rhys lowered his nose again, taking a second sniff. Now that he was focusing on it, it did have an ever-so-slightly off scent to it. For him, it was nothing but a flavor enhancer, but for everyone else, it would probably be off-putting.
+
+Lily, a member of the ‘everyone else’ category, looked at him like he was crazy, and not for the first time. “I didn’t know my dear husband had such refined taste.”
+
+“Nor did I, but we all learned something about ourselves today.” Rhys took another sip of his food-poisoning soup. It wasn’t his first time eating delicious, delicious food poisoning. Back home in his first world, one of his favorite takeout places had a fifty-fifty shot on poisoning him with one of his favorite dishes. He eventually had to stop ordering it for his own safety, but man, what delicious poison it had been. If only it hadn’t been food poisoning, or if it’d at least been milder than shit-your-brains-out poisoning…
+
+Ah, well. There was no point reminiscing about the past. Rhys finished his soup as slowly as he could manage, then glanced at Lily’s untouched bowl. “If you aren’t interested, could I…?”
+
+“Oh, of course.” Lily pushed it toward him.
+
+“Fantastic.” Rhys exchanged his empty bowl with hers and started all over again.
+
+She stared at him in disbelief, then shook her head and turned away, choosing to say nothing.

@@ -1,0 +1,137 @@
+---
+id: 2860c97a-27c5-50e8-afec-c79ac4aaeda8
+page-type-slug: story-chapter-royal-road
+title: "316. I'm Going to Beat Up Your Grandpa"
+slug: 0316-316-im-going-to-beat-up-your-grandpa
+partOf: god-of-trash
+position: 316
+ownLength: 1919
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3454997/316-im-going-to-beat-up-your-grandpa"
+royalRoadId: "3454997"
+---
+
+As it turned out, there was a good training grounds nearby, full of monsters just waiting to be beaten up. It was a natural valley where mana ran thick, which promoted the growth of monsters, and so it was almost always brimming with the creatures, to the point that they had to be regularly culled, or else they’d become a problem. Luckily, there were lots of young mages to do the culling for the sake of those who lived nearby, so it usually didn’t become a problem.
+
+To be honest, Rhys was a little excited. He hadn’t done much good old-fashioned grinding for a while now, and, in fact, if he searched his memory… he hadn’t done much good old-fashioned grinding ever. But it was never too late to start, so he followed after Ryota with a spring in his step.
+
+How am I even going to level up from grinding? Grinding isn’t trash, he thought, then immediately facepalmed. Grinding wasn’t trash? Was he mad? Blind? Stupid? Grinding was the ultimate trash! Who liked grinding, after all? Who logged in and enjoyed spending twenty hours farming the same three enemies on the same map? Especially in an old-school JRPG, where grinding for twenty hours might not even put you on level, let alone above-level—hell, where you could spend half an hour in each battle, depending on the game and the enemies—grinding was trash. If he looked at this as earnest growth for a noble cause, then of course it wouldn’t qualify, but so long as he understood it properly as the trash it was, he had no issue at all.
+
+He clapped. “Well, that’s that.”
+
+“What’s what?” Ryota asked, tipping his head.
+
+“Nothing. Just something I had to remember for the sake of my future.”
+
+Ryota stared. “That seems a little more important than ‘nothing.’”
+
+“Depends on how important you think my future is. So, rich kid, do you have a bejeweled treasured ship or something for us to fly over, or are we legging it?”
+
+Ryota laughed lightly, shaking his head in embarrassment. “Grandfather doesn’t support me, remember? All I have are the worn-out leftovers.” He gestured back at the manor, which diminished behind them as they rode the flying sailboat back down.
+
+“If that’s the worn-out leftovers, then I haven’t even qualified for leftovers my whole life,” Rhys muttered to himself.
+
+“What?”
+
+“I was just saying, you’re a fine reminder to suppress the demons in my heart,” Rhys replied with a smile. After all, if there weren’t people like Ryota who could call a manor like this ‘worn out leftovers,’ how would he convince himself he was still trash?
+
+“O-oh, I am? I…no one’s ever told me that before.” Ryota rubbed the back of his neck and blushed a little.
+
+I think that’s because everyone else would gain demons in their heart if they heard you calling these fine quarters trash. Fortunately, for me, it’s merely a timely reminder of my own lowly place in this world. Rhys kept smiling and wisely said nothing.
+
+“In any case, about a treasured ship… I’ll show you when we reach the bottom, but promise not to laugh.”
+
+“I guarantee you, I won’t be laughing.” I might be crying the bitter tears of poverty in my impoverished heart, but I don’t think I’ll laugh!
+
+Ryota took a deep breath, then nodded to himself. He hopped in place like he was hyping himself up. At last, he lifted his hand and held it out before him. There was a brilliant gleam of light, and a ship appeared.
+
+And what a ship it was. Three tall red, ridged sails stood proud into the sky, and the dark old-wood hull curved away above him. The ship could have easily held a hundred, the scale absolutely insane, beyond anything a man could need. Even if Ryota had possessed a full complement of servants, bodyguards, fighters, and so on, it would’ve been an excessively large ship. As it was, it was almost comical. This enormous, massive thing, at the service of one small man; not that Ryota was small, but anyone would feel small before something so significant.
+
+The ship, too, hummed with magic. The magic was sealed and repressed, but even so, Rhys felt that it was far beyond his own tier. He looked at Ryota.
+
+Ryota grimaced. “I said not to laugh…”
+
+“What am I supposed to laugh at? This thing is impressive as hell! It’s terrifying! What do you mean, ‘don’t laugh?’ Am I meant to be laughing through my tears?” Rhys rebuked him.
+
+“Oh, stop exaggerating,” Ryota said, grinning a little.
+
+“You should see what’s in my storage ring. It isn’t a galleon, I’ll tell you what.”
+
+“A… what?”
+
+“A very large class of Spanish ship… look, I didn’t memorize lots of ship names, okay? I know that kind of ship has a name, but I didn’t download every piece of ship knowledge into my brain before I left. I’m doing my best over here.”
+
+“Spanish? What’s that?”
+
+“A place where they build ships.”
+
+Ryota’s eyes lit up. “Oh, where you’re from?”
+
+“Sure.” He wasn’t wrong, anyways. It was ‘where Rhys was from,’ just in the way that he was related to his grandparents, and they were family, too. And then a blast hit from the blue, and he snapped his fingers. “A junk!”
+
+Ryota frowned. “That’s rude. It’s humble, but it isn’t junk.”
+
+“No, no, no. Your ship definitely isn’t junk, but where I’m from, that kind of ship is called ‘a junk.’ That’s the name of ships that look like that.”
+
+“Oh… really?” Ryota looked over his shoulder at the ship. “We call them ‘chuán.’ Grandfather captured it from a neighboring region long ago. It’s a bit musty and out of style, but it works.”
+
+Rhys tilted his head. “Huh. Wonder how they got ‘junk’ out of that.” Then again, we’re in another world. It’s probably got a totally different origin and history than junks in my world. If the names just happen to be the same, or at least, if they’re this different between Eastern and Western versions back home, then if I had to guess, ‘junk’ is probably a mishearing of a different country’s version of this ship’s name… but if I wanted to get any closer than that, I’d have to actually read a W*kipedia page, and as much as I’d like to have it, I don’t have W*kipedia downloaded into my brain.
+
+As a fellow being without an encyclopedia downloaded into his brain, Ryota shrugged. “I don’t know what things are like in Spanish.”
+
+“That’s… not…” Rhys took a deep breath and let it drop. It was way less effort to simply be ‘from Spanish’ than to explain Spain, after all.
+
+“What’s not? Did I say something wrong?”
+
+“Don’t worry about it. Come on, let’s forget about all this and go beat up some monsters.” Rhys knelt, then exerted his leg strength and jumped up into the ship, rather than flying to it. He soared up over the railing, over the mast, and then came down not toward the deck, but on the far side of the junk. Backpedaling with his arms, he activated his flying and swept himself backward to land nimbly on the ship.
+
+Ryota flew up beside him, landing gently and nonchalantly. “How dynamic.”
+
+“Oh, shut up.” Rhys looked around, but as far as he could see, it was a ship. An ordinary ship, with rigging and everything. If they had a crew and a large body of water, they could have sailed along it, but as it was, he had no idea how to make it start flying. The few times he’d been aboard airships before, someone else had been at the helm. He cleared his throat and looked at Ryota. “So… how do we make this thing go?”
+
+Ryota chuckled. “It’s keyed into my mental energy. All I have to do is give it the order, and it flies.”
+
+“That’s awesome.”
+
+“It’s fairly standard, but… I suppose you haven’t piloted a ship before?”
+
+“No, never.”
+
+Ryota nodded. “Simpler ships will have control orbs that you touch, but the principle is the same whether there’s a control orb, or whether it has a control aura. Either way, all it takes is a few mental commands to move it.” He pointed, and as promised, the ship lifted off and began to fly. “The downside, I suppose, is that I can’t let you play with this ship since you aren’t keyed into its command aura, whereas with a control orb, you could simply touch it and take control.”
+
+“Oh well. It doesn’t matter that much,” Rhys said, hiding his disappointment. It was just a ship, after all. How fun could it be to control? It wasn’t like it could do loop-the-loops in the sky or twist figure-eights around clouds… as far as he knew. What if it could, though? And what if it could go way super faster than the relatively stately pace Ryota was proceeding at?
+
+Gods damn it, I wanna know! Rhys thought, but there was nothing he could do. It was out of his hands. There’d be no racing or dogfighting in his future… at least, not the immediate future. But if he ever did get his hands on a ship… oh baby. He’d crank that thing up to eleven and shoot off toward the horizon…
+
+Ryota glanced at him, and a smile crawled across his face. “You want to see how fast it can go?”
+
+Rhys whipped around. “Yes!”
+
+“Don’t blink. You might miss it.” Ryota focused, and the ship began to pick up speed rapidly. Rhys ran to the bow, throwing his arms out big-sinky-ship style with a beaming smile on his face. The world flashed by, green blurring into blue into green, and then the ship stopped.
+
+Rhys blinked. He looked around. “What? More! Faster!”
+
+“We’re already here,” Ryota said with a laugh. “I could do some laps, I suppose.”
+
+Rhys looked at him expectantly.
+
+Ryota blinked. “You… want to do laps?”
+
+“You fool! Doing laps is a man’s romance! There’s nothing better than doing laps! If I could, I would do 200 laps around a 2.5 mile oval in a town called Daytona, dammit!”
+
+“Two hundred… isn’t that a bit much?”
+
+“Not even a little!” Rhys paused. “Well, maybe a little. I never stuck around to the end of the races. Hell, I never stuck around for the start of them, either. I usually just watched the highlight reels and the crashes. Mostly the crashes.” He waved his hand. “But watching is different from being in the fast ship doing big circles in the sky! It’s totally different when you can feel the wind in your hair instead of watching some other guy sweat in a tiny shitbox of a car with no A/C and bad ergonomics.”
+
+“S-shitbox… what’s a car? Or ay-see? Or ergonomics?”
+
+Rhys nodded wisely. “No, you’re right. It’s not fair to call it a shitbox, unless we’re talking about the user experience. The car itself is a modern marvel, and it’s very unfair to the engineers to call it anything but. But it sucks to ride in, I know that.”
+
+Ryota took a deep breath. He shook his head at Rhys, just trying to regain his bearings. “Things must be very different where you’re from.”
+
+“You could say that.”
+
+“Well, daylight is wasting, so we should get started.” Ryota jumped from the ship without another word.
+
+“Hey, wait. What about my laps? Hey!”

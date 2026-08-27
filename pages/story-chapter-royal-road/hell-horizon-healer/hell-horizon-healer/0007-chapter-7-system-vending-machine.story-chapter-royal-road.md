@@ -1,0 +1,199 @@
+---
+id: 11741ccf-b77a-510f-99a1-d310fb57373d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7 - System Vending Machine"
+slug: 0007-chapter-7-system-vending-machine
+partOf: hell-horizon-healer
+position: 7
+ownLength: 2168
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3521000/chapter-7-system-vending-machine"
+royalRoadId: "3521000"
+---
+
+Gutter-Tooth - Type: Weapon - Tier: Rare - Description: A cruel, serrated iron crescent anchored to a heavy, rust-pitted chain. It catches on flesh and tears tissue from bone, mimicking the feral, low-profile striking of a corridor predator. - Stat Modifications: +5 Strength, +5 Vitality, +3 Mana - Effect: When the blade drinks the blood of an enemy, increase the potency of your next skill by 50%.
+
+The stat modifications were immediate.
+
+Five entire points of Strength surged through his frame like an instant stimulant, tightening his muscles. The added Vitality washed away the lingering weight of his sleepless night, erasing the exhaustion from his non-stop push-up grind.
+
+Plus three mana meant, in theory, his maximum pool had expanded. He could now use Minor Heal twice instead of just once. He tried calling on the energy right away, and he was correct. The blue light flared twice before he hit empty.
+
+But he frowned at the realization.
+
+Mathematically, it didn’t add up. An extra three points should have left him with a trace amount of leftover energy after two casts, but his pool was completely bone-dry. It had used up pretty much everything. The System's scaling was hidden, or his understanding of the numbers was wrong.
+
+He stared at the heavy scythe on his floor, confused at first about what to do with a weapon so unwieldy in a small apartment. But another simple thought stored the heavy chain right back into his body, the iron dissolving into a phantom chill beneath his skin.
+
+Yep.
+
+The world had gone completely mad, and the worst part was that nothing was explained. It hadn't even cost him mana to summon the weapon; there was no sign of the familiar environmental static. It operated on a completely different mechanic.
+
+A severe hunger pang stabbed deep into his gut, breaking his focus. Jake took a slow breath, forcing his mind back into Concentration until the physical irritation eased into a dull, manageable ache.
+
+He tried settling back into Concentration, obsessed with the feeling of turning in on himself, but no matter what he tried, the nibbling in his gut refused to let him focus.
+
+Sighing, he stood up. He was too hungry and too thirsty to concentrate.
+
+What else can I do? Sleep?
+
+He scoffed to himself and immediately tossed the bed duvet to the far corner. He made himself a target made of whatever he could find around the bland apartment and stood at the far side of the room. He painted a target on the duvet with a pen he’d found around the place.
+
+Retrieving his bow and quiver, he started target practice.
+
+His first arrow sailed through the air and hit the outer ring, which considering how close he was, was kind of pathetic. He had full intentions of using a bow for its full range capabilities, not waiting until the monsters got so close he could smell the stench on their breath.
+
+As for the Gutter-Tooth? Yeah, he was under no delusion that he could even hope to use that thing without seriously injuring himself.
+
+Edwin’s accuracy with that crossbow, though I’m sure it helps being close to a firearm, was nothing short of amazing. And I’m guessing it’s thanks to his Marksmanship Skill.
+
+Why couldn’t Jake earn his own? Marksmanship, he was certain of it now from the fight with the Skulkers, was much better than Bowmanship. He hit a bullseye twice in a row. From what he knew of soldiers, even they couldn’t do that in the middle of a high-tense shootout.
+
+But Bowmanship? Maybe there was something lower than that? He was sure, just like Concentration, if he put enough time and effort into it, he could learn a new Skill all on his own.
+
+He began shooting into the duvet from all different angles and distances.
+
+When he got near the bullseye after an hour or so, he moved into the hallway. There were a few people moping around, talking about this or that. Jake paid them no attention.
+
+Someone said hello, thanking him for going up, but he just ignored them. He was too busy thinking about the next arrow.
+
+One again, he started shooting at his target. When he got close, he’d move back further and further away. At some point, the hunger disappeared—maybe he’d gotten used to it?
+
+And without meaning to, he entered a deep Concentration, arrow after arrow. He could now hit the inner ring semi-consistently from twenty-five feet away.
+
+He felt like he was on the cusp of something when all forms of Concentration shattered. Tiredness struck him like a physical blow as he swayed on the spot, reaching out for the wall to keep himself from falling.
+
+Finally, he had reached his limit.
+
+Retrieving his arrows, he stumbled back to his room and collapsed on the bed. He barely had time to check his progress.
+
+Name: Jake MaddoxLevel: 0Class: (Unlockable at Level 15)Trait: Absolute Perception
+
+Skills:
+
+Minor Heal (Mastery: 6.2%)Concentration (Mastery: 5.7%)Stats:
+
+Strength: 10 (+5)Vitality: 9 (+5)Dexterity: 7Perception: 21Mana: 2 (+3)
+
+Gears:
+
+Gutter-Tooth
+
+Is that… Good… Progress?
+
+No longer able to keep his eyes open, he fell asleep.
+
+***
+
+He woke up with a start; loud, riotous noise filtering in through the small crack under his door.
+
+“What is going on?” He grumbled, checking the clock as he stumbled half asleep towards the door. It was almost morning.
+
+Damn, he thought, rubbing at the crust that had formed in the corner of his eyes. I slept a long while.
+
+Opening the door, he peeked out into the hall. Everyone was surrounding a large vending machine that… wasn’t there a few hours ago.
+
+What the hell?
+
+Jake scraped his feel along the floor as he shuffled closer, narrowly avoiding, squeezing through the crowd.
+
+Once at the front, he noticed Chloe, Edwin, Sloane, Lyle—who was holding his rib, Susan, and… Where was Jonathan? Oh yeah, he was probably still wounded.
+
+I should probably heal him again. Whatever, if he’s fine, then that’s good. It would be a waste of my mana otherwise.
+
+“You’re up,” he lowered his voice as he stood next to Lyle.
+
+Lyle smiled. “It’s not as bad as I thought it was. Bruising, I think. Nothing broken.”
+
+Sloane butted in. “You got lucky.”
+
+Lyle didn’t know how to respond; he just chuckled dryly.
+
+Jake just nodded, all of his attention completely on the new vending machine.
+
+“Food?”
+
+Sloane shook her head. “I think you better get a good look yourself.”
+
+Jake pressed in further, nudging someone else out of the way until he stood right in front of the machine. The moment he was face-to-face with it, it was as if a hologram jumped out at him, revealing hundreds if not thousands of different options flickering in the air.
+
+From armor to weapons to magical healing potions to even skills themselves and unique Class options.
+
+He mentally played with the credits he had gained from the floor above. Just five.
+
+He noticed a small counter next to a lot of the items. They had a set amount left, like Remaining: 1 or Remaining: 5. Jake quickly gathered that when that number dropped to zero, no one else could claim one. It was a first-come, first-served bottleneck.
+
+He started from the top tab: Classes.
+
+(500 Credits) Necromancer: Begin the path of commanding death, summon legions of undead to fight for you.
+
+Five hundred credits. He had five. That would mean he’d have to kill hundreds of monsters just to be able to afford a basic profession. How long would that take—months of near-fatal fights?
+
+Then there was Beast Master, Knight, Sniper, and it kept on going, all locked behind massive triple-digit numbers.
+
+He swiped his hand, moving past the classes to the Weapons section. Most of them were well out of his league, but he checked the baseline gear to compare it to his longbow.
+
+(15 Credits) Recurve Reinforced Bow: +2 Dexterity. Built for consistent draw weight. (20 Credits) Longsword: +4 Vitality. A balanced, heavy iron blade for close-quarters fighting.
+
+Even a basic knife cost five times what he had. He shifted to Armor, thinking about how easily Arthur's leg had buckled in the water.
+
+(25 Credits) Kevlar Vest: +4 Vitality. Decreases blunt force impact by 15%. (12 Credits) Iron Bracers: +1 Strength. Protects the forearms when blocking.
+
+It was completely unrealistic. At this rate, the neighbors were going to be fighting in denim jeans and sneakers for a very long time.
+
+Then, he clicked on Potions and Consumables. If they couldn't afford gear, they needed a backup plan for when things went wrong.
+
+(5 Credits) Lesser Health Ointment: Closes up shallow cuts and speeds up healing over ten minutes. Remaining: Unlimited.(15 Credits) Lesser Mana Fluid: Instantly restores 5 points of mana to your container. Remaining: Unlimited.(15 Credits) Minor Growth Stimulant: Consume to slightly increase stat growth from manual training. Remaining: 20.(25 Credits) Enhanced Growth Stimulant: Consume to moderately increase stat growth from manual training. Remaining: 10.(50 Credits) Elite Growth Stimulant: Consume to heavily increase stat growth from manual training. Remaining: 3.
+
+Jake’s eyes fixed on the mana fluid. Fifteen credits.
+
+With his current setup, five points of mana meant two full uses of Minor Heal without hitting that dry, sandpaper headache of a zero balance. The System was pricing magic recovery way higher than physical medicine.
+
+Were the ingredients harder to source? Was it possible to make them?
+
+But it was the Growth Stimulants that truly caught his attention.
+
+The finite remaining limits—20, 10, 3—stared back at him. They were exactly what he needed to break through the diminishing returns of his workouts. Though it was still early in this new reality, he could already tell that raw stats were the true baseline of survival. The harder he could hit, the more punishment he could take, and the larger his mana pool grew, the wider his margin for error became.
+
+The stronger he would become.
+
+Having high stats meant that no matter what stupid mistakes the others made, he would always have the raw power required to protect himself. He just needed the capital to buy them out before anyone else realized their value.
+
+Finally he swiped his hand, moving past the classes to the Skills section. This was where the crowd of neighbors was currently hovering, their eyes glued to the glass.
+
+(15 Credits) Basic Bowmanship: Instantly imparts the muscle memory for basic bow draw and release stabilization. Starts at 0% Mastery. Remaining: 15.(15 Credits) Fleet-Footed: Provides a passive 5% stabilization modifier when running on uneven terrain. Starts at 0% Mastery. Remaining: 15.(25 Credits) Iron Skin: Hardens skin density against shallow abrasions. Starts at 0% Mastery. Remaining: 15.He quickly scrolled by the lowest ones and looked for more specific ones.
+
+(100 Credits) Flame Manipulation: Learn how to manipulate the element of fire. Starts at 0% Mastery. Remaining: 5.(250 Credits) Psychokineses: Manipulate matter with your mind. Starts at 0% Mastery. Remaining: 2.
+
+There were no Traits. So they were unique, then?
+
+Everyone was talking about getting the Skills.
+
+Jake looked at the screen, his lips thinning. Idiots.
+
+The System was offering a shortcut for the lazy. They wanted to spend hard-earned credits just to skip the discomfort of practice. But Jake looked at his own status screen, staring at Concentration and Minor Heal. He had earned Concentration by sitting in the dark for eight hours until his brain fried. It hadn't cost him a single piece of currency.
+
+He could buy a single health potion, but decided against it.
+
+He decided to save up his coins for something more… worthwhile.
+
+His eyes bypassed the cheap skills entirely, tracking the small numbers under the remaining counter instead. It wouldn’t be long before the neighbors would undoubtedly fight over the fifteen-credit minor stimulants the moment they realized they were stuck, but Jake’s eyes were locked on the three Elite variants at the bottom. Three. When they were gone, no one else could get one. He needed to get the best ones before the remaining dried up. It was just basic math. Save for the best, rather than wasting capital on the lowest tier.
+
+And right below them was an even bigger target.
+
+(250 Credits) Permanent Mana Container Expansion: Permanently increases your base mana container by 10 points. Remaining: 2.
+
+Muscle could be built with raw labor, but the metaphysical limits of his energy pool were locked behind a rigid system barrier. To change the math of his healing, he couldn't just buy temporary potions—he needed to permanently rewrite his limits.
+
+What should I focus on buying first? The Elite stimulants to boost his physical training, or the container expansion?
+
+He needed more credits. He needed more kills.
+
+Someone panicked and cut through the crowd, not caring who she barged out of the way. She was wearing a nurse's uniform. Jake didn’t recognize her.
+
+“It... it’s…”
+
+Chloe rushed to her. “Claire, what’s the matter?”
+
+Claire was pale, blood tainting her hands. “It’s Jonathan,” she muttered, tears forming. “He’s dead.”

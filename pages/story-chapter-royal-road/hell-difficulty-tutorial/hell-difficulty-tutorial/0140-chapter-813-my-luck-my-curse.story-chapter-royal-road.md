@@ -1,0 +1,171 @@
+---
+id: 754287a4-40a0-53d7-8ff3-47352a13e2a8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 813 - My luck. My curse."
+slug: 0140-chapter-813-my-luck-my-curse
+partOf: hell-difficulty-tutorial
+position: 140
+ownLength: 2916
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3450898/chapter-813-my-luck-my-curse"
+royalRoadId: "3450898"
+---
+
+A day later, I’m in the headquarters of Crimson Forge together with Weslin.
+
+Eldrin is still angrily sending away the guild guards. They don’t seem to be panicking, but they are deeply uneasy at the thought of having two S ranks from Primordial Knights so deep within the guild, standing right beside three of their most valuable members.
+
+When I glance to my left, Weslin is there poking at some materials, and Silverweave stares at him with wide open eyes.
+
+“I have a girlfriend,” the half-demon says with his usual confidence once it gets to be too much to ignore
+
+I don’t even have time to tell him that isn't likely to be what she’s after before she speaks. “I can share,” the mora says, licking her lips and smiling.
+
+The hell?
+
+I can’t even pay attention to that as Eldrin moves closer. He snatches the vial from my hand and holds it so close to his eye that it almost touches his eyeball. He shifts it through different lighting a few times and even sniffs it once before throwing it to Silverweave, who clumsily catches it without taking her eyes off Weslin. She lifts the vial to her face, licks it, and even gently bites into the glass.
+
+“It’s some sort of spinal fluid from a powerful monster. Not a wyvern. You should give it to the crazy lynthari, he will know better.” After that, she throws the vial back toward Eldrin but misses entirely.
+
+I halt it mid air by absorbing its kinetic movement, and Eldrin grabs it from there, and after cleaning it off, hands it back to me.
+
+“I’ll check with him. How’s the item coming? Have you gotten the Everwood?” I say.
+
+“Was it you who messed with our systems and broke all the toilets?” Isolde asks from somewhere off to the side.
+
+Both Eldrin and I ignore her while the male mora nods. “We’ve already started processing the Everwood. The piece you got is very high tier, so we hired additional help since we didn’t have the machinery or expertise required.”
+
+“I know it was you,” Isolde mutters again.
+
+“How much will it cost?” I ask Eldrin.
+
+“Not much. They just want any of the smaller pieces of Everwood that would go to waste after processing,” Eldrin says.
+
+“Do you know how much trouble you caused? Are you not ashamed? Are you even human?” Isolde persists.
+
+“That sounds reasonable,” I confirm with Eldrin. Then, I take out a finger long glass vial containing a bit of red liquid. There are a few inscriptions on the vial to keep the blood from thickening and keep it cool. Conveniently, the blood itself also powers the inscriptions.
+
+“Do you know what this is?” I ask. “And no, I don’t want to watch Silverweave lick it.”
+
+Isolde finally stops blaming me and steps closer to Eldrin. She reaches out carefully to take the vial from me, but I refuse to let go. I just hold it up high, forcing them to lean in closer to observe it.
+
+“It isn’t wyvern blood, unfortunately. It belongs to a human, and there’s an impressive amount of mana contained within…” She pauses, her yellow eyes turning blue as she observes it more closely. “Hyper-condensed.”
+
+She tries to take the vial from me again, but I move my hand further away to her annoyance, and Eldrin’s too, as he observes it as well. Both of them are twice as tall as me, so I’m sure it’s an interesting sight for anyone walking by. It’s almost as interesting as Weslin, who’s standing nervously off to the side as Silverweave continues to move closer to him, tiny step by tiny step.
+
+"It’s yours, isn't it?" Eldrin says.
+
+Isolde glances at him with wide eyes while the male mora crosses his arms over his chest after handing the vial back to me. Then, Isolde looks quickly at me.
+
+"Yup," I confirm.
+
+“Well, let’s get down to business. How much for two or three hundred vials like these?” Eldrin asks an outrageously high number.
+
+“Are you a vampire or something? That’s too much,” I quickly reply, surprised by the number.
+
+“As far as I know, true vampires are even rarer than Lycans, especially after their Progenitor disappeared so long ago. Don’t try to bullshit me, human. You are sneaky, and I’m sure you came prepared.”
+
+It almost makes me smile as I nod, satisfied. “I can trade you probably around a hundred vials' worth. I prepared at least that much before I came here,” I say, remembering the way I had to have Lily heal me as I filled them. Maybe I really should invest in a Low Pristine healing passive.
+
+But... that would mean no passive to help with my attack power, or... more mana.
+
+“I want a hundred of them, too,” Isolde jumps in, like we’re at a local food market.
+
+“No, you’ll have to share with Eldrin,” I say to her disappointment. “But first, I have to ask someone I trust to make sure you can’t use that blood in some voodoo against me, or try to clone me or something. I wouldn’t want that.”
+
+“What is ‘voodoo’?” Isolde asks.
+
+“I’m too lazy to explain.”
+
+Eldrin begins to look impatient as he furrows his eyebrows. “You’re wasting my time, human. I could already be experimenting with your blood. You should have long since been aware that there are processes to clear the blood, so it’s impossible to use against you. And I hope you weren’t serious about the cloning, as if it were that simp-”
+
+“Yeah, yeah,” I interrupt him. “Declare a guild war on us or something if you don’t like it.”
+
+“Maybe I will. I'll retrieve my war armaments from where they’re sitting gathering dust and get to taste some demon blood, wouldn't that be fun?” Eldrin lowers his face closer to mine. “Or I'll wait for Morwag and Weslin here to finish their tutorial. We have quite a few powerful A-ranks-”
+
+He doesn’t get to say more as Isolde smacks his back. “Are you sure you’re not a demon? Control yourself, brother.”
+
+Eldrin just looks at her and smiles, standing up again. “So, what do you want in exchange, human? Also, know that there will be leftover Everwood even after we use pieces to pay the people processing it. I also looked over the fur pelts and that wood your Handler gave us, and I’m willing to buy both.”
+
+“I want information.”
+
+“That must be some very expensive information,” his sister answers instead.
+
+“I don’t know if it’s expensive, but it’s information I’m willing to pay at least that much for, even a bit extra if needed. I have some Low Pristine items and Pristine materials I can throw in, and I can raid our guild’s treasury.”
+
+As I say that, I notice Weslin perk up and look at me reproachfully. I ignore him, as well as Silverweave, who is now just a step away from him, as I speak to the mora siblings.
+
+“I want everything you can get on creating host bodies for mind imprints, consciousness, and similar constructs. Something that won’t reject it and would allow one to attach a Mana Heart to it in the future. Such as might be grown from a certain attendee to create a twin copy.”
+
+“How interesting. A homunculus, a replica, a clone, a host body, a vessel, an avatar... there are many variations that could work, but it isn’t as simple as you might think,” Isolde says. She looks at her brother as if waiting for him to confirm. “A mind would need to be powerful to be capable of that. For an Absolute or an extraordinary Champion, it is possible. But for anyone weaker, I don’t think so, even if you were to create a perfect match.”
+
+Eldrin nods. “Once it's deprived of a Mana Heart to act as a source of power, such a hostless mind begins to degrade.”
+
+I sigh. “Yeah, we went over most of that with Sophie and Lily. But for now, it should be fine, as that mind had a strong enough connection to the body where it is currently, so it’s being kept ‘alive’ that way. If we moved him out now, it would be as you said, it likely wouldn't be able to stay. But yeah, that’s my price. Lily will come to find you in Beyond in a day or two, so you can talk to her for further details. She’s a nice enough person, and I’ll know if you try to scam her. If you do, I’ll be angry.”
+
+Both of them, and even Silverweave, seem to perk up. The mora, who was probably about to attempt an assault on Weslin, leaves him as the three of them surround me.
+
+“I get to meet Lily Chen again?” Isolde lowers herself to my eye level, the way I do when talking to a small child. It’s annoying.
+
+I wonder if they see me the same way I see a vyssari child. Am I cute to them?
+
+“At least try to be normal. Brainstorm with her and give her any information she might need. Give her things to experiment with, and connect her with some of the Healing guilds so she can trade, learn, and improve. Just use the money and influence you have.”
+
+I then watch as they dive into an excited conversation.
+
+Taking the opportunity, both Weslin and I quietly leave. I lead him to the room where our current project is being kept, the chestplate that has already consumed so much time and so many resources. Weslin probes it and even tries on the unfinished version. The whole time, he acts like a man admiring an expensive car.
+
+When we eventually leave the Crimson Forge, the three mora are still arguing.
+
+Once outside the guild, I notice a figure sitting on a bench nearby, beneath one of the flowering trees.
+
+“I’ll see you later,” I say to Weslin. He nods in understanding and walks away, glancing once at the blonde woman.
+
+When I sit next to Kindness, she smiles at me. She’s striking as always, with long, flowing golden hair and violet eyes. Today she’s dressed in all black, black leggings, and a black turtleneck sweater with sleeves so long they almost entirely hide her hands.
+
+“Actually, this is good timing. I wanted to speak with you,” I say.
+
+“And I wanted to speak with you as well, possibly for the same reason.” Her smile lingers for a moment before fading. “Did you also want to talk about your healer friend?”
+
+“Were you watching?”
+
+“A bit. I have a great interest in both Lily and your bond, and Ruby sometimes fills me in on the things I’ve missed. Ruby is quite responsible, isn’t she? I was never like that.”
+
+“That’s a nice way to talk about a stalker,” I shrug. “Biscuit was always different, and Lily… well, she’s talented. How much can you tell me?”
+
+“Quite a bit. The System won’t even attempt to censor me, so I may as well tell you about myself and a bear I met long ago.”
+
+“That’s fine with me.”
+
+She nods and crosses her legs, pulling her sleeves even lower until her hands are completely hidden. Her eyes haze over with memory as she begins to speak.
+
+“Both Pride and I are from worlds in the central galaxy, the galaxy from which the System first started spreading. Can you guess where that is?”
+
+“We’re currently there, aren't we?”
+
+Her eyes focus for a moment, and she offers a smile so beautiful and sad I can’t take my eyes off it. “Just how perceptive you can be sometimes. Yes. From here, the First Dungeon, over which Beyond was built so long ago. I still remember a time when the System was just beginning. It was so rough, so imperfect. There were many powerful abilities for people to gain before the system balanced itself out, and so many mistakes that needed to be fixed. There were many Eradication Quests as the System attempted to regulate it all. And during all of that, many beings fought against the system to stop its spread in wars that destroyed life across entire galaxies. Beings awakened by the System fought to keep their power against those who held other strengths. Gods, Dragons, Wyverns, elves, mora, beast clans, primordial orders, vampires, Fae, Lycans, and so many more. But in the end, they couldn’t stop it.”
+
+I watch her quietly, listening to every word.
+
+“Even before the system, surrounded by all these beings, humans survived, and often thrived, just through their sheer indomitable will. They stood against all those amazing races even without the system. Once mana spread through the universe and awakened within them, they adapted the fastest, as they always did. And so the system found a great weapon in them, and they thwarted any attempts that would have ended and even erased it entirely. As terrifying as those times were, they were also fascinating. And I was there in the middle of it all, a Champion traveling from world to world, out to the edges of the known universe where the System hadn't reached yet. And there, I met him. My luck. My curse. My gray bear.”
+
+She smiles gently.
+
+"Cinderbear was born with a mutation that no one has ever been able to replicate, and no one ever will. Not the System, not Pride, and not even me at my prime. It isn't a bloodline, the power of a god, or anything else like that. It is just a mutation, the result of an extreme coincidence, a single change in his genome that made him what he is. What he has will never be seen again, not even in a universe as vast as this."
+
+At this, Kindness seems to get more technical, taking on a more scientific and thoughtful tone as she discusses the subject.
+
+"He cannot die of natural causes. He can still be killed, and he can kill himself, but other than that, he is perfectly immortal. Ancient, even before I met him. I imagine he watched his world die and revive so many times, living so long that he evolved alongside everything else around him. Once, long ago, he was worshipped by numerous civilizations as a god and a protector. He was much more powerful then, intelligent, capable of speech, leading and helping his people. He learned to use the time he was given to evolve himself into whatever he desired. That was long before the System, back when he was known for killing dragons, and, if only out of fear, everyone avoided his world."
+
+She looks at me to see if I want to ask anything, but as I stay quiet, she continues.
+
+"His world was eventually forgotten by everyone except a few dragons and gods who, in all their power, still bowed to him. And so the time passed, and his cycles of life repeated, as he watched everyone around him die. In a way, the two of us are similar. He also got exhausted of it all, but unlike me, he didn’t choose death. He moved into the background, let the people of his planet live, and gave up everything he had. He cast aside his power, his intelligence, and his evolutions to devolve back into a bear, to return to the simple life he remembered from that time when he was so very young. A life in the forest, where he found comfort and love in simplicity. And that is how I found him. My Gray Sun. The Bear That Survived Time."
+
+Out of nowhere, Kindness chuckles. "Oh, my hubris back then. Thinking I could ever, with all my talents, copy something as perfect as his mutation. Thinking I could copy what nature and the universe made so flawless. Sometimes I wonder... maybe if there is one true God out there who placed that gift with that bear for people to find, so that God could see if we were ready for it. But I know I wasn’t. I thought I got everything I ever wanted. I observed the powers of his body, his immortality, and he let me. He saw me as little more than another animal in his forest, one that meant no harm and sometimes gave him foods he’d never experienced. But my ability was unlike that natural mutation. Thanks to the System, and my lack of understanding, it was twisted until I became the way I am now."
+
+She falls silent for a minute. When she speaks again, her words come a bit faster.
+
+"I always thought your bond was a bit similar to him, but it’s far too early to say. Still, I wonder if history is fated to repeat. So please, tell your friend to be careful of what she learns, and be careful with what she has already learned from your bond. Ruby and your friend’s handler, Wrath, wouldn't mind if she became like me. They both share a similar goal. Even I find myself hoping for Lily to grow stronger, for that ever elusive chance she might be able to put me to rest... but at the same time…"
+
+Kindness stands up, her voice growing quieter as she turns to leave. "I can't meet her because I see too much of myself in her. But for that same reason, I wanted to give her this one warning."

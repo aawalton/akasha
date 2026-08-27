@@ -1,0 +1,137 @@
+---
+id: 6ff69368-aa67-5545-afe9-ffb4cacbe103
+page-type-slug: story-chapter-royal-road
+title: "205. Last Minute Prep"
+slug: 0205-205-last-minute-prep
+partOf: god-of-trash
+position: 205
+ownLength: 2409
+unit: words
+publishedAt: 2025-10-03
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2649509/205-last-minute-prep"
+royalRoadId: "2649509"
+---
+
+The next three days were chaos. Everything had to be moved into place. Everyone had to be adjusted. Some people wanted to leave, and those, Rhys got as close to the border as he could, so they could sprint for it when things broke out. Most of them were in it to win it, or ex-criminals who didn’t know what was going on, anyways. Those he kept on the stores.
+
+The stores stayed open. The stores were vital.
+
+Rhys spent his first day teleporting around and slurping Impure Wells, and his next day in the kitchen, brewing up the nastiest impurities he could. These were next-level. These were destructive impurities, things that would absolutely ruin the day of whoever drank them… and maybe destroy their cultivation, too.
+
+Subtlety was over. It was time to use the hammer.
+
+A few of their patrons, over the next few days, complained about the taste, or even outright told them that they would never eat their food again. It didn’t matter. They had already been poisoned; dodging the final blow was barely worth commenting on. If not for the fact that Rhys had actively made these last, most virulent impurities sleep in their veins, even a sip might have had a severe effect; as it was, a few complaints barely registered to him. This was it. This was what he’d built everything for. And soon, he’d burn it all down. His fast food empire, and the Empire both.
+
+Sable spent her time making pleased noises under her breath and sharpening her spidery bone legs. Lira ran around, barking orders at the workers and fixing everything into place. He couldn’t catch hide nor hair of Mouse, which he took as a good sign. Korii wrangled whoever Lira wasn’t wrangling. Rhys dispersed the animal-run farms, not wanting to reveal them as his allies, nor risk their lives. The animals, used to this kind of thing, ran to ground and vanished, but he knew they would come when he called. The little salute the raccoon did as it vanished told him as much. The criminal-run farms chugged along, if only because it would be suspicious if they vanished. Besides, human farms were nothing special; it wasn’t like discovering that humans were farming would reveal anything about Rhys’s operation that he couldn’t replicate with a few months and a small criminal enterprise.
+
+The Empire plodded along. The usual customers came to his shops, received their usual snacks, and returned to their usual lives. The Empire’s nobles went to their usual dances, the ghost of the Infernon girl nothing but a distant memory. Everything was normal and quiet. The world proceeded as usual, to the extent that Rhys began to wonder if he’d dreamed up Bast arriving and telling him about the counterattack.
+
+On the eve of the counterattack, Rhys sat on the porch of his shop, his hands clasped, staring at nothing. He’d spent the day smuggling the last of the non-essential personnel, and those who didn’t want to fight, to the border, where they’d wait to make a mad dash. Inside the building, Lira was shouting at anyone who crossed her path, making sure every last detail was in the perfect place for their battle. Sable was as taut as a piano string, lunging at anything that twitched in the basement. He was having a hard time bringing Mouse to mind. Everyone was on edge, doing whatever it was that they thought would help, in the carnage to come.
+
+And him? He was sitting on the front porch, wasting his last moments of peace like the trash he was.
+
+“Oh! Hey there, mister,” a boy greeted him.
+
+He looked familiar, but Rhys couldn’t quite place him. He squinted, then sighed. “I’m sorry. Have we met?”
+
+The boy blinked at him, taken aback, then laughed. “I’m Jacques. Your landlord. You pay me every month… well, someone does, anyways, I suppose, if you’ve forgotten about me.”
+
+Rhys stared at him for another few seconds until the memories finally clicked into place. That’s right. We technically rented this place from this boy. He smiled warmly. “Jacques. How have things been?”
+
+“Better, with you paying rent. I’ve been able to support myself and my mum.” He tilted his head. “Where’s the stand? Do you usually close up so early?”
+
+“Ran out of product,” Rhys lied smoothly.
+
+“Ah, is that it? Your chips are so popular. I’m amazed, honestly. If only I could think up something that delicious… I’d be set for life.”
+
+“It’s not that hard. You know, I’d even be willing to sell you the recipes and teach you how to run your own shop, as long as you paid me a franchise fee and a cut of your profits every month.”
+
+Jacques laughed. “Wouldn’t I just be handing your own money back to you? That’d be foolish.”
+
+Rhys gave him a pitying look. Oh, sweet summer child. If he thought the franchise fee would be as cheap as the rent on this building, he was beyond foolish.
+
+He took a deep breath. A foolish boy. Just a kid, born in the Empire, who didn’t know the first thing about the crimes his world was build upon. Perhaps not blameless, but who could blame him? Some lofty brainiac would be able to justify it, he was sure, but not someone as trashy as him. Jacques didn’t deserve to get caught up in the scrum.
+
+Smiling, he reached into his back pocket. He summoned a bag of coins from his storage ring to his palm, then pulled them out as though he’d merely retrieved them from his pocket. “Here, kid. I owe everything I have to you. If you hadn’t had some faith in me, and rented this space to me, I’d have nothing. This… consider it my gratitude. Use it to take yourself and your family somewhere nice. And do it now. Life is short. There’s no time like the present to appreciate what you have, you know?”
+
+Jacques took the bag and undid the ties, squinting inside cautiously, then recoiled. “This—I can’t—”
+
+“If you have to, consider it an advance on rent, and just… just go. Take care of yourself and your family, okay?”
+
+Jacques stared at the money again, then at Rhys, then back at the money. He ducked his head in a quick nod and ran off, as if afraid Rhys would take it all back.
+
+Rhys watched him go, feeling a bit wistful. The kid would probably spend it on something useless, or lose it to pickpockets, but he wanted to believe that he’d run off and escaped. Got out of the country, or at least ran somewhere the battle wouldn’t touch.
+
+Jacques didn’t deserve this. No… the Empire’s ordinary citizens, the ones who scrabbled to afford a bag of chips just to try them once, who he’d told his men to look the other way when they snitched a bag or a cup or two… none of them deserved this. They didn’t deserve to get swept up in this any more than he had, or any of the Alliance’s ordinary civilians had.
+
+But it was too late. Blood had been spilt. And blood demanded blood.
+
+There was a quiet thump. A warm presence at his shoulder. Rhys sighed. “Mouse, I…”
+
+“By all rights, I should take your head.”
+
+He stiffened. That deep voice didn’t belong to Mouse, or any of the rest of his friends and co-conspirators. No; he recognized it quite well.
+
+Laurent.
+
+Looking away, he cleared his throat. “Sir? I’m afraid I don’t know what you—”
+
+“Seditious conspiracy. Criminal destruction of property. Endangerment with the intent to deceive. You belong in a dank cell at least, if not on your knees before the axe.”
+
+You’d like me on my knees, would you, Rhys thought to himself, but held himself back. “So? Why am I sitting here, then, a free man?”
+
+Laurent sat there in silence for a few moments, his hands clasped. Rhys glanced at him. He wasn’t in his uniform, but in ordinary mage’s robes; that was why he hadn’t seen him from a mile away. His hair was in disarray, not in its usual tight ponytail. And he smelled of… Rhys sniffed. No, it was unmistakable: alcohol.
+
+At last, Laurent sighed aloud, hanging his head. “I just don’t know what to do with you. You mystify me at every turn, evade my every attempt to put meaning to your actions. What is your goal? What is your true purpose? The Rhys I knew wasn’t interested in something as petty as tormenting a few random nobles. And yet… I can’t find any more meaning to your actions.”
+
+That’s because the payoff isn’t here yet. So far, he’d only tormented a few nobles. The real payoff came once the counterattack began, but he couldn’t tell Laurent that, not that he even wanted to. So instead, he laughed shallowly. “Perhaps that’s because you never knew me.”
+
+“Is that true? I know I never knew you well… but to not know you at all.” Laurent turned, gazing at Rhys’s face. “Is it true?”
+
+Rhys turned away, refusing to meet his eyes. “It’s true, Laurent. You don’t know the first thing about me, and you never will. Not who I am. Not who I was. You know nothing, and you’ll die without knowing anything.”
+
+“Is that true… Rina?”
+
+Rhys sighed aloud. “Laurent. Don’t make this difficult. Go back to your dorms and forget all about me. We come from different worlds, and we’re destined for different worlds. The future you envision… it can’t be. I refuse to be a part of it. That world doesn’t include me, and you know that.”
+
+“But what if it could? There are allowances. For meritorious service, and for those with particularly outstanding paths. I could put you in for one of those. I have considerable pull. I could—”
+
+“Laurent. Stop.”
+
+Laurent fell silent, though reluctantly.
+
+Rhys turned at last, looking at Laurent for the first time since they’d begun speaking. “I’m not Rina. I’m Rhys. A man. You know this. You’ve known it for a long time. I… I do not believe in the Empire, and I never will. No matter how you look at it, you and I are fundamentally incompatible. I do not agree with your path, and you do not agree with mine. The best thing we can do is walk away peacefully. Do you understand?”
+
+Laurent looked down. He took a deep breath, then looked up sharply. Their eyes met. “I know. And I still… I love you.”
+
+The words hung on the air. Rhys closed his eyes, then opened them slowly. “I know that took a lot of courage to say, Laurent. But you know I can’t answer your affections.”
+
+Laurent looked away. “I know—I know. I just hoped that… I—I don’t know.” He stood abruptly. “I should go.”
+
+“Laurent.”
+
+He paused, as if yanked to a halt by a tether. Rhys felt a pang in his chest at that—that he had such control over the man, that he’d taken up such a large part of his heart, even if he’d never meant to, even though it had been nothing to him. It wasn’t fair of him. From the beginning, it had never been fair, not to either of them, but especially not to Laurent. Rhys had been playing a prank, and Laurent got fooled, and then hurt—but really hurt. Actually injured. Inflicted with the kind of wound that would last a lifetime, even though Rhys had only ever meant for them to laugh it off in the morning. Maybe think back on it over drinks from time to time and laugh, reminiscing about their foolish childhoods.
+
+And instead… instead, here they were. At a crossroads. A crossroads more severe than Laurent could possibly imagine. A crossroads that might as well be a gulf, an ocean between them.
+
+“If we met another way… in a world without the Empire, I… I think we would have been friends,” Rhys said at last. He didn’t know what else to say. There was nothing he could say that would make it right. He’d wronged Laurent, and Laurent would carry that scar for the rest of his life. And tomorrow… tomorrow, he would dig that scar deeper than he’d ever meant to, dig a wound so deep Laurent might never recover.
+
+He didn’t know what to say. He didn’t know if there was anything he could say. He just knew that he had to say something.
+
+Laurent turned back. For the last time, their eyes met, and Rhys felt it—felt the gulf opening. Laurent shook his head, just a tiny amount. “No.”
+
+“No?”
+
+“No matter how we met… I would have always loved you.”
+
+The floor dropped out from under Rhys. Guilt swallowed him up. No, he wanted to say. To scream. No. He was the one. He’d manipulated Laurent. Played with his feelings. Right from the beginning, he had orchestrated this harm, as if he had the right to move other peoples’ hearts like they were puppets on his strings, like they were pieces on a chess board. Perhaps he hadn’t seen Laurent as fully real, at first, because he was still fresh from his world, in his head. Perhaps he'd thought having magic and being summoned by an absolutexistence gave him the right to play god with everything he touched, not just trash. Perhaps, perhaps, perhaps. His mouth moved, but no words came out. Laurent turned, head bowed, and vanished into the darkness, his white hair the last thing to vanish, glimmering like a ghost.
+
+There was nothing he could say. No words left to defend himself, or explain what he’d done, or beg for Laurent’s forgiveness. He deserved none of it, anyways. He had driven himself up this creek and abandoned his paddle; he had to bear the consequences of his actions.
+
+He didn’t deserve to be this kind of indelible mark. He should never have interfered with Laurent’s life. It was his mistake, for stepping where he had no right to step.
+
+“I’m sorry,” he whispered, to the empty street. There was no one left to hear it.
+
+Tomorrow, they would be deadly enemies. Tomorrow, they would fight to the death. There was no need to feel guilty, when he would attack this man with the intent to kill tomorrow.
+
+So why did he feel as though he’d committed a far worse crime, tonight?

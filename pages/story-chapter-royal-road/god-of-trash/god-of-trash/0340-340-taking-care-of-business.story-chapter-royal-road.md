@@ -1,0 +1,105 @@
+---
+id: d6fe98a4-9571-5dd9-84cf-d6da8a73d19d
+page-type-slug: story-chapter-royal-road
+title: "340. Taking Care of Business"
+slug: 0340-340-taking-care-of-business
+partOf: god-of-trash
+position: 340
+ownLength: 2022
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3712374/340-taking-care-of-business"
+royalRoadId: "3712374"
+---
+
+Ryota hurtled toward Rhys. With the power gap between them, Rhys could watch him approach in slow motion. He watched Ryota come, planning his attack.
+
+He wanted the minimum effort for the maximum output. If he could get Ryota out of this enraged state with one move, that was ideal. He didn’t know that he could, but it was worth a try.
+
+I step forward. Strike upwards. He’ll try to dodge, but that’s fine. He’ll probably dodge backwards. I’ll grab his collar and push him off balance, with his shoulders behind his heels. From there, I jab my hand into his stomach and seal that daggone gap in his core wall again. His eyes shone, and he stepped forward, hands shifting into place as he went to execute his genius maneuver.
+
+Ryota saw him step forward and stepped to the side.
+
+Okay. Plan modified. I grab his shoulder. Pull it forward, putting him off balance. His stomach is under his body now, but that’s fine. Feint toward his face, he flinches. Twist my hand, grab his stomach, fix the hole. He shifted, adjusting to the new plan.
+
+Ryota planted his foot and lashed out with a kick.
+
+“Alright, fuck planning,” Rhys muttered to himself. He grabbed Ryota’s ankle out of the air and slammed him into the ground hard enough to explode a fine cloud of sand into the air. The air instantly smelled like silicon. Rhys slammed him a few more times until he stopped moving, then lifted him by the ankle to check that he was still breathing. Ryota’s eyes fluttered a little, and he drew a haggard breath.
+
+“Good enough for me.” Rhys pressed his hand against Ryota’s core. He closed the gap, only for the fierce mana to immediately smash it open again. Rhys twisted his nose in annoyance, only to pause thoughtfully the next moment. He already had that theory about the fierce mana and it being trash from the whole atom-bomb-dirty-energy thing. Wasn’t this also a case of it being trash? Ryota didn’t want it. In fact, it was actively getting in his way.
+
+“C’mere, mana.” Rather than trying to plug the hole, Rhys pulled on it, dragging the fierce mana out of Ryota’s body. It fought back, denying his will. It had ‘pride,’ or something like it—a noble aura, an upright, almost prudish energy. It was not trash. It was fierce mana, and it demanded respect. Brashly, it insisted, refusing it against Rhys’s utmost efforts.
+
+Rhys rolled his eyes. “Shut up.” It didn’t matter if it was noble, pure, high-falutin energy. It was in Ryota’s body, and Ryota didn’t want it there. Therefore, it was trash. The most noble, highborn, elegant person was still trash when they were lingering somewhere they weren’t supposed to be or acting obnoxiously.
+
+In fact, they could even be worse than an ordinary or trash person when they were somewhere they weren’t supposed to be, because they were hard to remove, could hold it against the remover in a way that actually impacted the remover’s life, and were usually full of themselves enough to be just as pissed off, if not more pissed off, at the person asking them to act properly. After all, they ought to be treated better and don’t you know who I am? Just because the mana thought it was noble, didn’t mean it wasn’t trash!
+
+The mana didn’t have an answer to that. It didn’t stop asserting itself, but it no longer mattered. Rhys had found his framing, and it could no longer escape. The more it asserted itself, the more trashy it became. The more trashy it became, the easier it was for Rhys to control. His grip closed around the mana, and he pulled.
+
+Fierce mana flowed out of Ryota in a rush, all at once. The second Rhys was able to handle it, it no longer resisted him. Instead, it swarmed into him, rushing into his body, seeking to overwhelm him the same way it had overwhelmed Ryota.
+
+It slammed into the filth flowing through his body and stopped dead. The fierce mana was instantly corrupted. Warmth flowed into Rhys as it rapidly empowered him, but he just fed that energy into the trash star and kept going, unbothered. He dusted off his shoulder. “Is that it?”
+
+The fierce mana, having found an obstacle it couldn’t overwhelm, instantly turned about and retreated. Rhys reached out, refusing to let it flee so easily. It had come at him; it didn’t get to decide when it retreated. That was his right. Besides, his core was a little depleted, so it didn’t hurt to have a little more mana. He was going to drink this milkshake, and it didn’t matter what the milkshake thought about the situation.
+
+The fierce mana retreated with all its might, but Rhys clung to it doggedly, continuing to draw it into himself. At last, the fierce mana cut off its own tail and escaped, letting Rhys have everything he’d grabbed rather than let him pull all the fierce mana out of its home and into himself. Ryota slumped as the fierce mana escaped him, too, and Rhys quietly sealed the gap in his core.
+
+“Well, that was a learning experience.” He’d learned the fierce mana from the bomb was, in fact, the same exact stuff that raged in Ryota, that the bombs set off Ryota, and, beyond that, more importantly, that the fierce mana had a will of some description associated with it. Most mana was inert, emotionless, thoughtless, but the fierce mana had… not intelligence, necessarily, but something approaching it. Desire. Almost a consciousness.
+
+Whatever it was, he was interested in exploring it further. He’d never encountered energy like that before, with so strong of a will. There was something to it, he could feel it. Something he needed to comprehend… or at least wanted to figure out.
+
+He was never quite sure what things were important to know, and what things were just things he wanted to know. In this case, I think it’s a little of both? After all, the fierce mana was being used in weapons and running wild in his new friend-slash-religious-icon Ryota. If he could comprehend it, he was one step closer to disarming both the bombs and Ryota.
+
+Mana with a will. The pitch-black impurities had… almost something like that. It had a desire to corrupt, though that could simply be a physical or chemical property rather than an intention. The fierce mana, on the other hand, clearly had some kind of motive force. It chose to attack him, then chose to retreat. It had a kind of self-preservation to it, and hadn’t wanted him to corrupt or steal it.
+
+But not truly self-preservation. It has no problem with rioting through Ryota, or with exploding in those fierce mana bombs. Either I’m fundamentally misunderstanding something about the fierce mana, or its desires are more complex than mere self-preservation. If that was true, that was terrifying. A realm of mana so vast that it could force a Tier 5 (Tier 4? He kept forgetting) mage to riot multiple times over across the span of multiple days without breaking a sweat, and explode bombs like the one Fifteenth had used without flinching… was that not akin to a god?
+
+Or at least, the closest thing to godliness he’d experienced since he’d arrived. Absolutexistence had brought him here, but in true Deific form, had fucked off immediately afterward to let him do whatever. He’d run into powerful mages and weapons, but something like a… a mass or realm of mana with a will… that was even bigger and more terrifying than the void beast.
+
+Wait, hold on. The void refused to take the bomb in. Does the void have a will, too? Or is it just diametrically opposed to the bomb on some physical level? He’d sensed a will in that interaction, and he’d attributed it to the void at the time, but was that truly the void? Or was it the fierce mana and its will refusing to enter the void, which he’d misattributed to the void?
+
+He considered for a second, then shrugged. He didn’t have enough data right now. He needed more information. More scenarios in which the void interacted with things that weren’t the fierce mana with a will in order to determine that the void truly did, or truly did not, possess a will.
+
+But how? How was he going to determine that? The only thing the void had rejected so far was the bomb, which possessed energy that he knew had a will. Anything further with the fierce mana would still be contaminated with a will, so even if he encountered sparks of a will, he couldn’t be sure that they didn’t belong to the fierce mana. He needed something else. Another object or material that the void rejected.
+
+“Hey, Daran.”
+
+“What?”
+
+“Does the void have a will?”
+
+“Are we swapping questions again?”
+
+Rhys sighed. “Does everything have to be a transaction with you? I thought we were friends.”
+
+“No, you didn’t.”
+
+“I thought you weren’t an obnoxious asshole.”
+
+Daran manifested an image of himself for the express purpose of giving him a disbelieving look.
+
+“Okay, that’s not true either. But what if it was true? Just for one sweet, sweet moment.”
+
+“All I have to bargain with is my knowledge. Put yourself in my shoes. This is literally the only currency I can use to manipulate the world. Why would I hand it out for free?”
+
+“Because if I liked you, and believed and trusted in you, I would be far easier to manipulate in the long run?”
+
+Daran froze. There was a long silence.
+
+Capitalizing on the man’s sudden hesitation, Rhys shrugged at him. “You could start now. I’m highly susceptible to trusting the people I like.”
+
+“That’s bullshit,” Daran muttered under his breath.
+
+“No it isn’t. You know it isn’t.”
+
+Without another word, Daran vanished. Rhys sighed. It was worth a shot. He wasn’t lying, either. He did trust people he liked, and he even moved to help them whenever he could. But Daran stubbornly refused to be his friend. He’d rather be the ‘lone wolf,’ aloof and alone, even if it meant he failed utterly at manipulating Rhys.
+
+I wonder if something happened in Daran’s past to make him like this? It wasn’t exactly a stretch of the imagination. Daran had been known as the Demon King. People didn’t get that title by being beloved and popular rulers. The real question was whether his shitty personality had come about as a result of him being the Demon King, or if he’d been a shitty person from the start, and then as a result of being a shitty person, had become the Demon King.
+
+Still, so adamantly refusing to trust implied some kind of past betrayal. Some experience where he ended up believing that it was better to lose out on the benefits of friendship than risk harm.
+
+He considered for a moment. He did want to know, but it was more curiosity than sympathy. In the end, it was probably better for him to not ask and let Daran bring it up, or not, as he wanted, given their somewhat antagonistic relationship, but at the same time, he wasn’t sure if he wanted to find out or not. Given their past interactions, he’d probably find Daran’s big sob story kind of annoying and unsympathetic anyways.
+
+Oh well. I guess I can’t find out that way. He reached into his storage ring and pulled out a small red book, the same one that Daran was (probably) bound to, the same one he’d discovered all that time ago in the Empire. He hadn’t been able to understand it before, but he was Tier 5 now. Maybe he could understand it now.
+
+A ball of fire hurtled down at him. He reached up a hand and deflected it half-distractedly, then looked up to find the water still bloody and churning. Oh, right. We’re still fighting. With a sigh, he tucked the book back away and returned to the battlefield.

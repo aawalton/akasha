@@ -1,0 +1,221 @@
+---
+id: c91bd81f-c116-51e0-b3e8-bedb5db35862
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5"
+slug: 0005-chapter-5
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 5
+ownLength: 3483
+unit: words
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2703928/chapter-5"
+royalRoadId: "2703928"
+---
+
+Chapter 5
+
+Ian cheered as soon as Veron’s demonstration was over.
+
+“That was awesome! Can you do more?”
+
+Veron held the makeshift hammer in his hand, feeling the weight of it. It was badly balanced and felt rough. But he had made it. In less than 30 seconds.
+
+He twirled it in his hand and grinned. He checked his notes to confirm a few words before he answered. “That was the end of the show. I can try again in an hour or so.”
+
+“Should we try to see how durable it is?” Ian asked.
+
+Veron looked at the hammer with a thoughtful expression. “I could feel the make of the stone, the weight of it and its durability. And I felt the quality of the connection when I joined them. This thing is gonna break on the first swing.” He gave the teen a knowing look and smirked ever so slightly. “Let's try it out.”
+
+Ian laughed, the two of them walking over to a large boulder that sat next to one of the trees Ian liked to use for target practice.
+
+A breeze flowed through, helping little with the hot afternoon sun.
+
+A few of the Greyr, the large goat-like creatures, walked over, perhaps interested due to the excitement Veron and Ian were exuding.
+
+“Do you want to try?” Veron asked, offering the hammer to the teen.
+
+Ian raised his hands and shook his head. “It is your hammer, master Veron.”
+
+“You just don't want to get injured,” Veron said and focused instead on the boulder. He also didn't want to get injured. While he was reasonably sure that healing magic existed in Renavor, likely belonging either in the Devotion or Blood Paths, he was also pretty sure that there was nobody in Eyra who practiced it.
+
+He raised his makeshift hammer and brought it down with some force.
+
+The stone head of the tool came down on the boulder with a slight thud. And held.
+
+Veron used more force with the second strike, and more yet with the third.
+
+On the fourth strike, the head snapped off and tumbled down into the grass, coming to a stop a few paces away.
+
+Veron held his breath. “Three more than I expected.” He laughed and Ian joined in.
+
+As they made their way back to the barn, Veron couldn't help but feel that this was just the first tool of many that he would make and break on his journey. If this was what a Feeble Elemental Path with a beginner Harmony could do, he wondered what the higher levels would bring.
+
+Aren found them soon after, joining them as they started milking the Greyr. “You two seem excited. Care to fill me in on what's going on?”
+
+“Veron can now shape rocks!” Ian exclaimed.
+
+Aren gave Veron a look.
+
+Veron matched the look.
+
+“About time. Plenty of repairs I've been thinking about doing. I suppose we'll have to wait with the farmhouse extensions I have planned until you get stronger, but it's a start.”
+
+Veron raised his eyebrows and gave the man a nod. “So that's why you kept me around.”
+
+Aren winked at him and started milking.
+
+Veron started as well. He was more familiar now with the Greyr but he still had to be focused on the work. In an hour, he would have another chance to test his magic. He knew that Aren was joking about the extensions but if he got powerful enough to make something like that work, he would happily do so.
+
+An hour later, he tried again. And then every hour after that. His Focus regenerated gradually but he noticed that after an hour, it didn't make a difference anymore if he waited longer. He assumed that however strong his Focus or mana was as a Feeble Path, it recovered in around an hour.
+
+Veron learned that in terms of shaping, there hardly seemed to be any limitations to his magic. Of course he could only shape rocks and chunks of earth but it felt incredible to him. His Focus was the main limiting factor. It ran out quickly and he learned that the more precise or complex he wanted to shape something, the slower he could evoke the changes. It left him with a lot of time to think about what he would try to shape next and not a lot of time to actually shape.
+
+Another thing he quickly learned was that the differences in composition and the density that he could feel from the rocks in his vicinity greatly affected how durable his final creations turned out to be. He spent a part of his afternoon out in the fields collecting rocks and moved them to the barn. The fact that he was literally moving rocks amused him but his mind was mainly occupied with possibilities.
+
+In the evening, after dinner, he started doing the first repairs. Under the watchful eyes of Aren. Simple things to start. Cracks in the walls where rock wouldn’t cause more problems than it helped, and additional support for old wooden beams that Aren thought could use the help.
+
+With his new magic, Veron could simply take a small piece of rock and mold it into a crack. He could shape screws and support pieces, in any shape or form that was needed. He wasn't sure how long the results would last but he was glad that he could already employ his magic for something useful. Now that his Harmony was no longer a strange and almost mythical way for him to feel the earth around him but something he could actively employ, his lacking Focus felt more and more like a priority.
+
+It took a while for him to fall asleep that night, thoughts and possibilities swirling in his mind. He almost went out to get a few rocks to his room but then decided against it. His room was for sleeping only and he knew that if he started experimenting with magic here, falling asleep would become a lot more difficult.
+
+With more repairs and experimentation under his belt, the next day after dinner, he asked Ivera for a chat. He had deliberately waited with asking her for assistance until he had gotten some of the basics down. But now, it felt like the right time.
+
+They were in the garden, the last light on the horizon.
+
+“What did you want to talk about?” Ivera asked.
+
+They’d had few conversations since their initial meeting in the forest but Veron was pretty sure at this point that it didn't have a lot to do with him. Ivera was out much of the day, and even when she was around, she didn't talk a whole lot. Usually straight to the point, though with Aren, sometimes there was a sarcastic quip or even whispers and rare smiles.
+
+“My Harmony is now at the Beginner level, which means I can shape rock.”
+
+“Congratulations,” she deadpanned.
+
+“Thank you,” Veron answered in the same dry tone. “It's become apparent that my Focus sucks. I know that you're out there patrolling and scouting the forest, and I know that you have combat experience, so I wanted to ask you for guidance.”
+
+She took in a long breath and crossed her arms.
+
+“I wondered when the day would come,” she said. “You're not ready to go out there.”
+
+Veron had expected as much and he nodded at that. “How do I become ready?”
+
+At this, she showed him a small smile. “You train.”
+
+“What do I train exactly? Running and strength?”
+
+“Yes. Every second morning, starting tomorrow. I will show you what to do, and then I will check in with you a week later.”
+
+“Perfect. Thank you and I'll see you tomorrow.” And that was that. He already deemed it a major accomplishment that she would give him a training regime. Maybe she expected him to give up, and maybe he would, but he could tell that she wouldn’t sabotage him either. She had expectations and if he met them, she would help him further. That’s the impression that he got but only time would tell.
+
+The next day, Ivera joined him in front of the barn. She didn't wait for him to speak and simply started explaining a simple training regime that covered every major muscle group, first using body weight only, with later stages adding in weights as soon as he was ready. She showed him stretches as well and tacked on a simple run around the entirety of the Holt farm. She didn't tell him what she expected from him to be ready but simply told him to do the routine every second day.
+
+Veron was about to start when she spoke up again.
+
+“What weapon will you use to fight?”
+
+He gave her a look. “I have no training or experience, so whatever is easiest to learn and most efficient.”
+
+Veron had thought about his magic a lot, and while being able to fight with it was not his primary concern, he still felt intrigued about how he could employ it to potentially fight monsters in the future. But until he got to such a point, he knew that he would need another weapon.
+
+And learning how to use a more conventional weapon was decidedly less exciting.
+
+Ivera nodded at that and went into the barn. She returned with a few tools. A large hammer, a pitchfork, a scythe, a short blade, and shears that were considerably longer than the blade.
+
+“We will spar to find out what suits you.” She pointed at the tools. “Take whatever feels best.”
+
+She's so efficient.
+
+Veron looked the tools over. The large hammer was heavy. And the range was limited. He would be winded with a few strikes but admittedly, if he could hit something with it, the damage would be substantial. If. And I would have to get in close.
+
+He ruled out the scythe immediately, more likely to hurt himself than anything else. Though he had to admit it scored higher in flair than the rest. Maybe if he had still been fifteen, he would have chosen that one. He could also imagine that it would take a whole lot of training for it to become a moderately effective weapon.
+
+The short blade felt reasonable but it was short, which again, meant that he had to get in close. And he felt like he had to know what he was doing to make it effective. The shears he thought represented a larger blade but at the end of the day it had the same negatives as the hammer.
+
+Which left the pitchfork. Long range and a simple concept. Just aim and stab. He imagined he could keep monsters at a distance, which he liked. It was the only tool that he saw which he could imagine himself being at least moderately effective in combat with. So he grabbed it.
+
+Ivera grabbed the small blade. “Try to attack me.”
+
+He did, walking closer to her before he stabbed forward.
+
+Ivera crouched slightly and stepped aside, three quick steps forward and she held her blade close to his neck. “You're afraid. And your stance is atrocious. Again.”
+
+Veron nodded. She wasn't wrong. He was afraid because he had never attacked another person with a pitchfork. His stance was atrocious because he had never trained it. He tried again, this time with more caution, simply getting close to her and using his superior range to try and jab the pitchfork at her.
+
+With the third jab, she grabbed his weapon and pulled him close, then stepped past and again held the blade towards his throat. “Good, more careful and you're using the range. The jabs were too light, add a step and use your body more than simply your arms.”
+
+He tried again. This time, he expected her to either grab at his weapon or dodge, so when she did, he took a quick step back and tried to angle the weapon in a way to obstruct her from coming closer. It kind of worked. She batted away the pitchfork and then moved close.
+
+“Good, you're learning quickly. Take the next weapon.”
+
+Veron set down his tool, despite already feeling somewhat comfortable with the pitchfork.
+
+He grabbed the hammer and attacked. Ivera didn't ask for him to try again. He picked up the scythe and she told him to put it down again as soon as he held it in his hands. She let him try the blade and shears twice before telling him that it was enough.
+
+“You're untrained, neither particularly strong nor agile. You think a lot and hesitate. You're scared to hurt someone else but at least you don't seem particularly scared of getting hurt yourself. I agree with your choice, but I would add a shield as well. It will provide a lot more protection and with your more defensive and hesitant inclination, using a spear with two hands won't be much of a benefit to you, at least not for a long while.”
+
+“A shield and spear,” Veron said. He liked the idea. “Should I use the pitchfork, make one out of stone, or do you have an actual spear lying around? I could probably try and make one out of wood as well. I thought about making some kind of armor with stone as well, if you think that's a good idea.”
+
+“We don't have spare weapons or armor, and making a usable spear out of wood that doesn't crack with a few thrusts is more difficult than you think. I suggest you try with stone, it will be heavy but good for training. Same for the shield but I would start with wood instead, a shield of stone will be too heavy for you as you are. The armor,” Ivera said and considered for a moment.
+
+She then nodded. “I suggest you try different things. Stone armor will be heavy and brittle but if you can make and repair your own, it will help a great deal against monsters without any cost or materials other than rocks, time, and your Focus. I'm sure there are some leather straps and some stuffing lying around that you could include as well. And then you can experiment with the weight and your training, see how it feels. More will offer more protection but it will weigh and slow you down, and you'll be exhausted faster. If you need help with the design, you can look at my armor pieces in the evenings. Once you have a spear that you feel comfortable with, let me know and I will show you some basic stances and drills.”
+
+“I will do all that,” Veron said. It was a lot but it felt good to have more defined goals and something specific to work towards with his shaping. He was eager to start. “Thanks for the time and explanations. I'll let you know when I'm ready for the drills.”
+
+Ivera gave him a nod and left without another word.
+
+Veron wasn't sure what to take from her actions. She had listened to him and she had given him the basics to work towards. He didn't know if she expected him to follow through and keep up with the training, both physical and magical, but what she had said at the start of their session rang true. He was untrained and not ready to go out there. So now, it was up to him to change that.
+
+And yet she's so... unemotional? Is that it?
+
+He wasn't entirely sure what he expected. He had asked for help and she had helped. Veron raised his brows at the thought, reminded of some IT people he had worked with a while back. That had felt exactly the same. He smiled to himself. They had done precisely what he had needed them to do and this was the same. It felt cold, almost mechanical. Maybe he expected a joke here and there or some encouragement. Getting things done was good, sure, but did it really hurt to make things a little more fun and smooth?
+
+Either way, he now had a more concrete goal and a few things to work towards.
+
+He still had his work and practicing the language but as soon as he took a break, he started collecting more rocks. He didn't bother much with checking their quality as that too would require Focus. He figured as soon as he actually shaped things, he could figure out which rocks to use and which to discard. Neither was he under any illusions that the first spear he made would be any better than the pitchfork he had used.
+
+The first goal was to make a weapon he could use for the drills that Ivera had planned for him.
+
+Every hour, he shaped more rocks and slowly joined them together. For now, he was using the pitchfork for reference. At least for the thickness of the shaft. Once more feeling the strain in the new muscle that governed his magic, Veron set down the small pole of stone and smiled. It was a slow process and already, he could tell that this weapon wouldn't hold up long in an actual fight. What excited him, was that he did notice more and more differences between the rocks he had collected and used.
+
+He glanced over at Ian and gave him a nod. The teen had been unusually quiet this afternoon. “How long do you think a spear should be?”
+
+Ian ignored him.
+
+Oh? So I wasn't wrong.
+
+“About as tall as I? Twice as tall? Could make the longest spear in the land.” He saw Ian's eye twitch slightly. “Hey. What's going on?”
+
+Ian gave him a quick glance and then returned to his work. “Nothing.”
+
+Veron raised his eyebrows in a knowing manner. “I can tell, you know? And it bothers me that something is obviously upsetting you. I'd like to help, talk it out, but I can't do that if you don't talk to me.”
+
+Now the teen glared at him. “You're annoying.”
+
+“Exactly. Because I care about you. Feel free to sulk though, really let those feelings fester in your belly. Until you hate me forever!” Veron said with a teasing voice. He continued with a more serious tone. “Take your time, but know that I'm here. And I would love your input on my creations.”
+
+He could see Ian relax a little but he still didn't share anything. Veron got back to work and continued in silence. An hour later, he added another few pieces to the growing pole of rock. I'll have to smooth out some of those links and the entire surface of the spear itself.
+
+He heard a few whispered words from Ian. “What? I didn't hear you.”
+
+Ian seemed annoyed. “I asked her to train me, six times already. She said no every time, even though I promised to work hard.”
+
+Veron gave him a warm smile and stood up from his growing pile of rocks. He walked up to the teen who was now staring at the floor and then he touched his shoulder. “There you are.” He waited for Ian to look up. “And I'm sorry. It sounds frustrating, asking for help and her rejecting you so many times.”
+
+“It is! And it's unfair. I've been working hard on the farm and I've been training on my own as well. I don't know why she's so stubborn. You've only been here for a few months and she immediately agreed to help train you, even though you don't know anything about magic or adventuring!” He blushed slightly. “I didn't mean that.”
+
+“But it's true. Everything you said is true and I understand why you're frustrated. I know you a little by now. But I don't know Ivera at all. What I do know however, is that she's your mom, and I know that she loves you.”
+
+“Then why won't she train me?”
+
+Veron gave him a look. “Adventuring is dangerous. You know that too. People get hurt out there, they die, or vanish without a trace. You've told me plenty of stories. Now tell me, who would you rather become an adventurer, an adventurer that may get injured or may even vanish out there; Some random guy that appeared in the nearby forests with no knowledge of these lands and their magic, or your son, your father, a good friend you've known all your life.”
+
+He could see the gears turning.
+
+“She's out there too, all the time,” he argued.
+
+“Maybe so you and Aren don't have to be,” Veron said.
+
+They were quiet for a long moment.
+
+“You're still annoying,” Ian grumbled.
+
+Veron tapped the teen’s arm with his fist. “Because I care about you. Now tell me, how long should I make this spear?”

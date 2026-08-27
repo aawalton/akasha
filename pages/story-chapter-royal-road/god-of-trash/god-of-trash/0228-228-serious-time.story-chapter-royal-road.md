@@ -1,0 +1,129 @@
+---
+id: a1e4486c-fe28-5462-a0d3-0d2a388994e9
+page-type-slug: story-chapter-royal-road
+title: "228. Serious Time"
+slug: 0228-228-serious-time
+partOf: god-of-trash
+position: 228
+ownLength: 1956
+unit: words
+publishedAt: 2025-11-01
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2723849/228-serious-time"
+royalRoadId: "2723849"
+---
+
+It’s time to get serious.
+
+Rhys stopped suppressing his mana core and ran it to its top power. His strength surged from Tier 3 to Tier 4, and he reached over his shoulder and yanked the chakram out of his back, then stared up, through the water and the ice. The two obscured his view of the northern region’s mages, but he could still sense them, lit up brightly by their mana veins. He hurled the chakram at the woman with all his strength. It shattered through the ice and blasted toward her. She swung her hammer, barely blocking the chakram in time. The round blade went bouncing off through the cool air, trailing droplets of water after it.
+
+Rhys chased after it, surging through the broken ice. Shards of ice and a gout of water rushed up with him, flying through the air. He spat a cloud of noxious gas at the hammer-wielder, who spun her hammer to clear it. That, however, occupied her hands. Rhys fired off a dozen impurity darts, using his mana to send them flying and swirling through the air, darting around her spinning hammer and in to her torso. The chakram-wielder jumped forward, but his weapons were indisposed. He hissed and lifted his hands, changing his aura rapidly as he recalled them, but by then, it was too late. The impurity darts sank under the hammer-wielder’s skin and twisted into her body, poisoning and breaking down her mana passages.
+
+In midair, Rhys angled his body, pointing his feet at the hammer-wielder. He kicked the woman through the ice, taking her into the depths with him even as her body blackened from the impurities. She clawed at him, desperately fighting back with the last of her strength, and slammed her hammer at him with her other hand. Rhys’s eyes glowed, and he lifted his hand to stop her.
+
+His arm broke. He flew to the side, rolling head-over-heels through the water.
+
+Confused, Rhys blinked. Huh? I should’ve been strong enough to stop her. Why wasn’t I?
+
+He quickly investigated his body, then raised his brows. This whole time, he’d been fighting with his original core and mana, because he’d wanted to test his power with his original core. It was back, and he wanted to make sure he wasn’t out of practice. But his whole body was weakening. Every piece of him was being watered down by mana, its core construction growing less concentrated.
+
+What? He burrowed deeper, searching further.
+
+This whole fight, in fact, had gone startlingly against Rhys’s favor. He had been able to kill Tier 4s as a Tier 3. There was no reason for him to struggle against Tier 3s as a true Tier 4, let alone take damage and lose. Even when he was faking as a Tier 3, the fight should’ve been laughably easy to win. And yet, it wasn’t.
+
+His body was trash. He’d said so from the beginning, and he believed it even today. But over the last few years, that had become true. Completely, physically true. He’d reconstructed and reinforced his body with trash, over and over and over, until it became trash. And now, using mana on it meant that he weakened his trash body, lowered the concentration of trash as it was replaced by pure mana.
+
+Around his breakthrough to Tier 4, he’d also figured out how to use pure trash as the foundation of his magic rather than mana. He hadn’t ignored that, but… but, perhaps he was fighting against his breakthroughs, foolishly. He’d learned to use magic without mana, so why was he using mana now? Why not just lean into trash? Why, for the first time since he’d begun, was he forsaking trash?
+
+No: I have to admit it. I’m no longer compatible with my original core. My trash star is my true core. He spun down his mana core and lit the trash star instead.
+
+Instantly, his power surged. He drew trash out of the star and used it to fix his broken arm, then raced back toward the hammer-wielder. She struggled toward the surface, but her hammer weighed her down. Her body blackened, purple veins twisting deeper and deeper into her body. If he left her alone, she would die… but that wasn’t his purpose in dragging her under the water.
+
+He kicked, and hurtled through the water to her side. She spun, striking the hammer at his head. This time, he caught it out of the air—well, water—and injected some impurities into the hammer’s head, then clenched his hand. The metal exploded, the head of the hammer coming apart. From the woman’s perspective, it was as if he’d simply shattered her hammer by closing his hand.
+
+To her credit, she didn’t give up. Her eyes burned with hatred, and she kicked with all her might. Unfortunately for her, Rhys was Tier 4, and she was badly weakened by impurities. The injured hammer-wielder couldn’t so much as harm him, now that he was using his trash star. He gripped her neck and squeezed. Her neck cracked, and the life left her body.
+
+As she died, he pulled her deeper, into the depths. The lake was deep, and the water inhibited mana senses. Not one to throw away good trash, Rhys quickly absorbed both her body and her hammer, which he’d recently reduced to trash via shattering the head. He sank deeper under the water, surging into the depths. Down there, surrounded by half-alive fish, he activated a technique he hadn’t used in some time… but had always used exclusively for evil.
+
+--
+
+Atop the ice, a man stood alone. He crouched at the edge of the ice, hesitating. His partner was under there alone, and their opponent’s power level had shockingly skyrocketed for a moment before he’d lost track of the both of them entirely. What was happening down there? He wanted to help, but his techniques made fighting in water awkward, especially the ice half; he got in her way as much as he helped, usually, the few times they fought in water. But maybe this time he should’ve followed her.
+
+No. Surely she was fine. She could defeat Tier 4s. Even if he’d been hiding his strength, that man was no threat to her. He was worrying over nothing.
+
+The ice shattered. A familiar figure landed on the ice with a thump. She turned toward him and nodded. “He’s done for.”
+
+“What happened to your hammer?” he asked, walking closer.
+
+She lifted her hand. “Don’t come any closer. He broke my hammer and… and poisoned me, somehow. I’m still overcoming the poison. If you get closer, it might infect you.”
+
+He drew to a sharp halt. “Poison?”
+
+“Poison.” She sighed. “I’ll be done with it in a moment. But he’s dead. He won’t be a threat to us any longer.”
+
+“Lord Ravin will be pleased.”
+
+“How long, do you think, will he be weakened?”
+
+He looked up sharply. “You know better than to say such things openly.”
+
+“Sorry—the poison, I just lost my hammer… I was frustrated.”
+
+“Even if you’re frustrated, mind your tongue.”
+
+She looked down, chastened. “This whole charade… how long must it go on?”
+
+“For as long as we need to keep Lord Ravin safe.”
+
+“Wait, he’s still here? In town? I could just go ask him?”
+
+The man looked up sharply.
+
+His friend was charging toward him, her hand outstretched, a mysterious dark technique he’d never seen before brewing in her palm—and now that she was closer to him, it was very obvious that she wasn’t the right height, but rather, the size of a little folk. It was only the fact that they were on a lake, with little to provide perspective for height, that he hadn’t been able to immediately tell.
+
+“Thanks for everything, but if I can just go have a chat with Mr. Ravin, I think I’d rather talk to the source,” Rhys said, and slammed his hand into the man’s face. Poison flooded the man’s body through his orifices, and he trembled and fell backward, dying.
+
+Lord Ravin was strong enough to face the Sword Saint, sure, but also, at the moment, so weak that he had to hide away even from mere Tier 3s, let alone Tier 4s. Not only that, but Rhys didn’t really care about Lord Ravin or his weakness. He knew Lord Ravin wouldn’t see it that way, but he personally only wanted to know about what had happened to the Sword Saint and Bast. I can probably persuade Lord Ravin to have a little chat. I’ll have to skedaddle afterwards, but that’s what the void is for. He nodded to himself, making up his mind as he sucked the man into his trash star.
+
+“Are you really planning to invade the lair of an injured higher-Tier mage, question him, and leave? Are you not afraid of his wrath?”
+
+“Daran! I thought you had left me behind. Good to see you, buddy,” Rhys said. “Don’t read my mind.”
+
+“I didn’t. It’s quite obvious what your thought process is from what you’ve said aloud, and I have to say: it’s a terrible plan. There’s a reason people don’t simply interfere with higher-Tier mages lightly. Even if he’s injured now, he will heal in the future.”
+
+“And I’ll be stronger in the future. What’s the problem?”
+
+Daran wrinkled his nose in frustration. “Have you heard a word I’ve said? Are you mad?”
+
+“Yes and maybe, but not as crazy as Sable’s dad, and I’m still kind of hung up on that? I think about it way too much. It really shouldn’t bother me that I lost the crazy contest. You want to lose the crazy contest, right? But I somehow feel like I failed, you know what I’m saying?”
+
+“I do not.”
+
+Rhys picked up the man’s chakrams and looked up at Daran for the first time since he’d materialized. “I’ve got the void. I can escape. What could go wrong?”
+
+“Many things. Many things could go wrong.”
+
+He spun the chakrams idly in his hands, playing around with the weapons. “Should I try to look like this guy? His weapons aren’t broken. But I really don’t have the bodymass to become a big person… I guess I’ll give it up.”
+
+“It is deeply discomfiting to hold this conversation with you as you wear the face of a dead woman.”
+
+“Ooh, I creeped out the Demon King? Bonus points.”
+
+“That is not ‘bonus points,’ that is something that should concern you.”
+
+“Naaaaah. Hey, you know what? I figured it out.” He couldn’t absorb the chakrams into his trash star, so he slid them into his storage ring instead.
+
+“Figured what out?”
+
+“How to deal with the whole ‘he’ll heal and be stronger later’ problem.” He dropped into the water and changed his body again, this time adjusting it back to his washed-up rockstar, but definitely male, disguise. No reason to abandon that disguise yet. After Lord Ravin, sure, but until then, he could continue to be Justin Rockstar.
+
+“Oh, did you.”
+
+“Can’t heal when you’re dead, can you?”
+
+Daran crossed his arms. “He is still a much higher Tier than you, even injured. His body and soul are far more durable than anything you’ve ever encountered. Only a fool would think he could defeat a higher Tier mage by the same methods as a lower Tier mage.”
+
+“So… you’re saying I should run away and not kill him? Great idea, Daran.” Rhys set off, following the mana traces the man and woman had left behind. They were fading fast, so he had to sprint at his top speed.
+
+“I’m not—you are incredibly frustrating, you know that?”
+
+Rhys just grinned and kept running.

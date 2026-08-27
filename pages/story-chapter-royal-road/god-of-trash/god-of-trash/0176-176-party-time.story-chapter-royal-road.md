@@ -1,0 +1,99 @@
+---
+id: 0a2a3579-ff9e-5cf1-833d-f2c205af3070
+page-type-slug: story-chapter-royal-road
+title: "176. Party Time"
+slug: 0176-176-party-time
+partOf: god-of-trash
+position: 176
+ownLength: 2156
+unit: words
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2574588/176-party-time"
+royalRoadId: "2574588"
+---
+
+At last, the time was upon them. The day had come. The dawn broke, and the sun shone upon a new day. The day… of the ball.
+
+He’d found one. It was in a little city far from the capital, not far from the city he’d started in—but not the actual city he’d started in, in case the Empire was tracking that, on the off chance they connected the mysterious ball ghost he was about to be, and the revolution. They were still looking for the revolution, and patrols prowled all the cities near the camps he’d struck, but this city was just far enough away that the patrols were lax and somewhat lackluster, composted of the guards who’d pissed off their commanders and slacked off a little too much on their regular duties rather than actually skilled guards. Not that he expected the patrols to stop a noblewoman on her way to the ball, but it was better safe than sorry.
+
+“Remember, Mouse, we’re doing this for the revolution. We’re going to gain information on our foes, so we can strike first against the criminals, gain lots of cores, and ultimately overwhelm the Empire with our overwhelming might and-or junk food induced impurities,” Rhys said, putting his hands on his hips.
+
+With his new bone structure and the help of a generously stuffed corset, Rhys was the splitting image of Adelise… as he remembered her in the dark, lit weirdly by fire and garbage fires, in the heat of battle. He planned to stick to the shadows, emerge to grab food when the coast was clear, then retreat to the darkness. His primary objective was truly, earnestly, to discover the state of the Empire, but his secondary objective was absolutely to discover what high cuisine was like in the Empire. It was nearly as important as his primary objective. Almost.
+
+He wore a dark blue gown that wasn’t too nice, or too understated. He’d chosen dark blue for two reasons: one, he could blend into the shadows, and two, red hair looked good in blue, so it was probably an acceptable color for Adelise to wear. He was pretty sure she wasn’t flaunting around in silver at all hours, and besides, silver was an impossible color to vanish in. Dark blue was far easier to deal with, whether it was blending into the crowd or escaping from the entire situation.
+
+Mouse cringed beside him. She wore a mousy brown uniform that was what Rhys imagined servants wore in this kind of world. It was a nice outfit, anyways. Not quite French maid, but then, he hadn’t wanted to go nuts before he knew what the standards were. He was pretty sure nobles didn’t bring their maids out of the house, anyways.
+
+“Is this really necessary?” she squeaked nervously, peering around her.
+
+They were currently standing by the side of the path that led to the house of the nobles who were holding the ball. They didn’t have an invite, after all, and Rhys didn’t want to depend on Mouse’s semi-invisibility too much. Hence, they were going to steal an invitation. He still hadn’t decided if the person he stole it from was going to disappear, or if they’d just take a nice long nap and hopefully get memory-obfuscated by Mouse’s passive power. Depended on their personality, he supposed, and whether they seemed cool or not.
+
+“Do you think you can sneak us in without an invite?” Rhys asked.
+
+Mouse licked her lips. “M-maybe?”
+
+“Let’s get that invite, then.”
+
+“I didn’t mean…” Mouse fell silent for a moment, then sighed.
+
+“It is really necessary. It’s a masterstroke of psychological warfare that always works in classical novels, which, when you think about it, are considered trash by everyone but English teachers nowadays, which means it’ll definitely work.”
+
+“What’s English?”
+
+“Language. I missaid language.”
+
+“O-oh.”
+
+Wheels rattled. Rhys looked up sharply, slightly adjusting his pose so that the tree perfectly covered him. Mouse edged a little closer, to ensure that her invisibility aura covered him, too. They waited, holding their breath.
+
+This wasn’t the first carriage. The catering carriages had come and gone, and Rhys had let them; there was no need to interrupt some earnest workers just trying to do their jobs, though he had been tempted to hijack a carriage and impurify all the food inside. Ideas for later, but for now, he didn’t want to mug the hardworking ordinary citizens who didn’t deserve that kind of shit. An extremely grand carriage had rolled through not long ago, and despite his eat-the-rich philosophy, he let it go. If there was someone that important coming to this small ball, then they would almost certainly be accounted for and expected, and if they didn’t show up, the hosts would start looking around to figure out what happened to them—in other words, exactly what he didn’t want. That was the kind of attention to the guest list that would get him, one, kicked out, and two, would end the ruse while it was still just a silly prank and wasn’t a psychological attack yet.
+
+Plus, he’d sensed a Tier 4 emanation from the carriage. Not that he couldn’t take on a Tier 4, but the battle would be dangerous, and it would be big, flashy, and noisy, all things he also didn’t need.
+
+Hmm. I guess we should eventually level up Mouse’s techniques so we can slip in without deleting someone from the guest list. It wouldn’t be too standout for someone to not show up to any given party—gods knew Rhys had no-showed enough invites in his first life—but if it became a pattern, people might stop suspecting ghosts and start suspecting ordinary foul play. Especially if the no-shows ended up pulling a permanent no-show, as opposed to simply skipping a party.
+
+The latest carriage rattled into view. This one was nice, but not overly nice. Black shiny outside, the edges and doors graced with a hint of decorative silver, the horses tall and black to match the carriage. The driver sat with a tall back, his top hat silken, a mask obscuring his face. Rhys watched it come, a bit curious. It seemed like carriages were in style in the Empire, as opposed to flying boats or swords, or any other magely form of transport. According to the people he’d spoken to, the Empress appreciated a nice slow journey by the old ways, travelling between places by land and truly seeing the countryside and the people for what they were, and so, the nobles, meaning to emulate the Empress in all things, had adopted her practice for their own. The less charitable amongst his customers had chalked it up to the Empress having a crippling fear of heights, which Rhys was pretty sure was bullshit. She certainly hadn’t flinched when she was up on her giant ships in the sky. Honestly, he kind of understood the policy; it meant ordinary mages and citizens saw the nobles more often and saw what they could aspire to. On the other hand, it also meant the nobles were forced to keep an eye on the status of the countryside, whether that meant looking out for dissenters or seeing that the ordinary citizens had had a bad harvest and really couldn’t pay their taxes. If they simply floated around all over the place, they’d become completely detached from the people around them, and the Empire would be in a much worse state than it was right now.
+
+It didn’t stop people from using flying swords and flying ships, and he’d certainly seen plenty around, but for formal engagements like balls, it was stylish to show up in a carriage, even if that meant flying to the local city, then renting a carriage to the venue. He appreciated the practice, in any case; it was easier to ambush someone on the ground, and it meant he didn’t have to worry about procuring flying swords as well as everything else he’d had to gather for tonight’s heist. It was a good social practice that he intended to exploit to hell and use for all it was worth against the Empire itself.
+
+He extended his aura, sweeping the carriage for a split second. Tier 3, and only one of them. The driver was Tier 1, and aside from that, the man was alone in the carriage.
+
+Rhys nodded at Mouse. “Go.”
+
+Mouse bit her lip, but she didn’t hesitate. She darted out and attacked the driver from behind, knocking him out in a grim imitation of the way Bast had knocked her out repeatedly back during the tournament. The man slumped, then vanished right out of his seat as Mouse dashed off with him.
+
+Without anyone driving them, the horses slowed. Rhys jumped out in front of them, and they came to a halt, unwilling to run him down. He strode forward, heading for the doors.
+
+Before he got there, they slammed open, thrown wide by a meaty hand. Without even looking out, the man inside shouted, “What’s the hold up, hmm? We’re going to be late if you keep this up. And you know what that means. Five less gold for every minute we’re late!”
+
+Rhys raised his brows. Was this man literally doing the ‘put down ten bucks in ones on the table, then take one away every time the waiter makes a mistake’ technique, except to this poor driver? That made up his mind. This man was about to exit the guest list permanently.
+
+“So sorry, sir. There’s a branch on the road. I’ll have to clear the way,” Rhys said in his best stuffy-servant voice.
+
+He must have been close enough to the servant’s voice, because the man grunted. “Be quick about it. I cannot be late. Lord DeVeer’s perfect record cannot be stained!”
+
+Rhys drew out filthy gas from his trash star and rolled it into a ball in his hand. He added more and more, compressing it into a tight marble. More and more, more and more, until the marble transformed from a murky brown to pitch black.
+
+“What’s taking so long?” Lord DeVeer (or so Rhys assumed) complained.
+
+“It’ll only be a moment longer, sir,” Rhys assured him, then tossed the bead of ultra-compressed trash gas into the carriage and slammed the door shut. The second the door closed, he released his hold on the marble, and it burst, filling the carriage with gas. Lord DeVeers lunged for the door, but Rhys held it shut. He went for the other door, and Rhys heard a grunt and a thump as someone else held it shut on the other side.
+
+“Mouse?”
+
+“Ye-yeah,” Mouse replied, clearly struggling to hold the door.
+
+“If the door pops open, flee and let me deal with it,” Rhys told her, but didn’t tell her to get away otherwise. If they could gas this guy to death, that was one problem dealt with quietly, easily, and simply, with no damage to the carriage or any unnecessary noise or mana. He’d been planning to weaken the guy, then lunge for it and hammer him when he came out the opposite door weak and injured, but with Mouse’s cooperation, it seemed like even that much planning had been unnecessary.
+
+The slamming on the door weakened, then silenced. Rhys held the door for another few seconds just to be sure, then opened his door just a crack and absorbed all the gas back into himself. Only when he was sure it was safe did he throw the door open and step inside.
+
+Lord DeVeers slumped against the seat, eyes rolled back in his head, foaming at the mouth. He was a portly man, and the slender, gilded sword at his hip was clearly more for fashion than battle. Rhys absorbed him and his energy, and was shocked at how easily he absorbed the man. Then again, he hadn’t seriously fought back, and had been so easy to overpower that even Mouse had been able to hold the door shut against him. He was clearly someone who had been given his core, not someone who’d fought hard and deserved it. The Empire’s meritocracy, at its finest. No nepotism here, no siree.
+
+Rhys paused a moment, searching inside himself, then held out his hand. The invitation appeared out of his core and landed in his hand.
+
+He climbed in and pushed the door on the other side open, grinning at a startled Mouse. “Hop up front, driver. Let’s head to the ball.”
+
+Mouse gave him a timid smile, then reached behind her and pulled a top hat out of seemingly nowhere. “Y-yes, sir!”
+
+Rhys chuckled. He closed the doors and settled in. The carriage creaked as Mouse climbed up front, and there was a crack of the reins as they set off once more, as if nothing had happened.
+
+It was time to become the phantom of the ball.

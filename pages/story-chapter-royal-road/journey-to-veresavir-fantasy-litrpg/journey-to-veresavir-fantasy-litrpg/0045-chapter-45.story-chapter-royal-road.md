@@ -1,0 +1,235 @@
+---
+id: 017c5467-1d8e-5a2f-814b-bf707954fb8d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45"
+slug: 0045-chapter-45
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 45
+ownLength: 3090
+unit: words
+publishedAt: 2026-02-18
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3068051/chapter-45"
+royalRoadId: "3068051"
+---
+
+Chapter 45
+
+Veron sat across from Warren in his office on the first floor. There were shelves filled with books, some leather bound and looking ancient, others with flimsy hardbacks that looked cheaply made. There were plenty of trinkets and what looked like small animal pieces on the shelves as well. A wooden desk was set against one of the walls, a pen and some paper set up on it. It was tidy, and Veron wondered what was in all the drawers.
+
+Veron sat on a small sofa in a corner near the door, light coming in from the shut windows, forest visible beyond. Warren’s enchanted teapot stood on a small table between them. He had chosen to sit in an armchair.
+
+“You have a lot of books for an innkeeper,” Veron said.
+
+“I have my interests.”
+
+Veron looked at Warren and breathed in.
+
+“I'm not sure how to start this conversation. I guess with magic. There are six Paths, and among them there are all kinds of aspects. Different schools of magic. I was wondering about one of them in particular. If it existed in the first place.”
+
+“An aspect of magic that you don’t know even exists.” Warren said and paused. “The different schools and harmonies all relate to their Paths, and through that lens, they relate to the world, and to life itself. I believe that if there is a concept, something we can see or grasp, then there is magic that corresponds to it. I suppose you are thinking of something more abstract?”
+
+“Yes,” Veron said as he watched Warren pour two cups of tea. He waited until he set down the pot again. “Is there a way to affect time through magic?”
+
+“Time? That is more obscure than I’d expected. I suppose there's no reason to keep this from you. I used to study at the Academy in Leiveen. I even taught a few classes here and there.” He blew on his tea to cool it down. “Time magic. It’s not officially recognized as an aspect, let alone taught or practiced by anyone I know of, though that doesn’t mean people haven’t considered its existence, nor that there haven’t been possible encounters in the wild. What little I’ve heard of, suggests that it would fall into the Fae Path, and us humans are notoriously bad at understanding the essence of that Path.”
+
+“But it does exist?”
+
+Warren sipped from his tea. “I can’t say for sure. The stories that I’ve heard could mostly be attributed to illusions too, and that Form is recognized by the Academy. But I wouldn’t be surprised if there were people out there wearing time magic relics around their necks. The use, if it existed, would be quite astounding. You’ve come across it then?”
+
+Veron didn’t miss the tension in Warren’s voice, the unbridled curiosity.
+
+Studied and taught at the Academy in Leiveen. It would make sense that he’s interested, but is it dangerous to share then?
+
+He considered for a moment, leaning back in the sofa. “How did you end up here?”
+
+Warren smiled slightly.
+
+“You don't trust me. I understand. Well, if you're really interested, it’s not that strange of a story, I suppose.”
+
+“I trust you to an extent, but do go on.”
+
+Warren sipped from his tea.
+
+“Very well. I'm a Runic Path, like a lot of people who are drawn to the Academy. One of my Schools is that of Alchemy. That is what I spent most of my time there studying. I was good at it, and was recognized after a while, which meant access to more of, well, everything. More room, more ingredients, tools, and knowledge. And I got to teach as well.” He made to continue, then paused. “With a higher position of course came more scrutiny as well. I had to deal with various staff, had to request and justify budgets and materials. Generally, I felt like I was doing more work organizing things and talking to people than I did research.”
+
+“You decided it wasn't for you?” Veron asked when Warren didn't continue. He seemed somewhat lost in thought, the question getting him back.
+
+“Oh no. I liked teaching, and even with all the hurdles, the research I could work on was astounding! The laboratories of the Academy, the equipment, and the sheer access to rare materials, plants, and monster parts is far beyond anywhere else you could get a position like that. I... was younger then, and got into some small arguments with one of the more established professors. It seemed minor at first, issues with his rude behavior, whispers of more. I won't go into details but in the end, I tried to look for proof and couldn't find anything. I suppose I was both idealistic and stubborn, but eventually, he cornered me after I had broken into his study, with security and confidently talking of expulsion.”
+
+“He caught you and you were kicked out?”
+
+“I first punched him in the face, which in hindsight, may have been a mistake.”
+
+“Yeah.”
+
+“I don't regret it, not a lot. I do regret that he's still there and I've been turned into a warning for anyone willing to speak up or figure out what he was up to. I lost my position and was strongly encouraged to leave Leiveen. That was that. It was a very intense part of my life, and while I do sometimes think about what could have happened differently, I'm pretty happy with where I ended up.”
+
+“It’s a nice place, yes.”
+
+That's why he's so excited about a low level adventurer willing to collect things for him in the wilderness.
+
+“You're still working on your alchemy?”
+
+“As I said, I have my interests.”
+
+Veron smiled. Then he drank from his tea. An herbal and citrusy taste.
+
+“All of this is just hypothetical. I ask you to listen and to give me your thoughts,” Veron said.
+
+“Just hypothetical, yes. I’m listening.”
+
+“A while ago, I was offered a Pact,” he started.
+
+Warren blinked his eyes.
+
+“To go on an adventure. Just that. I agreed and the being used the Form of Space to bring me here, near Eyra. I came across Ivera. Her and Aren took me in. I learned how to help on the farm and worked with Ian. Eventually, I left for Anvakar. You set me up with Reymond and an adventuring party called the Silver Wolves. They will arrive here in autumn. Are you with me?”
+
+Warren nodded. “Go on.”
+
+“Near the start of winter, a blinding pillar of light will rise from near Leiveen. I won't go into details as to what that is, because I think this story is already very hard to believe. Eventually, I was killed, but instead of that being the end, I woke up back in the chambers of the being that had offered me the Pact, and then I was sent back out here. Only now, it turns out that everyone had forgotten about me.”
+
+Warren was quiet for a long moment, then he smiled. “Really?”
+
+“Yes.”
+
+“Well then. That’s a story. By the Mera. You’re serious?”
+
+“Hypothetically, yes.”
+
+Warren sipped from his tea and smiled, then shook his head and laughed. “I’ll try to entertain you then, and I’ll try to ignore how you know Reymond and Ian. You died and came back, and you’re implying that time has turned back with it. Time magic of that extent is a ludicrous proposition. Any magic of that scale. Absolutely out of any scope that even the boldest heads at the Academy would entertain. I don’t believe it’s possible.”
+
+“It is. Hypothetically.”
+
+“Hypothetically, yes. Do you mind if I ask questions?”
+
+“Not at all, ask away. I’m trying to understand how ridiculous all of it is. And thanks for entertaining it in the first place.”
+
+“Half my time at the Academy we spent thinking of theories and dreams. This one feels different, for many reasons, but it’s essentially just that. First, the Pact. This being offered you an adventure, nothing else? You agreed to go on an adventure?”
+
+Veron nodded.
+
+“That’s peculiar.”
+
+“How so?”
+
+“What I know of Pacts is that the terms need to be clear and defined. They are seldom used, as only few and very powerful people would own a Relic of that aspect, or would be able to cast Fae Path magic on their own. High stakes jobs and contracts only, with high risk or responsibility, specific terms as to when and how the Pact is considered fulfilled, and a whole lot of restrictions. I'm doubting the possibility of your situation simply because you're able to talk about it in the first place. But an adventure? You could simply decide that you had one, and the Pact would be fulfilled, could you not?”
+
+“I asked the same thing, and the being said that yes, if I decided that I’ve had my adventure, the Pact would be fulfilled.”
+
+Warren leaned back slightly. “Alright. The nature of this time magic, can you tell me more about it?”
+
+“As far as I understand right now, and this is mostly based on what the being told me, note that it refuses to mention time magic or talk about that specifically, whenever I die, I return to its chambers and it sends me back here, presumably in the middle of spring of this year. I've only died twice, so that's the extent of my knowledge so far. My memories and body seem to stay intact, I am healed, and I keep any advancements that I've made in my Path.”
+
+Warren processed for a moment. “You keep your advancements? And all the knowledge that you've gathered. Oh, I mean, that’s… that’s incredible. If that is true, then that means I’d be talking to one of, if not the most powerful being in this world.”
+
+He drank from his tea. Veron did the same.
+
+“You don’t seem particularly happy about that,” Warren said.
+
+“It’s just… a lot to think about. Yes, the possibilities are vast, but right now, I'm here. A Modest Path fixing roofs.”
+
+“That you are, I suppose. I’ve got some thoughts.”
+
+“Go on.”
+
+“This being, if it didn't mention time magic in the Pact, I'm pretty sure that it means it lied or omitted something important about this adventure. That in itself shouldn't be possible, at least based on what I remember. You could ask an expert on the Form of Pacts, though finding one will be difficult.”
+
+“Why do you think it lied?”
+
+“I feel like the time magic in all of this is very central. Omitting it from a Pact that involves it shouldn't, as far as I understand, be possible. Are you sure the Pact formed?”
+
+Veron looked at his arm but there were none of the runes present that he saw back then. But he could feel it still. If he focused, he knew the Pact was still there. “It formed. But that's interesting to learn, I'll look into that.”
+
+“Hypothetically of course. The way you talk about all this… it’s the truth, isn’t it? Or you believe that it is.”
+
+“I don't know if I should confirm or deny. You would probably think I'm crazy, so let's just say I'm not sure.”
+
+“I would, though I've heard madmen preach, and they've always been very sure about their claims. But if you've already lived through the future, I see an easy way for you to prove your story.”
+
+“Knowledge I shouldn't possess.”
+
+“Yes. Though even then, even if you predicted some incredible things with accuracy, I would still rather believe you were some rare talent in Divination, rather than a man going back through time.”
+
+“That is fair. I wouldn't believe it either, or maybe I would just go with the flow and entertain the idea. I can tell you some of my divination secrets later, Though I'm not sure I know enough by now to help you out a lot.”
+
+“I'm certainly interested in hearing your predictions either way.”
+
+“Predictions and warnings, I'm afraid.”
+
+Veron would tell him what he knew, but even if Warren believed his word about when certain things would come to pass, he didn't know if leaving Eyra was safer than staying. He assumed as much but there were more chaos beasts and Herasar on the road to the north. And going south would likely keep them in the range of the curse.
+
+It bothered him. Knowing that the curse was coming, and knowing there was precious little he could do about it at the moment.
+
+“So then, powerful time magic being, what do you plan to do with all of this then?” Warren asked.
+
+Veron considered. Then he smiled.
+
+“Well. I've got 85 silver to my name, and maybe a way to get to Anvakar. I'll find a team, and go back into the dungeon. I doubt it’ll be enough to help me figure out or prevent anything bad from happening, but it’s a start. That's the plan. At least for now.”
+
+“At least you don’t seem to suffer from illusions of grandeur. I'll talk to Cat, without mentioning any of this of course.” Warren stood up and sighed. “One way or the other, you’ve definitely thought up some crazy ideas, Veron. Now, I know you don't want to confirm or deny, but I'm at least curious about your future knowledge.”
+
+Veron nodded and asked for pen and paper. “I'll share what I know.”
+
+“That will be interesting to get through. I suppose maybe by the end of the year, I’ll have a different opinion on all of this.”
+
+Veron smiled. “Maybe. Thanks for the chat either way, Warren. It feels good to share all these hypothetical thoughts in my head.”
+
+“Of course. Happy to hear them. I’ll let you write, come down when you’re ready. I don’t suppose you have a pack or anything?”
+
+“I don’t.”
+
+“Then maybe we can throw something together.”
+
+“Thanks, Warren. I really do appreciate it.”
+
+“That’s all good. Feel free to pay it back when you’re rich and powerful,” Warren said and winked. “This chat reminded me of my early years at the Academy. Thank you for that,” Warren said before he closed the door.
+
+Veron exhaled, and took another sip of tea.
+
+That went reasonably well.
+
+He now knew that time magic wasn't officially recognized. Which meant he would have to be even more careful with whom he talked to about all of this. Nor had Warren brought up some historical event or legend that sounded similar, which could have pointed him in a direction. Veron had already considered the Pact strange, but now he was even more suspicious. Something was going on with how Envolon had set that up, and he wanted to find out what that something was.
+
+Veron found that he mainly felt relieved. To have shared all of this with someone and not outright been dismissed. Of course, he assumed that Warren didn't really believe him, but he had listened and seriously considered everything. It felt like enough for now. Maybe next time would be different.
+
+Veron outlined the major events he knew about and roughly when they would happen. The death of King Orven of Felrak, the tensions and war with Sor. The Navorok, and potential dungeon branch. The increased chaos beasts, Reymond and the Silver Wolves. He wrote about the secret passenger that traveled with the group, the Herasar in the Palewoods, and finally the curse.
+
+Will it happen the same as last time?
+
+Veron wondered. Yes, his actions would change the world but what about the world at large, even without him there? Would people make the same exact choices? Would battles have the same exact outcomes? It was the question of determinism. And he didn’t have the answer.
+
+What he knew however, was that Ivera still protected Eyra. The roof of the Downwater Inn had still needed fixing, and he knew that adventurers would still seek adventure. One way or the other, he would assume that the pieces in the world were in place, to lead to the same or at least similar events as he had experienced before. And so he planned with that in mind.
+
+Veron didn't know if what he wrote down would be enough to convince Warren or anyone else here to leave the village before winter. But without any of them knowing him, at the very least, he knew that Warren had a much better chance of convincing any of the others.
+
+When he was done, he added another goal to his plans. To figure out if the curse would hit Eyra. If the curse did happen again.
+
+For now though, this was what he could do.
+
+Veron returned downstairs and found the hunters loading up the carcass of the blood beast onto a wooden cart. Warren was chatting with Cat, a short haired woman with a few prominent scars on her face. She was a little shorter than Veron but sported at least as much muscle. Dressed in studded leather armor, she gave him a glance and nod.
+
+He walked up to them and greeted her. Her handshake was firm.
+
+“You're the Elemental Path looking for a ride to Perrion?”
+
+“I am, name’s Veron.”
+
+“Cat. I assume you're familiar with traveling in the wild?”
+
+“I am. Both in and outside the dungeon. I assume you have at least one trapper with you? For the night.”
+
+Cat blinked her eyes and nodded ever so slightly. “Yes we do. Jayce over there, and Hverto. You’re looking to get to Perrion?”
+
+“To Anvakar, but Perrion is a good start. I’m willing to pay a fee, but if you can use someone with an Earth Harmony on the road, I’m happy to assist as well.”
+
+“I’m sure we’ll find something for you to help with. No need for a fee either, we’re going there anyways. I'll warn you though, you start anything with any of our crew, and we'll leave you behind.”
+
+“Of course. Good to meet you, Cat. Looking forward to traveling with you.”
+
+“Yeah. We leave an hour after dawn,” she said and gave him a slight nod, then turned back to her crew.
+
+Veron watched them work for a moment and then left, wondering if they had already extracted the essence of the beast.
+
+Easier than expected. But I guess that’s Warren too. The word of someone trusted carries a lot of weight.
+
+Tomorrow, he would start his second journey north. Back to Anvakar, and to the dungeon.

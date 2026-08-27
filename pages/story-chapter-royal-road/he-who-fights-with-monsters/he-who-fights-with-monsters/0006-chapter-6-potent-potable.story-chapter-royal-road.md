@@ -1,0 +1,89 @@
+---
+id: 3bfdd3c5-734d-59de-b2d6-7846575bd893
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: Potent Potable"
+slug: 0006-chapter-6-potent-potable
+partOf: he-who-fights-with-monsters
+position: 6
+ownLength: 1421
+unit: words
+ownProgress: 1421
+publishedAt: 2019-07-30
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/387065/chapter-6-potent-potable"
+royalRoadId: "387065"
+markedReadAt: "2026-06-29T19:03:58.708Z"
+---
+
+Jason, as a rule, enjoyed waking up. He loved the brief hazy moment between dream and reality, shrouded in warm, soft bedding. Even awaking in the soft grass of the hedge maze hadn’t been an unpleasant experience. It was very different from regaining consciousness at the bottom of a dark well, soaked in filthy water and entangled in the corpse of a dead snake. He ignored the screens that had popped-up while he was unconscious. They shrank away to hover inconspicuously in the periphery of his vision.
+
+His left arm was pinned under some rubble, a chunk of fallen masonry from the well from above. He didn’t feel any pain from it, which was good, then realised he didn’t feel anything at all from it, which was bad. When he tried pulling it free the pain arrived in full force, his screams reverberating up through the well.
+
+Holding his left arm as still as he could, he rolled the chunk of masonry off with his right. It wasn’t insurmountably heavy, but he had to hold back more screaming with gritted teeth. He couldn’t examine the freed arm properly in the dark, but it was hot and swollen to the touch. Even probing it gently with the fingers of his good hand sent ripples of pain radiating through it. He was confident it was broken and started carefully applying all the healing ointment he had left. The swelling reduced and the skin cooled, but the arm was still delicate and painful to move. The ointment didn’t seem effective on the bone-deep injury it couldn’t reach.
+
+There was so much of the snake that he was laying on its dead body rather than the bottom of the well. Jerking his foot free of its coils sent fresh pain spiking through his arm. It took multiple attempts to struggle to his feet, using his good arm to yank himself upright with one of the wall rungs. Each time he achieved some precarious stability, his stomach roiled and he threw up, dropping back to his knees. Vomit spewed out in fits and starts, even as the motion drove new pain into his injured arm.
+
+He finally made it to his feet, holding himself up, using a rung for support. He drew ragged breaths, exhausted just from the effort of standing up. For the first time since climbing down the well he was grateful for the cold walls, ignoring the wet as he pressed his back into the cool surface. His head swam, pulse pounding through it like a hammer. His stomach churned with the threat of secondary eruptions.
+
+It wasn’t the worst he’d ever felt. The worst was after eating one of his Great Aunt Marjory’s casseroles, which led him to taking up residence in his parent’s bathroom for ten hours. For all her efforts to push Jason into the waiting arms of the Lord, the closest she came was food poisoning so bad it had him praying for death.
+
+Jason looked down at the snake, its incredible length piled up at the bottom of the well. It was big enough that there wasn’t anywhere for Jason to stand except on the snake itself. The largest individual piece of shattered masonry had crushed the creature’s head against the bottom of the well. Either the hefty chunk or the snake itself could have killed Jason, but wild luck led to one danger handling the other.
+
+He glanced up at the blue circle of sky, uncertain of how long he had been unconscious. He had to decide between climbing back up the well or going back through the tunnel, neither of which seemed easy with a busted arm. He put off the unpleasant choice and looked at the windows he had been ignoring.
+
+“Sure,” he said wearily, then froze. Belatedly remembered that monsters dissolved into stinking smoke when they were looted, but to his relief and surprise, that didn’t happen. All he felt was the snake shift a little under his feet. He looked over the list of items he got from the snake.
+
+Unlike every other monster Jason killed, the snake didn’t turn into a stench cloud and didn’t produce a monster core.
+
+“I need to learn the rules of this place.”
+
+He took a look at the next screen.
+
+Quest: [Time to Run]
+
+“Hidden objective? I just fell on it; that seems kind of cheap. Wait, why am I complaining? Get it together, Jason.”
+
+He checked the last window.
+
+Quest: [Secrets of the Well]
+
+“Well, if you’re only going to complete one quest objective, ‘don’t die’ is a winner.”
+
+There were new items in his inventory, but his only interest was in something that could fix his arm. Looking over the icons in his inventory, nothing stood out. Suddenly Jason remembered the wizard who drank what he called a recovery potion. He looked up at the ladder leading out of the well and realised that between his bad arm and what was probably a concussion, he was more likely to fall back down than reach the top. A return to the tunnel wasn’t an appealing prospect, but at least he couldn’t fall if he was already on his hand and knees.
+
+The tunnel proved trickier than he hoped, every nudge sending agony through his cradled arm. He had to stop frequently and let the waves of pain subside before moving on. Finally he reached the wooden walkway, collapsing onto his back. There was light, the lamp laying where he had cast it aside in his mad flight from the snake.
+
+After resting awhile he pushed himself stumblingly upright and started shambling down the walkway, lamp in hand. He moved slowly. He’d learned his lesson about the slippery wood, but also it was the top speed he could muster. Eventually, he reached the still-open metal door.
+
+“How did a snake get this open?”
+
+He glanced at the wheel mechanism on either side. Part of the wheel was wet with what may have been saliva.
+
+“Did it use its mouth? No way.”
+
+Not sparing more than a moment on curiosity, he made his way to the desk he had seen the wizard get the potion from. It wasn’t hard to find, being one of the few pieces of furniture not overturned. Jason’s eyes avoided the body still on the floor as he navigated the debris of the trashed room. The drawer was still open, and inside was a small rack for vials like the one he had seen the wizard drink. Only one vial remained and Jason carefully picked it up.
+
+Item: [Recovery Potion (bronze)] (bronze rank, rare)
+
+Potent potable with strong healing and mana recovery effects (consumable, healing).
+
+The vial was quite small, about the size of a rifle cartridge. Jason pulled out the stopper and tipped it back in a gulp. It tasted remarkably like strawberry schnapps and Jason’s unruly stomach settled the instant the potion arrived.
+
+“Nice.”
+
+The stinging sensation Jason associated with magical healing started seeping into him, especially his head and injured arm. It was worse than what he had experienced before, whether because of the nature of the injuries or the potency of the potion. It didn’t bother him; compared to the pain he was already in, it was nothing more than a tickle.
+
+He lay on the floor taking exhausted breaths. His head was still full of cotton wool, but the constant throbbing was gone. His arm didn’t seem to be broken anymore. The pain was gone and mobility was restored, but it still felt delicate and weak. In the periphery of his vision was a trio of small icons slowly shading over. When he focused on them they grew larger for him to examine. They were all squares with a picture of a potion on each, one red, one yellow and one blue. They were mostly greyed-out, but the grey was slowly dropping off as a timer underneath each counted down, with just under ten minutes remaining.
+
+“Cooldown timers. That’s fancy.”
+
+He pushed himself to his feet, much easier now than back in the well.
+
+“Alright,” he told himself. “Damaged, but operational. So what next?”
+
+He shone the light around until he found the dead body of the wizard, walking over to look closer. There was an eerie stillness to it that only came from death.
+
+“I’m sorry,” he told it. “I think you might have had it coming, but I didn’t want it to go that way.”
+
+He knelt down and closed its eyes.
+
+“What’s a builder cultist?”

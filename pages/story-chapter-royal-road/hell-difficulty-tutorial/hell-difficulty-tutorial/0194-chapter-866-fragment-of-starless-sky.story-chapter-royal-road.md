@@ -1,0 +1,191 @@
+---
+id: 72d4c451-1e8d-5bc5-bae0-9495382924a3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 866 - Fragment of Starless Sky"
+slug: 0194-chapter-866-fragment-of-starless-sky
+partOf: hell-difficulty-tutorial
+position: 194
+ownLength: 3442
+unit: words
+publishedAt: 2026-08-23
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3855553/chapter-866-fragment-of-starless-sky"
+royalRoadId: "3855553"
+---
+
+There are way too many people here for me to even think about spending the mental effort to take note of them all. Plus, Adrian’s words still weigh heavily on my mind. He said it all so simply, yet that’s something I’m sure he’s entirely capable of doing.
+
+Project Sundial… the only reason I know anything about it is curiosity, if I remember correctly, it was a doomsday plan some crazy guy concocted back in the Cold War? A plan to bury hydrogen bombs underground, and in the event it seemed like America was going to lose, the idea was to set them off and theoretically destroy all life on Earth? One last, spiteful declaration that if we don’t survive, then you won't be alive much longer to enjoy your victory either.
+
+So I watch Adrian as he chatters away over there, so easygoing. He must know my emotions. He must know what little effect such a warning has on me, yet he said it anyway. Just to make fun of me, or to annoy me. He doesn't even bother trying to pretend in front of me anymore, much less play the part of Earth’s savior.
+
+Does it feel like a relief for him to be able to show this side to someone? Or does he not care for words, continuing to believe that his actions will show his true intentions all on their own, a sentiment I strongly agree with? Is this just his way of making fun of the younger generation, mixed in with a hint of truth?
+
+And could I fight and defeat him right now if I actually went for it?
+
+Taking a deep breath, I quickly calm myself down and bring my mana back under control.
+
+“Mind if I have a word with you?” a soft voice sounds by my side. I turn toward it to face Felix Maro. One of the disciples of the Ruler of Temperance, and someone who started his own journey in Beyond two thousand years ago. He is a lumoran, with half of his body tinted pitch black as his race usually is, while the other half is covered in pale blue crystals. Though his look more like vitiligo rather than actual crystals growing out of him, resembling some sort of skin condition.
+
+“I don't mind,” I say.
+
+He smiles gently and gestures for me to follow as he begins to walk. With incredible ease, he forms a barrier around us, the kind meant to prevent anyone from listening in on our conversation.
+
+“I have spoken with my master, and if needed, he will manifest through me,” he says simply, as if it were trivial. “The Ruler of Temperance will protect the planet, and my master, if necessary, will forcefully end your Beyond quest to send you back.”
+
+“You won't stop being mysterious and just straight up tell me everything?”
+
+“I apologize,” he says, and his expression actually looks like he means it. “We aren’t supposed to interfere too much with the participants. Everyone here will wait until one of you gains the Fragment of Starless Sky and makes a decision as to what to do with it.”
+
+“There’s only one person I can think of that would scare you guys so much that you wouldn't break some informal rule of his,” I say.
+
+Felix Maro smiles slightly. “Just be careful and keep an eye on your sister. I think she’s made a deal with a rather dangerous person.”
+
+The disciple of the Ruler of Temperance then gives me a slight bow and walks away to rejoin Yvaine in conversation before heading off to speak with the other participants.
+
+Meanwhile, I move around the room. I give myself a few moments to observe Euris, the bear man, and the thylarin array specialist, noticing that they’re also talking with their own people.
+
+Envy, Yvaine, and Felix Maro seem to represent the three main factions, each with a different goal that ultimately rests heavily on whoever wins and gets their hands on a fragment.
+
+I am sure Vic has a plan too, and watching her, I find it strange that I don’t know what it is. I know she can’t tell me right now, not without someone spying, and I don't need her to tell me anyway, I trust her completely. Yet, it is a reminder that she’s also been going through the tutorial, meeting people, and planning things out on her own. There are a few things I think she’s likely to be focusing on, so I spend some time thinking about them as well.
+
+I grab a few snacks and spend an hour having a conversation with a friendly vyssari who introduces himself as Prince Kip’s uncle. He laughs and tells me he has been donating to us, explaining that there were apparently efforts by others to place negative effects on me and Vic, but there was also an option to bid higher to ensure those effects weren’t applied.
+
+We then somehow get into an argument over which mana attribute is truly the best. He strongly defends Potency, while I fight for my beloved Amplification.
+
+Soon, it even comes down to an exchange of insults as we each put down the other’s opinions, but none of it feels ill-spirited. He seems to be having a lot of fun with our conversation, too.
+
+After a few drinks, I get him to show me a photo of Prince Kip from when he was a baby vyssari, and indeed, every young vyssari reminds me of how Zant looks. It’s as if whatever Ruler created the vyssari race by imbuing them with wyvern blood, intending to create mighty warriors, instead made a genetically superior race when it comes to the cuteness of their young.
+
+During this entire thing, Melek continues to do his job, though he does so more and more half-heartedly. He’s still smiling and charming, but he continues to drink and grows much less patient as time goes on, not seeming to care if he’s insulting people or being cruel, as if his real personality were rising to the surface.
+
+And when the time for the last game finally comes, he climbs onto the platform and bows deeply toward us all.
+
+“Thank you all for participating in this shitshow sponsored by… well, fuck them too,” he smiles brightly and takes a deep breath. “It is indeed an amazing feeling to have something I gave so much of my life to turn into this sort of mess... this is trash.”
+
+He looks at his palms and closes his hands into fists before opening them again. “I hope our precious spectators don't mind my lapse in professionalism, and if you do…” Melek looks over at Envy, Felix Maro, and even the vessels in attendance, and smirks, “Well, fuck you too, in particular.”
+
+As he slaps his palms together, the lights flare up behind him, creating beams that reach the sky as dawn draws closer and closer. There are small particles of sand floating in the air, glittering beautifully, causing them to look like stars glinting in the night sky.
+
+“Why don't we start then?” Melek says, pointing toward the pillar miles away in the distance. “I had a beautiful game planned, but why bother? Let's make it simpler, more brutal, more enjoyable to watch, shall we? The objective is simple: go. Rush the fragment. Kill everyone in your way to get to it, or give up and run away.”
+
+The selari Melek starts unbuttoning his shirt. Then, taking off his jacket, he throws it away, pulling the shirt down as well to reveal a muscular and heavily scarred body.
+
+“I went over the rules, and there’s a clause that allows me to make such changes, and I don’t believe that person is going to mind either. After all, the fragment must be earned. And hey, if I get to screw over the plans of some of you assholes, why not? Go against that person's direct order and try to take the fragment before the Game ends. But I bet you won't.”
+
+Like heat over a flame, mana starts rising up around the face of the game. It coils around him, washes over him, and pulses in waves. The sheer size of it continues to grow as he ramps it up, letting his mana heart go wild.
+
+It is a disgusting amount of mana from a man who, as I have learned, refused to become a Champion because of how much he enjoyed stomping his lessers into the dirt, without being overwhelmingly more powerful than them.
+
+He’s already been the face of the game for two hundred years, and he himself won the Game before that.
+
+“This is the most live viewers The Games have ever had, by more than double. There are even some individuals running a pirate stream outside, so why don't we give them something fun to watch? You’ll have to kill me to get to your prize. You will be starting in ten seconds.”
+
+With that said, Melek jumps high into the air, and by releasing a huge amount of mana like a booster, he pushes himself toward the pillar in the distance at high speed, remaining floating in the air near it.
+
+The countdown starts, a count that everyone’s keeping in their head.
+
+Most of the spectators at this point have cleared the scene, leaving just a few people waiting behind. Some of the remaining ones lift themselves high into the air, and the tension increases. The sides that seemed somewhat neutral now eye each other, looking as if they might start fighting at any moment.
+
+The bear man, Euris, and the thylarin array woman get ready, as do the remaining two dozen participants who haven’t already fled.
+
+And then there’s me and Vic.
+
+Though I’m breathing calmly, I feel my heart begin to race, and my focus sharpens. There’s that tingle at the tips of my fingers and a feeling like cold water starts enveloping me, the kind that almost forces your body to shake, not out of fear, but out of a desire to take action.
+
+The countdown continues, and at the last second, someone shoves a table nearby. In the silence, the glass shattering on the floor sounds like a gunshot.
+
+The entire podium explodes under the bear man’s telekinesis, and two of the participants who are unable to press back against his skill get compressed into a ball of flesh and bone. The bear man swings his arm, further annihilating the podium and throwing the others aside.
+
+Before he can do more, Euris emerges from a shadow nearby and takes a calm step toward the bear, who notices him and releases everything against the man cloaked in shadow. All of it fails to do much of anything, almost as if his attack were simply sliding off his opponent, and in response he launches even more attacks in quick succession.
+
+Disruption, projectiles, attempts at teleportation, but all fail to do anything, and the bear man slides into a form of body strengthening that shatters the area around him with the excess power. Yet even then, he fails to keep up with Euris, who stabs his dagger through the bottom of the bear's chin and through the top of his head, killing him on the spot.
+
+In the next moment, Victoria crashes into him, and he swings his red dagger to defend himself.
+
+Meanwhile, with a boost that shatters what remains of the podium, I launch myself into the air at high speed, targeting Melek.
+
+I spin in the air to avoid the projectiles tracking me and disrupt them with a single powerful pulse. I see that the thylarin woman building an array, but I focus on it with my eyes, taking it over and weaving my own around it as I continue to expand it. She attempts a few times to take back control, but I track her location, ignore the multiple illusory versions of herself that she’s placed, and find her real body.
+
+Through her remaining connection to the array, I send one of my orbs, and the area around her explodes into a huge ball full of thermal energy that burns a few of the other participants nearby.
+
+[You have defeated Ephemeral Contraptionist - lvl 446]
+
+I don't even bother forming a lance, instead, I use my usual super-dense mana javelins, each of them heavier than myself and boosted by kinetic energy. I don't hold back at all as they shoot out at supersonic speed, one after another, cracking and breaking barriers to catch up to the speedier participants.
+
+A few explosions crash against the barrier I’ve raised. Someone gathers power for a large-scale attack, but I just throw more mana at it, making my barrier so that it cuts off all sound to the outside while the attacks merely ripple across its surface.
+
+Floating there in the air, I use my eyes to track each and every one of them, bombarding them with similar attacks of my own, just with vastly more mana.
+
+The longer I fight, the more I let myself go wild, channeling it into my skills and turning the desert around us into a landscape filled with craters. Primordial lightning barely ripples across my barrier. Nearly all mana based attacks get disrupted or turned against their owners, and my projectiles don't stop raining down as I refuse to let anyone approach the fragment.
+
+At one point, the remaining participants join forces against me. There are five of them, all Absolute candidates. They launch their attacks at the exact same spot and try synchronized disruption attempts, but it’s all for nothing.
+
+I already targeted the participants with primordial energies first. Now, all who remain are forced to use mana-based attacks, powerful as they may be.
+
+I let them feel my frustration from having to hold back and endure this shitty game. I don't move a single inch from the spot, removing them one after another, taking over their attacks, breaking their barriers, and rendering all their mana completely useless in my presence.
+
+And when they are gone, I float there, hanging in the air, pulling all the stray particles of mana in the area toward me and feeding them into my spinning mana crown.
+
+With a boost of kinetic energy, I launch myself like a rocket toward Melek, who’s still floating in the air. My barrier is gone now, as I pull it all close over my skin to create a constantly shifting defensive layer.
+
+The face of The Games smiles, spreading the arms of his scarred body wide as his mana radiates outward with incredible pressure. In quick succession, three attacks slam against me, each of them powerful enough to erase a city, and each one lights up the dawning desert.
+
+But I don't even try to disrupt them, I just let them hit me. I also block his projectiles and fight against the pressure, attempting to disrupt my own mana. Just like him, I let my mana rush out as I face my fellow Amplificator, someone like me with his own bottomless well of mana, allowing him to launch bombardments of his own.
+
+My mana is like a torrential wave, while his is like a firestorm. They become visible as they meet in the air.
+
+But where he is reaching his maximum output, I continue to dish out more. Where he begins to have trouble channeling it all, I’m only getting started, and my mana sweeps his away, suffocating his pressure as I reach him.
+
+Instead of continuing to fight me this way, he coats his body in defensive barriers and uses a powerful form of reinforcement.
+
+I match him by reinforcing my body and weaving mana together with kinetic energy. I duck under his attack, then, despite the sheer amount of information my mind is currently being forced to handle, I use my eyes to read the frequency of his barrier, and my own resonates to match it perfectly.
+
+My fist hits his face, and he staggers back. Boosting myself ahead, I catch a punch he throws my way, punch his face again, and then, with a burst of speed, I do it a third time.
+
+Melek staggers back, releasing his mana in a wave of pressure that blows away tons of sand and cuts into my barrier, but I step through it. I strengthen my body further, punching him multiple times over. He sways and plants his feet, letting out a battle cry as he charges at me.
+
+After letting one of his hits land against my barrier, uselessly rippling against it, I punch back at him again. His jawbone tears away from his face with the force of the punch as he staggers and falls to the ground, trying to keep himself conscious. Even now, he is chuckling and pressing himself to stand up. Not for a moment does his mana stop moving, still trying to attack me as it rages around us.
+
+Looking down at my bloodied fists, I say, "I’m sorry, I thought you would be stronger."
+
+A glow of mana appears on the tip of his finger as if he means to write something, but then he just stops, holding his finger there. Instead, he turns to the camera drone in the distance and bows.
+
+Then he explodes, releasing all the mana he’s been gathering for who knows how long in a fraction of a second. It is an explosion destined to spread for miles and miles across the area.
+
+I grab it all, usurping the flood of mana and pressing it into a compact space. It vibrates and fights to be released, but I keep pressing and pulling it toward me. I move my hands together with my palms facing each other, and between them, I hold all of that mana in the stable form of a tricolored orb.
+
+Then I break it apart, pulling it into the whirlpool that is the crown over my head, and boost myself toward the pillar where the Fragment of Starless Sky rests. There is no one else left to fight me for it. Even the remaining spectators move closer, some on the ground, others floating nearby.
+
+Stopping there, I don't reach out to touch it, choosing to wait instead.
+
+“Take it. Give the fragment to me, Nathaniel,” Yvaine says, and just from her speech, I know it’s Ruby talking through her.
+
+She moves closer, but even she refuses to grab the fragment.
+
+The sound of soft steps echoes on the sand as Victoria makes her way toward me, holding the glowing red dagger Euris once owned. She taps my shoulder and gives it a soft squeeze that means more to me than a minute-long hug from anyone else.
+
+“Nathaniel!” Ruby calls to me.
+
+I look her in the eyes, and whatever is in mine instantly silences her.
+
+Victoria then places her hand on the fragment and takes it, but she doesn't take it for herself.
+
+My sister stabs her hand into the middle of her chest and pulls out a small, tiny orb that gives off no energy signature at all. All of the figures remaining here move closer, but they wait for the victor's decision as Victoria squeezes the orb and throws it to the ground.
+
+In the next moment, a tear appears in space, and two figures step out from it.
+
+A replica of the Last Elf smiles brightly as he looks over everyone present and moves his red hair out of his face. The other figure is entirely covered in a cloak.
+
+"As per our deal," Victoria says.
+
+"As per our deal," the elf confirms, nonchalantly taking the fragment from her.
+
+His body then moves as quickly as a striking snake as he stabs his hand through the chest of the cloaked figure, burying the fragment within its torso.
+
+The figure's cloak falls away, revealing an old man, and all my attention is pulled to the blood flowing from his chest. Then I notice the dozens of Fragments of Starless Sky embedded all throughout his body alongside dense inscriptions, and blood flowing from fresh wounds around the fragments. And that blood is Empyrean Ichor, incomparably purer than mine.
+
+At that moment, the Last Elf declares, "By the power of the Empyrean bloodline bound within this system-defying vessel, with every shattered fragment finally unified in one frame, and through the culmination of millennia of labor, I awaken he who once stood among the mightiest."
+
+The dawning sky turns a shade darker, as if the stars are being drained of their radiance.
+
+"Awaken, Godking. Awaken Starless Sky."

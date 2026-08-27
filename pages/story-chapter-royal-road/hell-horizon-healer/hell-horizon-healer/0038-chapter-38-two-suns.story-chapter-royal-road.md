@@ -1,0 +1,165 @@
+---
+id: e1181998-e7d4-5d5a-a9a2-0dbdb76ccc32
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38 - Two Suns?"
+slug: 0038-chapter-38-two-suns
+partOf: hell-horizon-healer
+position: 38
+ownLength: 1579
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3797275/chapter-38-two-suns"
+royalRoadId: "3797275"
+---
+
+Chloe rushed forward and grabbed the girl by her shoulders, falling to one knee. “What have you done?”
+
+“I want to become strong,” Hanna said, blinking innocently. “Like all of you.”
+
+“We don’t even know where we are, Hanna,” Chloe said, her voice shaking as she took in the new floor. The fire door had vanished seconds ago, leaving nothing but solid concrete. “We don’t know if we can even go back.”
+
+“That’s fine,” Hanna shrugged. “I have Pom. He will protect me. So will Jake!”
+
+Wait… what? Jake thought. I can hardly protect myself.
+
+Chloe seemed to share the same sentiment, though for different reasons. She stood up, pulling Hanna firmly against her side. “What do we do?” she asked, looking at Jake.
+
+Jake didn't answer right away. He was too busy watching Chloe's hands.
+
+When did she get so protective? It looked like they had some kind of history together, especially with how comfortably Hanna leaned into her. But given what he knew about Chloe, it didn't sit right.
+
+Was she acting again?
+
+Did she want to keep Hanna close just to use her as a shield later? Or worse—was she planning to sow chaos just to get stronger?
+
+Jake let out a slow, heavy breath through his nose. He didn't want the burden of a kid. He didn't want the liability.
+
+But looking at Chloe's tight, desperate grip on the girl, something peculiar won out. Care? Regardless of what it was, he wasn't going to let Chloe play whatever twisted game she was planning.
+
+“We can’t even protect ourselves,” Sloane whispered.
+
+Just as Jake was about to impose himself between Hanna and Chloe, Glenn pulled his attention away.
+
+“Can we ignore the girl for a moment?” Glenn neared the edge of the building they had spawned on and peeked over. He stumbled back, face pale. “Holy shit that is far down. What do we do? Panic? Because I’m already doing that.”
+
+Edwin’s gaze was frozen on the landscape. Some towers looked just like modern apartment buildings, some old, some new. Some were completely alien; castles elongated up to the clouds, medieval in every way. Some looked eastern, some looked like something out of a sci-fi show. All of them were the same, long enough that even looking up, seeing the top was impossible and wide enough to house thousands.
+
+Or store unthinkable monsters.
+
+“Just what is this place?” Edwin muttered
+
+“Edwin,” Lyle’s sharp words cut through the amazement. “What do we do?”
+
+Edwin snapped out of it, shaking his head. “We are in no condition to survive another engagement. We find somewhere to hunker down, away from any monster, and do our best to recover.”
+
+Where was the question? The entire place was a labyrinth of rising steel and stone. Monster screams echoed across the buildings making it impossible to tell how near or far they were.
+
+In the distance, a pillar of smoke rose from one of the buildings. It looked like a medieval tower with an enormous portcullis housed in heavy stone walls. Unlike the other structures surrounding it, this one had only one entrance.
+
+Weak, orange light bled from the slender windows.
+
+Jake pointed to it. “We should go there.”
+
+Edwin followed his finger, then frowned. “Humans?”
+
+“Could be?” Sloane said. “Could be something designed to make us want to go there.”
+
+“Regardless, it’s too far,” said Edwin. “We’ll try heading there in the morning. As for if it's a trap? We'll scout it out first. Just two or three of us, get in quick and close and stay just long enough to get a good look.”
+
+And night was fast approaching. The interlocked suns, one alive, one dead, began dimming ever so slightly.
+
+That’s… not normal.
+
+Crack.
+
+Jake approached the edge of the building and looked down. Stood in the middle of a far, swaying bridge between buildings, was one of those bald statues. The world turned a little darker. And then all of a sudden, a small crack formed on the statue.
+
+Another second passed, a larger crack, this one splitting from the back of its head, spreading over and cracking right down from skull to waist.
+
+Seeing Jake's eyes turn serious, everyone joined him at the edge.
+
+Chunks of rock split off the statue, revealing pale, dead flesh beneath. It started moving, limbs twisting and snapping. One side of its face was laid bare, revealing the red, sinister eyes of something monstrous beneath the rock.
+
+All around them, the sound of rock splitting echoed throughout the world.
+
+The orange sun died, plunging the world into a deep dark. The light in the distance was swallowed whole.
+
+A second later, the sun behind blinked to life, revealing a red as deep as the eyes of the monster.
+
+It crouched down, then snapped up, screaming.
+
+“What—”
+
+Jake, in a panic, latched his hand across Glenn’s mouth, but it was too late.
+
+The bald humanoid cracked its head towards them. Even though they were at least fifty meters away, double that above, the creature had locked onto them.
+
+“Fuck,” Edwin’s breath hitched. He turned. “Run!”
+
+They ran.
+
+Every step was pure agony. Jake’s broken left arm hung like a dead weight, the muscles he had forced to contract now throbbing with a dull, sickening heat.
+
+Beside him, Glenn was limping heavily. Edwin’s stride was uneven, blood leaking through his trousers from the arrow graze. Susan was barely hanging on by a thread. Jake pushed a heal into her weak frame the best he could with what little he had left.
+
+They were a pack of wounded animals, and the thing behind them knew it.
+
+A deafening roar shattered the night air.
+
+Jake glanced over his shoulder. The pale, half-ancient robed creature had launched itself off the bridge. It was scale-climbing the vertical face of the neighboring tower with terrifying speed, its fingernails gouging deep trenches into the solid masonry.
+
+“Where?” Sloane panicked, dragging her legs forward. “Where are we going?”
+
+“Down!” Edwin shouted, pointing toward a narrow metal stairwell that clung to the side of their building.
+
+They scrambled onto the iron grating. Jake went first, his sickle retracted but the heavy chain still wrapped tightly around his good forearm. He scanned the dark landing below.
+
+The red sun cast long, bloody shadows across the metalwork, making it impossible to see where the stairs ended.
+
+Think, Jake told himself, forcing his breathing into a strict, mechanical four-second loop thanks to Controlled Breathing.
+
+His eyes locked onto the concrete wall beside the steps. Strung along the masonry were thick, rusted steel cables, held in place by massive iron brackets. Chiseled directly into the stone beneath each bracket was a series of repeating, geometric grooves—three vertical slashes inside a circle.
+
+The slashes were freshly cut. No dust had settled in them.
+
+“Follow the markings!” Jake yelled, his voice cutting through the rising shrieks of the horde waking up across the city.
+
+He didn't wait for Edwin's approval. He vaulted over the handrail, dropping five feet onto the next platform where the next set of slashes pointed deeper into a recessed alcove.
+
+The rest of the group tumbled down behind him. Hanna was tucked firmly under Chloe’s arm, the little girl staring back up at the sky with wide, unblinking eyes. Pom dangled uselessly from her hand, his plush face pressed against her hip.
+
+The scraping sound of claws on stone grew closer. The monster was over the lip of the roof now.
+
+“Hurry!” Lyle gasped, his lungs burning.
+
+The alcove ended abruptly. Set deep into the concrete structure of the tower was a massive, solid iron door. It had no handle, no keyhole—just a heavy manual deadbolt the size of a man’s thigh, currently thrown wide open.
+
+Jake reached it first. He grabbed the edge of the heavy iron plate with his good hand, his boots slipping on the slick moss.
+
+“Get in! Now!”
+
+Sloane and Glenn lunged through the gap, tumbling into the pitch-black room beyond. Chloe followed, shielding Hanna with her body as Edwin and Lyle shoved her through the threshold.
+
+A shadow fell over the entrance.
+
+The pale, dead-fleshed thing dropped from the ceiling above, landing squarely on the metal stairs five meters away. Its jaw unhinged, revealing rows of needle-thin teeth, its crimson eyes locking onto Jake.
+
+It lunged.
+
+Edwin along with Arthur, slammed their weight against the inside of the door, and Jake threw his entire torso into the frame from the outside, wrenching it shut.
+
+The massive iron slab banged into the frame just as the creature hit the exterior.
+
+The impact was catastrophic. The solid iron warped inward, the center of the door bowing toward them with a horrific groan of metal. The top hinge sheared clean off the wall, spraying concrete dust into Jake’s face.
+
+Jake fell backward onto the floor, his broken arm barking in protest as the shockwave rattled his ribs.
+
+A second strike hit the lower half. The metal dented further, but the heavy deadbolt held.
+
+Outside, the creature let out a muffled, frustrated screech. It dragged its claws down the iron exterior—a long, screeching wail that made everyone’s teeth vibrate—before the sound of its footsteps began to fade, moving back up toward the roof.
+
+The cavernous room fell completely silent.
+
+Nobody moved. Nobody breathed.
+
+In the absolute dark, the only sound was the heavy, ragged gasping of seven terrified people, and the slow, rhythmic tick of the warped door settling into its frame.

@@ -1,0 +1,163 @@
+---
+id: b43692dc-a7f8-5a26-b3d1-9f6b32569948
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1010: Dangerously Exposing Myself"
+slug: 0079-chapter-1010-dangerously-exposing-myself
+partOf: he-who-fights-with-monsters
+position: 79
+ownLength: 2710
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3586663/chapter-1010-dangerously-exposing-myself"
+royalRoadId: "3586663"
+---
+
+In his monitoring room, Simon McKean watched Jason Asano and two of his familiars move through the tunnels of his research complex hidden beneath the French castle. Another screen displayed the third familiar, looking confused and frustrated as it wandered the castle in search of a way down. There was a small drone following it.
+
+“Why is Asano allowing his familiar to be isolated?” Magdalyn asked.
+
+“He’s testing us. And possibly the familiar. He wants to see if I’ll pounce on it in isolation. It is supposedly something called an apocalypse beast, but nothing on Earth has proven a sufficient threat to draw out its full abilities. I suspect that Asano and I are both curious as to how much it can handle.”
+
+“Do you want me to send some vampires after it?”
+
+“No. I don’t know what it can do, exactly, but I know it has developed a taste for vampires. The silvers won’t do any good, and let us not risk any vampire lords on an idle experiment.”
+
+“Few of the original vampire lords remain. Most of what we have now are new blood, reaching lord strength in the last quarter century. They lack the mastery of their powers and the command of blood magic the ancient lords possess. To be honest, I could live with losing one or two of them. They won’t die forever, after all.”
+
+“Don’t be so certain, Magdalyn. Earth forces have already found a way to impede the vine’s revival ability.”
+
+“You said that would only prevent their resurrection temporarily.”
+
+“With the Earth forces, yes. With Asano, it is best to avoid assumptions.”
+
+“Well, I can easily enough send a couple of the new bloods I won’t miss if they don’t come back.”
+
+“Very well,” Simon said. “Do so, and we’ll see what happens. As for the rest of the vampires, send them at Asano. All at once, silver and gold. Hold back only the original vampire lords, if you’re unwilling to risk them. I want to see for myself what he’s capable of.”
+
+“And you’re willing to burn all of my vampires to assuage your curiosity?”
+
+“However this plays out, Magdalyn, the vampire war ends today. The best outcome you could hope for was always taking your closest allies and going into hiding. Now that they’re using the grid to track you, I’m not even sure that’s possible. I might be able to mask a few of you from the grid, but too many and it won’t work. Choose the most important of your vampire lords and give up on the rest.”
+
+“And then what?”
+
+“Then go into hiding. If you don’t get discovered for a few decades, they’ll stop looking and you can begin to rebuild your numbers. You can go back to existing in secret.”
+
+“Your ‘best outcome’ is hardly good.”
+
+“Mine is no better. I too will have to retreat even further into hiding. I’m going to show the world that Asano can be effectively fought, but the world will not thank me for it. The most I can accomplish is to show the world that they don’t have to capitulate to him. Once they realise that he can be fought, then he will be. Sooner or later, humanity will always rise against tyrants.”
+
+“I only care about survival, not your ideology.”
+
+“And right now, you have too many vampires to survive being hunted down. Send them against Asano, so we can see firsthand what we’re up against.”
+
+“Our reports are that he grows in power the longer he fights.”
+
+“I recall.”
+
+“Then why make him stronger before he faces Gerling?”
+
+“To show that even at the fullness of his power, Asano can be effectively confronted. That’s what all of this has been about.”
+
+“I thought it was about killing him. For us, it has always been about eliminating the greatest threat to our kind.”
+
+“I’m not sure he can be killed, although we will certainly be testing that today. Either way, unkillable doesn’t mean invincible. He can be defeated. As for him being the greatest threat to your people, Jason Asano is the greatest threat to all of us. Look at what has come about since his return. The entire planet has undergone a revolution, with him in control, and that’s just the beginning. We’ve caught only a glimpse of the vast and alien powers that exist beyond our world, and his presence draws their eyes upon us.”
+
+“I hate to break it to you, guy,” Nik’s voice came from the speakers, “but Dad is a vast and alien power from beyond your world.”
+
+“The rabbit,” Simon said. “Your powers are heavily related to communications technology, yes? You have used it to access my audio from the surveillance system.”
+
+“It seemed fair, with you watching us. You were smart to not put any cameras in there. I have to use sound mapping to get a look, and that doesn’t produce a colour image. Is your vampire friend pretty? Her silhouette looks pretty. Enjoy it while you can, lady, as you won’t be once Colin is through with you. But you’ll see that in a moment. Your gold-rankers are about to arrive.”
+
+***
+
+All that remained of the first vampire were a few bone remnants, broken open to get at the marrow. They were at the feet of what looked like a blood-drenched mummy, a humanoid figure wrapped in long strips of rag. The fabric was coarse and wet with blood. The body beneath was bulbous and misshapen, not a person but a collection of leeches, bound in the cloth.
+
+The second vampire was more intact, although most certainly dead. Only a hand and a foot could be seen jutting from the mound of leeches roiling over it. Both limbs were half-stripped of flesh to reveal the skeleton beneath.
+
+The stone floor of the castle was riddled with cracks from where vines had grown out, reaching for the vampires. The vines had been quickly set upon by leeches that drained the life force out of them, causing them to wither and crumble. Soon they had stopped emerging at all.
+
+Colin finished the second vampire and the pile of leeches rose up, melting together to form a facsimile of Jason, minus the cloak and with blood orbs for eyes. The mummified body also transformed into the blood clone form. The two Colins looked at each other before setting off, resuming their search for a way underground.
+
+***
+
+Directly beneath the castle were stone tunnels and old catacombs, but moving deeper, they found something very different. McKean’s research facility felt like a hospital in design, with wide hallways connecting various rooms containing benches and lab equipment. As Jason searched the complex, he found signs of a recent and rapid evacuation. Papers were scattered around and broken lab equipment had been left where it was dropped. A refrigerator with a glass door had been clearly picked clean of the most important contents, the rest left behind, often knocked over. Jason only took a quick look through the rooms, leaving Shade bodies to take more time recording everything.
+
+“I can sense all the people,” Jason said. “They’re deeper underground, all together. A bunker, maybe.”
+
+“Or a deathtrap,” Shade said. “Perhaps McKean intends to use them as hostages. You’ve been known to make self-destructive choices to help others, even those who don’t seem deserving of help. McKean may be looking to exploit that.”
+
+“Those people made some choices of their own. We’re at war and they picked the side that keeps people in torture farms. I’ll keep them alive if I can, but I have a long list of people I failed to save. If they end up on it, they won’t be the ones I mourn. Before we deal with them, that vampire army we’ve been looking for is almost here. Mostly silvers, but a few golds.”
+
+Jason looked around. He was in a corridor that was spacious for walking through, but not for fighting.
+
+“These corridors make good choke points,” Shade said.
+
+“I didn’t come here for careful tactics,” Jason said. “McKean wants an epic showdown, and I’m here to deliver.”
+
+Jason flexed his aura, pushing against the walls. Plaster cracked and the steel underneath groaned and then shrieked as the walls were ripped from the floor and ceilings to be tossed into the rooms behind them. Workbenches and lab equipment were shoved away. In a few moments, the corridor had been expanded, the conjoining rooms combined into a single space.
+
+In the aftermath of the destruction, water sprayed from ruptured pipes and light fixtures flickered and died. Much of the now-expanded room was cast in flickering shadow as what remained of the lights sputtered off and on.
+
+“Mr Asano, you may have compromised the structural integrity of the facility.”
+
+***
+
+A small few of the hidden cameras had survived Asano’s destructive renovation, but many of McKean’s monitors had gone blank.
+
+“What was that? Magdalyn asked. “Did he just smash apart steel walls with his mind?”
+
+“His aura, technically,” Simon explained. “Telekinesis is a feature of messenger auras that is related to the nature of their beings. Something to do with the interaction between the physical and the spiritual, but I’ve had little chance to study magic related to the soul. Both Asano and Boris Ketland have been too protective of their messengers to capture any for study. Not without dangerously exposing myself.”
+
+“Why would he open up the space that way? Doesn’t it make it easier for the vampires to swarm him?”
+
+“That’s exactly what he wants. Asano’s greatest weakness is vanity. His powers include powerful stealth abilities, and what does he use them for? Dramatic entrances. In his head, he’s not a shadow dictator, but the only man who can guide humanity into the future. He needs to be the hero. To confront the bad guy and save the day for — and this is the important part — everyone to see. Being nigh-invincible matters less to him than being seen as invincible.”
+
+“To the point that he will make a dangerous fight more difficult?”
+
+“This is not a dangerous fight for him, Magdalyn. You overestimate your vampires.”
+
+“Even Asano has limits.”
+
+“Yes, but they are beyond what can be found on this world. Your vampires are not. Watch for yourself and you will see.”
+
+***
+
+It had been a long time since Jason had truly fought a horde. It took him back to his time fighting the nameless great astral beings in his soul, who wanted to stop him from restoring the cosmic throne. It was a chance to pull out every weapon in his arsenal, from his powers to his weapons to his combat skills.
+
+He moved as an untouchable blur, barely seen as he merged in and out of the shadows that danced under the flickering lights. Only the glowing red runes of his sword stood out, the black blade itself all but invisible in the poor illumination. The sword dealt no killing blows, instead leaving blood gushing from gaping wounds and rot overtaking flesh.
+
+Silver-rankers were sturdy enough that even most gold-rankers could not dispatch them swiftly. Only the likes of Humphrey and Farrah, with their eruptions of damage, could take one down in a few moments. Jason was just the opposite. As he danced through the vampires, he left not dead behind him but the promise of inescapable demise. He marked his enemies, delivering unto them a misery and suffering that would consume the brief remnants of their lives.
+
+The gold-rankers amongst the vampires put up a greater fight, but it was far from enough. Jason honed his skills and mastered his powers fighting everything from monster hordes to the forces that governed the cosmos. His list of fallen enemies included a long and bloody trail of dead vampires. He knew how they fought and what they were capable of. He knew exactly what his powers could do to them.
+
+A gold-rank vampire fuelled a terrible bolt of energy with her own blood and launched it at Jason. It fed on the vampires it passed through on the way, draining their power and leaving withered husks behind. A churning orb of black and red power, it twisted through the air as it hunted Jason down, unrelenting and unstoppable.
+
+When it reached him, Jason drew his cloak around himself until he looked like a living portal to some ineffable void. That proved to be exactly what he was as the bolt passed through, sailing off into a starry expanse from which nothing would ever return.
+
+Other vampiric powers were brought to bear, with no greater effect. When a gold ranker turned into a blood mist to escape Jason’s blade, Jason cast a spell, incanting with a voice as cold as a stony grave.
+
+“Your blood is not yours to keep but mine on which to feast.”
+
+The time it took to recite just a few words could be an eternity at the pace silver and gold-rankers fought. Jason didn’t stop as he chanted the incantation, his sword drawing blood half a dozen times before the words were done. Once he was finished, the battlefield changed in an instant.
+
+The Feast of Blood spell drained the life force from every vampire that Jason had set to bleeding which, at this point, was all of them. Bright red life force lit up the room far more than the mostly shattered ceiling lights. The vibrant red energy surged through the room, yanked out of the vampires to be devoured by Jason.
+
+To the vampire who had turned into a blood mist, Feast of Blood was especially devastating. The cloud of blood motes was consumed as if some vast abomination had drawn a terrible, hungering breath. What remained of the ravaged mist cloud coalesced back into a human-like form, but emaciated and feeble, the vampire collapsing to the floor. Even so badly savaged, gold-rankers of any stripe were hard to kill. The vampire scurried off like a beetle on all fours, vanishing into the crowd of silver-rankers.
+
+Jason used another spell that effectively announced an end to the massacre that could barely be called a battle. If described, the spell might seem like a mercy, while the reality was anything but.
+
+“Feed me your sins.”
+
+Feast of Absolution was a spell which took away all the terrible things Jason had done to his victims, consuming every malediction he had inflicted upon them. For every horrifying malady that was removed, what was left in its place was Penance. Penance was an affliction that devoured from the inside out with transcendent damage that no power in the cosmos could shield from.
+
+Light blazed from their eyes and mouths. They shone from the inside as if their bodies were filled with blinding, white-hot steel. They were denied even the relief of screaming as something beyond pain overtook them. Those already closest to death found its mercy first, their bodies not just burned away but annihilated entirely. One after another, the vampires disappeared as if they’d never been, utterly excised from reality itself.
+
+Jason stood with his eyes closed, watching with his aura as the vampires expired. The silver-rankers were beyond struggle, not even falling to the ground. They stood in place, too stricken to fight as they were claimed by their inescapable doom. The gold-rankers struggled, some crawling, all but broken, while others fled madly. Those that reached the doors found themselves gripped in Jason’s aura, dragged back to their fate as his voice marked the end of their existence.
+
+“Mine is the judgement, and the judgement is death.”
+
+The roof lit up with blue, gold and silver light, droplets of which started falling to the floor. Lightly at first, like a spring shower, it soon became a monsoon of transcendent power that blinded vision and inundated the vampires. Every mote of light turned flesh and bone into nothingness, wiping them from existence, drop by drop. When nothing was left, the light faded and the rain stopped, leaving Jason standing alone.
+
+As Gordon manifested and Shade rose from Jason’s shadow, two Colins came rushing along the corridor, looking around at the destruction.
+
+“I’m here! I’m ready to fight. Where are all the vampires?”

@@ -1,0 +1,57 @@
+---
+id: 2dda2399-aff2-5e5a-b7be-c8a32254b3ed
+page-type-slug: story-chapter-royal-road
+title: "193. Waiting For The Signal"
+slug: 0193-193-waiting-for-the-signal
+partOf: god-of-trash
+position: 193
+ownLength: 1467
+unit: words
+publishedAt: 2025-09-21
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2618187/193-waiting-for-the-signal"
+royalRoadId: "2618187"
+---
+
+Now that he knew there was a counterattack on its way, Rhys couldn’t help but be on edge. He spent the entire next day checking over his shoulder, as if the counterattack would start at any moment.
+
+“What are you doing?” Lira asked, as he looked around him for the thousandth time that day.
+
+“I’m…” Rhys shut his mouth. He shouldn’t say. Bast had knocked out everyone to tell him. It was clearly meant to be secret, or something like that.
+
+“You’re?”
+
+“Tired. I need a break.”
+
+Lira snorted. “I can see that. Are you tired to the point of paranoia, though? Is that why you’re looking around like that?”
+
+“I dunno. I think I’m just tired,” Rhys excused himself. He ran a hand through his hair, trying to forcibly reset his mental state. Stop looking around. You’re being obvious.
+
+Besides, it wasn’t like the counterattack was going to happen today. Or tomorrow. Or the next day. It was probably weeks away. If he got all worked up for it now, he’d just exhaust himself long before the actual counterattack took place. Right now, he needed to invest. Invest in himself, invest in his restaurant, and invest in his underlings. Invest as if the sky was going to fall tomorrow, as if this was the last chance he’d get to grind before the final boss. He didn’t know how long he had, but he had a little time, so he might as well use it to the best of his abilities.
+
+But how?
+
+He could always go seek out a few more impure wells, but that would only be a top-up on the trash tank at this point. Not that he wasn’t going to do that, but it didn’t seem like something to plan for, just something to pick up along the way.
+
+He could look for Straw some more, but at this point, he was pretty sure the guy was majority in the Alliance. The little straw effigy had laid mostly dormant, though it had mysteriously appeared on the hilt of his new sword every time he’d thrown away his old sword… probably something to do with Straw being massively cursed, if he had to guess. Ernesto was still his best lead, and Ernesto was not in the Empire. Or if he was, he was hidden away somewhere, and Rhys didn’t have the time to find him. It was, unfortunately, looking like finding Straw was still a future endeavor.
+
+Finalize the shops? But the shops were already at capacity. Or rather, Rhys was at capacity, so he couldn’t realistically expand the shops any further. He could try teaching people his path, but he doubted people would be interested in picking up a trash path if they could pick up anything else. Also… he kind of didn’t want to? Call it selfish and trashy of him, but it was a massive benefit to be the only one who was basically immune to impurities. If he made a student, and that student went rogue–and they’d be a trashy student, so why wouldn’t they do something trashy like decide to kill their teacher?--then he’d be the one in the most trouble. True, in this hypothetical scenario, he’d be much stronger than his student… but that was assuming things went as normal. He was a trash talent, though. If he trained a star talent, he didn’t even want to imagine how powerful they could become, or how rapidly they could gain power.
+
+Anyways! His anxiety-fueled spirals aside, it would take years for someone to accumulate enough knowledge of trash to replace or even augment Rhys, so that wasn’t an option with a counterattack around the corner. And anything else… expanding further wasn’t really an option, and they were already as virulent as he could make them without risking getting caught as impure by every mage with half an iota of sense. The shops were in their final state. No, they weren’t across the entire Empire, and no, they weren’t as epidemic as they could be, but they stretched a good distance into the Empire, and they were as viral as he could make them. All he could do was his best, and when it came to the shops, he was comfortable saying he’d done his best.
+
+He could grow his underlings, but… growing mages was a long, slow process. He’d re-cored them all with the energy from the criminals, and more than that? Reaching Tier 2? Not realistic. Even the first ones who had joined his group hadn’t reached Tier 2 yet. Even his Tier 2s were struggling to reach Tier 3, and they hadn’t been recored and had a long time to practice their paths outside of the time they’d spent in the Empire.
+
+Though, speaking of… the looks in the eyes of some of those rescued mages when he’d finally re-cored them. He hadn’t realized how close he was to mutiny. True, seeing their friends run around with cores and use magic while they were growing older as mortals couldn’t be fun, and he understood that, but from the way some of them had eyed him on return, boy, they’d been closer to their absolute limit than he’d realized. It was fortunate that between the criminals and the Tier 4 he’d absorbed, he’d been able to re-core all of them, or else he might not have had many underlings left. Not to mention the damage they could do, if they got frustrated and decided to go talk to the Empire? He couldn’t imagine. They couldn’t delete his entire operation, but they could do massive damage to him, and in the worst case, force him to activate his impurities before he was ready.
+
+People are dangerous, he thought to himself, shaking his head. When this was all done, he might just hare off into the wilderness and be a hermit for a while. Just spend some time on his lonesome, where there weren’t any politics or interpersonal dynamics to deal with. He was someone who’d spent his entire life working from home because office politics sounded like hell. Having to deal with people now was basically his worst nightmare, except that the Empire had introduced an entire new dynamic of nightmare that he hadn’t previously anticipated.
+
+He could raid more camps, but most of the camps had already been raided, and the ones that remained were deep in the heart of the Empire, even deeper than his shops could reach. He hadn’t rescued everyone from his region, he didn’t think, anyways, but after his big raid, the Empire had closed those camps and moved all the remaining workers and guards–the few there were, after Rhys’s raids–into the deeper camps. There was nothing he could do about that, not without overextending, nor did he want to create a big fuss on the eve of a counterattack. If all went well, the Empire might not exist after their counterattack, or at worst, it would exist in a weakened state, on a path toward death, and it would be easier to attack the camps after their counterattack.
+
+What else? He frowned, thinking, and then snapped, his eyes widening. The Empire’s trash heaps! Its juicy trash heaps full of artifacts that were perfectly functional, but which the Empire simply disagreed with! It was time for him to go find those trash heaps, and raid the hell out of them!
+
+He barely needed to consult his longtime Empire citizens, aka the ex-criminals, to find out where they were. It turned out they were a well-known location, somewhere the entire Empire knew about… and highly, highly guarded. It was still a trash heap of sorts, but there were guards all around it, because the Empire disagreed with the artifacts, and wanted the world to know that, but knew that they were valuable to non-Empire citizens and didn’t want to give their enemies easy power.
+
+Apparently, the mana battery that Logan Waters had been using came from the heap. The problem, however, was that the heap was well-known by the Empire’s citizens because everyone knew it was full of valuable artifacts, the Empire, its criminal elements, outside mages, everyone. As a result, the Empire guarded its heap well. Guards patrolled it 24-7, and not weakling Tier 1 guards, either, but Tier 2s, 3s, and 4s. It would be the hardest heist he’d done so far, harder than all the camps combined, harder, even, than raiding the criminals.
+
+His eyes glittered. He grinned. But I’m up for a challenge. And if all goes right… it might even be the kind of challenge where I end up getting stronger… and maybe Lira and Mouse too, if we’re lucky!
+
+And so, Rhys set his sights, at last, on the garbage heap full of powerful artifacts from the Empire’s conquest.

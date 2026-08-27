@@ -1,0 +1,143 @@
+---
+id: 762e1876-5e91-503f-9b5f-45f11e0b8eea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 788 - Contraband"
+slug: 0113-chapter-788-contraband
+partOf: hell-difficulty-tutorial
+position: 113
+ownLength: 2939
+unit: words
+publishedAt: 2026-04-07
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3245393/chapter-788-contraband"
+royalRoadId: "3245393"
+---
+
+We are let into the city without trouble. There aren't even any guards. We each get a mark placed on us by the array. It reminds me of the Local King from Beyond, who did something similar in his tower, and it brings Spark, Marble, and Veil to mind. It also makes me recall the number of times they said they’d witnessed attendees tripping over their own feet while trying to look mysterious or intimidating in the past 500 years.
+
+Even now, the answer continues to surprise me.
+
+As Tess carries Lily, I do my regular check on the unconscious healer and pinch her nose. But there’s no reaction, even after all this time.
+
+Once we’ve made our way further into the city, Tess wordlessly hands me Lily and then gestures for Izzy to follow, at which point they split from the group and begin talking to people. With an Empath and a link through which Tess can communicate with her, combined with her extroverted nature, these kinds of conversations prove easy for them.
+
+This time, Izzy seems to have no restrictions holding her back and makes no effort not to read the emotions of others. She uses her ability, and soon we find ourselves quickly being sent to the branch of the Information Guild that exists there. Tess and Izzy head inside together, while Tess takes some of the less valuable items and materials we have for trade.
+
+Just a minute later, they appear outside. "They don't accept items, so I’ll have to go and sell some for some of this planet's currency," Tess explains simply. She heads into another building before returning, handing us some money to buy ourselves food and drinks from a shop nearby. and then heading to the Information Guild.
+
+The currency here is mana stones processed into coins with a hole going through the middle. Through which, people tend to run threads of textiles, mana, or valuable metals to let them hang from their waist, which I take to be some local way of showing off.
+
+A bit of me wonders if the feylith are at risk of noticing that Izzy’s an Empath, but then I push that thought away. Tess surely considered that and made sure Izzy understood the risk. Another thing is that I’ve only met two Empaths at this point: Izzy and Adrian. Even mind mages are more common than that, so Sophie probably has a higher chance of being caught than her sister.
+
+We wait for an hour. As Tess returns, she first makes her way into a building nearby where she once again sells off some of our items, and then we follow her through the peaceful, albeit very busy, city. Feylith, humans, and selari move throughout the place, some in even worse states than we are, so we don't attract much attention. Everyone seems to care only for themselves at this point, so I take a moment to allow myself to take this place in.
+
+With how different it is from any Earth city, I'm enjoying it and wondering how long it’ll be before things like this become a common sight. After all, I spent 21 years on Earth, and I don't think any normal city there would excite me nearly this much anymore. Will the same happen in the System in the next 10 years, or is there just so much to see that it might take hundreds? Only time will tell.
+
+After moving deeper into the city and exploring what seems to be the richer districts, Tess rents us an entire floor near the top of one of the towers, offering us a stunning view of the circular park that surrounds it while also granting us a 360-degree view of most of the city and the lake, with the flying ships passing through.
+
+No one talks much as everyone settles in and takes the opportunity to take a shower and change clothes. It takes longer than usual, as if everyone’s struggling to wash off the feelings of the last few days on the ninth floor.
+
+Once clean, we settle in the common room, which opens onto a terrace overlooking a few enormous trees, more towers, and the distant lake. Food is already waiting, probably ordered by Tess again, and we begin to eat.
+
+We’re only halfway done with the food when Tess begins to talk. "There’s only one healer in the city who could look at Lily. He’s likely to be extremely expensive, but I don't think any of us cares about that."
+
+She looks around and finds that it’s just as she said. In a way, it warms my cold, arrogant hearts seeing that. I know they would do the same for me, and at the same time, I realize I would do so for them as well.
+
+“But,” Tess says, “there’s also the chance she’ll manage to handle it on her own and grow stronger for it. There is also a risk that the healer will recognize her as another powerful healer, which could lead to some serious complications, along with many other factors we’ll have to take into consideration.”
+
+"Izzy and Sophie said she looks to be fine, so we could maybe wait a few days?" Aaron says, looking at Lily lying on one of the couches. "I mean, she’s probably harder to kill than all of us combined."
+
+"Before I go to Beyond, I will leave my left arm with her. Maybe it’ll be something she can use if truly needed," I say.
+
+"How romantic," Maya laughs from the side, then leans back in her seat and looks at the ceiling. "Once Lily awakens, she will get angry at herself for being, according to her, too fucking weak, and go on a new training spree."
+
+"That does sound like her," Tess agrees. "As for the rest... I haven’t asked for any information about the egg. This is where we’ll need to be very, very careful. Any true, pure wyvern is easily a powerful Absolute grade monster once mature. I can see any Champion trying to get that egg in an effort to bond with the wyvern, or in an effort to use it for their experiments. There are many people jealous of the white lightning some vyssari possess from their bloodline."
+
+“Now I want to do it as well,” Dennis says. “But knowing how these quests work, there are probably protections in place, or some event from the real world that the tenth floor is based on, which would prevent us from keeping it.”
+
+(Food?)
+
+“A wyvern is not foo…” I begin, then stop. Like everyone else, I turn to look at Biscuit, who starts to wiggle his short tail and, by extension, his entire butt under the sudden weight of our attention. “Or is it…”
+
+"He ate that weakened Champion deer, right? You guys must remember it too," Dennis begins to talk excitedly. "That’s how he got those tiny antlers of his and ended up in a food coma. Do you think he might get a cute set of tiny wings or lightning from a wyvern egg? We could time it so he eats it just as we complete the quest!"
+
+"He can't just eat a baby that hasn’t even been born, even if it’s only the tutorial!" Izzy begins to protest.
+
+"What if it is an evil baby wyvern?" Dennis asks her.
+
+(Food!)
+
+"You stay quiet and don't translate!" Izzy shouts, pointing a finger at me. She then takes a deep breath and closes her eyes. When she opens them, her voice softens, "I know it’s all fake and that this is just the tutorial. But there are some things I just don’t want us to do. I don’t want us to get used to them."
+
+"It’s okay, Izzy. We’ll make that decision later, okay?" Tess says gently, and when Izzy nods, the blonde continues, "Thankfully, there haven’t been any rumors so far about the hand of the Lycan Absolute we left behind. I’ve also learned that the Absolute is not currently present on the planet. This is being handled by her disciple instead, a Champion who is far from this city. Hadon doesn’t have a Champion here or nearby either. The city itself is very wealthy and famous for its auction house, the inverted pyramid we saw, and for the flying ships built here. And when I say rich, I mean rich. Some of the ships they build are capable of space travel between the planets of this solar system and their moons, while others serve as warships rumored to endure Champion grade strikes for several minutes."
+
+When she looks around and sees no one is speaking, she smiles playfully. "What would you lazy asses do without me? I’ve rented this place for the next two months. I think I overpaid, but it was one of the few places that had a shielded lab available where we could hide the signatures of the items we got and that fake wyvern’s arm. Tomorrow I’ll visit another Information Guild for more information. We’re rich enough for it. Another interesting fact: this planet has one Absolute and eleven Champions in total. The entire world is under the lead of that one Absolute, who’s a Lust subclass, and the eleven Champions serve her directly."
+
+In the silence that follows, Aaron laughs awkwardly. "I know it’s lame to say, and maybe a bit dark because of the state Lily is in, but damn... it seems like we may have found her some competition."
+
+Some of the group chuckle, others sigh, but I notice the gentle smile Izzy gives Aaron.
+
+"This is a good start, and all the problems we have are things we can solve," Tess stands up energetically. "So, for now, Nat, don’t worry. Go to Beyond and just try not to get yourself killed on the 5th floor. Sophie, you as well, or Frontier will kick you out. Meanwhile, I’ll stay here for the next week or two. Oh, and Maya? How would you like to go shopping with me? I want to find a nicer eyepatch than whatever I have now."
+
+Watching her, I realize how easy it was to forget she even had that wound. I could ask what she did with her [Declaration], but since she didn't tell me on her own, I think she just didn't want to. I might learn it later, though maybe not.
+
+I could probably stay here a bit longer, but I feel a need to move and do something useful. Like throwing myself against a Champion. It’s just the normal thing to do.
+
+I am normal after all.
+
+Before leaving, as promised, I stop beside Lily. I move the Fragment of the Nameless Tree from the back of my left hand to my right, then cut off my left arm and leave it beside her.
+
+I let my passive skills combust and begin restoring the limb. It’ll take some time, but it’s not like I need it all that much. I’ve long since grown used to quickly rerouting my Mana Cycling to deal with missing body parts.
+
+I look at our healer and wonder for a moment. She is so powerful, yet a thing like this happened out of nowhere. I didn’t even see it. There was no build-up, no final boss that caused it, just a bunch of random, powerful monsters.
+
+Before finally departing, I reach out, move a strand of hair off her face, and flick her nose. Then I move to the laboratory, which is, as Tess said, shielded and filled with equipment. It’s clean, with sharp, modern surfaces and shiny metal. In one of the corners lies a light-blue scaly part of an arm, or a paw, whatever you’d call it.
+
+It isn't even that big, maybe twice the size of a polar bear's paw, but even as a failed attempt at a fake wyvern, I’m sure there’s power in it.
+
+With a few more steps, I reach the table where the two pristine items we acquired are lying.
+
+Ring of Preserved Stasis (Low Pristine) - A ring made of multiple interlaced colorful metals, with each section flowing into the next with precise symmetry. This ring can lock in any accumulated charge, energy, and stored effect in its current state. Charged energy does not decay, disperse, or destabilize over time. The wearer may hold fully charged techniques indefinitely until release.
+
+Prism of Dimensional Friction (Low Pristine) - A cube that creates a field against interplanar jumps, teleportation, or phase-shifting abilities. Objects or beings attempting to cross space or planes using these abilities are detected and their abilities disrupted. The effect becomes stronger and the scale of the field larger, the more mana is used to empower the Prism.
+
+I’m confident it shouldn’t be this easy to get Low Pristine items. It’s possible that they represent the limit of what you can get in the tutorial. If my information is correct, newbie Champions begin with Low Pristine gear. Ten million shards, that’s how much they cost at their cheapest in the System shop, and I haven’t seen an item with a higher rating yet.
+
+And yet here they are, two of them. Honestly, I just really don’t want to deal with them right now. Neither would be useful to me for the upcoming fight, so out of spite for how much trouble they’ve brought, I flick them off the table. They fall to the floor and roll into the corner.
+
+I say my goodbyes to everyone and ask Biscuit to stay with the others for now. It’s partly so he can help them, and partly so they can distract him from what happened to the ferret. I give a last look at Blackie, who is just creepily standing in the corner, and make my way out of the tower using the elevator.
+
+Without stopping, I head straight out of the city. After a few miles, I lift into the air, deploying Sneaky Mode and controlling my kinetic energy as tightly as I can. I shoot like a rocket toward where we came from, continuously increasing my speed and sending a sonic boom echoing through the area. A bit of my mana moves ahead, creating a transparent cone in front of me as I push myself even faster.
+
+The country just flickers along below me. Only when I fly higher does that change even slightly, the countryside appearing to move more slowly. The flight likely takes longer than it could have as I fly over lakes, zigzag between trees at incredible speed, and move through and over clouds.
+
+I don’t think I’ll ever get enough of flying like that, and I continuously channel kinetic energy to maintain it.
+
+Only once I reach the place where we appeared do I shoot toward the ground, absorbing all my momentum and absorbing the shockwave. I come to such a sudden stop that I’m sure it would’ve been capable of evaporating someone with even higher stats than mine.
+
+A few things are missing.
+
+The severed fingers from the Lycan’s left hand are gone. All four of them.
+
+The Dusk Deer’s body has vanished as well.
+
+Lastly, the severed right hand is now surrounded by a forest stretching a mile wide, with a tree at its center already rising to the height of a skyscraper. The mana radiation seeping into the area is overwhelming, to the point that I can only consider it a small miracle no one’s noticed.
+
+Putting up my maximal effort from the start, I radiate my own mana to defend myself and fly toward where I sense the hand. Multiple trees get in my way as I reach that section, and I throw mana projectiles against them, only to be surprised. Some of the trees endure the attacks, while others begin to restore themselves incredibly quickly after being hit.
+
+More of my mana seeps out of me and gathers over the palm of my hand. I begin to channel [Empyrean Lance], only to cancel it mid-cast to take over that mana and use it to fuel more powerful explosions. I throw these against the tree in the center and the many others surrounding it.
+
+It requires half a dozen attacks powerful enough to hurt a monster between level 350 and 400, but I eventually carve my way to the hand.
+
+There, even more of my effort goes into simply existing within reach of the hand. The air feels heavy, saturated with a mana radiation so dense my skin itches with the sensation of a thousand needles piercing it.
+
+I manifest an arm out of mana, pouring every drop of focus into keeping it stable, but the moment the arm touches the severed limb, it begins to erode. I have to pump a constant stream of mana into the limb just to keep it from dissolving into nothingness.
+
+As I finally grab it, the backlash is instant. A surge of raw power rushes through the mana arm, slamming into my own body. It feels like molten metal being poured into my veins. My vision blurs, and blood begins to leak from my ears, but I don't let go.
+
+Clutching the "contraband," I use my Beyond Stay Token, and the building pressure disappears immediately with a sense of relief that makes me drop to the ground with deep, shaky breaths.
+
+When I look up, I fully expect Ruby to be here with me. Instead, the one I find facing me is a huge ant with a black carapace that seems to absorb the light.
+
+The Ruler of Diligence.
+
+Destroyer of the Ancient Armory.

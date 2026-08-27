@@ -1,0 +1,151 @@
+---
+id: 05f92c6a-cbd9-5823-a817-4ce0cb0b3e8f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 758 - Pancakes"
+slug: 0083-chapter-758-pancakes
+partOf: hell-difficulty-tutorial
+position: 83
+ownLength: 2327
+unit: words
+publishedAt: 2026-02-24
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3089320/chapter-758-pancakes"
+royalRoadId: "3089320"
+---
+
+As per the last messages I sent to Earth, they inform me that they’ve learned that my mom is currently living on a nice tropical island, which I reach by ramping up the use of kinetic energy. During my flight, I notice fighter jets in the distance, but they disappear quickly before I can fly over to them and check them out up close.
+
+But the closer I get to my destination, the more I notice myself slowing down. By the time I see the island coming into view, my speed is barely faster than a car, and my approach begins to slow even further.
+
+My destination isn't just some small private island or anything like that. Instead, it is the kind of large island just big enough to host a small city and two villages, at least from what I can see. It has a beautiful beach of white sand and a nice set of mountains.
+
+I take the phone out of my pocket to check the direction again and fly along a roundabout path over the sea to approach from the far side of the island. It isn't that far away from the city, and it’s connected to it by a road following the shape of the beach. On that part of it are more grand buildings with huge estates.
+
+The place I find myself heading towards stretches from one of the smaller hills to take up a large swathe of the private beach, as well as encircling a sort of cliff nearby. In the bay, I see a small yacht along with a few smaller vessels. There is some construction going on, and as I’m floating there in the air, observing all of this, I realize they seem to be working on a bunker a bit further away from the main house.
+
+I’m sure by now Channeler’s made sure to give the people here a call, and that my mother should know already, yet I hesitate. I just float there, feeling more nervous than I did before some of my life or death battles.
+
+As amused as I am annoyed with myself, I take out the phone again and, turning on the front camera, I check my face, fix my hair as much as I can, and take a moment to touch up my clothes as well. There’s nothing I can do about my eyes, with the way my trait is now permanently active.
+
+Where before my Mana Wavelength Iris showed only when I activated it by creating a golden circle around my pupils, now it is a bit different. The circle is slightly less noticeable and more uneven, and feels like a golden light trying to peek from behind the edges of the black pupils. It shifts, its glow pulses from brighter to lighter, and it unpredictably circles my pupil. Much like an eclipse of the sun.
+
+The phone then rings once, showing a censored number. Out of curiosity, I pick up, “Hello?”
+
+“Good afternoon,” the voice replies, measured and respectful. “Vice President Vernon Oakley speaking. I hope I am reaching you at a suitable moment. I wanted to establish contact and express that we are prepared to meet once yo-”
+
+I don’t even listen and leave the phone in the air, locked there with my kinetic absorption.
+
+Then my senses expand across a mile wide area. Every human, every machine, every car, insect, animal, and anything else in motion freezes and halts, all held in place by my will. I allow just enough function to keep everyone safe, so people can breathe, and to ensure that any running machines don’t explode or break.
+
+All of it is done by a small part of my mind that takes care of all the calculations, perceives, categorizes, and then handles the absorbed kinetic energy, as well as halting other people, animals, or machines as they enter the area.
+
+Boosting myself, I find the helipad where I land and once again fix my clothes and hair.
+
+I pass by a security guard in a suit, frozen mid-step and a gardener with a hose that seems to have been watering the plants nearby. Both of them follow me with their eyes, the only parts of them I’ve allowed to move, and the water from the hose remains frozen mid-air.
+
+Just one person moves freely, and I slowly move over to her.
+
+She must have heard my steps because as when I enter the terrace, she stands there already looking in my direction, a hand over her chest. Her heart is beating like crazy, and I entirely block out these new senses of mine. I don’t observe her movements, twitches, muscles, temperature, or movement of her blood. Instead, I look at my mom with only the senses I would’ve had before the tutorial. And all the words, all the plans I had for how this meeting would go are gone, my mind flushed clean.
+
+She’s better than me in this way. Before I can even think of what to do, she’s standing in front of me, crashing into my body and pulling me into a hug.
+
+“Oh my god, Nathaniel. Natty...” she continues, whispering my name, and I feel her tears on my chest as I put my arms around her. I don’t think I’ve ever tried to hold something so carefully in my life.
+
+She looks up at my face, grabbing my cheeks in her hands. “Your eyes, your pretty eyes, what happened to them? And this scar? Just what…” Her hands touch the scar going from the bottom of my left cheek and down through my neck. “Did it hurt?”
+
+Her fingers trace the line of the scar. I feel the warmth of her palms, the tremble behind her touch. She keeps looking at my face with worry, that tries to read every inch of it.
+
+I answer in a voice quieter than I’m used to. “A little. But it’s alright now.” These words come out slow and careful.
+
+She cups my jaw again. Her thumbs sweep across my cheekbones. She studies the shifting rings of light around my pupils. They pulse with an uneven rhythm that I see reflected in her gentle eyes.
+
+“You lived,” she repeats. Her shoulders shake once, and she leans in, forehead touching my chest. “I thought I would never see you again. I thought I lost you... and Victoria... is she...?”
+
+"She’s okay. You know how she is."
+
+I hold her steady, supporting her weight with an ease that feels almost weightless.
+
+She smiles, small and trembling. “You came back different, but you still talk like my Natty. That part still hasn’t changed. About what happened before, about the things I said and did...”
+
+A soft laugh slips out of me. “It doesn’t matter, so why would we make this awkward? I’m happy to see you, you’re happy to see me. Will you be happy to see Vic, too?” I ask, knowing how much more difficult that question may be for her to answer than it otherwise should. In a way, it is a bit cruel from my side, but I think it needs to be asked.
+
+"Yes..." she whispers. "I would be happy to see Victoria as well."
+
+"Good, then that’s it. There’s no need to worry about such useless things anymore. Have they been treating you well?"
+
+She touches the skin under my eye. “They’ve been almost too nice, to the point it gets annoying at times. Does it hurt when your eyes shift like that?”
+
+“No. It’s a trait thing. It looks strange, but it feels natural.”
+
+“Then I’ll have to get used to it.” She wipes her cheeks with the back of her hand, though the tears keep coming. “You look like you’ve survived a war.”
+
+"War," I laugh shortly. "Weird. It is fun there most of the time, but it can be fucked up at times and..."
+
+"No cursing."
+
+"I'm a grown man. I have to tell you I'm also renting out a property and just sold another."
+
+That small woman in front of me, who is still early into her forties, looks at me just for a few long seconds before I look away with a sigh.
+
+I give a slow nod. “It is what it is over there.”
+
+She holds my hands in hers. Her grip tightens as she asks an unexpected question. “Are you hungry?”
+
+"Do you even still cook, or do you have a bunch of personal chefs now?" I ask teasingly.
+
+It causes her to smile as she lets go of my hand, and I’m sure she’s noticed some of the other scars, but doesn’t ask about them.
+
+It all still feels a bit awkward, but I follow her as she gestures.
+
+“They keep forcing all these things on me. I’m okay with this place, you know, I always loved this kind of weather, and I always dreamed of seeing the sea and walking along the shore. Now I can wake up every morning, hear the sea in my bedroom. I wake up, walk out across the sand, and drink my coffee while watching the waves. It’s nice.”
+
+"It does sound nice," I nod.
+
+“But I haven’t used any money. I was able to get ten million dollars out of Colonel Kane, and for some reason, then they sent a hundred more. Can you even imagine all that money? It would just be sitting in an account, but then that handsome young man who calls himself Rafael came, and he said he was your friend. He even showed me some photos of you standing with him. He helped me invest some of the money. Properties, and a few companies, he seems to think will do well after the tutorial. Everything’s been put in your and Victoria’s name, even though he tried to persuade me to take some myself.”
+
+"That’s stupid. I told them to tell you to spend it all."
+
+"I don’t want it."
+
+"Don’t be stubborn, Mom."
+
+For a moment, she turns around and smiles. It is a beautiful smile that makes her face even prettier. Almost without realizing it and without a good reason, I smile back at her.
+
+"No," she says simply with that smile.
+
+With a sigh, I follow, "Whatever."
+
+She laughs again, “But don’t worry, while you’ve been off suffering somewhere in the tutorial, I’m here enjoying all the luxuries we used to dream of. Do you remember those nights when we would sit on the couch and watch all those holiday resorts on TV, trying to think about the things we’d do if we ever got to go?”
+
+Going along with her, I decide to ignore the remaining awkwardness of it all and all the past and things we probably should be talking about. And it’s easy to do because right now, everything else just feels so inconsequential.
+
+I glance in the direction of the sea as a helicopter enters the blocked-out zone near the mountain and freezes mid-air along with its passengers. Then I look around the kitchen and slide onto the high seat near the kitchen island in the middle. It really is a pretty kitchen, with big windows, nice furniture, and all sorts of fancy appliances.
+
+Thalia Gwyn, my mother, moves around swiftly, which tells me that it’s quite likely she cooks most of the food herself, and I wouldn’t be surprised if she’s even been cooking for the other people here.
+
+"Do you really like it here?" I ask seriously.
+
+She doesn't stop, but a smile appears on her face, and I can see from the side. “It is hard to enjoy it without knowing what’s been happening to the two of you. But your friend visits me once every few weeks, and sometimes he brings me stories from the tutorial. He also helps me to train my skills and says he got some of his training methods from you. Did they make a scholar of you, Natty?”
+
+I snort, "As if. But Mom, if you ever get the feeling he’s trying to pick you up, just tell me, I’ll beat his ass."
+
+As she closes the fridge, she laughs shortly and turns on the heat under the pan. “Who would want a sad old lady like me?”
+
+"Bullshit. You’re the prettiest woman I’ve ever seen."
+
+"Language."
+
+"Bullshit. You are the most beautiful woman I have ever seen."
+
+She throws a few chocolate chips at me, but they freeze in the air just before reaching me, and smiling victoriously, I eat them as they hang in the air.
+
+“When we finish the pancakes, you’ll have to show me how you do that. By the way, can you even eat them? I mean, does it do anything for you? Rafael said he can go without food for a few days easily, but when he does eat, he needs a lot of calories or the meat of awakened animals or monsters.”
+
+"I can eat it, but other than the taste, it doesn’t really do much for me. Honestly, I bet I could eat piles of them and not get fat at all."
+
+"I’m envious." She returns to the pan and throws the chocolate chips onto the pancakes before flipping them around.
+
+As she cooks, I sit quietly and watch her the entire time through my human eyes, memorizing every movement, every smile, and the way her black hair shifts as she moves.
+
+When she’s done, she gently slides the pancakes onto the plates and pours a bit of maple syrup over them before adding some grated apple mixed with a bit of sugar and cinnamon.
+
+We carry these plates outside and walk by the frozen people, whom she looks at with wide eyes, but she still leads me to the beach. There, under a small patch of trees, is a nice spot where we sit down as we start eating the pancakes with the sound of the splashing sea in the background.

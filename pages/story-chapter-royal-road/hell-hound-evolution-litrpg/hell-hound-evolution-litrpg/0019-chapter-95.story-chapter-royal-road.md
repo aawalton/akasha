@@ -1,0 +1,249 @@
+---
+id: 4d72d184-e9c5-57da-9536-8de59e8eb312
+page-type-slug: story-chapter-royal-road
+title: "chapter 95"
+slug: 0019-chapter-95
+partOf: hell-hound-evolution-litrpg
+position: 19
+ownLength: 2879
+unit: words
+publishedAt: 2026-03-09
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3133391/chapter-95"
+royalRoadId: "3133391"
+---
+
+The scarred bandit was completely unprepared for a Hell Hound suddenly lunging at him. Though he got his arm up just in time to protect his neck, he fell to the ground with me. I ripped backwards, dragging him sideways and making it hard to orient himself.
+
+Black Cloak was quick to draw a weapon, but Lily was already putting her clones to good use. She split into three as she came bounding out of the woods right behind me, one snapping up at Black Cloak’s horse, causing it to rear back in terror and disturbing any quick counterattacks from their supposed leader.
+
+Another clone darted right for the crossbowman, still atop his horse, forcing him to waste a bolt that passed right through the fake Lily.
+
+As for the real Lily—the mother and daughter scrambled out of the way as Lily darted under the bearded bandit’s leg, narrowly missing the downward slash of his sword. Then she took a chunk out of his bent-over ass, and he let out a shrill scream that was quite humorous coming from such an intimidating, brawny man. “Wraaaaaahahhhh!!!”
+
+As he spun to slash at Lily again, she Slip-Dashed right between his legs a second time, this time taking a chomp at his calf as she slid by.
+
+The one under me screamed, “Shit! H-Help!” He didn't even have time to draw a weapon as his free arm pushed against my neck. I dragged him in a tight circle, yanking him off balance every time he tried to get his feet under himself, but I was also keeping my mind’s eye on the crossbowman.
+
+His hands fumbled with getting a fresh bolt in, but once it was set, he turned it to Lily, yet hesitated. She kept dancing around the big guy's legs, the two moving so chaotically it seemed the crossbowman didn’t want to risk loosing the shot and hitting his ally. Instead, he turned his gaze to me, and between him and Black Cloak getting his horse under control, I knew it was time for a change in tactics.
+
+I disengaged, the scarred bandit instantly scrambling to his feet with one useless arm, and then I arced around Black Cloak to place him between me and the crossbowman.
+
+Black Cloak unsheathed a sword with one hand as the horse pivoted, violently stomping its hooves at me. But I skittered up dust with my back paws as I turned suddenly and let out a vicious roar.
+
+{Intimidate}!
+
+The horse reared back but then flopped sideways, falling heavily. Black Cloak just barely managed to jump free from his stirrups, but I was on him just as he landed.
+
+I aimed for his sword arm. But he was faster than the others. He rolled, not panicked, not sloppy. The blade flashed in a tight arc, forcing me to twist mid-lunge as steel whistled just short of my snout.
+
+I vaguely caught a motion in my mind’s eye. I tried another quick dodge, but a bolt grazed across my flank, drawing a shallow wound.
+
+Damn, those things fly fast!
+
+I’d have to be careful, as it was so close it could have just as easily been a clean hit.
+
+But then, Black Cloak was coming at me. His movements were swift, legs bringing him forward with a stab, and as I dodged to the side, the stabbing motion turned into a slash I barely ducked under. When I went for a chomp at his legs, he dodged backwards, the sword whistling towards me once again. This time, as I tried to hop away from it, the blade kissed along my brow, drawing blood.
+
+I almost lost an eye!
+
+But it was clearly meant to be a killing blow, and he overextended himself. My claws dug deep as I surged forward, and more prepared for his quick backstep, I lunged with a {Crippling Bite}!
+
+Direct hit!
+
+My teeth sank in right under his knee, with my Piercing Fangs cutting right through his shabby armor, and as I twisted with the Crippling Bite, his knee audibly popped out of place.
+
+Piercing Fangs leveled up! 1 > 2
+
++2 Strength
+
++2 Dexterity
+
+I hopped sideways; the next wild swing of his sword found my flank—but it was fine!
+
+I’d go for his neck—
+
+Ah! But now the scarred bandit was coming at me! My mind’s eye saw the crossbowman prepping another bolt, and not only that…
+
+I heard Lily let out a pained yelp. The bearded bandit managed to cut her!
+
+I popped away from the scarred bandit’s one-armed swing, then dropped low to my belly as a bolt whizzed over my head. Meanwhile, Lily made a retreat of her own, splitting into three fleeing clones. But the bearded bandit was bleeding from multiple places, standing on wobbly legs, and panting heavily.
+
+The three Lilys regrouped at my side near the toppled merchant’s cart. The family were huddled together behind us, watching everything with wide eyes. I caught the boy’s gaze as he looked at me. He was still scared—but not of me. There was something hopeful in his eyes as he looked at me.
+
+Thinking of that achievement, I shook it out of my head and focused on our adversaries. I didn’t intervene just to sacrifice one of these people! Don’t even think that for a second!
+
+But this was turning out to be a more difficult fight than I had imagined. Perhaps our success against the red masks and the easy fights we’d taken since then had me feeling a bit overconfident, and I had misjudged them.
+
+But we were still winning. Three of the four had been injured quite badly compared to my and Lily’s superficial wounds.
+
+Black Cloak tried to get up but took a knee, his ruined leg refusing to bear any weight. The scarred bandit likewise had a ruined limb—one arm hanging at his side while he clumsily held a sword with what seemed to not be his dominant hand. Lily had broken down the bearded bandit, and only the crossbowman remained untouched.
+
+Yeah—that crossbowman was the real problem here. As the other three hobbled towards us, he loaded another bolt. I now felt that I should have targeted him first. He made it so difficult to just focus on working my jaws towards someone’s neck for a killing rip. I missed my Arcane Nightstalker Path right now. Whisperfang Juvenile was powerful and amazing for regular hunting, but magic gave me so much more versatility in a complicated fight like this!
+
+Then, I noticed some movement from the brush along the riverside path. Grick pulled down a large leaf, eyeing up the crossbowman from behind, dagger clenched in his other hand, waiting for his opportunity.
+
+The three Lilys were all low and attack-ready, growling at different possible opponents—I lost track of which Lily was the real Lily myself!
+
+And where the hell was that worthless fox?! I suppose I shouldn’t have expected any help from her. But as I saw the bandits glancing and nodding to each other as me and the Lilys growled, I knew they were getting ready.
+
+“Lily! Confuse them!” I commanded through Pack Bond, then I bolted right for the scarred bandit.
+
+The sudden chaos of (what appeared to them as) four charging Hell Hounds threw the bandits into a panicked uproar. My mind’s eye watched the crossbowman wave his sights between one Lily then another, completely indecisive and distracted—I knew Grick would find an opening!
+
+I dodged the scarred bandit’s sword, then pivoted up, getting my jaws on his remaining good elbow.
+
+{Crippling Bite}!
+
+But I didn’t feel the instant snap—DAMN!
+
+However, he dropped his sword at least, and his other injured arm grabbed at my side. It wasn’t dexterous, but it was enough to clench me between his two arms and roll his body on top of me into a wrestling match. I may not have been a tiny pup anymore, but I still wasn’t a full-size dog.
+
+I went for chomping at whatever exposed flesh I could find, my teeth grating into his leather chest armor, at least one tooth breaking through as I tasted new blood. I wriggled and wormed in his grasp, constantly snapping my jaws at him as he tried desperately to wrestle me into submission.
+
+I heard a horse scream and the crossbowman shout in surprise. The heavy click of the crossbow, the wizz of a bolt, and then rustling of leaves as it went off into the trees. Grick had made his move!
+
+Finally, I wiggled myself into a better position as the scarred bandit bodied me against the ground—his face—he looked me in the eyes.
+
+I kicked against the ground and slid up in his grip, my front teeth gouging his cheek and brow—maybe even taking an eye!
+
+He was going to be even uglier and scarred now—if he survived this, that is, which I had no intention of!
+
+He screamed and pushed me away—big mistake!
+
+I leapt up at him, his throat wide open, and found the sweet spot right under his chin!
+
+He fell backwards, me on top of him, his panicked screams turning into gurgles as I ripped his throat out!
+
+Foe Eliminated! Level 14 Human Bandit
+
+Experience Gained!
+
+Finally, a proper kill. It has been a while! Now for—
+
+A black shadow loomed over me, a sword was descending. I already knew I wouldn’t have time to dodge completely, and my mind’s eye simultaneously saw the crossbowman—now unhorsed—had given up on the fleeing goblin and fired a bolt right at me.
+
+I began to twist away, hoping to avoid any critical damage, but then, something else rushed into the fray.
+
+It was the merchant man! He pushed Black Cloak away, causing the sword to fall short, but it was instantly followed by a wet shllunk.
+
+My eyes widened, watching the two men fall together, the merchant with a bolt in his back to match the one previously put into his shoulder.
+
+Foe Eliminated! Level 14 Human Bandit
+
+Experience gained!
+
+That was Lily’s kill. I glanced over just long enough to see her bloodied muzzle lifting from the twitching bearded bandit.
+
+Black Cloak used his one good leg to kick away the other dying man. “You stupid bastard!” he cursed. Then my eyes narrowed as his gaze met mine. He began to lift his sword again, but I was already charging in.
+
+I dove right on top of him, my jaws easily finding his neck.
+
+Foe Eliminated! Level 18 Human Bandit
+
+Experience gained!
+
+But there was still one more. As my mind’s eye watched the crossbowman load what I hoped to be his last bolt, I heard a thump, thump, thump, echoing from the tree lines. The fox leapt into view, the crossbowman turned, but before he could even lift his weapon, she was on him.
+
+Her jaws clamped over his shoulder, she lifted him into the air, and started shaking him. He screamed, and she slammed him into the ground, where she shook him a few more times, then tossed him away like a limp rag doll.
+
+When he was done rolling, he was completely still, but there was no kill message. Probably because the fox wasn’t considered a part of our pack. Her golden eyes looked at me with a judgmental expression. I knew she didn’t approve of us helping these humans in the first place.
+
+The humans…
+
+I looked back at the merchant as I heard, “F-Father!” The boy ran to his father’s side, putting his arms around him. The man was breathing heavily but not dead. Yet, based on the amount of blood he was losing, I knew there wasn’t much time.
+
+The woman as well came to him, inspecting the bolt in his back, her eyes growing wide with realization as she realized what I already had.
+
+Lily padded over, and even Grick approached, though he was limping. It seemed the crossbowman at least got a kick off on the little green goblin before he had fled.
+
+Grick’s ears were flat along the side of his head. “I-Is human…”
+
+Wait—
+
+My ears perked up. We had healing potions! I began moving toward the trees, to where Grick had left his pack. We could still save him, we could—
+
+“Don’t,” the fox’s voice rumbled in my head. “You’ve already done enough.”
+
+I slowed and looked at her.
+
+“You’re thinking about using your potions?” She was sitting on her haunches away from the group, having not moved after killing her bandit. She let out a derisive snort and turned her gaze away.
+
+I barked at her. “We have plenty!” I started moving towards the trees again, but once more, her words stopped me.
+
+“Look at your own pack!” Her golden eyes shot right back to me. “The goblin is hurt, and you and your sister are both bleeding. I don’t know how you managed to obtain four whole potions, but those things are not easily found. Even if you don’t need them all now, you will one day.” Her tail flicked, and her gaze narrowed.
+
+I realized she must have looked through Grick’s pack during one of our hunting sessions, as we hadn’t exactly divulged that information to her in any way. But that was besides the point…
+
+I looked amongst my pack as the fox got up and began padding towards us. The wife and son were holding the dying man, both crying.
+
+“Imagine there is a time when your sister is hurt, and you can’t save her because you are out of potions. Will you look back on this moment and feel like you’ve done the right thing then? Or will you curse yourself for being too charitable towards people who don’t matter?"
+
+My ears folded down. I looked at the family. The man muttering, “I-I’m s-sorry. I should’ve known… I shouldn’t have…” He coughed.
+
+“No! No! Please stay with us,” the woman sobbed. The boy was crying too much to get words out.
+
+The fox was right, but wrong at the same time. She was talking about a hypothetical! Nobody could see the future, and that hasn’t happened yet!
+
+Then, I looked between Lily and Grick, who kept a slight distance. Lily whined in concern for the humans… but she was bleeding quite heavily from her side as well. Not fatal, but certainly a wound that would take some time to heal.
+
+Grick, he struggled to stay standing, so he sat down and rubbed his injured leg.
+
+As for me, I had to blink blood away thanks to my wounded brow.
+
+None of this was fatal, and we would all be fine, even without healing potions, but…
+
+The man weakly reached towards me. I recoiled slightly, meeting his gaze. He coughed, blood coming out; the bolt must have pierced his lung. “Th-Thank you…” he muttered weakly.
+
+I turned my gaze away, tail low.
+
+I didn’t like humans. I shouldn't like humans. And these three were just prey for a different kind of hunt. Would I feel this way if I saw something else hunting a family of rabbits?
+
+But it was the cruelty. If I could do something about cruel, heartless people… people who didn’t kill cleanly but tormented their prey… That was certainly different.
+
+Yet, the fox was right. I had my own family to protect, and so, knowing I’d let this man die while I had something that could help, I couldn't accept his thanks.
+
+But there was one other thing I saw in his eyes when he thanked me. The fox didn't need to say, but she surely realized it as well. Maybe she had let go of my tail because she had anticipated this kind of outcome.
+
+These people were mourning the breaking of their family, not attempting to flee the pack of monsters that surrounded them. None of us showed them any aggression.
+
+They trusted us… At least, they trusted that our intervention had save the wife and son.
+
+Social Predation. That was the achievement name. This didn’t really quite feel like it fit such a title. But then again, not saving somebody that I could save while he thanked me. It was a stretch… but…
+
+I padded over to the man. The wife and son watched me.
+
+“M-My family. Thanks to… y-you…” he said. The light was draining from his eyes.
+
+I lowered my head and licked the back of his hand as I lifted one paw.
+
+I didn't do it as dramatically as I normally would, just softly raised it from the ground as it became ghostly.
+
+{Soul Rend}...
+
+I passed it easily through his chest, and it seemed the System was satisfied.
+
+Achievement! Social Predation
+
+You killed something that trusts you.
+
+Minor Bonus to all stats!
+
+All prerequisites of an evolution path have been met!
+
+Would you like to view your available evolution paths now?
+
+No, not now… not yet. I wasn’t even sure I wanted the stupid path.
+
+Then, one more achievement popped up.
+
+Achievement! Branching Destiny
+
+You have unlocked paths in a total of 3 separate evolution trees and have stepped beyond linear evolution!
+
+Reward: A new menu function has been unlocked!
+
+You may now switch between previously acquired paths on separate evolution trees!
+
+…Evolution... tree?
+
+Read Next Chapter Now!

@@ -1,0 +1,219 @@
+---
+id: 8b555935-8287-54e0-a3a9-a678ad840b2b
+page-type-slug: story-chapter-royal-road
+title: "027: Size isn't Everything"
+slug: 0027-027-size-isnt-everything
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 27
+ownLength: 2156
+unit: words
+publishedAt: 2024-04-27
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1613021/027-size-isnt-everything"
+royalRoadId: "1613021"
+---
+
+Just because her feet were rooted in place didn’t mean Evelyn was helpless. Her foe was seconds from smashing into her like a comet, and it would be a waste of time to try and free herself from the rooting spell. Instead, she prepared to do what she did best - give them a beatdown.
+
+She had her new gauntlets equipped, soft around her hands, but tough and brutal - she hoped - for anyone on the receiving end. Evelyn pulled back her arm and as her enemy, which she now recognised was a man curled into a cannonball, approached, she unleashed her full power into a tremendous punch. Her raw power wasn’t all she put into the blow.
+
+No, she pushed her mana into her hands, channelling Fists of Frost so that her strike would pack an icy punch on top. The two forces collided, and as unstoppable force met immovable object, the man’s face contorted into one of shock and horror as he realised Evelyn was unfazed by his falling strike. Not just unfazed, but amused.
+
+A minor jolt ran down her arm, but that was all his blow could do. On the other hand, her strike smashed into his body with the force of a battering ram, blowing open his tucked guard, breaking bone and stunning her foe.
+
+He fell to the ground, stunned both physically and mentally. She jumped at the opportunity presented to her. Had she not just thought about how taking down her opponent could be a shortcut to clearing the floor? Her fists rained down on the man, who she now saw was miniscule. A little person, but stout and wild with a long flowing beard and unkempt locks of auburn hair. It took her only seconds to beat him into an unrecognisable pulp, and he fell to the ground, limp.
+
+But, rather than the challenge clear message Evelyn had been expecting, his body vanished in a puff of glittering blue smoke. Below her, another wave of monsters appeared and began the slow march on his castle. It seemed there were no loopholes in the tower’s handcrafted challenge. As if it would be that easy. However, she was not put off. It might be fun to take more of a backseat for once.
+
+I have been forced onto the frontlines since I arrived here. And I can’t say I haven’t grown to love it, being in the thick of things. But, it’s good to take breaks once in a while. Branch out, so to speak. I wonder if that guy respawned. Is it instantaneous, or does it have a cooldown to punish you for getting your ass handed to you? I honestly hope I don’t have to find out.
+
+Her gold had been accumulating during the brief clash with her opponent. It had been good to get a feel for him, if only to see how weak he was. But this floor wasn’t about just being stronger - she needed to be a tactician. So, she focused her attention on the structures menu.
+
+She had 12 gold, and considered just buying two more gold mines. But, she held off on the instant purchase. There was something she needed to check first.
+
+When she approached the castle, she opened the buy menu. So, with that in mind, she approached her existing gold mines. What happened when she was right beside them was a wonderful surprise.
+
+It wasn’t beyond her expectations, though. A small menu appeared in her view, with two options she could choose from.
+
+Gold Mine Lv.0
+
+1 Gold/min
+
+Upgrade - 12 Gold
+
+Increases yield
+
+Sell - 2 Gold
+
+So, not only could she purchase more, there was also the option to further improve on her existing mines. The upgrade was expensive, but it was vague on how much more income it would provide. She would have to test it out to see if it was worth it. Otherwise, she might as well just buy a bunch of unupgraded mines. That wasn’t the only limitation, though.
+
+There was a limited amount of space surrounding her castle, which meant she wouldn’t be able to keep building structures ad infinitum. If she only built mines, Evelyn reckoned she could fit around another thirty or forty in before running out of space. But, that had its own drawbacks.
+
+Gold mines weren’t the only structure she would need to build if she wanted to win this challenge. There were the defensive towers, the barracks and the arcane well available too. And, she would unlock even more once she purchased the tier 2 castle. So, with that in mind, she decided her first course of action would be to upgrade one of her existing gold mines to Lv.1.
+
+It cost her every bit of gold she had, but that was fine. It would come back, and faster than before. The upgrade was even better than she had hoped for.
+
+Evelyn had expected a simple increase of just 1 extra gold per minute at best. It would mean buying new mines would be a better investment than upgrading them. However, it provided a large jump. At Lv.1, the gold mine was now giving her 5 gold per minute, bringing her total income to 7. But, she could no longer upgrade it. That would require her to unlock the tier 2 castle, an expensive investment that she wouldn’t be able to afford for a while. It wasn’t a problem, however.
+
+Over the next seven minutes, Evelyn built and upgraded to Lv.1 five more gold mines, as well as upgrading her other existing one to match. She also purchased a few upgrades to her spawning monsters, to make sure the pressure on her opponent didn’t let up. Then, she needed to figure out her strategy to win the challenge. With that in mind, she browsed the options available to her.
+
+Evelyn’s Castle
+
+100/100 Health
+
+Gold: 1 (36/min)
+
+Magic: 0 (0/min)
+
+*Structures*
+
+*Upgrades*
+
+*Spells*
+
+*Upgrades*
+
+Monster Spawn Rate Lv.4 - 5 Gold
+
+Increases the rate at which monsters spawn and assault the opposing castle
+
+Monster Strength Lv.2 - 3 Gold
+
+Increases the strength of the spawned monsters
+
+Monster Weaponry Lv.0 - 2 Gold
+
+Provides more variety and increased quality in your monsters’ weapons
+
+Monster Armour Lv.0 - 3 Gold
+
+Improves the quality of your monsters’ armour
+
+Castle Health Lv.0 - 5 Gold
+
+Increases the health of your castle
+
+Tier 2 Castle - 1500 Gold
+
+Unlocks more structures, upgrades and spells. Increases level cap on structures
+
+There was one benefit to the man’s crazed assault. Now that he had seen the gap in strength between them, he was unlikely to charge at her once more. At least not without some proper preparation and support from whatever monsters and soldiers he could gather. That meant she felt secure in leaving her castle alone for a while in order to scout the situation on his end. Her castle wasn’t without defence, however.
+
+It took five minutes to save up enough gold, but Evelyn purchased the palisade, along with three archer towers - one for each path the monsters travelled - as well as upgrading all four structures to Lv.1. She also upgraded her monsters’ spawn rate and strength another 2 levels and their weaponry by 1.
+
+Having some kind of defence would let her feel more at ease while scouting. Even if she didn’t think the man or his monsters would breach her area again, it was a good idea to have some kind of deterrent. So, having prepared her castle, Evelyn made her way down into the valley.
+
+She could’ve gone the most direct route through the dark forest, like the man had. However, Evelyn was creeped out by the sinister vibes it gave off. That might not have made much sense, given how powerful she had become, but it was inexplicable. The valley was more picturesque, regardless, and would make for a more relaxing journey.
+
+It didn’t take long to traverse the rocky path. The arena wasn’t gigantic, as it had only been prepared for a one-versus-one battle. Along the way, she had seen her monsters battling the opposing monsters. Hers were definitely stronger, and it seemed as if they were spawning quicker. Perhaps there had been a penalty imposed on her opponent for getting killed?
+
+It was the only explanation. She refused to believe someone who had reached the 12th Floor wouldn’t be able to grasp how the challenge worked and figure out how to efficiently develop their castle. She approached the hill leading to his castle, making sure to stay stealthy now that she was close. The last thing she needed was to get his attention.
+
+Not that she didn’t think she could take him down once more, but all she wanted was to figure out a plan of attack. It would be too much hassle to have to beat him down again. He had followed a similar route to her, and Evelyn saw a few gold mines scattered around, as well as a palisade. His was only at Lv.0, however. It wasn’t much of an obstacle and she clambered over with ease.
+
+She spotted him, by the gates of his castle. He stood still and his eyes were gazing into the distance. It seemed as though he was reading through his menu. It gave her a perfect opportunity for some mischief.
+
+Evelyn crept over to one of his gold mines, making sure to keep her footfalls silent. It was a painstaking thirty seconds. Each passing moment she wondered if he would stop what he was doing and look over to see her, but he didn’t. When she was right next to one of the gold mines, she reached into herself and began to channel her mana.
+
+Lining up behind all four of his gold mines, Evelyn unleashed a Flashfreeze Flamecharge, and it had a beautifully ruinous effect. All of his structures exploded in a shower of flame and a burst of ice, leaving nothing but charred and frozen ruins behind. That wasn’t all.
+
+He turned in horror to see the destruction she had wrought with her skill. The man rushed over to catch her in the act, but Evelyn had already fled. It wouldn’t have been too difficult to take him out once more, but her gold had been accumulating all the while and every minute she didn’t spend it was a minute of lost income. Having crippled the man’s source of gold, she was free to take the lead in a big way.
+
+With plenty of gold having built up, Evelyn was free to make some purchases. She bought three more gold mines and upgraded them as well as building the barracks and bringing it to Lv.1 immediately. She also bought two arcane wells and upgraded them, which cost most of her gold. The rest went onto a variety of upgrades for the monsters. With the man having no path to upgrading his own, they would slowly overwhelm him.
+
+He may be able to hold them off himself, for now. But that wouldn’t be the case forever. Even the strongest challenger couldn’t take on an army alone. And hers was only going to keep getting bigger, and stronger.
+
+Evelyn’s Castle
+
+175/175 Health
+
+Gold: 0 (51/min)
+
+Magic: 0 (10/min)
+
+*Structures**Upgrades*
+
+*Spells*
+
+*Upgrades*
+
+Monster Spawn Rate Lv.10 - 11 Gold
+
+Increases the rate at which monsters spawn and assault the opposing castle
+
+Monster Strength Lv.6 - 5 Gold
+
+Increases the strength of the spawned monsters
+
+Monster Weaponry Lv.1 - 4 Gold
+
+Provides more variety and increased quality in your monsters’ weapons
+
+Monster Armour Lv.0 - 3 Gold
+
+Improves the quality of your monsters’ armour
+
+Castle Health Lv.3 - 20 Gold
+
+Increases the health of your castle
+
+Tier 2 Castle - 1500 Gold
+
+Unlocks more structures, upgrades and spells. Increases level cap on structures
+
+Her main focus for now was on their spawn rate and strength. Equipment was secondary given that her goal was overwhelming her enemy with sheer numbers. Besides, the upgrades were cheap and she would just stay near her castle and keep pushing them every time her income arrived. It wasn’t just the upgrades, either.
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+Class: Unyielding Warrior (Rare) Lv.3
+
+|Attributes|
+
+Power: 10 (11)
+
+Speed: 4
+
+Stamina: 8
+
+Vitality: 17 (19)
+
+Mana: 13
+
+Fortitude: 25 (42)
+
+|Skills|
+
+~Passive~
+
+Bulwark (Rare), Bulwark (Uncommon), Bulwark (Common), Stargazing (Uncommon), Stargazing (Common), Assassin’s Eye (Uncommon), Bargain Hunter (Uncommon), Backlash (Uncommon), Stellar Body (Uncommon), Stellar Body (Common), Capital Gains (Uncommon), Pugilism (Uncommon), Surging Blood (Uncommon), Impregnable (Uncommon), Arcane Shield (Uncommon), Arcane Shield (Common), Spendthrift (Uncommon), Solar Fusion (Uncommon), Salvo (Common), Corruption Resistance (Common), Focus (Common), White Infusion (Common)
+
+~Active~
+
+Fists of Frost (Uncommon), Mana Plate (Uncommon), Conjure Rock (Uncommon), Flashfreeze Flamecharge (Rare), Starlight Strike (Common)
+
+~Hybrid~
+
+Overpowering Spirit (Rare)
+
+Essence: 2122『+1054 / 5:59:12.6 hours』
+
+~~ Stars ~~
+
+Grey: 128
+
+White: 3
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+**Class**
+
+【KILL】

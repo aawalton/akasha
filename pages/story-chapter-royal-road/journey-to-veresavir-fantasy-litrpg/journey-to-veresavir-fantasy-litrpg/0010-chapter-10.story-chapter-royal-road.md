@@ -1,0 +1,207 @@
+---
+id: d742c509-3652-557d-b2ce-a3a5dcd7d54d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10"
+slug: 0010-chapter-10
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 10
+ownLength: 3174
+unit: words
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2704422/chapter-10"
+royalRoadId: "2704422"
+---
+
+Chapter 10
+
+“Looking for and collecting herbs in the wilderness?” Veron asked.
+
+“Yes. I'll sketch them for you and add descriptions and explanations as to how you should collect them. And I pay you for everything you bring.”
+
+“What are they for?”
+
+Warren seemed a little taken aback. “What are they for?”
+
+Veron nodded. “I'm interested.”
+
+“Well, sorry, unexpected question I guess. Never really had an adventurer ask what ingredients were for. I have most things I need regularly already growing in the garden but I'm interested in more exotic and hard to take care of plants. For tea blends, beer brewing experiments, and some for medicinal use as well.”
+
+“I ask because I'm interested in learning more about them. Can you teach me something about the things that I find? In addition to the payment?”
+
+Warren gave him a look and then laughed. “What a strange bargaining position to be in. Never thought I'd be in the worse position when offering a simple job like this. But sure, more so because you seem genuinely interested in science and magic. You don't have experience with herbalism and alchemy as of yet?”
+
+“Absolutely none,” Veron said with a smile.
+
+Warren sighed. “Let's get you started then. I will deduct some of the pay for teaching you at least. Not like you would know how much these herbs are worth anyway.”
+
+Veron looked at the sketched plants and instructions on the few sheets of paper that Warren had given him. He had also gotten the six silver pieces, small coins that felt well made. Five of them had a small anvil depicted on them and one had a hammer on it.
+
+“I was wondering when that old vulture would try and snatch you up,” Ivera said. “If you start in the same direction that I choose on the day and don't stray too far from the village, I don't think it would be too dangerous. Definitely more risky than coming with me but you have proven yourself to be able to fight. And I would be surprised if something dangerous to you manages to slip past me.”
+
+“Sure you wouldn't miss me on the patrol?”
+
+She gave him a short laugh. “Unsure if I will survive.”
+
+“I'm thinking I could alternate. Learn from you and make a little bit of money from Warren.”
+
+“Your choice. Just tell me the evening before if you want to join.”
+
+“I was wondering, maybe you're willing to share. What's his story? Just find it a bit strange that he would hire someone to go find herbs.”
+
+“What do you mean? It's a perfectly normal request.”
+
+“I suppose it is but you know, he seems just so interested in all of it. His demeanor made it feel like more than just a simple job.”
+
+She looked at him for a long moment. “I'm sure if you earn his trust, he will tell you more.”
+
+And that was that. But he got the feeling that his hunch was right. He would still work with Warren because Ivera didn't seem bothered by it, and if she didn't complain, he wouldn't either.
+
+The next day, most of the clouds had cleared. It was a nice day out and Veron followed Ivera into the forest. This time however, he soon stopped and left her to her patrol.
+
+He looked around himself at the wilderness. It didn't feel quite as intimidating anymore. He was familiar with this area, with the trees, the sounds, and quite a few of the animals one could encounter. And this time, while he was alone, he was no longer naked and armed with grammar sheets.
+
+It had taken him three months, closer to four or five months on Earth, with how long the weeks here were, but he had a pretty okay grasp on the language, had started his foray into magic, had learned a few basics, and he was armed and armored. With a base to return to in the evening.
+
+And now he even had a job. It felt good to have a job. While he enjoyed joining Ivera on her patrols, at best he was unnecessary, and at worst he was a burden. He appreciated the help of course, and he obviously had to learn first to eventually become more useful, but it still felt good now, to be out here with a mission that she was unwilling or uninterested to do herself.
+
+He breathed in, feeling the familiar weight of his shield and spear, the only addition to his usual gear a large cloth bag with which to carry whatever he managed to find.
+
+Strange to be out here alone, and to feel at least somewhat comfortable.
+
+He started his search. A big part of why he felt comfortable was of course Ivera and her regular patrols. She didn't kill hundreds of ravenous beasts every day of the week but there was a fight more often than not. And so far, nothing had attacked the village, at least not as far as he noticed.
+
+Tenya called her a monster. I wonder if she meant anything specific by that.
+
+At the very least, Eyra didn’t strike him as a boring provincial village.
+
+It felt as if all of them had come here for a reason, though perhaps Aren had lived here first. The perfect getaway. I wonder if Envolon chose this location on purpose.
+
+Well, I think I should focus. Let's try and find some herbs.
+
+It was far more difficult than he had expected. So much of the foliage looked the same, so many of the plants he saw looked similar to each other and similar to some of the herbs in his papers.
+
+Noon was coming around and his bag remained empty, his stomach beginning to growl for some food.
+
+At least I haven't been attacked and killed yet. And the weather is nice.
+
+He looked around and saw a clearing, brushing against the leaves and bushes as he made his way over. He heard the calls of different birds, the rustling leaves above. And then, as he came out onto the clearing, seeing an entire field of herbs with white petals that looked suspiciously like one of the plants that Warren was looking for, he felt something. Familiar and yet different. He closed his eyes and listened, feeling a warm breeze touching his face. It was just a moment but when he opened his eyes, the sunlight coming in seemed brighter, the green of the forest almost vibrant. He could smell the plants, a strange and earthy fragrance that reminded him of cinnamon.
+
+Something had changed and he couldn't help but sigh with contentment.
+
+He felt like he understood a little more about the world around him. Or perhaps he just finally stopped to listen.
+
+Before he checked the herbs, he looked inward.
+
+Elemental Path [Feeble]- Harmony of Earth [Beginner III]- Harmony of Wind [Faint I]- Hidden Harmony [Faint I]
+
+“There it is. My second Harmony.”
+
+He didn't feel surprised. It felt like another piece was falling into place, another part of him coming to the surface. More than anything, he felt grateful, felt as if he was growing, understanding.
+
+For now, he decided to just enjoy the moment. He would think about the implications when he was back in the village for lunch.
+
+The plants he had found looked exactly like the sketch and the description of Veiled Leaf, four white petals growing from a single green stem. The description of the smell fit as well so he checked how to collect them and started.
+
+No creatures came to bother him as he worked and soon, his bag was bulging full of plants, not even half of the field collected. He tried to note where exactly he was but he knew it would be difficult to find the exact spot again. He used a branch and the sunlight to orient himself, like Ivera had taught him, before he started walking, soon hearing the roaring river again and finding the few buildings of Eyra.
+
+“Veiled Leaf. Very well done. I didn't expect you to find something on your first day already. Did you get the entire field?”
+
+“It said to leave about a third of it so that it can regrow. I think I got about half before the bag became a little full.”
+
+Warren smiled brightly. “Someone who can read and follow simple instructions. I'm thrilled.”
+
+He would have taken it for sarcasm, had he not worked with teams of people and customers before. He understood all too well.
+
+“What can it be used for?”
+
+“In almost all applications I know, it's dried first and generally grounded up. Used to spice tea blends and used for some more exotic uses. It's pretty good in food as well, and fetches a good price too because it's very difficult to cultivate and only grows in higher altitudes. I'll have to weigh it to let you know how much I can pay you for all that, but I'm thinking close to ten silvers.”
+
+“Are you willing to share the more exotic uses you mentioned?” Veron asked with raised eyebrows.
+
+Warren gave him a look. “Let's see what else you can bring me in the coming days, and I might be willing to have a conversation. These need to be dried first anyway. If you haven't had lunch yet, stick around, I'm cooking up a nice stew.”
+
+“Thank you, I appreciate it,” Veron said as he found a table at the inn and sat down. He leaned back and closed his eyes, hearing his stomach rumble. Once again, he looked inward.
+
+Elemental Path [Feeble]- Harmony of Earth [Beginner III]- Harmony of Wind [Faint I]- Hidden Harmony [Faint I]
+
+Wind. Wind and earth and something else that is still hidden. It being at Faint I means I'll have to start from scratch again. Simply connecting with the wind until I understand it better.
+
+He still had his armor on, his helmet sitting on the table next to him. A quick check revealed that he couldn't connect with the wind whilst inside the inn. Going outside for a moment, he could feel a soft breeze and immediately managed to connect with it.
+
+Back inside, he sat down with his brow scrunched.
+
+He had expected it of course but he had still hoped it wouldn't be the case. His new Harmony used the same Focus as his established one. Which meant that in order to gain a better understanding of it, he had to split his attention, and thus his progress with either of the harmonies.
+
+What would I even do with wind at this point?
+
+If the progress is the same, Faint means I'll be able to feel a connection, and once I hit Beginner level, I'll be able to shape wind that I touch?
+
+It felt more elusive as well, with his inability to connect here inside of the inn but being able to find a connection immediately outside. Did it mean there had to be a breeze or strong wind for him to use the magic? Was it a matter of being outside, in nature?
+
+One thing he knew, it felt intriguing. Earth felt so grounded and easy to understand. Grab a bunch of rocks and shape them into whatever you need. Wind on the other hand, felt like an entirely different thing.
+
+Because it is.
+
+Warren brought him a plate of food, vegetable and oat stew with fresh herbs. It smelled hearty and delicious. “You seem like you're working through a problem.”
+
+Veron didn't feel comfortable enough to share that he had unlocked his second harmony. Warren likely believed that he was simply new to adventuring, not to magic itself. So, he asked about something else he was wondering about.
+
+“I've seen a few adventurers come through and stay at the inn but it's been a while.”
+
+“Probably the rain. The roads that lead here are not the easiest to travel, with Eyra located within the Teriam mountain range. It's arguably the safest way to travel north but if the weather isn't great, that can change quickly. Wouldn't be surprised if most travelers either went around the range when they saw those clouds or they're still camping out in Lyrie or Perrion. Now that summer is almost over, we'll have fewer and fewer travelers coming through.”
+
+“You don't sound too bothered.” Veron said and started eating.
+
+Warren laughed. “Well, life up here can be quite peaceful. As much as I need some income and both adventurers and a few traders coming through, I didn't exactly come here to earn a lot of gold. I enjoy a few guests but when all the rooms are full and two dozen tired adventures want to be fed, the job becomes a lot more strenuous.”
+
+“Does that happen often? I love the stew. Which herbs did you use?”
+
+“Niram and Heffen Leaf. Very basic and easy to grow, good in a stew if they're fresh but no particularly interesting uses otherwise. Horrible in tea as well. As to your other question, it's pretty rare. Sometimes, a larger group or even expedition has a stop here before going out to explore one or the other ancient ruin they're hoping to find in the mountains, but it's been a few years since that happened.
+
+“Otherwise, it's quite busy right before winter, usually the last week of Veriar before the first snow starts to fall. Two or three weeks after that and the roads are impossible to travel. And then of course it’s busy again right when the snow thaws in spring.”
+
+“They want to get through before the snow hits?”
+
+“Yeah. Lots of people returning home for the winter, some trying to get a mountain range between themselves and whatever trouble they're in, others perhaps just looking for a better future, and with the coming winter hanging over their heads, they might think that they would remain stuck wherever they are.” He chuckled a little at that. “It's funny because you always get people hoping the north would be better and people thinking the same about the south.”
+
+Veron could understand the reasoning. If you felt stuck somewhere or if things didn't work out, starting out somewhere else seemed like a really good idea, didn't really matter where you were before. Most people were looking for opportunity and work in the big cities, and before he had arrived here, he had gone to the countryside in the hopes of finding something there.
+
+“I guess they're just looking for something different and new.”
+
+“Yeah, some are wise enough to understand that, others think that their problems or ineptitude will just magically disappear whenever they get to their destination. I do wonder sometimes where they end up and if they find whatever they'd been looking for. I like that part of the job.”
+
+“I can see that. Lots of people with interesting journeys coming through.”
+
+“Yeah. So, what about you then? Think you'll be staying around through winter, Veron the adventurer?”
+
+“I think that depends on how capable I feel before the end of autumn.”
+
+He hadn't planned to stay forever, as peaceful as the village was. The Holts had been incredibly welcoming and helpful but he didn't plan to take advantage. As soon as he was capable, he would likely leave for Anvakar, find work there, and eventually, find a way to repay them. And by now, he had gotten close enough to them, he would want to visit here and there anyway.
+
+“Well, with you already going into the wilderness and fighting beasts, I'd think you're more than capable already of taking low ranking jobs from the Guild, or perhaps even exploring the first layer of the dungeon. As much as you'll probably be made fun of for being an elemental path trying himself as an adventurer, being able to make and repair your own gear will give you an edge early on. So don't let it discourage you.”
+
+“Is that a thing? Why would an elemental path be any worse at fighting and adventuring than any other path?”
+
+“They aren’t. But you know how people are. You don't fit in, you're seen as strange, have to work harder to be accepted. Non-combat focused Path, different colored skin, horns, pointy ears, a voice that is too high or low pitched, you get the point. Plenty of powerful elemental path adventurers out there and anyone with experience won't give you a hard time but especially at lower levels, devotion paths far outnumber everyone else. At least in adventuring.”
+
+“Thanks for the heads up. I'll try not to let it get to me.” As long as he wasn't outright attacked or entirely disqualified from joining whatever Guild adventurers were part of, he didn't think it mattered a whole lot. Perhaps it would be more difficult to find a team that accepted him but he would figure it out when he got there.
+
+“Thanks for the meal, Warren. I'll relax for a while and then head out again.”
+
+“Good to have you around, Veron. Looking forward to your next find.”
+
+He didn't find any herbs that afternoon.
+
+The next day out with Ivera was uneventful and so, the day after, he went out again in search of plants. For now, he kept using his Focus on his earth harmony, hoping to soon break through to the next level, whatever change that meant for him.
+
+He went towards the northeast this time around, crossing over the small stone bridge a few hundred meters away from the inn. He wondered who had built it, wondered if one day he would be able to build a bridge of stone as well. Did they only use elemental paths to build things like this or were they using more conventional means as well?
+
+Tapping the stone, he went onward on the small dirt road leading up to a forested and hilly section of the broad valley. He really wanted to see a town, wanted to see how magic intertwined with everyday life, and how the different paths employed their abilities.
+
+Maybe I should leave before winter. And if I get better at finding herbs, I could make a bit of money to maybe join a group of travelers and to start out in a town.
+
+His first self-given quest had been to find shelter and to find people. Now, he knew a few things about this world, could wield a bit of magic, and started to feel semi confident whilst out in the wilderness. And yet the more he learned, the more things he wanted to discover.
+
+He looked at the bright green nature around Eyra, taking a moment to appreciate it all. He felt the weight of his shield and spear, the stone comforting in his hands as he felt a warm breeze flowing through. And then he focused on the task at hand. Finding the elusive herbs that Warren had sent him out to get.
+
+Where to explore first?

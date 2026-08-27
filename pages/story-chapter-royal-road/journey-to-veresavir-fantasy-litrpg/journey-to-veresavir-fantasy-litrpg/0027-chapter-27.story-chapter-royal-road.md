@@ -1,0 +1,231 @@
+---
+id: 0597c50d-304a-543a-8778-8ce484a4f7a3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27"
+slug: 0027-chapter-27
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 27
+ownLength: 3298
+unit: words
+publishedAt: 2025-12-06
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2824942/chapter-27"
+royalRoadId: "2824942"
+---
+
+Chapter 27
+
+They didn't come across another Vereltir on the way back to the tower. Or in the three hours after that. They did encounter one other team also on the hunt for the same creatures but didn't approach the group.
+
+Veron wasn't sure as the light here didn't change but he assumed it was mid-afternoon by now and the others were considering the next steps.
+
+“I think we can cut back through the Old Forest, see what we encounter on the way. It will be good for Veron to familiarize himself with the place too,” Reka said. “Two out of three is good enough. You all feel rested enough for a few more small fights?”
+
+The others confirmed, as did Veron.
+
+They left the area of the tower and went to the dark and gnarled tree line. Hayden talked along the way. “The main thing to worry about in the forest are Grineltail, a type of venomous snake, and Clot Ravens, black feathered birds, and of course the mosquitos. All three are of the blood path. Occasionally, one can encounter a Cayaralan, large ants from the Burrow but they’re rare so far south and east. Those should be the only ones we would struggle with. But maybe we’re lucky and a strong variant of the earlier three shows up.”
+
+“Snakes, birds, mosquitos, and ants,” Veron said. “Right.”
+
+“If you see any areas with mist, avoid them,” Silvie added and they went inside.
+
+Veron noticed the change immediately. It was cooler here for one, the air less humid and more crisp. The gray light from the ceiling had a hard time pushing past the dark branches of the ancient looking trees. And it was quiet.
+
+“This may be a moot point,” Reka started. “But be wary of other adventurers in here. We'll stay close to the marshes but the Old Forest is usually the first place an iron team explores after leaving the Crypts.”
+
+“They make for easy targets,” Hayden said.
+
+Veron nodded. “I was wondering. You can extract essence from humans as well, right?”
+
+“From any living thing, yes,” Hayden said, turning on the lantern strapped to his hip.
+
+Veron noted that Reka didn't do the same.
+
+Slowly, his eyes adjusted. It wasn't quite as dark as in the Crypts but in certain sections, it got close. The others moved with confidence but Veron had to constantly check for roots and low hanging branches, occasionally flinching back when he thought a branch was a snake.
+
+A few minutes passed before he saw the first movement, a small critter jumping off a tree and gliding to another. It was gone again in seconds. Veron raised his eyebrows, feeling something familiar in the air.
+
+“Vencat, elemental path critters who live in the forests down here. They’re not dangerous,” Hayden supplied.
+
+Veron tried to spot the creature but couldn't find it anymore. They didn't see another one for a while. He stepped on a branch and looked down, seeing a spider the size of his hand rush away into an ancient hollow tree. Looking ahead, he saw Hayden dim his lamp, grayish light from above pouring into a small clearing beyond, reflecting off a few pieces of metal. Slowly, he advanced, seeing slight movement as dark winged birds the size of his chest fluttered between the nearby trees and what looked like three human corpses. Adventurers, by the look of their gear.
+
+Silvie quietly joined his side and talked in a whisper. “Aim for the leftmost one. On my signal.”
+
+He got an arrowhead rock and then a second one, holding them in his left hand as he looked at the birds. There were five of them he saw and they looked focused on the corpses.
+
+Veron connected to and charged the first rock with his Focus. They were about ten meters away.
+
+The signal was a blood lance cutting through the air and striking down a bird on the right. Veron loosed his rock, aimed at his own target that spread its wings as soon as another bird cawed in warning. The stone struck true, the bird fluttering up, spinning and then falling as Veron already charged his second one. He saw the other three birds take flight as Hayden stepped out into the clearing, the creatures turning in the air and circling above them.
+
+Silvie and Reka stayed close to a tree, so Veron did the same.
+
+The birds rushed down at Hayden, one of them he slammed away and maimed with his shield. Another landed on his back and picked at his armor, loud impacts and tearing noises resounding as it clawed itself into the metal. The third bird went for his head, Hayden using his hammer to push it back for a moment before it came down. Veron wasn't confident in shooting his rock and not hitting Hayden, so ran forward instead. He saw that Hayden didn't flinch as the bird clawed into his helmet, a blood lance flying past him and ripping the raven away with a tearing sound.
+
+Hayden reached behind himself but his armor prevented him from grabbing the second bird.
+
+Veron reached him, let go of his spear and grabbed the fluttering creature, tackling it down to the ground and slamming his shield into its struggling form. It pulled out of his grasp on the second hit, Veron grabbing one of its legs before it flew off, talons gripping his arm and pushing into the rock with unnatural strength. He swung the bird high and slammed it down onto the packed earth, then brought it down a second time, leaving it dazed. He let go of his shield, grabbed one of his daggers and pierced it through the creature's head.
+
+Veron steadied his breath and looked around to see if there were more but the clearing had returned to silence. Hayden turned up his lantern again. Silvie and Reka joined them, the latter checking Hayden’s back and face.
+
+“You okay?” Silvie asked Veron as she approached. “That was pretty involved,” she said, glancing at the dead bird next to him.
+
+“Yeah, I didn't trust myself to not hit Hayden.”
+
+“Good call probably.”
+
+“The plate is torn up a little, but it should hold up until we’re back,” Reka said.
+
+They tore up metal? Veron looked at his left arm and saw the imprints of large talons where the stone had cracked. It hurt but the bird hadn't gotten through entirely. He quickly connected to his armor to both repair the damage and release the pressure.
+
+The others had moved on to the corpses. “Veron, Silvie, claim your kills. I’ll check on the bodies, see if we can find out more,” Reka said.
+
+Veron took his two birds, finding that the arrowhead had pierced the first bird center mass, resting now within its chest cavity. He used his limited ability to float rocks to pull it out and then set the bird down next to the other. He looked around and found a few roots that looked like a good place, carefully moving the corpses there and setting them down. Veron knelt next to them and kept one hand on each of the birds, closing his eyes for a moment as the rest of the world drifted away.
+
+He smelled blood and old wood, feeling the earth below his knees, feeling the weight and ancient rock reach ever deeper. Blood, a forest of ash, a city of ash, and fire. He blinked his eyes, the two birds dead and gone, barely standing out between the dark roots cradling their feathered wings.
+
+Strange. That felt different. At least a part of it did.
+
+Hayden had watched over him, the two of them returning to the others where the armored man laid to rest the only raven that he claimed.
+
+“When I touched the ravens just now, something felt strange,” Veron spoke up, Reka and Silvie glancing his way. “I felt the earth, as I often do when I extract essence, but then I saw something that… felt, more than looked, like an ashen forest, and a city on fire.”
+
+The two glanced between each other.
+
+“The chosen one,” Silvie said, her eyes wide before she started smiling.
+
+Reka glared at her. “Don’t joke around. There are dead here,” she said, sounding serious.
+
+“Yeah. Sorry,” Silvie said.
+
+“Many people have visions of different places and even beings while in the dungeon, when they are close to their magic. It’s a reasonably common experience. I’ve even heard about that burning city,” Reka explained.
+
+“Another thing shrouded in theories and mystery?” Veron asked.
+
+“Kind of. Some weaker adventurers have seen places that correspond with deeper but known layers of the dungeon. The visions that don’t correspond with any known locations could suggest there are deeper layers still that nobody knows about, but that’s just a potential correlation. We don’t have proof,” Reka said. “Either way, I don’t think you have to worry about anything.”
+
+He hadn’t extracted essence too many times so far, but getting a strange vision with it felt more than a little disconcerting. And Reka didn’t seem to know a whole lot about it either, but he appreciated the attempt at reassurance.
+
+This place is freaky.
+
+He tried to grasp at the memory of the ashen forest but could feel it already fading. One thing was sure, he wanted to find out more, if that was at all feasible.
+
+Hayden stood back up, his prayers done.
+
+Reka glanced his way and moved on to the bodies of the adventurers, kneeling down next to them. “Two of them have their throats cut. Faded runes on the trees suggest they walked into a trap. Their likely iron plates are gone, If they even had any, same with anything else valuable they might have had, including their essence. Probably happened this morning, based on how much the ravens have already eaten. Let's keep moving.”
+
+Hayden grunted, his body tense as he breathed deep and sighed.
+
+Veron checked the bodies as well and shook his head. He could imagine why people did this. Cowards, preying on those weaker than them instead of facing challenge and growing themselves. The fact that there was so much challenge around in the dungeon, and an obvious way to get stronger through the Paths left him with no respect for their choices. “Disappointing.”
+
+They closed the eyelids of those who still had them, and moved them into more respectful positions. Though all of them knew that more creatures would arrive soon.
+
+“We could bring them to the base camp,” Hayden said.
+
+“It's too dangerous for us to burden ourselves with their bodies,” Reka said. “And I'm afraid it would frighten other new adventurers. We report it to the Guild when we’re back, let them investigate.” Her voice sounded bitter. “If we see anyone we know at the camp, we tell them.”
+
+Veron got the feeling that this was by no means the first time they had come across something like this. He looked at the dead adventurers and sighed. It felt strange, confusing for a moment, to look at the lifeless bodies. He closed his eyes and connected to the winds, breathing in deep. Sorry you were murdered like that.
+
+They moved on in silence, a cautious and sober atmosphere among them as they slowly pushed back in the direction of the base camp. Other than a few more of the gliding squirrel-like critters and the cawing of Ravens too far away to pursue, they didn’t encounter anything else. Veron breathed a sigh of relief when they stepped back out into the gray light illuminating the yellow and brown hues of the marshes, the stone walls and buildings of the base camp visible behind a few other ruins, the metal pipes leading up into the Crypts jutting out of the ceiling far above.
+
+Still alive and in the dungeon of Anvakar.
+
+Veron stretched his neck slightly and rolled his shoulders. He saw the slight fear, the anger, the grief, all rolling through him, making him tense.
+
+There is danger here as it is. I don’t need to be more vigilant than I already am.
+
+He breathed in.
+
+They were killed, by some cowardly shits, but I don’t have to do anything about that. There is nobody here to fight.
+
+He breathed out.
+
+And it’s sad. To see people exploited like that.
+
+He focused on the wind, and the earth below, breathing in deep, and then he sighed, a tingling sensation going down his back as he relaxed ever so slightly.
+
+You’ve fought monsters. You’ve advanced your Path. You’re here.
+
+Feel.
+
+He felt the weight of his armor. His breaths felt lighter.
+
+Veron felt some tension returning when they’d climbed past the walls of the encampment, more aware of the movements and glances from the many other adventurers down here, though he hoped that not many here would stoop so low as to hunt other humans. He felt a little relieved when a few of them greeted Reka in passing, others laughing and telling stories around small campfires.
+
+He saw that she stopped and whispered to a few of them that had greeted her, the looks on their faces turning more serious.
+
+Veron wondered if it would change anything. At the very least, that group would be more alert. Sparring with the others sounded more and more like a good idea. If he ever came up on people looking to kill him for some easy loot and essence, he wanted to be more prepared.
+
+“Ready to get back out of this shithole?” Silvie asked as they reached the many chains hanging down from the metal pipes.
+
+Veron looked at his mud covered legs and then back at her. He smiled, a little surprised that he felt pretty ambivalent about leaving. A hot meal and a bath sounded enticing, but while he felt some fear, this place was also getting more and more intriguing.
+
+“You know, I’ve just started to like the place.”
+
+She laughed. “Well, I’m sure you’ll be seeing it again soon.”
+
+“Grab on, we regroup back in the Crypts. And stay focused,” Reka said.
+
+Veron grabbed one of the chains and started climbing.
+
+When he had arrived near Eyra, he hadn't considered himself unfit, but neither was he a peak specimen of strength and dexterity. He would have struggled climbing this chain. With the stone armor and all of his gear, he would have fallen. Now, with his Path at the Modest stage, he found the task straining but very much manageable. It took him a while but he wasn't a lot slower than Hayden. Reka and Silvie had arrived first, likely due to their lack of heavy armor. Or they were just stronger.
+
+Veron stretched and sighed in a content manner when he joined the others in the lowest sections of the Crypts. He had been focused on the dungeon itself, and he still was, but he knew that both his strength and his Focus had increased significantly since they’d stepped onto the platform at the top of the pit of Anvakar.
+
+The big asshole.
+
+Veron started to understand the dry humor associated with the naming of this place. Reka may not be one for dark humor in the face of death and the unknown, but he personally, was a fan.
+
+The leader of the Silver Wolves quietly led them through the Crypts, the group encountering a pack of rats and later a group of skeletons including two skeleton dogs, all of which they dispatched without heavy injuries. Veron got to use his mace again, and the shield that Reka lent him.
+
+He wasn't sure how much time had passed when they turned a corner and saw out into a broad and open space, the hole at the center of Anvakar. Veron sighed in relief when they stepped out and he saw the darkening and gray sky above. Something shattered ten meters or so away, Veron assuming that staying at the bottom of the pit would be continuously more dangerous as the evening progressed. In account of the likely increasing general inebriation.
+
+Hayden pulled on a chain that reached the bottom, and half a minute later, a lift started to descend. Torches and lanterns at the bottom floor illuminated some of the other teams that were returning. With how many had still been at the base camp, Veron assumed that quite a few of them would stay in the dungeon overnight.
+
+Slowly, they ascended, Reka paying the two handlers of the lift before they stepped aside.
+
+Silvie stretched and Veron yawned. Hayden rolled his shoulders and Reka smiled.
+
+“We made it back before midnight. Let's get some dinner. Well done everyone,” Reka said.
+
+The atmosphere in the city was vibrant as they made their way to the Guild and then the Willard inn, the others waiting outside while Reka reported what they had seen. She was only gone for a few minutes.
+
+“They're aware of it. And I'm told several groups have already been taken out just this month,” Reka reported and they moved on towards the inn.
+
+Veron expected them to say more. Was it just par for the course here? Desperate people delving into the dungeon, others taking advantage of them. It was what everyone had warned him about. He supposed that if you stayed here for a while and planned to go into the dungeon on a regular basis, it was just something you had to deal with and process occasionally.
+
+“Pretty fucked up, all of that,” he said.
+
+Hayden grunted affirmingly. Reka said nothing.
+
+“We’re back and alive, that’s what matters,” Silvie said.
+
+The stark contrast of all the death and danger in the dungeon and the music, conversations, and laughter in the densely packed and narrow alleys of Anvakar was strange for a while but soon, Veron realized that it simply couldn't be another way. Slowly, the tension and excitement of the day made way for comfortable exhaustion. He was looking forward to a hot meal and a bath. And he knew that everyone else who had spent the day down there was now looking for ways to distract, vent, grieve, or celebrate whatever had happened in the dungeon.
+
+A band of bards were playing an exciting tune when they entered the grand hall of the Willard Inn, a group of people sparring in the training area, and dozens of teams having dinner or drinks, the buzz of conversation and music continuing almost seamlessly from the alleys outside.
+
+Veron shuddered at the warmth in the hall, and smiled at the scene.
+
+Yeah. I do think I like this place.
+
+Dinner was a hearty stew. They ate mostly in silence, until their initial hunger settled. Hayden brought cake and tea for everyone afterwards.
+
+The warmth of the brew made Veron sigh, leaning back in his simple chair. He was more and more aware of the aches in his body, the exhaustion in his bones. And the smell. His own and that of the others. Blood, mud, and the now familiar foul scent of the Gutter.
+
+“Thought that thing had you when your shield shattered,” Silvie said.
+
+“He’s a tough one for his level,” Hayden said with obvious approval.
+
+“Things went well, all things considered,” Reka said, blowing on her tea.
+
+Hayden motioned to the cake, distributing the four pieces among them. “And we’ve got cause to celebrate, beyond another successful day in the dungeon.”
+
+Silvie moved over and put her arm around Veron. “A modest man.”
+
+“Modest man of earth,” Hayden said.
+
+“I’m seeing the theme,” Veron said.
+
+“It’s not particularly complicated,” Reka added.
+
+“Now you’re fine with stupid jokes?” he asked.
+
+“We’re not exactly in danger anymore.” Reka shrugged and smiled. “And I suppose it’s tradition.”

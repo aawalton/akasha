@@ -1,0 +1,153 @@
+---
+id: 49b046f6-dfe0-54c2-8e08-cb844e05d8b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 801 - You will be mine"
+slug: 0127-chapter-801-you-will-be-mine
+partOf: hell-difficulty-tutorial
+position: 127
+ownLength: 2374
+unit: words
+publishedAt: 2026-05-10
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3379967/chapter-801-you-will-be-mine"
+royalRoadId: "3379967"
+---
+
+The ship is currently drifting on the water, listing heavily to one side. A few feylith are moving about, using skills to regrow the wood that forms the hull, while others follow behind, strengthening the new growth so it matches the rest.
+
+One man approaches Lily and, with a deep bow, asks her to follow him to heal a few people. Apparently, the captain requested her personally. There’s no reason to refuse, so she goes, followed by Maya. Min-Jae, meanwhile, leaves as well to help with whatever’s responsible for powering the flight of this ship.
+
+I watch Sophie curse as she moves Blackie somewhere safe where he won’t bump into anything. My eyes slide back toward the door of our shielded room where the cracked egg sits. It makes sense to think it would be extremely difficult to damage, or perhaps it was specifically changed that way for the floor quest, and yet it cracked anyway.
+
+Maybe it happened because it absorbed bits of diluted wyvern blood from the pieces we had. Or maybe it just reacted poorly to being exposed to things from a different floor. I don’t know.
+
+The most annoying part is that we don’t have a new floor quest, and the countdown from last time is gone. The Rulers are the sort of beings that can live for tens of thousands of years, so they might not be in any hurry to give us a new one. Honestly, who the hell knows what could be happening there?
+
+Meanwhile, a damned Bambi Apostle, that reanimated creepy weredeer that even a sweet soul like Izzy wanted to kill immediately, is lurking around somewhere.
+
+And what the hell is even up with that? Did that goddamn weredeer reanimate, only for the first idea that sparked in its mind to be gobbling up a bunch of random furred fingers just lying about in the mud, and then pick a fight with basically every member of the local Absolute’s harem?
+
+It’s our fault, isn’t it? We left the corpse of a deer near a finger, and then we left the egg near pieces of a fake wyvern. Some people just don’t learn.
+
+I force myself to suppress my anger and instead look out through the hole in our cabin. The sky is blue, and there’s not a single cloud in sight. The sun shines gently, and all around us, the waves are constantly swaying, bringing in a light breeze and the smell of the sea. It isn’t that bad.
+
+Soon, my view out of the hole is blocked by the figure of a feylith woman who pauses in surprise as I sit there in a manablock chair right in front of the opening. She chuckles and waves at me, her hair and eyes turning a dark blue.
+
+I wave back, and she begins working her skill, causing the broken shards of wood to slowly grow until they begin covering my view. Tess doesn’t use the opportunity to get in before it closes, staying outside to keep guard instead.
+
+Before the trunk is fully restored, the feylith woman peeks in one more time with a smile. "Sorry for blocking your view."
+
+"It’s okay," I answer, and then the hole is gone.
+
+I sense more people beginning to work on strengthening the restored section and stand up, making my chair disappear. Fixing my glasses and this annoying gray suit with its yellow tie, I head to the shielded room and peek inside.
+
+The egg is still the same with no noticeable change, and Biscuit is still sitting nearby with his chin resting on his front paws and staring intently at it. He’s taking his role very seriously and doesn’t even take his eyes off it as I enter. To show my appreciation, I pet him a few times. While he begins to wag his short tail, I close the door again.
+
+There are already slight tremors vibrating through the ship, so I suspect we’ll be moving soon. This is mostly proven by the time I leave the cabin and make my way outside onto the deck. People are moving about, but not many, which makes me think most of them are locked in their rooms.
+
+"Sir, I must ask you to return to your-" one of the crew tries to tell me.
+
+Before he finishes his sentence, I lift my hand and say simply, "I'm with the healer."
+
+He looks confused, as if not knowing what to do, but in the end decides it would be too much of a hassle to press the matter and simply leaves me alone. I make my way toward Tess, who is resting against the railing with her single eye turned toward the east.
+
+"Now that I think about it-" I begin.
+
+Before I finish my sentence, she lifts her hand and says simply, "Yes, yes, I know. The eyepatch. I look like a pirate. On a ship, sailing the seas."
+
+It amuses me, and I stand by her side, also looking in that direction. "Yup, that."
+
+I'm not sure what she can see, but when I let my glasses slide down just for a moment, I can see the abnormal way ambient mana moves there. All wavelengths of it are moving in broken currents across the sky.
+
+"By the way, you are getting more eerie," Tess says, still not breaking eye contact with that place.
+
+"How so?" I ask.
+
+"I almost can't sense any mana from your body. I know you’ve been using Sneaky Mode most of the time and circulating it to contain it within, but there were always some leaks I could trace or that most people could notice. But now? It is almost all gone. When just sliding my eyes past you, you feel like a normal human with no mana at all. Only your Ignition Heart or the moments when you’re generating kinetic energy might betray you."
+
+"Huh," I mutter, giving it a thought before replying. "The most likely cause I can think of is my blood. It takes my mana and condenses it, so it’s probably drawing in the bits that escape my Mana Cycling and stopping them from seeping out."
+
+"You would know better than me. The Captain said we’ll be keeping to the sea and won't bother with flying anymore. He said it is possible the weredeer attacks everything in sight, so he hopes that the planet's curvature hides us."
+
+"I wonder if we would be safer if we left now and dug in somewhere underground."
+
+"It's always tunnels, isn't it?" Tess chuckles. "I think we should stay. The captain knows what he's doing, and from the members of the crew I bribed, I heard he used to be in a unit that tracked and occasionally fought against Champion grade beings. He also knows this planet's arrays and geology and can use them to our advantage. In the worst case, we can leave or have Sophie take over for him."
+
+"Let's do that then," I agree, looking toward the west one more time. "It's unnerving, isn't it?"
+
+Tess nods. "More than you know."
+
+We’re moving in a way that feels more like gliding than sailing, the hull barely touching the water. The captain guides us in what seems like a straight line, heading away from wherever the weredeer happens to be. All the while, I sense a steady pulse of connections anchored to one of the ship’s masts.
+
+Some of these connections could probably be traced by the weredeer if it were to have enough intelligence or the desire to do so, which is a risk. But at the same time, we seem to be receiving information that helps us stay prepared, so it’s probably a fair trade.
+
+No other Champions try to face that beast, even though six of them still remain on this planet. The other two are with the Princess. These guys here have likely judged the danger and considered a few options:
+
+Either the weredeer is so strong that the six of them combined can’t face it.
+
+And perhaps the remaining ones aren’t fully combat oriented, while the three that died served as the first line of defense.
+
+Maybe they could kill the weredeer, but most of them would die in the process.
+
+Or, possibly, the Princess ordered them to stand down.
+
+It’s that last option that feels most accurate, because about half a day later, something shifts, subtle but undeniable, and the planet itself begins to feel different.
+
+Arrays that were dormant begin to activate, one after another, their light shining in the sky now without any clouds to obscure them. The western horizon deepens into a richer dawn, almost painfully beautiful, and in the air I can smell a faint trace of flowers. Even the colors grow more vivid, as if the world has quietly turned up its intensity.
+
+Then, that beautiful voice speaks throughout the planet. "Have you been lonely without me?" The voice is soft, with no hint of a smile in it, yet it sounds gentle. "My heart aches for what you’ve endured while I was away. But you can breathe again. I am here now."
+
+In multiple places in the sky, the array projects what may as well be a three dimensional screen, which seems to be projecting itself to every large group of people on the planet.
+
+On the screen stands a feylith woman of striking beauty. Her wings are larger than any I’ve ever seen on one of her kind, white feathers unfurled in a way that catches the light. She almost resembles an angel as she walks forward, the distant dawn behind her, showing the sun about to fall below the horizon.
+
+She’s dressed like a Greek goddess from the old classical depictions. Her build is muscular, and each step puts that on display. Yet it does nothing to diminish her distinctly feminine beauty.
+
+The Princess smiles gently at all of us.
+
+She turns around, and the view shifts around her as she takes a step. Everything becomes a blur, moving her hundreds of miles away as she heads alone toward the west and the dawn.
+
+"I returned as quickly as I could," she says, taking another step that blurs the area around her.
+
+When she stops again, her wings spread slightly. Her hair, eyes, and wings all turn a brilliant gold, and her presence radiates even more as she takes a final step with bare feet to appear near the forest.
+
+"You don't have to be afraid anymore," the Princess speaks softly.
+
+Each step she takes makes the grass grow and the earth itself pulse beneath her feet. The ground ripples beneath her feet as if the soil itself is trying to get closer to her touch. Massive and ancient trees groan as they sway to lean toward her, their branches weaving together to form a living canopy over her head.
+
+The wind stops entirely, replaced by a rhythmic breeze that syncs with her breathing. Flowers that shouldn't exist burst from the soil in an explosion of color, blooming and dying in seconds just to carpet the path for her feet. Every animal, from the smallest insect to the largest predator, stops in a trance, turning to follow her in a sort of silent, mindless worship.
+
+It’s like she's the center of the universe.
+
+The Princess reaches a small clearing, in the middle of which another being lies, resting or sleeping.
+
+There, the Reanimated Dusk Weredeer rises to its feet. Its fur is completely black, with massive antlers and twice the height of the Princess. Thin and dangerous. Unhealed wounds cover its body as it stands there slouching, its front legs warped into long arms with claws at the ends.
+
+Its lower jaw is entirely gone. It looks as if the deer we saw on the 9th floor had opened its long mouth, the one that went through the entirety of its neck, and someone simply tore the bottom part away. The upper teeth still remain, but now there’s an empty hole where the rest should be, the bleeding even now seemingly refusing to stop.
+
+Lastly, there are four furred fingers. Each of them grows from some part of the weredeer's head. One replaces the right eye, poking through the socket. Another shows only the tip from the left temple, the rest of it remaining buried inside the skull. The remaining two sit next to each other, growing directly from the forehead.
+
+And the beast doesn’t attack, it just hangs there, swaying gently from side to side.
+
+"Oh, you poor, precious thing... Are you hurting, too, my sweet baby?" The Princess says, stepping closer hurriedly. She reaches out with her hand, gently caressing the weredeer’s shoulders, ignoring the blood that stains her fair skin.
+
+The weredeer continues to stand there, slouched over her smaller figure.
+
+"You must be in so much pain. Is that why you’ve been so restless? Is that why you’ve been so very bad?" The Princess pets it, and the weredeer lowers itself so she can touch its cheek. More blood dirties her hand, some of it dripping onto her face and white clothes.
+
+I can't take my eyes off the screen. It feels like I'm right there, also affected by the Princess’s presence, watching the beautiful woman and the beast in the last rays of the dawning sun.
+
+"You are breathtaking... and so powerful. You will be a worthy replacement for my precious Champions. You will be mine."
+
+The last rays of the sun disappear behind the horizon, and the gentle orange light fades, changing the atmosphere entirely.
+
+"You will be mine," the Princess repeats.
+
+The weredeer lowers itself even more, and one of its hands moves, touching the Princess’s cheek the same way she touched its own.
+
+"You will be mine," the feylith woman repeats, her voice much firmer now.
+
+The other hand of the weredeer moves, resting on the opposite side of her head, brushing her other cheek.
+
+"YOU FILTHY ANIMAL, I SAID-"
+
+She doesn't get to finish as the weredeer pulls all at once, tearing her head off her shoulders with the spine still connected. Before the screen in the sky disappears, I see the beast squeeze the head until it pops.

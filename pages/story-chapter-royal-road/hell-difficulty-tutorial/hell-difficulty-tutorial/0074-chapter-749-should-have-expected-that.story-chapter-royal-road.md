@@ -1,0 +1,159 @@
+---
+id: 9d74a967-8a84-5e7f-930a-cc17f47b2333
+page-type-slug: story-chapter-royal-road
+title: "Chapter 749 - Should have expected that"
+slug: 0074-chapter-749-should-have-expected-that
+partOf: hell-difficulty-tutorial
+position: 74
+ownLength: 2294
+unit: words
+publishedAt: 2026-02-11
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3038239/chapter-749-should-have-expected-that"
+royalRoadId: "3038239"
+---
+
+The third event starts, leaving the disciples behind while their masters appear inside. The minion tournament should take place before the last event, with me still wondering if the black wolf is going to participate.
+
+I don’t enter this event, given that I don’t want to be kicked out right at the start again, and it seems like Lily doesn’t want to participate either. The very same girl who had promised me she would join has decided to remain behind in the barrier with me.
+
+“I thought you were okay enough to join the event,” she snorts.
+
+“I lied. I thought you said you were going to join the event.”
+
+“I lied,” Lily says simply.
+
+“You know what? You’re really a stubborn fucking musclehead. Just join the goddamn event and get some damned points finally instead of just sitting here.”
+
+“Fuck you,” she answers.
+
+I blink a few times, feeling my annoyance rise. “You know what? Fuck you too! I told you I'm okay.”
+
+“Try guessing how many times you’ve passed out for seconds at a time, and I’ve had to heal you without you even realizing.”
+
+“Bullshit. Nothing like that has happened.”
+
+“Twice.”
+
+“I may not have emphasized it correctly, or maybe saying it like ten times wasn't enough. I don't want you to sacrifice any more for me. At this point, I can handle this on my own.”
+
+In response, she shrugs at me from her place seated beside me. “I'm sure of that. Even unconscious, you’ve continued to circulate your mana, and I’m sure you would survive just fine. Maybe just with a few more scars. I’ve never seen anyone as stubborn as you, so I know you could have been okay on your own.”
+
+I force myself to calm down. “So, Lily The Bulldozer Chen, why don't you just go to the event?”
+
+She smiles weakly. “Just in case. I want to be absolutely sure it doesn't go wrong and that I won't regret it in the future in case something unexpected happens. In some ways, I'm still just a little pathetic and scared, so I’ll do this. What are some tutorial event rewards in the face of that? I'm plenty strong even without them. So, what are we doing?”
+
+We exchange a gaze. I look at her, still annoyed, but she doesn't look away at all, and in the end, it’s hard to bring myself to stay angry.
+
+With a groan, I stand and wave toward the stacked barrier, a structure created and powered by several people from Hell difficulty, along with the mana batteries linked to it.
+
+The air around me resonates, and with a ripple, the barrier breaks into tiny particles that rain down around us. The pressure around me blasts them all away like they are particles of dust carried by the wind, before I force my mana back under my control. Standing there, I close my eyes and take ten deep breaths in and out.
+
+When I open my eyes, all the mana and thermal energy are pulled back, contained inside my body, where they continue to clash. None of it’s seeping into the area anymore. Not even a speck.
+
+“We’ll go and look for the thermonuclear warheads I had Tess bring here for me,” I tell her and start walking towards where the residence our group rented should be.
+
+On the screen, there are thousands of people standing in the middle of a circular cobbled area surrounded by thousands of dungeon entrances around the edge. And each of the entrances is different. Some take the shape of a door set into an old tree, others are simple sets of stairs leading down into the ground, while others might take the form of circular holes in the air, shimmering as if they were made of liquid mercury, or stone arches opening into vast interior spaces.
+
+From the description, I know they’re all dungeons, not unlike the ones that are due to start appearing on Earth.
+
+None of them is marked to indicate their difficulty, and it’s left up to each person to try and get an estimate for themselves. For some, it might be a simple process of checking how much mana is radiating from the entrance, while others seem to be hiding it.
+
+Meaning that, if you aren't careful, you could end up in a dungeon that contains a Champion grade monster, at least here, in the tournament. I hope none like that exist on Earth. Though... maybe it would be fun if there were.
+
+I stop again and close my eyes. Another ten long breaths and a new scar forms on the side of my thigh. Even as I'm improving, the changes to my body are becoming more far-reaching. I observe them the entire time, and I can feel them. I can see how much more my body is becoming fitted for what I need.
+
+Future consequences be damned, but by going along this path, I don't think that after this tournament, there will be more than one or two attendees capable of facing me in Beyond. In a way, Nyssa, with her Primordial Blood, and I are a bit more similar now, with the only difference being that I'm doing all this voluntarily.
+
+It’s a cost I just have to accept, but I feel it’s necessary. Otherwise, I’ll only end up being thrown around and manipulated by people stronger than me. After all, I think I’ve already decided to kill Adrian, but let's have Sneakythaniel hide that for now.
+
+Adrian is also one of the many people participating in the event, currently waiting with all the rest of them for the moment the doors open, and they’re allowed to enter. He alone stands near one of the most unassuming doors, just talking shortly to a person or two as they stop by.
+
+After watching for a while longer, I take my eyes off the screen just as we enter the forest nearby.
+
+It’s a weird feeling to walk around now so freely, though the area is empty and all of the other attendees are already participating in the event. I spot just a few young kids here and there, disciples of other people from Hell difficulty. Most of them just look our way and don't try to talk to us, and I don't make any attempts at conversation either.
+
+As we get closer to the residence of group four, I notice multiple mana signatures. At the same time, my mana attempts to lash out, but I forcefully strangle it and pull it back under my influence to force it back into the raging river flowing through my body.
+
+Yet another notification rings, adding to the flood I’ve gotten since the tournament started. Just as we find ourselves approaching Wolfy lying next to our apartment, I take a moment to check them all.
+
+[Perception - lvl 70 > Perception - lvl 71]
+
+[Redistribution - lvl 71 > Redistribution - lvl 72]
+
+[Eclipse - lvl 59 > Eclipse - lvl 60]
+
+[Eclipse - lvl 60 > Eclipse - lvl 61]
+
+[Eclipse - lvl 61 > Eclipse - lvl 62]
+
+[Accumulation - lvl 49 > Accumulation - lvl 50]
+
+[Accumulation - lvl 50 > Accumulation - lvl 51]
+
+[Accumulation - lvl 51 > Accumulation - lvl 52]
+
+[Accumulation - lvl 52 > Accumulation - lvl 53]
+
+[Accumulation - lvl 53 > Accumulation - lvl 54]
+
+[Manifestation - lvl 25 > Manifestation - lvl 26]
+
+[Manifestation - lvl 26 > Manifestation - lvl 27]
+
+[Manifestation - lvl 27 > Manifestation - lvl 28]
+
+[Manifestation - lvl 28 > Manifestation - lvl 29]
+
+[Mana Manipulation - lvl 75 > Mana Manipulation - lvl 76]
+
+I thought the skills were supposed to be harder to level up the higher the level they get. Has everyone been lying to me?
+
+By the time we reach Wolfy, my mana has all been forced back into my body, causing him to give me a sniff. He doesn't say anything, just displays his teeth in a way that looks like a dangerous smile, especially with his maw looming so huge over me that it looks like he could eat me in a single bite. In that moment, he doesn't seem young at all, resembling something more like a dangerous predator. A beast with a body made for killing and devouring.
+
+Then the moment passes, and he lays his head back down on his front paw. Only then do I see Izzy's disciple, Seneca, sleeping against his body. Her blue hair is longer now, yet still continues to reach towards the sky, moving just as a flame would.
+
+There’s probably a question as to why Wolfy isn’t getting annoyed with that or making her stop, but I don’t ask and instead head on towards the residence. Lily, after taking a moment to greet the black wolf, follows behind me.
+
+“Let go of me, you six-armed lunatic!” we hear just as we enter the huge log cabin. Maya’s disciple, the lynthari Enan, is fighting with said six-armed lunatic. That lunatic, going by Deva, is Sophie’s disciple and doesn't seem all that surprised, unlike Enan, by our presence. After all, I sensed her mental magic taking note of us.
+
+She doesn't let us bother her and continues using two of her six arms to choke Enan from behind, while two more keep themselves occupied pulling on his ears. I'm sure he is physically stronger, so he likely hasn’t been fighting back, worried that he might hurt her, which she’s been exploiting fully.
+
+“Oh, look who’s here, the liar who’s apparently owed an answer to a question by the Warden himself. Tell me, liar, who else have you met as of late? Maybe you’ve gotten a lesson from the Magi? Did you make friends with one of the Twelve? Or did you by chance meet one of the last Elfs' replicas?” Deva asks, laughing at her own words as she shouts at me.
+
+“Actually…” I start.
+
+I don't get to finish as she screams, Enan having bitten into one of her arms. She starts punching him while shouting at me, “Don't say anything! I don't believe you! Damned liar! LIAR! LIAR! Demon-like Maniac! My master told me how you are, and I…”
+
+I refuse to listen to the rest of it and continue upstairs instead.
+
+“Your reputation is in shambles right now,” Lily notes to no reaction from my side.
+
+I hear her chuckle behind me. It causes me to stop, and I take another ten deep breaths. Then I continue again.
+
+"So, where do you think she put the warheads?" Lily asks as I enter my room.
+
+"Knowing Tess, they should be right here," I say, reaching out to pull the blanket off the bed, revealing the two boxes sticking out from under it.
+
+"I should have expected that..." Lily whispers.
+
+It takes me a few moments to take the wooden tops off to reveal two metallic cone-shaped warheads. Both of them are now entirely covered in inscriptions painted with mana conductive paint, and, more importantly, inlaid with melted wire of conductive alloy to make them more stable.
+
+There are multiple mana batteries, Logic Cores, nodes, secondary circuits, tertiary circuits, mechanical switches in case of failures, and so on. A lot of it was inspired by what Vance did when he was stealing them on the 7th floor. I remembered some, and Sophie remembered more. Then we had a lot of help, divided up between a number of Beyond specialists we hired, and some volunteers we recruited, like a certain catboy.
+
+Of course, we also had some people from Earth to help, even going as far as buying up any device with e-books that contained any relevant knowledge. To say simply, a shitload of work went into it, and I'm certain that I can make them go, as a minion would say, kaboom.
+
+The question remains if that explosion will be bigger than anything I can create on my own at this point. Sophie and I certainly think so, especially after we modified them to create a synchronous explosion and added in a number of alloys and mana stones filled with chemicals that should react really well to explosions of this kind.
+
+Enough to evaporate cities and small countries? Seems likely. Enough to kill a Champion with such defenses as Adrian? I don't think so. I'm just curious to see if I could survive them, too. I want to burn the eyebrows off that creepy alien jerk, and I want to see them go kaboom, with the results of our months of work.
+
+All three of these things can come together during the last event. I just need to endure that body upgrade of mine and push myself far enough that I don't get kicked out the moment I enter. Though that seems to be even more difficult now than it would’ve been when the body upgrade had just started.
+
+Once again, I feel the rusty taste of my blood in my mouth and feel my body weaken.
+
+I'm sure Lily is going to notice and be annoying about all that soon, so when I turn to her, I don't let it show. Instead, I swing my arm and, with the palm of my hand, audibly slap the surface of one of the warheads.
+
+The action causes her to jump up and let out a squeak. "That was so childish, lame, and mean!" she shouts at me.
+
+So I repeat it once more, getting a nearly identical reaction.
+
+She waits for a few seconds to see if I do it the third time, and doesn't say anything but stares at me with a blank expression, though I notice the corners of her lips tugging upwards.

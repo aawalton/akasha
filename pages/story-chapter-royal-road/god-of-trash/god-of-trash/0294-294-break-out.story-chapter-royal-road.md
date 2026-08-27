@@ -1,0 +1,77 @@
+---
+id: fc3a9bd5-dde0-5543-8b4f-0ef54380a4ed
+page-type-slug: story-chapter-royal-road
+title: "294. Break Out"
+slug: 0294-294-break-out
+partOf: god-of-trash
+position: 294
+ownLength: 1865
+unit: words
+publishedAt: 2026-04-01
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3219777/294-break-out"
+royalRoadId: "3219777"
+---
+
+Bast and the Sword Saint approached the stage. Rhys retreated, backing toward the rear of the stage. A few others, whether loyalists or (as he suspected, in the case of Illya) just pissed that he’d crashed the ball, rushed for him as well, but Bast and the Sword Saint were in the lead of the pack—just as he’d hoped. He threw caltrops in front of the others to slow them down, then breathed out, sending a thick cloud of noxious trash gas toward everyone but his chosen victims, just in case anyone decided they’d try and take the lead from Bast and the Sword Saint. He didn’t want to fight anyone but those two.
+
+The rest of the Alliance didn’t really bother him, one way or the other. He was here for an assassination, to take the head of the snake but leave the body unharmed. For the most part, he hadn’t really had a problem with the Alliance, with the exception of Virgil. He didn’t want to kill all the Alliance’s powerhouses and leaders, he just wanted to take out Virgil… and mostly save his friends.
+
+Bast and the Sword Saint lunged. Rhys threw his hand behind him, summoning a giant trash teleportation hoop. He stepped through into icy snow, retreating from the ballroom entirely. All the combatants rushed at him, Bast and the Sword Saint in the lead. The second Bast and the Sword Saint stepped through, Rhys snapped his fingers and closed the hoop. In the moments it took for the hoop to close, Illya’s eyes went wide, and she lashed her whip at the hoop, but too late. She vanished as the hoop shut before her whip reached.
+
+Bast slowed. He looked at Rhys, frowning. The Sword Saint, on the other hand, kept charging. Rhys turned and fled, running over the shattered ruins of an ice field. “Sid! Wanna fight?”
+
+A mass of sword energy built up behind him, so powerful that it let off visible light. Rhys called forth his last resort and held on tight, searching around him for Sid at the same time. He couldn’t sense the mass of bugs, but that didn’t mean anything; someone as powerful as Sid doubtlessly had techniques to hide their mana signature from someone like Rhys, and he was not willing to extend his cursed senses right now, when he was already on edge.
+
+“Where are we?” Bast asked. His body jolted, then started moving forward almost on its own as the compulsion took over.
+
+“Somewhere near the northern border.”
+
+“Oh… huh? But he’s…”
+
+“Don’t worry, I’m not using Lord Ravin. I have someone way scarier lined up to distract Luc! Sid, come on! Don’t you like combat?”
+
+Bast looked over his shoulder. “They saw where you took us. Someone will come after us.”
+
+Rhys nodded. “I know. I should be able to handle things pretty quick if I can just get my friend Sid to show up… Come on, Sid.” He muttered the last one to himself. Surely Sid hadn’t wandered off somewhere? Though, now that he was thinking about it, it was very Sid-like to just wander off and vanish for a while. Or even to just get bored and leave Lord Ravin behind entirely. Or to have already killed him, eaten him, and left his bones behind. Whatever it was Sid did for fun.
+
+I didn’t leave him that long. He’s a Remnant Weapon, an ancient and powerful being who’s lived many hundreds of years. Surely his attention span isn’t that short?
+
+The sword power behind him built to a searing peak, so sharp that he couldn’t ignore it any longer. If Sid was going to show up, he was going to show up too late. He had to use his last-ditch move right now, or else there wouldn’t be any ditches left, except the one he’d end up dead in.
+
+Rhys whirled. A sword strike hurtled toward him, at almost the same power level as the one that had harmed the Void Beast back when he’d been dealing with the Empress. He glanced at Bast, subconsciously, to find the man wincing, teeth clenched. Whether Bast was holding back, or the Sword Saint simply couldn’t generate the same power from Bast’s potential as he could from his own path, the strike was weakened.
+
+Oh, good. In that case, maybe I won’t have to take as heavy a hit as I was planning on taking.
+
+As the strike bore down on him, Rhys lifted the object he’d held in his hands all this time: a pale orb, holding dark scraps of straw within. The sword strike encountered the barrier that even Rhys couldn’t break. The unstoppable force met the immovable object, and the two clashed.
+
+It was Rhys’s first time seeing a real beam struggle in real life, and he couldn’t help but cheer, shouting aloud to root for his barrier to survive long enough that the sword strike didn’t kill him. Beam struggles were a classic tenant of any action series, and honestly, it was impressive that he hadn’t encountered one yet. Two unstoppable forces of power, slamming into one another… who didn’t get fired up in the presence of such a thing? If he could scream so hard his hair would stand on end and turn gold, he probably would’ve.
+
+In the distance, Bast shook his head. Despite himself, and for the first time in a long time, a small smile touched his face. “Still just as weird as ever, huh, Rhys?” he murmured to himself.
+
+Bright light burst out from the surface of the barrier, and bled from the point of the sword strike. The sword energy keened, and the barrier hummed to match, buzzing as loud as an old radio. Between the two, the sword energy was clearly winning, but the barrier was doing its best to fight back, holding on with as much tenacity as it could bring to bear. Both of them were above Rhys’s ability, whether it was to take or to break; but pointing them at one another meant they fought each other more than they fought him. Hence he was free to third party and enjoy the beam clash as much as he wanted.
+
+Though that wasn’t to say that he wasn’t working. Once it was clear that the two were about matched, he started adding impurities into the equation. First, into the sword beam, but when that got too weak and the barrier started reasserting itself, he fed them into the barrier instead. When the barrier started to falter, he went back to weakening the sword beam instead. Back and forth, between one and the other, playing the arbiter in their beam struggle, until at last both were weakened enough that he wasn’t afraid of either any longer.
+
+The second that was the case, he gripped the weakened barrier by its weakest edges and pulled with all his might, cracking it open like a melon. The sword strike rushed forward, but by then, it was too weak for Rhys to care about. He called forth The Hunger, and the sword eagerly took the strike, deflecting what it could and absorbing the rest. Strands of dark, curse-tainted straw floated to the ground. For a moment, they laid there, quiet and inert, no more than old, filthy straw, and then they sunk into the snow and vanished, burying themselves into the permafrost. They weren’t hot, and the snow didn’t melt or steam; they just sunk straight into the solid surface as though they had never been material at all.
+
+Well, that’s… not what I was expecting. Rhys raised his brows at the retreating straw, then lifted his head to face Bast and the Sword Saint once again. As they advanced, he retreated, keeping the same distance from them. Since they advanced at a steady, even rapid, walk, he was forced to retreat at a rather quick backwards clip.
+
+This was it. He didn’t have another barrier. Either Sid showed up, or he started getting a lot more creative with the teleport hoops. “Sid! Sid, buddy ol’ pal, you not feeling like a bit of ultraviolence tonight? Come on, not even a little? Not even a smidge?”
+
+Still no response. Rhys cursed under his breath, mostly annoyed at himself for ever thinking Sid might actually participate in his plan… or, more plainly, that Sid would cooperate or behave in a semi-rational manner. Sid had never known his plan, so he really couldn’t blame the man for vanishing, but on the other hand, he was pretty sure that the only thing more likely to make Sid vanish than telling him nothing, was for him to tell Sid the plan and ask him to stick around. If he did nothing, then Sid showing up or not was all RNG; if he spoke to Sid, then Sid was almost certain to vanish. Sid struck him as a very ‘fuck the police’ kind of guy who would happily do (or not do) something just because it would upset someone else, even if it didn’t benefit him in any way.
+
+Of course, the downside to not telling him was that if Rhys had gotten the read wrong, and Sid was cooperative (he had agreed to stick around and help Lord Ravin, after all, even if Rhys was pretty sure that was some kind of payback’s-a-bitch kind of situation rather than actual help), then he had shot himself in the foot for no reason.  He was pretty sure he hadn’t… but who knew? His plan clearly hadn’t worked out, so he was definitely wrong about something, even if it was only Sid’s appetite for violence.
+
+Hell, for all I know, he’s just not in the mood and is hitting me with his equivalent of ‘I’m washing my hair today.’
+
+“Rhys, I really don’t want to fight you. I’m doing my best to hold him back, but he’s—he’s going to strike again. If you can get out of here, do it,” Bast called from across the snow.
+
+Rhys gritted his teeth. Alright. Sid isn’t showing up. It’s hard mode time. “Got it. I’ll free you soon, Bast.”
+
+“Free me? Is that even possible?” There was a note of desperation and disbelief in Bast’s voice.
+
+Rhys’s heart hurt to hear his friend in such pain, but he put on a smile anyways. “Yeah. It’s possible.”
+
+Whether by hook or by crook, he would free Bast. Even if he had to use the trash-reality-warping power he’d used on Mouse, he’d find some way to free him. Mouse’s mark had been deeply ingrained, over years and years of repetition and re-casting. Bast’s couldn’t be but so ingrained; Virgil simply hadn’t had him that long. He was pretty sure his standard impurities weaken-and-scoop would probably work on Bast; he just had to separate him from Luc long enough to pull it off.
+
+That, and figure out some way to yank all his potential back out of Luc and return it to him, all while I stay alive and keep Bast alive while the number one sword expert tries his best to kill me and suck all the energy out of Bast. No pressure, huh?

@@ -1,0 +1,95 @@
+---
+id: a8e20a8e-6e40-581e-91dc-8c4ae4393ee6
+page-type-slug: story-chapter-royal-road
+title: "276. Drop and Give Me Twenty!"
+slug: 0276-276-drop-and-give-me-twenty
+partOf: god-of-trash
+position: 276
+ownLength: 2179
+unit: words
+publishedAt: 2026-02-18
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3069243/276-drop-and-give-me-twenty"
+royalRoadId: "3069243"
+---
+
+Rhys stood over Lily, arms folded, frowning like a drill instructor. When she finished absorbing her first sip, he immediately forced her to take another, all under the influence of Less is More. The skill had somewhat worn out for his personal usage, since by now, more was more. His star simply needed vast quantities of trash and filth, and no amount of Less is More could make it worthwhile to take in the vast quantities he required one piece of trash at a time, so that Less is More could activate. It was like taking your trash to the dump one piece of plastic wrap, paper, or cardboard at a time. Sure, he could do it—could’ve done it in his first life, too, but the juice wasn’t worth the squeeze. Not in this life or the previous one.
+
+Lost, Lily obeyed his orders, though she seemed more confused than converted to the idea of growing stronger. He could just about see the anime-style swirlies in her eyes. Clearly, no one had ever believed in her ability before, to the point that she’d completely internalized her uselessness. And Rhys had to admit, she wasn’t amazing. She had about average talent; maybe low, or low-average. In fact, she might even rank lower on the talent totem pole than Rhys’s instincts rated her, since he’d come from a small-time school with no outstanding talents to speak of, and the outliers in his life such as Bast were so far beyond the curve that they weren’t worth comparing anyone to.
+
+Still, by the time they worked their way through the potion, Lily had advanced in her magehood. It wasn’t by leaps and bounds, but it was steady, incremental improvement.
+
+“So? What do you think?” Rhys asked, giving her a steady smile.
+
+Lily frowned, then sent her mana senses inward. There was a pause while she surveyed her core, then jerked out. By her expression of utter shock, even this kind of incremental improvement was something she hadn’t experienced in a long time.
+
+“What… how? That was just one potion… I didn’t even know you could grow from an ordinary mana potion,” Lily murmured, half to herself.
+
+Rhys smiled. “You can grow from anything.”
+
+“That is truly incredible. I might even reach Tier 3 this way,” she murmured.
+
+“Eventually, maybe,” Rhys said, not wanting to overpromise. He probably wouldn’t stick around for long enough to push her all the way to Tier 3, but he wasn’t going to tell her it wasn’t possible for her to reach Tier 3. Her talent wasn’t flashy, but it wasn’t nothing, either. If she ground, and really tried, she could definitely push Tier 3 or even 4, though it’d probably take her a few hundred years. The only reason she’d stalled out a Tier 2 was because she had stopped trying.
+
+He kind of understood it, too. Sure, she was surrounded by resources, but surrounded by resources that she, and everyone else, could see were better off going to whoever was the most talented in her family. She came from a small noble family, one so poorly off that they benefitted from marrying their daughter off to a mage who topped out at Tier 2. They didn’t have infinite resources, but they did have resources.
+
+In that situation, not only would all the resources get siphoned off to the most talented member of her noble family, but also the most talented member of the family would naturally grow stronger than her. With all the resources, they would only grow even faster. Lily could then easily conflate the talented person’s growth with having resources, see that she wasn’t allocated resources, and assume that she wasn’t growing because she didn’t have resources, then conclude that growth without resources wasn’t possible. It was a very mind-fucked state, but it was the exact kind of mental trap that Rhys remembered having fallen into as a young adult, when everyone else (aka the rich kids on social media with rich parents) was going to clubs and expensive parties and meeting cool people, and he was poor, living in a cockroach-filled apartment, and scraping by on ramen. It wasn’t impossible to imagine that Lily might fall into the same kind of “the rich get richer” mental hole and give up.
+
+In that way, having had resources but having been denied them had created a mental block for Lily, that those who had never had resources, like Rhys, had never been exposed to. In this world, at least.
+
+He couldn’t underestimate the fact that she was a noble, either. She’d doubtlessly been brought up as a precious brat, whom everyone was afraid to touch for fear of insulting her family. He had nothing to fear, since no one in her or her husband’s (his) family was going to touch him, so he could order her around with impunity. Plus, things would come down on his assumed identity’s noble family, not on him, so he was extra-super-double clean.
+
+I’m pretty sure this isn’t how most ‘I replaced the husband’ fics go, a little voice in the back of Rhys’s head whispered, but he smacked it down. No! Bad brain! He’d already said he wasn’t going to go the hentai route! This was a good and upright relationship between a master and a disciple, and that was all. Husband, wife, not at all! That would be immoral and improper. There were trashy lines that he wasn’t going to cross, and that was definitely one of them.
+
+Lily really wasn’t his type, either. She was attractive, don’t get him wrong, but kind of neutral-flavor, mildly-inbred, old-money attractive. He was a little shocked that she didn’t have drilltails—that was probably the best way to explain how she looked. She would be the villainess in any otome work. The villainesses were always attractive, of course. That went without saying. But they were the second-lady for a reason, and the main character was always more attractive, if ‘plainer’ from a in-world perspective.
+
+Between her and the maid, they were honestly the perfect duo of villainess and sidekick. Lily just needed those aforementioned drilltails, aka twin drills or ringlets, and the maid just needed slightly thicker brows, glasses, an upturned nose, or freckles—some minor but ‘severe’ imperfection so it was clear she wasn’t in the running for the all-important male lead.
+
+Though honestly, who read an otome for the male lead? They were always boring white bread beta men, bland and flavorless, nothing but an empty head with a pretty face pasted on. The real romance was the energy shared between the heroine and the villainess. No woman got that obsessed with another woman without a little attraction going between the two of them… or so he imagined. He didn’t really know that much about women.
+
+His mind wandered as he had Lily continue to go through the paces, standing over her while she sat down and focused on her core, on circulating all the energy she’d just added to it and stabilizing her progress so it didn’t fall apart when she lost focus. Mouse would be the perfect female lead for an otome. The long bangs, the glasses, but then when you pull back her hair, she— he paused. Huh. Come to think of it, I’ve never seen her with her hair up.
+
+He’d taken her to a ball or two, but usually as a maid, and what was more classic than a maid with thick glasses and heavy bangs? And he, gods damn it, was a sucker for the classic maid. Given the opportunity to have a friend dress up in one of those cute black dresses with the little white apron, he wasn’t going to say no, much less force her to step outside the perfect maid aesthetic. Why mess with perfection?
+
+At least he wasn’t one of those clueless otome male leads. He’d recognize her with her hair up, one hundred percent. She had that cute upturned nose and the cute round cheeks… and the rest of her face too, probably. The glasses and the hair really hid a lot. But they didn’t hide everything, and he wasn’t stupid. He would recognize her. Absolutely. Unless she was using her invisibility mode, and then he wouldn’t see a thing.
+
+Still, that wasn’t on him. That was on her for using her technique on him. Even if he still remembered her, he couldn’t see through her actively using her techniques against him.
+
+I really wish I got why she let me, and only me, remember her. He paused for a second, then shrugged. At least I’m not some oblivious otome lead, though! Those guys just couldn’t catch a hint if it slapped them in the face. He wasn’t the greatest at reading romantic cues, but he was better than them.
+
+…Right?
+
+Something brushed at the very limits of his mana senses. Rhys froze. He turned and stared, not extending his mana senses any further, but simply watching with the very limits of what he had. He recognized that cursed energy. Or should he say those cursed energies?
+
+He recognized the aura of the person the cursed energy was attached to, too. How could he not? It was his old nemesis Ernesto. None of the man’s one-time apprentices were around, not from the girl in the gothic lolita dress (Hono?) to the noble boy seeking vengeance (whose name he’d completely and totally forgotten). He watched the man walk by and stood there, not moving a muscle, not even changing the flow of his mana. Just watching.
+
+A thousand thoughts instantly pounded through his head.
+
+Is this a trick? A trap? This is where he lives. It might just be his honest route.
+
+I haven’t noticed him the entire time I was sitting out on the streets.
+
+Yeah, near the red light district. Fat chance a nerd like Ernesto was spending a lot of time there.
+
+It’s been two days. I know someone saw through me—not to my true identity, but through my false identity at the very least. Immediately afterwards, Ernesto shows up? What are the odds?
+
+He lives here. Lives. Here! He’s a noble! He’s integrated into the government, I know that, and he’s a cursed energy expert. This all falls into place. There’s nothing weird about him walking through this district. This should be his stomping grounds. Coincidences are real! Sometimes, people just happen to intersect! I mean, there was that guy who failed to assassinate the archduke, gave up, went and got a sandwich, and then walked out of his sandwich shop to find out that the archduke’s car had broken down and been diverted to right outside of the sandwich shop! That’s a real thing that happened! This is way less coincidental than that, and that not only is real, but set off a world war! These things can happen! They don’t have to be an evil plot to capture me in particular!
+
+But if I was an evil person plotting to capture me in particular, I would do exactly this. Have this man walk by my hideout. It’s like catnip to a cat. Like waggling a raw steak in front of a tiger. They know I want to find Ernesto. He’s my number one target. And he just walks by my house? That’s impossible. It’s not real.
+
+It’s very possible. It is real. It just happened, right there, right now! And it’s not even that far beyond the pale! It’s a very realistic scenario that could very easily play out in the real world without anyone scheming anything!
+
+“E-er, Norton?” Lily asked, peeking up at him. She laid flat on the ground, sweating heavily. He’d accidentally extended his pressure and pushed her down without realizing it.
+
+Rhys took a deep breath and reined his pressure in. Lily sighed in relief and sat up. He watched as Ernesto left the range of his senses and did nothing.
+
+Not now. Not yet.
+
+There were thousands of subtle things he could do if he had time and prepared. Nothing he could do right now was subtle. Right now, he couldn’t blow open his entire plan to chase down one man. He was so close to finishing it all. Now was not the time to get hasty.
+
+“What are we doing next?” Lily asked.
+
+Rhys waved his hand. “Keep drinking those potions. Drink until you feel overfull, then focus on growing your core the way I taught you. Don’t be afraid to change the formula or do what you need to do to make yourself stronger. Being a mage is all about improvising.”
+
+With that, he swept off. He wasn’t going to move now, but he wasn’t going to not move, either. If this was real, then he knew that Ernesto came through this neighborhood. It was time to go put together his subtle plans. Little things that wouldn’t blow open his main plan, but that would give him a backup if things went wrong, too.
+
+I’ve started my plan 1. It’s time to get plans 2-10 going, too.

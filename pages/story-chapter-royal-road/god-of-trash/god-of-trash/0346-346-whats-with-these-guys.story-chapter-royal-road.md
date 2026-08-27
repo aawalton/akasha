@@ -1,0 +1,119 @@
+---
+id: efd48e7c-8e0c-559e-b402-55fa8980e9e7
+page-type-slug: story-chapter-royal-road
+title: "346. What's With These Guys?"
+slug: 0346-346-whats-with-these-guys
+partOf: god-of-trash
+position: 346
+ownLength: 2015
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3774734/346-whats-with-these-guys"
+royalRoadId: "3774734"
+---
+
+Rhys continued to lounge, not outwardly adjusting his stance in any way, but he suddenly focused in on that particular conversation, listening closely to it in particular.
+
+“What, the mages dropping out of the sky on poor unsuspecting people?”
+
+“Yeah, them. What’s the idea?”
+
+You know, I really should’ve considered the possibility that the mortals would see us for what we are, because mages are super normalized in this world, Rhys thought to himself. He’d been pretty naive to think he could fake godhood with mere mages in this world. It might’ve worked back home, but that was back home. Here, people knew that people could use magic and fly and so on. They might be amazed, but they wouldn’t be overwhelmed by their divine might the way people in his world would be by someone flying around. We’re going to need a little more theater. A little more… oomph.
+
+“I dunno. I’m just glad no one’s gotten killed yet. You know mages.”
+
+The other man grunted. “You know mages.”
+
+Eh? Is our reputation that bad?
+
+I guess there are mages that couldn’t care less about mortal deaths. And there’s definitely evil mages. For the most part, from what I’ve seen, we mostly point our evil at one another, but there’s nothing stopping some low-level menace mage from running around slaughtering mortals, I suppose. There’s not much benefit from it, and eventually some mage is going to find out, be pissed, and take you out, so I guess that’s why not many people do it, but if someone was really hell bent to kill a mortal or three or a dozen, there isn’t anything to stop them, really.
+
+Come to think of it, if a mage who grew from being mortal was bullied as a kid and they went back and surgically removed their bullies, I’m pretty sure there’s no justice waiting for them. The mortal system is never going to catch them, and the mages don’t give a shit. They might, if they were particularly righteous, but given how much day-to-day killing goes on in our world, I feel like they’d just shrug it off.
+
+Huh. That seems kind of trashy. I guess… don’t bully future mages? Seems a little victim-blamey, but I guess they’re not the victims when the future mage decides to kill them? I dunno. It’s complicated.
+
+He raised his brows, then shrugged. The long and short of it is, you really don’t want to piss off random people in this world if you’re not a mage yourself.
+
+“You know, they stopped by Ichiro’s daughter the other day? She says they said something like ‘we’re here to help’ or something like that. You think that’s true?”
+
+“No way. Why would mages want to help random mortals? What do they get out of it?”
+
+That’s fair. We do want something out of it. It’s just a weird something.
+
+“Who knows? They certainly haven’t made that clear.”
+
+Well, yeah! We can’t just ask people, “hey, you want to try worshipping a new deity?” No one’s going to take us up on that. These things have to go slow. You boil the frog from cool water. You can’t just dump it in boiling water. It’ll hop out!
+
+“You think they’re like those priests? Gathering virtue, or whatever?”
+
+“Sure have a strange way of going about it, if that’s so, hopping down from the sky and scaring people out of their wits.”
+
+No, but these people do have a point, Rhys realized, even as he wanted to continue arguing against them. He and Ryota had a serious marketing problem, in that, they didn’t have any. If they didn’t tell anyone about the great deeds they were doing, no one would know. If they didn’t clearly communicate what they were doing and why, no one would understand. It might feel like the answer wasn’t to declare Ryota a god and tote him around enacting miracles and helping mortals, but… what if that was exactly the answer? He couldn’t go for grand, slowburn religion right now. He had to start from zero, and starting from zero looked a whole lot like shady cults, for the most part. They could go grand and subtle once they’d escaped zero, but while they were still at zero, he was just acting the fool by not being overt about it.
+
+People weren’t mind readers. They didn’t know his intentions were good unless he told them as much. At least then, he’d communicated something to them. Whether they believed him or not was another question, but that was all fine. That was what Ryota was for: working out his failures. And boy, were they failing spectacularly at the moment. Right now, all the two of them were doing was acting like cryptids or boogeymen, and excepting one particularly tragic incident around a very slender man, cryptids and boogeymen didn’t usually end up worshiped.
+
+I’ve been trying too hard. We need to be obvious. Overt. Up front with the god thing. We’re not just mages or monks, we’re a god and his heavenly escort. If we don’t tell them as much, they’ll never know.
+
+But that led to the second problem: these mortals knew about mages and so on. Paltry stage tricks weren’t going to work. He needed something grand to catch their attention and prove their godliness.
+
+That doesn’t have to be the first thing we do. No… in fact, it probably shouldn’t be. We set the stage with little miracles, going around and helping out, accomplishing things that magic can accomplish. That’s fine. Once we establish that we’re a god and we’re good people, that’s when we do the grand thing, whatever it is. Something mages can’t do, but that’s also helpful to the community, ideally.
+
+We can’t do it off the kick, though. We’ll just scare them away. Being flashy when we’re already feared is worse than trying and failing to help people. What we lack right now is rapport. Without any rapport with the community, we truly, deeply risk getting nixed as gods before we even get started. Anyone can do one flashy thing. The key is to do a lot of little, un-flashy things, then the one big flash. And it’s critical that the one big thing be something mages can’t do.
+
+No—actually, that’s wrong, Rhys realized abruptly. It doesn’t have to be something mages can’t do. It just has to be something they think mages can’t do. Which we can research as we’re doing good things! Excellent, excellent. I love it when a plan starts coming together.
+
+His market research was boiling down to three things. One, declare themselves to be gods. People wouldn’t immediately believe them, but that wasn’t the point. It’d put the idea in people’s heads. The most gullible might start to believe, while for all the rest, it would put a faint doubt in their minds and begin building the opening for him and Ryota to exploit later.
+
+Two, they needed to approach the mortals in a less-intimidating fashion. The mortals were used to aggressive and brutal mages who didn’t hesitate to kill mortals, so they had to prove themselves otherwise. Rather than shockingly dropping out of the sky, it would be better to approach them on foot or in some other non-threatening manner.
+
+Three, they needed to figure out what these mortals thought mages couldn’t do, so they could do it and prove their divine might. It was third on the list because it was the least important, and also because it wasn’t something they could or needed to do immediately. They’d do it after the other two. During the other two? Doesn’t matter. Point is, we need to be less threatening and more to-the-point, and the rest can come afterward.
+
+Having gathered his data, Rhys pushed off the wall and headed for the exit. He didn’t get halfway there before a man stood suddenly from one of the tables and blocked his path. The man stood tall over him, muscular and threatening. He probably weighed twice what Rhys did, and in pure muscle, too, not to mention having a good six inches on Rhys.
+
+Rhys looked up at him. He cleared his throat. “Something I can help you with?”
+
+“Yeah. What’re you doing in that corner, lurking around like some kinda freak? You here to spy on us?”
+
+What? Where’d he get that idea? I mean, I was performing market research, which is a sort of spying, but honestly? I’m just baffled at how we got here. “Uh… no?”
+
+“So why you listening to everyone in the corner, then, huh?”
+
+“Not again,” one of the townsfolk in the background muttered, but no one intervened. Rhys sighed. Seems like I’m on my own.
+
+He went to apologize, then swallowed his original polite reply. If he used big words here that were contrary to his sackcloth-beggar disguise, the man would only have more reason to suspect him. He didn’t seem the type to listen to some drawn-out excuse about being a down-on-his-luck salaryman, either… or whatever profession this world had that would allow a higher-educated person to fall to beggardom.
+
+Rhys coughed, putting on a sort of rough voice to disguise his precise words as much as he could. “Sorry. Didn’t mean t’ bother ya.”
+
+“Huh? What was that? Speak up!”
+
+Gods damn it, I’m only speaking like this so you don’t accuse me of being a spy again, you crazy paranoid drunk! Rhys raged silently. He put on an embarrassed smile and shied away, as if he were a little afraid of the man. “S-sorry…”
+
+“If you’re gonna apologize, don’t be acting so shifty in the first place!” the man shouted in his face. Waves of alcohol breath washed over him, mingling with old body odor.
+
+Rhys pressed his lips together, fighting the urge to outright grimace. This guy was just looking for someone to bully, wasn’t he? And now that Rhys had shied away and ‘given in,’ he’d made himself a target. Dammit. I was looking for the easy way out, but I’m only encouraging him, aren’t I? I’m gonna be here forever.
+
+This sucks.
+
+“Oy, Akio. Chill out,” someone called from across the room.
+
+Akio rounded on them, lifting a hand to drunkenly jab a finger their direction, and Rhys saw the opening he’d been waiting for. He slipped past Akio and darted for the exit.
+
+“No you don’t, you little rat. I’m not done with you yet!” Akio aimed a drunken kick toward Rhys’s ankles, meaning to sweep his feet.
+
+Summoning a smidgeon of his mage speed and grace, Rhys hopped over the clumsy kick and hurried toward the exit. No one else got in his way, none of the other townsfolk sharing Akio’s anger toward random passing beggars. Rhys hurried toward the door at his maximum mortal speed, not wanting to give up the ghost over one drunken man’s random accusation.
+
+To his shock, a spark of mana welled up in Akio, and he closed the distance. His fist hurtled toward Rhys’s face.
+
+Rhys narrowed his eyes. Ah, whatever. Fuck this. He turned and stood his ground, letting Akio’s fist impact his face.
+
+Blood splattered, and bones broke. Akio stumbled back, laughing, then gasped in pain. He looked down. His hand was in tatters. He looked back up.
+
+Rhys gazed at him imperiously, his face splattered with Akio’s blood but otherwise uninjured. “Shut the fuck up, you drunk asshole.”
+
+The tavern went silent. Akio staggered away, falling into the nearest table in his haste to get away. Rhys lifted his eyes, gazing over the tavern. His eyes met each of the villagers’, and they stared back in fear.
+
+If this isn’t a divine moment, I don’t know what is. He cleared his throat. In his best godly tones, he said, “We are your new gods. And we will not tolerate assholes.”
+
+With that, he turned on his heel and marched out of the tavern.
+
+As the door swung shut behind him, he heard someone mutter under their breath: “I knew he was too pretty to be a beggar.”

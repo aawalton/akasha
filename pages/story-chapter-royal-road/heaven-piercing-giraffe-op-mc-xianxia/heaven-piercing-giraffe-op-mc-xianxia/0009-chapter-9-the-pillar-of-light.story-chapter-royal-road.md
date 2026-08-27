@@ -1,0 +1,236 @@
+---
+id: 76569351-d4e0-5d03-b0f9-0f1173f4d028
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: The Pillar of Light"
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 9
+ownLength: 1717
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe-monster-girl-op-mc-xianxia/chapter/3626895/chapter-9-the-pillar-of-light"
+royalRoadId: "3626895"
+---
+
+Chapter 9: The Pillar of Light
+
+Akasha grabbed my hand before I had fully processed that the situation had moved into a new phase.
+
+"Fridd, Duam." She did not look at them. "Carry Gwyn to the medics."
+
+Badger opened his mouth.
+
+"Now," Akasha said.
+
+He closed it. He and Porcupine moved to either side of White.
+
+"I'll carry her hands, you carry her legs." Badger grabbed White's hands.
+
+"Are you sure this is the right way to carry someone?" Porcupine grabbed White's feet.
+
+They lifted her. White swayed like a sack of potatoes.
+
+I heard her mumble something like "I'll remember this..." before I got pulled toward the door.
+
+The grip did not leave much room for other decisions.
+
+The hallway outside was quieter than the training room, the sound of our footsteps replacing the sound of cultivating Human Ds and badly controlled fire. I kept pace beside her and considered the question of what my punishment was going to be for injuring White. Knocking someone unconscious during training seemed like it warranted a serious response. A correction, at minimum. Possibly more sitting, which I had been optimistic about being done with.
+
+Akasha did not speak. She walked and had decided that explaining was not a priority.
+
+Where she took me was another training room.
+
+The same basic architecture as ours: stone floor, high windows, the smell of concentrated effort that accumulated in spaces where people pushed themselves past comfortable limits on a regular basis. But larger. Considerably larger. The ceiling was higher, the floor wider, and the group of Human Ds arranged across it was older, more advanced, moving with particular economy.
+
+At the front of the room, Human Dad stood with his arms crossed.
+
+He was watching the Human Ds run a formation drill when we entered. A coordinated series of movements that required each person to be in a precise position relative to the others, spirit energy passing between them in visible threads of light. It looked like what I had been attempting to do with White, but practiced until the mechanism was invisible. The Human Ds nearest the door noticed us first and their attention shifted, and the shift propagated through the group like a ripple.
+
+Akasha stopped and bowed. "Apologies for the interruption, sect leader."
+
+Human Dad turned.
+
+He looked at Akasha. Then at me. His expression did the thing it often did, which was communicate several assessments simultaneously without settling on a visible conclusion.
+
+I closed my eyes in preparation for what seemed like the inevitable beginning of a long and instructive conversation about responsible spirit energy application and the importance of not incapacitating one's training partners.
+
+The conversation did not start.
+
+"What is it?" Human Dad asked.
+
+Akasha straightened. "I think I've found a potential breakthrough for our Metal cultivators." She glanced at me. "Specifically, I think Raffea may be—"
+
+Human Dad's foot came down on the stone floor.
+
+It was not a dramatic stamp. It had none of the spirit energy that had gone into the Eastern District incident. It was simply a foot, placed with intention, and the sound it made. The Human Ds, who had been drifting toward watching us, drifted back toward their formation.
+
+Human Dad turned toward the back of the room.
+
+"Follow me."
+
+He walked toward the back door without checking if we were following. We were following.
+
+***
+
+The room behind the back door was smaller than I had expected given the scale of everything adjacent to it. A round table, dark wood, old enough that the grain had been worn smooth in the places where hands had rested. Four chairs arranged around it with the settled quality of furniture that has been in the same position for long enough to have developed an opinion about being moved.
+
+Human Dad took a seat. He did not unfold his arms to do it. He sat the way large mammals sometimes sat and waited.
+
+Akasha pulled the chair across from him and sat as well.
+
+I moved towards one of the remaining chairs.
+
+It moved on its own.
+
+I looked at it. Then at the person who had moved it: Human R, who was now holding the chair slightly out from the table.
+
+He made a small bow.
+
+He did not straighten.
+
+Human Dad looked at me.
+
+"Sit."
+
+I sat. Human R straightened the moment I did, as though the two events were connected, and moved smoothly to a position behind Human Dad's left shoulder where he began the quiet assembly of tea things that had apparently been waiting for him in the room already. A small ceramic pot. Cups that matched in the way cups match when they have been together a long time. A plate filled with cookies.
+
+"Are these meat-free?" I asked.
+
+Human R paused mid-pour. "Yes, young master."
+
+Human Dad exhaled through his nose.
+
+The tea finished being assembled. Human R placed cups in front of each of us and stepped back to his position behind Human Dad's shoulder.
+
+I looked at him. He had moved the chair for me. He had given me cookies.
+
+He deserved a name.
+
+Black coat. Precise movements. No wasted motion between one action and the next. He had the quality of a cat that has decided where it is going before it begins moving.
+
+He looked back at me with a smile.
+
+I decided, I’ll call him Panther.
+
+Akasha lifted her cup, took a sip, and set it down. "May I speak now?"
+
+"Go ahead."
+
+She set down her cup. "Raffea has the capacity to significantly advance Metal cultivators through direct spirit energy transfer. She demonstrated it this morning." A brief pause. "The recipient lost consciousness."
+
+Human Dad's expression did not change. "How advanced?"
+
+"Multiple levels, by my initial estimate. We won't know the full extent until Gwyn wakes up." Akasha folded her hands on the table. "Given the timeline, I believe the risk of the method is justified by what it could produce. If she can do for each of our Metal cultivators what she did this morning, the power balance might change."
+
+"And the risk to Raffea?"
+
+Akasha stared at me. She stared at my stuffed cheeks like a squirrel's that was well prepared for winter. "She looked… more than OK."
+
+Human Dad stroked his beard in a slow deliberate way.
+
+"I also have a hunch."
+
+Akasha waited.
+
+"What I'm about to say does not leave this room." He looked at her. "Do you understand?"
+
+Akasha's expression sharpened. She nodded.
+
+Human Dad leaned back in his chair. He looked at the ceiling for a moment, as though deciding how to approach something from an angle that made it easier to carry. Then he looked back at the table.
+
+"The markings on Raffea's neck, I've seen them before. Or something very close to them. They match the markings on the Pillar of Light."
+
+I stopped mid-bite.
+
+The cookie remained at the level of my mouth. I did not continue biting. I did not lower it. It stayed where it was while I processed what had just been said.
+
+"The selfish Pillar of Light that disappeared… The one that caused all the disruption?"
+
+Human Dad looked at me. He nodded.
+
+Akasha had her fingers pressed to her temple. "I heard Raffea woke up the same day it disappeared… After we had believed her dead for— And the markings on her neck appeared when she woke up, which no one could explain." Her fingers moved from her temple to her mouth. "Which we had been calling a cultivation anomaly."
+
+Human Dad nodded again.
+
+System.
+
+[Yes?]
+
+The Pillar of Light they are describing. What is it, exactly?
+
+[The moment your body fell into the abyss, and your head pierced the heavens, the only thing that was visible was your neck that was glowing for millennia.]
+
+What are you talking about?
+
+[The pillar of light was your neck before reincarnation. Literally.]
+
+I looked at my cookie.
+
+I set it down.
+
+I think I should keep this information to myself.
+
+[That would be my recommendation, yes.]
+
+"Raffea." Human Dad's voice was quiet. "Do you know anything about the Pillar of Light?"
+
+I looked at him. Then at Akasha, who was watching me.
+
+I shook my head.
+
+Not once. Repeatedly, and in wide angles, because once did not feel convincing and I had committed to the gesture before realizing that increasing its range was not improving its credibility.
+
+The shaking continued for longer than was natural.
+
+"Somehow," Akasha said, to the table in front of her, "it feels like she knows something."
+
+I stopped.
+
+I picked the cookie back up and put the remainder in my mouth in a single motion.
+
+The cookie was large. This had not been a well-considered decision.
+
+My throat communicated this feedback with significant urgency. I coughed — not elegantly, the full kind — and reached for my tea, which was spilled, and then Panther was there with a glass of water that he presented with practiced timing.
+
+I drank it. All of it. Set the glass down.
+
+Akasha was still watching me.
+
+Human Dad was still watching me.
+
+Panther had stepped back to his position and resumed his neutral expression.
+
+System, what do I do?
+
+[Act natural.]
+
+I could, unless I was mistaken, hear the system sigh.
+
+I looked at Human Dad, I ended up looking at everything except him.
+
+Human Dad stared at me for a long moment.
+
+Then he reached across the table and retrieved one of his cookies, which I had thought were mine now.
+
+He ate it without comment.
+
+"Whatever Raffea knows or doesn't know, your plan for the Metal cultivators is approved. Start tomorrow."
+
+Akasha bowed. "Understood, sect leader."
+
+He looked from Akasha to me. "And Raffea."
+
+"Yes?"
+
+"When you are ready to tell me something, tell me."
+
+I nodded.
+
+He nodded.
+
+Akasha looked between us.
+
+Panther refilled the water glass without being asked.
+
+Outside the small room, through the walls, I could hear the advanced disciples returning to their formation drill. The rhythm of feet on stone, the low hum of spirit energy moving in coordinated patterns, the occasional correction from whoever was running them in Human Dad's absence.
+
+I didn't know exactly how many days remained. But I wouldn't let them destroy the place that feeds me.

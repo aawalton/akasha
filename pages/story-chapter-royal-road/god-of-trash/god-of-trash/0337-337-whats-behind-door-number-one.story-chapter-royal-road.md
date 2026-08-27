@@ -1,0 +1,103 @@
+---
+id: 92ffef68-03c4-5d20-bd9d-83c96b8b780b
+page-type-slug: story-chapter-royal-road
+title: "337. What's Behind Door Number One?"
+slug: 0337-337-whats-behind-door-number-one
+partOf: god-of-trash
+position: 337
+ownLength: 1858
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3682043/337-whats-behind-door-number-one"
+royalRoadId: "3682043"
+---
+
+Rhys stepped through the barrier into the sand castle’s yard, and was immediately swarmed by the servants who weren’t actively battling. They whisked Aran away from him so efficiently that he didn’t even realize they never exchanged a single word until he was already standing there, one hand empty, a huge iron cube balancing in the other. He raised his brows, honestly a little impressed. “Damn.”
+
+“What on earth did you do up there?” Lira asked, sauntering over.
+
+“Uh, you know. A little recon, a little… chaos? That’s part of the job on a battlefield, right?”
+
+“You’d know better than me.”
+
+“I guess. I feel like there’s a better word for it than chaos, I just don’t know what it is.”
+
+She nodded. “What’s that?”
+
+Rhys looked at the cube, then set it down and stepped back, crossing his arms to gaze at it. “I don’t know. Well, I do know. It’s some kind of vault.”
+
+“Thank you. I have eyes.”
+
+“What I don’t know, is what’s in it,” he declared boldly, as if it was some bold new proposition the world had never heard before.
+
+“Why do I bother talking to you?” Lira muttered at a stage whisper, rolling her eyes excessively.
+
+“For my glib humor and entertaining quips?”
+
+“You mean when you say things no one understands and then chuckle to yourself like a madman?”
+
+“I think I’m funny.”
+
+“I know.”
+
+Rhys flinched. “No! She hit me with the ‘I know!’ I’ll never recover!”
+
+Annoyed, Lira rapped him on the head. Due to the gap in their levels, it didn’t hurt. “Open it up already.”
+
+“Fine, fine.” Rhys sauntered over, then paused and looked back.
+
+Lira was rubbing her hand, grimacing to herself. She caught him looking and quickly put it behind her back.
+
+He beamed and turned back around.
+
+“You shouldn’t be proud of having a hard head!” Lira called after him.
+
+Rhys stood before the vault. Out of the ship, it was enormous, a truly ludicrous size for a vault. The vaults he’d seen were mostly hotel-room vaults, barely bigger than a microwave (and often smaller), or gun vaults, which could be as big as a dresser. Conceptually, he knew bank vaults existed, but he’d only ever visited them in video games, and it just hit different to actually stand in front of a room-sized hunk of metal. It wasn’t a small room, either. It was no master bedroom, but it was definitely at least normal-bedroom sized, not the-tiny-broom-closet-you-shove-your-adult-son-who-won’t-leave-the-house-into sized.
+
+There was a complicated lock on the front of the vault, but that posed no barrier to Rhys. He rested his hand on it and pushed a gentle stream of impurities into and through the metal, checking to be sure there were no complicated self-destruct or other magical or mechanical defenses, but there were none. The barrier Aran had removed seemed to be the extent of the box’s defenses, so far as Rhys could sense.
+
+He moved his hand near the latch and pushed more impurities into the metal, making it brittle and weak. The black box turned a grody rust-brown under his hand, creaking and popping as the structure of the metal gave way. Rhys pushed, and the chunk of metal fell away, taking the lock with it. The door swung outward, its hinges silent. He stepped back, craning his neck around the corner like a kid coming down the stairs on Christmas morning, eager to see what laid under the tree.
+
+The vault was empty. There was nothing inside it. Rhys frowned and stepped closer, peering into the vault. He’d sensed the fierce mana inside here from far outside, so why was he sensing nothing now? It didn’t make sense. He hadn’t sensed anything escaping, either. No, if I had to guess…
+
+He stepped into the vault. The second both feet crossed the threshold, the door slammed shut behind him. Dark gas gushed out of the walls and instantly burrowed into his body, pushing its way into every orifice and pore. Instantly, he was beset by powerful impurities and poisons alike, twisting their way deep into his body with intent. They sought out his weakest points and dug them open, clawing into his body like a ferocious beast.
+
+The whole time, Rhys watched with detached interest. He could control impurities, but he’d never done anything like this. It was an interesting idea, and a fascinating direction to go. He’d never tried imbuing the impurities themselves with intent. Sure, he had Trash Intent, and he could do all kinds of things with that, but pushing intent into the impurities and giving them a purpose? He’d never considered that. He was intimately familiar with using impurities to seek out his weaknesses, but adding intent made them even more deadly effective than anything he’d ever done.
+
+The impurities continued to burrow into him, then slowed. They paused, as if confused.
+
+“No one else ever survived this long?” Rhys asked them.
+
+The impurities jumped, startled.
+
+“Unfortunately, I do this to myself all the time, so…” He gave them a helpless shrug, then took a deep breath and fired off his own impurities. These impurities were fierce, but compared to the ones under the earth, they were nothing. His impurities quickly overwhelmed them, but he didn’t destroy them. Instead, he clenched down on them, overwriting their intent with his own. They weren’t just trying to destroy him; they were trying to obliterate him.
+
+The impurities took off again, biting into him even more viciously. He began the harmonious cycle of recreation and destruction on his own body once again, chasing the intent-infused impurities with his own impurities to heal, replace, and strengthen, closing up all the weaknesses the other impurities had found after they wrought their destruction. For a while, he just stood there, chasing the impurities around his body, but slowly, they lost their efficacy and faded away, absorbed into his body.
+
+Rhys cracked his neck and stretched, feeling refreshed. It’d been a while since his last round. He had to make sure he stayed on top of things, or else he’d fall behind and accumulate weaknesses his enemies could take advantage of, rather than himself. If he’d been in battle, those few moments of stillness while he overcame the impurities could have been deadly. He was fortunate to come across such an insidious new technique in the form of a trap where he could overcome it in peace rather than in an enemy’s hands.
+
+But… for it to exist as a trap or attack implied that there were impurity-wielding mages over here. Rhys pinched his chin thoughtfully, then frowned. Wait, hold on. I already encountered some of them, didn’t I? Impurity-wielders, that is. They weren’t very good at it, but clearly someone in their clan is more accomplished than them for me to face an attack like this.
+
+I need to stop forgetting things.
+
+Though, speaking of forgetting things, or rather, not noticing them, he could now see the contents of the vault. A small metal orb sat in the center of the vault, mounted on a built-in stand and tied down for safety. It emanated the fierce mana Rhys had felt earlier, which he could feel once more, now that he was within the vault. He approached the orb, kneeling to get a better look.
+
+“Rhys? Are you alive in there?” Lira called from outside.
+
+“I’m fine! There’s an enchantment on the vault or something, but it’s no big deal.” He was a little shocked it’d evaded his trash senses, but something at the class of masterwork as this vault’s interior traps wouldn’t show up on a trash-based sense, would it? It was masterful, perfectly wrought, without a smidgen of trash or filth in it, save the impurities perfectly contained within its mechanism. He should have looked for a funny-shaped absence of trash, not for something. It must have been a truly impressive mechanism for him to miss a clump of impurities in the vault’s walls, but then, whoever had made this was clearly familiar with working with impurities. They had known to think about how someone with impurities would perceive the structure, and to work around it.
+
+You know, that’s another thing I never considered: using my trash sense to craft a masterwork. After all, I view things with impurities and thanks to their properties as trash in my trash senses. If I apply those to crafting something, I could perfectly see every mistake and impurity to perfectly remove it, and therefore craft something incredible.
+
+He nodded, impressed with his foe, whoever they were. Just a brush with their works, and he’d already learned so much! If he studied under them, how much could he learn?
+
+I’m absolutely going to find out. Or at least keep pirating their work from afar. What was trashier than a little piracy, after all? Back home, it was horrible for artists and he always felt a little guilty about it, a little dirty, but here, he was just stealing from people who wanted to kill him. He felt totally justified and not guilty at all in taking everything he could from such hateful people. It was completely different from taking money away from starving artists who were just trying to get by.
+
+He turned to go, satisfied, then froze. Hold up. I didn’t come here to strengthen myself and enjoy the taste of someone else’s impurities. I came here for the vault’s contents. He forcibly turned back around and glared at the little orb on the floor. Extending his mana and trash senses toward it, he examined it thoroughly, refusing to allow his attention to lapse for a moment. At first, he sensed nothing amiss, but this time, he paid attention to the hollows where there was ‘nothing of interest’ as well. Refusing to let them remain hollows, he hurled himself into the hole again, examining it closely.
+
+For a few moments, it remained hazy, but slowly, it came into view. Not the item itself, but its negative, the shape of the hole narrowing from a blob to something small and precise. A jumble of mana that he didn’t understand wound around the orb. He lacked the skills to tease it apart, but he did have the skills to recognize the aura emanating from that jumble. He’d felt it often, after all. Every time he was around Mouse, for example.
+
+I’m not the only one with a copycat over here. Someone else used Mouse’s forgetfulness technique. Or, if not the exact technique, something very much like it.
+
+Rhys crouched, examining the orb. He didn’t loose it from its harness yet, taking it in from a few different angles. From every direction, it just looked like a ball, except for that fierce mana it emanated. It reminded him of Ryota and the mana on the far side of the gap in his core. Are the two related? He looked left and right just to be sure, reached out with his mana and trash senses one more time, and when no more traps materialized, he extended a hand and laid it on the orb.
+
+And his world blew open.

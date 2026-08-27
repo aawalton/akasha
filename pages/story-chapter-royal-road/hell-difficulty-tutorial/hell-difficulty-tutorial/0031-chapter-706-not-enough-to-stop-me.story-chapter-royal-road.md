@@ -1,0 +1,195 @@
+---
+id: 14a56ea9-fbee-5789-87be-322b96361d93
+page-type-slug: story-chapter-royal-road
+title: "Chapter 706 - Not enough to stop me"
+slug: 0031-chapter-706-not-enough-to-stop-me
+partOf: hell-difficulty-tutorial
+position: 31
+ownLength: 3145
+unit: words
+publishedAt: 2025-12-07
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2828164/chapter-706-not-enough-to-stop-me"
+royalRoadId: "2828164"
+---
+
+Lyraen’s white lightning moves in a way that leads me to conclude it’ll be in no one’s best interest to make an attempt to stand against it, and that I should immediately fuck off.
+
+Taking as much mana as I’ve managed to replenish, I use it to teleport away through a [Ley Line] I managed to place during our conversation. The thinnest and least noticeable one I could. Placing it with such care gained me two extra levels in the skill.
+
+As I teleport away, Nyssa moves as well, not to avoid but to attack the duo. I have no idea if her decision was made on a whim or with care and thought. Matching the speed of the lightning, she passes by it, grabs the arrows Kaari’s started firing off at us from the air, and breaks them with incredible ease.
+
+Meanwhile, the usually transparent, barely noticeable figure floating behind Christoph shifts entirely to a shade of pale red. Where there were no clear facial features before, there are now two entirely black eyes, just like the Wraith’s.
+
+The figure grows in size, coils around Christoph defensively, and wraps him in two of its hands. It encloses him completely. More arms grow from its back, longer and thinner, reaching forward and clapping together as if trying to trap the white lightning between them. For a moment, they even succeed. These red arms hold the white lightning, bright as the core of a star, between them and dimming the brilliant light within.
+
+It is a heroic attempt, but in the end, the lightning explodes. Evaporating the arms enclosing it, and the resulting concentrated blast is hurled at Christoph.
+
+A black orb forms in front of me, made from the bulk of my currently held mana. It starts absorbing ambient mana as well, as I shift it slightly to shape it into a thin barrier. Even from this distance, the shockwave of the explosion slams against me, though not as powerfully as I was expecting.
+
+The white lightning attack is extremely concentrated, with not much force reaching beyond its intended point of impact.
+
+As I hold Nyssa’s shoes, shirt, and socks against my chest, I dissolve my shield and draw in the black mana, shaping it back into an orb. It floats nearby, just over my shoulder, ready to be used.
+
+Then I watch the situation while thinking about whether I should even try to join the fray.
+
+The damaged figure over Christoph restores itself. The youthful looking, seventy five year old man doesn’t seem hurt at all. The Wraith, trapped, fused, or whatever it is with the figure, does not even seem to be making an attempt to jump into Christoph. Either it doesn’t want to, or it simply cannot.
+
+Both Lyraen and Kaari appear all over the place, while Nyssa moves like a storm. I knew kinetic energy was one of her three, but this is the first time I’ve actually seen her use it. It’s nowhere near as elegant or masterful as Lioren’s, but it is a lot more powerful. Where Lioren felt like an FPV drone, Nyssa moves like a hypersonic rocket that can fly in one direction at great speed, while having to stop before moving in another.
+
+Her output is insane. Her body shifts at incredible speed, using kinetic energy for movement alone. She doesn’t absorb it to stop her opponent’s movement or release it in bursts to attack. At the same time, I feel like she’s not even taking this seriously. She’s still not angry, not even now.
+
+Lyraen disappears in a way not unlike Tacita. The mantle around Kaari grows, flowing into the air, as Kaari steps into it as if it were a portal, only to reappear farther away.
+
+“Nyssa, let’s talk…” Kaari tries to speak again, but Nyssa’s already nearly there.
+
+Once again, her mantle swirls just as a projectile turned black orb slams into the ground near her. It pulls on her mana and disrupts her attempt at escape.
+
+Her eyes go wide with shock at the sight of the black mana projectile. She turns to me and lifts her bow. Even from this close, she manages to create a pink arrow that slams into Nyssa.
+
+Nyssa deflects it to the side, where it violently tears the ground apart. Three implosions follow, one after another, with each being stronger and further reaching, and then there is quiet. No further explosions follow.
+
+For some reason, that silence makes me more nervous. What the hell was that arrow?
+
+Then the two women stand there, just a step apart.
+
+“Of course, you even managed to deflect that arrow,” Kaari laughs nervously.
+
+Nyssa doesn’t answer. She looks at her intently, which makes Kaari even more nervous. Nyssa reaches to the ground, grabs the projectile made of black mana, and throws it back to me, and I take it back under my control. Then she gestures for Kaari to lean over, since the human woman is quite a bit taller than the albino demon.
+
+Kaari does exactly as told, and Nyssa smacks the top of her head hard enough to make a loud sound, and Kaari shrugs in pain.
+
+“Dumb,” Nyssa says simply, then turns back to where Christoph and Lyraen are still fighting.
+
+Christoph stands with his now red figure defending, while Lyraen keeps shooting white lightning as if from nowhere and everywhere at once. The field hides him so well that I can’t sense so much as a speck of his presence.
+
+Each of these attacks is powerful, yet Christoph still manages to defend himself against them. He stands there, gradually beginning to predict where the attacks will come from and facing them head on. It begins to feel like he might be close to piercing through Lyraen’s field and finding him. That would make this situation truly interesting.
+
+The entire time, I keep sneaking toward one place, just in case. If Christoph succeeds with handling the Wraith, and I think he will, then there could be a notification...
+
+Congratulations on successfully completing your Beyond event! In one minute, you will be moved out of the Ancient Armory.
+
+And one more pops up after:
+
+This isn't what I had in mind when I gave out the event, but it will work for now, as it is within the rules and protocols set for Beyond. Be more careful where you stick your noses next time - Ruler of Diligence.
+
+The figure around Christoph, red though it is, remains entirely under his control. Even after the notification, the fun fight continues, but I stop paying attention to it.
+
+A drop of blood from a cut I made on the tip of my finger falling toward the ground makes Nyssa turn to me, as if she can smell it.
+
+Looking at her, I shrug and wave. Then my blood hits the teleportation array, and I disappear, reappearing elsewhere in the Armory.
+
+The remaining minute starts ticking down as I send out my signal through the place, finding nothing, but even that simple scan triggers a dozen or so traps. Another droplet of blood starts to fall, and I help it do so with my own kinetic energy so it hits the array before the traps can obliterate me.
+
+I disappear again, appearing in a room covered in the corpses of people who participated in the event. Most of them seem to have been choked out, maybe by some kind of poison, near the door they tried to break through.
+
+Another droplet. Another place.
+
+This time, I find myself looking at a wall covered in hundreds of mana stones and strange markings. The stones seem like mana batteries, but each one is only the size of my pinkie nail. Even so, they are extremely high quality. A dozen mana arms explode from me, scraping them from the wall and bringing them to me. I chuck a few dozen into my backpack while still holding Nyssa’s clothes in my other arm.
+
+I teleport again, this time appearing in an explosion. A shockwave throws me out of the teleportation array and slams me against a wall with enough force to snap my spine, which forces me to activate several healing marks from Lily to repair the damage quickly.
+
+Getting back up on my feet and back into the array as fast as I can, I watch Morwag nearby laughing loudly. He seems bigger than ever now, as he faces some kind of bug with massive wings, covered in tattoos made from molten metal that’s solidified into the scars on its chitin.
+
+The demon laughs.
+
+The bug facing him stands tall, letting out a series of strange, loud clicking noises and slamming its chitin legs against the ground while aggressively waving its wings in challenge.
+
+Then they charge each other, screaming.
+
+Another droplet of my blood takes me somewhere else. A mana projectile slams against my hastily formed barrier, once again pushing me out of the teleportation array. I take a step back toward it, but another projectile slams into me, and I am forced instead to reinforce the barrier.
+
+More projectiles follow. Each one is faster and stronger than the last, now starting to crack the barrier. I keep strengthening it through [Manifestation] and begin weaving Ley Lines through it to make it more flexible and durable.
+
+[Manifestation - lvl 16 > Manifestation - lvl 17]
+
+But after removing the Wraith from my mind, I haven’t regenerated much mana yet. I barely manage to create a small black orb, which absorbs a dozen or so projectiles. Due to the limited mana used in its creation, it bursts open afterward, creating an explosion that pushes me further back. I curse under my breath.
+
+It is as good a time as any to put my failsafe into action.
+
+The second seal on my Ignition Heart lifts. Pure thermal energy floods into my body, and using [Accumulation], I gather it. It flows through pathways I modified with mini Sophie's help and through my own effort as well. I attempt something I’ve been wanting to do ever since visiting the pyramid on the fifth floor and learning about Champion Laten and his [Thermal Convergence].
+
+It’s stuck with me ever since. Yes, he could turn the heat of an active volcano into mana, but why shouldn't I be able to turn the heat from his Ignition Heart into mana as well? [Redistribution] is a powerful enough skill to manage that.
+
+While the projectiles continue to crash against my barrier, I take one last deep breath. I enter a deep [Focus] that speeds up my thought processing until it feels like the world around me is slowing to a crawl. Piece by piece, my preparations snap into place. The arrays stored in my mind activate. The part of me I’ve been keeping focused on theorycrafting and training now takes over. In the end, it can’t really be more difficult than imagining all the impossible shapes and all the exercises I’ve been doing.
+
+I find it difficult to transform settled thermal energy, so I let it move once again through my body. I let it roar and burn, combusting and destroying, only to heal afterward. I know the flames this heart generates very well. I know their feel, their wavelength, the way they move. With them, I’m sure I can do it, especially here, inside my own body.
+
+I don’t even gain any levels in [Redistribution], which confirms that the skill has long been capable of this. But something else levels up instead.
+
+[Mana Manipulation - lvl 70 > Mana Manipulation - lvl 71]
+
+[Eclipse - lvl 49 > Eclipse - lvl 50]
+
+[Manifestation - lvl 17 > Manifestation - lvl 18]
+
+All that energy, generated by my second heart, turns gradually into mana through my effort. It isn’t fast. It is painful. And I pick up on a number of improvements I could be making, but I do it anyway. Mana Wavelength Predation and Mana Wavelength Tyrant work in concert with [Eclipse] to take all that mana and force it under my control. The ease of which surprises even me.
+
+Then I use it and push through the barrage of attacks, which now continue their bombardment from all sides, making it nearly impossible to see what’s happening outside.
+
+The barrier around me expands in size several times, and I take a few steps forward and reach the array. Another droplet of blood falls, and everything disappears. I notice a piece of my shoulder is missing, sliced off because I didn’t manage to fit myself into the array properly, but it heals after a few powerful combustions.
+
+My second heart continues with the second seal lifted, still generating a massive amount of thermal energy that I continue turning into mana. I close my eyes, and a deep smile climbs its way onto my face.
+
+Then I reach toward the third seal. If I remove it fully, I will have a Champion grade thermal heart beating inside my chest. I lift the seal just a tiny bit, and I feel flames try to escape my body, trying to burn the outside world and tear me apart. It takes all my effort to suppress them, but I enjoy doing it. The amount of mana I’m holding continues to grow rapidly, and most of my mind focuses on containing the heat and processing it into mana.
+
+Finally, I look around the room to see where I’ve ended up. It’s dark and important-looking. There are control panels and a pillar made of mana crystal that currently holds an incredible amount of energy. In the corner, there’s a small bed. Another corner has been turned into a workshop, with a small forge, an enchanting table, and piles of materials.
+
+Another wall is entirely covered in items, most of them having the look of failed prototypes. A lot of which remind me of Calvorn.
+
+Multiple mana arms reach out from me, taking a few of the more complete looking prototypes. Others smash the control panels and search for memory mana stones. Knowing I won’t be using the teleportation array anymore, so I stop caring about the size of the things I’m carrying and pile everything up around me, tying it all to myself with threads of mana.
+
+The part of me that’s been counting down this entire time tells me how much time is left.
+
+Just ten seconds. Strange how fast time passes when you’re having fun.
+
+Holding the clothes Nyssa gave me, and the ones I promised to protect with my life, I stop in front of the most well defended object in this room, the pillar made of mana crystal. It serves as the source powering this room and likely most of the traps in the Ancient Armory.
+
+I don’t care about that. What interests me is the single red mana stone hidden in the middle, behind the swirling energy and layers of defense. The mana there is so dense, I know that it will either irradiate me fast enough to kill me or damage the stone before I can reach it. But that’s not enough to stop me.
+
+All the mana I currently hold floods out of my body as I force it into a single basketball-sized orb of dense, tricolored energy.
+
+I push it further until it snaps and turns black. When that happens, a hum and loud thump spreads through the room. The orb shrinks in size, now entirely pitch black. As always, it tries to consume all the mana around it, even my own.
+
+Instead of letting that happen, I aim it at the pillar and pierce it with [Empyrean Lance].
+
+The incredible amount of mana starts to seep from the cracks, but as quickly as it escapes, it gets absorbed by the ever-hungry black orb.
+
+It takes just a few seconds for everything to slip out of my control. The black orb becomes too powerful for me to manage. The mana arms, which have been gathering the items all around me until this point, begin to flicker and nearly vanish. I am forced to reduce them to a single arm, woven with Ley Lines, strong enough to endure the overwhelming pull of the black mana.
+
+Three seconds remain.
+
+I fight against the pull and watch intently as the black orb continues its struggle against the core of the Ancient Armory.
+
+Two seconds.
+
+Come on. You can do it, you hungry little thing you.
+
+One second.
+
+The mana inside the pillar flickers. My mana arm shoots forward with incredible speed, coils itself around the red mana stone, and pulls it back into my arms.
+
+The sixty second countdown ends, and I wait for teleportation.
+
+Nothing happens.
+
+I blink a few times and stare at the black orb, which continues growing in size. Only a small trace of that massive mana from the pillar remains, and now even my own mana has begun to disappear.
+
+Huh. I’m sure I haven’t been counting wrong.
+
+“Ehm, Ruler of Diligence, mister, could you… you know, get my ass out of here quickly… of course, only if you aren’t too busy,” I call towards the ceiling.
+
+The black orb now hums, just barely audible. I take a few steps back, pulling everything I’ve collected from this dark place with me. I press Nyssa’s clothes and the red mana stone tightly against my chest.
+
+“Greed, stop messing with me!” I shout.
+
+I can’t take my eyes off the black orb. I watch as it, out of nowhere, further shrinks in size. For some reason, that scares me more than if it had grown larger. As terrifying as it feels, it’s just as fascinating. I keep staring at it, taking mental notes for the future.
+
+Finally, I feel a pull on my body and appear somewhere else. It’s not back at the headquarters of the Primordial Knights, and it isn’t that endless place with the night sky full of nebulae either.
+
+Instead, I find myself in a comfortable looking room made of smooth white stone and filled with nice furniture. A floor to ceiling window opens up to a view of Megacity. All the items I had stored fall onto the stone floor in a long series of thuds and clangs.
+
+To my right stands an old wooden table, and behind it is the Ruler of Greed, sitting there calmly, watching the pile of items spread around me. She is now in the form she first showed me when she was assigned to me as my Handler. Looking just a bit older than me, her hair black with a bit of red mixed in, and her eyes a deep shade of brown.
+
+“Congratulations on destroying a good chunk of the Ancient Armory. And by a good chunk, I mean most of it.”
+
+“Must have been a different Nathaniel.”

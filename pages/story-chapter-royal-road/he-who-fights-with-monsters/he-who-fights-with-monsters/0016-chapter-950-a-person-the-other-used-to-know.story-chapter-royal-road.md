@@ -1,0 +1,231 @@
+---
+id: 9edea997-b5bd-5f0c-8965-cd5c914c2298
+page-type-slug: story-chapter-royal-road
+title: "Chapter 950: A Person the Other Used to Know"
+slug: 0016-chapter-950-a-person-the-other-used-to-know
+partOf: he-who-fights-with-monsters
+position: 16
+ownLength: 2963
+unit: words
+ownProgress: 2963
+publishedAt: 2025-01-15
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2012160/chapter-950-a-person-the-other-used-to-know"
+royalRoadId: "2012160"
+markedReadAt: "2026-06-29T19:04:19.653Z"
+---
+
+Jason hugged his sister. They were alone on the rooftop garden of her family home.
+
+“This is good,” she said. “Hugging those avatars of yours is like hugging cold rubber.”
+
+“Technically, this is an avatar as well. The difference is—”
+
+“Shut up, little brother. Save your magic nonsense for later.”
+
+“I only just got here, and you’re already so mean,” he teased.
+
+She let him go and placed a hand on each of his shoulders, staring him in the eye.
+
+“I’m sorry for how we left things,” she said. “I know it was amiable, but there was a distance. A distance that shouldn’t be there with family.”
+
+“I understand, Eri. I was damaged. You were right to see me as dangerous. It ran deeper than any of us realised. After I left, it took me a long time to come to terms with just how close I was to…”
+
+He turned away from her.
+
+“Jason, we didn’t grasp what you were facing. The changes that magic was bringing were just beginning for us. For the whole planet, really. You were deeper in than we were, and we didn’t understand what that meant. Not until Europe fell around us, drenched in death and blood. That was your life before it was ours, and what it was doing to you scared us.”
+
+“It should have.”
+
+“We should have been there for you. Instead. we pushed you away.”
+
+“And you were right to do so. You had a family to protect.”
+
+“You’re our family.”
+
+“Eri, I came close to going places you don’t come back from. Not all the way, and I don’t think I did, really. My friends had to stop me from doing things I wouldn’t want you to see. To be around. Your instincts were good, big sister. I didn’t know how far gone I was, but you know me. You saw it. I wasn’t someone that I would want anywhere near Emi.”
+
+He turned back to look at her again, giving her a smile.
+
+“I’m in a much better place, now. And I didn’t mean to be away so long, but I have responsibilities. To be the person I want to be, I can’t turn away from them, even if it costs me. And you. But I’m back, now. The important thing is that family is the place you can come home to, even when you’ve made mistakes.”
+
+“You know, we could have talked about this through your weird avatars.”
+
+“It’s not the same. For you, the bodies I make don’t feel real. For me, the emotions don’t. The avatars are great for channelling power or discussing plans, but there’s a remove. A distance. It’s like remembering something you felt a long time ago. That’s why I only showed up when I needed to. Why I held back on the sappy reunions. I want the sap all over me, not the rubber guy you’re making time with.”
+
+“Well, that didn’t take long. I’m regretting you coming back already.”
+
+Jason laughed and collected his sister into another hug.
+
+“They’re almost here,” he said. “They’re about to come inside.”
+
+He let his sister go and looked over the edge of the roof.
+
+“Or not,” he amended.
+
+Four people floated up over the edge of the roof, each surrounded in a complex array of glowing lines and sigils. They were Emi, along with Jason’s widowed sister-in-law, Amy, and her daughters, Hana and Jace. Nine cube devices floated around Emi, producing the magic that held them aloft. The devices were akin to Rubik’s cubes, but with glowing runes instead of blank colour on the panels. They twisted and shifted, shooting off points of light that adjusted the spherical magic diagrams.
+
+Amy stood slightly ahead of her daughters, Jason noting the protectiveness in her body language. He knew that she didn’t view Jason as a physical threat to her children but an emotional one, and he agreed with the sentiment.
+
+Jason hadn’t seen Kaito and Amy’s daughters since they were small children. Jace was nineteen, now, and Hana twenty-three. The age Jason had been when he was pulled into Pallimustus. The uncertainty in their expressions barely touched the complexity of what Jason sensed in their emotions. Confusion, resentment, hope, regret. Jason understood completely as he experienced a similar mix of feelings.
+
+For Jason and Amy, the fraught and complex history between them hung in the air like London fog. That history became a strange legacy for her girls to grow up with. A dead father. A mysterious uncle, absent but much spoken of, somewhere between a cult leader, a patron deity and the Wizard of Oz.
+
+For a long time, they all stood, staring at one another. Jason noted that Hana was silver-rank, with an aura foundation that was stable beneath its current turmoil. Jace was bronze-rank, although near the peak. They both showed the results of having been trained by Rufus.
+
+“You look like my father.” Jace said, finally breaching the silence. “From pictures, and videos. He died before I can really remember anything.”
+
+Jason nodded. The days of him begrudging the increased resemblance to his brother with each rank up had died with Kaito.
+
+“Except for the chin,” Hana said. “Yours is big. Like, measurable increase in your grooming products cost big. Did you grown the beard to mask the size, or were you spending too much on razors?”
+
+“Ranking up has made it smaller,” Amy told her girls. “You should have seen him at your age. You could use it as a bottle opener.”
+
+Jason raised his eyebrows in her direction.
+
+“Really?” he asked.
+
+“Don’t bother denying it, Jason. I still have photographs.”
+
+Being jibed by Amy felt both odd and intensely familiar. She had been his best friend, going back to his oldest memories. The relationship had turned to poison, but that time was long gone. It was half a lifetime ago, and neither was person they had been. Now, they were each a person the other used to know, but hadn’t in a long time. All they shared were old memories and two girls, raised with no father and an absent uncle. Jason turned his gaze from their mother to the young women.
+
+“I doubt you remember me,” he said. “I know you’ve heard stories. Hard to avoid them, growing up in a place built from my power. I imagine you have a lot of questions. About your dad, and other things. Let’s sit down and get your aunt to cook us something. You can ask me all the questions you like.”
+
+“Don’t you have to get back to Australia?” Erika asked. “You have things left to do there, right?”
+
+“Not more important than this.”
+
+***
+
+Solomon Dreyfus was Secretary of the Department of Prime Minister & Cabinet, within the Australian government. He didn’t like the job which, more often than not, amounted to image management for a man who, described generously would be…
+
+Solomon let out a sigh, finding no way to finish the thought. If he had to be generous, it was best not to describe Prime Minister Truffett at all. If all you knew about the man was that he came to power through fearmongering over magical gender transitions during rank-up, it was all you really needed to know. Solomon knew a lot more, which only made it worse.
+
+This latest debacle had left him wanting to quit, an urge that came somewhere between weekly and monthly. Once again, he resisted that urge, knowing that whoever replaced him would be worse. He could ameliorate the worst inclinations of his boss and, once in a blue moon, even do some good. Someone else in his job could easily pander to the Prime Minister, with little care for the damage they dealt.
+
+He’d only gotten the job because Truffett needed the publicity, after several of Solomon’s predecessors had been scapegoated in sequence. Solomon’s chairmanship of the Foundation for Ethics in Public Policy was a balm for Truffett’s scandal-marked image, while Solomon had hoped to accomplish some actual good.
+
+Clashes with the Prime Minister had been frequent. Always behind closed doors, but it was an open secret that he and his boss were at each other’s throats. Solomon was difficult to get rid of, however, as firing his very public ethical hire was not something the embattled Prime Minister could afford. He also had trouble going around Solomon, as Truffett was an expert in backroom deals and cutting favours, not actual governing.
+
+Solomon’s secretary notified him it was time for his next meeting and he made his way to the conference room. Josh Hillier, from the Ministry of Defence, and Sue Sheehan, from the Ministry of Supernatural Affairs, were already waiting. Solomon didn’t bother with small talk as he slid into a chair.
+
+“Sol, did you just have lunch?” Josh asked.
+
+“A while ago. Why?”
+
+“Do you smell butter?” Josh asked. “I could swear I smell butter.”
+
+“Focus, Josh. What do we have?” he asked.
+
+Josh and Sue shared a glance.
+
+“You should have the summary of our analysis in your inbox by the time we’re done here,” Josh said. “But, in short, a guy from New South Wales and his friends may now be the most powerful military force on the planet.”
+
+“That’s preliminary, obviously,” Sue added. “We’ve only seen a limited sample of what Asano and his allies are capable of. It could be that they worked very hard to make a show of power and are hiding critical weaknesses. Our assessment, however, is just the opposite. That he’s holding power in reserve. We’ve been in contact with our international counterparts, and that seems to be the consensus.”
+
+“What about the people who Asano and his people fought?” Solomon asked. “Any indication of who they are or where they’re from? I’ve heard the recording and read the transcript of Asano in the command room at the artefact city site. What of the implications that they were brought in from somewhere to kill him?”
+
+Josh and Sue shared another glance before turning back to Solomon.
+
+“We do have answers there,” Josh said. “Much of it seems to be sourced from Asano himself, though. If it is true, things could get very messy.”
+
+“Things are already messy. You’re saying they could be worse?”
+
+“Sol,” Sue said. “We have to ask: did you know?”
+
+“Know what?”
+
+Solomon felt a headache coming on as his advisors started talking about interdimensional aliens and the Prime Minister being part of some Illuminati-style secret collective.
+
+“It does make a twisted kind of sense,” he was forced to admit afterwards. “In a world where alternate reality pirates are an actual thing, anyway. People with power fear someone taking it away, or someone else having more. You say the Prime Minister is in on this?”
+
+“He’s on the list.”
+
+“And where does this list come from?”
+
+“Lenora Coleman got it from Anna Tilden,” Sue told him. “She got it from the Americans, and claims Asano’s turncoat magic pirate captain cross-confirmed at least some of the names. Names that include my minister, and some of your senior staffers, Sol.”
+
+Solomon nodded.
+
+“The Prime Minister has a history with Asano. Back when he was minister of your department, Sue, he was the one who suggested seizing Asano Village and giving it over to the Network. It was no secret that his motivation was largely driven by his hatred of Jason Asano.”
+
+“That makes dealing with Asano complicated,” Josh said. “There’s no way he leaves Asano Village alone, right?”
+
+“I wouldn’t think so,” Solomon said. “The question is, does he approach it politically, or just come in and do what he likes?”
+
+“Meaning what?” Josh asked. “Burning to the ground?”
+
+“I won’t say I didn’t consider it,” Jason said.
+
+Solomon, Sue and Josh turned to look at the other end of the conference table where Jason Asano was sitting, tucking into a plate of food.
+
+“Sorry,” he apologised. “My sister made these fantastic Hasselback potatoes, and I couldn’t not bring them. You guys want to get in on this? I have more.”
+
+“No, thank you,” Solomon said.
+
+“I knew I smelled butter,” Josh said. “Have you been here all along?”
+
+“Yeah,” Jason said, then put a forkful of potato in his mouth before letting out a little moan of pleasure. “Oh, that’s good.”
+
+Josh eyed the plate hungrily.
+
+“I did skip lunch,” he said. “Maybe I could—”
+
+“Josh,” Solomon cut him off. “Asano, have you been sitting here, invisible, the whole time?
+
+“It’s not invisibility,” Jason said, slightly mumbling through his food. “It’s a perception trick that uses aura manipulation to create a dissonance between mundane and supernatural perception. Your senses do recognise my presence. You see me sitting at the table, and smell the rosemary and butter sauce. But because of what I’m doing with my aura, your supernatural senses instinctively tell the part of your mind that processes perception to ignore me. It even works on regular people. Most don’t realise normal rankers can perceive auras, but they can. They’re just very bad at it. Vampires are great at using their auras on normal people. I learned this trick from a vampire, in fact, although I’ve developed it a lot since then.”
+
+“Mr Asano, what are you doing here?” Solomon asked.
+
+“Well, you’re right about me and Other Gordon.”
+
+“Who?” Sue asked.
+
+“The Prime Minister,” Solomon said.
+
+“That’s him,” Jason said. “We don’t get along. I was, if I’m being honest, rather childish in my attitude when he and I first met. If you combine that with his personality, stupidity and more or less everything he’s ever done, then it’s clear that he and I won’t ever get along. That being said, I would like to have a productive relationship with the Australian government. Word is that you, Mr Solomon Dreyfus, are a smart, capable and, against all odds, decent man. My hope is that you and I can figure out a few things.”
+
+“And what things are those?”
+
+“Well, I’d like to start by apologising for my little rant in Lenora’s bunker. I still had a few grievances to blow off steam about, and she didn’t deserve me monologuing like a supervillain. I’ve apologised to Lenora in person, of course; it would be weird to have you pass the apology on. I’m hoping that we can move past most of that.”
+
+“Most?” Sue asked. “What is it that you don’t want to move past?”
+
+“I voiced some grievances. I can live with your government reclaiming the standing stones. It’s a giant, mysterious magic thing in the middle of nowhere. It seems only fair for there to be an interest in it. And I am willing to put aside my personal animosity for Truffett, in the name of relations with another head of state.”
+
+“Are you formally asking Australia to recognise your territory in Europe as a sovereign state?”
+
+“What? Oh, no. You’ll have to sort that out with my grandmother. I’m a king, now.”
+
+“In the other world?”
+
+“It’s a little more complex than that. I’ll show you, if you like, but I want to discuss Asano Village first. I’m willing to put aside old grievances, but that one isn’t old. My family built Asano Village. Our money, our toil, and your government handed it over to…”
+
+He sighed.
+
+“We know what you did, so there’s little point rehashing it. But those people are still there, right now. It’s a slap in the face. My first instinct was to go over there and kill everyone I find, but I’m trying to be better than that. My next instinct was to turn on all the old mana accumulators that aren’t necessary now that the magic level has risen. Take off the safeties and let them run; overload the magical infrastructure until things started exploding. Burn it all down, as Mr Hillier suggested. The people there would sense it in time to evacuate, even with their mediocre magical senses. No casualties, which is why I’m still quite partial to that idea.”
+
+He plucked a drink out of the air and sipped at it before setting it down on the table.
+
+“My local political advisor suggested a different approach” he continued. “Have you met Anna Tilden, Mr Dreyfus?”
+
+“We’ve had dealings, during her time with the United Nations,” Solomon said.
+
+“She suggested that I look at Asano Village as a chance for the Australian government to show some goodwill.”
+
+“You want it back?”
+
+“It’s tainted ground, Mr Dreyfus. Too-long inhabited by unwelcome interlopers. The infrastructure we built was designed to fend off monster waves at a time where the magic levels were different. We’d have to rebuild from scratch, and there are better places for that. What I’m looking for is a gesture. An apology for taking my uncle’s land, and an open acknowledgement of why it happened.”
+
+“It happened because you’re rude and Truffett doesn’t like it when people imply he’s not important. Even if the Prime Minister was willing to acknowledge that, which he won’t be, do you genuinely believe it would help anything?”
+
+Jason shook his head sadly.
+
+“I do not. Your point is well made, Mr Dreyfus.”
+
+He took his plate and beverage and shoved them into the air, where they vanished. He then got to his feet.
+
+“Let’s just say an apology, then. Public. I’m not fool enough to insist it be sincere, but none of this ‘I’m sorry you feel offended’ crap. And I’m not going to push you for any promises today, Mr Dreyfus. I recognise political decisions take time and deliberation. The good decisions, at least.”
+
+At a gesture from Asano, a white archway rose from the floor. It was filled with gold, silver and blue energy.
+
+“So, who wants to see my kingdom?”

@@ -1,0 +1,93 @@
+---
+id: a2e3277b-c3af-55b6-b412-9b01cde79f1a
+page-type-slug: story-chapter-royal-road
+title: "321. You Think You Can Leave?"
+slug: 0321-321-you-think-you-can-leave
+partOf: god-of-trash
+position: 321
+ownLength: 1929
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3511614/321-you-think-you-can-leave"
+royalRoadId: "3511614"
+---
+
+And thus the training continued. Rhys followed at a distance, teleporting around whenever Ryota had enough free time to start guessing his location, and threw gorillas at Ryota. Ryota fled the gorillas and kept running, using every opportunity to press his advantage to run away instead. Occasionally, he composed himself enough to fire off a spell or two, but only momentarily managed to put enough space between himself and the gorillas before the gorillas caught up again.
+
+For that matter, he wasn’t as thoroughly trained on video-game-style color-coding as Rhys was, and kept doing silly things like blasting the red gorillas with fire or trying wind on the wind-spitting green gorillas. Sometimes he landed a good hit on the gorillas with his magic, but it was mostly by luck. He didn’t seem to be picking up on the color-coding. A part of Rhys screamed in frustration and tore its hair out watching such suboptimal play, just like when he used to watch comedy streamers who were bad at playing games play games he was good at back home, except unlike back home, he couldn’t just turn off the video and go watch another video. He was locked in, with nowhere to look but the suboptimal, not-figuring-it-out gameplay.
+
+But another part of him, the part of him that had used to DM, just laughed evilly, pleased to see the ‘player’ unable to figure out his evil ploy… even if it wasn’t his evil ploy at all, just a happenstance of Ryota not being particularly good at picking up on hints mid-combat and lacking foreknowledge of conventions in these situations the way Rhys had them thanks to video games.
+
+There were two wolves inside him. One despaired at bad play, and the other delighted in it. He wasn’t sure which one was the good wolf and which one was the evil wolf, but he really hoped the delighted one that made him less annoyed won, just for the sake of his (tenuous grasp on) sanity.
+
+The two wolves warred it out in his head, and in the meantime, Rhys continued to monitor the situation… and look for a big, fat deposit of trash or impurities so he could have the reality-warping technique in his back pocket for when he needed it. Unfortunately, they were in a forest, and a shockingly well-maintained one (by Rhys’s homeworld’s standards) at that. There wasn’t so much as a stray wrapper or abandoned, crusty pair of jeans lying around. He found himself hoping for a big fat pile of gorilla dung, and paused, taking a deep breath.
+
+How on earth did I get from being isekaied to here, today, hoping to find a big pile of gorilla dung so I can jump into it? How did that happen? I was so innocent… so pure! Just because I liked trash a little too much, now I’m dreaming about gorilla scat? Can I ever recover my image from this moment?
+
+Panicking about his image (that no one would know about but him) aside, he really did need something. Maybe not gorilla scat, but anything, any trash or garbage would be amazing. Unfortunately, he was in a natural training grounds. The air was fresh, the ground was clean, the water was pure, hell, even the animals were healthy and in good spirits.
+
+Mana ran thick on the air, and he could still absorb that, but the gains weren’t the same as trash. With trash, he got twice the benefits for half the effort, and that was a hell of a drug. Absorbing mana at an ordinary rate felt… blah. Like turning off turbo mode in his favorite racing game and watching all the horse girls grind to what felt like a halt. What was the point of moving that slow? If he relied on that, Ryota’s balls would drop and he’d figure out how to fight the gorillas before Rhys obtained the power to warp reality to make Ryota not try to kill him afterwards.
+
+No, I need something else. Preferably not gorilla scat, though I am that desperate. He pinched his chin. He was forgetting something, he could feel it, but what was it? What was he forgetting?
+
+“Wait, hold on!” He jumped out of the tree he was in and landed on the ground, looking down. Slapping a hand on the earth, he pushed impurities into it. From his training ‘enlisting the gorillas’ help’ and not killing Ryota, he had better control over the impurities now. It wasn’t perfect, but it was enough for him to push a thin line straight down. Down, deep into the earth… where the black gunk awaited him.
+
+It’s here, too. It isn’t just on my home continent!
+
+“There you are!” Ryota howled, sprinting toward him. He swung his sword at Rhys’s back.
+
+“Wow, so the only thing you can attack is a defenseless man with his guard down? That’s embarrassing, honestly,” Rhys said without looking up. Green light shone, and a small four-legged creature manifested on his shoulder, then leaped off and rushed at Ryota. The little beast easily countered his blow, then snaked around his sword and went for his throat.
+
+“Don’t kill him!” Rhys shouted, as the ermine bared its fangs and leapt for Ryota’s jugular. The little thing didn’t hesitate even an instant. Grimacing, Rhys gripped toward the spell, calling back his mana with all his might. The ermine resisted, but Rhys was ultimately the master of the mana, and it winked out.
+
+Rhys grimaced, annoyed. He’d only meant to activate his oldest spell, Even a Cornered Rat Fights Back. He hadn’t expected the ermine to jump in. Now that I’m thinking about it, though, I don’t know why I didn’t expect it. The little thing’s been infesting any of my animal-based spells lately.
+
+Shaken, Ryota blinked at Rhys. He lowered his sword, suddenly drooping. “E-even that…”
+
+“Hey, what’s with that reaction? Look at me. I’m full of openings… no, I’m one big opening! Where’s that sword of yours, huh?” Rhys darted in and flicked his forehead, big brother style, then dashed off, vanishing back into the trees before Ryota could react.
+
+Ryota stood there for a moment, stunned, then turned, facing the place where Rhys had vanished. “You’re that dangerous?”
+
+“Any mage worth his salt is that dangerous. Don’t be stupid. If you never fought anyone this dangerous, then you didn’t once fight anyone seriously after your life. Hell, even I’m not fighting to kill.” If I was, you’d be dead already. And I don’t mean the ermine.
+
+“Am I really that pathetic?” Ryota murmured to himself.
+
+“The first step is realizing it,” Rhys said approvingly.
+
+“You aren’t supposed to agree!”
+
+“I’m not going to lie to you. That won’t help you grow.”
+
+“This isn’t training. You’re just being an ass.”
+
+“That is training.”
+
+Ryota squinted into the woods at where he guessed Rhys was, which meant he was squinting at an oblique angle to Rhys. “What did your training look like, if you think this is training?”
+
+“Um… I spent a lot of time kicking around in a trash heap, got beaten half to death daily by a feared Remnant Weapon built by the previous Demon Lord, got ignored and set up camp in a trash pile at my sect, went to another sect and colonized its trash pile… Actually, yeah, it was mostly just trash heaps, with the exception of that short span where Straw was beating the hell out of me. Oh, and Ev. Ev also beat the hell out of me.” Rhys paused. “You’re fortunate I’m not out there directly beating the hell out of you. I’m lazy enough to make someone else do it for me.”
+
+“That’s not training! Training… how were trash heaps even involved in your training? How do they even count?”
+
+Rhys gasped. “How dare you! Trash heaps are where I’ve made my most monumental breakthroughs! I’ve built and crushed entire empires in trash heaps! Compared to getting my ass beaten, they’re far more important! You take that back!”
+
+A flash of terror crossed Ryota’s face, and he shut up and ran after the gorilla instead of saying anything further. Rhys stared after him for a beat, confused, then realized: I did just declare that trash heaps are the ideal training spot, basically. I meant ‘for me,’ but I didn’t say that, did I? He thinks my next step is to throw him into the trash!
+
+He watched Ryota run with motivation the man hadn’t yet shown this entire time, and shrugged to himself. Whatever worked. Cleanliness was before godliness, or however that old saying went. Some people feared death; other people feared dirt. Maybe Ryota was one of the latter.
+
+We’re opposites. I fear death and love dirt, and he loves death (or at least loves running from it) and fears dirt. Star-crossed lovers, doomed to never live under the same sky… ahem! Probably best not to put out any more of those flags. Laurent was enough.
+
+Why isn’t there such a thing as star-crossed friends? It happens! It totally happens.
+
+Then again, he wasn’t sure if they’d still be friends after this. They might just be enemies. Rivals, or something like that.
+
+Eh. Guess I’ll just have to be my own religious idol, he thought with a shrug. Bit unfortunate, since he’d totally intended Ryota’s religion to be his sloppy practice run before he started his own cult religion with all the lessons learned from his time with Ryota afterward, but he’d do whatever it took. Now that he’d thought about founding a cult and all the benefits that came with it—religion! Religion.—he couldn’t stop thinking about them.
+
+It should be fine. It was super hard to cross the ocean. His religion, whether he founded it with himself or Ryota, should be stuck on this side of the ocean, leaving him free to fly back across it to re-found a new religion afterwards… or even revise the same-old same-old for a new audience who hadn’t seen it yet.
+
+It was like scanlations of old manga. For the most part, the scans were the same as the official translation, more or less (if, at times, a little better translated and localized with a much gentler, more competent touch, in his opinion), but sometimes, the scanlators added context notes and/or jokes that really added to the flavor and made the entire experience just that much better. Hell, once he’d read a scan purely for the scanlator jokes at the end, only to stop when a new, non-joking scanlator picked it up. It hadn’t been a good manga, but with the jokes, it was just good enough to keep him hooked.
+
+If he could do that same thing with his religion—add just enough flavor that whatever didn’t work or was a little clunky over here hit home better when he returned—he’d truly have an A+ experience on his hands. Or a D+, but at the end of the day, Ds got degrees. He was aiming to stumble over the finish line into success, not trying to craft the most meta experience to completely dominate the religious landscape.
+
+But first, it was time to dig up that filth from underground so he could overwrite Ryota’s actual reaction with a trashy-but-more-favorable reaction if he needed to. Ideally, Ryota would realize that this was good training and not try to kill him… but realistically, it was always good to have a backup.
+
+Thus, Rhys pulled a shard of wood out of his good-trash pile, Trash-Intented it into a shovel, and started to dig.

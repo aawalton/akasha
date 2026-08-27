@@ -1,0 +1,89 @@
+---
+id: 124034f8-7101-5a91-94fc-1bbb75efd25f
+page-type-slug: story-chapter-royal-road
+title: "007: Sight for Sore Eyes"
+slug: 0007-007-sight-for-sore-eyes
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 7
+ownLength: 2236
+unit: words
+publishedAt: 2024-04-04
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1580248/007-sight-for-sore-eyes"
+royalRoadId: "1580248"
+---
+
+The first thing Evelyn saw when she stumbled through the portal, vision blurry and muscles aching, was an ornate fountain consisting of an eight foot tall statue of a hooded priestess cast in white marble, water cascading down from her eye sockets, which had been left empty. It was an eerie image but the dehydration she was feeling was so severe that there was no room to stop and admire the beautiful craftsmanship. She rushed forth and dived into the pool surrounding the statue and drank deep mouthfuls while hastily scrubbing the accumulated grime and crusted blood from herself.
+
+Evelyn had been in such a rush to have a drink after days without water and constantly having her mind in fight or flight that she hadn’t even taken a moment to read the tower’s prompt or take in the rest of the surroundings. Her blissful bath was rudely interrupted by a voice from nearby, dripping with thinly veiled contempt and scratching at her ears with a rasping tone.
+
+“It’s rather rude of you to wash yourself in the only clean water source any of us have seen in nearly a week you know,” said the stranger.
+
+She shot to her feet, spraying dirty water in every direction and immediately taking a fighting stance. It was rather disheartening that her first reaction to seeing another human was to be on her guard, but the first few floors of the tower had already had such a heavy impact on her psyche that Evelyn knew she wouldn’t be the same again, even if she somehow ended up back on Earth with her friends and family.
+
+The source of the scathing remark was a gaunt young man with hollow, sunken eyes that made him seem more ghoul than human. He was perched on the wall of the fountain, squatting on the balls of his feet with arms resting on his knees in a defiant balancing act. He was twirling and flicking something shiny between his fingers, which Evelyn was able to identify as a rusty dagger from the reward options when he stopped the movement to observe her more intensely.
+
+His hair was shoulder length, black and matted with grease and what could’ve been blood or dirt, hiding one of his eyes behind a set of choppy bangs. Despite his insensitive tone, Evelyn had to concede that he was correct about her polluting the fountain. In her excitement she hadn’t considered that jumping into the clean water with her filthy body was a terrible idea. Hopefully the fountain had some kind of filter that would remove the dirt and blood.
+
+“You’re right, my bad. I just couldn’t help myself since it’s been like a week since I last had a shower. God I miss running hot water,” she replied.
+
+The man chuckled, a far deeper and richer laugh than she’d expected from someone of his stature and appearance, before responding, “To tell the truth, I did the exact same when I arrived on this floor a few hours ago. It seems the fountain has some kind of cleaning or waste removal filter built in so it shouldn’t pose an issue for the rest of the new arrivals when they finally get here.”
+
+At Evelyn’s confused reaction, he laughed again before waving a hand in front of his face in a kind of circle before telling her, “Check the challenge prompt.”
+
+She did as he suggested and looked at the message which had appeared the moment she’d passed through the portal to the 5th Floor, but had opted to ignore in favour of her much needed wash and drink, which had almost immediately left her rejuvenated and soothed her aching muscles.
+
+❰ Multi-Challenger Instance ❱
+
+2/5 Challengers have arrived on the 5th Floor
+
+Floor instance will not trigger until challenger requirements have been met
+
+The jump from the two people required on the 3rd Floor to a whole five was rather large, but instead of being excited to see more humans alive and finally get some company, Evelyn could only feel a growing sense of dread. Would this floor end with her becoming a mass murderer? The prospect of having to take more and more lives was a distasteful one. Clearly her feelings were showing on her face, because her new acquaintance chimed in once more.
+
+“I can tell what you’re thinking and can only empathise. That floor was some tough shit, but I imagine this place will only get worse from here on out. Given that this instance needs an odd number of us, I was perhaps naively hoping it would be a more collaborative challenge than before,” he said.
+
+He’s right. I shouldn’t let the negative thoughts bog me down when we aren’t even sure what the challenge will be on this floor yet. While something like a battle royale sounds exactly like the kind of messed up crap the tower would throw at us, an odd number of people hopefully means less chance of us having to fight each other.
+
+“Maybe this will be the first boss fight,” she joked, “Though I guess it would be the second if you count that overgrown rodent I just had to deal with.”
+
+The young man looked confused, perhaps he wasn’t the gaming type despite looking like he hadn’t seen sunlight his entire life. But he responded and cleared up her doubts.
+
+“So you had to fight rodents, huh? It seems the tower changes the challenge of the floor depending on who is attempting it, outside of specific floors where there are more than one person involved. The first couple floors I had to fight these crazy ass chihuahuas. It was terrifying.”
+
+Evelyn burst into raucous laughter that had her doubled over and clutching her sides in no time. She guessed that rats might be a fairly common enemy since it was a rather widespread phobia back on Earth, but if her theory that the floors so far were based on an individual’s biggest fear, then it meant this scary looking dude was petrified of handbag dogs. The image of him running away from a horde of yapping little balls of fur entered her mind and she burst out laughing again, having to stop when her lungs began to hurt.
+
+Well, I guess we can’t exactly control what we’re scared of and chihuahuas can be pretty aggressive. It doesn’t really fit his image though. I expected him to be scared of something more incomprehensible and poetic, like loneliness.
+
+Before he could speak up to defend himself, another person stumbled through the portal, collapsing to the ground the moment they did. Blood was pooling on the ground from a fearsome wound on their back that ran from their right shoulder blade to their left kidney. He was covered in grime and his hands were stained with blood and dirt, with some of his fingers missing nails.
+
+Immediately she leapt to action, rushing over to check if the man was still alive, which thankfully he was, though each breath was shallow and she could hear his lungs wheezing as they struggled to keep him that way.
+
+“Hey, come and help me carry him to the fountain so I can get him cleaned up before this cut gets infected,” she called out to the ghoulish young man.
+
+“What if we end up getting a challenge that pits us against each other? I know I said we should be optimistic but to be honest one less rival isn’t a bad thing,” he replied with a pained expression.
+
+“Come on, I can tell you’re not that kind of selfish asshole, get over here and let’s help him. If it comes to the worst case scenario he’ll still be injured even if we offer some assistance. What if our naive hopes turn out to be true and we have to work together? I’m sure he’ll appreciate that we gave him a hand instead of leaving him to bleed out on the floor.”
+
+He scoffed in reply, but put away his rusty dagger and stood up from the fountain wall, making his way over and grabbing hold of the man’s legs while Evelyn looped her arms under his shoulders. It wasn’t the comfiest way for the poor fellow to travel, but it was better than any other alternatives. Once they’d laid him gently on the wall, right by the crystal clear water, she tore off the cleanest strip of his shirt that she could find and used it as a makeshift rag to start cleaning the blood and dirt from his body, starting with the huge slash down his back.
+
+I guess he wasn’t as ready to deal with whatever the 4th Floor threw his way as I was to fight another freakin rat. Maybe the difficulty is adjusted based on the person? It wouldn’t surprise me if this hellish tower made it so that no matter how smart or strong someone is, they still have a nightmarish challenge to clear each time. The attributes might have made more of a difference than I originally thought. It looks like a lot of people opted for the rusty dagger as a reward at some point, so maybe they chose to skip attribute points and grey stars? I’m still confident in my decisions, but I guess it’s still too soon to know whether they’ll pay off.
+
+It didn’t take her long to have him completely washed, though she did need to tear off some of her own dress to bandage the worst of his injuries, which left her a lot less covered than she would’ve liked, but thus far there had been no option to purchase or receive new clothing. Survival was her number one priority until the situation changed or she learnt any new information about the tower.
+
+Instead of offering to help, the young man had simply left all the difficult work to Evelyn once he’d helped to carry the new arrival and had simply returned to playing with his dagger. Rather than start an argument with someone she may need to cooperate with sooner rather than later, she opted to take another drink from the fountain once it had cleaned out any of the man’s blood.
+
+It had been about three days at a guess since they’d been kidnapped en masse from Earth and in that time she’d not had a single drink. An article she’d read once while mindlessly scrolling through her social media feeds said that a human would die after more than three days without water, so it seemed the tower was determined to push them right to their limits at all times.
+
+At that moment another person walked through the portal, this time a woman. Her injuries were fairly minor and given her athletic build Evelyn guessed she probably had a much easier time getting here than the rest of them. Though if the timings were consistent for everyone, she had taken longer to clear the first four floors than the three of them. Her eyes darted around, taking in their surroundings. Evelyn actually took the opportunity to do the same, having not actually checked out the scenery of the 5th Floor given that she’d gone straight from fountain diving to performing impromptu medical care without rest.
+
+In the far distance were towering walls, easily ten metres high or more that encircled them. If Evelyn had to guess it was about a five minute walk to reach the nearest point of the walls, so that meant this floor was pretty darn huge compared to the previous stuffy caverns and the desert arena. A clear blue sky lay beyond the walls and above them, but whether it was authentic or not was impossible to tell. At this point nothing would surprise her about this place.
+
+It was difficult to tell since the grey brick of the walls blurred at this range, but she thought she could make out some kind of gate at the end of the cobbled road that led to the wall. There was probably a hint about this floor’s challenge to be extrapolated from the layout, but she was a little too tired to think that deeply right now.
+
+“So, I guess you two aren’t social types. He’s just fiddling with his toy and you just zoned out staring into space the moment I arrived. What’s a gal to do to get an introduction around here,” quipped the newbie, a wide grin showing off her pearly whites as she strolled towards the fountain with far more self control than Evelyn had shown on her arrival.
+
+“Sorry about that, I got lost in the view. If you forget about all the bloodthirsty monsters and trauma of this place it does have some wonderful environments,” replied Evelyn with an equally dazzling smile, “I’m Evelyn, what’s your name?”
+
+“Pleasure to make your acquaintance Evelyn, perhaps we’ll get along just fine after all. My name’s Kayla. What happened to that poor fella?” She asked, pointing to the still unconscious man on the fountain wall.
+
+Evelyn was about to explain what had happened just moments before when the final challenger rushed through the portal at full speed, only coming to a halt when they tripped over the edge of the fountain and fell in headfirst with a painful sounding slap and a huge splash that drenched both Evelyn and Kayla as well as the injured man.

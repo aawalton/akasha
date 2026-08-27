@@ -1,0 +1,89 @@
+---
+id: 04eedef2-3761-534a-b9e1-e6777a181334
+page-type-slug: story-chapter-royal-road
+title: "345. Try Again"
+slug: 0345-345-try-again
+partOf: god-of-trash
+position: 345
+ownLength: 2041
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3765120/345-try-again"
+royalRoadId: "3765120"
+---
+
+Two or three tries later, Rhys and Ryota sat on the ship, both musing over their predicament. They’d tried approaching several different mortals with problems, but the mortals always fled the second they saw the two of them. They were succeeding at shock and awe, but maybe a little too well.
+
+This is never going to work if we can’t successfully interact with a single mortal. Rhys pushed off his knees and stood. “That’s it. I’m going in.”
+
+“Going in?”
+
+“Undercover. I’m going to become one of them and figure out what we’re doing wrong.”
+
+Ryota frowned. “How?”
+
+“Huh?”
+
+“How will you become a mortal? I get the aura suppression, and you have a shapeshifting technique, but… we’re mages. We’ve lived in luxury all our lives. We don’t know how the mortals live.”
+
+Rhys grinned. “And that’s where you’re wrong. I was born a mortal, don’t you know? Nothing more than a penniless orphan.”
+
+Ryota blinked. “No way.”
+
+“It’s true.” Kind of. We can leave out the transmigration part, but aside from that, I really was reborn here as an orphan.
+
+“But your Tier is so high. Higher than mine! And you’re younger than me, aren’t you?”
+
+“I dunno. Probably? Look, it’s not important. What is important is that we need a little insight into the mortal thought process, and I’m the guy for the job.”
+
+Ryota stared at Rhys. “You’re mortal-born? Really?”
+
+“Really.”
+
+“I don’t believe it.”
+
+“I haven’t even told you the part where I was raised by a weapon left behind by the Demon King and my brother-from-another-mother grew up to be the Sword Saint.”
+
+Ryota laughed. “Oh, sure.”
+
+Rhys chuckled and climbed up onto the railing. “You hang tight. Don’t do anything I wouldn’t do. Or most of the things I would do. I’m going to do some market research, and I’ll be right back.”
+
+He hopped off the ship and took to the air, flying directly down. He was biased toward walking and other ground-based movements, but even so, it really was the correct choice to land and run this time. After all, he was trying to pass as a mortal. If he flew down to a lake and climbed out as a ‘mortal’… well, it was probably a good way to start a religion, if he wanted to lock in and live as a mortal for ten, twenty years while slowly committing good deeds and miracles, but it wasn’t a good way to seamlessly mingle with the unknowing mortals.
+
+Rhys ran through the forest, extending his mana senses in all directions to search for water. It didn’t take long to find some. They’d travelled to the mainland, but it was still a river-heavy coastal region, a borderline swamp. A short jog was all it took to find a river, and Rhys hopped inside and quickly transformed. He didn’t stylize his face or mimic an anime protagonist; right now, he wanted to look normal. So instead, he de-handsomized himself, using his own face as a mortal as the basis to regress to what he likely would have looked like as an adult if he hadn’t become a mage.
+
+His trash robes were made of mage trash, which meant the fabric was far beyond the reaches of a mortal. Mortals wouldn’t be able to tell how powerful they were, but they’d be able to look at them and see that they were fine silk and expensive brocade, and they wouldn’t care that he’d kind of mixed-and-matched without any care for fashion and style. He stored them in his storage space, then went hunting through his trash pile until he finally found some sack cloth he’d used back in his potato-trafficking days. Grabbing a bit of twine, he threw together the rough shape of robes, moving quickly and sewing by hand to prevent himself from putting them together with too much skill. He slung on his new robes, then paused, looking at his feet. His shoes were definitely mage shoes, and no two ways about it.
+
+Eh, whatever. He chucked them into his storage ring. He’d just be so poor he went barefoot. It’d be fine.
+
+Rhys did one last checkover to make sure everything looked good. Hair, face, skin, body, robes, feet… aside from his storage ring, there was nothing to particularly call him out as ever having been a mage. He climbed out of the river, then turned back and smeared mud over his hands and skin, hiding the clarity of his skin and the shine of his storage ring in one fell swoop. He spent a few moments searching in the forest to find a good, sturdy stick and tied a length of sackcloth with it, filling it with some random low-tier scraps from his trash heap. He’d be a suspicious mortal walking around with no luggage. Even hobos had sacks.
+
+Excellent. Plan hobo is a go.
+
+Rhys wandered through the woods alongside the river. He still used his mana senses to search ahead of him, but with the logic that if he followed the river, he’d eventually encounter a path. Before long, he came across a path just as he’d predicted. He dropped his mana senses and retracted all his mana to the maximum extent possible, only leaving his trash senses out so he wouldn’t get blindsided by a hidden expert or some other mage attack. It wasn’t like he had no enemies in this region. There were people with good reason to kill him, like Fifteenth, for example, and also those impurity guys he’d killed earlier.
+
+I need to make fewer enemies and more friends, he reflected. If he kept going like this, the whole world would turn against him, and he’d end up as the next Demon King which I dunno, might be pretty trashy? Hold up, maybe I’m cooking? Maybe I don’t need to stop?
+
+It didn’t take long to come across some other people using the path. Rhys tossed them a nod and kept going, and they walked on, ignoring him. No one screamed and ran, and no one so much as gave him a second glance. He smiled to himself. It was working.
+
+Rhys followed along the path until he reached a small town. He wandered it for a bit, ensuring that it was large enough for his purposes, but it had a tavern and a teahouse, so there should be enough room for him to partake of the rumor mill. With that ascertained, he headed back into the forest for a bit, picking local berries, herbs, and mushrooms. He used his mana and trash senses to determine which ones were poisonous, and which were mana-rich and therefore valuable, though he took care not to pick any that were too high in mana. Mana could be dangerous to mortals, and beyond that, it’d be suspicious if a random wanderer was selling a hundred-year ginseng, or something equivalent.
+
+The sun crept across the sky as he worked. It was afternoon by the time he returned to the town to sell his bounty. He spread them out on a cloth in front of him and sat back, waiting.
+
+He had money, but it was either gold (not accepted by mages in this region, and potentially far too high a denomination for a non-noble mortal, let alone a hobo, to have, plus in the form of coins from a far-flung country from the far side of the sea) or a smattering of spirit stones, which were definitely mage-only currency. His pickings didn’t go as fast as his potato chips had, but they sold, and by the end of the day, he had a handful of coins in reasonable denominations for the local region. He was pretty sure he’d been swindled, but he didn’t really care. The townsfolk got a good deal, and he got the coins he wanted. Everyone went home happy having swindled everyone else, and if that wasn’t the sign of a great business deal, he didn’t know what was.
+
+Having acquired currency, he waited for the sun to fall. As evening approached, the locals began to gather at the tavern. Rhys cleaned himself up just a little, sucking a little of the dirt off his skin so he didn’t look quite so homeless, then followed everyone else into the tavern. The locals shot him a dirty look, but he paid them no mind. Wandering to the bar, he purchased a drink and retreated to lean against a corner and pretend to sip it. As the night wore on and the locals got drunker, they forgot about him and he faded into the background. The gossip began to flow. In the corner, with all the noise, he should have had a hard time picking out more than one conversation, but thanks to his mage ears and ability to pay attention to many things at one time when necessary, he could tune in to all of them.
+
+He didn’t have quite enough attention span to tune into all conversations at once, but rather than running away from that, he charged headfirst into it. Leaning against the wall, it looked like he was relaxing, but internally, he pushed his mental capacity to the limits and forced himself to listen to all the conversations at once. A headache began to throb behind his temples, but he kept pushing. The conversations were useless. People talked about the weather, about crops, about who was sleeping with who and who was feuding about what. But because they were trash and completely worthless to him, Rhys refused to let a single one slip away. This was the ideal scenario for him to push his limits and break through to more mental capacity.
+
+He focused… and ten minutes later, was able to follow along with every conversation in the room. At his tier, pushing himself to that level didn’t do very much. Whether it was five conversations or ten, it simply wasn’t enough to truly stimulate growth. He’d managed a minor breakthrough, and his head didn’t hurt anymore, but it wasn’t much of a breakthrough. Rhys pursed his lips, unsatisfied. He’d wanted something bigger. Something monumental.
+
+He pushed himself harder, extending his senses to hear things beyond the walls, to listen to every conversation in the village. Once again, his head began to pound and his mana senses trembled, but once again, a mere ten minutes later, he’d overcome his previous limits. From ten to thirty or so still wasn’t much. It wasn’t an order of magnitude increase or anything like that. Triple was nice, but compared to a true upsurge of power, it wasn’t a whole lot. It felt more like he was catching up to where a Tier 5 should be in a region he’d neglected, rather than pushing his limits and truly growing.
+
+Oh well, I guess it doesn’t hurt to catch up, either. If he was lacking in a region of strength, even a trivial one, that trivial lacking could grow into a bottleneck later. Just because he didn’t need to pay attention to thirty conversations at once very often right now didn’t mean it would never come up. There were lots of cases where multiple streams of awareness would help; spellcasting, for example. He didn’t do a whole lot of sitting back and casting twenty spells at once, but maybe that would change in the future. No point blocking off a path of advancement for no reason or out of laziness.
+
+He kept up his practice, not for the sake of breaking through, but just for the sake of exercising muscles he didn’t often have reason to flex. It didn’t hurt that he could listen to many conversations at once, though no one seemed to be talking about the mages wandering around. It seemed strange to him. If weird men were wandering around scaring people, he’d be talking about it nonstop. Maybe the weather’s just that exciting, he considered, as he listened to three simultaneous conversations about the rain patterns lately. Either that, or they’re scared, and they aren’t drunk enough yet to bring it up.
+
+He lounged in his corner, listening and waiting. The night ground on, until at last, he heard what he’d been waiting for:
+
+“What is with those weirdos?”

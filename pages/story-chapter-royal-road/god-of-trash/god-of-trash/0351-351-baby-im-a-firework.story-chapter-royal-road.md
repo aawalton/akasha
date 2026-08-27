@@ -1,0 +1,123 @@
+---
+id: 353a37fd-d0a2-524b-aa67-199eb7563a06
+page-type-slug: story-chapter-royal-road
+title: "351. Baby I'm a Firework"
+slug: 0351-351-baby-im-a-firework
+partOf: god-of-trash
+position: 351
+ownLength: 2177
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3827112/351-baby-im-a-firework"
+royalRoadId: "3827112"
+---
+
+BOOM!
+
+It wasn’t a lower-case kind of boom, or a sentence case boom. It was the all-encompassing kind of capital BOOM that swallowed Rhys up whole and didn’t want to spit him out. Heat and fire swirled around him as he flew away from what had been the ship and was now the location of some truly fierce physics. Battered by shrapnel and splinters, it was all he could do to curl up and protect his softer parts.
+
+Damn, that was some crazy timing. It was almost like someone was deliberately trying to mislead him, or at least demand his attention. The question was, was it because he was on the right path? Or was it just because someone wanted his attention, and they were willing to do anything to get it?
+
+Well, I guess we are just kinda floating here. The local mages could’ve just gotten pissed at us. It had to be a high level of pissed to just blow up a prince’s ship, but when there were twenty-six-odd princes, it was probably less crazy than when there were only a handful of them. In truth, there was every possibility that they were getting blown up on account of loitering alone, and the blower-uppers in question had no idea who they’d just bombed.
+
+The point was, they were under attack, and it was time to destroy whoever dared attack him and his floaty ship. Floating in a field of debris of what had once been a fine ship, he could barely see his hand in front of his face, let alone make out the perpetrator of the attack. But that was no problem, because all this debris was no longer fine, nor a ship. No—it was all trash, to the last inch. And that made it his.
+
+Rhys pulled, and the rapidly expanding shrapnel reversed course and flew into his core instead, pouring into him and vanishing. Without the exploding remnants of the ship to block his vision, Rhys suddenly had a clear view of the situation—a view that the man dressed in all black with a plain white mask clearly wasn’t expecting. The two of them locked eyes, or at least, Rhys stared in the general location of the man’s eyes, and had the impression that the man was looking back at him. The mask didn’t have eye slits, so he couldn’t be sure.
+
+For a split second, he and the masked man stared at one another, while Ryota continued to fly helplessly off into the woods in the background. The masked man turned and fled at top speed, and Rhys unhesitatingly chased after him. The explosion still continued, pushing him back, and then Rhys had a thought. All that heat and force from the boom was all trash, wasn’t it? It was the purpose of the explosion, sure. It wasn’t trash in that sense. But in the sense that it was excessive, and that no one was doing anything with it, that it was just littered out into the world, in that sense, it was clearly trash. And since it was trash, that meant…
+
+Rhys reached out, pulling the explosion into himself. There was a moment where it resisted, hesitating to be held onto, restrained, or in any way stopped from expanding, but Rhys wasn’t going to let it get away from him that easily. He latched on with both hands and dragged it into his core, tossing it at the trash star, where it was free to explosively pour energy into his core.
+
+And pour energy it did.
+
+Rhys’s trash star had been somewhat full, not insanely full, but not dangerously empty, either. The second he dragged the explosion into his core, energy burst through him as if it were dangerously full instead. His whole body burned with energy, and his trash-mana circulated at top speed. Rhys burst forward with, well, explosive speed, closing in on the white-masked man in a split second.
+
+The man jumped and fled faster, but Rhys had a bomb flowing through his mana passages. He was energized, empowered, and incredibly, insanely fast. If he hadn’t pulled the explosion into himself, he would’ve probably been able to catch the masked man eventually after debuffing him sufficiently with some impurities, but the explosion put him easily on par with the man, if not faster. He caught up in one great spurt and grabbed the man’s shoulder, yanking him backward.
+
+Almost too fast for Rhys’s eyes to track, the man drew a slender sword and lashed out. The sword’s tip was dipped in delicious, delicious poison, and it lanced into Rhys’s flesh before he had time to react.
+
+He instantly pulled on the poison on the sword, removing it from the blade and circulating it through his body. To his disappointment, it wasn’t anywhere near poisonous enough to make him grow any stronger. It just vanished into the trash flowing through him without a trace.
+
+“You have anything stronger?” he asked the man.
+
+The man reacted by slamming a dozen needles into Rhys’s hand. Once more, Rhys drew on the poison, but once more, it wasn’t nearly strong enough for him. He drew the abandoned needles into his core for good measure, then shook his head. “Come on. A little stronger? Okay, actually it needs to be a lot stronger. But… please?”
+
+The man drew yet another dagger, but this time he aimed the blade toward himself. Rhys darted his hand out and snatched the dagger out of the air, sucking the poison off it, then closing his hand around it to shatter the blade. He sighed. “No? That’s it? Aw, man. That’s a huge disappointment.”
+
+The man went still. For a second, Rhys thought he was giving up, and then he felt the man’s mana running wild. He’s self-detonating? Fool. The second the man turned his mana against himself and put it to harmful use, it was no longer useful to him but instead trash.
+
+Usually, it wasn’t possible to directly draw out another person’s mana. Their strength naturally resisted it, and the world rejected it, meaning directly manipulating someone else’s mana was only an option at sufficient tiers where the person in question could kill the victim with a flick of their fingers anyways, leaving no reason to bother with direct-manipulation techniques. But this man had relinquished his mana. It was no longer his mana, but garbage he was throwing away, so that he could also throw away his body (and life). In trashifying his entire being, from mana to body to life, he’d opened himself up to Rhys in a way that few people ever opened themselves up to their adversaries. And Rhys was happy to capitalize on the man’s mistake.
+
+Slapping a hand on the masked man’s chest, Rhys pulled all the turbulent mana out of his body and pulled it directly into his trash star, where it was burned up like the trash it was.
+
+The man went still. His poisoned dagger had been intercepted. He’d failed to explode his core. He was very alive, very safe from himself, and very deeply troubled.
+
+Rhys smiled. “Hi. How’s it going? You know, I think you and me could be great friends. Why don’t we sit down and have a little chat? We can start with talking about why you blew up our ship just now. Pretty rude, no?”
+
+The man struggled in his grasp, fighting to break free. He was shockingly strong, strong enough to fight against Rhys, but he’d just given away all his mana in his attempt to self-detonate, which left him relatively weak. In his current depleted state, the masked man couldn’t successfully break free from Rhys’s fully mana-powered grasp. Things might have been different if he’d still had his mana, but, well, he’d just handed it all to Rhys, and Rhys was happy to use the man’s own mana against him.
+
+“So, now that we’ve tried everything and failed, do you feel like talking? I’ll be nice, I promise. I just want to have a chat.”
+
+The man said nothing, turning his head away and emanating a resolute silence.
+
+“Oh, come on. You’ll get bored, being like that.” Rhys considered the man for another few moments, but had to turn away. Ryota was still out there somewhere, and had presumably been harmed by the explosion. He had to go find his prince and make sure he was fine. Plus, what was better than letting his future interrogation target stew a little bit?
+
+He pushed a smidgeon of impurities into the man to weaken him so he was easier to tote around, then added another specialized burst of impurities into his eyes to blind him. It wouldn’t keep the masked man from sensing things with his mana senses, but it made Rhys feel better.
+
+The man stiffened at Rhys’s actions, then scowled. “You’ll never… get anything… from me!”
+
+“We’ll see about that. I mean, I’m not very good at interrogation, but I know some people. I don’t think you’ll last very long in Soma’s dungeon.” He paused. “The non… the less sexual one. And I don’t mean last like… that, either. But yeah, probably that too.”
+
+The man turned slowly toward Rhys. His mask completely covered his face with a blank slate, but Rhys could feel the trepidation radiating off him anyways.
+
+“You could just talk. It’s the easy way out. I really do just want to chat,” he offered with a shrug.
+
+The man responded with silence once more.
+
+As he spoke with the masked man, he flew toward where he’d last seen Ryota. He tucked the man under his arm to make him easier to carry, then paused, yanked some trash cord out of his trash star, fused it together with a quick spot of trash enchantment, and tied up the man with it before tucking him back under his arm. The end result gave the impression of both a brown paper package tied up with string and some very strange BDSM play, a combination Rhys hadn’t known was possible until he’d put it into the world.
+
+I’m discovering so many new things today.
+
+“Ryota! Hey, Ryota! Are you alive?”
+
+A distant groan was his answer. Rhys hopped off the ground and flew toward it, still carrying the masked man. Ryota sprawled halfway up a tree, his limbs draped over its branches. One branch had attempted to impale him, but the Mohs hardness scale tilted in favor of Ryota’s tier 5 mage body, and so Ryota shattered the wood instead. Splinters littered the trees and ground around him, and his body was coated in sawdust and splinters of a different wood, one Rhys recognized from his ship.
+
+He wiped his face, somewhat dazed. “What happened?”
+
+“My friend here—not actually my friend, by the way, before you start—decided it was a mighty fine day to play Guy Fawkes and blew up your ship. Unlike Guy, he succeeded. Like Guy, you aren’t dead… though I’m not really sure he intended to kill you so much as harm and/or spook you, because I’m pretty sure, and correct me if I’m wrong,” he directed this at the bound man, “that he needs you for his boss’s plot with the fierce mana. Am I right?”
+
+The masked man said nothing, but he did it a little more stiffly than usual. It might’ve just been the string rubbing him in an unfortunate place, he wasn’t sure, but Rhys had seen him stiffen for sure.
+
+“What? Why? Who needs that?” Ryota asked, peeling himself out of the tree.
+
+“I don’t know. I’ve been trying to get him to tell me, but he’s the strong and silent type.” Rhys looked at him again. “Well. He’s the silent type. He’s not the strong type anymore since he handed all his mana to me.”
+
+“Why’d he do that?”
+
+“He didn’t mean to do that, he just, you know, coincidentally handed it over. You know. These things happen.”
+
+Ryota squinted at him. “No they don’t.”
+
+“They do to me. You should train more, and maybe people will start handing their mana to you.”
+
+“Train at what? Sucking them d—”
+
+Rhys raised his hand before the prince could let lose some truly unfortunate phrasing. “You know, we really don’t need to discuss that. Especially not in front of the prisoner. Confidential techniques and all that.”
+
+“Uh huh.” Ryota finished extricating himself from the tree and brushed some sawdust off his shoulder, which didn’t do much for the rest of his sawdust-covered self. “What’s the plan now? Are we still sticking around?”
+
+“Nah. I don’t think this guy works alone, and I want some alone time with him that his buddies probably wouldn’t appreciate it. It’s time for us to hightail it out of here.”
+
+Ryota sighed in relief. “Finally. I thought you were going to obsess about the boonies forever.”
+
+“Oh, come on. It was for a good cause.”
+
+“No it wasn’t.”
+
+“A profitable cause?”
+
+“Are you sure about that?”
+
+“A cause I care about.”
+
+At that, Ryota finally nodded. “That’s for sure.”

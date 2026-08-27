@@ -1,0 +1,37 @@
+---
+id: ab83547d-4fc8-59a2-b583-464e79e6654a
+page-type-slug: story-chapter-royal-road
+title: "Not a Chapter. Announcement – Book 2 Live on Amazon!"
+slug: 0016-not-a-chapter-announcement-book-2-live-on-amazon
+partOf: hell-difficulty-tutorial
+position: 16
+ownLength: 287
+unit: words
+publishedAt: 2024-08-27
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/1776558/not-a-chapter-announcement-book-2-live-on-amazon"
+royalRoadId: "1776558"
+---
+
+It's here again. Book 2 is live on Amazon, and my F5 key will soon fall off! The ebook is 200k words long, which is 50k words longer than Book 1 and around 730 Amazon pages.
+
+Unfortunately, the audiobook isn't ready yet, but it should be available in a few weeks, once again narrated by the amazing Henry Kramer.
+
+As before, I'm here to beg. Yup. I don't shout that much or annoy you with Patreon plugs too often, just to make you more likely to react nicely to this kind of post. Yup.
+
+Did you like Book 2? (Book 2 starts at the 3rd floor and ends in the middle of the 4th floor after Group 4 gets out from under the old capital where they were trapped by the Living Tree.)
+
+If you liked it, please leave a review or rating. It's very important in the eyes of Amazon's algorithm and helps a lot to push me higher. You can rate and review even if you didn't buy the book.
+
+If you have KU, you can download the book - just downloading it helps as it counts as a sale.
+
+So, if you feel especially nice, you can check it out and rate/review it here. There are no big changes to the story, but the book went through professional editing with some smaller changes.
+
+Amazon: https://www.royalroad.com/amazon/B0D365Q3HW
+
+I also made Reddit posts, so if you have a Reddit account, upvoting them helps as well!
+
+r/litrpg: https://www.reddit.com/r/litrpg/comments/1f2hakq/hell_difficulty_tutorial_book_2_is_out_today_on/r/ProgressionFantasy: https://www.reddit.com/r/ProgressionFantasy/comments/1f2h8tb/hell_difficulty_tutorial_book_2_is_out_today_on
+
+Anyway, as always, thank you very much. Book 1 did AMAZING; for a while, we were the 94th best-selling/most-read book on all of Amazon. Like, what the actual fuck?
+
+Thank you all so much for being part of this!

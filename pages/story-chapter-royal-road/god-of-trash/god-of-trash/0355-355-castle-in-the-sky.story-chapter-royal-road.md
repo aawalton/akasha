@@ -1,0 +1,157 @@
+---
+id: 03754305-6a59-59ca-9523-0457812eb84e
+page-type-slug: story-chapter-royal-road
+title: "355. Castle in the Sky"
+slug: 0355-355-castle-in-the-sky
+partOf: god-of-trash
+position: 355
+ownLength: 2263
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3869030/355-castle-in-the-sky"
+royalRoadId: "3869030"
+---
+
+Rhys looked up until he was craning his neck, and only when his head was tipped back so far that he could no longer tip it back any further could he finally see the capital.
+
+It floated high above them, mounted on a massive white plate that blended into the sky. When fate aligned, it appeared to be a city built in the clouds. Rhys tilted his head, a little confused. Usually mages made sure that cities in the clouds looked like they were in the clouds, but this one very apparently had a white disk at the bottom of it.
+
+Was it just him? His eyes were Tier 5 now, which fundamentally made them pretty strong. He squinted, trying to make his vision worse, but it didn’t change the fact that there was very much a disk in the sky, and very much not a city in the clouds. He looked at Ryota. “Uh, is it meant to be…”
+
+“In the clouds? It was, once. One of our country’s founding kings was a storm mage who could wrangle the clouds as easy as breathing. Back then, it didn’t just appear to be a city on the clouds; it truly was built upon clouds. But then he ascended, leaving the city behind. For a time, it remained on the clouds, but with time, his magic faded. Buildings started falling out of the sky, and people had to keep catching their buildings… it was a whole mess. We had to build something safer.”
+
+Rhys raised his brows. “Yeah, I can imagine. Mage castles aren’t small. One of those could take out a whole mortal village.”
+
+“Oh, it wasn’t the mortal villages that did it… they learned to stop building villages under the capital eventually,” Ryota said, waving his hand dismissively. “No, a palace fell out of the sky unexpectedly and splattered some foreign mage. No one was home to catch it, so it really took the guy out. He was only Tier 3, but he was a dignitary where he came from, and the favorite of some foreign queen. We had a whole war about it. We won in the end, but after that, everyone agreed that we should probably take action and actually build a new platform. Some people wanted to solidify actual clouds like what that early king had done, but everyone else was tired of clouds, so platform it was.”
+
+“Huh,” Rhys said, really unsure how to respond to that story. Usually I’m the one who’s making other people be taken aback. I’m not used to the shoe being on the other foot.
+
+“On the anniversary of the founding and other holidays, we usually corral some clouds to make the city look like it’s still floating on clouds. But on ordinary days, it looks like this.” Ryota gazed up at the disk, then shrugged. “To me, it just looks like home.”
+
+“Right. You were raised in the palace, weren’t you?” Rhys asked, looking at Ryota.
+
+He nodded. “Right up there.”
+
+“Can we go see?”
+
+“See… the palace?”
+
+Rhys nodded. “Yeah. I mean, it’s a palace, right? No—the palace. It’s gotta be really cool, right? The accumulated wealth of an entire region and whatever else you guys conquered… I can only imagine how grand it must be.”
+
+What could he say? He liked museums and fancy architecture. Ryota’s palace would be a combination of both on the British-Empire scale. Well, maybe not that scale. He doubted this region had conquered the world. Imperial-China scale was still pretty awesome, though.
+
+Ryota shook his head. “We’re all banned from the palace until we conclude our battle. It’s so we don’t fight in the capital city. Technically, I’m not supposed to return to the capital either, but…”
+
+“But they aren’t so careful about that?”
+
+Ryota nodded. “Basically. A few princes are even openly living in the capital, though living here rather than running, hiding, or fighting is basically the same as capitulating.”
+
+“Oh, yeah?”
+
+“We’re not allowed to live here because no one wants us to fight in the city and mess everything up. If you live here, you can’t fight back without violating that, and some of the city’s primary experts live amongst the capital’s citizens. Aggravating them is signing your own death warrant. Basically, you take yourself out of the fight. When whichever prince becomes king, if he’s feeling kind, he might pardon you, but it’s far more common for all the princes who capitulated that way to get executed on the king’s coronation.”
+
+“Damn,” Rhys muttered.
+
+Ryota shrugged. “It’s simply the way it is. What, do you expect a king to let a treacherous prince who could potentially control the power of an entire region, which might outsize the region backing you, live? It would be foolish.”
+
+“No, not that. I mean… giving up like that. Just sitting around and waiting for death. Damn.”
+
+It wasn’t like he couldn’t understand it, to some degree. His first life had kind of been that way. Sitting around, wasting his life on some meaningless day job and waiting for death. But that had been his first life, where upward progression was almost impossible. Here, where heading out into the wilderness could yield an insight that totally overhauled your entire fighting style and doubled your power, he couldn’t understand it. If they didn’t want to fight, they could always run away. Find some way to escape the region, whether by heading to another region or entering an alternate realm, like the void. There were so many other options than waiting for death, and they had so much potential and resources in their hands, that it was simply an unimaginable waste for them to throw it all away.
+
+Throw it all away? Rhys’s eyes suddenly shone, and he perked back up. Hold on. I need to meet these people.
+
+Ryota squinted at him. “What are you thinking about?”
+
+“Nothing.”
+
+“Nuh-uh. You only get that look in your eyes when you’ve thought of something truly evil.”
+
+“I never think evil thoughts. Hey, is there any chance I could meet your brothers, by the way?”
+
+Ryota snorted. “If you’re thinking about something to do with them, then forget about it. I’m not on good terms with most of my brothers. Aran is the exception, not the rule. The rest of them…”
+
+“More like Fifteenth?”
+
+Ryota started to nod, then hesitated. “Not quite that bad, but more like that, yes.”
+
+“Then that’s perfect. Come on, let’s go. Introduce me to your brothers!”
+
+Ryota crossed his arms. “Did you miss the part where very powerful experts will kill any of us for causing a fuss? That extends to random people attacking princes, too. They aren’t going to overlook you just because you’re an out of towner. If you disturb them, they won’t forgive you.”
+
+Yeah, I get it. Typical middle-aged behavior, to not give a shit until it inconveniences them, then throw a fit the second anything does. Rhys nodded. “Right, but what if we don’t cause a fuss?”
+
+Ryota squinted at him. “What are you planning?”
+
+“I’m planning… getting to know your family. Nothing strange about it.”
+
+“Sure you are.”
+
+“I am. I’m very earnestly trying to get to know you better. Is there something wrong with that?”
+
+“By getting to know the other princes, who don’t like me and would probably rather see me dead?”
+
+“You can tell a lot about a man by who’s trying to kill him.”
+
+Ryota opened his mouth to retort, then paused. He blinked, taken aback. “That’s actually kind of deep.”
+
+“I can be deep when I like,” Rhys said, mock-affronted.
+
+“…But I’m not sure how much you can learn about me from my siblings. They only want me dead because they want the throne, and these ones don’t even want the throne enough to make a serious effort to kill me.”
+
+“Maybe I just want to meet your family.”
+
+“Uh huh. Because that’s gone so well so far.”
+
+“I’ve got a fifty-fifty record. Fifteenth and I didn’t get along great, but Aran thought I was hot.”
+
+Ryota winced. “Do you have to remind me that my brother is attracted to you?”
+
+“I thought it was kinda funny, honestly. I mean, he’s got bad taste, but there’s no accounting for taste, am I right? By the way, did you know I’ve got a real cute girl alter ego? I wonder how many of your brothers I could get to have the hots for me.” He pinched his chin thoughtfully, as if he was actually considering it.
+
+“You have… what?”
+
+“You wanna see? Her name’s Rina.”
+
+“No, I don’t, actually. You, uh. You look great as you are.”
+
+“I know, but aren’t you curious?”
+
+Ryota shook his head.
+
+“Oooh, I get it. You’re just afraid you’re gonna find Rina cute,” Rhys said, waggling his brows playfully.
+
+“I—that is not—” Ryota took a deep breath and settled himself. “Let’s go to the capital.” Without another word, he kicked off the earth and flew up toward the city in the sky.
+
+Rhys followed after him, deeply amused. He really had just been talking about random nonsense, but seeing Ryota’s reaction really made him want to keep pushing those buttons. I’ve gotta find an excuse to use Rina soon. The world deserves it.
+
+Not many people had approached the capital on foot. It was Rhys’s sick obsession to walk places on the ground, or rather, he just kept forgetting he could fly, so as they flew higher, they started encountering more capital-bound mages. Weaker mages rode flying artifacts, which seemed to mostly be swords and small shuttles here, or tagged a ride on a boat. Although it was technically possible to approach the city from any direction, a low-key magical suggestion and a little bit of barrier work pointed most newcomers at the main road, or shunted boats and larger flying contraptions toward a dock off to the side. Rhys didn’t want to stand out, so he obeyed the suggestive force and fell in with all the others, approaching the main gate.
+
+The main gate was massive, broad to match the main street, and currently hung wide open, its gilded bars inviting any mages who pleased to approach. Mages cued up outside of them right at this moment, and he and Ryota joined the queue.
+
+The gates were relatively simple, an arch split in two, populated with thick spear-tipped golden poles. It wasn’t as if a pair of physical gates with a limited height would prevent anyone from flying in, but there was a potent magic woven into the metal bars. Whether it was a barrier, attack, or illusion, when the gates were shut, the cities defenses were redoubled.
+
+Rhys looked the gates up and down, extending his senses to gauge their strength, and found that he couldn’t. They were strong. How strong? Very. Tier 6, Tier 7, or something even higher? He had no idea. They were beyond his ability to sense, which meant they were far, far stronger than him.
+
+He swallowed. Ryota wasn’t kidding about those experts. I’m going to need to mind my ps and qs if I want to get away with murder in this city.
+
+A little voice in the back of his head whispered that maybe he should stick to the primary objective of figuring out what was going on with all the fierce mana, and abandon the side goal of quietly murdering and absorbing the trash princes, but he stifled that voice. That voice was a quitter. That voice was the voice that had told him to give up, stop, and pay for the crimes he’d committed against the rim-realm and her people, when what he’d really wanted to do was murder the rest of the city and all the infinitely spawning guards, too.
+
+That voice had been right. The game had eventually spawned enough guards to take him down. But what if it wasn’t this time?
+
+Plus, he’d murdered a lot of that city. He was only aiming to kill three, maybe four or five princes. His current plan was incomparably stealthier than the kill-everyone-until-I-die plan. Surely that also made it incomparably more likely to succeed!
+
+I mean, think of the gains! Sucking up multiple fattened, useless, face-slapping princes and absorbing all the potential and power they’re throwing away. One hundred years of potential per prince, give or take a decade… that’s a lot of power! This should be a big step toward Tier 6. I’d be a fool to give up on such easy pickings!
+
+Enheartened, Rhys nodded to himself and grinned. This was the right path, he knew it.
+
+He nudged Ryota. “Where’d you say the other princes live, again?”
+
+“I didn’t,” Ryota grumbled.
+
+“What if I promise not to go there in drag, what do you say then?”
+
+Ryota frowned and turned away.
+
+“Spoilsport.” It didn’t matter. Princes were always popular with the people. Even if there were twenty-seven of them, there were still enough people in the world to care about all twenty-seven. Hell, there’d been a group called Alphabet-47 back home with forty-seven some members all in one big idol group, and there’d been enough devotees to support all forty-seven. Compared to that group, twenty-seven was nothing. All he needed to do was find a fangirl or a tabloid, and he’d be set.
+
+The old mage in front of them with a long, flowing beard turned and stared at the two of them in something like horror or confusion, then shook his head and turned back around. Dismissively, he muttered under his breath, “Children.”

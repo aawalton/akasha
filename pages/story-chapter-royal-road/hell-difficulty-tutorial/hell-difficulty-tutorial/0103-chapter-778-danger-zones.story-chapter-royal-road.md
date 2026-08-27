@@ -1,0 +1,117 @@
+---
+id: 40a6384c-61ca-52d4-b3cf-dc47ae96149e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 778 - Danger zones"
+slug: 0103-chapter-778-danger-zones
+partOf: hell-difficulty-tutorial
+position: 103
+ownLength: 2170
+unit: words
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3189794/chapter-778-danger-zones"
+royalRoadId: "3189794"
+---
+
+As we fight our way through the forest, I continue to work on handling the increased amount of mana in my poor man’s [Mana Crown]. I use [Manifestation] to further strengthen it and make any needed modifications.
+
+The longer I have to deal with it, the more I appreciate what the skill called [Mana Crown] actually did. It isn’t as simple as creating storage and letting all the mana in. The crown must have been modifying itself according to the volume of mana while keeping it from spilling or constantly radiating like a lighthouse.
+
+Of course, there was a problem with the original skill, just as there’s a problem with my homemade version. The more mana there is in the crown, the more difficult it is to take out.
+
+I think that applies to all crowns, no matter what kind of energy they store. At some point, the internal pressure becomes so great that you can’t simply take a thread of stored energy and use it. Every time you reach in, a valve opens, and if the pressure is too high for your capabilities, you have no chance of stopping it. It would likely melt your brain or rupture your body, and all sorts of fun things.
+
+I also remember that bodyguard guy from the Mindblender City. I think he used to have an [Impact Crown]? He couldn’t even use it at all, he just kept storing more and more energy inside, serving as a weapon of last resort. His mindblender master used him as a deterrent with a dead man's switch. If his master died or commanded it, all the energy his bodyguard had stored over the years would’ve been released all at once, ruining the day for everyone in a huge area.
+
+I think it is safe to say my crown now holds much more energy than his ever did. After all, I’ve been feeding it a constant stream of mana for over three months now, with the addition of energy from my Ignition Heart, thermal energy being converted into mana with two out of three seals lifted. Basically, a Champion’s thermal heart working at 30% or so, as the last seal does most of the work restraining the heart’s output. By my estimations, the first seal is 10% and the second one additional 20%.
+
+That amount has now tripled thanks to my new best friend… no, not just a friend, my brother, Rex Gwyn. May he terrorize this floor for as long as possible, and may I meet that glorious beast outside of the tutorial.
+
+I know it, and everyone knows it, but somewhere in this universe, there must be people who’ve been storing their chosen energy in a crown for millennia. I am even willing to bet all my mana stats on that.
+
+There’s just no chance someone didn't get the very same idea I’ve had so many times. I imagine some old guy with a Level 90 [Fire Crown], holding so much stored fire that he can't use it anymore. And when he dies one day, he’ll take whatever planet he is on with him, such a crown would have to contain more than enough fire to do that and, for a brief moment, would turn it to a small sun.
+
+“We are still just small fries, aren’t we?” I whisper to Biscuit, whom I continue to carry.
+
+(Food?)
+
+“Not the edible kind of fries. I meant that we’re still weak.”
+
+(Food.)
+
+“Well, sorry for giving you a craving for fries now that I’ve reminded you of them. Where would I get them from anyway?”
+
+(Friend. Help. Would.)
+
+“True. But a true friend isn't the one who feeds you fries, but the one who carries your lazy, snuggly ass around. Show me antlers,” I say.
+
+In reaction to that, Biscuit, in his puppy form, grows out his tiny antlers of his and looks up at me. (Not biting? Let friends bite?)
+
+“They can easily handle this much. You and I are here for bigger fish. And before you ask, not an actual fish. We know how these floors work, so things are about to get dangerous. You try to stay with the others at all times. I’ll be moving around as needed.”
+
+(Maybe meet deer,) Biscuit says and stares at me with a question.
+
+I sigh. “If we see any, you can go after it, and then I’ll stay with the group.”
+
+Almost shaking in excitement, he presses against my face, poking me with his antlers and nose while licking my skin.
+
+According to the map, we’re approaching one of the danger zones. As we draw closer, a distant sound presses through the forest, carried easily between the larger clearings. A strong wind moves through these pathways, carrying that sound, a constant pitch that shifts just enough that it’s impossible to get used to it or let it fade into the background.
+
+Everyone’s getting more irritated, even as it all begins to feel like some sort of alien music. It feels like constant pressure on our minds, so Sophie takes the lead by sending the monsters she’s been manipulating ahead of us.
+
+During that, I notice that Tess has become better at locating phantom, camouflaged, and straight-up invisible monsters. Of course, with my hatred toward anything so unnatural and the months I’ve spent improving my own senses, she can’t match me, but she’s still getting really good. I’m certain she can even see mana signatures through the trees, and I mean dozens of them, and pretty far into the distance.
+
+I’ve always found her optical senses interesting because they don’t require her to send her mana ahead to scan and locate someone. She just sees.
+
+Yes, I’m sure there are some scary assholes who can sense if you even so much as look at them, but since looking gathers less information, I think it’s better for scouting without the risk of being detected.
+
+Some time ago, I think she mentioned that she’d improved her sight with a passive and a supporting skill. Every once in a while, I find myself wondering how she sees the world, especially at night when I see her sitting quietly, her gaze fixed on the stars in the night sky.
+
+I cut those thoughts short when one of Sophie’s monsters halts. It’s one of the leopards, and once it’s stopped, it starts swaying from side to side, almost like it's vibing to some sort of rhythm we can’t hear.
+
+Sophie furrows her brows and tightens her control over it. The leopard takes a few more steps before stopping entirely.
+
+"There are thousands of monsters like that," Tess says, putting her hand on Sophie’s shoulder. "Within a certain distance from the centre of this danger zone, they just seem to stop. The more powerful ones are still standing there, likely for months, maybe years at a time. There are also thousands of corpses from the ones that died in that trance."
+
+"It shouldn't break my control like this. I took over their minds entirely," Sophie says.
+
+I can see she is trying and trying. Sophie is steadily raising the pressure she’s exerting on the leopard she’s been manipulating, pouring more of her will into it as if brute force alone might push it forward.
+
+Almost in reaction to her effort, the leopard stops swaying and then lets out a loud, sudden, aggressive noise, so distorted and unnatural that I am sure its throat must have torn itself apart.
+
+The leopard twists around, its body breaking in the middle with an audible crack, and its ribs pierce the sides. More muscles and bones tear as it charges toward Sophie. Each leap breaks more of its body, causing it to run on freshly revealed flesh and bone while its organs burst from its torn belly. Its maw opens so wide the jaw dislocates, and blood flows out over the fur.
+
+It continues to screech as loud as it can while moving with a burst of speed that’s surely killing it, but it's many times faster than anything it should’ve been capable of.
+
+Rising up from the ground, rock spikes pierce through the middle of its body, but the leopard continues to push. Its eyes burst open with blood flowing like tears as it strains, tearing its body in half and leaving the back portion behind as it pulls itself forward with what remains of its front legs to crawl toward Sophie.
+
+A massive hand made of rock forms, trapping the creature inside and squeezing it with a sickly crunch. For a moment, there’s nothing but silence, and then we notice the back half of the body moving, twisting in the same way to reach us until another stone hand squishes it.
+
+I don’t think I have ever seen such a pure feeling of hate. Even though it was many times weaker than the stronger opponents I’ve faced, the feeling I got from it unnerves me more than many of them.
+
+No one says anything for a while until Izzy’s Fragment of Eternal Fire moves. A flame made of green, blue, and purple colors moves across the ground like a living snake and quietly burns what remains of the monster.
+
+"Please, let’s not go there," our empath says quietly.
+
+Thinking it over, Tess glances at me with a lifted eyebrow in a silent question, and I nod.
+
+"Let’s leave," Tess says, and there’s no one willing to disagree with her.
+
+There are a few demon tribes we avoid along our way further north. Unfortunately, we don’t find any deer, but the danger zone we find ourselves in this time seems less dangerous than the previous one. Though there’s still the possibility that we can't even sense the thing that’s threatening us and are thus being hurt in some way we can't fathom. This is where we find ourselves relying on Lily, who doesn't seem to notice anything and continues to monitor the situation.
+
+As with many of the other danger zones, this one is marked by a clearing. There are fewer trees, and even monsters seem to actively avoid it until we reach a center that’s just a mile wide and cleared of all growth. At the center of that space lies the body of a demon. It is a man who’s had both of his horns sawn off in a way that looks like it must have been done after his death. A hole’s been burrowed through the entire length of his chest, where we can see that his demon heart is missing.
+
+So far, it looks like one of the oldest bodies we have found. The skin is even paler than the usual demon pale and shriveled as if shrunken. The body that used to be muscular is now thin and fragile looking.
+
+Our healer is there first before anyone can stop her, putting her hand on the corpse’s shoulder. I watch as Tess lowers the hand she’s lifted to stop her and turns to our healer, who is already examining it.
+
+Lily then says, "It’s hard to say how old it is, it could be anywhere between a hundred and a thousand years. He didn't seem to have had any mana based traits, much less a mana-conductive body, opting instead for body strengthening. Probably a kinetic heart, too. The bones are still very durable. Like, very, very durable. Even the rest is in a surprisingly good state. I don't think any normal monster would even be able to take a bite. I also think there’s a trait that might be meant to redirect any kinetic attack back into the attacker, but I’m no specialist when it comes to kinetic energy. I think even rain or strong winds could trigger the trait. With how powerful the storms can be here, it is probably what cleared out the area."
+
+Tilting her head, she lifts her hand and moves it down to tap the corpse’s arm. She does it in a gentle way, like she’s gently smacking an unruly child in the back of the head.
+
+Following that, she is thrown away. Her entire hand evaporates into a pink mist, and the entire front of her body and face are stripped down to the skin and flesh, and I quickly absorb as much kinetic energy as I can before it can cause any more serious damage.
+
+Lily doesn’t even collapse after all of that, only slides backward as her body regenerates with a speed that is difficult to track with the naked eye.
+
+When everything is back in place, she quickly turns around, and we look away while Tess brings her new clothes. When Lily is dressed, Tess doesn't even shout at her, though our healer likely expects it.
+
+I watch as the tall blonde just looks at her with an expression that mixes strong fear of what could have happened with anger and disappointment. I think it is the last one that makes Lily feel the worst. She would’ve probably preferred the screaming.

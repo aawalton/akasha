@@ -1,0 +1,207 @@
+---
+id: 281d9889-64e9-5d52-9b7f-0e010abc265a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 790 - Isn't it yours?"
+slug: 0115-chapter-790-isnt-it-yours
+partOf: hell-difficulty-tutorial
+position: 115
+ownLength: 2960
+unit: words
+publishedAt: 2026-04-09
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3253585/chapter-790-isnt-it-yours"
+royalRoadId: "3253585"
+---
+
+Flashback Nyssa Volare
+
+If I were to be born again, I wish to be born into a simpler life. I would love to leave this all behind and perhaps grow a bit taller than I am now. If it is not too greedy, I would want blonde hair as well.
+
+I would want to live a simple, if not too long life. Sometimes I feel lonely, so I imagine having a few siblings who love me and whom I’d love in return. I would be the youngest one, cute and pampered by everyone, always wearing clean, pretty clothes and eating warm food.
+
+Living a normal length life would be amazing, or maybe slightly longer with good health. Not as a demon, but as a human. Maybe a hundred years? I’m not sure exactly how long humans without the system usually live.
+
+I would want to have a spoiled childhood too, become an adult again, marry someone I would make fall in love with me, and die before them, or together, while surrounded by our family.
+
+I don’t like being Nyssa Volare, but it is not that I hate it either. I get to live and meet all these people and experience all these things. There are many things I’ve gotten to do and experience that others never will. For that, there’s a price to pay, and I think it is fair that I do.
+
+As I squeeze my fist, the cut on the palm of my hand opens more, and blood begins to drip and flow through my closed fingers. My blood. Primordial blood. The blood of the cursed bloodline, made to serve the High Lord, whom I will kill once I return to my planet. Until then, I wear his colors, and until then, I serve. I do not question.
+
+[Weapon]
+
+The blood that constantly burns within me, now flooding from my wound, heeds my command. It becomes the weapon I will it to be. A greatsword with a blade so broad it should be heavy, yet in my hands, it may as well be lighter than air. My body burns from the inside as the circulation of my blood intensifies, and I turn my body itself into a [Weapon].
+
+The opponent I came to face, still far away, notices my presence and reacts in kind, getting ready for a fight.
+
+I should die here, but I don’t think I will.
+
+If I were to be born again, I know that my nature would be the same. I can't escape who I am.
+
+It saddens me a little bit.
+
+POV Nathaniel
+
+[Mana Warcaster - lvl ????]
+
+The thylarin Champion is already there when I finally reach the group. His six arms spread wide open as he thrusts them forward. As if ignited by the pure friction of his limbs moving through the air, a flame of the deepest blue I have ever seen roars into existence. It ignites around him, shooting upward and spreading to his sides like wings made of fire.
+
+That flame creates an enormous shape behind him before surging toward us, half a mile high, turning the ground to glass as it passes and causing the molten earth to churn like waves on the sea.
+
+It feels as if the entire horizon has been blurred out under the heat of the air.
+
+Shouting, Weslin and his subgroup in charge of our defenses activate their array, throwing all their power behind it. Nearly the entirety of Weslin’s gathered void is used at once, along with nearly all the group's reserves.
+
+The flickering void spins like a ring around two S-ranks and fourteen A-ranks as the flames scream past. Two of the A-ranks fall to the ground dead from the next attack, which pierces their defenses, and multiple others have begun to sway. One standing slightly too close is set ablaze; he burns in half a second, leaving nothing behind.
+
+The air shrieks in pain as the Champion moves his arms again. And that blue flame swirls around the resisting void and pulls back to the Champion just as I reach the site, and he switches his attention to me.
+
+The landscape around me explodes in a blast of mana that falls from the sky like the strike of a single, gigantic hammer. A shockwave tears through the area, creating a perfectly circular flatland of compressed dirt around me, pushed deep into the ground.
+
+In the middle of it, I stand on the barely step-wide patch of ground that’s remained unaffected. An enormous amount of mana from the attack floods into my crown, and my minds snap into complete focus. Arrays activate, and Ley Lines connected to the Nameless Tree manifest in the sky.
+
+A vessel manifests behind me as well, and nearly all the mana I’ve gathered moves to activate a single skill. I use the Tree to keep it stable, channeling that mana through my vessel while my low pristine passive stops my mind from sizzling out of my ears.
+
+I watch the Champion, and as if someone flipped a switch, all colors disappear from the space. The blacks become darker and the whites brighter as [Eclipse] encompasses the scenery in a sudden silence so deep it creates a high-pitched ringing.
+
+The blue flames lose some of their color as well, spilling to the ground like pouring sand. Dangerous and searing, yet stripped of all control or intent behind them.
+
+My [Focus] reaches its peak as I wait for his counter. The world feels as if it’s slowed to a crawl while I push myself to the brink. I realize with brutal clarity just how powerful our opponent is and how much of this venture relies on me. If I fail, all of us will die.
+
+The Champion moves to retake control of the flames, but I read his attempts, and my black mana devours any mana he sends out to reclaim them.
+
+Tense to the breaking point, I watch him, sharpening my [Focus] even that little bit further.
+
+Then he fails again.
+
+How?
+
+The Champion, similar to the lurker or the avatar, swiftly comes with a counterplay after realizing what my black mana does. His own mana begins to seep from his body, allowing me to identify him as a Regenerator. His mana crashes out constantly, powerful and seemingly never-ending.
+
+It is an amount tailored to destroy my mind and overwhelm me while he begins to move, using the mana inside his body for strengthening, as the others move ahead to face him.
+
+Just how?
+
+Pouring from within his body, mana bursts out, sharp and dangerous, thrown against the people around him with enough force to kill. The moment that mana leaves his body and steps into my domain, it breaks apart into shining particles that crash against the demons like a sandstorm before disappearing, devoured, and becoming mine.
+
+How are you so weak?
+
+Why are you letting me take your mana away from you?
+
+Isn't it yours?
+
+The Champion attempts to rush me, but Morwag faces him while the pearl-white obsidian spine chain digs into the ground to tie him down, striking against the blackness. Not even they can use mana. No one but me and, to a small extent, the Champion can. But they have their primordial energies.
+
+I am still not fully used to these eyes, but I’ve long since grown used to never running an optimal, properly planned-out fight. Even as they burn in my skull, I continue to observe the Champion, who, though he’s clearly not close-combat oriented, possesses an impressive mana-based body strengthening.
+
+He tears one of the demon’s heads off. He pierces a hole through another. He punches Morwag in the face, cracking the low pristine armor and blinding one of the demon’s eyes.
+
+The friction of the demon’s own heart beating generates blue flames, which he draws from his body to coat the surface, where he lets them blaze as they slip out of his control, burning the others before they can defend.
+
+But the longer he faces them, the more desperately it feels like he wants to get away from them to attack me. Morwag, no matter how wounded, jumps into his way while Weslin and the others do their best to defend.
+
+The battle moves all across the battlefield at a speed some of the A-ranks have trouble catching, but every single time, Morwag and Weslin put their lives on the line to stop him from getting to me.
+
+The Champion bursts into a blisteringly fast movement and tackles Morwag away, his hands move behind his back, and he deflects Weslin while another hand punches the human attacking him. The entire time, gravitational energy continues to slow him, lightning crashes against his body, and the void attempts to pierce his natural barrier to fully cut him off and leave him with the stats of his body.
+
+Morwag, most of all, even now, is attempting to unwind whatever it is that holds the Champion together.
+
+Yet, that title is not easily given. Even stripped of his greatest power, the Champion is dangerous, but his movements are becoming heavy, and his rhythm is starting to break.
+
+Before anyone else, I manage to pierce through his natural barrier. The area of [Eclipse] shrinks, and just as I devour the mana he’s radiating to overwhelm me, I begin to pierce through his barrier. Hungrily, I reach in to take more.
+
+And his body strengthening begins to fail.
+
+His effort intensifies. Dozens, hundreds of techniques and abilities he attempts to use one after another. There isn't even a chance now for me to read and disrupt them all. Maybe in a few years, but it’s still too soon. So I do what I’m best at: I brute force it, and I channel. I steal all his mana, taking it under my control and stripping it away from him, then I turn it against him.
+
+It’s… almost too easy.
+
+I can take his mana from him. I can do it easily. It’s almost laughable.
+
+The intelligence was clear: the Champion is mana-specialized. He’s a specialist through and through. Unfortunately for him, Lissandra was right. I’m a nightmare for this kind of opponent.
+
+My vessel opens its arms wide behind me, and all that mana flows through it. Then, it’s left up to my mind to keep up. My domain, combined with black mana, absorbs it all. It devours his mana, forcing me to channel it in order to keep it under my control.
+
+For the first time since my body upgrade and the improvement of my Mana Physique, I see what it’s capable of. I begin to understand that the three mora from Crimson Forge weren’t joking when they said they had trouble finding materials more conductive than my body. My trait, my passives, my black mana, and my ability to channel make a joke out of such a mana specialized Champion. All these massive amounts of mana move by my will. They cycle, they swim in currents, they fill the black mana crown, and they power my domain.
+
+One after another, all his attempts fail, and his body becomes devoid of all mana except the little he can generate before I take it.
+
+My fragment, meanwhile, grows in size and regains some of its color. Unlike before, now, within my black and white domain, the tree looks celestial. The trunk is almost ethereal, a partially transparent white and golden light, whereas the crown of the tree has begun to look more firm and material.
+
+The branches begin to shake along with the leaves, and then all kinetic movement within my domain halts. All the members of the guild, all debris, the wind, and even the dust.
+
+The Champion freezes mid-attack, his momentum halted. He claws for a way out, first, an attempt to trigger a long-range teleportation to a pre-set anchor. Nothing. He tries to knit his natural barrier back together, then gather mana for one last surge, but it won't obey him. He struggles to shroud himself from my domain, his six arms trembling as two of them frantically gouge inscriptions into his own skin. He even attempts to ignite friction within his lungs with a sharp breath or to detonate the mana inside his own heart, prepared to ruin his body just to attack me.
+
+Here, against me, all of that fails. With all the preparations I’ve made, he doesn’t have a chance to gather a smidge of the mana that any of these require.
+
+Excluded from the hold as I filter it out, the others begin to move and launch attacks on the motionless body. Everyone is experienced, so they don’t throw weak strikes, they gather more primordial energy, and while the defensive group uses void and other fitting abilities, they all attack at once.
+
+Even then, only some of them cause wounds that make the thylarin fall back. One of his six arms is gone, held by Morwag, who throws it aside and rushes the thylarin again. Then I notice the inscriptions he carved into the arm Morwag tore off are being filled by the blood from the stump.
+
+The limb explodes into a burst of bones that glow in blue flame as they create friction through the air. The small pieces stab through everyone, most of them pierce Morwag’s back and come out of his chest. For a moment, the demon staggers, but he picks up the movement and punches the Champion straight in the head with a shockwave that breaks the molten ground-turned-glass.
+
+Some blood from Morwag’s wound flicks from his body, through the broken parts of his armor, and falls onto the body of the Champion. It flows down his arm and onto another inscription carved into his skin by his nails.
+
+And the Champion disappears, teleporting away.
+
+[Eclipse] vanishes, and all the black mana swirls around my body and into the crown over my head. I ignore the shouts calling me to pursue the Champion and instead turn around to where he’s stepping out from a camouflage field a mile behind me.
+
+My vessel reaches toward the crown and pulls out a dagger made of black mana at the same moment the Champion snaps his remaining hands in a clap.
+
+The air screams, and dozens of blue projectiles as big as buildings shoot toward us from behind his back, like falling meteors. He follows it with a downward swing of his hand, and a blast of mana slams down from the sky on top of me like a hammer.
+
+Even as I’m pushed to my knees, and my crown begins to spin wildly, I stare at him and use the [Ley Line] I’ve tied to him to teleport as the meteors begin to explode in shockwaves around me.
+
+Of course, he knows about it and expects it. He might even have left it there intentionally. The moment my teleport activates, an omnidirectional blast is sent through the area all around him, followed by screaming blue flames that tear through the air.
+
+But I’m not there. Instead, it is my vessel that teleports through, holding the dagger of black mana in front of it to absorb most of the attack.
+
+The Champion attempts to teleport, but Weslin reaches out with his void and messes with the connection. My vessel follows through, both of them teleporting just a few steps away to the ground. As the Champion lifts his arm in defense, my vessel simply stabs the black dagger into it before another burst of blue flames erases it entirely.
+
+The temperature around me rises, and the ground shakes under the impact of dozens of meteors. My skin burns even within my barrier, so I teleport away. No one tries to defend. Instead, everyone just tries to run away and avoid the fallout.
+
+The Champion tries to pull the black dagger away, but he is too slow. Before he can, it seeps into his body, spreading through him, devouring his quickly regenerating mana and growing stronger to devour more.
+
+A spinal chain made of glass crashes against the thylarin Champion, pushing him deep into the ground. Morwag falls nearby, his body and armor charred. He slams into the earth with full force, causing the ground to cave in and debris to explode into the air.
+
+No inscriptions activate this time. Morwag slams him again and again. He stretches his arm to the side and binds particles of glass together into a dense dagger, which he stabs down toward the Champion.
+
+Somehow, even now, that almost-dead thylarin fights back. His heart bursts open from the inside as he gathers just a little mana despite the onslaught of black mana. A blast of mana pierces through Morwag’s stomach, but the demon continues the strike regardless, burying the glass dagger deep into the Champion’s eye.
+
+With the blade lodged there, Morwag twists it. The thylarin twitches a few times before all movement halts.
+
+[You have defeated Mana Warcaster - lvl 501]
+
+[Lvl 392 > Lvl 393]
+
+[Lvl 393 > Lvl 394]
+
+[Lvl 394 > Lvl 395]
+
+[Lvl 395 > Lvl 396]
+
+[Lvl 396 > Lvl 397]
+
+[Lvl 397 > Lvl 398]
+
+[Lvl 398 > Lvl 399]
+
+[Lvl 399 > Lvl 400]
+
+[Lvl 400 > Lvl 401]
+
+[Lvl 401 > Lvl 402]
+
+[Eclipse - lvl 68 > Eclipse - lvl 69]
+
+[Perception - lvl 73 > Perception - lvl 74]
+
+[Manifestation - lvl 39 > Manifestation - lvl 40]
+
+[Current - lvl 40 > Current - lvl 41]
+
+[Current - lvl 41 > Current - lvl 42]
+
+[Current - lvl 42 > Current - lvl 43]
+
+[Current - lvl 43 > Current - lvl 44]
+
+Congratulations, you have reached level 400. You can now choose your final trait.

@@ -1,0 +1,107 @@
+---
+id: a3eb024d-9f1a-5664-89dd-d5c9763315e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 785 - Descent into Ruin"
+slug: 0110-chapter-785-descent-into-ruin
+partOf: hell-difficulty-tutorial
+position: 110
+ownLength: 2192
+unit: words
+publishedAt: 2026-04-02
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3224112/chapter-785-descent-into-ruin"
+royalRoadId: "3224112"
+---
+
+When I explain my plan, my brilliant idea, to the rest of the group, I’m not surprised by their reaction. I’m scared. None of them seems to mind. Some even seem to think it’s a good idea and start beating themselves up for not thinking of it sooner. Where my idea was just that, an idea, they start coming up with a plan all their own. They set protocols to follow and countermeasures in case something gets fucked up.
+
+Sophie, the twins, and Tess even enter Thought Acceleration Level 1 with Maya’s help. Tess and Sophie spend four days or so planning, while only half an hour passes for the rest of us outside.
+
+Such dedication makes it seem even more real. I gradually give up on trying to protest and go along with their plans to head into the center of this planet. We still need to time it properly, as that’ll be a vital part of the strategy. We are about to pull what I’ve taken to calling the Nathaniel Special. It is the strategy where you use system-given timing to your advantage.
+
+If you need to steal something from a dangerous place, you just estimate the amount of time you need to grab it and sync that with the moment the system teleports you away. Then you can just rush in without worrying about how you would otherwise escape. If whoever is responsible for the system hadn’t meant for us to abuse it that way, they wouldn’t have put it in.
+
+I also set up a long-range teleportation array connected to our cache of items in an underground cave. I am worried that we might not get a chance to return or that the cave might be destroyed during an earthquake or the progressing Harvest.
+
+Most of us agree that the Harvest is just the actions of whatever’s waiting inside the planet, or the planet itself, devouring everything it can on the surface. I begin to think that the bodies of powerful beings left there are likely being used to feed it, like someone’s raising an animal. I just don’t know what this planet’s being raised for.
+
+Currently, we have been sitting in a cave for a few days as guests of the literal spawn of the devil. The golden ferret keeps bouncing about as if it doesn’t know what to do with so many people there. The cave is big enough to fit a small building and is suspiciously clean. There are no bloodied walls, no bones of prey, and no great mob of ferrets that would likely be enough to destroy the world.
+
+It is just this single right hand of the devil ferret and assorted piles of interesting things. Often they tend to be pieces of shiny stones, wood, or plants. Plenty of them are of Arcane rarity, and I suspect there’s a place with better-hidden ones of an even higher grade. I notice a few items that were clearly stolen from us, yet another evil deed in a vast sea of those already committed.
+
+While I use the long-range teleportation array to move all of our supplies from the original hidey-hole, I watch the ferret carefully. It often moves close to Biscuit and stares at the body of the white deer. I bet the ferret would be best friends with that pyromaniac lunatic.
+
+Once we finish talking through the most important points and final preparations, I, still in my gecko t-shirt, look at the piles of items we’ve marked for teleportation but should be able to leave behind if needed. Surprisingly, the ferret does something similar. It wears a clumsily made vest assembled from pieces of leather. I suspect it made the vest itself, copying the one Biscuit has, and it stuffs it with stones and bits of metal. It also runs around, hiding some of its other treasures when it thinks we aren’t looking.
+
+As we delve back outside, it follows us, and we follow Min-Jae, who uses his eyes to navigate toward the deepest crack we can find. Most of the forest around us is damaged, trees have been uprooted, and monsters are fighting everywhere, many of them having stronger signatures. There are rarely any demon tribes, making me think they’ve likely retreated to a somewhat safer place or went all out to have the best time of their life somewhere.
+
+Then a thought comes to me. Did someone throw the demons into the Pit, or did they come here on their own, seeking out the most dangerous environment they could to allow them to grow in strength?
+
+I shake that thought and place multiple long-lasting teleportation marks, some anchored to mana stones I place on the highest tree. Others in the group who can do something similar do the same, and then we jump into the widest tear we can find. We fall through the air before sliding against the wall and jumping down from stone platform to platform.
+
+Vines as thick as my body stretch all through the place. Plenty of plants and even trees seem to exist down here, even as it begins to grow darker. Almost as if they don’t need much light, if any at all.
+
+Once again, the pressure and mana radiation begin to rise. It feels as if it’s moving through the space in rivers, which I can faintly see with my Preeminence eyes. The further down we go, the more noticeable it becomes, rivers of mana radiation lighting up our surroundings. At first, it is visible only to me, but later, the others come to see it as well.
+
+Beautiful pale blue, dark blue, purple, and green lights fill the area, revealing old structures and fauna even more gigantic than those on the surface. We pass through caves enormous enough to fit entire cities, and as more cracks open, we follow Min-Jae.
+
+Hours pass, and another enormous structure appears, a building made of stone and metal, bigger than mountains, possibly older than a few of them. It’s grand and enormous to the point that we can’t even see most of it through the darkness. The river of mana radiation lights only a third of it. As we pass, it disappears behind us, taking its secrets and mysteries with it, possibly never to be seen again.
+
+The monsters here are twisted and dangerous, as though there was a reason they haven’t been allowed out into the sunlight above. Some we run away from. Others we fight head-on in combat that sometimes runs into the tens of minutes as we move across terrain that continues to crumble around us.
+
+One of these is a flying red eye with a spine growing from its back that hangs down beneath it. And from it, thousands of what look to be veins and nerves spread into the area. Every time any part of it touches anything, that object falls under its control and tries to attack me.
+
+Split from the group, which is dealing with another threat, I finally push the eye against the wall with a constant barrage of kinetic energy. I hurry to rejoin them, sensing some of their signatures fading.
+
+For a moment, my thermal cube lights the area, revealing dozens of pyramids in yet another cave as big as a city and as tall as a skyscraper. The golden thermal energy bounces wildly inside the thermal cube before it passes by, lighting a nearby pyramid and slamming into the eye. It passes through the hole my lance made and burrows deep inside, sizzling as it goes.
+
+Like a flamethrower, the golden flames burst from the eye, pushing it further against the wall like a jet engine. The flames light the eyeball from the inside, the surface of the eye magnifying any light passing through, and the cave is lit to a greater extent, revealing the shadows of monsters at the edge who pull back as if they’ve never experienced light before.
+
+[You have defeated Spinebound Overseer - lvl 421]
+
+[Lvl 391 > Lvl 392]
+
+[Redistribution - lvl 76 > Redistribution - lvl 77]
+
+My teleportation fails as a new river of mana radiation breaks through the wall, disrupting the mana in the area and the marks I’ve placed. Switching to kinetic energy, I land on the ground and move in a burst of Wraith Dance.
+
+One of the presences reaches for me, and for a moment, I let my mana rise to fully reveal itself. In that flash, I see the enormous shadow pull back into the shadows and let me pass.
+
+Rejoining the group, I find Lily unconscious, being carried over Tess’s shoulder, who is missing one of her eyes. Her blonde hair is tangled and streaked with blood, and with a single eye, she watches the battlefield coldly as her javelins fly toward the oncoming monsters. Her crown flickers, dying as its reserves run out.
+
+I check everyone’s signatures and rush to Izzy and Maya, who are barely on their feet, facing a monster, a golem of raw flesh with green bones, whose sheer strength makes me wonder how they’ve managed to stay alive.
+
+The golem sways and falls down, and its terrifying mana signature finally dies off. Its body riddled with dozens of holes that seem to have killed it. Something with golden fur crawls out of its mouth before running away in a burst of movement. With a shout, Izzy gives chase, and I gesture at Maya, who nods and runs to join the others, while I quickly move to follow Izzy.
+
+I find her and the ferret in a small cave where she barely fits. The ferret is lying on the ground, its body torn all over and broken, breathing raggedly and grasping for breath. It looks as if it finally found a quiet place to die.
+
+Izzy moves closer, even as the ferret tries to pull away, yet she still reaches her hand toward it. With an expression I cannot discern, the ferret looks at her before moving. It twists its head and takes a small, bloodied stone out of its vest. With one of its paws missing, it takes a clumsy step toward our empath and, in a desperate trade, shakily pushes that stone into her hand. It looks at her, almost scared of what reaction will follow.
+
+Then Izzy accepts the stone and the trade.
+
+I almost shout when the ferret jumps at her in a burst that takes the last of its energy, but Izzy gestures for me to hold back. Instead of burrowing through, the ferret lands on her chest gently, and she carefully puts her arms around it. Shaking, the ferret snuggles her. What before seemed so creepy now looks like a desperate search for warmth and affection. At first, it looks unsure of what to do, but as Izzy hugs it, the creature gives in and presses against her, and rubs its small head against her cheek.
+
+After a while, the ferret stops shaking, and a few moments later, it doesn’t move anymore.
+
+"Even Lily wouldn’t have been able to help," Izzy sobs. "It saved me, and I could never read its emotions until now. I always knew Biscuit liked it, but I was always scared. Nat… it only ever wanted some warmth. It was so alone."
+
+"We have to go, Izzy," I remind her gently as the place around us continues to shake.
+
+She sniffs one more time. "I know."
+
+Gently, she places the ferret down. It looks so small and fragile now with all the wounds and its missing paw. Izzy doesn’t take any of the valuable stones or metals from the vest. She just keeps the one stone that was pressed into her hand and, for the last time, gently pets the golden fur.
+
+We hurry back and rejoin the fight. Lily remains unconscious, and no one knows how badly she’s been hurt. The twins barely drag themselves along with almost no mana remaining, and we’re left with no other choice but to push deeper with only an hour left.
+
+The floor beneath us collapses, and we plummet in a freefall that lasts for minutes. Even as we fall, I keep raising my mana to shield us from mana radiation, fending off the monsters attacking us.
+
+Flashes of our mana and skills light up the rushing walls, emphasizing the speed of our descent.
+
+Only when we are close to the bottom do I absorb our momentum, our group slumping against a ground that seems far too smooth.
+
+There, lights turn on one after another, revealing an enormous chamber lined with pillars that stretch so high their tops disappear in the darkness. When the last light flashes on, it reveals what would seem to be a throne.
+
+A figure sits there. A velnar man, tall and muscular like the rest of his kind, and even seated, he towers over all of us. His eyes are golden, and his long hair is pitch black.
+
+He wears gray robes reminiscent of a Roman toga, his chest exposed, and stares at us with his chin resting on his fist.
+
+[Lycan of Ruin - lvl ?????]

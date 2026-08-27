@@ -1,0 +1,89 @@
+---
+id: 12b10fc0-1ee6-5f07-a386-e131785eeec4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Cannibals and Spelunking"
+slug: 0004-chapter-4-cannibals-and-spelunking
+partOf: he-who-fights-with-monsters
+position: 4
+ownLength: 1651
+unit: words
+ownProgress: 1651
+publishedAt: 2019-07-30
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/386986/chapter-4-cannibals-and-spelunking"
+royalRoadId: "386986"
+markedReadAt: "2026-06-29T19:03:54.361Z"
+---
+
+Jason slowly crawled his way into the dank tunnel, a circular pipe of wet and slimy brickwork. It was wide enough to push himself along, but tight enough that he was pressed against the clammy sides. The darkness engulfed him as he moved away from what meagre light reached the bottom of the well. Edging down the tunnel, touch was the only sense with which he could navigate. With the ubiquitous smell of wet rot, he wished his nose was as useless as his eyes.
+
+“This is not what I planned to do with my day.”
+
+If it turned out to be a dead end, he would be forced to shimmy backwards, the tunnel far too tight to turn around.
+
+“Admittedly, my plans for the day were fairly loose, but cannibals and spelunking aren’t things you just casually slide into the schedule.”
+
+Talking to himself didn’t help much, but any distraction was a welcome bulwark against the encroaching claustrophobia. The gloom of the well had seemed stifling, but the dark of the tunnel was much deeper. He felt panic’s icy fingers crawl over his flesh as the tunnel closed in on him. He knew it wasn’t actually getting smaller, but his rationality seemed powerless in the cold, wet oblivion.
+
+His unravelling nerves were reaching their limit . He was ready to start pushing his way back and risk the cannibals when his hand came down on slimy, wet wood instead of slimy, wet brick. There was still no light, so he probed with his hands. He had reached the end of the tunnel, but had no idea what kind of space it opened into. He had a feeling of open space, but in complete darkness it could well have been his imagination.
+
+His hands felt out some kind of platform made of wooden planks. It was wet and a little slimy, although it felt reliably solid under Jason’s hands. The surface of the wood was rough, like sandpaper. Some kind of long-enduring adhesive had been used to apply sand or something similar, improving friction on the wet planks. Jason had seen something similar on bushwalking tracks. Feeling around as he crawled free of the tunnel, he felt the planks were lined up to make a walkway, a metre and a half wide.
+
+It felt like there was enough room to stand, but even with the sand coating he didn’t trust the slick wooden path in the dark. He continued forward as he had in the tunnel, hands exploring in place of his eyes. Just a short way down the path he found a vertical metal rod sticking out the walkway, at the edge to his left. His hands traced the shaft upwards to a hooked end, from which was hanging some kind of metal box with a loop on top.
+
+Item: [Crude Magic Lamp] (iron rank, common)
+
+A simple lighting device fuelled by low-level magic. (tool).
+
+Jason tried using the glowing window as a light source, but even hard up against the lamp it failed to produce so much as a murky outline. Jason fumbled about to unhook the lamp from the pole.
+
+“Please and thank you.”
+
+As the lamp lit up, Jason discovered the hard way that he had been holding the front of it pointed directly into his face. He screamed as light blasted into his eyes, dropping the lamp from his hands. It clattered away as he fell back onto the wooden pathway, moaning with hands over his eyes.
+
+“Good job, genius,” he croaked, waiting to recover. “Light a lamp right in front of your face. Real smart idea.”
+
+He tentatively opened his eyes and saw the space around him illuminated from somewhere below. The light was largely obscured, but compared to complete darkness, even some shadowy outlines were bliss. It was at least enough to recognise that he was in a natural cavern. It didn’t have the conveniently smooth floors of a video game cave, which was presumably why someone had put in the walkway, raised on thick wooden posts. Jason was already laying on the walkway, so he rolled over to reach down and fetch the lamp from where it had fallen. The walkway was only about an arm’s length above the cave floor, so he fetched it up easily enough.
+
+Jason pushed himself to a sitting position and examined the lamp, careful not to blind himself again. As the name suggested, the crude magic lamp was a simple affair, looking rather like a miner’s tin lamp. It had three boxy, metal sides, a glass front in a loop handle on the top. Dropping it didn’t seem to have harmed the glass at all. Inside, the light came from what looked like a round stone, glowing like a light bulb. Using the lamp to get a better look at the cave, it was spookier than Jason would have liked, with plenty of dark crevices and ominous shadows.
+
+“Hello?” he called out. Between the racket he had made and the light of the lamp, there was little point trying to hide from any denizens occupying the cave. The quest drove him down into the cavern, rather than back into the cannibal maze. He was hoping that meant whatever was at the end of the cave was worthwhile. A pirate ship filled with enough treasure to stop the local country club from foreclosing on the family home would be ideal. He would be willing to accept someone who doesn’t eat people.
+
+“Is anyone down here?” he asked. “If you want me to kill ten goblins in return for an uncommon spear, I’m only really equipped for light gardening.”
+
+He thought about the evil trowel, now ready at hand in case of sudden attack.
+
+“It could be evil gardening.”
+
+Since the beam of the lamp lit up the cave like a lighthouse on a dark night, there was no point being stealthy. His hope was that he could bait out whatever creatures were lurking into the light. They would probably be adapted to darkness and if he could dazzle them it would at least be some advantage.
+
+The idea of sneaking through in pitch blackness gave him the feeling that he wouldn’t even know how he died. And ‘don’t die’ was the bonus objective after all. In video games, Jason was the kind of player who could take it or leave it with secondary goals. In this one instance, his motivation levels had reached a previously unseen zenith.
+
+He started following the walkway, taking care with his steps. The sand coating had worn away in a lot of places, leaving patches of the wood slick and frictionless, from years in the bleak, damp cavern. The cave turned out to be something of a natural tunnel, rough speaking, through which the walkway followed.
+
+He made his way slowly and carefully until it came to an end at a brick wall, set into the side of the cave. In the middle of the wall was a hefty metal door with a big wheel set into it, like a bulkhead door on a submarine. Both door and wheel were rusty and didn’t look to have been opened in some time.
+
+“Now we’re getting somewhere.”
+
+Setting down the lamp, Jason grabbed the wheel with both hands and pulled, but it didn’t budge.
+
+“Oh, come on.”
+
+He yanked on it harder and harder, until his feet were braced against the door as he hauled sideways with his full body weight. He felt a little give, then a little more, each accompanied by an unwilling metal groan. Finally the wheel jerked loose and Jason could turn the reluctant mechanism with heavy jerks.
+
+Panting from the exertion, Jason shouldered open the door. Like the wheel it resisted, and he had to shove it open in fits and starts. His shoulder grew sore as he repeatedly rammed it into the door. Finally, the door gave way with a shriek and he stumbled through the door.
+
+Quest: [Secrets of the Well]
+
+“Awakening stone of the stars? Is that like magic version of those celebrity house maps?”
+
+He went and retrieved the lamp from where he had set it down, pulling the object from his inventory. It looked kind of like a fist-sized marble, black, but containing what looked like tiny stars.
+
+Item: [Awakening Stone of the Stars] (unranked, epic)
+
+An awakening stone that unlocks the power of the stars. (consumable, awakening stone).
+
+That seemed more complicated than Jason wanted to get to when there was a door right in front of him with the promise of (hopefully non-cannibal) civilisation. The interior was dark, so he stepped inside and started panning the light beam of the lamp. It was a room, thankfully, not just more cave. It was like a large parlour from a stately home, but after a tornado passed through. Furniture was upended, tapestries and paintings ripped down from the walls. Bookshelves had been toppled, their contents tossed around the room. There was an ornate chandelier that had crashed down from the ceiling, scattering shattered crystal across the polished floor.
+
+Searching through the mess by the light of the lamp, there was an overturned couch in the middle of the room. Under it, Jason found a man unconscious. Heaving the couch off of him revealed that he was sprawled in the middle of an elaborate pentagram, set into the floor in brass or copper. The man was youngish, maybe thirty, clean shaven with an olive complexion and a handsome face. To Jason’s eyes he looked rather Mediterranean. The good-looking kind with the dark wavy hair. Oddly, he was wearing what looked like honest-to-goodness wizard robes.
+
+Jason set down the lamp to examined the man. He had a strong pulse and regular breathing, but was showing early signs of extensive bruising and his body temperature felt way too high. As Jason was examining him, his eyes flickered open.

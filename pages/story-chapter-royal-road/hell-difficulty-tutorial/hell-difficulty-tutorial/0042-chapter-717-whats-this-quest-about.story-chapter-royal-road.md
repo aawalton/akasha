@@ -1,0 +1,135 @@
+---
+id: 0d2dfd8d-be7d-57e1-bf33-6d25502b64cb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 717 - What’s this quest about?"
+slug: 0042-chapter-717-whats-this-quest-about
+partOf: hell-difficulty-tutorial
+position: 42
+ownLength: 2152
+unit: words
+publishedAt: 2025-12-22
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2871582/chapter-717-whats-this-quest-about"
+royalRoadId: "2871582"
+---
+
+It is getting darker, and I’m losing my energy at a much higher rate as I listen to Lily, who keeps talking excitedly about her training. That and a dozen other things she quickly chirps about.
+
+For example, the ninth floor of the tutorial known as The Pit, which they’ve come to suspect is something like a trashcan. A place where multiple planets dump the bodies of huge Champion grade monsters or higher that they either can’t or don’t want to deal with.
+
+Imagine someone killing a beast five times the size of Godzilla that was in the process of attacking their country. A normal person would probably find themselves getting a bit excited. Just think of the materials, the knowledge you could gain from the experiments alone.
+
+You might even start examining the body after the beast dies, and all of a sudden, you have thousands of people building a small city nearby to begin working on the corpse. Then, a few days later, those same people start dying. Their teeth start falling out, they start coughing blood, and their hair starts thinning.
+
+Maybe you knew it would happen and used people you could afford to lose to gain even a little bit of extra knowledge and materials. Maybe you’re just that kind of dickhead.
+
+Or maybe you didn’t know. You did your due diligence, checked the monster for mana radiation, and all that kind of stuff. You gave your people equipment and set up processes to ensure that only people with a certain number of stats invested in constitution could get in.
+
+And yet, they still get sick.
+
+You don’t give up right away. You send in stronger people. You can’t send your healers, since those jerks tend to have weak constitution themselves, and there might only be a few dozen on the whole planet. So maybe you send the disciples of your Champions, or even the Champions themselves, if you happen to be strong enough to order them around. Or maybe you have your crafters prepare a set of fancy suits and equipment.
+
+And so it continues. This time it takes a few weeks longer, but people start feeling ill again. Everyone except the Champion, and now only the Champion remains.
+
+You set new processes. A kind of rotation where, let’s say, only people with constitutions over three hundred can get near the monster for a week at a time, and then you send them away. It continues for a few years. You gather what little information you can, and then you notice the aquifer nearby has developed a certain spice to it. A nice taste, a certain bouquet. The kind that leaves people dying in pain after drinking it for a few months.
+
+So you say, fuck it, and beg your Absolute to get rid of that overgrown lizard fuck’s body.
+
+At least that’s how I’d imagine it goes.
+
+Anyway, the Pit seems to have been one such dumping ground for thousands of years–at least from what group four’s managed to learn from the demon natives. Either to get rid of things or for some purpose we don’t yet know.
+
+It makes me a bit more curious about the floor I haven’t gotten to spend much time on because of my obligations in Beyond. Hearing all this, I should probably go there… sometime… after the tournament or something, so sometime in the next three or four months.
+
+I also bet that the native demon whose body Kindness used to talk to me and Lily was a future Ruler or someone important. I'm a pessimist at hearts so I'm sure it has to be something like that.
+
+These thoughts keep me occupied enough to endure Lily’s one-sided conversation, but the least I can do is to pay some attention, asking a question or two once in a while. I don’t even try to tune it out and continue listening to her words. It would be too rude to ignore someone who talks so eagerly about things that interest them and make them happy.
+
+Even I’m not that evil.
+
+But through it all, I hear something else. A squeaky, bratty, whiny, howling from outside our residence. Even though it’s distant and not really that loud, thanks to my kinetic senses, I can still feel the faint vibrations trembling through the air and against my chest. Possibly all being directed at me, though some means I can’t properly sense yet. A noble lady's pet, indeed.
+
+The barking and howling have been going on since it started getting dark, so for a few hours now. It just keeps moving in circles around the residence, likely due to whatever predatory instincts that spoiled beast seems to have awakened.
+
+I know who it is, of course, and I’m willing to bet ten points worth of mana on it. I would recognize that complain-y, pathetic bark turned howl anywhere.
+
+It’s the noble lady’s pet Albacore Fish-Tank Velcro Del Taco en Lice Asteroid Vacuum Mandoline, also known as Fen.
+
+I just knew that little asshole didn’t like me, and now he’s feeling jealous because he sensed Biscuit’s greatness on me. Well, that feeling seems to be mutual, which surprises me a bit. I can’t help but wonder if my connection with Biscuit is part of what’s making me dislike that thing.
+
+“Give me a moment.” I put my hand on Lily’s shoulder to make her stop talking as I stand up and head toward the terrace glass door. I open it, which causes the squeaky barks to grow even louder.
+
+Annoyed with the constant barking, I shout into the night, “Are you just going to keep barking out there, you little bitch!? Come here and face me like a man!”
+
+“Rhaff-Rhaff!” the squeaky bark yips louder than before. “Raaoww-Yap-Yap!”
+
+“Fuck you too!” I shout back.
+
+“Raaooooooooww!”
+
+I shut the door again before turning to Lily. “Can you believe that shit?”
+
+“Do you mean you being brought to the point where you seem ready to start barking back at him?” She puts her hands behind her back as she teases me. Lately, she’s been doing that quite often, not just to me but to others in the group, too. It would seem Lily’s just playful like that.
+
+Left with no other choice, I reach out and pinch her nose, but instead of letting go after a moment, I hold it and stare into her eyes.
+
+“I cad hold by breaff for quide a while, so good lug there,” she says, her voice squashed and nasal.
+
+I don’t say anything. I just keep staring at her the same way she looks at me.
+
+For a while, she holds herself together well and doesn’t break eye contact or move an inch. Only when Savant comes downstairs and stops for a second to look at us does she almost break eye contact. Savant doesn’t say anything and walks away, probably searching for snacks.
+
+“Eashy, I can do id all day!” Lily repeats, but I hear a weakness in her voice, almost like those words are meant more for herself than they are for me.
+
+So I stay quiet even now, and a minute passes. Then I start curling my lips into a smile. I don’t make it big or show my teeth. I just lift the corners slightly and tilt my head, letting a few strands of hair fall over my forehead.
+
+“What’s wrong, Lily?” I ask, making my voice softer and letting the smile echo in my tone as I lean slightly closer. “Why is your heart beating so fast?”
+
+Her body tenses before she flicks my arm away and turns around to hide her face.
+
+Once again, triumphant over a foe foolish enough to underestimate me, I lift my chest with pride and give the back of her knee a teasing kick with the tip of my shoe. I hope for her to buckle at least a little bit, but of course, her body is stupidly strong, so it doesn’t move at all.
+
+Still pleased with the teasing, I use [Focus] to filter out the annoying barks from outside, then head off to follow Savant. I find him in the kitchen cutting some fruit on the table, and taking a piece to smell before biting into it.
+
+“So, what’s this quest about?” I ask directly.
+
+His chewing slows down, and then it stops as he makes an expression like he lost the will to enjoy the food, and the taste has turned sour for him.
+
+“We have to protect your healer while she seeks out the cause of the epidemic that’s making people in the area sick, and a way to get rid of it. The area has been cut off from the rest of the fief by quarantine wards, so no one else can enter or leave. We, however, have been granted permission to follow her inside. Apparently, the illness spreads fast and is highly contagious, and the local guards have already fallen ill. They believe it to be magical in nature, so she’ll be examining both the sick and the land itself for signs of corruption. Our main task is to make sure nothing happens to her while she works,” he says.
+
+“Oh, so we’ll get the illness as well?”
+
+“Possibly.”
+
+“That sucks. Why didn’t they use their own healers?” I ask him.
+
+“They think it’s the work of one of their own healers, cooperating with an enemy kingdom. If they hadn’t stopped it and sealed off the area, that illness would have already spread across the entire kingdom, so it’s quite serious. Before taking drastic measures or paying out what’s likely to be a good chunk of their treasury to hire this world’s healers guild, they decided to give the attendees a try. They likely heard about an incredibly talented healer currently running through the tutorial.”
+
+That said, the super talented healer enters the kitchen as well, already back to her usual self and seemingly unaffected. I can only praise her quick recovery from the damage. She’s truly getting powerful.
+
+“My handler’s been trying to get me noticed and find good quests for me, and this one really sounded great. I had no idea I’d get you and Nat, though,” she says as she pulls a bar stool closer and sits beside me. “But I don’t mind it at all!”
+
+Savant keeps slicing the fruit he tasted earlier, his knife moving with careful precision across the wooden board. Each piece is thin enough to nearly see through, the pale fruit glistening as he arranges the slices neatly on a plate. When he’s satisfied with the surprisingly beautiful pattern, he slides the plate toward us without a word, with the faint scent of the fruit filling the air.
+
+For himself, he doesn’t bother with presentation at all. He simply cuts another fruit in half, wipes the blade on the towel, and takes a slow bite, juice running down his thumb as he chews thoughtfully.
+
+He says, “We don’t have many details about the illness yet, and so far it doesn’t seem that dangerous for people above level one hundred, but they’re worried it might be designed to grow more dangerous, once it spreads a bit wider. It affects both demons and humans, but each in a slightly different way. There’s a rumor it originated from humans, and that it’s designed to mutate over time to specifically kill demons, so that’s been causing a lot of trouble as well.”
+
+I take a paper-thin slice of fruit and put it in my mouth. It almost melts, tasting like a mix of banana and mango. With a hint of cinnamon to top it all off.
+
+“Do you know how to cure an epidemic level virus or something?” I ask Lily, who’s already started stuffing her mouth so fast that Savant’s started cutting another plate of fruit just for her.
+
+Lily nods energetically. “I’ve known about the quest for about a week or so, and my Handler gave me a mana stone to study for it. I worked on it ten hours a day. Then he asked a Local healer to give me a test, and I did that too. And I think I probably would’ve been fine even without studying! It wasn’t even that difficult.”
+
+Instead of listening to her, I glance at Savant, who senses it and looks up from the cutting board. “It’s very difficult,” he says flatly.
+
+“It was easy, though,” Lily insists.
+
+“Your delusions aside,” I say to her, “is this illness known to affect minions as well?”
+
+“Nat, sorry to tell you, but minions aren’t their own species.”
+
+“How preposterous!”
+
+That makes Lily giggle. “So you plan on finding Vega first?”
+
+"Her and her gang." I nod, growing more serious. "I’m getting this feeling that my handler didn’t send me here just to meet her, so much as because she might be in trouble."

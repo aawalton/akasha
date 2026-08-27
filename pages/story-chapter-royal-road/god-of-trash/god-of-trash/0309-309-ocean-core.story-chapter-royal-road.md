@@ -1,0 +1,81 @@
+---
+id: db9ce5b3-7be0-5161-b71b-0afe33f74710
+page-type-slug: story-chapter-royal-road
+title: "309. Ocean Core"
+slug: 0309-309-ocean-core
+partOf: god-of-trash
+position: 309
+ownLength: 1969
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3383841/309-ocean-core"
+royalRoadId: "3383841"
+---
+
+Rhys withdrew, drawing back to a distant point, then swooped in. As he rode the currents, this time, he boosted his power by pushing himself forward with mana at the same time that he used his body as a sail. He sped forward with breakneck speed, darting from one current to the next. With every successful twist and leap forward, he sped up further and further. He closed in on the final barrier.
+
+As he did, the usual blast of water whirled in, attempting to push him back, but this time, he was ready. Rhys shoved himself upward with all his might, darting over the current. The current angled up to hit him, but Rhys kept atop it, riding the counter-current down. The final barrier loomed, and then Rhys popped through it.
+
+Instantly, the grind of the currents vanished. He floated in an orb of still water. The darkness ate up the depths of the orb, but he didn’t need to see to the far side of the space to know that yet more fierce currents awaited him on the other side. It was the eye of the storm, the spot in the center of the maelstrom where nothing moved at all. He took a moment to settle himself and ‘catch his breath,’ as much as he could while underwater, then turned to go. There was no training to be found here, so there was no purpose to being here at all.
+
+And then something caught his eye.
+
+Rhys turned back. He propelled himself forward, chasing after the sparkle, and the sparkly spot grew larger. From out of the gloom beneath the ocean emerged a shimmering silver egg.
+
+Its surface was smooth, but the egg itself bore a wave-like texture imprinted into the shell; it reminded him of the waves forged into the metal of high-class katana. The egg itself emitted a low-level glow, and so it expressed more as a white-silver than a true silver. Rhys put his hands on his hips and just looked at it for a minute.
+
+An egg. A clearly precious egg. Hidden deep within a storm.
+
+I want it. I want it so bad. It’s rare loot! A rare mount! No shot I can walk out of here without it.
+
+But what if it needs the storm to stay alive? What if there’s an angry mama waiting in the wings? I can barely handle the storm. If the mama can give birth in this storm, then there isn’t a snowball’s chance in hell I can take her on.
+
+Rare loot! Rare loot! I can’t just leave it on the table. It’s so obviously valuable. I worked so hard for this loot! And definitely not to do something totally unrelated, not knowing at all that there’d be any loot on the table!
+
+But now that it’s on the table, am I seriously thinking of leaving it there? Come on!
+
+Rhys bit his lip. He approached the egg carefully, looking around him the whole time. Nothing appeared. No angry mamas charged out of the storm. The egg continued to glow placidly, not reacting in the least to his approach.
+
+He closed the gap, standing right next to it. He remained undisturbed, and nothing lunged or loomed. Rhys gave a last glance left and right just for style, then snatched the egg. In his heart, he instantly replaced it with a bag of sand that was kind-of the same weight, but as much as he loved prop-comedy references, he didn’t have any sand on hand, and besides, the stuff would’ve sunk in the water, and smeared out of the bag beside.
+
+Rhys paused for a moment, waiting for the storm to descend or mama to finally appear. No such danger manifested. Just to be sure, he checked the egg, but it continued to glow gently. Where he held it against his chest, he could feel the warmth of the life within, and a faint throb of a heartbeat from within the egg. The thing within the egg was alive and well, and growing properly.
+
+He grinned at it, then froze. Wait. Did I just pick up the rare loot known as responsibility? Noooo! Anything but that!
+
+It was okay, though. Puppies and kittens and all manner of small animals were adorable and lovable, even if they were obnoxious at times—cute enough to make it worth it. It was only human babies that were vile, hideous, potato-like monstrosities, full of snot and enough filthy fluids to send everyone but the most experienced impurity cultivator running. Baby animals had their fair share of filthy liquids, too, but at least they looked cute while they were being disgusting, and that was all he could ask for.
+
+Speaking of, I wonder how Soma doesn’t have a dozen… no, never mind. Putting aside that the man wasn’t technically human, he was literally a lump of impurities. Unless he wanted brats, he was basically a walking spermicide, and if he did… even if he did, Rhys wasn’t sure he could, since he was nothing but filth. Those kinds of things needed purity to work, and Soma had none of that.
+
+He snorted to himself. Alright, Soma-pity-session over. As far as he knew, the guy didn’t want kids, and honestly? He didn’t want Soma to have kids, either. The whole world was better off with exactly one Soma in it. If his children inherited even one percent of his carnal energy, Rhys wasn’t sure the world could take it.
+
+He petted his egg, already looking forward to his rare mount. He could already see himself riding on a giant fish, or better yet, a huge shark, Chainsaw-Dude-style. Hell, he’d take a jellyfish or electric eel, or one of those creepy light-up fish from the deep dark parts of the ocean; there were lots of cool fish in the sea. His skeleton mount was cool, but it was ground-locked. It couldn’t swim. When the egg hatched, and the beast grew up, he’d have a water mount and a land mount, and he’d just need to find a sky mount to finish the holy trinity.
+
+At the edge of the calm water, he paused. He looked at the churning currents, then at the fragile egg in his arms. If he wanted to get it out of here with the egg intact, then he’d have to protect it somehow… or just put it in my storage ring, or in my core… well, not sure how well it’d fare in there, now that it’s in black-hole-mode… or in my Inner World-esque void island. Inner Island? It sounds a little too 5 o’clock somewhere for a respectable mage’s technique name… but hey, who called me respectable? Not me!
+
+Side note, how hard would it be to construct a tiki bar on a hypothetical Inner Island? Asking for a friend.
+
+Rhys pulled out a hoop and sent the egg to his Inner Island, where he nestled it gently in the center of the small lake on the island. The egg trembled gently in delight as he let go, and he retracted his hand through the hoop with a smile. That’s my good future mount.
+
+Hopefully it didn’t have a ten-thousand-year incubation period or something. He still hadn’t unlocked the tier of trash levelling where he’d just sit in a cave for ten thousand years to level up, so that’d be highly inconvenient. Given that the egg was trembling and he could feel its heartbeat through its shell, it was probably pretty close to hatching. He just had to believe. Or at least cope. Same difference, really.
+
+He hovered just long enough to ensure that the egg didn’t begin to perish the second he took it out of the ocean. When he was satisfied, he closed the hoop and lifted his head to face the currents. He’d played around for long enough. He’d leveled up, looted the dungeon, and fought the monster currents; he was satisfied. It was time to get out of here.
+
+It was hard to fight the currents to get to the center, but on the way out, he could just ride the currents, sailing himself through the water to the far side of the storm. It would’ve been equally hard to ride in and ride out to the him who’d entered the currents moments ago, but now that he’d mastered moving around in the currents, it wasn’t that hard to direct himself to the far side of the currents. The lightning flashed overhead, so bright that he could see it beneath the water, but Rhys flew on, flying on the currents toward the far side of the storm.
+
+At last, the currents faded, and lightning stopped flashing overhead. He came out into clear waters and bright blue skies, with small white clouds floating like soft cotton overhead. The seas were so still and beautiful that it almost looked like a picturebook, as if this couldn’t possibly be reality. Rhys blinked, then hopped up out of the water and looked behind him at the churning storm. The sky was purple and heavy with clouds, and rain and wind lashed the sea.
+
+Damn. Hard to believe that’s the same ocean.
+
+Leaping out of the water, he exerted his mana and dried himself off, then sucked the salty trash rime left behind from the seawater into his core. Quietly, he checked over everything. The Hunger was still sleeping, the egg in his lake was still an egg, and back in the Alliance… well, a quick glance through his teleport points didn’t tell him much about the overall politics and so on, but they didn’t seem to be at war or French Revolutioning themselves, so it was probably okay.
+
+Stop worrying about everyone else, you mother hen. You just freed yourself of all that responsibility for a reason. Let’s go have a proper adventure for the first time in a while!
+
+There still wasn’t any land on the horizon, but that was fine for now. He flew on, leaving the storm behind. The storm faded from behind him, and he kept flying on through another day and another night until he finally came upon a small island.
+
+Land! At this point, Rhys had flown and swam and flown for days on end, without a single piece of land to take a walk on or rest on. He wasn’t tired the way he’d be as a mortal after those circumstances, but he was weary… mentally tired. Even if his body could fly, swim, and so on endlessly, it didn’t mean he didn’t want to stop, take a sit, or take a nap every now and again.
+
+Plus, it was a tropical island, with the palm trees and sugar-sand beaches and everything! Who didn’t dream of a break on a tropical island? Relaxing on the beach with a drink in hand, paddling around crystal clear, turquoise waters, sleeping in a hammock slung between two palm trees… yeah, he could get down with a tropical island.
+
+He circled down, getting a good look at it from above. It wasn’t a tiny island; it had some size to it. He could only see the very edge from here, but he could already see a pure water spring and a small settlement. It seemed like an ideal place to take a little break.
+
+And man, did he need a break. It wasn’t the break he’d imagined, where he and Bast fucked off into the mountains and trained quietly for a few centuries, but it was still a break. He descended from the sky and alighted on the beach, sending up a little puff of sand. It was five o’clock somewhere, and somewhere was right here. There was a settlement nearby. Surely he could find a fruity, tropical drink to go along with this tropical island.

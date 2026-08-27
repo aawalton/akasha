@@ -1,0 +1,145 @@
+---
+id: e435fa89-e9f3-553f-b03a-8d937a571638
+page-type-slug: story-chapter-royal-road
+title: "Chapter 772 - I'm just me"
+slug: 0097-chapter-772-im-just-me
+partOf: hell-difficulty-tutorial
+position: 97
+ownLength: 2095
+unit: words
+publishedAt: 2026-03-16
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3159973/chapter-772-im-just-me"
+royalRoadId: "3159973"
+---
+
+Leaving him behind, I teleport towards the Megacity, and outside of it, I pass through the gate. Two guards move towards me, but the air around me drains of colors, and all their skills fail to activate. Wraith Dance brings me through the city towards the Headquarters of Primordial Knights. There are multiple guards around here as well, and their leader gestures for them to step back.
+
+As I walk past him, he stares at me the same way as I do him and steps to the side to let me pass. Meanwhile, I check on the level ups I ignored during the fight.
+
+[Mana Manipulation - lvl 77 > Mana Manipulation - lvl 78]
+
+[Ley Line - lvl 73 > Ley Line - lvl 74]
+
+[Manifestation - lvl 38 > Manifestation - lvl 39]
+
+[Current - lvl 37 > Current - lvl 38]
+
+[Current - lvl 38 > Current - lvl 39]
+
+Pushing the screen away, I walk through the destroyed buildings and pass by the guild members moving all over the place, and enter the main building. Once there, I head upstairs towards the office of the vice guild master. His doors are wide open as he waits for me there.
+
+The oldest demon I’ve ever met, and likely the only one capable of keeping lunatics like the Primordial Knights and their guild masters somewhat under control.
+
+"Nyssa left for the fifth floor to kill a different Champion than we’d planned for, and if she succeeds, she will move on to the sixth floor, where she will remain until the end of her tutorial," I say before he can shout at me.
+
+That causes him to go quiet, and for a long moment, he just stands there. Then he weakly slides into his chair and closes his eyes, "Fuck all of this."
+
+"I agree," I say as I sit opposite him and give him time to process it all.
+
+"I give up. I'm done being vice guild master. Should have done it long ago." He opens his eyes and says, "I would’ve expect what happened from Morwag, but you as well? I had some hopes for you."
+
+Looking at him, I just shrug and tell him, "I will be taking her place as guild master."
+
+His words cut off again, and for a while, he sits there before coming to the decision, "Do whatever you want. Good luck with all that. I'm done with this mess of a guild."
+
+"No. You’re not," I say.
+
+When he looks back at me, I return his gaze, "You could have quit long ago, and I'm sure you have many very good reasons to sit back and fill a book. You can pretend and complain as much as you want, but you don't care about shards, prestige, or any of that crap. You’ve stayed because this 'mess' is the only thing keeping you entertained, and you’d rather be angry than bored. You are a demon," I say as if it explains everything.
+
+I stand up, "If you still want to quit, do so. Watch me use what you’ve worked so hard to build for so long to my advantage. I will abuse all these resources, take them for me alone, and continue to grow the guild so I can get more. I can do it all without you, even if it means stomping the other guilds into the ground. I'm not like Nyssa."
+
+Something comes to mind, and I give a little smile, "I’ll even rename the guild to Primordial Kittens, and you would be stupid to think I wouldn't do it."
+
+"I would prefer if Weslin became guild master. I always thought that out of the four of you, he was the most reasonable."
+
+"The others wouldn't accept him. Weslin is someone I’d proudly call my friend, but he wouldn't be able to force all of them under his control. Not for a lack of power either, that’s just not who he is."
+
+"Yes. Yes, that's it. You caused a lot of trouble today, but nothing that I won't be able to fix. But expect that we’ll be owing a thing or two to certain people."
+
+"I'm okay with that. After I return from my tutorial, we’ll be going to the 5th floor and proceeding with the plan. So get everything ready."
+
+"I will. Guild Master Gwyn... you sometimes make Morwag look human by comparison. You’re more of a demon than many demons are, and I think the others may have realized that before I did."
+
+"And that’s where you’re wrong. I'm not a demon. I'm just me." With that, I leave the office.
+
+After that, I meet a few people and sort out a thing or two. I pick up some of the materials, pack up, and then, when my Beyond Stay token ends, I return to the 9th floor of the tutorial. I decide not to go and meet Ruby as I feel like I’ve had enough of these lunatics for a few months.
+
+And anyway, the floor quest that requiring us to survive a year here will be ending in a week or two.
+
+"Here we go, the only person we know with the constitution of a hummingbird is back," Dennis smirks the moment I reach the tree of the Dusk Horizon tribe.
+
+"Show some respect to the guild master of one of the top guilds in Beyond," I attack back and stop by him. We’re both standing off to the side, trying to avoid the gazes of the demon children that would surely come to attack me en masse if they noticed me. That’s why I’m in my Sneaky Mode now.
+
+"Damn, I lost the bet. I thought you wouldn’t accept it, no matter the rumors Lily and others heard."
+
+"Who won?"
+
+"Tess, everyone else bet against it." He sighs and moves some of his blonde hair behind his ear, "I already let the others know you’re back, so they can say their goodbyes to the demons and move out. We’re all packed, and we have a hideout ten miles to the north where we can go before the floor ends and move all the stuff to the next floor."
+
+"Got it. Any changes?"
+
+"As always, when the floor is getting to the end, it starts to get more dangerous. More and stronger monsters appear, there are fights all over, and the other demon tribes move through the forest. Tess even said she saw a monster flying through the sky for the first time ever here."
+
+I gesture at him, and we move behind the tree and stay there as two demon children pass by, laughing and punching each other with the sort of force that would kill the average human male back on Earth.
+
+We stay silent, and then Dennis says in a quiet voice, "Your Floor Quest rewards are going to be shit. You spent most of your time in Beyond."
+
+"Wanna bet things turn so fucked up that I still gather enough 'performance points' to have better rewards than you?"
+
+That causes Dennis to go silent and sigh, "Damn it. Fuck you. I bet you will. Everyone agrees with me that the objective is to survive one year here, so your spending all that time in Beyond shouldn’t count."
+
+"The world is a cruel place, and we, Beyond attendees, are just the nobility being fed with silver spoons. What about Biscuit’s friends?"
+
+"That T-Rex is still here, and once in a while, I see that fucking spawn of Satan ferret thing. The others stopped showing as of late."
+
+"Fucking ferret. Why can't something just eat it?"
+
+"I know, right?" Dennis nods solemnly and listens to a message sent to his head, "Okay. The others already said their goodbyes and left gifts. Lily is kicking the ass of the daughter of the tribe’s leader for the last time, and we can go ahead and meet them first at the hideout."
+
+"Let's go then," I agree.
+
+We slide into the forest, and I follow Dennis, matching my running speed to his. As I tend to do, I observe his perception and the movement of his mana so I can give him some feedback later. After we spent months together on the 6th floor, where I sort of trained him and his brother, we’re still used to it. And he doesn't seem to mind.
+
+So close to the tribe’s territory, there aren't too many monsters, and Dennis avoids most of them. It doesn't even take that long to reach our goal, where we finally come to a stop. It’s just an unassuming spot in a small circle of trees, but deep in the ground below, there’s a chamber formed of metal and hardened rock made by Sophie where we’ve chucked a bunch of our stuff. Things from Earth, food, our loot, materials, beds, clothes, and more. Things we don't carry around that often.
+
+The two of us sit down on some manabloc chairs I make and fifteen minutes later, the rest of the group arrives.
+
+The best corgi of the 9th floor and in all of Beyond is the first to welcome me, sensing me earlier than the others. He arrives in his adult form, with eight purple human arms made of mana growing from his back, he moves like an eldritch abomination. A corgider, and something in the way those human arms twitch and move to propel him while his short corgi legs hang in the air is deeply unsettling.
+
+Biscuit wears a cute vest, one of the ones I brought back from Earth that Izzy’s put even more pockets on. These pockets are already filled with rocks, crystals, and, strangely enough, even leaves.
+
+(Right neighborhood motherfucker!) He shouts and jumps at my chest, the human arms dissolving mid-jump, and only a burrito-shaped corgi lands into my huff.
+
+He twists in my arms, pushing himself closer to my face, licking it, and booping with his cold nose against my cheek while I hold him tight, absorbed in petting him.
+
+"One piece of deer jerky if you tell me who taught you that," I say, and Biscuit freezes, caught in a deep dilemma.
+
+To betray, or to perish of hunger. That is the question.
+
+He gives me a side eye, (Food?)
+
+“What do you mean, what do I mean? You know what you said.”
+
+(Food! Food!)
+
+"Don't try to bullshit me!" I shout, lifting him higher, holding him under his front legs' armpits in a way he enjoys, leaving his hind legs hanging. I then shake him, which turns his expression into something that reminds me of a smile, and his tongue lolls out.
+
+(Friend. Not Food.)
+
+"Yeah? But I'm sure a true friend wouldn't want you to die of hunger," I say and watch as my words cause him to hesitate, and for a second, his eye glances to the left at Aaron before he turns back to me.
+
+(No,) He says simply with determination.
+
+"Then I guess we’ll never know," I sigh and let him fall to the ground. "By the way, some of the demons were asking when you were coming back. They’ve been calling you a demonic beast and all that. What have you done to them?"
+
+(Help friends. Food. Horn friends. After.)
+
+"Makes sense," I agree, and look at the rest of the gang. Most of them carry a bag or two and some weapons, but all seem lightweight. Not like we wouldn't be able to carry more. Even my body could handle that, but it's just annoying to do it.
+
+"Welcome back," Izzy says as she welcomes me first. Unlike Tess, Lily, and Sophie, she has been staying here, and we didn't meet in Beyond, so it has been a long time.
+
+She is once again a bit taller, and Noodle has shrunk down and coiled around her arm. Somewhat awkwardly, I wave and gesture before she chuckles and pulls me into a quick hug.
+
+I greet Min-Jae and Aaron and notice Maya started growing longer hair, and her tattoo-like inscriptions on the skin now also go around her head as if a diadem is resting there.
+
+Once we’re done with the formalities, Tess finally speaks, "Once everyone places their marks on this spot, why don't we set off and head north to explore this place before the floor ends? I’ve been hearing about an old demon that lives alone, not that far from here, and he’s rumored to be one of the oldest on this planet. So let's learn a bit more about this place."

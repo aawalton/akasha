@@ -1,0 +1,249 @@
+---
+id: a80ecc99-77f7-5026-a614-ceb8eaf672aa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 956: Emergent Situation"
+slug: 0023-chapter-956-emergent-situation
+partOf: he-who-fights-with-monsters
+position: 23
+ownLength: 2421
+unit: words
+ownProgress: 2421
+publishedAt: 2025-01-29
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2036987/chapter-956-emergent-situation"
+royalRoadId: "2036987"
+markedReadAt: "2026-06-29T19:04:35.006Z"
+---
+
+Jason couldn’t stop grinning. Walking along the promenade deck, his fingers were intertwined with Zara’s as she walked beside him.
+
+“We should probably make our way to the gathering,” she pointed out.
+
+“Well, we are taking the scenic route. There’s a place called Iceland that’s very scenic.”
+
+She looked out at the Australian desert.
+
+“Iceland,” she echoed.
+
+“Yep.”
+
+“I’m going to guess that’s some distance away.”
+
+“Not if you really think about it. Rimaros is a lot further away.”
+
+“Why don’t you want to introduce me to your family?”
+
+“It’s going to be rough.”
+
+“I can handle it.”
+
+“Not on you! They’re going to adore you. I meant rough on me!”
+
+Zara burst into laughter.
+
+“Isn’t that what family’s for? Even with all the politics, my closest relatives are still family. We don’t show it to the world, but we’re not that different from anyone else. Even while I was publicly ostracised, I would still make discreet visits. My father complains that it’s not enough, my brothers tease me about grubbing about as an adventurer, as if they weren’t doing the same.”
+
+“I have a hard time imagine a family like yours being normal, even behind closed doors.”
+
+“Is your family like any other, when you’re all together?”
+
+“More or less.”
+
+“And are you about to take a princess from another universe to meet them on your flying cloud ship?”
+
+“Okay, I see your point.”
+
+***
+
+The Asano Clan friends and family gathering was in full swing by the time Jason and Zara arrived. Clive had taken Jason’s portal to the clan territory, from where he used his own portal to bring yet more people in. More of the ship’s passengers had joined the festivities, such as Carlos Quilido. He was discussing soul therapy with Gladys Erstweller, who had treated the Alzheimer’s of Jason’s Nanna. Amy’s daughters were chatting animatedly with Rick’s wife Hannah and her twin, Jason’s nieces gushing over the elven twins.
+
+A few people noted the quiet entrance of Jason and Zara. Farrah’s eyes moved to Jason’s hand still holding that of the princess. Farrah smirked and went back to her conversation with Rufus. Emi spotted Jason and her eyes went wide as saucers. She rushed over, frantically grabbing her mother on the way. Jason took a long, bracing breath as they shuffle-ran across the lounge, Zara glancing his way with a chuckle. His sister and niece arrived in front of them, Emi practically bouncing up and down.
+
+“This is your princess, Jason?” Erika asked.
+
+“She’s a princess,” he said. “I wouldn’t be so bold as to call her mine. Zara, this is my sister, Erika Asano, and my niece, Emi Evans-Asano. Family, may I present Her Royal Highness, Zara Rimaros of the Storm Kingdom. She probably has about eight middle names, but I couldn’t be bothered learning any of—”
+
+He yelped at a sharp poke in the ribs from Zara. She otherwise ignored him, flashing a bright smile at Erika and Emi.
+
+“It’s so lovely to meet you both. I do hope you’ll allow me to forgo formality and just be Zara today.”
+
+“Of course. You’re coming with us while Jason is going to go off and play with his little friends.”
+
+“I am?”
+
+“You are,” Erika said firmly. She plucked Zara’s hand from Jason’s and led her away. Emi leaned close to her uncle.
+
+“This isn’t going to be great for you, Uncle Jason,” she whispered.
+
+“I see your young man isn’t here.”
+
+“He’s scared of you. He knows you’ve been waiting to talk to him in person.”
+
+“Right now might be a good time.”
+
+“Don’t you dare. We’re going to have fun with your stupidly gorgeous princess while you let it happen and do nothing. Understand?”
+
+He let out a weary sigh.
+
+“Understood.”
+
+***
+
+After leaving Zara to the tender mercies of Emi and Erika for an hour, Jason checked to see if she was in need of rescuing. Joined them in the conversation were his father and brother-in-law.
+
+“How we first met?” Jason said, in response to a question from Ken. “That was twenty years ago. She was a fancy princess from a foreign land, and I was but a humble adventurer.”
+
+“A humble adventurer?” Zara asked.
+
+“Yep. I distinctly remember your attendants trying to run off the grotty commoner.”
+
+“I distinctly remember them failing. What exactly were you on the way to do that day?”
+
+“I don’t recall.”
+
+“Yes, you do.”
+
+“I was on my way to meet some folks.”
+
+“Oh, some folks. Just regular folks?”
+
+“More or less.”
+
+Zara raised her eyebrows, skewering him with her look of accusation. Jason looked around the group, making a downplaying gesture to the table.
+
+“It wasn’t a big deal,” he explained. “I’d come across some people and helped them out of a jam, that’s all. Their bosses just wanted to thank me.”
+
+“By which he means that he liberated a small army of priests who had been trapped in limbo for centuries and a collection of gods wanted to express their public gratitude.”
+
+“She makes it sound like a bigger deal than it was.”
+
+“They formed a cult!” Zara exclaimed.
+
+“People did that here, too,” Erika grumbled. “I dread to think about what’s going to happen now he’s back.”
+
+“I remember that thing with the gods,” Emi said, jostling Jason’s arm. “You talked about it in your recordings.”
+
+“Recordings?” Zara asked.
+
+Emi explained the recordings Jason had made of his initial visit to Pallimustus.
+
+“Oh, I would love to see those,” Zara said. “Anyway, our ‘humble adventurer’ had just beaten out some of the most promising young adventurers in the world — myself included — in a contest run by Emir over there. In the course of which, he’d rescued some priests from centuries of imprisonment. Their gods wanted to thank him in person.”
+
+“On the way,” Jason picked up the story, “I was harassed by some prick who didn’t like that I’d won. Because I actually was a humble adventurer, regardless of what any Hurricane Princesses in the area might have to say…”
+
+Jason and Zara continued to tell stories of the other world, editorialising each other as they went. Eventually, Zara went off to chat with the team, having been sequestered away with the Storm Kingdom delegation for days. That left Jason with his family, to deliver their verdict.
+
+“Ohmygod she’s amazing,” Emi said. “And so gorgeous! I know what magic does to people’s looks, but she’s something else.”
+
+“She seems lovely,” Erika said, “and somehow taken with you. She could do a lot better.”
+
+“Eri, be nice,” Ken scolded. “Jason’s never brought a girl home before.”
+
+They all glanced in the direction of Amy, who was talking with some people from the clan.
+
+“Fair point,” Erika said. “But really, Jason, she’s great. And she’s really a princess?”
+
+“Oh, yeah. Of one of the most powerful nations in the world. Stunning place, all flying ships and magic hurricanes. They have giant windmills that absorb the storms and use them to power these islands that float in the sky.”
+
+“That sounds amazing,” Emi said.
+
+“I’d love to show it to you,” Jason said. “It’s not like it was before, and neither am I. I spent a lot of time there, recovering from my last visit to Earth. I had this house on a cliff, overlooking a lagoon. That was my cloud house. Farrah built a permanent home for her parents on the land after I left. It’s an amazing spot.”
+
+Shade emerged from Jason’s shadow.
+
+“Mr Asano, loathe as I am to interrupt your family time, there is an emergent situation in need of your attention.”
+
+***
+
+Operations Officer Natalya Winscott of the CIA rubbed her temples, which did nothing to alleviate her stress headache. She was in the Melbourne operations centre for the multi-national task force hunting for vampire-held weapons of mass destruction, standing still as the people around her bustled about. The exception was the ASIS officer standing in front of her, Michael Aram.
+
+“I thought,” Natalya said, “that the Australian security services understood that no move was to be made. This was meant to be coordinated, across agencies and across the planet.”
+
+“This isn’t us. It appears that the Prime Minister has secured private contractors, through some kind of back channel.”
+
+“Mercenaries? Are you serious?”
+
+“We’re just learning about this ourselves. He clearly wants to bypass his own security services and this task force, although we don’t know why.”
+
+“I believe that I have an explanation,” Shade said. The people in the room stirred as a patch of shadows turned into a person made of darkness. Distracted only for a moment, they went back to their tasks.
+
+“What do you have, Shade?” Natalya asked.
+
+“I’ve just sent one of my bodies to observe the Prime Minister. From what I’ve gathered, he is worried about his public image with the arrival of Mr Asano, given their history. He wants to use the capture of a weapon of mass destruction on Australian soil to seize control of the media narrative.”
+
+“Is he an idiot?” Natalya asked.
+
+“It’s not so much an issue of stupidity as inclination,” Michael said. “I’ve been dealing with Truffett since before Jason Asano had ever heard of magic. He’s spent decades working sneaky backroom deals, using end results to justify the means before anyone knows what’s going on. Given that it got him the Prime Ministership, it makes sense that he’d keep trying the same pattern.”
+
+“This isn’t some political game, Aram. We’re talking about a nuclear weapon in a city of five million.”
+
+“I am aware of the stakes, Officer Winscott,” Michael said coldly.
+
+Natalya let out an exasperated breath.
+
+“I know. I’m sorry, Mike. I just have a hard time when someone is this aggressively stupid. You realise he can’t stay Prime Minister after this, right?”
+
+“Natalya, we’re not letting the US remove another Prime Minister.”
+
+“That’s a conspiracy theory, Aram. We never did that.”
+
+“You’re talking about doing it right now!”
+
+“He’s circumventing his allies and his own security service to threaten a major metropolis with nuclear annihilation!”
+
+“Perhaps,” Shade interjected, “we can put that question aside until the current one has been fully addressed.”
+
+Natalya cleared her throat and smoothed her suit with her hands.
+
+“Quite right,” she said. “We need to deal with the situation in front of us. What do you have, Aram?”
+
+Michael scowled, “From the information we have, these mercenaries are a former Network strike force out of Russia. A lot of them went mercenary after the Cabal became the dominant force in that part of the world. They should be able to handle the vampires, at least. Assuming the vamps don’t have any surprises.”
+
+***
+
+The Melbourne Bunker Project was a series of shelters designed to house the population in the event of a monster wave hitting the city. After the monster wave crisis passed, the project was defunded, leaving a series of half-completed underground complexes around the city. Most had ended up as drug hotspots or gathering spots for the homeless.
+
+Some were more complete than others, able to be secured against intrusion. This normally wasn’t enough to keep people from an abandoned building, but these were bunkers designed to keep out monster hordes. That was enough to keep it clear of heroin addicts and the homeless seeking shelter, but not a Russian magical wetwork team. In the lowest sub-basement, a man named Ilyin looked at a wooden stake, half buried in the floor. Around it was a mess of blood, thick like craft glue, and the clothes of the now dead vampire.
+
+“Where did you get that?” he asked, still staring at the wood that had gone through the vampire to bite into the solid concrete. It wasn’t a carved piece of wood but a rough shard, scorched as if from a tree struck by lightning.
+
+“In a proto space, back in the day,” Gusev said. “The gold-rank one near Yekaterinburg. We used enhanced missiles to take out the keystone monster, but there was a tree that was almost undamaged, despite being in the strike zone. This shard was one of the few parts that were blasted off. Against people, a magic gun is better. For vampires, this is good.”
+
+Gusev reached down and yanked the stake from the floor. It had left a hole in the concrete without losing so much as a splinter. The blood, however, had soaked into the wood and vanished, leaving it clean. Gusev’s hand started to twitch, the gold-rank item too much for his silver-rank to handle. He slipped into back into the magic-suppressing sheath on his waist, requiring a few attempts as his hand had a mini-seizure. After it was put away, he rubbed his forearm with a groan.
+
+“Can’t play around with that too long,” he said. “Lost use of my arm for two days, once.”
+
+“I could use it for a while,” Orlova suggested and Gusev turned to look at her.
+
+“No one uses it but me,” he said.
+
+“This clears the south wing,” Ilyan said, then pressed the radio on his chest. “Team three, south wing clear.”
+
+“Team two, north wing, in progress,” came the response. “Four blood bags down. Heading for the last sub-basement now.”
+
+They waited for another report that didn’t come.
+
+“Team one, this is team three lead. Check in.”
+
+More silence.
+
+“Yegor, check in.”
+
+Nothing.
+
+“Yegor, you better answer me or be dead. Team two, converge on the central hall and we’ll move on the east wing together.”
+
+“Understood.”
+
+***
+
+The blood oak, despite the name, was not a tree. It did look at least somewhat like one, with a trunk-like body and long limbs jutting out, seemingly at random. It didn’t have feet, instead ambulating slowly using tentacles at its base that looked like a root system. Its skin was coarse and knobbly, like bark, but a bloody red colour.
+
+Three of the creature’s limbs ended inside the bodies of people in tactical gear. Thin tendrils had spread through each body like veins and arteries, keeping them alive but helpless, dangling in the air. The radio worn by them crackled to life.
+
+“Team two, south wing clear.”
+
+An arm lifted, jerky like that of a puppet, to grab the radio.
+
+“Team three, north wing, in progress,” its body said. “Four blood bags down. Heading for the last sub-basement now.”
+
+The arm flopped back down. The laughter of the blood oak was deep and inhuman, even more resonant than normal in the concrete chamber.

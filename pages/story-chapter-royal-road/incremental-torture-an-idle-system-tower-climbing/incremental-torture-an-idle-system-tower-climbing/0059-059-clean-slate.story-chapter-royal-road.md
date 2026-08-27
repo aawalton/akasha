@@ -1,0 +1,183 @@
+---
+id: 5b298c80-ee90-54be-a313-eafca467f874
+page-type-slug: story-chapter-royal-road
+title: "059: Clean Slate"
+slug: 0059-059-clean-slate
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 59
+ownLength: 2072
+unit: words
+publishedAt: 2024-06-24
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1690939/059-clean-slate"
+royalRoadId: "1690939"
+---
+
+The tower, or its embodiment, had a dull and lifeless way of explaining things. Evelyn found herself dozing off at times, despite being disembodied.
+
+“Ascension is at its heart, a process of shedding unnecessary facets of your being in order to refine what is left. By trimming what holds you back, you can achieve a far greater level of strength in the concepts that truly resonate with your soul,” it said.
+
+Most of the speech had been full of mystical mumbo jumbo like that. What it boiled down to was the few screens that floated in front of her. They appeared right as it finished speaking.
+
+The process of ascension was as follows:
+
+All of her attributes would be reset to their base values of 0. However, any of them which had been over a certain threshold would be upgraded to an improved version, providing a greater effect per point. For Evelyn, that meant her fortitude.
+
+Any skills below the tier of unusual would be purged and she would need to re-obtain them, with the exception of her class skills. That was rather disappointing for her given how useful some of her skills were, but at least she would keep the most powerful, barring Flashfreeze Flamecharge.
+
+That stung the most. However, she had an idea about how to cheat the system a little in regards to that particular skill.
+
+“I see you have managed to obtain two reality nodes. An impressive feat, considering how little of the tower you have conquered. Everything else in your inventory will be destroyed, however,” the entity had said while giving her the rundown.
+
+It was referring to the two items marked with only ‘?????’. Though now that it had named them, that designation changed. It didn’t allude to what she could use them for, but given its high praise Evelyn had to assume they were rare and powerful objects.
+
+A disappointing bit of news was that she would lose all her essence. Apparently, 15,000,000 was less of a cost and more of a threshold. It meant that founding the guild would be set back to an unspecified time - when she had obtained enough essence income once more. Not just that, but all of her stars too.
+
+“That seems a bit unfair. Without the local shop there’s no way I’ll get back to those numbers without a lot of effort and time.”
+
+“You will receive something far better. Just engage with the process. It is designed to make you more powerful. Give and take. You cannot expect to be handed power without sacrifice,” it replied.
+
+Overall, it did seem like the ascension would make Evelyn far stronger. Like many other systems of the tower, it required one to sacrifice some aspects of their skillset in order to strengthen others. While she could see the logic behind the trade off, having to give up the skills and stars she had shed blood, sweat and tears to earn was a daunting prospect.
+
+She turned her attention to the few messages that hovered in her vision. The first two held details about her attributes, skills, items and essence and what she was giving up and receiving in return. Thanks to keeping her class, she would still have a little power and fortitude to work with.
+
+~~**Ascension**~~
+
+All attributes will be reset to their base values. Any attributes which have met the threshold will evolve to the next tier.
+
+[Power: 22 (23)] > [Power: 15]
+
+[Speed: 12] > [Speed: 0]
+
+[Stamina: 12] > [Stamina: 0]
+
+[Vitality: 31 (37)] > [Vitality: 0]
+
+[Mana: 26] > [Mana: 0]
+
+[Fortitude: 63 (102)] > [Fortitude(I): 15]
+
+Skills below the unusual tier, and skills not tied to your class will be purged. All items which are not [❍❖░𝀉] will be purged.
+
+Essence threshold for this ascension is 15,000,000. All excess essence will be purged and converted into [AP].
+
+Her eyes only hovered on them before moving onto the final box. This was the critical piece of her first ascension.
+
+~~**Ascension(2)**~~
+
+All possessed stars will be nullified. Star value will be converted into [AP]. Knowledge of star [❍❖░𝀉] will remain.
+
+**Stars**
+
+[Grey: 236] > [Grey: 0]
+
+[White: 10] > [White: 0]
+
+Accumulated Ascension Points: 6
+
+Confirm Ascension?
+
+Y/N
+
+Evelyn still had a couple major reservations about the ascension after learning what it would entail. Given that she was in the middle of a battle with a hyper boss, her most powerful foe to date, losing all of her attributes could prove fatal.
+
+Not just that, but some of the skills she was set to lose were rather crucial pieces of her battle repertoire. Arcane Shield for example, was doing a lot of heavy lifting when it came to surviving things like Dazurmagon’s comet storm or the fireballs which Anathalan had pelted her with.
+
+However, at this point she wasn’t sure it was even possible to rescind her decision to ascend, even though the tower was offering her a confirmation box. Saying no would most likely keep her in this strange void until she was ready to commit.
+
+The silver lining were the [AP] - Ascension Points. The tower had informed her in rather vague terms that these could be spent once she had completed the process of ascension to unlock permanent boosts, unique modifiers or other intriguing benefits that were far more potent than anything previously available.
+
+It was exactly as it had said. No gain without sacrifice. No risk, no reward.
+
+I’d be lying to myself if I said this decision was easy. I’m rather distressed at losing everything I’ve worked so hard to obtain. It feels like a slap in the face after all the horrible, nightmarish crap the tower has put me through. Though I have some measure of faith in the tower’s motivation. It wants us to be stronger, so it stands to reason that this will be beneficial. In the long run, at least.
+
+She could sit around and struggle, debating with herself for hours about whether the compensation was fair. Ultimately it wouldn’t matter.
+
+Evelyn pressed ‘Y’, and at once felt herself assaulted by three invisible forces.
+
+Above all the others was a disorienting and horrifying feeling. Evelyn could feel her mana reserves emptying, that ephemeral power which she had come to rely on so heavily slipping from her grasp.
+
+Despite knowing it was coming, she still attempted to reach out and grab onto her escaping mana, forcing it back into her circuits, but to no avail.
+
+Accompanying that was a strange sense of loss. Her body felt weaker. She knew that her ability to take hits had suffered and it was likely that a single blow from the hyper boss would bring her low.
+
+While that was happening, her mind was also being pulled away from the pure white void and back to her physical body. As she left the ascension area behind, the white entity that represented the tower gave her a wave.
+
+By its own admission, it had no emotions, yet she could’ve sworn that its farewell wave was a little sassy.
+
+And the final force, which was subtle at first but gradually intensified as the drain of her attributes faded into completion, was the stripping of her stars.
+
+She hadn’t expected it to be so heavy. In fact, this part of the ascension was something she thought would carry more emotional loss than the visceral reality she now faced. The tattoos that ran down her arms faded one by one, each time a star winked out it was like a piece of her soul had been torn away.
+
+One advantage of this harrowing experience was that Evelyn was beginning to piece together a solid picture of what she considered to be her soul - the essence of her being.
+
+The tower had alluded to it in the vaguest terms, but never quite confirmed its existence. Despite losing all of her mana, she had not been reverted to the base state that she had been in back on the 1st Floor. Her mana pathways, the circuits that carried her magic, were still there. And she could feel them, far more tangible than they had ever been.
+
+Beyond that, there was some kind of link between the mana pathways and what was occurring to her stars. Small pulses, like an insect bite, twanged across her body each time a star vanished. Those pulses occurred not quite in her mana circuits, but the feeling was the same as when she cast a skill. Tying it all together was a condensing sensation that began as the last of her stars disappeared from her body.
+
+It came from within, affecting her physical body but not happening there. Evelyn wasn’t quite sure she had the right words to explain the feeling.
+
+Condensing was close, but didn’t quite allude to how the subtler effects of the ascension were playing out. Thickening perhaps? Her skin and bones had visibly condensed at least, likely due to the evolution of her fortitude attribute.
+
+There, she saw an immediate benefit. While losing all of her invested attribute points seemed like a loss - and it was, for most of her attributes - when it came to fortitude she felt that the 15 points remaining were having a greater effect than the 100 she had before. Whether that was true in practice remained to be seen.
+
+She wouldn’t need to wait long, as her soul merged with her physical body once more and after a disorienting moment as time unfroze and she took control of her movements again, Evelyn leapt to action.
+
+In her original plan, she would’ve come back to consciousness from whatever ascension entailed, right as the hyper boss finished its metamorphosis. Following that, their epic clash would ensue and the outcome would hang on how much her abilities had progressed.
+
+What had actually happened was far better. The tower had frozen time for her during the process, which meant that Evelyn still had time to spare while Dazurmagon was regenerating. She considered striking at its core while it appeared vulnerable, but decided not to.
+
+Losing most of her attributes meant her offensive power was rather lacking, not to mention the warhammer she had come to rely on was gone. And thanks to Arcane Shield getting purged, the superhot air was burning at her flesh far more than before.
+
+Though whatever evolution fortitude had undertaken seemed to be offsetting that loss by a considerable amount. The end result was that the heat was more painful than it had been prior to her ascension, but taking longer to sear through her skin.
+
+With her ability to take down the hyper boss currently gone, there was one option available to her.
+
+She had 6 [AP] to spend, and hopefully whatever she could obtain using the ascension points would tip the scales of battle in her favour.
+
+Navigating through the menu was rough. The ascension was still fresh and seeing all of her numbers back at 0 hurt. Evelyn knew she would get over it, with time, but that didn’t help her mood right now.
+
+Essence: 0『+0 / 6 hours』
+
+~~ Stars ~~
+
+Grey: 0
+
+White: 0
+
+** Inventory **
+
+**Skill Synthesis**
+
+**Class**
+
+**Crafting**
+
+**Guilds**
+
+**Property**
+
+【OVERCOME】
+
+That’s interesting. ‘KILL’ became ‘OVERCOME’. I wonder what that means in real terms? Will I no longer gain essence for defeating monsters, or is it alluding to what my goals should lean towards?
+
+Her ascension menu had also changed, with a new set of requirements listed. That meant ascension wasn’t limited to a single time, which she had gathered already but confirmation was always beneficial. The new threshold seemed extraordinarily steep, but then again so had the first set until she met them.
+
+~~**Ascension**~~
+
+>Ascensions< | AP Shop
+
+Requirements for 2nd Ascension:
+
+Lv.100 Class
+
+300,000,000 Essence
+
+At least 1 skill of the ??? tier, and 3 skills of the ??? tier
+
+At least 1 attribute over 250 points, and 3 over 100 points
+
+Star value of at least 1,500
+
+There was now a second section, where she would be able to spend her [AP]. She tapped on the AP Shop and was brought to a new menu.
+
+A quick browse of what she could purchase was enough to tell her that the tower had not been lying. Every single offering was incredible. Though most of them were far beyond her price range, and even more were greyed out and invisible to her.

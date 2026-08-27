@@ -1,0 +1,195 @@
+---
+id: 9cb0d692-39ae-5230-bc1f-cef14857fd4a
+page-type-slug: story-chapter-royal-road
+title: "319. Everyone Has Their Own Stench"
+slug: 0319-319-everyone-has-their-own-stench
+partOf: god-of-trash
+position: 319
+ownLength: 3203
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3489064/319-everyone-has-their-own-stench"
+royalRoadId: "3489064"
+---
+
+At last, they walked deep enough into the forest that the monsters no longer fled their presence. None were bold enough to rush out and challenge them directly, but they didn’t run away the second they saw the two men, either. Ryota started glancing left and right, almost expectant, while Rhys carried on deeper into the forest the same as ever. These monsters wouldn’t flee, but it wasn’t meaningful to attack them either. He would defeat them, and he’d defeat them without learning anything. There was no value in killing them, except in harvesting their bodies, and he didn’t have any particular use for monster parts right now.
+
+If Ryota jumped one, he’d let the guy do whatever, and only step in if he found himself in a bad place. It wasn’t his responsibility to make sure the Third Prince didn’t make a fool of himself, but he did need his potential future religious icon alive and pretty for the sake of his potential future religion’s success.
+
+Alive is negotiable, I suppose, but it would make things easier. Also, it’d give me an excuse to launch my cult—ahem, legitimate and very real religion. It’ll be a little harder to establish a religion without the backing of a local. Not impossible, but harder.
+
+What tenets should his religion have? What mythology? It made him excited just thinking about it. The world was his oyster. He could have giant bull-headed men, or just giant bulls, or just giant men, or even aliens throwing evildoers into giant volcanoes… everything was on the table.
+
+Let’s not get ahead of ourselves. I need the Third Prince to agree with me first, and then we can figure things out. Rather than going crazy, we should lean into his path and history, so that he can consistently execute ‘miracles.’ We’re not going to constrain ourselves to the truth, but we should at least mythologize the man himself rather than immediately swerve into bullshit. After all, he intended to make himself a living deity in Ryota, as a model for his own eventual godhood. He needed to create a foundation that the myths could balloon out of, rather than a castle in the sky.
+
+After all, a religion could blossom out of a nap under a tree and a moral imperative as much as it could out of a volcano and a brutal sea. What really mattered, at the end of the day, wasn’t incredible miracles or feats no one else could accomplish, but a message that resonated and a story that one generation could sell to the next, with all the essential life lessons baked in.
+
+Of course, that wasn’t all on him. Once they got the ball rolling, the religion would snowball on its own, developing its own local myths and stories according to the tastes of the mortals.
+
+They could also take a leaf from some of the massively successful old religions from his world and absorb myths from small-scale religions into theirs. Sure, that meant that poor ol’ Zeus was fucking men and women in all shapes, sizes, and descriptions, but it also made it way easier to gain followers by allowing the followers of small-scale local religions to follow their local customs and beliefs, so long as they called their big guy Zeus instead of… whatever the local religion’s original prime deity’s name was. As time passed, the small-scale local religions would forget the original god’s name and become true believers in Zeus, and so Zeus gained more believers.
+
+I wonder if Ryota is fine with the mortals thinking he impregnated some woman as a golden rain shower, Rhys thought to himself, chuckling under his breath.
+
+“What are you laughing about over there?” Ryota asked.
+
+“Nothing.”
+
+Ryota spun his sword in the bored way a delinquent kid forced to play sports spun their tennis racket, baseball bat, or other stafflike object they’d been handed for sports purposes. “Are we going to hunt any of these monsters? I’ve been waiting for you, but you seem to just be out for a walk.”
+
+“Ah, well… none of these are a challenge,” Rhys said.
+
+Ryota stared at him, and Rhys realized abruptly that his ‘challenge’ and Ryota’s ‘challenge’ were not at all at the same level. He cleared his throat and quickly added, “But I’ll support you if you want to fight any of them. You make the move, and I’ll spot you.”
+
+“Spot me?”
+
+“Like if you were lifting weights, you know? You lift the weight, but I’ll stand right next to you to jump in and take it from you if you end up taking on too much or doing too many reps and can’t rack it.”
+
+Ryota nodded. “You’re my second.”
+
+“Not quite. I intend to step in before you die,” Rhys clarified. “You’re my precious potential future religious icon. I need you alive for a little bit longer.”
+
+“What, not for a long time?”
+
+“I mean, you need you alive for a long time, but religiously speaking, the death of the founding icon is often a leap forward for the long-term success of the religion.”
+
+Ryota looked at him for a long moment, then snorted. “You certainly don’t mince your words.”
+
+“I don’t like telling untruths when they don’t benefit me.”
+
+“Does this not?”
+
+“Nah. Get stronger, noob. Put in the hard work to keep yourself alive. It’ll be better for both of us, you and me.”
+
+Ryota broke into a smile, shaking his head. “You are refreshingly straightforward, if nothing else.”
+
+“People say that about me a lot.”
+
+Ryota fell silent again, but he looked around more seriously and extended his mana toward more monsters as they walked. Rhys kept walking as casually as he had before, though he reined in his mana senses and extended his trash senses alone, which the monsters couldn’t sense. Without his aura to scare the monsters away, they crept closer, closing in on him and Ryota—or, as far as the monsters were concerned, Ryota alone. The man looked around, idly swinging his sword at an even pace, but under the surface, he tensed, his whole body coiled for action.
+
+A large gorilla roared as it leaped out of the woods, its bright red fur almost neon-toned. Ryota shrieked and leaped back, thrusting his hand at the gorilla even as he shied away. A blast of fire enveloped the gorilla, which swept its hand and banished the fire without so much as blinking.
+
+“I think it’s fireproof,” Rhys commented, taking a step back so he wouldn’t get in the way.
+
+“What gave you that idea?” Ryota shouted, more from adrenaline and shock than anger.
+
+“Well, it’s bright red, for one.”
+
+“What’s that got to do with anything?!”
+
+“You see, in video games, red is fire,” Rhys wisely informed him.
+
+The gorilla looked at Rhys, just standing there, his sword held casually at his side. Their eyes met, and Rhys smiled.
+
+The gorilla turned and rushed Ryota again instead.
+
+“Oh, hey!” Ryota called, annoyed. He fled, running in a circle around Rhys, kiting the gorilla. Lifting his hand, he fired another fire bolt at it, which splashed off its fur without so much as scorching it.
+
+“What did I say?” Rhys said, shaking his head at Ryota.
+
+“Shut up. I don’t know any other spells!”
+
+“Try your sword?”
+
+“It’s big! And scary!”
+
+Rhys crossed his arms. “Where’s your fighting spirit, Third Prince? Didn’t you come here as a kid?”
+
+“I’ll be honest, I might have… kind of… hid in a tree and waited until it was time to go!”
+
+He sighed. “How’d you reach this tier?”
+
+“Lots of potions and resources!”
+
+“Fuckin’ pay-to-win whales,” Rhys muttered. “Come on, show some fighting spirit.”
+
+The gorilla roared and charged, closing in on Ryota with a sudden spurt of speed. Ryota threw himself to the side, rolling behind some trees. The gorilla reached out and swept its powerful arms. Wood crunched, splinters flew, and the trees Ryota had ducked behind no longer existed. With a yelp, Ryota ran on.
+
+“Weren’t you going to step in and help?”
+
+“You don’t look half-dead to me.”
+
+“Heartless!”
+
+Rhys shrugged. “My future religious icon needs some toughness and martial skill if he’s going to perform a few miracles. I’d be sabotaging myself if I stepped in now.”
+
+“I’m going to die!”
+
+“No, you aren’t. Stand your ground and fight like a man,” Rhys ordered, as someone who rarely ever stood his ground and fought like a man.
+
+Reluctantly, Ryota drew to a halt and raised his sword toward the monster. The gorilla closed in on him, loosing a fearsome roar. Ryota trembled, struggling to hold his ground—then abandoned it, throwing his sword behind him as he fled like a baseball hitter running for first base.
+
+“Oh, come on,” Rhys muttered. I think ‘god of war’ is right out for this guy. We’re gonna need a different angle. A gentler, kinder angle.
+
+That’s okay. A war god breeds a very specific culture. We don’t need that culture! We want the kind, gentle culture!
+
+Plus, let’s not forget that I met this guy shortly after he fucked someone’s Shrine Maiden. He’s not a paragon of morality, forethought, or restraint, either.
+
+Haaa. It’s going to be an uphill battle, isn’t it.
+
+Ryota fled another few steps, and the gorilla chased after him. As he ran, Ryota quickly made a hand signal, and the abandoned sword rose up behind the gorilla, then dashed forward blade-first. The gorilla dashed forward, making a break for Ryota, but even as it dashed forward, so, too, did the sword blaze forth. It pierced through the gorilla’s back and burst out the front in a slash of blood. The gorilla roared one last time, this time in pain, then fell onto its face with a thump.
+
+Rhys clapped. “Awesome! Though if you could do that all along, why’d you run? Why the fireballs?”
+
+“I was panicking! You know what it’s like. Some huge monster rushing at you, and everything just…” Ryota gestured with his hands. He lifted his hand, calling the sword back, and it flew into his palm with a little splash of blood. Ryota made a face and transferred it delicately to his other fingertips to shake off the offended hand.
+
+Rhys tilted his head. Are you supposed to panic then? I just lock in. Then again, he’d always been weird, and he’d definitely done a shit-ton of pretend-fighting in video games back home. When the big moment came, he thought less about how he was going to die and more about how he was going to kill.
+
+Well, but that’s now. When I was just setting out, I panicked lots about dying. And for Ryota… he was probably handled with kid gloves his whole life. This whole life-and-death thing must be brand new to him.
+
+So, full of consideration for Ryota and with a kind heart, he crossed his arms and declared, “Lock in, noob. It’s just one gorilla. You think that’s what the real world is like? I was right here the whole time. You were in no real danger. And you panicked? Pathetic.”
+
+“Ah… what?” Ryota said. His face twisted in a funny way, and he tightened his grip on his sword, forgetting about the blood on the hilt. “Could you repeat that?”
+
+“Which part, noob? The part where you’re a thousand years too early to challenge me, huh? Get down on your knees and beg, or I’ll have to beat you, your father, and your grandfather, how’s that?”
+
+“My father is dead.”
+
+“Then I’ll drag him out of his grave just to thrash him. You think I’m afraid of you? You’re nothing. Not even a paper tiger, just a sad floppy sock puppet. Want me to put my hand up your ass and move your mouth around, like your grandpa’s been doing your whole life? You’re not pitiful, you’re just pathetic.”
+
+Enraged, Ryota screamed and hurled himself at Rhys. In the brief second before the man’s sword hit his neck, a few things flashed through Rhys’s mind:
+
+Holy shit, was my inner shit-talker pent up from too much time being polite face-to-face? What the hell is this internet discourse spilling out of my mouth? Am I insane?
+
+Yeah, he kinda deserves it, though. Kid needs a wake-up call.
+
+Okay, yes, but I definitely didn’t need to say half of that shit. He’s going to actually hate me now, not ‘wake up.’ Did I go insane for a second? Temporary insanity? Hey, do you think it’s defensible in court?
+
+For a split second, he thought about dematerializing and reincarnating in yet another world, but truck-kun was lost, worlds away from him, so all he had was himself and Ryota and his big fat mouth.
+
+He sighed aloud. Yeah, I guess politics really aren’t for me. But that was fine. He’d just opened up a brand new trashy niche for himself.
+
+The sword closed in on his neck. A split second before it cleaved flesh, Rhys snapped his hand up, pinching down on the flat of the blade. The blade slammed to a halt as if it’d hit a stone wall instead of getting caught by a person.
+
+At that, even through his rage, Ryota’s face paled. He hesitated and took a step back.
+
+“Oh, is that all? That’s all it takes to scare you into submission? You want to be king, but you can’t even handle that much?”
+
+Ryota’s lips twisted once more. He hauled back, pulling his sword out of Rhys’s grasp. To be honest, Rhys could have held on, but he released the blade, pretending it’d been taken out of his hold. Screaming, Ryota struck at him again, putting everything into it.
+
+This time, Rhys hopped back, putting distance between them rather than charging head-in to fight back. He flicked his sword up, letting the blades clash. The poison sword instantly attempted to corrupt Ryota’s blade, but Rhys reached out and grasped the poison with all his might, refusing to let it spread.
+
+Now this was proper training. He laughed, lashing out with the blade. Ryota swayed back, but the flexible blade stretched and nicked his cheek. Once again, the poison leapt forth; once again, Rhys restrained it with all his might. It was vicious, virulent poison, the most virulent poison he could muster. Usually, he’d be egging it on, forcing it into his victims, but he didn’t actually want to kill Ryota. He’d had tons of practice pushing and encouraging poison, but holding back and restraining it, refusing to let his impurities do as they willed… well, that was training it of itself, wasn’t it? Like this, he’d gain even greater control over his impurities, to the point of exquisite, cell-by-cell control.
+
+He pulled the blade back and hopped into a nearby tree. “You’re mad, right? Come after me, then, with all your might. I won’t save you from the gorillas, you pathetic child. You have to survive out here on your own… and keep your eyes open, because I’m after your ass, too.”
+
+For him, it was training to restrain, control, and shape his poisons. For Ryota, it was training to grow stronger and to get over his cowardice, to become someone powerful enough to actually hold his own, whether as king or as a religious icon.
+
+Ah, well, if he hates me after this, I guess I get that, too, but man. Someone needs to shape this kid up, and if no one else is gonna do it, it’s got to be me. He’s worthless to me as he is now. The way I see it, I either shape him up so I can use him, or abandon him altogether.
+
+Plus… isn’t it refreshing to see a rich brat struggle on his own like the rest of us, every now and again? He was too trash to say things like “oh, once I got to know him, he wasn’t that bad… I just couldn’t hate him.” Sure, he really believed that Ryota wasn’t that bad and probably didn’t deserve it. But even so, it didn’t change the fact that, at the end of the day, he was a spoiled brat who had all these problems because he was a spoiled brat who no one had ever challenged, whether he was personable and friendly or not.
+
+Maybe Rhys was too petty. Maybe he was holding grudges from another world and another life. Maybe Ryota really needed to shape up. Maybe it was a little of all three, and he was too embarrassed to admit it. But, at the end of the day? This was what Ryota needed. And no one else was going to give it to him. The rest of them were too scared by his title and power to do something like this, but that was exactly how people ended up as mine-owners who really wanted to go to space.
+
+As someone who’d previously been bullied a lot, Rhys understood deeply that bullying existed for a reason. If he hadn’t been bullied to hell, he would’ve been a worse person than he was. Didn’t mean he liked bullying, or thought it was good, but it was a necessary evil; an evil that existed in society as a part of human psychology that forced people, mostly children, to abide by the group’s rules, spoken or otherwise. Without bullying, more people would become completely ostracized; after all, adults didn’t put up with bad people, they simply abandoned them. Worst case, a person without any examples of bullying around them became a bully or abuser themselves, without a bully to show them what not to do. He’d gone to public school and interacted with homeschooled kids. He’d seen it all.
+
+A better, gentler world didn’t make people better or gentler, it just made them more unaware of their flaws… I say, as a sweaty fatass with unpopular opinions and unpopular hobbies who didn’t shape up even after he got bullied. But at least I knew what other people didn’t like about me, dammit! I knew which parts to hide when I wanted to pretend like I was normal!
+
+It was the Emperor’s new clothes all over again. Being coddled into being blind about your flaws wasn’t a good thing. Ryota knew how to smile and connive his way into being friends with just about anyone, and Rhys appreciated that, but he needed more than that if he was going to stand on his own. And Rhys intended to make him stand on his own.
+
+Well… all that was his opinion, anyways. Opinions were like assholes: everyone had one, and everyone’s had its own stink. No one’s smelled good, and no one’s smelled the same as anyone else’s, either, but everyone was free to have their own stench. He’d never claimed his smelled good, but it was his. Anyone who claimed theirs smelled good shouldn’t be trusted, especially not around bleach.
+
+Hold on, what am I talking about again?
+
+“Get back here!” Ryota snarled, charging, but before he could reach, Rhys cackled leaped backward, fading into the forest. From here on out, the real training started.
+
+“I hope you can last, Third Prince,” he called out, and completely vanished.

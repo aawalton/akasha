@@ -1,0 +1,87 @@
+---
+id: dcaeb6eb-988f-5557-a65d-6efe54375f21
+page-type-slug: story-chapter-royal-road
+title: "242. Getting Away"
+slug: 0242-242-getting-away
+partOf: god-of-trash
+position: 242
+ownLength: 1997
+unit: words
+publishedAt: 2025-12-01
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2810487/242-getting-away"
+royalRoadId: "2810487"
+---
+
+Rhys reached out to his impurities. He wasn’t sure if it would work or not, but it was a gambit worth trying… and also kind of his default move. He took a deep breath—
+
+A wave of killing instinct burst across the room, freezing Rhys to his bones. A quiet, almost childish voice sounded out. “Ravin, I like that person.”
+
+Rhys and Ravin both froze. Slowly, they looked at Sid.
+
+“You asked for me, didn’t you? And he brought me. That was the deal. So why are you hurting him?”
+
+“He killed my retainers!” Lord Ravin snarled, leaving out the bit where he definitely hadn’t wanted Sid to come to his side.
+
+“So? I killed your retainers all the time.”
+
+Lord Ravin fell silent, his eyes narrowing at Rhys.
+
+Why are you blaming me for that? Rhys spread his hands at Ravin. “It sounds like a pretty normal thing to do, to me. You’re the one being petty about it.”
+
+“That’s right, Ravin. You don’t want to be petty, do you? I don’t like petty people.”
+
+Ravin’s aura flared, and at the same time, so did Sid’s. Caught in the middle, Rhys suddenly found himself suffocating, unable to draw breath against the force of their combined auras. He expressed his own aura, but was almost immediately eclipsed, both of them easily able to overwhelm his power.
+
+Holy shit, how strong are they?
+
+And then Rhys could breathe again. He stumbled, startled to be released from the hold, and looked around. Sid’s aura surrounded him, keeping him safe from Lord Ravin’s attack. It pressed out further, threatening to overwhelm Lord Ravin entirely.
+
+“Enough!” Lord Ravin shouted.
+
+Sid retracted his aura, and so did Lord Ravin. Lord Ravin was sprawled on his throne, breathing hard, his face pale, while Sid stood there looking just as calm and collected as he ever did, his arms folded, black-painted fingernails resting casually on his arm. Not a single ink-black hair was out of place, a contrast to Lord Ravin’s suddenly-bedraggled look.
+
+“He did what you asked. Let him leave,” Sid demanded.
+
+Rhys saluted. “As promised, I have delivered your… Sid. I’ll see myself out.”
+
+Lord Ravin glared daggers at Rhys, but with Sid standing right there, there was nothing he could do about it. Rhys scurried out, leaving the two men alone to figure each other out. At this point, he wasn’t sure Lord Ravin would survive, or that he wanted the man to. Honestly, if Sid killed him, Rhys would have doubly profited from this.
+
+But only if he survived, so he sped through the ice tunnels, racing for the surface. Sid’s opinion might change at any moment, and the second it did, Rhys was dead. He needed to get far enough away that Lord Ravin couldn’t just kill him with his mind before that happened.
+
+The tunnels rumbled. Rhys glanced up. The beasts again? But there was no rhythm to the thumping. It was more like a continuous, thundering rumble. And the way it shook, it felt more like it was coming from below…
+
+Rhys’s eyes flew wide. The ice worms! These were ice worm tunnels. If something was coming at him from below, then it had to be the ice worms themselves! Lord Ravin had said they were ice worm tunnels, but hadn’t said they were abandoned. He sped up, racing for the exit.
+
+The tunnels shook. Icicles rained down from above. Between Rhys’s intervention and the depth of these tunnels, they’d remained intact through the beasts’ rampage, but now, they came crashing down. A roar sounded close behind him, and one of the side tunnels collapsed completely, huge chunks of ice blocking off the path forward. He glanced back, and the tip of a huge, crystalline wormy figure appeared, looming over the furthest point in the tunnel behind him. The whole thing was icy pale blue and transparent, so that he could see the ice tunnel through its body. Its rings were fracted and faceted, shining light in all directions. It didn’t have eyes or a mouth that he could see, but it didn’t matter. If something that big rammed him, he’d be…
+
+Let me try that again. If something that large penetrated him—
+
+No wait, that’s not better. He thought for a second, then gave up. It was big and scary, and it had an aura that told him it wasn’t to be fucked with. That was enough.
+
+He didn’t really need to soul-search as to why his mind had gravitated toward those words. It was blunt and thick, and ribbed for her pleasure, with a rounded snout that swelled at the front. It looked more phallic than a certain double-mouthed alien’s head, and that was saying something. If it was worm-colored, it would’ve haunted his dreams, but the crystalline tone just meant it looked more like a toy than the real deal. Still an unpleasant item to be chasing him through the tunnels, but slightly less so.
+
+He couldn’t defeat the ice worm. This whole region was too high-tier for him; all the beasts could thrash him. All he could do was run, fleeing the worm with all his might. The worm wriggled after him, filling the tunnel with concerning preciseness. It chased after him, roaring in rage with a mouth Rhys couldn’t see. The walls shook harder, and the main tunnel collapsed in front of him.
+
+Rhys glanced left and right. There were no more side tunnels between him and the collapsed tunnel. There was no way out but through. He could slam his way through, but that would slow him down more than he could tolerate with the worm chasing after him. He wrinkled his nose. If only I had a fireball…
+
+Wait! Rhys spun his wrist and threw his hand out in front of him, connecting the burning trash star directly to his hand. A stream of hot burning trash flew forth from his palm, searing through the wall of ice. He dove forward, slipping over the freshly-forged, wet tunnel. Rhys held his hand out in front of him, continuing to burn his way through, sliding on the wet, slick ice. It was like a freezing-cold slip’n’slide, and since he barely felt temperatures at this level anymore, it was pretty fun, all told. As long as he didn’t think about the thing chasing him down the narrow, slippery tunnel, he was able to enjoy it.
+
+Behind him, the ice worm slammed into the fallen wall and burrowed through, sending ice shavings and chunks of ice everywhere. Rhys, halfway through the fallen wall, pointed his hand downward and burrowed into the ice instead. The worm crashed by overhead, blasting on down the passage. It hurtled on and on, its long body rattling against the ice as it burrowed on. Rhys, meanwhile, turned his hand sideways and burrowed into the wall, further away from the worm, then hollowed out a small room for himself and sat there in the deep ice, waiting for the worm to pass.
+
+He leaned against the ice wall, frowning. Mouse was with the enemy… or rather, the Alliance. It wasn’t new, not really, now that he was thinking about it. She’d watched him for Ernesto back at Purple Dawn, and Ernesto seemed pretty well burrowed into the Alliance, or at least Purple Dawn, which was a considerable chunk of the Alliance’s power and therefore the Alliance. But… for Virgil? Opposed to Bast? That was—
+
+…Not that ridiculous, now that he was thinking about it. Her only interaction with Bast had been Bast knocking her out so he and Rhys could go sell potato chips. She had, at best, a neutral impression of Bast, and at worst, a negative impression. If someone she knew, or had allied with, told her to go watch Bast, she didn’t have a reason to refuse. Sure, she knew he was Rhys’s friend, but a friend of a friend wasn’t necessarily a friend themselves. There were several times he had severely not gotten along with friends of friends in his first life, and it was incredibly awkward and uncomfortable, which only left him less inclined to like them than he already would’ve been. He didn’t agree with it, but he could understand if Mouse herself disliked, or at least didn’t feel positively toward, Bast.
+
+The real concerning part was how she’d lied to him about her years alone. Why bother, unless she had ill will? She knew he was friends with Bast and would react poorly to ill will toward Bast, but that implied that she had ill will, as opposed to just watching him for a positive or neutral third party. Though, of course, given what had happened afterward, with the Sword Saint under Virgil’s influence and Bast marked by some kind of binding silence spell, maybe she had thought it was positive or neutral, discovered it was negative after the fact, and then grew afraid or ashamed of her actions…
+
+He twisted his lips. It was all too complicated. He needed to go find Mouse and ask her directly… or go challenge Virgil, face to face, and rid the world of him once and for all. Relaly, that was the solution to all his problems: kill Virgil. Then it wouldn’t matter what Mouse had done, because Bast would be free, and Virgil would be dead.
+
+That’s the thing. I just can’t see Mouse deliberately or knowingly doing this kind of thing. But then again, how well did he know her? She hid. Her whole path was hiding. How well did he know her, vice the face she put on around him? If she didn’t want him to see something, she could delete it from his active notice… and who knew? Maybe even wipe his memories. He’d never seen her alter memories, but then again, would he know if she had?
+
+Dammit. An enemy Mouse is just too damn scary. She could be next to him right now, and he wouldn’t know until the dagger was already yanked out of his heart and his blood was already puddling on the floor. Or maybe he would simply die without knowing why, never having seen or perceived Mouse in any way. He’d always been better at perceiving her, but that was at lower realms. The present Mouse could disappear an entire arm from his awareness. And he last registered her as a Tier 2, but she could well be Tier 3 by now. Hell, she could be Tier 4, and he simply unable to perceive her power level past the Tier 2 she wanted him to perceive.
+
+His entire campaign against the Empire had rested on his assumption that Mouse was benevolent and on his side. She hadn’t betrayed him, but now, he was pointing his arrow at the Alliance. Could he still assume that? Should he?
+
+Well, that’s an obvious no, that second one, Rhys thought, snorting at himself. The next time he saw Mouse, he’d have to take care not to let her get too close, and to keep a safe distance between them. Her power was just too terrifying. For all he knew, she could make him forget that he’d ever been intent upon attacking the Alliance at all, or that Bast had ever been free of his marking. He doubted she was so powerful, mostly because he hadn’t seen her do anything like either of those, but that was just the thing: if she was that powerful, would he know? Would he have seen her do that? Or would it simply have happened, without him being able to notice?
+
+The rumbling grew distant as the ice worm burrowed back into the deeps. Rhys climbed out of his hole and out of the tunnels, setting his feet back toward the Alliance. There was only one way he could go for answers, and he was in no mood to wait any longer. Now that he knew Mouse was dangerous, he had to know: how dangerous?

@@ -1,0 +1,247 @@
+---
+id: 8c336e07-0d05-5f90-b4f5-d44aa00cbcd9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 975: Your Terms Are Acceptable"
+slug: 0042-chapter-975-your-terms-are-acceptable
+partOf: he-who-fights-with-monsters
+position: 42
+ownLength: 2722
+unit: words
+ownProgress: 2722
+publishedAt: 2025-03-21
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2142509/chapter-975-your-terms-are-acceptable"
+royalRoadId: "2142509"
+markedReadAt: "2026-06-29T19:05:18.860Z"
+---
+
+In the heart of the mountain was the recently looted reality core depository. The individual containment vessels were themselves miniature vaults, and some the most sophisticated magitech ever produced on Earth. As the farming program had been embarked upon cautiously, only seven cores had thus far been acquired. This corresponded to the seven containers left open and empty.
+
+Three people were in the vault, surveying their loss. One was Geneva Network branch director, Geneva Andros. With her was Albert Clynes who, despite being Director of Enforcement Operations, was a mousy administrator. The last person in the vault was Fiona Calloway. She was Director of Intelligence Operations for the Geneva branch and had been for longer than the other two had been alive. Despite her silver rank, she looked closer to a well-preserved fifty than the twentysomething appearance of most essence users.
+
+Geneva glared at the empty containers as if pure spite could refill them.
+
+“How did they carry out an armful of orbs while fighting off the guards?” she demanded.
+
+“We believe they used a dimensional storage device, Director,” Clynes said.
+
+“How did Finnegan get a hold of a dimensional bag that wouldn’t rupture with seven reality cores inside?”
+
+“There are a few floating around the black market,” Fiona said. “It was likely the vampire who obtained it.”
+
+“We’re sure that it was Elizabeth?” Geneva asked. “It seems like a risk to come herself.”
+
+“Yes, Director,” Clynes said. “We’re sure.”
+
+“One can never be certain, in a world of magic,” Fiona said. Anger flared in Clynes’ eyes at being contradicted, but he swiftly smothered it.
+
+“We have security footage of her face and her powers, both of which are congruous with our knowledge of her,” Clynes said. “We’re as confident as we can be.”
+
+“Then why was she here in person?” Geneva asked.
+
+“Her position amongst the vampires has been increasingly tenuous since the Asano Clan reclaimed their territory,” Fiona explained. “She has been making increasingly desperate moves.”
+
+“Weren’t the vampire lords most opposed to her collectively slaughtered in those cities?” Geneva asked.
+
+“The ones most overtly opposed,” Fiona qualified. “Those that remain are more cautious and cunning. Also, it was not Elizabeth who eliminated her rivals but Jason Asano. That failure, along with her known aversion to confronting Asano, undermines her position. Her influence has diminished, and she must now be careful of what was once under her unquestionable sway.”
+
+“Then why did we make a deal with her?” Geneva asked. “It seems that her rivals would have been the more reliable choice.”
+
+“Because her rivals still believe there is a fight to be won,” Fiona said. “That there is a scenario where they hold Europe as a permanent vampire kingdom. Elizabeth is one of the few vampire lords who, even in private, recognise that is not a tenable position. Her lack of illusions make her more controllable.”
+
+Geneva gestured at the open containers.
+
+“Is this what controllable looks like to you, Fiona?”
+
+“Obviously, miscalculations were made,” Fiona said. “But using Elizabeth was still the smart choice. Our involvement with the vampires will come out, sooner or later. Exploiting them in the final days of their power is one thing. Being traitors to humanity who helped them retain that power is another.”
+
+“Why did I only hear about this program when it started falling apart?” Geneva asked. “If I’d been briefed before the Zurich branch director went rogue, perhaps I could have done more to secure a facility I didn’t know existed.”
+
+“The leadership council decided that it was best to keep things contained. Marie Finnegan was adamant about keeping the circle as small as possible, and she had to be mollified. Her contacts with Elizabeth and Simon McKean were critical to making this work.”
+
+“And now she’s betrayed us, it’s blown up in their faces and I’m expected to clean up the council’s mess.”
+
+“Yes. You are being watched closely, Director. This situation is very dangerous for you, should it go wrong, but if you comport yourself well here, it becomes an opportunity the leadership council will…”
+
+Fiona trailed off as one of her subordinates rushed in through the huge vault door.
+
+“Ma’am, we have a problem. Someone used the satellite mask to hide what we’re doing here.”
+
+The intelligence director scowled.
+
+“I left specific instructions that it was not to be used again. If they can see us acting here, that doesn’t matter. We have deniability enough that there’s no justification for them to come poking around.”
+
+“Ma’am, there is no indication that the satellite masking has been—”
+
+“I know the world’s intelligence communities have spent the last two decades playing catch-up,” Geneva interrupted. “One of the more breathtaking mistakes that has led to is the magical community underestimating these organisations. Do you have any idea who and what you are dealing with? The CIA has a level of expertise in gathering information that seems magical to those of us who use actual magic. If we don’t respect their capabilities, the cost will be dire. We have to assume that not only have they discovered how we’re hiding the satellite data but tracking us in case we use it again.”
+
+Fiona gave Geneva an approving look, then turned back to her subordinate.
+
+“The director is exactly right,” she said. “The first question must be whether this was a potentially costly mistake or active sabotage. I want everyone even peripherally involved to be secured immediately. Clynes, can you task one of your enforcement teams to secure and hold them?”
+
+“I can,” Clynes said. “I’ll call in one of—”
+
+A silver-ranker in tactical gear entered the vault to approach Clynes.
+
+“Sir, we’ve got something approaching through the air.”
+
+“Monsters?”
+
+“No, sir, uh…”
+
+“Out with it, man,” Geneva snapped.
+
+“Sorry, Director,” the man said, bobbing his head in her direction. “It’s black, kind of a diamond shape. Like a pyramid, with an upside-down pyramid attached to the bottom.”
+
+“Like a D8,” Clynes said.
+
+“A what?” Geneva asked.
+
+“Not worth explaining,” Fiona said, then looked back to her subordinate. “Continue.”
+
+“It has these swirling things on the sides. They look like the Helix Nebula.”
+
+“The Helix Nebula?” Clynes asked.
+
+“It’s a distant space object,” Fiona said.
+
+“I know what a nebula is,” Clynes said.
+
+“This particular one,” Fiona said, “is known as the Eye of God. It has also become a symbol for Jason Asano, who we can assume is paying us a visit. It would seem, Geneva, that the opportunity I mentioned has come more swiftly than anticipated. This is your chance to prove yourself to the leadership committee. Do tell me how it goes.”
+
+With a slight popping sound, Fiona teleported away.
+
+***
+
+Inside his cloud ship, Jason gathered with his familiars. Compared to the battle configuration of the vessel’s exterior, the atrium they were in was filled with light, plants and water, with streams spilling off the mezzanine levels to make little waterfalls. While the hull of the airship looked black and impenetrable to those outside, it let sunlight shine through to fill the space.
+
+Gordon and Shade floated in the air. Colin was in his blood clone state and wore Jason’s face, along with the dark red robes he conjured for them both. His eyes were different, being red orbs instead of swirling nebulae. He also lacked the void cloak that made Jason seem to be draped in a portal.
+
+“Are we sure that having the ship in a battle configuration is the way to go?” Colin asked. “What if they get intimidated and run away before we can eat anyone? I mean, talk them down peacefully.”
+
+“Ulterior motives notwithstanding,” Shade said, “Colin’s suggestion is not without merit. Ameliorating the aggression of your approach might better serve your ongoing diplomatic efforts.”
+
+“The focus of my diplomatic efforts has been to show the Earth that what they want from me cannot be taken. That the carrot must be earned. Today they learn that the stick can be earned as well.”
+
+“Very well, Mr Asano, but allow me to remind you that a stick is blunt.”
+
+“I’m not looking to kill anyone, Shade. But healing magic is strong, and some lessons are only learned the hard way.”
+
+***
+
+“I don’t care what you have going on,” Geneva snarled into the phone. “Either you get them here now, or I’m sending them after you.”
+
+She ended the call, pressing hard enough to crack the screen, which went dark. She hurled the phone against the wall, where it shattered to pieces.
+
+“Director,” Clynes said. “Perhaps we should consider sealing ourselves inside the vault.”
+
+“You heard Fiona, Albert. If I hide in the vault, what will the leadership council make of how I used my opportunity?”
+
+“Well, how about you seal me in the vault? And the rest of the non-combatants, obviously. Defending the site is really a job for the enforcement teams.”
+
+She looked at him like she’d just scraped him off her shoe.
+
+“You’re the Director of Enforcement.”
+
+“The administrative director. What do you suggest I do to Jason Asano, Fiona? Schedule a roster at him?”
+
+“Be a coward then. Just give me your phone. It is enhanced to work in here, right?”
+
+He looked for a moment as if her was going to protest, but fished the phone from his pocket. She snatched it from him before he had a chance to hand it over, then grabbed his hand and pressed his thumb to unlock the device.
+
+“If you’re that rough with it,” Clynes said, “You’re only going to break that one as well.”
+
+She ignored him and strode out of the vault. The research centre around it was yet to be staffed or fully supplied, yet was currently full of people. They were investigating in the wake of the intrusion, although there was little to be found. The vampire and the traitorous branch director had carried out a simple smash-and-grab.
+
+As she passed through the rooms, she ordered everyone she encountered to move. The enforcement team members went with her while the others joined Clynes in the vault. His idea of securing the non-combatants there was a sound one. She would admit as much to herself, but never would to him.
+
+She moved from the research centre into the tunnel that connected it to the outside. It was the only normal way in or out, securing the facility inside a mountain of rock. That was further enhanced by wards blocking earth-manipulation magic and teleportation. The fact that Fiona had the key to bypass those wards had not escaped Geneva’s attention.
+
+She ran up the tunnel, silver-rank speed carrying her faster than a car would have. Even so, it took time to finally reach the spot where the blast doors had been. She’d had them removed, the giant hole leaving them as nothing more than an obstacle.
+
+On the other side of the door location was a large chamber, and the seemingly natural cave entrance. It would have been hard to spot from the outside, if not for the flying bus floating next to the mountain, with two gold rankers on it.
+
+Amstutz was a man in loose white garb, like something from a poorly researched Chinese action film. Like Geneva, he was Swiss, white and blond. Bussinger was a dark-haired woman in an elaborate red and gold outfit. Covering each of her arms, up to the elbows, were golden vambrace and gauntlet sets.
+
+Geneva hopped lightly up to join them. The mountain range spread out to the sides, while she looked off into open air ahead. There was a lot of cloud at their altitude, making it hard to spot something approaching. After a few moments looking, she gave up.
+
+“Where?” she demanded.
+
+“Watch your tone, silver-ranker,” Amstutz warned. “We’re here as a courtesy. A courtesy that can be rescinded.”
+
+Geneva reined-in her instinctive response.
+
+“My apologies,” she said. “I’m merely concerned about what is coming our way. Have you spotted the object yet?”
+
+Bussinger pointed.
+
+“That way,” she said. “We’ve seen it through the clouds a few times but it’s still distant.”
+
+“They don’t seem to be in a rush, or concerned about sneaking up,” Amstutz observed.
+
+“If it really is Asano,” Bussinger said, “I don’t think he needs to be. You saw the videos of him fighting in Australia, right?”
+
+“You don’t seriously believe that doctored footage, do you?”
+
+“Amstutz, do you really think anyone could fake something like that and not be caught out?”
+
+“Plenty of people caught them out. People believe things anyways, truth be damned. Magic was secret for hundreds of years. Now we know what it is and what it isn’t, yet people still believe in astrology, psychics, Antarctica, aura photos—”
+
+“Did you just say Antarctica?”
+
+“Auras are real, sure,” Amstutz continued, “but you can’t take photos of them.”
+
+“You think Antarctica isn’t real?”
+
+“People think magnet healing is real, Bussinger. And outside of that one guy with the iron essence, it’s all a load of…”
+
+Geneva tuned them out, resisting the urge to yell at them to shut up. She kept her eye on the sky until she spotted the strange vessel. It was as described, a black diamond with a nebulous eye set into each facet.
+
+“It’s like a big D8,” Amstutz said.
+
+“Isn’t that a car engine?” Bussinger asked.
+
+“No, that’s a V8. And they don’t make real ones anymore. The fake electric ones are crap.”
+
+The gold rankers continued to bicker as the vessel made its way across the sky, going from a distant shape to looming over them. The trio were staring when a portal opened at the cave entrance. Six gold rankers stepped out, also leaping to the top of the bus. Geneva turned to the last one out.
+
+“Remy, you took your time for someone who can leap across the planet in a second.”
+
+“Portal powers have cooldowns,” he said, looking at the looming sky ship rather than her. “Especially when you stretch them to accommodate this many gold rankers. What is that thing?”
+
+“We believe that it’s Jason Asano’s airship.”
+
+“What? No, I’ve got to…”
+
+As he turned to jump down to his portal, light like a blue sunbeam washed across them, coming from one of the giant eyes. The gold rankers looked around warily but suffered no ill effects. The portal did, flickering like an old TV before vanishing. Remy tried a teleport power and doubled over, coughing in pain, after which the light vanished.
+
+“Is everyone else alright?” Bussinger asked, the others voicing their confirmation. They turned from Remy when a panel opening in the side of the ship. Four figures emerged from within, Asano’s voice becoming audible as they passed the threshold.
+
+“…the only one who can’t fly. It’s like sitting in a child’s booster seat.”
+
+Three figures floated through the air towards the bus. A shadow creature, Asano in his void cloak, and what looked like Asano again, but on a cloud. The fourth figure was an alien entity whose eye, inside a dark cloak, matched the eyes on the sky ship. The orbs floating around it glowed in sequence and a voice came from each like a heavenly choir.
+
+“Colin, you are riding on a magical cloud. You’re like Money Magic.”
+
+“What is this magic monkey you all keep talking about?” the red-eyed Asano clone asked.
+
+Asano sighed and pushed the hood of his cloak back to reveal an exasperated expression.
+
+“So much for dignity,” he muttered. “Guys, could we for once make an entrance without quipping like it’s a superhero movie?”
+
+“Mr Asano,” the shadow creature said, “I think you will find that leadership, in these situations, sets a tone.”
+
+“You’re saying this is my fault?”
+
+“Yes.”
+
+They floated down in front of Geneva and the gold-rankers. Remy was recovering, now sitting on the bus roof. Jason threw him a glance, recognition and surprise on his face.
+
+“Sorry about the portal,” he said. “I didn’t want anyone to go running off, and channelling power from another universe through a UFO isn’t exactly a precise endeavour. I’m just going to pop in and have a rummage, and then I’ll have some questions.”
+
+Amstutz moved in front of him.
+
+“If you want to go anywhere, you’re going through us.”
+
+Jason casually reached for the sword at his hip.
+
+“Your terms are acceptable.”

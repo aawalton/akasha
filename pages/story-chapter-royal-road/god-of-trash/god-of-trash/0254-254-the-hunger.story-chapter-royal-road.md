@@ -1,0 +1,149 @@
+---
+id: d1220b37-8975-5066-8036-0f09d03c890d
+page-type-slug: story-chapter-royal-road
+title: "254. The Hunger"
+slug: 0254-254-the-hunger
+partOf: god-of-trash
+position: 254
+ownLength: 1900
+unit: words
+publishedAt: 2025-12-29
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2890959/254-the-hunger"
+royalRoadId: "2890959"
+---
+
+Rhys leaped from tree to tree, hurtling toward the next peak. The Hunger twitched in his hand, hungry for more impurities. He glanced at it. “How about Trashcalibur?”
+
+No.
+
+“No? It’s such a cool name. Okay, okay. Uh… Trashamune? Muratrasha?”
+
+No.
+
+“Filthandal?”
+
+No.
+
+“Joyugunkse?”
+
+No.
+
+“Okay, that one wasn’t that good. No one cares about Joyeuse, anyways. Fuck Charlemange. Uh… um…” He pursed his lips, struggling to come up with more famous swords. It was moments like these that he truly needed a search engine. There were many more famous swords in the world, but he couldn’t recall any of them at the moment, and that meant that he simply didn’t have any more names to throw at The Hunger.
+
+It wasn’t that The Hunger wasn’t a good name. It was a fine name for a sword! If he was an edgy or devour-themed hero, it’d be a fantastic sword name! But he was trash-themed. He couldn’t be running around with a cool sword like The Hunger. People would just laugh at him. It was fine being trashy, as long as it was clear he was doing a theme, but being trashy and having a sword named The Hunger? It was just barely ‘cool’ while not actually being so cool it worked. Basically, it was that thin line between ‘successfully cool’ and ‘weak-ass loser trying to be cool and failing,’ and without him leaning in to The Hunger, it landed hard on ‘tryhard uncool.’
+
+He respected the sword’s right to name itself. He did. Everyone should have that right, even though few did. But no one else would know the sword had named himself, and so as a result, it made him look so lame.
+
+Rhys took a deep breath. He couldn’t come up with any other names anyways, so it was looking like he’d have to live with The Hunger. It was kind of growing on him, at the end of the day. It did bother him that it wasn’t on-theme, and in fact, it was totally against his theme, but whatever.
+
+No, wait. It is on theme! Rhys realized belatedly. The Hunger? It was a great name! It was exactly the kind of chunnibyou name a revenger deuteragonist would give his sword in a shounen manga, and doubly so if it was a shounen-comedy making fun of the chunni revenger.
+
+“Never mind. You have a great name, The Hunger. Or is it Hunger? Seriously, can I call you Hungy?”
+
+It is great. And no.
+
+A part of him squealed in glee at The Hunger’s cold attitude. Excellent! Nothing like a tsundere chunni sword. He didn’t know what he’d expected when he’d created his sword, but definitely not The Hunger.
+
+He held it up, looking at it under the light of the sun. The body of the blade was dark, and hid a thousand tiny shades of color in it. Copper, silver, gold, even stranger hues like reds and blacks, all of them beaten down to tiny specks and all melded together into a strange dark blade. The edge shone like oil, glimmering in a sickly tone that was, quite frankly, disgusting to the eye. He held it by the tang, because he hadn’t yet bound it: it lacked a crossguard, grip, or any ornamentation or comfort. His hands darkened where he held it, inflicted with impurities just for touching it at all, and it occurred to him that he’d done another awesome thing: created a sword only he could hold.
+
+Hahaha! No, that’s awesome! It’s like that classic hero thing where only the hero can hold his sword, except it’s because I made a sword of filth and it’s stupid to hold it if you don’t have super ultra anti-filth protection. Rhys nodded to himself, very pleased. “You’re an awesome sword, The Hunger. I can’t believe I built you, because you’re so damn cool.”
+
+There was a haughty harrumph in his head. I am cool. And you didn’t build me. I gave you the right to shape me.
+
+“Oh, is that so?”
+
+It is.
+
+“Hey, The Hunger. Can you talk aloud? Or is it purely in my head?”
+
+There was a long pause. The sword in his hand trembled, then hummed. It rattled in his hand so hard it made his bones ache. “I can. Like this.”
+
+“Ooooh, that’s awesome. Aw, man. If I didn’t make you out of filth I could make so much money selling replicas…”
+
+“Why would you want to make me out of anything else?”
+
+“For horrible, filthy, adult reasons that would make me so much money.” Rhys cleared his throat. “But that’s neither here nor there. We’re coming up on it, The Hunger. Are you ready?”
+
+“Ready? For what?”
+
+“For you to do what you do best.”
+
+“More impurities?”
+
+“…what you do second best.”
+
+The Hunger paused. “What’s that?”
+
+Rhys looked at it, then at the approaching mages, who raced through the trees toward him. “You’re about to find out.”
+
+The mages closed in on them. Rhys paused atop a tree, holding it between the flats of his feet, and raised his free hand. “Stop. You know not the might of that which I hold. Surrender now, lest I loose this foul blade upon you!”
+
+The lead mage laughed, thrusting his sword at Rhys. “Ha. You’re after the pillar, aren’t you? We’ve seen what you’ve done to those other two peaks. Stand down, or we’ll end your foul breath!”
+
+“It’s not that bad,” Rhys said, taken aback, then gave an evil grin and called up some trash gas. “See?”
+
+Despite everything, the mage paused, confused—and then the gas struck him, and he reeled back, waving his hand, then screaming as his flesh began to melt. The other mages sped up, hurtling at him, their blades screeching from their hilts.
+
+“I did warn you.” Rhys rushed to meet them.
+
+He met the first mage, and their blades met with a faint grunt from The Hunger. And then the other mage’s blade crumbled from The Hunger’s impurities, and he struck through, all the way to the mage’s heart. Impurities burst outward from where The Hunger struck, so that not a single droplet of the mage’s blood flowed. Instead, it was corrupted to filth before it so much as oozed from the wound, so that all that emerged was a puff of dark powder. The mage stared down in horror as his body steadily blackened outward, but he only had a brief breath to do it before his entire body became nothing but a big lump of impurities.
+
+Holy shit, Rhys thought, not sure whether to settle on shock, horror, or awe.
+
+“Impurities!” The Hunger shouted in joy, and eagerly swallowed them up. It paused, then turned its attention to Rhys. “So what do I do second best?”
+
+“That’s, uh…” Rhys thought for a second about explaining life, violence, and death to an inanimate object he’d only recently gifted—or cursed—with life itself, then reconsidered. “You know, you’re doing a great job.”
+
+The Hunger twisted in his hand, a little confused by his answer, but mostly was pleased to be praised. And then there was no more time to talk, as the other mages closed in on them.
+
+Rhys swung The Hunger. It ached in his palm, the tang deeply unpleasant to fight with, but every foe it struck fell. Their spells, their defenses, their bodies; everything crumbled before The Hunger, then was drawn in by its powerful impurity magnetism. Rhys sucked some of the impurities off the top, which The Hunger tolerated, not that he cared. He was the master, and The Hunger was his sword. It was better that they got along than didn’t, of course, but The Hunger was not in control. At the end of the day, it wasn’t his problem if The Hunger didn’t want to share; it would be sharing anyways, because Rhys said so.
+
+Is this what it feels like to be a parent?
+
+He swung The Hunger again, and another mage fell and vanished into his and The Hunger’s cores. Rhys looked around, searching for the next enemy, but no one remained. He’d killed all of them. They’d killed all of them.
+
+“That wasn’t more impurities,” The Hunger remarked.
+
+“No. That wasn’t what I was talking about. Those people were trying to keep me from bringing you to the impurities,” Rhys told it truthfully.
+
+The Hunger thought for a moment, then gave off the sensation of nodding. “Why were they trying to keep us from the impurities?”
+
+“Some really complicated human politics bullshit.”
+
+The Hunger frowned. “I don’t recognize those words.”
+
+“That’s probably for the best.”
+
+The barrier on the third peak loomed. Rhys went to open it using his pillar technique, then looked at The Hunger. He shrugged, then swung it at the barrier.
+
+Gold light flashed. The barrier resisted The Hunger, while The Hunger pushed impurities into it. The two clashed. The barrier was made of pure mana, while the Hunger was pure impurities. The Hunger struggled to find an inroads, but at the same time, it didn’t care. It kept pushing against the barrier with a hunger, a drive, that Rhys himself rarely possessed.
+
+The barrier struggled. It flashed, bright, then dark, bright, then dark, then crumbled. The Hunger swung into the empty space behind.
+
+No one rushed out. Rhys extended his mana senses as far as he could, but the peak was dark. There was no life remaining upon it. Even from here, with his combined mana and trash senses, he could sense what had happened to the original students. Bodies laid under the sun, rotting away without so much as a burial.
+
+He pressed his lips together, disapproving, and strode forward. He extended his hand and called the bodies to it. Better to put them to good use than let them rot here.
+
+At least I don’t have to feel guilty about those mages I killed. They’d been defending this peak. That meant they’d been the ones to kill the students who were actually learning from this peak. Whatever they’d been originally, they’d become murderers the second they’d decided to destroy everyone who lived on this peak.
+
+“Impurities,” The Hunger complained.
+
+“Yes, yes. We’re getting there. You can sense them, can’t you?”
+
+To his surprise, The Hunger answered, “Sense?”
+
+“Sense, right? Like mana senses, or… anything like that?” He paused. “Wait. Can you even see?”
+
+“Of course I can see.” The Hunger sounded insulted.
+
+“Hey. You don’t have eyes. It was a valid question.”
+
+Still, he’d gained valuable information here. The Hunger couldn’t sense impurities. If it ever tried to get too uppity, or made a play to become the ‘master’ of their relationship, that was something he could use against it.
+
+Not that he thought it would. It was just that it was always good to plan against talking swords, in case they started thinking too much. And, of course, Soma had betrayed Daran, so he was thinking about betrayal. And, well, which chunni revenger didn’t eventually betray his friends? It was justa good thing to look out for. He wasn’t going to be blindsided by such an obvious twist!
+
+And maybe he was just a little bothered by the whole Mouse situation. Who was to say.
+
+“Anyway, you can just rely on me for that,” he said, heading toward the peak.
+
+“Good.” The Hunger thrummed with excitement, already anticipating its next meal.

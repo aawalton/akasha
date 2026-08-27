@@ -1,0 +1,93 @@
+---
+id: c34983d6-771b-546f-8d00-cbd43ddfe2e0
+page-type-slug: story-chapter-royal-road
+title: "234. Meeting New People"
+slug: 0234-234-meeting-new-people
+partOf: god-of-trash
+position: 234
+ownLength: 1918
+unit: words
+publishedAt: 2025-11-12
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2755775/234-meeting-new-people"
+royalRoadId: "2755775"
+---
+
+Grave vanished somewhere while Mirai bounded off, leading him out of the café and across the city. She wasn’t wearing much more than she’d been wearing before, though she’d ditched the uniform in favor of a fluffy pink layered tutu-slash-skirt and a tight pink-on-pink bodice, both laden with deco pins, clips, and ornaments, but it made her stand out even more in this frozen land for her to be tiny, pink, and not wearing thick, fur-rimmed clothes. She didn’t seem to mind it; if anything, she basked in the stares and attention, though she didn’t hesitate to kick the few fools who tried to touch her at full force. Rather impressively for the short time she’d been reunited with her core, she’d managed to obtain a high Tier 2 cultivation, so while she was still vastly underpowered compared to Rhys or anyone else around, she was still powerful enough that her kicks stung. Most townfolk seemed to expect it, and either accepted their fate or kept their hands to themselves. The few whose eyes turned dark at receiving her kick were met with a fierce glare from Rhys and a quick flare of his trash star, which dimmed the fury in their eyes.
+
+Rhys wiped his brow. Damn. Hanging with Mirai is exhausting. Grave wasn’t kidding when he said he was worried about her randomly dying. He was sure he wasn’t half as good at scaring people off as Grave was, but he was at least strong enough that no one dared to take a second look.
+
+For a moment, he was a bit surprised at how well things were going for him, but then he realized: he was that trash grandmaster following along his bratty daughter friend and ensuring no one dared to touch her, despite her taking (in his mind, perfectly reasonable) actions that could get her attacked or killed if she didn’t have a seriously powerful backing. It was a trash role he’d never imagined taking on for himself, since he usually didn’t like brats and would rather punish them personally, but here he was, acting as that protector.
+
+Rhys harrumphed and crossed his arms, grinning internally as he leaned into the role. It was kind of fun, honestly, and since Mirai was only protesting people touching her without consent, rather than starting fights, acting up, or doing anything else the usual bratty-son-of-the-grandmaster characters did, he could continue acting this way in good conscience.
+
+Still, he needed to know: “Are you cold?”
+
+Mirai spun around. “Huh? Me? No, I’m cute. The cuteness kills the cold!” She grinned and flashed him a double-peace-sign, then pirouetted to face front again.
+
+He shook his head, barely stifling a smile. Whatever works for her. He’d definitely been there before; not for cuteness, but for cosplay. Although the cosplay didn’t actually ‘kill the cold,’ and, in fact, most costumes had horrific problems with heat regulation, since baring one’s stomach or back while covering one’s limbs with usually non-breathing, heavy fabrics like pleather made the body’s internal heat regulation run rampant, and on top of that, wigs were heavy and not known for venting heat, he had many-a-time put up with absolutely horrific discomfort in order to show off his hard work and bask in the appreciation of others. Of course, if cuteness was her path, it was entirely possible that cuteness could actually ‘kill the cold,’ but it’d be prying too much to directly ask her that, so he let it be.
+
+They wandered around for a bit, weaving through the city. At first, Rhys just followed her around, but then he started to recognize their surroundings. On the third loop, he slowed. “Mirai, are you sure—”
+
+“There she is!” Mirai sprinted ahead, as if to get away from his accusations of not knowing where she was going. Rhys followed her a little reluctantly, not fully convinced that she’d seen anything so much as was just escaping his question, but when she turned the corner, the woman he’d been given an image of appeared, stepping out of a building. She looked a bit shocked to see two small people charging at her, but to her credit, she merely stepped to the side and waited.
+
+“Hiii!” Mirai said.
+
+“Do I know you?” the woman asked politely.
+
+“Not yet!”
+
+Rhys cleared his throat, stepping forward in front of Mirai before the conversation could get too far off the rails. “Good afternoon, ma’am. I’ve been sent here on a quest to find you.”
+
+“Me?” she asked, surprised.
+
+“Indeed. Is there somewhere… discreet that we could go to discuss it?” Rhys asked. He wasn’t really sure how acceptable Lord Rivan was in the northern region, if he was a powerful and celebrated figure who just happened to get his ass handed to him by another powerful and celebrated figure, or—more likely in Rhys’s estimation—he was some kind of reject or runaway who was trying to make a name for himself in another region and had failed miserably.
+
+Either way—whether Lord Ravin was celebrated or hated, or somewhere in between—it wasn’t polite to just say “hey this guy is dying, do you want to go save him?” in the middle of the street. For one thing, regardless of his general social standing, Lord Ravin was bound to have enemies who wanted him dead who would be excited to know he was injured and desperate to find a way to hold it against him. Even Rhys had deadly enemies, at this point. He wouldn’t want someone to blast that he was weak or injured all over the map if he was the one in Lord Ravin’s position.
+
+She raised her brows. “Of course. May I know who’s asking?”
+
+“It won’t mean much to you, but my name is Rhys. And you are?”
+
+“You don’t know my name, but you’ve come to find me?”
+
+Rhys spread his hands and smiled mysteriously, trying to channel the ‘please don’t ask me anymore, I can’t answer you’ energy that Grave effortlessly called upon whenever he needed it.
+
+She put a hand on her chin. “How mysterious. I am Madame Edel. It’s good to meet you, Rhys.”
+
+“Good to meet you as well.” Lord Ravin, Madame Edel… it felt like people in the northern region put more emphasis on their titles than people did in his home region. Maybe he was just talking to higher-ranked people who naturally would put more emphasis on titles, but it did feel as if there were more titles being thrown around than he was used to. Aside from the Empress, after all, he didn’t have a clue what anyone’s title in the Empire was.
+
+Madame Edel led the way into a nearby alley. Mirai bounded along at her side, having a good time just being there, and Rhys swept along at the rear. At the back of the alley, Madame Edel drew out a tiny orb and tossed it into the air. The orb expanded, encasing them in a slender globe of what looked like ice, or maybe glass. “No one should hear us in here. You may talk freely.”
+
+Rhys looked around, interested. The people of this region also seemed to use tools more than people in his region. This was the second orb he’d seen. I wonder if I can buy some? Or better yet, find some in the trash.
+
+He turned to Madame Edel. “I come bearing a message from Lord Ravin. He—”
+
+“Lord Ravin? Lord Ravin. Ha! That no-good, two-timing fool. What’s he up to now? Does he need someone to hold his binky? Does he want someone to go begging to his father to let him back from his exile? After that embarrassing performance at the border, that pathetic attempt of an invasion, and more importantly, abandoning me to ‘pursue greatness,’ ha!—he dares to call on me?”
+
+Rhys coughed. Lord Ravin, you’re really drawing at straws here, huh? If you’re asking your jilted ex-lovers for help, you must be at the bottom of the barrel. “Er… yes. To summarize, yes. I take it you aren’t interested?”
+
+Madame Edel scoffed. “I’m quite sorry to disappoint you, but no. I am not interested. You may tell Lord Ravin that he’s a poor lover and a poorer excuse for a lord. Pathetic.” She snapped her fingers, calling the orb back to her palm, and flaunted away.
+
+“Uh-oh,” Mirai said, gazing after her. She looked at Rhys. “That didn’t go well.”
+
+“I’m… somehow not surprised,” Rhys said, sighing. Lord Ravin had, after all, failed an invasion. It took a special kind of person to gather a force weak enough that it could be wiped out in one fell swoop and still attempt an invasion. Maybe he thought he himself was strong enough to make his force meaningless, but then, that was what the Sword Saint was for. Underestimating his enemy to that extent and launching a very obviously doomed invasion took a certain kind of person, and Rhys certainly didn’t have a high opinion of that kind of person.
+
+“But… if he was invading, and he’s in your region, then wasn’t he invading your region? Why are you helping him?”
+
+“It’s very complicated. Don’t worry about it.”
+
+He expected her to keep pressing, but instead she beamed and gave him a thumbs-up. “Okay!”
+
+I guess she did start in the Empire, after all. Rhys ran a hand through his hair, then nodded at her. “Should we go find Grave? This lead went nowhere, so maybe we’ll have better luck with his.”
+
+“You don’t sound very hopeful,” Mirai pointed out.
+
+“I… suspect Lord Ravin is calling to the absolute last people on his list of supporters. These are probably all long shots. If I come home with anyone, I’ll be happy,” Rhys said. If all three went poorly, he’d double back and start offering them favors to go see Lord Ravin, truly turning this fetch quest into the garbage chain-fetch-quest it so dearly wanted to be, but he hoped, hoped beyond hope, that at least one of them would be happy to go see Lord Ravin. Or at least not so angry as to totally dismiss the idea.
+
+He didn’t want to reveal Lord Ravin’s weakness off the kick. After all three rejected him, he’d go back and tell them Lord Ravin was weak, but he didn’t want to start with that. He knew it could soften hearts to know an old friend or ex-lover was in need of help, but he also knew that it could harden hearts to know the same, and he wasn’t confident in knowing these people well enough to gauge whether they were happy to see Lord Ravin, or happy to see him dead. Hopefully a second pass or a pause would give him enough time to either learn them, or learn more about them, so he would know which of the two they leaned toward.
+
+A soft cough sounded from behind them. They turned to find Grave standing there, his hands behind his back. “I’ve located that man you asked for. Would you like to see him?”
+
+“Of course,” Rhys said. Right on time. It’s almost spooky how good he is. Once again, the longing to have a personal servant like Grave welled up in his heart, but he suppressed it. He was pretty rich, but he was a hundred-percent sure he couldn’t afford Grave’s services. Grave was a Tier 3 mage with a unique path; he had to be expensive.
+
+Grave gestured, and Rhys and Mirai followed him.

@@ -1,0 +1,117 @@
+---
+id: 082d289e-20de-556d-932b-83efa7b1a927
+page-type-slug: story-chapter-royal-road
+title: "Chapter 91"
+slug: 0015-chapter-91
+partOf: hell-hound-evolution-litrpg
+position: 15
+ownLength: 1563
+unit: words
+publishedAt: 2026-02-27
+link: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3098565/chapter-91"
+royalRoadId: "3098565"
+---
+
+Another day passed.
+
+We didn’t quite make it back to the river that night. Slowing down for hunts and allowing Grick to fish cut us a bit short of making it that far. The fox, of course, wasn’t too pleased, but since she was the one insisting on following us, I didn’t think she had much of a say in the matter. Besides, if it were put to a vote, we’d still beat her three to one. I’m pretty sure Grick and Lily would vote along with me.
+
+As for the results of our hunts. We managed to kill a couple more Mossgrazers, but Grick unfortunately did not gain any levels or skills. I likewise didn’t receive any of those either, and not even a single achievement! I think Lily got stiffed by the System as well.
+
+We slept for the night, had another unrewarding hunt early in the morning (aside from full bellies!), and continued our travels.
+
+It was all a bit disappointing, as most of the low-level hunts we’ve done over the last few days at least gave us something. But it seemed even our power-leveling of Grick had reached its limits in this area.
+
+I would gladly come across a more dangerous high-level monster so that we could get more out of a hunt than just food! Actually, if I’m being completely honest, when I reflected on some of my past fights, like against the Earth Tyrant, or the (at the time) huge monsters I confronted in the forests of the vale… I kind of found myself itching for a challenge.
+
+I had been very scared at those times, but now, in the absence of that intensity, the lack of adrenaline pumping my brain into sharp focus, and the thrill of steady gains… part of me felt that I missed all of that.
+
+I huffed in frustration with myself. I shouldn’t think that way. It’s one thing to do what you have to do to survive, but I didn’t want to turn into some adrenaline junkie that took risks for no reason!
+
+I suppose we'll eventually have to find another area with higher-level stuff, since it seems we've maximized what we can get from here by now. Even Grick wasn’t getting power leveling benefits anymore around here.
+
+If things had been different, and the red masks never came into our lives, I could imagine my whole family would have just continued hunting the vale for a very long time. Would we have ever met Grick in that case? I suppose our parents would have sent us into the caves to hunt before having us brave the forest, so it’s possible.
+
+…Then again, if Luke, Ben, or Jerry were to have found Grick first, it may not have ended well for the poor little guy. Those boys really never had any restraint!
+
+Genzo said there are monsters level 30 or higher on the other side of the lake, and even further than that, there was a passageway to the Depths, which is apparently where my parents were from and had even higher level monsters.
+
+I wondered what the Depths were like, and if I’d ever get a chance to go there. Would I find other Hell Hounds there? Could I make friends with them?
+
+My tail wagged at that thought.
+
+But whatever the case, it would be quite interesting to see where Mom and Dad grew up and understand where we came from.
+
+Fox lady suddenly stopped. Her ear twitched.
+
+Lily and I stopped as well, sniffing the air. I could smell and hear water.
+
+“Hey river’s just ahead,” the fox said, flashing a fang at us. “Come on!” She pulled the hood of her cloak up over her head and adjusted the back so it covered her tail better, and ran ahead.
+
+Lily yipped happily, and we trotted after the fox.
+
+The trees thinned a little as we crested a low rise, and the sound of rushing water grew clearer with every step, along with the scent of damp stone and riverweed. Then, finally, the river came into view.
+
+It was much wider than where we had crossed, and on the far side, I saw a pack of River Gezellids. They looked up from their grazing, beaver-like tails batting at the air behind them, but they were safely on the other side from us. So after a snort, the biggest of their group returned to its grazing, and the others followed suit.
+
+Lily’s tail beat excitedly behind her, paying just as little attention to the prey on the other side of the water as she went right up to shore and started lapping her tongue in the water for a drink.
+
+Grick took off his pack and started unhooking his fishing pole. I saw the fox wrinkle her nose at him, and I gave her a low growl.
+
+“Fine, fine. I don’t think we’ll quite make it to the empire by nightfall anyway.” She sighed and plopped down by the shore, leaning back against her hands. “Besides, better to approach the gates in the morning. You two look threatening enough without appearing out of the darkness.”
+
+I walked up to the water to take a drink as well, then observed further across the river. There was no trace of those dead lands that supposedly belonged to the Umarii, so according to Genzo’s directions, we should now be in the clear, and it should be safe sailing to our destination.
+
+I would have liked to get a human form before arriving at the empire, but maybe I’d have an easier time unlocking the hint once we got there and were among people who may not see us as a threat. Really, everyone and everything other than the fox had instantly seen us as something to either fight or flee from along our journey, so it was hard to imagine a situation where I could walk alongside prey. Even Grick had initially assumed we were going to eat him when we first met!
+
+After my thirst was quenched, I found a spot up the slope to lie down where I could see downriver a little better.
+
+I felt my eyelids getting heavy as the sun baked my fur. This last week had been so peaceful, but within that peace, I couldn’t deny that part of me felt hungry. Not just hungry for a meal, but for a hunt. A real hunt. I was happy to help Grick level up with these low-stakes fights we’ve been taking, but at the same time, it didn’t satisfy that other part of me.
+
+Was I wrong for feeling this way?
+
+My gaze drifted over to the Gazzelids. The bigger one kept glancing at us on occasion, tail flapping. Even from that safe distance, it was wary of us. But as we waited for Grick to finish fishing, it grew less and less interesting.
+
+Eventually, it walked into the water and dove underneath. My ears perked as I watched. I could only see its shadow moving under the water for a moment before it disappeared, and the current swept away any trace of it. Its family didn’t seem to pay it much mind either, as they just continued grazing on reeds.
+
+Suddenly, the surface of the water broke as the big Gazzelid emerged in a splashing instant. There was a fish speared on one of its horns, still wiggling for what little good that would do. Even if it somehow wiggled its way off the end of the horn, that was clearly a fatal wound.
+
+The big Gazzelid swam back to shore and shook the fish free, sending it flopping onto the ground. Then it leaned down and started eating it.
+
+My tail wagged once as I watched.
+
+So, those things could be predators as well. Well, did fishing count as being a hunter? Grick wasn’t really a predator. Watching Grick use the cleverness of a fishing pole somehow seemed vastly different from diving in and violently spearing one, even if the end result was essentially the same.
+
+So what’s the difference between predator and prey? I mused.
+
+That girl from another world who I used to be… Lisha… she wasn’t a predator. But she ate meat. She’d never once hunted her own kill in her life, but she did eat creatures who were weaker than her. Did that count as being a predator? I felt like the answer was “not really.”
+
+Suddenly, a ding sounded in my head, and a screen flashed in front of my eyes.
+
+[New Evolution Hint Acquired!]
+
+Woah! Talk about having something come out of nowhere!
+
+I giddily flicked it away and went right to the evolution Path I suspected it was for. Sure enough, it was the second hint for Veiledfang Stalker.
+
+Hint 2: Predator and prey are not opposites. They are positions.
+
+Okay, I guess that makes sense. Now let’s see. There was just one achievement that needed to be unlocked, so I should now be able to see…
+
+Required Achievement:
+
+[Social Predation]
+
+Kill something that trusts you.
+
+I stared at the words, my excitement bleeding away as quickly as it had come.
+
+Kill something that trusts you.
+
+My tail stilled.
+
+Slowly, I lowered myself back onto my belly, the river’s steady rush suddenly far too loud in my ears.
+
+That… that wasn’t what I’d expected.
+
+Read Next Chapter Now!

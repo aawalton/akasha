@@ -1,0 +1,147 @@
+---
+id: a2e0364f-037b-5d47-a666-a4bcd5a0ffb4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 825 - Cutie patootie"
+slug: 0152-chapter-825-cutie-patootie
+partOf: hell-difficulty-tutorial
+position: 152
+ownLength: 2400
+unit: words
+publishedAt: 2026-06-11
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3526138/chapter-825-cutie-patootie"
+royalRoadId: "3526138"
+---
+
+After we finish watching the record, I find myself in the Primordial Knight’s headquarters with Morwag and Weslin. The leadership here wanted us to have a meeting somewhere more "official," but we just ended up on the terrace, giving us a view of the false tower’s surroundings.
+
+There I stand, resting against the railing while Morwag sits inside doing his meditation thing. Weslin is talking to a local woman who has introduced herself as the local director Narisa, and apparently works for the guild. I remember her from the first time Weslin and I visited the simply named Third City of Beyond’s second floor.
+
+I hear the woman ask Weslin in a shocked tone, "He dumped most of his guild master’s responsibilities onto a man called Talon?"
+
+But I mostly ignore all that, the sights from the record still weighing on my mind. At the moment, I’m having to suppress my urge to move, to attack, to fight, and grow stronger. That’s how I’m feeling right now. Sandra the cockroach has proven herself to be truly annoying, even in a record.
+
+"You said you wanted to talk to me about something, Narisa," I interject once Weslin seems to have ended his conversation with her.
+
+The woman smiles and nods politely, moving closer to me onto the balcony. "Just a few very minor things. Sir Weslin already told me that I can make my own decisions about most of the smaller things I wanted to bring up."
+
+It seems to be a question, and I simply nod without hesitation.
+
+"I still remember the first time we met and the way you blamed Sir Weslin for kidnapping you," she chuckles. "How quickly things can change. You seem to have a similar personality to Lady Nyssa, so I’ll be straightforward. There is a guild called Rising Stars. They’re currently 11th in the rankings, but they’ve been growing quite fast. As of late, they’ve been taking advantage of this place’s rules and financial power to hire small groups to suppress our members on the second floor. We think they’re one of the guilds being supported by the Astral Brotherhood, who’re currently 5th in the rankings."
+
+She pauses to see if I have any questions, but I simply gesture for her to continue. "It isn’t anything outrageous, but this is being done with a longer timeline in mind, building towards the time the three of you end your tutorials. If you could provide me with a larger amount of financing, I could-"
+
+"It’s fine," I wave off. "Where is their headquarters?"
+
+"Fifteenth floor of this tower, near the central fountain, the tall yellow wooden buildings. If you want to visit them, I can arrange a meeting."
+
+"There’s no need. How confident are you in that information that they’ve been messing with us?"
+
+"Extremely."
+
+"Good. Morwag, can you go there? Don’t kill anyone, but you can break some bones. Destroy as much as you can before they throw you out of the city."
+
+Narisa looks around in a panic, switching her gaze from Weslin and then back to me, while I make my way to Morwag. A small orb of black mana forms in my hand as I erase the mark from him. Spark, Marble, Veil, or any other part of the mind of the local Champion will likely notice it soon, but hopefully not too soon.
+
+"This should give you a bit of time before it’s replaced. We’ll meet outside," I say.
+
+"Sounds good to me," Morwag pushes himself back to his feet without any hesitation, before lazily, and while yawning, making his way out of the room.
+
+In the following silence, Narissa makes her way to me. "Why? What? I don’t think this is a good idea. It’s a violation of the rules," she mutters rapidly.
+
+I shrug. "Unofficial rules I never agreed to. Even when Morwag and Weslin leave, I’ll still have well over a year left in my tutorial, so do not worry. You can tell them that I’ll hunt them down, along with whoever supports them, if they try to take revenge for what Morwag is about to do. They’re probably just testing us now that Nyssa’s gone, and, honestly, it pisses me off. Weslin, do you think they’re looking down on me?"
+
+Unlike Narisa, he doesn’t seem the least bit surprised and smiles at the woman to calm her down before turning to me. "They likely just want to see how far they can push. I don’t think anyone’s underestimating you at this point. But there’s likely to be more such probing in the future."
+
+"I guess," I agree with him and switch my attention back to Narisa. "Was there anything else you wanted?"
+
+"Now, I’m even more inclined to deal with these things on my own." I can see her nerves coming out in the movements of her body and the twitches of her muscles as she gives up in the end. "This is going to be a mess. I just hope they send Sunshine to complain and not someone like Veil."
+
+"Ask for Spark."
+
+"They rarely let Spark touch these things, unfortunately, and not all of them are as cute as him," she shakes her head. "Well, on another note: we have been able to locate the guide known as Duncan, but..."
+
+"Go on," I encourage her.
+
+"I bought all available information and even connected to our other branches. It seems that he’s gotten himself into a large amount of debt to move his eight and eleven year old siblings to the second floor’s 1st city. All seemed well until he got wounded and required extensive healing from one of the healing guilds, which increased his debt. It looks like they did shoddy work, too, and he’s still wounded. To avoid dealing with it, they sold the debt on to one of the shadier guilds, and now they’ve been threatening him. Even in his state, he’s caught traveling between the 1st and second floors to make the shards he needs."
+
+"I see. Do we have any good healers in the 1st city?"
+
+"Currently none, but I can give you a contact for a healing guild we are friendly with."
+
+"I would rather not. However, I will need you to send a message. Also, I’d like you to give me the information on the people who lent money to Duncan and sold his debt. And any information you have on whoever they sold it to. Also, information on the healer guild, along with the individual healer who botched his healing."
+
+"I do not like the sound of that, Guild Master Gwyn."
+
+I ignore such blatant lack of trust in me. "And contact the old man, the vice guild master. There might be a mess that needs cleaning up."
+
+After that, and before leaving, I stop to talk to Spark for a bit. When he asks me about what I could have done to Morwag’s mark, I don’t bother to lie, and I even tell him where Morwag is heading as well.
+
+"I will hide it from the others, Nathaniel," he gets out after a long hesitation.
+
+I reject it straight away. "No."
+
+"But I can do it!"
+
+"I said no. I don’t want to take advantage of you in any way. Just do what you would’ve done anyway."
+
+There is a brief silence before he giggles. "You’re being far too cute right now, Nathaniel," he says, his cheerful tone shifting toward something more serious. "But don’t forget who I am. I am a Champion. Why do you think I’m usually the one to greet newcomers? I’m one of the primary facets, the one most similar to our original self. When it comes to the more important decisions, my voice often carries the most weight."
+
+"Oh."
+
+"Hehe, oh! I wish I were looking at your face now! But as I said, there are rules we’ve set that I have to follow. They’re necessary with all the things I’ve done to my mind, but let us say... I can ignore them just for a moment! So, as long as he doesn’t hurt anyone too much, I’ll let MorMor have some fun. But then they’ll have to kick him out, and he likely will not be able to enter the city anymore. Oh, and the Primordial Knights will receive a huge fine, too!"
+
+"It’s what I expected to happen, but I still think it is good if he does it."
+
+"Why?" Spark asks curiously.
+
+"Because I think people fear someone who’s unpredictable much more than someone powerful who follows the rules. Yes, you get punished, get a fine, and get kicked out of the city, but it is like taking a punch to deliver a more powerful blow."
+
+"Haha, how fitting for someone with your body," that cheery part of the Champion’s mind laughs before calming again. "But Nathaniel, I believe that sometimes your life is not just your own, as much as you would like it to be. One day, you will look around and finally realize that some wounds you receive hurt the people who care about you more than they hurt you."
+
+I don’t even know what to say to that, so I just stay quiet.
+
+Spark giggles again. "I met a person from Earth not long ago, and we spent days where she taught me many things about your planet. And at this moment, there is a word I think describes you."
+
+Spark talks in a tone that shows the smile in his voice as he says, "Nathaniel, sometimes you are such a cutie patootie."
+
+Weslin and I are kicked out of the 3rd city not long after. I receive a one week ban, while Weslin is somehow banned until the end of his tutorial, which he complains about, loudly.
+
+When we rejoin Morwag outside of the city, the demon is sitting on a boulder and waving at us. For some reason, he still hasn't restored his arm, and I’m getting more and more suspicious of that. I do not expect a betrayal, though, but I’m nervous. Demons should not be capable of scheming in the way Morwag tends to.
+
+We also learn that Morwag has received a 100 year ban, which he announces almost proudly.
+
+Brich and Savant join us not long after, and soon enough, we start making our way toward the 1st city. I have some business to deal with there before we head on to the 1st floor to fish and explore the middle of the floor, followed by our expedition to the surface.
+
+Nathaniel and the boys’ adventure continues.
+
+Once on the road, we barely stop, except for the occasional detour to deal with an interesting monster. We bypass the second city entirely, and though a part of me wants to explore them, we also pass by The Storm and The Snowy Mountains. None of us has any need to rest, and I begin to imagine how it must look to see two humans, a demon, a half-demon, and a lumoran in clanking armor traveling side by side while engaging in friendly conversation.
+
+There isn't much to be said until we enter the first city, also known as Rookie City. It’s massive, built in a perfect circle around a central mountain, and yet the tallest buildings only reach about three stories. Surrounding the city are miles of flat plains, covered in yellow grass and patches of flowers that sway in a constant breeze.
+
+Once we enter the city, I notice those nasty arrays I saw when I came here for the first time, even if they don’t feel all that dangerous now. I mean, they are scary, but not that scary. I bet with a little bit of effort, I could do some really fun things to them. We also begin to notice the guards moving through the streets, most of them wearing a combination of black clothes with bright yellow stripes and shiny silver armor.
+
+First, I head to the information guild where I request the most current information on Duncan's location, and this time I don’t even have to pay. The information guild even sends out their vice guild master, who has a crystal in the middle of his head, to personally share the information with me.
+
+Before moving on, we then stop by the headquarters of the Primordial Knights to meet someone I’d requested be messaged while we were still in the 3rd city. Reliable as ever, she is already there waiting for us.
+
+Lily smiles brightly the moment she sees me and rushes closer in that creepy way where she mimics kinetic movement through the strength of her body alone.
+
+For some damn reason, Tacita’s there as well. The moment she sees us, she narrows her eyes protectively and zips up her jacket as if hiding something.
+
+Did Savant get caught staring at her chest or something?
+
+"Hello!" Lily brings my attention back to her, and I look down at her. "I think you probably didn’t get the message, but I have only a day or two before I have to return to the 4th floor. It should be enough to heal your friend, though."
+
+"More than enough," I nod and gesture for her to follow so I can introduce her to the others. Tess would be proud of my social skills, I think, and I even tell Lily, "Thanks for coming."
+
+"You are welcome! That’s just another thing you’ll owe me. Maybe one day I’ll even charge you a massive amount of shards."
+
+I just snort at that. "As if you ever asked for shards. I’m telling you, Lily, if you wanted, you could be very rich. We’ll have to do something about that before our tutorial ends."
+
+The smile stays on her face and only widens as she asks playfully, "Maybe if the offer is good enough, I’ll join and be your guild's exclusive healer."
+
+That thought almost makes me laugh. "Even if you did join us, why would you only heal our guild? Just heal whoever you want."
+
+I stop walking as I realize she’s stopped. When I turn back to her, I see her looking at me intently with an expression I can't quite identify.
+
+Lily then shakes her head with a gentle smile before rushing back to my side, and we continue toward the others while Tacita begins sneaking her way closer as well.

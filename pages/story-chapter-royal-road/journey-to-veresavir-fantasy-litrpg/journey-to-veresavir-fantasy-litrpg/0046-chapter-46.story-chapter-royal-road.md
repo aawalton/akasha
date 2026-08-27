@@ -1,0 +1,293 @@
+---
+id: 2ebeae2c-97f3-59e4-bae8-d9f5bbc0792f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46"
+slug: 0046-chapter-46
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 46
+ownLength: 3173
+unit: words
+publishedAt: 2026-02-21
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3078803/chapter-46"
+royalRoadId: "3078803"
+---
+
+Chapter 46
+
+This time around, only Warren saw him off.
+
+Veron had his armor and weapons, and an old pack that Warren lent him, with some food and water in it, and a few basics he had made with stone.
+
+The sun hadn't risen and mist clung to parts of the valley. The road was muddy and dotted with brown puddles.
+
+Warren raised his jacket against the early morning wind. It was cool for a spring day, but Veron wasn’t bothered.
+
+“It was an interesting week, Veron.” Warren gave him a long look.
+
+“Thanks for the help, Warren, and the gear. I'm not sure when or if I will return, but I hope you think about our conversation.”
+
+“How could I not,” Warren said and looked over at the preparing group of hunters. They had five horses, two of them now pulling the wagon. “Good luck out there either way, Veron. And next time, maybe you can share some stories as well.”
+
+“I would have to get you to trust me first.”
+
+“You could bribe me with some interesting plants, break the ice so to say. Just a suggestion. Or you know, you could just visit again in a few months.”
+
+Veron smiled. “I'll consider it. And either way, I’ll see you around, Warren.” He waved and Warren mirrored the gesture.
+
+Yeah. I wonder when I’ll be back here.
+
+He gave the inn a last glance, then looked over to the farm. Veron sighed, then steadied himself and joined the hunters.
+
+“Good to meet you all officially,” he said and gestured to the group.
+
+“This is Veron, Elemental Path with an Earth Harmony. Be nice,” Cat said, then pointed to one of them. A blonde woman with tan skin. “That’s Jayce, trapper and huntress.”
+
+Jayce gave him a slight nod.
+
+Cat pointed at a black haired man with a tired look in his eyes. “Hverto. Our trapper and extractor.”
+
+Hverto didn’t react.
+
+Then came Aaron, a tall man in light metal armor and a greatsword, devotion sword wielder and likely who would face a monster directly if it engaged them. The man gave him a curious look.
+
+Next was Estelle, another woman with a bow and leather armor. She was checking the arrows in her quiver and barely reacted to Veron’s presence.
+
+Then came Stewart, the party’s cook, giving him a nod in greeting.
+
+And finally Noelle, their Devotion Path healer. She glanced around with obvious uncertainty and then gave Veron a slight nod as well.
+
+Cat smiled. “Perfect. Then everyone without a horse, get on the wagon so we can leave.”
+
+Veron joined the others on the wagon, his legs touching the feathers of the beast. It didn't seem to bother anyone else that the carcass was between them, so he didn't let it bother him either. At least it was covered with a tarp.
+
+The wagon was simple, thin wooden planks on either side letting them sit, a simple box seat at the front. There was no roof or anything to cover them from rain.
+
+Cat and Jayce steered the wagon, Stewart the cook, and Aaron the greatsword wielder sitting in the back with Veron.
+
+The others were quiet for a while as they started the journey. The pace was a lot quicker than his last time on this road.
+
+A lot fewer things to carry.
+
+Veron watched Aaron and Stewart. Normally, he would have struck up a conversation about their hunt or where they were from, but today he found it difficult.
+
+“What brought you to Eyra?” Stewart asked after a while.
+
+“I like these valleys and forests, and needed some time to think.” Veron didn't feel like that was enough. “I lost a bunch of people.”
+
+The wagon rattled as they moved over the dirt road.
+
+“Sorry to hear about that,” Stewart said.
+
+Veron nodded slightly.
+
+“And now? To Perrion?” Aaron asked.
+
+“Anvakar. And to the dungeon,” Veron said.
+
+Aaron raised his head in a knowing manner.
+
+Stewart gave him a long look. “Alone?”
+
+Veron smiled slightly. He had thought about it. About going down there alone. It felt possible, easier, but it also seemed really stupid. He could tell as well that Stewart was trying to look out for him, and that frustrated him. “No, not alone. You guys don't plan to go that far north by any chance?”
+
+“No. Got to deliver this thing and sell its essence, then, we'll see what kind of jobs are available,” Aaron said.
+
+Veron nodded. “Is the essence still in there?”
+
+“No. Too long of a journey for it to remain. Someone wants the corpse.”
+
+“In its entirety,” Stewart added.
+
+“Is that strange?”
+
+“Normally, alchemists and tanners want parts, not the whole animal. Not worth the meat either to transport it that far,” Stewart said.
+
+“They want to use it as a trophy,” Jayce said from the front.
+
+“Or some blood magic ritual,” Aaron added.
+
+“Possibly,” Stewart said.
+
+Veron nodded along. He found himself not caring all that much.
+
+Am I still thinking about everything? Or is this new? I think I should be interested in all of this, but I'm not.
+
+The others continued their conversation, soon talking about another job where they had to return the entire beast they had hunted.
+
+Veron occasionally connected to the wind, watching the scenery move past.
+
+The others seemed reasonably unbothered by the road, the three riders checking the surroundings with what seemed like comfortable vigilance.
+
+It felt strange, to be going back north as if nothing had happened. To travel the same road he’d first treaded with Reymond and the Silver Wolves.
+
+It felt so different back then.
+
+He looked at his hands and felt the rock covering his legs. Armor he had made himself.
+
+Am I scared? Because of what I know will happen? Because everyone here will likely get hit by that curse?
+
+It felt like a part of the answer, but at least right now, he didn't really know what to do with it. Seven people with seven names he felt too tired to remember. They were traveling north, and that's where he wanted to go.
+
+They took a short break for lunch, then traveled until dusk. Veron mentioned his problem with grilled meat and the cook didn’t seem to mind, letting him know he would accommodate.
+
+The pace was good but Veron couldn't shake the discomfort he felt. He felt annoyed with the others and strangely irritable, disinterested in their conversations and stories. They had a quick dinner and set up runic wards. They would rotate for guard duty, but Cat told Veron he wouldn't have to take a shift on the first night.
+
+Then they set up for sleep between bushes and trees, the others using their packs for headrests, so Veron did the same. He wished now that he would have taken his self-made pillow with him on the journey. A few of the others talked in quiet whispers as the last light of dusk made way for the night.
+
+Veron could see the stars between the canopy of leaves above. It had been a strange day, and he knew that meant he simply hadn't figured out how he felt exactly, and why. He felt tired all the same and fell asleep quickly. Dreams of fire and yellow eyes woke him up once or twice, but he didn't care all that much and joined the others on the wagon at dawn.
+
+Throughout the next day, he started shaping occasionally, shooting rocks at whatever targets they drove past.
+
+When they made camp for dinner, Stewart came up to him. “I saw that your pack is pretty light. If you want, we could share some of our spare clothing for you to stuff it. Would make for a far more comfortable headrest.”
+
+Veron looked at the man. Stewart was taller than him, had short reddish hair and a thick beard. His eyes were green and his skin tone suggested he spent a lot of time outside. He looked strong but not overly muscly. The cook of the group. Veron had seen him skin and butcher two rabbits in just a few minutes.
+
+“Thanks. I think I'm good, slept pretty okay last night.” He glanced at his pack and then realized that Stewart hadn't left. “Is there anything else?”
+
+Stewart scratched the back of his head. “I'm not sure. Cat said to leave you alone but... you said that you’d lost some people. I don't know you, and you don't know me, But I know that it's always difficult. Just, if you want to talk, I'm around. That's all.”
+
+Veron opened his mouth and closed it again. He felt something in his chest and slowly breathed out. “Yeah. I'll let you know. Thanks, Stewart.”
+
+Stewart nodded and turned away.
+
+Veron stood there for a long moment, and then sat down next to his pack. He closed his eyes and felt a knot in his stomach. What the hell is going on? What am I doing?
+
+He thought about it, and tried to disentangle everything he felt.
+
+By the next day, he had figured out some of it.
+
+“You look like shit. Didn't sleep?” Aaron asked. He wore his plate helmet and bracers. The light armor that covered his chest, shoulders, and legs looked like a strange mix of parts, metal plating covering only specific sections, likely to reduce the weight.
+
+“Not as well as last night. Maybe I can snuggle a bit with the bird corpse later,” Veron said.
+
+Aaron laughed.
+
+Stewart gave him a look instead. They met eyes for a moment.
+
+“Thanks,” Veron said. “For what you offered yesterday.”
+
+“Sure,” Stewart said.
+
+Aaron glanced between them and nodded slightly, though he kept his thoughts to himself.
+
+At their pace, Veron assumed they would reach Perrion in about a week, give or take a few days. And he knew now why that bothered him.
+
+At first, he felt annoyed that he had to make the journey to reach Anvakar in the first place. He wanted to be there and go into the dungeon.
+
+But he realized what really bothered him were the people. They seemed uninteresting and annoying, but they weren't, and that was the confusing bit. They were hunters and mages, having tracked and killed a blood beast he assumed was far beyond him. He should be interested in talking to them, and learning from them. But he wasn't.
+
+Which meant, that the problem wasn't with them, but with him.
+
+Because he was trying not to get close.
+
+Not just because the people he knew in this world had either died or forgotten about him, but because he knew it would happen again.
+
+He would come off as crazy if he shared what he knew with them, and he knew that if they operated near and around Perrion, the curse would likely reach them. And there was nothing he could do about that, other than not getting close.
+
+Veron saw what he was doing, and it bothered him. Yet at the same time, he didn't want to change it.
+
+But what exactly is my plan in that case? Never get close to anyone ever again? Going to the dungeon alone and becoming powerful enough to do something? Is that really what I want to do with all this?
+
+He didn't know, not right now at least. It felt uncomfortable, and a part of him wanted to leave the group behind, to make the journey north by himself. And yet he stayed, finding first frustration, and then amusement with his indecision. He would get to Perrion one way or the other, but he realized as well that leaving them behind would feel like running away, and he didn't want to do that either.
+
+You stubborn old man. Well, only thirty really.
+
+Veron slept a little better that night. He came to accept that he neither wanted to leave the group nor did he want to get closer to them. It didn't feel satisfying but he assumed the thoughts and feelings just needed time, time and thinking and processing, so he gave himself time.
+
+“Have you ever shot someone with a rock like that?” Aaron asked after Veron had sent a sharpened projectile splintering against a rock some thirty meters away.
+
+“A bunch of monsters, yes. I got mixed results, but it's a really good tool to have.”
+
+“I can imagine. It's like you have a crossbow without having to carry it around or load it. But then, you don't get any combat or movement related magic, right?”
+
+“He could just use a relic,” Jayce said.
+
+“Not everyone is a runic path, Jayce,” Aaron said. “And Devotion isn’t adjacent to Elemental, so it would cost a shit load to use for him.”
+
+“Blood is adjacent,” Jayce countered. “But I see your point. Not that some magical movement will help a lot with that heavy ass armor.”
+
+“I’m right here,” Veron said.
+
+“Oh, he can talk?” Jayce asked in a dry tone. “Where’d that come from?”
+
+Veron smiled.
+
+Aaron ignored the comment. “Hey Veron, do you do spars? You’ve got a shield and a mace, I assume you fight in close quarters?”
+
+“Mainly, yes. Not sure if I’m in the mood for sparring right now though.”
+
+“Well, think about it. We could have a few rounds today, you’ve been annoying me, Jayce.”
+
+She glanced back with a smile. “Oh have I? Sure, Aaron. We can have a bit of a brawl later.”
+
+Veron looked at Stewart. “Are they talking about sex or fighting?”
+
+He shrugged. “I’m not sure with them either sometimes.”
+
+Veron smiled slightly. He thought about the sparring he did with Hayden. Learning from others would help, and if he was honest, he was itching to fight. Not something he would have expected to ever feel back when he had started on this adventure.
+
+He supposed it was like other sports, just that with a healer, most injuries just didn't really matter in the long run. And while he hadn't been particularly competitive with anything he'd done before, he found that with his magic, he cared a whole lot more.
+
+That evening, after they had chosen a spot to camp, Aaron and Jayce announced a little tournament and declared an area to be the fighting pit.
+
+Veron hadn't participated in the games and talks some of the others had had, but this time, he walked over and joined Stewart as Aaron and Jayce faced each other.
+
+“You've done much sparring?” the cook asked.
+
+“Some. But the people I trained with were always a lot stronger than me.”
+
+Stewart chuckled, cutting away at his vegetables on an impromptu work table. The start of a stew was simmering away in a black pot near him. “That's how you improve.”
+
+Aaron and Jayce stood a few meters apart from each other, the former brandishing his greatsword and the latter standing casually with a wand in her right hand and a bow in her left.
+
+Veron wondered how she would fight. Silvie and Reka were Runic Paths as well, and they had some tricks up their sleeves, but he imagined if Hayden fought them and managed to close the distance without getting stopped by chains or a blood bolt, they wouldn't be able to stand for a long time.
+
+“You don’t go for the kill. You don’t try to sever limbs,” Cat said. “Start.”
+
+Aaron immediately rushed forward, closing the distance in just a few steps. He made a strange twirl and Veron wondered if he had dodged something he hadn't even seen. His greatsword crashed into something in midair, the tension snapping into place as Jayce slightly moved her wand. Chains rushed out from her and Aaron jumped back, dodging aside before he raised his sword, blocking an arrow she shot his way, despite still holding the wand.
+
+Veron raised his eyebrows, trying to keep up with the movements. He blinked his eyes when Jayce’s form started to blur slightly, as if she had split into several versions of herself. He could see blood dripping from her eyes as Aaron rushed her.
+
+His sword glowed slightly before it broke through appearing chains, then he rushed forward again, as if he was flying. His sword scraped past something invisible and then the tension snapped, a horizontal strike cutting through one of the strange apparitions. An arrow caught him in his side but his movements didn't change, fluid and confident steps bringing him closer to the blurred forms of Jayce.
+
+He cut through another one and Veron thought it was over. A blinding flash of light flared up, Aaron caught in chains when the light faded.
+
+Jayce shot three arrows into him, standing now in front of him with another arrow pulled back and aimed towards his head.
+
+“I could take that,” he said.
+
+“You want to test that theory?” she asked.
+
+Aaron lightly pulled on the ethereal chains and sighed. “Alright. You got me.”
+
+The strange blur around Jayce vanished and she cleaned away the blood that had run down from her eyes. Veron now noticed the smells of metal.
+
+Blood and Fae Relics. Illusion and Light?
+
+“You seem impressed,” Stewart said.
+
+“He seemed unstoppable,” Veron said. Even now, he was watching Aaron pull out the arrows that had pierced through his armor one by one. He didn't even flinch, and their healer didn't make a move to help him either. As he watched the light emanating from Aaron’s hand, he wondered if he had the Way of the Healer as well, or if he was using a Relic from his own Path.
+
+“Yeah, it's usually a toss up between those two. Though, she's gotten better with that light relic. You can tell he's hesitant because of it.”
+
+“You can?”
+
+Stewart gave him a look and smiled slightly.
+
+“What's the general Path level of your group? Sorry if that's an inappropriate question.”
+
+“What's yours?” Stewart countered.
+
+Veron looked at him. He knew they were higher than him, and he had a feeling they knew that already, and he still felt reluctant to share it. Maybe because it would make him feel vulnerable, but more so, because he almost felt embarrassed. The realization amused him and confirmed once again that he was becoming a little more competitive.
+
+“I'm a Modest path.”
+
+“I see. Would have thought at least Adequate, but maybe you just seem more experienced than most at your level. Most of us are Greater. High Silver or even Gold rank in terms of the Hunter’s Guild.”
+
+“Right,” Veron said. He was getting a little more of an idea of what that meant. He had seen plenty of Gold ranks fight in Perrion, but they didn't stand much of a chance against the cursed either. Seeing the bout here and having Stewart explain that they were essentially Gold ranks felt sobering.
+
+They were far beyond what he had seen from the Wolves.
+
+“Who wants to go next?” Aaron called out.
+
+Veron glanced at Stewart, then back at Aaron. “I’d like to try.”

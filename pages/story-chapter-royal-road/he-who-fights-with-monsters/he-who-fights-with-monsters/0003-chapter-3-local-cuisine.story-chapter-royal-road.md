@@ -1,0 +1,117 @@
+---
+id: a1683dfe-8a91-59fb-9517-61076fa677b4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Local Cuisine"
+slug: 0003-chapter-3-local-cuisine
+partOf: he-who-fights-with-monsters
+position: 3
+ownLength: 1566
+unit: words
+ownProgress: 1566
+publishedAt: 2019-07-29
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/386758/chapter-3-local-cuisine"
+royalRoadId: "386758"
+markedReadAt: "2026-06-29T19:03:52.476Z"
+---
+
+Jason frowned at the object in his hand. The carnivorous mandrake proved to be the most generous monster thus far in terms of loot, producing not only an extra tin of the precious healing unguent, but also something new.
+
+Item: [Trowel of the Blood Cult] (iron rank, uncommon)
+
+A gardening implement enchanted to affect certain kinds of plant. (tool).
+
+The trowel looked rather sinister, made out of some kind of black metal with a red sheen. It carried the wear marks of having been used as a planting tool, but also a razor edge that was wholly unnecessary for gardening purposes.
+
+“Blood cult?” Jason read unhappily from the item description. “Who gardens with an evil trowel? Whose hedge maze is this?”
+
+Not having anything better, Jason kept the sharp trowel in hand, on the ready for more monsters. After checking his map again he set off, weapon in hand. Still naked aside from a pair of sandals, he was very careful about where he held it.
+
+***
+
+Jason looked at the well. It was a circle of bricks, the mortar aged and crumbling. There was a wooden bucket and crank, both weathered with age. It was the kind of rustically picturesque feature he could imagine someone putting at the centre of their hedge maze.
+
+Quest: [Stranger in a Strange Land]
+
+Jason gave a fist pump and took the pants out of his inventory. They were made of plain white linen, with billowy legs and a very low crotch fit, held up by a drawstring.
+
+“It’s like a Mennonite made some hammer pants. Did I wake up in 1991 rural Pennsylvania?”
+
+Putting aside fashion concerns, Jason slipped the pants on, walking around experimentally. They were sufficiently roomy that it didn’t feel much different to walking around without them.
+
+“I don’t suppose I can get a quest for some boxer shorts?”
+
+He waited hopefully for a few moments, but no window appeared.
+
+“Worth a try.”
+
+After being attacked by so many creatures, Jason was a mess of blood and ointment, even if the wounds had been healed. The result was the white pants being immediately stained red and unguent-yellow.
+
+With his nudity concern ameliorated, Jason was able to turn his thoughts to other aspects of his situation. He sat down on the edge of the well to think over his next move.
+
+The things he was experiencing were clearly impossible, which broadly placed him in one of two situations. One, his faculties were significantly compromised and his understanding of what he was doing was massively detached from the reality. Brain trauma, hallucinogens, some kind of severe mental break. His knowledge was too shallow and his observation point too subjective to make any definitive assessment. To the best of his understanding, though, none of those options made sense. He was too lucid, too capable of critical thinking. His consciousness wasn’t skipping around, glossing over the inconsistencies of a compromised mental state. That being said, his understanding of mental conditions was essentially nil, so that might be what crazy felt like from the inside.
+
+The big point going for the mental-impairment hypothesis was that the alternative scenario required Jason’s most fundamental understandings of reality to be somewhere between woefully incomplete and breathtakingly wrong.
+
+Either way, his only real option was to get on with it. If it was all in his head, then it didn’t matter what he did. Inversely, if it was real, and he ran around acting like it wasn’t, the consequences could be dire. He took a deep, calming breath.
+
+“Alright, Jason” he said, steeling himself. “What’s next?”
+
+Sooner or later he would need to find his way out of the maze, but the fact that his quest ended on reaching the well implied there was something special about it. He started by examining the wooden frame which had a simple crank and rope to lower a bucket, along with a little wooden roof to shield the mechanism from the weather. It only seemed to have worked to a degree, with the rope and bucket both looking the worse for wear. The brickwork was likewise dilapidated, with mortar crumbling at the touch. He stuck his head over the well to look down. To his surprise, iron rungs had been affixed to the inside of the well, leading into darkness below.
+
+New Quest: [Secrets of the Well]
+
+You have discovered a ladder descending into the well. Do you have the courage to explore the depths?
+
+“Don’t die? What kind of quest objective is don’t die?”
+
+He shook his head.
+
+“Forget that.”
+
+Jason was about to reject the quest when he heard voices coming from somewhere close within the hedge maze.
+
+“I tracked the aura of the mandrake that took my trowel,” a gravelly male voice said. “Someone had already killed it and my trowel was nowhere to be found.”
+
+“Someone with those adventurers we caught?” another man asked.
+
+“I don’t care who they’re with,” the first voice said. “I’m going to kill ‘em, cook ‘em and eat ‘em.”
+
+“I wanted to try some of that elf girl, but the mistress said we’re keeping them all for the sacrifice. Bloody waste, if you ask me.”
+
+“Nah, elves ain’t good eating. Not much meat on them, and what’s there is all stringy. That human girl, she’s the one you want. Lean and tender.”
+
+“I don’t know, Dougall; she looked pretty tough to me. And we always have humans. I just want a little variety, is all.”
+
+“Well, this lot is all spoken for, regardless.”
+
+Ducked down behind the well, Jason didn’t let out a breath until the voices faded into the distance. He ignored the fact that they were talking about elves in the face of a casual discussion on the pros and cons of eating people. Was that real, or just a couple of guys with a weird sense of humour?
+
+“Cannibals?”
+
+He gave it some consideration. Normally cannibals would be right at the top of the crazy pile, but the day Jason was having, it was at least a familiar horror. Then he considered it some more and started climbing down into the well.
+
+“What kind of lunatic place is this?”
+
+Jason was not happy with his options. A quest with the explicit objective of ‘don’t die’ wasn’t great, but wandering blindly through a maze with cannibals roaming about struck him as an even worse option. What was he going to do? Fight them off with their own trowel? There were two of them, and they were a lot bigger than a tyrannical pheasant. It might have been an evil monster chicken, but it still barely came up to his waist. Even then it got some savage pecks in. He didn’t have a weapon, so he had to get in behind, reach around and savagely choke the chicken with both hands.
+
+Jason started reconsidering his choice to go down the well when only the second rung down shifted in his hand. It was set into the brickwork at the top, the shaky mortar apparently ready to give way. Then he thought about himself hanging from a butcher’s hook and kept going.
+
+“Going down a creepy well or dodging cannibals,” he muttered unhappily. For what felt like the hundredth time he wondered where he was, what was going on and what evil prick dumped him naked, right in the middle of it. The well was quite deep, judging from the diminishing light coming from above. He kept a careful grip on the cold metal rungs as the interior of the well became dank, the sides slick and wet.
+
+“I’m definitely getting Legionnaire’s disease.”
+
+The light did not penetrate far down the narrow well, and Jason was soon moving entirely by feel. He descended cautiously, each foot carefully seeking out the next rung down. He would occasionally glance up at the shrinking blue circle that was all he could see of the sky, reassuring himself it was still there.
+
+“Maybe they’re not really cannibals,” he told himself. “Maybe they’re just talking themselves up.”
+
+Unconvinced, he kept moving down into darkness, barely able to make out his hand on the rung in front of him. He discovered he had reached the bottom when his foot met water instead of the next rung. Some experimental probing revealed it was ankle deep, enough to submerge his sandals in the icy cold. The bottom of the well was flat, but as it turned out, just as slippery as the walls. His feet slid out from under him and only his hands still gripping the rungs saved him from bashing his head against the side of the well. He ended up sprawled at the bottom of the well, dank water joining the blood and ointment in staining his new pants.
+
+“Lovely.”
+
+The advantage of his low perspective was that he found himself looking directly at a slightly darker circle in the wall of what was already a very dark well. He reached out tentatively and found it was a hole, large enough to crawl through. He didn’t know if it was the source of the well’s water or some kind of drainage tunnel.
+
+“No,” Jason said. “I’m definitely not interested in crawling in there.”
+
+“Sod off.”
+
+Jason looked up again at the bright circle of sky, then the dark circle of the tunnel. With a groan, he started probing the pitch-black hole with his hands.

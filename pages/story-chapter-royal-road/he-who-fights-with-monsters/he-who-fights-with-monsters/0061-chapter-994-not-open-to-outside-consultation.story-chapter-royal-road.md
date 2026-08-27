@@ -1,0 +1,187 @@
+---
+id: 32be6ef5-d5f0-5655-82b2-9a062d8cc7d5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 994: Not Open to Outside Consultation"
+slug: 0061-chapter-994-not-open-to-outside-consultation
+partOf: he-who-fights-with-monsters
+position: 61
+ownLength: 3169
+unit: words
+publishedAt: 2026-03-23
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3185589/chapter-994-not-open-to-outside-consultation"
+royalRoadId: "3185589"
+---
+
+Screams filled the studio as the newsreader’s face erupted, spattering the camera with blood mist and shards of bone. From the hole in the front of his head emerged a red centipede, the length of an arm. The newsreader’s body got up and staggered around like an inexpertly controlled puppet. The centipede, jutting from the face cavity, flailed about like a tentacle.
+
+One producer had the mindfulness to cut the feed before the ten-second live delay sent the horrifying images out to homes. That did not stop the cameras recording the footage that would soon be everywhere, in various states of completion. News stations would blur or edit out the worst of it, while the unadulterated footage would inevitably make its way online.
+
+The climax of the footage was the ceiling exploding as a man crashed through it like a living bomb. Clad in armour of rainbow scales, he loomed in the cloud of plaster dust and wood splinters still falling to the floor from his entrance. His eyes went straight to the blood parasite and its now-dead host. It was hunched over its third victim, the last of those too slow in running away.
+
+The abomination turned to look at Humphrey, its instincts sensing both danger and a far superior potential host. The centipede creature shot out of the newscaster’s head like an arrow, only to be snatched out of the air. Humphrey opened his mouth to breath fire, over both the creature and his own hand. In the corner, the newsreader’s abandoned corpse toppled to the floor.
+
+The white-blue flame from Humphrey’s mouth lasted only a few seconds, in which it set the room ablaze. The parasite was reduced to ash, as was the news desk and one of the camera rigs. The gold-rank dragon fire swiftly started eating through the walls and even the floor.
+
+The hole left in the roof by Humphrey’s passage was large, but the pale blue slime that followed him still had to squeeze through like toothpaste from a tube. It plopped to the floor and started firing slime gobbets from its body, dousing the flames threatening to eat their way through the building.
+
+By the time the flames were extinguished, the air was clogged with steam and smoke, heavy and throat-searing. Having completed his task, the slime shrank and solidified. He became a copy of Humphrey, but with silver hair and eyes, a sharp business suit and a neat moustache. He looked over at the victims, his expression crestfallen.
+
+“We’re always too slow,” Stash said.
+
+“No,” Humphrey said. “Be glad we kept the death count this low. You have to take the victories you can get, or the losses will crush you.”
+
+***
+
+A portal opened on the sixty-third floor of an office tower in Seoul. The first one through was Higgy, the frontline defender of Nigel Thornton’s nine-member combat section. He had no weapon, only a round shield that he wished looked less like Captain America’s. Close on his heels was Nigel, with a conjured pistol in each hand, and Jonno, with an improbably large rotary gun slung on his hip.
+
+“Thorny, this is bad, right?” Jonno asked.
+
+“Yes, Jonno,” Nigel said. “This is bad.”
+
+The looked around while the rest of the section emerged from the portal. The floor was unlit, with fallen ceiling panels and broken fluorescents. What light did come was from the windows, many of which were shattered despite the strong tempered glass. They had emerged in a bullpen, the cubicle walls bowled over, and many had dark stains or were even torn apart. The surrounding office walls were ripped open, with holes looking like a rhinoceros had barged through. The air smelled wet, with the coppery tang of blood.
+
+The group spread out as they emerged from the portal. When the last of them was out, they were followed by Neil and the portal specialist, Remy. The team took formation with them as the centre. Higgy conjured five floating shields that moved around the group in a circle.
+
+“Stay close to me and don’t make sudden moves,” Neil told Remy. “They know what they’re doing, so don’t get in their way.”
+
+“Yeah, listen to the thick elf,” said Darce, the team’s singular woman. “I don’t want you getting him killed before I rope him into a bit of the old rough and tumble.”
+
+She was equipped with what looked like a flamethrower by way of a steampunk convention. The backpack looked like a nineteenth century boiler and rattled alarmingly.
+
+“Darcy, do I have to report you to HR again?” Neil asked.
+
+“The Asano Clan has a human resources department?” Remy asked.
+
+“Mouth closed, ears open,” Nigel commanded. “Green, what have you got?”
+
+“Running and screaming from the lower floors, but it’s general panic, not something actively after them. I’m hearing breathing in a few isolated pockets on the floors above and below us. People hiding would be my best guess. Nothing on the blood oak.”
+
+“What about you, Davone? You’ve got the strongest aura senses here.”
+
+“Silver rank vampires,” Neil said. “A surprising number. I’m not picking up any golds, or the blood oak, but I’d expect both with that many silvers. I haven’t trained my perception for scouting like Jason or Sophie. Or even Lindy. The blood oak will know we’re here, too. We’ve discovered that they release hard to detect spores that it uses to monitor an area.”
+
+“How reliable is tracking the blood oak by those spores?” Nigel asked.
+
+“Not very,” Neil said while looking around at the dark stains. “What I need is blood from where someone managed to wound it. Everything I’m seeing here is human.”
+
+“You can tell that?” Remy asked.
+
+“I’m a healer,” Neil said. “I don’t know scouting, but I know blood.”
+
+“Let’s go find some, then, if we have to bleed the damn thing ourselves,” Nigel said. “You up for this, portal guy?”
+
+“Your people are all silver,” Remy told him.
+
+“My people have a lot of training and even more experience,” Nigel said. “If you’re going to stick with us, I need to know you won’t break when we need to rely on you. If you’re not a hundred percent, I want you waiting on the other side of the portal.”
+
+“I’m solid,” Remy assured him. “The thick elf cured my family’s supposedly incurable genetic blood disorder, and I’ll do whatever I have to pay that back. And with portal specialists at a premium right now, I have a way to do that.”
+
+Nigel looked Remy in the eye for a long moment, then nodded.
+
+“Alright,” he said. “Stay close to Thick and do what he tells you.”
+
+“That is not my new nickname,” Neil said through gritted teeth.
+
+***
+
+After losing her position with the United Nations, Holly Macrossan had taken a position with the Australian government. Her full title was Liaison to the Multinational Supernatural Response Taskforce for the Department of Prime Minister and Cabinet. She sat in the Asano village conference room. Her familiar, Gumboot the cat, was in her lap, enjoying being absently scratched behind the ears.
+
+Every other seat but one had a hologram projecting a member of the taskforce’s participating members. The other person physically in the room was Jason Asano, seated at the table’s head.
+
+“Mr Asano, I hope you understand the boldness of your proposal,” said the hologram of Claire Danvey, US Secretary of State.
+
+“I am well aware,” Jason said. “I’ve made no secret of my intentions to move the Earth forward in certain metrics. My hope had been to advance it socially, and only bring power into play as the world was ready for it. I’ve come to realise that not only was it arrogant to think I could change the social fabric of an entire planet, but that I had no right to try. But power remains within my ability to grant.”
+
+He plucked a glass of juice out of nowhere, took a sip and it vanished again.
+
+“Magitech is something that’s been researched in secret, going back to the industrial revolution,” he said. “Since magic went public, magitech development has leapt forward, yet a number of critical bottlenecks have prevented the greatest leaps forward in practical implementation. Those bottlenecks are almost exclusively related to the magical theory that Earth has always lacked.”
+
+“The terms of your proposal are clear enough, Mr Asano,” Holly said, gesturing with a computer tablet. Your promises are certainly grand. Unfiltered access to the magical knowledge of you and your people. A training centre designed to accelerate the spread of that knowledge. Full participation in the examination and reverse engineering of the dimensional vessel you seized.”
+
+“Yes,” Jason said. “I’m offering you the keys to the kingdom. Every single thing that you’ve been trying to worm out of me. In the face of that, I think a few concessions on your part is a reasonable expectation.”
+
+“Reasonable?” blurted the UK Foreign Secretary. “You want control of every government and company on the planet!”
+
+“’Control’ is a strong word,” Jason said calmly. “I’ve simply placed a few conditions on the use of what I intend to provide you. If you have an issue with those conditions, all you need to do is not participate. Don’t take what I am offering.”
+
+“Mr Asano,” Claire asked. “No one in this room is foolish enough to think that declining will do anything other than remove the organisation in question from any future relevance. Do not treat us like fools and we will do you the same courtesy.”
+
+Jason smiled.
+
+“Then let me be plain. The details of my proposal were drawn up with considerable input from people with experience in diplomacy and business. Those details are open to negotiation. The core principals come from me, and will not be compromised. To be clear, those core principals are twofold. Firstly, any developments made in technology, magic or magitech that uses the information my people and I provide will be open source. No proprietary data or designs. No patents. Not only will there be no secrets, but all developments must be published within in the public sphere, according to a deadline to be negotiated once the agreement has been provisionally struck.”
+
+“That will disincentivise the companies with the best resources from pursuing that research,” Claire said. “That will hit the US and China especially, along with other regions nations where the Network factions are dominant.”
+
+“Yes,” Jason said. “I intend to focus on nations where Cabal social programs have been rapidly advancing economies and infrastructure. South America, Africa. Oh, and I’m going to need you to forgive third world debt. You don’t have to, but I’ll just give them all enough spirit coins to pay it off if you don’t. I promised the god of trade in the other world not to tank the economy, but you don’t have one of those here. A god of trade, I mean. Obviously, you have an economy.”
+
+“I’m sorry,” the Foreign Secretary said. “Did you just order the most powerful nations on the planet to eliminate third world debt?”
+
+“Of course not. I just told you what I need, and what will happen if I don’t get it. You might recognise the approach from everything your nations have done ever.”
+
+“I know you understand what you’re stirring up here, Mr Asano,” Claire said.
+
+“I do,” Jason acknowledged. “And I apologise that I’ve been operating with tiptoes and whispers thus far.”
+
+“Is that how you would categorise it?” Holly asked.
+
+“Yes,” Jason said. “I suggest you hold your judgement until a few examples have been made. Which they inevitably will be, when my ability to regulate the terms of my proposal are tested. Which brings us to the second of my two principles: The use of any magic, technology or magitech developed from the information we provide. You’ve all seen the nitty-gritty details in the proposal, and they are up for debate. What isn’t is the core premise: Any organisation that attempts to interfere with any other using the technology derived from the magic we provide will suffer the repercussions.”
+
+“And who adjudicates this?” Holly asked. “And what are the repercussions of violating them?”
+
+“Up for negation, although the final word is mine, on both counts. If I decide that a line has been crossed, I will redress the infraction as I see fit. What I’m offering is grand, but comes with a level of control that some might call tyrannical. Your options are participate, don’t participate, or pretend to agree and then try to stop me from enforcing my will upon any who stand against it.”
+
+“And what about rogue nations that will definitely take this open source technology and refuse to adhere to your dictates?”
+
+“Anyone who develops or utilises magitech derived from the knowledge we provide does so with the understanding that they will be bound to the strictures of my proposal. That includes rogue nations trying to intimidate or invade their neighbours. It also includes anyone attempting to manipulate such a nation into acting, in an attempt to drive me to extreme action. Note the expression on Secretary Tran’s face, likely prompted by his realisation that I was listening in on certain strategy sessions between him and his president.”
+
+“That is highly inapp—”
+
+Secretary Tran’s hologram vanished.
+
+“Well,” Jason said. “Things are getting a little heated, so let’s leave things here, for now. You all know how to reach out, as needed.”
+
+“You’re trying to intimidate us into acting as you want,” the Foreign Secretary accused.
+
+“Yes, Mr Foreign Secretary. If you want to know more, I recommend an internet search on ‘gunboat diplomacy.’ Or just ‘British Empire,’ if it comes to that. Here is the long and the short of my proposal: I will see to it that magitech on Earth advances at a frankly ill-advised pace. In return, I will be the arbiter of when, where and how those advancements are used. Or not used, as I imagine will be more important. My control, however, will have a shelf life. One decade, after which, the Earth and its people can do as they please.”
+
+“Mr Asano,” Claire said. “After your briefing to the world leaders, it’s clear that this proposal is aimed at the point you claim the bridge between worlds will fully open. I think I can speak for everyone here in telling you that one question has occurred to all of us: Are you getting us ready, or fattening us up?”
+
+Jason leaned back in his chair.
+
+“Madam Secretary, whatever my answer may be, would you trust it?”
+
+“That’s hard to say, Mr Asano, but I have a question for you in turn. What happens if the world collectively rejects this plan?”
+
+“Then I move onto plan B.”
+
+“Which is?”
+
+“Not open to outside consultation.”
+
+***
+
+The ambush on Nigel’s team came hard and fast. No less than nine gold-rank vampire lords and dozens of silver ranks poured through doorways, clambered through holes in the ceiling and even burst through the floor. Higgy’s shield magic was powerful, at the peak of silver rank, but was not up to blocking gold-rankers unenhanced. Neil’s Hero’s Moment spell gave him a powerful boost, but he still focused on protecting his silver-rank teammates. He trusted his gold rank allies to do their part.
+
+Nigel’s twin pistols blazed light from the barrels. A sun essence had given him the power of light bullets that, at his current rank, were anathema to the vampires. Neil was also proving that he, while not an attacker himself, was more than capable of fending them off. His Burst Shield power provided short-lived but critically timed shields that blasted vampires off the floor and ceiling like pinballs. One even shot a vampire lord on a flat trajectory to bounce out of the building altogether. With more than sixty storeys to fall, through the light of day, that took one of the vampire lords out of the fight.
+
+Neil also managed to summon his chrysalis golem, which added a powerful defender to the group. His Reels of Fortune spell was another powerful asset, a conjured set of slot machine reels. They periodically rolled to deliver boons and healing to allies, or afflictions and damage to enemies. The effects were random, but ranged from strong to outlandishly powerful. One jackpot roll sent out swarms of tiny suns, that annihilated a dozen silver-rank vampires, one of the vampire lords and the blood oak, sneaking up on the team.
+
+Remy proved to be a dark horse, the vampires finding his dimensional manipulation powers to be tricky and dangerous. He had the same Juxtaposition power as Clive, allowing him to switch-teleport allies and enemies. A vampire about to savage a member of the team would suddenly find itself attack its own allies. Neil, familiar with the tactic, was always ready to shield the team member suddenly dropped into the enemy line.
+
+It was clear that the vampires had sent powerful members to the ambush, armed with bizarre powers, blood magic expertise and raw numbers. Many of those were foiled or even returned to their attackers by miniature portals popping up across the battlefield. Alongside them were dancing blades with only two dimensions, so sharp that even gold-rank limbs were in danger of being severed.
+
+The fight was brutal, but the need to defend the silver rankers on Nigel’s team was proving the weak link. Remy tried to portal them out, but the vampires recognised the threat, either disrupting his attempts by harassing him, or destabilising the portals with their own magic.
+
+On the verge of being overwhelmed, Neil used one of his most powerful abilities to draw his allies into a dimensional space. The Reaper’s Redoubt power gave his allies succour and plunged his enemies into darkness. Magical protections were shattered by resonating force magic, blood shields falling apart and hardened flesh cracking open. Vampiric bodies had their life force tainted with death energy, causing their bodies to rapidly necrotise. The normally powerful vampiric recovery was hampered by afflictions that crippled any kind of healing or recovery.
+
+While secured away, Neil and his allies rapidly recovered mana. Neil made sure everyone was healed as Nigel regrouped the team and laid out the plan for the next stage of the battle. They steeled themselves to resume the fight when the power ended, only to find one man standing amongst the fallen vampires. He was casually draining the life force from a vampire lord hanging limply in his grip, while the others were being devoured by a carpet of leeches.
+
+“G’day all,” Jason said. “I came to help, but all I found were these guys, and they were easy to clean up after what you did to them. Nice job.”
+
+“I thought you had a meeting,” Neil said.
+
+“Yeah, I left them to their deliberations.”
+
+“How do you think it’ll go?”
+
+“I don’t know. If I were them, I’d probably tell me to go jump, to be honest.”

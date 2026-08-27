@@ -1,0 +1,113 @@
+---
+id: 0bf47a08-732c-5410-a78f-70bb08ca4ec1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 849 - Against Nyssa Volare"
+slug: 0176-chapter-849-against-nyssa-volare
+partOf: hell-difficulty-tutorial
+position: 176
+ownLength: 1938
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3743721/chapter-849-against-nyssa-volare"
+royalRoadId: "3743721"
+---
+
+[Eclipse] explodes across the area before I instantly pull it back, forcing it to linger on the surface of my skin. My mana circulation shifts, and I weave my kinetic and mana based reinforcements together.
+
+An [Empyrean Lance] forms at my side, and I reach out and grab it. It breaks apart under my touch, only to [Weave] back together into the form of a short sword.
+
+[Eclipse - lvl 71 > Eclipse - lvl 72]
+
+[Eclipse - lvl 72 > Eclipse - lvl 73]
+
+[Weave - lvl 20 > Weave - lvl 21]
+
+[Weave - lvl 21 > Weave - lvl 22]
+
+[Manifestation - lvl 47 > Manifestation - lvl 48]
+
+My skills are leveling up rapidly, as if struggling to catch up to my current state. This puts further strain on my mind, as there are simply too many high level skills advancing simultaneously.
+
+But when did I ever care about that?
+
+In a burst of speed, I dash at Nyssa, the force of my takeoff shattering the mountain peak behind me. Projectiles of hardened air slam against my skin. Most break apart since they’re somewhat mana based, but her [Weapon] is truly something else, and shallow cuts begin to form on my skin.
+
+My sword clashes against her blade of flames. The impact sends out a pulse of heat that scorches the earth and lashes of mana with gold and white cores that evaporate anything they touch.
+
+I absorb the heat from the molten ground beneath my feet, even as it splashes around like water every time I move, but failing to burn me. Our blades clash again and again in a blurred rhythm. All the while, more projectiles continue to hammer against me and burst open.
+
+The spine chain made of rock and flesh lashes out at us, and Nyssa deflects it toward me, but I release an omnidirectional burst of kinetic energy. Part of the blast pushes the chain back, while Nyssa cuts through the portion heading for her, forcing the links to whistle past her on either side of her. My strengthening intensifies further. I dodge another strike and close the gap, driving my sword toward Nyssa’s chest.
+
+For a moment, she seems as though she might not catch up to the speed, but in my state of thought acceleration, I watch her eyes follow the attack. Then her speed increases further, and her free hand hits my wrist in just the right way to disarm me.
+
+[Eclipse], stretched across my skin, starts to expand further, taking in the floating sword made of empyrean mana. And in that short moment, I feed it even more power before it explodes between us.
+
+Nyssa uses the push to boost herself further toward Morwag, and her sword made of fire slams against his chest. Her movements blur as she turns back to me and swings her hand dozens of times in succession, blocking the rain of projectiles crashing down around her.
+
+Morwag attacks her, but she ducks under the strike and still finds the time to almost elegantly use the back of her hand to redirect the [Empyrean Lance] I launch her way. It instead stabs directly into Morwag’s shoulder.
+
+Nyssa jumps and runs along the spine chain, moving to attack her, then jumping and reaching me in a massive boost of kinetic energy.
+
+Within my mind, I feel like I’m back inside my mental space. I track the movements of her mana, I reinforce my body, and I match her speed.
+
+Nyssa reaches into the air to turn the mana around me into her [Weapon], but I tear the attempt apart with a ferocity that almost surprises me for a moment. All the mana surrounding us slides into my control instead, even without me needing to reach deep enough to use the fragments of that long dead god.
+
+Something inside me gets annoyed by her attempt, so the mana starts to oscillate over my hand, and I boost myself towards her as I continue to adapt to the strain such speeds are putting on my body.
+
+[Selective Adaptation - lvl 8 > Selective Adaptation - lvl 9]
+
+I catch up to her and slash my hand across her neck, only for her to move the perfect distance away. It is the smallest possible movement to get out of my reach. She pays it back with an attack of her own, hitting me with an open palm in the middle of my chest.
+
+I absorb all the kinetic energy from the blow, but the defensive layer on my skin gets blown apart by her [Weapon], even though I block most of the impact. With my body reinforced, I stagger back, and waves of mana shoot from me, crashing against her to stop her from pursuing the attack.
+
+She stands there like a lighthouse in the middle of a stormy sea, deflecting it all.
+
+[Eclipse] expands now, draining the colors from the area as I force all the mana within under my control and send it crashing against her.
+
+Every time she swings her hand, she splits it apart, deflects it, or parries it. Her heart continues to beat, sending waves of her own kinetic energy pushing against my attacks. The light burns my skin before I absorb the heat and once again increase my output. As per my training, I try to keep the efficiency high, but the longer we fight, the more natural it feels to push harder and ignore it. The last seal on Ignition Heart partially releases as I start to redistribute that heat into mana.
+
+My vessel manifests behind my back, twice my size, and a halo forms over its head. Inside the halo, mana spins and pulls on more and more of the ambient mana.
+
+How did that exercise go? Was it something like this?
+
+[Mana Manipulation - lvl 83 > Mana Manipulation - lvl 84]
+
+All the mana around me moves and swirls. I imagine two sheets of paper, one falling from the top and another from the bottom, as they touch and begin to slide against each other in opposite directions.
+
+The air screams, and a wide, horizontal cut slams into Nyssa and Morwag behind her.
+
+Moving quickly, Nyssa slashes her sword from the ground toward the sky and cuts through the attack once again. Meanwhile, Morwag takes the full force of it. His primordial energy flares as he attempts to unbind it all, but he fails to do so. A deep, horizontal cut now marks his chest, but he binds the wound closed and leaves his natural regeneration to take care of the rest.
+
+In the midst of that, the albino demon reaches him, and his unbinding flares up again as he destroys her flame sword.
+
+Two sheets of paper touch each other once again and slide. With a scream, another cut shoots towards them. So wide that it neatly cleaves a nearby mountain in half with an extreme degree of smoothness before flying toward Morwag, whom Nyssa has moved behind. The muscular demon unbinds as much as he can and stares at me with a smirk.
+
+In my mind, sheets of paper begin to rain from the sky. Multiple layers slide and touch, and in response to my control, my mana moves to mirror exactly what I’m imagining. Multiple cuts shoot through the area, some carve into the ground, others ruin entire forests, and another flies far into the distance with a low rumble.
+
+Morwag stands there, still missing the hand Nyssa cut off. His spine chain has broken and returned to its original form, and two more deep cuts mark his body. He tenses his muscles, the act forcing blood to spray from his wounds, and he tanks a kick from Nyssa. He even binds himself to a specific point in space so his body does not move, choosing instead to endure the full force of the blow.
+
+They exchange multiple blows, as the demon refuses to budge while dodging my attacks. Nyssa swings a sword made of air to deflect another one of my cuts and, as crazy as it sounds, her kinetic output increases. Her heart now beats only once every three seconds. It slows from the calm, resting state of sixty heartbeats per minute she kept for the entire fight down to just twenty. Despite the drop in heart rate, her power increases significantly.
+
+Geysers of blood explode from Morwag as each of her attacks damages his body. She cuts off his other hand, blinds his eye, and, by jumping and grabbing his horn, slams him to the ground before kicking him in the head.
+
+Not missing a beat, she deflects my attack as it destroys the area further and uses another beat of her heart to move toward me. She jumps over my attack, slashes through waves of my mana expanding outward, and reaches me with swords made of rock and air.
+
+The projectiles of dense mana I have been placing high in the sky slam against the ground, and she dances between them in a way that makes it look as though she could avoid falling droplets of water. Her blood burns in her veins as she ignores the mana radiation I’ve been releasing, which I am sure would kill most beyond attendees by proximity alone.
+
+One of her swords cuts into my side, and I grab her hand, moving my head to slam it into hers.
+
+Nyssa tilts her head slightly, and her pointy horn almost stabs into my eye and instead draws blood from my temple. All the mana gathered around us is pulled in close as my vessel spreads its arms wide. That mana oscillates and resonates, constantly changing frequencies and cutting everything around us. It reduces even particles of dust and blades of grass into increasingly fine slices, entirely erasing the nearby trees.
+
+My body moves faster than hers, and while still holding her hand, I ignore the tearing in my muscles as my skill lags to adapt. I watch her mana output and attack her just to distract her slightly. As her control slips, I push by expanding [Eclipse] and disrupting her use of mana.
+
+At that same moment, my vessel slams its hands together, and the oscillating mana crashes against both of us.
+
+Hardly knowing what happened, I find myself flung back as all my mana pushes outward. My arm is broken and twisted before I circulate thermal energy through it, snapping it back into place.
+
+Nyssa stands in the middle of it all with just a small cut on the back of her hand. Watching me curiously, she lets the blood flow down across her fingers until it drops and begins to gather. The wound starts bleeding more as she pushes her blood out until there is enough to stretch into the shape of a sword.
+
+As she takes a step back and takes a stance, I dip my finger in the blood dripping from my head where she cut me with her horn, and moving it across my forehead, I draw an inscription with it, using it to slide deeper into thought acceleration.
+
+Even then, I barely catch her movement as her sword stabs far too close to my chest, right next to my mana heart. The wound around it burns and sizzles, and my Empyrean Ichor reacts like a nest full of hornets.
+
+Nyssa kicks me off her sword, breaking what feels like all of my ribs, just as I teleport away after leaving behind a cube with a golden and white core that explodes with the force of a nuke.

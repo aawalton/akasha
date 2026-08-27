@@ -1,0 +1,145 @@
+---
+id: 2aecb2ef-ea7e-5611-8845-b46eae646e65
+page-type-slug: story-chapter-royal-road
+title: "Chapter 762 - Fragment"
+slug: 0087-chapter-762-fragment
+partOf: hell-difficulty-tutorial
+position: 87
+ownLength: 2241
+unit: words
+publishedAt: 2026-03-02
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3110014/chapter-762-fragment"
+royalRoadId: "3110014"
+---
+
+I continue walking through the dungeon, not stopping for a moment as I count down my remaining time. The tunnels I’m walking through are basically just a tube with a stone floor, and the rest of the arch and walls are transparent, showing off the glowing water surrounding the place. An array of huge animals are swimming through that water. Whales even bigger than normal, sharks as big as ships, jellyfish glowing in a multitude of dangerous-feeling colors, along with many others.
+
+Once in a while, they throw themselves against the wall and burst into the tunnel with a cascade of water as they do their utmost to get to me and attack. Each time they do this, I barely pay them any mind, raising my barriers and killing them without hesitation. My mana flares up into powerful projectiles. Arms form from the mana-saturated air and tear them apart, or I fight back the water with my flames.
+
+A whale swims right over me, dark red in color, with big black eyes. With a keening call, it gathers speed like a race car and crashes through the tunnel to smash me down.
+
+One of my mana arms forms next to Septa and throws her towards me. Then the barrier forms around us, rippling on the surface as the whale hits it. It opens its mouth far too wide, with its jaw breaking as it tries to bite against that barrier. Mana around me rises further just as it bites, taking the entire barrier into its mouth.
+
+I expand it to multiple times its original size, dislocating the beast’s mouth and breaking it. Water mixes with blood and blubber as a spike grows from the barrier, taking on a purple hue and piercing through the entirety of the creature’s massive body, leaving it to twitch a few times before it finally stops moving and floats passively in the water.
+
+I continue to walk as a dozen sharks throw themselves against the corpse and start devouring it. Meanwhile, Septa, who’s bitten into my leg again before moving a bit away, follows me.
+
+"Can he see me through your eyes?" I ask her.
+
+The spider stops and tilts her body to tilt her head while staring at me with her many pairs of unblinking eyes.
+
+"I guess that's a no," I answer.
+
+Another whale appears, this one attacking me with a sonic stun that vibrates through my skull. I just wave my hand, and my mana gathers as I proceed to channel it. A projectile as long and thick as a ship's mast skewers it all the way through before detonating and releasing the kinetic energy gathered inside, causing pieces of whale flesh to rain down throughout the tunnel.
+
+I stomp on the floor, sending a burst of kinetic vibrations out ahead just as a multitude of octopuses fill the tunnels. Then I fire off a few more bursts of kinetic energy after that, breaking them apart and piercing their bodies as I continue on to stride over their corpses.
+
+I manage to form a barrier just as a series of attacks make contact in the form of high pressure water-jets, and my kinetic pulse bounces off something trying to hide behind the wall of water in front of me. Mana gathers in front of me, spinning like a whirlpool, then explodes outwards in a torrential wave. Just raw, compressed mana. Before it even hits the target, the expenditure is replenished through my Ignition Heart and my conversion of its thermal energy into mana.
+
+I repeat the same thing three more times, all in a mere two seconds. When it stops, the remaining mana in the air buzzes deeply, and I can almost taste it on my tongue.
+
+The wound on my back stretches, sending pain through my body as I take an elongated step with my kinetic movement, launching me toward the opponent. More barriers form in front of me, deflecting the narrow streams of the water jets, as I stare at the source, and my mana projectile bounces uselessly off the shell of the turtle I find there, as does the next one, though I’ve compressed even further.
+
+Then I simply throw an Empyrean Lance, and a notification rings through my mind.
+
+[You have defeated Great Turtle - lvl 320]
+
+Another barrage shoots my way, which I block again. Another lance fires in, causing a second notification to ring out. Continuing to walk, I shoot one after another, racking up more notifications.
+
+[Empyrean Lance - lvl 35 > Empyrean Lance - lvl 36]
+
+Gradually, the tunnel starts widening. Outside it, a myriad of differently colored, shining jellyfish swim, not attempting to attack. I shoot one of the lances at the wall, but it just bounces off, unlike the monsters, which seem free to pass through to get inside.
+
+The widening tunnel opens into a chamber where a single animal waits. An eel, with lightning flickering across its skin, swims through the air as if it were water. It looks to be about as long as a car or two, and its body is nearly as thick as my torso.
+
+That lightning around it shoots at me. Though it’s entirely mana-based, so I let mana gather in my eyes. I peek through the attack and read the wavelengths as a few of my sub minds merge into one to deal with the information and calculations. Under my gaze, the structure of the attack unwinds, and all that’s left to crash against my body are just the harmless mana particles of the dissipated strike.
+
+Multiple bolts follow. Each stronger and faster than the one before. They come from all sides, some even aiming at Septa.
+
+Still, each of them breaks apart exactly like the first.
+
+The eel grows in size until its body nearly fills the chamber, and lightning forms into the shape of three pairs of huge, luminous wings. The blue color deepens.
+
+I reach out with my hand and manifest a single orb of mana, throwing it to the side. All of the lightning shot at me twists through the air and crashes against the orb as if attracted to a lightning rod.
+
+Then a barrage of my compressed projectiles rains unendingly against the floating eel, tearing holes through its body.
+
+[You have defeated Lightning Eel - lvl 356]
+
+When the eel is dead, I turn around and approach Septa, who stands up on her four back legs and raises her upper body, threateningly spreading her front four legs. She even shifts from side to side. I tilt my head in confusion at the display and take another step closer, offering her my leg.
+
+"You aren't going to bite me?" I ask.
+
+All those eyes look at me. Deep black orbs lacking eyelids and making it difficult to read any emotion.
+
+Septa then lowers herself onto all eight legs and moves a bit closer. She taps on my leg a few times while looking up at me. I just nod and stand there. She swiftly bites into my shin before jumping back, returning to her threatening position on her back legs with her front legs spread wide.
+
+Seeing that I don't react, she lowers herself again and stares at me. Then she comes closer and bites me longer and deeper before letting go and walking away.
+
+Once again, I observe how her venom spreads through my body, continuing to evolve and mutate. As before, I realize that if I didn't have Lily’s healing marks on me, it would be killing me. The poison, toxin, or whatever its specification is, just evolves far too quickly and modifies itself to become stronger. It even corrodes mana, and that’s the part I observe the most. With my new eyes, there is a lot I can learn from it.
+
+It is possible that I could fight against it with an abundance of thermal energy or black mana, but I know how much it would require. In light of that, Lily’s improved healing marks are... just scary. She changed something about her healing after the last time I came to her with wounds I couldn't heal. It started after we met Luan and Faora for the first time. In the end, though, it’s a good thing for me.
+
+Spitting out a glob of clotted blood, I turn away again and head deeper into the dungeon, where I sense more powerful signatures.
+
+I don't let the toxin or the wound on my back bother me at all. After the hell that was the body upgrade, they barely qualify as a nuisance.
+
+It takes me about an hour to reach the end of the dungeon, which has been growing more dangerous the deeper I go. The monsters or awakened animals, or whatever they are, start getting closer and closer to level 400. I think it is safe to say that this is currently, by far, the most dangerous dungeon on Earth, though more lethal ones are sure to appear when the tutorial ends, particularly when people start reaching the rank of Champion, and as the Pairing progresses. Of course, the one holding the Sovereign Spark will be the most dangerous of all.
+
+Still, considering the value it holds, I consider this dungeon way too easy. Getting out of the tutorial early could mean a sure Fragment, though I still think the average Beyonder would’ve probably died attempting it. Even so, it’s not that simple. For example, I don't think I would have been able to find it so quickly without the coordinates given to me.
+
+As for the last boss standing in the huge chamber between me and the small room holding a fragment, it’s a leviathan, floating in the air just as the eel did before.
+
+It’s about the size of a Boeing airplane, and its body coils through the chamber, so massive that the walls seem to have been built around it rather than serving to actually contain it. Dark scales overlap like armored plates, each one deep blue and green. The air almost visibly bends around it like waves dragged by its sheer presence.
+
+The head is massive with a blunt, armored skull and jaws lined with inward-curving teeth longer than spears. And when it breathes, mana spirals out and in toward its mouth.
+
+Two pale, luminous eyes lock onto me. The pressure of its gaze presses against my mind like the weight of an entire ocean. It uncoils further, claiming the space, certain that anything facing it will break.
+
+[Lesser Leviathan - lvl ???]
+
+I let a deep breath out.
+
+[Mana Manipulation - lvl 75 > Mana Manipulation - lvl 76]
+
+I lock my gaze with the leviathan, and the mana flooding through me surges out, riding the currents I’ve created.
+
+[Current - lvl 24 > Current - lvl 25]
+
+[Current - lvl 25 > Current - lvl 26]
+
+[Current - lvl 26 > Current - lvl 27]
+
+[Current - lvl 27 > Current - lvl 28]
+
+[Current - lvl 28 > Current - lvl 29]
+
+[Eclipse - lvl 63 > Eclipse - lvl 64]
+
+My eyes burn in my sockets as I look at the monster and the mana that surrounds it.
+
+Our mana explodes simultaneously. Its power spreads like an ocean, while mine surges like torrents of water clashing against its fury. It feels like it’s been ages since I last let my mana run wild, continuously channeling it in its raw form.
+
+The more they crash and the more I channel, the stronger my Predation passive becomes and the more I get used to my eyes. Every attempt to push at me or to avoid me, I face down with a cold, calculating mind and eyes that see through everything.
+
+Without using the Ignition Heart to get more mana, the Leviathan easily possesses more than I do. Yet, my torrential waves and my currents aren’t being pushed back at all.
+
+I move my hand, and my mana responds, flowing in sync. It collides with the ocean of mana, overtaking it as I channel it through myself. My gaze shatters any control the monster once had over its mana, and I claim it, watching the colors drain from the area. Only black, white, and the brilliant blue of mana, shimmering like water, remain.
+
+That whirlpool of energy twists between us, entirely under my control, before exploding forth once more. With a single, devastating surge, it strikes the monster, dragging it beneath its waves. And the mana continues to batter it, tearing scales from its body and grinding flesh until the bones beneath are revealed. The relentless energy hammers on, and slowly, the creature ceases to move, finally falling still.
+
+[You have defeated Lesser Leviathan - lvl 399]
+
+[Lvl 367 > Lvl 368]
+
+Wraith Dance brings me closer. I grab a few scales and pieces of the heart, storing them away before I make my way into the small chamber.
+
+A Fragment hovers in the air in the middle of the room, and I read the text floating over it.
+
+Fragment of the Nameless Tree
+
+The crystal is a translucent light green, with swirls of soft yellow, blue, and deeper green shimmering within.
+
+Without hesitation, I touch it with my left hand and watch as it sinks into my finger.
+
+It moves under my skin before it settles on the back of my hand, mostly submerged while leaving part of it to poke through.

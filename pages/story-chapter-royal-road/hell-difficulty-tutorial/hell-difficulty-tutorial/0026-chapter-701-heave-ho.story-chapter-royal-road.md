@@ -1,0 +1,127 @@
+---
+id: f4ea142b-546e-5761-920b-8c7df77c412f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 701 - Heave-ho"
+slug: 0026-chapter-701-heave-ho
+partOf: hell-difficulty-tutorial
+position: 26
+ownLength: 2227
+unit: words
+publishedAt: 2025-11-30
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2807202/chapter-701-heave-ho"
+royalRoadId: "2807202"
+---
+
+POV Nathaniel
+
+The underground hallways are quiet and dark, and the barely detectable presence of that eerie pull intensifies the deeper we go. There are no more traps at all, and no monsters either, not a single living presence I can detect. Just us walking, while some keep up quiet conversations.
+
+A bit more than half of the group also decides to split away and head off in two distinct groups, each going in a different direction. There’s probably something I could say regarding the old cliché of splitting the party just to be killed one after another, but I’m honestly more surprised the stubborn demons have endured as long as to follow us so far in relative safety. It’s quite possible that some of them will die, but it is not like they haven’t taken that into consideration.
+
+The ones staying likely think we will get ourselves into a more dangerous situation, regardless. Or rather, they’re relying on and strongly hoping for it.
+
+We also finally stumble upon some loot. A long hallway-like room appears, with its right wall trimmed perfectly flat and smooth to the point it almost stops feeling like stone. It’s pure white and lined with dozens of weapons. All of similar makes and styles. The black metal is striking against the white of the wall, and each one has been inlaid with a single red mana stone about the length of a cigarette, but thicker and uneven, with barbs protruding outward from the central mass.
+
+I haven’t seen a mana stone like that before. They’re also surrounded by red inscriptions, which connect them to the black metal of the weapons and distribute their energy across the surface.
+
+There’s an axe, spear, greatsword, and others besides, and each one looks as if they’ve been displayed for exhibit in a museum. Each of them is described in a similar way, damaged, mid arcane, and forming a set called False Blood.
+
+Each weapon is described as a prototype made by a crafter who reached too far in his attempts to harness mana, starting with blood, and in the process, discovering something unexpected. The red mana stones are called Blood Receptacles, which feed on blood and, in exchange, awakens the weapon’s devouring ability while supporting their wielder with some sort of body strengthening.
+
+The first demon to touch one of the weapons, the dagger specifically, now lies dead. The moment he touched the handle, the small protrusions on it cut him, draining nearly all of his blood in seconds, without so much as a chance to release the dagger before it was too late.
+
+He now lies there with his face twisted in pain and shock, and very pale. The red stone in the dagger lying on the ground next to him grows just that little bit darker red.
+
+He wasn’t weak, and the weapon is damaged, unfinished, just a prototype. Mid-arcane weapons are powerful, my own Fracture was the same rank, but it still feels like it was a bit too much to have killed him so quickly.
+
+Even so, this set carries similarities to my Fracture. Imperfections that in some way make them worse than their rank, but in other ways, these sacrifices make them stronger.
+
+No one seems too shocked or scared by the death. Everyone who accepted the invitation to this event expected that some of us would not make it. So the demons that were somewhat close to him take his equipment and burn his body with thermal energy after pulling him to the side, until nothing remains.
+
+Just a few minutes ago, he was one of the lively maniacal demons going through these hallways with us, and now not even a body remains. It’s likely that most of the people who knew him will never find out what happened, and when they die as well, even his name will be forgotten.
+
+It is the kind of thought I often get in situations like this.
+
+With my constitution, I would likely die even quicker than the poor demon guy, so I don’t even try to touch any of these weapons, I just observe them instead while thinking. Are they really that dangerous, or does the act of touching them change the way they’re seen by the system and our natural barriers? As if they were something we’d equipped, allowing them to affect us more easily? Or am I just overthinking something that doesn’t exist?
+
+I could probably try asking Chris, Victoria, Weslin, or possibly even Malika, but I don’t feel like it. There are just some things I’d like to come to my own conclusions about.
+
+I’ve certainly seen it enough times, people learning from books and following the knowledge they gained from them without giving the information the proper thought. To me, it always feels as if they’re just limiting themselves. There are things to be gained, sure, but you also risk taking on the thoughts of the person who wrote the book in the first place and subconsciously wrapping yourself up in their conclusions.
+
+“Are you caught up in one of your more philosophical moods?” Victoria asks as she takes a seat next to me. Like me, she’s decided to let the others deal with the weapons. As far as I know, she’s not interested in the items at all.
+
+“It helps me clear my mind and make decisions before the situation requires them. I just like to be prepared. And some of the best conversations I’ve ever had were with myself, Vic, so I like to spend time in my mind.”
+
+“I am sure it was.”
+
+“Sadly, I am not even joking. By the way, we’re getting closer to whatever’s waiting in there.”
+
+“Unfortunately, I do not have good enough senses to feel mana from that far away, so I will just have to trust you on that. Do you have any idea what it could be?”
+
+“A bit.”
+
+“Can you tell me?”
+
+“Say please.”
+
+“Please.”
+
+I sigh. “Vic, you’re no fun. Maybe it is my fault, I’ve gotten used to being surrounded by assholes who constantly bicker with me.”
+
+“I am glad you seem to be having fun.”
+
+I pause, then nod. “I think I am having fun,” I say, “and I’m sure whatever’s waiting for us will thank you for this perfect example of a death flag.”
+
+“As if anything like that even existed, Natty.”
+
+“I guess,” I say, as I stop looking around and turn to Vic. “I don’t know exactly what it is, but it feels a tiny bit like my black mana while also being somewhat alive. Doesn’t that sound fun?”
+
+We continue to spot these weird teleportation arrays from time to time until we come across one that actually turns out to be active. It keeps flashing, turning on and off. And that’s not even the interesting part. The problem is what it’s in the process of teleporting.
+
+Every time it activates, body parts appear inside a small circle that’s only wide enough for a single human to stand in.
+
+Half a body appears there, and as it does, a hand belonging to said body passes through the edge of the circle. Then the array activates again, and the half-body disappears, leaving us with just enough time to take note of the face, twisted in a painful expression. Only the severed arm remains, left behind when it fell out of the circle, to be neatly severed by its activation.
+
+A few moments later, it activates again, and more body parts appear. A lynthari head rolls out of the circle. The torso of a human appears, cut clean in half, spilling its insides, which remain here with us before the rest vanishes away. Even items and weapons materialize from time to time, and whatever rolls or falls out of the circle stays here when the array flashes again.
+
+When we finally reach the blinking array, there are already dozens of limbs scattered around it, with a pool of blood spreading in a wide radius from the circle. Each activation creating a sickeningly wet noise and a brief flash of light.
+
+“I think we just found out how it activates,” Victoria says, seeming unaffected by all the gore. She takes a step closer, looking at the flashing circle. “It seems to react to blood, likely even the smallest of droplets. Though I have no idea how one decides which array to teleport to.”
+
+Another flash, and half of a thylarin’s half-body appears. He screams in pain for a moment and tries to crawl toward us as he spots us, managing to get half of his head out of the circle. Then the array activates again, cutting his head in half, and causing the light in his eyes to fade as he falls.
+
+“I remember this man. He was with the group that decided to follow the Eternal Court’s guildmaster. The array must be activated from the other side, teleporting whatever happens to be inside the circle and leaving the rest behind. The moment something appears here, the blood activates this side and either sends it back to the first array or, more likely, to another one.” Victoria says.
+
+“I’m inclined to agree with your conclusion,” Christoph says. Unlike Victoria, he doesn’t seem to be completely emotionless, but I can still see that it doesn’t really bother him much either. “Since there’s nothing we can do, we may as well keep going.”
+
+And we do exactly that, leaving the flashing circle behind with its occasional screams and groans. Whatever’s been happening to the group on the other side can’t be good.
+
+Malika lingers behind for a while, using her gravitational energy to observe the array. Maybe her senses are picking up on something ours can’t, but she follows us soon enough. Like most of us, she seems to be paying much more attention to the arrays along the way. We all know that any of them could activate at any moment.
+
+The hallways ahead grow narrower over time, allowing at most one or two people to walk side by side. Larger races like the velnar and the taller lynthari are already starting to have trouble passing through. The material of the hallways changes as well, emphasizing the narrowness. Now it’s made entirely of metal, the same material as the earlier doors and the strange green boxes.
+
+It looks like solid plates at first, but when I force my senses deeper, I realize they’re not plates at all. They’re massive bricks made of solid metal, each the size of a car, their surfaces covered in that same green patina. Unlike the earlier doors, their effects seem much stronger. Any mana that touches them begins to fall apart unless one concentrates on it, forcing it to remain firm and dense. In some ways, it feels like disruption or Morwag’s binding energy, but it is still different.
+
+As if the metal itself was creating this strange kind of oppressive presence, which only makes me even more curious about how it works. Thankfully, a piece of the earlier door remains in my pocket, something I can examine later when the situation allows.
+
+For now, it doesn’t fully prevent my use of mana, but the effect is noticeable. It feels like it hasn’t been designed to target individuals directly, but rather to counter ambient mana, which may as well be completely nonexistent here. Not even a speck can be felt.
+
+At the end of the hallway, a massive slab of metal blocks the way. Near it lie the remains of two lynthari, bloody smears across the surface suggesting they’d tried to push back against it in vain. There’s no knob, no keyhole, and no inscriptions, nothing to mark it as an entrance at all. It looks less like a doorway and more like a solid wall.
+
+Before anyone can say anything, the figure rises from Christoph’s shoulders, expanding as much as it can in the narrow hallway. More arms sprout from its back, growing until there are six in total, each thickening as they spread out.
+
+His mana reverberates strongly, visible even to those without my trait.
+
+Some of the arms press against the walls for support while the others slam into the metal block, crushing the remains of the lynthari beneath. He doesn’t pull back for another strike, choosing to push instead.
+
+Slowly, with a screeching metallic groan, the block begins to move.
+
+Dust falls down from the ceiling as the walls shake with each grinding shift. The floor vibrates under our feet, and for a moment, it feels as if the whole hallway were straining against him. Bit by bit, the block moves until a gap appears, no wider than a finger at first, but enough to let stale air through.
+
+When light seeps through the growing gap, the laugh of a young girl drifts out from inside. It sounds innocent, crazed, and happy all at once.
+
+“Heave-ho, heave-ho! Push, push, push!” it calls, the voice crows, filled with such manic emotion that it raises goosebumps across the surface of my skin.
+
+From the corner of my eye, I see Christoph smiling at that sound.
+
+With one last powerful shove, the massive block is sent sliding back. A brilliant light floods the hallway, almost holy in the intensity of its brightness, cutting through the darkness of the corridor.

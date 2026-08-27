@@ -1,0 +1,165 @@
+---
+id: 26fecbd8-3253-5a7b-9825-62c58d565ee5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21: The Heavens' Divine Punishment (God of Beasts' POV)"
+slug: 0021-chapter-21-the-heavens-divine-punishment-god-of
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 21
+ownLength: 1865
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3730757/chapter-21-the-heavens-divine-punishment-god-of"
+royalRoadId: "3730757"
+---
+
+Chapter 21: The Heavens' Divine Punishment (God of Beasts' POV)
+
+It had been a while since I'd last seen the gods celebrate.
+
+I could hear it from here: laughter carrying through several layers of cloud, the particular pitch of music that only got played when someone had decided the occasion warranted it. Unfortunately, I could not join them. My invitation, along with most of my other privileges, had been revoked some centuries ago, along with the chains currently wrapped six times around each of my forelimbs.
+
+I sighed. The chains rustled with the motion, a small, humiliating percussion section to accompany the sigh.
+
+Well. It had been a mistake on my part, admittedly. I had given that giraffe a skill meant to provoke it into ascending, purely so that I could make an example of it once it arrived. Smash its head against the heavens' floor in front of an audience, a nice bit of theater, the kind that reminds mortal creatures of their place in the arrangement of things.
+
+But the creature had turned out to be, infuriatingly, patient.
+
+It hadn't taken the bait for years. Decades. It had simply stood there under its little tree, chewing, entirely unbothered, right up until the exact moment I had stopped paying attention to bait it any further and had gone off instead to enjoy myself with several of the goddesses.
+
+That timing still bothered me more than the actual outcome did.
+
+While I was mid-sulk about it, the iron bars of my cell swung open.
+
+"Are you finally releasing me, God of Metal?!" I asked, excited despite myself, already scrambling upright to face the old god standing in the doorway, eyes closed as they always were, expression giving away exactly nothing.
+
+Of course they were releasing me. The neck was no longer piercing the heavens. I could see past his shoulder, all the way to where it had once stood: a golden pillar driven straight up through the floor of the world, glowing, faintly smug.
+
+I had no idea how they'd finally gotten rid of it. I hadn't been informed, and frankly I hadn't cared to ask. All that mattered was that it was gone, and I, presumably, could go back to being a god with actual freedoms again.
+
+Two younger gods moved in on either side of me and reached for my chains.
+
+Hmm.
+
+They weren't removing them. Just unhooking, each of them taking one loose end and holding it like a leash.
+
+One of them kicked me from behind. "Move it."
+
+"Okay, okay. No need to kick." I started walking, herded forward with all the dignity of livestock being led to a very specific pasture.
+
+We stopped just short of a hole.
+
+I looked around, then back over my shoulder at the younger god still holding my chain. "Was there always a hole here?"
+
+He face-slapped me for that.
+
+I made a mental note. Once these chains were off, there would be a reckoning, and it would be thorough.
+
+"God of Beasts." The God of Metal spoke without opening his eyes. "The section where the neck was has not recovered. It continues to deteriorate."
+
+I looked down, past the hole's edge, at the layer of cloud beneath us.
+
+It had gone grey. Brittle. Crumbling visibly at the exact spot where I stood, small flakes of it breaking away and drifting downward into nothing.
+
+"Because of your little games, you have put the heavens themselves in jeopardy." He opened his eyes then, finally, fixing them on me with a coldness that made the earlier kick feel almost affectionate by comparison. "And you allowed something to look down on us. For a very long time. Do you understand what that means, for a god? To be looked down upon? By a giraffe, of all creatures. With a very long neck, specifically chosen to maximize the indignity of it." His voice had gone flat. "Can you imagine the humiliation you have brought upon all of us?"
+
+Damn it. Godly pride. Nothing on this side of existence was more exhausting to manage.
+
+I gritted my teeth and said nothing, which seemed like the wiser option.
+
+"God of Beasts, I would very much like to deliver my divine judgment on you right now." He gave the smallest possible nod to the two younger gods flanking me. "Unfortunately, I am not the only one you've offended."
+
+They pulled me forward, away from the hole, and further along whatever path this was clearly leading toward.
+
+***
+
+Where I was led was to an open plaza, the kind reserved for festivals and executions and, apparently now, both simultaneously.
+
+It was vast, floors of solid light rather than stone, pillars that didn't so much hold anything up as simply insist on being there, and a sky above that wasn't really sky at all, just more heaven, layered on heaven, layered on heaven again, all the way up past where even I had ever bothered to look. I'd attended a thousand gatherings here. I recognized the particular quality of light that meant a crowd, and a large one.
+
+At the plaza's center sat a mountain of offerings.
+
+Wine in jars still sealed with wax from mortal hands that had never once questioned whether a god truly needed wine. Fruit stacked into pyramids too geometrically perfect to have arrived that way naturally. Meats roasted whole, untouched, cooling. Gold in bars and coins and jewelry heaped together without much regard for which mortal kingdom had bled itself dry producing it.
+
+We had no actual need for any of it. That was rather the point. A god who needed things was no longer much of a god. But we enjoyed being looked up to, and enjoyed even more the leverage that came with it. A sufficiently flattered god could, if the mood struck him, nudge a particular floating island a little higher into denser spirit energy, granting its cultivators an advantage their rivals would spend a generation trying to understand. A poorly-flattered one could let that same island simply drift, slowly, toward somewhere considerably less pleasant, and never once explain why.
+
+A tall god stepped into our path before we'd gotten much further.
+
+Shirtless, always, regardless of season or occasion. I'd never once seen him in anything above the waist, as though clothing itself had personally wronged him at some point in the distant past. His chest and arms were ridged like bark, dense grain running the length of muscle that had grown, quite literally, the way trees grew.
+
+"Is that the one?"
+
+The God of Metal nodded. "He is. God of Wood."
+
+The God of Wood grinned. He extended one hand toward the offering pile, and a stake began rising from its center immediately, splitting fruit and gold aside as it climbed, growing taller with each passing second until it stood well above the heads of the gathering crowd. Freshly grown rather than built, bark still faintly damp, as though it had been a living branch a moment before and had simply decided, on his instruction, to become something else.
+
+"Fellow gods and goddesses!" He raised both arms. "The main dish has arrived!"
+
+The pleasant, celebratory faces around the plaza soured almost in unison, hundreds of expressions curdling into something considerably more interested, more hungry, in the particular way immortal beings got hungry for things that weren't food.
+
+I would have waved. Said hello, perhaps, made some light conversation about the weather, if my hands hadn't been occupied with chains.
+
+The God of Wood leaned in close and took a fistful of them himself.
+
+"It still wounds me," he said with theatrical sorrow, "that a god who branched directly out of my own lineage would cause such a ruckus." His grip tightened. "You were supposed to be one of the reasonable ones."
+
+He glanced at the two younger gods still flanking me.
+
+"Hurry and tie him up."
+
+They scrambled, dragging me the last few steps to the stake and hoisting me against it. Chains looping and re-looping until I was fixed there thoroughly enough that struggling would have accomplished nothing beyond making the crowd laugh harder.
+
+The first thing thrown at me was a tomato. Soft, unremarkable, barely worth flinching for. I let it go, and it splattered somewhere near my collarbone to a smattering of polite applause.
+
+The second was a gold bar, thrown harder by someone with excellent aim and worse intentions, and this one I minded a great deal.
+
+The God of Wood raised both hands for quiet, and got it almost instantly.
+
+"Gods and Goddesses! Shall we begin voting on his punishment?!"
+
+The plaza roared its approval, a sound big enough that I felt it in the wood at my back.
+
+"Suggestions, then." He grinned at me.
+
+"Cut off his limbs!" — this from somewhere near a cluster of younger war gods, all leaning forward with real enthusiasm.
+
+"Burn him where he stands!" — the Goddess of Lightning, probably, judging by the crackle that accompanied it.
+
+"Drive a very long stake straight up his—"
+
+I stopped listening to that one halfway through, which felt like the correct response.
+
+Then, from somewhere near the front, a goddess stepped forward, one hand raised to partially cover her face with a folding fan. She moved through the crowd the way fire moved through dry grass.
+
+"What about you, Goddess of Fire? Any thoughts?" the God of Wood asked.
+
+"How about turning him into a mortal, and sending him down near the abyss instead?"
+
+The crowd's enthusiasm dipped visibly, a ripple of disappointed murmuring moving outward from the front rows.
+
+"That's considerably blander than what we've had so far, Goddess of Fire."
+
+"Is it?" She lowered the fan slightly, just enough to reveal a small smile. "Killing him outright seemed like such a waste, is all. What causes the most despair, in my experience, isn't pain." She snapped the fan shut with a small, precise click. "It's hope."
+
+The plaza went quiet for a moment, considering this, several hundred immortal faces working through the idea at once.
+
+Then, slowly, hands began to rise.
+
+"I agree with her."
+
+"So do I."
+
+"Let's watch him suffer a little longer. There's no rush. We have all the time that exists."
+
+The God of Wood's grin returned, wider than before, roots and all.
+
+"Then it's decided."
+
+The stake began to spin.
+
+Slowly at first, then faster, and with the spinning came a descent. The whole structure grinding its way downward through the cloud floor of the plaza as though it had been built specifically for this purpose all along. I caught glimpses of the crowd with each rotation, faces blurring past in bright, laughing streaks, all of them thoroughly enjoying whatever they imagined was about to happen to me.
+
+The stake kept boring downward, deeper, faster, until it found the true underside of the cloud and I fell straight through it, the plaza and the gods and the mountain of offerings all vanishing above me in a shrinking circle of light.
+
+I had exactly enough time left for one final word, aimed upward at all of them, in the hope that it might at least ruin someone's evening.
+
+"Fuck you!"

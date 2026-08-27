@@ -1,0 +1,181 @@
+---
+id: 1bb57833-f9c6-5bf5-b154-e3b0759d4cde
+page-type-slug: story-chapter-royal-road
+title: "Chapter 971: All the Fuel It Needed"
+slug: 0038-chapter-971-all-the-fuel-it-needed
+partOf: he-who-fights-with-monsters
+position: 38
+ownLength: 2466
+unit: words
+ownProgress: 2466
+publishedAt: 2025-03-12
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2122700/chapter-971-all-the-fuel-it-needed"
+royalRoadId: "2122700"
+markedReadAt: "2026-06-29T19:05:10.707Z"
+---
+
+In Saint-Étienne, Vincent Baudrillard was pacing around a rooftop garden courtyard. There was a wrought iron outdoor table setting, at which Emi Asano sat. She was eating a large half sandwich while she watched his back-and-forth march. He ran a hand through his increasingly dishevelled hair yet again, which only further set off his rakish good looks. Instead of telling him that, she made a poor attempt at stifling a giggle.
+
+“Stop laughing!” he half begged, but his beleaguered voice only made her laugh harder.
+
+“It’s strange seeing you so nervous,” she said. “I’m going to take my time and savour it.”
+
+She set her sandwich down on a plate, next its enormous other half.
+
+“This isn’t funny,” Vincent told her.
+
+“You say that, yet I find your frazzled state endlessly amusing.”
+
+“I need your uncle to like me.”
+
+“No, you need me to like you.”
+
+“You already like me.”
+
+“And how long is that going to last if you keep making assumptions.”
+
+“Until I go bald, presumably. I know you like my hair.”
+
+“I have no idea what you’re talking about.”
+
+“Emi, as intimidating as I find the prospect of your wrath, his wrath is worse. He’s basically a god.”
+
+“He’s not a god, Vince. Or a dad from an eighties movie. He won’t threaten to kill you if you don’t have me home by nine.”
+
+Vincent stopped his pacing and let out an incoherent grumble before turning to look at Emi.
+
+“I know that to you, he’s Uncle Jason. To me, he’s the guy who created the city we’re standing in with his mind, from another universe. And I’m the guy doing stuff to the niece who was a young teenage girl when he left.”
+
+“Oh, we’re ‘doing stuff.’ My heart is aflutter at the flowery romance of your words.”
+
+“I’m not going to say any more than that. He’s probably listening to us right now.”
+
+“That’s not how it works, Vince. Uncle Jason says that watching over his domains is like having a conversation in a café. You’re not listening to the conversations around you, but you kind of are, without realising it. When someone says something that stands out, like your name, it suddenly draws your attention. You realise that, on some level, you were listening all along. But, in Uncle Jason’s case, the café also has a security system that lets him go back and see what anyone there said or did.”
+
+“None of which precludes him from watching us right now, and I’m confident that mentioning anything more than ‘doing stuff’ will get him paying attention.”
+
+She shook her head and let out a long-suffering sigh before getting to her feet. After moving over to him, she wrapped her arms around his neck and pulled him into a gentle kiss.
+
+“You need to relax,” she told him. “I love you, so he’ll love you. Or else.”
+
+His anxiety was not alleviated by her suddenly threatening expression, even if it wasn’t aimed at him.
+
+“Besides,” she said cheerily, letting him go. “It won’t be Uncle Jason keeping an eye on us, will it, Shade?”
+
+“He makes a point of giving you your privacy, Miss Emi.”
+
+Vincent started as the voice came Emi’s shadow.
+
+“What was that? he asked, wide-eyed.
+
+“That’s Shade,” Emi said. “I’m sure I told you about Shade. He used to watch over me when I was young. He’s the best.”
+
+“I appreciate your kindness, Miss Emi.”
+
+“Now, tell Vince he has nothing to worry about.”
+
+“In fairness, Miss Emi, your instincts were rather specifically accurate, in that Mr Asano was torn as to whether he should ‘go full eighties movie dad.’ Fortunately, his better judgement prevailed, but there was talk of an axe pendulum at one stage.”
+
+Vincent turned even more pale.
+
+“Do I want to know what an axe pendulum is?” he asked.
+
+“It’s kind of right there in the name, sweetie. You strap someone down under it and it gets lower and lower, until it cuts them open or they agree to not date your niece, or whatever it is you want them to do.”
+
+“This is not helping me calm down, Emi.”
+
+“Who said I wanted you to calm down? I’m having a great time.”
+
+“You’re the one who told me to relax.”
+
+“No, I said you need to relax. I’m allowed to want things you don’t need.”
+
+She looked at his disbelieving expression and started laughing all over again.
+
+***
+
+Jason floated in the air over his spirit domain. When he had first claimed it, he had reconstructed Saint-Étienne as it has been. During his years away, that had shifted with the needs of the clan and his own subconscious preferences. Then the clan had hidden away inside the astral, leaving it, for a time, to the vampires.
+
+Following the clan’s re-emergence, the city grew further from what it had once been than ever. After taking it back from the vampires, Jason shaped the city more consciously, in consultation with the clan. Ken Asano was in charge of the clan’s urban design, making it a project Jason could, via avatars, spend time with his father.
+
+While the architectural style of the buildings remained, the layout was now reflective of contemporary urban planning, filled with green spaces and walkable areas. Cars were a tertiary concern, the roads few and more interested in nice drives than efficient travel. With most of the adult population being essence users, distance could be covered easily of foot. With dimensional bags, transport didn’t require large trucks.
+
+For those who weren’t essence users, the layout was accommodating to alternative transport. Bicycles conjured themselves up from the ground on request, returned to cloud-stuff once finished with. A trend for electric scooters fuelled by magic could be traced back to Taika’s mother.
+
+Jason was happy with the results, but a hint of doubt remained. Was it urban renewal he was doing, or was he wiping out almost a thousand years of history? The city itself was gone, so any replica was exactly that: a fake. He shook his head, dismissing the thought. Even when the vampires were gone, Europe would have to become something new. There would be no returning to what it was, and trying to do so would produce a continent-wide museum at best, not a place for people to live.
+
+He took comfort, such as it was, that this was not an entirely novel problem. In the wake of the second world war, Europe had been devastated and in need of massive reconstruction. The aftermath of the vampire occupation would be worse, but the task of recovery would be neither unprecedented nor insurmountable.
+
+Jason descended through the air, deciding that his niece’s lover had suffered enough teasing. He wasn’t going to play the scary uncle and put Vincent through the wringer, as much as he was tempted. Emi was a grown woman who didn’t need his protection. That he hadn’t been there for her as she became that woman remained an open wound, however good the reasons for his absence.
+
+The truth about Vincent Baudrillard was that Jason knew the man in ways that Emi, or even the man’s own family did not. Observing the domain from afar, he had watched him grow from a boy to a man. His virtues and failings; lessons learned, and choices made when he thought no one would ever know. He knew the man as a god would.
+
+The Remore family’s teaching methods were built around the concept of individualised outcomes. Time allocation went to those who had the drive to push further, or could be guided to doing so. The most effort went to those with the greatest talent and, more importantly, motivation. Vincent didn’t have the intellect of Emi and Belinda, or the raw talent of Sophie and Rufus. He was not lacking on those regards, but more valuable than his talent was his drive.
+
+Rufus had picked Vincent out early. The boy had a respectable talent for swordsmanship and, more importantly, a self-motivation that Rufus gave all the fuel it needed. Vincent’s hunger for growth was always met with the opportunity to do so. That was the core of the Remore teaching style. While Vincent was not the only one to warrant such treatment, his focus on swordplay made him an ideal protegee for Rufus. He was a vessel into which Rufus could pour the lessons he himself had received from the greatest sword master on Pallimustus.
+
+Emi was likewise a driven child, but her focus on magic put limits on what Rufus could personally teach. Her more specialised training was through materials Rufus had been given expressly for that purpose by Farrah, Clive and even Belinda. It was not ideal to learn from recordings, but Emi’s inclination for self-learning helped bridge the gap.
+
+It was natural for Emi and Vincent to come into contact through Rufus’ teachings, although their relationship was a slow and awkward thing. Emi had trouble with all her relationships, romantic and otherwise, due to her status within the clan. For Vincent’s part, he has his own issues, on top of the tribulations of courting the Asano Clan’s princess.
+
+Jason could feel Vincent’s aura, ready to push from the upper reaches of silver towards gold. He, like Rufus’ other promising seeds, was approaching the brink of advancement. Jason suspected that with the guidance of Rufus’ mother, the Asano clan would soon see a deluge of gold.
+
+Jason’s interest in Vincent was as a match for Emi, not his abilities, but rank did matter. Shared perspectives were important to any relationship, magical or not, but the bigger concern was ageing. Jason had heard stories of adventurer relationships falling apart as one member remained unchanging while the other grew old and died.
+
+Unlike Vincent, Emi was not approaching gold rank. She did not slack in facing monsters to advance, but she had learned young that she was more scholar than warrior. She was solidly into silver-rank, however, and Jason had no doubt she would reach gold eventually. He would engineer her way to the immortality of diamond if he could, but such advancement would always be on her. He still needed to stumble his own way to that height.
+
+As the pair continued to bicker and flirt, He arrived on the rooftop, manipulating his aura so that they both ignored his presence. It was a trick he’d first developed studying vampire auras on Earth, although the original technique had only worked on crowds of mortal strangers. Years of iteration had turned it into his most sophisticated aura technique, although it remained unreliable on others of his own rank. Even Vincent might have seen through it, were he not so nervous and distracted. It was only when Jason picked up the untouched half of Emi’s sandwich that his presence was discovered.
+
+“Do you have to be so dramatic?” Emi asked as she leapt up from her seat.
+
+Jason’s response as she ensnared him in a hug was muffled by a mouth full of sandwich. Vincent looked on with a deer-in-headlights stare, waiting for the car to plough into him. Jason extricated himself from his niece and set what remained of his stolen sandwich half back on the plate.
+
+“Moppet, I think that it’s time your young man and I had a long overdue talk.”
+
+She put her hands on her hips.
+
+“You just got here.”
+
+“And I’ll be here for a while,” he told her. “Finally.”
+
+“Fine,” she capitulated, putting on the childish air of the girl she’d been when Jason had left her. She picked up the plate with the sandwiches, pulling it out of reach when Jason reached for it.
+
+“You can have it when you come and see your niece instead of her boyfriend,” she said, and marched through the doorway to the stairwell. Jason chuckled and turned to Vincent, who was finally thawing from his frozen state. Jason looked him up and down, then claimed Emi’s vacated chair.
+
+“Take a seat, Vincent.”
+
+Vincent gave a jerky nod and approached the table as if the floor between him and it had been trapped, his body language almost flinching. He sat delicately in a chair opposite Jason.
+
+“I’d tell you to relax,” Jason told him, “but I have a feeling that would be futile. Maybe you can unclench as we chat and get to know one another.”
+
+“I know you,” Vincent said, looking surprised that the words had escaped.
+
+Jason watched him a moment before responding.
+
+“Do tell,” he prompted.
+
+“I’ve lived here most of my life,” Vincent said after a moment to steel himself. “Here, and in the astral space. It gets to the point to where you don’t even realise how your aura pervades everything, but it’s there. The way a fish looks at water, probably. But like a fish, you feel the absence when its gone. Every time I leave clan territory, I feel the hole where your aura is meant to be. And what’s missing tells me a lot about who you are. What you are, maybe.”
+
+Jason smiled.
+
+“I like you, Vincent. I know you, too. You’re a good man. If you weren’t, you wouldn’t have gotten this far. And yes, I know all the things that no one else does. It scares you that I know the worst things about you, but try to let it go. The thing about people is that they think they’re much worse than they are. The good ones do, anyway.”
+
+Vincent listened, sweat beading on his brow.
+
+“More importantly, Vincent, you make Emi happy. I couldn’t be here, so it was a comfort to have good people around her. But honestly, none of that matters. Unless you were a real piece of crap, I was never going to intervene. You’re Emi’s choice, and that’s the only thing that matters. If she says you’re enough.”
+
+“And if she one days decides that I’m not?”
+
+“Then that’s on her, too, unless you make some bad and fairly specific decisions. But I know your ambitions aren’t in what you can get through Emi. I saw how long you pushed aside your attraction because getting involved with her would be trouble, even with your family’s prominence in the clan. And I know what your ambitions really are, but we’re going to have a talk about that on another day.”
+
+“We are?”
+
+“We are. But for now, know that you have my blessing. I know you’ve been waiting for it before you ask her.”
+
+Vincent gulped again.
+
+“Now,” Jason said as he got to his feet. “I’m going to get my half sandwich back.”
+
+“That was actually my half sandwich,” Vincent said, then withered as Jason turned, his eyebrows raised.
+
+“Or I could be wrong,” Vincent said, in almost a whimper.

@@ -1,0 +1,155 @@
+---
+id: 3f3511ae-8c31-53ed-a6ad-ddbfdfb74d63
+page-type-slug: story-chapter-royal-road
+title: "Chapter 750 - Everyone knew it was coming"
+slug: 0075-chapter-750-everyone-knew-it-was-coming
+partOf: hell-difficulty-tutorial
+position: 75
+ownLength: 2308
+unit: words
+publishedAt: 2026-02-12
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3041361/chapter-750-everyone-knew-it-was-coming"
+royalRoadId: "3041361"
+---
+
+Speaking to the kids, I learned that it’s apparently possible to summon a personal screen to watch the event. It is even possible to filter out individual people to watch the person you want. So, of course, I now find myself sitting outside, resting against the side of Wolfy and surrounded by kids, Lily’s on one side and Biscuit, who, even now, is refusing to participate in the events.
+
+Same as that black-haired bulldozer, the corgi chooses to remain in the common area, seemingly for the same reasons, though he’s not being as forceful about it as she is. That damned, stubborn girl.
+
+Now, Biscuit in his puppy form, is lying in my lap, and even though he’s trying to hide it, I notice him helping me. Just that tiny little bit as he handles the bits I can’t fully contain, so it doesn’t hurt the kids. And the term kids seems to include that enormous black wolf as well. Though he’s clearly annoyed, he lets us rest against him and watches the event with us.
+
+Enan, Seneca, Deva, and quiet Irwys, Min-Jae’s disciple, are all here. We also finally meet a vyssari girl by the name of Rye, Tess’s disciple.
+
+She’s just like that tiny vyssari child I met in the Megacity. Tiny, huge eyes, cute scaly legs, and a small, round face.
+
+It makes me want to protect her with my life, feed her all the precious earth sweets I have left, and tease her just so I can watch her be angry at me, which would make her seem even more cute. Just like a little kitten trying to look dangerous.
+
+She’s blonde and has eyes that seem to have been altered by a trait. They’re… weird. It is hard to guess their colors as they shift with the light and, on occasion, her mood. It is to the point I wonder if she doesn’t have a bit of feylith blood, though the color of her hair seems to remain static.
+
+Rye is quiet, just like Min-Jae’s Irwys, but unlike him, she’s more decisive. Once we sit down, she rests against my side in a way that seems like a cat that’s found a warm spot in the sun to rest in.
+
+I realize my body is warmer than usual, even with my control, but it is not to the point of hurting anyone, so I let it be to avoid spooking her away.
+
+Even the system screen she’s watching the event on is smaller than the others.
+
+Now only Lily’s Pallius is missing, once again making me realize just how stubborn that girl is. Hah, I guess I’ll have to supply her with a few dozen extra left arms. After the body upgrade, they’ll make incredible sacrifices for her. Or maybe I could buy her flowers or something. I’ll have to ask Tess… no, not her. She’d only make fun of me.
+
+I’ll ask Izzy.
+
+I hear Deva shout excitedly and turn to watch her screen. There we see Sophie and Izzy, just the two of them walking through one of the dungeons. Like the others I have seen, this one has its own layout as well. It is an old, crumbling stairway rising towards the sky, leading up to what almost seems to be an old rocket silo.
+
+They’ve already been walking for what feels like more than ten minutes, and no changes have made themselves apparent in the environment. But this time, Sophie seems to have detected something and disrupted it. The air around them flickers in response, and the stairway disappears, revealing that the true shape of the environment is that of a boneyard, with a great many skeletons, each as tall as buildings.
+
+From its place behind one of them, a creature looks up. A lizard with a third vertically oriented eye in the middle of its forehead and four protrusions extending from its head like tentacles.
+
+It hisses at the same time as Noodle drops from Izzy’s arm and grows in size to match the monster.
+
+The Fragment of the Eternal Flame blazes around Izzy, and her veins become visible through her skin. Sophie waves her hand, and Blackie escapes from her shadow, throwing himself against a pile of bones from which a golem emerges, composed of its contents.
+
+Then, more monsters like the first start appearing. Dozens, hundreds of them start to climb out from under the bones and massive corpses scattered around the room. Each of them is the same in terms of the way they look, though they’re maybe one-fifth the size. The entire area starts flickering with the environment constantly changing as the fight starts, as Noodle begins coiling around both girls to protect them, and the golem rushes into the fight with a cacophony of loud stomping.
+
+Deva continues to shout for Sophie to finally stop playing around, with all six arms in the air, and curses probably a bit more than a kid should.
+
+I feel a tug on my clothes and look to my right at the tiny vyssari girl.
+
+“What?” I ask.
+
+She points at Biscuit.
+
+“Go on. He doesn’t bite.”
+
+The girl nods and starts reaching out her hand.
+
+I cannot help myself but add, “I think.”
+
+That causes her to stop and look back at me. That cute face furrows in an expression that strongly reminds me of Tess. With a tiny sigh, she then reaches anyway and starts petting Biscuit’s back.
+
+At this point, I wonder, with her being so tiny, she could probably ride Biscuit in his adult form, right? Or be really close to it. Honestly, wouldn’t even I be able to ride Biscuit if he went around in his horse-sized form?
+
+The corgi just turns around to look at her and yawns before turning back and lying his head on my leg.
+
+“Deva,” I rest back lazily and call towards the thylarin who still cheers on her master.
+
+Just for a moment, she glances at me, annoyed, “What?”
+
+"I have met several replicas of the Last Elf, and I even spoke with that petty saboteur. I’ve also met the Ruler of Greed and the Ruler of Diligence, or at least spoke with a few of their vessels. I ran into the Ruler of Kindness as well, and she helped me throw some guy off a balcony. I think I have seen the vessel of the Ruler of Wrath, too. By the way, have you heard about the Ancient Monster, the Absolute, Lissandra Hawthorne? Yes? Good. I met her, too, and she is constantly trying to become my master. What else… oh, the intent of the Ruler of Envy spoke to me at one point, and I met a demon with five hearts, a lunatic that almost became the Ruler of Wrath. One more thing, if you shout at me again, I will lock your kinetic movements until Sophie comes out, and before that happens, I will let the others stuff grass in your mouth or bury you in dirt."
+
+There is no shouting, but her eyes are beautiful to watch. All six of her hands look like they are squeezing someone’s neck.
+
+Then I reach out and ruffle Enan’s hair too while flicking his cat ears a few times to his utter shock.
+
+Tiny Rye doesn’t escape either. I lift her and hold her in front of me and stare at her as she stares at me. It is as great a feeling as I had thought it would be. I almost want to hug her too, but I don’t push it, and instead, I put her back and boop her tiny, tiny nose while saying, “Biscuit, one deer jerky if you brutally attack this tiny vyssari.”
+
+It does not take even a second for Biscuit to twist around, shrink a bit, and jump against her, which finally forces her to make a tiny noise from her serious face. A cute squeak as Biscuit starts licking her face and rubbing himself against her, energetically, but very gently.
+
+Looking to my left, Irwys meets my eyes, scared and worried of what might come, but I just shrug, “We introverts should stand together.”
+
+He nods eagerly in relief.
+
+My last target is Seneca, whose hair is moving wildly and shifting to a darker shade of blue. Even so, I reach towards the hair only to change direction at the last moment and poke her ribs a few times to tickle her.
+
+In revenge, a ball of flames promptly crashes into my face, but I barely notice it, though it would likely kill someone from Easy difficulty.
+
+Satisfied and feeling much better, I close my eyes and breathe deeply.
+
+Life is too short to not rage bait kids.
+
+The kids, silly little things they are, mostly forget what I’ve done half an hour later, and we continue to watch the event together. Well, other than Deva, that girl sure can hold a grudge, though she isn’t shouting anymore. She is suspecting, correctly, that I would do just what I threatened to do.
+
+I’m an asshole.
+
+Rye is resting against my right side, and Biscuit is leaning against her, while Seneca watches, lying with her head on my knee. Irwys is sitting off to my left, sometimes excitedly pointing out things on the screen and showing them to me. Enan, meanwhile, talks to Lily about the lynthari.
+
+There are so many people fighting in the dungeons, and the dungeons themselves come in countless varieties. All of them contain monsters, though power levels differ greatly. There are a few Hard difficulty groups that get wiped out by different Champion grade monsters, as well as some Hard difficulty guys facing off against level 1 goblins.
+
+I know the capabilities of Group 4, so I mostly watch the people from other rounds of Earth’s tutorial, especially the Kings.
+
+At this point, I’ve confirmed that Jean is likely to be the strongest out of all of them, as long as I don’t count Vic, obviously. I'm not absolutely sure, but I think his Physique is starting to incorporate any primordial energies that hit him to bolster his healing and increase his durability, and it feels like he’s probably gotten an adaptive defense passive that makes him more durable the longer he faces a specific element, primordial energy, or skill.
+
+That boy Maxim with his void wolves is also proving to be interesting. He is young, yet decisive, and now he can summon new shadow monsters so large that one can even fly as it carries him around.
+
+Derick and his wife, Noelle, are still a good duo, and the slim man is faster now, while his attacks and the tattoos on his body seem to be doing a better job of disrupting mana, and they seem to have gone through a huge upgrade.
+
+I'm also curious to learn more about Baek, but most of the time, the laziest king just tags behind his group, and that girl Kang Jiwon, who seems to have gone for the same sort of bulldozer sim gameplay as Lily.
+
+Yet, over all of them and the attendees from the other planet, Vic shines the most, and I’m not just saying that because she’s my sister. Her duplicates have been cooperating better and better and always seem to move with clear intent, while her body is easily the most powerful out of anyone from Earth’s tutorial.
+
+She isn’t as strong as Jean, as fast as Tacita, and doesn’t have the regeneration of Lily. But damn, if she isn’t impressively durable in her own right, and her strength and speed spike occasionally, almost becoming a match for Jean and Tacita, though it destroys even her enhanced body when she does. And that durability and other capabilities are present in all of her duplicates as well.
+
+But I still have a bit of a hard time figuring out who would win if she and Tacita fought. And I swear it isn’t because I have some irrational fear of Tacita, who might be my most natural-born predator.
+
+Once the fights become more boring as people just walk through the dungeons, I turn my attention back to myself as I just notice something. The progress on my body upgrade is slowing down and alleviating some of the pressure it’s been putting on me. It’s nothing huge, only around a 20 percent drop in difficulty, and it’ll probably spike again soon, yet it still feels like having a horse sized corgi taken off my shoulders, giving me a chance to finally breathe.
+
+Even then, I refuse to stop. I take it as a sign of weakness from my torturer and keep up my assault on the changes being made to my body, working around them in places, while working with them in others, and watching how far I can push them while learning from every change.
+
+And that’s when a few more notifications sound off in my head.
+
+Due to the individual enhancements of your body upgrade, and based on your performance so far and the recalculated state of your body, additional adjustments have been applied to your traits to reflect individual enhancements more accurately.
+
+Mana Wavelength Iris 2/3 > Mana Wavelength Iris 2/4
+
+Mana Physique 2/3 > Mana Physique 2/4
+
+And then another one.
+
+Congratulations, you have successfully combined [Accumulation] and [Mana Manipulation]!
+
+A new skill has been created.
+
+You have acquired [Current]
+
+[Current - Level 0 > Current - Level 19]
+
+And then, as I move the tiniest speck of mana through my body.
+
+I knew it was coming, Biscuit knew it was coming, the system knew it was coming.
+
+And yet still I say, fuck the system.
+
+Congratulations, you have acquired a new skill!
+
+[Mana Manipulation]
+
+[Mana Manipulation - Level 0 > Mana Manipulation - Level 74]
+
+Welcome back, my beloved.

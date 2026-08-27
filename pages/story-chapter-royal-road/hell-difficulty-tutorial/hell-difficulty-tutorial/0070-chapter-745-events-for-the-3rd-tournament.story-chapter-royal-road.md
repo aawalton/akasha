@@ -1,0 +1,207 @@
+---
+id: 8b8b7c58-f5eb-55de-9f7b-ce3cbed1492f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 745 - Events for the 3rd tournament"
+slug: 0070-chapter-745-events-for-the-3rd-tournament
+partOf: hell-difficulty-tutorial
+position: 70
+ownLength: 2634
+unit: words
+publishedAt: 2026-02-05
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3016629/chapter-745-events-for-the-3rd-tournament"
+royalRoadId: "3016629"
+---
+
+This tournament only has four events over the duration of five days. It’s less than before, and the tournament itself is shorter too.
+
+What gets me thinking is the fact that it’s impossible to die during the events, might push the opposing planets to fight against each other. I wouldn’t be surprised if this entire setup is designed so that we attack each other. Us being on two separate floating islands clearly hints at that. Especially paired with the fact that people can die outside the events.
+
+It makes for a surprisingly cruel setting. For example, someone like Adrian could probably just fly to the opposing island and slaughter all of them. There are likely a few hundred people from Hell difficulty who can put up a fight, and maybe some Beyond attendees who could push him a bit further. But how the hell would they learn to cooperate fast enough to face someone who’s already killed a Champion grade being on the fifth floor of Beyond?
+
+When he flew toward them, I thought he might try exactly that, but that doesn’t seem to be the case. He returns a few minutes after he left, landing in the middle of the group of people and talking to them.
+
+I watch from inside my barrier when Lily brings my attention back to her.
+
+“It hurts,” she says from her position on the ground with her knees pulled to her chest.
+
+I turn to her and tilt my head in question.
+
+She keeps talking. “It hurts you. Every body upgrade so far has caused you a lot of pain, and with your current Constitution, it must be even more intense, especially since you also find yourself having to manage your mana. And I’ve felt it before, those golden flames of yours are especially painful. You would probably say you can ignore most of it with your concentration skill, but I know it would be a lie.”
+
+A few minutes of having to deal with the constructs pass, and the current stage of the body upgrade pauses, so I move thermal energy to heal myself and restore my vocal cords enough to talk.
+
+“It’s just like stubbing your toe or getting a papercut,” I tell her, before all of it burns away again and forces me to close my mouth.
+
+Lily laughs and buries her face into her knees so I cannot see, “When I healed you a little, I examined your scars, Nat. All these scars now covering your body. They’re there to stay. I do not think anyone other than a specialized Absolute will be able to remove them. They feel like they’ve become part of you because of all these things happening at once.”
+
+I glance at my hands coated in golden flames that burn them, and through the flames, I see the pale white scars across my forearm and the back of my hand. It’s not like my whole body is covered in them, but there are plenty. Some wounds heal without scars, and others do not.
+
+There are scars on my back. Two long ones are on my chest. Two more crisscrossed over my shoulder. Another long one around my right forearm, almost like a ring circling its entire thickness. One even runs from the bottom of my left cheek and continues across my neck.
+
+Interestingly, my pale left arm has none. There, every wound heals perfectly.
+
+“Does it matter?” I ask Lily once I heal enough to speak again.
+
+Still with her face buried in her knees, she says, “I guess not.”
+
+Similar to the prior tournaments, the first day has no scheduled events, so people can simply meet and talk with each other. Most of all, Christoph uses the opportunity to introduce himself to the others from Earth´s tutorial.
+
+Many people already know about him, and many more saw him defend the floating island or go to talk with our tournament opponents. I can only imagine how easy dealing with them must be for him, thanks to his [Empathy] or whatever similar skill he has. He’ll know all their worries and suspicions, and with almost a thousand years of experience dealing with people and life in general, it’ll be a simple matter for him to handle it without anyone noticing.
+
+Maybe Izzy could pick up on something, but I doubt she’s strong enough. I also doubt Christoph wants anyone to know he’s an empath, so a part of me worries only for me to realize that that’s probably exactly what he’s been expecting. I worry for Izzy. I can imagine someone ruthless killing her to avoid the risk of being exposed by an empath. But he must know she’s part of my group. Hell, he probably understands better than I what I’d do if he touched her.
+
+And for now, he seems to want to stay on good terms with me and Vic, so I really don’t think he’ll do it. But if I stood in his way, if I was too weak to finish what I started, then he doesn’t strike me as the type of person to hesitate.
+
+He can talk all he wants about how he’s changed, but I’m sure there are still parts of Adrian from the tutorial a thousand years ago still festering inside him.
+
+Another question hits me. What does he sense from Vic? I know my sister, and I love her deeply, but I also know she doesn’t experience much in the way of emotion, she’s probably limited to one or two at most.
+
+Forced to stop those thoughts, I focus on my body, only to realize it’s getting worse, and the upgrade is starting to dig further and deeper. It feels like the beginning was just a soft touch, an examination and surface preparation, and now it’s pushing into the core.
+
+The upgrade should take a few days, though I don’t know how many. I just know that when this is all done, my capabilities will be incomparable to anything I could’ve done before.
+
+Freed for a moment after another spike of changes, I start reading the tournament notifications to keep myself busy while dealing with it all.
+
+Events for the 3rd tournament of the Earth tutorial have been decided. They are as follows:
+
+1st event - Stampede
+
+2nd event - Bridge of Conquest
+
+3rd event - Dungeon Challenge
+
+4th event - Open Challenge Circuit
+
+The first event will start in twenty two hours. More information will be shared soon.
+
+One thing is clear. Only two hours have passed, though it feels like it’s been much longer.
+
+Fuck.
+
+(Okay, I finally did it. Damn, if it wasn’t a pain with the way it kept disconnecting. Nat, tell the twins to shut up. I need to focus and keep rebuilding the bridge because you decided to become mana radioactive. And Lily, are you sure you’re okay?) Sophie’s voice sounds in my mind the moment I let the communication attempt connect.
+
+(I'm fine, Soph. I'm watching what this amount of mana is doing to my body, and working on simple defenses against it. It might be useful for the more mana sensitive people from Earth who’re going to work with attendees a lot,) Lily answers calmly.
+
+(Are you going to sell it?) Dennis asks. (You could make a lot of money.)
+
+Tess joins in. (I seriously doubt Lily will ever lack for money. But Nat, you all good?)
+
+(It feels like my body’s going to break apart into a radioactive mess any second.)
+
+(So your optimal state, where you’re at your most powerful... ouch, what the fuck, Min-Jae!) Dennis doesn't finish his sentence properly.
+
+(Are you okay with us talking, or do you need more room to concentrate?) Min-Jae asks.
+
+Thinking of it for a moment, I shrug, though they likely don't see it, as I can't see them from here. (Lack of concentration isn't the problem.)
+
+(Will you be okay?) Min-Jae's voice sounds slightly worried.
+
+(As if something like this ever stopped me, I...)
+
+I don't get to finish my sentence as Sophie barges in. (Sure, sure, you guys can have your manly men conversation later. Did you go with the third variation?)
+
+I snort. (Obviously, though, we made that one in case the healing aura didn’t prove effective against system-aligned damage, like the body upgrade, so I had to modify it a lot. Before you offer, I don't need help; I've already been working on it since the start. I just need to make improvements faster than the progress of the body upgrade.)
+
+(And Izzy calls me stubborn,) Sophie sighs. (Fucking weirdo.)
+
+(I've heard worse. How does it look out there?)
+
+This time, it is Tess answering. (As you would have expected. Samuel’s trying once again to build up an army, organization, or whatever he’s been calling it nowadays. Our First Beyonder on the other side is surprisingly casual about all of it. He shows off a little, slips into the background, talks to a person or two, and gradually, more and more people have been growing curious about him and trying to talk to him because he just seems so approachable. But who knows what his goal is in all of this?)
+
+As I listen to it, I give it a thought of how I should react, what I should say. Anything I do might hint at a thing or two, so I'd rather decide to say as little as possible.
+
+Aaron thankfully helps with that. (Some of the Hell difficulty groups have lost people, including Whitewing. Brainiac’s worried about Gareth, who’s been taking everything on himself because he couldn't protect them. And after the first attack, the other planet just went silent. Christoph said they were just playfully testing us, and they won't do it again.)
+
+(He must have spanked them real hard. We have this tournament in the bag.) I can almost hear a grin in Dennis's voice. (Imagine how the third tournaments must look when both sides are equal. I bet people sneak in to kill specific people so they’ll have a better chance during the events.)
+
+(It’s still possible it’s going to come to that later.) Tess rejoins and addresses me again. (Our opponents are thylarin. I haven't seen anyone I’d recognize from the descriptions as particularly powerful A ranks, and I don't think they have any S ranks.)
+
+(Tess,) I say, (please don't tell me you bought information on powerful A ranks in Beyond and memorized as many as you could.)
+
+(I did, but as I said, only the most notable ones. Of course, even though I didn't see any such thylarin among them, that doesn't mean they don't have any or that they don't have any powerful people who just didn't go to Beyond, so we will keep our guard up. From our previous experience, it's safe to say there will be events where we will end up facing each other.)
+
+(Won't it start with an event where we fight off hordes of monsters, then large-scale battles, before moving on to more individualized ones? The previous tournaments went like that.) Min-Jae muses.
+
+(It might...) Tess doesn't get to finish when the conversation cuts off after yet another spike of changes done to my body.
+
+I don't allow another attempt to connect and instead turn my attention back to my body fully.
+
+"They’re asking if you are okay," Lily says from where she sits.
+
+"Yup, I'm okay," I say.
+
+She doesn't react to it at all, so I turn to look her way out of curiosity.
+
+"Liar, liar, pants on fire," Lily sings quietly, staring at me.
+
+"Well, the part about pants on fire is suspiciously accurate right now," I say back.
+
+"Nose as long as a telephone wire," she finishes quietly.
+
+Just before the start of the 1st event, I get a notification.
+
+The 1st event - Stampede will start soon!
+
+In one hour, everyone will be transferred to the event area, both planets and all difficulties grouped together. The location of the event will be randomly chosen from the system database.
+
+Your planet will compete against your opponent´s planet. The winning side will receive boosted rewards, which will also raise the individual rewards allotted to the participants.
+
+The 1st event will take place over the course of the next 12 hours, and the individual contenders will be rewarded according to their performance.
+
+During the Stampede, more and more powerful waves of monsters will come through the portal to face you.
+
+Your objective is to collect more points than your opponents.
+
+You can collect points in two ways:
+
+1st - Killing monsters
+
+2nd - Sabotaging your opponents
+
+The longer you endure the stampede, the better the rewards.
+
+Reading it, I come up with a range of strategies right away. It’s obvious you don’t necessarily want to sabotage your opponent too much, so both of you can endure the stampede for as long as possible for the best rewards. Though you still want to sabotage them for more points, creating a need to strike a balance between the two.
+
+I almost suspect that in the last minutes of the 12th hour, the monsters will become increasingly powerful. I wouldn't be surprised if it was the same as with the Witherclaw, where in the last seconds, he became comparable to an Absolute.
+
+For the rest of that hour, I do my best. I prepare an array that would allow me to halt my mana as much as possible. Even going so far as to prepare to move away from the others.
+
+I should still be able to do enough for some decent rewards. In my opinion, my state isn't that bad enough not to try. Actually, I’ve gotten used to it, so it doesn't even hurt that much anymore. It’ll be a mess, but that’s only to be expected.
+
+So impatiently I watch the timer, and when the invitation comes, I press yes to accept.
+
+I feel myself moved into the event the same as everyone else, and find myself on a far stretching flat plain with dust rising into the air and ruins of large structures all over the place.
+
+When I'm about to take a step, I feel a pull and find myself outside. Back alone in the common area, where the barrier around me starts blinking off as its only power source is a few mana batteries quickly filled and set to power the structure.
+
+A notification pops up.
+
+You have been flagged as dead, healed, and removed from the event.
+
+Good luck next time!
+
+My healed body starts gathering damage once more.
+
+I slide and sit on the ground, where I clench and open my fists. Then I look up, towards the huge screen that appeared in the common area, and start watching the event.
+
+A second later, Lily appears in the area with me.
+
+I stare at her, she stares at me. Then she sits down and pulls her knees up to her chest.
+
+"Wounding yourself enough to get kicked out of the event just to sit here with my sorry ass is exactly the sort of abnormal behaviour I’d expect from group 4," I note.
+
+Looking at me intently, she says, "You would’ve done the same."
+
+"I wouldn't."
+
+Lily just laughs and falls quiet.
+
+Annoyed for some reason, I lean back from my sitting position and end up lying on the ground as I stare at the top of the barrier while an array of energies explode around me.
+
+"I'm bored, tell me about something," I say.
+
+"Sure." Her voice picks up with excitement. "Want to hear about how Grumpy once saved me from the neighbors’ scary dog?"
+
+"I don't mind."
+
+She then gets to talking, and even with just a small part of my available mind, I listen to her.

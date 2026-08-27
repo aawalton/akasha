@@ -1,0 +1,241 @@
+---
+id: 01f5f1bd-4883-5a1b-a20e-cf129c00702f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 979: Unequivocally My Thing"
+slug: 0046-chapter-979-unequivocally-my-thing
+partOf: he-who-fights-with-monsters
+position: 46
+ownLength: 2651
+unit: words
+ownProgress: 2651
+publishedAt: 2026-02-09
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3030214/chapter-979-unequivocally-my-thing"
+royalRoadId: "3030214"
+markedReadAt: "2026-06-29T19:05:27.650Z"
+---
+
+Both of Jason’s territories on Earth had a central tower at the heart of them. The two buildings loomed over the cities they sat within, incongruous with their surroundings. Administrative centres for the clan, they also served as portal hubs, connecting to each other and the astral spaces they contained. The upper floors of the building contained office space and other amenities required by clan leadership. The bottom half of each tower was a massive atrium with multiple mezzanine levels.
+
+The atriums were more like hanging gardens. Plants grew everywhere, dangling from bridges crossing the open air at every level. Water features spilled from one floor to the next. The natural light was oddly unnatural, finding its way everywhere, whatever the time of day. There were no gloomy corners or places overshadowed by the bridges or upper levels. At most there was a pleasant dappling as it made its way through the bridge gardens, or the two large willow trees on the ground floor.
+
+The bottom floor was a reception area, but hard to navigate as it was more garden than lobby. The mezzanine levels had food courts, lounges and facilities related to the testing and training of essence users. Both staff and visitors could be found roaming the atrium at any part of the day. The portals were always to be found in the atriums somewhere, but had a habit of relocating themselves without notice.
+
+The exterior of each tower seemed unrelated to the interior. The façades were prone to undergoing massive changes, with the reason and schedule unknown. Since Jason’s return to earth, the changes had been more frequent, from every few weeks or months to every few days. What might be a Chinese pagoda one day could be a celestial tower of marble and gold the next. What remained the same was the vast and spectral presence of a blue and orange eye, shining over the tower.
+
+Emi loved discovering each new form of the tower. She enjoyed hunting through the atriums for the portals, visiting both domains to see what shape the buildings had taken. She would often take Vincent with her, wandering through the gardens together. He liked to sketch the towers, and she had a collection of his pencil drawings in their apartment.
+
+Since her uncle’s return, she hadn’t been able to keep up with every change. They came too fast when she was busy, whether going to Australia or preparing for Jason’s longer-term plans. On this particular day, she had been called to the Slovakia domain, so she had the chance to visit the building.
+
+It certainly wasn’t hard to spot, rising above the rooftops of Saint-Étienne as she rode a black scooter through the streets. The current design was a stark edifice of black glass and red embellishments, like the lair of some science-fiction despot.
+
+“Do you think Uncle Jason is angry?” Emi asked. “I have this feeling that the building changes are based on Uncle Jason’s mood. This one time, it turned into what looked suspiciously like a Japanese love hotel, which I hope it doesn’t do every time he—”
+
+“Mr Asano is, indeed, quite angry,” the scooter said before she could continue. “He has it under control, however, which is as much as we can ask for. He is distracting himself with another task.”
+
+“The mysterious thing you aren’t allowed to tell me about?”
+
+“Mr Asano felt it best to let the results speak for themselves, in case of disappointment.”
+
+The tower sat in the middle of a large market plaza. Food from the magically rich astral spaces was abundant, and mostly shipped through the portals in the tower. Food kiosks and produce stalls formed a small maze, and Emi brought the scooter to a stop. She drew gazes as the scooter exploded into a cloud of darkness the disappeared into her shadow, and she heard the usual whispers. Princess of the Asano Clan. It was a long time since she’d let it bother her.
+
+Normally she would check out the markets before going in. The food grown in the perpetual night of the Slovakian astral space were often unusual and interesting. Today, she headed straight for the tower doors that were, on this occasion, sliding slabs of dark glass.
+
+The interior was like a different world, some fey paradise trapped in a villain’s tower. A butterfly came down to land on her shoulder, the blue and orange of its wings vibrant but real. While reminiscent of Gordon’s doom harbinger butterflies, these were not the glowing variants Jason used to kill by the score.
+
+She wandered over to the long reception desk, where one of the four attendants were free. Emi recognised him as Tony Asano, who was a second cousin or something. Their great grandmother had already established a genealogy office to make sure that things didn’t get awkward a couple of generations down the line.
+
+“Tony, do you know where the Slovakia portal is right now?”
+
+“Second mezzanine, near the tteokbokki shop. Don’t you normally like to hunt it up yourself.”
+
+“Somewhere to be, today.”
+
+Tony leaned forward to whisper, despite it being pointless. With essence users having such powerful senses, each section of the reception desk had privacy magic to keep people’s business private.
+
+“Is this something to do with your uncle?” he asked. “I heard he had Nigel’s teams bringing vampires back when clearing out blood farms.”
+
+“I don’t know,” she told him. “They didn’t tell me anything.”
+
+“I bet something so cool is happening.”
+
+“You know that you could have been involved in stuff like this, right? But you couldn’t get out fast enough after basic training.”
+
+“Well, yeah, but monsters are scary. I’ll stick to guided hunts and minimal combat quotas to rank-up, thank you very much.”
+
+“That’s… not unwise.”
+
+“Really? I thought you combat types were all ‘essences shouldn’t be wasted on the weak,’ and such.”
+
+“I’m not a combat type, Tony. Is the tteokbokki any good? I haven’t tried it.”
+
+“I had the one with the ganjang sauce for lunch yesterday. It was good, but I’d recommend the gochujang, if you don’t mind it a little spicy.”
+
+“Thanks.”
+
+***
+
+In a ritual room in Carlos’ research centre, Jason, Clive and Bussinger watched Carlos and Farrah painstakingly draw out a ritual diagram.
+
+“I appreciate the assistance,” Carlos told Farrah. “With magic this delicate, it’s good to have a ritual specialist make sure the circle is drawn with as much precision as possible.”
+
+Jason turned when he heard Emi’s voice from down the hall.
+
+“…would I want to buy an amphora? They’re just inconvenient jugs.”
+
+“They’re artisanal.”
+
+“That just means they cost three times as much.”
+
+“Rhett, she knows!”
+
+Jason shook his head and went out to reception. The two former Order of Redeeming Light zealots at the desk turned pale.
+
+“Uncle Jason!”
+
+Emi moved in for a hug, wrinkling her nose as he tousled her hair.
+
+“Uncle Jason, I’m not a little girl anymore.”
+
+“Of course not, Moppet. Let’s go.”
+
+“What’s this all about?”
+
+“You’ll see.”
+
+He threw a stern look at Rhett and Jaime, who wilted like spinach in a sauna. Once he was gone, they both let out the breaths they were holding.
+
+“Did she say uncle?” Rhett asked.
+
+“She did.”
+
+Jaime looked over at the small ‘amphoras for sale’ display at the end of the counter.
+
+“We should change the sign to say we don’t sell to Asano family members.”
+
+“This is the Asano Clan, Jaime. That would cut out most of our market.”
+
+“That’s why we need to get the online store up and running.”
+
+“We still have the shipping issue.”
+
+“I’d rather work on that problem than have Jason Asano asking us why we sold his aunt or whatever a dodgy amphora we made with an enchanted 3D printer.”
+
+“You know he can probably still hear us, right?”
+
+“That does not undercut my point.”
+
+***
+
+Carlos, Farrah and Jason watched as Clive and Emi, on their hands and knees, peered closely at the completed ritual circle. Clive explained the intricacies as Emi pointed and asked questions. Bussinger, who soon would be standing in the circle stood aside from the others, staring at it.
+
+“Geneva Andros has shut up like a clam,” Farrah said. “She’s waiting for reps from the Network, like she’s in an interrogation room waiting on a lawyer.”
+
+“She basically is,” Jason said.
+
+“Anna and Danielle want to bring in as many people as possible. The Swiss government, the UN, the EU, all the magic factions. Not the ones with close ties to the Swiss branches, though. And the intelligence agencies we’re working with. They have the best interrogators, if we really want to put her in a room and sweat her. The basic idea is to drag all this into the light and see which bugs scatter.”
+
+“And how is that going?”
+
+“Andros might be staying tight-lipped, but all her little minions in the vault have proven less resolute. It looks like this Finnegan woman thought she was running a very tight little operation, with almost no one in the know. It turns out that her bosses were less discreet, already starting to shop around access to cores. If we hadn’t caught onto this now, the CIA would have in months at the latest. Probably weeks. We may have trouble rounding up everyone involved.”
+
+“That doesn’t matter. My involvement begins and ends with stopping the reality core farming, and making sure it doesn’t start it up again.”
+
+“That second part will be the trick. We may have to smack these operations down a few times, if people keep starting them up. They might see the risk as worth it, whatever example we make of these people.”
+
+“I know. Now that someone has developed the method, the genie is out of the bottle. We’ll have to do our best to hide the bottle and smack the snot out of anyone trying to dig it up.”
+
+“It’s looking like we’ve got a good line on the people in charge. The problem is that the operation itself, and the key players, are still in the wind.”
+
+“The woman the portal specialist mentioned? Marie Finnegan?”
+
+“It turns out that she’s the beginning of an interesting trail. That guy Remy had some surprising revelations to offer, once we pushed him. Lucky for us, he really doesn’t want to be in a room with you again. Turns out that while her bosses were selling out her secret operation, she was selling it to the vampire queen.”
+
+“We suspected they were working with the vampires.”
+
+“It seems that the connection is a little more personal than that. Finnegan has been working directly with Elizabeth. ‘Intimately’ was the word Remy used. It seems that the vamp queen been increasingly on the outs with her subjects since your little vampire apocalypse. She’s out of people to trust, so her, Finnegan and McKean have been running their own show.”
+
+“You’ve confirmed McKean’s involvement?”
+
+“We have. We even got a location on their main lab, but it’ll be tricky to mount a raid.”
+
+“How so?”
+
+“It’s a submarine. It moves around so even a portal specialist who has been there can’t go back without an organised rendezvous. We’re looking into having Remy try and set that up, but if Finnegan doesn’t already know he’s been snatched, it’s a matter of time. Zara is bringing her people in.”
+
+“The Storm Kingdom delegation?”
+
+“Most of the Storm Kingdom is water. Their adventurers know how to operate under the sea.”
+
+“They mean to search for the sub the hard way,” Jason realised.
+
+“Exactly. We’d need to get lucky, but we have a general area to search.”
+
+“Anything you need me for?”
+
+“I think Anna will want to shake you at people in the coming days and weeks. It looks like they’ll have to gut at least two Network branches here in Switzerland. The same way they did in France after Adrien Barbou. We’re covered for now, though. Just concentrate on what’s happening here. Also, what’s happening here? That is the most precision analytical ritual I’ve ever seen. It’s basically a soul microscope. Why do you need to look at someone’s soul that closely?”
+
+She turned to look at Bussinger, standing nervously in the corner. Jason followed her gaze.
+
+“I think I sensed something during the fight,” he said. “Can’t be sure, so I’m having Carlos take a closer look.”
+
+“Uncle Jason’s being extremely cagey,” Emi said as she got up from the floor. “That ritual circle is immaculate, Farrah. You’ve gotten even better since the last time you were on Earth.”
+
+“I had a lot of time to practise while someone…”
+
+She gave Jason a flat glance.
+
+“…was off fighting super gods for the fate of the cosmos.”
+
+“It was for the fate of the cosmos!”
+
+“There’s always an excuse,” Farrah said and shared a nodding look with Emi.
+
+“Can we just start please?” Jason asked, and they all turned to Bussinger again.
+
+“Uh, what exactly is going to happen here?” she asked.
+
+Carlos stepped between her and the others. With his lab coat and the glare he gave them, he looked like a doctor shooing people away from his harried patient. He then turned to Bussinger and spoke softly.
+
+“It’s very simple. We’re going to take a look at your soul, but just the outside. It’s more or less the same as someone looking at your aura, but very thoroughly. It won’t hurt or be harmful, although most people report the sensation feeling quite intrusive. Asano did ask if you wanted to be subjected to this right? What did he tell you exactly?”
+
+“That he wanted someone to check something, about one of my powers. That someone was apparently you.”
+
+“And that’s all?”
+
+“What was I going to do? Fight him again? He fought me and six other people, and they all look like skeletons that were fished out of a tar pit.”
+
+“They’re alive,” Jason clarified. “Gold rankers. There’ll probably be some PTSD.”
+
+“You, of all people, should know better than to joke about that,” Carlos said.
+
+“I’m not,” Jason told him. “Living through the things I do to people is going to stay with them for a long time.”
+
+Jason turned to Bussinger.
+
+“You’re in good hands with Carlos. He’s a healer. Kind of the opposite of me. But I’m not going to force you into doing this. If you want to go back to the mountain and get detained until we figure out what to do with you, that’s your choice.”
+
+Bussinger looked at all the people staring at her, before settling her gaze on Jason.
+
+“It’s been going through my head,” told him. “What do you want? Can I trust any of what you tell me? Then I realised that it doesn’t matter. I can’t escape you; I can’t outfight you. You’ve been asking me to participate, but that’s just to make things easier. If you want me to do something, you can make me, whether I want to or not.”
+
+The others watched Jason as he stood in silence, considering how to respond.
+
+“You’re not wrong,” he told her. “I can make you do as I please. The whole world, really. But I don’t, because I don’t like what that would make of the world, and I don’t like what it would make of me.”
+
+He sighed, then turned to Carlos.
+
+“Sorry, mate. Let’s pack it all up.”
+
+“Wait, what?” Bussinger asked.
+
+“What?” Jason asked.
+
+“You’re just going to give up?”
+
+“Yeah. Consent is unequivocally my thing.”
+
+“I didn’t say no. What is it that you think you saw? I think everyone here wants to find out, myself included.”
+
+“And I’m not going to tell you. Not without knowing for sure. I’m almost certainly wrong, and I wouldn’t want to get anyone’s hopes up. Not on this.”
+
+“Alright, then,” Bussinger said. “I’ll do it.”

@@ -1,0 +1,155 @@
+---
+id: 36710445-d814-5d2b-a346-f2f1f04f3a8b
+page-type-slug: story-chapter-royal-road
+title: "318. Monster Hunting"
+slug: 0318-318-monster-hunting
+partOf: god-of-trash
+position: 318
+ownLength: 2442
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3480173/318-monster-hunting"
+royalRoadId: "3480173"
+---
+
+The two of them stepped into the valley, setting off at a moderate pace. Most of the monsters near the edge avoided them due to the gap in their aura-levels, outright fleeing as they approached, so they headed deeper, leaving the edges behind one step at a time. Ryota held a finely-crafted straight sword, with an ornate but functional hilt, and Rhys held the poison sword he’d crafted back in the Empire. He slashed it a few times as they walked, getting used to the flexible blade again.
+
+“That’s an interesting style of sword. You don’t usually see it out here on the islands; it’s more popular on the mainland,” Ryota commented.
+
+“Oh, is it? I just threw it together out of some trash,” Rhys confessed.
+
+“Eh? You didn’t mention you were a swordsmith.”
+
+“I’m not. I just made a sword. Two… two swords. Maybe a few more.” He paused. “But I’m not a swordsmith, I swear. Just a hobbyist.”
+
+The methods by which he’d made the poison sword and The Hunger couldn’t be compared to swordsmithing. He’d really just done whatever, and things had happened to come together in the shape of swords, that was all. Calling him a swordsmith was like calling him a seamstress… seamster? Sure, he’d thrown stuff together, and a few times, he’d made clothes (or a sword), but it wasn’t like he was a professional deserving of such an impressive title or anything. He was just some guy who was cutting all the corners he could and throwing stuff together to stumble over the bare minimum of the finish line.
+
+It hadn’t made him very popular with the cosplay contest judges back in the day, regardless of how cool his costumes looked from the outside or how closely they fit the character—it’d be someone in an original costume who had the money to afford a serger and bothered to serge their hems instead… but that was an old grudge. The point was, throwing some garbage together, making it look good, and doing the bare minimum to make sure it didn’t fall apart when it was put into use wasn’t the same as actually wholeheartedly trying to make good clothes or gear, with sturdy seams and hems that were serged to last.
+
+He wasn’t bitter about that loss. Not at all.
+
+I spent hundreds of hours on that dress. Hundreds of dollars, too. She looked amazing! We even did all the props and everything! It was a total steal! Fuckin’ judges…
+
+“Rhys? You look troubled,” Ryota said.
+
+Rhys waved his hand, deeply embarrassed by what had been troubling him. “Gods, no. I’m not troubled at all. What a petty, useless grudge…”
+
+Ryota chuckled. “We all have one or two of those, don’t we?”
+
+“Do we?” Do other people really hold years… no, decades-long grudges over a small loss in a tiny cosplay contest over serged hems? Do they really?
+
+“Holding grudges is simply human, after all. It is divine to overcome those human chains.”
+
+Rhys looked at him, then snorted. “I feel like I should say ‘amen’ or something every time you pull out one of those.”
+
+“The elders would be very pleased if you did, but I don’t really care.”
+
+“Not much for religion?”
+
+Ryota shrugged. “Are you?”
+
+“I’m kind of trying to obtain godhood, so… no?”
+
+Ryota burst out laughing. “I thought you’d say yes.”
+
+Rhys gave him a helpless shrug. “I mean, religion is all about deferring to a higher power, right? You’ve got to be egoistical enough to say, ‘nah, I’m that higher power’ if you’re going for godhood. I don’t think many people aiming for the top are going to be huge on religion.” He paused, then added, “Well. Unless it’s their religion, I guess.”
+
+“Their religion… oh, like people worshipping them?”
+
+Rhys nodded. “Yeah. Come to think of it, I should probably get that rolling, huh? If I’m aiming for the top.”
+
+“Don’t you usually attain immortality and then establish your religion?”
+
+Rhys scoffed. “That’s for losers who don’t want to profit from their religion. I want to enjoy the worship and money while I’m down here.”
+
+Ryota frowned. “Money?”
+
+“Oh yeah. So much money.”
+
+“I think your religions and my religions are a little different.”
+
+“Well, well, well,” Rhys said with a maniacal grin and a thoughtful pinch of the chin. What were people like him best at? That’s right: crossing oceans and bringing religion to new populations, who always* welcomed them with open arms and joy!
+
+*Rhys was well aware that this ‘always’ only existed in the whitewashed, trashy version of history he’d learned in school, and was more like ‘never’ in actuality.
+
+But still… he was just coming out of his villain arc. What was trashier than a reformed villain dipping his toe back into villainy just as soon as he’d come clean? And for that matter, could it get trashier than going all God, glory, and gold in another world? Hell, he’d read no shortage of books that did whatever their home country’s version of that was, and they usually even sold it as positive! He didn’t expect he’d get such a warm welcome in the less-rosy reality he’d found himself in, but, well, gold was right there in the trio. There was money to be made in introducing new populations to religion.
+
+Ryota squinted at him. “I don’t like that expression.”
+
+“You shouldn’t. If I do this, I’ll probably end up bringing holy war to your home country.” Rhys paused, looking Ryota up and down.
+
+“What?” Ryota asked.
+
+“But you know… you could profit from this.”
+
+“Huh?”
+
+There were places where the local nobility had welcomed the influx of conquerers for their own benefit, whether it meant they could gain power in the court or even overthrow the country for their own purposes. Ryota perfectly fit the bill. He was downtrodden, but still had power, and stood to gain from Rhys’s backing. Now, Rhys wasn’t bringing the overwhelming, world-changing upgrade in tech and trade that had fueled those decisions back in his homeworld, but he could offer his services, and if he really got a religion going, he’d have the equivalent of a small army of bodies on his side.
+
+He nodded at Ryota. “What if I established a new religion here, then pointed them all at you? Made you the second coming of our holy figure, or whatever? Currently, I’m just one guy. What if I created a fervent army at your beck and call?”
+
+“That… would significantly increase my chances of becoming king. But what makes you so sure you can accomplish that?”
+
+Rhys shrugged. “I’ll have to figure it out eventually, right? Might as well give it a shot.”
+
+“So you’ve never done this before?”
+
+“I once led a rebellion-slash-fast-food-enterprise. It’s not that dissimilar, is it?”
+
+“A rebellion-slash… what?”
+
+“Not important. What’s important is that we were successful. At the rebellion and the fast food. To put it in terms relevant to our present discussion, I’m experienced at creating and leading successful mid-to-large-size enterprises with multiple franchise locations. What I can bring you—if you’re interested, of course—is that experience, applied to founding a religion instead.”
+
+Ryota sighed. “Couldn’t we just raise an army the normal way?”
+
+“Sure. Do you have resources? Lots of money—I’m talking thousands of thousands of gol… spirit stones, for feed, stabling, and gear alone, let alone recruitment and benefits. Oh! And we can’t forget advertisement. You’re also going to need connections to paramilitary groups to absorb them and their leadership, since I don’t think you know how to train an army, and I know I don’t.”
+
+Ryota shook his head in agreement.
+
+“And let’s talk about the downsides of owning an army. A standing army needs to be in conflict, or it grows dull; either that, or constant, expensive training. Anything your soldiers do reflects upon you, the positive… but more often, the negative. And the second your rivals see you raising an army, they’ll either raise their own, or immediately start attempting to sabotage yours, or both. Gathering an entire army almost guarantees you’ll pick up people whose beliefs don’t align to yours—even people who might believe in your rival princes, if you get my drift, and then, of course, there’s the essential question.”
+
+“Which is?” Ryota asked, when Rhys paused.
+
+Rhys grinned. “When all that’s done, and you’ve sunk millions into your soldiers, hired thousands, sustained them, trained them, put them to war… when the day’s over, are they your soldiers, or your generals’ soldiers? Are you confident you can strike loyalty in a powerful group of subordinate generals, or better yet, directly into every individual soldier?”
+
+Ryota twisted his lips. “If I had people I could trust as generals, I wouldn’t have begged you to join me. Same for striking loyalty into people. I’m… not greatly loved or trusted, compared to my brothers. I live my life as I please, and take advantage of the advantages my birth provides me. I don’t mean to deny that, but it hasn’t won me many supporters, to put it kindly.”
+
+Rhys snapped his fingers. “Precisely. Which is why you aren’t suited to raising a traditional army. But a religion… it doesn’t matter what you do. As soon as we make you an object of worship, you’re untouchable. Divine. Perfect beyond perfect. Your followers will believe in you regardless of what horrific crimes you commit—”
+
+“I don’t commit horrific crimes!” Ryota protested.
+
+“—I’m talking fraud, murder, sex offenses, everything. Of course, it’s better for all of us that you aren’t a horrific criminal, and I certainly wouldn’t have approached you to offer this if I thought you were that kind of person. But, having gotten to know you a bit, I really do think you’re better suited to holy war than ordinary war. You need your followers to be blind, to fervently believe in something regardless of all evidence, to believe that the divine itself is on your side. You don’t need, nor can you handle, the troubles of a conventional army.”
+
+Ryota nodded along, then sighed. “Right, but we’re speaking of mages here. They aren’t commoners, who can be dazzled with tiny displays of mana. Mages would have to truly see something incredible to believe in the divine.”
+
+“Why aren’t we speaking of commoners? Many mages start as commoners, and the most impressionable years are in early childhood,” Rhys pointed out.
+
+Ryota threw his hands up. “I have a hundred years, not ten thousand. Let’s assume all goes well, and I gather my followers among the civilians… say I successfully capture the heart of every mage-bound civilian, with no loss whatsoever. I need to wait for them to become mages, then to progress through the ranks and climb up to the level where they’re relevant on a national-battle scale, before I even have my first soldiers. That will take far more than a hundred years, and the battle of succession relevant to me will be long over.”
+
+“Why don’t you have ten thousand years?”
+
+“Huh?”
+
+Rhys leaned in. “Think about it this way, Ryota. Do you want to be king for a hundred years, or for forever? A hundred years is the blinking of an eye to a mage. Even if you won this succession battle, the warlords are still the ones who hold the real power. You’d be nothing but a puppet representing the same grandfather you hate so much. In a hundred years, they’d shuffle you off to make room for their next chosen king. You wouldn’t truly obtain anything. You’d just sit on that throne like a log for a hundred years, and have gained nothing.
+
+“But what if all the young mages, all the new blood, saw you as a god? What if you controlled not just their minds, but their hearts? Clutched their very souls in your hand, from things ingrained in them in infanthood, childhood, reinforced throughout adulthood? You would obtain, not a puppet’s throne, but a true kingship. You would rule; not as a representative of your region or your grandfather, but as yourself. No one could tell you otherwise.”
+
+“Become too strong for them to shake me, basically? We’re back at your first lesson,” Ryota asked with a chuckle.
+
+“Too strong, but not mere ephemeral martial might. True power doesn’t reside in your own body, but in the minds of others. Become immortal; not in actuality, but to those who believe, to the citizens of your new country… to those who matter: the trash ordinary citizens, the faceless multitude from whom true power flows.”
+
+Ryota nodded slowly. He stroked his chin with his free hand, then cut his eyes to Rhys as a smile spread across his lips. “If nothing else, you’ve convinced me of your ability to preach a vision.”
+
+Rhys shrugged. “What can I say? I’ve watched a lot of trash tv. There’s a lotta people out there who want to convince me to believe in this god and that political party and buy this other product… I know how to sell.”
+
+“You sure do. You… certainly do.” Ryota looked down, just thinking for a minute, then sighed aloud. “Give me some time to think. This isn’t a course we take lightly.”
+
+“Sure. As long as you need,” Rhys said with a shrug. It was a course he took lightly, but he could change his face, change his body, and vanish into the void, teleporting somewhere else where no one knew where he was.
+
+Ryota had none of those advantages. He was a public figure, and as far as Rhys knew, the man had no disguise techniques. He had something. He couldn’t simply throw away all the standing and power he had simply by breathing the way Rhys could easily throw his life away repeatedly. From the moment Ryota had been born, his life had held value. It wasn’t trash in the least. The opposite of Rhys’s trash, worthless, faceless-commoner-in-the-crowd life. In the same way that it was easy to throw away fast food wrappers but hard to throw away one’s prized gold, so, too, was the difference between Rhys and Ryota’s lives.
+
+Internally, Rhys cackled. Most importantly of all… not only do I get to beat up your grandpa in this plan, but I get to totally unseat him from his place of power and stomp his face into the dirt. He might not care about some random guy coming along and kicking his ass, but he’ll feel it if I rip everything out of his hands.
+
+Am I too petty? Yes. Do I care? Nope.
+
+The two walked on, deeper into the forest, and the wind blew.

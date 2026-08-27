@@ -1,0 +1,159 @@
+---
+id: efac5d43-c7bb-5aef-b93e-539acc6c5a77
+page-type-slug: story-chapter-royal-road
+title: "Chapter 814 - Boys' trip"
+slug: 0141-chapter-814-boys-trip
+partOf: hell-difficulty-tutorial
+position: 141
+ownLength: 2181
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3457652/chapter-814-boys-trip"
+royalRoadId: "3457652"
+---
+
+“What’s this guy doing here?” Morwag asks, his tone surprisingly calm. “And what’s he smirking at?”
+
+“Why wouldn’t I be smiling? The weather’s nice, the food is great, and I’m surrounded by my friends. I’m blessed!” The lumoran known as Brich smiles widely.
+
+“Are we waiting for someone else?” Weslin asks, cutting in before Brich can further irritate the most demon demon to ever demon.
+
+“Yes,” I nod. “The most cowardly guy to ever exist.”
+
+That causes Brich to perk up again. He turns away from Morwag and looks at me. “I didn’t know young Savant would be coming as well.”
+
+“Why not? I bet he doesn't have anything better to do,” I snort, leaning back.
+
+All four of us are currently sitting around a table on a terrace with no buildings below it. Nothing to block the view opening out into the vast canyons of the 4th floor of Beyond. On the table, there’s already plenty of food and several drinks. As we eat the breakfast I paid for, I make a mental note to have my guild reimburse me. I definitely consider this a business expense.
+
+Everyone here has brought their own equipment, whether it be armor, weapons, or travel bags. In Brich’s case, it is the massive metal suit of armor he wears even as he sits, his winged helmet resting on the table. At his waist hangs the Ego weapon, Calvorn, and next to him is a massive bag with who knows how many items he’s set to test for the mora trio.
+
+“You haven’t told me what your plan is,” Morwag says, addressing me this time.
+
+In answer, I simply shrug. “That’s mostly because I make things up as I go. But don’t pretend you have anything better to do. Before you return to the tutorial and get thrown out, you might as well explore Beyond a little bit with us. Don’t tell me you weren’t curious about what’s been creating lurkers or what there is to see on the surface.”
+
+“I have no need for such a silly lie,” the demon answers, crossing his muscular arms over his chest. “I just question the company you’ve brought.”
+
+“Well, it’s not like I know all that many people. My group is doing their own thing, as is my sister, so you guys are who I have left. But honestly, I wouldn’t trade you for anything. You are the best companions I could-”
+
+“Oh, just shut up,” Morwag snorts, waving at a waitress to bring us more of the snack he’s been enjoying.
+
+When I look around, I notice the attention we’ve been getting. After all, there are four S ranks all sitting together, planning an adventure. Even now, I wonder why I decided to put this small group together instead of going alone, much less why going so far as to contact Savant through Crimson Forge.
+
+Well, I like spending time with Weslin and Morwag. Even if he is one scary motherfucker, the demon is a reliable companion, that much was proven when we faced that Champion. As for Brich and Savant, I’ve always been curious about their abilities. I want to see more of Calvorn and sneakily use this expedition to learn from Brich. I’m also curious to see what the most cowardly guy in existence has been up to and steal some knowledge from him, all while visiting all the places I promised myself I would see.
+
+Now that I think about it, we are all men. Doesn’t that make this a boys' trip? What an amusing thought. I should come up with a cool name for us.
+
+“Here you are!” Brich calls out just as Savant enters the terrace. He’s still rocking long black hair, those same cowardly green eyes, and that annoying beauty mark under the corner of his eye.
+
+For a moment, he looks around, his eyes stopping on Morwag and then on Weslin, before turning to Brich and finally landing on me.
+
+I give it about a 40% chance that he will turn around and leave immediately.
+
+In the end, he seems to clench his teeth and walks over. He shrugs off his bag, throws it on the ground, and sits in the free spot next to Brich.
+
+“You told me it was only going to be you and Brich,” he accuses me.
+
+“Because you probably wouldn’t have joined if I told you about the other two,” I explain.
+
+“Don’t you think that’s just a little bit deceptive?”
+
+“Quite deceptive and an asshole move,” I agree. “By the way, can you make your void heart start beating? I want to observe it.”
+
+“No.”
+
+“Well, maybe you’ll change your mind in a few minutes.”
+
+“No.”
+
+“Reliable as always, but look. You have Weslin here, and he’s literally the best attendee around when it comes to handling void energy. There's a lot you can learn from him.”
+
+“That is the main reason I haven’t left yet,” Savant explains and turns to Weslin while nodding his head in a polite greeting. “It is nice to meet you. You can address me however you want, but my alias is Savant.”
+
+Before Weslin can answer, it is Morwag who laughs out shortly. “Savant this, Savant that. Just how much hubris can a simple human have? And that pathetic, shriveled thing lying dead in your chest that you dare to call a heart. Stolen from a dead weakling of a demon nonetheless.”
+
+The pressure around the demon increases. Even though his eyes are the reddest of any demon I have seen so far, that red deepens even further as the wood and stone around us creak.
+
+“Morwag.”
+
+That single word from my mouth causes silence to ensue, and the demon turns his head to me slowly.
+
+Facing him, I smile. “I invited this guy here, and you immediately threaten him? After he just found out I lied to him and decided to stay anyway? During breakfast, no less? I know you want to establish dominance or something, but at least wait a while and do so in a way that doesn’t feel like you’re spitting in my face.”
+
+That causes Morwag to smile back at me. After a few moments where we stare at each other, he smiles even more and says, “I apologize, I have been rude.”
+
+“It is okay, I have been easily upset myself as of late and could have spoken more kindly.”
+
+“No, it was me who crossed the line first. Your reaction is well deserved.”
+
+“Still, I feel a bit bad now that you’re being so reasonable. I feel like I jumped to a weird conclusion and expected you to act in ways you never intended.”
+
+“You guys gonna kiss or fight?” Brich asks excitedly, chewing on a bit of pastry with his mouth wide open and his armor clinking with each move.
+
+Morwag laughs and pulls his chair closer to Brich while still showing that charming smile. It causes Brich’s smile to waver a bit, but he still maintains it and chews a bit slower.
+
+Sometimes I wonder, with the way skills work and how they can be influenced by how you perceive things, and even made stronger, do weird people have an advantage? Let’s say you have someone with a skill like Tess’s [Declaration]. If she were totally twisted and delusional and declared herself a Champion candidate, would she have a chance of pulling it off with a high enough skill level?
+
+Would you just need to have that, baseless, totally delusional trust in yourself? And would that make the skill work because that’s just how you see it? All because you are a bit... well, out of your right mind and literally incapable of thinking differently?
+
+I think there might be something to that, and perhaps all the most powerful people are twisted in some way. The question is what that says about Earth that we should have so many powerful people.
+
+Yet another disadvantage for normal people like me.
+
+“Rookie, why do you even want to meet these people first? What about Lochi and Duncan? You even used the guild’s information network to track them down,” Weslin asks.
+
+I switch my attention to him and answer honestly, “Just a whim.”
+
+“A whim?”
+
+“Yeah, is that weird?”
+
+“Out of all the things you did? Not at all. Overall, a bit weird? Slightly, but nothing too serious.” The best void user currently in Beyond smiles slightly. “Maybe that just makes you a bit nostalgic at times.”
+
+“That could be,” I nod. “And you? You agreed to join pretty quickly. How come?”
+
+“Just a whim?” he smirks. “It sounded fun to go on one last big adventure before I end my tutorial, especially with my weird fucking buds.”
+
+“Weslin, you’re too pure for this place. If Malika ever breaks your heart, I shall avenge you terribly.”
+
+That causes him to laugh even more, and he moves his hand through his growing white hair, and I notice that he actually has a decent haircut now. Surprisingly, Weslin is a handsome fella.
+
+It is not like he wasn't with his shiny bald head, but back then, he seemed to be in a more dangerous, austere way. Now he feels gentler, even if that personality hasn’t actually changed at all.
+
+“Well, why the hell not,” Weslin says. “Though it is a bit complicated with, well, you know, both of us being from two different freshly awakened planets. We might just give it a pause for a few years or decades before we find a way to meet each other.”
+
+“Huh, I hadn’t thought of that. That sucks.”
+
+“It does,” Brich agrees, and both Weslin and I turn to look at him.
+
+The lumoran takes another bite and chews slowly, while Morwag just sits there with a straight face, spitting grape seeds at him every time he eats one.
+
+My gaze shifts, and I look at Savant, who is giving all of us exactly the look I would expect from him.
+
+“Brich, did you know Savi has a Sword of Aeons?” I ask.
+
+“Of course I do,” the metal armor clinks as the lumoran nods. “Most of the bigger guilds knew about it before he even joined Crimson Forge. Weakened or not, the Sword of Aeons is the greatest mana battery on all of Eladore. There are some people I know who collect them enough to have a few dozen, though they’re rarely restored to the point that young Savant’s is. How many times has someone tried to steal it from you or kill you for it?” he asks Savant.
+
+That unhealthily patient man thinks for a second before saying calmly, “Two times on the first floor of Beyond, once on the second, once on the third, and six times on the fourth.”
+
+“How many of those times was it Crimson Forge or Brich?” I ask.
+
+“About half of them,” Savant answers.
+
+Brich doesn’t even seem ashamed, and Morwag spits another few seeds at his face. They fall behind his neck and drop down into his armor, causing Brich’s eyelid to twitch.
+
+In the end, it’s the lumoran who stands up first. “Well, gentlemen, why don’t we go? I just received information that Lyraen has left Beyond to return to his tutorial for a few days, so it should be safe for me to leave the Megacity.”
+
+On the third floor of Beyond, we decide to stay for a day. In my case, I need to visit a certain catboy. As for the others, they get weirdly into sync and agree that it’ll be a good idea to head outside during the night when the most powerful monsters appear.
+
+The kind of monsters that like to wipe out entire outposts.
+
+Obviously, the settings of this floor haven’t changed since the last time I was here. The day is safe, but during the night, you'd better be in an outpost, which ranges from a maximum capacity of 10, 100, 1,000, or 10,000 people. These outposts are safe zones at night, but only if the number of citizens doesn't exceed that maximum. Once it does, the safe zone function is permanently removed.
+
+It’s safe to say all citizens would rather band together and kill you from a distance than let you in during the night if the city’s already full.
+
+So here we are in the Black Tower outpost, where the largest branch of the Primordial Knights on this floor is located. At the start of the day, Morwag, Weslin, and I head into the headquarters while Savant and Brich go do their own thing until night falls.
+
+I don’t like the looks I get from the other guild members as we walk through the hallway. Most of them clearly recognize me, and it reminds me once again that I have become the guild master here, even if I had hoped I would just collect my salary and abuse the resources a bit without any real responsibility.
+
+We split up with Weslin, who goes to greet the branch leader, while I head downstairs to meet the Doc.

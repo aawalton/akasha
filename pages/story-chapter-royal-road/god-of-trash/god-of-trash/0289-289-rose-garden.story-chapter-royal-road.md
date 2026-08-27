@@ -1,0 +1,99 @@
+---
+id: b9065272-fd62-583a-8ad0-978066fbc237
+page-type-slug: story-chapter-royal-road
+title: "289. Rose Garden"
+slug: 0289-289-rose-garden
+partOf: god-of-trash
+position: 289
+ownLength: 2390
+unit: words
+publishedAt: 2026-03-20
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3174630/289-rose-garden"
+royalRoadId: "3174630"
+---
+
+Rhys wandered through the rose gardens after Lily, not interested in conversing with her much anymore, and nor did she initiate a conversation. She probably hated him after all that. And honestly? He wasn’t the biggest fan of her, either. Getting told that what he’d done was impossible, then just hearing nothing but excuses nonstop… no wonder she hadn’t been able to grow until now. Instead of scrambling for an answer, no matter what it was or how hard it was to accomplish, she’d just given up and found excuses instead.
+
+It was fine to live that way. There were things that everyone had to give up on, where it caused them so much pain to press on that the only answer was to make an excuse and bow out. And even if all she wanted to do was make excuses and laze away her whole life, he wouldn’t have begrudged her that, either. But instead, making excuses, fixing them as absolutes in her mind, then developing a victim complex around the things she’d decided for herself—that was the part he couldn’t forgive or get over.
+
+He snorted to himself, amused yet again. The better I know her, the less I like her. It wasn’t the rom-com way, but then again, this wasn’t a rom-com. This was his reality, like it or hate it, and the number of times things went in a not-very-rom-com way was far higher than the number of times they went in a rom-com way.
+
+That’s… probably for the best, honestly. Rhys lifted his hand up, a bit curious if anything kept him from flying directly to the mansion and abandoning the maze entirely. To his shock, there was actually a barrier between him and the sky. It wasn’t the strongest barrier, and just from testing it, he sensed that he could overwhelm it even without relying on impurities, so he lowered his hand. If he needed to, he could get out. That was the important part. Until then, he’d go along with these mage-nobles’ weird habit of pretending to be mortal, and keep wandering the maze with Lily.
+
+They turned the corner and abruptly came upon a mage couple making out in a dead end. Rhys and Lily alike quickly took another turn, leaving the couple to their business. Rhys reached out as they turned the next corner, trying to sense the couple’s aura behind him, only to find that the roses soaked up his mana senses.
+
+He raised his brows. Mage-nobles sure do go hard on playing the mortal. Even going so hard as to give us the awkward experience of walking in on another couple making out, huh. I didn’t really need that, but I guess it’s a novel experience for mage-nobles, who’ve only been mages their whole life? Either that, or this Traje lady that Lily idolizes is secretly an exhibitionist. Nothing wrong with that, I guess, but… you know, consent is key, and all. Ask someone before you put them directly in the non-con cuck chair.
+
+It was also a warning to not do anything too strange or aggressive in the rose garden, since he literally didn’t know what would be around the next corner. He was completely blinded. He hadn’t noticed until now for two reasons; one, he hadn’t been actively paying attention to his mana senses, and two, the roses ate away at it gently and quietly, so that he didn’t feel like his mana senses were cut off. It felt like they reached their natural limit and eroded away the way they usually did, except their natural limit was far shorter than he was used to. He’d been frog-slowly-brought-to-a-boil’d. Crab-potted.
+
+Good thing I wasn’t planning on doing anything drastic in the rose gardens, he thought sarcastically to himself, glancing at the couple over his shoulder. Shaking his head, he followed Lily around the next corner, and stopped dead.
+
+Classic white robes. Long black hair. A black-hilted sword at his side, brutal in its simplicity. The Sword Saint stood around the next bend, admiring a rose… or more literally, staring blankly at the nearest rose bush with the kind of vacant stare that told Rhys he wasn’t seeing anything at all.
+
+“R…Rhys?”
+
+And stepping out from beside him was a very familiar figure, if he did look more haggard and wan than usual: Bast.
+
+Their eyes met. Rhys quashed as much of his mana signature as he could, though he knew he wouldn’t be able to fully disguise it. He was already using his trash star instead of his mana core, but Bast recognized him anyways; there was nothing more he could do but emit as little of it as possible and hope Lily covered it up… or that Bast had enough compulsion wiggle room to cover for him, or at least pretend to doubt himself.
+
+As for his part… he was going to give Bast as much room as possible to doubt what he sensed, and bluff like hell.
+
+He pulled himself up to his full height and cleared his throat, then bowed low. “So good to meet you, Sword Saint and apprentice. It’s an honor.”
+
+He honestly wasn’t sure how to formally address Bast, since he’d never done it, so all he could do was awkwardly refer to the Sword Saint’s apprentice and hope it was close enough.
+
+Bast blinked. He looked Rhys up and down, then frowned. Rhys felt his mana senses test his, and shied back behind Lily to let her absorb as much of his probe as she could. Bast frowned, then nodded. “My apologies. I… made a mistake.”
+
+“Of course, of course. No offense taken, I assure you.” It made it easier on Rhys, too. He didn’t have to run off and go find Bast and the Sword Saint in the middle of the night. Madame Tunk had assured him they’d be here, and he’d had no reason to doubt her, but it was reassuring to have found them this early.
+
+Though, for the sake of his stealth, he’d rather not have encountered them this early.
+
+I could always act now. Kick everything off from here, instead of my planned entry point. He considered it for a second, but then dismissed it. He still didn’t have his proof for the mage-nobles, and if he went for the Sword Saint before he went for that, he’d have very loudly kicked everything off without gaining the one thing he kind of needed things to be quiet for. Besides, there was more than one thing at stake on things remaining quiet for just a little while longer.
+
+Thus, nodding at Lily to follow, he walked past Bast and the Sword Saint and headed on through the rose maze. Now wasn’t the time. His plan might be trash, but it was his plan, dammit, and he was going to stick with it. Now wasn’t the time for ad-libbing. Sure, it was ad-libbing that’d kicked off World War I, but ad-libbing, notably, had also gotten all the conspirators very jailed and even more executed, so this time, he was going to learn from history and keep himself un-jailed and un-executed, and not ad-lib.
+
+It was more important to him that everyone survived this, himself very much included, than that he succeeded in his goal of defeating or otherwise destroying Virgil. If he got everyone out of this alive, but Virgil also survived, he’d be much happier than if everyone died, Virgil included.
+
+He glanced back as they turned the corner and caught Bast looking at him over his shoulder. Their eyes met, and Bast looked away. Rhys turned away as well, pretending it was just a coincidence. I’m not sure he’s fully convinced, but he’s at least confused. Hopefully he isn’t compelled to tell Virgil everything he suspects or thinks, so that if he’s compelled to tell everything he knows, maybe he can have a little wiggle room with the confusion. And even if he can’t wiggle out of telling Virgil about our encounter, he can at least truthfully say that he didn’t know that it was me for sure, he just had a suspicion.
+
+It wasn’t foolproof, and it meant his disguise was basically busted. But the thing was, he was making his move tonight. His disguise wasn’t busted in a time frame that mattered for tonight. By the time Virgil asked Bast if he’d seen anyone, and Bast had communicated his experience, and Virgil had to decide if it was actually Rhys or not, Rhys was planning to have already made his move. And if he didn’t make his move tonight, then he could simply scrap his face and start over. It was a bit annoying, and it meant Virgil would have an idea of where his attack was coming from and be suspicious of the mage-nobles from now on, but that was kind of a bonus in of itself? If Virgil became even more paranoid and started pushing his less-devoted followers away, that was a benefit for him, even if it meant it was harder for him to make his personal move. After all, he was effectively fighting the entire Alliance right now, but he would benefit greatly if the Alliance started to break up.
+
+Rhys sighed. I’ve really got to stop pitting myself against nation-states.
+
+Lily looked at him. “Why didn’t we stay and talk more with the Sword Saint?”
+
+“He was busy. He had more important things to do than talk to us,” Rhys replied, knowing it wasn’t the best excuse.
+
+“Like… smell the roses?”
+
+“The most important thing you can do, in fact. Never forget to stop and smell the roses, my apprentice.”
+
+She stared at him. “I’m your apprentice?”
+
+“No—no no no. No. Apprentices are commitment. They’re like slightly less shitty children. No, you’re my wife.”
+
+“Which… isn’t commitment?”
+
+“Not the way kids are,” Rhys muttered under his breath.
+
+Between kids and marriage, kids terrified him, and marriage was just a minor inconvenience. He wasn’t really sure why, but married people suddenly stopped being interested in anything he cared about and spent all their time watching reality tv and soap operas, and that part did terrify him a little, but he had faith in his stubborn refusal to give up on anime and all other forms of shit entertainment, so he wasn’t going to let that stop him from finally acquiring sex, or whatever it was that married people did with one another. Have long conversations about budgets and taxes? As someone who was dimly acquainted with how sex worked in the first place, he wasn’t really sure what he was missing, or what the point was, but he knew that a lot of people seemed to think it was very important.
+
+Marriage, that was, not necessarily sex. His vague understanding of the situation went like this: no sex until marriage, and then once you got marriage, no more sex because you were married, or something. It seemed like the rule was just ‘no sex’ to him, but maybe there was some moment he was forgetting. Like the very moment they got married… though he’d never seen any freaky business on the altar, bar that time his semi-alcoholic second cousin had sucked very enthusiastic face with her husband for so long that his parents got uncomfortable.
+
+Rhys snorted. Well… that’s the way sex and marriage were presented in sitcoms and romcoms, anyways, which probably isn’t the best way to learn how they work.
+
+The really trashy thing would be to build a harem, but given his negative rizz, he didn’t think that was going to happen anytime soon. Besides, he was pretty sure he didn’t want that kind of stress in his life. Playing mild interest-slash-neutral party for Lira, Mouse, and Sable was hard enough. He didn’t want to commit to that kind of stressful relationship for the rest of his life.
+
+Unaware of Rhys’s internal monologue, Lily straightened up, stiffening her back. “I think it’s a commitment.”
+
+“I’m sure it is,” Rhys agreed. Not his fake relationship with Lily, but real marriage was probably a commitment.
+
+Lily looked at him, then harrumphed and stormed ahead a few steps. Rhys stared after her, confused as to where he’d fucked up this time. They didn’t understand each other, so it wasn’t hard to miscommunicate. She knew he was fake, so… was she under the impression that he was actually here to become her new husband? Give me the confidence of a white man, mage-noble style, Rhys thought, shaking his head at her back. What the hell would he accomplish by stealing Norton Tunk’s wife?
+
+Sex, a little voice whispered in the back of his mind, but he dismissed it. Lily wasn’t his type, also, that was disgusting, also, there was no way that was what she wanted from him. That was some hentai-ass-plot bullshit, where the wife of the replaced husband actually did want him desperately because she had no braincells, or whatever hentai needed that particular moment for her to be interested in the male character, and he was a hundred percent sure that real life didn’t work like hentai. Sure, some guys thought it did, but he wasn’t that trashy.
+
+If he had to be honest, she was probably just after his riches-slash-the-benefits-of-living-with-a-Tier-4-mage. And he had taken her husband’s place, so it wasn’t the wildest thing to guess that his objective might be Lily. He’d have thought she might have figured out that he was not here for Lily yet, but who knew? There were plenty of trashy female-oriented romances where the male lead swept into the woman’s life, then behaved like a perfect gentleman so she’d fall for him (or something; they often didn’t have well defined personalities or goals), then finally had bodice-ripping sex with her after she melted for him. He didn’t live in that kind of delusory world, but who knew? Maybe Lily did. She was lonely, after all, with an abusive-slash-neglectful husband, aka the exact demographic targeted by bodice-rippers.
+
+The exit to the rose maze loomed. Lily rushed out, eager to escape him. Rhys followed behind her, eager to see if Virgil was, in fact, at this ball. At this point, he was pretty committed. Locked in.
+
+In other words, I’ll be real mildly inconvenienced if I have to teleport out and come back later.

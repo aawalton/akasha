@@ -1,0 +1,159 @@
+---
+id: 584763dd-aae2-541f-a9d3-70d8884c7fcc
+page-type-slug: story-chapter-royal-road
+title: "219. We Aren't Alone"
+slug: 0219-219-we-arent-alone
+partOf: god-of-trash
+position: 219
+ownLength: 2001
+unit: words
+publishedAt: 2025-10-23
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2699571/219-we-arent-alone"
+royalRoadId: "2699571"
+---
+
+Rhys stepped through the portal and drew to a halt, his jaw dropping. He gaped around the vast room, his eyes wide. “No way. How’d you get this one past the looters?”
+
+“Didn’t you just comment on my portals?”
+
+“Damn, man. This is awesome!”
+
+A massive library spread out before them. In the rest of the castle, the dark marble was imposing and cold, decadent, but hollow, too dark, to the point it absorbed the light and made the spaces oppressive and smaller. Here, though, the warm wood of the shelves and the bannisters resonated with the gold veins in the marble, bringing everything to a warmth that reminded Rhys of chocolate crinkle cookies. Leather tomes in dark gem tones and deep natural browns made the scene cozy and beautiful at the same time, the gold lettering on their spines calling out to the gold veins alike. Gold fixtures glistened on the railings, and simple gold chandeliers held candles that came alight as they walked in. Rhys took a deep breath, savoring the musk of old books. It was peaceful, and perfect to hide away in and do some good reading.
+
+“This was my original purpose for the Black Palace… a place to retreat from the world and expand my knowledge. But then… well, it’s all ancient history, now,” Daran murmured.
+
+“Can’t wait until I’m so rich I can build a giant marble palace with a secret library portal to do a little light reading,” Rhys commented.
+
+“It is nice,” Daran said, nodding.
+
+“Yeah, I was being sarcastic, but that’s legitimate goals. I’ve always wanted to be rich, you know.”
+
+“You and everyone.”
+
+Rhys looked at Daran. “What were you like as a kid? I can’t imagine you as anything but… well, a raggedy, oily-haired old man.”
+
+“First, my hair isn’t oily. It’s coiffed. Learn fashion. Secondly… I had an ordinary mage upbringing. My parents were both mages, and I naturally became a mage as well. That’s all there was to it.”
+
+Not fighting that he’s raggedy, huh? Then again, Daran’s clothes were pretty threadbare. Even his fake corpse was wearing better clothes than the worn rags Daran wore. He frowned. Come to think of it, he knew very little of Daran’s story, except for the propaganda he’d been taught in classes and heard other people repeating. The only thing he knew about Daran was that the man had died in battle against the previous Sword Saint—in a battle that also killed her. He didn’t know why the man looked ragged, or what he’d been doing before that, or even what he’d done that was so horrible that everyone banded against him, and he was pretty sure that Daran’s personal account of what had happened—which was mostly lone statements so far—was just as biased as the Alliance’s take, just in the opposite direction. What he needed was a third party observer, an unbiased figure who’d seen both sides, and could recount it without losing the details to bias and emotion.
+
+A certain cat man appeared in his mind’s eye, and he sighed. Az had run off to the Alliance before the Empire had taken Purple Dawn. The little-tuxedo-cat-slash-lanky-librarian had presumably spent the entire conflict living it up in various Alliance libraries, far from any strife. He was probably in one now, drinking up all the erotic novels and every other piece of media he could get his hands on. Rhys sighed longingly. If only my path was libraries or reading or whatever that cat’s path is. To live that life… what a life that would be.
+
+Beside him, Daran stiffened. He narrowed his eyes. “That pest… he’s here!”
+
+“Who? What?” Rhys looked around, lost, until motion caught his eye. A small black and white form stretched luxuriously on a high shelf, curling his tail up over his back, needle fangs bared to the world. Rhys beamed. “Az!”
+
+“You know him?” Daran asked, somewhere between shock and disgust.
+
+Az looked up at the sound of Rhys’s voice, as if he hadn’t noticed him until this moment, then hopped down from the shelf and loped over to his feet. He rolled onto his back and started rubbing his neck and shoulders on Rhys’s ankles. Rhys put a hand to his chest. “So cute.”
+
+“Cute? That thing is a book-devouring, tome-stealing menace! It’s worse than rats, mice, and bookworms combined. Just when you find the final volume of an important series of tomes, that thing shows up and vanishes your books, as if it’s his natural gods-given right! That—that—”
+
+“Adorable baby?” Rhys finished for him, picking up Az to give him a good ear rub. Silky-soft fur spilled around under his hand, Az’s body heat emanating through his coat. The cat stretched out in his arms, then retracted his limbs and curled up to purr. Rhys smiled as a sensation of peace and healing came over him.
+
+One of the few things he legitimately missed about his world was his pet cats. Just like everything else about his world, the details about them were blurry, but he remembered their softness, their little needle teeth, the playful way they destroyed his furniture and everything else he loved… He sighed again, this time in reminiscence. Hopefully someone had found his body before they’d eaten his face.
+
+“—menace,” Daran spat, wrinkling his nose at Az.
+
+“Aww, how can you say that about this sweet kitten? Look at how small and soft he is,” Rhys said.
+
+Az rolled around in his arms to lounge adorably, his chin resting on Rhys’s arm, one paw draped over his forearm.
+
+“Kitten? That thing is older than me.”
+
+Rhys raised his brows and turned his attention back to Az, who was still purring in his arms. As he pet the cat, he extended his mana, subtly trying to get a sense for Az’s tier. Before, he hadn’t been able to sense it, but he was only Tier 2. Now… he still couldn’t sense it. Rhys lifted his brows even higher. How high is Az’s tier, if I can’t even sense the limit of his power at Tier 4?
+
+“Now you realize. Drop the beast. No, better yet—remove him from the library,” Daran ordered.
+
+“Nah. Hey, what was it you were after? You never said.” Rhys wandered deeper into the library, carrying Az with him.
+
+Daran muttered something uncomplimentary under his breath, then sighed. “I suppose I can’t stop you from fraternizing with dangerous beasts that threaten our most valuable asset—our knowledge. It’s deeper, in the rear.”
+
+“Ayo?”
+
+Daran just gave him a confused look.
+
+“Neeeeever mind. Let’s go, let’s go.” He turned to Az. “Who’s a cute widdle kitty? You are! You are!”
+
+Az put a paw on his hand, lazily informing him that he should tone it down a little, but also that he’d tolerate it.
+
+Rolling his eyes, Daran followed after Rhys. “Ridiculous.”
+
+“You wouldn’t happen to know anything about Mouse, would you? Or Lira, or Sable, or Korii and the others?” Rhys asked Az, ignoring Daran.
+
+Az yawned and closed his eyes.
+
+Rhys pressed his lips together. He hadn’t necessarily expected Az to know about all of them, but he’d hoped the cat would at least know about Mouse, who was a fellow bookworm. Then again, it was possible that Az did know, and he was just being lazy and staying in cat-form so that Rhys would keep carrying him and petting him, and would tell him later, so he didn’t give up all hope.
+
+“Filthy parasite,” Daran muttered, eyeing Az.
+
+“Yeah? He’s a cat,” Rhys replied. Cats were all filthy parasites, but no one had ever held that against them. It was just part of their charm.
+
+“You give in so easily? Brainwashed scum.”
+
+“Tell me something I don’t know. I’m going further into your rear, so tell me when I’m getting close, okay?”
+
+At that, Daran squinted at last. “I don’t like the way you said that.”
+
+“What? I just repeated what you said earlier,” Rhys said innocently.
+
+Az rolled over and batted his chin, yawning in amusement.
+
+“It’s not my rear, it’s the rear.”
+
+“But it’s your library, right?”
+
+“Yes, but it sounds… odd when you say it like that.”
+
+“I’m sure I don’t know why. Are you sure you aren’t polluting my innocent words in your corrupted mind?”
+
+“You know precisely what you’re doing.”
+
+“I’m just repeating your words. If you don’t like them, then take more care with your phrasing,” Rhys said primly.
+
+“I will… take that under advisement.”
+
+They reached the library’s rear. A few cases stood around, none of them quite as dusty as the one that had held Daran’s false body. Rhys took everything in, then paused. He walked over, leaning toward one of the cases.
+
+“That’s not what I brought you here for,” Daran stated.
+
+“I know.” Rhys set Az down, only for the cat to swiftly hop onto his shoulders. He opened the case and pulled out the gauntlet within, holding it gently in his hands. “There’s one of these in the void.”
+
+“There should be. That’s the other half of a paired void manipulator gauntlet. The gauntlet in the void is the match to this one, and does whatever this one does.” Daran paused. “I couldn’t think of a good use for it, so I abandoned it.”
+
+Rhys slotted it on his hand. He flexed it, and in his mind’s eye, he saw the void around him. The gauntlet there flexed as well, moving in sync with what he did with his hand in the real world. He raised his brows. “I saw this in the void, and I was going to take it out. Good thing I didn’t.”
+
+“That would have rendered it entirely useless.”
+
+Rhys flexed it a few more times, then shrugged and put it in his storage ring. Unlike Daran, he could think of lots of things to do with this gauntlet. If Daran didn’t want it, he’d keep it.
+
+“If you’re quite done…?”
+
+“Right, right. What did you want?”
+
+Daran gestured toward another case, and Rhys followed. This one held a ring. A gold band held an ostentatious ruby, nearly as big as a robin’s egg. The ruby was natural-cut, with a slightly irregular shape and planes that emphasized its size. A glyph floated in the center of the stone, plated in gold. “That. Bring me that.”
+
+Rhys paused. He cut a look at Daran. “Would you like to say that more like an imposing final boss?”
+
+“What? I just want you to get the ring. What’s so… final boss about that? And what’s a final boss?”
+
+“You. You’re a final boss.”
+
+“And that’s… bad?”
+
+“Usually, yeah.”
+
+Daran crossed his arms. He stood there for a few seconds, then gestured at the ring. “Well, are you going to get it or not?”
+
+“I’m going. I’m just worried it’s booby-trapped, now,” Rhys said, eyeing the ring. He extended his mana senses at it, then his curse senses, but detected nothing. Still, he frowned. Final bosses didn’t tell people to retrieve rings unless there was some kind of trick, trap, or curse involved.
+
+“Why would I booby-trap my own treasure?” Daran asked.
+
+“So other people won’t take it.”
+
+“The only thing getting in here is that… pest on your shoulder, and as horrific a beast as he is, he isn’t interested in rings. I left it here so I could get it later, with the expectation that no one else would enter this space without me. There are no traps.”
+
+“That’s exactly what someone who’d trapped their ring would say.”
+
+Daran threw his hands up and turned away. “Gods save me. Why did I have to get found by this useless human?”
+
+“People say that about me a lot.” Rhys took a deep breath, then reached out and gently touched the glass case. He paused for a moment, waiting for something to trigger. Nothing triggered. He hesitated one more moment, then, all at once, like pulling off a band-aid, yanked the case off the pedestal.

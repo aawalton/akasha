@@ -1,0 +1,195 @@
+---
+id: 961c1902-a8aa-519e-a013-fd9180b816cd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 806 - 11th Floor"
+slug: 0132-chapter-806-11th-floor
+partOf: hell-difficulty-tutorial
+position: 132
+ownLength: 2098
+unit: words
+publishedAt: 2026-05-17
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3411175/chapter-806-11th-floor"
+royalRoadId: "3411175"
+---
+
+Once back on the 11th floor, I find myself inside a cave that isn't particularly deep. It is wide, however, and offers an open view of the scorching dunes outside. There’s no greenery at all, and even rock formations are rare. Otherwise, it is just sand as far as I can see, with the air wavering over the horizon with the heat. I have a suspicion that spending just a few seconds out there would have melted my pre-tutorial self.
+
+The star of this system appears to be either two or three times the size of Earth's sun, unless perhaps we’re just that much closer. The light itself is harsh, almost white. Interestingly enough, I don't think this planet is rotating at all. Min-Jae said it’s probably tidally locked, similar to Earth’s moon.
+
+I take in that view for a while longer before taking over Izzy’s effort to absorb some of the heat inside the cave to make the temperature a bit less harsh.
+
+“Did you bring something to drink?” Sophie asks, coming to a stop at my side.
+
+“Just a little bit,” I say as I pull a few bottles of water from my bag. Between them, there is also a bottle of green liquid with yellow sparks that I bought for one shard. I stare at that bottle for a bit, thoughts swirling in my mind, before handing it directly to Sophie. “Please make sure everyone takes a sip or two. Especially Izzy and Dennis.”
+
+She seems to notice the tone of my voice and nods. “You don’t have that item you used to have for storing liquids?”
+
+“I took it apart a long time ago. I thought it had some sort of spatial compression component and tried to learn from it.”
+
+“I see,” she says. “I don’t remember the last time I felt so thirsty, and even in this heat, I shouldn't. So maybe it’s part of this floor's settings or some effect of the environment. There are even some side quests that reward water, so that confirms it should be a big part of it.”
+
+“It seems so,” I agree. “You should use a one day Beyond Stay token and bring some resources back. I’ll stay here and scout the area a little.”
+
+Sophie nods and pulls me slightly off to the side by my arm, lowering her voice even as she sets a field that prevents anyone from listening in. “Nat, I really don’t want to enter Dennis’ mind. I’m too scared I’ll mess with whatever Aaron did when he moved there. I’m also terrified of what a powerful disrupting pulse could do to what remains. Such an attack could easily treat it like an array or something to be disrupted. Their [Connection] is a weird skill, and them being twins, they always did even weirder things with it, so I’m not exactly sure how it would react.”
+
+“I think that all you said makes sense, so let’s not rush and be very careful about it,” I nod.
+
+She covers her face with her palms and rubs them over it, sighing. “Izzy is a mess. Tess is holding strong, but her arm isn’t going to be restored anytime soon, even with Lily’s abilities, and we have to keep an eye on Noodle. Then… Biscuit… are you okay?”
+
+“There is no need to worry about me.”
+
+After looking up at me, she says in a quieter voice, “I guess there’s not. I already sent Blackie out there to scan the area, and I’ll leave him here while I go to Beyond. He will listen to any of you, so take advantage of that if you need to.”
+
+“Sure.”
+
+After that, Sophie returns to the group, and I, after distributing the rest of the food and water I managed to get from Ruby, head toward the exit of the cave. Before leaving, I set up an array to help regulate the temperature. I leave behind an orb made of a tiny bit of mana that isn’t even meant to power it, instead, in the middle of it, a drop of my blood floats, something I’ve been experimenting with to see how well it works as a replacement for a mana battery.
+
+“You are coming with me,” I say, stopping to address Min-Jae, who’s just been sitting there looking lost.
+
+I don’t even wait for his answer and exit the cave as I hear him scramble to his feet. The temperature immediately increases, and the air alone feels hotter than some of the fire skills that have been used against me. To deal with it, I expand my reach over myself and Min-Jae, continuously absorbing heat which I then channel and turn into mana to feed the crown floating over my head.
+
+There is a feeling of something missing, so I stop and try to remember what it might be, only to realize that the missing part is my connection to Biscuit. Which now feels quiet and empty.
+
+I begin to walk again, and Min-Jae speeds up to walk at my side. As we walk, we don't hurry at all. I keep within sight of the cave, where I have multiple Ley Lines and marks placed.
+
+Walking over a few dunes under the scorching heat, we reach Blackie. Sophie’s bond notices us and explodes into a run that comes to an abrupt stop some distance away. Every time the wind blows or grains of sand hit him, pulses of kinetic energy are sent out into the area around his body. Unlike when we were in the city or on the flying ship, he isn’t wearing the cloak to help him with that, but so far, there’s not much reason to.
+
+As we stand there, I sit down in the hot sand. I even stop absorbing the heat fully, allowing the dry temperature to attack my body. As Min-Jae sits down next to me, I notice his glance and do the same for him, allowing us both to feel the burn.
+
+Blackie, seeing us sit, follows suit, though more energetically. His movement causes a larger explosion of kinetic energy, which makes more sand blast into the air and rain down, triggering even more tiny explosions.
+
+Watching it all happen, I don’t reach out to stop it. Instead, I observe it until Min-Jae uses his [Telekinesis] to make each individual grain of sand around Blackie halt in mid-air.
+
+While Blackie watches the floating grains with what feels like fascination, poking them with the tip of his finger, I ask, “Are you okay?”
+
+“I think so. I mean, I'm sad and shocked, but as long as there’s hope, I have something to hold on to. If the worst were to happen, I’ll be devastated at that point anyway, so there’s no point in spiraling now," he says. "At least that's what I try to do. And you?"
+
+“Similar.”
+
+Min-Jae pulls his knees to his chest. “I think for a while I even wished it was me instead, but I know how stupid that is. Now, at the same time, I’m angry at Aaron, and yet I admire him for what he’s done.”
+
+“It is a bit cool of him, but as you said, I want to punch him too.”
+
+“I didn’t say anything about punching.”
+
+“Punch him like ten times,” I sigh and lie back into the sand, not minding the grains as they wash over my face. “One of my rewards for the last floor was an option to select an item reward. A Low Pristine. Don’t you think it’s stupid how incredible the rewards we got are, and yet they feel so useless at the same time?”
+
+“I know exactly what you mean,” he says.
+
+“Yeah, I thought you would. I’ll buy an item for Dennis, something to protect his mind against mana disruption and mental attacks.”
+
+“Did Sophie talk to you about it?”
+
+“She did, but it was something I thought of on my own. Her coming to me with the exact same thought without me having to mention it tells me that the concern is very likely to be reasonable.”
+
+"Yeah," Min-Jae says, standing up. His mana flickers around him as he creates a barrier against the heat. "I will head back. If anything happens, I’ll pull on one of your Ley Lines."
+
+"Yup, see you later," I say, turning to Blackie. "You go back as well. I’m going to scout the area a bit."
+
+As Min-Jae leaves, Blackie hurriedly rises to his feet and runs after him. I follow them with my eyes for a while before turning away. Then, I open my notifications and go through them one after another, after all, I only really glanced at them once we completed the 10th floor.
+
+[Redistribution - lvl 77 > Redistribution - lvl 78]
+
+[Manifestation - lvl 43 > Manifestation - lvl 44]
+
+[Manifestation - lvl 44 > Manifestation - lvl 45]
+
+[Current - lvl 47 > Current - lvl 48]
+
+[Mana Manipulation - lvl 79 > Mana Manipulation - lvl 80]
+
+[You have defeated Wyvern Hatchling - lvl 439]
+
+[Lvl 402 > Lvl 403]
+
+[Lvl 403 > Lvl 404]
+
+[Lvl 404 > Lvl 405]
+
+[Lvl 405 > Lvl 406]
+
+[Lvl 406 > Lvl 407]
+
+Congratulations! You have cleared the 10th floor of the Hell difficulty tutorial.
+
+Welcome to the 11th floor: Xyphos.
+
+The objective of the cleared 10th Floor quest has been altered, and the rewards have been improved in line with the newly calculated difficulty.
+
+You have acquired:
+
+Trait strengthening token (up to 2nd stage)
+
+Three active skills combination token
+
+Low Pristine passive skill
+
+Low Pristine item
+
+I scroll past all of that and check the objective of this floor.
+
+Floor Quest:
+
+Xyphos is best known for its Labyrinth, an ancient structure built long ago by unknown hands for purposes that remain a mystery. The planet is also one of the few places in the known systems where Talnium can be harvested, a rare and highly coveted resource.
+
+Three major corporations, along with numerous independent organizations, are constantly clashing for control of its harvest. Some are attempting to establish legitimate mining operations, while others rely on smuggling networks and covert strikes to secure their share.
+
+Your objective is to obtain half a packet of Talnium and ensure it is successfully transported off Xyphos.
+
+Rewards:
+
+???
+
+Passive skill combination token
+
+Falling into deep thought, I muse over the objective, this time more deeply than before, and as thoroughly as the information I currently have allows.
+
+After that, I close the window and open a new one as I use one of my rewards.
+
+You have used an active skill combination token. Please pick three skills from the following list to combine.
+
+Warning! Combining three skills will reduce the level of the acquired skill.
+
+Warning! A combination of incompatible skills may result in a worse skill.
+
+Warning! After combining the skills, it will become extremely difficult to acquire the skills used in the combination.
+
+Please select the main skill of the combination and two supportive skills.
+
+List of available skills to combine:
+
+Perception - Lvl 77
+
+Mana Manipulation - Lvl 80
+
+Ley Line - Lvl 76
+
+Current - Lvl 48
+
+Congratulations, you have successfully combined [Ley Line], [Mana Manipulation], and [Current]! A new skill has been created.
+
+You have acquired [Weave]
+
+[Weave - lvl 0 > Weave - lvl 9]
+
+Still sitting in the sand, I reach out my hand with my palm up. Just as the sand moves around me, a few particles made of mana swirl over it.
+
+Congratulations, you have acquired a new skill!
+
+[Mana Manipulation]
+
+[Mana Manipulation - Level 0 > Mana Manipulation - Level 78]
+
+Not enough.
+
+These particles begin to move faster as more of them appear. Between them, pale blue, white, and golden ones show as well, moving erratically like a poked beehive. I push further until there are more and more of them.
+
+[Mana Manipulation - Level 78 > Mana Manipulation - Level 79]
+
+Under my Preeminence Eyes, they all halt and hang still in the air as I remember the end of the last floor, the way the hatchling moved its mana, and the way I mimicked and adapted to it faster than it could. My blood feels like it’s burning in my hand, and I begin to actively pull ambient mana from the air, imprinting my will upon it.
+
+Without my passives, without my domain or black mana, that mana still obeys my will and gathers over the palm of my hand.
+
+[Mana Manipulation - Level 79 > Mana Manipulation - Level 80]
+
+Better.

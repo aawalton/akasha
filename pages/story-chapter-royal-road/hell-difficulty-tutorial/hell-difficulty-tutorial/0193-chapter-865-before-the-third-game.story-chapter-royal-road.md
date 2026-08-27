@@ -1,0 +1,235 @@
+---
+id: fdf866e0-e715-553d-be28-559b75995d32
+page-type-slug: story-chapter-royal-road
+title: "Chapter 865 - Before the third game"
+slug: 0193-chapter-865-before-the-third-game
+partOf: hell-difficulty-tutorial
+position: 193
+ownLength: 2358
+unit: words
+publishedAt: 2026-08-20
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3840536/chapter-865-before-the-third-game"
+royalRoadId: "3840536"
+---
+
+Entering the black room teleports us into a different, normal-looking room. There’s already some of the other participants waiting, and yet no one’s fighting. Which is immediately explained by someone from Melek's team who rushes in to congratulate us for making it through the second game and tells us to wait until everyone is here.
+
+A few recording drones zap around, and I swat one away like it is a fly. Then I head over to one of the corners of the huge room with Vic, and I create a pair of manabloc chairs for the two of us to sit in.
+
+I feel blood flowing from my wounds and pooling across my body, from the wounds Prince Kip caused and a few others from a fight with another group. But only the ones caused by white lightning are taking so long to heal. Lily's improved healing marks do much better than they used to now, and using a few of them even partially weakens the effect, but as of now, it still can't quite push through.
+
+"You were careless, Natty," Vic says, using my nickname, which she only ever does when it’s just the two of us.
+
+Currently, we’re not being listened to, nor are we being recorded, as I confirm. Her senses are quite good. As expected of my sister.
+
+"I didn’t expect him to be a healer, Vic. I know the world’s unfair, but to have both a wyvern bloodline that gives him that weird lightning and for him to be a healer? It’s just too much. If it were just the powerful regeneration, I would’ve been more okay with it."
+
+"That is just an excuse, Natty."
+
+I sigh. "Yes, I was careless." But now that I think of it, I say, "Do you think Lily could shoot a [Disintegration] beam out of her eyes as well? Or me? I bet I could make it so I could shoot thermal energy, I could use my eyes as reflectors. It would be difficult with the trait I already have, but maybe? Or how about a third eye? Or maybe I could just shoot it out of my mouth."
+
+"Do whatever makes you happy." She pauses and looks at me. "Are you happy?"
+
+"I am, Vic. I’m here with you, so how could I not be?"
+
+"It stays at 40 percent for a while longer, no matter what you say."
+
+"Tsk."
+
+She smiles just that tiniest, little, imperceptible bit. "What I meant was, are you happy with your group? You told me what happened to your bond and to your friends, the twins, so I wondered if you wouldn’t be happier not having to deal with it all."
+
+"Even with all that happened, I wouldn't just leave them behind."
+
+"Is that so?"
+
+"Yes."
+
+"Good, but remember. Even if everyone is gone, if everything breaks, I will be here."
+
+"I know, Vic. I trust you."
+
+"Truly trust me?"
+
+"What a dumb question."
+
+With that, her smile becomes more noticeable, and she leans closer and squeezes my hand. "Then continue to trust me no matter what happens."
+
+There are many questions that form in my mind when she says that, but looking into her eyes, I push them all away and nod.
+
+Melek only appears once everyone is here, not as an illusion or projection, but in person. He walks onto a stage that rises up from the floor, smiling charmingly. Each of his steps is full of energy.
+
+"Congratulations to everyone who’s completed the game! For you, it might seem a mere moment, a few short clashes, but it was a great show for our audience! And that’s just the live streams. Once we get to editing, the finished product will be that much better. Oh, all of the emotions we’ll be able to get out of it!"
+
+Barely any of the remaining participants have any reaction, and there’s only around 50 or so of us left now. Though I can't really tell if it's a high or low number.
+
+Melek doesn't let it bother him at all. "But I’ve decided to change things. To spice them up a little and speed things up ahead of schedule. I hope you don't mind… well, what am I saying, of course you don't mind."
+
+He stops walking and straightens up with his mana rising up around him dangerously. "Let's say there were some changes and outside pressure that has forced even someone like your favorite face of the Game to adapt. Oh yes, even someone like me." He shakes his head, but then, as if it were nothing, pulls all his mana back within himself.
+
+"You have one day. Rest, meet with your team, choose a nice outfit, as it might be the one some less fortunate among you die in. In your place, I wouldn't rely on the Crescent Lifeline bracelet too much during the last game. Those fucks were one of the first ones to run away," Melek chuckles.
+
+Coughing once and fixing his suit, he says, "Before the last event starts, you will be present at a dinner with all our precious spectators that have stayed, the most generous donors, and such who wanted to see you in person. Behave, be nice to them. Allow them to see up close the people they’ve spent months watching before the Game and during it, and then... may the best one win as they wade through the blood of their opponents to claim the reward."
+
+Selene is alone when we return to our room. Her colleagues are nowhere to be seen, and neither is the vyssari advice guy. There’s also no sign of the promised new members of our team, which we were told would grow the deeper we go into the game.
+
+It is just a panicked Selene, barely hiding her fear.
+
+We learn she has stayed only under threats, and as soon as she’s done with us, she will be gone. Like many of the rich or powerful, she will be escaping this planet. Its Absolute is already gone, and so are all of the Champions and most of the organizers, leaving behind a skeleton crew to keep this Game running.
+
+The rumors are spreading already, and soon panic will ensue as the rest of the population learns about the escapes. Just like Selene, they won't know why or for what reason, but they will try to escape, and apparently, not long after, a mass evacuation will take place through the creation of portals to nearby moons and planets.
+
+With Selene gone, it's just me and Vic. We didn’t keep the selari woman for too long, and with tears in her eyes, she thanked us while leaving quickly, with over 20 hours remaining before the last event.
+
+I found a few recording devices in our room and on our clothes. There are also a few tracking marks, as well as the marks Selene applied to our heads while working on our haircuts.
+
+There’s no way she made them, as they are way, way too impressive. They were drawn over her fingerprints, which she pressed against our skulls when she was working on our hair. Some of them serve as trackers, while the others are much more sinister, though I see through all of them, and I’ll remove them in a few hours once I think Selene is off the planet.
+
+We’re being spied on, and so was she, so she couldn't warn us. It is possible she wouldn't have warned us at all, but I can’t judge her too harshly. There’s a high chance she’ll still be killed to get rid of evidence, but there’s nothing I can do about it.
+
+I wonder when I’ll be strong enough to prevent these things from happening around me. When I can just notice it and immediately find the perpetrator without caring for the consequences. A Champion? An Absolute? Someone like Lissandra?
+
+For sure not as I am now, even with all these new changes.
+
+The rest of the time I spend talking to Vic. Just the two of us in a single room. Though this one’s much more luxurious than the last, with a nicer view of the desert, an oasis, and buildings in the distance. We talk about useless stuff, though it's mostly her listening and me talking.
+
+As we do, I watch the sky and count the number of ships I see rising up to leave the planet. Later, mass teleportations happen all over the planet, releasing such a humongous amount of mana that I can sense them even from here.
+
+"What do you think?" my sister asks when there are just a few hours left for us to wait, and someone knocks on our door.
+
+"I feel rested," I answer.
+
+She doesn't even try to check if it's true in my expression. When it comes to these things, we don't lie to each other, and there is absolute trust.
+
+"Good, one hundred percent it is," she says, and standing up, I nod.
+
+Both of us are dressed all in black, simple and beautiful clothes that manage to seem formal and casual all at the same time. This time, a crown made of mana floats over my head, and my rolled-up sleeves reveal the dense inscriptions I’ve drawn over my forearms with my blood, causing them to stand out strikingly against my pale left arm.
+
+We exit the room, and before its doors close, I glance in one last time, looking through the huge window to the desert outside and the many lines in the sky drawn by escaping ships. Then I open my status.
+
+Name: Nathaniel Gwyn
+
+Title: Absolute Candidate
+
+Difficulty: Hell
+
+Rank: S, Radiant Gold
+
+Guild: Primordial Knights
+
+Floor: 11 - Xyphos
+
+Time left until forced return: 1y 231d 12h 30m 30s
+
+Traits (3/3): Preeminence Eyes 2/5, Mana Vessel 1/3, Empyrean Ichor 3/5
+
+Lvl 441
+
+Strength: 375
+
+Dexterity: 356
+
+Constitution: 100
+
+Mana (Stage 1/3 - Vast Mana): 2529 + 2529
+
+Primary Class: Mana Weaver (Unique Arcane)
+
+Sub-class: [Adept of Pride]
+
+Active skills (9/10):
+
+Focus - Lvl 83
+
+Perception - Lvl 79
+
+Redistribution - Lvl 81
+
+Eclipse (Pride) - Lvl 74
+
+Empyrean Lance - Lvl 59
+
+Manifestation - Lvl 52
+
+Weave - Lvl 32
+
+Mana Manipulation - Lvl 84
+
+Selective Adaptation - Lvl 19
+
+Constructs:
+
+Physical Fortification Matrix
+
+Mana Flow Control
+
+Mana Sovereignty Field
+
+Kinetic Mana Heart
+
+Sealed Ignition Heart (Partially Sealed, 1/3)
+
+Combat Cognition Frame
+
+High-Density Thought Network
+
+Thermal Flux Controller
+
+Passive skills (5/5):
+
+Mana Wavelength Tyrant (Mid Arcane)
+
+Mana Wave Predation (Unique Arcane)
+
+Cognitive Hyperprocessing Vector (Low Pristine)
+
+Adaptive Defense (Epic)
+
+Heat Resonance Restoration (Low Pristine)
+
+Tokens:
+
+Send a single item to your disciple (up to epic rarity)
+
+Beyond visitor token - 1 year (unlocked after tutorial)
+
+Beyond 14 day stay token (x 24)
+
+Two active skills combination token
+
+Low Pristine Passive skill
+
+Trait strengthening token (up to 2nd stage)
+
+Shards: 10,881,116
+
+Other than the skill levels, there’s been one huge change to my body.
+
+After evolving my Mana Physique to Mana Vessel, my mana stat grew as if the trait had either forced my body to change or clashed with the hyper-condensed mana of my ichor. Now the best stat is 500 points higher, and further doubled by my attribute upgrade.
+
+Before the last game, we find ourselves, as Melek said, surrounded by spectators and other participants, all weaving together. Everyone talks to everyone, be it participants with other participants or spectators speaking with participants. Though there aren't that many of them here either, each one that does remain is either very powerful, has an escape plan, or is straight up crazy.
+
+My sister weaves into the crowd, talking to Yvaine, who then introduces her to Ignis, who seems even more impressive than when I saw him on screen. The combination of a tall, wild mora taken with the fact that he’s also an Absolute and a vessel of the Ruler of Greed just seems more threatening in contrast to the friendly feylith Yvaine.
+
+Meanwhile, I rest on the railing of a balcony that opens to a huge crescent looking out over the open desert. There is a place where a building and a hallway once stood miles off in the distance, but now that building is entirely gone, and only a small portion remains. A patch of floor on which a pillar stands, and at the top of which rests the Fragment of Starless Sky.
+
+Just like that.
+
+Adrian seems more relaxed than most as he joins my side, casually sipping on some sort of drink, and also looks toward the fragment.
+
+I am sure he is mirroring my feelings and observing them, but who knows what he actually gets out of it all that leads him to say, "Have you ever heard of Project Sundial?"
+
+"A little," I nod.
+
+"Let's say I was always a fan." His eyes harden as he pours the drink over the balcony and watches it fall toward the sand while smiling. "But that's between us, for once the tutorial is over. For now, do your best. Do you want to hear behind-the-scenes information?"
+
+"You already know the answer."
+
+"Obviously." He smiles and once again looks at the fragment. "The Fragment of Starless Sky appeared here ten days ago with a simple message stating that it was to be used as a reward in the Game, and that only the victor would be able to decide what to do with it. Other than that, the message only said that it could not be moved or taken by anyone else."
+
+"How interesting."
+
+"Isn't it? There were Absolutes invited by this planet's Absolute that came to look at it, maybe even to take it for themselves. Yet no one did. Every one of them who saw it refused to even touch it and left this planet as quickly as possible."
+
+Adrian takes a step back from the railing and walks away without saying anything else. I watch as he joins Envy, who greets him warmly, and, noticing my gaze, the lumoran waves at me.
+
+Taking my eyes off him and Adrian, I turn back to the fragment in the distance.

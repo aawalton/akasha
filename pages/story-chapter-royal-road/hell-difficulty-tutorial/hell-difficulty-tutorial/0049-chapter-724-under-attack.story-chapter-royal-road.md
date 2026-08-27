@@ -1,0 +1,121 @@
+---
+id: d316ddf7-60a2-5a6e-bc0c-7a2785c48af0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 724 - Under attack"
+slug: 0049-chapter-724-under-attack
+partOf: hell-difficulty-tutorial
+position: 49
+ownLength: 2346
+unit: words
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2921676/chapter-724-under-attack"
+royalRoadId: "2921676"
+---
+
+The debris fills the air as I slide into deep [Focus], powered by black mana, causing the world to look as if time itself has slowed.
+
+Minion is sleeping against my chest, the little thief with her head on my leg, and my minion’s rival closes her eyes in a flash.
+
+My mana reaches out and fills the area as [Eclipse] drains all color from the space around us. Everything halts midair, held by my [Redistribution].
+
+Another attack is heading our way, but I look in its direction and send my mana ahead. Reading its fluctuations and observing how it works, I tear it apart, turning it into a barely dangerous gust of mana. [Eclipse] grows stronger, draining all the mana in the area. I put up a barrier around the sleeping children to block off the sound, while my kinetic energy smooths out the vibrations.
+
+Another three attacks shoot towards us as I continue to sit there, fully observing them all even before they are halfway here. I just glance at the only conscious demon girl, who stares at me now with big, wide open eyes. I gesture for her to be quiet with a finger over my lips, and the halo over my head spins widely. Like liquid, my mana gathers over us and expands further like waves crashing outwards, covering the place in a mist made of blue mana now rendered visible to the eye, especially in the black and white area.
+
+An attack crashes against it, and two more follow, causing it to blow up, grow in size, and then shrink as I choke out the explosion. Like a whirlpool, I move my mana and turn it into a barrier that deflects another attack to the side in an explosion of bright light, then the last one hits, a projectile that breaks apart into the particles that crash against the barrier. They bounce into the air, looking like a myriad of glowing stars.
+
+I gather all that mana, compressing it down into the form of a single projectile that takes on a tricolored sheen before it starts glowing bright white and shoots off with a sonic boom toward the attack’s origin. The boom of the launch only slightly ripples the water in the glass next to me, and my minion furrows her brow, but quickly calms down as I place my hand on her head, and she continues to sleep.
+
+My eyes pierce through the concealment barriers set in the distance, and I see multiple attacks being prepared. It is one of the spies, the young man called Four, channeling more mana and replenishing it for further bombardment.
+
+The next attack I shoot at him bounces off a single segment of an angled barrier and flies high into the air, where it explodes against the pale red barrier the Magistra herself has set.
+
+Mid-preparation, Four stops, as if sensing my gaze, and looks toward me. I observe him through the strengthened sight Tess has been mentoring me in, and I see a magnifying field around him, which he seems to be using like binoculars.
+
+His channeling speeds up even more, and three differently modified projectiles start to float near him.
+
+With a pulse of kinetic energy, I send all the debris around us away in a burst, then create hundreds of mana orbs floating all over the place. They gather higher in the air above me, and I place marks on some of them before infusing them with thermal energy. I launch them forward, glowing like a stream of bullets from a warship’s minigun.
+
+Four raises his barrier, even sacrificing one of his three attacks to reinforce it. My projectiles hammer against it, some exploding on impact while others ricochet away in glowing arcs, lighting the area with bursts of golden flames.
+
+Even though that, he continues preparing his attacks and is about to launch another one when I compress a chunk of my mana and send a tricolored orb through the mark on one of my orbs just before it hits him. The huge tricolored orb materializes there, exploding and sending a shockwave followed by heat from the friction before everything rushes back in a powerful pull to fill the vacuum.
+
+Four isn’t there anymore, but I track his signature and watch as he steps out of a nearby tree trunk, as if walking through it.
+
+Before he’s even fully out, [Empyrean Lance] reaches him, and he barely dodges by leaning back, returning to the tree to teleport again. That tree explodes in another barrage of thermal projectiles, and once again, he lifts his barrier to defend himself.
+
+The two attacks he launched before teleporting away don’t even reach halfway toward us. I expand my [Eclipse] even further, choking them out, tearing them apart from a distance with just a part of my mind focused on it.
+
+The debris fills the air as I watch him touch a piece of wood and vanish, as if he is pulled inside of it. His teleportation does not seem to be long range, and I track the shifts of mana far in the distance, and I’ve already grasped his signature.
+
+He appears half a mile away, but my projectile is there before he even steps out. Tied to that projectile is a [Ley Line].
+
+Just as he exits the tree, a blaze of thermal energy explodes there, reaching high into the air and burning the area in wild golden flames that move like a living creature.
+
+My mind strains as I sense multiple signatures. He tries to confuse me, but I filter them out and lock onto the correct one just as he steps out of another tree, though he’s faster this time with the shorter distance. His body is burned, and the skin on his face is sizzled and blackened, blinding him in one eye.
+
+Instead of another attack, a cloud of my mana fills the area before he even enters it. As I once did long ago in the tunnels under the Old Capital and the living tree towering over it, I materialize translucent mana limbs from the new cloud. They grab his arms, legs, and throat. I push more mana through the [Ley Line] that connects me to that place and disrupt his attempts to teleport, which I can read clearly from where I sit.
+
+For a moment, it looks like he might escape, but I form a small projectile made of black mana in front of me and launch it at him while my mana limbs hold him in place so he cannot dodge. The projectile stabs into the middle of his chest. It is not large or dramatic, barely as thick and long as my pinkie, but it shatters every attempt he makes to escape.
+
+He reaches for the items on his body, but then I pull. My mana arms tear off his legs, and the limbs holding his arms slam him into the ground. Before he can react, two more mana limbs pull in opposite directions, and one of his arms rips free from its shoulder socket.
+
+I cannot hear him, but I watch his face twist in pain and his mouth open as he screams again and again, maybe calling to me, maybe to someone else.
+
+Impressively, he regenerates his limbs and starts to move again, activating an item that pushes my mana away, but it lasts only a moment before a dozen mana arms, driven by my will, reach for him again, grasping, holding, pulling.
+
+Who does he think he just attacked?
+
+His torn limbs fly into the air, only to be consumed by fire as I ignite the area, erasing any chance of his escape.
+
+He knew exactly who was staying here with me. So why all this?
+
+I stop.
+
+Still holding his unconscious, bleeding body in the air with only his left arm still attached. I remember my level. I remember that he is higher level than me. And I remember that I really do not want to get a body upgrade right now, at least not before I can finish my preparations.
+
+The black mana projectile dislodges from his chest and floats in front of me, while in the distance, I pull back my mana, clearing the area and extinguishing the flames. Then I set the man gently on the ground.
+
+I start thinking about whether I should leave him there. He will likely regenerate a bit, and he won’t die immediately, and once he wakes up, he can focus on healing. But what if something else finishes him off? I would still gain most of the experience for that kill.
+
+I move to try to teleport him here, but the crystal in the middle of his forehead flares up, blocking me. And it does so in a way that tells me it would take far too long to bypass. I could probably tear the stone out, but there is a chance it has some kind of dead man’s trigger that would kill him. Maybe it is even designed to stop a mind mage from pulling information from his head.
+
+Then, in the distance, an orange light fills the air as Savant uses his [Dawn], and from that direction, I sense Lily’s [Disintegration] at work. A stronger shockwave is sent through the area, one I do not block in time, and the kids start waking up just as mana gathers in the ground below us.
+
+I stand up swiftly, and Vega and the little thief fall to the floor as I stomp down, sending a pulse of kinetic energy into the ground beneath us. It meets the attack gathering there and deflects most of it.
+
+The flooring still creaks under the strain, bulges, and tears apart, chunks of it blasting into the air as the surface ripples outward under our feet with the strain.
+
+I pay no mind to it and block out the startled shouts of the kids. Turning toward the direction where projectiles are heading our way, I release a raw burst of mana that tears through the ground and everything in its path with pure pressure, the kind that once killed Witherclaw during the tutorial event.
+
+Another attack descends from the sky, a massive boulder of stone.
+
+My projectiles shatter it into pieces, and a wide stream of golden flame coils like a serpent, evaporating the fragments before they even hit the ground.
+
+A pained whimper escapes the little thief, and I turn to her at once. She and Vega are both covered in a thin layer of ice, their skin turning pale as their body temperature plummets from the attack I failed to perceive.
+
+Another projectile crashes into my shoulder, throwing me to the side while I barely manage to form a skin-tight barrier in time to stop it from blowing my shoulder apart. I ignore the pain and immediately regulate the temperature of the air around the girls.
+
+Splitting my mind into multiple parts, I push all of them into overdrive. I break apart the incoming boulders, burning the rest into nothing with bursts of flame, while continuously forming shields to block other types of projectiles. I detect the attackers, and with a sharp crack that breaks the sound barrier, I launch my own projectiles toward them.
+
+At some point, I stop bothering to destroy the stone boulders outright. Instead, I deploy a kinetic field and halt them midair. At first, I only bother to stop a few, then a dozen, then several dozen. After rushing toward us at high speed, they come to an abrupt stop above, some as big as me and others the size of small cars, all held in place by my will.
+
+A pulse of kinetic energy from me throws the noble demon boy to the side just before a spear pierces the barrier and, with a thump, stabs into the ground where he stood. Before it explodes, I encase it in a barrier, and the blast flashes within, blinding me.
+
+I instantly switch to other senses and block another attack aimed at Vega, but two projectiles crash into my back. The barrier on my back cracks and sends me stumbling forward. Turning toward the source of the attack, I draw in more mana and fire a projectile in retaliation. It vanishes in a blink, then detonates far away in a burst of fire. The impact ripples through the air, shaking our ground, but my barrier stops it.
+
+A small part of my mind notices the frostbite on Vega’s fingers and more on the little thief’s nose and arms, marks left by the earlier attack.
+
+A single powerful pulse attack breaks our barrier completely, and in the next instant, dozens of smaller, faster shots swarm in from every direction.
+
+I release my mana completely, and the sheer pressure of it crashes into the area like a wave and obliterates them all. Blood drips from my nose as I push my control to the limit to keep the kids from being crushed under the pressure.
+
+When the attacks stop, my mana pulls back to me, and with a heavy thump, a new barrier forms around us, then another around that. I keep layering them, stacking one over the next.
+
+Anger fills me, and the air around us shakes with the kinetic energy I’m releasing. It reverberates through the space, shaking the stones that still float above us until they crumble and fall, turning to dust. Then a wave of fire sweeps through, evaporating the remnants, leaving tiny pieces of glass floating and glittering in the air.
+
+For a moment, there is silence. Just as quickly as they began, the attacks stop, and I am left standing there, watching the distant flashes of [Dawn] burning on the horizon.
+
+A flash of light reflects from the sword as it slams into the ground just beyond the barrier, its blade flickering with fading orange light.
+
+One glance is enough to tell me that Savant’s Sword of Aeons holds far more mana than I ever would have thought.

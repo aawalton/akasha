@@ -1,0 +1,141 @@
+---
+id: b9bed087-ce54-595a-aa14-a72b2d4485d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 765 - Mora"
+slug: 0090-chapter-765-mora
+partOf: hell-difficulty-tutorial
+position: 90
+ownLength: 2472
+unit: words
+publishedAt: 2026-03-05
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3120581/chapter-765-mora"
+royalRoadId: "3120581"
+---
+
+POV Nathaniel
+
+I ignore the newbies entering the guild Headquarters on the 4th floor of Beyond and continue to listen to Weslin. He’s talking about a new way he came up with to use his void to fuck over mana users. Obviously, I listen to this carefully and think of countermeasures as I like to do.
+
+Weslin’s void, Morwag’s unbinding, and any other form of disruption. As someone who likes to rely a little bit on mana, a tiny little bit, it is in my favor to know about such things.
+
+In exchange, I, of course, tell Weslin how I would deal with his methods. I’m sure it’ll only be a week or two before he comes up with a way to get around that, too, and I will adapt as well.
+
+I could probably spend some time talking to new recruits. At least, it’s something the vice guild master would like me to do, seemingly thinking I’d be easy to order around, but I refuse. Of course, he doesn't push much as contract renegotiations are coming up soon, and he doesn't want to sour our moods before that.
+
+I interrupt Weslin. “I need to head out, I have a meeting with Crimson Forge in a few minutes.”
+
+“Oh, that item you guys have been working on for what? Three months? Ever since your 3rd tournament ended? When are you going to tell me what this is all about, newbie?” he asks.
+
+“Probably in a few more months, but likely before your tutorial ends, so you'd better be here if you want to see.”
+
+“Any hints for your good pal?”
+
+“Well, it’s going to take advantage of their specialization, my blueprints from the Academy, and a few more crafters from the tutorial floors, a shitload of arcane materials I’ve gathered, and loot I acquired from the Ancient Armory before the Ruler of Diligence buried it. Especially the Red Heartstone. It’ll also include input from our guild’s favorite crazy catboy, along with blueprints and materials Brich stole, our examinations of Calvorn, and a bit of inspiration from several low pristine items owned by our guild and Crimson Forge, plus a few additional pristine items we rented for a day or two for a few million shards. Also, my bones and pieces of my flesh, which are apparently way too mana conductive, that we had Lily grow like it was some sort of plant while making it more durable.”
+
+“So, low pristine rarity?”
+
+“Weslin, my bud, I haven't cried since I was a child. The closest I got was when Biscuit shared his childhood memories, but even then I held back because I’m a true manly man. But damn, if this item doesn’t come out at least low pristine, a growth item, an ego item, or some other ridiculously fancy thing, I’ll be knocking on your door late one night to sit down and cry for hours. Manly tears, of course.”
+
+“Of course,” Weslin nods.
+
+I nod as well and, preparing to leave, I ask, “Malika?”
+
+Weslin answers, “It's going pretty well between us. She’s still annoyed that I’ve risen to S rank, so she keeps going on dangerous Beyond quests, and I worry about her at times. But I’ve gotten used to how she is, and even if she dies, she’ll be doing something she loves. That’s just how she is.”
+
+“Okay, pause, stop here,” I put away my departure a bit and lean closer to him. “It is all fun and games because she’s a demon, right. I mean, haha, they like to fight and die. Typical demon, right? But Weslin, they’re still like children. They’ll only listen if you prove yourself worth listening to. If you’re okay with her dying on some difficult quest she takes because she is trying to become equally strong as you, that’s fine. But if you would like her to survive and live her best life for as long as possible, as the most delightfully maniacal lunatic she can be, just kick her ass in a duel. I mean, not what you usually do, where you hold back. Make it embarrassingly obvious she can’t keep up. Then talk about how you don’t think it's a good idea to do the dumb shit she’s been doing.”
+
+“Will that work? I mean, I know demons…”
+
+I don't let him finish. “Of course it won't. She is a demon. You need to do it repeatedly. You’re still half human, so you might not fully understand, and be worried she’ll end up hating you or that your relationship will change. But what I can tell you is that she’ll be annoyed for a while, and then she’ll listen. Not 'listen' as in do what you say, but 'listen' as in finally hear what you have to say and take it into consideration.”
+
+As many times before, Weslin reaches up to scratch his bald head, but once again, his hand twitches as he realizes there’s hair there. And as with the many times before, he touches it and then continues to scratch his head.
+
+“I guess,” he answers, just that.
+
+Crimson Forge Headquarters in Megacity, located on the 4th floor of Beyond, is dug into the side of the mountain from which the city grows. There isn't even a single building out here for anyone to see. In exchange for more space and safety, they sacrificed light and any view of the outdoors.
+
+Once again, I find myself fascinated by the defensive arrays set up all over the place. There are even webs of metal alloys spread densely through the entirety of the walls as far as the Pathfinder will allow. A few of the defensive mechanisms are even small tunnels through which a special, trademarked secret mix of molten metals flows constantly. Multiple tunnels, multiple speeds.
+
+That movement of the special molten mix at specific temperatures and speeds generates a field that I still have a hard time properly understanding, given that it doesn’t really interact with mana all that much. It’s clearly been inspired by the prison cell of that deer champion that was trapped in the Astral Prison floor. It’s not to that extreme, but they’re clearly attempting to mimic it, or possibly just experimenting for the love of the game. I wouldn't be surprised, knowing the main trio of crafters.
+
+As always, when I come here, I examine the mana based defenses and sneak in my control to take over a few different parts. My Preeminence Eyes and other abilities are just way too good for me not to do it. There is even a part of me constantly dedicated to handling and using the eyes, whose abilities I’ve only continued to improve. And at this point, my sight alone can carry my will and allow me to influence mana.
+
+It doesn't work by sending my mana ahead and then using it. I just look, and it somehow works. I don't think there’s any spatial component or anything like that, like Min-Jae seems to think. And I don't think it's manipulating others' mana either, as Sophie says. I think it’s still making use of my mana, though I have to work out how exactly it reaches into the distance.
+
+An alarm from an array I’ve dug into too deeply brings my attention back, and I glance at my guide. He is an A rank from Crimson Forge, a thylarin with six arms and wearing a fascinating set of armor with two sets of folded mechanical wings on his back. It is something I know these lunatics have been working on.
+
+He smiles at me and waves his hand, using a bracelet on his wrist to stop the alarm. "Isolde was sure you wouldn't notice this trap she set for you, and said it holds a signature as close to yours as she could make. She said that in your past five visits, she used simpler traps to ensure that you’d get careless, and that each of them has been wildly different from this one."
+
+"That's cheating."
+
+"She said you would say that and asked me to say: 'hahaha.'"
+
+"Damn," I sigh.
+
+Meanwhile, I continue what I have been doing since I noticed that trap thirty seconds ago.
+
+I use that dumbly similar mana signature to sneak in more of my mana, setting it so even if they notice a higher level of it, they’ll just end up blaming the raised signature they used on the trap itself. I set a logic core with my preprogrammed sequence on one of the defensive nodes nearby.
+
+In a day or two, it should cause all their magically flushing toilets to stop working.
+
+Who the hell even makes a master sub system that solely deals with magically flushing toilets? I understand it allows for simple mana redistribution, less work, less materials, and easier upgrades, but damn.
+
+"Is Brich here as well?" I ask my guide, just in case it gets his attention away from what I'm doing.
+
+Meanwhile, the two-winged door made of matte silver metal with dragon head ornamentation closes, cutting off all sound, air, and light while reflecting mana and primordial energies. The two of us continue to walk through the dimly lit, if extremely wide hallway, built to allow for the movement of enormous machinery. Somewhere in the distance, I hear the clanging of huge machines that they’ve built along with the noise of a few other kinds of facilities.
+
+"Brich won't be here today. A few days ago, he, Savant, and Kaari set out on an expedition to one of the floor's more dangerous locations."
+
+"Oh, Kaari’s still in the tutorial?"
+
+"Yes, but this should be her last expedition. In a few days, she’s going to make a push for the 13th tutorial floor before their tutorial ends."
+
+"I see. Has Savant stolen anything from you guys yet?"
+
+My guide chuckles and, as if affected by that, the mechanical wings on his back flicker for a moment. "Mostly blueprints, knowledge, and a shoulder bone from a Champion we were holding in our treasury. He’s either holding himself back, or we haven’t noticed the other things he stole."
+
+"What was so interesting about that bone?" I ask curiously.
+
+The thylarin shrugs. "That Champion used to have a trait, skills, and passives that allowed him to grow wings at will. Isolde thinks Savant wants to use it to gain the ability to fly."
+
+I snort. "If he had improved enough with his kinetic energy, he wouldn’t need that."
+
+"Sir Nathaniel, I think you sometimes forget just how impressive some of the things you do are. Such control, using kinetic energy to fly in the way you do, is very extraordinary."
+
+We pass by a smaller group of crafters who head to their lab, and they slow down, taking their time to look our way. A few of them take a moment to bow in my direction and then continue to whisper something in between them.
+
+"Nah. I could already do it back on the third floor." I answer my guide.
+
+"And how many people with kinetic energy have you seen fly that way?"
+
+That causes me to pause. "Not many?"
+
+"Exactly. To be able to constantly channel and radiate kinetic energy for uninterrupted, smooth flight is extremely rare. It’s easy enough to cause a short burst of energy and move in 'jumps' or 'bursts'. But your ability to handle the mental strain of constant channeling is extraordinary."
+
+"I’m not lending you any money."
+
+That causes him to laugh out loud and wave his hand. "You always say that, yet you’re always nicer to me after I compliment you."
+
+He continues walking first, and I stop and stare at his back.
+
+Am I really that simple of a creature?
+
+I take a step and then follow him again, thinking about it for a moment before I come to the obvious conclusion. Yup, I am. Sometimes.
+
+We’ve almost reached the main facility of the Headquarters, and I observe the process as he unlocks the massive metal door. Then we pass through a short hallway where he unlocks a huge crystal door. Another hallway follows, and the next set of doors is entirely made of wood. When they open with a creak, we enter a perfectly smooth half sphere.
+
+The floor is made of pale blue stone. Above, a cupola projects a moving, beautiful view of nature. There are pointy, rugged mountain peaks in the distance, unlike any I’ve ever seen on Earth. Though it’s day, the clear blue sky is illuminated by polar lights of yellow, orange, and green colors, all blending together. The rest consists of hills and plains, all covered in tall yellow grass that sways as if caught in a breeze. There are just a few trees, but they’re white with red leaves.
+
+All of it feels a bit off. The mountains are too big, and the grass is too tall. It’s as if every part of the scale is ever so slightly off.
+
+I know this is the world Eldrin, Isolde, and Silverweave are from. They’re the top three crafters of the entirety of Beyond. All of them were attendees from the same tutorial and even the same group, taking the first through third rankings in the leaderboards for crafters.
+
+And they’re here as well, each standing twice my height. They are taller than any lynthari or thylarin, even taller than most velnar. Though unlike velnar, they are very slim. Not bulky, not wide. Just very tall. Their bodies are slim to the point where the length becomes unsettling. Long legs, long arms, long torsos, everything stretched just slightly past what feels right.
+
+They look light, almost too light for their size, and yet they don’t feel weak. The way they stand makes it obvious that they’re balanced perfectly, built for movement and speed rather than strength. Their skin is a pale shade of red, smooth and even, marked with gray tattoos that seem to have grown across their skin rather than being painted on. Each of them has different tattoos from the others.
+
+Their eyes are large and pale yellow, and they’re a bit wider than human eyes, while their ears are slightly short and pointed.
+
+The three of them feel similar, the way most members of the same species do, but not identical. Tall, slim, dangerous in a calm, effortless way. That’s the vibe they put off, even if I know each one is a weirdo in their own way. They are from a race called the mora.
+
+“We have a problem,” Eldrin says first. He smirks faintly, not at anyone, but at the idea that this problem could be fun if pushed far enough. “We are missing a material, and we will not be able to get it here in Beyond or the tutorial.”

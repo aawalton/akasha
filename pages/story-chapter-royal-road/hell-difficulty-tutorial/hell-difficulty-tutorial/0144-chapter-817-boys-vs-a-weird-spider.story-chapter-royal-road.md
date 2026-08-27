@@ -1,0 +1,103 @@
+---
+id: 7f631988-37f6-5cda-91f2-a40eec09ec1f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 817 - Boys vs a weird spider"
+slug: 0144-chapter-817-boys-vs-a-weird-spider
+partOf: hell-difficulty-tutorial
+position: 144
+ownLength: 2315
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3480337/chapter-817-boys-vs-a-weird-spider"
+royalRoadId: "3480337"
+---
+
+Something streaks past me and slams into the ground, where it bounces and flies further. An orange light flickers around the object, which I realize is Savant.
+
+Even before I turn my head, I react to the presence closing in. I condense a massive surge of mana in front of me, making a barrier as thick as a wall, against which a fist impacts with a gong like thud.
+
+The barrier shatters, and I absorb the kinetic energy behind the incoming fist, slowing it down, then Morwag uses his energy to bind it to the ground, causing an explosion that I use to move myself away.
+
+The monster towers over me and Morwag, standing on spider like legs that stab themselves into the ground like knives. Its body is similar in size to that of a six armed velnar man, but the proportions are twisted, leaving some arms bigger than the others. Instead of a face, there’s just a cluster of eyes, black and empty. And the monster has no mouth at all.
+
+[Skreth - lvl ????]
+
+It stabs one of its hands into its chest, pulling out a rib which grows and elongates into a bone projectile, which it then throws. I duck under the newly formed projectile, but it explodes behind me, and the resulting shrapnel rains onto the ground just as I teleport away to watch Skreth reach into the air, pull at the lines I’ve woven across the battlefield, and tear them apart with its bare hands.
+
+In the next moment, Morwag crashes against it, and stone chains formed of Morwag’s low pristine weapon fly into the air. All six of the monster’s arms move, some focus on fighting Morwag, while others pull at the lines I’ve set or the arrays I’m trying to deploy. Another one of them continues to throw bone projectiles, which have continued to grow in strength. The monster moves surprisingly quickly on its eight legs, often lunging forward to stab at Morwag.
+
+Seeing that I won’t be able to rely on my usual tactics, I surround myself with Regalia and manifest a long spear in my hand. I make the armor stronger by using [Weave] as I continue weaving the structure I’ve manifested from my mind into existence.
+
+Wraith Dance brings me closer, but at the same time, the Skreth throws Morwag away. Through some sense, it seems to be predicting the kinetic vibrations of my movement and turning to face the space in which I appear.
+
+My attempt at teleporting away is torn apart by two of its hands, and two of the others form a bone spear and scimitar to attack me.
+
+The spear in my hands breaks into a pair of short swords, which I cross in front of myself with my mana roaring through my body to strengthen it.
+
+I block the spear, but the bone scimitar cuts across my chest at incredible speed. I avoid the knife-like legs’ attempts to stab through me and pull the blood from the wound into my hand. The next moment, I send thermal energy to the wound, burning my flesh and scorching away the necrotic poison attacking my body and causing the wound to rot. An [Empyrean Lance] grows from my blood, forming in my hand, and burning my flesh in the process.
+
+Morwag crashes into the monster again, and all six of the monster´s arms snap and pull toward its body as if tied to it by a rope, and I use the opportunity to stab at it.
+
+I almost lose my balance as my attack passes through empty air, and my eyes sweep the area, searching for the monster, which I find standing high in the air. It breaks through the binding and releases its arms to spread them open. All of its eyes continue to blink, none of them in sync, and glimmering inside them, a red light begins to rise.
+
+A huge amount of mana gathers around the monster, and it snuffs out some of the weaker attacks I launch its way. It slightly redirects the ones I have time to weave stronger, which pierce through the body but stop once they encounter bone and refuse to penetrate further. Any flesh pierced quickly heals, as do the burns from the explosions.
+
+Morwag’s stone spines reach toward it to press the attack, but it is already ready, preparing an attack as I lean to the point I am almost falling, then burst forth in a burst of speed. Around me and all across the battlefield, more bone projectiles start to land. Each one growing in size as they embed themselves in the ground, and from it, many more bone spikes extend, creating a structure resembling a labyrinth of thorny webs that I find myself forced to move between.
+
+I stop, and another bone projectile the size of a telephone pole lands right in the middle of my path. I absorb all the kinetic energy from the impact, along with the momentum of the spikes now beginning to grow, halting them in place. A blast of raw mana pours out around me in an omnidirectional blast, evaporating everything nearby and pushing everything else aside, including the bone spikes.
+
+More blood drips from my hand, expanding into a spear surrounded by mana with a gold and white core, which I launch and boost at the Skreth. Behind the monster, a set of enormous wings made of bone appears, and then a wave reaches forward towards the lance, which breaks through the bone and continues on, even managing to pierce the monster's chest and leave a huge hole in its wake.
+
+That hole closes up as bone plates grow around it, and for a short moment, the monster wavers, seemingly ready to collapse. Savant exploits the opportunity, appearing in the air behind the monster. In one hand, he holds the Sword of Aeons, and from his back, from one of his shoulder blades, a wing covered in white feathers has emerged, reminiscent of an angel's. Like the last light of a dying day, an orange light now surrounds his figure.
+
+Still, the monster reacts even then, moving its arms to block the attack and releasing mana to blast him away. I open my eyes wide, staring at that mana and taking in all of the information, holding the glasses in my hand. The mana unwinds, breaks, and weakens under my gaze, creating an opportunity, as the Sword of Aeons cuts diagonally through the monster, biting deep into its trunk. The orange light intensifies, seeping into the blade and creating a wave of mana radiation that sizzles the monster, burning away half of its eyes.
+
+A terrible screech fills the area, and all the thorny bone webs, covering several miles of space, begins to shake and grow rapidly, forcing me to avoid and break the ones now reaching toward me. Most of the bone spikes stab toward the sky, growing like massive spears in a race to reach Savant.
+
+Much more mana seeps from the monster, and Savant tries to pull his sword back, but he finds himself unable to do so as it gets caught in the bone growing over it and reaching toward him. His wing swings inward, and he moves away without his weapon.
+
+With a thunderous crack, another of my lances pierces through the monster, which jolts and turns toward me, forcing more of the bone spikes to target me as they create a dense web I can barely move through. When the monster turns back to Savant, he’s gone, absorbing his presence once again.
+
+The Skreth screeches again, its bone wings spreading wide as the labyrinth of thorny spikes expands outward, now blanketing an area the size of a city housing half a million people, and still growing.
+
+I use Wraith Dance combined with Pulsar Stance to weave in between them, sometimes slowing to a walk and destroying the spikes with bursts of thermal energy that light up the night.
+
+And all of a sudden, I can’t help but think, this is beginning to feel like fun.
+
+My body feels warmed up, that familiar tension is creeping in. My skin is going cold, my hands are hovering on the edge of trembling. My senses have sharpened to their peak, taking in everything around me. Mana roars through me as I draw on it more and more, holding it just beneath my skin, ready to be thrown at the monster.
+
+I am not alone, and no one seems to be in a hurry to end this fight. Everyone believes the monster to be an opponent we can fight or escape from, and the monster itself is gradually increasing its output.
+
+More thermal energy floods out into an orb over my head, about the size of a baseball. It spins, and from it, a thin, laser like stream shoots forth, roaring like a starting jet engine and sweeping in all directions across 360 degrees. It cuts into the bones, leaving molten lines of severance along its path.
+
+Forcing my way through the blockage, I teleport towards one of the marks I’ve placed over the course of the fight, and the place where I stood gets hit by a bus sized bone projectile.
+
+Slowing to a walk once again, I look up at the Skreth, now surrounded by building sized bone projectiles, as long as two or three train cars strung together.
+
+Another launches at me with high speed, and I teleport again, this time much further. From there, I fire off another lance with its launch, so boosted that it more than breaks the sound barrier and evaporates the bone spikes around me. It pierces through the belly of the monster and continues on, where it embeds itself somewhere in the ceiling, far off in the distance.
+
+The wound across my chest still hasn’t fully healed, and a bit of my blood flows forth. All of it that is outside of my body, I gather and move, manipulating the extreme amount of mana within, bringing it to float beside me in the form of a small orb.
+
+There is a blast of orange light that encompasses the area, and then the building sized bone projectile that was about to crash down on its center disappears. The next moment, it appears again and launches from that spot towards the Skreth instead. The next projectile breaks into a rain of powdered bone, and gradually, with a cracking and pulses of mana, all the other spikes do as well. Like a sandstorm made of tiny bone fragments, it swirls through an area the size of a large city, carving into the ground and gathering speed.
+
+I see the flash of a white wing as Savant launches himself into the air, his [Dawn] facing the mana pressure and bone storm. Morwag is still nowhere to be seen, and so are Weslin and Brich.
+
+Void surrounds Savant as his absorbed heart starts to beat, sending out waves of void energy around him. His orange light surrounds him tighter, almost creating an outline of his figure, as he crashes into the Skreth with the dense, city sized bone storm roaring around them.
+
+I watch as he grabs the handle of the bone covered Sword of Aeons, still embedded in the monster, and pulls back with the bone, cracking as an enormous amount of mana is released from the sword as he yanks the blade free in a stream of sickly red blood. In a blink, he flies back and swings his weapon in a sweeping horizontal motion.
+
+Like a scar, a clear, mile wide line separates the bone storm and cuts through it, carving a deep line into the Skreth as well, leaving it unrecognizable from before. The entirety of its body is covered in bone armor. The spider-like legs have grown much bigger, and its six arms are longer, each ending in a set of bone bladed claws. Savant’s attack only creates a deep crack across its chest but fails to pierce deeper.
+
+My lance launches forth again, but with my thoughts accelerated, I watch as this time the monster catches up. It turns its head at such speed it feels like a swift movement even with my accelerated perception. Then, the monster disappears, teleporting away.
+
+I follow its path and turn to face it just as the monster appears from one of the larger fragments of bone on the ground beside me. It’s now almost twice my height. A many limbed monstrosity encased entirely in bone armor. There’s not even a slit for the eyes anymore, just an uneven, twisted helmet with seemingly random protrusions across the surface.
+
+Returning to the ground was a mistake.
+
+I reach for the teleport. The Skreth fights me for it, savagely like an animal, but I grind through anyway.
+
+Then, instead of allowing me to disappear, someone else appears between me and the monster. The huge clawed arms crash against Morwag’s chest and break as the demon lets me teleport him through the mark I’ve placed on him.
+
+There is a smile on his face, and his heart beats rhythmically. Not a single wound appears on his body as he pushes his binding energy to the utmost. To increase his endurance, to hold his body, skin, and everything else together. At the same time, he overclocks his body, pouring every scrap of mana into a reckless body reinforcement technique that sends his output skyrocketing.
+
+With the obsidian spine chain forgotten somewhere in the distance, with no more than the clothes on his back, without any items, and through the sheer power of his body, Morwag faces this monster. He grabs the clawed arm and yanks it downward, forcing the monster to bow to him, and smashes his head into the monster's skull, causing a shockwave that forces me to stumble back.

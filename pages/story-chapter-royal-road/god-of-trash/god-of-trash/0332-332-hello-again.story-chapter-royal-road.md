@@ -1,0 +1,203 @@
+---
+id: e00f74cb-8493-5678-90fd-59c2c74e3ec0
+page-type-slug: story-chapter-royal-road
+title: "332. Hello Again"
+slug: 0332-332-hello-again
+partOf: god-of-trash
+position: 332
+ownLength: 2912
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3628579/332-hello-again"
+royalRoadId: "3628579"
+---
+
+Aran—as Rhys presumed the blond-haired man was—looked from Rhys to Lira, smiling gently. “You two know one another?”
+
+“We’re acquainted,” Lira said.
+
+“By which she means we worked hard to destroy an Empire via potato chips together.”
+
+Ryota stepped through the barrier and immediately frowned at Rhys. “You have to stop joking about that. People are going to believe you.”
+
+“He’s not joking,” Lira replied coolly.
+
+Rhys shook his head. “You’re so right, Ryota. Look, she believes it!”
+
+Lira gave him a dead look. Rhys grinned back. Ryota, utterly lost, frowned at both of them, then turned to Aran, hoping for an answer.
+
+Aran chuckled and spread his hands. “I don’t know any better than you do, brother. It is good to see you again, though, Third. And it’s good to see that you’ve made a friend.”
+
+Ryota gave Rhys a long-suffering look. “Is that what we are?”
+
+“It’s that or co-conspirators. ‘Friends’ is more polite,” Rhys offered.
+
+“What are you up to now?” Lira asked in a long-suffering tone.
+
+“I could ask you the same. I cross an entire ocean to find you here… what’s going on? Where’d you go? You know, I kind of figured you survived, what with the shapeshifting and all, but I didn’t expect to see you on the other side of that tempest.”
+
+Lira gave him a look. “I can swim.”
+
+“I mean… yes, but I went underwater! It wasn’t easy down there, either!”
+
+She lifted her hand. “Did you go around and swim through the gentler currents, or did you charge directly into the storm and take on the most dangerous part of it you could find?”
+
+Rhys opened his mouth, then slowly shut it. “That’s… yes.”
+
+Lira nodded. “And there you have it. Things got bad, and I left and went to visit family.”
+
+“Family? Then…”
+
+“That’s right. This,” she put a hand on Aran’s back, pushing him forward, and Aran, ever-accommodating, smiled and waved, “is my half-brother.”
+
+“On the water sprite side, I’m guessing?”
+
+Lira shot him a dead look.
+
+“Sorry, sorry.”
+
+Aran bowed. “Then you already know my secret. I am a half-water sprite, and unfortunately crippled as a result.”
+
+If he’s using it, it’s okay, I think? Rhys thought, then nodded. “I’m sorry, but I don’t understand. This is real insensitive, but, uh, there’s no good way to ask it… How does that make you crippled?”
+
+Ryota flinched and Lira facepalmed, but Aran just laughed lightly. “It’s a fair question, for those less familiar with water sprites. Water sprites love to…engage with other races. Most of the time, their progeny is perfectly fine. There are half-humans who don’t even know they’re half sprite, and vice-versa. But every now and again, someone like me is born. I don’t fare well out of water, nor do I fare well under water.
+
+“I can’t exist without water, but I cannot exist within water. I require a very specific environment just to go on living and functioning and using magic. I know I look completely healthy right now, but I assure you: taken out of this environment, I will quickly sicken and weaken.”
+
+Rhys raised his brows. “That’s… unfortunate.”
+
+Aran shrugged. “It is what it is. Fortunately, I’m a bit of a homebody anyways. And if I want to go outside, I can… it’s just at the risk of my health. A few hours or even days won’t hurt me, either. It’s long-term that it begins to fall apart.”
+
+“Couldn’t you carry this atmosphere around with you? Well… I’m sure you’ve thought of that already,” Rhys said, immediately embarrassed that he’d suggested it. It was such an obvious solution that someone trapped in this situation doubtlessly would have already thought of it.
+
+“I can, but it wears out. I’m sure you’ve noticed the quality of the mana around here?”
+
+Rhys nodded; he had. It was just as chokingly wet down here as it had been on the surface, if not more so.
+
+“That… well, to use a rough metaphor, it ‘dries out’ eventually…or grows too damp. It’s only thanks to the specific conditions here and the well-wrought barrier that I’m able to live so healthily, but while it’s possible to use nature and permanent installations to craft this environment, creating a portable version has proven far thornier. I can extend my stay with an artificial environment, but it isn’t a long-term solution.”
+
+“Right. Of course. Sorry about that.”
+
+“No, no. If people don’t suggest solutions, I’ll never figure out a way past this roadblock. I welcome suggestions, even if I’ve heard them before.”
+
+Rhys raised his brows, surprised. A lot of people in bad situations like Aran’s got tired of hearing the same ‘solutions’ over and over again, and explaining themselves endlessly to people who didn’t know better. He couldn’t blame them. He could only imagine how annoying it had to be to be greeted with the same brainless replies every time they revealed a part of themselves they’d rather not spend time discussing. In his first life, he’d been trash, but he’d tried to at least not be that guy (like he’d just so rudely been to Aran).
+
+Of course, in his world, it was so rude because a lot of those unfortunate realities and chronic problems were truly unsolvable. There was no way eating a certain type of root vegetable would cure a chronic disease, or stretching would let someone stand out of a wheelchair. But things were different here. Magic existed. Miracles could occur. If one pursued their path far enough, it was possible to overcome any obstacle. Suggestions were welcome, because solutions were within the realm of reality.
+
+Even so, it still had to be annoying to hear the same repetitive suggestions over and over again. For Aran to simply accept it as part of life and move on past it… that was really above and beyond any expectations he’d had, or that anyone had any right to have toward anyone else. He looked at Aran and felt like he was gazing at a saint or a Buddha. Compared to your brother who’d rather dally around with Shrine Maidens, you’re really the one who deserves to be a religious figure, huh?
+
+Aran smiled, and Rhys realized he’d been staring and averted his gaze. He coughed. “Sorry.”
+
+“No, no.” His smile got even more gentle, somehow.
+
+Lira nudged her half-brother. “He’s straight.”
+
+Aran startled. He looked at her. “Truly?”
+
+“Well… that’s what he told the last guy, anyways.”
+
+“It’s true!” Rhys protested. “I—I’m going out with Mouse now! Kind of.”
+
+“Kind of?” Lira crossed her arms and tilted her head back. “Come on, out with it. Let’s hear how you messed up this one.”
+
+He swallowed. “I, um. Might’ve confessed and then ran away. Like, really ran away.”
+
+“Like to a whole other region that she couldn’t possibly find you in, because she doesn’t know it exists or know how to cross the tempest?” Lira deadpanned.
+
+“Uh… maybe.”
+
+“Did she not say yes?”
+
+“No, she did! She did. It’s just. You know. Um.”
+
+Lira rolled her eyes and muttered something under her breath. She shook her head, walking off. “That’s it, I’m done with men.”
+
+“That’s unfortunate, because it’s a sausage party out here,” Rhys muttered back, and she shot him a glare as she retreated.
+
+Aran turned to watch her retreat, then smiled at Rhys. “You two get along well. I’m glad to see that. Ever since Lira was exiled, I’ve always worried about her finding friends. She can be a bit… standoffish, and it’s hard for her to open up to others, so it’s good to see you two joking around.”
+
+Rhys chuckled. “Compared to some people I know, she’s downright outgoing.”
+
+“Truly?”
+
+“Well, I know a Demon King and some of the living weapons he left behind, so I might have a bit of a skewed perspective. But no—she’s doing fine. She was… doing fine. Before things went south, politically. Er—geopolitically. As far as I was aware, she was getting along swimmingly with everyone.”
+
+Ryota crossed his arms. “Again with the ridiculous lies?”
+
+Rhys laughed. “I can’t get anything past you, can I?”
+
+From the corner, Aran shot Rhys a look, and Rhys shrugged. He had kind-of accidentally frog-boiled Ryota, having started from implying that his king-killing was a lie and escalating with what he told the man slowly without ever insisting it was all true. By now, there was nothing he could do to convince Ryota that it was the truth short of showing him real evidence, and he didn’t really care to do that, so here he was, trapped in this weird lie that he was lying when he wasn’t lying.
+
+“Still, this is good news,” Aran said at last. “I’m glad she’s doing well. Come, I’ve prepared some drinks. We don’t need to stand in the yard; we can relax in my palace.”
+
+“Wait—wait, Aran. You’re not in any danger? There haven’t been any threats, have there?”
+
+“No? Is something troubling you, Third?”
+
+Ryota shook his head. “It’s just—Fifteenth said… it’s nothing. It’s good to see you’re safe.”
+
+Aran frowned. “Fifteenth threatened me? But I’ve removed myself from the line of succession. Why…”
+
+“Words are only words… is what he said. But if you’re fine, then… it must have been an empty threat.”
+
+“Fifteenth is prone to those. Still, it’s good that you came here and told me. I don’t appreciate surprises. Especially unwelcome surprises like those.” Aran drifted off, leading them toward his palace, and Rhys and Ryota fell in behind him.
+
+At first, Rhys had been under the impression that Aran lived alone, except for Lira, much like Ryota and his empty palace, but as they approached the front doors, a pair of beautiful women in matched, loose robes not unlike Lira’s swung the double doors open for them. Within, a dignified yet mysteriously handsome man waited with a tray of drinks. Aran plucked one thoughtlessly, and Ryota and Rhys took theirs as well as they followed him deeper into the palace. Servants bustled about everywhere, cleaning the enormous place and handling various household tasks, while delicious if fishy smells emanated from an unseen kitchen.
+
+“Luckily, you came just ahead of lunch. I was able to ask the servants to add two more places,” Aran said as they breezed by.
+
+“Oh, you didn’t have to,” Ryota said, earnestly surprised and gratified.
+
+“It was nothing. The ocean is plentiful, and there are many high-quality fish available.”
+
+Rhys eyed Ryota. This was what a functioning household looked like, huh? A fully-funded prince’s household? Ryota was poorer than he’d thought… relative to the standards of a prince, anyways. Compared to a mortal or even the average mage, he was still fabulously rich, what with his personal flying ship and palace. He just didn’t also have the requisite staff and funds for day-to-day expenditures like fine drinks and fish dinners.
+
+He sipped his drink as Aran casually showed off his palace via a circuitous route to wherever they were going, his senses still fully extended. Ryota and Aran chatted about old times, but Rhys simply took in his surroundings.
+
+This palace was encapsulated in a barrier, but he wasn’t a barrier expert. He didn’t know how strong it was. It could have been a barrier exclusively to keep water out and maintain the environment Aran required. He didn’t sense any threats, either, or traps or weak points. As far as he could tell, the entire palace was perfectly fine. Working as usual, with everyone doing their jobs harmoniously to maintain the household.
+
+And yet, the tingling sensation at the back of his mind wouldn’t go away. It felt like he was in a mousetrap munching on cheese seconds before it sprung and snapped his neck; a supremely uncomfortable sensation. And yet, there was no indication of anything going wrong or being out of order, nor were any of the servants alert or acting strangely. Everything moved smoothly. Nothing was out of place.
+
+Is it just me? He looked around one last time, then quietly breathed out. In the worst case, he could always retreat to the void. There was nothing stopping him from escaping into one of his teleport points and vanishing. Ryota might be in trouble, but at least he’d be fine.
+
+Unfortunate for my future religious icon, but, well, there’s always Aran. Then again, would Aran agree to that kind of hair-brained plan? He lived in luxury. And there was the whole health issue. Yeah… Ryota’s still the better pick.
+
+Nothing materialized, though, so he followed Ryota and Aran onto the back deck. There was a table set for four, and they sat around it, leaving one chair open. As the two brothers chatted, Rhys admired the space they were in. The dome arced overhead, carving a circle of air out of the water. Fish swam by, slightly curious about the open space, their colorful sides flashing in the crystal-clear waters as they hurried past. Reeds and corals spread over the ocean floor, full of fish and sea life. It was like being in the ultimate aquarium, and it was honestly enjoyable to sit back and watch the fish wander around.
+
+Some of the sea life continued onto the ‘yard’ of the palace, with reeds and low corals rising tastefully out of the ocean floor in decorative patches. Where they grew, globs of water clutched to the floor, keeping them submerged and healthy without any visible edges, glass or otherwise. Occasionally, fish flitted in through the small water tunnels that led from the edge of the orb to the gardens, then back out again. There was a lot to look at, enough that he could spend years here and not get bored.
+
+But forever?
+
+He sobered a bit, looking at Ryota and Aran. Unless he figured out a way out of this situation he was stuck in, Aran would be forced to spend centuries here, locked under the water. It was a nice house, and as a former homebody/shut-in/hikkikomori/NEET, it wasn’t like he didn’t get the appeal of a nice house. But this world didn’t have the internet or online gaming. There was only so long he could stare at a screensaver of fish without going insane. It might be days, months, or years, but Aran had much longer than that. He could escape for hours or days, but that meant he could never cross the ocean or visit the Alliance. He’d never see anything but this island nation where he’d been born. If he needed some resource of knowledge from beyond his homeland, he’d be completely shut out of advancing. It was even possible that someone out there had a solution for his situation, but he simply couldn’t move far enough to encounter that person.
+
+He’s not the most pitiful of everyone I’ve met, but this is a truly unfortunate situation.
+
+He couldn’t help but wonder if Aran’s seeming non-reaction to Ryota’s news was real or not. After all, if Fifteenth really did mean to attack, Aran couldn’t run. If he gave up this fortress, Fifteenth could simply destroy, poison, or trap it. He had to defend it, and if he couldn’t defend it, then his path ended here.
+
+That’s why I’m feeling trapped, Rhys realized abruptly. This wasn’t about Aran at all. No, this was a dead end in the truest of senses. Usually, Ryota could just walk away or flee if things got too tense, but here was different. Ryota wouldn’t simply leave Aran. He knew as well as Rhys did that Aran couldn’t give up this home without dying. If Fifteenth meant to destroy Ryota, then this was the best way to corner him: attack Aran in front of him, and force him to stand his ground. If he couldn’t or didn’t want to outright kill Ryota, then he could forcibly pin him here while he did whatever it was he wanted to do without Ryota’s influence.
+
+No—in fact, he told Ryota that Aran was in danger. He told Ryota to come here. And Ryota, the idiot, took the bait, so here we are. Now all he has to do is attack, and we’re stuck here until Fifteenth decides we can go, or until we fight our way out.
+
+All this time, he’d been extending his senses the wrong direction. There was no trap here. Rather: here was the trap. Aran’s life was the trap, and they’d stumbled right into it.
+
+Rhys stood abruptly. Aran and Ryota both looked at him, mildly surprised. Lira’s seat still stood empty; she hadn’t shown up.
+
+“What is it?” Ryota asked.
+
+Rhys smiled. “Aran, so nice to meet you, but I remembered something Ryota and I need to do right now.”
+
+“You did? What is it?” Ryota asked, deeply confused.
+
+Rhys grabbed his arm and dragged him on. “Yeah. So, sorry about this, but we’ve got to run, okay? I hope you have a good time. We’ll come and visit later.”
+
+Aran smiled wanly. “If it’s so urgent, then there’s nothing I can say, is there?”
+
+“No, sorry. I’ll explain later. Ryota, come on.”
+
+“Rhys! What is so important that it can’t wait?”
+
+Rhys grimaced. “I’ll explain later. Come with me, please. Don’t resist.”
+
+A shadow loomed over the surface of the water, casting the entire palace in darkness. Oppressive mana signatures loomed, pressuring the entire palace. Ryota pulled away from Rhys and drew his sword with a valiant shout, and Rhys grimaced.
+
+Dammit. Too late.

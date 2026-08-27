@@ -1,0 +1,159 @@
+---
+id: a9757ef4-65a8-54fc-837e-b26267b24aa8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 864 - A Competition in the end"
+slug: 0192-chapter-864-a-competition-in-the-end
+partOf: hell-difficulty-tutorial
+position: 192
+ownLength: 2425
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3836395/chapter-864-a-competition-in-the-end"
+royalRoadId: "3836395"
+---
+
+POV Maya Jones
+
+It's been days since I found myself in this labyrinth.
+
+One of my early thoughts was to worry for Kim and the others on the surface. I hoped they weren't dumb enough to follow and try to help, and I hoped they hadn't been found by the Adjudicator and the Corporations controlling things there.
+
+But just as my sense of the passage of time disappeared without the change from day to night, so did my worries as I went deeper into [Focus] just to keep the fear at bay.
+
+Every near-death experience, every powerful opponent I avoided by either sheer luck or their lack of care, and every trap that almost killed me. It just keeps snowballing and snowballing until my optimistic behavior from those first few hours here feels hollow now.
+
+I still don't like [Focus].
+
+I know there’s a reason I’ve got it, and I know how powerful the skill can be from the way Nathaniel uses it. But I’ve never embraced it fully. But now I find myself with no other choice. Maybe it’s cowardice, a way for my mind to escape and protect itself. That's what I always thought would happen, no matter what Nathaniel said.
+
+But now, as I try to use it the way he drilled into me and then let my instincts take over, it feels… right? Correct? It’s begun to feel natural.
+
+It is my starting skill that I have a talent for. Out of myriad skills, this one appeared in my status. And now I don't feel as much like a machine as I’d worried. I don't feel like I’m losing myself.
+
+The world turns black and white, and my emotions dim out, only coming to the surface when I will them to. And the way I’m using the skill, my determination to survive is still there. It’s boosted, compounded. I claw, I bite, I swing my weapons in all the ways martial arts taught me to, in the way I admired so much. All this training, the paths I drew with my blade are now ingrained into my body itself, and as I fight, all of it smoothly pulls itself to the surface.
+
+There’s no hesitation as I cut, no fear slowing my reactions. Being left here on my own, I don’t have the luxury to slack off. My low ambition won't help here.
+
+And all the stress from having to make a choice is gone, as I’m forced to fight and grow.
+
+POV Kim Min-Jae
+
+“Kim, my bud, of course talnium is special. There’s only a few places in the universe where you can find it, and all of them are kind of weird. The Labyrinth of Xyphos is, obviously, the most fucked up out of all of them,” Kevin says, and the Avatar of a thylarin with four arms drops down in front of him from somewhere above.
+
+He feels so terrifyingly strong as he swings out with his blue skinned arms, and sparks of gold and white mana glitter around him, as the area around us drains of color. The thylarin then slams his arms together, and the black and white space expands even further, and all those sparks shoot forth with a scary might.
+
+Kevin watches this all unbothered and lifts his right hand in front of him with his palm open. The air around him ripples like there is an invisible wall just as the sparks reach it.
+
+All of them slam against that wall and then bounce back with even higher speed.
+
+The thylarin has no time to do anything about it, and dozens of projectiles drill through his body. He still tries to fight back, but flames start to combust across Kevin’s open palm, and he closes it into a fist.
+
+An explosion of flames the size of a building erupts around the thylarin. There’s no shockwave, smoke, or dust. The flames clear out quickly, and there is nothing left at the place.
+
+Kevin snorts in satisfaction, “A weak-ass Champion. Kim, make sure to never end up like him.”
+
+“I will try.”
+
+“I can hear the honesty in your voice, so I have no choice but to believe you! Now, as I said, talnium is a byproduct of these special places with extremely high space compression or dilation. Like the bits of charred grass you find around a campfire, no matter how many stones you layer around it. For example, the Labyrinth of Xyphos. The planet itself might seem normal on the surface, but on the inside, the space is much, much bigger.”
+
+“How much bigger?” I ask.
+
+He turns to me and smiles in a way that both seems a bit too much like him, and yet not enough. “Some say big enough to fit a galaxy or two.”
+
+“What, that’s…”
+
+“Impossible? Yup! As I said, the Labyrinth of Xyphos is a fucked up place, and even the system wasn't able to copy it properly, so what you see during the floors is a cheap ass copy. There’s also the chance that The Tutorial was actually inspired by the Labyrinth of Xyphos, but even that’s a far, far cry from the original. Before you ask, even I have no idea, as smart as I am. I am smart, Kim, right?”
+
+“Sometimes.”
+
+“That’s the answer I expected. The usual punishment would be to endure Biscuit’s ankle biting for an hour while he’s in his puppy form, but we don’t have that option, so I'll let it pass! So, other than being impressively big, it can, well, some say it mirrors the true creation, others say it records and stores the events within. Places, items, Avatars of people, and such stuff. Of course, all of it lacks the spark of the original, but that’s only to be expected.”
+
+“You mentioned it before, but how would she replace the tutorial Xyphos with the real one? She shouldn't be able to reach beyond, right?”
+
+“That is true! But whoever made the tutorial was quite lazy. Or maybe just unskilled back then, and a temporary solution became permanent. Since the system can't copy the real Xyphos, it maintains a connection to the real Xyphos where an array has been placed around it to observe and send back data or something. Don't ask for more, though, I have no idea how that was simpler than just creating a lesser version and copy-pasting it everywhere.”
+
+“Maybe the Labyrinth as a data source is in some way structurally impossible to duplicate or scale down to a simpler asset, so the best the system can do is to create a rendering and pipeline a real-time data stream with... something like a much compressed resolution?”
+
+“You are such a nerd. But yeah, she found that connection, and by working with that cute wyvern, they’re about to abuse it. But anyway! Now, let's go forth onto a far more important adventure! Girls! Maya awaits! We have to save her before that lunatic woman begins her plan.”
+
+POV Nathaniel
+
+Xixi is trying to escape, and yet glass walls rise up in front of her every time she’s about to succeed. The green-haired woman’s perception is great, and she dodges long-range attacks as if she knows where they’ll be. Like Prince Kip’s laser eyes and yes, even my lance. And then she also has high enough physical stats to outrun Vic.
+
+As a hunter, Xixi doesn't have anyone to help her, so she’s left out on her own, and because of the glass walls, it's been pretty easy to follow her.
+
+But as we reach a dead end, she stands in a hallway surrounded by her green armor.
+
+“Motherfucker, stop disrupting everything I do!” she shouts with her eyes angrily locked onto me, ignoring Vic and Prince Kip.
+
+“Maybe put more effort into not letting me do it.”
+
+“I’ve met goddamned Champions who fucked with my mana less than you, you ridiculous bastard!”
+
+“Forty percent,” I say.
+
+“Stop saying that, I have no idea what it means!”
+
+She doesn't, but I do. Victoria started allowing me to use up to 40% not long ago, and I'm still in a good mood because of it.
+
+And if what Xixi says is true, Champions must have been quite bad at handling mana. And even now, as she talks, I’m using my eyes to reach out towards her and pull apart the structure of any skill she tries to activate. Armor, projectiles, attacks. Anything external.
+
+Forty percent is still too little for me to try to pierce her defenses and natural barriers to reach under her skin. Still, even with all of that, she’s still pretty dangerous. Her reinforcement is impressive, the armor she keeps close to her skin is powerful enough to face down Victoria, though she does her best to avoid Prince Kip’s laser eyes.
+
+“Is this it? Has our hunter found her end in our game? Among our male audience, the participant Xixi ranks quite high, so maybe one of our donors will shell out for an expensive option to send her some aid!” Melek babbles on in the background, along with the murmur of the crowd, as if they were sitting all around us.
+
+Just as Prince Kip regenerates his eyes and shoots at Xixi, an item appears in front of her. A round, shiny shield she grabs with widened eyes and holds in the path of the lasers.
+
+The surface of the shield begins to glow as if it’s going to melt, and droplets of metal start dripping on the floor, but it endures the attack, along with the lance that I shoot at it.
+
+Victoria reaches her in the meantime and throws two fingers out in front of her. From each, a duplicate grows, boosts its body beyond limits, launches ahead, and smashes into the shield, after which the duplicate's body explodes under the pressure. It’s almost like she’s using them as some sort of one off attack.
+
+The second duplicate flings the shield to the side and opens up Xixi as Victoria reaches her.
+
+My disruption causes Xixi’s skill to break apart again just as Vic slams her against the wall. A duplicate appears on the other side, and they both pull, tearing flesh on their forearms as they pull apart the green armor Xixi’s created from her mana.
+
+I use the opportunity and shoot the lance, stabbing it through the woman, who disappears in the next moment.
+
+The audience goes into a rampage. Shouting in anger or amusement, and Melek starts joking about lost bets and the like, but as I usually do, I filter it out.
+
+I look through the Glass House towards the black room in the middle, which isn't even that far away, and this time I don't even see any opponents between us and it.
+
+The door Xixi tried to reach opens, but both me and Vic stand unmoving, as both of us notice Prince Kip’s eyes glowing.
+
+“It was nice while it lasted, but this is a competition in the end, isn't it?” he says with a smile.
+
+“It is,” my sister nods and turns to him.
+
+"I’ve also noticed that you’ve been at the front the entire time, Miss Victoria, while your brother kept behind me most of the time."
+
+“I wouldn't attack you out of nowhere, but you know… just in case,” I answer instead of my sister. As he said, I'm currently behind him. With the way his most powerful ability works, he would face Vic and blast her, which is the sort of thing she can deal with, meanwhile, I stand ready to attack him from behind.
+
+“Refreshingly so, I believe you,” the vyssari says with a smile. “Let's break this alliance apart then. Do you agree?”
+
+“I agree,” I say.
+
+“I agree,” my sister says.
+
+The next moment, Prince Kip’s eyes shoot lasers ahead, cutting my sister in half. I'm gathering my mana and launching my attacks at him already while observing his movement.
+
+But he doesn’t behave the way he did before.
+
+His body doesn't even move, and it is the body I watch for signs of turning around. Instead, his head twists on his neck, breaking and spinning 180 degrees as bones bulge under his skin.
+
+There’s a wide grin on his face as his laser sweeps against the side wall, and when he is fully turned to me, it tracks me.
+
+All my attacks are left to explode or get cancelled out, as all my effort goes into boosting myself to the side, where I slam against the wall with a crunch and then boost myself across the floor to avoid the sweep of the laser.
+
+The glow in his eyes intensifies, and the narrow stream grows wider, breaking apart until multiple streams of lightning are shooting out of his eyes and bouncing off the walls and through the hallways.
+
+I keep dodging, I raise defenses against them, all to no avail, and a few of them pierce through my body, damaging me and burning my flesh, slowing my healing.
+
+Prince Kip avoids my lance even as it grazes his side, and his neck snaps back into place as he heals himself and his eyes begin to regenerate. Without sight, he still manages to nimbly avoid my sister until I reach out to him with [Redistribution]. He is fast, but his physical stats aren't as impressive.
+
+I begin to absorb his kinetic movement, halting him in place, and in his efforts to counter it, he quickly makes his natural barrier expand in an attempt to press against it.
+
+But like any problem, this also can be solved by throwing more mana at it. Forty percent is still more than enough to let mana flood my body as I quickly channel it in huge amounts, overpowering him just for a moment, long enough for Vic to grab him by his shoulders and start pulling him apart. I pin him for just a very short moment, but on this level, even that short moment is more than enough.
+
+In the final second, one of his eyes regenerates faster than the other one, and he blasts away her head in a burst of white lightning, but what remains of Victoria’s body continues to pull him apart until his bracelet activates and the vyssari disappears.
+
+I let go of the finger I’ve held on until now, and my sister regrows from that as I hand her the bracelet as well, and both of us start walking through the hallway towards the black room.

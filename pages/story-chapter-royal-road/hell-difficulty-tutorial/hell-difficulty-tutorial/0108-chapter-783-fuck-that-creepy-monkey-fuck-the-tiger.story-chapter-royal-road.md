@@ -1,0 +1,129 @@
+---
+id: 0fefa739-5000-5a6c-9476-2dfcc86a7784
+page-type-slug: story-chapter-royal-road
+title: "Chapter 783 - Fuck that creepy monkey, fuck the tiger, fuck Skippy"
+slug: 0108-chapter-783-fuck-that-creepy-monkey-fuck-the-tiger
+partOf: hell-difficulty-tutorial
+position: 108
+ownLength: 2183
+unit: words
+publishedAt: 2026-03-31
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3216010/chapter-783-fuck-that-creepy-monkey-fuck-the-tiger"
+royalRoadId: "3216010"
+---
+
+Biscuit grows in size to match the Tiger, crashing against it as they push for dominance. His primordial energy expands into the area, devouring the mana radiation that had begun to swell again, causing parts of my [Eclipse] to flicker.
+
+From the back of the tiger’s corpse, Goruk moves its long arms in an attempt to attack the corgi, but before any hits land, Tess’s lances pierce them through, and the limbs are forced to regenerate before they can attempt another attack.
+
+The Tiger's head snaps at Biscuit, but two arms made from purple mana manifest from the corgi, catching the jaws and forcing them open. Instead of biting, the tiger’s head shifts, with a roar, another explosion shoots toward group 4, only for the target to be revealed as illusions the twins have created. The forest behind is obliterated instead.
+
+Monsters across the larger area start screeching, and it feels as if the entire forest is shaking. The weird pull I felt when trying to fly begins to manifest even down here. Blackie begins to move as well, as I sense the bursts of kinetic energy where he’s bulldozing through the trees to rush toward us.
+
+My lance stabs into Goruk’s skull. And more mana surges through the [Ley Line] connected to it, causing the lance to swell and explode just as I send off a message to Biscuit telling him to jump back.
+
+The body of the tiger remains undamaged, but the Goruk at the top is half-obliterated, only for more flesh to sizzle and start regrowing in the next instant. Another [Empyrean Lance] shoots toward the tiger’s head as a test, but it barely scratches the skin.
+
+I compress a thin stream of flame and move my hand in a slashing motion. It sweeps across Goruk to cut it from the body of the champion. Most of the Goruk is severed, but I fail at the final mark, and it manages to stay connected.
+
+Izzy, healed by Lily, attacks again with flames of her own, and Noodle expands in size, slithering behind it with a dark expression in its six green eyes. Colorful flames burst from its open maw, almost liquid in form, like long range flamethrowers spewing burning fluid that ignites the air itself. The instant they fall upon Goruk, they burn even hotter. Blue, purple, and green fire sizzles against flesh and sends the temperature soaring, nearly stripping Goruk to nothing.
+
+Everyone else sees it then: pieces of whiter bone that make up the Goruk’s body, centered around the spine, chest cavity, and parts of the skull. These are bones it has devoured from the blue tiger.
+
+Tess’s attack stabs through the eye cavity of Goruk’s skin and bounces inside the brain, sizzling and burning the organ. Even then, Goruk continues to sway and screech as more flesh regenerates. Its movements are slower now, and the eyes show even less intelligence than before as they reform.
+
+The monster sways, its arms digging into the tiger to feed on more of its flesh, while the tiger opens its mouth to roar again. The shockwave is now omnidirectional. Everyone is forced into a defensive stance as the forest around us explodes.
+
+Trees further and further out are uprooted, blasted away, and the ground is torn open as a new wave of mana radiation spreads. Without even using [Eclipse], I gaze at it, filling my eyes with mana. The radiation reaching us begins to break apart. Those dense wavelengths unwind, dissolving into particles that fill the air like falling ash.
+
+New lances break apart into glowing mana with a white and golden core, mixing with the power I release like a torrential wave against the monstrosity.
+
+[Empyrean Lance - lvl 39 > Empyrean Lance - lvl 40]
+
+It crashes against the tiger without causing any damage, but climbs up toward the Goruk, stripping the monster of its flesh even as it regenerates in constant explosions of mana. I detonate it in an attempt to sever the connection at Goruk’s spine. Lily lands there immediately after, her body moving with such strength and speed that I can be pretty sure she sacrificed some of her fake organs. In her hands, she holds an axe grown from her own body, gray mana dancing across the blade as she swings it down. One of the arms moves to strike her, but another lightning javelin hits it, causing it to miss, and Lily cuts deep.
+
+(Skippy is coming!) Tess shouts through our connection, and I send my senses further, feeling the presence closing in.
+
+Cursing, I send a message back, (I’ll slow him down. Finish this quickly and take anything useful you can find!)
+
+I split from the group and push myself over the trees, flying toward the approaching presence. On my way, I sense constant bursts of kinetic energy and trees exploding as Blackie, piloting the body of a Champion, forces his way toward the group.
+
+The pressure that seems to hate anything with the audacity to fly intensifies, forcing me to put up more effort to stay in the air. I gather more mana and boost myself toward the ground, coming up at the impact that blasts the earth away, and immediately fire an [Empyrean Lance].
+
+That lance just sizzles through, barely causing any damage. Of course, there isn’t any damage.
+
+[Apex Slime - lvl ????]
+
+Skippy is massive, but he’s not tall. He has a wide, heavy presence that spreads instead of rising. His body is perfectly smooth, faintly transparent, with colors slowly shifting inside like light moving through deep water. There are no bubbles, there’s no debris, and no body parts inside. Everything taken in gets corroded and entirely absorbed.
+
+As it comes to a stop, the mass looks calm, almost lazy. Skippy stands there, not wobbly at all after the last ripples from my lance piercing him stop. Then the mass redistributes instantly, pulling itself forward in a smooth yet powerful surge. The slime compresses and then releases, bouncing up toward me.
+
+I dodge to the side, and the mass passes by me, absorbing anything it touches before coming to a stop with a wobble. All the trees and rocks it took in have already been dissolved. A needle point the size of a tree trunk slams against it, making the entire surface ripple, but nothing else.
+
+Skippy turns toward me, eyeless, yet unmistakably aware. Then, in the center of that body, a small green ball made of liquid forms.
+
+The world around me slows down as I enter deep [Focus]. From the ball, a stream of that liquid shoots forth just as I burst into movement, jumping, running, and teleporting all over the place, moving only in directions where group 4 isn't.
+
+The green, water jet like attack cuts through everything in its way with such ease that it feels ridiculous. Trees, ground, stones. The jet stretches for miles and miles, perfectly straight, neither weakening nor slowing down as the slime sweeps it all across the battlefield. Anything cut by it begins to sizzle and corrode as the liquid melts it down, spreading further and further through the area.
+
+More of my lances pierce the monster. Explosions tear through the area around it. Flames burn. Waves of mana clash against its body, a blast of raw mana powerful enough to wipe out dozens of A-ranks at once. None of it helps. None of it damages the monster or stops that jet of the green, corroding fluid.
+
+Then another green ball forms, and another jet begins to follow me.
+
+Then a third.
+
+All moving at different angles from one another, sometimes crossing paths with impacts that send green droplets flying. They sweep through the area, destroying everything in their path while spreading their green toxin everywhere.
+
+The world slows further as I overclock my mind, gathering and processing stimuli faster. Not once do I try to put up a barrier against it, not even [Ley Line].
+
+My heart beats wildly as I duck, teleport, run, jump, fly, and roll through the debris, scuttling away on all fours just to avoid it. A single mistake and I will be cut through as if I weren’t even there, and I’m sure of that.
+
+Even so, I don’t slow down. I continue to move faster, searching for a rhythm in those chaotic attacks. I calculate trajectories and watch the signatures of group 4 to avoid the attacks shooting their way. I listen to the conversations in our [Connection]. At the same time, I cycle my mana and thermal energy, dealing with the crown so it doesn't explode.
+
+My mind splits and combines. New thoughts pop up for a second to deal with a problem before disappearing. And I gather more mana.
+
+[You have defeated Goruk - lvl 432]
+
+[Lvl 388 > Lvl 389]
+
+(We’re done here! We’re about to be running,) Tess sends.
+
+(I’ll join you.)
+
+Getting the confirmation, group 4 gathers and begins to move quickly, following behind Blackie as he makes his way through the forest. Skippy turns their way, perhaps preparing to sweep a slime jet at them, and I immediately release and detonate two mana orbs. They send a shockwave through the forest, spreading outward like ripples on the surface of a calm lake.
+
+Even so, there isn't the slightest visible hint of damage as the slime turns back toward me. It shifts its mass, shrinks, and then explodes into a powerful jump. My attacks bombard it as it passes, golden flames blaze across its form as it rolls through debris, pulling everything in its path into its body.
+
+Another [Empyrean Lance] pierces through, stopping in the middle of its body where it explodes, only to be suffocated like a small air bubble bursting in the deep sea.
+
+Giving Skippy a final glance, I teleport away and fly into the sky. I head toward the group, moving in a trajectory that ensures any shots Skippy takes at me will miss them.
+
+As it turns out, the precaution wasn't needed. Skippy tries to lazily follow for a minute before giving up and turning back, likely heading toward the next fight it senses. Weirdly, it never goes after the bodies of Champions or Absolutes in an attempt to absorb them.
+
+The forest opens up, and I push myself between the trees. After a few more teleports to the marks I connected to my projectiles, I reach the others, who’ve recently come to a halt. Lily is moving from person to person, healing them in spite of any protests, as is the case with Tess. All things considered, they look better than I expected, though everyone’s suffered their own share of wounds. Despite being healed, there are bloody patches on their clothes and skin. By reading their mana signatures, I estimate who spent the most and learn how much this skirmish truly cost us.
+
+Blackie stands off to the side, holding what looks like Goruk’s spine and skull, both partially formed from bones it devoured from the tiger. There are more bones scattered about, alongside pieces of flesh still clinging to blue fur.
+
+"You’ve been wounded too," Lily says, stopping in front of me. For the first time, I notice the cuts on my side and back. They are wide and partially corroded. I must have subconsciously used thermal energy to burn the flesh off before the toxin could spread further.
+
+I allow her healing mana to restore the wounds before sitting on the ground with the others. We sit in a heavy, tired silence.
+
+"Where to next?" I ask after a while.
+
+"Fuck that creepy monkey, fuck that tiger for not staying damn dead, and fuck Skippy," Dennis says, shrugging. "Further north? There are three more danger zones, and two of them should belong to Absolutes. Optimal for more 'fun' that's even worse than what we just went through."
+
+(Food?) Biscuit asks.
+
+"What did he say?" Dennis asks.
+
+"The ferret lives farther north," I sigh, lying flat on my back. I look up at Biscuit in his adult form. From this angle, he looks massive and majestic. I see his chest, his chin, and then his eyes as he moves his head to look down at me. "Let’s go north," I say. "Not much time remains on this floor."
+
+"Does everyone agree?" Tess asks.
+
+Slowly, everyone mutters their agreement without hesitation or fear, despite the fact that the danger will likely be even greater than what we’ve just been through.
+
+Before the group settles into their short break, I ask a question, still staring up at Biscuit. "How possible do you think it is that there is a being nearly as big as a small planet? Or a being that hides inside the planet and, every once in a while, eats almost everything on the surface?"
+
+In the silence that follows, no one answers, so I ask another question.
+
+"And how far do you think I would need to fly into space for the System to acknowledge that I’ve seen enough of it to show me a name and a level?"

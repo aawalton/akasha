@@ -1,0 +1,133 @@
+---
+id: aec9f742-e3a5-580b-9acc-130525c7066d
+page-type-slug: story-chapter-royal-road
+title: "292. Love Rivals"
+slug: 0292-292-love-rivals
+partOf: god-of-trash
+position: 292
+ownLength: 2086
+unit: words
+publishedAt: 2026-03-27
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3201181/292-love-rivals"
+royalRoadId: "3201181"
+---
+
+“Hello, Rhys,” ‘Lira’ said.
+
+“Hey,” Rhys replied.
+
+She waggled her brows at him. “Can you afford to be so relaxed? I’m holding your girlfriend at knifepoint.”
+
+“Look, she just said ‘yes’ to me saying ‘I love you,’ which kind of reminds me of a different situation, except I didn’t say ‘I know’ and it was way less douchebaggy all around. I don’t know what we are. We need to sit down and hash out that whole conversation at some point, okay? Let’s not go ahead and assume things and put labels on people who might not have consented to those labels yet.”
+
+“I… don’t mind that. Being your girlfriend.”
+
+“Oh. Okay. In that case, never mind. You got it right.”
+
+Fake-Lira bared her teeth. They were sharp; she’d gotten that right. “You can be so relaxed while I hold her life in my hands? Do you think I’m joking? I assure you, I’m deadly serious.”
+
+“And I get chatty when I’m nervous, which you would know if you were actually Lira. Do your research, idiot.”
+
+She paused, then sighed and gripped her forehead and hairline-area. Full cheap-spy-movie style, she pulled, and dragged her hair and face off in one fell swoop. Underneath, a blonde woman tossed her hair, running a hand through the strands. “Phew. You have no idea.”
+
+“I have many ideas, actually. And I’ve worn lots of wigs,” Rhys interjected.
+
+“How’d you know it wasn’t me?”
+
+“I ran into the real Sable, and she didn’t remember Mouse. Unlike you, who did. I presume you’re one of her fellow secret agents?” Rhys guessed. If she was, then this plan was already going sideways, but it wasn’t in pieces yet. He still had Straw, he could warp out at any moment, and at this point, the element of surprise was less important than it had been moments ago, before he’d grabbed Straw and freed Mouse. It wasn’t ideal, but it wasn’t game over, man, game over, yet either.
+
+He didn’t sense anyone rushing their direction; there was every possibility this woman hadn’t yet alerted the guards, if she’d put capturing Mouse and threatening him higher in her priority list than alerting guards. It wasn’t even a bad call, since the alternative was that Rhys simply grabbed Mouse and warped out on the spot, so he couldn’t fault her for it, but as someone with a fuller idea of his own situation, he did appreciate it nonetheless.
+
+“So what is your name, not-Lira? I can’t keep calling you fake-Lira in my head. It’s too wordy,” Rhys said, stalling just a bit to figure out the situation. He kept all his senses extended; admittedly, he’d retracted the anxiety-hell cursed sense after he’d unmasked Mouse, since oh dear gods, if I had to be hyper-anxious and confess to Mouse at the same time, I might just have exploded. Plus, he’d been kind of distracted by his path expanding, breaking through his mental blockage, and all that.
+
+Even so, he still didn’t sense anyone, but he kept looking just in case. If someone came running, he’d have to jump for Mouse and start making money moves, but if they really were here alone together, all three of them, then he’d have more liberty to take chances, like going for the woman’s head instead of beelining to Mouse and warping out to save time on his real objectives. Killing the woman would take more time than saving Mouse and running, but on the other hand, she’d be dead and unable to report what she’d seen, whereas if she had already reported it and he killed her, he would’ve just wasted time. It was an important calculation to make!
+
+A sudden epiphany struck him. Oooh! That’s what those bit-villains meant when they did the whole ‘it’s too late’-slash-‘you wasted your time’ when the hero killed them in those action movies. I never got it until… well, until I found myself in the same situation! Good thing I’m not hotheaded enough to attack on sight… though on the other hand, how much time does one bullet waste?
+
+Eh. Logic only gets in the way of awesome in trashy action movies, and I’m not here for it. Trashy action movies need maximum awesome and minimum logic!
+
+Wait, hold on. I wonder if I can use that magical flow-state thing to tap into that as well as trashy romance tropes…? He looked at fake-Lira calculatingly, then wrinkled his nose. Trash-slash-mana costs aside, this was definitely not the scenario that would allow him to unlock maximum awesome. He needed at least a dozen more unnecessary explosions before he was even close, and preferably there’d be a large, fast vehicle involved too. Maybe even a giant truck with GUN written on it.
+
+“Don’t hate it before you hear it,” the fake-Lira sighed, misinterpreting Rhys’s nose-wrinkle. “But I prefer to be called Ina.”
+
+“If that’s a fake name, you can do better,” Rhys assured her. Sure, it was coming from the guy named Rhys, but he’d at least been assigned it at this-body’s-birth, and it felt rude to rename the body he was inhabiting. If he was going to pick a name for an alias, he’d pick something cooler than Ina.
+
+“Excuse you. I happen to like this name.”
+
+“And I happen to like the woman you’re holding at knifepoint, so can we get to the point of things? Or not. You know, maybe we leave points out of the discussion.”
+
+Ina looked at Mouse. “Is he always like this?”
+
+“S-sometimes… not so much…?”
+
+Rhys shook his head. “You can tell her the truth. Yeah, pretty much.” He cleared his throat. “Back to business.”
+
+“Yes. To me, holding Mouse hostage.”
+
+“Right. Speaking of, what happened to Soma? I take it you’re the one who arrested him?” Rhys asked.
+
+Ina smiled. “You pick up quickly.”
+
+“I’m just impressed. You were on double duty, huh? Keeping an eye on Soma and simultaneously looking for me. Which was your original goal? Looking for me, I assume, hence Lira’s face?”
+
+“Yes. Which made it quite amusing when you asked me to be hush-hush about you being able to edit the marks. I’m impressed you managed to alter Mouse’s, but don’t worry. We’ll have it reimplanted in no time.”
+
+“We’ll see about that.” Rhys extended his mana senses further, to their very limits, but still couldn’t sense anything. If she’d called for someone, they weren’t coming. There was no point waiting any longer; he’d just give her more opportunities to call for help.
+
+Super time compression thinking mode, activate! What the hell is my move here?
+
+He could lunge at her and hope to shock and overwhelm him with his true strength and speed. It wasn’t a bad idea, if it was a bit brute-force-y. Upside: resolved things quickly. Downside: if she had some kind of backup item, or if she was also hiding her strength, he’d end up in hot water quickly.
+
+He could throw a tiny impure dagger at her, like he hadn’t done much since his early post-mine-escape days. Upside: he really doubted she had a counter for it. Downside: it moved kind of slowly, killed kind of slowly, and if she was hiding her strength, or saw it coming, he was cooked.
+
+He could use a trashifying beam on the dagger. Upside: no shot she saw that coming. Downside: she might have another dagger in her back pocket, or just swap to snapping Mouse’s neck or using some other weapon, spell, or attack.
+
+He could—His eyes locked with Mouse, and Rhys’s racing brain slowed. She was mouthing something at him, her eyes wide. Whatever she was trying to say, it was super important, but he couldn’t…
+
+Ina’s dagger drifted a little, almost… forgetfully, and Rhys gaped. Ah! Got it! He cleared his throat. “Where is Soma? I’ve been looking for him, but I kind of figured he had things under control, so not… you know, that hard.”
+
+“He’s in the deepest, darkest dungeon we have. He won’t be getting out any time soon.”
+
+“Got it. So he’s happy, then.”
+
+She fixed him with a look. “He’s being tortured.”
+
+“Is he?”
+
+“By our foremost experts. I imagine he’s screaming in pain by now.”
+
+“Of course you have your best men on the job, it’s just… is he?”
+
+Ina stared at him for another few beats, then sighed. “He’s screaming, anyways.”
+
+“I don’t doubt that.”
+
+“It’s a little disturbing, honestly. I fear for the torturers.”
+
+“Should I take him off your hands? I mean, you wouldn’t want your dungeons getting dirty, would you?”
+
+She nodded at his hands. “Yours look a little full. Besides, you already have one Remnant Weapon. What are you going to do with another one?”
+
+Rhys snorted. If only you knew. I’m collecting them like they’re pocket monsters, and I’m out to complete the ‘dex. He palmed one of his tiny hoops and pushed Straw into it with his free hand, then spread his bare palms. “What Remnant Weapon?”
+
+Ina rolled her eyes. “Oh, real smooth, real smooth. I’ve never seen that trick before. Put him in your storage ring, did you?”
+
+Rhys just smiled mysteriously. He’d basically done the equivalent, but was there anything trashier than the smug silent smile as a response to someone guessing the mechanics of a magic trick? It said nothing, neither confirming nor denying, but it definitely pissed off whoever was on the other end of it; that was the whole point.
+
+“It doesn’t matter. I’ll get him back just as soon as I kill you.” She whipped her dagger out straight in front of her, and in that moment, Rhys acted.
+
+The whole time they’d been talking, Mouse had been fading away, erasing herself from the world—and most importantly, Ina’s awareness. Ina was holding her hostage, and clearly had a power advantage, so it was an uphill battle, but that was what she’d expressed to Rhys when they’d met eyes, asking him to direct the conversation away from her and further distract Ina.
+
+And thus, Rhys lunged. He hadn’t made his mind up about exactly what he wanted to do to attack, so he just did everything at once, while at the same time grabbing the mostly-transparent Mouse’s hand and yanking her behind him. On top of what he’d thought of earlier, he threw in the rat swarm, blasted her with a face-full of bad-impurities-breath, and added a sword attack just for fun. He would’ve done even more, but between the dart and the sword, he was out of hands, and once he factored in the mental rat attack and the breath attack, he was out of orifices and brainspace, too. He was surely forgetting attacks, but for now, this would have to be good enough.
+
+Ina growled and leaped at him. A second dagger appeared in her offhand, and the two blurred, cutting down his attacks. Some hits got through, like the bad breath and the rat swarm, but she quickly huffed and expelled a burst of mana to push both back. The bad breath dissipated, but the rats just swirled around where they stood and leaped at her again. Some of them jumped a little more than usual, their bodies a little longer and lither than Rhys had noticed before. He squinted, then realized: there were ermines mixed in with the rats. Ermines, like that projection he’d trashified and stolen.
+
+Huh. Didn’t expect that, but it’s a pleasant surprise.
+
+Ina pulled out a small charm and went to activate it. Rhys lifted his finger and narrowed his eyes, sending a beam of impurities and trashifying energy at the charm. The impurities hit first, corrupting the metallic surface, but the charm had some kind of refreshing mechanism in it that prevented such a relatively weak impure attack from penetrating. The trashifying beam hit a moment later, and the charm’s reaction was completely different. The refreshing mechanism dragged, then stopped operating entirely. The metal’s carvings suddenly looked far simpler, and the gem went cloudy, then cracked entirely. The pulse of mana she’d sent out weakened at an alarming rate, then vanished entirely.
+
+“What the hell?” Ina shook the charm, frowning at it in confusion.
+
+“I deny you the right to call for help,” Rhys said domineeringly, and if the ceiling weren’t there, he would’ve looked down on her from an even higher angle.
+
+She scowled. “Forget this. It’s time to get serious.” She gripped her hairline for a second time and pulled, and once more, her face and body transformed.

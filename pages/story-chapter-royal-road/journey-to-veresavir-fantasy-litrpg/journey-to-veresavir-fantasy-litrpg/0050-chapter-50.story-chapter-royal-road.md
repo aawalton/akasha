@@ -1,0 +1,437 @@
+---
+id: 5714d4cb-02de-5e95-a1cb-400e5643383b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50"
+slug: 0050-chapter-50
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 50
+ownLength: 3366
+unit: words
+publishedAt: 2026-03-21
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3178265/chapter-50"
+royalRoadId: "3178265"
+---
+
+Chapter 50
+
+Veron talked to a few more people but nobody struck him as an immediate fit. So he got lunch, familiarized himself and sketched a bit more of the map, and then went to the second meeting for the Modest Paths.
+
+There were a lot more people in the afternoon but it didn't seem like anyone cared that he wasn't on the list for this one. Rover was there again, and waved him over after a while.
+
+Ailis joined him too, nodding towards him in greeting.
+
+“Alright. There’s a lot going on, so I can’t give you a ton of time. First one is the guy over there,” Rover said and nodded towards one of the tables where three men were talking. Two wearing steel armor, yellow capes, sword and halberd. The third looked different, wearing a light brown cloak, somewhat broad traveling clothes in the same color, and leather armor. “The one without plate.”
+
+Veron watched as the man slightly bowed his head in an apologetic manner. The others talked to each other, shaking their heads. They seemed annoyed and then left the third man standing there.
+
+“Nothing to share again?” Veron asked.
+
+“His name is Isaac,” Ailis said. “He’s a tracker.”
+
+“A tracker?” Veron asked. He saw that Rover was already talking with someone else.
+
+“It’s an aspect of the Devotion Path. They’re good at finding things, or tracking things,” she supplied.
+
+“That’s what people want, I assume?”
+
+“It’s desirable, but not as much as a healer. I think it’s because people have a hard time imagining how a tracker’s magic works, that’s why I think many don’t consider it particularly useful either.”
+
+“What about you?”
+
+She shrugged slightly. “I’m not after treasures, well, it’s not my main goal. Trackers aren’t necessarily good fighters, if they don’t have other aspects or relics. At least they don’t have as much magic to support their fighting, but we have you to take point now, so I’m not opposed.”
+
+“Can he track creatures?”
+
+“Maybe. I don’t know much about his aspect.”
+
+I would assume he can, or will be able to once he improves his magic. And that would be more than a little useful.
+
+“And you know him already?”
+
+“We’ve talked before. Briefly.”
+
+“You think he’s alright?”
+
+“He’s nice. Maybe a bit too nice, who knows? I’m happy to talk to him more though, if you want.”
+
+“Sure. Rover, who’s your other pick?” Veron asked when there seemed to be a lull in the man’s conversation.
+
+Rover glanced over and pointed. “The second one sits over there in the corner.”
+
+Veron followed the direction. He met eyes with a black haired woman with straight up yellow pupils. She wore white and light brown furs and looked away again quickly.
+
+“You know her too?” Veron asked.
+
+“No. She seems… kind of wild? I mean it’s way too warm in here to wear furs.” Ailis said.
+
+“That’s a take. I think she looks interesting,” Veron said.
+
+“Sure. Either way, Rover picked her, so we should talk to her.”
+
+“Yeah. Thanks Rover, we’ll find out if there’s interest,” Veron said.
+
+“Good luck!”
+
+They went to the man first. He had short and curly black hair, black eyes, and dark brown skin.
+
+He sighed to himself and looked down, then smiled when he saw them. Veron got the impression that he was exhausted.
+
+“Ailis, good to see you. Still struggling to find a good team?” he said and glanced at Veron. “I’m Isaac. Good to meet you.”
+
+“Veron, same to you.”
+
+“I’m working on it. I might have a candidate right here,” Ailis said and pointed at Veron. “He wears rock armor.”
+
+“I can see that,” Isaac said with an awkward smile. Though something seemed to light up in his eyes when he looked at Veron. “You’re an Elemental Path then? I always wondered how that felt, to be able to mold and connect to the earth, to the heat and voice of fire, or the depths of the oceans.”
+
+Veron nodded.
+
+“I really love it,” Veron said honestly. “And I want more of it, that’s why I want to go down into the dungeon.”
+
+“And you’re willing to fight the monsters down there?” Isaac asked.
+
+Ailis also looked at him now.
+
+“Well, I’m too poor to buy essence,” Veron said. “It’s dangerous, but less so with a healer,” he said and nodded towards Ailis. “And a team to have your back. I guess there’s a part of me that enjoys it too, facing the unknown. It’s exciting.”
+
+“It certainly can be,” Isaac said. “So I take it you two are looking for more people?”
+
+“Two more, yes. Rover suggested you as one of them,” Veron said.
+
+“You can fight too, right?” Ailis asked.
+
+“Sure. Not really in close quarters, but I assume that would be your role?” Isaac said and glanced at Veron.
+
+“Yes,” Veron said. “And Ailis’.”
+
+She smiled at that.
+
+“Great. I’ve got a modified crossbow, with bolts that should be effective against the monsters in the Crypts as well,” Isaac said. “I can reload it quickly too, but if you want a demonstration, we can do that. I’ll have to check with Rover before I agree on joining though.”
+
+“Of course,” Veron said. “I do want to see that crossbow.”
+
+“Well, it’s right here,” Isaac said and pointed below the table.
+
+The weapon was mostly made of wood, and looked like a normal crossbow besides its somewhat large size and a cylinder piece that reminded Veron of a wild west revolver.
+
+“You can shoot multiple times in a row?”
+
+Isaac smiled. “Well, no. And yes. I still have to pull back the string of course, but this latch here makes that a lot easier.” He pointed at a metal piece near the front.
+
+So he doesn’t have to grab the string itself. He’s got the strength of a Modest Path as well.
+
+Veron wondered for a moment about what kind of weapons higher levels could use in battle.
+
+“Six bolts and maybe two to three seconds between shots if I go as fast as I can,” Isaac said. “I’ve got two more cylinders prepared and then I have to refill them. The bolts are custom, you can see that on the tips here, they shatter and create a lot of force instead of trying to pierce. I’ve got piercing ones too of course. And I also have a knife.” Isaac unsheathed the pristine looking and slightly curved blade that was almost the size of a small sword and then sheathed it again. “But I’d like to avoid close combat wherever possible.” He smiled.
+
+“Nice,” Veron said. “So, why do you want to go into the dungeon then?”
+
+Something changed in Isaac’s look as he blinked his eyes. He opened his mouth, then shut it, scratching the back of his head. “For now… to get better at tracking. And to explore more of the dungeon. I’ve been studying the maps a lot, but either way, I’m not strong enough to go deeper, nor do I have a team to work with, at least not one that I trust, if I’m honest.”
+
+He sounds almost embarrassed about that last part. But not about not being strong enough. Interesting.
+
+“Can you track monsters?” Veron asked.
+
+“Sort of. I’m getting better at that, but I need practice.”
+
+“Practice is what we’ll try to get. I’m happy to try and work together,” Veron said. “What about you, Ailis?”
+
+“Sure. I can fight more in close quarters too if he’s not willing to get dirty.”
+
+“I’m willing to get dirty,” Isaac said. “It’s just… not what I want to do. The crossbow is more effective for me.”
+
+“If it works,” Ailis said.
+
+“The Crypts have a lot of tight corridors anyways,” Veron said. “I think two people who focus on close quarters should be enough. A Runic trapper would be nice to have around as well.”
+
+“They’re almost as sought after as healers,” Ailis said.
+
+I see. Well. Let’s find out what the third person has to offer.
+
+Veron glanced over at her again.
+
+I like her getup already. With all the plate and leather armor, the bright colors of capes and fancy helmet designs in the room, she stands out.
+
+“So we agree to try and work together?” Veron asked. “Once you’ve checked with Rover.”
+
+“Once I’ve checked, sure,” Isaac said. “I feel pretty confident about you two though.”
+
+Veron and Ailis waited for a minute while Isaac went and chatted with the team counselor. He returned to them with a beaming smile.
+
+“I’m in.”
+
+“Great,” Veron said.
+
+“It’s like… never mind,” Ailis said, then shrugged and nodded.
+
+Veron gave her a glance and went on when she didn’t elaborate.
+
+“Should we talk to her then? The woman that Rover pointed out?” he asked, nodding in the direction of the fur wearing adventurer.
+
+“Her?” Isaac asked. He seemed obviously unsure.
+
+“You know her?”
+
+“No, not really. I just… I don’t know.” He looked around with uncertainty.
+
+“Why?” Veron asked.
+
+“I’m not sure. Okay, let’s talk to her and find out who she is.”
+
+Veron smiled. “Sure. Feel free to check with Rover about her too afterwards. I want everyone in the team to be comfortable with everybody else.”
+
+“You already seem like the leader,” Ailis said with a raised eyebrow.
+
+Veron looked at her. “A leader? Do we even need one?”
+
+“Yes. Probably. It tends to make things easier.”
+
+Does it? I suppose it helps in the heat of battle. Though would I want to fill that role?
+
+“Yeah. We can talk about it once we have a team. Let’s see who she is.”
+
+Ailis nodded and followed. Isaac joined as well.
+
+Veron could see how the yellow eyed woman noticed them approach but tried very hard not to look in their direction.
+
+Is she not interested in a team?
+
+“Hello,” Veron said when they’d reached her. He could see the wooden bow leaning against the wall next to her now, and the spear. Her pack looked a little rough and well worn. Other than her face and hands, she was covered in furs, and yet it didn’t seem like the heat bothered her at all.
+
+She glanced at them briefly and then looked away.
+
+“I don’t think she’s interested,” Ailis whispered to him.
+
+“She’s not said so,” Veron said. “Hello, fur wearing woman with yellow eyes. Are you looking for a team?”
+
+Now the woman looked at him, meeting his eyes for a brief moment.
+
+Veron felt a lot from that look alone.
+
+Then she looked at the others, at their gear. “Why?” she asked, her voice quiet.
+
+“Why what?” Veron asked.
+
+“Why are you asking me?”
+
+Suspicious? But she’s still here at this meeting.
+
+“Because Rover suggested you,” Veron said honestly. “And because you look interesting, but that’s just me. You’re not hot in those furs?”
+
+“I’m not. Rover suggested me? Why?”
+
+Veron raised an eyebrow. “I don’t know.”
+
+She was quiet, seemingly lost in thought before she looked at him. “Did you make that armor yourself?”
+
+“I did,” Veron said. “I’m an Elemental Path with an Earth Harmony.”
+
+She whispered something that he didn’t hear, then sighed.
+
+“Maybe we can start with a name?” Veron asked.
+
+“My name?”
+
+“Yes. I’m Veron, she’s Ailis, and that’s Isaac. We only met today, and we all want to go into the dungeon together to work on our magic, and to get more experience with the environment. What about you? What’s your name, and why do you want to go down there?”
+
+The woman was quiet for a little while, then seemed to steel herself. “I’m Elke. I’m an Elemental Path as well.” She paused for a moment. “My Harmony is Ice.”
+
+Veron smiled. “Ice? That’s awesome!” He could see her light up for a moment. “So you can freeze stuff and make ice armor, or ice weapons?” He saw her avert her eyes immediately.
+
+“There’s no ice in the Crypts,” Ailis said, pity in her voice.
+
+“That’s okay! She’s got other weapons too, right?” Isaac said.
+
+Wait. So she’s got her Harmony but can’t use it in the dungeon at all?
+
+“You can’t use your magic in the Crypts,” Veron said.
+
+Elke nodded slightly.
+
+“Damn. That’s rough.” He paused and thought about it. Did it matter? She would be less effective, sure, but he found he didn’t care. “I would hate not being able to use my harmonies all the time. It sucks just being in a closed room where I can’t even feel the wind.”
+
+She glanced up at him.
+
+“You have a wind harmony as well?” Ailis asked. “Why not bring that up?”
+
+“Because it doesn’t help me fight. It’s one thing I want to work on, I’m sure it’ll become useful as I learn more and advance.” Veron looked at Elke. “And I’m sure the same is true for you. Is that why you’re here?”
+
+She nodded. “More Focus means I can work on my magic more, in winter. Or farther north.”
+
+“You could do that there all the time, no?” Ailis asked.
+
+“It’s dangerous,” Elke said.
+
+“The dungeon is dangerous too,” Ailis said.
+
+“Yes. But it’s more dangerous in the wild than in the Crypts,” Elke said.
+
+“Really?” Ailis asked.
+
+“Yes.”
+
+“So you can fight then? With the bow and spear?” Veron asked.
+
+“Yes. Some.”
+
+“But you can’t use your magic without ice?”
+
+“I can’t.”
+
+“There might be a relic for that somewhere?” Isaac asked.
+
+“That would be expensive,” Ailis added.
+
+Elke nodded. “It’s very expensive.” She almost whispered.
+
+Veron smirked. “Guess we would have a goal for our gold then.”
+
+Elke blinked her eyes.
+
+“If you want to join, I’m fine with it. What about you two?”
+
+“Sure,” Ailis said.
+
+“Yeah. I’ll talk to Rover, but it’s probably fine,” Isaac said.
+
+“It’s okay, you don’t have to…” Elke started and then looked at them. “What?”
+
+“So, want to be our fourth?” Veron asked. “I’d love to have another Elemental in the team.”
+
+“But I can’t use my magic to fight.”
+
+“Who cares? You’ve got weapons you can use. I’m sure you’ll manage in the Crypts. And you’ll get stronger. We all will,” Veron said.
+
+Elke made to speak, then closed her mouth. She looked confused, then suspicious, then shook her head. “I will also talk to Rover about this.”
+
+“Sure,” Veron said. “We’ll wait.”
+
+He stood there with Ailis while the others went to seek out the counselor.
+
+“An Earth Elemental, a Healer, a Tracker, and an Elemental who can’t use their magic,” Ailis said.
+
+“What do you think?”
+
+“I’m not sure. It’s not optimal, but I find myself feeling good about it.”
+
+“Yeah,” Veron said.
+
+They all seem reasonably experienced, and more importantly, they’re all taking it seriously.
+
+It does feel pretty shit to know that their work and progress won’t be permanent.
+
+He sighed.
+
+Least I can do is find out what they want to achieve in all this. And by the end of this, if there even is an end to it at all, I could help them out to remedy my guilt. Or make them filthy rich at least.
+
+Is that how I’ll have to think about people? That feels pretty fucked up. But my situation is pretty fucked up.
+
+He sighed again, then smiled.
+
+Maybe I’ll help them because I’ll care about them, and because it’s the right thing for me to do, rather than stifling guilt.
+
+Veron found that perspective felt better. He supposed a few things could be true at once. Would people be pissed if they found out about the time magic? Sure. Would they be glad that he was there to help them once he had learned more about their goals, the world at large, and had more power and wealth at his disposal? Probably that too, yes.
+
+And if they knew about the curse, I’m pretty sure they’d want me to find a way to prevent it too.
+
+Their two slightly guarded and confused seeming teammates joined them again.
+
+“So, what now?” Isaac asked.
+
+“You both agree to try and see how we work together?” Veron asked.
+
+“Yes,” Isaac said.
+
+Elke nodded.
+
+“Alright, perfect. So, what should we do?” Veron added and looked at the group. They all seemed to wait for what he had to say.
+
+Not a very assertive group.
+
+“You should be the leader,” Ailis said.
+
+Veron blinked his eyes. He gave her a questioning look.
+
+“So that we don’t have to discuss every little thing. You’ve set up the team already.”
+
+“You’re not interested in the job yourself?”
+
+“No,” she said.
+
+Leading a group of adventurers into the dungeon.
+
+It sounds like a challenge, but not impossible either. And if I do return again, it would be good experience to have.
+
+He looked at the group he’d gathered.
+
+Elke doesn’t seem assertive at all, Isaac not too much either, so they’re both not great candidates. And Ailis kind of gives me the impression that she doesn’t want to get involved too much. If I’m the leader, she can bail without much entanglement, is that it? Maybe I’m being unfair.
+
+“What about you two?”
+
+“You formed the team,” Isaac said. “I’m fine with you as the leader.”
+
+Elke nodded.
+
+Veron looked at her.
+
+She looked away.
+
+Veron touched his brow and then smiled.
+
+Yeah. That’s strange. I wouldn’t have expected that but it feels right. The last few times I took the lead in a project, I hated it. But this is a very different job.
+
+I guess because I actually care about this one.
+
+“Okay. I’m the leader then. We will discuss important things either way, and I want everyone to speak up if anything bothers you or if you have suggestions. Otherwise I’ll just suggest our general approach.”
+
+“Sounds good,” Ailis said. “So what then, team leader?”
+
+Veron looked at her. “I’m getting the impression that you really didn’t want the responsibility.”
+
+She smiled sheepishly and gave him a shrug. Then she refocused and looked at them.
+
+“Something else,” Ailis said. “Just to set expectations, I’m mainly here to improve my Path. Once I reach a certain level, I won’t be sticking around. Just in case you’re looking for a longer term or more serious team situation.”
+
+“That’s fine for me,” Veron said. He was looking for people to work with, sure. He was here to improve his magic too, but he wanted to form connections too. His situation just happened to make everything about that a lot more complicated. And what she said made him feel a lot better about her. “I don’t know how long I’ll be delving for either.” It was true, though of course Veron left out why he felt that way.
+
+“I mainly care about my magic and the dungeon,” Isaac said. “I don’t expect any of you to stick around for years.”
+
+They looked at Elke.
+
+“I… that’s okay,” she said. “The dungeon is dangerous.”
+
+“We know that,” Ailis said.
+
+“I think she means we could die at any time,” Isaac said.
+
+Elke nodded.
+
+“I know what she meant,” Ailis said. “But not if we prepare well and don’t take stupid risks.”
+
+“We’ll prepare as well as we can,” Veron said. “And I hope there won’t be any unnecessary risks. There shouldn’t be, with our goals aligning pretty well. We go in, kill beasts, work on our magic, and leave. Any treasures will be a bonus.”
+
+Ailis nodded.
+
+“Sounds good to me,” Isaac said.
+
+Elke glanced between them all, then looked at Veron.
+
+“I suggest we have dinner together, get to know each other a bit more, and talk about how we should go about exploring the dungeon,” Veron said.
+
+The others confirmed.
+
+“Any suggestions? I’m staying at the Willard Inn. The food is nice enough.”
+
+“The Spindle is the best place for food,” Ailis said.
+
+“It’s a bit busy, but yes, I like some places there,” Isaac said.
+
+Elke looked between them, not adding anything.
+
+“What’s the Spindle?” Veron asked.
+
+Elke followed his gaze.
+
+Ailis smiled slightly. “Adventurers, and you don’t know the Spindle. I could guess with Elke, but you’re not from around here either, are you?”
+
+No, Ailis, I’m really not.

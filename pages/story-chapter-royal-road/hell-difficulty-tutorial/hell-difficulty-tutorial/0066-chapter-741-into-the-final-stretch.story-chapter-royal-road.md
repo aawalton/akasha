@@ -1,0 +1,131 @@
+---
+id: 5f5f2a34-1218-5d0e-9c58-2e8dbed8d587
+page-type-slug: story-chapter-royal-road
+title: "Chapter 741 - Into the final stretch"
+slug: 0066-chapter-741-into-the-final-stretch
+partOf: hell-difficulty-tutorial
+position: 66
+ownLength: 2254
+unit: words
+publishedAt: 2026-02-01
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3002932/chapter-741-into-the-final-stretch"
+royalRoadId: "3002932"
+---
+
+POV Weslin
+
+For the remaining hours, I keep watching the event and come to the realization of what the Ruler of Humility likely wanted to show us. Most of the assholes on the screen are out of their depth. They’re slow, they don’t handle pain well, and they’re not used to their bodies being so weak. Though as time goes on, everyone keeps improving as they adapt. After all, all of them do come from Hell difficulty and Beyond, so it would be lame if they did not adjust.
+
+Everyone starts to use mana more effectively, and their bodies move with more force as they find ways to pull greater strength from it. Some even gather enough mana to use more damaging imitations of skills despite lacking their normal variants. There are fireballs, a few manage to float for a moment, some form barriers, and others crackle with lightning. Always in small amounts, since mana’s become an increasingly valuable resource.
+
+People loot the houses, finding rusty common grade weapons at best, many of them damaged or broken.
+
+I watch a strong A rank I recognize lose to someone who usually tends to be far weaker, simply because that person adapted more quickly. But I rarely see anyone give up. Everyone there is a crazy motherfucker, and I feel the mood on the balcony shift the longer it continues.
+
+People wish they were still inside so they could see how far they might push these weak bodies and how much more of their skill they could bring out.
+
+And I see fear settling in.
+
+There are people everyone realizes are monsters. Capable of ridiculous feats even with such low resources. And out of all of it, it grates on me as well, that I’m not there to compete with them, because I know I could. But even this might be part of the lesson. I was not humble enough and died by underestimating the woman with that metal shard, all too excited to clash with Morwag as if we were equals.
+
+Meanwhile, Nathaniel shows himself to be one of those monsters. Everyone who watches him knows he has not used mana at all, except for extremely short bursts to dodge lethal attacks. Otherwise, he keeps gathering that tiny amount of mana from his five stat points into the faint halo above his head. He moves like a machine, showing no hesitation in running away when needed and often finds himself luring people into traps in the process.
+
+And when it comes to it, he faces multiple opponents at once. He fights dirty, he fights smart, and if needed, he offers up his body to take a wound in exchange for getting a hit in.
+
+And despite all of that, he keeps moving. Bloodied, exhausted, wounded, but still fighting. He kills multiple S rank candidates who are rumored to be on track to reach proper S rank in a few years.
+
+He even kills both Brich and Kaari. Brich falls for one of his traps and gets buried under a building that was already falling apart. Kaari dies after throwing broken spears at him until she runs out, and once he reaches her, he faces her in a brutal clash where he nearly lets her kill him just to deliver his finishing blow. All while wearing an expression that chills even me.
+
+Watching that, Morwag, whose heart I can almost feel pounding with hunger for a fight, stands up and leaves. He cannot keep watching without participating, and I worry these two will clash one day in a way that ends with only one of them walking away.
+
+Then there’s that young assassin. Out of everyone here, she’s the deadliest. Not a single person slows her down. She seems to have sharp, almost animal instincts and moves through traps, hides, tracks people, and when needed, fights several opponents at once, slipping away without a single wound. Her talent for this style of combat is clear, and I doubt there is anyone who can watch her without feeling at least a trace of fear. I hear people compare her to Lyraen, who’s feared in a similar sort of way.
+
+Then there is that black haired, green eyed man who joined Crimson Forge not long ago. Nothing about him can be called eye-catching, except for the fact that he’s just good at everything, and his use of his body reaches a level where his speed almost matches the assassin’s. He seems to be able to exert what seems like the near maximum possible amount of strength from his stats, thanks to his ability to improve faster than most of the people inside.
+
+He faces one of the S ranks, the mana oriented Quintan, and wins even though Quintan burns through all his mana trying to take him down.
+
+And there are a few more as well. A man who floats atop buildings and moves from rooftop to rooftop while throwing things down at people. Another who relies on fire based attacks. Another who uses a movement technique to spike his speed. Another who oscillates mana along his body.
+
+While watching them, I keep looking for Nathaniel’s sister, but there is no sign of her participating in this event.
+
+The area starts to shrink after a notification, and we can see just like the people inside, and the clashes turn even deadlier.
+
+I shift my attention to Nathaniel again, just as he staggers back with a dagger jammed in his side, but his opponent screams, both eyes poked out with Nathaniel’s fingers, which drip with blood. He didn’t even use mana here.
+
+Nathaniel leaves the dagger in his wound, takes a stone from his pocket, and throws it to the side of his opponent. The man turns toward the sound, and as he shifts his weight, Nathaniel steps in, grabs him from behind, and strangles him until the man disappears.
+
+Nathaniel then stands and moves through the street onto a square where all the remaining people are beginning to converge. Numbering twenty in total.
+
+A group of seven who have been moving together for the past hour are closest to Nathaniel and rush to attack him and get rid of him quickly before facing the others. Several of them even raise their mana a little, though they’ve clearly been saving it and have been doing so for a while.
+
+Nathaniel looks at them with the same calm, unbothered expression.
+
+Then the halo that has hovered above his head for nearly five hours begins to spin in a sharp, frantic blur, and a moment later it collapses with a heavy thump into a single orb. A tiny one, barely the size of half a fingernail.
+
+Blood gushes from Nathaniel’s eyes, ears, mouth, and nose all at once, drawing quick chuckles from the people almost close enough to reach him, but even then, they keep their guard up.
+
+Nathaniel drags his hand across his face, only smearing the blood further, then combs his hair back from his forehead to reveal his eyes, eerie and endlessly confident. The orb over his head pulses and turns pitch black, then, in the same blink, expands into a black halo. This one much thinner than before, like a string of black mana, barely thicker than several strands of hair woven together.
+
+The mana surrounding the people around him flickers, then fades. They slow down and come to a stop. I can almost see it, the mana they had gathered slipping out of their bodies while Nathaniel reaches toward the halo, pulling thin streams of mana from it.
+
+A dozen or so mana projectiles shoot from him, obliterating the entire group in an instant.
+
+Nathaniel’s body sways, yet he still steps forward as more projectiles rise up around him.
+
+The black haired, green eyed man faces him as orange light flickers across the metal rod he’s been holding, forming the shape of a sword. They clash several times, but Nathaniel uses all that stolen mana for body strengthening and comes out on top by simply overwhelming him and stealing his mana.
+
+It’s not pretty, but it doesn’t need to be. It’s just an overwhelming force, used without care or efficiency. But nonetheless earned only thanks to a remarkable talent in the hands of someone who understands how to wield it.
+
+In the end, only the assassin woman remains, and the two of them face each other in the middle of the broken fountain, water up to their ankles.
+
+The black string of mana dissolves, and all that mana floods into Nathaniel’s body, while the girl becomes even faster. I am almost stunned as I realize she hasn’t been using mana to boost her speed until now. As I watch her, it becomes clear she’s not really skilled at shaping mana, and that everything so far came from pure physical talent. Yet over the past five hours, she’s adapted, trained, grown, and now she’s drawing on her mana to push her speed even further.
+
+With each passing second, their speed climbs higher, and their movements start to blur. Every moment lets them learn, improve, adjust, and grow.
+
+Nathaniel staggers back with a slash across his neck, and the woman’s finger flies into the air, cut clean by oscillating mana spread across the broken dagger in his hands.
+
+They rush in together and collide, the shallow water beneath their feet splashing with every step. It churns aggressively under Nathaniel with his bursts of speed, and more calmly under the smooth movements of the young woman.
+
+The fight continues until Nathaniel falls back one final time with a shard of metal lodged in his neck and blood pouring out. I expect any expression other than the one he shows, yet he looks happy and satisfied, almost as if he predicted this ending and feels proud of what he’s achieved. There’s not a hint of disappointment or shaken confidence, and his pride shines even brighter than before.
+
+Smiling at her, he says something, more blood spilling from his neck.
+
+The woman facing him nods, and a bit of mana gathers on the tip of her finger as she draws a symbol in the air before her.
+
+(*^‿^*)
+
+Then Nathaniel disappears, and the event ends.
+
+POV Nathaniel
+
+My most valuable reward from the event is the simple fact that it only took me five hours and a little mana to create black mana. More than anything, it proves that even though some of the people around me are absolute monsters, I’m not doing so badly either.
+
+These few short hours revealed my mastery over mana even without system given skills, it’s all the result of my understanding and control. All these days, weeks, and months of constant Mana Cycling and my determination to avoid upgrading or relying on my skills have paid off.
+
+I value this more than any other reward.
+
+But there are other rewards as well. For example, almost immediately after popping out of the event, a few of my skills level up.
+
+[Mana Manipulation - lvl 74 > Mana Manipulation - lvl 75]
+
+[Manifestation - lvl 21 > Manifestation - lvl 22]
+
+[Accumulation - lvl 44 > Accumulation - lvl 45]
+
+With this, two out of three requirements to successfully complete the quest for the title of Absolute Candidate given by the system are out of the way. Even sooner than I expected. The last one remains, to hold out for ten seconds against a Champion grade being.
+
+My other reward for the event is one of the ten named residences here in Megacity, meaning Tacita likely got a low pristine item. But from what I have seen, I am sure she gained something else that she likely values more than that item.
+
+Tacita has always relied on the Dexterity of her body and her wild instincts to move. But now, left with no choice, she had to rely on her mana just a little. Over these five hours, she instinctively grasped a way to use it to increase her speed even though she’d never done it before, likely only having used mana for her field or her weapons.
+
+I don’t think she’ll ever invest stats into Mana. She feels like a single stat enjoyer, same as me and Jean. But I think she’ll find herself looking deeper into the stats she already has and search for ways to increase her speed even further. It is a terrifying thought.
+
+Even now, I still consider her the most dangerous opponent one could face as a humanoid who’s not currently building sized. That is why I knew the event was fucked, and clearly rigged the moment I saw Dexterity listed as the highest stat.
+
+No matter what anyone says, the thought of fleeing from her always lingers in my mind, while it never rises when I think of Lyraen, Morwag, or Weslin. Even Nyssa might have been preferable if it ever came to that.
+
+Maybe it is a sign of my humility, perhaps that’s what the Ruler wanted to show me and everyone else. A reminder of how we used to be and how some people rely too much on the system for the shaping of their skills.
+
+However, I have no problem running away like a little bitch when I need to, and returning only when it suits me. I’m just twisted like that.
+
+But now, with the Humility event out of the way, it is time to go into the final stretch. The 3rd tournament is almost here.

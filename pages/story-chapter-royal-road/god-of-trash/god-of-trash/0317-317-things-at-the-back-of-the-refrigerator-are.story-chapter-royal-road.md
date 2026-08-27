@@ -1,0 +1,125 @@
+---
+id: 66465d74-58cb-5039-be66-12b76e26cfc5
+page-type-slug: story-chapter-royal-road
+title: "317. Things at the Back of the Refrigerator are Already Bad"
+slug: 0317-317-things-at-the-back-of-the-refrigerator-are
+partOf: god-of-trash
+position: 317
+ownLength: 2411
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3466641/317-things-at-the-back-of-the-refrigerator-are"
+royalRoadId: "3466641"
+---
+
+Ryota hopped off the ship. Without anyone to make the ride go around again, Rhys sighed, then followed him into the valley.
+
+The valley sat atop a different island than the one they’d started on, and was very deep and lush. Vegetation crawled over every surface, with the exception of one rocky crag that pierced high above the rest of the surrounding mountains. The whole thing was a shade of green that Rhys hadn’t been aware existed in the world, let alone could exist in nature. It was absolutely, gorgeously, vibrantly green, so green it made his eyes hurt to look at it. He shook his head a little, almost stunned. Damn.
+
+And then the smell hit him, and he gagged involuntarily. It was a thousand freshly-cut lawns, a thousand early-spring face-blasts of pollen from the worst, most venomous weed in the densest, most overgrown culvert. It was a literal slap in the face from the plant world, and his first instinct was to flee from it.
+
+Plants were the enemy of his spring- and summertime enjoyment of life. Even a fraction of this much pollen, and his eyes would water, his nose would run, his sinuses would swell shut, and even his throat would start to close over. He knew some people loved freshly cut grass, but he was not a freshly cut grass enjoyer. Freshly cut grass smelled like pain and hatred, and the people who liked it were fresh from the looney bin.
+
+Or they don’t have allergies, he considered, then dismissed it. Nah, they’re just insane.
+
+He didn’t have seasonal allergies in this world; either that, or they’d been buffed out along the way, in the general stat-up beauty-up package all mages got by default as they grew stronger. That didn’t help a lifetime of fear, aversion, distrust and pain. He could smell the plant-scent in two consecutive sniffs instead of the first one completely closing off his ability to smell for the next six months, but he still didn’t like it. Too much negative association and an entire lifetime of Pavlovian training left him conditioned to hate the smell of plants.
+
+Ryota glanced over. “Are you okay? You look like you’re in pain.”
+
+“No, I’m fine. This pain is purely mental,” Rhys replied with a sigh. He closed his mouth and casually quit breathing. He’d have to breathe more to interact with Ryota, or when they got into battle, but if he could avoid it, then he had no intention to breathe in this filthy, plant-sperm-filled air any longer.
+
+“It’s beautiful here, isn’t it?” Ryota asked, turning to gaze over the mountains.
+
+Oh shit! A conversation QTE! And I don’t want to breathe! Rhys froze for a split second, then nodded, hoping that would be enough.
+
+Ryota was looking away, but he seemed happy to continue without Rhys’s input. “There are warlords who desire this land for themselves… they could build a base on that peak and command the entire island and the sea around it. But the beasts are too fierce. We’ll stay near the shallow end, as it were, the fringes where the beasts are strong but not insanely powerful, but remember—if you get lost or separated from me, locate that peak, then move away from it. Do not approach the peak on pain of your life.”
+
+Rhys nodded again. This time, Ryota glanced back at him, but he seemed satisfied to see Rhys nod. He gestured. “Once we’re within the forest, the powerful natural pressure of this valley will make it impossible for us to fly. Even walking will become difficult. Simply moving under the valley’s pressure will be training enough, so if you don’t feel confident to fight under the conditions of the valley, you don’t have to feel inadequate; you’re still progressing. Better to move at your own pace than to push yourself too far and fall short. It could cost your life.”
+
+But pushing myself too far is where the best gains come from! Rhys thought, but didn’t say it aloud. He’d have to breathe the plant smell if he did. He just nodded instead, adopting a solemn expression so Ryota would have no reason to question him.
+
+Ryota glanced at him, then chuckled. “Anyways, that’s the lecture we princes were given when we were dumped in here in our teens. We’re probably tough enough to go a little deeper than the shallow end by now.”
+
+Rhys laughed, even though it meant he had to open his mouth reluctantly and take a breath. “You were starting to scare me there for a minute.”
+
+“You didn’t look scared.”
+
+“I have a freeze reaction to fear.”
+
+“Do you?”
+
+“Nah. It’s definitely a fight reaction. Or at least a mouth-off reaction.”
+
+Ryota looked him up and down, then laughed. “Somehow, I believe that.”
+
+“You know, I recently thought ‘I don’t usually mouth off,’ but that’s wrong. I always mouth off, I’ve just started doing it in person. That’s the difference,” Rhys explained, more to himself than anyone. He’d done a lot of mouthing off back home and now, but back home, it was on the internet, and here, it was mostly in his heart. Now that he was stronger, it was starting to escape his mouth in person, to peoples’ faces. He didn’t know when, and he wasn’t sure how, but he knew it’d catch up with him some way, somehow.
+
+“How did you mouth off before?” Ryota asked.
+
+“Mostly I’d, uh, write essays. Or, you know. Keep it inside.”
+
+It wasn’t quite right to say he ‘wrote essays,’ but it wasn’t quite wrong, either. With how long some of his forum posts got, it definitely wasn’t incorrect, and that was the part he was most sure of. Of course, the shorter back-and-forth of mudslinging when he was losing an argument or winning it so much that he was free to taunt his opponent wouldn’t qualify, but his opening arguments and first statements sure could.
+
+Honestly, it sounds way more embarrassing to admit I wrote essays to mouth off than to say I wrote forum posts. I’m searching for the lie, but I can’t find it! Someone help, please! Where is the lie? I swear, it has to be here somewhere!
+
+“It’s not good to keep your emotions inside. You should let them out, lest they become a heart demon,” Ryota said wisely.
+
+“Yeah, well, what if my emotions get me killed for mouthing off?”
+
+Ryota pressed his hands together and bowed. “Then you died of a heart demon, rest in peace.”
+
+“So either way, I’ve got a heart demon?”
+
+“Elder brother has realized one of the great mysteries so quickly, truly, a prodigy!”
+
+Rhys crossed his arms at Ryota.
+
+Ryota maintained his serious face for a few beats, then cracked and smirked. He waved a hand. “Heart demons aren’t real, anyways. It’s just a way to explain people who can’t manage their own emotions.”
+
+“Shit, I do have one,” Rhys muttered.
+
+The two of them stared at each other, then both burst out laughing. Ryota slapped him on the shoulder, wheezing his way down from a spate of laughter. At last, he managed to get himself under control and looked at Rhys, a kind of earnest light in his eyes. “You know, this is refreshing. Everyone else sees me as the Third Prince, and they all treat me differently… whether that’s deference or disgust, it’s all based on my title, not on me or anything I’ve achieved. You might be the first person who treats me like me, as if I don’t have a title at all.”
+
+“That’s because I don’t care,” Rhys said. Sometimes, the simplest answer was the truest. He just didn’t care about Ryota’s title, so why should he treat him differently because of it?
+
+“Is this your ‘I’m stronger’ thing again?” Ryota asked teasingly.
+
+“Nah, I just don’t care. Even if I was weaker, I wouldn’t care about your title, I’d only care about your strength.”
+
+He’d met Empresses, Alliance-leaders, weapons, and hell, he’d even spoken briefly to a no-kidding god. He’d never once stopped to treat them differently because of their title, though he had (wisely) treated them differently based on his and their relative strengths. It was a damn miracle that he hadn’t encountered someone who took offense to that yet, but then again, he was usually either bouncing around in the garbage with the weapons or trying to kill them, so they hadn’t really had time to get offended… or in the case of the weapons, reason to take offense.
+
+It wasn’t a great strength of his. Rather, it was more accurate to call it a weakness. Not caring about something that other people cared a great deal about was infinitely trashy. After all, people worked hard for titles. Often, they had cause to be proud and to take pride in their accomplishments. Not always, but neither was their title always undeserved. Rhys, by being the kind to overlook that, rightfully pissed a lot of people off. At best, they laughed him off and took ‘special notice’ of him when it was much better for him to remain anonymous. At worst, they blacklisted him and actively sabotaged him as ‘revenge.’
+
+The saboteurs were trashier than him, but ignoring titles was its own class of trash, and he didn’t mean to deny it. It was just that he was fundamentally trash, and thus unable to recognize peoples’ hard work… if that also meant treating bratty princes like ordinary men. Not that Ryota was bratty, but he was sure he could find a bratty prince among the twenty-seven if he looked hard enough.
+
+I probably don’t even have to look that hard.
+
+“Huh,” Ryota said, pinching his chin thoughtfully.
+
+“Don’t take too much from that. It’s not the best behavior,” Rhys said quickly. A prince wasn’t trash like him; princes existed in an entirely different realm from the trashbin Rhys occupied. He was filth, common trash, but a prince was a diamond from birth, polishing not required. Even if it was the ugliest, most cracked and flawed diamond, people would still expect more from it than from the paper wrapper at the bottom of the dustbin.
+
+No, princes needed to pay attention to titles. They had privilege he couldn’t imagine, but in return, ignoring titles was the sole privilege of the discarded paper wrapper. If a prince disregarded titles, people would start playing 4-D chess politics to figure out exactly what it meant and how they could exploit it. If Rhys disregarded titles, they simply dismissed him and went on with their day. It was expected of someone as crass as him, after all.
+
+“Every experience is an opportunity to learn,” Ryota intoned.
+
+“Maybe not this time.”
+
+They spiraled down to the valley’s edge. The two of them landed, and Ryota lifted his hand toward the junk. There was a bright flash of light, and the junk vanished. A blur of red-and-wood-tone light spiraled down into his hand, and then the light show was over.
+
+Rhys applauded. Ryota swirled his hand in the air theatrically and did a little bow. “Thank you, thank you.”
+
+Rhys turned, facing the dense forest before them. From where he stood, he could feel the pressure Ryota had mentioned earlier. It emanated from the forest. It wouldn’t prevent him from flying at this density, but he could see how it would stop someone weaker. It was powerful enough to give him pause from where he stood, and if it really did get stronger as it proceeded, then it would eventually block him from flying, as well. Not that he was the strongest flyer in the first place, given his nameless, shapeless aversion to it, but still.
+
+It’s not even really an aversion. I just keep forgetting I can fly and legging it, Rhys thought, and snorted. When he was a kid, he’d dreamed of flying, but now that he could fly, it was just too annoying to remember to do it all the time. It was fun, and he’d enjoyed his time flying, but he was a ground-based lifeform at the end of the day. If he didn’t actively think to fly somewhere, he’d walk there before he knew it.
+
+And if I want to get there quick, and I’ve already been there, I’ll just teleport, he thought, casually scattering a few hoops as the thought occurred to him. He’d lost lots of teleport points to natural decay or casual destruction of his tiny hoops, but he still had plenty left. He only really needed to fly if he wanted to get somewhere new rapidly, and even then, if he was trying to do it on the downlow… he’d still walk.
+
+But that was neither here nor there, and since he was already here, and not in some distant ‘there,’ he had no reason to worry about it.
+
+Beside him, Ryota pulled out a sword. Rhys reached for The Hunger, then paused. He didn’t want to terrify his new partner by drawing out a speaking, slightly annoying, very hungry sword that emanated more impurities than most horrific pits of filth. A vague memory of other swords flashed through his mind, including the sun sword (still buried somewhere…?) and his flexible poison sword, and he turned to the remnants of his non-burnable trash pile that hadn’t been sucked into the trash hole (trash black hole), sifting through it for a weapon.
+
+Pushing aside some large fabric scraps and a lump of decent-quality wood, he found himself abruptly face-to-face with a dead man. Rhys stared, stunned. He blinked a few times, then frowned. He was feeding the body mana? Why? How long had he been doing that? Who was this, anyways?
+
+Oh, wait. It’s Norton! Norton Tunk, the guy I pretended to be in the Alliance’s capital. I remember. I was going to play Full-Length-Black-Pantyhose-kun from that boy detective manga and dump the body in a locked room as my exit strategy. He stared at Norton for a little while longer, then shrugged and pushed the body off into the black hole. I don’t need that any longer. Might as well use it as fuel.
+
+He found the flexible poison sword not far beyond Norton and retreated from his body and back into the real world. It had taken some time to describe, but he’d retrieved the sword in the blink of an eye. Ryota nodded at him, and he nodded back. “Let’s go.”

@@ -1,0 +1,111 @@
+---
+id: 5371b685-4fca-5573-aebe-c34a70eb3e86
+page-type-slug: story-chapter-royal-road
+title: "258. Make Mistakes, Get Messy"
+slug: 0258-258-make-mistakes-get-messy
+partOf: god-of-trash
+position: 258
+ownLength: 2078
+unit: words
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2921359/258-make-mistakes-get-messy"
+royalRoadId: "2921359"
+---
+
+The staircase descended. On and on, deeper and deeper into the earth, until the chill of the underground wrapped around Rhys’s ankles. Soma bounced down the steps, humming a happy little tune to himself that was totally incongruent with the dank space they descended into. Light emanated from him in a scintillating aura, serving as the only light in the space. The stairs came to an end, and Soma stepped into a larger space, too large for his aura to light. Rhys hung back, scanning the area with his mana.
+
+Before he finished, Soma snapped his fingers, and a stone set in the ceiling glowed. It beamed down a narrow beam of light onto a man sitting on a chair, his ears and eyes covered, his hands bound behind the chair.
+
+The second they approached, the man sat upright. “Soma? I know that’s you. Free me, before Virgil punishes you!”
+
+Soma snapped his fingers, and the coverings on the man’s ears fell away. “Oh no, I would hate it if big papa Virgil punished me. Oh no.”
+
+A blush spread over the bound man’s cheeks, all the way to his ears. Nonetheless, he bared his teeth and continued fiercely, “You won’t like it. Your reckoning is coming! Any day now, he’ll come for me!”
+
+Soma chuckled. He leaned over the man, letting his hair just touch the tip of the man’s nose. “It’s been weeks, Amos. Accept it, darling. Virgil isn’t coming for you, or anyone else, for that matter. You’ve been abandoned. He’s lost faith in you. How sad, how sad.” He put a delicate finger at the edge of the man’s robes and chased the line of the collar down toward the belt. “There isn’t anyone coming to save you, because nobody cares.”
+
+Amos trembled, but put on a brace face anyways. “Virgil cares. You’d better release me now, or else when he hears about everything you’re doing in this place, he’ll abandon you.”
+
+“Oh darling. You are too cute.” Soma stepped back. “He’s one of Virgil’s spies. If he gets free, he will report me for not imprisoning Lira properly, and a dozen other small transgressions. That plan you suggested will go up in smoke.”
+
+“So… in other words, he’s disposable?” Rhys asked.
+
+“In fact, if you succeed, I’ll have to execute him manually. Practice to your heart’s desire. If you fail, I have spares.” Soma crossed to Rhys and rested a hand on his shoulder, gazing directly into his eyes. “But not too many spares. Don’t treat his life too lightly. We wouldn’t want to make my cute little joke a reality, hmm?”
+
+Rhys narrowed his eyes. “We wouldn’t want that.” He stressed the we, because Soma wouldn’t enjoy that route either.
+
+“Oh, I don’t know about that. You’d be surprised at how much a man can… enjoy.” Soma trailed his hand off Rhys’s shoulder and walked away, vanishing into the darkness. “I’m rooting for you.”
+
+Rhys watched him go, then sighed. He turned to the man in the chair. “You heard him, Amos. I don’t think things are looking good for you.”
+
+“You don’t think?” Amos snarked back.
+
+“Nah.” Rhys pulled a chunk of wood out of his trash pile and materialized a chair beside Amos, then sat in it.
+
+Amos glanced around, then leaned toward Rhys. “Listen. I don’t know who you are, I don’t know what Soma told you, but Virgil rewards those who help him. If you get me out of here, I’ll put in a good word with him. I’m one of his most trusted confidants. I can get you anything you like. Money, a noble title, power—what do you want? Name it. If you get me out of here, it’s all yours.”
+
+Rhys pulled the man’s robes back to reveal the mark. Amos flinched, startled. “Well, I’ve already got money, and I have plenty of power. I’m not really sure what nobility gets you, but I’m already strong enough to found my own school. There really isn’t much your Virgil has that I want.”
+
+“Surely you need something. A cultivation resource. Something to further your magehood, or break you past a bottleneck. A rare material for a potion, or maybe a ritual. Anything. Name it.”
+
+“Hmm… no, there really isn’t anything.” Rhys prodded at the mark, getting a feel for it. This one felt a bit more complicated than the ones he’d seen on the mooks, which made sense if this guy was someone Virgil trusted. Of course he’d want to be more particular with the mark.
+
+“Trust me. Whatever Soma’s offered you, I can double it,” the man said desperately.
+
+“You can topple Virgil twice?”
+
+“W-what?”
+
+Rhys sighed. He gripped Amos’s jaw, turning his head to get a better angle on the mark. “I’m Rhys, you idiot. Rhys Foundling. I’m, like, public enemy number one right now, or something?”
+
+Amos gaped. His jaw worked, fighting against Rhys’s hand, and then he went limp. After a moment, he spoke again. “I always meant to ask, if I met you.”
+
+“Yeah?”
+
+“Why?”
+
+“Why what?”
+
+“Why did you turn against the Alliance? Weren’t you born here? Weren’t you raised at an Alliance school?”
+
+Rhys scoffed. “I didn’t turn against The Alliance, The Alliance turned against me.”
+
+“What?”
+
+“Your precious Virgil is a big fuckin’ idiot with trust issues. I just wanted to topple the Empire, and I succeeded, but Virgil couldn’t have that. Guess he was afraid I might topple The Alliance next? I wasn’t going to, but then he attacked me, so now I kind of have no choice. But seriously, if he’d just left me alone, I’d have just wandered off into the woods on my own, and none of this would be happening.”
+
+“That’s… not possible.”
+
+“It’s very possible. Not only that, but it’s also happening. It’s all Virgil’s fault. If he’d just let well enough alone, he could’ve kept his pretty little kingdom, but noooo.”
+
+Amos shook his head. “Lies. I don’t believe it.”
+
+“What’s the point in lying to a dead man?”
+
+At that, Amos went deadly silent. A kind of panicked dread set in around him, and he gulped.
+
+“Well… it’s not entirely true,” Rhys allowed after a moment. “He fucked with my friend. The second he did that, he was dead. But that’s still Virgil’s fault, so your boss is still a big dumb idiot who causes problems for himself.”
+
+This time, he didn’t let Amos reply. He pushed mana into the mark and immersed himself into it, putting his all into studying the little diamond. Instead of simply playing around with the different lines of mana, this time, he observed, watching how the mana flowed through the mark and feeling the spell from outside. He ought to be able to sense the intent—lowercase intent—of the person who built the spell from the spell itself, since spells were basically one’s will imposed upon the world, imbued into mana, but he simply wasn’t that good at reading spells. Now that he had time and a few disposable people to play around with, he might as well sharpen up his spell-reading skills.
+
+He sunk into his contemplation of the mark. Amos spoke and moved, trying to break his concentration or otherwise distract him, but Rhys was used to trashy learning environments. He swayed with Amos’s movements, easily able to match the man’s limited range of motion, chairbound as he was, and blocked out Amos’s comments, totally ignoring them. At one point, he was vaguely aware of Soma stopping by and re-covering Amos’s mouth and ears, but it barely registered beyond acknowledgement of it occurring. His whole life became the spell, and the spell became his whole life. He focused everything on it, and his world diminished to the lines of mana, the heartbeat of the parasitic link to Amos’s personal mana, and the ever-so-faint intent clinging to the exterior of the lines, which informed their purpose.
+
+He felt, distantly, as he explored the spell, that he was not going about this the right way. The lines themselves had meaning to them, or else the spell would not be built of such tiny, delicate lines. If he learned enchanting, or whatever technique formed the basis of the marks, he would be able to read the lines outright, rather than study their intent from outside.
+
+But he rejected that. Learning one language for enchanting was worthless, when it was likely limited to this region, or maybe even the school Virgil had learned at. Magic was deeply bespoke; even he had shared in the common experience of inventing his own way to accomplish things—maybe even more than most mages had. To invest time and effort into learning one language was good if he wanted to build something. But if he wanted to understand enchanting—any enchanting, not just this enchanting—then it was better to find another way. A general way, that would work beyond this moment, this series of marks, this region.
+
+Because I’m not staying in this region much longer. He could already feel it: the walls closing in. He was rapidly becoming a big fish in a small pond, and that was soon going to slow his advancement. The only way to get stronger was to grind against unsurmountable odds, and he couldn’t find that in a region where he was one of a handful of Tier 4s, or even worse, standing at the pinnacle as a Tier 5. There were tiers beyond five, and he wasn’t going to stop at the pinnacle of this region. He wanted to stand at the pinnacle of the world, like he’d told Bast, as a true god of trash.
+
+He threw himself back into the mark, banishing the distracting thoughts. The intent that clung to the marks was something unintentional, he felt. Artifacts left behind in the process, that, though they shaped the magic, were not meant to be included in its workings. Ghosts of the creator’s will that were never meant to be seen, let alone included in the mark wherever the wearer dragged it.
+
+They were faint here, the mark repeated so many times that the creator barely had to consider their intent when they impressed it on to Amos, but nonetheless, they persisted. Perhaps they remained out of habit. Perhaps they were an artifact of ‘the way he always did it.’ Or perhaps they were necessary, if subconscious inclusions. Regardless, Rhys targeted them, focusing on them intently, yet gently, so they didn’t vanish, and watching to see their true purpose.
+
+It was truly like trying to see a ghost clearly, or looking for mist, or trying to get a close look at fog. When he looked directly at them, they grew fainter. The closer he tried to study them, the harder they were to see. From a distance, he could easily see their general shape, but any closer, and they began to fade under the force of his scrutiny. He had to be patient, hang back, and get a look at the fuzzy, general shape of them. Only then could he start to piece together their purpose and meaning.
+
+Slowly, the meaning of the line he was gazing at coalesced into his head. He let the meaning flow into his mind. Words floated in the void, slowly clarifying into a message: Feed mana left.
+
+Rhys stared at it, deadpan. Useless. This was no good. It was way too slow, and not all the lines were useful to him, nor did they have meanings attached to them that was useful to understand. It made sense. He was sure ‘feed mana left’ was an important thing Virgil had to do when he built this mark, but it wasn’t useful for Rhys to know now. If it took him this long to decode each line, only for most of the lines to be totally meaningless, he’d have to spend weeks on each mark. He needed to understand the mark now, not five weeks from now.
+
+Wait… I’ve been going about this all wrong! Rhys looked at the mark again with fresh eyes. The mark was valuable, yes, and intentional; it hadn’t been thrown away, but been intentionally placed. But the intent was not! It was accidentally left by Virgil when he built the mark. That made it trash. Not Trash Intent, but trashed intent! If he engaged his intent and reached out to the mark, he could probably sweep all the trashed intents in one fell swoop!
+
+Let’s find out.

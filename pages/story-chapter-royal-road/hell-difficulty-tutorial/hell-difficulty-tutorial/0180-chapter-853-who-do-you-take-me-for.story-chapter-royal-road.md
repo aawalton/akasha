@@ -1,0 +1,155 @@
+---
+id: f9519ef1-f37c-5928-ade2-80d6bd6dd760
+page-type-slug: story-chapter-royal-road
+title: "Chapter 853 - Who do you take me for?"
+slug: 0180-chapter-853-who-do-you-take-me-for
+partOf: hell-difficulty-tutorial
+position: 180
+ownLength: 2438
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3770440/chapter-853-who-do-you-take-me-for"
+royalRoadId: "3770440"
+---
+
+POV Nathaniel
+
+“It seems they are giving us time to greet each other before they barge in,” Victoria says, looking out the window.
+
+She is the same as always. Black hair, emotionless face, and brown eyes, though one of them is a lighter shade of brown. And as always, she wears no armor and carries no items. She just wears simple clothes.
+
+That causes me to look down at my white shirt from Earth and blue sweatpants. Looking at her, I notice how clean her clothes are and do my best to dust mine off, though there’s not much I can do about the blood.
+
+Even without turning to me, she says, “It is too late for that, Natty.”
+
+“I would probably have gotten changed if I’d known I would be meeting you.”
+
+“And that is the mistake. You should always try to be presentable. But I know very well no such thought ever entered your mind.”
+
+“No thoughts. Head empty,” I nod.
+
+When Victoria turns away from the window, she has that small, almost imperceptible smile as she reaches out and ruffles my short, buzzcut hair.
+
+“Indeed, not a single thought has ever graced this head,” she feels my short stubble of hair before tapping my head with her open palm a few times and letting go. “But do not worry, I can do the thinking for both of us.”
+
+“Sounds like a deal,” I smile at her. “Has everything gone well for you as of late?”
+
+“Reasonably well, though likely not as well as it has for the famous Mana Tyrant himself.”
+
+“Vic…”
+
+"I have heard he manipulates mana with such beauty that mana itself stops and takes note, eager to listen to his commands."
+
+“Tell me right now who said that bullshit.”
+
+“Someone from your guild. They also said your rare smiles melt hearts quicker than your thermal energy. Though, Natty, I do not know how this haircut will affect that reputation.”
+
+“My hair was taken from me against my will.”
+
+“Just like your last few brain cells, and that is why I have to keep an eye on you so you do not push yourself too far.”
+
+“I’m being schemed against, Vic, and they’re using you, my only weakness. But I still mean it, it’s nice to see you.”
+
+“Such a charmer.” She moves and sits down. Instead of choosing a nearby chair, I sit on the small couch next to her, and we look out of the window. “How much do you know about this quest?” she asks.
+
+“You know me. Not much.”
+
+“Indeed. So, for your information, this quest comes up every fifty years or so and is organized by the Halcyon Trust Company. They always try to have one to three people from the tutorial, usually S-ranks. I’ve heard they’ve been asking for Nyssa Volare ever since she became an S-rank and did everything they could to reserve her, but she rejected them. Then they tried Lyraen, and he almost came, until a certain thief from Earth stole the key he was working so hard to get, and now he’s focused on hunting her down.”
+
+“It is quite insulting to learn we’re the third option.”
+
+“Insulting or not, looking at it from their perspective, there is a clear logic behind it. Given the nature of this game, it is obvious they prefer the concept of having the Gwyn siblings over either of us individually. It is highly likely that they will try to pit us against each other at some point, simply for the drama it would bring.”
+
+“Well, it would suck for them if one of us were to forfeit then.”
+
+“Yes,” Victoria nods. “There are usually three events, though they change them fairly often. The first one will be something to filter people out, an event where they throw all the participants into an arena for one to three days. After that, some interviews and shows, another event, more appearances, and then the final event.”
+
+“Vic, I’m starting to like this less and less.”
+
+“Does it seem boring to you?”
+
+“A bit, but I’m more annoyed at the thought of having to do the interviews and stuff.”
+
+“Good. That means you will have ample time to rest. But do not forget to not trust anyone. The producers will try their best to create an interesting show, meaning they do not care for this to be fair.”
+
+We talk for a while longer until a selari man barges in, dressed in a dark blue suit and a broad smile on his face, “Miss Gwyn and Mister Gwyn, it is a pleasure to meet you!”
+
+His skin and hair are both pink, and he has white freckles, while his eyes are green and blue. Just a typical selari in the looks department. He continues to smile, waving in a few more people behind him. Among them is a big, grapefruit-sized black orb inlaid with what seems to be four blue lenses. It zaps around, seemingly pointing its lenses at us and zooming in. Another, smaller orb, about the size of a ping-pong ball, follows it, covered in what seems like fuzzy hair. A microphone perhaps?
+
+“I am Melek, the face of the Games, proudly sponsored by the Halcyon Trust Corporation! Please, do your best to ignore the recording devices. We’re just capturing a bit of juicy material for your grand introduction, and perhaps a future highlight reel once you make it deeper into the games! Your Handlers already handed over some footage, which we will absolutely be finding a home for.”
+
+Finally, he wraps up his barrage of speed-talking. With his hands at his sides, he looks at us and smiles. “Gwyn Siblings! Now that truly has a nice ring to it! The organizers are going to love it. Of course, there are plenty of other fascinating characters out there, and this poor host only has one mortal body to get around to them all. But don't you worry, you will be beautifully cared for by your team, which is only going to grow the further you advance into the game!”
+
+Swiftly, he approaches Victoria and, with a slight bow and his left hand behind his back, offers the palm of his right to her. Of course, my sister seems to know what to do and puts her hand on top of his, with her fingers touching his palm. Melek then slides his hand back and swings it to his side in a surprisingly annoying and elegant-looking gesture.
+
+When he stands up, he looks at me.
+
+I look at him.
+
+Then he just waves at me, his smile growing even wider. “It has been ages since anyone still attending their tutorial won the Games, so I wish you both the absolute best of luck!” he chirps, acting as if nothing awkward had just happened. Then he rushes out, his entourage trailing behind him as the video and audio drones buzz in a tight circle around us one last time before leaving.
+
+I am usually a very friendly and forgiving guy, but I don’t like that man.
+
+We are left with a selari woman called Selene, and two more people who seem to have been assigned to help her. We are swiftly led to a different room with such speed and haste that one would think the games were going to start in the next two minutes.
+
+In the hallway, we meet a few more groups like that with potential game attendees, and I, like Victoria, give longer looks to these people. And just like them, we do a bit of our own “friendly” probing.
+
+I seem to have better senses in that way than Victoria, mainly thanks to my Preeminence Eyes and some of my more specialized training. I mean, my senses need to be decent; after all, at this point, a gray lizard headbutting my body would probably destroy it if I couldn’t detect it.
+
+Plus, my hatred for stealth combatants runs deep. At this rate, I wouldn't be surprised if it evolved into a fourth trait or showed up in my DNA.
+
+Of course, I keep everything to a strict 30% to 50% limit of my capabilities, just as Victoria ordered. My sister must know what she’s doing, so I'd better listen to her.
+
+I also catch myself in a better mood just thanks to having her here with me, with a constant current of shared memories swimming to the surface. Even if they aren’t very good ones, they feel precious because she was there with me. I think Tess is right when she says that suffering together, and going through shared trauma, connects people.
+
+It becomes easier for me to keep my mind together, and I don’t find myself having to push all that hard to feel like myself again, though I find that any sort of stimulus helps, even if it is just the bustle of the people moving around us.
+
+We are separated into two rooms, where I take a shower after making sure there aren’t any cameras. After all, I don’t really know this galaxy’s customs, so there’s every chance they’d be willing to put that in the pre-show or something. Just some announcer shouting and ranking the participants by... I shake my head and step out from the now non-functioning shower I took apart to learn how it functions.
+
+Once back in the room, my Earth clothes are gone. Stolen, possibly to become a relic to be sold or kept in a vault forever, unique items made by a planet many light-years away. When Victoria and I win the Game, those clothes will probably make someone very rich.
+
+There are replacements which I put on, and they fit so perfectly that I feel goosebumps rise on the back of my neck. I check them for some sort of hidden inscriptions, marks, and other potential trickery, but they’re as normal as they come.
+
+Once I enter the small waiting room where Victoria sits, I understand a bit more about why they picked these outfits. Both of us are wearing the same black, high neck shirts with long sleeves and dark brown pants. They don’t feel like a simple cotton fabric, and have a sort of design that must be trendy here, and the materials feel nice. However, my shirt is thicker, like a sweater, while Victoria’s shows off her figure more.
+
+“We’ll have to find the pervert that-” I do not get to finish as Selene barges in, followed by her two assistants.
+
+She looks us over, nods in satisfaction, and gestures at Victoria. "Please take a seat over there, my dear."
+
+My sister complies and sits down. Then Selene presses a button and five or so shelves shoot up from the surrounding walls. The two women assisting Selene immediately rush over to them, picking up an array of mysterious items, and start to work on Victoria’s hair and face.
+
+"You have a striking expression, beautifully framed by the structure of your face. To emphasize your presence, we’ll be keeping the makeup minimal and simply enhancing your natural features. Just a touch to deepen the color of your lips, and some shading around the eyes to make that gaze even more piercing. Combined with a clean, combat-ready hairstyle, it will be perfect. Iset, let's go with that style the Cordonian warrior princesses have been favoring lately."
+
+"Yes, Lady Selene," the woman answers.
+
+Meanwhile, I sit on a chair and watch curiously while Victoria takes it all so patiently. When they’re finally done, she doesn’t actually look all that different. It’s still my sister, though I have to agree that the way her hair is styled does look pretty cool.
+
+"Is everything to your satisfaction, my dear?" Selene asks Victoria.
+
+"Does it matter whether it is or is not? But I thank you for the effort you put in." Victoria stands up with an elegant but powerful movement, reminding the women exactly who they’re dealing with.
+
+However, Selene seems to regain her balance quickly. She smiles, gesturing at the other two, who rush over to me. The selari woman looks at me with her arms crossed over her chest while the other two wait.
+
+"There’s really not much we can do with your hair unless you let us grow it out a bit. Fortunately, we have an exceptional hair serum crafted by the Healing Order of Absolute Zerathusa..."
+
+"I don’t mind. You can grow it a bit, maybe to finger-length or something like that."
+
+"That would be fantastic, honey! Much like your sister, you have a striking face that will look absolutely gorgeous on the promotional materials. Now, could you share your Constitution level with me? This serum comes in quite a few variants, and your Constitution dictates exactly how it interacts with your body."
+
+"Yep, not telling."
+
+Selene narrows her eyes, but quickly sighs and claps her hands together. "Well, of course, you are from some backward, rural planet and you’re still stuck in your tutorial. It’s only natural that you would behave a bit... Well, never mind!" Her smile widens as she condescendingly looks me over. "Considering you were actually chosen to come here, your level must be close to 390, taking into account that you have over a year left in the tutorial. Oh yes, I did my homework and saw the promotional materials."
+
+She is smiling like she caught me, that sort of kind smile people use when they’ve been dealing with a child or someone being stubborn when they clearly have the upper hand. "You have been introduced as a combat mage specializing in mid- to close-range combat. An amplifier with a relatively high mana stat, meaning your Constitution should be about... 600! Iset, give me the level nine serum!"
+
+"Yes, Lady Selene!" Iset quickly hands Selene a bottle. The selari woman takes it, puts on gloves, steps closer victoriously, and starts carefully applying it to my hair by massaging it in.
+
+It tingles and feels nicely warm. It is comfortable, so I don’t even complain.
+
+Once Selene steps away, I watch her face as she says, "Now we wait and-"
+
+Her words stop as my hair begins to grow rapidly. Instead of finger-length, it cascades down my shoulders, down my back, and over the chair. It touches the floor and then grows a bit further still.
+
+There is so much of it that I can barely see her face through the luscious locks draping over my eyes, but I just sit there calmly, looking back at her.
+
+Silly woman. Who do you take me for? My Constitution is barely 100.

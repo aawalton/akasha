@@ -1,0 +1,215 @@
+---
+id: 3957c751-3e7b-5db1-8c8d-2e3f38de1124
+page-type-slug: story-chapter-royal-road
+title: "Chapter 751 - Open Challenge Circuit begins"
+slug: 0076-chapter-751-open-challenge-circuit-begins
+partOf: hell-difficulty-tutorial
+position: 76
+ownLength: 3004
+unit: words
+publishedAt: 2026-02-15
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3057761/chapter-751-open-challenge-circuit-begins"
+royalRoadId: "3057761"
+---
+
+One of the first people to return from the event is Tess, who cleared her dungeon with Maya. Making her way over to us, she halts in her steps, seeing us resting there against Wolfy's slowly moving belly as he breathes. Her disciple is sleeping, and her tiny arms are draped over my chest in a manner that almost looks like she’s trying to hug something in her sleep.
+
+I would throw millions of people off the balcony for her.
+
+"Tess, if you wake her up, I promise I will be your worst enemy," I say softly before she can say anything.
+
+Speaking just as softly, she replies, "I'm not giving her to you."
+
+"Too late, she likes me more than you. She’s my disciple now."
+
+"I’ll tell Vega."
+
+"Minions, under current laws, possess no rights save those expressly granted to them by their designated masters. She can't do anything about it, even if you do tell her. But still, please don't tell her."
+
+It causes her to laugh softly. "Are you doing better now?"
+
+"Like 20% better," I answer.
+
+"So the slightest miscalculation is still threatening to tear you apart?"
+
+"You know the saying: what doesn't kill you makes you stronger."
+
+"I don't think that’s what it’s supposed to mean."
+
+"Too bad. It literally fits my situation. Also, please talk with Lily, if she doesn't join the last event, I don't know what I’m going to do. I might tell Biscuit to attack her or something."
+
+(Food?)
+
+"Yes, Biscuit. Lily is food."
+
+(Not a Friend?)
+
+"Yup. Annoying, stubborn, food."
+
+(Asshole!)
+
+"Surely you didn't mean me. Tell that to her," I react.
+
+The blonde turns to our healer. "Lily?"
+
+"Maybe I will participate, maybe I won't," Lily answers.
+
+Tess turns back to me. "I did what I could."
+
+"That was a pathetic attempt, Tess, even from my socially inept point of view."
+
+"Too bad, right?" she smiles. "Want me to bring anyone over for you to talk to? I know you had plans before."
+
+"I mean... I don't know how useful it’ll be. I'm dealing with my body and working on preparations. Soon, I’ll get around to making some Manabloc weapons and Manatex clothes so we can send them to Channeler through some Normal difficulty guy. Along with a few other things like mana stones with training regimens, information, materials for our scientists to experiment on before we return, and all that crap, you probably don't need my help with that."
+
+"I don't, I already dealt with most of it."
+
+"So reliable."
+
+Our conversation then gets interrupted by Samuel, who walks into the area, followed by a few members of his gang from Hard difficulty.
+
+"Sset, that guy disappeared-" The words get stuck in his throat as the view opens for him when he walks around Wolfy and sees me and the bunch of kids resting against me with some of them sleeping.
+
+I lift a finger to my lips and whisper, "Shush. If you wake anyone, I will throw you off the floating island. I'm not joking, ever since we appeared here I’ve been curious to see what would happen."
+
+I let my hand rest back on the back of Tess's disciple's head and use the opportunity while she’s sleeping to caress it. Like a tiny animal, she shifts and pushes against the palm of my hand before breathing out softly.
+
+I would throw billions of people off the balcony for her.
+
+Samuel continues to stare as if the view isn’t something he can comprehend, and opens his mouth and closes it a few times.
+
+It gets Deva annoyed as she mutters in a whispering voice, "What are you staring at, old man? Just get moving, you’re creepy, and annoying."
+
+Hearing that, I reach out and tap her shoulder. Looking to her left, Deva catches my gaze.
+
+I nod. She nods after a short moment, and I lift my hand again to close it into a fist that I reach toward her. After a bit of hesitation, she fist bumps me with one of her six hands and smirks. Not knowing how it works, she then fist bumps my fist with the remaining two of her left hands.
+
+Tess uses the opportunity to reach Samuel and gesture for him to follow her as she starts explaining some stuff. Maya stays behind and watches them for a moment.
+
+As she turns to me, she giggles. "Poor guy, it almost blew his head off his shoulders."
+
+Waving her hand, she then pulls her disciple Enan away, who just waves towards us and leaves with her, likely for more training.
+
+Adrian completes his dungeon fairly soon after. As expected, his was probably one of the most dangerous, though I'm not sure if it was the most. Maybe it's the toughest he can clear at the moment, maybe he’s just doing the bare minimum. It's hard to say what exactly his goal is.
+
+For a while, I’ve been wondering whether he’s already reached the level of an Absolute, but more and more I'm inclined to think that he’s not. According to him, Ruby should be able to tell me more, but I'm not dumb enough not to realize he’s doing that in hopes of me coming into conflict with her over the other information he shared.
+
+It is likely him thinking I’d trust her more than him and that he wants to show me that in the end she’s the same as him, so I need to trust him in a similar manner or something dumb like that. Who the hell knows how alien jerks like him think?
+
+All these people, scheming, preparing, twisting their words, and playing mind games. Yet in the end, it's all simple. The one with a bigger stick wins. Metaphorically. Just what are all these games good for against someone with overwhelming power?
+
+It might be a simple and almost childish view I have, but that's just how I think.
+
+At some point, the body upgrade lets up even more, and as I watch the minion tournament, I have enough freedom to start making Manabloc weapons for the lower difficulties to deliver to Channeler. I'm a very humble man, as shown during Humility’s event, but damn, I'm sure some of them are at least as durable and sharp as any low arcane item, though they lack any fancy effects. Just extremely densely woven and knitted, manifested mana, made to last and endure.
+
+I also take the opportunity to examine [Current], which replaced my [Accumulation], to search for the differences. And as I thought, this one fits me much better. Where [Accumulation] allowed me to accumulate and hold mana, the new skill gathers it into currents that almost instinctively find their way into my body to be caught in the flow of my Mana Cycling.
+
+How would I explain it better? It just syncs smoother with Mana Cycling. They work much better together, and these currents are easier to grasp and channel. As the name suggests, they behave like a current, so they flow more smoothly, but they’re not as forceful. But that’s already something I’ve taken into consideration as I’ve made small modifications to Mana Cycling to maintain the explosiveness of my mana’s movement.
+
+Until then, I can make these currents wider or narrower as I wish, and I can modify them. I can even grab currents and change their frequency, and given my experience with splitting my mind, I can make a lot of them.
+
+Of course, all of this applies to my primordial energies as well, and I have ideas for future experimentation. In the end, it makes for a nice addition and feels much more dynamic than the previous skill.
+
+Then, as if reminding me not to slack off, another spike of the body upgrade washes over me, damaging my constructs and forcing me to heal. As I start putting more attention into handling them, I stop creating Manabloc items. Still, a small part of me watches a screen in front of me and the Minion Tournament on it.
+
+Wolfy is participating as well.
+
+That dumb, bus-sized black wolf just curb-stomps everyone who comes face to face with him without any hesitation or shame in the world. After every win, he howls towards the sky, dedicating this glorious victory against little kids to his predecessors or something.
+
+Every time he appears outside of the arena in between his duels, he stands very proudly. I even have a feeling Biscuit is the smallest he has ever been, as if to hide, so he doesn't get connected with this wolf.
+
+Though there are a few minions that make Wolfy work a little. Some powerful red gorilla-like looking animal from people from another planet, a six-armed young thylarin with two primordial energies. Vic's disciple does well too, fighting in a similar way as she does, a demon without a demon heart, but possessed of blood-based powers instead and eyes that seem to be his inborn trait. One day, I’ll have to ask Vic what it is.
+
+Lastly, tiny vyssari Rye offers a surprise too when she, caught up in a duel against Wolfy, uses white lightning. It, for the first time, causes Wolfy to raise up his primordial energy to defend against it, though even then, he gets a scorching wound on his butt.
+
+This time, Biscuit, watching it, lets out a noise that sounds almost like a snort of disappointment.
+
+Wolfy nearly seems like he heard it as well and goes full ham, his figure turning pitch black with golden eyes glowing deep within. Each of his steps devours the area around him as he rushes the tiny vyssari.
+
+Rye waits till the last possible moment and lifts her tiny arm, shooting white lightning she has been gathering into the shape of a javelin. That bright white then meets pitch black in a bright flash, and before the black wolf can reach her, she forfeits, appearing outside near Tess, who congratulates her.
+
+I would throw a trillion guys off the balcony for her.
+
+Meanwhile, Wolfy trashes inside like the spoiled kid he is, and when the all-devouring darkness around him disappears, there is a new wound on him, though it’s not deep. A scorched patch of fur above his heart.
+
+As he appears outside, he angrily stands up to move towards Rye, but before he takes a step, he entirely halts his movement, and slowly his head turns with fear in his eyes towards Biscuit in my arms.
+
+The puppy-form corgi lets out a quiet, deep growl, causing the black wolf to pull back his ears and lower himself to the ground with his tail tucked underneath him. Biscuit's primordial energy, the same as the wolf's, flickers weakly in the air, though even this shows much more pressure than Wolfy ever did. It feels all-reaching, hiding in the shadow of everyone here. Raw and predatory.
+
+(Fight. Friend?) Biscuit sends a single message towards the black wolf.
+
+That causes the black wolf to lower himself even further in shame.
+
+Well, it is clear that Biscuit draws a clear line for fights undertaken during the events, and something done out of anger and doing so on the outside is just not allowed.
+
+"Call him a bitch," I whisper to the corgi.
+
+To that, he just bites at my finger and gently keeps biting it between his sharp, needle-like teeth.
+
+The rest of the minion event continues calmly, with Wolfy winning and soon after leaving along with all the other disciples, saying goodbye to their masters. I pity that Vega isn't here, as unfortunate as it is, but to my surprise, tiny Rye gestures at me to lower myself in front of her before she leaves.
+
+I do so while getting on my knee, and she gently pats my arm as high as she can reach up to. She doesn't say anything at all.
+
+I would throw a quadrillion black wolves off the balcony for her.
+
+The last event starts with 24 hours of the tournament remaining, and it makes sense considering what that event is about. That time might be needed.
+
+The event rules are simple.
+
+The Open Challenge Circuit begins when the first participant enters the designated arena. The participant remains inside and receives continuous 1v1 challenges until their defeat. After a loss, the victorious challenger remains inside the arena and continues facing incoming opponents.
+
+The system does not restore health, mana, energy, or any other resource between challenges. All participants must rely on their current capabilities.
+
+Points are assigned based on the number of opponents defeated, the ranking of those opponents, the final ranking achieved, and the overall strength level of the defeated opponents.
+
+A participant remains within the arena until they are defeated. New challengers start without pause, with challengers selected from the active challenger pool.
+
+This event includes participants from both Nythis and Earth.
+
+When the system registers a participant as dead, that participant is immediately healed and relocated outside the event area.
+
+I kind of expected someone to be an asshole, for some guy from Hell difficulty to jump in and wipe the floor with all the Easy, Normal, and Hard difficulty guys challenging them. But it doesn't happen.
+
+The first to appear inside is some thylarin seemingly from Easy difficulty, and then the Open Challenge Circuit starts.
+
+After a long fight where they use simple skills and uncommon items, he defeats a human who also feels like they’ve come from Easy difficulty. While the winner barely rests, another challenger, an Easy difficulty thylarin, appears, and the fight starts again. The first guy wins again, but at this point, his wounds are getting worse, and after two difficult fights, he seems to be getting tired.
+
+Yet he still wins a third fight and lifts his four shaking arms high into the air while bellowing in a primal shout.
+
+Plenty of people outside shout as well in excitement. Many of them are drinking and sitting around, with many more grilling and eating all kinds of food. Some even bring furniture out of their residences and watch from nice spots under trees. I even notice groups sitting on the edges of the floating island with their legs dangling and watching screens there.
+
+While I sit there outside of our residence and watch with the rest of Group 4, it goes on for hours.
+
+There is a time when one asshole from the Hard difficulty group of Nythis enters, a cocky thylarin with six arms that, with a laugh, wipes out a poor guy from Easy difficulty.
+
+The challenges then pause as the others hesitate.
+
+But only until a thylarin from Hell difficulty steps in. That guy grabs the Hard difficulty asshole by the throat, saying something to him, and then proceeds to break all his arms one after another before throwing him to the ground, where he then stomps on both of his knees.
+
+Likely because of what he said, the Hard difficulty guy doesn't forfeit and instead suffers there in pain, and a few minutes later, the Hell difficulty thylarin stomps on his head.
+
+There is another pause in challenges before a thylarin from Easy difficulty enters, scared for his life. The guy from Hell difficulty just takes a few steps closer and smiles at the guy while putting a hand on his shoulder. Then he forfeits, and the challenges start anew with Easy difficulty guys and no interference from the other difficulties.
+
+The last of the Hard difficulty fighters dies much later, and the first of the Hell difficulty fighters enters. That thylarin with six arms and the huge bow, which he immediately lifts into the air in challenge. His body is covered in yellow tattoos marking his blue skin as his opponent appears as well.
+
+Lily.
+
+The second she appears, arrows reach her as she moves swiftly, avoiding both of them. The thylarin, meanwhile, gets to work putting more distance of two miles in between them, launching more arrows at her that she deflects with her axes and lowers her body. She bursts forth at incredible speed, moving unpredictably as she mimics kinetic movement through sheer bodily power and the regeneration she possesses.
+
+It becomes obvious that the thylarin won't be able to continue putting distance between them with her speed, so he throws the bow away, and the yellow tattoos become thicker, covering more than two-thirds of his skin. The pressure around him becomes stronger, and he feels even more dangerous than he was with the bow.
+
+Lily doesn't let that stop her. She reaches him, ducks under his attack, blocks another fist, and moves in a confusing manner, before bursting forth with speed and dancing around him to slam a palm against his chest. With an almost playful ease.
+
+There is no burst of gray mana as she hits him, but she staggers back as one of his fists slams against her face. Her nose and cheekbone break, caving her face in, but a mere second later, both snap back in place and heal.
+
+The thylarin, meanwhile, looks confused and, with a weird expression, puts his hands against his chest, surprised to see no wound, but panicking more and more. He opens his mouth to say something, but coughs up blood. He then moves to take a step ahead, but sways and almost falls.
+
+His skin starts melting and falling off in long pieces, revealing bare muscles that immediately start breaking apart, disintegrating. He coughs again, covering his mouth. Flesh disintegrates from his blood-soaked hand, and it falls off, and he coughs again.
+
+He then proceeds to vomit out his insides and fragments of bone while his body is left staggering around, as it breaks apart.
+
+Finally, he falls down and, as he hits the ground, his body breaks apart into disparate pieces with a sickening wet noise.
+
+Lily remains standing and looking at that mess. There is no mantle, no visible gray mana around her.
+
+She just calmly turns around and awaits her challenger.

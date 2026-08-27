@@ -1,0 +1,231 @@
+---
+id: d3b68bb7-0c20-5bef-954b-53e39e223ac1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 998: Sitting on a Volcano"
+slug: 0065-chapter-998-sitting-on-a-volcano
+partOf: he-who-fights-with-monsters
+position: 65
+ownLength: 2582
+unit: words
+publishedAt: 2026-04-01
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3220123/chapter-998-sitting-on-a-volcano"
+royalRoadId: "3220123"
+---
+
+Jason, Emi and Nik were floating in meditation, cross-legged, over the water of the River Furan. They were upstream from Saint-Étienne, beyond the reach of Jason’s domain. He had found that when contemplating his essences, trying to expand his power, it was best to be outside the places his power was strongest.
+
+Nik was now gold rank, while Emi remained in the upper reaches of silver. She focused on magic research over throwing herself into combat, so her progress was slower. The lower-rank training methods that relied heavily on combat had not been the best fit for her, slowing her growth. A more contemplative approach suited her well, especially with the plethora of guidance available to her. To no one’s surprise, it was Farrah and Clive who had helped her the most.
+
+One of the trickiest aspects of advancing through actualisation of the self was translating personal revelation into specific power. The older gold rankers had been useful teachers in this. They had taught the younger generations how to effectively contemplate metaphor during meditation as a pathway to advancement.
+
+Jason found this easier with some powers than others. His Hand of the Reaper ability was quite straightforward, being a Dark essence ability that reached out with shadowy hands to manipulate the world around him. Nik and Emi opened their eyes as golden light radiated from Jason’s body.
+
+Jason looked at his hands, flexing his fingers. In the beginning, his abilities had advanced so quickly. Going through silver had felt like an eternity, even though he had reached gold swiftly by most standards. He admitted to himself, though, that he had become so focused on the cosmic aspects of his power that his core abilities had been rather neglected.
+
+That was an oversight he had been working to correct, as cosmic powers worked for cosmic problems. Mortal realms required the kind of mortal power that had been the foundation of Jason’s journey into magic.
+
+“Good job, Dad.”
+
+“Congratulations, Uncle Jason. This calls for a hug.”
+
+Emi floated over to wrap her arms around Nik.
+
+“Aren’t you meant to be hugging him?” Nik complained.
+
+“You’re fluffier.”
+
+“That’s not relevant!”
+
+She hushed him while stroking his fur.
+
+“Dad…”
+
+Shade rose from Jason’s shadow, cast on the river surface they were still floating over.
+
+“Apologies, Mr Asano, but Miss Farrah has called a meeting. She has invited all of the gold-rankers, taskforce, taskforce leaders and the officers from the military bases.”
+
+Jason frowned.
+
+“Serious business, then,” he said. “When did she leave Erta Ale?”
+
+“She is on her way back now. She was contacted by someone with information urgent enough that it needs to be addressed immediately. The meeting is scheduled for one hour and forty-seven minutes from now.”
+
+“What’s it about?”
+
+“Someone she knew during our previous time on Earth reached out. Anything more would be best explained by Miss Farrah herself.”
+
+“Fair enough. Almost two hours, so we have a bit of time. Emi, what form do you think Shade should take for getting us back? Electric surfboards? Personal hydrofoils?”
+
+“Ooh, hydrofoils,” Emi said.
+
+“How about we just use a portal?” Nik suggested. “Or anything that doesn’t involve wet fur?”
+
+***
+
+The streets of Saint-Étienne around the administration tower were heavy with foot traffic. Being a central shopping and business district, it was a busy area built to be walkable and largely unfriendly to cars. Many of the business were related to trade exports of astral space goods, rare or unavailable elsewhere on Earth. This included currency houses for spirit coins.
+
+Earth was getting better at farming spirit coins, but nothing to match what the Asano Clan could do with astral spaces. The unique properties of spirit coins meant they were strictly regulated, both within the clan and Earth in general. Their ability to be consumed for various purposes made them both currency and commodity, their value abstract or intrinsic, dependent on use.
+
+There were other businesses and organisations related to trade and the growing internal economy of the clan. Many were dedicated to the reconstruction of reclaimed European centres, using the clan as a safe base of operations.
+
+Walking along a busy street with Emi and Nik, Jason stopped outside a patisserie, not far from the administration tower. He glanced at the timer he’d put in a system window at the periphery of his vision.
+
+“Uncle Jason, we can’t take too long.”
+
+“We have a little time. Unless you don’t want any of those macarons in the window.”
+
+“Uncle Jason, I’m in my forties, now. I’m not your little niece who can be tempted by a window full of… and Nik’s gone inside.”
+
+They followed him in. Nik didn’t stand out too much, given the huge population of non-humans in Asano Clan territory. He was still adorable and highly recognisable, but people weren’t panicking at the sight of an anthropomorphised rabbit. The teenage girl behind the counter was herself some manner of lizard species. When Jason and Emi went inside, she was staring, wide-eyed, at Nik.
+
+“Ohmygodit’syouandyouaresomuchcuterthanyourpictures!”
+
+“We’re kind of in a hurry,” Emi told her. The teenager looked at her, then down at Nik and back at her.
+
+“Aren’t you…?”
+
+“Yes,” Jason said. “She’s character actor Brian Dennehy. Can we get a twenty four box of the macarons?”
+
+“Uncle Jason,” Emi scolded. “Don’t tease the poor girl.”
+
+At the mention of Jason’s name, the girl froze.
+
+“You’re…”
+
+“Looking for a box of macarons, yes. No specific flavours, just a mix of whatever you happen to grab.”
+
+“…Jason Asano,” the girl finished.
+
+“This is going to take a while, isn’t it?” he asked.
+
+“You’re Jason Asano,” she repeated.
+
+“I think she’s on loop,” Jason said. “Do you think I can go back there and get them myself? You just use those tongs to pick them up, right?”
+
+“Uncle Jason, do not go behind the counter. This is why I said you should spend more time just being around the clan.”
+
+“I do.”
+
+“It doesn’t count if you’re masking your presence. Or standing dramatically on rooftops because you think you’re a superhero.”
+
+“I am a superhero. I have a cape and everything.”
+
+“It’s a cloak.”
+
+“A magic cloak.”
+
+She gave him a flat look.
+
+“It counts,” he said defensively.
+
+“I want a cream bun,” Nik said, crouched down in front of the counter, staring through the glass.
+
+The girl shook herself out of her daze.
+
+“I am so sorry,” she said as she scrambled to fill a box with macarons. “You know, your chin isn’t anything like they say.”
+
+“What?” Jason asked.
+
+“It’s really big on the coins,” she continued to nervously babble. “It’s nothing like that at all in real life. Especially with the beard.”
+
+Jason pulled out a lesser spirit coin.
+
+“So, a cream bun as well?” she asked.
+
+“Yes,” Jason said distractedly as he peered at the coin. He hadn’t looked closely at one in years. It was faded blue and looked like metal but was clearly crystal at the touch. The words PRODUCT OF JASON and G’DAY MATE were written in raised letters. He turned it over to see an image of himself giving a thumb’s up.
+
+“My chin is not that big,” he muttered.
+
+“That’s what I said,” the teenager agreed as she put the boxes with their baked goods on the counter.
+
+“You shouldn’t even be able to see a prominent chin on a picture this small and monochrome,” Jason said. “If you scaled this up, my chin would be longer than my hand.”
+
+Soon, Jason, Emi and Nik, now with cream on his nose, were continuing along the street.
+
+“I need to redesign these coins,” Jason said, still staring at one in his hand.
+
+“It’s fine, Uncle Jason.”
+
+“It is not fine. It makes me look like… what is that guy doing?”
+
+Jason stopped to look at a man kneeling in front of a door with a camera on a tripod filming him. The door had a ritual diagram around the lock, which the man was picking while talking to the camera.
+
+“…because the magic was applied to a normal lock instead of integrated into the design, we can simply isolate the magic and pick it like any normal lock. I’ll start by applying bottom of the keyway tension, then go in with a standard hook…”
+
+“Is he filming himself robbing a house on a busy street in the middle of the day?”
+
+“No, Uncle Jason, he’s from the clan’s security team. He just likes to make videos about picking locks.”
+
+“He’s a locksmith?”
+
+“No, he’s a lawyer.”
+
+“A lawyer? Why is he—”
+
+“You’re going to be late for the meeting, Uncle Jason.”
+
+“You mean we’re going to be late.”
+
+“I’m not attending the meeting. I’m not a gold ranker or a military leader.”
+
+“Then why are you coming with us?”
+
+“I leave you two alone, you’ll get distracted, wander off and forget all about the meeting.”
+
+“Emi, this is my domain, and I know everything going on in it. It’s literally impossible for me to forget about it.”
+
+“I thought the impossible was kind of your thing?”
+
+“I have no idea what you’re talking about.”
+
+***
+
+They were using one of the lecture halls for the meeting, as there were numerous attendees. Many had come from the military base at the edge of the domain, shuffling through the double doors as Jason and Nik arrived. There were more gold-rankers than Jason had seen in one place on Earth, from the clan as well as broader human forces. A few noticed their presence in the crowd, largely due to Nik’s distinctive features. Jason wasn’t masking himself, but he did have his aura tamped down so as not to stand out.
+
+They made their way down to the front where Farrah was chatting with Humphrey and some taskforce higher-ups. The aisle was busy and Jason exchanged a few cursory greetings. Most of the people in the room had seen Jason before, if only at meetings like these, and were not as struck as the girl at the patisserie.
+
+Farrah gave Jason a quick hug as they reached her, not having seen him in months. Nik got a longer hug, leaving Jason muttering about hug deficits.
+
+“Shade said that someone you knew from back in the day reached out,” Jason said. “From when you were studying the grid?”
+
+“Yeah,” Farrah confirmed. “I was sitting on a volcano in Ethiopia and someone I hadn’t seen in twenty years finds me. She and I worked with Simon McKean, and she was one of our missing-presumed-dead when we were looking up the old team. Suddenly she’s alive and wants to spill the beans on what McKean has been up to. Which is nice and useful, since McKean’s been a ghost for seven years, ever since allying with the vampires.”
+
+“And the Earthlings are about to make the final push on the vampires,” Jason said.
+
+“Yeah, it’s definitely a trap,” Farrah said. “Also, they don’t like it when you call them Earthlings.”
+
+“Well, I could go discuss that with them, and talk about the things I don’t like.”
+
+“They can probably live with you calling them that.”
+
+***
+
+“It has been more than four years since we’ve had a confirmed trace of McKean,” Officer Natalie Park said. She was onstage with Farrah and Audrey Blaine, the Asano Clan’s energy vampire head of research.
+
+She tapped the clicker in her hand and a new slide appeared, on the lecture hall’s large projector screen. It showed a lab that looked like the lair of a mad scientist, after the hero had passed through. Tables full of chemistry and alchemy tools were scattered and broken. Numerous large vats had shattered sides, while the intact one had ugly, fleshy masses floating in murky red liquid.
+
+“This is one of several research facilities locations we believe he used,” Farrah said. “While critical equipment and records had been destroyed, much of it remained intact. We believe that this is the closest we came to catching him.”
+
+“Jack Gerling, by contrast has been much more active,” Natalie continued. “It remains unclear exactly what McKean did to remove Gerling from vampire queen Elizabeth’s control, but he seems to have regained much of his previous personality. We don’t know of more autonomy came with it but, slave or not, Gerling is acting as McKean’s agent. Rather than aiding vampires in military objectives, he seems to be pursuing resources for McKean’s research.”
+
+“Gerling,” Audrey said, “is an ideal operative. He has gold-rank power, which we measure as somewhere higher than most vampire lords and below most essence users of that rank. It eclipses anyone at silver rank, meaning that only a highly coordinated group of elite silvers would have any chance against him.”
+
+“More than power,” Farrah said, “Gerling’s greatest asset is something approaching immortality,” Farrah said. “We’ve seemingly killed him several times. When captured, he liquefies himself, and the same liquefaction happens any time he dies. The resulting substance swiftly burns on exposure to oxygen, leaving us nothing to study.”
+
+“As he later shows up fully intact,” Audrey said, “it’s possible that some manner of cloning program is at play, with his soul hopping from body to body. There are examples of both blood magic and human magitech experimentation with similar results.”
+
+“We don’t know the source of his ability to revive,” Farrah said. “It may be an adaptation from a powerful recuperative ability he had as an essence user, itself called Immortality. It could be part of his nature as a blood abomination. Either would be preferable to it being a result of McKean’s research. It’s not something we want to see replicated in our enemies.”
+
+“The point,” Natalie said, “is that Gerling has been pursuing resources for McKean’s work for years, with the support of the vampires. Despite this, McKean has yet to demonstrate any results, with the possible exception of Gerling.”
+
+“And the vampires would have certainly welcomed them,” Audrey said. “The blood parasites have, to the best of our knowledge, been removed as an active threat. The blood oaks are dangerous but manageable. We haven’t seen any advancements in the capabilities of either.”
+
+“Meaning that either McKean’s research has been running into dead ends,” Natalie said, “or he’s been keeping his powder dry for one big move. A move he may be ready to make.”
+
+“Approximately six hours ago,” Farrah said, “I was contacted by a former Network member who worked with both McKean and myself. She claims to have faked her own death to participate in a series of illicit research programs. She further claims to know exactly where we can find McKean.”
+
+“This person is being interrogated as we speak,” Natalie said, “but the assumption is that this is a scheme, probably of McKean’s doing. In short, a trap.”
+
+“That would suggest,” Farrah said, “that whatever McKean has been cooking up, he thinks it can handle anything we choose to throw at him. Given what we have, that suggests that he is either wildly delusional, or he has prepared something truly calamitous. A power that can challenge the collective might on display in this room, up to and including Jason Asano and his team. That might be an army of Jack Gerling clones, enhanced vampire lords or something else entirely.”
+
+“What we are proposing,” Natalie said, “is that if McKean thinks he’s ready for anything, we give him everything. Attack with the full collective force of planet Earth, and find out exactly how ready he is.”

@@ -1,0 +1,83 @@
+---
+id: 906830da-f338-5980-a1da-abfe8cc08c50
+page-type-slug: story-chapter-royal-road
+title: "004: Difficult Decisions"
+slug: 0004-004-difficult-decisions
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 4
+ownLength: 2076
+unit: words
+publishedAt: 2024-03-27
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1569820/004-difficult-decisions"
+royalRoadId: "1569820"
+---
+
+Even the most mild hearted humans would’ve found themselves twisted by the disturbing and violent events of the first two floors of the tower. Evelyn wasn’t sure if everyone had to fight rats, or if the floor was personalised based on the challenger, but either way she doubted anyone but the most psychopathic of people could get through them unchanged.
+
+In fact, she suspected the only reason she’d found herself getting into the rhythm of battle with such ease was due to her overwhelming fear of the stinking vermin. It had pushed her beyond inaction and caused the opposite - rabid rage. However, she maintained a cool head when faced with another real, living breathing human for the first time since being stolen from her home; she wanted to win the duel, but still had hope it wouldn’t come at the cost of the terror stricken man’s life.
+
+When he saw the stones whizzing towards him, the man threw up his arms to guard his face, just in time to stop the first of them smashing into his spectacles and potentially crippling his sight from the outset. However, he’d given up one vital thing that he would need for the fight that was unfolding - his field of view.
+
+Evelyn dived forwards, tucking into a ball and rolling past the man before he dropped his arms, gripping the jagged, heavy stone in her hands tightly and using her powerful legs, honed by years of regular running and spin classes, to launch herself upwards and swung at the back of his exposed head. She was looking to end the duel before he had time to gather his thoughts and mount a proper defence, but unfortunately her target was not as slow witted as she’d hoped.
+
+Once he dropped his guard and realised that the woman who’d assaulted him out of the blue had vanished from his line of sight, he’d instinctively pivoted to face behind him, realising that an ambush from behind was the most likely outcome of her manoeuvre. His judgement had been correct, but unfortunately not speedy enough to give him time to react to her opening strike. The heavy rock smashed into his shoulder and there was a *POP* as the joint slipped out of place.
+
+Despite the pain that flared through his arm and chest, he sprang backwards to avoid any further blows and grabbed hold of his dislocated shoulder, struggling to try and force the joint back into place before he sustained further damage thanks to being crippled. Luckily, he was left handed, so he’d still be able to wield the rusty dagger he’d purchased as a reward on the first floor.
+
+Blood trickled through his shirt from the small cuts made by the sharp points on her weapon, staining his ruffled white shirt a bright crimson red. The man was dressed like a typical office worker, though after the ordeals of the first two floors his suit was more holes than fabric. Torn trousers that were lacking a belt, scuffed and dirty dress shoes, a shirt so crinkled and dirty that it now looked like it had been salvaged from a garbage pile rather than bought from an expensive boutique tailor, plus his blazer was nowhere to be seen.
+
+I need to strike once more before he’s able to fix his shoulder. Having only one usable arm is a serious disadvantage and I can’t imagine being up against a knife wielding man would tip the scales in my favour. Judging from the slightly stretched arms on that shirt he works out quite a bit, so I need to hit hard and end this fast before he gets a hold of himself.
+
+Evelyn slipped another of her designated throwing rocks from the pocket of her dress and held it behind her back, not wanting to give away her next move. That was one of the only upsides to being in this particular summer dress while facing all this nonsense the tower was throwing her way - it had pockets! She could tell he was struggling with his shoulder - most people didn’t know how to put a dislocated joint back into place properly and his pained expressions gave away the fact he wasn’t anywhere close to succeeding.
+
+She loosed her rock, a hard and round one that she guessed was some kind of granite, and this time he was too focused on dealing with his wounded shoulder to block. It smashed into his nose, flattening it slightly and knocking his spectacles onto the sandy ground of the arena. Blood began pouring from his right nostril and he unleashed a spectacular string of curses while stumbling backwards.
+
+The next phase of her assault had been put into motion before Evelyn even knew if her throw was accurate and before the man had time to deal with his likely broken nose she was upon him. Her right leg was hooked around his left and she barged into his wounded shoulder heavily, the perfectly executed takedown sending him flying to the ground. A nasty stomp to his left shin ensured he wouldn’t be getting up any time soon.
+
+It’s overly cruel to cripple him this much, but I can’t take any chances. As much as it pains me to be so ruthless I won’t be able to see my friends again without seizing every ounce of power this damned tower offers me. When it comes to a stranger and those closest to my heart, it’s obvious who I’d pick, regardless of the consequences. I just hope it doesn’t have to go further than his surrender.
+
+Despite being in severe pain and with his movement hindered, the man wasn’t giving up and reached for the dagger tucked into his waistband. Evelyn noticed his attempts and fell onto him, knocking the wind from his chest despite not weighing more than sixty kilos. Seizing the shoddy weapon for herself she noticed that it was barely functional. Who knew how many rats he’d slain with it, but it seemed as if it would fall apart the next time it was used to stab something.
+
+It’s a good thing I didn’t waste my own essence on this piece of crap. I’d have been fuming if I had to deal with all those rats just for this to be the reward. At least I can get one or two uses out of it before it becomes scrap metal.
+
+“Fuck, at least give me a chance to speak before you beat me to death. We’re all stuck in this insane tower, shouldn’t we at least try to work together before jumping straight to violence?” The man asked, breaking the tense silence.
+
+His complaints were perfectly reasonable, all things considered, but Evelyn couldn’t help but burst into maniacal laughter. Was he serious, or just looking for a way to stall for time? He had surely received the same prompt from the tower as she had done, informing them that the challenge on this floor was to defeat the other challenger. Did he expect them to talk it out and politely agree who would take the victory? Typical of a corporate man.
+
+“Look guy, I’m just as pissed as you that we got dragged to god knows where to deal with this fucked up place. All I know is that the only chance we have at getting out of this alive is to follow the instructions of the tower, at least for now. It said the clear condition was to defeat the other challenger, so just say ‘I admit defeat’ and we can both move on. Simple, right?”
+
+Evelyn could see the frustration and broiling rage hidden beneath the man’s misty eyes, though he might’ve just been squinting due to his lack of glasses. He clearly didn’t like losing, but with half his limbs disabled and his weapon stolen along with the threat of her deadly looking rock hanging over his head, he had no choice but to announce, “I admit defeat.”
+
+Silence fell over the colosseum and Evelyn finally relaxed, glad that her plan of a surprise assault had worked out. Not quite as she’d envisioned, with her first move leading straight to victory, but it had gone off without many incidents. However, her satisfaction soon soured when there was no response from the tower’s system. It seemed that what she had been dreading had come true; the system only recognised a challenger’s victory when the loser was killed.
+
+Then again, it’s possible I just need to knock him out? No harm in trying. It’ll hurt a lot and I’m sure this dude will hate me once he wakes up but it’s better than the alternative. I’ll go with one of the smaller rocks so I don’t accidentally turn his brains to mush.
+
+Having made up her mind, she took one of the rocks that had previously been designated as a projectile from her pocket and swung down at the man’s head. Not hard enough to do lasting damage, but just enough that she would hopefully knock him out in a single hit and not have to cause more damage than necessary. Thinking that his captor was about to kill him, the man began pleading and shouting, begging for mercy.
+
+“Shit! What are you doin-” his cries were cut off as the stone smashed into his forehead, leaving a shallow dent and rendering him unconscious.
+
+Unfortunately for both of the unfortunate people in the blisteringly hot arena, they were once again met with radio silence from the tower. A bead of salty sweat dripped into her mouth and Evelyn spat onto the ground, mind racing as she tried to think of ways to avoid the inevitable and terrifying way she would have to clear this floor.
+
+Can I really do it? Murdering another human was not even near the list of things I thought I’d be doing when I left the apartment and headed to the picnic. How am I supposed to live with myself? But then again, what’s the alternative - let this suited jock kill me instead? There’s no way I’d ever allow that to happen. If the whole world has truly been dragged into this godforsaken tower, life as we know it has ceased to exist. All that I care about is finding Lily, Marvin and perhaps my family too, so we can face this shit together.
+
+Even knowing that there was no alternative didn’t make what she had to do next any easier. Her hands quivered as she raised the heaviest rock high above her head, doing her best to keep her grip steady so she didn’t slip.
+
+“Come on Evelyn, you can do this. Just one quick thump and then it’s over. You can walk through the portal and forget it ever happened,” she muttered, attempting to push herself through the fear and hesitation.
+
+Of course, saying it was one thing, actually going through with it was an entirely different matter. Thoughts of Lily and Marvin flashed through her mind. Would her parents even still be alive? There was no other way out of this. Her arms tensed and she forced herself to ignore the cloud of dread hanging over her. She smashed the stone down onto the poor man’s head and retched as it splattered into a sickening pink mush.
+
+The worst part was the smell. No one ever thought about the smell. When someone dies, their muscles instantly relax, meaning any pee and faeces left inside their bowels gets released in a foul torrent. Yet, every cloud has a silver lining and Evelyn’s came in the form of a message from the tower.
+
+Congratulations Challenger, you have cleared the 3rd Floor! The Local Shop has been unlocked, you can access it any time. You may purchase one reward from the following:
+
+〖Full Recovery〗- 10 Essence
+
+〖1 Attribute Point〗- 25 Essence
+
+〖Common Skill Crystal〗- 50 Essence
+
+〖Grey Star〗- 52 Essence
+
+The guilt and self hatred hadn’t quite set in and Evelyn had tossed away her trusty rock, truly disgusted with what she’d had to do to ensure her own survival. Staring at the list of tantalising rewards that had been offered to her, yet still only able to purchase one, there was only one thought in her mind.
+
+I’m going to beat the crap out of whichever twisted bastard built this freakin’ tower, just you wait. Evelyn Han is on her way to make your life hell.

@@ -1,0 +1,129 @@
+---
+id: a3e7815f-300f-5baa-a9a7-cccc3759a7fd
+page-type-slug: story-chapter-royal-road
+title: "011: Amalgamated Horror"
+slug: 0011-011-amalgamated-horror
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 11
+ownLength: 2102
+unit: words
+publishedAt: 2024-04-08
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1585676/011-amalgamated-horror"
+royalRoadId: "1585676"
+---
+
+Dull pain radiated from her chest, making her groan as she carefully peeled herself from the ground and sat up, taking in the artful display of gore and horror that was the remnants of the 5th Floor’s challenge. While her ribs were definitely not anywhere close to being healed, it seemed that the point in vitality had a much larger effect than she had been expecting based on how much the other attributes had impacted her.
+
+Checking her menu, Evelyn guessed she’d been asleep for at least ten hours, since her grey stars had ticked over twice, leaving her with a whopping 7 essence. Not enough to make any purchases but it was satisfying to see her early investment paying dividends already.
+
+I should at least be able to handle myself in a fight, as long as we don’t need to take on another mini boss or something similar. Who knows if the 6th Floor will be another multi challenger instance anyway, it’s possible we’ll be sent our separate ways like after the 3rd Floor. Then again, there was just the one person left after that damned challenge.
+
+“Hey, is anyone still here or did you two decide that dragging around a half dead woman wasn’t worth the hassle?” She called out.
+
+At first she was met with silence, leaving her to wonder if Anthea and Kayla had actually moved on to the next floors and abandoned her to her fate, but then she heard the sound of footsteps on stone from behind her and turned to see both of her companions approaching from the edges of the colossal cavern which they hadn’t had much chance to explore while taking on the octojelly.
+
+“Glad to see you back among the living darlin’. This lil’ missy here was worried to death when you still hadn’t woken up after a few hours but it seems you were just having a little beauty sleep,” said Kayla with a chuckle.
+
+Anthea ran over like a lost puppy, the tension and worry on her face not suited to such a young child slipping as she realised that Evelyn was fine. She helped Evelyn to her feet despite her protests that she could manage on her own and wrapped herself around her leg in a tight hug, which Evelyn returned. Despite her lethal effectiveness in battle, Anthea was still a child at the end of the day and that meant they should do their best to treat her like one as best they could.
+
+“So, are we ready to take on the next floor? We made a pretty neat team, all things considered. I wouldn’t mind sticking together for what comes next if we have the option,” said Evelyn.
+
+“We already formed a party, as far as we can tell it lets you share rewards from defeating enemies and communicate at a distance. There’s a little chat function which we could use even at opposite ends of the cavern,” said Anthea, excited to share the information.
+
+“Here, I’ll send you the invite. You should get a little message from the tower to accept,” said Kayla.
+
+You have been invited to form a party with 2 other challengers.
+
+〖Kayla Redwind〗
+
+〖Anthea Millhouse〗
+
+Will you accept?
+
+❰ Yes | No ❱
+
+Warning: All essence and item drops will be shared among party members.
+
+As far as I can tell everything they explained is exactly as the tower is describing. I guess if one of us ends up killing more monsters than the others they could end up at a loss but all of us can handle ourselves so it should work out roughly even in the end. There should be an option to leave the party if it ends up holding me back anyway.
+
+You have joined a party for the first time! Chat function has been unlocked and can be accessed at any time.
+
+A new window had appeared in the corner of her vision, showing the names of her two party members and their status, which was currently ‘Healthy’. Presumably the chat function was the long distance method of communication that Anthea had told her about, which Evelyn didn’t even need to open because the girl had already sent her a message, one that made her smile.
+
+Welcome to the Chat system, since this is the first time accessing the system, would you like to assign a nickname or use your own name?
+
+I feel like a nickname would be useful. At the moment it’s just these two, but I assume there may be more public chat systems made available in future judging from the layout that the tower has set up here and I don’t need my full name being put out there for all to see. I’ve always been a fan of Eve. The first woman. Well, I guess that was actually Lilith, but that doesn’t really work with my name. Eve it is.
+
+You have selected the nickname ‘Eve’ and will be referred to by this name in all chats as well as when sharing your status, unless specified otherwise.
+
+Party Chat
+
+ANThea: Hello World :)
+
+Eve: Woahh, this is super easy to use
+
+ANThea: I know right! It’s like having my phone back. I miss my phone.
+
+K: Typical Gen Z
+
+Eve: Hey, I’m pretty sure you don’t look old enough to be a millennial, unless your workout routine really is THAT good?
+
+K: Never ask a woman her age.
+
+Eve: What’s up with your name by the way, Anthea?
+
+ANThea: What, you don’t like ants? They’re super freakin’ cool! So strong!
+
+“Alright that’s enough of that, we’re literally right next to each other. Save it for when we actually need to use it and let’s just speak like real people,” interrupted Kayla.
+
+“Fair enough,” replied Evelyn, “So, 6th Floor?”
+
+“Let’s do it, I don’t think we’ll ever be more ready,” said Kayla.
+
+Evelyn took the shield from her inventory that she’d received from the Common Loot Chest and looped her arm through the straps. There was no guarantee it would be needed but it was better to be prepared. Anthea had received a wooden bow of decent quality, which she had nearly sold, given that she had zero knowledge of how to use one, but Kayla had made the point that a ranged fighter would be a valuable resource in group battles and forced her to spend the majority of the time Evelyn was asleep learning how to handle the weapon, to some success.
+
+Kayla had obtained a copper ring from hers which increased her movement speed by 2%. Not the most mind blowing piece of equipment, but every little helped. With nothing left to tie them to this floor, leaving behind the remains of two allies, the two women and the girl stepped through the portal, finding themselves in yet another cavern, eerily similar to the setting of the earlier floors. Fearing the worst, Evelyn looked around only to kiss her teeth in annoyance.
+
+The cavern had three passages leading away from the central area which they had appeared in, still together which indicated they would probably be facing the next few floors as a group, and the one which Evelyn was staring down had a mass of glowing red eyes, which when they approached she realised was her old friends.
+
+“Rats,” she muttered.
+
+I have to say, I’m not really that terrified of the damn rodents anymore, but it’s a little tedious having to face them so often. Can’t this damned tower get a little more creative? Actually you know what, I’ll definitely regret thinking that. I take it back. Keep throwing the rats at me.
+
+Next to her, Anthea was having a far worse time keeping herself together. Her breathing was quick and shallow and a layer of sweat had formed on her forehead. It seemed as though despite all three of them clearing the first few floors, not all of them had managed to use the experience to overcome their fear. Glancing at what was coming down the passage in front of the girl, Evelyn couldn’t help but shudder herself.
+
+Spiders. Not regular, Earth-sized spiders, but huge, furry arachnids the size of a large dog skittering towards them. Each had eight beady eyes, glowing red and intently focused on the prey before them. Large fangs dripping with venom jutted out from the jaws of each and Evelyn honestly wondered just how Anthea managed to make it this far given her obvious severe arachnophobia and the fact that the enemies she had been pitted against had access to a paralysing agent. It was testament to her skill.
+
+Finally, turning to the third passageway, she couldn’t help but comment on the enemies that had been brought against them by virtue of Kayla. The woman saw the look on Evelyn’s face and before she could even make a comment the southerner interrupted her with a fierce stare.
+
+“Don’t,” she said.
+
+~~~
+
+Congratulations Challengers, you have cleared the 6th Floor! You may purchase one reward from the following:
+
+〖Full Recovery〗- 10 Essence
+
+〖Random Common Equipment〗- 35 Essence
+
+〖1 Attribute Point〗- 40 Essence
+
+〖Grey Star〗- 52 Essence
+
+〖Common Skill Crystal〗- 85 Essence
+
+All things considered, that had actually been one of the easiest floors so far. While the rats hadn’t posed much of a challenge to her, the ones here were only marginally stronger than their lesser counterparts and when you considered the fact that they were able to cover one another’s backs and had grown significantly stronger thanks to the wonderful thing that was essence, taking down the creatures on the 6th Floor had been a breeze.
+
+There had just been one tense moment when Anthea froze up in front of a spider, almost losing one of her legs to the powerful bite of the oversized arachnids, but luckily Evelyn had stepped in and pulverised the beast before it could get that far. Each of the enemies seemed to reward them with just 2 essence on a successful kill, which was pretty good, but seemed lacking compared to the huge drop that the mini boss had given, though they made up for it in sheer numbers, with there being around fifty of each type of monster.
+
+Evelyn took another grey star as her reward. Attribute points should still be cheaper in the local shop, unless the stock of the ones sold on the lower floors had run dry by now, while she didn’t think a random piece of equipment would be that beneficial to her given that she already had the buckler, which had been very handy in that last fight. With two useful skills already under her belt, it was hard to justify the cost of a third just yet so her choice seemed optimal when the price of a grey star in the shop was only a little less than the one she had opted for.
+
+After picking up another attribute point from the Local Shop, figuring that hoarding essence wasn’t beneficial in the slightest, Evelyn invested it into vitality, raising the attribute to 2. Her ribs still weren’t fully healed and despite being able to fight, it hadn’t been the most comfortable experience, with dull pain a constant and occasional flare ups nearly inhibiting her movement entirely.
+
+Her number of grey stars had risen to three, meaning more essence every six hours, or just under thanks to her skill, Stargazing. Not only that, but on the back of her right hand Evelyn now had three small tattoos, grey triangles that formed a triangle themselves.
+
+If this keeps going the way I think it will, my mother is going to have an aneurysm if we ever see each other again. It was bad enough when I got my bellybutton pierced in high school, so I can only imagine the reaction she’d have to tattoos. Then again, it’s entirely possible she may have some of her own, so I’ll have ammunition to fire back.
+
+“Alright, let’s keep going. That was pretty easy. I don’t want to jinx it but as long as the next few floors follow a similar trend we should be able to clear at least two more in the next few hours,” said Kayla, a glint in her eye.
+
+Anthea and Evelyn followed her into the glowing portal and in a twist of fate, the tower actually hadn’t decided to completely mess with them. It was another cavern and already the approaching tap of claws and chitinous limbs could be heard, as well as a third, slightly softer sound made by what was apparently Kayla’s worst fear - teddybears.

@@ -1,0 +1,119 @@
+---
+id: 3a433e3b-b7b7-5160-864f-30313b32c70e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 824 - An Asshole vs. the Imitation"
+slug: 0151-chapter-824-an-asshole-vs-the-imitation
+partOf: hell-difficulty-tutorial
+position: 151
+ownLength: 2298
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3521595/chapter-824-an-asshole-vs-the-imitation"
+royalRoadId: "3521595"
+---
+
+There is no following explosion, and the orb that shot towards Envy stops before returning to Lissandra to circle around her. There, it splits into six smaller orbs, all taking on the colors of the attacks Envy shot her way before.
+
+“That was insane,” Marble mutters. “The precision, skill, and control it takes to separate an attack of that scale with as little mana as she did.”
+
+“Shh, Marble, look at what she’s doing with the one winged wyvern’s domain,” Spark interrupts him.
+
+“Wyvern’s domain?" I ask.
+
+The fake sky of this floor, which has now changed color, taking on a mix of dozens of shades of gold, continues to waver. I can’t feel the pressure of it through the record, but I can tell it’s something Envy must have activated to defend himself. Meanwhile, underneath that golden domain, a transparent white light shimmers weakly.
+
+Spark buzzes around me, bouncing against my cheek before stopping next to my ear. “The Ruler of Envy has activated Beyond’s main defensive array. They gave him access to it, and unlike his predecessor, he didn’t hesitate to use it.”
+
+I watch as Envy, having collected himself, chuckles at his prior reaction. Sweat beads on his face, and the golden light is at its densest around him. I can even see the faint outlines of a myriad of thin lines all over.
+
+“The Absolute’s imitation is very smart. She must have been expecting someone to come after her with Beyond’s main defensive array, so she defeated the one winged wyvern and took over its array to defend herself! How smart!”
+
+As Spark talks, the battle continues. A mantle made of mana forms behind the Ruler of Envy, and over his head, three crowns begin to grow. All at the same height, floating over his head in a tight orbit. One of the crowns is filled with mana. Another one has flames fighting to escape, and the last one is transparent with a green hue to it.
+
+While Beyond’s main defensive array continues to push against the wyvern’s domain that Lissandra’s seized control of, Envy lowers himself and bursts into a dash. I can’t track him anymore, but the place he launches from explodes in a way that seems almost like a meteor striking a mountain peak behind him, and it blasts it into pieces flying into the distance.
+
+His voice makes itself heard from everywhere once again as he teases Lissandra, calling her an imitation, a fake, and a replica, threatening to kill her disciple and her as well, for everyone to see.
+
+Meanwhile, Lissandra doesn’t even bother to move, she just stands where she is. Her hair rises up, its silver color seeming to shine a bright neon white under the domain she now controls. It creates a striking contrast against her brown eyes.
+
+Once in a while, she flicks her hand, and somewhere, far in the distance, an explosion bursts forth. They grow bigger and bigger to a scale that’s beginning to seem difficult to grasp. A barrage consisting of thousands of projectiles pours out from behind one of the mountains, tearing through stone and heading for Lissandra. One of the orbs floating around her, the pink one, moves in front of her and pulses once before disappearing.
+
+With that, all of the projectiles are gone. From where they came, a spherical pink orb eats into the area and the mountains around it just once before disappearing. At the center of it all, the Ruler of Envy floats, surrounded by golden light. The mantle made of mana behind him flickers, stretching out like wings, and the three crowns begin to spin faster and faster.
+
+The golden light of Beyond’s defensive array intensifies, drowning an area the size of a continent in blinding light. The air screams and reality tears, dissolving the world into a shimmering haze.
+
+And even though I can’t truly sense any of it, I feel myself shudder.
+
+All that immense pressure pushes against Lissandra and Myrra, now surrounded by a transparent white domain that crackles like lightning around them as she faces that attack. Another explosion thuds, and for a moment, my sight is entirely obscured. It is as if reality itself disappears before returning, and all three people within the record are still there.
+
+For dozens of miles around Lissandra and Myrra, the earth is pressed deep, perfectly level, and smooth, with a sheen almost as reflective as a mirror.
+
+In the distance, enormous figures begin to move, gargantuan lizards made of rock, moving to attack Envy. He doesn’t seem to pay them any mind, and a fire from one of his crowns flashes forth, and the colossi disappear entirely without any chance to put up a defense. These very same attacks hammer towards Lissandra, who, since the start of the fight, has yet to take a single step, and even now, the ground beneath her and Myrra is entirely undamaged.
+
+He follows with more attacks, using items that break upon use to launch exotic projectiles at her. Shadows reach from tears in space, turning everything dark as if absorbing the light around them. Oceans of fire burn in ways that seem impossible to extinguish.
+
+Finally, Envy snorts and reaches into his inner pocket, from where he produces a long spear made entirely of white lightning. I notice the way it damages his hands, and one of the rings he's wearing cracks and breaks off, but he doesn’t really seem to mind.
+
+Golden light and dense lines trace paths in the air surrounding him furiously as he lands on the ground and, with all his strength, throws the white spear. His throw creates ripples through the ground around him, making it seem like it’s been liquified.
+
+Just a few seconds have passed since the start of the fight. Maybe ten, maybe fifteen, I have a hard time saying. But I can tell that the record’s been slowed down for my benefit, likely by Marble. Even then, I’ve been accelerating my thoughts since the start, just so I can observe this insanity. I’m also sure I can only truly grasp a small part of the fight. Maybe a tenth of it, maybe a bit more.
+
+Not like it matters. There are parts of this fight I can’t even perceive at the moment, but I can watch Myrra moving as if in slow motion while Lissandra and the Ruler of Envy face each other.
+
+In that moment, as the white spear flies her way, the record slows even further as Marble says, “Watch.”
+
+Lissandra, for the first time, takes the black dagger from her waist and throws it at the ground below her feet. It stabs itself there by the blade, and in that same movement, she weakens the domain around her. A pulse from the dagger stabbing into the ground blows away the golden defensive array and clears out the area.
+
+And Lissandra moves.
+
+The record slows further just to catch her, yet I can barely see as she runs past the white spear. She snatches it from the air, twists it around her body, and hurls it back at Envy. He begins to move, as if to dodge, but before he can, Lissandra is standing in front of him. His eyes widen as she delivers a blow to his belly, grabs the [Mana Crown] from over his head, and squeezes it until it breaks, letting all that mana flood into her body.
+
+Her speed increases further as she moves around and behind him, grabbing him by the back of the neck with one hand and lifting him into the air just in time as the white spear reaches him and stabs itself through his chest.
+
+The lumoran coughs blood and smirks. The green crown flashes and his body explodes, but before any of it can damage Lissandra, a burst of mana from her cancels it out. The shockwave and pressure, I am sure, would’ve normally erased a continent or two becomes a short gust of powerful wind that presses against Myrra, who covers her head while still seeming to move in slow motion.
+
+Standing there with the white spear that fails to damage her at all, Lissandra looks around. She moves again, reaching Myrra, and as she passes by, she lowers herself and flicks the handle of the dagger, which lets out a clear, beautiful noise. Another pulse is sent from it, pushing Beyond’s main defensive array back once again, though it had already begun to spread.
+
+Lissandra runs over the broken landscape, avoiding dozens of attacks and erasing or canceling out all of them, as each and every one of them carries a power that almost no Absolute could ever hope to face.
+
+The Ruler of Envy is already back again. This time, only the green crown floats over his head, and his mana mantle spreads itself behind his back, forming two additional muscular limbs.
+
+He even uses the defensive array to surround himself in brilliant golden armor, from which the white spear simply bounces off. The spear continues to fly into the distance, its blade cutting through everything in its path as if it were no denser than air, and leaving rifts in space as if it were cutting and scaring the fabric of reality.
+
+After dodging under his attack, Lissandra grabs his arm and throws him off balance against the ground. He rolls, stands up, and punches at her, which she simply redirects with a calm face. She uses his momentum to throw him off balance again and kicks against him, causing him to slide back without taking any damage.
+
+He moves again at that incredible speed, and the ground beneath him explodes into a mile wide crater from the sheer force he unleashes. When Lissandra runs to follow him, not a single speck of dust is sent into the air.
+
+She reaches him mid leap, grabbing his feet just before he reaches Myrra. His fingers pass just barely in front of the lynthari’s face as Lissandra pulls him back and throws him into the distance. There, Envy stops, breathing heavily with his fingertips shaking, but he is still smiling as he takes a deep breath.
+
+But that smile disappears entirely when Lissandra speaks.
+
+“I have the feel of it now.”
+
+Envy’s face turns to horror as the white domain she controls spreads further. It starts devouring and taking control of portions of the golden arrays. Piece by piece, it pierces through.
+
+“It’s a loud and flashy array, certainly, but an incredibly clumsy one,” Lissandra says as she takes a calm step. “ There are so many openings and pointless gaps that it was actually confusing to find the center because I couldn't believe someone would actually build something this poorly. Watching it struggle to function is almost embarrassing.”
+
+With each step she takes, the white domain becomes less transparent and more of the sky loses its golden shine.
+
+The Ruler of Envy chuckles, and in the same moment, Lissandra’s attack seems about to reach him, but he disappears. Only his cracked green crown falls to the ground, along with the golden armor, and a rapidly closing tear hangs in space behind him.
+
+Even though he is gone, his voice sounds once more, followed by a laugh. “That was fun. Maybe next time, cute little imitation.”
+
+Then the record stops as if frozen, holding that final scene of Lissandra standing there as her domain takes over.
+
+We are moved again, this time standing right in front of Lissandra with Marble and Sparkle circling around her. “How scary! Did you see that, Nathaniel? I’ve watched it like ten times already, and it is still so scary! One day, I’ll have to thank the Ruler of Envy for showing this record live. Even if he seems a bit like…”
+
+“An asshole.”
+
+“You cannot say that about a Ruler, Marble!”
+
+“I obviously can,” Marble snorts and flies to me. “The Absolute’s imitation killed the one winged wyvern, which was initially set on the 12th floor as a test for anyone wanting to head to the 13th floor. The one winged wyvern is at this point rumored to be nearing the level of a dragon, and the floor is entirely within its domain. Domains are what wyverns are truly famous for, and this one is especially powerful.”
+
+I watch Spark touch Lissandra and then run away as if scared, while Marble continues to explain. “That poor wyvern is bound to defend the entrance to the 13th floor, reviving stronger after every death. The imitation killed it and took over its domain, all in preparation to face Beyond’s defensive array, which she started to analyze and began to take control over during the fight.”
+
+“I bet she would’ve been even stronger if she didn’t have to analyze the array. Or do you think she still hasn’t gone all out? Perhaps she didn’t want to kill the Ruler of Envy right away?”
+
+“That sounds like her,” I say, agreeing with Spark and turning back to Marble. “What happened next? If you can’t tell me, I can just leave some Earth food behind for you, just like last time.”
+
+“Deal,” Marble says immediately. “Before the Absolute’s imitation took over Beyond's main defensive array entirely, the Ruler of Diligence reacted. With the help of the Ruler of Greed, they forcefully sped up the one winged wyvern’s revival ceremony. The wyvern then started to fight the imitation while they used the distraction to retake control of Beyond’s defensive array. Yet, the imitation still got what she wanted in the end. The main defensive array is now entirely closed off and set to go through inspection in case she made some unforeseen changes to it. It cannot be used against her again anytime soon.”

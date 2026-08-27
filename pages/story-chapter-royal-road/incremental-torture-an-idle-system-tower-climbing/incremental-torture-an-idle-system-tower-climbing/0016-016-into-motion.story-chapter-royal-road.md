@@ -1,0 +1,173 @@
+---
+id: 7493b8b3-1bd6-5aa9-989a-5bc503227c63
+page-type-slug: story-chapter-royal-road
+title: "016: Into Motion"
+slug: 0016-016-into-motion
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 16
+ownLength: 2411
+unit: words
+publishedAt: 2024-04-14
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1594802/016-into-motion"
+royalRoadId: "1594802"
+---
+
+God, my head feels like a sack of concrete and my muscles feel like they’ve been bathed in acid. How long have I been out for? I guess it’s satisfying to have survived what should have been certain death, but it won’t mean much if we end up losing the challenge because I was unconscious.
+
+“Hey there darlin’, finally awake are ya? I have to say you gave us all a real scare back then. Even I thought you might be a goner and I’ve seen how you take hits. Whatever you did while mumbling to yourself must have worked,” she heard Kayla say.
+
+Evelyn tried to open her eyes, but the moment the light hit them her head began to ring and she had to force them shut, before taking some time to adjust. She found herself laying down on her back, her head resting on something soft, which she discovered was Kayla’s lap when she looked upwards to see the southerner’s smiling face peeking down at her.
+
+Anthea had rushed over from where she was keeping watch, before throwing herself at Evelyn and hugging her tight. It hurt like hell, but she didn’t complain. They had been forced together by the tower, but she was beginning to see Anthea and Kayla as family, albeit a rather dysfunctional one who bonded by beating the crap out of monsters and other people.
+
+“It’s nice to see your faces again too,” Evelyn said, “I really thought I was going to die you know. Thanks to my little experiment though, I’ve finally figured something out about attribute points, or vitality and fortitude at least.”
+
+“Why doesn’t that surprise me,” replied Kayla.
+
+“You do seem to relish taking a beating. It’s not like you have to go and get hit, simply because you’re our tank. What did you figure out?” Anthea asked.
+
+“Vitality seems to improve the body’s capability to heal itself and fight off injury and contaminants, such as poison. Perhaps sickness too, but I sure as hell hope I won’t be getting a cold in this damned place. The monsters are already enough to deal with. Since reaching 7 points in it, I also just feel far more… alive? It’s difficult to put the feeling into words. Fortitude is rather self explanatory, it toughens the body and lets it absorb hits better, but also seems to bolster my willpower. I could really feel the difference when I was clinging to consciousness back then,” Evelyn explained.
+
+“Interesting. I guess that means they aren’t just boosting our physical capabilities then? I half expected that, what with there being a ‘Mana’ attribute, but the effects of the others are clearly not to be underestimated. Where possible we should try to invest them more wisely, rather than just increasing whatever we need in the moment. Of course, that’s a luxury we probably won’t be able to experience any time soon,” Kayla said.
+
+“I’m just gonna keep putting my points in speed. Zooom,” said Anthea, giggling to herself.
+
+Her headache had lessened by now and despite her entire body still aching, Evelyn was able to struggle to her feet and shake out some of the stiffness with a few stretches. Reece and Anna came over to check she was alright, having seen that she’d finally woken up.
+
+“I have to say, losing one of our new party members right after we got them would suck pretty hard,” joked Anna.
+
+“Miss Evelyn, can you teach me how to headbutt like you did earlier?” asked Reece, completely misjudging the situation and getting a smack on the back of the head from Anna for his troubles.
+
+“It’s alright Anna,” she replied, laughing, “It’s just natural talent I guess. Maybe if you start by headbutting the trees over there a thousand times, you might be on the way to reaching my level.”
+
+Before anyone could stop him, Reece had already darted off. Anna’s head sank into her hands and she returned to keep watch, having confirmed Evelyn was doing fine. A quick glance at the map in the corner of her vision informed Evelyn that she had been unconscious for an entire two and a half hours, during which seventeen parties had already been eliminated from the challenge and their total number of points had risen to 164, which meant that the zones provided about 1 point per minute.
+
+“Has there been one of the ‘regular intervals’ that the challenge mentioned, or have all those parties just been taken out by each other?” She asked the group.
+
+I mean, we took out two parties ourselves, so it wouldn’t be unrealistic for most of them to have been killed during the early clashes for control of the zones.
+
+“I wasn’t really keeping count, so I can’t say whether it was the tower or the other people who did it, but a few minutes ago there was a message saying any party with less than 100 points would be eliminated,” replied Kayla.
+
+“So we have a bit of a head start then? I doubt we can just sit back with one zone and make it to the final three, though. There’s no way this crappy tower would make such an easy challenge. How do we proceed?”
+
+“There are three other zones on this island, I think our best bet is to try and take control of the entire place, then spread out and keep watch of the rope bridges while using the party chat to stay in contact. Unless what I’m seeing is wrong, there’s only three entrances besides the one leading to our starting island, so it shouldn’t be too difficult to do, provided we can actually wrest control of all four zones,” suggested Kayla.
+
+“That’s actually a really solid plan,” Anthea said, surprise etched across her face.
+
+Kayla flicked her forehead. “Don’t tell me you thought I was stupid. Pretty women can have brains too, silly girl,” she replied.
+
+“I have a feeling it wasn’t your looks that made her think that,” quipped Evelyn, earning herself a withering glare from the woman in question.
+
+After deciding to follow Kayla’s plan, they called Anna and Reece back from keeping watch of the surroundings to inform them of it. All of them agreed it was their best plan of action. Having control of four zones would hopefully guarantee them a spot in the top three parties, barring any unforeseen circumstances. The only thing they couldn’t agree on was how to actually go about taking control of the island.
+
+Kayla, in typical fashion, simply suggested they split into three groups and perform a pincer assault that would have them in control of all four zones within an hour or two. Reece was rather excited at the prospect of challenging himself against potentially an entire party, but Anna was less than thrilled, a sentiment shared by Anthea. Both said they should just stick together as a group of five and methodically clear the island zone by zone.
+
+Evelyn was stuck somewhere in the middle so chimed in with her thoughts, “If we simply go zone by zone, we’ll be leaving the entrances to the island unguarded. All of our hard work will be for nothing if more parties are able to just walk in and take over our empty zones. I don’t think we should spread ourselves as thin as you want Kayla, even if I’m sure you or I could handle a whole party on our own.”
+
+“What do you suggest then, darlin’?”
+
+“There’s another zone about two hundred metres north, I think we should take control of it as a full party, then you should leave me behind to watch your backs while you aim for the zone in the centre of the island. We can figure out how to proceed after that. It’s also possible there won’t be anyone in control of them yet, but stay on your toes regardless.”
+
+“Well, I’d much rather do it my way, but it seems like I’m outnumbered here. You’re a bunch of pansies,” said Kayla.
+
+“Better to be a pretty pansy than a dead one,” retorted Anna.
+
+“Enough teasing, let’s make a move. The timer won’t wait for us,” said Evelyn.
+
+~~~
+
+Taking down ten opponents had given Evelyn a lot of essence to work with. Even with the attribute points she’d purchased in her near-death stupor, she still had just over 400 to spend. Whether it was because other people were progressing far slower than she had, things were still occasionally appearing at the lower prices, and she was keeping a watchful eye for that while also guarding the western bridge to the island.
+
+The second red zone had been completely unoccupied through some divine stroke of chance, which meant she actually had little to do except sit and twiddle her thumbs while waiting for news from the others.
+
+Eve: Anything to report?K: Still nothing darlin’
+
+ANThea: I found some ants!! So cute
+
+Eve: Just make sure they aren’t biters, I doubt either of you could survive a poisoning like I just did
+
+ANThea: They would never!
+
+For the first time since arriving in the tower, Evelyn decided she would try to actually think about how she wanted to develop her abilities. At first, attributes and skills had just been a way of surviving from one floor to the next, until she figured out how to get the hell out. Now, she knew better. Whether it was even possible to get out of the tower was something she didn’t think she would find out for a long, long time.
+
+To that end, optimising her attributes and skills to the best of her ability was now a real priority. Admittedly, their little group did seem to be more talented than most of the people they had fought so far. Scarily so, especially in Kayla’s case, but her own strength was nothing to scoff at. Taking that dude’s full force mace blow without injury had proven that to her.
+
+When the tower had begun forcing her down the path of a tank, the vanguard of their party, she had somewhat resented it. Even now, having seen Anna’s magic, Evelyn still felt that this role didn’t suit her desires, but there was definitely some satisfaction in being able to smash through everything that came her way and come out the other side unfazed.
+
+I suppose survival is the number one priority, the same as it’s been since the 1st Floor with those damned rodents. As long as I keep clearing floors and taking out the opponents that get put in my path, eventually I might figure out the kind of warrior I want to mould myself into. I’m almost certain that is what this tower intends to do with those it kidnaps, so I’ll just make the most of it. And if I’m lucky, it will give me a magic skill at some point.
+
+To that end, I think it’s time I finally invest a point into mana. I want to see if my earlier theory is true. Even if it isn’t, I’m sure I’ll eventually need points in it, so it won’t hurt to start now. There’s a few cheap points in the shop right now, too. I’ll just buy all of the ones at 30 essence and below and spread them between fortitude, vitality and power. Maybe one more point in stamina would be useful too.
+
+There had been quite a few more attribute points going for cheap. Evelyn wondered what would make people decide to sell something so clearly fundamental to further survival in the tower, but everyone’s experience was different. There was also another possibility to consider, which was that when people died to the tower, everything they had accumulated was offered up to the remaining challengers. With the changes, she had just 250 essence remaining and her status was looking seriously beefy.
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+|Attributes|
+
+Power: 3
+
+Speed: 2
+
+Stamina: 2
+
+Vitality: 7
+
+Mana: 1
+
+Fortitude: 8
+
+|Skills|
+
+~Passive~
+
+Bulwark (Uncommon), Stargazing (Common)
+
+~Active~
+
+Battle Cry (Common)
+
+Putting just a single point into mana had changed something inside Evelyn. There was something trickling through her body that she had been unable to feel before. It was tiny, almost impossible to detect, but she knew it was there. Her mana. She doubted she would be using it any time soon, but it was exciting to experience something truly alien to her.
+
+Sure, the kind of physical abilities that they were displaying were completely out of humanity’s reach back on Earth, but this? Magic? This was beyond her wildest thoughts. Now she knew why Anna looked so gleeful whenever she shot one of her little bolts at someone. Just this small trickle already warmed her body and seemed to synergise with her high vitality, filling her with energy to the point that she just wanted to jump up and race around the island.
+
+ANThea: We’re approaching the red zone now, how are things back there?
+
+Eve: All clear, I’ve just been spending my essence. Mana feels amazing! I’m so jealous of you, Anna.
+
+Anna: Heh
+
+Eve: Do you guys need me to come and help out?
+
+ANThea: No need, Kayla’s already taken out one of the poor men guarding the zone, just stay put for now.
+
+Well that’s just boring. Just how much stronger is Kayla than everyone else here anyway? I don’t think I’ve even seen her have to take a step back in a single one of her fights. Not that I’m complaining. I’ll just keep riding the bus until the tower splits us up or I have to run for my life the day she decides I’m not worth being friends with anymore. That’s probably an overly cruel judgement of her character, but I still think she’s a little psychotic.
+
+Reece’s Pieces: The last one was hiding in the trees. I had to stab him three times before he died! There’s so much blood.
+
+Anna: Just count to ten Reece, then come back to me. Remember what I told you.
+
+K: I think we’re gonna move to clear the final zone, darlin’. You might have to be careful since a party could sneak behind us, but I think it will work out.
+
+Eve: I doubt it will take that long with you there.
+
+K: …
+
+Evelyn:
+
+Essence: 319『+13 / 5:59:58.7 hours』
+
+~~ Stars ~~
+
+Grey: 13
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+【KILL】

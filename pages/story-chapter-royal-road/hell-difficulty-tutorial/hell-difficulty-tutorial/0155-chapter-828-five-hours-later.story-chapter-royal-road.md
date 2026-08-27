@@ -1,0 +1,135 @@
+---
+id: 1e6172ea-c73b-5a30-896d-380f8fd3c553
+page-type-slug: story-chapter-royal-road
+title: "Chapter 828 - Five hours later"
+slug: 0155-chapter-828-five-hours-later
+partOf: hell-difficulty-tutorial
+position: 155
+ownLength: 2546
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3549521/chapter-828-five-hours-later"
+royalRoadId: "3549521"
+---
+
+Five hours after reaching the doors of the healing guild, Lily, Tacita, Fuci, and I all find ourselves in the office of the local Champion and King. Zant is here as well, sitting on my lap as I use him for emotional support while facing the scary Champion. That guy is the same race as Izzy’s disciple, Seneca. His hair is blue and constantly moving as if made of fire, while he impatiently taps on the table that stands between us.
+
+His office isn't bad either. It’s been built into the side of the mountain located at the centre of the First City, also known as Rookie City. It isn't dug into the surface, however, rather, it’s a separate structure built on a terrace near the top. Over all its a very cool and pretty place, full of light, beautiful rugs, and a lot of windows that open to a view of the city and the fairy tale environment around it.
+
+“So, you are telling me that while you went to deal with the crooked healer who purposefully mistreated the guide Duncan, you attendees, Nathaniel, Lily, and Tacita, got teleported somewhere far away into a complex of dark and, as you called them, “evil” caves?” the Champion asks, still keeping a calm visage.
+
+“I think it must have been some sort of artifact, or a very powerful and mysterious old item. I didn't notice it before it was too late, and we got teleported away,” I say, repeating my earlier statement.
+
+At my side, Lily nods. Tacita looks like she wants to jump out of the window and run away, but even she has enough sense not to do so. The Champion seems pissed off, even though I'm sure he can tell I’m not lying.
+
+Meanwhile, I follow his gaze and, with satisfaction, see the smoking remains of that healing guild’s headquarters in the distance.
+
+“Lord Champion, they are all still wounded and terribly tired, we should-” Zant tries to speak as calmly as always, but he is interrupted.
+
+“I don’t think that’s the problem here. I’ve seen records of this healer, and I’m sure she’s put them back together. And don't even get me started on this maniac. There are bets all across the city regarding how long it’ll be before he invests just one more mana point and explodes as his pool escapes his control. Zant, people are saying that the more wounded he is, the more 'optimal' his state becomes.” The Champion looks like he is about to slam the table, but stops himself, opting to just tap it instead.
+
+“I mean, isn't this kind of your fault? How could something like this happen in your-”
+
+This time, it is me who gets interrupted. Zant squeezes my finger to the point it hurts, and I shut up to cough out, “Ehm, as I said, we went to their headquarters and, yeah, I might have used a bit more force than I should have to get in, I might have hurt a few people just a tiny bit, I might have even caused some slight damage to the surrounding arrays, I also might have, with the purest intentions, blasted that guy through a wall. But they gave me no other choice. I located the healer and was tracking him through their arrays when he disappeared from my senses. That’s what led me to their chapel, where Lily noticed the remains of blood from human sacrifices. In an effort to cover it up, they used that weird artifact to teleport us into those caves, and I was unable to stop it.”
+
+"You’re lying this time."
+
+"Okay, maybe I could have stopped it, but that doesn't change anything about the situation."
+
+Lily quickly joins in. “I can swear to what we found as well. There was an altar in the middle. It was cleaned, yes, but I noticed the blood and the remains of organs they’d failed to clear away.”
+
+The Champion looks from Lily towards Tacita. She senses his gaze, looks away from the window to meet his eyes. She shrugs and nods, surely confirming that we’re telling the truth in whatever way the Champion is using to check.
+
+“There, you found out that they had long since stopped healing people fully, so they wouldn't lose clients and a source of money, forcing people to keep coming back. You called it a subscription. You said they were also developing a method where other healers were rendered unable to suppress pain, even temporarily, meaning patients had to return to them specifically,” the Champion says.
+
+“I had my suspicions once I healed Duncan, but I thought some healer had just made a mistake,” Lily says. “But when we were in those caves, we managed to confirm that it was done on purpose.” Her face darkens. “I wish they would put more effort into improving their healing rather than creating methods like these.”
+
+Once again, the Champion taps on the table and looks at Lily. “But that is something we cannot confirm anymore, as you, attendee Lily, killed all of the participating healers. By your own words, eight of them.”
+
+Lily doesn't even hesitate. She faces him with firm, dark eyes. “And I would do it again. For someone to abuse their healing abilities the way they did is beyond pathetic, and it was not something I could stand to watch. They were even developing something they nicknamed addictive healing, and yes, I destroyed everything I found regarding it.”
+
+For a while, they face each other until the Champion sighs and leans back to continue talking. “You killed these healers, but then attendee Tacita and her rifle rushed deeper into the caves, and the two of you followed her. All while attendee Nathaniel was trying to connect to one of his teleportation marks outside to get you out.”
+
+“I did,” I say. “But I was also curious about what was inside. You know the feeling of exploration you get walking through old ruins, maybe finding some hidden treasure, so I-” I stop myself as Zant squeezes my finger again.
+
+The man with the blazing eyes waits for me to continue, but I decide to stay quiet, so it is he who continues talking, “You also found out they were planning to poison me, gathering pristine grade materials and developing methods to escape detection. They had a vial of what would seem to be my blood, gathered from the site of my challenge against Champion Pelm, whom I fought thirty five years ago, to aid them. And they planned to use my taste for alchemical wines to get to me.”
+
+“Yes,” I confirm.
+
+“Then there were also vials containing an artificial plague they wanted to use to their advantage, one that only they would be able to remove. It was an idea they got from a certain powerful lurker on the first floor, whom they’d visited repeatedly to make use of his rare poison skill for the development of said plague.”
+
+“Yes,” I confirm once again.
+
+“There were also cells with people whom they were using for their experimentations and harvesting organs from, only to regenerate them, and repeat the process. And another set of cells with people possessed of fascinating traits, they kept trying to transplant those traits and then healed the subjects to allow them to try again,” the Champion says.
+
+“Yes, we brought those people back, and they surely confirmed it,” I reply.
+
+“They did, attendee Nathaniel. I am thankful to you and your party for saving all those people, and I will make sure you are rewarded for putting a stop to it. So, further down, you found a door with a sealed monster they’d been worshipping, do I have that right?” His eyes snap to mine, staring intently with his senses expanding around me.
+
+“It was quite scary, it was red, with big horns that I think it used as a mana battery,” I confirm. “It kept regenerating and had some sort of blood manipulation, it could even change its form a bit. It was trapped with a series of spikes that had been pierced through its flesh, and they kept draining its blood and drinking it or something. I wouldn’t say it was all that powerful, below Champion rank for sure, but it seemed to be special. The four of us killed it in the end.”
+
+His eyes widen, his pupils growing so large that I feel as if the entire world around me has disappeared. As he stares at me, I begin to feel lost in them, my mind wavering. His flame like hair blazes stronger, every strand rising high into the air.
+
+“Lord Champion...” Zant says politely. The pressure disappears instantly as the Champion leans back, before tilting toward me and continuing his stare.
+
+He taps quickly on the table, speaking rapidly. “You found an altar with a prophecy they also worshipped.”
+
+“Yes.”
+
+“You broke through the floor because you sensed something 'interesting' down there and found the one who had been the mastermind behind it all. A skeletal mora who had been mind controlling and influencing their whole organisation. And that guy started running the moment he saw your eyes, sensed your blood, and felt your, as you call it, black mana.”
+
+“He was quite weak.”
+
+“I don't think he was really that weak, Nat,” Lily interjects. “He just couldn't use his skills at all, so Taci and I had an easier time dealing with him, and I disintegrated him entirely.”
+
+The Champion is breathing heavily at this point. “And then you returned to the main chamber as the place started to explode, and thousands of monsters appeared from the walls, with the skeletal mora’s death, but attendee Nathaniel was finally able to get through the anti-teleportation arrays and escape. But before you left, you pushed out all your remaining mana to destroy the place behind you, and some part of that explosion destabilized your teleportation and passed through as well, destroying the healing guild's headquarters in the middle of my beautiful city.”
+
+“It wasn’t even that big of an explosion-”
+
+The Champion slams his desk with his fist. It cracks down the middle, vibrations spreading through the room and making everything rattle. Windows, my bones, metal, everything feels like it is about to break apart, but the man holds himself back just enough to keep the room standing.
+
+“How does any of this make sense!?” he shouts. “How is it possible that not one of you is lying in the slightest? Just how ridiculous is this! And I’ve been told you have what attendees have referred to as an emotionless face, so why the hell are you smirking? It pisses me off!”
+
+My hand shoots toward my face. I touch it, realizing I am truly wearing an almost imperceptible smile. I must be in a good mood after everything that happened in those evil caves and the adventure we went through. Quickly, I force my face back under control and stay quiet. I have a suspicion that silence is the right choice in front of this man.
+
+As if praising me, I feel Zant tap my leg a few times, and I feel a sudden urge to pull on his cheeks. Meanwhile, for some reason, the Champion seems even angrier than he was before.
+
+“Because of your help, I will overlook all that happened, partly because of my respect for Zant and the Great One he is connected to, but mess around in my city any further, and none of that will matter. Now, go before I change my mind,” he says, shooing us away.
+
+As ordered, we stand up and leave, stepping out onto the plateau at the edge of the mountain. From there, a set of winding stairs made of carved rock leads down the mountainside toward the city.
+
+The view is glorious, so I take the walk much slower than I probably should. It might also be because it’s pretty fun to watch Zant jump down stairs that are a bit too big for him, he occasionally lets out soft, squeak-like noises when a drop is steeper than the previous few. When I poke Lily, she starts secretly recording the tiny guy with her smartphone.
+
+We reach Duncan’s house a bit later. Everyone is already waiting there, and for some reason, Lochi is present as well. Yes, that Lochi, the young, black haired lynthari boy with two tails whom I met the first time I entered this city.
+
+"Greetings, Sir!" he calls out, approaching with a brisk energy. He stops before me and offers a firm, formal hand. "Truly, it is an honour to serve on an expedition of such high standing as yours."
+
+"What are you doing here?" I ask.
+
+"Wow, how rude! I’m Sir Duncan’s disciple, gaining experience to become a true guide... I mean, a truer guide!"
+
+"It’s fine, you already told me you were just posing as a guide before."
+
+"Oh, I did? Great! Did you know that I asked him to teach me because I heard you bring up his name the last time we met?" He laughs briefly.
+
+"What luck. But what about your parents? You know this can be dangerous, right?"
+
+"Of course, Sir! What do you take me for? But it’s just to the Lake City safe zone and back, and nothing bad could possibly happen with this many S ranks. By the way, Sir, isn't it a bit... much to hunt with so many S ranks? Oh, and my parents just divorced, and I need money to take care of my siblings if you could..."
+
+"He doesn't have any siblings," Weslin says, stepping closer and eyeing the shameless lynthari boy. "Duncan warned me about him. His parents are still together, too. He’s just trying to squeeze you for sympathy and shards."
+
+Lochi blinks. "M-maybe my parents were lying to me about having siblings? And t-they are still together? How great! Things must have changed without me knowing. Anyway, Sirs, I will go and quickly check if Master Duncan needs any help!"
+
+The boy quickly disappears while Weslin and I watch him retreat.
+
+"Zant already sent someone to explain what happened, but damn... really? Isn’t that just one of your cover-ups so you don't get blamed for blowing up a guild in the middle of the city?" Weslin whispers by my side.
+
+"There’s no way I’d do that, much less be smart enough to come up with a way to lie like that," I say, shaking my head.
+
+"If you say so, rookie. By the way, that Duncan guy is scary. I had a percentage in mind for his participation in this fishing trip, but somehow I found myself agreeing to twice that amount without knowing how. By the end, I even thought it was fair, and that we might be taking advantage of him."
+
+"That’s how he works," I agree. "But first, let's mess with the arm a bit more. Lily’s going to have to leave soon, and we want her to add some scary stuff to it."
+
+"I'm calling for Zant to keep an eye on it," Weslin adds, already looking for him. "We don't want it escaping into the city."
+
+"Yeah, let’s definitely do that."

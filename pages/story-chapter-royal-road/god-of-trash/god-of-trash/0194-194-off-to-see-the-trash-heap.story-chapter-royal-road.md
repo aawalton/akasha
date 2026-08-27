@@ -1,0 +1,65 @@
+---
+id: abf0e407-4f43-5c1d-aa98-abc2df2d7e1d
+page-type-slug: story-chapter-royal-road
+title: "194. Off to See the Trash Heap"
+slug: 0194-194-off-to-see-the-trash-heap
+partOf: god-of-trash
+position: 194
+ownLength: 1412
+unit: words
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2620915/194-off-to-see-the-trash-heap"
+royalRoadId: "2620915"
+---
+
+Rhys felt like a man finally facing his truth, as if he were achieving a great thing that he had desired after for a long time. In reality, he’d just forgotten about the trash dumps for a long time and gotten distracted by a lot of other very important work, and they’d ended up falling by the wayside while he worked on all the other higher-priority stuff. It was more akin to someone with a lot of projects continuously working on the most important stuff while the slightly less important projects languished, until the day finally came when the forgotten projects could languish no longer (aka: the deadline) and he had to hop to and actually work on those projects. It definitely wasn’t something he’d done, or rather, that he’d had to do repeatedly in his first life, definitely not. And just like in his first life (where it didn’t happen), the projects he’d pushed off were really fun ones he was looking forward to a little more than everything else, but which the more important projects had forced into the backline, whether he liked it or not. Not that it happened.
+
+But now! Now he was getting back on top of it. Now he was back in control of his destiny! From atop his destiny, he would ride it to his ultimate destination: the most delicious and dangerous trash heap of all time!
+
+You know, I never thought I’d think about that phrase as much as I ended up thinking about it, he thought to himself. The phrase ‘control of their destiny’ had been inescapable during his college years, blaring from every television screen in the dining hall, as the college sports talking heads discussed which college team would make it to the playoffs on their own merit, rather than by deliberation of the college sports court… or whatever it was that decided who made it into the college sports playoff when the team couldn’t make it into the playoffs based on their win-loss record alone. He didn’t really understand the intricacies of college sports, but he could certainly hear the phrase ‘x team wants to control their destiny’ fifty thousand times.
+
+He hadn’t thought about it much recently, but he had thought about it more than he’d wanted to admit back in his first life. Probably because he felt like he wasn’t in control of his destiny more often than the opposite.
+
+Luckily, it’s different here. Here, he definitely controlled his destiny. He controlled his destiny so much that he sometimes wished that he didn’t control his destiny quite as much, because being in such complete and total control of your destiny, it turned out, was a lot of responsibility when it wasn’t referring to ending up in the college football playoffs. But even so, it was way better controlling his destiny than slaving away at a shitty corporate job he hated, with no hope of escape or advancement. Responsibility was better than wanting to die every day, stuck in the rat race without an escape aside from actual death, and he hadn’t wanted to die that much.
+
+He didn’t want to risk his teleportation network, so he walked to the trash heap. Or rather, ran at mage speeds, which was akin to driving in a car, maximum-effort style. They moved as fast as, if not faster than, cars, but he did have to run. It didn’t really hurt or take much effort, like it had in his first life, thanks to his mage body and stamina, so it really did feel like driving in a car, except when he started dozing off, he might knock his head on a branch instead of drift out of the lane.
+
+The branch lost the battle. It wasn’t even a fight, to be completely honest. There was a crack, splinters dusted his shoulders, and when he looked back, there was a freshly-severed branch on the ground and the scent of pine sap on the air.
+
+He’d brought Mouse, for infiltration purposes, Sable, for combat, and he hadn’t brought Lira, but she was here anyways. He wasn’t going to protest her presence, since he needed her and Mouse to rank up, but he hadn’t sought her out for this quest, either, because it wasn’t like the garbage heap was particularly close to water. She’d simply materialized when he was heading out, and he hadn’t stopped her.
+
+He had, however, hesitated.
+
+“Where are the new workers? The new farmers,” he clarified, as if that specified any more than the first question had. He waved his hand and tried again. “The most recent criminal recruits.”
+
+Lira shrugged. “On their way. There’s some Tier 1s among them. They can keep them pointed the right way. And if they don’t, I’ll go put the fear of trash into them.”
+
+“Isn’t the phrase ‘fear of god?’” Rhys asked.
+
+“Yeah, but we’re not here to worship any gods,” she’d countered, and there wasn’t much he could say to that, except for a quiet yet in his heart.
+
+Rhys touched his chest. Hold on. Do I actually believe absolutexistance, somewhere deep down? Am I actually… trying to become a god?
+
+On one hand, the goal of every mage was to become a god. On the other hand, Rhys had, somewhere in the back of his mind, a long-settled doubt that such a thing was possible. After all, in his old world, people who claimed to have become god were insane, cult leaders, selling something, or really good parrot trainers who were trying to start a cult, only to get countered by even better parrot trainers. Becoming a god wasn’t possible. At best, it was a delusion, and at worst, it was a scam. Somewhere, in the back of his mind, he still thought of it that way.
+
+But in this world, everyone seemed to believe it was possible to actually become a god… or at least become so powerful as to be indistinguishable from an actual god. Whether or not Rhys believed in the deity part of deification, he certainly believed that mages could grow powerful enough to equate to gods, but even so, a tiny part of him had still been locked in his old worldview, unable to perceive himself as reaching godhood.
+
+And now… now, that seemed to be changing.
+
+He looked at his hands, then slowly closed them. Huh.
+
+“You okay over there?” Lira asked.
+
+“Yeah. I’m fine.”
+
+So, leaving the new recruits to finish their pilgrimage solo, she’d joined his attack-on-the-trash-heap group.
+
+It was a long trip to the trash heap, and honestly, Rhys kind of needed that. A break. A long jog with nothing to do but look at the trees and think. And not think difficult thoughts, just wander around and think things. It’d been so long since he’d had any time to just spend time on his own and not work toward some goal, whether it was the restaurants, the criminals, freeing people from camps, or other things, that it was almost confusing to be without such a driving goal. Sure, he was still heading to do a big attack on the Empire, but he knew nothing about the place he was going, or anything else, so there was nothing he could do but run there and spend time on himself. It was so relaxing that it almost put him to sleep, even when he was running.
+
+I didn’t know I needed time to myself this bad, he thought, dodging the trees as they raced through the forest. Then again, he wasn’t really surprised. He’d barely spoken to another living being in his first life, and he was speaking to humans and living beings nonstop over here. He was even dealing with complex human politics and layered behaviors, which were so far outside of his expertise that he was kind of amazed he was able to handle them with anything approaching grace. Not that he was bragging about his ability to handle things, not at all, and he failed to handle many things appropriately, but he had at least managed to handle them way better than average for him, and that was something he could be proud of.
+
+A quiet sound from beside him. He turned and found Mouse there.
+
+“We’re getting close. Be prepared,” she warned him.
+
+Rhys nodded. He took a deep breath and stored away his resting mind, putting on his fighting mind. It’s time to lock in again. Let’s go!

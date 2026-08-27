@@ -1,0 +1,281 @@
+---
+id: bb049f8e-824e-53dc-96d4-1cae78ad0570
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17"
+slug: 0017-chapter-17
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 17
+ownLength: 3792
+unit: words
+publishedAt: 2025-11-01
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2723503/chapter-17"
+royalRoadId: "2723503"
+---
+
+Chapter 17
+
+The lantern was somewhat heavy, pieces of glass set into a metal frame with no discernible way to open it. Veron assumed it was an enchanted item and as he checked it, he found a set of runes etched into the base. Touching them alone did nothing, so instead, he focused on it as if he would focus on the earth.
+
+It took a moment but he did feel a connection. Minor and barely perceivable but it was there. He felt his exhaustion momentarily pushed aside as he let his curiosity take over.
+
+The connection felt limited compared to his Harmonies. Granted, it was a lantern and still, he couldn't help but smile when he thought about the depth of his connection to the elements. He really was glad about his Path.
+
+Veron let his Focus roam within the device intuitively and found that he could make it brighter with his will. The action drained some of his remaining mana so he instead dimmed it and finally turned it off. He let go of the lantern and felt the connection vanish.
+
+Nice. Pretty useful stuff. And easy to use for anyone who can access their Focus. But how are they made and what kind of limitations do they have? Warren mentioned essence with the cooling effects at the inn, but I do wonder what kind of enchanted items people could make.
+
+He also asked himself how long an enchanted lantern could hold a charge of Focus and if there were mana batteries of any kind in this world.
+
+Lying with his back against Silvie’s, his thoughts soon moved to the background as he felt her warmth and her body. He felt a deep sigh escape him as the exhaustion came roaring back. He pulled his blankets closer and yawned, hearing the now soft rain pattering against the canvas above. Veron was glad the monsters hadn’t attacked the wagons or horses.
+
+No other monsters attacked them that night. Veron woke up when Hayden called out to them from outside. Silvie stirred next to him and grumbled something to herself.
+
+First night out as an adventurer and I'm still alive.
+
+He sat up slowly and rolled his shoulders, trying to get the stiffness out of his back. Veron felt better rested than he would have expected, likely due to the essence he had absorbed after the battle. He found some bruises but nothing that majorly bothered him.
+
+“Good morning,” he murmured as he went to open the canvas flap to let in some fresh air. He breathed in and smiled, feeling a cool breeze flowing in.
+
+Massive clouds dotted the sky, sunlight peeking in from between. It looked like this morning at least, there would be no rain.
+
+Back inside, he put on his armor and checked it for damage. The few slight scratches and cracks were fixed in moments. Generally, the structure had held, even when he had fallen. He would have liked to get it on the same way as last night but decided against it. If he always used his Focus, he assumed in time he would lose his muscle memory to fasten all the straps, and then if he had to get his armor on or off when his Focus was used up, he would have a problem.
+
+His Greyr cloak was torn in a few places and dirty. Something he would have to remedy when he got to a town. He still got it on.
+
+He stood in the mud outside a few minutes later and breathed in the fresh morning air. Everyone but Silvie and the mysterious stranger in the carriage was already getting things ready. They shared a quiet breakfast of oats and fruit some time later and then they were on their way again.
+
+Veron noticed that the atmosphere around the small campfire felt more comfortable and relaxed than last night. He wondered about it when they were driving again.
+
+Did me joining the crew stress them out more than the monster attack?
+
+He hadn't really thought about it but he supposed it wouldn't be too surprising. They were adventurers. Fighting monsters was likely something they did every other day. Taking on an untested and unknown party onto their journey on the other hand may not be a frequent thing.
+
+He looked up at the passing branches holding brown and yellow leaves, squinting his eyes against the sunlight filtering through. He looked at the carriage in front of him and relaxed in the box seat of his wagon. They've been doing it for a while too. I can only imagine they've picked up some shady or dangerous people in their time.
+
+Silvie had given him the reins and went to catch a bit more sleep. Veron smiled to himself. He supposed he was the new guy who had to prove himself and she was taking full advantage. Intern in another world.
+
+Leading the wagon over the barely visible dirt road, he had a few hours to process everything that had happened in the last night, and to think about the questions he wanted to ask, and how to ask them. It was nice, he found, same as at the farm, to be able to think and process things without all the distractions a modern life brought with it. He didn't have to mute or put away his smartphone, because he didn't have one. And same as in Anaville, he wasn't bombarded with commercials, traffic noise, and a ton of people.
+
+Granted, there was not a ton of excitement either but in the last few years, he had grown to value boredom as a time to recharge, process his emotions, and to let his creativity come out, to listen to and to feel what was within when all the outside noise and distractions were gone. He’d been better at it on some days than others.
+
+Veron wondered how big of a town Perrion was, and Anvakar. How loud it would be. He assumed there wouldn't be any cars but he couldn't exactly be sure either. Maybe there were other things, magical things.
+
+Soon, he felt his mind calm down and he was happy to see Silvie climb up on the box seat next to him.
+
+She yawned and smiled, looking out into the forest.
+
+“You look well rested,” he said.
+
+She gave him a look with raised eyebrows. “Yeah, I am. Thanks to you.” She stretched. “How about you? Sleep well, away from your comfortable bed?”
+
+“Mostly. The sudden monster attack had a bit of an impact, and lots of new things that made me think but other than that, pretty good all things considered.”
+
+“Yeah, I can imagine. Still remember my first night in the wilderness, and at least I was with the others. You held your own pretty well out there. I was worried you would freeze or run, I know the others did too. Always a gamble to pick up fresh meat.”
+
+“Fresh meat? Really?”
+
+She laughed. “Adventurers can be brash, didn't you know that? Would have thought the term silly before I first visited Anvakar. You'll see.”
+
+He caught a bit of dark humor from the tone and didn't ask further.
+
+“Hey, do you mind if I ask some basic questions? Ivera was pretty… let's say guarded about a lot of things.”
+
+“The one who took you in. I have been wondering about that, you're pretty old for someone just starting out as an adventurer.”
+
+He leaned back slightly. He didn't feel like she was being suspicious, just showing genuine interest. And he didn't want to lie to her, but he didn't think he had to. “Yeah, I was working on the farm and working in general, you know.” He paused and looked at the branches. “I guess it's easy to do what people expect of you. I think I always wanted to do something different, go on an adventure of sorts.”
+
+“Why didn’t you?”
+
+“I think I was scared, scared of doing the wrong thing or taking too many risks. Took a while for me to figure out that this was the path forward. And even then, it's not easy to leave everything else behind. Sometimes, I wish I would have done it sooner, but I now know that everything was part of the road that led me here today.”
+
+“I get you on some of that. My family wasn't thrilled with me going out there and fighting monsters. Honestly, I'm starting to understand why. In some ways I was the opposite of you, lots of education and a safe place to grow up in… sorry, I didn’t mean to offend you.”
+
+“It’s fine, go on.”
+
+“Right. You know, I thought it was all so boring and suffocating. All those lessons about trade, inscribing, even just tact and language. I was sick of it, wanted out, wanted to see some real danger and excitement.”
+
+“That makes a lot of sense. I take it you found it.”
+
+“Oh I did. We did. But yeah, I guess seeing so much of the world, so many people delving with the hopes of finding riches, gaining the strength or wealth to let them crawl out of whatever shit place they had found themselves in. I guess it made me understand how much I always had, how fortunate I was, and am. You know, any day I could stop, could go back home and take up work, and live a comfortable life. I think about it too sometimes.”
+
+“It sounds like you've learned a lot on your adventures then.”
+
+She smirked ever so slightly. “I suppose that's one way to look at it. I feel like a fool sometimes.”
+
+“I do believe that sometimes we have to go out there and find out through experience what we have, what we want, and even who we are. I think feeling like a fool is just the first step on the way to not being one.”
+
+She grunted, seemingly lost in thought. They were quiet for a little while until Veron spoke up again.
+
+“Speaking of being a fool, I thought people could only have one Path, but I think I saw you use blood magic last night? Or what was that spear you made?”
+
+“Oh dear, you really don't know a lot do you? You've never seen a relic in action?”
+
+He stayed quiet, waiting for her to continue.
+
+“I’m a Runic Path, which means relics come a bit more natural to me than to other paths. Makes sense when you think about how they're made.”
+
+He gave her the most clueless look he could manage. It wasn't particularly difficult.
+
+“Really? Well. When two people like each other very much...”
+
+“Go on.”
+
+“Kidding. It's just so crazy to me that you wouldn't know what a relic is. But then I guess a lot of people don't have access to education. You know how we extracted essence last night, into ourselves? Someone with the runic path and the school of extraction can channel some of that essence into a vessel instead. That vessel then is brought to someone with the school of infusion, and then a relic is made. There are quite a few more steps and craftspeople involved along the way but that's the basic idea.”
+
+Kind of like the lanterns then?
+
+“So, it's like an enchanted item? But instead of some magical effect like the lantern creating light, it lets you use magic from another path?”
+
+“Essentially but it's more limited, or well, more focused than one of your Harmonies for example. And it's nowhere near as easy as using an enchanted item, even though they’re made in a somewhat similar way. You have to connect with a relic, familiarize yourself with it, and train with it. The relic I have lets me create and shoot spears of blood but a blood path with the Ancestry of the Blood Element could do whatever they liked with their blood.”
+
+“So it's like one limited ability from another path?”
+
+“Yeah, or from your own. Non Runic Paths generally focus on their own path and relics from their own path because the conversion of Focus is worse the farther from your own path you go. We Runics have a bit of an advantage there. More slots to use relics too but I don't think you'll have to worry about that anytime soon.”
+
+Veron tried to understand. So essence could be put into some kind of vessel and then you could use that to cast magic from another path?
+
+“By conversion of focus, do you mean if I as an elemental path would use a blood path relic, it would take me more Focus than it would take for a blood path to use that same relic?”
+
+“Yes, exactly. It would also take you more than a Runic Path, seeing as blood is adjacent to both Runic and Elemental. Our conversion is better.”
+
+Veron remembered the circle that Ian had drawn, showing him the six Paths. He had mostly shelved the knowledge when he had learned that he himself would only ever have one Path. But now, learning about relics opened up a whole lot more thoughts and possibilities. He could use other magic, he'd just have to find or acquire relics to do so, and it would cost him more Focus to cast which did put into question how useful they would be to him in the future.
+
+And how would it feel? I love my Harmonies. I can’t imagine using blood magic. And yet… I do kind of want to try.
+
+“I take it they're pretty expensive?”
+
+Silvie laughed. “Yes, absurdly expensive. Most of the adventuring business, and to be frank, a big chunk of all other business is focused on the trade and creation of relics and enchanted goods. And of course on extracting and trading essence.”
+
+Which means the essence in monsters and animals isn't just a means to get stronger in your own magic but a big way to make money too. Yeah, no wonder new adventurers are willing to risk their lives to delve into dungeons.
+
+“So for me, the best relics would be elemental, blood, and chaos?”
+
+“Yeah, except that chaos essence cannot be extracted.”
+
+“So there are no chaos relics?”
+
+“None can be made with the traditional methods, but that doesn't mean there aren't any. If you ever come across a chaos relic, I advise you, like any sane person would, not to use it. It's just not something you want to mess with.”
+
+“Why?”
+
+“Because it's going to fuck you up.”
+
+Well.
+
+I see.
+
+Hmm.
+
+I’ll think about it if I ever find one.
+
+“So, if you can't make chaos relics, how do they come to be?”
+
+“Well, there's the whole industry of relic creation, and then there's the more gradual infusion of essence into tools we use day by day. A soldier fighting with the same spear or sword for years and decades may one day find that their trusted tool has taken on some of their capabilities and magic. The same is true for any item, be it clothing, weapons, tools for smithing or cooking, given enough time and care, they will turn into relics. Those are usually sold, as the wielder already knows how to use whatever abilities are infused in time with their own Path. Sometimes they become family heirlooms but the same could be said about any relics. You should get your first relic slot when your Path reaches the Modest stage. Don't suppose the kills from last night were enough?”
+
+“No change in my Path, no.”
+
+Relic slots. A limited amount. So I can’t just deck myself out with a dozen relics.
+
+Veron was quiet for a while, digesting the new information. Considering his low level and the fact that relics would be less efficient to use Focus wise, he didn't think they would be relevant to him for a long time. And still, of course, he couldn't help but wonder what was possible in the future. Another reason to advance his Path and get more Focus, and more relic slots. And more money. But he would focus on his own magic first.
+
+He asked a few more questions in the afternoon that he had wondered about. And Silvie was more than happy to answer them.
+
+The spell that Reka had used to protect their camp was of the Runic Path, and the School of Trapping. She had to scratch runes into the environment and infuse them with her Focus. They burst once the spell and the infused Focus was used up, which is why she had to carve out new runes after the fight.
+
+The wolves that Silvie had created came from the School of Summoning, one of her inherent aspects and not an ability from a relic as he had guessed.
+
+The last thing Veron wanted to know about had to do with the Engur they had fought.
+
+“You must have felt terrified. Yeah, chaos beasts thrive on fear and anger. And they can cause it too. I'm not sure how much of it is magical to be honest. Hayden's devotion magic helps us deal with it. Always a massive boon, and honestly a requirement to have someone with the Way of the Healer or something similar in your group.”
+
+He didn’t fight like a healer.
+
+But maybe I’m being ignorant.
+
+Silvie took the reins soon after, and Veron had the chance to nap in the back of the wagon. The rocking made it difficult but he did eventually fall asleep, using all four blankets for cushioning.
+
+He woke up again when Silvie called out to the horses to stop. It was already getting dark outside and so once again, they made camp. Veron helped set up the fire while Hayden tended to the horses and Reka set up her trapping spell.
+
+It already felt like a bit of a routine and in no time, they were sitting around their campfire with Silvie cooking, everyone relaxing near the warmth.
+
+“Veron, do you feel comfortable taking the first shift tonight?” Reka asked after some comfortable silence. “You just have to stay awake and alert. Call out if any monsters try to get through the defensive wards.”
+
+“Sure, I can do that. Around two hours?”
+
+“Yeah. You can take the first shift, and tomorrow we rotate.”
+
+“Sounds good. I appreciate the trust,” he said.
+
+She met his eyes and smiled ever so slightly.
+
+He glanced around at the group. “Are we expecting another attack tonight?”
+
+Hayden chuckled. “A few fewer chaos beasts in the area would be good for everyone.”
+
+“We'll have enough beasts to fight in Anvakar,” Reka said.
+
+Silvie gave Veron a glance and smiled.
+
+“Heard a White Beak today,” Hayden said.
+
+“Are you sure this time?” Silvie asked.
+
+“I was sure last time too.”
+
+“What's a White Beak? Another chaos beast?” Veron asked.
+
+“No. The White Beak is one of your elemental kind. If you ever see lightning without the corresponding cloud, chances are one is in the area,” Silvie said.
+
+“And you better make a run for it by then,” Reka said.
+
+Silvie laughed.
+
+“It's not funny. It's never been funny,” Reka said but the slight smile on her face betrayed her feelings.
+
+“It's a little funny,” Hayden said.
+
+“You lot came across a White Beak?” Reymond asked. The older merchant looked intrigued more than surprised.
+
+“Obviously we didn't fight it.” Reka glanced around at the others and then sighed, as if resigned to being the storyteller. “We were on our way back to Leiveen from Yora, from a quest to protect a relic merchant looking to start a business in the trade city. Well paid, easy work. It was summer, first year of our adventuring crew,” Reka started. “We had recently fought some low level chaos beasts and felt pretty invincible.”
+
+“Kraan Drakes,” Silvie supplied.
+
+“Just hatchlings,” Hayden said. “And I didn’t feel invincible.”
+
+“I did,” Reka said.
+
+“I still don’t get why we call them hatchlings,” Silvie said. “They don’t hatch from eggs.”
+
+“None that you’ve seen,” Hayden said.
+
+“They don’t hatch,” Reymond said. “But they’re similar to other beasts that do. It happens when adventurers get to name things. It’s distinctive either way, I suppose. You were on your way back?”
+
+“Yes. As I was saying, we... I was feeling invincible. And I had a well established and experienced Iron crew at my back. We didn't even have anything to protect anymore either, so maybe we took a bit of a risk and took the Hammer pass through the Hiras.”
+
+Reymond exhaled. “Of course.”
+
+“We had barely reached the mountains when we came across a carcass. In the middle of the road, and feasting on it was nothing other than a White Beak. I'll tell you, the books lied about its size. The thing was at least as large as Hayden. It’s beak was red from the blood. I still remember freezing in front of it with my hand on the pommel of my sword, adventuring spirit and enthusiasm dried up in my throat as it glanced my way.”
+
+“We were lucky it already had lunch,” Hayden said.
+
+“At least we remembered to make a slow retreat. Slow and dignified,” Reka said and nodded to herself.
+
+“Until we hit the tree line. I swear I fell three times as we ran down that hill,” Silvie said.
+
+“I think we ran all the way to Leiveen,” Hayden added with a thoughtful note.
+
+They exchanged glances and smiled, then were quiet for a little while.
+
+“Took a while to realize how close we really got to death on that day,” Reka said.
+
+“Way to kill the story. It was funny, and we learned a good lesson,” Silvie said. “Food’s ready.”
+
+Veron gladly received a portion of the vegetable stew. It was warm and spiced with fresh herbs someone must’ve picked up recently. A light flavor, a bit bland but he didn’t mind.
+
+Reka and Hayden told another story from an expedition they’d been a part of a few years back but they weren’t exactly agreeing on all the details, Hayden adding single word corrections here and there.
+
+Veron smiled and listened, sitting next to their campfire with warm food in his stomach. He was glad that it wasn’t raining.
+
+Before long, Hayden got a lute-like instrument from their wagon and started playing a calm tune. He ignored the requests from the others to sing or to play something more cheerful.
+
+Veron gave him a glance and then lay down on the wild grass, looking up at the stars and distant nebulas. The moon was bright, and tonight, he would take first shift. His first night shift as an adventurer.

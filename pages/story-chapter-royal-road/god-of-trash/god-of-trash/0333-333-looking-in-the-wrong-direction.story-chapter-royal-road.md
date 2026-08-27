@@ -1,0 +1,143 @@
+---
+id: edcb84be-9801-5129-b6eb-89ef122add74
+page-type-slug: story-chapter-royal-road
+title: "333. Looking in the Wrong Direction"
+slug: 0333-333-looking-in-the-wrong-direction
+partOf: god-of-trash
+position: 333
+ownLength: 1848
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3641617/333-looking-in-the-wrong-direction"
+royalRoadId: "3641617"
+---
+
+Figures plunged into the water, sinking toward the palace. Without hesitation, the servants rose to fight them, leaping from their spots all around the palace to meet the would-be intruders. Ryota, having drawn his sword and shouted a battle cry, swept his sword around him. Golden afterimages floated in the air, then solidified into gold sword projections. He swept his sword again, and the projections flew off, rushing to meet the attackers.
+
+Rhys pursed his lips and nodded in approval. Ryota was afraid to fight back in close combat because it might trigger his berserk state. In that case, why not fight from afar instead? There was no risk of going berserk if he wasn’t engaged in close combat… or at least less risk. Rhys didn’t know the exact mechanics of Ryota’s berserk state, but he understood what Ryota was doing here, and he approved thoroughly.
+
+It could be seen as a coward’s move, but to him, it was just the intelligent decision. If one method of fighting wasn’t working out, why not try another? It wasn’t like fighting mano-a-mano was the only option in this world. To the contrary! There were a near infinite set of options for fighting.
+
+Then again, he was well aware that this was the ‘trashy’ way out. Ryota wasn’t facing his fears or handling his problems, he was just pushing them into a corner and pretending they didn’t exist. He was happy to see someone else picking the trash path, but he didn’t know if it would be good for Ryota’s future growth.
+
+Eh. Tomorrow’s problems are tomorrow’s problems! We can tackle them later. Procrastinate and do just well enough to get by today, and surely you won’t get hammered with inescapable technical debt later! Ha… haha. I’m not crying, you are.
+
+He’d gotten out from under his debt by transmigrating, but he wasn’t sure Ryota could do the same. Or rather, he was pretty sure transmigration wasn’t an option for most people. He hadn’t even known it was an option for himself. Eventually, the prince would have to face the music. But for now, this was good enough.
+
+Rhys didn’t immediately engage the enemy. This wasn’t his battle, or rather, he was fighting a different war. The enemy’s objective was to capture, kill, or corner Aran as a means to force Ryota to fight to the death. His objective was to keep Ryota alive. He liked Aran, but if he had to sacrifice something to keep Ryota alive, he was fine with sacrificing Aran. Ideally, everyone left here alive, but if he had to pick, he’d get Ryota’s ass out of here and leave everyone else out high and dry.
+
+I’ll definitely have to trash-situation-manipulate that one afterwards, but at least I have the mana for it.
+
+A familiar mana signature made its languid way to a window, and Lira peered out at the commotion. Rhys waved at her, and she hopped out, extending her water-umbrella and drifting down to him Marry Poppins style.
+
+“What’s going on?” she asked, folding her umbrella and vanishing it into a storage pouch. She evidently didn’t need it down here, which was no surprise when Rhys half-drowned with every breath.
+
+“Your half-brother’s getting attacked because the Fifteenth Prince wants Ryota dead.”
+
+“Why not just attack Ryota?” she asked, frowning.
+
+“It’s complicated, but in short, Ryota’s good at running and I might’ve-sorta thrashed Fifteenth’s men a few times by accident. Anyways, do you want to stand and fight or get out of here? I have an… ‘inner world’ I can send you to.”
+
+“I could use some exercise, but come and get me if things get close.” She glanced at Rhys. “Speaking of, couldn’t you vanish all of us to that inner world?”
+
+Rhys grimaced. “Look… the island is my last resort. My stronghold. If too many people learn I have it and know how I get there, it becomes a public rest stop instead of my fortress, you know? It will lose all meaning as a place of retreat and escape.”
+
+He expected to have to put up a big argument, but to his surprise, she nodded, easily accepting it. “You’re right. A mage always has to put themselves first, or they’ll wind up dead. I suppose I get preference because I’m a friend?”
+
+“Basically.” Of everyone here, she had the least call to try and kill him. He’d known her for the longest, and she was the most ‘known element’ of everyone here. He’d just met Aran and knew nothing except that the guy had bad taste in men, and he’d given Ryota plenty of reason to start secretly building hatred against him. He wouldn’t be shocked by a sudden but inevitable betrayal from Ryota’s direction.
+
+She was taking it shockingly well, but then… she had abandoned him and the entire Alliance when the going got a tiny bit tough. Now that I’m thinking about it, of all my friends, Lira’s the first one to put number one first. He considered for a second, then shrugged. It was nice that one of his friends was selfish enough to put self-preservation first. Meant he could trust her to take care of herself, instead of having to make sure she wasn’t off putting her life at risk on some hair-brained attempt to help someone else.
+
+He paused, then scanned her closely twice, with his mana senses and his trash senses. She noticed and cocked a brow his direction.
+
+“Sorry. You were recently replaced by an imposter. I had to check.”
+
+“Oh, there was a fake Lira back home? Did she look just like me?”
+
+“Exactly. A shapeshifter too, if I had to guess.”
+
+“Is she still alive? I’d like to meet her,” Lira said. Her expression remained perfectly placid, but there was suddenly a predatory gleam to her eyes.
+
+“Uh… I don’t remember. No, wait, I think I killed her. No, sorry. Dead.”
+
+She gave him a look. “Forgot you killed her?”
+
+“Look, I was doing a lot of killing there at the end. It all kind of blurs together after a while.”
+
+Lira chuckled. “You’d make a good water sprite.”
+
+He cut her a look. “I didn’t eat any of them.”
+
+“And more’s the pity.”
+
+The servants battled the incomers back, keeping them handily on the far side of the barrier, and Ryota continued to fire sword projections up at the attackers with warrior-like roars. Lira, Rhys, and Aran all stood around and watched, treating it as a kind of fireworks show. Abruptly, Rhys looked at Lira.
+
+“Aran, does he—”
+
+“Most half-breeds do not partake of the succulence of human flesh, no.”
+
+“I am half man,” Aran offered, interjecting into their conversation for the first time.
+
+“Sorry. I just… I’ve been very rude to you, haven’t I?”
+
+“You have, yes.” He paused. “It’s fine.”
+
+Lira snorted. “You can’t let it go just because he’s handsome, little brother. That’s when you need to ream him harder. Handsome men need to be told they’re worthless more than anyone else on the face of the earth.”
+
+“Very true,” Rhys agreed.
+
+Aran laughed. “It really is fine, though. I’m so used to everyone acting like I’m some glass figure, always on tenterhooks around me. It’s refreshing to have someone speak so plainly.”
+
+Lira leaned in. “And he thinks you’re hot, or you’d be getting it, trust you me.”
+
+“Sister.”
+
+“Brother. I’m already disowned. You can’t threaten me.”
+
+“I can kick you out.”
+
+“You know you won’t. Who else is going to make catty comments about your taste in men?”
+
+The two of them shared a glare, then both burst out laughing. Rhys shook his head, but couldn’t help grinning at the siblings’ antics. He hadn’t expected the exiled, disowned Lira to have a good relationship with her prince half-brother, but here they were. He nodded at her. “How did you end up exiled, anyways?”
+
+“I thought you’d never ask. No, really. I thought you weren’t going to ask,” Lira said, giving him a look.
+
+“Well… I figure we know each other well enough by now, right?”
+
+She snorted. “I’ll tell you after the fight, if we’re all still alive.”
+
+“We’ll survive,” Rhys said.
+
+“All of us,” Lira emphasized.
+
+He cut her a look. She cut one back at him, lifting a brow for emphasis.
+
+Shaking his head, Rhys turned away. She’d seen through him, huh? He couldn’t be too surprised. They’d known each other for some time now. She knew his scheming, trashy ways. She knew he’d already de-prioritized Aran. But, very obviously, she loved her brother. She wasn’t going to stand for his bullshit this time. “Understood.”
+
+“Then?”
+
+Rhys looked up at the interlopers and sighed. “I mean, the servants have things under control. I don’t want to escalate things before I have to.”
+
+“They’re going to send stronger warriors.”
+
+“I know, but, you know. Rules of engagement and all that. We don’t start slaughtering the little guys until they send the big guys in. Then we have free rein to slaughter whoever we like, but not until then.”
+
+Lira squinted at him.
+
+He shrugged at her. “I don’t make the rules, I just obey them.”
+
+“You literally made them up right now.”
+
+“Uh-uh. Those are time-honored rules right there, okay? Time-honored, since the early days of xianxia and shounen manga!”
+
+“You just don’t want to fight.”
+
+“I’m letting the juniors, also known as Ryota, get some fighting in. He needs to learn somewhere. If I jumped in, he wouldn’t learn anything! It’s training, training!”
+
+She gave him a look that said she wasn’t totally convinced, but she didn’t charge into battle either, so Rhys felt justified in hanging back. In reality, he was waiting for them to send the big guys out. Not because of the ‘rules of engagement,’ but because these guys were truly just chaff. The enemy was using them to feel out the power level of the people in Aran’s (or rather, Ryota’s) camp. If he attacked now, they’d know what they were facing, and either retreat to get backup or call in their specialists.
+
+It was only once they went all in on the battlefield and pulled their experts into the fray that he could freely join. By then, the enemy would be fully committed, and even if they held back a strategist to notice and try to counteract Rhys, the chances that the enemy commander (aka Fifteenth) would be thinking straight enough to listen to his suggestions (assuming such a person existed) would be much lower. It wasn’t the finest strategy in the world, but Rhys wasn’t the finest strategic mind. He was doing his best out here, and that was all he could say.
+
+As for Ryota blowing his metaphorical load on the chaff… well, Ryota was kind of chaff-tier right now. He’d never seriously engaged in battle his entire life. Using this to get battlefront experience was already a vast improvement over his previous battle-less self.
+
+And so, Rhys sat back, folding his arms, and watched the flow of battle. This was not the time to jump in. Not yet.

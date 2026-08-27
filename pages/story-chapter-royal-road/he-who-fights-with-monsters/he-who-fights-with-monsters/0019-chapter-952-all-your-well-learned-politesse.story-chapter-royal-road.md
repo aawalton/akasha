@@ -1,0 +1,181 @@
+---
+id: f65caf6d-a10b-5a54-a724-f7cde3273ff4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 952: All Your Well-Learned Politesse"
+slug: 0019-chapter-952-all-your-well-learned-politesse
+partOf: he-who-fights-with-monsters
+position: 19
+ownLength: 2142
+unit: words
+ownProgress: 2142
+publishedAt: 2025-01-20
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2020955/chapter-952-all-your-well-learned-politesse"
+royalRoadId: "2020955"
+markedReadAt: "2026-06-29T19:04:26.320Z"
+---
+
+The new and extremely popular new member of the Asano family was looking rather shell-shocked. Jason extracted Nik from the clutches of Hana and Jace, taking him to a quiet corner of the balcony.
+
+“Well?”
+
+“It’s… I don’t know. It’s a lot.”
+
+“I know. You shouldn’t expect to just wander in and have some inherent connection to everyone. Get to know them. Let them get to know you, once they’re past the cuteness that makes everyone want to hug you and put you in a series of adorable costumes.”
+
+“What?”
+
+“Nothing.”
+
+“Dad…”
+
+“What?” Jason asked with unconvincing innocence.
+
+“Have you come into possession of a series of novelty hats?”
+
+“I have no idea what you’re talking about. It’s about time I brought the team in to introduce them to everyone. That should take the pressure off you a little.”
+
+“You may wish to hold off on that, Mr Asano,” Shade said from Jason’s shadow. “The Australians have finally noticed their missing officials.”
+
+***
+
+“This is so good,” Josh mumbled around a spoonful of gelato.
+
+He was standing outside the gelato shop with Sue, Solomon and the Concierge.
+
+“It is quite palatable,” Solomon was forced to concede.
+
+“It just occurred to me,” Sue said, “that we didn’t tell anyone where we went. Asano just kind of swept in and it all got strange from there. You don’t think that’s going to cause any problems, do you?
+
+***
+
+In the offices of the Department of Prime Minister & Cabinet was a conference room. The three government officials meant to be in that room were not, the open portal at one end of the room the obvious reason for their absence. If the trio had been having a more normal day, the kind that didn’t involve visiting an alien world in an alternate reality with a wizard, they might have done things differently. Told someone where they were going, for example, or running for the hills. Some days, however, are just so out of the norm that you end up going with the flow, only to later wonder what you were thinking.
+
+The security force currently crammed into the conference room were already wondering what the trio had been thinking. A full squad of silver-rankers had been deployed, all equipped with magically enhanced tactical armour and firearms. They waited on a gold-ranker to portal in from the artefact city and lead them through.
+
+What they found on the other side was a warehouse-scale space, with floor, ceiling and three of the walls made of unadorned metal panels. The last wall was a single, humungous pane of glass, looking out onto a planet.
+
+“Are we in orbit?” asked Garnett, the squad’s silver-rank leader.
+
+“Not just orbit,” said Lu, a gold ranker liaising from the Chinese government. “That isn’t Earth.”
+
+Garnett looked again and saw that Lu was right. The planet did look like their big blue marble, but the continents were wrong.
+
+“Where the hell are we?” he asked. “Some kind of space station? A spaceship? We have gravity. Is it from rotation, magic or some kind of alien science?”
+
+“Figuring that out is why we’re here,” Lu said. “Where we are, and what Asano did to our people.”
+
+He turned from the window to give the room a more thorough examination. The panels making up the walls were large, each several metres across. There were doors in each of the non-window walls, including one set that were warehouse-sized, large enough to let massive freight pass through.
+
+“Some kind of warehouse?” he postulated. “A loading bay?”
+
+“Maybe a security room?” Garnett suggested. “There could be recessed weapons behind some of these panels.”
+
+“I was tempted,” Jason said, and the squad wheeled to level their guns at him. He was standing in the middle of the room, dressed like a tourist with his hands in his pockets. He looked at the guns with a sigh.
+
+“Really?” he asked. “Have you guys not seen a movie? When one guy is standing casually while a bunch of SWAT-looking guys point guns at him, those guns definitely aren’t going to work. Look, let’s just skip ahead. You blokes shoot me and we’ll see how it goes.”
+
+“Hold your fire,” Garnett ordered his squad. He glanced at Lu, the only one of them without tactical gear or a gun. He was wearing plain black fatigues that looked simple but had more powerful magic flowing through them than the tactical gear.
+
+“Asano, where are we?” Garnett asked.
+
+“On a space station in my personal universe.”
+
+“Your personal universe?”
+
+“Yeah. I don’t have time to go into the details, but it’s very small, by universe standards. Just the one solar system. That’s the main planet out there, smack bang in the goldilocks zone. Some of the others are habitable, if a little more exotic. I had to do some odd things to make that work, depending on their distance from the sun.”
+
+“You say that we’re on a space station, in some private universe,” Garnett said. “Even with magic, it seems a lot more likely that it’s all a ruse. The air and gravity feel like we’re in a room on Earth, not in orbit around it. For all I know, that window is just a high-definition screen and that portal brought us to a warehouse in the middle of Geelong.”
+
+Jason blinked surprise, then erupted into laughter.
+
+“Oh, I totally wish I’d done that, now. I like you, Mr Garnett, so I’m not going to be to harsh on you and your lads.”
+
+“We’re well versed in your methodology, Mr Asano,” Lu said. “You like to use absurdity to confuse and distract. That will not work here.”
+
+The grin that crossed Jason’s face would have put the Chesire Cat to shame.
+
+“Funny you should say that. In your world, you’d probably be right. But this is my world, Mr Lu, and you have no concept of how absurd it can get. Gentlemen, I told you to shoot me.”
+
+Every finger resting on a trigger squeezed, sending a single bullet shooting out of each gun. The bullets stopped in the air, then each one floated into front of the person that fired it, hovering in front of their head. The bullets grew cartoon faces and started yelling.
+
+“Were you even listening, idiot? Do you realise how expensive we are, and you’re just flinging us at some guy who turned us into cartoon characters! We’re going back in our guns now, and nobody better fire any more of us until you’re back where you belong.”
+
+The bullets then returned to the barrels, some of them growing arms to flip off their shooters on the way. For a long moment, everyone was frozen. Then one of the security personnel threw their gun away as if it had tried to bite him. That triggered reactions from the others, staring at their guns or likewise tossing them to the ground. One actually looked down the barrel of his loaded firearm, getting him yelled at by Garnett. Only the unarmed Lu was unflinching, his expression calm and his eyes locked on Jason.
+
+“Your universe,” Lu said.
+
+“Yep.”
+
+“You’re powerful, here. Controlling our perception of reality.”
+
+“I could, yeah, but it’s easier to just change reality. The only things not mine to command in this place are your souls. As for your bodies, I could turn them into pots of water and cook lobsters in you.”
+
+“You claim to be a god?”
+
+Jason’s chuckle sounded every bit like light-hearted amusement, yet every other person in the room felt a chill run down their spine. The security team, still looking shell-shocked, snapped their attention onto Jason.
+
+“I’m nothing so limited as a god, Mr Lu, but you can consider me such, if it helps. I understand the challenge of coming to grips with power on a scale beyond anything you considered possible. I once perceived the entirety of the cosmos. It was for an infinitesimally small time, beyond the ability to measure, yet even with the power I have in this place, just the revelation of it almost destroyed me.”
+
+He smiled at Lu.
+
+“Even now, you doubt me,” Jason continued. “Perhaps it’s all an illusion. Maybe we really are in a warehouse in Geelong. Mr Lu, in your world, I’m just a gold ranker, not unlike yourself. A powerful one, with powerful friends. But in this place, everything answers to me. Even physics.”
+
+“So you say.”
+
+“What do you want to see, Mr Lu? To feel? To be? What will it take to convince you? You want me to turn off the sun? I’ll have to warn the people on the planet, so they don’t start a religion or something, but I can do that.”
+
+“Why do you even want to convince me? What do you get out of it? If you have this kind of power, what can I possibly offer you?”
+
+“If I convince you, you’ll convince at least some of the leaders of Earth. Some won’t listen, of course, but you’re a man of influence. Of power.”
+
+“That’s a laughable assertion in this place.”
+
+“But you won’t be in this place. Hopefully helping world leaders understand what I have here. Because, if they do, they’ll understand why I have no ambitions on displacing them.”
+
+He gestured at the window.
+
+“What would be the point of seeking power on Earth when I have this?”
+
+“To some people,” Lu said, “it doesn’t matter what they have, or how much of it. They always want the next thing, If only because someone else has it already.”
+
+Jason sighed and nodded his acknowledgement.
+
+“I can’t argue with that, Mr Lu.”
+
+Lu turned to look at the planet through the window.
+
+“Is this where it leads?” he asked. “This path of magic? Is there no limit?”
+
+“I don’t know. The cosmos is vast beyond what any mortal mind can encapsulate, believe me. Most immortal minds as well. I’m not sure if a true limit to someone’s potential exists, but we each have our own roadblocks. For you, the monster cores you used to get to gold rank make you unlikely to go further. But nothing is impossible.”
+
+The stoic Lu’s shoulders slumped.
+
+“It’s easy to feel large, when you have power,” he said. “The truth is, I’m so very small, aren’t I?”
+
+“We all are,” Jason said. “I have my own universe and I’ve sat on the throne of creation, yet I’m nothing but a speck. But that’s part of why it’s all so amazing. No matter how far you go, there’s always a new horizon. I don’t know if the people of Earth realise this, Mr Lu, but I’m immortal. Properly immortal. If you kill this gold-rank body, I’ll just make another, right here. I’m going to live forever, but I’ll never run out of hills to climb. Don’t think of yourself as small, Mr Lu. Think about the cosmos as a place of infinite potential.”
+
+“Perhaps for the younger generation. Those that did not use monster cores to raise themselves.”
+
+“That’s a tough one, I’ll grant you. But as I said, nothing is impossible. Right now, there’s a war going on in the other world. It’s over a relic that I’m told can, amongst many other things, purge the residual monster cores from people. Give them a fresh chance to advance. I’m not saying that you or I will ever get our hands on this relic, but my experience is that’s nothing is truly impossible. Just very, very infeasible.”
+
+Lu walked over to the giant window, past the security squad who were watching their discussion with uncertainty. The gold ranker looked out at the planet below.
+
+“You’re not lying, are you?” he asked softly. “About this place. The power you hold here.”
+
+Jason walked over to stand beside him.
+
+“No,” he said softly.
+
+“Even if the cosmos is vast, we must seem so small to you.”
+
+“Every seed is small, Mr Lu. That doesn’t mean it can’t become a mighty tree. I wasn’t going to talk about this yet, but one of my intentions in returning to Earth is to help it on the path forward. To prepare it for when other worlds come calling. I won’t lie, Mr Lu; the old guard, like you, have probably gone as far as you ever will. But some of those you will guide and teach will roam stars beyond stars. See wonders that even I have yet to encounter. You’re not the future, I’m sorry to say, but you are going to help build it.”
+
+Lu looked from the planet to Jason and back to the planet.
+
+“Can I go there? See it for myself?”
+
+“Oh, absolutely. Your people are getting some gelato right now, we should get in on that.”
+
+“Did you just say gelato?”
+
+“Well, it’s not technically gelato.”

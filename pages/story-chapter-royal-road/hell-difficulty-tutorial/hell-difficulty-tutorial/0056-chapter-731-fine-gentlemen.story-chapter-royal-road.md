@@ -1,0 +1,131 @@
+---
+id: c8f05e42-33a8-5d0f-a3e2-b151aeb987a3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 731 - Fine gentlemen"
+slug: 0056-chapter-731-fine-gentlemen
+partOf: hell-difficulty-tutorial
+position: 56
+ownLength: 2195
+unit: words
+publishedAt: 2026-01-18
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2956085/chapter-731-fine-gentlemen"
+royalRoadId: "2956085"
+---
+
+The place around us starts to fall apart as I expand the field with kinetic energy and hold it steady. All the debris, even the dust, freezes in the air, but there’s one thing I can’t stop from moving.
+
+Even through all of this, Morwag climbs his way out from behind the wall I sent him through. Cracks spread around him as more debris rains down, but then even that stops, freezing in midair.
+
+That same maniacal smirk crawls back onto his face, and for the first time, there’s a wound on him. It’s barely a fingernail-length scratch on his chest, and from it, a single droplet of deep red blood flows down.
+
+Morwag looks straight at me, picks up the droplet on the tip of his finger. His movements push through my kinetic hold by raw force alone, and he licks the blood from the tip of his finger.
+
+An insane amount of absorbed kinetic energy fills me, feeding into what I’m already channeling. Morwag doesn’t say a word as he charges at me again.
+
+And I do exactly the same thing. I seize the massive amount of mana building inside me and release it in a concentrated blast aimed right at him.
+
+This time, he tries to hold himself in place, binding himself to the floor, but everything around him shatters in the explosion, and he still goes shooting into the wall. The shockwaves rebound through the space, bursting my eardrums and deafening me once more.
+
+Once again, I watch as he climbs out of the destruction, this time opening his mouth to speak.
+
+I do the same thing again and send him flying in another blast of released mana.
+
+Right after that, the second seal on my Ignition Heart unseals fully, and I start converting all the stored thermal energy into mana, using it without hesitation. My Mana Wave Predation grows stronger the longer it lasts, syncing perfectly with my eyes as I launch attack after attack at him, striking at the places I can sense his body moving, hidden inside the storm of the explosions.
+
+I fire [Empyrean Lance]. I manifest powerful projectiles that tear through the air with booming waves of thunder. I shape orbs charged with thermal and kinetic energy. I weave arrows from Ley Lines.
+
+A constant barrage of attacks rips the whole place apart, and I get to see just how many of them dissolve before reaching him. Threads of mana unravel, energy collapses into glittering particles that drift through the air around us.
+
+After a while, I stop and watch him climb out again. He tries to move fast, but my [Redistribution] slows him down. I’ve seen his bursts of speed before and can’t let him use it again. I can’t stop him completely, but I do slow him enough to cut his momentum short.
+
+“Are you getting tired?” Morwag smiles at me.
+
+There are a few more scratches on his body now, but after a barrage that could have erased several city blocks, he still stands there looking virtually untouched.
+
+“Tired,” I say, tasting the word, letting it hang in the air for a moment. “No, I don’t think I am.”
+
+As I speak, I gather even more mana. Unlike before, when I had to channel everything just to break the Champion’s barrier, now I’m free to rely on my own reserves and what I can draw in myself. There’s no Sword of Aeons and no people to protect. It’s only my life on the line.
+
+Pushing through my [Redistribution], Morwag reaches me at high speed, tanking the attacks I throw his way and unbinding them into clouds of loose mana. Just as he appears in front of me, I bury my feet into the ground, mana blazing through my body, all of it focused on raw body strengthening, and I punch the demon straight on.
+
+His fist meets my reinforced body, and my chest caves in as I’m flung back, but not before I see my own fist slam into his face, and then bursting into a mist of bone, blood, and flesh. My hand explodes from the impact, unable to handle the energy coursing through it.
+
+For a second, it feels like slow motion as I watch Morwag’s cheek ripple under the strike and his head snap backward. Unlike me, he only staggers a few steps while I find myself being thrown across the chamber, but I don’t fly as far as I should. I absorb the momentum midair and land softly, immediately boosting my body with kinetic energy and reaching Morwag again. He snaps his head back down and draws his arm to throw another punch.
+
+I hit him again, using my other arm, slamming my fist into his face with the same result, and his counterstrike caves in my chest once more. This time, though, it hurts less, as I manage to react in time and absorb most of the kinetic force behind the impact.
+
+Catching my balance again, I let go of any plans I had. Thermal energy leaks from my body as I slightly lift the third seal on the Ignition Heart, and I mimic the way that Absolute channeled it for me. Golden flames erupt from my body and blaze outward, lashing like massive molten whips that slice through what remains of the base and leave everything they touch glowing red and dripping metal.
+
+I watch as my arms regrow at incredible speed, bones, nerves, and flesh stretching and reforming. But before I can finish, Morwag is already there, driving a third punch straight into my chest.
+
+In return, I stab a jagged bone from my half-regenerated forearm into his stomach, only to watch it crack and snap under the impact. The heat burning from it scorches his skin, hissing as it melts through.
+
+He doesn’t even flinch. Instead, as if savoring the pain, he lets the burning touch linger and grabs my forearm, pulling me closer. For a brief moment, we lock eyes, and then I gather every drop of thermal energy inside me, convert it to mana, and let it explode between us, throwing us away from each other.
+
+Morwag rolls across the ground again while I absorb my momentum and disrupt most of the explosion heading my way. Before I can act, he’s already flying through the air at me, an arm raised and ready to strike.
+
+My arms finish regrowing, and all my minds snap into one and [Redistribution] surges to its highest level, freezing the demon in midair.
+
+His binding energy rises fast, trying to resist, but before it can break through, my [Empyrean Lance] forms and shoots toward him. He throws his primordial energy to intercept it, weakening the lance but failing to destroy it completely. It pierces deep into his shoulder and pins him to the wall.
+
+I then can feel him gathering a massive amount of primordial energy, and whatever he’s planning isn’t good for me.
+
+So I teleport to the surface, but before leaving, I drop a huge tricolored orb to make sure the hideout collapses completely.
+
+When I step into the light again, the ground trembles beneath my feet. The crack we entered through is already buried in the explosions that buried the maniacal demon down there.
+
+Wasting no time, I rise into the air and deploy multiple arrays. One of them pulls at the Ley Lines and begins materializing them behind me, spreading into a massive inscription across the sky. To keep my mind from overloading, I use simpler threads of mana instead of full Ley Lines wherever I can, continuing to expand the formation and guide mana through it.
+
+My Ignition Heart beats faster, flooding me with more thermal energy than I could ever hope to spend. I just keep turning it all into mana. The strain is immense, but I enjoy it. I can’t remember the last time I had this much fun.
+
+For the first time in ages, I’m determined to see how far I can really push myself against an opponent who can endure all I can dole out, and even more. There aren’t any Champions, no Absolutes, no pristine items dropping into my hands. It’s just me. My hearts, my body, and my mind, all driven to the limit.
+
+[Ley Line - lvl 67 > Ley Line - lvl 68]
+
+[Manifestation - lvl 19 > Manifestation - lvl 20]
+
+[Focus - lvl 72 > Focus - lvl 73]
+
+Is it a bit cowardly to run here and bombard him? It sure is, but between losing to that maniac and fighting like a cowardly little bitch, I know for sure which one would bother me more. I don’t think Morwag and I will ever get along the way I do with Weslin. In some twisted way, we’re just too similar.
+
+Finally, the moment comes. Morwag almost digs his way up to the surface, and I focus several of my minds together, shaping dozens of massive mana projectiles and compressing them until they turn dark blue with the faintest hint of purple. I move them into position within the Ley Line inscription spread across the sky and activate it.
+
+It feels like my entire mana pool drains away in an instant. My heart falters, unable to keep up, forcing me to increase the output of my Ignition Heart. The projectiles expand, each one grows as tall as me and as thick as my arm, and quickly their color shifts through a series of vibrant tricolored hues. They stabilize, heavy and dense, dozens of solid projectiles waiting to be fired at the speed of sound, something I’ve been wanting to test for a long time.
+
+The earth below explodes as Morwag rises from the ground in a slow, predatory motion. A grin spreads across his face when he sees my preparations and the look of surprise that follows.
+
+The bastard is wearing the low pristine armor that the guild master of the Eternal Court was using before.
+
+The armor is completely restored, the hole he tore through to rip out the man’s heart now sealed, as if it had never existed. It’s also changed. Gone is the white, plastic-like transparency. Now, with Morwag wearing it, it’s turned a deep shade of blood red, still somewhat see-through but pulsing with life.
+
+It fits him perfectly, sleeker and more refined, the surface rippling in rhythm with his heartbeat. The horns growing from the helmet are longer and thicker than before, matching Morwag’s in size.
+
+“You cheating little bitch!” I shout, outraged.
+
+“What are you gonna do, motherfucker, fly higher or run away? Get down here!” he yells back.
+
+My response is one of the projectiles. With an audible boom, it fires downward, its surface sparking as Morwag hurls his primordial energy against it. But my mana isn’t so easy to unbind. It pushes through the resistance and slams into the armor before dissolving into fine particles at the last moment, scattering like sand caught in the wind as it touches it.
+
+The armor is far stronger than it was before. It’s either been made for demons, or it just needed a powerful demon heart to function properly.
+
+Morwag seems surprised by the way my projectile reacts, but not for long. More shots follow, each one launched with its own burst of kinetic energy. One after another, they crash into him, hammering the armor.
+
+The first few attacks break apart into particles like before, but the later ones carry enough force to throw the demon off balance, sending him crashing from side to side. I aim faster, shoot faster, bombarding him without pause, but even then, I can’t seem to pierce the armor.
+
+Before my projectiles are spent, I stop. The web of inscriptions fades from the sky, retracting into me as the projectiles merge into one massive sphere, which I pull into position over my head, shaping it into a halo before it begins to spin like a whirlpool, only for me to absorb it as well.
+
+I descend and land, facing the demon.
+
+Morwag takes a step forward, and as he moves, the armor stays behind. He simply steps out of it. The blood-red color drains away, the horns fade, and the armor turns transparent white once more, standing there like an empty shell.
+
+Before either of us can move, I blink a few times, not believing what I see. "Motherfucker," I gasp.
+
+"You are..." Morwag starts, but I interrupt him.
+
+"Not you!" I shout and shift my disruption, match the frequency, and shoot it toward Morwag, weaving it around him and at the armor.
+
+A camouflage flickers out, then a pendant cracks and drops to the ground, revealing Brich already climbing his way into the armor.
+
+Now that he’s been caught, the lumoran stops awkwardly and smiles. "Well, fuck. Good afternoon, fine gentlemen! Please, don’t mind me, just carry on with whatever you were up to and keep trying your best to murderize each other."
+
+Before he can even finish speaking, Morwag grabs him by the feet and swings him like a toy, slamming him into the ground with an audible crack of breaking bones.

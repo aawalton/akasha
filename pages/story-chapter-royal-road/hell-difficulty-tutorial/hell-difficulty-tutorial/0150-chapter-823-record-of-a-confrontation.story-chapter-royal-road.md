@@ -1,0 +1,179 @@
+---
+id: f5706bc7-1e06-5225-a813-f06c97593928
+page-type-slug: story-chapter-royal-road
+title: "Chapter 823 - Record of a confrontation"
+slug: 0150-chapter-823-record-of-a-confrontation
+partOf: hell-difficulty-tutorial
+position: 150
+ownLength: 2381
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3516372/chapter-823-record-of-a-confrontation"
+royalRoadId: "3516372"
+---
+
+Morwag’s arm is now entirely black and traced through with faint gray veins, and the place where it was cut off almost looks as if it’s being eaten into by a slow developing rot.
+
+It now lies there with the elbow bent and squeezed into a glass container provided by Brich. With the help of Savant, who actually seems to have a bit of experience with this, we have moved a few of Lily’s healing marks from me to the arm to make it last longer and to feed the Necrotic Rot.
+
+The container is now almost filled with it, after Savant released almost everything he’d absorbed. All in all, it’s turned out to be quite a large amount. The guy seems to have been absorbing it whenever he could during the night. He also threw in a few very suspicious pieces of flesh and one that looks like a small sort of fish scale, apparently to make it more potent.
+
+Not to be left behind, I contribute a small vial’s worth of my blood, to which Brich adds some pinkish liquid from one of his bottles, as Weslin joins with his void, seemingly in an attempt to cut off and entirely separate the version of the rot that is inside from the version of the rot we all have. He does this just in case, so that in the future, it doesn’t reactivate whatever remains we might still carry.
+
+For the moment, after syncing our process, our Necrotic Rot is gone as we all sync to get rid of it in less than a second. Then, extracting another homemade cookie from Savant, Zant also confirms it.
+
+So now we have a container holding a rotting arm and an assortment of strange liquids sloshing inside, along with a few weird items. And the rot within has begun to change gradually. It’s growing through the arm, powered by Lily’s healing marks, and who knows how those’ll affect the process, along with the other things we threw in as well.
+
+Now, carrying this through the floor sounds like a scary idea, but the container gets reinforced by everyone in the party. Morwag uses his binding to make it tougher. I draw the array on the container with my blood instead of mana conductive paint, and the others do their own things as well.
+
+Zant watches quietly the entire time with a look that seems almost entirely disinterested, though I do catch the odd spark of horror as we do certain things to the arm.
+
+It must be a good thing.
+
+With our goals more or less done, we head off to leave the third floor, with me giving one last look towards the mana dead zone in the distance. The question still remains.
+
+Why would the Ruler of Diligence do that?
+
+All of us appear at the same place on the second floor, and right away, marks are placed on each of us. All facilitated by the owner of this tower, carved into the core of an enormous stone projectile launched by some Absolute long ago. I still find it fascinating how much time it must have taken to carve.
+
+Giving ourselves a bit of a break to do our own things for a few hours, Brich and Savant separate while Weslin, Morwag, and I head to our branch to find information on the guide known as Duncan for our fishing trip.
+
+Before they leave, I finally break and speak to Morwag. "What the hell have you been snickering about this whole time?"
+
+He looks at me for a few heartbeats before he bursts out laughing. "Mwahhahaha!" Out loud and without shame, to the point that I can’t even be sure if he’s just making fun of me or if he’s really that happy. The laugh disappears as quickly as it came, and he swiftly pulls his emotions back under control.
+
+Then, with a calm face, he says, "You’ll see soon enough," and waves for Weslin to follow him to the guild branch. Morwag is still missing his arm, but he doesn’t seem to be bothered in the least.
+
+I stare at their backs as they leave before pushing those thoughts away. Then, as I expected, a connection forms with my mind through the mark the local Champion placed on us, and a voice sounds in my head.
+
+(Nathaniel! I am so happy to see you again!) Spark shouts excitedly with his youthful voice.
+
+(Hello, Spark,) I say, as I find myself a nice bench to sit on.
+
+(Are you the one kidnapping Weslin this time?) He laughs, and I can sense him observing me.
+
+(You could say that,) I snicker. (Are you alone?)
+
+(I wish! There are so many of me, and I keep hearing their voices, but it’s still fun! In fact, I want to hear more voices because that would mean more friends! Marble wants to join in, can he?)
+
+(Yup, why not.)
+
+(Thank you! You are such a good friend, too! Marble, you be nice to Nathaniel!)
+
+(There is no reason for me to be nice, but I will remain polite,) The new, less emotional voice says. (I greet the guild master of the Primordial Knights,) He says to me.
+
+Before I can even react, Spark speaks up. (That’s true! Congratulations, Nathaniel! Are the demons bullying you? Do you need help?)
+
+(As if demons would’ve let him become guild master if he’d needed help. It is more likely he bullies them.) Marble snorts.
+
+(Nathaniel wouldn’t do that, right?)
+
+(I’ll be keeping silent on that one,) I say.
+
+(Oh no,) Spark says in shock, as if his world is breaking.
+
+(Please ignore Spark. I want to once again ask you to let me observe your body on a deeper level in exchange for reasonable payment. It can be the same kind of information as last time,) Marble says to me.
+
+(What do you have?)
+
+(I have three things I can disclose that I think you might be interested in. The first is the contents of a message left under a loose floorboard in the West Wing about a hundred years ago. It was meant to stop a guild war, but someone put a heavy rug over it, and it got lost. Currently, there’s some sort of domesticated creature sleeping over said rug.)
+
+(Ehm. What else?)
+
+(See, Spark? I keep telling you all attendees are greedy and unable to appreciate the value of information like this.)
+
+(Nathaniel, do you really bully demons?) Spark ignores Marble entirely.
+
+(Sometimes?) I say.
+
+After my answer, Spark falls into a shocked silence while Marble continues. (Another one is a record of a confrontation that happened on the twelfth floor of Beyond not long ago.)
+
+(You can’t share that! Veil will be angry!) Spark shouts.
+
+I can hear Marble snicker. (She won't. That record was broadcast live by the Ruler of Envy through the entirety of Beyond for all handlers and kings to see. The outcome won't change the fact that the record was freely shared and is thus available for further spread.)
+
+(But wouldn't he get angry if more people saw what happened?)
+
+(His feelings won’t change much about the nature of the information.) Marble cuts him off and then turns back to me. (The last information I offer is the number of times attendees in this city have been brought the wrong food by a waitress and ate it anyway because they didn’t want to say anything, over the past 500 years. The actual number would surprise you.)
+
+(I have heard something similar from you before.) I mention.
+
+(Indeed. The number of times attendees have tripped over their own feet while trying to look mysterious or intimidating in the past 500 years. That one was truly valuable.)
+
+(I still can’t believe the number.)
+
+(So surprising, right?)
+
+(Yes, but this time I would like the record of the 12th floor confrontation.)
+
+(How disappointing,) Marble sighs and muses before saying, (How about the number of times attendees from the past 200 years that have watched the hairdressers cut their hair as their faces started twitching seeing it turn out entirely different from what they wanted, and didn’t say anything, then cried outside the store after paying.)
+
+Hearing that, I fall into silence and bury my face in my open palms.
+
+I really want to hear that.
+
+Still, I force myself to stop and speak again. (I’ll go with the record, Marble.)
+
+The part of the mind of the local Champion’s mind seems disappointed but agrees, and I let him observe my body, something he undertakes alongside Spark. This time it takes longer than the first time, and they don’t stop to talk much.
+
+Though at the end, Spark whispers, (N-Nathaniel, are you okay?)
+
+(Yes.)
+
+(But-)
+
+(It’s fine, Spark. So, all good from my side?)
+
+(Yes,) Marble says. (I will invite you to a mental space of my creation, so just follow through the link I provide.)
+
+(Got it.)
+
+After that, I do just as I’m told and soon find myself in a desolate area filled with mountains and clear skies, allowing me to see far into the distance. It looks like it never ends, with some places seeming to repeat across the landscape. Almost as if someone made a dozen or so square miles of area, filled it with nature and mountains, and then just copy and pasted it across a neverending stretch.
+
+Soon, two floating orbs appear next to me. One of them seems like it’s made of black gray marble, and the other is simply a cheerful spark of light. While Marble moves slowly, Spark jumps all over the place, bumping against my form in this space.
+
+"We are now within the record," a voice speaks, coming from Marble’s orb as it stops at my side.
+
+"Hello Nathaniel!" Spark continues to quickly circle me and bounce all over the place before landing on my shoulder. "But I mean it, your body is, as Ember would say, fucked up. You need to take care of yourself more!"
+
+"There will be time for that later," I say as I give Spark a poke. "It’ll all be okay. My plans are beyond your mortal comprehension."
+
+"So cool!"
+
+"Let us not waste more time," Marble says, getting impatient, and the area around us shifts as he moves us through the record until we find two figures. A silver haired woman and a lynthari with two tails standing next to her.
+
+Lissandra and Myrra.
+
+Then the record starts playing. Both of them stop running as Lissandra gestures for Myrra to halt. She then swings her hand as if deflecting a series of unseen attacks.
+
+For a few long seconds, nothing happens. Then, far, far in the distance, something explodes into a huge fireball that fills the horizon and continues to grow and grow. I watch the shockwave spread and bulldoze everything in its way. It erases mountains taller than Everest, reducing them to exploding clouds of rock as it spreads further and further.
+
+Then, as it’s about to reach Myrra and Lissandra, the former Absolute swings her hand, and the shockwave splits in front of them, missing by a mile on either side and carving deep scars into the earth.
+
+"Hahaha, that was such a nice reaction, and I thought I was being sneaky about that attack! Though it could be expected of an inferior copy of a once great being." The voice sounds like it's coming from everywhere, making it difficult to locate where it’s coming from.
+
+Lissandra doesn’t seem bothered in the least, as she looks around, specifically in one direction. "Is that all?"
+
+The laughter stops.
+
+"What, did you think your pathetic ability would hide you?" This time, Lissandra reaches for her waist, where she taps on the pitch black dagger hanging there. Just that little touch causes the light to flicker, and the field hiding the lumoran breaks like a sheet of colored glass.
+
+The newly revealed lumoran has black skin like all members of his race, with crystalline features adorning his head alone, creating a diadem-like set of protrusions encircling it, the largest of which protrudes from the center of his forehead. His right hand, made of the same crystal enclosing the bones visible inside, along with swirling currents of mana, begins to shake until he clenches it tightly.
+
+The smile then flowers on his face again. "THAT was fucking scary. But how about this, you fake little thing?"
+
+Lissandra’s hand turns into a blur, and two seconds later, multiple explosions similar to the first one erupt so far in the distance that I can barely see them. Yet the flashes of light and the fireballs grow until they must be each twice as tall as the mountains surrounding them. There are five such explosions, each a different color: pink, purple, yellow, green, and blue.
+
+Myrra stares on, with eyes wide open as Lissandra flicks her hand once again, this time to deflect an attack targeting the lynthari, and another explosion is deflected, creating a sixth fireball. The shockwaves far in the distance continue to spread rapidly, entirely evaporating everything in their way as they bounce off each other.
+
+"Little kitten, your mana," Lissandra says simply, never taking her eyes from the lumoran man who simply continues to smile at her.
+
+As asked, Myrra offers her mana to Lissandra, who takes it over without ever breaking eye contact. In the elegant gesture of a practiced duelist, Lissandra moves her open right hand, lifting it in front of her face with the palm turned toward her.
+
+And when it almost seems like the shockwaves will reach them, Lissandra clenches her hand into a fist with an audible crack reminiscent of breaking ice.
+
+All of the colossal fireballs from the explosions in the distance disappear as if they never existed. All of the shockwaves are gone, dispersed into a gentle summer breeze washing over Lissandra’s back, blowing through her clothes and silver hair as it wavers around her head.
+
+As she opens her hand again, a small orb glows there, made of the many colors of the prior explosions.
+
+She grabs it with the tips of her fingers and flicks it toward the Ruler of Envy, who shouts in panic as the entire sky changes color.

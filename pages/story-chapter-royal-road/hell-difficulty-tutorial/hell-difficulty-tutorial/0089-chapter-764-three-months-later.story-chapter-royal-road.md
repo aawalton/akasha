@@ -1,0 +1,141 @@
+---
+id: 493c7c59-92d5-5918-bdc3-5dfacf1ccce8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 764 - Three Months Later"
+slug: 0089-chapter-764-three-months-later
+partOf: hell-difficulty-tutorial
+position: 89
+ownLength: 2306
+unit: words
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3117379/chapter-764-three-months-later"
+royalRoadId: "3117379"
+---
+
+Three Months Later
+
+POV 12th Beyond Floor
+
+The mountain shakes and then begins to move, rising up to reveal itself as a mere portion of an enormous snake made entirely of stone.
+
+It coils and shifts in a single massive motion that causes the entire region to shudder, as its immense body sweeps across the land and smashes a neighboring peak into rubble. The air fills with thunder and the sound of falling rocks as the monster stands, gigantic and unstoppable. Each movement is slow, carrying incredible weight, and the monster towers, its form extending miles above the ground, and casts an equally enormous shadow.
+
+[Colossal Rock Elemental - lvl 589]
+
+It slowly approaches and then comes to a stop before a mountain where two people stand waiting. One of them is a young looking human woman. She has silver hair and amber brown eyes. One of these eyes is closed, missing entirely. Several fingers are gone from her hands, and raw, healing burns mark her right arm and leg.
+
+Her companion is a tall lynthari woman with white hair, gray eyes, and a horizontal scar across her nose. She has gray cat ears and two matching tails, which are now standing perfectly still. Even though she stands two heads taller than her human companion, she clearly holds no position of power here.
+
+The elemental opens its mouth slowly. Huge rocks fall out, each the size of a small building, slamming into the ground with earthshaking force. A deep, vibrating noise echoes through the area in a rhythm that suggests words or an attempt at communication.
+
+Facing the two women, the snake’s voice shakes the area around, sending weaker monsters into hiding from the sheer terror of its presence. Only the human woman seems to listen intently, seemingly understanding the beast.
+
+Once the elemental stops talking, she waves her hand dismissively. The colossal snake bows its enormous head toward the woman, who may as well be nothing more than a speck of dust in comparison to its size, and turns around to lie in the same spot it had before, triggering another earthquake as it settles.
+
+Both of the women then move off the mountain, sliding down the face before running at a speed that turns their surroundings into a blur.
+
+They move without pause for a full day before reaching a new territory where they finally come to a stop.
+
+"Your mana," the human woman asks.
+
+The lynthari obeys immediately. Having grown accustomed to the demand, she puts her hand on the silver-haired woman’s shoulder. Her Mana Heart surges, sending all her gathered mana into her companion, who stands facing the nearby peaks.
+
+"What did she say, Lady Lissandra?" the lynthari woman asks while they wait.
+
+"Little kitten, how did you know it was a 'she'? Have you finally managed to improve your otherwise lacking perception?"
+
+"Her eyes looked very cute and womanly."
+
+"I see. A lost cause, then," Lissandra says. "She called herself The One That Never Followed the Call Upward. She told me about our target. We should be able to reach the one-winged wyvern in another week or two, but I want to confirm something else with another elemental first."
+
+"Another week," the lynthari woman sighs. She kicks a stone at her feet and watches it plummet down the mountainside. "Lady Lissandra, I’m bored and sick of this floor."
+
+"I am well aware of that, unfortunately."
+
+"That’s too harsh. But Lady Lissandra, I have a request."
+
+"How surprising," the human woman answers simply, maintaining her controlled expression. She handles the questions and her companion with the bearing of someone long since accustomed to such complaints.
+
+"When you talk to him through the disciple communication token, take me as well. You can do that, right? Just do your fancy stuff with that black dagger," the lynthari asks.
+
+"I’ll think about it."
+
+"Thank you! I promise I’ll stop bothering you for today," the lynthari says happily. Though she maintains an easygoing mood, her eyes stay sharp, and her fangs glint dangerously as she speaks. Throughout the exchange, something like glitter forms thousands of multicolored surfaces, reflecting the light around her, ready to move in accordance with her will. This lethality is the only reason she isn’t being berated by her master or compared to some noble ladies' pet.
+
+Soon after, another mountain begins to stir. It reveals yet another stone elemental, this one shaped like a lizard and formed from a much darker sort of rock, with glowing veins of magma pulsing through its body as it digs itself free from the ground.
+
+[Volcanic Obsidian Elemental - lvl 629]
+
+This one does not react kindly to the two presences near it. It shakes wildly, causing rivers of molten magma to spew everywhere from its over mile-tall body, leaving it standing even taller than the previous elemental.
+
+It thunders in that same deep voice, a sound that causes surrounding mountains to crack and sweeps away the clouds in the sky, briefly revealing a beautiful crystal ceiling before the vapors rush back in to cover it. Beams of light still pierce through these clouds, illuminating an area that has been turned into a hellscape filled with flowing magma, crumbling mountains, and ridges tearing open in the ground.
+
+The elemental turns its head toward the two figures and opens its mouth, releasing a long, resonant bellow that rolls across the land like a seismic pulse, shaking the molten plains and echoing through the shattered mountains.
+
+At first, only the sound comes. A breath of superheated air follows, melting the side of the mountain where the lynthari and her master stand. Then, like a spark striking a fuse, flickers of red flame with white core appear deep in the elemental’s throat. These flames are about to blaze out, thunderous, the sound of their ignition already spreading through an area the size of a small country. The air dries up instantly, and distant forests catch fire as the temperature skyrockets.
+
+The lynthari watches this all with fear in her eyes. Though she has grown used to such sights over the months spent with her master, the terror remains. And yet she still doesn’t move an inch, showing absolute trust in her master.
+
+Lissandra Hawthorne speaks then. Her words are reminiscent of neither human nor elemental language, but they carry themselves through the area. They are not overwhelming, and yet they’re louder than the flames, louder than the elemental itself.
+
+A single offer. A mercy.
+
+And the elemental refuses. The flames shoot from its mouth with an even higher pitched screech, a concentrated, quarter mile wide torrent of pure red fire with a white hot core.
+
+Accepting the decision of the being facing her, Lissandra nods simply. She raises her hand, mana dancing across her palm, and swings it down in a single, swift gesture.
+
+The flames rushing toward them split apart, passing by them as if split by the prow of a ship. The heat is incapable of piercing the field flickering around them. Instead, the two mountains on their flanks heat up until the rock and stone evaporates as the red flames pass through, continuing to carve a hole through the entire mountain range.
+
+The flames vanish from the elemental’s mouth, stopping abruptly as the colossal monster blinks. Life drains from its gaze while its body splits cleanly into two vast halves, the rupture running the entire length of its form.
+
+For a single, suspended moment, the pieces remain upright, the veins of magma dimming and flickering. Then gravity claims them. They crash down with world-shaking force, the impact tearing the land apart and sending a final earthquake rippling through the already ruined mountains.
+
+The bisection exposes an enormous heart of molten rock, pulsing with lingering heat. It sears the remains of its former body before spreading outward, melting the surrounding mountains into rivers of glowing slag. The molten tide devours everything in its path, leaving a scarred, smoldering landscape that will remain for decades to show the power the elemental once held.
+
+Looking at the destruction for a moment, Lissandra turns around and leaves, followed by the tall lynthari. They do not teleport, such forms of movement aren’t possible here.
+
+The one winged wyvern’s domain, encompassing the entirety of the 12th floor, does not allow it.
+
+POV Drom, New Member of Primordial Knights, B Rank
+
+It’s my last year in the tutorial when I decide to join the Primordial Knights. My Void affinity is rare enough to get them to accept me, and the contract isn't even all that restrictive. I was even able to sneak in some of my own demands. Honestly, I managed to get a surprising number of them through, to the point that I’m actually starting to worry.
+
+But it’s not like they’re desperate. The Primordial Knights currently have four S ranks among their members.
+
+Even before they reached that level, I heard about the annihilation of the Eternal Court. An entire organization wiped off the map by these lunatics. Those few short weeks are whispered about in the Megacity like a modern legend.
+
+It was a sequence of dangers that threatened to destroy the city entirely, a crisis that caused even the Ruler of Diligence to grow enraged enough to destroy the Ancient Armory, burying all its secrets and opportunities with it.
+
+Another demon passes by, looking at our group of new recruits in a way that makes the hair on the back of my neck stand on end. I’ve had enough experience with them to know exactly what that look means. Yet another challenge.
+
+But I’m prepared to face them, the rewards are just that good. Though I didn’t join when the guild was still ranked 5th, I still think I might be early, as it’s widely considered to be a fact that the Primordial Knights will take the 1st rank after the next reset.
+
+There are many reasons for that, and I gathered all the information I could before joining, but it’s clearly mainly thanks to the efforts of their four S ranks, the Beyond quests they’ve cleared, and their performance on this floor.
+
+Even though Nyssa’s been gone for months, rumored either to be dead with her guild hiding the truth or trapped elsewhere in the tutorial, people still remember her talent. They remember the Beyond quests she cleared that hadn't been touched in a hundred years, and that one 1,000 year Beyond quest she dared to take on.
+
+As our group walks through the Headquarters, I keep looking up at the massive tree that stretches as high as the main building. It wasn't here just a few months ago when I last passed this street.
+
+Even this tree has become the subject of rumors, especially because of the arrays surrounding it. Most of them haven’t even been set up to defend it, so much as to lock it in. It arouses its own set of rumors that the Primordial Knights are planning some kind of mess in the city, though some say something with this much preparation would be unfitting for a demon.
+
+That tree pulses with a rhythm that feels disturbingly alive. As a Void user, I tend to be sensitive to the absence of energy, but this tree feels like the opposite. It has a dense, pressurized core of mana. Looking at it, it almost looks normal, but I can see faint, swirling veins of blue and yellow light beneath the surface of each pale green leaf, moving like slow motion lightning.
+
+It doesn't even feel like a plant, so much as a silent, growing explosion surrounded by massive containment arrays, the kind you would use against an S rank.
+
+As a glowing, transparent leaf drifts down, the ambient mana in the air spikes so hard my vision blurs for a moment. I watch it slowly flutter through the air, falling behind a building out of sight.
+
+The mood in the area shifts. I look toward our guide, a demon from the Primordial Knights, who is staring at two figures, a demon and a man.
+
+The demon has pale red eyes and no horns, marking him as a half demon, but a single moment of sensing his heartbeat tells me who he is. Weslin, The Null King, the 3rd S rank in the Primordial Knights.
+
+He isn't all that tall, but he is well built. His Void is what truly takes my attention. It moves around him constantly in unpredictable spikes. It isn't just powerful, but also deliberate and efficient to a point very few ever reach. It is an obvious sort of mastery that renders all but the best mana, primordial energy, and fragment users useless.
+
+He seems to be angry about something, complaining and gesturing wildly toward the human man at his side. But that anger seems to disappear just as quickly as it came, then he laughs and pokes the human as if they were long time friends.
+
+Meanwhile, I feel my breath freeze as I look at the human’s face. He is staring right at me, radiating untouchable confidence. It is obvious that, unlike Weslin, he’s noticed that I’ve been observing Weslin’s Void.
+
+He is taller than Weslin and slim. The pupils in his gray and brown eyes are surrounded by a golden circle that constantly moves and flickers, like a light trying to escape or a show of force in suppressing it. His cold gaze feels arrogant and confident beyond reason.
+
+Above his head hovers a dark blue crown, spinning slowly. Rumor says it holds enough mana to challenge a Champion, controlled by an extraordinary mind and a mastery of mana that comes closest to Champion level among all the current tutorial attendees.
+
+Nathaniel Gwyn, The Mana Tyrant. The newest S rank and rumored future Guild Master of the Primordial Knights.

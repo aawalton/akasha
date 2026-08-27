@@ -1,0 +1,335 @@
+---
+id: 04f33e64-c6dd-5822-a912-d45d29dac2fa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3"
+slug: 0003-chapter-3
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 3
+ownLength: 3733
+unit: words
+publishedAt: 2025-10-25
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/2703905/chapter-3"
+royalRoadId: "2703905"
+---
+
+Chapter 3
+
+Veron didn't know what to expect. He simply followed the supposed warrior through the forest, checking his surroundings as he went. He got the impression that Ivera wasn't particularly concerned about any monsters in the vicinity.
+
+Was she just confident enough in her own abilities to know that she could deal with anything that came up? Or was she trying to put up a strong front?
+
+She seemed familiar with the surroundings, that much was clear.
+
+They walked for around half an hour and Veron was about to ask for water, something to eat, and about where they were going when they stepped out of the forest and onto a field of grass. The creek had expanded into a small river, flowing to their right and past the field. Ahead of them rose a small hill and on it, Veron could see a wall of stacked rocks, and beyond it he saw a two-story house with white walls and a tiled roof. Glass windows and wood shutters. An oak tree or something that looked similar stood beside the house, luscious green leaves providing shade.
+
+Ivera glanced his way. They met eyes and she smiled ever so slightly, then gestured for him to follow. She led him up the hill and to the wall.
+
+He could see over it. It was perhaps one and a half meters high and reminded him of ruins he had seen on a trip to Scotland. A well-maintained garden bordered the house, various plants and herbs of differing colors visible.
+
+A stone table and two wooden benches stood in the shade of the large tree, surrounded by more wildly growing vegetation. Veron looked up and smiled when he saw that someone had started building a tree house between the thick branches of the oak tree.
+
+I like this place.
+
+When he turned his head to face Ivera, he found her looking at him.
+
+“Wait here,” she said again and vaulted over the wall with a quick and easy motion.
+
+Veron stood there, resting his arms on the stone wall and watching her walk towards the wooden door decorated with a yellow wreath. With the jump he had just seen, he wondered how she fought. Such a large sword, and with fluid motions like that. She doesn't have a shield either. Does she have some kind of magic too? Is there magic for warriors, spells that enhance the body?
+
+He turned around and rested his back on the stone. It felt more comfortable than he had expected. Now that he was on the small hill, he could see a large section of forest beyond, the fir trees he had seen added a slight blue hue to the landscape, the river below glittering with sunlight before it vanished into the forest.
+
+He took in the high reaching mountains in the distance, far beyond the hills and forests he could see closer by. A few clouds dotted the sky.
+
+He heard voices and turned around, faced now with Ivera accompanied by a man dressed in simple leather pants and a brown shirt, and a little girl that rushed towards him. She had long brown and messy hair, wore a white dress speckled with dirt and didn't wear any shoes. Her eyes had the same strange red spark that he had seen in Ivera’s.
+
+A family?
+
+He had tried not to make assumptions but Ivera’s armor and sword had made him think of a soldier or nobility of some kind. Was she here to protect them? Or did she live here?
+
+The girl stopped a few meters before the wall and narrowed her eyes. She pointed at him and said something.
+
+The man that followed her laughed and tussled her already messy hair before he knelt down next to her and whispered a few words.
+
+She giggled and ran off and back into the house.
+
+The man stood up again and looked towards Veron. He had brown hair and eyes. There was dirt on his hands and clothes. He was about the same height as Ivera and reasonably well built. He looked at Veron with curiosity more than anything else. Then he said something to Ivera. He seemed calm.
+
+She crossed her arms, then said something in return.
+
+It went on for a little while. The man at some point seemed amused and laughed, touching Ivera’s shoulder before he moved in close and kissed her cheek. She had seemed more and more annoyed with him but now sighed. Freeing herself from him, she raised her arms in defeat, said something and nodded to Veron.
+
+The man smiled and turned to face Veron as well.
+
+Veron reached out his hand over the wall, now that it seemed like they had come to some kind of agreement. “Veron. Good to meet you.”
+
+The man walked over with casual steps and grasped his hand with a strong grip. “Aren.” He said a few more words that Veron didn't understand. He then made gestures that suggested eating and drinking.
+
+Veron nodded.
+
+Aren did as well but then looked down on Veron’s form and said another word. He gestured for him to wait for a moment and left.
+
+Veron managed to translate the word while he was waiting. Clothes.
+
+Am I going to complete my first quest?
+
+Aren returned with a set of clothing not too different from his own. Veron was dressed a minute later. The clothes fit reasonably well but he did need the belt that Aren had handed him.
+
+He was glad to have found them. People willing to hear him out and even hand him clothes. He wasn't sure where things would go from here but getting clothes was a massive step already towards his magical adventure.
+
+Aren gestured for him to climb over the wall with a questioning look.
+
+Veron nodded and climbed over. Not with as much grace and speed as Ivera, but it felt decent enough.
+
+Ivera led him to the stone table below the oak tree and gestured for him to sit down. She stood a little to the side and eyed him while Aren went to the house and returned with a platter of food and drinks. Bread, berries, fruits, and even cheese.
+
+Aren sat down with him and gestured for him to start eating. He also asked for the sheets of paper which Veron handed to him.
+
+Now, let's see how he reacts.
+
+Some of the berries were sweet, others were sour. The cheese reminded him of goat cheese. A very intense taste and a creamy consistency. The bread was amazing.
+
+He didn't eat too much but drank a lot. When he got the papers back, he could tell that Aren was interested.
+
+Neither of them had reacted with hostility nor with reverence. Which made Veron think that people appearing in this world with translation notes and without clothes was not something that happened every day. And not something that legends and myths talked about either. At least not ones known by everyone. It seemed to be a curiosity at best. Which very much worked in his favor. The last thing he wanted when he appeared in a different world was for a congregation of hero summoners to surround him with prophecies and treasures.
+
+What followed was a very slow conversation, Veron piecing together both the questions and his answers. He didn't plan to mislead them but he didn't plan on sharing every little detail either.
+
+Aren started. “Where did you come from?”
+
+“Far away. Brought here with magic.” He tried to gauge their reactions. A bit of surprise but nothing more.
+
+“Your magic?”
+
+“No. No magic where I come from.” That got more of a reaction. “Arrived with these,” he said and gestured to the papers. “Looking for shelter or people.” He glanced over at Ivera and nodded.
+
+He couldn't read her expression.
+
+“Where is this?” he asked.
+
+“This is Eyra, a small village near a mountain pass between important cities. Adventurers and travelers pass by, some stay for a while,” Aren said.
+
+Veron nodded.
+
+“Are you an adventurer?” Aren asked.
+
+“Maybe. But not yet warrior,” Veron said. “Thank you for bringing me here. It is a big help.” He nodded towards Ivera.
+
+She gave him a slight nod back.
+
+“How do I learn magic?”
+
+Aren laughed. Ivera smiled and then sighed.
+
+“We got another one,” Aren said and glanced over to the woman.
+
+She didn't seem quite as amused.
+
+“Another one?” Veron asked.
+
+“You know how it is. The lure of adventuring. Young people looking for excitement, even though we have everything here that we could ever need,” Aren said.
+
+Veron nodded. He got it now. Maybe they had another kid or someone in the village who wanted to leave and find purpose, glory, or treasure as an adventurer. He understood what Aren meant but he also understood why someone would choose to leave all of this behind for an uncertain but exciting future.
+
+Hard to appreciate something that you already have, especially if you always had it.
+
+In a lot of ways, he was the same, wasn't he? Leaving behind his job, all the connections, the money, the sense of belonging, to jump into a pond and to go to another world for an adventure he knew hardly anything about.
+
+He pieced a few words together in response.
+
+“Wisdom requires experience. Experience requires time.”
+
+Aren nodded sagely. He seemed even more interested now.
+
+Ivera raised her eyebrows. “We got another one,” she repeated in a dry tone.
+
+Aren laughed and Veron smiled with a shrug.
+
+That probably came off a lot more pretentious than I intended. Oh well.
+
+“Do you know who sent you here?” Ivera asked.
+
+Veron considered his words. He didn't come here himself and he really didn't know what Envolon wanted of him exactly. He decided to be honest but vague. “Magical being. Asked for me to go adventure, I said yes.”
+
+“That is a very strange story,” she answered. “The being was very powerful, if it managed to bring you here from far away. It is strange that it only asked for you to go on an adventure. Was there nothing else?”
+
+It took a while for Veron to translate. “I agree. I thought it was strange too. I'm sure there is more to it but it did not tell me. But I only agreed on an adventure, nothing more.”
+
+The two looked at each other and then exchanged a few sentences.
+
+“Is it true, that you don't know about Paths?” Ivera asked.
+
+“What is Path? Is it magic?”
+
+Again, they looked at each other.
+
+“I don't think he's lying,” Ivera said with a sigh. “And if he really doesn't know about his Path, I'm inclined to believe the entire story.”
+
+Veron could tell that she was looking for something to be skeptical about. Was she annoyed that his story made sense? It didn't make sense to him either and he wouldn't trust some random person in the woods who claimed to be from a different plane entirely. But then again, he would probably talk to them as well just because it was interesting.
+
+He wondered what her acceptance of his story said about her. And about the magic that had brought him here.
+
+“You want to become an adventurer then?” Aren asked.
+
+Did he? Maybe. It sounded interesting, If an adventurer here was what he thought of as an adventurer, someone to explore the lands, taking on monsters, seeking treasures and all that. But he was very aware of his circumstances. He had no gear, no skills, no magic, no funds, nor any idea about where he was and where he would go. And of course first and foremost, he could barely even communicate.
+
+“Should learn language first,” he said. And then he considered. He had his notes and he knew that learning languages was easiest when you were forced to use them. What he needed was time. And a place to stay. He translated more. “Can work, help with farm or in village? For food and shelter?”
+
+It didn't seem too unreasonable to him. He wasn't trained and he had no idea how important magic or the Path they had mentioned was in terms of manual labor but he could certainly help out with simple tasks, if they needed that.
+
+The two seemed to consider for a while. Ivera didn't seem convinced while Aren seemed lost in thought. He focused his eyes again and grinned.
+
+He's got an idea. Let's hear it. He gave the man a nod.
+
+“Ian might like him,” Aren said.
+
+Ivera narrowed her eyes but she didn't say anything.
+
+“He could show him simple tasks and he could teach him a lot, including the language. It will teach him patience,” Aren said.
+
+Ivera seemed to open up to the idea. “I'll be there with them, make sure Veron is trustworthy.”
+
+“No. We will ask Ian about it but we should trust him with this. He will be an adult soon,” Aren said.
+
+Ivera seemed conflicted but she soon nodded to herself. “You're right,” she said after a while. Begrudgingly.
+
+“Very well then,” Aren said and turned to Veron. “We might have a way for you to stay here, if you agree.”
+
+It turned out that Aren and Ivera had two kids. Their daughter Neva who he had met already and Ian, their teenage son.
+
+Veron could learn the language and ask whatever questions he had while working with the teenager. He had understood through their conversation that Ian likely wanted to leave and become an adventurer, and that he soon would be an adult. It was clear to him that the parents didn't think he was quite ready for that, or they were simply worried and afraid to let him go. Not all that surprising, so maybe he could be an interesting event or an entrusted task to the boy, while he could learn and stay here.
+
+It did sound like a win-win situation.
+
+On the other side of the hill were several fields tended to by Aren and Ian. Veron had no clue what they were growing but the crops didn't seem particularly far along.
+
+A small dirt path led down towards the fields and to a broader dirt road close to the river. Veron could see another building in the distance, along the broader road. Larger even than the two-story house of Ivera and Aren.
+
+Beyond the fields of crops was grassland, animals that looked like horse sized goats raising their heads and looking at him as he and Ivera passed by. A wooden fence kept the animals inside.
+
+She led him to a small barn with another adjacent fenced off section of grass. There were black geese-like creatures walking around inside, a few of them hissing at him as he passed. They had red eyes and he could see patches of black soot in the grass here and there.
+
+Ian was in the barn, moving hay into a stack. He turned and glanced their way when they entered. He was already near as tall as Aren, his hair brown like that of his parents. He didn't seem to have inherited the reddish eyes of his mother.
+
+He didn't stop his work, using his pitchfork in a practiced manner as he seemed to avoid them.
+
+Ivera said a few sentences, then tapped Veron's shoulder and left.
+
+Ian had stopped his work and now glared at Veron. He looked tense and uncertain.
+
+Great. Well done, Ivera.
+
+He's what, fifteen? Sixteen?
+
+All right. Let's give this a shot. I'll probably be staying here for a while if this works out.
+
+He decided it was best not to start with Lavirian. Instead, he pointed behind himself and to where Ivera had left. “She's quite blunt, isn't she?” He said in French and smiled. He glanced at the haystack and nodded. “That's a lot of work you have to do. But it looks like you know what you're doing.” He slowly made his way towards the boy and then extended his hand. Now, he did speak in Lavirian. “I'm Veron. From far away. My speak is bad.”
+
+The boy hesitated for a moment but then gingerly grabbed his hand and shook it.
+
+Veron showed him the papers. “I help with work. You teach. Interesting?”
+
+Some of the apprehension seemed to fade from the boy's face. He made big eyes when he looked at the papers. “How?”
+
+Veron smiled. “Magic. You teach? I learn. And I work.”
+
+The boy nodded to himself slowly and then smiled ever so slightly.
+
+Got him.
+
+The first hour was pretty awkward and it was difficult to communicate but soon they got into a bit of a groove, Ian showing him the work and Veron copying as best he could. He suggested they start with work and talk later. And so they did, moving hay, then feeding the geese, who were called Vabook. Ian made sure to communicate to Veron that he shouldn't go into the fenced off section. He made a lot of gestures suggesting that the geese would attack him.
+
+When they were done, they sat down on some stools in front of the barn. A warm breeze came through and a few white clouds dotted the sky.
+
+They had mostly worked in silence but he could already tell that the boy was far less apprehensive about him. Maybe because he was an outsider, someone more interesting than the usual faces, or because he knew less about this place than Ian did.
+
+“You know magic?” Veron asked.
+
+The boy shook his head. “Not yet. But probably Devotion.”
+
+Veron translated the words.
+
+“Devotion? What does that mean?”
+
+“You don't know the Paths?”
+
+Veron shook his head. “You know about them?”
+
+Ian smiled and nodded. He went and grabbed a stick before he returned and started sketching into the dirt. Six dots and each one he named. “Devotion, Fae, Runic, Blood, Elemental, Chaos.” He connected the dots in a circle and then added three lines connecting each dot to their opposite. To Veron, it looked a little like the picture of a basketball.
+
+So there are six types of magic?
+
+“Every being has one Path,” Ian explained.
+
+Veron looked up at him. “The Vabook?” He asked in a whisper.
+
+Ian nodded sagely. “Yes. Elemental Path, and ash.”
+
+“Ash?”
+
+“Yes. First comes the Path, then specific things like schools and harmonies. Someone with Devotion could be someone using a sword or a smith.”
+
+“Or a farmer?” Veron asked with a bit of a cheeky look.
+
+Ian grimaced but nodded. “Or that, yes.”
+
+“You don't want to be?”
+
+Ian glanced at him and then to the ground.
+
+“Want to be sword, like Ivera?”
+
+Ian smiled sheepishly. He scratched the back of his head. “Maybe, in the future. But I also really like to shoot the bow.”.
+
+“You know how to use a bow? That is cool. Can you show me?”
+
+“Teach?”
+
+Veron laughed. “No. Just show.” He could see how the boy's eyes lit up. He gestured for him to follow and led him past the barn. It looked like Ian had hidden a bow and arrows somewhere in the field of grass. They went out and past the field, soon reaching a small copse of trees.
+
+Veron watched as Ian shot a few arrows into the nearby trunks. He had definitely practiced for a while.
+
+Every being has a Path.
+
+Which means I should have one too.
+
+Veron cheered when one of the arrows hit the very center of the tree. And he could see the pride in how Ian stood, straight and with his chest pushed out.
+
+I don't know if this is what they intended, Veron thought and laughed. I might even encourage him to become an adventurer sooner.
+
+Ian explained to him that if he trained with his bow for long enough, he may get the Path of Devotion, and with it hopefully the Way of the Bow, or something similar.
+
+Is that how it works for me as well?
+
+“How do I find my own Path?” Veron asked.
+
+“You're an adult. You should have a Path already.”
+
+I should? But I never trained with a sword or bow. Don't tell me I already locked into the Path of Middle Management or the Path of Spreadsheets.
+
+The thought still amused him. Either way, he didn't feel too anxious about it. If he had already determined his Path, then he had no reason to worry about it now. More so, he was excited to see what he had gotten.
+
+“How do I see?”
+
+“Just think about it, focus on it.”
+
+Veron nodded. It was that simple, was it? He wondered now if he even had a Path. He was an anomaly for sure, so even if Ian was sure that every being had a Path, at least adults it seemed, it could be that he was different.
+
+One way to find out.
+
+He sat in the grass and closed his eyes, breathing slow and focusing first on the sensation of the grass against his skin. Then he focused inward. He calmed, feeling his heart beat, feeling the wind against his skin. And then, he felt something else. Just like he had when he had first arrived here.
+
+He opened his eyes and blinked.
+
+He couldn't see it in his mind's eye, not exactly, but he knew what he needed to know.
+
+Elemental Path [Feeble]
+
+- Harmony of Earth [Faint I]- Hidden Harmony [Faint I]- Hidden Harmony [Faint I]
+
+It wasn't much and at the same time, it felt like everything. Out of the six Paths, his was the elemental one. He knew that his Path was feeble. He didn't know exactly what that meant but he had a pretty good idea.
+
+Three Harmonies, two of them hidden, and one of them Earth. He smiled, in no way surprised about what he saw.
+
+It felt so simple and so clear. As if everything had led him here after all. All the work he had done, the disillusionment that he had felt, the choice to get out. Sure, he hadn't expected to arrive in a magical place where he could literally use Earth magic, if that's what all of this meant, but it still felt more like a culmination rather than a turn of fate.
+
+Now, how do I start floating rocks?

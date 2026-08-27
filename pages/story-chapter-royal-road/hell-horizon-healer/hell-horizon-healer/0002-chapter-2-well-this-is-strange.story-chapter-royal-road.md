@@ -1,0 +1,147 @@
+---
+id: 2e09bab6-cc4d-59a7-8522-5abb65242bdb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2 - Well, This Is Strange"
+slug: 0002-chapter-2-well-this-is-strange
+partOf: hell-horizon-healer
+position: 2
+ownLength: 1574
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3519453/chapter-2-well-this-is-strange"
+royalRoadId: "3519453"
+---
+
+He left the girl to her own devices.
+
+She had followed him down the newly elongated hallway, her footsteps dragging as if she expected him to turn around, hold the door, or offer some kind of reassurance now that the crying had stopped.
+
+Instead, Jake stepped into the first available empty apartment, turned around, and closed the door right in her face.
+
+He heard her stop short on the other side of the wood. There was a moment of stunned, heavy silence, followed by a sharp, frustrated scoff before her footsteps finally stomped away down the corridor.
+
+Jake let out a quiet sigh of relief. He didn't understand why she was following him anyway. She had stopped crying, which meant the problem was fixed and the hallway was quiet again. The interaction was over. There was no reason for her to be in his room.
+
+He scanned the new room. It was bland; consisting of only a table, chairs, a bed, and a kitchen. He aimed for the fridge, but it was empty. That wasn’t good. He tried the kitchen sink for water, realising that if they were stuck on this floor, then it would become a necessity for survival. He turned the tap. Empty. Double not good.
+
+With a groan, he sat on the bed. He’d worry about that problem later.
+
+He scanned the room again and shifted uncomfortably. He didn’t like things that were unfamiliar. He liked his room just as he liked it, where the remote was in its designated spot, and how the plant pot sat neatly on his table. Even the sounds here were different. He frowned. He didn’t like it.
+
+Was this one of the rooms the… thing added?
+
+“System,” he whispered, recalling the words he had awoken to. “Like something out of a game.”
+
+He tried numerous words, experimenting with whatever was going on inside his vision. When he muttered the word ‘Status’, a new screen flashed in front of his sight. He didn’t pay attention to the words, not yet; his focus was on the screen itself.
+
+There was no sign of that static like the door or the bow had. Was it not magic? Something else?
+
+Jake ruffled his hair, annoyed at not having the answer immediately. He finally focused on the words in front of him.
+
+Name: Jake MaddoxLevel: 0Class: (Unlockable at Level 15)Trait: Absolute Perception
+
+Skills:
+
+Minor Heal (Mastery: 0%)Stats:
+
+Strength: 6Vitality: 9Dexterity: 7Perception: 21Mana: 2
+
+He tilted his head. Minor Heal? Was that… magic? It certainly implied it.
+
+Jake grabbed one of the arrows from his quiver and tested it. The shaft was hard enough to resist bending it, but it was flexible enough to endure flight. The arrow-tip was razor sharp, triangular. He recalled his late night, early morning Youtube doom scrolling. It was a tip designed for hunting.
+
+Without hesitation, he pulled the arrow-tip across his forearm, scoring a red line across his flesh. It opened up, blood began trickling out. Jake bit his lip, trying his best to fight through the pain.
+
+Only now did he realise that he didn’t know how to use his new skill.
+
+Minor Heal?
+
+Just the thought was enough. A golden light flickered to life above his open palm. He watched it in wonder for a moment, until he realised that he only had seconds to actually use it—like a half formed instruction manual planted in his head.
+
+Quickly, he brought his open palm with the flame to the wound. An intense itch festered on the surface of his arm, the light blinding.
+
+When he brought his palm away, only a scar remained that was pink around the edges. The wound had healed.
+
+Awesome, he thought, lips curling into a faint smile, then his world spun. His head ached and a sickly sensation crawled in his stomach.
+
+His back fell onto the bed as he watched the ceiling spiral. It lasted two minutes before everything turned back to normal, sitting back up with a lethargic groan.
+
+“I guess that has something to do with my low Mana score?” He asked himself. If he only had enough mana to use one Minor Heal… that didn’t sound too impressive. And would it work on a larger wound? There was a lot he didn’t know, a lot he had to find out.
+
+But wow—magic? He could hardly believe it. And weren't healing powers rare in video-games? Unable to contain his excitement, he brought up his status once more and really focused on the words.
+
+To his surprise, more information appeared.
+
+Minor Heal: Uses a small burst of mana to speed up cell growth. It closes shallow cuts, restores blood, and stops surface bleeding. It cannot fix broken bones or regrow tissue.
+
+Well, that answers that. He moved onto the next.
+
+Absolute Perception: Removes all filters from the brain. Processes every sound, movement, temperature change, and pressure shift instantly without causing mental exhaustion. +15 to Perception.
+
+Jake read the description twice, thrice, four times, before he mentally accepted it. It was a Trait. Did everyone have one? He understood he was different since young; sounds would aggravate him, textures annoyed him, people drove him up the wall, but having it turn into some kind of superpower? He didn’t know if it was a blessing or a curse.
+
+If everyone did have one, then what could they be? How much would it change in a person? Maybe Hanna would share what hers was? But that would mean talking to her…
+
+Immediately turning his attention back to the system, he now focused on the Stats.
+
+Strength: Increases muscle density, bone strength, and physical power. Higher levels require more food and calories to prevent muscle breakdown.
+
+Vitality: Boosts natural healing, energy recovery, and immune system speed. Controls total blood volume and resistance to toxins.
+
+Dexterity: Improves reflex speed, joint flexibility, strength control, and hand-eye coordination. Shortens the delay between thinking an action and doing it.
+
+Perception: Expands sensory range and brain processing speed. Allows the mind to organize, track, and analyze multiple environmental details at the same time.
+
+Mana: Measures the total energy storage capacity of the body. Rules how much raw energy can be safely channeled through the nervous system.
+
+“It really is like a game,” he said out loud. “But how do we increase them?”
+
+More on that; was the System worded and displayed as it was because it was easy for the human population to understand? Or was it just that way all the time? Was it only Earth that was subjected to this because of their connection with games, or maybe there really was life out there somewhere.
+
+Were they test-subjects?
+
+I hate not having these answers.
+
+As for how to increase Stats, the answer was most likely obvious—hunt monsters, level up, assign stats. It made sense given the game-like logic, but what if they could be increased another way?
+
+Jake waited until he felt in tip-top condition. It was strange, but it was like something inside his body told him he was ready to use his skill again; maybe it was where the mana was stored? A mana container?
+
+Let’s call it that for now.
+
+He started by doing push-ups, keeping on going until his muscles burned. He pushed through that until his arms failed him and he fell face first against the floor, his chin whacking the wooden laminate below.
+
+“Ow.”
+
+It was at this moment he really wished he had worked out more. He had nine Vitality, and not having any skill or Trait that increased that amount, meant that ten was most likely a peak human. Six in strength meant that he was barely above average.
+
+Still, it was better to start late than never at all.
+
+Once again, he tried pushing up, but at this point, his arms refused to listen to him. His arms quivered and shook and when he got up not even halfway, he collapsed once more.
+
+In theory, muscle gain was technically a wound, wasn’t it? Micro tears in the muscle, to be exact. This time he sat up and paid full attention to his arm. He flexed it a little, feeling how tight and pumped his biceps and forearms had become.
+
+With his higher Perception, he was more aware of his body than ever before. And the pain far greater because of it.
+
+He activated Minor Heal and placed it on his arm, pushing it into his muscle. He even massaged it deeper, though he didn’t know if that did anything.
+
+It felt good, though, and a few seconds later, his muscles felt better. Free. He waved his arm about and for the most part the powerlessness was gone.
+
+Then arrived that drowsy, sickening sensation, though he expected it and braced himself.
+
+He started counting up the time it took until he felt ‘ready’ again. It was around six minutes. Though he didn’t know the exact amount, using one Minor Heal must have used almost one-hundred percent of his container.
+
+Again.
+
+Six minutes later, he dropped to the floor and started working out again with a fresh set of muscles.
+
+An hour passed just like that, and what he was hoping for—expecting—actually happened.
+
+Strength +1
+
+For the first time, as he lay in a puddle of his own sweat, truly smiled.
+
+He did it.
+
+His excitement was ruined by glass smashing, and then, a wretched, shrill scream followed, coming from outside the hall.
+
+They were under attack.

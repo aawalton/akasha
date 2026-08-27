@@ -1,0 +1,109 @@
+---
+id: f41c31b6-1b02-55ae-9f86-5aa41181ca1e
+page-type-slug: story-chapter-royal-road
+title: "353. A Fantastic Idea"
+slug: 0353-353-a-fantastic-idea
+partOf: god-of-trash
+position: 353
+ownLength: 2125
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3843314/353-a-fantastic-idea"
+royalRoadId: "3843314"
+---
+
+The masked man had no name. None of them did. Their names were erased when they were accepted into the sect. No face, no name, just a mask and a uniform. Every day, he trained next to children, then, as he aged, men and women in the same uniform, the same mask. They bore unbearable hardships together, training in the heat, the cold, the wind and the rain, enduring beatings and brutal trainings. Many of them died along the way, at first to the training, then to missions, but that was acceptable. He—no, all of them— were numbers, copies, grunts. Replaceable. His life was meaningless. It was only in service that he gained meaning. Giving up his life here, as long as he did not give up his mission, meant success. He only failed if he surrendered.
+
+As the hand descended toward him, he’d felt not fear, not horror, but instead an overwhelming wave of relief. His heart smoothed, a calm falling over him. Finally, it was over. He’d done his duty. He could rest.
+
+Then that hand stopped. A horrifying smile played over the face of his captor. Those eyes, that expression—this man was not sane. The things that would be inflicted upon him knew neither restraint nor mercy. When this man had proposed torture, he’d sounded hesitant, uncertain, but now there was no uncertainty in his eyes. They were filled with conviction and a kind of righteousness that only the truly mad could call upon.
+
+Whatever this man was about to do to him would be horrible, beyond even the coldest, harshest training. He would suffer in new and unknowable ways. And after all that, when his body was nothing but a bloody lump on the ground, this man would not lose a single wink of sleep over it.
+
+For the first time since he’d been captured, a shiver of actual fear ran down his spine. He opened his mouth, and the words I’ll talk were on the tip of his tongue.
+
+He hesitated. The face of his instructor flashed before his eyes, that terrifying, scarred man, and for just a second, he remembered his training. Never talk. Never! No matter what! the man had shouted, bringing the iron bar down on his folded legs again.
+
+And in that moment, the madman’s hand landed on his head, and he lost the ability to speak up ever again.
+
+--
+
+A Few Seconds Ago
+
+Ryota frowned at Rhys, confused as to why his hand had stopped. “What? Did you think of something?”
+
+“To help me level up, sure. Well… maybe. If it works.”
+
+“Huh?”
+
+“This guy is…” Rhys paused mid-explanation. I shouldn’t explain the trash stuff in front of Ryota, let alone in front of this guy. Instead, he beamed. “Anyways, I think it’ll work!”
+
+“What will work?” Ryota asked, exasperated.
+
+“Watch and learn,” Rhys said. He took a deep breath and lowered his hand toward the man’s head.
+
+He’d done it countless times: taking an enemy’s discarded corpse and dragging it into his core as fuel for the trash star. Discarded things were trash. Rather, the foundation of trash was that it was something discarded. Back in his days in the forest with Bast and Straw, he’d discovered that fundamental truth, and it held true to this day—if he’d gotten a little more flexible about the exact definition of discarded.
+
+What he had in his hand right now was something discarded… or rather, something someone had attempted to discard. This man, in attempting to end his own life, had thrown it away. He’d defined himself as trash. This had made him much easier for Rhys to handle, which confirmed that he’d placed himself in Rhys’s domain. The question was, now: how far in Rhys’s domain was he? Had he truly transmuted himself into trash? And, if he was trash, was he then, therefore, fair game for Rhys to suck into his core and store there, alive but totally incapacitated?
+
+He wasn’t sure, but he thought maybe he’d brought living people into, or at least through his core before. That wasn’t what this was about. It was about drawing a living person into it and maintaining total control-slash-stasis over them, because they’d defined themselves as trash. It would only apply to a niche set of people, and he’d only be interested in even trying to use it on a niche set of people, but advancement was advancement! Making this small new technique now was one small step, but who knew what kind of giant leap it might turn into in the future? Or not, but that was fine, because his path was trash. Littering a few useless techniques as he went was just his way.
+
+All that to say that there was only one way to find out if he could or not, and Rhys had a wonderful volunteer right here who’d kindly raised his hand and offered to throw himself away for the cause. He gripped the man’s head and drew on him, pulling him into his core.
+
+There was a familiar sensation, the one he was used to from storing corpses in his core, but with ten times as much resistance. The man’s own mana naturally resisted something like being pulled into what was essentially the home of Rhys’s mana. For a second, the absorbing process stopped, but then Rhys burned his trash star hotter. The man was Tier 5, but so was Rhys, and he’d already absorbed the majority of the man’s mana. As a result, he had the raw mana to outpower the man, and now that he’d done everything he could to make the man fall even more firmly under his path, he rapidly overwhelmed the man with raw power. The resistance lowered, and the man vanished into his core.
+
+But that was only half the battle. The man was in his core, but he wasn’t incapacitated. True, as long as Rhys’s attention was actively on the man, he could keep him locked down, but he wasn’t really interested in watching some random masked man twenty-four-seven. If things were going to come to that, he’d just help the man kys (by which he meant ‘keep yourself safe,’ in the most absolute sense of sending the man to heaven). But with a man who had defined himself so completely as trash, he could surely find a more elegant solution!
+
+Realizing where he was, the man instantly began to struggle, clearly intending to do maximum damage to Rhys’s core. Unfortunately for him, he wasn’t in a traditional core, but a burning heap of garbage. He struggled close enough to feel the heat and stilled, equal parts confused and concerned.
+
+“Seriously, don’t kys. I decide when you kys, gosh dangit.” Rhys pushed the man away from the trash star and focused harder, wrapping his path around the man.
+
+His path took hold and gripped the man tight. Immediately, the man’s motions and struggles ceased. Rhys perked up, pleased.
+
+And then the man whooshed toward the trash star.
+
+“Whoa, whoa, no no no!” Rhys manually grabbed the man and prevented his path from sucking him any closer to the trash star. He’d only let it go for a split second, but the man was already dangling toward the core, hanging on the edge of its inexorable gravitational pull. It was still exorable out here, even if just barely. A few more inches… milimeters… whatevers, and he would’ve gotten eaten by the trash star, with no chance of survival. Space is strange in my core.
+
+Sensing an opening to seize the void, the man struggled, fighting to escape Rhys’s grasp. Rhys tightened his hold, refusing to let him go. “No you don’t. Not that easily!”
+
+He tried to clamp down with his path again, but the second he did, the man started sliding into the trash star again. He gritted his teeth, thinking. There had to be something. Some trash-preservation he could call on to put this man into stasis rather than immediately burn him in the heart of the star.
+
+An image came to mind. When he was a kid, the first time around, his parents had taken down the old shed in his yard, the one they never used. His father had knocked the wall down, and the whole thing had collapsed, spitting out a dried-up squirrel’s nest from the ceiling… and along with it, the desiccated, mummified corpse of a long-dead squirrel. His father had made a disgusted face and sent him for the shovel. He remembered carefully slotting the shovel blade under the mummified corpse and carrying it over to the garbage can, where he tipped it away out of sight.
+
+It was light, shockingly so. It didn’t stink, either. The whole thing was stiff, rigid as a board, with only scraps of fur clinging to its leathery black flesh.
+
+“God only knows how long that thing was in there,” his father had muttered under his breath.
+
+The mummified corpse, hidden away for years. Unrotting. Unmoving. Trapped in a sort of trashy stasis, until he came along and threw it away. This man was still alive, but in a way, he was like a corpse. It was what he so desperately wanted to be, in any case. Wanting to be a corpse, but not a corpse. Locked into endless non-motion, not here, yet not elsewhere either. That, too, was a form of trash. Like he’d been back home, wasting his life away as a pseudo-hikkikomori, voluntarily locking himself in his room, only dodging the title of NEET by landing a work-from-home job so the landlord didn’t evict him. Something between him, hidden away in his basement, alive but not engaging with the world, and the mummified squirrel, drying up in endless stasis; alive like him, but without agency, like the squirrel mummy.
+
+Mana exuded from the trash star and wrapped around the man. His path no longer pulled the man endlessly into the trash star, but gripped him another way. It clung to him, coating his skin almost like mucus. First his feet, then his legs, climbing slowly higher. The man struggled desperately, pushing at the mucus, but he was totally in Rhys’s domain now, and there was no escaping. The mucus-stuff crept up his body, clinging to his hands and climbing up his arms, too. Everywhere the mucus touched, his body went still and cold. Up his legs, over his torso. It clambered up his arms to his shoulders, then quickly encompassed his head, and that was it. His whole body was coated in the stuff. Within, he no longer moved or breathed.
+
+Er, but he’s still alive, right? Rhys touched the man’s forehead and sent a mote of mana inside him, checking just to be sure. The man’s heart didn’t beat, but his mana still remained, and it reacted to Rhys’s mana just enough to eke a single heartbeat out of his frozen body. Still alive, but motionless. In stasis, frozen in place.
+
+Rhys grinned, then laughed and punched the air, excited. He’d done it! Exactly what he wanted. It was kind of a waste on this guy, since he’d been perfectly prepared to kill the man in the experimentation, but whatever. Now that he had him in stasis, he could just hold on to him until he found a torturer… or some other purpose for him. He didn’t really know what he planned to do with the frozen guy, but he didn’t have to know. The guy was frozen. He could procrastinate the decision a little.
+
+With a mental tap, he sent the guy into his non-burnable trash pile and emerged from his core. Ryota stood just outside, watching him, and nodded as Rhys emerged. “You succeed?”
+
+“Yep!”
+
+“What were you trying to do? If you don’t mind me asking.”
+
+Rhys thought for a second, then snapped his fingers. “I put him… on ice.”
+
+“An ice technique? You didn’t strike me as a yin-aligned mage, but I’ve been wrong before.”
+
+“Huh? No, I… it was…” Rhys considered explaining to Ryota the entire history of shitty puns and catchphrases spoken enthusiastically to the camera in action movies, rejected the idea, then shrugged. “Well, something like that. Come on, let’s get moving.”
+
+“Get moving where?”
+
+“To the capital.”
+
+Ryota squinted at him. “Didn’t we just get bombed for trying that?”
+
+“Yeah, which is exactly why we should go there. If someone’s trying to stop us from going to the capital, that sounds like exactly where I want to be.” Rhys nodded like a cool guy and flew off.
+
+Ryota watched him go for a moment, then sighed aloud. “That’s… the capital is this way.”
+
+“Right.” Rhys about-faced and flew in the direction Ryota pointed.
+
+Ryota shook his head and followed.

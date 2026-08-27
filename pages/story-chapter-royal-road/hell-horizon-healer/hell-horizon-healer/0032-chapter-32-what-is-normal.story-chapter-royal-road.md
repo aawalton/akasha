@@ -1,0 +1,159 @@
+---
+id: ac59216e-a53d-561b-ae16-241ee3211cca
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32 - What is Normal?"
+slug: 0032-chapter-32-what-is-normal
+partOf: hell-horizon-healer
+position: 32
+ownLength: 1395
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3720993/chapter-32-what-is-normal"
+royalRoadId: "3720993"
+---
+
+Chloe Pov.
+
+Chloe watched Jake destroy his knuckles, the sickening crunch of bone sending pangs of nausea through her, a reminder of what it felt like.
+
+Bringing her hand up to her face, she gently grazed her broken lip. She realised in horror that he was holding back. This was his real power.
+
+…Or was it?
+
+What if he was holding back even more?
+
+Finally, he crushed through the skull until brain matter scattered across the bridge.
+
+(Lvl 14) Dreadknuck defeatedRewards: 1 Level.
+
+Jake bit his lip in shivering pain. He quickly used a heal, directing it straight to his broken hand. Chloe didn’t know how much it would work; it wasn’t long ago when he could only use it a single time, and only surface wounds. Though it was starting to get stronger…
+
+Don’t tell me, She thought, keeping control of her mana around her legs to maintain her support. He can even heal bones now? Don’t be ridiculous. There’s no way that’s possible… How fast is he growing?
+
+Chloe felt alarm bells in her head, which only settled when she saw that although Jake had used a heal, it wasn’t enough. His knuckles were misshapen and wrong.
+
+Then he used Minor Heal three more times, each time he took longer, like he was inspecting the bone structure underneath, feeling his way to success.
+
+When he was finished, he balled his hand into a fist, then shook his hand as if it hadn’t been broken before.
+
+Glenn asked the question she had.
+
+“Damn, did you heal the bone?”
+
+Jake shook his head, always keeping his words as short as he could. “I can’t do that yet. I tightened the muscle around them, supporting the fragments underneath.”
+
+“You can… do that?”
+
+“Healing the muscle when it’s broken makes it stronger,” he told them. “So if I keep breaking it, then the same rule applies.”
+
+“...Right,” Sloane adjusted her sword. “Because that’s definitely normal.”
+
+Jake looked up at her with those naive eyes. There was a glimmer of something within them upon receiving the comment. “Really?”
+
+“Yep. About as normal as a ten foot ape trying to kill us in a corridor made of suspended bridges.”
+
+Jake squinted his eyes.
+
+Sloane stuck out her tongue.
+
+Chloe didn’t know what to make of them. Was Jake just playing the part of a naive young man so that it was easier to do what it took to become strong? That must be it. He must be acting. The pain, the suffering, there was no other way.
+
+She learned to read rooms before she could read people.
+
+Her father came home the same way every night, stumbling in the door, reeking of alcohol. The silence was the tell. She knew within thirty seconds whether it was going to be a bad one. Knew it from the way he set the glass down, the angle of his shoulders, whether he looked at her mother or through her.
+
+She got good at redirection early. Find what he was already afraid of—losing face, losing control, being seen as less than he thought he was—and point it somewhere else. A neighbour, the news, or sports. Anything outside the house. Keep his attention moving and it didn't settle on them.
+
+She survived by making herself useful to his fear rather than the target of it.
+
+The journalism made sense after that. Weather first, then breaking news, then the anchor desk. The producers called it instinct. She knew exactly how much fear an audience could hold before they switched off, and how to keep them right at the edge of it. The storm might be coming. Stay with us.
+
+The system gave a name to something she'd been doing since she was eight years old.
+
+She uncurled her fist. Four nail marks in her palm.
+
+Jake looked up from his hand and his eyes moved across the group. They passed over her without stopping.
+
+They always did.
+
+She was good at finding the way into people. The specific crack—loneliness, grief, the need to be seen—-that let her in. Jake had no crack she could find.
+
+The thing she kept circling without landing on was that he wasn't hiding it.
+
+There was just nothing there.
+
+She didn't know what to do with that.
+
+And that was what scared her the most.
+
+***
+
+Jake Pov.
+
+Am I not normal?
+
+He'd been asked variations of that his whole life, though never directly. Teachers who called his parents. Colleagues who stopped inviting him to things. The HR note that said he could stand to work on his interpersonal communication, which he had read three times trying to identify what specifically needed improving. Was it his tone of speech, or words he used that offended people?
+
+Sloane said it like a joke. He understood it was a joke. That wasn't the problem.
+
+The problem was that Lyle hadn't said it like a joke.
+
+He flexed his hand and felt the bone fragments shift.
+
+He didn't know what normal felt like from the inside. He only ever knew it from the outside—as a standard other people seemed to meet without effort that he couldn't seem to get right.
+
+Was breaking a monster's skull with his bare hands abnormal? Yes, probably. Did that make him a psychopath? He didn't think those were the same thing. But he couldn't be certain his thinking on that was reliable.
+
+He healed his knuckles a fourth time.
+
+Even now as he flexed his fist, he felt that even after four bouts of healing, the strength hadn’t returned to normal. The bone shards were splintered and each time he made a fist, it hurt, bone stabbing into flesh or muscle.
+
+But for the most part, it was fixed. Healing muscle was proving to have more use cases than he thought beyond simple restoration. Strengthening his knuckles was one such case.
+
+And…
+
+He recalled the moment he sundered the ape's skull into pieces. That kind of strength was incredibly addicting.
+
+Replicating it proved difficult. He felt the tension of his muscles, moving it from his feet all the way to his arms just like he did before, but… nothing. No sudden, snap strength.
+
+Maybe it was a timing issue?
+
+There was no reward for killing the monster.
+
+There it was again—a sudden pulse from down the handrailing.
+
+“I felt it again,” Jake warned the group, and everyone got ready.
+
+“How far?” Lyle asked, tightening his grip on his axe.
+
+“Too far,” he replied. “It’s not close.”
+
+“Then what was responsible for cutting the bridge?” Glenn spoke up, nervous. “And how do we get back up?”
+
+“My bet is on Edwin,” Sloane scowled. “With us out of the picture there is no sharing the monsters. He’ll hoard everything for himself.”
+
+“We can’t let that happen,” Lyle spat. “If he is left solely in charge, everyone but the strong will starve. We’ve seen it first hand. He took everyone's weapons. Weapons to protect them. He took them for himself. I know you don’t care about them—”
+
+“Oh,” Sloane snapped. “Cut out the holier than thou bullshit, Lyle. We care as much as you do. Do you honestly think—”
+
+Jake clamped his hand around Sloane’s mouth, feeling her hot tongue against his palm for a moment before she closed it. He was certain the girl was about to lose her temper when she looked into his eyes and turned, facing the dark.
+
+“Is it coming?” Chloe gulped, reading the body language.
+
+“It’s already here—”
+
+The entire bridge was raised in the distance. The planks rose like a wave. Jake braced his legs, rising with the bridge. Glenn wasn’t so lucky. The surging bridge lifted him off his feet, making him squeal before he landed on his ass.
+
+Jake was in no mood to help him.
+
+From the darkness, a hulking figure emerged at least twelve feet tall and holding what looked to be a damned telegraph pole. Electricity buzzed from the top and snaked across the ape’s muscled forearm.
+
+The Dreadknuck was silent.
+
+The telegraph pole came down.
+
+A blinding arc of blue light hissed through the damp air, striking the main suspension cables to their left. The sound of snapping iron rang out like gunfire.
+
+Before anyone could scream, the entire midway section of the bridge sheared clean off its supports, tilting violently into the dark abyss below.
+
+They fell.

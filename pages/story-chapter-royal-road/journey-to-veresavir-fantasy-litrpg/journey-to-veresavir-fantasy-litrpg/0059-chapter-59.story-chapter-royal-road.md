@@ -1,0 +1,289 @@
+---
+id: 97e2de77-e1b8-5112-8898-001032a45623
+page-type-slug: story-chapter-royal-road
+title: "Chapter 59"
+slug: 0059-chapter-59
+partOf: journey-to-veresavir-fantasy-litrpg
+position: 59
+ownLength: 4695
+unit: words
+publishedAt: 2026-08-09
+link: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg/chapter/3792226/chapter-59"
+royalRoadId: "3792226"
+---
+
+Chapter 59
+
+A few more days followed, and a few more delves. Both Isaac and Veron managed to upgrade one of their aspects to the next tier. Isaac could now actively look for anything hidden. The range for his magic increased, and compared to the general sense that there was something in the area, his magic could now lead him through various hallways and rooms, then narrow down his search to a specific wall or corner of a room. So long as he had Focus.
+
+They found slightly more hidden treasure compared to before but more importantly, it took them less time to do so.
+
+Veron on the other hand finally reached the next stage of his Earth Harmony. Apprentice I.
+
+He tested it in his favorite park, the day after he’d unlocked it. He hung his shield from the same branch he used whenever he tried himself at knife throwing, then sat down and breathed in deep.
+
+He grabbed a handful of pebbles and looked at them.
+
+Now, what’s new?
+
+Spreading his awareness with his magic felt the same. Slightly deeper perhaps in terms of how far he could sense the stone below and around him. He focused on one of the pebbles and slowly made it float. It felt easier, though not significantly so. Veron breathed in and out, the pebble still floating. He could charge and shoot it, he knew as much, but something else felt different, as if it felt less limiting, less narrow, to float the small rock.
+
+This is it.
+
+Instead of charging the rock, Veron moved his attention to another one in his hand, trying to connect to it as well. The connection snapped into place and Veron breathed out with joy. He made the second rock float, then added a third one, and a fourth. It felt straining, but not four times as much, just more so than before.
+
+Now if this works, then…
+
+Veron charged the first, then the second, then all of them, and a moment later, they shot out at his shield, four almost simultaneous impacts slamming into solid rock.
+
+He smiled and watched his shield swaying on the branch.
+
+I got myself a shotgun.
+
+Or something kind of like it.
+
+Climbing up the power ladder, slow and steady.
+
+Veron thought about the others, about everything they’d learned so far, the progress they were making. He was enjoying himself, and he imagined they were too. A part of him reminded him about the time magic and the curse.
+
+Veron really did wonder if it would happen again in winter. It was half a year away still, and while he assumed that everything in spring was the same as last time, people could make different choices, battles could have different victors. The longer it went on, the less likely he assumed for things to stay the same. And winter was still a long ways off.
+
+He set the thought aside and focused on the now. Veron felt proud of the others, felt proud of being part of the team. And he was proud of his own progress too. Not just the magical kind, but as a team leader, and as an adventurer. He had a long way to go still, of course, but he was looking forward to it.
+
+Veron spent the rest of his Focus that day on testing his Harmony. First, there didn’t seem to be a limit to how many rocks he could now float and shoot, it just progressively strained his Focus more and more. Shooting two or three rocks at once didn’t strain him twice or thrice as much as shooting one, but what he lost was accuracy. The more rocks he added, the less precisely he could aim them. It didn’t matter all that much, he thought. Veron didn’t plan to use the skill at any particular range.
+
+Compared to before, he could charge the rocks more as well, making all the shots a little more powerful.
+
+In terms of shaping or how hard he could make his armor, nothing seemed to have changed.
+
+Having unlocked the ability to shoot multiple rocks made Veron very much aware of his limited Focus, though he could feel that his Path was slowly creeping closer to the next stage too.
+
+The following few delves went well, the group recovering more weapons and managing to go deeper into the Crypts. Veron had forty-five silver stockpiled at this point and for the first time since returning back to Anvakar, he allowed himself to get a single room at the Willard Inn.
+
+It was the best sleep he’d had in what felt like months.
+
+The group met up again the next morning, checked their gear, set a target hall, and made their way to the pit. It was a sunny day, dozens of other adventurers with all kinds of different gear readying themselves for the dive. The lifts were running nonstop. Veron felt calm. He was a lot more comfortable with the Crypts by now, and with the team.
+
+It was interesting to see people in much higher quality armor, equipped with lanterns and other obviously enchanted gear. All the while there were others wearing rags and the kinds of weapons him and his crew brought back and sold at Parker’s.
+
+It was a mishmash of emotions and experience, just like the buildings and streets of the city itself. Some would maybe bring back enough to pay for food and a place to sleep at night, while others might stay down there for days or weeks on end, returning with treasures and captured essence he could only dream about. And still, there was a feeling of shared purpose that Veron felt, even though he knew that people had different goals and ambitions. They all still went down into the same pit of Anvakar.
+
+He felt good climbing down the steel chains, and ready for another run.
+
+Today, they had chosen a deeper and larger hall as their goal, though they all knew that if anything unforeseen came up or if anyone got injured, they would return back up immediately. It felt comforting, to know and trust that everyone in the team was on the same page.
+
+Veron took the lead, his burning torch lighting their way into the darkness. The cool and stale air now felt familiar, as did the dripping sounds, the arched tunnels, and the unending brick walls of wet green and dry gray.
+
+They cleared one room after the other, checking in on each other from time to time, extracting the dead and deciding what loot to keep and what to discard. Veron knew this part of the Crypts by now. At first, everything had looked the same, but the more he had walked through some of the larger tunnels, had passed through rooms and halls, the more he could spot the subtle differences.
+
+The map helped. He had studied it frequently, but going down and really walking through the tunnels made him remember and connect what he’d learned. The forks and stairwells were the most important parts, almost always with slight tells and individualities. They were the guiding posts, though they were unlabeled and unmarked.
+
+Not for lack of trying, as Veron had heard, but just like Reka and the Wolves didn’t know if doors would lock back up down in the dungeon, sometimes, when something was left behind or altered, it would stay the same, for days, for weeks, or even years, but then from one day to the next, it seemed like nothing had been there at all. And nobody knew how that happened, let alone when or why.
+
+They reached their first big hall on the way, the entrance not through double doors as was usual closer to the pit, but through a broken ceiling and down a metal chain. There were other ways towards their target hall, but this one was the quickest one by far.
+
+Rushing wasn’t their goal, but they had limited torches, limited food, and water. More so, it was the dungeon itself that weighed on them. The dark tunnels, the endless depths. Always knowing that there could be a blood or chaos beast lurking. They prepared well, and progressed with care, but making good time was just as important, if not more so.
+
+One did not want to end up in the Crypts without light, with nothing to keep them warm, food and water running low, and more fights yet to come.
+
+Now that Veron knew them more, the Crypts seemed cruel. Having seen the second layer, the base camp there with adventurers meeting up and able to help each other, trade, or form larger groups to return back up. And the artificial light down there. Even to the Silver Wolves, the Crypts were just a place to traverse, not a place to explore or stay in. The creatures in the Gutter were vicious, and he couldn’t hope to face a Vereltir or a Cayaralan like he could face both skeletons and rats, but the Crypts grinded you down, with endless seeming tunnels, darkness, and the cold and damp. Veron even thought it more dangerous by now, though he had only been to a small part of the Gutter.
+
+“Three armored warriors, two of them with longsword and shield, and one with an axe,” Isaac whispered, bringing Veron back to the moment.
+
+“There’s a fourth with a crossbow, hiding in the corner over there,” Elke whispered and pointed.
+
+Veron could just barely make it out. There were torches burning down in the hall, and the skeletons didn’t seem to have noticed them yet. He quickly formulated a plan. “Ailis uses her magic to bolster us. We descend in order, rush the crossbow wielder, make our stand. Elke and Isaac, you take out the axe wielder. I’ll try to kill the first longsword wielder with my rocks, the last one we surround. Isaac, throw my torch before you descend, in the opposite direction of the crossbow wielder. Good?”
+
+The others nodded.
+
+Veron put his mace in its holder, and set down his torch.
+
+“Adventurers, this is your fight. Do not falter, do not fear. As one, we fight,” Ailis whispered, her eyes glowing for a moment as her magic settled in, the flames of their torches burning a little bit brighter for a moment, their gear feeling a little easier to bear.
+
+Veron grabbed the chain and descended, his shield strapped to his arm as he did so. He took a quick look around the dim hall, not spotting anything unplanned for. He landed in a crouch, took out his mace, then walked with quick steps towards the crossbow wielding skeleton.
+
+It noticed him just before he reached it, raising its weapon to aim.
+
+Veron rushed to the side and forward, shield raised as a twang resounded.
+
+He felt the impact on his shield and charged forward, slamming aside the creature’s weapon with his first strike, then wailing into it with more. Ailis was by his side the moment that he downed the skeleton, looking around to see the other creatures. A torch hit the ground in the same moment, on the other end of the hall. One of the creatures turned towards it, two more had spotted them.
+
+Elke landed and rushed over, aiming with her bow.
+
+Veron moved to the center of their formation as Elke joined them. She shot, her modified arrow hitting the unarmored shoulder of the axe wielder.
+
+One of the longsword and shield wielders was close now. Isaac landed and aimed, then shot the axe wielder, his bolt breaking through the rusted armor and making it stagger.
+
+Veron sheathed his mace, then broke off the bolt stuck through his shield and faced the longsword wielder. He stepped back to avoid a wide swing, then got close, a handful of round rocks held in his right hand. Elke shot another arrow, followed by a second bolt from Isaac. Veron saw the axe wielder fall in his periphery.
+
+He blocked the next sword strike and parried it aside, connecting to six of his rocks and making them float. With his now free hand, he grabbed the side of the skeleton’s shield and pulled. It was open and he aimed. Plate covered its chest, a helmet its head, but its skeletal face was exposed.
+
+Veron felt its sword scrape past his shield once more, right before he shot six rocks straight into its skull, breaking through the magic that protected it and shattering through bone.
+
+It slowly fell, its skull reduced to bits and pieces.
+
+Veron breathed out as Ailis stepped beside him, then glanced back to see Isaac on his left, and Elke on his right. Alright.
+
+The last skeleton approached now, having left the torch behind.
+
+They didn’t talk as Isaac and Elke fanned out slightly, Veron and Ailis walking forward, their shields ready.
+
+Veron blocked the first strike. Ailis struck the creature’s shield with her hammer. A bolt hit its left shoulder. Veron struck its shield as well, then kicked its core.
+
+The creature staggered back. An arrow whizzed past its shield and struck its helmet. Another bolt hit its chest, glancing off but throwing the warrior off balance. Veron and Ailis charged, Ailis hooking the shield with her hammer before Veron struck its head. It came off clean and clattered to the dry stone floor, ending the fight.
+
+Elke and Isaac returned behind them, then they waited for a long moment, in case something else showed up. Nothing did.
+
+Veron breathed out.
+
+“One for each?” he asked.
+
+The others confirmed, Veron and Isaac first to extract, then Ailis and Elke. There was no hidden treasure in the room, at least not based on Isaac’s magic. The two swords were usable, but a bit unwieldy to carry due to their length.
+
+“Let’s leave them here for now, and come back when we return,” Veron said. The goal they had set for this run looked different on the map, so he wanted none of them impaired, even slightly. “We can build our fire here, warm up and take a break, then we move on. It’s another half hour to our target.”
+
+The rest of the way felt less treacherous. More hallways, winding stairwells made of stone, collapsed sections they traversed slowly and with care, and small rooms with and without skeletons. They had yet to require healing, had warmed up in the large hall, and slowly recovered some of their used up Focus. Still, Veron felt on edge. They hadn’t traveled this deep before. By now, they’d gone as far as it would’ve taken to reach the Gutter, just less vertically.
+
+They soon saw their target at the end of a broad and downward sloping tunnel. A massive four or five meter high stone archway, with stairs leading up to it.
+
+Slowly, they approached, staying vigilant and in formation.
+
+Veron gestured to the right, the team gathering next to the open entrance as he took a peek inside.
+
+There was faint torchlight, no, candlelight, dimly lighting a long and narrow hall. Veron saw the outlines of rows of wooden chairs set up in half-circles, some with slumped skeletons in them. Old and tattered red banners hung from the walls. At the end of the hall and barely visible in the gloom, Veron could see a dais with a few steps leading up to it and an altar of sorts standing atop, candles burning on it. Something seemed to float behind it, a hooded figure wearing black, no facial features visible.
+
+There were plenty of known creatures that inhabited the Crypts. Of those he had heard about, only one fit the bill.
+
+“A necromancer,” Veron whispered to the others. He had read of them in one of Ellie’s books. Blood Path beings who could affect and raise the dead and skeletons around them. They weren’t as simple minded as most of the other creatures down here, but built and expanded their influence, to take over parts of the first layer.
+
+“Is there no other way in?” Ailis asked.
+
+“Isaac?” Veron asked.
+
+The man whispered to himself, then his eyes glowed for a split second. He looked up and to the right. It was faint, and tiny, but there was a gap in the stone.
+
+“I could fit in there,” Elke said.
+
+“We try, you sneak in, then come back and let us know what you find,” Veron said. He checked the hall briefly, but there was some distance from the entrance to the rows of chairs, and the hooded figure seemed immersed in whatever it was doing. It looks like an empty hood.
+
+They helped Elke up to the gap and she vanished a moment later. A minute passed and she came back. “A small stairwell and a balcony. It’s tiny but I can shoot down from there.”
+
+Veron considered. He would’ve liked to lure out any other dangers first before facing the necromancer, if that’s what the creature was. But if it could animate other skeletons, then being cautious could wear them down quickly. Which meant that rushing in and focusing fully on the necromancer could be their best bet. Even if they sustained injuries.
+
+Blood Beasts are proud, he reminded himself. And they were often smart too. He wondered how much it would understand. Running in seems ill advised. We have to assess the situation first, see how many of those skeletons are already moving. If we rush in, the necromancer may feel immediately threatened, whereas if we walk in with some obvious uncertainty displayed, we might be able to make it feel confident in its victory. And we can gauge a bit more of what we’re up against.
+
+“Got a plan,” he whispered. “Elke, you go up and wait. Aim and shoot only when you feel like the necromancer is preparing a spell of some kind. Try to interrupt it, as many times as you can. Ailis, you empower us beforehand. Us three, we walk in with caution, don’t let it think we’re confident. We see how many of the skeletons move to intercept us immediately. If it’s four or more armored variants, we retreat, ending our delve, Elke you would join us here. Three or fewer, we try to take one or two down. Same if there are more but unarmored variants. Once Elke makes herself known, I will try to get past the defensive line and rush the necromancer. Isaac and Ailis, you try to keep the others busy. Elke, from then on, you support who you think needs it more. Objections?”
+
+“You’re risking a lot if you go behind their line,” Ailis said.
+
+“Their main danger, as far as I understand, comes from their ability to raise and control other skeletons, not their own martial prowess. Besides, I do well in close quarters,” Veron said. “If I can’t take it down, you three try to create an opening for me to get out, and don’t worry too much, I can take a few hits, especially with your magic bolstering me.”
+
+They looked at each other.
+
+“Taking down a necromancer would feel pretty good,” Isaac said.
+
+“If you all want to try, I’ll agree,” Ailis said. “But the moment this goes sideways, we run.”
+
+Elke nodded. “We try.” She smiled ever so slightly.
+
+“You all know the plan?” Veron asked.
+
+They all confirmed.
+
+He looked at Ailis.
+
+She nodded and whispered. “Stand together. Fight together. Steadfast now, and we prevail.” Her eyes glowed slightly.
+
+Veron felt himself relax. His gear felt lighter, they could do this. He checked the projectiles in their pouches on his belt, opening them up. Then he checked his knives, sheathed within his armor. If his plan worked out, he expected things to get close and personal.
+
+They helped Elke back up into the gap, then prepared themselves. “Ready, let’s go,” Veron said and walked into the hall. He narrowed his eyes and consciously lowered his shoulders, moving his head quickly to suggest he was nervous. Deep down however, he felt calm. And he wondered if he could take down this creature. The first one worth a mention.
+
+He thought back to Perrion. But this was different. And it felt different too.
+
+When they reached the rows of chairs, the hooded figure perked up, a grim skeletal visage taking them in with dark pits where once its eyes would’ve been. It stood up, floating slightly as it waved its hand.
+
+Four skeletons raised from their seats, two of them armored. They held swords and axes, turning with slightly jagged movements to face the invaders to their hall.
+
+“Two armored, we proceed,” Veron said and stopped in his tracks, raising his shield as he watched the creatures bar their way. He could see the necromancer watching.
+
+Assessing? Not yet willing to use any of its Focus?
+
+Let them come to us.
+
+He started walking backwards. “Get them closer,” he whispered.
+
+The skeletons came their way. Their movements seemed different to the ones they had faced all this time. Even less fluid.
+
+“Isaac,” Veron called when the first of them came close, one of the armored ones wielding an axe.
+
+A bolt rushed out and struck the creature’s chest plate, failing to penetrate but sending the creature falling on its ass. Behind, he saw an arrow strike the necromancer.
+
+Veron rushed forward, past the downed creature. He went right, past the first unarmored one, then blocking a glancing strike of the second. He crashed into the second armored one, engaged for a moment as its sword struck his shield and his mace struck its shoulder. He kicked its shin and made it stagger, then turned and ran towards the dais.
+
+Veron could see the necromancer float backwards, raising its right arm where it revealed a short ornamental spear, gold tipped and bloody. It moved the spear right, blood flowing out from under its hood to form something near the tip. A few meters before he reached it, an arrow struck the creature’s side, unbalancing it slightly.
+
+Veron ducked as it swung, a wide arc of burning blood red flame expanding and cutting through the air above him. He could feel burning heat, then crashed into the being, tackling it down onto the ground. It was heavier than he thought, but not as heavy as he was. Veron let go of his shield and caught the creature’s right arm where it held its spear. Then he brought down his mace, the heavy strike meeting the same resistance as with any other skeleton he’d fought.
+
+He connected to the rocks in his pouches, floating six of them out as he tried to strike again, the creature catching his right arm and pushing down on his stone bracer. They were locked up. Veron watched the monster open its jaws, exhaling with a nauseating breath. Spiked bones burst out of its robes, biting into his armor with some scraping past. Its ribs had opened up and expanded, pushing him away.
+
+Veron charged his rocks and sent them straight into the creature, the six impacts crashing down on it, the force enough to loosen its grip on his arm. He ripped it free and struck down at its head with his mace, floating out another six rocks. A few of its ribs had pierced through his armor but he needed to stay close, not willing to face the spell it had used with its spear. Veron held on, then struck its right arm with his mace, again. Six more rocks were floating between them, and then he shot them out again, right when the necromancer opened its jaws again. This time, they broke through, at least a few of them cracking into its skull.
+
+It let go of its spear as Veron brought down his mace, its flat hand slamming into his chest in the same moment.
+
+Veron gasped, pushed off the skeleton by the strike and staggering back. He watched it reach for its spear, slowly floating up while brandishing its weapon.
+
+He grabbed his blade projectiles this time. Veron had enough Focus for another volley. He connected and charged, moving closer to the creature as it raised its spear. Another arrow struck its chest but it kept its aim true, the blood red flame explosively expanding and coming down in a vertical arc.
+
+Veron dodged left but his right side was hit, his arm going numb just as pain blossomed, only Ailis’ magic keeping him focused. His blades charged as he reached the necromancer, grabbing out and catching one of its expanded ribs. He held on and sent the six large blades shredding through dark cloth and shattering through bone. They both went down together.
+
+His ears were ringing and he grit his teeth against the pain, then screamed. From the corner of his eyes, Veron could see his team approach, Isaac sending bolt after bolt into the barely moving necromancer, Elke doing the same. He breathed deep and watched as Ailis brought down her hammer and shattered the creature’s skull.
+
+He felt her healing just a moment later. “Veron, can you hear me? You’re burnt, and need to extract. Can you do that?”
+
+He breathed out and shuddered slightly, watching on as the others pulled the necromancer close, then touched his hand to its broken out chest.
+
+His thoughts felt sluggish.
+
+What was that fire? You weren’t supposed to have that. But we won. Me and the team. We won.
+
+He could feel the pain intensify and then recede, the candlelight in the room far brighter than it had any right to be. It stung his eyes. Verom smelled the decay, the ancient bone, and the forgotten purpose that this hall once had. A hall like this, not this one. He smelled his burnt up flesh, and felt the heated stone that had saved his life. It reminded him of Perrion, but for once, that felt okay. He wasn’t there after all.
+
+He could feel the tension in the others as they waited, uncertain if it was enough. He breathed, and he remembered Anaville, Charlotte with her wrinkled face asking him what was on his mind. And he remembered Hayden, as he used his Way to stabilize a dying Silvie. It had happened, just like this hall had once been real.
+
+Veron breathed out, blinking his eyes as he raised his head, then set it down. “Is it dead?”
+
+“Yeah,” Isaac said.
+
+“I feel better,” Veron said to Ailis as she checked on him. “Can… the breathing salts,” he said, the smell of his own burnt flesh less present than before but it felt worse to him.
+
+She checked her pack and held them out and under his nose.
+
+He breathed in and relaxed.
+
+“You should’ve left as soon as it used a relic.”
+
+“That was a relic? It could’ve had that aspect, no? What aspect would that be?” Burning blood and fire.
+
+“The Ancestry of Tools,” Elke said as she walked over to check the necromancer.
+
+A relic. So we found a relic?
+
+Veron closed his eyes for a moment. He felt good. Better than ever really. A little confused too, and a bit ridiculous. Maybe Ailis was right and he should’ve retreated as soon as it had used that spell. But I dodged the first one, with the help of Elke. And I took it down. With almost my entire Focus.
+
+I wonder what Hayden would say. I guess getting close and shooting out stone projectiles is a really lethal way to fight, as you said.
+
+That was exciting.
+
+He sat up and sighed, feeling as if he had just woken from a dream. The pain and fire, the essence. It sometimes just felt different in the dungeon. There was something about this hall? He looked up and then around. An ancient place. He shook his head.
+
+Veron blinked his eyes. Something was different. “I think…”
+
+He looked inward to confirm.
+
+Elemental Path [Adequate]- Harmony of Earth [Apprentice I]- Harmony of Wind [Beginner III]- Hidden Harmony [Faint I]
+
+- Relic slot [Empty]
+
+- Relic slot [Empty]
+
+Right. Yeah. That feels good to see.

@@ -1,0 +1,133 @@
+---
+id: f48da507-3e19-5d86-91c0-e3cbcb25aedb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 711 - No ill will"
+slug: 0036-chapter-711-no-ill-will
+partOf: hell-difficulty-tutorial
+position: 36
+ownLength: 2115
+unit: words
+publishedAt: 2025-12-14
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2848256/chapter-711-no-ill-will"
+royalRoadId: "2848256"
+---
+
+“Who’s your Handler?” I ask Brich while waving at Victoria, who sees me and gestures that she will join us soon.
+
+“No one who’s well known, just one of the newer Handlers I got assigned to.”
+
+“Didn’t try to change your Handler?”
+
+Brich shakes his head wide. “I won’t. She’s always been good to me and done her best. There were some more powerful ones who showed some interest later, and my guild even tried to get me to change, but that just isn’t happening. Do you think it’s stupid for me to want to keep her as my Handler?”
+
+“Why would you care what I think? Just do what you want. As for me, I honestly think it is a little bit cool.”
+
+“You! I declare you my new favorite A rank! And it isn’t only because of "black mana."” My voice slides in, filtering out the two words, and I start to wonder if this might be the most genius thing I've ever done.
+
+So far.
+
+“So what’s your plan with the sword?” I ask.
+
+“Reverse engineering. We have some information on Ego items, but none of us has ever seen one with our own eyes. So it’s just the usual stuff! Eldrin, Isolde, and Silverweave want to examine it, while I’ll be the one to carry it and continue our efforts to bond with it. It is surprisingly difficult, but it should be possible for Ego weapons, even though Calvorn is a rather powerful example of the category. Plus, its devouring abilities are interesting in their own way.”
+
+“Powerful enough to sacrifice a low pristine item for?” I ask, going off the information I got from Weslin.
+
+Brich nods excitedly and reaches over his shoulder to give the sealed sword a tap. “Even a few of them! I might even get them to offer you a low pristine item for a chance to study your "black mana" in detail. They’ll probably say no, pristine items are really, really hard to get, but I will try. If you were from a guild outside the top 10, they would’ve probably just asked me to kidnap you, but no one seems to want to mess with Primordial Knights at the moment!”
+
+“Why the fuck does every guild in the top 5 seem to be so fond of kidnapping? And why not? Because of Nyssa?”
+
+“Especially her! But Morwag can also be… unpredictable, and after talking to my guild, they seem to think there’s a high chance the Doc’s been working on you as well. Stealing his test subjects, generally speaking, is not a good idea. You could even say it’s a really shitty idea.”
+
+“They’re really scared of that Catboy?
+
+"Very much so! Maybe even more than Morwag. You should be worried, too. Eldrin and the others are attendees, but we’ve all heard enough from our local guild members to be careful around anything connected to the guy. I heard that a hundred years ago, he tampered with the climate control in the headquarters of a top 20 guild, locked them all in, and basically fried them all alive. All because they tried to steal his blueprints!”
+
+Brich laughs at that and continues to blabber, “Then, about two hundred years ago, he was suspected of killing an S-rank with a rare metal that turned out to be toxic. They think Doc sold the stuff to the crafters’ guild through one of his contacts, and the guild used it to make an item for said S rank. The metal slowly corroded and released trace toxins into his bloodstream. The poor guy didn’t even make it to the end of his tutorial before it killed him. Apparently, because the S-rank joined the Primordial Knights just so he could get an implant from the Doc. And once he got it, he bailed without sharing any info about how the implant performed."
+
+This time, I decide to stay quiet and not tell him that, at least to me, that all seems somewhat reasonable.
+
+That’s when Victoria joins us, carrying a small plate of snacks, which she offers to me. “You should eat some, Nathaniel, you must be hungry. Have you been drinking water too?” she asks instead of greeting.
+
+“Thanks!” I grab a few snacks and nod. “Of course I drink water, you know my head hurts when I don’t get enough liquids.”
+
+“Good.” She nods seriously and turns to Brich. “Greetings. Allow me to extend my greetings to the Crimson Forge as well and offer my assurance that I bear you no ill will for what happened during the event.”
+
+Shaking her hand, Brich nods. “That’s good! There are too many people who take these things too seriously and just can’t let go of their ego. It’s silly, and it twists one’s thinking, after all, not everything can go your way.”
+
+Victoria nods in agreement. “Such emotions only ruin opportunities and obstruct logical thinking. I overheard you telling my brother about the Doctor. Knowing him, he probably did not know about any of it.”
+
+“Oh? So he’s one of those?” Brich flicks his eyes between my sister and me.
+
+“Yes,” Victoria said with a nod. “Though he can be perceptive in certain situations, he can be completely blind to others. For example, his current reputation and the way that thing above his head exaggerates things.”
+
+“I’m doing it on purpose, Vic,” I defend myself.
+
+“This is the answer I expected from you, but what I said still stands, Nathaniel.”
+
+“So tell me, are you aware of your reputation?” Brich asks joining the conversation. When Victoria looks his way, he smiles at her and then looks at me. “An Absolute candidate, all but confirmed to be a future S rank. Someone with a skill similar to that of The Last Elf, who is said to be hunted on sight, and also with a mind powerful enough to handle that skill. How rare. Now, Miss Victoria, wasn’t it just a month or two ago that an elite squad from Silent Veil tried to kidnap you for a client, and still ended up dead despite their preparations?”
+
+Not skipping a beat, Victoria continues to look at him. “And wasn’t it just two months ago that Crimson Forge hired one of the well-known mercenary groups to kidnap and deliver a certain attendee?”
+
+“Maybe. Why don’t we change the subject? Want to see something fun?” Even though he is smiling, I can see that gleam in his eyes. All of what he just asked was to test Victoria, just like he did with me.
+
+“Did you come here to steal something valuable?” I ask him.
+
+Brich shakes his head. “Not this time, but I agree that would be fun! If you look at that thylarin gentleman in black near the balcony, the one speaking to the thylarin woman, well, you would be looking at the Ruler of Wrath acting through one of his Vessels in Beyond. I think he has at least two more, a human and a lynthari.”
+
+Both me and Victoria look that way, and as Brich said, a thylarin with six arms wearing entirely black clothes stands there calmly, speaking to a thylarin woman. There are likely some people who’d recognize him, but like Greed, he seems to be keeping his identity secret. Though I would say Greed hides it to a bigger extent than him, given that I have yet to meet anyone who knew it was her.
+
+Looking at him with us, Brich keeps talking, “After I got back to my guild, I started digging for information on that Christoph guy and used the guild’s funds to do it. And if I’m right, the Ruler of Wrath is his Handler.”
+
+“I wouldn’t be surprised,” I say while Victoria continues to examine the Vessel of the Ruler in the distance and glances at Brich as if to be sure he’s not lying.
+
+“And you are telling us this because?” she asks.
+
+Turning just a bit less cheery and more serious, Brich answers, “Take it as a show of goodwill and a warning. I don’t think either of you is dumb, but that man who started in Beyond is very dangerous, from what I have seen. More so than the usual S ranks. And with Wrath behind him, I don’t know, man, I would be very careful not to cross him.”
+
+“It doesn’t matter,” Victoria says simply and looks at me.
+
+I nod as an understanding flashes between us. “Not at all.”
+
+Looking at us, Brich just shrugs. “That’s the spirit! I’ll be sure to use my guild's finances to buy all the information I can get on your tutorial, because this is sure to be amusing.”
+
+“Just give me the shards, and I’ll tell you,” I say.
+
+Brich blinks, flashing a grin. “Hell yeah, I will.”
+
+As if remembering it again, the lumoran reaches out with his hand and taps the surface of the crown floating over my head. I let him do it and observe curiously, while relaxing my hold on the crown.
+
+The S rank and Absolute Candidate, as with every other S rank, tries to fight back and stop the crown from absorbing his mana while trying to observe the process. He does it in a way not unlike the method I used so long ago, by using his own mana to observe it, but it doesn’t work. Any mana used for observation gets absorbed and prevents any information from escaping.
+
+His mana starts to get pulled as well. Even though the crown is not made from that much mana, and so the pull should not be that strong, it is made through a combination of my high-leveled and high-graded skills as well as my growing mastery over it.
+
+So I watch it absorb his mana. At first slowly, but quickly hastening as his mana is added to the black crown, strengthening it and accelerating the rate of absorption, strengthening the crown even further in the process. Brich is stubborn and has that curiosity I always admire in people, so obviously, he continues to push, releasing more of his mana and pulling on some of the mana batteries hidden on his person. It is fun to watch, even without doing anything on my own.
+
+When the crown strengthens to the point it starts pulling on the mana around us, I jerk my head slightly forward, feeling a gentle slap on the back of my head.
+
+Victoria looks at me wordlessly, and I start to realize the attention we are getting. It is something she doesn’t usually mind that much, but at this point, it’s starting to become a disruption to the party.
+
+Disappointed, I expend more effort and pull the crown back under my control, stopping it from reaching for the mana surrounding us or taking any more from Brich.
+
+That lumoran looks at me with eyes wide open. “I don’t think I lack for talent when it comes to handling mana, but I have to praise your mastery in turn.” Reaching into his shirt, he then takes out an empty mana battery and hands it to me. “As a thank-you for letting me indulge my curiosity!”
+
+I take it without hesitation, quickly checking its price in the system store. It shows at twenty thousand shards for me to sell, making it a low arcane.
+
+“Do you want it?” I offer the stone to Victoria. I already have the mana batteries I saved from the Armory before the Ruler of Diligence buried it, and they should be better than this. Well, not like I won’t offer them to Vic as well.
+
+She takes it from me, too. “Thanks. While I have no need for it, I can give it to Gloria, who will surely find some use for it.”
+
+“By the way, Brich, Lyraen isn’t where he stood before,” I say to the lumoran.
+
+That makes him turn around wildly, searching for the floating vyssari. Even though he surely doesn’t believe he would be attacked here, he seems nervous.
+
+“Why did you bring Calvorn with you?” I ask, ignoring all that. “Wouldn’t it be safer in the guild?”
+
+For a moment, the man straightens up and, surprisingly, winks. “It would be.”
+
+After that, he waves us off and starts walking toward some other people.
+
+“They are probably taking the opportunity to display their prize, Natty, or using him as bait.”
+
+I nod. “There are at least three people constantly watching Brich, but instead of ill will, it seems like it is for his protection, or whatever they are planning after the party,” I say.
+
+With disappointment, I watch Brich leave, envying his exciting and chaotic life.

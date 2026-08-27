@@ -1,0 +1,200 @@
+---
+id: 8bd10645-bb46-5473-9ee8-d4cd70af8ee4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 990: Monstrous on the Inside"
+slug: 0057-chapter-990-monstrous-on-the-inside
+partOf: he-who-fights-with-monsters
+position: 57
+ownLength: 2099
+unit: words
+ownProgress: 269
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3124477/chapter-990-monstrous-on-the-inside"
+royalRoadId: "3124477"
+---
+
+Delia looked up at the alien eyes looking down at her from within the dark hood. He held his hand out to her as his uncanny cloak vanished to reveal his face. His eyes dimmed, turning from strange nebulae to dark brown. She clasped his hand and he helped her to his feet. That she needed the assistance was startling, not having felt weak in years.
+
+“Drink this,” he said, holding out a glass vial containing purple liquid. “It might taste a bit funny — my friend Jory has been experimenting with local ingredients — but it’s good.”
+
+Delia pulled out the cork and swigged it down without hesitation. The taste was awful, like cheap salami coated in sugar, but the effect was immediate. She felt magic flood through her body, stronger than her own. The lacerations scoring her body closed, and her battered muscles were soothed.
+
+“Was that a gold-rank potion?”
+
+“Told you it was good. How are you holding up?”
+
+She looked herself over. Through the rents in her clothes, she could see scars left behind where her wound had been.
+
+“I don’t think it healed me right,” she said.
+
+“It healed you right. We can talk about that after, though. We need to go get your people.”
+
+“Are they alright?”
+
+“No. I’m afraid they’re not.”
+
+***
+
+Eleven vampires dangled in the air over the cathedral’s carpark, held aloft by Jason’s aura. Four of them were snarling and thrashing like animals, flailing at the air. The others were calmer, their expressions ranging from fearful to calculating. Standing under them was a clone of Asano, but with solid red orbs for eyes.
+
+“They’ve turned them,” Delia said, her voice shuddering as she stared at her team.
+
+“The four are yours?” Jason asked.
+
+“Yes.”
+
+“The good news is, they’re not too far gone. Feed me your sins.”
+
+Red light started shining from within the feral vampires, the representation of their life force. What should have been a bright, clean light was dim and murky. The taint immediately started to flow out of the feral vampires, floating through the air like smoke on a breeze. As the stain left the vampires, their life force regained the normal, healthy red glow. Their wild thrashing turned to confusion, then exhaustion, until they finally passed out. Jason gently lowered the four to the ground, leaving the others dangling in the air. Delia dashed over to check them over.
+
+“You turned them back?”
+
+“Forcible turnings usually result in a ghoul or a feral vampire. There’s a window, before the change fully sets in, where the vampiric curse can be purged. Anyone with a sufficiently powerful curse removal power can do the same. They’ll take time to fully recover, though. Healing magic doesn’t work on spiritual damage.”
+
+“Spiritual damage?”
+
+Rather than answer, Jason floated the four recovering bronze-rankers over to the grass.
+
+“Colin, ask the vampires why they’re here. Take them somewhere that Delia won’t see or hear what happens to them.”
+
+Delia finally looked at the copy of Jason. Although their features were identical, it was clear they were different people. The copy was looking at the vampires with a hunger that sent a chill down her spine.
+
+Jason sat on the grass next to her unconscious subordinates and she did the same.
+
+“You feel weak, right?” he asked her. “Like the energy that’s always been there, ever since you became an essence user, is suddenly gone?”
+
+“What happened to me?” she asked.
+
+“The same thing that happened to me a long time ago. There’s a village in the other world, at the foot of a small mountain, out in the desert. It has a waterfall that shoots out from a portal inside the mountain. Gorgeous little place, and the first one I ever visited in that world. Well, there was this English-style manor house in the middle of the desert where a bunch of cannibals lived, but doesn’t really count.”
+
+“I would love to hear every story you have.”
+
+“There’s some crazy stuff. More than one about this village, in fact, but let’s stick to this one for the moment. I ended up going back to the village later, while passing through the area with my companions. We were on a training tour, preparing to rank up. A monster spawned, far too much to handle. I took it on anyway, distracting it from the villagers scrambling to evacuate. I couldn’t win, of course, but every moment I could buy meant lives saved. I had a desperate hope that someone would come and save me, but I was pretty sure they wouldn’t. I imagine the story is sounding familiar.”
+
+“Too familiar,” Delia said with a shudder.
+
+“Like you, I ended up passing out, thinking it was the end. Then I woke up, not quite the same. That was how I got my first and, to this day, still largest scar.”
+
+Delia looked down at her arms and torso, seeing the scar tissue revealed by the rents in her clothes.
+
+“It wasn’t that the potion didn’t heal properly, is it?”
+
+“No.”
+
+“Scars. I didn’t think we could get those anymore.”
+
+Jason pointed to the small scars on his face, bisecting one eyebrow and leaving a thin hairless line in his beard.
+
+“I thought they were from before you had magic. That’s the general opinion online.”
+
+“I can see why that would be a surprise, then. I haven’t used the internet much over the last couple of decades, but I assume it’s still a place where people are painstakingly careful about the integrity of information they put out.”
+
+He waggled his eyebrows comically and she couldn’t help but laugh. Then, like a dam bursting, all the emotion came flooding out. Laughter turned to tears, her body shaking as she sobbed out the fear and panic, desperation and relief. Jason waited patiently for it to pass.
+
+“I’m sorry,” she said after settling down.
+
+“Don’t be. It’s better than bottling it up, trust me.”
+
+She leaned back in the grass, looking over at her people.
+
+“Are they really going to be alright?”
+
+“They’re going to need a lot of therapy, but yes. You will too.”
+
+“I’m fine.”
+
+“I just watched you have an emotional breakdown.”
+
+“I… have nothing to say to that.”
+
+He let out a chuckle.
+
+“I’m not kidding about you seeing someone. I know some specialists in the field. You’ve heard of Rufus Remore?”
+
+“Of course.”
+
+“I brought his mother back with me. She’s basically a wizard therapist. She helped me through a lot.”
+
+“I really will be okay, breakdown notwithstanding.”
+
+“I know. But those new scars run deeper than you think. It wasn’t the lions that left them there.”
+
+“But the lions left the wounds.”
+
+“It doesn’t matter happens to your body. Anything you live through, magic will heal, scar free.”
+
+“Except that I do have scars. As do you.”
+
+“Do you know how the soul affects the body for essence users?”
+
+She shook her head.
+
+“Basically, the soul is a blueprint for the body. Our self-image defines our physical representation, more and more with every rank. People don’t grow more attractive with rank just because imperfections are being removed. We move closer with each rank to the way we see ourselves, or perhaps the person we want to become. I had a difficult relationship with my brother, but with every rank-up, I find myself looking more and more like him. We made amends before he passed, but on some level, I still want to be him. Or the imaginary version of him that has been imprinted on my mind since we were kids.”
+
+He stared into the distance with sad eyes and a warm smile, then turned his gaze back to Delia.
+
+“Our souls are who we are. What we are. And the more our magic grows, the more thoroughly our bodies represent that. For most people, power comes with confidence and self-assurance, and that is reflected in our bodies. That’s also why you occasionally come across someone who doesn’t look like they just walked off the set of a teen drama where all the actors are twenty-seven. Insecurity or self-loathing can make a person’s body reflect how ugly they are on the inside. It doesn’t happen much, though. I’ve seen people who were monstrous on the inside and drop-dead gorgeous to look at.”
+
+“Are you saying that the scars aren’t on my body, but on my soul?”
+
+“I am. The scars are just a representation. What matters is that you were faced with a truly defining moment, and you made a choice. Souls change all the time, but those changes are usually slow and gradual. When the change comes fast, and cuts to the core of who you are, it leaves a mark.”
+
+He reached out to tap her lightly on the shoulder, and a System window immediately appeared.
+
+The window vanished after she read it and a new one took its place.
+
+New Title: [Resolute]
+
+“Title?” she asked.
+
+“It’s a video game thing. Kind of like unlocking an achievement.”
+
+“I don’t really play video games.”
+
+“It’s how the system represents things that impact your soul strongly enough to have an affect on your magic.”
+
+“And you let me see that. Because you’re the system administrator?”
+
+“Yeah.”
+
+“Like the guy who blocks websites on the office internet so people don’t look up celebrity feet at work?”
+
+“That’s a fairly specific question.”
+
+Delia glanced over at one of her unconscious team members.
+
+“Bethan is a good fighter, but not a great employee, if I’m being honest.”
+
+They sat in silence for a while, him leaning back and looking to the blue sky with a smile. She looked over her people. They’d put up a fight, from their injuries, but not much of one. Three of the seven vampires Jason had left to his familiar had been silver-rank.
+
+“Why did this happen?” she asked. “We’re on the far edge of nowhere, what is here for them?”
+
+“This was one of a series of simultaneous attacks around the periphery of vampire-held territory. The humans have been hitting Europe hard over the last few weeks. This might be the start of the vampires hitting back, I don’t know. My friends and I were asked to intervene in places that were lower priority and harder to reach quickly; we aren’t deeply involved. I imagine we’ll learn more as people report in. Speaking of which…”
+
+He looked up as his red-eyes clone came down the path from the cathedral, passing under a brickwork archway to enter the parking area. In one hand was a napkin he was using to dab at the side of his mouth. In the other was a severed arm.
+
+“Colin!” Jason scolded, getting to his feet.
+
+“What?” Colin asked, then looked down at the loose arm as if surprised to find it there. He quickly tossed it over the fence and put on an innocent expression. Jason rubbed his temples, letting out a groan.
+
+“Colin, remember the talk we had about the vampires actually being victims and we should respect their remains, even after we’ve killed them.”
+
+“He’s not dead,” Colin said. “I kept them all alive even when they begged me to—”
+
+“What did you find out, Colin?”
+
+“They don’t know much. They were ordered to come here, turn the essence users and have them massacre the population. They didn’t ask why, and don’t seem to care much.”
+
+“What do we do now?” Delia asked.
+
+“Keep an eye on the town until backup arrives,” Jason said. “My shadow familiar is patrolling around. I’m just a hired gun on this one; the humans are running the show. Once that’s done, I need to go. I have a long-awaited guest I need to talk to.”
+
+***
+
+Jason arrived on the space station that orbited the main planet in his personal solar system. The space station served a variety of functions, one of which was a place for cosmic visitors to arrive. His astral kingdom was now fully realised, occupying a space within cosmic geography that others could visit.
+
+Jason watched through an observation window as a dimension ship arrived. It was a transparent sphere that seemed to contain a sandstorm churning wildly within it. Rather than an airlock, a bridge of rainbow light extended from the space station to touch the vessel. A woman walked through the wall of the ship as if it was an illusion and strode down the bridge. Jason met her at the door, which slid open at her approach, greeting her with a nod that she returned.
+
+“Hello Jason.”
+
+“Hello Raythe.”

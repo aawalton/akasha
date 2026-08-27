@@ -1,0 +1,121 @@
+---
+id: 63910be9-8461-5cd9-ad54-385fad83af2a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 786 - The Lycan"
+slug: 0111-chapter-786-the-lycan
+partOf: hell-difficulty-tutorial
+position: 111
+ownLength: 2489
+unit: words
+publishedAt: 2026-04-05
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3236389/chapter-786-the-lycan"
+royalRoadId: "3236389"
+---
+
+“It has been three thousand three hundred years since I last saw a human. It was my intent to stay here for a while without being interrupted. Yet, here you are, a group of humans finding their way into the depths of the Mass, during one of the Harvests, even.”
+
+“We didn't expect anyone to be here. We can leave as quickly as we came,” I say as I step in to speak on our behalf.
+
+I think that out of everyone here, I have the most experience dealing with powerful people, and this entire adventure has been my idea. So if anyone has to die because we pissed this guy off, it should be me.
+
+“Leave...” the velnar mutters and slightly shifts on the throne, “but that would likely only lead to your death. There’s no need to be scared of me. I have no desire to kill people as weak as you without a good reason. You can move to the corner and sit there quietly in fear, or have a conversation with me. I don't mind either way.”
+
+“We had hoped to find parts of some powerful monsters down here, the Mass, as you called it, may not have digested yet. And what even is the Mass?”
+
+The velnar looks my way only while answering, “The Mass is, well, a rare species of monster that feeds on corpses, items, and fragments, growing stronger as it consumes them. If I am not mistaken, this one belongs to the Elf.” He waves a hand, and the raw momentum in that casual motion would be enough to turn my brain to slush if I tried to channel it. “The Elf is either trying to raise it to replace the Ruler of Gluttony, as he so often does, or to use it as a planetary scale weapon. Tell me, are you Kindness’s spies?”
+
+I blink at the unexpected question. "We are not."
+
+“Huh, you don’t seem to be lying.” He scratches his chin. “I was sleeping until a few months ago, when I was awakened by her presence on the surface, brief as it was, much like the life of the demon she took over. Still, I am the last one who would blame others for the whims of the Rulers. Your question regarding the Mass should be answered by now, and you might also be curious about the demons on the surface. They come from nearby solar systems and began moving here after discovering this planet, drawn in by their hunger for danger. They’re cute little things, aren’t they?”
+
+"I agree," I nod. "Is there something you want to ask me? I don't want to annoy you by asking too much."
+
+"I don't," he answers simply and stares at me.
+
+The silence begins to stretch, awkward and uneasy, as he calmly rests his chin against his fist. Somewhere behind me, I sense Izzy moving to pick up Biscuit, who is beginning to realize his friend is dead. Though saddened and held in Izzy’s arms, I can sense through our connection that he is ready to fight if anything happens. It’s the same for everyone here, and it annoys me that I don't know if it’s the right action now that we’re standing in front of this velnar.
+
+Does he prefer honesty and straightforward conversation? Would he prefer for us to stay quiet and try to leave? Would he even let us leave? He said he’s been hiding here, after all. Would he get annoyed if we grovel and totally give up? Or would he get angry if we show even a little bit of willingness to fight?
+
+These questions burn in my mind as the time slowly ticks down. Too slowly for my taste, and the velnar doesn't even for a second take his eyes off me.
+
+“I have changed my mind,” he says out of nowhere. “You bear the mark of your bond. And there’s also the faint scent of one of the Rulers, but it’s the last presence that makes my blood boil. Not even a Ruler, but an Absolute, your master. Tell me, human, who she is, and I shall reward you.”
+
+My hearts are about to thump wildly as I imagine how the conversation might be about to unfold, and what could happen if I mention the tutorial and trigger the natives’ censorship, but I have no choice. None at all. I take my time answering, stretching the remaining time on this floor as long as possible before we get our portals out.
+
+"It’s a mark that was placed on me by Lissandra Hawthorne... it’s very complicated."
+
+For the first time, interest flashes in his eyes, and a bit of his presence seeps into the area.
+
+Before I even realize what is happening, I am on the ground, my head bouncing off the hard rock before I can regain control of my body or my senses. I brace myself with one hand, then retch. Food, water, and blood spill onto the floor, and I cough again as I force myself back to my feet.
+
+I keep just one eye open, trying to stave off the overload of information. Watching the wavelengths of mana, I see that this entire room, the throne, and god knows what else all serve to suppress his power and hide his presence.
+
+Politely, though with little genuine concern for our lives, the velnar says, “I apologize for the slight lapse in my control. As for your answer, I cannot understand how that is possible. The Absolute has long been dead, and I personally witnessed the battlefield she left behind after her duel with Pride. I would also have heard rumors had she returned or left behind some kind of replica. From what I know, she would never permit such a thing, and Pride is certainly not known for leaving his work unfinished.”
+
+My eyes sweep back to the group. Most of them are still sprawled across the floor. Lily remains unconscious, while Sophie kneels over Izzy, who’s still spasming and groaning in pain. Nearby, Biscuit stands his ground, primordial energy rising as he growls at the velnar.
+
+I look away from them again and toward the man on the throne. "I met her during my tutorial, where she left her mark on me."
+
+He furrows his brow. "Once again, you don’t seem to be lying. I, of course, know about the second floor that Greed has set up. Now that you mention it, the Ruler’s mark on you might be hers. It would make sense for her to show an interest in someone her master has marked. But there is something off. The tutori..."
+
+His words cut off mid sentence, his expression going blank as every trace of movement leaves him. The silence that follows feels wrong, while beyond us, the world continues to shake and vibrate as Mass carries on with its Harvest.
+
+One second passes, and the Lycan continues to talk as if he didn't even notice the pause. "You answered my question, so tell me, what would you want?"
+
+"Let us go," I answer simply.
+
+And he talks just as simply. "That’s something I cannot let you do. Though you are no threat to me, and will likely die outside, there is a small chance some of you would make it through the Harvest. Then, you would be leaving with information about my presence here. I went through much effort to set myself here in the ruins of one of the elves' planets, which the Elf has converted into the Mass. All these restrictive arrays, and even the Mass itself, devouring some of my presence, it is not as simple to find a combination like that."
+
+"So much for not killing people."
+
+His mouth twists into a smile, but it doesn't reach his eyes. "I will not kill you if you don’t give me a good reason. I just won’t allow you to leave." As he talks, I begin to realize more strongly how differently someone at this level thinks in comparison to us. "With your levels, none of you will live long enough for it to trouble me. A few hundred years of your presence, I can endure. And if, at any point, you decide it’s too much, just tell me, and I will end your lives painlessly."
+
+Once again, silence settles between us, and I allow it to linger and stretch for a few minutes.
+
+"I see," I answer before asking to change the subject, "And what is that?" I ask, gesturing at the pile of items near the throne and the body that’s been lying just behind it this entire time. It is entirely covered in light blue scales, the shape of which slightly reminds me of a lizard.
+
+The velnar does not even turn around as he answers me. “That is one of the Elf’s experiments, left to grow in one of the facilities. He was likely hoping that the Mass’s presence would hide it. And if I’m not mistaken, he was unsuccessfully trying to replicate a Wyvern. I killed it on the day I arrived. As for the items, some belong to me, while others are ones I found in the facilities during my early years here. You don’t need to ask. Feel free to satisfy your curiosity and examine the corpse or the items.”
+
+"I would thank you, but..."
+
+"There is no need for politeness," he cuts me off and stays quiet, his eyes moving away from us.
+
+Organizing through the [Connection], which he must know about but doesn't seem to be listening to, Group 4 gets to their feet. At least those who can. Speaking through the [Connection], we exchange messages meant to trigger a System reaction and blank out the velnar if he were to overhear them. We talk about the tutorial and other things to test it, but the man doesn't react in any way, confirming he either isn’t bothering or can't listen.
+
+Her eye even now continues to bleed through the cloth she’s kept on it, but Tess stays with Lily, and Sophie remains with Izzy. Meanwhile, the twins, Biscuit, and Min-Jae move toward the corpse, while Maya and I head toward the items.
+
+Under the velnar's watchful eyes, I wonder how we must look. Greedy for items even while Lily remains unconscious, and Izzy just weakly rests in Sophie´s arms with Noodle as well, because of their bond? Does he look down at us? Does he find us pathetic, thinking about what we could even be trying to do, since we’ll be spending the rest of our lives here?
+
+Maybe he pities us. Maybe he just doesn't care.
+
+I know what we’re doing is logical, and that there’s nothing we can do for Lily right now, much less Izzy, or Noodle, yet I myself find it pathetic in a way, and it angers me.
+
+Time passes, and Maya and I locate the most interesting items. Between them are many upper arcane items and a low pristine one, a small ring made of many-colored metals. The others make a plan regarding the corpse. Given its size and how powerful the body seems to be, they decide to take some loose, almost fallen scales and are going to attempt to stand close when the portal appears to try to pull through a leg or a part of it.
+
+Meanwhile, my eyes keep drifting toward the last few items resting against the side of the throne, just an arm’s reach from the velnar. Our gazes meet, and a cold feeling coils inside me. That feeling isn’t just coming from him, it’s directed at me, the situation, and that is mostly because I very strongly realise how much worse this could be
+
+Congratulations! You've successfully completed the 9th floor's main quest. An entrance to the 10th floor has been created.
+
+At the same moment, all the portals appear, each near every one of us, and the velnar, for the first time, straightens up on his throne. His golden eyes look around, and for a moment, he looks like a wild animal sensing something amiss.
+
+He watches Tess as she takes a step and passes through the portal with Lily, a portal he cannot see, and his eyes widen in surprise before his face turns blank. When his reason returns, he looks away from that spot only for the same thing to happen as he sees Sophie and Izzy disappear, and he blanks out again.
+
+When he regains his senses this time, a slight hint of anger he doesn't understand remains. That anger grows further as Maya disappears with some items. The twins and Min-Jae pull one of the wyvern replica’s arms through their portal just as it closes, cutting the limb cleanly off.
+
+The velnar, smelling blood, sniffs the air and closes his eyes in deep concentration. He doesn't even glance toward where Biscuit stood before as he also passes through the portal.
+
+The pressure around the Lycan begins to build, and pitch-black fur, the same color as his long hair, begins to sprout from his skin. His face elongates into the maw of a werewolf while the muscles on his body bulge even further. The entire cavern begins to shake, and the enormous pillars holding it up crack one after another, dozens of them at the same time, revealing crystal cores inside covered in inscriptions I can’t even begin to fathom.
+
+"We are currently in the tutorial," I say, just as that pressure threatens to kill me, and watch his expression.
+
+It twists into shock, his golden eyes opening in a predatory look which then rapidly flares into a raw sort of anger that makes my chest tighten, so feral I can barely comprehend it. Then he blanks out.
+
+My mana feels frozen and scared, unable to move at all in the presence of the velnar in front of me. Instead, I take a swift step, grab as many items as I can from the pile next to the throne, and jump back as quickly as my body allows. Just stepping that close to the man causes me to shake uncontrollably, and I barely contain the scream of terror.
+
+As I step onto the tenth floor, I turn to watch the portal close and freeze in pure shock.
+
+The portal is still there, being held open by two muscular arms entirely covered in fur. It’s not the result of any understanding of magic, the system, or what's happening. The face of the Lycan I find myself looking at remains blank, almost unconscious.
+
+No, what’s controlling that body now are pure wild instincts and the sheer power of his flesh. The sight of that wolf-like face, its pitch black fur, blank golden eyes, and gaping maw, sears itself deep into my memory.
+
+Then the portal snaps shut, severing one hand and four fingers from the other in a single, unstoppable motion.

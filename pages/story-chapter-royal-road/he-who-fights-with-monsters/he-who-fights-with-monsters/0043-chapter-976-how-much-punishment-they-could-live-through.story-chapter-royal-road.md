@@ -1,0 +1,177 @@
+---
+id: fc2e353e-c6f3-522f-8445-9e5b1126d3f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 976: How Much Punishment They Could Live Through"
+slug: 0043-chapter-976-how-much-punishment-they-could-live-through
+partOf: he-who-fights-with-monsters
+position: 43
+ownLength: 3442
+unit: words
+ownProgress: 3442
+publishedAt: 2026-02-02
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3006502/chapter-976-how-much-punishment-they-could-live"
+royalRoadId: "3006502"
+markedReadAt: "2026-06-29T19:05:20.958Z"
+---
+
+Jason rested his hand on the grip of his sword, but didn’t draw it.
+
+“Before we start—”
+
+Amstutz launched at Jason, the air around his fist shimmering with power. Jason casually tapped the man’s forearm, deflecting it to the side. A surge of force fired like a cannon beside Jason’s head, shooting off behind him. At the same time, a kick to the chest sent Amstutz sprawling back onto the roof of the bus.
+
+At gold-rank speed, the exchange had lasted less than a second. Geneva, the sole silver ranker present, had barely been able to track it. Jason, floating in the air with his familiars looked around the prospective battlefield. There were eight gold rankers on the roof of a flying bus, hovering halfway up a steep mountain, deep in the Alps. Two of the gold-rankers had been knocked on their rumps, Remy still recovering from having his teleport disrupted.
+
+“You might want to head back into that cave,” Jason told Geneva. “Gold rankers fighting in an environment like this is going to cause a ruckus. At the very least, I wouldn’t expect this bus to remain intact.”
+
+Geneva didn’t move, instead glaring Jason.
+
+“Why are you here, Asano?”
+
+“I told you: to have a rummage around inside.”
+
+“This place is not yours, Asano.”
+
+“Yes, it is.”
+
+She scoffed in disbelief.
+
+“Why in the world would you think that this place belongs to you?”
+
+“Because I’m in it.”
+
+It was the study of aura powers that first led to the theory that all essence abilities were impacted not just by their essence and awakening stone, but by the person awakening them. Aura abilities were unique in being more than just their stated effects. They were also the platform through which their wielder’s soul was projected into the world. The aura was both a product of the soul, and of the power unleashing it, becoming a beacon announcing who and what a person was.
+
+Jason’s aura power was called Hegemony. Its nature was domination so all-encompassing that it did not possess power, but was power itself. Concerned not with the petty rule of kings, it was that which governed right and wrong, truth and falsehood. Defiance of hegemony was not rebellion, but sin.
+
+This was the concept that mixed with Jason’s soul to produce his aura. It held echoes of gods and great astral beings, of being laid low and rising up, more than he had been before. It held scars of facing the greatest forces of the cosmos and claiming not just victory, but a share of that power for himself.
+
+Jason didn’t make a soul attack against the essence users, but having never felt the real thing, it felt like one. Simply showing them who and what he was, unadulterated and unmasked, struck their souls like a besieging army. The gold rankers blanched as Jason’s aura flooded out. Geneva staggered back, Bussinger catching her before she stumbled off the bus. The hood of Jason’s void cloak slid back up over his head, shrouding everything but his glowing eyes. Amstutz got to his feet, standing in front of the others with defiance on his face.
+
+“You’ve got some fight in you,” Jason said. “That’s good, but you’re sloppy. Your mana control is atrocious, and that costs you when your body is a flesh bag running on magic. You’re not just telegraphing your powers but everything you do. I can feel how your body is going to move before you even twitch.”
+
+The gold rankers rallied their auras, pushing back against Jason’s. One of the strongest advantages essences users gained from working in teams was layering aura powers. It was the strongest edge they would have against Jason, which he denied them by crushing their auras completely. As of gold rank, he could use his aura to supress multiple people without needing to divide its strength. He supressed the gold rankers easily, but was surprised by their reactions. There was none of the panic he’d expected, only nervousness held down by determination.
+
+“I suppose they don’t choose their gold rankers by accident,” he mused. “You’ve all impressed me.”
+
+“We don’t care if you’re impressed,” Amstutz snarled. “You think you can come to our world and act however you please?”
+
+“Yes.”
+
+Amstutz leapt forward again, stepping on the air as if it were solid ground. Jason held himself aloft with his aura, controlling himself using methods he’d taken from the messengers. The familiars backed off, not yet involving themselves. The incorporeal Shade and Gordon floated through the air, while Colin still looked unhappy at being ferried on a patch of cloud.
+
+Jason’s gold-rank foe launched a flurry of blows, blasting force attacks with every strike. Sweeping kicks launched waves, fists and knees delivered sharp blasts. Jason reflected that it was like sparring with Sophie, if she’d taken several severe blows to the head.
+
+Amstutz had clearly developed his technique from Earth martial arts. That was a grievous error when such arts were designed for normal rank humans. What a gold or even silver rank body could do required a different approach not just to technique but biology and physics. What would cripple a normal person was laughable to an essence user.
+
+Amstutz also had speed like Sophie, but again fell short in its use. As with technique, he was thinking like a low ranker. He tried to move like a normal person, just faster. Jason watched him leave one opportunity after another unused, too blinded by what he was to realise what he could be.
+
+Compared to a sparring with Sophie, always a desperate scramble, he felt like a cat toying with a mouse. He moved slowly, reacting to moves before they happened and deflecting blows with casual ease. Powers erupted around him, never landing. Amstutz was a blur, while Jason barely seemed to move by comparison. He was the gentle eye of a furious, impotent storm.
+
+Amstutz retreated to the roof of the bus, shame and rage on his face.
+
+“Mrs Andros, go inside,” he said. “It will take all of us to fight him.”
+
+“Take the portal specialist with you,” Jason said. “He’s not a fighter. Do not try to leave, however. If this place is what I think, we’ll have some things to talk about.”
+
+Jason was impressed at the degree to which Geneva maintained her composure under the full force of his aura, despite the intensity of it taking a physical toll on the silver ranker. She maintained her glare as she and Remy dropped off the bus and retreated into the cave, leaving seven gold rankers still on the roof. As the pair retreated, Jason’s familiars moved closer, and he finally drew his sword.
+
+Aside from Amstutz, the gold rankers each had their own magic weapons, gold-rankers getting their pick from looted monsters. Jason could sense that the golden vambrace-and-gauntlet sets on Bussinger’s arms were more powerful than the others. She didn’t waste time, stepping forwards and raising her arms to blast a wide cone of electricity, arcs spreading out like branches of a tree.
+
+Jason was already pulling his cloak around himself as she moved. The arcs that struck him shot off into the void through his portal cloak. The familiars had already evaded, Colin ducking behind the cloak. Shade vanished and Gordon exploded into a blue and orange nebula that shot away like a comet. He reformed and beams immediately shot from his eye orbs.
+
+Jason was already amongst the gold rankers, his sword flashing. Shadow arms grew from his body, each using a black and red dagger to inflict his special attacks. As they did, he quickly muttered the incantations to his spells.
+
+“Bleed for me. Carry the mark of your transgressions. Your fate is to suffer.”
+
+Amstutz had the speed to react to Jason’s assault, as did a couple of the others, yet they still found themselves struck by multiple, albeit glancing, blows. Though the cuts were shallow, they were under no illusion that the strikes were harmless. With access to the system, they saw the laundry list of afflictions delivered to them.
+
+Now that he was gold rank, Jason’s powers delivered even more afflictions, while many of the existing ones grew worse. Thief of Spirit was new, continually draining mana and feeding it to Jason. Similar was Thief of Life, doing the same thing to life force.
+
+The new Exsanguination condition in particular was a milestone. The Bleeding affliction was common, but also one of Jason’s signature tools. The damage it inflicted was relatively small, but its true value was in absorbing healing magic. Exsanguination allowed the condition to now stack, absorbing even more healing and making the blood loss far more drastic.
+
+Of all the new capabilities Jason gained from his powers reaching gold rank, the most simple was also the most lethal. The very core of his power set was to heap on so many afflictions that even a gold ranker would die. Inexorable Doom was arguably Jason’s most iconic power, in that it made everything else work. It took all the stackable afflictions he perpetrated and made them keep stacking. At gold rank, it didn’t offer a new affliction, or make any of them stronger. It did the same thing as ever, stacking up afflictions, and simply made it faster. Much, much faster.
+
+Instead of his usual hit-and-run tactics, Jason took the fight to the enemy, diving into the enemies gathered atop the bus. The roof was large, but not when eight gold-rankers were clashing on it. The tight quarters were to Jason’s advantage, leaving his numerous opponents more likely to hit each other than him. Some, like Bussinger, backed off. She flew out, trailing electricity from her feet as she looked for opportunities. With Jason surrounded by her allies, she needed to pick her moment for a precision strike.
+
+While waiting for her chance, she was engaged by Gordon and they quickly fell into a flying dogfight. She fired off lightning that crackled against the shields he made from his eye orbs. Other orbs returned fire, chasing her as she blazed through the sky, trailing sparks behind her.
+
+The other gold rankers also realised that they needed to expand the battlefield to effectively attack Jason. Two flew out like Bussinger, and two leapt onto the mountainside. Gold-rank strength allowed fingers to dig into rock more easily than a mountain climber’s pitons. Staying on the bus with Jason were Amstutz and a man holding what looked like carpenter’s hammers in each hand.
+
+The newly flying enemies immediately looked for chances to strike at Jason. What they found were shadowy bodies, sprouting twisted arms made of darkness. Like trees under a winter midnight, their warped limbs were shrouded in clouds of shadow, sinister and unnerving. The Shade bodies with their shadow arms were not swift in the high-altitude sunlight, but they were numerous. It wasn’t enough to stop the gold-rankers firing attacks off at Jason, but it did distract and slow them down.
+
+The gold rankers on the mountainside had their own horror movie to contend with.
+
+A thing of nightmares, dripping blood from flayed muscle, crawled down the mountain from above. A mass of flesh on stump-like legs, its stubby fingers dug into the rock. Nine long necks rose from its back, giving it the look of a bloodied hydra, but the necks did not hace heads. Instead, at the end of each neck was a savage maw, ringed with teeth. From each mouth, three barbed tongues licked in and out, as if tasting the air for blood. Each of the nine mouths spoke in hissing, raspy voices, a discordant mix of alien words that clashed like a blasphemous choir.
+
+The two gold rankers clinging to the mountain looked at one another, then started flinging attacks at it.
+
+Of the three people still on the bus, Jason stood in the middle, Amstutz and the man with the hammers flanking him. The roof was dented and scored, a third of it having collapsed entirely. The magic holding the vehicle aloft was threatening to fail, the bus rocking like a dinghy on the waves.
+
+It was a power from the man with the hammers that finally ended the bus. He smashed the heads of his hammers together, creating a blast wave that send Jason and Amstutz flying and the bus crashing down. The man threw his hammers, trailing tethers of force behind them. They lodged into the side of the mountain and he yanked himself too them, joining the others in facing Colin’s abomination form.
+
+With the demise of the bus, the battlefield opened up properly. Jason and Amstutz joined the others in aerial combat, Jason, Shade and Gordon against four gold rankers. For all that Jason outclassed them, the gold rankers were far from helpless. They had been chosen to be raised to gold rank for their demonstrated abilities, going back to the monster waves and the proto-spaces before that.
+
+While the familiars harried the gold rankers, Jason’s enemies knew that he was the one they needed to take out. Amstutz played frontliner, but now knew better than to go toe-to-toe with Jason. He made better use of his speed than before, playing distraction the same way the familiars were, setting up his allies to make attacks.
+
+The gold-rankers quickly learned that Jason excelled at reading and dodging their precision attacks. Even when he was distracted, or when they were made from seeming blind spots, his ability to read their mana felt like precognition. This was when they understood the difference that training in the other world made.
+
+Not giving up, they switched tactics. Still dodging the familiars, area attacks were easier to fire off, requiring less precision. Blanketing an area made them much harder to avoid, although not impossible. Amstutz evaded with his speed while Jason still predicted their attacks. Even so, he was taking damage.
+
+The area powers were varied and often strange. A storm of force hammers rained down, not as damaging as a focused attack, but difficult to avoid. A swarm of saw blades chased after Jason, glowing white hot, spewing gouts of flame and occasionally exploding into shards of searing, jagged metal.
+
+Peppered with attacks, Jason’s Amulet of the Dark Guardian proved its worth. The soul-bound item granted a stacking shield for each affliction he delivered, and when the shields broke, they became healing effects. Neither effect was very strong, but they stacked up with every affliction, and Inexorable Doom was piling them on by the second. When peppered with indirect attacks, the amulet’s protections was ideal.
+
+The battle became something of a stalemate, but one that Jason would ultimately win. His afflictions were already on his enemies, multiplying by the moment until even gold rankers would be overcome. Without the kind of potent healer it would take to remove them, all Jason had to do was wait.
+
+The gold rankers recognised that they could not afford to keep things as they were. They no longer needed the System to list the afflictions piling up as their bodies showed signs of necrosis, their living flesh turning black and dead.
+
+They all had potions, and even a few cleansing and healing powers, but the afflictions were pernicious. Healing was absorbed and cleansing was resisted. What little that did take effect triggered yet more afflictions that delivered damage in reaction to cleansing. They quickly gave up and refocused on taking down Jason.
+
+The one exception was Bussinger. The woman with the lightning powers had called down lightning upon herself, inflicting what looked like considerable damage. She was left with patches of skin scorched black or burnt raw. But the power had not just purged every affliction but seemed to boost her powers. She successfully fended off Gordon and the Shades, avoiding fresh afflictions while finding time to keep blasting lightning at Jason.
+
+Knowing that they had to take greater risks, the gold-rankers pressed on Jason, gambling on more targeted attacks. Bussinger, being the best off in the group, helped coordinate attacks in sequence, trying to pin Jason down. The tactic found some success, a few hits landing on Jason, but it was never enough. He was still frustratingly elusive, and every wound was quickly healed.
+
+The battle came to a head when Jason unleashed one of his biggest damage spells, Punition. It was a big, immediate damage spell for one target, with power based on the number of afflictions the target was suffering from. As of gold rank, it had a new variant with a much longer cooldown. A wave of energy shot from the target in a wave, triggering another instance of the spell on anyone it hit, including the wave itself.
+
+The resulting cascade of powers devastated the gold rankers. Each spell could only be triggered once, but that was once for each of the six gold rankers suffering afflictions. Only the affliction-free Bussinger was spared.
+
+On Pallimustus, gold rank battles were rarely lethal. Gold-rankers were too hard to kill outright, and anyone able to reach that stage, even with cores, had a plethora of escape plans. Mostly this involved carefully curated magic devices, kept secret from enemies that would try to counter them. Single use teleports, magic to purge afflictions like Inescapable, responsible for one of Jason’s defeats.
+
+This was not the case on Earth. The gold rankers had the best gear the nations and factions behind them could muster, but it was paltry by comparison. Most had a gold-rank item or two, usually at least a weapon, and perhaps armour. The rest was a grab bag of silver gear, usually basics like healing potions that could only do so much for a gold ranker.
+
+Without the power to escape, the massive damage from the cascade of Punition spells marked the end of the battle. A couple of the gold rankers made it into the cave. The rest collapsed against the mountain, either clinging to it or tumbling down. Bussinger and Jason rushed down to catch them, eventually dropping them all with the others in the cave mouth. Geneva and Remy were nowhere to be seen. He’d felt them move deeper into the complex, where his senses were blocked by crude but powerful wards.
+
+Laid out on the cave floor, the gold rankers looked more dead than alive. Only Bussinger escaped the rampage of necrotic tissue still overtaking what living flesh they had left. There was no more fight in Bussinger, knowing that facing Jason alone was pointless. She stood over her allies, who looked more like corpses than the living. She had known that gold rankers were hard to kill, but now she could see just how much punishment they could live through.
+
+“Are we even human anymore?” she wondered.
+
+“Arguable. By gold rank, we have more in common than monsters than normal humans. Although our bodies are closest to summoned familiars than anything else.”
+
+“Will you let them die?” she asked, and Jason looked at her.
+
+Her gauntlets were streaked with scorch marks, but appeared undamaged. Her clothing was gold rank and reinforced, already cleaning and mending itself. Her burn marks were healing slower than they should, and he sensed something odd in her aura. It was worth exploring, but not now.
+
+Jason, by comparison, was unmarred. His wounds had healed, his robes had repaired themselves and absorbed the blood from his injuries. He dispelled his void cloak and looked down at his victims.
+
+“I’m not looking to kill anyone,” he said.
+
+Bussinger watched as Jason touched each of the others with his sword. Their bodies stopped twitching and the necrosis stopped spreading. A couple let out wheezing breaths, the most horrible sounds of relief Bussinger had ever heard. They still looked more like set dressing from a horror film than living people.
+
+“Natural healing will let them recover eventually,” Jason explained. “I’ve suppressed their powers, but you can use healing potions on them, if you have any.”
+
+“You can dampen powers without a collar?”
+
+“An ability of my sword, to turn my afflictions into ability suppression. The friend who made it wanted me to have more chances to be merciful.”
+
+Jason sighed and she saw sadness in his face.
+
+“Why do good people have to die, while people like this get to live?” he mused.
+
+She knew the question wasn’t aimed at her, but she answered anyway.
+
+“These aren’t bad people,” she told him.
+
+He turned to look at her. It was hard to read those alien eyes, but she was certain there was danger in them.
+
+“We’ll see,” he told her. “It’s time for you and I to have a talk.”

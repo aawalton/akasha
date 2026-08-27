@@ -1,0 +1,195 @@
+---
+id: 12031aef-55c6-529f-a9ca-c5b010643c1e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21 - Meeting the Landlord"
+slug: 0021-chapter-21-meeting-the-landlord
+partOf: hell-horizon-healer
+position: 21
+ownLength: 1607
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3576172/chapter-21-meeting-the-landlord"
+royalRoadId: "3576172"
+---
+
+The hallway came apart.
+
+It started at the back—someone hitting a door that wouldn't open fast enough, then a woman's voice climbing into a register that made Jake's teeth ache, then three or four people all talking at the same moment until the words dissolved into noise.
+
+Jake’s fingers twitched as he had his mind on his soul, ready to call Gutter Tooth at a moment's notice. He was already mapping out a passage through the neighbours towards the exit.
+
+What now?
+
+Hanna inched closer to him, grabbing onto his hand like it was the only thing in the world that made her feel safe. That, and her knuckles had turned white as she held her teddy bear tight to her chest. He looked down at her, wanting nothing more than to rip his hand away from her own. For some reason, he couldn’t find the courage.
+
+"What is that—"
+
+"Get back, get inside—"
+
+"Is that a person? That's not a—"
+
+A man stumbled forward and fell to his knees, hands clenched together in prayer. He wore a black shirt with a small white collar. A priest. "It is a fallen angel,” he muttered. “She has come to punish us for our sins!”
+
+The landlord hung in the corridor with her toenails grazing the carpet, white hair falling over a face that was mostly grin, and she waited, her lifeless eyes slowly moving from one person to the next.
+
+Arthur got his shield up, dented from the battle with the chief. His hands trembled around the handle, face pale.
+
+"Rent is due," she said again, to nobody in particular.
+
+The noise got worse, voices layering over each other in the cramped space until Jake's perception was screaming at him to block it out.
+
+"Someone call—" A man stopped. Remembered there was nothing to call.
+
+"What does it want, what does it—"
+
+"Blood," Chloe said, loud enough to cut through. The corridor went quieter. "It said blood."
+
+That was worse than the noise.
+
+A woman near the back—Jake didn't know her name, mid-forties, still wearing a work lanyard—pressed herself against the wallpaper and started talking in a fast, low stream directed at nobody. "I was supposed to pick my son up. Three days ago I was supposed to pick him up from school and I couldn't get out and I don't know if anyone—" She stopped. Started again. "He's nine. He's nine years old and I don't know if—"
+
+The landlord's grin didn't change. Her eyes moved to the woman and stayed there for a moment and the woman stopped talking immediately, like something had been switched off.
+
+"What are you?" Edwin walked out of the crowd, hand tight on his combat knife.
+
+That was brave, Jake thought. Or stupid. Who approaches something that can't be explained? Something floating like something straight out of a horror movie? Definitely stupid.
+
+The landlord looked at him without particular interest.
+
+"What's happening out there?" Edwin pressed. "The city. Our families. Is anyone—"
+
+"Changed," the landlord said.
+
+"What does that mean, changed, that doesn't—"
+
+"It means changed."
+
+A man shoved forward from the left side of the crowd, someone Jake hadn't seen before, heavyset with a collar that suggested he'd been a professional something before all of this. His face was a deep, mottled red. "You need to tell us what is happening. We have rights. There are laws—"
+
+The landlord looked at him.
+
+He kept talking for another few seconds. Then he didn't.
+
+The corridor was very quiet now.
+
+She drifted forward, just slightly, toenails resuming their drag across the carpet, leaving a trail of black behind her. The sound was small and it was the worst thing Jake had heard all week.
+
+"One volunteer," she said. "Blood. Those are the terms."
+
+"Terms of what?" Arthur's voice had dropped an octave. "Who set these terms? Why blood? What does it actually—"
+
+She looked at him and he stopped.
+
+Nobody spoke for a long moment.
+
+Then Lyle moved.
+
+He came from the back of the group, pushing gently past Edwin who caught his arm. Lyle looked at him and Edwin looked back and something passed between them and Edwin let go.
+
+He stopped a few feet from the landlord and she regarded him the way she'd regarded everything — without warmth, without malice, without any particular acknowledgement that he was a person at all and instead, some sort of sacrifice that must be paid.
+
+“How much,” he said, spine straight. The man was terrified. Jake could hear it thump against his chest like a percussion instrument, but the man faced the horror with a bravery that Arthur only wished he had. “How much will you take?”
+
+“Enough to satisfy me.”
+
+Lyle’s attention drifted to the carpet for a moment before making its way back to the demon. “Will I survive?”
+
+“If you are strong.”
+
+“Lyle,” Edwin spoke. “Don’t. We need your strength if we need to continue climbing the floors, getting food. Who knows—there may be something we can use to call for help above.” He scowled, casting his vision across the other neighbours who had yet to do anything meaningful. “Someone else should sacrifice themselves. We don’t need freeloaders.”
+
+Another, younger man flushed with anger. “Who the hell are you calling a freeloader?”
+
+The crowd erupted, days of starvation had eroded their reasoning. They started getting louder, more aggressive. People pushed. It was like an explosive keg with a fuse set to short.
+
+Jake agreed with Edwin. Lyle was too valuable and there were plenty of others standing around doing nothing. He didn't understand why that was complicated.
+
+"Look at what we've become," he said. A pause. "Jim." An older man near the back straightened. "I helped you and Mary with the plumbing last winter." He turned. "Jennifer. When I moved in you baked me a plate of cookies and left them outside my door for when I got back from my shift."
+
+The corridor was completely still.
+
+"Even if the world has ended," Lyle said, "we are still us."
+
+He turned back to the demon and held out his arm. “You can take mine.”
+
+She swept forward and grabbed his wrist before the words had finished. Jake had expected something like a bite, something visible. Instead he watched the veins in Lyle's arm rise to the surface. The blood moved visibly beneath the skin, flowing the wrong way. In five seconds Lyle's muscles lost their mass, his flesh went paper thin, the colour draining from his face in a wave—pink to white to something close to blue.
+
+His lips cracked.
+
+He hit the floor.
+
+It took only five seconds for all of that to happen, and when the Landlord was finished, Lyle collapsed to the ground. Arthur and Edwin rushed to check up on him. He was still alive, barely.
+
+"Rent has been paid." The grin stretched wider. "I will return once a week. Every week. Until you reach the top."
+
+She turned.
+
+Jake let go of Hanna's hand and stepped in front of her.
+
+The landlord stopped.
+
+There were a hundred things he wanted to know. He picked the most important one.
+
+"Why us?"
+
+"You are not the only ones," she said.
+
+"Then the entirety of earth. Is it all like this?"
+
+"Like you?" She laughed. It sounded like broken glass. "Not like you."
+
+She turned again.
+
+"What is the system?" Jake said.
+
+She paused, then vanished in a curl of black smoke.
+
+The corridor was silent except for Lyle's breathing, thin and ragged on the floor, and somewhere near the back, the quiet sound of someone crying for someone they had lost to something way beyond their understanding.
+
+***
+
+Hours had passed, and Jake was busy working out. He had the Elite Growth Stimulants secure, hidden in his room. He hadn’t gotten around to using them just yet; he had a few things to plan before that.
+
+Besides, he had a feeling that he wouldn’t have the chance to see what they did, even if he wanted to.
+
+Speaking of—
+
+A knock at the door forced Jake to stop what he was doing. He sniffed. It smelt of body odour. He opened the door, revealing Edwin.
+
+“We’ve gathered with the others,” he said, still shaken from the sight of the Landlord. “We’re having a meeting.”
+
+Jake said nothing, just nodded, and followed. Inside Arthur’s room, they began talking about everything that had happened. The magical room that led into a forest, the system machine, the Janitor, the Landlord, and now, what the true purpose of all of this was.
+
+The discussion went around in circles, and at some point, Jake felt that it was all pointless. They would get no answers. They had to get their own—at the top.
+
+After around fifteen minutes, he snuck himself out and went to check up on Lyle. Claire was with him. The man lay lethargic in the bed, eyes hollowed, frame as fragile as a single pane of glass.
+
+Jake stopped at the foot of his bed.
+
+“Jake,” he squeezed out weakly. “How is that little girl?
+
+There wasn’t a single trace of the macho hero. He was nothing but a fragment of his past self.
+
+“Why?”
+
+Claire glanced over, but said nothing.
+
+“Why what?”
+
+“Why did you that?”
+
+Silence, and then. “Do I need a reason to help people?”
+
+The quiet resumed for a moment as Jake tried his best to savor the question, only to come to the realisation that it tasted rotten.
+
+“You’re a hero.”
+
+Lyle smiled weakly.
+
+Jake met his eyes.
+
+That’s not a compliment.
+
+The door swung open. Sloane looked worried.
+
+“Hanna,” she said. “She’s missing.”

@@ -1,0 +1,99 @@
+---
+id: 6893a9cd-3f52-5bf5-bbfd-7538a5d68460
+page-type-slug: story-chapter-royal-road
+title: "331. It's a Trap!"
+slug: 0331-331-its-a-trap
+partOf: god-of-trash
+position: 331
+ownLength: 2075
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/3618697/331-its-a-trap"
+royalRoadId: "3618697"
+---
+
+“We’re here.”
+
+Rhys broke out of his trance and found himself in a very different part of the island chain. Here, the islands weren’t flat, with rolling hills and valleys, but instead tall and craggy. Bare rock jutted out of lush jungle, which in turn did its best to coat the sheer faces of bare rock. The landscape was dominated by tall rocky mountains with their sharp edges softened by thick vegetation, steep cliffs, and pillars of dark stone standing directly out of the earth or water. Little tufts of vegetation sprouted from every crag and crevice, and every stone pillar was coated in green.
+
+He took a deep breath and almost choked. The humidity, salt, and moreover, overwhelming blast of water-oriented mana slammed him right in the chest. The mana was so water-elemental that he felt like he was drowning for a second before he mentally adjusted himself. It’s not actually water I’m breathing. It just feels like it.
+
+Despite his strained expression, Ryota laughed. “It can be a bit overwhelming the first time, can’t it?”
+
+“No kidding,” Rhys agreed, swallowing and clearing his throat a few times. The air was just so… damp. It felt like he was breathing a pool. And everything tasted like salt. Just standing here, he could feel the salt building up on his skin and in his hair. It was like the ocean was above the water, too, hugging him just like it would if he jumped in. He licked his lips, then sighed. “I need another fruity drink.”
+
+“Well, if this is just a trick of Fifteenth’s as you said, then I’m sure Seventh will whip up something for you,” Ryota said, managing a smile.
+
+“Speaking of… what are their names? Surely you guys don’t all call one another First and Second and so on?”
+
+Ryota grimaced. “It’s… not that we do or don’t, but… well, there’s over twenty of us. That’s a lot of names to remember. To make things easier for everyone, we just went by our numbers most of the time. It became a kind of nickname for most of us. It’d be strange to hear Fifteenth call me Ryota instead of Third or Third Brother, and it would be equally strange to call him Shota.”
+
+Rhys did a double take. “No shot his name’s actually shouta.”
+
+“Shota…? It’s a common male name.”
+
+“No, it is. It definitely is.” Even in his world, it was—in the right country, anyways. It was just that… well, calling a big bad villain a name that sounded almost exactly like the word for ‘young boy’ was a bit… it was like walking up to the final boss, sitting on the throne in his impressive skeleton armor, and finding out his name was Babe.
+
+Everyone was a baby once, I guess, he thought with a shrug. Poor Shota’s mom didn’t know he’d grow up to be a fratricidal maniac who got off on killing his brothers. She’d just seen an innocent little baby and named him something cute but respectable. And hell, even back home, there’d been a very respected baseball player named Babe. Even people with the cutest names could become deeply respected, even intimidating.
+
+He waved his hand, getting them back on track. “What about Seventh, then? I’d feel a bit weird calling a guy I just met Seventh, especially when I’m not his brother.”
+
+“Aran.”
+
+“Aran?” Rhys repeated. That’s not what I expected. It was a sharp break from the otherwise straightforward naming scheme of this particular part of the world.
+
+Ryota nodded. “His family is a bit different from the rest of us… well, you’ll see. Shall we?” He gestured away from the boat with a bit of urgency in the motion.
+
+Rhys squinted at Ryota, but the man was obviously on edge and in no position to give long-winded and detailed explanations, so he nodded. He’d probably understand things faster by seeing anyways. “Let’s go.”
+
+Ryota leaped off the ship and flew toward the coast. Rhys followed, flying a little blind. Ryota clearly knew where he was going, but Rhys had no idea where they were going to end up. It was strange. Usually, mages lived in immense, gaudy palaces, but there wasn’t a palace in sight. The greenery was dense, so it was possible that the palace was hidden below the canopy, but the thing about palaces were that they usually weren’t hidden. The whole point of having a palace was to stand out, after all, to flaunt one’s wealth. Hiding it away was the opposite of flaunting.
+
+Wait—Ryota said he’s ‘different.’ What if he’s an elf? Rhys’s eyes glittered. The trees, the densely canopied forest with no visible palace… what if the trees were the palace? It was classic elf, too! Sure, he hadn’t seen any elves since he’d gotten here, but he also hadn’t explored this part of the world at all.
+
+It was possible that there were only elves on this side of the world, or something. It wasn’t like there weren’t other humanoids. Lira was a water sprite. Animals could learn to think and communicate. Elves weren’t that far beyond the pale.
+
+To his surprise and mild disappointment, Ryota swerved away from the forest at the last moment, instead flying toward the shore. The beach was made up of black volcanic sand, giving it an ominous appearance. The closer they got to the ocean, the thicker the mana grew, until Rhys had to consciously remind himself that he could breathe this stuff with every breath. Subconsciously, he wanted to hold his breath. It felt wet. Every mouthful felt like a swallow of water, except it was air. He coughed a few times, deeply uncomfortable. This sucks. How is this good for this sickly Aran guy? I get salty, moist air, but this is too far!
+
+At last, he saw something that qualified as a residence. A little hut sat on the edge of the beach, its roof thatched with palm branches and its walls formed of bound bamboo. A path wound from it into the jungle, quickly vanishing into the thick vegetation, and it had a modest ‘yard’ of raked sand. Rhys raised his brows. The person living here was considered disabled? And their house was a tiny hut on the beach, with sand as footing? And they lived alone? This world has a different idea of disability… or at least a different idea of disability amenities.
+
+Then again, it was very possible that Aran just faced issues with using magic, and was otherwise hale, hearty, and healthy of body. In his trashy books, ‘crippled’ (even if it was a naughty word back home now) was often used to describe people’s magic systems. Having one’s core removed would usually ‘cripple’ someone, for example, Rhys being the weird outlier who refused to pay attention to that. Perhaps it was simply that Aran had some kind of breakage in his mana passages or a deficiency in his core.
+
+If that’s the case, I might be able to help him out. Now that he’d kind-of sort-of fixed Ryota’s core, he had the first steps of a technique to heal others’ mana organs.
+
+Then again, Aran had already probably turned out to not be an elf, so… I’ve really gotta stop extrapolating about this guy and just meet him already.
+
+Ryota landed in front of the hut, and Rhys settled behind him. Ryota immediately strode forward, moving quickly. Struggling to keep the panic out of his voice, he called, “Aran! Are you in?”
+
+“Third?” A voice echoed from deep in the hut—far deeper than the hut appeared to be, Rhys noted. There was a pause, and then the twine tie holding the lightweight bamboo door untied itself, and the door swung open on its own.  “Come in—I’m in the back.”
+
+Ryota instantly rushed in. Rhys paused, scanning the room with his mana senses, then again with his trash senses. When he sensed nothing amiss except for a very large space within the supposedly tiny hut, he followed Ryota in. Just in case, he trailed a few loops behind him. It never hurt to be cautious. There were mysterious paths that he couldn’t predict, and experts beyond experts. It was possible that he could sense nothing, and still be walking into a trap.
+
+From outside the threshold, the hut appeared like exactly what it appeared: a small bamboo-and-palm hut on the beach. He could see the back wall through the door, along with a modest cot and a small kitchen-like area behind a partition.
+
+The second he stepped through, though, that all changed. He was still within a small hut, but rather than holding a cot and a kitchen, all it contained was black sand and a small, clear, aquamarine pool ringed by solid stone. The solid stone walls of the pool continued downward, vanishing underground and widening out to either side, so he felt as though he walked on the surface of a narrow-brimmed vase. The hut was completely empty, and the voice hadn’t sounded muted by water. He looked around, searching for the source of the voice from earlier.
+
+“Are you okay, Seventh?” Ryota asked.
+
+An unassuming stone near the pool lit up, and the same distant voice from earlier sounded. “Yes, I’m fine. Better for having a friend come and visit. Come in, I’ll make some drinks.”
+
+Rhys eyed the pool in the ground. How is he going to make drinks underwater?
+
+Ryota didn’t share his hesitation, and plunged into the water. Rhys took one last deep breath, then, with a shrug and a quick scan, followed Ryota in. I finally got out of the water, only to plunge right back in. There better be a fruity drink on the other end of this water tunnel.
+
+A second before he dropped below the water’s surface, he scanned behind them, but there was nothing following them that he could sense, either. Then again, Ryota hadn’t at all indicated that Aran’s home was secret or hidden. It just felt a little hidden because it was a hut, but that was Rhys’s speculation alone. Maybe Aran just liked putting forth that his home was a hut on the seaside as some kind of mage joke or something.
+
+The water closed in over his head, and he was immersed in calm, cool liquid. He sunk down, flipping around to kick after Ryota. Ryota descended feet-first, and startled when Rhys swam past him. Rhys gave him an equivalent look over his shoulder and kicked on. They were underwater. Why act like they weren’t? Sure, water didn’t really impede their motion, since they could fly and all, but swimming around just made sense.
+
+Behind him, Ryota hesitated a second, then pitched slowly forward. He made a few tentative motions with his hands, paddling slowly downward.
+
+Rhys snorted. Ah. I see. He never learned how to swim. Why would a mage need to know how to swim, after all? By the time he was old enough to be let alone on beaches, he probably barely needed to breathe anymore. Swimming wasn’t an essential life-saving life skill, it was a waste of time for people who would transcend breathing and gain the ability to fly around before they were out of their young adulthood.
+
+It didn’t stop him from doing a few flips and twists to casually show off. Ryota rolled his eyes and went back to a standing posture, folding his arms and descending gracefully as if he wasn’t jealous. Rhys, who knew better, continued swimming, kicking his way deeper into the water.
+
+At last, a bubble appeared on the ocean floor. It encased a beautiful castle that appeared to be crafted from sand, with flowing lines and gentle curves as if a giant had shaped it by hand. A young man stood on the ‘lawn’ of sand and underwater vegetation just outside the castle, and waved as they approached. He was pale, with wavy sand-blond hair and watery blue eyes, and next to him stood a gorgeous young woman with black hair and equally pale skin.
+
+Ryota frowned, and worry emanated from him. He looked at Rhys and shook his head, indicating: I don’t know her.
+
+Rhys gave him a thumbs up. That’s okay, I do. He kicked ahead, rolling back upright to descend through the bubble’s wall feet-first. Striding forward, he grinned. “Lira! Long time no see!”
+
+“Hello, Rhys,” Lira said, with her usual mysterious smile.

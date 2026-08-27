@@ -1,0 +1,107 @@
+---
+id: a70aaf91-95e6-5685-80d8-16f17a30817b
+page-type-slug: story-chapter-royal-road
+title: "190. Rushing Into Danger"
+slug: 0190-190-rushing-into-danger
+partOf: god-of-trash
+position: 190
+ownLength: 1903
+unit: words
+publishedAt: 2025-09-18
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2610934/190-rushing-into-danger"
+royalRoadId: "2610934"
+---
+
+It only took Rhys a few moments to clear out the cave, mostly because he stood in the middle of it and sucked it all into his core like he was a giant vacuum. He could sort the contents out later, when his friends weren’t in danger.
+
+There wasn’t much they could do about the camp. With the call from Mouse, they had to rush back. At least they could always step back through the portal after they figured out whatever was going on with Mouse, but first, they needed to sort out whatever was happening with her and Lira.
+
+Rhys had kept the magical walkie-talkie in his pocket, but since their first interaction, Mouse hadn’t spoken again. He didn’t know if she was in a place where she could talk, or if she’d had to strain her invisibility to its utmost to say anything, so he just waited for her to speak, and otherwise remained silent.
+
+Man, Lira and Mouse are always getting into trouble, he thought, shaking his head. Whenever he sent the two of them on their own, bad things happened. He had to send them with someone else, or at least not send the two of them together.
+
+Then again, was it that they got into danger, or that Mouse could hide from danger rather than fight her way out, and preferred the former to the latter? He didn’t get it, and he didn’t think Sable got it, either, but it was definitely Mouse’s way. Lira would rather fight, but… if she wasn’t near water, she wasn’t super strong. It was the classic water-based character problem. Like the early Justice Club comics, where Water Guy was useless until someone tossed a bucketful at him. Lira was better than Water Guy, but she still had some of the drawbacks. While she would do incredible in water-based combat, he was sure, she would be at the exact same disadvantage Rhys would be at, if he had to fight in water.
+
+He couldn’t even fault her for being good at water; if this world was anything like his, then it was majority water, and she had, in fact, made the right decision proportionally speaking. It was just that she was hanging with humans, and humans loved land, so she ended up in the wrong environment most of the time.
+
+What is going on with Lira and humanity, anyways? Why isn’t she hanging out with water sprites? I’ve been kind of ignoring the obvious, since she doesn’t seem to want to talk about it, but I should ask, sometime. Probably at the least stressful or emotionally charged moment possible, since that seems like it might be a stressful or emotionally charged kind of conversation.
+
+Then again, who knew? She might just get sassy and be totally fine. He snorted to himself. She’d be getting sassy either way, really.
+
+They rushed to the portal and jumped through into an empty room. Rhys looked around, searching for the signs of a struggle, but there were none. He frowned slightly, glancing at Sable, who shrugged. As they stepped outside, something snagged at Rhys’s trousers. He jumped and whirled, drawing his poison sword—and finally caught sight of his assailant: Mouse. She gave him a desperate look. “Are you done? Can we go?”
+
+“Er, yeah, but…” Rhys looked around. “Weren’t you in danger?”
+
+“No? I’m just so tired of this place.”
+
+Beside Rhys, Sable started chuckling.
+
+Rhys rounded on her. “Don’t you start. You thought she was in danger, too!”
+
+Mouse blushed furiously. “I-I didn’t mean to… I’m sorry! I didn’t think, I didn’t consider that you… y-you had to—just recently, me and Lira…”
+
+“It’s fine, it’s fine,” Rhys said, waving his hand. Now that he was thinking about it, she had said, ‘we’re good, but hurry.’ Nothing about being in danger. He was the one who’d assumed there was something wrong, and, well, he knew full well what they said about people who assumed things. He sighed. “If you want to leave, we can all go to the other side of the portal, now. There’s no longer any danger. I could’ve called you and Lira over much earlier, but I didn’t have the messaging charm.”
+
+Mouse nodded eagerly.
+
+“Speaking of… where’s Lira?”
+
+“She’s, uh…” Mouse coughed.
+
+“Right here. We going?” Lira asked.
+
+Rhys turned. She looked… about the same as ever, except she was oddly out of breath and a little bit more flushed than usual. He squinted, but then decided that he didn’t want to know, and just gestured. “Come on. It’s safe on the far side of the portal, in all kinds of ways. Let’s go.”
+
+Relieved, Mouse all but sprinted to the portal room and jumped through. Shaking his head, Rhys followed after.
+
+Lira glanced at Sable. “You know, you and me, we could… I dunno… take a little time to find the portal?”
+
+“Why?” Sable asked, and stepped through.
+
+“Did I miss the read on that? Oh well.” Lira pulled up the rear and followed the rest through.
+
+There really wasn’t much left to do on the far side of the portal. Rhys walked through the camp, the girls in tow. Anyone who attacked him or the girls, he slayed and absorbed. Those who didn’t, were given a bold new opportunity for personal growth and customer engagement by getting placed at an exciting all-organic farm… or, in less corporate words, they were recruited! The mortals were mostly family members and children, and while some of them would be getting bereavement bonuses, they were all peacefully recruited; as mortals who clung to the edge of the magic world, they understood that there was nothing they could do, and that it was better to go with the flow and continue to receive the benefits of being associated with mages rather than hare off and return to their mortal lives. All except one, that is.
+
+“Come! Join me! Exciting new employment opportunities await!” Rhys called, walking through the end of the camp.
+
+Sudden motion from between two tents. He turned, reaching for his sword, but then laughed to himself. It was just a boy, a mortal boy. Rhys’s reflexes were so fast that he’d turned and identified the ‘danger’ between when the boy’s foot had lifted off the ground, and when it touched down to propel him forward to his next step, so he had plenty of time to decide what to do. The boy had a knife, but it was mortal, and his whole body, strength, everything—it was all mortal. He waited, letting the boy close in, then gently turned him aside, very careful with his strength. He could accidentally kill Tier 1s now, let alone mortals.
+
+The boy rounded on him, raising his sword again. He struggled to heft it, probably only eight or so years old. “You killed Dad! I’ll kill you!”
+
+He sighed. “Lost child on aisle five. Anyone lose a child?”
+
+The adults around glanced at one another, then shook their heads. The boy’s eyes glittered with tears. “Dad was the only one left. And you killed him!”
+
+Oh. Well, that’s a problem. “Anyone want to take on a child?”
+
+One of the older women in the camp—probably mid-forties, but old for a mortal and wrinkled beyond her age—hurried forward and caught the boy by his arm, dragging him back. “I’m so sorry about my brother. I’ll keep him out of trouble. Forgive us, lord mage.”
+
+Rhys raised his brows. That’s an age gap. The again, if the boy was right and Rhys had killed their father, then he was probably a mage, which certainly explained how these two could be siblings. He pulled a face internally. The children of mages were almost always mages. Mages rarely produced children, but when they did… to produce two non-mages would be unthinkable, unless the other parent was mortal. Which meant this mage had been wandering around, spreading his wild oats amongst random mortal women. He wasn’t really sure why, but the idea disgusted him.
+
+Maybe because a hundred-year-old grandpa who looks twenty-something screwing mortal women who are actually twenty isn’t illegal, but it’s morally gross. Some guy deceiving mortal women with his immortal youth… it wasn’t a crime, for sure, but he didn’t like it. Of course, it was possible that he’d been completely open with the women about his age and status, and they’d done it anyways because of the overwhelming power and wealth associated with mages… but the whole situation kind of felt like nineteen-year-old boys fraternizing with seventeen-year-old girls who were still in high school. Nothing illegal about it, as long as they’d started associating before the boy turned eighteen, but there was a clear imbalanced power relationship between a high schooler living at home with no job, and a graduate with a job, money, and everything that came with it. It felt squicky, to put it short, and even if it wasn’t ‘wrong’ in the eyes of the law, Rhys was sure he didn’t like it.
+
+Of course, telling the kid that his father was kind of a scumbag wouldn’t stop the rage in the boy’s eyes, even if Rhys was more worried about accidentally killing the kid than the kid injuring him. It was a bad situation, and there was nothing he could do about it. He didn’t regret his actions, but he had to admit that there were definitely downsides to killing people. He nodded at the woman. “Please raise him well.”
+
+The woman said nothing, but bowed low, forcing the boy to bow as well with a hand on his back.
+
+“I’ll kill you one day! I will!” the boy shouted.
+
+The woman started and jumped to cover the boy’s mouth, but Rhys just chuckled. “Hold on to that anger.” With that, he swept away cooly, looking totally awesome.
+
+Hell yeah. That situation sucked in all kinds of ways, but at least I got to deliver one of those ‘every weeb wants to say them once in his life’ lines. And hey, if the boy grows up to be a mage and comes after me, that’ll light a fire under my rear to keep moving upward! He nodded to himself, at least satisfied with his actions, if not necessarily satisfied by the concept of having accidentally orphaned a child.
+
+At the end of the day, every fighter knew what the options were. You didn’t pick up a weapon without acknowledging that your opponent did as well, and you both fought with the intent to kill. That man had fought, intending to kill Rhys, and failed; this was the result of his failure. If he’d wanted to raise that boy well and not die, he wouldn’t have entered battle. It was a bit victim-blaming of him, but he didn’t feel that guilty about it. Bad for the boy, sure, but guilty, not so much.
+
+He sighed wistfully. I guess I’m just too trashy. Too willing to accept the world as it was, rather than grandly dreaming that he might be able to change it one day. Nothing he could do about that.
+
+“Hey. What happened to our crier?” Lira asked, stepping out of the tents ahead of him.
+
+“I was having a moment of emotional growth and reflection as a person,” Rhys informed her.
+
+“Yeah? And what did you learn?”
+
+He shrugged. “Not much, honestly.”
+
+“Right, so back to crying,” she said, smacking his shoulder.
+
+“Yes, ma’am!”

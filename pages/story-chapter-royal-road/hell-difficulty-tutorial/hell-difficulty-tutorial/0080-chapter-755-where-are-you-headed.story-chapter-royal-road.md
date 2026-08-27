@@ -1,0 +1,269 @@
+---
+id: 180e0ed6-7eb1-5a1e-ac1b-17d30fcbf198
+page-type-slug: story-chapter-royal-road
+title: "Chapter 755 - Where are you headed?"
+slug: 0080-chapter-755-where-are-you-headed
+partOf: hell-difficulty-tutorial
+position: 80
+ownLength: 4049
+unit: words
+publishedAt: 2026-02-19
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3072472/chapter-755-where-are-you-headed"
+royalRoadId: "3072472"
+---
+
+POV Sophie Martinez
+
+When the fight ends, the wall on the side of Nathaniel's room explodes, and I see his figure step through before using that kinetic movement to appear next to us.
+
+We don't say anything, and neither does he, as he looks us over. Then he lies down on the ground before saying, "Lily, I might need a bit of help over here."
+
+The body upgrade that he seemed to have gradually gotten under control, now, for some reason, has begun to ravage his body again.
+
+Lily is beside him before he even finishes, and I see Tess nudging Biscuit and saying, "Go and help him too. Your stupid bond wouldn't ask for help if it wasn't serious."
+
+The corgi moves as well and expands in size to his adult form before jumping on Nathaniel's chest. His weird primordial energy flickers around him, and finally, Nathaniel seems to breathe out in a sigh of relief. Not like it is obvious to see. I'm sure this man is still arrogant enough to think he can handle anything on his own. And I don't know what I should find more ridiculous, the fact that he survived the explosion of two modified thermonuclear warheads directly to the face, or the fact that he did it all while dealing with a body upgrade.
+
+I can estimate most of what he has to deal with, and I heard about his current constitution and his new plan to exploit said low constitution to make deeper changes during the body upgrade. It’s even edited his body and constructs enough to let him create what he’s dubbed a vessel in combination with the help of an, honestly, ridiculous skill known as [Manifestation].
+
+There are many things that should be causing his death, and yet here he is, scarier than ever.
+
+The image of the thermonuclear warheads exploding and the contrast between his expression and Christoph's surprise still stays in my mind. It is obvious that Christoph is much, much more powerful. Hell, the guy even seems to be more stable than the average Easy difficulty person. But it all stinks, it stinks so much, especially with Izzy telling me that she hasn't noticed Christoph lying, not even once.
+
+Yet, I don't know who I’d bet on if it came down to it.
+
+"Congratulations on having your question as to whether or not you could survive an atomic bomb answered," Tess says, and I think she’s talking to distract him from whatever’s happening to his body now.
+
+"Tess, it was just two of the smaller ones, it almost doesn't count."
+
+"Nat, I don't think that’s how it works. But tell me, how does it feel?"
+
+"A little cool."
+
+"You’re going to be a menace when we return to Earth."
+
+"Nah, Tess, humans are scary, and they’re just too good at killing. Just wait, some Hard difficulty guy is going to bring magical metals back to Earth, and some country will lock their scientists in a lab. Then they’ll create a magic bullet, a weapon, or something that’ll be able to kill me. They don't have to erase my body for that, and they’ll probably try to shoot out my brain through my eye or something from miles away. That's what I would do."
+
+"Wouldn't you sense the kinetic movement of a bullet heading towards you? I bet you could catch it if you really wanted."
+
+That makes Nathaniel go quiet, though it might be because of his body as he closes his eyes.
+
+"What if they try to shoot me while I’m pooping?" he asks after a few seconds.
+
+Next to me, Izzy chuckles.
+
+I shake my head, checking the timer. Only around 20 minutes remain until the end of the tournament. The 4th event took almost the entirety of the last day. Then I look back at Nathaniel. He’s slimmer now. Not in a way that makes him look ill, but that feels as if his body is denser. It’s easy to see, even on his face, though his eyes show no suffering, nor do they show any of the effort all of this required.
+
+Maybe I'm the only one other than Lily who fully understands it. That man is just taking it all too casually. As if he’s locked into a single goal, the likes of which allows him to ignore things that should break him. And I think I'm the only one to understand another thing, what a glorious mind he has. His incredibly conductive body, his huge mana reserves, his powerful traits and passives, and hearts... I think they are nothing in comparison to his mind.
+
+As someone with the sort of talents I have, I can see it. It's like he thinks differently from us. And by his mind, I don't mean the effort or focus he can put into things, though all of it is impressive. No, what continues to surprise me more and more is his ability to separate his minds, combine, or focus them on a single task, and do all of that at such high speeds.
+
+His ability to throw himself into those currents of thought without worrying about losing himself inside. Not even for a moment does he seem to accept the fact that it could happen, even though he must remember Faora and how shattered her mind became when she tried to do the same.
+
+What a maniac.
+
+"Izzy, did you manage to record everything?" I ask my sister.
+
+Before she can answer, Nathaniel calls, "Sophie, I fucking swear, if you’ve been supporting her in making those edits of me..."
+
+"Oh, shut up," I shout back at him. "I just want to rewatch what Christoph was doing, his inscription circles, and the other things."
+
+"I have to remind you I'm an extremely petty person, Sophie, if you’re lying to support that terrible hobby of hers, I will have my revenge."
+
+"Will you have your revenge against me, too, Nat?" Izzy asks.
+
+That causes the lunatic to shut up, finally, and Izzy giddily dances with her upper body while giving him a little laugh. I wonder what feelings she just felt.
+
+My sister then leans closer and puts her arm on me while whispering very quietly, "Go over there and help him, too."
+
+I look at her and just nod. I trust Izzy.
+
+Standing up, I say to Nat, "I'm bored, I want to look over the process of your body upgrade."
+
+"Go away," he calls from the ground.
+
+"Biscuit, attack," I say instead.
+
+The corgi looks at me and then at Nat, who stares at him with a blank expression. As always, the cute little animal proves very smart and understanding when he wants to be, and Nat knows what’s coming.
+
+"I will have my revenge," the lunatic threatens from his place on the ground, before Biscuit expands in size and jumps to viciously attack his face.
+
+POV Nathaniel
+
+The tournament’s ended, and it’s been two days since I found myself back in the Megacity. I spent those two days lying in my bed and dealing with the additional wave of my body upgrade. As a result, my room in the headquarters of the Primordial Knights is destroyed, along with the array that surrounded it. I worry they will have me pay. I’ve seen the contract, that sum will be high.
+
+I don't even remember what happened very much after leaving the tournament, losing the help of the others made it increasingly difficult. But I dealt with it anyway. I knew I could.
+
+Now I stand up in front of the mirror, tired, but feeling unstoppable as the pain is entirely gone, causing me to feel incredibly light. The body upgrade has finally ended, and its gains are much bigger than I expected.
+
+I used the upgrade to etch deeper inside of me and strengthened each of my constructs as I did, because why the hell not.
+
+I have gained a new chance at trait strengthening. So instead of three, I can now do four. That makes me wonder what the limit is and how long it’ll take for my trait to become something as special as Parallax Eyes.
+
+Though this alone would be worth all of that pain and losing out on some tournament rewards.
+
+But I also got a way to manifest what I call a vessel. The same as with improving my constructs, I used the opportunity to map my body and make changes that allow me to manifest that vessel to deal with mana and possibly primordial energies instead of me. It is a temporary solution, of course, and not something I want to rely on.
+
+I still want to be able to channel mana so perfectly that it becomes possible even through a body with a Constitution of 10 or something crazy like that. In a way, manifesting my vessel will be like a clear sign that shit is getting serious.
+
+And of course, there’s the fact that I, at times during the body upgrade, ran the Restrictive Training Emblem to increase my stats. Anyone caught in my situation would’ve done the same. I wonder if that made some parts of the process more difficult, but well, it worked out. In the end, it gained me nearly 40 Strength and Dexterity. Each. And one extra point of Constitution for some reason.
+
+Then there’s the fact that I’ve gained the title of Absolute Candidate, thanks to Adrian. When we started disappearing from the event, I expected him to be angry, disappointed, or surprised. But there was none of that, more than anything, he seemed to be happy. It makes me nervous. Yet another thing to think of.
+
+However, the Absolute Candidate title also improved the body upgrade, as I hoped. I still don't know what my traits being greatly integrated into my being means, but it can't be anything bad.
+
+With the title come the rewards, which I still have to pick from, though I already have a few favorites.
+
+Lastly, the fact that I have this title means my 3rd trait at Level 400 and primary class at Level 450 are going to be monstrous. Like, truly. And even until then, all my offered rewards should be improved. Passives, items, everything.
+
+That’s what I really wanted, what I ran after, and now that I have it after all this effort, I don't feel as excited as I thought I would be. I know I'm incomparably stronger than before. Yet, I just feel a bit tired, burned out.
+
+I force myself to smile in front of the mirror, but my reflection doesn't show it. Instead, that asshole stands there with his upper body naked and visible scars tracing his body. My shoulder, side, chest, right forearm, elbow, the one going from the bottom of my left cheek through my neck, and more.
+
+I touch a few of them before just shrugging and putting on a white T-shirt without any print.
+
+Moving across the room, I sit behind the table and start eating a slightly stale, day-old pastry I find on it.
+
+Of course, there’s also the matter of my tournament rewards. Though I only won the second event and fought Adrian in the last one, I got myself a spot as 5th in the total rankings. And yet, I can't bring myself to be disappointed. In the end, the tournament almost didn't matter this time.
+
+I open and reread the notification.
+
+Congratulations on completing your 3rd tournament!
+
+The fourth tournament will occur four years from the start of your tutorial. All rounds from Earth's tutorial will compete together against Nythis and 8 other planets undergoing their own tutorial.
+
+Congratulations, you have placed fifth overall in the 3rd tournament of Earth's tutorial. Your rewards have been improved.
+
+You have rejected all event rewards in order to increase your final rewards. Your rewards have been improved.
+
+Please choose 1 out of 3 possible rewards:
+
+- Passive skill combination token (up to mid-arcane rarity)
+
+- Passive skill (mid arcane)
+
+- 1,500,000 shards
+
+So now I'm a bit richer. That's all. The rewards truly are much worse outside of the top three, or maybe I'm just too used to more "luxurious" rewards. It makes me wonder what Adrian even wanted or hoped to gain from the tournament. Though I should meet with Ruby today, and might find out.
+
+Looking at the notification, I also remember what Maya said.
+
+"Do you think Nythis will tell the other eight planets about how this tournament went, and they will all group up against us?"
+
+It can't be, right?
+
+When I exited the tournament before, Ruby summoned me to her weird, neverending space. Then she just checked on me and sent me to a room in the headquarters with a promise to talk later. That's what I try to do now, after finding her where she told me to meet up with her, in one of the smaller restaurants behind the inner walls of the Megacity.
+
+Now, instead of talking about the things we should be talking about, she’s just dragging me all over the city. We visit a barber where she pays to get my hair cut and styled. Then we visit a bakery where I get to taste what’s probably one of the best cheesecake like things I've ever tasted in my life.
+
+Our next stop is a liquor shop where she has me taste several varieties, then buys a bottle of all the ones I enjoy, even a little. She pays tens of thousands of shards, just for that.
+
+She shows me a tree that Pathfinder Thane planted when she started building the city. It is heavily protected and seems to have produced a few weird orange-like fruits. Ruby tells me she sometimes steals some when Thane annoys her.
+
+I listen to her tell stories from Eladore pre-destruction, about her master Lissandra, and how Ruby was just sent to her to spy before everything changed. I also hear a few stories about pre-Absolute Lissandra, a young girl born into a neverending war.
+
+The entire time, Ruby disrupts my mana any time I try to train, and the whole time, I feel like I have nothing to do.
+
+Lastly, she teleports us to one of the highest places in the Megacity: the roof of the Pathfinder's house.
+
+"I used to be Lioren's Handler, and when he died back then, I did not think much of it," she says, meeting my eyes. "I saw Adrian as less talented, if more ruthless and more willing to do whatever was required. For me, it doesn’t matter who it is or what must be sacrificed. I’ll support anyone who has even the slightest chance of killing Pride, even if that chance is as small as someone managing to kill Kindness. I don’t care if they are cruel, I do not care who dies because of it, or how many worlds fall. I want Pride dead. That is the heart of my greed."
+
+Looking back at her, I nod.
+
+And she continues, "I met Adrian again two hundred years ago outside the tutorial and put him in contact with Kyralon. At the time, I didn’t think much of his plan, and I did not believe he would succeed. What he’s done by being reborn on Earth isn’t really all that special. What truly borders on the impossible is the system accepting him as an Earth native and letting him enter the tutorial a second time. Even I wouldn’t have been able to force something like that. The system isn’t easy to fool, and yet he managed it. I also understand what he is doing by sending you to me. He’s not foolish enough to believe this is going to change your view of him in any meaningful way. This is him mocking you and mocking me. He thinks he understands people far better than he actually does. His skill is not like your friend's, and it has clear limitations."
+
+"Tell me more."
+
+She does without hesitation, "One of the reasons why so many powerful people are interested in him is that he shares a skill that is also one of Pride's ten. That skill is called [Mirror]. Adrian uses it to reflect your emotions back onto himself, which helps him understand others and turn those emotions to his advantage. It also lets him mirror other things, such as skills, stats, and passives. There are limits at his current level, yet it remains a very powerful one. Adrian might look weak now, but he’s always been the type who grows stronger when he’s faced with stronger opponents."
+
+"I have a question for you."
+
+"Ask."
+
+"What does he plan to do?"
+
+"I can tell you, but if you’re not careful, everyone you care about will die."
+
+"Tell me."
+
+She tells me, and I listen in silence. Soon after, I walk away, leaving Ruby alone on the roof.
+
+A few days later, the Beyond rankings update one more time.
+
+Exploration Leaders 1. Christoph (7th Floor) 2. Adrian (6th Floor) 3. Nyssa Volare (5th Floor) 4. Voss (5th Floor) 5. Orion (5th Floor) 6. Zenith (5th Floor)
+
+I know I have three days, so during that time, I move around the Megacity and head to the 3rd floor of Beyond. Mostly to meet and talk to people from Group 4. I also pick my rewards for the Absolute Candidate quest.
+
+Then I wait.
+
+Just three more days.
+
+POV Earth
+
+A blanket of snow covers the mountains as far as the eye can see. The powerful wind continues to blow, moving the snow through the area in a way that gives it a rough sort of beauty. That view looks like something you would put on the front page of a tourist magazine.
+
+That's where a man appears from the air. He looks to be in his mid-forties, and though he wears thin clothes, the cold doesn't seem to bother him at all.
+
+As he catches sight of a familiar view, he smiles brightly and takes a deep, slow breath. Then another.
+
+He looks around until his eyes find a cabin nestled against the mountain nearby. One of those modern ones with big, triple-layered glass for insulation. It has a terrace, a balcony, and a road leading up to it. Nestled there, it offers a beautiful view of the valley below and the mountains surrounding it. Though it seems empty, the area around it has been cleared of snow, as if someone were taking care of it while the owner was gone.
+
+The man smiles even more and lifts his arm.
+
+Under an invisible force, the cottage shatters into a million tiny pieces. And the destruction just keeps coming, as if something unseen were furiously hammering at it. Then it changes, and big pieces of the mountain are torn away, building-sized boulders which are immediately flung away, crashing into the other peaks and setting off avalanches. Some of the boulders fly far into the distance, others are crushed midair.
+
+The man, who was smiling at the start, shows a deep seated anger on his face as he screams while the destruction continues until the entire mountain is gone. He moves his slightly shaking hand through his hair and then laughs shortly with relief that sounds like he pushed a wrong memory away, the one of decades of desperation and weakness.
+
+He then fixes his clothes and, through the snow, starts walking the road heading down towards the closest village.
+
+POV Nathaniel
+
+I check the timer for the last time before I stand up. Then I use the 1-day Earth visitor token.
+
+The world around me twists in a way that doesn't feel any more special than going on Beyond quests. It's just the same as always. I don't even know what I was expecting.
+
+I find myself in the middle of what seems like a military compound with walls, vehicles, and even towers. An alarm rings right away, but I just take a step and use Wraith Dance. I repeat this multiple times until I find myself on the other end of the city.
+
+The rush and presence of so many human beings hits me powerfully. Standing on the sidewalk, I just look around and take the view in, all these familiar smells and sights. It is weird, and I don't know what I had expected, but none of the people here feel any more real than the natives of the tutorial.
+
+I take another Wraith Dance to cross the street as I spot a young man showing off his new watch to a girl. When I stop, I very carefully tap on his shoulder.
+
+"What?" he asks when he turns around, but words freeze in his mouth, and he coughs and asks again, but in a very different tone, "What?"
+
+"Can you lend me 100 bucks? I’ll give you 100,000 tomorrow," I ask.
+
+He blinks in confusion multiple times and looks between the girl and me before he laughs and pulls out his wallet. "Of course, you will," he snorts. "But take it."
+
+As he hands it to me in multiple bills, I take it very carefully, aware not to touch him, wary of my strength. Though I'm still heavily restricting myself, and my little tap on his shoulder didn't break it.
+
+I take the bills and search his expression. It is a mix of strong desire to show off, a bit of fear, but also a bit of kindness. I picked him because he seemed wealthy and an easy target, but he doesn't seem to be a bad guy.
+
+"Thanks, I’ll make it 200,000," I say. "What is your name?"
+
+Almost forgetting the girl, he laughs, "As if, but whatever. It’s John Murray." Then adds, "just don't spend it on alcohol, and help someone else down the road."
+
+I nod and remember his looks before taking another Wraith Dance and disappearing to stop in front of a convenience store. There, I walk through the aisles and pick up a can of soda to drink and wait to have my hot dog prepared.
+
+When I pay, I make my way outside and eat it all while resting against the wall near the store. As I chew, I watch cars and people pass by, with it all feeling extremely unreal.
+
+On the opposite side of the street, I notice a bus coming to the bus stop, so I use Wraith Dance again to bring me over to it, and I rush the rest of the distance and jump onto the bottom step as the bus doors hiss open. I move up the stairs, and the air hits me with the heavy scent of diesel and cheap cleaners. The driver, a woman with tired eyes, doesn't look up right away.
+
+"Good afternoon," I say.
+
+She glances up, a weary, practiced expression on her face. "Afternoon. Where are you headed?"
+
+"Wherever the line goes," I reply, handing her the ten-dollar bill I already had prepared.
+
+She frowns slightly with a spark of annoyance in her tired eyes. "We don't do change for a ten, pal. The bus fare is three fifty."
+
+"Keep it," I say, waving it off.
+
+She sighs, pulling a small stack of crumpled bills from beneath the counter anyway. "Nah, I gotta give you something. Three fifty is the fare." She counts out some bills and coins, pushing a small, heavy pile toward me. "Six fifty change."
+
+"Thank you," I say, taking the bills. I don't count it, just shove the change into my jacket pocket and walk down the narrow aisle.
+
+I pass several silent, tired human beings. A woman glued to her phone, a teenager swallowed by his oversized headphones, and an older man just staring out the glass. I head straight to the back row and choose the corner seat. I press my back firmly into the worn, rough fabric of the seat, letting the steady, powerful rumble of the engine transmit through the bus and into my bones.
+
+The bus doors hiss shut, and the entire vehicle lurches forward, pulling away from the curb.
+
+I lean my head against the dusty window and watch the city begin to slide by while pressing my face close to the glass, studying my own reflection.

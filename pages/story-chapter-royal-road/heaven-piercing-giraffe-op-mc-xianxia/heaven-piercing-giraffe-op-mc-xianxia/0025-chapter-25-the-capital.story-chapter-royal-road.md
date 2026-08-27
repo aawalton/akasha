@@ -1,0 +1,211 @@
+---
+id: ab10817b-0d07-5767-9258-88a3a0bb45cb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25: The Capital"
+slug: 0025-chapter-25-the-capital
+partOf: heaven-piercing-giraffe-op-mc-xianxia
+position: 25
+ownLength: 1756
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3798585/chapter-25-the-capital"
+royalRoadId: "3798585"
+---
+
+Chapter 25: The Capital
+
+Smoky raised his hands. But his companions kept on fighting.
+
+"Your leader's already defeated." White's sword flashed sideways as she cut down another invader without breaking stride. "Give it up."
+
+One of the men off to her far right laughed, low and easy. "What are you talking about, lass? Henry's not our leader." He raised his own weapon and summoned a crack of thunder, aimed straight at her.
+
+White brought her sword up in time, the flat of it wide and solid enough to shelter her whole frame from the blast — but red bloomed across her shoulder anyway. It spread fast into the white fabric of her robe.
+
+"White!"
+
+I ran, catching her before she'd finished dropping. Her weight settled into my lap harder than I'd expected. Her breath was already coming shallow.
+
+I felt my heart move the way it moved when I remembered Dad. It suddenly felt so big that I could hear my own heartbeat.
+
+The Human Ts around us stopped mid-fight. Several heads turned toward the sound of my voice, which made me realize that I'd been shouting.
+
+I glared at the man who'd done this to her. For reasons I couldn't fully articulate, something about him was deeply irritating: the way he held his weapon, the loose, unbothered angle of his shoulders, the fact that he was still smiling after what he'd just done to her.
+
+I decided to call him Fly.
+
+I decided too, that I wanted him gone from this clearing in whatever way that required.
+
+Fly rested the weapon casually against his shoulder. "Whoa, easy. Scary look you've got there. But it wasn't me who shot her, for the record. That was the boss."
+
+"Boss is sharp as ever," another voice added. He stepped up beside him, one hand raised to shade her eyes as he squinted off into the distance.
+
+I turned to look at whatever he was looking at.
+
+Trees. Just trees, as far as I could see. It didn't matter. I looked back to White. Nothing past her slowing breath mattered right now.
+
+Then someone spoke to my left, "You should've shot me when you had the chance, boy."
+
+I looked at the source. It was Smoky. He managed to wrench his weapon back out of Fish's grip.
+
+Fish's hands went up in turn. "I tried. Didn't know how."
+
+Smoky laughed at that, loud and genuine. He stopped. His expression shifted all at once into something colder. "Anyway. You lot are coming with us."
+
+The Human Ts, scattered across the clearing, dropped their weapons one by one, half of them already down in the grass, groaning or worse. It hadn't been a fair fight from the start. Every one of Smoky's men could summon thunder at will, and their actual pack leader, whoever that was, hadn't even bothered to show his face.
+
+I looked down at White. At the growing red. At her eyes, half-closed, still trying to focus. At her hand trying to reach something.
+
+I grabbed her hand. This was my fault.
+
+Fly stepped up beside me and pulled at my arm.
+
+I didn't move. Deliberately making myself heavier.
+
+He sighed. "Come on. If you want her to live."
+
+I looked up at him.
+
+Something in my chest twisted at the word live.
+
+"We can't fix her up with you clinging to her like that." He tugged again, harder. "Move."
+
+This time, I let him.
+
+Every part of me wanted to do the opposite. To stay exactly by her side. But White's blood was still spreading.
+
+He glanced over his shoulder toward two of his companions. "First aid. And don't forget to restrain her."
+
+Two men crossed to White immediately, tying her hands first. They then started wrapping a length of white cloth tight around the wound at her shoulder.
+
+I watched them work. "Please be gentle…" I was already walking towards her.
+
+Fly pressed the end of his weapon flat against the back of my head. I stopped.
+
+"Been wondering about something." His voice had lost its earlier casualness. "Why you covered your face when you charged us. Thought it was a strange thing to do at first. Makes a lot more sense, though, if your head's the only part that isn't hard."
+
+I went very still.
+
+Then someone yelled, moving toward me at a dead run.
+
+A crack of thunder answered — but the yelling didn't stop.
+
+I turned to see who it was.
+
+It was Hyena. Blood already soaking through his shirt at the stomach. His spear buried in the invader near him. He yelled as he wrenched the blade free and kept charging, kept moving, as though the wound hadn't happened yet or didn't count.
+
+More thunder answered him this time. Two, three cracks in quick succession.
+
+Hyena stopped. He looked at me and smiled. "I'm sorry… boss…"
+
+He dropped into the grass, all at once.
+
+I waited for him to move.
+
+He didn't.
+
+Something in my chest went hollow for the second time. Humans that were close to me were dying and I couldn't do anything about it.
+
+"These guys really like courting death," Smoky said.
+
+Fly laughed. "Yeah, right Henry. Can't believe you let a boy steal your gun." He then glanced toward the two men near White. "If you're done with her, tie this one too." He poked my head with his weapon.
+
+"Right." The two men crossed to me and pulled my wrists together, binding them without ceremony, without looking at me at all.
+
+How... how could humans be so cruel…?
+
+The thought arrived slowly, almost stupid in its simplicity. Heat started to swirl inside my neck: building, gathering, the same warmth I'd learned to hold.
+
+System. Do you think I could beat them?
+
+[No. Not with that thing pointed at your head.]
+
+Then give me something. A new skill. Anything. Then I remembered Smoky. How about courting death? Can I learn that as well as a new skill?
+
+[Unlike Face-Slap, you have almost no accumulated knowledge about Courting Death yet. There's nothing to draw a skill from.]
+
+I gritted my teeth hard enough that my jaw ached with it.
+
+Fine. Then I'll work with what I have.
+
+Light began to escape from beneath my scarf, faint at first, threading up along my throat toward my jaw.
+
+Fly's weapon came down against the back of my head before it could go any further.
+
+The world tilted, then went black.
+
+***
+
+I woke up from a bump.
+
+I sat up too fast. My head was still ringing from wherever the strike had landed, and the world took a moment to arrange itself properly. Bars, close together, iron and cold. The Jade women were huddled along the opposite wall. Even Donkey was here, curled against one of them, crying.
+
+We were in a cage, thick steel bars jostling with every uneven step of the beast pulling it.
+
+I looked past the bars to see what that beast actually was. Its fur was white and striped, but far too large for any tiger I'd ever seen. Its shoulders alone stood taller than a horse, muscle shifting beneath the fur with each stride, claws leaving deep gouges in the road with every step.
+
+Smoky sat astride it, reins loose in one hand.
+
+Another bump, harder than the last, and something heavy tipped against my shoulder. I turned.
+
+It was White. Asleep, but not the way sleep was supposed to look. Her breathing came ragged, and the cloth wrapped around her shoulder had gone dark.
+
+And another bump. White gritted her teeth.
+
+I pulled her closer, one arm around her, trying to absorb the next bump myself before it reached her.
+
+I looked out through the gaps in the bars.
+
+The land outside had changed entirely from the savanna I knew. No open grass, no scattered trees. Just packed dirt.
+
+Humans riding horses flanked us. Dozens of them moved alongside our cage in loose formation, weapons resting across their laps.
+
+Ahead of us, a wall rose out of the flat land. Grey stone, taller than any tree I'd stood beneath, stretching in both directions until it simply disappeared into haze. Smoke rose from somewhere behind it in thin, steady columns.
+
+At its center sat a gate: enormous, arched, dark at the middle in a way that made it look less like an entrance and more like something's open mouth.
+
+"We're here." Smoky's voice carried back to us. "Welcome to the capital."
+
+We passed through the gate.
+
+The scenery changed all at once. Buildings pressed close together on either side, taller than anything in the Eastern District. They stacked two and three stories high with narrow gaps between them that never seemed to let in much light. The road beneath us went from packed dirt to fitted stone, smooth enough that the cage's jostling finally eased. Banners hung from windows and rooftops in colors. Somewhere beneath the noise, a market was running.
+
+Humans. More humans than I had seen gathered in one place. Packed along both sides of the road, all of them turning to look at the cage as it passed.
+
+But their number was not the problem. Their expressions were.
+
+I pulled my robe wider and wrapped it around White, hiding as much of her as I could manage.
+
+She couldn't fight like this. I understood that I couldn't do much better.
+
+I looked past her to the Jades instead. They were still cowering against the bars.
+
+Is it really hopeless? Are we going to—
+
+I remembered Hyena. The way he dropped on the cold ground. Tears flooded my eyes.
+
+Are we all going to end up like him?
+
+A bell rang.
+
+It had been ringing for a while now. A small, persistent sound I'd been filtering out.
+
+I wiped my eyes with the back of my hand. I looked at the source.
+
+It was Fish. Seated near the front corner of the cage. A thin bell looped around his neck on a cord, catching every small movement he made.
+
+One of the invaders close to him laughed. "Seriously, is Henry that mad to this boy that he placed a bell on him?"
+
+"Shut up!" Smoky shouted on top of the beast. "That boy keeps on disappearing unless we bell him!"
+
+"The hell are you talking about dude."
+
+They laughed like we didn't exist at all.
+
+I clenched my fist, then opened my mouth.
+
+"Not yet," Fish whispered before I could say something.
+
+He looked directly at me.
+
+I closed my mouth and nodded.

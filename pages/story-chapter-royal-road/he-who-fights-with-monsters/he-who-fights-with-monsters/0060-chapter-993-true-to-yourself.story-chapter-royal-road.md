@@ -1,0 +1,269 @@
+---
+id: dc3b2cc8-2294-5063-a09f-7ca5ef5cbcdd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 993: True to Yourself"
+slug: 0060-chapter-993-true-to-yourself
+partOf: he-who-fights-with-monsters
+position: 60
+ownLength: 2325
+unit: words
+publishedAt: 2026-03-20
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/3174959/chapter-993-true-to-yourself"
+royalRoadId: "3174959"
+---
+
+In his astral kingdom, Jason was on the deck of his house in the waterfall gorge. The sun was high and he let the cool air with the faint spray of the waterfall cool him off. Behind him, Raythe exited the house and looked at the other houses lining the gorge walls.
+
+“Most kings seat themselves in a palace, not a neighbourhood,” she observed.
+
+He smiled and likewise looked around. Trees grew out of the rock, surrounding the houses of wood and stone built into the sides of the gorge. A light mist drifted through the gorge, giving it an ethereal feel. He gestured at the view.
+
+“You don’t think this is extravagant enough?”
+
+“Has Dawn told you much about where she comes from?”
+
+Jason turned around to look at Raythe.
+
+“Not a lot,” he said. “Something about being a galactic space princess.”
+
+“She was born in the Sun Palace, which is a palace built around and inside an actual sun.”
+
+“That sounds like more trouble than it’s worth. I mean, awesome, yeah, but also kind of a lot. But I can see why this isn’t up to your standards of opulence. I suppose, compared to the things you’ve seen, my little universe is a run-down caravan park.”
+
+“It has its charms. Bigger and more don’t always mean better, and this realm of yours is still quite embryonic. I imagine you’ll be refining it a lot over the millennia to come.”
+
+“I was thinking of putting some potted herbs out here. It’s always good to have parsley on hand.”
+
+“Do you always do this?” she asked. “Distract from your real thoughts with inane frivolities?”
+
+“I’d say that it’s kind of my thing, but it’s kind of everyone’s thing. People are very good at distracting themselves. You don’t find that?”
+
+She walked over to the wooden rail and leaned her hands on it, looking out at the gorge.
+
+“It has been a long time since I was a normal person, even by such unconventional standards of normal as yours. I don’t recall what it’s like to move through time the way that others do. I was just a person once, I must have been. But you could tell me the story my life before this and I doubt I would recognise it. My body might be immortal, but my memories are not.”
+
+Jason leaned back on the railing and looked at her.
+
+“You’re not like the other prime vessels, are you?”
+
+“A few of us are different. There is a reason we did not participate in the battle for the Cosmic Throne.”
+
+“Did you know how that was going to play out?”
+
+“Perhaps. The web of time trembles as we pluck upon the threads, shifting not just the future but the past. Possibility becomes certainty, and that which never was has suddenly always been true.”
+
+“Do I even want to understand that?”
+
+“No,” Raythe said. “You do not.”
+
+“I have my own conflicts, I suppose. I am still unclear why I have to hide what you’ve told me. Even from myself, now that you’ve taught me how.”
+
+“There is only so much I can tell you, even here. Some because you literally cannot comprehend the flow of events, and others because I fear the disruptive influence you could have, should you decide to… be true to yourself. The great astral beings are charged with governance of the cosmos. In sundering the Cosmic Throne, they failed to live up to their obligations, the repercussions of which continue to play out, back and forth through time.”
+
+She gave a wear sigh before continuing.
+
+“The old Builder demonstrated the depth of the mistake that was the sundering of the throne. Even with the original Builder sanctioned and the throne restored, their folly continues to play out. The impending events around Earth and Pallimustus would not have been possible if the throne had never been sundered. But it was and they are, and it must now be seen through to the end. The instability that would come of disrupting those events would do more harm than the events themselves.”
+
+“I don’t like it.”
+
+“You don’t have to like it. You just have to do it.”
+
+“A lot of people are going to die.”
+
+“Yes.”
+
+“I’m getting tired of taking responsibility for these choices.”
+
+“Be grateful that they don’t come easily. That’s when you’re in trouble.”
+
+Jason tilted his head at a sound, like a murmur he couldn’t make out, lost on the breeze.
+
+“Did you hear that?” he asked. “It’s like a whisper on the wind, but it’s not. That’s my wind, and I know what it carries. It’s not the first time I’ve heard it either. How can there be something here that I don’t recognise? Is it some kind of PTSD thing? I still have nightmares, sometimes. Am I creating ghosts out of trauma?”
+
+“They are not ghosts, Jason.”
+
+“You know what they are?”
+
+“Yes.”
+
+“What are they?”
+
+“You won’t like it.”
+
+“Yeah, well it seems to be the day for that.”
+
+“Maybe you should wait for another day.”
+
+“You’re leaving today.”
+
+“There will be other days. You have no understanding of what eternity means. And you will figure it out on your own, even without me.”
+
+“No. I’m already putting off enough. What are those sounds?”
+
+“Prayers.”
+
+Jason blinked. He blinked again.
+
+“You’re right,” he said. “I don’t like it.”
+
+“Would you like to talk about it?”
+
+“Do I need to?”
+
+“No. As I said, you’ll figure out what you need to on your own.”
+
+Jason started pacing, letting out a groan as he rubbed his forehead.
+
+“I should have listened and left it for another day.”
+
+“Yes.”
+
+“You probably get that a lot, don’t you? Telling people the right choice and having them ignore you?”
+
+“As long as they listen for the important decisions.”
+
+“It’s not like I didn’t know,” he said, to himself rather than her. “It’s been a long time coming, in dribs and drabs. It’s not like I’m really a god. That’s the whole astral nexus thing, right? Part god, part great astral being, part astral king?”
+
+“Yes,” Raythe said. He stopped pacing and looked at her, as if surprised she hadn’t wandered off.
+
+“Okay,” he said. “There’s nothing really new here, just… more information. I can put it in a box and let it fester in my subconscious until it bursts out to ambush me later. I have a therapist for that.”
+
+“That sounds healthy.”
+
+“Yeah, well, I’ve got enough to be dealing with. Like how to answer the questions people are going to have. And what to do about Travis’ wife.”
+
+“She doesn’t know.”
+
+“You’re sure?”
+
+“Yes.”
+
+“Oh. Does that make things more complicated or less?”
+
+“Less for you, more for her.”
+
+“Yeah, I can see that. At least that means I can focus on my own stuff. It’s going to be weird, enacting a plan when I don’t know why.”
+
+“You will. It’s your avatar that won’t.”
+
+“But I am my avatar. A prime avatar is more than a regular one. It’s hard to explain to someone who hasn’t experienced it.”
+
+“I am deeply familiar with that particular problem.”
+
+Jason laughed.
+
+“I suppose you are.”
+
+***
+
+The elevating platform rose to the level of Jason’s private floor atop the admin tower in his Slovakian spirit domain. Anna and Danielle left the elevator room and walked down the hall to the sprawling office lounge that occupied half of the floor. Jason was seated behind a large wooden desk, looking at an array of screens floating in the air like holograms. Some were written reports while others were video recordings. He looked up as the pair entered and, with a flick of his hand, the screens vanished.
+
+“Catching up on what happened in my absence,” he explained.
+
+“An absence that has not gone unnoticed,” Anna said. “Do you want to issue a statement to the taskforce about it?”
+
+“Let them know that I’m back and to expect more from me soon. Something important.”
+
+“Some important things have been happening in your absence,” Danielle said.
+
+Jason came from around the large desk and guided them to a set of couches arrayed in front of open double doors, leading out to a balcony.
+
+“The vampire war has resumed,” Anna said, once they had sat. “Military forces are operating out of Asano Clan territory again, at the behest of your grandmother. The vampires are more proactively counterattacking this time around. Their forces lack the cohesion they had under Elizabeth, but the blood oaks make for dangerous guerilla fighters.”
+
+“Not to mention the strategic employment of the blood parasites,” Danielle said. “They have a knack for attacking anyone proving too effective in working against the vampires. Military and government leadership, mostly.”
+
+“The vampire war will be useful, but not something I’m looking to intervene in directly,” Jason said. “That conflict is for the humans, and our influence will be indirect.”
+
+Anna and Danielle both leaned forward, giving Jason suspicious looks.
+
+“Are you alright, Jason?” Danielle asked.
+
+“Yes, why?”
+
+“The vampire war will be useful?” Anna quoted.
+
+“It will. Humans make advancements more rapidly in response to war, and unify most quickly in the face of a common enemy.”
+
+“Jason, you seem cold,” Danielle told him. “Dismissive of the potential damage the war will cause.”
+
+“Even on your last visit to Earth, you always had concern for the population at large,” Anna pointed out. “It was the people right in front of you that you wanted to kill.”
+
+Jason started, as if he’d been stung by an insect, then shook his head as if to clear it.
+
+“Sorry,” he said. “I’m still getting the hang of this. I think I dialled in the empathy too low.”
+
+“What?” Anna asked.
+
+“I’ve explained in the past that this body is an avatar. Thus far, I’ve just been shoving my whole personality in it and off I go, nice and easy. During my absence, I’ve been training to exclude certain aspects of myself from my prime avatar. To do that, I have to build my whole personality from scratch, leaving some bits out.”
+
+“Why?” Danielle asked. “And exclude what, exactly?”
+
+“Memories. You’d think I could leave my personality intact for that, but it turns out that they’re very intertwined. As for why, I don’t remember. I do have a sense that some of it is high-level stuff. Cosmic reasons. And some of it is something best left alone until later.”
+
+Danielle and Anna shared a look.
+
+“I know,” Jason said. “It makes me sound compromised.”
+
+“Who gave you this training, exactly?” Danielle asked.
+
+“Raythe. Prime vessel of the guy who manages time. You met briefly, didn’t you?”
+
+“We stayed in the same accommodation while waiting for you all to leave the underground transformation zone. I didn’t know who she was at the time.”
+
+“What do you mean by ‘manages time?’” Anna asked. “Are you talking about scheduling?”
+
+“Uh, no,” Jason said. “You’ve heard of the spacetime continuum?”
+
+“Of course.”
+
+“Well, there’s someone with a bunch of names who is in charge of it. Raythe is the person he sends to murder anyone who mucks with it.”
+
+“And you know this person how?” Anna asked.
+
+“Friend of Dawn’s. You remember Dawn. Your wife sold me some of her paintings.”
+
+“Yes, although I never got to know her well. Around the time she showed up, you cut ties with the Network and started roaming around, acting by fiat and killing anyone who got in your way. Which does not inspire confidence over whatever ‘important thing’ you have for the taskforce. Especially now there are apparently missing pieces from your personality.”
+
+“It does sound bad when you put it like that, but Raythe is nice. Danielle, you heard about that diamond-rank messenger who came to kill me and just arrived at my feet, already dead? Turns out, that was her.”
+
+“The messenger you then ate?” Danielle asked.
+
+“What? No! How times do I have to… look, I drained his life force. A bit. Okay, a lot, but even a dead diamond ranker has a lot of life force compared to a silver. And he’s alive again now. It’s fine.”
+
+He looked at Anna, whose expression suggested that it was very much not fine. He sighed.
+
+“Okay, this is getting me nowhere,” he said. “Let me show you the new plan.”
+
+A pair of computer tablets floated from his desk, one each for Anna and Danielle.
+
+“That’s the plan,” he said as they took the tablets and looked them over. “Dot points for now, since you’ll definitely want to fix all the bits I didn’t think of or got wrong.”
+
+“At a glance,” Anna said while still reading, “this is a significantly more aggressive approach than we’ve taken thus far.”
+
+“Yeah,” Jason said.
+
+“We always assumed there would be some manner of conflict once the bridge between worlds fully opened,” Danielle said. “It was always the intention to make the Earth strong enough to resist colonial forces from Pallimustus.”
+
+She looked up from her tablet to meet Jason’s gaze.
+
+“This approach,” she said, gesturing with the tablet, “suggests that you have become aware of a specific threat. One more significant than we were previously anticipating.”
+
+Jason winced.
+
+“Ow. Yeah, we’re not talking about that.”
+
+“I don’t like that answer, Jason.”
+
+“You think I do? There’s a chunk of my mind missing and whenever I bump into it, it feels like someone filled the hole with battery acid. And I’m the someone. I’m still figuring out this avatar thing, but that line of questioning is not on the table.”
+
+“Why not?”
+
+Jason winced again.
+
+“I don’t know,” he said through gritted teeth. “Look, take the tablets, look at the plan and we’ll reconvene tomorrow to go over your thoughts, okay?”
+
+Moments later, Anna and Danielle were riding the elevating platform down.
+
+“We’re worried about Jason, right?” Anna asked.
+
+“Yes,” Danielle said. “We’re worried about Jason.”

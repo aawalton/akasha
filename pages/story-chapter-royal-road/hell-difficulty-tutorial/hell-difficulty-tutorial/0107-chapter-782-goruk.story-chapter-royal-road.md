@@ -1,0 +1,123 @@
+---
+id: cef6645e-92a3-5bf3-b6c0-040ca0dd84ab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 782 - Goruk"
+slug: 0107-chapter-782-goruk
+partOf: hell-difficulty-tutorial
+position: 107
+ownLength: 2408
+unit: words
+publishedAt: 2026-03-30
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3212276/chapter-782-goruk"
+royalRoadId: "3212276"
+---
+
+I watch as Blackie runs through the forest. His movements, even as they continue to improve, are still somewhat clumsy, and there’s barely anything reminiscent of the martial arts in his movements. Most of the time, monsters just attack him only to be torn apart in the resulting explosion, or he simply runs into them. Be it a monster of similar size or one many times taller than him, those under level 300 or close to 400, all end very similarly, turned to shreds or grievously wounded, at which point he usually moves closer and begins to punch them, awkwardly.
+
+I think it is because of how stats work, but his speed isn't all that high, nor is his strength. It is as if his body was mostly built on Constitution and not so much of the other stats.
+
+Sophie says that it should fix itself with time, as he’ll probably get part of the experience from the kills, and it will likely be funneled into his stats, provided he has a leveling system like us. There is also a question of how much of that Sophie will get.
+
+That kind of combat he puts on display also tends to attract more monsters, and that’s what we want for now, as we cycle through a new danger zone and use Blackie to attract the attention of the monsters we need to kill before proceeding deeper. It’s also fun to see just how unkillable he is, and it makes me respect the Champion a bit more. It also makes me wonder whether he had any control over the trait, or if he chose it knowing he couldn’t and would have to live with it forever. Since it was a demon, it’s highly likely it was the latter.
+
+Once the main group of monsters is dealt with, Sophie calls him back, and the others head in to clear out the rest, while Tess and I stay behind to keep an eye out and make sure we’re ready to move in if a more powerful one approaches. There are still plenty of stronger ones remaining, and the closer we are to the end of the floor, the more of them appear, as if forced to get out of their holes and fight.
+
+Even Biscuit floats alongside us, creating purple mana projectiles that he fires off at all the monsters. Explosive orbs fly, and when it comes to the bigger ones, massive purple tentacles pierce the ground to hold them in place for further attacks.
+
+When he gets annoyed at more durable ones, he grows in size to match them and fights them up close. If he gets especially annoyed, he shrinks to the size of a puppy and disappears into a pool of dark shadows from which a primal growl sounds, as that shadow encompasses his enemy, a crunching ensues, and soon, silence.
+
+There hasn't been a monster that didn't try to run away after seeing that. Without a speck of doubt, he is the best corgi of the 9th floor. The best corgi to ever put its paws on the 9th floor of any tutorial.
+
+The twins so far have a perfect score, too, and no monster’s been able to locate them. Instead, the beasts just keep attacking their illusions. Currently, they seem to be having fun by grafting all their stats onto one of them, who then moves and attacks with impressive stats that are likely the highest of anyone from group 4, though there are limitations to it. Their enthusiasm is clear as they fight over who gets to be the one with all the stats, measuring in seconds how long it is before the other one asks for a switch.
+
+Apparently, they haven't fought anyone from group 4 while doing that, and it makes me wonder if they are only doing this in hopes of managing to curbstomp Lily or possibly Min-Jae, who I’ve heard has been winning in duels against them, even 2v1.
+
+Both Dennis and Aaron are at the same level, 337, and for me, it is hard to say if it's high or low. Knowing what lunatics group 4 members can be and remembering what they have done to the others from Hell difficulty, I would say it is high. It’s just that, unlike mass-destruction enjoyers like me, they can’t level up on such a mass scale. I’m already starting to lose count of how many times I’ve gained a dozen or so levels by blowing up an entire tunnel. It’s always tunnels.
+
+So the twins don’t have their body upgrade yet, but after I shared my positive experiences, they might be waiting to gather some achievements. Min-Jae is close to his body upgrade, just a few levels off, thanks to his easier method of killing more monsters. Maya is at a similar level to the twins, and Izzy just passed level 300 not long ago.
+
+Sophie, Tess, and Lily all got over 350 in the past month or two. For now, I remain at the highest level and would likely be over 400 if I hadn’t waited so long for my body upgrade, and if I didn't want to take down the Champion before the trait at 400.
+
+There’s no need to be competitive and watch our levels and constantly compare ourselves.
+
+It is fine.
+
+So, once again, the twins, with level 337 times three, that’s over 1000 in stats just from that. Count in the extra stats your class gives you, some stats from training, and from the group 4 variation of Burden Enhancement Inscriptions or Restrictive Training Emblems I modified for them, and each of the twins has around what, 1600 points in their stats? One or two hundred less or more. Unfortunately, neither of them went for an Attribute upgrade that would double their chosen attribute.
+
+I have 2700 or so, and an additional almost 1900 from Vast Mana.
+
+That said, if they continue to improve sharing stats and their handle over it, one twin could enter combat with stats close to someone at level 400 who abused the fuck out of getting free stats. Not to mention the shared mental processing they have.
+
+I almost feel a smile force its way onto my face. No matter how many months pass, I always find myself fascinated by the many ways the system can be used. On the one hand, it appeals to my curiosity, on the other, it’s a reminder that I can do better and attempt to abuse it more. After all, everyone does it.
+
+Seeing that we have begun to move, I join the others as they head deeper into the Danger Zone.
+
+This one is once again different from previous ones. Where before the area started clearing, this one is getting denser and denser with vegetation. At one point, Blackie stays behind, given that he can't move between the trees without bumping into them.
+
+Using our senses, we search for a way between trunks and branches, often squeezing in between them. The space becomes more claustrophobic, quieter, and darker. Mana radiation begins to fill the air, even as far out as we are, it begins to reach the level of skills like [Dawn] when someone like Savant uses it.
+
+It’s time for me to take over. My own [Eclipse] flares up just enough to surround our group, draining the color from the area while I deal with the radiation within its bounds.
+
+The trees become weirder, their trunks sprouting eyes that track our movements but do nothing else. Many others grow limbs of many kinds, taken from the monsters we’ve met.
+
+It is as if the forest itself devoured them and made them into part of itself, or perhaps it all mutated together. Those arms and legs move, reaching towards us as we squeeze between the trunks. There are some trees entirely devoid of leaves, replaced instead by patches of fur. In other places where a bit of grass still shows, teeth are growing from the ground next to it.
+
+My use of [Eclipse] continues to ramp up, now powered by nearly the entirety of the mana I generate each second. I start thinking about when I’ll need to either reach into my reserves or lift the seal on the Ignition Heart further.
+
+It becomes more difficult to breathe for some reason, even though none of us really needs all that much air. The silence puts everyone on edge, and only the strengthening mana radiation shows us that we’re heading in the correct way.
+
+Mile after mile, we pass hundreds upon hundreds of twisted, nightmarish trees and a myriad of watching eyes. At this point, I lift the seal slightly and generate more mana to avoid reaching into my crown, continuing to open it further and further, just that tiny bit more.
+
+Like that, we push ourselves through the branches and trees and eventually reach our goal.
+
+At first, it looks like we’ve finally reached a bit of open terrain. The mana radiation there is no stronger, but it feels tired. Old. Like it’s been recycled way too many times.
+
+Then something exhales.
+
+The monster is asleep, or something close to it. Its body is fused with the forest floor, half submerged in layers of bone fragments and pieces of fur. What should be the torso of a monster reminiscent of a monkey, but stretched beyond proportion. Its ribs are on the outside, growing into branch-like structures. Over its body, a multitude of extra arms and eyes grow, all degenerated and twisted. The lower half of its body is way too thin, just bones covered in bits of skin and fur to be dragged along with the rest.
+
+Below it lies the corpse of a Champion. A blue tiger, perhaps, long ago, it was a glorious beast. Half of it is gone, slowly eaten down over decades, maybe hundreds of years. Layers have been peeled off carefully, muscles separated from bone over years of effort.
+
+The sleeping thing is eating it slowly even now. The arms, even the mutated and twisted ones, move constantly, applying effort to pull off the fur to reveal more of the skin. Bones poking through the skin of its fingertips continue to painfully and slowly cut into the flesh.
+
+This thing was clearly never meant to consume something that powerful.
+
+[Goruk - lvl ???]
+
+One of the eyes growing on its cheek is open even now, it sees us and doesn't like it. Gradually, more and more eyes open. The arms stop picking at the corpse of the tiger.
+
+Goruk wordlessly moves its long arms to pull itself free from the ground, then begins to drag itself toward us, its back legs trailing behind.
+
+In quick succession, Tess’s javelins shoot forth like railguns, Min-Jae’s projectiles accurately bombard the head, and my [Empyrean Lance] pierces through it. Izzy ignores the rules of the jungle, which have never seemed to like flames, and her Fragment blazes forth in a stream that encompasses the entirety of the mutated monkey.
+
+The monster pulls itself out of the bombardment, dragging its body forward in a hurried, frantic scramble. New holes and damage cover it, but new flesh sizzles up and regrows over the damaged parts, restoring it to its mutated form as the mana radiation intensifies.
+
+Maya and Lily both move ahead. Sophie forces the surrounding trees to push outward, splitting them open to create more space. More colors drain from the area just as Lily’s [Disintegration] begins to flash as she pushes the attack on Goruk. Maya crashes against it in her armor, and the twins move to attack from behind. Biscuit joins the fray, too, creating the eerie feeling that Goruk might be facing something even worse than itself.
+
+Even now, Goruk doesn't make a sound, even as its body is constantly damaged, restored, pierced by projectiles, torn apart by purple tentacles, or burned. It heals through [Disintegration], though that becomes slower and slower as Lily modifies her skill to face this specific opponent.
+
+Over time, the mana radiation forces me to put more effort into stopping it, and I even begin to pull from the Crown.
+
+Step after step, the monster gets pushed back, swaying its arms and dragging itself through the fur and bone shards on the ground. Its blood is thick, sizzling, and disgusting, forcing Sophie to use wind to blow out the fumes and Lily to heal the others damaged by the spray.
+
+Pushed into a corner, Goruk begins to throw fragments of bone which shoot ahead like projectiles, piercing through the barriers we set, through the bodies of even the most powerful group members, and sliding past my kinetic hold.
+
+Lily regenerates herself, but Maya sways with so many holes punched through her, and I hear Sophie scream as she grabs a wounded Izzy.
+
+Our healer passes by me as I move ahead. A dozen lightning projectiles blast past me, piercing through the monster. With a loud thump, gravity increases, breaking the ground and the trees nearby, but Goruk pulls itself through even as my attacks begin to bombard it: lances, flames, mana explosions, and projectiles.
+
+The monster drags itself onto the tiger’s corpse. Its lower half is gone, severed by our attacks, the spine left exposed. It rolls behind the body of the tiger, and wet, disturbing noises follow.
+
+All of the mana radiation pulls back and disappears at once.
+
+Then, the body of the blue tiger moves. It sways, twitches its legs, rolls to put weight onto itself, and stands up.
+
+A big part of its belly is missing, half of its face has been eaten away, along with both eyes and parts of its back. There, on its back, Goruk is sitting, damaged and further mutated, with its spine piercing into the gouged-out portion of the tiger's back, connected directly to the body of the Champion.
+
+Defending its prey, Goruk screeches loudly for the first time, the sound spreading through the forest.
+
+The mouth of the tiger mimics the movement.
+
+I let out a burst of kinetic energy, sending anyone who doesn’t move in time flying back, just as the forest erupts in a shockwave, followed by a wave of mana radiation, the edge of which washes over me.
+
+Blood starts dripping down my nose, and as I wipe it off with the back of my hand, I allow more of my mana to flood my body.

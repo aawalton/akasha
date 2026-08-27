@@ -1,0 +1,201 @@
+---
+id: db3fe6c8-aebc-5736-9b8b-6243d96d40c3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 973: A Cruelty or a Mercy"
+slug: 0040-chapter-973-a-cruelty-or-a-mercy
+partOf: he-who-fights-with-monsters
+position: 40
+ownLength: 2779
+unit: words
+ownProgress: 2779
+publishedAt: 2025-03-17
+link: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters/chapter/2133168/chapter-973-a-cruelty-or-a-mercy"
+royalRoadId: "2133168"
+markedReadAt: "2026-06-29T19:05:14.867Z"
+---
+
+Jason stepped through the portal into the long savannah grass around Tera Jun Casta’s remote villa. Tera looked at him from the porch, taking him in as he did the same. The wings she had been so proud of as a messenger were nowhere to be seen. Her clothes were a simple blouse and pants in the human style, although fitted for a nine-foot-tall woman. She was standing on the wooden porch in bare feet, not floating over it. Her eyes looked at him with the same old hatred he remembered.
+
+The rest of her body language was less wary. In the past, she’d always been guarded and ready to strike, as if waiting for him to spring some trap. Now there was an uncertainty to her, as if unsure whether to stride forward and confront him or turn and leave. She chose the latter, moving inside without a word. Jason felt the emotions warring within her aura, even more conflicted than her appearance.
+
+Boris walked over as the portal closed behind Jason.
+
+“I’m going to ask you to avoid your usual charm,” the messenger said. “We both know it’s not for everyone, and she tops the list of people it isn’t for. Normally, I wouldn’t make a point of it, but—”
+
+“She, of all people, deserves to be spared.”
+
+Boris nodded. His own outgoing personality was likewise being kept in check.
+
+“How is she doing?” Jason asked. “I was a little surprised when I heard that she’d gone seeking out the Unorthodoxy.”
+
+“It took her a long time to come to terms with what our kind truly are. Cracking indoctrination is never easy or clean. When her faith in the astral kings finally broke, it broke hard. She almost broke with it.”
+
+“Especially after what I did to her, I imagine.”
+
+“Possibly, I don’t know. I’ve seen soul torture but never experienced it. It seems like something you can’t truly understand without experiencing it.”
+
+Jason nodded his acknowledgement of the point.
+
+“She’s a woman of absolute conviction,” Boris continued, “and that conviction took a lot to break. When it did, it was an ugly thing, according to Jali Corrik Fen. It was good that Tera had a friend to rely on, or she might not still be with us. But she isn’t built to let things go, and her passion for the Messenger Orthodoxy didn’t go away. It went from fervent obedience to blinding fury. That was when she sought me out, looking to join the Unorthodoxy.”
+
+“There’s no zealot like a convert.”
+
+“Certainly not this convert. But while her feelings on the Orthodoxy are clear, things are more complicated when it comes to you.”
+
+“That’s understandable.”
+
+“I’m concerned about what you’re here for, Jason. If this is for some kind of atonement or reconciliation, I’m going to ask you to turn around and go home. That would be for you, and it’s not what she needs.”
+
+“No, Boris. This is something else. Something that what Tera has been through makes her uniquely qualified for.”
+
+“Jason, I don’t like the sound of that.”
+
+Jason smiled.
+
+“And I’m glad that you’re looking to the wellbeing of someone who once hated everything you stand for. But I don’t need your permission, Boris. You know that I support the Unorthodoxy, and that I will be willing to act in their interests when I can. But I’m also going to do things that, while not going against your interests, won’t be in aid of them, when they easily could.”
+
+Boris narrowed his eyes.
+
+“So, that’s what you want. Someone to rehabilitate all the messengers Jamis Fran Muskar surrendered to you.”
+
+“Yes.”
+
+“You realise that asking a newly radicalised Unorthodoxy zealot to not lead them to the Unorthodoxy is an odd choice, right?”
+
+“I think that the most valuable thing Tera has gained from her experiences is the power to make choices for herself. I’m betting on her respecting that. I have no doubt that she’ll play recruitment officer for you, probably with some success. But it has to be their choice, at a stage where they are competent to make it. If they want to fight against the people that enslaved them, I understand that, and I respect it. But if they instead want to put your war behind them and find some measure of peace, I understand and respect that to. As will you.”
+
+“I’m not looking to force anyone into a war, Jason. I’ve told you that before.”
+
+“I know. But I also I know where good intentions can lead you, and how biases can affect you without you realising it. You have billions of years of experience, Boris. Do those things ever change?”
+
+“No. For all my years, I move through life one day at a time, just like everyone else.”
+
+Jason nodded.
+
+“I know it sounds like I’m accusing you, Boris. The truth is, I worry about myself more. I asked you here to help keep me straight as I approach this. I’ve already hurt Tera enough.”
+
+“Before we go in, can I ask you something?”
+
+“What?”
+
+“You’ve had the surrendered messengers for some time now, right? Months?”
+
+“Yes. You want to know what I’ve been doing with them?”
+
+“I do.”
+
+“I have a prison planet. Their astral kings can’t control them while they’re in my astral kingdom. The messengers still have the marks of their old kings, though. I didn’t want to remove them until I have programs in place to help them through the ordeal. But that is something best discussed with Tera and Jali.”
+
+“Shall we go inside, then?”
+
+“Let’s,” Jason said, turning to look over the villa. The design was long and low, built from wood and stone that felt completely in keeping with the savannah around it.
+
+“What is this place?” he asked. “It’s lovely.”
+
+“The Unorthodoxy maintains a lot of places like this within our territories. Our design philosophy is largely reactive to that of the orthodox messengers. Where they like ostentatious fortress towns and soaring spires, we go for small, low-slung and blending into the environment. Tera wanted solitude, and this fit the bill.”
+
+Jason took a steeling breath and set out for the building.
+
+***
+
+Jack Gerling was not a good fighter, nor an expert in using his essence abilities. He wasn’t even alive, being a soul trapped in a sequence of blood clones. The clones degraded over time as Gerling’s soul struggled to escape into the sweet release of death, growing more tormented with each passing year. As an enslaved clone, his soul trapped in a living prison, he could do nothing but obey.
+
+One of the reasons Gerling had never learned to fight very well was that his explosion powers were intuitive and effective. He used only a handful of his essence abilities for almost every problem and ignored the rest. Ranking up with monster cores meant that he never needed to bother with them.
+
+This was as true now as it had been in life. Part of a trio being chased down a tunnel, he was the rearguard, blasting back each silver-rank pursuer who caught up. Gravity magic was slowing down the gold-rankers, who would otherwise be unfussed by even large groups of silver-rankers. The only threat Gerling had ever faced from silvers was Jason Asano and Farrah Hurin. Even then, they had been helped and still lost.
+
+Being deep inside an alpine mountain, trying to blast out of the tunnel would only bring it down on their heads. They could only rush for the blast door and hope it didn’t take too long to break open.
+
+Ahead of him was his mistress, the vampire queen Elizabeth, and Marie Finnegan, the recently expelled director of the Zurich Network branch. All three were rendered sluggish by the enhanced gravity, while their pursuers were unaffected. What did affect them were explosive punches that ripped off limbs and cratered torsos. It wasn’t enough to kill them, but did slow them down. Especially the one who Gerling grabbed by the face before using the Explosive Palm power to scatter most of his head down the tunnel.
+
+Elizabeth and Marie had made a few attempts to yell at one another as they fled, but the ongoing explosions behind them filled the tunnel with echoing thunder. The two women put on as much speed as they could under the extra weight until they neared the blast door leading out of the mountain. More defenders were waiting in front of it, and the pair shared a glance. They understood that if the Network had managed to get a gold-ranker onsite, their escape would be much harder. If it had gotten more than one, their escape was likely doomed.
+
+The silver-rankers gathered in front of the now-closed blast door was a good sign that they were stalling until a gold-ranker could arrive. Gerling continued to cover their retreat as the women moved forward. Like Gerling, neither were gifted fighters, with Elizabeth being a manipulator and Marie being an investigator. Luckily, gold-rank covered a lot of sins, letting the trio slaughter the defenders and their pursuers both.
+
+Like Gerling, Marie’s best attacks were close range. Where he created explosions with his fists, even her merest touch sent acid spreading through anything or anyone. Elizabeth’s approach was more hands-off as she summoned blood spiders over the walls and ceiling.
+
+Dozens of fist-sized arachnids shot out jagged bone spikes, each trailing a thread of blood red silk. The barbed spikes warped as they struck, burrowing into muscle and bone. They would then get yanked out by the spiders, tearing off chunks of flesh with a wet ripping sound. One defender was struck so many times that he was torn to literal pieces, scattered across the tunnel.
+
+Once the defenders were dead, Marie placed her hand on the thick, magically reinforced steel doors. Under her hand, the metal corroded in a slowly spreading circle. Gerling used the time to finish the remaining pursuers while Elizabeth turned her attention to the fresh corpses.
+
+“Best not to waste all this high-ranking blood,” she said, then started waving her arms like an obviously fake hypnotist. The blood rose from the floor and was drained out of the bodies to float in the air. It gathered into a rapidly growing orb as contaminants were pushed out and dropped to the floor. More substantive detritus included scraps of clothing, loose fingers and an eyeball.
+
+“That is disgusting,” Marie said as she worked. The explosions had finally ceased after the last pursuer died. The recovery power of gold-rankers meant they were not left with any lingering hearing impediment.
+
+“I just watched you melt several people with acid,” Elizabeth pointed out.
+
+“I didn’t make snacks out of them after.”
+
+“You’re staring at the door,” Elizabeth pointed out. “You can’t even see what I’m doing.”
+
+“We’ve spent enough time together that I can recognise concentrated blood, Elizabeth, and I can smell it. I can smell everything. These gold-rank senses are hard to rein in.”
+
+“I’ll teach you some management techniques later,” Elizbeth said. “For now, concentrate on the door and block it out. It would have been better if you could just open it, the same as when we came in.”
+
+“I didn’t expect Geneva to cancel my credentials this quickly.”
+
+“It would have been nice if you’d realised your access had been revoked before we triggered the security measures.”
+
+“I did warn you it would happen at some stage. Which, I’ll remind you, is why you said we should move up the timetable.”
+
+“You implied that ‘at some stage’ meant after several days, not several hours. I am merely voicing my disappointment that it happened when we were already deep inside the facility.”
+
+“Oh, I’m sorry. I should have told them to text me if they were going to pull my access to the reality core depository. I’m sure no one would have found that suspicious, coming from the person being kicked out for embezzling enough high-rank monster cores to reach gold.”
+
+“If only you could have avoided getting caught doing that in the first place.”
+
+“I’m not an expert thief, Elizabeth. And who convinced me to do it in the first place? Also, I wouldn’t have been caught, if not for that chotzbrocke. What kind of sadist appoints someone named Geneva as director of the Geneva branch anyway? Her ego was inflated enough already.”
+
+“Focus,” Elizabeth told her.
+
+“Oh, so you get to be passive aggressive, but I have to focus. Also, I’m done. The door is corroded through; have your minion knock on it.”
+
+Marie had left a large circle in the door rusted and flaking. Elizabeth directed Gerling to hit it and an exploding fist punched a hole in the four-inch steel. The trio moved through, Elizabeth’s orb of blood bobbing along like a balloon. On the other side of the door was an artificial cave cut out of the mountainside. No roads or trails led to it, and it was hard to spot without knowing exactly where to look.
+
+Inside the small cave was a handful of dead silver-rankers, on top of the one’s they’d killed while entering. The man responsible for the fresh bodies was waiting impatiently.
+
+“About time,” Remy complained, even as he opened a portal. “If any gold-rankers turned up, I was just going to bail.”
+
+Elizabeth cast a speculative glance over the fresh bodies.
+
+“Don’t even think about it,” Remy said. “You stop for a drink and I’m leaving you behind.”
+
+She looked at the portal.
+
+“That doesn’t go directly to Simon’s lab, does it?” she asked. “Asano’s cohort may have the ability to trace portals.
+
+“I’m always careful,” Remy said. “Especially with that guy.”
+
+“History?” she asked.
+
+“We don’t have time for this,” Marie said and ducked through the portal.
+
+“She’s right,” Remy said. “Happy to explain once we’re far away from here.”
+
+Elizabeth nodded her assent before stepping through, Gerling and her blood orb trailing like pets. As soon as she was through, Remy followed, and the portal shut behind him.
+
+***
+
+“And that’s the job,” Jason said. “I won’t be forcing my way into anyone’s soul. Their astral kings handed them over to me, the way they trade messengers amongst themselves. But instead of branding their souls with my own mark, they will be placing their own, the way I helped Jali to do. And forced you to do.”
+
+Jason was sitting at a kitchen table with Tera, Boris and Jali Corrik Fen. Jali was caretaker of the messengers living with the Asano clan, as well as an old friend of Tera’s from their days of enslavement. Tera had listened to Jason’s story without comment or expression, but her aura was a calamity of emotions.
+
+The other three waited in silence for Tera’s response.
+
+“You said Jamis Fran Muskar surrendered the messengers to you.”
+
+“It allowed him to send a message to the astral kings who were losing focus in the war,” Jason said. “It wasn’t out of fear.”
+
+“Of course it wasn’t out of fear!” Tera snapped. “Jamis Fran Muskar is the king of kings! Why would he even speak to the likes of you?”
+
+Jason didn’t react. He could sense Tera flailing, emotionally, using her old hatred of Jason as an anchor. She had already seen him as an impossibly dangerous foe in the past, and while her own power had climbed, she was still silver rank. He, by contrast, was a half-transcendent, and he had opened his aura for her to sense. His intention was to be open, but her reaction had made him think it was too much, too fast.
+
+Jason got to his feet. Even standing, he was much shorter than the messengers who remained seated. The whole building was proportioned to messengers, making him feel like Jack at the top of the beanstalk. He didn’t like that thought, given that Jack was bit of a turd.
+
+“I’m going to go,” he said. “Take some time to consider what I’ve said, and what I’ve asked. I think you can give them someone who understands what they’re going through, the way you never had. Talk it over with Boris and Jali. If you have any questions, I can come see you again, or you can pass them along.”
+
+“Are you sorry for what you did to me?” Tera asked, stopping him as he started to turn away. He had spent a long time pondering that question.
+
+“I don’t know,” he said. “I still don’t know if what I did to you was a cruelty or a mercy. It was probably both.”
+
+He walked outside before opening a portal and stepping through.

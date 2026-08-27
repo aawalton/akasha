@@ -1,0 +1,157 @@
+---
+id: bcf809bf-aceb-5df2-8e46-b55937aaa043
+page-type-slug: story-chapter-royal-road
+title: "Chapter 698 - Something dumb"
+slug: 0023-chapter-698-something-dumb
+partOf: hell-difficulty-tutorial
+position: 23
+ownLength: 2202
+unit: words
+publishedAt: 2025-11-25
+link: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2793153/chapter-698-something-dumb"
+royalRoadId: "2793153"
+---
+
+The first few hours of my first Beyond event are fun. I mean, really fun. I couldn't imagine them being more fun. They’re full of talking, dealing with a few members of Primordial Lunatics, standing nearby in anticipation of being attacked, and other things like that.
+
+Also, around fifty people die.
+
+Fifty. That’s five zero. Four dozen plus two. B and A ranks. Beyond attendees, each one representing the top 100 participants out of the 37,500 people in their respective tutorials.
+
+Sure, the premise that they’re the strongest out of 37,500 people might not fully apply. Maybe there were stronger people from their tutorial who simply decided not to enter Beyond, but my point still stands.
+
+We found ourselves in a sort of welcoming room built long ago, likely by companions of early Rulers who cleared the First Dungeon, possibly even before connecting it to the tutorial and building Beyond over it.
+
+Though that’s still only an unconfirmed suspicion, but it would certainly make a lot of sense. As far as I and the others know, the 4th floor only became livable after the Pathfinder Thane created the Megacity and acted to defend it, since there are no safe zones.
+
+But Christoph came up with a counter to that. What if the 4th floor was once occupied by a different city, much like the current one? Built by previous generations, only to be destroyed and erased. What if Thane wasn’t even the second to make the attempt, but one of many? It could have been a feat repeated many times over.
+
+After all, the leaderboards reset every thousand years. Who is to say that some especially powerful attendee did not reach the 7th floor, while everyone today is amazed that hundreds of years ago, some jerk reached the 6th floor as the only person until now?
+
+It’s a fascinating thing to think about.
+
+Anyway, fifty people, dead.
+
+Even though this Beyond event is about stopping whatever’s awakening here from wiping out the attendees and locals on the 4th floor, these now dead people don’t seem to be taking it all too seriously. I mean, they are in a sense. You just don’t get this far by being stupid or weak. Though they may have relied a little too much on the fact that S ranks were given their own event, dealing with dangers we can’t handle. That likely gave them just enough of a sense of safety to wander into one of the hallways connected to the chamber we’re in.
+
+After all, this is an Ancient Armory, the sort of place where pristine items have been found, enticing even those among the top five guilds.
+
+So now, while I ignore Malika, who unfortunately has found me, to her eternal joy and likely that of her descendants, I listen to the others speaking over each other in panicked bursts.
+
+“I think you should give us all the information you have,” one of the more powerful A ranks says, facing the guild master of the Everyday Clowns.
+
+“Where’s the skittish girl? She did not die, right? I survived, so she probably did too. What did you do after we got split? Did you break the base?” Malika pokes me from the side.
+
+“Bael, you don’t actually believe I’ll actually tell you everything and reduce my value just like that. No, you’ll all have to make sure to keep me alive and very healthy if you want any information at all,” the guild master of Empiric Clowns shouts, looking around at the people surrounding him and his guild mates.
+
+He looks ragged and has huge circles under his eyes. He’s a tall, selari man with the same pink skin, pink hair, and white freckles iconic to his race.
+
+“Did you see? Io’s here as well. I haven’t attacked him yet because I thought you might want to kill him first. You should appreciate me for waiting and reward me for doing so.” Malika says, lowering her voice, and for some reason, goosebumps run across my skin.
+
+“Maybe we should just torture you for the information. A dickhead like you is liable to use us as fodder the same way you’ve been using your guild,” some demon calls out, with a 90% chance that he’s from the Primordial Knights. Though looking at his blue and white clothes, that chance immediately shoots up to 99,99%.
+
+“Just try it, you goddamn lunatic. I want to see whose side everyone here will take if you attack me.” The guild master smirks, almost hoping for it.
+
+“You think we care?!” the demon shouts proudly. “We can take on all of you weaklings at once!”
+
+“We cannot. Most of us would die.” Weslin steps in.
+
+The demon tilts his head in visible confusion. “And?”
+
+Not even bothering to answer, Weslin gestures for him to go away like he’s dismissing a child and turns to face the selari guild master. I think his name was Peanut.
+
+“Beanut,” Weslin calls towards the selari. “I can hold off my guild for now. But Rulers be my witnesses that we have every right to kill every one of you dickheads. But for now, let’s not fight. Let’s find out what our role will be during this Beyond event and kill each other after.”
+
+“The Null King himself,” Peanut snorts. Io stands not far from him, along with a few other powerful-looking A ranks, likely hired help. I really wonder how many items they had to gather to hire all of them.
+
+Peanut then continues to shout insults at Weslin, while Weslin throws his own back. I noticed, but this bald man is really good at shit talking. After a while, they seem to vent it out of their systems and move on to threats.
+
+Peanut threatens to have the others wipe out Primordial Knights, while Weslin tells him that even if they do, Peanut, the dickhead, will die first, along with most of the people here.
+
+Malika at my side keeps shouting excitedly. She hasn’t even taken a side, and yet she’d excitedly join any fight to the death, likely for the honor of fighting both sides. Her group paid a large amount of shards for information that pointed to the estimated location of the Ancient Armory. Getting there, they nearly fell into it by sheer luck after days of searching.
+
+Her entire party is already dead, caught up in the fifty that went into the hallways. Their bodies are still there, or at least what remains of them, pierced by the insects that poured out of one of the walls after they triggered some kind of trap.
+
+Well, they’re more than insects, really, more like tiny metal constructs. Shiny, imbued with mana cores, extremely durable, and capable of generating an oscillating field that helped them pierce through the unfortunate attendees.
+
+I can still remember their screams as the creatures burrowed through their living flesh.
+
+Some people here seem to be looking at the bright side, though, and only two words echo through their heads: More loot. They’re already trying to figure out a way to fish out the undamaged items without triggering yet another trap.
+
+Maybe it is too much of me to make fun of them, since I had the same thought myself. The difference is that right now my priority is Io, and trying to come up with a way to catch up to him before he can teleport. There’s certainly a chance I could do it now. A small chance, but it may be worth it.
+
+The problem lies in the consequences that would follow, not that I’d care, and the fact that Io is very, very skittish right now. He keeps looking around, sweat beading on his blue forehead, as if a certain emoticon-loving scrawly girl might appear behind him at any moment. I think he thinks she’s here because I am, so just for the fun of it, I pretend to talk to her a few times and draw a few glowing emotions into the air.
+
+For some reason, the innocent joke makes him panic even more.
+
+It must have been fun for him back then on the asteroid base, after I had to leave, all because the pettiest of all elves broke the base just to spite me.
+
+But there’s a reason I haven’t acted until now, it’s simple curiosity. I want to see how Christoph deals with this whole situation. He and Victoria are already planning something, they even brought Weslin into it. From what I can tell, we won’t be staying with the main group.
+
+There are likely to be advantages to relying on the information the Emerald Clowns have gathered, but there is also a huge chance they’ll try some sort of fuckery. And anyway, everyone in our group seems to believe we can do better than they have when it comes to exploring the Ancient Armory.
+
+Of course, the question remains, how capable are we of dealing with the danger we’ve been called here to stop, or, for that matter, helping our S ranks keep it from awakening in the first place?
+
+I would say we’re currently in a pretty good position. Weslin is very close to reaching S rank, and Christoph is certainly one already in every way other than it being official. I still wonder how he managed to level so fast. He either killed massive groups of weaker monsters or a few really strong ones. The only places where he could have done it are the five Beyond floors, the Beyond surface, and Beyond quests.
+
+That also brings me to the question of who his Handler could be. From what I know about how things work, I’m almost sure that it must be one of the Rulers. I doubt any Absolute or Champion acting as a Handler could outbid a Ruler.
+
+“Which hallway would you take if you had to choose?” Christoph asks, suddenly coming to a stop at my side, and speaking in a calm voice.
+
+Malika opens her mouth to protest the interruption, but he waves his hand, and a shimmering field around us blocks out all the sound coming from her. At that moment, the mana resting on his shoulders awakens, rising behind him as a transparent torso that moves to place its hands on Malika. She freezes, her eyes wide open.
+
+While keeping my gaze on the mana construct restraining Malika, visible to me only through my trait, I point toward one of the hallways.
+
+I’ve been observing all of the hallways almost since we first arrived, and I point to my choice. Not because it is the safest. Quite the opposite. It is by far the most dangerous, and like a cold, eerie wind, a mana chill flows from it.
+
+“Good pick. Let’s go there then,” he nods, heading back to Victoria and the others.
+
+Did he see the same thing I did? Was that a test? Did he want me to help with my eyes?
+
+I look away from him and turn to Malika, who’s still just standing there. There are bruises on her neck, shoulders, and arms from where the huge half-figure held her like nothing more than a toy. I also know she tried to attack Christoph dozens of times during all this, with no success.
+
+“That guy seems to be stronger than me. Why don’t you go annoy him instead?” I throw the line out.
+
+She finally shakes it off and only smiles. The bruises on her body begin healing at a visible speed. “Seems to be stronger?”
+
+“Seems to be,” I nod. “I haven’t fought him yet, so I can’t tell for sure.”
+
+“Want me to join you? We can ambush him and kill him, together.”
+
+“Nah. No funny business like challenging him. I want some peace so I can think. I know you don’t care about your life, but you’d probably die if you challenged him.”
+
+“What do you mean? I do care for my life. That’s why I act to live it the way I want.”
+
+“But would it not be nicer to live a few decades longer? Imagine how many people you could challenge, all the fights you could have.” I tempt her like a mechanic, swearing that duct tape is the all-time premium upgrade.
+
+Her red eyes narrow, and her voice softens. “The person living in that future is not me. The decisions I make are for the one living in the present.”
+
+“Well, that is the dumbest thing I’ve heard today.”
+
+“Want to hear something dumber?”
+
+“Go on.”
+
+“You, acting like you’re above all this chaos while drooling at the thought of it.”
+
+“That is indeed, really dumb.”
+
+“You, pretending you don’t like my company.”
+
+“Even dumber.”
+
+“You, trying so hard to ignore me and clearly failing.”
+
+“That might be taking it too far.”
+
+“You, pretending that frown of yours doesn’t just make you look cute.”
+
+“Huh, okay?”
+
+“You, pretending those pants of yours weren’t fighting for their life back there.”
+
+“What do you mean by that?”
+
+She gives no answer. She just turns and walks away while giggling loudly and maniacally.
+
+“What did you mean by that!?” I shout after her, but no answer comes.

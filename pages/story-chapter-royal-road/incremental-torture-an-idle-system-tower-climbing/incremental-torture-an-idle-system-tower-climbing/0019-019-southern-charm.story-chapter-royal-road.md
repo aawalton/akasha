@@ -1,0 +1,157 @@
+---
+id: c7512413-20f7-56b3-91ab-4c7d161546b8
+page-type-slug: story-chapter-royal-road
+title: "019: Southern Charm"
+slug: 0019-019-southern-charm
+partOf: incremental-torture-an-idle-system-tower-climbing
+position: 19
+ownLength: 2163
+unit: words
+publishedAt: 2024-04-18
+link: "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing/chapter/1600769/019-southern-charm"
+royalRoadId: "1600769"
+---
+
+~Kayla POV~
+
+Kayla twirled a rusty dagger between her fingers, letting her mind slip into a deep trance as the light of the sun, or whatever artificial replacement the tower had conjured up, danced and glittered across the few specks of clean steel left on the blade. A branch snapped, seven metres away to her right. Her hand flickered and the dagger shot through the air towards the source of the noise. There was a thud followed by a cacophony of yelling and two people burst through the treeline, charging at her as she sat on a tree stump in the centre of a clearing, one leg folded across the other.
+
+“Well howdy there,” she said, hopping to her feet and shaking her arms to loosen up.
+
+If there’s one thing I miss more than a decent fight, it would be my father’s hat. It just doesn’t feel the same beating lousy assholes to a pulp without being dressed for the part.
+
+“Crazy bitch! You’ll pay for killing Rod-” the first man’s cries were silenced as Kayla’s fist rocketed into his open mouth and out the back of his neck, exploding his head like a melon and showering the clearing in a fine red mist.
+
+His companion had no time to even react to the awe inspiring level of power packed into the petite woman before his legs were swept from underneath him and a sharp kick to his spine paralysed him, leaving him helpless to resist as a barrage of blows delivered him to the next life along with his friend.
+
+Twelve hours had almost passed, and Kayla was beginning to find this routine tedious. It wasn’t her style to sit and wait for hapless foes to stumble her way. She was a hunter. Catching the scent of something wild, something dangerous, before a game of cat and mouse ensued between predator and prey - that was how her life had always gone. The prey mattered not, she would hunt anything, so long as there was a challenge to be had.
+
+302,166 12:03:06 24
+
+During the past two hours, the rate at which their points had been increasing had been increasing at random intervals. The first had been slight, so slight that Kayla had wondered if her bored mind was simply playing tricks on her, but then another thirty or so minutes later, it had rocketed up. She had been content to ignore it at first, since there was no harm in having more points when the aim of this challenge was finishing in the top three parties, but that last battle, if you could even call it that with how utterly devoid of enjoyment it had been, pushed her over the edge.
+
+Party Chat
+
+K: Which one of y’all is out there having fun without telling me?
+
+Anna: I am not enjoying any part of this hellscape.
+
+Reece’s Pieces: I love the tower, fun fun!
+
+Anna: … Look what you’ve done, Kayla. Don’t encourage him.
+
+ANThea: We’re still watching over the zones, what’s up?
+
+K: Ha.
+
+ANThea: ??
+
+K: Evelyn, I know you’re reading this right now. I’m not mad at what you’re doing, but I am a little disappointed you didn’t invite me.Eve: I have no idea what you’re talking about, blondie.
+
+K: Do you think we can’t see our points jumping up? Just make sure you come back to me in one piece darlin’.
+
+Eve: …
+
+ANThea: Look Reece, mummy and mummy are fighting!
+
+Reece’s Pieces: Fight! Fun?
+
+Anna: I hate you all. Except you, Reece.
+
+Oh Evelyn, dear Evelyn. I knew there was a spark inside you. I felt it the moment I first walked through that portal and saw the hunger in your eyes. Seeing you beat someone senseless with nothing but your bare hands or a nearby rock is nothing short of divine.
+
+Kayla quivered. She had developed a fondness for the girl, Anthea, during their time together. There was some potential there, a budding talent that needed nurturing care and a push in the right direction in order to blossom into something magnificent. A push that was already being provided by the tower. But Evelyn, she was something special. Whether she knew it yet or not, Kayla could see the makings of a true hunter in that woman. More than anything, if given time to grow, she would become an opponent worthy of unleashing her full strength. A hunt unlike any she had experienced before.
+
+The boy too, Reece. Simple minded, but the sheer pleasure he derives from battle and murder are something you just can’t train into someone. A true natural talent. That wicked witch is only holding him back. I sure hope an accident doesn’t occur on this dangerous floor.
+
+Across the rickety bridge lay an icy wasteland, a localised blizzard surrounded the floating glacier, obscuring her view of what lay within, but the map told her all she needed to know - there were two zones ripe for the taking, with perhaps some challenging prey to test her mettle. Icy winds chilled her to the bone as she stepped across the threshold of her new playground, but she tuned out the distraction, her mind focused on the hunt ahead.
+
+~~~
+
+~Evelyn POV~
+
+Kayla is too damn smart for her own good. Sure, I didn’t expect everyone to stay oblivious forever with our points increasing even faster, but I at least wanted a few more hours to enjoy myself before heading back to the bridge. Now she’s going to head off to do god knows what, and if a party ends up sneaking past us I doubt Anna is tough enough to hold the whole island by herself. The right thing to do would be to return to the third island, there’s only one path from there. I still haven’t encountered anyone who can even break my stride, not since the thunderous spearwoman.
+
+The third island in question had been the home of that small volcano, which seemed to be dormant, only bubbling and spewing the occasional river of lethargic magma, but Evelyn hadn’t stuck around to find out after wiping out the party holding the two zones there.
+
+After she conquered the sixth zone, their point accumulation had seen a second exponential jump, which led her to believe that for every three zones they had in their possession, the amount of points generated by each would increase.
+
+They had cleared the requirements for each wave of culling with large margins, but it was still bugging Evelyn that she wasn’t able to see how many points other parties had. It was a guarantee that to make it into the final three, they would need to engage in fierce battle with at least one other party as strong as their own, which might have been a source of worry for Anna or perhaps even Anthea, but she almost relished the idea.
+
+The two levels of Bulwark stacked with each other, which meant that outside of the strongest opponents - those who understood how to game the tower’s system to their advantage or who had been powerful from the get go - no one was able to leave even a scratch on her body. To a more level headed individual, that might have been a source of comfort in a place as dangerous as this, but Evelyn found it dulled the excitement of the challenge.
+
+No risk, no reward. Sure, she got essence and stars every time she dispatched one of her enemies, but there was no fulfilment in such easy pickings.
+
+When did I start thinking like Kayla? This place is messing with my head. Enemies? They’re just people like me, dragged from their lives and forced to fight for every second of survival in increasingly brutal challenges. What if one day, the enemy the tower pits against me is Lily or Marvin, or my parents? Would I still be able to deal the killing blow with such casual ease? It’s too much. I need a meditation challenge to work through all the crap on my mind.
+
+Twelve hours have passed. All parties with less than 150,000 points will be eliminated.
+
+Half. The threshold was half of their total points. At the nine hour mark, they had thrice the required points of 90,000. Slowly but surely, the tower was catching up to them, just as she had predicted. In fact, Evelyn suspected that without her delving beyond the limits of their first island, they may not have even made it this far. Now, with both her and Kayla blitzing through the map, they had a total of eleven zones under their control and that would only go up as they continued to push onwards.
+
+Evelyn’s finger hovered over the Local Shop. It would be an easy way to blow off some steam, buying a bunch of new skills and figuring out if there were any exciting combinations she could attempt. Reason prevailed, and given that she still had yet to fully explore the last set of new skills, there would be little point in splurging all the essence she had saved up for the end of the 9th Floor, well over two thousand now and still increasing.
+
+She was also just one grey star away from actually gaining a point of fortitude from her Stellar Body skill. It wasn’t a titanic buff, but even small achievements could bring a measure of satisfaction. Her hand was a mess of grey triangle tattoos, like a child had spent an afternoon doodling on it. A child with a steady hand.
+
+Before she could stop herself, Evelyn was crossing the bridge to the next island, step by step. A third of the way across, the island she was making her way towards trembled as a colossal explosion rocked it, making the entire thing tilt to one side and she was flung over the edge of the bridge, forced to twist her foot around the rope handles to prevent herself falling to a premature death.
+
+As of yet, there had been no natural disasters or environmental events from the floor, so that meant there could only be one reason for such an explosion - it had been caused by a person, or persons. Once the rumbling subsided and the bridge righted itself, she clambered up and sprinted to the island, which was tilting back upright.
+
+It took her less than a minute to reach the centre of the island, which turned out to be a huge crater surrounded by a forest. The crater was not the original terrain however, because at the bottom of the slope were two men, locked in a brawl, trading blows at a dizzying pace, their fists a blur to even Evelyn and each collision sending minor tremors across the island. One of them, a beefy ginger fellow who was shirtless, equipped with just a horned helmet and a pair of studded leather gauntlets, seemed to hold the upper hand.
+
+His opponent was taller by a head, but wiry, lacking the dense muscles of the barbarian beefcake. He was also fighting bare handed, but had a set of full plate armour on and his hands were shimmering with mana, a magical skill allowing him to keep up in this lethal exchange.
+
+Neither of them noticed her arrival, a moment of lost focus would spell death and they had little attention for the surroundings. Most people, upon seeing such a devastating display of force and a battle between two monstrous foes, would turn tail and flee, or lie in wait for an opportunity to strike at a weakened victor. Evelyn however, was lusting after a challenge.
+
+The ginger brute had just parried the youth’s blow and was about to deliver an explosive punch to his face, perhaps ending their fight for good, when an ear splitting roar echoed through the makeshift arena and a giggling woman barrelled into him, sending him flying into the slope of the crater where he was buried a good three inches into the dirt. The armoured youth had no time to celebrate his opponent’s defeat, because the maniacal new arrival spun on her feet and smashed her fist into his gut, leaving a sizeable dent in the steel plate and knocking him a few steps back.
+
+“Kayla is going to be so damn jealous,” she said, adopting a fighting stance.
+
+“Who the hell are you and why did you interrupt our battle, woman?” Snarled the young man, striding towards her.
+
+“Me? I’m Evelyn, nice to meet you!”
+
+Evelyn:
+
+~~ Status ~~
+
+Evelyn Han
+
+Race: Human
+
+|Attributes|
+
+Power: 3
+
+Speed: 2
+
+Stamina: 2
+
+Vitality: 7
+
+Mana: 1
+
+Fortitude: 8
+
+|Skills|
+
+~Passive~
+
+Bulwark (Uncommon), Bulwark (Common), Stargazing (Common), Assassin’s Eye (Uncommon), Bargain Hunter (Common), Backlash (Common), Stellar Body (Common), Capital Gains (Common)
+
+~Active~
+
+Battle Cry (Common), Fists of Frost (Uncommon), Mana Plate (Common)
+
+Essence: 1,627『+24 / 5:59:57.6 hours』
+
+~~ Stars ~~
+
+Grey: 24
+
+** Inventory **
+
+** Local Shop **
+
+**Skill Synthesis**
+
+【KILL】
