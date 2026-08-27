@@ -128,7 +128,7 @@ function main(): never {
       reason: `${String(parsed)} carried the key at all and were parsed; the rest cannot contain the claim. Fixtures are outside the walk.`,
     },
     {
-      carrier: "markdown (repo docs, CLAUDE.md, ~/instructions)",
+      carrier: "markdown (repo docs, CLAUDE.md)",
       state: "unevaluated",
       denominator: null,
       reason: "help text is TypeScript; a document restating the key space is not read here.",
