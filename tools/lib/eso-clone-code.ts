@@ -1,15 +1,39 @@
 
 import { readdirSync, statSync } from "node:fs"
 import { join } from "node:path"
-import * as esoDocApiVersionModule from "@temper/shared-build-deploy-checks/eso-doc-api-version"
-import * as esoPathsModule from "@temper/shared-foundation-misc-eso-paths"
+import { esoDocPathForLuaRoot } from "@temper/shared-build-deploy-checks/eso-doc-api-version"
+import {
+  esoCloneHeaderLines,
+  esouiDir,
+  esouiDocPath,
+  esouiSourceDir,
+  parseEsoDocApiVersion,
+} from "@temper/shared-foundation-misc-eso-paths"
 
-export function esoPaths(): Promise<typeof esoPathsModule> {
-  return Promise.resolve(esoPathsModule)
+interface EsoPaths {
+  readonly esoCloneHeaderLines: typeof esoCloneHeaderLines
+  readonly esouiDir: typeof esouiDir
+  readonly esouiDocPath: typeof esouiDocPath
+  readonly esouiSourceDir: typeof esouiSourceDir
+  readonly parseEsoDocApiVersion: typeof parseEsoDocApiVersion
 }
 
-export function esoDocApiVersion(): Promise<typeof esoDocApiVersionModule> {
-  return Promise.resolve(esoDocApiVersionModule)
+interface EsoDocApiVersion {
+  readonly esoDocPathForLuaRoot: typeof esoDocPathForLuaRoot
+}
+
+export function esoPaths(): Promise<EsoPaths> {
+  return Promise.resolve({
+    esoCloneHeaderLines,
+    esouiDir,
+    esouiDocPath,
+    esouiSourceDir,
+    parseEsoDocApiVersion,
+  })
+}
+
+export function esoDocApiVersion(): Promise<EsoDocApiVersion> {
+  return Promise.resolve({ esoDocPathForLuaRoot })
 }
 
 export function collectLuaFiles(dir: string): readonly string[] {
