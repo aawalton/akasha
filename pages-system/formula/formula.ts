@@ -20,7 +20,20 @@ import type { Expression } from "./tree.ts"
 /** A moment in time, as milliseconds since 1970-01-01T00:00:00Z. */
 export type Instant = number
 
-/** The kinds a list's items can be. A list holds several values of one kind. */
+/**
+ * A day, written `2026-08-27`.
+ *
+ * A date has this one spelling and no other, which is why it is written into a
+ * text literal as it stands. A page type declares one under the name the pages
+ * system gives it, `calendar-date`; the value under that key is a date.
+ */
+export type CalendarDate = string
+
+/**
+ * The kinds a list's items can be. A list holds several values of one kind.
+ *
+ * A date is not among them: nothing yet asks for a list of days.
+ */
 export type ScalarKind = "text" | "number" | "boolean" | "instant"
 
 /** A value a formula can hold. */
@@ -29,6 +42,7 @@ export type Value =
   | { readonly kind: "number"; readonly number: number }
   | { readonly kind: "boolean"; readonly boolean: boolean }
   | { readonly kind: "instant"; readonly instant: Instant }
+  | { readonly kind: "date"; readonly date: CalendarDate }
   | { readonly kind: "list"; readonly of: ScalarKind; readonly items: readonly Value[] }
   | { readonly kind: "absent" }
 
@@ -38,6 +52,7 @@ export type DeclaredType =
   | { readonly kind: "number" }
   | { readonly kind: "boolean" }
   | { readonly kind: "instant" }
+  | { readonly kind: "date" }
   | { readonly kind: "list"; readonly of: ScalarKind }
 
 /** What a checked formula answers. */

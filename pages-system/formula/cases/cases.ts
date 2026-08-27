@@ -30,17 +30,20 @@
 //
 // What the specification does not settle, and so is not tested here:
 //
-//  1. Whether a number or a boolean may be filled into a text literal at all
-//     is not written. What an *absent* reference does is settled, on
-//     `formula-absent-value.domain.md:25`; what a present non-text one does is
-//     not. One case-form case assumes it may; it is marked.
+//  1. Whether a boolean may be filled into a text literal is not written. A
+//     number no longer raises the question: `formula-functions.list.md:19`
+//     gives `text`, so a bare number in a literal is refused and `text` on a
+//     key of its own is the way through. A date is settled the other way, on
+//     `formula-language.domain.md:30`.
 //  2. Whether a formula may answer an instant or a list at all is not written.
+//  3. Whether a list may hold dates is not written, and nothing declares one.
 
 import { absence } from "./absence.ts"
 import { arithmetic } from "./arithmetic.ts"
 import { caseFormCases } from "./case-form.ts"
 import { comparison } from "./comparison.ts"
 import { conjunction } from "./conjunction.ts"
+import { dates } from "./dates.ts"
 import { fallback } from "./fallback.ts"
 import { functions } from "./functions.ts"
 import { neverFails } from "./never-fails.ts"
@@ -50,6 +53,7 @@ import { refusedAtRead } from "./refused-at-read.ts"
 import { refusedCycle } from "./refused-cycle.ts"
 import { refusedTypes } from "./refused-types-do-not-meet.ts"
 import { refusedUndeclaredKey } from "./refused-undeclared-key.ts"
+import { textFunction } from "./text-function.ts"
 import { textLiterals } from "./text-literals.ts"
 import { valueWords } from "./value-words.ts"
 
@@ -57,12 +61,21 @@ import { valueWords } from "./value-words.ts"
 // Types
 // ---------------------------------------------------------------------------
 
-/** A type a value can have. `pages/list/formula-values.list.md:15-20`. */
+/**
+ * A type a value can have, spelled the way a page type declares it.
+ * `pages/list/formula-values.list.md:15-21`.
+ */
 export type FormulaType =
   | { kind: "text" }
   | { kind: "number" }
   | { kind: "boolean" }
   | { kind: "instant" }
+  /**
+   * A day. This is the one type whose declaration and whose value are spelled
+   * differently: a page type declares `calendar-date`, and what it holds is a
+   * date. `pages/domain/formula-language.domain.md:32`.
+   */
+  | { kind: "calendar-date" }
   | { kind: "list"; of: FormulaType }
 
 /** A value a formula can hold. Absence is not a value: it is a key with no entry. */
@@ -72,11 +85,13 @@ export type FormulaValue =
   | { kind: "boolean"; boolean: boolean }
   /** ISO 8601, UTC. */
   | { kind: "instant"; instant: string }
+  /** ISO, a day and nothing finer: `2026-08-27`. */
+  | { kind: "date"; date: string }
   | { kind: "list"; list: FormulaValue[] }
 
 /**
  * One key a page type declares. A key carrying a `formula` is a computed
- * property; `pages/domain/formula-language.domain.md:44` says a formula names
+ * property; `pages/domain/formula-language.domain.md:48` says a formula names
  * one exactly as it names a stored one.
  */
 export interface ShapeKey {
@@ -90,7 +105,7 @@ export type Shape = Record<string, ShapeKey>
 /**
  * Where a wrong program is caught. `pages/domain/language-failure.domain.md:15`
  * names three moments: reading it, checking what it names, running it on
- * values. `pages/domain/formula-language.domain.md:70` closes the third for
+ * values. `pages/domain/formula-language.domain.md:74` closes the third for
  * this language, so no case here expects a refusal at run time.
  */
 export type RefusalMoment = "read" | "check"
@@ -202,6 +217,8 @@ export type CaseGroup =
   | "precedence-and-grouping"
   | "case-form"
   | "functions"
+  | "dates"
+  | "text-function"
   | "absence"
   | "never-fails"
   | "refused-at-read"
@@ -224,6 +241,8 @@ export const cases: FormulaCase[] = [
   ...precedence,
   ...caseFormCases,
   ...functions,
+  ...dates,
+  ...textFunction,
   ...absence,
   ...neverFails,
   ...refusedAtRead,

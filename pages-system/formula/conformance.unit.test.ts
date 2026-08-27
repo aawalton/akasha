@@ -36,11 +36,20 @@ import { checkFormula, checkPageType, runFormula } from "./formula.ts"
 /** The kind a list's items are. The corpus nests a type here; the evaluator does not. */
 const scalarKindOf = (type: FormulaType): ScalarKind => {
   if (type.kind === "list") throw new Error("a list of lists is no declared type")
+  if (type.kind === "calendar-date") throw new Error("a list of dates is no declared type")
   return type.kind
 }
 
-const declaredTypeOf = (type: FormulaType): DeclaredType =>
-  type.kind === "list" ? { kind: "list", of: scalarKindOf(type.of) } : { kind: type.kind }
+/**
+ * The corpus names a declared type the way a page type declares it, so a day is
+ * `calendar-date` there. The evaluator names the value that key holds, which is
+ * a date.
+ */
+const declaredTypeOf = (type: FormulaType): DeclaredType => {
+  if (type.kind === "list") return { kind: "list", of: scalarKindOf(type.of) }
+  if (type.kind === "calendar-date") return { kind: "date" }
+  return { kind: type.kind }
+}
 
 /** The keys a case's page type declares, without their formulas. */
 const shapeOf = (shape: CaseShape): Shape =>
@@ -70,6 +79,8 @@ const valueFor = (given: FormulaValue, declared: DeclaredType | undefined): Valu
       return { kind: "boolean", boolean: given.boolean }
     case "instant":
       return { kind: "instant", instant: Date.parse(given.instant) }
+    case "date":
+      return { kind: "date", date: given.date }
     case "list": {
       const of =
         declared !== undefined && declared.kind === "list"
@@ -130,6 +141,8 @@ const wordFor = (value: Value): string => {
       return `boolean ${value.boolean}`
     case "instant":
       return `instant ${new Date(value.instant).toISOString()}`
+    case "date":
+      return `date ${value.date}`
     case "list":
       return `list [${value.items.map(wordFor).join(", ")}]`
   }

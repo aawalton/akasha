@@ -1,0 +1,318 @@
+import type { FormulaCase, Shape } from "./cases.ts"
+import {
+  ABSENT,
+  answersBoolean,
+  answersText,
+  BOOLEAN,
+  C,
+  CALENDAR_DATE,
+  INSTANT,
+  L,
+  listOf,
+  NOTHING,
+  NUMBER,
+  num,
+  refused,
+  TEXT,
+  text,
+} from "./shorthand.ts"
+
+// ---------------------------------------------------------------------------
+// `text`, which writes a whole number out as its digits
+//
+// A bare number does not fill a text literal: a number has many spellings and
+// choosing one would be a value the formula never wrote. `text` is the one way
+// a number reaches a name, and it answers absent rather than rounding where the
+// number is not whole.
+//
+// It takes a number and nothing else. A date needs no function, filling a
+// literal as it stands.
+// ---------------------------------------------------------------------------
+
+const NUMBERED: Shape = {
+  count: { type: NUMBER },
+  name: { type: TEXT },
+  flag: { type: BOOLEAN },
+  tags: { type: listOf(TEXT) },
+  start: { type: INSTANT },
+  day: { type: CALENDAR_DATE },
+}
+
+export const textFunction: FormulaCase[] = [
+  {
+    name: "text writes a whole number as its digits",
+    group: "text-function",
+    from: L.fnText,
+    claim: C.fnText,
+    formula: "text({count})",
+    shape: NUMBERED,
+    values: { count: num(2) },
+    expected: answersText("2"),
+  },
+  {
+    name: "text writes zero",
+    group: "text-function",
+    from: L.fnText,
+    claim: C.fnText,
+    formula: "text(0)",
+    shape: NOTHING,
+    values: {},
+    expected: answersText("0"),
+  },
+  {
+    name: "text keeps a negative whole number's sign",
+    group: "text-function",
+    from: L.fnText,
+    claim: C.fnText,
+    formula: "text({count})",
+    shape: NUMBERED,
+    values: { count: num(-1) },
+    expected: answersText("-1"),
+  },
+  {
+    name: "text writes the digits of the value, not of how the number was written",
+    group: "text-function",
+    from: L.fnText,
+    claim: C.fnText,
+    formula: "text(2.0)",
+    shape: NOTHING,
+    values: {},
+    expected: answersText("2"),
+    // `2.0` and `2` are one number written two ways. The digits are of the
+    // number, so both write out the same.
+  },
+  {
+    name: "a large whole number is written in digits rather than exponent notation",
+    group: "text-function",
+    from: L.fnText,
+    claim: C.fnText,
+    formula: "text(1000000000000000000000)",
+    shape: NOTHING,
+    values: {},
+    expected: answersText("1000000000000000000000"),
+    // Not `1e+21`. Two spellings for one value is what writing a number out
+    // has to avoid, and an implementation handing the number to its runtime's
+    // default spelling gets the exponent here.
+  },
+  {
+    name: "text over a number that is not whole answers absent",
+    group: "text-function",
+    from: L.fnText,
+    claim: C.fnText,
+    formula: "text({count})",
+    shape: NUMBERED,
+    values: { count: num(1.5) },
+    expected: ABSENT,
+    // Not "2", not "1", not "1.5". Refusing the value the program cannot use
+    // beats making one it can, and absent is still an answer.
+  },
+  {
+    name: "text over a number that is not whole is not equal to any text",
+    group: "text-function",
+    from: L.fnText,
+    claim: C.fnText,
+    formula: 'text({count}) == "1.5"',
+    shape: NUMBERED,
+    values: { count: num(1.5) },
+    expected: answersBoolean(false),
+    // An implementation spelling the fraction out answers true here.
+  },
+  {
+    name: "text over an absent number answers absent",
+    group: "text-function",
+    from: L.absentFunction,
+    claim: C.absentFunction,
+    formula: "text({count})",
+    shape: NUMBERED,
+    values: {},
+    expected: ABSENT,
+  },
+  {
+    name: "text answers a text, and is compared as one",
+    group: "text-function",
+    from: L.fnText,
+    claim: C.fnText,
+    formula: 'text({count}) == "2"',
+    shape: NUMBERED,
+    values: { count: num(2) },
+    expected: answersBoolean(true),
+  },
+  {
+    name: "a number reaches a text literal through a key computed with text",
+    group: "text-function",
+    from: L.joinsText,
+    claim: C.joinsText,
+    formula: '"{name}-{count-text}"',
+    shape: {
+      name: { type: TEXT },
+      count: { type: NUMBER },
+      "count-text": { type: TEXT, formula: "text({count})" },
+    },
+    values: { name: text("astra"), count: num(3) },
+    expected: answersText("astra-3"),
+  },
+  {
+    name: "a text literal answers absent where the text inside it does",
+    group: "text-function",
+    from: L.textLiteralAbsent,
+    claim: C.textLiteralAbsent,
+    formula: '"n{count-text}"',
+    shape: {
+      count: { type: NUMBER },
+      "count-text": { type: TEXT, formula: "text({count})" },
+    },
+    values: { count: num(1.5) },
+    expected: ABSENT,
+    // The number is there and the text of it is not, so the whole literal is
+    // absent. Not "n".
+  },
+  {
+    name: "a bare number in a text literal is refused",
+    group: "text-function",
+    from: L.refuseNotConvert,
+    claim: C.refuseNotConvert,
+    formula: '"{count} items"',
+    shape: NUMBERED,
+    values: { count: num(3) },
+    expected: refused("check", "types-do-not-meet", ["count", "number"]),
+    // Writing the number in would be a conversion made to let two types meet.
+    // `text` on a key of its own is the way through.
+  },
+  {
+    name: "a text literal that is nothing but a number reference is refused",
+    group: "text-function",
+    from: L.refuseNotConvert,
+    claim: C.refuseNotConvert,
+    formula: '"{count}"',
+    shape: NUMBERED,
+    values: { count: num(3) },
+    expected: refused("check", "types-do-not-meet", ["count", "number"]),
+  },
+  {
+    name: "a call inside a text literal's braces is refused when the formula is read",
+    group: "text-function",
+    from: L.reference,
+    claim: C.reference,
+    formula: '"{text(count)}"',
+    shape: NUMBERED,
+    values: { count: num(3) },
+    expected: refused("read", "unreadable"),
+    // A formula names a property by putting its key between braces, and a key
+    // is all that goes there. `text` is called on a key of its own, and the
+    // literal names that key.
+  },
+  {
+    name: "text over a boolean is refused",
+    group: "text-function",
+    from: L.fnText,
+    claim: C.fnText,
+    formula: "text({flag})",
+    shape: NUMBERED,
+    values: {},
+    expected: refused("check", "types-do-not-meet", ["flag", "boolean"]),
+  },
+  {
+    name: "text over a list is refused",
+    group: "text-function",
+    from: L.fnText,
+    claim: C.fnText,
+    formula: "text({tags})",
+    shape: NUMBERED,
+    values: {},
+    expected: refused("check", "types-do-not-meet", ["tags", "list"]),
+  },
+  {
+    name: "text over an instant is refused",
+    group: "text-function",
+    from: L.fnText,
+    claim: C.fnText,
+    formula: "text({start})",
+    shape: NUMBERED,
+    values: {},
+    expected: refused("check", "types-do-not-meet", ["start", "instant"]),
+  },
+  {
+    name: "text over a date is refused",
+    group: "text-function",
+    from: L.fnText,
+    claim: C.fnText,
+    formula: "text({day})",
+    shape: NUMBERED,
+    values: {},
+    expected: refused("check", "types-do-not-meet", ["day", "date"]),
+    // A date fills a text literal as it stands, so nothing takes one here.
+  },
+  {
+    name: "text over a text is refused",
+    group: "text-function",
+    from: L.fnText,
+    claim: C.fnText,
+    formula: "text({name})",
+    shape: NUMBERED,
+    values: {},
+    expected: refused("check", "types-do-not-meet", ["name", "text"]),
+    // It writes a number out. It is not a general way to make anything text.
+  },
+  {
+    name: "text given no argument is refused",
+    group: "text-function",
+    from: L.callSpelling,
+    claim: C.callSpelling,
+    formula: "text()",
+    shape: NUMBERED,
+    values: {},
+    expected: refused("check", "wrong-argument-count", ["text", "1 argument"]),
+  },
+  {
+    name: "text given two arguments is refused",
+    group: "text-function",
+    from: L.callSpelling,
+    claim: C.callSpelling,
+    formula: "text({count}, 1)",
+    shape: NUMBERED,
+    values: {},
+    expected: refused("check", "wrong-argument-count", ["text", "1 argument"]),
+  },
+  {
+    name: "the chunk name shape writes its index through a key of its own",
+    group: "text-function",
+    from: L.joinsText,
+    claim: C.joinsText,
+    formula: '"{inventory}-{chunk-index-text}"',
+    shape: {
+      inventory: { type: TEXT },
+      "chunk-index": { type: NUMBER },
+      "chunk-index-text": { type: TEXT, formula: "text({chunk-index})" },
+    },
+    values: { inventory: text("temper"), "chunk-index": num(3) },
+    expected: answersText("temper-3"),
+    // A real name shape, held by many pages.
+  },
+  {
+    name: "the chunk name shape written with a bare number is refused",
+    group: "text-function",
+    from: L.refuseNotConvert,
+    claim: C.refuseNotConvert,
+    formula: '"{inventory}-{chunk-index}"',
+    shape: {
+      inventory: { type: TEXT },
+      "chunk-index": { type: NUMBER },
+    },
+    values: { inventory: text("temper"), "chunk-index": num(3) },
+    expected: refused("check", "types-do-not-meet", ["chunk-index", "number"]),
+  },
+  {
+    name: "the cover image name shape writes its level through a key of its own",
+    group: "text-function",
+    from: L.joinsText,
+    claim: C.joinsText,
+    formula: '"{persona-slug}-l{level-text}"',
+    shape: {
+      "persona-slug": { type: TEXT },
+      "relationship-level": { type: NUMBER },
+      "level-text": { type: TEXT, formula: "text({relationship-level})" },
+    },
+    values: { "persona-slug": text("astra"), "relationship-level": num(2) },
+    expected: answersText("astra-l2"),
+  },
+]

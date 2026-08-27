@@ -36,6 +36,8 @@ const same = (one: Value, other: Value): boolean => {
       return other.kind === "boolean" && one.boolean === other.boolean
     case "instant":
       return other.kind === "instant" && one.instant === other.instant
+    case "date":
+      return other.kind === "date" && one.date === other.date
     case "list":
       return (
         other.kind === "list" &&
@@ -49,14 +51,27 @@ const same = (one: Value, other: Value): boolean => {
 /**
  * How a value is written into a text literal, or null where it cannot be.
  *
- * A list and an instant never reach here, the check refusing both, and absent
- * stops the whole text.
+ * A list, an instant and a number never reach here, the check refusing all
+ * three, and absent stops the whole text. A date is written as it stands,
+ * having one spelling and no other.
  */
 const writtenOut = (value: Value): string | null => {
   if (value.kind === "text") return value.text
-  if (value.kind === "number") return Number.isFinite(value.number) ? String(value.number) : null
   if (value.kind === "boolean") return value.boolean ? "true" : "false"
+  if (value.kind === "date") return value.date
   return null
+}
+
+/**
+ * A whole number written as its digits, and absent for one that is not whole.
+ *
+ * The digits are spelled in full. Exponent notation would give one value two
+ * spellings, and a value with two spellings is what a name written out of one
+ * cannot have.
+ */
+const digitsOf = (value: Value): Value => {
+  if (value.kind !== "number" || !Number.isInteger(value.number)) return absent
+  return { kind: "text", text: BigInt(value.number).toString() }
 }
 
 /** A text literal, with every reference filled where it stands. */
@@ -156,7 +171,9 @@ const workCall = (expression: Expression & { node: "call" }, values: Values): Va
   const given = expression.arguments.map((argument) => work(argument, values))
   if (given.some((value) => value.kind === "absent")) return absent
   const [first, second] = given
-  if (first === undefined || second === undefined) return absent
+  if (first === undefined) return absent
+  if (expression.name === "text") return digitsOf(first)
+  if (second === undefined) return absent
   if (expression.name === "hoursBetween") {
     if (first.kind !== "instant" || second.kind !== "instant") return absent
     const hours = Math.abs(second.instant - first.instant) / anHour

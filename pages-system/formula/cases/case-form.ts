@@ -14,8 +14,10 @@ import {
   MIXED,
   NAME,
   NOTHING,
+  NUMBER,
   num,
   refused,
+  TEXT,
 } from "./shorthand.ts"
 
 // ---------------------------------------------------------------------------
@@ -234,12 +236,12 @@ export const caseFormCases: FormulaCase[] = [
     group: "case-form",
     from: L.referenceInText,
     claim: C.referenceInText,
-    formula: caseForm([{ test: "{count} > 0", value: '"{count} of them"' }], '"none"'),
-    shape: COUNT,
+    formula: caseForm([{ test: "{count} > 0", value: '"{how-many} of them"' }], '"none"'),
+    shape: { count: { type: NUMBER }, "how-many": { type: TEXT, formula: "text({count})" } },
     values: { count: num(3) },
     expected: answersText("3 of them"),
-    // Filling a number into a text literal is not settled by the
-    // specification; see the questions this corpus was handed back with.
+    // A bare number does not fill a literal. `text` writes one out, on a key of
+    // its own, and the literal then names that key like any other.
   },
   {
     name: "a case with no otherwise row is refused",

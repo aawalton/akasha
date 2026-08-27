@@ -20,6 +20,8 @@ const values: Values = {
     settled: { kind: "boolean", boolean: true },
     unsettled: { kind: "boolean", boolean: false },
     due: { kind: "instant", instant: 12 * anHour },
+    day: { kind: "date", date: "2026-08-27" },
+    ratio: { kind: "number", number: 1.5 },
     tags: { kind: "list", of: "text", items: [{ kind: "text", text: "urgent" }] },
   },
 }
@@ -119,9 +121,29 @@ test("a reference in a text literal is filled where it stands", () => {
   expect(answer('"say: {title}!"')).toEqual({ kind: "text", text: "say: a done deal!" })
 })
 
-test("a number or a boolean fills a text literal as it is written", () => {
-  expect(answer('"{points} points"')).toEqual({ kind: "text", text: "6 points" })
+test("a boolean and a date fill a text literal as they are written", () => {
   expect(answer('"settled: {settled}"')).toEqual({ kind: "text", text: "settled: true" })
+  expect(answer('"on {day}"')).toEqual({ kind: "text", text: "on 2026-08-27" })
+})
+
+test("two dates are the same value where they are the same day", () => {
+  expect(answer("{day} == {day}")).toEqual({ kind: "boolean", boolean: true })
+  expect(answer("{day} == {missing}")).toEqual({ kind: "boolean", boolean: false })
+})
+
+test("text writes a whole number's digits, and absent where the number is not whole", () => {
+  expect(answer("text({points})")).toEqual({ kind: "text", text: "6" })
+  expect(answer("text(0)")).toEqual({ kind: "text", text: "0" })
+  expect(answer("text(0 - 1)")).toEqual({ kind: "text", text: "-1" })
+  expect(answer("text({ratio})")).toEqual(absent)
+  expect(answer("text({missing})")).toEqual(absent)
+})
+
+test("a whole number too big for its runtime's own spelling still writes as digits", () => {
+  expect(answer("text(1000000000000000000000)")).toEqual({
+    kind: "text",
+    text: "1000000000000000000000",
+  })
 })
 
 test("a text literal reaching an absent reference answers absent, and not an empty gap", () => {

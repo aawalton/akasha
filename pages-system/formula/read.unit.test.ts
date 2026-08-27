@@ -197,7 +197,7 @@ test("a case whose only row is its otherwise row reads", () => {
 })
 
 test("a case row written with a bare word other than otherwise names otherwise", () => {
-  expect(refusal('case({a} -> 1, else -> 2)').message).toContain("otherwise")
+  expect(refusal("case({a} -> 1, else -> 2)").message).toContain("otherwise")
 })
 
 test("a single equals is refused, naming the operator that was meant", () => {

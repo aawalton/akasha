@@ -160,6 +160,12 @@ const typeOfText = (
         `\`${part.key}\` holds an instant, which is read only by a function taking one`
       )
     }
+    if (declared.kind === "number") {
+      throw new CheckingRefused(
+        part.at,
+        `\`${part.key}\` holds a number, which a text literal does not write; a key computed \`text({${part.key}})\` does`
+      )
+    }
     absent = true
   }
   return holding("text", absent)
@@ -236,6 +242,14 @@ const typeOfCall = (
     takesArguments(expression, 0)
     return holding("instant", false)
   }
+  if (name === "text") {
+    const given = takesArguments(expression, 1)
+    const only = given[0] as Expression
+    needs(typeOf(only, shape, reads), "number", only, "the argument of `text`")
+    // Always absent: a number that is not whole answers absent, which nothing
+    // about the argument's own type says.
+    return holding("text", true)
+  }
   if (name === "hoursBetween" || name === "contains" || name === "hasWord") {
     const given = takesArguments(expression, 2)
     const first = typeOf(given[0] as Expression, shape, reads)
@@ -271,7 +285,7 @@ const typeOfCall = (
   }
   throw new CheckingRefused(
     expression.at,
-    `no function is named \`${name}\`; the functions are \`now\`, \`hoursBetween\`, \`contains\` and \`hasWord\``
+    `no function is named \`${name}\`; the functions are \`now\`, \`hoursBetween\`, \`contains\`, \`hasWord\` and \`text\``
   )
 }
 

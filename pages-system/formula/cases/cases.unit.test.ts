@@ -123,6 +123,7 @@ test("the functions list names exactly the functions the corpus covers", () => {
     "hoursBetween",
     "contains",
     "hasWord",
+    "text",
   ])
 })
 
@@ -133,6 +134,7 @@ test("the values list names exactly the value kinds the corpus covers", () => {
     "boolean",
     "list",
     "instant",
+    "date",
     "absent",
   ])
 })

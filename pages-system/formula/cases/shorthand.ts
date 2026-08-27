@@ -13,13 +13,13 @@ import type {
 // ---------------------------------------------------------------------------
 
 /**
- * The case form, as `pages/domain/formula-language.domain.md` lines 32, 34 and
- * 38 spell it.
+ * The case form, as `pages/domain/formula-language.domain.md` lines 36, 38 and
+ * 42 spell it.
  *
- * `case(` opens and `)` closes, with the rows separated by commas (line 32). A
- * row is its test, then `->`, then its value (line 34). The last row is an
+ * `case(` opens and `)` closes, with the rows separated by commas (line 36). A
+ * row is its test, then `->`, then its value (line 38). The last row is an
  * `otherwise` row, written with the word `otherwise` where its test would be
- * (line 38), and line 36 requires it.
+ * (line 42), and line 40 requires it.
  *
  *     case({ram} == "64gb" -> 6400, {ram} == "32gb" -> 3200, otherwise -> 0)
  *
@@ -44,7 +44,7 @@ export function caseFormWithoutOtherwise(rows: Array<{ test: string; value: stri
 
 /**
  * A call is its name, then its arguments between parentheses, separated by
- * commas, as `pages/domain/formula-language.domain.md:42` spells it.
+ * commas, as `pages/domain/formula-language.domain.md:46` spells it.
  */
 export function call(name: string, ...args: string[]): string {
   return `${name}(${args.join(", ")})`
@@ -58,12 +58,15 @@ export const TEXT: FormulaType = { kind: "text" }
 export const NUMBER: FormulaType = { kind: "number" }
 export const BOOLEAN: FormulaType = { kind: "boolean" }
 export const INSTANT: FormulaType = { kind: "instant" }
+/** How a page type declares a day. The value under such a key is a date. */
+export const CALENDAR_DATE: FormulaType = { kind: "calendar-date" }
 export const listOf = (of: FormulaType): FormulaType => ({ kind: "list", of })
 
 export const text = (value: string): FormulaValue => ({ kind: "text", text: value })
 export const num = (value: number): FormulaValue => ({ kind: "number", number: value })
 export const bool = (value: boolean): FormulaValue => ({ kind: "boolean", boolean: value })
 export const instant = (value: string): FormulaValue => ({ kind: "instant", instant: value })
+export const date = (value: string): FormulaValue => ({ kind: "date", date: value })
 export const listOfValues = (...values: FormulaValue[]): FormulaValue => ({
   kind: "list",
   list: values,
@@ -73,6 +76,7 @@ export const answers = (value: FormulaValue): Outcome => ({ outcome: "value", va
 export const answersText = (value: string): Outcome => answers(text(value))
 export const answersNumber = (value: number): Outcome => answers(num(value))
 export const answersBoolean = (value: boolean): Outcome => answers(bool(value))
+export const answersDate = (value: string): Outcome => answers(date(value))
 export const ABSENT: Outcome = { outcome: "absent" }
 export const refused = (
   at: RefusalMoment,
@@ -123,27 +127,29 @@ export const namingNo = (page: string, section: string, ...names: string[]): Cit
 export const L = {
   reference: onLine(FORMULA_LANGUAGE, 26),
   referenceInText: onLine(FORMULA_LANGUAGE, 28),
-  chooseWithCase: onLine(FORMULA_LANGUAGE, 30),
-  caseSpelling: onLine(FORMULA_LANGUAGE, 32),
-  caseRowSpelling: onLine(FORMULA_LANGUAGE, 34),
-  everyCaseOtherwise: onLine(FORMULA_LANGUAGE, 36),
-  otherwiseSpelling: onLine(FORMULA_LANGUAGE, 38),
-  onlyWinningRow: onLine(FORMULA_LANGUAGE, 40),
-  callSpelling: onLine(FORMULA_LANGUAGE, 42),
-  computedLikeStored: onLine(FORMULA_LANGUAGE, 44),
-  noNames: onLine(FORMULA_LANGUAGE, 46),
-  cycle: onLine(FORMULA_LANGUAGE, 48),
-  joinsText: onLine(FORMULA_LANGUAGE, 50),
-  precedence: onLine(FORMULA_LANGUAGE, 52),
-  equalBindsLeft: onLine(FORMULA_LANGUAGE, 54),
-  parenthesesGroup: onLine(FORMULA_LANGUAGE, 56),
-  shortCircuit: onLine(FORMULA_LANGUAGE, 58),
-  textLiteral: onLine(FORMULA_LANGUAGE, 60),
-  valueWords: onLine(FORMULA_LANGUAGE, 62),
-  undeclaredKey: onLine(FORMULA_LANGUAGE, 64),
-  typesMeet: onLine(FORMULA_LANGUAGE, 66),
-  answersDeclaredType: onLine(FORMULA_LANGUAGE, 68),
-  neverFails: onLine(FORMULA_LANGUAGE, 70),
+  dateInText: onLine(FORMULA_LANGUAGE, 30),
+  calendarDateProperty: onLine(FORMULA_LANGUAGE, 32),
+  chooseWithCase: onLine(FORMULA_LANGUAGE, 34),
+  caseSpelling: onLine(FORMULA_LANGUAGE, 36),
+  caseRowSpelling: onLine(FORMULA_LANGUAGE, 38),
+  everyCaseOtherwise: onLine(FORMULA_LANGUAGE, 40),
+  otherwiseSpelling: onLine(FORMULA_LANGUAGE, 42),
+  onlyWinningRow: onLine(FORMULA_LANGUAGE, 44),
+  callSpelling: onLine(FORMULA_LANGUAGE, 46),
+  computedLikeStored: onLine(FORMULA_LANGUAGE, 48),
+  noNames: onLine(FORMULA_LANGUAGE, 50),
+  cycle: onLine(FORMULA_LANGUAGE, 52),
+  joinsText: onLine(FORMULA_LANGUAGE, 54),
+  precedence: onLine(FORMULA_LANGUAGE, 56),
+  equalBindsLeft: onLine(FORMULA_LANGUAGE, 58),
+  parenthesesGroup: onLine(FORMULA_LANGUAGE, 60),
+  shortCircuit: onLine(FORMULA_LANGUAGE, 62),
+  textLiteral: onLine(FORMULA_LANGUAGE, 64),
+  valueWords: onLine(FORMULA_LANGUAGE, 66),
+  undeclaredKey: onLine(FORMULA_LANGUAGE, 68),
+  typesMeet: onLine(FORMULA_LANGUAGE, 70),
+  answersDeclaredType: onLine(FORMULA_LANGUAGE, 72),
+  neverFails: onLine(FORMULA_LANGUAGE, 74),
 
   absentOperator: onLine(FORMULA_ABSENT_VALUE, 15),
   absentEquality: onLine(FORMULA_ABSENT_VALUE, 17),
@@ -158,12 +164,14 @@ export const L = {
   valueBoolean: onLine(FORMULA_VALUES, 17),
   valueList: onLine(FORMULA_VALUES, 18),
   valueInstant: onLine(FORMULA_VALUES, 19),
-  valueAbsent: onLine(FORMULA_VALUES, 20),
+  valueDate: onLine(FORMULA_VALUES, 20),
+  valueAbsent: onLine(FORMULA_VALUES, 21),
 
   fnNow: onLine(FORMULA_FUNCTIONS, 15),
   fnHoursBetween: onLine(FORMULA_FUNCTIONS, 16),
   fnContains: onLine(FORMULA_FUNCTIONS, 17),
   fnHasWord: onLine(FORMULA_FUNCTIONS, 18),
+  fnText: onLine(FORMULA_FUNCTIONS, 19),
 
   opPlus: onLine(FORMULA_OPERATORS, 15),
   opMinus: onLine(FORMULA_OPERATORS, 16),
@@ -194,11 +202,14 @@ export const L = {
   noSingleEquals: namingNo(FORMULA_OPERATORS, "List", "="),
   noUpperFunction: namingNo(FORMULA_FUNCTIONS, "List", "upper"),
   noIncludesFunction: namingNo(FORMULA_FUNCTIONS, "List", "includes"),
+  noTodayFunction: namingNo(FORMULA_FUNCTIONS, "List", "today"),
 } as const
 
 export const C = {
   reference: "A formula names a property by putting its key between braces.",
   referenceInText: "A reference inside a text literal is filled where it stands.",
+  dateInText: "A date fills a text literal as it is written.",
+  calendarDateProperty: "A property declared `calendar-date` holds a date.",
   chooseWithCase: "A formula chooses between values with a case, and with nothing else.",
   caseSpelling: "A case is written `case(`, its rows separated by commas, then `)`.",
   caseRowSpelling: "A case row is written as its test, then `->`, then its value.",
@@ -239,6 +250,7 @@ export const C = {
   valueBoolean: "**boolean** — true or false.",
   valueList: "**list** — several values of one kind, in order.",
   valueInstant: "**instant** — a moment in time, which only a function taking one may read.",
+  valueDate: "**date** — a day, written `2026-08-27`.",
   valueAbsent:
     "**absent** — what a formula gets where the page holds nothing under the key it read.",
 
@@ -247,6 +259,7 @@ export const C = {
   fnContains: "**contains** — whether a list holds a value.",
   fnHasWord:
     "**hasWord** — whether a text holds a word, bounded at both ends by anything that is not a letter or a digit, ignoring case.",
+  fnText: "**text** — a whole number written as its digits, and absent for one that is not whole.",
 
   opPlus: "**`+`** — adds one number to another.",
   opMinus:
@@ -278,4 +291,5 @@ export const C = {
   noSingleEquals: "The operators list names `==` and no `=`.",
   noUpperFunction: "The functions list names no `upper`.",
   noIncludesFunction: "The functions list names no `includes`.",
+  noTodayFunction: "The functions list names no `today`.",
 } as const

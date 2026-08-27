@@ -164,9 +164,10 @@ test("a formula answering the type its property declares stands", () => {
   const said = standing({
     count: { type: numberType },
     doubled: { type: numberType, formula: "{count} * 2" },
-    label: { type: textType, formula: '"count {count}"' },
+    "count-text": { type: textType, formula: "text({count})" },
+    label: { type: textType, formula: '"count {count-text}"' },
   })
-  expect([...said.computed.keys()].sort()).toEqual(["doubled", "label"])
+  expect([...said.computed.keys()].sort()).toEqual(["count-text", "doubled", "label"])
 })
 
 test("a formula that only ever answers absent meets any type its property declares", () => {

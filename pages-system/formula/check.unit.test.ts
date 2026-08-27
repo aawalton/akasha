@@ -9,6 +9,7 @@ const shape: Shape = {
   points: { kind: "number" },
   settled: { kind: "boolean" },
   due: { kind: "instant" },
+  day: { kind: "date" },
   tags: { kind: "list", of: "text" },
   sizes: { kind: "list", of: "number" },
 }
@@ -200,9 +201,9 @@ test("a text literal holding a reference can be absent, and one holding none can
   expect(typeOf('"is it"')).toEqual({ holds: { kind: "text" }, absent: false })
 })
 
-test("a number or a boolean may be written into a text literal", () => {
-  expect(typeOf('"{points} points"')).toEqual({ holds: { kind: "text" }, absent: true })
+test("a boolean may be written into a text literal, and a number may not", () => {
   expect(typeOf('"settled: {settled}"')).toEqual({ holds: { kind: "text" }, absent: true })
+  expect(refusal('"{points} points"').message).toContain("a text literal does not write")
 })
 
 test("a list cannot be written into a text literal", () => {
@@ -211,4 +212,28 @@ test("a list cannot be written into a text literal", () => {
 
 test("an instant cannot be written into a text literal", () => {
   expect(refusal('"{due}"').message).toContain("only by a function taking one")
+})
+
+test("a date can be written into a text literal, having one spelling and no other", () => {
+  expect(typeOf('"on {day}"')).toEqual({ holds: { kind: "text" }, absent: true })
+})
+
+test("a date is refused wherever a number or an instant is wanted", () => {
+  for (const source of ["{day} < {day}", "{day} + 1", "{day} * 2", "-{day}"]) {
+    expect(refusal(source).message).toContain("takes a number")
+    expect(refusal(source).message).toContain("holds a date")
+  }
+  expect(refusal("hoursBetween({day}, {due})").message).toContain("takes an instant")
+})
+
+test("equality reaches two dates, which are two values of one kind", () => {
+  expect(typeOf("{day} == {day}")).toEqual({ holds: { kind: "boolean" }, absent: false })
+  expect(refusal("{day} == {title}").message).toContain("one kind")
+})
+
+test("text takes one number and answers a text that can always be absent", () => {
+  expect(typeOf("text({points})")).toEqual({ holds: { kind: "text" }, absent: true })
+  expect(typeOf("text(2)")).toEqual({ holds: { kind: "text" }, absent: true })
+  expect(refusal("text({title})").message).toContain("takes a number")
+  expect(refusal("text()").message).toContain("takes 1 argument")
 })
