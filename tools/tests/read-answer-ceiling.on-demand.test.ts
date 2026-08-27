@@ -4,7 +4,7 @@ import { ANSWER_CEILING } from "../../agent/read-answer.ts"
 import { readingsOf } from "../lib/read-record.ts"
 import { canonicalize } from "../../repo/path/path"
 import { type Fixture, fixture, installGates, installRepos } from "./fixture.ts"
-import { installCommands, plantSeat } from "./seat-fixture.ts"
+import { indexFixture, plantSeat } from "./seat-fixture.ts"
 import { toolArgv } from "../lib/tool-argv.ts"
 const LIVE = `${import.meta.dir}/../..`
 const AGENT = "agent-answer-ceiling"
@@ -33,9 +33,6 @@ beforeEach(() => {
   at = fixture()
   installGates(at.root)
   installRepos(at.root)
-  // THE DISPATCHER FINDS ITS COMMANDS UNDER THE AKASHA ROOT, which is this temp repo, so a root
-  // without the command pages answers `ops: unknown command` rather than reading anything.
-  installCommands(at)
   at.installRecorder(AGENT)
   at.put(
     "pages/domain/global.domain.md",
@@ -48,7 +45,11 @@ beforeEach(() => {
 afterEach(() => at.dispose())
 
 function run(argv: readonly string[]): { readonly code: number; readonly out: string } {
-  Bun.spawnSync(["git", "-C", at.root, "add", "-A", "pages"])
+  // INDEXED HERE RATHER THAN IN THE HOOK, because each case plants its own pages after the hook has
+  // run and this must come after the last of them. `indexFixture` also lands the command pages the
+  // spawned `ops` dispatches from, under this temp root — without them it answers `unknown command`
+  // — and staging alone left every slug in `required-reading-slugs` carrying no page at all.
+  indexFixture(at)
   const log = `${at.root}/answer.log`
   const kept: Record<string, string> = {}
   for (const [key, value] of Object.entries(process.env)) {
