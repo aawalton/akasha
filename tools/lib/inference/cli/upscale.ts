@@ -1,10 +1,10 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { join } from "node:path"
 import { OperationalError } from "@shared/errors-core/exit"
-import { resolveRoots } from "../../../../repo/roots/roots"
+import { akashaRoot } from "../../../../repo/roots/roots"
 
 function upscaleBinPath(scriptName: string): string {
-  return join(resolveRoots().instructions, "packages", "infra", "upscale", "bin", scriptName)
+  return join(akashaRoot(), "infra", "upscale", "bin", scriptName)
 }
 
 async function runUpscaleBin(scriptName: string, args: readonly string[]): Promise<void> {
