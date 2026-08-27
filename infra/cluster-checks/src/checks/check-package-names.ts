@@ -13,13 +13,7 @@ const PACKAGE_JSON_SCHEMA = z.record(z.string(), z.unknown())
 const PREFIX = "[package-names]"
 
 export function expectedPackageName(workspacePath: string): string {
-  const PREFIX_DIR = "packages/"
-  if (!workspacePath.startsWith(PREFIX_DIR))
-    throw new Error(`workspace path must start with "packages/": ${workspacePath}`)
-  const segs = workspacePath
-    .slice(PREFIX_DIR.length)
-    .split("/")
-    .filter((s) => s !== "")
+  const segs = workspacePath.split("/").filter((s) => s !== "")
   if (segs.length < 2)
     throw new Error(`workspace path must have at least scope + one segment: ${workspacePath}`)
   const [scope, ...rest] = segs
