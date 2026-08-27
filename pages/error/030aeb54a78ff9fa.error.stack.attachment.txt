@@ -1,0 +1,11 @@
+Error: usePlayingSession must be used within a <PlayingSessionProvider>
+    at usePlayingSession (http://localhost:3063/@fs/var/home/walton/projects/14763/worktree/packages/shared/pages/ui/src/media/playing-session-context.tsx?t=1783614524179:31:11)
+    at MiniPlayerBar (http://localhost:3063/app/components/mini-player-bar.tsx?t=1783614524179:29:7)
+    at Object.react_stack_bottom_frame (http://localhost:3063/node_modules/.vite/deps/react-dom_client.js?v=0fd0ee33:12866:12)
+    at renderWithHooks (http://localhost:3063/node_modules/.vite/deps/react-dom_client.js?v=0fd0ee33:4213:19)
+    at updateFunctionComponent (http://localhost:3063/node_modules/.vite/deps/react-dom_client.js?v=0fd0ee33:5569:16)
+    at beginWork (http://localhost:3063/node_modules/.vite/deps/react-dom_client.js?v=0fd0ee33:6140:20)
+    at runWithFiberInDEV (http://localhost:3063/node_modules/.vite/deps/react-dom_client.js?v=0fd0ee33:851:66)
+    at performUnitOfWork (http://localhost:3063/node_modules/.vite/deps/react-dom_client.js?v=0fd0ee33:8429:92)
+    at workLoopSync (http://localhost:3063/node_modules/.vite/deps/react-dom_client.js?v=0fd0ee33:8325:37)
+    at renderRootSync (http://localhost:3063/node_modules/.vite/deps/react-dom_client.js?v=0fd0ee33:8309:6)

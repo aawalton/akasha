@@ -1,0 +1,29 @@
+reader-shift-capture  finalDrift=—px onset=none
+refIdx=?  restore=no  baseY=0
+
+signal              base    final       Δ
+scrollY                0       59     +59
+drift(shift)           —        —       —
+safeTop(env)        59.0     59.0    +0.0
+main.padTop         59.0     59.0    +0.0
+vv.height          852.0    852.0    +0.0
+vv.offsetTop         0.0      0.0    +0.0
+vv.pageTop           0.0     59.0   +59.0
+vv.scale            1.00     1.00   +0.00
+innerH               852      852      +0
+doc.clientH          852      852      +0
+doc.scrollH          911      911      +0
+font.literata     loaded   loaded
+chromeHidden           0        0
+
+t   drift  safeTop  padTop  vvOff  y
+  51     —   59.0   59.0   0.0 0
+ 102     —   59.0   59.0   0.0 0
+ 153     —   59.0   59.0   0.0 0
+ 204     —   59.0   59.0   0.0 0
+ 257     —   59.0   59.0   0.0 0
+ 305     —   59.0   59.0   0.0 0
+ 358     —   59.0   59.0   0.0 0
+ 410     —   59.0   59.0   0.0 0
+ 462     —   59.0   59.0   0.0 0
+ 514     —   59.0   59.0   0.0 0
