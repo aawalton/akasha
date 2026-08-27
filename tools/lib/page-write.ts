@@ -275,8 +275,8 @@ function withId(
 const PAGE_SEQ = "seq"
 
 function mintedSeq(roots: Roots, pageType: string): number | undefined {
-  const relPath = pageTypePathIn(roots.instructions, pageType)
-  if (!statesNextSeq(roots.instructions, relPath)) return undefined
+  const relPath = pageTypePathIn(roots.akasha, pageType)
+  if (!statesNextSeq(roots.akasha, relPath)) return undefined
   return takeSeqOf({ pageTypeRelPath: relPath, noun: pageType })
 }
 

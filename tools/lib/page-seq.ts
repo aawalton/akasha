@@ -17,7 +17,7 @@ export interface SeqSource {
 }
 
 export function readNextSeqOf(source: SeqSource): number {
-  const absolute = join(resolveRoots().instructions, source.pageTypeRelPath)
+  const absolute = join(resolveRoots().akasha, source.pageTypeRelPath)
   const stated = textField(parseFrontmatter(readFileSync(absolute, "utf8")), NEXT_SEQ_KEY)
   if (stated === null) {
     throw new Error(
@@ -34,8 +34,8 @@ export function readNextSeqOf(source: SeqSource): number {
   return seq
 }
 
-export function statesNextSeq(instructionsRoot: string, pageTypeRelPath: string): boolean {
-  const absolute = join(instructionsRoot, pageTypeRelPath)
+export function statesNextSeq(root: string, pageTypeRelPath: string): boolean {
+  const absolute = join(root, pageTypeRelPath)
   if (!existsSync(absolute)) return false
   return textField(parseFrontmatter(readFileSync(absolute, "utf8")), NEXT_SEQ_KEY) !== null
 }
@@ -47,7 +47,7 @@ interface Advance {
 
 function uncommitted(relPath: string): boolean {
   const proc = Bun.spawnSync(
-    ["git", "-C", resolveRoots().instructions, "status", "--porcelain", "--", relPath],
+    ["git", "-C", resolveRoots().akasha, "status", "--porcelain", "--", relPath],
     { stdout: "pipe", stderr: "pipe" }
   )
   if ((proc.exitCode ?? 1) !== 0) return false
@@ -55,7 +55,7 @@ function uncommitted(relPath: string): boolean {
 }
 
 function advance(source: SeqSource, seq: number): Advance {
-  const root = resolveRoots().instructions
+  const root = resolveRoots().akasha
   const scratch = mkdtempSync(join(SCRATCH_ROOT, "page-seq-"))
   const payloadPath = join(scratch, "advance.json")
   writeFileSync(
@@ -73,7 +73,7 @@ function advance(source: SeqSource, seq: number): Advance {
         "edit.ts",
         [
           "--repo",
-          "instructions",
+          "akasha",
           "--mechanical",
           "--input-file",
           payloadPath,
@@ -96,7 +96,7 @@ function advance(source: SeqSource, seq: number): Advance {
 }
 
 export function takeSeqOf(source: SeqSource): number {
-  const absolute = join(resolveRoots().instructions, source.pageTypeRelPath)
+  const absolute = join(resolveRoots().akasha, source.pageTypeRelPath)
   return exclusively(`${absolute}${ALLOCATING}`, () => {
     const stoodChanged = uncommitted(source.pageTypeRelPath)
     const seq = readNextSeqOf(source)
