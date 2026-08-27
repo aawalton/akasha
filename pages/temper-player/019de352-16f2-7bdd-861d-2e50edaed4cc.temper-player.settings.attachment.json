@@ -1,0 +1,1255 @@
+{
+  "safety": {
+    "confirmActions": [
+      "sell",
+      "destroy",
+      "buy"
+    ],
+    "openCooldownProtection": true
+  },
+  "logging": {
+    "perfTracing": "minimal",
+    "actionReports": "verbose"
+  },
+  "inventory": {
+    "rules": [
+      {
+        "id": "52020b3f",
+        "title": "Verses → Erin Solstice",
+        "action": "move-to",
+        "active": true,
+        "updatedAt": 1780419822209,
+        "categoryId": "scrolls",
+        "conditions": {
+          "stolen": "not-stolen",
+          "itemNamePattern": "Verse"
+        },
+        "destination": "character:8796093022338107"
+      },
+      {
+        "id": "3535f831",
+        "action": "move-to",
+        "active": true,
+        "updatedAt": 1780428448980,
+        "categoryId": "crown-items",
+        "destination": "house-storage:4677"
+      },
+      {
+        "id": "7a4fc9a3",
+        "action": "move-to",
+        "active": true,
+        "updatedAt": 1780428449381,
+        "categoryId": "crown-repair-kits",
+        "destination": "house-storage:4677"
+      },
+      {
+        "id": "9e71aab6",
+        "action": "move-to",
+        "active": true,
+        "updatedAt": 1780428449755,
+        "categoryId": "group-repair-kits",
+        "destination": "house-storage:4677"
+      },
+      {
+        "id": "d19ba7f4",
+        "notes": "Does nothing to any item the player has locked in-game (ESO item lock), across all categories. Locked is an explicit user signal to protect an item from sell / deconstruct / move; this rule honors it by claiming locked items first so no lower-priority rule can act on them. Positioned at the top of the user rules. NOTE: the 7 automation-controlled stock rules (food, drink, potions, soul-gems, repair-kits, lockpicks, scrolls) are prepended ABOVE all user rules at export, so a locked item in one of those categories can still be stocked/moved by a controlled rule before reaching this guard — protecting those would require a controlled-rule change.",
+        "title": "Protect locked items",
+        "action": "nothing",
+        "active": true,
+        "updatedAt": 1780317349494,
+        "categoryId": "all",
+        "conditions": {
+          "locked": "locked"
+        }
+      },
+      {
+        "id": "gold-stock",
+        "goal": "use",
+        "notes": "Keeps up to 1,000,000 gold on each character. Excess is deposited into the bank when visiting.",
+        "title": "Stock gold",
+        "action": "stock",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "currency-gold",
+        "conditions": {
+          "targetQuantity": 1000000
+        },
+        "stockScope": "any-character"
+      },
+      {
+        "id": "other-currency-bank",
+        "goal": "hoard",
+        "notes": "Deposits alliance points, tel var stones, and writ vouchers into the bank when visiting.",
+        "title": "Bank other currencies",
+        "action": "move-to",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "currency",
+        "destination": "bank"
+      },
+      {
+        "id": "3f8c330f",
+        "notes": "Full 200-stacks route to the Walton Mountain guild bank; the lower-priority Erin rule keeps the partial remainder (first-match-wins).",
+        "title": "Full container stacks → Walton Mountain",
+        "action": "move-to",
+        "active": true,
+        "updatedAt": 1780435908189,
+        "categoryId": "container-stackable",
+        "conditions": {
+          "stackFullness": "full"
+        },
+        "destination": "guild-bank:Walton Mountain"
+      },
+      {
+        "id": "118d98dd",
+        "action": "move-to",
+        "active": true,
+        "updatedAt": 1780432053382,
+        "categoryId": "container-stackable",
+        "destination": "character:8796093022338107"
+      },
+      {
+        "id": "containers-stackable-bank",
+        "goal": "hoard",
+        "notes": "Deposits stackable containers (reward coffers, event boxes, etc.) in the bank. Open them later in bulk or save for events.",
+        "title": "Bank stackable containers",
+        "action": "move-to",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "container-stackable",
+        "destination": "bank"
+      },
+      {
+        "id": "3b55dc81",
+        "notes": "Destroys known containers (reward already owned) with guild-store value < 5000g. Raised from 1000 to match the uniform 5000g line.",
+        "action": "destroy",
+        "active": true,
+        "updatedAt": 1780433368407,
+        "categoryId": "containers",
+        "conditions": {
+          "known": "known",
+          "marketValue": "MIN_LISTING_VALUE",
+          "marketValueOp": "<"
+        }
+      },
+      {
+        "id": "containers-open",
+        "goal": "use",
+        "notes": "Opens containers automatically. The Can Open filter skips containers on game cooldown or when transmute crystal storage is full. The Can Give Max Rewards filter skips containers during the 20-hour reward cooldown.",
+        "title": "Open containers",
+        "action": "open",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "containers",
+        "conditions": {
+          "canOpen": "can-open",
+          "canGiveMaxRewards": "can-give-max-rewards"
+        }
+      },
+      {
+        "id": "companion-epic-nothing",
+        "goal": "equip",
+        "notes": "Prevents epic (purple) quality or higher companion equipment from being affected by lower-priority rules. Place above sell and deconstruct rules to safeguard your best companion gear.",
+        "title": "Protect epic+ companion gear",
+        "action": "move-to",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1780349991449,
+        "categoryId": "companion",
+        "conditions": {
+          "qualityOp": ">=",
+          "maxQuality": 4
+        },
+        "destination": "bank"
+      },
+      {
+        "id": "legendary-nothing",
+        "goal": "equip",
+        "notes": "Prevents legendary (gold) quality equipment from being affected by lower-priority rules. Place above sell and deconstruct rules to safeguard your best gear.",
+        "title": "Protect legendary gear",
+        "action": "nothing",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "equipment",
+        "conditions": {
+          "qualityOp": ">=",
+          "maxQuality": 5
+        }
+      },
+      {
+        "id": "crafted-nothing",
+        "goal": "equip",
+        "notes": "Prevents crafted equipment from being affected by lower-priority rules. Useful for keeping gear you've invested materials into.",
+        "title": "Protect crafted gear",
+        "action": "nothing",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "equipment",
+        "conditions": {
+          "crafted": "crafted"
+        }
+      },
+      {
+        "id": "b5b7365e",
+        "notes": "Moves blue (Superior) and higher non-stolen food to the Food and Drink housing storage container, keeping bulky quality food out of the backpack. Sits above the crafted-consumables protection so crafted quality food is relocated rather than left loose.",
+        "title": "Store quality food",
+        "action": "move-to",
+        "active": true,
+        "updatedAt": 1780315910044,
+        "categoryId": "food",
+        "conditions": {
+          "stolen": "not-stolen",
+          "qualityOp": ">=",
+          "maxQuality": 3
+        },
+        "destination": "house-storage:4675"
+      },
+      {
+        "id": "d21e3976",
+        "notes": "Moves blue (Superior) and higher non-stolen drink to the Food and Drink housing storage container, keeping bulky quality drink out of the backpack. Sits above the crafted-consumables protection so crafted quality drink is relocated rather than left loose.",
+        "title": "Store quality drink",
+        "action": "move-to",
+        "active": true,
+        "updatedAt": 1780315909762,
+        "categoryId": "drink",
+        "conditions": {
+          "stolen": "not-stolen",
+          "qualityOp": ">=",
+          "maxQuality": 3
+        },
+        "destination": "house-storage:4675"
+      },
+      {
+        "id": "8f35e006",
+        "notes": "Gap B1: bank is the deliberate stock home (2-3 chars at a time, manual pulls). Replaces the lock. Must run before f0ce7528.",
+        "title": "Crown tri-pots stay banked",
+        "action": "move-to",
+        "active": true,
+        "updatedAt": 1783257646391,
+        "categoryId": "potions",
+        "conditions": {
+          "itemNamePattern": "Crown Tri-Restoration"
+        },
+        "destination": "bank"
+      },
+      {
+        "id": "f0ce7528",
+        "title": "Stock tri-restoration potions",
+        "action": "stock",
+        "active": true,
+        "updatedAt": 1780463494000,
+        "categoryId": "potions",
+        "conditions": {
+          "stolen": "not-stolen",
+          "potionEffects": [
+            "health-restore",
+            "magicka-restore",
+            "stamina-restore"
+          ],
+          "potionEffectsMode": "all"
+        },
+        "stockScope": "any-character",
+        "destinationChain": [
+          {
+            "destination": "character:by-priority",
+            "targetQuantity": 200
+          },
+          {
+            "destination": "bank"
+          }
+        ]
+      },
+      {
+        "id": "905b4b47",
+        "title": "Stock stamina-restoration potions (white)",
+        "action": "stock",
+        "active": true,
+        "updatedAt": 1780463494381,
+        "categoryId": "potions",
+        "conditions": {
+          "stolen": "not-stolen",
+          "crafted": "not-crafted",
+          "maxQuality": 1,
+          "potionEffects": [
+            "stamina-restore"
+          ],
+          "potionEffectsMode": "any"
+        },
+        "stockScope": "any-character",
+        "destinationChain": [
+          {
+            "destination": "character:by-priority",
+            "targetQuantity": 100
+          },
+          {
+            "destination": "bank"
+          }
+        ]
+      },
+      {
+        "id": "8c4ddebf",
+        "title": "Stock magicka-restoration potions (white)",
+        "action": "stock",
+        "active": true,
+        "updatedAt": 1780463494742,
+        "categoryId": "potions",
+        "conditions": {
+          "stolen": "not-stolen",
+          "crafted": "not-crafted",
+          "maxQuality": 1,
+          "potionEffects": [
+            "magicka-restore"
+          ],
+          "potionEffectsMode": "any"
+        },
+        "stockScope": "any-character",
+        "destinationChain": [
+          {
+            "destination": "character:by-priority",
+            "targetQuantity": 100
+          },
+          {
+            "destination": "bank"
+          }
+        ]
+      },
+      {
+        "id": "b2aa4438",
+        "notes": "Moves blue (Superior) and higher non-stolen potions to the Potions and Poisons housing storage container, keeping bulky quality potions out of the backpack. Sits above the crafted-consumables protection so crafted quality potions are relocated rather than left loose.",
+        "title": "Store quality potions",
+        "action": "move-to",
+        "active": true,
+        "updatedAt": 1780316295323,
+        "categoryId": "potions",
+        "conditions": {
+          "stolen": "not-stolen",
+          "qualityOp": ">=",
+          "maxQuality": 3
+        },
+        "destination": "house-storage:4674"
+      },
+      {
+        "id": "f48e4c64",
+        "notes": "Moves blue (Superior) and higher non-stolen poisons to the Potions and Poisons housing storage container, keeping bulky quality poisons out of the backpack. Sits above the crafted-consumables protection so crafted quality poisons are relocated rather than left loose.",
+        "title": "Store quality poisons",
+        "action": "move-to",
+        "active": true,
+        "updatedAt": 1780316295614,
+        "categoryId": "poisons",
+        "conditions": {
+          "stolen": "not-stolen",
+          "qualityOp": ">=",
+          "maxQuality": 3
+        },
+        "destination": "house-storage:4674"
+      },
+      {
+        "id": "crafted-consumables-nothing",
+        "goal": "use",
+        "notes": "Prevents crafted food, drink, potions, poisons, and glyphs from being affected by lower-priority rules. Crafted consumables take ingredients and time to make — this keeps them safe from accidental sell or destroy rules.",
+        "title": "Protect crafted consumables",
+        "action": "nothing",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "consumables",
+        "conditions": {
+          "crafted": "crafted"
+        }
+      },
+      {
+        "id": "reconstructed-nothing",
+        "goal": "equip",
+        "notes": "Prevents reconstructed equipment from being affected by lower-priority rules. Reconstructed gear costs transmute crystals and set collection knowledge.",
+        "title": "Protect reconstructed gear",
+        "action": "nothing",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "equipment",
+        "conditions": {
+          "reconstructed": "reconstructed"
+        }
+      },
+      {
+        "id": "transmuted-nothing",
+        "goal": "equip",
+        "notes": "Prevents transmuted equipment from being affected by lower-priority rules. Transmuted gear represents a transmute crystal investment.",
+        "title": "Protect transmuted gear",
+        "action": "nothing",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "equipment",
+        "conditions": {
+          "transmuted": "transmuted"
+        }
+      },
+      {
+        "id": "unlock-stolen",
+        "goal": "unlock",
+        "notes": "Launders stolen items that can teach something (motifs, recipes, etc.) so they can be used. Place before other unlock rules.",
+        "title": "Launder stolen unlockables",
+        "action": "fence-launder",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "knowledge",
+        "conditions": {
+          "stolen": "stolen",
+          "canUnlock": "can-unlock"
+        }
+      },
+      {
+        "id": "acb23368",
+        "goal": "sell",
+        "notes": "Sells Psijic Ambrosia recipe fragments (Fragment I–IV) regardless of quality. Item: 64702–64705.",
+        "title": "Sell Psijic Ambrosia recipe fragments",
+        "action": "sell",
+        "active": true,
+        "updatedAt": 1778191837410,
+        "categoryId": "recipe-fragments",
+        "conditions": {
+          "canSell": "can-sell",
+          "itemNamePattern": "Recipe: Psijic Ambrosia"
+        }
+      },
+      {
+        "id": "dd546170",
+        "goal": "destroy",
+        "notes": "Destroys style pages already learned (canUnlock=cannot-unlock) with guild-store value < 5000g and no merchant sell value (merchantValue 0). Pairs with the >=5000g list rule to close the 1000-5000g gap: learned + below-list-threshold + unsellable -> destroy. Destroy is default-confirmed via the safety dialog.",
+        "title": "Destroy learned style pages below the 5000g list line",
+        "action": "destroy",
+        "active": true,
+        "updatedAt": 1780433368795,
+        "categoryId": "style-pages",
+        "conditions": {
+          "canUnlock": "cannot-unlock",
+          "marketValue": "MIN_LISTING_VALUE",
+          "marketValueOp": "<",
+          "merchantValue": 0
+        }
+      },
+      {
+        "id": "df7b2fe2",
+        "goal": "sell",
+        "notes": "Lists style pages you cannot unlock (already known / wrong class) with guild-store value >= 5000g. Raised from 1000 to match the uniform 5000g list line.",
+        "title": "List learned valuable style pages on guild store",
+        "action": "list",
+        "active": true,
+        "updatedAt": 1780433369157,
+        "categoryId": "style-pages",
+        "conditions": {
+          "canUnlock": "cannot-unlock",
+          "marketValue": "MIN_LISTING_VALUE",
+          "marketValueOp": ">=",
+          "canListAtGuildTrader": "can-list-at-guild-trader"
+        },
+        "destination": "character:8796093022338107"
+      },
+      {
+        "id": "03ee5fa2",
+        "title": "Knowledge-collectibles fragments to Trophies chest",
+        "action": "move-to",
+        "active": true,
+        "updatedAt": 1780318414875,
+        "categoryId": "knowledge-collectibles",
+        "destination": "house-storage:4680"
+      },
+      {
+        "id": "unlock-by-priority",
+        "goal": "unlock",
+        "notes": "Uses items that teach something new — motifs, recipes, style pages, furnishing plans, etc. If the current character can learn the item, it's used immediately. For recipes (character-specific knowledge), the addon checks the current character only (ESO API limitation).",
+        "title": "Use unlockables",
+        "action": "use",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "knowledge",
+        "conditions": {
+          "canUnlock": "can-unlock"
+        },
+        "destination": "character:by-priority"
+      },
+      {
+        "id": "72039e8e",
+        "title": "All stolen scrolls → launder",
+        "action": "fence-launder",
+        "active": true,
+        "updatedAt": 1780351321494,
+        "categoryId": "scrolls",
+        "conditions": {
+          "stolen": "stolen"
+        }
+      },
+      {
+        "id": "440d6e66",
+        "title": "Counterfeit Pardon Edict → stock 10/char (justice WIP)",
+        "action": "stock",
+        "active": true,
+        "updatedAt": 1780458418890,
+        "categoryId": "scrolls",
+        "conditions": {
+          "stolen": "not-stolen",
+          "itemNamePattern": "Counterfeit Pardon Edict"
+        },
+        "destinationChain": [
+          {
+            "destination": "character:by-priority",
+            "targetQuantity": 10,
+            "charEligibility": {
+              "requiredSkillLines": {
+                "mode": "any-not-maxed",
+                "skillLineIds": [
+                  "world-legerdemain",
+                  "guild-thieves-guild",
+                  "guild-dark-brotherhood"
+                ]
+              }
+            }
+          },
+          {
+            "destination": "bank"
+          }
+        ]
+      },
+      {
+        "id": "263273e9",
+        "title": "All non-stolen scrolls → Crown Items",
+        "action": "move-to",
+        "active": true,
+        "updatedAt": 1780351322448,
+        "categoryId": "scrolls",
+        "conditions": {
+          "stolen": "not-stolen"
+        },
+        "destination": "house-storage:4677"
+      },
+      {
+        "id": "26fb56ce",
+        "goal": "hoard",
+        "notes": "Launders stolen lockpicks so they can be banked or used instead of fence-sold.",
+        "title": "Launder stolen lockpicks",
+        "action": "fence-launder",
+        "active": true,
+        "updatedAt": 1780252761682,
+        "categoryId": "lockpicks",
+        "conditions": {
+          "stolen": "stolen"
+        }
+      },
+      {
+        "id": "778017a4",
+        "goal": "sell",
+        "notes": "Vendor-sells furnishings with guild-store value < 5000g (excluding legendary). Raised from 1000 to match the uniform 5000g line; furnishings >= 5000g still route to furniture-vault via furnishings-house-storage.",
+        "title": "Sell low-value furnishings",
+        "action": "sell",
+        "active": true,
+        "updatedAt": 1780433369524,
+        "categoryId": "furnishings",
+        "conditions": {
+          "canSell": "can-sell",
+          "maxQuality": 4,
+          "marketValue": "MIN_LISTING_VALUE",
+          "marketValueOp": "<"
+        }
+      },
+      {
+        "id": "furnishings-house-storage",
+        "goal": "hoard",
+        "notes": "Moves furnishings to the furniture vault (house storage) when visiting the bank. Keeps your backpack clear of bulky furniture items.",
+        "title": "Store furniture in housing",
+        "action": "move-to",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "furnishings",
+        "destination": "furniture-vault"
+      },
+      {
+        "id": "311cfd8b",
+        "notes": "Gap A2: fuzzy reserve parked with the other trophies (Alan 2026-07-03). First-class category since #14629.",
+        "title": "Skill scrolls to Trophies",
+        "action": "move-to",
+        "active": true,
+        "updatedAt": 1783257645993,
+        "categoryId": "skill-scrolls",
+        "destination": "house-storage:4680"
+      },
+      {
+        "id": "valuable-nothing",
+        "goal": "hoard",
+        "notes": "Lists any item with guild-store value (marketValue) >= 5000g that can be listed at a guild trader. Single guild-value gate (no vendor-value constraint). Pairs with low-quality-sell: >=5000 list, <5000 vendor-sell.",
+        "title": "List items worth >=5000g at guild store",
+        "action": "list",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1780433377762,
+        "categoryId": "all",
+        "conditions": {
+          "marketValue": "MIN_LISTING_VALUE",
+          "marketValueOp": ">=",
+          "canListAtGuildTrader": "can-list-at-guild-trader"
+        },
+        "destination": "character:8796093022338107"
+      },
+      {
+        "id": "research-stolen",
+        "goal": "unlock",
+        "notes": "Launders stolen equipment with a researchable trait so it can be submitted at a crafting station. Place before other research rules.",
+        "title": "Launder stolen researchables",
+        "action": "fence-launder",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "equipment",
+        "conditions": {
+          "stolen": "stolen",
+          "canResearch": "can-research"
+        }
+      },
+      {
+        "id": "research-by-priority",
+        "goal": "unlock",
+        "notes": "Routes equipment with researchable traits to the character that needs them most. Characters are checked in priority order using TemperCharacters saved variable data for cross-character trait knowledge. The current character is checked first via the ESO API; others are checked via saved data.",
+        "title": "Research traits",
+        "action": "research",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910700238,
+        "categoryId": "equipment",
+        "conditions": {
+          "canResearch": "can-research"
+        },
+        "destination": "character:by-priority"
+      },
+      {
+        "id": "ornate-sell",
+        "goal": "sell",
+        "notes": "Sells equipment with the Ornate trait. Ornate items sell for more gold at merchants and have no crafting use.",
+        "title": "Sell ornate gear",
+        "action": "sell",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "equipment",
+        "conditions": {
+          "traits": [
+            "ornate"
+          ],
+          "canSell": "can-sell"
+        }
+      },
+      {
+        "id": "inspire-stolen",
+        "goal": "progress",
+        "notes": "Launders stolen equipment that would give useful crafting inspiration, so it can be deconstructed. Place before other inspiration rules.",
+        "title": "Launder stolen inspiration",
+        "action": "fence-launder",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "equipment",
+        "conditions": {
+          "stolen": "stolen",
+          "canInspire": "can-inspire"
+        }
+      },
+      {
+        "id": "inspire-current",
+        "goal": "progress",
+        "notes": "Routes equipment for deconstruction to the highest-priority character who hasn't fully leveled the corresponding crafting skill. If the current character benefits, the item is deconstructed locally; otherwise it's routed via the bank.",
+        "title": "Deconstruct for inspiration",
+        "action": "deconstruct",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "equipment",
+        "conditions": {
+          "canInspire": "can-inspire"
+        },
+        "destination": "character:by-priority"
+      },
+      {
+        "id": "tasks-stolen",
+        "goal": "task",
+        "notes": "Launders stolen task-type items (writs, maps, etc.) so they can be completed or banked.",
+        "title": "Launder stolen task items",
+        "action": "fence-launder",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "tasks",
+        "conditions": {
+          "stolen": "stolen"
+        }
+      },
+      {
+        "id": "holiday-writs-bank",
+        "goal": "task",
+        "notes": "Stashes holiday event writs in the bank. Complete them during events for bonus rewards.",
+        "title": "Bank holiday writs",
+        "action": "move-to",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1783253654074,
+        "categoryId": "holiday-writs",
+        "destination": "guild-bank:Walton Mountain"
+      },
+      {
+        "id": "master-writs-bank",
+        "goal": "task",
+        "notes": "Stashes master writs in the bank. Master writs reward writ vouchers for high-end crafting station furnishings.",
+        "title": "Bank master writs",
+        "action": "move-to",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "master-writs",
+        "destination": "bank"
+      },
+      {
+        "id": "2524af23",
+        "action": "move-to",
+        "active": true,
+        "updatedAt": 1780432311801,
+        "categoryId": "survey-reports",
+        "destination": "character:8796093022338107"
+      },
+      {
+        "id": "2ff0574b",
+        "action": "move-to",
+        "active": true,
+        "updatedAt": 1780431345094,
+        "categoryId": "treasure-maps",
+        "destination": "character:8796093022338107"
+      },
+      {
+        "id": "treasure-maps-bank",
+        "goal": "task",
+        "notes": "Stashes treasure maps in the bank for later use. Treasure maps lead to chests with set gear.",
+        "title": "Bank treasure maps",
+        "action": "move-to",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "treasure-maps",
+        "destination": "bank"
+      },
+      {
+        "id": "soul-gems-empty-bank",
+        "goal": "task",
+        "notes": "Deposits empty (white quality) soul gems in the bank. Filled and crown soul gems are kept.",
+        "title": "Bank empty soul gems",
+        "action": "move-to",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "soul-gems",
+        "conditions": {
+          "maxQuality": 1
+        },
+        "destination": "bank"
+      },
+      {
+        "id": "museum-pieces-nothing",
+        "goal": "task",
+        "notes": "Prevents museum pieces from being affected by lower-priority rules. These are turn-in items for collections or achievements.",
+        "title": "Protect museum pieces",
+        "action": "nothing",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "museum-pieces"
+      },
+      {
+        "id": "quest-items-nothing",
+        "goal": "task",
+        "notes": "Prevents quest-related items from being affected by lower-priority rules. Keep them safe until the associated quest is completed.",
+        "title": "Protect quest items",
+        "action": "nothing",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "quest-items"
+      },
+      {
+        "id": "equipment-deconstruct",
+        "goal": "hoard",
+        "notes": "Deconstructs non-crafted equipment that wasn't caught by higher-priority rules. Place below equip, research, and inspire rules to only deconstruct what's left over.",
+        "title": "Deconstruct leftover equipment",
+        "action": "deconstruct",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "equipment",
+        "conditions": {
+          "crafted": "not-crafted"
+        }
+      },
+      {
+        "id": "glyphs-deconstruct",
+        "goal": "hoard",
+        "notes": "Deconstructs non-crafted glyphs for enchanting materials. Yields runes that can be reused in crafting.",
+        "title": "Deconstruct glyphs",
+        "action": "deconstruct",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "glyphs",
+        "conditions": {
+          "crafted": "not-crafted"
+        }
+      },
+      {
+        "id": "crafting-stolen",
+        "goal": "hoard",
+        "notes": "Launders stolen crafting materials so they can be deposited or used.",
+        "title": "Launder crafting materials",
+        "action": "fence-launder",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "crafting",
+        "conditions": {
+          "stolen": "stolen"
+        }
+      },
+      {
+        "id": "crafting-craft-bag",
+        "goal": "hoard",
+        "notes": "Moves crafting materials to the craft bag when visiting the bank. Requires ESO Plus or a craft bag entitlement. If you do not have ESO Plus, toggle off craft bag access in the ESO Plus panel above — the destination will be redirected to the bank automatically.",
+        "title": "Stow crafting materials",
+        "action": "move-to",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "crafting",
+        "destination": "craft-bag"
+      },
+      {
+        "id": "treasures-epic-stolen",
+        "goal": "hoard",
+        "notes": "Launders stolen treasures of epic quality or higher. These are worth keeping — sell them legitimately or bank for later.",
+        "title": "Launder epic+ treasures",
+        "action": "fence-launder",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "treasures",
+        "conditions": {
+          "stolen": "stolen",
+          "qualityOp": ">=",
+          "maxQuality": 4
+        }
+      },
+      {
+        "id": "tools-bank",
+        "goal": "hoard",
+        "notes": "Deposits tools (lockpicks, repair kits, etc.) in the bank for safekeeping.",
+        "title": "Stock tools",
+        "action": "stock",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1783257653393,
+        "categoryId": "tools",
+        "stockScope": "any-character",
+        "destination": "bank",
+        "destinationChain": [
+          {
+            "destination": "character:by-priority",
+            "targetQuantity": 200
+          },
+          {
+            "destination": "bank"
+          }
+        ]
+      },
+      {
+        "id": "treasures-epic-bank",
+        "goal": "hoard",
+        "notes": "Banks epic quality or higher treasures for safekeeping or later sale.",
+        "title": "Bank epic+ treasures",
+        "action": "move-to",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "treasures",
+        "conditions": {
+          "qualityOp": ">=",
+          "maxQuality": 4
+        },
+        "destination": "bank"
+      },
+      {
+        "id": "49fa3b24",
+        "title": "Toys → destroy",
+        "action": "destroy",
+        "active": true,
+        "updatedAt": 1778169495050,
+        "categoryId": "trophy-toys"
+      },
+      {
+        "id": "trophies-bank",
+        "goal": "hoard",
+        "notes": "Deposits miscellaneous trophies (keys, key fragments, toys, dungeon buff ingredients, material upgraders) in the bank for safekeeping.",
+        "title": "Bank trophies",
+        "action": "move-to",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "trophies",
+        "destination": "bank"
+      },
+      {
+        "id": "alliance-war-bank",
+        "goal": "hoard",
+        "notes": "Deposits Alliance War items (siege equipment, forward camps, repair kits, etc.) in the bank for safekeeping.",
+        "title": "Bank Alliance War items",
+        "action": "move-to",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "alliance-war",
+        "destination": "bank"
+      },
+      {
+        "id": "trash-sell",
+        "goal": "sell",
+        "notes": "Sells items categorized as trash. These have no crafting or collectible value.",
+        "title": "Sell trash",
+        "action": "sell",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "trash",
+        "conditions": {
+          "canSell": "can-sell"
+        }
+      },
+      {
+        "id": "junk-sell",
+        "goal": "sell",
+        "notes": "Sells items in the junk category at a merchant.",
+        "title": "Sell junk",
+        "action": "sell",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "junk",
+        "conditions": {
+          "canSell": "can-sell"
+        }
+      },
+      {
+        "id": "companion-green-sell",
+        "goal": "sell",
+        "notes": "Sells companion equipment of superior (blue) quality or lower. Higher-quality companion gear is preserved.",
+        "title": "Sell low-quality companion gear",
+        "action": "sell",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "companion",
+        "conditions": {
+          "canSell": "can-sell",
+          "maxQuality": 3
+        }
+      },
+      {
+        "id": "treasures-stolen-fence",
+        "goal": "sell",
+        "notes": "Sells stolen treasures at a fence. Stolen treasures can't be sold to normal merchants.",
+        "title": "Fence stolen treasures",
+        "action": "fence-sell",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "treasures",
+        "conditions": {
+          "stolen": "stolen"
+        }
+      },
+      {
+        "id": "treasures-sell",
+        "goal": "sell",
+        "notes": "Sells treasures up to superior (blue) quality at a merchant. Higher-quality treasures are preserved for banking or guild store listing.",
+        "title": "Sell common treasures",
+        "action": "sell",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "treasures",
+        "conditions": {
+          "canSell": "can-sell",
+          "maxQuality": 3
+        }
+      },
+      {
+        "id": "fc1c9638",
+        "goal": "sell",
+        "notes": "Lists recipes you've already learned (known) with guild-store value >= 5000g. Raised from 1000 to match the uniform 5000g list line; known recipes under 5000g now route to the generic vendor-sell rule.",
+        "title": "List known valuable recipes on guild store",
+        "action": "list",
+        "active": true,
+        "updatedAt": 1780433377020,
+        "categoryId": "recipes",
+        "conditions": {
+          "known": "known",
+          "marketValue": "MIN_LISTING_VALUE",
+          "marketValueOp": ">=",
+          "canListAtGuildTrader": "can-list-at-guild-trader"
+        },
+        "destination": "character:8796093022338107"
+      },
+      {
+        "id": "potions-normal-sell",
+        "goal": "sell",
+        "notes": "Sells normal (white) quality non-crafted potions. Crafted and higher-quality potions are kept.",
+        "title": "Sell basic potions",
+        "action": "sell",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "potions",
+        "conditions": {
+          "canSell": "can-sell",
+          "crafted": "not-crafted",
+          "maxQuality": 1
+        }
+      },
+      {
+        "id": "poisons-normal-sell",
+        "goal": "sell",
+        "notes": "Sells normal (white) quality non-crafted poisons. Crafted and higher-quality poisons are kept.",
+        "title": "Sell basic poisons",
+        "action": "sell",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "poisons",
+        "conditions": {
+          "canSell": "can-sell",
+          "crafted": "not-crafted",
+          "maxQuality": 1
+        }
+      },
+      {
+        "id": "food-normal-sell",
+        "goal": "sell",
+        "notes": "Sells normal (white) quality non-crafted food. Crafted and higher-quality food is kept.",
+        "title": "Sell basic food",
+        "action": "sell",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1783254237288,
+        "categoryId": "food",
+        "conditions": {
+          "canSell": "can-sell",
+          "crafted": "not-crafted",
+          "maxQuality": 2
+        }
+      },
+      {
+        "id": "drink-normal-sell",
+        "goal": "sell",
+        "notes": "Sells normal (white) quality non-crafted drinks. Crafted and higher-quality drinks are kept.",
+        "title": "Sell basic drinks",
+        "action": "sell",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1783253867953,
+        "categoryId": "drink",
+        "conditions": {
+          "canSell": "can-sell",
+          "crafted": "not-crafted",
+          "maxQuality": 2
+        }
+      },
+      {
+        "id": "low-quality-sell",
+        "goal": "sell",
+        "notes": "Sells any sellable item with guild-store value (marketValue) < 5000g to a vendor, excluding legendary (quality 5) items. Value-axis sibling of valuable-nothing (list >= 5000).",
+        "title": "Vendor-sell sub-5000g non-legendary items",
+        "action": "sell",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1780433378124,
+        "categoryId": "all",
+        "conditions": {
+          "canSell": "can-sell",
+          "maxQuality": 4,
+          "marketValue": "MIN_LISTING_VALUE",
+          "marketValueOp": "<"
+        }
+      },
+      {
+        "id": "worthless-destroy",
+        "goal": "destroy",
+        "notes": "Destroys normal (white) quality items that have no guild store value and no merchant value. Place at the very bottom — only items not caught by any higher-priority rule are destroyed.",
+        "title": "Destroy worthless items",
+        "action": "destroy",
+        "active": true,
+        "locked": true,
+        "updatedAt": 1777910671132,
+        "categoryId": "all",
+        "conditions": {
+          "maxQuality": 1,
+          "marketValue": 0
+        }
+      },
+      {
+        "id": "90d1aa3b",
+        "goal": "Dispose of scribing scripts once every character knows them",
+        "title": "Sell known scripts",
+        "action": "sell",
+        "active": true,
+        "updatedAt": 1780426661940,
+        "categoryId": "scripts",
+        "conditions": {
+          "known": "known"
+        }
+      },
+      {
+        "id": "3acee2c7",
+        "notes": "Disposal spine step 5: known-by-all recipes to merchant; valuable ones list first via fc1c9638. Closes gap A1.",
+        "title": "Sell known recipes",
+        "action": "sell",
+        "active": true,
+        "updatedAt": 1783257637492,
+        "categoryId": "recipes",
+        "conditions": {
+          "known": "known",
+          "canSell": "can-sell"
+        }
+      },
+      {
+        "id": "8edf08cb",
+        "notes": "Disposal spine step 5: learned + sellable + sub-list-line. Closes gap A3.",
+        "title": "Sell learned style pages",
+        "action": "sell",
+        "active": true,
+        "updatedAt": 1783257638006,
+        "categoryId": "style-pages",
+        "conditions": {
+          "canSell": "can-sell",
+          "canUnlock": "cannot-unlock"
+        }
+      },
+      {
+        "id": "8d1e1c96",
+        "notes": "Disposal spine step 5. Closes gap A4.",
+        "title": "Sell known motif chapters",
+        "action": "sell",
+        "active": true,
+        "updatedAt": 1783257638496,
+        "categoryId": "motif-chapters",
+        "conditions": {
+          "canSell": "can-sell",
+          "canUnlock": "cannot-unlock"
+        }
+      },
+      {
+        "id": "d5eaa312",
+        "notes": "Spine step 6: below-superior drink with no merchant value (event drinks) cannot fall to the sell rules - destroy. Companion to the raised drink sell floor (A5).",
+        "title": "Destroy unsellable low drinks",
+        "action": "destroy",
+        "active": true,
+        "updatedAt": 1783258363468,
+        "categoryId": "drink",
+        "conditions": {
+          "crafted": "not-crafted",
+          "maxQuality": 2,
+          "merchantValue": 0
+        }
+      },
+      {
+        "id": "0b8c6920",
+        "notes": "Spine step 6, food parallel to drink (Alan 2026-07-05: food and drink parallel).",
+        "title": "Destroy unsellable low food",
+        "action": "destroy",
+        "active": true,
+        "updatedAt": 1783258363766,
+        "categoryId": "food",
+        "conditions": {
+          "crafted": "not-crafted",
+          "maxQuality": 2,
+          "merchantValue": 0
+        }
+      }
+    ],
+    "version": 2,
+    "buyRules": [
+      {
+        "id": "0e353660-3bf3-427e-85e4-79c825c695a7",
+        "active": true,
+        "itemId": 30357,
+        "source": "merchant",
+        "itemName": "Lockpick",
+        "updatedAt": 1780316148618,
+        "targetQuantity": 4000
+      }
+    ],
+    "itemRules": [
+      {
+        "id": "32c22942-9127-47a9-9754-f877b356132b",
+        "action": "stock",
+        "active": true,
+        "itemId": 87697,
+        "itemName": "Witchmother's Potent Brew",
+        "updatedAt": 1783274045504,
+        "destination": "character:by-priority",
+        "stockQuantity": 100
+      },
+      {
+        "id": "9aea8293-0e8d-4c8b-a95a-eea8fcfe36bb",
+        "action": "stock",
+        "active": true,
+        "itemId": 120763,
+        "itemName": "Dubious Camoran Throne",
+        "updatedAt": 1783274039791,
+        "destination": "character:by-priority",
+        "stockQuantity": 100
+      }
+    ],
+    "managed-guild-banks": {
+      "managedGuildBanks": [
+        "Walton Mountain"
+      ]
+    }
+  },
+  "automation": {
+    "global": {
+      "characters": {
+        "food": true,
+        "repair": true,
+        "potions": true,
+        "recharge": true,
+        "soulGems": true,
+        "lockpicks": true,
+        "dailyWrits": true,
+        "repairKits": true,
+        "masterWrits": true,
+        "dailyWritAlchemy": true,
+        "dailyWritClothier": true,
+        "experienceScrolls": true,
+        "dailyWritEnchanting": true,
+        "dailyWritWoodworking": true,
+        "dailyWritProvisioning": true,
+        "dailyWritBlacksmithing": true,
+        "dailyWritJewelrycrafting": true
+      },
+      "companions": {
+        "skills": true
+      }
+    },
+    "characters": {},
+    "companions": {}
+  }
+}
