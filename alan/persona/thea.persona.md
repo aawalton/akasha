@@ -13,7 +13,7 @@ scale-slug: green-day-units
 query-slug: persona-green-day-units-on-day
 query-argument: persona
 query-key: thea
-championed-domain-slug: code-quality
+championed-domain-slug: checks-system
 role-slug: definer
 value-slug: wealth
 origin: greek

@@ -3,7 +3,7 @@ id: 5374623d-f527-5c8b-83ce-23cafbde4da9
 page-type-slug: domain
 title: "Work system"
 slug: work-system
-domain-parent-slug: domain/global
+domain-parent-slug: domain/domain-system
 sequence-slugs:
   - domain/priorities
   - page-type/initiative
